@@ -7,7 +7,7 @@ if sys.stdout.encoding != 'utf-8':
     sys.stdout.reconfigure(encoding='utf-8')
 
 src_folder = r"D:\minecraft mod trung\Immersive Fight 4.2.9 - Cai Dat Nhanh"
-zip_out = r"D:\minecraft mod trung\Immersive Fight 4.2.9 - Cai Dat 1 Cham (Forge 1.20.1).zip"
+zip_out = r"D:\minecraft mod trung\Immersive Fight 4.2.9 - Viet Hoa (Forge 1.20.1).zip"
 
 print(f"=== ĐÓNG GÓI ZIP PHÁT HÀNH ===")
 print(f"Nguồn: {src_folder}")
