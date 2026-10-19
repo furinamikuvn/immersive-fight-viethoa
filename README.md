@@ -86,5 +86,6 @@ Truy cập tab **[Releases](https://github.com/furinamikuvn/immersive-fight-viet
 
 ## 👥 Tác Quyền & Lời Cảm Ơn
 
-- **Tác giả Modpack gốc:** [Latxx (辣某人)](https://bbsmc.net/modpack/immersive-fight/versions) — Người tạo nên modpack *Immersive Fight*.
+- **Tác giả Modpack gốc:** [Latxx (辣某人)](https://bbsmc.net/modpack/immersive-fight/versions) — Người tạo modpack *Immersive Fight*. Cảm ơn vì đã cho phép tôi đăng tải Modpack công khai.
+- **Người thực hiện việt hóa:** Nukumizu
 ---
