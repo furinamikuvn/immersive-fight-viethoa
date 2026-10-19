@@ -1652,17 +1652,17 @@
   "gui.xaero_compass_north": {
     "en": "N",
     "zh": "北",
-    "vi": "phía bắc"
+    "vi": "Bắc"
   },
   "gui.xaero_compass_east": {
     "en": "E",
     "zh": "东",
-    "vi": "Phía đông"
+    "vi": "Đông"
   },
   "gui.xaero_compass_south": {
     "en": "S",
     "zh": "南",
-    "vi": "Phía nam"
+    "vi": "Nam"
   },
   "gui.xaero_compass_west": {
     "en": "W",

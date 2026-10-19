@@ -37,11 +37,11 @@
   "minecraft.item_tag": "Thẻ mục",
   "minecraft.fuel": "nhiên liệu",
   "minecraft.stack": "đống",
-  "facing.east": "Phía đông",
+  "facing.east": "Đông",
   "facing.west": "Tây",
-  "facing.up": "thượng đẳng",
+  "facing.up": "Lên",
   "facing.down": "Xuống",
-  "facing.south": "Phía nam",
-  "facing.north": "phía bắc",
+  "facing.south": "Nam",
+  "facing.north": "Bắc",
   "gui.reset": "r"
 }
