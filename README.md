@@ -2,7 +2,6 @@
 
 [![Minecraft 1.20.1](https://img.shields.io/badge/Minecraft-1.20.1-brightgreen.svg?style=for-the-badge&logo=minecraft)](https://www.minecraft.net/)
 [![Forge](https://img.shields.io/badge/Forge-47.3.0%2B-orange.svg?style=for-the-badge)](https://files.minecraftforge.net/)
-[![Status](https://img.shields.io/badge/Localization-100%25%20Complete-blue.svg?style=for-the-badge)](#)
 [![Release](https://img.shields.io/badge/Release-v4.2.9-purple.svg?style=for-the-badge)](https://github.com/furinamikuvn/immersive-fight-viethoa/releases)
 
 Dự án bản địa hóa toàn diện modpack **Immersive Fight (沉浸战斗) v4.2.9** dành cho Minecraft Java Edition (Forge 1.20.1). 
