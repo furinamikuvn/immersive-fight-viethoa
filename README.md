@@ -1,4 +1,4 @@
-# ⚔️ IMMERSIVE FIGHT (沉浸战斗) v4.2.9 — BẢN VIỆT HÓA TOÀN DIỆN 100%
+# ⚔️ IMMERSIVE FIGHT (沉浸战斗) v4.2.9 — BẢN VIỆT HÓA
 
 [![Minecraft 1.20.1](https://img.shields.io/badge/Minecraft-1.20.1-brightgreen.svg?style=for-the-badge&logo=minecraft)](https://www.minecraft.net/)
 [![Forge](https://img.shields.io/badge/Forge-47.3.0%2B-orange.svg?style=for-the-badge)](https://files.minecraftforge.net/)
