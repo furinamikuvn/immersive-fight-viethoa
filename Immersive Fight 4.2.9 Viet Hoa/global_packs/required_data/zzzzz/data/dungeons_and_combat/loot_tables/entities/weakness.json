@@ -1,0 +1,7 @@
+{
+  "type": "minecraft:entity",
+  "pools": [
+  
+  ],
+  "random_sequence": "dungeons_and_combat:entities/weakness"
+}

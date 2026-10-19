@@ -1,0 +1,45 @@
+{
+	icon: "level_hp:heartcontainers"
+	id: "645A5555522FF701"
+	loot_size: 1
+	order_index: 9
+	rewards: [
+		{
+			command: "/function minecraft:bosshealth_1_0"
+			icon: "level_hp:heartcontainers"
+			title: "Máu BOSS x1.0"
+			type: "command"
+		}
+		{
+			command: "/function minecraft:bosshealth_2_0"
+			icon: "level_hp:heartcontainers"
+			title: "Máu BOSS x2.0"
+			type: "command"
+		}
+		{
+			command: "/function minecraft:bosshealth_3_0"
+			icon: "level_hp:heartcontainers"
+			title: "Máu BOSS x3.0"
+			type: "command"
+		}
+		{
+			command: "/function minecraft:bosshealth_4_0"
+			icon: "level_hp:heartcontainers"
+			title: "Máu BOSS x4.0"
+			type: "command"
+		}
+		{
+			command: "/function minecraft:bosshealth_5_0"
+			icon: "level_hp:heartcontainers"
+			title: "Máu BOSS x5.0"
+			type: "command"
+		}
+		{
+			command: "/function minecraft:bosshealth_10_0"
+			icon: "level_hp:heartcontainers"
+			title: "Máu BOSS x10.0"
+			type: "command"
+		}
+	]
+	title: "Hệ Số Máu BOSS"
+}

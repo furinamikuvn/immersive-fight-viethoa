@@ -1,0 +1,59 @@
+{
+  "fortune+0.1": {
+    "title": "+0.1 May Mắn",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "diamond"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_skills:player.fortune",
+          "value": 0.1,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "step_height+0.4625": {
+    "title": "Tự Động Leo Dốc",
+    "icon": {
+      "type": "effect",
+      "data": {
+        "effect": "haste"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "forge:step_height_addition",
+          "value": 0.4625,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "resistance+100": {
+    "title": "Kháng Cự 100",
+    "icon": {
+      "type": "effect",
+      "data": {
+        "effect": "resistance"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_skills:player.resistance",
+          "value": 1,
+          "operation": "multiply_total"
+        }
+      }
+    ]
+  }
+}

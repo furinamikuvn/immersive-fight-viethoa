@@ -1,0 +1,742 @@
+{
+  "advancements.husbandry.beehive.title": {
+    "en": "Be Keeper",
+    "zh": "蜂流人物",
+    "vi": "số liệu về dòng ong"
+  },
+  "advancements.husbandry.beehive.description": {
+    "en": "Obtain all beehive types",
+    "zh": "收集所有种类的蜂箱",
+    "vi": "Thu thập tất cả các loại tổ ong"
+  },
+  "advancements.adventure.kill_iceologer.title": {
+    "en": "I was here, i lived, i..",
+    "zh": "我曾来过",
+    "vi": "tôi đã ở đây"
+  },
+  "advancements.adventure.kill_iceologer.description": {
+    "en": "Kill the iceologer",
+    "zh": "杀死冰术师",
+    "vi": "Giết người băng"
+  },
+  "advancements.adventure.kill_illusioner.title": {
+    "en": "World of illusion",
+    "zh": "迷幻世界",
+    "vi": "thế giới ảo giác"
+  },
+  "advancements.adventure.kill_illusioner.description": {
+    "en": "Kill the illusioner... if he is even real",
+    "zh": "杀死幻术师...如果他是真实存在的话",
+    "vi": "Giết kẻ ảo tưởng...nếu hắn có thật"
+  },
+  "advancements.husbandry.shear_a_moobloom.title": {
+    "en": "MooBoom!",
+    "zh": "哞哞！",
+    "vi": "moo!"
+  },
+  "advancements.husbandry.shear_a_moobloom.description": {
+    "en": "Shear a moobloom",
+    "zh": "从哞花身上剪下花朵",
+    "vi": "Cắt hoa từ hoa moo"
+  },
+  "advancements.adventure.summon_copper_golem.title": {
+    "en": "Off you go",
+    "zh": "动起来吧",
+    "vi": "Hãy di chuyển"
+  },
+  "advancements.adventure.summon_copper_golem.description": {
+    "en": "Summon a copper golem",
+    "zh": "召唤一只铜傀儡",
+    "vi": "Triệu hồi một con golem đồng"
+  },
+  "advancements.husbandry.tame_a_glare.title": {
+    "en": "Grumpy and Cute",
+    "zh": "凶凶的小可爱",
+    "vi": "Cô bé dễ thương dữ dội"
+  },
+  "advancements.husbandry.tame_a_glare.description": {
+    "en": "Tame a glare",
+    "zh": "驯服一只怒目怪",
+    "vi": "Chế ngự một con quái vật phát sáng"
+  },
+  "advancements.adventure.the_magicians.title": {
+    "en": "The Magicians",
+    "zh": "魔术师",
+    "vi": "ảo thuật gia"
+  },
+  "advancements.adventure.the_magicians.description": {
+    "en": "Kill all three illager magicians",
+    "zh": "杀死所有三种灾厄村民法师",
+    "vi": "Giết cả ba pháp sư illager"
+  },
+  "advancements.adventure.it_bites.title": {
+    "en": "It Bites",
+    "zh": "它咬我！",
+    "vi": "Nó cắn tôi!"
+  },
+  "advancements.adventure.it_bites.description": {
+    "en": "Kill the mauler",
+    "zh": "杀死大胃怪",
+    "vi": "Giết Gawker"
+  },
+  "advancements.survival.activate_zombie_horse_trap.title": {
+    "en": "Riders On The Storm",
+    "zh": "风暴中的骑手",
+    "vi": "tay đua trong cơn bão"
+  },
+  "advancements.survival.activate_zombie_horse_trap.description": {
+    "en": "Activate a zombie horse trap",
+    "zh": "触发一个僵尸马陷阱",
+    "vi": "Kích hoạt bẫy ngựa zombie"
+  },
+  "advancements.nether.find_citadel.title": {
+    "en": "A fortress? No, a citadel!",
+    "zh": "下界要塞？不，一座城堡！",
+    "vi": "Pháo đài Nether? Không, một lâu đài!"
+  },
+  "advancements.nether.find_citadel.description": {
+    "en": "Enter a Nether citadel",
+    "zh": "进入一座下界城堡",
+    "vi": "Bước vào một lâu đài nether"
+  },
+  "advancements.nether.kill_wildfire.title": {
+    "en": "Drop it like it's hot",
+    "zh": "烫手的山芋",
+    "vi": "khoai tây nóng"
+  },
+  "advancements.nether.kill_wildfire.description": {
+    "en": "Kill the wildfire",
+    "zh": "杀死野火",
+    "vi": "tiêu diệt cháy rừng"
+  },
+  "advancements.nether.obtain_wildfire_crown.title": {
+    "en": "Who's da New King of Nether?",
+    "zh": "谁才是地狱的新统治者？",
+    "vi": "Kẻ thống trị mới của địa ngục là ai?"
+  },
+  "advancements.nether.obtain_wildfire_crown.description": {
+    "en": "Have a wildfire crown in your inventory",
+    "zh": "在物品栏中拥有野火王冠",
+    "vi": "Có Wildfire Crown trong kho của bạn"
+  },
+  "advancements.adventure.complete_hide_and_seek_game.title": {
+    "en": "Hide and Seek",
+    "zh": "捉迷藏",
+    "vi": "trốn tìm"
+  },
+  "advancements.adventure.complete_hide_and_seek_game.description": {
+    "en": "Find a rascal three times in its little game",
+    "zh": "在淘气鬼的小游戏中寻找到其三次",
+    "vi": "Tìm anh ta ba lần trong mini-game Naughty"
+  },
+  "block.friendsandfoes.buttercup": {
+    "en": "Buttercup",
+    "zh": "毛茛",
+    "vi": "Buttercup"
+  },
+  "block.minecraft.beehive": {
+    "en": "Oak Beehive",
+    "zh": "橡木蜂箱",
+    "vi": "Oak Beehive"
+  },
+  "block.friendsandfoes.acacia_beehive": {
+    "en": "Acacia Beehive",
+    "zh": "金合欢木蜂箱",
+    "vi": "Acacia Beehive"
+  },
+  "block.friendsandfoes.bamboo_beehive": {
+    "en": "Bamboo Beehive",
+    "zh": "竹蜂箱",
+    "vi": "Bamboo Beehive"
+  },
+  "block.friendsandfoes.birch_beehive": {
+    "en": "Birch Beehive",
+    "zh": "白桦木蜂箱",
+    "vi": "Birch Beehive"
+  },
+  "block.friendsandfoes.cherry_beehive": {
+    "en": "Cherry Beehive",
+    "zh": "樱花木蜂箱",
+    "vi": "Cherry Beehive"
+  },
+  "block.friendsandfoes.crimson_beehive": {
+    "en": "Crimson Beehive",
+    "zh": "绯红木蜂箱",
+    "vi": "Crimson Beehive"
+  },
+  "block.friendsandfoes.dark_oak_beehive": {
+    "en": "Dark Oak Beehive",
+    "zh": "深色橡木蜂箱",
+    "vi": "Dark Oak Beehive"
+  },
+  "block.friendsandfoes.jungle_beehive": {
+    "en": "Jungle Beehive",
+    "zh": "从林木蜂箱",
+    "vi": "Jungle Beehive"
+  },
+  "block.friendsandfoes.mangrove_beehive": {
+    "en": "Mangrove Beehive",
+    "zh": "红树木蜂箱",
+    "vi": "Mangrove Beehive"
+  },
+  "block.friendsandfoes.spruce_beehive": {
+    "en": "Spruce Beehive",
+    "zh": "云杉木蜂箱",
+    "vi": "Spruce Beehive"
+  },
+  "block.friendsandfoes.warped_beehive": {
+    "en": "Warped Beehive",
+    "zh": "诡异木蜂箱",
+    "vi": "Warped Beehive"
+  },
+  "block.friendsandfoes.copper_button": {
+    "en": "Copper Button",
+    "zh": "铜按钮",
+    "vi": "Copper Button"
+  },
+  "block.friendsandfoes.exposed_copper_button": {
+    "en": "Exposed Copper Button",
+    "zh": "斑驳的铜按钮",
+    "vi": "Exposed Copper Button"
+  },
+  "block.friendsandfoes.weathered_copper_button": {
+    "en": "Weathered Copper Button",
+    "zh": "锈蚀的铜按钮",
+    "vi": "Weathered Copper Button"
+  },
+  "block.friendsandfoes.oxidized_copper_button": {
+    "en": "Oxidized Copper Button",
+    "zh": "氧化的铜按钮",
+    "vi": "Oxidized Copper Button"
+  },
+  "block.friendsandfoes.waxed_copper_button": {
+    "en": "Waxed Copper Button",
+    "zh": "涂蜡铜按钮",
+    "vi": "Waxed Copper Button"
+  },
+  "block.friendsandfoes.waxed_exposed_copper_button": {
+    "en": "Waxed Exposed Copper Button",
+    "zh": "斑驳的涂蜡铜按钮",
+    "vi": "Waxed Exposed Copper Button"
+  },
+  "block.friendsandfoes.waxed_weathered_copper_button": {
+    "en": "Waxed Weathered Copper Button",
+    "zh": "锈蚀的涂蜡铜按钮",
+    "vi": "Waxed Weathered Copper Button"
+  },
+  "block.friendsandfoes.waxed_oxidized_copper_button": {
+    "en": "Waxed Oxidized Copper Button",
+    "zh": "氧化的涂蜡铜按钮",
+    "vi": "Waxed Oxidized Copper Button"
+  },
+  "block.friendsandfoes.exposed_lightning_rod": {
+    "en": "Exposed Lightning Rod",
+    "zh": "斑驳的避雷针",
+    "vi": "Exposed Lightning Rod"
+  },
+  "block.friendsandfoes.weathered_lightning_rod": {
+    "en": "Weathered Lightning Rod",
+    "zh": "锈蚀的避雷针",
+    "vi": "Weathered Lightning Rod"
+  },
+  "block.friendsandfoes.oxidized_lightning_rod": {
+    "en": "Oxidized Lightning Rod",
+    "zh": "氧化的避雷针",
+    "vi": "Oxidized Lightning Rod"
+  },
+  "block.friendsandfoes.waxed_lightning_rod": {
+    "en": "Waxed Lightning Rod",
+    "zh": "涂蜡避雷针",
+    "vi": "Waxed Lightning Rod"
+  },
+  "block.friendsandfoes.waxed_exposed_lightning_rod": {
+    "en": "Waxed Exposed Lightning Rod",
+    "zh": "斑驳的涂蜡避雷针",
+    "vi": "Waxed Exposed Lightning Rod"
+  },
+  "block.friendsandfoes.waxed_weathered_lightning_rod": {
+    "en": "Waxed Weathered Lightning Rod",
+    "zh": "锈蚀的涂蜡避雷针",
+    "vi": "Waxed Weathered Lightning Rod"
+  },
+  "block.friendsandfoes.waxed_oxidized_lightning_rod": {
+    "en": "Waxed Oxidized Lightning Rod",
+    "zh": "氧化的涂蜡避雷针",
+    "vi": "Waxed Oxidized Lightning Rod"
+  },
+  "block.friendsandfoes.potted_buttercup": {
+    "en": "Potted Buttercup",
+    "zh": "毛茛盆栽",
+    "vi": "Potted Buttercup"
+  },
+  "block.friendsandfoes.crab_egg": {
+    "en": "Crab Egg",
+    "zh": "螃蟹卵",
+    "vi": "Crab Egg"
+  },
+  "entity.minecraft.villager.beekeeper": {
+    "en": "Beekeeper",
+    "zh": "养蜂人",
+    "vi": "Beekeeper"
+  },
+  "entity.minecraft.villager.friendsandfoes.beekeeper": {
+    "en": "Beekeeper",
+    "zh": "养蜂人",
+    "vi": "Beekeeper"
+  },
+  "entity.friendsandfoes.copper_golem": {
+    "en": "Copper Golem",
+    "zh": "铜傀儡",
+    "vi": "Copper Golem"
+  },
+  "entity.friendsandfoes.crab": {
+    "en": "Crab",
+    "zh": "螃蟹",
+    "vi": "Crab"
+  },
+  "entity.friendsandfoes.glare": {
+    "en": "Glare",
+    "zh": "怒目怪",
+    "vi": "Glare"
+  },
+  "entity.friendsandfoes.iceologer": {
+    "en": "Iceologer",
+    "zh": "冰术师",
+    "vi": "Iceologer"
+  },
+  "entity.friendsandfoes.moobloom": {
+    "en": "Moobloom",
+    "zh": "哞花",
+    "vi": "Moobloom"
+  },
+  "entity.friendsandfoes.rascal": {
+    "en": "Rascal",
+    "zh": "淘气鬼",
+    "vi": "Rascal"
+  },
+  "entity.friendsandfoes.mauler": {
+    "en": "Mauler",
+    "zh": "大胃怪",
+    "vi": "Mauler"
+  },
+  "entity.friendsandfoes.tuff_golem": {
+    "en": "Tuff Golem",
+    "zh": "凝灰岩傀儡",
+    "vi": "Tuff Golem"
+  },
+  "entity.friendsandfoes.wildfire": {
+    "en": "Wildfire",
+    "zh": "野火",
+    "vi": "Wildfire"
+  },
+  "entity.friendsandfoes.player_illusion": {
+    "en": "Player Illusion",
+    "zh": "玩家幻象",
+    "vi": "Player Illusion"
+  },
+  "effect.friendsandfoes.reach": {
+    "en": "Reach",
+    "zh": "触及",
+    "vi": "chạm"
+  },
+  "effect.friendsandfoes.reach.description": {
+    "en": "Increases the range of block interaction.",
+    "zh": "增加方块交互范围。",
+    "vi": "Tăng phạm vi tương tác của các khối."
+  },
+  "item_group.friendsandfoes.main_tab": {
+    "en": "Friends & Foes",
+    "zh": "友与敌",
+    "vi": "Bạn bè và kẻ thù"
+  },
+  "item.friendsandfoes.buttercup": {
+    "en": "Buttercup",
+    "zh": "毛茛",
+    "vi": "Buttercup"
+  },
+  "item.friendsandfoes.glare_spawn_egg": {
+    "en": "Glare Spawn Egg",
+    "zh": "怒目怪刷怪蛋",
+    "vi": "Glare Spawn Egg"
+  },
+  "item.friendsandfoes.copper_golem_spawn_egg": {
+    "en": "Copper Golem Spawn Egg",
+    "zh": "铜傀儡刷怪蛋",
+    "vi": "Copper Golem Spawn Egg"
+  },
+  "item.friendsandfoes.crab_spawn_egg": {
+    "en": "Crab Spawn Egg",
+    "zh": "螃蟹刷怪蛋",
+    "vi": "Crab Spawn Egg"
+  },
+  "item.friendsandfoes.iceologer_spawn_egg": {
+    "en": "Iceologer Spawn Egg",
+    "zh": "冰术师刷怪蛋",
+    "vi": "Iceologer Spawn Egg"
+  },
+  "item.friendsandfoes.illusioner_spawn_egg": {
+    "en": "Illusioner Spawn Egg",
+    "zh": "幻术师刷怪蛋",
+    "vi": "Illusioner Spawn Egg"
+  },
+  "item.friendsandfoes.mauler_spawn_egg": {
+    "en": "Mauler Spawn Egg",
+    "zh": "大胃怪刷怪蛋",
+    "vi": "Mauler Spawn Egg"
+  },
+  "item.friendsandfoes.moobloom_spawn_egg": {
+    "en": "Moobloom Spawn Egg",
+    "zh": "哞花刷怪蛋",
+    "vi": "Moobloom Spawn Egg"
+  },
+  "item.friendsandfoes.rascal_spawn_egg": {
+    "en": "Rascal Spawn Egg",
+    "zh": "淘气鬼刷怪蛋",
+    "vi": "Rascal Spawn Egg"
+  },
+  "item.friendsandfoes.tuff_golem_spawn_egg": {
+    "en": "Tuff Golem Spawn Egg",
+    "zh": "凝灰岩傀儡刷怪蛋",
+    "vi": "Tuff Golem Spawn Egg"
+  },
+  "item.friendsandfoes.wildfire_spawn_egg": {
+    "en": "Wildfire Spawn Egg",
+    "zh": "野火刷怪蛋",
+    "vi": "Wildfire Spawn Egg"
+  },
+  "item.friendsandfoes.crab_claw": {
+    "en": "Crab Claw",
+    "zh": "蟹钳",
+    "vi": "Crab Claw"
+  },
+  "item.friendsandfoes.totem_of_freezing": {
+    "en": "Totem of Freezing",
+    "zh": "冰冻图腾",
+    "vi": "Totem of Freezing"
+  },
+  "item.friendsandfoes.totem_of_illusion": {
+    "en": "Totem of Illusion",
+    "zh": "幻象图腾",
+    "vi": "Totem of Illusion"
+  },
+  "item.friendsandfoes.wildfire_crown": {
+    "en": "Wildfire Crown",
+    "zh": "野火王冠",
+    "vi": "Wildfire Crown"
+  },
+  "item.friendsandfoes.wildfire_crown_fragment": {
+    "en": "Wildfire Crown Fragment",
+    "zh": "野火王冠碎片",
+    "vi": "Wildfire Crown Fragment"
+  },
+  "item.minecraft.potion.effect.reaching": {
+    "en": "Potion of Reaching",
+    "zh": "触及药水",
+    "vi": "Potion of Reaching"
+  },
+  "item.minecraft.splash_potion.effect.reaching": {
+    "en": "Splash Potion of Reaching",
+    "zh": "喷溅型触及药水",
+    "vi": "Splash Potion of Reaching"
+  },
+  "item.minecraft.lingering_potion.effect.reaching": {
+    "en": "Lingering Potion of Reaching",
+    "zh": "滞留型触及药水",
+    "vi": "Lingering Potion of Reaching"
+  },
+  "item.minecraft.tipped_arrow.effect.reaching": {
+    "en": "Arrow of Reaching",
+    "zh": "触及之箭",
+    "vi": "mũi tên chạm vào"
+  },
+  "subtitle.entity.friendsandfoes.glare.ambient": {
+    "en": "Glare flies",
+    "zh": "怒目怪飞翔",
+    "vi": "Quái vật mắt giận dữ đang bay"
+  },
+  "subtitle.entity.friendsandfoes.glare.death": {
+    "en": "Glare dies",
+    "zh": "怒目怪死亡",
+    "vi": "cái chết của quái vật phát sáng"
+  },
+  "subtitle.entity.friendsandfoes.glare.eat": {
+    "en": "Glare eats",
+    "zh": "怒目怪进食",
+    "vi": "Quái vật chói mắt ăn"
+  },
+  "subtitle.entity.friendsandfoes.glare.grumpiness": {
+    "en": "Glare grumps",
+    "zh": "怒目怪抱怨",
+    "vi": "Growler phàn nàn"
+  },
+  "subtitle.entity.friendsandfoes.glare.grumpiness_short": {
+    "en": "Glare grumps",
+    "zh": "怒目怪抱怨",
+    "vi": "Growler phàn nàn"
+  },
+  "subtitle.entity.friendsandfoes.glare.hurt": {
+    "en": "Glare hurts",
+    "zh": "怒目怪受伤",
+    "vi": "Quái vật chói lóa bị thương"
+  },
+  "subtitle.entity.friendsandfoes.glare.rustle": {
+    "en": "Glare grumps",
+    "zh": "怒目怪抱怨",
+    "vi": "Growler phàn nàn"
+  },
+  "subtitle.entity.friendsandfoes.glare.shake": {
+    "en": "Glare shakes off glow berries",
+    "zh": "怒目怪甩掉发光浆果",
+    "vi": "Growler rũ bỏ những quả mọng phát sáng"
+  },
+  "subtitle.entity.friendsandfoes.copper_golem.death": {
+    "en": "Copper Golem dies",
+    "zh": "铜傀儡死亡",
+    "vi": "cái chết của golem đồng"
+  },
+  "subtitle.entity.friendsandfoes.copper_golem.head_spin": {
+    "en": "Copper Golem spins head",
+    "zh": "铜傀儡旋转头部",
+    "vi": "Đầu xoay con rối bằng đồng"
+  },
+  "subtitle.entity.friendsandfoes.copper_golem.hurt": {
+    "en": "Copper Golem hurts",
+    "zh": "铜傀儡受伤",
+    "vi": "Con rối đồng bị thương"
+  },
+  "subtitle.entity.friendsandfoes.copper_golem.repair": {
+    "en": "Copper Golem repaired",
+    "zh": "铜傀儡被修复",
+    "vi": "Con golem đồng đã được sửa chữa"
+  },
+  "subtitle.entity.friendsandfoes.crab.death": {
+    "en": "Crab dies",
+    "zh": "螃蟹死亡",
+    "vi": "cua chết"
+  },
+  "subtitle.entity.friendsandfoes.crab.hurt": {
+    "en": "Crab hurts",
+    "zh": "螃蟹受伤",
+    "vi": "cua bị thương"
+  },
+  "subtitle.entity.friendsandfoes.iceologer.ambient": {
+    "en": "Iceologer murmurs",
+    "zh": "冰术师低语",
+    "vi": "Lời thì thầm của Icemancer"
+  },
+  "subtitle.entity.friendsandfoes.iceologer.cast_spell": {
+    "en": "Iceologer casts spell",
+    "zh": "冰术师施法",
+    "vi": "Icemancer sử dụng phép thuật"
+  },
+  "subtitle.entity.friendsandfoes.iceologer.death": {
+    "en": "Iceologer dies",
+    "zh": "冰术师死亡",
+    "vi": "Người làm băng chết"
+  },
+  "subtitle.entity.friendsandfoes.iceologer.hurt": {
+    "en": "Iceologer hurts",
+    "zh": "冰术师受伤",
+    "vi": "Iceman bị thương"
+  },
+  "subtitle.entity.friendsandfoes.iceologer.prepare_slowness": {
+    "en": "Iceologer prepares slowness",
+    "zh": "冰术师准备缓慢法术",
+    "vi": "Icemancer chuẩn bị bùa phép làm chậm"
+  },
+  "subtitle.entity.friendsandfoes.iceologer.prepare_summon": {
+    "en": "Iceologer prepares summoning",
+    "zh": "冰术师准备召唤",
+    "vi": "Icemancer chuẩn bị triệu hồi"
+  },
+  "subtitle.entity.friendsandfoes.ice_chunk.ambient": {
+    "en": "Ice chunk cracks",
+    "zh": "冰块碎裂",
+    "vi": "Khối băng vỡ"
+  },
+  "subtitle.entity.friendsandfoes.ice_chunk.hit": {
+    "en": "Ice chunk falls",
+    "zh": "冰块坠落",
+    "vi": "Khối băng rơi"
+  },
+  "subtitle.entity.friendsandfoes.ice_chunk.summon": {
+    "en": "Ice chunk cracks",
+    "zh": "冰块碎裂",
+    "vi": "Khối băng vỡ"
+  },
+  "subtitle.entity.friendsandfoes.mauler.bite": {
+    "en": "Mauler bites",
+    "zh": "大胃怪撕咬",
+    "vi": "Vết cắn của quái vật bụng to"
+  },
+  "subtitle.entity.friendsandfoes.mauler.death": {
+    "en": "Mauler dies",
+    "zh": "大胃怪死亡",
+    "vi": "Cái chết của quái vật bụng to"
+  },
+  "subtitle.entity.friendsandfoes.mauler.growl": {
+    "en": "Mauler growls",
+    "zh": "大胃怪低吼",
+    "vi": "Quái vật bụng to gầm gừ"
+  },
+  "subtitle.entity.friendsandfoes.mauler.hurt": {
+    "en": "Mauler hurts",
+    "zh": "大胃怪受伤",
+    "vi": "Quái vật dạ dày bị thương"
+  },
+  "subtitle.entity.friendsandfoes.moobloom.convert": {
+    "en": "Moobloom transforms",
+    "zh": "哞花转化",
+    "vi": "chuyển đổi Moohua"
+  },
+  "subtitle.entity.friendsandfoes.player.mirror_move": {
+    "en": "Player displaces",
+    "zh": "玩家位移",
+    "vi": "sự dịch chuyển của người chơi"
+  },
+  "subtitle.entity.friendsandfoes.rascal.ambient": {
+    "en": "Rascal taunts",
+    "zh": "淘气鬼嘲弄",
+    "vi": "Cậu bé nghịch ngợm trêu chọc"
+  },
+  "subtitle.entity.friendsandfoes.rascal.disappear": {
+    "en": "Rascal disappears",
+    "zh": "淘气鬼消失",
+    "vi": "Cậu bé nghịch ngợm biến mất"
+  },
+  "subtitle.entity.friendsandfoes.rascal.nod": {
+    "en": "Rascal nods",
+    "zh": "淘气鬼点头",
+    "vi": "Cậu bé nghịch ngợm gật đầu."
+  },
+  "subtitle.entity.friendsandfoes.rascal.hurt": {
+    "en": "Rascal hurts",
+    "zh": "淘气鬼受伤",
+    "vi": "cậu bé nghịch ngợm bị thương"
+  },
+  "subtitle.entity.friendsandfoes.rascal.reappear": {
+    "en": "Rascal appears",
+    "zh": "淘气鬼出现",
+    "vi": "Cậu bé nghịch ngợm xuất hiện"
+  },
+  "subtitle.entity.friendsandfoes.rascal.reward": {
+    "en": "Rascal gives reward",
+    "zh": "淘气鬼给予奖励",
+    "vi": "Cậu bé nghịch ngợm trao phần thưởng"
+  },
+  "subtitle.entity.friendsandfoes.rascal.reward_bad": {
+    "en": "Rascal gives bad reward",
+    "zh": "淘气鬼给予不良奖励",
+    "vi": "Cậu bé nghịch ngợm tặng thưởng xấu"
+  },
+  "subtitle.entity.friendsandfoes.shield_debris.impact": {
+    "en": "Shield debris impacted",
+    "zh": "护盾碎片击中",
+    "vi": "Mảnh khiên trúng vào"
+  },
+  "subtitle.entity.friendsandfoes.tuff_golem.glue_on": {
+    "en": "Tuff Golem glued",
+    "zh": "凝灰岩傀儡被粘合",
+    "vi": "Tuff Golem được liên kết"
+  },
+  "subtitle.entity.friendsandfoes.tuff_golem.glue_off": {
+    "en": "Tuff Golem unglued",
+    "zh": "凝灰岩傀儡被分离",
+    "vi": "Tuff Golem bị tách ra"
+  },
+  "subtitle.entity.friendsandfoes.tuff_golem.hurt": {
+    "en": "Tuff Golem hurts",
+    "zh": "凝灰岩傀儡受伤",
+    "vi": "Tuff Golem bị thương"
+  },
+  "subtitle.entity.friendsandfoes.tuff_golem.move": {
+    "en": "Tuff Golem moves",
+    "zh": "凝灰岩傀儡移动",
+    "vi": "Di chuyển Golem Tuff"
+  },
+  "subtitle.entity.friendsandfoes.tuff_golem.repair": {
+    "en": "Tuff Golem repaired",
+    "zh": "凝灰岩傀儡被修复",
+    "vi": "Tuff Golem đã được sửa"
+  },
+  "subtitle.entity.friendsandfoes.tuff_golem.wake": {
+    "en": "Tuff Golem wakes up",
+    "zh": "凝灰岩傀儡苏醒",
+    "vi": "Tuff Golem thức tỉnh"
+  },
+  "subtitle.entity.friendsandfoes.tuff_golem.sleep": {
+    "en": "Tuff Golem goes to sleep",
+    "zh": "凝灰岩傀儡入睡",
+    "vi": "Tuff Golem đang ngủ"
+  },
+  "subtitle.entity.friendsandfoes.wildfire.ambient": {
+    "en": "Wildfire breathes",
+    "zh": "野火呼吸",
+    "vi": "hơi thở cháy rừng"
+  },
+  "subtitle.entity.friendsandfoes.wildfire.death": {
+    "en": "Wildfire dies",
+    "zh": "野火死亡",
+    "vi": "tử vong do cháy rừng"
+  },
+  "subtitle.entity.friendsandfoes.wildfire.hurt": {
+    "en": "Wildfire hurts",
+    "zh": "野火受伤",
+    "vi": "vết thương do cháy rừng"
+  },
+  "subtitle.entity.friendsandfoes.wildfire.shield_break": {
+    "en": "Wildfire's shield brokes",
+    "zh": "野火的盾牌破碎",
+    "vi": "Lá chắn của Wildfire vỡ tan"
+  },
+  "subtitle.entity.friendsandfoes.wildfire.shockwave": {
+    "en": "Wildfire shockwaves",
+    "zh": "野火冲击波",
+    "vi": "vụ cháy rừng"
+  },
+  "subtitle.entity.friendsandfoes.wildfire.shoot": {
+    "en": "Wildfire shoots",
+    "zh": "野火射击",
+    "vi": "vụ nổ súng cháy rừng"
+  },
+  "subtitle.entity.friendsandfoes.wildfire.summon_blaze": {
+    "en": "Wildfire summons blazes",
+    "zh": "野火召唤烈焰人",
+    "vi": "Cháy rừng triệu tập ngọn lửa"
+  },
+  "friendsandfoes.totem_trigger_tooltip": {
+    "en": "Triggers when taking damage and health falls below half of your max health.",
+    "zh": "在受到伤害且生命值低于最大生命值一半时触发。",
+    "vi": "Được kích hoạt khi nhận sát thương và có ít hơn một nửa lượng máu tối đa của bạn."
+  },
+  "trinkets.slot.charm.charm": {
+    "en": "Charm",
+    "zh": "饰品",
+    "vi": "phụ kiện"
+  },
+  "text.betterf3.line.glares": {
+    "en": "Glares",
+    "zh": "怒目怪",
+    "vi": "quái vật chói mắt"
+  },
+  "text.betterf3.line.rascals": {
+    "en": "Rascals",
+    "zh": "淘气鬼",
+    "vi": "cậu bé nghịch ngợm"
+  },
+  "subtitle.entity.friendsandfoes.copper_golem.step": {
+    "en": null,
+    "zh": "脚步声",
+    "vi": null
+  },
+  "subtitle.entity.friendsandfoes.tuff_golem.step": {
+    "en": null,
+    "zh": "脚步声",
+    "vi": null
+  },
+  "subtitle.entity.friendsandfoes.wildfire.step": {
+    "en": null,
+    "zh": "脚步声",
+    "vi": null
+  }
+}

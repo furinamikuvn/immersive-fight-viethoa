@@ -1,0 +1,17 @@
+{
+  "name": "Sword on a Stick (Kiếm Buộc Gậy)",
+  "icon": "simplyswords:sword_on_a_stick",
+  "advancement": "simplyswords:sword_on_a_stick",
+  "category": "simplyswords:category_unique_weapons",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:sword_on_a_stick",
+      "text": "Thanh kiếm truyền kỳ tối thượng lưu truyền qua bao thế hệ hào hùng, chiến tích vang vọng khắp đại lục."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Nội dung trang trước đều là bịa đấy. Nghĩ kỹ mà xem, đây thực chất chỉ là một thanh kiếm buộc thêm cây gậy vào chuôi thôi."
+    }
+  ]
+}

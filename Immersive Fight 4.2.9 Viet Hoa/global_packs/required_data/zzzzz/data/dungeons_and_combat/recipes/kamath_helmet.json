@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "ab"
+  ],
+  "key": {
+    "a": {
+       "item": "dungeons_and_combat:essence_of_kamath"
+    },
+    "b": {
+      "item": "minecraft:netherite_helmet"
+    }
+  },
+  "result": {
+    "item": "dungeons_and_combat:kamath_armor_helmet",
+    "count": 1
+  }
+}

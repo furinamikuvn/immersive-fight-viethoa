@@ -1,0 +1,15 @@
+{
+    "name": "mtr:desert-mega-temple/start_pool",
+    "fallback": "minecraft:empty",
+    "elements": [
+        {
+            "weight": 1,
+            "element": {
+                "location": "mtr:desert-mega-temple/desert-mega-temple-bl",
+                "processors": "minecraft:empty",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        }
+    ]
+}

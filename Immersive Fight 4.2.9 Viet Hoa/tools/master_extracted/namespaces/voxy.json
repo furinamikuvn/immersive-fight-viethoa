@@ -1,0 +1,137 @@
+{
+  "voxy.config.title": {
+    "en": "Voxy",
+    "zh": "Voxy",
+    "vi": "Voxy"
+  },
+  "voxy.config.general": {
+    "en": "General",
+    "zh": "通用",
+    "vi": "Phổ quát"
+  },
+  "voxy.config.rendering": {
+    "en": "Rendering",
+    "zh": "渲染",
+    "vi": "kết xuất"
+  },
+  "voxy.config.general.enabled": {
+    "en": "Enable Voxy",
+    "zh": "启用 Voxy超视距",
+    "vi": "Kích hoạt Voxy ngoài tầm nhìn"
+  },
+  "voxy.config.general.enabled.tooltip": {
+    "en": "Fully enables or disables voxy",
+    "zh": "完全启用或禁用 Voxy",
+    "vi": "Bật hoặc tắt hoàn toàn Voxy"
+  },
+  "voxy.config.general.serviceThreads": {
+    "en": "Service threads",
+    "zh": "服务线程数",
+    "vi": "Số lượng chủ đề dịch vụ"
+  },
+  "voxy.config.general.serviceThreads.tooltip": {
+    "en": "Number of threads the ServiceThreadPool can use",
+    "zh": "ServiceThreadPool 可使用的线程数量",
+    "vi": "Số lượng chủ đề mà ServiceThreadPool có thể sử dụng"
+  },
+  "voxy.config.general.useSodiumBuilder": {
+    "en": "Use sodium threads",
+    "zh": "使用 Sodium 线程",
+    "vi": "Sử dụng sợi Natri"
+  },
+  "voxy.config.general.useSodiumBuilder.tooltip": {
+    "en": "Uses sodium builder threads as part of voxys thread pool, can reduce stuttering and lag when moving quickly at high render distance",
+    "zh": "将 Sodium 构建线程纳入 Voxy 线程池中，在高渲染距离下快速移动时可减少卡顿和延迟",
+    "vi": "Kết hợp các luồng xây dựng Natri vào nhóm luồng Voxy để giảm tình trạng giật và lag khi di chuyển nhanh ở khoảng cách kết xuất cao"
+  },
+  "voxy.config.general.ingest": {
+    "en": "Chunk Ingest",
+    "zh": "区块摄取",
+    "vi": "Chặn nhập"
+  },
+  "voxy.config.general.ingest.tooltip": {
+    "en": "Enables or disables voxies ability to convert new chunks into LoDs",
+    "zh": "启用或禁用 Voxy 将新区块转换为 LoD（细节层次）的能力",
+    "vi": "Bật hoặc tắt khả năng chuyển đổi các đoạn mới sang LoD (Cấp độ chi tiết) của Voxy"
+  },
+  "voxy.config.general.rendering": {
+    "en": "Voxy Rendering",
+    "zh": "Voxy 渲染",
+    "vi": "Kết xuất Voxy"
+  },
+  "voxy.config.general.rendering.tooltip": {
+    "en": "Enables or disables voxy rendering",
+    "zh": "启用或禁用 Voxy 渲染功能",
+    "vi": "Bật hoặc tắt chức năng hiển thị Voxy"
+  },
+  "voxy.config.general.subDivisionSize": {
+    "en": "Pixels^2 of subdivision size",
+    "zh": "细分尺寸（像素²）",
+    "vi": "Kích thước phân khu (pixel²)"
+  },
+  "voxy.config.general.subDivisionSize.tooltip": {
+    "en": "Maximum size in pixels (squared) of screenspace AABB before subdiving to smaller LoDs (Smaller being higher quality)",
+    "zh": "屏幕空间 AABB 在细分到更小 LoD（数值越小画质越高）前的最大像素面积（平方）",
+    "vi": "Không gian màn hình Diện tích pixel tối đa của AABB (vuông) trước khi chia thành các LoD nhỏ hơn (giá trị càng nhỏ thì chất lượng hình ảnh càng cao)"
+  },
+  "voxy.config.general.renderDistance": {
+    "en": "Render distance",
+    "zh": "渲染距离",
+    "vi": "khoảng cách kết xuất"
+  },
+  "voxy.config.general.renderDistance.tooltip": {
+    "en": "Render distance of voxy in chunks",
+    "zh": "Voxy 的渲染距离（单位：区块）",
+    "vi": "Khoảng cách hiển thị của Voxy (đơn vị: khối)"
+  },
+  "voxy.config.general.environmental_fog": {
+    "en": "Enable environmental fog",
+    "zh": "启用环境雾效",
+    "vi": "Bật sương mù xung quanh"
+  },
+  "voxy.config.general.environmental_fog.tooltip": {
+    "en": "Enables or disables voxy rendering environmental fog",
+    "zh": "启用或禁用 Voxy 的环境雾效渲染",
+    "vi": "Bật hoặc tắt kết xuất sương mù xung quanh của Voxy"
+  },
+  "voxy.config.general.render_fog": {
+    "en": "Enable render fog",
+    "zh": "启用渲染雾效",
+    "vi": "Bật kết xuất sương mù"
+  },
+  "voxy.config.general.render_fog.tooltip": {
+    "en": "Enables or disables the voxy fog effect",
+    "zh": "启用或禁用渲染雾效",
+    "vi": "Bật hoặc tắt hiệu ứng sương mù kết xuất"
+  },
+  "voxy.config.general.ssao_mode": {
+    "en": "SSAO Mode",
+    "zh": "SSAO 模式",
+    "vi": "chế độ SSAO"
+  },
+  "voxy.config.general.ssao_mode.tooltip": {
+    "en": "The mode used for screenspace ambient occlusion (Auto attempts to pick the best option while reducing performance impact)",
+    "zh": "屏幕空间环境光遮蔽所使用的模式（自动模式会尝试选择最佳选项，同时降低性能影响）",
+    "vi": "Chế độ được sử dụng để che khuất môi trường xung quanh không gian màn hình (chế độ tự động cố gắng chọn tùy chọn tốt nhất đồng thời giảm Lực xung kích đến hiệu suất)"
+  },
+  "voxy.config.general.ssao_mode.auto": {
+    "en": "Auto",
+    "zh": "自动",
+    "vi": "tự động"
+  },
+  "voxy.config.general.ssao_mode.basic": {
+    "en": "Basic",
+    "zh": "基础",
+    "vi": "Căn cứ"
+  },
+  "voxy.config.general.ssao_mode.better": {
+    "en": "Better",
+    "zh": "更好",
+    "vi": "tốt hơn"
+  },
+  "voxy.config.general.ssao_mode.best": {
+    "en": "Best",
+    "zh": "最佳",
+    "vi": "tối ưu"
+  }
+}

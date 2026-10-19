@@ -1,0 +1,11 @@
+#If enabled, an icon appears on the HUD when fall flying is disabled.
+toggleIcon = true
+#If enabled, holding down the "Trigger Elytra" key uses a firework from inventory to takeoff.
+simpleTakeoff = true
+#If enabled, players can fall fly. This can also be managed in-game through the "Toggle Elytra" key.
+enableElytra = true
+#If enabled, fall flying can be activated by jumping in midair.
+jumpTriggerable = true
+#If enabled, firework rockets can only be used while fall flying.
+restrictFireworks = false
+

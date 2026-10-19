@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "illager_war_trireme:illager_war_trireme",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 65,
+    "separation": 54,
+    "salt": 198230207
+  }
+}

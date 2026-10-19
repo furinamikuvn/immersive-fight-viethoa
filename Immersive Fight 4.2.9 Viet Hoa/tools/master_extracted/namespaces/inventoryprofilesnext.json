@@ -1,0 +1,2447 @@
+{
+  "inventoryprofiles.gui.config.title": {
+    "en": "Inventory Profiles Next v%s Settings",
+    "zh": "Inventory Profiles Next v%s 配置菜单",
+    "vi": null
+  },
+  "inventoryprofiles.common.gui.config.reset": {
+    "en": "Reset",
+    "zh": "重置",
+    "vi": null
+  },
+  "inventoryprofiles.common.gui.config.true": {
+    "en": "§2true",
+    "zh": "§2开",
+    "vi": null
+  },
+  "inventoryprofiles.common.gui.config.false": {
+    "en": "§4false",
+    "zh": "§4关",
+    "vi": null
+  },
+  "inventoryprofiles.common.gui.config.yes": {
+    "en": "yes",
+    "zh": "是",
+    "vi": null
+  },
+  "inventoryprofiles.common.gui.config.no": {
+    "en": "no",
+    "zh": "否",
+    "vi": null
+  },
+  "inventoryprofiles.common.gui.config.more": {
+    "en": " ...(more)",
+    "zh": " ...(更多)",
+    "vi": null
+  },
+  "inventoryprofiles.common.gui.config.advanced_keybind_settings": {
+    "en": "Advanced Key Binding Settings",
+    "zh": "高级按键设置",
+    "vi": null
+  },
+  "inventoryprofiles.common.gui.config.activate_on": {
+    "en": "Activate On",
+    "zh": "激活在",
+    "vi": null
+  },
+  "inventoryprofiles.common.gui.config.context": {
+    "en": "Context",
+    "zh": "情景",
+    "vi": null
+  },
+  "inventoryprofiles.common.gui.config.allow_extra_keys": {
+    "en": "Allow Extra Keys",
+    "zh": "允许额外按键",
+    "vi": null
+  },
+  "inventoryprofiles.common.gui.config.order_sensitive": {
+    "en": "Order Sensitive",
+    "zh": "顺序敏感",
+    "vi": null
+  },
+  "inventoryprofiles.common.gui.config.modifier_key": {
+    "en": "Ctrl/Alt/Shift",
+    "zh": "Ctrl/Alt/Shift",
+    "vi": null
+  },
+  "inventoryprofiles.common.gui.config.keybind_settings_tips": {
+    "en": "- Left click to configure\n- Right click to reset to defaults",
+    "zh": "- 左击进行配置\n- 右击重置默认",
+    "vi": null
+  },
+  "inventoryprofiles.common.enum.key_action.press": {
+    "en": "Press",
+    "zh": "按下",
+    "vi": null
+  },
+  "inventoryprofiles.common.enum.key_action.release": {
+    "en": "Release",
+    "zh": "松开",
+    "vi": null
+  },
+  "inventoryprofiles.common.enum.key_action.both": {
+    "en": "Press / Release",
+    "zh": "按下 / 松开",
+    "vi": null
+  },
+  "inventoryprofiles.common.enum.context.ingame": {
+    "en": "In-game",
+    "zh": "游戏内",
+    "vi": null
+  },
+  "inventoryprofiles.common.enum.context.gui": {
+    "en": "Gui",
+    "zh": "Gui",
+    "vi": null
+  },
+  "inventoryprofiles.common.enum.context.any": {
+    "en": "In-game / Gui",
+    "zh": "游戏内 / Gui",
+    "vi": null
+  },
+  "inventoryprofiles.common.enum.modifier_key.differentiate": {
+    "en": "Diff left/right",
+    "zh": "区分左右",
+    "vi": null
+  },
+  "inventoryprofiles.common.enum.modifier_key.normal": {
+    "en": "Normal",
+    "zh": "正常",
+    "vi": null
+  },
+  "inventoryprofiles.gui.config.ModSettings": {
+    "en": "Mod Settings",
+    "zh": "Mod 设置",
+    "vi": null
+  },
+  "inventoryprofiles.config.category.inventory_sorting": {
+    "en": "Sorting Options",
+    "zh": "整理选项",
+    "vi": null
+  },
+  "inventoryprofiles.config.category.move_matching_items": {
+    "en": "General Hot Key Modifiers",
+    "zh": "移动相符物品",
+    "vi": null
+  },
+  "inventoryprofiles.config.category.highlight_focused_items": {
+    "en": "Highlight Same as Focused Item",
+    "zh": "高亮相符物品",
+    "vi": null
+  },
+  "inventoryprofiles.config.category.profiles": {
+    "en": "Profiles",
+    "zh": "档案",
+    "vi": null
+  },
+  "inventoryprofiles.config.category.lock_slots": {
+    "en": "Lock Slots",
+    "zh": "槽位锁定",
+    "vi": null
+  },
+  "inventoryprofiles.config.category.auto_refill": {
+    "en": "Auto Refill",
+    "zh": "自动重装",
+    "vi": null
+  },
+  "inventoryprofiles.config.category.villager_trading": {
+    "en": "Villager Trading",
+    "zh": null,
+    "vi": null
+  },
+  "inventoryprofiles.config.category.privacy": {
+    "en": "Privacy",
+    "zh": "隐私",
+    "vi": null
+  },
+  "inventoryprofiles.config.category.advanced_options": {
+    "en": "Advanced Options",
+    "zh": "高级选项",
+    "vi": null
+  },
+  "inventoryprofiles.config.name.open_config_folder": {
+    "en": "§aOpen Config Folder",
+    "zh": "§a打开配置文件夹",
+    "vi": null
+  },
+  "inventoryprofiles.config.name.reload_rule_files": {
+    "en": "§aReload Rule Files",
+    "zh": "§a重载规则文件",
+    "vi": null
+  },
+  "inventoryprofiles.config.description.open_config_folder": {
+    "en": "Open folder .minecraft/config/inventoryprofilesnext",
+    "zh": "打开文件夹： .minecraft/config/inventoryprofilesnext",
+    "vi": null
+  },
+  "inventoryprofiles.config.description.reload_rule_files": {
+    "en": "Reload all rule.*.txt files from the config folder",
+    "zh": "重载配置文件夹中的规则文件： *.txt",
+    "vi": null
+  },
+  "inventoryprofiles.gui.config.button.open_config_folder": {
+    "en": "config/inventoryprofilesnext",
+    "zh": "config/inventoryprofilesnext",
+    "vi": null
+  },
+  "inventoryprofiles.gui.config.button.reload_rule_files": {
+    "en": "Reload rule.*.txt",
+    "zh": "重载规则： *.txt",
+    "vi": null
+  },
+  "inventoryprofiles.gui.config.button.reload_rule_files.reloaded": {
+    "en": "All reloaded!",
+    "zh": "全部重载完成!",
+    "vi": null
+  },
+  "inventoryprofiles.config.name.sort_order": {
+    "en": "Sort Order",
+    "zh": "整理顺序",
+    "vi": null
+  },
+  "inventoryprofiles.config.description.sort_order": {
+    "en": "The sorting method used for inventory sorting",
+    "zh": "物品栏整理的整理方法",
+    "vi": null
+  },
+  "inventoryprofiles.config.name.custom_rule": {
+    "en": "Custom Rule",
+    "zh": "自定义规则",
+    "vi": null
+  },
+  "inventoryprofiles.config.description.custom_rule": {
+    "en": "The rule for custom sorting method",
+    "zh": "自定义整理方法的规则",
+    "vi": null
+  },
+  "inventoryprofiles.config.name.creative_sort_order_type": {
+    "en": "\"Creative Menu\" Order Source",
+    "zh": "“创造菜单”订单来源",
+    "vi": null
+  },
+  "inventoryprofiles.config.description.creative_sort_order_type": {
+    "en": "Since 1.19.3 \"Creative Menu\" have changed. And there are multiple possible interpretations of: \"Sorted like the Creative Menu\".\n\nIPN now supports 2 way of ordering:\n1. Like in the search tab\n2. You can define category priority.",
+    "zh": "自1.19.3“创造菜单”已经改变。而且有多种可能的解释：“像创造菜单一样排序”。\n\nIPN现在支持2种排序方式：\n1.像在搜索标签页\n2.你可以自定义类别优先级。",
+    "vi": null
+  },
+  "inventoryprofiles.config.name.category_priority_list": {
+    "en": "Category Priority List",
+    "zh": "分类优先级列表",
+    "vi": null
+  },
+  "inventoryprofiles.config.description.category_priority_list": {
+    "en": "Creative Menu categories in order of priority to be used as Order Source for \"Sort Order\" \"Creative Menu\"",
+    "zh": "按优先级排列的创造菜单类别，用作“整理顺序”、“创意菜单”的订单源。",
+    "vi": null
+  },
+  "inventoryprofiles.config.name.category_original_order": {
+    "en": "Default Category Priority",
+    "zh": "默认分类优先级",
+    "vi": null
+  },
+  "inventoryprofiles.config.description.category_original_order": {
+    "en": "This is here for convenience. It may change from server to server or world to world.\nThe idea is to copy, examine and reorder this if you want to seth the \"Priority List\" above.",
+    "zh": "这里是为了方便。它可能因服务器或世界的不同而改变。\n这个想法是复制、检查和重新排序，如果你想对上面的“优先级列表”进行修改。",
+    "vi": null
+  },
+  "inventoryprofiles.config.name.include_hotbar_modifier": {
+    "en": "Include Hotbar Modifier",
+    "zh": "包含快捷栏物品",
+    "vi": null
+  },
+  "inventoryprofiles.config.name.move_all_modifier": {
+    "en": "Include All Modifier",
+    "zh": "移动全部物品",
+    "vi": null
+  },
+  "inventoryprofiles.config.name.move_focus_mach_modifier": {
+    "en": "Only focused Item type",
+    "zh": "移动指向物品",
+    "vi": null
+  },
+  "inventoryprofiles.config.name.move_just_refill_modifier": {
+    "en": "Just refill stacks",
+    "zh": "只重装一组",
+    "vi": null
+  },
+  "inventoryprofiles.config.description.move_just_refill_modifier": {
+    "en": "Holding this key while using move all/matching function will make it so that only existing stacks will be refilled on the target",
+    "zh": "使用移动全部/匹配功能时按住此键将使其仅在目标上重新填充现有组",
+    "vi": null
+  },
+  "inventoryprofiles.config.name.always_include_hotbar": {
+    "en": "Always Include Hotbar",
+    "zh": "总是包含快捷栏",
+    "vi": null
+  },
+  "inventoryprofiles.config.name.always_move_all": {
+    "en": "Always Move All",
+    "zh": "总是移动全部物品",
+    "vi": null
+  },
+  "inventoryprofiles.config.name.always_throw_all": {
+    "en": "Always Throw All",
+    "zh": "总是扔出全部物品",
+    "vi": null
+  },
+  "inventoryprofiles.config.description.include_hotbar_modifier": {
+    "en": "Hold this key to include hotbar",
+    "zh": "按住此键以包含快捷栏",
+    "vi": null
+  },
+  "inventoryprofiles.config.description.move_all_modifier": {
+    "en": "Hold this key to move/throw all",
+    "zh": "按住此键以移动/扔出全部物品",
+    "vi": null
+  },
+  "inventoryprofiles.config.description.move_focus_mach_modifier": {
+    "en": "Hold this key to move all the items of the type under the cursor or currently held in the cursor.\nNOTE: This will move all the items of the selected type despite it already being present on the other side.",
+    "zh": "按住此键以仅移动鼠标所指/所持的物品种类\n注意：这将会移动所有的指定物品，包括当前已在另一侧的物品。",
+    "vi": null
+  },
+  "inventoryprofiles.config.description.always_include_hotbar": {
+    "en": "Include hotbar without holding the modifier key (then holding the modifier key is to exclude hotbar)",
+    "zh": "不按热键即包含快捷栏物品 (按住热键排除快捷栏物品)",
+    "vi": null
+  },
+  "inventoryprofiles.config.description.always_move_all": {
+    "en": "Move all without holding the modifier key (then holding the modifier key is to move matching items only)",
+    "zh": "不按热键即移动全部物品 (按住热键仅移动相符物品)",
+    "vi": null
+  },
+  "inventoryprofiles.config.description.always_throw_all": {
+    "en": "Throw all without holding the modifier key (the holding the modifier key is to throw matching items only)",
+    "zh": "不按热键即扔出全部物品 (按住热键仅扔出相符物品)",
+    "vi": null
+  },
+  "inventoryprofiles.config.name.highlight_foused_items": {
+    "en": "Enable Items Highlight",
+    "zh": "开启物品高亮",
+    "vi": null
+  },
+  "inventoryprofiles.config.name.highlight_foused_items_animated": {
+    "en": "Blink the Highlight",
+    "zh": "高亮闪烁",
+    "vi": null
+  },
+  "inventoryprofiles.config.name.highlight_foused_items_foreground": {
+    "en": "Highlight Whole Slot",
+    "zh": "高亮整个槽位",
+    "vi": null
+  },
+  "inventoryprofiles.config.name.highlight_foused_items_color": {
+    "en": "Whole Slot Color",
+    "zh": "整个槽颜色",
+    "vi": null
+  },
+  "inventoryprofiles.config.name.highlight_foused_items_bg_color": {
+    "en": "Background Only Color",
+    "zh": "仅背景颜色",
+    "vi": null
+  },
+  "inventoryprofiles.config.description.highlight_foused_items_bg_color": {
+    "en": "The color used when highlighting only the background of the slot.",
+    "zh": "仅突出显示槽背景时使用的颜色。",
+    "vi": null
+  },
+  "inventoryprofiles.config.description.highlight_foused_items_color": {
+    "en": "The color used when highlighting the whole slot.",
+    "zh": "突出显示整个槽时使用的颜色。",
+    "vi": null
+  },
+  "inventoryprofiles.config.description.highlight_foused_items_foreground": {
+    "en": "If true the highlight will be drown over the whole slot, if false only the background and not the item will be highlighted.",
+    "zh": "如果启用，高亮将覆盖整个槽位，关闭时则仅高亮背景不高亮物品。",
+    "vi": null
+  },
+  "inventoryprofiles.config.description.highlight_foused_items_animated": {
+    "en": "If true the items highlight will blink, if false the highlight will be static.",
+    "zh": "如果启用，物品高亮将会闪烁，关闭时则会静态常亮。",
+    "vi": null
+  },
+  "inventoryprofiles.config.description.highlight_foused_items": {
+    "en": "If true all the items with the same type as the items under cursor will be highlighted.",
+    "zh": "如果启用，所有鼠标指向物品的相同物品都将会被高亮。",
+    "vi": null
+  },
+  "inventoryprofiles.config.name.enable_profiles": {
+    "en": "Enable Equipment Profiles Support",
+    "zh": "开启装备档案",
+    "vi": null
+  },
+  "inventoryprofiles.config.name.profiles_per_server": {
+    "en": "Enable Different Profiles per Server/World",
+    "zh": "开启世界/服务器独立的档案",
+    "vi": null
+  },
+  "inventoryprofiles.config.description.enable_profiles": {
+    "en": "Enables profiles support.\nProfiles are sets of gear you can switch between with a single button.\n\nIf you wanna learn how to setup the Profile Support go to the \"Edit Profiles\" page.",
+    "zh": "档案是你可以通过按键进行切换的一套装备。\n如果你想要了解如何设置档案功能，请前往 \"档案编辑\" 页面。",
+    "vi": null
+  },
+  "inventoryprofiles.config.description.profiles_per_server": {
+    "en": "If set to true you will have different set of profiles for every server you connect to.",
+    "zh": "如果启用，你将在你连接的每个服务器中有不同的档案。",
+    "vi": null
+  },
+  "inventoryprofiles.config.name.enable_lock_slots": {
+    "en": "Enable Lock Slots",
+    "zh": "开启槽位锁定",
+    "vi": null
+  },
+  "inventoryprofiles.config.name.enable_lock_slots_per_server": {
+    "en": "Enable Unique Locked Slots per World/Server",
+    "zh": "开启世界/服务器独立的槽位锁定",
+    "vi": null
+  },
+  "inventoryprofiles.config.description.enable_lock_slots": {
+    "en": "Locked slots are ignored for: sort, move all, clean cursor, continuous crafting supplies storage, auto refill supplies storage (auto refill monitoring slots are not affected). \nNotice:\nSorting in columns/rows only works if the shape of remaining non-locked slots is rectangular.",
+    "zh": "锁定槽位将被以下操作忽略：整理，移动全部，关闭GUI时收回手中物品，\n连续合成以及自动重装(自动重装所监视的槽位不受影响)。\n注意：按列/行分组仅在剩余未锁定槽位为矩形时才会工作。",
+    "vi": null
+  },
+  "inventoryprofiles.config.description.enable_lock_slots_per_server": {
+    "en": "If enabled every server and uniquely named world will have their own locked slots.\nNotice:\n1. If you tend to name all your worlds \"New World\" they will all share the same locked slots.\n2. Servers behind bungee cord/velocity proxies will share locked slots.",
+    "zh": "如果启用，每个服务器和唯一命名的世界将拥有独立的锁定槽位。\n注意：\n1.如果你把所有的世界都命名为\"新的世界\"，它们将共享同一个锁定槽位。\n2.bungeecord/velocity代理的服务器将共享锁定槽位。",
+    "vi": null
+  },
+  "inventoryprofiles.config.name.enable_auto_refill": {
+    "en": "Enable Auto Refill",
+    "zh": "开启自动重装",
+    "vi": null
+  },
+  "inventoryprofiles.config.name.villager_trading_enable": {
+    "en": "Enable Villager Trading",
+    "zh": null,
+    "vi": null
+  },
+  "inventoryprofiles.config.description.villager_trading_enable": {
+    "en": "Toggles villager trading enhancements.\n\nThis allows you to bookmark one or more type of trades.\nAnd do all possible trades for these types\nwith a single click.\n\nThere are 2 types of bookmarks Global and Local.\n - Global select the trade type for all villagers with the same profession.\n - Local select the trade for the active villager only.\n\nBookmarks also work for Wandering Traders but they only have Global type.",
+    "zh": null,
+    "vi": null
+  },
+  "inventoryprofiles.config.name.villager_trading_local_color": {
+    "en": "Local Bookmarks Color",
+    "zh": null,
+    "vi": null
+  },
+  "inventoryprofiles.config.description.villager_trading_local_color": {
+    "en": "The color used to highlight the locally bookmarked trades.",
+    "zh": null,
+    "vi": null
+  },
+  "inventoryprofiles.config.name.villager_trading_global_color": {
+    "en": "Global Bookmarks Color",
+    "zh": null,
+    "vi": null
+  },
+  "inventoryprofiles.config.description.villager_trading_global_color": {
+    "en": "The color used to highlight the globally bookmarked trades.",
+    "zh": null,
+    "vi": null
+  },
+  "inventoryprofiles.config.name.villager_trading_group_1": {
+    "en": "Enable Second Bookmarks Group",
+    "zh": null,
+    "vi": null
+  },
+  "inventoryprofiles.config.description.villager_trading_group_1": {
+    "en": "Enables second Global/Local group of bookmarks",
+    "zh": null,
+    "vi": null
+  },
+  "inventoryprofiles.config.name.villager_trading_local_color1": {
+    "en": "Second Group Local Color",
+    "zh": null,
+    "vi": null
+  },
+  "inventoryprofiles.config.description.villager_trading_local_color1": {
+    "en": "The color used to highlight the second local group of bookmarked trades.",
+    "zh": null,
+    "vi": null
+  },
+  "inventoryprofiles.config.name.villager_trading_global_color1": {
+    "en": "Second Group Global Color",
+    "zh": null,
+    "vi": null
+  },
+  "inventoryprofiles.config.description.villager_trading_global_color1": {
+    "en": "The color used to highlight the second global group of bookmarked trades.",
+    "zh": null,
+    "vi": null
+  },
+  "inventoryprofiles.config.name.villager_trading_group_2": {
+    "en": "Enable Third Bookmarks Group",
+    "zh": null,
+    "vi": null
+  },
+  "inventoryprofiles.config.description.villager_trading_group_2": {
+    "en": "Enables third Global/Local group of bookmarks",
+    "zh": null,
+    "vi": null
+  },
+  "inventoryprofiles.config.name.villager_trading_local_color2": {
+    "en": "Third Group Local Color",
+    "zh": null,
+    "vi": null
+  },
+  "inventoryprofiles.config.description.villager_trading_local_color2": {
+    "en": "The color used to highlight the third local group of bookmarked trades.",
+    "zh": null,
+    "vi": null
+  },
+  "inventoryprofiles.config.name.villager_trading_global_color2": {
+    "en": "Third Group Global Color",
+    "zh": null,
+    "vi": null
+  },
+  "inventoryprofiles.config.description.villager_trading_global_color2": {
+    "en": "The color used to highlight the third global group of bookmarked trades.",
+    "zh": null,
+    "vi": null
+  },
+  "inventoryprofiles.config.name.enable_updates_check": {
+    "en": "Enable Update Checks",
+    "zh": "开启更新检查",
+    "vi": null
+  },
+  "inventoryprofiles.config.name.enable_analytics": {
+    "en": "Enable Analytics",
+    "zh": "开启分析",
+    "vi": null
+  },
+  "inventoryprofiles.config.description.enable_updates_check": {
+    "en": "Display message if a new version of the mod is available. To do the check we send to our servers ONLY the following information:\n\tMinecraft Version, Fabric or Forge, Inventory Profiles Next version.\nYour IP address is not saved!",
+    "zh": "当模组有新版本可用时，会向你显示信息。为了进行检查，会向服务器发送以下信息:\n\tMinecraft版本，Fabric或是Forge，Inventory Profiles Next版本。\n你的IP地址没有被保存!",
+    "vi": null
+  },
+  "inventoryprofiles.config.description.enable_analytics": {
+    "en": "Enable Analytics.\nOnly information about the mod and which features are used is collected.\nNO Personal information is sent. Your IP address is not stored.\nNone of the collected information will be shared, sold or transferred to anyone!",
+    "zh": "只有关于mod和已开启的功能的信息会被收集。\n不会发送个人信息。你的IP地址也没有被保存。\n收集的信息不会被共享、出售或转让给任何人!",
+    "vi": null
+  },
+  "inventoryprofiles.config.name.add_interval_between_clicks": {
+    "en": "Add Interval Between Clicks",
+    "zh": "增加点击间隔",
+    "vi": null
+  },
+  "inventoryprofiles.config.name.auto_craft_delay": {
+    "en": "Wait Ticks Before Next Craft Click",
+    "zh": "合成等待间隔",
+    "vi": null
+  },
+  "inventoryprofiles.config.name.continuous_crafting_method": {
+    "en": "Continuous Crafting Method",
+    "zh": "连续合成方法",
+    "vi": null
+  },
+  "inventoryprofiles.config.name.interval_between_clicks_ms": {
+    "en": "Interval Between Clicks (in Milliseconds)",
+    "zh": "点击间隔(ms)",
+    "vi": null
+  },
+  "inventoryprofiles.config.name.restock_hotbar": {
+    "en": "Restock Hotbar When Sorting",
+    "zh": "快捷栏补货",
+    "vi": null
+  },
+  "inventoryprofiles.config.name.highlight_clicking_slot": {
+    "en": "Highlight Clicking Slot",
+    "zh": "高亮点击槽位",
+    "vi": null
+  },
+  "inventoryprofiles.config.name.sort_at_cursor": {
+    "en": "Sort Under the Cursor",
+    "zh": "整理鼠标指向区域",
+    "vi": null
+  },
+  "inventoryprofiles.config.name.move_all_at_cursor": {
+    "en": "Move All Under the Cursor",
+    "zh": "移动鼠标指向区域的全部物品",
+    "vi": null
+  },
+  "inventoryprofiles.config.name.stop_at_screen_close": {
+    "en": "Stop Sorting If Screen Closes",
+    "zh": "关闭时停止整理",
+    "vi": null
+  },
+  "inventoryprofiles.config.name.ignore_durability": {
+    "en": "Ignore item durability for Throw/Move",
+    "zh": "移动/扔出时忽略物品耐久",
+    "vi": null
+  },
+  "inventoryprofiles.config.name.for_modpack_devs": {
+    "en": "Are you a Modpack Dev?",
+    "zh": "你是整合包开发者吗？",
+    "vi": null
+  },
+  "inventoryprofiles.config.description.for_modpack_devs": {
+    "en": "This enables a category with very rudimentary tools for managing GUI Integration Hints.",
+    "zh": "这个选项将会启用一个类别，其中包含管理GUI集成提示的基本工具。",
+    "vi": null
+  },
+  "inventoryprofiles.config.description.add_interval_between_clicks": {
+    "en": "Adds some time between clicks while sorting/moving. \nThe amount of time is controlled by \"Interval Between Clicks (in Milliseconds)\". \n\nThis might be useful on some servers that don't like fast clicks.",
+    "zh": "增加整理和移动时的点击间隔。通过\"点击间隔(ms)\"设置间隔时间。\n这可能在一些不喜欢快速点击的服务器上有用。",
+    "vi": null
+  },
+  "inventoryprofiles.config.description.interval_between_clicks_ms": {
+    "en": "Interval between clicks, in milliseconds. \nFor some servers 67 or more is recommended.",
+    "zh": "点击之间的时间(ms)\n(为了绕过一些服务器，推荐设置为67ms或更高)",
+    "vi": null
+  },
+  "inventoryprofiles.config.description.auto_craft_delay": {
+    "en": "Wait this number of client ticks before doing next craft while auto-crafting.\nIncrease this if auto-crafting stops before it uses all available resources.\nThis is server ping dependent. The higher the ping the higher the value is needed.",
+    "zh": "自动合成时，下一次合成前等待的客户端时间(tick)。\n如果自动合成在所有材料耗尽前停止，请增大此值。\n此值与服务器ping值(延迟)有关，ping值越高，此值需要越大。",
+    "vi": null
+  },
+  "inventoryprofiles.config.description.continuous_crafting_method": {
+    "en": "Method 2 is pre 1.3.7 behaviour, Method 1 is post 1.3.7.\nMethod 1 is better overall, but Method 2 works better on some servers.",
+    "zh": "方法 2 是1.3.7版本之前的行为方式，方法 1 则是1.3.7版本之后的方式。\n方法 1 更好，但在部分服务器中方法 2 更有效。",
+    "vi": null
+  },
+  "inventoryprofiles.config.description.restock_hotbar": {
+    "en": "The hotbar will be restocked during the sort procedure.",
+    "zh": "整理时会补货快捷栏的物品",
+    "vi": null
+  },
+  "inventoryprofiles.config.description.sort_at_cursor": {
+    "en": "If this is true, using sort hotkey will sort the slots that under the cursor.\nDefault behavior is to always sort the opened container.",
+    "zh": "当此选项开启时，按下整理热键将整理鼠标指向区域。\n默认情况下会整理打开的容器。",
+    "vi": null
+  },
+  "inventoryprofiles.config.description.move_all_at_cursor": {
+    "en": "When this is true \"Move All\" hotkey move from slots under the cursor. \nWhen false it will always move from player to container.",
+    "zh": "当此选项开启时，\"移动全部\"热键会移动鼠标指向区域的物品。\n关闭时，则总是把物品从物品栏移动到容器。",
+    "vi": null
+  },
+  "inventoryprofiles.config.description.stop_at_screen_close": {
+    "en": "If \"Add Interval Between Clicks\" is enabled sort operation could take long time. If we are sorting the player inventory it is possible to continue even if the inventory screen is closed. \nThis setting controls whether we should stop the sort process if the screen is closed.",
+    "zh": "当\"增加点击的间隔\"开启时，整理操作可能会花费很长时间。\n当物品栏界面关闭时，整理玩家物品栏的进程可能仍在继续。\n此设置控制物品栏界面关闭时是否停止整理。",
+    "vi": null
+  },
+  "inventoryprofiles.config.description.ignore_durability": {
+    "en": "If set to true Move Matching and Throw Matching operations will ignore the item durability when deciding what to move or throw.",
+    "zh": "当此选项开启时，移动相符物品和扔出相符物品的操作将会忽略物品耐久。",
+    "vi": null
+  },
+  "inventoryprofiles.config.name.debug_logs": {
+    "en": "Debug Logs",
+    "zh": "调试日志",
+    "vi": null
+  },
+  "inventoryprofiles.config.description.debug_logs": {
+    "en": "Prints debug messages",
+    "zh": "输出调试信息",
+    "vi": null
+  },
+  "inventoryprofiles.gui.config.GuiSettings": {
+    "en": "Gui Settings",
+    "zh": "Gui 设置",
+    "vi": null
+  },
+  "inventoryprofiles.config.category.gui.general": {
+    "en": "General GUI Settings",
+    "zh": "常规GUI设置",
+    "vi": null
+  },
+  "inventoryprofiles.config.category.inventory": {
+    "en": "Inventory",
+    "zh": "物品栏",
+    "vi": null
+  },
+  "inventoryprofiles.config.category.other": {
+    "en": "Other",
+    "zh": "其他",
+    "vi": null
+  },
+  "inventoryprofiles.config.name.enable_profiles_ui": {
+    "en": "Enable Profiles Switching Gui",
+    "zh": "开启档案切换界面",
+    "vi": null
+  },
+  "inventoryprofiles.config.name.enable_inventory_settings_button": {
+    "en": "Enable Settings Button in Inventory",
+    "zh": "在物品栏中启用设置按钮",
+    "vi": null
+  },
+  "inventoryprofiles.config.description.enable_inventory_settings_button": {
+    "en": "When enabled a small button will appear in the to left of the screen that will the Inventory Profiles Settings.",
+    "zh": "启用后，屏幕左侧将出现一个小按钮，该按钮将显示任务栏配置文件设置",
+    "vi": null
+  },
+  "inventoryprofiles.config.name.enable_inventory_editor_button": {
+    "en": "Enable Overlay Editor Button",
+    "zh": "开启覆盖编辑器按钮",
+    "vi": null
+  },
+  "inventoryprofiles.config.description.enable_inventory_editor_button": {
+    "en": "When enabled a small button will appear in the to left of the screen that will open the IPN Overlay Editor.",
+    "zh": "当此选项开启时，屏幕左侧会出现一个小按钮，点击可以打开IPN的覆盖编辑器。",
+    "vi": null
+  },
+  "inventoryprofiles.config.name.enable_profiles_announcement": {
+    "en": "Enable Profile Announcement on Change/Apply",
+    "zh": "开启档案改变/应用通知",
+    "vi": null
+  },
+  "inventoryprofiles.config.description.enable_profiles_ui": {
+    "en": "This enables small 3 button user interface under the player inventory screen that can be used to switch between profiles and apply the currently active one.\nAll of the Gui functions are available as shortcuts.",
+    "zh": "当此选项开启时，将在玩家物品栏界面下的添加3个按钮，用于在不同档案间切换以及应用当前选中的档案。\n所有的Gui功能都可以作为快捷方式使用。",
+    "vi": null
+  },
+  "inventoryprofiles.config.description.profiles_announcement": {
+    "en": "The current profile is announced with a text popup just over the Hotbar.",
+    "zh": "当前的档案将在快捷栏上方弹出文本进行同志。",
+    "vi": null
+  },
+  "inventoryprofiles.config.name.enable_inventory_buttons": {
+    "en": "Enable Inventory Buttons",
+    "zh": "开启物品栏按钮",
+    "vi": null
+  },
+  "inventoryprofiles.config.name.treat_unknown_screens_as_containers": {
+    "en": "Add Inventory Buttons to All In Game Screens",
+    "zh": "在所有游戏内界面中添加物品栏按钮",
+    "vi": null
+  },
+  "inventoryprofiles.config.name.show_continuous_crafting_checkbox": {
+    "en": "Show Continuous Crafting Checkbox",
+    "zh": "显示连续合成复选框",
+    "vi": null
+  },
+  "inventoryprofiles.config.name.continuous_crafting_checkbox_value": {
+    "en": "§bRemember Checkbox State",
+    "zh": "§b记忆复选框状态",
+    "vi": null
+  },
+  "inventoryprofiles.config.name.continuous_crafting_saved_value": {
+    "en": "§bLast State of the Checkbox",
+    "zh": "§b复选框值",
+    "vi": null
+  },
+  "inventoryprofiles.config.name.show_regular_sort_button": {
+    "en": "Show the \"Sort\" Button",
+    "zh": "显示 \"整理\" 按钮",
+    "vi": null
+  },
+  "inventoryprofiles.config.name.regular_post_action": {
+    "en": "§bPost Action",
+    "zh": "§b整理操作",
+    "vi": null
+  },
+  "inventoryprofiles.config.name.regular_sort_order": {
+    "en": "§bSort Order",
+    "zh": "§b整理规则",
+    "vi": null
+  },
+  "inventoryprofiles.config.name.regular_custom_rule": {
+    "en": "§bCustom Rule",
+    "zh": "§b自定义规则",
+    "vi": null
+  },
+  "inventoryprofiles.config.name.show_sort_in_columns_button": {
+    "en": "Show the \"Sort In Columns\" Button",
+    "zh": "显示 \"按列整理\" 按钮",
+    "vi": null
+  },
+  "inventoryprofiles.config.name.in_columns_post_action": {
+    "en": "§bPost Action",
+    "zh": "§b整理操作",
+    "vi": null
+  },
+  "inventoryprofiles.config.name.in_columns_sort_order": {
+    "en": "§bSort Order",
+    "zh": "§b整理规则",
+    "vi": null
+  },
+  "inventoryprofiles.config.name.in_columns_custom_rule": {
+    "en": "§bCustom Rule",
+    "zh": "§b自定义规则",
+    "vi": null
+  },
+  "inventoryprofiles.config.name.show_sort_in_rows_button": {
+    "en": "Show the \"Sort in Rows\" Button",
+    "zh": "显示 \"按行整理\" 按钮",
+    "vi": null
+  },
+  "inventoryprofiles.config.name.in_rows_post_action": {
+    "en": "§bPost Action",
+    "zh": "§b整理操作",
+    "vi": null
+  },
+  "inventoryprofiles.config.name.in_rows_sort_order": {
+    "en": "§bSort Order",
+    "zh": "§b整理规则",
+    "vi": null
+  },
+  "inventoryprofiles.config.name.in_rows_custom_rule": {
+    "en": "§bCustom Rule",
+    "zh": "§b自定义规则",
+    "vi": null
+  },
+  "inventoryprofiles.config.name.show_move_all_button": {
+    "en": "Show the \"Move All\" Button",
+    "zh": "显示 \"移动全部\" 按钮",
+    "vi": null
+  },
+  "inventoryprofiles.config.name.show_button_tooltips": {
+    "en": "Show Button Tooltips",
+    "zh": "显示按钮提示",
+    "vi": null
+  },
+  "inventoryprofiles.config.description.enable_inventory_buttons": {
+    "en": "This controls whether we add our buttons to the container screen.",
+    "zh": "此设置控制是否添加按钮到容器界面",
+    "vi": null
+  },
+  "inventoryprofiles.config.description.treat_unknown_screens_as_containers": {
+    "en": "This is mostly for compatibility with other mods that have introduce screens which are not real inventory.\nSetting this to false will disable the inserting of widgets for all but vanilla screens.\n\nNOTE: This is deprecated and will be removed in version 1.2.0.",
+    "zh": "这主要是为了兼容其他mod中不带有真正物品栏的介绍界面。\n此设置关闭时将取消所有原版界面外的插入小部件。\n\n注意：此选项已弃用，将在1.2.0版本中移除。",
+    "vi": null
+  },
+  "inventoryprofiles.config.description.show_continuous_crafting_checkbox": {
+    "en": "Show continuous crafting checkbox in crafting table and survival inventory.\n\"Continuous Crafting\" will auto refill the recipe ingredients in the crafting grid.",
+    "zh": "在合成台和生存模式物品栏中显示连续合成复选框\n\"连续合成\" 会自动重装配方物品到合成网格中。",
+    "vi": null
+  },
+  "inventoryprofiles.config.description.continuous_crafting_checkbox_value": {
+    "en": "This setting controls if the checkbox state is preserved after the screen is closed or is always reset to the configured value below.",
+    "zh": "此设置控制复选框状态在界面关闭后是否保存，或者总是重置为下方的配置值。",
+    "vi": null
+  },
+  "inventoryprofiles.config.description.continuous_crafting_saved_value": {
+    "en": "The saved/default value of the \"Continuous Crafting\" checkbox.",
+    "zh": "当前保存/默认的 \"连续合成\" 复选框的值",
+    "vi": null
+  },
+  "inventoryprofiles.config.description.show_regular_sort_button": {
+    "en": "Show \"Sort\" button in the container/player Gui.",
+    "zh": "在容器/玩家Gui中显示 \"整理\" 按钮",
+    "vi": null
+  },
+  "inventoryprofiles.config.description.regular_post_action": {
+    "en": "Set the post action for \"Sort\" button.",
+    "zh": "设置 \"整理\" 按钮的整理操作",
+    "vi": null
+  },
+  "inventoryprofiles.config.description.regular_sort_order": {
+    "en": "Set the sort order for \"Sort\" button.",
+    "zh": "设置 \"整理\" 按钮的整理规则",
+    "vi": null
+  },
+  "inventoryprofiles.config.description.regular_custom_rule": {
+    "en": "Set the custom rule for \"Sort\" button.",
+    "zh": "设置 \"整理\" 按钮的自定义规则操作",
+    "vi": null
+  },
+  "inventoryprofiles.config.description.show_sort_in_columns_button": {
+    "en": "Show the \"Sort in Columns\" button in the container/player Gui.",
+    "zh": "在容器/玩家Gui中显示 \"按列整理\" 按钮",
+    "vi": null
+  },
+  "inventoryprofiles.config.description.in_columns_post_action": {
+    "en": "Set the post action for \"Sort in Columns\" button",
+    "zh": "设置 \"按列整理\" 按钮的整理操作",
+    "vi": null
+  },
+  "inventoryprofiles.config.description.in_columns_sort_order": {
+    "en": "Set the sort order for \"Sort in Columns\" button",
+    "zh": "设置 \"按列整理\" 按钮的整理规则",
+    "vi": null
+  },
+  "inventoryprofiles.config.description.in_columns_custom_rule": {
+    "en": "Set the custom rule for sort in columns button",
+    "zh": "设置 \"按列整理\" 按钮的自定义规则操作",
+    "vi": null
+  },
+  "inventoryprofiles.config.description.show_sort_in_rows_button": {
+    "en": "Show \"Sort in Rows\" button in the container/player Gui.",
+    "zh": "在容器/玩家Gui中显示 \"按行整理\" 按钮",
+    "vi": null
+  },
+  "inventoryprofiles.config.description.in_rows_post_action": {
+    "en": "Set the post action for \"Sort in Rows\" button.",
+    "zh": "设置 \"按行整理\" 按钮的整理操作",
+    "vi": null
+  },
+  "inventoryprofiles.config.description.in_rows_sort_order": {
+    "en": "Set the sort order for \"Sort in Rows\" button.",
+    "zh": "设置 \"按行整理\" 按钮的整理规则",
+    "vi": null
+  },
+  "inventoryprofiles.config.description.in_rows_custom_rule": {
+    "en": "Set the custom rule for \"Sort in Rows\" button.",
+    "zh": "设置 \"按行整理\" 按钮的自定义规则操作",
+    "vi": null
+  },
+  "inventoryprofiles.config.description.show_move_all_button": {
+    "en": "Show \"Move All\" buttons in the container/player Gui.",
+    "zh": "在容器/玩家Gui中显示 \"移动全部\" 按钮",
+    "vi": null
+  },
+  "inventoryprofiles.config.description.show_button_tooltips": {
+    "en": "Display tooltips for the buttons.",
+    "zh": "显示按钮的提示",
+    "vi": null
+  },
+  "inventoryprofiles.gui.config.AutoRefillSettings": {
+    "en": "Auto Refill",
+    "zh": "自动重装",
+    "vi": null
+  },
+  "inventoryprofiles.config.category.auto-refill.general": {
+    "en": "General",
+    "zh": "常规",
+    "vi": null
+  },
+  "inventoryprofiles.config.category.auto-refill.non-enchanted": {
+    "en": "Non Enchanted Items",
+    "zh": "无附魔物品",
+    "vi": null
+  },
+  "inventoryprofiles.config.category.auto-refill.matching": {
+    "en": "Items Matching",
+    "zh": "物品匹配",
+    "vi": null
+  },
+  "inventoryprofiles.config.category.auto-refill.notifications": {
+    "en": "Notifications",
+    "zh": "通知",
+    "vi": null
+  },
+  "inventoryprofiles.config.name.disable_for_drop_item": {
+    "en": "Disable For Dropped Item",
+    "zh": "对扔出物品禁用",
+    "vi": null
+  },
+  "inventoryprofiles.config.name.ignore_locked_slots": {
+    "en": "Use Items From Locked Slots",
+    "zh": "调用锁定槽位",
+    "vi": null
+  },
+  "inventoryprofiles.config.name.auto_refill_prefer_smaller_stacks": {
+    "en": "Refill with smallest available stack",
+    "zh": null,
+    "vi": null
+  },
+  "inventoryprofiles.config.name.refill_armor": {
+    "en": "Refill Armor Before It Breaks",
+    "zh": "在损坏前重装护甲",
+    "vi": null
+  },
+  "inventoryprofiles.config.name.refill_before_tool_break": {
+    "en": "Replace Tools Before They Break",
+    "zh": "在损坏前重装工具",
+    "vi": null
+  },
+  "inventoryprofiles.config.name.disable_for_loyalty_items": {
+    "en": "Don't Replace Loyalty Gear",
+    "zh": "对忠诚装备禁用",
+    "vi": null
+  },
+  "inventoryprofiles.config.name.auto_refill_match_custom_name": {
+    "en": "Differentiate By Custom Name",
+    "zh": "按自定义名称区分",
+    "vi": null
+  },
+  "inventoryprofiles.config.name.auto_refill_match_nbt": {
+    "en": "Differentiate By NBT",
+    "zh": "按NBT区分",
+    "vi": null
+  },
+  "inventoryprofiles.config.name.auto_refill_match_nbt_type": {
+    "en": "NBT Comparison Type",
+    "zh": "NBT比较类型",
+    "vi": null
+  },
+  "inventoryprofiles.config.name.auto_refill_ignore_nbt_for_buckets": {
+    "en": "Ignore NBT for buckets",
+    "zh": "忽略桶的NBT",
+    "vi": null
+  },
+  "inventoryprofiles.config.name.auto_refill_match_any_food": {
+    "en": "Refill With Any Food",
+    "zh": "补充任何食物",
+    "vi": null
+  },
+  "inventoryprofiles.config.name.auto_refill_match_harmful_food": {
+    "en": "Allow refill with harmful foods.",
+    "zh": "允许补充有害食物。",
+    "vi": null
+  },
+  "inventoryprofiles.config.name.autorefill_blacklist": {
+    "en": "Blacklisted item types",
+    "zh": "黑名单物品类型",
+    "vi": null
+  },
+  "inventoryprofiles.config.name.tool_damage_threshold": {
+    "en": "Damage Threshold",
+    "zh": "耐久阈值",
+    "vi": null
+  },
+  "inventoryprofiles.config.name.threshold_unit": {
+    "en": "Threshold Units",
+    "zh": "阈值单位",
+    "vi": null
+  },
+  "inventoryprofiles.config.name.auto_refill_wait_tick": {
+    "en": "Number of Ticks to Wait Before Auto Refill",
+    "zh": "自动重装前等待时间(Ticks)",
+    "vi": null
+  },
+  "inventoryprofiles.config.name.auto_refill_temp_disable_refill_for_tools": {
+    "en": "Disable Refill for Tools While Holding",
+    "zh": null,
+    "vi": null
+  },
+  "inventoryprofiles.config.name.allow_break_for_non_enchanted": {
+    "en": "Allow Some Non Enchanted Gear to Break",
+    "zh": "允许无附魔装备损坏",
+    "vi": null
+  },
+  "inventoryprofiles.config.name.tool_max_durability_threshold": {
+    "en": "Max Durability Threshold",
+    "zh": "最大耐久阈值",
+    "vi": null
+  },
+  "inventoryprofiles.config.name.visual_durability_notification": {
+    "en": "Visual Alert Before Tool Switch",
+    "zh": "工具切换前视觉提示",
+    "vi": null
+  },
+  "inventoryprofiles.config.name.type_visual_durability_notification": {
+    "en": "Kind of Visual Alert",
+    "zh": "视觉提示类型",
+    "vi": null
+  },
+  "inventoryprofiles.config.name.audio_durability_notification": {
+    "en": "Sound Alert Before Tool Switch",
+    "zh": "工具切换前声音提示",
+    "vi": null
+  },
+  "inventoryprofiles.config.name.number_of_notifications": {
+    "en": "Number of Alerts Before Switch",
+    "zh": "工具切换前提示次数",
+    "vi": null
+  },
+  "inventoryprofiles.config.name.notification_step": {
+    "en": "Durability Step",
+    "zh": "耐久间隔",
+    "vi": null
+  },
+  "inventoryprofiles.config.name.visual_replace_success_notification": {
+    "en": "Visual Alert on Replace",
+    "zh": "替换成功视觉提示",
+    "vi": null
+  },
+  "inventoryprofiles.config.name.audio_replace_success_notification": {
+    "en": "Sound Alert on Replace",
+    "zh": "替换成功声音提示",
+    "vi": null
+  },
+  "inventoryprofiles.config.name.type_visual_replace_success_notification": {
+    "en": "Kind of Visual Alert",
+    "zh": "视觉提示类型",
+    "vi": null
+  },
+  "inventoryprofiles.config.name.visual_replace_failed_notification": {
+    "en": "Visual Alert on Failed Replace",
+    "zh": "替换失败视觉提示",
+    "vi": null
+  },
+  "inventoryprofiles.config.name.audio_replace_failed_notification": {
+    "en": "Sound Alert on Failed Replace",
+    "zh": "替换失败声音提示",
+    "vi": null
+  },
+  "inventoryprofiles.config.name.type_visual_replace_failed_notification": {
+    "en": "Kind of Visual Alert",
+    "zh": "视觉提示类型",
+    "vi": null
+  },
+  "inventoryprofiles.config.description.type_visual_replace_failed_notification": {
+    "en": "Controls what type of visual alert is used when a tool can't be replaced.",
+    "zh": "控制工具替换失败时的视觉提示类型",
+    "vi": null
+  },
+  "inventoryprofiles.config.description.audio_replace_failed_notification": {
+    "en": "If enabled you will get sound alert when a tool replace was unsuccessful.",
+    "zh": "如果开启，当工具替换失败时你将收到声音提示。",
+    "vi": null
+  },
+  "inventoryprofiles.config.description.visual_replace_failed_notification": {
+    "en": "If enabled you will get visual alert when a tool replace was unsuccessful.",
+    "zh": "如果开启，当工具替换失败时你将收到视觉提示。",
+    "vi": null
+  },
+  "inventoryprofiles.config.description.type_visual_replace_success_notification": {
+    "en": "Controls what type of visual alert is used when a tool have been replaced.",
+    "zh": "控制工具替换成功时的视觉提示类型",
+    "vi": null
+  },
+  "inventoryprofiles.config.description.audio_replace_success_notification": {
+    "en": "If enabled you will get sound alert when a tool is replaced because of depleted durability.",
+    "zh": "如果开启，当工具因耐久不足替换成功时你将收到声音提示。",
+    "vi": null
+  },
+  "inventoryprofiles.config.description.visual_replace_success_notification": {
+    "en": "If enabled you will get visual alert when a tool is replaced because of depleted durability.",
+    "zh": "如果开启，当工具因耐久不足替换成功时你将收到视觉提示。",
+    "vi": null
+  },
+  "inventoryprofiles.config.description.notification_step": {
+    "en": "Points of durability between alerts",
+    "zh": "提示间隔的耐久度",
+    "vi": null
+  },
+  "inventoryprofiles.config.description.number_of_notifications": {
+    "en": "How many notification you will get before the switch",
+    "zh": "在切换前你会收到多少次提醒",
+    "vi": null
+  },
+  "inventoryprofiles.config.description.audio_durability_notification": {
+    "en": "If enabled a specific sound will be played when a tool durability is close to switch point.",
+    "zh": "如果开启，当工具耐久接近切换值时将播放特定的音效。",
+    "vi": null
+  },
+  "inventoryprofiles.config.description.type_visual_durability_notification": {
+    "en": "Controls what type of visual alert is used in case a tool durability is close to switch point.",
+    "zh": "控制工具耐久接近切换值时的视觉提示类型",
+    "vi": null
+  },
+  "inventoryprofiles.config.description.visual_durability_notification": {
+    "en": "This enables visual notifications when a tool/armor durability is getting close to the level for replacement.",
+    "zh": "如果开启，当工具耐久接近切换值时将有视觉上的提示。",
+    "vi": null
+  },
+  "inventoryprofiles.config.description.enable_auto_refill": {
+    "en": "Refill the active item when the stack runs out.",
+    "zh": "当物品用尽时重装手中物品",
+    "vi": null
+  },
+  "inventoryprofiles.config.description.disable_for_drop_item": {
+    "en": "Disable \"Auto Refill\" for dropped items",
+    "zh": "对扔出物品禁用 \"自动重装\"",
+    "vi": null
+  },
+  "inventoryprofiles.config.description.ignore_locked_slots": {
+    "en": "Allow Auto Refill to use items from locked slots.",
+    "zh": "允许自动重装使用锁定槽位中的物品",
+    "vi": null
+  },
+  "inventoryprofiles.config.description.auto_refill_prefer_smaller_stacks": {
+    "en": "Be default the stack with most items in it will be used for auto refill. If this is set to `true` the smallest available will be used first.",
+    "zh": null,
+    "vi": null
+  },
+  "inventoryprofiles.config.description.refill_armor": {
+    "en": "Refill armor slots if items are about to break",
+    "zh": "当护甲即将损坏时重装护甲栏",
+    "vi": null
+  },
+  "inventoryprofiles.config.description.refill_before_tool_break": {
+    "en": "Refill tools and armor before they break.\nSee \"Damage Threshold\" for more information.",
+    "zh": "在工具和护甲损坏前自动重装\n更多信息参见 \"耐久阈值\"",
+    "vi": null
+  },
+  "inventoryprofiles.config.description.disable_for_loyalty_items": {
+    "en": "Disable replacement of Loyalty enchanted gear.\nWhen this is true anything that is enchanted with any level of Loyalty\n will not be replaced when thrown or dropped.",
+    "zh": "取消对忠诚附魔装备的替换。\n当此选项开启时，任何有忠诚附魔的装备在抛出或扔出时不会被替换。",
+    "vi": null
+  },
+  "inventoryprofiles.config.description.auto_refill_match_custom_name": {
+    "en": "Auto refill will take Custom Names into account when refilling blocks\nFor gear custom names are ignored.",
+    "zh": "重装方块时，自动填充将考虑自定义名称\n对于装备自定义名称被忽略。",
+    "vi": null
+  },
+  "inventoryprofiles.config.description.auto_refill_match_nbt": {
+    "en": "Auto refill will take NBT into account when refilling blocks\nFor gear NBT is ignored.",
+    "zh": "重装方块时，自动填充将考虑NBT\n对于装备NBT被忽略。",
+    "vi": null
+  },
+  "inventoryprofiles.config.description.auto_refill_match_nbt_type": {
+    "en": "This controls how is NBT compared.\n'Exact' means that NBT must fully match.\n'Allow Extra' means that only tags that are the same will be compared.",
+    "zh": "这控制如何比较NBT。\n'精准'表示NBT必须完全匹配。\n'允许附加'表示只比较相同的标签。",
+    "vi": null
+  },
+  "inventoryprofiles.config.description.auto_refill_ignore_nbt_for_buckets": {
+    "en": "If this is set to false Fish and Axolotl buckets will only refill if they contain the same type of Fish/Axolotl.",
+    "zh": "如果将其设置为关鱼和美西螈桶只有在它们包含相同类型的鱼/美西螈时才会重装",
+    "vi": null
+  },
+  "inventoryprofiles.config.description.auto_refill_match_any_food": {
+    "en": "When this is set to true when a food item stack is depleted any other food item can be used to refill it.\n\nNOTE:\nThis will sort the food items by saturation, i.e. and enchanted golden apple will be the first choice. And so on...",
+    "zh": "当此值设置为开时，当一组食物耗尽时，可以使用任何其他食物来补充它。\n\n注意：\n这将按饱和度对食物物品进行排序，即附魔金苹果将是首选。等等...",
+    "vi": null
+  },
+  "inventoryprofiles.config.description.auto_refill_match_harmful_food": {
+    "en": "When this and the above are set to true, harmful foods, like 'puffer fish', will also be uset to refill depleted food stacks.",
+    "zh": "当此值和上面的选项设置为开时，有害食物，如“河豚”，也将被用来补充耗尽的一组食物。",
+    "vi": null
+  },
+  "inventoryprofiles.config.description.autorefill_blacklist": {
+    "en": "Comma separated list of item types to that will be ignored by Auto refill\nFor example 'minecraft:golden_axe,minecraft:stone'\nWARNING:\nTo avoid performance degradation DO NOT put too many item types in the list!",
+    "zh": "将被自动重装忽略的物品种类列表，以逗号进行分隔。\n例如：'minecraft:golden_axe,minecraft:stone'\n警告：\n为了避免性能下降，不要在列表中添加过多的物品种类！",
+    "vi": null
+  },
+  "inventoryprofiles.config.description.tool_damage_threshold": {
+    "en": "Controls the durability level that will trigger auto refill.",
+    "zh": "控制触发自动重装的耐久等级",
+    "vi": null
+  },
+  "inventoryprofiles.config.description.threshold_unit": {
+    "en": "Set the unit for \"Damage Threshold\".\nAbsolute value and percentage (%%) are supported.",
+    "zh": "设置 \"耐久阈值\" 的单位\n支持绝对值和百分比(%%)",
+    "vi": null
+  },
+  "inventoryprofiles.config.description.auto_refill_wait_tick": {
+    "en": "Auto refill will wait this many ticks before doing the swap. \nThis might be useful on some during high server lag. \nHowever, depending on the \"Damage Threshold\" value, the tool might break before a swap is initiated.",
+    "zh": "自动重装在交换前将等待的时间(ticks)\n这可能在一些高卡顿的服务器中有用。\n然而，根据 \"耐久阈值\" 的值，工具可能在交换开始之前就发生损坏。",
+    "vi": null
+  },
+  "inventoryprofiles.config.description.auto_refill_temp_disable_refill_for_tools": {
+    "en": "Holding this key will disable auto refill for tools this allows you to break tools if you want to.",
+    "zh": null,
+    "vi": null
+  },
+  "inventoryprofiles.config.description.allow_break_for_non_enchanted": {
+    "en": "Don't try to save non enchanted items.\nThat has maximum durability less than the setting below.",
+    "zh": "不再尝试保存无附魔物品。\n最大耐久值低于下方的设置的物品将不再保存。",
+    "vi": null
+  },
+  "inventoryprofiles.config.description.tool_max_durability_threshold": {
+    "en": "Tools with maximum durability below this value will be allowed to break if the setting above is true.\nThe idea that most players don't really want to keep stone tools,\n but will be annoyed if they break a diamond one.",
+    "zh": "当上方的设置开启时，最大耐久低于此值的工具将允许被破坏\n这个选项是因为大多数玩家并不像保存石制工具，而在钻石工具损坏时又会感到懊恼。",
+    "vi": null
+  },
+  "inventoryprofiles.config.notification.tool_replace_ping.ipn": {
+    "en": "IPN ",
+    "zh": "IPN ",
+    "vi": null
+  },
+  "inventoryprofiles.config.notification.tool_replace_ping.warning": {
+    "en": "WARNING ",
+    "zh": "警告 ",
+    "vi": null
+  },
+  "inventoryprofiles.config.notification.tool_replace_ping.durability": {
+    "en": "\"%s\" Durability is: %s ",
+    "zh": "\"%s\" 耐久为：%s ",
+    "vi": null
+  },
+  "inventoryprofiles.config.notification.tool_replace_ping.replacing": {
+    "en": "Replacing at: %s",
+    "zh": "替换耐久：%s",
+    "vi": null
+  },
+  "inventoryprofiles.config.notification.tool_replace_failed.replacing": {
+    "en": "\"%s\" replace failed",
+    "zh": "\"%s\" 替换失败",
+    "vi": null
+  },
+  "inventoryprofiles.config.notification.tool_replace_success": {
+    "en": "replaced with",
+    "zh": "替换为",
+    "vi": null
+  },
+  "inventoryprofiles.gui.config.LockedSlotsSettings": {
+    "en": "Locked Slots",
+    "zh": "槽位锁定",
+    "vi": null
+  },
+  "inventoryprofiles.config.category.lock_slots.gui": {
+    "en": "GUI Overlay",
+    "zh": "GUI显示",
+    "vi": null
+  },
+  "inventoryprofiles.config.category.lock_slots.empty": {
+    "en": "Empty Locked Slots Handling",
+    "zh": "空锁定槽位处理",
+    "vi": null
+  },
+  "inventoryprofiles.config.name.lock_slots_switch_config_modifier": {
+    "en": "Switch Config Modifier",
+    "zh": "开关配置热键",
+    "vi": null
+  },
+  "inventoryprofiles.config.name.lock_slots_config_key": {
+    "en": "Config Key",
+    "zh": "配置热键",
+    "vi": null
+  },
+  "inventoryprofiles.config.name.lock_slots_quick_config_key": {
+    "en": "Quick Config Key",
+    "zh": "快速配置热键",
+    "vi": null
+  },
+  "inventoryprofiles.config.name.lock_slots_quick_disable": {
+    "en": "Quick Disable",
+    "zh": "快速关闭",
+    "vi": null
+  },
+  "inventoryprofiles.config.name.lock_slots_config_switch_type": {
+    "en": "Config Switch Type",
+    "zh": "配置开关类型",
+    "vi": null
+  },
+  "inventoryprofiles.config.name.show_locked_slots_background": {
+    "en": "Show Locked Slots Background",
+    "zh": "显示锁定槽位的背景",
+    "vi": null
+  },
+  "inventoryprofiles.config.name.show_locked_slots_bg_color": {
+    "en": "Background Color",
+    "zh": "背景颜色",
+    "vi": null
+  },
+  "inventoryprofiles.config.name.show_locked_slots_hotbar_color": {
+    "en": "Locked Hotbar Highlight Color",
+    "zh": "锁定快捷栏高亮颜色",
+    "vi": null
+  },
+  "inventoryprofiles.config.name.show_locked_slots_foreground": {
+    "en": "Show Locked Slots Foreground",
+    "zh": "显示锁定槽位的前景",
+    "vi": null
+  },
+  "inventoryprofiles.config.name.also_show_locked_slots_in_hotbar": {
+    "en": "Also Show Locked Slots in Hotbar",
+    "zh": "同时显示快捷栏锁定槽位",
+    "vi": null
+  },
+  "inventoryprofiles.config.name.locked_slots_empty_hotbar_blacklist": {
+    "en": "Items Allowed in Hotbar",
+    "zh": "允许在快捷栏中的物品",
+    "vi": null
+  },
+  "inventoryprofiles.config.description.locked_slots_empty_hotbar_blacklist": {
+    "en": "A list of item ids that will be allowed to be picked up into the hotbar\n\nThe format is 'namespace:item' so if you want stone to be allowed you need to add 'minecraft:stone'\nif the name doesn't contain ':' it will be considered that the whole namespace is allowed.",
+    "zh": "允许被拾取到快捷栏中的物品ID的列表\n\n格式是'命名空间:物品'所以如果你想让石头被允许，你需要添加'minecraft:stone'\n如果名称不包含':'将考虑允许所有命名空间。",
+    "vi": null
+  },
+  "inventoryprofiles.config.name.locked_slots_foreground_style": {
+    "en": "Locked Slots Foreground Style",
+    "zh": "锁定槽位前景样式",
+    "vi": null
+  },
+  "inventoryprofiles.config.name.locked_slots_disable_quick_move_throw": {
+    "en": "Disable Shift+Click and Ctrl+Q and Q",
+    "zh": "禁用 Shift+点击/Ctrl+Q/Q",
+    "vi": null
+  },
+  "inventoryprofiles.config.name.locked_slots_disable_throw_for_non_stackable": {
+    "en": "Disable (Q) Drop For Non-Stackable Locked Slots In Game",
+    "zh": "不可堆叠物品禁用扔出(Q)",
+    "vi": null
+  },
+  "inventoryprofiles.config.name.locked_slots_allow_pickup_into_empty": {
+    "en": "Enable Picking Items into Empty Locked Slots",
+    "zh": "开启锁定槽位拾取物品",
+    "vi": null
+  },
+  "inventoryprofiles.config.name.locked_slots_delay_keeper_reinit_ticks": {
+    "en": "Maximum Ticks to Wait on Dimension Change",
+    "zh": "维度改变最大等待时间",
+    "vi": null
+  },
+  "inventoryprofiles.config.name.lock_slots_disable_user_interaction": {
+    "en": "Disable All User Input on Locked Slots",
+    "zh": "锁定槽位禁止所有用户输入",
+    "vi": null
+  },
+  "inventoryprofiles.config.name.locked_slots_empty_hotbar_as_semi_locked": {
+    "en": "Pick Items Directly into the Inventory",
+    "zh": "将物品直接捡到到物品栏中",
+    "vi": null
+  },
+  "inventoryprofiles.config.description.lock_slots_switch_config_modifier": {
+    "en": "Config lock slots by \"Config Key\" while holding this key (Default Alt + Left Click to config lock slots)",
+    "zh": "按住\"配置热键\"来配置锁定槽位 (默认使用 Alt + 鼠标左键 来配置锁定槽位)",
+    "vi": null
+  },
+  "inventoryprofiles.config.description.lock_slots_config_key": {
+    "en": "Config lock slots while holding modifier key (Default Alt + Left Click to config lock slots)",
+    "zh": "按住热键时配置锁定槽位 (默认使用 Alt + 鼠标左键 来配置锁定槽位)",
+    "vi": null
+  },
+  "inventoryprofiles.config.description.lock_slots_quick_config_key": {
+    "en": "Config lock slots without holding modifier key",
+    "zh": "不按\"配置热键\"即可配置锁定槽位",
+    "vi": null
+  },
+  "inventoryprofiles.config.description.lock_slots_quick_disable": {
+    "en": "Quick disable lock slots when this key is being held down",
+    "zh": "按下此键来暂时关闭锁定槽位",
+    "vi": null
+  },
+  "inventoryprofiles.config.description.lock_slots_config_switch_type": {
+    "en": "Set config switch type to toggle or hold",
+    "zh": "设置配置开关类型为切换或按住",
+    "vi": null
+  },
+  "inventoryprofiles.config.description.show_locked_slots_background": {
+    "en": "Draw locked slots background.",
+    "zh": "绘制锁定槽背景。",
+    "vi": null
+  },
+  "inventoryprofiles.config.description.show_locked_slots_hotbar_color": {
+    "en": "Color to use to highlight locked hotbar slots in the HUD",
+    "zh": "用于突出显示HUD中锁定的快捷栏槽的颜色",
+    "vi": null
+  },
+  "inventoryprofiles.config.description.show_locked_slots_bg_color": {
+    "en": "The color used as background of locked slots.",
+    "zh": "锁定槽的背景颜色。",
+    "vi": null
+  },
+  "inventoryprofiles.config.description.show_locked_slots_foreground": {
+    "en": "Draw locked slots foreground\n\nYou can create your own texture and put it in\nresourcepacks/§o[pack_name]§r/assets/inventoryprofilesnext/textures/gui/overlay.png",
+    "zh": "显示锁定槽位前景\n\n你可以创建自己的材质然后把它放在\nresourcepacks/§o[pack_name]§r/assets/inventoryprofilesnext/textures/gui/overlay.png",
+    "vi": null
+  },
+  "inventoryprofiles.config.description.also_show_locked_slots_in_hotbar": {
+    "en": "When enabled locked slots are also rendered in the HUD Hotbar",
+    "zh": "当启用锁定槽位时也将在快捷栏HUD中显示。",
+    "vi": null
+  },
+  "inventoryprofiles.config.description.locked_slots_foreground_style": {
+    "en": "Select foreground style from preset\n\nYou can create your own texture and put it in\nresourcepacks/§o[pack_name]§r/assets/inventoryprofilesnext/textures/gui/overlay.png",
+    "zh": "从预设中选择前景风格\n\n你可以创建自己的材质然后把它放在\nresourcepacks/§o[pack_name]§r/assets/inventoryprofilesnext/textures/gui/overlay.png",
+    "vi": null
+  },
+  "inventoryprofiles.config.description.locked_slots_disable_quick_move_throw": {
+    "en": "In the inventory screen locked slots will be immune to:\n - Shift+Click\n - Ctrl+Q\n - Swipe Shift+Click\n - Swipe Ctrl+Q",
+    "zh": "在物品栏界面锁定槽位将忽略以下操作：\n - Shift+点击\n - Ctrl+Q\n - Shift+点击+划动\n - Ctrl+Q+划动",
+    "vi": null
+  },
+  "inventoryprofiles.config.description.locked_slots_disable_throw_for_non_stackable": {
+    "en": "Disables Drop operations for hotbar locked slots while in game.\nStopping you from throwing your pickaxe in lava.",
+    "zh": "禁用在游戏内时对快捷栏锁定槽位的扔出操作。\n防止你把镐子扔进熔岩里。",
+    "vi": null
+  },
+  "inventoryprofiles.config.description.locked_slots_allow_pickup_into_empty": {
+    "en": "Should it be possible to pick items from the ground into EMPTY locked slots.\nStackable items will still be picked into locked sots of the same item that have room.\nNOTE: See next setting description for more information!",
+    "zh": "是否可以拾取物品到空的锁定槽位中。\n在此选项禁用时，可堆叠的物品仍会拾取到已被占据的锁定槽位中。\n注意：查看下一项设置的描述来了解更多信息！",
+    "vi": null
+  },
+  "inventoryprofiles.config.description.locked_slots_empty_hotbar_as_semi_locked": {
+    "en": "This will try to pickup items directly into the inventory instead of taking empty slot from the hotbar.\nNOTE: For this to work \"Enable Picking Items into Empty Locked Slots\" must be set to \"false\"!",
+    "zh": "这将尝试将物品直接拾取到物品栏中而不是从快捷栏中取出空槽。\n注意：为了这能工作\"开启锁定槽位拾取物品\"必须为\"关\"!",
+    "vi": null
+  },
+  "inventoryprofiles.config.description.locked_slots_delay_keeper_reinit_ticks": {
+    "en": "The maximum number of client ticks to wait for the server to send the content of the player inventory. \nIf locked slots get items moved out/thrown away on dimension change you need to increase this value.\nThis often happens on servers under heavy load.\nNOTE: 20 ticks are equivalent of 1 second.\n§l§cWARNING§r: Setting this too high MAY lead to locked slot management not working properly until this timeout expires.",
+    "zh": "等待服务器发送玩家物品栏内容的最大客户端时间(ticks)\n如果锁定槽位在维度改变时物品被移出/丢出，则需要增大这个值。\n这种情况经常发生在负载过重的服务器上。\n注意：20 ticks相当于1秒。\n§l§c警告§r：设置过高的值可能会导致锁定槽位无法正常工作，直到超时。",
+    "vi": null
+  },
+  "inventoryprofiles.config.description.lock_slots_disable_user_interaction": {
+    "en": "The idea is that any user actions on locked slots will be disabled.\nEssentially you will need to unlock it before moving, or performing any other action on the item.\nAutomated actions, profiles, auto refill and so on, are not affected",
+    "zh": "意思是，任何对锁定槽位的用户操作都将被无效。\n基本上，你需要在移动物品或执行任何其他操作之前进行解锁。\n自动操作、profiles、自动重装等不受影响。",
+    "vi": null
+  },
+  "inventoryprofiles.gui.config.EditProfiles": {
+    "en": "Edit Profiles",
+    "zh": "档案编辑",
+    "vi": null
+  },
+  "inventoryprofiles.gui.config.profiles_help_button": {
+    "en": "Open Wiki",
+    "zh": "打开wiki",
+    "vi": null
+  },
+  "inventoryprofiles.gui.config.profiles_config_button": {
+    "en": "Profiles Config",
+    "zh": "档案设置",
+    "vi": null
+  },
+  "inventoryprofiles.config.name.open_config_profiles_help": {
+    "en": "§aOpen Profiles Wiki",
+    "zh": "§a打开档案Wiki",
+    "vi": null
+  },
+  "inventoryprofiles.config.name.open_server_profiles": {
+    "en": "§aOpen Profiles For Current Server",
+    "zh": "§a打开当前服务器的档案",
+    "vi": null
+  },
+  "inventoryprofiles.config.category.still_under_construction": {
+    "en": "Not Finished Yet!",
+    "zh": "还未完成！",
+    "vi": null
+  },
+  "inventoryprofiles.config.category.quick_slots": {
+    "en": "Quick Profile Settings",
+    "zh": "快捷档案设置",
+    "vi": null
+  },
+  "inventoryprofiles.config.category.profiles_help_message": {
+    "en": "For more information",
+    "zh": "获取更多信息",
+    "vi": null
+  },
+  "inventoryprofiles.config.name.quick_slot_1_profile": {
+    "en": "Quick Profile 1 Name",
+    "zh": "快捷档案 1 名称",
+    "vi": null
+  },
+  "inventoryprofiles.config.name.quick_slot_2_profile": {
+    "en": "Quick Profile 2 Name",
+    "zh": "快捷档案 2 名称",
+    "vi": null
+  },
+  "inventoryprofiles.config.name.quick_slot_3_profile": {
+    "en": "Quick Profile 3 Name",
+    "zh": "快捷档案 3 名称",
+    "vi": null
+  },
+  "inventoryprofiles.config.description.quick_slot_1_profile": {
+    "en": "The name of the Profile that will be accessible with Quick Profile 1 hot key.",
+    "zh": "可通过快捷档案 1 热键访问的档案的名称",
+    "vi": null
+  },
+  "inventoryprofiles.config.description.quick_slot_2_profile": {
+    "en": "The name of the Profile that will be accessible with Quick Profile 2 hot key.",
+    "zh": "可通过快捷档案 2 热键访问的档案的名称",
+    "vi": null
+  },
+  "inventoryprofiles.config.description.quick_slot_3_profile": {
+    "en": "The name of the Profile that will be accessible with Quick Profile 3 hot key.",
+    "zh": "可通过快捷档案 3 热键访问的档案的名称",
+    "vi": null
+  },
+  "inventoryprofiles.config.name.include_custom_name": {
+    "en": "Include custom names in the 'Saved' profiles",
+    "zh": "'Saved'档案中包含自定义名称",
+    "vi": null
+  },
+  "inventoryprofiles.config.description.include_custom_name": {
+    "en": "If this is enabled the custom item names will be included in the 'Saved' profiles.\nThis is NOT recommended for general use, but it's useful is some cases like having a profiles with different backpacks or some other type of storage.\n\nWhen it comes to normal gear matching by enchantments is the best approach.",
+    "zh": "如果启用，保存的档案中将会包含自定义物品名称。\n一般情况下不推荐使用，但在一些情况下(档案中有不同的背包或其他类型的存储空间)，它能发挥作用。\n对于普通的装备来说，通过附魔进行匹配是最好的方法。",
+    "vi": null
+  },
+  "inventoryprofiles.gui.config.ScrollSettings": {
+    "en": "Item Scrolling",
+    "zh": "物品滚动",
+    "vi": null
+  },
+  "inventoryprofiles.config.category.scroll.modifiers": {
+    "en": "Scroll Hot Keys Modifiers",
+    "zh": "滚动热键修饰符",
+    "vi": null
+  },
+  "inventoryprofiles.config.category.scroll.single": {
+    "en": "Scrolling Cursor Items",
+    "zh": "滚动光标物品",
+    "vi": null
+  },
+  "inventoryprofiles.config.name.scroll_full_stack": {
+    "en": "Scroll The Whole Stack",
+    "zh": "滚动整组",
+    "vi": null
+  },
+  "inventoryprofiles.config.description.scroll_full_stack": {
+    "en": "If you hold this key while using the scroll to chest/player keys the full stack will be scrolled not just 1 item.\nNOTE:\nThis modifies the behaviour of the options below to work on a stack level not on single item.",
+    "zh": "如果你在使用滚动到箱子/玩家时按住此键，整组将被滚动，而不仅仅是1个物品。\n注意:\n这会修改以下选项的行为以在一组级别上工作而不是单个项目。",
+    "vi": null
+  },
+  "inventoryprofiles.config.name.scroll_leave_last": {
+    "en": "Leave One",
+    "zh": "保留一个",
+    "vi": null
+  },
+  "inventoryprofiles.config.description.scroll_leave_last": {
+    "en": "If you hold this key while using the scroll to chest/player keys the 1 item from the source stack will be left in the original slot",
+    "zh": "如果你在使用滚动到箱子/玩家时按住此键，原组中的一个物品将留在原始位置",
+    "vi": null
+  },
+  "inventoryprofiles.config.name.scroll_spread": {
+    "en": "Spread",
+    "zh": "扩散",
+    "vi": null
+  },
+  "inventoryprofiles.config.description.scroll_spread": {
+    "en": "If you hold this key while using the scroll to chest/player keys All free target slots will be filled with the same or almost the same amount of items",
+    "zh": "如果你在使用滚动到箱子/玩家时按住此键，所有空闲的目标位置都将被相同或几乎相同数量的物品填充",
+    "vi": null
+  },
+  "inventoryprofiles.config.name.scroll_throw": {
+    "en": "Drop/Throw",
+    "zh": "扔出",
+    "vi": null
+  },
+  "inventoryprofiles.config.description.scroll_throw": {
+    "en": "If you hold this key while using the scroll to chest/player keys the items will be dropped out of the inventory and opened container.\nNOTE:\nThe direction is ignored.",
+    "zh": "如果你在使用滚动到箱子/玩家时按住此键，物品将从物品栏中扔出并打开容器\n注意:\n方向被忽略。",
+    "vi": null
+  },
+  "inventoryprofiles.config.name.scroll_auto_pickup_next_for_single": {
+    "en": "Auto refill cursor",
+    "zh": "自动填充光标",
+    "vi": null
+  },
+  "inventoryprofiles.config.description.scroll_auto_pickup_next_for_single": {
+    "en": "If this is true a new stack will be picked up if the current stack in cursor ends while scrolling the cursor items ",
+    "zh": "如果为开，光标中的一组物品用完时将会捡起新的一组自动填充光标",
+    "vi": null
+  },
+  "inventoryprofiles.gui.config.Hotkeys": {
+    "en": "Hotkeys",
+    "zh": "热键",
+    "vi": null
+  },
+  "inventoryprofiles.config.category.hotkeys": {
+    "en": "Hotkeys",
+    "zh": "热键",
+    "vi": null
+  },
+  "inventoryprofiles.config.category.misc": {
+    "en": "Misc",
+    "zh": "杂项",
+    "vi": null
+  },
+  "inventoryprofiles.config.name.open_config_menu": {
+    "en": "Open Config Menu",
+    "zh": "打开配置菜单",
+    "vi": null
+  },
+  "inventoryprofiles.config.name.reload_custom_configs": {
+    "en": "Reload MOD Configurations",
+    "zh": "重载模组配置",
+    "vi": null
+  },
+  "inventoryprofiles.config.name.sort_inventory": {
+    "en": "Sort Inventory",
+    "zh": "整理物品栏",
+    "vi": null
+  },
+  "inventoryprofiles.config.name.sort_inventory_in_columns": {
+    "en": "Sort Inventory In Columns",
+    "zh": "按列整理物品栏",
+    "vi": null
+  },
+  "inventoryprofiles.config.name.sort_inventory_in_rows": {
+    "en": "Sort Inventory In Rows",
+    "zh": "按行整理物品栏",
+    "vi": null
+  },
+  "inventoryprofiles.config.name.move_all_items": {
+    "en": "Move All Items",
+    "zh": "移动全部物品",
+    "vi": null
+  },
+  "inventoryprofiles.config.name.throw_all_items": {
+    "en": "Throw All Items",
+    "zh": "扔出全部物品",
+    "vi": null
+  },
+  "inventoryprofiles.config.name.dump_item_nbt_to_chat": {
+    "en": "Dump Item Nbt To Chat",
+    "zh": "输出物品NBT到聊天栏",
+    "vi": null
+  },
+  "inventoryprofiles.config.name.open_gui_editor": {
+    "en": "Show GUI overlay Config",
+    "zh": "显示Gui覆盖配置",
+    "vi": null
+  },
+  "inventoryprofiles.config.name.apply_profile": {
+    "en": "Reapply the Currently Selected Profile",
+    "zh": "重新应用当前档案",
+    "vi": null
+  },
+  "inventoryprofiles.config.name.next_profile": {
+    "en": "Select and Apply Next Profile",
+    "zh": "选中并应用下一档案",
+    "vi": null
+  },
+  "inventoryprofiles.config.name.prev_profile": {
+    "en": "Select and Apply Previous Profile",
+    "zh": "选中并应用上一档案",
+    "vi": null
+  },
+  "inventoryprofiles.config.name.profile_1": {
+    "en": "Select and Apply Quick Profile 1",
+    "zh": "选中并应用快捷档案 1",
+    "vi": null
+  },
+  "inventoryprofiles.config.name.profile_2": {
+    "en": "Select and Apply Quick Profile 2",
+    "zh": "选中并应用快捷档案 2",
+    "vi": null
+  },
+  "inventoryprofiles.config.name.profile_3": {
+    "en": "Select and Apply Quick Profile 3",
+    "zh": "选中并应用快捷档案 3",
+    "vi": null
+  },
+  "inventoryprofiles.config.name.save_as_profile": {
+    "en": "Save the current state as \"Saved\" Profile",
+    "zh": "保存当前状态为 \"Saved\" 档案",
+    "vi": null
+  },
+  "inventoryprofiles.config.name.scroll_to_chest": {
+    "en": "Scroll Items From Player to Chest",
+    "zh": "将物品从玩家滚动到箱子",
+    "vi": null
+  },
+  "inventoryprofiles.config.name.scroll_to_inventory": {
+    "en": "Scroll Items From Chest to Player",
+    "zh": "将物品从箱子滚动到玩家",
+    "vi": null
+  },
+  "inventoryprofiles.config.name.global_bookmark_trade": {
+    "en": "Add Global Bookmark",
+    "zh": null,
+    "vi": null
+  },
+  "inventoryprofiles.config.name.local_bookmark_trade": {
+    "en": "Add Local Bookmark",
+    "zh": null,
+    "vi": null
+  },
+  "inventoryprofiles.config.name.do_global_trade": {
+    "en": "Do Global Trades",
+    "zh": null,
+    "vi": null
+  },
+  "inventoryprofiles.config.name.do_local_trade": {
+    "en": "Do Local Trades",
+    "zh": null,
+    "vi": null
+  },
+  "inventoryprofiles.config.description.global_bookmark_trade": {
+    "en": "Adds the trade under the mouse cursor as a global bookmark.",
+    "zh": null,
+    "vi": null
+  },
+  "inventoryprofiles.config.description.local_bookmark_trade": {
+    "en": "Adds the trade under the mouse cursor as a local bookmark.",
+    "zh": null,
+    "vi": null
+  },
+  "inventoryprofiles.config.description.do_global_trade": {
+    "en": "Executes all possible globally bookmarked trades.",
+    "zh": null,
+    "vi": null
+  },
+  "inventoryprofiles.config.description.do_local_trade": {
+    "en": "Executes all possible locally bookmarked trades.",
+    "zh": null,
+    "vi": null
+  },
+  "inventoryprofiles.config.name.global_bookmark_trade1": {
+    "en": "Add Group 2 Global Bookmark",
+    "zh": null,
+    "vi": null
+  },
+  "inventoryprofiles.config.name.local_bookmark_trade1": {
+    "en": "Add Group 2 Local Bookmark",
+    "zh": null,
+    "vi": null
+  },
+  "inventoryprofiles.config.name.do_global_trade1": {
+    "en": "Do Group 2 Global Trades",
+    "zh": null,
+    "vi": null
+  },
+  "inventoryprofiles.config.name.do_local_trade1": {
+    "en": "Do Group 2 Local Trades",
+    "zh": null,
+    "vi": null
+  },
+  "inventoryprofiles.config.description.global_bookmark_trade1": {
+    "en": "Adds the trade under the mouse cursor as a global bookmark in group 2.",
+    "zh": null,
+    "vi": null
+  },
+  "inventoryprofiles.config.description.local_bookmark_trade1": {
+    "en": "Adds the trade under the mouse cursor as a local bookmark in group 2.",
+    "zh": null,
+    "vi": null
+  },
+  "inventoryprofiles.config.description.do_global_trade1": {
+    "en": "Executes all possible globally bookmarked trades from group 2.",
+    "zh": null,
+    "vi": null
+  },
+  "inventoryprofiles.config.description.do_local_trade1": {
+    "en": "Executes all possible locally bookmarked trades from group 2..",
+    "zh": null,
+    "vi": null
+  },
+  "inventoryprofiles.config.name.global_bookmark_trade2": {
+    "en": "Add Group 3 Global Bookmark",
+    "zh": null,
+    "vi": null
+  },
+  "inventoryprofiles.config.name.local_bookmark_trade2": {
+    "en": "Add Group 3 Local Bookmark",
+    "zh": null,
+    "vi": null
+  },
+  "inventoryprofiles.config.name.do_global_trade2": {
+    "en": "Do Group 3 Global Trades",
+    "zh": null,
+    "vi": null
+  },
+  "inventoryprofiles.config.name.do_local_trade2": {
+    "en": "Do Group 3 Local Trades",
+    "zh": null,
+    "vi": null
+  },
+  "inventoryprofiles.config.description.global_bookmark_trade2": {
+    "en": "Adds the trade under the mouse cursor as a global bookmark in group 3.",
+    "zh": null,
+    "vi": null
+  },
+  "inventoryprofiles.config.description.local_bookmark_trade2": {
+    "en": "Adds the trade under the mouse cursor as a local bookmark in group 3.",
+    "zh": null,
+    "vi": null
+  },
+  "inventoryprofiles.config.description.do_global_trade2": {
+    "en": "Executes all possible globally bookmarked trades from group 3.",
+    "zh": null,
+    "vi": null
+  },
+  "inventoryprofiles.config.description.do_local_trade2": {
+    "en": "Executes all possible locally bookmarked trades from group 3.",
+    "zh": null,
+    "vi": null
+  },
+  "inventoryprofiles.config.description.save_as_profile": {
+    "en": "This hotkey saves the current equipment set as a Profile named \"Saved\".\nYou can use the Saved profiles to build your own profiles.\n\n§l§cNOTE§r:\nEVERY TIME you press it a new Profile named \"Saved\" is created.\nThe \"Saved\" profiles will not be part of the next/previous rotation and cannot be assigned to Quick Profiles.",
+    "zh": "此快捷键将保存当前装备套装为名为\"Saved\"的档案\n你可以使用这个档案来构筑你自己的档案\n\n§l§c注意：§r\n每一次你按下这个按键时都将创建一个新的名为\"Saved\"的档案。\n\"Saved\"档案不能通过下一个/上一个档案进行转换，不能被设置为快捷档案。",
+    "vi": null
+  },
+  "inventoryprofiles.config.description.next_profile": {
+    "en": "Hotkey for changing to the next profile.",
+    "zh": "切换到下一档案的快捷键",
+    "vi": null
+  },
+  "inventoryprofiles.config.description.prev_profile": {
+    "en": "Hotkey for changing to the previous profile.",
+    "zh": "切换到上一档案的快捷键",
+    "vi": null
+  },
+  "inventoryprofiles.config.description.profile_1": {
+    "en": "Hotkey for changing to Quick Profile 1.\nYou can configure the Quick Profiles in the Edit Profiles config page.",
+    "zh": "切换到快捷档案 1的快捷键\n你可以在档案编辑配置页面配置快捷档案",
+    "vi": null
+  },
+  "inventoryprofiles.config.description.profile_2": {
+    "en": "Hotkey for changing to Quick Profile 2.\nYou can configure the Quick Profiles in the Edit Profiles config page.",
+    "zh": "切换到快捷档案 2的快捷键\n你可以在档案编辑配置页面配置快捷档案",
+    "vi": null
+  },
+  "inventoryprofiles.config.description.profile_3": {
+    "en": "Hotkey for changing to Quick Profile 3.\nYou can configure the Quick Profiles in the Edit Profiles config page.",
+    "zh": "切换到快捷档案 3的快捷键\n你可以在档案编辑配置页面配置快捷档案",
+    "vi": null
+  },
+  "inventoryprofiles.config.description.open_config_menu": {
+    "en": "The key open the in-game configuration.",
+    "zh": "打开游戏内配置界面的快捷键",
+    "vi": null
+  },
+  "inventoryprofiles.config.description.sort_inventory": {
+    "en": "The key to sort the inventory.",
+    "zh": "整理物品栏的快捷键",
+    "vi": null
+  },
+  "inventoryprofiles.config.description.sort_inventory_in_columns": {
+    "en": "The key to sort the inventory in columns.",
+    "zh": "按列整理物品栏的快捷键",
+    "vi": null
+  },
+  "inventoryprofiles.config.description.sort_inventory_in_rows": {
+    "en": "The key to sort the inventory in rows.",
+    "zh": "按行整理物品栏的快捷键",
+    "vi": null
+  },
+  "inventoryprofiles.config.description.move_all_items": {
+    "en": "The key to move all/matching the items that already existed in the container",
+    "zh": "移动容器内所有已有物品的快捷键",
+    "vi": null
+  },
+  "inventoryprofiles.config.description.throw_all_items": {
+    "en": "The key to throw all/matching items for either player inventory or the opened container.Generally useful for mass crafting.\nAll modifier keys for Move All Items apply here too.",
+    "zh": "扔出玩家物品栏或打开容器中所有物品的快捷键。通常用于批量合成。\n移动全部物品的所有快捷键也适用于这里。",
+    "vi": null
+  },
+  "inventoryprofiles.config.description.dump_item_nbt_to_chat": {
+    "en": "Prints the item string with nbt to the chat.",
+    "zh": "输出物品字符串(含NBT)到聊天栏",
+    "vi": null
+  },
+  "inventoryprofiles.config.description.open_gui_editor": {
+    "en": "Show configuration screen for Inventory Profiles Next GUI overlay",
+    "zh": "显示Inventory Profiles Next的Gui覆盖的配置界面",
+    "vi": null
+  },
+  "inventoryprofiles.config.description.reload_custom_configs": {
+    "en": "This hotkey can be used for faster config reloading when you are defining new custom rules.\nIn ANY other case it's recommended to keep it unset.\nReloading the configurations is not something you want to do often.",
+    "zh": "当你定义新的自定义规则时，这个快捷键可以用于快速重载配置。\n在任何情况下，建议保持为未设置状态。\n重载配置不会是你希望经常做的事。",
+    "vi": null
+  },
+  "inventoryprofiles.config.description.scroll_to_chest": {
+    "en": "When you press this key while the cursor is over a non empty slot or you hold a item stack in the cursor a single item will be transferred to the opened container.",
+    "zh": "当你在光标所指的非空的槽位时按住此键或者你在光标中有一组物品或一个物品将被转移到打开的容器中。",
+    "vi": null
+  },
+  "inventoryprofiles.config.description.scroll_to_inventory": {
+    "en": "When you press this key while the cursor is over a non empty slot or you hold a item stack in the cursor a single item will be transferred to the player inventory.",
+    "zh": "当你在光标所指的非空的槽位时按住此键或者你在光标中有一组物品或一个物品将被转移到玩家物品栏中。",
+    "vi": null
+  },
+  "inventoryprofiles.gui.config.Tweaks": {
+    "en": "Tweaks",
+    "zh": "调整",
+    "vi": null
+  },
+  "inventoryprofiles.config.category.client_side_tweaks": {
+    "en": "Client-side Tweaks",
+    "zh": "客户端调整",
+    "vi": null
+  },
+  "inventoryprofiles.config.name.prevent_close_gui_drop_item": {
+    "en": "Prevent Dropping the Held Item ",
+    "zh": "防止丢出手持物品",
+    "vi": null
+  },
+  "inventoryprofiles.config.name.container_swipe_moving_items": {
+    "en": "Enable Swipe Moving Items From the Container",
+    "zh": "划动移动容器内物品",
+    "vi": null
+  },
+  "inventoryprofiles.config.name.swipe_move_crafting_result_slot": {
+    "en": "Swipe Move Crafting Result Slot",
+    "zh": "划动移动合成输出栏物品",
+    "vi": null
+  },
+  "inventoryprofiles.config.description.prevent_close_gui_drop_item": {
+    "en": "Closing GUI will no longer drop the item that holding by the cursor.",
+    "zh": "关闭GUI时不会丢出鼠标所持的物品",
+    "vi": null
+  },
+  "inventoryprofiles.config.description.container_swipe_moving_items": {
+    "en": "Allows you to move items for the slots under the cursor while holding shift and left click.",
+    "zh": "允许你通过 按住shift和左键 来移动鼠标所指的物品",
+    "vi": null
+  },
+  "inventoryprofiles.config.description.swipe_move_crafting_result_slot": {
+    "en": "Enable \"Swipe Moving Items\" in crafting result slot.",
+    "zh": "在合成输出栏开启 \"划动移动物品\"",
+    "vi": null
+  },
+  "inventoryprofiles.gui.config.Debugs": {
+    "en": "Debugs",
+    "zh": "调试",
+    "vi": null
+  },
+  "inventoryprofiles.config.category.debugs": {
+    "en": "Debugs",
+    "zh": "调试",
+    "vi": null
+  },
+  "inventoryprofiles.config.name.debug_screen": {
+    "en": "Debug Screen",
+    "zh": "调试界面",
+    "vi": null
+  },
+  "inventoryprofiles.config.description.debug_screen": {
+    "en": "Open debug screen",
+    "zh": "打开调试界面",
+    "vi": null
+  },
+  "inventoryprofiles.gui.config.Modpacks": {
+    "en": "Modpack Devs",
+    "zh": "整合包开发",
+    "vi": null
+  },
+  "inventoryprofiles.config.category.modpacks": {
+    "en": "YOU NEED TO BE IN SINGLE PLAYER GAME OR THESE WILL CRASH YOUR GAME.",
+    "zh": "你必须处于单人游戏，否则游戏将会崩溃",
+    "vi": null
+  },
+  "inventoryprofiles.config.name.make_block_screen_generator_script": {
+    "en": "UI Capable Blocks",
+    "zh": "具有UI的方块(UI Capable Block)",
+    "vi": null
+  },
+  "inventoryprofiles.config.name.export_hints": {
+    "en": "Export Hints for Embedding",
+    "zh": "导出嵌入提示",
+    "vi": null
+  },
+  "inventoryprofiles.config.name.diff_calculator_priority": {
+    "en": "Merge Priority",
+    "zh": "合并优先级",
+    "vi": null
+  },
+  "inventoryprofiles.config.name.export_external_hints": {
+    "en": "Export External Hints",
+    "zh": "导出外部提示",
+    "vi": null
+  },
+  "inventoryprofiles.config.description.export_external_hints": {
+    "en": "This generates external hints files that can be distributed as part of the modpack.\n\nNOTE: This will also export everything that is build in the mod.\n\nNOTE: You don't really need this if your modpack has no custom blocks/items.\nOur discord server is the place to get help :)",
+    "zh": "这将生成外部提示文件，文件可以作为整合包的一部分进行分发。\n\n注意：这也将导出所有在本mod中构建的东西。\n\n注意：如果你的整合包没有自定义的方块/物品，你不需要使用这个选项。\n可以到我们的 discord 服务器寻求帮助 :)",
+    "vi": null
+  },
+  "inventoryprofiles.config.description.diff_calculator_priority": {
+    "en": "This determines in the build in or external hints will have priority when using the export buttons.\n\nNOTE: You don't really need this if your modpack has no custom blocks/items.\nOur discord server is the place to get help :)",
+    "zh": "这决定了在使用导出按钮时，在构建中内部与外部提示何者具有优先级。\n\n注意：如果你的整合包没有自定义的方块/物品，你不需要使用这个选项。\n可以到我们的 discord 服务器寻求帮助 :)",
+    "vi": null
+  },
+  "inventoryprofiles.config.description.export_hints": {
+    "en": "This generates json file with ALL currently loaded hints. The format is only suitable for embedding into the mod it self.\n\nNOTE: You don't really need this if your modpack has no custom blocks/items.\nOur discord server is the place to get help :)",
+    "zh": "这将生成json文件，包含当前所有加载的提示。此格式只适用于嵌入到本mod。\n\n注意：如果你的整合包没有自定义的方块/物品，你不需要使用这个选项。\n可以到我们的 discord 服务器寻求帮助 :)",
+    "vi": null
+  },
+  "inventoryprofiles.config.description.make_block_screen_generator_script": {
+    "en": "This button generate a script of /chat commands that will:\n - try to find all blocks that have a GUIs\n - make a nice platform\n - place every block organized by mod\n\nNOTE: You don't really need this if your modpack has no custom blocks/items.\nIf you want to try this our discord server is the place to get help :)\n\nWARNING: This requires single player world!",
+    "zh": "这个按钮生成一个 /chat命令 的脚本，它将：\n - 尝试找到所有具有Gui的方块\n - 创建一个很棒的平台\n - 以mod进行分组存放每个方块\n\n注意：如果你的整合包没有自定义的方块/物品，你不需要使用这个选项。\n如果你需要，可以到我们的 discord 服务器寻求帮助 :)\n\n警告：这需要单人世界！",
+    "vi": null
+  },
+  "inventoryprofiles.enum.sorting_method.global": {
+    "en": "Global (%s)",
+    "zh": "全局 (%s)",
+    "vi": null
+  },
+  "inventoryprofiles.enum.sorting_method.default": {
+    "en": "Default (Creative Menu)",
+    "zh": "默认 (创造物品栏)",
+    "vi": null
+  },
+  "inventoryprofiles.enum.sorting_method.item_name": {
+    "en": "Item Name",
+    "zh": "物品名称",
+    "vi": null
+  },
+  "inventoryprofiles.enum.sorting_method.item_id": {
+    "en": "Item ID",
+    "zh": "物品 ID",
+    "vi": null
+  },
+  "inventoryprofiles.enum.sorting_method.raw_id": {
+    "en": "Item Numerical ID",
+    "zh": "物品 数字ID",
+    "vi": null
+  },
+  "inventoryprofiles.enum.sorting_method.accumulated_count_descending": {
+    "en": "Item Count Descending",
+    "zh": "按物品数量降序排序",
+    "vi": null
+  },
+  "inventoryprofiles.enum.sorting_method.accumulated_count_ascending": {
+    "en": "Item Count Ascending",
+    "zh": "按物品数量升序排序",
+    "vi": null
+  },
+  "inventoryprofiles.enum.sorting_method.custom": {
+    "en": "Custom Rule",
+    "zh": "自定义规则",
+    "vi": null
+  },
+  "inventoryprofiles.enum.post_action.none": {
+    "en": "None",
+    "zh": "无",
+    "vi": null
+  },
+  "inventoryprofiles.enum.post_action.group_in_rows": {
+    "en": "Group In Rows",
+    "zh": "按行分组",
+    "vi": null
+  },
+  "inventoryprofiles.enum.post_action.group_in_columns": {
+    "en": "Group In Columns",
+    "zh": "按列分组",
+    "vi": null
+  },
+  "inventoryprofiles.enum.post_action.distribute_evenly": {
+    "en": "Distribute Evenly",
+    "zh": "平均分散",
+    "vi": null
+  },
+  "inventoryprofiles.enum.post_action.shuffle": {
+    "en": "Shuffle",
+    "zh": "随机",
+    "vi": null
+  },
+  "inventoryprofiles.enum.post_action.fill_one": {
+    "en": "Fill One",
+    "zh": "填充一个",
+    "vi": null
+  },
+  "inventoryprofiles.enum.post_action.reverse": {
+    "en": "Reverse",
+    "zh": "反向",
+    "vi": null
+  },
+  "inventoryprofiles.enum.threshold_unit.absolute": {
+    "en": "Absolute Value",
+    "zh": "精确值",
+    "vi": null
+  },
+  "inventoryprofiles.enum.threshold_unit.percentage": {
+    "en": "Percentage (%%)",
+    "zh": "百分比 (%%)",
+    "vi": null
+  },
+  "inventoryprofiles.enum.continuous_crafting_checkbox_value.remember": {
+    "en": "Remember",
+    "zh": "记忆",
+    "vi": null
+  },
+  "inventoryprofiles.enum.continuous_crafting_checkbox_value.checked": {
+    "en": "Checked",
+    "zh": "勾选",
+    "vi": null
+  },
+  "inventoryprofiles.enum.continuous_crafting_checkbox_value.unchecked": {
+    "en": "Unchecked",
+    "zh": "未勾选",
+    "vi": null
+  },
+  "inventoryprofiles.enum.switch_type.toggle": {
+    "en": "Toggle",
+    "zh": "切换",
+    "vi": null
+  },
+  "inventoryprofiles.enum.switch_type.hold": {
+    "en": "Hold",
+    "zh": "按住",
+    "vi": null
+  },
+  "inventoryprofiles.enum.tool_replace_visual_notification.subtitle": {
+    "en": "Large",
+    "zh": "大型",
+    "vi": null
+  },
+  "inventoryprofiles.enum.tool_replace_visual_notification.hotbar": {
+    "en": "Small",
+    "zh": "小型",
+    "vi": null
+  },
+  "inventoryprofiles.enum.tool_replace_visual_notification.chat": {
+    "en": "In Chat",
+    "zh": "聊天栏",
+    "vi": null
+  },
+  "inventoryprofiles.enum.auto_refill_nbt_match_type.can_have_extra": {
+    "en": "Allow Extra",
+    "zh": "允许附加",
+    "vi": null
+  },
+  "inventoryprofiles.enum.auto_refill_nbt_match_type.exact": {
+    "en": "Exact",
+    "zh": "精准",
+    "vi": null
+  },
+  "inventoryprofiles.enum.merge_priority.internal": {
+    "en": "Internal",
+    "zh": "内部",
+    "vi": null
+  },
+  "inventoryprofiles.enum.merge_priority.external": {
+    "en": "External",
+    "zh": "外部",
+    "vi": null
+  },
+  "inventoryprofiles.enum.creative_menu_sort_order.search_tab": {
+    "en": "Search Tab",
+    "zh": "搜索选项卡",
+    "vi": null
+  },
+  "inventoryprofiles.enum.creative_menu_sort_order.category_priority_list": {
+    "en": "Priority List",
+    "zh": "优先级列表",
+    "vi": null
+  },
+  "inventoryprofiles.tooltip.sort_button": {
+    "en": "Sort Inventory",
+    "zh": "整理物品栏",
+    "vi": null
+  },
+  "inventoryprofiles.tooltip.sort_columns_button": {
+    "en": "Sort Inventory in Columns",
+    "zh": "按列整理物品栏",
+    "vi": null
+  },
+  "inventoryprofiles.tooltip.sort_rows_button": {
+    "en": "Sort Inventory in Rows",
+    "zh": "按行整理物品栏",
+    "vi": null
+  },
+  "inventoryprofiles.tooltip.move_all_button.title_move_matching": {
+    "en": "Move Matching Items",
+    "zh": "移动相符物品",
+    "vi": null
+  },
+  "inventoryprofiles.tooltip.move_all_button.title_move_all": {
+    "en": "Move All Items",
+    "zh": "移动全部物品",
+    "vi": null
+  },
+  "inventoryprofiles.tooltip.move_all_button.include_hotbar": {
+    "en": "§5Hold §o%s§r\n§6 - Include Hotbar",
+    "zh": "§6按住 §o%s§r\n§6 - 包含快捷栏",
+    "vi": null
+  },
+  "inventoryprofiles.tooltip.move_all_button.exclude_hotbar": {
+    "en": "§5Hold §o%s§r\n§6 - Exclude Hotbar",
+    "zh": "§6按住 §o%s§r\n§6 - 排除快捷栏",
+    "vi": null
+  },
+  "inventoryprofiles.tooltip.move_all_button.move_all": {
+    "en": "§5Hold §o%s§r\n§6 - Move All",
+    "zh": "§6按住 §o%s§r\n§6 - 移动全部",
+    "vi": null
+  },
+  "inventoryprofiles.tooltip.move_all_button.move_matching_only": {
+    "en": "§5Hold §o%s§r\n§6 - Move Matching Only",
+    "zh": "§6按住 §o%s§r\n§6 - 仅移动相符物品",
+    "vi": null
+  },
+  "inventoryprofiles.tooltip.move_all_button.move_focused_only": {
+    "en": "§5Hold §o%s§r\n§6 - Move Only Items same type\n§6as under the cursor or the\n§6stack in the cursor.",
+    "zh": "§5按住 §o%s§r\n§6 - 仅移动相同类型的物品\n§6如光标下或者\n§6光标中的一组。",
+    "vi": null
+  },
+  "inventoryprofiles.tooltip.move_all_button.move_just_refill": {
+    "en": "§5Hold §o%s§r\n§6 - Move Only enough items to\n§6top up existing stacks.",
+    "zh": "§5按住 §o%s§r\n§6 - 仅移动足够的物品\n§6以填充现有组.",
+    "vi": null
+  },
+  "inventoryprofiles.tooltip.continuous_crafting_checkbox": {
+    "en": "Continuous Crafting\n§6Hold §o%s§r§6: for Auto Crafting",
+    "zh": "连续合成\n§6按住 §o%s§r§6：自动合成",
+    "vi": null
+  },
+  "inventoryprofiles.tooltip.auto_crafting_checkbox": {
+    "en": "Auto Crafting\n§6Stop holding §o%s§r§6: for Continuous Crafting",
+    "zh": "自动合成\n§6停止按住 §o%s§r§6：连续合成",
+    "vi": null
+  },
+  "inventoryprofiles.tooltip.next_profile_button": {
+    "en": "Select and apply next profile",
+    "zh": "选中并应用下一档案",
+    "vi": null
+  },
+  "inventoryprofiles.tooltip.prev_profile_button": {
+    "en": "Select and apply previous profile",
+    "zh": "选中并应用上一档案",
+    "vi": null
+  },
+  "inventoryprofiles.tooltip.apply_profile_button": {
+    "en": "Apply selected profile",
+    "zh": "应用选中档案",
+    "vi": null
+  },
+  "inventoryprofiles.tooltip.editor_toggle": {
+    "en": "Shows configuration screen for Inventory Profiles Next GUI overlay",
+    "zh": "显示Inventory Profiles Next的Gui覆盖的配置界面",
+    "vi": null
+  },
+  "inventoryprofiles.tooltip.settings_open": {
+    "en": "Opens Inventory Profiles Next general configuration",
+    "zh": "打开Inventory Profiles Next常规配置",
+    "vi": null
+  },
+  "inventoryprofiles.tooltip.do_global_trades_button": {
+    "en": "Makes all possible globally bookmarked trades.\n\nTrades for all global bookmarks until all\nresources are exhausted or no more trading is possible.\n\n",
+    "zh": null,
+    "vi": null
+  },
+  "inventoryprofiles.tooltip.do_local_trades_button": {
+    "en": "Makes all possible locally bookmarked trades.\n\nTrades for all local bookmarks until all\nresources are exhausted or no more trading is possible.",
+    "zh": null,
+    "vi": null
+  },
+  "inventoryprofiles.tooltip.do_global_trades_button1": {
+    "en": "Makes all possible globally bookmarked trades from group 2.",
+    "zh": null,
+    "vi": null
+  },
+  "inventoryprofiles.tooltip.do_local_trades_button1": {
+    "en": "Makes all possible locally bookmarked trades from group 2.",
+    "zh": null,
+    "vi": null
+  },
+  "inventoryprofiles.tooltip.do_global_trades_button2": {
+    "en": "Makes all possible globally bookmarked trades from group 3.",
+    "zh": null,
+    "vi": null
+  },
+  "inventoryprofiles.tooltip.do_local_trades_button2": {
+    "en": "Makes all possible locally bookmarked trades from group 3.",
+    "zh": null,
+    "vi": null
+  },
+  "inventoryprofiles.tooltip.set_local_bookmark": {
+    "en": "Adds local bookmark.\n\nBookmarks this trade for this specific Villager.",
+    "zh": null,
+    "vi": null
+  },
+  "inventoryprofiles.tooltip.set_global_bookmark": {
+    "en": "Adds global bookmark.\n\nBookmarks this trade type for all Villagers of that profession,\nor to all Wandering Traders.",
+    "zh": null,
+    "vi": null
+  },
+  "inventoryprofiles.tooltip.set_local_bookmark1": {
+    "en": "Adds local bookmark to group 2.",
+    "zh": null,
+    "vi": null
+  },
+  "inventoryprofiles.tooltip.set_global_bookmark1": {
+    "en": "Adds global bookmark to group 2.",
+    "zh": null,
+    "vi": null
+  },
+  "inventoryprofiles.tooltip.set_local_bookmark2": {
+    "en": "Adds local bookmark to group 3",
+    "zh": null,
+    "vi": null
+  },
+  "inventoryprofiles.tooltip.set_global_bookmark2": {
+    "en": "Adds global bookmark to group 3.",
+    "zh": null,
+    "vi": null
+  },
+  "inventoryprofiles.update.version": {
+    "en": " Version: ",
+    "zh": " 版本：",
+    "vi": null
+  },
+  "inventoryprofiles.update.available": {
+    "en": " is now available.\n",
+    "zh": " 已更新。\n",
+    "vi": null
+  },
+  "inventoryprofiles.update.get": {
+    "en": "Get it from: ",
+    "zh": "下载链接：",
+    "vi": null
+  },
+  "inventoryprofiles.update.or": {
+    "en": " or ",
+    "zh": " 或 ",
+    "vi": null
+  },
+  "inventoryprofiles.gui.editor.name.screen.ignore": {
+    "en": "Ignore",
+    "zh": "忽略",
+    "vi": null
+  },
+  "inventoryprofiles.gui.editor.description.screen.ignore": {
+    "en": "This will cause Inventory Profiles Next to not add it's buttons in the UI and\nto disable any management functions for the containers.\nNOTE:\nUsually it's necessary to set this to true for both Container and Screen.",
+    "zh": "这将导致Inventory Profiles Next不在此UI中添加按钮，并禁用此容器的任何管理功能。\n注意：\n通常情况下，容器和界面都需要设置为是。",
+    "vi": null
+  },
+  "inventoryprofiles.gui.editor.name.screen.player_side": {
+    "en": "Player Only",
+    "zh": "仅玩家",
+    "vi": null
+  },
+  "inventoryprofiles.gui.editor.description.screen.player_side": {
+    "en": "This will cause Inventory Profiles Next to detect the UI as player inventory only.\nNOTE:\nUsually you want to set this for both Screen and Container. But do try different combinations.",
+    "zh": "这将导致Inventory Profiles Next仅检测此UI为玩家物品栏。\n注意：\n通常情况下，你想要为界面和容器都设置此选项，需要尝试不同的组合。*",
+    "vi": null
+  },
+  "inventoryprofiles.gui.editor.name.screen.force": {
+    "en": "Force",
+    "zh": "强制",
+    "vi": null
+  },
+  "inventoryprofiles.gui.editor.name.screen.disable_fast_swipe": {
+    "en": "Disable Fast Swipe",
+    "zh": "禁用快速滑动",
+    "vi": null
+  },
+  "inventoryprofiles.gui.editor.description.screen.disable_fast_swipe": {
+    "en": "If set to true swipe move/throw will try to use slower but more reliable method.\nNOTE: If you have problems with swipe move/throw for one or more but not all GUIs try setting this to true.",
+    "zh": "如果为开，划动移动/扔将尝试使用速度较慢但更可靠的方法。\n注意：如果你的一个或多个但不是所有GUI的划动移动/扔有问题，尝试设置这个为开。",
+    "vi": null
+  },
+  "inventoryprofiles.gui.editor.description.screen.force": {
+    "en": "By default if the mod that provides the UI provides compatibility information Inventory Profiles Next will use it\nThis setting allows you to override the mod.",
+    "zh": "默认情况下，如果提供此UI的mod提供了兼容性信息，Inventory Profiles Next将会使用它。\n这个设置允许你覆盖mod的兼容性信息，进行强制显示。",
+    "vi": null
+  },
+  "inventoryprofiles.gui.editor.name.screen.profile": {
+    "en": "Show Profile UI",
+    "zh": "显示档案UI",
+    "vi": null
+  },
+  "inventoryprofiles.gui.editor.description.screen.profile": {
+    "en": "The Profiles Selector UI should be visible only when the Player inventory screen is shown.\nIf for some reason it's visible for any other screen setting this to yes will disable it.",
+    "zh": "档案选择器UI应该仅在玩家物品栏界面可见。\n如果出于某些原因，它在任何其他的见面上可见，设置此项为是来禁用它。",
+    "vi": null
+  },
+  "inventoryprofiles.gui.editor.category.screen": {
+    "en": "Screen",
+    "zh": "界面",
+    "vi": null
+  },
+  "inventoryprofiles.gui.editor.category.container": {
+    "en": "Container",
+    "zh": "容器",
+    "vi": null
+  },
+  "inventoryprofiles.gui.editor.name.class.screen": {
+    "en": "Screen",
+    "zh": "界面",
+    "vi": null
+  },
+  "inventoryprofiles.gui.editor.name.class.container": {
+    "en": "Container",
+    "zh": "容器",
+    "vi": null
+  },
+  "inventoryprofiles.gui.editor.name.help.select.next": {
+    "en": "Select Next Button",
+    "zh": "选中下一按钮",
+    "vi": null
+  },
+  "inventoryprofiles.gui.editor.description.help.select.next": {
+    "en": "Pressing 'Space' selects the next button",
+    "zh": "按下 '空格' 来选中下一按钮",
+    "vi": null
+  },
+  "inventoryprofiles.gui.editor.name.help.select.prev": {
+    "en": "Select Previous Button",
+    "zh": "选中上一按钮",
+    "vi": null
+  },
+  "inventoryprofiles.gui.editor.description.help.select.prev": {
+    "en": "'Shift'+'Space' selects the previous button",
+    "zh": "'Shift'+'空格' 来选中上一按钮",
+    "vi": null
+  },
+  "inventoryprofiles.gui.editor.name.help.move.keys": {
+    "en": "Move The Button",
+    "zh": "移动按钮",
+    "vi": null
+  },
+  "inventoryprofiles.gui.editor.description.help.move.keys": {
+    "en": "'W','S','A','D' and the arrow keys will move the selected button",
+    "zh": "'W','S','A','D' 和方向键将会移动选中的按钮",
+    "vi": null
+  },
+  "inventoryprofiles.gui.editor.name.help.move.speed": {
+    "en": "Move Faster!!!",
+    "zh": "快速移动按钮!!!",
+    "vi": null
+  },
+  "inventoryprofiles.gui.editor.description.help.move.speed": {
+    "en": "Holding 'Shift' with Move keys will make the button move faster.",
+    "zh": "按住 'Shift' 和移动键将会快速移动按钮",
+    "vi": null
+  },
+  "inventoryprofiles.profiles.created_new_saved": {
+    "en": "Created new 'Saved' profile...",
+    "zh": "已创建新的'Saved'档案...",
+    "vi": null
+  }
+}

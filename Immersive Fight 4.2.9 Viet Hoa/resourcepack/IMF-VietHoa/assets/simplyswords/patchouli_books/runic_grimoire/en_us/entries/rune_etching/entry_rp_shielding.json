@@ -1,0 +1,17 @@
+{
+  "name": "Che Chở (Protect)",
+  "icon": "simplyswords:runic_tablet",
+  "category": "simplyswords:category_rune_etching",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:runic_tablet",
+      "title": "Che Chở (Protect)",
+      "text": "Truyền vào tinh hoa $(#389fff)$(l)Bảo Vệ$(). $(br2)Mỗi đòn đánh có cơ hội nhận một tầng lá chắn hấp thụ sát thương."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Khả năng bảo hộ siêu việt, tạo lá chắn vững chãi cho chiến binh xung phong nơi đầu sóng ngọn gió."
+    }
+  ]
+}

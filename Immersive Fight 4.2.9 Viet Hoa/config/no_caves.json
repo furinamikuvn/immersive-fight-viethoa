@@ -1,0 +1,28 @@
+{
+  "enableCarverFilter": true,
+  "disabledCarverPatterns": [
+    "^biomesoplenty:origin_cave$",
+    "^minecraft:ca(?:nyon|ve(?:_extra_underground)?)$"
+  ],
+  "carverFilterBiomeExclusionPatterns": [],
+  "biomeSpecificOverrideForDisabledCarverPatterns": {},
+  "enableFeatureFilter": true,
+  "disabledFeaturePatterns": [],
+  "featureFilterBiomeExclusionPatterns": [],
+  "biomeSpecificOverrideForDisabledFeaturePatterns": {},
+  "enableDensityFunctionTransformation": false,
+  "densityFunctionToTransformPatterns": [
+    "^minecraft:overworld(?:_large_biomes)?/noise_router/final_density$"
+  ],
+  "enableFinalDensityTransformation": true,
+  "finalDensityTransformationExclusionPatterns": [],
+  "enableNoiseCaveFilter": false,
+  "noiseCavePatterns": [
+    "^minecraft:cave_"
+  ],
+  "enableDensityFunctionCaveFilter": true,
+  "densityFunctionCavePatterns": [
+    "^minecraft:overworld/caves/",
+    "^tectonic:overworld/caves$"
+  ]
+}

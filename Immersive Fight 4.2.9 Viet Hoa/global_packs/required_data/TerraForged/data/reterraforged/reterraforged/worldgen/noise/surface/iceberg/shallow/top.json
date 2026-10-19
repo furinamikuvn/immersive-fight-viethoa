@@ -1,0 +1,20 @@
+{
+  "type": "reterraforged:add",
+  "input1": {
+    "type": "reterraforged:multiply",
+    "input1": {
+      "type": "reterraforged:shift",
+      "input": {
+        "type": "reterraforged:perlin_ridge",
+        "frequency": 0.04,
+        "gain": 0.975,
+        "interpolation": "CURVE3",
+        "lacunarity": 2.0,
+        "octaves": 2
+      },
+      "shift": 746382644
+    },
+    "input2": 0.01171875
+  },
+  "input2": 0.0078125
+}

@@ -1,0 +1,72 @@
+{
+  "attribute.puffish_attributes.player.stamina": {
+    "en": "Stamina",
+    "zh": "体力",
+    "vi": "sức mạnh thể chất"
+  },
+  "attribute.puffish_attributes.player.melee_damage": {
+    "en": "Melee Damage",
+    "zh": "近战增伤",
+    "vi": "Tăng sát thương cận chiến"
+  },
+  "attribute.puffish_attributes.player.ranged_damage": {
+    "en": "Ranged Damage",
+    "zh": "远程增伤",
+    "vi": "Tăng sát thương từ xa"
+  },
+  "attribute.puffish_attributes.player.fortune": {
+    "en": "Fortune",
+    "zh": "时运",
+    "vi": "vận may"
+  },
+  "attribute.puffish_attributes.player.healing": {
+    "en": "Healing",
+    "zh": "治疗",
+    "vi": "đối xử"
+  },
+  "attribute.puffish_attributes.player.jump": {
+    "en": "Jump",
+    "zh": "跳跃",
+    "vi": "nhảy"
+  },
+  "attribute.puffish_attributes.player.resistance": {
+    "en": "Resistance",
+    "zh": "抗性增强",
+    "vi": "Tăng sức đề kháng"
+  },
+  "attribute.puffish_attributes.player.mining_speed": {
+    "en": "Mining Speed",
+    "zh": "挖掘速度",
+    "vi": "Tốc độ đào"
+  },
+  "attribute.puffish_attributes.player.sprinting_speed": {
+    "en": "Sprinting Speed",
+    "zh": "冲刺速度",
+    "vi": "tốc độ chạy nước rút"
+  },
+  "attribute.puffish_attributes.player.knockback": {
+    "en": "Knockback",
+    "zh": "击退",
+    "vi": "đẩy lùi"
+  },
+  "attribute.puffish_attributes.player.pickaxe_speed": {
+    "en": "Pickaxe Speed",
+    "zh": null,
+    "vi": null
+  },
+  "attribute.puffish_attributes.player.axe_speed": {
+    "en": "Axe Speed",
+    "zh": null,
+    "vi": null
+  },
+  "attribute.puffish_attributes.player.shovel_speed": {
+    "en": "Shovel Speed",
+    "zh": null,
+    "vi": null
+  },
+  "attribute.puffish_attributes.player.repair_cost": {
+    "en": "Repair Cost",
+    "zh": null,
+    "vi": null
+  }
+}

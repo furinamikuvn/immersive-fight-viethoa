@@ -1,0 +1,19 @@
+{
+  "structures": [
+    {
+      "structure": "mebahelcreaturesdraugr:draugr_bastion",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 23499865,
+    "exclusion_zone":
+    {
+      "other_set":"minecraft:villages",
+      "chunk_count": 16
+    },
+    "spacing": 40,
+    "separation": 20
+  }
+}

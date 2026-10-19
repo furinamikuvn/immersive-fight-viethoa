@@ -1,0 +1,27 @@
+{
+  "item.infinitygolem.infinity_golem_spawn_egg": {
+    "en": "Infinity Golem Spawn Egg",
+    "zh": "无限傀儡刷怪蛋",
+    "vi": "Infinity Golem Spawn Egg"
+  },
+  "entity.infinitygolem.infinity_golem": {
+    "en": "Infinity Golem",
+    "zh": "无限傀儡",
+    "vi": "Infinity Golem"
+  },
+  "entity.infinitygolem.shockwave": {
+    "en": "Shockwave",
+    "zh": "震荡波",
+    "vi": "Shockwave"
+  },
+  "entity.infinitygolem.magma_blast": {
+    "en": "Magma Blast",
+    "zh": "岩浆充击",
+    "vi": "Magma Blast"
+  },
+  "attribute.infinitygolem.action_state": {
+    "en": "Action State",
+    "zh": "行动状态",
+    "vi": "Trạng thái hành động"
+  }
+}

@@ -1,0 +1,2112 @@
+{
+  "itemGroup.relics": {
+    "en": "Relics",
+    "zh": "遗物",
+    "vi": "thánh tích"
+  },
+  "curios.identifier.feet": {
+    "en": "Feet",
+    "zh": "足饰",
+    "vi": "đồ trang trí chân"
+  },
+  "tooltip.relics.researching.info": {
+    "en": "Hold [Shift] to research...",
+    "zh": "按住[Shift]以开始研究...",
+    "vi": "Giữ [Shift] để bắt đầu nghiên cứu..."
+  },
+  "tooltip.relics.relic.tooltip.abilities": {
+    "en": "Abilities:",
+    "zh": "能力：",
+    "vi": "khả năng:"
+  },
+  "tooltip.relics.researching.general.leveling_point.title": {
+    "en": "Leveling Points:",
+    "zh": "升级点数：",
+    "vi": "Điểm nâng cấp:"
+  },
+  "tooltip.relics.researching.general.leveling_point.extra_info": {
+    "en": "Earned when leveling up the relic and used to upgrade abilities.",
+    "zh": "在遗物升级时会获得，用来升级能力。",
+    "vi": "Nhận được khi nâng cấp di tích, chúng có thể được sử dụng để nâng cấp khả năng."
+  },
+  "tooltip.relics.researching.relic.card.low_level": {
+    "en": "You need to upgrade the relic to level %1$s to use this!",
+    "zh": "你需要升级遗物到等级 %1$s 来使用这个",
+    "vi": "Bạn cần nâng cấp di tích lên cấp %1$s để sử dụng di tích này"
+  },
+  "tooltip.relics.researching.relic.card.no_stats": {
+    "en": "This ability has no upgradeable stats and does not affect the relic's quality!",
+    "zh": "该能力没有可改变的属性，不会影响遗物的品质！",
+    "vi": "Khả năng này không có thuộc tính có thể thay đổi và sẽ không ảnh hưởng đến chất lượng của di tích!"
+  },
+  "tooltip.relics.researching.relic.card.ready_to_upgrade": {
+    "en": "This ability is ready to be upgraded!",
+    "zh": "此技能可以升级！",
+    "vi": "Kỹ năng này có thể được nâng cấp!"
+  },
+  "tooltip.relics.researching.general.extra_info": {
+    "en": "Hold [Shift] for more info",
+    "zh": "按住[Shift]查看更多信息",
+    "vi": "Giữ [Shift] để xem thêm thông tin"
+  },
+  "tooltip.relics.researching.relic.info.level": {
+    "en": "Relic Level:",
+    "zh": "遗物等级：",
+    "vi": "Cấp độ di tích:"
+  },
+  "tooltip.relics.researching.relic.info.quality": {
+    "en": "Relic Quality:",
+    "zh": "遗物品质：",
+    "vi": "Chất lượng di tích:"
+  },
+  "tooltip.relics.researching.relic.info.extra_info": {
+    "en": "Relic quality is the arithmetic average of all currently unlocked abilities' quality and is measured in points from 1 to 5 with a step of 0.5. It is purely a visual metric that shows how close the item's initial random characteristics are to the best possible. To improve the overall quality of the relic, each ability needs to be considered separately.",
+    "zh": "遗迹品质是当前所有解锁能力品质的算术平均值，分为1点到5点，间隔为0.5点。它纯粹是一个视觉指标，显示遗物的初始随机特征与最佳可能的接近程度。为了提高遗物的整体质量，需要分别考虑每种能力。",
+    "vi": "Chất lượng của tàn tích là điểm trung bình số học của chất lượng của tất cả các khả năng hiện đã được mở khóa, được chia thành 1 đến 5 điểm, với khoảng cách là 0,5 điểm. Nó hoàn toàn là một chỉ báo trực quan về mức độ gần gũi nhất có thể của các đặc điểm ngẫu nhiên ban đầu của di tích. Để nâng cao chất lượng tổng thể của di tích, mỗi khả năng cần được xem xét riêng biệt."
+  },
+  "tooltip.relics.researching.relic.experience.title": {
+    "en": "Relic Experience:",
+    "zh": "遗物经验：",
+    "vi": "Trải nghiệm di tích:"
+  },
+  "tooltip.relics.researching.relic.experience.extra_info": {
+    "en": "Earned by using the relic's abilities for their intended purpose, as well as gaining experience from other relics. When the maximum experience value is reached, the relic level and leveling points increase by 1, allowing you to unlock previously unavailable abilities or upgrade existing ones.",
+    "zh": "经验的获取可通过使用遗物的能力用于预期目的，或者从其他遗物中获得经验。当达到最大经验值时，遗迹等级和升级点数都会增加1点，允许你解锁以前不可用的能力或升级现有的能力。",
+    "vi": "Kinh nghiệm có được bằng cách sử dụng khả năng của di tích cho mục đích đã định hoặc bằng cách tích lũy kinh nghiệm từ các di tích khác. Khi đạt điểm kinh nghiệm tối đa, cả cấp độ di tích và điểm nâng cấp đều tăng thêm 1, cho phép bạn mở khóa các khả năng không có trước đây hoặc nâng cấp những khả năng hiện có."
+  },
+  "tooltip.relics.researching.ability.info.level": {
+    "en": "Ability Level:",
+    "zh": "能力等级：",
+    "vi": "Mức độ khả năng:"
+  },
+  "tooltip.relics.researching.ability.info.quality": {
+    "en": "Ability Quality:",
+    "zh": "能力品质：",
+    "vi": "Chất lượng khả năng:"
+  },
+  "tooltip.relics.researching.ability.info.extra_info": {
+    "en": "Ability quality, similar to relic quality, is the arithmetic average of all the ability's current characteristics and is measured in points from 1 to 5 with a step of 0.5. It is purely a visual metric that shows how close the ability's initial random characteristics are to the best possible. To improve the ability's quality, you need to reset its random characteristics until you get a better value.",
+    "zh": "能力品质与遗迹品质相似，是当前所有能力特征的算术平均值，分为1点到5点，间隔为0.5点。它纯粹是一个视觉指标，显示能力的初始随机特征与最佳可能的接近程度。为了提高能力的品质，你需要重置它的随机特征，直到你得到一个更好的值。",
+    "vi": "Chất lượng khả năng tương tự như chất lượng di tích. Đó là mức trung bình số học của tất cả các đặc điểm khả năng hiện tại, được chia thành 1 đến 5 điểm, với khoảng cách là 0,5 điểm. Nó hoàn toàn là một chỉ báo trực quan cho thấy các đặc điểm ngẫu nhiên ban đầu của khả năng gần với mức tốt nhất có thể như thế nào. Để cải thiện chất lượng của một khả năng, bạn cần đặt lại các đặc tính ngẫu nhiên của nó cho đến khi bạn nhận được giá trị tốt hơn."
+  },
+  "tooltip.relics.relic.status.positive": {
+    "en": "§2§l[§2§l✔§2§l]",
+    "zh": "§2§l[§2§l✔§2§l]",
+    "vi": "§2§l[§2§l✔§2§l]"
+  },
+  "tooltip.relics.relic.status.negative": {
+    "en": "§4§l[§4§l✘§4§l]",
+    "zh": "§4§l[§4§l✘§4§l]",
+    "vi": "§4§l[§4§l✘§4§l]"
+  },
+  "tooltip.relics.relic.upgrade.description": {
+    "en": "Level-up",
+    "zh": "升级",
+    "vi": "nâng cấp"
+  },
+  "tooltip.relics.relic.upgrade.cost": {
+    "en": "Cost: %1$s leveling points %2$s, %3$s experience points %4$s.",
+    "zh": "消耗：%1$s 升级点数 %2$s, %3$s 原版经验值 %4$s.",
+    "vi": "Tiêu thụ: Điểm nâng cấp %1$s %2$s, %3$s điểm kinh nghiệm ban đầu %4$s."
+  },
+  "tooltip.relics.relic.upgrade.locked": {
+    "en": "The ability has reached its max level.",
+    "zh": "能力已达到满级。",
+    "vi": "Khả năng đã đạt đến cấp độ đầy đủ."
+  },
+  "tooltip.relics.relic.reroll.description": {
+    "en": "Reroll random stats",
+    "zh": "重新抽取随机属性",
+    "vi": "Vẽ lại các thuộc tính ngẫu nhiên"
+  },
+  "tooltip.relics.relic.reroll.cost": {
+    "en": "Cost: %1$s experience points %2$s.",
+    "zh": "消耗：%1$s 原版经验值 %2$s.",
+    "vi": "Tiêu thụ: %1$s giá trị trải nghiệm ban đầu %2$s."
+  },
+  "tooltip.relics.relic.reset.description": {
+    "en": "Reset leveling points",
+    "zh": "重置能力点数",
+    "vi": "Đặt lại điểm khả năng"
+  },
+  "tooltip.relics.relic.reset.cost": {
+    "en": "Cost: %1$s experience points %2$s.",
+    "zh": "消耗：%1$s 原版经验值 %2$s.",
+    "vi": "Tiêu thụ: %1$s giá trị trải nghiệm ban đầu %2$s."
+  },
+  "tooltip.relics.relic.reset.locked": {
+    "en": "To use you need to level-up this ability at least 1 time.",
+    "zh": "要想使用你需要升级该能力至少一次。",
+    "vi": "Để sử dụng nó bạn cần nâng cấp khả năng này ít nhất một lần."
+  },
+  "item.relics.infinity_ham": {
+    "en": "Infinity Ham",
+    "zh": "无限火腿",
+    "vi": "Infinity Ham"
+  },
+  "tooltip.relics.infinity_ham.description": {
+    "en": "+1 experience point for each piece eaten from the ability «Regeneration».",
+    "zh": "食用来自能力“再生”的每片都会获得1点经验。",
+    "vi": "Mỗi lát tiêu thụ từ khả năng \"Tái sinh\" sẽ cấp cho bạn 1 điểm kinh nghiệm."
+  },
+  "tooltip.relics.infinity_ham.ability.autophagy": {
+    "en": "Regeneration",
+    "zh": "再生",
+    "vi": "tái sinh"
+  },
+  "tooltip.relics.infinity_ham.ability.autophagy.description": {
+    "en": "Using a relic consumes one of the regeneratable charges, replenishing the hunger of the wearer.",
+    "zh": "使用遗物时回复使用者的饱食度。",
+    "vi": "Phục hồi cảm giác no của người dùng khi sử dụng thánh tích."
+  },
+  "tooltip.relics.infinity_ham.ability.autophagy.stat.feed.title": {
+    "en": "Saturation:",
+    "zh": "饱食度：",
+    "vi": "Cảm giác no:"
+  },
+  "tooltip.relics.infinity_ham.ability.autophagy.stat.feed.value": {
+    "en": "%1$s units.",
+    "zh": "%1$s 点。",
+    "vi": "Điểm %1$s."
+  },
+  "tooltip.relics.infinity_ham.ability.infusion": {
+    "en": "Alchemy",
+    "zh": "炼金",
+    "vi": "Giả kim thuật"
+  },
+  "tooltip.relics.infinity_ham.ability.infusion.description": {
+    "en": "Using a potion on the relic in the inventory remembers its effect by spending the potion. Subsequent use of the «Regeneration» ability will impose a summable effect of the associated potion on the wearer. In the complete absence of charges, the relic loses the properties of the associated potion.",
+    "zh": "把药水倒在遗物上面，遗物会记录药水的效果，之后再次使用“再生”会把记录的药水效果释放给使用者。如果遗物没有充能，将失去记录的药水效果。",
+    "vi": "Đổ lọ thuốc lên thánh tích, thánh tích sẽ ghi lại tác dụng của lọ thuốc. Sử dụng \"Tái sinh\" lần nữa sẽ giải phóng hiệu ứng thuốc đã ghi cho người dùng. Nếu thánh tích không được sạc, hiệu ứng thuốc đã ghi sẽ bị mất."
+  },
+  "tooltip.relics.infinity_ham.ability.infusion.stat.duration.title": {
+    "en": "Effect duration:",
+    "zh": "药水效果持续时间：",
+    "vi": "Thời gian tác dụng của thuốc:"
+  },
+  "tooltip.relics.infinity_ham.ability.infusion.stat.duration.value": {
+    "en": "%1$s seconds per charge.",
+    "zh": "每次 %1$s 秒。",
+    "vi": "%1$s giây mỗi lần."
+  },
+  "item.relics.enders_hand": {
+    "en": "Ender Hand",
+    "zh": "末影之手",
+    "vi": "Ender Hand"
+  },
+  "tooltip.relics.enders_hand.description": {
+    "en": "+1 experience point for using the ability «End Transposition», +1 experience point for every 10 blocks from the distance to the target when using.",
+    "zh": "使用“移行换位”时增加1点经验，距离目标10格远使用技能额外增加1点经验",
+    "vi": "Khi sử dụng \"Chuyển Dịch\" sẽ được cộng thêm 1 điểm kinh nghiệm. Sử dụng kỹ năng cách mục tiêu 10 khối sẽ cộng thêm 1 điểm kinh nghiệm."
+  },
+  "tooltip.relics.enders_hand.ability.neutrality": {
+    "en": "Neutrality",
+    "zh": "中立",
+    "vi": "trung lập"
+  },
+  "tooltip.relics.enders_hand.ability.neutrality.description": {
+    "en": "Makes endermen neutral with respect to the wearer.",
+    "zh": "把末影人变为中立生物。",
+    "vi": "Biến endermen thành mob trung lập."
+  },
+  "tooltip.relics.enders_hand.ability.swap": {
+    "en": "End Transposition",
+    "zh": "移行换位",
+    "vi": "Chuyển vị"
+  },
+  "tooltip.relics.enders_hand.ability.swap.description": {
+    "en": "Swaps the wearer with the target along the line of sight.",
+    "zh": "将使用者和目标换位。",
+    "vi": "Thay thế người dùng và mục tiêu."
+  },
+  "tooltip.relics.enders_hand.ability.swap.stat.distance.title": {
+    "en": "Distance:",
+    "zh": "距离：",
+    "vi": "khoảng cách:"
+  },
+  "tooltip.relics.enders_hand.ability.swap.stat.distance.value": {
+    "en": "%1$s blocks.",
+    "zh": "%1$s 格方块。",
+    "vi": "Lưới vuông %1$s."
+  },
+  "tooltip.relics.enders_hand.ability.swap.predicate.target": {
+    "en": "Looking at the target",
+    "zh": "看向目标",
+    "vi": "nhìn vào mục tiêu"
+  },
+  "item.relics.holy_locket": {
+    "en": "Holy Locket",
+    "zh": "神圣吊坠",
+    "vi": "Holy Locket"
+  },
+  "tooltip.relics.holy_locket.description": {
+    "en": "Grants the wearer the ability to turn enemy healing against them.",
+    "zh": "使得穿戴者获得把敌人治疗转移到自身的能力。",
+    "vi": "Cấp cho người mặc khả năng truyền khả năng chữa lành của kẻ thù cho chính mình."
+  },
+  "tooltip.relics.holy_locket.ability.belief": {
+    "en": "Belief",
+    "zh": "信仰",
+    "vi": "Sự tin tưởng"
+  },
+  "tooltip.relics.holy_locket.ability.belief.description": {
+    "en": "A toggleable ability with two modes: Sanctity and Unholiness. Activating the ability in any mode fills the internal buffer by 1 unit. In Sanctity mode, redirects a portion of the bearer's healing as damage to nearby targets and reduces incoming damage by 1% per charge. In Unholiness mode, absorbs a portion of the healing of nearby targets and increases damage dealt by 1% per charge.",
+    "zh": "一种可切换的能力，有两种模式：神圣和非神圣。在任何模式下激活该能力都会将内部缓冲区填充1点充能。在神圣模式下，将持有者的一部分治疗重定向为对附近目标的伤害，每次充能可减少1%的受到伤害。在非神圣模式中，吸收附近目标的一部分治愈，每次充能增加1%的伤害。",
+    "vi": "Một khả năng có thể chuyển đổi với hai chế độ: thánh thiện và không thánh thiện. Kích hoạt khả năng này ở bất kỳ chế độ nào sẽ lấp đầy bộ đệm bên trong với 1 lần sạc. Trong Chế độ Thánh, chuyển hướng một phần hồi máu của người sử dụng thành sát thương cho các mục tiêu gần đó, giảm 1% sát thương nhận vào mỗi lần sạc. Ở chế độ không phải Thánh, hấp thụ một phần hồi máu từ các mục tiêu gần đó, tăng sát thương thêm 1% mỗi lần sạc."
+  },
+  "tooltip.relics.holy_locket.ability.belief.stat.radius.title": {
+    "en": "Radius:",
+    "zh": "半径：",
+    "vi": "bán kính:"
+  },
+  "tooltip.relics.holy_locket.ability.belief.stat.radius.value": {
+    "en": "%1$s blocks.",
+    "zh": "%1$s 格方块。",
+    "vi": "Lưới vuông %1$s."
+  },
+  "tooltip.relics.holy_locket.ability.belief.stat.amount.title": {
+    "en": "Healing/Damage Modifier:",
+    "zh": "治疗/伤害修改：",
+    "vi": "Sửa đổi chữa bệnh/sát thương:"
+  },
+  "tooltip.relics.holy_locket.ability.belief.stat.amount.value": {
+    "en": "%1$s%% of the original value.",
+    "zh": "%1$s%% 原始数值。",
+    "vi": "%1$s%% giá trị ban đầu."
+  },
+  "tooltip.relics.holy_locket.ability.belief.stat.count.title": {
+    "en": "Maximum number of projectiles:",
+    "zh": "投射物最大数量：",
+    "vi": "Số lượng đạn tối đa:"
+  },
+  "tooltip.relics.holy_locket.ability.belief.stat.count.value": {
+    "en": "%1$s units.",
+    "zh": "%1$s 点。",
+    "vi": "Điểm %1$s."
+  },
+  "tooltip.relics.holy_locket.ability.belief.stat.capacity.title": {
+    "en": "Buffer capacity:",
+    "zh": "缓冲区容量：",
+    "vi": "Dung lượng bộ đệm:"
+  },
+  "tooltip.relics.holy_locket.ability.belief.stat.capacity.value": {
+    "en": "%1$s units.",
+    "zh": "%1$s 点。",
+    "vi": "Điểm %1$s."
+  },
+  "tooltip.relics.holy_locket.ability.repentance": {
+    "en": "Repentance",
+    "zh": "忏悔",
+    "vi": "ăn năn"
+  },
+  "tooltip.relics.holy_locket.ability.repentance.description": {
+    "en": "Burns the health of nearby undead.",
+    "zh": "燃烧周围亡灵生物的血量。",
+    "vi": "Đốt cháy sức khỏe của các sinh vật bất tử xung quanh."
+  },
+  "tooltip.relics.holy_locket.ability.repentance.stat.radius.title": {
+    "en": "Radius:",
+    "zh": "半径：",
+    "vi": "bán kính:"
+  },
+  "tooltip.relics.holy_locket.ability.repentance.stat.radius.value": {
+    "en": "%1$s blocks.",
+    "zh": "%1$s 格方块。",
+    "vi": "Lưới vuông %1$s."
+  },
+  "tooltip.relics.holy_locket.ability.repentance.stat.damage.title": {
+    "en": "Damage dealt:",
+    "zh": "造成伤害：",
+    "vi": "Gây hư hỏng:"
+  },
+  "tooltip.relics.holy_locket.ability.repentance.stat.damage.value": {
+    "en": "%1$s per charge.",
+    "zh": "%1$s 每次充能。",
+    "vi": "%1$s mỗi lần sạc."
+  },
+  "tooltip.relics.holy_locket.ability.blessing": {
+    "en": "Blessing",
+    "zh": "祝福",
+    "vi": "ban phước"
+  },
+  "tooltip.relics.holy_locket.ability.blessing.description": {
+    "en": "Grants the bearer temporary invincibility upon activation, consuming charges from the relic's internal buffer each second.",
+    "zh": "激活后赋予持有者暂时无敌，每秒消耗遗物内部缓冲区的充能。",
+    "vi": "Sau khi kích hoạt, nó mang lại cho người sở hữu khả năng bất khả chiến bại tạm thời, tiêu thụ năng lượng của bộ đệm bên trong di tích mỗi giây."
+  },
+  "tooltip.relics.holy_locket.ability.blessing.stat.consumption.title": {
+    "en": "Charge consumption:",
+    "zh": "充能消耗：",
+    "vi": "Tiêu thụ sạc:"
+  },
+  "tooltip.relics.holy_locket.ability.blessing.stat.consumption.value": {
+    "en": "%1$s per second.",
+    "zh": "%1$s 每秒。",
+    "vi": "%1$s mỗi giây."
+  },
+  "tooltip.relics.holy_locket.ability.blessing.predicate.blessing": {
+    "en": "Charges in the internal buffer",
+    "zh": "内部缓冲区充能",
+    "vi": "Sạc đệm bên trong"
+  },
+  "item.relics.magic_mirror": {
+    "en": "Magic Mirror",
+    "zh": "魔镜",
+    "vi": "Magic Mirror"
+  },
+  "tooltip.relics.magic_mirror.description": {
+    "en": "+1 experience point for each use of the «Wormhole» ability, +1 experience point for every 50 blocks to the teleportation point.",
+    "zh": "使用“虫洞”时增加1点经验，每距离目标点50格方块传送时增加1点经验。",
+    "vi": "Thêm 1 điểm kinh nghiệm khi sử dụng \"lỗ sâu\" và thêm 1 điểm kinh nghiệm khi dịch chuyển tức thời sau mỗi 50 khối cách xa điểm mục tiêu."
+  },
+  "tooltip.relics.magic_mirror.ability.teleport": {
+    "en": "Wormhole",
+    "zh": "虫洞",
+    "vi": "lỗ sâu đục"
+  },
+  "tooltip.relics.magic_mirror.ability.teleport.description": {
+    "en": "After use, teleports the wearer to their respawn point.",
+    "zh": "副手持探险者指南针，可将使用者传送至搜索目标位置。",
+    "vi": "Explorer Compass tiện dụng sẽ dịch chuyển người dùng đến vị trí mục tiêu tìm kiếm."
+  },
+  "tooltip.relics.magic_mirror.ability.teleport.stat.distance.title": {
+    "en": "Distance:",
+    "zh": "距离：",
+    "vi": "khoảng cách:"
+  },
+  "tooltip.relics.magic_mirror.ability.teleport.stat.distance.value": {
+    "en": "%1$s blocks.",
+    "zh": "%1$s 格方块。",
+    "vi": "Lưới vuông %1$s."
+  },
+  "tooltip.relics.magic_mirror.ability.teleport.stat.cooldown.title": {
+    "en": "Recharge:",
+    "zh": "重新充能：",
+    "vi": "Nạp tiền:"
+  },
+  "tooltip.relics.magic_mirror.ability.teleport.stat.cooldown.value": {
+    "en": "%1$s seconds.",
+    "zh": "%1$s 秒。",
+    "vi": "%1$s giây."
+  },
+  "item.relics.shadow_glaive": {
+    "en": "Shadow Glaive",
+    "zh": "暗影飞刃",
+    "vi": "Shadow Glaive"
+  },
+  "tooltip.relics.shadow_glaive.description": {
+    "en": "+1 experience point for every 2 glaive bounces from the «Blind Justice» ability.",
+    "zh": "“盲目正义”能力每2次反弹会增加1点经验。",
+    "vi": "Khả năng \"Công lý mù quáng\" sẽ tăng 1 điểm kinh nghiệm cho mỗi 2 lần bật lại."
+  },
+  "tooltip.relics.shadow_glaive.ability.glaive": {
+    "en": "Blind Justice",
+    "zh": "盲目正义",
+    "vi": "công lý mù quáng"
+  },
+  "tooltip.relics.shadow_glaive.ability.glaive.description": {
+    "en": "Usage releases one of 8 glaive charges, bouncing between nearby targets. The missing charges are restored themselves after a certain amount of time.",
+    "zh": "发射出8片刀刃中的一个，发射出的刀刃会在生物之间弹射。发射的刀刃会在一段时间后自动恢复。",
+    "vi": "Bắn ra một trong 8 lưỡi kiếm, sẽ nảy lại giữa các sinh vật. Lưỡi kiếm đã bắn sẽ tự động phục hồi sau một khoảng thời gian."
+  },
+  "tooltip.relics.shadow_glaive.ability.glaive.stat.damage.title": {
+    "en": "Damage:",
+    "zh": "伤害：",
+    "vi": "làm hại:"
+  },
+  "tooltip.relics.shadow_glaive.ability.glaive.stat.damage.value": {
+    "en": "%1$s.",
+    "zh": "%1$s。",
+    "vi": "%1$s。"
+  },
+  "tooltip.relics.shadow_glaive.ability.glaive.stat.recharge.title": {
+    "en": "Recovery time:",
+    "zh": "恢复时间：",
+    "vi": "Thời gian phục hồi:"
+  },
+  "tooltip.relics.shadow_glaive.ability.glaive.stat.recharge.value": {
+    "en": "%1$s seconds.",
+    "zh": "%1$s 秒。",
+    "vi": "%1$s giây."
+  },
+  "tooltip.relics.shadow_glaive.ability.glaive.stat.bounces.title": {
+    "en": "Bounces:",
+    "zh": "弹射次数：",
+    "vi": "Số lần phóng:"
+  },
+  "tooltip.relics.shadow_glaive.ability.glaive.stat.bounces.value": {
+    "en": "%1$s.",
+    "zh": "%1$s。",
+    "vi": "%1$s。"
+  },
+  "tooltip.relics.shadow_glaive.ability.glaive.stat.radius.title": {
+    "en": "Bounce radius:",
+    "zh": "弹射范围：",
+    "vi": "Phạm vi phóng:"
+  },
+  "tooltip.relics.shadow_glaive.ability.glaive.stat.radius.value": {
+    "en": "%1$s blocks.",
+    "zh": "%1$s 格方块。",
+    "vi": "Lưới vuông %1$s."
+  },
+  "tooltip.relics.shadow_glaive.ability.saw": {
+    "en": "Merciless punishment",
+    "zh": "无情惩罚",
+    "vi": "sự trừng phạt tàn nhẫn"
+  },
+  "tooltip.relics.shadow_glaive.ability.saw.description": {
+    "en": "Usage consumes all 8 glaive charges, summoning a saw that deals damage to nearby targets. Reuse will return the saw to the wearer, restoring all charges. Automatic charge regeneration is blocked while the ability is active.",
+    "zh": "使用时消耗全部刀刃，召唤出暗影飞刃，在范围内持续对生物造成伤害，再次使用将会把暗影飞刃收回。当该技能激活时无法自动恢复刀刃。",
+    "vi": "Khi sử dụng, tất cả các lưỡi kiếm sẽ được sử dụng để triệu hồi Shadow Blade, thứ sẽ tiếp tục gây sát thương cho các sinh vật trong phạm vi. Sử dụng nó một lần nữa và Shadow Blade sẽ được rút lại. Lưỡi kiếm không thể tự động phục hồi khi kỹ năng này đang hoạt động."
+  },
+  "tooltip.relics.shadow_glaive.ability.saw.stat.speed.title": {
+    "en": "Hit interval:",
+    "zh": "攻击间隔：",
+    "vi": "Khoảng thời gian tấn công:"
+  },
+  "tooltip.relics.shadow_glaive.ability.saw.stat.speed.value": {
+    "en": "%1$s seconds.",
+    "zh": "%1$s 秒。",
+    "vi": "%1$s giây."
+  },
+  "tooltip.relics.shadow_glaive.ability.saw.stat.damage.title": {
+    "en": "Damage:",
+    "zh": "伤害：",
+    "vi": "làm hại:"
+  },
+  "tooltip.relics.shadow_glaive.ability.saw.stat.damage.value": {
+    "en": "%1$s units.",
+    "zh": "%1$s 点。",
+    "vi": "Điểm %1$s."
+  },
+  "item.relics.arrow_quiver": {
+    "en": "Quiver",
+    "zh": "箭袋",
+    "vi": "Quiver"
+  },
+  "tooltip.relics.arrow_quiver.description": {
+    "en": "+1 experience point for every 10 blocks to the target hit by the shot.",
+    "zh": "距离至少10格远击中生物时增加1点经验。",
+    "vi": "Thêm 1 điểm kinh nghiệm khi bắn trúng sinh vật từ khoảng cách ít nhất 10 khối."
+  },
+  "tooltip.relics.arrow_quiver.ability.receptacle": {
+    "en": "Arrow Storage",
+    "zh": "储箭",
+    "vi": "Lưu trữ mũi tên"
+  },
+  "tooltip.relics.arrow_quiver.ability.receptacle.description": {
+    "en": "Shooting primarily uses arrows from the quiver's internal storage. Pressing the LMB with arrow on the quiver in the inventory will place it in the internal storage of the relic. Pressing the RMB on the quiver will get the last stack of arrows placed in it.",
+    "zh": "射击主要使用箭袋内部储存的箭。拿起箭左击物品栏中的箭袋，将其放入遗物的内部存储中。在箭袋上右击，会拿出最后放进去的箭",
+    "vi": "Việc bắn súng chủ yếu được thực hiện bằng các mũi tên được cất giữ bên trong bao đựng. Nhặt một mũi tên và nhấp chuột trái vào bao đựng trong kho của bạn để đặt nó vào bộ nhớ trong của di vật. Nhấp chuột phải vào bao đựng sẽ xuất hiện mũi tên cuối cùng được đặt trong đó."
+  },
+  "tooltip.relics.arrow_quiver.ability.receptacle.stat.slots.title": {
+    "en": "Arrow slots:",
+    "zh": "储箭量：",
+    "vi": "Dung lượng lưu trữ mũi tên:"
+  },
+  "tooltip.relics.arrow_quiver.ability.receptacle.stat.slots.value": {
+    "en": "%1$s units.",
+    "zh": "%1$s 组。",
+    "vi": "Nhóm %1$s."
+  },
+  "tooltip.relics.arrow_quiver.ability.leap": {
+    "en": "Leap",
+    "zh": "飞跃",
+    "vi": "bước nhảy vọt"
+  },
+  "tooltip.relics.arrow_quiver.ability.leap.description": {
+    "en": "Knocks the player away from the looking direction, inflicting a vanishing effect until landing. Using a bow will suspend the player in mid-air, increasing damage and nullifying gravity for the next critical shot.",
+    "zh": "将玩家冲击至空中并隐身，落地解除隐身。如果在飞跃期间使用弓会将玩家暂时悬浮在空中，悬浮时增加箭矢的伤害。",
+    "vi": "Người chơi sẽ được phóng lên không trung và trở nên vô hình, và sẽ được thả ra khi hạ cánh xuống đất. Sử dụng cung trong khi nhảy sẽ tạm thời nâng người chơi lên không trung, tăng sát thương cho mũi tên khi bay lên."
+  },
+  "tooltip.relics.arrow_quiver.ability.leap.stat.multiplier.title": {
+    "en": "Additional damage:",
+    "zh": "额外伤害：",
+    "vi": "Thiệt hại thêm:"
+  },
+  "tooltip.relics.arrow_quiver.ability.leap.stat.multiplier.value": {
+    "en": "+%1$s%%.",
+    "zh": "增加 %1$s%%。",
+    "vi": "Thêm %1$s%%."
+  },
+  "tooltip.relics.arrow_quiver.ability.leap.stat.duration.title": {
+    "en": "Max duration:",
+    "zh": "最大持续时间：",
+    "vi": "Thời lượng tối đa:"
+  },
+  "tooltip.relics.arrow_quiver.ability.leap.stat.duration.value": {
+    "en": "%1$s seconds.",
+    "zh": "%1$s 秒。",
+    "vi": "%1$s giây."
+  },
+  "tooltip.relics.arrow_quiver.ability.leap.stat.cooldown.title": {
+    "en": "Cooldown:",
+    "zh": "冷却时间：",
+    "vi": "Thời gian làm mát:"
+  },
+  "tooltip.relics.arrow_quiver.ability.leap.stat.cooldown.value": {
+    "en": "%1$s seconds.",
+    "zh": "%1$s 秒。",
+    "vi": "%1$s giây."
+  },
+  "tooltip.relics.arrow_quiver.ability.leap.predicate.target": {
+    "en": "Looking at the block underfoot",
+    "zh": "看向脚下的方块",
+    "vi": "Hãy nhìn khối đá dưới chân bạn"
+  },
+  "tooltip.relics.arrow_quiver.ability.agility": {
+    "en": "Dexterity",
+    "zh": "灵敏",
+    "vi": "nhạy cảm"
+  },
+  "tooltip.relics.arrow_quiver.ability.agility.description": {
+    "en": "Increases the speed of bowstring tension.",
+    "zh": "增加拉弓的速度。",
+    "vi": "Tăng tốc độ vẽ cung."
+  },
+  "tooltip.relics.arrow_quiver.ability.agility.stat.modifier.title": {
+    "en": "Speed multiplier:",
+    "zh": "拉弓加快：",
+    "vi": "Vẽ nơ nhanh hơn:"
+  },
+  "tooltip.relics.arrow_quiver.ability.agility.stat.modifier.value": {
+    "en": "%1$s%%.",
+    "zh": "%1$s%%。",
+    "vi": "%1$s%%。"
+  },
+  "tooltip.relics.arrow_quiver.ability.rain": {
+    "en": "Arrow Rain",
+    "zh": "箭雨",
+    "vi": "mưa mũi tên"
+  },
+  "tooltip.relics.arrow_quiver.ability.rain.description": {
+    "en": "Calls on a point along the line of sight an area of falling homing arrows from the internal quiver storage from the «Arrow Storage» ability. The arrows themselves from the storage are not consumed. Only one area from this ability can exist at a time.",
+    "zh": "召唤一个圆形区域射下箭雨，从“储箭”技能内的箭不会消耗。该技能只能存在一个圆形区域。",
+    "vi": "Triệu hồi một khu vực hình tròn để bắn hạ một cơn mưa tên. Mũi tên từ kỹ năng \"Lưu trữ mũi tên\" sẽ không bị tiêu hao. Kỹ năng này chỉ có thể tồn tại trong khu vực hình tròn."
+  },
+  "tooltip.relics.arrow_quiver.ability.rain.stat.radius.title": {
+    "en": "Area radius:",
+    "zh": "区域半径：",
+    "vi": "Bán kính diện tích:"
+  },
+  "tooltip.relics.arrow_quiver.ability.rain.stat.radius.value": {
+    "en": "%1$s blocks.",
+    "zh": "%1$s 格方块。",
+    "vi": "Lưới vuông %1$s."
+  },
+  "tooltip.relics.arrow_quiver.ability.rain.stat.duration.title": {
+    "en": "Area lifetime:",
+    "zh": "区域持续时间：",
+    "vi": "Thời hạn vùng:"
+  },
+  "tooltip.relics.arrow_quiver.ability.rain.stat.duration.value": {
+    "en": "%1$s seconds.",
+    "zh": "%1$s 秒。",
+    "vi": "%1$s giây."
+  },
+  "tooltip.relics.arrow_quiver.ability.rain.stat.delay.title": {
+    "en": "Arrow summon frequency:",
+    "zh": "箭矢召唤频率：",
+    "vi": "Tần suất triệu hồi mũi tên:"
+  },
+  "tooltip.relics.arrow_quiver.ability.rain.stat.delay.value": {
+    "en": "%1$s seconds.",
+    "zh": "%1$s 秒。",
+    "vi": "%1$s giây."
+  },
+  "tooltip.relics.arrow_quiver.ability.rain.predicate.arrow": {
+    "en": "Arrows in the quiver",
+    "zh": "箭袋里有箭",
+    "vi": "Có những mũi tên trong bao đựng"
+  },
+  "item.relics.blazing_flask": {
+    "en": "Blazing Flask",
+    "zh": "烈焰瓶",
+    "vi": "Blazing Flask"
+  },
+  "tooltip.relics.blazing_flask.description": {
+    "en": "+1 experience point for every 5 seconds of flight within the scope of the ability «Eternal Fire».",
+    "zh": "在“永恒之火”能力范围内飞行5秒增加1点经验。",
+    "vi": "Bay trong phạm vi khả năng của \"Ngọn lửa vĩnh cửu\" trong 5 giây sẽ cộng thêm 1 điểm kinh nghiệm."
+  },
+  "tooltip.relics.blazing_flask.ability.bonfire": {
+    "en": "Eternal fire",
+    "zh": "永恒之火",
+    "vi": "ngọn lửa vĩnh cửu"
+  },
+  "tooltip.relics.blazing_flask.ability.bonfire.description": {
+    "en": "Using a relic on a block will create a restricted flight zone, the size of which depends on the amount of fire in a certain radius around the center.",
+    "zh": "对火焰使用会召唤出一个飘浮区域大小取决于火焰的数量。",
+    "vi": "Sử dụng nó để đốt lửa sẽ triệu hồi một khu vực nổi có kích thước phụ thuộc vào lượng lửa."
+  },
+  "tooltip.relics.blazing_flask.ability.bonfire.stat.step.title": {
+    "en": "Fire detection radius:",
+    "zh": "火焰半径：",
+    "vi": "Bán kính ngọn lửa:"
+  },
+  "tooltip.relics.blazing_flask.ability.bonfire.stat.step.value": {
+    "en": "%1$s blocks.",
+    "zh": "%1$s 格方块。",
+    "vi": "Lưới vuông %1$s."
+  },
+  "tooltip.relics.blazing_flask.ability.bonfire.stat.speed.title": {
+    "en": "Flight speed:",
+    "zh": "飘浮速度：",
+    "vi": "Tốc độ nổi:"
+  },
+  "tooltip.relics.blazing_flask.ability.bonfire.stat.speed.value": {
+    "en": "%1$s blocks per second.",
+    "zh": "每秒 %1$s 格方块。",
+    "vi": "Khối %1$s mỗi giây."
+  },
+  "tooltip.relics.blazing_flask.ability.bonfire.stat.height.title": {
+    "en": "Flight altitude:",
+    "zh": "飘浮高度：",
+    "vi": "Chiều cao nổi:"
+  },
+  "tooltip.relics.blazing_flask.ability.bonfire.stat.height.value": {
+    "en": "%1$s blocks.",
+    "zh": "%1$s 格方块。",
+    "vi": "Lưới vuông %1$s."
+  },
+  "item.relics.elytra_booster": {
+    "en": "Elytra Booster",
+    "zh": "助推器",
+    "vi": "Elytra Booster"
+  },
+  "tooltip.relics.elytra_booster.description": {
+    "en": "+1 experience point for every 10 seconds of burning fuel when placing it in the internal buffer of the relic from the ability «Acceleration».",
+    "zh": "当使用“加速”能力在空中飞行10秒时增加1点经验。",
+    "vi": "Nhận 1 điểm kinh nghiệm khi bay trên không trong 10 giây bằng khả năng \"Tăng tốc\"."
+  },
+  "tooltip.relics.elytra_booster.ability.boost": {
+    "en": "Acceleration",
+    "zh": "加速",
+    "vi": "tăng tốc"
+  },
+  "tooltip.relics.elytra_booster.ability.boost.description": {
+    "en": "Using any combustible fuel on a relic in the inventory replenishes its internal buffer. Using the ability during the flight on an elytra rushes the wearer forward, consuming fuel from the internal buffer.",
+    "zh": "在背包内把任意燃料放到内部。穿戴鞘翅飞行时使用该技能会消耗放置的燃料助推。",
+    "vi": "Đặt bất kỳ nhiên liệu nào vào trong ba lô. Sử dụng kỹ năng này khi bay bằng elytra sẽ tiêu tốn nhiên liệu tăng thêm."
+  },
+  "tooltip.relics.elytra_booster.ability.boost.stat.capacity.title": {
+    "en": "Capacity:",
+    "zh": "燃料量：",
+    "vi": "Lượng nhiên liệu:"
+  },
+  "tooltip.relics.elytra_booster.ability.boost.stat.capacity.value": {
+    "en": "%1$s units.",
+    "zh": "%1$s 点。",
+    "vi": "Điểm %1$s."
+  },
+  "tooltip.relics.elytra_booster.ability.boost.stat.speed.title": {
+    "en": "Speed:",
+    "zh": "速度：",
+    "vi": "tốc độ:"
+  },
+  "tooltip.relics.elytra_booster.ability.boost.stat.speed.value": {
+    "en": "%1$s blocks per second.",
+    "zh": "每秒 %1$s 格方块。",
+    "vi": "Khối %1$s mỗi giây."
+  },
+  "tooltip.relics.elytra_booster.ability.boost.predicate.elytra": {
+    "en": "Flying on elytra",
+    "zh": "正在使用鞘翅",
+    "vi": "Sử dụng elytra"
+  },
+  "tooltip.relics.elytra_booster.ability.boost.predicate.fuel": {
+    "en": "Fuel in the Booster",
+    "zh": "内部含有燃料",
+    "vi": "Chứa nhiên liệu bên trong"
+  },
+  "item.relics.midnight_robe": {
+    "en": "Midnight Robe",
+    "zh": "午夜斗篷",
+    "vi": "Midnight Robe"
+  },
+  "tooltip.relics.midnight_robe.description": {
+    "en": "+1 experience point for every 2 units of damage when attacking while being invisible from the «Disappearing» ability.",
+    "zh": "使用“销声觅迹”每造成2点伤害增加1点经验。",
+    "vi": "Cứ 2 điểm sát thương gây ra khi sử dụng \"Im lặng và có thể theo dõi\" sẽ tăng 1 điểm kinh nghiệm."
+  },
+  "tooltip.relics.midnight_robe.ability.vanish": {
+    "en": "Vanish",
+    "zh": "销声觅迹",
+    "vi": "Biến mất và tìm thấy dấu vết"
+  },
+  "tooltip.relics.midnight_robe.ability.vanish.description": {
+    "en": "Gives the wearer complete invisibility and increases the speed of their movement at a sufficiently low light level.",
+    "zh": "在亮度较低时使得穿戴者完全隐身并提高移动速度。",
+    "vi": "Làm cho người đeo hoàn toàn vô hình và tăng tốc độ di chuyển khi độ sáng thấp."
+  },
+  "tooltip.relics.midnight_robe.ability.vanish.stat.light.title": {
+    "en": "Minimum light level:",
+    "zh": "最低亮度：",
+    "vi": "Độ sáng tối thiểu:"
+  },
+  "tooltip.relics.midnight_robe.ability.vanish.stat.light.value": {
+    "en": "%1$s.",
+    "zh": "%1$s。",
+    "vi": "%1$s。"
+  },
+  "tooltip.relics.midnight_robe.ability.vanish.stat.speed.title": {
+    "en": "Speed multiplier:",
+    "zh": "速度倍率：",
+    "vi": "Hệ số tốc độ:"
+  },
+  "tooltip.relics.midnight_robe.ability.vanish.stat.speed.value": {
+    "en": "%1$s%%.",
+    "zh": "%1$s%%。",
+    "vi": "%1$s%%。"
+  },
+  "tooltip.relics.midnight_robe.ability.backstab": {
+    "en": "Betrayal",
+    "zh": "背刺",
+    "vi": "đâm sau lưng"
+  },
+  "tooltip.relics.midnight_robe.ability.backstab.description": {
+    "en": "An attack from the «Vanish» ability deals increased damage, outlining a circle around the target and dispelling the invisibility effect of the wearer. Reuse of the «Vanish» ability is possible only after the wearer leaves the circle.",
+    "zh": "使用“销声匿迹”能力时，攻击会提高伤害，并给目标周围划出一个圆圈范围，在该范围内隐身效果会消失。离开该圆圈范围可以再次进入“销声匿迹”能力。",
+    "vi": "Khi sử dụng kỹ năng \"Tàng hình\", đòn tấn công sẽ tăng sát thương và vẽ một vòng tròn xung quanh mục tiêu, trong đó hiệu ứng tàng hình sẽ biến mất. Rời khỏi phạm vi vòng tròn cho phép bạn nhập lại khả năng \"biến mất\"."
+  },
+  "tooltip.relics.midnight_robe.ability.backstab.stat.damage.title": {
+    "en": "Damage multiplier:",
+    "zh": "伤害系数：",
+    "vi": "Hệ số sát thương:"
+  },
+  "tooltip.relics.midnight_robe.ability.backstab.stat.damage.value": {
+    "en": "%1$s%%.",
+    "zh": "%1$s%%。",
+    "vi": "%1$s%%。"
+  },
+  "tooltip.relics.midnight_robe.ability.backstab.stat.distance.title": {
+    "en": "Circle radius:",
+    "zh": "圆圈半径：",
+    "vi": "Bán kính hình tròn:"
+  },
+  "tooltip.relics.midnight_robe.ability.backstab.stat.distance.value": {
+    "en": "%1$s blocks.",
+    "zh": "%1$s 格方块。",
+    "vi": "Lưới vuông %1$s."
+  },
+  "item.relics.reflection_necklace": {
+    "en": "Reflecting Necklace",
+    "zh": "反弹项链",
+    "vi": "Reflecting Necklace"
+  },
+  "tooltip.relics.reflection_necklace.description": {
+    "en": "+1 experience point for every 10 damage accumulated in the internal buffer of the relic from the ability «Infernal Hatred».",
+    "zh": "用“炼狱仇恨”能力每造成10点伤害会增加1点经验。",
+    "vi": "Cứ 10 điểm sát thương gây ra bởi kỹ năng \"Hận thù vô sinh\" sẽ tăng 1 điểm kinh nghiệm."
+  },
+  "tooltip.relics.reflection_necklace.ability.explode": {
+    "en": "Infernal Hatred",
+    "zh": "炼狱仇恨",
+    "vi": "Hận thù luyện ngục"
+  },
+  "tooltip.relics.reflection_necklace.ability.explode.description": {
+    "en": "Accumulates the damage received by the wearer into the internal buffer of the relic. 5 seconds after the last damage or in case of a buffer overflow, the relic explodes, throwing obsidian fragments in all directions, causing damage and stunning targets.",
+    "zh": "累计穿戴者受到的伤害进入到遗物的内部缓冲区，最后一次伤害5秒后或者缓冲区满了，遗物会往周围爆炸出黑曜石碎片，对目标造成伤害并眩晕",
+    "vi": "Thiệt hại tích lũy mà người đeo phải gánh chịu sẽ được nhập vào bộ đệm bên trong của thánh tích. 5 giây sau lần sát thương cuối cùng hoặc bộ đệm đầy, thánh tích sẽ phát nổ các mảnh hắc thạch xung quanh nó, gây sát thương cho mục tiêu và làm choáng mục tiêu."
+  },
+  "tooltip.relics.reflection_necklace.ability.explode.stat.capacity.title": {
+    "en": "Damage buffer:",
+    "zh": "伤害缓冲区：",
+    "vi": "Bộ đệm thiệt hại:"
+  },
+  "tooltip.relics.reflection_necklace.ability.explode.stat.capacity.value": {
+    "en": "%1$s units.",
+    "zh": "%1$s 点。",
+    "vi": "Điểm %1$s."
+  },
+  "tooltip.relics.reflection_necklace.ability.explode.stat.damage.title": {
+    "en": "Damage per buffer unit:",
+    "zh": "缓冲区每点造成伤害：",
+    "vi": "Thiệt hại trên mỗi điểm đệm:"
+  },
+  "tooltip.relics.reflection_necklace.ability.explode.stat.damage.value": {
+    "en": "%1$s units.",
+    "zh": "%1$s 点。",
+    "vi": "Điểm %1$s."
+  },
+  "tooltip.relics.reflection_necklace.ability.explode.stat.stun.title": {
+    "en": "Stun per buffer unit:",
+    "zh": "缓冲区每点眩晕：",
+    "vi": "Choáng mỗi điểm trong vùng đệm:"
+  },
+  "tooltip.relics.reflection_necklace.ability.explode.stat.stun.value": {
+    "en": "%1$s seconds.",
+    "zh": "%1$s 秒。",
+    "vi": "%1$s giây."
+  },
+  "item.relics.jellyfish_necklace": {
+    "en": "Jellyfish Necklace",
+    "zh": "水母项链",
+    "vi": "Jellyfish Necklace"
+  },
+  "tooltip.relics.jellyfish_necklace.description": {
+    "en": "+1 experience point for each activation of the ability «Electric Discharge».",
+    "zh": "使用“放电”时增加1点经验。",
+    "vi": "Thêm 1 điểm kinh nghiệm khi sử dụng \"Xả\"."
+  },
+  "tooltip.relics.jellyfish_necklace.ability.unsinkable": {
+    "en": "Power over the sea",
+    "zh": "波涌",
+    "vi": "dâng trào"
+  },
+  "tooltip.relics.jellyfish_necklace.ability.unsinkable.description": {
+    "en": "The wearer does not sink in water.",
+    "zh": "穿戴时在水中不会下沉。",
+    "vi": "Nó sẽ không chìm trong nước khi đeo."
+  },
+  "tooltip.relics.jellyfish_necklace.ability.shock": {
+    "en": "Electrical Discharge",
+    "zh": "放电",
+    "vi": "phóng điện"
+  },
+  "tooltip.relics.jellyfish_necklace.ability.shock.description": {
+    "en": "Deals damage to targets when colliding with them.",
+    "zh": "触碰到生物时对它造成伤害。",
+    "vi": "Gây sát thương cho sinh vật khi chạm vào."
+  },
+  "tooltip.relics.jellyfish_necklace.ability.shock.stat.damage.title": {
+    "en": "Damage:",
+    "zh": "伤害：",
+    "vi": "làm hại:"
+  },
+  "tooltip.relics.jellyfish_necklace.ability.shock.stat.damage.value": {
+    "en": "%1$s units.",
+    "zh": "%1$s 点。",
+    "vi": "Điểm %1$s."
+  },
+  "tooltip.relics.jellyfish_necklace.ability.paralysis": {
+    "en": "Paralysis",
+    "zh": "麻痹",
+    "vi": "sự tê liệt"
+  },
+  "tooltip.relics.jellyfish_necklace.ability.paralysis.description": {
+    "en": "When the ability is triggered, «Electric Discharge» imposes a paralysis effect on the target.",
+    "zh": "使“放电”施加麻痹效果。",
+    "vi": "Khiến cho \"Discharge\" áp dụng hiệu ứng tê liệt."
+  },
+  "tooltip.relics.jellyfish_necklace.ability.paralysis.stat.duration.title": {
+    "en": "Effect duration:",
+    "zh": "持续时间：",
+    "vi": "Khoảng thời gian:"
+  },
+  "tooltip.relics.jellyfish_necklace.ability.paralysis.stat.duration.value": {
+    "en": "%1$s seconds.",
+    "zh": "%1$s 秒。",
+    "vi": "%1$s giây."
+  },
+  "item.relics.spore_sack": {
+    "en": "Spore Sack",
+    "zh": "孢子囊",
+    "vi": "Spore Sack"
+  },
+  "tooltip.relics.spore_sack.description": {
+    "en": "+1 experience point for each spore released by the «Poison Synthesis» ability.\n+1 experience point for each additional spore split by the «Decomposition» ability.",
+    "zh": "“毒素结合”能力每个孢子释放时增加1点经验。\n“分裂”能力每个额外孢子增加1点经验。",
+    "vi": "Khả năng \"Liên kết độc tố\" tăng thêm 1 điểm kinh nghiệm cho mỗi bào tử được giải phóng.\nKhả năng \"Tách\" thêm 1 điểm kinh nghiệm cho mỗi bào tử bổ sung."
+  },
+  "tooltip.relics.spore_sack.ability.spore": {
+    "en": "Poison Synthesis",
+    "zh": "毒素结合",
+    "vi": "liên kết độc tố"
+  },
+  "tooltip.relics.spore_sack.ability.spore.description": {
+    "en": "When taking damage, throws a spore in a random direction that sticks to surfaces and explodes when a target approaches, dealing damage, poisoning, slowing, and blocking healing for 5 seconds.",
+    "zh": "受到伤害时，向随机方向发射一个孢子，与方块接触时产生一片毒气云，在范围内的生物获得中毒、缓慢、治疗阻断效果。",
+    "vi": "Khi nhận sát thương, một bào tử sẽ phát ra theo hướng ngẫu nhiên. Khi nó tiếp xúc với một khối, một đám mây khí độc sẽ được tạo ra. Các sinh vật trong phạm vi bị nhiễm độc, bị làm chậm và được chữa lành."
+  },
+  "tooltip.relics.spore_sack.ability.spore.stat.size.title": {
+    "en": "Size:",
+    "zh": "大小：",
+    "vi": "kích cỡ:"
+  },
+  "tooltip.relics.spore_sack.ability.spore.stat.size.value": {
+    "en": "%1$s per unit of damage.",
+    "zh": "%1$s 每点伤害。",
+    "vi": "%1$s sát thương mỗi điểm."
+  },
+  "tooltip.relics.spore_sack.ability.spore.stat.damage.title": {
+    "en": "Damage:",
+    "zh": "伤害：",
+    "vi": "làm hại:"
+  },
+  "tooltip.relics.spore_sack.ability.spore.stat.damage.value": {
+    "en": "%1$s per unit of size.",
+    "zh": "%1$s 每单位大小。",
+    "vi": "Kích thước %1$s trên mỗi đơn vị."
+  },
+  "tooltip.relics.spore_sack.ability.spore.stat.cooldown.title": {
+    "en": "Cooldown:",
+    "zh": "冷却时间：",
+    "vi": "Thời gian làm mát:"
+  },
+  "tooltip.relics.spore_sack.ability.spore.stat.cooldown.value": {
+    "en": "%1$s seconds.",
+    "zh": "%1$s 秒。",
+    "vi": "%1$s giây."
+  },
+  "tooltip.relics.spore_sack.ability.spore.stat.duration.title": {
+    "en": "Duration:",
+    "zh": "持续时间：",
+    "vi": "Khoảng thời gian:"
+  },
+  "tooltip.relics.spore_sack.ability.spore.stat.duration.value": {
+    "en": "%1$s seconds.",
+    "zh": "%1$s 秒。",
+    "vi": "%1$s giây."
+  },
+  "tooltip.relics.spore_sack.ability.buffer": {
+    "en": "Poison Accumulation",
+    "zh": "毒素积蓄",
+    "vi": "Tích tụ độc tố"
+  },
+  "tooltip.relics.spore_sack.ability.buffer.description": {
+    "en": "Each time the «Poison Synthesis» ability cooldown triggers, accumulates one charge into the relic's internal buffer that can be used by other abilities to release spores. Adds a chance not to consume spores from the internal buffer when requesting charges for other abilities.",
+    "zh": "当“毒素结合”进入冷却时，将会积累一次能量用于给其他技能释放孢子。",
+    "vi": "Khi \"Liên kết độc tố\" bước vào thời gian hồi chiêu, năng lượng sẽ được tích lũy để giải phóng bào tử cho các kỹ năng khác."
+  },
+  "tooltip.relics.spore_sack.ability.buffer.stat.capacity.title": {
+    "en": "Capacity:",
+    "zh": "容量：",
+    "vi": "dung tích:"
+  },
+  "tooltip.relics.spore_sack.ability.buffer.stat.capacity.value": {
+    "en": "%1$s spores.",
+    "zh": "%1$s 孢子。",
+    "vi": "Bào tử %1$s."
+  },
+  "tooltip.relics.spore_sack.ability.buffer.stat.chance.title": {
+    "en": "Chance:",
+    "zh": "几率：",
+    "vi": "xác suất:"
+  },
+  "tooltip.relics.spore_sack.ability.buffer.stat.chance.value": {
+    "en": "%1$s%%.",
+    "zh": "%1$s%%。",
+    "vi": "%1$s%%。"
+  },
+  "tooltip.relics.spore_sack.ability.multiplying": {
+    "en": "Decomposition",
+    "zh": "分裂",
+    "vi": "Tách ra"
+  },
+  "tooltip.relics.spore_sack.ability.multiplying.description": {
+    "en": "Each spore can split into several smaller spores within a given range when it explodes. The maximum number of spores is determined by the degree of the main spore size, but the final number is limited by the first unsuccessful chance of spore division.",
+    "zh": "当孢子爆炸时会分裂出几个小孢子，小孢子数量由孢子大小决定。",
+    "vi": "Khi bào tử phát nổ, nó sẽ phân chia thành nhiều vi bào tử, số lượng vi bào tử được xác định bởi kích thước của bào tử."
+  },
+  "tooltip.relics.spore_sack.ability.multiplying.stat.chance.title": {
+    "en": "Split chance:",
+    "zh": "分裂几率：",
+    "vi": "Khả năng chia tách:"
+  },
+  "tooltip.relics.spore_sack.ability.multiplying.stat.chance.value": {
+    "en": "%1$s%%.",
+    "zh": "%1$s%%。",
+    "vi": "%1$s%%。"
+  },
+  "tooltip.relics.spore_sack.ability.multiplying.stat.size.title": {
+    "en": "Spore size:",
+    "zh": "孢子大小:",
+    "vi": "Kích thước bào tử:"
+  },
+  "tooltip.relics.spore_sack.ability.multiplying.stat.size.value": {
+    "en": "%1$s%% of the main spore.",
+    "zh": "%1$s%% 主要孢子。",
+    "vi": "%1$s%% Bào tử sơ cấp."
+  },
+  "tooltip.relics.spore_sack.ability.multiplying.stat.amount.title": {
+    "en": "Spore size degree:",
+    "zh": "孢子大小程度：",
+    "vi": "Phạm vi kích thước bào tử:"
+  },
+  "tooltip.relics.spore_sack.ability.multiplying.stat.amount.value": {
+    "en": "%1$s.",
+    "zh": "%1$s。",
+    "vi": "%1$s。"
+  },
+  "tooltip.relics.spore_sack.ability.explosion": {
+    "en": "Poison Release",
+    "zh": "毒素释放",
+    "vi": "giải phóng độc tố"
+  },
+  "tooltip.relics.spore_sack.ability.explosion.description": {
+    "en": "Empties the relic's buffer, releasing all accumulated spore charges into the world. The size of the released spores depends on the wearer's missing health.",
+    "zh": "清空所有能量，将所有的孢子放出，孢子大小由玩家失去的生命值决定。",
+    "vi": "Làm trống tất cả năng lượng và giải phóng mọi bào tử. Kích thước của bào tử được xác định bởi lượng máu đã mất của người chơi."
+  },
+  "tooltip.relics.spore_sack.ability.explosion.stat.size.title": {
+    "en": "Spore size:",
+    "zh": "孢子大小：",
+    "vi": "Kích thước bào tử:"
+  },
+  "tooltip.relics.spore_sack.ability.explosion.stat.size.value": {
+    "en": "%1$s per missing health point.",
+    "zh": "%1$s 每点失去的生命值。",
+    "vi": "%1$s Máu bị mất mỗi điểm."
+  },
+  "tooltip.relics.spore_sack.ability.explosion.predicate.spore": {
+    "en": "Spores in the sack",
+    "zh": "囊袋里含有孢子",
+    "vi": "Túi chứa bào tử"
+  },
+  "item.relics.ice_breaker": {
+    "en": "Ice Breaker",
+    "zh": "破冰靴",
+    "vi": "Ice Breaker"
+  },
+  "tooltip.relics.ice_breaker.description": {
+    "en": "+1 experience point for every 3 blocks in the fall before triggering the ability «Earthquake».",
+    "zh": "使用“地震”时每降落三格方块增加1点经验。",
+    "vi": "Khi sử dụng \"Động đất\", cứ ba khối hạ cánh sẽ cộng thêm 1 điểm kinh nghiệm."
+  },
+  "tooltip.relics.ice_breaker.ability.sustainability": {
+    "en": "Sustainability",
+    "zh": "猛站",
+    "vi": "đứng quyết liệt"
+  },
+  "tooltip.relics.ice_breaker.ability.sustainability.description": {
+    "en": "Increases the speed of falling, increases the knockback resistance and negates slippering.",
+    "zh": "增加下落速度和击退抗性。",
+    "vi": "Tăng tốc độ rơi và khả năng chống đẩy lùi."
+  },
+  "tooltip.relics.ice_breaker.ability.sustainability.stat.modifier.title": {
+    "en": "Knockback resistance:",
+    "zh": "击退抗性：",
+    "vi": "Kháng phản đòn:"
+  },
+  "tooltip.relics.ice_breaker.ability.sustainability.stat.modifier.value": {
+    "en": "%1$s%%.",
+    "zh": "%1$s%%。",
+    "vi": "%1$s%%。"
+  },
+  "tooltip.relics.ice_breaker.ability.impact": {
+    "en": "Earthquake",
+    "zh": "地震",
+    "vi": "trận động đất"
+  },
+  "tooltip.relics.ice_breaker.ability.impact.description": {
+    "en": "Using the ability in a fall will create a shockwave at the landing site, causing damage and throwing away nearby targets. Power of the wave depends on the distance that the wearer has flown.",
+    "zh": "使坠落加快并在落点产生冲击波，伤害以及击退附近的生物，冲击波的强弱由玩家的坠落的高度决定。",
+    "vi": "Nó tăng tốc độ rơi và tạo ra sóng xung kích tại điểm tiếp đất, gây sát thương và đẩy lùi các sinh vật gần đó. Sức mạnh của sóng xung kích được xác định bởi độ cao rơi của người chơi."
+  },
+  "tooltip.relics.ice_breaker.ability.impact.stat.size.title": {
+    "en": "Maximum radius:",
+    "zh": "最大半径：",
+    "vi": "Bán kính tối đa:"
+  },
+  "tooltip.relics.ice_breaker.ability.impact.stat.size.value": {
+    "en": "%1$s blocks.",
+    "zh": "%1$s 格方块。",
+    "vi": "Lưới vuông %1$s."
+  },
+  "tooltip.relics.ice_breaker.ability.impact.stat.damage.title": {
+    "en": "Minimum damage:",
+    "zh": "最小伤害：",
+    "vi": "Thiệt hại tối thiểu:"
+  },
+  "tooltip.relics.ice_breaker.ability.impact.stat.damage.value": {
+    "en": "%1$s units.",
+    "zh": "%1$s 点。",
+    "vi": "Điểm %1$s."
+  },
+  "tooltip.relics.ice_breaker.ability.impact.predicate.falling": {
+    "en": "Free fall",
+    "zh": "自由落体",
+    "vi": "rơi tự do"
+  },
+  "item.relics.bastion_ring": {
+    "en": "Bastion Ring",
+    "zh": "堡垒戒指",
+    "vi": "Bastion Ring"
+  },
+  "tooltip.relics.bastion_ring.description": {
+    "en": "+1/5/10 experience point for each killed Zombified Piglin / Piglin / Piglin Brute.\n+1 experience point for each additional trade from the ability «Respect».",
+    "zh": "杀死僵尸猪灵、猪灵、疣猪兽时分别增加1点、5点、10点经验。\n“尊敬”能力触发时每次交易增加1点经验。",
+    "vi": "Giết lợn zombie, lợn con và lợn con sẽ thêm lần lượt 1, 5 và 10 điểm kinh nghiệm.\nKhi khả năng \"Tôn trọng\" được kích hoạt, mỗi giao dịch sẽ cộng thêm 1 điểm kinh nghiệm."
+  },
+  "tooltip.relics.bastion_ring.ability.compass": {
+    "en": "Recognition",
+    "zh": "外交",
+    "vi": "ngoại giao"
+  },
+  "tooltip.relics.bastion_ring.ability.compass.description": {
+    "en": "Makes piglins neutral in relation to the wearer. The nearest piglin will indicate the location of a bastion nearby.",
+    "zh": "把猪灵变为中立生物，猪灵会为你指出附近堡垒遗迹的位置。",
+    "vi": "Biến chú lợn thành một sinh vật trung lập và chú lợn sẽ chỉ cho bạn vị trí của tàn tích pháo đài gần đó."
+  },
+  "tooltip.relics.bastion_ring.ability.trade": {
+    "en": "Respect",
+    "zh": "尊敬",
+    "vi": "Sự tôn trọng"
+  },
+  "tooltip.relics.bastion_ring.ability.trade.description": {
+    "en": "Each trade with piglins gets a multiple chance of 50% to issue an additional trading result.",
+    "zh": "与猪灵交易有50%的概率获得额外物品。",
+    "vi": "Giao dịch với lợn có 50% cơ hội nhận thêm vật phẩm."
+  },
+  "tooltip.relics.bastion_ring.ability.trade.stat.rolls.title": {
+    "en": "Maximum number of trades:",
+    "zh": "最大交易数：",
+    "vi": "Số lượng giao dịch tối đa:"
+  },
+  "tooltip.relics.bastion_ring.ability.trade.stat.rolls.value": {
+    "en": "%1$s units.",
+    "zh": "%1$s 点。",
+    "vi": "Điểm %1$s."
+  },
+  "item.relics.horse_flute": {
+    "en": "Horse Flute",
+    "zh": "马笛",
+    "vi": "Horse Flute"
+  },
+  "tooltip.relics.horse_flute.description": {
+    "en": "+1 experience point for every 25 blocks overcome by a horse called by the ability «Portable Stall».",
+    "zh": "骑着“千里唤马”能力召唤出的坐骑每行走25格方块增加1点经验。",
+    "vi": "Cưỡi thú cưỡi được triệu hồi bởi khả năng \"Gọi ngựa từ ngàn dặm\" ​​sẽ thêm 1 điểm kinh nghiệm cho mỗi 25 ô vuông đi được."
+  },
+  "tooltip.relics.horse_flute.ability.paddock": {
+    "en": "Portable Stall",
+    "zh": "千里唤马",
+    "vi": "Kêu ngựa ngàn dặm"
+  },
+  "tooltip.relics.horse_flute.ability.paddock.description": {
+    "en": "Using a relic on the horse will move the animal to the internal storage. Reuse will release the creature. If the distance between the wearer and the summoned horse exceeds 16 blocks, it will automatically fit back into the flute.",
+    "zh": "对坐骑使用，将坐骑放进马笛里，再次使用将召唤出马。如果召唤出的坐骑与玩家的距离超过16格方块时，坐骑将自动传送至马笛里。",
+    "vi": "Sử dụng nó trên thú cưỡi, đặt thú cưỡi vào sáo ngựa và sử dụng lại để triệu hồi ngựa. Nếu khoảng cách giữa thú cưỡi được triệu hồi và người chơi vượt quá 16 khối, thú cưỡi sẽ tự động được dịch chuyển đến sáo ngựa."
+  },
+  "tooltip.relics.horse_flute.ability.paddock.stat.slots.title": {
+    "en": "Slots:",
+    "zh": "栏位：",
+    "vi": "Cánh đồng:"
+  },
+  "tooltip.relics.horse_flute.ability.paddock.stat.slots.value": {
+    "en": "%1$s.",
+    "zh": "%1$s。",
+    "vi": "%1$s。"
+  },
+  "tooltip.relics.horse_flute.ability.heal": {
+    "en": "Plot to treatment",
+    "zh": "治疗",
+    "vi": "đối xử"
+  },
+  "tooltip.relics.horse_flute.ability.heal.description": {
+    "en": "A horse placed in the internal storage will slowly restore health.",
+    "zh": "当坐骑在马笛里时恢复生命值。",
+    "vi": "Sức khỏe được phục hồi khi thú cưỡi ở trong sáo ngựa."
+  },
+  "tooltip.relics.horse_flute.ability.heal.stat.amount.title": {
+    "en": "Treatment:",
+    "zh": "恢复：",
+    "vi": "hồi phục:"
+  },
+  "tooltip.relics.horse_flute.ability.heal.stat.amount.value": {
+    "en": "%1$s health units per second.",
+    "zh": "每秒 %1$s 点生命。",
+    "vi": "%1$s điểm sống mỗi giây."
+  },
+  "item.relics.magma_walker": {
+    "en": "Magma Walker",
+    "zh": "熔岩行靴",
+    "vi": "Magma Walker"
+  },
+  "tooltip.relics.magma_walker.description": {
+    "en": "+1 experience point for every 5 units of heating from the ability «Fiery Tread».",
+    "zh": "“熔岩行者”过热值增加5点时增加1点经验。",
+    "vi": "Khi giá trị siêu nhiệt của \"Lava Walker\" tăng thêm 5 điểm thì sẽ được cộng thêm 1 điểm kinh nghiệm."
+  },
+  "tooltip.relics.magma_walker.ability.pace": {
+    "en": "Fiery Tread",
+    "zh": "熔岩行者",
+    "vi": "dung nham Walker"
+  },
+  "tooltip.relics.magma_walker.ability.pace.description": {
+    "en": "For a certain amount of time allows you to walk on the lava surface without falling and taking damage. After the time limit expires, the boots begin to overheat and cause damage to the wearer proportional to the degree of overheating.",
+    "zh": "穿戴时可暂时在熔岩上行走，一段时间后，靴将会过热。对玩家造成伤害。",
+    "vi": "Bạn có thể tạm thời đi trên dung nham khi mang nó, nhưng sau một thời gian, ủng sẽ quá nóng. Gây thiệt hại cho người chơi."
+  },
+  "tooltip.relics.magma_walker.ability.pace.stat.time.title": {
+    "en": "Duration:",
+    "zh": "持续时间：",
+    "vi": "Khoảng thời gian:"
+  },
+  "tooltip.relics.magma_walker.ability.pace.stat.time.value": {
+    "en": "%1$s seconds.",
+    "zh": "%1$s 秒。",
+    "vi": "%1$s giây."
+  },
+  "tooltip.relics.magma_walker.ability.heat_resistance": {
+    "en": "Heat Resistance",
+    "zh": "耐热",
+    "vi": "chịu nhiệt"
+  },
+  "tooltip.relics.magma_walker.ability.heat_resistance.description": {
+    "en": "Suppresses damage from hot blocks.",
+    "zh": "免疫岩浆块的伤害。",
+    "vi": "Miễn nhiễm sát thương từ các khối magma."
+  },
+  "item.relics.aqua_walker": {
+    "en": "Aqua Walker",
+    "zh": "海洋行靴",
+    "vi": "Aqua Walker"
+  },
+  "tooltip.relics.aqua_walker.description": {
+    "en": "+1 experience point for every 5 units of getting wet from the ability «Moisture Resistance».",
+    "zh": "“耐湿性”潮湿值每增加5点时增加1点经验。",
+    "vi": "\"Khả năng chống ẩm\" tăng thêm 1 điểm kinh nghiệm cho mỗi 5 điểm tăng giá trị độ ẩm."
+  },
+  "tooltip.relics.aqua_walker.ability.walking": {
+    "en": "Moisture Resistance",
+    "zh": "耐湿性",
+    "vi": "Chống ẩm"
+  },
+  "tooltip.relics.aqua_walker.ability.walking.description": {
+    "en": "For a certain amount of time allows you to move on the surface of the water without falling. After the time limit expires, the boots begin to sink, dragging the wearer with them under the water.",
+    "zh": "穿戴时可暂时在水面上行者，一段时间后，靴将会潮湿，玩家将会下沉。",
+    "vi": "Khi đeo, người chơi có thể tạm thời đi trên mặt nước. Sau một thời gian, ủng sẽ bị ướt và người chơi sẽ bị chìm."
+  },
+  "tooltip.relics.aqua_walker.ability.walking.stat.time.title": {
+    "en": "Duration:",
+    "zh": "持续时间：",
+    "vi": "Khoảng thời gian:"
+  },
+  "tooltip.relics.aqua_walker.ability.walking.stat.time.value": {
+    "en": "%1$s seconds.",
+    "zh": "%1$s 秒。",
+    "vi": "%1$s giây."
+  },
+  "item.relics.drowned_belt": {
+    "en": "Drowned Belt",
+    "zh": "溺尸腰带",
+    "vi": "Drowned Belt"
+  },
+  "tooltip.relics.drowned_belt.description": {
+    "en": "+1 experience point for each level of enchantment «Riptide» on the trident when using it.",
+    "zh": "使用三叉戟的“激流”附魔时获得1点经验。",
+    "vi": "Nhận được 1 điểm kinh nghiệm khi sử dụng bùa mê Riptide của Cây đinh ba."
+  },
+  "tooltip.relics.drowned_belt.ability.slots": {
+    "en": "Load Capacity",
+    "zh": "负载能力",
+    "vi": "khả năng chịu tải"
+  },
+  "tooltip.relics.drowned_belt.ability.slots.description": {
+    "en": "Increases the maximum number of slots for equipping relics.",
+    "zh": "增加可穿戴的饰品栏位。",
+    "vi": "Đã thêm khe cắm phụ kiện đeo được."
+  },
+  "tooltip.relics.drowned_belt.ability.slots.stat.charm.title": {
+    "en": "Charms:",
+    "zh": "护符栏：",
+    "vi": "Cột bùa:"
+  },
+  "tooltip.relics.drowned_belt.ability.slots.stat.charm.value": {
+    "en": "+%1$s slots.",
+    "zh": "增加 %1$s 个。",
+    "vi": "Thêm %1$s."
+  },
+  "tooltip.relics.drowned_belt.ability.anchor": {
+    "en": "Dead Weight",
+    "zh": "重负荷",
+    "vi": "tải nặng"
+  },
+  "tooltip.relics.drowned_belt.ability.anchor.description": {
+    "en": "Reduces the swimming speed and increases the sinking speed of the wearer.",
+    "zh": "降低游泳速度，增加下沉速度。",
+    "vi": "Giảm tốc độ bơi và tăng tốc độ chìm."
+  },
+  "tooltip.relics.drowned_belt.ability.anchor.stat.slowness.title": {
+    "en": "Slowing down swimming:",
+    "zh": "降低游泳速度：",
+    "vi": "Giảm tốc độ bơi:"
+  },
+  "tooltip.relics.drowned_belt.ability.anchor.stat.slowness.value": {
+    "en": "+%1$s%%.",
+    "zh": "%1$s%%。",
+    "vi": "%1$s%%。"
+  },
+  "tooltip.relics.drowned_belt.ability.anchor.stat.sinking.title": {
+    "en": "Sinking rate:",
+    "zh": "下沉速度：",
+    "vi": "Tốc độ chìm:"
+  },
+  "tooltip.relics.drowned_belt.ability.anchor.stat.sinking.value": {
+    "en": "+%1$s%%.",
+    "zh": "增加%1$s%%。",
+    "vi": "Tăng%1$s%%."
+  },
+  "tooltip.relics.drowned_belt.ability.pressure": {
+    "en": "Water Flows",
+    "zh": "波动",
+    "vi": "sự dao động"
+  },
+  "tooltip.relics.drowned_belt.ability.pressure.description": {
+    "en": "Increases dealt underwater damage.",
+    "zh": "在水中时增加伤害。",
+    "vi": "Tăng sát thương khi ở dưới nước."
+  },
+  "tooltip.relics.drowned_belt.ability.pressure.stat.damage.title": {
+    "en": "Damage multiplier:",
+    "zh": "伤害系数：",
+    "vi": "Hệ số sát thương:"
+  },
+  "tooltip.relics.drowned_belt.ability.pressure.stat.damage.value": {
+    "en": "+%1$s%%.",
+    "zh": "增加 %1$s%%。",
+    "vi": "Thêm %1$s%%."
+  },
+  "tooltip.relics.drowned_belt.ability.riptide": {
+    "en": "Water Attraction",
+    "zh": "引水",
+    "vi": "chuyển hướng"
+  },
+  "tooltip.relics.drowned_belt.ability.riptide.description": {
+    "en": "Allows you to use the trident «Riptide» ability without rain or water, adding recharge time to it.",
+    "zh": "允许你在没有雨或水的情况使用三叉戟的“激流”。增加激流的冷却时间。",
+    "vi": "Cho phép bạn sử dụng \"Riptide\" của Trident khi không có mưa hoặc nước. Tăng thời gian hồi chiêu của Riptide."
+  },
+  "tooltip.relics.drowned_belt.ability.riptide.stat.cooldown.title": {
+    "en": "Recharge time:",
+    "zh": "冷却时间：",
+    "vi": "Thời gian làm mát:"
+  },
+  "tooltip.relics.drowned_belt.ability.riptide.stat.cooldown.value": {
+    "en": "%1$s seconds per enchantment level.",
+    "zh": "%1$s 秒每级附魔。",
+    "vi": "%1$s giây cho mỗi cấp độ bùa mê."
+  },
+  "item.relics.hunter_belt": {
+    "en": "Hunter Belt",
+    "zh": "猎人腰带",
+    "vi": "Hunter Belt"
+  },
+  "tooltip.relics.hunter_belt.description": {
+    "en": "+1 experience point for each attack made by the wearer's pet.",
+    "zh": "穿戴者的宠物每次攻击时增加1点经验。",
+    "vi": "Mỗi cuộc tấn công của thú cưng của người mặc sẽ cộng thêm 1 điểm kinh nghiệm."
+  },
+  "tooltip.relics.hunter_belt.ability.slots": {
+    "en": "Load Capacity",
+    "zh": "负载能力",
+    "vi": "khả năng chịu tải"
+  },
+  "tooltip.relics.hunter_belt.ability.slots.description": {
+    "en": "Increases the maximum number of slots for equipping relics.",
+    "zh": "增加可穿戴的饰品栏位。",
+    "vi": "Đã thêm khe cắm phụ kiện đeo được."
+  },
+  "tooltip.relics.hunter_belt.ability.slots.stat.charm.title": {
+    "en": "Charms:",
+    "zh": "护符栏：",
+    "vi": "Cột bùa:"
+  },
+  "tooltip.relics.hunter_belt.ability.slots.stat.charm.value": {
+    "en": "+%1$s slots.",
+    "zh": "+%1$s 个。",
+    "vi": "+%1$s."
+  },
+  "tooltip.relics.hunter_belt.ability.training": {
+    "en": "Training",
+    "zh": "友谊",
+    "vi": "tình bạn"
+  },
+  "tooltip.relics.hunter_belt.ability.training.description": {
+    "en": "Increases the damage inflicted by the wearer's pets.",
+    "zh": "穿戴时增加宠物伤害。",
+    "vi": "Tăng sát thương cho thú cưng khi đeo."
+  },
+  "tooltip.relics.hunter_belt.ability.training.stat.damage.title": {
+    "en": "Damage multiplier:",
+    "zh": "伤害系数：",
+    "vi": "Hệ số sát thương:"
+  },
+  "tooltip.relics.hunter_belt.ability.training.stat.damage.value": {
+    "en": "+%1$s%%.",
+    "zh": "增加 %1$s%%。",
+    "vi": "Thêm %1$s%%."
+  },
+  "item.relics.leather_belt": {
+    "en": "Leather Belt",
+    "zh": "皮革腰带",
+    "vi": "Leather Belt"
+  },
+  "tooltip.relics.leather_belt.description": {
+    "en": "+1 experience point for each experience gained by equipped charms.",
+    "zh": "所穿戴护符每次获取经验时会增加1点经验。",
+    "vi": "Mỗi lần bùa hộ mệnh được đeo sẽ tăng thêm 1 điểm kinh nghiệm."
+  },
+  "tooltip.relics.leather_belt.ability.slots": {
+    "en": "Load Capacity",
+    "zh": "负载能力",
+    "vi": "khả năng chịu tải"
+  },
+  "tooltip.relics.leather_belt.ability.slots.description": {
+    "en": "Increases the maximum number of slots for equipping relics.",
+    "zh": "增加可穿戴的饰品栏位。",
+    "vi": "Đã thêm khe cắm phụ kiện đeo được."
+  },
+  "tooltip.relics.leather_belt.ability.slots.stat.charm.title": {
+    "en": "Charms:",
+    "zh": "护符栏：",
+    "vi": "Cột bùa:"
+  },
+  "tooltip.relics.leather_belt.ability.slots.stat.charm.value": {
+    "en": "+%1$s slots.",
+    "zh": "+%1$s 个。",
+    "vi": "+%1$s."
+  },
+  "item.relics.rage_glove": {
+    "en": "Rage Glove",
+    "zh": "狂怒手套",
+    "vi": "Rage Glove"
+  },
+  "tooltip.relics.rage_glove.description": {
+    "en": "+1 experience point for every 3 charges from the ability «Berserker Rage» when they are reset.\n+1 experience point for each target hit by the «Spurt» ability.",
+    "zh": "“狂暴”充能3次时增加1点经验。\n“蛮撞”每击中1个生物增加1点经验。",
+    "vi": "Khi \"Cơn thịnh nộ\" được sạc 3 lần, 1 điểm kinh nghiệm sẽ được cộng.\n\"Brutal Bump\" thêm 1 điểm kinh nghiệm cho mỗi sinh vật mà nó chạm phải."
+  },
+  "tooltip.relics.rage_glove.ability.rage": {
+    "en": "Berserker Rage",
+    "zh": "狂暴",
+    "vi": "hung bạo"
+  },
+  "tooltip.relics.rage_glove.ability.rage.description": {
+    "en": "Each wearer attack made within 3 seconds after the last one accumulates 1 charge into the internal buffer of the relic. The damage inflicted and received by the wearer, as well as its movement speed and dealt damage increases in proportion to the accumulated charges. After 3 seconds, the internal buffer of the relic is emptied, canceling all bonuses received.",
+    "zh": "攻击后的3秒内每攻击一次会充能一次，如果受到伤害，会增加移动速度和受到伤害。3秒后会清空状态。",
+    "vi": "Trong vòng 3 giây sau đòn tấn công, mỗi đòn tấn công sẽ được tích một lần. Nếu bị hư hỏng, tốc độ di chuyển và sát thương nhận vào sẽ tăng lên. Trạng thái sẽ bị xóa sau 3 giây."
+  },
+  "tooltip.relics.rage_glove.ability.rage.stat.duration.title": {
+    "en": "Charge existence time:",
+    "zh": "持续时间：",
+    "vi": "Khoảng thời gian:"
+  },
+  "tooltip.relics.rage_glove.ability.rage.stat.duration.value": {
+    "en": "%1$s seconds.",
+    "zh": "%1$s 秒。",
+    "vi": "%1$s giây."
+  },
+  "tooltip.relics.rage_glove.ability.rage.stat.incoming_damage.title": {
+    "en": "Incoming damage multiplier:",
+    "zh": "受到的伤害系数：",
+    "vi": "Thiệt hại nhận được:"
+  },
+  "tooltip.relics.rage_glove.ability.rage.stat.incoming_damage.value": {
+    "en": "%1$s%% per charge.",
+    "zh": "%1$s%% 每次充能。",
+    "vi": "%1$s%% mỗi lần sạc."
+  },
+  "tooltip.relics.rage_glove.ability.rage.stat.dealt_damage.title": {
+    "en": "Dealt damage multiplier:",
+    "zh": "造成伤害增加：",
+    "vi": "Tăng sát thương gây ra:"
+  },
+  "tooltip.relics.rage_glove.ability.rage.stat.dealt_damage.value": {
+    "en": "%1$s%% per charge.",
+    "zh": "%1$s%% 每次充能。",
+    "vi": "%1$s%% mỗi lần sạc."
+  },
+  "tooltip.relics.rage_glove.ability.phlebotomy": {
+    "en": "Phlebotomy",
+    "zh": "刺骼",
+    "vi": "xương gai"
+  },
+  "tooltip.relics.rage_glove.ability.phlebotomy.description": {
+    "en": "Increases the wearer's attack and movement speed, as well as granting passive regeneration proportional to the percentage of the missing health.",
+    "zh": "穿戴时根据生命损失的百分比获得生命恢复、攻速和移速。",
+    "vi": "Khi đeo, khả năng phục hồi máu, tốc độ tấn công và tốc độ di chuyển sẽ tăng dựa trên phần trăm máu đã mất."
+  },
+  "tooltip.relics.rage_glove.ability.phlebotomy.stat.heal.title": {
+    "en": "Health regen:",
+    "zh": "生命恢复加成：",
+    "vi": "Phần thưởng tái sinh cuộc sống:"
+  },
+  "tooltip.relics.rage_glove.ability.phlebotomy.stat.heal.value": {
+    "en": "%1$s for 1%% per second.",
+    "zh": "每秒 %1$s 每 1%% 。",
+    "vi": "%1$s cứ sau 1%% mỗi giây."
+  },
+  "tooltip.relics.rage_glove.ability.phlebotomy.stat.movement_speed.title": {
+    "en": "Movement speed multiplier:",
+    "zh": "移速加成：",
+    "vi": "Phần thưởng tốc độ di chuyển:"
+  },
+  "tooltip.relics.rage_glove.ability.phlebotomy.stat.movement_speed.value": {
+    "en": "%1$s%% for 1%%.",
+    "zh": "%1$s%% 每 1%%。",
+    "vi": "%1$s%% trên 1%%."
+  },
+  "tooltip.relics.rage_glove.ability.phlebotomy.stat.attack_speed.title": {
+    "en": "Attack speed multiplier:",
+    "zh": "攻速加成：",
+    "vi": "Phần thưởng tốc độ tấn công:"
+  },
+  "tooltip.relics.rage_glove.ability.phlebotomy.stat.attack_speed.value": {
+    "en": "%1$s%% for 1%%.",
+    "zh": "%1$s%% 每 1%%。",
+    "vi": "%1$s%% trên 1%%."
+  },
+  "tooltip.relics.rage_glove.ability.spurt": {
+    "en": "Spurt",
+    "zh": "蛮撞",
+    "vi": "Va chạm tàn khốc"
+  },
+  "tooltip.relics.rage_glove.ability.spurt.description": {
+    "en": "Dashes towards the direction of sight, setting enemies on fire, applying bleeding and attacking each target in its path with the item in the hand. Deals additional damage proportional to the number of charges in the relic's internal buffer from the «Berserker's Rage» ability and devastates it.",
+    "zh": "冲向所看的方向，对经过的生物造成燃烧、流血效果，并用手中物品攻击途中生物。根据“狂暴”的充能次数造成额外伤害。",
+    "vi": "Lao về hướng bạn đang nhìn, gây hiệu ứng bỏng rát và chảy máu cho những sinh vật đi ngang qua, đồng thời tấn công những sinh vật trên đường đi bằng đồ vật trên tay. Gây thêm sát thương dựa trên số lượng Rage charge."
+  },
+  "tooltip.relics.rage_glove.ability.spurt.stat.cooldown.title": {
+    "en": "Cooldown:",
+    "zh": "冷却时间：",
+    "vi": "Thời gian làm mát:"
+  },
+  "tooltip.relics.rage_glove.ability.spurt.stat.cooldown.value": {
+    "en": "%1$s seconds.",
+    "zh": "%1$s 秒。",
+    "vi": "%1$s giây."
+  },
+  "tooltip.relics.rage_glove.ability.spurt.stat.damage.title": {
+    "en": "Dealt damage:",
+    "zh": "造成伤害：",
+    "vi": "Gây hư hỏng:"
+  },
+  "tooltip.relics.rage_glove.ability.spurt.stat.damage.value": {
+    "en": "%1$s per charge.",
+    "zh": "%1$s 每次充能。",
+    "vi": "%1$s mỗi lần sạc."
+  },
+  "tooltip.relics.rage_glove.ability.spurt.stat.distance.title": {
+    "en": "Distance:",
+    "zh": "距离：",
+    "vi": "khoảng cách:"
+  },
+  "tooltip.relics.rage_glove.ability.spurt.stat.distance.value": {
+    "en": "%1$s blocks.",
+    "zh": "%1$s 格方块。",
+    "vi": "Lưới vuông %1$s."
+  },
+  "item.relics.ice_skates": {
+    "en": "Ice Skates",
+    "zh": "溜冰靴",
+    "vi": "Ice Skates"
+  },
+  "tooltip.relics.ice_skates.description": {
+    "en": "+1 experience point for each second of acceleration from the ability «Skating».",
+    "zh": "“滑冰”每滑行1秒增加1点经验。",
+    "vi": "\"Trượt băng\" cộng thêm 1 điểm kinh nghiệm cho mỗi 1 giây trượt băng."
+  },
+  "tooltip.relics.ice_skates.ability.skating": {
+    "en": "Skating",
+    "zh": "滑冰",
+    "vi": "trượt ván"
+  },
+  "tooltip.relics.ice_skates.ability.skating.description": {
+    "en": "Increases the movement speed while on ice depending on the duration of sliding.",
+    "zh": "在冰上滑行越久速度越快。",
+    "vi": "Bạn trượt trên băng càng lâu thì bạn càng đi nhanh hơn."
+  },
+  "tooltip.relics.ice_skates.ability.skating.stat.speed.title": {
+    "en": "Speed multiplier per second:",
+    "zh": "每秒速度系数：",
+    "vi": "Hệ số tốc độ trên giây:"
+  },
+  "tooltip.relics.ice_skates.ability.skating.stat.speed.value": {
+    "en": "%1$s%%.",
+    "zh": "%1$s%%。",
+    "vi": "%1$s%%。"
+  },
+  "tooltip.relics.ice_skates.ability.skating.stat.duration.title": {
+    "en": "Maximum duration:",
+    "zh": "最大持续时间：",
+    "vi": "Thời lượng tối đa:"
+  },
+  "tooltip.relics.ice_skates.ability.skating.stat.duration.value": {
+    "en": "%1$s seconds.",
+    "zh": "%1$s 秒。",
+    "vi": "%1$s giây."
+  },
+  "tooltip.relics.ice_skates.ability.ram": {
+    "en": "Ram",
+    "zh": "猛撞",
+    "vi": "đập mạnh"
+  },
+  "tooltip.relics.ice_skates.ability.ram.description": {
+    "en": "When colliding with targets, deals damage proportional to the duration of «Skating» ability usage.",
+    "zh": "“滑冰”撞击到生物会造成伤害。",
+    "vi": "\"Trượt băng\" sẽ gây sát thương khi va vào sinh vật."
+  },
+  "tooltip.relics.ice_skates.ability.ram.stat.damage.title": {
+    "en": "Damage per second:",
+    "zh": "每秒伤害：",
+    "vi": "Sát thương mỗi giây:"
+  },
+  "tooltip.relics.ice_skates.ability.ram.stat.damage.value": {
+    "en": "%1$s units.",
+    "zh": "%1$s 点。",
+    "vi": "Điểm %1$s."
+  },
+  "item.relics.amphibian_boot": {
+    "en": "Amphibian Boot",
+    "zh": "两栖靴",
+    "vi": "Amphibian Boot"
+  },
+  "tooltip.relics.amphibian_boot.description": {
+    "en": "+1 experience point for each second of acceleration from the «Fins» ability.\n+1 experience point for every second of acceleration from the «Slipping» ability.",
+    "zh": "“蛙泳”每加速1秒时增加1点经验。\n“滑行”每加速1秒时增加1点经验。",
+    "vi": "\"Bướm\" thêm 1 điểm kinh nghiệm cho mỗi 1 giây tăng tốc.\n\"Lướt\" thêm 1 điểm kinh nghiệm cho mỗi 1 giây tăng tốc."
+  },
+  "tooltip.relics.amphibian_boot.ability.swimming": {
+    "en": "Fins",
+    "zh": "蛙泳",
+    "vi": "bơi ếch"
+  },
+  "tooltip.relics.amphibian_boot.ability.swimming.description": {
+    "en": "Accelerates the swimming speed depending on its duration.",
+    "zh": "根据时间增加速度.",
+    "vi": "Tăng tốc độ dựa trên thời gian."
+  },
+  "tooltip.relics.amphibian_boot.ability.swimming.stat.speed.title": {
+    "en": "Speed multiplier:",
+    "zh": "移速倍率:",
+    "vi": "Hệ số tốc độ di chuyển:"
+  },
+  "tooltip.relics.amphibian_boot.ability.swimming.stat.speed.value": {
+    "en": "%1$s%% for every second.",
+    "zh": "%1$s%% 每秒.",
+    "vi": "%1$s%% mỗi giây."
+  },
+  "tooltip.relics.amphibian_boot.ability.swimming.stat.duration.title": {
+    "en": "Maximum duration:",
+    "zh": "最大持续时间：",
+    "vi": "Thời lượng tối đa:"
+  },
+  "tooltip.relics.amphibian_boot.ability.swimming.stat.duration.value": {
+    "en": "%1$s seconds.",
+    "zh": "%1$s 秒。",
+    "vi": "%1$s giây."
+  },
+  "tooltip.relics.amphibian_boot.ability.slipping": {
+    "en": "Slipping",
+    "zh": "滑行",
+    "vi": "cầu trượt"
+  },
+  "tooltip.relics.amphibian_boot.ability.slipping.description": {
+    "en": "Increases movement speed in the rain depending on its duration.",
+    "zh": "在雨天时提升移动速度。",
+    "vi": "Tăng tốc độ di chuyển trong thời tiết mưa."
+  },
+  "tooltip.relics.amphibian_boot.ability.slipping.stat.speed.title": {
+    "en": "Speed multiplier per second:",
+    "zh": "每秒速度增益：",
+    "vi": "Tăng tốc độ mỗi giây:"
+  },
+  "tooltip.relics.amphibian_boot.ability.slipping.stat.speed.value": {
+    "en": "%1$s%%.",
+    "zh": "%1$s%%.",
+    "vi": "%1$s%%."
+  },
+  "tooltip.relics.amphibian_boot.ability.slipping.stat.duration.title": {
+    "en": "Maximum duration:",
+    "zh": "最大持续时间：",
+    "vi": "Thời lượng tối đa:"
+  },
+  "tooltip.relics.amphibian_boot.ability.slipping.stat.duration.value": {
+    "en": "%1$s seconds.",
+    "zh": "%1$s 秒。",
+    "vi": "%1$s giây."
+  },
+  "tooltip.relics.amphibian_boot.ability.gills": {
+    "en": "Gills",
+    "zh": "鱼鳃",
+    "vi": "mang"
+  },
+  "tooltip.relics.amphibian_boot.ability.gills.description": {
+    "en": "Grants player the ability to not consume air while underwater.",
+    "zh": "在水下时不消耗空气。",
+    "vi": "Không có không khí được tiêu thụ khi ở dưới nước."
+  },
+  "tooltip.relics.amphibian_boot.ability.gills.stat.chance.title": {
+    "en": "Chance of activation:",
+    "zh": "激活几率：",
+    "vi": "Xác suất kích hoạt:"
+  },
+  "tooltip.relics.amphibian_boot.ability.gills.stat.chance.value": {
+    "en": "%1$s%%.",
+    "zh": "%1$s%%。",
+    "vi": "%1$s%%。"
+  },
+  "item.relics.spatial_sign": {
+    "en": "Spatial Sign",
+    "zh": "空间符文",
+    "vi": "Spatial Sign"
+  },
+  "tooltip.relics.spatial_sign.description": {
+    "en": "+1 experience point for each second of return from the ability «Time rift».",
+    "zh": "“时空回溯”每回溯1秒时增加1点经验。",
+    "vi": "\"Quay lui thời gian và không gian\" thêm 1 điểm kinh nghiệm cho mỗi 1 giây quay lui."
+  },
+  "tooltip.relics.spatial_sign.ability.seal": {
+    "en": "Time Rift",
+    "zh": "时空回溯",
+    "vi": "Quay ngược thời gian và không gian"
+  },
+  "tooltip.relics.spatial_sign.ability.seal.description": {
+    "en": "When used, returns the wearer along the route traveled after a certain amount of time. Repeated use will terminate the ability.",
+    "zh": "使用后，将玩家回溯走过的路线，回溯期间再次使用将中止回溯。",
+    "vi": "Sau khi sử dụng, người chơi sẽ tìm lại lộ trình mình đã đi. Nếu được sử dụng lại trong thời gian truy xuất, quá trình truy xuất sẽ bị chấm dứt."
+  },
+  "tooltip.relics.spatial_sign.ability.seal.stat.time.title": {
+    "en": "Maximum duration:",
+    "zh": "最大持续时间：",
+    "vi": "Thời lượng tối đa:"
+  },
+  "tooltip.relics.spatial_sign.ability.seal.stat.time.value": {
+    "en": "%1$s seconds.",
+    "zh": "%1$s 秒。",
+    "vi": "%1$s giây."
+  },
+  "item.relics.chorus_inhibitor": {
+    "en": "Chorus Inhibitor",
+    "zh": "紫颂抑制器",
+    "vi": "Chorus Inhibitor"
+  },
+  "tooltip.relics.chorus_inhibitor.description": {
+    "en": "+1 experience point for every 10 blocks to the teleportation point from the «Teleportation Control» ability.",
+    "zh": "“传送控制”每传送10格方块时增加1点经验。",
+    "vi": "\"Điều khiển dịch chuyển\" thêm 1 điểm kinh nghiệm cho mỗi 10 khối được dịch chuyển."
+  },
+  "tooltip.relics.chorus_inhibitor.ability.blink": {
+    "en": "Teleportation Control",
+    "zh": "传送控制",
+    "vi": "kiểm soát vận tải"
+  },
+  "tooltip.relics.chorus_inhibitor.ability.blink.description": {
+    "en": "Using the chorus fruit teleports the wearer to the block along the line of sight within reach.",
+    "zh": "吃掉紫颂果时，玩家可传送到虚线的方块上。",
+    "vi": "Khi ăn trái điệp khúc, người chơi có thể dịch chuyển tức thời đến khối chấm."
+  },
+  "tooltip.relics.chorus_inhibitor.ability.blink.stat.distance.title": {
+    "en": "Maximum distance:",
+    "zh": "最大距离：",
+    "vi": "Khoảng cách tối đa:"
+  },
+  "tooltip.relics.chorus_inhibitor.ability.blink.stat.distance.value": {
+    "en": "%1$s blocks.",
+    "zh": "%1$s 格方块。",
+    "vi": "Lưới vuông %1$s."
+  },
+  "tooltip.relics.chorus_inhibitor.ability.blink.stat.cooldown.title": {
+    "en": "Recharge time:",
+    "zh": "冷却时间：",
+    "vi": "Thời gian làm mát:"
+  },
+  "tooltip.relics.chorus_inhibitor.ability.blink.stat.cooldown.value": {
+    "en": "%1$s seconds.",
+    "zh": "%1$s 秒。",
+    "vi": "%1$s giây."
+  },
+  "item.relics.wool_mitten": {
+    "en": "Wool Mitten",
+    "zh": "羊毛手套",
+    "vi": "Wool Mitten"
+  },
+  "item.relics.solid_snowball": {
+    "en": "Frozen snowball",
+    "zh": "冰冻雪球",
+    "vi": "Frozen snowball"
+  },
+  "tooltip.relics.wool_mitten.description": {
+    "en": "+1 experience point for every 5 units of size when hit by a snowball from the ability «Mold».",
+    "zh": "“塑形”的冰雪球每增加5点大小并击中生物时增加1点经验。",
+    "vi": "Quả cầu băng và tuyết được \"định hình\" tăng kích thước thêm 5 điểm và thêm 1 điểm kinh nghiệm khi chạm vào sinh vật."
+  },
+  "tooltip.relics.wool_mitten.ability.mold": {
+    "en": "Mold",
+    "zh": "塑形",
+    "vi": "Hình dạng"
+  },
+  "tooltip.relics.wool_mitten.ability.mold.description": {
+    "en": "Collecting snow using RMB with an empty hand gradually forms special solid snowballs. Hitting such a snowball on the target will cause damage and stun it, as well as freeze targets nearby. Holding a snowball without an equipped relic also freezes the wearer.",
+    "zh": "对雪右键可收集到冰雪球，击中生物会造成伤害和眩晕并让周围的生物被冻结。如果玩家没有装备该遗物，冰雪球将会冻结自己。",
+    "vi": "Nhấp chuột phải vào tuyết để thu thập băng và bóng tuyết. Đánh trúng sinh vật sẽ gây sát thương và làm choáng, đóng băng các sinh vật xung quanh. Nếu người chơi không trang bị thánh tích này, Ice Ball sẽ tự đóng băng."
+  },
+  "tooltip.relics.wool_mitten.ability.mold.stat.size.title": {
+    "en": "Maximum size:",
+    "zh": "最大尺寸：",
+    "vi": "Kích thước tối đa:"
+  },
+  "tooltip.relics.wool_mitten.ability.mold.stat.size.value": {
+    "en": "%1$s units.",
+    "zh": "%1$s 点。",
+    "vi": "Điểm %1$s."
+  },
+  "tooltip.relics.wool_mitten.ability.mold.stat.damage.title": {
+    "en": "Damage:",
+    "zh": "伤害：",
+    "vi": "làm hại:"
+  },
+  "tooltip.relics.wool_mitten.ability.mold.stat.damage.value": {
+    "en": "%1$s per unit size.",
+    "zh": "%1$s 每单位尺寸。",
+    "vi": "%1$s Kích thước trên mỗi đơn vị."
+  },
+  "tooltip.relics.wool_mitten.ability.mold.stat.stun.title": {
+    "en": "Stun:",
+    "zh": "眩晕时间：",
+    "vi": "Thời gian chóng mặt:"
+  },
+  "tooltip.relics.wool_mitten.ability.mold.stat.stun.value": {
+    "en": "%1$s seconds per unit size.",
+    "zh": "%1$s 秒每单位尺寸。",
+    "vi": "%1$s giây trên mỗi đơn vị kích thước."
+  },
+  "tooltip.relics.wool_mitten.ability.mold.stat.freeze.title": {
+    "en": "Frostbite:",
+    "zh": "冻结：",
+    "vi": "đông cứng:"
+  },
+  "tooltip.relics.wool_mitten.ability.mold.stat.freeze.value": {
+    "en": "%1$s seconds per unit size.",
+    "zh": "%1$s 秒每单位尺寸。",
+    "vi": "%1$s giây trên mỗi đơn vị kích thước."
+  },
+  "item.relics.roller_skates": {
+    "en": "Roller Skates",
+    "zh": "轮滑靴",
+    "vi": "Roller Skates"
+  },
+  "tooltip.relics.roller_skates.description": {
+    "en": "+1 experience point for each second of acceleration from the ability «Acceleration».",
+    "zh": "“轮滑”每加速1秒时增加1点经验。",
+    "vi": "\"Trượt patin\" thêm 1 điểm kinh nghiệm cho mỗi 1 giây tăng tốc."
+  },
+  "tooltip.relics.roller_skates.ability.skating": {
+    "en": "Acceleration",
+    "zh": "轮滑",
+    "vi": "trượt patin"
+  },
+  "tooltip.relics.roller_skates.ability.skating.description": {
+    "en": "Increases the movement speed depending on its duration. All blocks become slippery for the wearer.",
+    "zh": "穿戴时所有方块都会打滑，移动时间越久速度越快。",
+    "vi": "Tất cả các khối sẽ trượt khi bị mòn và di chuyển càng lâu thì chúng sẽ di chuyển càng nhanh."
+  },
+  "tooltip.relics.roller_skates.ability.skating.stat.speed.title": {
+    "en": "Speed multiplier per second:",
+    "zh": "每秒速度增益：",
+    "vi": "Tăng tốc độ mỗi giây:"
+  },
+  "tooltip.relics.roller_skates.ability.skating.stat.speed.value": {
+    "en": "%1$s%%.",
+    "zh": "%1$s%%。",
+    "vi": "%1$s%%。"
+  },
+  "tooltip.relics.roller_skates.ability.skating.stat.duration.title": {
+    "en": "Maximum duration:",
+    "zh": "最大持续时间：",
+    "vi": "Thời lượng tối đa:"
+  },
+  "tooltip.relics.roller_skates.ability.skating.stat.duration.value": {
+    "en": "%1$s seconds.",
+    "zh": "%1$s 秒。",
+    "vi": "%1$s giây."
+  },
+  "item.relics.space_dissector": {
+    "en": "Space Dissector",
+    "zh": "空间解析器",
+    "vi": "Space Dissector"
+  },
+  "tooltip.relics.space_dissector.description": {
+    "en": "+1 experience point for each created portal if there is no existing one",
+    "zh": "每次创建传送门时增加1点经验。",
+    "vi": "Mỗi khi một cổng được tạo, 1 điểm kinh nghiệm sẽ được thêm vào."
+  },
+  "tooltip.relics.space_dissector.ability.dissection": {
+    "en": "Dissection",
+    "zh": "解析",
+    "vi": "phân tích cú pháp"
+  },
+  "tooltip.relics.space_dissector.ability.dissection.description": {
+    "en": "Holding RMB creates a portal on a point along the line of sight, stopping holding RMB creates a second portal using the same principle, linking it to the first one. Bringing a living creature to one of the portals will move it to the linked portal. Portals don't work if there are any solid blocks in their path.",
+    "zh": "按住右键时创建一个传送门，停止按住右键时会创建相连的第二个传送门。当生物进入传送门时会飞跃到另一个传送门。如果传送门的路径含有实体方块，传送门失效。",
+    "vi": "Khi bạn nhấn giữ chuột phải, một cổng thông tin sẽ được tạo và khi bạn ngừng nhấn chuột phải, một cổng kết nối thứ hai sẽ được tạo. Khi một sinh vật đi vào một cổng, nó sẽ nhảy sang một cổng khác. Nếu đường dẫn của cổng chứa các khối rắn thì cổng sẽ thất bại."
+  },
+  "tooltip.relics.space_dissector.ability.dissection.stat.distance.title": {
+    "en": "Maximum distance:",
+    "zh": "最大距离：",
+    "vi": "Khoảng cách tối đa:"
+  },
+  "tooltip.relics.space_dissector.ability.dissection.stat.distance.value": {
+    "en": "%1$s blocks.",
+    "zh": "%1$s 格方块。",
+    "vi": "Lưới vuông %1$s."
+  },
+  "tooltip.relics.space_dissector.ability.dissection.stat.time.title": {
+    "en": "Portal lifetime:",
+    "zh": "传送门存在时间：",
+    "vi": "Thời gian tồn tại của cổng thông tin:"
+  },
+  "tooltip.relics.space_dissector.ability.dissection.stat.time.value": {
+    "en": "%1$s seconds",
+    "zh": "%1$s秒。",
+    "vi": "%1$s giây."
+  },
+  "item.relics.relic_experience_bottle": {
+    "en": "Relic Experience Bottle",
+    "zh": "遗物经验瓶",
+    "vi": "Relic Experience Bottle"
+  },
+  "block.relics.researching_table": {
+    "en": "Researching Table [Removed from the mod]",
+    "zh": "Researching Table [Removed from the mod]",
+    "vi": "Researching Table [Removed from the mod]"
+  },
+  "effect.relics.stun": {
+    "en": "Stun",
+    "zh": "眩晕",
+    "vi": "chóng mặt"
+  },
+  "effect.relics.paralysis": {
+    "en": "Paralysis",
+    "zh": "麻痹",
+    "vi": "sự tê liệt"
+  },
+  "effect.relics.confusion": {
+    "en": "Confusion",
+    "zh": "混乱",
+    "vi": "lú lẫn"
+  },
+  "effect.relics.vanishing": {
+    "en": "Vanishing",
+    "zh": "隐匿",
+    "vi": "Ẩn giấu"
+  },
+  "effect.relics.anti_heal": {
+    "en": "Anti-Heal",
+    "zh": "禁疗",
+    "vi": "Không điều trị"
+  },
+  "effect.relics.bleeding": {
+    "en": "Bleeding",
+    "zh": "流血",
+    "vi": "chảy máu"
+  },
+  "command.relics.base.not_relic": {
+    "en": "The item in hand must be a relic!",
+    "zh": "你手上的必须是一个遗物！",
+    "vi": "Những gì bạn có trong tay chắc chắn là di vật!"
+  },
+  "info.relics.researching.wrong_container": {
+    "en": "Working with the relic in this inventory is not possible. Move item to the player's main inventory and try again.",
+    "zh": "无法对容器中的遗物进行研究。将该物品移到玩家物品栏内再次尝试。",
+    "vi": "Di vật trong vật chứa không thể nghiên cứu được. Di chuyển vật phẩm vào kho của người chơi và thử lại."
+  },
+  "key.relics.ability_list": {
+    "en": "Show the active abilities HUD",
+    "zh": "显示饰品技能界面",
+    "vi": "Hiển thị giao diện kỹ năng trang sức"
+  },
+  "curios.identifier.talisman": {
+    "en": null,
+    "zh": "护符",
+    "vi": null
+  },
+  "tooltip.relics.relic.tooltip.table": {
+    "en": null,
+    "zh": "用研究台查看更多信息",
+    "vi": null
+  },
+  "tooltip.relics.relic.tooltip.shift": {
+    "en": null,
+    "zh": "按住【Shift】查看更多信息",
+    "vi": null
+  },
+  "tooltip.relics.relic.ability.tooltip.level": {
+    "en": null,
+    "zh": "等级：%1$s/%2$s",
+    "vi": null
+  },
+  "tooltip.relics.relic.ability.tooltip.rarity": {
+    "en": null,
+    "zh": "稀有度：",
+    "vi": null
+  },
+  "tooltip.relics.relic.ability.tooltip.low_level": {
+    "en": null,
+    "zh": "使用该技能需要遗物的等级提高到%1$s %2$s。",
+    "vi": null
+  },
+  "tooltip.relics.relic.ability.tooltip.no_stats": {
+    "en": null,
+    "zh": "该技能没有可改变的属性，不会影响遗物的质量。",
+    "vi": null
+  },
+  "tooltip.relics.relic.ability.level": {
+    "en": null,
+    "zh": " 【%1$s/%2$s】",
+    "vi": null
+  },
+  "tooltip.relics.holy_locket.ability.steal": {
+    "en": null,
+    "zh": "祝福",
+    "vi": null
+  },
+  "tooltip.relics.holy_locket.ability.steal.description": {
+    "en": null,
+    "zh": "附近的生物恢复生命时，佩戴者有概率同时恢复生命。",
+    "vi": null
+  },
+  "tooltip.relics.holy_locket.ability.steal.stat.amount.title": {
+    "en": null,
+    "zh": "概率：",
+    "vi": null
+  },
+  "tooltip.relics.holy_locket.ability.steal.stat.amount.value": {
+    "en": null,
+    "zh": "%1$s%%的概率恢复生命。",
+    "vi": null
+  },
+  "tooltip.relics.holy_locket.ability.steal.stat.radius.title": {
+    "en": null,
+    "zh": "范围：",
+    "vi": null
+  },
+  "tooltip.relics.holy_locket.ability.steal.stat.radius.value": {
+    "en": null,
+    "zh": "%1$s格方块。",
+    "vi": null
+  },
+  "tooltip.relics.drowned_belt.ability.slots.stat.talisman.title": {
+    "en": null,
+    "zh": "护符栏：",
+    "vi": null
+  },
+  "tooltip.relics.drowned_belt.ability.slots.stat.talisman.value": {
+    "en": null,
+    "zh": "增加%1$s个。",
+    "vi": null
+  },
+  "tooltip.relics.hunter_belt.ability.slots.stat.talisman.title": {
+    "en": null,
+    "zh": "护符栏：",
+    "vi": null
+  },
+  "tooltip.relics.hunter_belt.ability.slots.stat.talisman.value": {
+    "en": null,
+    "zh": "增加%1$s个。",
+    "vi": null
+  },
+  "tooltip.relics.leather_belt.ability.slots.stat.talisman.title": {
+    "en": null,
+    "zh": "护符栏：",
+    "vi": null
+  },
+  "tooltip.relics.leather_belt.ability.slots.stat.talisman.value": {
+    "en": null,
+    "zh": "增加%1$s个。",
+    "vi": null
+  }
+}

@@ -1,0 +1,2967 @@
+{
+  "biome.netherexp.exhaust_mire": {
+    "en": "Exhaust Mire",
+    "zh": "Exhaust Mire",
+    "vi": null
+  },
+  "biome.netherexp.quartz_chasm": {
+    "en": "Quartz Chasm",
+    "zh": "Quartz Chasm",
+    "vi": null
+  },
+  "biome.netherexp.plume_bowels": {
+    "en": "Plume Bowels",
+    "zh": "Plume Bowels",
+    "vi": null
+  },
+  "biome.netherexp.grieving_grove": {
+    "en": "Grieving Grove",
+    "zh": "Grieving Grove",
+    "vi": null
+  },
+  "item.netherexp.warphopper_fur": {
+    "en": "Warphopper Fur",
+    "zh": "Warphopper Fur",
+    "vi": null
+  },
+  "item.netherexp.hogham": {
+    "en": "Raw Hogham",
+    "zh": "生疣猪火腿",
+    "vi": null
+  },
+  "item.netherexp.cooked_hogham": {
+    "en": "Cooked Hogham",
+    "zh": "熟疣猪火腿",
+    "vi": null
+  },
+  "item.netherexp.white_ash_powder": {
+    "en": "White Ash Powder",
+    "zh": "White Ash Powder",
+    "vi": null
+  },
+  "item.netherexp.lightspores": {
+    "en": "Lightspores",
+    "zh": "菌光孢子",
+    "vi": null
+  },
+  "item.netherexp.nightspores": {
+    "en": "Nightspores",
+    "zh": "菌阴孢子",
+    "vi": null
+  },
+  "item.netherexp.wraithing_flesh": {
+    "en": "Wraithing Flesh",
+    "zh": "魂缠肉",
+    "vi": null
+  },
+  "item.netherexp.sanctum_compass": {
+    "en": "Sanctum Locator Compass",
+    "zh": "圣所定位指针",
+    "vi": null
+  },
+  "item.netherexp.banshee_rod": {
+    "en": "Banshee Rod",
+    "zh": "丧魂棒",
+    "vi": null
+  },
+  "item.netherexp.banshee_powder": {
+    "en": "Banshee Powder",
+    "zh": "丧魂粉",
+    "vi": null
+  },
+  "item.netherexp.will_o_wisp": {
+    "en": "Will O' Wisp",
+    "zh": "鬼火团",
+    "vi": null
+  },
+  "item.netherexp.phasmo_shard": {
+    "en": "Phasmo Shard",
+    "zh": "鬼灵碎片",
+    "vi": null
+  },
+  "item.netherexp.phasmo_arrow": {
+    "en": "Phasmo Arrow",
+    "zh": "鬼灵箭",
+    "vi": null
+  },
+  "item.netherexp.fossil_fuel": {
+    "en": "Fossil Fuel",
+    "zh": "化石燃料",
+    "vi": null
+  },
+  "item.netherexp.rift_armor_trim_smithing_template": {
+    "en": "Smithing Template",
+    "zh": "锻造模板",
+    "vi": null
+  },
+  "trim_pattern.netherexp.rift": {
+    "en": "Rift Armor Trim",
+    "zh": "裂隙盔甲纹饰",
+    "vi": null
+  },
+  "item.netherexp.spirit_armor_trim_smithing_template": {
+    "en": "Smithing Template",
+    "zh": "锻造模板",
+    "vi": null
+  },
+  "trim_pattern.netherexp.spirit": {
+    "en": "Spirit Armor Trim",
+    "zh": "心灵盔甲纹饰",
+    "vi": null
+  },
+  "item.netherexp.valor_armor_trim_smithing_template": {
+    "en": "Smithing Template",
+    "zh": "锻造模板",
+    "vi": null
+  },
+  "trim_pattern.netherexp.valor": {
+    "en": "Valor Armor Trim",
+    "zh": "英勇盔甲纹饰",
+    "vi": null
+  },
+  "item.netherexp.pump_charge_upgrade_smithing_template": {
+    "en": "Smithing Template",
+    "zh": "锻造模板",
+    "vi": null
+  },
+  "upgrade.netherexp.pump_charge_upgrade": {
+    "en": "Pump-Charge Upgrade",
+    "zh": "泵能升级",
+    "vi": null
+  },
+  "item.netherexp.smithing_template.pump_charge_upgrade.additions_slot_description": {
+    "en": "Add Treacherous Flame",
+    "zh": "放入狡诈烛焰",
+    "vi": null
+  },
+  "item.netherexp.smithing_template.pump_charge_upgrade.applies_to": {
+    "en": "Shotgun-Fist",
+    "zh": "霰弹手炮",
+    "vi": null
+  },
+  "item.netherexp.smithing_template.pump_charge_upgrade.base_slot_description": {
+    "en": "Add Shotgun Fist",
+    "zh": "放入霰弹手炮",
+    "vi": null
+  },
+  "item.netherexp.smithing_template.pump_charge_upgrade.ingredients": {
+    "en": "Treacherous Flame",
+    "zh": "狡诈烛焰",
+    "vi": null
+  },
+  "item.netherexp.stridite": {
+    "en": "Stridite",
+    "zh": "炽铁",
+    "vi": null
+  },
+  "item.netherexp.netherite_plating": {
+    "en": "Netherite Plating",
+    "zh": "下界合金镀层",
+    "vi": null
+  },
+  "item.netherexp.netherite_nugget": {
+    "en": "Netherite Nugget",
+    "zh": "下界合金粒",
+    "vi": null
+  },
+  "item.netherexp.treacherous_flame": {
+    "en": "Treacherous Flame",
+    "zh": "狡诈烛焰",
+    "vi": null
+  },
+  "item.netherexp.treacherous_flame.description": {
+    "en": "Opens Brazier Chests",
+    "zh": "可开启火盆匣",
+    "vi": null
+  },
+  "item.netherexp.shotgun_core": {
+    "en": "Shotgun Core",
+    "zh": "霰弹炮核心",
+    "vi": null
+  },
+  "item.netherexp.shotgun_fist": {
+    "en": "Shotgun-Fist",
+    "zh": "霰弹手炮",
+    "vi": null
+  },
+  "item.netherexp.pump_charge_shotgun": {
+    "en": "Pump-Charge Shotgun",
+    "zh": "泵能霰弹炮",
+    "vi": null
+  },
+  "item.netherexp.warphopper_spawn_egg": {
+    "en": "Warphopper Spawn Egg",
+    "zh": "Warphopper Spawn Egg",
+    "vi": null
+  },
+  "item.netherexp.apparition_spawn_egg": {
+    "en": "Apparition Spawn Egg",
+    "zh": "幻鬼刷怪蛋",
+    "vi": null
+  },
+  "item.netherexp.wisp_spawn_egg": {
+    "en": "Wisp Spawn Egg",
+    "zh": "小鬼火刷怪蛋",
+    "vi": null
+  },
+  "item.netherexp.vessel_spawn_egg": {
+    "en": "Vessel Spawn Egg",
+    "zh": "容器刷怪蛋",
+    "vi": null
+  },
+  "item.netherexp.ecto_slab_spawn_egg": {
+    "en": "Ecto Slab Spawn Egg",
+    "zh": "灵阶怪刷怪蛋",
+    "vi": null
+  },
+  "item.netherexp.banshee_spawn_egg": {
+    "en": "Banshee Spawn Egg",
+    "zh": "丧魂人刷怪蛋",
+    "vi": null
+  },
+  "item.netherexp.stampede_spawn_egg": {
+    "en": "Stampede Spawn Egg",
+    "zh": "重踏兽刷怪蛋",
+    "vi": null
+  },
+  "item.netherexp.carcass_spawn_egg": {
+    "en": "Carcass Spawn Egg",
+    "zh": "残躯刷怪蛋",
+    "vi": null
+  },
+  "item.netherexp.wisp_bottle": {
+    "en": "Bottle of Wisp",
+    "zh": "鬼火瓶",
+    "vi": null
+  },
+  "item.netherexp.skull_on_a_stick": {
+    "en": "Skull on a Stick",
+    "zh": "头颅钓竿",
+    "vi": null
+  },
+  "item.netherexp.music_disc_cricket": {
+    "en": "Music Disc",
+    "zh": "音乐唱片",
+    "vi": null
+  },
+  "item.netherexp.music_disc_cricket.desc": {
+    "en": "LudoCrypt - cricket",
+    "zh": "LudoCrypt - cricket",
+    "vi": null
+  },
+  "item.netherexp.music_disc_buckshot_wonderland": {
+    "en": "Music Disc",
+    "zh": "音乐唱片",
+    "vi": null
+  },
+  "item.netherexp.music_disc_buckshot_wonderland.desc": {
+    "en": "Shroomaniac - Buckshot Wonderland",
+    "zh": "Shroomaniac - Buckshot Wonderland",
+    "vi": null
+  },
+  "item.netherexp.antidote.inactive_tooltip": {
+    "en": "To Activate needs to be Brewed With:",
+    "zh": "用于激活的酿造材料：",
+    "vi": null
+  },
+  "item.netherexp.non_consumable.tooltip": {
+    "en": "Non-consumable Artifact",
+    "zh": "不消耗工件",
+    "vi": null
+  },
+  "item.netherexp.antidote": {
+    "en": "Antidote",
+    "zh": "解药",
+    "vi": null
+  },
+  "item.netherexp.antidote.effect.": {
+    "en": "Uncraftable Antidote",
+    "zh": "不可合成的解药",
+    "vi": null
+  },
+  "item.netherexp.antidote.effect.awkward": {
+    "en": "Awkward Antidote",
+    "zh": "粗制的解药",
+    "vi": null
+  },
+  "item.netherexp.antidote.effect.swiftness": {
+    "en": "Antidote for Swiftness",
+    "zh": "迅捷解药",
+    "vi": null
+  },
+  "item.netherexp.antidote.effect.slowness": {
+    "en": "Antidote for Slowness",
+    "zh": "缓慢解药",
+    "vi": null
+  },
+  "item.netherexp.antidote.effect.strength": {
+    "en": "Antidote for Strength",
+    "zh": "力量解药",
+    "vi": null
+  },
+  "item.netherexp.antidote.effect.leaping": {
+    "en": "Antidote for Leaping",
+    "zh": "跳跃解药",
+    "vi": null
+  },
+  "item.netherexp.antidote.effect.regeneration": {
+    "en": "Antidote for Regeneration",
+    "zh": "再生解药",
+    "vi": null
+  },
+  "item.netherexp.antidote.effect.fire_resistance": {
+    "en": "Antidote for Fire Resistance",
+    "zh": "抗火解药",
+    "vi": null
+  },
+  "item.netherexp.antidote.effect.water_breathing": {
+    "en": "Antidote for Water Breathing",
+    "zh": "水肺解药",
+    "vi": null
+  },
+  "item.netherexp.antidote.effect.invisibility": {
+    "en": "Antidote for Invisibility",
+    "zh": "隐身解药",
+    "vi": null
+  },
+  "item.netherexp.antidote.effect.weakness": {
+    "en": "Antidote for Weakness",
+    "zh": "虚弱解药",
+    "vi": null
+  },
+  "item.netherexp.antidote.effect.poison": {
+    "en": "Antidote for Poison",
+    "zh": "剧毒解药",
+    "vi": null
+  },
+  "item.netherexp.antidote.effect.resistance": {
+    "en": "Antidote for Resistance",
+    "zh": "抗性解药",
+    "vi": null
+  },
+  "item.netherexp.antidote.effect.absorption": {
+    "en": "Antidote for Absorption",
+    "zh": "吸收解药",
+    "vi": null
+  },
+  "item.netherexp.antidote.effect.haste": {
+    "en": "Antidote for Haste",
+    "zh": "急迫解药",
+    "vi": null
+  },
+  "item.netherexp.antidote.effect.mining_fatigue": {
+    "en": "Antidote for Mining Fatigue",
+    "zh": "疲劳解药",
+    "vi": null
+  },
+  "item.netherexp.antidote.effect.darkness": {
+    "en": "Antidote for Darkness",
+    "zh": "黑暗解药",
+    "vi": null
+  },
+  "item.netherexp.antidote.effect.levitation": {
+    "en": "Antidote for Levitation",
+    "zh": "飘浮解药",
+    "vi": null
+  },
+  "item.netherexp.antidote.effect.hunger": {
+    "en": "Antidote for Hunger",
+    "zh": "饥饿解药",
+    "vi": null
+  },
+  "item.netherexp.antidote.effect.decay": {
+    "en": "Antidote for Decay",
+    "zh": "衰变解药",
+    "vi": null
+  },
+  "item.netherexp.antidote.effect.luck": {
+    "en": "Antidote for Luck",
+    "zh": "幸运解药",
+    "vi": null
+  },
+  "item.netherexp.antidote.effect.unluck": {
+    "en": "Antidote for Unluck",
+    "zh": "霉运解药",
+    "vi": null
+  },
+  "item.netherexp.grenade_antidote": {
+    "en": "Grenade Antidote",
+    "zh": "投掷型解药",
+    "vi": null
+  },
+  "item.netherexp.grenade_antidote.effect.": {
+    "en": "Uncraftable Grenade Antidote",
+    "zh": "不可合成的投掷型解药",
+    "vi": null
+  },
+  "item.netherexp.grenade_antidote.effect.awkward": {
+    "en": "Awkward Grenade Antidote",
+    "zh": "粗制的投掷型解药",
+    "vi": null
+  },
+  "item.netherexp.grenade_antidote.effect.swiftness": {
+    "en": "Grenade Antidote for Swiftness",
+    "zh": "投掷型迅捷解药",
+    "vi": null
+  },
+  "item.netherexp.grenade_antidote.effect.slowness": {
+    "en": "Grenade Antidote for Slowness",
+    "zh": "投掷型缓慢解药",
+    "vi": null
+  },
+  "item.netherexp.grenade_antidote.effect.strength": {
+    "en": "Grenade Antidote for Strength",
+    "zh": "投掷型力量解药",
+    "vi": null
+  },
+  "item.netherexp.grenade_antidote.effect.leaping": {
+    "en": "Grenade Antidote for Leaping",
+    "zh": "投掷型跳跃解药",
+    "vi": null
+  },
+  "item.netherexp.grenade_antidote.effect.regeneration": {
+    "en": "Grenade Antidote for Regeneration",
+    "zh": "投掷型再生解药",
+    "vi": null
+  },
+  "item.netherexp.grenade_antidote.effect.fire_resistance": {
+    "en": "Grenade Antidote for Fire Resistance",
+    "zh": "投掷型抗火解药",
+    "vi": null
+  },
+  "item.netherexp.grenade_antidote.effect.water_breathing": {
+    "en": "Grenade Antidote for Water Breathing",
+    "zh": "投掷型水肺解药",
+    "vi": null
+  },
+  "item.netherexp.grenade_antidote.effect.invisibility": {
+    "en": "Grenade Antidote for Invisibility",
+    "zh": "投掷型隐身解药",
+    "vi": null
+  },
+  "item.netherexp.grenade_antidote.effect.weakness": {
+    "en": "Grenade Antidote for Weakness",
+    "zh": "投掷型虚弱解药",
+    "vi": null
+  },
+  "item.netherexp.grenade_antidote.effect.poison": {
+    "en": "Grenade Antidote for Poison",
+    "zh": "投掷型剧毒解药",
+    "vi": null
+  },
+  "item.netherexp.grenade_antidote.effect.resistance": {
+    "en": "Grenade Antidote for Resistance",
+    "zh": "投掷型抗性解药",
+    "vi": null
+  },
+  "item.netherexp.grenade_antidote.effect.absorption": {
+    "en": "Grenade Antidote for Absorption",
+    "zh": "投掷型吸收解药",
+    "vi": null
+  },
+  "item.netherexp.grenade_antidote.effect.haste": {
+    "en": "Grenade Antidote for Haste",
+    "zh": "投掷型急迫解药",
+    "vi": null
+  },
+  "item.netherexp.grenade_antidote.effect.mining_fatigue": {
+    "en": "Grenade Antidote for Mining Fatigue",
+    "zh": "投掷型疲劳解药",
+    "vi": null
+  },
+  "item.netherexp.grenade_antidote.effect.darkness": {
+    "en": "Grenade Antidote for Darkness",
+    "zh": "投掷型黑暗解药",
+    "vi": null
+  },
+  "item.netherexp.grenade_antidote.effect.levitation": {
+    "en": "Grenade Antidote for Levitation",
+    "zh": "投掷型飘浮解药",
+    "vi": null
+  },
+  "item.netherexp.grenade_antidote.effect.hunger": {
+    "en": "Grenade Antidote for Hunger",
+    "zh": "投掷型饥饿解药",
+    "vi": null
+  },
+  "item.netherexp.grenade_antidote.effect.decay": {
+    "en": "Grenade Antidote for Decay",
+    "zh": "投掷型衰变解药",
+    "vi": null
+  },
+  "item.netherexp.grenade_antidote.effect.luck": {
+    "en": "Grenade Antidote for Luck",
+    "zh": "投掷型幸运解药",
+    "vi": null
+  },
+  "item.netherexp.grenade_antidote.effect.unluck": {
+    "en": "Grenade Antidote for Unluck",
+    "zh": "投掷型霉运解药",
+    "vi": null
+  },
+  "shotgun_fist.ammo": {
+    "en": "Ammo:",
+    "zh": "弹药装填数：",
+    "vi": null
+  },
+  "shotgun_fist.heat": {
+    "en": "Temperature:",
+    "zh": "温度：",
+    "vi": null
+  },
+  "sanctum_compass.to_activate": {
+    "en": "To Activate Requires:",
+    "zh": "激活需求物：",
+    "vi": null
+  },
+  "sanctum_compass.tracking": {
+    "en": "Bound to a Sanctum",
+    "zh": "已找到圣所",
+    "vi": null
+  },
+  "item.netherexp.glowcheese": {
+    "en": "Glowcheese",
+    "zh": "荧光奶酪",
+    "vi": null
+  },
+  "block.netherexp.nether_pizza": {
+    "en": "Nether Pizza",
+    "zh": "下界披萨饼",
+    "vi": null
+  },
+  "item.netherexp.nether_pizza": {
+    "en": "Nether Pizza",
+    "zh": "下界披萨饼",
+    "vi": null
+  },
+  "item.netherexp.nether_pizza_slice": {
+    "en": "Nether Pizza Slice",
+    "zh": "下界披萨饼切片",
+    "vi": null
+  },
+  "enchantment.netherexp.phantasm_hull": {
+    "en": "Phantasm Hull",
+    "zh": "幻影躯壳",
+    "vi": null
+  },
+  "enchantment.netherexp.cartridge": {
+    "en": "Cartridge",
+    "zh": "预装弹",
+    "vi": null
+  },
+  "enchantment.netherexp.recoil": {
+    "en": "Recoil",
+    "zh": "反冲",
+    "vi": null
+  },
+  "enchantment.netherexp.barrage": {
+    "en": "Barrage",
+    "zh": "大火力",
+    "vi": null
+  },
+  "enchantment.netherexp.artemis": {
+    "en": "Artemis",
+    "zh": "猎神",
+    "vi": null
+  },
+  "block.netherexp.soul_slate": {
+    "en": "Soul Slate",
+    "zh": "魂板岩",
+    "vi": null
+  },
+  "block.netherexp.pale_soul_slate": {
+    "en": "Pale Soul Slate",
+    "zh": "苍白魂板岩",
+    "vi": null
+  },
+  "block.netherexp.soul_slate_slab": {
+    "en": "Soul Slate Slab",
+    "zh": "魂板岩台阶",
+    "vi": null
+  },
+  "block.netherexp.soul_slate_stairs": {
+    "en": "Soul Slate Stairs",
+    "zh": "魂板岩楼梯",
+    "vi": null
+  },
+  "block.netherexp.soul_slate_wall": {
+    "en": "Soul Slate Wall",
+    "zh": "魂板岩墙",
+    "vi": null
+  },
+  "block.netherexp.soul_slate_bricks": {
+    "en": "Soul Slate Bricks",
+    "zh": "魂板岩砖",
+    "vi": null
+  },
+  "block.netherexp.soul_slate_brick_stairs": {
+    "en": "Soul Slate Brick Stairs",
+    "zh": "魂板岩砖楼梯",
+    "vi": null
+  },
+  "block.netherexp.soul_slate_brick_slab": {
+    "en": "Soul Slate Brick Slab",
+    "zh": "魂板岩砖台阶",
+    "vi": null
+  },
+  "block.netherexp.soul_slate_brick_wall": {
+    "en": "Soul Slate Brick Wall",
+    "zh": "魂板岩砖墙",
+    "vi": null
+  },
+  "block.netherexp.etched_soul_slate_bricks": {
+    "en": "Etched Soul Slate Bricks",
+    "zh": "蚀刻魂板岩砖",
+    "vi": null
+  },
+  "block.netherexp.cracked_soul_slate_bricks": {
+    "en": "Cracked Soul Slate Bricks",
+    "zh": "裂纹魂板岩砖",
+    "vi": null
+  },
+  "block.netherexp.soul_slate_brick_pillar": {
+    "en": "Soul Slate Brick Pillar",
+    "zh": "魂板岩砖柱",
+    "vi": null
+  },
+  "block.netherexp.chiseled_soul_slate_bricks": {
+    "en": "Chiseled Soul Slate Bricks",
+    "zh": "錾制魂板岩砖",
+    "vi": null
+  },
+  "block.netherexp.soul_slate_tiles": {
+    "en": "Soul Slate Tiles",
+    "zh": "魂板岩瓦",
+    "vi": null
+  },
+  "block.netherexp.soul_slate_tile_stairs": {
+    "en": "Soul Slate Tile Stairs",
+    "zh": "魂板岩瓦楼梯",
+    "vi": null
+  },
+  "block.netherexp.soul_slate_tile_slab": {
+    "en": "Soul Slate Tile Slab",
+    "zh": "魂板岩瓦台阶",
+    "vi": null
+  },
+  "block.netherexp.soul_slate_tile_wall": {
+    "en": "Soul Slate Tile Wall",
+    "zh": "魂板岩瓦墙",
+    "vi": null
+  },
+  "block.netherexp.etched_soul_slate_tiles": {
+    "en": "Etched Soul Slate Tiles",
+    "zh": "蚀刻魂板岩瓦",
+    "vi": null
+  },
+  "block.netherexp.chiseled_soul_slate_tiles": {
+    "en": "Chiseled Soul Slate Tiles",
+    "zh": "錾制魂板岩瓦",
+    "vi": null
+  },
+  "block.netherexp.brazier_chest": {
+    "en": "Brazier Chest",
+    "zh": "火盆匣",
+    "vi": null
+  },
+  "block.netherexp.brazier_chest.locked": {
+    "en": "Brazier Chest is Locked, requires Treacherous Flame to open",
+    "zh": "火盆匣已上锁，需要狡诈烛焰以开启",
+    "vi": null
+  },
+  "block.netherexp.treacherous_candle": {
+    "en": "Treacherous Candle",
+    "zh": "狡诈蜡烛",
+    "vi": null
+  },
+  "treacherous_candle.health": {
+    "en": "Treacherous Candle",
+    "zh": "狡诈蜡烛",
+    "vi": null
+  },
+  "block.netherexp.sculk_grinder": {
+    "en": "Sculk Grinder",
+    "zh": "幽匿碾磨体",
+    "vi": null
+  },
+  "block.netherexp.inscribed_panel": {
+    "en": "Inscribed Panel",
+    "zh": "铭刻石板",
+    "vi": null
+  },
+  "block.netherexp.gargoyle_statue": {
+    "en": "Gargoyle Statue",
+    "zh": "石像鬼雕像",
+    "vi": null
+  },
+  "block.netherexp.ossified_gargoyle_statue": {
+    "en": "Ossified",
+    "zh": "僵化",
+    "vi": null
+  },
+  "block.netherexp.trample_gargoyle_statue": {
+    "en": "Trample",
+    "zh": "践踏",
+    "vi": null
+  },
+  "block.netherexp.phase_gargoyle_statue": {
+    "en": "Phase",
+    "zh": "步阶",
+    "vi": null
+  },
+  "block.netherexp.ghoul_gargoyle_statue": {
+    "en": "Ghoul",
+    "zh": "食尸",
+    "vi": null
+  },
+  "block.netherexp.wretched_gargoyle_statue": {
+    "en": "Wretched",
+    "zh": "悲戚",
+    "vi": null
+  },
+  "block.netherexp.treacherous_gargoyle_statue": {
+    "en": "Treacherous",
+    "zh": "狡诈",
+    "vi": null
+  },
+  "block.netherexp.cirripedia_gargoyle_statue": {
+    "en": "Cirripedia",
+    "zh": "蔓足",
+    "vi": null
+  },
+  "block.netherexp.occult_gargoyle_statue": {
+    "en": "Occult",
+    "zh": "玄秘",
+    "vi": null
+  },
+  "block.netherexp.sealed_gargoyle_statue": {
+    "en": "Sealed",
+    "zh": "封存",
+    "vi": null
+  },
+  "block.netherexp.obfuscated_gargoyle_statue": {
+    "en": "Obfuscated",
+    "zh": "淡漠",
+    "vi": null
+  },
+  "block.netherexp.soul_candle": {
+    "en": "Soul Candle",
+    "zh": "灵魂蜡烛",
+    "vi": null
+  },
+  "block.netherexp.fossil_ore": {
+    "en": "Fossil Ore",
+    "zh": "化石矿石",
+    "vi": null
+  },
+  "block.netherexp.fossil_fuel_ore": {
+    "en": "Fossil Fuel Ore",
+    "zh": "化石燃料矿石",
+    "vi": null
+  },
+  "block.netherexp.soul_glass": {
+    "en": "Soul Glass",
+    "zh": "灵魂玻璃",
+    "vi": null
+  },
+  "block.netherexp.ochre_frogmist": {
+    "en": "Ochre Frogmist",
+    "zh": "赭黄蛙朦雾",
+    "vi": null
+  },
+  "block.netherexp.verdant_frogmist": {
+    "en": "Verdant Frogmist",
+    "zh": "青翠蛙朦雾",
+    "vi": null
+  },
+  "block.netherexp.pearlescent_frogmist": {
+    "en": "Pearlescent Frogmist",
+    "zh": "珠光蛙朦雾",
+    "vi": null
+  },
+  "block.netherexp.carmine_frogmist": {
+    "en": "Carmine Frogmist",
+    "zh": "胭脂蛙朦雾",
+    "vi": null
+  },
+  "block.netherexp.soul_swirls": {
+    "en": "Soul Swirls",
+    "zh": "灵魂卷须",
+    "vi": null
+  },
+  "block.netherexp.ecto_soul_sand": {
+    "en": "Ecto Soul Sand",
+    "zh": "灵浸灵魂沙",
+    "vi": null
+  },
+  "block.netherexp.suspicious_soul_sand": {
+    "en": "Suspicious Soul Sand",
+    "zh": "可疑的灵魂沙",
+    "vi": null
+  },
+  "block.netherexp.soul_magma_block": {
+    "en": "Soul Magma Block",
+    "zh": "灵魂岩浆块",
+    "vi": null
+  },
+  "fluid_type.netherexp.ectoplasm": {
+    "en": "Ectoplasm",
+    "zh": "灵质",
+    "vi": null
+  },
+  "block.netherexp.ectoplasm": {
+    "en": "Ectoplasm",
+    "zh": "灵质",
+    "vi": null
+  },
+  "item.netherexp.ectoplasm_bucket": {
+    "en": "Ectoplasm Bucket",
+    "zh": "灵质桶",
+    "vi": null
+  },
+  "block.netherexp.black_ice": {
+    "en": "Black Ice",
+    "zh": "黑冰",
+    "vi": null
+  },
+  "block.netherexp.soul_torchflower": {
+    "en": "Soul Torchflower",
+    "zh": "灵魂火把花",
+    "vi": null
+  },
+  "block.netherexp.soul_torchflower_crop": {
+    "en": "Soul Torchflower Crop",
+    "zh": "灵魂火把花植株",
+    "vi": null
+  },
+  "block.netherexp.sorroweed": {
+    "en": "Sorroweed",
+    "zh": "苦难堆",
+    "vi": null
+  },
+  "block.netherexp.sorrowsquash": {
+    "en": "Sorrowsquash",
+    "zh": "难瓜",
+    "vi": null
+  },
+  "block.netherexp.carved_sorrowsquash": {
+    "en": "Carved Sorrowsquash",
+    "zh": "雕刻难瓜",
+    "vi": null
+  },
+  "block.netherexp.ghoul_o_lantern": {
+    "en": "Ghoul o'Lantern",
+    "zh": "难瓜灯",
+    "vi": null
+  },
+  "block.netherexp.sorrowsquash_stem": {
+    "en": "Sorrowsquash Stem",
+    "zh": "难瓜茎",
+    "vi": null
+  },
+  "block.netherexp.sorrowsquash_stem_plant": {
+    "en": "Sorrowsquash Stem Plant",
+    "zh": "难瓜茎植株",
+    "vi": null
+  },
+  "block.netherexp.shotgun_barrel": {
+    "en": "Shotgun Barrel",
+    "zh": "霰弹炮筒",
+    "vi": null
+  },
+  "block.netherexp.smooth_netherrack": {
+    "en": "Smooth Netherrack",
+    "zh": "平滑下界岩",
+    "vi": null
+  },
+  "block.netherexp.smooth_netherrack_slab": {
+    "en": "Smooth Netherrack Slab",
+    "zh": "平滑下界岩台阶",
+    "vi": null
+  },
+  "block.netherexp.smooth_netherrack_stairs": {
+    "en": "Smooth Netherrack Stairs",
+    "zh": "平滑下界岩楼梯",
+    "vi": null
+  },
+  "block.netherexp.smooth_netherrack_wall": {
+    "en": "Smooth Netherrack Wall",
+    "zh": "平滑下界岩墙",
+    "vi": null
+  },
+  "block.netherexp.netherrack_bricks": {
+    "en": "Netherrack Bricks",
+    "zh": "下界岩砖",
+    "vi": null
+  },
+  "block.netherexp.netherrack_brick_slab": {
+    "en": "Netherrack Brick Slab",
+    "zh": "下界岩砖台阶",
+    "vi": null
+  },
+  "block.netherexp.netherrack_brick_stairs": {
+    "en": "Netherrack Brick Stairs",
+    "zh": "下界岩砖楼梯",
+    "vi": null
+  },
+  "block.netherexp.netherrack_brick_wall": {
+    "en": "Netherrack Brick Wall",
+    "zh": "下界岩砖墙",
+    "vi": null
+  },
+  "block.netherexp.netherrack_tiles": {
+    "en": "Netherrack Tiles",
+    "zh": "下界岩瓦",
+    "vi": null
+  },
+  "block.netherexp.netherrack_pillar": {
+    "en": "Netherrack Pillar",
+    "zh": "下界岩柱",
+    "vi": null
+  },
+  "block.netherexp.basalt_slab": {
+    "en": "Basalt Slab",
+    "zh": "玄武岩台阶",
+    "vi": null
+  },
+  "block.netherexp.basalt_stairs": {
+    "en": "Basalt Stairs",
+    "zh": "玄武岩楼梯",
+    "vi": null
+  },
+  "block.netherexp.basalt_wall": {
+    "en": "Basalt Wall",
+    "zh": "玄武岩墙",
+    "vi": null
+  },
+  "block.netherexp.polished_basalt_slab": {
+    "en": "Polished Basalt Slab",
+    "zh": "磨制玄武岩台阶",
+    "vi": null
+  },
+  "block.netherexp.polished_basalt_stairs": {
+    "en": "Polished Basalt Stairs",
+    "zh": "磨制玄武岩楼梯",
+    "vi": null
+  },
+  "block.netherexp.polished_basalt_wall": {
+    "en": "Polished Basalt Wall",
+    "zh": "磨制玄武岩墙",
+    "vi": null
+  },
+  "block.netherexp.polished_basalt_bricks": {
+    "en": "Polished Basalt Bricks",
+    "zh": "磨制玄武岩砖",
+    "vi": null
+  },
+  "block.netherexp.polished_basalt_brick_slab": {
+    "en": "Polished Basalt Brick Slab",
+    "zh": "磨制玄武岩砖台阶",
+    "vi": null
+  },
+  "block.netherexp.polished_basalt_brick_stairs": {
+    "en": "Polished Basalt Brick Stairs",
+    "zh": "磨制玄武岩砖楼梯",
+    "vi": null
+  },
+  "block.netherexp.polished_basalt_brick_wall": {
+    "en": "Polished Basalt Brick Wall",
+    "zh": "磨制玄武岩砖墙",
+    "vi": null
+  },
+  "block.netherexp.netherite_plated_block": {
+    "en": "Netherite Plated Block",
+    "zh": "下界合金镶板块",
+    "vi": null
+  },
+  "block.netherexp.netherite_grate": {
+    "en": "Netherite Grate",
+    "zh": "下界合金格栅",
+    "vi": null
+  },
+  "block.netherexp.cut_netherite_block": {
+    "en": "Cut Netherite Block",
+    "zh": "切制下界合金块",
+    "vi": null
+  },
+  "block.netherexp.cut_netherite_slab": {
+    "en": "Cut Netherite Slab",
+    "zh": "切制下界合金台阶",
+    "vi": null
+  },
+  "block.netherexp.cut_netherite_stairs": {
+    "en": "Cut Netherite Stairs",
+    "zh": "切制下界合金楼梯",
+    "vi": null
+  },
+  "block.netherexp.cut_netherite_pillar": {
+    "en": "Cut Netherite Pillar",
+    "zh": "切制下界合金柱",
+    "vi": null
+  },
+  "block.netherexp.netherite_bars": {
+    "en": "Netherite Bars",
+    "zh": "下界合金栏杆",
+    "vi": null
+  },
+  "block.netherexp.rusty_netherite_plated_block": {
+    "en": "Rusty Netherite Plated Block",
+    "zh": "生锈的下界合金镶板块",
+    "vi": null
+  },
+  "block.netherexp.rusty_netherite_grate": {
+    "en": "Rusty Netherite Grate",
+    "zh": "生锈的下界合金格栅",
+    "vi": null
+  },
+  "block.netherexp.rusty_cut_netherite_block": {
+    "en": "Rusty Cut Netherite Block",
+    "zh": "生锈的切制下界合金块",
+    "vi": null
+  },
+  "block.netherexp.rusty_cut_netherite_slab": {
+    "en": "Rusty Cut Netherite Slab",
+    "zh": "生锈的切制下界合金台阶",
+    "vi": null
+  },
+  "block.netherexp.rusty_cut_netherite_stairs": {
+    "en": "Rusty Cut Netherite Stairs",
+    "zh": "生锈的切制下界合金楼梯",
+    "vi": null
+  },
+  "block.netherexp.rusty_cut_netherite_pillar": {
+    "en": "Rusty Cut Netherite Pillar",
+    "zh": "生锈的切制下界合金柱",
+    "vi": null
+  },
+  "block.netherexp.rusty_netherite_bars": {
+    "en": "Rusty Netherite Bars",
+    "zh": "生锈的下界合金栏杆",
+    "vi": null
+  },
+  "item.netherexp.warped_wart": {
+    "en": "Warped Wart",
+    "zh": "诡异疣",
+    "vi": null
+  },
+  "block.netherexp.warped_wart": {
+    "en": "Warped Wart",
+    "zh": "诡异疣",
+    "vi": null
+  },
+  "block.netherexp.enigma_flesh": {
+    "en": "Enigma Flesh",
+    "zh": "Enigma Flesh",
+    "vi": null
+  },
+  "block.netherexp.strange_enigma_flesh": {
+    "en": "Strange Enigma Flesh",
+    "zh": "Strange Enigma Flesh",
+    "vi": null
+  },
+  "block.netherexp.enigma_crown": {
+    "en": "Enigma Crown",
+    "zh": "Enigma Crown",
+    "vi": null
+  },
+  "block.netherexp.enigma_shelf": {
+    "en": "Enigma Shelf",
+    "zh": "Enigma Shelf",
+    "vi": null
+  },
+  "block.netherexp.stripped_claret_stem": {
+    "en": "Stripped Claret Stem",
+    "zh": "去皮干红柄",
+    "vi": null
+  },
+  "block.netherexp.stripped_claret_hyphae": {
+    "en": "Stripped Claret Hyphae",
+    "zh": "去皮干红核",
+    "vi": null
+  },
+  "block.netherexp.claret_planks": {
+    "en": "Claret Planks",
+    "zh": "干红木板",
+    "vi": null
+  },
+  "block.netherexp.claret_slab": {
+    "en": "Claret Slab",
+    "zh": "干红木台阶",
+    "vi": null
+  },
+  "block.netherexp.claret_stairs": {
+    "en": "Claret Stairs",
+    "zh": "干红木楼梯",
+    "vi": null
+  },
+  "block.netherexp.claret_fence": {
+    "en": "Claret Fence",
+    "zh": "干红木栅栏",
+    "vi": null
+  },
+  "block.netherexp.claret_fence_gate": {
+    "en": "Claret Fence Gate",
+    "zh": "干红木栅栏门",
+    "vi": null
+  },
+  "block.netherexp.claret_door": {
+    "en": "Claret Door",
+    "zh": "干红木门",
+    "vi": null
+  },
+  "block.netherexp.claret_trapdoor": {
+    "en": "Claret Trapdoor",
+    "zh": "干红木活板门",
+    "vi": null
+  },
+  "block.netherexp.claret_button": {
+    "en": "Claret Button",
+    "zh": "干红木按钮",
+    "vi": null
+  },
+  "block.netherexp.claret_pressure_plate": {
+    "en": "Claret Pressure Plate",
+    "zh": "干红木压力板",
+    "vi": null
+  },
+  "item.netherexp.claret_sign": {
+    "en": "Claret Sign",
+    "zh": "干红木告示牌",
+    "vi": null
+  },
+  "block.netherexp.claret_sign": {
+    "en": "Claret Sign",
+    "zh": "干红木告示牌",
+    "vi": null
+  },
+  "block.netherexp.claret_wall_sign": {
+    "en": "Claret Sign",
+    "zh": "干红木告示牌",
+    "vi": null
+  },
+  "item.netherexp.claret_hanging_sign": {
+    "en": "Claret Hanging Sign",
+    "zh": "悬挂式干红木告示牌",
+    "vi": null
+  },
+  "block.netherexp.claret_hanging_sign": {
+    "en": "Claret Hanging Sign",
+    "zh": "悬挂式干红木告示牌",
+    "vi": null
+  },
+  "block.netherexp.claret_wall_hanging_sign": {
+    "en": "Claret Hanging Sign",
+    "zh": "悬挂式干红木告示牌",
+    "vi": null
+  },
+  "block.netherexp.magma_cream_block": {
+    "en": "Magma Cream Block",
+    "zh": "岩浆膏块",
+    "vi": null
+  },
+  "block.netherexp.explosive_scoria": {
+    "en": "Explosive Scoria",
+    "zh": "Explosive Scoria",
+    "vi": null
+  },
+  "block.netherexp.igneous_reeds": {
+    "en": "Igneous Reeds",
+    "zh": "Igneous Reeds",
+    "vi": null
+  },
+  "block.netherexp.smokestalk": {
+    "en": "Smokestalk",
+    "zh": "Smokestalk",
+    "vi": null
+  },
+  "block.netherexp.smokestalk_plant": {
+    "en": "Smokestalk Plant",
+    "zh": "Smokestalk Plant",
+    "vi": null
+  },
+  "block.netherexp.smokestalk_block": {
+    "en": "Block of Smokestalk",
+    "zh": "Block of Smokestalk",
+    "vi": null
+  },
+  "block.netherexp.stripped_smokestalk_block": {
+    "en": "Stripped Block of Smokestalk",
+    "zh": "Stripped Block of Smokestalk",
+    "vi": null
+  },
+  "block.netherexp.smokestalk_planks": {
+    "en": "Smokestalk Planks",
+    "zh": "Smokestalk Planks",
+    "vi": null
+  },
+  "block.netherexp.smokestalk_slab": {
+    "en": "Smokestalk Slab",
+    "zh": "Smokestalk Slab",
+    "vi": null
+  },
+  "block.netherexp.smokestalk_stairs": {
+    "en": "Smokestalk Stairs",
+    "zh": "Smokestalk Stairs",
+    "vi": null
+  },
+  "block.netherexp.smokestalk_fence": {
+    "en": "Smokestalk Fence",
+    "zh": "Smokestalk Fence",
+    "vi": null
+  },
+  "block.netherexp.smokestalk_fence_gate": {
+    "en": "Smokestalk Fence Gate",
+    "zh": "Smokestalk Fence Gate",
+    "vi": null
+  },
+  "block.netherexp.smokestalk_button": {
+    "en": "Smokestalk Button",
+    "zh": "Smokestalk Button",
+    "vi": null
+  },
+  "block.netherexp.smokestalk_pressure_plate": {
+    "en": "Smokestalk Pressure Plate",
+    "zh": "Smokestalk Pressure Plate",
+    "vi": null
+  },
+  "block.netherexp.smokestalk_door": {
+    "en": "Smokestalk Door",
+    "zh": "Smokestalk Door",
+    "vi": null
+  },
+  "block.netherexp.smokestalk_trapdoor": {
+    "en": "Smokestalk Trapdoor",
+    "zh": "Smokestalk Trapdoor",
+    "vi": null
+  },
+  "item.netherexp.smokestalk_sign": {
+    "en": "Smokestalk Sign",
+    "zh": "Smokestalk Sign",
+    "vi": null
+  },
+  "block.netherexp.smokestalk_sign": {
+    "en": "Smokestalk Sign",
+    "zh": "Smokestalk Sign",
+    "vi": null
+  },
+  "block.netherexp.smokestalk_wall_sign": {
+    "en": "Smokestalk Sign",
+    "zh": "Smokestalk Sign",
+    "vi": null
+  },
+  "item.netherexp.smokestalk_hanging_sign": {
+    "en": "Smokestalk Hanging Sign",
+    "zh": "Smokestalk Hanging Sign",
+    "vi": null
+  },
+  "block.netherexp.smokestalk_hanging_sign": {
+    "en": "Smokestalk Hanging Sign",
+    "zh": "Smokestalk Hanging Sign",
+    "vi": null
+  },
+  "block.netherexp.smokestalk_wall_hanging_sign": {
+    "en": "Smokestalk Hanging Sign",
+    "zh": "Smokestalk Hanging Sign",
+    "vi": null
+  },
+  "block.netherexp.quartz_crystal_block": {
+    "en": "Quartz Crystal Block",
+    "zh": "石英晶体块",
+    "vi": null
+  },
+  "block.netherexp.quartz_crystal": {
+    "en": "Quartz Crystal",
+    "zh": "石英晶体",
+    "vi": null
+  },
+  "block.netherexp.cracked_quartz_bricks": {
+    "en": "Cracked Quartz Bricks",
+    "zh": "裂纹石英砖",
+    "vi": null
+  },
+  "block.netherexp.chiseled_quartz_pillar": {
+    "en": "Chiseled Quartz Pillar",
+    "zh": "雕纹石英柱",
+    "vi": null
+  },
+  "block.netherexp.silica_sand": {
+    "en": "Silica Sand",
+    "zh": "Silica Sand",
+    "vi": null
+  },
+  "block.netherexp.silica_sandstone": {
+    "en": "Silica Sandstone",
+    "zh": "Silica Sandstone",
+    "vi": null
+  },
+  "block.netherexp.silica_sandstone_slab": {
+    "en": "Silica Sandstone Slab",
+    "zh": "Silica Sandstone Slab",
+    "vi": null
+  },
+  "block.netherexp.silica_sandstone_stairs": {
+    "en": "Silica Sandstone Stairs",
+    "zh": "Silica Sandstone Stairs",
+    "vi": null
+  },
+  "block.netherexp.silica_sandstone_wall": {
+    "en": "Silica Sandstone Wall",
+    "zh": "Silica Sandstone Wall",
+    "vi": null
+  },
+  "block.netherexp.cut_silica_sandstone": {
+    "en": "Cut Silica Sandstone",
+    "zh": "Cut Silica Sandstone",
+    "vi": null
+  },
+  "block.netherexp.cut_silica_sandstone_slab": {
+    "en": "Cut Silica Sandstone Slab",
+    "zh": "Cut Silica Sandstone Slab",
+    "vi": null
+  },
+  "block.netherexp.chiseled_silica_sandstone": {
+    "en": "Chiseled Silica Sandstone",
+    "zh": "Chiseled Silica Sandstone",
+    "vi": null
+  },
+  "block.netherexp.smooth_silica_sandstone": {
+    "en": "Smooth Silica Sandstone",
+    "zh": "Smooth Silica Sandstone",
+    "vi": null
+  },
+  "block.netherexp.smooth_silica_sandstone_slab": {
+    "en": "Smooth Silica Sandstone Slab",
+    "zh": "Smooth Silica Sandstone Slab",
+    "vi": null
+  },
+  "block.netherexp.smooth_silica_sandstone_stairs": {
+    "en": "Smooth Silica Sandstone Stairs",
+    "zh": "Smooth Silica Sandstone Stairs",
+    "vi": null
+  },
+  "block.netherexp.nether_brick_pillar": {
+    "en": "Nether Brick Pillar",
+    "zh": "下界砖柱",
+    "vi": null
+  },
+  "block.netherexp.red_mixed_nether_bricks": {
+    "en": "Red Mixed Nether Bricks",
+    "zh": "红色混合下界砖块",
+    "vi": null
+  },
+  "block.netherexp.blue_mixed_nether_bricks": {
+    "en": "Blue Mixed Nether Bricks",
+    "zh": "蓝色混合下界砖块",
+    "vi": null
+  },
+  "block.netherexp.blue_nether_bricks": {
+    "en": "Blue Nether Bricks",
+    "zh": "蓝色下界砖块",
+    "vi": null
+  },
+  "block.netherexp.blue_nether_brick_slab": {
+    "en": "Blue Nether Brick Slab",
+    "zh": "蓝色下界砖台阶",
+    "vi": null
+  },
+  "block.netherexp.blue_nether_brick_stairs": {
+    "en": "Blue Nether Brick Stairs",
+    "zh": "蓝色下界砖楼梯",
+    "vi": null
+  },
+  "block.netherexp.blue_nether_brick_wall": {
+    "en": "Blue Nether Brick Wall",
+    "zh": "蓝色下界砖墙",
+    "vi": null
+  },
+  "block.netherexp.shroomnight": {
+    "en": "Shroomnight",
+    "zh": "菌阴体",
+    "vi": null
+  },
+  "block.netherexp.nether_wart_beard": {
+    "en": "Nether Wart Beard",
+    "zh": "下界疣须",
+    "vi": null
+  },
+  "block.netherexp.warped_wart_beard": {
+    "en": "Warped Wart Beard",
+    "zh": "诡异疣须",
+    "vi": null
+  },
+  "block.netherexp.weeping_ivy": {
+    "en": "Weeping Ivy",
+    "zh": "常泪藤",
+    "vi": null
+  },
+  "block.netherexp.twisting_ivy": {
+    "en": "Twisting Ivy",
+    "zh": "常怨藤",
+    "vi": null
+  },
+  "block.netherexp.red_scale_fungus": {
+    "en": "Red Scale Fungus",
+    "zh": "红色鳞状菌",
+    "vi": null
+  },
+  "block.netherexp.blue_scale_fungus": {
+    "en": "Blue Scale Fungus",
+    "zh": "蓝色鳞状菌",
+    "vi": null
+  },
+  "block.netherexp.crimson_sprouts": {
+    "en": "Crimson Sprouts",
+    "zh": "绯红苗",
+    "vi": null
+  },
+  "block.netherexp.soul_soil_layer": {
+    "en": "Soul Soil Layer",
+    "zh": "灵魂土层",
+    "vi": null
+  },
+  "block.netherexp.soul_path": {
+    "en": "Soul Path",
+    "zh": "灵魂土径",
+    "vi": null
+  },
+  "block.netherexp.crimson_nylium_path": {
+    "en": "Crimson Nylium Path",
+    "zh": "绯红菌岩径",
+    "vi": null
+  },
+  "block.netherexp.warped_nylium_path": {
+    "en": "Warped Nylium Path",
+    "zh": "诡异菌岩径",
+    "vi": null
+  },
+  "block.netherexp.crimson_sporeshroom": {
+    "en": "Crimson Sporeshroom",
+    "zh": "绯红孢子菇",
+    "vi": null
+  },
+  "block.netherexp.warped_sporeshroom": {
+    "en": "Warped Sporeshroom",
+    "zh": "诡异孢子菇",
+    "vi": null
+  },
+  "block.netherexp.basaltic_geyser": {
+    "en": "Basaltic Geyser",
+    "zh": "玄武岩喷烟口",
+    "vi": null
+  },
+  "block.netherexp.souled_geyser": {
+    "en": "Souled Geyser",
+    "zh": "灵魂喷烟口",
+    "vi": null
+  },
+  "block.netherexp.white_ash": {
+    "en": "White Ash",
+    "zh": "White Ash",
+    "vi": null
+  },
+  "block.netherexp.white_ash_block": {
+    "en": "White Ash Block",
+    "zh": "White Ash Block",
+    "vi": null
+  },
+  "block.netherexp.bone_cortical": {
+    "en": "Bone Cortical",
+    "zh": "骨皮层",
+    "vi": null
+  },
+  "block.netherexp.bone_rod": {
+    "en": "Bone Rod",
+    "zh": "骨棒",
+    "vi": null
+  },
+  "block.netherexp.bone_fence": {
+    "en": "Bone Fence",
+    "zh": "骨栅栏",
+    "vi": null
+  },
+  "block.netherexp.skeleton_skull_candle": {
+    "en": "Skeleton Skull Candle",
+    "zh": "骷髅头颅蜡烛",
+    "vi": null
+  },
+  "block.netherexp.soul_skeleton_skull_candle": {
+    "en": "Soul Skeleton Skull Candle",
+    "zh": "骷髅头颅灵魂蜡烛",
+    "vi": null
+  },
+  "block.netherexp.stacked_bones": {
+    "en": "Stacked Bones",
+    "zh": "骨堆",
+    "vi": null
+  },
+  "block.netherexp.stacked_bone_slab": {
+    "en": "Stacked Bone Slab",
+    "zh": "骨堆台阶",
+    "vi": null
+  },
+  "block.netherexp.stacked_bone_stairs": {
+    "en": "Stacked Bone Stairs",
+    "zh": "骨堆楼梯",
+    "vi": null
+  },
+  "block.netherexp.skull_block": {
+    "en": "Skull Block",
+    "zh": "头骨块",
+    "vi": null
+  },
+  "block.netherexp.burning_skull_block": {
+    "en": "Burning Skull Block",
+    "zh": "燃烧的头骨块",
+    "vi": null
+  },
+  "block.netherexp.soul_burning_skull_block": {
+    "en": "Soul Burning Skull Block",
+    "zh": "灵魂燃烧的头骨块",
+    "vi": null
+  },
+  "block.netherexp.wither_bone_block": {
+    "en": "Wither Bone Block",
+    "zh": "凋灵骨块",
+    "vi": null
+  },
+  "block.netherexp.stacked_wither_bone_slab": {
+    "en": "Stacked Wither Bone Slab",
+    "zh": "凋灵骨堆台阶",
+    "vi": null
+  },
+  "block.netherexp.stacked_wither_bone_stairs": {
+    "en": "Stacked Wither Bone Stairs",
+    "zh": "凋灵骨堆楼梯",
+    "vi": null
+  },
+  "block.netherexp.stacked_wither_bones": {
+    "en": "Stacked Wither Bones",
+    "zh": "凋灵骨堆",
+    "vi": null
+  },
+  "block.netherexp.wither_skull_block": {
+    "en": "Wither Skull Block",
+    "zh": "凋灵头骨块",
+    "vi": null
+  },
+  "block.netherexp.burning_wither_skull_block": {
+    "en": "Burning Wither Skull Block",
+    "zh": "燃烧的凋灵头骨块",
+    "vi": null
+  },
+  "block.netherexp.soul_burning_wither_skull_block": {
+    "en": "Soul Burning Wither Skull Block",
+    "zh": "灵魂燃烧的凋灵头骨块",
+    "vi": null
+  },
+  "block.netherexp.weeping_polished_blackstone_bricks": {
+    "en": "Weeping Polished Blackstone Bricks",
+    "zh": "垂泪磨制黑石砖",
+    "vi": null
+  },
+  "block.netherexp.twisting_polished_blackstone_bricks": {
+    "en": "Twisting Polished Blackstone Bricks",
+    "zh": "缠怨磨制黑石砖",
+    "vi": null
+  },
+  "block.netherexp.polished_blackstone_pillar": {
+    "en": "Polished Blackstone Pillar",
+    "zh": "磨制黑石柱",
+    "vi": null
+  },
+  "block.netherexp.polished_blackstone_fence": {
+    "en": "Polished Blackstone Fence",
+    "zh": "磨制黑石栅栏",
+    "vi": null
+  },
+  "block.netherexp.potted_soul_swirls": {
+    "en": "Potted Soul Swirls",
+    "zh": "灵魂卷须盆栽",
+    "vi": null
+  },
+  "block.netherexp.potted_enigma_crown": {
+    "en": "Potted Enigma Crown",
+    "zh": "Potted Enigma Crown",
+    "vi": null
+  },
+  "block.netherexp.potted_smokestalk": {
+    "en": "Potted Smokestalk",
+    "zh": "Potted Smokestalk",
+    "vi": null
+  },
+  "block.netherexp.potted_red_scale_fungus": {
+    "en": "Potted Red Scale Fungus",
+    "zh": "红色鳞状菌盆栽",
+    "vi": null
+  },
+  "block.netherexp.potted_blue_scale_fungus": {
+    "en": "Potted Blue Scale Fungus",
+    "zh": "蓝色鳞状菌盆栽",
+    "vi": null
+  },
+  "block.netherexp.potted_crimson_sporeshroom": {
+    "en": "Potted Crimson Sporeshroom",
+    "zh": "绯红孢子菇盆栽",
+    "vi": null
+  },
+  "block.netherexp.potted_warped_sporeshroom": {
+    "en": "Potted Warped Sporeshroom",
+    "zh": "诡异孢子菇盆栽",
+    "vi": null
+  },
+  "block.netherexp.potted_soul_torchflower": {
+    "en": "Potted Soul Torchflower",
+    "zh": "灵魂火把花盆栽",
+    "vi": null
+  },
+  "subtitles.item.gold_ingot.gilding": {
+    "en": "Block gilded",
+    "zh": "方块：镀金",
+    "vi": null
+  },
+  "subtitles.block.ectoplasm.freeze": {
+    "en": "Ectoplasm Freezes",
+    "zh": "灵质：冻结",
+    "vi": null
+  },
+  "subtitles.block.ectoplasm.whispering": {
+    "en": "Ectoplasm whispering gibberish",
+    "zh": "灵质：低语",
+    "vi": null
+  },
+  "subtitles.block.soul_slate.solidifying": {
+    "en": "Soul Sand Solidifies to Soul Slate",
+    "zh": "灵魂沙：固化为魂板岩",
+    "vi": null
+  },
+  "subtitles.block.explosive_scoria.ambient": {
+    "en": "Unstable electrical sparks",
+    "zh": "Unstable electrical sparks",
+    "vi": null
+  },
+  "subtitles.block.sporeshroom.trampolined": {
+    "en": "Sporeshroom trampolined",
+    "zh": "孢子菇：弹跳",
+    "vi": null
+  },
+  "subtitles.block.lightspores.apply": {
+    "en": "Spores applied to Block",
+    "zh": "孢子：植入方块",
+    "vi": null
+  },
+  "subtitles.block.lightspores.shear": {
+    "en": "Spores harvested from Block",
+    "zh": "孢子：从方块收集",
+    "vi": null
+  },
+  "subtitles.block.soul_candle.ambient": {
+    "en": "Soul Candle whispers",
+    "zh": "灵魂蜡烛：低语",
+    "vi": null
+  },
+  "subtitles.block.soul_swirls.boost": {
+    "en": "Soul Swirls whoop",
+    "zh": "灵魂卷须：呼呼作响",
+    "vi": null
+  },
+  "subtitles.item.antidote.negate": {
+    "en": "Antidote negates an effect",
+    "zh": "解药：解除效果",
+    "vi": null
+  },
+  "subtitles.item.grenade_antidote.tick": {
+    "en": "Grenade Antidote ticks",
+    "zh": "投掷型解药：滴答",
+    "vi": null
+  },
+  "subtitles.item.grenade_antidote.explode": {
+    "en": "Grenade Antidote explodes",
+    "zh": "投掷型解药：爆裂",
+    "vi": null
+  },
+  "subtitles.item.shotgun.use": {
+    "en": "Shotgun fired",
+    "zh": "霰弹炮：开火",
+    "vi": null
+  },
+  "subtitles.item.shotgun.load": {
+    "en": "Shotgun loaded",
+    "zh": "霰弹炮：装弹",
+    "vi": null
+  },
+  "subtitles.block.brazier_chest.open": {
+    "en": "Brazier Chest opens",
+    "zh": "火盆匣：开启",
+    "vi": null
+  },
+  "subtitles.block.brazier_chest.close": {
+    "en": "Brazier Chest closes",
+    "zh": "火盆匣：关闭",
+    "vi": null
+  },
+  "subtitles.block.brazier_chest.lit": {
+    "en": "Treacherous screeches",
+    "zh": "狡诈的尖叫声",
+    "vi": null
+  },
+  "subtitles.block.treacherous_candle.victory": {
+    "en": "Treacherous Candle victory choir",
+    "zh": "狡诈蜡烛：胜利的颂唱",
+    "vi": null
+  },
+  "subtitles.block.treacherous_candle.defeat": {
+    "en": "Treacherous Candle defeat choir",
+    "zh": "狡诈蜡烛：失败的颂唱",
+    "vi": null
+  },
+  "subtitles.entity.warphopper.ambient": {
+    "en": "Warphopper chirps",
+    "zh": "Warphopper chirps",
+    "vi": null
+  },
+  "subtitles.entity.warphopper.hurt": {
+    "en": "Warphopper hurts",
+    "zh": "Warphopper hurts",
+    "vi": null
+  },
+  "subtitles.entity.warphopper.death": {
+    "en": "Warphopper dies",
+    "zh": "Warphopper dies",
+    "vi": null
+  },
+  "subtitles.entity.warphopper.cloak": {
+    "en": "Warphopper cloaks",
+    "zh": "Warphopper cloaks",
+    "vi": null
+  },
+  "subtitles.entity.warphopper.loop": {
+    "en": "Warphopper sings",
+    "zh": "Warphopper sings",
+    "vi": null
+  },
+  "subtitles.entity.wisp.ambient": {
+    "en": "Wisp whimpers",
+    "zh": "小鬼火：呜咽",
+    "vi": null
+  },
+  "subtitles.entity.wisp.hurt": {
+    "en": "Wisp hurts",
+    "zh": "小鬼火：受伤",
+    "vi": null
+  },
+  "subtitles.entity.wisp.death": {
+    "en": "Wisp dies",
+    "zh": "小鬼火：死亡",
+    "vi": null
+  },
+  "subtitles.entity.apparition.ambient": {
+    "en": "Apparition rumbles",
+    "zh": "幻鬼：隆隆作响",
+    "vi": null
+  },
+  "subtitles.entity.apparition.hurt": {
+    "en": "Apparition hurts",
+    "zh": "幻鬼：受伤",
+    "vi": null
+  },
+  "subtitles.entity.apparition.death": {
+    "en": "Apparition dies",
+    "zh": "幻鬼：死亡",
+    "vi": null
+  },
+  "subtitles.entity.apparition.fly": {
+    "en": "Apparition flies",
+    "zh": "幻鬼：飞行",
+    "vi": null
+  },
+  "subtitles.entity.apparition.attack": {
+    "en": "Apparition attacks",
+    "zh": "幻鬼：攻击",
+    "vi": null
+  },
+  "subtitles.entity.vessel.ambient": {
+    "en": "Vessel rattles",
+    "zh": "容器：咯咯声",
+    "vi": null
+  },
+  "subtitles.entity.vessel.hurt": {
+    "en": "Vessel hurts",
+    "zh": "容器：受伤",
+    "vi": null
+  },
+  "subtitles.entity.vessel.death": {
+    "en": "Vessel dies",
+    "zh": "容器：死亡",
+    "vi": null
+  },
+  "subtitles.entity.ecto_slab.jump": {
+    "en": "Ecto Slab cracking",
+    "zh": "灵阶怪：破裂声",
+    "vi": null
+  },
+  "subtitles.entity.ecto_slab.squish": {
+    "en": "Ecto Slab shattering",
+    "zh": "灵阶怪：碎裂声",
+    "vi": null
+  },
+  "subtitles.entity.banshee.ambient": {
+    "en": "Banshee cackles",
+    "zh": "丧魂人：怪笑",
+    "vi": null
+  },
+  "subtitles.entity.banshee.hurt": {
+    "en": "Banshee hurts",
+    "zh": "丧魂人：受伤",
+    "vi": null
+  },
+  "subtitles.entity.banshee.death": {
+    "en": "Banshee dies",
+    "zh": "丧魂人：死亡",
+    "vi": null
+  },
+  "subtitles.entity.banshee.teleport": {
+    "en": "Banshee teleports",
+    "zh": "丧魂人：传送",
+    "vi": null
+  },
+  "subtitles.entity.banshee.shoot": {
+    "en": "Will O' Wisp fired",
+    "zh": "鬼火团：发射",
+    "vi": null
+  },
+  "container.brazier_chest": {
+    "en": "Brazier Chest",
+    "zh": "火盆匣",
+    "vi": null
+  },
+  "death.attack.graveMistSuffocation": {
+    "en": "%1$s was shrouded and choked by souls",
+    "zh": "%1$s 被灵魂们窒息并裹尸了",
+    "vi": null
+  },
+  "death.attack.stampedeCrush": {
+    "en": "%1$s was crushed by %2$s",
+    "zh": "%1$s 被 %2$s 压碎了",
+    "vi": null
+  },
+  "death.attack.soulBullet": {
+    "en": "%1$s was shot with a lethal firearm",
+    "zh": "%1$s 被致命的火器击毙了",
+    "vi": null
+  },
+  "death.attack.soulBullet.player": {
+    "en": "%1$s was shot with a lethal firearm",
+    "zh": "%1$s 被致命的火器击毙了",
+    "vi": null
+  },
+  "death.attack.will_o_wisp": {
+    "en": "%1$s was haunted by a will o' wisp",
+    "zh": "%1$s 被鬼火团夺舍了",
+    "vi": null
+  },
+  "death.attack.will_o_wisp.player": {
+    "en": "%1$s was haunted by a will o' wisp",
+    "zh": "%1$s 被鬼火团夺舍了",
+    "vi": null
+  },
+  "death.attack.volatileScoriaExplosion": {
+    "en": "%1$s was caught in a volatile redstone discharge",
+    "zh": "%1$s was caught in a volatile redstone discharge",
+    "vi": null
+  },
+  "death.attack.shotgunExplosion": {
+    "en": "%1$s was caught in a over-charged shotgun explosion",
+    "zh": "%1$s 被过载的霰弹炮炸飞了",
+    "vi": null
+  },
+  "entity.netherexp.wisp": {
+    "en": "Wisp",
+    "zh": "小鬼火",
+    "vi": null
+  },
+  "entity.netherexp.apparition": {
+    "en": "Apparition",
+    "zh": "幻鬼",
+    "vi": null
+  },
+  "entity.netherexp.vessel": {
+    "en": "Vessel",
+    "zh": "容器",
+    "vi": null
+  },
+  "entity.netherexp.ecto_slab": {
+    "en": "Ecto Slab",
+    "zh": "灵阶怪",
+    "vi": null
+  },
+  "entity.netherexp.banshee": {
+    "en": "Banshee",
+    "zh": "丧魂人",
+    "vi": null
+  },
+  "entity.netherexp.stampede": {
+    "en": "Stampede",
+    "zh": "重踏兽",
+    "vi": null
+  },
+  "entity.netherexp.carcass": {
+    "en": "Carcass",
+    "zh": "残躯",
+    "vi": null
+  },
+  "entity.netherexp.will_o_wisp": {
+    "en": "Will O' Wisp",
+    "zh": "鬼火团",
+    "vi": null
+  },
+  "entity.netherexp.phasmo_arrow": {
+    "en": "Phasmo Arrow",
+    "zh": "鬼灵箭",
+    "vi": null
+  },
+  "entity.netherexp.antidote": {
+    "en": "Antidote",
+    "zh": "解药",
+    "vi": null
+  },
+  "entity.netherexp.grenade_effect_cloud": {
+    "en": "Grenade Effect Cloud",
+    "zh": "投掷型解药效果云",
+    "vi": null
+  },
+  "entity.netherexp.warphopper": {
+    "en": "Warphopper",
+    "zh": "Warphopper",
+    "vi": null
+  },
+  "painting.netherexp.house.author": {
+    "en": "Navidson Realty",
+    "zh": "Navidson Realty",
+    "vi": null
+  },
+  "painting.netherexp.house.title": {
+    "en": "House",
+    "zh": "House",
+    "vi": null
+  },
+  "advancements.nether.add_spores_to_block.title": {
+    "en": "Algaebra",
+    "zh": "代树",
+    "vi": null
+  },
+  "advancements.nether.add_spores_to_block.description": {
+    "en": "Apply Lightspores or Nightspores to the appropriate wart block",
+    "zh": "将菌光或菌阴孢子植入对应的疣块",
+    "vi": null
+  },
+  "advancements.nether.overkill.title": {
+    "en": "Overkill",
+    "zh": "赶尽杀绝",
+    "vi": null
+  },
+  "advancements.nether.overkill.description": {
+    "en": "Deal Ten Hearts of damage in a single hit",
+    "zh": "一击造成十颗心的伤害",
+    "vi": null
+  },
+  "advancements.nether.stayin_frosty.title": {
+    "en": "Stayin' Frosty",
+    "zh": "保持冷静",
+    "vi": null
+  },
+  "advancements.nether.stayin_frosty.description": {
+    "en": "Swim in lava while having the Fire Resistance effect",
+    "zh": "拥有抗火效果时在熔岩中游泳",
+    "vi": null
+  },
+  "advancements.nether.pizza_hunt.title": {
+    "en": "Pizza Hunt",
+    "zh": "必胜之客",
+    "vi": null
+  },
+  "advancements.nether.pizza_hunt.description": {
+    "en": "Bake the perfect hellish pizza, then eat it",
+    "zh": "烤出完美的地狱披萨饼，然后吃掉它",
+    "vi": null
+  },
+  "advancements.nether.ayo_the_pizza_here.title": {
+    "en": "Ayo! the Pizza Here",
+    "zh": "哟！你订的披萨到了",
+    "vi": null
+  },
+  "advancements.nether.ayo_the_pizza_here.description": {
+    "en": "Have an Allay deliver Pizza to you, watch your step though...",
+    "zh": "让一只悦灵给你送来披萨饼，记得小心脚下......",
+    "vi": null
+  },
+  "advancements.nether.ghost_mucus.title": {
+    "en": "Ghost Mucus",
+    "zh": "鬼魂的鼻涕",
+    "vi": null
+  },
+  "advancements.nether.ghost_mucus.description": {
+    "en": "Fill a Bucket with Ectoplasm",
+    "zh": "用铁桶装点灵质",
+    "vi": null
+  },
+  "advancements.nether.rattling_remnants.title": {
+    "en": "Rattling Remnants",
+    "zh": "咯咯作响的遗迹",
+    "vi": null
+  },
+  "advancements.nether.rattling_remnants.description": {
+    "en": "Find a Mega Fossil Campsite in the Soul Sand Valley",
+    "zh": "在灵魂沙峡谷找到一片巨型化石营地",
+    "vi": null
+  },
+  "advancements.nether.gravedigger.title": {
+    "en": "Gravedigger",
+    "zh": "掘墓人",
+    "vi": null
+  },
+  "advancements.nether.gravedigger.description": {
+    "en": "Dig up preserved fossilized remains to exploit Fossil Fuels",
+    "zh": "挖出藏匿着的残存化石以开采化石燃料",
+    "vi": null
+  },
+  "advancements.nether.non_renewable_yeah_right.title": {
+    "en": "Non-renewable? Yeah, right..",
+    "zh": "不可再生？行，对......",
+    "vi": null
+  },
+  "advancements.nether.non_renewable_yeah_right.description": {
+    "en": "Kill a Skeleton on Soul Soil to make more Fossils to exploit",
+    "zh": "在灵魂土上击杀一只骷髅以生产更多的化石进行开采",
+    "vi": null
+  },
+  "advancements.nether.exorcism.title": {
+    "en": "Exorcism",
+    "zh": "驱魔",
+    "vi": null
+  },
+  "advancements.nether.exorcism.description": {
+    "en": "Relieve a possessed mob of its Apparition with a water bottle",
+    "zh": "使用水瓶驱除附身在生物上的的幻鬼",
+    "vi": null
+  },
+  "advancements.nether.frightening_rush.title": {
+    "en": "Frightening Rush",
+    "zh": "仓皇逃窜",
+    "vi": null
+  },
+  "advancements.nether.frightening_rush.description": {
+    "en": "Get unbounded speed by activating Soul Swirls",
+    "zh": "通过接触灵魂卷须获得无拘步履",
+    "vi": null
+  },
+  "advancements.nether.phasmophobic.title": {
+    "en": "Phasmophobic",
+    "zh": "恐鬼症患者",
+    "vi": null
+  },
+  "advancements.nether.phasmophobic.description": {
+    "en": "Phase through Soul Glass",
+    "zh": "穿过灵魂玻璃",
+    "vi": null
+  },
+  "advancements.nether.blind_shot.title": {
+    "en": "Blind Shot",
+    "zh": "盲射",
+    "vi": null
+  },
+  "advancements.nether.blind_shot.description": {
+    "en": "Hit an entity through walls using Phasmo Arrows",
+    "zh": "使用鬼灵箭穿过墙壁射中一个实体",
+    "vi": null
+  },
+  "advancements.nether.froghorn.title": {
+    "en": "Froghorn",
+    "zh": "蛙雾角",
+    "vi": null
+  },
+  "advancements.nether.froghorn.description": {
+    "en": "Have all Frogmists in your inventory",
+    "zh": "在你的物品栏中集齐所有种类的蛙朦雾",
+    "vi": null
+  },
+  "advancements.nether.plague_doctor.title": {
+    "en": "Plague-Doctor",
+    "zh": "瘟疫医生",
+    "vi": null
+  },
+  "advancements.nether.plague_doctor.description": {
+    "en": "Have every antidote effect applied at the same time",
+    "zh": "同时拥有所有解药效果",
+    "vi": null
+  },
+  "advancements.nether.soul_sand_valley.title": {
+    "en": "Soul Sand Valley",
+    "zh": "灵魂沙峡谷",
+    "vi": null
+  },
+  "advancements.nether.soul_sand_valley.description": {
+    "en": "Where frights and paranormal are plentiful",
+    "zh": "存在着大量恐怖与超自然现象的地方",
+    "vi": null
+  },
+  "advancements.nether.angel_with_a_shotgun.title": {
+    "en": "Angel with a Shotgun",
+    "zh": "武装天使",
+    "vi": null
+  },
+  "advancements.nether.angel_with_a_shotgun.description": {
+    "en": "Craft a Shotgun Fist with your Shotgun Core Artifact",
+    "zh": "使用你的霰弹炮核心工件制作一把霰弹手炮",
+    "vi": null
+  },
+  "advancements.nether.the_nether_is_full.title": {
+    "en": "Blood is Fuel, The Nether is Full",
+    "zh": "下界太小，血是燃料",
+    "vi": null
+  },
+  "advancements.nether.the_nether_is_full.description": {
+    "en": "Upgrade your Shotgun with a Pump-Charge Smithing Template",
+    "zh": "使用泵能锻造模板升级你的霰弹炮",
+    "vi": null
+  },
+  "advancements.nether.ultrakill.title": {
+    "en": "ULTRA-OVERKILL",
+    "zh": "疯狂赶尽杀绝",
+    "vi": null
+  },
+  "advancements.nether.ultrakill.description": {
+    "en": "Kill 10 Mobs with a single over-pumped explosion",
+    "zh": "使用过载爆炸击杀10个生物",
+    "vi": null
+  },
+  "advancements.nether.the_caduceus.title": {
+    "en": "The Caduceus",
+    "zh": "蛇杖",
+    "vi": null
+  },
+  "advancements.nether.the_caduceus.description": {
+    "en": "Brew an Antidote using Warped Warts",
+    "zh": "使用诡异疣酿造一瓶解药",
+    "vi": null
+  },
+  "advancements.nether.castlemania.title": {
+    "en": "Castlemania",
+    "zh": "恶灵城",
+    "vi": null
+  },
+  "advancements.nether.castlemania.description": {
+    "en": "Locate a Sanctum in the Soul Sand Valley",
+    "zh": "找到灵魂沙峡谷中的圣所",
+    "vi": null
+  },
+  "advancements.nether.rekindled_betrayal.title": {
+    "en": "Rekindled Betrayal",
+    "zh": "重燃背叛之焰",
+    "vi": null
+  },
+  "advancements.nether.rekindled_betrayal.description": {
+    "en": "Light the Treacherous Candle and defend it from waves of mobs",
+    "zh": "点亮狡诈蜡烛并在怪物潮中保卫它",
+    "vi": null
+  },
+  "advancements.nether.eldritch_manipulation.title": {
+    "en": "Eldritch Manipulation",
+    "zh": "操弄邪术",
+    "vi": null
+  },
+  "advancements.nether.eldritch_manipulation.description": {
+    "en": "Open a Brazier Chest using the Treacherous Flame",
+    "zh": "使用狡诈烛焰打开火盆匣",
+    "vi": null
+  },
+  "advancements.nether.hp_minecraftian.title": {
+    "en": "H.P Minecraftian",
+    "zh": "H.P.迈恩克拉夫特式",
+    "vi": null
+  },
+  "advancements.nether.hp_minecraftian.description": {
+    "en": "Revive a carcass using your Flint and Steel",
+    "zh": "使用打火石复活一具残躯",
+    "vi": null
+  },
+  "advancements.nether.lorekeeper.title": {
+    "en": "Lorekeeper",
+    "zh": "见多石广",
+    "vi": null
+  },
+  "advancements.nether.lorekeeper.description": {
+    "en": "Obtain every single Gargoyle Statue variant",
+    "zh": "获得每一种石像鬼雕像变体",
+    "vi": null
+  },
+  "advancements.nether.back_with_a_vengeance.title": {
+    "en": "Back with a Vengeance",
+    "zh": "死灰复燃",
+    "vi": null
+  },
+  "advancements.nether.back_with_a_vengeance.description": {
+    "en": "Fix broken Treacherous Candles using Honeycombs",
+    "zh": "使用蜜脾修复毁坏的狡诈蜡烛",
+    "vi": null
+  },
+  "advancements.nether.tower_defense.title": {
+    "en": "Candles' Tower Defense 6",
+    "zh": "Candles' Tower Defense 6",
+    "vi": null
+  },
+  "advancements.nether.tower_defense.description": {
+    "en": "Make your own Treacherous Candle using Ancient Wax",
+    "zh": "Make your own Treacherous Candle using Ancient Wax",
+    "vi": null
+  },
+  "advancements.nether.emf_raider.title": {
+    "en": "EMF-Raider",
+    "zh": "电动势袭击者",
+    "vi": null
+  },
+  "advancements.nether.emf_raider.description": {
+    "en": "Activate a Sanctum Locator Compass and follow it to it's origin",
+    "zh": "激活一个圣所定位指针并追随它的指向",
+    "vi": null
+  },
+  "effect.netherexp.fogsight": {
+    "en": "Fogsight",
+    "zh": "Fogsight",
+    "vi": null
+  },
+  "effect.netherexp.unbounded_speed": {
+    "en": "Unbounded Speed",
+    "zh": "无拘步履",
+    "vi": null
+  },
+  "effect.netherexp.betrayed": {
+    "en": "Betrayed",
+    "zh": "被叛",
+    "vi": null
+  },
+  "effect.netherexp.speed_immunity": {
+    "en": "Speed Immunity",
+    "zh": "迅捷免疫",
+    "vi": null
+  },
+  "effect.netherexp.slowness_immunity": {
+    "en": "Slowness Immunity",
+    "zh": "缓慢免疫",
+    "vi": null
+  },
+  "effect.netherexp.strength_immunity": {
+    "en": "Strength Immunity",
+    "zh": "力量免疫",
+    "vi": null
+  },
+  "effect.netherexp.jump_boost_immunity": {
+    "en": "Jump Boost Immunity",
+    "zh": "跳跃提升免疫",
+    "vi": null
+  },
+  "effect.netherexp.regeneration_immunity": {
+    "en": "Regeneration Immunity",
+    "zh": "生命恢复免疫",
+    "vi": null
+  },
+  "effect.netherexp.fire_resistance_immunity": {
+    "en": "Fire Resistance Immunity",
+    "zh": "抗火免疫",
+    "vi": null
+  },
+  "effect.netherexp.water_breathing_immunity": {
+    "en": "Water Breathing Immunity",
+    "zh": "水下呼吸免疫",
+    "vi": null
+  },
+  "effect.netherexp.invisibility_immunity": {
+    "en": "Invisibility Immunity",
+    "zh": "隐身免疫",
+    "vi": null
+  },
+  "effect.netherexp.weakness_immunity": {
+    "en": "Weakness Immunity",
+    "zh": "虚弱免疫",
+    "vi": null
+  },
+  "effect.netherexp.poison_immunity": {
+    "en": "Poison Immunity",
+    "zh": "中毒免疫",
+    "vi": null
+  },
+  "effect.netherexp.resistance_immunity": {
+    "en": "Resistance Immunity",
+    "zh": "抗性提升免疫",
+    "vi": null
+  },
+  "effect.netherexp.absorption_immunity": {
+    "en": "Absorption Immunity",
+    "zh": "伤害吸收免疫",
+    "vi": null
+  },
+  "effect.netherexp.haste_immunity": {
+    "en": "Haste Immunity",
+    "zh": "急迫免疫",
+    "vi": null
+  },
+  "effect.netherexp.mining_fatigue_immunity": {
+    "en": "Mining Fatigue Immunity",
+    "zh": "挖掘疲劳免疫",
+    "vi": null
+  },
+  "effect.netherexp.darkness_immunity": {
+    "en": "Darkness Immunity",
+    "zh": "黑暗免疫",
+    "vi": null
+  },
+  "effect.netherexp.levitation_immunity": {
+    "en": "Levitation Immunity",
+    "zh": "飘浮免疫",
+    "vi": null
+  },
+  "effect.netherexp.hunger_immunity": {
+    "en": "Hunger Immunity",
+    "zh": "饥饿免疫",
+    "vi": null
+  },
+  "effect.netherexp.wither_immunity": {
+    "en": "Wither Immunity",
+    "zh": "凋零免疫",
+    "vi": null
+  },
+  "effect.netherexp.luck_immunity": {
+    "en": "Luck Immunity",
+    "zh": "幸运免疫",
+    "vi": null
+  },
+  "effect.netherexp.unluck_immunity": {
+    "en": "Unluck Immunity",
+    "zh": "霉运免疫",
+    "vi": null
+  },
+  "item.netherexp.brightspores": {
+    "en": "Brightspores",
+    "zh": "菌明孢子",
+    "vi": null
+  },
+  "block.netherexp.shroombright": {
+    "en": "Shroombright",
+    "zh": "菌明体",
+    "vi": null
+  },
+  "block.netherexp.shale_swirls": {
+    "en": "Shale Swirls",
+    "zh": "页岩卷须",
+    "vi": null
+  },
+  "block.netherexp.violet_mixed_nether_bricks": {
+    "en": "Violet Mixed Nether Bricks",
+    "zh": "紫罗兰色混合下界砖块",
+    "vi": null
+  },
+  "block.netherexp.violet_nether_bricks": {
+    "en": "Violet Nether Bricks",
+    "zh": "紫罗兰色下界砖块",
+    "vi": null
+  },
+  "block.netherexp.violet_nether_brick_slab": {
+    "en": "Violet Nether Brick Slab",
+    "zh": "紫罗兰色下界砖台阶",
+    "vi": null
+  },
+  "block.netherexp.violet_nether_brick_stairs": {
+    "en": "Violet Nether Brick Stairs",
+    "zh": "紫罗兰色下界砖楼梯",
+    "vi": null
+  },
+  "block.netherexp.violet_nether_brick_wall": {
+    "en": "Violet Nether Brick Wall",
+    "zh": "紫罗兰色下界砖墙",
+    "vi": null
+  },
+  "block.netherexp.violet_scale_fungus": {
+    "en": "Violet Scale Fungus",
+    "zh": "紫罗兰色鳞状菌",
+    "vi": null
+  },
+  "block.netherexp.umbral_sporeshroom": {
+    "en": "Umbral Sporeshroom",
+    "zh": "暗影孢子菇",
+    "vi": null
+  },
+  "block.netherexp.umbral_wart_beard": {
+    "en": "Umbral Wart Beard",
+    "zh": "暗影疣须",
+    "vi": null
+  },
+  "block.netherexp.ashen_geyser": {
+    "en": "Ashen Geyser",
+    "zh": "灰烬喷烟口",
+    "vi": null
+  },
+  "block.netherexp.blackstonic_geyser": {
+    "en": "Blackstonic Geyser",
+    "zh": "黑石喷烟口",
+    "vi": null
+  },
+  "block.netherexp.twilight_vines": {
+    "en": "Twilight Vines",
+    "zh": "暮色藤",
+    "vi": null
+  },
+  "block.netherexp.twilight_vines_plant": {
+    "en": "Twilight Vines Plant",
+    "zh": "暮色藤盆栽",
+    "vi": null
+  },
+  "block.netherexp.twilight_ivy": {
+    "en": "Twilight Ivy",
+    "zh": "常暮藤",
+    "vi": null
+  },
+  "block.netherexp.potted_violet_scale_fungus": {
+    "en": "Potted Violet Scale Fungus",
+    "zh": "紫罗兰色鳞状菌盆栽",
+    "vi": null
+  },
+  "block.netherexp.potted_umbral_sporeshroom": {
+    "en": "Potted Umbral Sporeshroom",
+    "zh": "暗影孢子菇盆栽",
+    "vi": null
+  },
+  "block.netherexp.umbral_nylium_path": {
+    "en": "Umbral Nylium Path",
+    "zh": "暗影菌岩径",
+    "vi": null
+  },
+  "item.netherexp.blightspores": {
+    "en": "Blightspores",
+    "zh": "菌亡孢子",
+    "vi": null
+  },
+  "block.netherexp.shroomblight": {
+    "en": "Shroomblight",
+    "zh": "菌亡体",
+    "vi": null
+  },
+  "block.netherexp.blight_swirls": {
+    "en": "Blight Swirls",
+    "zh": "枯魂卷须",
+    "vi": null
+  },
+  "block.netherexp.blightwart": {
+    "en": "Blightwart",
+    "zh": "枯魂疣",
+    "vi": null
+  },
+  "item.netherexp.blightwart": {
+    "en": "Blightwart",
+    "zh": "枯魂疣",
+    "vi": null
+  },
+  "block.netherexp.blightwart_beard": {
+    "en": "Blightwart Beard",
+    "zh": "枯魂疣须",
+    "vi": null
+  },
+  "block.netherexp.soulblight_sporeshroom": {
+    "en": "Soulblight Sporeshroom",
+    "zh": "枯魂孢子菇",
+    "vi": null
+  },
+  "block.netherexp.yellow_mixed_nether_bricks": {
+    "en": "Yellow Mixed Nether Bricks",
+    "zh": "黄色混合下界砖块",
+    "vi": null
+  },
+  "block.netherexp.yellow_nether_bricks": {
+    "en": "Yellow Nether Bricks",
+    "zh": "黄色下界砖块",
+    "vi": null
+  },
+  "block.netherexp.yellow_nether_brick_slab": {
+    "en": "Yellow Nether Brick Slab",
+    "zh": "黄色下界砖台阶",
+    "vi": null
+  },
+  "block.netherexp.yellow_nether_brick_stairs": {
+    "en": "Yellow Nether Brick Stairs",
+    "zh": "黄色下界砖楼梯",
+    "vi": null
+  },
+  "block.netherexp.yellow_nether_brick_wall": {
+    "en": "Yellow Nether Brick Wall",
+    "zh": "黄色下界砖墙",
+    "vi": null
+  },
+  "item.netherexp.frightspores": {
+    "en": "Frightspores",
+    "zh": "菌慌孢子",
+    "vi": null
+  },
+  "block.netherexp.shroomfright": {
+    "en": "Shroomfright",
+    "zh": "菌慌体",
+    "vi": null
+  },
+  "block.netherexp.soul_ruby_ore": {
+    "en": "Soul Ruby Ore",
+    "zh": "灵魂红宝石矿石",
+    "vi": null
+  },
+  "item.netherexp.necromium_plating": {
+    "en": "Necromium Plating",
+    "zh": "死灵金属镀层",
+    "vi": null
+  },
+  "block.netherexp.necromium_plated_block": {
+    "en": "Necromium Plated Block",
+    "zh": "死灵金属镶板块",
+    "vi": null
+  },
+  "block.netherexp.necromium_grate": {
+    "en": "Necromium Grate",
+    "zh": "死灵金属格栅",
+    "vi": null
+  },
+  "block.netherexp.cut_necromium_block": {
+    "en": "Cut Necromium Block",
+    "zh": "切制死灵金属块",
+    "vi": null
+  },
+  "block.netherexp.cut_necromium_slab": {
+    "en": "Cut Necromium Slab",
+    "zh": "切制死灵金属台阶",
+    "vi": null
+  },
+  "block.netherexp.cut_necromium_stairs": {
+    "en": "Cut Necromium Stairs",
+    "zh": "切制死灵金属楼梯",
+    "vi": null
+  },
+  "block.netherexp.cut_necromium_pillar": {
+    "en": "Cut Necromium Pillar",
+    "zh": "切制死灵金属柱",
+    "vi": null
+  },
+  "item.netherexp.sealed_pottery_sherd": {
+    "en": "Sealed Pottery Sherd",
+    "zh": "封存纹样陶片",
+    "vi": null
+  },
+  "item.netherexp.spectre_pottery_sherd": {
+    "en": "Spectre Pottery Sherd",
+    "zh": "幻灵纹样陶片",
+    "vi": null
+  },
+  "item.netherexp.marionette_pottery_sherd": {
+    "en": "Marionette Pottery Sherd",
+    "zh": "傀儡纹样陶片",
+    "vi": null
+  },
+  "item.netherexp.eldritch_pottery_sherd": {
+    "en": "Eldritch Pottery Sherd",
+    "zh": "邪术纹样陶片",
+    "vi": null
+  },
+  "item.netherexp.deception_pottery_sherd": {
+    "en": "Deception Pottery Sherd",
+    "zh": "欺诈纹样陶片",
+    "vi": null
+  },
+  "item.netherexp.firearm_pottery_sherd": {
+    "en": "Firearm Pottery Sherd",
+    "zh": "火器纹样陶片",
+    "vi": null
+  },
+  "item.netherexp.botanical_pottery_sherd": {
+    "en": "Botanical Pottery Sherd",
+    "zh": "植物纹样陶片",
+    "vi": null
+  },
+  "item.netherexp.jackhammer_fist": {
+    "en": "Jackhammer-Fist",
+    "zh": "冲击手锤",
+    "vi": null
+  },
+  "enchantment.netherexp.phantasm_hull.desc": {
+    "en": "Most projectiles will phase through you when sneaking.",
+    "zh": "潜行时使大多数弹射物穿过你的身体。",
+    "vi": null
+  },
+  "enchantment.netherexp.cartridge.desc": {
+    "en": "Has a chance to conserve ammo when using shotguns.",
+    "zh": "使用霰弹炮时有几率不消耗弹药。",
+    "vi": null
+  },
+  "enchantment.netherexp.recoil.desc": {
+    "en": "Increases self pushback of shotguns.",
+    "zh": "增加霰弹炮的后坐力。",
+    "vi": null
+  },
+  "enchantment.netherexp.barrage.desc": {
+    "en": "Increases pellets fired by Shotguns but gets a longer cooldown.",
+    "zh": "增加霰弹炮发射的子弹数量，但延长冷却。",
+    "vi": null
+  },
+  "enchantment.netherexp.artemis.desc": {
+    "en": "Increases the range of projectiles for many ranged weapons.",
+    "zh": "增加多数远程武器的射程。",
+    "vi": null
+  },
+  "item.netherexp.roasted_bone": {
+    "en": "Roasted Bone",
+    "zh": "填馅烤骨头",
+    "vi": null
+  },
+  "block.netherexp.cerebrage_skull": {
+    "en": "Cerebrage Skull",
+    "zh": "脑心菜头颅",
+    "vi": null
+  },
+  "item.netherexp.cerebrage": {
+    "en": "Cerebrage",
+    "zh": "脑心菜",
+    "vi": null
+  },
+  "item.netherexp.cerebrage_seeds": {
+    "en": "Cerebrage Seeds",
+    "zh": "脑心菜种子",
+    "vi": null
+  },
+  "block.netherexp.wraithing_lesion": {
+    "en": "Wraithing Lesion",
+    "zh": "魂缠病变体",
+    "vi": null
+  },
+  "block.netherexp.cerebrage_claret_stem": {
+    "en": "Cerebrage Claret Stem",
+    "zh": "脑干红菌柄",
+    "vi": null
+  },
+  "block.netherexp.cerebrage_claret_hyphae": {
+    "en": "Cerebrage Claret Hyphae",
+    "zh": "脑干红菌核",
+    "vi": null
+  },
+  "advancements.nether.brain_food.title": {
+    "en": "Brain-Food",
+    "zh": "健脑食品",
+    "vi": null
+  },
+  "advancements.nether.brain_food.description": {
+    "en": "Plant Cerebrage Seeds inside a skeleton skull",
+    "zh": "在骷髅头颅中种下脑心菜种子",
+    "vi": null
+  },
+  "advancements.nether.big_brain_time.title": {
+    "en": "Yeah, This is Big Brain Time",
+    "zh": "头好痒，要长脑子了",
+    "vi": null
+  },
+  "advancements.nether.big_brain_time.description": {
+    "en": "Grow a Brain Tree by overgrowing cerebrage with bone-meal",
+    "zh": "通过过度使用骨粉催生出一颗从脑心菜中长出的脑树",
+    "vi": null
+  },
+  "advancements.nether.rodeo_stampede.title": {
+    "en": "Rodeo Stampede",
+    "zh": "疯狂动物园",
+    "vi": null
+  },
+  "advancements.nether.rodeo_stampede.description": {
+    "en": "Befriend a stampede by feeding it roasted bones",
+    "zh": "将填馅烤骨头喂给一只重踏兽并与它交朋友",
+    "vi": null
+  },
+  "subtitles.entity.stampede.ambient": {
+    "en": "Stampede gurgles",
+    "zh": "重踏兽：呻吟",
+    "vi": null
+  },
+  "subtitles.entity.stampede.hurt": {
+    "en": "Stampede hurts",
+    "zh": "重踏兽：受伤",
+    "vi": null
+  },
+  "subtitles.entity.stampede.death": {
+    "en": "Stampede dies",
+    "zh": "重踏兽：死亡",
+    "vi": null
+  },
+  "subtitles.entity.stampede.step": {
+    "en": "Stampede stomps",
+    "zh": "重踏兽：跺脚",
+    "vi": null
+  },
+  "subtitles.entity.stampede.attack": {
+    "en": "Stampede tramples",
+    "zh": "重踏兽：践踏",
+    "vi": null
+  },
+  "subtitles.entity.stampede.eat": {
+    "en": "Stampede chews its food",
+    "zh": "重踏兽：咀嚼",
+    "vi": null
+  },
+  "subtitles.entity.stampede.agitated": {
+    "en": "Stampede gets agitated",
+    "zh": "重踏兽：焦躁",
+    "vi": null
+  },
+  "block.netherexp.black_icicle": {
+    "en": "Black Icicle",
+    "zh": "黑冰冰锥",
+    "vi": null
+  },
+  "block.netherexp.thin_black_ice": {
+    "en": "Thin Black Ice",
+    "zh": "黑冰薄冰",
+    "vi": null
+  },
+  "block.netherexp.soul_permafrost": {
+    "en": "Soul Permafrost",
+    "zh": "灵魂冻土",
+    "vi": null
+  },
+  "advancements.nether.fright_before_xmas.title": {
+    "en": "The Fright Before Xmas",
+    "zh": "圣诞前夕的恐惧",
+    "vi": null
+  },
+  "advancements.nether.fright_before_xmas.description": {
+    "en": "Visit all Soul Sand Valley Sub-Biomes",
+    "zh": "探索所有灵魂沙峡谷子群系",
+    "vi": null
+  },
+  "advancements.nether.black_ice_black_everything_black.title": {
+    "en": "Black Ice, Black Everything Black",
+    "zh": "黑冰中归来",
+    "vi": null
+  },
+  "advancements.nether.black_ice_black_everything_black.description": {
+    "en": "Shoot a Black Icicle using your crossbow",
+    "zh": "使用弩射出一根黑冰冰锥",
+    "vi": null
+  },
+  "subtitles.block.thin_black_ice.cracking": {
+    "en": "Thin Black Ice cracks",
+    "zh": "黑冰薄冰：碎裂",
+    "vi": null
+  },
+  "subtitles.entity.vessel.warn": {
+    "en": "Vessel charges barrel",
+    "zh": "容器：装填",
+    "vi": null
+  },
+  "subtitles.entity.vessel.fire": {
+    "en": "Vessel shoots",
+    "zh": "容器：开火",
+    "vi": null
+  },
+  "effect.netherexp.brain_damage_immunity": {
+    "en": "Brain Damage Immunity",
+    "zh": "脑损伤免疫",
+    "vi": null
+  },
+  "item.netherexp.antidote.effect.brain_damage": {
+    "en": "Antidote for Brain Damage",
+    "zh": "脑损解药",
+    "vi": null
+  },
+  "item.netherexp.grenade_antidote.effect.brain_damage": {
+    "en": "Grenade Antidote for Brain Damage",
+    "zh": "投掷型脑损解药",
+    "vi": null
+  },
+  "block.netherexp.grooved_black_ice": {
+    "en": "Grooved Black Ice",
+    "zh": "划纹黑冰",
+    "vi": null
+  },
+  "block.netherexp.discernment_glass": {
+    "en": "Discernment Glass",
+    "zh": "洞察玻璃",
+    "vi": null
+  },
+  "block.netherexp.haze_block": {
+    "en": "Haze Block",
+    "zh": "云烟方块",
+    "vi": null
+  },
+  "item.netherexp.weeping_helix": {
+    "en": "Weeping Helix",
+    "zh": "垂旋花",
+    "vi": null
+  },
+  "item.netherexp.twisting_helix": {
+    "en": "Twisting Helix",
+    "zh": "缠结花",
+    "vi": null
+  },
+  "subtitles.block.discernment_glass.add": {
+    "en": "Item added to discernment glass",
+    "zh": "洞察玻璃：填充",
+    "vi": null
+  },
+  "subtitles.block.discernment_glass.remove": {
+    "en": "Item removed from discernment glass",
+    "zh": "洞察玻璃：清空",
+    "vi": null
+  },
+  "subtitles.item.pump_charge_shotgun.alarm": {
+    "en": "Pump-Charge Shotgun about to f*!$ing explode",
+    "zh": "泵能霰弹炮：将要炸膛",
+    "vi": null
+  },
+  "subtitles.item.compass.tick": {
+    "en": "Compass ticks",
+    "zh": "指南针：滴答",
+    "vi": null
+  },
+  "death.attack.jackhammer": {
+    "en": "%1$s was hit with a lethal piston-arm",
+    "zh": "%1$s 被致命的活塞击飞了",
+    "vi": null
+  },
+  "death.attack.sorrowsquished": {
+    "en": "%1$s was sorrowsquished",
+    "zh": "%1$s 泪尽而亡",
+    "vi": null
+  },
+  "advancements.nether.sanctum_of_wax.title": {
+    "en": "Sanctum of Wax",
+    "zh": "烛火圣地",
+    "vi": null
+  },
+  "advancements.nether.sanctum_of_wax.description": {
+    "en": "Create a False Carcass by lathering a skeleton in ancient wax",
+    "zh": "通过给一只骷髅涂满远古烛蜡来伪造一只残躯",
+    "vi": null
+  },
+  "advancements.nether.no_skin.title": {
+    "en": "I don't want immortality. I want skin",
+    "zh": "我不想要不朽，我想要皮肤",
+    "vi": null
+  },
+  "advancements.nether.no_skin.description": {
+    "en": "Make a Carcass immortal once more",
+    "zh": "使一只残躯比不朽还要不朽",
+    "vi": null
+  },
+  "biome.netherexp.black_ice_glaciers": {
+    "en": "Black Ice Glaciers",
+    "zh": "黑冰冰川",
+    "vi": null
+  },
+  "biome.netherexp.sorrowsquash_pasture": {
+    "en": "Sorrowsquash Pasture",
+    "zh": "难瓜牧场",
+    "vi": null
+  },
+  "entity.netherexp.false_carcass": {
+    "en": "False Carcass",
+    "zh": "伪造残躯",
+    "vi": null
+  },
+  "item.netherexp.ancient_wax": {
+    "en": "Ancient Wax",
+    "zh": "远古烛蜡",
+    "vi": null
+  },
+  "block.netherexp.ancient_wax_block": {
+    "en": "Ancient Wax Block",
+    "zh": "远古烛蜡块",
+    "vi": null
+  },
+  "block.netherexp.ancient_fire": {
+    "en": "Ancient Fire",
+    "zh": "远古火",
+    "vi": null
+  },
+  "block.netherexp.ancient_torch": {
+    "en": "Ancient Torch",
+    "zh": "远古火把",
+    "vi": null
+  },
+  "block.netherexp.ancient_lantern": {
+    "en": "Ancient Lantern",
+    "zh": "远古灯笼",
+    "vi": null
+  },
+  "block.netherexp.ancient_campfire": {
+    "en": "Ancient Campfire",
+    "zh": "远古营火",
+    "vi": null
+  },
+  "block.netherexp.ancient_candle": {
+    "en": "Ancient Candle",
+    "zh": "远古蜡烛",
+    "vi": null
+  },
+  "block.netherexp.ancient_burning_skull_block": {
+    "en": "Ancient Burning Skull Block",
+    "zh": "远古燃烧的头骨块",
+    "vi": null
+  },
+  "block.netherexp.ancient_burning_wither_skull_block": {
+    "en": "Ancient Burning Wither Skull Block",
+    "zh": "远古燃烧的凋灵头骨块",
+    "vi": null
+  },
+  "block.netherexp.ancient_skeleton_skull_candle": {
+    "en": "Ancient Skeleton Skull Candle",
+    "zh": "骷髅头颅远古蜡烛",
+    "vi": null
+  },
+  "subtitles.entity.carcass.hurt": {
+    "en": "Carcass rattles",
+    "zh": "残躯：咯咯声",
+    "vi": null
+  },
+  "subtitles.entity.carcass.death": {
+    "en": "Carcass collapses",
+    "zh": "残躯：崩解",
+    "vi": null
+  },
+  "subtitles.entity.carcass.reanimate": {
+    "en": "Carcass reanimates",
+    "zh": "残躯：重组",
+    "vi": null
+  },
+  "subtitles.entity.ecto_slab.warn": {
+    "en": "Ecto Slab readies pounce",
+    "zh": "灵阶怪：准备弹跳",
+    "vi": null
+  },
+  "subtitles.item.jackhammer_fist.hit": {
+    "en": "Jackhammer-Fist piston fires",
+    "zh": "冲击手锤：活塞发射",
+    "vi": null
+  },
+  "subtitles.item.jackhammer_fist.loop": {
+    "en": "Jackhammer-Fist gears",
+    "zh": "冲击手锤：咔哒声",
+    "vi": null
+  },
+  "subtitles.item.jackhammer_fist.pull": {
+    "en": "Jackhammer-Fist winding-up",
+    "zh": "冲击手锤：上发条",
+    "vi": null
+  },
+  "entity.netherexp.shotgun_pellet": {
+    "en": "Shotgun Pellet",
+    "zh": "霰弹炮弹",
+    "vi": null
+  },
+  "itemGroup.netherexp.netherexp_tab": {
+    "en": "Jaden's Nether Expansion",
+    "zh": "Jaden的下界扩展",
+    "vi": null
+  },
+  "entity.netherexp.carcass.flame_tutorial": {
+    "en": null,
+    "zh": "空手与残躯交互来取回狡诈烛焰",
+    "vi": null
+  }
+}

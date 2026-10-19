@@ -1,0 +1,16 @@
+{
+    "name": "ati_structures:lighthouse",
+    "fallback": "minecraft:empty",
+    "elements": [
+        {
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "processors": "minecraft:mossify_20_percent",
+                "location": "ati_structures:lighthouse"
+            },
+            
+            "weight": 1
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+  "midnightlib.overview.title": "Tổng quan về MidnightConfig",
+  "midnightlib.midnightconfig.title": "Cấu hình nửa đêmLib",
+  "midnightlib.midnightconfig.config_screen_list": "Bật danh sách màn hình cấu hình",
+  "midnightlib.midnightconfig.enum.ConfigButton.TRUE": "§aCó",
+  "midnightlib.midnightconfig.enum.ConfigButton.FALSE": "§cKhông",
+  "midnightlib.midnightconfig.enum.ConfigButton.MODMENU": "§bModMenu",
+  "midnightlib.midnightconfig.background_texture": "Kết cấu nền màn hình cấu hình",
+  "midnightlib.modrinth": "hiện đại",
+  "midnightlib.curseforge": "Lời nguyền",
+  "midnightlib.wiki": "Wiki",
+  "modmenu.descriptionTranslation.midnightlib": "Thư viện chung cho các mod của Team MidnightDust.\nCung cấp api cấu hình, tích hợp tự động với các mod, tiện ích thông thường và mỹ phẩm khác.",
+  "modmenu.summaryTranslation.midnightlib": "Thư viện chung cho các mod của Team MidnightDust."
+}

@@ -1,0 +1,11 @@
+{
+  "feature": "minecraft:spring_water",
+  "placement": [
+    {
+      "type": "reterraforged:blacklist_dimension",
+      "blacklist": [
+        "minecraft:overworld"
+      ]
+    }
+  ]
+}

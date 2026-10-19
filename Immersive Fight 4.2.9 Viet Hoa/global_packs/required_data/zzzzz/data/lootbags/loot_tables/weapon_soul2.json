@@ -1,0 +1,72 @@
+{
+  "pools": [
+    {
+      "rolls": {
+        "min": 1,
+        "max": 1
+      },
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "cataclysm:coral_spear",
+          "weight": 10
+        },
+        {
+          "type": "minecraft:item",
+          "name": "soul_like_armors_reworked:sickle",
+          "weight": 10
+        },
+        {
+          "type": "minecraft:item",
+          "name": "soul_like_armors_reworked:kata_sword",
+          "weight": 10
+        },
+        {
+          "type": "minecraft:item",
+          "name": "soul_like_armors_reworked:farrondagger",
+          "weight": 10
+        },
+        {
+          "type": "minecraft:item",
+          "name": "soul_like_armors_reworked:moonkatana",
+          "weight": 10
+        },
+        {
+          "type": "minecraft:item",
+          "name": "soul_like_armors_reworked:lightningsword",
+          "weight": 10
+        },
+        {
+          "type": "minecraft:item",
+          "name": "simplyswords:dormant_relic",
+          "weight": 10
+        },
+        {
+          "type": "minecraft:item",
+          "name": "refm:netherite_rapier",
+          "weight": 10
+        },
+        {
+          "type": "minecraft:item",
+          "name": "refm:enderite_rapier",
+          "weight": 10
+        },
+        {
+          "type": "minecraft:item",
+          "name": "born_in_chaos_v1:darkwarblade",
+          "weight": 3
+        },
+        {
+          "type": "minecraft:item",
+          "name": "arsenal:soul_knight_great_sword",
+          "weight": 3
+        },
+        {
+          "type": "minecraft:item",
+          "name": "epicfightx:eternal_night_scythe",
+          "weight": 3
+        }
+      ]
+    }
+  ]
+}

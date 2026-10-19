@@ -1,0 +1,11 @@
+{
+    "replace": false,
+    "values": [
+        "minecraft:dark_forest",
+        "minecraft:jungle",
+        "minecraft:bamboo_jungle",
+        "minecraft:sparse_jungle",
+        "minecraft:mushroom_fields",
+        "minecraft:old_growth_spruce_taiga"
+    ]
+}

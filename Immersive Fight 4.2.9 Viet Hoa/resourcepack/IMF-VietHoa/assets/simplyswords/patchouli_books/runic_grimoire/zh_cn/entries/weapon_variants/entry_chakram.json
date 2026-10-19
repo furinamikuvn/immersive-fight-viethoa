@@ -1,0 +1,26 @@
+{
+  "name": "Hoàn Nhận (Chakram)",
+  "icon": "simplyswords:iron_chakram",
+  "category": "simplyswords:category_weapon_variants",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:iron_chakram",
+      "text": "Vũ khí ném có lưỡi tròn, khi song thủ hai hoàn nhẫn sẽ tung đòn quét diện rộng tấn công toàn bộ mục tiêu quanh mình."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "simplyswords:iron_chakram",
+      "recipe2": "simplyswords:gold_chakram"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "simplyswords:diamond_chakram"
+    },
+    {
+      "type": "patchouli:smithing",
+      "recipe": "simplyswords:netherite_chakram",
+      "recipe2": "simplyswords:runic_chakram"
+    }
+  ]
+}

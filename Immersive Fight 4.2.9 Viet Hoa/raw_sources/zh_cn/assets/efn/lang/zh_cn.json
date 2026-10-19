@@ -1,0 +1,10 @@
+{
+  "tooltip.efn.welcome_message": "",
+  "skill.efn.efn_dodge": "§o§l『翻滚』",
+  "skill.efn.efn_dodge.tooltip": "朝你移动的方向翻滚。 闪避所有袭来的攻击。",
+  "skill.efn.efn_step": "§o§l『跨步』",
+  "skill.efn.efn_step.tooltip": "朝你移动的方向快速移动一小段距离。闪避所有袭来的攻击。",
+  "skill.efn.efn_parry": "§l『招架』",
+  "skill.efn.efn_parry.tooltip": "完美防御可以触发招架，并防止耐力消耗。可以防御远程攻击。",
+  "skill.efn.broadblade.tooltip4": "决意：攻击只命中一个目标时，伤害提升至1.3倍"
+}

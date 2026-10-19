@@ -1,0 +1,1742 @@
+{
+  "effect.plenty_of_golems.thorns": {
+    "en": null,
+    "zh": "荆棘",
+    "vi": "gai"
+  },
+  "item.plenty_of_golems.first_of_the_dungeon_spawn_egg": {
+    "en": null,
+    "zh": "地下城傀儡刷怪蛋",
+    "vi": "Trứng sinh sản của Dungeon Golem"
+  },
+  "entity.not_enough_golems.melon_golem_no_face": {
+    "en": null,
+    "zh": "无脸西瓜傀儡",
+    "vi": "Con rối dưa hấu không mặt"
+  },
+  "entity.not_enough_golems.pyrotechnician_first_of_dispencer": {
+    "en": null,
+    "zh": "烟火发射器傀儡",
+    "vi": "Con rối phóng pháo hoa"
+  },
+  "advancements.is_that_an_enemy_or_ally.title": {
+    "en": null,
+    "zh": "那是敌是友?",
+    "vi": "Đó là bạn hay thù?"
+  },
+  "advancements.he_is_awake.descr": {
+    "en": null,
+    "zh": "唤醒远古海晶石傀儡",
+    "vi": "Đánh thức Golem Prismarine cổ đại"
+  },
+  "entity.plenty_of_golems.stack_golem": {
+    "en": null,
+    "zh": "堆叠傀儡",
+    "vi": "Xếp chồng Golem"
+  },
+  "item.not_enough_golems.stack_golem_spawn_egg": {
+    "en": null,
+    "zh": "堆叠傀儡刷怪蛋",
+    "vi": "Xếp chồng trứng sinh sản Golem"
+  },
+  "advancements.a_sand_giant.descr": {
+    "en": null,
+    "zh": "唤醒沙傀儡 ",
+    "vi": "Đánh thức con golem cát"
+  },
+  "advancements.peter_the_golem_is_here.descr": {
+    "en": null,
+    "zh": "获得发光西瓜头",
+    "vi": "Có được một đầu dưa hấu phát sáng"
+  },
+  "entity.plenty_of_golems.fiery_first_of_dispenser": {
+    "en": null,
+    "zh": "火热发射器傀儡",
+    "vi": "Golem phóng lửa"
+  },
+  "item.not_enough_golems.tiky_mask_boots": {
+    "en": null,
+    "zh": "提基面具靴子",
+    "vi": "giày mặt nạ tiki"
+  },
+  "item.not_enough_golems.obsidian_golem_spawn_egg": {
+    "en": null,
+    "zh": "黑曜石傀儡刷怪蛋",
+    "vi": "Trứng sinh sản Obsidian Golem"
+  },
+  "item.not_enough_golems.dispencer_statue_spawn_egg": {
+    "en": null,
+    "zh": "发射器傀儡雕像刷怪蛋",
+    "vi": "Trứng đẻ ra Tượng Golem"
+  },
+  "entity.plenty_of_golems.amethyst_golem": {
+    "en": null,
+    "zh": "紫水晶傀儡",
+    "vi": "Golem thạch anh tím"
+  },
+  "item.plenty_of_golems.firework_rune": {
+    "en": null,
+    "zh": "烟花符文",
+    "vi": "rune pháo hoa"
+  },
+  "entity.plenty_of_golems.firstof_dungeon_statue": {
+    "en": null,
+    "zh": "地下城傀儡",
+    "vi": "Ngục tối Golem"
+  },
+  "advancements.not_a_dark_oak_log.title": {
+    "en": null,
+    "zh": "并非深色橡木原木",
+    "vi": "Không phải khúc gỗ sồi sẫm màu"
+  },
+  "item.plenty_of_golems.cocoa_bean": {
+    "en": null,
+    "zh": "丛林木板傀儡",
+    "vi": "Golem ván rừng"
+  },
+  "entity.plenty_of_golems.bookshelf_golem": {
+    "en": null,
+    "zh": "书架傀儡",
+    "vi": "con rối kệ sách"
+  },
+  "block.plenty_of_golems.peter_o_lantern": {
+    "en": null,
+    "zh": "发光西瓜头",
+    "vi": "Đầu dưa hấu phát sáng"
+  },
+  "item.plenty_of_golems.bamboo_golem_spawn_egg": {
+    "en": null,
+    "zh": "竹傀儡刷怪蛋",
+    "vi": "Trứng sinh sản Golem tre"
+  },
+  "entity.plenty_of_golems.pyrotechnician_first_of_dispencer": {
+    "en": null,
+    "zh": "烟火发射器傀儡",
+    "vi": "Con rối phóng pháo hoa"
+  },
+  "item.not_enough_golems.fire_rune": {
+    "en": null,
+    "zh": "火焰符文",
+    "vi": "Ấn thạch lửa"
+  },
+  "entity.plenty_of_golems.guardian_of_the_deep": {
+    "en": null,
+    "zh": "深暗守护者",
+    "vi": "Người bảo vệ bóng tối"
+  },
+  "item.not_enough_golems.melon_golem_no_face_spawn_egg": {
+    "en": null,
+    "zh": "无脸西瓜傀儡刷怪蛋",
+    "vi": "Trứng sinh sản rối dưa hấu không mặt"
+  },
+  "item.not_enough_golems.dark_oak_golem_spawn_egg": {
+    "en": null,
+    "zh": "深色橡木傀儡刷怪蛋",
+    "vi": "Trứng sinh sản Golem sồi đen"
+  },
+  "item.plenty_of_golems.melon_golem_spawn_egg": {
+    "en": null,
+    "zh": "西瓜傀儡刷怪蛋",
+    "vi": "Trứng sinh sản Golem dưa hấu"
+  },
+  "entity.plenty_of_golems.stack_golem_mossy_face": {
+    "en": null,
+    "zh": "青苔堆叠傀儡块",
+    "vi": "Khối golem xếp chồng lên nhau"
+  },
+  "item.not_enough_golems.hay_golem_spawn_egg": {
+    "en": null,
+    "zh": "稻草人傀儡刷怪蛋",
+    "vi": "Trứng sinh sản của Bù nhìn Golem"
+  },
+  "item.not_enough_golems.tiky_mask_leggings": {
+    "en": null,
+    "zh": "提基面具护腿",
+    "vi": "Xà cạp mặt nạ Tiki"
+  },
+  "item.plenty_of_golems.seed": {
+    "en": null,
+    "zh": "种子",
+    "vi": "hạt giống"
+  },
+  "advancements.an_obsidian_tower.descr": {
+    "en": null,
+    "zh": "唤醒黑曜石傀儡 ",
+    "vi": "Đánh thức Golem Obsidian"
+  },
+  "key.plenty_of_golems.dartshootmask": {
+    "en": null,
+    "zh": "射出飞镖",
+    "vi": "bắn phi tiêu"
+  },
+  "entity.plenty_of_golems.bamboo_golem": {
+    "en": null,
+    "zh": "竹傀儡",
+    "vi": "con rối tre"
+  },
+  "advancements.two_lil_guys.title": {
+    "en": null,
+    "zh": "双人成行",
+    "vi": "Hai người đi du lịch cùng nhau"
+  },
+  "subtitles.golem_step": {
+    "en": null,
+    "zh": "傀儡行走",
+    "vi": "con rối đi bộ"
+  },
+  "item.plenty_of_golems.dark_oak_golem_statue_spawn_egg": {
+    "en": null,
+    "zh": "深色橡木傀儡雕像刷怪蛋",
+    "vi": "Trứng đẻ trứng của tượng Golem bằng gỗ sồi đen"
+  },
+  "item.plenty_of_golems.dispences_firework": {
+    "en": null,
+    "zh": "发射烟花",
+    "vi": "phóng pháo hoa"
+  },
+  "item.plenty_of_golems.dust_devil_spawn_egg": {
+    "en": null,
+    "zh": "沙旋风刷怪蛋",
+    "vi": "Trứng sinh ra cơn lốc cát"
+  },
+  "entity.plenty_of_golems.smithing_golem_gold": {
+    "en": null,
+    "zh": "锻造傀儡(金)",
+    "vi": "Golem rèn (vàng)"
+  },
+  "entity.plenty_of_golems.smithing_golem_empty": {
+    "en": null,
+    "zh": "锻造傀儡  空白",
+    "vi": "Golem trống giả mạo"
+  },
+  "item.not_enough_golems.pyrotechnician_first_of_dispencer_spawn_egg": {
+    "en": null,
+    "zh": "烟火发射器傀儡刷怪蛋",
+    "vi": "Trứng đẻ trứng Golem bắn pháo hoa"
+  },
+  "item.plenty_of_golems.first_of_sand_statue_spawn_egg": {
+    "en": null,
+    "zh": "沙傀儡雕像刷怪蛋",
+    "vi": "Trứng đẻ trứng của tượng Sand Golem"
+  },
+  "entity.plenty_of_golems.tnt_yeeter": {
+    "en": null,
+    "zh": "TNT投掷者傀儡",
+    "vi": "Con rối ném TNT"
+  },
+  "item.plenty_of_golems.tnt_yeeter_golem_statue": {
+    "en": null,
+    "zh": "TNT投掷者傀儡雕像",
+    "vi": "Tượng rối ném TNT"
+  },
+  "item.plenty_of_golems.ancient_of_prismarine_statue_item": {
+    "en": null,
+    "zh": "远古海晶石傀儡雕像",
+    "vi": "Tượng Golem Prismarine cổ đại"
+  },
+  "item.plenty_of_golems.first_of_basalt_spawn_egg": {
+    "en": null,
+    "zh": "玄武岩傀儡刷怪蛋",
+    "vi": "Trứng đẻ trứng Golem bazan"
+  },
+  "item.plenty_of_golems.bookshelf_tower_spawn_egg": {
+    "en": null,
+    "zh": "附魔塔傀儡刷怪蛋",
+    "vi": "Trứng sinh sản Golem của Tháp Enchant"
+  },
+  "item.not_enough_golems.candle_golem_spawn_egg": {
+    "en": null,
+    "zh": "蜡烛傀儡刷怪蛋",
+    "vi": "Trứng sinh sản nến Golem"
+  },
+  "item.plenty_of_golems.tnt_projectile": {
+    "en": null,
+    "zh": "抛出TNT",
+    "vi": "Ném TNT"
+  },
+  "effect.plenty_of_golems.enchanted": {
+    "en": null,
+    "zh": "附魔",
+    "vi": "Bùa mê"
+  },
+  "entity.not_enough_golems.first_of_the_village": {
+    "en": null,
+    "zh": "村庄傀儡",
+    "vi": "con rối làng"
+  },
+  "item.plenty_of_golems.first_of_sand_statue_item": {
+    "en": null,
+    "zh": "沙傀儡雕像",
+    "vi": "tượng golem cát"
+  },
+  "entity.plenty_of_golems.guardian_of_the_deep_statue": {
+    "en": null,
+    "zh": "深暗守护者雕像",
+    "vi": "Tượng Thần hộ mệnh bóng tối"
+  },
+  "entity.plenty_of_golems.stack_golem_2_piece": {
+    "en": null,
+    "zh": "两块堆叠傀儡",
+    "vi": "Hai con rối xếp chồng lên nhau"
+  },
+  "item.plenty_of_golems.spruce_giant_spawn_egg": {
+    "en": null,
+    "zh": "云杉巨人傀儡刷怪蛋",
+    "vi": "Trứng sinh sản Golem khổng lồ vân sam"
+  },
+  "entity.not_enough_golems.bamboo_golem": {
+    "en": null,
+    "zh": "竹傀儡",
+    "vi": "con rối tre"
+  },
+  "item.not_enough_golems.tiky_mask_chestplate": {
+    "en": null,
+    "zh": "提基面具胸甲",
+    "vi": "Áo giáp mặt nạ Tiki"
+  },
+  "death.attack.ancient_of_prismarine_smash": {
+    "en": null,
+    "zh": "%1$s 被远古海晶石傀儡摧毁了",
+    "vi": "%1$s đã bị phá hủy bởi golem prismarine cổ đại"
+  },
+  "entity.plenty_of_golems.shockwave": {
+    "en": null,
+    "zh": "冲击波",
+    "vi": "sóng xung kích"
+  },
+  "item.plenty_of_golems.melon_seed": {
+    "en": null,
+    "zh": "西瓜种子",
+    "vi": "hạt dưa hấu"
+  },
+  "item.plenty_of_golems.sculk_gauntlet": {
+    "en": null,
+    "zh": "幽匿长臂",
+    "vi": "Cánh tay dài ẩn giấu"
+  },
+  "advancements.not_a_dark_oak_log.descr": {
+    "en": null,
+    "zh": "唤醒深色橡木傀儡 ",
+    "vi": "Đánh thức Golem Dark Oak"
+  },
+  "item.plenty_of_golems.stack_golem_face_spawn_egg": {
+    "en": null,
+    "zh": "堆叠傀儡块刷怪蛋",
+    "vi": "Xếp chồng các khối Golem Trứng sinh sản"
+  },
+  "item.not_enough_golems.stack_golem_3_piece_spawn_egg": {
+    "en": null,
+    "zh": "3块堆叠傀儡刷怪蛋",
+    "vi": "3 quả trứng golem xếp chồng lên nhau"
+  },
+  "item.plenty_of_golems.stack_golem_piece": {
+    "en": null,
+    "zh": "堆叠傀儡块",
+    "vi": "xếp chồng các khối con rối"
+  },
+  "item.plenty_of_golems.punch": {
+    "en": null,
+    "zh": "拳击",
+    "vi": "quyền anh"
+  },
+  "subtitles.better_golem_step": {
+    "en": null,
+    "zh": "跺脚重击",
+    "vi": "dậm chân"
+  },
+  "entity.plenty_of_golems.candle_golem": {
+    "en": null,
+    "zh": "蜡烛傀儡",
+    "vi": "con rối nến"
+  },
+  "item.not_enough_golems.first_of_the_village_statue_spawn_egg": {
+    "en": null,
+    "zh": "村庄傀儡刷怪蛋",
+    "vi": "Trứng sinh sản của làng Golem"
+  },
+  "item.plenty_of_golems.water_bomb": {
+    "en": null,
+    "zh": "水弹",
+    "vi": "bom nước"
+  },
+  "entity.plenty_of_golems.first_of_basalt_statue": {
+    "en": null,
+    "zh": "玄武岩傀儡雕像",
+    "vi": "Tượng Golem bazan"
+  },
+  "item.plenty_of_golems.honey_golem_spawn_egg": {
+    "en": null,
+    "zh": "蜂巢傀儡刷怪蛋",
+    "vi": "Trứng sinh sản Hive Golem"
+  },
+  "item.plenty_of_golems.dirt_pile_spawn_egg": {
+    "en": null,
+    "zh": "土堆傀儡刷怪蛋",
+    "vi": "Trứng sinh sản Golem"
+  },
+  "entity.not_enough_golems.obsidian_golem_statue": {
+    "en": null,
+    "zh": "黑曜石傀儡刷怪蛋",
+    "vi": "Trứng sinh sản Obsidian Golem"
+  },
+  "entity.plenty_of_golems.piston_golem": {
+    "en": null,
+    "zh": "活塞傀儡",
+    "vi": "con rối piston"
+  },
+  "death.attack.ancient_of_prismarine_attack.player": {
+    "en": null,
+    "zh": "%1$s 无法抗衡远古海晶石傀儡",
+    "vi": "%1$s không thể cạnh tranh với golem lăng trụ cổ đại"
+  },
+  "advancements.three_lil_guys.title": {
+    "en": null,
+    "zh": "三口之家",
+    "vi": "gia đình ba người"
+  },
+  "block.not_enough_golems.carved_melon": {
+    "en": null,
+    "zh": "雕刻西瓜",
+    "vi": "khắc dưa hấu"
+  },
+  "advancements.is_that_an_enemy_or_ally.descr": {
+    "en": null,
+    "zh": "唤醒玄武岩傀儡",
+    "vi": "Đánh thức Golem Bazan"
+  },
+  "entity.not_enough_golems.smithing_golem_diamond": {
+    "en": null,
+    "zh": "钻石锻造傀儡",
+    "vi": "Golem rèn kim cương"
+  },
+  "item.not_enough_golems.first_of_dispenser_spawn_egg": {
+    "en": null,
+    "zh": "发射器傀儡刷怪蛋",
+    "vi": "Trứng sinh sản Golem"
+  },
+  "entity.plenty_of_golems.smithing_golem_iron": {
+    "en": null,
+    "zh": "锻造傀儡(铁)",
+    "vi": "Golem rèn (Sắt)"
+  },
+  "advancements.a_sand_giant.title": {
+    "en": null,
+    "zh": "沙巨人",
+    "vi": "cát khổng lồ"
+  },
+  "item.not_enough_golems.fiery_first_of_dispenser_spawn_egg": {
+    "en": null,
+    "zh": "火热发射器傀儡刷怪蛋",
+    "vi": "Trứng sinh sản Golem lửa"
+  },
+  "item.not_enough_golems.stack_golem_4_piece_spawn_egg": {
+    "en": null,
+    "zh": "4块堆叠傀儡刷怪蛋",
+    "vi": "4 quả trứng golem xếp chồng lên nhau"
+  },
+  "entity.plenty_of_golems.obsidian_golem": {
+    "en": null,
+    "zh": "黑曜石傀儡",
+    "vi": "Golem Obsidian"
+  },
+  "advancements.a_shiny_giant.title": {
+    "en": null,
+    "zh": "傀儡闪亮登场",
+    "vi": "Con rối ra mắt lần đầu"
+  },
+  "advancements.he_is_awake.title": {
+    "en": null,
+    "zh": "它苏醒了",
+    "vi": "nó thức dậy"
+  },
+  "subtitles.ancient_hurt": {
+    "en": null,
+    "zh": "傀儡受击",
+    "vi": "Golem bị đánh"
+  },
+  "item.plenty_of_golems.ancient_of_prismarine_spawn_egg": {
+    "en": null,
+    "zh": "远古海晶石傀儡刷怪蛋",
+    "vi": "Trứng đẻ trứng Prismarine Golem cổ đại"
+  },
+  "item.not_enough_golems.smithing_golem_iron_spawn_egg": {
+    "en": null,
+    "zh": "铁锻造傀儡刷怪蛋",
+    "vi": "Trứng sinh sản Golem sắt rèn"
+  },
+  "item.not_enough_golems.melon_seed": {
+    "en": null,
+    "zh": "西瓜种子",
+    "vi": "hạt dưa hấu"
+  },
+  "entity.plenty_of_golems.stone_cutter_golem": {
+    "en": null,
+    "zh": "切石机傀儡",
+    "vi": "Golem cắt đá"
+  },
+  "entity.not_enough_golems.obsidian_golem": {
+    "en": null,
+    "zh": "黑曜石傀儡",
+    "vi": "Golem Obsidian"
+  },
+  "item.not_enough_golems.dark_oak_statue_item": {
+    "en": null,
+    "zh": "深色橡木傀儡雕像",
+    "vi": "tượng con rối bằng gỗ sồi sẫm màu"
+  },
+  "painting.plenty_of_golems.sweet_honey.author": {
+    "en": null,
+    "zh": "未知_186",
+    "vi": "Không rõ_186"
+  },
+  "item.plenty_of_golems.enchanting_golem_spawn_egg": {
+    "en": null,
+    "zh": "附魔台傀儡刷怪蛋",
+    "vi": "Trứng sinh sản Golem trên bàn mê hoặc"
+  },
+  "item.not_enough_golems.firtst_of_basalt_statue_item": {
+    "en": null,
+    "zh": "玄武岩傀儡雕像",
+    "vi": "Tượng Golem bazan"
+  },
+  "entity.plenty_of_golems.ancient_of_prismarine": {
+    "en": null,
+    "zh": "远古海晶石傀儡",
+    "vi": "Golem Prismarine cổ đại"
+  },
+  "entity.not_enough_golems.piston_golem": {
+    "en": null,
+    "zh": "活塞傀儡",
+    "vi": "con rối piston"
+  },
+  "item.not_enough_golems.first_of_sand_spawn_egg": {
+    "en": null,
+    "zh": "沙傀儡刷怪蛋",
+    "vi": "Trứng đẻ trứng Golem cát"
+  },
+  "item.plenty_of_golems.first_of_the_village_spawn_egg": {
+    "en": null,
+    "zh": "村庄傀儡刷怪蛋",
+    "vi": "Trứng sinh sản của làng Golem"
+  },
+  "item.not_enough_golems.amethystgolem_statueitem": {
+    "en": null,
+    "zh": "紫水晶傀儡雕像",
+    "vi": "Tượng Golem thạch anh tím"
+  },
+  "entity.plenty_of_golems.blast_furnace_golem": {
+    "en": null,
+    "zh": "高炉傀儡",
+    "vi": "con rối lò cao"
+  },
+  "item.plenty_of_golems.tnt_ground_golem_spawn_egg": {
+    "en": null,
+    "zh": "强力型TNT傀儡刷怪蛋",
+    "vi": "Trứng sinh ra con rối TNT mạnh mẽ"
+  },
+  "item.plenty_of_golems.spruce_giant_statue_spawn_egg": {
+    "en": null,
+    "zh": "云杉巨人傀儡雕像刷怪蛋",
+    "vi": "Trứng sinh ra tượng Golem khổng lồ vân sam"
+  },
+  "item.plenty_of_golems.powder_snow_golem_spawn_egg": {
+    "en": null,
+    "zh": "细雪傀儡刷怪蛋",
+    "vi": "Trứng sinh sản của golem tuyết"
+  },
+  "item.not_enough_golems.obsidian_golem_statue_spawn_egg": {
+    "en": null,
+    "zh": "黑曜石傀儡雕像刷怪蛋",
+    "vi": "Trứng đẻ trứng tượng Obsidian Golem"
+  },
+  "item.not_enough_golems.seed": {
+    "en": null,
+    "zh": "种子",
+    "vi": "hạt giống"
+  },
+  "item.plenty_of_golems.first_of_dispenser_spawn_egg": {
+    "en": null,
+    "zh": "发射器傀儡刷怪蛋",
+    "vi": "Trứng sinh sản Golem"
+  },
+  "item.plenty_of_golems.tiky_mask_helmet": {
+    "en": null,
+    "zh": "提基面具",
+    "vi": "mặt nạ tiki"
+  },
+  "effect.not_enough_golems.bleed": {
+    "en": null,
+    "zh": "流血",
+    "vi": "chảy máu"
+  },
+  "advancements.one_lil_guy.descr": {
+    "en": null,
+    "zh": "放置一块堆叠傀儡",
+    "vi": "Đặt một golem xếp chồng"
+  },
+  "item.not_enough_golems.dispences_firework": {
+    "en": null,
+    "zh": "发射的烟花火箭",
+    "vi": "Tên lửa pháo hoa được phóng"
+  },
+  "item.plenty_of_golems.fireball": {
+    "en": null,
+    "zh": "火球",
+    "vi": "quả cầu lửa"
+  },
+  "advancements.woooo_firework.title": {
+    "en": null,
+    "zh": "哇哦~~~~~是烟花！",
+    "vi": "Wow~~~~ Pháo hoa đây!"
+  },
+  "item.plenty_of_golems.book": {
+    "en": null,
+    "zh": "书",
+    "vi": "Sách"
+  },
+  "entity.plenty_of_golems.stack_golem_3_piece": {
+    "en": null,
+    "zh": "三块堆叠傀儡",
+    "vi": "Ba con rối xếp chồng lên nhau"
+  },
+  "item.plenty_of_golems.first_of_basalt_statue_item": {
+    "en": null,
+    "zh": "玄武岩傀儡雕像",
+    "vi": "Tượng Golem bazan"
+  },
+  "item.plenty_of_golems.hay_golem_spawn_egg": {
+    "en": null,
+    "zh": "稻草人傀儡刷怪蛋",
+    "vi": "Trứng sinh sản của Bù nhìn Golem"
+  },
+  "item.not_enough_golems.obsidian_golem_statue_item": {
+    "en": null,
+    "zh": "黑曜石傀儡雕像",
+    "vi": "Tượng Golem Obsidian"
+  },
+  "item.plenty_of_golems.smithing_golem_gold_spawn_egg": {
+    "en": null,
+    "zh": "锻造傀儡(金)刷怪蛋",
+    "vi": "Trứng sinh sản quái vật Golem (Vàng) giả mạo"
+  },
+  "item.plenty_of_golems.trohwable_blazerod": {
+    "en": null,
+    "zh": "投掷型烈焰棒",
+    "vi": "Ném que lửa"
+  },
+  "entity.plenty_of_golems.dirt_pile": {
+    "en": null,
+    "zh": "土堆",
+    "vi": "gò đất"
+  },
+  "painting.plenty_of_golems.sweet_baldness.author": {
+    "en": null,
+    "zh": "未知_186",
+    "vi": "Không rõ_186"
+  },
+  "item.plenty_of_golems.enchanted_projectile": {
+    "en": null,
+    "zh": "附魔炮弹",
+    "vi": "Pháo thần công mê hoặc"
+  },
+  "item.plenty_of_golems.dark_oak_statue_item": {
+    "en": null,
+    "zh": "深色橡木傀儡雕像",
+    "vi": "tượng con rối bằng gỗ sồi sẫm màu"
+  },
+  "entity.not_enough_golems.dark_oak_golem_statue": {
+    "en": null,
+    "zh": "深色橡木傀儡雕像",
+    "vi": "tượng con rối bằng gỗ sồi sẫm màu"
+  },
+  "entity.plenty_of_golems.endstone_golem": {
+    "en": null,
+    "zh": "末地石傀儡",
+    "vi": "golem đá cuối"
+  },
+  "entity.not_enough_golems.barrel_golem": {
+    "en": null,
+    "zh": "木桶傀儡",
+    "vi": "con rối thùng"
+  },
+  "subtitles.ancient_idle": {
+    "en": null,
+    "zh": "古老咆哮",
+    "vi": "tiếng gầm cổ xưa"
+  },
+  "entity.not_enough_golems.candle_golem": {
+    "en": null,
+    "zh": "蜡烛傀儡",
+    "vi": "con rối nến"
+  },
+  "entity.plenty_of_golems.dust_devil": {
+    "en": null,
+    "zh": "沙龙卷",
+    "vi": "khối lượng salon"
+  },
+  "advancements.five_lil_guys.descr": {
+    "en": null,
+    "zh": "你完整堆起了一个堆叠傀儡",
+    "vi": "Bạn đã xây dựng được một con rối xếp hoàn chỉnh"
+  },
+  "item.not_enough_golems.tiky_mask_helmet": {
+    "en": null,
+    "zh": "提基面具",
+    "vi": "mặt nạ tiki"
+  },
+  "item.not_enough_golems.amethy_ststatue_spawn_egg": {
+    "en": null,
+    "zh": "紫水晶傀儡雕像刷怪蛋",
+    "vi": "Trứng đẻ trứng tượng thạch anh tím Golem"
+  },
+  "itemGroup.tabplenty_of_golems": {
+    "en": null,
+    "zh": "更多傀儡",
+    "vi": "Thêm con rối"
+  },
+  "item.plenty_of_golems.honey": {
+    "en": null,
+    "zh": "蜂蜜",
+    "vi": "Em yêu"
+  },
+  "item.plenty_of_golems.jungle_plank_golem_spawn_egg": {
+    "en": null,
+    "zh": "丛林木板傀儡刷怪蛋",
+    "vi": "Trứng sinh sản Jungle Plank Golem"
+  },
+  "item.plenty_of_golems.shockwave_spawn_egg": {
+    "en": null,
+    "zh": "冲击波刷怪蛋",
+    "vi": "Trứng sinh ra sóng xung kích"
+  },
+  "painting.plenty_of_golems.sweet_honey.title": {
+    "en": null,
+    "zh": "甜蜜的蜂蜜",
+    "vi": "mật ong ngọt ngào"
+  },
+  "entity.plenty_of_golems.first_of_the_village": {
+    "en": null,
+    "zh": "村庄傀儡",
+    "vi": "con rối làng"
+  },
+  "advancements.can_i_have_an_hand.descr": {
+    "en": null,
+    "zh": "击败幽匿守护者傀儡",
+    "vi": "Đánh bại Golem bảo vệ Nether"
+  },
+  "item.plenty_of_golems.ray_gun": {
+    "en": null,
+    "zh": "射线枪",
+    "vi": "súng bắn tia"
+  },
+  "item.plenty_of_golems.firstof_dungeon_statue_spawn_egg": {
+    "en": null,
+    "zh": "地下城傀儡雕像刷怪蛋",
+    "vi": "Trứng đẻ trứng tượng Golem trong ngục tối"
+  },
+  "item.not_enough_golems.dark_oak_golem_statue_spawn_egg": {
+    "en": null,
+    "zh": "深色橡木傀儡雕像刷怪蛋",
+    "vi": "Trứng đẻ trứng của tượng Golem bằng gỗ sồi đen"
+  },
+  "entity.plenty_of_golems.first_of_the_village_statue": {
+    "en": null,
+    "zh": "村庄傀儡雕像",
+    "vi": "tượng golem làng"
+  },
+  "advancements.that_isnt_any_ordinary_bell.descr": {
+    "en": null,
+    "zh": "唤醒村庄傀儡  ",
+    "vi": "Đánh thức golem làng"
+  },
+  "entity.not_enough_golems.dust_devil": {
+    "en": null,
+    "zh": "沙旋风",
+    "vi": "cơn lốc cát"
+  },
+  "item.plenty_of_golems.blast_furnace_golem_spawn_egg": {
+    "en": null,
+    "zh": "高炉傀儡刷怪蛋",
+    "vi": "Trứng sinh sản Golem lò cao"
+  },
+  "item.plenty_of_golems.guardian_of_the_deep_spawn_egg": {
+    "en": null,
+    "zh": "深暗守护者刷怪蛋",
+    "vi": "Trứng sinh sản của Keeper of Darkness"
+  },
+  "item.not_enough_golems.smithing_golem_empty_spawn_egg": {
+    "en": null,
+    "zh": "锻造傀儡  空白刷蛋",
+    "vi": "Trứng trống Golem giả mạo"
+  },
+  "advancements.peter_the_golem_is_here.title": {
+    "en": null,
+    "zh": "彼得，傀儡来了",
+    "vi": "Peter, con rối tới rồi"
+  },
+  "item.plenty_of_golems.stack_golem_2_piece_spawn_egg": {
+    "en": null,
+    "zh": "两块堆叠傀儡刷怪蛋",
+    "vi": "Hai quả trứng sinh ra golem xếp chồng lên nhau"
+  },
+  "item.not_enough_golems.first_of_basalt_statue_spawn_egg": {
+    "en": null,
+    "zh": "玄武岩傀儡雕像刷怪蛋",
+    "vi": "Trứng đẻ trứng tượng Golem bazan"
+  },
+  "item.plenty_of_golems.nothing": {
+    "en": null,
+    "zh": "啥也没有",
+    "vi": "Không có gì"
+  },
+  "item.plenty_of_golems.the_ancient_anchor": {
+    "en": null,
+    "zh": "古老船锚",
+    "vi": "mỏ neo cổ xưa"
+  },
+  "item.not_enough_golems.honey_golem_spawn_egg": {
+    "en": null,
+    "zh": "蜂巢傀儡刷怪蛋",
+    "vi": "Trứng sinh sản Hive Golem"
+  },
+  "item.plenty_of_golems.spruce_giant_statue_item": {
+    "en": null,
+    "zh": "云杉巨人傀儡雕像",
+    "vi": "Tượng Golem khổng lồ vân sam"
+  },
+  "painting.plenty_of_golems.sweet_baldness.title": {
+    "en": null,
+    "zh": "甜蜜光头",
+    "vi": "Đầu hói ngọt ngào"
+  },
+  "entity.plenty_of_golems.honey_golem": {
+    "en": null,
+    "zh": "蜂巢傀儡",
+    "vi": "tổ ong"
+  },
+  "entity.plenty_of_golems.stack_golem_face": {
+    "en": null,
+    "zh": "堆叠傀儡块",
+    "vi": "xếp chồng các khối con rối"
+  },
+  "entity.plenty_of_golems.stack_golem_4_piece": {
+    "en": null,
+    "zh": "四块堆叠傀儡",
+    "vi": "Bốn con rối xếp chồng lên nhau"
+  },
+  "entity.not_enough_golems.honey_golem": {
+    "en": null,
+    "zh": "蜂巢傀儡",
+    "vi": "tổ ong"
+  },
+  "item.plenty_of_golems.andesite_golemin_spawn_egg": {
+    "en": null,
+    "zh": "安山岩傀儡刷怪蛋",
+    "vi": "Trứng sinh sản Andesite Golem"
+  },
+  "entity.plenty_of_golems.nether_golem": {
+    "en": null,
+    "zh": "下界傀儡",
+    "vi": "Golem địa ngục"
+  },
+  "item.plenty_of_golems.obsidian_golem_statue_spawn_egg": {
+    "en": null,
+    "zh": "黑曜石傀儡雕像刷怪蛋",
+    "vi": "Trứng đẻ trứng tượng Obsidian Golem"
+  },
+  "entity.not_enough_golems.first_of_dispenser": {
+    "en": null,
+    "zh": "发射器傀儡",
+    "vi": "con rối phóng"
+  },
+  "item.plenty_of_golems.dispenser_statue_spawn_egg": {
+    "en": null,
+    "zh": "发射器傀儡雕像刷怪蛋",
+    "vi": "Trứng đẻ ra Tượng Golem"
+  },
+  "item.not_enough_golems.stack_golem_piece": {
+    "en": null,
+    "zh": "堆叠傀儡块",
+    "vi": "xếp chồng các khối con rối"
+  },
+  "item.plenty_of_golems.pyrotechnician_first_of_dispencer_spawn_egg": {
+    "en": null,
+    "zh": "烟火发射器傀儡刷怪蛋",
+    "vi": "Trứng đẻ trứng Golem bắn pháo hoa"
+  },
+  "entity.not_enough_golems.smithing_golem_gold": {
+    "en": null,
+    "zh": "黄金锻造傀儡",
+    "vi": "Golem rèn vàng"
+  },
+  "item.plenty_of_golems.tnt_ground_golem_statue": {
+    "en": null,
+    "zh": "强力型TNT傀儡雕像",
+    "vi": "Tượng con rối TNT mạnh mẽ"
+  },
+  "advancements.angry_birds.descr": {
+    "en": null,
+    "zh": "唤醒云杉巨人傀儡",
+    "vi": "Đánh thức Golem khổng lồ vân sam"
+  },
+  "advancements.a_shiny_giant.descr": {
+    "en": null,
+    "zh": "唤醒紫水晶傀儡",
+    "vi": "Đánh thức Golem thạch anh tím"
+  },
+  "item.not_enough_golems.stack_golem_face_spawn_egg": {
+    "en": null,
+    "zh": "堆叠傀儡脸刷怪蛋",
+    "vi": "Xếp chồng trứng sinh sản mặt Golem"
+  },
+  "entity.plenty_of_golems.obsidian_golem_statue": {
+    "en": null,
+    "zh": "黑曜石傀儡雕像",
+    "vi": "Tượng Golem Obsidian"
+  },
+  "advancements.the_ancient_reamins_ancient.title": {
+    "en": null,
+    "zh": "什么是古老的",
+    "vi": "cái gì là cổ xưa"
+  },
+  "entity.plenty_of_golems.smithing_golem_diamond": {
+    "en": null,
+    "zh": "锻造傀儡(钻石)",
+    "vi": "Golem rèn (Kim cương)"
+  },
+  "entity.plenty_of_golems.first_of_basalt": {
+    "en": null,
+    "zh": "玄武岩傀儡",
+    "vi": "Golem bazan"
+  },
+  "item.not_enough_golems.ray_gun": {
+    "en": null,
+    "zh": "射线枪",
+    "vi": "súng bắn tia"
+  },
+  "entity.not_enough_golems.amethyst_golem": {
+    "en": null,
+    "zh": "紫水晶傀儡",
+    "vi": "Golem thạch anh tím"
+  },
+  "entity.plenty_of_golems.ancient_of_prismarine_statue": {
+    "en": null,
+    "zh": "远古海晶石傀儡雕像",
+    "vi": "Tượng Golem Prismarine cổ đại"
+  },
+  "item.plenty_of_golems.jungle_planks_golem": {
+    "en": null,
+    "zh": "丛林木板傀儡",
+    "vi": "Golem ván rừng"
+  },
+  "entity.plenty_of_golems.barrel_golem": {
+    "en": null,
+    "zh": "木桶傀儡",
+    "vi": "con rối thùng"
+  },
+  "entity.not_enough_golems.amethy_ststatue": {
+    "en": null,
+    "zh": "紫水晶傀儡雕像",
+    "vi": "Tượng Golem thạch anh tím"
+  },
+  "advancements.not_enough_golem_ad.title": {
+    "en": null,
+    "zh": "更多傀儡",
+    "vi": "Thêm con rối"
+  },
+  "item.not_enough_golems.first_of_the_village_spawn_egg": {
+    "en": null,
+    "zh": "村庄傀儡刷怪蛋",
+    "vi": "Trứng sinh sản của làng Golem"
+  },
+  "entity.plenty_of_golems.composter_golem": {
+    "en": null,
+    "zh": "堆肥桶傀儡",
+    "vi": "Con rối thùng phân trộn"
+  },
+  "item.plenty_of_golems.nether_golem_spawn_egg": {
+    "en": null,
+    "zh": "下界傀儡刷怪蛋",
+    "vi": "Trứng sinh sản của Nether Golem"
+  },
+  "entity.plenty_of_golems.enchanting_golem": {
+    "en": null,
+    "zh": "附魔台傀儡",
+    "vi": "Bảng bùa mê Golem"
+  },
+  "advancements.a_strange_spawner.title": {
+    "en": null,
+    "zh": "奇怪的刷怪笼",
+    "vi": "Nơi sinh sản quái vật kỳ lạ"
+  },
+  "item.plenty_of_golems.stack_golem_mossy_face_spawn_egg": {
+    "en": null,
+    "zh": "青苔堆叠傀儡块刷怪蛋",
+    "vi": "Trứng sinh sản khối Golem xếp chồng lên nhau"
+  },
+  "item.plenty_of_golems.endstone_golem_spawn_egg": {
+    "en": null,
+    "zh": "末地石傀儡刷怪蛋",
+    "vi": "Trứng sinh ra golem đá cuối"
+  },
+  "item.plenty_of_golems.log_ball": {
+    "en": null,
+    "zh": "日志球",
+    "vi": "bóng gỗ"
+  },
+  "entity.plenty_of_golems.dark_oak_golem_statue": {
+    "en": null,
+    "zh": "深色橡木傀儡雕像",
+    "vi": "tượng con rối bằng gỗ sồi sẫm màu"
+  },
+  "entity.plenty_of_golems.powder_snow_golem": {
+    "en": null,
+    "zh": "细雪傀儡",
+    "vi": "golem tuyết tốt"
+  },
+  "advancements.four_lil_guys.descr": {
+    "en": null,
+    "zh": "堆叠四块堆叠傀儡",
+    "vi": "Xếp chồng bốn con golem xếp chồng lên nhau"
+  },
+  "entity.plenty_of_golems.spruce_giant": {
+    "en": null,
+    "zh": "云杉巨人傀儡",
+    "vi": "Golem khổng lồ vân sam"
+  },
+  "entity.plenty_of_golems.first_of_sand": {
+    "en": null,
+    "zh": "沙傀儡",
+    "vi": "golem cát"
+  },
+  "item.plenty_of_golems.dart": {
+    "en": null,
+    "zh": "飞镖",
+    "vi": "phi tiêu"
+  },
+  "item.plenty_of_golems.first_of_dispenser_statue_item": {
+    "en": null,
+    "zh": "发射器傀儡雕像",
+    "vi": "Tượng Golem phóng"
+  },
+  "item.not_enough_golems.fireball": {
+    "en": null,
+    "zh": "火球",
+    "vi": "quả cầu lửa"
+  },
+  "item.plenty_of_golems.smithing_golem_empty_spawn_egg": {
+    "en": null,
+    "zh": "锻造傀儡  空白刷怪蛋",
+    "vi": "Trứng sinh sản trống Golem giả mạo"
+  },
+  "subtitles.stomp": {
+    "en": null,
+    "zh": "践踏",
+    "vi": "chà đạp"
+  },
+  "item.plenty_of_golems.guardian_of_the_deep_statue_item": {
+    "en": null,
+    "zh": "深暗守护者雕像",
+    "vi": "Tượng Thần hộ mệnh bóng tối"
+  },
+  "entity.not_enough_golems.stack_golem_2_piece": {
+    "en": null,
+    "zh": "2块堆叠傀儡",
+    "vi": "2 golem xếp chồng"
+  },
+  "item.plenty_of_golems.ancient_of_prismarine_statue_spawn_egg": {
+    "en": null,
+    "zh": "远古海晶石傀儡雕像刷怪蛋",
+    "vi": "Trứng đẻ trứng tượng Prismarine Golem cổ đại"
+  },
+  "item.plenty_of_golems.amethystgolem_statueitem": {
+    "en": null,
+    "zh": "紫水晶傀儡雕像",
+    "vi": "Tượng Golem thạch anh tím"
+  },
+  "item.not_enough_golems.bamboo_golem_spawn_egg": {
+    "en": null,
+    "zh": "竹傀儡刷怪蛋",
+    "vi": "Trứng sinh sản Golem tre"
+  },
+  "entity.not_enough_golems.hay_golem": {
+    "en": null,
+    "zh": "稻草人傀儡",
+    "vi": "con bù nhìn"
+  },
+  "item.not_enough_golems.honey": {
+    "en": null,
+    "zh": "蜂蜜",
+    "vi": "Em yêu"
+  },
+  "item.plenty_of_golems.giant_snow_ball": {
+    "en": null,
+    "zh": "巨大雪球",
+    "vi": "quả cầu tuyết khổng lồ"
+  },
+  "item.plenty_of_golems.stack_golem_4_piece_spawn_egg": {
+    "en": null,
+    "zh": "四块堆叠傀儡刷怪蛋",
+    "vi": "Bốn quả trứng golem xếp chồng lên nhau"
+  },
+  "item.plenty_of_golems.guardian_of_the_deep_statue_spawn_egg": {
+    "en": null,
+    "zh": "深暗守护者刷怪蛋",
+    "vi": "Trứng sinh sản của Keeper of Darkness"
+  },
+  "advancements.three_lil_guys.descr": {
+    "en": null,
+    "zh": "堆叠三块堆叠傀儡",
+    "vi": "Xếp ba con golem xếp chồng lên nhau"
+  },
+  "item.plenty_of_golems.green_book": {
+    "en": null,
+    "zh": "书",
+    "vi": "Sách"
+  },
+  "item.plenty_of_golems.first_of_sand_spawn_egg": {
+    "en": null,
+    "zh": "沙傀儡刷怪蛋",
+    "vi": "Trứng đẻ trứng Golem cát"
+  },
+  "item.plenty_of_golems.obsidian_golem_spawn_egg": {
+    "en": null,
+    "zh": "黑曜石傀儡刷怪蛋",
+    "vi": "Trứng sinh sản Obsidian Golem"
+  },
+  "item.not_enough_golems.smithing_golem_diamond_spawn_egg": {
+    "en": null,
+    "zh": "钻石锻造傀儡刷怪蛋",
+    "vi": "Trứng sinh sản Golem rèn kim cương"
+  },
+  "item.plenty_of_golems.first_of_the_village_statue_item": {
+    "en": null,
+    "zh": "村庄傀儡雕像",
+    "vi": "tượng golem làng"
+  },
+  "entity.not_enough_golems.nether_golem": {
+    "en": null,
+    "zh": "下界傀儡",
+    "vi": "Golem địa ngục"
+  },
+  "item.plenty_of_golems.amethyst_golem_spawn_egg": {
+    "en": null,
+    "zh": "紫水晶傀儡刷怪蛋",
+    "vi": "Trứng sinh sản thạch anh tím Golem"
+  },
+  "key.not_enough_golems.dartshootmask": {
+    "en": null,
+    "zh": "射击飞镖",
+    "vi": "bắn phi tiêu"
+  },
+  "entity.not_enough_golems.first_of_sand_statue": {
+    "en": null,
+    "zh": "沙傀儡雕像",
+    "vi": "tượng golem cát"
+  },
+  "item.plenty_of_golems.stone_cutter_golem_spawn_egg": {
+    "en": null,
+    "zh": "切石机傀儡刷怪蛋",
+    "vi": "Trứng sinh sản Stonecutter Golem"
+  },
+  "advancements.first_of_oak_20.title": {
+    "en": null,
+    "zh": "橡树2.0？这不可能!",
+    "vi": "Gỗ sồi 2.0? Điều này là không thể!"
+  },
+  "death.attack.ancient_of_prismarine_anchor": {
+    "en": null,
+    "zh": "%1$s 被远古船锚击中头部",
+    "vi": "%1$s bị mỏ neo cổ đập vào đầu"
+  },
+  "entity.not_enough_golems.blast_furnace_golem": {
+    "en": null,
+    "zh": "高炉傀儡",
+    "vi": "con rối lò cao"
+  },
+  "item.plenty_of_golems.first_of_basalt_statue_spawn_egg": {
+    "en": null,
+    "zh": "玄武岩傀儡雕像刷怪蛋",
+    "vi": "Trứng đẻ trứng tượng Golem bazan"
+  },
+  "advancements.that_some_spicy_taco_bell.descr": {
+    "en": null,
+    "zh": "用火焰符文赋予发射器傀儡发射火球能力",
+    "vi": "Sử dụng Fire Rune để cung cấp cho Launcher Golem khả năng bắn những quả cầu lửa."
+  },
+  "item.plenty_of_golems.stack_golem_spawn_egg": {
+    "en": null,
+    "zh": "堆叠傀儡刷怪蛋",
+    "vi": "Xếp chồng trứng sinh sản Golem"
+  },
+  "entity.plenty_of_golems.hay_golem": {
+    "en": null,
+    "zh": "稻草人傀儡",
+    "vi": "con bù nhìn"
+  },
+  "item.plenty_of_golems.fire_rune": {
+    "en": null,
+    "zh": "火焰符文",
+    "vi": "Ấn thạch lửa"
+  },
+  "entity.not_enough_golems.first_of_basalt_statue": {
+    "en": null,
+    "zh": "玄武岩傀儡雕像",
+    "vi": "Tượng Golem bazan"
+  },
+  "item.plenty_of_golems.candle_golem_spawn_egg": {
+    "en": null,
+    "zh": "蜡烛傀儡刷怪蛋",
+    "vi": "Trứng sinh sản nến Golem"
+  },
+  "advancements.that_isnt_any_ordinary_bell.title": {
+    "en": null,
+    "zh": "那不是一个普通的钟!",
+    "vi": "Đó không phải là đồng hồ bình thường!"
+  },
+  "entity.not_enough_golems.stack_golem_face": {
+    "en": null,
+    "zh": "堆叠傀儡脸",
+    "vi": "mặt rối xếp chồng lên nhau"
+  },
+  "gui.not_enough_golems.barrell_golem_gui.label_barrell_golem": {
+    "en": null,
+    "zh": "木桶傀儡",
+    "vi": "con rối thùng"
+  },
+  "item.plenty_of_golems.smithing_golem_diamond_spawn_egg": {
+    "en": null,
+    "zh": "锻造傀儡(钻石)刷怪蛋",
+    "vi": "Trứng sinh sản quái vật Golem (Kim cương) rèn"
+  },
+  "item.not_enough_golems.first_of_the_village_statue_item": {
+    "en": null,
+    "zh": "村庄傀儡雕像",
+    "vi": "tượng golem làng"
+  },
+  "block.plenty_of_golems.carved_melon": {
+    "en": null,
+    "zh": "雕刻西瓜",
+    "vi": "khắc dưa hấu"
+  },
+  "entity.plenty_of_golems.dispenser_statue": {
+    "en": null,
+    "zh": "发射器傀儡雕像",
+    "vi": "Tượng Golem phóng"
+  },
+  "block.plenty_of_golems.light_invisible": {
+    "en": null,
+    "zh": "不可见光",
+    "vi": "ánh sáng vô hình"
+  },
+  "item.not_enough_golems.stone_cutter_golem_spawn_egg": {
+    "en": null,
+    "zh": "切石机傀儡刷怪蛋",
+    "vi": "Trứng sinh sản Stonecutter Golem"
+  },
+  "entity.plenty_of_golems.melon_golem_no_face": {
+    "en": null,
+    "zh": "去头西瓜傀儡",
+    "vi": "Con rối dưa hấu không đầu"
+  },
+  "item.plenty_of_golems.arrow": {
+    "en": null,
+    "zh": "箭",
+    "vi": "mũi tên"
+  },
+  "item.plenty_of_golems.tnt_air_golem_spawn_egg": {
+    "en": null,
+    "zh": "空中型TNT傀儡刷怪蛋",
+    "vi": "Trứng sinh ra con rối TNT trên không"
+  },
+  "advancements.four_lil_guys.title": {
+    "en": null,
+    "zh": "四世同堂",
+    "vi": "Bốn thế hệ chung sống dưới một mái nhà"
+  },
+  "entity.plenty_of_golems.wool_golem": {
+    "en": null,
+    "zh": "羊毛傀儡",
+    "vi": "con rối len"
+  },
+  "entity.plenty_of_golems.first_of_the_dungeon": {
+    "en": null,
+    "zh": "地下城傀儡",
+    "vi": "Ngục tối Golem"
+  },
+  "item.plenty_of_golems.dirt_golem_spawn_egg": {
+    "en": null,
+    "zh": "泥土傀儡刷怪蛋",
+    "vi": "Trứng đẻ trứng Golem đất sét"
+  },
+  "entity.plenty_of_golems.dirt_golem": {
+    "en": null,
+    "zh": "泥土傀儡",
+    "vi": "con golem đất sét"
+  },
+  "item.plenty_of_golems.smithing_golem_iron_spawn_egg": {
+    "en": null,
+    "zh": "锻造傀儡(铁)刷怪蛋",
+    "vi": "Trứng sinh sản quái vật Golem (sắt) rèn"
+  },
+  "item.plenty_of_golems.bookshelf_golem_spawn_egg": {
+    "en": null,
+    "zh": "书架傀儡刷怪蛋",
+    "vi": "Kệ sách trứng sinh sản Golem"
+  },
+  "item_group.plenty_of_golems.plenty_of_golems": {
+    "en": null,
+    "zh": "更多傀儡",
+    "vi": "Thêm con rối"
+  },
+  "entity.not_enough_golems.stone_cutter_golem": {
+    "en": null,
+    "zh": "切石机傀儡",
+    "vi": "Golem cắt đá"
+  },
+  "entity.plenty_of_golems.andesite_golemin": {
+    "en": null,
+    "zh": "安山岩傀儡",
+    "vi": "Golem Andesit"
+  },
+  "entity.not_enough_golems.melon_golem": {
+    "en": null,
+    "zh": "西瓜傀儡",
+    "vi": "con rối dưa hấu"
+  },
+  "item.plenty_of_golems.logo": {
+    "en": null,
+    "zh": "Logo",
+    "vi": "Logo"
+  },
+  "subtitles.bonk": {
+    "en": null,
+    "zh": "顶",
+    "vi": "đứng đầu"
+  },
+  "entity.not_enough_golems.first_of_basalt": {
+    "en": null,
+    "zh": "玄武岩傀儡",
+    "vi": "Golem bazan"
+  },
+  "gui.plenty_of_golems.barrell_golem_gui.label_barrell_golem": {
+    "en": null,
+    "zh": "木桶傀儡",
+    "vi": "con rối thùng"
+  },
+  "item.plenty_of_golems.amethy_ststatue_spawn_egg": {
+    "en": null,
+    "zh": "紫水晶傀儡雕像刷怪蛋",
+    "vi": "Trứng đẻ trứng tượng thạch anh tím Golem"
+  },
+  "item.not_enough_golems.first_of_sand_statue_spawn_egg": {
+    "en": null,
+    "zh": "沙傀儡雕像刷怪蛋",
+    "vi": "Trứng đẻ trứng của tượng Sand Golem"
+  },
+  "item.plenty_of_golems.beam": {
+    "en": null,
+    "zh": "横梁",
+    "vi": "chùm tia"
+  },
+  "item.not_enough_golems.stack_golem_mossy_face_spawn_egg": {
+    "en": null,
+    "zh": "青苔堆叠傀儡脸刷怪蛋",
+    "vi": "Trứng sinh sản mặt Golem xếp chồng lên nhau"
+  },
+  "item.plenty_of_golems.tnt_air_golem_statue": {
+    "en": null,
+    "zh": "空中型TNT傀儡雕像",
+    "vi": "Tượng rối TNT trên không"
+  },
+  "entity.plenty_of_golems.melon_golem": {
+    "en": null,
+    "zh": "西瓜傀儡",
+    "vi": "con rối dưa hấu"
+  },
+  "advancements.the_skulk_guardian.descr": {
+    "en": null,
+    "zh": "唤醒幽匿守护者傀儡",
+    "vi": "Đánh thức Golem hộ mệnh Nether"
+  },
+  "entity.not_enough_golems.composter_golem": {
+    "en": null,
+    "zh": "堆肥桶傀儡",
+    "vi": "Con rối thùng phân trộn"
+  },
+  "item.not_enough_golems.trohwable_blazerod": {
+    "en": null,
+    "zh": "投掷型烈焰棒",
+    "vi": "Ném que lửa"
+  },
+  "entity.not_enough_golems.stack_golem_3_piece": {
+    "en": null,
+    "zh": "3块堆叠傀儡",
+    "vi": "3 con rối xếp chồng lên nhau"
+  },
+  "effect.plenty_of_golems.bleed": {
+    "en": null,
+    "zh": "流血",
+    "vi": "chảy máu"
+  },
+  "item.plenty_of_golems.golems_staff": {
+    "en": null,
+    "zh": "傀儡指挥杖",
+    "vi": "dùi cui con rối"
+  },
+  "item.plenty_of_golems.stack_golem_3_piece_spawn_egg": {
+    "en": null,
+    "zh": "三块堆叠傀儡刷怪蛋",
+    "vi": "Ba quả trứng golem xếp chồng lên nhau"
+  },
+  "entity.not_enough_golems.dark_oak_golem": {
+    "en": null,
+    "zh": "深色橡木傀儡",
+    "vi": "Golem Sồi Đen"
+  },
+  "entity.not_enough_golems.first_of_sand": {
+    "en": null,
+    "zh": "沙傀儡",
+    "vi": "golem cát"
+  },
+  "advancements.the_ancient_reamins_ancient.descr": {
+    "en": null,
+    "zh": "击败远古海晶石傀儡",
+    "vi": "Đánh bại Prismarine Golem cổ đại"
+  },
+  "death.attack.ancient_of_prismarine_attack": {
+    "en": null,
+    "zh": "%1$s 无法抗衡远古海晶石傀儡",
+    "vi": "%1$s không thể cạnh tranh với golem lăng trụ cổ đại"
+  },
+  "item.plenty_of_golems.barrel_golem_spawn_egg": {
+    "en": null,
+    "zh": "木桶傀儡刷怪蛋",
+    "vi": "Trứng sinh sản thùng Golem"
+  },
+  "advancements.angry_birds.title": {
+    "en": null,
+    "zh": "愤怒的小鸟?",
+    "vi": "Những con chim giận dữ?"
+  },
+  "item.plenty_of_golems.first_of_the_village_statue_spawn_egg": {
+    "en": null,
+    "zh": "村庄傀儡刷怪蛋",
+    "vi": "Trứng sinh sản của làng Golem"
+  },
+  "item.plenty_of_golems.melon_golem_no_face_spawn_egg": {
+    "en": null,
+    "zh": "去头西瓜傀儡刷怪蛋",
+    "vi": "Trứng sinh sản của con rối dưa hấu không đầu"
+  },
+  "block.not_enough_golems.peter_o_lantern": {
+    "en": null,
+    "zh": "雕刻西瓜",
+    "vi": "khắc dưa hấu"
+  },
+  "item.not_enough_golems.firework_rune": {
+    "en": null,
+    "zh": "烟花符文",
+    "vi": "rune pháo hoa"
+  },
+  "item.plenty_of_golems.blue_book": {
+    "en": null,
+    "zh": "书",
+    "vi": "Sách"
+  },
+  "entity.not_enough_golems.stack_golem_mossy_face": {
+    "en": null,
+    "zh": "青苔堆叠傀儡脸",
+    "vi": "Mặt rối xếp chồng rêu"
+  },
+  "item.plenty_of_golems.wool_golem_spawn_egg": {
+    "en": null,
+    "zh": "羊毛傀儡刷怪蛋",
+    "vi": "Trứng sinh sản len Golem"
+  },
+  "item.not_enough_golems.composter_golem_spawn_egg": {
+    "en": null,
+    "zh": "堆肥桶傀儡刷怪蛋",
+    "vi": "Trứng đẻ trứng Golem Xô phân trộn"
+  },
+  "advancements.a_strange_spawner.descr": {
+    "en": null,
+    "zh": "唤醒地下城傀儡 ",
+    "vi": "Đánh thức ngục tối Golem"
+  },
+  "entity.not_enough_golems.dispencer_statue": {
+    "en": null,
+    "zh": "发射器傀儡雕像",
+    "vi": "Tượng Golem phóng"
+  },
+  "entity.plenty_of_golems.dark_oak_golem": {
+    "en": null,
+    "zh": "深色橡木傀儡",
+    "vi": "Golem Sồi Đen"
+  },
+  "item.plenty_of_golems.obsidian_golem_statue_item": {
+    "en": null,
+    "zh": "黑曜石傀儡雕像",
+    "vi": "Tượng Golem Obsidian"
+  },
+  "entity.plenty_of_golems.amethy_ststatue": {
+    "en": null,
+    "zh": "紫水晶傀儡雕像",
+    "vi": "Tượng Golem thạch anh tím"
+  },
+  "advancements.not_enough_golem_ad.descr": {
+    "en": null,
+    "zh": "安装本模组:)",
+    "vi": "Cài đặt mod này :)"
+  },
+  "item.not_enough_golems.dust_devil_spawn_egg": {
+    "en": null,
+    "zh": "沙旋风刷怪蛋",
+    "vi": "Trứng sinh ra cơn lốc cát"
+  },
+  "entity.not_enough_golems.first_of_the_village_statue": {
+    "en": null,
+    "zh": "村庄傀儡雕像",
+    "vi": "tượng golem làng"
+  },
+  "item.not_enough_golems.arrow": {
+    "en": null,
+    "zh": "箭",
+    "vi": "mũi tên"
+  },
+  "entity.not_enough_golems.smithing_golem_iron": {
+    "en": null,
+    "zh": "铁锻造傀儡",
+    "vi": "Golem rèn sắt"
+  },
+  "item.plenty_of_golems.tnt_yeeter_spawn_egg": {
+    "en": null,
+    "zh": "TNT投掷者傀儡刷怪蛋",
+    "vi": "Trứng sinh sản Golem của TNT Thrower"
+  },
+  "entity.not_enough_golems.smithing_golem_empty": {
+    "en": null,
+    "zh": "空白锻造傀儡",
+    "vi": "Golem rèn trống"
+  },
+  "item.not_enough_golems.dart": {
+    "en": null,
+    "zh": "飞镖",
+    "vi": "phi tiêu"
+  },
+  "advancements.that_some_spicy_taco_bell.title": {
+    "en": null,
+    "zh": "那是香辣塔可贝尔",
+    "vi": "Đó là Taco Bell cay"
+  },
+  "effect.plenty_of_golems.glazed": {
+    "en": null,
+    "zh": "平滑的",
+    "vi": "trơn tru"
+  },
+  "item.plenty_of_golems.composter_golem_spawn_egg": {
+    "en": null,
+    "zh": "堆肥桶傀儡刷怪蛋",
+    "vi": "Trứng đẻ trứng Golem Xô phân trộn"
+  },
+  "item.not_enough_golems.amethyst_golem_spawn_egg": {
+    "en": null,
+    "zh": "紫水晶傀儡刷怪蛋",
+    "vi": "Trứng sinh sản thạch anh tím Golem"
+  },
+  "item.not_enough_golems.smithing_golem_gold_spawn_egg": {
+    "en": null,
+    "zh": "金锻造傀儡刷怪蛋",
+    "vi": "Trứng sinh sản Golem rèn vàng"
+  },
+  "entity.plenty_of_golems.spruce_giant_statue": {
+    "en": null,
+    "zh": "云杉巨人傀儡雕像",
+    "vi": "Tượng Golem khổng lồ vân sam"
+  },
+  "advancements.the_skulk_guardian.title": {
+    "en": null,
+    "zh": "狡猾的噶殿",
+    "vi": "Kaden xảo quyệt"
+  },
+  "entity.plenty_of_golems.tnt_air_golem": {
+    "en": null,
+    "zh": "空中型TNT傀儡",
+    "vi": "Con rối TNT trên không"
+  },
+  "item.plenty_of_golems.fiery_first_of_dispenser_spawn_egg": {
+    "en": null,
+    "zh": "火热发射器傀儡刷怪蛋",
+    "vi": "Trứng sinh sản Golem lửa"
+  },
+  "entity.plenty_of_golems.bookshelf_tower": {
+    "en": null,
+    "zh": "附魔塔傀儡",
+    "vi": "Tháp Golem mê hoặc"
+  },
+  "item.not_enough_golems.first_of_basalt_spawn_egg": {
+    "en": null,
+    "zh": "玄武岩傀儡刷怪蛋",
+    "vi": "Trứng đẻ trứng Golem bazan"
+  },
+  "entity.plenty_of_golems.jungle_plank_golem": {
+    "en": null,
+    "zh": "丛林木板傀儡",
+    "vi": "Golem ván rừng"
+  },
+  "entity.not_enough_golems.fiery_first_of_dispenser": {
+    "en": null,
+    "zh": "火热发射器傀儡",
+    "vi": "Golem phóng lửa"
+  },
+  "item.plenty_of_golems.dark_oak_golem_spawn_egg": {
+    "en": null,
+    "zh": "深色橡木傀儡刷怪蛋",
+    "vi": "Trứng sinh sản Golem sồi đen"
+  },
+  "advancements.five_lil_guys.title": {
+    "en": null,
+    "zh": "五福临门!!!",
+    "vi": "Năm phước lành đến trước cửa nhà bạn!!!"
+  },
+  "item.not_enough_golems.punch": {
+    "en": null,
+    "zh": "拳击",
+    "vi": "quyền anh"
+  },
+  "advancements.first_of_oak_20.descr": {
+    "en": null,
+    "zh": "唤醒发射器傀儡",
+    "vi": "Đánh thức con rối phát"
+  },
+  "item.plenty_of_golems.piston_golem_spawn_egg": {
+    "en": null,
+    "zh": "活塞傀儡刷怪蛋",
+    "vi": "Trứng sinh sản Piston Golem"
+  },
+  "effect.not_enough_golems.glazed": {
+    "en": null,
+    "zh": "平滑的",
+    "vi": "trơn tru"
+  },
+  "block.not_enough_golems.light_invisible": {
+    "en": null,
+    "zh": "不可见光",
+    "vi": "ánh sáng vô hình"
+  },
+  "item.plenty_of_golems.nail": {
+    "en": null,
+    "zh": "钉子",
+    "vi": "móng tay"
+  },
+  "item.not_enough_golems.stack_golem_2_piece_spawn_egg": {
+    "en": null,
+    "zh": "2块堆叠傀儡刷怪蛋",
+    "vi": "2 quả trứng golem xếp chồng lên nhau"
+  },
+  "advancements.can_i_have_an_hand.title": {
+    "en": null,
+    "zh": "我能搭把手吗?",
+    "vi": "Tôi có thể giúp được không?"
+  },
+  "item.not_enough_golems.melon_golem_spawn_egg": {
+    "en": null,
+    "zh": "西瓜傀儡刷怪蛋",
+    "vi": "Trứng sinh sản Golem dưa hấu"
+  },
+  "entity.plenty_of_golems.tnt_ground_golem": {
+    "en": null,
+    "zh": "强力型TNT傀儡",
+    "vi": "Con rối TNT mạnh mẽ"
+  },
+  "item.not_enough_golems.piston_golem_spawn_egg": {
+    "en": null,
+    "zh": "活塞傀儡刷怪蛋",
+    "vi": "Trứng sinh sản Piston Golem"
+  },
+  "item.plenty_of_golems.first_of_the_dungeon_statue_item": {
+    "en": null,
+    "zh": "地下城傀儡雕像",
+    "vi": "Tượng Golem ngục tối"
+  },
+  "entity.plenty_of_golems.first_of_sand_statue": {
+    "en": null,
+    "zh": "沙傀儡雕像",
+    "vi": "tượng golem cát"
+  },
+  "item.not_enough_golems.blast_furnace_golem_spawn_egg": {
+    "en": null,
+    "zh": "高炉傀儡刷怪蛋",
+    "vi": "Trứng sinh sản Golem lò cao"
+  },
+  "item.not_enough_golems.nether_golem_spawn_egg": {
+    "en": null,
+    "zh": "下界傀儡刷怪蛋",
+    "vi": "Trứng sinh sản của Nether Golem"
+  },
+  "advancements.one_lil_guy.title": {
+    "en": null,
+    "zh": "形单影只",
+    "vi": "một mình"
+  },
+  "item.not_enough_golems.first_of_sand_statue_item": {
+    "en": null,
+    "zh": "沙傀儡雕像 ",
+    "vi": "tượng golem cát"
+  },
+  "item.not_enough_golems.logo": {
+    "en": null,
+    "zh": "Logo",
+    "vi": "Logo"
+  },
+  "entity.plenty_of_golems.first_of_dispenser": {
+    "en": null,
+    "zh": "发射器傀儡",
+    "vi": "con rối phóng"
+  },
+  "subtitles.roar": {
+    "en": null,
+    "zh": "远古觉醒",
+    "vi": "sự thức tỉnh cổ xưa"
+  },
+  "entity.not_enough_golems.stack_golem_4_piece": {
+    "en": null,
+    "zh": "4块堆叠傀儡",
+    "vi": "4 con rối xếp chồng lên nhau"
+  },
+  "item.not_enough_golems.barrel_golem_spawn_egg": {
+    "en": null,
+    "zh": "木桶傀儡刷怪蛋",
+    "vi": "Trứng sinh sản thùng Golem"
+  },
+  "item.not_enough_golems.beam": {
+    "en": null,
+    "zh": "横梁",
+    "vi": "chùm tia"
+  },
+  "advancements.an_obsidian_tower.title": {
+    "en": null,
+    "zh": "黑曜石高塔",
+    "vi": "Tháp Obsidian"
+  },
+  "entity.not_enough_golems.stack_golem": {
+    "en": null,
+    "zh": "堆叠傀儡",
+    "vi": "Xếp chồng Golem"
+  },
+  "item.not_enough_golems.first_of_basalt_statue_item": {
+    "en": null,
+    "zh": "玄武岩傀儡雕像",
+    "vi": "Tượng Golem bazan"
+  },
+  "advancements.two_lil_guys.descr": {
+    "en": null,
+    "zh": "堆叠两块堆叠傀儡",
+    "vi": "Xếp chồng hai golem xếp chồng lên nhau"
+  },
+  "advancements.woooo_firework.descr": {
+    "en": null,
+    "zh": "用烟火符文升级发射器傀儡，使其能发射烟火",
+    "vi": "Nâng cấp Launcher Golem với Pyrotechnic Rune để có thể bắn pháo hoa"
+  }
+}

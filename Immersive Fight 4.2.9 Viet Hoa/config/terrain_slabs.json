@@ -1,0 +1,15 @@
+{
+  "enableSlabGeneration": true,
+  "enableVegetationOnSlabs": true,
+  "enableSnowOnSlabs": true,
+  "fluidsDestroyGeneration": true,
+  "fireBlocksOffset": false,
+  "enableExperimentalFeatures": false,
+  "enableCornerSlabs": false,
+  "slabRunLength": 1,
+  "adjustSlabAo": 0.5,
+  "ontopIncludeBlocks": [],
+  "onbottomIncludeBlocks": [],
+  "ontopExcludeBlocks": [],
+  "onbottomExcludeBlocks": []
+}

@@ -1,0 +1,4947 @@
+{
+  "advancements.regions_unexplored.ancient_specimens.description": {
+    "en": "Collect every Bioshroom Stem type.",
+    "zh": "收集所有种类的生荧菌柄。",
+    "vi": "Thu thập tất cả các loài có chứa chất phát huỳnh quang."
+  },
+  "advancements.regions_unexplored.ancient_specimens.title": {
+    "en": "Ancient Specimens",
+    "zh": "远古标本",
+    "vi": "mẫu vật cổ xưa"
+  },
+  "advancements.regions_unexplored.blind_as_a_bat.description": {
+    "en": "Consume a Duskmelon.",
+    "zh": "吃下一块黄昏瓜片。",
+    "vi": "Ăn một lát dưa hoàng hôn."
+  },
+  "advancements.regions_unexplored.blind_as_a_bat.title": {
+    "en": "Blind as a Bat",
+    "zh": "瞎如蝙蝠",
+    "vi": "Mù như một con dơi"
+  },
+  "advancements.regions_unexplored.description": {
+    "en": "Discover the many biomes and explore the world!",
+    "zh": "走遍世界，探索每个新的生物群系！",
+    "vi": "Du lịch khắp thế giới và khám phá từng quần xã sinh vật mới!"
+  },
+  "advancements.regions_unexplored.downer.description": {
+    "en": "Walk through and take damage from a Dorcel Flower.",
+    "zh": "从多塞尔草中穿行并受到伤害。",
+    "vi": "Đi qua đám cỏ Dorser và nhận sát thương."
+  },
+  "advancements.regions_unexplored.downer.title": {
+    "en": "Downer",
+    "zh": "脚下的家伙",
+    "vi": "Anh chàng ở dưới chân mình"
+  },
+  "advancements.regions_unexplored.eternal_expedition.description": {
+    "en": "Venture into all Nether biomes from Regions Unexplored!",
+    "zh": "探索完来自《未至之地》的所有下界生物群系！",
+    "vi": "Khám phá tất cả các quần xã Nether từ The Land Yet!"
+  },
+  "advancements.regions_unexplored.eternal_expedition.title": {
+    "en": "Eternal Expedition",
+    "zh": "永步向前",
+    "vi": "Tiếp tục tiến về phía trước"
+  },
+  "advancements.regions_unexplored.every_bit_of_the_rainbow.description": {
+    "en": "Collect or craft every colour of the Snowbelle Flower.",
+    "zh": "收集或合成所有颜色种类的山梅花。",
+    "vi": "Thu thập hoặc tổng hợp hoa mận núi đủ màu sắc."
+  },
+  "advancements.regions_unexplored.every_bit_of_the_rainbow.title": {
+    "en": "Every Bit of the Rainbow",
+    "zh": "彩虹的每一面",
+    "vi": "mọi phía của cầu vồng"
+  },
+  "advancements.regions_unexplored.from_the_tree_tops.description": {
+    "en": "Hang from a Kapok tree's vines.",
+    "zh": "在木棉树的气生根上攀爬。",
+    "vi": "Leo lên rễ trên không của cây bông gòn."
+  },
+  "advancements.regions_unexplored.from_the_tree_tops.title": {
+    "en": "From the Tree Tops",
+    "zh": "自树顶而下",
+    "vi": "Đi xuống từ ngọn cây"
+  },
+  "advancements.regions_unexplored.got_wood.description": {
+    "en": "Collect every log from Regions Unexplored.",
+    "zh": "收集来自《未至之地》的所有种类的原木。",
+    "vi": "Thu thập tất cả các loại nhật ký từ The Land Yet."
+  },
+  "advancements.regions_unexplored.got_wood.title": {
+    "en": "Got Wood?",
+    "zh": "获得木头？",
+    "vi": "Lấy gỗ?"
+  },
+  "advancements.regions_unexplored.light_as_a_frog.description": {
+    "en": "Walk or bounce on a Giant Lily Pad.",
+    "zh": "在巨型莲叶上行走或跳跃。",
+    "vi": "Đi bộ hoặc nhảy trên lá sen khổng lồ."
+  },
+  "advancements.regions_unexplored.light_as_a_frog.title": {
+    "en": "Light as a Frog",
+    "zh": "轻如青蛙",
+    "vi": "Nhẹ như ếch"
+  },
+  "advancements.regions_unexplored.light_snack.description": {
+    "en": "Consume a Hanging Earlight Fruit.",
+    "zh": "吃下一个悬垂耳灯果。",
+    "vi": "Ăn trái cây tai mặt dây chuyền."
+  },
+  "advancements.regions_unexplored.light_snack.title": {
+    "en": "Light Snack",
+    "zh": "会发光的小吃",
+    "vi": "đồ ăn nhẹ phát sáng"
+  },
+  "advancements.regions_unexplored.mycologist.description": {
+    "en": "Collect every Bioshroom type.",
+    "zh": "收集所有种类的生荧菇。",
+    "vi": "Thu thập tất cả các loại Nấm phát sáng."
+  },
+  "advancements.regions_unexplored.mycologist.title": {
+    "en": "Mycologist",
+    "zh": "真菌学家",
+    "vi": "nhà nấm học"
+  },
+  "advancements.regions_unexplored.pioneer.description": {
+    "en": "Explore all Surface biomes from Regions Unexplored!",
+    "zh": "探索完来自《未至之地》的所有地面生物群系！",
+    "vi": "Khám phá tất cả các quần xã sinh vật trên mặt đất từ ​​Land Not Yet!"
+  },
+  "advancements.regions_unexplored.pioneer.title": {
+    "en": "Pioneer",
+    "zh": "先驱者",
+    "vi": "người tiên phong"
+  },
+  "advancements.regions_unexplored.regions_explored.description": {
+    "en": "You've explored all the biomes from Regions Unexplored",
+    "zh": "你已经探索完来自《未至之地》的所有生物群系！",
+    "vi": "Bạn đã khám phá tất cả quần xã sinh vật từ Land Not Yet!"
+  },
+  "advancements.regions_unexplored.regions_explored.title": {
+    "en": "Regions Explored",
+    "zh": "已至之地",
+    "vi": "nơi đã đạt tới"
+  },
+  "advancements.regions_unexplored.spelunker.description": {
+    "en": "Find all Cave biomes from Regions Unexplored!",
+    "zh": "探索完来自《未至之地》的所有洞穴生物群系！",
+    "vi": "Khám phá tất cả quần xã sinh vật hang động từ Land Not Yet!"
+  },
+  "advancements.regions_unexplored.spelunker.title": {
+    "en": "Spelunker",
+    "zh": "探洞爱好者",
+    "vi": "Những người đam mê thám hiểm hang động"
+  },
+  "advancements.regions_unexplored.this_tree_bleeds_red.description": {
+    "en": "Chop down a Socotra tree.",
+    "zh": "砍倒一颗龙血树。",
+    "vi": "Chặt cây máu rồng."
+  },
+  "advancements.regions_unexplored.this_tree_bleeds_red.title": {
+    "en": "This Tree Bleeds Red",
+    "zh": "会流血的树",
+    "vi": "cây chảy máu"
+  },
+  "advancements.regions_unexplored.title": {
+    "en": "Regions Unexplored",
+    "zh": "未至之地",
+    "vi": "Một nơi chưa được ghé thăm"
+  },
+  "biome.regions_unexplored.alpha_grove": {
+    "en": "Alpha Grove",
+    "zh": "始源森林",
+    "vi": "Rừng Nguyên"
+  },
+  "biome.regions_unexplored.ancient_delta": {
+    "en": "Ancient Delta",
+    "zh": "远古三角洲",
+    "vi": "đồng bằng cổ đại"
+  },
+  "biome.regions_unexplored.arid_mountains": {
+    "en": "Arid Mountains",
+    "zh": "干旱山地",
+    "vi": "vùng núi khô hạn"
+  },
+  "biome.regions_unexplored.ashen_woodland": {
+    "en": "Ashen Woodland",
+    "zh": "余烬森林",
+    "vi": "Rừng than hồng"
+  },
+  "biome.regions_unexplored.autumnal_maple_forest": {
+    "en": "Autumnal Maple Forest",
+    "zh": "秋季枫树林",
+    "vi": "Rừng phong mùa thu"
+  },
+  "biome.regions_unexplored.bamboo_forest": {
+    "en": "Bamboo Forest",
+    "zh": "竹林",
+    "vi": "rừng tre"
+  },
+  "biome.regions_unexplored.baobab_savanna": {
+    "en": "Baobab Savanna",
+    "zh": "热带猴面包树草原",
+    "vi": "Xavan baobab nhiệt đới"
+  },
+  "biome.regions_unexplored.barley_fields": {
+    "en": "Barley Fields",
+    "zh": "大麦原野",
+    "vi": "cánh đồng lúa mạch"
+  },
+  "biome.regions_unexplored.bayou": {
+    "en": "Bayou",
+    "zh": "河口沼泽",
+    "vi": "đầm lầy cửa sông"
+  },
+  "biome.regions_unexplored.bioshroom_caves": {
+    "en": "Bioshroom Caves",
+    "zh": "生荧菇洞穴",
+    "vi": "Hang Nấm Phát Sáng"
+  },
+  "biome.regions_unexplored.blackstone_basin": {
+    "en": "Blackstone Basin",
+    "zh": "黑石盆地",
+    "vi": "lưu vực đá đen"
+  },
+  "biome.regions_unexplored.blackwood_taiga": {
+    "en": "Blackwood Taiga",
+    "zh": "黑檀针叶林",
+    "vi": "Gỗ mun Taiga"
+  },
+  "biome.regions_unexplored.boreal_taiga": {
+    "en": "Boreal Taiga",
+    "zh": "北方针叶林",
+    "vi": "rừng phương bắc"
+  },
+  "biome.regions_unexplored.chalk_cliffs": {
+    "en": "Chalk Cliffs",
+    "zh": "白垩峭壁",
+    "vi": "vách đá phấn"
+  },
+  "biome.regions_unexplored.clover_plains": {
+    "en": "Clover Plains",
+    "zh": "三叶草平原",
+    "vi": "đồng bằng cỏ ba lá"
+  },
+  "biome.regions_unexplored.cold_boreal_taiga": {
+    "en": "Cold Boreal Taiga",
+    "zh": "寒冷北方针叶林",
+    "vi": "rừng phương bắc lạnh giá"
+  },
+  "biome.regions_unexplored.cold_deciduous_forest": {
+    "en": "Cold Deciduous Forest",
+    "zh": "寒冷落叶林",
+    "vi": "rừng rụng lá lạnh"
+  },
+  "biome.regions_unexplored.cold_river": {
+    "en": "Cold River",
+    "zh": "冷河",
+    "vi": "sông lạnh"
+  },
+  "biome.regions_unexplored.deciduous_forest": {
+    "en": "Deciduous Forest",
+    "zh": "落叶林",
+    "vi": "rừng rụng lá"
+  },
+  "biome.regions_unexplored.dry_bushland": {
+    "en": "Dry Bushland",
+    "zh": "干旱灌木林",
+    "vi": "vùng cây bụi khô"
+  },
+  "biome.regions_unexplored.eucalyptus_forest": {
+    "en": "Eucalyptus Forest",
+    "zh": "桉树林",
+    "vi": "rừng bạch đàn"
+  },
+  "biome.regions_unexplored.fen": {
+    "en": "Fen",
+    "zh": "低地沼泽",
+    "vi": "đầm lầy vùng đất thấp"
+  },
+  "biome.regions_unexplored.flower_fields": {
+    "en": "Flower Fields",
+    "zh": "繁花原野",
+    "vi": "Cánh đồng hoa"
+  },
+  "biome.regions_unexplored.frozen_pine_taiga": {
+    "en": "Frozen Pine Taiga",
+    "zh": "冰冻松树针叶林",
+    "vi": "Rừng lá kim thông đông lạnh"
+  },
+  "biome.regions_unexplored.frozen_tundra": {
+    "en": "Frozen Tundra",
+    "zh": "冻原",
+    "vi": "lãnh nguyên"
+  },
+  "biome.regions_unexplored.fungal_fen": {
+    "en": "Fungal Fen",
+    "zh": "真菌低地沼泽",
+    "vi": "đầm lầy nấm vùng đất thấp"
+  },
+  "biome.regions_unexplored.glistering_meadow": {
+    "en": "Glistering Meadow",
+    "zh": "闪烁草甸",
+    "vi": "đồng cỏ lấp lánh"
+  },
+  "biome.regions_unexplored.golden_boreal_taiga": {
+    "en": "Golden Boreal Taiga",
+    "zh": "金色北方针叶林",
+    "vi": "rừng phương bắc vàng"
+  },
+  "biome.regions_unexplored.grassland": {
+    "en": "Grassland",
+    "zh": "草原",
+    "vi": "đồng cỏ"
+  },
+  "biome.regions_unexplored.grassy_beach": {
+    "en": "Grassy Beach",
+    "zh": "长草海滩",
+    "vi": "Bãi cỏ trải dài"
+  },
+  "biome.regions_unexplored.gravel_beach": {
+    "en": "Gravel Beach",
+    "zh": "沙砾海滩",
+    "vi": "bãi biển sỏi"
+  },
+  "biome.regions_unexplored.highland_fields": {
+    "en": "Highland Fields",
+    "zh": "高地原野",
+    "vi": "Cánh đồng cao nguyên"
+  },
+  "biome.regions_unexplored.hyacinth_deeps": {
+    "en": "Hyacinth Deeps",
+    "zh": "海魔芋深渊",
+    "vi": "Vực vô định hình"
+  },
+  "biome.regions_unexplored.icy_heights": {
+    "en": "Icy Heights",
+    "zh": "寒冰高地",
+    "vi": "Cao nguyên băng"
+  },
+  "biome.regions_unexplored.infernal_holt": {
+    "en": "Infernal Holt",
+    "zh": "地狱之林",
+    "vi": "rừng địa ngục"
+  },
+  "biome.regions_unexplored.joshua_desert": {
+    "en": "Joshua Desert",
+    "zh": "约书亚沙漠",
+    "vi": "sa mạc joshua"
+  },
+  "biome.regions_unexplored.magnolia_woodland": {
+    "en": "Magnolia Woodland",
+    "zh": "木兰林",
+    "vi": "rừng mộc lan"
+  },
+  "biome.regions_unexplored.maple_forest": {
+    "en": "Maple Forest",
+    "zh": "枫树林",
+    "vi": "Rừng phong"
+  },
+  "biome.regions_unexplored.marsh": {
+    "en": "Marsh",
+    "zh": "湿地",
+    "vi": "đất ngập nước"
+  },
+  "biome.regions_unexplored.mauve_hills": {
+    "en": "Mauve Hills",
+    "zh": "魅紫丘陵",
+    "vi": "Đồi tím quyến rũ"
+  },
+  "biome.regions_unexplored.mountains": {
+    "en": "Mountains",
+    "zh": "山地",
+    "vi": "Núi"
+  },
+  "biome.regions_unexplored.muddy_river": {
+    "en": "Muddy River",
+    "zh": "浑水河",
+    "vi": "sông nước đục ngầu"
+  },
+  "biome.regions_unexplored.mycotoxic_undergrowth": {
+    "en": "Mycotoxic Undergrowth",
+    "zh": "毒菌灌木林",
+    "vi": "bụi cây nấm"
+  },
+  "biome.regions_unexplored.old_growth_bayou": {
+    "en": "Old Growth Bayou",
+    "zh": "原始河口沼泽",
+    "vi": "đầm lầy cửa sông nguyên thủy"
+  },
+  "biome.regions_unexplored.orchard": {
+    "en": "Orchard",
+    "zh": "果树林",
+    "vi": "vườn trái cây"
+  },
+  "biome.regions_unexplored.outback": {
+    "en": "Outback",
+    "zh": "内陆",
+    "vi": "nội địa"
+  },
+  "biome.regions_unexplored.pine_slopes": {
+    "en": "Pine Slopes",
+    "zh": "松树山坡",
+    "vi": "sườn đồi thông"
+  },
+  "biome.regions_unexplored.pine_taiga": {
+    "en": "Pine Taiga",
+    "zh": "松树针叶林",
+    "vi": "rừng lá kim thông"
+  },
+  "biome.regions_unexplored.poppy_fields": {
+    "en": "Poppy Fields",
+    "zh": "虞美人原野",
+    "vi": "Cánh đồng thuốc phiện"
+  },
+  "biome.regions_unexplored.prairie": {
+    "en": "Prairie",
+    "zh": "北美草原",
+    "vi": "thảo nguyên Bắc Mỹ"
+  },
+  "biome.regions_unexplored.prismachasm": {
+    "en": "Prismachasm",
+    "zh": "彩虹水晶洞穴",
+    "vi": "Hang pha lê cầu vồng"
+  },
+  "biome.regions_unexplored.pumpkin_fields": {
+    "en": "Pumpkin Fields",
+    "zh": "南瓜原野",
+    "vi": "Cánh đồng bí ngô"
+  },
+  "biome.regions_unexplored.rainforest": {
+    "en": "Rainforest",
+    "zh": "雨林",
+    "vi": "rừng nhiệt đới"
+  },
+  "biome.regions_unexplored.redstone_abyss": {
+    "en": "Redstone Abyss",
+    "zh": "红石深渊",
+    "vi": "Vực thẳm đá đỏ"
+  },
+  "biome.regions_unexplored.redstone_caves": {
+    "en": "Redstone Caves",
+    "zh": "红石洞穴",
+    "vi": "hang đá đỏ"
+  },
+  "biome.regions_unexplored.redwoods": {
+    "en": "Redwoods",
+    "zh": "红衫林",
+    "vi": "rừng gỗ đỏ"
+  },
+  "biome.regions_unexplored.rocky_meadow": {
+    "en": "Rocky Meadow",
+    "zh": "裸岩草甸",
+    "vi": "đồng cỏ đá trọc"
+  },
+  "biome.regions_unexplored.rocky_reef": {
+    "en": "Rocky Reef",
+    "zh": "岩礁",
+    "vi": "rạn đá"
+  },
+  "biome.regions_unexplored.saguaro_desert": {
+    "en": "Saguaro Desert",
+    "zh": "巨人柱沙漠",
+    "vi": "Sa mạc Trụ cột khổng lồ"
+  },
+  "biome.regions_unexplored.scorching_caves": {
+    "en": "Scorching Caves",
+    "zh": "炙热洞穴",
+    "vi": "Hang Nóng"
+  },
+  "biome.regions_unexplored.shrubland": {
+    "en": "Shrubland",
+    "zh": "灌木林",
+    "vi": "vùng cây bụi"
+  },
+  "biome.regions_unexplored.silver_birch_forest": {
+    "en": "Silver Birch Forest",
+    "zh": "银桦林",
+    "vi": "rừng bạch dương bạc"
+  },
+  "biome.regions_unexplored.sparse_rainforest": {
+    "en": "Sparse Rainforest",
+    "zh": "稀树雨林",
+    "vi": "xavan"
+  },
+  "biome.regions_unexplored.sparse_redwoods": {
+    "en": "Sparse Redwoods",
+    "zh": "稀树红衫林",
+    "vi": "rừng gỗ đỏ thưa thớt"
+  },
+  "biome.regions_unexplored.spires": {
+    "en": "Spires",
+    "zh": "尖刺冰原",
+    "vi": "Sân băng có gai"
+  },
+  "biome.regions_unexplored.steppe": {
+    "en": "Steppe",
+    "zh": "干草原",
+    "vi": "thảo nguyên"
+  },
+  "biome.regions_unexplored.temperate_grove": {
+    "en": "Temperate Grove",
+    "zh": "温和果树林",
+    "vi": "Rừng trái cây ôn đới"
+  },
+  "biome.regions_unexplored.towering_cliffs": {
+    "en": "Towering Cliffs",
+    "zh": "陡崖",
+    "vi": "vách đá dựng đứng"
+  },
+  "biome.regions_unexplored.tropical_river": {
+    "en": "Tropical River",
+    "zh": "热带河流",
+    "vi": "sông nhiệt đới"
+  },
+  "biome.regions_unexplored.tropics": {
+    "en": "Tropics",
+    "zh": "热带",
+    "vi": "nhiệt đới"
+  },
+  "biome.regions_unexplored.willow_forest": {
+    "en": "Willow Forest",
+    "zh": "柳树林",
+    "vi": "rừng liễu"
+  },
+  "block.regions_unexplored.acacia_branch": {
+    "en": "Acacia Branch",
+    "zh": "金合欢树枝",
+    "vi": "Acacia Branch"
+  },
+  "block.regions_unexplored.acacia_shrub": {
+    "en": "Acacia Shrub",
+    "zh": "金合欢灌木",
+    "vi": "Acacia Shrub"
+  },
+  "block.regions_unexplored.alpha_dandelion": {
+    "en": "Alpha Dandelion",
+    "zh": "始源蒲公英",
+    "vi": "Alpha Dandelion"
+  },
+  "block.regions_unexplored.alpha_grass_block": {
+    "en": "Alpha Grass Block",
+    "zh": "始源草方块",
+    "vi": "Alpha Grass Block"
+  },
+  "block.regions_unexplored.alpha_leaves": {
+    "en": "Alpha Leaves",
+    "zh": "始源树叶",
+    "vi": "Alpha Leaves"
+  },
+  "block.regions_unexplored.alpha_log": {
+    "en": "Alpha Log",
+    "zh": "始源原木",
+    "vi": "Alpha Log"
+  },
+  "block.regions_unexplored.alpha_planks": {
+    "en": "Alpha Planks",
+    "zh": "始源木板",
+    "vi": "Alpha Planks"
+  },
+  "block.regions_unexplored.alpha_rose": {
+    "en": "Alpha Rose",
+    "zh": "始源玫瑰",
+    "vi": "Alpha Rose"
+  },
+  "block.regions_unexplored.alpha_sapling": {
+    "en": "Alpha Sapling",
+    "zh": "始源树苗",
+    "vi": "Alpha Sapling"
+  },
+  "block.regions_unexplored.alpha_slab": {
+    "en": "Alpha Slab",
+    "zh": "始源木台阶",
+    "vi": "Alpha Slab"
+  },
+  "block.regions_unexplored.alpha_stairs": {
+    "en": "Alpha Stairs",
+    "zh": "始源木楼梯",
+    "vi": "Alpha Stairs"
+  },
+  "block.regions_unexplored.apple_oak_leaves": {
+    "en": "Apple Oak Leaves",
+    "zh": "苹果橡树树叶",
+    "vi": "Apple Oak Leaves"
+  },
+  "block.regions_unexplored.apple_oak_sapling": {
+    "en": "Apple Oak Sapling",
+    "zh": "苹果橡树树苗",
+    "vi": "Apple Oak Sapling"
+  },
+  "block.regions_unexplored.argillite": {
+    "en": "Argillite",
+    "zh": "泥板岩",
+    "vi": "Argillite"
+  },
+  "block.regions_unexplored.argillite_grass_block": {
+    "en": "Argillite Grass Block",
+    "zh": "泥板岩草方块",
+    "vi": "Argillite Grass Block"
+  },
+  "block.regions_unexplored.ash": {
+    "en": "Ash",
+    "zh": "灰烬",
+    "vi": "Ash"
+  },
+  "block.regions_unexplored.ash_vent": {
+    "en": "Ash Vent",
+    "zh": "喷灰石",
+    "vi": "Ash Vent"
+  },
+  "block.regions_unexplored.ashen_dirt": {
+    "en": "Ashen Dirt",
+    "zh": "余烬泥土",
+    "vi": "Ashen Dirt"
+  },
+  "block.regions_unexplored.ashen_grass": {
+    "en": "Ashen Grass",
+    "zh": "余烬草",
+    "vi": "Ashen Grass"
+  },
+  "block.regions_unexplored.ashen_leaves": {
+    "en": "Ashen Leaves",
+    "zh": "余烬树树叶",
+    "vi": "Ashen Leaves"
+  },
+  "block.regions_unexplored.ashen_log": {
+    "en": "Ashen Log",
+    "zh": "余烬树原木",
+    "vi": "Ashen Log"
+  },
+  "block.regions_unexplored.ashen_sapling": {
+    "en": "Ashen Sapling",
+    "zh": "余烬树苗",
+    "vi": "Ashen Sapling"
+  },
+  "block.regions_unexplored.ashen_shrub": {
+    "en": "Ashen Shrub",
+    "zh": "余烬灌木",
+    "vi": "Ashen Shrub"
+  },
+  "block.regions_unexplored.ashen_wood": {
+    "en": "Ashen Wood",
+    "zh": "余烬木",
+    "vi": "Ashen Wood"
+  },
+  "block.regions_unexplored.aster": {
+    "en": "Aster",
+    "zh": "紫菀",
+    "vi": "Aster"
+  },
+  "block.regions_unexplored.bamboo_leaves": {
+    "en": "Bamboo Leaves",
+    "zh": "竹叶",
+    "vi": "Bamboo Leaves"
+  },
+  "block.regions_unexplored.bamboo_log": {
+    "en": "Bamboo Log",
+    "zh": "竹竿",
+    "vi": "Bamboo Log"
+  },
+  "block.regions_unexplored.bamboo_sapling": {
+    "en": "Bamboo Sapling",
+    "zh": "竹苗",
+    "vi": "Bamboo Sapling"
+  },
+  "block.regions_unexplored.baobab_branch": {
+    "en": "Baobab Branch",
+    "zh": "竹枝",
+    "vi": "Baobab Branch"
+  },
+  "block.regions_unexplored.baobab_button": {
+    "en": "Baobab Button",
+    "zh": "猴面包木按钮",
+    "vi": "Baobab Button"
+  },
+  "block.regions_unexplored.baobab_door": {
+    "en": "Baobab Door",
+    "zh": "猴面包木门",
+    "vi": "Baobab Door"
+  },
+  "block.regions_unexplored.baobab_fence": {
+    "en": "Baobab Fence",
+    "zh": "猴面包木栅栏",
+    "vi": "Baobab Fence"
+  },
+  "block.regions_unexplored.baobab_fence_gate": {
+    "en": "Baobab Fence Gate",
+    "zh": "猴面包木栅栏门",
+    "vi": "Baobab Fence Gate"
+  },
+  "block.regions_unexplored.baobab_hanging_sign": {
+    "en": "Baobab Hanging Sign",
+    "zh": "悬挂式猴面包木告示牌",
+    "vi": "Baobab Hanging Sign"
+  },
+  "block.regions_unexplored.baobab_leaves": {
+    "en": "Baobab Leaves",
+    "zh": "猴面包树叶",
+    "vi": "Baobab Leaves"
+  },
+  "block.regions_unexplored.baobab_log": {
+    "en": "Baobab Log",
+    "zh": "猴面包原木",
+    "vi": "Baobab Log"
+  },
+  "block.regions_unexplored.baobab_planks": {
+    "en": "Baobab Planks",
+    "zh": "猴面包木板",
+    "vi": "Baobab Planks"
+  },
+  "block.regions_unexplored.baobab_pressure_plate": {
+    "en": "Baobab Pressure Plate",
+    "zh": "猴面包木压力板",
+    "vi": "Baobab Pressure Plate"
+  },
+  "block.regions_unexplored.baobab_sapling": {
+    "en": "Baobab Sapling",
+    "zh": "猴面包树苗",
+    "vi": "Baobab Sapling"
+  },
+  "block.regions_unexplored.baobab_shrub": {
+    "en": "Baobab Shrub",
+    "zh": "猴面包灌木",
+    "vi": "Baobab Shrub"
+  },
+  "block.regions_unexplored.baobab_sign": {
+    "en": "Baobab Sign",
+    "zh": "猴面包木告示牌",
+    "vi": "Baobab Sign"
+  },
+  "block.regions_unexplored.baobab_slab": {
+    "en": "Baobab Slab",
+    "zh": "猴面包木台阶",
+    "vi": "Baobab Slab"
+  },
+  "block.regions_unexplored.baobab_stairs": {
+    "en": "Baobab Stairs",
+    "zh": "猴面包木楼梯",
+    "vi": "Baobab Stairs"
+  },
+  "block.regions_unexplored.baobab_trapdoor": {
+    "en": "Baobab Trapdoor",
+    "zh": "猴面包木活板门",
+    "vi": "Baobab Trapdoor"
+  },
+  "block.regions_unexplored.baobab_wood": {
+    "en": "Baobab Wood",
+    "zh": "猴面包木",
+    "vi": "Baobab Wood"
+  },
+  "block.regions_unexplored.barley": {
+    "en": "Barley",
+    "zh": "大麦",
+    "vi": "Barley"
+  },
+  "block.regions_unexplored.barrel_cactus": {
+    "en": "Barrel Cactus",
+    "zh": "仙人球",
+    "vi": "Barrel Cactus"
+  },
+  "block.regions_unexplored.birch_branch": {
+    "en": "Birch Branch",
+    "zh": "桦树枝",
+    "vi": "Birch Branch"
+  },
+  "block.regions_unexplored.birch_shrub": {
+    "en": "Birch Shrub",
+    "zh": "白桦灌木",
+    "vi": "Birch Shrub"
+  },
+  "block.regions_unexplored.black_painted_planks": {
+    "en": "Black Painted Planks",
+    "zh": "黑色染色木板",
+    "vi": "Black Painted Planks"
+  },
+  "block.regions_unexplored.black_painted_slab": {
+    "en": "Black Painted Slab",
+    "zh": "黑色染色木台阶",
+    "vi": "Black Painted Slab"
+  },
+  "block.regions_unexplored.black_painted_stairs": {
+    "en": "Black Painted Stairs",
+    "zh": "黑色染色木楼梯",
+    "vi": "Black Painted Stairs"
+  },
+  "block.regions_unexplored.black_snowbelle": {
+    "en": "Black Snowbelle",
+    "zh": "黑色山梅花",
+    "vi": "Black Snowbelle"
+  },
+  "block.regions_unexplored.blackstone_cluster": {
+    "en": "Blackstone Cluster",
+    "zh": "黑石晶簇",
+    "vi": "Blackstone Cluster"
+  },
+  "block.regions_unexplored.blackwood_branch": {
+    "en": "Blackwood Branch",
+    "zh": "黑檀树枝",
+    "vi": "Blackwood Branch"
+  },
+  "block.regions_unexplored.blackwood_button": {
+    "en": "Blackwood Button",
+    "zh": "黑檀木按钮",
+    "vi": "Blackwood Button"
+  },
+  "block.regions_unexplored.blackwood_door": {
+    "en": "Blackwood Door",
+    "zh": "黑檀木门",
+    "vi": "Blackwood Door"
+  },
+  "block.regions_unexplored.blackwood_fence": {
+    "en": "Blackwood Fence",
+    "zh": "黑檀木栅栏",
+    "vi": "Blackwood Fence"
+  },
+  "block.regions_unexplored.blackwood_fence_gate": {
+    "en": "Blackwood Fence Gate",
+    "zh": "黑檀木栅栏门",
+    "vi": "Blackwood Fence Gate"
+  },
+  "block.regions_unexplored.blackwood_hanging_sign": {
+    "en": "Blackwood Hanging Sign",
+    "zh": "悬挂式黑檀木告示牌",
+    "vi": "Blackwood Hanging Sign"
+  },
+  "block.regions_unexplored.blackwood_leaves": {
+    "en": "Blackwood Leaves",
+    "zh": "黑檀树叶",
+    "vi": "Blackwood Leaves"
+  },
+  "block.regions_unexplored.blackwood_log": {
+    "en": "Blackwood Log",
+    "zh": "黑檀原木",
+    "vi": "Blackwood Log"
+  },
+  "block.regions_unexplored.blackwood_planks": {
+    "en": "Blackwood Planks",
+    "zh": "黑檀木板",
+    "vi": "Blackwood Planks"
+  },
+  "block.regions_unexplored.blackwood_pressure_plate": {
+    "en": "Blackwood Pressure Plate",
+    "zh": "黑檀木压力板",
+    "vi": "Blackwood Pressure Plate"
+  },
+  "block.regions_unexplored.blackwood_sapling": {
+    "en": "Blackwood Sapling",
+    "zh": "黑檀树苗",
+    "vi": "Blackwood Sapling"
+  },
+  "block.regions_unexplored.blackwood_shrub": {
+    "en": "Blackwood Shrub",
+    "zh": "黑檀灌木",
+    "vi": "Blackwood Shrub"
+  },
+  "block.regions_unexplored.blackwood_sign": {
+    "en": "Blackwood Sign",
+    "zh": "黑檀木告示牌",
+    "vi": "Blackwood Sign"
+  },
+  "block.regions_unexplored.blackwood_slab": {
+    "en": "Blackwood Slab",
+    "zh": "黑檀木台阶",
+    "vi": "Blackwood Slab"
+  },
+  "block.regions_unexplored.blackwood_stairs": {
+    "en": "Blackwood Stairs",
+    "zh": "黑檀木楼梯",
+    "vi": "Blackwood Stairs"
+  },
+  "block.regions_unexplored.blackwood_trapdoor": {
+    "en": "Blackwood Trapdoor",
+    "zh": "黑檀木活板门",
+    "vi": "Blackwood Trapdoor"
+  },
+  "block.regions_unexplored.blackwood_wood": {
+    "en": "Blackwood Wood",
+    "zh": "黑檀木",
+    "vi": "Blackwood Wood"
+  },
+  "block.regions_unexplored.bladed_grass": {
+    "en": "Bladed Grass",
+    "zh": "刀刃草",
+    "vi": "Bladed Grass"
+  },
+  "block.regions_unexplored.bladed_tall_grass": {
+    "en": "Bladed Tall Grass",
+    "zh": "高刀刃草丛",
+    "vi": "Bladed Tall Grass"
+  },
+  "block.regions_unexplored.bleeding_heart": {
+    "en": "Bleeding Heart",
+    "zh": "荷包牡丹",
+    "vi": "Bleeding Heart"
+  },
+  "block.regions_unexplored.blue_bioshroom": {
+    "en": "Blue Bioshroom",
+    "zh": "蓝色生荧菇",
+    "vi": "Blue Bioshroom"
+  },
+  "block.regions_unexplored.blue_bioshroom_block": {
+    "en": "Blue Bioshroom Block",
+    "zh": "蓝色生荧菇块",
+    "vi": "Blue Bioshroom Block"
+  },
+  "block.regions_unexplored.blue_bioshroom_button": {
+    "en": "Blue Bioshroom Button",
+    "zh": "蓝色生荧木按钮",
+    "vi": "Blue Bioshroom Button"
+  },
+  "block.regions_unexplored.blue_bioshroom_door": {
+    "en": "Blue Bioshroom Door",
+    "zh": "蓝色生荧木门",
+    "vi": "Blue Bioshroom Door"
+  },
+  "block.regions_unexplored.blue_bioshroom_fence": {
+    "en": "Blue Bioshroom Fence",
+    "zh": "蓝色生荧木栅栏",
+    "vi": "Blue Bioshroom Fence"
+  },
+  "block.regions_unexplored.blue_bioshroom_fence_gate": {
+    "en": "Blue Bioshroom Fence Gate",
+    "zh": "蓝色生荧木栅栏门",
+    "vi": "Blue Bioshroom Fence Gate"
+  },
+  "block.regions_unexplored.blue_bioshroom_hanging_sign": {
+    "en": "Blue Bioshroom Hanging Sign",
+    "zh": "悬挂式蓝色生荧木告示牌",
+    "vi": "Blue Bioshroom Hanging Sign"
+  },
+  "block.regions_unexplored.blue_bioshroom_hyphae": {
+    "en": "Blue Bioshroom Hyphae",
+    "zh": "蓝色生荧菇菌核",
+    "vi": "Blue Bioshroom Hyphae"
+  },
+  "block.regions_unexplored.blue_bioshroom_planks": {
+    "en": "Blue Bioshroom Planks",
+    "zh": "蓝色生荧木板",
+    "vi": "Blue Bioshroom Planks"
+  },
+  "block.regions_unexplored.blue_bioshroom_pressure_plate": {
+    "en": "Blue Bioshroom Pressure Plate",
+    "zh": "蓝色生荧木压力板",
+    "vi": "Blue Bioshroom Pressure Plate"
+  },
+  "block.regions_unexplored.blue_bioshroom_sign": {
+    "en": "Blue Bioshroom Sign",
+    "zh": "蓝色生荧木告示牌",
+    "vi": "Blue Bioshroom Sign"
+  },
+  "block.regions_unexplored.blue_bioshroom_slab": {
+    "en": "Blue Bioshroom Slab",
+    "zh": "蓝色生荧木台阶",
+    "vi": "Blue Bioshroom Slab"
+  },
+  "block.regions_unexplored.blue_bioshroom_stairs": {
+    "en": "Blue Bioshroom Stairs",
+    "zh": "蓝色生荧木楼梯",
+    "vi": "Blue Bioshroom Stairs"
+  },
+  "block.regions_unexplored.blue_bioshroom_stem": {
+    "en": "Blue Bioshroom Stem",
+    "zh": "蓝色生荧菌柄",
+    "vi": "Blue Bioshroom Stem"
+  },
+  "block.regions_unexplored.blue_bioshroom_trapdoor": {
+    "en": "Blue Bioshroom Trapdoor",
+    "zh": "蓝色生荧木活板门",
+    "vi": "Blue Bioshroom Trapdoor"
+  },
+  "block.regions_unexplored.blue_lupine": {
+    "en": "Blue Lupine",
+    "zh": "蓝色羽扇豆",
+    "vi": "Blue Lupine"
+  },
+  "block.regions_unexplored.blue_magnolia_flowers": {
+    "en": "Blue Magnolia Flowers",
+    "zh": "蓝色木兰花簇",
+    "vi": "Blue Magnolia Flowers"
+  },
+  "block.regions_unexplored.blue_magnolia_leaves": {
+    "en": "Blue Magnolia Leaves",
+    "zh": "蓝色木兰树叶",
+    "vi": "Blue Magnolia Leaves"
+  },
+  "block.regions_unexplored.blue_magnolia_sapling": {
+    "en": "Blue Magnolia Sapling",
+    "zh": "蓝色木兰树苗",
+    "vi": "Blue Magnolia Sapling"
+  },
+  "block.regions_unexplored.blue_magnolia_shrub": {
+    "en": "Blue Magnolia Shrub",
+    "zh": "蓝色木兰灌木",
+    "vi": "Blue Magnolia Shrub"
+  },
+  "block.regions_unexplored.blue_painted_planks": {
+    "en": "Blue Painted Planks",
+    "zh": "蓝色染色木板",
+    "vi": "Blue Painted Planks"
+  },
+  "block.regions_unexplored.blue_painted_slab": {
+    "en": "Blue Painted Slab",
+    "zh": "蓝色染色木台阶",
+    "vi": "Blue Painted Slab"
+  },
+  "block.regions_unexplored.blue_painted_stairs": {
+    "en": "Blue Painted Stairs",
+    "zh": "蓝色染色木楼梯",
+    "vi": "Blue Painted Stairs"
+  },
+  "block.regions_unexplored.blue_snowbelle": {
+    "en": "Blue Snowbelle",
+    "zh": "蓝色山梅花",
+    "vi": "Blue Snowbelle"
+  },
+  "block.regions_unexplored.brimsprout": {
+    "en": "Brimsprout",
+    "zh": "结界芽",
+    "vi": "Brimsprout"
+  },
+  "block.regions_unexplored.brimsprout_nylium": {
+    "en": "Brimsprout Nylium",
+    "zh": "结界菌岩",
+    "vi": "Brimsprout Nylium"
+  },
+  "block.regions_unexplored.brimwood_button": {
+    "en": "Brimwood Button",
+    "zh": "结界木按钮",
+    "vi": "Brimwood Button"
+  },
+  "block.regions_unexplored.brimwood_door": {
+    "en": "Brimwood Door",
+    "zh": "结界木门",
+    "vi": "Brimwood Door"
+  },
+  "block.regions_unexplored.brimwood_fence": {
+    "en": "Brimwood Fence",
+    "zh": "结界木栅栏",
+    "vi": "Brimwood Fence"
+  },
+  "block.regions_unexplored.brimwood_fence_gate": {
+    "en": "Brimwood Fence Gate",
+    "zh": "结界木栅栏门",
+    "vi": "Brimwood Fence Gate"
+  },
+  "block.regions_unexplored.brimwood_hanging_sign": {
+    "en": "Brimwood Hanging Sign",
+    "zh": "悬挂式结界木告示牌",
+    "vi": "Brimwood Hanging Sign"
+  },
+  "block.regions_unexplored.brimwood_leaves": {
+    "en": "Brimwood Leaves",
+    "zh": "结界树叶",
+    "vi": "Brimwood Leaves"
+  },
+  "block.regions_unexplored.brimwood_log": {
+    "en": "Brimwood Log",
+    "zh": "结界原木",
+    "vi": "Brimwood Log"
+  },
+  "block.regions_unexplored.brimwood_log_magma": {
+    "en": "Brimwood Log Magma",
+    "zh": "结界岩浆原木",
+    "vi": "Brimwood Log Magma"
+  },
+  "block.regions_unexplored.brimwood_planks": {
+    "en": "Brimwood Planks",
+    "zh": "结界木板",
+    "vi": "Brimwood Planks"
+  },
+  "block.regions_unexplored.brimwood_pressure_plate": {
+    "en": "Brimwood Pressure Plate",
+    "zh": "结界木压力板",
+    "vi": "Brimwood Pressure Plate"
+  },
+  "block.regions_unexplored.brimwood_sapling": {
+    "en": "Brimwood Sapling",
+    "zh": "结界树苗",
+    "vi": "Brimwood Sapling"
+  },
+  "block.regions_unexplored.brimwood_shrub": {
+    "en": "Brimwood Shrub",
+    "zh": "结界灌木",
+    "vi": "Brimwood Shrub"
+  },
+  "block.regions_unexplored.brimwood_sign": {
+    "en": "Brimwood Sign",
+    "zh": "结界木告示牌",
+    "vi": "Brimwood Sign"
+  },
+  "block.regions_unexplored.brimwood_slab": {
+    "en": "Brimwood Slab",
+    "zh": "结界木台阶",
+    "vi": "Brimwood Slab"
+  },
+  "block.regions_unexplored.brimwood_stairs": {
+    "en": "Brimwood Stairs",
+    "zh": "结界木楼梯",
+    "vi": "Brimwood Stairs"
+  },
+  "block.regions_unexplored.brimwood_trapdoor": {
+    "en": "Brimwood Trapdoor",
+    "zh": "结界木活板门",
+    "vi": "Brimwood Trapdoor"
+  },
+  "block.regions_unexplored.brimwood_wood": {
+    "en": "Brimwood Wood",
+    "zh": "结界木",
+    "vi": "Brimwood Wood"
+  },
+  "block.regions_unexplored.brown_painted_planks": {
+    "en": "Brown Painted Planks",
+    "zh": "棕色染色木板",
+    "vi": "Brown Painted Planks"
+  },
+  "block.regions_unexplored.brown_painted_slab": {
+    "en": "Brown Painted Slab",
+    "zh": "棕色染色木台阶",
+    "vi": "Brown Painted Slab"
+  },
+  "block.regions_unexplored.brown_painted_stairs": {
+    "en": "Brown Painted Stairs",
+    "zh": "棕色染色木楼梯",
+    "vi": "Brown Painted Stairs"
+  },
+  "block.regions_unexplored.brown_snowbelle": {
+    "en": "Brown Snowbelle",
+    "zh": "棕色山梅花",
+    "vi": "Brown Snowbelle"
+  },
+  "block.regions_unexplored.cactus_flower": {
+    "en": "Cactus Flower",
+    "zh": "仙人掌花",
+    "vi": "Cactus Flower"
+  },
+  "block.regions_unexplored.cattail": {
+    "en": "Cattail",
+    "zh": "香蒲",
+    "vi": "Cattail"
+  },
+  "block.regions_unexplored.cave_hyssop": {
+    "en": "Cave Hyssop",
+    "zh": "洞穴牛膝草",
+    "vi": "Cave Hyssop"
+  },
+  "block.regions_unexplored.chalk": {
+    "en": "Chalk",
+    "zh": "白垩",
+    "vi": "Chalk"
+  },
+  "block.regions_unexplored.chalk_brick_slab": {
+    "en": "Chalk Brick Slab",
+    "zh": "白垩砖台阶",
+    "vi": "Chalk Brick Slab"
+  },
+  "block.regions_unexplored.chalk_brick_stairs": {
+    "en": "Chalk Brick Stairs",
+    "zh": "白垩砖楼梯",
+    "vi": "Chalk Brick Stairs"
+  },
+  "block.regions_unexplored.chalk_bricks": {
+    "en": "Chalk Bricks",
+    "zh": "白垩砖",
+    "vi": "Chalk Bricks"
+  },
+  "block.regions_unexplored.chalk_grass_block": {
+    "en": "Chalk Grass Block",
+    "zh": "白垩草方块",
+    "vi": "Chalk Grass Block"
+  },
+  "block.regions_unexplored.chalk_pillar": {
+    "en": "Chalk Pillar",
+    "zh": "白垩柱",
+    "vi": "Chalk Pillar"
+  },
+  "block.regions_unexplored.chalk_slab": {
+    "en": "Chalk Slab",
+    "zh": "白垩台阶",
+    "vi": "Chalk Slab"
+  },
+  "block.regions_unexplored.chalk_stairs": {
+    "en": "Chalk Stairs",
+    "zh": "白垩楼梯",
+    "vi": "Chalk Stairs"
+  },
+  "block.regions_unexplored.cherry_branch": {
+    "en": "Cherry Branch",
+    "zh": "樱花树枝",
+    "vi": "Cherry Branch"
+  },
+  "block.regions_unexplored.cherry_shrub": {
+    "en": "Cherry Shrub",
+    "zh": "樱花灌木",
+    "vi": "Cherry Shrub"
+  },
+  "block.regions_unexplored.clover": {
+    "en": "Clover",
+    "zh": "三叶草",
+    "vi": "Clover"
+  },
+  "block.regions_unexplored.cobalt_button": {
+    "en": "Cobalt Button",
+    "zh": "钴木按钮",
+    "vi": "Cobalt Button"
+  },
+  "block.regions_unexplored.cobalt_door": {
+    "en": "Cobalt Door",
+    "zh": "钴木门",
+    "vi": "Cobalt Door"
+  },
+  "block.regions_unexplored.cobalt_earlight": {
+    "en": "Cobalt Earlight",
+    "zh": "钴化耳灯草",
+    "vi": "Cobalt Earlight"
+  },
+  "block.regions_unexplored.cobalt_fence": {
+    "en": "Cobalt Fence",
+    "zh": "钴木栅栏",
+    "vi": "Cobalt Fence"
+  },
+  "block.regions_unexplored.cobalt_fence_gate": {
+    "en": "Cobalt Fence Gate",
+    "zh": "钴木栅栏门",
+    "vi": "Cobalt Fence Gate"
+  },
+  "block.regions_unexplored.cobalt_hanging_sign": {
+    "en": "Cobalt Hanging Sign",
+    "zh": "悬挂式钴木告示牌",
+    "vi": "Cobalt Hanging Sign"
+  },
+  "block.regions_unexplored.cobalt_log": {
+    "en": "Cobalt Log",
+    "zh": "钴木原木",
+    "vi": "Cobalt Log"
+  },
+  "block.regions_unexplored.cobalt_nylium": {
+    "en": "Cobalt Nylium",
+    "zh": "钴菌岩",
+    "vi": "Cobalt Nylium"
+  },
+  "block.regions_unexplored.cobalt_obsidian": {
+    "en": "Cobalt Obsidian",
+    "zh": "钴化黑曜石",
+    "vi": "Cobalt Obsidian"
+  },
+  "block.regions_unexplored.cobalt_planks": {
+    "en": "Cobalt Planks",
+    "zh": "钴木木板",
+    "vi": "Cobalt Planks"
+  },
+  "block.regions_unexplored.cobalt_pressure_plate": {
+    "en": "Cobalt Pressure Plate",
+    "zh": "钴木压力板",
+    "vi": "Cobalt Pressure Plate"
+  },
+  "block.regions_unexplored.cobalt_roots": {
+    "en": "Cobalt Roots",
+    "zh": "钴木根",
+    "vi": "Cobalt Roots"
+  },
+  "block.regions_unexplored.cobalt_sapling": {
+    "en": "Cobalt Sapling",
+    "zh": "钴树树苗",
+    "vi": "Cobalt Sapling"
+  },
+  "block.regions_unexplored.cobalt_sign": {
+    "en": "Cobalt Sign",
+    "zh": "钴木告示牌",
+    "vi": "Cobalt Sign"
+  },
+  "block.regions_unexplored.cobalt_slab": {
+    "en": "Cobalt Slab",
+    "zh": "钴木台阶",
+    "vi": "Cobalt Slab"
+  },
+  "block.regions_unexplored.cobalt_stairs": {
+    "en": "Cobalt Stairs",
+    "zh": "钴木楼梯",
+    "vi": "Cobalt Stairs"
+  },
+  "block.regions_unexplored.cobalt_trapdoor": {
+    "en": "Cobalt Trapdoor",
+    "zh": "钴木活板门",
+    "vi": "Cobalt Trapdoor"
+  },
+  "block.regions_unexplored.cobalt_webbing": {
+    "en": "Cobalt Webbing",
+    "zh": "钴木络",
+    "vi": "Cobalt Webbing"
+  },
+  "block.regions_unexplored.cobalt_wood": {
+    "en": "Cobalt Wood",
+    "zh": "钴木",
+    "vi": "Cobalt Wood"
+  },
+  "block.regions_unexplored.corpse_flower": {
+    "en": "Corpse Flower",
+    "zh": "巨魔芋",
+    "vi": "Corpse Flower"
+  },
+  "block.regions_unexplored.cyan_painted_planks": {
+    "en": "Cyan Painted Planks",
+    "zh": "青色染色木板",
+    "vi": "Cyan Painted Planks"
+  },
+  "block.regions_unexplored.cyan_painted_slab": {
+    "en": "Cyan Painted Slab",
+    "zh": "青色染色木台阶",
+    "vi": "Cyan Painted Slab"
+  },
+  "block.regions_unexplored.cyan_painted_stairs": {
+    "en": "Cyan Painted Stairs",
+    "zh": "青色染色木楼梯",
+    "vi": "Cyan Painted Stairs"
+  },
+  "block.regions_unexplored.cyan_snowbelle": {
+    "en": "Cyan Snowbelle",
+    "zh": "青色山梅花",
+    "vi": "Cyan Snowbelle"
+  },
+  "block.regions_unexplored.cypress_branch": {
+    "en": "Cypress Branch",
+    "zh": "柏树枝",
+    "vi": "Cypress Branch"
+  },
+  "block.regions_unexplored.cypress_button": {
+    "en": "Cypress Button",
+    "zh": "柏木按钮",
+    "vi": "Cypress Button"
+  },
+  "block.regions_unexplored.cypress_door": {
+    "en": "Cypress Door",
+    "zh": "柏木门",
+    "vi": "Cypress Door"
+  },
+  "block.regions_unexplored.cypress_fence": {
+    "en": "Cypress Fence",
+    "zh": "柏木栅栏",
+    "vi": "Cypress Fence"
+  },
+  "block.regions_unexplored.cypress_fence_gate": {
+    "en": "Cypress Fence Gate",
+    "zh": "柏木栅栏门",
+    "vi": "Cypress Fence Gate"
+  },
+  "block.regions_unexplored.cypress_hanging_sign": {
+    "en": "Cypress Hanging Sign",
+    "zh": "悬挂式柏木告示牌",
+    "vi": "Cypress Hanging Sign"
+  },
+  "block.regions_unexplored.cypress_leaves": {
+    "en": "Cypress Leaves",
+    "zh": "柏树树叶",
+    "vi": "Cypress Leaves"
+  },
+  "block.regions_unexplored.cypress_log": {
+    "en": "Cypress Log",
+    "zh": "柏木原木",
+    "vi": "Cypress Log"
+  },
+  "block.regions_unexplored.cypress_planks": {
+    "en": "Cypress Planks",
+    "zh": "柏木木板",
+    "vi": "Cypress Planks"
+  },
+  "block.regions_unexplored.cypress_pressure_plate": {
+    "en": "Cypress Pressure Plate",
+    "zh": "柏木压力板",
+    "vi": "Cypress Pressure Plate"
+  },
+  "block.regions_unexplored.cypress_sapling": {
+    "en": "Cypress Sapling",
+    "zh": "柏树树苗",
+    "vi": "Cypress Sapling"
+  },
+  "block.regions_unexplored.cypress_shrub": {
+    "en": "Cypress Shrub",
+    "zh": "柏木灌木",
+    "vi": "Cypress Shrub"
+  },
+  "block.regions_unexplored.cypress_sign": {
+    "en": "Cypress Sign",
+    "zh": "柏木告示牌",
+    "vi": "Cypress Sign"
+  },
+  "block.regions_unexplored.cypress_slab": {
+    "en": "Cypress Slab",
+    "zh": "柏木台阶",
+    "vi": "Cypress Slab"
+  },
+  "block.regions_unexplored.cypress_stairs": {
+    "en": "Cypress Stairs",
+    "zh": "柏木楼梯",
+    "vi": "Cypress Stairs"
+  },
+  "block.regions_unexplored.cypress_trapdoor": {
+    "en": "Cypress Trapdoor",
+    "zh": "柏木活板门",
+    "vi": "Cypress Trapdoor"
+  },
+  "block.regions_unexplored.cypress_wood": {
+    "en": "Cypress Wood",
+    "zh": "柏木",
+    "vi": "Cypress Wood"
+  },
+  "block.regions_unexplored.daisy": {
+    "en": "Daisy",
+    "zh": "雏菊",
+    "vi": "Daisy"
+  },
+  "block.regions_unexplored.dark_oak_branch": {
+    "en": "Dark Oak Branch",
+    "zh": "深色橡树枝",
+    "vi": "Dark Oak Branch"
+  },
+  "block.regions_unexplored.dark_oak_shrub": {
+    "en": "Dark Oak Shrub",
+    "zh": "深色橡树灌木",
+    "vi": "Dark Oak Shrub"
+  },
+  "block.regions_unexplored.day_lily": {
+    "en": "Day Lily",
+    "zh": "黄花菜",
+    "vi": "Day Lily"
+  },
+  "block.regions_unexplored.dead_branch": {
+    "en": "Dead Branch",
+    "zh": "亡灵树枝",
+    "vi": "Dead Branch"
+  },
+  "block.regions_unexplored.dead_button": {
+    "en": "Dead Button",
+    "zh": "亡灵木按钮",
+    "vi": "Dead Button"
+  },
+  "block.regions_unexplored.dead_door": {
+    "en": "Dead Door",
+    "zh": "亡灵木门",
+    "vi": "Dead Door"
+  },
+  "block.regions_unexplored.dead_fence": {
+    "en": "Dead Fence",
+    "zh": "亡灵木栅栏",
+    "vi": "Dead Fence"
+  },
+  "block.regions_unexplored.dead_fence_gate": {
+    "en": "Dead Fence Gate",
+    "zh": "亡灵木栅栏门",
+    "vi": "Dead Fence Gate"
+  },
+  "block.regions_unexplored.dead_hanging_sign": {
+    "en": "Dead Hanging Sign",
+    "zh": "悬挂式亡灵木告示牌",
+    "vi": "Dead Hanging Sign"
+  },
+  "block.regions_unexplored.dead_leaves": {
+    "en": "Dead Leaves",
+    "zh": "亡灵树叶",
+    "vi": "Dead Leaves"
+  },
+  "block.regions_unexplored.dead_log": {
+    "en": "Dead Log",
+    "zh": "亡灵原木",
+    "vi": "Dead Log"
+  },
+  "block.regions_unexplored.dead_pine_leaves": {
+    "en": "Dead Pine Leaves",
+    "zh": "亡灵松树叶",
+    "vi": "Dead Pine Leaves"
+  },
+  "block.regions_unexplored.dead_pine_sapling": {
+    "en": "Dead Pine Sapling",
+    "zh": "亡灵松树苗",
+    "vi": "Dead Pine Sapling"
+  },
+  "block.regions_unexplored.dead_pine_shrub": {
+    "en": "Dead Pine Shrub",
+    "zh": "亡灵松灌木",
+    "vi": "Dead Pine Shrub"
+  },
+  "block.regions_unexplored.dead_planks": {
+    "en": "Dead Planks",
+    "zh": "亡灵木板",
+    "vi": "Dead Planks"
+  },
+  "block.regions_unexplored.dead_pressure_plate": {
+    "en": "Dead Pressure Plate",
+    "zh": "亡灵木压力板",
+    "vi": "Dead Pressure Plate"
+  },
+  "block.regions_unexplored.dead_sapling": {
+    "en": "Dead Sapling",
+    "zh": "亡灵树苗",
+    "vi": "Dead Sapling"
+  },
+  "block.regions_unexplored.dead_shrub": {
+    "en": "Dead Shrub",
+    "zh": "亡灵灌木",
+    "vi": "Dead Shrub"
+  },
+  "block.regions_unexplored.dead_sign": {
+    "en": "Dead Sign",
+    "zh": "亡灵木告示牌",
+    "vi": "Dead Sign"
+  },
+  "block.regions_unexplored.dead_slab": {
+    "en": "Dead Slab",
+    "zh": "亡灵木台阶",
+    "vi": "Dead Slab"
+  },
+  "block.regions_unexplored.dead_stairs": {
+    "en": "Dead Stairs",
+    "zh": "亡灵木楼梯",
+    "vi": "Dead Stairs"
+  },
+  "block.regions_unexplored.dead_steppe_shrub": {
+    "en": "Dead Steppe Shrub",
+    "zh": "亡灵木草原灌木",
+    "vi": "Dead Steppe Shrub"
+  },
+  "block.regions_unexplored.dead_trapdoor": {
+    "en": "Dead Trapdoor",
+    "zh": "亡灵木活板门",
+    "vi": "Dead Trapdoor"
+  },
+  "block.regions_unexplored.dead_wood": {
+    "en": "Dead Wood",
+    "zh": "亡灵木",
+    "vi": "Dead Wood"
+  },
+  "block.regions_unexplored.deepslate_grass_block": {
+    "en": "Deepslate Grass Block",
+    "zh": "深板岩草方块",
+    "vi": "Deepslate Grass Block"
+  },
+  "block.regions_unexplored.deepslate_prismoss": {
+    "en": "Deepslate Prismoss",
+    "zh": "彩虹深板苔岩",
+    "vi": "Deepslate Prismoss"
+  },
+  "block.regions_unexplored.deepslate_viridescent_nylium": {
+    "en": "Deepslate Viridescent Nylium",
+    "zh": "淡绿色深板菌岩",
+    "vi": "Deepslate Viridescent Nylium"
+  },
+  "block.regions_unexplored.dorcel": {
+    "en": "Dorcel",
+    "zh": "多塞尔草",
+    "vi": "Dorcel"
+  },
+  "block.regions_unexplored.dropleaf": {
+    "en": "Dropleaf",
+    "zh": "垂藤叶",
+    "vi": "Dropleaf"
+  },
+  "block.regions_unexplored.duckweed": {
+    "en": "Duckweed",
+    "zh": "浮萍",
+    "vi": "Duckweed"
+  },
+  "block.regions_unexplored.duskmelon": {
+    "en": "Duskmelon Slice",
+    "zh": "黄昏瓜片",
+    "vi": "Duskmelon Slice"
+  },
+  "block.regions_unexplored.dusktrap": {
+    "en": "Dusktrap",
+    "zh": "黄昏陷阱",
+    "vi": "Dusktrap"
+  },
+  "block.regions_unexplored.elephant_ear": {
+    "en": "Elephant Ear",
+    "zh": "象耳草",
+    "vi": "Elephant Ear"
+  },
+  "block.regions_unexplored.enchanted_birch_leaf_pile": {
+    "en": "Enchanted Birch Leaf Pile",
+    "zh": "附魔白桦叶片",
+    "vi": "Enchanted Birch Leaf Pile"
+  },
+  "block.regions_unexplored.enchanted_birch_leaves": {
+    "en": "Enchanted Birch Leaves",
+    "zh": "附魔白桦树叶",
+    "vi": "Enchanted Birch Leaves"
+  },
+  "block.regions_unexplored.enchanted_birch_sapling": {
+    "en": "Enchanted Birch Sapling",
+    "zh": "附魔白桦树苗",
+    "vi": "Enchanted Birch Sapling"
+  },
+  "block.regions_unexplored.enchanted_birch_shrub": {
+    "en": "Enchanted Birch Shrub",
+    "zh": "附魔白桦灌木",
+    "vi": "Enchanted Birch Shrub"
+  },
+  "block.regions_unexplored.eucalyptus_branch": {
+    "en": "Eucalyptus Branch",
+    "zh": "桉树枝",
+    "vi": "Eucalyptus Branch"
+  },
+  "block.regions_unexplored.eucalyptus_button": {
+    "en": "Eucalyptus Button",
+    "zh": "桉木按钮",
+    "vi": "Eucalyptus Button"
+  },
+  "block.regions_unexplored.eucalyptus_door": {
+    "en": "Eucalyptus Door",
+    "zh": "桉木门",
+    "vi": "Eucalyptus Door"
+  },
+  "block.regions_unexplored.eucalyptus_fence": {
+    "en": "Eucalyptus Fence",
+    "zh": "桉木栅栏",
+    "vi": "Eucalyptus Fence"
+  },
+  "block.regions_unexplored.eucalyptus_fence_gate": {
+    "en": "Eucalyptus Fence Gate",
+    "zh": "桉木栅栏门",
+    "vi": "Eucalyptus Fence Gate"
+  },
+  "block.regions_unexplored.eucalyptus_hanging_sign": {
+    "en": "Eucalyptus Hanging Sign",
+    "zh": "悬挂式桉木告示牌",
+    "vi": "Eucalyptus Hanging Sign"
+  },
+  "block.regions_unexplored.eucalyptus_leaves": {
+    "en": "Eucalyptus Leaves",
+    "zh": "桉树树叶",
+    "vi": "Eucalyptus Leaves"
+  },
+  "block.regions_unexplored.eucalyptus_log": {
+    "en": "Eucalyptus Log",
+    "zh": "桉树原木",
+    "vi": "Eucalyptus Log"
+  },
+  "block.regions_unexplored.eucalyptus_planks": {
+    "en": "Eucalyptus Planks",
+    "zh": "桉木板",
+    "vi": "Eucalyptus Planks"
+  },
+  "block.regions_unexplored.eucalyptus_pressure_plate": {
+    "en": "Eucalyptus Pressure Plate",
+    "zh": "桉木压力板",
+    "vi": "Eucalyptus Pressure Plate"
+  },
+  "block.regions_unexplored.eucalyptus_sapling": {
+    "en": "Eucalyptus Sapling",
+    "zh": "桉树树苗",
+    "vi": "Eucalyptus Sapling"
+  },
+  "block.regions_unexplored.eucalyptus_shrub": {
+    "en": "Eucalyptus Shrub",
+    "zh": "桉树灌木",
+    "vi": "Eucalyptus Shrub"
+  },
+  "block.regions_unexplored.eucalyptus_sign": {
+    "en": "Eucalyptus Sign",
+    "zh": "桉木告示牌",
+    "vi": "Eucalyptus Sign"
+  },
+  "block.regions_unexplored.eucalyptus_slab": {
+    "en": "Eucalyptus Slab",
+    "zh": "桉木台阶",
+    "vi": "Eucalyptus Slab"
+  },
+  "block.regions_unexplored.eucalyptus_stairs": {
+    "en": "Eucalyptus Stairs",
+    "zh": "桉木楼梯",
+    "vi": "Eucalyptus Stairs"
+  },
+  "block.regions_unexplored.eucalyptus_trapdoor": {
+    "en": "Eucalyptus Trapdoor",
+    "zh": "桉木活板门",
+    "vi": "Eucalyptus Trapdoor"
+  },
+  "block.regions_unexplored.eucalyptus_wood": {
+    "en": "Eucalyptus Wood",
+    "zh": "桉木",
+    "vi": "Eucalyptus Wood"
+  },
+  "block.regions_unexplored.felicia_daisy": {
+    "en": "Felicia Daisy",
+    "zh": "蓝雏菊",
+    "vi": "Felicia Daisy"
+  },
+  "block.regions_unexplored.fireweed": {
+    "en": "Fireweed",
+    "zh": "柳兰",
+    "vi": "Fireweed"
+  },
+  "block.regions_unexplored.flowering_leaves": {
+    "en": "Flowering Leaves",
+    "zh": "繁花树叶",
+    "vi": "Flowering Leaves"
+  },
+  "block.regions_unexplored.flowering_lily_pad": {
+    "en": "Flowering Lily Pad",
+    "zh": "盛花莲叶",
+    "vi": "Flowering Lily Pad"
+  },
+  "block.regions_unexplored.flowering_sapling": {
+    "en": "Flowering Sapling",
+    "zh": "繁花树苗",
+    "vi": "Flowering Sapling"
+  },
+  "block.regions_unexplored.flowering_shrub": {
+    "en": "Flowering Shrub",
+    "zh": "繁花灌木",
+    "vi": "Flowering Shrub"
+  },
+  "block.regions_unexplored.frozen_grass": {
+    "en": "Frozen Grass",
+    "zh": "冰冻草",
+    "vi": "Frozen Grass"
+  },
+  "block.regions_unexplored.giant_lily_pad": {
+    "en": "Giant Lily Pad",
+    "zh": "巨型莲叶",
+    "vi": "Giant Lily Pad"
+  },
+  "block.regions_unexplored.glister_bulb": {
+    "en": "Glister Bulb",
+    "zh": "闪烁球草",
+    "vi": "Glister Bulb"
+  },
+  "block.regions_unexplored.glister_spire": {
+    "en": "Glister Spire",
+    "zh": "闪烁塔草",
+    "vi": "Glister Spire"
+  },
+  "block.regions_unexplored.glistering_bloom": {
+    "en": "Glistering Bloom",
+    "zh": "闪烁花",
+    "vi": "Glistering Bloom"
+  },
+  "block.regions_unexplored.glistering_fern": {
+    "en": "Glistering Fern",
+    "zh": "闪烁蕨",
+    "vi": "Glistering Fern"
+  },
+  "block.regions_unexplored.glistering_ivy": {
+    "en": "Glistering Ivy",
+    "zh": "闪烁藤",
+    "vi": "Glistering Ivy"
+  },
+  "block.regions_unexplored.glistering_nylium": {
+    "en": "Glistering Nylium",
+    "zh": "闪烁菌岩",
+    "vi": "Glistering Nylium"
+  },
+  "block.regions_unexplored.glistering_sprout": {
+    "en": "Glistering Sprout",
+    "zh": "闪烁苗",
+    "vi": "Glistering Sprout"
+  },
+  "block.regions_unexplored.glistering_wart": {
+    "en": "Glistering Wart",
+    "zh": "闪烁疣",
+    "vi": "Glistering Wart"
+  },
+  "block.regions_unexplored.glowing_blue_bioshroom_block": {
+    "en": "Glowing Blue Bioshroom Block",
+    "zh": "发光蓝色生荧菇块",
+    "vi": "Glowing Blue Bioshroom Block"
+  },
+  "block.regions_unexplored.glowing_green_bioshroom_block": {
+    "en": "Glowing Green Bioshroom Block",
+    "zh": "发光绿色生荧菇块",
+    "vi": "Glowing Green Bioshroom Block"
+  },
+  "block.regions_unexplored.glowing_pink_bioshroom_block": {
+    "en": "Glowing Pink Bioshroom Block",
+    "zh": "发光粉红色生荧菇块",
+    "vi": "Glowing Pink Bioshroom Block"
+  },
+  "block.regions_unexplored.glowing_yellow_bioshroom_block": {
+    "en": "Glowing Yellow Bioshroom Block",
+    "zh": "发光黄色生荧菇块",
+    "vi": "Glowing Yellow Bioshroom Block"
+  },
+  "block.regions_unexplored.golden_larch_leaves": {
+    "en": "Golden Larch Leaves",
+    "zh": "金色落叶松树叶",
+    "vi": "Golden Larch Leaves"
+  },
+  "block.regions_unexplored.golden_larch_sapling": {
+    "en": "Golden Larch Sapling",
+    "zh": "金色落叶松树苗",
+    "vi": "Golden Larch Sapling"
+  },
+  "block.regions_unexplored.golden_larch_shrub": {
+    "en": "Golden Larch Shrub",
+    "zh": "金色落叶松灌木",
+    "vi": "Golden Larch Shrub"
+  },
+  "block.regions_unexplored.gray_painted_planks": {
+    "en": "Gray Painted Planks",
+    "zh": "灰色染色木板",
+    "vi": "Gray Painted Planks"
+  },
+  "block.regions_unexplored.gray_painted_slab": {
+    "en": "Gray Painted Slab",
+    "zh": "灰色染色木台阶",
+    "vi": "Gray Painted Slab"
+  },
+  "block.regions_unexplored.gray_painted_stairs": {
+    "en": "Gray Painted Stairs",
+    "zh": "灰色染色木楼梯",
+    "vi": "Gray Painted Stairs"
+  },
+  "block.regions_unexplored.gray_snowbelle": {
+    "en": "Gray Snowbelle",
+    "zh": "灰色山梅花",
+    "vi": "Gray Snowbelle"
+  },
+  "block.regions_unexplored.green_bioshroom": {
+    "en": "Green Bioshroom",
+    "zh": "绿色生荧菇",
+    "vi": "Green Bioshroom"
+  },
+  "block.regions_unexplored.green_bioshroom_block": {
+    "en": "Green Bioshroom Block",
+    "zh": "绿色生荧菇块",
+    "vi": "Green Bioshroom Block"
+  },
+  "block.regions_unexplored.green_bioshroom_button": {
+    "en": "Green Bioshroom Button",
+    "zh": "绿色生荧木按钮",
+    "vi": "Green Bioshroom Button"
+  },
+  "block.regions_unexplored.green_bioshroom_door": {
+    "en": "Green Bioshroom Door",
+    "zh": "绿色生荧木门",
+    "vi": "Green Bioshroom Door"
+  },
+  "block.regions_unexplored.green_bioshroom_fence": {
+    "en": "Green Bioshroom Fence",
+    "zh": "绿色生荧木栅栏",
+    "vi": "Green Bioshroom Fence"
+  },
+  "block.regions_unexplored.green_bioshroom_fence_gate": {
+    "en": "Green Bioshroom Fence Gate",
+    "zh": "绿色生荧木栅栏门",
+    "vi": "Green Bioshroom Fence Gate"
+  },
+  "block.regions_unexplored.green_bioshroom_hanging_sign": {
+    "en": "Green Bioshroom Hanging Sign",
+    "zh": "悬挂式绿色生荧木告示牌",
+    "vi": "Green Bioshroom Hanging Sign"
+  },
+  "block.regions_unexplored.green_bioshroom_hyphae": {
+    "en": "Green Bioshroom Hyphae",
+    "zh": "绿色生荧菇菌核",
+    "vi": "Green Bioshroom Hyphae"
+  },
+  "block.regions_unexplored.green_bioshroom_planks": {
+    "en": "Green Bioshroom Planks",
+    "zh": "绿色生荧木板",
+    "vi": "Green Bioshroom Planks"
+  },
+  "block.regions_unexplored.green_bioshroom_pressure_plate": {
+    "en": "Green Bioshroom Pressure Plate",
+    "zh": "绿色生荧木压力板",
+    "vi": "Green Bioshroom Pressure Plate"
+  },
+  "block.regions_unexplored.green_bioshroom_sign": {
+    "en": "Green Bioshroom Sign",
+    "zh": "绿色生荧木告示牌",
+    "vi": "Green Bioshroom Sign"
+  },
+  "block.regions_unexplored.green_bioshroom_slab": {
+    "en": "Green Bioshroom Slab",
+    "zh": "绿色生荧木台阶",
+    "vi": "Green Bioshroom Slab"
+  },
+  "block.regions_unexplored.green_bioshroom_stairs": {
+    "en": "Green Bioshroom Stairs",
+    "zh": "绿色生荧木楼梯",
+    "vi": "Green Bioshroom Stairs"
+  },
+  "block.regions_unexplored.green_bioshroom_stem": {
+    "en": "Green Bioshroom Stem",
+    "zh": "绿色生荧菌柄",
+    "vi": "Green Bioshroom Stem"
+  },
+  "block.regions_unexplored.green_bioshroom_trapdoor": {
+    "en": "Green Bioshroom Trapdoor",
+    "zh": "绿色生荧木活板门",
+    "vi": "Green Bioshroom Trapdoor"
+  },
+  "block.regions_unexplored.green_painted_planks": {
+    "en": "Green Painted Planks",
+    "zh": "绿色染色木板",
+    "vi": "Green Painted Planks"
+  },
+  "block.regions_unexplored.green_painted_slab": {
+    "en": "Green Painted Slab",
+    "zh": "绿色染色木台阶",
+    "vi": "Green Painted Slab"
+  },
+  "block.regions_unexplored.green_painted_stairs": {
+    "en": "Green Painted Stairs",
+    "zh": "绿色染色木楼梯",
+    "vi": "Green Painted Stairs"
+  },
+  "block.regions_unexplored.green_snowbelle": {
+    "en": "Green Snowbelle",
+    "zh": "绿色山梅花",
+    "vi": "Green Snowbelle"
+  },
+  "block.regions_unexplored.hanging_earlight": {
+    "en": "Hanging Earlight Fruit",
+    "zh": "悬垂耳灯果",
+    "vi": "Hanging Earlight Fruit"
+  },
+  "block.regions_unexplored.hanging_prismarite": {
+    "en": "Hanging Prismarite",
+    "zh": "悬垂彩虹水晶",
+    "vi": "Hanging Prismarite"
+  },
+  "block.regions_unexplored.hibiscus": {
+    "en": "Hibiscus",
+    "zh": "芙蓉花",
+    "vi": "Hibiscus"
+  },
+  "block.regions_unexplored.hyacinth_bloom": {
+    "en": "Hyacinth Bloom",
+    "zh": "海魔芋",
+    "vi": "Hyacinth Bloom"
+  },
+  "block.regions_unexplored.hyacinth_flowers": {
+    "en": "Hyacinth Flowers",
+    "zh": "海魔芋花簇",
+    "vi": "Hyacinth Flowers"
+  },
+  "block.regions_unexplored.hyacinth_lamp": {
+    "en": "Hyacinth Lamp",
+    "zh": "海魔芋灯",
+    "vi": "Hyacinth Lamp"
+  },
+  "block.regions_unexplored.hyssop": {
+    "en": "Hyssop",
+    "zh": "牛膝草",
+    "vi": "Hyssop"
+  },
+  "block.regions_unexplored.icicle": {
+    "en": "Icicle",
+    "zh": "冰锥",
+    "vi": "Icicle"
+  },
+  "block.regions_unexplored.joshua_beard": {
+    "en": "Joshua Beard",
+    "zh": "约书亚树须",
+    "vi": "Joshua Beard"
+  },
+  "block.regions_unexplored.joshua_button": {
+    "en": "Joshua Button",
+    "zh": "约书亚木按钮",
+    "vi": "Joshua Button"
+  },
+  "block.regions_unexplored.joshua_door": {
+    "en": "Joshua Door",
+    "zh": "约书亚木门",
+    "vi": "Joshua Door"
+  },
+  "block.regions_unexplored.joshua_fence": {
+    "en": "Joshua Fence",
+    "zh": "约书亚木栅栏",
+    "vi": "Joshua Fence"
+  },
+  "block.regions_unexplored.joshua_fence_gate": {
+    "en": "Joshua Fence Gate",
+    "zh": "约书亚木栅栏门",
+    "vi": "Joshua Fence Gate"
+  },
+  "block.regions_unexplored.joshua_hanging_sign": {
+    "en": "Joshua Hanging Sign",
+    "zh": "悬挂式约书亚木告示牌",
+    "vi": "Joshua Hanging Sign"
+  },
+  "block.regions_unexplored.joshua_leaves": {
+    "en": "Joshua Leaves",
+    "zh": "约书亚树叶",
+    "vi": "Joshua Leaves"
+  },
+  "block.regions_unexplored.joshua_log": {
+    "en": "Joshua Log",
+    "zh": "约书亚原木",
+    "vi": "Joshua Log"
+  },
+  "block.regions_unexplored.joshua_planks": {
+    "en": "Joshua Planks",
+    "zh": "约书亚木板",
+    "vi": "Joshua Planks"
+  },
+  "block.regions_unexplored.joshua_pressure_plate": {
+    "en": "Joshua Pressure Plate",
+    "zh": "约书亚木压力板",
+    "vi": "Joshua Pressure Plate"
+  },
+  "block.regions_unexplored.joshua_sapling": {
+    "en": "Joshua Sapling",
+    "zh": "约书亚树苗",
+    "vi": "Joshua Sapling"
+  },
+  "block.regions_unexplored.joshua_shrub": {
+    "en": "Joshua Shrub",
+    "zh": "约书亚灌木",
+    "vi": "Joshua Shrub"
+  },
+  "block.regions_unexplored.joshua_sign": {
+    "en": "Joshua Sign",
+    "zh": "约书亚木告示牌",
+    "vi": "Joshua Sign"
+  },
+  "block.regions_unexplored.joshua_slab": {
+    "en": "Joshua Slab",
+    "zh": "约书亚木台阶",
+    "vi": "Joshua Slab"
+  },
+  "block.regions_unexplored.joshua_stairs": {
+    "en": "Joshua Stairs",
+    "zh": "约书亚木楼梯",
+    "vi": "Joshua Stairs"
+  },
+  "block.regions_unexplored.joshua_trapdoor": {
+    "en": "Joshua Trapdoor",
+    "zh": "约书亚木活板门",
+    "vi": "Joshua Trapdoor"
+  },
+  "block.regions_unexplored.joshua_wood": {
+    "en": "Joshua Wood",
+    "zh": "约书亚木",
+    "vi": "Joshua Wood"
+  },
+  "block.regions_unexplored.jungle_branch": {
+    "en": "Jungle Branch",
+    "zh": "丛林木树枝",
+    "vi": "Jungle Branch"
+  },
+  "block.regions_unexplored.jungle_shrub": {
+    "en": "Jungle Shrub",
+    "zh": "丛林木灌木",
+    "vi": "Jungle Shrub"
+  },
+  "block.regions_unexplored.kapok_branch": {
+    "en": "Kapok Branch",
+    "zh": "木棉树枝",
+    "vi": "Kapok Branch"
+  },
+  "block.regions_unexplored.kapok_button": {
+    "en": "Kapok Button",
+    "zh": "木棉木按钮",
+    "vi": "Kapok Button"
+  },
+  "block.regions_unexplored.kapok_door": {
+    "en": "Kapok Door",
+    "zh": "木棉木门",
+    "vi": "Kapok Door"
+  },
+  "block.regions_unexplored.kapok_fence": {
+    "en": "Kapok Fence",
+    "zh": "木棉木栅栏",
+    "vi": "Kapok Fence"
+  },
+  "block.regions_unexplored.kapok_fence_gate": {
+    "en": "Kapok Fence Gate",
+    "zh": "木棉木栅栏门",
+    "vi": "Kapok Fence Gate"
+  },
+  "block.regions_unexplored.kapok_hanging_sign": {
+    "en": "Kapok Hanging Sign",
+    "zh": "悬挂式木棉木告示牌",
+    "vi": "Kapok Hanging Sign"
+  },
+  "block.regions_unexplored.kapok_leaves": {
+    "en": "Kapok Leaves",
+    "zh": "木棉树叶",
+    "vi": "Kapok Leaves"
+  },
+  "block.regions_unexplored.kapok_log": {
+    "en": "Kapok Log",
+    "zh": "木棉原木",
+    "vi": "Kapok Log"
+  },
+  "block.regions_unexplored.kapok_planks": {
+    "en": "Kapok Planks",
+    "zh": "木棉木板",
+    "vi": "Kapok Planks"
+  },
+  "block.regions_unexplored.kapok_pressure_plate": {
+    "en": "Kapok Pressure Plate",
+    "zh": "木棉木压力板",
+    "vi": "Kapok Pressure Plate"
+  },
+  "block.regions_unexplored.kapok_sapling": {
+    "en": "Kapok Sapling",
+    "zh": "木棉树苗",
+    "vi": "Kapok Sapling"
+  },
+  "block.regions_unexplored.kapok_shrub": {
+    "en": "Kapok Shrub",
+    "zh": "木棉灌木",
+    "vi": "Kapok Shrub"
+  },
+  "block.regions_unexplored.kapok_sign": {
+    "en": "Kapok Sign",
+    "zh": "木棉木告示牌",
+    "vi": "Kapok Sign"
+  },
+  "block.regions_unexplored.kapok_slab": {
+    "en": "Kapok Slab",
+    "zh": "木棉木台阶",
+    "vi": "Kapok Slab"
+  },
+  "block.regions_unexplored.kapok_stairs": {
+    "en": "Kapok Stairs",
+    "zh": "木棉木楼梯",
+    "vi": "Kapok Stairs"
+  },
+  "block.regions_unexplored.kapok_trapdoor": {
+    "en": "Kapok Trapdoor",
+    "zh": "木棉木活板门",
+    "vi": "Kapok Trapdoor"
+  },
+  "block.regions_unexplored.kapok_vines": {
+    "en": "Kapok Vines",
+    "zh": "木棉气生根",
+    "vi": "Kapok Vines"
+  },
+  "block.regions_unexplored.kapok_wood": {
+    "en": "Kapok Wood",
+    "zh": "木棉木",
+    "vi": "Kapok Wood"
+  },
+  "block.regions_unexplored.larch_branch": {
+    "en": "Larch Branch",
+    "zh": "落叶松树枝",
+    "vi": "Larch Branch"
+  },
+  "block.regions_unexplored.larch_button": {
+    "en": "Larch Button",
+    "zh": "落叶松木按钮",
+    "vi": "Larch Button"
+  },
+  "block.regions_unexplored.larch_door": {
+    "en": "Larch Door",
+    "zh": "落叶松木门",
+    "vi": "Larch Door"
+  },
+  "block.regions_unexplored.larch_fence": {
+    "en": "Larch Fence",
+    "zh": "落叶松木栅栏",
+    "vi": "Larch Fence"
+  },
+  "block.regions_unexplored.larch_fence_gate": {
+    "en": "Larch Fence Gate",
+    "zh": "落叶松木栅栏门",
+    "vi": "Larch Fence Gate"
+  },
+  "block.regions_unexplored.larch_hanging_sign": {
+    "en": "Larch Hanging Sign",
+    "zh": "悬挂式落叶松木告示牌",
+    "vi": "Larch Hanging Sign"
+  },
+  "block.regions_unexplored.larch_leaves": {
+    "en": "Larch Leaves",
+    "zh": "落叶松树叶",
+    "vi": "Larch Leaves"
+  },
+  "block.regions_unexplored.larch_log": {
+    "en": "Larch Log",
+    "zh": "落叶松原木",
+    "vi": "Larch Log"
+  },
+  "block.regions_unexplored.larch_planks": {
+    "en": "Larch Planks",
+    "zh": "落叶松木板",
+    "vi": "Larch Planks"
+  },
+  "block.regions_unexplored.larch_pressure_plate": {
+    "en": "Larch Pressure Plate",
+    "zh": "落叶松木压力板",
+    "vi": "Larch Pressure Plate"
+  },
+  "block.regions_unexplored.larch_sapling": {
+    "en": "Larch Sapling",
+    "zh": "落叶松树苗",
+    "vi": "Larch Sapling"
+  },
+  "block.regions_unexplored.larch_shrub": {
+    "en": "Larch Shrub",
+    "zh": "落叶松灌木",
+    "vi": "Larch Shrub"
+  },
+  "block.regions_unexplored.larch_sign": {
+    "en": "Larch Sign",
+    "zh": "落叶松木告示牌",
+    "vi": "Larch Sign"
+  },
+  "block.regions_unexplored.larch_slab": {
+    "en": "Larch Slab",
+    "zh": "落叶松木台阶",
+    "vi": "Larch Slab"
+  },
+  "block.regions_unexplored.larch_stairs": {
+    "en": "Larch Stairs",
+    "zh": "落叶松木楼梯",
+    "vi": "Larch Stairs"
+  },
+  "block.regions_unexplored.larch_trapdoor": {
+    "en": "Larch Trapdoor",
+    "zh": "落叶松木活板门",
+    "vi": "Larch Trapdoor"
+  },
+  "block.regions_unexplored.larch_wood": {
+    "en": "Larch Wood",
+    "zh": "落叶松木",
+    "vi": "Larch Wood"
+  },
+  "block.regions_unexplored.large_prismarite_cluster": {
+    "en": "Large Prismarite Cluster",
+    "zh": "大型彩虹水晶簇",
+    "vi": "Large Prismarite Cluster"
+  },
+  "block.regions_unexplored.light_blue_painted_planks": {
+    "en": "Light Blue Painted Planks",
+    "zh": "淡蓝色染色木板",
+    "vi": "Light Blue Painted Planks"
+  },
+  "block.regions_unexplored.light_blue_painted_slab": {
+    "en": "Light Blue Painted Slab",
+    "zh": "淡蓝色染色木台阶",
+    "vi": "Light Blue Painted Slab"
+  },
+  "block.regions_unexplored.light_blue_painted_stairs": {
+    "en": "Light Blue Painted Stairs",
+    "zh": "淡蓝色染色木楼梯",
+    "vi": "Light Blue Painted Stairs"
+  },
+  "block.regions_unexplored.light_blue_snowbelle": {
+    "en": "Light Blue Snowbelle",
+    "zh": "淡蓝色山梅花",
+    "vi": "Light Blue Snowbelle"
+  },
+  "block.regions_unexplored.light_gray_painted_planks": {
+    "en": "Light Gray Painted Planks",
+    "zh": "淡灰色染色木板",
+    "vi": "Light Gray Painted Planks"
+  },
+  "block.regions_unexplored.light_gray_painted_slab": {
+    "en": "Light Gray Painted Slab",
+    "zh": "淡灰色染色木台阶",
+    "vi": "Light Gray Painted Slab"
+  },
+  "block.regions_unexplored.light_gray_painted_stairs": {
+    "en": "Light Gray Painted Stairs",
+    "zh": "淡灰色染色木楼梯",
+    "vi": "Light Gray Painted Stairs"
+  },
+  "block.regions_unexplored.light_gray_snowbelle": {
+    "en": "Light Gray Snowbelle",
+    "zh": "淡灰色山梅花",
+    "vi": "Light Gray Snowbelle"
+  },
+  "block.regions_unexplored.lime_painted_planks": {
+    "en": "Lime Painted Planks",
+    "zh": "黄绿色染色木板",
+    "vi": "Lime Painted Planks"
+  },
+  "block.regions_unexplored.lime_painted_slab": {
+    "en": "Lime Painted Slab",
+    "zh": "黄绿色染色木台阶",
+    "vi": "Lime Painted Slab"
+  },
+  "block.regions_unexplored.lime_painted_stairs": {
+    "en": "Lime Painted Stairs",
+    "zh": "黄绿色染色木楼梯",
+    "vi": "Lime Painted Stairs"
+  },
+  "block.regions_unexplored.lime_snowbelle": {
+    "en": "Lime Snowbelle",
+    "zh": "黄绿色山梅花",
+    "vi": "Lime Snowbelle"
+  },
+  "block.regions_unexplored.magenta_painted_planks": {
+    "en": "Magenta Painted Planks",
+    "zh": "品红色染色木板",
+    "vi": "Magenta Painted Planks"
+  },
+  "block.regions_unexplored.magenta_painted_slab": {
+    "en": "Magenta Painted Slab",
+    "zh": "品红色染色木台阶",
+    "vi": "Magenta Painted Slab"
+  },
+  "block.regions_unexplored.magenta_painted_stairs": {
+    "en": "Magenta Painted Stairs",
+    "zh": "品红色染色木楼梯",
+    "vi": "Magenta Painted Stairs"
+  },
+  "block.regions_unexplored.magenta_snowbelle": {
+    "en": "Magenta Snowbelle",
+    "zh": "品红色山梅花",
+    "vi": "Magenta Snowbelle"
+  },
+  "block.regions_unexplored.magnolia_branch": {
+    "en": "Magnolia Branch",
+    "zh": "木兰树枝",
+    "vi": "Magnolia Branch"
+  },
+  "block.regions_unexplored.magnolia_button": {
+    "en": "Magnolia Button",
+    "zh": "木兰木按钮",
+    "vi": "Magnolia Button"
+  },
+  "block.regions_unexplored.magnolia_door": {
+    "en": "Magnolia Door",
+    "zh": "木兰木门",
+    "vi": "Magnolia Door"
+  },
+  "block.regions_unexplored.magnolia_fence": {
+    "en": "Magnolia Fence",
+    "zh": "木兰木栅栏",
+    "vi": "Magnolia Fence"
+  },
+  "block.regions_unexplored.magnolia_fence_gate": {
+    "en": "Magnolia Fence Gate",
+    "zh": "木兰木栅栏门",
+    "vi": "Magnolia Fence Gate"
+  },
+  "block.regions_unexplored.magnolia_hanging_sign": {
+    "en": "Magnolia Hanging Sign",
+    "zh": "悬挂式木兰木告示牌",
+    "vi": "Magnolia Hanging Sign"
+  },
+  "block.regions_unexplored.magnolia_leaves": {
+    "en": "Magnolia Leaves",
+    "zh": "木兰树叶",
+    "vi": "Magnolia Leaves"
+  },
+  "block.regions_unexplored.magnolia_log": {
+    "en": "Magnolia Log",
+    "zh": "木兰原木",
+    "vi": "Magnolia Log"
+  },
+  "block.regions_unexplored.magnolia_planks": {
+    "en": "Magnolia Planks",
+    "zh": "木兰木板",
+    "vi": "Magnolia Planks"
+  },
+  "block.regions_unexplored.magnolia_pressure_plate": {
+    "en": "Magnolia Pressure Plate",
+    "zh": "木兰木压力板",
+    "vi": "Magnolia Pressure Plate"
+  },
+  "block.regions_unexplored.magnolia_sapling": {
+    "en": "Magnolia Sapling",
+    "zh": "木兰树苗",
+    "vi": "Magnolia Sapling"
+  },
+  "block.regions_unexplored.magnolia_shrub": {
+    "en": "Magnolia Shrub",
+    "zh": "木兰灌木",
+    "vi": "Magnolia Shrub"
+  },
+  "block.regions_unexplored.magnolia_sign": {
+    "en": "Magnolia Sign",
+    "zh": "木兰木告示牌",
+    "vi": "Magnolia Sign"
+  },
+  "block.regions_unexplored.magnolia_slab": {
+    "en": "Magnolia Slab",
+    "zh": "木兰木台阶",
+    "vi": "Magnolia Slab"
+  },
+  "block.regions_unexplored.magnolia_stairs": {
+    "en": "Magnolia Stairs",
+    "zh": "木兰木楼梯",
+    "vi": "Magnolia Stairs"
+  },
+  "block.regions_unexplored.magnolia_trapdoor": {
+    "en": "Magnolia Trapdoor",
+    "zh": "木兰木活板门",
+    "vi": "Magnolia Trapdoor"
+  },
+  "block.regions_unexplored.magnolia_wood": {
+    "en": "Magnolia Wood",
+    "zh": "木兰木",
+    "vi": "Magnolia Wood"
+  },
+  "block.regions_unexplored.mallow": {
+    "en": "Mallow",
+    "zh": "锦葵",
+    "vi": "Mallow"
+  },
+  "block.regions_unexplored.mangrove_branch": {
+    "en": "Mangrove Branch",
+    "zh": "红树枝",
+    "vi": "Mangrove Branch"
+  },
+  "block.regions_unexplored.mangrove_shrub": {
+    "en": "Mangrove Shrub",
+    "zh": "红树灌木",
+    "vi": "Mangrove Shrub"
+  },
+  "block.regions_unexplored.maple_branch": {
+    "en": "Maple Branch",
+    "zh": "枫树枝",
+    "vi": "Maple Branch"
+  },
+  "block.regions_unexplored.maple_button": {
+    "en": "Maple Button",
+    "zh": "枫木按钮",
+    "vi": "Maple Button"
+  },
+  "block.regions_unexplored.maple_door": {
+    "en": "Maple Door",
+    "zh": "枫木门",
+    "vi": "Maple Door"
+  },
+  "block.regions_unexplored.maple_fence": {
+    "en": "Maple Fence",
+    "zh": "枫木栅栏",
+    "vi": "Maple Fence"
+  },
+  "block.regions_unexplored.maple_fence_gate": {
+    "en": "Maple Fence Gate",
+    "zh": "枫木栅栏门",
+    "vi": "Maple Fence Gate"
+  },
+  "block.regions_unexplored.maple_hanging_sign": {
+    "en": "Maple Hanging Sign",
+    "zh": "悬挂式枫木告示牌",
+    "vi": "Maple Hanging Sign"
+  },
+  "block.regions_unexplored.maple_leaf_pile": {
+    "en": "Maple Leaf Pile",
+    "zh": "枫叶片",
+    "vi": "Maple Leaf Pile"
+  },
+  "block.regions_unexplored.maple_leaves": {
+    "en": "Maple Leaves",
+    "zh": "枫树树叶",
+    "vi": "Maple Leaves"
+  },
+  "block.regions_unexplored.maple_log": {
+    "en": "Maple Log",
+    "zh": "枫木原木",
+    "vi": "Maple Log"
+  },
+  "block.regions_unexplored.maple_planks": {
+    "en": "Maple Planks",
+    "zh": "枫木木板",
+    "vi": "Maple Planks"
+  },
+  "block.regions_unexplored.maple_pressure_plate": {
+    "en": "Maple Pressure Plate",
+    "zh": "枫木压力板",
+    "vi": "Maple Pressure Plate"
+  },
+  "block.regions_unexplored.maple_sapling": {
+    "en": "Maple Sapling",
+    "zh": "枫树苗",
+    "vi": "Maple Sapling"
+  },
+  "block.regions_unexplored.maple_shrub": {
+    "en": "Maple Shrub",
+    "zh": "枫树灌木",
+    "vi": "Maple Shrub"
+  },
+  "block.regions_unexplored.maple_sign": {
+    "en": "Maple Sign",
+    "zh": "枫木告示牌",
+    "vi": "Maple Sign"
+  },
+  "block.regions_unexplored.maple_slab": {
+    "en": "Maple Slab",
+    "zh": "枫木台阶",
+    "vi": "Maple Slab"
+  },
+  "block.regions_unexplored.maple_stairs": {
+    "en": "Maple Stairs",
+    "zh": "枫木楼梯",
+    "vi": "Maple Stairs"
+  },
+  "block.regions_unexplored.maple_trapdoor": {
+    "en": "Maple Trapdoor",
+    "zh": "枫木活板门",
+    "vi": "Maple Trapdoor"
+  },
+  "block.regions_unexplored.maple_wood": {
+    "en": "Maple Wood",
+    "zh": "枫木",
+    "vi": "Maple Wood"
+  },
+  "block.regions_unexplored.mauve_branch": {
+    "en": "Mauve Branch",
+    "zh": "魅紫树枝",
+    "vi": "Mauve Branch"
+  },
+  "block.regions_unexplored.mauve_button": {
+    "en": "Mauve Button",
+    "zh": "魅紫木按钮",
+    "vi": "Mauve Button"
+  },
+  "block.regions_unexplored.mauve_door": {
+    "en": "Mauve Door",
+    "zh": "魅紫木门",
+    "vi": "Mauve Door"
+  },
+  "block.regions_unexplored.mauve_fence": {
+    "en": "Mauve Fence",
+    "zh": "魅紫木栅栏",
+    "vi": "Mauve Fence"
+  },
+  "block.regions_unexplored.mauve_fence_gate": {
+    "en": "Mauve Fence Gate",
+    "zh": "魅紫木栅栏门",
+    "vi": "Mauve Fence Gate"
+  },
+  "block.regions_unexplored.mauve_hanging_sign": {
+    "en": "Mauve Hanging Sign",
+    "zh": "悬挂式魅紫木告示牌",
+    "vi": "Mauve Hanging Sign"
+  },
+  "block.regions_unexplored.mauve_leaves": {
+    "en": "Mauve Leaves",
+    "zh": "魅紫树叶",
+    "vi": "Mauve Leaves"
+  },
+  "block.regions_unexplored.mauve_log": {
+    "en": "Mauve Log",
+    "zh": "魅紫原木",
+    "vi": "Mauve Log"
+  },
+  "block.regions_unexplored.mauve_planks": {
+    "en": "Mauve Planks",
+    "zh": "魅紫木板",
+    "vi": "Mauve Planks"
+  },
+  "block.regions_unexplored.mauve_pressure_plate": {
+    "en": "Mauve Pressure Plate",
+    "zh": "魅紫木压力板",
+    "vi": "Mauve Pressure Plate"
+  },
+  "block.regions_unexplored.mauve_sapling": {
+    "en": "Mauve Sapling",
+    "zh": "魅紫树苗",
+    "vi": "Mauve Sapling"
+  },
+  "block.regions_unexplored.mauve_shrub": {
+    "en": "Mauve Shrub",
+    "zh": "魅紫灌木",
+    "vi": "Mauve Shrub"
+  },
+  "block.regions_unexplored.mauve_sign": {
+    "en": "Mauve Sign",
+    "zh": "魅紫木告示牌",
+    "vi": "Mauve Sign"
+  },
+  "block.regions_unexplored.mauve_slab": {
+    "en": "Mauve Slab",
+    "zh": "魅紫木台阶",
+    "vi": "Mauve Slab"
+  },
+  "block.regions_unexplored.mauve_stairs": {
+    "en": "Mauve Stairs",
+    "zh": "魅紫木楼梯",
+    "vi": "Mauve Stairs"
+  },
+  "block.regions_unexplored.mauve_trapdoor": {
+    "en": "Mauve Trapdoor",
+    "zh": "魅紫木活板门",
+    "vi": "Mauve Trapdoor"
+  },
+  "block.regions_unexplored.mauve_wood": {
+    "en": "Mauve Wood",
+    "zh": "魅紫木",
+    "vi": "Mauve Wood"
+  },
+  "block.regions_unexplored.meadow_sage": {
+    "en": "Meadow Sage",
+    "zh": "草甸鼠尾草",
+    "vi": "Meadow Sage"
+  },
+  "block.regions_unexplored.medium_grass": {
+    "en": "Medium Grass",
+    "zh": "中型草",
+    "vi": "Medium Grass"
+  },
+  "block.regions_unexplored.mossy_stone": {
+    "en": "Mossy Stone",
+    "zh": "覆苔石头",
+    "vi": "Mossy Stone"
+  },
+  "block.regions_unexplored.mycotoxic_daisy": {
+    "en": "Mycotoxic Daisy",
+    "zh": "毒菌雏菊",
+    "vi": "Mycotoxic Daisy"
+  },
+  "block.regions_unexplored.mycotoxic_grass": {
+    "en": "Mycotoxic Grass",
+    "zh": "毒菌草",
+    "vi": "Mycotoxic Grass"
+  },
+  "block.regions_unexplored.mycotoxic_moss": {
+    "en": "Mycotoxic Moss",
+    "zh": "毒菌苔岩",
+    "vi": "Mycotoxic Moss"
+  },
+  "block.regions_unexplored.mycotoxic_mushrooms": {
+    "en": "Mycotoxic Mushrooms",
+    "zh": "毒菌",
+    "vi": "Mycotoxic Mushrooms"
+  },
+  "block.regions_unexplored.oak_branch": {
+    "en": "Oak Branch",
+    "zh": "橡树枝",
+    "vi": "Oak Branch"
+  },
+  "block.regions_unexplored.oak_shrub": {
+    "en": "Oak Shrub",
+    "zh": "橡树灌木",
+    "vi": "Oak Shrub"
+  },
+  "block.regions_unexplored.orange_coneflower": {
+    "en": "Orange Coneflower",
+    "zh": "橙色松果菊",
+    "vi": "Orange Coneflower"
+  },
+  "block.regions_unexplored.orange_maple_leaf_pile": {
+    "en": "Orange Maple Leaf Pile",
+    "zh": "橙色枫叶片",
+    "vi": "Orange Maple Leaf Pile"
+  },
+  "block.regions_unexplored.orange_maple_leaves": {
+    "en": "Orange Maple Leaves",
+    "zh": "橙色枫树叶",
+    "vi": "Orange Maple Leaves"
+  },
+  "block.regions_unexplored.orange_maple_sapling": {
+    "en": "Orange Maple Sapling",
+    "zh": "橙色枫树苗",
+    "vi": "Orange Maple Sapling"
+  },
+  "block.regions_unexplored.orange_maple_shrub": {
+    "en": "Orange Maple Shrub",
+    "zh": "橙色枫灌木",
+    "vi": "Orange Maple Shrub"
+  },
+  "block.regions_unexplored.orange_painted_planks": {
+    "en": "Orange Painted Planks",
+    "zh": "橙色染色木板",
+    "vi": "Orange Painted Planks"
+  },
+  "block.regions_unexplored.orange_painted_slab": {
+    "en": "Orange Painted Slab",
+    "zh": "橙色染色木台阶",
+    "vi": "Orange Painted Slab"
+  },
+  "block.regions_unexplored.orange_painted_stairs": {
+    "en": "Orange Painted Stairs",
+    "zh": "橙色染色木楼梯",
+    "vi": "Orange Painted Stairs"
+  },
+  "block.regions_unexplored.orange_snowbelle": {
+    "en": "Orange Snowbelle",
+    "zh": "橙色山梅花",
+    "vi": "Orange Snowbelle"
+  },
+  "block.regions_unexplored.overgrown_bone_block": {
+    "en": "Overgrown Bone Block",
+    "zh": "长草的骨块",
+    "vi": "Overgrown Bone Block"
+  },
+  "block.regions_unexplored.palm_beard": {
+    "en": "Palm Beard",
+    "zh": "棕榈树须",
+    "vi": "Palm Beard"
+  },
+  "block.regions_unexplored.palm_button": {
+    "en": "Palm Button",
+    "zh": "棕榈木按钮",
+    "vi": "Palm Button"
+  },
+  "block.regions_unexplored.palm_door": {
+    "en": "Palm Door",
+    "zh": "棕榈木门",
+    "vi": "Palm Door"
+  },
+  "block.regions_unexplored.palm_fence": {
+    "en": "Palm Fence",
+    "zh": "棕榈木栅栏",
+    "vi": "Palm Fence"
+  },
+  "block.regions_unexplored.palm_fence_gate": {
+    "en": "Palm Fence Gate",
+    "zh": "棕榈木栅栏门",
+    "vi": "Palm Fence Gate"
+  },
+  "block.regions_unexplored.palm_hanging_sign": {
+    "en": "Palm Hanging Sign",
+    "zh": "悬挂式棕榈木告示牌",
+    "vi": "Palm Hanging Sign"
+  },
+  "block.regions_unexplored.palm_leaves": {
+    "en": "Palm Leaves",
+    "zh": "棕榈树叶",
+    "vi": "Palm Leaves"
+  },
+  "block.regions_unexplored.palm_log": {
+    "en": "Palm Log",
+    "zh": "棕榈原木",
+    "vi": "Palm Log"
+  },
+  "block.regions_unexplored.palm_planks": {
+    "en": "Palm Planks",
+    "zh": "棕榈木板",
+    "vi": "Palm Planks"
+  },
+  "block.regions_unexplored.palm_pressure_plate": {
+    "en": "Palm Pressure Plate",
+    "zh": "棕榈木压力板",
+    "vi": "Palm Pressure Plate"
+  },
+  "block.regions_unexplored.palm_sapling": {
+    "en": "Palm Sapling",
+    "zh": "棕榈树苗",
+    "vi": "Palm Sapling"
+  },
+  "block.regions_unexplored.palm_shrub": {
+    "en": "Palm Shrub",
+    "zh": "棕榈灌木",
+    "vi": "Palm Shrub"
+  },
+  "block.regions_unexplored.palm_sign": {
+    "en": "Palm Sign",
+    "zh": "棕榈木告示牌",
+    "vi": "Palm Sign"
+  },
+  "block.regions_unexplored.palm_slab": {
+    "en": "Palm Slab",
+    "zh": "棕榈木台阶",
+    "vi": "Palm Slab"
+  },
+  "block.regions_unexplored.palm_stairs": {
+    "en": "Palm Stairs",
+    "zh": "棕榈木楼梯",
+    "vi": "Palm Stairs"
+  },
+  "block.regions_unexplored.palm_trapdoor": {
+    "en": "Palm Trapdoor",
+    "zh": "棕榈木活板门",
+    "vi": "Palm Trapdoor"
+  },
+  "block.regions_unexplored.palm_wood": {
+    "en": "Palm Wood",
+    "zh": "棕榈木",
+    "vi": "Palm Wood"
+  },
+  "block.regions_unexplored.peat_coarse_dirt": {
+    "en": "Peat Coarse Dirt",
+    "zh": "泥炭砂土",
+    "vi": "Peat Coarse Dirt"
+  },
+  "block.regions_unexplored.peat_dirt": {
+    "en": "Peat Dirt",
+    "zh": "泥炭土",
+    "vi": "Peat Dirt"
+  },
+  "block.regions_unexplored.peat_dirt_path": {
+    "en": "Peat Dirt Path",
+    "zh": "泥炭土径",
+    "vi": "Peat Dirt Path"
+  },
+  "block.regions_unexplored.peat_farmland": {
+    "en": "Peat Farmland",
+    "zh": "泥炭耕地",
+    "vi": "Peat Farmland"
+  },
+  "block.regions_unexplored.peat_grass_block": {
+    "en": "Peat Grass Block",
+    "zh": "泥炭草方块",
+    "vi": "Peat Grass Block"
+  },
+  "block.regions_unexplored.peat_mud": {
+    "en": "Peat Mud",
+    "zh": "泥炭泥巴",
+    "vi": "Peat Mud"
+  },
+  "block.regions_unexplored.peat_podzol": {
+    "en": "Peat Podzol",
+    "zh": "泥炭灰化土",
+    "vi": "Peat Podzol"
+  },
+  "block.regions_unexplored.pine_branch": {
+    "en": "Pine Branch",
+    "zh": "松树枝",
+    "vi": "Pine Branch"
+  },
+  "block.regions_unexplored.pine_button": {
+    "en": "Pine Button",
+    "zh": "松木按钮",
+    "vi": "Pine Button"
+  },
+  "block.regions_unexplored.pine_door": {
+    "en": "Pine Door",
+    "zh": "松木门",
+    "vi": "Pine Door"
+  },
+  "block.regions_unexplored.pine_fence": {
+    "en": "Pine Fence",
+    "zh": "松木栅栏",
+    "vi": "Pine Fence"
+  },
+  "block.regions_unexplored.pine_fence_gate": {
+    "en": "Pine Fence Gate",
+    "zh": "松木栅栏门",
+    "vi": "Pine Fence Gate"
+  },
+  "block.regions_unexplored.pine_hanging_sign": {
+    "en": "Pine Hanging Sign",
+    "zh": "悬挂式松木告示牌",
+    "vi": "Pine Hanging Sign"
+  },
+  "block.regions_unexplored.pine_leaves": {
+    "en": "Pine Leaves",
+    "zh": "松树树叶",
+    "vi": "Pine Leaves"
+  },
+  "block.regions_unexplored.pine_log": {
+    "en": "Pine Log",
+    "zh": "松树原木",
+    "vi": "Pine Log"
+  },
+  "block.regions_unexplored.pine_planks": {
+    "en": "Pine Planks",
+    "zh": "松木板",
+    "vi": "Pine Planks"
+  },
+  "block.regions_unexplored.pine_pressure_plate": {
+    "en": "Pine Pressure Plate",
+    "zh": "松木压力板",
+    "vi": "Pine Pressure Plate"
+  },
+  "block.regions_unexplored.pine_sapling": {
+    "en": "Pine Sapling",
+    "zh": "松树树苗",
+    "vi": "Pine Sapling"
+  },
+  "block.regions_unexplored.pine_shrub": {
+    "en": "Pine Shrub",
+    "zh": "松树灌木",
+    "vi": "Pine Shrub"
+  },
+  "block.regions_unexplored.pine_sign": {
+    "en": "Pine Sign",
+    "zh": "松木告示牌",
+    "vi": "Pine Sign"
+  },
+  "block.regions_unexplored.pine_slab": {
+    "en": "Pine Slab",
+    "zh": "松木台阶",
+    "vi": "Pine Slab"
+  },
+  "block.regions_unexplored.pine_stairs": {
+    "en": "Pine Stairs",
+    "zh": "松木楼梯",
+    "vi": "Pine Stairs"
+  },
+  "block.regions_unexplored.pine_trapdoor": {
+    "en": "Pine Trapdoor",
+    "zh": "松木活板门",
+    "vi": "Pine Trapdoor"
+  },
+  "block.regions_unexplored.pine_wood": {
+    "en": "Pine Wood",
+    "zh": "松木",
+    "vi": "Pine Wood"
+  },
+  "block.regions_unexplored.pink_bioshroom": {
+    "en": "Pink Bioshroom",
+    "zh": "粉红色生荧菇",
+    "vi": "Pink Bioshroom"
+  },
+  "block.regions_unexplored.pink_bioshroom_block": {
+    "en": "Pink Bioshroom Block",
+    "zh": "粉红色生荧菇块",
+    "vi": "Pink Bioshroom Block"
+  },
+  "block.regions_unexplored.pink_bioshroom_button": {
+    "en": "Pink Bioshroom Button",
+    "zh": "粉红色生荧木按钮",
+    "vi": "Pink Bioshroom Button"
+  },
+  "block.regions_unexplored.pink_bioshroom_door": {
+    "en": "Pink Bioshroom Door",
+    "zh": "粉红色生荧木门",
+    "vi": "Pink Bioshroom Door"
+  },
+  "block.regions_unexplored.pink_bioshroom_fence": {
+    "en": "Pink Bioshroom Fence",
+    "zh": "粉红色生荧木栅栏",
+    "vi": "Pink Bioshroom Fence"
+  },
+  "block.regions_unexplored.pink_bioshroom_fence_gate": {
+    "en": "Pink Bioshroom Fence Gate",
+    "zh": "粉红色生荧木栅栏门",
+    "vi": "Pink Bioshroom Fence Gate"
+  },
+  "block.regions_unexplored.pink_bioshroom_hanging_sign": {
+    "en": "Pink Bioshroom Hanging Sign",
+    "zh": "悬挂式粉红色生荧木告示牌",
+    "vi": "Pink Bioshroom Hanging Sign"
+  },
+  "block.regions_unexplored.pink_bioshroom_hyphae": {
+    "en": "Pink Bioshroom Hyphae",
+    "zh": "粉红色生荧菇菌核",
+    "vi": "Pink Bioshroom Hyphae"
+  },
+  "block.regions_unexplored.pink_bioshroom_planks": {
+    "en": "Pink Bioshroom Planks",
+    "zh": "粉红色生荧木板",
+    "vi": "Pink Bioshroom Planks"
+  },
+  "block.regions_unexplored.pink_bioshroom_pressure_plate": {
+    "en": "Pink Bioshroom Pressure Plate",
+    "zh": "粉红色生荧木压力板",
+    "vi": "Pink Bioshroom Pressure Plate"
+  },
+  "block.regions_unexplored.pink_bioshroom_sign": {
+    "en": "Pink Bioshroom Sign",
+    "zh": "粉红色生荧木告示牌",
+    "vi": "Pink Bioshroom Sign"
+  },
+  "block.regions_unexplored.pink_bioshroom_slab": {
+    "en": "Pink Bioshroom Slab",
+    "zh": "粉红色生荧木台阶",
+    "vi": "Pink Bioshroom Slab"
+  },
+  "block.regions_unexplored.pink_bioshroom_stairs": {
+    "en": "Pink Bioshroom Stairs",
+    "zh": "粉红色生荧木楼梯",
+    "vi": "Pink Bioshroom Stairs"
+  },
+  "block.regions_unexplored.pink_bioshroom_stem": {
+    "en": "Pink Bioshroom Stem",
+    "zh": "粉红色生荧菌柄",
+    "vi": "Pink Bioshroom Stem"
+  },
+  "block.regions_unexplored.pink_bioshroom_trapdoor": {
+    "en": "Pink Bioshroom Trapdoor",
+    "zh": "粉红色生荧木活板门",
+    "vi": "Pink Bioshroom Trapdoor"
+  },
+  "block.regions_unexplored.pink_lupine": {
+    "en": "Pink Lupine",
+    "zh": "粉红色羽扇豆",
+    "vi": "Pink Lupine"
+  },
+  "block.regions_unexplored.pink_magnolia_flowers": {
+    "en": "Pink Magnolia Flowers",
+    "zh": "粉红色木兰花簇",
+    "vi": "Pink Magnolia Flowers"
+  },
+  "block.regions_unexplored.pink_magnolia_leaves": {
+    "en": "Pink Magnolia Leaves",
+    "zh": "粉红色木兰树叶",
+    "vi": "Pink Magnolia Leaves"
+  },
+  "block.regions_unexplored.pink_magnolia_sapling": {
+    "en": "Pink Magnolia Sapling",
+    "zh": "粉红色木兰树苗",
+    "vi": "Pink Magnolia Sapling"
+  },
+  "block.regions_unexplored.pink_magnolia_shrub": {
+    "en": "Pink Magnolia Shrub",
+    "zh": "粉红色木兰灌木",
+    "vi": "Pink Magnolia Shrub"
+  },
+  "block.regions_unexplored.pink_painted_planks": {
+    "en": "Pink Painted Planks",
+    "zh": "粉红色染色木板",
+    "vi": "Pink Painted Planks"
+  },
+  "block.regions_unexplored.pink_painted_slab": {
+    "en": "Pink Painted Slab",
+    "zh": "粉红色染色木台阶",
+    "vi": "Pink Painted Slab"
+  },
+  "block.regions_unexplored.pink_painted_stairs": {
+    "en": "Pink Painted Stairs",
+    "zh": "粉红色染色木楼梯",
+    "vi": "Pink Painted Stairs"
+  },
+  "block.regions_unexplored.pink_snowbelle": {
+    "en": "Pink Snowbelle",
+    "zh": "粉红色山梅花",
+    "vi": "Pink Snowbelle"
+  },
+  "block.regions_unexplored.pointed_redstone": {
+    "en": "Pointed Redstone",
+    "zh": "红石晶尖",
+    "vi": "Pointed Redstone"
+  },
+  "block.regions_unexplored.polished_chalk": {
+    "en": "Polished Chalk",
+    "zh": "磨制白垩",
+    "vi": "Polished Chalk"
+  },
+  "block.regions_unexplored.polished_chalk_slab": {
+    "en": "Polished Chalk Slab",
+    "zh": "磨制白垩台阶",
+    "vi": "Polished Chalk Slab"
+  },
+  "block.regions_unexplored.polished_chalk_stairs": {
+    "en": "Polished Chalk Stairs",
+    "zh": "磨制白垩楼梯",
+    "vi": "Polished Chalk Stairs"
+  },
+  "block.regions_unexplored.poppy_bush": {
+    "en": "Poppy Bush",
+    "zh": "虞美人丛",
+    "vi": "Poppy Bush"
+  },
+  "block.regions_unexplored.prismaglass": {
+    "en": "Prismaglass",
+    "zh": "彩虹玻璃",
+    "vi": "Prismaglass"
+  },
+  "block.regions_unexplored.prismarite_cluster": {
+    "en": "Prismarite Cluster",
+    "zh": "彩虹水晶晶簇",
+    "vi": "Prismarite Cluster"
+  },
+  "block.regions_unexplored.prismoss": {
+    "en": "Prismoss",
+    "zh": "彩虹苔岩",
+    "vi": "Prismoss"
+  },
+  "block.regions_unexplored.prismoss_sprout": {
+    "en": "Prismoss Sprout",
+    "zh": "彩虹晶苗",
+    "vi": "Prismoss Sprout"
+  },
+  "block.regions_unexplored.purple_coneflower": {
+    "en": "Purple Coneflower",
+    "zh": "紫色松果菊",
+    "vi": "Purple Coneflower"
+  },
+  "block.regions_unexplored.purple_lupine": {
+    "en": "Purple Lupine",
+    "zh": "紫色羽扇豆",
+    "vi": "Purple Lupine"
+  },
+  "block.regions_unexplored.purple_painted_planks": {
+    "en": "Purple Painted Planks",
+    "zh": "紫色染色木板",
+    "vi": "Purple Painted Planks"
+  },
+  "block.regions_unexplored.purple_painted_slab": {
+    "en": "Purple Painted Slab",
+    "zh": "紫色染色木台阶",
+    "vi": "Purple Painted Slab"
+  },
+  "block.regions_unexplored.purple_painted_stairs": {
+    "en": "Purple Painted Stairs",
+    "zh": "紫色染色木楼梯",
+    "vi": "Purple Painted Stairs"
+  },
+  "block.regions_unexplored.purple_snowbelle": {
+    "en": "Purple Snowbelle",
+    "zh": "紫色山梅花",
+    "vi": "Purple Snowbelle"
+  },
+  "block.regions_unexplored.raw_redstone_block": {
+    "en": "Raw Redstone Block",
+    "zh": "粗红石块",
+    "vi": "Raw Redstone Block"
+  },
+  "block.regions_unexplored.red_lupine": {
+    "en": "Red Lupine",
+    "zh": "红色羽扇豆",
+    "vi": "Red Lupine"
+  },
+  "block.regions_unexplored.red_maple_leaf_pile": {
+    "en": "Red Maple Leaf Pile",
+    "zh": "红色枫叶片",
+    "vi": "Red Maple Leaf Pile"
+  },
+  "block.regions_unexplored.red_maple_leaves": {
+    "en": "Red Maple Leaves",
+    "zh": "红色枫树叶",
+    "vi": "Red Maple Leaves"
+  },
+  "block.regions_unexplored.red_maple_sapling": {
+    "en": "Red Maple Sapling",
+    "zh": "红色枫树苗",
+    "vi": "Red Maple Sapling"
+  },
+  "block.regions_unexplored.red_maple_shrub": {
+    "en": "Red Maple Shrub",
+    "zh": "红色枫灌木",
+    "vi": "Red Maple Shrub"
+  },
+  "block.regions_unexplored.red_painted_planks": {
+    "en": "Red Painted Planks",
+    "zh": "红色染色木板",
+    "vi": "Red Painted Planks"
+  },
+  "block.regions_unexplored.red_painted_slab": {
+    "en": "Red Painted Slab",
+    "zh": "红色染色木台阶",
+    "vi": "Red Painted Slab"
+  },
+  "block.regions_unexplored.red_painted_stairs": {
+    "en": "Red Painted Stairs",
+    "zh": "红色染色木楼梯",
+    "vi": "Red Painted Stairs"
+  },
+  "block.regions_unexplored.red_snowbelle": {
+    "en": "Red Snowbelle",
+    "zh": "红色山梅花",
+    "vi": "Red Snowbelle"
+  },
+  "block.regions_unexplored.redstone_bud": {
+    "en": "Redstone Bud",
+    "zh": "红石晶芽",
+    "vi": "Redstone Bud"
+  },
+  "block.regions_unexplored.redstone_bulb": {
+    "en": "Redstone Bulb",
+    "zh": "红石晶球",
+    "vi": "Redstone Bulb"
+  },
+  "block.regions_unexplored.redwood_branch": {
+    "en": "Redwood Branch",
+    "zh": "红衫树枝",
+    "vi": "Redwood Branch"
+  },
+  "block.regions_unexplored.redwood_button": {
+    "en": "Redwood Button",
+    "zh": "红衫木按钮",
+    "vi": "Redwood Button"
+  },
+  "block.regions_unexplored.redwood_door": {
+    "en": "Redwood Door",
+    "zh": "红衫木门",
+    "vi": "Redwood Door"
+  },
+  "block.regions_unexplored.redwood_fence": {
+    "en": "Redwood Fence",
+    "zh": "红衫木栅栏",
+    "vi": "Redwood Fence"
+  },
+  "block.regions_unexplored.redwood_fence_gate": {
+    "en": "Redwood Fence Gate",
+    "zh": "红衫木栅栏门",
+    "vi": "Redwood Fence Gate"
+  },
+  "block.regions_unexplored.redwood_hanging_sign": {
+    "en": "Redwood Hanging Sign",
+    "zh": "悬挂式红衫木告示牌",
+    "vi": "Redwood Hanging Sign"
+  },
+  "block.regions_unexplored.redwood_leaves": {
+    "en": "Redwood Leaves",
+    "zh": "红衫树叶",
+    "vi": "Redwood Leaves"
+  },
+  "block.regions_unexplored.redwood_log": {
+    "en": "Redwood Log",
+    "zh": "红衫原木",
+    "vi": "Redwood Log"
+  },
+  "block.regions_unexplored.redwood_planks": {
+    "en": "Redwood Planks",
+    "zh": "红衫木板",
+    "vi": "Redwood Planks"
+  },
+  "block.regions_unexplored.redwood_pressure_plate": {
+    "en": "Redwood Pressure Plate",
+    "zh": "红衫木压力板",
+    "vi": "Redwood Pressure Plate"
+  },
+  "block.regions_unexplored.redwood_sapling": {
+    "en": "Redwood Sapling",
+    "zh": "红衫树苗",
+    "vi": "Redwood Sapling"
+  },
+  "block.regions_unexplored.redwood_shrub": {
+    "en": "Redwood Shrub",
+    "zh": "红衫灌木",
+    "vi": "Redwood Shrub"
+  },
+  "block.regions_unexplored.redwood_sign": {
+    "en": "Redwood Sign",
+    "zh": "红衫木告示牌",
+    "vi": "Redwood Sign"
+  },
+  "block.regions_unexplored.redwood_slab": {
+    "en": "Redwood Slab",
+    "zh": "红衫木台阶",
+    "vi": "Redwood Slab"
+  },
+  "block.regions_unexplored.redwood_stairs": {
+    "en": "Redwood Stairs",
+    "zh": "红衫木楼梯",
+    "vi": "Redwood Stairs"
+  },
+  "block.regions_unexplored.redwood_trapdoor": {
+    "en": "Redwood Trapdoor",
+    "zh": "红衫木活板门",
+    "vi": "Redwood Trapdoor"
+  },
+  "block.regions_unexplored.redwood_wood": {
+    "en": "Redwood Wood",
+    "zh": "红衫木",
+    "vi": "Redwood Wood"
+  },
+  "block.regions_unexplored.saguaro_cactus": {
+    "en": "Saguaro Cactus",
+    "zh": "巨人柱",
+    "vi": "Saguaro Cactus"
+  },
+  "block.regions_unexplored.salmon_poppy_bush": {
+    "en": "Salmon Poppy Bush",
+    "zh": "鲑莓灌木",
+    "vi": "Salmon Poppy Bush"
+  },
+  "block.regions_unexplored.salmonberry_bush": {
+    "en": "Salmonberry",
+    "zh": "鲑莓",
+    "vi": "Salmonberry"
+  },
+  "block.regions_unexplored.sandy_grass": {
+    "en": "Sandy Grass",
+    "zh": "沙草",
+    "vi": "Sandy Grass"
+  },
+  "block.regions_unexplored.sandy_tall_grass": {
+    "en": "Sandy Tall Grass",
+    "zh": "高沙草丛",
+    "vi": "Sandy Tall Grass"
+  },
+  "block.regions_unexplored.silt_coarse_dirt": {
+    "en": "Silt Coarse Dirt",
+    "zh": "淤灰砂土",
+    "vi": "Silt Coarse Dirt"
+  },
+  "block.regions_unexplored.silt_dirt": {
+    "en": "Silt Dirt",
+    "zh": "淤灰泥土",
+    "vi": "Silt Dirt"
+  },
+  "block.regions_unexplored.silt_dirt_path": {
+    "en": "Silt Dirt Path",
+    "zh": "淤灰土径",
+    "vi": "Silt Dirt Path"
+  },
+  "block.regions_unexplored.silt_farmland": {
+    "en": "Silt Farmland",
+    "zh": "淤灰耕地",
+    "vi": "Silt Farmland"
+  },
+  "block.regions_unexplored.silt_grass_block": {
+    "en": "Silt Grass Block",
+    "zh": "淤灰草方块",
+    "vi": "Silt Grass Block"
+  },
+  "block.regions_unexplored.silt_mud": {
+    "en": "Silt Mud",
+    "zh": "淤灰泥巴",
+    "vi": "Silt Mud"
+  },
+  "block.regions_unexplored.silt_podzol": {
+    "en": "Silt Podzol",
+    "zh": "淤灰灰化土",
+    "vi": "Silt Podzol"
+  },
+  "block.regions_unexplored.silver_birch_branch": {
+    "en": "Silver Birch Branch",
+    "zh": "银桦树枝",
+    "vi": "Silver Birch Branch"
+  },
+  "block.regions_unexplored.silver_birch_leaf_pile": {
+    "en": "Silver Birch Leaf Pile",
+    "zh": "银桦叶片",
+    "vi": "Silver Birch Leaf Pile"
+  },
+  "block.regions_unexplored.silver_birch_leaves": {
+    "en": "Silver Birch Leaves",
+    "zh": "银桦树叶",
+    "vi": "Silver Birch Leaves"
+  },
+  "block.regions_unexplored.silver_birch_log": {
+    "en": "Silver Birch Log",
+    "zh": "银桦原木",
+    "vi": "Silver Birch Log"
+  },
+  "block.regions_unexplored.silver_birch_sapling": {
+    "en": "Silver Birch Sapling",
+    "zh": "银桦树苗",
+    "vi": "Silver Birch Sapling"
+  },
+  "block.regions_unexplored.silver_birch_shrub": {
+    "en": "Silver Birch Shrub",
+    "zh": "银桦灌木",
+    "vi": "Silver Birch Shrub"
+  },
+  "block.regions_unexplored.silver_birch_wood": {
+    "en": "Silver Birch Wood",
+    "zh": "银桦木",
+    "vi": "Silver Birch Wood"
+  },
+  "block.regions_unexplored.small_desert_shrub": {
+    "en": "Small Desert Shrub",
+    "zh": "小型沙漠灌木",
+    "vi": "Small Desert Shrub"
+  },
+  "block.regions_unexplored.small_oak_leaves": {
+    "en": "Small Oak Leaves",
+    "zh": "小型橡树叶",
+    "vi": "Small Oak Leaves"
+  },
+  "block.regions_unexplored.small_oak_log": {
+    "en": "Small Oak Log",
+    "zh": "小型橡原木",
+    "vi": "Small Oak Log"
+  },
+  "block.regions_unexplored.small_oak_sapling": {
+    "en": "Small Oak Sapling",
+    "zh": "小型橡树苗",
+    "vi": "Small Oak Sapling"
+  },
+  "block.regions_unexplored.socotra_branch": {
+    "en": "Socotra Branch",
+    "zh": "龙血树枝",
+    "vi": "Socotra Branch"
+  },
+  "block.regions_unexplored.socotra_button": {
+    "en": "Socotra Button",
+    "zh": "龙血木按钮",
+    "vi": "Socotra Button"
+  },
+  "block.regions_unexplored.socotra_door": {
+    "en": "Socotra Door",
+    "zh": "龙血木门",
+    "vi": "Socotra Door"
+  },
+  "block.regions_unexplored.socotra_fence": {
+    "en": "Socotra Fence",
+    "zh": "龙血木栅栏",
+    "vi": "Socotra Fence"
+  },
+  "block.regions_unexplored.socotra_fence_gate": {
+    "en": "Socotra Fence Gate",
+    "zh": "龙血木栅栏门",
+    "vi": "Socotra Fence Gate"
+  },
+  "block.regions_unexplored.socotra_hanging_sign": {
+    "en": "Socotra Hanging Sign",
+    "zh": "悬挂式龙血木告示牌",
+    "vi": "Socotra Hanging Sign"
+  },
+  "block.regions_unexplored.socotra_leaves": {
+    "en": "Socotra Leaves",
+    "zh": "龙血树叶",
+    "vi": "Socotra Leaves"
+  },
+  "block.regions_unexplored.socotra_log": {
+    "en": "Socotra Log",
+    "zh": "龙血原木",
+    "vi": "Socotra Log"
+  },
+  "block.regions_unexplored.socotra_planks": {
+    "en": "Socotra Planks",
+    "zh": "龙血木板",
+    "vi": "Socotra Planks"
+  },
+  "block.regions_unexplored.socotra_pressure_plate": {
+    "en": "Socotra Pressure Plate",
+    "zh": "龙血木压力板",
+    "vi": "Socotra Pressure Plate"
+  },
+  "block.regions_unexplored.socotra_sapling": {
+    "en": "Socotra Sapling",
+    "zh": "龙血树苗",
+    "vi": "Socotra Sapling"
+  },
+  "block.regions_unexplored.socotra_shrub": {
+    "en": "Socotra Shrub",
+    "zh": "龙血灌木",
+    "vi": "Socotra Shrub"
+  },
+  "block.regions_unexplored.socotra_sign": {
+    "en": "Socotra Sign",
+    "zh": "龙血木告示牌",
+    "vi": "Socotra Sign"
+  },
+  "block.regions_unexplored.socotra_slab": {
+    "en": "Socotra Slab",
+    "zh": "龙血木台阶",
+    "vi": "Socotra Slab"
+  },
+  "block.regions_unexplored.socotra_stairs": {
+    "en": "Socotra Stairs",
+    "zh": "龙血木楼梯",
+    "vi": "Socotra Stairs"
+  },
+  "block.regions_unexplored.socotra_trapdoor": {
+    "en": "Socotra Trapdoor",
+    "zh": "龙血木活板门",
+    "vi": "Socotra Trapdoor"
+  },
+  "block.regions_unexplored.socotra_wood": {
+    "en": "Socotra Wood",
+    "zh": "龙血木",
+    "vi": "Socotra Wood"
+  },
+  "block.regions_unexplored.spanish_moss": {
+    "en": "Spanish Moss",
+    "zh": "寄生藤",
+    "vi": "Spanish Moss"
+  },
+  "block.regions_unexplored.spruce_branch": {
+    "en": "Spruce Branch",
+    "zh": "云杉树枝",
+    "vi": "Spruce Branch"
+  },
+  "block.regions_unexplored.spruce_shrub": {
+    "en": "Spruce Shrub",
+    "zh": "云杉灌木",
+    "vi": "Spruce Shrub"
+  },
+  "block.regions_unexplored.steppe_grass": {
+    "en": "Steppe Grass",
+    "zh": "干草原草",
+    "vi": "Steppe Grass"
+  },
+  "block.regions_unexplored.steppe_shrub": {
+    "en": "Steppe Shrub",
+    "zh": "干草原灌木",
+    "vi": "Steppe Shrub"
+  },
+  "block.regions_unexplored.steppe_tall_grass": {
+    "en": "Steppe Tall Grass",
+    "zh": "干草原高草丛",
+    "vi": "Steppe Tall Grass"
+  },
+  "block.regions_unexplored.stone_bud": {
+    "en": "Stone Bud",
+    "zh": "石芽",
+    "vi": "Stone Bud"
+  },
+  "block.regions_unexplored.stone_grass_block": {
+    "en": "Stone Grass Block",
+    "zh": "石草方块",
+    "vi": "Stone Grass Block"
+  },
+  "block.regions_unexplored.stripped_bamboo_log": {
+    "en": "Stripped Bamboo Log",
+    "zh": "去皮竹竿",
+    "vi": "Stripped Bamboo Log"
+  },
+  "block.regions_unexplored.stripped_baobab_log": {
+    "en": "Stripped Baobab Log",
+    "zh": "去皮猴面包原木",
+    "vi": "Stripped Baobab Log"
+  },
+  "block.regions_unexplored.stripped_baobab_wood": {
+    "en": "Stripped Baobab Wood",
+    "zh": "去皮猴面包木",
+    "vi": "Stripped Baobab Wood"
+  },
+  "block.regions_unexplored.stripped_blackwood_log": {
+    "en": "Stripped Blackwood Log",
+    "zh": "去皮黑檀原木",
+    "vi": "Stripped Blackwood Log"
+  },
+  "block.regions_unexplored.stripped_blackwood_wood": {
+    "en": "Stripped Blackwood Wood",
+    "zh": "去皮黑檀木",
+    "vi": "Stripped Blackwood Wood"
+  },
+  "block.regions_unexplored.stripped_blue_bioshroom_hyphae": {
+    "en": "Stripped Blue Bioshroom Hyphae",
+    "zh": "去皮蓝色生荧菇菌核",
+    "vi": "Stripped Blue Bioshroom Hyphae"
+  },
+  "block.regions_unexplored.stripped_blue_bioshroom_stem": {
+    "en": "Stripped Blue Bioshroom Stem",
+    "zh": "去皮蓝色生荧菌柄",
+    "vi": "Stripped Blue Bioshroom Stem"
+  },
+  "block.regions_unexplored.stripped_brimwood_log": {
+    "en": "Stripped Brimwood Log",
+    "zh": "去皮结界原木",
+    "vi": "Stripped Brimwood Log"
+  },
+  "block.regions_unexplored.stripped_brimwood_wood": {
+    "en": "Stripped Brimwood Wood",
+    "zh": "去皮结界木",
+    "vi": "Stripped Brimwood Wood"
+  },
+  "block.regions_unexplored.stripped_cobalt_log": {
+    "en": "Stripped Cobalt Log",
+    "zh": "去皮钴原木",
+    "vi": "Stripped Cobalt Log"
+  },
+  "block.regions_unexplored.stripped_cobalt_wood": {
+    "en": "Stripped Cobalt Wood",
+    "zh": "去皮钴木",
+    "vi": "Stripped Cobalt Wood"
+  },
+  "block.regions_unexplored.stripped_cypress_log": {
+    "en": "Stripped Cypress Log",
+    "zh": "去皮柏原木",
+    "vi": "Stripped Cypress Log"
+  },
+  "block.regions_unexplored.stripped_cypress_wood": {
+    "en": "Stripped Cypress Wood",
+    "zh": "去皮柏木",
+    "vi": "Stripped Cypress Wood"
+  },
+  "block.regions_unexplored.stripped_dead_log": {
+    "en": "Stripped Dead Log",
+    "zh": "去皮亡灵木原木",
+    "vi": "Stripped Dead Log"
+  },
+  "block.regions_unexplored.stripped_dead_wood": {
+    "en": "Stripped Dead Wood",
+    "zh": "去皮亡灵木木",
+    "vi": "Stripped Dead Wood"
+  },
+  "block.regions_unexplored.stripped_eucalyptus_log": {
+    "en": "Stripped Eucalyptus Log",
+    "zh": "去皮桉树原木",
+    "vi": "Stripped Eucalyptus Log"
+  },
+  "block.regions_unexplored.stripped_eucalyptus_wood": {
+    "en": "Stripped Eucalyptus Wood",
+    "zh": "去皮桉木",
+    "vi": "Stripped Eucalyptus Wood"
+  },
+  "block.regions_unexplored.stripped_green_bioshroom_hyphae": {
+    "en": "Stripped Green Bioshroom Hyphae",
+    "zh": "去皮绿色生荧菇菌核",
+    "vi": "Stripped Green Bioshroom Hyphae"
+  },
+  "block.regions_unexplored.stripped_green_bioshroom_stem": {
+    "en": "Stripped Green Bioshroom Stem",
+    "zh": "去皮绿色生荧菌柄",
+    "vi": "Stripped Green Bioshroom Stem"
+  },
+  "block.regions_unexplored.stripped_joshua_log": {
+    "en": "Stripped Joshua Log",
+    "zh": "去皮约书亚原木",
+    "vi": "Stripped Joshua Log"
+  },
+  "block.regions_unexplored.stripped_joshua_wood": {
+    "en": "Stripped Joshua Wood",
+    "zh": "去皮约书亚木",
+    "vi": "Stripped Joshua Wood"
+  },
+  "block.regions_unexplored.stripped_kapok_log": {
+    "en": "Stripped Kapok Log",
+    "zh": "去皮木棉原木",
+    "vi": "Stripped Kapok Log"
+  },
+  "block.regions_unexplored.stripped_kapok_wood": {
+    "en": "Stripped Kapok Wood",
+    "zh": "去皮木棉木",
+    "vi": "Stripped Kapok Wood"
+  },
+  "block.regions_unexplored.stripped_larch_log": {
+    "en": "Stripped Larch Log",
+    "zh": "去皮落叶松原木",
+    "vi": "Stripped Larch Log"
+  },
+  "block.regions_unexplored.stripped_larch_wood": {
+    "en": "Stripped Larch Wood",
+    "zh": "去皮落叶松木",
+    "vi": "Stripped Larch Wood"
+  },
+  "block.regions_unexplored.stripped_magnolia_log": {
+    "en": "Stripped Magnolia Log",
+    "zh": "去皮木兰原木",
+    "vi": "Stripped Magnolia Log"
+  },
+  "block.regions_unexplored.stripped_magnolia_wood": {
+    "en": "Stripped Magnolia Wood",
+    "zh": "去皮木兰木",
+    "vi": "Stripped Magnolia Wood"
+  },
+  "block.regions_unexplored.stripped_maple_log": {
+    "en": "Stripped Maple Log",
+    "zh": "去皮枫原木",
+    "vi": "Stripped Maple Log"
+  },
+  "block.regions_unexplored.stripped_maple_wood": {
+    "en": "Stripped Maple Wood",
+    "zh": "去皮枫木",
+    "vi": "Stripped Maple Wood"
+  },
+  "block.regions_unexplored.stripped_mauve_log": {
+    "en": "Stripped Mauve Log",
+    "zh": "去皮魅紫原木",
+    "vi": "Stripped Mauve Log"
+  },
+  "block.regions_unexplored.stripped_mauve_wood": {
+    "en": "Stripped Mauve Wood",
+    "zh": "去皮魅紫木",
+    "vi": "Stripped Mauve Wood"
+  },
+  "block.regions_unexplored.stripped_palm_log": {
+    "en": "Stripped Palm Log",
+    "zh": "去皮棕榈原木",
+    "vi": "Stripped Palm Log"
+  },
+  "block.regions_unexplored.stripped_palm_wood": {
+    "en": "Stripped Palm Wood",
+    "zh": "去皮棕榈木",
+    "vi": "Stripped Palm Wood"
+  },
+  "block.regions_unexplored.stripped_pine_log": {
+    "en": "Stripped Pine Log",
+    "zh": "去皮松树原木",
+    "vi": "Stripped Pine Log"
+  },
+  "block.regions_unexplored.stripped_pine_wood": {
+    "en": "Stripped Pine Wood",
+    "zh": "去皮松木",
+    "vi": "Stripped Pine Wood"
+  },
+  "block.regions_unexplored.stripped_pink_bioshroom_hyphae": {
+    "en": "Stripped Pink Bioshroom Hyphae",
+    "zh": "去皮粉红色生荧菇菌核",
+    "vi": "Stripped Pink Bioshroom Hyphae"
+  },
+  "block.regions_unexplored.stripped_pink_bioshroom_stem": {
+    "en": "Stripped Pink Bioshroom Stem",
+    "zh": "去皮粉红色生荧菌柄",
+    "vi": "Stripped Pink Bioshroom Stem"
+  },
+  "block.regions_unexplored.stripped_redwood_log": {
+    "en": "Stripped Redwood Log",
+    "zh": "去皮红衫原木",
+    "vi": "Stripped Redwood Log"
+  },
+  "block.regions_unexplored.stripped_redwood_wood": {
+    "en": "Stripped Redwood Wood",
+    "zh": "去皮红衫木",
+    "vi": "Stripped Redwood Wood"
+  },
+  "block.regions_unexplored.stripped_small_oak_log": {
+    "en": "Stripped Small Oak Log",
+    "zh": "去皮小型橡原木",
+    "vi": "Stripped Small Oak Log"
+  },
+  "block.regions_unexplored.stripped_socotra_log": {
+    "en": "Stripped Socotra Log",
+    "zh": "去皮龙血原木",
+    "vi": "Stripped Socotra Log"
+  },
+  "block.regions_unexplored.stripped_socotra_wood": {
+    "en": "Stripped Socotra Wood",
+    "zh": "去皮龙血木",
+    "vi": "Stripped Socotra Wood"
+  },
+  "block.regions_unexplored.stripped_willow_log": {
+    "en": "Stripped Willow Log",
+    "zh": "去皮柳树原木",
+    "vi": "Stripped Willow Log"
+  },
+  "block.regions_unexplored.stripped_willow_wood": {
+    "en": "Stripped Willow Wood",
+    "zh": "去皮柳木",
+    "vi": "Stripped Willow Wood"
+  },
+  "block.regions_unexplored.stripped_yellow_bioshroom_hyphae": {
+    "en": "Stripped Yellow Bioshroom Hyphae",
+    "zh": "去皮黄色生荧菇菌核",
+    "vi": "Stripped Yellow Bioshroom Hyphae"
+  },
+  "block.regions_unexplored.stripped_yellow_bioshroom_stem": {
+    "en": "Stripped Yellow Bioshroom Stem",
+    "zh": "去皮黄色生荧菌柄",
+    "vi": "Stripped Yellow Bioshroom Stem"
+  },
+  "block.regions_unexplored.tall_blue_bioshroom": {
+    "en": "Tall Blue Bioshroom",
+    "zh": "高蓝色生荧菇",
+    "vi": "Tall Blue Bioshroom"
+  },
+  "block.regions_unexplored.tall_cobalt_earlight": {
+    "en": "Tall Cobalt Earlight",
+    "zh": "高钴化耳灯草",
+    "vi": "Tall Cobalt Earlight"
+  },
+  "block.regions_unexplored.tall_green_bioshroom": {
+    "en": "Tall Green Bioshroom",
+    "zh": "高绿色生荧菇",
+    "vi": "Tall Green Bioshroom"
+  },
+  "block.regions_unexplored.tall_hyacinth_stock": {
+    "en": "Tall Hyacinth Stock",
+    "zh": "高海魔芋花柱",
+    "vi": "Tall Hyacinth Stock"
+  },
+  "block.regions_unexplored.tall_pink_bioshroom": {
+    "en": "Tall Pink Bioshroom",
+    "zh": "高粉红色生荧菇",
+    "vi": "Tall Pink Bioshroom"
+  },
+  "block.regions_unexplored.tall_yellow_bioshroom": {
+    "en": "Tall Yellow Bioshroom",
+    "zh": "高黄色生荧菇",
+    "vi": "Tall Yellow Bioshroom"
+  },
+  "block.regions_unexplored.tassel": {
+    "en": "Tassel",
+    "zh": "流苏花",
+    "vi": "Tassel"
+  },
+  "block.regions_unexplored.tsubaki": {
+    "en": "Tsubaki",
+    "zh": "红花椿",
+    "vi": "Tsubaki"
+  },
+  "block.regions_unexplored.viridescent_nylium": {
+    "en": "Viridescent Nylium",
+    "zh": "淡绿色菌岩",
+    "vi": "Viridescent Nylium"
+  },
+  "block.regions_unexplored.volcanic_ash": {
+    "en": "Volcanic Ash",
+    "zh": "火山灰方块",
+    "vi": "Volcanic Ash"
+  },
+  "block.regions_unexplored.waratah": {
+    "en": "Waratah",
+    "zh": "瓦拉塔",
+    "vi": "Waratah"
+  },
+  "block.regions_unexplored.white_magnolia_flowers": {
+    "en": "White Magnolia Flowers",
+    "zh": "白色木兰花簇",
+    "vi": "White Magnolia Flowers"
+  },
+  "block.regions_unexplored.white_magnolia_leaves": {
+    "en": "White Magnolia Leaves",
+    "zh": "白色木兰树叶",
+    "vi": "White Magnolia Leaves"
+  },
+  "block.regions_unexplored.white_magnolia_sapling": {
+    "en": "White Magnolia Sapling",
+    "zh": "白色木兰树苗",
+    "vi": "White Magnolia Sapling"
+  },
+  "block.regions_unexplored.white_magnolia_shrub": {
+    "en": "White Magnolia Shrub",
+    "zh": "白色木兰灌木",
+    "vi": "White Magnolia Shrub"
+  },
+  "block.regions_unexplored.white_painted_planks": {
+    "en": "White Painted Planks",
+    "zh": "白色染色木板",
+    "vi": "White Painted Planks"
+  },
+  "block.regions_unexplored.white_painted_slab": {
+    "en": "White Painted Slab",
+    "zh": "白色染色木台阶",
+    "vi": "White Painted Slab"
+  },
+  "block.regions_unexplored.white_painted_stairs": {
+    "en": "White Painted Stairs",
+    "zh": "白色染色木楼梯",
+    "vi": "White Painted Stairs"
+  },
+  "block.regions_unexplored.white_snowbelle": {
+    "en": "White Snowbelle",
+    "zh": "白色山梅花",
+    "vi": "White Snowbelle"
+  },
+  "block.regions_unexplored.white_trillium": {
+    "en": "White Trillium",
+    "zh": "白色延龄草",
+    "vi": "White Trillium"
+  },
+  "block.regions_unexplored.willow_branch": {
+    "en": "Willow Branch",
+    "zh": "柳树枝",
+    "vi": "Willow Branch"
+  },
+  "block.regions_unexplored.willow_button": {
+    "en": "Willow Button",
+    "zh": "柳木按钮",
+    "vi": "Willow Button"
+  },
+  "block.regions_unexplored.willow_door": {
+    "en": "Willow Door",
+    "zh": "柳木门",
+    "vi": "Willow Door"
+  },
+  "block.regions_unexplored.willow_fence": {
+    "en": "Willow Fence",
+    "zh": "柳木栅栏",
+    "vi": "Willow Fence"
+  },
+  "block.regions_unexplored.willow_fence_gate": {
+    "en": "Willow Fence Gate",
+    "zh": "柳木栅栏门",
+    "vi": "Willow Fence Gate"
+  },
+  "block.regions_unexplored.willow_hanging_sign": {
+    "en": "Willow Hanging Sign",
+    "zh": "悬挂式柳木告示牌",
+    "vi": "Willow Hanging Sign"
+  },
+  "block.regions_unexplored.willow_leaves": {
+    "en": "Willow Leaves",
+    "zh": "柳树树叶",
+    "vi": "Willow Leaves"
+  },
+  "block.regions_unexplored.willow_log": {
+    "en": "Willow Log",
+    "zh": "柳树原木",
+    "vi": "Willow Log"
+  },
+  "block.regions_unexplored.willow_planks": {
+    "en": "Willow Planks",
+    "zh": "柳木板",
+    "vi": "Willow Planks"
+  },
+  "block.regions_unexplored.willow_pressure_plate": {
+    "en": "Willow Pressure Plate",
+    "zh": "柳木压力板",
+    "vi": "Willow Pressure Plate"
+  },
+  "block.regions_unexplored.willow_sapling": {
+    "en": "Willow Sapling",
+    "zh": "柳树树苗",
+    "vi": "Willow Sapling"
+  },
+  "block.regions_unexplored.willow_shrub": {
+    "en": "Willow Shrub",
+    "zh": "柳树灌木",
+    "vi": "Willow Shrub"
+  },
+  "block.regions_unexplored.willow_sign": {
+    "en": "Willow Sign",
+    "zh": "柳木告示牌",
+    "vi": "Willow Sign"
+  },
+  "block.regions_unexplored.willow_slab": {
+    "en": "Willow Slab",
+    "zh": "柳木台阶",
+    "vi": "Willow Slab"
+  },
+  "block.regions_unexplored.willow_stairs": {
+    "en": "Willow Stairs",
+    "zh": "柳木楼梯",
+    "vi": "Willow Stairs"
+  },
+  "block.regions_unexplored.willow_trapdoor": {
+    "en": "Willow Trapdoor",
+    "zh": "柳木活板门",
+    "vi": "Willow Trapdoor"
+  },
+  "block.regions_unexplored.willow_wood": {
+    "en": "Willow Wood",
+    "zh": "柳木",
+    "vi": "Willow Wood"
+  },
+  "block.regions_unexplored.wilting_trillium": {
+    "en": "Wilting Trillium",
+    "zh": "萎蔫延龄草",
+    "vi": "Wilting Trillium"
+  },
+  "block.regions_unexplored.windswept_grass": {
+    "en": "Windswept Grass",
+    "zh": "风扬草",
+    "vi": "Windswept Grass"
+  },
+  "block.regions_unexplored.yellow_bioshroom": {
+    "en": "Yellow Bioshroom",
+    "zh": "黄色生荧菇",
+    "vi": "Yellow Bioshroom"
+  },
+  "block.regions_unexplored.yellow_bioshroom_block": {
+    "en": "Yellow Bioshroom Block",
+    "zh": "黄色生荧菇块",
+    "vi": "Yellow Bioshroom Block"
+  },
+  "block.regions_unexplored.yellow_bioshroom_button": {
+    "en": "Yellow Bioshroom Button",
+    "zh": "黄色生荧木按钮",
+    "vi": "Yellow Bioshroom Button"
+  },
+  "block.regions_unexplored.yellow_bioshroom_door": {
+    "en": "Yellow Bioshroom Door",
+    "zh": "黄色生荧木门",
+    "vi": "Yellow Bioshroom Door"
+  },
+  "block.regions_unexplored.yellow_bioshroom_fence": {
+    "en": "Yellow Bioshroom Fence",
+    "zh": "黄色生荧木栅栏",
+    "vi": "Yellow Bioshroom Fence"
+  },
+  "block.regions_unexplored.yellow_bioshroom_fence_gate": {
+    "en": "Yellow Bioshroom Fence Gate",
+    "zh": "黄色生荧木栅栏门",
+    "vi": "Yellow Bioshroom Fence Gate"
+  },
+  "block.regions_unexplored.yellow_bioshroom_hanging_sign": {
+    "en": "Yellow Bioshroom Hanging Sign",
+    "zh": "悬挂式黄色生荧木告示牌",
+    "vi": "Yellow Bioshroom Hanging Sign"
+  },
+  "block.regions_unexplored.yellow_bioshroom_hyphae": {
+    "en": "Yellow Bioshroom Hyphae",
+    "zh": "黄色生荧菇菌核",
+    "vi": "Yellow Bioshroom Hyphae"
+  },
+  "block.regions_unexplored.yellow_bioshroom_planks": {
+    "en": "Yellow Bioshroom Planks",
+    "zh": "黄色生荧木板",
+    "vi": "Yellow Bioshroom Planks"
+  },
+  "block.regions_unexplored.yellow_bioshroom_pressure_plate": {
+    "en": "Yellow Bioshroom Pressure Plate",
+    "zh": "黄色生荧木压力板",
+    "vi": "Yellow Bioshroom Pressure Plate"
+  },
+  "block.regions_unexplored.yellow_bioshroom_sign": {
+    "en": "Yellow Bioshroom Sign",
+    "zh": "黄色生荧木告示牌",
+    "vi": "Yellow Bioshroom Sign"
+  },
+  "block.regions_unexplored.yellow_bioshroom_slab": {
+    "en": "Yellow Bioshroom Slab",
+    "zh": "黄色生荧木台阶",
+    "vi": "Yellow Bioshroom Slab"
+  },
+  "block.regions_unexplored.yellow_bioshroom_stairs": {
+    "en": "Yellow Bioshroom Stairs",
+    "zh": "黄色生荧木楼梯",
+    "vi": "Yellow Bioshroom Stairs"
+  },
+  "block.regions_unexplored.yellow_bioshroom_stem": {
+    "en": "Yellow Bioshroom Stem",
+    "zh": "黄色生荧菌柄",
+    "vi": "Yellow Bioshroom Stem"
+  },
+  "block.regions_unexplored.yellow_bioshroom_trapdoor": {
+    "en": "Yellow Bioshroom Trapdoor",
+    "zh": "黄色生荧木活板门",
+    "vi": "Yellow Bioshroom Trapdoor"
+  },
+  "block.regions_unexplored.yellow_lupine": {
+    "en": "Yellow Lupine",
+    "zh": "黄色羽扇豆",
+    "vi": "Yellow Lupine"
+  },
+  "block.regions_unexplored.yellow_painted_planks": {
+    "en": "Yellow Painted Planks",
+    "zh": "黄色染色木板",
+    "vi": "Yellow Painted Planks"
+  },
+  "block.regions_unexplored.yellow_painted_slab": {
+    "en": "Yellow Painted Slab",
+    "zh": "黄色染色木台阶",
+    "vi": "Yellow Painted Slab"
+  },
+  "block.regions_unexplored.yellow_painted_stairs": {
+    "en": "Yellow Painted Stairs",
+    "zh": "黄色染色木楼梯",
+    "vi": "Yellow Painted Stairs"
+  },
+  "block.regions_unexplored.yellow_snowbelle": {
+    "en": "Yellow Snowbelle",
+    "zh": "黄色山梅花",
+    "vi": "Yellow Snowbelle"
+  },
+  "death.attack.dorcel": {
+    "en": "%s was dragged underground by Dorcel",
+    "zh": "%s被多塞尔草卷进了地下",
+    "vi": "%s bị Dosselweed cuốn xuống lòng đất"
+  },
+  "death.attack.dorcel.player": {
+    "en": "%s was dragged underground by Dorcel",
+    "zh": "%s被多塞尔草卷进了地下",
+    "vi": "%s bị Dosselweed cuốn xuống lòng đất"
+  },
+  "death.attack.dusk_trap": {
+    "en": "%s was eaten by a Dusktrap",
+    "zh": "%s被黄昏陷阱吞食了",
+    "vi": "%s đã bị Bẫy Hoàng hôn nuốt chửng"
+  },
+  "death.attack.dusk_trap.player": {
+    "en": "%s was eaten by a Dusktrap",
+    "zh": "%s被黄昏陷阱吞食了",
+    "vi": "%s đã bị Bẫy Hoàng hôn nuốt chửng"
+  },
+  "entity.regions_unexplored.boat": {
+    "en": "Boat",
+    "zh": "船",
+    "vi": "Boat"
+  },
+  "entity.regions_unexplored.chest_boat": {
+    "en": "Boat With Chest",
+    "zh": "运输船",
+    "vi": "Boat With Chest"
+  },
+  "item.regions_unexplored.baobab_boat": {
+    "en": "Baobab Boat",
+    "zh": "猴面包木船",
+    "vi": "Baobab Boat"
+  },
+  "item.regions_unexplored.baobab_chest_boat": {
+    "en": "Baobab Boat with Chest",
+    "zh": "猴面包木运输船",
+    "vi": "Baobab Boat with Chest"
+  },
+  "item.regions_unexplored.blackwood_boat": {
+    "en": "Blackwood Boat",
+    "zh": "黑檀木船",
+    "vi": "Blackwood Boat"
+  },
+  "item.regions_unexplored.blackwood_chest_boat": {
+    "en": "Blackwood Boat with Chest",
+    "zh": "黑檀木运输船",
+    "vi": "Blackwood Boat with Chest"
+  },
+  "item.regions_unexplored.cypress_boat": {
+    "en": "Cypress Boat",
+    "zh": "柏木船",
+    "vi": "Cypress Boat"
+  },
+  "item.regions_unexplored.cypress_chest_boat": {
+    "en": "Cypress Boat with Chest",
+    "zh": "柏木运输船",
+    "vi": "Cypress Boat with Chest"
+  },
+  "item.regions_unexplored.dead_boat": {
+    "en": "Dead Boat",
+    "zh": "亡灵木船",
+    "vi": "Dead Boat"
+  },
+  "item.regions_unexplored.dead_chest_boat": {
+    "en": "Dead Boat with Chest",
+    "zh": "亡灵木运输船",
+    "vi": "Dead Boat with Chest"
+  },
+  "item.regions_unexplored.eucalyptus_boat": {
+    "en": "Eucalyptus Boat",
+    "zh": "桉木船",
+    "vi": "Eucalyptus Boat"
+  },
+  "item.regions_unexplored.eucalyptus_chest_boat": {
+    "en": "Eucalyptus Boat with Chest",
+    "zh": "桉木运输船",
+    "vi": "Eucalyptus Boat with Chest"
+  },
+  "item.regions_unexplored.joshua_boat": {
+    "en": "Joshua Boat",
+    "zh": "约书亚木船",
+    "vi": "Joshua Boat"
+  },
+  "item.regions_unexplored.joshua_chest_boat": {
+    "en": "Joshua Boat with Chest",
+    "zh": "约书亚木运输船",
+    "vi": "Joshua Boat with Chest"
+  },
+  "item.regions_unexplored.kapok_boat": {
+    "en": "Kapok Boat",
+    "zh": "木棉木船",
+    "vi": "Kapok Boat"
+  },
+  "item.regions_unexplored.kapok_chest_boat": {
+    "en": "Kapok Boat with Chest",
+    "zh": "木棉木运输船",
+    "vi": "Kapok Boat with Chest"
+  },
+  "item.regions_unexplored.larch_boat": {
+    "en": "Larch Boat",
+    "zh": "落叶松木船",
+    "vi": "Larch Boat"
+  },
+  "item.regions_unexplored.larch_chest_boat": {
+    "en": "Larch Boat with Chest",
+    "zh": "落叶松木运输船",
+    "vi": "Larch Boat with Chest"
+  },
+  "item.regions_unexplored.magnolia_boat": {
+    "en": "Magnolia Boat",
+    "zh": "木兰木船",
+    "vi": "Magnolia Boat"
+  },
+  "item.regions_unexplored.magnolia_chest_boat": {
+    "en": "Magnolia Boat with Chest",
+    "zh": "木兰木运输船",
+    "vi": "Magnolia Boat with Chest"
+  },
+  "item.regions_unexplored.maple_boat": {
+    "en": "Maple Boat",
+    "zh": "枫木船",
+    "vi": "Maple Boat"
+  },
+  "item.regions_unexplored.maple_chest_boat": {
+    "en": "Maple Boat with Chest",
+    "zh": "枫木运输船",
+    "vi": "Maple Boat with Chest"
+  },
+  "item.regions_unexplored.mauve_boat": {
+    "en": "Mauve Boat",
+    "zh": "魅紫木船",
+    "vi": "Mauve Boat"
+  },
+  "item.regions_unexplored.mauve_chest_boat": {
+    "en": "Mauve Boat with Chest",
+    "zh": "魅紫木运输船",
+    "vi": "Mauve Boat with Chest"
+  },
+  "item.regions_unexplored.palm_boat": {
+    "en": "Palm Boat",
+    "zh": "棕榈木船",
+    "vi": "Palm Boat"
+  },
+  "item.regions_unexplored.palm_chest_boat": {
+    "en": "Palm Boat with Chest",
+    "zh": "棕榈木运输船",
+    "vi": "Palm Boat with Chest"
+  },
+  "item.regions_unexplored.pine_boat": {
+    "en": "Pine Boat",
+    "zh": "松木船",
+    "vi": "Pine Boat"
+  },
+  "item.regions_unexplored.pine_chest_boat": {
+    "en": "Pine Boat with Chest",
+    "zh": "松木运输船",
+    "vi": "Pine Boat with Chest"
+  },
+  "item.regions_unexplored.redwood_boat": {
+    "en": "Redwood Boat",
+    "zh": "红衫木船",
+    "vi": "Redwood Boat"
+  },
+  "item.regions_unexplored.redwood_chest_boat": {
+    "en": "Redwood Boat with Chest",
+    "zh": "红衫木运输船",
+    "vi": "Redwood Boat with Chest"
+  },
+  "item.regions_unexplored.socotra_boat": {
+    "en": "Socotra Boat",
+    "zh": "龙血木船",
+    "vi": "Socotra Boat"
+  },
+  "item.regions_unexplored.socotra_chest_boat": {
+    "en": "Socotra Boat with Chest",
+    "zh": "龙血木运输船",
+    "vi": "Socotra Boat with Chest"
+  },
+  "item.regions_unexplored.willow_boat": {
+    "en": "Willow Boat",
+    "zh": "柳木船",
+    "vi": "Willow Boat"
+  },
+  "item.regions_unexplored.willow_chest_boat": {
+    "en": "Willow Boat with Chest",
+    "zh": "柳木运输船",
+    "vi": "Willow Boat with Chest"
+  },
+  "itemGroup.regions_unexplored_main": {
+    "en": "Regions Unexplored",
+    "zh": "未至之地",
+    "vi": "Một nơi chưa được ghé thăm"
+  },
+  "advancements.regions_explored.descr": {
+    "en": null,
+    "zh": "发现所有未至之地的生物群系！",
+    "vi": null
+  },
+  "advancements.regions_explored.title": {
+    "en": null,
+    "zh": "大冒险家",
+    "vi": null
+  },
+  "advancements.regions_unexplored.descr": {
+    "en": null,
+    "zh": "欢迎来到未至之地！",
+    "vi": null
+  },
+  "block.regions_unexplored.dropleaf_plant": {
+    "en": "Dropleaf",
+    "zh": null,
+    "vi": null
+  },
+  "block.regions_unexplored.glistering_ivy_plant": {
+    "en": "Glistering Ivy",
+    "zh": null,
+    "vi": null
+  },
+  "block.regions_unexplored.kapok_vines_plant": {
+    "en": "Kapok Vines",
+    "zh": null,
+    "vi": null
+  },
+  "block.regions_unexplored.spanish_moss_plant": {
+    "en": "Spanish Moss",
+    "zh": null,
+    "vi": null
+  },
+  "biome.regions_unexplored.glowshroom_grotto": {
+    "en": null,
+    "zh": "发光蘑菇岩洞",
+    "vi": null
+  },
+  "biome.regions_unexplored.canadian_forest": {
+    "en": null,
+    "zh": "加拿大森林",
+    "vi": null
+  },
+  "biome.regions_unexplored.smouldering_woodland": {
+    "en": null,
+    "zh": "余烬树林",
+    "vi": null
+  },
+  "biome.regions_unexplored.lupine_plains": {
+    "en": null,
+    "zh": "羽扇豆平原",
+    "vi": null
+  },
+  "biome.regions_unexplored.lush_hills": {
+    "en": null,
+    "zh": "繁茂丘陵",
+    "vi": null
+  },
+  "biome.regions_unexplored.lush_delta": {
+    "en": null,
+    "zh": "繁茂三角洲",
+    "vi": null
+  },
+  "biome.regions_unexplored.crystaline_caves": {
+    "en": null,
+    "zh": "水晶洞穴",
+    "vi": null
+  },
+  "biome.regions_unexplored.flower_field": {
+    "en": null,
+    "zh": "繁花原野",
+    "vi": null
+  },
+  "biome.regions_unexplored.wooded_arid_mountains": {
+    "en": null,
+    "zh": "有树的荒山",
+    "vi": null
+  },
+  "biome.regions_unexplored.cherry_hills": {
+    "en": null,
+    "zh": "樱花树丘陵",
+    "vi": null
+  },
+  "biome.regions_unexplored.autumnal_fields": {
+    "en": null,
+    "zh": "秋季原野",
+    "vi": null
+  },
+  "biome.regions_unexplored.autumnal_mixed_taiga": {
+    "en": null,
+    "zh": "秋季混合针叶林",
+    "vi": null
+  },
+  "biome.regions_unexplored.old_growth_rainforest": {
+    "en": null,
+    "zh": "原始热带雨林",
+    "vi": null
+  },
+  "biome.regions_unexplored.meadow": {
+    "en": null,
+    "zh": "花草地",
+    "vi": null
+  },
+  "biome.regions_unexplored.flooded_plains": {
+    "en": null,
+    "zh": "积水平原",
+    "vi": null
+  },
+  "biome.regions_unexplored.alpha_plains": {
+    "en": null,
+    "zh": "界初平原",
+    "vi": null
+  },
+  "biome.regions_unexplored.wooded_steppe": {
+    "en": null,
+    "zh": "有树的干草原",
+    "vi": null
+  },
+  "biome.regions_unexplored.giant_bayou": {
+    "en": null,
+    "zh": "巨型河口",
+    "vi": null
+  },
+  "biome.regions_unexplored.blackwood_forest": {
+    "en": null,
+    "zh": "黑檀森林",
+    "vi": null
+  },
+  "biome.regions_unexplored.boreal_forest": {
+    "en": null,
+    "zh": "北方森林",
+    "vi": null
+  },
+  "biome.regions_unexplored.pine_forest": {
+    "en": null,
+    "zh": "松树林",
+    "vi": null
+  },
+  "biome.regions_unexplored.cold_boreal_forest": {
+    "en": null,
+    "zh": "寒冷北方森林",
+    "vi": null
+  },
+  "biome.regions_unexplored.golden_boreal_forest": {
+    "en": null,
+    "zh": "金色北方森林",
+    "vi": null
+  },
+  "biome.regions_unexplored.flowering_oak_forest": {
+    "en": null,
+    "zh": "繁花橡树岛屿",
+    "vi": null
+  },
+  "biome.regions_unexplored.old_growth_boreal_forest": {
+    "en": null,
+    "zh": "原始北方森林",
+    "vi": null
+  },
+  "biome.regions_unexplored.roofed_eucalyptus_forest": {
+    "en": null,
+    "zh": "桉树林丘陵",
+    "vi": null
+  },
+  "biome.regions_unexplored.frozen_forest": {
+    "en": null,
+    "zh": "寒带森林",
+    "vi": null
+  },
+  "biome.regions_unexplored.icy_desert": {
+    "en": null,
+    "zh": "寒冰荒漠",
+    "vi": null
+  },
+  "biome.regions_unexplored.overgrown_caves": {
+    "en": null,
+    "zh": "繁杂洞穴",
+    "vi": null
+  },
+  "block.regions_unexplored.cypress_knee": {
+    "en": null,
+    "zh": "柏树膝",
+    "vi": null
+  },
+  "block.regions_unexplored.forest_dirt_path": {
+    "en": null,
+    "zh": "森林土径",
+    "vi": null
+  },
+  "block.regions_unexplored.plains_dirt_path": {
+    "en": null,
+    "zh": "平原土径",
+    "vi": null
+  },
+  "block.regions_unexplored.cherry_pressure_plate": {
+    "en": null,
+    "zh": "樱花木压力板",
+    "vi": null
+  },
+  "block.regions_unexplored.tall_blue_crystalite": {
+    "en": null,
+    "zh": "高蓝色水晶",
+    "vi": null
+  },
+  "block.regions_unexplored.red_cherry_sapling": {
+    "en": null,
+    "zh": "红色樱花木树苗",
+    "vi": null
+  },
+  "block.regions_unexplored.cherry_log": {
+    "en": null,
+    "zh": "樱花木原木",
+    "vi": null
+  },
+  "block.regions_unexplored.alpha_pressure_plate": {
+    "en": null,
+    "zh": "界初木压力板",
+    "vi": null
+  },
+  "block.regions_unexplored.forest_grass_block": {
+    "en": null,
+    "zh": "森林草方块",
+    "vi": null
+  },
+  "block.regions_unexplored.alpha_sand": {
+    "en": null,
+    "zh": "界初沙子",
+    "vi": null
+  },
+  "block.regions_unexplored.alpha_glass": {
+    "en": null,
+    "zh": "界初玻璃",
+    "vi": null
+  },
+  "block.regions_unexplored.cherry_button": {
+    "en": null,
+    "zh": "樱花木按钮",
+    "vi": null
+  },
+  "block.regions_unexplored.seeded_tall_grass": {
+    "en": null,
+    "zh": "有籽的高草丛",
+    "vi": null
+  },
+  "block.regions_unexplored.plains_dirt": {
+    "en": null,
+    "zh": "平原泥土",
+    "vi": null
+  },
+  "block.regions_unexplored.mud": {
+    "en": null,
+    "zh": "泥巴",
+    "vi": null
+  },
+  "block.regions_unexplored.blue_crystalite_glass": {
+    "en": null,
+    "zh": "蓝色水晶草",
+    "vi": null
+  },
+  "block.regions_unexplored.alpha_button": {
+    "en": null,
+    "zh": "界初木按钮",
+    "vi": null
+  },
+  "block.regions_unexplored.mud_placement": {
+    "en": null,
+    "zh": "生石芽",
+    "vi": null
+  },
+  "block.regions_unexplored.snowy_soil": {
+    "en": null,
+    "zh": "覆雪的泥土",
+    "vi": null
+  },
+  "death.attack.quicksand.player": {
+    "en": null,
+    "zh": "%s陷入流沙，无法自拔",
+    "vi": null
+  },
+  "subtitles.alpha_hurt": {
+    "en": null,
+    "zh": "玩家：啊♂",
+    "vi": null
+  },
+  "block.regions_unexplored.blue_crystalite": {
+    "en": null,
+    "zh": "蓝色水晶",
+    "vi": null
+  },
+  "block.regions_unexplored.orange_crystalite_block": {
+    "en": null,
+    "zh": "橙色水晶块",
+    "vi": null
+  },
+  "block.regions_unexplored.quicksand": {
+    "en": null,
+    "zh": "流沙",
+    "vi": null
+  },
+  "block.regions_unexplored.alpha_gravel": {
+    "en": null,
+    "zh": "界初沙砾",
+    "vi": null
+  },
+  "block.regions_unexplored.deepslate_carnelian_ore": {
+    "en": null,
+    "zh": "深层玛瑙矿石",
+    "vi": null
+  },
+  "block.regions_unexplored.alpha_fence": {
+    "en": null,
+    "zh": "界初木栅栏",
+    "vi": null
+  },
+  "block.regions_unexplored.white_cherry_sapling": {
+    "en": null,
+    "zh": "白色樱花木树苗",
+    "vi": null
+  },
+  "block.regions_unexplored.forest_coarse_dirt": {
+    "en": null,
+    "zh": "森林砂土",
+    "vi": null
+  },
+  "block.regions_unexplored.cherry_stairs": {
+    "en": null,
+    "zh": "樱花木楼梯",
+    "vi": null
+  },
+  "block.regions_unexplored.grass_placement": {
+    "en": null,
+    "zh": "生石芽",
+    "vi": null
+  },
+  "block.regions_unexplored.mossed_stone": {
+    "en": null,
+    "zh": "覆苔的石头",
+    "vi": null
+  },
+  "block.regions_unexplored.sand_placement": {
+    "en": null,
+    "zh": "生石芽",
+    "vi": null
+  },
+  "block.regions_unexplored.cherry_wood": {
+    "en": null,
+    "zh": "樱花木",
+    "vi": null
+  },
+  "block.regions_unexplored.alpha_fence_gate": {
+    "en": null,
+    "zh": "界初木栅栏门",
+    "vi": null
+  },
+  "block.regions_unexplored.ruby_ore": {
+    "en": null,
+    "zh": "红宝石矿石",
+    "vi": null
+  },
+  "block.regions_unexplored.barley_grass": {
+    "en": null,
+    "zh": "大麦",
+    "vi": null
+  },
+  "block.regions_unexplored.plains_coarse_dirt": {
+    "en": null,
+    "zh": "平原砂土",
+    "vi": null
+  },
+  "block.regions_unexplored.orange_crystalite": {
+    "en": null,
+    "zh": "橙色水晶",
+    "vi": null
+  },
+  "block.regions_unexplored.white_cherry_leaves": {
+    "en": null,
+    "zh": "白色樱花树叶",
+    "vi": null
+  },
+  "block.regions_unexplored.cherry_sapling": {
+    "en": null,
+    "zh": "樱花木树苗",
+    "vi": null
+  },
+  "block.regions_unexplored.forest_dirt": {
+    "en": null,
+    "zh": "森林泥土",
+    "vi": null
+  },
+  "block.regions_unexplored.cherry_fence": {
+    "en": null,
+    "zh": "樱花木栅栏",
+    "vi": null
+  },
+  "block.regions_unexplored.red_cherry_leaves": {
+    "en": null,
+    "zh": "红色樱花树叶",
+    "vi": null
+  },
+  "block.regions_unexplored.cherry_door": {
+    "en": null,
+    "zh": "樱花木门",
+    "vi": null
+  },
+  "block.regions_unexplored.palm_roots": {
+    "en": null,
+    "zh": "棕榈树根",
+    "vi": null
+  },
+  "block.regions_unexplored.saguaro_cactus_corner": {
+    "en": null,
+    "zh": "巨人柱角",
+    "vi": null
+  },
+  "block.regions_unexplored.cherry_leaves": {
+    "en": null,
+    "zh": "樱花树叶",
+    "vi": null
+  },
+  "block.regions_unexplored.cherry_trapdoor": {
+    "en": null,
+    "zh": "樱花木活板门",
+    "vi": null
+  },
+  "block.regions_unexplored.plains_grass_block": {
+    "en": null,
+    "zh": "平原草方块",
+    "vi": null
+  },
+  "block.regions_unexplored.seeded_grass": {
+    "en": null,
+    "zh": "带籽的草",
+    "vi": null
+  },
+  "block.regions_unexplored.silver_birch_log_base": {
+    "en": null,
+    "zh": "白桦原木底",
+    "vi": null
+  },
+  "block.regions_unexplored.cherry_slab": {
+    "en": null,
+    "zh": "樱花木台阶",
+    "vi": null
+  },
+  "block.regions_unexplored.pink_cherry_sapling": {
+    "en": null,
+    "zh": "粉色樱花树苗",
+    "vi": null
+  },
+  "block.regions_unexplored.pine_log_transition": {
+    "en": null,
+    "zh": "半去皮的松木原木",
+    "vi": null
+  },
+  "block.regions_unexplored.white_shroomlight": {
+    "en": null,
+    "zh": "白色菌光体",
+    "vi": null
+  },
+  "block.regions_unexplored.tall_orange_crystalite": {
+    "en": null,
+    "zh": "高橙色水晶草",
+    "vi": null
+  },
+  "block.regions_unexplored.stripped_cherry_wood": {
+    "en": null,
+    "zh": "去皮樱花木",
+    "vi": null
+  },
+  "block.regions_unexplored.alpha_dirt": {
+    "en": null,
+    "zh": "界初泥土",
+    "vi": null
+  },
+  "block.regions_unexplored.bamboo_log_leaves": {
+    "en": null,
+    "zh": "带竹叶的粗竹竿",
+    "vi": null
+  },
+  "block.regions_unexplored.carnelian_ore": {
+    "en": null,
+    "zh": "玛瑙矿石",
+    "vi": null
+  },
+  "block.regions_unexplored.stripped_cherry_log": {
+    "en": null,
+    "zh": "去皮樱花原木",
+    "vi": null
+  },
+  "block.regions_unexplored.forest_mud": {
+    "en": null,
+    "zh": "森林泥巴",
+    "vi": null
+  },
+  "block.regions_unexplored.plains_mud": {
+    "en": null,
+    "zh": "平原泥巴",
+    "vi": null
+  },
+  "block.regions_unexplored.forest_farmland": {
+    "en": null,
+    "zh": "森林耕地",
+    "vi": null
+  },
+  "block.regions_unexplored.plains_farmland": {
+    "en": null,
+    "zh": "平原耕地",
+    "vi": null
+  },
+  "block.regions_unexplored.cherry_fence_gate": {
+    "en": null,
+    "zh": "樱花木栅栏门",
+    "vi": null
+  },
+  "block.regions_unexplored.tall_steppe_grass": {
+    "en": null,
+    "zh": "高干草原草",
+    "vi": null
+  },
+  "block.regions_unexplored.tall_autumnal_sapling": {
+    "en": null,
+    "zh": "高秋树苗",
+    "vi": null
+  },
+  "block.regions_unexplored.cherry_planks": {
+    "en": null,
+    "zh": "樱花木板",
+    "vi": null
+  },
+  "block.regions_unexplored.blue_crystalite_block": {
+    "en": null,
+    "zh": "蓝色水晶块",
+    "vi": null
+  },
+  "death.attack.quicksand": {
+    "en": null,
+    "zh": "%s 陷入流沙，无法自拔",
+    "vi": null
+  },
+  "block.regions_unexplored.pink_cherry_leaves": {
+    "en": null,
+    "zh": "粉色樱花树叶",
+    "vi": null
+  },
+  "block.regions_unexplored.orange_crystalite_glass": {
+    "en": null,
+    "zh": "橙色水晶玻璃",
+    "vi": null
+  },
+  "block.regions_unexplored.tall_forest_fern": {
+    "en": null,
+    "zh": "高森林蕨",
+    "vi": null
+  },
+  "block.regions_unexplored.forest_fern": {
+    "en": null,
+    "zh": "森林蕨",
+    "vi": null
+  },
+  "block.regions_unexplored.marrowstone": {
+    "en": null,
+    "zh": "髓石",
+    "vi": null
+  },
+  "block.regions_unexplored.brimwood_log_transition": {
+    "en": null,
+    "zh": "半去皮幽匿木原木",
+    "vi": null
+  },
+  "block.regions_unexplored.sculk_tendril": {
+    "en": null,
+    "zh": "幽匿芽尖",
+    "vi": null
+  },
+  "biome.regions_unexplored.corrupted_holt": {
+    "en": null,
+    "zh": "腐化之地",
+    "vi": null
+  },
+  "biome.regions_unexplored.redstone_hell": {
+    "en": null,
+    "zh": "红石地狱",
+    "vi": null
+  },
+  "itemGroup.regions_unexplored.title.main": {
+    "en": null,
+    "zh": "未至之域：建筑方块",
+    "vi": null
+  },
+  "itemGroup.regions_unexplored.title.nature": {
+    "en": null,
+    "zh": "未至之域：自然方块",
+    "vi": null
+  },
+  "itemGroup.regions_unexplored.title.nether": {
+    "en": null,
+    "zh": "未至之域：下界方块",
+    "vi": null
+  },
+  "itemGroup.regions_unexplored_natural": {
+    "en": null,
+    "zh": "未至之域：自然方块",
+    "vi": null
+  },
+  "itemGroup.regions_unexplored_nether": {
+    "en": null,
+    "zh": "未至之域：下界方块",
+    "vi": null
+  },
+  "block.regions_unexplored.tall_acacia_sapling": {
+    "en": null,
+    "zh": "高金合欢树苗",
+    "vi": null
+  },
+  "block.regions_unexplored.tall_baobab_sapling": {
+    "en": null,
+    "zh": "高猴面包树苗",
+    "vi": null
+  },
+  "block.regions_unexplored.tall_birch_sapling": {
+    "en": null,
+    "zh": "高白桦树苗",
+    "vi": null
+  },
+  "block.regions_unexplored.tall_blackwood_sapling": {
+    "en": null,
+    "zh": "高黑檀树苗",
+    "vi": null
+  },
+  "block.regions_unexplored.tall_cherry_sapling": {
+    "en": null,
+    "zh": "高樱花树苗",
+    "vi": null
+  },
+  "block.regions_unexplored.tall_red_cherry_sapling": {
+    "en": null,
+    "zh": "高红樱花树苗",
+    "vi": null
+  },
+  "block.regions_unexplored.tall_pink_cherry_sapling": {
+    "en": null,
+    "zh": "高粉樱花树苗",
+    "vi": null
+  },
+  "block.regions_unexplored.tall_white_cherry_sapling": {
+    "en": null,
+    "zh": "高白樱花树苗",
+    "vi": null
+  },
+  "block.regions_unexplored.tall_cypress_sapling": {
+    "en": null,
+    "zh": "高柏树树苗",
+    "vi": null
+  },
+  "block.regions_unexplored.tall_dark_oak_sapling": {
+    "en": null,
+    "zh": "高深色橡树树苗",
+    "vi": null
+  },
+  "block.regions_unexplored.tall_dead_sapling": {
+    "en": null,
+    "zh": "高亡灵木树苗",
+    "vi": null
+  },
+  "block.regions_unexplored.tall_dead_pine_sapling": {
+    "en": null,
+    "zh": "高枯死的松树树苗",
+    "vi": null
+  },
+  "block.regions_unexplored.tall_eucalyptus_sapling": {
+    "en": null,
+    "zh": "高桉树树苗",
+    "vi": null
+  },
+  "block.regions_unexplored.tall_flowering_sapling": {
+    "en": null,
+    "zh": "高繁花树苗",
+    "vi": null
+  },
+  "block.regions_unexplored.tall_joshua_sapling": {
+    "en": null,
+    "zh": "高约书亚树苗",
+    "vi": null
+  },
+  "block.regions_unexplored.tall_jungle_sapling": {
+    "en": null,
+    "zh": "高丛林树苗",
+    "vi": null
+  },
+  "block.regions_unexplored.tall_golden_larch_sapling": {
+    "en": null,
+    "zh": "高金叶落叶松树苗",
+    "vi": null
+  },
+  "block.regions_unexplored.tall_larch_sapling": {
+    "en": null,
+    "zh": "高落叶松树苗",
+    "vi": null
+  },
+  "block.regions_unexplored.tall_mangrove_sapling": {
+    "en": null,
+    "zh": "高红树树苗",
+    "vi": null
+  },
+  "block.regions_unexplored.tall_maple_sapling": {
+    "en": null,
+    "zh": "高枫树树苗",
+    "vi": null
+  },
+  "block.regions_unexplored.tall_red_maple_sapling": {
+    "en": null,
+    "zh": "高红叶枫树树苗",
+    "vi": null
+  },
+  "block.regions_unexplored.tall_orange_maple_sapling": {
+    "en": null,
+    "zh": "高橙叶枫树树苗",
+    "vi": null
+  },
+  "block.regions_unexplored.tall_mauve_sapling": {
+    "en": null,
+    "zh": "高魅紫树苗",
+    "vi": null
+  },
+  "block.regions_unexplored.tall_oak_sapling": {
+    "en": null,
+    "zh": "高橡树树苗",
+    "vi": null
+  },
+  "block.regions_unexplored.tall_palm_sapling": {
+    "en": null,
+    "zh": "高棕榈树苗",
+    "vi": null
+  },
+  "block.regions_unexplored.tall_pine_sapling": {
+    "en": null,
+    "zh": "高松树树苗",
+    "vi": null
+  },
+  "block.regions_unexplored.tall_redwood_sapling": {
+    "en": null,
+    "zh": "高红杉树苗",
+    "vi": null
+  },
+  "block.regions_unexplored.tall_silver_birch_sapling": {
+    "en": null,
+    "zh": "高银桦树苗",
+    "vi": null
+  },
+  "block.regions_unexplored.tall_spruce_sapling": {
+    "en": null,
+    "zh": "高云杉树苗",
+    "vi": null
+  },
+  "block.regions_unexplored.tall_willow_sapling": {
+    "en": null,
+    "zh": "高柳树树苗",
+    "vi": null
+  },
+  "block.regions_unexplored.cherry_sign": {
+    "en": null,
+    "zh": "樱花木告示牌",
+    "vi": null
+  },
+  "item.regions_unexplored.cherry_boat": {
+    "en": null,
+    "zh": "樱花木船",
+    "vi": null
+  },
+  "item.regions_unexplored.brimwood_boat": {
+    "en": null,
+    "zh": "幽匿木船",
+    "vi": null
+  },
+  "item.regions_unexplored.cherry_chest_boat": {
+    "en": null,
+    "zh": "樱花木运输船",
+    "vi": null
+  },
+  "item.regions_unexplored.brimwood_chest_boat": {
+    "en": null,
+    "zh": "幽匿木运输船",
+    "vi": null
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "key.categories.placebo": {
+    "en": "Placebo",
+    "zh": null,
+    "vi": null
+  },
+  "placebo.toggleTrails": {
+    "en": "Toggle Supporter Trails",
+    "zh": null,
+    "vi": null
+  },
+  "placebo.toggleWings": {
+    "en": "Toggle Supporter Wings",
+    "zh": null,
+    "vi": null
+  },
+  "placebo.cmd.serialize_success": {
+    "en": "Saved %s to %s.",
+    "zh": null,
+    "vi": null
+  },
+  "placebo.cmd.serialize_failure": {
+    "en": "An error occured during the serialization process.",
+    "zh": null,
+    "vi": null
+  },
+  "placebo.cmd.not_found": {
+    "en": "%s was not found.",
+    "zh": null,
+    "vi": null
+  }
+}

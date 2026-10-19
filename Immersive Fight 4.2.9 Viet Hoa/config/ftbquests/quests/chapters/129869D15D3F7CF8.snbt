@@ -1,0 +1,1069 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "129869D15D3F7CF8"
+	group: "18A6655ADC4DF0EF"
+	icon: "minecraft:writable_book"
+	id: "129869D15D3F7CF8"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["1E520816352AAF54"]
+			description: [
+				"Tất cả vũ khí và trang bị đều có chất lượng ngẫu nhiên &r &a,"
+				"Mẫu mục nhập &e &r có thể được sử dụng để bao gồm mục nhập trên đe &e &r"
+				"Mục nhập &2 có thể được sử dụng trên đe &e &r để rèn lại đá &r với mục nhập"
+				""
+				"&b [Mẫu màu xanh] &r chỉ hoạt động trên áo giáp &b &r"
+				"&6 [mẫu màu cam] &r chỉ hoạt động trên vũ khí &6 &r"
+				""
+				"Mẫu mục nhập có thể được đổi trong nhiệm vụ này"
+			]
+			entity_vis_size: 1.0f
+			icon: "fight_more:modifier_reroll"
+			id: "05349F71339828F1"
+			rewards: [
+				{
+					id: "713ED18B3AF7D2E9"
+					table_id: 823528550893493875L
+					type: "random"
+				}
+				{
+					id: "7942FAD20CB80455"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "fight_more:modifier_reroll"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "3D2E8C40E77D1A0C"
+				title: "Đọc"
+				type: "checkmark"
+			}]
+			title: "Chất lượng vũ khí"
+			x: 3.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["1CE85293525A048F"]
+			description: [
+				"Nhấn phím &b [R] &r để chuyển sang chế độ chiến đấu."
+				"&7 (nhấn lần nữa để chuyển về chế độ ban đầu)&r"
+				""
+				""
+				"Phím &e [H] mở roulette &r&r"
+				"Vui lòng mở &a và duyệt nội dung của &r, bao gồm các điều chỉnh cấu hình mod."
+				"Ví dụ: &b [tắt thanh phím tắt để tự động ẩn] &r, công tắc hiển thị mặt sau"
+				""
+				"[\"Để biết thêm chi tiết về cấu hình, hãy xem \", { \"text\": \"gold\",\" gạch chân\": \"change_page\", \"value\":"
+			]
+			entity_vis_size: 1.0f
+			id: "19CBA384DDE48548"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "51E0D35B781C1592"
+				table_id: 7474606397089364714L
+				type: "choice"
+			}]
+			tasks: [{
+				id: "458FD02D950B52FF"
+				title: "Nhấp vào Hoàn tất"
+				type: "checkmark"
+			}]
+			title: "Chuyển đổi chế độ/xem"
+			x: 1.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["1E520816352AAF54"]
+			description: [
+				"Mức độ no đã được sửa đổi và mức độ no đã bị loại bỏ."
+				"Ăn &c sẽ trực tiếp hồi máu thành &r&r"
+				""
+				"Độ no càng cao thì lượng máu hồi phục càng nhiều"
+				""
+				"(Vui lòng nhấn &b[K]&r&e để thêm điểm ban đầu &r)"
+			]
+			entity_vis_size: 1.0f
+			icon: "minecraft:cooked_chicken"
+			id: "5238F2F38EFFF354"
+			rewards: [{
+				command: "/puffish_skills points add @s puffish_skills:combat 1"
+				elevate_perms: true
+				id: "2680298C6BBA7246"
+				silent: true
+				title: "Tăng 1 điểm kỹ năng (nhấn K để cộng điểm)"
+				type: "command"
+			}]
+			tasks: [{
+				id: "43F8F1FAA8255CB8"
+				title: "Sửa đổi liên quan"
+				type: "checkmark"
+			}]
+			title: "Đã sửa đổi hoàn toàn"
+			x: -0.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["1E520816352AAF54"]
+			description: [
+				"Ngoài vũ khí và trang bị,"
+				"&l1.&r Cải thiện cấp độ của cây tài năng &6"
+				"&e[Điều chỉnh cài đặt] &a có thể được đặt lại và thêm điểm &r trong &r"
+				"========================================="
+				"&l2.&r&6 Tăng cấp HP&r"
+				"Mỗi cấp độ tăng giá trị sức khỏe tối đa lên &a1, tối đa là &a5,"
+				"Mỗi khi &c chết, nó sẽ bị giảm 1 cấp thành &r, điều này sẽ không ảnh hưởng đến lượng máu cơ bản của bạn."
+				"Để nâng cấp quái vật, bạn cũng có thể đổi &a Heart Container &r trên trang này."
+				"========================================"
+				"&l3.&r Học các kỹ năng chiến đấu hoành tráng &6 mạnh mẽ hơn&r&r"
+				""
+				"&l4.&r Chế tạo vũ khí độc đáo và sử dụng các kỹ năng vũ khí &6 mạnh mẽ"
+				"Bạn có thể sử dụng một số kỹ năng vũ khí làm đạo cụ buff"
+				""
+				"&l5.&r sử dụng bình thuốc, thức ăn và các đạo cụ thưởng &6 khác"
+				"                "
+			]
+			entity_vis_size: 1.0f
+			icon: "minecraft:experience_bottle"
+			id: "6434B9217D68E97C"
+			tasks: [{
+				id: "5203102F47434125"
+				title: "Làm thế nào để trở nên mạnh mẽ hơn?"
+				type: "checkmark"
+			}]
+			x: 1.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["2528CA1C4CE22394"]
+			description: [
+				"Trong chế độ chiến đấu, &b [Left Alt] &r né tránh"
+				"Tấn công có thể tích lũy kỹ năng &7 (biểu tượng ở góc dưới bên phải) &r"
+				"Sau khi đầy, bạn có thể sử dụng &b&l [nhấn và giữ nút bên trái] &r&r để giải phóng kỹ năng"
+				"&7 (Nếu &n dễ vô tình chạm vào &r&7 thì có thể sửa đổi: trận chiến hoành tráng·phím kỹ năng nâng cao vũ khí) &r"
+				"Sau khi sức chịu đựng của quái vật cạn kiệt và khả năng phòng thủ của nó bị phá vỡ, nó có thể bị &b&l thực hiện [nhấp chuột phải] &r&r"
+				"Kỹ năng &l: &r"
+				"Nhấp chuột phải vào sách kỹ năng để mở học"
+				"Né tránh &b [Alt trái] &r phòng thủ &b [nhấp chuột phải] &r"
+				"Lớp thuộc tính (được kích hoạt bởi các trường hợp đặc biệt)"
+				"Nhấn &b[J]&r để quản lý các kỹ năng bạn đã học"
+				""
+				"&e [Nhận sách kỹ năng và nhấp chuột phải vào &b để mở nghiên cứu] &r"
+				"&e [Nhấn &b [J] &e để mở giao diện quản lý và chọn kỹ năng của bạn] &r"
+			]
+			disable_toast: true
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "born_in_chaos_v1:sharpened_dark_metal_sword"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "1E520816352AAF54"
+			rewards: [
+				{
+					id: "124F21E916DF3789"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "epicfight:skillbook"
+						tag: {
+							skill: "efn:efn_step"
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "0F1A5D6A3A5ADFFF"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "epicfight:skillbook"
+						tag: {
+							skill: "efn:efn_dodge"
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "386A4C59384708EB"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "epicfight:skillbook"
+						tag: {
+							skill: "efn:efn_parry"
+						}
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "20559DE2D57AFC66"
+				title: "Các thao tác cơ bản"
+				type: "checkmark"
+			}]
+			title: "phong cách chiến đấu"
+			x: 1.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["1E520816352AAF54"]
+			description: [
+				"Các hành động khác nhau có giá trị thiệt hại khác nhau"
+				"&b chạy nước rút&r+&b nhấp chuột trái&r =&b tấn công chạy nước rút"
+				"&b nhảy&r+&b nhấp chuột trái&r =&b nhảy tấn công"
+				"==========================="
+				"Sau khi giá trị tích lũy ở góc dưới bên phải đầy"
+				"&b Nhấn và giữ nút bên trái &r để sử dụng kỹ năng vũ khí &b &r"
+				"&7 (nút kỹ năng mặc định)&r"
+				"Nhấn và giữ phím &b [shift] &r trên vật phẩm để xem mô tả kỹ năng chi tiết của &a&r"
+				"==========================="
+				"Kỹ năng vũ khí của một số vũ khí cũng có hành động khác nhau"
+				"Hãy thử tổ hợp phím D-pad, nhảy và chạy nước rút"
+			]
+			entity_vis_size: 1.0f
+			icon: "dummmmmmy:target_dummy"
+			id: "1A342DB9AC361987"
+			rewards: [{
+				id: "74D1024952D6D14F"
+				item: "dummmmmmy:target_dummy"
+				type: "item"
+			}]
+			tasks: [{
+				id: "0E011D28B76B3FA5"
+				type: "checkmark"
+			}]
+			title: "hành động tấn công"
+			x: 3.5d
+			y: 1.0d
+		}
+		{
+			description: [""]
+			disable_toast: true
+			entity_vis_size: 1.0f
+			icon: "ftbquests:book"
+			id: "08B0B31E6E01937C"
+			rewards: [
+				{
+					auto: "no_toast"
+					id: "1EA12F16410AAEF5"
+					item: "backpacked:backpack"
+					type: "item"
+				}
+				{
+					auto: "no_toast"
+					id: "08FC1E8673A857AB"
+					item: "minecraft:lantern"
+					type: "item"
+				}
+				{
+					auto: "no_toast"
+					id: "1FF73EC0ACB01826"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "ftbquests:book"
+					}
+					type: "item"
+				}
+				{
+					auto: "enabled"
+					command: "/effect give @s minecraft:resistance 10 10 true"
+					elevate_perms: true
+					id: "3E6FAA63E87634B2"
+					silent: true
+					title: "Bảo vệ 10 giây sau sinh"
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					count: 16
+					id: "63CBCC7DB81B30BE"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:cooked_beef"
+					}
+					type: "item"
+				}
+				{
+					auto: "no_toast"
+					id: "0865A37D3AA35F71"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "epicfight:iron_dagger"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			size: 1.0d
+			tasks: [{
+				disable_toast: true
+				id: "404BC92ADE95559E"
+				stat: "minecraft:total_world_time"
+				type: "stat"
+				value: 1
+			}]
+			title: "Khởi tạo thế giới"
+			x: 1.5d
+			y: -3.5d
+		}
+		{
+			description: [
+				"Nên tìm kiếm BOSS lớn theo quy trình"
+				""
+				""
+				"&l&n Explorer Compass &r&r: Bạn có thể tìm kiếm &a [tòa nhà] &r được yêu cầu"
+				"Gói tích hợp sẽ bao gồm một số ngục tối, nhà ở và làng mạc"
+				"Đợi các tòa nhà được Trung Quốc hóa và nhóm lại"
+				"&b (Bây giờ hãy tìm kiếm các địa điểm chưa được tìm kiếm trước) &r"
+				""
+				"&bBOSS đang tìm kiếm &r và con trỏ có thể khám phá đang tìm kiếm tên sinh vật &e &r"
+				"Nếu tên cấu trúc &e được chỉ định, hãy tìm kiếm tên cấu trúc"
+				""
+				"&l&n La bàn tự nhiên &r&r: Bạn có thể tìm kiếm &a mà bạn đang tìm kiếm [nhóm]"
+				""
+				""
+				" "
+			]
+			disable_toast: true
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "explorerscompass:explorerscompass"
+				tag: { }
+			}
+			id: "40C225696535CDC0"
+			rewards: [
+				{
+					id: "5D8D2FC9C95A85DC"
+					item: {
+						Count: 1
+						id: "explorerscompass:explorerscompass"
+						tag: { }
+					}
+					title: "la bàn thám hiểm"
+					type: "item"
+				}
+				{
+					id: "14C3F81B9428E28B"
+					item: {
+						Count: 1
+						id: "naturescompass:naturescompass"
+						tag: { }
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "61323E9AE91411ED"
+				title: "khám phá"
+				type: "checkmark"
+			}]
+			x: 2.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["08B0B31E6E01937C"]
+			description: [
+				"&l Khi di chuột qua mục: &r"
+				"Nhấn &b[R]&r để xem công thức tổng hợp, nhấn &b[U]&r để xem công dụng"
+				"Nhấn &b[shift]&r để xem chi tiết trang bị"
+				""
+				"&l Thường xuyên: &r"
+				"&b[M]&r mở bản đồ, &b[R]&r chuyển sang chế độ chiến đấu"
+				"&b [B] &r mở ba lô, &b [K] &r cây tài năng,"
+				"Nhấn và giữ khai thác chuỗi &b[~]&r"
+				"&b[J]&r quản lý kỹ năng chiến đấu hoành tráng"
+				"&e[H]&r tích hợp các nút&r&7 (bánh xe roulette tích hợp nhiều nút)"
+				"&o&7 (Các nút gói tích hợp đã được sửa đổi trên toàn cầu và một số xung đột được hiển thị chỉ để sử dụng lại)&r&r"
+				""
+				"Nút kiểm kê &l&r&7 (xung quanh mô hình người chơi)&r:"
+				"Biểu tượng &r ở góc trên bên trái của &b mở thanh phụ kiện &e"
+				"&b góc dưới bên phải &r mở giao diện đá truyền &e"
+				""
+				"{@pagebreak}"
+				"Gói tích hợp đã xóa tất cả các khóa &c vô dụng/không thường xuyên sử dụng &r"
+				"&b Các phím thường sử dụng Nhiệm vụ &r đã được đánh dấu là cần thay đổi các phím."
+				""
+				"Một số nút &c ít/vô dụng &r bị &c ẩn trong trang cài đặt nút"
+				"Nếu bạn có những nhu cầu không phổ biến như phím tắt JEI, chuyển đổi bản đồ mini, v.v."
+				"Bạn có thể tìm kiếm &bHide Key Binding&r trên trang Mod"
+				"Mở trang cấu hình, tìm kiếm nó và bỏ ẩn nó."
+			]
+			entity_vis_size: 1.0f
+			id: "1CE85293525A048F"
+			rewards: [
+				{
+					auto: "enabled"
+					id: "58B626C548B8FB99"
+					type: "xp_levels"
+					xp_levels: 15
+				}
+				{
+					auto: "no_toast"
+					count: 16
+					id: "4F10B260B186170C"
+					item: "minecraft:iron_ingot"
+					type: "item"
+				}
+			]
+			shape: "gear"
+			size: 1.5d
+			tasks: [{
+				id: "0C312F1BD35C6FD3"
+				title: "Các nút cơ bản"
+				type: "checkmark"
+			}]
+			title: "Các nút cơ bản"
+			x: 1.5d
+			y: -2.25d
+		}
+		{
+			description: [
+				"&e&l1. Liên quan đến cấu hình&r&r"
+				"Nên phân bổ bộ nhớ &e8G&r trở lên, &7 (nhưng không cấp phát toàn bộ bộ nhớ cho trò chơi, nếu không hệ thống máy tính của bạn sẽ không đủ và sẽ bị treo) &r"
+				"Nếu cấu hình thấp và bộ nhớ không đủ thì nên tắt:"
+				"Mod 1.&evoxy&r"
+				"2."
+				"(Ngoài đường chân trời và voxy, vui lòng kiểm tra tác vụ sau &a để biết chi tiết về thế hệ &r)"
+				""
+				"Nếu bạn chưa quen với MC, trước tiên hãy nhớ kiểm tra xem card đồ họa của bạn có hoạt động không!"
+				"Vui lòng đảm bảo rằng &6 đã bật card đồ họa độc lập &r và tìm kiếm &amc để bắt đầu hướng dẫn đồ họa độc lập &r"
+				"&7 (Nhấn [F3] trong game và nhìn vào dòng bên dưới [Display:xxx] bên phải"
+				"&7 có hiển thị mô hình hiển thị độc lập của bạn &r) &r&r không"
+				""
+				"&e&l2. Kiểm tra dữ liệu&r&r"
+				"Bắt đầu bằng cách đọc bảng nhiệm vụ, nhiều nhiệm vụ được đề cập"
+				"Nhấn phím &bR để kiểm tra công thức nấu ăn, vật phẩm rơi ra và thông tin vật phẩm, đồng thời nhấn phím &r để kiểm tra mức sử dụng."
+				"Ngoài ra, lời nhắc văn bản cũng đã được thêm vào hộp nhắc mục &a &r của nhiều đạo cụ."
+				""
+				"&e&l3.Liên quan đến sự cố&r&r"
+				"Nếu xác định được tình trạng sự cố, vui lòng cung cấp phản hồi cho UP master"
+				"Mô tả tình huống sự cố và đính kèm liên kết tới tệp báo cáo sự cố &6 &r"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "minecraft:nether_star"
+			}
+			id: "38939ECB90C37D02"
+			tasks: [{
+				id: "60F4649F6CC8115E"
+				title: "Lời khuyên cho người mới"
+				type: "checkmark"
+			}]
+			title: "Thông tin du lịch"
+			x: 5.0d
+			y: -3.0d
+		}
+		{
+			description: [
+				"Nếu là &e [kết nối mạng LAN] &r"
+				"Gói này đã cài đặt Mod trực tuyến LAN tùy chỉnh &e &r&r"
+				"        &7 (Lan Server Properties)&r"
+				"Chỉ cần tắt &b và cho phép PVP&r trong giao diện [Mở mạng LAN]."
+				"Sau khi mở giao diện ESC, hãy nhấp vào biểu tượng quả địa cầu ở bên trái để bật và tắt theo thời gian thực."
+				"================================================"
+				"Nếu là &e [Mở máy chủ] &r"
+				"Trong máy chủ &b tệp &r&aserver.properties&r"
+				"Nếu pvp=true được đổi thành pvp=false, sát thương thân thiện sẽ bị vô hiệu hóa."
+				"Sửa đổi yêu cầu khởi động lại máy chủ"
+				"==============================================="
+				"Nếu bạn cần &a bật/tắt linh hoạt sát thương thân thiện &r."
+				"Nên sử dụng hướng dẫn ban đầu"
+				"Sử dụng các lệnh sau để tạo một nhóm."
+				"&6[Tạo nhóm]&r"
+				"/nhóm thêm &b[tên nhóm]&r"
+				"&6(Tham gia nhóm)&r&a (Người sáng tạo cũng cần tham gia)&r"
+				"/đội tham gia &b[tên đội][ID người chơi]&r"
+				"&6[Kích hoạt sát thương đồng đội] &r"
+				"/đội sửa đổi &b[tên đội]&r thân thiệnFire true"
+				"&6(Đóng sát thương đồng đội) &r"
+				"/đội sửa đổi &b[tên đội]&r thân thiệnFire sai"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "epicfight:iron_dagger"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "3BAE51C5365088FB"
+			tasks: [{
+				id: "1D8A0AAE4930BD7D"
+				title: "Làm thế nào để tắt sát thương bạn bè?"
+				type: "checkmark"
+			}]
+			x: 6.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["1E520816352AAF54"]
+			description: [
+				"Tìm &a [NPC nhiệm vụ] &r để hoàn thành nhiệm vụ"
+				"&7 [Có thể tìm kiếm thông qua Con trỏ Phiêu lưu] &r"
+				"Hoặc hoàn thành thử thách cổng thông tin trong chương &6[Thử thách triệu hồi]&r"
+				"Bạn cũng có thể nhận được phiếu thưởng cho túi chiến lợi phẩm &e &r rơi ra khi tiêu diệt sinh vật."
+				""
+				"&b[Ngư dân] &r——Nhận phiếu đổi trang sức"
+				"&b[Thợ săn quái vật] &r——Nhận phiếu giảm giá trao đổi sách kỹ năng"
+				"&b[Đầu bếp] &r——Nhận đạo cụ đồ ăn đặc biệt"
+				""
+				"&c từ bỏ nhiệm vụ &r và không thể làm mới nhiệm vụ"
+				"Để hoàn thành nhiệm vụ, vui lòng kiểm tra &l đạo cụ thực tế &r—&a quên lọ thuốc &r"
+				""
+				"&6 [Mẹo] &r: NPC có thể sử dụng dây buộc &b &r+"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "epicfight:skillbook"
+				tag: {
+					skill: "epicfight:endurance"
+				}
+			}
+			id: "7916EFB62922BB2D"
+			tasks: [{
+				id: "7BAF1D911B7D61D1"
+				title: "Nhận sách kỹ năng"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["19CBA384DDE48548"]
+			description: [
+				"Khi bạn thuần hóa &e và gắn &r lên thú cưỡi của mình,"
+				"Nó sẽ tự động được đưa vào danh sách gắn kết của bạn."
+				""
+				"Nhấn vào &b [Phím Z] &r để triệu hồi thú cưỡi hiện tại"
+				"Nhấn và giữ &b [phím Z] &r để gọi ra roulette lựa chọn (nhấp chuột trái để triệu hồi hoặc thu hồi)"
+				""
+				"Trong giao diện roulette nhấn &b [chuột phải] &r để vào giao diện quản lý"
+				"&o&7 (Cũng có thể mở roulette chọn thú cưng bằng cách nhấp vào giao diện này hoặc có thể đặt riêng các phím tắt."
+			]
+			entity_vis_size: 1.0f
+			icon: "minecraft:saddle"
+			id: "2528CA1C4CE22394"
+			rewards: [{
+				command: "/myhorse @s"
+				elevate_perms: true
+				icon: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "minecraft:saddle"
+				}
+				id: "4FF46075BAD3466A"
+				team_reward: false
+				title: "Tạo gắn kết ban đầu"
+				type: "command"
+			}]
+			tasks: [{
+				id: "4046FF2DF98B9F75"
+				title: "hệ thống gắn kết"
+				type: "checkmark"
+			}]
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			can_repeat: true
+			disable_toast: true
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "modifiers:modifier_book"
+				tag: {
+					bookModifier: "modifiers:slow"
+				}
+			}
+			id: "6BC6EAFBE064898A"
+			rewards: [{
+				exclude_from_claim_all: true
+				icon: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "modifiers:modifier_book"
+					tag: {
+						bookModifier: "modifiers:sharp"
+					}
+				}
+				id: "7FF75E92B373B8EB"
+				table_id: 4837019815157607635L
+				team_reward: false
+				type: "choice"
+			}]
+			shape: "square"
+			tasks: [
+				{
+					consume_items: true
+					disable_toast: true
+					id: "2D5EABB528E210B3"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "fight_more:modifier_reroll"
+					}
+					type: "item"
+				}
+				{
+					id: "50F9C962CE3014DB"
+					item: "soul_like_mobs:cupofsacredforce"
+					type: "item"
+				}
+			]
+			title: "Trao đổi chất lượng vũ khí thông thường"
+			x: 5.0d
+			y: 1.0d
+		}
+		{
+			can_repeat: true
+			disable_toast: true
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "modifiers:modifier_book"
+				tag: {
+					bookModifier: "modifiers:guarding"
+				}
+			}
+			id: "600F69323659FF31"
+			rewards: [{
+				exclude_from_claim_all: true
+				icon: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "modifiers:modifier_book"
+					tag: {
+						bookModifier: "modifiers:hard"
+					}
+				}
+				id: "54570BC7FA906F74"
+				table_id: 845466006890880627L
+				team_reward: false
+				type: "choice"
+			}]
+			shape: "square"
+			tasks: [
+				{
+					consume_items: true
+					disable_toast: true
+					id: "7A5047B6022B68A5"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "fight_more:modifier_reroll"
+					}
+					type: "item"
+				}
+				{
+					disable_toast: true
+					id: "73986921230960C8"
+					item: "soul_like_mobs:cupofsacredforce"
+					type: "item"
+				}
+			]
+			title: "Trao đổi chất lượng áo giáp thông thường"
+			x: 5.0d
+			y: 2.0d
+		}
+		{
+			can_repeat: true
+			disable_toast: true
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "modifiers:modifier_book"
+				tag: {
+					bookModifier: "modifiers:quick"
+				}
+			}
+			id: "765F26BEDEF17F80"
+			rewards: [{
+				exclude_from_claim_all: true
+				icon: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "modifiers:modifier_book"
+					tag: {
+						bookModifier: "modifiers:armored"
+					}
+				}
+				id: "083EE5C76CD5A605"
+				table_id: 840663340100755059L
+				team_reward: false
+				type: "choice"
+			}]
+			shape: "square"
+			tasks: [
+				{
+					consume_items: true
+					id: "719A38FC00F95FEB"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "fight_more:modifier_reroll"
+					}
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 2L
+					id: "3BE216D7CED18C1F"
+					item: "soul_like_mobs:cupofsacredforce"
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 2L
+					id: "09866C71BE8C5362"
+					item: "minecraft:netherite_ingot"
+					type: "item"
+				}
+			]
+			title: "Trao đổi chất lượng áo giáp nâng cao"
+			x: 6.0d
+			y: 2.0d
+		}
+		{
+			can_repeat: true
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "modifiers:modifier_book"
+				tag: {
+					bookModifier: "modifiers:vicious"
+				}
+			}
+			id: "0497B196D3F1946A"
+			rewards: [{
+				icon: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "modifiers:modifier_book"
+					tag: {
+						bookModifier: "modifiers:vicious"
+					}
+				}
+				id: "0B78F6B1440450C2"
+				table_id: 4093117402102241539L
+				team_reward: false
+				type: "random"
+			}]
+			shape: "square"
+			tasks: [
+				{
+					consume_items: true
+					id: "2D73135F32B51DDF"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "fight_more:modifier_reroll"
+					}
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 3L
+					id: "236E745EA765030B"
+					item: "soul_like_mobs:cupofsacredforce"
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 3L
+					id: "357EE71ECF3DE726"
+					item: "minecraft:netherite_ingot"
+					type: "item"
+				}
+			]
+			title: "Xổ số chất lượng vũ khí tiên tiến"
+			x: 6.0d
+			y: 1.0d
+		}
+		{
+			can_repeat: true
+			description: [
+				"Thuộc hệ thống &cHP cấp &r."
+				"Tối đa cấp 5, mỗi cấp thêm 1 giọt máu"
+				"Để nâng cấp quái vật, bạn cũng có thể sử dụng Heart Container"
+				"Mỗi cái chết bị trừ 1 cấp."
+				""
+				"(Lượng máu cơ bản &a của bạn &r sẽ không giảm."
+				"Chỉ cần trừ &e HP bổ sung &r khỏi phần thưởng cấp HP)"
+			]
+			entity_vis_size: 1.0f
+			icon: "level_hp:heartcontainers"
+			id: "33568DB63C13FB1E"
+			rewards: [{
+				id: "2A4618087F35EDF6"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "level_hp:heartcontainers"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "square"
+			tasks: [{
+				consume_items: true
+				count: 16L
+				id: "0B07B20E1135E738"
+				item: "minecraft:diamond"
+				type: "item"
+			}]
+			title: "chứa đựng trái tim"
+			x: 5.0d
+			y: 3.0d
+		}
+		{
+			can_repeat: true
+			description: [
+				"Để thuận tiện cho &e, bạn cũng có thể chọn trao đổi số lượng lớn &r"
+				"Workbench công thức &e tổng hợp &r"
+				"(1 viên than ở giữa, 8 viên ngọc bên ngoài)"
+			]
+			disable_toast: true
+			entity_vis_size: 1.0f
+			id: "544F5B1E1171BFE7"
+			rewards: [{
+				auto: "no_toast"
+				id: "22DDC730BC4F5C5F"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "minecraft:diamond"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "square"
+			tasks: [{
+				consume_items: true
+				count: 8L
+				disable_toast: true
+				id: "771863374DADF020"
+				item: "minecraft:emerald"
+				type: "item"
+			}]
+			title: "Đổi ngọc lục bảo lấy kim cương"
+			x: 6.0d
+			y: 3.0d
+		}
+		{
+			description: [
+				"1.&b Mod [voxy]"
+				"Mod này cung cấp khả năng hiển thị thế giới về khoảng cách xem cực dài &e &r, tương đối thân thiện với hiệu suất nhưng vẫn sẽ làm tăng mức sử dụng bộ nhớ và gây mất ổn định."
+				"Hiệu suất không đủ hoặc card đồ họa AMD hoặc các card đồ họa cũ khác không hỗ trợ &c tự vô hiệu hóa &r"
+				"Có thể bật và tắt cài đặt video &e trong &r hoặc có thể xóa trực tiếp Mod"
+				"Hãy thử sử dụng &eJAVA21&r để cải thiện hiệu suất và độ ổn định tương thích."
+				""
+				"Vùng hiển thị của Mod yêu cầu &e chạy qua hình ảnh &r trước khi có thể hiển thị. Nếu bạn muốn trực tiếp có phạm vi lớn, bạn có thể sử dụng nó với Mod được tạo trước trên thế giới &echunky&r."
+				""
+				"2.&b Mod [chunky]"
+				"Lệnh &e/trung tâm chunky &7[<x> <z>]&r&r đặt vị trí trung tâm phát điện"
+				"&e/bán kính chunk &7<bán kính>&r&r Đặt bán kính được tạo trước, ô đơn vị"
+				"&e/khởi động chunky&r Bắt đầu thế hệ trước &e/tạm dừng chunky&r tạm dừng"
+				"Tất cả các hướng dẫn khác có thể tự truy vấn phần giới thiệu Mod."
+				""
+				"Lưu ý: Tạo trước có nghĩa là tự động chạy bản đồ. Khối lượng lưu trữ sẽ mở rộng nhanh chóng và các tòa nhà cũng như BOSS sẽ được tạo trước. Việc điều chỉnh lượng máu sẽ không ảnh hưởng đến sinh vật được tạo ra và có khả năng sinh vật sẽ được tự động làm sạch."
+				""
+				"3.&b Mod [C2ME] &7 (tên phiên bản được chuyển: fastchunkgen) &r"
+				"Mod này tăng tốc độ tạo khối &e&r, nhưng sẽ chiếm nhiều hơn&eHiệu suất CPU&r"
+				"và bộ nhớ, nếu cấu hình thấp, hãy tự tháo Mod này (tên &bfastchunkgen&r)"
+				"Số lượng luồng trong C2ME có thể được điều chỉnh trong cài đặt video. Cần có &e để khởi động lại trò chơi. &r có hiệu lực. &r"
+				"Ba luồng là đủ để sử dụng hàng ngày, nhưng đặt hiệu suất quá cao sẽ rất căng thẳng."
+				"Bạn chỉ nên tăng số lượng luồng trong &r khi &e được tạo trước để tăng tốc độ tạo chunky."
+				""
+				""
+				"&a [Quy trình vận hành tiền tạo] &r:"
+				"1. Cài đặt video"
+				"2. Cài đặt video &eC2ME Chủ đề &r đã đầy"
+				"3. Bắt đầu thao tác &echunky lệnh &r và bắt đầu tạo trước &r"
+				"4. Đợi tiến trình chunky hoàn thành &r"
+				"5. Cài đặt video &eC2ME Chủ đề &r kéo xuống &7 (cần khởi động lại trò chơi để có hiệu lực)"
+				"6. Cài đặt video &e bật voxy&r, &e nhập tệp dữ liệu voxy do &r tạo"
+				"Nhập lệnh &e/voxy import world <tên lưu trữ này>&r"
+				"7. Nếu không thể tải màn hình bản đồ thế giới xaero &e, hãy nhập lại kho lưu trữ &r&r"
+			]
+			entity_vis_size: 1.0f
+			icon: "minecraft:grass_block"
+			id: "75C5A9F53BF450F6"
+			tasks: [{
+				id: "63F4E0676BFDE7FB"
+				title: "Về thế hệ thế giới"
+				type: "checkmark"
+			}]
+			x: 5.0d
+			y: -2.0d
+		}
+		{
+			description: [
+				"Nếu bạn không quen với &e [Thanh phím tắt tự động ẩn] &r"
+				""
+				"Nhấn nút &e[H]&r để mở roulette và nhấp vào tùy chọn ở góc trên bên phải"
+				"&a [Bật/Tắt] Thanh phím tắt tự động ẩn &r"
+				""
+				"Tất nhiên, bạn cũng có thể xóa Mod &b trực tiếp &c [authud] &r"
+			]
+			entity_vis_size: 1.0f
+			icon: "block_factorys_bosses:cage_item"
+			id: "7D65872D037BC121"
+			tasks: [{
+				id: "7CC48123A75C78F7"
+				title: "Thanh phím tắt tự động ẩn"
+				type: "checkmark"
+			}]
+			x: 5.0d
+			y: -1.0d
+		}
+		{
+			description: [
+				"&c&o (không cần sửa đổi nếu không có yêu cầu đặc biệt)&r&r&r"
+				"&o&c (nếu sinh vật có lỗi kéo dài kết cấu mô hình)&r&r"
+				"================================="
+				"&b[Giao diện cấu hình mở]&r"
+				"Các bước vận hành &l:"
+				"&rESC->Mod->Tìm kiếm Trận chiến hoành tráng (không có hậu tố)"
+				"================================="
+				"&l&e1. Bật chế độ chiến đấu kết xuất mô hình góc nhìn thứ nhất&r&r"
+				"&o&7 (Có thể nhìn thấy mô hình bàn tay từ góc nhìn thứ nhất trong chế độ chiến đấu)&r&r"
+				"&a[Cài đặt hình ảnh] &r》&b mô hình góc nhìn thứ nhất: Bật &r"
+				""
+				"&l&e2. Tắt chế độ chiến đấu và tự động chuyển sang người thứ ba &r&r"
+				"&o&7 (Nó sẽ không tự động chuyển sang người thứ ba sau khi nhấn [R])&r&r"
+				"&a[Cài đặt điều khiển] &r》&b tự động chuyển đổi camera: tắt &r"
+				""
+				"&l&e3. Tắt tối ưu hóa kết xuất"
+				"&o&7 (cho phép tăng tốc độ khung hình nhưng card đồ họa không hỗ trợ, điều này sẽ gây ra kết cấu sinh vật bất thường &r)"
+				"&a[Cài đặt hình ảnh] &r》&b Tối ưu hóa kết xuất đổ bóng tính toán: Tắt &r"
+				""
+				"&c các tùy chọn khác không nên tự mình thay đổi &r"
+			]
+			entity_vis_size: 1.0f
+			icon: "epicfight:skillbook"
+			id: "1BBB8802F56379B3"
+			tasks: [{
+				id: "4DA9DEE1D9A85A5E"
+				title: "Cấu hình liên quan đến trận chiến hoành tráng"
+				type: "checkmark"
+			}]
+			x: 6.0d
+			y: -2.0d
+		}
+		{
+			description: [
+				"&a ánh sáng và bóng tối 1:&ephoton&r"
+				"Hiệu ứng hình ảnh tốt, tối ưu hóa tốt, có tính đến số khung hình &r"
+				"&a Ánh sáng và Bóng tối 2:&eBổ sung&r"
+				"Khả năng tương thích tốt, khả năng thích ứng cao, cài đặt thông số thấp, tốc độ khung hình cao &r"
+				"&7 (Hai cái này được tích hợp sẵn, có thể sử dụng các đèn và bóng khác, nhưng chưa rõ khả năng tương thích)"
+				"&7 (nên lấy nét vào số khung hình, hình ảnh không có ánh sáng và bóng tối cũng tốt)"
+			]
+			entity_vis_size: 1.0f
+			icon: "minecraft:lantern"
+			id: "1C85491D13B86E84"
+			shape: "circle"
+			tasks: [{
+				id: "2FD729CD360CAC0B"
+				title: "Liên quan đến ánh sáng và bóng tối"
+				type: "checkmark"
+			}]
+			x: 6.0d
+			y: -1.0d
+		}
+	]
+	title: "giảng dạy cơ bản"
+}

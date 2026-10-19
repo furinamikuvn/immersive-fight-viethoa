@@ -1,0 +1,10 @@
+{
+  "celestisynth:breezebreaker":[
+    {
+      "attribute": "puffish_attributes:player.resistance",
+      "value": 0.10,
+      "operation": "MULTIPLY_TOTAL",
+      "slot": "mainhand"
+    }
+  ]
+}

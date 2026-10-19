@@ -1,0 +1,57 @@
+{
+  "smoothswapping.config.menu": {
+    "en": "Smooth Swapping Config Menu",
+    "zh": "Smooth Swapping 配置菜单",
+    "vi": null
+  },
+  "smoothswapping.config.toggle": {
+    "en": "Toggle Mod",
+    "zh": "开关模组",
+    "vi": null
+  },
+  "smoothswapping.config.toggle.on": {
+    "en": "Enabled",
+    "zh": "启用",
+    "vi": null
+  },
+  "smoothswapping.config.toggle.off": {
+    "en": "Disabled",
+    "zh": "禁用",
+    "vi": null
+  },
+  "smoothswapping.config.testinventory": {
+    "en": "Test Inventory",
+    "zh": "测试物品栏",
+    "vi": null
+  },
+  "smoothswapping.config.option.animationspeed.tooltip": {
+    "en": "-Right click on empty space to create new curve point\n-Left click and drag a point to move it\n-Right click one to delete it",
+    "zh": "-右击空白处以创建新曲线点\n-左击并拖动一点来移动它\n-右击一点将其删除",
+    "vi": null
+  },
+  "smoothswapping.config.option.animationspeed": {
+    "en": "Animation Speed",
+    "zh": "动画速度",
+    "vi": null
+  },
+  "smoothswapping.config.option.animationspeed.speed": {
+    "en": "Speed",
+    "zh": "速度",
+    "vi": null
+  },
+  "smoothswapping.config.option.animationspeed.reset": {
+    "en": "Reset",
+    "zh": "重置",
+    "vi": null
+  },
+  "smoothswapping.config.save": {
+    "en": "Save & Exit",
+    "zh": "保存并退出",
+    "vi": null
+  },
+  "smoothswapping.config.exit": {
+    "en": "Exit",
+    "zh": "退出",
+    "vi": null
+  }
+}

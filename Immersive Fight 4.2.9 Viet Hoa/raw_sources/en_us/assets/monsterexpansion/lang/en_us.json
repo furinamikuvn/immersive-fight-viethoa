@@ -1,0 +1,461 @@
+{
+  "attribute.name.monsterexpansion.defense": "Defense",
+
+  "key.categories.monsterexpansion": "Monster Expansion",
+
+  "key.monsterexpansion.roll": "Roll",
+  "key.monsterexpansion.arborix_jump": "Arborix Jump",
+  "key.monsterexpansion.arborix_call_key": "Call Arborix",
+  "key.monsterexpansion.weapon_action": "Weapon Action",
+
+  "entity.monsterexpansion.arborix": "Arborix",
+
+  "entity.monsterexpansion.skrythe": "Skrythe",
+  "entity.monsterexpansion.skrythe_tail": "Skrythe Tail",
+  "entity.monsterexpansion.skrythe_part": "Skrythe Part",
+
+  "entity.monsterexpansion.ignathos": "Ignathos",
+  "entity.monsterexpansion.ignathos_tail": "Ignathos Tail",
+  "entity.monsterexpansion.ignathos_part": "Ignathos Part",
+
+  "entity.monsterexpansion.rhyza": "Rhyza",
+  "entity.monsterexpansion.rhyza_tail": "Rhyza Tail",
+  "entity.monsterexpansion.rhyza_part": "Rhyza Part",
+
+  "entity.monsterexpansion.leivekilth": "Leivekilth",
+  "entity.monsterexpansion.leivekilth_tail": "Leivekilth Tail",
+  "entity.monsterexpansion.leivekilth_part": "Leivekilth Part",
+
+  "entity.monsterexpansion.rakoth": "Rakoth",
+  "entity.monsterexpansion.rakoth_tail": "Rakoth Tail",
+  "entity.monsterexpansion.rakoth_part": "Rakoth Part",
+
+  "entity.monsterexpansion.kobeko": "Kobeko",
+
+
+  "block.monsterexpansion.foundry_placeholder": "The Foundry",
+  "block.monsterexpansion.foundry": "The Foundry",
+
+
+  "effect.monsterexpansion.cloaked": "Cloaked",
+  "effect.monsterexpansion.cloaked_cooldown": "Cloaked Cooldown",
+  "effect.monsterexpansion.blinded": "Blinded",
+  "effect.monsterexpansion.discombobulated": "Discombobulated",
+  "effect.monsterexpansion.stunned": "Stunned",
+  "effect.monsterexpansion.bleeding": "Bleeding",
+  "effect.monsterexpansion.lethargy": "Lethargy",
+  "effect.monsterexpansion.frostvein": "Frostvein",
+  "effect.monsterexpansion.flarevein": "Flarevein",
+
+
+  "creativetab.monsterexpansion_tab": "Monster Expansion",
+
+
+  "item.monsterexpansion.skrythe_spawn_egg": "Skrythe Spawn Egg",
+  "item.monsterexpansion.ignathos_spawn_egg": "Ignathos Spawn Egg",
+  "item.monsterexpansion.rhyza_spawn_egg": "Rhyza Spawn Egg",
+  "item.monsterexpansion.leivekilth_spawn_egg": "Leivekilth Spawn Egg",
+  "item.monsterexpansion.rakoth_spawn_egg": "Rakoth Spawn Egg",
+  "item.monsterexpansion.kobeko_spawn_egg": "Kobeko Spawn Egg",
+  "item.monsterexpansion.arborix_spawn_egg": "Arborix Spawn Egg",
+
+  "item.monsterexpansion.skrythe_fang": "Skrythe Fang",
+  "item.monsterexpansion.skrythe_armorplate": "Skrythe Armorplate",
+  "item.monsterexpansion.skrythe_wing_membrane": "Skrythe Wing Membrane",
+  "item.monsterexpansion.skrythe_frill": "Skrythe Frill",
+  "item.monsterexpansion.skrythe_tail": "Skrythe Tail",
+  "item.monsterexpansion.vocal_resonance_fold": "Vocal Resonance Fold",
+
+  "item.monsterexpansion.ignathos_talon": "Ignathos Talon",
+  "item.monsterexpansion.ignathos_hide": "Ignathos Hide",
+  "item.monsterexpansion.ignathos_feather": "Ignathos Feather",
+  "item.monsterexpansion.ignathos_beak": "Ignathos Beak",
+  "item.monsterexpansion.catalytic_ignition_crop": "Catalytic Ignition Crop",
+  "item.monsterexpansion.ignathos_tail": "Ignathos Tail",
+
+  "item.monsterexpansion.rhyza_claw": "Rhyza Claw",
+  "item.monsterexpansion.rhyza_fur": "Rhyza Fur",
+  "item.monsterexpansion.rhyza_carapace": "Rhyza Carapace",
+  "item.monsterexpansion.rhyza_scale": "Rhyza Scale",
+  "item.monsterexpansion.rhyza_tail": "Rhyza Tail",
+  "item.monsterexpansion.rhyza_gleam_core": "Rhyza Gleam Core",
+  "item.monsterexpansion.serrated_sharpclaw": "Serrated Sharpclaw",
+
+  "item.monsterexpansion.leivekilth_armorplate": "Leivekilth Armorplate",
+  "item.monsterexpansion.leivekilth_rimepelt": "Leivekilth Rimepelt",
+  "item.monsterexpansion.leivekilth_tusk": "Leivekilth Tusk",
+  "item.monsterexpansion.leivekilth_tail": "Leivekilth Tail",
+  "item.monsterexpansion.hoarfrost_shard": "Hoarfrost Shard",
+  "item.monsterexpansion.deepfreeze_gland": "Deepfreeze Gland",
+
+  "item.monsterexpansion.rakoth_underplate": "Rakoth Underplate",
+  "item.monsterexpansion.rakoth_carapace": "Rakoth Carapace",
+  "item.monsterexpansion.rakoth_horn": "Rakoth Horn",
+  "item.monsterexpansion.rakoth_tail": "Rakoth Tail",
+  "item.monsterexpansion.sedimentary_scarp_shell": "Sedimentary Scarp Shell",
+  "item.monsterexpansion.bedrock_core": "Bedrock Core",
+
+  "item.monsterexpansion.monster_hardbone": "Monster Hardbone",
+
+  "item.monsterexpansion.flash_arrow": "Flash Arrow",
+  "item.monsterexpansion.guidebook": "Hunter's Notes",
+
+  "item.monsterexpansion.wooden_mace": "Wooden Mace",
+  "item.monsterexpansion.stone_mace": "Stone Mace",
+  "item.monsterexpansion.iron_mace": "Iron Mace",
+  "item.monsterexpansion.golden_mace": "Golden Mace",
+  "item.monsterexpansion.diamond_mace": "Diamond Mace",
+  "item.monsterexpansion.netherite_mace": "Netherite Mace",
+
+  "item.monsterexpansion.wooden_spear": "Wooden Spear",
+  "item.monsterexpansion.stone_spear": "Stone Spear",
+  "item.monsterexpansion.iron_spear": "Iron Spear",
+  "item.monsterexpansion.golden_spear": "Golden Spear",
+  "item.monsterexpansion.diamond_spear": "Diamond Spear",
+  "item.monsterexpansion.netherite_spear": "Netherite Spear",
+
+  "item.monsterexpansion.horn_of_the_shattercry": "Horn Of The Shattercry",
+  "item.monsterexpansion.duskrend": "Duskrend",
+  "item.monsterexpansion.rimescourge": "Rimescourge",
+  "item.monsterexpansion.charcraw": "Charcraw",
+  "item.monsterexpansion.spire_shell_bulwark": "Spire Shell Bulwark",
+
+  "item.monsterexpansion.taunt_shield": "Taunt Shield",
+  "item.monsterexpansion.whistlewind_horn": "Whistlewind Horn",
+  "item.monsterexpansion.vigor_belt": "Vigor Belt",
+  "item.monsterexpansion.flash_bundle": "Flash Bundle",
+  "item.monsterexpansion.kobeko_locator": "Kobeko Locator",
+
+  "item.monsterexpansion.skrythe_helmet": "Skrythe Helmet",
+  "item.monsterexpansion.skrythe_chestplate": "Skrythe Chestplate",
+  "item.monsterexpansion.skrythe_leggings": "Skrythe Leggings",
+  "item.monsterexpansion.skrythe_boots": "Skrythe Boots",
+
+  "item.monsterexpansion.ignathos_helmet": "Ignathos Helmet",
+  "item.monsterexpansion.ignathos_chestplate": "Ignathos Chestplate",
+  "item.monsterexpansion.ignathos_leggings": "Ignathos Leggings",
+  "item.monsterexpansion.ignathos_boots": "Ignathos Boots",
+
+  "item.monsterexpansion.rhyza_helmet": "Rhyza Helmet",
+  "item.monsterexpansion.rhyza_chestplate": "Rhyza Chestplate",
+  "item.monsterexpansion.rhyza_leggings": "Rhyza Leggings",
+  "item.monsterexpansion.rhyza_boots": "Rhyza Boots",
+
+  "item.monsterexpansion.leivekilth_helmet": "Leivekilth Helmet",
+  "item.monsterexpansion.leivekilth_chestplate": "Leivekilth Chestplate",
+  "item.monsterexpansion.leivekilth_leggings": "Leivekilth Leggings",
+  "item.monsterexpansion.leivekilth_boots": "Leivekilth Boots",
+
+  "item.monsterexpansion.rakoth_helmet": "Rakoth Helmet",
+  "item.monsterexpansion.rakoth_chestplate": "Rakoth Chestplate",
+  "item.monsterexpansion.rakoth_leggings": "Rakoth Leggings",
+  "item.monsterexpansion.rakoth_boots": "Rakoth Boots",
+
+  "item.monsterexpansion.kobeko_skrythe_helmet": "Skrythe Kobeko Helmet",
+  "item.monsterexpansion.kobeko_skrythe_chestplate": "Skrythe Kobeko Chestplate",
+  "item.monsterexpansion.kobeko_rhyza_helmet": "Rhyza Kobeko Helmet",
+  "item.monsterexpansion.kobeko_rhyza_chestplate": "Rhyza Kobeko Chestplate",
+  "item.monsterexpansion.kobeko_leivekilth_helmet": "Leivekilth Kobeko Helmet",
+  "item.monsterexpansion.kobeko_leivekilth_chestplate": "Leivekilth Kobeko Chestplate",
+  "item.monsterexpansion.kobeko_rakoth_helmet": "Rakoth Kobeko Helmet",
+  "item.monsterexpansion.kobeko_rakoth_chestplate": "Rakoth Kobeko Chestplate",
+  "item.monsterexpansion.kobeko_ignathos_helmet": "Ignathos Kobeko Helmet",
+  "item.monsterexpansion.kobeko_ignathos_chestplate": "Ignathos Kobeko Chestplate",
+  "item.monsterexpansion.kobeko_iron_helmet": "Iron Kobeko Helmet",
+  "item.monsterexpansion.kobeko_iron_chestplate": "Iron Kobeko Chestplate",
+  "item.monsterexpansion.kobeko_gold_helmet": "Gold Kobeko Helmet",
+  "item.monsterexpansion.kobeko_gold_chestplate": "Gold Kobeko Chestplate",
+  "item.monsterexpansion.kobeko_diamond_helmet": "Diamond Kobeko Helmet",
+  "item.monsterexpansion.kobeko_diamond_chestplate": "Diamond Kobeko Chestplate",
+  "item.monsterexpansion.kobeko_netherite_helmet": "Netherite Kobeko Helmet",
+  "item.monsterexpansion.kobeko_netherite_chestplate": "Netherite Kobeko Chestplate",
+
+  "item.monsterexpansion.arborix_royal_cosmetic_head": "Arborix Royal Cosmetic Head",
+  "item.monsterexpansion.arborix_royal_cosmetic_chest": "Arborix Royal Cosmetic Chest",
+  "item.monsterexpansion.arborix_royal_cosmetic_tail": "Arborix Royal Cosmetic Tail",
+  "item.monsterexpansion.arborix_tophat_cosmetic_head": "Arborix Top-hat Cosmetic Head",
+  "item.monsterexpansion.arborix_skull_cosmetic_head": "Arborix Skull Cosmetic Head",
+
+
+  "screen.monsterexpansion.foundry": "The Foundry",
+
+  "screen.monsterexpansion.guidebook.title": "Hunter's Notes",
+  "screen.monsterexpansion.guidebook.monsterology": "Monsterology",
+  "screen.monsterexpansion.guidebook.pathology": "Pathology",
+  "screen.monsterexpansion.guidebook.quests": "Quests",
+  "screen.monsterexpansion.guidebook.assignments": "Assignments",
+  "screen.monsterexpansion.guidebook.optionals": "Optionals",
+  "screen.monsterexpansion.guidebook.events": "Events",
+
+  "screen.monsterexpansion.guidebook.tab.ecology": "Ecology",
+  "screen.monsterexpansion.guidebook.tab.physiology": "Physiology",
+  "screen.monsterexpansion.guidebook.tab.drops": "Drops",
+  "screen.monsterexpansion.guidebook.tab.effects": "Effects",
+  "screen.monsterexpansion.guidebook.tab.consumables": "Consumables",
+  "screen.monsterexpansion.guidebook.tab.overview": "Overview",
+  "screen.monsterexpansion.guidebook.tab.rewards": "Rewards",
+
+  "screen.monsterexpansion.guidebook.label.type": "Type",
+  "screen.monsterexpansion.guidebook.label.threat_level": "Threat Level",
+  "screen.monsterexpansion.guidebook.label.habitats": "Habitats",
+  "screen.monsterexpansion.guidebook.label.slain": "Slain: ",
+  "screen.monsterexpansion.guidebook.label.characteristics": "Characteristics",
+  "screen.monsterexpansion.guidebook.label.element_effectiveness": "Element Effectiveness",
+  "screen.monsterexpansion.guidebook.label.ice": "Ice",
+  "screen.monsterexpansion.guidebook.label.fire": "Fire",
+  "screen.monsterexpansion.guidebook.label.item": "Item",
+  "screen.monsterexpansion.guidebook.label.rarity": "Rarity",
+  "screen.monsterexpansion.guidebook.label.count": "Count",
+  "screen.monsterexpansion.guidebook.label.chance": "Chance",
+  "screen.monsterexpansion.guidebook.label.tail_drop": "Tail Drop",
+  "screen.monsterexpansion.guidebook.label.fighting_tips": "Fighting Tips",
+  "screen.monsterexpansion.guidebook.label.status_effects": "Status Effects",
+  "screen.monsterexpansion.guidebook.label.severity_level": "Severity Level",
+  "screen.monsterexpansion.guidebook.label.effect_description": "Effect Description",
+  "screen.monsterexpansion.guidebook.label.remedies": "Remedies",
+  "screen.monsterexpansion.guidebook.label.known_sources": "Known Sources",
+  "screen.monsterexpansion.guidebook.label.difficulty": "Difficulty",
+  "screen.monsterexpansion.guidebook.label.time_limit": "Time Limit",
+  "screen.monsterexpansion.guidebook.label.minutes": "Minutes",
+  "screen.monsterexpansion.guidebook.label.conditions": "Conditions",
+  "screen.monsterexpansion.guidebook.label.locations": "Locations",
+  "screen.monsterexpansion.guidebook.label.no_locations": "No Locations",
+  "screen.monsterexpansion.guidebook.label.quest_description": "Quest Description",
+  "screen.monsterexpansion.guidebook.label.player_single": "1 Player",
+  "screen.monsterexpansion.guidebook.label.player_multi": "1-%s Players",
+  "screen.monsterexpansion.guidebook.label.done": "[Done] ",
+  "screen.monsterexpansion.guidebook.label.unknown": "[ ? ]  ",
+  "screen.monsterexpansion.guidebook.label.advancement_prefix": "Advancement: ",
+  "screen.monsterexpansion.guidebook.label.complete_prefix": "Complete: ",
+  "screen.monsterexpansion.guidebook.label.already_completed": "Already Completed",
+  "screen.monsterexpansion.guidebook.label.one_time_quest": "One-time Quest",
+  "screen.monsterexpansion.guidebook.label.monsters": "Monsters",
+
+
+  "tooltip.monsterexpansion.element": " Element",
+  "tooltip.monsterexpansion.weapon_type": " Type",
+  "tooltip.monsterexpansion.resistances": "Resistances",
+  "tooltip.monsterexpansion.drop_rarity.common": "Common Drop",
+  "tooltip.monsterexpansion.drop_rarity.uncommon": "Uncommon Drop",
+  "tooltip.monsterexpansion.drop_rarity.rare": "Rare Drop",
+  "tooltip.monsterexpansion.drop_rarity.tail": "Tail Drop",
+  "tooltip.monsterexpansion.kobeko_gadget": "Kobeko Gadget",
+
+  "tooltip.monsterexpansion.arborix_cosmetic_slot.head": "Slot: Head",
+  "tooltip.monsterexpansion.arborix_cosmetic_slot.chest": "Slot: Chest",
+  "tooltip.monsterexpansion.arborix_cosmetic_slot.tail": "Slot: Tail",
+
+  "tooltip.monsterexpansion.spireshellbulwark.description": "Hewn from the mountain's patience, it only knows how to move forward.",
+  "tooltip.monsterexpansion.spireshellbulwark.charge": "» Hold Right-Click + Sprint: ",
+  "tooltip.monsterexpansion.spireshellbulwark.charge_details": "Charge. Impact deals damage and inflicts Bleeding.",
+  "tooltip.monsterexpansion.spireshellbulwark.passive": "» Passive: ",
+  "tooltip.monsterexpansion.spireshellbulwark.passive_details": "You're able to block attacks which would disable or ignore shields. (Large monsters excluded)",
+  "tooltip.monsterexpansion.spireshellbulwark.flavor": "The ground shook first. Then you did.",
+
+  "tooltip.monsterexpansion.duskrend.description": "Forged from the dusk's claw, it moves faster than its shadow.",
+  "tooltip.monsterexpansion.duskrend.counter": "» Right-Click: ",
+  "tooltip.monsterexpansion.duskrend.counter.details": "Open a brief parry window. Absorb a direct hit to retaliate with a counter-dash.",
+  "tooltip.monsterexpansion.duskrend.dual_wield": "» Dual Wield: ",
+  "tooltip.monsterexpansion.duskrend.dual_wield.details": "Counter damage is doubled.",
+  "tooltip.monsterexpansion.duskrend.flavor": "The dusk hunts with silent grace.",
+
+  "tooltip.monsterexpansion.rimescourge.description": "Hammered from winter's bone, it buries what it touches and lifts what it breaks.",
+  "tooltip.monsterexpansion.rimescourge.effect.hit": "» On hit (1/3 chance): ",
+  "tooltip.monsterexpansion.rimescourge.effect.hit.details": "Inflict Frostvein, stacking up to 3 layers of slowing chill.",
+  "tooltip.monsterexpansion.rimescourge.effect.use": "» Hold Right-Click: ",
+  "tooltip.monsterexpansion.rimescourge.effect.use.details": "Charge a slam that erupts rings of ice spikes ahead. Longer charge spawns more rings. Launches you skyward on release.",
+  "tooltip.monsterexpansion.rimescourge.flavor": "The chill in the air isn't the weather.",
+
+  "tooltip.monsterexpansion.charcraw.description": "Hammered out fast and pointed forward, it has always preferred the direct approach.",
+  "tooltip.monsterexpansion.charcraw.use": "» Right-Click: ",
+  "tooltip.monsterexpansion.charcraw.use.details": "Channel a fiery burst that detonates ahead, dealing heavy damage in a wide radius.",
+  "tooltip.monsterexpansion.charcraw.flavor": "Subtlety is a skill. You'll learn it later.",
+
+  "tooltip.monsterexpansion.horn_of_shattercry.description": "Rung from a cry that split the earth, it hasn't quieted since.",
+  "tooltip.monsterexpansion.horn_of_shattercry.standing_use": "» Hold Use: ",
+  "tooltip.monsterexpansion.horn_of_shattercry.projectile": "Plant a Sound Mine in front of you. It detonates when enemies draw near, sending out a shockwave.",
+  "tooltip.monsterexpansion.horn_of_shattercry.flavor": "You don't blow it. You give it permission.",
+
+  "tooltip.monsterexpansion.flash_bundle.description": "A compact cluster of flash arrows, thrown by Kobeko who can't be bothered with bows.",
+  "tooltip.monsterexpansion.taunt_shield.description": "A battered Kobeko shield, more noise than metal, perfect for drawing attention.",
+  "tooltip.monsterexpansion.whistlewind_horn.description": "A Skrythe-alloy horn that releases a burst of wind, bolstering its Kobeko wielder.",
+  "tooltip.monsterexpansion.vigor_belt.description": "A sturdy belt rigged to carry potions, letting a Kobeko mend itself or its master on the fly.",
+  "tooltip.monsterexpansion.kobeko_locator.description": "Allows you to teleport your tamed Kobeko to you from anywhere!",
+
+  "tooltip.monsterexpansion.skrythe_armor.description": "An armor piece crafted from the Skrythe's materials.",
+  "tooltip.monsterexpansion.skrythe_armor.set_bonus": "Set Bonus:",
+  "tooltip.monsterexpansion.skrythe_armor.resilience": "You gain Skrythe's resilience; increased knockback resistance.",
+  "tooltip.monsterexpansion.skrythe_armor.might": "You gain Skrythe's might; resistance to fall damage, falls erupt into shockwaves.",
+
+  "tooltip.monsterexpansion.skrythe_kobeko_armor.description": "An armor piece crafted with Skrythe's materials for the Kobeko.",
+  "tooltip.monsterexpansion.skrythe_kobeko_armor.set_bonus": "Set Bonus:",
+  "tooltip.monsterexpansion.skrythe_kobeko_armor.fall_resistance": "Kobeko becomes resistant to fall damage.",
+
+  "tooltip.monsterexpansion.ignathos_armor.description": "An armor piece crafted from the Ignathos's materials.",
+  "tooltip.monsterexpansion.ignathos_armor.set_bonus": "Set Bonus:",
+  "tooltip.monsterexpansion.ignathos_armor.sweet_zone": "You gain Ignathos's precision; attacks at optimal range deal increased damage. (3.5 - 5 Blocks)",
+  "tooltip.monsterexpansion.ignathos_armor.reach": "You gain Ignathos's reach; increased block and entity reach.",
+
+  "tooltip.monsterexpansion.rhyza_armor.description": "An armor piece crafted from the Rhyza's materials.",
+  "tooltip.monsterexpansion.rhyza_armor.set_bonus": "Set Bonus:",
+  "tooltip.monsterexpansion.rhyza_armor.dazzle_resistance": "You gain Rhyza's dazzle resistance; you are immune to blinding light.",
+  "tooltip.monsterexpansion.rhyza_armor.cloaking": "You gain Rhyza's cloaking; you become invisible on low hp.",
+
+  "tooltip.monsterexpansion.rhyza_kobeko_armor.description": "An armor piece crafted with Rhyza's materials for the Kobeko.",
+  "tooltip.monsterexpansion.rhyza_kobeko_armor.set_bonus": "Set Bonus:",
+  "tooltip.monsterexpansion.rhyza_kobeko_armor.movement_speed": "Kobeko gains increased movement speed.",
+
+  "tooltip.monsterexpansion.leivekilth_armor.description": "An armor piece crafted from the Leivekilth's materials",
+  "tooltip.monsterexpansion.leivekilth_armor.set_bonus": "Set Bonus:",
+  "tooltip.monsterexpansion.leivekilth_armor.frostwalker": "You gain Leivekilth's frost control; you have permanent frostwalker.",
+  "tooltip.monsterexpansion.leivekilth_armor.ice_armor": "You gain Leivekilth's ice armor; chance of bursting ice, damaging whatever attacked you.",
+
+  "tooltip.monsterexpansion.leivekilth_kobeko_armor.description": "An armor piece crafted with Leivekilth's materials for the Kobeko.",
+  "tooltip.monsterexpansion.leivekilth_kobeko_armor.set_bonus": "Set Bonus:",
+  "tooltip.monsterexpansion.leivekilth_kobeko_armor.stagger_effect": "Kobeko stagger's shatter ice, damaging those near.",
+
+  "tooltip.monsterexpansion.rakoth_armor.description": "An armor piece crafted from the Rakoth's materials",
+  "tooltip.monsterexpansion.rakoth_armor.set_bonus": "Set Bonus:",
+  "tooltip.monsterexpansion.rakoth_armor.step_over_blocks": "You gain Rakoth's steadfastness; you can step over full blocks.",
+  "tooltip.monsterexpansion.rakoth_armor.momentum_deflect": "You gain Rakoth's unyielding mass; sprinting builds momentum to deflect projectiles.",
+
+  "tooltip.monsterexpansion.rakoth_kobeko_armor.description": "An armor piece crafted with Rakoth's materials for the Kobeko.",
+  "tooltip.monsterexpansion.rakoth_kobeko_armor.set_bonus": "Set Bonus:",
+  "tooltip.monsterexpansion.rakoth_kobeko_armor.aoe_attack": "Kobeko's regular attacks become area of effect.",
+
+  "tooltip.monsterexpansion.ignathos_kobeko_armor.description": "An armor piece crafted with Ignathos's materials for the Kobeko.",
+  "tooltip.monsterexpansion.ignathos_kobeko_armor.set_bonus": "Set Bonus:",
+  "tooltip.monsterexpansion.ignathos_kobeko_armor.fuel_revival": "A fainted Kobeko can be revived with Ignathos fuel blocks.",
+
+  "tooltip.monsterexpansion.kobeko_armor.description": "An armor piece for the Kobeko.",
+  "tooltip.monsterexpansion.kobeko_armor.armor": "Defense: ",
+
+  "tooltip.monsterexpansion.skrythe_fang.description": "A razor-sharp fang broken from the Skrythe's jaw.",
+  "tooltip.monsterexpansion.skrythe_armorplate.description": "A dense fragment of scale dropped from the Skrythe.",
+  "tooltip.monsterexpansion.skrythe_wing_membrane.description": "A torn stretch of wing membrane dropped from the Skrythe.",
+  "tooltip.monsterexpansion.skrythe_frill.description": "A vibrant blue frill dropped from the Skrythe.",
+  "tooltip.monsterexpansion.skrythe_tail.description": "Skrythe's tail piece dropped by severing the beast's tail from its body.",
+  "tooltip.monsterexpansion.vocal_resonance_fold.description": "A magical fragment of Skrythe's throat, humming with the wyvern's lingering roar.",
+
+  "tooltip.monsterexpansion.ignathos_talon.description": "A curved, sharp talon ripped from the Ignathos.",
+  "tooltip.monsterexpansion.ignathos_hide.description": "A thick slab of fire-resistant hide stripped from the Ignathos.",
+  "tooltip.monsterexpansion.ignathos_feather.description": "A soot-darkened feather plucked from the Ignathos.",
+  "tooltip.monsterexpansion.ignathos_beak.description": "A jagged fragment of the Ignathos's reinforced beak.",
+  "tooltip.monsterexpansion.catalytic_ignition_crop.description": "The volatile organ the Ignathos uses to ignite its internal furnace. It still radiates heat.",
+  "tooltip.monsterexpansion.ignathos_tail.description": "Ignathos's tail piece dropped by severing the beast's tail from its body.",
+
+  "tooltip.monsterexpansion.rhyza_claw.description": "A razor-sharp claw dropped from the Rhyza.",
+  "tooltip.monsterexpansion.rhyza_fur.description": "A thick piece of fur dropped from the Rhyza.",
+  "tooltip.monsterexpansion.rhyza_carapace.description": "A hardened segment of exoskeleton dropped by the Rhyza.",
+  "tooltip.monsterexpansion.rhyza_scale.description": "A hard shard of scale dropped by the Rhyza.",
+  "tooltip.monsterexpansion.rhyza_tail.description": "Rhyza's tail piece dropped by severing the beast's tail from its body.",
+  "tooltip.monsterexpansion.rhyza_gleam_core.description": "A radiant core pulsing with blinding light, dropped by the Rhyza.",
+  "tooltip.monsterexpansion.serrated_sharpclaw.description": "A jagged claw from Rhyza, edged with unnatural precision and highly prized.",
+
+  "tooltip.monsterexpansion.leivekilth_armorplate.description": "A dense fragment of scale dropped from the Leivekilth.",
+  "tooltip.monsterexpansion.leivekilth_rimepelt.description": "A frost-laced pelt shed from the Leivekilth.",
+  "tooltip.monsterexpansion.leivekilth_tusk.description": "A massive, frozen tusk torn from the Leivekilth.",
+  "tooltip.monsterexpansion.leivekilth_tail.description": "Leivekilth's tail piece dropped by severing the beast's tail from its body.",
+  "tooltip.monsterexpansion.hoarfrost_shard.description": "A crystalline shard infused with biting hoarfrost dropped from the Leivekilth.",
+  "tooltip.monsterexpansion.deepfreeze_gland.description": "A subzero organ harvested from the Leivekilth. It secretes an essence cold enough to freeze steel solid.",
+
+  "tooltip.monsterexpansion.rakoth_underplate.description": "A dense, scarred armor plate torn from the Rakoth's underside.",
+  "tooltip.monsterexpansion.rakoth_carapace.description": "A hardened segment of exoskeleton dropped by the Rakoth.",
+  "tooltip.monsterexpansion.rakoth_horn.description": "A jagged horn broken from the Rakoth's crown.",
+  "tooltip.monsterexpansion.rakoth_tail.description": "Rakoth's tail piece dropped by severing the beast's tail from its body.",
+  "tooltip.monsterexpansion.sedimentary_scarp_shell.description": "A layered, stone-hard shell fragment broken from the Rakoth.",
+  "tooltip.monsterexpansion.bedrock_core.description": "A dense, ancient core formed under unimaginable pressure. It carries the unyielding strength of the earth.",
+
+  "tooltip.monsterexpansion.monster_hardbone.description": "A sturdy piece of bone dropped by a Large Monster.",
+
+
+  "effect.monsterexpansion.discombobulated.guidebook_description": "Makes you unable to move nor attack for a short duration. This status is very common and can be inflicted by most monsters' roars. However as common as it is, the monsters also do not attack when roaring, making the status not as dangerous. As the effect will likely end before the monster can finish roaring.",
+  "effect.monsterexpansion.stunned.guidebook_description": "Makes you unable to move nor attack for a short duration. This can be inflicted by all monsters if the hunter is often hit by attacks. The effect instantly ends if the hunter is hit again. The damage source does not matter, making allies and self-inflicted damage a viable way to end the effect early. However this effect is still very dangerous as the monster may follow up with a devastating attack before the hunter can recover.",
+  "effect.monsterexpansion.bleeding.guidebook_description": "Makes you take damage over time. This effect can stack, making the damage interval shorter. On its own, the damage isn't anything to be afraid of, but it can be devastating if its allowed to stack up. This status' duration will go down slower depending on how fast you are moving. To get rid of it the fastest, the hunter must crouch while staying still.",
+  "effect.monsterexpansion.flarevein.guidebook_description": "Makes you take damage over time. This effect can stack, making the damage interval shorter. On its own, the damage isn't anything to be afraid of, but it can be devastating if its allowed to stack up. This status' duration will go down slower depending on how slow you are moving. To get rid of it the fastest, the hunter must be sprinting, or even better, roll around until the status is cured. The hunter must be careful as to not stay still, as doing so will increase the duration instead.",
+  "effect.monsterexpansion.frostvein.guidebook_description": "Makes you move slower, attack slower and jump lower. This effect can stack, making the movement speed decrease more severe. This effect can really be devastating if its allowed to stack up as you may not be able to jump over even a singular block. This status currently does not have a remedy making it incredibly dangerous if the hunter is fighting in rough terrain.",
+
+  "effect.monsterexpansion.remedy.no_remedy": "No Remedy",
+  "effect.monsterexpansion.remedy.dont_move": "Dont move.",
+  "effect.monsterexpansion.remedy.crouch": "Crouch.",
+  "effect.monsterexpansion.remedy.sprint": "Sprint",
+  "effect.monsterexpansion.remedy.roll": "Roll.",
+
+
+  "monsterology.monsterexpansion.skrythe.title": "First King of The Skies",
+  "monsterology.monsterexpansion.skrythe.type": "Wyvern",
+  "monsterology.monsterexpansion.skrythe.lore": "A highly territorial carnivorous Wyvern characterized by its dense, ash-grey scales and striking azure wing membranes. The Skrythe thrives in most regions and can be sighted throughout the world migrating or looking for food.\n\nRather than relying on a breath weapon, its throat houses a highly specialized organ capable of generating devastating, high-frequency vibrations. The prominent blue frills crowning Skrythe's head are not merely for display. They are highly complex biological parabolic reflectors. When the wyvern produces a sound, these frills flare outward to amplify, focus, and aim the vibrations, turning a deafening roar into a localized, kinetic shockwave capable of pulverizing solid rock and shattering the bones of its prey.\n\nTo counterbalance the force of its own sonic blasts, Skrythe has developed a heavily calcified, rigid tail. While it prefers to fight at a distance using acoustics, it will ruthlessly swing this hardened tail like a mace to crush anything that manages to get too close.\n\nSkrythe was the very first apex predator officially documented by early explorers. Before humanity understood the true dangers of the world, a massive grey shadow blotted out the sun, accompanied by a deafening roar that shattered village windows. It was the creature that taught the world to look up and fear the skies. Which is why its titled 'First King of The Skies'",
+  "monsterology.monsterexpansion.skrythe.fighting_tips": "When engaging a Skrythe, avoid lingering in mid-range, as this is where its attacks, particularly its roar, are most devastating. Fighting at close range prevents you from simply outrunning strikes, forcing you to rely on diagonal dodge rolls to evade. This dynamic completely shifts when the Skrythe becomes enraged. You must abandon close-quarters combat during this state, as it can unleash a Seismic Roar at any moment. This attack is instantly fatal at point-blank range and still inflicts massive damage further out, so your best strategy is to keep your distance and bait the attack. If you back away too far while the enraged beast is airborne, it will trigger an Aerial Assault. As it ascends to fire sound spheres, do not waste stamina dodging them, as they deal negligible damage. Instead, immediately sprint directly underneath the Skrythe. The true threat is its subsequent angled dive, which boasts an incredibly long forward reach. Positioning yourself directly below the monster is the most reliable way to evade the dive completely.",
+
+  "monsterology.monsterexpansion.ignathos.title": "Brushfire Vandal",
+  "monsterology.monsterexpansion.ignathos.type": "Avian",
+  "monsterology.monsterexpansion.ignathos.lore": "Often referred to by frustrated locals as the \"Brushfire Vandal,\" Ignathos is a medium-sized, flightless Avian covered in dense, heat-resistant plumage. Unlike most predators, this highly specialized creature is an obligate consumer of combustibles, sustaining itself entirely on a diet of raw wood, coal, and other flammable materials. Its anatomy is perfectly adapted for this bizarre ecological niche; it possesses unusually long arms ending in inward-pointing, vice-like claws that allow it to effortlessly grip, uproot, and pull solid blocks of fuel directly from the earth or human structures.\n\nOnce consumed, the materials enter a highly specialized stomach that acts as a biological furnace. Ignathos does not digest its food in a traditional sense; instead, it literally burns it, absorbing the resulting thermal and kinetic energy to fuel its own body. Because of its voracious appetite for fuel, particularly during the harsh winter months, unprepared villages often fall victim to its pillaging. However, Ignathos is naturally docile and strongly prefers to flee from confrontation. Over time, settlements situated near birch forests and other natural habitats have learned to coexist with the beast, leaving designated piles of scrap wood and coal on the outskirts of town to prevent the creature from dismantling their houses or raiding freshly mined stockpiles.\n\nDespite its somewhat dopey appearance and timid nature, Ignathos is not defenseless. If it detects genuine hostility and feels it cannot safely escape (or if it is fiercely protecting a particularly rich meal) it will fight back. By hyper-ventilating and forcefully expelling the burning contents of its stomach furnace, Ignathos can spew globs of highly adhesive, flaming goo over a wide area.\n\nWhile Ignathos is considered physically weaker than most large monsters, seasoned hunters actively avoid confronting them whenever possible. This is not out of fear of the beast itself, but rather the catastrophic environmental damage it causes when panicked. A frightened or cornered Ignathos will spray its flaming goo wildly, easily igniting massive, uncontrollable forest fires that can devastate an entire biome.",
+  "monsterology.monsterexpansion.ignathos.fighting_tips": "Ignathos' base attacks can be easily evaded using dodge rolls. As the fight progresses, Ignathos will search for and consume any valid fuel blocks nearby. Upon eating the fuel, it enters an ignited state, unlocking new flame-based abilities and empowering its standard moves. While ignited, both its beak strikes and its newly acquired flame-spitting attacks deal Fire damage and have a chance to inflict the Flarevein effect. The primary danger here is Flarevein, which will ramp up in severity if not addressed quickly. To cure the affliction, simply sprint or perform dodge rolls until it dissipates. When enraged, Ignathos gains the ability to spew a massive glob of flaming goo. Although this attack boasts increased damage and a wider area of effect, the beast suffers from a short recovery period afterward, providing an excellent opening for a counterattack.",
+
+  "monsterology.monsterexpansion.rhyza.title": "Pest of The Blind",
+  "monsterology.monsterexpansion.rhyza.type": "Chimeran",
+  "monsterology.monsterexpansion.rhyza.lore": "A highly elusive, carnivorous Chimeran native to the barren, floating islands of the End. Characterized by its twin tails and specialized forelimbs, the Rhyza is a deadly anomaly in an already alien landscape. Unlike other predators that rely on crushing jaws, this beast rarely utilizes its sharp teeth in combat. Instead, it wields elongated, jagged claws with terrifying precision, evolved specifically to slash and perforate. Even if a target manages to deflect the brunt of a physical strike, the deep, serrated lacerations left behind inflict severe and continuous bleeding.\n\nDespite its lethal anatomy, the Rhyza is naturally cautious and actively avoids unnecessary confrontation. It navigates the desolate void using advanced evasion tactics, primarily shifting into complete invisibility, to stalk small prey or bypass threats. Ecologists have recently discovered that what appears to be pale, white fur is actually a dense coat of microscopic, incredibly complex mirror-like structures. These organic, yet-to-be-understood prisms perfectly bend light around the creature's body, rendering it entirely unseen in its environment.\n\nIf cornered, it reveals its secondary defense mechanism: the bulbous, gleam-infused cores at the ends of its twin tails. By smashing these cores together or against the ground, the Rhyza detonates a blinding, disorienting flash of light, allowing it to vanish. However, if the creature is provoked into a lethal encounter, these evasive tools are weaponized, allowing the beast to blind its target and strike from unseen angles with terrifying, omnidirectional leaps.\n\nThis timid nature completely inverts during mating season. Expectant female Rhyzas become hyper-aggressive, entirely abandoning their natural invisibility to ruthlessly hunt down anything that moves within their territory. Ecologists theorize this violent behavioral shift is a preemptive evolutionary imperative, a brutal campaign to purge the surrounding islands of any potential threats before giving birth, ensuring the absolute safety of its vulnerable offspring.",
+  "monsterology.monsterexpansion.rhyza.fighting_tips": "Much like Ignathos, most of Rhyza's base attacks can be easily evaded using dodge rolls, though its overall attack speed is noticeably faster. When enraged, Rhyza gains access to two new abilities: Flash and Invisibility. Avoiding the Flash is simple; Rhyza will deliberately dash into your field of vision, so simply look away, preferably in the opposite direction of its dash, to avoid being blinded. Invisibility is a bit trickier, as there is no way to predict where Rhyza will emerge around you. Rather than trying to guess, it is better to rely on a reactive dodge roll. If you do not immediately see the beast, assume it is preparing to strike from behind and roll accordingly.",
+
+  "monsterology.monsterexpansion.leivekilth.title": "The Ancient Glacier",
+  "monsterology.monsterexpansion.leivekilth.type": "Therian",
+  "monsterology.monsterexpansion.leivekilth.lore": "A colossal, solitary Therian bearing the traits of a walrus, but equipped with membranous wings, a heavy tail, and devastating saber-like tusks. Its fangs serve as a visual marker of its age and dominance.\n\nLeivekilth possesses highly specialized organs that secrete volatile fluids capable of rapidly stripping salt from seawater and shifting freezing points. This also allows the creature to exhale sweeping jets of pure frost. Its thick blubber is laced with a sponge-like tissue, enabling it to absorb water and cloak itself in a dense armor of regenerative ice.\n\nDespite its immense weight, Leivekilth is terrifyingly agile in short bursts, the sheer muscle mass of the creature allows it to leap great distances and even take flight for brief periods. However when enraged, utilizing its blowholes to push freezing air at high speeds, it can temporarily transition into its flying state. This phase is extremely dangerous, as its bodily fluids can now rapidly drip below, flash freezing the ground at impact and creating razor sharp ice spikes. Or increasing the rate and pressure of its blowhole exhalations to supercool the ground below it, creating a massive icy shockwave.\n\nLeivekilth are notoriously brutal with its prey, preserving them in ice and impaling them upon its jagged back spines. These macabre displays serve to store food, assert dominance, and attract mates. During breeding season, its lairs are decorated with mountainous heaps of frozen corpses, a grim warning that stepping foot into its territory is an absolute death sentence.",
+  "monsterology.monsterexpansion.leivekilth.fighting_tips": "Leivekilth's attacks are slow, but its sheer size makes up for the lack of speed. Shattering its ice armor quickly is crucial, as breaking each section increases the damage the monster takes. Watch out for its belly flop attacks; the safest way to evade these is to run diagonally underneath the beast. Be equally cautious of its ice attacks, which can inflict Frostvein. This effect is highly dangerous if allowed to stack, eventually preventing you from jumping over blocks altogether. Upon enraging, Leivekilth will flip onto its back and begin to hover. Do not waste your resources trying to outrun it. Instead, the safest approach is to remain at its sides. This positioning keeps you clear of the ice spikes erupting directly beneath it, while also preventing the monster from targeting you with its ice breath or tail sweeps.",
+
+  "monsterology.monsterexpansion.rakoth.title": "Sandwrought Behemoth",
+  "monsterology.monsterexpansion.rakoth.type": "Lacertian",
+  "monsterology.monsterexpansion.rakoth.lore": "A massive, four-legged Lacertian geovore characterized by the heavily armored, rocky shell covering its back. Rakoth primarily roams the arid expanses of badlands and deserts, relentlessly searching for exposed mineral veins and precious metals to sustain itself.\n\nEquipped with a thick, reinforced skull and prominent frontal horns, this beast routinely headbutts solid cliff faces to excavate its metallic diet. While typically docile toward humans, its insatiable hunger for ore makes it extremely dangerous to fully equipped hunters. Rakoth is known to mistake the glint of metallic armor for a walking feast, charging relentlessly to crack open the hunter and consume the raw iron or gold within.\n\nDespite its cumbersome, rocky exterior, hunters must not be deceived by its apparent sluggishness. Rakoths can launch into a terrifyingly swift gallop. If severely threatened, it will tuck its head and tail inward, transforming into a massive, rolling boulder of pure physical destruction. While this rolling charge delivers devastating blunt-force trauma capable of flattening anything in its path, the beast's vision and turning radius are severely compromised in this state, allowing nimble hunters to evade and counterattack.\n\nBeyond its horns and rolling charge, Rakoth boasts a remarkably thick, armored tail used for crushing blows. During mating season, the arid plains echo with rhythmic, thunderous tremors as rival males repeatedly slam their heavy tails into the dirt. This display of raw physical power serves both as a call to potential mates and a violent warning to any competing males in the territory.",
+  "monsterology.monsterexpansion.rakoth.fighting_tips": "Rakoth excels at mid-to-short range, so it is best to avoid lingering at these distances. Watch out for its tail attacks, which possess a wide area of effect and can be devastating if caught off guard. Rakoth inflicts more stun than any other monster; taking damage three times in quick succession will almost certainly leave you immobilized. Because the beast is typically very slow, most of its attacks can be easily dodged with proper positioning. After sustaining enough damage, Rakoth will occasionally curl into a ball and attempt to crush you. If you see it suddenly running in an unusual direction, it is preparing to initiate this rolling attack. Do not allow it to create distance, as this gives it the space needed to freely turn and home in on you. Instead, chase after it. If you stay close enough, its turning radius will be restricted, forcing it to helplessly circle around you instead of landing a direct hit.",
+
+  "quest.monsterexpansion.a_burning_nuisance.name": "A Burning Nuisance",
+  "quest.monsterexpansion.a_burning_nuisance.objective": "Slay an Ignathos",
+  "quest.monsterexpansion.a_burning_nuisance.description": "Listen here, rookie! I know we're supposed to leave out scrap wood to keep those dopey birds happy, but a particularly greedy Ignathos just broke into my yard and made off with a whole stack of my premium crafting coal! I can't forge any armor if my fuel keeps getting treated like an all-you-can-eat buffet. Head out to the woods and teach that overgrown turkey a lesson. Just... try not to panic it near the tree line, yeah? We don't need a forest fire today.",
+
+  "quest.monsterexpansion.a_flash_in_the_dark.name": "A Flash in the Dark",
+  "quest.monsterexpansion.a_flash_in_the_dark.objective": "Slay a Rhyza",
+  "quest.monsterexpansion.a_flash_in_the_dark.description": "I know the End isn't exactly a peaceful garden, but normally those pests just turn invisible and run away when I come to harvest Chorus Fruit. Well, not this one. I barely took two steps before it dropped its camouflage, flashed me blind, and came at me swinging those awful claws. The ecologists at camp told me she must be nesting, which means no one is safe near her territory. I need you to go clear it out so I can get back to my research. And hey, bring some bandages, those scratches do NOT stop bleeding!",
+
+  "quest.monsterexpansion.silence_the_skies.name": "Silence the Skies",
+  "quest.monsterexpansion.silence_the_skies.objective": "Slay a Skrythe",
+  "quest.monsterexpansion.silence_the_skies.description": "WHAT? YOU'LL HAVE TO SPEAK UP! MY EARS ARE STILL RINGING! I was hauling a premium shipment of glass panes through the crossing when this massive grey shadow dropped out of nowhere. It flared up these blue things on its head and just... screamed! The sheer force of the sound shattered my entire cargo into dust! When I tried to scare it off, it swung a tail the size of an anvil and smashed my cart to splinters. I don't care what the guild calls it, just go out there and shut that flying menace up so I can do my job in peace!",
+
+  "quest.monsterexpansion.the_badlands_bite_back.name": "The Badlands Bite Back",
+  "quest.monsterexpansion.the_badlands_bite_back.objective": "Slay a Rakoth",
+  "quest.monsterexpansion.the_badlands_bite_back.description": "Ravines out here are dangerous, so I spent my life savings on a brand-new set of heavy Iron armor. Turns out, to a Rakoth, that just makes me look like a premium, canned meal! I was barely swinging my pickaxe before this massive, rocky lizard charged at me, trying to crack me open like a geode. I dropped my tools and ran, but the overgrown pebble curled up into a boulder and literally flattened my entire campsite. I can still hear it slamming its tail out there. Go deal with it!",
+
+  "quest.monsterexpansion.bloody_waters.name": "Bloody Waters",
+  "quest.monsterexpansion.bloody_waters.objective": "Slay a Leivekilth",
+  "quest.monsterexpansion.bloody_waters.description": "We thought it was just a rogue iceberg drifting into the shipping lanes. Then it turned and rammed our hull. It's a leviathan, Hunter, a colossal beast cloaked in thick frost, with tusks that sheared right through our reinforced bow. As we abandoned ship, the fog cleared enough for me to see its back. It had massive marine predators, sharks and whales, completely frozen and skewered along its spine like grim trophies. It blasted the water with a freezing wind, locking our ruined ship in the floe to mark its new territory. Hunt it down before it pushes any further south.",
+
+  "quest.monsterexpansion.stolen_embers.name": "Stolen Embers",
+  "quest.monsterexpansion.stolen_embers.objective": "Slay an Ignathos",
+  "quest.monsterexpansion.stolen_embers.description": "Winter is setting in early, and one of those fire-birds just raided our communal woodpile again. We need to restock our firewood, but more importantly, the local tanner says Ignathos plumage makes for incredible thermal insulation. Head into the woods, track it down, and bring back enough feathers to line our winter coats.",
+
+  "quest.monsterexpansion.resonance_and_ruin.name": "Resonance and Ruin",
+  "quest.monsterexpansion.resonance_and_ruin.objective": "Slay a Skrythe",
+  "quest.monsterexpansion.resonance_and_ruin.description": "I thought I was tough enough to take on a Skrythe solo. I was wrong. It shattered my iron shield with one of those sonic blasts and nearly took my head off. I plan on getting my revenge eventually, but first, I need an upgrade. Go hunt one down and bring me back a few of its calcified tail-bones. I'm going to forge a new hammer out of the very thing that beat me.",
+
+  "quest.monsterexpansion.gold_and_granite.name": "Gold and Granite",
+  "quest.monsterexpansion.gold_and_granite.objective": "Slay a Rakoth",
+  "quest.monsterexpansion.gold_and_granite.description": "We finally struck a massive raw gold vein in the badlands ravine, but the noise of our pickaxes attracted a Rakoth. It started eating the ore straight out of the cavern walls! Get in there and crack its shell before it devours our entire payout. Feel free to keep any of the heavy carapace you break off of it, I hear it makes fantastic plating.",
+
+  "quest.monsterexpansion.unseen_blade.name": "Unseen Blade",
+  "quest.monsterexpansion.unseen_blade.objective": "Slay a Rhyza",
+  "quest.monsterexpansion.unseen_blade.description": "I've finally figured out how to weave that microscopic mirrored fur into a stealth cloak, but my workshop is completely out of materials. I need you to head into the Outer Islands and track down a Rhyza. They are going to be incredibly evasive. You'll have to keep a sharp eye out for their shimmering silhouettes and strike before they flashbang you and vanish.",
+
+  "quest.monsterexpansion.forged_in_ice.name": "Forged in Ice",
+  "quest.monsterexpansion.forged_in_ice.objective": "Slay a Leivekilth",
+  "quest.monsterexpansion.forged_in_ice.description": "I'm trying to design a new type of cooling forge, and I need intact Leivekilth materials to make it work. I know hunting a Leivekilth is a massive risk, but if you can isolate one and bring me its parts, I'll forge you a weapon that'll freeze the sea itself.",
+
+  "quest.monsterexpansion.sunscorched_vandal.name": "Sun-Scorched Vandal",
+  "quest.monsterexpansion.sunscorched_vandal.objective": "Slay a Tempered Ignathos",
+  "quest.monsterexpansion.sunscorched_vandal.description": "We have a massive problem on the dry plains. An Ignathos was sighted in the Savanna. Between the scorching sun and the dry brush, its internal furnace has completely overheated. It is permanently ignited, hyper-aggressive, and turning the grass to ash with every step. If we don't put this bird down immediately, the entire biome is going to go up in smoke.",
+
+  "quest.monsterexpansion.thermal_shock.name": "Thermal Shock",
+  "quest.monsterexpansion.thermal_shock.objective": "Slay a Leivekilth and Tempered Ignathos",
+  "quest.monsterexpansion.thermal_shock.description": "An Ignathos has wandered far outside its natural habitat, tracking deep into the frozen shores. That kind of reckless, erratic behavior leads us to believe it is a Tempered specimen. There is a Leivekilth territory dangerously close to a nearby coastal settlement. If the Ignathos agitates the leviathan, the resulting rampage will cause great harm to the village. We cannot take any chances. Head to the coast and take them both out before the situation escalates.",
+
+  "quest.monsterexpansion.a_bantam_boulder.name": "A Bantam Boulder",
+  "quest.monsterexpansion.a_bantam_boulder.objective": "Slay a Rakoth",
+  "quest.monsterexpansion.a_bantam_boulder.description": "I was clearing out a new tunnel in the badlands and found this round, heavy rock blocking the tracks. It was about the size of a minecart, so I gave it a good whack with my pickaxe to break it up. Big mistake. The 'rock' uncurled, roared, and headbutted my actual minecart off the rails! It's a Rakoth, but it's only half the size of the massive ones we usually see on the surface. Don't let the compact size fool you, it still hits like a runaway train. Go clear it out of our shaft so we can get back to work!"
+}

@@ -1,0 +1,442 @@
+{
+  "key.inventoryhud.category": {
+    "en": "Inventory HUD+",
+    "zh": "物品栏HUD+",
+    "vi": "Hàng tồn kho HUD+"
+  },
+  "key.inventoryhud.toggle": {
+    "en": "Toggle InventoryHUD on/off",
+    "zh": "开关物品栏HUD",
+    "vi": "Chuyển đổi HUD hàng tồn kho"
+  },
+  "key.inventoryhud.openconfig": {
+    "en": "Open config",
+    "zh": "打开配置",
+    "vi": "Mở cấu hình"
+  },
+  "config.inventoryhud.category.armorhud": {
+    "en": "ArmorStatus HUD",
+    "zh": "盔甲状态HUD",
+    "vi": "Trạng thái áo giáp HUD"
+  },
+  "config.inventoryhud.category.inventoryhud": {
+    "en": "Inventory HUD",
+    "zh": "物品栏HUD",
+    "vi": "HUD hàng tồn kho"
+  },
+  "config.inventoryhud.category.potionshud": {
+    "en": "Potions HUD",
+    "zh": "药水效果HUD",
+    "vi": "Hiệu ứng thuốc HUD"
+  },
+  "gui.config.inventoryhud.title": {
+    "en": "Inventory HUD+ Settings",
+    "zh": "物品栏HUD+设置",
+    "vi": "Cài đặt HUD hàng tồn kho +"
+  },
+  "inventoryhud.config.gui.invalpha": {
+    "en": "Alpha:",
+    "zh": "透明度：",
+    "vi": "minh bạch:"
+  },
+  "inventoryhud.config.gui.invalpha.tt": {
+    "en": "Inventory HUD background transparency from 0 to 100",
+    "zh": "物品栏HUD背景透明度。设置区间：0~100",
+    "vi": "Tính minh bạch của nền HUD trong kho. Khoảng thời gian cài đặt: 0~100"
+  },
+  "inventoryhud.config.gui.invtoggle": {
+    "en": "Inventory HUD:",
+    "zh": "物品栏HUD：",
+    "vi": "HUD hàng tồn kho:"
+  },
+  "inventoryhud.config.gui.invtoggle.tt": {
+    "en": "Toggle on/off Inventory HUD",
+    "zh": "开关物品栏HUD",
+    "vi": "Chuyển đổi HUD hàng tồn kho"
+  },
+  "inventoryhud.config.gui.invvert": {
+    "en": "Vertical mode:",
+    "zh": "纵向模式：",
+    "vi": "Chế độ chân dung:"
+  },
+  "inventoryhud.config.gui.invvert.tt.1": {
+    "en": "true - Vertical mode",
+    "zh": "true - 纵向模式",
+    "vi": "đúng - chế độ chân dung"
+  },
+  "inventoryhud.config.gui.invvert.tt.2": {
+    "en": "false - Horizontal mode",
+    "zh": "false - 横向模式",
+    "vi": "sai - chế độ ngang"
+  },
+  "inventoryhud.config.gui.invmini": {
+    "en": "Mini mode:",
+    "zh": "迷你模式：",
+    "vi": "Chế độ nhỏ:"
+  },
+  "inventoryhud.config.gui.invmini.tt": {
+    "en": "Toggle on/off Inventory HUD mini mode",
+    "zh": "开关物品栏HUD迷你模式",
+    "vi": "Chuyển đổi chế độ mini HUD trong kho"
+  },
+  "inventoryhud.config.gui.inv.tt": {
+    "en": "Inventory HUD options",
+    "zh": "物品栏HUD设置",
+    "vi": "Cài đặt HUD khoảng không quảng cáo"
+  },
+  "inventoryhud.config.gui.arm.tt": {
+    "en": "Armor HUD options",
+    "zh": "盔甲HUD设置",
+    "vi": "Cài đặt HUD giáp"
+  },
+  "inventoryhud.config.gui.pot.tt": {
+    "en": "Potion HUD options",
+    "zh": "药水效果HUD设置",
+    "vi": "Cài đặt HUD hiệu ứng thuốc"
+  },
+  "inventoryhud.config.gui.pos.tt": {
+    "en": "HUDs positions",
+    "zh": "HUD位置",
+    "vi": "vị trí HUD"
+  },
+  "inventoryhud.config.gui.armtoggle": {
+    "en": "Armor HUD:",
+    "zh": "盔甲HUD：",
+    "vi": "Giáp HUD:"
+  },
+  "inventoryhud.config.gui.armtoggle.tt": {
+    "en": "Toggle on/off Armor HUD",
+    "zh": "开关盔甲HUD",
+    "vi": "Chuyển áo giáp HUD"
+  },
+  "inventoryhud.config.gui.armtype": {
+    "en": "Show:",
+    "zh": "显示：",
+    "vi": "trình diễn:"
+  },
+  "inventoryhud.config.gui.armtype.tt": {
+    "en": "Toggle on/off items in Armor HUD",
+    "zh": "开关盔甲HUD物品显示",
+    "vi": "Chuyển đổi hiển thị vật phẩm HUD áo giáp"
+  },
+  "inventoryhud.config.gui.armview": {
+    "en": "Durability type:",
+    "zh": "耐久显示格式：",
+    "vi": "Định dạng hiển thị bền:"
+  },
+  "inventoryhud.config.gui.armview.tt": {
+    "en": "Show durability in:",
+    "zh": "以该格式显示耐久：",
+    "vi": "Hiển thị độ bền ở định dạng này:"
+  },
+  "inventoryhud.config.gui.armview.tt.1": {
+    "en": "PERCENTAGE - durability in percentage form 0 to 100.",
+    "zh": "PERCENTAGE - 从0到100的耐久百分比。",
+    "vi": "PERCENTAGE - Phần trăm độ bền từ 0 đến 100."
+  },
+  "inventoryhud.config.gui.armview.tt.2": {
+    "en": "DAMAGE - How much damage was done to the item.",
+    "zh": "DAMAGE - 物品的耐久损耗值。",
+    "vi": "THIỆT HẠI - Giá trị tổn thất độ bền của vật phẩm."
+  },
+  "inventoryhud.config.gui.armview.tt.3": {
+    "en": "DAMAGE_LEFT - How much damage item can get.",
+    "zh": "DAMAGE_LEFT - 物品的剩余耐久度。",
+    "vi": "DAMAGE_LEFT - Độ bền còn lại của vật phẩm."
+  },
+  "inventoryhud.config.gui.armview.tt.4": {
+    "en": "OFF - Turn off numbers.",
+    "zh": "OFF - 关闭数值显示。",
+    "vi": "TẮT - Tắt hiển thị số."
+  },
+  "inventoryhud.config.gui.armbars": {
+    "en": "Bars:",
+    "zh": "耐久条：",
+    "vi": "Thanh độ bền:"
+  },
+  "inventoryhud.config.gui.armbars.tt": {
+    "en": "Toggle on/off overlay durability bars",
+    "zh": "开关耐久条悬浮显示",
+    "vi": "Chuyển đổi thanh hiển thị độ bền nổi"
+  },
+  "inventoryhud.config.gui.armhide": {
+    "en": "Hide above:",
+    "zh": "大于时隐藏：",
+    "vi": "Ẩn khi lớn hơn:"
+  },
+  "inventoryhud.config.gui.armhide.tt": {
+    "en": "Hide item if durability higher than this value in percentage from 0 to 100",
+    "zh": "在耐久度大于设定值时隐藏物品。设置区间：0~100",
+    "vi": "Ẩn các vật phẩm khi độ bền của chúng lớn hơn giá trị đã đặt. Khoảng thời gian cài đặt: 0~100"
+  },
+  "inventoryhud.config.gui.armmove": {
+    "en": "Move all:",
+    "zh": "移动所有：",
+    "vi": "Di chuyển tất cả:"
+  },
+  "inventoryhud.config.gui.armmove.tt.1": {
+    "en": "true - change position for all items at once",
+    "zh": "true - 一次性移动所有物品的位置",
+    "vi": "đúng - di chuyển vị trí của tất cả các mục cùng một lúc"
+  },
+  "inventoryhud.config.gui.armmove.tt.2": {
+    "en": "false - change position for each item",
+    "zh": "false - 分物品单独移动位置",
+    "vi": "sai - di chuyển các mục riêng lẻ"
+  },
+  "inventoryhud.config.gui.armempty": {
+    "en": "Show empty:",
+    "zh": "显示空槽位：",
+    "vi": "Hiển thị các vị trí trống:"
+  },
+  "inventoryhud.config.gui.armempty.tt": {
+    "en": "Show/hide empty slot icons.",
+    "zh": "显示/隐藏空槽位图标。",
+    "vi": "Hiển thị/ẩn các biểu tượng vị trí trống."
+  },
+  "inventoryhud.config.gui.pos.inv": {
+    "en": "Inventory",
+    "zh": "物品栏",
+    "vi": "Hàng tồn kho"
+  },
+  "inventoryhud.config.gui.pos.pot": {
+    "en": "Potions",
+    "zh": "药水效果",
+    "vi": "Hiệu ứng thuốc"
+  },
+  "inventoryhud.config.gui.pos.arm": {
+    "en": "Armor",
+    "zh": "盔甲",
+    "vi": "áo giáp"
+  },
+  "inventoryhud.config.gui.pottoggle": {
+    "en": "Potion HUD",
+    "zh": "药水效果HUD",
+    "vi": "Hiệu ứng thuốc HUD"
+  },
+  "inventoryhud.config.gui.pottoggle.tt": {
+    "en": "Toggle on/off Potion HUD:",
+    "zh": "开关药水效果HUD",
+    "vi": "Bật và tắt hiệu ứng thuốc HUD"
+  },
+  "inventoryhud.config.gui.potalpha": {
+    "en": "Alpha:",
+    "zh": "透明度：",
+    "vi": "minh bạch:"
+  },
+  "inventoryhud.config.gui.potalpha.tt": {
+    "en": "Potion HUD background transparency from 0 to 100",
+    "zh": "药水效果HUD背景透明度。设置区间：0~100",
+    "vi": "Hiệu ứng thuốc trong suốt nền HUD. Khoảng thời gian cài đặt: 0~100"
+  },
+  "inventoryhud.config.gui.potmini": {
+    "en": "Mini mode:",
+    "zh": "迷你模式：",
+    "vi": "Chế độ nhỏ:"
+  },
+  "inventoryhud.config.gui.potmini.tt": {
+    "en": "Toggle on/off Potion HUD mini mode",
+    "zh": "开关药水效果HUD迷你模式",
+    "vi": "Bật và tắt chế độ mini HUD của hiệu ứng thuốc"
+  },
+  "inventoryhud.config.gui.potgap": {
+    "en": "Gap:",
+    "zh": "间隔：",
+    "vi": "khoảng:"
+  },
+  "inventoryhud.config.gui.potgap.tt": {
+    "en": "Gap between effect icons from -5 to 5",
+    "zh": "药水效果图标之间的间隔距离。设置区间：-5~5",
+    "vi": "Khoảng cách giữa các biểu tượng hiệu ứng thuốc. Phạm vi cài đặt: -5~5"
+  },
+  "inventoryhud.config.gui.invanimated": {
+    "en": "Animated:",
+    "zh": "动画：",
+    "vi": "Hoạt hình:"
+  },
+  "inventoryhud.config.gui.invanimated.tt": {
+    "en": "Toggle on/off animation for recently picked up items.",
+    "zh": "开关最近拾取的物品的动画。",
+    "vi": "Chuyển đổi hình ảnh động của các vật phẩm được nhặt gần đây."
+  },
+  "inventoryhud.config.gui.invhidebg": {
+    "en": "Hide Background:",
+    "zh": "隐藏背景：",
+    "vi": "Ẩn nền:"
+  },
+  "inventoryhud.config.gui.invhidebg.tt": {
+    "en": "Hide background if inventory is empty.",
+    "zh": "如果物品栏为空，则隐藏背景。",
+    "vi": "Nếu kho trống, nền sẽ bị ẩn."
+  },
+  "inventoryhud.config.gui.armcount": {
+    "en": "Item count:",
+    "zh": "物品数量：",
+    "vi": "Số lượng mặt hàng:"
+  },
+  "inventoryhud.config.gui.armcount.tt": {
+    "en": "Show overall count of items in main/off hand",
+    "zh": "显示主/副手物品的总数",
+    "vi": "Hiển thị tổng số hạng mục chính/phụ"
+  },
+  "inventoryhud.config.gui.armscale": {
+    "en": "Scale:",
+    "zh": "比例：",
+    "vi": "Tỷ lệ:"
+  },
+  "inventoryhud.config.gui.armscale.tt": {
+    "en": "Armor HUD scale",
+    "zh": "盔甲HUD显示比例",
+    "vi": "Tỷ lệ hiển thị Armor HUD"
+  },
+  "inventoryhud.config.gui.pothor": {
+    "en": "Horizontal mode:",
+    "zh": "横向模式：",
+    "vi": "Chế độ phong cảnh:"
+  },
+  "inventoryhud.config.gui.pothor.tt": {
+    "en": "Toggle on/off horizontal mode",
+    "zh": "开关横向模式",
+    "vi": "Chuyển chế độ ngang"
+  },
+  "inventoryhud.config.gui.bardur": {
+    "en": "Bar duration:",
+    "zh": "进度条时间长度：",
+    "vi": "Độ dài thời gian của thanh tiến trình:"
+  },
+  "inventoryhud.config.gui.bardur.tt": {
+    "en": "Duration in seconds for full bar (setting for mini-mode)",
+    "zh": "整个进度条的时间长度，以秒为单位（迷你模式专属）",
+    "vi": "Độ dài của toàn bộ thanh tiến trình, tính bằng giây (dành riêng cho chế độ mini)"
+  },
+  "key.inventoryhud.toggleall": {
+    "en": "Toggle all HUDs on/off",
+    "zh": "开关所有HUD",
+    "vi": "Bật và tắt tất cả HUD"
+  },
+  "key.inventoryhud.togglepot": {
+    "en": "Toggle PotionHUD on/off",
+    "zh": "开关药水效果HUD",
+    "vi": "Bật và tắt hiệu ứng thuốc HUD"
+  },
+  "key.inventoryhud.togglearm": {
+    "en": "Toggle ArmorHUD on/off",
+    "zh": "开关盔甲HUD",
+    "vi": "Chuyển áo giáp HUD"
+  },
+  "inventoryhud.config.gui.update": {
+    "en": "New version is available, ",
+    "zh": "有新版本可用，",
+    "vi": "Đã có phiên bản mới,"
+  },
+  "inventoryhud.config.gui.updateclick": {
+    "en": "Click to get",
+    "zh": "点击获取",
+    "vi": "Bấm để nhận"
+  },
+  "inventoryhud.config.gui.keepnotify": {
+    "en": "Notify more than once:",
+    "zh": "多次通知：",
+    "vi": "Nhiều thông báo:"
+  },
+  "inventoryhud.config.gui.keepnotify.tt": {
+    "en": "If false - you will receive notification about new version only once per version.",
+    "zh": "如果设为false - 每个新版本只会向你发送一次通知。",
+    "vi": "Nếu được đặt thành sai - bạn sẽ chỉ được thông báo một lần cho mỗi phiên bản mới."
+  },
+  "inventoryhud.config.gui.hiddeneffects": {
+    "en": "Show hidden:",
+    "zh": "显示已隐藏：",
+    "vi": "Hiển thị ẩn:"
+  },
+  "inventoryhud.config.gui.hiddeneffects.tt": {
+    "en": "Show icons for hidden effects",
+    "zh": "显示已隐藏效果的图标",
+    "vi": "Hiển thị biểu tượng cho các hiệu ứng ẩn"
+  },
+  "inventoryhud.config.gui.bl.title": {
+    "en": "Blacklist Editor",
+    "zh": "黑名单编辑器",
+    "vi": "Trình chỉnh sửa danh sách đen"
+  },
+  "inventoryhud.config.gui.blacklist": {
+    "en": "Blacklist:",
+    "zh": "黑名单：",
+    "vi": "danh sách đen:"
+  },
+  "inventoryhud.config.gui.blacklist.tt": {
+    "en": "List of effects with disabled icons",
+    "zh": "关闭了图标的效果列表",
+    "vi": "Danh sách hiệu ứng biểu tượng đã đóng"
+  },
+  "inventoryhud.config.gui.blacklistbtn": {
+    "en": "Edit",
+    "zh": "编辑",
+    "vi": "biên tập"
+  },
+  "inventoryhud.config.gui.bl.add": {
+    "en": "Add Effect",
+    "zh": "添加效果",
+    "vi": "Thêm hiệu ứng"
+  },
+  "inventoryhud.config.gui.bl.delete": {
+    "en": "Delete",
+    "zh": "删除",
+    "vi": "xóa bỏ"
+  },
+  "inventoryhud.config.gui.bl.save": {
+    "en": "Save",
+    "zh": "保存",
+    "vi": "cứu"
+  },
+  "modmenu.descriptionTranslation.inventoryhud": {
+    "en": "Displays inventory on screen while playing.",
+    "zh": "玩游戏时在屏幕上显示库存。",
+    "vi": null
+  },
+  "inventoryhud.config.gui.withdebug": {
+    "en": "With debug:",
+    "zh": "带调试：",
+    "vi": null
+  },
+  "inventoryhud.config.gui.invdebug.tt": {
+    "en": "Show Inventory HUD when debug gui is ON",
+    "zh": "调试屏幕打开时显示库存 HUD",
+    "vi": null
+  },
+  "inventoryhud.config.gui.potdebug.tt": {
+    "en": "Show Potion HUD when debug gui is ON",
+    "zh": "调试屏幕打开时显示 Potion HUD",
+    "vi": null
+  },
+  "inventoryhud.config.gui.armdebug.tt": {
+    "en": "Show Armor HUD when debug gui is ON",
+    "zh": "调试屏幕打开时显示 Armor HUD",
+    "vi": null
+  },
+  "inventoryhud.config.gui.arrowswithoutweapon": {
+    "en": "Arrows without weapon:",
+    "zh": "没有武器的箭头：",
+    "vi": null
+  },
+  "inventoryhud.config.gui.arrowswithoutweapon.tt": {
+    "en": "Show arrows count even when no weapon in your hands",
+    "zh": "即使手中没有武器也显示箭头计数",
+    "vi": null
+  },
+  "inventoryhud.config.gui.potionlevels": {
+    "en": "Levels:",
+    "zh": "级别：",
+    "vi": null
+  },
+  "inventoryhud.config.gui.potionlevels.tt.1": {
+    "en": "If 'true' Potion HUD will show all levels,",
+    "zh": "如果 'true' Potion HUD 将显示所有级别，",
+    "vi": null
+  },
+  "inventoryhud.config.gui.potionlevels.tt.2": {
+    "en": "instead of infinity symbol for effects with level higher than nine",
+    "zh": "对于等级高于九的效果，而不是无穷大符号",
+    "vi": null
+  }
+}

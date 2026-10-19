@@ -1,0 +1,63 @@
+{
+	icon: "modifiers:modifier_book"
+	id: "67BBA1EA7E5FBAEA"
+	loot_size: 1
+	order_index: 4
+	rewards: [
+		{
+			item: {
+				Count: 1
+				id: "modifiers:modifier_book"
+				tag: {
+					bookModifier: "modifiers:deadly"
+				}
+			}
+			title: "Chí Mạng +20% Sát Thương"
+			weight: 2.0f
+		}
+		{
+			item: {
+				Count: 1
+				id: "modifiers:modifier_book"
+				tag: {
+					bookModifier: "modifiers:swift"
+				}
+			}
+			title: "Nhanh Thoăn Thoắt +10% Tốc Độ Đánh"
+			weight: 4.0f
+		}
+		{
+			item: {
+				Count: 1
+				id: "modifiers:modifier_book"
+				tag: {
+					bookModifier: "modifiers:agile"
+				}
+			}
+			title: "Nhanh Nhẹn +5% Tốc Độ Đánh, +20% Tốc Độ Chạy"
+			weight: 4.0f
+		}
+		{
+			item: {
+				Count: 1
+				id: "modifiers:modifier_book"
+				tag: {
+					bookModifier: "modifiers:legendary"
+				}
+			}
+			title: "Huyền Thoại +10% Sát Thương, +5% Tốc Độ Đánh, +10% Tốc Độ Chạy"
+		}
+		{
+			item: {
+				Count: 1
+				id: "modifiers:modifier_book"
+				tag: {
+					bookModifier: "modifiers:vicious"
+				}
+			}
+			title: "Tà Ác +15% Sát Thương"
+			weight: 4.0f
+		}
+	]
+	title: "Phẩm Chất Vũ Khí Hiếm"
+}

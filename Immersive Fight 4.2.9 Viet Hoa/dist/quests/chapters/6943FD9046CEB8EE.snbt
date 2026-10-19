@@ -1,0 +1,1534 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: "square"
+	disable_toast: true
+	filename: "6943FD9046CEB8EE"
+	group: "12485BC0976BA9E4"
+	id: "6943FD9046CEB8EE"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			can_repeat: true
+			description: [
+				"1. Thêm khe bùa"
+				"2. Tăng sát thương cho thú cưng"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "relics:hunter_belt"
+				tag: {
+					abilities: {
+						slots: {
+							points: 0
+							stats: {
+								charm: 1.0d
+							}
+						}
+						training: {
+							points: 0
+							stats: {
+								damage: 1.7288d
+							}
+						}
+					}
+				}
+			}
+			id: "213B122315EAA536"
+			rewards: [{
+				id: "55E0736D9588D13B"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "relics:hunter_belt"
+					tag: {
+						abilities: {
+							slots: {
+								points: 0
+								stats: {
+									charm: 1.0d
+								}
+							}
+							training: {
+								points: 0
+								stats: {
+									damage: 1.7288d
+								}
+							}
+						}
+					}
+				}
+				team_reward: false
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 3L
+				disable_toast: true
+				id: "2A60357CE4D9E18A"
+				item: "enchanlownew:paper_ring_high"
+				type: "item"
+			}]
+			title: "Thắt lưng thợ săn"
+			x: -7.0d
+			y: -3.0d
+		}
+		{
+			can_repeat: true
+			description: ["1. Đạo cụ tấn công"]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "relics:shadow_glaive"
+				tag: {
+					abilities: {
+						glaive: {
+							points: 0
+							stats: {
+								bounces: 3.93713d
+								damage: 4.3901d
+								radius: 4.15529d
+								recharge: 11.26987d
+							}
+						}
+						saw: {
+							points: 0
+							stats: {
+								damage: 1.17622d
+								speed: 19.07588d
+							}
+						}
+					}
+					charges: 8
+				}
+			}
+			id: "5CC2255BE6683BA0"
+			rewards: [{
+				id: "43C5C7B14F0355CB"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "relics:shadow_glaive"
+					tag: {
+						abilities: {
+							glaive: {
+								points: 0
+								stats: {
+									bounces: 3.93713d
+									damage: 4.3901d
+									radius: 4.15529d
+									recharge: 11.26987d
+								}
+							}
+							saw: {
+								points: 0
+								stats: {
+									damage: 1.17622d
+									speed: 19.07588d
+								}
+							}
+						}
+						charges: 8
+					}
+				}
+				team_reward: false
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 3L
+				disable_toast: true
+				id: "0571F9D78DDED347"
+				item: "enchanlownew:paper_ring_high"
+				type: "item"
+			}]
+			title: "Lưỡi kiếm bóng tối"
+			x: -6.0d
+			y: -3.0d
+		}
+		{
+			can_repeat: true
+			description: [
+				"1. Thêm khe bùa"
+				"2. Tăng cường khả năng tác chiến dưới nước"
+				"3. Tăng cường sức mạnh của cây đinh ba"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "relics:drowned_belt"
+				tag: {
+					abilities: {
+						anchor: {
+							points: 0
+							stats: {
+								sinking: 3.39215d
+								slowness: 0.31582d
+							}
+						}
+						pressure: {
+							points: 0
+							stats: {
+								damage: 1.98072d
+							}
+						}
+						riptide: {
+							points: 0
+							stats: {
+								cooldown: 7.24894d
+							}
+						}
+						slots: {
+							points: 0
+							stats: {
+								charm: 0.33041d
+							}
+						}
+					}
+				}
+			}
+			id: "7F20C6D1FA36AE5C"
+			rewards: [{
+				id: "434C95CF19912CBC"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "relics:drowned_belt"
+					tag: {
+						abilities: {
+							anchor: {
+								points: 0
+								stats: {
+									sinking: 3.39215d
+									slowness: 0.31582d
+								}
+							}
+							pressure: {
+								points: 0
+								stats: {
+									damage: 1.98072d
+								}
+							}
+							riptide: {
+								points: 0
+								stats: {
+									cooldown: 7.24894d
+								}
+							}
+							slots: {
+								points: 0
+								stats: {
+									charm: 0.33041d
+								}
+							}
+						}
+					}
+				}
+				team_reward: false
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 3L
+				disable_toast: true
+				id: "7009D6A6C45E15BD"
+				item: "enchanlownew:paper_ring_high"
+				type: "item"
+			}]
+			title: "Vành đai của người chết đuối"
+			x: -5.0d
+			y: -3.0d
+		}
+		{
+			can_repeat: true
+			description: [
+				"1. Tăng tốc độ di chuyển ở những nơi tối"
+				"2. Tăng sát thương tấn công khi ẩn nấp"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "relics:midnight_robe"
+				tag: {
+					abilities: {
+						backstab: {
+							points: 0
+							stats: {
+								damage: 1.62918d
+								distance: 15.71812d
+							}
+						}
+						vanish: {
+							points: 0
+							stats: {
+								light: 1.60652d
+								speed: 0.23627d
+							}
+							temp: {
+								ticking: 1b
+							}
+						}
+					}
+				}
+			}
+			id: "260D9540D7EABC85"
+			rewards: [{
+				id: "2A21FDDFB66218AF"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "relics:midnight_robe"
+					tag: {
+						abilities: {
+							backstab: {
+								points: 0
+								stats: {
+									damage: 1.62918d
+									distance: 15.71812d
+								}
+							}
+							vanish: {
+								points: 0
+								stats: {
+									light: 1.60652d
+									speed: 0.23627d
+								}
+								temp: {
+									ticking: 1b
+								}
+							}
+						}
+					}
+				}
+				team_reward: false
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 3L
+				disable_toast: true
+				id: "02689F74B7621CD0"
+				item: "enchanlownew:paper_ring_high"
+				type: "item"
+			}]
+			title: "áo choàng nửa đêm"
+			x: -4.0d
+			y: -3.0d
+		}
+		{
+			can_repeat: true
+			description: [
+				"1. Sự đình trệ dịch chuyển theo chiều dọc"
+				"2. Tốc độ vẽ cung tăng lên"
+				"3.Mưa tên"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "relics:arrow_quiver"
+				tag: {
+					abilities: {
+						agility: {
+							points: 0
+							stats: {
+								modifier: 1.0d
+							}
+						}
+						leap: {
+							points: 0
+							stats: {
+								cooldown: 12.72269d
+								duration: 5.69598d
+								multiplier: 0.27533d
+							}
+						}
+						rain: {
+							points: 0
+							stats: {
+								delay: 0.79885d
+								duration: 13.04144d
+								radius: 4.40977d
+							}
+						}
+						receptacle: {
+							points: 0
+							stats: {
+								slots: 4.86139d
+							}
+						}
+					}
+				}
+			}
+			id: "55411B74D71B3500"
+			rewards: [{
+				id: "17BC549E73F741D3"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "relics:arrow_quiver"
+					tag: {
+						abilities: {
+							agility: {
+								points: 0
+								stats: {
+									modifier: 1.0d
+								}
+							}
+							leap: {
+								points: 0
+								stats: {
+									cooldown: 12.72269d
+									duration: 5.69598d
+									multiplier: 0.27533d
+								}
+							}
+							rain: {
+								points: 0
+								stats: {
+									delay: 0.79885d
+									duration: 13.04144d
+									radius: 4.40977d
+								}
+							}
+							receptacle: {
+								points: 0
+								stats: {
+									slots: 4.86139d
+								}
+							}
+						}
+					}
+				}
+				team_reward: false
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 2L
+				disable_toast: true
+				id: "6D230FF39963E54E"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "enchanlownew:paper_ring_high"
+				}
+				type: "item"
+			}]
+			title: "run"
+			x: -3.0d
+			y: -3.0d
+		}
+		{
+			can_repeat: true
+			description: [
+				"1. Tăng tốc độ bơi"
+				"2. Tốc độ di chuyển tăng vào những ngày mưa"
+				"3. Hít thở dưới nước"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "relics:amphibian_boot"
+				tag: {
+					abilities: {
+						gills: {
+							points: 0
+							stats: {
+								chance: 0.09225d
+							}
+						}
+						slipping: {
+							points: 0
+							stats: {
+								duration: 15.84745d
+								speed: 0.00847d
+							}
+						}
+						swimming: {
+							points: 0
+							stats: {
+								duration: 23.44687d
+								speed: 0.0072d
+							}
+						}
+					}
+				}
+			}
+			id: "7A6AF673C4F8BCAD"
+			rewards: [{
+				id: "0228E932A2433152"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "relics:amphibian_boot"
+					tag: {
+						abilities: {
+							gills: {
+								points: 0
+								stats: {
+									chance: 0.09225d
+								}
+							}
+							slipping: {
+								points: 0
+								stats: {
+									duration: 15.84745d
+									speed: 0.00847d
+								}
+							}
+							swimming: {
+								points: 0
+								stats: {
+									duration: 23.44687d
+									speed: 0.0072d
+								}
+							}
+						}
+					}
+				}
+				team_reward: false
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 3L
+				disable_toast: true
+				id: "3AE7D41582BBD4DD"
+				item: "enchanlownew:paper_ring_high"
+				type: "item"
+			}]
+			title: "ủng lội nước"
+			x: -2.0d
+			y: -3.0d
+		}
+		{
+			can_repeat: true
+			description: [
+				"1. Khi đeo elytra, hãy sử dụng khả năng tăng cường elytra."
+				"Yêu cầu nhiên liệu (than, v.v.) để sạc"
+				""
+				"Bị động: Tăng tốc độ khả năng đẩy của elytra"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "relics:elytra_booster"
+				tag: {
+					abilities: {
+						boost: {
+							points: 0
+							stats: {
+								capacity: 65.34879d
+								speed: 1.37821d
+							}
+						}
+					}
+				}
+			}
+			id: "46CB99F89AF5653C"
+			rewards: [{
+				id: "090855719390B5A9"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "relics:elytra_booster"
+					tag: {
+						abilities: {
+							boost: {
+								points: 0
+								stats: {
+									capacity: 65.34879d
+									speed: 1.37821d
+								}
+							}
+						}
+					}
+				}
+				team_reward: false
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 3L
+				disable_toast: true
+				id: "12BEF0539D248E22"
+				item: "enchanlownew:paper_ring_high"
+				type: "item"
+			}]
+			title: "tăng cường"
+			x: -1.0d
+			y: -3.0d
+		}
+		{
+			can_repeat: true
+			description: ["1.Đi bộ trên mặt nước"]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "relics:aqua_walker"
+				tag: {
+					abilities: {
+						walking: {
+							points: 0
+							stats: {
+								time: 40.81034d
+							}
+						}
+					}
+				}
+			}
+			id: "14BE7C75A639002D"
+			rewards: [{
+				id: "335708278D15AB48"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "relics:aqua_walker"
+					tag: {
+						abilities: {
+							walking: {
+								points: 0
+								stats: {
+									time: 40.81034d
+								}
+							}
+						}
+					}
+				}
+				team_reward: false
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 2L
+				disable_toast: true
+				id: "25FA672525F211FE"
+				item: "enchanlownew:paper_ring_high"
+				type: "item"
+			}]
+			title: "Giày đi biển"
+			x: -2.0d
+			y: -2.0d
+		}
+		{
+			can_repeat: true
+			description: ["1. Bạn có thể đi bộ trên dung nham"]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "relics:magma_walker"
+				tag: {
+					abilities: {
+						pace: {
+							points: 0
+							stats: {
+								time: 37.71158d
+							}
+						}
+					}
+				}
+			}
+			id: "65784B61E04837B2"
+			rewards: [{
+				id: "3E61B7C78506645B"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "relics:magma_walker"
+					tag: {
+						abilities: {
+							pace: {
+								points: 0
+								stats: {
+									time: 37.71158d
+								}
+							}
+						}
+					}
+				}
+				team_reward: false
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 2L
+				disable_toast: true
+				id: "2C82862AD80602D6"
+				item: "enchanlownew:paper_ring_high"
+				type: "item"
+			}]
+			title: "Giày đi bộ dung nham"
+			x: -3.0d
+			y: -2.0d
+		}
+		{
+			can_repeat: true
+			description: ["1. Điều khiển vị trí truyền điệp khúc"]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "relics:chorus_inhibitor"
+				tag: {
+					abilities: {
+						blink: {
+							points: 0
+							stats: {
+								cooldown: 5.39515d
+								distance: 19.75874d
+							}
+						}
+					}
+				}
+			}
+			id: "3D8DD6AE50BAF0E1"
+			rewards: [{
+				id: "2FE91FD8D9DA6FEA"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "relics:chorus_inhibitor"
+					tag: {
+						abilities: {
+							blink: {
+								points: 0
+								stats: {
+									cooldown: 5.39515d
+									distance: 19.75874d
+								}
+							}
+						}
+					}
+				}
+				team_reward: false
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				disable_toast: true
+				id: "3E7509C4A5B41CD2"
+				item: "enchanlownew:paper_ring_high"
+				type: "item"
+			}]
+			title: "bộ giảm điệp khúc"
+			x: -5.0d
+			y: -2.0d
+		}
+		{
+			can_repeat: true
+			description: ["1. Thêm cột bùa"]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "relics:leather_belt"
+				tag: {
+					abilities: {
+						slots: {
+							points: 0
+							stats: {
+								charm: 1.24341d
+							}
+						}
+					}
+				}
+			}
+			id: "2113B47C92C194B7"
+			rewards: [{
+				id: "18E36830FDC029FA"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "relics:leather_belt"
+					tag: {
+						abilities: {
+							slots: {
+								points: 0
+								stats: {
+									charm: 1.24341d
+								}
+							}
+						}
+					}
+				}
+				team_reward: false
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 2L
+				disable_toast: true
+				id: "3240FEA2C6297B6E"
+				item: "enchanlownew:paper_ring_high"
+				type: "item"
+			}]
+			title: "thắt lưng da"
+			x: -6.0d
+			y: -2.0d
+		}
+		{
+			can_repeat: true
+			description: ["1. Bạn có thể đặt vật cưỡi của mình vào ống sáo"]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "relics:horse_flute"
+				tag: {
+					abilities: {
+						heal: {
+							points: 0
+							stats: {
+								amount: 0.02104d
+							}
+						}
+					}
+				}
+			}
+			id: "3E2CD09B7EC04CFF"
+			rewards: [{
+				id: "23F20DD3292DFA96"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "relics:horse_flute"
+					tag: {
+						abilities: {
+							heal: {
+								points: 0
+								stats: {
+									amount: 0.02104d
+								}
+							}
+						}
+					}
+				}
+				team_reward: false
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 2L
+				disable_toast: true
+				id: "02F87C23EBA4EF42"
+				item: "enchanlownew:paper_ring_high"
+				type: "item"
+			}]
+			title: "sáo ngựa"
+			x: -4.0d
+			y: -2.0d
+		}
+		{
+			can_repeat: true
+			description: [
+				"Sử dụng với La bàn khám phá &e &r"
+				""
+				""
+				"Tay trái cầm la bàn của nhà thám hiểm đã tìm thấy mục tiêu."
+				"Giữ gương ma thuật trong tay chính của bạn và nhấp chuột phải để đặt mục tiêu. Nhấn và giữ chuột phải để dịch chuyển."
+				"(Có giới hạn khoảng cách, tăng theo cấp độ)"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "relics:magic_mirror"
+				tag: {
+					abilities: {
+						teleport: {
+							points: 0
+							stats: {
+								cooldown: 166.99528d
+								distance: 1649.21441d
+							}
+						}
+					}
+				}
+			}
+			id: "1DBE6AE8C7C51646"
+			rewards: [{
+				id: "76937F0AB5E738B3"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "relics:magic_mirror"
+					tag: {
+						abilities: {
+							teleport: {
+								points: 0
+								stats: {
+									cooldown: 166.99528d
+									distance: 1649.21441d
+								}
+							}
+						}
+					}
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				disable_toast: true
+				id: "16811D5DFF5EAC97"
+				item: "enchanlownew:paper_ring_high"
+				type: "item"
+			}]
+			title: "gương ma thuật"
+			x: -7.0d
+			y: -2.0d
+		}
+		{
+			can_repeat: true
+			description: [
+				"1. Endermen trung tính"
+				"2. Chuyển giọng với mục tiêu"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "relics:enders_hand"
+				tag: {
+					abilities: {
+						swap: {
+							points: 0
+							stats: {
+								distance: 29.69856d
+							}
+						}
+					}
+				}
+			}
+			id: "230D2DB15E60220B"
+			rewards: [{
+				id: "112F2086C087CD52"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "relics:enders_hand"
+					tag: {
+						abilities: {
+							swap: {
+								points: 0
+								stats: {
+									distance: 29.69856d
+								}
+							}
+						}
+					}
+				}
+				team_reward: false
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				disable_toast: true
+				id: "37DF95747DFB4F75"
+				item: "enchanlownew:paper_ring_high"
+				type: "item"
+			}]
+			title: "Bàn tay của Ender"
+			x: -1.0d
+			y: -2.0d
+		}
+		{
+			can_repeat: true
+			entity_vis_size: 1.0f
+			icon: "ringsofascension:ring_fire_resistance"
+			id: "78BEB7EA935B9FCD"
+			rewards: [{
+				id: "462FE1BDC405773B"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "ringsofascension:ring_fire_resistance"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 3L
+				disable_toast: true
+				id: "3EF885E42F4BE126"
+				item: { Count: 3, id: "enchanlownew:paper_ring_low" }
+				type: "item"
+			}]
+			title: "vòng chống cháy"
+			x: -5.0d
+			y: 0.5d
+		}
+		{
+			can_repeat: true
+			entity_vis_size: 1.0f
+			icon: "ringsofascension:ring_regeneration"
+			id: "17D4891F5AC2DE76"
+			rewards: [{
+				id: "12F4343042F6D7A7"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "ringsofascension:ring_regeneration"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 3L
+				disable_toast: true
+				id: "4AE7A82593805324"
+				item: { Count: 3, id: "enchanlownew:paper_ring_high" }
+				type: "item"
+			}]
+			title: "Vòng tái sinh"
+			x: -2.0d
+			y: -0.5d
+		}
+		{
+			can_repeat: true
+			entity_vis_size: 1.0f
+			icon: "ringsofascension:ring_strength"
+			id: "511C9F7CDF986040"
+			rewards: [{
+				id: "16DDCCBC1B8228C5"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "ringsofascension:ring_strength"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 5L
+				disable_toast: true
+				id: "3739ED1DA7EF6D36"
+				item: { Count: 5, id: "enchanlownew:paper_ring_high" }
+				type: "item"
+			}]
+			title: "vòng điện"
+			x: -3.0d
+			y: -0.5d
+		}
+		{
+			can_repeat: true
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "fight_more:ring_stun"
+			}
+			id: "0FF6FD595B9FE37D"
+			rewards: [{
+				id: "7CFA4737640CC591"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "fight_more:ring_stun"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 5L
+				disable_toast: true
+				id: "52665880809BAF14"
+				item: { Count: 5, id: "enchanlownew:paper_ring_high" }
+				type: "item"
+			}]
+			title: "Vòng miễn nhiễm choáng"
+			x: -4.0d
+			y: -0.5d
+		}
+		{
+			can_repeat: true
+			entity_vis_size: 1.0f
+			icon: "ringsofascension:ring_health"
+			id: "296C5563A0662A78"
+			rewards: [{
+				id: "569146811B2A6978"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "ringsofascension:ring_health"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 5L
+				disable_toast: true
+				id: "184DA69203C55907"
+				item: { Count: 5, id: "enchanlownew:paper_ring_high" }
+				type: "item"
+			}]
+			title: "chiếc nhẫn cuộc sống"
+			x: -5.0d
+			y: -0.5d
+		}
+		{
+			can_repeat: true
+			entity_vis_size: 1.0f
+			icon: "ringsofascension:ring_speed"
+			id: "686FB6DCF7F2D9E2"
+			rewards: [{
+				id: "13D7DBA013AF305A"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "ringsofascension:ring_speed"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 3L
+				disable_toast: true
+				id: "483F1419986BD5E0"
+				item: { Count: 3, id: "enchanlownew:paper_ring_high" }
+				type: "item"
+			}]
+			title: "Vòng gió"
+			x: -1.0d
+			y: -0.5d
+		}
+		{
+			can_repeat: true
+			entity_vis_size: 1.0f
+			icon: "ringsofascension:ring_dolphin"
+			id: "7FFC0D2343A513FC"
+			rewards: [{
+				id: "0926E4DB253D8C16"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "ringsofascension:ring_dolphin"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 3L
+				disable_toast: true
+				id: "12E3759BC9954E6C"
+				item: { Count: 3, id: "enchanlownew:paper_ring_low" }
+				type: "item"
+			}]
+			title: "Nhẫn ủng hộ cá heo"
+			x: -1.0d
+			y: 0.5d
+		}
+		{
+			can_repeat: true
+			entity_vis_size: 1.0f
+			icon: "ringsofascension:ring_water_walking"
+			id: "6250043E2C87A4DB"
+			rewards: [{
+				id: "0BF5F0C8ACCF5905"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "ringsofascension:ring_water_walking"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 3L
+				disable_toast: true
+				id: "11EA286762705FE3"
+				item: { Count: 3, id: "enchanlownew:paper_ring_low" }
+				type: "item"
+			}]
+			title: "vòng đi bộ dưới nước"
+			x: -3.0d
+			y: 0.5d
+		}
+		{
+			can_repeat: true
+			entity_vis_size: 1.0f
+			icon: "ringsofascension:ring_water_breathing"
+			id: "11CA7FB6D4EA2FC1"
+			rewards: [{
+				id: "0C277F78F44FE4D9"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "ringsofascension:ring_water_breathing"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 3L
+				disable_toast: true
+				id: "53E4BB2650B3F71F"
+				item: { Count: 3, id: "enchanlownew:paper_ring_low" }
+				type: "item"
+			}]
+			title: "vòng thở dưới nước"
+			x: -2.0d
+			y: 0.5d
+		}
+		{
+			can_repeat: true
+			entity_vis_size: 1.0f
+			icon: "ringsofascension:ring_night_vision"
+			id: "5EE8FF87FB1006D7"
+			rewards: [{
+				id: "482CD39DAF9B24EB"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "ringsofascension:ring_night_vision"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 3L
+				disable_toast: true
+				id: "2928E267393F2D22"
+				item: { Count: 3, id: "enchanlownew:paper_ring_low" }
+				type: "item"
+			}]
+			title: "vòng nhìn đêm"
+			x: -4.0d
+			y: 0.5d
+		}
+		{
+			description: [
+				"1. Tìm &eNPC - Ngư dân &r thực hiện nhiệm vụ hiếm &b &r để nhận được"
+				"(Có thể tìm kiếm bằng con trỏ phiêu lưu)"
+				"2.&b Thử thách cổng thông tin [Chi nhánh] Phần thưởng &r"
+				"3. Sử dụng phiếu giảm giá trao đổi thông thường để tổng hợp"
+				"4. Rơi túi chiến lợi phẩm"
+				"(Nhiệm vụ làm mới yêu cầu sử dụng thuốc quên &a &r)"
+			]
+			entity_vis_size: 1.0f
+			id: "6C73809946AB5FD7"
+			rewards: [{
+				id: "708DB7BF9452C8E5"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			tasks: [{
+				id: "0A0FA4342BEC266F"
+				item: "enchanlownew:paper_ring_high"
+				type: "item"
+			}]
+			x: -8.5d
+			y: -1.5d
+		}
+		{
+			description: [
+				"1. Tìm &eNPC-Ngư dân &r để thực hiện nhiệm vụ lấy"
+				"(Có thể tìm kiếm bằng con trỏ phiêu lưu)"
+				"2.&b Thử thách cổng thông tin [Chi nhánh] Phần thưởng &r"
+				"3. Rơi túi chiến lợi phẩm"
+				"(Nhiệm vụ làm mới yêu cầu sử dụng thuốc quên &a &r)"
+			]
+			entity_vis_size: 1.0f
+			id: "5C3033F4E975C043"
+			rewards: [{
+				id: "3CC2EC948150DB50"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			tasks: [{
+				id: "4FB7B4BEEE743E26"
+				item: "enchanlownew:paper_ring_low"
+				type: "item"
+			}]
+			x: -8.5d
+			y: -0.5d
+		}
+		{
+			description: [
+				"Hướng dẫn cách sử dụng trang sức xá lợi:"
+				"1. Nhìn vào mục &b [nhấn giữ shift] &r để nghiên cứu các phụ kiện."
+				"Vào giao diện nâng cấp kỹ năng &e&r"
+				"Bạn có thể xem hiệu ứng kỹ năng và nâng cao cấp độ kỹ năng."
+				""
+				"2. Sử dụng kỹ năng chủ động"
+				"Sau khi bạn mở khóa kỹ năng chủ động của phụ kiện,"
+				"Nhấn và giữ &b[Phím X] &r để gọi giao diện kỹ năng."
+				"Bánh xe chuột chọn kỹ năng. Nhấp chuột trái để phát hành."
+				"Sẽ có lời nhắc điều kiện phát hành ở góc trên bên trái"
+			]
+			entity_vis_size: 1.0f
+			id: "33E6EB34E51893E9"
+			shape: "gear"
+			tasks: [{
+				id: "6A7556226A1E1ED7"
+				title: "Sử dụng đồ trang sức di tích"
+				type: "checkmark"
+			}]
+			x: -8.5d
+			y: -2.5d
+		}
+		{
+			can_repeat: true
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "ringsofascension:ring_mining"
+			}
+			id: "50E5059B0B8320A1"
+			rewards: [{
+				id: "19DCC7605F0C9E6A"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "ringsofascension:ring_mining"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 5L
+				disable_toast: true
+				id: "6F863727D0B20C3B"
+				item: { Count: 5, id: "enchanlownew:paper_ring_high" }
+				type: "item"
+			}]
+			title: "Vòng khẩn cấp"
+			x: -6.0d
+			y: -0.5d
+		}
+		{
+			can_repeat: true
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "fight_more:food_ring"
+			}
+			id: "22F13C5836F30BAC"
+			rewards: [{
+				id: "71D2ACD6F7E3B9E9"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "fight_more:food_ring"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 3L
+				disable_toast: true
+				id: "6630AAF495CF5A2A"
+				item: { Count: 3, id: "enchanlownew:paper_ring_high" }
+				type: "item"
+			}]
+			title: "Vòng ăn nhanh"
+			x: -7.0d
+			y: -0.5d
+		}
+		{
+			can_repeat: true
+			entity_vis_size: 1.0f
+			icon: "realmrpg_quests:ring_of_exp"
+			id: "23E9B8518B8D8964"
+			rewards: [{
+				id: "5F5E15CD8D151C02"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "realmrpg_quests:ring_of_exp"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 2L
+				disable_toast: true
+				id: "7FC6FC0F409BABE4"
+				item: { Count: 2, id: "enchanlownew:paper_ring_high" }
+				type: "item"
+			}]
+			title: "Chiếc nhẫn trải nghiệm"
+			x: -7.0d
+			y: 0.5d
+		}
+		{
+			can_repeat: true
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "ringsofascension:ring_slow_resistance"
+			}
+			id: "1DEC3F264A3EB1A2"
+			rewards: [{
+				id: "4BEE09071B8C71A6"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "ringsofascension:ring_slow_resistance"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 3L
+				id: "10D62F351E24BA5C"
+				item: {
+					Count: 3
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "enchanlownew:paper_ring_low"
+				}
+				type: "item"
+			}]
+			title: "Vòng chống chậm"
+			x: -6.0d
+			y: 0.5d
+		}
+	]
+	title: "Trao đổi trang sức"
+}

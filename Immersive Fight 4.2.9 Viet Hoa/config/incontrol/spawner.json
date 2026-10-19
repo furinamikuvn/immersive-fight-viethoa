@@ -1,0 +1,189 @@
+[
+  {
+    "mob": ["cataclysm:ignited_berserker"],
+    "persecond": 1,
+    "attempts": 1,
+    "amount": {
+      "minimum": 1,
+      "maximum": 2
+    },
+    "conditions": {
+      "dimension": "minecraft:the_nether",
+      "mindist": 16,
+      "maxdist": 100,
+      "minheight": 15,
+      "maxheight": 200,
+      "maxthis": 15
+    }
+  },
+  {
+    "mob": ["eeeabsmobs:immortal_executioner"],
+    "persecond": 0.1,
+    "attempts": 2,
+    "amount": {
+      "minimum": 1,
+      "maximum": 1
+    },
+    "conditions": {
+      "dimension": "minecraft:the_nether",
+      "mindist": 24,
+      "maxdist": 100,
+      "minheight": 15,
+      "maxheight": 200,
+      "maxthis": 5
+    }
+  },
+  {
+    "mob": ["species:cruncher"],
+    "persecond": 0.1,
+    "attempts": 1,
+    "amount": {
+      "minimum": 1,
+      "maximum": 1
+    },
+    "conditions": {
+      "dimension": "minecraft:the_nether",
+      "mindist": 16,
+      "maxdist": 100,
+      "minheight": 15,
+      "maxheight": 200,
+      "maxthis": 1
+    }
+  },
+  {
+    "mob": ["born_in_chaos_v1:lifestealer"],
+    "persecond": 0.1,
+    "attempts": 1,
+    "amount": {
+      "minimum": 1,
+      "maximum": 1
+    },
+    "conditions": {
+      "dimension": "minecraft:the_nether",
+      "mindist": 16,
+      "maxdist": 100,
+      "minheight": 55,
+      "maxheight": 150,
+      "maxthis": 2
+    }
+  },
+  {
+    "mob": ["illageandspillage:eyesore","born_in_chaos_v1:spiritof_chaos"],
+    "persecond": 1,
+    "attempts": 1,
+    "amount": {
+      "minimum": 1,
+      "maximum": 2
+    },
+    "conditions": {
+      "dimension": "minecraft:the_nether",
+      "mindist": 24,
+      "maxdist": 80,
+      "minheight": 15,
+      "maxheight": 200,
+      "maxthis": 8
+    }
+  },
+  {
+    "mob": ["minecraft:wither_skeleton"],
+    "persecond": 1,
+    "attempts": 3,
+    "amount": {
+      "minimum": 1,
+      "maximum": 2
+    },
+    "conditions": {
+      "dimension": "minecraft:the_nether",
+      "mindist": 24,
+      "maxdist": 80,
+      "minheight": 35,
+      "maxheight": 200,
+      "maxthis": 10
+    }
+  },
+  {
+    "mob": ["nethers_exorcism_reborn:strampler"],
+    "persecond": 1,
+    "attempts": 1,
+    "amount": {
+      "minimum": 1,
+      "maximum": 1
+    },
+    "conditions": {
+      "dimension": "minecraft:the_nether",
+      "mindist": 34,
+      "maxdist": 100,
+      "minheight": 15,
+      "maxheight": 200,
+      "maxthis": 5
+    }
+  },
+  {
+    "mob": ["arsenal:soul_knight"],
+    "persecond": 1,
+    "attempts": 1,
+    "amount": {
+      "minimum": 1,
+      "maximum": 1
+    },
+    "conditions": {
+      "dimension": "minecraft:the_nether",
+      "mindist": 24,
+      "maxdist": 100,
+      "minheight": 15,
+      "maxheight": 200,
+      "maxthis": 3
+    }
+  },
+  {
+    "mob": ["nethers_exorcism_reborn:basalt_crab"],
+    "persecond": 0.1,
+    "attempts": 1,
+    "amount": {
+      "minimum": 1,
+      "maximum": 1
+    },
+    "conditions": {
+      "dimension": "minecraft:the_nether",
+      "mindist": 34,
+      "maxdist": 100,
+      "minheight": 55,
+      "maxheight": 150,
+      "maxthis": 5
+    }
+  },
+  {
+    "mob": ["notsoshrimple:crayfish"],
+    "persecond": 1,
+    "attempts": 1,
+    "amount": {
+      "minimum": 1,
+      "maximum": 1
+    },
+    "conditions": {
+      "dimension": "minecraft:overworld",
+      "mindist": 34,
+      "maxdist": 100,
+      "minheight": 55,
+      "maxheight": 150,
+      "maxthis": 4
+    }
+  },
+  {
+    "mob": ["nethers_exorcism_reborn:indigo_scyphozoa","nethers_exorcism_reborn:indigo_salamander"],
+    "persecond": 1,
+    "attempts": 1,
+    "amount": {
+      "minimum": 1,
+      "maximum": 2
+    },
+    "conditions": {
+      "dimension": "minecraft:the_nether",
+      "mindist": 24,
+      "maxdist": 100,
+      "minheight": 15,
+      "maxheight": 200,
+      "maxthis": 10
+    }
+  }
+]

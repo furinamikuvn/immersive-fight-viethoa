@@ -1,0 +1,11 @@
+{
+  "unlocked_by_default": true,
+  "title": "Tùy Chỉnh",
+  "icon": {
+    "type": "effect",
+    "data": {
+      "effect": "haste"
+    }
+  },
+  "background": "textures/gui/advancements/backgrounds/stone.png"
+}

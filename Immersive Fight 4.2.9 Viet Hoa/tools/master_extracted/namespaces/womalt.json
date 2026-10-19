@@ -1,0 +1,1462 @@
+{
+  "death.attack.ender_bullet.item": {
+    "en": null,
+    "zh": "%1$s 被 %2$s 的末影子弹击中而死（物品）。",
+    "vi": "%1$s bị đạn Ender của %2$s bắn trúng và tử nạn."
+  },
+  "death.attack.timed_katana_slashes.item": {
+    "en": null,
+    "zh": "%1$s 不知道...他早已死亡！（物品）",
+    "vi": "%1$s không hề hay biết... bản thân đã sớm vong mạng!"
+  },
+  "death.attack.perfect_bulkwark_shockwave.item": {
+    "en": null,
+    "zh": "%1$s 被推向了灵界！（物品）",
+    "vi": "%1$s bị đánh bay sang Linh Giới!"
+  },
+  "death.attack.lunar_eclipse.item": {
+    "en": null,
+    "zh": "%1$s 无法承受月食的神秘力量（物品）。",
+    "vi": "%1$s không thể chống đỡ sức mạnh thần bí của Nguyệt Thực."
+  },
+  "gamerule.spawnStrongerMobs": {
+    "en": null,
+    "zh": "随距离生成更强大的生物",
+    "vi": "Sinh quái vật mạnh hơn theo khoảng cách"
+  },
+  "gamerule.strongerMobsDropEmeralds": {
+    "en": null,
+    "zh": "更强大的生物掉落绿宝石",
+    "vi": "Quái vật mạnh hơn rơi ra ngọc lục bảo"
+  },
+  "gamerule.strongerMobsMoreEXP": {
+    "en": null,
+    "zh": "更强大的生物给予更多经验",
+    "vi": "Quái vật mạnh hơn cho nhiều kinh nghiệm hơn"
+  },
+  "gamerule.skeletonMoreMelee": {
+    "en": null,
+    "zh": "生成更多近战骷髅",
+    "vi": "Sinh ra nhiều bộ xương cận chiến hơn"
+  },
+  "entity.womalt.evil_skeleton": {
+    "en": null,
+    "zh": "恶魔骷髅",
+    "vi": "Ác Ma Khô Lâu (Demon Skeleton)"
+  },
+  "entity.womalt.hollow": {
+    "en": null,
+    "zh": "空洞者",
+    "vi": "Kẻ Rỗng Tuếch (Hollow)"
+  },
+  "entity.womalt.saulomonk": {
+    "en": null,
+    "zh": "索罗修士",
+    "vi": "Tu Sĩ Saul (Saul Monk)"
+  },
+  "entity.womalt.lycanth": {
+    "en": null,
+    "zh": "不洁狼人",
+    "vi": "Người Sói Bất Khiết (Unholy Werewolf)"
+  },
+  "entity.womalt.lupus_rex": {
+    "en": null,
+    "zh": "黄金狼",
+    "vi": "Hoàng Kim Lang (Golden Wolf)"
+  },
+  "item.minecraft.potion.effect.longer_night_vision": {
+    "en": null,
+    "zh": "延长的夜视药水",
+    "vi": "Thuốc Nhìn Đêm Kéo Dài"
+  },
+  "item.minecraft.splash_potion.effect.longer_night_vision": {
+    "en": null,
+    "zh": "延长的喷溅型夜视药水",
+    "vi": "Thuốc Nhìn Đêm Kéo Dài Dạng Ném"
+  },
+  "item.minecraft.lingering_potion.effect.longer_night_vision": {
+    "en": null,
+    "zh": "延长的滞留型夜视药水",
+    "vi": "Thuốc Nhìn Đêm Kéo Dài Dạng Kéo Dài Khói"
+  },
+  "item.minecraft.tipped_arrow.effect.longer_night_vision": {
+    "en": null,
+    "zh": "延长夜视之箭",
+    "vi": "Mũi Tên Nhìn Đêm Kéo Dài"
+  },
+  "item.minecraft.potion.effect.longer_invisibility": {
+    "en": null,
+    "zh": "延长的隐身药水",
+    "vi": "Thuốc Tàng Hình Kéo Dài"
+  },
+  "item.minecraft.splash_potion.effect.longer_invisibility": {
+    "en": null,
+    "zh": "延长的喷溅型隐身药水",
+    "vi": "Thuốc Tàng Hình Kéo Dài Dạng Ném"
+  },
+  "item.minecraft.lingering_potion.effect.longer_invisibility": {
+    "en": null,
+    "zh": "延长的滞留型隐身药水",
+    "vi": "Thuốc Tàng Hình Kéo Dài Dạng Kéo Dài Khói"
+  },
+  "item.minecraft.tipped_arrow.effect.longer_invisibility": {
+    "en": null,
+    "zh": "延长隐身之箭",
+    "vi": "Mũi Tên Tàng Hình Kéo Dài"
+  },
+  "item.minecraft.potion.effect.stronger_jump_boost": {
+    "en": null,
+    "zh": "强化的跳跃药水",
+    "vi": "Thuốc Nhảy Cao Cường Hóa"
+  },
+  "item.minecraft.splash_potion.effect.stronger_jump_boost": {
+    "en": null,
+    "zh": "强化的喷溅型跳跃药水",
+    "vi": "Thuốc Nhảy Cao Cường Hóa Dạng Ném"
+  },
+  "item.minecraft.lingering_potion.effect.stronger_jump_boost": {
+    "en": null,
+    "zh": "强化的滞留型跳跃药水",
+    "vi": "Thuốc Nhảy Cao Cường Hóa Dạng Kéo Dài Khói"
+  },
+  "item.minecraft.tipped_arrow.effect.stronger_jump_boost": {
+    "en": null,
+    "zh": "强化跳跃之箭",
+    "vi": "Mũi Tên Nhảy Cao Cường Hóa"
+  },
+  "item.minecraft.potion.effect.longer_jump_boost": {
+    "en": null,
+    "zh": "延长的跳跃药水",
+    "vi": "Thuốc Nhảy Cao Kéo Dài"
+  },
+  "item.minecraft.splash_potion.effect.longer_jump_boost": {
+    "en": null,
+    "zh": "延长的喷溅型跳跃药水",
+    "vi": "Thuốc Nhảy Cao Kéo Dài Dạng Ném"
+  },
+  "item.minecraft.lingering_potion.effect.longer_jump_boost": {
+    "en": null,
+    "zh": "延长的滞留型跳跃药水",
+    "vi": "Thuốc Nhảy Cao Kéo Dài Dạng Kéo Dài Khói"
+  },
+  "item.minecraft.tipped_arrow.effect.longer_jump_boost": {
+    "en": null,
+    "zh": "延长跳跃之箭",
+    "vi": "Mũi Tên Nhảy Cao Kéo Dài"
+  },
+  "item.minecraft.potion.effect.longer_fire_resistance": {
+    "en": null,
+    "zh": "延长的抗火药水",
+    "vi": "Thuốc Kháng Lửa Kéo Dài"
+  },
+  "item.minecraft.splash_potion.effect.longer_fire_resistance": {
+    "en": null,
+    "zh": "延长的喷溅型抗火药水",
+    "vi": "Thuốc Kháng Lửa Kéo Dài Dạng Ném"
+  },
+  "item.minecraft.lingering_potion.effect.longer_fire_resistance": {
+    "en": null,
+    "zh": "延长的滞留型抗火药水",
+    "vi": "Thuốc Kháng Lửa Kéo Dài Dạng Kéo Dài Khói"
+  },
+  "item.minecraft.tipped_arrow.effect.longer_fire_resistance": {
+    "en": null,
+    "zh": "延长抗火之箭",
+    "vi": "Mũi Tên Kháng Lửa Kéo Dài"
+  },
+  "item.minecraft.potion.effect.stronger_speed": {
+    "en": null,
+    "zh": "强化的迅捷药水",
+    "vi": "Thuốc Tốc Độ Cường Hóa"
+  },
+  "item.minecraft.splash_potion.effect.stronger_speed": {
+    "en": null,
+    "zh": "强化的喷溅型迅捷药水",
+    "vi": "Thuốc Tốc Độ Cường Hóa Dạng Ném"
+  },
+  "item.minecraft.lingering_potion.effect.stronger_speed": {
+    "en": null,
+    "zh": "强化的滞留型迅捷药水",
+    "vi": "Thuốc Tốc Độ Cường Hóa Dạng Kéo Dài Khói"
+  },
+  "item.minecraft.tipped_arrow.effect.stronger_speed": {
+    "en": null,
+    "zh": "强化迅捷之箭",
+    "vi": "Mũi Tên Tốc Độ Cường Hóa"
+  },
+  "item.minecraft.potion.effect.longer_speed": {
+    "en": null,
+    "zh": "延长的迅捷药水",
+    "vi": "Thuốc Tốc Độ Kéo Dài"
+  },
+  "item.minecraft.splash_potion.effect.longer_speed": {
+    "en": null,
+    "zh": "延长的喷溅型迅捷药水",
+    "vi": "Thuốc Tốc Độ Kéo Dài Dạng Ném"
+  },
+  "item.minecraft.lingering_potion.effect.longer_speed": {
+    "en": null,
+    "zh": "延长的滞留型迅捷药水",
+    "vi": "Thuốc Tốc Độ Kéo Dài Dạng Kéo Dài Khói"
+  },
+  "item.minecraft.tipped_arrow.effect.longer_speed": {
+    "en": null,
+    "zh": "延长迅捷之箭",
+    "vi": "Mũi Tên Tốc Độ Kéo Dài"
+  },
+  "item.minecraft.potion.effect.stronger_slowness": {
+    "en": null,
+    "zh": "强化的迟缓药水",
+    "vi": "Thuốc Chậm Chạp Cường Hóa"
+  },
+  "item.minecraft.splash_potion.effect.stronger_slowness": {
+    "en": null,
+    "zh": "强化的喷溅型迟缓药水",
+    "vi": "Thuốc Chậm Chạp Cường Hóa Dạng Ném"
+  },
+  "item.minecraft.lingering_potion.effect.stronger_slowness": {
+    "en": null,
+    "zh": "强化的滞留型迟缓药水",
+    "vi": "Thuốc Chậm Chạp Cường Hóa Dạng Kéo Dài Khói"
+  },
+  "item.minecraft.tipped_arrow.effect.stronger_slowness": {
+    "en": null,
+    "zh": "强化迟缓之箭",
+    "vi": "Mũi Tên Chậm Chạp Cường Hóa"
+  },
+  "item.minecraft.potion.effect.longer_slowness": {
+    "en": null,
+    "zh": "延长的迟缓药水",
+    "vi": "Thuốc Chậm Chạp Kéo Dài"
+  },
+  "item.minecraft.splash_potion.effect.longer_slowness": {
+    "en": null,
+    "zh": "延长的喷溅型迟缓药水",
+    "vi": "Thuốc Chậm Chạp Kéo Dài Dạng Ném"
+  },
+  "item.minecraft.lingering_potion.effect.longer_slowness": {
+    "en": null,
+    "zh": "延长的滞留型迟缓药水",
+    "vi": "Thuốc Chậm Chạp Kéo Dài Dạng Kéo Dài Khói"
+  },
+  "item.minecraft.tipped_arrow.effect.longer_slowness": {
+    "en": null,
+    "zh": "延长迟缓之箭",
+    "vi": "Mũi Tên Chậm Chạp Kéo Dài"
+  },
+  "item.minecraft.potion.effect.longer_water_breathing": {
+    "en": null,
+    "zh": "延长的水肺药水",
+    "vi": "Thuốc Thở Dưới Nước Kéo Dài"
+  },
+  "item.minecraft.splash_potion.effect.longer_water_breathing": {
+    "en": null,
+    "zh": "延长的喷溅型水肺药水",
+    "vi": "Thuốc Thở Dưới Nước Kéo Dài Dạng Ném"
+  },
+  "item.minecraft.lingering_potion.effect.longer_water_breathing": {
+    "en": null,
+    "zh": "延长的滞留型水肺药水",
+    "vi": "Thuốc Thở Dưới Nước Kéo Dài Dạng Kéo Dài Khói"
+  },
+  "item.minecraft.tipped_arrow.effect.longer_water_breathing": {
+    "en": null,
+    "zh": "延长水肺之箭",
+    "vi": "Mũi Tên Thở Dưới Nước Kéo Dài"
+  },
+  "item.minecraft.potion.effect.stronger_instant_health": {
+    "en": null,
+    "zh": "强化的治疗药水",
+    "vi": "Thuốc Hồi Máu Cực Nhanh Cường Hóa"
+  },
+  "item.minecraft.splash_potion.effect.stronger_instant_health": {
+    "en": null,
+    "zh": "强化的喷溅型治疗药水",
+    "vi": "Thuốc Hồi Máu Cực Nhanh Cường Hóa Dạng Ném"
+  },
+  "item.minecraft.lingering_potion.effect.stronger_instant_health": {
+    "en": null,
+    "zh": "强化的滞留型治疗药水",
+    "vi": "Thuốc Hồi Máu Cực Nhanh Cường Hóa Dạng Kéo Dài Khói"
+  },
+  "item.minecraft.tipped_arrow.effect.stronger_instant_health": {
+    "en": null,
+    "zh": "强化治疗之箭",
+    "vi": "Mũi Tên Hồi Máu Cực Nhanh Cường Hóa"
+  },
+  "item.minecraft.potion.effect.stronger_instant_damage": {
+    "en": null,
+    "zh": "强化的伤害药水",
+    "vi": "Thuốc Sát Thương Tức Thì Cường Hóa"
+  },
+  "item.minecraft.splash_potion.effect.stronger_instant_damage": {
+    "en": null,
+    "zh": "强化的喷溅型伤害药水",
+    "vi": "Thuốc Sát Thương Tức Thì Cường Hóa Dạng Ném"
+  },
+  "item.minecraft.lingering_potion.effect.stronger_instant_damage": {
+    "en": null,
+    "zh": "强化的滞留型伤害药水",
+    "vi": "Thuốc Sát Thương Tức Thì Cường Hóa Dạng Kéo Dài Khói"
+  },
+  "item.minecraft.tipped_arrow.effect.stronger_instant_damage": {
+    "en": null,
+    "zh": "强化伤害之箭",
+    "vi": "Mũi Tên Sát Thương Tức Thì Cường Hóa"
+  },
+  "item.minecraft.potion.effect.stronger_poison": {
+    "en": null,
+    "zh": "强化的剧毒药水",
+    "vi": "Thuốc Độc Cường Hóa"
+  },
+  "item.minecraft.splash_potion.effect.stronger_poison": {
+    "en": null,
+    "zh": "强化的喷溅型剧毒药水",
+    "vi": "Thuốc Độc Cường Hóa Dạng Ném"
+  },
+  "item.minecraft.lingering_potion.effect.stronger_poison": {
+    "en": null,
+    "zh": "强化的滞留型剧毒药水",
+    "vi": "Thuốc Độc Cường Hóa Dạng Kéo Dài Khói"
+  },
+  "item.minecraft.tipped_arrow.effect.stronger_poison": {
+    "en": null,
+    "zh": "强化剧毒之箭",
+    "vi": "Mũi Tên Độc Cường Hóa"
+  },
+  "item.minecraft.potion.effect.longer_poison": {
+    "en": null,
+    "zh": "延长的剧毒药水",
+    "vi": "Thuốc Độc Kéo Dài"
+  },
+  "item.minecraft.splash_potion.effect.longer_poison": {
+    "en": null,
+    "zh": "延长的喷溅型剧毒药水",
+    "vi": "Thuốc Độc Kéo Dài Dạng Ném"
+  },
+  "item.minecraft.lingering_potion.effect.longer_poison": {
+    "en": null,
+    "zh": "延长的滞留型剧毒药水",
+    "vi": "Thuốc Độc Kéo Dài Dạng Kéo Dài Khói"
+  },
+  "item.minecraft.tipped_arrow.effect.longer_poison": {
+    "en": null,
+    "zh": "延长剧毒之箭",
+    "vi": "Mũi Tên Độc Kéo Dài"
+  },
+  "item.minecraft.potion.effect.stronger_regeneration": {
+    "en": null,
+    "zh": "强化的再生药水",
+    "vi": "Thuốc Tái Tạo Cường Hóa"
+  },
+  "item.minecraft.splash_potion.effect.stronger_regeneration": {
+    "en": null,
+    "zh": "强化的喷溅型再生药水",
+    "vi": "Thuốc Tái Tạo Cường Hóa Dạng Ném"
+  },
+  "item.minecraft.lingering_potion.effect.stronger_regeneration": {
+    "en": null,
+    "zh": "强化的滞留型再生药水",
+    "vi": "Thuốc Tái Tạo Cường Hóa Dạng Kéo Dài Khói"
+  },
+  "item.minecraft.tipped_arrow.effect.stronger_regeneration": {
+    "en": null,
+    "zh": "强化再生之箭",
+    "vi": "Mũi Tên Tái Tạo Cường Hóa"
+  },
+  "item.minecraft.potion.effect.longer_regeneration": {
+    "en": null,
+    "zh": "延长的再生药水",
+    "vi": "Thuốc Tái Tạo Kéo Dài"
+  },
+  "item.minecraft.splash_potion.effect.longer_regeneration": {
+    "en": null,
+    "zh": "延长的喷溅型再生药水",
+    "vi": "Thuốc Tái Tạo Kéo Dài Dạng Ném"
+  },
+  "item.minecraft.lingering_potion.effect.longer_regeneration": {
+    "en": null,
+    "zh": "延长的滞留型再生药水",
+    "vi": "Thuốc Tái Tạo Kéo Dài Dạng Kéo Dài Khói"
+  },
+  "item.minecraft.tipped_arrow.effect.longer_regeneration": {
+    "en": null,
+    "zh": "延长再生之箭",
+    "vi": "Mũi Tên Tái Tạo Kéo Dài"
+  },
+  "item.minecraft.potion.effect.stronger_strength": {
+    "en": null,
+    "zh": "强化的力量药水",
+    "vi": "Thuốc Sức Mạnh Cường Hóa"
+  },
+  "item.minecraft.splash_potion.effect.stronger_strength": {
+    "en": null,
+    "zh": "强化的喷溅型力量药水",
+    "vi": "Thuốc Sức Mạnh Cường Hóa Dạng Ném"
+  },
+  "item.minecraft.lingering_potion.effect.stronger_strength": {
+    "en": null,
+    "zh": "强化的滞留型力量药水",
+    "vi": "Thuốc Sức Mạnh Cường Hóa Dạng Kéo Dài Khói"
+  },
+  "item.minecraft.tipped_arrow.effect.stronger_strength": {
+    "en": null,
+    "zh": "强化力量之箭",
+    "vi": "Mũi Tên Sức Mạnh Cường Hóa"
+  },
+  "item.minecraft.potion.effect.longer_strength": {
+    "en": null,
+    "zh": "延长的力量药水",
+    "vi": "Thuốc Sức Mạnh Kéo Dài"
+  },
+  "item.minecraft.splash_potion.effect.longer_strength": {
+    "en": null,
+    "zh": "延长的喷溅型力量药水",
+    "vi": "Thuốc Sức Mạnh Kéo Dài Dạng Ném"
+  },
+  "item.minecraft.lingering_potion.effect.longer_strength": {
+    "en": null,
+    "zh": "延长的滞留型力量药水",
+    "vi": "Thuốc Sức Mạnh Kéo Dài Dạng Kéo Dài Khói"
+  },
+  "item.minecraft.tipped_arrow.effect.longer_strength": {
+    "en": null,
+    "zh": "延长力量之箭",
+    "vi": "Mũi Tên Sức Mạnh Kéo Dài"
+  },
+  "item.minecraft.potion.effect.longer_weakness": {
+    "en": null,
+    "zh": "延长的虚弱药水",
+    "vi": "Thuốc Yếu Đuối Kéo Dài"
+  },
+  "item.minecraft.splash_potion.effect.longer_weakness": {
+    "en": null,
+    "zh": "延长的喷溅型虚弱药水",
+    "vi": "Thuốc Yếu Đuối Kéo Dài Dạng Ném"
+  },
+  "item.minecraft.lingering_potion.effect.longer_weakness": {
+    "en": null,
+    "zh": "延长的滞留型虚弱药水",
+    "vi": "Thuốc Yếu Đuối Kéo Dài Dạng Kéo Dài Khói"
+  },
+  "item.minecraft.tipped_arrow.effect.longer_weakness": {
+    "en": null,
+    "zh": "延长虚弱之箭",
+    "vi": "Mũi Tên Yếu Đuối Kéo Dài"
+  },
+  "item.minecraft.potion.effect.longer_slow_falling": {
+    "en": null,
+    "zh": "延长的缓降药水",
+    "vi": "Thuốc Rơi Chậm Kéo Dài"
+  },
+  "item.minecraft.splash_potion.effect.longer_slow_falling": {
+    "en": null,
+    "zh": "延长的喷溅型缓降药水",
+    "vi": "Thuốc Rơi Chậm Kéo Dài Dạng Ném"
+  },
+  "item.minecraft.lingering_potion.effect.longer_slow_falling": {
+    "en": null,
+    "zh": "延长的滞留型缓降药水",
+    "vi": "Thuốc Rơi Chậm Kéo Dài Dạng Kéo Dài Khói"
+  },
+  "item.minecraft.tipped_arrow.effect.longer_slow_falling": {
+    "en": null,
+    "zh": "延长缓降之箭",
+    "vi": "Mũi Tên Rơi Chậm Kéo Dài"
+  },
+  "item.minecraft.potion.effect.stronger_turtle_master": {
+    "en": null,
+    "zh": "强化的神龟药水",
+    "vi": "Thuốc Thần Quy Cường Hóa"
+  },
+  "item.minecraft.splash_potion.effect.stronger_turtle_master": {
+    "en": null,
+    "zh": "强化的喷溅型神龟药水",
+    "vi": "Thuốc Thần Quy Cường Hóa Dạng Ném"
+  },
+  "item.minecraft.lingering_potion.effect.stronger_turtle_master": {
+    "en": null,
+    "zh": "强化的滞留型神龟药水",
+    "vi": "Thuốc Thần Quy Cường Hóa Dạng Kéo Dài Khói"
+  },
+  "item.minecraft.tipped_arrow.effect.stronger_turtle_master": {
+    "en": null,
+    "zh": "强化神龟之箭",
+    "vi": "Mũi Tên Thần Quy Cường Hóa"
+  },
+  "item.minecraft.potion.effect.longer_turtle_master": {
+    "en": null,
+    "zh": "延长的神龟药水",
+    "vi": "Thuốc Thần Quy Kéo Dài"
+  },
+  "item.minecraft.splash_potion.effect.longer_turtle_master": {
+    "en": null,
+    "zh": "延长的喷溅型神龟药水",
+    "vi": "Thuốc Thần Quy Kéo Dài Dạng Ném"
+  },
+  "item.minecraft.lingering_potion.effect.longer_turtle_master": {
+    "en": null,
+    "zh": "延长的滞留型神龟药水",
+    "vi": "Thuốc Thần Quy Kéo Dài Dạng Kéo Dài Khói"
+  },
+  "item.minecraft.tipped_arrow.effect.longer_turtle_master": {
+    "en": null,
+    "zh": "延长神龟之箭",
+    "vi": "Mũi Tên Thần Quy Kéo Dài"
+  },
+  "itemGroup.womalt.items": {
+    "en": null,
+    "zh": "魔纹武器",
+    "vi": null
+  },
+  "item.womalt.magic_core": {
+    "en": null,
+    "zh": "魔纹核心",
+    "vi": null
+  },
+  "subtitles.womalt.spirit_threshold": {
+    "en": null,
+    "zh": "灵魂阈值",
+    "vi": null
+  },
+  "enchantment.womalt.invigoration": {
+    "en": null,
+    "zh": "振奋",
+    "vi": null
+  },
+  "enchantment.womalt.invigoration.desc": {
+    "en": null,
+    "zh": "每级增加1点耐力。",
+    "vi": null
+  },
+  "item.womalt.cursed_mask": {
+    "en": null,
+    "zh": "诅咒面具",
+    "vi": null
+  },
+  "item.womalt.unholy_cursed_mask": {
+    "en": null,
+    "zh": "不洁诅咒面具",
+    "vi": null
+  },
+  "item.womalt.demon_bracelet": {
+    "en": null,
+    "zh": "恶魔手镯",
+    "vi": null
+  },
+  "item.womalt.celerity_bracelet": {
+    "en": null,
+    "zh": "迅捷手镯",
+    "vi": null
+  },
+  "item.womalt.obsidian_bracelet": {
+    "en": null,
+    "zh": "黑曜石手镯",
+    "vi": null
+  },
+  "item.womalt.golden_monocle": {
+    "en": null,
+    "zh": "金单片眼镜",
+    "vi": null
+  },
+  "item.womalt.golden_chrono": {
+    "en": null,
+    "zh": "金怀表",
+    "vi": null
+  },
+  "item.womalt.golden_mokassin": {
+    "en": null,
+    "zh": "金软皮鞋",
+    "vi": null
+  },
+  "item.womalt.golden_kit": {
+    "en": null,
+    "zh": "金背带",
+    "vi": null
+  },
+  "item.womalt.diamond_crown": {
+    "en": null,
+    "zh": "钻石王冠",
+    "vi": null
+  },
+  "item.womalt.diamond_armbracelet": {
+    "en": null,
+    "zh": "钻石臂环",
+    "vi": null
+  },
+  "item.womalt.diamond_legtopseal": {
+    "en": null,
+    "zh": "钻石大腿带",
+    "vi": null
+  },
+  "item.womalt.diamond_legbottomseal": {
+    "en": null,
+    "zh": "钻石小腿带",
+    "vi": null
+  },
+  "item.womalt.emerald_earrings": {
+    "en": null,
+    "zh": "绿宝石耳环",
+    "vi": null
+  },
+  "item.womalt.emerald_chakra": {
+    "en": null,
+    "zh": "绿宝石背部圆环",
+    "vi": null
+  },
+  "item.womalt.emerald_tasset": {
+    "en": null,
+    "zh": "绿宝石马镫",
+    "vi": null
+  },
+  "item.womalt.emerald_anklebracelet": {
+    "en": null,
+    "zh": "绿宝石脚踝手链",
+    "vi": null
+  },
+  "item.womalt.netherite_mask": {
+    "en": null,
+    "zh": "下界合金面具",
+    "vi": null
+  },
+  "item.womalt.netherite_manicle": {
+    "en": null,
+    "zh": "下界合金手链",
+    "vi": null
+  },
+  "item.womalt.netherite_belt": {
+    "en": null,
+    "zh": "下界合金腰带",
+    "vi": null
+  },
+  "item.womalt.netherite_chains": {
+    "en": null,
+    "zh": "下界合金脚镣",
+    "vi": null
+  },
+  "item.womalt.agony_alt": {
+    "en": null,
+    "zh": "魔纹长枪",
+    "vi": null
+  },
+  "item.womalt.agony_alt.tooltip": {
+    "en": null,
+    "zh": "轻盈而锋利的矛让持有者能进行致命的攻击。跳跃攻击允许跳跃2个方块。\n\n攻击敌人会为这个技能充能，最多3次。\n最终伤害会乘以充能次数。",
+    "vi": null
+  },
+  "skill.womalt.agony_alt_plunge": {
+    "en": null,
+    "zh": "天降突袭",
+    "vi": null
+  },
+  "skill.womalt.agony_alt_plunge.tooltip": {
+    "en": null,
+    "zh": "“在天空中消失，然后俯冲向你的敌人。”\n\n攻击敌人可以为这个技能充能，最多3层。\n跃起后再次长按左键下砸（需要有层数才能下砸），消耗所有层数，最终伤害与层数相关",
+    "vi": null
+  },
+  "item.womalt.tormented_mind_alt": {
+    "en": null,
+    "zh": "魔纹之斧",
+    "vi": null
+  },
+  "item.womalt.tormented_mind_alt.tooltip": {
+    "en": null,
+    "zh": "一件大规模杀戮与畸变的武器。\n这把斧头吸收了前任持有者的愤怒，\n并将这份愤怒传递给下一个目标。",
+    "vi": null
+  },
+  "skill.womalt.true_berserk": {
+    "en": null,
+    "zh": "真·愤怒",
+    "vi": null
+  },
+  "skill.womalt.true_berserk.tooltip": {
+    "en": null,
+    "zh": "“愿神也畏惧你……”\n\n折磨的愤怒使得技能槽变得无法读取。",
+    "vi": null
+  },
+  "item.womalt.ruine_alt": {
+    "en": null,
+    "zh": "魔纹长剑",
+    "vi": null
+  },
+  "item.womalt.ruine_alt.tooltip": {
+    "en": null,
+    "zh": "以失传技艺锻造的远古兵器，灌注了魔纹之力。\n其精妙配重与独特设计能在战斗中实现极致效能与精准度。",
+    "vi": null
+  },
+  "skill.womalt.plunder_perdition": {
+    "en": null,
+    "zh": "夺魂",
+    "vi": null
+  },
+  "skill.womalt.plunder_perdition.tooltip": {
+    "en": null,
+    "zh": "“掌控古老的秘法。”\n\n触发此技能时，你将传送至目标周围，\n    并交替进行左挥与右挥。\n  - 冲刺时，若攻击命中，夺取目标移速和攻速。\n  - 腾空时，空中传送至目标周围，\n    并夺取目标移速和攻速。\n  - 潜行且拥有10层充能时，\n    你将召唤魔纹之手于周围目标脚下。\n    随后这些手会抓住各自的目标，\n    对其造成伤害并施加挖掘疲劳与缓慢效果。",
+    "vi": null
+  },
+  "item.womalt.satsujin_alt": {
+    "en": null,
+    "zh": "魔纹太刀",
+    "vi": null
+  },
+  "item.womalt.satsujin_alt.tooltip": {
+    "en": null,
+    "zh": "这把剑中封印着恶魔。\n增强了剑的强度和效果，\n但由于恶魔仍被封印，它无法提供更多的力量...\n\n被动：在4秒不活动后自动收鞘。\n在收鞘攻击结束后，会更快地收鞘。",
+    "vi": null
+  },
+  "skill.womalt.sakura_state": {
+    "en": null,
+    "zh": "樱花状态",
+    "vi": null
+  },
+  "skill.womalt.sakura_state.tooltip": {
+    "en": null,
+    "zh": "\"在绝对宁静中施展的最薄之刃\"\n在冲刺时，你将快速穿过前方的敌人，并在途中对他们进行斩击。\n\n你可以总共堆叠8次魔纹斩。横扫之刃可增加堆叠数量。\n初始释放技能，进入魔纹状态。\n如果在4秒内没有再次施展魔纹斩，你将失去所有层数并退出魔纹状态。\n冲刺攻击将在敌人身上堆叠3层永恒斩击。\n如果在1.5秒内没有攻击，\n则将对目标上堆叠的所有永恒斩击进行释放。冲刺特殊攻击消耗2层技能。满12层技能按住右键并按下技能键消耗6层释放终结技",
+    "vi": null
+  },
+  "item.womalt.ender_blaster_alt": {
+    "en": null,
+    "zh": "魔纹爆破者",
+    "vi": null
+  },
+  "item.womalt.ender_blaster.tooltip": {
+    "en": null,
+    "zh": "这把武器已经超越了时间和空间，\n只为寻找能够掌握其巅峰力量的人。",
+    "vi": null
+  },
+  "skill.womalt.ender_blast": {
+    "en": null,
+    "zh": "魔纹爆破",
+    "vi": null
+  },
+  "skill.womalt.ender_blast.tooltip": {
+    "en": null,
+    "zh": "\"魔纹科技力量的巅峰之作。\"\n\n爆破枪装填器由12个腔室组成。\n动能储存在其中并被转化为末影能量。\n当扳机被扣动时，一半转化的末影能量\n被凝聚成末影子弹。\n另一半则被送入粒子加速器中，对末影能量进行过载充能，\n以惊人的力量和精度将子弹射出。\n这一切都在一瞬间完成...太出色了！",
+    "vi": null
+  },
+  "skill.womalt.ender_fusion": {
+    "en": null,
+    "zh": "魔纹融合",
+    "vi": null
+  },
+  "skill.womalt.ender_fusion.tooltip": {
+    "en": null,
+    "zh": "\"魔纹科技力量的巅峰之作。\"\n\n两个爆破枪装填器，每个有12个腔室，总共24个。\n储存的动能在这两把爆破枪之间共享，\n并各自转化为魔纹能量。\n当扳机被扣动时，一半转化的魔纹能量\n被凝聚成魔纹子弹。\n另一半则被送入粒子加速器中，对魔纹能量进行过载充能，\n以惊人的力量和精度将子弹射出。\n这一切都在一瞬间完成...太出色了！",
+    "vi": null
+  },
+  "item.womalt.herrscher_alt": {
+    "en": null,
+    "zh": "魔纹剑",
+    "vi": null
+  },
+  "item.womalt.herrscher.tooltip": {
+    "en": null,
+    "zh": "锋利且轻盈的剑，在战斗中表现极为出色...\n但...它似乎需要某种东西来释放其全部潜力。",
+    "vi": null
+  },
+  "item.womalt.gesetz_alt": {
+    "en": null,
+    "zh": "魔纹盾",
+    "vi": null
+  },
+  "item.womalt.gesetz.tooltip": {
+    "en": null,
+    "zh": "坚固且耐用的盾牌，能够阻挡最强大的攻击...\n但...它似乎也需要某种东西来释放其全部潜力。",
+    "vi": null
+  },
+  "skill.womalt.regierung": {
+    "en": null,
+    "zh": "魔纹之力",
+    "vi": null
+  },
+  "skill.womalt.regierung.tooltip": {
+    "en": null,
+    "zh": "\"进攻与防守的完美结合，达到了完美的和谐。\"\n\n防御时，会根据你阻挡攻击的方式累积伤害。\n当盾牌位于玩家面前时，某些攻击会有反击窗口。",
+    "vi": null
+  },
+  "item.womalt.moonless_alt": {
+    "en": null,
+    "zh": "魔纹月刃",
+    "vi": null
+  },
+  "item.womalt.moonless.tooltip": {
+    "en": null,
+    "zh": "\"无柄之刃何以称剑，\n 无影之光何以称明，\n 无月之夜何以称夜。\"\n\n魔纹月刃拥有阴阳双形态攻击模式，\n通过冲刺攻击切换形态。",
+    "vi": null
+  },
+  "skill.womalt.lunar_eclipse": {
+    "en": null,
+    "zh": "月食",
+    "vi": null
+  },
+  "skill.womalt.lunar_eclipse.tooltip": {
+    "en": null,
+    "zh": "\"月影蔽天光\"\n\n斩击前方敌人，使其发光7秒。\n\n【阳面】模式下：\n  - 攻击发光目标：叠加伤害并提升其发光等级\n  - 攻击失明目标：叠加伤害并清除其失明效果\n\n【阴面】模式下：\n  - 攻击发光目标：叠加伤害并清除发光效果\n  - 攻击失明目标：提升其失明等级\n\n阳跳跃攻击（新月斩）\n  对目标释放所有累积伤害。\n  若击杀目标，则向最近目标弹射并损失5%伤害。\n   发光状态增加弹射范围\n   失明状态提升伤害值\n\n阴跳跃攻击（满月斩）\n  对范围内敌人释放70%累积伤害。\n   失明状态提升伤害效果",
+    "vi": null
+  },
+  "item.womalt.solar": {
+    "en": null,
+    "zh": "太阳之力",
+    "vi": null
+  },
+  "item.womalt.solar.tooltip": {
+    "en": null,
+    "zh": "\"太阳之力，尽在掌握\"",
+    "vi": null
+  },
+  "skill.womalt.solar_arcano": {
+    "en": null,
+    "zh": "太阳秘法",
+    "vi": null
+  },
+  "skill.womalt.solar_arcano.tooltip": {
+    "en": null,
+    "zh": "\"见证星辰的全力\" 每次基础攻击后，短暂出现一个图标。当看到这个图标时，按下技能键来发动太阳攻击。\n 太阳攻击在[点燃]和[引爆]之间循环：[点燃]：将目标点燃。目标已经着火，则增加燃烧等级。[引爆]：熄灭火焰并爆炸，根据燃烧等级造成伤害。\n 热度等级，通过技能上的百分比数字显示，其颜色（从红色到白色）会根据加热速度变化。通过成功发动[引爆]并将加热速度提升到橙色以上来增加热度等级。加热速度的增加取决于目标的燃烧等级。\n按住防御并按下技能键来发动太阳火炉。太阳火炉消耗热度等级来施展燃烧法术：\n[日蚀烈焰]：将你的刀刃注入灵魂之火，将其熔化为新的形态。 在此形态下，所有攻击都会触发[引爆]。将加热速度锁定为红色。\n   [阳炎焚烬]：在你面前呼出灵魂之火。将目标燃烧至3级燃烧等级。持续时间取决于它们在火焰中停留的时间。\n    [太阳炼狱]：以球形方式燃烧你周围的目标。影响区域将持续扩大10秒。 每2秒，区域内的目标都会受到[点燃]的影响。在太阳炼狱期间，所有影响热度等级的速度都将翻倍。",
+    "vi": null
+  },
+  "item.womalt.antitheus_alt": {
+    "en": null,
+    "zh": "魔纹之镰",
+    "vi": null
+  },
+  "item.womalt.antitheus.tooltip": {
+    "en": null,
+    "zh": "“以最可怕和可憎的方式收割生命。”\n\n攻击有20%的机会在6秒内造成凋零效果。\n如果实体已经有凋零效果，那么它将重新应用更强的凋零效果，持续时间刷新。\n\n每级横扫之刃，增加10%的凋零概率，并将持续时间增加2秒。",
+    "vi": null
+  },
+  "skill.womalt.demonic_ascension": {
+    "en": null,
+    "zh": "恶魔升华",
+    "vi": null
+  },
+  "skill.womalt.demonic_ascension.tooltip": {
+    "en": null,
+    "zh": "“镰刀占据你的躯体\n驱使你行可怖之事……”\n\n升华：\n在一个大范围内，尝试在影响的实体上应用凋零效果，然后应用50%的赎罪*。\n\n在恶魔形态中：\n基础持续时间等于20秒 x (1 + (扫击等级) / 3)。\n冲刺攻击有两倍的凋零效果应用机会，但\n如果多次使用，将消耗越来越多的生命值。\n其他攻击如果命中，将对有凋零效果的实体造成80%的赎罪*。\n\n*赎罪：从目标中收割凋零效果\n根据赎罪百分比一次性造成剩余伤害\n并治愈你的百分比剩余部分。\n赎罪还会根据它们的凋零状态增加恶魔形态\n持续时间（凋零II增加3秒，凋零III增加6秒）。",
+    "vi": null
+  },
+  "item.womalt.napoleon": {
+    "en": null,
+    "zh": "拿破仑",
+    "vi": null
+  },
+  "item.womalt.napoleon.tooltip": {
+    "en": null,
+    "zh": "\"征服者永不停歇的引擎\"",
+    "vi": null
+  },
+  "skill.womalt.rechargement": {
+    "en": null,
+    "zh": "装填术",
+    "vi": null
+  },
+  "skill.womalt.rechargement.tooltip": {
+    "en": null,
+    "zh": "\"世间唯有两种力量：剑与心。长远观之，剑终为心所败\"\n\n攻击后按技能键将根据先前攻击次数手动装填对应数量弹药\n\n完成一轮普攻连段会自动装填3发弹药\n\n右键可释放射击动作，射击前需先进行攻击或装填动作\n冲刺或跳跃时亦可立即射击\n若已装载6发弹药时继续装填，可获得超载弹药\n超载弹药造成更高伤害且无视格挡\n\n精确装填至6发普通弹药或6发超载弹药时\n只要保持精确装填至6发的操作\n装填量将永久翻倍",
+    "vi": null
+  },
+  "item.womalt.evil_tachi": {
+    "en": null,
+    "zh": "妖刀大太刀",
+    "vi": null
+  },
+  "item.womalt.hollow_longsword": {
+    "en": null,
+    "zh": "空洞长剑",
+    "vi": null
+  },
+  "item.womalt.jabberwocky": {
+    "en": null,
+    "zh": "利爪拳铠",
+    "vi": null
+  },
+  "item.womalt.orbit": {
+    "en": null,
+    "zh": "轨道",
+    "vi": null
+  },
+  "item.womalt.orbit.tooltip": {
+    "en": null,
+    "zh": "纵使遥隔万里，纵使永动不息...地星永不离日，月卫永不弃地。永恒相隔，却又彼此相连。",
+    "vi": null
+  },
+  "item.womalt.nova": {
+    "en": null,
+    "zh": "新星",
+    "vi": null
+  },
+  "item.womalt.nova.tooltip": {
+    "en": null,
+    "zh": "迷失于虚空，永恒燃烧...静候黑暗，吞噬其力。永世暗影之灾厄，迸发无限领域之光环。",
+    "vi": null
+  },
+  "item.womalt.blackstar": {
+    "en": null,
+    "zh": "黑星",
+    "vi": null
+  },
+  "item.womalt.blackstar.tooltip": {
+    "en": null,
+    "zh": "寂寥虚境之中，黑暗巨灵翩跹不祥之舞。毁灭艺术之主宰，撼动虚空吞噬万物。恐怖至极，却又壮丽绝伦...无人能阻其恶毒裂痕。",
+    "vi": null
+  },
+  "item.womalt.overly_large_cylinder": {
+    "en": null,
+    "zh": "超大号气缸",
+    "vi": null
+  },
+  "item.womalt.overly_large_cylinder.tooltip": {
+    "en": null,
+    "zh": "这个气缸对任何东西来说都太大了...",
+    "vi": null
+  },
+  "item.womalt.fur": {
+    "en": null,
+    "zh": "皮毛",
+    "vi": null
+  },
+  "item.womalt.claw": {
+    "en": null,
+    "zh": "利爪",
+    "vi": null
+  },
+  "item.womalt.demon_seal": {
+    "en": null,
+    "zh": "恶魔封印",
+    "vi": null
+  },
+  "item.womalt.demon_seal.tooltip": {
+    "en": null,
+    "zh": "一位古老的恶魔被封印在其中。",
+    "vi": null
+  },
+  "item.womalt.eternal_fire_arcane": {
+    "en": null,
+    "zh": "永恒之火奥术",
+    "vi": null
+  },
+  "item.womalt.eternal_fire_arcane.tooltip": {
+    "en": null,
+    "zh": "这本书中记载着无尽烈焰之火的奥术知识。无尽太阳化身。",
+    "vi": null
+  },
+  "item.womalt.stone_greataxe": {
+    "en": null,
+    "zh": "石制巨斧",
+    "vi": null
+  },
+  "item.womalt.golden_greataxe": {
+    "en": null,
+    "zh": "金制巨斧",
+    "vi": null
+  },
+  "item.womalt.iron_greataxe": {
+    "en": null,
+    "zh": "铁制巨斧",
+    "vi": null
+  },
+  "item.womalt.diamond_greataxe": {
+    "en": null,
+    "zh": "钻石巨斧",
+    "vi": null
+  },
+  "item.womalt.netherite_greataxe": {
+    "en": null,
+    "zh": "下界合金巨斧",
+    "vi": null
+  },
+  "item.womalt.wooden_staff": {
+    "en": null,
+    "zh": "木杖",
+    "vi": null
+  },
+  "item.womalt.stone_staff": {
+    "en": null,
+    "zh": "石杖",
+    "vi": null
+  },
+  "item.womalt.golden_staff": {
+    "en": null,
+    "zh": "金杖",
+    "vi": null
+  },
+  "item.womalt.iron_staff": {
+    "en": null,
+    "zh": "铁杖",
+    "vi": null
+  },
+  "item.womalt.diamond_staff": {
+    "en": null,
+    "zh": "钻石杖",
+    "vi": null
+  },
+  "item.womalt.netherite_staff": {
+    "en": null,
+    "zh": "下界合金杖",
+    "vi": null
+  },
+  "skill.womalt.charybdis": {
+    "en": null,
+    "zh": "旋风扫击",
+    "vi": null
+  },
+  "skill.womalt.charybdis.tooltip": {
+    "en": null,
+    "zh": "消耗体力进行一次旋风式打击，总共8次打击。使用扫击等级可降低体力消耗。\n",
+    "vi": null
+  },
+  "skill.womalt.ender_step": {
+    "en": null,
+    "zh": "末影踏步",
+    "vi": null
+  },
+  "skill.womalt.ender_step.tooltip": {
+    "en": null,
+    "zh": "快速传送远离危险。在使用此技能时，玩家将免疫物理攻击。",
+    "vi": null
+  },
+  "skill.womalt.ender_obscuris": {
+    "en": null,
+    "zh": "末影隐踪",
+    "vi": null
+  },
+  "skill.womalt.ender_obscuris.tooltip": {
+    "en": null,
+    "zh": "将你传送到距离你（以你所在位置为圆心）不超过30格范围内的最后一个攻击目标后方。\n\n在使用此技能时，玩家将免疫物理攻击。\n\n需要先学习：末影踏步技能",
+    "vi": null
+  },
+  "skill.womalt.shadow_step": {
+    "en": null,
+    "zh": "暗影步",
+    "vi": null
+  },
+  "skill.womalt.shadow_step.tooltip": {
+    "en": null,
+    "zh": "沉入阴影之中。\n在阴影中移动将扭曲空间，使你移动得比光还快。\n\n在使用此技能时，玩家将免疫物理攻击。\n\n需要先学习：末影踏步技能",
+    "vi": null
+  },
+  "skill.womalt.bull_charge": {
+    "en": null,
+    "zh": "狂牛冲锋",
+    "vi": null
+  },
+  "skill.womalt.bull_charge.tooltip": {
+    "en": null,
+    "zh": "向前冲锋，推开路径上的所有实体。\n\n冲锋期间免疫晕眩效果，并减少40%所受伤害。",
+    "vi": null
+  },
+  "skill.womalt.precise_roll": {
+    "en": null,
+    "zh": "精准翻滚",
+    "vi": null
+  },
+  "skill.womalt.precise_roll.tooltip": {
+    "en": null,
+    "zh": "更快、更远且更省耐力的翻滚。\n\n像真正的专家一样表演杂技翻滚",
+    "vi": null
+  },
+  "skill.womalt.dodge_master": {
+    "en": null,
+    "zh": "闪避大师",
+    "vi": null
+  },
+  "skill.womalt.dodge_master.tooltip": {
+    "en": null,
+    "zh": "如果在施放后0.3秒内会受到伤害，则本能地小距离闪避。\n在首次闪避后的0.5秒内，连续闪避所有攻击。\n\n多次施放将加倍消耗耐力。",
+    "vi": null
+  },
+  "skill.womalt.time_travel": {
+    "en": null,
+    "zh": "时光回溯",
+    "vi": null
+  },
+  "skill.womalt.time_travel.tooltip": {
+    "en": null,
+    "zh": "记录你的位置和生命值。\n5秒后，你将被传送回之前的位置，并治愈这段时间内所受伤害的一半。\n\n再次施放以提前传送或取消。\n\n需要先学习：暗影步技能",
+    "vi": null
+  },
+  "skill.womalt.punishment_kick": {
+    "en": null,
+    "zh": "惩戒踢击",
+    "vi": null
+  },
+  "skill.womalt.punishment_kick.tooltip": {
+    "en": null,
+    "zh": "用力向前踢出。造成强烈的晕眩效果，如果在敌人攻击时施放，则可能使其昏迷。",
+    "vi": null
+  },
+  "skill.womalt.counter_attack": {
+    "en": null,
+    "zh": "反击",
+    "vi": null
+  },
+  "skill.womalt.counter_attack.tooltip": {
+    "en": null,
+    "zh": "完美防御将触发基于武器攻击的反击。",
+    "vi": null
+  },
+  "skill.womalt.perfect_bulwark": {
+    "en": null,
+    "zh": "完美壁垒",
+    "vi": null
+  },
+  "skill.womalt.perfect_bulwark.tooltip": {
+    "en": null,
+    "zh": "保持防御姿势将以低渐进耐力成本阻挡来自各个方向的攻击。\n在被击中5次后释放防御将释放震荡波，将敌人推开。",
+    "vi": null
+  },
+  "skill.womalt.vengeful_parry": {
+    "en": null,
+    "zh": "复仇招架",
+    "vi": null
+  },
+  "skill.womalt.vengeful_parry.tooltip": {
+    "en": null,
+    "zh": "进入防御姿态持续2秒。\n在此期间，无需耐力成本即可阻挡所有攻击。\n之后，你能够将所受的所有伤害在下一次攻击中反击回去。\n再次使用将重置反击伤害。\n1秒冷却时间。",
+    "vi": null
+  },
+  "skill.womalt.soul_protection": {
+    "en": null,
+    "zh": "灵魂守护",
+    "vi": null
+  },
+  "skill.womalt.soul_protection.tooltip": {
+    "en": null,
+    "zh": "放弃防御能力。\n\n每秒召唤一个灵魂，每个灵魂提供1%的伤害减免。\n你自己的灵魂为你提供20%的伤害减免。\n\n受到伤害将移除10个灵魂。",
+    "vi": null
+  },
+  "skill.womalt.shulker_cloak": {
+    "en": null,
+    "zh": "潜影披风",
+    "vi": null
+  },
+  "skill.womalt.shulker_cloak.tooltip": {
+    "en": null,
+    "zh": "放弃防御能力。\n\n每10秒，你获得一层潜影抗性。\n\n如果你至少有1层潜影抗性，你将减免60%的伤害。\n\n受到伤害将减少一层抗性。",
+    "vi": null
+  },
+  "skill.womalt.arrow_tenacity": {
+    "en": null,
+    "zh": "箭矢坚韧",
+    "vi": null
+  },
+  "skill.womalt.arrow_tenacity.tooltip": {
+    "en": null,
+    "zh": "防止因箭矢伤害而晕眩。此技能为永久效果，因此你可以在此基础上使用其他被动技能，但如果你死亡，你将只保留当前的被动技能。",
+    "vi": null
+  },
+  "skill.womalt.pain_anticipation": {
+    "en": null,
+    "zh": "痛觉预知",
+    "vi": null
+  },
+  "skill.womalt.pain_anticipation.tooltip": {
+    "en": null,
+    "zh": "如果在2秒内没有进行任何操作，将获得“预知”状态，这将使你在接下来的2秒内免疫晕眩效果并减少30%所受伤害。",
+    "vi": null
+  },
+  "skill.womalt.latent_retribution": {
+    "en": null,
+    "zh": "潜在报复",
+    "vi": null
+  },
+  "skill.womalt.latent_retribution.tooltip": {
+    "en": null,
+    "zh": "如果4秒内没有进行任何操作，将获得“报复”状态，这将使你在接下来的4秒内免疫晕眩效果，并提高你的伤害20%。",
+    "vi": null
+  },
+  "skill.womalt.vampirize": {
+    "en": null,
+    "zh": "吸血",
+    "vi": null
+  },
+  "skill.womalt.vampirize.tooltip": {
+    "en": null,
+    "zh": "对你造成的伤害的5%将转化为治疗量。",
+    "vi": null
+  },
+  "skill.womalt.critical_knowledge": {
+    "en": null,
+    "zh": "暴击知识",
+    "vi": null
+  },
+  "skill.womalt.critical_knowledge.tooltip": {
+    "en": null,
+    "zh": "给你10%的暴击几率造成30%的额外伤害。\n每提升一级火焰保护附魔，暴击率增加5%。每提升一级爆炸保护附魔，暴击伤害增加5%。",
+    "vi": null
+  },
+  "skill.womalt.heart_shield": {
+    "en": null,
+    "zh": "心之护盾",
+    "vi": null
+  },
+  "skill.womalt.heart_shield.tooltip": {
+    "en": null,
+    "zh": "获得20最大生命值的护盾，每秒恢复1点。\n每级保护附魔增加0.25恢复速度。",
+    "vi": null
+  },
+  "skill.womalt.mindset": {
+    "en": null,
+    "zh": "心境",
+    "vi": null
+  },
+  "skill.womalt.mindset.tooltip": {
+    "en": null,
+    "zh": "当生命值高于80%时，\n获得心境效果，提高你的伤害20%，并减少所受伤害20%。",
+    "vi": null
+  },
+  "skill.womalt.adrenaline": {
+    "en": null,
+    "zh": "肾上腺素",
+    "vi": null
+  },
+  "skill.womalt.adrenaline.tooltip": {
+    "en": null,
+    "zh": "当生命值低于20%时，\n获得肾上腺素效果，提高你的伤害40%，并减少所受伤害20%。",
+    "vi": null
+  },
+  "skill.womalt.dancing_blade": {
+    "en": null,
+    "zh": "舞动之刃",
+    "vi": null
+  },
+  "skill.womalt.dancing_blade.tooltip": {
+    "en": null,
+    "zh": "\"在死亡之声中起舞\"\n\n每第4次成功攻击将造成50%的额外伤害。",
+    "vi": null
+  },
+  "skill.womalt.meditation": {
+    "en": null,
+    "zh": "冥想",
+    "vi": null
+  },
+  "skill.womalt.meditation.tooltip": {
+    "en": null,
+    "zh": "在不移动的情况下潜行2秒以进入冥想状态。冥想时间越长，增益效果持续时间越长。\n冥想有三个阶段，每个阶段提供不同的效果：\n\n 阶段1：增加30%的伤害输出。\n\n 阶段2：增加20%的攻击速度和移动速度I。\n\n 阶段3：减少30%所受伤害并开启再生I。",
+    "vi": null
+  },
+  "skill.womalt.spider_techniques": {
+    "en": null,
+    "zh": "蜘蛛技巧",
+    "vi": null
+  },
+  "skill.womalt.spider_techniques.tooltip": {
+    "en": null,
+    "zh": "允许你在墙壁上奔跑。\n\n按住冲刺键并朝墙壁跳跃以在墙上奔跑。\n松开冲刺键会落下，或松开移动输入键会缓慢下滑。\n潜行以减少下滑速度。\n\n你可以通过调整水平视角从一个墙壁跳到另一个墙壁。\n你跳跃的位置将调整墙壁跳跃的高度。",
+    "vi": null
+  },
+  "skill.womalt.aqua_maneuvre": {
+    "en": null,
+    "zh": "水中机动",
+    "vi": null
+  },
+  "skill.womalt.aqua_maneuvre.tooltip": {
+    "en": null,
+    "zh": "提高游泳能力。\n\n在水下游泳速度更快，或在水面上游泳速度略慢。\n\n松开跳跃键以在水下推进，或在水面上进行蝶泳。",
+    "vi": null
+  },
+  "skill.womalt.bi_phased": {
+    "en": null,
+    "zh": "幽灵形态",
+    "vi": null
+  },
+  "skill.womalt.bi_phased.tooltip": {
+    "en": null,
+    "zh": "成功躲避5次攻击后，\n你将进入幽灵形态持续20秒。\n\n幽灵形态：攻击会穿透你。",
+    "vi": null
+  },
+  "skill.womalt.voodoo_magic": {
+    "en": null,
+    "zh": "巫毒魔法",
+    "vi": null
+  },
+  "skill.womalt.voodoo_magic.tooltip": {
+    "en": null,
+    "zh": "失去生命值会使耐力增加一半，\n失去耐力会使生命值增加一半。\n\n潜行可以将生命值以双倍速度转化为耐力。\n\n禁用耐力的自动回复。",
+    "vi": null
+  },
+  "skill.womalt.back_and_forth": {
+    "en": null,
+    "zh": "进退自如",
+    "vi": null
+  },
+  "skill.womalt.back_and_forth.tooltip": {
+    "en": null,
+    "zh": "在达到与目标的一定距离后，允许你对目标进行致盲。\n\n攻击目标一次然后远离它。\n一旦你与目标之间的距离大于20，你的下一次冲刺攻击将是一个强大的眩晕，使目标致盲5秒。",
+    "vi": null
+  },
+  "skill.womalt.all_eyes_on_you": {
+    "en": null,
+    "zh": "万众瞩目",
+    "vi": null
+  },
+  "skill.womalt.all_eyes_on_you.tooltip": {
+    "en": null,
+    "zh": "格挡或闪避4次不同攻击后将触发\"守护凝视\"效果。\n\n守护凝视：\n  在8秒内缓慢恢复生命值、耐力和武器充能",
+    "vi": null
+  },
+  "skill.womalt.all_eyes_on_me": {
+    "en": null,
+    "zh": "焦点所在",
+    "vi": null
+  },
+  "skill.womalt.all_eyes_on_me.tooltip": {
+    "en": null,
+    "zh": "使用8种不同攻击造成伤害后将触发\"注视于我\"效果。\n\n注视于我：\n  在4秒内中等速度恢复生命值、耐力和武器充能，但在此期间执行任何动作都会取消该效果",
+    "vi": null
+  },
+  "skill.womalt.avatar_of_might": {
+    "en": null,
+    "zh": "力量化身",
+    "vi": null
+  },
+  "skill.womalt.avatar_of_might.tooltip": {
+    "en": null,
+    "zh": "潜行2秒后会释放冲击波击退敌人，并使你在短时间内获得击晕免疫。\n\n会消耗剩余百分比的防击退耐力值作为代价",
+    "vi": null
+  },
+  "skill.womalt.buster_parade": {
+    "en": null,
+    "zh": "恐惧终结者",
+    "vi": null
+  },
+  "skill.womalt.buster_parade.tooltip": {
+    "en": null,
+    "zh": "为武器蓄力1到2秒，随后释放强力一击，该攻击可穿透格挡，若目标正在格挡或攻击还会造成眩晕效果。\n\n适用武器类型：%s",
+    "vi": null
+  },
+  "skill.womalt.dopamine": {
+    "en": null,
+    "zh": "多巴胺",
+    "vi": null
+  },
+  "skill.womalt.dopamine.tooltip": {
+    "en": null,
+    "zh": "将冲刺攻击造成的伤害转化为耐力值。\n\n之后进入4秒冷却时间",
+    "vi": null
+  },
+  "skill.womalt.inner_growth": {
+    "en": null,
+    "zh": "内在成长",
+    "vi": null
+  },
+  "skill.womalt.inner_growth.tooltip": {
+    "en": null,
+    "zh": "每秒恢复4.0点武器技能充能。（每级保护附魔增加0.4）\n\n当前：%s/秒",
+    "vi": null
+  },
+  "skill.womalt.lethal_focus": {
+    "en": null,
+    "zh": "致命专注",
+    "vi": null
+  },
+  "skill.womalt.lethal_focus.tooltip": {
+    "en": null,
+    "zh": "每次造成伤害都会增加%s%%伤害，最高可达%s%%。\n若2秒内未执行任何动作，伤害加成将迅速衰减。\n\n每级火焰保护附魔保护增加1%叠加速度。\n每级弹射物保护附魔增加3%最大上限。",
+    "vi": null
+  },
+  "skill.womalt.manipulator": {
+    "en": null,
+    "zh": "操纵者",
+    "vi": null
+  },
+  "skill.womalt.manipulator.tooltip": {
+    "en": null,
+    "zh": "在受到伤害前瞬间格挡攻击，可恢复缺失耐力值的30%",
+    "vi": null
+  },
+  "skill.womalt.lunatic_vivacity": {
+    "en": null,
+    "zh": "狂躁活力",
+    "vi": null
+  },
+  "skill.womalt.lunatic_vivacity.tooltip": {
+    "en": null,
+    "zh": "每10秒当面对目标时，耐力消耗会以周期形式先减少85%再增加相同数值。\n\n脱离战斗状态会停止周期循环并消除对耐力消耗的影响",
+    "vi": null
+  },
+  "skill.womalt.natural_sprinter": {
+    "en": null,
+    "zh": "天生疾行者",
+    "vi": null
+  },
+  "skill.womalt.natural_sprinter.tooltip": {
+    "en": null,
+    "zh": "提升奔跑能力。\n\n持续奔跑2秒后，开始冲刺。\n\n松开冲刺键可瞬间提升速度，但会消耗耐力值",
+    "vi": null
+  },
+  "skill.womalt.proximity_exploiter": {
+    "en": null,
+    "zh": "近距利用者",
+    "vi": null
+  },
+  "skill.womalt.proximity_exploiter.tooltip": {
+    "en": null,
+    "zh": "每有1个生物处于你5格范围内，每0.5秒恢复3点武器充能",
+    "vi": null
+  },
+  "skill.womalt.shooting_style": {
+    "en": null,
+    "zh": "踢击风格",
+    "vi": null
+  },
+  "skill.womalt.shooting_style.tooltip": {
+    "en": null,
+    "zh": "空手时，潜行状态下攻击会施展踢技。\n\n连段包含3种不同的踢击",
+    "vi": null
+  },
+  "skill.womalt.damage": {
+    "en": null,
+    "zh": "%s 伤害",
+    "vi": null
+  },
+  "skill.womalt.percent_of_target_lost_health": {
+    "en": null,
+    "zh": " + %s 目标损失生命值的百分比",
+    "vi": null
+  },
+  "damage.womalt.target_max_health": {
+    "en": null,
+    "zh": " + %s 目标最大生命值的百分比",
+    "vi": null
+  },
+  "damage.womalt.target_current_health": {
+    "en": null,
+    "zh": " + %s 目标当前生命值的百分比",
+    "vi": null
+  },
+  "damage.womalt.sweeping_edge_enchant": {
+    "en": null,
+    "zh": " + %s (横扫之刃 %s 级)",
+    "vi": null
+  },
+  "death.attack.demon_fee": {
+    "en": null,
+    "zh": "%1$s 的灵魂被恶魔夺走了...",
+    "vi": null
+  },
+  "death.attack.ender_bullet": {
+    "en": null,
+    "zh": "%1$s 被 %2$s 的末影子弹击中而死。",
+    "vi": null
+  },
+  "death.attack.timed_katana_slashes": {
+    "en": null,
+    "zh": "%1$s 不知道...他早已死亡！",
+    "vi": null
+  },
+  "death.attack.perfect_bulkwark_shockwave": {
+    "en": null,
+    "zh": "%1$s 被推向了灵界！",
+    "vi": null
+  },
+  "death.attack.lunar_eclipse": {
+    "en": null,
+    "zh": "%1$s 无法承受月食的神秘力量。",
+    "vi": null
+  },
+  "death.attack.demon_fee.item": {
+    "en": null,
+    "zh": "%1$s 的灵魂被恶魔夺走了（物品）...",
+    "vi": null
+  }
+}

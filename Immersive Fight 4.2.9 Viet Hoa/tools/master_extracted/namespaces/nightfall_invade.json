@@ -1,0 +1,157 @@
+{
+  "skill.nightfall_invade.blood_slash": {
+    "en": "Blood Slash",
+    "zh": "鲜血斩击",
+    "vi": "Chém máu"
+  },
+  "skill.nightfall_invade.blood_slash.tooltip": {
+    "en": "Unleashes five vertical slashes that cannot be blocked or dodged, dealing damage to all enemies along the path:\n [150% of own Attack + 2% of target's Max HP + 4% of target's Current HP]\nRestores 10% of own HP for each enemy hit.",
+    "zh": "释放五道无法防御和闪避的纵向斩击\n对沿途的所有敌人造成:\n [攻击力150% + 目标最大生命值3%] 的伤害\n每命中一名敌人回复自身10%的生命值",
+    "vi": "Tung ra năm nhát chém dọc không thể phòng thủ hoặc né tránh.\nGây sát thương cho tất cả kẻ thù trên đường đi:\n [Sức tấn công 150% + máu tối đa của mục tiêu 3%] sát thương\nMỗi khi kẻ địch bị tấn công, 10% máu của người đó sẽ được phục hồi."
+  },
+  "skill.nightfall_invade.blood_boom": {
+    "en": "Blood Bolt",
+    "zh": "鲜血飞弹",
+    "vi": "tên lửa máu"
+  },
+  "skill.nightfall_invade.blood_boom.tooltip": {
+    "en": "Unleashes 10 blood bolts that track and attack the target.\nDeals [20% of own Attack + 3% of target's Current HP] magic damage to enemies hit and restores 5% of own HP.",
+    "zh": "释放10个鲜血飞弹，追踪目标攻击\n命中敌人时造成：\n[攻击力20% + 目标生命值2%] 的魔法伤害，并回复自身5%的生命值",
+    "vi": "Phóng 10 tên lửa máu để theo dõi mục tiêu và tấn công\nĐánh kẻ thù gây ra:\n[Tấn công 20% + HP mục tiêu 2%] sát thương phép và phục hồi 5% HP của bản thân."
+  },
+  "entity.nightfall_invade.arterius": {
+    "en": "<The last watcher - Arterius>",
+    "zh": "<最后的守望者 - 亚尔特硫斯>",
+    "vi": null
+  },
+  "entity.nightfall_invade.arterius_hard": {
+    "en": "<Lord Of Flame - Arterius(WIP)>",
+    "zh": "<烈焰主宰 - 亚尔特硫斯（未完工）>",
+    "vi": null
+  },
+  "entity.nightfall_invade.scarlet_hunter": {
+    "en": "<Scarlet Hunter - Brad>",
+    "zh": "<赤色猎手-布莱德>",
+    "vi": null
+  },
+  "entity.nightfall_invade.fallen_knight": {
+    "en": "Fallen Knight",
+    "zh": "堕落骑士",
+    "vi": null
+  },
+  "boss_bar.nightfall_invade.arterius": {
+    "en": "<Arterius>",
+    "zh": "<亚尔特硫斯>",
+    "vi": null
+  },
+  "boss_bar.nightfall_invade.arterius_hard": {
+    "en": "<Flame Lord(WIP)>",
+    "zh": "<烈焰主宰（未完工）>",
+    "vi": null
+  },
+  "key.nightfall_invade.category": {
+    "en": "NightFall Invade Skill Key",
+    "zh": "夜幕入侵 技能按键",
+    "vi": null
+  },
+  "key.nightfall_invade.nfi_skill": {
+    "en": "Otherworldly Combat Arts Key1",
+    "zh": "异界战技 技能1",
+    "vi": null
+  },
+  "effect.nightfall_invade.soul_of_flame": {
+    "en": "Soul of flame",
+    "zh": "烈焰之魂",
+    "vi": null
+  },
+  "epicfight.skill_slot.nfi_combat_art1": {
+    "en": "Otherworldly Combat Arts",
+    "zh": "异界战技",
+    "vi": null
+  },
+  "skill.epicfight.nfi_combat_art.category": {
+    "en": "Otherworldly Combat Arts",
+    "zh": "异界战技",
+    "vi": null
+  },
+  "creativetab.nightfall_invade.items": {
+    "en": "NightFall Invade Items",
+    "zh": "夜幕入侵 物品",
+    "vi": null
+  },
+  "item.nightfall_invade.arterius_spawn_egg": {
+    "en": "Arterius spawn egg",
+    "zh": "亚尔特硫斯刷怪蛋",
+    "vi": null
+  },
+  "item.nightfall_invade.scarlet_hunter_spawn_egg": {
+    "en": "Scarlet Hunter spawn egg",
+    "zh": "赤色猎手刷怪蛋",
+    "vi": null
+  },
+  "item.nightfall_invade.fallen_knight_spawn_egg": {
+    "en": "Fallen Knight spawn egg",
+    "zh": "堕落骑士刷怪蛋",
+    "vi": null
+  },
+  "item.nightfall_invade.disaster_fragment_red": {
+    "en": "Disaster Fragment - Red",
+    "zh": "灾厄碎片-红",
+    "vi": null
+  },
+  "structure.nightfall_invade.gate_of_disaster": {
+    "en": "Gate Of Disaster",
+    "zh": "灾厄之门",
+    "vi": null
+  },
+  "advancements.nightfall_invade.root.title": {
+    "en": "Nightfall Invade",
+    "zh": "夜幕入侵",
+    "vi": null
+  },
+  "advancements.nightfall_invade.root.description": {
+    "en": "Start your journey",
+    "zh": "开启你的旅程",
+    "vi": null
+  },
+  "advancements.nightfall_invade.kill_arterius.title": {
+    "en": "The last watcher",
+    "zh": "最后的守望者",
+    "vi": null
+  },
+  "advancements.nightfall_invade.kill_arterius.description": {
+    "en": "Arterius, one of the six legendary heroes, fought to halt the otherworldly invasion at the Gate Of Disaster. His comrades fell, and he sacrificed his sanity to destroy the gateway. Now, bound by this solemn destiny, he stands as its eternal watcher, forever guarding the shattered portal in noble solitude.",
+    "zh": "亚尔特硫斯，传奇六英雄之一，为阻异界灾厄而战。其战友皆已陨落，他为摧毁「灾厄之门」而神志尽失。即使如此，他也依旧坚守着自己的使命，化作永恒的守望者，阻止灾厄重临。",
+    "vi": null
+  },
+  "advancements.nightfall_invade.kill_scarlet_hunter.title": {
+    "en": "Scarlet Hunter",
+    "zh": "赤色猎手",
+    "vi": null
+  },
+  "advancements.nightfall_invade.kill_scarlet_hunter.description": {
+    "en": "A hunter descended from an ancient bloodline. After the first otherworldly invasion ended, they safeguarded one of the Disaster Fragments required to restart the 'Gate of Disaster.' If all the fragments can be gathered, it may be possible to reopen the gateway to the otherworld...",
+    "zh": "传承自古老血统的猎人，在首次异界灾厄入侵之战结束后，保管着重启「灾厄之门」的碎片之一。如果能集齐所有的灾厄碎片，或许就能再度开启通往异界之门...",
+    "vi": null
+  },
+  "message.combat_evolution.scarlet_hunter_phase2": {
+    "en": "Fool, beguiled by fate...For thy ignorance, a grievous price shalt thou pay.",
+    "zh": "受命运愚弄之人，你将会为你的无知付出代价...",
+    "vi": null
+  },
+  "message.combat_evolution.scarlet_hunter_phase3": {
+    "en": "Hmph, an obstinate warrior thou art… Thy twisted fate I alone shall end.",
+    "zh": "执迷不悟的战士，你扭曲的命运就让我来终结...",
+    "vi": null
+  },
+  "message.combat_evolution.scarlet_hunter_death": {
+    "en": "Thou who soughtest calamity with all thy heart… What, in the end, didst thou seek to destroy?",
+    "zh": "你一心追寻灾厄，究竟是为了毁灭什么？",
+    "vi": null
+  },
+  "death.attack.blood_slash": {
+    "en": "%1$s was consumed by %2$s's Blood Slash",
+    "zh": "%1$s 被 %2$s 的鲜血斩击吞噬",
+    "vi": null
+  }
+}

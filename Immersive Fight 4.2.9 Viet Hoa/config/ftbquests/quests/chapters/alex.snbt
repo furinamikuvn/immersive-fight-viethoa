@@ -1,0 +1,2357 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "alex"
+	group: "27EE47AB69EC29B4"
+	icon: "alexscaves:enigmatic_engine"
+	id: "34CAE2E23EB8C791"
+	images: [{
+		click: "https://www.mcmod.cn/item/750386.html"
+		height: 1.0d
+		hover: ["Hiến Tế Dị Giáo"]
+		image: "ftbteams:textures/alian.png"
+		rotation: 0.0d
+		width: 1.0503597122302157d
+		x: -1.0d
+		y: -2.5d
+	}]
+	order_index: 4
+	quest_links: [ ]
+	quests: [
+		{
+			description: [
+				"(Chương nhiệm vụ này tập trung vào &eKhám Phá & Thu Thập Nguyên Liệu&r)"
+				""
+				"Chế tạo &bCave Book (Tổng Quan Hang Động)&r"
+				"Bên trong cuốn sách chứa &aThông Tin Chi Tiết&r về toàn bộ mod"
+				"Bao gồm công thức chế tạo, thông tin tập tính sinh vật và mô tả cổ vật"
+				""
+				"Đặt trên Bàn Thám Hiểm Hang Động"
+				"Giải mã cổ bản thảo, chế tạo bản đồ rồi nhấn chuột phải, chờ bản đồ tải xong,"
+				"Nó sẽ chỉ dẫn cho bạn tọa độ chính xác của hang động ẩn giấu"
+				""
+				"&8&o(Gợi ý giải mã: Ký tự trên phiến đá là \"Chữ Cái Ngân Hà Tiêu Chuẩn\")&r&r"
+			]
+			entity_vis_size: 1.0f
+			icon: "alexscaves:cave_book"
+			id: "4EEAFF19C3F5E712"
+			rewards: [
+				{
+					count: 6
+					id: "5402899609C23C58"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "alexscaves:cave_tablet"
+						tag: {
+							CaveBiome: "alexscaves:primordial_caves"
+						}
+					}
+					type: "item"
+				}
+				{
+					count: 6
+					id: "1941421791B7397B"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "alexscaves:cave_tablet"
+						tag: {
+							CaveBiome: "alexscaves:magnetic_caves"
+						}
+					}
+					type: "item"
+				}
+				{
+					count: 6
+					id: "7A56C8A5A73EAD8F"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "alexscaves:cave_tablet"
+						tag: {
+							CaveBiome: "alexscaves:abyssal_chasm"
+						}
+					}
+					type: "item"
+				}
+				{
+					count: 6
+					id: "22A46E4C161320AC"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "alexscaves:cave_tablet"
+						tag: {
+							CaveBiome: "alexscaves:toxic_caves"
+						}
+					}
+					type: "item"
+				}
+				{
+					count: 6
+					id: "720A416E50791029"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "alexscaves:cave_tablet"
+						tag: {
+							CaveBiome: "alexscaves:forlorn_hollows"
+						}
+					}
+					type: "item"
+				}
+				{
+					count: 6
+					id: "423B98D341BA7896"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "alexscaves:cave_tablet"
+						tag: {
+							CaveBiome: "alexscaves:candy_cavity"
+						}
+					}
+					type: "item"
+				}
+			]
+			shape: "pentagon"
+			size: 1.2d
+			tasks: [
+				{
+					id: "32A9CE43D50B0199"
+					item: "alexscaves:cave_book"
+					type: "item"
+				}
+				{
+					id: "19617F2F9C1715B6"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "alexscaves:spelunkery_table"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["4EEAFF19C3F5E712"]
+			description: [
+				"Nhấp chuột phải vào bản thảo để thêm thông tin vào sổ tay."
+				"Nó cũng có thể được sử dụng để tổng hợp bản đồ tìm hang động."
+				"&b [Khả năng tương thích ánh sáng và bóng tối trong hang kém, nên tắt nó đi] &r"
+				""
+				"&b[Nếu bạn không muốn chạy bản đồ để tìm hang động trong thế giới chính]&r"
+				"&6[Quặng của tổ tiên]&r: Nhấp chuột phải để di chuyển đến và đi từ kích thước hang động ban đầu &e"
+				"Việc tạo ra thế giới các chiều không chỉ giới hạn ở bề mặt, &e dưới lòng đất &r đáng để khám phá hơn"
+				"Cần lưu ý rằng có một lượng lớn quái vật &c xuất hiện trong chiều không gian này. Hãy cân nhắc việc nhập một cách cẩn thận."
+			]
+			entity_vis_size: 1.0f
+			id: "7DE92F529E293753"
+			rewards: [
+				{
+					id: "1103F2F110FF216C"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+				{
+					count: 2
+					id: "40EF819CC3FC6DE8"
+					item: {
+						Count: 1
+						id: "alexscaves:cave_codex"
+						tag: {
+							CaveBiome: "alexscaves:primordial_caves"
+						}
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "348F514B744E3EA4"
+					item: "soul_like_mobs:sacredforce"
+					type: "item"
+				}
+				{
+					id: "067BA33417F756CB"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "alex_caves_dimensions:primordial_caves_key"
+					}
+					type: "item"
+				}
+			]
+			shape: "diamond"
+			tasks: [{
+				id: "382D5C6DE9467899"
+				item: {
+					Count: 1
+					id: "alexscaves:cave_codex"
+					tag: {
+						CaveBiome: "alexscaves:primordial_caves"
+					}
+				}
+				match_nbt: true
+				type: "item"
+			}]
+			title: "hang động nguyên thủy"
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["4EEAFF19C3F5E712"]
+			description: [
+				"Nhấp chuột phải vào bản thảo để thêm thông tin vào sổ tay."
+				"Nó cũng có thể được sử dụng để tổng hợp bản đồ tìm hang động."
+				""
+				"&b[Nếu bạn không muốn chạy bản đồ để tìm hang động trong thế giới chính]&r"
+				"&3[Rạn san hô vực thẳm]"
+				"Việc tạo ra thế giới các chiều không chỉ giới hạn ở bề mặt, &e dưới lòng đất &r đáng để khám phá hơn"
+				"Cần lưu ý rằng có một lượng lớn quái vật &c xuất hiện trong chiều không gian này. Hãy cân nhắc việc nhập một cách cẩn thận."
+			]
+			entity_vis_size: 1.0f
+			id: "07E3AC06A004D244"
+			rewards: [
+				{
+					id: "7BB6CE98E62598E5"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+				{
+					count: 2
+					id: "459ABFA4ACE908C7"
+					item: {
+						Count: 1
+						id: "alexscaves:cave_codex"
+						tag: {
+							CaveBiome: "alexscaves:abyssal_chasm"
+						}
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "626099E4E9BDDCDC"
+					item: "soul_like_mobs:sacredforce"
+					type: "item"
+				}
+				{
+					id: "2714495ADDF3C3E4"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "alex_caves_dimensions:abyssal_chasm_key"
+					}
+					type: "item"
+				}
+			]
+			shape: "diamond"
+			tasks: [{
+				id: "29168C5088DF8586"
+				item: {
+					Count: 1
+					id: "alexscaves:cave_codex"
+					tag: {
+						CaveBiome: "alexscaves:abyssal_chasm"
+					}
+				}
+				match_nbt: true
+				type: "item"
+			}]
+			title: "Động Nguyên Hải"
+			x: 1.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["4EEAFF19C3F5E712"]
+			description: [
+				"Nhấp chuột phải vào bản thảo để thêm thông tin vào sổ tay."
+				"Nó cũng có thể được sử dụng để tổng hợp bản đồ tìm hang động."
+				""
+				"&b[Nếu bạn không muốn chạy bản đồ để tìm hang động trong thế giới chính]&r"
+				"&a[urani đồng arsen ngọc lục bảo]&r: nhấp chuột phải để di chuyển đến và đi từ chiều không gian hang độc &e"
+				"Việc tạo ra thế giới các chiều không chỉ giới hạn ở bề mặt, &e dưới lòng đất &r đáng để khám phá hơn"
+				"Cần lưu ý rằng có một lượng lớn quái vật &c xuất hiện trong chiều không gian này. Hãy cân nhắc việc nhập một cách cẩn thận."
+			]
+			entity_vis_size: 1.0f
+			id: "6E515F67F2D34F6D"
+			rewards: [
+				{
+					id: "01C05F019A752C92"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+				{
+					count: 2
+					id: "0A812F2B69BE5EB1"
+					item: {
+						Count: 1
+						id: "alexscaves:cave_codex"
+						tag: {
+							CaveBiome: "alexscaves:toxic_caves"
+						}
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "53EE7FECDCC8D917"
+					item: "soul_like_mobs:sacredforce"
+					type: "item"
+				}
+				{
+					id: "5E15B32C3658F54D"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "alex_caves_dimensions:toxic_caves_key"
+					}
+					type: "item"
+				}
+			]
+			shape: "diamond"
+			tasks: [{
+				id: "4759E59DE72FDCE7"
+				item: {
+					Count: 1
+					id: "alexscaves:cave_codex"
+					tag: {
+						CaveBiome: "alexscaves:toxic_caves"
+					}
+				}
+				match_nbt: true
+				type: "item"
+			}]
+			title: "hang độc"
+			x: -1.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["4EEAFF19C3F5E712"]
+			description: [
+				"Nhấp chuột phải vào bản thảo để thêm thông tin vào cuốn sách."
+				"Nó cũng có thể được sử dụng để tổng hợp bản đồ tìm hang động."
+				""
+				"&b[Nếu bạn không muốn chạy bản đồ để tìm hang động trong thế giới chính]&r"
+				"&9[nam châm chì vuông]&r: Nhấp chuột phải để di chuyển đến và đi từ kích thước hang động từ trường &e"
+				"Việc tạo ra thế giới các chiều không chỉ giới hạn ở bề mặt, &e dưới lòng đất &r đáng để khám phá hơn"
+				"Cần lưu ý rằng có một lượng lớn quái vật &c xuất hiện trong chiều không gian này. Hãy cân nhắc việc nhập một cách cẩn thận."
+			]
+			entity_vis_size: 1.0f
+			id: "18584D5090A05377"
+			rewards: [
+				{
+					id: "2D207D88F3486010"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+				{
+					count: 2
+					id: "1CF66BF8849B1BB3"
+					item: {
+						Count: 1
+						id: "alexscaves:cave_codex"
+						tag: {
+							CaveBiome: "alexscaves:magnetic_caves"
+						}
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "4DD27661DF8A6BB6"
+					item: "soul_like_mobs:sacredforce"
+					type: "item"
+				}
+				{
+					id: "50635C88F6125796"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "alex_caves_dimensions:magnetic_caves_key"
+					}
+					type: "item"
+				}
+			]
+			shape: "diamond"
+			tasks: [{
+				id: "2610C539CFB30A5C"
+				item: {
+					Count: 1
+					id: "alexscaves:cave_codex"
+					tag: {
+						CaveBiome: "alexscaves:magnetic_caves"
+					}
+				}
+				match_nbt: true
+				type: "item"
+			}]
+			title: "Hang Từ"
+			x: -1.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["4EEAFF19C3F5E712"]
+			description: [
+				"Nhấp chuột phải vào bản thảo để thêm thông tin vào sổ tay."
+				"Nó cũng có thể được sử dụng để tổng hợp bản đồ tìm hang động."
+				""
+				"&b[Nếu bạn không muốn chạy bản đồ để tìm hang động trong thế giới chính]&r"
+				"&6[Huy chương Pagan]&r: Nhấp chuột phải để di chuyển đến và đi từ chiều &e"
+				"Việc tạo ra thế giới các chiều không chỉ giới hạn ở bề mặt, &e dưới lòng đất &r đáng để khám phá hơn"
+				"Cần lưu ý rằng có một lượng lớn quái vật &c xuất hiện trong chiều không gian này. Hãy cân nhắc việc nhập một cách cẩn thận."
+			]
+			entity_vis_size: 1.0f
+			id: "2E278D947E1AE807"
+			rewards: [
+				{
+					id: "77B586688D85A27C"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+				{
+					count: 2
+					id: "2B414F69FEE90BA6"
+					item: {
+						Count: 1
+						id: "alexscaves:cave_codex"
+						tag: {
+							CaveBiome: "alexscaves:forlorn_hollows"
+						}
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "5F4CFCED41C4D685"
+					item: "soul_like_mobs:sacredforce"
+					type: "item"
+				}
+				{
+					id: "27AB4492BA090B54"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "alex_caves_dimensions:forlorn_hollows_key"
+					}
+					type: "item"
+				}
+			]
+			shape: "diamond"
+			tasks: [{
+				id: "74FC9BB775B7EBD3"
+				item: {
+					Count: 1
+					id: "alexscaves:cave_codex"
+					tag: {
+						CaveBiome: "alexscaves:forlorn_hollows"
+					}
+				}
+				match_nbt: true
+				type: "item"
+			}]
+			title: "Thung lũng trống vắng im lặng lạ lùng"
+			x: 0.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["29C761D7783CBC65"]
+			description: ["Chế tạo vật phẩm và ném vào miệng núi lửa để triệu hồi BOSS"]
+			entity_vis_size: 1.0f
+			id: "468614E6F174423D"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4FA43F14D7EE4CCE"
+				table_id: 7474746035066092266L
+				type: "random"
+			}]
+			tasks: [{
+				id: "0849C1D09CDCE421"
+				item: "alexscaves:ominous_catalyst"
+				type: "item"
+			}]
+			x: 4.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["7DE92F529E293753"]
+			description: ["Tìm núi lửa trong hang động ban đầu"]
+			entity_vis_size: 1.0f
+			id: "29C761D7783CBC65"
+			tasks: [{
+				icon: "alexscaves:primal_magma"
+				id: "527A79B61040D805"
+				structure: "alexscaves:volcano"
+				title: "Tìm núi lửa dưới lòng đất"
+				type: "structure"
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["7DE92F529E293753"]
+			description: ["Tùy thuộc vào quần xã bạn đang ở, sinh ra những sinh vật sẽ sinh sản trong quần xã hiện tại."]
+			entity_vis_size: 1.0f
+			id: "2828E3CF91B5DA38"
+			tasks: [{
+				id: "02227E4EFCA88E34"
+				item: "alexscaves:amber_monolith"
+				type: "item"
+			}]
+			x: 1.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["468614E6F174423D"]
+			description: [""]
+			entity_vis_size: 1.0f
+			id: "68CFEBE75D97F047"
+			rewards: [
+				{
+					id: "6A9CB4A614D05997"
+					item: {
+						Count: 1
+						id: "minecraft:enchanted_book"
+						tag: {
+							StoredEnchantments: [{
+								id: "alexscaves:herd_phalanx"
+								lvl: 3s
+							}]
+						}
+					}
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "0886BB235623C92D"
+					table_id: 7474746035066092266L
+					type: "random"
+				}
+				{
+					id: "26EF77921C654DC0"
+					item: "simplyswords:empowered_remnant"
+					type: "item"
+				}
+			]
+			shape: "square"
+			tasks: [{
+				id: "5A094F7F832F0BAC"
+				item: {
+					Count: 1
+					id: "alexscaves:extinction_spear"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 5.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["468614E6F174423D"]
+			description: [
+				"Sau khi đánh bại BOSS, Rồng Thanh Thiên đương nhiên sẽ xuất hiện trong hang động."
+				"&o&7 (không thể thuần hóa, nhưng có thể cưỡi trong thời gian ngắn bằng cách cho ăn Silent Salad)&r&r"
+			]
+			entity_vis_size: 1.0f
+			id: "65953C67B9A1E65B"
+			rewards: [
+				{
+					count: 32
+					id: "4BDFA4C0D474AB36"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "alexscaves:fiddlehead"
+					}
+					type: "item"
+				}
+				{
+					count: 32
+					id: "27D60D7ED7F721D4"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "alexscaves:pine_nuts"
+					}
+					type: "item"
+				}
+				{
+					count: 32
+					id: "36448371B20AAA4E"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "alexscaves:tree_star"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "4F99BD953429F864"
+				item: "alexscaves:serene_salad"
+				type: "item"
+			}]
+			x: 5.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["468614E6F174423D"]
+			description: [
+				"Đánh bại rồng Minh Hoàng"
+				"Ngoài các mặt hàng tổng hợp,"
+				"Bạn cũng có thể nhấp chuột phải vào khủng long để đổi skin than hồng cho chúng"
+			]
+			entity_vis_size: 1.0f
+			id: "69C40C986D3605EB"
+			shape: "rsquare"
+			tasks: [{
+				id: "297A6BC613612892"
+				item: "alexscaves:tectonic_shard"
+				type: "item"
+			}]
+			x: 4.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["07E3AC06A004D244"]
+			description: ["Rơi ra khi đánh bại Shipbreaker"]
+			entity_vis_size: 1.0f
+			id: "2C901CCBE955CF5B"
+			shape: "rsquare"
+			tasks: [{
+				id: "018B96DD181A2228"
+				item: "alexscaves:immortal_embryo"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["7DE92F529E293753"]
+			description: [
+				"Cho hai con Earthshakers đã được thuần hóa ăn xương khủng long"
+				"Chúng có thể được tạo ra để nhân giống và đẻ trứng Earthshaker."
+				""
+				"XYZPH 0"
+				""
+				"Cần thu thập chính xác"
+			]
+			entity_vis_size: 1.0f
+			id: "79FC1B92E721809E"
+			shape: "rsquare"
+			tasks: [{
+				id: "33EC993EFD6295D8"
+				item: "alexscaves:tremorsaurus_egg"
+				type: "item"
+			}]
+			x: 3.5d
+			y: 1.0d
+		}
+		{
+			dependencies: [
+				"79FC1B92E721809E"
+				"69C40C986D3605EB"
+				"2C901CCBE955CF5B"
+				"0948A7F966DC8393"
+				"7A4F220D77F1661A"
+			]
+			description: [
+				"[Có thể cưỡi thú cưng]"
+				""
+				"Sử dụng ba chất trên để tổng hợp"
+				"Yêu cầu vụ nổ hạt nhân để ủ"
+				"Đưa thùng phế liệu vào Tame Shakesra"
+				""
+				"Phải mất 1 ngày chơi game để Shakesra bé có thể biến thành Shakesra trưởng thành. Bạn cũng có thể chọn cho ăn bom hạt nhân để tăng tốc độ phát triển của nó."
+				""
+				"Sử dụng Kho báu hổ phách hoặc Mảnh ngói trên Shakesla để thay đổi màu sắc"
+			]
+			entity_vis_size: 1.0f
+			id: "69604F82A383ED9A"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "2E5ABC91670AAAA4"
+					table_id: 7474746035066092266L
+					type: "random"
+				}
+				{
+					id: "74455F3EB411B7F4"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "dungeons_and_combat:acid_molten_blazing_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "26DEB3579CBAA2F1"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "dungeons_and_combat:acid_molten_blazing_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "45256F9CDE7A21CF"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "dungeons_and_combat:acid_molten_blazing_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "6CAD58D16D034CFA"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "dungeons_and_combat:acid_molten_blazing_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			shape: "octagon"
+			size: 1.5d
+			tasks: [{
+				id: "1743D11DCF69D21B"
+				item: "alexscaves:tremorzilla_egg"
+				type: "item"
+			}]
+			x: 3.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["6E515F67F2D34F6D"]
+			entity_vis_size: 1.0f
+			id: "06C1EE0C9FBB78E5"
+			tasks: [{
+				id: "386CB18D50BDCC25"
+				item: "alexscaves:polymer_plate"
+				type: "item"
+			}]
+			x: -2.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["06C1EE0C9FBB78E5"]
+			entity_vis_size: 1.0f
+			id: "4DBBA4C03ACB9482"
+			shape: "square"
+			tasks: [
+				{
+					id: "7DBEEC448E223DD6"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"cold_sweat:item_insulation": {
+								Insulation: [ ]
+							}
+						}
+						id: "alexscaves:hazmat_mask"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "40FD624DF2C2F9CA"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"cold_sweat:item_insulation": {
+								Insulation: [ ]
+							}
+						}
+						id: "alexscaves:hazmat_chestplate"
+						tag: {
+							Damage: 0
+							SimpleInsulation: [ ]
+							itemModifier: "modifiers:brisk"
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5F637DD07485DF64"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"cold_sweat:item_insulation": {
+								Insulation: [ ]
+							}
+						}
+						id: "alexscaves:hazmat_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "40DFA12F48E7C4A4"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"cold_sweat:item_insulation": {
+								Insulation: [ ]
+							}
+						}
+						id: "alexscaves:hazmat_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: -3.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["06C1EE0C9FBB78E5"]
+			entity_vis_size: 1.0f
+			id: "706A8C579F16E335"
+			rewards: [
+				{
+					id: "3AF24ADA736ED4E5"
+					item: {
+						Count: 1
+						id: "minecraft:enchanted_book"
+						tag: {
+							StoredEnchantments: [{
+								id: "alexscaves:solar"
+								lvl: 1s
+							}]
+						}
+					}
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "1BC1D4EE7B54FC11"
+					table_id: 7474746035066092266L
+					type: "random"
+				}
+				{
+					id: "653DE58D4F586750"
+					item: "simplyswords:empowered_remnant"
+					type: "item"
+				}
+			]
+			shape: "square"
+			tasks: [{
+				id: "3938139FB0AE1537"
+				item: {
+					Count: 1
+					id: "alexscaves:raygun"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: -2.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["06C1EE0C9FBB78E5"]
+			description: [
+				"Giữ và nhấp chuột phải vào chất nổ (chẳng hạn như TNT, bom hạt nhân) để liên kết nó,"
+				"Sau đó nhấp chuột phải vào khối hoặc không khí để kích nổ chất nổ đã liên kết trước đó."
+			]
+			entity_vis_size: 1.0f
+			id: "29022F24511468D2"
+			shape: "square"
+			tasks: [{
+				id: "206A0499E3C43E8E"
+				item: "alexscaves:remote_detonator"
+				type: "item"
+			}]
+			x: -1.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["29022F24511468D2"]
+			description: [
+				"Có thể đánh lửa bằng đá lửa và thép"
+				""
+				"Sau khi kích nổ quả bom hạt nhân, người chơi có thể ngồi lên đó đợi nó phát nổ rồi biến mất trong đám mây hình nấm khổng lồ."
+				"Người chơi sẽ tiến bộ [hẹn gặp lại bạn sớm]."
+				""
+				"Nếu hối hận vì đã kích nổ bom hạt nhân, hãy nhấp chuột phải vào quả bom hạt nhân đã nổ bằng kéo để hủy vụ nổ, bom hạt nhân sẽ trở thành vật phẩm và người chơi sẽ tiến bộ [cắt vạch đỏ]."
+			]
+			entity_vis_size: 1.0f
+			id: "0948A7F966DC8393"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "423DADE241A92966"
+				table_id: 7474746035066092266L
+				type: "random"
+			}]
+			tasks: [{
+				id: "76F80A91FAE8AA52"
+				item: "alexscaves:nuclear_bomb"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["6E515F67F2D34F6D"]
+			description: ["Nó có cơ hội rơi ra khi giết một cây leo hạt nhân."]
+			entity_vis_size: 1.0f
+			id: "147BB7DB9AFF0D6B"
+			tasks: [{
+				id: "6C75F3876B151BC6"
+				item: "alexscaves:fissile_core"
+				type: "item"
+			}]
+			x: -1.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["6E515F67F2D34F6D"]
+			description: ["Đưa thùng phế liệu vào Tame Shakesra"]
+			entity_vis_size: 1.0f
+			id: "7A4F220D77F1661A"
+			tasks: [{
+				id: "56093606C09D87B6"
+				item: "alexscaves:waste_drum"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["07E3AC06A004D244"]
+			description: [
+				"&l Nhân viên đại dương: &r"
+				"Có một cơ hội nhỏ là bạn có thể có được nó bằng cách giao dịch với Deep One Mage."
+				"Có thể bắn mũi tên nước về phía trước có thể theo dõi sinh vật"
+			]
+			entity_vis_size: 1.0f
+			id: "18BA406DAA899248"
+			rewards: [
+				{
+					id: "4955803C12DE6944"
+					item: {
+						Count: 1
+						id: "minecraft:enchanted_book"
+						tag: {
+							StoredEnchantments: [{
+								id: "alexscaves:bouncing_bolt"
+								lvl: 1s
+							}]
+						}
+					}
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "1D0CBE80DE7970CF"
+					table_id: 7474746035066092266L
+					type: "random"
+				}
+				{
+					id: "308BA0997B4ABFA1"
+					item: "simplyswords:empowered_remnant"
+					type: "item"
+				}
+			]
+			shape: "square"
+			tasks: [{
+				id: "3C952D9E710DA66F"
+				item: {
+					Count: 1
+					id: "alexscaves:sea_staff"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["07E3AC06A004D244"]
+			description: [
+				"Những thây ma chết đuối được tạo ra trong Hang Abyssal có cơ hội mặc bộ đồ lặn. Giết chúng để có được chúng."
+				"Rương chiến lợi phẩm trong Hang động Abyssal có thể chứa các bộ phận của bộ đồ lặn có độ bền hoàn toàn."
+				""
+				"Mũ bảo hiểm có thể cung cấp khả năng thở dưới nước trong 40 giây khi ở trên mặt nước."
+				"Áo giáp mang lại độ dẻo dai cho áo giáp,"
+				"Quần legging có thể tăng tốc độ bơi của người chơi."
+				"Giày bảo vệ người chơi khỏi Lực xung kích làm chậm của phù sa dưới đáy biển."
+			]
+			entity_vis_size: 1.0f
+			id: "1DC6D68D57E0A1B3"
+			shape: "square"
+			tasks: [
+				{
+					id: "71B8B581C1DAD55F"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"cold_sweat:item_insulation": {
+								Insulation: [ ]
+							}
+						}
+						id: "alexscaves:diving_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "34D92D13254639FF"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"cold_sweat:item_insulation": {
+								Insulation: [ ]
+							}
+						}
+						id: "alexscaves:diving_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "52DA84EB2FF269FE"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"cold_sweat:item_insulation": {
+								Insulation: [ ]
+							}
+						}
+						id: "alexscaves:diving_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "401BD0277B03663F"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"cold_sweat:item_insulation": {
+								Insulation: [ ]
+							}
+						}
+						id: "alexscaves:diving_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["18584D5090A05377"]
+			description: [
+				"Nó cần được lắp vào tay phụ, và bất kỳ vật sắt từ nào cũng có thể được cầm trong tay chính."
+				"Sau đó nhấn và giữ nút bên phải để sử dụng từ tính để điều khiển các vật dụng trên tay chính để vận hành từ xa."
+				"Phạm vi tiếp cận tối đa mà không cần bùa mê là 30, có thể tăng lên thông qua bùa mê."
+			]
+			entity_vis_size: 1.0f
+			id: "0B81D53BA0BD85A0"
+			rewards: [
+				{
+					id: "2D1A17886BF7469B"
+					item: {
+						Count: 1
+						id: "minecraft:enchanted_book"
+						tag: {
+							StoredEnchantments: [{
+								id: "alexscaves:field_extension"
+								lvl: 4s
+							}]
+						}
+					}
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "2885DC225EB248B6"
+					table_id: 7474746035066092266L
+					type: "random"
+				}
+				{
+					id: "0B52EF8FC45C6093"
+					item: "simplyswords:empowered_remnant"
+					type: "item"
+				}
+			]
+			shape: "square"
+			tasks: [{
+				id: "6BBF3A743DCE116B"
+				item: {
+					Count: 1
+					id: "alexscaves:galena_gauntlet"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -2.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["18584D5090A05377"]
+			description: [
+				"Giữ tấm chắn giảm chấn và nhấn và giữ nút bên phải để sử dụng và chặn đòn tấn công vật lý trước mặt bạn."
+				"Khi chặn, dòng điện sẽ phát ra xung quanh, khiến sinh vật bị điện giật và gây sát thương liên tục."
+				""
+				"Nó có hai chế độ. Bạn có thể chuyển đổi chế độ bằng cách nhấp chuột phải trong khi cầm tấm chắn giảm xóc khi lén lút."
+				""
+				"Ở chế độ đầu tiên, việc chặn đòn sẽ phát ra dòng điện màu xanh, liên tục gây 2 điểm sát thương cho sinh vật và đẩy lùi nó."
+				""
+				"Ở chế độ thứ hai, chặn sẽ phát ra dòng điện màu đỏ, liên tục gây 2 điểm sát thương cho sinh vật và kéo sinh vật về phía người chơi."
+			]
+			entity_vis_size: 1.0f
+			id: "701E207C3CECBF4C"
+			rewards: [
+				{
+					id: "68F884FC58420F77"
+					item: {
+						Count: 1
+						id: "minecraft:enchanted_book"
+						tag: {
+							StoredEnchantments: [{
+								id: "alexscaves:heavy_slam"
+								lvl: 3s
+							}]
+						}
+					}
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "59CB13179A9DBF4A"
+					table_id: 7474746035066092266L
+					type: "random"
+				}
+				{
+					id: "2032983FB66AA91E"
+					item: "simplyswords:empowered_remnant"
+					type: "item"
+				}
+			]
+			shape: "square"
+			tasks: [{
+				id: "60D167B96A28F840"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"cold_sweat:item_insulation": {
+							Insulation: [ ]
+						}
+					}
+					id: "alexscaves:resistor_shield"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -2.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["5966D8B90611A20D"]
+			description: [
+				"Những mũi tên bắn ra sẽ biến thành một cơn mưa tên"
+				"Rơi từ nơi tâm ngắm của người chơi đang nhìn"
+				""
+				"Biting Dark Enchantment: Chuyển chế độ bắn sang dạng Burst"
+			]
+			entity_vis_size: 1.0f
+			id: "459B39B24E2B9708"
+			rewards: [
+				{
+					id: "234B15D81C0C63E3"
+					item: {
+						Count: 1
+						id: "minecraft:enchanted_book"
+						tag: {
+							StoredEnchantments: [{
+								id: "alexscaves:relentless_darkness"
+								lvl: 1s
+							}]
+						}
+					}
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "117B8E5F88D01A89"
+					table_id: 7474746035066092266L
+					type: "random"
+				}
+				{
+					id: "159570259EE50B3B"
+					item: "simplyswords:empowered_remnant"
+					type: "item"
+				}
+			]
+			shape: "square"
+			tasks: [{
+				id: "329EA0F2B63C3FA9"
+				item: {
+					Count: 1
+					id: "alexscaves:dreadbow"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -0.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["2E278D947E1AE807"]
+			description: [
+				"Có 2,5% cơ hội rơi ra nó từ những kẻ dị giáo dưới lòng đất (bị ảnh hưởng bởi nạn cướp bóc)."
+				""
+				"Sau khi tấn công, một con dao găm ma sẽ được triệu hồi. Con dao găm ảo sẽ khóa mục tiêu bị tấn công. Sau một thời gian ngắn sạc sẽ gây ra 2 điểm sát thương phép. Mỗi đòn tấn công chỉ có thể khóa vào một mục tiêu."
+			]
+			entity_vis_size: 1.0f
+			id: "49C78BA0BA6FD7F0"
+			rewards: [
+				{
+					id: "38C165F8E00D03F8"
+					item: {
+						Count: 1
+						id: "minecraft:enchanted_book"
+						tag: {
+							StoredEnchantments: [{
+								id: "alexscaves:double_stab"
+								lvl: 1s
+							}]
+						}
+					}
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "4DDB6DCD06048F11"
+					table_id: 7474746035066092266L
+					type: "random"
+				}
+				{
+					id: "6E5FD65465885C53"
+					item: "simplyswords:empowered_remnant"
+					type: "item"
+				}
+			]
+			shape: "square"
+			tasks: [{
+				id: "38F5F5014D4899E1"
+				item: {
+					Count: 1
+					id: "alexscaves:desolate_dagger"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -1.5d
+			y: -4.5d
+		}
+		{
+			dependencies: [
+				"5966D8B90611A20D"
+				"0005B9F7B51A3B4D"
+			]
+			description: [
+				"Khi được trang bị cùng lúc, thanh tiến trình sạc sẽ xuất hiện và quá trình sạc sẽ tiếp tục."
+				"Khi thanh tiến trình sạc đầy, hãy nhấn nút khả năng đặc biệt trong bóng tối."
+				"Có thể đưa người chơi vào trạng thái avatar tối trong 10 giây."
+				"Thời gian của trạng thái Thế thần Hắc ám có thể được kéo dài bằng cách ăn Táo Nhuộm Đen."
+			]
+			entity_vis_size: 1.0f
+			id: "297B9B729D3AF68E"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "55454A862DE08930"
+				table_id: 7474746035066092266L
+				type: "random"
+			}]
+			shape: "square"
+			tasks: [
+				{
+					id: "309AF6B5172EC260"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"cold_sweat:item_insulation": {
+								Insulation: [ ]
+							}
+						}
+						id: "alexscaves:hood_of_darkness"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "497790A38CA408FD"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"cold_sweat:item_insulation": {
+								Insulation: [ ]
+							}
+						}
+						id: "alexscaves:cloak_of_darkness"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: 0.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["3B4827636F19DBEE"]
+			entity_vis_size: 1.0f
+			id: "5966D8B90611A20D"
+			tasks: [{
+				id: "4F6D0AD28B439F8D"
+				item: "alexscaves:shadow_silk"
+				type: "item"
+			}]
+			x: 0.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["2E278D947E1AE807"]
+			description: [
+				"Giết &b Mind Peeper có cơ hội rơi ra &r."
+				"(Được tạo ra bởi những người ngoại đạo dưới lòng đất thực hiện các nghi lễ hiến tế Dark Moth)"
+				""
+				""
+				"Cũng có một cơ hội rất nhỏ là nó có thể lấy được từ loot box ở Thung lũng Silent Hollow."
+			]
+			entity_vis_size: 1.0f
+			id: "0005B9F7B51A3B4D"
+			tasks: [{
+				id: "738EDD6473AC03C1"
+				item: "alexscaves:occult_gem"
+				type: "item"
+			}]
+			x: 1.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["18584D5090A05377"]
+			description: ["Có thể bắn xung đẩy lùi kẻ thù"]
+			entity_vis_size: 1.0f
+			id: "4672D1CB3F654DA4"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "6BAC21DBE45AC020"
+					table_id: 7474746035066092266L
+					type: "random"
+				}
+				{
+					id: "41F2FB6C01FDFC3A"
+					item: "simplyswords:empowered_remnant"
+					type: "item"
+				}
+			]
+			shape: "square"
+			tasks: [{
+				id: "2A94CBA192AAFB82"
+				item: {
+					Count: 1
+					id: "alexscaves_torpedoes:pulsargun"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: -2.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["69C40C986D3605EB"]
+			entity_vis_size: 1.0f
+			id: "1574A4E3D1F53D45"
+			shape: "square"
+			tasks: [
+				{
+					id: "29B304391B5F6438"
+					item: {
+						Count: 1
+						id: "alexscaves_torpedoes:tectonic_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "6BB1E8669493DBF8"
+					item: {
+						Count: 1
+						id: "alexscaves_torpedoes:tectonic_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "60C000FBE80354C4"
+					item: {
+						Count: 1
+						id: "alexscaves_torpedoes:tectonic_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "6F7BD0C5921F095C"
+					item: {
+						Count: 1
+						id: "alexscaves_torpedoes:tectonic_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: 5.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["07E3AC06A004D244"]
+			description: [
+				"Ốc xà cừ ma thuật &l: &r"
+				"Bạn có thể sử dụng Altar of the Abyss để giao dịch với Deep One Knight."
+				"Sau khi nhấp chuột phải, bạn có thể triệu tập ngẫu nhiên một nhóm lớn thợ lặn sâu để chiến đấu cho mình."
+			]
+			entity_vis_size: 1.0f
+			id: "4B86CB6FA68D15F4"
+			rewards: [
+				{
+					id: "5CCE366FFFF80249"
+					item: {
+						Count: 1
+						id: "minecraft:enchanted_book"
+						tag: {
+							StoredEnchantments: [{
+								id: "alexscaves:charting_call"
+								lvl: 4s
+							}]
+						}
+					}
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "34BE824786843D30"
+					table_id: 7474746035066092266L
+					type: "random"
+				}
+				{
+					id: "0E9D87EBA91044E3"
+					item: "simplyswords:empowered_remnant"
+					type: "item"
+				}
+			]
+			shape: "square"
+			tasks: [{
+				id: "4135AD6B0AFFE5D0"
+				item: {
+					Count: 1
+					id: "alexscaves:magic_conch"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["07E3AC06A004D244"]
+			description: [
+				"Mũi ren &l: &r"
+				"Xác suất có được khi giao dịch với Deep One Knight."
+				"Nhấn và giữ nút bên phải để sạc pin, bạn có thể phóng sóng nước về phía trước và lao về phía trước"
+			]
+			entity_vis_size: 1.0f
+			id: "0179C1DDEA298C82"
+			rewards: [
+				{
+					id: "3F64DEC20D6F9F15"
+					item: {
+						Count: 1
+						id: "minecraft:enchanted_book"
+						tag: {
+							StoredEnchantments: [{
+								id: "alexscaves:second_wave"
+								lvl: 1s
+							}]
+						}
+					}
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "4D6543C4B0F3BB70"
+					table_id: 7474746035066092266L
+					type: "random"
+				}
+				{
+					id: "1632C83BA3FD9584"
+					item: "simplyswords:empowered_remnant"
+					type: "item"
+				}
+			]
+			shape: "square"
+			tasks: [{
+				id: "5EB5BC6B828CFEDF"
+				item: {
+					Count: 1
+					id: "alexscaves:ortholance"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 2.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["2E278D947E1AE807"]
+			description: ["Được tạo ra bởi &b ngoại đạo ngầm &r sau khi bắt được dơi đêm &a &r và thực hiện nghi lễ tà ác &b &r"]
+			entity_vis_size: 1.0f
+			id: "3B4827636F19DBEE"
+			tasks: [{
+				entity: "alexscaves:forsaken"
+				entity_use_tag: false
+				entity_vis_idle_mode: "USE_GLOBAL"
+				entity_vis_offset_x: 0.0f
+				entity_vis_offset_y: 0.0f
+				entity_vis_rotation: 0.0f
+				entity_vis_silhouette_mode: "NONE"
+				entity_vis_size: 1.0f
+				entity_vis_spin_mode: "USE_GLOBAL"
+				entity_vis_use_as_quest_icon: false
+				entity_vis_walk_mode: "USE_GLOBAL"
+				icon: "alexscaves:pure_darkness"
+				id: "0A36946D14E2A998"
+				type: "kill"
+				value: 1L
+			}]
+			x: 0.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["4EEAFF19C3F5E712"]
+			description: [
+				"Nhấp chuột phải vào bản thảo để thêm thông tin vào cuốn sách."
+				"Nó cũng có thể được sử dụng để tổng hợp bản đồ tìm hang động."
+				""
+				"&b[Nếu bạn không muốn chạy bản đồ để tìm hang động trong thế giới chính]&r"
+				"&d[Witch Candy]&r: Nhấp chuột phải để di chuyển đến và đi từ chiều không gian Hang Kẹo &e"
+				"Việc tạo ra thế giới các chiều không chỉ giới hạn ở bề mặt, &e dưới lòng đất &r đáng để khám phá hơn"
+				"Cần lưu ý rằng có một lượng lớn quái vật &c xuất hiện trong chiều không gian này. Hãy cân nhắc việc nhập một cách cẩn thận."
+			]
+			entity_vis_size: 1.0f
+			id: "6F70FFC626350268"
+			rewards: [
+				{
+					id: "464AB0FEF78C945A"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+				{
+					count: 2
+					id: "058D7D3F2339A717"
+					item: {
+						Count: 1
+						id: "alexscaves:cave_codex"
+						tag: {
+							CaveBiome: "alexscaves:candy_cavity"
+						}
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "7DCEAA5BDF6DAF1A"
+					item: "soul_like_mobs:sacredforce"
+					type: "item"
+				}
+				{
+					id: "0AD7CF507E882ECB"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "alex_caves_dimensions:candy_cavity_key"
+					}
+					type: "item"
+				}
+			]
+			shape: "diamond"
+			tasks: [{
+				id: "12106108B2C73455"
+				item: {
+					Count: 1
+					id: "alexscaves:cave_codex"
+					tag: {
+						CaveBiome: "alexscaves:candy_cavity"
+					}
+				}
+				type: "item"
+			}]
+			title: "khoang kẹo"
+			x: -2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["6F70FFC626350268"]
+			description: [
+				"Kỳ lân kẹo được thuần hóa"
+				""
+				"Kỳ lân kẹo &b: &r"
+				"Nhấp chuột phải để gắn yên xe và đạp xe."
+				"Tích lũy thanh khả năng trong khi chạy,"
+				"Sau khi lưu xong, nhấn phím &b [C] &r mặc định phím khả năng hang động alex"
+				"Có thể kích hoạt kỹ năng kỳ lân,"
+				"Lực xung kích và gây sát thương lên các sinh vật trên đường đi"
+			]
+			entity_vis_size: 1.0f
+			id: "28EB2CC5C6F45E1D"
+			tasks: [{
+				id: "3631B1C25B197F87"
+				item: "alexscaves:caramel_apple"
+				type: "item"
+			}]
+			x: -2.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["6F70FFC626350268"]
+			description: [
+				"Tuyệt vời cho hẻm núi trong khoang kẹo"
+				"Được sử dụng trong địa hình bánh nói chung. Đủ rồi"
+				"Sử dụng kép để giảm thời gian hồi chiêu cần thiết để ném."
+				""
+				"Phần thân trên có khóa móc kép cho phép bạn cưỡi sâu kẹo cao su"
+			]
+			entity_vis_size: 1.0f
+			id: "3FDFFF60B6B1207F"
+			shape: "square"
+			tasks: [{
+				id: "6E018276B041094D"
+				item: {
+					Count: 1
+					id: "alexscaves:candy_cane_hook"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -4.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["6F70FFC626350268"]
+			description: ["Ném vũ khí"]
+			entity_vis_size: 1.0f
+			id: "66CE7DC673D3E398"
+			shape: "square"
+			tasks: [{
+				id: "018508C787B0D16C"
+				item: "alexscaves:frostmint_spear"
+				type: "item"
+			}]
+			x: -3.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["6F70FFC626350268"]
+			description: [
+				"Có thể bắn hai viên kẹo cao su cùng một lúc"
+				"Vũ khí tầm xa. Có thể bị đánh sau khi bật ra khỏi tường"
+				"Sinh vật là một vũ khí kiểm soát nhóm tốt. Mọi"
+				"Một chồng kẹo cao su để làm đầy có thể được sử dụng trong năm"
+				"cú đánh."
+			]
+			entity_vis_size: 1.0f
+			id: "2FD96D67055D41B5"
+			shape: "square"
+			tasks: [{
+				id: "38E8719F3D043316"
+				item: {
+					Count: 1
+					id: "alexscaves:shot_gum"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: -2.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["3FDFFF60B6B1207F"]
+			description: ["Đặt trên mặt đất sẽ phát ra âm thanh thu hút sâu bọ"]
+			entity_vis_size: 1.0f
+			id: "486183A73B3C20A1"
+			tasks: [{
+				id: "0CB005A297774010"
+				item: "alexscaves:gobthumper"
+				type: "item"
+			}]
+			x: -6.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["6F70FFC626350268"]
+			description: [
+				"Đôi bốt có độ co giãn cao đến mức người mang có thể mang chúng"
+				"Thiệt hại do rơi khi va chạm với mặt đất được bù đắp."
+				"Nó cũng để lại vệt cầu vồng khi nảy lên."
+			]
+			entity_vis_size: 1.0f
+			id: "6C979D488A833303"
+			shape: "square"
+			tasks: [{
+				id: "5460C0FCA96C05C3"
+				item: {
+					Count: 1
+					id: "alexscaves:rainbounce_boots"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -4.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["6F70FFC626350268"]
+			description: [
+				"Lấy được: Người đàn ông bánh gừng &a &r sẽ ăn trộm đồ ngọt quý hiếm và cất chúng trong thùng bánh gừng &a &r."
+				"Khi thùng bánh gừng đầy, nó sẽ được chuyển thành một thiết bị làm bánh gừng."
+				""
+				"Tác dụng: Độ bền &c &r càng thấp thì phần thưởng tốc độ &a nhận được càng cao."
+				"(Trang bị này khá đặc biệt, nó có độ bền &c và &r!)"
+			]
+			entity_vis_size: 1.0f
+			id: "78E6FD7F51633C6F"
+			shape: "square"
+			tasks: [
+				{
+					id: "4878F4D1CCD983EF"
+					item: {
+						Count: 1
+						id: "alexscaves:gingerbread_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "13C0A9EF8B1A61A5"
+					item: {
+						Count: 1
+						id: "alexscaves:gingerbread_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "6A55BCD48060EE35"
+					item: {
+						Count: 1
+						id: "alexscaves:gingerbread_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "798E7853C2062417"
+					item: {
+						Count: 1
+						id: "alexscaves:gingerbread_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: -4.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["6F70FFC626350268"]
+			entity_vis_size: 1.0f
+			id: "7DEECB9938ADD49C"
+			tasks: [{
+				id: "0E0D47E80E697664"
+				item: "alexscaves:radiant_essence"
+				type: "item"
+			}]
+			x: -4.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["7DEECB9938ADD49C"]
+			description: [
+				"Người chơi có thể được cứu sau khi ăn"
+				"Vị trí trạm &a quần xã &r thông tin"
+				""
+				"Ném nó vào lò phản ứng kẹo &e &r để thay đổi"
+				"Quần xã nơi đặt Lò phản ứng kẹo"
+			]
+			entity_vis_size: 1.0f
+			id: "6D4487D7282A4A5F"
+			tasks: [{
+				id: "621CEAEA82328429"
+				item: "alexscaves:biome_treat"
+				type: "item"
+			}]
+			x: -6.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["7DEECB9938ADD49C"]
+			description: [
+				"Ném kẹo quần xã sẽ nhắc bạn về những nguyên liệu cần thiết."
+				"Ném từng vật liệu vào. Sau khi hoàn thành, bạn có thể thay đổi quần xã hiện tại."
+			]
+			entity_vis_size: 1.0f
+			id: "111323DD3CABEE23"
+			tasks: [{
+				id: "1D61F1F3E9725E14"
+				item: "alexscaves:conversion_crucible"
+				type: "item"
+			}]
+			x: -6.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["6F70FFC626350268"]
+			description: ["Thức ăn không giới hạn có thể được lưu trữ và tự động cho người chơi ăn"]
+			entity_vis_size: 1.0f
+			id: "453DFA4CD5D3714A"
+			tasks: [{
+				id: "50345EC6E6A9517F"
+				item: {
+					Count: 1
+					id: "alexscaves:sack_of_sating"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: -3.0d
+			y: -1.0d
+		}
+		{
+			disable_toast: true
+			entity_vis_size: 1.0f
+			icon: "alexscaves:submarine"
+			id: "1BACDD2F8641EFCF"
+			size: 0.5d
+			tasks: [{
+				biome: "alexscaves:abyssal_chasm"
+				disable_toast: true
+				id: "30BFD9A9DEE66FCE"
+				title: "Khám Phá Quần Xã: Hang Abyssal"
+				type: "biome"
+			}]
+			x: 2.0d
+			y: -2.0d
+		}
+		{
+			disable_toast: true
+			entity_vis_size: 1.0f
+			icon: "alexscaves:large_peppermint"
+			id: "73DAE2EE1FD4D349"
+			size: 0.5d
+			tasks: [{
+				biome: "alexscaves:candy_cavity"
+				disable_toast: true
+				id: "35626B5C01C95A40"
+				title: "Khám phá quần xã: Hang kẹo"
+				type: "biome"
+			}]
+			x: 2.5d
+			y: -2.0d
+		}
+		{
+			disable_toast: true
+			entity_vis_size: 1.0f
+			icon: "alexscaves:peering_coprolith"
+			id: "70B0BC56FFD4ADFB"
+			size: 0.5d
+			tasks: [{
+				biome: "alexscaves:forlorn_hollows"
+				disable_toast: true
+				id: "376F7704D39FAF27"
+				title: "Khám phá quần thể sinh vật: Thung lũng Silent Hollow"
+				type: "biome"
+			}]
+			x: 3.0d
+			y: -2.0d
+		}
+		{
+			disable_toast: true
+			entity_vis_size: 1.0f
+			icon: "alexscaves:scarlet_magnet"
+			id: "5BCB574C6A7D3ABC"
+			size: 0.5d
+			tasks: [{
+				biome: "alexscaves:magnetic_caves"
+				disable_toast: true
+				id: "79A250DC8ED80C01"
+				title: "Khám phá quần xã: Hang Từ"
+				type: "biome"
+			}]
+			x: 3.5d
+			y: -2.0d
+		}
+		{
+			disable_toast: true
+			entity_vis_size: 1.0f
+			icon: "alexscaves:flytrap"
+			id: "371B42E5135389B8"
+			size: 0.5d
+			tasks: [{
+				biome: "alexscaves:primordial_caves"
+				disable_toast: true
+				id: "644719827770AC57"
+				title: "Khám Phá Quần Xã: Hang Nguyên Sinh"
+				type: "biome"
+			}]
+			x: 4.0d
+			y: -2.0d
+		}
+		{
+			disable_toast: true
+			entity_vis_size: 1.0f
+			icon: "alexscaves:waste_drum"
+			id: "6469D3C26D42E29B"
+			size: 0.5d
+			tasks: [{
+				biome: "alexscaves:toxic_caves"
+				disable_toast: true
+				id: "40AE319B66C330CC"
+				title: "Thám hiểm quần xã: Hang độc"
+				type: "biome"
+			}]
+			x: 4.5d
+			y: -2.0d
+		}
+		{
+			dependencies: [
+				"0B81D53BA0BD85A0"
+				"701E207C3CECBF4C"
+				"4672D1CB3F654DA4"
+			]
+			dependency_requirement: "one_completed"
+			description: [
+				"&e (hoàn thành mọi điều kiện tiên quyết để mở khóa và nhận)&r"
+				"Chế độ cấp độ từ tính màu xanh lam cho phép người chơi lơ lửng trên mặt đất ở khoảng cách vài khối;"
+				""
+				"Chế độ cấp từ màu đỏ sẽ làm tăng trọng lực của mặt đất hướng về phía người chơi (đủ để bỏ qua hiệu ứng nổi nhưng người chơi vẫn có thể nhảy bình thường)."
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "raccompat:polar_boot"
+				tag: {
+					abilities: {
+						polarity: {
+							points: 0
+							stats: {
+								speed: 0.94299d
+							}
+							temp: {
+								ticking: 0b
+							}
+						}
+					}
+					leveling: {
+						experience: 13
+					}
+				}
+			}
+			id: "3425260B777A71FE"
+			rewards: [{
+				id: "1787DA6E01C8F6E7"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "raccompat:polar_boot"
+					tag: {
+						abilities: {
+							polarity: {
+								points: 0
+								stats: {
+									speed: 0.94299d
+								}
+								temp: {
+									ticking: 0b
+								}
+							}
+						}
+						leveling: {
+							experience: 13
+						}
+					}
+				}
+				type: "item"
+			}]
+			shape: "square"
+			tasks: [{
+				id: "63B749CC73540747"
+				type: "checkmark"
+			}]
+			title: "ủng từ tính"
+			x: -4.0d
+			y: -3.0d
+		}
+		{
+			dependencies: [
+				"49C78BA0BA6FD7F0"
+				"459B39B24E2B9708"
+				"297B9B729D3AF68E"
+			]
+			dependency_requirement: "one_completed"
+			description: [
+				"&e (hoàn thành mọi điều kiện tiên quyết để mở khóa và nhận)&r"
+				"Khả năng bị động, mỗi lần tấn công trúng mục tiêu sẽ có cơ hội triệu hồi một thanh kiếm ảo ảnh đâm vào mục tiêu. Thanh kiếm ma sẽ kế thừa sát thương của vũ khí mà người chơi đang nắm giữ dựa trên tỷ lệ phần trăm;"
+				""
+				"Kỹ năng chủ động, chọn và triệu hồi nhiều lưỡi kiếm ma tại một vị trí mục tiêu và đâm mục tiêu cùng nhau."
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "raccompat:desolate_pendant"
+				tag: {
+					abilities: {
+						desolate: {
+							points: 0
+							stats: {
+								chance: 0.08814d
+								damage: 0.15382d
+							}
+						}
+						devastate: {
+							points: 0
+							stats: {
+								cooldown: 35.07102d
+								count: 1.31324d
+							}
+						}
+					}
+					leveling: {
+						experience: 28
+					}
+				}
+			}
+			id: "03E81F3698B37DDF"
+			rewards: [{
+				id: "415D0FEDB64A37D6"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "raccompat:desolate_pendant"
+					tag: {
+						abilities: {
+							desolate: {
+								points: 0
+								stats: {
+									chance: 0.08814d
+									damage: 0.15382d
+								}
+							}
+							devastate: {
+								points: 0
+								stats: {
+									cooldown: 35.07102d
+									count: 1.31324d
+								}
+							}
+						}
+						leveling: {
+							experience: 28
+						}
+					}
+				}
+				type: "item"
+			}]
+			shape: "square"
+			tasks: [{
+				id: "60A637588C2564FF"
+				type: "checkmark"
+			}]
+			title: "Mặt dây chuyền Yiji"
+			x: -0.5d
+			y: -5.5d
+		}
+		{
+			dependencies: ["706A8C579F16E335"]
+			description: [
+				"Cho phép người chơi di chuyển trên bề mặt axit (không chìm vào đó và miễn nhiễm với tác hại ăn mòn của axit);"
+				""
+				"Sau khi người chơi ở trên bề mặt axit đủ lâu, họ cũng có thể để lại dấu vết vết độc khi bước đi (những sinh vật khác bước vào sẽ bị hư hại)."
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "raccompat:acid_walker"
+				tag: {
+					abilities: {
+						walking: {
+							points: 0
+							stats: {
+								duration: 10.59444d
+							}
+						}
+					}
+					leveling: {
+						experience: 8
+					}
+				}
+			}
+			id: "7CA2F44381F23AEC"
+			rewards: [{
+				id: "5C7C43EC98A3DCC8"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "raccompat:acid_walker"
+					tag: {
+						abilities: {
+							walking: {
+								points: 0
+								stats: {
+									duration: 10.59444d
+								}
+							}
+						}
+						leveling: {
+							experience: 8
+						}
+					}
+				}
+				type: "item"
+			}]
+			shape: "square"
+			tasks: [{
+				id: "3E2C928D3808F3D2"
+				type: "checkmark"
+			}]
+			title: "Axit Walker"
+			x: -2.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["65953C67B9A1E65B"]
+			description: ["Sau khi sử dụng, một cây nho cổ thụ có thể được tạo ra hướng lên trên theo vị trí của khối hoàn chỉnh gần đầu người chơi nhất để người chơi leo lên."]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "raccompat:vine_ring"
+				tag: {
+					abilities: {
+						vine: {
+							points: 0
+							stats: {
+								cooldown: 26.93109d
+								length: 12.75073d
+							}
+						}
+					}
+					leveling: {
+						experience: 3
+					}
+				}
+			}
+			id: "2FC2BC81C8545DFE"
+			rewards: [{
+				id: "3075FE1C6D94DACF"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "raccompat:vine_ring"
+					tag: {
+						abilities: {
+							vine: {
+								points: 0
+								stats: {
+									cooldown: 26.93109d
+									length: 12.75073d
+								}
+							}
+						}
+						leveling: {
+							experience: 3
+						}
+					}
+				}
+				type: "item"
+			}]
+			shape: "square"
+			tasks: [{
+				id: "5621DDA44EED1B75"
+				type: "checkmark"
+			}]
+			title: "vòng leo"
+			x: 5.5d
+			y: -2.0d
+		}
+	]
+	title: "Hang Alex"
+}

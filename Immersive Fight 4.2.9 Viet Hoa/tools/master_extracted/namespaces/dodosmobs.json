@@ -1,0 +1,52 @@
+{
+  "itemGroup.dodosmobs.item": {
+    "en": "Dodo's Mods Item",
+    "zh": "Dodo's Mods物品",
+    "vi": "Vật phẩm mod của Dodo"
+  },
+  "item.dodosmobs.amalgam_claws": {
+    "en": "Amalgam Claws",
+    "zh": "融合利爪",
+    "vi": "Amalgam Claws"
+  },
+  "item.dodosmobs.chimera_armor_chestplate": {
+    "en": "Chimera Armor Chestplate",
+    "zh": "骸骨胸甲",
+    "vi": "Chimera Armor Chestplate"
+  },
+  "item.dodosmobs.chimera_claw": {
+    "en": "Chimera Claw",
+    "zh": "骸骨爪",
+    "vi": "Chimera Claw"
+  },
+  "item.dodosmobs.bone_chimera_spawn_egg": {
+    "en": "Bone Chimera Spawn Egg",
+    "zh": "骸骨奇美拉刷怪蛋",
+    "vi": "Bone Chimera Spawn Egg"
+  },
+  "entity.dodosmobs.bone_chimera": {
+    "en": "Bone Chimera",
+    "zh": "骸骨奇美拉",
+    "vi": "Bone Chimera"
+  },
+  "effect.dodosmobs.wound": {
+    "en": "Wound",
+    "zh": "创伤",
+    "vi": "tổn thương"
+  },
+  "death.attack.dodosmobs.wound": {
+    "en": "The wound has opened up.",
+    "zh": "创口崩裂而亡",
+    "vi": "Tử vong do vết thương gãy"
+  },
+  "death.attack.dodosmobs.wound.player": {
+    "en": "The wound has opened up",
+    "zh": "因创口崩裂而死于%s手中",
+    "vi": "Chết dưới tay %s do vết thương sụp đổ"
+  },
+  "entity.dodosmobs.dead_horn": {
+    "en": " Dead Horn",
+    "zh": "寂灭角兽",
+    "vi": " Dead Horn"
+  }
+}

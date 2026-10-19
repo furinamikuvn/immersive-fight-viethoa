@@ -1,0 +1,297 @@
+{
+  "itemGroup.ringsofascension": {
+    "en": "Rings of Ascension",
+    "zh": "提升戒指",
+    "vi": "Nhẫn thăng thiên"
+  },
+  "item.ringsofascension.ring_fire_resistance": {
+    "en": "Ring of Fire Resistance",
+    "zh": "抗火戒指",
+    "vi": "Ring of Fire Resistance"
+  },
+  "item.ringsofascension.ring_invisibility": {
+    "en": "Ring of Invisibility",
+    "zh": "隐身戒指(已禁用)",
+    "vi": "Ring of Invisibility"
+  },
+  "item.ringsofascension.ring_regeneration": {
+    "en": "Ring of Regeneration",
+    "zh": "再生戒指",
+    "vi": "Ring of Regeneration"
+  },
+  "item.ringsofascension.ring_slow_falling": {
+    "en": "Ring of Slow Falling",
+    "zh": "羽落戒指",
+    "vi": "Ring of Slow Falling"
+  },
+  "item.ringsofascension.ring_strength": {
+    "en": "Ring of Strength",
+    "zh": "力量戒指",
+    "vi": "Ring of Strength"
+  },
+  "item.ringsofascension.ring_stun": {
+    "en": null,
+    "zh": "击晕免疫戒指",
+    "vi": "Vòng miễn nhiễm choáng"
+  },
+  "item.ringsofascension.ring_water_breathing": {
+    "en": "Ring of Water Breathing",
+    "zh": "水下呼吸戒指",
+    "vi": "Ring of Water Breathing"
+  },
+  "item.ringsofascension.ring_speed": {
+    "en": "Ring of Speed",
+    "zh": "疾风戒指",
+    "vi": "Ring of Speed"
+  },
+  "item.ringsofascension.ring_night_vision": {
+    "en": "Ring of Night Vision",
+    "zh": "夜视戒指",
+    "vi": "Ring of Night Vision"
+  },
+  "item.ringsofascension.ring_jump_boost": {
+    "en": "Ring of Jump Boost",
+    "zh": "灵跃戒指",
+    "vi": "Ring of Jump Boost"
+  },
+  "item.ringsofascension.ring_mining": {
+    "en": "Ring of Mining",
+    "zh": "急迫戒指",
+    "vi": "Ring of Mining"
+  },
+  "item.ringsofascension.ring_magnetism": {
+    "en": "Ring of Magnetism",
+    "zh": "磁力戒指",
+    "vi": "Ring of Magnetism"
+  },
+  "item.ringsofascension.ring_flight": {
+    "en": "Ring of Flight",
+    "zh": "飞行戒指(已禁用)",
+    "vi": "Ring of Flight"
+  },
+  "item.ringsofascension.ring_poison_resistance": {
+    "en": "Ring of Poison Resistance",
+    "zh": "抗毒戒指",
+    "vi": "Ring of Poison Resistance"
+  },
+  "item.ringsofascension.ring_hungerless": {
+    "en": "Ring of Hungerless",
+    "zh": "饱腹戒指(已禁用)",
+    "vi": "Ring of Hungerless"
+  },
+  "item.ringsofascension.ring_growth": {
+    "en": "Ring of Growth",
+    "zh": "生长戒指",
+    "vi": "Ring of Growth"
+  },
+  "item.ringsofascension.ring_knockback_resistance": {
+    "en": "Ring of Knockback Resistance",
+    "zh": "击退抗性戒指",
+    "vi": "Ring of Knockback Resistance"
+  },
+  "item.ringsofascension.ring_health": {
+    "en": "Ring of Max Health",
+    "zh": "生命戒指",
+    "vi": "Ring of Max Health"
+  },
+  "item.ringsofascension.ring_sponge": {
+    "en": "Ring of Sponge",
+    "zh": "海绵戒指",
+    "vi": "Ring of Sponge"
+  },
+  "item.ringsofascension.ring_lava_sponge": {
+    "en": "Ring of Lava Sponge",
+    "zh": "熔岩海绵戒指",
+    "vi": "Ring of Lava Sponge"
+  },
+  "item.ringsofascension.ring_experience": {
+    "en": "Ring of Experience",
+    "zh": "经验戒指",
+    "vi": "Ring of Experience"
+  },
+  "item.ringsofascension.ring_water_walking": {
+    "en": "Ring of Water Walking",
+    "zh": "水上行走戒指",
+    "vi": "Ring of Water Walking"
+  },
+  "item.ringsofascension.ring_luck": {
+    "en": "Ring of Luck",
+    "zh": "幸运戒指",
+    "vi": "Ring of Luck"
+  },
+  "item.ringsofascension.ring_wither": {
+    "en": "Ring of Wither",
+    "zh": "凋零戒指",
+    "vi": "Ring of Wither"
+  },
+  "item.ringsofascension.ring_undying": {
+    "en": "Ring of Undying",
+    "zh": "复生戒指",
+    "vi": "Ring of Undying"
+  },
+  "item.ringsofascension.ring_slow_resistance": {
+    "en": "Ring of Slowness Resistance",
+    "zh": "抗缓戒指",
+    "vi": "Ring of Slowness Resistance"
+  },
+  "item.ringsofascension.ring_dolphin": {
+    "en": "Ring of Dolphin",
+    "zh": "海豚恩惠戒指",
+    "vi": "Ring of Dolphin"
+  },
+  "item.ringsofascension.ring_steadfast_steps": {
+    "en": "Ring of Steadfast Steps",
+    "zh": "稳健踏步戒指",
+    "vi": "Ring of Steadfast Steps"
+  },
+  "tooltip.ringsofascension.worn": {
+    "en": "When worn as ring:",
+    "zh": "穿戴在戒指栏时：",
+    "vi": "Khi đeo vào rãnh vòng:"
+  },
+  "tooltip.ringsofascension.fire_resistance": {
+    "en": "Grants Fire Resistance Effect",
+    "zh": "获得抗火效果",
+    "vi": "Đạt được khả năng chống cháy"
+  },
+  "tooltip.ringsofascension.invisibility": {
+    "en": "Grants Invisibility Effect",
+    "zh": "获得隐身效果",
+    "vi": "Nhận được khả năng tàng hình"
+  },
+  "tooltip.ringsofascension.regeneration": {
+    "en": "Grants Regeneration Effect",
+    "zh": "获得生命恢复效果",
+    "vi": "Đạt được hiệu quả phục hồi cuộc sống"
+  },
+  "tooltip.ringsofascension.slow_falling": {
+    "en": "Grants Slow Falling Effect",
+    "zh": "获得缓降效果",
+    "vi": "Nhận hiệu ứng giảm tốc độ chậm"
+  },
+  "tooltip.ringsofascension.strength": {
+    "en": "Grants Strength Effect",
+    "zh": "获得力量效果",
+    "vi": "tăng sức mạnh hiệu ứng"
+  },
+  "tooltip.ringsofascension.stun": {
+    "en": null,
+    "zh": "获得击晕免疫效果",
+    "vi": "Nhận được khả năng miễn nhiễm với choáng"
+  },
+  "tooltip.ringsofascension.water_breathing": {
+    "en": "Grants Water Breathing Effect",
+    "zh": "获得水下呼吸效果",
+    "vi": "Nhận hiệu ứng thở dưới nước"
+  },
+  "tooltip.ringsofascension.speed": {
+    "en": "Grants Speed Effect",
+    "zh": "获得速度效果",
+    "vi": "đạt được hiệu ứng tốc độ"
+  },
+  "tooltip.ringsofascension.night_vision": {
+    "en": "Grants Night Vision Effect",
+    "zh": "获得夜视效果",
+    "vi": "Nhận tầm nhìn ban đêm"
+  },
+  "tooltip.ringsofascension.jump_boost": {
+    "en": "Grants Jump Boost Effect",
+    "zh": "获得跳跃提升效果",
+    "vi": "Đạt được hiệu ứng tăng cường nhảy"
+  },
+  "tooltip.ringsofascension.mining": {
+    "en": "Grants Haste Effect",
+    "zh": "获得急迫效果",
+    "vi": "đạt được hiệu ứng khẩn cấp"
+  },
+  "tooltip.ringsofascension.luck": {
+    "en": "Grants Luck Effect",
+    "zh": "获得幸运效果",
+    "vi": "nhận được hiệu ứng may mắn"
+  },
+  "tooltip.ringsofascension.dolphin": {
+    "en": "Grants Dolphin's Grace Effect",
+    "zh": "获得海豚的恩惠效果",
+    "vi": "Nhận được sự ưu ái của cá heo"
+  },
+  "tooltip.ringsofascension.magnetism": {
+    "en": "Pull items toward the player",
+    "zh": "吸取附近的掉落物",
+    "vi": "Hấp thụ các vật rơi gần đó"
+  },
+  "tooltip.ringsofascension.flight": {
+    "en": "Grants Creative Flight",
+    "zh": "获得飞行能力",
+    "vi": "Đạt được khả năng bay"
+  },
+  "tooltip.ringsofascension.poison_resistance": {
+    "en": "Grants Immunity to Poison",
+    "zh": "免疫中毒效果",
+    "vi": "Khả năng miễn dịch đối với tác dụng ngộ độc"
+  },
+  "tooltip.ringsfascension.hungerless": {
+    "en": null,
+    "zh": "持续恢复饱食度",
+    "vi": "Liên tục khôi phục cảm giác no"
+  },
+  "tooltip.ringsofascension.growth": {
+    "en": "Grow nearby crops faster",
+    "zh": "使附近的作物快速生长",
+    "vi": "Làm cho cây trồng gần đó phát triển nhanh chóng"
+  },
+  "tooltip.ringsofascension.sponge": {
+    "en": "Remove all nearby water blocks",
+    "zh": "吸干附近的水",
+    "vi": "Xả nước gần đó"
+  },
+  "tooltip.ringsofascension.lava_sponge": {
+    "en": "Remove all nearby lava blocks",
+    "zh": "吸干附近的岩浆",
+    "vi": "Xả dung nham gần đó"
+  },
+  "tooltip.ringsofascension.experience": {
+    "en": "Pull xp orbs toward the player",
+    "zh": "吸取附近的经验球",
+    "vi": "Hấp thụ quả cầu kinh nghiệm gần đó"
+  },
+  "tooltip.ringsofascension.water_walking": {
+    "en": "Lets the player walk on water",
+    "zh": "让玩家可以在水上行走",
+    "vi": "Cho phép người chơi đi bộ trên mặt nước"
+  },
+  "tooltip.ringsofascension.wither": {
+    "en": "Grants Immunity to Wither Effect",
+    "zh": "免疫凋零效果",
+    "vi": "Hiệu ứng suy giảm miễn dịch"
+  },
+  "tooltip.ringsofascension.undying": {
+    "en": "Prevents you from dying",
+    "zh": "抵御死亡",
+    "vi": "chống lại cái chết"
+  },
+  "tooltip.ringsofascension.slow_resistance": {
+    "en": "Grants Immunity to Slowness",
+    "zh": "免疫缓慢效果",
+    "vi": "Hiệu ứng miễn dịch chậm"
+  },
+  "tooltip.ringsofascension.steadfast_steps": {
+    "en": "Grants Step Assist",
+    "zh": "给予平滑上坡辅助",
+    "vi": "Cung cấp hỗ trợ lên dốc trơn tru"
+  },
+  "tooltip.ringsofascension.slot": {
+    "en": "Slot: ",
+    "zh": "插槽：",
+    "vi": "Chỗ:"
+  },
+  "tooltip.ringsofascension.ring": {
+    "en": "Ring",
+    "zh": "戒指",
+    "vi": "nhẫn"
+  },
+  "tooltip.ringsofascension.hungerless": {
+    "en": "Keeps the hunger bar always full",
+    "zh": "维持满饥饿度",
+    "vi": null
+  }
+}

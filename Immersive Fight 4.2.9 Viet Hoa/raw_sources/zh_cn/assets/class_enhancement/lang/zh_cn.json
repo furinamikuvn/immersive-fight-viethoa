@@ -1,0 +1,28 @@
+{
+  "gui.linggango.class_enhancement.screen_title": "§l职业选择",
+  "gui.linggango.class_enhancement.loading": "§l正在发放初始装备",
+  "gui.linggango.class_enhancement.confirm": "§l确认",
+  "gui.linggango.class_enhancement.title": "§l职业选择",
+  "gui.linggango.class_enhancement.navigation_guide": "§l↑↓ / W/S 选择 • ENTER 确认",
+  "gui.linggango.class_enhancement.starting_equipment": "§l初始装备",
+
+  "class.linggango.class_enhancement.warrior.name": "骑士",
+  "class.linggango.class_enhancement.warrior.desc": "生来便是挥剑之人。",
+
+  "class.linggango.class_enhancement.ranger.name": "游侠",
+  "class.linggango.class_enhancement.ranger.desc": "身形敏捷，箭无虚发。",
+
+  "class.linggango.class_enhancement.tank.name": "重装",
+  "class.linggango.class_enhancement.tank.desc": "天生体魄强健，能够承受更多伤害。",
+
+  "class.linggango.class_enhancement.civilian.name": "平民",
+  "class.linggango.class_enhancement.civilian.desc": "属性无增减。生而平凡，毫无天赋。",
+
+  "class.linggango.class_enhancement.custom.name": "新职业",
+"class.linggango.class_enhancement.custom.desc0": "§o治疗自身与队友",
+"class.linggango.class_enhancement.custom.desc1": "§o适应恶劣环境",
+"class.linggango.class_enhancement.custom.desc2": "§o顶尖的战斗技巧",
+"class.linggango.class_enhancement.custom.desc3": "§o永不满足的食欲",
+"class.linggango.class_enhancement.custom.desc4": "§o精通各类武器",
+  "class.linggango.class_enhancement.custom.desc": "一条自定义的征途。"
+}

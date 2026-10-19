@@ -1,0 +1,75 @@
+{
+  "biomes": [
+    [
+      {
+        "type": "BIOME_TAG",
+        "negate": false,
+        "value": "forge:is_swamp"
+      }
+    ],
+    [
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "minecraft:mangrove_swamp"
+      }
+    ],
+    [
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "regions_unexplored:bayou"
+      },
+	  {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "regions_unexplored:old_growth_bayou"
+      },
+	  {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "regions_unexplored:fungal_fen"
+      }
+    ],
+    [
+      {
+        "type": "BIOME_TAG",
+        "negate": false,
+        "value": "minecraft:is_river"
+      },
+      {
+        "type": "BIOME_TAG",
+        "negate": true,
+        "value": "forge:is_cold"
+      }
+    ],
+    [
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "biomesoplenty:tropic_beach"
+      }
+    ],
+    [
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "terralith:orchid_swamp"
+      }
+    ],
+    [
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "terralith:red_oasis"
+      }
+    ],
+    [
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "terralith:warm_river"
+      }
+    ]
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "config.defaultoptions.title": {
+    "en": "Default Options",
+    "zh": null,
+    "vi": null
+  },
+  "config.defaultoptions.defaultDifficulty": {
+    "en": "Default Difficulty",
+    "zh": null,
+    "vi": null
+  },
+  "config.defaultoptions.defaultDifficulty.tooltip": {
+    "en": "The default difficulty selected for newly created worlds.",
+    "zh": null,
+    "vi": null
+  },
+  "config.defaultoptions.lockDifficulty": {
+    "en": "Lock Difficulty",
+    "zh": null,
+    "vi": null
+  },
+  "config.defaultoptions.lockDifficulty.tooltip": {
+    "en": "Set to true if the difficulty for new world's should be locked to the specific default. This cannot be unlocked by players without external tools! Probably a bad idea. I don't recommend. Why am I adding this option?",
+    "zh": null,
+    "vi": null
+  }
+}

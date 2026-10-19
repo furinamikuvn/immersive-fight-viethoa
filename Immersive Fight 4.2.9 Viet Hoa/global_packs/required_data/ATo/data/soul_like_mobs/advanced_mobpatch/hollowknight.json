@@ -1,0 +1,419 @@
+{
+    "model": "epicfight:entity/biped",
+    "armature": "epicfight:entity/biped",
+    "renderer": "minecraft:zombie",
+    "isHumanoid": true,
+    "faction": "neutral",
+    "attributes": {
+        "impact": 0.5,
+        "armor_negation": 10.0,
+        "max_strikes": 1,
+        "chasing_speed": 0.8,
+"max_stamina": 25,
+         "stamina_regan_multiply": 1.0,
+         "stamina_lose_multiply":2,
+                "scale": 1.1
+    },
+    "default_livingmotions": {
+        "idle": "epicfight:biped/living/idle",
+        "walk": "epicfight:biped/living/walk",
+        "chase": "epicfight:biped/living/walk",
+        "mount": "epicfight:biped/living/mount",
+                "fall": "epicfight:biped/living/fall",
+        "death": "epicfight:biped/living/death"
+    },
+    "stun_animations": {
+        "short": "epicfight:biped/combat/hit_short",
+        "long": "epicfight:biped/combat/hit_long",
+        "knockdown": "epicfight:biped/combat/knockdown",
+        "fall": "epicfight:biped/living/landing",
+        "neutralize": "epicfight:biped/skill/guard_break2"
+    },
+"custom_guard_motion": [    
+{ 
+                  "weapon_categories": ["longsword"], 
+                  "style":"common", 	
+                  "guard": "indestructible:guard/guard_longsword",  
+		  "stamina_cost_multiply": 0.8, 	  
+		  "can_block_projectile" : false     
+            }
+],
+    "combat_behavior": [
+       
+{
+            "weapon_categories": ["longsword"],
+            "style": "one_hand",
+            "behavior_series": [
+{
+					"weight": 50.0,
+					"canBeInterrupted": true,
+					"looping": false,
+					"behaviors": [					
+						{
+							"conditions": [
+								{"predicate":"within_eye_height"}, {"predicate":"within_distance", "min": 0.0, "max": 5.0}
+							],
+							"guard": 20, 			
+							"counter": "wom:biped/combat/ruine_auto_2",
+							"counter_cost": 5, 		
+							"counter_chance": 0.2, 			
+							"counter_speed": 0.7		
+						}
+                    ]                 
+				},
+
+{
+                    "weight": 100.0,
+                    "canBeInterrupted": false,
+                    "looping": false,
+                    "behaviors": [
+                        {
+                            "conditions": [
+                                {"predicate":"within_eye_height"}, {"predicate":"within_distance", "min": 4.2, "max": 6.4}, {"predicate":"within_angle_horizontal", "min": 0.0, "max": 180.0}
+                            ],
+                            "animation": "epicfight:biped/combat/longsword_dash",
+                                             "stamina": 2,
+			"convert_time": 0.2
+                        },
+                        {
+                            "conditions": [
+                                {"predicate":"within_eye_height"}, {"predicate":"within_distance", "min": 0.0, "max": 4.2}, {"predicate":"within_angle_horizontal", "min": 0.0, "max": 180.0}, {"predicate":"random_chance", "chance": 0.5}
+                            ],
+                            "animation": "epicfight:biped/combat/longsword_auto1",
+                                             "stamina": 2,
+			"convert_time": 0.2
+                        },
+                        {
+                            "conditions": [
+                                {"predicate":"within_eye_height"}, {"predicate":"within_distance", "min": 0.0, "max": 4.3}, {"predicate":"within_angle_horizontal", "min": 0.0, "max": 180.0}
+                            ],
+                            "animation": "epicfight:biped/combat/longsword_auto2",
+                                             "stamina": 2,
+			"convert_time": 0.2
+                        },
+                        {
+                            "conditions": [
+                                {"predicate":"within_eye_height"}, {"predicate":"within_distance", "min": 0.0, "max": 4.5}, {"predicate":"within_angle_horizontal", "min": 0.0, "max": 180.0}
+                            ],
+                            "animation": "epicfight:biped/combat/longsword_auto3",
+                                             "stamina": 2,
+			"convert_time": 0.2
+                        }
+                    ]
+                },
+{
+                    "weight": 100.0,
+                    "canBeInterrupted": false,
+                    "looping": true,
+                    "behaviors": [
+                        {
+                            "conditions": [
+                                {"predicate":"within_eye_height"}, {"predicate":"within_distance", "min": 0.0, "max": 2.8}, {"predicate":"within_angle_horizontal", "min": 0.0, "max": 180.0}, {"predicate":"random_chance", "chance": 0.5}
+                            ],
+                            "animation": "epicfight:biped/combat/longsword_airslash",
+                                             "stamina": 2,
+			"convert_time": 0.2
+                        }
+                    ]
+                },
+{
+                    "weight": 100.0,
+                    "canBeInterrupted": false,
+                    "looping": true,
+                    "behaviors": [
+                        {
+                            "conditions": [
+                                {"predicate":"within_eye_height"}, {"predicate":"within_distance", "min": 0.0, "max": 3.6}, {"predicate":"within_angle_horizontal", "min": 0.0, "max": 180.0}, {"predicate":"random_chance", "chance": 0.3}
+                            ],
+                            "animation": "epicfight:biped/skill/heartpiercer",
+                                             "stamina": 5,
+			"convert_time": 0.2
+                        },
+                        {
+                            "conditions": [
+                                {"predicate":"within_eye_height"}, {"predicate":"within_distance", "min": 0.0, "max": 4.2}, {"predicate":"within_angle_horizontal", "min": 0.0, "max": 180.0}, {"predicate":"random_chance", "chance": 0.5}
+                            ],
+                            "animation": "epicfight:biped/combat/longsword_auto1",
+                                             "stamina": 2,
+			"convert_time": 0.2
+                        },
+                        {
+                            "conditions": [
+                                {"predicate":"within_eye_height"}, {"predicate":"within_distance", "min": 0.0, "max": 4.3}, {"predicate":"within_angle_horizontal", "min": 0.0, "max": 180.0}
+                            ],
+                            "animation": "epicfight:biped/combat/longsword_auto2",
+                                             "stamina": 2,
+			"convert_time": 0.2
+                        },
+                        {
+                            "conditions": [
+                                {"predicate":"within_eye_height"}, {"predicate":"within_distance", "min": 0.0, "max": 4.5}, {"predicate":"within_angle_horizontal", "min": 0.0, "max": 180.0}
+                            ],
+                            "animation": "epicfight:biped/combat/longsword_auto3",
+                                             "stamina": 2,
+			"convert_time": 0.2
+                        }
+                    ]
+                },
+{
+                    "weight": 100.0,
+                    "canBeInterrupted": false,
+                    "looping": true,
+                    "behaviors": [
+                        {
+                            "conditions": [
+                                {"predicate":"within_eye_height"}, {"predicate":"within_distance", "min": 0.0, "max": 4.2}, {"predicate":"within_angle_horizontal", "min": 0.0, "max": 180.0}, {"predicate":"random_chance", "chance": 0.5}
+                            ],
+                            "animation": "epicfight:biped/combat/longsword_auto1",
+                                             "stamina": 2,
+			"convert_time": 0.2
+                        },
+                        {
+                            "conditions": [
+                                {"predicate":"within_eye_height"}, {"predicate":"within_distance", "min": 0.0, "max": 4.3}, {"predicate":"within_angle_horizontal", "min": 0.0, "max": 180.0}
+                            ],
+                            "animation": "epicfight:biped/combat/longsword_auto2",
+                                             "stamina": 2,
+			"convert_time": 0.2
+                        },
+                        {
+                            "conditions": [
+                                {"predicate":"within_eye_height"}, {"predicate":"within_distance", "min": 0.0, "max": 4.5}, {"predicate":"within_angle_horizontal", "min": 0.0, "max": 180.0}
+                            ],
+                            "animation": "epicfight:biped/combat/longsword_auto3",
+                                             "stamina": 2,
+			"convert_time": 0.2
+                        }
+                    ]
+                },
+{
+                    "weight": 100.0,
+                    "canBeInterrupted": true,
+                    "looping": false,
+                    "cooldown": 40,
+                    "behaviors": [
+{
+                            "conditions": [
+                                {"predicate":"within_eye_height"}, {"predicate":"within_distance", "min": 0.0, "max": 4.1}
+                            ],
+                            "animation": "epicfight:biped/skill/step_backward",
+                                             "stamina": 3,
+			"convert_time": 0.2
+                        }
+                    ]
+                }
+           ]
+        },
+
+        {
+            "weapon_categories": ["tachi"],
+            "style": "common",
+            "behavior_series": [
+{
+                    "weight": 100.0,
+                    "canBeInterrupted": false,
+                    "looping": false,
+                    "behaviors": [
+                        {
+                            "conditions": [
+                                {"predicate":"within_eye_height"}, {"predicate":"within_distance", "min": 5.7, "max": 6.4}, {"predicate":"within_angle_horizontal", "min": 0.0, "max": 180.0}
+                            ],
+                            "animation": "epicfight:biped/combat/tachi_dash",
+							                                             "stamina": 2,
+			"convert_time": 0.2
+                        },
+                        {
+                            "conditions": [
+                                {"predicate":"within_eye_height"}, {"predicate":"within_distance", "min": 0.0, "max": 5.7}, {"predicate":"within_angle_horizontal", "min": 0.0, "max": 180.0}
+                            ],
+                            "animation": "epicfight:biped/combat/tachi_auto1",
+							                                             "stamina": 2,
+			"convert_time": 0.2
+                        },
+                        {
+                            "conditions": [
+                                {"predicate":"within_eye_height"}, {"predicate":"within_distance", "min": 0.0, "max": 3.9}, {"predicate":"within_angle_horizontal", "min": 0.0, "max": 180.0}
+                            ],
+                            "animation": "epicfight:biped/combat/tachi_auto2",
+							                                             "stamina": 2,
+			"convert_time": 0.2
+                        },
+                        {
+                            "conditions": [
+                                {"predicate":"within_eye_height"}, {"predicate":"within_distance", "min": 0.0, "max": 4.7}, {"predicate":"within_angle_horizontal", "min": 0.0, "max": 180.0}
+                            ],
+                            "animation": "epicfight:biped/combat/tachi_auto3",
+							                                             "stamina": 2,
+			"convert_time": 0.2
+                        }
+                    ]
+                },
+{
+                    "weight": 50.0,
+                    "canBeInterrupted": false,
+                    "looping": true,
+					                    "cooldown": 40,
+                    "behaviors": [
+                        {
+                            "conditions": [
+                                {"predicate":"within_eye_height"}, {"predicate":"within_distance", "min": 0.0, "max": 3.1}, {"predicate":"within_angle_horizontal", "min": 0.0, "max": 180.0}, {"predicate":"random_chance", "chance": 0.5}
+                            ],
+                            "animation": "epicfight:biped/combat/longsword_airslash",
+							                                             "stamina": 3,
+			"convert_time": 0.2
+                        }
+                    ]
+                },
+{
+                    "weight": 200.0,
+                    "canBeInterrupted": true,
+                    "looping": true,
+                    "behaviors": [
+                        {
+                            "conditions": [
+                                {"predicate":"within_eye_height"}, {"predicate":"within_distance", "min": 0.0, "max": 5.7}, {"predicate":"within_angle_horizontal", "min": 0.0, "max": 180.0}
+                            ],
+                            "animation": "epicfight:biped/combat/tachi_auto1",
+							                                             "stamina": 2,
+			"convert_time": 0.2
+                        },
+                        {
+                            "conditions": [
+                                {"predicate":"within_eye_height"}, {"predicate":"within_distance", "min": 0.0, "max": 3.9}, {"predicate":"within_angle_horizontal", "min": 0.0, "max": 180.0}
+                            ],
+                            "animation": "epicfight:biped/combat/tachi_auto2",
+							                                             "stamina": 2,
+			"convert_time": 0.2
+                        },
+                        {
+                            "conditions": [
+                                {"predicate":"within_eye_height"}, {"predicate":"within_distance", "min": 0.0, "max": 4.7}, {"predicate":"within_angle_horizontal", "min": 0.0, "max": 180.0}
+                            ],
+                            "animation": "epicfight:biped/combat/tachi_auto3",
+							                                             "stamina": 2,
+			"convert_time": 0.2
+                        }
+                    ]
+                },
+{
+                    "weight": 100.0,
+                    "canBeInterrupted": false,
+                    "looping": true,
+                    "cooldown": 200,
+                    "behaviors": [
+                        {
+                            "conditions": [
+                                {"predicate":"within_eye_height"}, {"predicate":"within_distance", "min": 0.0, "max": 5.7}, {"predicate":"within_angle_horizontal", "min": 0.0, "max": 180.0}, {"predicate":"random_chance", "chance": 0.3}
+                            ],
+                            "animation": "epicfight:biped/combat/tachi_auto1",
+							                                             "stamina": 2,
+			"convert_time": 0.2
+                        },
+                        {
+                            "conditions": [
+                                {"predicate":"within_eye_height"}, {"predicate":"within_distance", "min": 0.0, "max": 5.2}, {"predicate":"within_angle_horizontal", "min": 0.0, "max": 60.0}
+                            ],
+                            "animation": "epicfight:biped/skill/rushing_tempo1",
+							                                             "stamina": 2,
+			"convert_time": 0.2
+                        },
+                        {
+                            "conditions": [
+                                {"predicate":"within_eye_height"}, {"predicate":"within_distance", "min": 0.0, "max": 3.9}, {"predicate":"within_angle_horizontal", "min": 0.0, "max": 60.0}
+                            ],
+                            "animation": "epicfight:biped/combat/tachi_auto2",
+							                                             "stamina": 2,
+			"convert_time": 0.2
+                        },
+                        {
+                            "conditions": [
+                                {"predicate":"within_eye_height"}, {"predicate":"within_distance", "min": 0.0, "max": 4.7}, {"predicate":"within_angle_horizontal", "min": 0.0, "max": 60.0}
+                            ],
+                            "animation": "epicfight:biped/combat/tachi_auto3",
+							                                             "stamina": 2,
+			"convert_time": 0.2
+                        }
+                    ]
+                },
+{
+                    "weight": 100.0,
+                    "canBeInterrupted": false,
+                    "looping": true,
+                    "cooldown": 200,
+                    "behaviors": [
+                        {
+                            "conditions": [
+                                {"predicate":"within_eye_height"}, {"predicate":"within_distance", "min": 0.0, "max": 5.7}, {"predicate":"within_angle_horizontal", "min": 0.0, "max": 60.0}, {"predicate":"random_chance", "chance": 0.3}
+                            ],
+                            "animation": "epicfight:biped/combat/tachi_auto1"
+                        },
+                        {
+                            "conditions": [
+                                {"predicate":"within_eye_height"}, {"predicate":"within_distance", "min": 0.0, "max": 3.9}, {"predicate":"within_angle_horizontal", "min": 0.0, "max": 60.0}
+                            ],
+                            "animation": "epicfight:biped/combat/tachi_auto2"
+                        },
+                        {
+                            "conditions": [
+                                {"predicate":"within_eye_height"}, {"predicate":"within_distance", "min": 0.0, "max": 5.3}, {"predicate":"within_angle_horizontal", "min": 0.0, "max": 60.0}
+                            ],
+                            "animation": "epicfight:biped/skill/rushing_tempo2"
+                        },
+                        {
+                            "conditions": [
+                                {"predicate":"within_eye_height"}, {"predicate":"within_distance", "min": 0.0, "max": 4.7}, {"predicate":"within_angle_horizontal", "min": 0.0, "max": 60.0}
+                            ],
+                            "animation": "epicfight:biped/combat/tachi_auto3"
+                        }
+                    ]
+                },
+{
+                    "weight": 100.0,
+                    "canBeInterrupted": false,
+                    "looping": true,
+                    "cooldown": 200,
+                    "behaviors": [
+                        {
+                            "conditions": [
+                                {"predicate":"within_eye_height"}, {"predicate":"within_distance", "min": 0.0, "max": 5.7}, {"predicate":"within_angle_horizontal", "min": 0.0, "max": 60.0}, {"predicate":"random_chance", "chance": 0.3}
+                            ],
+                            "animation": "epicfight:biped/combat/tachi_auto1"
+                        },
+                        {
+                            "conditions": [
+                                {"predicate":"within_eye_height"}, {"predicate":"within_distance", "min": 0.0, "max": 3.9}, {"predicate":"within_angle_horizontal", "min": 0.0, "max": 60.0}
+                            ],
+                            "animation": "epicfight:biped/combat/tachi_auto2"
+                        },
+                        {
+                            "conditions": [
+                                {"predicate":"within_eye_height"}, {"predicate":"within_distance", "min": 0.0, "max": 4.7}, {"predicate":"within_angle_horizontal", "min": 0.0, "max": 60.0}
+                            ],
+                            "animation": "epicfight:biped/combat/tachi_auto3"
+                        },
+                        {
+                            "conditions": [
+                                {"predicate":"within_eye_height"}, {"predicate":"within_distance", "min": 0.0, "max": 5.2}, {"predicate":"within_angle_horizontal", "min": 0.0, "max": 60.0}
+                            ],
+                            "animation": "epicfight:biped/skill/rushing_tempo3"
+                        }
+                    ]
+                },
+{
+                    "weight": 100.0,
+                    "canBeInterrupted": true,
+                    "looping": false,
+                    "cooldown": 40,
+                    "behaviors": [
+{
+                            "conditions": [
+                                {"predicate":"within_eye_height"}, {"predicate":"within_distance", "min": 0.0, "max": 5.6}
+                            ],
+                            "animation": "epicfight:biped/skill/step_backward"
+                        }
+                    ]
+                }
+            ]
+        }
+   ]
+}

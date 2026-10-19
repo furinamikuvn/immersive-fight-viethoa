@@ -1,0 +1,3322 @@
+{
+  "ftbquests": {
+    "en": "FTB Quests",
+    "zh": "FTB任务",
+    "vi": "nhiệm vụ FTB"
+  },
+  "block.ftbquests.screen.missing_data": {
+    "en": "Broken Block / Missing Data!",
+    "zh": "损坏方块/缺失数据！",
+    "vi": "Broken Block / Missing Data!"
+  },
+  "block.ftbquests.aux_task_screen": {
+    "en": "Task Screen",
+    "zh": "目标显示器",
+    "vi": "Task Screen"
+  },
+  "block.ftbquests.screen_1": {
+    "en": "Task Screen (1x1)",
+    "zh": "目标显示器（1x1）",
+    "vi": "Task Screen (1x1)"
+  },
+  "block.ftbquests.screen_3": {
+    "en": "Task Screen (3x3)",
+    "zh": "目标显示器（3x3）",
+    "vi": "Task Screen (3x3)"
+  },
+  "block.ftbquests.screen_5": {
+    "en": "Task Screen (5x5)",
+    "zh": "目标显示器（5x5）",
+    "vi": "Task Screen (5x5)"
+  },
+  "block.ftbquests.screen_7": {
+    "en": "Task Screen (7x7)",
+    "zh": "目标显示器（7x7）",
+    "vi": "Task Screen (7x7)"
+  },
+  "block.ftbquests.screen.task_index": {
+    "en": "Task Index",
+    "zh": "目标索引",
+    "vi": "Task Index"
+  },
+  "block.ftbquests.screen.size": {
+    "en": "Size",
+    "zh": "大小",
+    "vi": "Size"
+  },
+  "block.ftbquests.screen.skin": {
+    "en": "Skin",
+    "zh": "皮肤",
+    "vi": "Skin"
+  },
+  "block.ftbquests.screen.indestructible": {
+    "en": "Indestructible",
+    "zh": "无法破坏",
+    "vi": "Indestructible"
+  },
+  "block.ftbquests.screen.input_only": {
+    "en": "Input Only",
+    "zh": "仅输入",
+    "vi": "Input Only"
+  },
+  "block.ftbquests.screen.input_mode_icon": {
+    "en": "Input Mode Icon",
+    "zh": "输入模式图标",
+    "vi": "Input Mode Icon"
+  },
+  "block.ftbquests.screen.text_shadow": {
+    "en": "Draw Text Shadows",
+    "zh": "绘制文字阴影",
+    "vi": "Draw Text Shadows"
+  },
+  "block.ftbquests.screen.fullscreen": {
+    "en": "Fullscreen",
+    "zh": "全屏",
+    "vi": "Fullscreen"
+  },
+  "block.ftbquests.screen.hide_icons": {
+    "en": "Hide Icons",
+    "zh": "隐藏图标",
+    "vi": "Hide Icons"
+  },
+  "block.ftbquests.screen.no_permission": {
+    "en": "You don't have permission to configure this!",
+    "zh": "你没有配置此项的权限！",
+    "vi": "You don't have permission to configure this!"
+  },
+  "block.ftbquests.progress_detector": {
+    "en": "Quest Progress Detector",
+    "zh": "任务进程检测器",
+    "vi": "Quest Progress Detector"
+  },
+  "block.ftbquests.progress_detector.object": {
+    "en": "Object ID",
+    "zh": "对象ID",
+    "vi": "Object ID"
+  },
+  "block.ftbquests.progress_detector.level": {
+    "en": "Output Level",
+    "zh": "输出等级",
+    "vi": "Output Level"
+  },
+  "block.ftbquests.barrier": {
+    "en": "Quest Barrier",
+    "zh": "任务屏障",
+    "vi": "Quest Barrier"
+  },
+  "block.ftbquests.stage_barrier": {
+    "en": "Stage Barrier",
+    "zh": "阶段屏障",
+    "vi": "Stage Barrier"
+  },
+  "block.ftbquests.barrier.object": {
+    "en": "Object ID",
+    "zh": "对象ID",
+    "vi": "Object ID"
+  },
+  "block.ftbquests.detector": {
+    "en": "Quest Detector",
+    "zh": "任务检测器",
+    "vi": "Quest Detector"
+  },
+  "block.ftbquests.detector.task": {
+    "en": "Task",
+    "zh": "目标",
+    "vi": "Task"
+  },
+  "block.ftbquests.detector.notifications": {
+    "en": "Notifications",
+    "zh": "通知",
+    "vi": "Notifications"
+  },
+  "block.ftbquests.detector.redstone": {
+    "en": "Redstone Detector",
+    "zh": "红石检测器",
+    "vi": "Redstone Detector"
+  },
+  "block.ftbquests.detector.redstone.required_redstone": {
+    "en": "Required Redstone Level",
+    "zh": "需要红石信号",
+    "vi": "Required Redstone Level"
+  },
+  "block.ftbquests.detector.player": {
+    "en": "Player Detector",
+    "zh": "玩家检测器",
+    "vi": "Player Detector"
+  },
+  "block.ftbquests.detector.player.radius": {
+    "en": "Radius",
+    "zh": "半径",
+    "vi": "Radius"
+  },
+  "block.ftbquests.detector.player.offset_y": {
+    "en": "Offset Y",
+    "zh": "Y轴偏移",
+    "vi": "Offset Y"
+  },
+  "block.ftbquests.detector.player.height": {
+    "en": "Height",
+    "zh": "高度",
+    "vi": "Height"
+  },
+  "block.ftbquests.progress_screen": {
+    "en": "Progress Screen",
+    "zh": "进程显示器",
+    "vi": "Progress Screen"
+  },
+  "block.ftbquests.chest": {
+    "en": "Quest Chest",
+    "zh": "任务箱子",
+    "vi": "Quest Chest"
+  },
+  "block.ftbquests.chest.transfer_all": {
+    "en": "Auto-Transfer All Items",
+    "zh": "自动提交所有物品",
+    "vi": "Auto-Transfer All Items"
+  },
+  "block.ftbquests.chest.input": {
+    "en": "Input Slot",
+    "zh": "输入栏",
+    "vi": "Input Slot"
+  },
+  "block.ftbquests.chest.input_desc": {
+    "en": "Place items here to complete quests",
+    "zh": "将物品放在这里以完成任务",
+    "vi": "Place items here to complete quests"
+  },
+  "block.ftbquests.chest.output": {
+    "en": "Output Slot",
+    "zh": "输出栏",
+    "vi": "Output Slot"
+  },
+  "block.ftbquests.chest.output_desc": {
+    "en": "Rewards will appear here",
+    "zh": "奖励将出现在这里",
+    "vi": "Rewards will appear here"
+  },
+  "block.ftbquests.loot_crate_storage": {
+    "en": "Loot Crate Storage",
+    "zh": "战利品箱存储器",
+    "vi": "Loot Crate Storage"
+  },
+  "block.ftbquests.loot_crate_opener": {
+    "en": "Loot Crate Opener",
+    "zh": "战利品箱开启器",
+    "vi": "Loot Crate Opener"
+  },
+  "block.ftbquests.loot_crate_opener.rightclick": {
+    "en": "Stored items: %d",
+    "zh": "已存储物品：%d",
+    "vi": "Stored items: %d"
+  },
+  "item.ftbquests.book": {
+    "en": "Quest Book",
+    "zh": "任务书",
+    "vi": "Quest Book"
+  },
+  "item.ftbquests.missing_item": {
+    "en": "Missing Item",
+    "zh": "缺失物品",
+    "vi": "Missing Item"
+  },
+  "item.ftbquests.barrier.nogui": {
+    "en": "GUI is still work in progress",
+    "zh": "GUI仍在开发中",
+    "vi": "GUI is still work in progress"
+  },
+  "item.ftbquests.barrier.disabled": {
+    "en": "Only works in Editing Mode!",
+    "zh": "仅在编辑模式下工作！",
+    "vi": "Only works in Editing Mode!"
+  },
+  "item.ftbquests.barrier.config": {
+    "en": "Rename in anvil to set the Quest ID",
+    "zh": "在铁砧重命名来设置任务ID",
+    "vi": "Rename in anvil to set the Quest ID"
+  },
+  "item.ftbquests.stage_barrier.config": {
+    "en": "Rename in anvil to set the Stage",
+    "zh": "在铁砧上重命名以设置阶段",
+    "vi": "Rename in anvil to set the Stage"
+  },
+  "item.ftbquests.book.tooltip": {
+    "en": "Right-click to open quest window",
+    "zh": "右击打开任务窗口",
+    "vi": "Nhấp chuột phải để mở cửa sổ tác vụ"
+  },
+  "item.ftbquests.book.disabled": {
+    "en": "Quest Book GUI is disabled!",
+    "zh": "任务书GUI已禁用！",
+    "vi": "Quest Book GUI is disabled!"
+  },
+  "item.ftbquests.lootcrate": {
+    "en": "Loot Crate",
+    "zh": "战利品箱",
+    "vi": "Loot Crate"
+  },
+  "item.ftbquests.lootcrate.tooltip_1": {
+    "en": "Right-click to open",
+    "zh": "右击打开",
+    "vi": "Nhấp chuột phải để mở"
+  },
+  "item.ftbquests.lootcrate.tooltip_2": {
+    "en": "Sneak-right-click to open all in hand",
+    "zh": "潜行右击打开全部",
+    "vi": "Lén chuột phải để mở tất cả"
+  },
+  "item.ftbquests.custom_icon": {
+    "en": "Custom Icon",
+    "zh": "自定义图标",
+    "vi": "Custom Icon"
+  },
+  "item.ftbquests.custom_icon.tooltip": {
+    "en": "Right-click on 'Icon' in editor to open custom image selector",
+    "zh": "在编辑器中右击“图标”打开自定义图片选择器",
+    "vi": "Nhấp chuột phải vào \"Biểu tượng\" trong trình chỉnh sửa để mở bộ chọn hình ảnh tùy chỉnh"
+  },
+  "ftbquests.rarity.common": {
+    "en": "Common",
+    "zh": "常见",
+    "vi": "chung"
+  },
+  "ftbquests.rarity.uncommon": {
+    "en": "Uncommon",
+    "zh": "少见",
+    "vi": "Hiếm"
+  },
+  "ftbquests.rarity.rare": {
+    "en": "Rare",
+    "zh": "稀有",
+    "vi": "hiếm"
+  },
+  "ftbquests.rarity.epic": {
+    "en": "Epic",
+    "zh": "史诗",
+    "vi": "sử thi"
+  },
+  "ftbquests.rarity.legendary": {
+    "en": "Legendary",
+    "zh": "传说",
+    "vi": "huyền thoại"
+  },
+  "ftbquests.raymatcher.block_id": {
+    "en": "Block ID",
+    "zh": "方块ID",
+    "vi": "ID khối"
+  },
+  "ftbquests.raymatcher.block_entity_id": {
+    "en": "Block Entity ID",
+    "zh": "方块实体ID",
+    "vi": "Chặn ID thực thể"
+  },
+  "ftbquests.raymatcher.block_entity_class": {
+    "en": "Block Entity Class",
+    "zh": "方块实体类",
+    "vi": "Khối thực thể lớp"
+  },
+  "ftbquests.raymatcher.entity_id": {
+    "en": "Entity ID",
+    "zh": "实体ID",
+    "vi": "ID thực thể"
+  },
+  "ftbquests.raymatcher.entity_class": {
+    "en": "Entity Class",
+    "zh": "实体类",
+    "vi": "Lớp thực thể"
+  },
+  "itemGroup.ftbquests.ftbquests": {
+    "en": "FTB Quests",
+    "zh": "FTB任务",
+    "vi": "nhiệm vụ FTB"
+  },
+  "sidebar_button.ftbquests.quests": {
+    "en": "Quests",
+    "zh": "任务",
+    "vi": "Nhiệm vụ"
+  },
+  "sidebar_button.ftbquests.quests.no_team": {
+    "en": "Join a team to complete quests!",
+    "zh": "加入一个团队来完成任务！",
+    "vi": "Tham gia một nhóm để hoàn thành nhiệm vụ!"
+  },
+  "key.categories.ftbquests": {
+    "en": "FTB Quests",
+    "zh": "FTB任务",
+    "vi": "nhiệm vụ FTB"
+  },
+  "key.ftbquests.quests": {
+    "en": "Open Quests",
+    "zh": "打开任务",
+    "vi": "nhiệm vụ mở"
+  },
+  "ftbquests.unnamed": {
+    "en": "Unnamed",
+    "zh": "未命名",
+    "vi": "Vô danh"
+  },
+  "ftbquests.team": {
+    "en": "Team",
+    "zh": "团队",
+    "vi": "đội"
+  },
+  "ftbquests.progress": {
+    "en": "Progress",
+    "zh": "进程",
+    "vi": "quá trình"
+  },
+  "ftbquests.title": {
+    "en": "Title",
+    "zh": "标题",
+    "vi": "tiêu đề"
+  },
+  "ftbquests.task_title": {
+    "en": "Task Title",
+    "zh": "目标标题",
+    "vi": "tiêu đề mục tiêu"
+  },
+  "ftbquests.title.tooltip": {
+    "en": "Custom title",
+    "zh": "自定义标题",
+    "vi": "Tiêu đề tùy chỉnh"
+  },
+  "ftbquests.icon": {
+    "en": "Icon",
+    "zh": "图标",
+    "vi": "biểu tượng"
+  },
+  "ftbquests.icon.tooltip": {
+    "en": "Custom icon",
+    "zh": "自定义图标",
+    "vi": "Biểu tượng tùy chỉnh"
+  },
+  "ftbquests.tags": {
+    "en": "Tags",
+    "zh": "标签",
+    "vi": "Nhãn"
+  },
+  "ftbquests.tags.tooltip": {
+    "en": "Used for themes and KubeJS events",
+    "zh": "用于主题和KubeJS事件",
+    "vi": "Dành cho chủ đề và sự kiện KubeJS"
+  },
+  "ftbquests.completion_command": {
+    "en": "Completion Command",
+    "zh": "完成命令",
+    "vi": "Hoàn thành lệnh"
+  },
+  "ftbquests.dependencies": {
+    "en": "Dependencies",
+    "zh": "前置",
+    "vi": "tiền tố"
+  },
+  "ftbquests.dependency": {
+    "en": "Dependency",
+    "zh": "前置",
+    "vi": "tiền tố"
+  },
+  "ftbquests.null": {
+    "en": "None",
+    "zh": "无",
+    "vi": "không có"
+  },
+  "ftbquests.disable_completion_toast": {
+    "en": "Disable Completion Toast",
+    "zh": "禁用完成时的弹出消息",
+    "vi": "Tắt thông báo bật lên khi hoàn thành"
+  },
+  "ftbquests.file": {
+    "en": "Modpack",
+    "zh": "沉浸战斗",
+    "vi": "Hòa mình vào chiến đấu"
+  },
+  "ftbquests.file.completed": {
+    "en": "All chapters completed!",
+    "zh": "所有章节完成！",
+    "vi": "Tất cả các chương đã hoàn thành!"
+  },
+  "ftbquests.file.allow_take_quest_blocks": {
+    "en": "Allow to Take Quest Blocks",
+    "zh": "允许取出任务方块",
+    "vi": "Cho phép loại bỏ các khối nhiệm vụ"
+  },
+  "ftbquests.file.allow_take_quest_blocks.tooltip": {
+    "en": "Allow to obtain Quest Blocks from the Quests GUI.",
+    "zh": "允许从任务GUI中获得任务方块。",
+    "vi": "Cho phép lấy các khối nhiệm vụ từ GUI nhiệm vụ."
+  },
+  "ftbquests.file.emergency_items": {
+    "en": "Emergency Items",
+    "zh": "应急物品",
+    "vi": "nguồn cung cấp khẩn cấp"
+  },
+  "ftbquests.file.emergency_items_cooldown": {
+    "en": "Emergency Items Cooldown",
+    "zh": "应急物品的冷却时间",
+    "vi": "Thời gian hồi chiêu cho các vật phẩm khẩn cấp"
+  },
+  "ftbquests.file.emergency_items_cooldown.tooltip": {
+    "en": "Cooldown timer for emergency items to respawn.",
+    "zh": "应急物品重新生成的冷却时间。",
+    "vi": "Thời gian hồi chiêu để tái tạo vật phẩm khẩn cấp."
+  },
+  "ftbquests.file.defaults": {
+    "en": "Defaults",
+    "zh": "默认",
+    "vi": "mặc định"
+  },
+  "ftbquests.file.defaults.reward_team": {
+    "en": "Reward 'Team Reward'",
+    "zh": "奖励“团队奖励”",
+    "vi": "Phần thưởng \"Phần thưởng nhóm\""
+  },
+  "ftbquests.file.defaults.consume_items": {
+    "en": "Task 'Consume Items'",
+    "zh": "目标“消耗物品”",
+    "vi": "Mục tiêu \"Vật phẩm tiêu hao\""
+  },
+  "ftbquests.file.defaults.autoclaim_rewards": {
+    "en": "Reward 'Auto-claim'",
+    "zh": "奖励“自动领取”",
+    "vi": "Phần thưởng \"được nhận tự động\""
+  },
+  "ftbquests.file.defaults.quest_shape": {
+    "en": "Quest Shape",
+    "zh": "任务形状",
+    "vi": "hình dạng nhiệm vụ"
+  },
+  "ftbquests.file.defaults.quest_disable_jei": {
+    "en": "Quest 'Disable JEI Recipe'",
+    "zh": "任务“禁用JEI配方”",
+    "vi": "Nhiệm vụ \"Vô hiệu hóa công thức JEI\""
+  },
+  "ftbquests.file.drop_loot_crates": {
+    "en": "Entities Drop Loot Crates",
+    "zh": "实体掉落战利品箱",
+    "vi": "Hộp loot vật lý"
+  },
+  "ftbquests.file.loot_crate_no_drop": {
+    "en": "Entity Loot Crate Drop Empty Weight",
+    "zh": "实体战利品箱掉落为空的权重",
+    "vi": "Trọng lượng của hộp loot trống rơi xuống"
+  },
+  "ftbquests.file.disable_gui": {
+    "en": "Disable GUI",
+    "zh": "禁用GUI",
+    "vi": "Tắt GUI"
+  },
+  "ftbquests.file.full_screen_quest_view": {
+    "en": "Full Screen Quest View",
+    "zh": "全屏任务视图",
+    "vi": "Xem tác vụ toàn màn hình"
+  },
+  "ftbquests.file.grid_scale": {
+    "en": "Grid Scale",
+    "zh": "网格缩放",
+    "vi": "Chia tỷ lệ lưới"
+  },
+  "ftbquests.file.lock_message": {
+    "en": "Lock Message",
+    "zh": "锁定信息",
+    "vi": "Khóa thông tin"
+  },
+  "ftbquests.file.progression_mode": {
+    "en": "Progression Mode",
+    "zh": "进程模式",
+    "vi": "chế độ xử lý"
+  },
+  "ftbquests.file.detection_delay": {
+    "en": "Item Auto-Detection Minimum Interval",
+    "zh": "物品自动检测最小间隔",
+    "vi": "Khoảng thời gian tối thiểu để phát hiện mục tự động"
+  },
+  "ftbquests.file.detection_delay.tooltip": {
+    "en": "Minimum interval (in ticks) between checks of a player's inventory when it changes\nHigher values are kinder on server TPS, especially if players inventories change frequently, but mean longer delays for quest auto-completion messages.",
+    "zh": "当玩家物品栏发生变化时检查物品栏的最小时间间隔（以游戏刻为单位）\n更高的值对服务器TPS更友好，尤其是玩家的物品栏频繁变化的情况下，但也意味着任务自动完成消息的延迟更久。",
+    "vi": "Khoảng thời gian tối thiểu (trong tích tắc trò chơi) giữa việc kiểm tra kho đồ của người chơi khi kho đồ của người chơi thay đổi\nGiá trị cao hơn sẽ thân thiện hơn với TPS máy chủ, đặc biệt nếu kho đồ của người chơi thay đổi thường xuyên, nhưng điều đó cũng có nghĩa là thông báo tự động hoàn thành nhiệm vụ sẽ bị trì hoãn lâu hơn."
+  },
+  "ftbquests.chapter.progression_mode": {
+    "en": null,
+    "zh": "进程模式",
+    "vi": "chế độ xử lý"
+  },
+  "ftbquests.file.progression_mode.tooltip": {
+    "en": "Linear: quest must be complete before dependant quests are started\nFlexible: tasks in dependant quests can be progressed at any time,\n  but dependant quests can't be completed until dependency is completed",
+    "zh": "线性：任务必须在附属任务开启前完成\n灵活：附属任务的目标可以在任何时候进行，\n    但必须先完成任务才能开启附属任务",
+    "vi": "Tuyến tính: Nhiệm vụ phải được hoàn thành trước khi bắt đầu nhiệm vụ phụ\nLinh hoạt: Mục tiêu của các công việc phụ có thể được thực hiện bất cứ lúc nào,\n    Nhưng bạn phải hoàn thành nhiệm vụ trước khi có thể bắt đầu nhiệm vụ phụ."
+  },
+  "ftbquests.file.progression_mode.default": {
+    "en": "Default",
+    "zh": "默认",
+    "vi": "mặc định"
+  },
+  "ftbquests.file.progression_mode.linear": {
+    "en": "Linear",
+    "zh": "线性",
+    "vi": "tuyến tính"
+  },
+  "ftbquests.file.progression_mode.flexible": {
+    "en": "Flexible",
+    "zh": "灵活",
+    "vi": "linh hoạt"
+  },
+  "ftbquests.loot.entitydrops": {
+    "en": "Entity Drops",
+    "zh": "实体掉落物",
+    "vi": "Thực thể rơi"
+  },
+  "ftbquests.loot.entitytype.passive": {
+    "en": "Passive",
+    "zh": "被动型",
+    "vi": "Thụ động"
+  },
+  "ftbquests.loot.entitytype.monster": {
+    "en": "Monster",
+    "zh": "怪物型",
+    "vi": "loại quái vật"
+  },
+  "ftbquests.loot.entitytype.boss": {
+    "en": "Boss",
+    "zh": "Boss型",
+    "vi": "Kiểu ông chủ"
+  },
+  "ftbquests.chapter": {
+    "en": "Chapter",
+    "zh": "章节",
+    "vi": "chương"
+  },
+  "ftbquests.chapters": {
+    "en": "Chapters",
+    "zh": "章节",
+    "vi": "chương"
+  },
+  "ftbquests.chapter.completed": {
+    "en": "Chapter completed!",
+    "zh": "章节完成！",
+    "vi": "Chương đã hoàn thành!"
+  },
+  "ftbquests.chapter.subtitle": {
+    "en": "Subtitle",
+    "zh": "副标题",
+    "vi": "phụ đề"
+  },
+  "ftbquests.chapter.always_invisible": {
+    "en": null,
+    "zh": "始终不可见",
+    "vi": "luôn vô hình"
+  },
+  "ftbquests.chapter.group": {
+    "en": "Group",
+    "zh": "组",
+    "vi": "Nhóm"
+  },
+  "ftbquests.chapter.default_quest_shape": {
+    "en": null,
+    "zh": "默认任务形状",
+    "vi": "Hình dạng nhiệm vụ mặc định"
+  },
+  "ftbquests.chapter.default_hide_dependency_lines": {
+    "en": null,
+    "zh": "默认“隐藏前置连线”",
+    "vi": "Mặc định \"ẩn tiền tuyến\""
+  },
+  "ftbquests.chapter.image": {
+    "en": "Image",
+    "zh": "图片",
+    "vi": "hình ảnh"
+  },
+  "ftbquests.chapter.image.x": {
+    "en": "X",
+    "zh": "X",
+    "vi": "X"
+  },
+  "ftbquests.chapter.image.y": {
+    "en": "Y",
+    "zh": "Y",
+    "vi": "Y"
+  },
+  "ftbquests.chapter.image.width": {
+    "en": "Width",
+    "zh": "宽度",
+    "vi": "chiều rộng"
+  },
+  "ftbquests.chapter.image.height": {
+    "en": "Height",
+    "zh": "高度",
+    "vi": "cao"
+  },
+  "ftbquests.chapter.image.rotation": {
+    "en": "Rotation",
+    "zh": "旋转",
+    "vi": "quay"
+  },
+  "ftbquests.chapter.image.image": {
+    "en": "Image",
+    "zh": "图片",
+    "vi": "hình ảnh"
+  },
+  "ftbquests.chapter.image.color": {
+    "en": "Image Tint",
+    "zh": "图片色调",
+    "vi": "Tông màu hình ảnh"
+  },
+  "ftbquests.chapter.image.alpha": {
+    "en": "Image Alpha",
+    "zh": "图片Alpha",
+    "vi": "Hình ảnhAlpha"
+  },
+  "ftbquests.chapter.image.order": {
+    "en": "Image Ordering",
+    "zh": "图片排序",
+    "vi": "Sắp xếp ảnh"
+  },
+  "ftbquests.chapter.image.order.tooltip": {
+    "en": "Order in which images in the same chapter are drawn.\nHigher order images are drawn above lower orders.",
+    "zh": "同一章节中图片的绘制顺序。\n排序较高的图片绘制于排序较低的图片的上方图层。",
+    "vi": "Thứ tự vẽ các bức tranh trong cùng một chương.\nHình ảnh có thứ tự cao hơn được vẽ lên trên các hình ảnh có thứ tự thấp hơn."
+  },
+  "ftbquests.chapter.image.hover": {
+    "en": "Hover Text",
+    "zh": "悬停文本",
+    "vi": "văn bản di chuột"
+  },
+  "ftbquests.chapter.image.click": {
+    "en": "Click",
+    "zh": "点击",
+    "vi": "nhấp chuột"
+  },
+  "ftbquests.chapter.image.click.tooltip": {
+    "en": "Provide custom functionality when the image is clicked:\n• Open a page or file with http://, https:// or file:/// URL\n• Run a command with 'command:<cmd>'\n• Jump to a quest with '#<quest_id>' (use Copy ID to get quest id's)\n• Fire a CustomClickEvent (for KubeJS or other mods) with 'custom:<resource_location>'",
+    "zh": "点击图片时提供自定义功能：\n• 使用“http://”、“https://”或“file:///”开头的URL打开一个页面或文件\n• 使用“command:<cmd>”运行命令\n• 使用“#<quest_id>”（通过复制ID或获取任务ID获得的）跳转到任务\n• 使用“custom:<resource_location>”触发一个自定义点击事件（CustomClickEvent）（为KubeJS或其他模组提供）",
+    "vi": "Cung cấp các chức năng tùy chỉnh khi click vào hình ảnh:\n• Mở một trang hoặc tệp bằng URL bắt đầu bằng \"http://\", \"https://\" hoặc \"file:///\"\n• Chạy lệnh bằng \"command:<cmd>\"\n• Chuyển tới nhiệm vụ bằng cách sử dụng \"#<quest_id>\" (có được bằng cách sao chép ID hoặc lấy ID nhiệm vụ)\n• Sử dụng \"custom:<resource_location>\" để kích hoạt sự kiện nhấp chuột tùy chỉnh (CustomClickEvent) (được cung cấp cho KubeJS hoặc các Mod khác)"
+  },
+  "ftbquests.chapter.image.dev": {
+    "en": "Only visible in Editing Mode",
+    "zh": "仅在编辑模式可见",
+    "vi": "Chỉ hiển thị trong chế độ chỉnh sửa"
+  },
+  "ftbquests.chapter.image.corner": {
+    "en": "Rotate and offset from corner",
+    "zh": "以转角为中心旋转和偏移",
+    "vi": "Xoay và bù xung quanh góc"
+  },
+  "ftbquests.chapter.default_min_width": {
+    "en": null,
+    "zh": "打开的任务窗口的默认最小宽度",
+    "vi": "Chiều rộng tối thiểu mặc định của cửa sổ tác vụ đang mở"
+  },
+  "ftbquests.chapter.hide_quest_details_until_startable": {
+    "en": null,
+    "zh": "任务可见前隐藏详情",
+    "vi": "Ẩn chi tiết cho đến khi hiển thị nhiệm vụ"
+  },
+  "ftbquests.chapter.hide_quest_until_deps_visible": {
+    "en": null,
+    "zh": "前置可见前隐藏任务",
+    "vi": "Ẩn nhiệm vụ trước khi hiển thị"
+  },
+  "ftbquests.quest": {
+    "en": "Quest",
+    "zh": "任务",
+    "vi": "Nhiệm vụ"
+  },
+  "ftbquests.quests": {
+    "en": "Quests",
+    "zh": "任务",
+    "vi": "Nhiệm vụ"
+  },
+  "ftbquests.quest.completed": {
+    "en": "Quest completed!",
+    "zh": "任务完成！",
+    "vi": "Nhiệm vụ đã hoàn thành!"
+  },
+  "ftbquests.quest.subtitle": {
+    "en": "Subtitle",
+    "zh": "副标题",
+    "vi": "phụ đề"
+  },
+  "ftbquests.quest.description": {
+    "en": "Description",
+    "zh": "描述",
+    "vi": "mô tả"
+  },
+  "ftbquests.quest.x": {
+    "en": null,
+    "zh": "X",
+    "vi": "X"
+  },
+  "ftbquests.quest.y": {
+    "en": null,
+    "zh": "Y",
+    "vi": "Y"
+  },
+  "ftbquests.quest.size": {
+    "en": null,
+    "zh": "大小",
+    "vi": "kích cỡ"
+  },
+  "ftbquests.quest.hide": {
+    "en": null,
+    "zh": "前置可见前隐藏任务",
+    "vi": "Ẩn nhiệm vụ trước khi hiển thị"
+  },
+  "ftbquests.quest.shape": {
+    "en": null,
+    "zh": "形状",
+    "vi": "hình dạng"
+  },
+  "ftbquests.quest_link.shape": {
+    "en": "Shape",
+    "zh": "形状",
+    "vi": "hình dạng"
+  },
+  "ftbquests.quest_link.size": {
+    "en": "Size",
+    "zh": "大小",
+    "vi": "kích cỡ"
+  },
+  "ftbquests.quest_link.x": {
+    "en": "X",
+    "zh": "X",
+    "vi": "X"
+  },
+  "ftbquests.quest_link.y": {
+    "en": "Y",
+    "zh": "Y",
+    "vi": "Y"
+  },
+  "ftbquests.quest.shape.default": {
+    "en": "Default",
+    "zh": "默认",
+    "vi": "mặc định"
+  },
+  "ftbquests.quest.shape.circle": {
+    "en": "Circle",
+    "zh": "圆形",
+    "vi": "tròn"
+  },
+  "ftbquests.quest.shape.square": {
+    "en": "Square",
+    "zh": "方形",
+    "vi": "quảng trường"
+  },
+  "ftbquests.quest.shape.diamond": {
+    "en": "Diamond",
+    "zh": "菱形",
+    "vi": "kim cương"
+  },
+  "ftbquests.quest.shape.rsquare": {
+    "en": "Rounded Square",
+    "zh": "圆角方形",
+    "vi": "hình vuông tròn"
+  },
+  "ftbquests.quest.shape.pentagon": {
+    "en": "Pentagon",
+    "zh": "五边形",
+    "vi": "ngũ giác"
+  },
+  "ftbquests.quest.shape.hexagon": {
+    "en": "Hexagon",
+    "zh": "六边形",
+    "vi": "lục giác"
+  },
+  "ftbquests.quest.shape.octagon": {
+    "en": "Octagon",
+    "zh": "八边形",
+    "vi": "hình bát giác"
+  },
+  "ftbquests.quest.shape.heart": {
+    "en": "Heart",
+    "zh": "心形",
+    "vi": "hình trái tim"
+  },
+  "ftbquests.quest.shape.gear": {
+    "en": "Gear",
+    "zh": "齿轮形",
+    "vi": "hình bánh răng"
+  },
+  "ftbquests.quest.can_repeat": {
+    "en": null,
+    "zh": "可重复任务",
+    "vi": "nhiệm vụ lặp lại"
+  },
+  "ftbquests.quest.tasks_ignore_dependencies": {
+    "en": "Tasks Ignore Dependencies",
+    "zh": "目标忽略前置",
+    "vi": "Mục tiêu bỏ qua tiền tố"
+  },
+  "ftbquests.quest.tasks_ignore_dependencies.tooltip": {
+    "en": "Allow to start tasks without completing dependencies",
+    "zh": "允许在不完成前置的情况下开启目标",
+    "vi": "Cho phép mở mục tiêu mà không cần hoàn thành các điều kiện tiên quyết"
+  },
+  "ftbquests.quest.dependency_requirement": {
+    "en": null,
+    "zh": "需要前置",
+    "vi": "Cần phải có tiền tố"
+  },
+  "ftbquests.quest.dependency_requirement.tooltip": {
+    "en": "Ignored if Min Required Dependencies > 0",
+    "zh": "最小所需前置数大于0时忽略",
+    "vi": "Bỏ qua nếu tiền tố bắt buộc tối thiểu lớn hơn 0"
+  },
+  "ftbquests.quest.dependency_requirement.all_completed": {
+    "en": "All Completed",
+    "zh": "完成全部",
+    "vi": "hoàn thành tất cả"
+  },
+  "ftbquests.quest.dependency_requirement.one_completed": {
+    "en": "One Completed",
+    "zh": "完成一个",
+    "vi": "hoàn thành một"
+  },
+  "ftbquests.quest.dependency_requirement.all_started": {
+    "en": "All Started",
+    "zh": "开启全部",
+    "vi": "Mở tất cả"
+  },
+  "ftbquests.quest.dependency_requirement.one_started": {
+    "en": "One Started",
+    "zh": "开启一个",
+    "vi": "mở một"
+  },
+  "ftbquests.quest.guide_page": {
+    "en": null,
+    "zh": "指导页",
+    "vi": "Trang hướng dẫn"
+  },
+  "ftbquests.quest.hide_dependency_lines": {
+    "en": null,
+    "zh": "隐藏前置连线",
+    "vi": "Ẩn tiền tuyến"
+  },
+  "ftbquests.quest.hide_dependency_lines.tooltip": {
+    "en": "Controls display of dependency lines from quests which unlock this one",
+    "zh": "控制解锁该任务的任务的前置连线显示",
+    "vi": "Kiểm soát màn hình hiển thị phía trước của nhiệm vụ mở khóa nhiệm vụ này"
+  },
+  "ftbquests.quest.hide_dependent_lines": {
+    "en": null,
+    "zh": "隐藏依赖连线",
+    "vi": "Ẩn hệ thống dây phụ thuộc"
+  },
+  "ftbquests.quest.hide_dependent_lines.tooltip": {
+    "en": null,
+    "zh": "控制该任务解锁的任务的前置连线显示",
+    "vi": "Điều khiển hiển thị kết nối phía trước của các tác vụ được tác vụ này mở khóa"
+  },
+  "ftbquests.quest.min_required_dependencies": {
+    "en": null,
+    "zh": "最小所需前置数",
+    "vi": "Số lượng chi phí trả trước tối thiểu được yêu cầu"
+  },
+  "ftbquests.quest.min_required_dependencies.tooltip": {
+    "en": "If you set this to anything more than 0, it becomes an OR quest, where only certain amount of dependencies is required for it to unlock",
+    "zh": "如果设置为大于0，任务逻辑就变为“或”，只需完成一定数量的前置就可以解锁。",
+    "vi": "Nếu được đặt thành lớn hơn 0, logic nhiệm vụ sẽ trở thành \"HOẶC\" và bạn chỉ cần hoàn thành một số điều kiện tiên quyết nhất định để mở khóa."
+  },
+  "ftbquests.quest.hide_text_until_complete": {
+    "en": null,
+    "zh": "任务完成前隐藏文本",
+    "vi": "Ẩn văn bản cho đến khi hoàn thành nhiệm vụ"
+  },
+  "ftbquests.quest.disable_jei": {
+    "en": null,
+    "zh": "禁用JEI配方",
+    "vi": "Vô hiệu hóa công thức JEI"
+  },
+  "ftbquests.quest.optional": {
+    "en": null,
+    "zh": "可选",
+    "vi": "Không bắt buộc"
+  },
+  "ftbquests.quest.locked": {
+    "en": "Locked: uncompleted dependencies",
+    "zh": "已锁定：有未完成的前置",
+    "vi": "Đã khóa: Có điều kiện tiên quyết chưa hoàn thành"
+  },
+  "ftbquests.quest.min_width": {
+    "en": null,
+    "zh": "打开的任务窗口的最小宽度",
+    "vi": "Chiều rộng tối thiểu của cửa sổ tác vụ đang mở"
+  },
+  "ftbquests.quest.ignore_reward_blocking": {
+    "en": null,
+    "zh": "忽略奖励阻止",
+    "vi": "Bỏ qua việc chặn phần thưởng"
+  },
+  "ftbquests.quest.ignore_reward_blocking.tooltip": {
+    "en": null,
+    "zh": "即使通过“/ftbquests block_rewards”命令阻止了团队奖励，依然提供任务奖励",
+    "vi": "Phần thưởng nhiệm vụ vẫn được cung cấp ngay cả khi phần thưởng của đội bị chặn thông qua lệnh \"/ftbquests block_rewards\""
+  },
+  "ftbquests.quest.invisible": {
+    "en": null,
+    "zh": "不可见",
+    "vi": "vô hình"
+  },
+  "ftbquests.quest.invisible.tooltip": {
+    "en": null,
+    "zh": "任务在完成前对玩家不可见",
+    "vi": "Người chơi sẽ không nhìn thấy nhiệm vụ cho đến khi hoàn thành"
+  },
+  "ftbquests.quest.invisible_until_tasks": {
+    "en": null,
+    "zh": "在X个目标完成前不可见",
+    "vi": "Vô hình cho đến khi hoàn thành X mục tiêu"
+  },
+  "ftbquests.quest.invisible_until_tasks.tooltip": {
+    "en": null,
+    "zh": "仅当“不可见”为true时生效。\n如果大于0，任务会在完成了X个或更多个目标后显示。",
+    "vi": "Chỉ có hiệu lực khi \"vô hình\" là đúng.\nNếu lớn hơn 0, nhiệm vụ sẽ được hiển thị sau khi hoàn thành X mục tiêu trở lên."
+  },
+  "ftbquests.quest.min_required_header": {
+    "en": "%d required",
+    "zh": "需要%d个",
+    "vi": "Cần %d"
+  },
+  "ftbquests.quest.hidden_quests_footer": {
+    "en": "%d hidden",
+    "zh": "已隐藏%d个",
+    "vi": "%d ẩn"
+  },
+  "ftbquests.quest.progression_mode": {
+    "en": null,
+    "zh": "进程模式",
+    "vi": "chế độ xử lý"
+  },
+  "ftbquests.quest.hide_details_until_startable": {
+    "en": null,
+    "zh": "可开启前隐藏详情",
+    "vi": "Ẩn chi tiết trước khi mở"
+  },
+  "ftbquests.quest.hide_details_until_startable.tooltip": {
+    "en": null,
+    "zh": "如果为true，则在开启任务前无法查看任务详情（文本和目标）",
+    "vi": "Nếu đúng, không thể xem chi tiết nhiệm vụ (văn bản và mục tiêu) trước khi bắt đầu nhiệm vụ"
+  },
+  "ftbquests.chapter_group": {
+    "en": "Chapter Group",
+    "zh": "章节组",
+    "vi": "Nhóm chương"
+  },
+  "ftbquests.quest_link": {
+    "en": "Quest Link",
+    "zh": "任务链接",
+    "vi": "Liên kết nhiệm vụ"
+  },
+  "ftbquests.chapter_groups": {
+    "en": "Chapter Groups",
+    "zh": "章节组",
+    "vi": "Nhóm chương"
+  },
+  "ftbquests.gui.line": {
+    "en": "Add Text Line",
+    "zh": "添加文本行",
+    "vi": "Thêm dòng văn bản"
+  },
+  "ftbquests.gui.image": {
+    "en": "Add Image",
+    "zh": "添加图片",
+    "vi": "thêm hình ảnh"
+  },
+  "ftbquests.gui.edit": {
+    "en": "Edit",
+    "zh": "编辑",
+    "vi": "biên tập"
+  },
+  "ftbquests.gui.undo": {
+    "en": "Undo",
+    "zh": "撤销",
+    "vi": "Hủy bỏ"
+  },
+  "ftbquests.gui.edit_linked_quest": {
+    "en": "Edit Linked Quest",
+    "zh": "编辑链接的任务",
+    "vi": "Chỉnh sửa nhiệm vụ được liên kết"
+  },
+  "ftbquests.gui.edit_file": {
+    "en": "Edit File",
+    "zh": "编辑文件",
+    "vi": "Chỉnh sửa tập tin"
+  },
+  "ftbquests.gui.save_as_file": {
+    "en": "Download Quest Files",
+    "zh": "下载任务文件",
+    "vi": "Tải tập tin nhiệm vụ"
+  },
+  "ftbquests.gui.save_on_server": {
+    "en": "Save on Server now",
+    "zh": "立即保存到服务端",
+    "vi": "Lưu vào máy chủ ngay lập tức"
+  },
+  "ftbquests.gui.export_spreadsheet": {
+    "en": "Export Spreadsheet",
+    "zh": "导出电子表格",
+    "vi": "Xuất bảng tính"
+  },
+  "ftbquests.gui.saved_as_file": {
+    "en": "Quests saved on client in %s",
+    "zh": "任务已保存到%s的客户端",
+    "vi": "Tác vụ đã được lưu vào máy khách của %s"
+  },
+  "ftbquests.gui.saved_on_server": {
+    "en": "Quests saved on server",
+    "zh": "任务已保存到服务端",
+    "vi": "Tác vụ đã được lưu vào máy chủ"
+  },
+  "ftbquests.gui.error": {
+    "en": "Error!",
+    "zh": "错误！",
+    "vi": "sai lầm!"
+  },
+  "ftbquests.gui.add_reward_all": {
+    "en": "Add reward to all...",
+    "zh": "全部添加奖励⋯⋯",
+    "vi": "Tất cả phần thưởng được thêm vào⋯⋯"
+  },
+  "ftbquests.gui.clear_reward_all": {
+    "en": "Clear rewards from all",
+    "zh": "全部移除奖励",
+    "vi": "Xóa tất cả phần thưởng"
+  },
+  "ftbquests.gui.select_quest_object": {
+    "en": "Select Quest Object",
+    "zh": "选择任务对象",
+    "vi": "Chọn đối tượng nhiệm vụ"
+  },
+  "ftbquests.gui.select_task_type": {
+    "en": "Select Task Type",
+    "zh": "选择目标类型",
+    "vi": "Chọn loại mục tiêu"
+  },
+  "ftbquests.gui.select_reward_table": {
+    "en": "Select Reward Table",
+    "zh": "选择奖励表",
+    "vi": "Chọn bảng thưởng"
+  },
+  "ftbquests.gui.select_reward_type": {
+    "en": "Select Reward Type",
+    "zh": "选择奖励类型",
+    "vi": "Chọn loại phần thưởng"
+  },
+  "ftbquests.gui.reset_progress": {
+    "en": "Reset Progress",
+    "zh": "重置进程",
+    "vi": "quá trình thiết lập lại"
+  },
+  "ftbquests.gui.reset_progress_q": {
+    "en": "Reset progress for your team?",
+    "zh": "重置团队的进程？",
+    "vi": "Đặt lại tiến trình của đội?"
+  },
+  "ftbquests.gui.complete_instantly": {
+    "en": "Complete Instantly",
+    "zh": "立即完成",
+    "vi": "Hoàn thành ngay bây giờ"
+  },
+  "ftbquests.gui.complete_instantly_q": {
+    "en": "Complete this task instantly?",
+    "zh": "立即完成此任务？",
+    "vi": "Hoàn thành nhiệm vụ này ngay bây giờ?"
+  },
+  "ftbquests.gui.add_dependencies": {
+    "en": "Add selected as dependencies",
+    "zh": "将选定项添加为前置",
+    "vi": "Thêm các mục đã chọn làm phụ thêm"
+  },
+  "ftbquests.gui.remove_dependencies": {
+    "en": "Remove selected from dependencies",
+    "zh": "将选定项移出前置",
+    "vi": "Di chuyển mục đã chọn lên phía trước"
+  },
+  "ftbquests.gui.add_dependencies_self": {
+    "en": "Add as dependency to selected",
+    "zh": "添加为选定项的前置",
+    "vi": "Thêm dưới dạng thêm vào mục đã chọn"
+  },
+  "ftbquests.gui.remove_dependencies_self": {
+    "en": "Remove as dependency from selected",
+    "zh": "从选定项的前置中移出",
+    "vi": "Di chuyển từ phía trước mục đã chọn"
+  },
+  "ftbquests.gui.copy_id": {
+    "en": "Copy ID",
+    "zh": "复制ID",
+    "vi": "Sao chép giấy tờ tùy thân"
+  },
+  "ftbquests.gui.copy_id.paste_hint": {
+    "en": "You can use this ID to paste quests or quest links",
+    "zh": "你可以使用此ID粘贴任务或任务链接",
+    "vi": "Bạn có thể sử dụng ID này để dán nhiệm vụ hoặc liên kết nhiệm vụ"
+  },
+  "ftbquests.gui.copy_id.quick_properties": {
+    "en": "Quick Edit Properties...",
+    "zh": "快速编辑属性⋯⋯",
+    "vi": "Chỉnh sửa nhanh thuộc tính⋯⋯"
+  },
+  "ftbquests.gui.no_tasks": {
+    "en": "No tasks",
+    "zh": "没有目标",
+    "vi": "không có mục tiêu"
+  },
+  "ftbquests.gui.no_rewards": {
+    "en": "No rewards",
+    "zh": "没有奖励",
+    "vi": "không có phần thưởng"
+  },
+  "ftbquests.gui.requires": {
+    "en": "Requires",
+    "zh": "前置任务",
+    "vi": "Nhiệm vụ tiên quyết"
+  },
+  "ftbquests.gui.required_by": {
+    "en": "Required by",
+    "zh": "可解锁任务",
+    "vi": "Nhiệm vụ có thể mở khóa"
+  },
+  "ftbquests.gui.collect_rewards": {
+    "en": "Click to collect all rewards!",
+    "zh": "点击收集所有奖励！",
+    "vi": "Bấm để thu thập tất cả phần thưởng!"
+  },
+  "ftbquests.gui.times_completed": {
+    "en": "Times completed",
+    "zh": "完成次数",
+    "vi": "Số lần hoàn thành"
+  },
+  "ftbquests.gui.looping_dependencies": {
+    "en": "Looping dependencies!",
+    "zh": "循环查看前置！",
+    "vi": "Chuyển qua trang đầu!"
+  },
+  "ftbquests.gui.open_in_guide": {
+    "en": "Click here to read more...",
+    "zh": "点击此处了解更多⋯⋯",
+    "vi": "Bấm vào đây để tìm hiểu thêm⋯⋯"
+  },
+  "ftbquests.gui.wiki": {
+    "en": "Open Wiki",
+    "zh": "打开Wiki",
+    "vi": "Mở Wiki"
+  },
+  "ftbquests.gui.change_progress": {
+    "en": "Change Progress",
+    "zh": "更改进程",
+    "vi": "quá trình thay đổi"
+  },
+  "ftbquests.gui.change_progress.reset": {
+    "en": "Reset",
+    "zh": "重置",
+    "vi": "cài lại"
+  },
+  "ftbquests.gui.change_progress.reset_deps": {
+    "en": "Reset (+Dependencies)",
+    "zh": "重置（+前置）",
+    "vi": "Đặt lại tiền tố (+)"
+  },
+  "ftbquests.gui.change_progress.complete": {
+    "en": "Complete",
+    "zh": "完成",
+    "vi": "Hoàn thành"
+  },
+  "ftbquests.gui.change_progress.complete_deps": {
+    "en": "Complete (+Dependencies)",
+    "zh": "完成（+前置）",
+    "vi": "Hoàn thành (+tiền tố)"
+  },
+  "ftbquests.gui.pin": {
+    "en": "Pin",
+    "zh": "标记",
+    "vi": "đánh dấu"
+  },
+  "ftbquests.gui.unpin": {
+    "en": "Unpin",
+    "zh": "取消标记",
+    "vi": "Bỏ đánh dấu"
+  },
+  "ftbquests.gui.autopin.on": {
+    "en": "Auto-pin: Enabled",
+    "zh": "自动标记：启用",
+    "vi": "Tự động gắn thẻ: đã bật"
+  },
+  "ftbquests.gui.autopin.off": {
+    "en": "Auto-pin: Disabled",
+    "zh": "自动标记：禁用",
+    "vi": "Tự động gắn thẻ: bị vô hiệu hóa"
+  },
+  "ftbquests.gui.move_to_chapter": {
+    "en": "Move to another chapter",
+    "zh": "移至另一章节",
+    "vi": "Chuyển sang chương khác"
+  },
+  "ftbquests.gui.change_group": {
+    "en": "Change Group",
+    "zh": "更改组",
+    "vi": "Thay đổi nhóm"
+  },
+  "ftbquests.gui.move_tooltip": {
+    "en": "Shortcut: Middle mouse button click",
+    "zh": "快捷方式：鼠标中键",
+    "vi": "Phím tắt: nút chuột giữa"
+  },
+  "ftbquests.gui.reload_theme": {
+    "en": "Reload Theme",
+    "zh": "重载主题",
+    "vi": "Chủ đề quá tải"
+  },
+  "ftbquests.gui.view_dependencies": {
+    "en": "View Dependencies",
+    "zh": "查看前置",
+    "vi": "Xem mặt trước"
+  },
+  "ftbquests.gui.view_dependants": {
+    "en": "View Dependants",
+    "zh": "查看附属",
+    "vi": "Xem các chi nhánh"
+  },
+  "ftbquests.gui.no_dependencies": {
+    "en": "No Dependencies",
+    "zh": "没有前置",
+    "vi": "Không có tiền tố"
+  },
+  "ftbquests.gui.no_dependants": {
+    "en": "No Dependants",
+    "zh": "没有附属",
+    "vi": "Không liên kết"
+  },
+  "ftbquests.gui.edit_text": {
+    "en": "Edit Text",
+    "zh": "编辑文本",
+    "vi": "Chỉnh sửa văn bản"
+  },
+  "ftbquests.gui.edit_description": {
+    "en": "Quest Description Editor",
+    "zh": "任务描述编辑器",
+    "vi": "Trình chỉnh sửa mô tả nhiệm vụ"
+  },
+  "ftbquests.gui.edit_description.help": {
+    "en": "Shift+Enter: save & exit",
+    "zh": "Shift+回车：保存并退出",
+    "vi": "Shift+Enter: Lưu và thoát"
+  },
+  "ftbquests.gui.paste": {
+    "en": "Paste Quest",
+    "zh": "粘贴任务",
+    "vi": "Dán tác vụ"
+  },
+  "ftbquests.gui.paste_no_deps": {
+    "en": "Paste Quest (no dependencies)",
+    "zh": "粘贴任务（无前置）",
+    "vi": "Dán tác vụ (không thêm vào trước)"
+  },
+  "ftbquests.gui.paste_link": {
+    "en": "Paste Quest Link",
+    "zh": "粘贴任务链接",
+    "vi": "Dán liên kết tác vụ"
+  },
+  "ftbquests.gui.paste_image": {
+    "en": "Paste Image",
+    "zh": "粘贴图片",
+    "vi": "Dán ảnh"
+  },
+  "ftbquests.gui.paste_task": {
+    "en": "Paste Task",
+    "zh": "粘贴目标",
+    "vi": "Dán mục tiêu"
+  },
+  "ftbquests.gui.goto_linked_quest": {
+    "en": "Go to Linked Quest (in chapter: %s)",
+    "zh": "前往链接的任务（所在章节：%s）",
+    "vi": "Đi tới nhiệm vụ được liên kết (trong chương: %s)"
+  },
+  "ftbquests.gui.linked_quest_id": {
+    "en": "Linked Quest ID: %s",
+    "zh": "链接的任务ID：%s",
+    "vi": "ID tác vụ được liên kết: %s"
+  },
+  "ftbquests.gui.view_quest_links": {
+    "en": "View Quest Link(s)",
+    "zh": "查看任务链接",
+    "vi": "Xem liên kết nhiệm vụ"
+  },
+  "ftbquests.gui.fix_aspect_ratio_w": {
+    "en": "Adjust Width to Aspect Ratio",
+    "zh": "调整宽高比的宽度",
+    "vi": "Điều chỉnh tỷ lệ chiều rộng và khung hình"
+  },
+  "ftbquests.gui.fix_aspect_ratio_h": {
+    "en": "Adjust Height to Aspect Ratio",
+    "zh": "调整宽高比的高度",
+    "vi": "Điều chỉnh chiều cao cho tỷ lệ khung hình"
+  },
+  "ftbquests.gui.bulk_change_size": {
+    "en": "Change Size for all...",
+    "zh": "全部更改大小⋯⋯",
+    "vi": "Thay đổi kích thước tất cả⋯⋯"
+  },
+  "ftbquests.gui.use_as_quest_icon": {
+    "en": "Use Task Icon as Quest Icon",
+    "zh": "将目标图标作为任务图标",
+    "vi": "Sử dụng biểu tượng mục tiêu làm biểu tượng nhiệm vụ"
+  },
+  "ftbquests.gui.clear_formatting": {
+    "en": "Clear Formatting",
+    "zh": "清除格式",
+    "vi": "định dạng rõ ràng"
+  },
+  "ftbquests.gui.page_break": {
+    "en": "Add Page Break",
+    "zh": "添加分页符",
+    "vi": "Thêm ngắt trang"
+  },
+  "ftbquests.task": {
+    "en": "Task",
+    "zh": "目标",
+    "vi": "Mục tiêu"
+  },
+  "ftbquests.tasks": {
+    "en": "Tasks",
+    "zh": "目标",
+    "vi": "Mục tiêu"
+  },
+  "ftbquests.task.completed": {
+    "en": "Task completed!",
+    "zh": "目标完成！",
+    "vi": "Mục tiêu đã hoàn thành!"
+  },
+  "ftbquests.task.click_to_submit": {
+    "en": "Click to submit",
+    "zh": "点击提交",
+    "vi": "Bấm gửi"
+  },
+  "ftbquests.task.task_screen_only": {
+    "en": "Items can ONLY be submitted via a Task Screen!",
+    "zh": "物品只能通过目标显示器提交！",
+    "vi": "Các vật phẩm chỉ có thể được gửi qua màn hình mục tiêu!"
+  },
+  "ftbquests.task.auto_detected": {
+    "en": "Items will be auto-detected",
+    "zh": "物品会被自动检测",
+    "vi": "Các mục sẽ được tự động phát hiện"
+  },
+  "ftbquests.task.click_to_submit_all": {
+    "en": "Click to submit all items",
+    "zh": "点击提交所有物品",
+    "vi": "Bấm để gửi tất cả các mục"
+  },
+  "ftbquests.task.max_input": {
+    "en": "Max Input Rate",
+    "zh": "最大输入速度",
+    "vi": "Tốc độ đầu vào tối đa"
+  },
+  "ftbquests.task.ftbquests.item": {
+    "en": "Item",
+    "zh": "物品",
+    "vi": "điều"
+  },
+  "ftbquests.task.ftbquests.item.count": {
+    "en": "Count",
+    "zh": "数量",
+    "vi": "Số lượng"
+  },
+  "ftbquests.task.ftbquests.item.consume_items": {
+    "en": "Consume Items",
+    "zh": "消耗物品",
+    "vi": "Vật phẩm tiêu hao"
+  },
+  "ftbquests.task.ftbquests.item.ignore_damage": {
+    "en": "Ignore Damage",
+    "zh": "忽略耐久度",
+    "vi": "Bỏ qua độ bền"
+  },
+  "ftbquests.task.ftbquests.item.nbt_mode": {
+    "en": "NBT Mode",
+    "zh": "NBT模式",
+    "vi": "Chế độ NBT"
+  },
+  "ftbquests.task.ftbquests.item.consume_true": {
+    "en": "Consumes item",
+    "zh": "消耗物品",
+    "vi": "Vật phẩm tiêu hao"
+  },
+  "ftbquests.task.ftbquests.item.consume_false": {
+    "en": "Doesn't consume item",
+    "zh": "不消耗物品",
+    "vi": "Không tiêu thụ vật phẩm"
+  },
+  "ftbquests.task.ftbquests.item.hide_valid_items": {
+    "en": "Hide Valid Items",
+    "zh": "隐藏有效物品",
+    "vi": "Ẩn các mục hợp lệ"
+  },
+  "ftbquests.task.ftbquests.item.valid_items": {
+    "en": "Valid items:",
+    "zh": "有效物品：",
+    "vi": "Các mặt hàng hợp lệ:"
+  },
+  "ftbquests.task.ftbquests.item.view_items": {
+    "en": "Click to view valid items",
+    "zh": "点击浏览有效物品",
+    "vi": "Nhấn vào đây để duyệt các mục có sẵn"
+  },
+  "ftbquests.task.ftbquests.item.valid_for": {
+    "en": "Valid items for %s",
+    "zh": "%s的有效物品",
+    "vi": "Các mặt hàng hợp lệ cho %s"
+  },
+  "ftbquests.task.ftbquests.item.click_recipe": {
+    "en": "Click to view recipe(s)",
+    "zh": "点击查看配方",
+    "vi": "Bấm vào để xem công thức"
+  },
+  "ftbquests.task.ftbquests.item.convert_tag": {
+    "en": "Convert to '%s' Tag Filter",
+    "zh": "转换为标签物品",
+    "vi": "Chuyển đổi sang mục nhãn"
+  },
+  "ftbquests.task.ftbquests.item.only_from_crafting": {
+    "en": "Only Detect From Crafting",
+    "zh": "仅检测合成",
+    "vi": "Chỉ phát hiện tổng hợp"
+  },
+  "ftbquests.task.ftbquests.item.match_nbt": {
+    "en": "Match NBT",
+    "zh": "匹配NBT",
+    "vi": "Trận đấu NBT"
+  },
+  "ftbquests.task.ftbquests.item.match_nbt.tooltip": {
+    "en": "Default: item must be in 'itemfilters:check_nbt' item tag\nFalse: never check NBT\nTrue: always check NBT",
+    "zh": "默认：物品必须带有物品标签“itemfilters:check_nbt”\nFalse：永不检测NBT\nTrue：始终检测NBT",
+    "vi": "Mặc định: Các mục phải có thẻ mục \"itemfilters:check_nbt\"\nSai: Không bao giờ phát hiện NBT\nĐúng: luôn phát hiện NBT"
+  },
+  "ftbquests.task.ftbquests.item.task_screen_only": {
+    "en": "Only From Task Screen",
+    "zh": "仅来自目标显示器",
+    "vi": "Chỉ từ màn hình mục tiêu"
+  },
+  "ftbquests.task.ftbquests.item.task_screen_only.tooltip": {
+    "en": "When true, items may only be submitted by piping into a Task Screen\nOnly applies when Consume Items is true for this task.",
+    "zh": "如果为true，只能通过管道将物品输入到目标显示器中\n仅当此目标的“消耗物品”选项为true时适用。",
+    "vi": "Nếu đúng, các mục chỉ có thể được đưa vào màn hình mục tiêu\nChỉ áp dụng nếu tùy chọn \"tiêu thụ vật phẩm\" của mục tiêu này là đúng."
+  },
+  "ftbquests.task.ftbquests.item.weak_nbt_match": {
+    "en": "Weak NBT Match",
+    "zh": "模糊NBT匹配",
+    "vi": "Kết hợp NBT mờ"
+  },
+  "ftbquests.task.ftbquests.item.weak_nbt_match.tooltip": {
+    "en": "False: exact NBT match required\nTrue: NBT fields in the checked item but not in the filter item won't cause a match failure",
+    "zh": "False：需要NBT精确匹配\nTrue：在检查的物品中，但不在过滤器物品中的NBT字段不会导致匹配失败",
+    "vi": "Sai: Cần phải khớp chính xác NBT\nĐúng: Các trường NBT nằm trong mục đã chọn nhưng không có trong mục bộ lọc sẽ không khiến kết quả khớp không thành công"
+  },
+  "ftbquests.task.ftbquests.fluid": {
+    "en": "Fluid",
+    "zh": "流体",
+    "vi": "dịch"
+  },
+  "ftbquests.task.ftbquests.fluid.fluid": {
+    "en": "Fluid",
+    "zh": "流体",
+    "vi": "dịch"
+  },
+  "ftbquests.task.ftbquests.fluid.fluid_nbt": {
+    "en": "Fluid NBT",
+    "zh": "流体NBT",
+    "vi": "Chất lỏngNBT"
+  },
+  "ftbquests.task.ftbquests.fluid.amount": {
+    "en": "Amount",
+    "zh": "容量",
+    "vi": "dung tích"
+  },
+  "ftbquests.task.ftbquests.forge_energy": {
+    "en": "Forge Energy",
+    "zh": "Forge能量",
+    "vi": "Rèn luyện năng lượng"
+  },
+  "ftbquests.task.ftbquests.forge_energy.value": {
+    "en": "FE / RF",
+    "zh": "FE/RF",
+    "vi": "FE/RF"
+  },
+  "ftbquests.task.ftbquests.forge_energy.text": {
+    "en": "%d FE",
+    "zh": "%dFE",
+    "vi": "%dFE"
+  },
+  "ftbquests.task.ftbquests.tech_reborn_energy": {
+    "en": "Tech Reborn Energy",
+    "zh": "TechReborn能量",
+    "vi": "TechNăng lượng tái sinh"
+  },
+  "ftbquests.task.ftbquests.tech_reborn_energy.value": {
+    "en": "E",
+    "zh": "E",
+    "vi": "E"
+  },
+  "ftbquests.task.ftbquests.tech_reborn_energy.text": {
+    "en": "%d E",
+    "zh": "%dE",
+    "vi": "%dE"
+  },
+  "ftbquests.task.ftbquests.custom": {
+    "en": "Custom",
+    "zh": "自定义",
+    "vi": "Tùy chỉnh"
+  },
+  "ftbquests.task.ftbquests.xp": {
+    "en": "XP Levels",
+    "zh": "经验等级",
+    "vi": "mức độ kinh nghiệm"
+  },
+  "ftbquests.task.ftbquests.xp.value": {
+    "en": "XP",
+    "zh": "经验",
+    "vi": "kinh nghiệm"
+  },
+  "ftbquests.task.ftbquests.xp.points": {
+    "en": "Points",
+    "zh": "点数",
+    "vi": "Điểm"
+  },
+  "ftbquests.task.ftbquests.xp.points.tooltip": {
+    "en": "Use XP points to complete instead of levels. Use a calculator to find out what the value should be",
+    "zh": "用经验点代替经验等级来完成。请用计算器计算数值是多少",
+    "vi": "Điều này được thực hiện bằng cách sử dụng điểm kinh nghiệm thay vì cấp độ kinh nghiệm. Hãy sử dụng máy tính để tính giá trị"
+  },
+  "ftbquests.task.ftbquests.dimension": {
+    "en": "Visit Dimension",
+    "zh": "访问维度",
+    "vi": "kích thước truy cập"
+  },
+  "ftbquests.task.ftbquests.dimension.dim": {
+    "en": "Dimension",
+    "zh": "维度",
+    "vi": "Kích thước"
+  },
+  "ftbquests.task.ftbquests.biome": {
+    "en": "Visit Biome",
+    "zh": "访问生物群系",
+    "vi": "Thăm quần xã sinh vật"
+  },
+  "ftbquests.task.ftbquests.biome.biome": {
+    "en": "Biome",
+    "zh": "生物群系",
+    "vi": "quần thể sinh vật"
+  },
+  "ftbquests.task.ftbquests.structure": {
+    "en": "Find Structure",
+    "zh": "发现结构",
+    "vi": "khám phá cấu trúc"
+  },
+  "ftbquests.task.ftbquests.structure.structure": {
+    "en": "Structure",
+    "zh": "结构",
+    "vi": "kết cấu"
+  },
+  "ftbquests.task.ftbquests.stat": {
+    "en": "Stat",
+    "zh": "统计",
+    "vi": "thống kê"
+  },
+  "ftbquests.task.ftbquests.stat.stat": {
+    "en": "Stat Name",
+    "zh": "统计名称",
+    "vi": "Tên thống kê"
+  },
+  "ftbquests.task.ftbquests.stat.value": {
+    "en": "Value",
+    "zh": "数值",
+    "vi": "giá trị số"
+  },
+  "ftbquests.task.ftbquests.kill": {
+    "en": "Kill Entity",
+    "zh": "击杀实体",
+    "vi": "Giết thực thể"
+  },
+  "ftbquests.task.ftbquests.kill.entity": {
+    "en": "Entity Name",
+    "zh": "实体名称",
+    "vi": "Tên thực thể"
+  },
+  "ftbquests.task.ftbquests.kill.value": {
+    "en": "Count",
+    "zh": "数量",
+    "vi": "Số lượng"
+  },
+  "ftbquests.task.ftbquests.kill.title": {
+    "en": "Kill: %sx %s",
+    "zh": "击杀：%sx%s",
+    "vi": "Tiêu diệt: %sx%s"
+  },
+  "ftbquests.task.ftbquests.location": {
+    "en": "Location",
+    "zh": "坐标",
+    "vi": "điều phối"
+  },
+  "ftbquests.task.ftbquests.location.dim": {
+    "en": "Dimension",
+    "zh": "维度",
+    "vi": "Kích thước"
+  },
+  "ftbquests.task.ftbquests.location.ignore_dim": {
+    "en": "Ignore Dimension",
+    "zh": "忽略维度",
+    "vi": "bỏ qua kích thước"
+  },
+  "ftbquests.task.ftbquests.location.x": {
+    "en": "X Position",
+    "zh": "X坐标",
+    "vi": "Tọa độ X"
+  },
+  "ftbquests.task.ftbquests.location.x.tooltip": {
+    "en": "Minimum X for player (player-X must be >= X and < X+W)",
+    "zh": "玩家的最小X坐标（玩家的X坐标必须大于等于X且小于X+W）",
+    "vi": "Tọa độ X tối thiểu của người chơi (tọa độ X của người chơi phải lớn hơn hoặc bằng X và nhỏ hơn X+W)"
+  },
+  "ftbquests.task.ftbquests.location.y": {
+    "en": "Y Position",
+    "zh": "Y坐标",
+    "vi": "Tọa độ Y"
+  },
+  "ftbquests.task.ftbquests.location.y.tooltip": {
+    "en": "Minimum Y for player (player-Y must be >= Y and < Y+H)",
+    "zh": "玩家的最小Y坐标（玩家的Y坐标必须大于等于Y且小于Y+H）",
+    "vi": "Tọa độ Y tối thiểu của người chơi (tọa độ Y của người chơi phải lớn hơn hoặc bằng Y và nhỏ hơn Y+H)"
+  },
+  "ftbquests.task.ftbquests.location.z": {
+    "en": "Z Position",
+    "zh": "Z坐标",
+    "vi": "tọa độ Z"
+  },
+  "ftbquests.task.ftbquests.location.z.tooltip": {
+    "en": "Minimum Z for player (player-Z must be >= Z and < Z+D)",
+    "zh": "玩家的最小Z坐标（玩家的Z坐标必须大于等于Z且小于Z+D）",
+    "vi": "Tọa độ Z tối thiểu của người chơi (tọa độ Z của người chơi phải lớn hơn hoặc bằng Z và nhỏ hơn Z+D)"
+  },
+  "ftbquests.task.ftbquests.location.w": {
+    "en": "X Size (W)",
+    "zh": "X轴向长度（宽）",
+    "vi": "Chiều dài trục X (chiều rộng)"
+  },
+  "ftbquests.task.ftbquests.location.h": {
+    "en": "Y Size (H)",
+    "zh": "Y轴向长度（高）",
+    "vi": "Chiều dài trục Y (chiều cao)"
+  },
+  "ftbquests.task.ftbquests.location.d": {
+    "en": "Z Size (D)",
+    "zh": "Z轴向长度（深）",
+    "vi": "Chiều dài trục Z (độ sâu)"
+  },
+  "ftbquests.task.ftbquests.checkmark": {
+    "en": "Checkmark",
+    "zh": "检查标记",
+    "vi": "Dấu kiểm"
+  },
+  "ftbquests.task.ftbquests.advancement": {
+    "en": "Advancement",
+    "zh": "进度",
+    "vi": "lịch trình"
+  },
+  "ftbquests.task.ftbquests.advancement.criterion": {
+    "en": "Criterion",
+    "zh": "条件",
+    "vi": "tình trạng"
+  },
+  "ftbquests.task.ftbquests.observation": {
+    "en": "Observation",
+    "zh": "观察",
+    "vi": "quan sát"
+  },
+  "ftbquests.task.ftbquests.observation.timer": {
+    "en": "Timer",
+    "zh": "观察时间",
+    "vi": "Thời gian quan sát"
+  },
+  "ftbquests.task.ftbquests.observation.observe_type": {
+    "en": "Type",
+    "zh": "类型",
+    "vi": "kiểu"
+  },
+  "ftbquests.task.ftbquests.observation.to_observe": {
+    "en": "Observe",
+    "zh": "观察",
+    "vi": "quan sát"
+  },
+  "ftbquests.task.ftbquests.interaction": {
+    "en": "Interaction",
+    "zh": "交互",
+    "vi": "sự tương tác"
+  },
+  "ftbquests.task.ftbquests.interaction.type": {
+    "en": "Type",
+    "zh": "类型",
+    "vi": "kiểu"
+  },
+  "ftbquests.task.ftbquests.interaction.match": {
+    "en": "Match",
+    "zh": "匹配",
+    "vi": "cuộc thi đấu"
+  },
+  "ftbquests.task.ftbquests.interaction.properties": {
+    "en": "Properties",
+    "zh": "属性",
+    "vi": "tài sản"
+  },
+  "ftbquests.task.ftbquests.buildcraft_mj": {
+    "en": "BuildCraft Energy",
+    "zh": "BuildCraft能量",
+    "vi": "Năng lượng xây dựng"
+  },
+  "ftbquests.task.ftbquests.buildcraft_mj.value": {
+    "en": "mJ",
+    "zh": "mJ",
+    "vi": "mJ"
+  },
+  "ftbquests.task.ftbquests.buildcraft_mj.text": {
+    "en": "%d MJ",
+    "zh": "%dMJ",
+    "vi": "%dMJ"
+  },
+  "ftbquests.task.ftbquests.ic2_energy": {
+    "en": "IC2 Energy",
+    "zh": "IC2能量",
+    "vi": "năng lượng IC2"
+  },
+  "ftbquests.task.ftbquests.ic2_energy.value": {
+    "en": "EU",
+    "zh": "EU",
+    "vi": "EU"
+  },
+  "ftbquests.task.ftbquests.ic2_energy.text": {
+    "en": "%d EU",
+    "zh": "%dEU",
+    "vi": "%dEU"
+  },
+  "ftbquests.task.ftbquests.botania_mana": {
+    "en": "Botania Mana",
+    "zh": "植物魔法魔力",
+    "vi": "ma thuật thực vật"
+  },
+  "ftbquests.task.ftbquests.botania_mana.value": {
+    "en": "Mana",
+    "zh": "魔力",
+    "vi": "ảo thuật"
+  },
+  "ftbquests.task.ftbquests.botania_mana.show_numbers": {
+    "en": "Show Numbers",
+    "zh": "显示数量",
+    "vi": "Hiển thị số lượng"
+  },
+  "ftbquests.task.ftbquests.botania_mana.text": {
+    "en": "%d Mana",
+    "zh": "%d魔力",
+    "vi": "%dMa thuật"
+  },
+  "ftbquests.task.ftbquests.emc": {
+    "en": "EMC",
+    "zh": "EMC",
+    "vi": "EMC"
+  },
+  "ftbquests.task.ftbquests.gamestage": {
+    "en": "Stage",
+    "zh": "阶段",
+    "vi": "sân khấu"
+  },
+  "ftbquests.task.ftbquests.npc_quest": {
+    "en": "CustomNPCs Quest",
+    "zh": "自定义NPC任务",
+    "vi": "Nhiệm vụ NPC tùy chỉnh"
+  },
+  "ftbquests.task.ftbquests.npc_quest.id": {
+    "en": "Quest ID",
+    "zh": "任务ID",
+    "vi": "ID nhiệm vụ"
+  },
+  "ftbquests.task.ftbquests.npc_quest.check_active": {
+    "en": "Check if quest is active",
+    "zh": "任务进行时检测",
+    "vi": "Phát hiện khi tác vụ đang được tiến hành"
+  },
+  "ftbquests.task.ftbquests.npc_dialog": {
+    "en": "CustomNPCs Dialog",
+    "zh": "自定义NPC对话框",
+    "vi": "Hộp thoại tùy chỉnh NPC"
+  },
+  "ftbquests.task.ftbquests.npc_dialog.id": {
+    "en": "Dialog ID",
+    "zh": "对话框ID",
+    "vi": "ID hộp thoại"
+  },
+  "ftbquests.task.ftbquests.npc_faction": {
+    "en": "CustomNPCs Faction",
+    "zh": "自定义NPC派系",
+    "vi": "Phe phái NPC tùy chỉnh"
+  },
+  "ftbquests.task.ftbquests.npc_faction.id": {
+    "en": "Faction ID",
+    "zh": "派系ID",
+    "vi": "ID phe phái"
+  },
+  "ftbquests.task.ftbquests.npc_faction.required_points": {
+    "en": "Required Points",
+    "zh": "需要点数",
+    "vi": "Cần điểm"
+  },
+  "ftbquests.task.ftbquests.npc_faction.mode": {
+    "en": "Point mode",
+    "zh": "点数模式",
+    "vi": "Chế độ điểm"
+  },
+  "ftbquests.reward": {
+    "en": "Reward",
+    "zh": "奖励",
+    "vi": "phần thưởng"
+  },
+  "ftbquests.rewards": {
+    "en": "Rewards",
+    "zh": "奖励",
+    "vi": "phần thưởng"
+  },
+  "ftbquests.reward.team_reward": {
+    "en": "Team Reward",
+    "zh": "团队奖励",
+    "vi": "Phần thưởng của đội"
+  },
+  "ftbquests.reward.blocked": {
+    "en": "%d reward(s) blocked for team '%s'",
+    "zh": "团队“%s”的%d个奖励已被阻止",
+    "vi": "Phần thưởng %d cho đội \"%s\" đã bị chặn"
+  },
+  "ftbquests.reward.this_blocked": {
+    "en": "Reward blocked for team '%s'",
+    "zh": "团队“%s”的奖励已被阻止",
+    "vi": "Phần thưởng cho đội \"%s\" đã bị chặn"
+  },
+  "ftbquests.reward.emergency": {
+    "en": "Emergency Item",
+    "zh": "应急物品",
+    "vi": "nguồn cung cấp khẩn cấp"
+  },
+  "ftbquests.reward.autoclaim": {
+    "en": "Auto-claim",
+    "zh": "自动领取",
+    "vi": "Tự động nhận"
+  },
+  "ftbquests.reward.autoclaim.default": {
+    "en": "Default",
+    "zh": "默认",
+    "vi": "mặc định"
+  },
+  "ftbquests.reward.autoclaim.disabled": {
+    "en": "Disabled",
+    "zh": "禁用",
+    "vi": "Vô hiệu hóa"
+  },
+  "ftbquests.reward.autoclaim.enabled": {
+    "en": "Enabled",
+    "zh": "启用",
+    "vi": "cho phép"
+  },
+  "ftbquests.reward.autoclaim.no_toast": {
+    "en": "Enabled, No Toast",
+    "zh": "启用，无弹出消息",
+    "vi": "Đã bật, không có thông báo bật lên"
+  },
+  "ftbquests.reward.autoclaim.invisible": {
+    "en": "Enabled, Invisible",
+    "zh": "启用，不可见",
+    "vi": "Đã bật, vô hình"
+  },
+  "ftbquests.reward.claim_all": {
+    "en": "Claim All Rewards",
+    "zh": "领取所有奖励",
+    "vi": "Yêu cầu tất cả phần thưởng"
+  },
+  "ftbquests.reward.collected": {
+    "en": "Reward Collected!",
+    "zh": "奖励已收集！",
+    "vi": "Phần thưởng được thu thập!"
+  },
+  "ftbquests.reward.exclude_from_claim_all": {
+    "en": "Exclude from Claim All",
+    "zh": "从“领取全部”中排除",
+    "vi": "Loại trừ khỏi \"Nhận tất cả\""
+  },
+  "ftbquests.reward.exclude_from_claim_all.tooltip": {
+    "en": "Ignore this reward when the \"Claim All\" button is clicked\nThis setting cannot be changed for Loot, Random\n and Choice reward types",
+    "zh": "当点击“领取全部”按钮时忽略此奖励\n此设置无法更改“战利品”、“随机”和“选择”奖励类型",
+    "vi": "Bỏ qua phần thưởng này khi nhấp vào nút \"Yêu cầu tất cả\"\nCài đặt này không thể thay đổi loại phần thưởng \"Loot\", \"Ngẫu nhiên\" và \"Chọn\""
+  },
+  "ftbquests.reward.random_bonus": {
+    "en": "Random Bonus",
+    "zh": "随机奖励",
+    "vi": "Phần thưởng ngẫu nhiên"
+  },
+  "ftbquests.reward.ftbquests.item": {
+    "en": "Item",
+    "zh": "物品",
+    "vi": "điều"
+  },
+  "ftbquests.reward.ftbquests.item.count": {
+    "en": "Count",
+    "zh": "数量",
+    "vi": "Số lượng"
+  },
+  "ftbquests.reward.ftbquests.item.only_one": {
+    "en": "Only One",
+    "zh": "仅有一个",
+    "vi": "chỉ một"
+  },
+  "ftbquests.reward.ftbquests.item.only_one.tooltip": {
+    "en": "If inventory has that item, doesn't give it. Ignores NBT.",
+    "zh": "如果物品栏中已有该物品则不会发放。忽略NBT。",
+    "vi": "Nếu mặt hàng đã có trong kho thì nó sẽ không được xuất ra. Bỏ qua NBT."
+  },
+  "ftbquests.reward.ftbquests.choice": {
+    "en": "Choice Reward",
+    "zh": "选择奖励",
+    "vi": "Chọn phần thưởng"
+  },
+  "ftbquests.reward.ftbquests.random": {
+    "en": "Random Reward",
+    "zh": "随机奖励",
+    "vi": "Phần thưởng ngẫu nhiên"
+  },
+  "ftbquests.reward.ftbquests.loot": {
+    "en": "Loot Reward",
+    "zh": "战利品奖励",
+    "vi": "Phần thưởng chiến lợi phẩm"
+  },
+  "ftbquests.reward.ftbquests.custom": {
+    "en": "Custom",
+    "zh": "自定义",
+    "vi": "Tùy chỉnh"
+  },
+  "ftbquests.reward.ftbquests.xp": {
+    "en": "XP",
+    "zh": "经验",
+    "vi": "kinh nghiệm"
+  },
+  "ftbquests.reward.ftbquests.xp_levels": {
+    "en": "XP Levels",
+    "zh": "经验等级",
+    "vi": "mức độ kinh nghiệm"
+  },
+  "ftbquests.reward.ftbquests.command": {
+    "en": "Command",
+    "zh": "命令",
+    "vi": "Đặt hàng"
+  },
+  "ftbquests.reward.ftbquests.command.player": {
+    "en": null,
+    "zh": "以玩家身份运行",
+    "vi": "Chạy với tư cách người chơi"
+  },
+  "ftbquests.reward.ftbquests.advancement": {
+    "en": "Advancement",
+    "zh": "进度",
+    "vi": "lịch trình"
+  },
+  "ftbquests.reward.ftbquests.advancement.criterion": {
+    "en": "Criterion",
+    "zh": "条件",
+    "vi": "tình trạng"
+  },
+  "ftbquests.reward.ftbquests.advancement.criterion.tooltip": {
+    "en": "Optional, set if you want only one criterion to be granted",
+    "zh": "可选，只想赋予一个条件时设置",
+    "vi": "Tùy chọn, đặt khi bạn chỉ muốn gán một điều kiện"
+  },
+  "ftbquests.reward.ftbquests.toast": {
+    "en": "Toast",
+    "zh": "弹出消息",
+    "vi": "tin nhắn bật lên"
+  },
+  "ftbquests.reward.ftbquests.toast.description": {
+    "en": "Description",
+    "zh": "描述",
+    "vi": "mô tả"
+  },
+  "ftbquests.reward.ftbquests.gamestage": {
+    "en": "Stage",
+    "zh": "阶段",
+    "vi": "sân khấu"
+  },
+  "ftbquests.reward.ftbquests.gamestage.silent": {
+    "en": "Silent",
+    "zh": "无声",
+    "vi": "im lặng"
+  },
+  "ftbquests.reward.ftbquests.gamestage.remove": {
+    "en": "Remove",
+    "zh": "移除",
+    "vi": "Di dời"
+  },
+  "ftbquests.reward.ftbquests.npc_quest": {
+    "en": "CustomNPCs Quest",
+    "zh": "自定义NPC任务",
+    "vi": "Nhiệm vụ NPC tùy chỉnh"
+  },
+  "ftbquests.reward.ftbquests.npc_quest.id": {
+    "en": "Quest ID",
+    "zh": "任务ID",
+    "vi": "ID nhiệm vụ"
+  },
+  "ftbquests.reward.ftbquests.npc_faction": {
+    "en": "CustomNPCs Faction",
+    "zh": "自定义NPC派系",
+    "vi": "Phe phái NPC tùy chỉnh"
+  },
+  "ftbquests.reward.ftbquests.npc_faction.id": {
+    "en": "Faction ID",
+    "zh": "派系ID",
+    "vi": "ID phe phái"
+  },
+  "ftbquests.reward.ftbquests.npc_faction.points": {
+    "en": "Points",
+    "zh": "点数",
+    "vi": "Điểm"
+  },
+  "ftbquests.reward.ftbquests.npc_faction.add": {
+    "en": "Add",
+    "zh": "添加",
+    "vi": "Thêm vào"
+  },
+  "ftbquests.reward.ftbquests.npc_mail": {
+    "en": "CustomNPCs Mail",
+    "zh": "自定义NPC邮件",
+    "vi": "Tùy chỉnh email NPC"
+  },
+  "ftbquests.reward.ftbquests.npc_mail.subject": {
+    "en": "Subject",
+    "zh": "主题",
+    "vi": "chủ đề"
+  },
+  "ftbquests.reward.ftbquests.npc_mail.sender": {
+    "en": "Sender",
+    "zh": "寄件人",
+    "vi": "người gửi"
+  },
+  "ftbquests.reward.ftbquests.npc_mail.message": {
+    "en": "Message",
+    "zh": "信息",
+    "vi": "thông tin"
+  },
+  "ftbquests.reward.ftbquests.npc_mail.time": {
+    "en": "Time",
+    "zh": "时间",
+    "vi": "thời gian"
+  },
+  "ftbquests.reward.ftbquests.npc_mail.been_read": {
+    "en": "Been Read",
+    "zh": "已读",
+    "vi": "Đọc"
+  },
+  "ftbquests.reward.ftbquests.npc_mail.quest_id": {
+    "en": "CustomNPCs Quest ID",
+    "zh": "自定义NPC任务ID",
+    "vi": "ID nhiệm vụ NPC tùy chỉnh"
+  },
+  "ftbquests.reward.ftbquests.npc_mail.quest_title": {
+    "en": "CustomNPCs Quest Title",
+    "zh": "自定义NPC任务标题",
+    "vi": "Tùy chỉnh tiêu đề nhiệm vụ NPC"
+  },
+  "ftbquests.reward.ftbquests.npc_mail.items": {
+    "en": "Items",
+    "zh": "物品",
+    "vi": "điều"
+  },
+  "ftbquests.reward.ftbquests.npc_mail.time_past": {
+    "en": "Time Past",
+    "zh": "超过时间",
+    "vi": "vượt quá thời gian"
+  },
+  "ftbquests.reward_table": {
+    "en": "Reward Table",
+    "zh": "奖励表",
+    "vi": "bảng thưởng"
+  },
+  "ftbquests.reward_table.hide_tooltip": {
+    "en": "Hide Tooltip",
+    "zh": "隐藏文本提示",
+    "vi": "Ẩn gợi ý văn bản"
+  },
+  "ftbquests.reward_table.use_title": {
+    "en": "Use Title",
+    "zh": "使用标题",
+    "vi": "Sử dụng tiêu đề"
+  },
+  "ftbquests.reward_table.edit": {
+    "en": "Edit Reward Table",
+    "zh": "编辑奖励表",
+    "vi": "Chỉnh sửa bảng giải thưởng"
+  },
+  "ftbquests.reward_tables": {
+    "en": "Edit Reward Tables",
+    "zh": "奖励表",
+    "vi": "bảng thưởng"
+  },
+  "ftbquests.reward_table.nothing": {
+    "en": "Nothing",
+    "zh": "无",
+    "vi": "không có"
+  },
+  "ftbquests.reward_table.and_more": {
+    "en": "...and %d more",
+    "zh": "⋯⋯还有%d个",
+    "vi": "⋯⋯Còn có %d nữa"
+  },
+  "ftbquests.reward_table.empty_weight": {
+    "en": "Empty Weight",
+    "zh": "空权重",
+    "vi": "trọng lượng rỗng"
+  },
+  "ftbquests.reward_table.loot_size": {
+    "en": "Loot Size",
+    "zh": "战利品大小",
+    "vi": "kích thước chiến lợi phẩm"
+  },
+  "ftbquests.reward_table.weight": {
+    "en": "Weight",
+    "zh": "权重",
+    "vi": "cân nặng"
+  },
+  "ftbquests.reward_table.set_weight": {
+    "en": "Set Weight",
+    "zh": "设置权重",
+    "vi": "Đặt trọng lượng"
+  },
+  "ftbquests.reward_table.enable_loot_crate": {
+    "en": "Enable Loot Crate",
+    "zh": "战利品箱",
+    "vi": "Hộp chiến lợi phẩm"
+  },
+  "ftbquests.reward_table.loot_crate.id": {
+    "en": "ID",
+    "zh": "ID",
+    "vi": "ID"
+  },
+  "ftbquests.reward_table.loot_crate.item_name": {
+    "en": "Item Name",
+    "zh": "物品名称",
+    "vi": "Tên mặt hàng"
+  },
+  "ftbquests.reward_table.loot_crate.item_name.tooltip": {
+    "en": "This may be a translation key",
+    "zh": "可以是一个本地化键名",
+    "vi": "Có thể là tên khóa được bản địa hóa"
+  },
+  "ftbquests.reward_table.loot_crate.color": {
+    "en": "Color",
+    "zh": "颜色",
+    "vi": "màu sắc"
+  },
+  "ftbquests.reward_table.loot_crate.glow": {
+    "en": "Glow",
+    "zh": "发光",
+    "vi": "ánh sáng"
+  },
+  "ftbquests.reward_table.loot_crate.passive_weight": {
+    "en": "Weight (Passive)",
+    "zh": "权重（被动型）",
+    "vi": "Trọng lượng (thụ động)"
+  },
+  "ftbquests.reward_table.loot_crate.monster_weight": {
+    "en": "Weight (Monster)",
+    "zh": "权重（怪物型）",
+    "vi": "Trọng lượng (loại quái vật)"
+  },
+  "ftbquests.reward_table.loot_crate.boss_weight": {
+    "en": "Weight (Boss)",
+    "zh": "权重（Boss型）",
+    "vi": "Trọng lượng (loại Boss)"
+  },
+  "ftbquests.reward_table.used_in": {
+    "en": "Used in %d Quest Rewards",
+    "zh": "在%d个任务奖励中使用",
+    "vi": "Được sử dụng trong phần thưởng nhiệm vụ %d"
+  },
+  "ftbquests.leaderboard_progress": {
+    "en": "FTB Quests Progress",
+    "zh": "FTB任务进程",
+    "vi": "Quy trình nhiệm vụ FTB"
+  },
+  "jei.ftbquests.lootcrates": {
+    "en": "Loot Crates",
+    "zh": "战利品箱",
+    "vi": "Hộp chiến lợi phẩm"
+  },
+  "jei.ftbquests.lootcrates.chance": {
+    "en": "Chance: %s",
+    "zh": "概率：%s",
+    "vi": "Xác suất: %s"
+  },
+  "jei.ftbquests.lootcrates.no_chance": {
+    "en": "No item chance: %s",
+    "zh": "没有物品的概率：%s",
+    "vi": "Xác suất không có vật phẩm: %s"
+  },
+  "jei.ftbquests.lootcrates.dropped_by": {
+    "en": "Dropped by:",
+    "zh": "掉落来源：",
+    "vi": "Thả nguồn:"
+  },
+  "commands.ftbquests.editing_mode.enabled": {
+    "en": "Editing Mode for '%s' Enabled",
+    "zh": "%s的编辑模式已开启",
+    "vi": "Chế độ chỉnh sửa của %s được bật"
+  },
+  "commands.ftbquests.editing_mode.disabled": {
+    "en": "Editing Mode for '%s' Disabled",
+    "zh": "%s的编辑模式已关闭",
+    "vi": "Chế độ chỉnh sửa cho %s bị tắt"
+  },
+  "commands.ftbquests.locked.enabled": {
+    "en": "Locked quests for %s",
+    "zh": "已锁定%s的任务",
+    "vi": "Tác vụ bị khóa đối với %s"
+  },
+  "commands.ftbquests.locked.disabled": {
+    "en": "Unlocked quests for %s",
+    "zh": "已解锁%s的任务",
+    "vi": "Nhiệm vụ %s đã được mở khóa"
+  },
+  "commands.ftbquests.command.error.no_object": {
+    "en": "No quest object found for ID %s!",
+    "zh": "没有找到ID为%s的任务对象！",
+    "vi": "Không tìm thấy đối tượng tác vụ có ID %s!"
+  },
+  "commands.ftbquests.command.error.no_file": {
+    "en": "No quest file was found, what's going on?!",
+    "zh": "没有找到任务文件，怎么回事？！",
+    "vi": "Không tìm thấy tệp tác vụ, chuyện gì đã xảy ra? !"
+  },
+  "commands.ftbquests.command.error.invalid_id": {
+    "en": "Invalid Object ID: %s!",
+    "zh": "无效的对象ID：%s！",
+    "vi": "ID đối tượng không hợp lệ: %s!"
+  },
+  "commands.ftbquests.command.error.invalid_type": {
+    "en": "Invalid changeProgress type: %s!",
+    "zh": "无效的“改变进程”类型：%s！",
+    "vi": "Loại 'quy trình thay đổi' không hợp lệ: %s!"
+  },
+  "commands.ftbquests.command.error.no_inventory": {
+    "en": "Target block does not contain an inventory!",
+    "zh": "目标方块没有物品栏！",
+    "vi": "Khối mục tiêu không có hàng tồn kho!"
+  },
+  "commands.ftbquests.command.error.not_editing": {
+    "en": "You must be in editing mode (/ftbquests editing_mode) to do this!",
+    "zh": "你必须处于编辑模式（/ftbquests editing_mode）才能执行此操作！",
+    "vi": "Bạn phải ở chế độ chỉnh sửa (/ftbquests edit_mode) để thực hiện hành động này!"
+  },
+  "commands.ftbquests.command.feedback.table_exported": {
+    "en": "Successfully exported Reward Table '%s' with %s items to the target block!",
+    "zh": "成功导出奖励表“%s”的%s个物品到目标方块！",
+    "vi": "Đã xuất thành công các vật phẩm %s từ bảng phần thưởng \"%s\" sang khối mục tiêu!"
+  },
+  "commands.ftbquests.command.feedback.table_imported": {
+    "en": "Successfully imported Reward Table '%s' with %s items!",
+    "zh": "成功向奖励表“%s”导入了%s个物品！",
+    "vi": "Đã nhập thành công vật phẩm %s vào bảng phần thưởng \"%s\"!"
+  },
+  "commands.ftbquests.command.feedback.table_too_many_items": {
+    "en": "WARNING: Table %s contains more items than the target block could handle, stopping here!",
+    "zh": "警告：表%s的物品超过了目标方块所能处理的数量，停止导出！",
+    "vi": "Cảnh báo: Các mục trong bảng %s vượt quá số lượng mà khối mục tiêu có thể xử lý, hãy ngừng xuất!"
+  },
+  "commands.ftbquests.command.feedback.reloaded": {
+    "en": "Quest data reloaded from file!",
+    "zh": "任务数据已从文件重载！",
+    "vi": "Dữ liệu nhiệm vụ đã được tải lại từ tập tin!"
+  },
+  "commands.ftbquests.command.feedback.reloaded.disclaimer": {
+    "en": "Note: Quest reloading is a quest developer convenience tool and not recommended for use on live servers.",
+    "zh": "注意：任务重载是任务开发者的便利工具，不建议在正在游玩的服务器上使用。",
+    "vi": "Lưu ý: Tải lại nhiệm vụ là một công cụ tiện lợi dành cho người phát triển nhiệm vụ và không được khuyến khích sử dụng trên máy chủ bạn đang chơi."
+  },
+  "commands.ftbquests.command.feedback.rewards_blocked": {
+    "en": "Quest reward blocking for for team '%s' set to: %s",
+    "zh": "已将团队“%s”的任务奖励阻止设置为：%s",
+    "vi": "Chặn phần thưởng nhiệm vụ cho nhóm \"%s\" đã được đặt thành: %s"
+  },
+  "commands.ftbquests.change_progress.text": {
+    "en": "Progress has been changed!",
+    "zh": "进程已被更改！",
+    "vi": "Quá trình đã được thay đổi!"
+  },
+  "commands.ftbquests.change_team_rewards.invalid_id": {
+    "en": "Invalid Chapter ID!",
+    "zh": "章节ID无效！",
+    "vi": "ID chương không hợp lệ!"
+  },
+  "commands.ftbquests.change_team_rewards.text": {
+    "en": "Changed %d reward team setting to %s",
+    "zh": "已将%d个奖励物品设置为%s",
+    "vi": "Vật phẩm phần thưởng %d đã được đặt thành %s"
+  },
+  "commands.ftbquests.change_consumable.text": {
+    "en": "Changed %d item task consumable setting to %s",
+    "zh": "已将%d个物品目标消耗设置修改为%s",
+    "vi": "Cài đặt mức tiêu thụ mục tiêu của các mặt hàng %d đã được sửa đổi thành %s"
+  },
+  "commands.ftbquests.import_rewards_from_chest.usage": {
+    "en": "/ftbquests import_rewards_from_chest <reward_table> [weight] [replace]",
+    "zh": "/ftbquests import_rewards_from_chest <奖励表> [权重] [替换]",
+    "vi": "/ftbquests import_rewards_from_chest <bảng phần thưởng> [trọng lượng] [thay thế]"
+  },
+  "commands.ftbquests.import_rewards_from_chest.invalid_id": {
+    "en": "Invalid Reward Table ID!",
+    "zh": "奖励表ID无效！",
+    "vi": "ID bảng phần thưởng không hợp lệ!"
+  },
+  "commands.ftbquests.import_rewards_from_chest.text": {
+    "en": "Imported %d items into %s",
+    "zh": "已将%d个物品导入%s中",
+    "vi": "Các mặt hàng %d đã được nhập vào %s"
+  },
+  "commands.ftbquests.weigh_from_emc.invalid_id": {
+    "en": "Invalid Reward Table ID!",
+    "zh": "奖励表ID无效！",
+    "vi": "ID bảng phần thưởng không hợp lệ!"
+  },
+  "commands.ftbquests.weigh_from_emc.text": {
+    "en": "Changed item reward weight based on EMC in %s",
+    "zh": "根据%s中物品的EMC更改奖励权重",
+    "vi": "Thay đổi trọng lượng phần thưởng dựa trên EMC của vật phẩm trong %s"
+  },
+  "commands.ftbquests.export_rewards_to_chest.usage": {
+    "en": "/ftbquests export_rewards_to_chest <reward_table>",
+    "zh": "/ftbquests export_rewards_to_chest <奖励表>",
+    "vi": "/ftbquestsexport_rewards_to_chest <bảng phần thưởng>"
+  },
+  "commands.ftbquests.export_rewards_to_chest.text": {
+    "en": "Exported %s / %s items from '%s'",
+    "zh": "已从“%3$s”导出%1$s/%2$s物品",
+    "vi": "Đã xuất các mặt hàng %1$s/%2$s từ \"%3$s\""
+  },
+  "ftbquests.gui.key_reference": {
+    "en": null,
+    "zh": "任务界面按键参考",
+    "vi": "Tham chiếu khóa giao diện tác vụ"
+  },
+  "ftbquests.gui.key_reference.player": {
+    "en": "General Controls\n-;Zoom out\n+;Zoom in\n0;Reset Zoom\nTab;Next Chapter\nShift + Tab;Previous Chapter\n1 - 9;Go to Chapter\nSpace;Recenter View\nCtrl + F;Search\nF1;While hovering quest, show extended info\nLeft Mouse;View Quest Details\nMouse Wheel;Scroll Up/Down\nShift + Mouse Wheel;Scroll Left/Right\nCtrl + Mouse Wheel;Zoom In/Out",
+    "zh": "通用控制\n-;缩小视图\n+;放大视图\n0;重置缩放\nTab;下一章节\nShift + Tab;上一章节\n1 - 9;跳转至章节\nSpace;重置视图中心\nCtrl + F;搜索\nF1;悬停任务时显示详细信息\n左键;查看任务详情\n鼠标滚轮;上下滚动\nShift + 鼠标滚轮;左右滚动\nCtrl + 鼠标滚轮;缩放视图",
+    "vi": "Kiểm soát phổ quát\n-;Thu nhỏ tầm nhìn\n+;Phóng to chế độ xem\n0;Đặt lại thu phóng\nTab;Chương tiếp theo\nShift + Tab; Chương trước\n1 - 9; chuyển sang chương\nSpace;Đặt lại trung tâm xem\nCtrl + F;Tìm kiếm\nF1; Hiển thị chi tiết khi di chuột một nhiệm vụ\nNhấp chuột trái; xem chi tiết nhiệm vụ\nBánh xe chuột; cuộn lên và xuống\nShift + con lăn chuột; cuộn sang trái và phải\nCtrl + con lăn chuột; thu phóng chế độ xem"
+  },
+  "ftbquests.gui.key_reference.editor": {
+    "en": "Editor Mode\nCtrl + Left Mouse;Toggle Selection\nLeft Alt + Left Mouse;Quest Properties\nRight Alt + Left Mouse;Copy Quest\nMiddle Mouse;Move Selected Quest(s)\nRight Mouse;Context Menu\nMiddle Mouse: Drag;Select Quests in Drag Box\nCtrl + Middle Mouse: Drag;Toggle Selection in Box\nCtrl + A;Select All\nCtrl + D;Select None\nCtrl + Up/Down/Left/Right;Move Selected Quests\nCtrl + R;Toggle Crosshairs\nCtrl + C;Copy Selected/Hovered Object\nCtrl + V;Paste Selection\nCtrl + Shift + V;Paste Quest (no dependencies)\nCtrl + Alt + V;Paste as Quest Link\n\nQuest View Panel\nT;Edit Quest Title\nS;Edit Quest Subtitle\nD;Edit Quest Description",
+    "zh": "编辑模式\nCtrl + 左键;切换选择状态\n中键;移动选中任务\n右键;上下文菜单\n中键拖动;框选任务\nCtrl + 中键拖动;切换框内任务选择状态\nCtrl + A;全选\nCtrl + D;取消选择\nCtrl + 方向键;移动选中任务\nCtrl + R;切换十字准线\nCtrl + C;复制选中任务\nCtrl + V;粘贴任务\nCtrl + Shift + V;粘贴任务（无依赖关系）\nCtrl + Alt + V;粘贴任务链接\n\n任务视图面板\nT;编辑任务标题\nS;编辑任务副标题\nD;编辑任务描述",
+    "vi": "Chế độ chỉnh sửa\nCtrl + nhấp chuột trái; trạng thái lựa chọn chuyển đổi\nNhấp chuột giữa; di chuyển nhiệm vụ đã chọn\nNhấp chuột phải; trình đơn ngữ cảnh\nKéo chuột giữa; nhiệm vụ chọn khung\nCtrl + kéo giữa; chuyển trạng thái lựa chọn nhiệm vụ trong hộp\nCtrl + A; chọn tất cả\nCtrl + D;Hủy lựa chọn\nCtrl + phím mũi tên; di chuyển nhiệm vụ đã chọn\nCtrl + R; chuyển đổi dấu thập\nCtrl + C; Sao chép tác vụ đã chọn\nCtrl + V;Dán tác vụ\nCtrl + Shift + V; Dán tác vụ (không phụ thuộc)\nCtrl + Alt + V; Dán liên kết tác vụ\n\nBảng xem tác vụ\nT;Chỉnh sửa tiêu đề nhiệm vụ\nS;Chỉnh sửa phụ đề nhiệm vụ\nD;Chỉnh sửa mô tả nhiệm vụ"
+  },
+  "ftbquests.gui.preferences": {
+    "en": "Player Preferences",
+    "zh": "玩家偏好设置",
+    "vi": "Tùy chọn người chơi"
+  },
+  "ftbquests.ui.old_scroll_wheel": {
+    "en": "Old-style Scroll Wheel Behavior",
+    "zh": "旧版滚轮行为",
+    "vi": "Hành vi của bánh xe cuộn kế thừa"
+  },
+  "ftbquests.ui.old_scroll_wheel.tooltip": {
+    "en": "When false, scroll wheel scrolls up & down: hold Shift to pan, Ctrl to zoom\nWhen true, scroll wheel only zooms (1.19 and earlier behavior)",
+    "zh": "False：滚轮上下滚动；Shift+滚轮左右移动，按住Ctrl缩放\nTrue：滚轮仅缩放（1.19及更早版本的行为）",
+    "vi": "Sai: Con lăn cuộn lên xuống; Shift+con lăn di chuyển sang trái và phải, giữ Ctrl để phóng to\nĐúng: bánh xe cuộn chỉ thu phóng (hành vi 1.19 trở về trước)"
+  },
+  "ftbquests.quest.misc.completion_count": {
+    "en": "Completed %s time",
+    "zh": "完成 %s 次",
+    "vi": "Đã hoàn thành %s lần"
+  },
+  "ftbquests.quest.misc.completion_count.plural": {
+    "en": "Completed %s times",
+    "zh": "完成 %s 次",
+    "vi": "Đã hoàn thành %s lần"
+  },
+  "ftbquests.quest.misc.repeat_cooldown": {
+    "en": "Quest Repeat Cooldown",
+    "zh": "任务重复冷却",
+    "vi": "Thời gian hồi chiêu lặp lại nhiệm vụ"
+  },
+  "ftbquests.quest.appearance.entity_vis_size": {
+    "en": "Entity Visualization Size",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquests.task.ftbquests.kill.entity_use_tag": {
+    "en": "Use Entity Tag",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquests.task.ftbquests.kill.entity_vis_size": {
+    "en": "Entity Visualization Size",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquests.task.ftbquests.kill.entity_vis_offset_x": {
+    "en": "Entity Visualization X Offset",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquests.task.ftbquests.kill.entity_vis_offset_y": {
+    "en": "Entity Visualization Y Offset",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquests.task.ftbquests.kill.entity_vis_rotation": {
+    "en": "Entity Visualization Rotation",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquests.task.ftbquests.kill.entity_vis_spin_mode": {
+    "en": "Entity Visualization Spin",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquests.task.ftbquests.kill.entity_vis_spin_mode.use_global": {
+    "en": "Use Global",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquests.task.ftbquests.kill.entity_vis_spin_mode.force_on": {
+    "en": "Always Spin",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquests.task.ftbquests.kill.entity_vis_spin_mode.force_off": {
+    "en": "Never Spin",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquests.task.ftbquests.kill.entity_vis_idle_mode": {
+    "en": "Entity Visualization Idle",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquests.task.ftbquests.kill.entity_vis_idle_mode.use_global": {
+    "en": "Use Global",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquests.task.ftbquests.kill.entity_vis_idle_mode.force_on": {
+    "en": "Always Idle",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquests.task.ftbquests.kill.entity_vis_idle_mode.force_off": {
+    "en": "Never Idle",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquests.task.ftbquests.kill.entity_vis_walk_mode": {
+    "en": "Entity Visualization Walk",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquests.task.ftbquests.kill.entity_vis_walk_mode.use_global": {
+    "en": "Use Global",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquests.task.ftbquests.kill.entity_vis_walk_mode.force_on": {
+    "en": "Always Walk",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquests.task.ftbquests.kill.entity_vis_walk_mode.force_off": {
+    "en": "Never Walk",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquests.task.ftbquests.kill.entity_vis_silhouette_mode": {
+    "en": "Black Silhouette",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquests.task.ftbquests.kill.entity_vis_silhouette_mode.none": {
+    "en": "None",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquests.task.ftbquests.kill.entity_vis_silhouette_mode.until_available": {
+    "en": "Until Available",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquests.task.ftbquests.kill.entity_vis_silhouette_mode.until_completed": {
+    "en": "Until Completed",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquests.task.ftbquests.kill.entity_vis_use_as_quest_icon": {
+    "en": "Use Task Icon As Quest Icon",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquests.task.ftbquests.observation.entity_vis_size": {
+    "en": "Entity Visualization Size",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquests.task.ftbquests.observation.entity_vis_offset_x": {
+    "en": "Entity Visualization X Offset",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquests.task.ftbquests.observation.entity_vis_offset_y": {
+    "en": "Entity Visualization Y Offset",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquests.task.ftbquests.observation.entity_vis_rotation": {
+    "en": "Entity Visualization Rotation",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquests.task.ftbquests.observation.entity_vis_spin_mode": {
+    "en": "Entity Visualization Spin",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquests.task.ftbquests.observation.entity_vis_spin_mode.use_global": {
+    "en": "Use Global",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquests.task.ftbquests.observation.entity_vis_spin_mode.force_on": {
+    "en": "Always Spin",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquests.task.ftbquests.observation.entity_vis_spin_mode.force_off": {
+    "en": "Never Spin",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquests.task.ftbquests.observation.entity_vis_idle_mode": {
+    "en": "Entity Visualization Idle",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquests.task.ftbquests.observation.entity_vis_idle_mode.use_global": {
+    "en": "Use Global",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquests.task.ftbquests.observation.entity_vis_idle_mode.force_on": {
+    "en": "Always Idle",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquests.task.ftbquests.observation.entity_vis_idle_mode.force_off": {
+    "en": "Never Idle",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquests.task.ftbquests.observation.entity_vis_walk_mode": {
+    "en": "Entity Visualization Walk",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquests.task.ftbquests.observation.entity_vis_walk_mode.use_global": {
+    "en": "Use Global",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquests.task.ftbquests.observation.entity_vis_walk_mode.force_on": {
+    "en": "Always Walk",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquests.task.ftbquests.observation.entity_vis_walk_mode.force_off": {
+    "en": "Never Walk",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquests.task.ftbquests.observation.entity_vis_silhouette_mode": {
+    "en": "Black Silhouette",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquests.task.ftbquests.observation.entity_vis_silhouette_mode.none": {
+    "en": "None",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquests.task.ftbquests.observation.entity_vis_silhouette_mode.until_available": {
+    "en": "Until Available",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquests.task.ftbquests.observation.entity_vis_silhouette_mode.until_completed": {
+    "en": "Until Completed",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquests.task.ftbquests.observation.entity_vis_use_as_quest_icon": {
+    "en": "Use Task Icon As Quest Icon",
+    "zh": null,
+    "vi": null
+  },
+  "item.ftbquests.lootcrate.missing": {
+    "en": "ERROR: unknown loot crate '%s'!",
+    "zh": "错误：未知战利品箱 '%s'！",
+    "vi": null
+  },
+  "item.ftbquests.task_screen_configurator": {
+    "en": "Task Screen Configurator",
+    "zh": "任务屏幕配置器",
+    "vi": null
+  },
+  "item.ftbquests.task_screen_configurator.tooltip": {
+    "en": "Sneak + Right-Click a Task Screen block to bind",
+    "zh": "潜行+右键点击任务屏幕方块以绑定",
+    "vi": null
+  },
+  "ftbquests.file.emergency_items.get_items": {
+    "en": "Get Items",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquests.file.pause_game": {
+    "en": "Quest Screen Pauses SSP Game",
+    "zh": "任务界面暂停单人游戏",
+    "vi": null
+  },
+  "ftbquests.file.pause_game.tooltip": {
+    "en": "Does not apply to multiplayer games",
+    "zh": "不适用于多人游戏",
+    "vi": null
+  },
+  "ftbquests.file.drop_book_on_death": {
+    "en": "Drop FTB Quests Book on Death",
+    "zh": "死亡时掉落任务书",
+    "vi": null
+  },
+  "ftbquests.file.hide_excluded_quests": {
+    "en": "Hide Quests in excluded questlines",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquests.file.hide_excluded_quests.tooltip": {
+    "en": "If false, excluded quests will remain visible but grayed out",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquests.chapter.misc.progression_mode": {
+    "en": "Default 'Progression Mode'",
+    "zh": "默认“进度模式”",
+    "vi": null
+  },
+  "ftbquests.chapter.misc.default_repeatable": {
+    "en": "Default 'Repeatable Quest'",
+    "zh": "默认“可重复任务”",
+    "vi": null
+  },
+  "ftbquests.chapter.misc.consume_items": {
+    "en": "Default Item Task 'Consume Items'",
+    "zh": "默认物品任务“消耗物品”",
+    "vi": null
+  },
+  "ftbquests.chapter.visibility.always_invisible": {
+    "en": "Always Invisible",
+    "zh": "始终不可见",
+    "vi": null
+  },
+  "ftbquests.chapter.appearance.default_quest_shape": {
+    "en": "Default Quest Shape",
+    "zh": "默认任务形状",
+    "vi": null
+  },
+  "ftbquests.chapter.appearance.default_quest_size": {
+    "en": "Default Quest Size",
+    "zh": "默认任务尺寸",
+    "vi": null
+  },
+  "ftbquests.chapter.visibility.default_hide_dependency_lines": {
+    "en": "Default 'Hide Dependency Lines'",
+    "zh": "默认“隐藏依赖线”",
+    "vi": null
+  },
+  "ftbquests.chapter.image.align": {
+    "en": "Alignment",
+    "zh": "对齐",
+    "vi": null
+  },
+  "ftbquests.chapter.image.fit": {
+    "en": "Fit to panel width?",
+    "zh": "适应面板宽度？",
+    "vi": null
+  },
+  "ftbquests.chapter.image.hover.tooltip": {
+    "en": "You can use literal text or translation keys here",
+    "zh": "可在此处使用文字或翻译键",
+    "vi": null
+  },
+  "ftbquests.chapter.appearance.default_min_width": {
+    "en": "Default Min Opened Quest Window Width",
+    "zh": "默认最小任务窗口宽度",
+    "vi": null
+  },
+  "ftbquests.chapter.visibility.hide_quest_details_until_startable": {
+    "en": "Hide Quest Details Until Startable",
+    "zh": "隐藏任务详情直到可启动",
+    "vi": null
+  },
+  "ftbquests.chapter.visibility.hide_quest_until_deps_complete": {
+    "en": "Hide Quests Until Dependencies Complete",
+    "zh": "隐藏任务直到依赖完成",
+    "vi": null
+  },
+  "ftbquests.chapter.visibility.hide_quest_until_deps_visible": {
+    "en": "Hide Quests Until Dependencies Visible",
+    "zh": "隐藏任务直到依赖可见",
+    "vi": null
+  },
+  "ftbquests.quest.copied": {
+    "en": "Copied object:",
+    "zh": "已复制对象：",
+    "vi": null
+  },
+  "ftbquests.quest.cannot_copy_many": {
+    "en": "Copying multiple objects is not supported!",
+    "zh": "不支持复制多个对象！",
+    "vi": null
+  },
+  "ftbquests.quest.appearance": {
+    "en": "Appearance",
+    "zh": "外观",
+    "vi": null
+  },
+  "ftbquests.quest.dependencies": {
+    "en": "Dependencies",
+    "zh": "依赖项",
+    "vi": null
+  },
+  "ftbquests.quest.misc": {
+    "en": "Misc",
+    "zh": "其他",
+    "vi": null
+  },
+  "ftbquests.quest.visibility": {
+    "en": "Visibility",
+    "zh": "可见性",
+    "vi": null
+  },
+  "ftbquests.quest.appearance.x": {
+    "en": "X",
+    "zh": "X",
+    "vi": null
+  },
+  "ftbquests.quest.appearance.y": {
+    "en": "Y",
+    "zh": "Y",
+    "vi": null
+  },
+  "ftbquests.quest.appearance.size": {
+    "en": "Size",
+    "zh": "尺寸",
+    "vi": null
+  },
+  "ftbquests.quest.appearance.size.tooltip": {
+    "en": "0 means to use chapter default",
+    "zh": "0表示使用章节默认值",
+    "vi": null
+  },
+  "ftbquests.quest.appearance.icon_scale": {
+    "en": "Icon Scaling",
+    "zh": "图标缩放",
+    "vi": null
+  },
+  "ftbquests.quest.appearance.icon_scale.tooltip": {
+    "en": "Independent of the overall button size",
+    "zh": "独立于整体按钮尺寸",
+    "vi": null
+  },
+  "ftbquests.quest.visibility.hide_until_deps_complete": {
+    "en": "Hide Quest Until Dependencies Complete",
+    "zh": "隐藏任务直到依赖完成",
+    "vi": null
+  },
+  "ftbquests.quest.visibility.hide_until_deps_visible": {
+    "en": "Hide Quest Until Dependencies Visible",
+    "zh": "隐藏任务直到依赖可见",
+    "vi": null
+  },
+  "ftbquests.quest.appearance.shape": {
+    "en": "Shape",
+    "zh": "形状",
+    "vi": null
+  },
+  "ftbquests.quest.shape.none": {
+    "en": "<None>",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquests.quest.misc.can_repeat": {
+    "en": "Repeatable Quest",
+    "zh": "可重复任务",
+    "vi": null
+  },
+  "ftbquests.quest.misc.repeat_cooldown.tooltip": {
+    "en": "Only applies if 'Repeatable Quest' is true.\nThe delay in seconds between claiming all the rewards for the quest and being able to redo the quest's tasks.",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquests.quest.misc.exclusive": {
+    "en": "Exclusive Quest Branch",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquests.quest.misc.exclusive.desc": {
+    "en": "Completing this makes other branches unavailable",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquests.quest.dependencies.dependency_requirement": {
+    "en": "Dependency Requirement",
+    "zh": "依赖项要求",
+    "vi": null
+  },
+  "ftbquests.quest.misc.guide_page": {
+    "en": "Guide Page",
+    "zh": "指南页面",
+    "vi": null
+  },
+  "ftbquests.quest.dependencies.hide_dependency_lines": {
+    "en": "Hide Dependency Lines",
+    "zh": "隐藏依赖线",
+    "vi": null
+  },
+  "ftbquests.quest.dependencies.hide_dependent_lines": {
+    "en": "Hide Dependent Lines",
+    "zh": "隐藏后续任务线",
+    "vi": null
+  },
+  "ftbquests.quest.dependencies.hide_dependent_lines.tooltip": {
+    "en": "Controls display of dependency lines to quests which are unlocked by this one",
+    "zh": "控制此任务解锁的后续任务连接线显示",
+    "vi": null
+  },
+  "ftbquests.quest.dependencies.max_completable_dependents": {
+    "en": "Max Completable Dependents",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquests.quest.dependencies.max_completable_dependents.tooltip": {
+    "en": "If > 0, at most this number of dependents can be completed, and uncompleted dependents become unavailable\nUseful to have exclusive branches in a questline",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquests.quest.dependencies.min_required_dependencies": {
+    "en": "Min Required Dependencies",
+    "zh": "最小依赖数",
+    "vi": null
+  },
+  "ftbquests.quest.visibility.hide_text_until_complete": {
+    "en": "Hide Text Until Quest is Completed",
+    "zh": "隐藏文本直到任务完成",
+    "vi": null
+  },
+  "ftbquests.quest.visibility.hide_text_until_complete.tooltip": {
+    "en": "Quest details can be opened, but no description text is displayed until the quest is completed",
+    "zh": "任务详情可打开，但完成前不显示描述文本",
+    "vi": null
+  },
+  "ftbquests.quest.visibility.hide_lock_icon": {
+    "en": "Hide Lock Icon",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquests.quest.visibility.hide_lock_icon.tooltip": {
+    "en": "Hide the lock icon that is normally show when quest is locked due to a dependency",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquests.quest.misc.disable_jei": {
+    "en": "Disable JEI Recipe",
+    "zh": "禁用JEI配方",
+    "vi": null
+  },
+  "ftbquests.quest.misc.optional": {
+    "en": "Optional Quest",
+    "zh": "可选任务",
+    "vi": null
+  },
+  "ftbquests.quest.misc.optional_task": {
+    "en": "Optional Task",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquests.quest.locked.excluded": {
+    "en": "Locked: excluded by another questline",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquests.quest.locked.cooldown": {
+    "en": "Repeatable in %s",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquests.quest.appearance.min_width": {
+    "en": "Min Opened Quest Window Width",
+    "zh": "最小任务窗口宽度",
+    "vi": null
+  },
+  "ftbquests.quest.misc.ignore_reward_blocking": {
+    "en": "Ignore reward blocking",
+    "zh": "忽略奖励封锁",
+    "vi": null
+  },
+  "ftbquests.quest.misc.ignore_reward_blocking.tooltip": {
+    "en": "Offer the quest reward(s) even if rewards are blocked for the team by the '/ftbquests block_rewards' command",
+    "zh": "即使队伍被'/ftbquests block_rewards'命令封锁奖励，仍发放任务奖励",
+    "vi": null
+  },
+  "ftbquests.quest.visibility.invisible": {
+    "en": "Invisible Until Completed",
+    "zh": "完成前不可见",
+    "vi": null
+  },
+  "ftbquests.quest.visibility.invisible.tooltip": {
+    "en": "Quest is invisible to players until completed.\nUseful for \"easter egg\" optional quests.",
+    "zh": "任务在完成前对玩家不可见。\n适用于“彩蛋”类可选任务。",
+    "vi": null
+  },
+  "ftbquests.quest.visibility.invisible_until_tasks": {
+    "en": "Invisible until X tasks are completed",
+    "zh": "完成X个任务前不可见",
+    "vi": null
+  },
+  "ftbquests.quest.visibility.invisible_until_tasks.tooltip": {
+    "en": "Only applies if Invisible is true.\nIf > 0, quest becomes visible if X or more tasks are completed.",
+    "zh": "仅在“不可见”开启时生效。\n若>0，当完成X个或更多任务时任务可见。",
+    "vi": null
+  },
+  "ftbquests.quest.misc.progression_mode": {
+    "en": "Progression Mode",
+    "zh": "进度模式",
+    "vi": null
+  },
+  "ftbquests.quest.misc.require_sequential_tasks": {
+    "en": "Sequential Task Completion",
+    "zh": "按顺序完成任务",
+    "vi": null
+  },
+  "ftbquests.quest.misc.require_sequential_tasks.tooltip": {
+    "en": "When true, tasks must be completed in the strict order in which they were added to the quest\nDefault means to use chapter setting",
+    "zh": "若开启，任务必须按添加顺序完成\n“默认”表示使用章节设置",
+    "vi": null
+  },
+  "ftbquests.chapter.misc.require_sequential_tasks": {
+    "en": "Sequential Task Completion",
+    "zh": "按顺序完成任务",
+    "vi": null
+  },
+  "ftbquests.chapter.misc.require_sequential_tasks.tooltip": {
+    "en": "When true, tasks must be completed in the strict order in which they were added to the quest",
+    "zh": "若开启，任务必须按添加顺序完成",
+    "vi": null
+  },
+  "ftbquests.chapter.misc.autofocus_id": {
+    "en": "Autofocus Quest ID",
+    "zh": "自动聚焦任务ID",
+    "vi": null
+  },
+  "ftbquests.chapter.misc.autofocus_id.tooltip": {
+    "en": "If not empty, must be a Quest or Quest Link ID (use Copy Quest ID to obtain).\nWhen chapter is opened, the panel will automatically center the view on this quest",
+    "zh": "若非空，必须为任务或任务链接ID（使用复制ID获取）。\n打开章节时，界面将自动聚焦此任务。",
+    "vi": null
+  },
+  "ftbquests.quest.visibility.hide_details_until_startable": {
+    "en": "Hide Details Until Startable",
+    "zh": "隐藏详情直到可启动",
+    "vi": null
+  },
+  "ftbquests.quest.visibility.hide_details_until_startable.tooltip": {
+    "en": "If true, then quest details (text and tasks) can't be viewed until the quest can be started",
+    "zh": "若开启，任务详情（文本和任务）在任务可启动前无法查看",
+    "vi": null
+  },
+  "ftbquests.gui.edit_quest_props": {
+    "en": "Quest Properties",
+    "zh": "任务属性",
+    "vi": null
+  },
+  "ftbquests.gui.convert_json": {
+    "en": "Convert line to Json",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquests.gui.convert_json.2": {
+    "en": "Hold Shift: convert all lines",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquests.gui.insert_link": {
+    "en": "Insert Link",
+    "zh": "插入链接",
+    "vi": null
+  },
+  "ftbquests.gui.confirm_esc": {
+    "en": "Discard Unsaved Changes?",
+    "zh": "放弃未保存的更改？",
+    "vi": null
+  },
+  "ftbquests.gui.set_autofocused": {
+    "en": "Set as Autofocused Quest",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquests.gui.clear_autofocused": {
+    "en": "Clear Autofocused Quest",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquests.gui.restore": {
+    "en": "Restore",
+    "zh": "恢复",
+    "vi": null
+  },
+  "ftbquests.gui.move_left": {
+    "en": "Move Left",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquests.gui.move_right": {
+    "en": "Move Right",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquests.task.grab_item": {
+    "en": "Grab Copy of Item",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquests.task.gave_item": {
+    "en": "Gave Task Item: %s",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquests.task.ftbquests.item.select_tag": {
+    "en": "Select an Item Tag",
+    "zh": "选择物品标签",
+    "vi": null
+  },
+  "ftbquests.reward.team_reward.tooltip": {
+    "en": "When true, this is one reward for the whole team; only the submitting player receives it\nWhen false, all online players receive the reward",
+    "zh": "开启时，整个队伍共享此奖励（仅提交玩家获得）\n关闭时，所有在线玩家均会获得奖励",
+    "vi": null
+  },
+  "ftbquests.reward.ftbquests.all_table": {
+    "en": "All Table Reward",
+    "zh": "全表奖励",
+    "vi": null
+  },
+  "ftbquests.reward.ftbquests.command.tooltip": {
+    "en": "Vanilla substitutions, e.g. @p, are supported\nSpecial substitutions:\n{x} / {y} / {z} - player's current X/Y/Z pos\n{quest} - ID of this quest\n{chapter} - ID of this chapter\n{team} - short name of player's team",
+    "zh": "支持原版变量（如@p）\n特殊变量：\n{x}/{y}/{z} - 玩家坐标\n{quest} - 任务ID\n{chapter} - 章节ID\n{team} - 队伍简称",
+    "vi": null
+  },
+  "ftbquests.reward.ftbquests.command.elevate": {
+    "en": "Run with Elevated Permission",
+    "zh": "管理员权限执行",
+    "vi": null
+  },
+  "ftbquests.reward.ftbquests.command.elevate.tooltip": {
+    "en": "Run the command as if the player had permission level 2",
+    "zh": "以权限等级2执行指令",
+    "vi": null
+  },
+  "ftbquests.reward.ftbquests.command.silent": {
+    "en": "Silent",
+    "zh": "静默执行",
+    "vi": null
+  },
+  "ftbquests.reward_table.disable_loot_crate": {
+    "en": "Disable Loot Crate",
+    "zh": "禁用战利品箱",
+    "vi": null
+  },
+  "commands.ftbquests.command.feedback.clear_display_cache": {
+    "en": "Item display cache has been cleared for all players",
+    "zh": "已清除所有玩家的物品显示缓存",
+    "vi": null
+  },
+  "commands.ftbquests.command.delete_empty_reward_tables.text": {
+    "en": "Deleted %s empty reward tables",
+    "zh": "已删除%d个空奖励表",
+    "vi": null
+  },
+  "commands.ftbquests.change_progress.invalid_type": {
+    "en": "Invalid progress type: %s",
+    "zh": "无效的进度类型: %s",
+    "vi": null
+  },
+  "ftbquests.ui.pinned_quests_pos": {
+    "en": "Pinned Quests Panel Position",
+    "zh": "置顶任务面板位置",
+    "vi": null
+  },
+  "ftbquests.ui.pinned_quests_inset_x": {
+    "en": "Pinned Quests Panel X Inset",
+    "zh": "置顶面板X轴内距",
+    "vi": null
+  },
+  "ftbquests.ui.pinned_quests_inset_x.tooltip": {
+    "en": "Inset is toward center of screen.\nIgnored if X pos is center.",
+    "zh": "内距方向朝向屏幕中心\nX轴居中时无效",
+    "vi": null
+  },
+  "ftbquests.ui.pinned_quests_inset_y": {
+    "en": "Pinned Quests Panel Y Inset",
+    "zh": "置顶面板Y轴内距",
+    "vi": null
+  },
+  "ftbquests.ui.pinned_quests_inset_y.tooltip": {
+    "en": "Inset is toward center of screen.\nIgnored if Y pos is center.",
+    "zh": "内距方向朝向屏幕中心\nY轴居中时无效",
+    "vi": null
+  },
+  "ftbquests.ui.show_lock_icon": {
+    "en": "Show Icon for Locked Quests",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquests.ui.show_lock_icon.tooltip": {
+    "en": "Show a padlock icon on any quests which can't yet be started due to dependency or exclusion restrictions.",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquests.ui.backspace_history": {
+    "en": "Backspace Key for View History",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquests.ui.backspace_history.tooltip": {
+    "en": "When true, pressing Backspace while a quest is being viewed opens the previously-viewed quest.\nWhen false, Backspace behaves like Escape, simply closing the quest.",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquests.xlate": {
+    "en": "Translations",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquests.xlate.editing_locale": {
+    "en": "Locale Override",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquests.xlate.editing_locale.tooltip": {
+    "en": "The language used for editing FTB Quests text: title text for chapters, quests, tasks and reward tables, subtitles for chapters and quests, and quest description text.\nIf empty, use the current Minecraft language setting.",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquests.xlate.hilite_missing": {
+    "en": "Highlight missing translations",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquests.xlate.hilite_missing.tooltip": {
+    "en": "If true, quest text with no translation in the current locale is highlighted when in edit mode and an Editing Locale other than 'en_us'",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquests.objects": {
+    "en": "%d object(s)",
+    "zh": "%d个对象",
+    "vi": null
+  },
+  "ftbquests.message.configurator_bound": {
+    "en": "Configurator Bound: %s",
+    "zh": "配置器已绑定至：%s",
+    "vi": null
+  },
+  "ftbquests.message.task_screen_inaccessible": {
+    "en": "Task Screen is not accessible from here!",
+    "zh": "无法从此处访问任务屏幕！",
+    "vi": null
+  },
+  "ftbquests.message.missing_task_screen": {
+    "en": "Task Screen is missing!",
+    "zh": "任务屏幕缺失！",
+    "vi": null
+  },
+  "ftbquests.message.missing_xlate_1": {
+    "en": "No translation for %s in current locale '%s'",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquests.message.missing_xlate_2": {
+    "en": "Falling back to '%s'",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquests.translation_key.title": {
+    "en": "title",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquests.translation_key.quest_subtitle": {
+    "en": "quest subtitle",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquests.translation_key.chapter_subtitle": {
+    "en": "chapter subtitle",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquests.translation_key.quest_desc": {
+    "en": "quest description",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquests.gui.use_default_lang": {
+    "en": "[Use Default Language]",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquests.custom_icon.texture": {
+    "en": "Texture: %s",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquests.custom_icon.entity": {
+    "en": "Entity: %s",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquests.gui.error.selection_multiple_lines": {
+    "en": "Selection extends over multiple lines!",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquests.gui.error.already_component": {
+    "en": "Line is already text component JSON!",
+    "zh": null,
+    "vi": null
+  },
+  "config.jade.plugin_ftbquests.barrier": {
+    "en": "Barriers",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquest.gui.set_autofocused": {
+    "en": null,
+    "zh": "设为自动聚焦任务",
+    "vi": null
+  },
+  "ftbquest.gui.clear_autofocused": {
+    "en": null,
+    "zh": "清除自动聚焦任务",
+    "vi": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Khoát Kiếm (Claymore)",
+  "icon": "simplyswords:iron_claymore",
+  "category": "simplyswords:category_weapon_variants",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:iron_claymore",
+      "text": "Khoát kiếm khổng lồ vung bằng hai tay, uy lực dập tắt mọi sức kháng cự của kẻ đối đầu."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "simplyswords:iron_claymore",
+      "recipe2": "simplyswords:gold_claymore"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "simplyswords:diamond_claymore"
+    },
+    {
+      "type": "patchouli:smithing",
+      "recipe": "simplyswords:netherite_claymore",
+      "recipe2": "simplyswords:runic_claymore"
+    }
+  ]
+}

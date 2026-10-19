@@ -1,0 +1,60 @@
+
+#Client settings for Bullet Chat
+[client]
+	#Speed of shotting bullets
+	#Unit: SPs per tick
+	#default: 2.0
+	#Range: 0.2 ~ 5.0
+	bullet_speed = 2.0
+	#Life of centered bullets
+	#Unit: ticks (1/20 sec)
+	#default: 160
+	#Range: 20 ~ 400
+	bullet_life = 160
+	#Max number of bullets displayed on screen
+	#default: 200
+	#Range: 10 ~ 800
+	max_bullet = 200
+	#When client fps lower than it, new bullets will not launch
+	#default: 30
+	#Range: 0 ~ 144
+	min_fps = 30
+	#Whether to show senders name before bullets
+	#default: false
+	show_sender = false
+	#Whether to hide vanilla chat panel when not focused
+	#default: true
+	hide_chat = false
+	#Whether to parse /tell infos
+	#default: false
+	parse_tell = false
+	#Adopt the settings from the Chat Settings panel
+	#If true, all the settings below will be invalid!
+	#default: true
+	adopt_chat = true
+	#Size of the bullet text
+	#default: 1.0
+	#Range: 0.2 ~ 2.0
+	text_size = 1.0
+	#Opacity of the bullets
+	#default: 1.0
+	#Range: 0.2 ~ 1.0
+	opacity = 1.0
+	#The size of line spacing
+	#default: 0.0
+	#Range: 0.0 ~ 1.0
+	line_spacing = 0.0
+	#Bullet display offset on top
+	#Unit: SP
+	#default: 0
+	#Range: 0 ~ 400
+	top_offset = 0
+	#Number of bullet tracks on screen
+	#This value will be chopped by other settings
+	#Range: 1 ~ 64
+	track_num = 12
+	#Check Quoth I for more info
+	#You should not modify this entry in any case!!!
+	#default: "bchat"
+	server_token = "bchat"
+

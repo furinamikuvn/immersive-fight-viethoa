@@ -1,0 +1,22 @@
+{
+  "Use /locate structure betterfortresses:fortress instead!": {
+    "en": "Use /locate structure betterfortresses:fortress instead!",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.betterfortresses-fabric-1_20.title": {
+    "en": "YUNG's Better Nether Fortresses",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.betterfortresses-fabric-1_20.option.general.disableVanillaFortresses": {
+    "en": "Disable Vanilla Nether Fortresses",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.betterfortresses-fabric-1_20.option.general.disableVanillaFortresses.@Tooltip": {
+    "en": "Whether vanilla Nether Fortresses should be disabled.",
+    "zh": null,
+    "vi": null
+  }
+}

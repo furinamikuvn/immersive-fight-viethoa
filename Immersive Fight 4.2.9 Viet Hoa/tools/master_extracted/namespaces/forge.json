@@ -1,0 +1,852 @@
+{
+  "fml.menu.mods": {
+    "en": null,
+    "zh": "模组",
+    "vi": "Mod"
+  },
+  "fml.menu.mods.title": {
+    "en": null,
+    "zh": "模组",
+    "vi": "Mod"
+  },
+  "fml.menu.mods.normal": {
+    "en": null,
+    "zh": "正常",
+    "vi": "Bình thường"
+  },
+  "fml.menu.mods.search": {
+    "en": null,
+    "zh": "搜索",
+    "vi": "tìm kiếm"
+  },
+  "fml.menu.mods.a_to_z": {
+    "en": null,
+    "zh": "顺序",
+    "vi": "đặt hàng"
+  },
+  "fml.menu.mods.z_to_a": {
+    "en": null,
+    "zh": "倒序",
+    "vi": "thứ tự ngược lại"
+  },
+  "fml.menu.mods.config": {
+    "en": null,
+    "zh": "配置",
+    "vi": "Cấu hình"
+  },
+  "fml.menu.mods.openmodsfolder": {
+    "en": null,
+    "zh": "打开模组文件夹",
+    "vi": "Mở thư mục mod"
+  },
+  "fml.menu.modoptions": {
+    "en": null,
+    "zh": "模组设置⋯⋯",
+    "vi": "Cài đặt Mod⋯⋯"
+  },
+  "fml.menu.mods.info.version": {
+    "en": null,
+    "zh": "版本：{0}",
+    "vi": "Phiên bản:{0}"
+  },
+  "fml.menu.mods.info.idstate": {
+    "en": null,
+    "zh": "模组ID：{0} 状态：{1,lower}",
+    "vi": "ID Mod: {0} Trạng thái: {1, thấp hơn}"
+  },
+  "fml.menu.mods.info.credits": {
+    "en": null,
+    "zh": "制作人员：{0}",
+    "vi": "Nhà sản xuất: {0}"
+  },
+  "fml.menu.mods.info.authors": {
+    "en": null,
+    "zh": "作者：{0}",
+    "vi": "Tác giả:{0}"
+  },
+  "fml.menu.mods.info.displayurl": {
+    "en": null,
+    "zh": "主页：{0}",
+    "vi": "Trang chủ:{0}"
+  },
+  "fml.menu.mods.info.license": {
+    "en": null,
+    "zh": "许可证：{0}",
+    "vi": "Giấy phép:{0}"
+  },
+  "fml.menu.mods.info.securejardisabled": {
+    "en": null,
+    "zh": "安全模组功能已禁用，请更新JDK",
+    "vi": "Chức năng Mod bảo mật bị tắt, vui lòng cập nhật JDK"
+  },
+  "fml.menu.mods.info.signature": {
+    "en": null,
+    "zh": "签名：{0}",
+    "vi": "Chữ ký:{0}"
+  },
+  "fml.menu.mods.info.signature.unsigned": {
+    "en": null,
+    "zh": "未签名",
+    "vi": "không dấu"
+  },
+  "fml.menu.mods.info.trust": {
+    "en": null,
+    "zh": "信任：{0}",
+    "vi": "Tin tưởng:{0}"
+  },
+  "fml.menu.mods.info.trust.noauthority": {
+    "en": null,
+    "zh": "无",
+    "vi": "không có"
+  },
+  "fml.menu.mods.info.nochildmods": {
+    "en": null,
+    "zh": "未找到附属模组",
+    "vi": "Không tìm thấy Mod phụ kiện nào"
+  },
+  "fml.menu.mods.info.childmods": {
+    "en": null,
+    "zh": "附属模组：{0}",
+    "vi": "Mod đính kèm: {0}"
+  },
+  "fml.menu.mods.info.updateavailable": {
+    "en": null,
+    "zh": "有可用更新：{0}",
+    "vi": "Đã có bản cập nhật: {0}"
+  },
+  "fml.menu.mods.info.changelogheader": {
+    "en": null,
+    "zh": "更改日志：",
+    "vi": "Nhật ký thay đổi:"
+  },
+  "fml.menu.multiplayer.compatible": {
+    "en": null,
+    "zh": "兼容的FML模组服务端\n{0,choice,1#1个运行的模组|1<{0}个运行的模组}",
+    "vi": "Máy chủ Mod FML tương thích\n{0,choice,1#1 Mod chạy|1<{0} Mod chạy}"
+  },
+  "fml.menu.multiplayer.incompatible": {
+    "en": null,
+    "zh": "不兼容的FML模组服务端",
+    "vi": "Máy chủ Mod FML không tương thích"
+  },
+  "fml.menu.multiplayer.incompatible.extra": {
+    "en": null,
+    "zh": "不兼容的FML模组服务端\n{0}",
+    "vi": "Máy chủ Mod FML không tương thích\n{0}"
+  },
+  "fml.menu.multiplayer.truncated": {
+    "en": null,
+    "zh": "由于协议字节限制，数据可能不准确。",
+    "vi": "Dữ liệu có thể không chính xác do giới hạn byte giao thức."
+  },
+  "fml.menu.multiplayer.vanilla": {
+    "en": null,
+    "zh": "原版服务端",
+    "vi": "Máy chủ gốc"
+  },
+  "fml.menu.multiplayer.vanilla.incompatible": {
+    "en": null,
+    "zh": "不兼容的原版服务端",
+    "vi": "Máy chủ gốc không tương thích"
+  },
+  "fml.menu.multiplayer.unknown": {
+    "en": null,
+    "zh": "未知服务端{0}",
+    "vi": "Máy chủ không xác định {0}"
+  },
+  "fml.menu.multiplayer.serveroutdated": {
+    "en": null,
+    "zh": "Forge服务端网络协议版本已过时",
+    "vi": "Phiên bản giao thức mạng máy chủ Forge đã lỗi thời"
+  },
+  "fml.menu.multiplayer.clientoutdated": {
+    "en": null,
+    "zh": "Forge客户端网络协议版本已过时",
+    "vi": "Phiên bản giao thức mạng máy khách Forge đã lỗi thời"
+  },
+  "fml.menu.multiplayer.extraservermods": {
+    "en": null,
+    "zh": "客户端可能需要服务端的额外模组",
+    "vi": "Máy khách có thể yêu cầu các Mod bổ sung từ máy chủ"
+  },
+  "fml.menu.multiplayer.modsincompatible": {
+    "en": null,
+    "zh": "服务端模组列表不兼容",
+    "vi": "Danh sách Mod máy chủ không tương thích"
+  },
+  "fml.menu.multiplayer.networkincompatible": {
+    "en": null,
+    "zh": "服务端网络消息列表不兼容",
+    "vi": "Danh sách tin nhắn mạng máy chủ không tương thích"
+  },
+  "fml.menu.loadingmods": {
+    "en": null,
+    "zh": "{0,choice,0#没有模组加载|1#1个模组已加载|1<{0}个模组已加载}",
+    "vi": "{0,choice,0#Không tải Mod|Đã tải Mod 1#1|1<Đã tải Mod {0}}"
+  },
+  "fml.menu.notification.title": {
+    "en": null,
+    "zh": "启动提醒",
+    "vi": "Bắt đầu lời nhắc"
+  },
+  "fml.menu.accessdenied.title": {
+    "en": null,
+    "zh": "服务端拒绝访问",
+    "vi": "Truy cập máy chủ bị từ chối"
+  },
+  "fml.menu.accessdenied.message": {
+    "en": null,
+    "zh": "FML无法连接到此服务端\n服务端{0}禁止模组客户端的访问",
+    "vi": "FML không thể kết nối với máy chủ này\nMáy chủ {0} cấm truy cập máy khách Mod"
+  },
+  "fml.menu.backupfailed.title": {
+    "en": null,
+    "zh": "备份失败",
+    "vi": "Sao lưu không thành công"
+  },
+  "fml.menu.backupfailed.message": {
+    "en": null,
+    "zh": "保存存档{0}时出错\n请修复问题后再重试",
+    "vi": "Lỗi lưu trữ {0}\nVui lòng khắc phục sự cố và thử lại"
+  },
+  "fml.button.open.file": {
+    "en": null,
+    "zh": "打开{0}",
+    "vi": "Mở{0}"
+  },
+  "fml.button.open.mods.folder": {
+    "en": null,
+    "zh": "打开模组文件夹",
+    "vi": "Mở thư mục mod"
+  },
+  "fml.button.continue.launch": {
+    "en": null,
+    "zh": "继续返回主菜单",
+    "vi": "Tiếp tục quay lại menu chính"
+  },
+  "fml.loadingerrorscreen.errorheader": {
+    "en": null,
+    "zh": "加载模组时出错\n加载时出现{0}个错误",
+    "vi": "Lỗi tải mod\nĐã xảy ra lỗi {0} khi tải"
+  },
+  "fml.loadingerrorscreen.warningheader": {
+    "en": null,
+    "zh": "模组加载警告\n加载时出现{0}个警告",
+    "vi": "Cảnh báo tải mod\nCảnh báo {0} xuất hiện khi đang tải"
+  },
+  "fml.language.missingversion": {
+    "en": null,
+    "zh": "模组文件{5}需要语言提供程序{3}:{4,vr}加载\n§7已经发现{6,i18n,fml.messages.artifactversion}",
+    "vi": "Tệp mod {5} yêu cầu tải nhà cung cấp ngôn ngữ {3}:{4,vr}\n§7 đã phát hiện ra {6,i18n,fml.messages.artifactversion}"
+  },
+  "fml.modloading.missingclasses": {
+    "en": null,
+    "zh": "模组文件{3}的模组未找到",
+    "vi": "Không tìm thấy Mod của tệp Mod {3}"
+  },
+  "fml.modloading.missingmetadata": {
+    "en": null,
+    "zh": "mods.toml缺少modid{3}的元数据",
+    "vi": "mods.toml thiếu siêu dữ liệu cho modid{3}"
+  },
+  "fml.modloading.failedtoloadmodclass": {
+    "en": null,
+    "zh": "{0,modinfo,name}出现了类加载错误\n§7{2,exc,msg}",
+    "vi": "Đã xảy ra lỗi tải lớp trong {0,modinfo,name}\n§7{2,exc,tin nhắn}"
+  },
+  "fml.modloading.failedtoloadmod": {
+    "en": null,
+    "zh": "{0,modinfo,name}（{0,modinfo,id}）无法正确加载\n§7{2,exc,msg}",
+    "vi": "{0,modinfo,name}({0,modinfo,id}) không thể tải chính xác\n§7{2,exc,tin nhắn}"
+  },
+  "fml.modloading.uncaughterror": {
+    "en": null,
+    "zh": "出现了一个未捕获处理的错误。\n§7{2,exc,msg}",
+    "vi": "Đã xảy ra lỗi chưa được xử lý.\n§7{2,exc,tin nhắn}"
+  },
+  "fml.modloading.errorduringevent": {
+    "en": null,
+    "zh": "{0,modinfo,name}（{0,modinfo,id}）在{1,lower}事件阶段遇到错误\n§7{2,exc,msg}",
+    "vi": "{0,modinfo,name} ({0,modinfo,id}) đã gặp lỗi trong giai đoạn sự kiện {1,low}\n§7{2,exc,tin nhắn}"
+  },
+  "fml.modloading.failedtoloadforge": {
+    "en": null,
+    "zh": "无法加载Forge",
+    "vi": "Không thể tải Forge"
+  },
+  "fml.modloading.missingdependency": {
+    "en": null,
+    "zh": "模组§e{4}§r依赖§6{3}§r §o{5,vr}§r\n§7目前，§6{3}§r§7为§o{6,i18n,fml.messages.artifactversion.ornotinstalled}",
+    "vi": "Mod §e{4}§r phụ thuộc vào §6{3}§r\n§7 Hiện tại, §6{3}§r§7 là"
+  },
+  "fml.modloading.missingdependency.optional": {
+    "en": null,
+    "zh": "模组§e{4}§r仅支持§3{3}§r §o{5,vr}§r\n§7当前§3{3}§r§7的版本为§o{6}",
+    "vi": "Mod §e{4}§r chỉ hỗ trợ §3{3}§r\n§7Phiên bản hiện tại của §3{3}§r§7 là §o{6}"
+  },
+  "fml.modloading.cycle": {
+    "en": null,
+    "zh": "检测到模组依赖项循环：{0}",
+    "vi": "Đã phát hiện vòng lặp phụ thuộc mod: {0}"
+  },
+  "fml.modloading.failedtoprocesswork": {
+    "en": null,
+    "zh": "{0,modinfo,name}（{0,modinfo,id}）在延期工作{2,exc,msg}遇到错误",
+    "vi": "{0,modinfo,name} ({0,modinfo,id}) gặp lỗi trong công việc bị trì hoãn {2,exc,msg}"
+  },
+  "fml.modloading.brokenfile": {
+    "en": null,
+    "zh": "文件{2}不是有效的模组文件",
+    "vi": "Tệp {2} không phải là tệp mod hợp lệ"
+  },
+  "fml.modloading.brokenfile.oldforge": {
+    "en": null,
+    "zh": "文件{2}适用于旧版本的Forge，无法加载",
+    "vi": "Tệp {2} dành cho phiên bản Forge cũ hơn và không thể tải được"
+  },
+  "fml.modloading.brokenfile.liteloader": {
+    "en": null,
+    "zh": "文件{2}是LiteLoader模组，无法加载",
+    "vi": "Tệp {2} là Mod LiteLoader và không thể tải được."
+  },
+  "fml.modloading.brokenfile.fabric": {
+    "en": null,
+    "zh": "文件{2}是Fabric模组，无法加载",
+    "vi": "Tệp {2} là Mod Fabric và không thể tải được."
+  },
+  "fml.modloading.brokenfile.optifine": {
+    "en": null,
+    "zh": "文件{2}是版本不兼容的OptiFine",
+    "vi": "Tệp {2} là phiên bản không tương thích của OptiFine"
+  },
+  "fml.modloading.brokenfile.bukkit": {
+    "en": null,
+    "zh": "文件{2}是一个Bukkit或Spigot、Paper等改编自Bukkit的插件，无法加载",
+    "vi": "Tệp {2} là Bukkit hoặc plug-in được điều chỉnh từ Bukkit như Spigot hoặc Paper và không thể tải được."
+  },
+  "fml.modloading.brokenfile.invalidzip": {
+    "en": null,
+    "zh": "文件{2}不是jar文件",
+    "vi": "Tệp {2} không phải là tệp jar"
+  },
+  "fml.modloading.brokenresources": {
+    "en": null,
+    "zh": "文件{2}未能加载有效的ResourcePackInfo",
+    "vi": "Tệp {2} không tải được ResourcePackInfo hợp lệ"
+  },
+  "fml.modloading.missinglicense": {
+    "en": null,
+    "zh": "文件{3}缺少许可证信息",
+    "vi": "Tệp {3} thiếu thông tin giấy phép"
+  },
+  "fml.resources.modresources": {
+    "en": null,
+    "zh": "{0}个模组文件资源",
+    "vi": "Tài nguyên tệp Mod {0}"
+  },
+  "fml.messages.artifactversion.ornotinstalled": {
+    "en": null,
+    "zh": "{0,ornull,fml.messages.artifactversion.notinstalled}",
+    "vi": "{0,ornull,fml.messages.artifactversion.notinstalled}"
+  },
+  "fml.messages.artifactversion": {
+    "en": null,
+    "zh": "{0,ornull,fml.messages.artifactversion.none}",
+    "vi": "{0,ornull,fml.messages.artifactversion.none}"
+  },
+  "fml.messages.artifactversion.none": {
+    "en": null,
+    "zh": "无",
+    "vi": "không có"
+  },
+  "fml.messages.artifactversion.notinstalled": {
+    "en": null,
+    "zh": "§n未安装",
+    "vi": "§n chưa được cài đặt"
+  },
+  "fml.messages.version.restriction.any": {
+    "en": null,
+    "zh": "任意版本",
+    "vi": "bất kỳ phiên bản nào"
+  },
+  "fml.messages.version.restriction.lower.inclusive": {
+    "en": null,
+    "zh": "{0}或更高版本",
+    "vi": "{0} hoặc cao hơn"
+  },
+  "fml.messages.version.restriction.lower.exclusive": {
+    "en": null,
+    "zh": "高于{0}的版本",
+    "vi": "Phiên bản cao hơn {0}"
+  },
+  "fml.messages.version.restriction.upper.inclusive": {
+    "en": null,
+    "zh": "{0}或更低版本",
+    "vi": "{0} hoặc thấp hơn"
+  },
+  "fml.messages.version.restriction.upper.exclusive": {
+    "en": null,
+    "zh": "低于{0}的版本",
+    "vi": "Phiên bản thấp hơn {0}"
+  },
+  "fml.messages.version.restriction.bounded": {
+    "en": null,
+    "zh": "介于{0}和{1}之间的版本",
+    "vi": "Phiên bản giữa {0} và {1}"
+  },
+  "fml.messages.version.restriction.bounded.inclusive": {
+    "en": null,
+    "zh": "{0}（含）到{1}（含）",
+    "vi": "{0} (đã bao gồm) đến {1} (đã bao gồm)"
+  },
+  "fml.messages.version.restriction.bounded.exclusive": {
+    "en": null,
+    "zh": "{0}（不含）到{1}（不含）",
+    "vi": "{0} (không bao gồm) đến {1} (không bao gồm)"
+  },
+  "fml.messages.version.restriction.bounded.lowerexclusive": {
+    "en": null,
+    "zh": "{0}（不含）到{1}（含）",
+    "vi": "{0} (độc quyền) đến {1} (bao gồm)"
+  },
+  "fml.messages.version.restriction.bounded.upperexclusive": {
+    "en": null,
+    "zh": "{0}（含）到{1}（不含）",
+    "vi": "{0} (bao gồm) đến {1} (độc quyền)"
+  },
+  "commands.forge.arguments.enum.invalid": {
+    "en": null,
+    "zh": "枚举常量必须是{0}之一，当前为{1}",
+    "vi": "Hằng số liệt kê phải là một trong {0}, hiện tại là {1}"
+  },
+  "commands.forge.dimensions.list": {
+    "en": null,
+    "zh": "当前已注册的维度，按类型划分：",
+    "vi": "Kích thước đã đăng ký hiện tại, theo loại:"
+  },
+  "commands.forge.entity.list.invalid": {
+    "en": null,
+    "zh": "筛选器无效，无法匹配到任何实体。使用/forge entity list获取合法列表。",
+    "vi": "Bộ lọc không hợp lệ và không thể khớp với bất kỳ thực thể nào. Sử dụng/giả mạo danh sách thực thể để có được danh sách hợp pháp."
+  },
+  "commands.forge.entity.list.invalidworld": {
+    "en": null,
+    "zh": "无法加载维度{0}。请指定有效维度。",
+    "vi": "Không thể tải kích thước {0}. Vui lòng chỉ định thứ nguyên hợp lệ."
+  },
+  "commands.forge.entity.list.none": {
+    "en": null,
+    "zh": "找不到实体。",
+    "vi": "Không tìm thấy thực thể."
+  },
+  "commands.forge.entity.list.single.header": {
+    "en": null,
+    "zh": "实体：{0}；总数：{1}",
+    "vi": "Thực thể: {0}; Tổng cộng: {1}"
+  },
+  "commands.forge.entity.list.multiple.header": {
+    "en": null,
+    "zh": "总计：{0}",
+    "vi": "Tổng cộng:{0}"
+  },
+  "commands.forge.gen.usage": {
+    "en": null,
+    "zh": "用法：/forge gen <x> <y> <z> <区块数量> [维度] [间隔]",
+    "vi": "Cách sử dụng: /forge gen <x> <y> <z> <số khối> [chiều] [khoảng]"
+  },
+  "commands.forge.gen.dim_fail": {
+    "en": null,
+    "zh": "无法加载维度{0}，任务终止。",
+    "vi": "Không thể tải kích thước {0}, nhiệm vụ đã kết thúc."
+  },
+  "commands.forge.gen.progress": {
+    "en": null,
+    "zh": "生成进度：{0}/{1}",
+    "vi": "Tiến trình thế hệ: {0}/{1}"
+  },
+  "commands.forge.gen.complete": {
+    "en": null,
+    "zh": "成功在维度{2}中生成{0}个新区块（在{1}之外）",
+    "vi": "Đã tạo thành công các khối mới {0} ở kích thước {2} (bên ngoài {1})"
+  },
+  "commands.forge.gen.start": {
+    "en": null,
+    "zh": "开始在维度{3}中以（{1}，{2}）为中心螺旋生成{0}个区块。",
+    "vi": "Bắt đầu tạo các khối {0} theo hình xoắn ốc với ({1}, {2}) làm tâm trong chiều {3}."
+  },
+  "commands.forge.setdim.invalid.entity": {
+    "en": null,
+    "zh": "所选实体（{0}）无效。",
+    "vi": "Thực thể được chọn ({0}) không hợp lệ."
+  },
+  "commands.forge.setdim.invalid.dim": {
+    "en": null,
+    "zh": "指定的维度ID（{0}）无效。",
+    "vi": "ID thứ nguyên được chỉ định ({0}) không hợp lệ."
+  },
+  "commands.forge.setdim.invalid.nochange": {
+    "en": null,
+    "zh": "所选的实体（{0}）已在指定的维度（{1}）。",
+    "vi": "Thực thể được chọn ({0}) đã có kích thước được chỉ định ({1})."
+  },
+  "commands.forge.setdim.deprecated": {
+    "en": null,
+    "zh": "此命令将在1.17版本中被移除，请改用%s",
+    "vi": "Lệnh này sẽ bị xóa trong phiên bản 1.17, thay vào đó hãy sử dụng %s"
+  },
+  "commands.forge.tps.invalid": {
+    "en": null,
+    "zh": "维度{0}无效，可用值：{1}",
+    "vi": "Thứ nguyên {0} không hợp lệ, các giá trị khả dụng: {1}"
+  },
+  "commands.forge.tps.summary.all": {
+    "en": null,
+    "zh": "总计：平均游戏刻耗时：{0} ms。平均TPS：{1}",
+    "vi": "Tổng cộng: Thời gian trò chơi trung bình: {0} mili giây. TPS trung bình: {1}"
+  },
+  "commands.forge.mods.list": {
+    "en": null,
+    "zh": "模组列表：{0}",
+    "vi": "Danh sách Mod: {0}"
+  },
+  "commands.forge.tps.summary.basic": {
+    "en": null,
+    "zh": "维度{0}：平均游戏刻耗时：{1} ms。平均TPS：{2}",
+    "vi": "Kích thước {0}: Thời gian trò chơi trung bình: {1} ms. TPS trung bình: {2}"
+  },
+  "commands.forge.tps.summary.named": {
+    "en": null,
+    "zh": "维度{0}（{1}）：平均游戏刻耗时：{2} ms。平均TPS：{3}",
+    "vi": "Kích thước {0} ({1}): Thời gian trò chơi trung bình: {2} ms. TPS trung bình: {3}"
+  },
+  "commands.forge.tracking.entity.enabled": {
+    "en": null,
+    "zh": "实体追踪已启用，耗时%d秒。",
+    "vi": "Tính năng theo dõi thực thể được bật và mất %d giây."
+  },
+  "commands.forge.tracking.entity.reset": {
+    "en": null,
+    "zh": "实体计时数据已清除！",
+    "vi": "Đã xóa dữ liệu thời gian của thực thể!"
+  },
+  "commands.forge.tracking.invalid": {
+    "en": null,
+    "zh": "追踪数据无效。",
+    "vi": "Dữ liệu theo dõi không hợp lệ."
+  },
+  "commands.forge.tracking.be.enabled": {
+    "en": null,
+    "zh": "方块实体追踪已启用，耗时%d秒。",
+    "vi": "Tính năng theo dõi thực thể khối được bật, mất %d giây."
+  },
+  "commands.forge.tracking.be.reset": {
+    "en": null,
+    "zh": "方块实体计时数据已清除！",
+    "vi": "Dữ liệu thời gian của thực thể khối đã bị xóa!"
+  },
+  "commands.forge.tracking.timing_entry": {
+    "en": null,
+    "zh": "{0} - {1} [{2}，{3}，{4}]：{5}",
+    "vi": "{0} - {1} [{2}，{3}，{4}]：{5}"
+  },
+  "commands.forge.tracking.no_data": {
+    "en": null,
+    "zh": "暂无数据记录。",
+    "vi": "Chưa có bản ghi dữ liệu nào."
+  },
+  "commands.config.getwithtype": {
+    "en": null,
+    "zh": "在%3$s找到%2$s类型的%1$s的配置",
+    "vi": "Tìm cấu hình %1$s loại %2$s tại %3$s"
+  },
+  "commands.config.noconfig": {
+    "en": null,
+    "zh": "未找到找到%2$s类型的%1$s的配置",
+    "vi": "Không tìm thấy Cấu hình cho %1$s thuộc loại %2$s được tìm thấy"
+  },
+  "forge.update.beta.1": {
+    "en": null,
+    "zh": "%s警告：%sForge为Beta版本",
+    "vi": "%s Cảnh báo: %sForge là phiên bản Beta"
+  },
+  "forge.update.beta.2": {
+    "en": null,
+    "zh": "可能会出现重大问题，在报告前请先核实。",
+    "vi": "Các vấn đề lớn có thể phát sinh, vui lòng xác minh trước khi báo cáo."
+  },
+  "forge.update.newversion": {
+    "en": null,
+    "zh": "新的Forge版本可用：%s",
+    "vi": "Đã có phiên bản Forge mới: %s"
+  },
+  "forge.menu.updatescreen.title": {
+    "en": null,
+    "zh": "模组更新",
+    "vi": "Cập nhật mod"
+  },
+  "forge.configgui.removeErroringEntities.tooltip": {
+    "en": null,
+    "zh": "该项为true时会移除更新时抛出错误的实体，而不是关闭服务端并报告崩溃日志。警告：这可能会导致很严重的后果。请谨慎使用，我们不会对任何损失负责。",
+    "vi": "Khi đúng, các thực thể gây ra lỗi trong quá trình cập nhật sẽ bị xóa thay vì tắt máy chủ và báo cáo nhật ký sự cố. Cảnh báo: Điều này có thể gây ra hậu quả nghiêm trọng. Vui lòng sử dụng nó một cách thận trọng, chúng tôi sẽ không chịu trách nhiệm cho bất kỳ tổn thất nào."
+  },
+  "forge.configgui.removeErroringEntities": {
+    "en": null,
+    "zh": "移除出现错误的实体",
+    "vi": "Xóa các thực thể có lỗi"
+  },
+  "forge.configgui.removeErroringBlockEntities.tooltip": {
+    "en": null,
+    "zh": "该项为true时会移除更新时抛出错误的方块实体，而不是关闭服务器并报告崩溃日志。警告：这可能会导致很严重的后果。请谨慎使用，我们不会对任何损失负责。",
+    "vi": "Đặt giá trị này thành true sẽ loại bỏ các thực thể khối gây ra lỗi khi cập nhật thay vì tắt máy chủ và báo cáo nhật ký sự cố. Cảnh báo: Điều này có thể gây ra hậu quả nghiêm trọng. Vui lòng sử dụng nó một cách thận trọng, chúng tôi sẽ không chịu trách nhiệm cho bất kỳ tổn thất nào."
+  },
+  "forge.configgui.removeErroringBlockEntities": {
+    "en": null,
+    "zh": "移除出错的方块实体",
+    "vi": "Loại bỏ các thực thể khối bị lỗi"
+  },
+  "forge.configgui.fullBoundingBoxLadders.tooltip": {
+    "en": null,
+    "zh": "该项为true时会检测整个实体是否碰到了梯子，而不是检测它们所处方块内。造成了显著的力学识别机制差异，因此默认值为Minecraft原版行为。默认：false",
+    "vi": "Khi đúng, điều này sẽ phát hiện xem toàn bộ thực thể có chạm vào thang hay không, chứ không phải khối mà chúng nằm trong đó. Điều này dẫn đến sự khác biệt đáng kể về nhận dạng cơ học, vì vậy mặc định là hành vi Minecraft chuẩn. Mặc định: sai"
+  },
+  "forge.configgui.fullBoundingBoxLadders": {
+    "en": null,
+    "zh": "对梯子的完全碰撞箱",
+    "vi": "Hitbox đầy đủ cho thang"
+  },
+  "forge.configgui.zombieBaseSummonChance.tooltip": {
+    "en": null,
+    "zh": "僵尸召唤的基础生成概率。更改此项可以更改额外生成僵尸的机制。",
+    "vi": "Xác suất xuất hiện cơ bản của việc triệu hồi zombie. Việc thay đổi điều này sẽ thay đổi cơ chế sinh ra thêm zombie."
+  },
+  "forge.configgui.zombieBaseSummonChance": {
+    "en": null,
+    "zh": "僵尸召唤概率",
+    "vi": "Xác suất triệu tập zombie"
+  },
+  "forge.configgui.zombieBabyChance.tooltip": {
+    "en": null,
+    "zh": "小僵尸在所有僵尸（包括僵尸的子类）中的出现概率。更改此项可以修改僵尸生成机制。",
+    "vi": "Xác suất các zombie con xuất hiện trong số tất cả các zombie (bao gồm cả các loại zombie phụ). Thay đổi điều này sẽ thay đổi cơ chế sinh sản của zombie."
+  },
+  "forge.configgui.zombieBabyChance": {
+    "en": null,
+    "zh": "小僵尸概率",
+    "vi": "Xác suất của zombie nhỏ"
+  },
+  "forge.configgui.logCascadingWorldGeneration.tooltip": {
+    "en": null,
+    "zh": "日志记录生成层叠区块时的地形填充问题。",
+    "vi": "Ghi nhật ký các vấn đề lấp đầy địa hình khi tạo các khối xếp tầng."
+  },
+  "forge.configgui.logCascadingWorldGeneration": {
+    "en": null,
+    "zh": "日志记录层叠世界生成",
+    "vi": "Ghi nhật ký thế hệ xếp tầng"
+  },
+  "forge.configgui.fixVanillaCascading.tooltip": {
+    "en": null,
+    "zh": "修复原版层叠世界生成的问题。这会改变原版世界生成器的运作方式，请不要反馈任何有关与原版世界生成不一致的现象。",
+    "vi": "Đã khắc phục sự cố với thế giới lớp ban đầu. Điều này sẽ thay đổi cách hoạt động của trình tạo thế giới vanilla, vui lòng không báo cáo bất kỳ sự mâu thuẫn nào với thế hệ vanilla."
+  },
+  "forge.configgui.fixVanillaCascading": {
+    "en": null,
+    "zh": "修复原版层叠世界生成问题",
+    "vi": "Đã khắc phục sự cố tạo thế giới lớp ban đầu"
+  },
+  "forge.configgui.dimensionUnloadQueueDelay.tooltip": {
+    "en": null,
+    "zh": "服务端在卸载某个维度前的以刻为单位的等待时间。在快速加载或卸载维度的情况下（例如向下界传送门中按一定频率丢物品，迫使其保持加载），适当调整此选项会有所帮助。",
+    "vi": "Thời gian tính bằng tích tắc mà máy chủ chờ trước khi dỡ bỏ một thứ nguyên. Việc điều chỉnh tùy chọn này một cách thích hợp có thể hữu ích trong các tình huống khi các kích thước được tải hoặc dỡ tải nhanh chóng (chẳng hạn như thả vật phẩm vào Cổng Địa ngục ở một tần suất nhất định, buộc nó phải ở trạng thái tải)."
+  },
+  "forge.configgui.dimensionUnloadQueueDelay": {
+    "en": null,
+    "zh": "维度卸载延时",
+    "vi": "Độ trễ dỡ tải kích thước"
+  },
+  "forge.configgui.clumpingThreshold.tooltip": {
+    "en": null,
+    "zh": "调整Packet51优于Packet52的临界值，默认最小为64、最大为1024。",
+    "vi": "Điều chỉnh giá trị tới hạn cho Packet51 tốt hơn Packet52. Giá trị tối thiểu mặc định là 64 và tối đa là 1024."
+  },
+  "forge.configgui.clumpingThreshold": {
+    "en": null,
+    "zh": "数据包成簇临界值",
+    "vi": "ngưỡng phân cụm gói"
+  },
+  "forge.configgui.treatEmptyTagsAsAir.tooltip": {
+    "en": null,
+    "zh": "原版将使用空标签的处理配方，且并不允许你合成该槽位中的任何内容。如果该选项为false，则此项更改中的空标签会使用屏障作为物品。目的是防止使用空气合成。",
+    "vi": "Vanilla sẽ sử dụng công thức xử lý thẻ trống và sẽ không cho phép bạn chế tạo bất cứ thứ gì trong vị trí đó. Nếu tùy chọn này sai, các thẻ trống trong thay đổi này sẽ sử dụng rào chắn làm mục. Mục đích là để ngăn chặn việc sử dụng tổng hợp không khí."
+  },
+  "forge.configgui.treatEmptyTagsAsAir": {
+    "en": null,
+    "zh": "将空标签作为空气处理",
+    "vi": "Coi các thẻ trống như không khí"
+  },
+  "forge.configgui.forceSystemNanoTime.tooltip": {
+    "en": null,
+    "zh": "强制使用System.nanoTime替换glfwGetTime，来作为主要的客户端时间提供者。",
+    "vi": "Buộc sử dụng System.nanoTime thay vì glfwGetTime làm nhà cung cấp thời gian chính cho khách hàng."
+  },
+  "forge.configgui.forceSystemNanoTime": {
+    "en": null,
+    "zh": "强制使用System.nanoTime",
+    "vi": "Buộc sử dụng System.nanoTime"
+  },
+  "forge.configgui.zoomInMissingModelTextInGui.tooltip": {
+    "en": null,
+    "zh": "关闭此项会使GUI的缺失模型文本适配栏位。",
+    "vi": "Việc tắt tính năng này sẽ khiến văn bản mô hình bị thiếu của GUI khớp với trường này."
+  },
+  "forge.configgui.zoomInMissingModelTextInGui": {
+    "en": null,
+    "zh": "放大GUI中的模型缺失文本",
+    "vi": "Phóng to mô hình văn bản bị thiếu trong GUI"
+  },
+  "forge.configgui.forgeCloudsEnabled.tooltip": {
+    "en": null,
+    "zh": "将云的渲染交由GPU处理以获得更快的渲染速度。",
+    "vi": "Xử lý kết xuất đám mây tới GPU để có tốc độ kết xuất nhanh hơn."
+  },
+  "forge.configgui.forgeCloudsEnabled": {
+    "en": null,
+    "zh": "使用Forge云渲染器",
+    "vi": "Sử dụng trình kết xuất đám mây Forge"
+  },
+  "forge.configgui.disableStairSlabCulling.tooltip": {
+    "en": null,
+    "zh": "禁用剔除楼梯和台阶旁边的隐藏面。这样会造成额外渲染，但可能会修复一些利用此原版机制的资源包。",
+    "vi": "Vô hiệu hóa việc loại bỏ các khuôn mặt ẩn bên cạnh cầu thang và bậc thang. Điều này sẽ gây ra hiện tượng hiển thị bổ sung nhưng có thể khắc phục một số gói tài nguyên tận dụng cơ chế cơ bản này."
+  },
+  "forge.configgui.disableStairSlabCulling": {
+    "en": null,
+    "zh": "禁用楼梯/台阶剔除",
+    "vi": "Vô hiệu hóa việc loại bỏ cầu thang/bước"
+  },
+  "forge.configgui.alwaysSetupTerrainOffThread.tooltip": {
+    "en": null,
+    "zh": "启用后，Forge会将所有区块更新分配到独立的区块更新线程。\n可能会大幅提升FPS，但也可能产生奇怪的渲染卡顿。\n不推荐在可用核心数少的电脑上启用此选项。",
+    "vi": "Khi được bật, Forge sẽ phân phối tất cả các bản cập nhật khối tới các luồng cập nhật khối độc lập.\nNó có thể tăng FPS đáng kể nhưng cũng có thể gây ra độ trễ hiển thị kỳ lạ.\nViệc bật tùy chọn này không được khuyến nghị trên các máy tính có ít lõi khả dụng."
+  },
+  "forge.configgui.alwaysSetupTerrainOffThread": {
+    "en": null,
+    "zh": "强制线程化区块渲染",
+    "vi": "Buộc hiển thị đoạn theo chuỗi"
+  },
+  "forge.configgui.forgeLightPipelineEnabled.tooltip": {
+    "en": null,
+    "zh": "启用Forge方块渲染管线 - 修复自定义模型的光照问题。",
+    "vi": "Kích hoạt đường ống kết xuất khối Forge - Đã khắc phục sự cố ánh sáng với các mô hình tùy chỉnh."
+  },
+  "forge.configgui.forgeLightPipelineEnabled": {
+    "en": null,
+    "zh": "Forge光照管线启用",
+    "vi": "Đã kích hoạt đường ống chiếu sáng Forge"
+  },
+  "forge.configgui.selectiveResourceReloadEnabled.tooltip": {
+    "en": null,
+    "zh": "启用后，特定的重载任务（如切换语言）会更快进行。",
+    "vi": "Khi được bật, một số tác vụ nặng nhất định (chẳng hạn như chuyển đổi ngôn ngữ) sẽ diễn ra nhanh hơn."
+  },
+  "forge.configgui.selectiveResourceReloadEnabled": {
+    "en": null,
+    "zh": "启用选择性资源加载",
+    "vi": "Cho phép tải tài nguyên có chọn lọc"
+  },
+  "forge.configgui.showLoadWarnings.tooltip": {
+    "en": null,
+    "zh": "启用后，Forge将显示加载过程中出现的任何警告。",
+    "vi": "Khi được bật, Forge sẽ hiển thị mọi cảnh báo xảy ra trong quá trình tải."
+  },
+  "forge.configgui.showLoadWarnings": {
+    "en": null,
+    "zh": "显示加载警告",
+    "vi": "Hiển thị cảnh báo tải"
+  },
+  "forge.configgui.disableVersionCheck.tooltip": {
+    "en": null,
+    "zh": "该项为true时会禁用Forge版本检测机制。Forge会在我们的服务端上对比查询一个较小的json文件以获取版本信息。更多细节请参阅在GitHub上的ForgeVersion类。",
+    "vi": "Khi tùy chọn này đúng, cơ chế phát hiện phiên bản Forge sẽ bị tắt. Forge sẽ so sánh và truy vấn tệp json nhỏ hơn trên máy chủ của chúng tôi để lấy thông tin phiên bản. Xem lớp ForgeVersion trên GitHub để biết thêm chi tiết."
+  },
+  "forge.configgui.disableVersionCheck": {
+    "en": null,
+    "zh": "禁用Forge版本检测",
+    "vi": "Vô hiệu hóa phát hiện phiên bản Forge"
+  },
+  "forge.controlsgui.shift": {
+    "en": null,
+    "zh": "SHIFT + %s",
+    "vi": "SHIFT + %s"
+  },
+  "forge.controlsgui.control": {
+    "en": null,
+    "zh": "CTRL + %s",
+    "vi": "CTRL + %s"
+  },
+  "forge.controlsgui.control.mac": {
+    "en": null,
+    "zh": "CMD + %s",
+    "vi": "CMD + %s"
+  },
+  "forge.controlsgui.alt": {
+    "en": null,
+    "zh": "ALT + %s",
+    "vi": "ALT + %s"
+  },
+  "forge.container.enchant.limitedEnchantability": {
+    "en": null,
+    "zh": "附魔能力限制",
+    "vi": "Hạn chế khả năng mê hoặc"
+  },
+  "attribute.name.forge.swim_speed": {
+    "en": null,
+    "zh": "游泳速度",
+    "vi": "tốc độ bơi"
+  },
+  "attribute.name.forge.nametag_distance": {
+    "en": null,
+    "zh": "名称标签渲染距离",
+    "vi": "Khoảng cách hiển thị thẻ tên"
+  },
+  "attribute.name.forge.entity_gravity": {
+    "en": null,
+    "zh": "实体重力",
+    "vi": "trọng lực thực thể"
+  },
+  "attribute.name.generic.reach_distance": {
+    "en": null,
+    "zh": "触及距离",
+    "vi": "đạt được khoảng cách"
+  },
+  "forge.swimSpeed": {
+    "en": null,
+    "zh": "游泳速度",
+    "vi": "tốc độ bơi"
+  },
+  "forge.nameTagDistance": {
+    "en": null,
+    "zh": "名称标签渲染距离",
+    "vi": "Khoảng cách hiển thị thẻ tên"
+  },
+  "forge.entity_gravity": {
+    "en": null,
+    "zh": "实体重力",
+    "vi": "trọng lực thực thể"
+  },
+  "generic.reachDistance": {
+    "en": null,
+    "zh": "触及距离",
+    "vi": "đạt được khoảng cách"
+  },
+  "fluid.minecraft.milk": {
+    "en": null,
+    "zh": "奶",
+    "vi": "Sữa"
+  },
+  "fluid.minecraft.flowing_milk": {
+    "en": null,
+    "zh": "奶",
+    "vi": "Sữa"
+  }
+}

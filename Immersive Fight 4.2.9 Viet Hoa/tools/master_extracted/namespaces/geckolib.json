@@ -1,0 +1,157 @@
+{
+  "block.geckolib.fertilizer": {
+    "en": "Fertilizer",
+    "zh": null,
+    "vi": null
+  },
+  "block.geckolib.fertilizer.tooltip": {
+    "en": "Turn on rain to see the fertilizer model!",
+    "zh": null,
+    "vi": null
+  },
+  "block.geckolib.gecko_habitat": {
+    "en": "Gecko Habitat",
+    "zh": null,
+    "vi": null
+  },
+  "entity.geckolib.bat": {
+    "en": "Bat",
+    "zh": null,
+    "vi": null
+  },
+  "entity.geckolib.bike": {
+    "en": "Bike",
+    "zh": null,
+    "vi": null
+  },
+  "entity.geckolib.cool_kid": {
+    "en": "Cool Kid",
+    "zh": null,
+    "vi": null
+  },
+  "entity.geckolib.parasite": {
+    "en": "Parasite",
+    "zh": null,
+    "vi": null
+  },
+  "entity.geckolib.race_car": {
+    "en": "Race Car",
+    "zh": null,
+    "vi": null
+  },
+  "entity.geckolib.fake_glass": {
+    "en": "Fake Glass",
+    "zh": null,
+    "vi": null
+  },
+  "entity.geckolib.mutant_zombie": {
+    "en": "Mutant Zombie",
+    "zh": null,
+    "vi": null
+  },
+  "entity.geckolib.gremlin": {
+    "en": "Gremlin",
+    "zh": null,
+    "vi": null
+  },
+  "entity.geckolib.mutant_zombie.equip": {
+    "en": "Gave %1$s to the entity",
+    "zh": null,
+    "vi": null
+  },
+  "item.geckolib.bat_spawn_egg": {
+    "en": "Bat Spawn Egg",
+    "zh": null,
+    "vi": null
+  },
+  "item.geckolib.bike_spawn_egg": {
+    "en": "Bike Spawn Egg",
+    "zh": null,
+    "vi": null
+  },
+  "item.geckolib.cool_kid_spawn_egg": {
+    "en": "Cool Kid Spawn Egg",
+    "zh": null,
+    "vi": null
+  },
+  "item.geckolib.jack_in_the_box": {
+    "en": "Jack-in-the-Box",
+    "zh": null,
+    "vi": null
+  },
+  "item.geckolib.jack_in_the_box.opening": {
+    "en": "Opening the Jack-in-the-Box!",
+    "zh": null,
+    "vi": null
+  },
+  "item.geckolib.parasite_spawn_egg": {
+    "en": "Parasite Spawn Egg",
+    "zh": null,
+    "vi": null
+  },
+  "item.geckolib.gremlin_spawn_egg": {
+    "en": "Gremlin Spawn Egg",
+    "zh": null,
+    "vi": null
+  },
+  "item.geckolib.race_car_spawn_egg": {
+    "en": "Race Car Spawn Egg",
+    "zh": null,
+    "vi": null
+  },
+  "item.geckolib.fake_glass_spawn_egg": {
+    "en": "Fake Glass Spawn Egg",
+    "zh": null,
+    "vi": null
+  },
+  "item.geckolib.mutant_zombie_spawn_egg": {
+    "en": "Mutant Zombie Spawn Egg",
+    "zh": null,
+    "vi": null
+  },
+  "item.geckolib.wolf_armor_boots": {
+    "en": "Wolf Armor Boots",
+    "zh": null,
+    "vi": null
+  },
+  "item.geckolib.wolf_armor_chestplate": {
+    "en": "Wolf Armor Chestplate",
+    "zh": null,
+    "vi": null
+  },
+  "item.geckolib.wolf_armor_helmet": {
+    "en": "Wolf Armor Helmet",
+    "zh": null,
+    "vi": null
+  },
+  "item.geckolib.wolf_armor_leggings": {
+    "en": "Wolf Armor Leggings",
+    "zh": null,
+    "vi": null
+  },
+  "item.geckolib.gecko_armor_boots": {
+    "en": "Gecko Armor Boots",
+    "zh": null,
+    "vi": null
+  },
+  "item.geckolib.gecko_armor_chestplate": {
+    "en": "Gecko Armor Chestplate",
+    "zh": null,
+    "vi": null
+  },
+  "item.geckolib.gecko_armor_helmet": {
+    "en": "Gecko Armor Helmet",
+    "zh": null,
+    "vi": null
+  },
+  "item.geckolib.gecko_armor_leggings": {
+    "en": "Gecko Armor Leggings",
+    "zh": null,
+    "vi": null
+  },
+  "itemGroup.geckolib.geckolib_examples": {
+    "en": "Geckolib Examples",
+    "zh": null,
+    "vi": null
+  }
+}

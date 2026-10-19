@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "E# ",
+    "AC ",
+    "F# "
+  ],
+  "key": {
+    "#": {"item": "minecraft:crimson_hyphae"},
+    "A": {"item": "alexsmobs:blood_sprayer"},
+    "E": {"item": "eeeabsmobs:heart_of_pagan"},
+    "F": {"item": "eeeabsmobs:heart_of_pagan"},
+    "C": {"item": "minecraft:bow"}
+  },
+  "result": {
+    "item": "too_many_bows:crimson_nexus"
+  }
+}

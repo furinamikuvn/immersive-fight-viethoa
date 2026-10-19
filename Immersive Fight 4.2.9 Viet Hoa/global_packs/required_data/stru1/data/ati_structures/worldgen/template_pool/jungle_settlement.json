@@ -1,0 +1,15 @@
+{
+    "name": "ati_structures:jungle_settlement",
+    "fallback": "minecraft:empty",
+    "elements": [
+        {
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "processors": "minecraft:empty",
+                "location": "ati_structures:jungle_settlement"
+            },
+            "weight": 1
+        }
+    ]
+}

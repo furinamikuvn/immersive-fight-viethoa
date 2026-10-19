@@ -1,0 +1,17 @@
+{
+  "name": "Tempest (Phong Bạo Sứ Giả)",
+  "icon": "simplyswords:stormbringer",
+  "advancement": "simplyswords:stormbringer",
+  "category": "simplyswords:category_unique_weapons",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:stormbringer",
+      "text": "Lưỡi kiếm phân nhánh ngập tràn sấm sét, sức mạnh đạt cực hạn khi vung kiếm giữa cơn dông bão."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Nguồn điện tích cuồng nộ cực kỳ khó thuần phục, một sơ sẩy nhỏ có thể dẫn tới hậu quả chí mạng."
+    }
+  ]
+}

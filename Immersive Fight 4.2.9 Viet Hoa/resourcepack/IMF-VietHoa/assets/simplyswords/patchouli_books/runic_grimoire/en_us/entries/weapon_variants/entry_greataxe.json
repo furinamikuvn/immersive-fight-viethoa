@@ -1,0 +1,26 @@
+{
+  "name": "Cự Phủ (Greataxe)",
+  "icon": "simplyswords:iron_greataxe",
+  "category": "simplyswords:category_weapon_variants",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:iron_greataxe",
+      "text": "Vũ khí hai tay thuần túy đòi hỏi thể lực lớn, những cú bổ chém mang sức công phá hủy diệt hàng phòng ngự kẻ thù."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "simplyswords:iron_greataxe",
+      "recipe2": "simplyswords:gold_greataxe"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "simplyswords:diamond_greataxe"
+    },
+    {
+      "type": "patchouli:smithing",
+      "recipe": "simplyswords:netherite_greataxe",
+      "recipe2": "simplyswords:runic_greataxe"
+    }
+  ]
+}

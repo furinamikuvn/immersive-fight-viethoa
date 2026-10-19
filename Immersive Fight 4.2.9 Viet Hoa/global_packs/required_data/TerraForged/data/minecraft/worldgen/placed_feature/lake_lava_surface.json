@@ -1,0 +1,11 @@
+{
+  "feature": "minecraft:lake_lava",
+  "placement": [
+    {
+      "type": "reterraforged:blacklist_dimension",
+      "blacklist": [
+        "minecraft:overworld"
+      ]
+    }
+  ]
+}

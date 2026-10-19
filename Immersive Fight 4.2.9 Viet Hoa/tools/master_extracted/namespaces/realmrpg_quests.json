@@ -1,0 +1,1767 @@
+{
+  "item.realmrpg_quests.wyvernfruit": {
+    "en": "Wyvernfruit",
+    "zh": "龙果",
+    "vi": "Wyvernfruit"
+  },
+  "gui.realmrpg_quests.quest_book_page_a.label_text_quest": {
+    "en": "-Deliver Item (0/10)",
+    "zh": "- 交付物品 (0/10)",
+    "vi": "- Giao hàng (0/10)"
+  },
+  "quest.realmrpg_quests.cook.rare.making_food_advanced_reward": {
+    "en": "That's brilliant! I'm proud of you.",
+    "zh": "太棒了！我为你感到骄傲。",
+    "vi": "tuyệt vời! Tôi tự hào về bạn."
+  },
+  "quest.realmrpg_quests.cook.mushrooms_reward": {
+    "en": "You look for ingredients as well as a pig looks for a truffle! That's the highest praise, in case you didn't realize, ha-ha!",
+    "zh": "你寻找食材的本事就像猪找到松露一样厉害！这是我能给出的最高的赞誉了，如果你还没意识到的话，哈哈！",
+    "vi": "Bạn giỏi tìm nguyên liệu như lợn tìm nấm cục! Đó là lời khen cao nhất mà tôi có thể dành cho bạn, nếu bạn chưa nhận ra điều đó, haha!"
+  },
+  "quest.realmrpg_quests.angler.rare.pearlescent_catfish_reward": {
+    "en": "Oh, my eyes! Uh-oh, it's definitely that fish. I have to hide it in the barrel before it blinds me! Thank you, {Name}!",
+    "zh": "哦，我的眼睛！嗯，确实是那条鱼。我得在它亮瞎我眼之前把它藏进桶里！谢谢你，{Name}！",
+    "vi": "Ôi đôi mắt của tôi! Vâng, đó thực sự là con cá đó. Tôi phải giấu nó vào trong xô trước khi nó làm tôi mù mắt! Cảm ơn bạn, {Tên}!"
+  },
+  "item.realmrpg_quests.copperfish": {
+    "en": "Copperfish",
+    "zh": "铜鱼",
+    "vi": "Copperfish"
+  },
+  "gui.realmrpg_quests.task_action_catch_sunny_day": {
+    "en": "Catch at sunny day: {Target}",
+    "zh": "晴天捕获：{Target}",
+    "vi": "Chụp ngày nắng: {Target}"
+  },
+  "item.realmrpg_quests.ring_of_wind_lesser": {
+    "en": "Ring of Lesser Wind ",
+    "zh": "微风之戒",
+    "vi": "Ring of Lesser Wind "
+  },
+  "quest.realmrpg_quests.angler.rare.guardians_reward": {
+    "en": "Did you handle them all? Unbelievable. You of all people deserve your reward!",
+    "zh": "你都对付完了？难以置信。你是最值得这份奖励的人！",
+    "vi": "Bạn đã giải quyết xong tất cả chúng chưa? đáng kinh ngạc. Bạn là người xứng đáng nhất với phần thưởng này!"
+  },
+  "quest.realmrpg_quests.piglin.luck": {
+    "en": "It's your lucky day! Go play once more!",
+    "zh": "今天是你的幸运日！再去玩一次吧！",
+    "vi": "Hôm nay là ngày may mắn của bạn! Hãy chơi lại!"
+  },
+  "gui.realmrpg_quests.task_craft": {
+    "en": "Crafting",
+    "zh": "制作",
+    "vi": "làm"
+  },
+  "quest.realmrpg_quests.piglin.cant_find": {
+    "en": "I cant find my stuff. Haven't you seen it around?",
+    "zh": "我找不到我的东西了。你有没有看到过？",
+    "vi": "Tôi không thể tìm thấy đồ của mình. Bạn đã bao giờ nhìn thấy điều đó chưa?"
+  },
+  "quest.realmrpg_quests.monster_hunter.rare.illager_nose": {
+    "en": "I have a long-standing grudge against §eIllagers§f, and you're going to help me get revenge. Bring me {Count} {Target}. I think you know what you have to do for that.",
+    "zh": "我对§e灾厄村民§f怀有宿怨，而你要帮我复仇。带给我{Count}个{Target}。我想你知道该怎么做。",
+    "vi": "Tôi có mối hận thù với dân làng §e §f, và bạn muốn trả thù cho tôi. Mang cho tôi {Count} {Target}. Tôi nghĩ bạn biết phải làm gì."
+  },
+  "advancements.headless_skeleton_good_ending.descr": {
+    "en": "Help the headless skeleton with a good ending",
+    "zh": "帮助无头骷髅并得到一个好结局",
+    "vi": "Hãy giúp bộ xương không đầu và có được cái kết có hậu"
+  },
+  "quest.realmrpg_quests.angler.worst_bite": {
+    "en": "I've got the worst bite in the world today. Maybe you'll do better. Bring me {Count} {Target} and you can count on a reward.",
+    "zh": "我今天咬钩的运气糟透了。也许你会做得更好。带给我{Count}个{Target}，我会给你一份奖励。",
+    "vi": "Hôm nay tôi gặp xui xẻo khủng khiếp với cái móc. Có thể bạn sẽ làm tốt hơn. Hãy mang cho tôi {Count} {Target} và tôi sẽ trao phần thưởng cho bạn."
+  },
+  "quest.realmrpg_quests.piglin.pay_and_play": {
+    "en": "Pay gold and play",
+    "zh": "付金币并游玩",
+    "vi": "Trả tiền và chơi"
+  },
+  "quest.realmrpg_quests.angler.rare.thornback_flounder": {
+    "en": "A pack of {Target} has come to this cove. Catch and bring me {Count}. But be careful, this fish is §cVERY spiny!§f",
+    "zh": "一群{Target}来到了这个海湾。捕捉并带给我{Count}条。但要小心，这种鱼非常尖刺！",
+    "vi": "Một nhóm {Target} đã đến vịnh. Hãy bắt và mang về cho tôi {Count} vật phẩm. Nhưng hãy cẩn thận, con cá này rất có gai!"
+  },
+  "item.realmrpg_quests.azure_daggerfin": {
+    "en": "Azure Daggerfin",
+    "zh": "蔚蓝匕首鳍鱼",
+    "vi": "Azure Daggerfin"
+  },
+  "advancements.headless_skeleton_bad_ending.descr": {
+    "en": "Help the headless skeleton with a bad ending",
+    "zh": "帮助无头骷髅并得到一个坏结局",
+    "vi": "Giúp bộ xương không đầu và nhận cái kết xấu"
+  },
+  "item.realmrpg_quests.trigger_zone_old_hut_spawn_egg": {
+    "en": "Trigger Zone Spawn Egg",
+    "zh": "触发区旧小屋刷怪蛋",
+    "vi": "Trigger Zone Spawn Egg"
+  },
+  "entity.realmrpg_quests.headless_skeleton": {
+    "en": "Headless Skeleton",
+    "zh": "无头骷髅",
+    "vi": "Headless Skeleton"
+  },
+  "quest.realmrpg_quests.generic.craft_reward": {
+    "en": "That's nice. Here is your reward!",
+    "zh": "不错。这是你的奖励！",
+    "vi": "Tốt. Đây là phần thưởng của bạn!"
+  },
+  "gui.realmrpg_quests.task_deliver": {
+    "en": "Delivery",
+    "zh": "递送",
+    "vi": "giao"
+  },
+  "entity.realmrpg_quests.angler": {
+    "en": "Angler",
+    "zh": "渔夫",
+    "vi": "Angler"
+  },
+  "gui.realmrpg_quests.return_tracking": {
+    "en": "Return",
+    "zh": "返回追踪",
+    "vi": "Quay lại theo dõi"
+  },
+  "quest.realmrpg_quests.angler.overspawn_reward": {
+    "en": "Now I can sleep in peace, no one threatening my dietary diversity. You've done great, {Name}. Enough said, this is your reward.",
+    "zh": "现在我可以安心睡觉了，没有人威胁到我丰富的饮食。你做得很好，{Name}。不用多说，这是你的奖励。",
+    "vi": "Bây giờ tôi có thể ngủ yên mà không có ai đe dọa chế độ ăn uống phong phú của tôi. Bạn đã làm rất tốt, {Name}. Không chần chừ gì nữa, đây là phần thưởng của bạn."
+  },
+  "advancements.complete_quest.title": {
+    "en": "Concerned Stranger",
+    "zh": "热心的陌生人",
+    "vi": "người lạ nhiệt tình"
+  },
+  "gui.realmrpg_quests.positionxz": {
+    "en": "Last seen",
+    "zh": "最后出现位置",
+    "vi": "vị trí nhìn thấy lần cuối"
+  },
+  "quest.realmrpg_quests.generic.not_enough": {
+    "en": "It's not enough. Remember, I need {Count}.",
+    "zh": "还不够。记住，我需要{Count}。",
+    "vi": "Không đủ. Hãy nhớ rằng tôi cần {Count}."
+  },
+  "advancements.complete_10_quests.descr": {
+    "en": "Complete 10 quests",
+    "zh": "完成10个任务",
+    "vi": "Hoàn thành 10 nhiệm vụ"
+  },
+  "item.realmrpg_quests.glow_bait_desc": {
+    "en": "Allows you to catch more fish at night when held off-hand. ",
+    "zh": "手持时可在夜晚增加钓鱼数量。",
+    "vi": "Allows you to catch more fish at night when held off-hand. "
+  },
+  "quest.realmrpg_quests.angler.fishing_rod": {
+    "en": "I've been fishing for a long time, and I need a new {Target}, because the old one is completely broken. Can you get it for me?",
+    "zh": "我已经钓鱼很久了，我需要一个新的{Target}，因为旧的已经完全坏了。你能帮我拿一个吗？",
+    "vi": "Tôi đã câu cá được một thời gian dài và tôi cần một {Target} mới vì cái cũ đã hỏng hoàn toàn. Bạn có thể lấy cho tôi một cái được không?"
+  },
+  "block.realmrpg_quests.shell_empty": {
+    "en": "Piglin Pots Game",
+    "zh": "猪灵壶游戏",
+    "vi": "Piglin Pots Game"
+  },
+  "quest.realmrpg_quests.angler.bobbers_reward": {
+    "en": "This will be a delightfully light bobber. Thank you!",
+    "zh": "这将是一个轻巧的浮漂。谢谢！",
+    "vi": "Đây sẽ là một chiếc phao nhẹ. Cảm ơn!"
+  },
+  "item.realmrpg_quests.cook_spawn_egg": {
+    "en": "Cook Spawn Egg",
+    "zh": "厨师刷怪蛋",
+    "vi": "Cook Spawn Egg"
+  },
+  "gui.realmrpg_quests.task_special": {
+    "en": "Special Task",
+    "zh": "特殊任务",
+    "vi": "nhiệm vụ đặc biệt"
+  },
+  "quest.realmrpg_quests.angler.barrels_reward": {
+    "en": "The barrel is well dried, looks like the work of a master craftsman. Did you make it yourself or..? Well, that's none of my business. Here's the payment!",
+    "zh": "这个桶干得很好，看起来像是大师的手艺。你自己做的还是...？嗯，那不关我的事。这里是报酬！",
+    "vi": "Thùng được sấy khô và trông giống như tác phẩm của một bậc thầy. Bạn tự làm nó hay...? Ồ, đó không phải việc của tôi. Đây là phần thưởng!"
+  },
+  "advancements.refuse_quest.descr": {
+    "en": "Refuse a quest in the Quest Journal.",
+    "zh": "在任务日志中拒绝一个任务。",
+    "vi": "Từ chối một nhiệm vụ trong nhật ký nhiệm vụ."
+  },
+  "quest.realmrpg_quests.cook.rare.creeper_fruit": {
+    "en": "There is a rare ingredient that I am willing to pay a generous price for. It's a {Target} that can be harvested from §eCreepers affected by sunlight§f. Can you get me one?",
+    "zh": "有一种稀有材料，我愿意付出慷慨的价格购买。它是从受到阳光照射的§e苦力怕§f上采集的{Target}。你能给我弄一个吗？",
+    "vi": "Có một loại vật liệu quý hiếm mà tôi sẵn sàng trả giá cao. Nó được thu thập {Target} từ §e Creeper §f đã tiếp xúc với ánh sáng mặt trời. Bạn có thể lấy cho tôi một cái được không?"
+  },
+  "gui.realmrpg_quests.task_action_crit": {
+    "en": "Deal critical hits to {Target}",
+    "zh": "对{Target}造成暴击",
+    "vi": "Đòn chí mạng {Target}"
+  },
+  "gui.realmrpg_quests.task_action_destroy": {
+    "en": "Break {Target}",
+    "zh": "破坏{Target}",
+    "vi": "Tiêu diệt {Mục tiêu}"
+  },
+  "quest.realmrpg_quests.angler.prickly": {
+    "en": "Oh, {Name}, you're definitely gonna help me out. I want something yellow and prickly today in quantities of {Count}. I'm sure you'll come up with something.",
+    "zh": "哦，{Name}，你肯定会帮我。我今天想要一些黄色且多刺的东西，数量为{Count}。我相信你会想到办法的。",
+    "vi": "Ồ, {Name}, bạn chắc chắn sẽ giúp tôi. Hôm nay tôi muốn thứ gì đó màu vàng và có gai, {Đếm} về số lượng. Tôi chắc chắn bạn sẽ tìm ra cách."
+  },
+  "quest.realmrpg_quests.piglin.pick_one": {
+    "en": "Pick one out of three!",
+    "zh": "三选一！",
+    "vi": "Chọn một trong ba!"
+  },
+  "quest.realmrpg_quests.angler.rare.copperfish": {
+    "en": "While the rest of fishers are chasing a fictional fish with golden scales, my hooks are being bitten off by a very real {Target}. Catch it and bring it to me §equickly before it oxidizes§f!",
+    "zh": "当其他渔民追逐着金色鳞片的虚构鱼类时，我的鱼钩却被一条真实的{Target}咬断了。快把它抓来给我，在它氧化前！",
+    "vi": "Trong khi những ngư dân khác đuổi theo những con cá hư cấu có vảy vàng thì lưỡi câu của tôi đã bị một {Target} có thật chộp lấy. Hãy bắt nó và mang nó đến cho tôi nhanh chóng trước khi nó bị oxy hóa!"
+  },
+  "quest.realmrpg_quests.generic.journal_removed": {
+    "en": "[Task removed from journal]",
+    "zh": "[任务已从日志移除]",
+    "vi": "[Nhiệm vụ đã bị xóa khỏi nhật ký]"
+  },
+  "item.realmrpg_quests.wagon_wheel_broken": {
+    "en": "Broken Wagon Wheel",
+    "zh": "破损的马车轮",
+    "vi": "Broken Wagon Wheel"
+  },
+  "item.realmrpg_quests.pearlescent_catfish": {
+    "en": "Pearlescent Catfish",
+    "zh": "珠光鲶鱼",
+    "vi": "Pearlescent Catfish"
+  },
+  "quest.realmrpg_quests.angler.rare.blackfin_snapper_reward": {
+    "en": "I could hear screams of those p...phantoms, right? I hope it wasn't too dangerous. Here's the reward!",
+    "zh": "我能听到那些p...幻影的声音，对吧？希望不太危险。这是你的奖励！",
+    "vi": "Tôi có thể nghe thấy những âm thanh p...ảo đó phải không? Hy vọng không quá nguy hiểm. Đây là phần thưởng của bạn!"
+  },
+  "quest.realmrpg_quests.angler.rare.glow_bait": {
+    "en": "I want to create glowing bait, and I'm even willing to share it with you. Bring me a fresh {Count} {Target} derived from those §eTurquoise glowing things§f swimming in the depths.",
+    "zh": "我想制作发光的鱼饵，甚至愿意和你分享。带给我新鲜的{Count}个来自深海中那些§e碧绿发光生物§f的{Target}。",
+    "vi": "Tôi muốn làm mồi câu cá phát sáng và thậm chí muốn chia sẻ chúng với bạn. Mang cho tôi {Count} {Target} mới từ những sinh vật phát sáng màu xanh lá cây §e §f dưới biển sâu."
+  },
+  "quest.realmrpg_quests.generic.tillage": {
+    "en": "Till the soil",
+    "zh": "耕地",
+    "vi": "đất canh tác"
+  },
+  "gui.realmrpg_quests.task_action_catch": {
+    "en": "Fishing with a rod",
+    "zh": "用钓竿钓鱼",
+    "vi": "câu cá bằng cần câu"
+  },
+  "gui.realmrpg_quests.desc_total_quests": {
+    "en": "Quests Completed: ",
+    "zh": "已完成任务数：",
+    "vi": "Số nhiệm vụ đã hoàn thành:"
+  },
+  "quest.realmrpg_quests.cook.pot": {
+    "en": "My pot is all scratched up. I need a new one to make soup. Can you bring me {Count} {Target}?",
+    "zh": "我的锅全刮花了。我需要一个新的来做汤。你能带给我{Count}个{Target}吗？",
+    "vi": "Nồi của tôi bị trầy xước khắp nơi. Tôi cần một cái mới để nấu súp. Bạn có thể mang cho tôi {Count} {Target} được không?"
+  },
+  "gui.realmrpg_quests.quest_book_page_a.tooltip_taskdesc3": {
+    "en": "taskdesc3",
+    "zh": "任务描述3",
+    "vi": "Mô tả nhiệm vụ 3"
+  },
+  "quest.realmrpg_quests.cook.making_food_simple": {
+    "en": "Today I want to test your skills at cooking simple meals. You'll need to make {Count} {Target}. Can you do that?",
+    "zh": "今天我想测试一下你烹饪简单食物的技巧。你需要做{Count}个{Target}。你能做到吗？",
+    "vi": "Hôm nay tôi muốn kiểm tra kỹ năng nấu nướng của bạn cho những bữa ăn đơn giản. Bạn cần tạo {Count} {Target}. Bạn có thể làm được điều đó không?"
+  },
+  "gui.realmrpg_quests.quest_book_page_a.tooltip_taskdesc2": {
+    "en": "taskdesc2",
+    "zh": "任务描述2",
+    "vi": "Mô tả nhiệm vụ 2"
+  },
+  "quest.realmrpg_quests.cook.dishes_reward": {
+    "en": "That will solve my problem for the time being, thank you!",
+    "zh": "这暂时解决了我的问题，谢谢！",
+    "vi": "Điều này tạm thời giải quyết được vấn đề của tôi, cảm ơn bạn!"
+  },
+  "advancements.complete_quest.descr": {
+    "en": "Complete a quest",
+    "zh": "完成一个任务",
+    "vi": "hoàn thành một nhiệm vụ"
+  },
+  "quest.realmrpg_quests.cook.making_food_medium_reward": {
+    "en": "This looks delicious, you are definitely making progress.",
+    "zh": "看起来很美味，你确实取得了进步。",
+    "vi": "Trông ngon quá, bạn chắc chắn đang tiến bộ."
+  },
+  "quest.realmrpg_quests.generic.welcome": {
+    "en": "Hello, {Name}, you're just in time!",
+    "zh": "你好，{Name}，你来得正好！",
+    "vi": "Xin chào {Name}, bạn đến đúng lúc!"
+  },
+  "gui.realmrpg_quests.task_build": {
+    "en": "Building",
+    "zh": "建造",
+    "vi": "chịu đựng"
+  },
+  "quest.realmrpg_quests.angler.rare.thornback_flounder_reward": {
+    "en": "Good thing I'm wearing gloves, hehe! Hand it to me like this. A-and here's your reward.",
+    "zh": "幸好我戴着手套，嘿嘿！像这样递给我。还有，这是你的奖励。",
+    "vi": "May mà tôi có đeo găng tay, hehe! Đưa nó cho tôi như thế này. Ngoài ra, đây là phần thưởng của bạn."
+  },
+  "item.realmrpg_quests.scarlet_grouper": {
+    "en": "Scarlet Grouper",
+    "zh": "绯红石斑鱼",
+    "vi": "Scarlet Grouper"
+  },
+  "advancements.complete_100_quests.descr": {
+    "en": "Complete 100 quests",
+    "zh": "完成100个任务",
+    "vi": "Hoàn thành 100 nhiệm vụ"
+  },
+  "quest.realmrpg_quests.angler.fishing_net": {
+    "en": "The night storm tore my fishing nets, and now I need something like {Count} {Target} to fix it. Will you get me what I need?",
+    "zh": "夜里的风暴撕破了我的渔网，现在我需要大约{Count}个{Target}来修理它。你能帮我弄到吗？",
+    "vi": "Cơn bão ban đêm đã làm rách lưới đánh cá của tôi và giờ tôi cần khoảng {Count} {Target} để sửa nó. Bạn có thể lấy nó cho tôi được không?"
+  },
+  "quest.realmrpg_quests.angler.rare.guardians": {
+    "en": "It looks like a few {Target} species have gotten loose from their Monument and swam into these waters. Now I'm afraid to even go near the water! Fish out and defeat {Count}, then come back.",
+    "zh": "看来有几个{Target}类从它们的海底神殿逃了出来，游到了这些水域。我现在连靠近水边都不敢！把它们钓出来并杀掉{Count}只，然后回来告诉我。",
+    "vi": "Có vẻ như một số loài {Target} đã trốn thoát khỏi ngôi đền dưới nước của chúng và bơi vào vùng nước này. Bây giờ tôi thậm chí còn không dám đến gần nước! Bắt chúng ra và giết {Count} chúng, sau đó quay lại và cho tôi biết."
+  },
+  "item.realmrpg_quests.wagon_wheel": {
+    "en": "Wagon Wheel",
+    "zh": "马车轮",
+    "vi": "Wagon Wheel"
+  },
+  "quest.realmrpg_quests.angler.spawn": {
+    "en": "Didn't ya know that? This is the best time to catch fish: {Item} is just about to spawn. But don't catch too many or we could be left without fish next year. {Count} will be enough.",
+    "zh": "你不知道吗？这是捕鱼的最佳时机：{Item}即将出现。但别捕太多，否则明年我们可能就没鱼了。{Count}就够了。",
+    "vi": "Bạn không biết à? Đây là thời điểm câu cá hoàn hảo: {Item} sắp xuất hiện. Nhưng đừng đánh bắt quá nhiều nếu không chúng ta có thể không có cá vào năm tới. {Đếm} là đủ."
+  },
+  "quest.realmrpg_quests.angler.tackles_reward": {
+    "en": "It's shiny enough. Thank you, {Name}.",
+    "zh": "够闪亮了。谢谢你，{Name}。",
+    "vi": "Đủ sáng bóng. Cảm ơn bạn, {Tên}."
+  },
+  "gui.realmrpg_quests.quest_book_page_a.label_text_task": {
+    "en": "No Task",
+    "zh": "无任务",
+    "vi": "Không có nhiệm vụ"
+  },
+  "advancements.root.descr": {
+    "en": "Travel, complete tasks, earn rewards!",
+    "zh": "旅行、完成任务、赢得奖励！",
+    "vi": "Du lịch, hoàn thành nhiệm vụ và kiếm phần thưởng!"
+  },
+  "item.realmrpg_quests.ring_of_fire_greater": {
+    "en": "Ring of Greater Fire",
+    "zh": "盛焰之戒",
+    "vi": "Ring of Greater Fire"
+  },
+  "quest.realmrpg_quests.generic.journal_added": {
+    "en": "[Task added to journal]",
+    "zh": "[任务已添加到日志]长按【H】菜单-打开日志/隐藏任务",
+    "vi": "[Tác vụ đã được thêm vào nhật ký] Nhấn và giữ menu [H] - mở nhật ký/ẩn tác vụ"
+  },
+  "quest.realmrpg_quests.angler.rare.pearlescent_catfish": {
+    "en": "Sometimes you can see the shine on the water surface. It's {Target}, a rare fish that can dazzle predators with its glittering scales. Catch it and deliver {Count} to me. §eThis fish is active at sunny days§f .",
+    "zh": "有时你能在水面上看到闪光。那是{Target}，一种能用其闪耀鳞片迷惑捕食者的稀有鱼类。抓住它并给我{Count}条。§e这种鱼在晴天活跃§f。",
+    "vi": "Đôi khi bạn có thể nhìn thấy những tia sáng nhấp nháy trên mặt nước. Đó là {Target}, một loài cá quý hiếm có thể khiến kẻ săn mồi bối rối vì lớp vảy sáng bóng của nó. Hãy lấy nó và đưa cho tôi thanh {Count}. §eCon cá này hoạt động§f vào những ngày nắng."
+  },
+  "item.realmrpg_quests.necklace_of_satiety": {
+    "en": "Necklace of Satiety",
+    "zh": "饱食项链",
+    "vi": "Necklace of Satiety"
+  },
+  "quest.realmrpg_quests.angler.magma_reward": {
+    "en": "Ouch, hot! It's going to be hard to place it, but that's not your concern anymore. Take this as a thank you. ",
+    "zh": "哎呀，好烫！这东西很难存放，不过那已经不是你的问题了。拿去吧，作为感谢。",
+    "vi": "Ôi, nóng quá! Thứ này khó bảo quản, nhưng đó không còn là vấn đề của bạn nữa. Hãy coi đó như một lời cảm ơn."
+  },
+  "quest.realmrpg_quests.angler.bobbers": {
+    "en": "I want to create a strong yet lightweight bobber, but I'm missing {Count} {Target}. I'm sure you can get it for me.",
+    "zh": "我想制作一个坚固又轻便的浮漂，但还缺{Count}个{Target}。我相信你能帮我拿到。",
+    "vi": "Tôi muốn tạo ra một chiếc phao mạnh mẽ nhưng nhẹ, nhưng tôi vẫn cần {Count} {Target}. Tôi tin rằng bạn có thể lấy nó cho tôi."
+  },
+  "advancements.complete_10_quests.title": {
+    "en": "Trusted Helper",
+    "zh": "值得信赖的助手",
+    "vi": "Trợ lý đáng tin cậy"
+  },
+  "quest.realmrpg_quests.generic.deliver": {
+    "en": "Gather {Count} {Item} and deliver to me.",
+    "zh": "收集{Count}个{Item}并交给我。",
+    "vi": "Hãy thu thập {Count} {Item} và đưa cho tôi."
+  },
+  "quest.realmrpg_quests.angler.fishing_rod_reward": {
+    "en": "Nice one, looks sturdy. Here's your reward.",
+    "zh": "不错，看起来很结实。这是你的奖励。",
+    "vi": "Đẹp, nhìn chắc chắn. Đây là phần thưởng của bạn."
+  },
+  "block.realmrpg_quests.shell_use": {
+    "en": "Piglin Pots Game",
+    "zh": "猪灵锅游戏",
+    "vi": "Piglin Pots Game"
+  },
+  "gui.realmrpg_quests.desc_deny_quest": {
+    "en": "Are you sure? You will lose progress of your current task.",
+    "zh": "你确定吗？你将失去当前任务的进度。",
+    "vi": "bạn có chắc không? Bạn sẽ mất tiến độ thực hiện nhiệm vụ hiện tại."
+  },
+  "quest.realmrpg_quests.cook.mushrooms": {
+    "en": "An important ingredient for my next meal is {Target}. But I'm running out of it. Will you deliver {Count} pieces to me?",
+    "zh": "我下一道菜的重要原料是{Target}。但我快要用完了。你能给我送来{Count}份吗？",
+    "vi": "Nguyên liệu chính cho món ăn tiếp theo của tôi là {Target}. Nhưng tôi sắp hết chúng rồi. Bạn có thể gửi cho tôi {Count} bản được không?"
+  },
+  "item.realmrpg_quests.illager_nose": {
+    "en": "Illager Nose",
+    "zh": "灾厄村民鼻子",
+    "vi": "Illager Nose"
+  },
+  "quest.realmrpg_quests.angler.rare.scarlet_grouper_reward": {
+    "en": "Did you caught it? For real?! You've earned this reward.",
+    "zh": "你真的抓到了？太棒了！这是你应得的奖励。",
+    "vi": "Bạn đã thực sự nắm bắt được nó? tuyệt vời! Đây là phần thưởng mà bạn xứng đáng nhận được."
+  },
+  "quest.realmrpg_quests.cook.making_food_medium": {
+    "en": "I'd like to test how well are you at making moderately complex meals. Can you make {Count} {Target}?",
+    "zh": "我想测试一下你做中等复杂度菜肴的能力。你能做出{Count}份{Target}吗？",
+    "vi": "Tôi muốn kiểm tra khả năng nấu những món ăn có độ phức tạp vừa phải của bạn. Bạn có thể tạo {Count} bản sao của {Target} không?"
+  },
+  "gui.realmrpg_quests.task_action_kill_any": {
+    "en": "Kill mobs",
+    "zh": "击杀怪物",
+    "vi": "Giết quái vật"
+  },
+  "quest.realmrpg_quests.angler.overspawn": {
+    "en": "I've noticed that {Target} is growing too fast. It's about to overpopulate the local waters and drive other fish out of here! Catch and bring me at least {Count}.",
+    "zh": "我发现{Target}数量太多了。它们增殖过度，害得其他鱼类没有足够的生存空间！至少抓{Count}条给我。",
+    "vi": "Tôi nhận thấy có quá nhiều {Target}. Chúng sinh sôi nảy nở nhiều đến mức những loài cá khác không có đủ chỗ để sống! Hãy mua cho tôi ít nhất {Count} món đồ."
+  },
+  "entity.realmrpg_quests.monster_hunter": {
+    "en": "Monster Hunter",
+    "zh": "怪物猎人",
+    "vi": "Monster Hunter"
+  },
+  "quest.realmrpg_quests.generic.crit_reward": {
+    "en": "You have potential, however it should be developed further!",
+    "zh": "你很有潜力，继续努力吧！",
+    "vi": "Bạn có tiềm năng rất lớn, hãy tiếp tục làm việc chăm chỉ!"
+  },
+  "advancements.headless_skeleton_good_ending.title": {
+    "en": "Headless Skeleton [Good Ending]",
+    "zh": "无头骷髅[好结局]",
+    "vi": "Bộ xương không đầu [Kết thúc tốt đẹp]"
+  },
+  "quest.realmrpg_quests.generic.not_enchanted": {
+    "en": "Listen I'm specifically looking for an enchanted {Item}.",
+    "zh": "听着，我特别需要附魔的{Item}。",
+    "vi": "Nghe này, tôi đặc biệt cần một {Item} được phù phép."
+  },
+  "quest.realmrpg_quests.angler.trash_reward": {
+    "en": "Good job! Wait, didn't bring the trash with you here, did you? Go and wash up or you'll get it all dirty.",
+    "zh": "干得好！等等，你没把垃圾带这儿来吧？去洗洗，否则会弄脏的。",
+    "vi": "của bạn đây! Đợi đã, bạn không mang rác tới đây phải không? Đi giặt đi nếu không nó sẽ bị bẩn."
+  },
+  "quest.realmrpg_quests.generic.name_color": {
+    "en": "§a",
+    "zh": "§a",
+    "vi": "§a"
+  },
+  "quest.realmrpg_quests.piglin.lets_begin": {
+    "en": "Let's begin!",
+    "zh": "开始吧！",
+    "vi": "Hãy bắt đầu!"
+  },
+  "gui.realmrpg_quests.desc_task_crit": {
+    "en": "Deal critical hits (strike while jumping or falling) to specified creature.",
+    "zh": "对指定生物造成暴击（跳跃或坠落时攻击）。",
+    "vi": "Gây ra đòn chí mạng cho sinh vật được chỉ định (tấn công trong khi nhảy hoặc rơi)."
+  },
+  "gui.realmrpg_quests.task_action_custom_zombies": {
+    "en": "Kill Zombie",
+    "zh": "杀死僵尸",
+    "vi": "tiêu diệt zombie"
+  },
+  "quest.realmrpg_quests.angler.rare.copperfish_reward": {
+    "en": "It's already starting to turn green, but it will still make a nice trophy. Thank you!",
+    "zh": "已经开始变绿了，但仍然可以做个不错的战利品。谢谢！",
+    "vi": "Đã bắt đầu chuyển sang màu xanh nhưng vẫn tạo nên một chiếc cúp đẹp. Cảm ơn!"
+  },
+  "advancements.complete_100_quests.title": {
+    "en": "Errand Boy",
+    "zh": "跑腿小哥",
+    "vi": "cậu bé làm việc vặt"
+  },
+  "quest.realmrpg_quests.cook.tillage": {
+    "en": "Growing food is key to feeding yourself...and helping me with fresh ingredients! Use the §eHoe§f to till {Count} §eFarmlands§f.",
+    "zh": "种植食物是自给自足的关键...也是帮我准备新鲜食材！使用§e锄头§f耕作{Count}块§e农田§f。",
+    "vi": "Trồng thực phẩm là chìa khóa để tự cung tự cấp... và còn giúp tôi chuẩn bị nguyên liệu tươi ngon! Sử dụng §e cuốc §f để canh tác {Count} khối đất nông nghiệp §e §f."
+  },
+  "gui.realmrpg_quests.task_action_craft": {
+    "en": "Craft {Target}",
+    "zh": "制作{Target}",
+    "vi": "Đặt {mục tiêu}"
+  },
+  "quest.realmrpg_quests.cook.rare.making_food_advanced": {
+    "en": "I'm thinking of giving you a special cooking challenge related to complex meals. Can you make {Count} {Target}?",
+    "zh": "我在考虑给你一个关于复杂菜肴的特殊烹饪挑战。你能做出{Count}份{Target}吗？",
+    "vi": "Tôi đang nghĩ đến việc cho bạn một thử thách nấu ăn đặc biệt liên quan đến một món ăn phức tạp. Bạn có thể tạo {Count} bản sao của {Target} không?"
+  },
+  "item.realmrpg_quests.blackfin_snapper": {
+    "en": "Blackfin Snapper",
+    "zh": "黑鳍鲷",
+    "vi": "Blackfin Snapper"
+  },
+  "quest.realmrpg_quests.angler.rare.scarlet_grouper": {
+    "en": "There's a fish that could ruin the fishing trip I've been preparing for. Help me out. Catch and bring me {Count} {Target}. Beware, it's a strong fish that §ccan break your fishing rod§f.  ",
+    "zh": "有一种鱼可能会毁掉我准备已久的钓鱼之旅。帮帮我。抓住并给我{Count}条{Target}。小心，这是一种很强壮的鱼，§c可能会扯断你的钓竿§f。",
+    "vi": "Có một con cá có thể làm hỏng chuyến đi câu đã chờ đợi từ lâu. Giúp đỡ. Hãy lấy và đưa cho tôi {Count} vật phẩm {Target}. Hãy cẩn thận, đây là loài cá rất khỏe và §c có thể làm gãy cần câu §f của bạn."
+  },
+  "quest.realmrpg_quests.cook.rare.ochre_kelp_reward": {
+    "en": "Delightful! I haven't figured out what I'm going to make with it yet, but you did 100 percent!",
+    "zh": "美味！我还没想好怎么用它，但你做得百分之百的好！",
+    "vi": "ngon! Tôi chưa tìm ra cách sử dụng nó, nhưng bạn đã làm rất tốt 100%!"
+  },
+  "gui.realmrpg_quests.return_deliver": {
+    "en": "Give items to {Npc}",
+    "zh": "将物品交给{Npc}",
+    "vi": "Đưa vật phẩm cho {Npc}"
+  },
+  "quest.realmrpg_quests.angler.rare.azure_daggerfin_reward": {
+    "en": "Good catch, I never doubted you. Here's the payment, as agreed.",
+    "zh": "好收成，我从没怀疑过你。这是约定好的报酬。",
+    "vi": "Thu hoạch tốt, tôi chưa bao giờ nghi ngờ bạn. Đây là khoản thanh toán đã thỏa thuận."
+  },
+  "quest.realmrpg_quests.angler.trash": {
+    "en": "This is the second time I've lost a hook because of all the trash on the seabed. §eFish§f here {Count} §etimes§f to catch all the trash. Making these waters cleaner will help everyone, won't it?",
+    "zh": "因为海底的垃圾，我已经第二次丢钩子了。§e钓鱼§f{Count}次来清理所有垃圾。让这些水域更干净对大家都有好处，不是吗？",
+    "vi": "Đây là lần thứ hai tôi bị mất lưỡi câu vì rác dưới đáy biển. §e cá §f{Đếm} lần để dọn hết rác. Làm cho những vùng nước này sạch hơn sẽ mang lại lợi ích cho tất cả mọi người, phải không?"
+  },
+  "gui.realmrpg_quests.task_action_catch_any": {
+    "en": "Fishing with a rod",
+    "zh": "用钓竿钓鱼",
+    "vi": "câu cá bằng cần câu"
+  },
+  "gui.realmrpg_quests.desc_task_done": {
+    "en": "Task completed. Return to the NPC to get reward.",
+    "zh": "任务已完成。回去找NPC领取奖励。",
+    "vi": "Nhiệm vụ đã hoàn thành. Quay lại NPC để nhận phần thưởng."
+  },
+  "quest.realmrpg_quests.cook.cutting": {
+    "en": "I don't know how I can cut vegetables when {Target} is so blunt. By the way, can you get me a new one? ",
+    "zh": "{Target}这么钝，我都不知道怎么切蔬菜了。顺便说一句，你能给我拿一个新的吗？",
+    "vi": "{Target} đần độn đến mức tôi thậm chí còn không biết cách cắt rau. Nhân tiện, bạn có thể lấy cho tôi một cái mới được không?"
+  },
+  "quest.realmrpg_quests.generic.catch_reward": {
+    "en": "I'm sure you've fished out useful stuff anyway, however take this as a reward.",
+    "zh": "我相信你还是捞到了有用的东西，不过这个也当作奖励吧。",
+    "vi": "Tôi tin rằng bạn vẫn bắt được điều gì đó hữu ích, nhưng hãy coi đây như một phần thưởng."
+  },
+  "quest.realmrpg_quests.generic.come_back_when_done": {
+    "en": "Come back for your reward when you've done my task. Check your Quest Journal.",
+    "zh": "完成我的任务后回来领取奖励！查看你的任务日志。",
+    "vi": "Hãy quay lại và nhận phần thưởng sau khi hoàn thành nhiệm vụ của tôi! Kiểm tra nhật ký nhiệm vụ của bạn."
+  },
+  "quest.realmrpg_quests.generic.kill": {
+    "en": "I'm being disturbed by {Target}. Kill {Count} and come back for your reward!",
+    "zh": "{Target}一直在打扰我。杀掉{Count}只，然后回来领取奖励！",
+    "vi": "{Target} cứ làm phiền tôi. Giết {Count} và quay lại để nhận phần thưởng của bạn!"
+  },
+  "item.realmrpg_quests.thornback_flounder": {
+    "en": "Thornback Flounder",
+    "zh": "棘背比目鱼",
+    "vi": "Thornback Flounder"
+  },
+  "item.realmrpg_quests.ring_of_ice_lesser": {
+    "en": "Ring of Lesser Ice",
+    "zh": "微寒之戒",
+    "vi": "Ring of Lesser Ice"
+  },
+  "block.realmrpg_quests.shell_game_center": {
+    "en": "Piglin Pots Game",
+    "zh": "猪灵罐子游戏",
+    "vi": "Piglin Pots Game"
+  },
+  "quest.realmrpg_quests.generic.wait_busy": {
+    "en": "I don't have a job for you yet, better go finish your current quest. (New quest in {Time})",
+    "zh": "我还没有适合你的工作，最好先完成你当前的任务。（新任务在{Time}后）",
+    "vi": "Tôi chưa có việc làm cho bạn, tốt nhất bạn nên hoàn thành nhiệm vụ hiện tại trước đã. (Nhiệm vụ mới sau {Time})"
+  },
+  "gui.realmrpg_quests.progress": {
+    "en": "Progress",
+    "zh": "进度",
+    "vi": "lịch trình"
+  },
+  "gui.realmrpg_quests.task_action_catch_and_kill": {
+    "en": "Fish out and kill: {Target}",
+    "zh": "钓出并杀死：{Target}",
+    "vi": "Bắt cá và tiêu diệt: {Target}"
+  },
+  "gui.realmrpg_quests.desc_task_build": {
+    "en": "Place the required blocks to complete the task. Breaking blocks of this type will reduce progress.",
+    "zh": "放置所需方块以完成任务。破坏此类方块会减少进度。",
+    "vi": "Đặt các khối cần thiết để hoàn thành nhiệm vụ. Phá hủy các khối như vậy sẽ làm giảm tiến độ."
+  },
+  "quest.realmrpg_quests.generic.wait": {
+    "en": "Come back later when I have a job for you. (New quest in {Time})",
+    "zh": "等我有任务给你时再回来。（新任务在{Time}后）",
+    "vi": "Hãy quay lại khi tôi có nhiệm vụ cho bạn. (Nhiệm vụ mới sau {Time})"
+  },
+  "quest.realmrpg_quests.angler.barrels": {
+    "en": "I've got a big catch, but I'm short on barrels for pickling. Why don't you bring me {Count} {Target}?",
+    "zh": "我捕获了很多，但腌制桶不够了。你能给我带来{Count}个{Target}吗？",
+    "vi": "Tôi bắt được nhiều nhưng thùng ngâm chua không đủ. Bạn có thể mang cho tôi {Count} {Target} được không?"
+  },
+  "quest.realmrpg_quests.angler.rare.collection": {
+    "en": "Swimming underwater can be dangerous. That's why I'm going to ask you to get me {Count} {Target}. For what? For my collection of sea oddities, of course!",
+    "zh": "潜入水下可能很危险。这就是为什么我要你帮我找到{Count}个{Target}的原因。用来做什么？当然是为了我的海洋奇珍收藏！",
+    "vi": "Đi dưới nước có thể nguy hiểm. Đó là lý do tại sao tôi muốn bạn giúp tôi tìm {Count} {Target}. Nó được sử dụng để làm gì? Tất nhiên là dành cho bộ sưu tập những điều tò mò về biển của tôi!"
+  },
+  "item.realmrpg_quests.headless_skeleton_spawn_egg": {
+    "en": "Headless Skeleton Spawn Egg",
+    "zh": "无头骷髅刷怪蛋",
+    "vi": "Headless Skeleton Spawn Egg"
+  },
+  "quest.realmrpg_quests.angler.boat": {
+    "en": "I dream of going out to sea to fish, but my last boat sank. You can get me {Count} {Target}?",
+    "zh": "我梦想着出海钓鱼，但我的最后一艘船沉了。你能给我{Count}个{Target}吗？",
+    "vi": "Tôi mơ được đi câu cá, nhưng chiếc thuyền cuối cùng của tôi bị chìm. Bạn có thể cho tôi {Count} {Target} không?"
+  },
+  "quest.realmrpg_quests.generic.welcome2": {
+    "en": "Good to see you, {Name}. I have a job for you.",
+    "zh": "很高兴见到你，{Name}。我有个任务给你。",
+    "vi": "Rất vui được gặp bạn, {Name}. Tôi có một nhiệm vụ cho bạn."
+  },
+  "quest.realmrpg_quests.cook.milk": {
+    "en": "I'm out of milk! You do realize this is a real disaster in the kitchen, right? Get me {Count} {Target} as soon as possible!",
+    "zh": "我的牛奶用完了！你意识到这对厨房来说是个真正的灾难，对吧？尽快给我{Count}瓶{Target}！",
+    "vi": "Tôi hết sữa rồi! Bạn nhận ra đây thực sự là một thảm họa đối với nhà bếp phải không? Hãy đưa cho tôi {Count} chai {Target} càng sớm càng tốt!"
+  },
+  "quest.realmrpg_quests.angler.throw_reward": {
+    "en": "Just what I need. He's gonna get hurt!",
+    "zh": "正是我需要的。他会受伤的！",
+    "vi": "Đúng thứ tôi cần. Anh ấy sẽ bị tổn thương!"
+  },
+  "quest.realmrpg_quests.generic.count2": {
+    "en": " times",
+    "zh": "次",
+    "vi": "hạng hai"
+  },
+  "quest.realmrpg_quests.generic.welcome4": {
+    "en": "Oh, you're here. I have an errand for you.",
+    "zh": "哦，你来了。我有个差事给你。",
+    "vi": "Ồ, bạn đây rồi. Tôi có một việc vặt cho bạn."
+  },
+  "quest.realmrpg_quests.monster_hunter.skeletons": {
+    "en": "Does that bone rattling sound at night annoy you too? It's made by {Target}. I'll even pay you to put {Count} back to the grave.",
+    "zh": "夜晚那骨头嘎吱响的声音也让你心烦吗？那是{Target}发出的。我甚至会付钱给你，让你把{Count}个送回坟墓。",
+    "vi": "Tiếng xương kêu lạo xạo vào ban đêm có làm bạn khó chịu không? Đó là từ {Target}. Tôi thậm chí sẽ trả tiền cho bạn để gửi {Count} đến mộ của bạn."
+  },
+  "quest.realmrpg_quests.generic.welcome3": {
+    "en": "Greetings, adventurer. I have an assignment for you.",
+    "zh": "你好，冒险家。我有一个任务给你。",
+    "vi": "Xin chào các nhà thám hiểm. Tôi có một nhiệm vụ cho bạn."
+  },
+  "item.realmrpg_quests.creeper_fruit": {
+    "en": "Creeper Fruit",
+    "zh": "苦力怕果实",
+    "vi": "Creeper Fruit"
+  },
+  "quest.realmrpg_quests.generic.pockets": {
+    "en": "Stack the needed items and hand them to me. It's not like I'm going through your pockets. ",
+    "zh": "将所需物品堆叠起来交给我。我不是要翻你的口袋。 ",
+    "vi": "Xếp những món đồ bạn cần và đưa chúng cho tôi. Tôi không nhìn vào túi của bạn."
+  },
+  "quest.realmrpg_quests.generic.time_until_next": {
+    "en": "Next Quest in: {Time}",
+    "zh": "下一个任务在：{Time}",
+    "vi": "Nhiệm vụ tiếp theo là vào lúc: {Time}"
+  },
+  "gui.realmrpg_quests.desc_task_craft": {
+    "en": "Craft the required items to complete the task.",
+    "zh": "制作所需物品以完成任务。",
+    "vi": "Chế tạo các vật phẩm cần thiết để hoàn thành nhiệm vụ."
+  },
+  "gui.realmrpg_quests.task_tillage": {
+    "en": "Tillage",
+    "zh": "耕地",
+    "vi": "đất canh tác"
+  },
+  "item.realmrpg_quests.glow_bait": {
+    "en": "Glow Bait",
+    "zh": "发光诱饵",
+    "vi": "Glow Bait"
+  },
+  "key.realmrpg_quests.quest_book_hotkey": {
+    "en": "Open Quest Journal",
+    "zh": "打开NPC任务日志",
+    "vi": "Mở nhật ký nhiệm vụ NPC"
+  },
+  "quest.realmrpg_quests.cook.pot_reward": {
+    "en": "It looks exactly as I imagined! Wasn't it hard for you to carry it around?",
+    "zh": "和我想象的一模一样！你带着它到处走动不难吗？",
+    "vi": "Đúng như tôi tưởng tượng! Bạn có khó khăn khi di chuyển với nó không?"
+  },
+  "quest.realmrpg_quests.angler.rare.azure_daggerfin": {
+    "en": "A whole pack of {Target} fish came here. The fish are completely unpalatable, but they're always biting! Catch and bring me {Count}, I'll pay you handsomely! §eThis fish is active during rain.§f",
+    "zh": "一群{Target}鱼来到了这里。这些鱼完全不好吃，但它们总是上钩！钓到{Count}条并带给我，我会慷慨地支付你！§e这种鱼在雨天活跃。§f",
+    "vi": "Một nhóm cá {Target} đã đến đây. Những con cá này hoàn toàn không ngon miệng, nhưng chúng luôn cắn câu! Hãy bắt {Count} cá và mang chúng đến cho tôi và tôi sẽ trả công hậu hĩnh cho bạn! §e Loài cá này hoạt động vào những ngày mưa. §f"
+  },
+  "quest.realmrpg_quests.angler.rare.blackfin_snapper": {
+    "en": "There are rumors of a {Target}. It's a fish that §cevokes flying monsters§f to help in case of danger. Catch {Count} and bring it to me. §eThis fish is active at night.§f",
+    "zh": "有传言说有一种{Target}鱼。这是一种在危险时刻会§c召唤飞行怪物§f帮助的鱼。钓到{Count}条并带给我。§e这种鱼在夜间活跃。§f",
+    "vi": "Có tin đồn rằng có một con cá {Target}. Đây là loài cá được §c triệu hồi quái vật bay §f để giúp đỡ khi gặp nguy hiểm. Bắt {Count} cá và mang chúng đến cho tôi. §e Loài cá này hoạt động vào ban đêm. §f"
+  },
+  "quest.realmrpg_quests.angler.baits": {
+    "en": "I'm running low on bait and I've got all night to fish. If it's not too much trouble, bring me {Count} {Target}. I'll make it worth your while.",
+    "zh": "我的诱饵快用完了，而我整晚都要钓鱼。如果不麻烦的话，给我带{Count}个{Target}来。我会让你觉得值得的。",
+    "vi": "Tôi đã hết mồi và phải câu cá cả đêm. Nếu không quá rắc rối, hãy mang cho tôi {Count} {Target}. Tôi sẽ làm cho nó xứng đáng với thời gian của bạn."
+  },
+  "advancements.headless_skeleton_help.descr": {
+    "en": "Find a way to help the headless skeleton.",
+    "zh": "找到帮助无头骷髅的方法。",
+    "vi": "Tìm cách giúp đỡ bộ xương không đầu."
+  },
+  "gui.realmrpg_quests.task_action_tillage_any": {
+    "en": "Till the soil",
+    "zh": "耕地",
+    "vi": "đất canh tác"
+  },
+  "quest.realmrpg_quests.cook.soup": {
+    "en": "I'm short of {Count} {Target} to make a soup. Can you get it for me?",
+    "zh": "我缺少{Count}个{Target}来做汤。你能帮我拿到吗？",
+    "vi": "Tôi thiếu {Count} {Target} để nấu súp. Bạn có thể lấy nó cho tôi được không?"
+  },
+  "gui.realmrpg_quests.task_action_build": {
+    "en": "Build {Target}",
+    "zh": "建造{Target}",
+    "vi": "Xây dựng {Mục tiêu}"
+  },
+  "item.realmrpg_quests.angler_spawn_egg": {
+    "en": "Angler Spawn Egg",
+    "zh": "渔夫刷怪蛋",
+    "vi": "Angler Spawn Egg"
+  },
+  "quest.realmrpg_quests.angler.baits_reward": {
+    "en": "Oh, I'd eat it myself if I were a fish. Here, take your reward.",
+    "zh": "哦，如果我是鱼，我自己都会吃掉它。来，拿着你的奖励。",
+    "vi": "Ôi, nếu tôi là cá, tôi sẽ tự ăn nó. Hãy đến, nhận phần thưởng của bạn."
+  },
+  "quest.realmrpg_quests.monster_hunter.rare.illager_nose_reward": {
+    "en": "You did it well!",
+    "zh": "你做得很好！",
+    "vi": "Bạn đã làm rất tốt!"
+  },
+  "entity.realmrpg_quests.piglin_gambler": {
+    "en": "Piglin Gambler",
+    "zh": "猪灵赌徒",
+    "vi": "Piglin Gambler"
+  },
+  "quest.realmrpg_quests.generic.tillage_reward": {
+    "en": "You did good. Here's the reward.",
+    "zh": "你做得很好。这是奖励。",
+    "vi": "Bạn đã làm một công việc tuyệt vời. Đây là phần thưởng."
+  },
+  "gui.realmrpg_quests.desc_total_quests_zero": {
+    "en": "No Quests Completed",
+    "zh": "未完成任何任务",
+    "vi": "Không có nhiệm vụ nào được hoàn thành"
+  },
+  "item.realmrpg_quests.quest_book": {
+    "en": "Quest Journal",
+    "zh": "任务日志",
+    "vi": "Quest Journal"
+  },
+  "quest.realmrpg_quests.cook.zombies_reward": {
+    "en": "You're good with a knife in more than just the kitchen, hehe! Here's a reward.",
+    "zh": "你在厨房里不仅刀法好，哈哈！这是奖励。",
+    "vi": "Bạn không chỉ giỏi dùng dao trong bếp đâu, haha! Đây là phần thưởng."
+  },
+  "gui.realmrpg_quests.desc_task_destroy": {
+    "en": "Break the required blocks to complete the task. Placing blocks of this type will reduce progress.",
+    "zh": "破坏所需方块以完成任务。放置此类方块会减少进度。",
+    "vi": "Phá hủy các khối cần thiết để hoàn thành nhiệm vụ. Đặt các khối như vậy sẽ làm giảm tiến độ."
+  },
+  "block.realmrpg_quests.shell_game_mix": {
+    "en": "Piglin Pots Game",
+    "zh": "猪灵锅游戏",
+    "vi": "Piglin Pots Game"
+  },
+  "gui.realmrpg_quests.task_action_destroy_any": {
+    "en": "Break blocks",
+    "zh": "破坏方块",
+    "vi": "Phá hủy các khối"
+  },
+  "item.realmrpg_quests.ring_of_wind": {
+    "en": "Ring of Wind ",
+    "zh": "微风之戒",
+    "vi": "Ring of Wind "
+  },
+  "item.realmrpg_quests.glow_clot": {
+    "en": "Glow Clot",
+    "zh": "发光血块",
+    "vi": "Glow Clot"
+  },
+  "block.realmrpg_quests.shell": {
+    "en": "Piglin Pots Game",
+    "zh": "猪灵锅游戏",
+    "vi": "Piglin Pots Game"
+  },
+  "gui.realmrpg_quests.quest_book_page_a.label_text_stop_tracking": {
+    "en": "Refuse Quest",
+    "zh": "拒绝任务",
+    "vi": "từ chối nhiệm vụ"
+  },
+  "gui.realmrpg_quests.desc_task_none": {
+    "en": "Talk to any NPC to recieve the task.",
+    "zh": "与任何NPC交谈以接收任务。",
+    "vi": "Nói chuyện với bất kỳ NPC nào để nhận nhiệm vụ."
+  },
+  "gui.realmrpg_quests.return": {
+    "en": "Talk to {Npc}",
+    "zh": "与{Npc}交谈",
+    "vi": "Nói chuyện với {Npc}"
+  },
+  "item.realmrpg_quests.necklace_of_grace": {
+    "en": "Necklace of Grace",
+    "zh": "优雅项链",
+    "vi": "Necklace of Grace"
+  },
+  "quest.realmrpg_quests.angler.rare.collection_reward": {
+    "en": "You managed to get what I asked for! Even with your arms and legs still in place, you never cease to amaze me!",
+    "zh": "你居然拿到了我请求的东西！而且手脚皆在，这太让我惊喜了！",
+    "vi": "Bạn thực sự đã có được những gì tôi yêu cầu! Và tất cả tay chân đều ở đó, thật là một điều ngạc nhiên đối với tôi!"
+  },
+  "quest.realmrpg_quests.angler.throw": {
+    "en": "This Drowned throws those tridents at me and then swims away. I can't take it anymore. Give me something I can throw back into his face! {Count} {Target} will do just fine.",
+    "zh": "这个溺尸向我扔那些三叉戟，然后游走了。我受够了。给我些我可以扔回他脸上的东西！{Count}个{Target}就足够了。",
+    "vi": "Người chết đuối ném những cây đinh ba đó vào tôi và bơi đi. Tôi xong rồi. Đưa tôi thứ gì đó để tôi có thể ném lại vào mặt hắn! {Count} {Target} là đủ."
+  },
+  "quest.realmrpg_quests.angler.fishing_line_reward": {
+    "en": "Not as durable as I'd like, but it'll do for the first time!",
+    "zh": "不如我希望的那么耐用，但第一次就这样吧！",
+    "vi": "Không bền như tôi mong muốn, nhưng là lần đầu tiên!"
+  },
+  "quest.realmrpg_quests.angler.revenge": {
+    "en": "This fish bit me so hard I dropped it back into the water! But I'm sure you can catch it. Or another one like it, I don't care, I want revenge! Bring me {Count} {Target}.",
+    "zh": "这条鱼咬我太狠了，我把它扔回了水里！但我相信你能抓到它。或者另一条也行，我不在乎，我要报仇！带{Count}条{Target}给我。",
+    "vi": "Con cá cắn tôi mạnh đến nỗi tôi ném nó trở lại nước! Nhưng tôi chắc chắn bạn có thể nắm bắt được nó. Hoặc ngược lại, tôi không quan tâm, tôi muốn trả thù! Mang cho tôi {Count} mặt hàng của {Target}."
+  },
+  "quest.realmrpg_quests.angler.gold_tackles_reward": {
+    "en": "This looks great, thanks!",
+    "zh": "看起来很棒，谢谢！",
+    "vi": "Trông thật tuyệt, cảm ơn bạn!"
+  },
+  "entity.realmrpg_quests.cook": {
+    "en": "Cook",
+    "zh": "厨师",
+    "vi": "Cook"
+  },
+  "quest.realmrpg_quests.angler.boat_reward": {
+    "en": "It's so well tarred. Looks solid, will test it out the other day. Thank you!",
+    "zh": "涂得很油。看起来很结实，改天试试。谢谢！",
+    "vi": "Rất nhờn. Có vẻ chắc chắn, sẽ thử nó vào một ngày khác. Cảm ơn!"
+  },
+  "item.realmrpg_quests.quest_book.desc": {
+    "en": "The adventurer's faithful companion in the form of an item. Needed only for those who don't use hotkey (default is J, can be changed in settings).",
+    "zh": "冒险者忠实的伙伴，以物品形式存在。",
+    "vi": "Người bạn đồng hành trung thành của nhà thám hiểm tồn tại dưới dạng vật phẩm."
+  },
+  "gui.realmrpg_quests.progress_done": {
+    "en": "Done!",
+    "zh": "完成！",
+    "vi": "Hoàn thành!"
+  },
+  "quest.realmrpg_quests.angler.boots": {
+    "en": "In the water, it's not uncommon to get sharp things underfoot and my boots quickly fall into disrepair. Will you bring me new {Target}?",
+    "zh": "在水中，脚下常有尖锐的东西，我的靴子很快就破了。你能给我带来新的{Target}吗？",
+    "vi": "Dưới nước thường xuyên có những vật sắc nhọn dưới chân, và đôi ủng của tôi nhanh chóng bị mòn. Bạn có thể mang cho tôi một {Target} mới không?"
+  },
+  "item.realmrpg_quests.ring_of_wind_greater": {
+    "en": "Ring of Greater Wind ",
+    "zh": "飓风之戒",
+    "vi": "Ring of Greater Wind "
+  },
+  "quest.realmrpg_quests.angler.enchanted_fishing_rod_reward": {
+    "en": "Thanks!",
+    "zh": "谢谢！",
+    "vi": "Cảm ơn!"
+  },
+  "quest.realmrpg_quests.generic.destroy": {
+    "en": "You need to destroy {Count} {Target}.",
+    "zh": "你需要摧毁{Count}个{Target}。",
+    "vi": "Bạn cần tiêu diệt {Count} {Target}."
+  },
+  "gui.realmrpg_quests.desc_task_kill": {
+    "en": "Kill the specified creatures to complete the task.",
+    "zh": "杀死指定生物以完成任务。",
+    "vi": "Tiêu diệt sinh vật được chỉ định để hoàn thành nhiệm vụ."
+  },
+  "quest.realmrpg_quests.angler.tackles": {
+    "en": "I lose my tackles more often than my socks. I'm gonna make some new ones. {Count} {Target} will do just fine. Can you get me the ones with the best shine? The fish like that.",
+    "zh": "我丢失钓具的频率比丢袜子还高。我要做一些新的。{Count}个{Target}正合适。你能给我找些最闪亮的吗？鱼喜欢那个。",
+    "vi": "Tôi bị mất dụng cụ câu cá thường xuyên hơn là mất tất. Tôi sẽ làm một số cái mới. {Count} {Target} vừa đúng. Bạn có thể tìm cho tôi một số thứ sáng bóng nhất không? Cá như thế."
+  },
+  "gui.realmrpg_quests.desc_deny_quest_safe": {
+    "en": "Are you sure? You won't lose anything.",
+    "zh": "你确定吗？你不会失去任何东西。",
+    "vi": "bạn có chắc không? Bạn không có gì để mất."
+  },
+  "quest.realmrpg_quests.generic.craft": {
+    "en": "Craft {Count} {Target}.",
+    "zh": "制作{Count}个{Target}。",
+    "vi": "Tạo {Count} {Target}."
+  },
+  "gui.realmrpg_quests.task_action_catch_at_night": {
+    "en": "Catch at night: {Target}",
+    "zh": "夜晚捕捉：{Target}",
+    "vi": "Chụp đêm: {Target}"
+  },
+  "gui.realmrpg_quests.quest_book_page_a.label_text_return": {
+    "en": "Return to NPC",
+    "zh": "返回NPC",
+    "vi": "Trở lại NPC"
+  },
+  "quest.realmrpg_quests.cook.rare.creeper_fruit_reward": {
+    "en": "That was dangerous, huh? Thanks for delivering such a fresh one!",
+    "zh": "那很危险吧？谢谢你送来了这么新鲜的一个！",
+    "vi": "Điều đó thật nguy hiểm phải không? Cảm ơn bạn đã gửi một cái mới như vậy!"
+  },
+  "quest.realmrpg_quests.generic.already_helping": {
+    "en": "Hello! I'm already being helped by {Name} with an important task, come back later.",
+    "zh": "你好！我已经被{Name}帮助处理一个重要任务了，稍后再来吧。",
+    "vi": "Xin chào! Tôi đã được {Name} giúp đỡ trong một nhiệm vụ quan trọng. Hãy quay lại sau."
+  },
+  "gui.realmrpg_quests.quest_book_page_a.label_text_top": {
+    "en": "Current Quest",
+    "zh": "当前任务",
+    "vi": "nhiệm vụ hiện tại"
+  },
+  "gui.realmrpg_quests.task_action_tillage": {
+    "en": "Till the soil",
+    "zh": "耕作土地",
+    "vi": "đất canh tác"
+  },
+  "item.realmrpg_quests.ring_of_greater_ice": {
+    "en": "Ring of Greater Ice",
+    "zh": "严寒之戒",
+    "vi": "Ring of Greater Ice"
+  },
+  "gui.realmrpg_quests.task_action_none": {
+    "en": "None",
+    "zh": "无",
+    "vi": "không có"
+  },
+  "entity.realmrpg_quests.trigger_zone_old_hut": {
+    "en": "Trigger Zone",
+    "zh": "触发区域",
+    "vi": "Trigger Zone"
+  },
+  "advancements.refuse_quest.title": {
+    "en": "Maybe Another Time",
+    "zh": "或许下次吧",
+    "vi": "Có lẽ lần sau"
+  },
+  "itemGroup.tab_quests_tab": {
+    "en": "RPG Quests",
+    "zh": "RPG 任务",
+    "vi": "Nhiệm vụ RPG"
+  },
+  "quest.realmrpg_quests.cook.dishes": {
+    "en": "Visitors often take their dishes away with them and I can't keep track of it! Will you bring me {Count} {Target}?",
+    "zh": "访客经常带走他们的盘子，我找不到！你能给我带来{Count}份{Target}吗？",
+    "vi": "Du khách thường lấy đĩa của họ đi và tôi không thể tìm thấy chúng! Bạn có thể mang cho tôi {Count} bản sao của {Target} không?"
+  },
+  "item.realmrpg_quests.quest_item.desc": {
+    "en": "Quest Item",
+    "zh": "任务物品",
+    "vi": "Vật phẩm nhiệm vụ"
+  },
+  "quest.realmrpg_quests.angler.generic_reward": {
+    "en": "Looks good, I like it. How much do I owe you again?",
+    "zh": "看起来不错，我喜欢。我应该再付你多少钱？",
+    "vi": "Có vẻ tốt, tôi thích nó. Tôi phải trả cho bạn bao nhiêu nữa?"
+  },
+  "gui.realmrpg_quests.quest_book_page_a.label_text_desc": {
+    "en": "Description",
+    "zh": "描述",
+    "vi": "mô tả"
+  },
+  "quest.realmrpg_quests.generic.kill_reward": {
+    "en": "You've dealt with them well, here's the payment.",
+    "zh": "你处理得很好，这是报酬。",
+    "vi": "Bạn đã xử lý nó tốt và đây là phần thưởng."
+  },
+  "quest.realmrpg_quests.generic.crit": {
+    "en": "I want to give you some combat training. Deal critical hit damage to {Target} {Count} times.",
+    "zh": "我想让你进行一些战斗训练。对{Target}造成{Count}次暴击伤害。",
+    "vi": "Tôi muốn bạn thực hiện một số khóa huấn luyện chiến đấu. Gây {Count} lượt truy cập chí mạng cho {Target}."
+  },
+  "block.realmrpg_quests.shell_game_ready": {
+    "en": "Piglin Pots Game",
+    "zh": "猪灵罐子游戏",
+    "vi": "Piglin Pots Game"
+  },
+  "quest.realmrpg_quests.cook.rare.ochre_kelp": {
+    "en": "This is the season when this delicacy {Target} with a nutty flavor grows. It can be §efound among seagrass§f. Will you gather {Count} pieces for me?",
+    "zh": "这个季节特有的带有坚果味的美味{Target}正在生长。它可以在§e海草§f中找到。你能帮我收集{Count}片吗？",
+    "vi": "Vị ngon hấp dẫn độc đáo của mùa này {Target} đang ngày càng tăng. Nó có thể được tìm thấy trong rong biển §e §f. Bạn có thể giúp tôi thu thập các mảnh {Count} được không?"
+  },
+  "gui.realmrpg_quests.task_action_catch_rare": {
+    "en": "Catch: {Target}",
+    "zh": "捕获：{Target}",
+    "vi": "Bắt giữ: {Mục tiêu}"
+  },
+  "quest.realmrpg_quests.cook.salad_reward": {
+    "en": "Mmm, it smells good! Just what I need!",
+    "zh": "嗯，闻起来真香！正是我需要的！",
+    "vi": "Ừm, mùi thơm quá! Đúng thứ tôi cần!"
+  },
+  "item.realmrpg_quests.ring_of_fire": {
+    "en": "Ring of Fire",
+    "zh": "火之戒",
+    "vi": "Ring of Fire"
+  },
+  "gui.realmrpg_quests.desc_task_done_deliver": {
+    "en": "Task completed. Give items to the NPC to get reward.",
+    "zh": "任务已完成。将物品交给NPC以获取奖励。",
+    "vi": "Nhiệm vụ đã hoàn thành. Đưa vật phẩm cho NPC để nhận phần thưởng."
+  },
+  "quest.realmrpg_quests.angler.rare.glow_bait_reward": {
+    "en": "Great, at night, all the fish will swim to this bait from all over the area! Here, as promised, I'll give you a piece. Use it with joy!",
+    "zh": "太好了，到了晚上，所有的鱼都会因为这饵料从四面八方游过来！来，如约，我会给你一块。开心使用吧！",
+    "vi": "Tuyệt vời, vào ban đêm, tất cả cá sẽ kéo tới từ mọi hướng vì mồi này! Đến đây, như đã hứa, tôi sẽ cho bạn một miếng. Hãy vui vẻ sử dụng nó!"
+  },
+  "quest.realmrpg_quests.generic.journal_npc_died": {
+    "en": "[Task was stopped due to the death of {Npc}]",
+    "zh": "[由于{Npc}死亡，任务已结束]",
+    "vi": "[Nhiệm vụ đã kết thúc do cái chết của {Npc}]"
+  },
+  "quest.realmrpg_quests.monster_hunter.spiders": {
+    "en": "I hate spiders. Especially when they're the size of horses. You can take down {Count} {Target}, right?",
+    "zh": "我讨厌蜘蛛。特别是那些马一样大的。你能干掉{Count}只{Target}，对吧？",
+    "vi": "Tôi ghét nhện. Đặc biệt là những con to như ngựa. Bạn chỉ có thể giết {Count} {Target}, phải không?"
+  },
+  "quest.realmrpg_quests.angler.spawn_reward": {
+    "en": "You managed to catch the biggest ones, great! Not only will I enjoy the fish, but I'll pickle the caviar for the future. Here's your payment.",
+    "zh": "你成功捕获了最大的那些，太棒了！我不仅会享受这些鱼，我还会腌制鱼子酱备用。这是你的报酬。",
+    "vi": "Bạn đã bắt được những con lớn nhất, thật tuyệt vời! Tôi không chỉ thưởng thức món cá mà còn ướp trứng cá muối để sử dụng sau này. Đây là phần thưởng của bạn."
+  },
+  "quest.realmrpg_quests.angler.generic": {
+    "en": "Mornin'! Nice day for fishing, ain't it? Today, I'm going to need {Count} {Target}. I'm sure you can handle it.",
+    "zh": "早上好！今天钓鱼的天气真不错，不是吗？今天，我需要{Count}条{Target}。我相信你能搞定。",
+    "vi": "Chào buổi sáng! Hôm nay là một ngày đẹp trời để câu cá phải không? Hôm nay, tôi cần {Count} mặt hàng của {Target}. Tôi tin rằng bạn có thể xử lý nó."
+  },
+  "quest.realmrpg_quests.angler.fishing_line": {
+    "en": "I have no clue what kind of fish I got on the hook, but the line couldn't hold it. Bring me {Count} {Target}, so I can get back to fishing.",
+    "zh": "我不知道钩上是什么鱼，但线承受不住。带给我{Count}个{Target}，这样我就可以继续钓鱼了。",
+    "vi": "Tôi không biết trên lưỡi câu có loại cá gì, nhưng dây câu không thể câu được. Mang cho tôi {Count} {Target} để tôi có thể tiếp tục câu cá."
+  },
+  "quest.realmrpg_quests.cook.rare.velvet_truffle_reward": {
+    "en": "Ha-ha, you're a real hoglin! Hey, that was actually a compliment - no one but them looks for truffles that well! I wanna share the finished dish with you.",
+    "zh": "哈哈，你真是个猪灵！嘿，那其实是夸奖——除了它们没人能那么快找到松露！我想和你分享做好的菜。",
+    "vi": "Haha, bạn đúng là tinh thần lợn! Này, đó thực sự là một lời khen - không ai khác có thể tìm thấy nấm cục nhanh đến thế! Tôi muốn chia sẻ các món ăn nấu với bạn."
+  },
+  "advancements.headless_skeleton_bad_ending.title": {
+    "en": "Headless Skeleton [Bad Ending]",
+    "zh": "无头骷髅[坏结局]",
+    "vi": "Bộ xương không đầu [Kết thúc tồi tệ]"
+  },
+  "quest.realmrpg_quests.generic.item_color": {
+    "en": "§e",
+    "zh": "§e",
+    "vi": "§e"
+  },
+  "quest.realmrpg_quests.generic.busy": {
+    "en": "I have a job for you ({Type}), but you are currently on another task already. Complete it first or refuse it in the Quest Journal.",
+    "zh": "我有个工作给你（{Type}），但你现在已经在另一个任务上了。先完成它或在任务日志中拒绝它。",
+    "vi": "Tôi có một công việc dành cho bạn ({Type}), nhưng bạn đang thực hiện một nhiệm vụ khác. Hoàn thành nó trước hoặc từ chối nó trong nhật ký nhiệm vụ."
+  },
+  "effect.realmrpg_quests.cooldown": {
+    "en": "Cooldown",
+    "zh": "冷却时间",
+    "vi": "Thời gian làm mát"
+  },
+  "quest.realmrpg_quests.angler.boots_reward": {
+    "en": "Well, uh. I've worn worse. But thanks anyway!",
+    "zh": "额，我穿过更差的。不过还是谢谢你！",
+    "vi": "À, tôi đã từng mặc những cái tệ hơn. Nhưng dù sao cũng cảm ơn bạn!"
+  },
+  "quest.realmrpg_quests.generic.journal_oblivion_user": {
+    "en": "[{Npc} forgot current task]",
+    "zh": "[{Npc}忘记了当前任务]",
+    "vi": "[{Npc} quên nhiệm vụ hiện tại]"
+  },
+  "item.realmrpg_quests.monster_hunter_spawn_egg": {
+    "en": "Monster Hunter Spawn Egg",
+    "zh": "怪物猎人孵化蛋",
+    "vi": "Monster Hunter Spawn Egg"
+  },
+  "item.realmrpg_quests.necklace_of_grace_desc": {
+    "en": "Grants Dolphin's Grace",
+    "zh": "赋予海豚恩赐buff",
+    "vi": "Grants Dolphin's Grace"
+  },
+  "gui.realmrpg_quests.desc_task_catch": {
+    "en": "Catch items with a fishing rod to complete the task.",
+    "zh": "用钓竿捕捉物品以完成任务。",
+    "vi": "Sử dụng cần câu để bắt các vật phẩm để hoàn thành nhiệm vụ."
+  },
+  "quest.realmrpg_quests.generic.build": {
+    "en": "You'll need to build {Count} {Target}. Are you up to the task?",
+    "zh": "你需要建造{Count}个{Target}。你准备好了吗？",
+    "vi": "Bạn cần xây dựng {Count} {Target}. Bạn đã sẵn sàng chưa?"
+  },
+  "quest.realmrpg_quests.generic.journal_oblivion": {
+    "en": "[Task was stopped. Player {Name} has used Potion of Oblivion]",
+    "zh": "[任务已结束。玩家{Name}使用了遗忘药水]",
+    "vi": "[Nhiệm vụ đã kết thúc. Người chơi {Name} đã sử dụng Thuốc Lãng quên]"
+  },
+  "gui.realmrpg_quests.task_action_crit_any": {
+    "en": "Deal critical hits to mobs",
+    "zh": "对生物造成暴击",
+    "vi": "Đòn chí mạng vào một sinh vật"
+  },
+  "item.realmrpg_quests.necklace_of_fishing_desc": {
+    "en": "+25% Chance to Catch Extra Item",
+    "zh": "+25%几率额外捕获物品",
+    "vi": "+25% Chance to Catch Extra Item"
+  },
+  "gui.realmrpg_quests.task_none": {
+    "en": "No Task",
+    "zh": "无任务",
+    "vi": "Không có nhiệm vụ"
+  },
+  "item.realmrpg_quests.potion_of_oblivion": {
+    "en": "Potion of Oblivion",
+    "zh": "遗忘药水",
+    "vi": "Potion of Oblivion"
+  },
+  "gui.realmrpg_quests.task_destroy": {
+    "en": "Destruction",
+    "zh": "破坏",
+    "vi": "hủy hoại"
+  },
+  "quest.realmrpg_quests.generic.reward": {
+    "en": "Thank you!",
+    "zh": "谢谢！",
+    "vi": "Cảm ơn!"
+  },
+  "quest.realmrpg_quests.generic.catch": {
+    "en": "Grab your rod and go fishing! {Count}",
+    "zh": "拿起你的钓竿去钓鱼吧！{Count}",
+    "vi": "Lấy cần câu của bạn và đi câu cá! {Đếm}"
+  },
+  "item.realmrpg_quests.necklace_of_fishing": {
+    "en": "Necklace of Fishing",
+    "zh": "钓鱼项链",
+    "vi": "Necklace of Fishing"
+  },
+  "quest.realmrpg_quests.generic.wait_time": {
+    "en": "s",
+    "zh": "秒",
+    "vi": "Thứ hai"
+  },
+  "quest.realmrpg_quests.angler.gold_tackles": {
+    "en": "Sometimes I want to create special tackles. Oh, I wish I had the material... You'll bring me {Item} {Count}, right?",
+    "zh": "有时我想制作特殊的鱼饵。哦，我希望我能有材料...你会给我带来{Item} {Count}，对吧？",
+    "vi": "Đôi khi tôi muốn làm những loại mồi đặc biệt. Ồ, ước gì tôi có đủ tài liệu... Bạn sẽ mang cho tôi {Item} {Count}, phải không?"
+  },
+  "quest.realmrpg_quests.generic.destroy_reward": {
+    "en": "Good job. This is your reward!",
+    "zh": "干得好。这是你的奖励！",
+    "vi": "đây bạn đi. Đây là phần thưởng của bạn!"
+  },
+  "advancements.root.title": {
+    "en": "Quests & Rewards",
+    "zh": "任务与奖励",
+    "vi": "Nhiệm vụ và phần thưởng"
+  },
+  "quest.realmrpg_quests.angler.fishing_net_reward": {
+    "en": "I can take care of that in no time! Thank you, traveler.",
+    "zh": "我可以很快搞定！谢谢你，旅行者。",
+    "vi": "Tôi có thể làm điều đó một cách nhanh chóng! Cảm ơn bạn, du khách."
+  },
+  "advancements.headless_skeleton_help.title": {
+    "en": "Headless Skeleton",
+    "zh": "无头骷髅",
+    "vi": "hộp sọ không đầu"
+  },
+  "quest.realmrpg_quests.generic.journal_late": {
+    "en": "[Task was stopped. Player {Name} has completed the task faster than you]",
+    "zh": "[任务已结束。玩家{Name}比你更快完成了任务]",
+    "vi": "[Nhiệm vụ đã kết thúc. Người chơi {Name} đã hoàn thành nhiệm vụ nhanh hơn bạn]"
+  },
+  "item.realmrpg_quests.curly_fern": {
+    "en": "Curly Fern",
+    "zh": "卷曲蕨",
+    "vi": "Curly Fern"
+  },
+  "gui.realmrpg_quests.task_action_kill": {
+    "en": "Kill {Target}",
+    "zh": "杀死{Target}",
+    "vi": "Tiêu diệt {Mục tiêu}"
+  },
+  "item.realmrpg_quests.ring_of_exp": {
+    "en": "Ring of Experience",
+    "zh": "经验之戒",
+    "vi": "Ring of Experience"
+  },
+  "item.realmrpg_quests.ochre_kelp": {
+    "en": "Ochre Kelp",
+    "zh": "赭色海带",
+    "vi": "Ochre Kelp"
+  },
+  "quest.realmrpg_quests.cook.tillage_reward": {
+    "en": "You and the hoe have become good friends in the meantime, haven't you?",
+    "zh": "你和锄头在这期间已经成了好朋友，对吧？",
+    "vi": "Bạn và Hòe đã trở thành bạn tốt trong thời gian này phải không?"
+  },
+  "gui.realmrpg_quests.task_kill": {
+    "en": "Hunting",
+    "zh": "狩猎",
+    "vi": "săn bắn"
+  },
+  "key.realmrpg_quests.quest_tracking_hotkey": {
+    "en": "Track Quest",
+    "zh": "左侧显示NPC任务",
+    "vi": "Nhiệm vụ của NPC được hiển thị bên trái"
+  },
+  "quest.realmrpg_quests.generic.time_to_complete": {
+    "en": "Time to Complete: {Time}",
+    "zh": "完成时间：{Time}",
+    "vi": "Thời gian hoàn thành: {Time}"
+  },
+  "gui.realmrpg_quests.desc_task_deliver": {
+    "en": "Gather the required items and deliver to NPC to complete the task.",
+    "zh": "收集所需物品并交付给NPC以完成任务。",
+    "vi": "Thu thập các vật phẩm cần thiết và giao chúng cho các NPC để hoàn thành nhiệm vụ."
+  },
+  "item.realmrpg_quests.potion_of_oblivion_desc": {
+    "en": "Makes the NPC forget the current quest and immediately start the next one.",
+    "zh": "让NPC忘记当前任务并立即开始下一个任务。",
+    "vi": "Makes the NPC forget the current quest and immediately start the next one."
+  },
+  "gui.realmrpg_quests.quest_book_page_a.tooltip_taskdesc": {
+    "en": "taskDesc",
+    "zh": "任务描述",
+    "vi": "Mô tả nhiệm vụ"
+  },
+  "quest.realmrpg_quests.generic.deliver_reward": {
+    "en": "Great job, {Name}! Come back later when I have work for you.",
+    "zh": "干得漂亮，{Name}！有活儿的时候再来找我。",
+    "vi": "Làm tốt lắm, {Name}! Hãy đến gặp tôi lần nữa khi bạn có việc."
+  },
+  "quest.realmrpg_quests.cook.zombies": {
+    "en": "Undead creatures rise at night and scare away my visitors. Kill at least {Count} {Target} as soon as possible.",
+    "zh": "不死生物在夜晚出现，吓跑了我的客人。尽快至少杀死{Count}只{Target}。",
+    "vi": "Xác sống xuất hiện vào ban đêm và khiến những vị khách của tôi sợ hãi. Giết ít nhất {Count} chỉ {Target} càng sớm càng tốt."
+  },
+  "quest.realmrpg_quests.angler.revenge_reward": {
+    "en": "What's up, you goddamn fish?! Now you're going to pay for everything! Take this and leave me alone, {Name}, justice must be served here and now!",
+    "zh": "怎么了，你这该死的鱼？！现在你要为一切付出代价！拿着这个，别再来烦我，{Name}，正义必须在此刻得到伸张！",
+    "vi": "Có chuyện gì vậy, con cá chết tiệt? ! Bây giờ bạn phải trả tiền cho tất cả mọi thứ! Hãy cầm lấy cái này và để tôi yên, {Name}, công lý phải được thực thi ngay bây giờ!"
+  },
+  "quest.realmrpg_quests.angler.magma": {
+    "en": "During your wanderings you've probably encountered {Item}. If I put it underwater the fish will catch themselves. Bring me {Count} {Item}.",
+    "zh": "你在游历中可能遇到过{Item}。如果我把它放在水下，鱼就会自投罗网。给我带来{Count}个{Item}。",
+    "vi": "Bạn có thể đã gặp phải {Item} trong chuyến du lịch của mình. Nếu tôi đặt nó dưới nước, cá sẽ tự mắc bẫy. Mang cho tôi {Count} {Item}."
+  },
+  "quest.realmrpg_quests.cook.rare.velvet_truffle": {
+    "en": "I have a rich client from a farlands, but he asks for a dish with a special ingredient. It's {Target}, named for its soft texture. It's usually §efound by digging up the ground§f. Can you find me one?",
+    "zh": "我有一个来自远方的富有顾客，他要求一道特别的食材。那就是{Target}，因其柔软的质地而得名。通常通过挖掘地面可以§e找到§f。你能帮我找一个吗？",
+    "vi": "Tôi có một khách hàng giàu có ở xa yêu cầu một món ăn đặc biệt. Đó là {Target}, được đặt tên theo kết cấu mềm mại của nó. §e thường có thể được tìm thấy bằng cách đào xuống đất. Bạn có thể giúp tôi tìm một cái được không?"
+  },
+  "quest.realmrpg_quests.generic.count": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "item.realmrpg_quests.piglin_gambler_spawn_egg": {
+    "en": "Piglin Gambler Spawn Egg",
+    "zh": "猪灵赌徒孵化蛋",
+    "vi": "Piglin Gambler Spawn Egg"
+  },
+  "item.realmrpg_quests.ring_of_fire_lesser": {
+    "en": "Ring of Lesser Fire",
+    "zh": "微火之戒",
+    "vi": "Ring of Lesser Fire"
+  },
+  "item.realmrpg_quests.ring_of_ice": {
+    "en": "Ring of Ice",
+    "zh": "冰之戒",
+    "vi": "Ring of Ice"
+  },
+  "quest.realmrpg_quests.cook.milk_reward": {
+    "en": "It's fresh, right? I guess it is, thank you! By the way, take your bucket.",
+    "zh": "很新鲜，对吧？我想是的，谢谢！顺便，拿回你的桶。",
+    "vi": "Rất tươi đúng không? Tôi nghĩ vậy, cảm ơn! Nhân tiện, lấy lại cái xô của bạn đi."
+  },
+  "quest.realmrpg_quests.generic.build_reward": {
+    "en": "That was good. Here's your reward.",
+    "zh": "做得不错。这是你的奖励。",
+    "vi": "Làm tốt. Đây là phần thưởng của bạn."
+  },
+  "quest.realmrpg_quests.cook.making_food_simple_reward": {
+    "en": "You did it well, but you're still a long way from my skills he-he!",
+    "zh": "你做得很好，但离我的手艺还远着呢，嘿嘿！",
+    "vi": "Bạn đã làm rất tốt nhưng kỹ năng của bạn vẫn còn kém xa tôi, hehe!"
+  },
+  "quest.realmrpg_quests.angler.fish": {
+    "en": "There are so many fish in the water, I can't do it alone! Help me and §efish§f here with a rod {Count} §etimes§f. I'm even willing to reward you for such a complex task.",
+    "zh": "水里有那么多鱼，我一个人忙不过来！帮我用钓竿在这里钓鱼{Count}次§e吧§f。我甚至愿意为这么复杂的任务奖励你。",
+    "vi": "Có rất nhiều cá trong nước đến nỗi tôi không thể tự mình xử lý hết chúng được! Hãy giúp tôi câu cá {Count} lần §e ở đây bằng cần câu §f. Tôi thậm chí sẵn sàng thưởng cho bạn một nhiệm vụ phức tạp như vậy."
+  },
+  "gui.realmrpg_quests.task_catch": {
+    "en": "Catching",
+    "zh": "捕捉",
+    "vi": "chiếm lấy"
+  },
+  "item.realmrpg_quests.velvet_truffle": {
+    "en": "Velvet Truffle",
+    "zh": "天鹅绒松露",
+    "vi": "Velvet Truffle"
+  },
+  "gui.realmrpg_quests.task_crit": {
+    "en": "Training",
+    "zh": "训练",
+    "vi": "xe lửa"
+  },
+  "quest.realmrpg_quests.angler.fish_reward": {
+    "en": "You're good at this, a born fisherman!",
+    "zh": "你很擅长这个，天生的渔夫！",
+    "vi": "Bạn giỏi việc này, một ngư dân bẩm sinh!"
+  },
+  "quest.realmrpg_quests.angler.enchanted_fishing_rod": {
+    "en": "Need new Enchanted {Item}.",
+    "zh": "需要新的附魔{Item}。",
+    "vi": "Yêu cầu bùa mê mới {Item}."
+  },
+  "block.realmrpg_quests.piglin_game_spawner": {
+    "en": "Piglin Game Spawner",
+    "zh": "猪灵游戏生成器",
+    "vi": "Piglin Game Spawner"
+  },
+  "gui.realmrpg_quests.task_action_catch_at_rain": {
+    "en": "Catch when raining: {Target}",
+    "zh": "下雨时捕捉：{Target}",
+    "vi": "Chụp khi trời mưa: {Target}"
+  },
+  "gui.realmrpg_quests.task_action_build_any": {
+    "en": "Build blocks",
+    "zh": "建造方块",
+    "vi": "khối xây dựng"
+  },
+  "gui.realmrpg_quests.desc_task_tillage": {
+    "en": "Plow soil with a hoe to complete the task.",
+    "zh": "用锄头翻土以完成任务。",
+    "vi": "Dùng cuốc xới đất để hoàn thành nhiệm vụ."
+  },
+  "quest.realmrpg_quests.generic.journal_added_special": {
+    "en": "[Special task added to journal]",
+    "zh": "[特殊任务已添加到日志]",
+    "vi": "[Nhiệm vụ đặc biệt được thêm vào nhật ký]"
+  },
+  "quest.realmrpg_quests.cook.salad": {
+    "en": "I'm going to make a salad with fresh herbs. It would really help me out if you brought {Count} {Target}.",
+    "zh": "我要做一份带有新鲜香草的沙拉。如果你能带来{Count}份{Target}，会对我帮助很大。",
+    "vi": "Tôi sẽ làm món salad với các loại thảo mộc tươi. Sẽ rất hữu ích cho tôi nếu bạn có thể mang theo {Count} bản sao của {Target}."
+  },
+  "quest.realmrpg_quests.cook.cutting_reward": {
+    "en": "Ouch! I think I cut my finger. How did you find one that sharp?",
+    "zh": "哎呀！我想我割到手指了。你怎么找到这么锋利的？",
+    "vi": "Ối! Tôi nghĩ tôi đã cắt phải ngón tay của mình. Làm thế nào bạn tìm thấy một cái sắc nét như vậy?"
+  },
+  "quest.realmrpg_quests.angler.worst_bite_reward": {
+    "en": "Good fish, fresh and has smell of the sea. I won't starve to death with ya huh! Here, take this for your efforts.",
+    "zh": "好鱼，新鲜，有海的味道。有你在我不会饿死的！这个作为你努力的回报。",
+    "vi": "Cá ngon, tươi và có vị như biển. Tôi sẽ không chết đói với bạn! Đây chính là phần thưởng cho sự nỗ lực của bạn."
+  },
+  "gui.realmrpg_quests.task_action_deliver": {
+    "en": "Find {Target}",
+    "zh": "找到{Target}",
+    "vi": "Tìm {Mục tiêu}"
+  },
+  "quest.realmrpg_quests.piglin.unluck": {
+    "en": "It's not your day. Wanna try again?",
+    "zh": "今天不是你的幸运日。想再试一次吗？",
+    "vi": "Hôm nay không phải là ngày may mắn của bạn. Bạn muốn thử lại?"
+  },
+  "quest.realmrpg_quests.cjzd.cook.ice": {
+    "en": null,
+    "zh": "我正在调制鸡尾酒，你能给我带来{Count}个{Target}吗?我会分享一些给你。",
+    "vi": "Tôi đang pha cocktail, bạn có thể mang cho tôi {Count} {Target} được không? Tôi sẽ chia sẻ một số với bạn."
+  },
+  "quest.realmrpg_quests.cjzd.cook.soup": {
+    "en": null,
+    "zh": "一锅奇怪的汤，也许还需要{Count}个{Target}作为材料。",
+    "vi": "Một nồi súp lạ cũng có thể yêu cầu nguyên liệu là {Count} {Target}."
+  },
+  "quest.realmrpg_quests.cjzd.cook.potion": {
+    "en": null,
+    "zh": "我在尝试制作药水，你能带来{Count}个{Target}吗？",
+    "vi": "Tôi đang cố gắng làm một lọ thuốc, bạn có thể mang theo {Count} {Target} không?"
+  },
+  "quest.realmrpg_quests.cjzd.cook.snake": {
+    "en": null,
+    "zh": "我这有一些奇怪的食物，你可以用{Count}个{Target}和我交换。",
+    "vi": "Tôi có vài món ăn lạ ở đây. Bạn có thể trao đổi {Count} {Target} với tôi."
+  },
+  "quest.realmrpg_quests.cjzd.cook.sea": {
+    "en": null,
+    "zh": "如果你能找到{Count}个{Target}，我可以帮你制作出蕴含海洋之力的浓汤。",
+    "vi": "Nếu bạn có thể tìm thấy {Count} {Target}, tôi có thể giúp bạn nấu món súp bằng sức mạnh của đại dương."
+  },
+  "quest.realmrpg_quests.cjzd.cook.gold": {
+    "en": null,
+    "zh": "你需要附魔金苹果吗？这可是稀罕货，你可以用{Count}个{Target}和我交换。",
+    "vi": "Bạn có cần mê hoặc những quả táo vàng không? Đây là một mặt hàng hiếm. Bạn có thể trao đổi {Count} {Target} với tôi."
+  },
+  "quest.realmrpg_quests.cjzd.cook.r3": {
+    "en": null,
+    "zh": "击杀末地的潜影模仿者(传奇怪物)，带给我一个{Target}，我可以给你一个来自其他星球的秘制小汉堡。",
+    "vi": "Cuối cùng, hãy tiêu diệt kẻ bắt chước bóng tối tiềm ẩn (quái vật huyền thoại) và mang cho tôi một {Target}, và tôi có thể đưa cho bạn một chiếc bánh mì kẹp thịt bí mật từ các hành tinh khác."
+  },
+  "quest.realmrpg_quests.cjzd.cook.r4": {
+    "en": null,
+    "zh": "击杀冰原的霜冻傀儡，带给我一个{Target}，我可以给你2个冬霜冰晶碎片，你也许用得到。",
+    "vi": "Giết con golem băng giá trên cánh đồng băng và mang cho tôi một {Target}. Tôi có thể đưa cho bạn 2 mảnh tinh thể băng giá mùa đông để bạn có thể sử dụng."
+  },
+  "quest.realmrpg_quests.cjzd.cook.r5": {
+    "en": null,
+    "zh": "击杀地狱的噬焰蜥(传奇怪物)，带给我一个{Target}，我可以给你一个来自其他星球的秘制小汉堡。",
+    "vi": "Giết Thằn lằn ăn lửa (quái vật huyền thoại) ở Địa ngục và mang cho tôi một {Target}, tôi có thể đưa cho bạn một chiếc bánh mì kẹp thịt bí mật từ hành tinh khác."
+  },
+  "quest.realmrpg_quests.cjzd.cook.r6": {
+    "en": null,
+    "zh": "击杀地狱的凋零恶煞(传奇怪物)，带给我一个{Target}，我可以给你一个来自其他星球的秘制小汉堡。",
+    "vi": "Giết Wither Evil (quái vật huyền thoại) trong địa ngục và mang cho tôi một {Target}, tôi có thể đưa cho bạn một chiếc bánh mì kẹp thịt bí mật từ hành tinh khác."
+  },
+  "quest.realmrpg_quests.cjzd.cook.r7": {
+    "en": null,
+    "zh": "击杀地狱的骸骨巨(传奇怪物)，带给我一个{Target}，我可以给你一个来自其他星球的秘制小汉堡。",
+    "vi": "Giết Người khổng lồ xương (quái vật huyền thoại) trong địa ngục và mang cho tôi một {Target}, và tôi có thể đưa cho bạn một chiếc bánh mì kẹp thịt bí mật từ hành tinh khác."
+  },
+  "quest.realmrpg_quests.cjzd.cook.r8": {
+    "en": null,
+    "zh": "击杀一只鳌虾，它们较多出现在湿地沼泽群系，带给我一个{Target}，我可以给你一个来自其他星球的秘制小汉堡。",
+    "vi": "Giết một con tôm càng, chúng chủ yếu xuất hiện trong quần xã đầm lầy đất ngập nước, mang cho tôi một {Target} và tôi có thể đưa cho bạn một chiếc bánh mì kẹp thịt bí mật từ các hành tinh khác."
+  },
+  "quest.realmrpg_quests.cjzd.cook.reward": {
+    "en": null,
+    "zh": "干得漂亮，这个给你！",
+    "vi": "Làm tốt lắm, dành cho bạn đây!"
+  },
+  "quest.realmrpg_quests.cjzd.mh.c1": {
+    "en": null,
+    "zh": "到处都是怪物，清理{Count}个{Target}，我会给你你1~6张技能书兑换券(普通)。他们十分灵活，多加小心。",
+    "vi": "Quái vật ở khắp mọi nơi, hãy tiêu diệt {Count} {Target} và tôi sẽ tặng bạn 1 ~ 6 phiếu trao đổi sách kỹ năng (bình thường). Họ rất linh hoạt và cần phải cẩn thận."
+  },
+  "quest.realmrpg_quests.cjzd.mh.c2": {
+    "en": null,
+    "zh": " 到处都是怪物，清理{Count}个{Target}，我会给你你1~6张技能书兑换券(普通)。他们攻击性很强，多加小心。",
+    "vi": "Quái vật ở khắp mọi nơi, hãy tiêu diệt {Count} {Target} và tôi sẽ tặng bạn 1 ~ 6 phiếu trao đổi sách kỹ năng (bình thường). Chúng rất hung hãn nên hãy cẩn thận."
+  },
+  "quest.realmrpg_quests.cjzd.mh.c3": {
+    "en": null,
+    "zh": "到处都是怪物，清理{Count}个{Target}，我会给你你1~6张技能书兑换券(普通)。他们身披重甲，多加小心。",
+    "vi": "Quái vật ở khắp mọi nơi, hãy tiêu diệt {Count} {Target} và tôi sẽ tặng bạn 1 ~ 6 phiếu trao đổi sách kỹ năng (bình thường). Họ được bọc thép dày đặc và cần phải cẩn thận."
+  },
+  "quest.realmrpg_quests.cjzd.mh.c4": {
+    "en": null,
+    "zh": "到处都是怪物，清理{Count}个{Target}，我会给你你1~6张技能书兑换券(普通)。他们十分灵活，多加小心。",
+    "vi": "Quái vật ở khắp mọi nơi, hãy tiêu diệt {Count} {Target} và tôi sẽ tặng bạn 1 ~ 6 phiếu trao đổi sách kỹ năng (bình thường). Họ rất linh hoạt và cần phải cẩn thận."
+  },
+  "quest.realmrpg_quests.cjzd.mh.c5": {
+    "en": null,
+    "zh": "锻炼自己的技巧，击杀{Count}个{Target}，我会给你你1~6张技能书兑换券(普通)。",
+    "vi": "Luyện tập kỹ năng của bạn và tiêu diệt {Count} {Target}, và tôi sẽ tặng bạn 1 ~ 6 phiếu đổi sách kỹ năng (bình thường)."
+  },
+  "quest.realmrpg_quests.cjzd.mh.c6": {
+    "en": null,
+    "zh": "锻炼自己的技巧，击杀{Count}个{Target}，我会给你你1~6张技能书兑换券(普通)。",
+    "vi": "Luyện tập kỹ năng của bạn và tiêu diệt {Count} {Target}, và tôi sẽ tặng bạn 1 ~ 6 phiếu đổi sách kỹ năng (bình thường)."
+  },
+  "quest.realmrpg_quests.cjzd.mh.c7": {
+    "en": null,
+    "zh": "蜜蜂们躁动不安，击杀{Target}，我会给你你1~6张技能书兑换券(普通)。",
+    "vi": "Đàn ong đang bồn chồn, hãy giết {Target} và tôi sẽ tặng bạn 1 ~ 6 phiếu trao đổi sách kỹ năng (bình thường)."
+  },
+  "quest.realmrpg_quests.cjzd.mh.c8": {
+    "en": null,
+    "zh": "击杀{Count}只{Target}，我会给你你1~6张技能书兑换券(普通)。",
+    "vi": "Giết {Count} {Target} và tôi sẽ tặng bạn 1 ~ 6 phiếu đổi sách kỹ năng (bình thường)."
+  },
+  "quest.realmrpg_quests.cjzd.mh.c9": {
+    "en": null,
+    "zh": "击杀{Count}只{Target}，我会给你你1~6张技能书兑换券(普通)。",
+    "vi": "Giết {Count} {Target} và tôi sẽ tặng bạn 1 ~ 6 phiếu đổi sách kỹ năng (bình thường)."
+  },
+  "quest.realmrpg_quests.cjzd.mh.r1": {
+    "en": null,
+    "zh": "前往主世界的烈焰锻造厂，击杀{Target}，我会给你2张技能书兑换券(高级)。",
+    "vi": "Hãy đến Flame Forge ở thế giới chính, tiêu diệt {Target} và tôi sẽ tặng bạn 2 phiếu trao đổi sách kỹ năng (nâng cao)."
+  },
+  "quest.realmrpg_quests.cjzd.mh.r2": {
+    "en": null,
+    "zh": "世界出现了巨型鸟类怪物，击杀{Target}，我会给你2张技能书兑换券(高级)。",
+    "vi": "Một con quái vật chim khổng lồ xuất hiện trên thế giới. Giết {Target} và tôi sẽ tặng bạn 2 phiếu đổi sách kỹ năng (nâng cao)."
+  },
+  "quest.realmrpg_quests.cjzd.mh.r3": {
+    "en": null,
+    "zh": "魔术师正在剧院中表演邪恶戏法，前往黑森林寻找并击杀{Target}，我会给你技能书兑换券(高级)。",
+    "vi": "Ảo thuật gia đang thực hiện những trò ảo thuật độc ác trong rạp hát. Đi đến Rừng Đen để tìm và tiêu diệt {Target}. Tôi sẽ tặng bạn phiếu đổi sách kỹ năng (nâng cao)."
+  },
+  "quest.realmrpg_quests.cjzd.mh.r4": {
+    "en": null,
+    "zh": "击败{Count}个{Target}(可传送门挑战召唤)，我会给你4张技能书兑换券(高级)。",
+    "vi": "Đánh bại {Count} {Target} (có thể được triệu tập bằng thử thách cổng thông tin) và tôi sẽ tặng bạn 4 phiếu đổi sách kỹ năng (nâng cao)."
+  },
+  "quest.realmrpg_quests.cjzd.mh.r5": {
+    "en": null,
+    "zh": "它们是传奇怪物，寻找并击杀{Target}，我会给你2张技能书兑换券(高级)。",
+    "vi": "Họ là những con quái vật huyền thoại. Hãy tìm và tiêu diệt {Target}, tôi sẽ tặng bạn 2 phiếu đổi sách kỹ năng (nâng cao)."
+  },
+  "quest.realmrpg_quests.cjzd.mh.r6": {
+    "en": null,
+    "zh": "它们是传奇怪物，寻找并击杀{Target}，我会给你2张技能书兑换券(高级)。",
+    "vi": "Họ là những con quái vật huyền thoại. Hãy tìm và tiêu diệt {Target}, tôi sẽ tặng bạn 2 phiếu đổi sách kỹ năng (nâng cao)."
+  },
+  "quest.realmrpg_quests.cjzd.mh.r7": {
+    "en": null,
+    "zh": "它们是传奇怪物，寻找并击杀{Target}，我会给你2张技能书兑换券(高级)。",
+    "vi": "Họ là những con quái vật huyền thoại. Hãy tìm và tiêu diệt {Target}, tôi sẽ tặng bạn 2 phiếu đổi sách kỹ năng (nâng cao)."
+  },
+  "quest.realmrpg_quests.cjzd.mh.r8": {
+    "en": null,
+    "zh": "它们是传奇怪物，寻找并击杀{Target}，我会给你2张技能书兑换券(高级)。",
+    "vi": "Họ là những con quái vật huyền thoại. Hãy tìm và tiêu diệt {Target}, tôi sẽ tặng bạn 2 phiếu đổi sách kỹ năng (nâng cao)."
+  },
+  "custom.realmrpg_quests.cjzd.mh.huoshi": {
+    "en": null,
+    "zh": "活尸",
+    "vi": "xác sống"
+  },
+  "custom.realmrpg_quests.cjzd.mh.huoshi2": {
+    "en": null,
+    "zh": "重型活尸",
+    "vi": "Zombie nặng"
+  },
+  "custom.realmrpg_quests.cjzd.mh.jiangshi": {
+    "en": null,
+    "zh": "僵尸",
+    "vi": "thây ma"
+  },
+  "custom.realmrpg_quests.cjzd.mh.kulou": {
+    "en": null,
+    "zh": "骷髅",
+    "vi": "bộ xương"
+  },
+  "custom.realmrpg_quests.cjzd.mh.fenghou": {
+    "en": null,
+    "zh": "蜂后",
+    "vi": "ong chúa"
+  },
+  "custom.realmrpg_quests.cjzd.mh.bing": {
+    "en": null,
+    "zh": "不洁狼人",
+    "vi": "người sói ô uế"
+  },
+  "custom.realmrpg_quests.cjzd.mh.c9": {
+    "en": null,
+    "zh": "凋灵骷髅",
+    "vi": "Bộ xương khô héo"
+  },
+  "custom.realmrpg_quests.cjzd.mh.shen": {
+    "en": null,
+    "zh": "红石巨兽",
+    "vi": "Người khổng lồ đá đỏ"
+  },
+  "custom.realmrpg_quests.cjzd.mh.yuangu": {
+    "en": null,
+    "zh": "燃羽鸟",
+    "vi": "Chim lông cháy"
+  },
+  "custom.realmrpg_quests.cjzd.mh.mss": {
+    "en": null,
+    "zh": "魔术师",
+    "vi": "ảo thuật gia"
+  },
+  "custom.realmrpg_quests.cjzd.mh.r4": {
+    "en": null,
+    "zh": "索罗修士",
+    "vi": "Anh Thoreau"
+  },
+  "custom.realmrpg_quests.cjzd.mh.r5": {
+    "en": null,
+    "zh": "凋零恶煞",
+    "vi": "Tàn ác"
+  },
+  "custom.realmrpg_quests.cjzd.mh.r6": {
+    "en": null,
+    "zh": "荒古守卫者",
+    "vi": "Người bảo vệ cổ đại"
+  },
+  "custom.realmrpg_quests.cjzd.mh.r7": {
+    "en": null,
+    "zh": "沙丘哨兵",
+    "vi": "canh gác cồn cát"
+  },
+  "custom.realmrpg_quests.cjzd.mh.r8": {
+    "en": null,
+    "zh": "紫颂遣使",
+    "vi": "Bài ca sứ giả tím"
+  },
+  "quest.realmrpg_quests.cjzd.mh.reward": {
+    "en": null,
+    "zh": "你的实力又提升了，这个拿去吧！",
+    "vi": "Sức mạnh của bạn đã được cải thiện một lần nữa, hãy nhận lấy điều này!"
+  },
+  "quest.realmrpg_quests.cjzd.ag.c1": {
+    "en": null,
+    "zh": "击杀1只{Target}，我会给你1~6张饰品兑换券(普通)",
+    "vi": "Giết 1 {Target} và tôi sẽ tặng bạn 1~6 phiếu đổi trang sức (bình thường)"
+  },
+  "quest.realmrpg_quests.cjzd.ag.c2": {
+    "en": null,
+    "zh": "前往矮人地下城，击杀{Target}，我会给你1~6张饰品兑换券(普通)",
+    "vi": "Đi đến ngục tối người lùn, giết {Target} và tôi sẽ tặng bạn 1 ~ 6 phiếu đổi trang sức (bình thường)"
+  },
+  "quest.realmrpg_quests.cjzd.ag.c3": {
+    "en": null,
+    "zh": "掠夺者们改造的战争机器，击杀{Target}(可传送门挑战召唤)，我会给你1~6张饰品兑换券(普通)",
+    "vi": "Cỗ máy chiến tranh được sửa đổi bởi những kẻ săn mồi, tiêu diệt {Target} (có thể được triệu tập thông qua thử thách cổng thông tin), tôi sẽ tặng bạn 1 ~ 6 phiếu đổi trang sức (bình thường)"
+  },
+  "quest.realmrpg_quests.cjzd.ag.c4": {
+    "en": null,
+    "zh": "击杀一个{Target}，我会给你1~6张饰品兑换券(普通)",
+    "vi": "Giết một {Target} và tôi sẽ tặng bạn 1~6 phiếu đổi trang sức (bình thường)"
+  },
+  "quest.realmrpg_quests.cjzd.ag.c5": {
+    "en": null,
+    "zh": "找到冰术士小屋，击杀{Target}，我会给你1~6张饰品兑换券(普通)",
+    "vi": "Tìm túp lều của Ice Warlock, giết {Target} và tôi sẽ tặng bạn 1 ~ 6 phiếu đổi trang sức (bình thường)"
+  },
+  "quest.realmrpg_quests.cjzd.ag.c6": {
+    "en": null,
+    "zh": "一位精通闪电魔法的掠夺者，击杀{Target}(可传送门挑战召唤)，我会给你1~6张饰品兑换券(普通)",
+    "vi": "Một kẻ săn mồi thành thạo ma thuật sét, giết {Target} (có thể được triệu tập bằng thử thách cổng), tôi sẽ tặng bạn 1 ~ 6 phiếu đổi trang sức (bình thường)"
+  },
+  "quest.realmrpg_quests.cjzd.ag.c7": {
+    "en": null,
+    "zh": "交给我{Count}个{Target}，我可以给你有利于水下作战的饰品。",
+    "vi": "Hãy đưa cho tôi {Count} {Target} và tôi có thể cung cấp cho bạn những phụ kiện hữu ích cho việc chiến đấu dưới nước."
+  },
+  "quest.realmrpg_quests.cjzd.ag.c8": {
+    "en": null,
+    "zh": "前往下界的灵魂沙峡谷，击杀{Target}，我会给你1~6张饰品兑换券(普通)",
+    "vi": "Đi đến Hẻm núi Soul Sand ở Nether, giết {Target} và tôi sẽ tặng bạn 1 ~ 6 phiếu đổi trang sức (bình thường)"
+  },
+  "quest.realmrpg_quests.cjzd.ag.r1": {
+    "en": null,
+    "zh": "击败霜冻傀儡，把{Target}带给我，我可以给你2张饰品兑换券(高级)",
+    "vi": "Đánh bại con Frost Golem và mang {Target} đến cho tôi. Tôi có thể tặng bạn 2 phiếu đổi trang sức (nâng cao)."
+  },
+  "quest.realmrpg_quests.cjzd.ag.r2": {
+    "en": null,
+    "zh": "击败{Target}，我会给你10~16个绿宝石块",
+    "vi": "Đánh bại {Target} và tôi sẽ cho bạn 10~16 khối ngọc lục bảo"
+  },
+  "quest.realmrpg_quests.cjzd.ag.r3": {
+    "en": null,
+    "zh": "交给我{Count}个{Target}，我可以给你强力的宝石。",
+    "vi": "Hãy cho tôi {Count} {Target} và tôi có thể đưa cho bạn những viên ngọc mạnh mẽ."
+  },
+  "quest.realmrpg_quests.cjzd.ag.r4": {
+    "en": null,
+    "zh": "击杀{Target}，我会给你1张饰品兑换券(高级)以及一些金块和经验",
+    "vi": "Giết {Target}, và tôi sẽ đưa cho bạn phiếu đổi đồ trang sức (nâng cao) cũng như một số vàng cốm và kinh nghiệm."
+  },
+  "quest.realmrpg_quests.cjzd.ag.r5": {
+    "en": null,
+    "zh": "击败长眠于地下的{Target}，我会给你2张饰品兑换券(高级)",
+    "vi": "Đánh bại {Target} đang ngủ dưới lòng đất và tôi sẽ tặng bạn 2 phiếu đổi trang sức (nâng cao)"
+  },
+  "quest.realmrpg_quests.cjzd.ag.r6": {
+    "en": null,
+    "zh": "击杀草原部落中的{Target}，我会给你1张饰品兑换券(高级)以及1个火焰戒指",
+    "vi": "Giết {Mục tiêu} trong bộ tộc đồng cỏ, tôi sẽ tặng bạn 1 phiếu đổi trang sức (nâng cao) và 1 chiếc nhẫn lửa."
+  },
+  "quest.realmrpg_quests.cjzd.ag.r7": {
+    "en": null,
+    "zh": "击杀冰原中沉睡的{Target}，我会给你1张饰品兑换券(高级)以及1个冰霜戒指",
+    "vi": "Giết {Target} đang ngủ trên cánh đồng băng, tôi sẽ đưa cho bạn phiếu đổi đồ trang sức (nâng cao) và một chiếc nhẫn băng giá."
+  },
+  "custom.realmrpg_quests.cjzd.ag.c1": {
+    "en": null,
+    "zh": "梦魇循踪兽",
+    "vi": "Theo dõi cơn ác mộng"
+  },
+  "custom.realmrpg_quests.cjzd.ag.c2": {
+    "en": null,
+    "zh": "锻莫百夫长",
+    "vi": "Đại đội trưởng Dwemer"
+  },
+  "custom.realmrpg_quests.cjzd.ag.c3": {
+    "en": null,
+    "zh": "绝境铁傀儡",
+    "vi": "Golem sắt tuyệt vọng"
+  },
+  "custom.realmrpg_quests.cjzd.ag.c4": {
+    "en": null,
+    "zh": "灾厄大将",
+    "vi": "Thảm họa chung"
+  },
+  "custom.realmrpg_quests.cjzd.ag.c5": {
+    "en": null,
+    "zh": "冰术师",
+    "vi": "Người làm băng"
+  },
+  "custom.realmrpg_quests.cjzd.ag.c6": {
+    "en": null,
+    "zh": "电击者",
+    "vi": "sốc"
+  },
+  "custom.realmrpg_quests.cjzd.ag.c8": {
+    "en": null,
+    "zh": "灵魂骑士",
+    "vi": "hiệp sĩ linh hồn"
+  },
+  "custom.realmrpg_quests.cjzd.ag.r2": {
+    "en": null,
+    "zh": "蔓生巨像",
+    "vi": "Bức tượng khổng lồ phát triển quá mức"
+  },
+  "custom.realmrpg_quests.cjzd.ag.r4": {
+    "en": null,
+    "zh": "不可撼动者",
+    "vi": "Điều không thể lay chuyển"
+  },
+  "custom.realmrpg_quests.cjzd.ag.r5": {
+    "en": null,
+    "zh": "钢铁守护者",
+    "vi": "người bảo vệ sắt"
+  },
+  "custom.realmrpg_quests.cjzd.ag.r6": {
+    "en": null,
+    "zh": "太阳鸟",
+    "vi": "chim hút mật"
+  },
+  "custom.realmrpg_quests.cjzd.ag.r7": {
+    "en": null,
+    "zh": "霜冻巨兽",
+    "vi": "khổng lồ băng giá"
+  },
+  "quest.realmrpg_quests.cjzd.ag.reward": {
+    "en": null,
+    "zh": "做得不错。这是你的奖励。",
+    "vi": "Làm tốt. Đây là phần thưởng của bạn."
+  },
+  "quest.realmrpg_quests.angler.prickly_reward": {
+    "en": "Delightful fish. What? Is it poisonous? Don't talk nonsense, you just don't know how to cook it. This is for your effort.",
+    "zh": "美味的鱼。什么？有毒？别胡说，只是你不知道怎么烹饪。这是对你努力的奖励。",
+    "vi": "Cá ngon. Cái gì? độc? Đừng buồn cười, chỉ là bạn không biết nấu ăn mà thôi. Đây là phần thưởng cho sự nỗ lực của bạn."
+  }
+}

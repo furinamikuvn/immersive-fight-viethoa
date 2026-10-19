@@ -1,0 +1,43 @@
+{
+	"type": "guardvillagers:slot",
+	"pools": [{
+		"rolls": 1,
+		"entries": [{
+				"type": "minecraft:item",
+				"name": "minecraft:iron_sword",
+				"weight": 40
+			},
+
+        {
+          "type": "minecraft:item",
+          "weight": 30,
+          "name": "minecraft:crossbow"
+        },
+			{
+				"type": "minecraft:item",
+				"name": "epicfight:iron_dagger",
+				"weight": 45
+			},
+			{
+				"type": "minecraft:item",
+				"name": "epicfight:iron_greatsword",
+				"weight": 5
+			},
+			{
+				"type": "minecraft:item",
+				"name": "epicfight:iron_longsword",
+				"weight": 30
+			},
+			{
+				"type": "minecraft:item",
+				"name": "epicfight:iron_spear",
+				"weight": 35
+			},
+			{
+				"type": "minecraft:item",
+				"name": "epicfight:iron_tachi",
+				"weight": 25
+			}
+		]
+	}]
+}

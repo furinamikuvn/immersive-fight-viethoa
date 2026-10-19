@@ -1,0 +1,16 @@
+{
+  "type": "reterraforged:add",
+  "input1": {
+    "type": "reterraforged:shift",
+    "input": {
+      "type": "reterraforged:simplex",
+      "frequency": 0.041666668,
+      "gain": 0.5,
+      "interpolation": "CURVE3",
+      "lacunarity": 2.65,
+      "octaves": 2
+    },
+    "shift": 0
+  },
+  "input2": -0.5
+}

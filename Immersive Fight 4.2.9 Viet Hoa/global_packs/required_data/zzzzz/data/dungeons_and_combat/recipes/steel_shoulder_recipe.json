@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "ab",
+    "ab"
+  ],
+  "key": {
+    "a": {
+      "tag": "forge:ingots/steel"
+    },
+    "b": {
+      "item": "dungeons_and_combat:armor_plate"
+    }
+  },
+  "result": {
+    "item": "dungeons_and_combat:steel_shoulder",
+    "count": 1
+  }
+}

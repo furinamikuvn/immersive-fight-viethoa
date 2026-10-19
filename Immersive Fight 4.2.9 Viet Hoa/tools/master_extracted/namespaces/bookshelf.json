@@ -1,0 +1,162 @@
+{
+  "_comment": {
+    "en": "Misc",
+    "zh": "Days",
+    "vi": null
+  },
+  "moon.phase.full": {
+    "en": "Full Moon",
+    "zh": "满月",
+    "vi": null
+  },
+  "moon.phase.waxing.gibbous": {
+    "en": "Waxing Gibbous",
+    "zh": "盈凸月",
+    "vi": null
+  },
+  "moon.phase.first.quarter": {
+    "en": "First Quarter",
+    "zh": "上弦月",
+    "vi": null
+  },
+  "moon.phase.waxing.crescent": {
+    "en": "Waxing Crescent",
+    "zh": "蛾眉月",
+    "vi": null
+  },
+  "moon.phase.new": {
+    "en": "New Moon",
+    "zh": "新月",
+    "vi": null
+  },
+  "moon.phase.waning.crescent": {
+    "en": "Waning Crescent",
+    "zh": "残月",
+    "vi": null
+  },
+  "moon.phase.last.quarter": {
+    "en": "Last Quarter",
+    "zh": "下弦月",
+    "vi": null
+  },
+  "moon.phase.waning.gibbous": {
+    "en": "Waning Gibbous",
+    "zh": "亏凸月",
+    "vi": null
+  },
+  "time.bookshelf.month.january": {
+    "en": "January",
+    "zh": "一月",
+    "vi": null
+  },
+  "time.bookshelf.month.february": {
+    "en": "February",
+    "zh": "二月",
+    "vi": null
+  },
+  "time.bookshelf.month.march": {
+    "en": "March",
+    "zh": "三月",
+    "vi": null
+  },
+  "time.bookshelf.month.april": {
+    "en": "April",
+    "zh": "四月",
+    "vi": null
+  },
+  "time.bookshelf.month.may": {
+    "en": "May",
+    "zh": "五月",
+    "vi": null
+  },
+  "time.bookshelf.month.june": {
+    "en": "June",
+    "zh": "六月",
+    "vi": null
+  },
+  "time.bookshelf.month.july": {
+    "en": "July",
+    "zh": "七月",
+    "vi": null
+  },
+  "time.bookshelf.month.august": {
+    "en": "August",
+    "zh": "八月",
+    "vi": null
+  },
+  "time.bookshelf.month.september": {
+    "en": "September",
+    "zh": "九月",
+    "vi": null
+  },
+  "time.bookshelf.month.october": {
+    "en": "October",
+    "zh": "十月",
+    "vi": null
+  },
+  "time.bookshelf.month.november": {
+    "en": "November",
+    "zh": "十一月",
+    "vi": null
+  },
+  "time.bookshelf.month.december": {
+    "en": "December",
+    "zh": "十二月",
+    "vi": null
+  },
+  "time.bookshelf.day.sunday": {
+    "en": "Sunday",
+    "zh": "星期天",
+    "vi": null
+  },
+  "time.bookshelf.day.monday": {
+    "en": "Monday",
+    "zh": "星期一",
+    "vi": null
+  },
+  "time.bookshelf.day.tuesday": {
+    "en": "Tuesday",
+    "zh": "星期二",
+    "vi": null
+  },
+  "time.bookshelf.day.wednesday": {
+    "en": "Wednesday",
+    "zh": "星期三",
+    "vi": null
+  },
+  "time.bookshelf.day.thursday": {
+    "en": "Thursday",
+    "zh": "星期四",
+    "vi": null
+  },
+  "time.bookshelf.day.friday": {
+    "en": "Friday",
+    "zh": "星期五",
+    "vi": null
+  },
+  "time.bookshelf.day.saturday": {
+    "en": "Saturday",
+    "zh": "星期六",
+    "vi": null
+  },
+  "commands.bookshelf.loot_tables": {
+    "en": "Found %d missing loot tables for %s.",
+    "zh": null,
+    "vi": null
+  },
+  "commands.bookshelf.loot_tables.wildcard": {
+    "en": "Found %d missing loot tables for all mods.",
+    "zh": null,
+    "vi": null
+  },
+  "argument.bookshelf.unknown_value": {
+    "en": "The value '%s' is unknown.",
+    "zh": null,
+    "vi": null
+  },
+  "text.bookshelf.ticks": {
+    "en": "Ticks: %s",
+    "zh": null,
+    "vi": null
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Arcanethyst (Áo Thuật Kích)",
+  "icon": "simplyswords:arcanethyst",
+  "advancement": "simplyswords:arcanethyst",
+  "category": "simplyswords:category_unique_weapons",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:arcanethyst",
+      "text": "Arcanethyst chế tác từ thạch anh tím ngập tràn ma lực, điều khiển tâm trí kẻ địch và phóng thích sóng xung kích tâm linh."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Nhấn giữ chuột phải giải phóng luồng xung kích Áo Thuật nhấc bổng kẻ thù và dồn sát thương liên tục."
+    }
+  ]
+}

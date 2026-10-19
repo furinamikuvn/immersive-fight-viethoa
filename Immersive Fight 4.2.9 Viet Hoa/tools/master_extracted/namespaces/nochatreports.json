@@ -1,0 +1,647 @@
+{
+  "modmenu.descriptionTranslation.nochatreports": {
+    "en": "Strips cryptographic signatures from player messages, making it impossible to track and associate them with your Mojang/Microsoft account, as well as to use the Player Chat Reporting feature.",
+    "zh": "从玩家消息中剥离加密签名，使其无法跟踪并与你的Microsoft帐户关联，以及使用聊天举报功能。",
+    "vi": null
+  },
+  "key.nochatreports.ctrl": {
+    "en": "Ctrl",
+    "zh": null,
+    "vi": null
+  },
+  "key.nochatreports.cmd": {
+    "en": "Cmd",
+    "zh": null,
+    "vi": null
+  },
+  "gui.nochatreports.secure_chat": {
+    "en": "This option cannot work with No Chat Reports, since there are no signatures to verify.",
+    "zh": "此选项被No Chat Reports禁用。",
+    "vi": null
+  },
+  "gui.nochatreports.no_reporting": {
+    "en": "Chat reports are disabled on this server, courtesy of No Chat Reports.",
+    "zh": "聊天举报在此服务器上被No Chat Reports禁用。",
+    "vi": null
+  },
+  "disconnect.nochatreports.client": {
+    "en": "This server does not have No Chat Reports and you have configured it to require itself on server.",
+    "zh": "此服务器没有安装No Chat Reports，但你已将其配置为要求服务器上安装。",
+    "vi": null
+  },
+  "gui.nochatreports.safety_status_button.controls": {
+    "en": "Left-click to cycle between signing modes.",
+    "zh": "左键单击以在签名模式之间循环。",
+    "vi": null
+  },
+  "gui.nochatreports.safety_status.secure": {
+    "en": "This server has No Chat Reports installed, or prevents your messages from being reportable in some other known way. You can chat safely.",
+    "zh": "此服务器安装了No Chat Reports或采取了其他已知的措施防止聊天举报。你可以安全地聊天。",
+    "vi": null
+  },
+  "gui.nochatreports.safety_status.singleplayer": {
+    "en": "You can always chat safely in singleplayer and self-hosted LAN worlds.",
+    "zh": "你始终可以在单人模式中安全地聊天。",
+    "vi": null
+  },
+  "gui.nochatreports.safety_status.unintrusive": {
+    "en": "This server allows you to send unsigned messages which cannot be reported to Mojang. Unless some kind of plugin is installed on the server that prevents chat reports - vanilla clients will still send signed messages, display unsigned messages as \"Unverified\" and not show them if \"Only Show Secure Chat\" is enabled in chat options.",
+    "zh": "此服务器没有安装No Chat Reports，但允许发送不能被举报给Mojang的未签名消息。这意味着你的消息不能被举报，但其他人可以通过打开“仅显示安全的聊天”屏蔽你的消息。",
+    "vi": null
+  },
+  "gui.nochatreports.safety_status.insecure": {
+    "en": "This server currently demands all chat messages to be signed. All signed messages are a potentially incriminating evidence that can be used against you in a chat report.",
+    "zh": "此服务器要求对所有聊天消息进行签名。所有签名的消息都是潜在的罪证，可能在举报中对你不利。使用聊天加密是一种防止被举报的有效方法。",
+    "vi": null
+  },
+  "gui.nochatreports.safety_status.insecure_signing": {
+    "en": "You have enabled chat signing, which makes all your messages a potentially incriminating evidence that can be used against you in a chat report.",
+    "zh": "你已经启用了聊天签名，这使你的所有消息都会成为在举报中对你不利的潜在罪证。",
+    "vi": null
+  },
+  "gui.nochatreports.safety_status.realms": {
+    "en": "This is a Realms server. Not only is there no way to prevent chat reports here, but Mojang also employs automated chat monitoring to identify potential \"online harms\" and escalate them to human review, whether the owner of the Realm likes it or not. Your only hope is chat encryption.",
+    "zh": "这是Realms服务器。这里不仅无法阻止聊天举报，Mojang还使用自动聊天监控来识别潜在的“在线危害”，并将其升级以供人类审查，无论该Realm的所有者是否愿意。使用聊天加密是一种有效方法。",
+    "vi": null
+  },
+  "gui.nochatreports.safety_status.unknown": {
+    "en": "No Chat Reports is not sure about safety of this server yet. Try sending a message in chat in order to evaluate it.",
+    "zh": "No Chat Reports尚不确定此服务器的安全性。尝试在聊天中发送消息以进行测试。",
+    "vi": null
+  },
+  "gui.nochatreports.safety_status.undefined": {
+    "en": "No Chat Reports could not evaluate the safety of this server. This should never happen, please report it as a bug to the mod developer.",
+    "zh": "No Chat Reports无法检测此服务器的安全性。这不该发生，请将其作为Bug反馈给模组开发人员。",
+    "vi": null
+  },
+  "gui.nochatreports.signing_status.allowed_realms": {
+    "en": "Chat signing is always enabled on Realms, since it is always required and disabling it would yield no benefit anyways.",
+    "zh": "聊天签名始终在Realms上启用，因为它始终是必需的，禁用它不会带来任何好处。",
+    "vi": null
+  },
+  "gui.nochatreports.signing_status.allowed": {
+    "en": "Message signing is enabled for this session.",
+    "zh": "此会话已启用聊天签名。",
+    "vi": null
+  },
+  "gui.nochatreports.signing_status.allowed_session": {
+    "en": "Message signing is enabled for this session, but it will be disabled once you re-join.",
+    "zh": "此会话已启用聊天签名，但一旦你重新加入，它将被禁用。",
+    "vi": null
+  },
+  "gui.nochatreports.signing_status.disabled": {
+    "en": "Message signing is disabled for this session.",
+    "zh": "此会话已禁用聊天签名。",
+    "vi": null
+  },
+  "gui.nochatreports.signing_status.disabled_allowance_pending": {
+    "en": "Message signing is disabled for this session, but it will be enabled once you send any message.",
+    "zh": "此会话已禁用聊天签名，但一旦你发送任何消息，它就会启用。",
+    "vi": null
+  },
+  "gui.nochatreports.signing_status.disabled_offline": {
+    "en": "Message signing is disabled since this is an offline server.",
+    "zh": "聊天签名已被禁用，因为这是一个离线服务器。",
+    "vi": null
+  },
+  "gui.nochatreports.reload_config_tooltip": {
+    "en": "Reload No Chat Reports config. Use carefully.",
+    "zh": "重新加载No Chat Reports配置。请小心使用。",
+    "vi": null
+  },
+  "gui.nochatreports.verified_server": {
+    "en": "§a§lSafe Server§r\nWe could verify that this server has No Chat Reports installed, or prevents chat reports in some other known way. You can chat safely there.",
+    "zh": "§a§l安全的服务器§\r\n我们可以确定此服务器安装了No Chat Reports，或者以其他已知方式阻止聊天举报。你可以安全地聊天。",
+    "vi": null
+  },
+  "gui.nochatreports.ncr_toggle_tooltip": {
+    "en": "§lNo Chat Reports:§r %1$s\nDisable or enable most of the mod's client-sided functionality. You may have to do this to join some Paper/Velocity servers, as they are known to cause issues with NCR.\nCertain networking-unrelated things, such as encryption, chat trust status tweaks and removal of vanilla's \"Chat messages can't be verified\" toast will still work; they can be disabled in config individually.",
+    "zh": "§lNo Chat Reports：§r%1$s\n禁用或启用模组的大部分客户端功能。你可能必须这样做才能加入一些Paper/Velocity服务器，因为它们会导致NCR问题。某些与网络无关的事情，如加密、聊天信任状态调整和删除原版的“聊天消息无法验证”警告弹窗仍然有效；它们可以在配置中单独禁用。",
+    "vi": null
+  },
+  "gui.nochatreports.ncr_state_on": {
+    "en": "§a§lEnabled§r",
+    "zh": "§a§l启用§r",
+    "vi": null
+  },
+  "gui.nochatreports.ncr_state_off": {
+    "en": "§c§lDisabled§r",
+    "zh": "§c§l禁用§r",
+    "vi": null
+  },
+  "tag.nochatreports.encrypted": {
+    "en": "Encrypted using: %1$s",
+    "zh": "加密方式：%1$s",
+    "vi": null
+  },
+  "tag.nochatreports.encrypted_original": {
+    "en": "Non-decrypted: %1$s",
+    "zh": "无法解密消息的人看起来就像这样：%1$s",
+    "vi": null
+  },
+  "gui.nochatreports.encryption_tooltip": {
+    "en": "§lEncryption:§r %1$s\nRight-click to configure.\n\nWhile encryption is enabled, you can prevent it from being applied to the message by holding %2$s when sending it.",
+    "zh": "§l加密：§r%1$s\n右击以配置。\n\n当启用加密时，你可以通过在发送消息时按住Ctrl来暂时关闭。",
+    "vi": null
+  },
+  "gui.nochatreports.encryption_tooltip_invalid": {
+    "en": "§lEncryption:§r %1$s\n§cInvalid configuration. Click to configure.",
+    "zh": "§l加密：§r%1$s\n§c无效配置。单击以配置。",
+    "vi": null
+  },
+  "gui.nochatreports.encryption_state_on": {
+    "en": "§a§lEnabled§r",
+    "zh": "§a§l启用§r",
+    "vi": null
+  },
+  "gui.nochatreports.encryption_state_off": {
+    "en": "§c§lDisabled§r",
+    "zh": "§c§l禁用§r",
+    "vi": null
+  },
+  "gui.nochatreports.encryption_warning.header": {
+    "en": "About Encryption",
+    "zh": "关于加密",
+    "vi": null
+  },
+  "gui.nochatreports.encryption_warning.contents": {
+    "en": "You can encrypt your messages using a secret key. Only people who know this key will be able to decrypt them. No Chat Reports will automatically decrypt all encrypted messages when a suitable key is provided and the feature is enabled.\nHowever, be aware that encryption is not a \"magic wand\" kind of solution. Moderators on third-party servers can mute or ban you for sending what will appear to them as a garbled mess in chat. Futhermore, it is recommended that you generate a custom encryption key and communicate it to other people only via secure channels. Click \"Learn More\" to learn more about how and when you should use encryption.",
+    "zh": "你可以使用密钥加密消息，只有知道此密钥的人才能解密它们。当提供合适的密钥并启用该功能时，No Chat Reports将自动解密所有加密消息。\n然而，请注意，加密不是一种万能的解决方案。第三方服务器的所有者可以禁止你发送聊天中看起来乱糟糟的内容。此外，建议你生成自定义加密密钥，并仅通过安全通道将其传递给其他人。单击“了解更多”以了解有关如何以及何时使用加密的更多信息。",
+    "vi": null
+  },
+  "gui.nochatreports.encryption_warning.check": {
+    "en": "Don't show again",
+    "zh": "不再提示",
+    "vi": null
+  },
+  "gui.nochatreports.encryption_warning.learn_more": {
+    "en": "Learn More",
+    "zh": "了解更多",
+    "vi": null
+  },
+  "gui.nochatreports.encryption_config.header": {
+    "en": "Encryption Settings",
+    "zh": "加密设置",
+    "vi": null
+  },
+  "gui.nochatreports.encryption_config.key_desc": {
+    "en": "§lEncryption Key§r\nKey that will be used to encrypt and decrypt your messages. Its format depends on the algorithm; for AES it will be 128 bits of Base64-encoded binary data.",
+    "zh": "§l加密密钥§\r\n用于加密和解密消息的密钥。它的格式取决于算法；对于AES，它将是128位的Base64编码二进制数据。",
+    "vi": null
+  },
+  "gui.nochatreports.encryption_config.passphrase_desc": {
+    "en": "§lEncryption Passphrase§r\nInstead of generating a random key, you can derive one from a passphrase of your choice. If you use this - choose a strong one. Not all algorithms support passphrases.",
+    "zh": "§l加密密码短语§\r\n你可以从自己选择的密码中导出一个密钥，而不是生成随机密钥。如果你使用这个-选择一个强大的。并非所有算法都支持密码短语。",
+    "vi": null
+  },
+  "gui.nochatreports.encryption_config.validation_ok": {
+    "en": "Key Validation: §a§lPassed",
+    "zh": "密钥检测：§a§l正常",
+    "vi": null
+  },
+  "gui.nochatreports.encryption_config.validation_failed": {
+    "en": "Key Validation: §c§lFailed",
+    "zh": "密钥检测：§c§l失败",
+    "vi": null
+  },
+  "gui.nochatreports.encryption_config.dice_tooltip": {
+    "en": "Generate a new random key with respect to the selected encryption algorithm.",
+    "zh": "针对所选加密算法生成新的随机密钥。",
+    "vi": null
+  },
+  "gui.nochatreports.encryption_config.pass_not_allowed": {
+    "en": "<not supported>",
+    "zh": "<不支持>",
+    "vi": null
+  },
+  "gui.nochatreports.encryption_config.algorithm": {
+    "en": "Algorithm: %1$s",
+    "zh": "算法：%1$s",
+    "vi": null
+  },
+  "gui.nochatreports.encryption_config.default_key": {
+    "en": "<default: %1$s>",
+    "zh": "<默认：%1$s>",
+    "vi": null
+  },
+  "gui.nochatreports.encryption_config.encrypt_public": {
+    "en": "Encrypt public messages",
+    "zh": "加密公共消息",
+    "vi": null
+  },
+  "algorithm.nochatreports.aes_cfb8_base64.name": {
+    "en": "AES/CFB8+Base64R",
+    "zh": "AES/CFB8+Base64R",
+    "vi": null
+  },
+  "algorithm.nochatreports.aes_cfb8_base64": {
+    "en": "§lAES/CFB8+Base64R§r\nStandard symmetric encryption algorithm. Uses 128 bit keys, output is encoded in a special version of Base64 to permit transfer via Minecraft's chat. As a downside - messages will gain roughly 30% increase in length and the server might truncate them if they exceed the size limit.",
+    "zh": "§lAES/CFB8+Base64R§r\n标准对称加密算法。使用128位密钥，输出以Base64的特殊版本编码，以允许通过Minecraft的聊天进行传输。有一个缺点是，消息长度将增加大约30%，如果超过长度限制，服务器可能会截断它们。",
+    "vi": null
+  },
+  "algorithm.nochatreports.aes_gcm_base64.name": {
+    "en": "AES/GCM+Base64R",
+    "zh": "AES/GCM+Base64R",
+    "vi": null
+  },
+  "algorithm.nochatreports.aes_gcm_base64": {
+    "en": "§lAES/GCM+Base64R§r\nMore security in exchange for a severe increase in message size (12 bytes for the initialization vector and 12 bytes for the authentication tag, Base64 encoding on top). Choose this if you value security over anything else.",
+    "zh": "§lAES/GCM+Base64R§r\n更高的安全性，但是消息大小严重增加（12字节用于初始化向量，12字节用于身份验证标签，顶部为Base64编码）。是否选择取决于你是否重视安全而不是其他。",
+    "vi": null
+  },
+  "algorithm.nochatreports.aes_ecb_base64.name": {
+    "en": "AES/ECB+Base64R",
+    "zh": "AES/ECB+Base64R",
+    "vi": null
+  },
+  "algorithm.nochatreports.aes_ecb_base64": {
+    "en": "§lAES/ECB+Base64R§r\nConsiderably less secure than CFB mode, but saves you some bytes by not requiring the initialization vector. Still beats Caesar.",
+    "zh": "§lAES/ECB+Base64R§r\n与CFB模式相比，安全性大大降低，但不需要初始化向量，从而节省了一些字节。仍然比Caesar安全。",
+    "vi": null
+  },
+  "algorithm.nochatreports.caesar.name": {
+    "en": "Caesar",
+    "zh": "Caesar",
+    "vi": null
+  },
+  "algorithm.nochatreports.caesar": {
+    "en": "§lCaesar§r\nMeme cipher. With this you're basically hoping that people will give up without even trying to decrypt your messages. That might be true in many cases, so the viability of using it depends on your threat model.\nThe key should be an integer from 1 to 1024. The shift is done by character code instead of alphabetically to ensure compatibility with any language.",
+    "zh": "§lCaesar§r\n数字密码。有了这个，你基本上是希望人们会放弃，甚至不尝试解密你的消息。这在很多情况下可能是正确的，所以使用它的可行性取决于你的威胁模型。\nKey应该是从1到1024的整数。移位是按字符代码而不是按字母顺序进行的，以确保与任何语言兼容。",
+    "vi": null
+  },
+  "nochatreports.connect.nokey_rejected": {
+    "en": "The server rejected the connection without a chat signing key.",
+    "zh": "服务器拒绝没有聊天签名密钥的连接。",
+    "vi": null
+  },
+  "nochatreports.connect.await": {
+    "en": "Awaiting reconnection: %1$s seconds...",
+    "zh": "等待重连：%1$s秒……",
+    "vi": null
+  },
+  "gui.nochatreports.realms_warning.header": {
+    "en": "Caution: Realms",
+    "zh": "警告：Realms",
+    "vi": null
+  },
+  "gui.nochatreports.realms_warning.contents": {
+    "en": "Realms servers are not private. Realm owners cannot disable chat reporting and Mojang employs additional chat monitoring to identify potential \"online harms\" and escalate them to human review. If you are then found to violate Minecraft's Community Standards - even if the chat participants did not get offended - you will be banned, temporarily or permanently, from all multiplayer services. Usage of encryption is highly advised.",
+    "zh": "Realms服务器不是私有的。Realm所有者不能禁用聊天举报，Mojang应用额外的聊天监控来识别潜在的“在线危害”，并将其上报给人类审查。如果你被发现违反了Minecraft的社区标准-即使聊天参与者没有受到冒犯-你将被暂时或永久禁止使用所有多人游戏服务。强烈建议使用加密。",
+    "vi": null
+  },
+  "gui.nochatreports.realms_warning.check": {
+    "en": "Don't show again",
+    "zh": "不再提示",
+    "vi": null
+  },
+  "gui.nochatreports.realms_warning.learn_more": {
+    "en": "Learn More",
+    "zh": "了解更多",
+    "vi": null
+  },
+  "gui.nochatreports.signing_required.header": {
+    "en": "Caution: Chat Signing Requested",
+    "zh": "警告：聊天签名要求",
+    "vi": null
+  },
+  "gui.nochatreports.signing_required.contents": {
+    "en": "This server requires all chat messages to be signed, which means they can be reported to Mojang, which may result in a ban from all multiplayer servers. This likely means that the server owner kept \"enforce-secure-profile\" enabled in the server.properties, which is the default since 1.19.1.\n\nClick \"Allow Signing\" to enable message signing for this session. You can also use the safety status button in the chat screen to select the signing mode for this server.",
+    "zh": "该服务器要求所有聊天消息都必须签名，这意味着它们可以被举报给Mojang，这可能会导致被禁止多人游戏。这可能意味着服务器在server.properties中启用了“enforce-secure-profile”，这是自1.19.1以来的默认设置。单击“允许签名”以启用此会话的消息签名。你还可以使用聊天屏幕中的安全状态按钮来为此服务器选择签名模式。",
+    "vi": null
+  },
+  "gui.nochatreports.signing_required.allow_signing": {
+    "en": "Allow Signing",
+    "zh": "允许签名",
+    "vi": null
+  },
+  "gui.nochatreports.signing_required.cancel": {
+    "en": "Dismiss",
+    "zh": "取消",
+    "vi": null
+  },
+  "gui.nochatreports.signing_required.check": {
+    "en": "Don't show again during this session",
+    "zh": "在此会话期间不再显示",
+    "vi": null
+  },
+  "chat.nochatreports.disabled.signing_requested": {
+    "en": "The server refused to deliver an unsigned message. You can enable chat signing by changing your signing mode or through a prompt screen.",
+    "zh": "服务器拒绝传递未签名的消息。你可以通过更改签名模式或通过提示屏幕来启用聊天签名。",
+    "vi": null
+  },
+  "gui.nochatreports.signing_mode": {
+    "en": "§lSigning Mode: %1$s",
+    "zh": "§l签名模式：%1$s",
+    "vi": null
+  },
+  "gui.nochatreports.signing_mode.default": {
+    "en": "Default (%1$s)",
+    "zh": "默认（%1$s）",
+    "vi": null
+  },
+  "gui.nochatreports.signing_mode.always": {
+    "en": "Always",
+    "zh": "总是启用",
+    "vi": null
+  },
+  "gui.nochatreports.signing_mode.never": {
+    "en": "Never",
+    "zh": "绝不启用",
+    "vi": null
+  },
+  "gui.nochatreports.signing_mode.never_forced": {
+    "en": "Cannot Enable",
+    "zh": "无法启用",
+    "vi": null
+  },
+  "gui.nochatreports.signing_mode.prompt": {
+    "en": "Prompt",
+    "zh": "提示启用",
+    "vi": null
+  },
+  "gui.nochatreports.signing_mode.on_demand": {
+    "en": "On Demand",
+    "zh": "按需选择",
+    "vi": null
+  },
+  "gui.nochatreports.signing_mode.always.tooltip": {
+    "en": "This mode automatically enables message signing as soon as you enter the server, identically to how a vanilla client would.",
+    "zh": "这种模式将在你加入服务器时自动启用消息签名，与原版客户端的方式相同。",
+    "vi": null
+  },
+  "gui.nochatreports.signing_mode.never.tooltip": {
+    "en": "In this mode, messages are never signed and all server requests to sign them are ignored.",
+    "zh": "在这种模式下，消息永远不会被签名，任何服务器对它们的签名请求都会被忽略。",
+    "vi": null
+  },
+  "gui.nochatreports.signing_mode.never_forced.tooltip": {
+    "en": "This mode indicates that your messages cannot be signed at all, either because you are using an offline account or because the client failed to fetch your signing keys from Mojang's service.",
+    "zh": "此模式表示你的消息根本无法签名，因为你使用的是离线帐户或客户端无法从Mojang的服务中获取你的签名密钥。",
+    "vi": null
+  },
+  "gui.nochatreports.signing_mode.prompt.tooltip": {
+    "en": "In this mode, messages are not signed by default, but if the server demands signing, you will be shown a pop-up screen where you can enable signing for one session.",
+    "zh": "在这种模式下，消息默认不会被签名，但如果服务器要求签名-你将会看到一个弹出屏幕，你可以在那里启用一个会话的签名。",
+    "vi": null
+  },
+  "gui.nochatreports.signing_mode.on_demand.tooltip": {
+    "en": "Similar to prompt mode, but instead of showing a pop-up screen, signing will just be enabled automatically as soon as the server demands it.",
+    "zh": "与提示启用模式类似，但不显示弹出屏幕，如果服务器需要，签名将会自动启用。",
+    "vi": null
+  },
+  "configuration.NoChatReports.config": {
+    "en": "No Chat Reports",
+    "zh": "No Chat Reports",
+    "vi": null
+  },
+  "configuration.NoChatReports.category.client": {
+    "en": "Client",
+    "zh": "客户端",
+    "vi": null
+  },
+  "option.NoChatReports.enableMod": {
+    "en": "Enable mod",
+    "zh": "启用模组",
+    "vi": null
+  },
+  "option.NoChatReports.enableMod.tooltip": {
+    "en": "Responsible for enabling most of the mod's client-sided functionality. Will require re-joining the server to take effect if toggled mid-session.",
+    "zh": "负责启用模组的大部分客户端功能。如果在会话中途切换，则需要重新加入服务器才能生效。",
+    "vi": null
+  },
+  "option.NoChatReports.showNCRButton": {
+    "en": "Show NCR button",
+    "zh": "显示模组按钮",
+    "vi": null
+  },
+  "option.NoChatReports.showNCRButton.tooltip": {
+    "en": "Adds a button that toggles most of the mod's client-sided functionality to the multiplayer menu.",
+    "zh": "添加一个按钮，可以在多人游戏菜单中切换模组大部分客户端功能的启用状态。",
+    "vi": null
+  },
+  "option.NoChatReports.defaultSigningMode": {
+    "en": "Default signing mode",
+    "zh": "默认签名模式",
+    "vi": null
+  },
+  "option.NoChatReports.defaultSigningMode.tooltip": {
+    "en": "Sets the signing mode default for servers that force or allow chat signing.",
+    "zh": "为强制或允许聊天签名的服务器设置签名模式的默认值。",
+    "vi": null
+  },
+  "option.NoChatReports.showReloadButton": {
+    "en": "Show reload button",
+    "zh": "显示重新加载按钮",
+    "vi": null
+  },
+  "option.NoChatReports.showReloadButton.tooltip": {
+    "en": "Adds a button for config reloading to the multiplayer menu.",
+    "zh": "在多人游戏菜单中添加一个重新加载配置的按钮。",
+    "vi": null
+  },
+  "option.NoChatReports.verifiedIconEnabled": {
+    "en": "Verified icon enabled",
+    "zh": "启用验证图标",
+    "vi": null
+  },
+  "option.NoChatReports.verifiedIconEnabled.tooltip": {
+    "en": "Allows the mod to display special icon in the multiplayer menu for servers that have No Chat Reports or some other anti-chat-reporting measures installed.",
+    "zh": "允许模组在多人游戏菜单中为安装了No Chat Reports或采取了其他一些反聊天举报措施的服务器显示特殊图标。",
+    "vi": null
+  },
+  "option.NoChatReports.verifiedIconOffsetX": {
+    "en": "Verified icon X-offset",
+    "zh": "验证图标X轴偏移",
+    "vi": null
+  },
+  "option.NoChatReports.verifiedIconOffsetX.tooltip": {
+    "en": "Defines X-axis offset for rendering of \"Safe Server\" icon.",
+    "zh": "定义渲染“安全服务器”图标的X轴偏移。",
+    "vi": null
+  },
+  "option.NoChatReports.verifiedIconOffsetY": {
+    "en": "Verified icon Y-offset",
+    "zh": "验证图标Y轴偏移",
+    "vi": null
+  },
+  "option.NoChatReports.verifiedIconOffsetY.tooltip": {
+    "en": "Defines Y-axis offset for rendering of \"Safe Server\" icon.",
+    "zh": "定义渲染“安全服务器”图标的Y轴偏移。",
+    "vi": null
+  },
+  "gui.NoChatReports.showEncryptionButtonWarning": {
+    "en": "§cBelow does not disable encryption, it only hides the button!",
+    "zh": "§c下方选项不禁用加密，它只隐藏按钮！",
+    "vi": null
+  },
+  "option.NoChatReports.showEncryptionButton": {
+    "en": "Show encryption button",
+    "zh": "显示加密按钮",
+    "vi": null
+  },
+  "option.NoChatReports.showEncryptionButton.tooltip": {
+    "en": "Setting this to false will simply prevent the encryption button from being displayed in the chat screen. Be aware that encryption itself will not be automatically disabled along with the button.",
+    "zh": "将此设置为否只会阻止聊天屏幕中显示加密按钮。请注意，加密本身不会随按钮一起自动禁用。",
+    "vi": null
+  },
+  "option.NoChatReports.showEncryptionIndicators": {
+    "en": "Show encryption indicators",
+    "zh": "显示加密指示符",
+    "vi": null
+  },
+  "option.NoChatReports.showEncryptionIndicators.tooltip": {
+    "en": "Toggles the display of the encrypted message indicators in the form of a purple bar to the left and §5§l(§r§5ȯ§5§l)§r on hover to the right of the chat message.",
+    "zh": "切换加密消息指示符的显示，以紫色条的形式显示在聊天消息的左侧和§5§l(§r§5?§5§l)§r悬停显示在聊天消息的右侧。",
+    "vi": null
+  },
+  "option.NoChatReports.showServerSafety": {
+    "en": "Show server safety",
+    "zh": "显示服务器安全性",
+    "vi": null
+  },
+  "option.NoChatReports.showServerSafety.tooltip": {
+    "en": "Allows the client to display the server safety status in the bottom-right corner of the chat screen. The icon is hoverable for additional information.",
+    "zh": "允许客户端在聊天屏幕的右下角显示服务器安全状态。图标可悬停以获取更多信息。",
+    "vi": null
+  },
+  "option.NoChatReports.showServerSafety.moreInfo": {
+    "en": "§bClick here to read more about server safety levels",
+    "zh": "§b单击此处阅读有关服务器安全级别的更多信息",
+    "vi": null
+  },
+  "option.NoChatReports.hideInsecureMessageIndicators": {
+    "en": "Hide unverified message indicators",
+    "zh": "隐藏未验证的消息指示符",
+    "vi": null
+  },
+  "option.NoChatReports.hideInsecureMessageIndicators.tooltip": {
+    "en": "Prevents the client from displaying unverified message indicators in the form of a gray bar to the left of the chat message.",
+    "zh": "阻止客户端在聊天消息左侧以红色条的形式显示未验证的消息指示符。",
+    "vi": null
+  },
+  "option.NoChatReports.hideModifiedMessageIndicators": {
+    "en": "Hide modified message indicators",
+    "zh": "隐藏修改的消息指示符",
+    "vi": null
+  },
+  "option.NoChatReports.hideModifiedMessageIndicators.tooltip": {
+    "en": "Prevents the client from displaying modified message indicators in the form of a gray bar to the left and §7§l(§r§7?§7§l)§r on hover to the right of the chat message.",
+    "zh": "阻止客户端在聊天消息的左侧以黄色条的形式显示修改后的消息指示符，并在聊天消息右侧悬停时显示。",
+    "vi": null
+  },
+  "option.NoChatReports.hideSystemMessageIndicators": {
+    "en": "Hide system message indicators",
+    "zh": "隐藏系统消息指示符",
+    "vi": null
+  },
+  "option.NoChatReports.hideSystemMessageIndicators.tooltip": {
+    "en": "Prevents the client from displaying system message indicators in the form of a gray bar to the left of the chat message.",
+    "zh": "阻止客户端在聊天消息左侧以灰色条的形式显示系统消息指示符。",
+    "vi": null
+  },
+  "option.NoChatReports.hideWarningToast": {
+    "en": "Hide warning toast",
+    "zh": "隐藏警告弹窗",
+    "vi": null
+  },
+  "option.NoChatReports.hideWarningToast.tooltip": {
+    "en": "Removes a warning toast that is displayed when entering servers with disabled §oenforce-secure-profile§r.",
+    "zh": "删除在加入禁用§oenforce-sevure-profile§r的服务器时显示的警告提示。",
+    "vi": null
+  },
+  "option.NoChatReports.hideSigningRequestMessage": {
+    "en": "Hide signing request message",
+    "zh": "隐藏签名请求消息",
+    "vi": null
+  },
+  "option.NoChatReports.hideSigningRequestMessage.tooltip": {
+    "en": "Hides the chat message that is shown when the server requests the client to sign messages.",
+    "zh": "隐藏当服务器要求客户端签名消息时显示的聊天消息。",
+    "vi": null
+  },
+  "option.NoChatReports.alwaysHideReportButton": {
+    "en": "Always hide report button",
+    "zh": "总是隐藏举报按钮",
+    "vi": null
+  },
+  "option.NoChatReports.alwaysHideReportButton.tooltip": {
+    "en": "Prevents the client from ever showing the report button in the Social Interactions screen. This is disabled by default and the mod simply makes the button inactive on servers that have No Chat Reports installed, adding an explanation to the tooltip of the button.",
+    "zh": "防止客户端在社交屏幕中显示举报按钮。默认情况下禁用，模组只会在安装了No Chat Reports的服务器上使按钮无效，并在按钮的工具提示中添加说明。",
+    "vi": null
+  },
+  "option.NoChatReports.demandOnServer": {
+    "en": "Demand on server",
+    "zh": "要求服务器安装",
+    "vi": null
+  },
+  "option.NoChatReports.demandOnServer.tooltip": {
+    "en": "Prevents the client from joining servers that don't have No Chat Reports installed.",
+    "zh": "阻止客户端加入未安装No Chat Reports的服务器。",
+    "vi": null
+  },
+  "option.NoChatReports.enableDebugLog": {
+    "en": "Enable debug log",
+    "zh": "启用调试日志",
+    "vi": null
+  },
+  "option.NoChatReports.enableDebugLog.tooltip": {
+    "en": "Enables logging of certain debug information. This is generally useless for non-developers.",
+    "zh": "启用某些调试信息的日志记录。这对于非开发人员来说通常是无用的。",
+    "vi": null
+  },
+  "option.NoChatReports.disableTelemetry": {
+    "en": "Disable telemetry",
+    "zh": "禁用遥测",
+    "vi": null
+  },
+  "option.NoChatReports.disableTelemetry.tooltip": {
+    "en": "Allows the mod to disable built-in telemetry similar to how No Telemetry does.",
+    "zh": "允许模组禁用内置遥测，类似于No Telemetry。",
+    "vi": null
+  },
+  "configuration.NoChatReports.category.lan": {
+    "en": "LAN",
+    "zh": "局域网",
+    "vi": null
+  },
+  "option.NoChatReports.demandOnClient": {
+    "en": "Demand on client",
+    "zh": "要求在客户端上安装",
+    "vi": null
+  },
+  "option.NoChatReports.demandOnClient.tooltip": {
+    "en": "Makes the server require all joining clients to have No Chat Reports installed.",
+    "zh": "使服务器要求所有加入的客户端都安装No Chat Reports。",
+    "vi": null
+  },
+  "option.NoChatReports.demandOnClientMessage": {
+    "en": "Demand on client kick message",
+    "zh": "客户端踢出消息",
+    "vi": null
+  },
+  "option.NoChatReports.demandOnClientMessage.tooltip": {
+    "en": "The message that is displayed to a client if it tries to join the server without having No Chat Reports installed.",
+    "zh": "当客户端尝试加入未安装No Chat Reports的服务器时，显示在客户端的信息。",
+    "vi": null
+  },
+  "option.NoChatReports.convertToGameMessage": {
+    "en": "Convert to game message",
+    "zh": "转换为游戏消息",
+    "vi": null
+  },
+  "option.NoChatReports.convertToGameMessage.tooltip": {
+    "en": "Makes the server convert all player messages into system messages. System messages don't have any signatures attached and cannot be reported; on unmodified clients they will display with a gray bar to the left.",
+    "zh": "使服务器将所有玩家消息转换为系统消息。系统消息没有附加任何签名，无法举报；在未修改的客户端上，它们将在左侧显示灰色条。",
+    "vi": null
+  },
+  "option.NoChatReports.addQueryData": {
+    "en": "Add query data",
+    "zh": "添加查询数据",
+    "vi": null
+  },
+  "option.NoChatReports.addQueryData.tooltip": {
+    "en": "Allows the server to send additional data to the client when handling pings. This is used for displaying the \"Safe Server\" icon as well as some other technical purposes.",
+    "zh": "允许服务器在处理Ping时向客户端发送其他数据。这用于显示“安全服务器”图标以及其他一些技术用途。",
+    "vi": null
+  }
+}

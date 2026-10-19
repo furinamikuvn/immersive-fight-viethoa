@@ -1,0 +1,585 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "01058B21326828CD"
+	group: "4E6BE2D374D7AE03"
+	icon: "aquamirae:rune_of_the_storm"
+	id: "01058B21326828CD"
+	order_index: 3
+	quest_links: [ ]
+	quests: [
+		{
+			description: [
+				"Khám phá quần xã &b [Biển sâu đông lạnh] &r quần xã,"
+				"Bị Reaver rơi ra trong cabin thuyền trưởng của con tàu mắc cạn"
+				""
+				"Thổi vào mép nước trong quần xã Frozen Deep"
+				"Triệu hồi trùm xác sống Thuyền trưởng Cornelia."
+			]
+			entity_vis_size: 1.0f
+			id: "64136C1DA1F71BC1"
+			rewards: [
+				{
+					id: "580C2DC572F5615E"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+				{
+					count: 18
+					id: "3776E24FF07F717F"
+					item: "minecraft:amethyst_shard"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "1F6CE770C5435846"
+				item: "aquamirae:shell_horn"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["3CF2B5CF8416DB05"]
+			entity_vis_size: 1.0f
+			id: "662B02AFCB061700"
+			rewards: [{
+				exclude_from_claim_all: true
+				icon: {
+					Count: 1
+					id: "modifiers:modifier_book"
+					tag: {
+						bookModifier: "modifiers:quick"
+					}
+				}
+				id: "7E0F55AB0A50BE10"
+				table_id: 840663340100755059L
+				type: "choice"
+			}]
+			shape: "square"
+			tasks: [
+				{
+					id: "54AD34F2B8CE016E"
+					item: {
+						Count: 1
+						id: "aquamirae:abyssal_heaume"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5AA9E0159CDCDA5E"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "aquamirae:abyssal_brigandine"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5D3304BF7C424E2A"
+					item: {
+						Count: 1
+						id: "aquamirae:abyssal_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "05B028B112088CAA"
+					item: {
+						Count: 1
+						id: "aquamirae:abyssal_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: 4.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["5CCA6F28BC2AB58C"]
+			entity_vis_size: 1.0f
+			id: "18912BB810BF1784"
+			rewards: [{
+				exclude_from_claim_all: true
+				icon: {
+					Count: 1
+					id: "modifiers:modifier_book"
+					tag: {
+						bookModifier: "modifiers:quick"
+					}
+				}
+				id: "16C471C31B373C9B"
+				table_id: 840663340100755059L
+				type: "choice"
+			}]
+			shape: "square"
+			tasks: [
+				{
+					id: "3B3EE87518DCA38E"
+					item: {
+						Count: 1
+						id: "aquamirae:terrible_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "6E1ABD3A7C853C5A"
+					item: {
+						Count: 1
+						id: "aquamirae:terrible_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "720EE33E121498FF"
+					item: {
+						Count: 1
+						id: "aquamirae:terrible_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "2A08843D43864CF3"
+					item: {
+						Count: 1
+						id: "aquamirae:terrible_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: 4.5d
+			y: -0.5d
+		}
+		{
+			description: ["Bạn có thể lấy nó bằng cách giết &a, mẹ của mê cung &r."]
+			entity_vis_size: 1.0f
+			id: "6922092C12A2BDE4"
+			tasks: [{
+				id: "1A7BBB4D824389E5"
+				item: "aquamirae:abyssal_amethyst"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 0.5d
+		}
+		{
+			description: [
+				"Ở giai đoạn thứ hai, thuyền trưởng triệu hồi một con quái vật biển khổng lồ—&b Shipbreaker &r"
+				""
+				"&b Shipbreaker&r&e rơi ra sau khi nuốt và giết sinh vật &r của Mod này"
+				""
+				"Tìm kiếm các vật phẩm rơi dọc theo tuyến đường của Shipbreaker"
+			]
+			entity_vis_size: 1.0f
+			id: "3C4CC2A22C76DD02"
+			tasks: [{
+				id: "101BF0C4610C3072"
+				item: "aquamirae:ship_graveyard_echo"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 1.5d
+		}
+		{
+			description: ["Cá câu &a&r bị rơi"]
+			disable_toast: true
+			entity_vis_size: 1.0f
+			id: "3BADF803652F9CF5"
+			tasks: [{
+				id: "3C56CF049E96F248"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "aquamirae:angler_fang"
+				}
+				type: "item"
+			}]
+			x: 0.5d
+			y: -1.0d
+		}
+		{
+			description: ["&a cá miệng lớn &r và &a cá câu cá &r có thể thả được"]
+			disable_toast: true
+			entity_vis_size: 1.0f
+			id: "2F16EFC747D2D781"
+			tasks: [{
+				id: "4DD0DDD062A38E2B"
+				item: "aquamirae:fin"
+				type: "item"
+			}]
+			x: 0.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["64136C1DA1F71BC1"]
+			description: [
+				"Có thể dùng để mở rương đông lạnh."
+				"Rơi ra khi đánh bại Captain BOSS."
+			]
+			entity_vis_size: 1.0f
+			id: "7ECA35C8F52354BE"
+			rewards: [{
+				count: 32
+				id: "488C9F3184AF48BE"
+				item: "minecraft:amethyst_shard"
+				type: "item"
+			}]
+			shape: "diamond"
+			size: 1.5d
+			tasks: [
+				{
+					id: "740AD61EFA9E2659"
+					item: "aquamirae:frozen_key"
+					type: "item"
+				}
+				{
+					entity: "aquamirae:captain_cornelia"
+					entity_use_tag: false
+					entity_vis_idle_mode: "USE_GLOBAL"
+					entity_vis_offset_x: 0.0f
+					entity_vis_offset_y: 0.0f
+					entity_vis_rotation: 0.0f
+					entity_vis_silhouette_mode: "NONE"
+					entity_vis_size: 1.0f
+					entity_vis_spin_mode: "USE_GLOBAL"
+					entity_vis_use_as_quest_icon: false
+					entity_vis_walk_mode: "USE_GLOBAL"
+					icon: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "aquamirae:tidepiercer"
+						tag: {
+							Damage: 0
+						}
+					}
+					id: "100038B98532F2DC"
+					type: "kill"
+					value: 1L
+				}
+			]
+			x: 2.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["7ECA35C8F52354BE"]
+			description: [
+				"Tìm &b[Nơi trú ẩn] &r ẩn sâu dưới lớp băng,"
+				"Có một rương kho báu đông lạnh bên trong."
+				"Nhưng có một con lươn khổng lồ đang canh giữ nó và bạn cần phải đánh bại nó."
+				""
+				"Có một mỏ lớn trên băng, đó là lối vào nơi trú ẩn."
+			]
+			entity_vis_size: 1.0f
+			icon: "aquamirae:frozen_chest"
+			id: "16FCCC5BDF6045E1"
+			rewards: [{
+				count: 2
+				id: "73A4ECC2F05877FC"
+				item: "minecraft:diamond_block"
+				type: "item"
+			}]
+			shape: "diamond"
+			size: 1.5d
+			tasks: [{
+				entity: "aquamirae:eel"
+				entity_use_tag: false
+				entity_vis_idle_mode: "USE_GLOBAL"
+				entity_vis_offset_x: 0.0f
+				entity_vis_offset_y: 0.0f
+				entity_vis_rotation: 0.0f
+				entity_vis_silhouette_mode: "NONE"
+				entity_vis_size: 1.0f
+				entity_vis_spin_mode: "USE_GLOBAL"
+				entity_vis_use_as_quest_icon: false
+				entity_vis_walk_mode: "USE_GLOBAL"
+				icon: "aquamirae:frozen_chest"
+				id: "3D8BB113CD899791"
+				type: "kill"
+				value: 1L
+			}]
+			x: 4.0d
+			y: 3.0d
+		}
+		{
+			entity_vis_size: 1.0f
+			id: "3D64E3DB68EE80E3"
+			shape: "square"
+			tasks: [{
+				id: "6773DF57C635F50D"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "aquamirae:shatterblade"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 6.0d
+			y: -0.5d
+		}
+		{
+			entity_vis_size: 1.0f
+			id: "29F2885E0CE4BC28"
+			shape: "square"
+			tasks: [{
+				id: "74C8369B72457862"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "aquamirae:terrible_fang"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 7.0d
+			y: -0.5d
+		}
+		{
+			entity_vis_size: 1.0f
+			id: "4DC6FA555BB4F623"
+			shape: "square"
+			tasks: [{
+				id: "5C3F5137510CC15C"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "aquamirae:shatterspike"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 8.0d
+			y: -0.5d
+		}
+		{
+			description: [""]
+			entity_vis_size: 1.0f
+			id: "0994444B61CDE66E"
+			shape: "square"
+			tasks: [{
+				id: "7C098225276E5221"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "aquamirae:tidepiercer"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 6.0d
+			y: 1.5d
+		}
+		{
+			entity_vis_size: 1.0f
+			id: "06053670C6A784BD"
+			shape: "square"
+			tasks: [{
+				id: "20F8BA2FFAC03FD5"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "aquamirae:terrible_blade"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 8.0d
+			y: 0.5d
+		}
+		{
+			entity_vis_size: 1.0f
+			id: "1251B8D8703B869E"
+			shape: "square"
+			tasks: [{
+				id: "1D0D6D717C64AC53"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "aquamirae:terrible_cleaver"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 6.0d
+			y: 0.5d
+		}
+		{
+			entity_vis_size: 1.0f
+			id: "70CA8FFAD55B49C9"
+			shape: "square"
+			tasks: [{
+				id: "4CD018CE1FC5B9AC"
+				item: {
+					Count: 1
+					id: "aquamirae:dagger_of_greed"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 7.0d
+			y: 0.5d
+		}
+		{
+			entity_vis_size: 1.0f
+			id: "4C708C6E53DBCB7F"
+			shape: "square"
+			tasks: [{
+				id: "7FB23E6B0601937D"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "aquamirae:terrible_chakram"
+				}
+				type: "item"
+			}]
+			x: 7.0d
+			y: 1.5d
+		}
+		{
+			entity_vis_size: 1.0f
+			id: "113CC13E37E7AB1E"
+			shape: "square"
+			tasks: [{
+				id: "14AF75DAB2427811"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "aquamirae:maze_rose"
+				}
+				type: "item"
+			}]
+			x: 8.0d
+			y: 1.5d
+		}
+		{
+			dependencies: [
+				"2F16EFC747D2D781"
+				"3BADF803652F9CF5"
+			]
+			entity_vis_size: 1.0f
+			id: "5CCA6F28BC2AB58C"
+			tasks: [{
+				id: "20E60C304B44AB17"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "aquamirae:terrible_upgrade_smithing_template"
+				}
+				type: "item"
+			}]
+			x: 2.5d
+			y: -0.5d
+		}
+		{
+			dependencies: [
+				"6922092C12A2BDE4"
+				"3C4CC2A22C76DD02"
+				"5CCA6F28BC2AB58C"
+			]
+			entity_vis_size: 1.0f
+			id: "3CF2B5CF8416DB05"
+			tasks: [{
+				id: "6C5BAF49BAC3AD5D"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "aquamirae:abyssal_upgrade_smithing_template"
+				}
+				type: "item"
+			}]
+			x: 3.5d
+			y: 0.5d
+		}
+	]
+	title: "Câu chuyện thần biển"
+}

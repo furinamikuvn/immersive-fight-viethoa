@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " # ",
+    "PC ",
+    " # "
+  ],
+  "key": {
+    "#": {"item": "minecraft:copper_ingot"},
+    "P": {"item": "netherexp:shotgun_core"},
+    "C": {"item": "minecraft:bow"}
+  },
+  "result": {
+    "item": "too_many_bows:scatter_bow"
+  }
+}

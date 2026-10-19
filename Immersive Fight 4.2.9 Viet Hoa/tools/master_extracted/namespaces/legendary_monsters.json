@@ -1,0 +1,2447 @@
+{
+  "item.legendary_monsters.dinosaur_bone": {
+    "en": "Dinosaur Bone",
+    "zh": "恐龙骨头",
+    "vi": "Dinosaur Bone"
+  },
+  "item.legendary_monsters.ambushers_skin": {
+    "en": "Ambusher's Skin",
+    "zh": "暗伏者皮",
+    "vi": "Ambusher's Skin"
+  },
+  "item.legendary_monsters.sharp_battle_axe": {
+    "en": "Sharp Battle Axe",
+    "zh": "锋锐悍斧",
+    "vi": "Sharp Battle Axe"
+  },
+  "item.legendary_monsters.anchor_handle": {
+    "en": "Anchor Handle",
+    "zh": "锚把手",
+    "vi": "Anchor Handle"
+  },
+  "item.legendary_monsters.reinforced_monstrous_anchor": {
+    "en": "Reinforced Monstrous Anchor",
+    "zh": "强固怪怖之锚",
+    "vi": "Reinforced Monstrous Anchor"
+  },
+  "item.legendary_monsters.ancient_spike": {
+    "en": "Ancient Spike",
+    "zh": "荒古尖刺",
+    "vi": "Ancient Spike"
+  },
+  "item.legendary_monsters.shulker_mimic_spawn_egg": {
+    "en": "Shulker Mimic Spawn Egg",
+    "zh": "潜影拟态者刷怪蛋",
+    "vi": "Shulker Mimic Spawn Egg"
+  },
+  "item.legendary_monsters.ancient_guardian_spawn_egg": {
+    "en": "Ancient Guardian Spawn Egg",
+    "zh": "荒古守卫者刷怪蛋",
+    "vi": "Ancient Guardian Spawn Egg"
+  },
+  "item.legendary_monsters.posessed_paladin_spawn_egg": {
+    "en": "Possessed Paladin Spawn Egg",
+    "zh": "堕落圣骑刷怪蛋",
+    "vi": "Possessed Paladin Spawn Egg"
+  },
+  "item.legendary_monsters.beheaded_knight_spawn_egg": {
+    "en": "Beheaded Knight Spawn Egg",
+    "zh": "无头骑士刷怪蛋",
+    "vi": "Beheaded Knight Spawn Egg"
+  },
+  "item.legendary_monsters.resurrected_knight_spawn_egg": {
+    "en": "Resurrected Knight Spawn Egg",
+    "zh": "复生骑士刷怪蛋",
+    "vi": "Resurrected Knight Spawn Egg"
+  },
+  "item.legendary_monsters.monstrous_anchor": {
+    "en": "Monstrous Anchor",
+    "zh": "怪怖之锚",
+    "vi": "Monstrous Anchor"
+  },
+  "item.legendary_monsters.spiky_shield": {
+    "en": "Spiky Shield",
+    "zh": "尖刺之盾",
+    "vi": "Spiky Shield"
+  },
+  "item.legendary_monsters.withered_ribcage": {
+    "en": "Withered Ribcage",
+    "zh": "凋零胸腔",
+    "vi": "Withered Ribcage"
+  },
+  "item.legendary_monsters.chorus_blade": {
+    "en": "Chorus Blade",
+    "zh": "紫颂之刃",
+    "vi": "Chorus Blade"
+  },
+  "item.legendary_monsters.chorus_mask": {
+    "en": "Chorus Mask",
+    "zh": "紫颂面具",
+    "vi": "Chorus Mask"
+  },
+  "item.legendary_monsters.chorus_crystal": {
+    "en": "Chorus Crystal",
+    "zh": "紫颂水晶",
+    "vi": "Chorus Crystal"
+  },
+  "item.legendary_monsters.chorus_cannon": {
+    "en": "Chorus Cannon",
+    "zh": "紫颂加农",
+    "vi": "Chorus Cannon"
+  },
+  "item.legendary_monsters.infected_chorus_fruit": {
+    "en": "Infected Chorus Fruit",
+    "zh": "侵染紫颂果",
+    "vi": "Infected Chorus Fruit"
+  },
+  "item.legendary_monsters.chorus_bomb_projectile": {
+    "en": "Chorus Bomb",
+    "zh": "紫颂炸弹",
+    "vi": "Chorus Bomb"
+  },
+  "item.legendary_monsters.large_shulker_shell": {
+    "en": "Large Shulker Shell",
+    "zh": "大型潜影壳",
+    "vi": "Large Shulker Shell"
+  },
+  "item.legendary_monsters.shulker_shield": {
+    "en": "Shulker Shield",
+    "zh": "潜影之盾",
+    "vi": "Shulker Shield"
+  },
+  "item.legendary_monsters.shulker_helmet": {
+    "en": "Shulker Helmet",
+    "zh": "潜影贝胄",
+    "vi": "Shulker Helmet"
+  },
+  "item.legendary_monsters.the_great_frost": {
+    "en": "The Great Frost",
+    "zh": "巨寒之霜",
+    "vi": "The Great Frost"
+  },
+  "item.legendary_monsters.dinosaur_bone_shield": {
+    "en": "Dinosaur Bone Shield",
+    "zh": "恐龙骨盾",
+    "vi": "Dinosaur Bone Shield"
+  },
+  "item.legendary_monsters.frozen_rune": {
+    "en": "Frozen Rune",
+    "zh": "冰冻符文",
+    "vi": "Frozen Rune"
+  },
+  "item.legendary_monsters.frostbitten_shield": {
+    "en": "Frostbitten Shield",
+    "zh": "霜冻之盾",
+    "vi": "Frostbitten Shield"
+  },
+  "item.legendary_monsters.mossy_chestplate": {
+    "en": "Mossy Chestplate",
+    "zh": "覆藓胸甲",
+    "vi": "Mossy Chestplate"
+  },
+  "item.legendary_monsters.lava_eaters_skin": {
+    "en": "Lava Eater's Skin",
+    "zh": "噬焰蜥皮",
+    "vi": "Lava Eater's Skin"
+  },
+  "item.legendary_monsters.fiery_jaw": {
+    "en": "Fiery Jaw",
+    "zh": "炽火之颚",
+    "vi": "Fiery Jaw"
+  },
+  "item.legendary_monsters.void_sword": {
+    "en": "Void Sword",
+    "zh": "虚空之剑",
+    "vi": "Void Sword"
+  },
+  "item.legendary_monsters.dinosaur_bone_meal": {
+    "en": "Dinosaur Bone Meal",
+    "zh": "恐龙骨粉",
+    "vi": "Dinosaur Bone Meal"
+  },
+  "item.legendary_monsters.entity_warper": {
+    "en": "Entity Warper",
+    "zh": "实体扭曲者",
+    "vi": "Entity Warper"
+  },
+  "item.legendary_monsters.nature_crystal": {
+    "en": "Nature Crystal",
+    "zh": "自然水晶",
+    "vi": "Nature Crystal"
+  },
+  "item.legendary_monsters.warped_mushroom_cap_part": {
+    "en": "Warped Mushroom Cap Part",
+    "zh": "诡异蘑菇伞碎片",
+    "vi": "Warped Mushroom Cap Part"
+  },
+  "item.legendary_monsters.void_gem": {
+    "en": "Void Gem",
+    "zh": "虚空宝石",
+    "vi": "Void Gem"
+  },
+  "item.legendary_monsters.withered_bone": {
+    "en": "Withered Bone",
+    "zh": "凋零骨头",
+    "vi": "Withered Bone"
+  },
+  "item.legendary_monsters.void_entity_warper": {
+    "en": "Void Entity Warper",
+    "zh": "虚实扭曲者",
+    "vi": "Void Entity Warper"
+  },
+  "item.legendary_monsters.mossy_hammer": {
+    "en": "Mossy Hammer",
+    "zh": "覆藓磐锤",
+    "vi": "Mossy Hammer"
+  },
+  "item.legendary_monsters.overgrown_colossus_spawn_egg": {
+    "en": "Overgrown Colossus Spawn Egg",
+    "zh": "蔓生巨像刷怪蛋",
+    "vi": "Overgrown Colossus Spawn Egg"
+  },
+  "item.legendary_monsters.mossy_golem_spawn_egg": {
+    "en": "Mossy Golem Spawn Egg",
+    "zh": "覆藓傀儡刷怪蛋",
+    "vi": "Mossy Golem Spawn Egg"
+  },
+  "item.legendary_monsters.the_obliterator_spawn_egg": {
+    "en": "The Obliterator Spawn Egg",
+    "zh": "湮灭构造体刷怪蛋",
+    "vi": "The Obliterator Spawn Egg"
+  },
+  "item.legendary_monsters.flameborn_guard_spawn_egg": {
+    "en": "Flameborn Guard Spawn Egg",
+    "zh": "淬焰守卫刷怪蛋",
+    "vi": "Flameborn Guard Spawn Egg"
+  },
+  "item.legendary_monsters.flame_drifter_spawn_egg": {
+    "en": "Flame Drifter Spawn Egg",
+    "zh": "流焰重炮刷怪蛋",
+    "vi": "Flame Drifter Spawn Egg"
+  },
+  "item.legendary_monsters.annihilation_pursuer_spawn_egg": {
+    "en": "Annihilation Pursuer Spawn Egg",
+    "zh": "湮灭猎影刷怪蛋",
+    "vi": "Annihilation Pursuer Spawn Egg"
+  },
+  "item.legendary_monsters.hovering_hurricane_spawn_egg": {
+    "en": "Hovering Hurricane Spawn Egg",
+    "zh": "飓旋刷怪蛋",
+    "vi": "Hovering Hurricane Spawn Egg"
+  },
+  "item.legendary_monsters.stratling_spawn_egg": {
+    "en": "Stratling Spawn Egg",
+    "zh": "惊灵刷怪蛋",
+    "vi": "Stratling Spawn Egg"
+  },
+  "item.legendary_monsters.spike_bug_spawn_egg": {
+    "en": "Spiky Worm Spawn Egg",
+    "zh": "尖刺蠕虫刷怪蛋",
+    "vi": "Spiky Worm Spawn Egg"
+  },
+  "item.legendary_monsters.ambusher_spawn_egg": {
+    "en": "Ambusher Spawn Egg",
+    "zh": "暗伏者刷怪蛋",
+    "vi": "Ambusher Spawn Egg"
+  },
+  "item.legendary_monsters.skeletosaurus_spawn_egg": {
+    "en": "Skeletosaurus Spawn Egg",
+    "zh": "骸骨巨龙刷怪蛋",
+    "vi": "Skeletosaurus Spawn Egg"
+  },
+  "item.legendary_monsters.warped_fungussus_spawn_egg": {
+    "en": "Warped Fungussus Spawn Egg",
+    "zh": "诡疑君刷怪蛋",
+    "vi": "Warped Fungussus Spawn Egg"
+  },
+  "item.legendary_monsters.chorusling_spawn_egg": {
+    "en": "Chorusling Spawn Egg",
+    "zh": "紫颂灵刷怪蛋",
+    "vi": "Chorusling Spawn Egg"
+  },
+  "item.legendary_monsters.lava_eater_spawn_egg": {
+    "en": "Lava Eater Spawn Egg",
+    "zh": "噬焰蜥刷怪蛋",
+    "vi": "Lava Eater Spawn Egg"
+  },
+  "item.legendary_monsters.endersent_spawn_egg": {
+    "en": "Chorusent Spawn Egg",
+    "zh": "紫颂遣使刷怪蛋",
+    "vi": "Chorusent Spawn Egg"
+  },
+  "item.legendary_monsters.frostbitten_golem_spawn_egg": {
+    "en": "Frostbitten Golem Spawn Egg",
+    "zh": "霜冻傀儡刷怪蛋",
+    "vi": "Frostbitten Golem Spawn Egg"
+  },
+  "item.legendary_monsters.withered_abomination_spawn_egg": {
+    "en": "Withered Abomination Spawn Egg",
+    "zh": "凋零恶煞刷怪蛋",
+    "vi": "Withered Abomination Spawn Egg"
+  },
+  "item.legendary_monsters.dune_sentinel_spawn_egg": {
+    "en": "Dune Sentinel Spawn Egg",
+    "zh": "沙丘哨兵刷怪蛋",
+    "vi": "Dune Sentinel Spawn Egg"
+  },
+  "item.legendary_monsters.cloud_golem_spawn_egg": {
+    "en": "Cumulonimbus, The Cloud Golem Spawn Egg",
+    "zh": "云筑魔像刷怪蛋",
+    "vi": "Cumulonimbus, The Cloud Golem Spawn Egg"
+  },
+  "item.legendary_monsters.haunted_knight_spawn_egg": {
+    "en": "Haunted Knight Spawn Egg",
+    "zh": "缠魂骑士刷怪蛋",
+    "vi": "Haunted Knight Spawn Egg"
+  },
+  "item.legendary_monsters.haunted_guard_spawn_egg": {
+    "en": "Haunted Guard Spawn Egg",
+    "zh": "缠魂守卫刷怪蛋",
+    "vi": "Haunted Guard Spawn Egg"
+  },
+  "item.legendary_monsters.bomber_spawn_egg": {
+    "en": "Bomber Spawn Egg",
+    "zh": "崩魔苦力怕刷怪蛋",
+    "vi": "Bomber Spawn Egg"
+  },
+  "item.legendary_monsters.fatal_mortar": {
+    "en": "Fatal Mortar Spawn Egg",
+    "zh": "致命迫击炮刷怪蛋",
+    "vi": "Fatal Mortar Spawn Egg"
+  },
+  "item.legendary_monsters.ender_hammer": {
+    "en": "Ender Hammer",
+    "zh": "末影钣锤",
+    "vi": "Ender Hammer"
+  },
+  "item.legendary_monsters.withered_scythe": {
+    "en": "Withered Scythe",
+    "zh": "凋零之镰",
+    "vi": "Withered Scythe"
+  },
+  "item.legendary_monsters.dinosaur_bone_club": {
+    "en": "Dinosaur Bone Club",
+    "zh": "恐龙骨槌",
+    "vi": "Dinosaur Bone Club"
+  },
+  "item.legendary_monsters.air_rune": {
+    "en": "Air Rune",
+    "zh": "大气符文",
+    "vi": "Air Rune"
+  },
+  "item.legendary_monsters.wand_of_clouds": {
+    "en": "Wand Of Clouds",
+    "zh": "层云叠杖",
+    "vi": "Wand Of Clouds"
+  },
+  "item.legendary_monsters.sharp_sai": {
+    "en": "Sharp Sai",
+    "zh": "锋锐之钗",
+    "vi": "Sharp Sai"
+  },
+  "item.legendary_monsters.axe_of_lightning": {
+    "en": "Axe Of Lightning",
+    "zh": "雷霆之钺",
+    "vi": "Axe Of Lightning"
+  },
+  "item.legendary_monsters.molten_metal_ingot": {
+    "en": "Molten Metal Ingot",
+    "zh": "熔融金属锭",
+    "vi": "Molten Metal Ingot"
+  },
+  "item.legendary_monsters.atmospheric_boots": {
+    "en": "Atmospheric Boots",
+    "zh": "大气之靴",
+    "vi": "Atmospheric Boots"
+  },
+  "item.legendary_monsters.soul_great_sword": {
+    "en": "Soul Great Sword",
+    "zh": "灵魂巨剑",
+    "vi": "Soul Great Sword"
+  },
+  "item.legendary_monsters.spiky_spear": {
+    "en": "Spiky Spear",
+    "zh": "尖刺之矛",
+    "vi": "Spiky Spear"
+  },
+  "item.legendary_monsters.golden_halbert": {
+    "en": "Golden Halberd",
+    "zh": "金锻斧枪",
+    "vi": "Golden Halberd"
+  },
+  "item.legendary_monsters.knights_sword": {
+    "en": "Knight's Sword",
+    "zh": "骑士长铗",
+    "vi": "Knight's Sword"
+  },
+  "item.legendary_monsters.corrupted_soul": {
+    "en": "Corrupted Soul",
+    "zh": "堕落之魂",
+    "vi": "Corrupted Soul"
+  },
+  "item.legendary_monsters.purified_soul": {
+    "en": "Purified Soul",
+    "zh": "净化之魂",
+    "vi": "Purified Soul"
+  },
+  "item.legendary_monsters.knight_summoner": {
+    "en": "Knight Summoner",
+    "zh": "骑士召令",
+    "vi": "Knight Summoner"
+  },
+  "item.legendary_monsters.guard_summoner": {
+    "en": "Guard Summoner",
+    "zh": "守卫召令",
+    "vi": "Guard Summoner"
+  },
+  "item.legendary_monsters.deactivated_knight_summoner": {
+    "en": "Deactivated Knight Summoner",
+    "zh": "黯淡的骑士召令",
+    "vi": "Deactivated Knight Summoner"
+  },
+  "item.legendary_monsters.deactivated_guard_summoner": {
+    "en": "Deactivated Guard Summoner",
+    "zh": "黯淡的守卫召令",
+    "vi": "Deactivated Guard Summoner"
+  },
+  "item.legendary_monsters.knights_sword_blade_half": {
+    "en": "Knight's Sword Blade Half",
+    "zh": "骑士长铗碎刃",
+    "vi": "Knight's Sword Blade Half"
+  },
+  "item.legendary_monsters.long_stick_half": {
+    "en": "Long Stick Half",
+    "zh": "长碎柄",
+    "vi": "Long Stick Half"
+  },
+  "item.legendary_monsters.primal_ice_shard": {
+    "en": "Primal Ice Shard",
+    "zh": "始冰碎片",
+    "vi": "Primal Ice Shard"
+  },
+  "item.legendary_monsters.withered_horn": {
+    "en": "Withered Horn",
+    "zh": "凋零犄角",
+    "vi": "Withered Horn"
+  },
+  "item.legendary_monsters.guide_book": {
+    "en": "Guide Book",
+    "zh": "指南书",
+    "vi": "Guide Book"
+  },
+  "item.legendary_monsters.skeloraptor_spawn_egg": {
+    "en": "Skeloraptor Spawn Egg",
+    "zh": "骸骨幼龙刷怪蛋",
+    "vi": "Skeloraptor Spawn Egg"
+  },
+  "item.legendary_monsters.fatal_mortar_spawn_egg": {
+    "en": "Fatal Mortar Spawn Egg",
+    "zh": "致命迫击炮刷怪蛋",
+    "vi": "Fatal Mortar Spawn Egg"
+  },
+  "item.legendary_monsters.chiseled_ancient_dripstone_shard": {
+    "en": "Chiseled Ancient Dripstone Shard",
+    "zh": "雕纹荒古滴水石碎片",
+    "vi": "Chiseled Ancient Dripstone Shard"
+  },
+  "item.legendary_monsters.sand_cannon": {
+    "en": "Sand Cannon",
+    "zh": "沙地加农",
+    "vi": "Sand Cannon"
+  },
+  "item.legendary_monsters.blastproof_metal_scrap": {
+    "en": "Blastproof Metal Scrap",
+    "zh": "抗爆金属废料",
+    "vi": "Blastproof Metal Scrap"
+  },
+  "item.legendary_monsters.blastproof_helmet": {
+    "en": "Blastproof Helmet",
+    "zh": "抗爆头盔",
+    "vi": "Blastproof Helmet"
+  },
+  "item.legendary_monsters.ancient_sandstone_shard": {
+    "en": "Ancient Sandstone Shard",
+    "zh": "古代砂岩碎片",
+    "vi": "Ancient Sandstone Shard"
+  },
+  "item.legendary_monsters.ancient_detonator": {
+    "en": "Ancient Detonator",
+    "zh": "古代雷管",
+    "vi": "Ancient Detonator"
+  },
+  "item.legendary_monsters.crystal_of_sandstorm": {
+    "en": "Crystal Of Sandstorm",
+    "zh": "沙暴水晶",
+    "vi": "Crystal Of Sandstorm"
+  },
+  "item.legendary_monsters.explosive_sand": {
+    "en": "Explosive Sand",
+    "zh": "爆砂",
+    "vi": "Explosive Sand"
+  },
+  "item.legendary_monsters.sickle_of_harvest": {
+    "en": "Sickle Of Harvest",
+    "zh": "丰收之镰",
+    "vi": "Sickle Of Harvest"
+  },
+  "item.legendary_monsters.heart_of_tornado": {
+    "en": "Heart Of Tornado",
+    "zh": "龙卷之心",
+    "vi": "Heart Of Tornado"
+  },
+  "item.legendary_monsters.cloud_rod": {
+    "en": "Cloud Rod",
+    "zh": "浮云棒",
+    "vi": "Cloud Rod"
+  },
+  "item.legendary_monsters.music_disc_advance": {
+    "en": "Music Disc",
+    "zh": "音乐唱片",
+    "vi": "Music Disc"
+  },
+  "item.legendary_monsters.music_disc_obliterator": {
+    "en": "Music Disc",
+    "zh": "音乐唱片",
+    "vi": "Music Disc"
+  },
+  "item.legendary_monsters.music_disc_possessed_paladin": {
+    "en": "Music Disc",
+    "zh": "音乐唱片",
+    "vi": "Music Disc"
+  },
+  "item.legendary_monsters.music_disc_obliterator.desc": {
+    "en": "Ubjuara0 - Obliterator",
+    "zh": "Ubjuara0 - Obliterator",
+    "vi": "Ubjuara0 - Obliterator"
+  },
+  "item.legendary_monsters.music_disc_possessed_paladin.desc": {
+    "en": "Makai Symphony - Collapsing Kingdom",
+    "zh": "Makai Symphony - Collapsing Kingdom",
+    "vi": "Makai Symphony - Collapsing Kingdom"
+  },
+  "item.legendary_monsters.music_disc_advance.desc": {
+    "en": "Light Canvas - Advance",
+    "zh": "Light Canvas - Advance",
+    "vi": "Light Canvas - Advance"
+  },
+  "item.legendary_monsters.crystal_of_air": {
+    "en": "Crystal Of Air",
+    "zh": "大气水晶",
+    "vi": "Crystal Of Air"
+  },
+  "item.legendary_monsters.fiery_boots": {
+    "en": "Fiery Boots",
+    "zh": "炽火之靴",
+    "vi": "Fiery Boots"
+  },
+  "item.legendary_monsters.eye_of_sandstorm": {
+    "en": "Eye Of Sandstorm",
+    "zh": "沙暴之眼",
+    "vi": "Eye Of Sandstorm"
+  },
+  "item.legendary_monsters.eye_of_many_ribs": {
+    "en": "Eye Of Many Ribs",
+    "zh": "阜骨之眼",
+    "vi": "Eye Of Many Ribs"
+  },
+  "item.legendary_monsters.eye_of_frost": {
+    "en": "Eye Of Frost",
+    "zh": "冰冻之眼",
+    "vi": "Eye Of Frost"
+  },
+  "item.legendary_monsters.eye_of_soul": {
+    "en": "Eye Of Soul",
+    "zh": "灵魂之眼",
+    "vi": "Eye Of Soul"
+  },
+  "item.legendary_monsters.eye_of_air": {
+    "en": "Eye Of Air",
+    "zh": "大气之眼",
+    "vi": "Eye Of Air"
+  },
+  "item.legendary_monsters.eye_of_moss": {
+    "en": "Eye Of Moss",
+    "zh": "苔藓之眼",
+    "vi": "Eye Of Moss"
+  },
+  "item.legendary_monsters.eye_of_chorus": {
+    "en": "Eye Of Chorus",
+    "zh": "紫颂之眼",
+    "vi": "Eye Of Chorus"
+  },
+  "item.legendary_monsters.eye_of_shulker": {
+    "en": "Eye Of Shulker",
+    "zh": "潜影之眼",
+    "vi": "Eye Of Shulker"
+  },
+  "item.legendary_monsters.eye_of_bones": {
+    "en": "Eye Of Bones",
+    "zh": "尸骨之眼",
+    "vi": "Eye Of Bones"
+  },
+  "item.legendary_monsters.eye_of_magma": {
+    "en": "Eye Of Magma",
+    "zh": "岩浆之眼",
+    "vi": "Eye Of Magma"
+  },
+  "item.legendary_monsters.eye_of_ghost": {
+    "en": "Eye Of Ghost",
+    "zh": "鬼魂之眼",
+    "vi": "Eye Of Ghost"
+  },
+  "entity.legendary_monsters.ice_spike": {
+    "en": "Ice Spike",
+    "zh": "冰刺",
+    "vi": "Ice Spike"
+  },
+  "entity.legendary_monsters.skeletosaurus": {
+    "en": "Skeletosaurus",
+    "zh": "骸骨巨龙",
+    "vi": "Skeletosaurus"
+  },
+  "entity.legendary_monsters.hovering_hurricane": {
+    "en": "Hovering Hurricane",
+    "zh": "飓旋",
+    "vi": "Hovering Hurricane"
+  },
+  "entity.legendary_monsters.stratling": {
+    "en": "Stratling",
+    "zh": "惊灵",
+    "vi": "Stratling"
+  },
+  "entity.legendary_monsters.mossy_golem": {
+    "en": "Mossy Golem",
+    "zh": "覆藓傀儡",
+    "vi": "Mossy Golem"
+  },
+  "entity.legendary_monsters.overgrown_colossus": {
+    "en": "Overgrown Colossus",
+    "zh": "蔓生巨像",
+    "vi": "Overgrown Colossus"
+  },
+  "entity.legendary_monsters.warped_fungussus": {
+    "en": "Warped Fungussus",
+    "zh": "诡疑君",
+    "vi": "Warped Fungussus"
+  },
+  "entity.legendary_monsters.frostbitten_golem": {
+    "en": "Frostbitten Golem",
+    "zh": "霜冻傀儡",
+    "vi": "Frostbitten Golem"
+  },
+  "entity.legendary_monsters.lava_eater": {
+    "en": "Lava Eater",
+    "zh": "噬焰蜥",
+    "vi": "Lava Eater"
+  },
+  "entity.legendary_monsters.endersent": {
+    "en": "Chorusent",
+    "zh": "紫颂遣使",
+    "vi": "Chorusent"
+  },
+  "entity.legendary_monsters.chorusling": {
+    "en": "Chorusling",
+    "zh": "紫颂灵",
+    "vi": "Chorusling"
+  },
+  "entity.legendary_monsters.shulker_mimic": {
+    "en": "Shulker Mimic",
+    "zh": "潜影拟态者",
+    "vi": "Shulker Mimic"
+  },
+  "entity.legendary_monsters.ambusher": {
+    "en": "Ambusher",
+    "zh": "暗伏者",
+    "vi": "Ambusher"
+  },
+  "entity.legendary_monsters.spiky_bug": {
+    "en": "Spiky Worm",
+    "zh": "尖刺蠕虫",
+    "vi": "Spiky Worm"
+  },
+  "entity.legendary_monsters.withered_abomination": {
+    "en": "Withered Abomination",
+    "zh": "凋零恶煞",
+    "vi": "Withered Abomination"
+  },
+  "entity.legendary_monsters.ancient_guardian": {
+    "en": "Ancient Guardian",
+    "zh": "荒古守卫者",
+    "vi": "Ancient Guardian"
+  },
+  "entity.legendary_monsters.cloud_golem": {
+    "en": "Cumulonimbus",
+    "zh": "云筑魔像",
+    "vi": "Cumulonimbus"
+  },
+  "entity.legendary_monsters.dark_cloud_golem": {
+    "en": "Cloud Golem",
+    "zh": "阴云傀儡",
+    "vi": "Cloud Golem"
+  },
+  "entity.legendary_monsters.knights_armor": {
+    "en": "Knight",
+    "zh": "骑士",
+    "vi": "Knight"
+  },
+  "entity.legendary_monsters.guard": {
+    "en": "Guard",
+    "zh": "守卫",
+    "vi": "Guard"
+  },
+  "entity.legendary_monsters.haunted_knight": {
+    "en": "Haunted Knight",
+    "zh": "缠魂骑士",
+    "vi": "Haunted Knight"
+  },
+  "entity.legendary_monsters.haunted_guard": {
+    "en": "Haunted Guard",
+    "zh": "缠魂守卫",
+    "vi": "Haunted Guard"
+  },
+  "entity.legendary_monsters.posessed_paladin": {
+    "en": "Possessed Paladin",
+    "zh": "堕落圣骑",
+    "vi": "Possessed Paladin"
+  },
+  "entity.legendary_monsters.dune_sentinel": {
+    "en": "Dune Sentinel",
+    "zh": "沙丘哨兵",
+    "vi": "Dune Sentinel"
+  },
+  "entity.legendary_monsters.skeloraptor": {
+    "en": "Skeloraptor",
+    "zh": "骸骨幼龙",
+    "vi": "Skeloraptor"
+  },
+  "entity.legendary_monsters.bomb": {
+    "en": "Bomb",
+    "zh": "炸弹",
+    "vi": "Bomb"
+  },
+  "entity.legendary_monsters.bomber": {
+    "en": "Bomber",
+    "zh": "崩魔苦力怕",
+    "vi": "Bomber"
+  },
+  "entity.legendary_monsters.the_obliterator": {
+    "en": "The Obliterator",
+    "zh": "湮灭构造体",
+    "vi": "The Obliterator"
+  },
+  "entity.legendary_monsters.flameborn_guard": {
+    "en": "Flameborn Guard",
+    "zh": "淬焰守卫",
+    "vi": "Flameborn Guard"
+  },
+  "entity.legendary_monsters.flame_drifter": {
+    "en": "Flame Drifter",
+    "zh": "流焰重炮",
+    "vi": "Flame Drifter"
+  },
+  "entity.legendary_monsters.annihilation_pursuer": {
+    "en": "Annihilation Pursuer",
+    "zh": "湮灭猎影",
+    "vi": "Annihilation Pursuer"
+  },
+  "entity.legendary_monsters.beheaded_knight": {
+    "en": "Beheaded Knight",
+    "zh": "无头骑士",
+    "vi": "Beheaded Knight"
+  },
+  "entity.legendary_monsters.resurrected_knight": {
+    "en": "Resurrected Knight",
+    "zh": "复生骑士",
+    "vi": "Resurrected Knight"
+  },
+  "entity.legendary_monsters.wandering_eye": {
+    "en": "Wandering Eye",
+    "zh": "飘荡魔眼",
+    "vi": "Wandering Eye"
+  },
+  "entity.legendary_monsters.flameborn_warrior": {
+    "en": "Flameborn Warrior",
+    "zh": "淬焰战士",
+    "vi": "Flameborn Warrior"
+  },
+  "creativetab.legendary_monsters": {
+    "en": "Legendary Monsters",
+    "zh": "传奇怪物",
+    "vi": "quái vật huyền thoại"
+  },
+  "sounds.legendary_monsters.endersent_attack": {
+    "en": "Endersent Smashes The Ground",
+    "zh": "紫颂遣使：重击地面",
+    "vi": "Sứ giả của Ca khúc: Đập mạnh xuống đất"
+  },
+  "sounds.legendary_monsters.endersent_ambient": {
+    "en": "Endersent Talks",
+    "zh": "紫颂遣使：交谈",
+    "vi": "Sứ giả Song Tử: Đối thoại"
+  },
+  "sounds.legendary_monsters.endersent_death": {
+    "en": "Endersent Dies in Pain",
+    "zh": "紫颂遣使：痛苦薨殂",
+    "vi": "Tử Tống phái sứ giả: chết trong đau đớn"
+  },
+  "effect.legendary_monsters.chorus_infection": {
+    "en": "Chorus Infection",
+    "zh": "紫颂侵染",
+    "vi": "sự phá hoại của điệp khúc"
+  },
+  "effect.legendary_monsters.freeze": {
+    "en": "Freeze",
+    "zh": "冻结",
+    "vi": "đông cứng"
+  },
+  "effect.legendary_monsters.soul_fracture": {
+    "en": "Soul Fracture",
+    "zh": "碎魂",
+    "vi": "Tâm hồn tan vỡ"
+  },
+  "effect.legendary_monsters.bleeding": {
+    "en": "Bleeding",
+    "zh": "流血",
+    "vi": "chảy máu"
+  },
+  "effect.legendary_monsters.soul_rage": {
+    "en": "Soul Rage",
+    "zh": "灵魂之怒",
+    "vi": "linh hồn phẫn nộ"
+  },
+  "effect.legendary_monsters.stun": {
+    "en": "Stun",
+    "zh": "晕眩",
+    "vi": "chóng mặt"
+  },
+  "effect.legendary_monsters.fear": {
+    "en": "Fear",
+    "zh": "悚惧",
+    "vi": "đáng sợ"
+  },
+  "effect.legendary_monsters.broken_armor": {
+    "en": "Broken Armor",
+    "zh": "碎甲",
+    "vi": "áo giáp gãy"
+  },
+  "effect.legendary_monsters.gravity_pull": {
+    "en": "Gravity Pull",
+    "zh": "重力牵引",
+    "vi": "kéo trọng lực"
+  },
+  "effect.legendary_monsters.curse_of_desert": {
+    "en": "Curse Of Desert",
+    "zh": "沙漠诅咒",
+    "vi": "lời nguyền sa mạc"
+  },
+  "effect.legendary_monsters.unbreakable": {
+    "en": "Unbreakable",
+    "zh": "不破",
+    "vi": "Không bị hỏng"
+  },
+  "effect.legendary_monsters.annihilation": {
+    "en": "Annihilation",
+    "zh": "湮灭",
+    "vi": "sự hủy diệt"
+  },
+  "block.legendary_monsters.swinging_axe": {
+    "en": "Swinging Axe",
+    "zh": "摆荡链斧",
+    "vi": "Swinging Axe"
+  },
+  "block.legendary_monsters.somber_trapdoor": {
+    "en": "Somber Trapdoor",
+    "zh": "阴沉活版门",
+    "vi": "Somber Trapdoor"
+  },
+  "block.legendary_monsters.ancient_dripstone_bricks": {
+    "en": "Ancient Dripstone Bricks",
+    "zh": "荒古滴水石砖",
+    "vi": "Ancient Dripstone Bricks"
+  },
+  "block.legendary_monsters.ancient_dripstone_block": {
+    "en": "Ancient Dripstone Block",
+    "zh": "荒古滴水石块",
+    "vi": "Ancient Dripstone Block"
+  },
+  "block.legendary_monsters.ancient_dripstone_brick_pillar": {
+    "en": "Ancient Dripstone Brick Pillar",
+    "zh": "荒古滴水石砖柱",
+    "vi": "Ancient Dripstone Brick Pillar"
+  },
+  "block.legendary_monsters.chiseled_ancient_dripstone_bricks": {
+    "en": "Chiseled Ancient Dripstone Bricks",
+    "zh": "雕纹荒古滴水石砖",
+    "vi": "Chiseled Ancient Dripstone Bricks"
+  },
+  "block.legendary_monsters.ancient_dripstone_tiles": {
+    "en": "Ancient Dripstone Tiles",
+    "zh": "荒古滴水石瓦",
+    "vi": "Ancient Dripstone Tiles"
+  },
+  "block.legendary_monsters.ancient_dripstone_brick_slab": {
+    "en": "Ancient Dripstone Brick Slab",
+    "zh": "荒古滴水石砖台阶",
+    "vi": "Ancient Dripstone Brick Slab"
+  },
+  "block.legendary_monsters.ancient_dripstone_brick_wall": {
+    "en": "Ancient Dripstone Brick Wall",
+    "zh": "荒古滴水石砖墙",
+    "vi": "Ancient Dripstone Brick Wall"
+  },
+  "block.legendary_monsters.ancient_dripstone_brick_stairs": {
+    "en": "Ancient Dripstone Brick Stairs",
+    "zh": "荒古滴水石砖楼梯",
+    "vi": "Ancient Dripstone Brick Stairs"
+  },
+  "block.legendary_monsters.ancient_dripstone_tile_slab": {
+    "en": "Ancient Dripstone Tile Slab",
+    "zh": "荒古滴水石瓦台阶",
+    "vi": "Ancient Dripstone Tile Slab"
+  },
+  "block.legendary_monsters.ancient_dripstone_tile_stairs": {
+    "en": "Ancient Dripstone Tile Stairs",
+    "zh": "荒古滴水石瓦楼梯",
+    "vi": "Ancient Dripstone Tile Stairs"
+  },
+  "block.legendary_monsters.ancient_dripstone_tile_wall": {
+    "en": "Ancient Dripstone Tile Wall",
+    "zh": "荒古滴水石瓦墙",
+    "vi": "Ancient Dripstone Tile Wall"
+  },
+  "block.legendary_monsters.cloud_block": {
+    "en": "Cloud Block",
+    "zh": "浮云块",
+    "vi": "Cloud Block"
+  },
+  "block.legendary_monsters.cloud_bricks": {
+    "en": "Cloud Bricks",
+    "zh": "浮云砖",
+    "vi": "Cloud Bricks"
+  },
+  "block.legendary_monsters.skeletosaurus_egg": {
+    "en": "Skeletosaurus Egg",
+    "zh": "骸骨巨龙蛋",
+    "vi": "Skeletosaurus Egg"
+  },
+  "block.legendary_monsters.polished_diorite_pillar": {
+    "en": "Polished Diorite Pillar",
+    "zh": "磨制闪长岩柱",
+    "vi": "Polished Diorite Pillar"
+  },
+  "block.legendary_monsters.chiseled_diorite": {
+    "en": "Chiseled Diorite",
+    "zh": "雕纹闪长岩",
+    "vi": "Chiseled Diorite"
+  },
+  "block.legendary_monsters.indestructible_block": {
+    "en": "Indestructible Block",
+    "zh": "不毁方块",
+    "vi": "Indestructible Block"
+  },
+  "advancements.legendary_monsters.legendary_monsters_root.title": {
+    "en": "Legendary Monsters",
+    "zh": "传奇怪物",
+    "vi": "quái vật huyền thoại"
+  },
+  "advancements.legendary_monsters.legendary_monsters_root.description": {
+    "en": "New challenging mobs!",
+    "zh": "新挑战生物！",
+    "vi": "Sinh vật thử thách mới!"
+  },
+  "advancements.legendary_monsters.nether_root.title": {
+    "en": "Legendary Monsters: Nether",
+    "zh": "传奇怪物：下界",
+    "vi": "Quái vật huyền thoại: The Nether"
+  },
+  "advancements.legendary_monsters.nether_root.description": {
+    "en": "New Challenges in the Nether!",
+    "zh": "来自下界的新挑战！",
+    "vi": "Một thử thách mới từ Nether!"
+  },
+  "advancements.legendary_monsters.end_root.title": {
+    "en": "Legendary Monsters: End",
+    "zh": "传奇怪物：末地",
+    "vi": "Quái vật huyền thoại: Kết thúc"
+  },
+  "advancements.legendary_monsters.end_root.description": {
+    "en": "New Challenges in the End!",
+    "zh": "来自末地的新挑战！",
+    "vi": "Những thách thức mới từ cuối!"
+  },
+  "advancements.legendary_monsters.locate_skeletosaurus_nest.title": {
+    "en": "Long Time Ago",
+    "zh": "洪荒远古",
+    "vi": "Thời cổ đại"
+  },
+  "advancements.legendary_monsters.locate_skeletosaurus_nest.description": {
+    "en": "locate the skeletosaurus nest",
+    "zh": "找到骸骨巨龙巢穴",
+    "vi": "Tìm hang ổ của bộ xương rồng"
+  },
+  "advancements.legendary_monsters.locate_space_station.title": {
+    "en": "The Place Of The Beginning",
+    "zh": "起源之地",
+    "vi": "nơi xuất xứ"
+  },
+  "advancements.legendary_monsters.locate_space_station.description": {
+    "en": "Locate the Space Station",
+    "zh": "找到湮灭空间站",
+    "vi": "Tìm Trạm vũ trụ hủy diệt"
+  },
+  "advancements.legendary_monsters.defeat_skeletosaurus.title": {
+    "en": "The Ancient Skeleton",
+    "zh": "古代骷髅",
+    "vi": "bộ xương cổ"
+  },
+  "advancements.legendary_monsters.defeat_skeletosaurus.description": {
+    "en": "Defeat the Skeletosaurus",
+    "zh": "击败骸骨巨龙",
+    "vi": "Đánh bại Skeleton Dragon"
+  },
+  "advancements.legendary_monsters.locate_soul_fortress_remains.title": {
+    "en": "The Soul Fortress",
+    "zh": "灵魂要塞",
+    "vi": "Pháo đài linh hồn"
+  },
+  "advancements.legendary_monsters.locate_soul_fortress_remains.description": {
+    "en": "locate the soul fortress remains",
+    "zh": "找到灵魂要塞遗迹",
+    "vi": "Tìm tàn tích của Soul Fortress"
+  },
+  "advancements.legendary_monsters.defeat_withered_abomination.title": {
+    "en": "The Soul Eater",
+    "zh": "噬魂者",
+    "vi": "Kẻ ăn linh hồn"
+  },
+  "advancements.legendary_monsters.defeat_withered_abomination.description": {
+    "en": "Defeat the Withered Abomination",
+    "zh": "击败凋零恶煞",
+    "vi": "Đánh bại Ác quỷ héo úa"
+  },
+  "advancements.legendary_monsters.locate_mossy_temple.title": {
+    "en": "Covered in Moss",
+    "zh": "青苔满布",
+    "vi": "phủ đầy rêu"
+  },
+  "advancements.legendary_monsters.locate_mossy_temple.description": {
+    "en": "locate the Mossy Temple",
+    "zh": "找到覆藓神殿",
+    "vi": "Tìm ngôi chùa phủ đầy rêu"
+  },
+  "advancements.legendary_monsters.defeat_overgrown_colossus.title": {
+    "en": "The Mossy Beast",
+    "zh": "覆藓野兽",
+    "vi": "thú phủ đầy rêu"
+  },
+  "advancements.legendary_monsters.defeat_overgrown_colossus.description": {
+    "en": "Defeat the Overgrown Colossus",
+    "zh": "击败蔓生巨像",
+    "vi": "Đánh bại Colossus phát triển quá mức"
+  },
+  "advancements.legendary_monsters.locate_ancient_stronghold.title": {
+    "en": "Dripstone Everywhere",
+    "zh": "满城尽带滴水石",
+    "vi": "Thành phố đầy đá nhỏ giọt"
+  },
+  "advancements.legendary_monsters.locate_ancient_stronghold.description": {
+    "en": "locate the Ancient Stronghold",
+    "zh": "找到荒古要塞",
+    "vi": "Tìm pháo đài cổ"
+  },
+  "advancements.legendary_monsters.defeat_ancient_guardian.title": {
+    "en": "The One - Armed Monster",
+    "zh": "独臂巨怪",
+    "vi": "Troll một tay"
+  },
+  "advancements.legendary_monsters.defeat_ancient_guardian.description": {
+    "en": "Defeat the Ancient Guardian",
+    "zh": "击败荒古守卫者",
+    "vi": "Đánh bại người bảo vệ cổ đại"
+  },
+  "advancements.legendary_monsters.defeat_ambusher.title": {
+    "en": "An Imposter",
+    "zh": "欺诈者",
+    "vi": "kẻ lừa đảo"
+  },
+  "advancements.legendary_monsters.defeat_ambusher.description": {
+    "en": "Defeat the Ambusher",
+    "zh": "击败暗伏者",
+    "vi": "Đánh bại kẻ phục kích"
+  },
+  "advancements.legendary_monsters.defeat_spiky_bug.title": {
+    "en": "A Disgusting Worm",
+    "zh": "恶心蠕虫",
+    "vi": "Con sâu kinh tởm"
+  },
+  "advancements.legendary_monsters.defeat_spiky_bug.description": {
+    "en": "Defeat the Spiky Worm",
+    "zh": "击败尖刺蠕虫",
+    "vi": "Đánh bại con sâu nhọn"
+  },
+  "advancements.legendary_monsters.locate_shulker_tower.title": {
+    "en": "There Is No Gravity Here!",
+    "zh": "此处失重！",
+    "vi": "Không có trọng lượng ở đây!"
+  },
+  "advancements.legendary_monsters.locate_shulker_tower.description": {
+    "en": "Locate the Shulker Tower",
+    "zh": "找到潜影高塔",
+    "vi": "Tìm Tháp Bóng Tối Tiềm Ẩn"
+  },
+  "advancements.legendary_monsters.defeat_shulker_mimic.title": {
+    "en": "Spooky Scary Shulker Box",
+    "zh": "幽怖骇人潜影盒",
+    "vi": "Hộp shulker đáng sợ"
+  },
+  "advancements.legendary_monsters.defeat_shulker_mimic.description": {
+    "en": "Defeat the Shulker Mimic",
+    "zh": "击败潜影拟态者",
+    "vi": "Đánh bại Lalker Mimic"
+  },
+  "advancements.legendary_monsters.locate_ancient_tower_remains.title": {
+    "en": "Far Away From Home",
+    "zh": "远走离乡",
+    "vi": "Rời xa nhà"
+  },
+  "advancements.legendary_monsters.locate_ancient_tower_remains.description": {
+    "en": "Locate the ancient tower remains",
+    "zh": "找到古老高塔遗迹",
+    "vi": "Tìm thấy tàn tích của một tòa tháp cổ"
+  },
+  "advancements.legendary_monsters.defeat_endersent.title": {
+    "en": "The Tall Guy",
+    "zh": "高个子男孩",
+    "vi": "cậu bé cao lớn"
+  },
+  "advancements.legendary_monsters.defeat_endersent.description": {
+    "en": "Defeat the Chorusent",
+    "zh": "击败紫颂遣使",
+    "vi": "Đánh bại sứ giả hợp xướng"
+  },
+  "advancements.legendary_monsters.defeat_chorusling.title": {
+    "en": "The Chorus Infection",
+    "zh": "紫颂侵染",
+    "vi": "sự phá hoại của điệp khúc"
+  },
+  "advancements.legendary_monsters.defeat_chorusling.description": {
+    "en": "Defeat the chorusling",
+    "zh": "击败紫颂灵",
+    "vi": "Đánh bại tinh thần hợp xướng"
+  },
+  "advancements.legendary_monsters.locate_cloudy_temple.title": {
+    "en": "Made From Clouds...",
+    "zh": "其为云筑...",
+    "vi": "Đó là một tòa nhà trên nền tảng đám mây..."
+  },
+  "advancements.legendary_monsters.locate_cloudy_temple.description": {
+    "en": "Locate the Cloudy Temple",
+    "zh": "找到浮云神殿",
+    "vi": "Đi tìm ngôi chùa mây bay"
+  },
+  "advancements.legendary_monsters.defeat_cloud_golem.title": {
+    "en": "Against The Gods",
+    "zh": "与天为敌",
+    "vi": "Kẻ thù với trời"
+  },
+  "advancements.legendary_monsters.defeat_cloud_golem.description": {
+    "en": "Defeat the Cloud Golem",
+    "zh": "击败云筑魔像",
+    "vi": "Đánh bại Yunzhu Golem"
+  },
+  "advancements.legendary_monsters.locate_lava_eater.title": {
+    "en": "A Voltanic Place",
+    "zh": "火山霹地",
+    "vi": "Vùng đất sấm sét núi lửa"
+  },
+  "advancements.legendary_monsters.locate_lava_eater.description": {
+    "en": "Find The Lava Eater's Nest",
+    "zh": "找到噬焰蜥巢穴",
+    "vi": "Tìm hang ổ của Flame Eater"
+  },
+  "advancements.legendary_monsters.defeat_lava_eater.title": {
+    "en": "Fiery Beast",
+    "zh": "熔岩巨兽",
+    "vi": "Quái vật dung nham"
+  },
+  "advancements.legendary_monsters.defeat_lava_eater.description": {
+    "en": "Defeat the Lava Eater",
+    "zh": "击败噬焰蜥",
+    "vi": "Đánh bại kẻ ăn lửa"
+  },
+  "advancements.legendary_monsters.locate_frostbitten_temple.title": {
+    "en": "A Freezing Place",
+    "zh": "极寒之地",
+    "vi": "nơi cực kỳ lạnh"
+  },
+  "advancements.legendary_monsters.locate_frostbitten_temple.description": {
+    "en": "Locate The Frostbitten Temple",
+    "zh": "找到霜冻神殿",
+    "vi": "Tìm ngôi đền băng giá"
+  },
+  "advancements.legendary_monsters.defeat_frostbitten_golem.title": {
+    "en": "The Coldest Golem",
+    "zh": "至寒傀儡",
+    "vi": "con rối lạnh lùng"
+  },
+  "advancements.legendary_monsters.defeat_frostbitten_golem.description": {
+    "en": "Defeat the Frostbitten Golem",
+    "zh": "击败霜冻傀儡",
+    "vi": "Đánh bại Frost Golem"
+  },
+  "advancements.legendary_monsters.defeat_warped_fungussus.title": {
+    "en": "It's Teleporting!",
+    "zh": "它在传送！",
+    "vi": "Nó đang dịch chuyển tức thời!"
+  },
+  "advancements.legendary_monsters.defeat_warped_fungussus.description": {
+    "en": "Defeat the Warped Fungussus",
+    "zh": "击败诡疑君",
+    "vi": "Đánh bại Chúa nghi ngờ"
+  },
+  "advancements.legendary_monsters.locate_abandoned_crypt.title": {
+    "en": "The Echo Of Past Battle",
+    "zh": "往日战争的回响",
+    "vi": "Tiếng vọng của các cuộc chiến trong quá khứ"
+  },
+  "advancements.legendary_monsters.locate_abandoned_crypt.description": {
+    "en": "Locate The Collapsed Kingdom",
+    "zh": "找到覆灭王朝",
+    "vi": "Tìm lại triều đại sụp đổ"
+  },
+  "advancements.legendary_monsters.defeat_haunted_knight.title": {
+    "en": "Living Armor",
+    "zh": "活体盔甲",
+    "vi": "áo giáp sống"
+  },
+  "advancements.legendary_monsters.defeat_haunted_knight.description": {
+    "en": "Defeat the Haunted Knight",
+    "zh": "击败缠魂骑士",
+    "vi": "Đánh bại hiệp sĩ ma ám"
+  },
+  "advancements.legendary_monsters.defeat_haunted_guard.title": {
+    "en": "A Lost Guard",
+    "zh": "不死守卫",
+    "vi": "Người bảo vệ bất tử"
+  },
+  "advancements.legendary_monsters.defeat_haunted_guard.description": {
+    "en": "Defeat the Haunted Guard",
+    "zh": "击败缠魂守卫",
+    "vi": "Đánh bại người bảo vệ bị ma ám"
+  },
+  "advancements.legendary_monsters.defeat_posessed_paladin.title": {
+    "en": "Finally Free",
+    "zh": "堕落骑士",
+    "vi": "Hiệp sĩ sa ngã"
+  },
+  "advancements.legendary_monsters.defeat_posessed_paladin.description": {
+    "en": "Defeat the Possessed Paladin",
+    "zh": "击败堕落圣骑",
+    "vi": "Đánh bại Paladin bị hỏng"
+  },
+  "advancements.legendary_monsters.defeat_the_obliterator.title": {
+    "en": "Obliteration for Obliterator",
+    "zh": "湮灭者终得湮灭",
+    "vi": "Những kẻ tiêu diệt cuối cùng sẽ bị tiêu diệt"
+  },
+  "advancements.legendary_monsters.defeat_the_obliterator.description": {
+    "en": "Defeat The Obliterator",
+    "zh": "击败湮灭构造体",
+    "vi": "Đánh bại công trình hủy diệt"
+  },
+  "advancements.legendary_monsters.defeat_flameborn.title": {
+    "en": "Flame Of The End",
+    "zh": "终焉之焰",
+    "vi": "Ngọn lửa cuối cùng"
+  },
+  "advancements.legendary_monsters.defeat_flameborn.description": {
+    "en": "Defeat Flameborn Guard and Warrior",
+    "zh": "击败淬焰守卫与淬焰战士",
+    "vi": "Đánh bại những người bảo vệ ngọn lửa cường lực và những chiến binh lửa cường lực"
+  },
+  "advancements.legendary_monsters.defeat_wandering_eye.title": {
+    "en": "Float f1",
+    "zh": "浮点数F1",
+    "vi": "Số dấu phẩy động F1"
+  },
+  "advancements.legendary_monsters.defeat_wandering_eye.description": {
+    "en": "Defeat the Wandering Eye",
+    "zh": "击败飘荡魔眼",
+    "vi": "Đánh bại con mắt lang thang"
+  },
+  "advancements.legendary_monsters.defeat_flame_drifter.title": {
+    "en": "Professional Drifter",
+    "zh": "职业漂移车手",
+    "vi": "Lái drift chuyên nghiệp"
+  },
+  "advancements.legendary_monsters.defeat_flame_drifter.description": {
+    "en": "Defeat The Flame Drifter",
+    "zh": "击败流焰重炮",
+    "vi": "Đánh bại pháo lửa chảy"
+  },
+  "advancements.legendary_monsters.defeat_bomber.title": {
+    "en": "Sandstone Bomb",
+    "zh": "砂岩炸弹",
+    "vi": "bom sa thạch"
+  },
+  "advancements.legendary_monsters.defeat_bomber.description": {
+    "en": "Defeat Bomber",
+    "zh": "击败崩魔苦力怕",
+    "vi": "Đánh bại Creeper"
+  },
+  "advancements.legendary_monsters.defeat_dune_sentinel.title": {
+    "en": "Ancient War Machine",
+    "zh": "古代战械",
+    "vi": "vũ khí chiến tranh cổ đại"
+  },
+  "advancements.legendary_monsters.defeat_dune_sentinel.description": {
+    "en": "Defeat Dune Sentinel",
+    "zh": "击败沙丘哨兵",
+    "vi": "Đánh bại Sentinel Dune"
+  },
+  "advancements.legendary_monsters.locate_ruined_pyramid.title": {
+    "en": "Another Desert Temple!",
+    "zh": "又见沙漠神殿！",
+    "vi": "Xem lại ngôi đền sa mạc!"
+  },
+  "advancements.legendary_monsters.locate_ruined_pyramid.description": {
+    "en": "Locate The Ruined Pyramid",
+    "zh": "找到荒废金字塔",
+    "vi": "Tìm kim tự tháp bị bỏ hoang"
+  },
+  "advancements.legendary_monsters.defeat_annihilation_pursuer.title": {
+    "en": "Slowing Down A Bit...",
+    "zh": "稍许减速...",
+    "vi": "Chậm lại một chút..."
+  },
+  "advancements.legendary_monsters.defeat_annihilation_pursuer.description": {
+    "en": "Defeat Annihilation Pursuer",
+    "zh": "击败湮灭猎影",
+    "vi": "Đánh bại Thợ săn hủy diệt"
+  },
+  "advancements.legendary_monsters.defeat_beheaded_knight.title": {
+    "en": "Headless KnightMan",
+    "zh": "无头骑侠",
+    "vi": "Kỵ sĩ không đầu"
+  },
+  "advancements.legendary_monsters.defeat_beheaded_knight.description": {
+    "en": "Defeat the Beheaded Knight",
+    "zh": "击败无头骑士",
+    "vi": "Đánh bại kỵ sĩ không đầu"
+  },
+  "advancements.legendary_monsters.defeat_resurrected_knight.title": {
+    "en": "My Head Is Back!",
+    "zh": "我的脑袋回来啦！",
+    "vi": "Bộ não của tôi đã trở lại!"
+  },
+  "advancements.legendary_monsters.defeat_resurrected_knight.description": {
+    "en": "Defeat the Resurrected Knight",
+    "zh": "击败复生骑士",
+    "vi": "Đánh bại hiệp sĩ phục sinh"
+  },
+  "advancements.legendary_monsters.defeat_fractured_apostle.title": {
+    "en": "Mage Class Detected",
+    "zh": "检测到法师职业",
+    "vi": "Nghề pháp sư được phát hiện"
+  },
+  "advancements.legendary_monsters.defeat_fractured_apostle.description": {
+    "en": "Defeat the Fractured Apostle",
+    "zh": "击败碎裂使徒",
+    "vi": "Đánh bại Tông đồ tan vỡ"
+  },
+  "advancements.legendary_monsters.defeat_fractured.title": {
+    "en": "No Body, Yet Still Alive",
+    "zh": "肉身已灭，魂魄犹存",
+    "vi": "Thân xác đã mất đi nhưng tâm hồn vẫn còn đó"
+  },
+  "advancements.legendary_monsters.defeat_fractured.description": {
+    "en": "Defeat the Fractured",
+    "zh": "击败碎裂者",
+    "vi": "Đánh bại kẻ phá vỡ"
+  },
+  "advancements.legendary_monsters.defeat_haunted_duo.title": {
+    "en": "The Power Of Friendship",
+    "zh": "友谊的力量",
+    "vi": "sức mạnh của tình bạn"
+  },
+  "advancements.legendary_monsters.defeat_haunted_duo.description": {
+    "en": "Defeat the Haunted Duo",
+    "zh": "击败双子骑士",
+    "vi": "Đánh bại Hiệp sĩ song sinh"
+  },
+  "death.attack.legendary_monsters.spikes": {
+    "en": "%s was pierced by thorns.",
+    "zh": "%s 被尖刺戳穿了",
+    "vi": "%s bị một mũi nhọn đâm xuyên qua."
+  },
+  "item.legendary_monsters.soul_great_sword1": {
+    "en": "Right click to Parry (AOE), deals damage",
+    "zh": "右键进行弹反(范围效果)，造成伤害",
+    "vi": "Right click to Parry (AOE), deals damage"
+  },
+  "item.legendary_monsters.soul_great_sword2": {
+    "en": " equal to weapon damage + 30% of reflected damage, and heals you 20% of your max HP,",
+    "zh": "等于武器伤害+反弹伤害的30%，并治疗你最大生命值的20%",
+    "vi": " equal to weapon damage + 30% of reflected damage, and heals you 20% of your max HP,"
+  },
+  "item.legendary_monsters.soul_great_sword3": {
+    "en": "can't parry Bypass Armor damage source",
+    "zh": "无法弹反无视护甲的伤害来源",
+    "vi": "can't parry Bypass Armor damage source"
+  },
+  "item.legendary_monsters.soul_great_sword4": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "item.legendary_monsters.soul_great_sword5": {
+    "en": "Hold Shift + Right click for 1s while looking at an entity in 10 block radius to release homing phantom daggers",
+    "zh": "在按住C键1秒的同时看向10格半径内的实体，释放追踪幻影匕首",
+    "vi": "Hold Shift + Right click for 1s while looking at an entity in 10 block radius to release homing phantom daggers"
+  },
+  "block.legendary_monsters.chiseled_enderstone_pillar": {
+    "en": "Chiseled Enderstone Pillar",
+    "zh": "雕纹末影石柱",
+    "vi": "Chiseled Enderstone Pillar"
+  },
+  "item.legendary_monsters.wand_of_clouds1": {
+    "en": "§6Special Ability: §7 Summons 1 Big explosive cloud [14 dmg] and",
+    "zh": "§6特殊能力: §7 召唤1朵大爆云[14伤害]与",
+    "vi": "§6Special Ability: §7 Summons 1 Big explosive cloud [14 dmg] and"
+  },
+  "item.legendary_monsters.wand_of_clouds2": {
+    "en": "§73 small explosive clouds[5 dmg each] above your enemies. §6[RIGHT CLICK ON AN ENTITY TO USE]",
+    "zh": "§73朵小爆云[各5伤害]于敌群之上 §6[右键实体使用]",
+    "vi": "§73 small explosive clouds[5 dmg each] above your enemies. §6[RIGHT CLICK ON AN ENTITY TO USE]"
+  },
+  "item.legendary_monsters.withered_ribcage1": {
+    "en": "§6Special Ability: §7this chestplate protects player",
+    "zh": "§6特殊能力: §7此胸甲保护玩家",
+    "vi": "§6Special Ability: §7this chestplate protects player"
+  },
+  "item.legendary_monsters.withered_ribcage2": {
+    "en": "§7 from wither effect. and applies wither effect to entities that hurt you",
+    "zh": "§7免受凋零效果影响，并对伤害你的实体施加凋零效果",
+    "vi": "§7 from wither effect. and applies wither effect to entities that hurt you"
+  },
+  "item.legendary_monsters.withered_scythe1": {
+    "en": "§6Special Ability: Hold right click to charge forward",
+    "zh": "§6特殊能力: §7长按C键蓄力冲刺",
+    "vi": "§6Special Ability: Hold right click to charge forward"
+  },
+  "item.legendary_monsters.withered_scythe2": {
+    "en": "§7 and damage entities",
+    "zh": "§7对实体造成伤害",
+    "vi": "§7 and damage entities"
+  },
+  "item.legendary_monsters.m_anchor1": {
+    "en": "§6Special Ability: §7hold right click for 1,5 seconds to launch in the air",
+    "zh": "§6特殊能力: §7长按C键1.5秒",
+    "vi": "§6Special Ability: §7hold right click for 1,5 seconds to launch in the air"
+  },
+  "item.legendary_monsters.m_anchor2": {
+    "en": "§7 and completely stun (for 3 sec. mobs can't attack you and move) all entities around you (in 4 block range).",
+    "zh": "§7晕眩（持续3秒，无法攻击移动）周围所有实体（4格范围内）",
+    "vi": "§7 and completely stun (for 3 sec. mobs can't attack you and move) all entities around you (in 4 block range)."
+  },
+  "item.legendary_monsters.m_anchor3": {
+    "en": "§6Special Ability 2: §7Attack to deal 4 damage to nearby entities in 3 block radius ",
+    "zh": "§6特殊能力2: §7攻击对3格半径内附近实体造成4点伤害 ",
+    "vi": "§6Special Ability 2: §7Attack to deal 4 damage to nearby entities in 3 block radius "
+  },
+  "item.legendary_monsters.mossy_chestplate1": {
+    "en": "§6Special Ability: §7 Use 'R' key to spawn poison clouds around you, ",
+    "zh": "§6特殊能力: §7 使用功能键在周身召唤毒云, ",
+    "vi": "§6Special Ability: §7 Use 'R' key to spawn poison clouds around you, "
+  },
+  "item.legendary_monsters.mossy_chestplate2": {
+    "en": "§7that damage mobs and heal you.",
+    "zh": "§7伤害怪物并治愈你自身",
+    "vi": "§7that damage mobs and heal you."
+  },
+  "item.legendary_monsters.mossy_hammer1": {
+    "en": "§6Special Ability: §7 Deals 10 damage to all entities and applies",
+    "zh": "§6特殊能力: §7 对所有实体造成10点伤害并施加",
+    "vi": "§6Special Ability: §7 Deals 10 damage to all entities and applies"
+  },
+  "item.legendary_monsters.mossy_hammer2": {
+    "en": "§7poison effect to every entity in 4 block radius, and if player has bone",
+    "zh": "§7中毒效果于4格半径内每个实体，若玩家物品栏中有骨粉，",
+    "vi": "§7poison effect to every entity in 4 block radius, and if player has bone"
+  },
+  "item.legendary_monsters.mossy_hammer3": {
+    "en": "§7 meal in his inventory, moss blocks appear under every damaged entity in 3 block radius!",
+    "zh": "§7苔藓块将在3格内每个受伤实体下方生成！",
+    "vi": "§7 meal in his inventory, moss blocks appear under every damaged entity in 3 block radius!"
+  },
+  "item.legendary_monsters.mossy_hammer4": {
+    "en": "§6[RIGHT CLICK ON BLOCK TO USE] ",
+    "zh": "§6[右键方块使用] ",
+    "vi": "§6[RIGHT CLICK ON BLOCK TO USE] "
+  },
+  "item.legendary_monsters.mossy_hammer5": {
+    "en": "§7It can be also used as a pickaxe!  ",
+    "zh": "§7亦可作镐使用！",
+    "vi": "§7It can be also used as a pickaxe!  "
+  },
+  "item.legendary_monsters.sand_cannon1": {
+    "en": "§6Special Ability: §7 Hold click for 1.5 sec. to shoot a Sandstone Bomb",
+    "zh": "§6特殊能力: §7 长按1.5秒发射砂岩炸弹",
+    "vi": "§6Special Ability: §7 Hold click for 1.5 sec. to shoot a Sandstone Bomb"
+  },
+  "item.legendary_monsters.chorus_helmet1": {
+    "en": "§6Special Ability:§7 this Mask protects player",
+    "zh": "§6特殊能力:§7 此面具保护玩家",
+    "vi": "§6Special Ability:§7 this Mask protects player"
+  },
+  "item.legendary_monsters.chorus_helmet2": {
+    "en": "§7 from Chorus Infection.",
+    "zh": "§7 免受紫颂侵染影响",
+    "vi": "§7 from Chorus Infection."
+  },
+  "item.legendary_monsters.chorus_blade1": {
+    "en": "§6Special Ability: §7 Teleports player to random location nearby.",
+    "zh": "§6特殊能力: §7 将玩家传送至附近随机位置",
+    "vi": "§6Special Ability: §7 Teleports player to random location nearby."
+  },
+  "item.legendary_monsters.chorus_blade2": {
+    "en": "§7 for example it can be used to dodge an attack. §6[RIGHT CLICK TO USE]",
+    "zh": "§7 例如可用于躲避攻击 §6[C键使用]",
+    "vi": "§7 for example it can be used to dodge an attack. §6[RIGHT CLICK TO USE]"
+  },
+  "item.legendary_monsters.axe_of_lightning1": {
+    "en": "§6Special Ability:§7 right click to summon Lightning Strike§6[9 Damage per Tick, Bypass Armor],",
+    "zh": "§6特殊能力:§7 右键召唤雷电打击§6[每刻9伤害，无视护甲],",
+    "vi": "§6Special Ability:§7 right click to summon Lightning Strike§6[9 Damage per Tick, Bypass Armor],"
+  },
+  "item.legendary_monsters.axe_of_lightning2": {
+    "en": "§7Right Click on block to summon Electric Burst shockwave in the direction",
+    "zh": "§7右键方块在视线方向召唤电涌冲击波",
+    "vi": "§7Right Click on block to summon Electric Burst shockwave in the direction"
+  },
+  "item.legendary_monsters.axe_of_lightning3": {
+    "en": "§7you are looking§6[Damage of this weapon per shockwave hit, Bypass Armor]",
+    "zh": "§7§6[此武器每次冲击波伤害，无视护甲]",
+    "vi": "§7you are looking§6[Damage of this weapon per shockwave hit, Bypass Armor]"
+  },
+  "item.legendary_monsters.atm_boots1": {
+    "en": "§6Special Ability: §750% Fall Damage Reduction",
+    "zh": "§6特殊能力: §750%摔落伤害减免",
+    "vi": "§6Special Ability: §750% Fall Damage Reduction"
+  },
+  "item.legendary_monsters.dino_club1": {
+    "en": "§6Special Ability: §7right click on a block to spawn",
+    "zh": "§6特殊能力: §7右键方块生成",
+    "vi": "§6Special Ability: §7right click on a block to spawn"
+  },
+  "item.legendary_monsters.dino_club2": {
+    "en": "§7shockwaves in circular shape.",
+    "zh": "§7环形冲击波",
+    "vi": "§7shockwaves in circular shape."
+  },
+  "item.legendary_monsters.entity_warper1": {
+    "en": "§6Special Ability: §7Teleports all entities",
+    "zh": "§6特殊能力: §7传送",
+    "vi": "§6Special Ability: §7Teleports all entities"
+  },
+  "item.legendary_monsters.entity_warper2": {
+    "en": "§7in 4 block radius to player! §6[RIGHT CLICK TO USE].",
+    "zh": "§74格半径内所有实体至玩家身边！ §6[右键使用]",
+    "vi": "§7in 4 block radius to player! §6[RIGHT CLICK TO USE]."
+  },
+  "item.legendary_monsters.void_entity_warper1": {
+    "en": "§6Special Ability: §7Lets you pick any",
+    "zh": "§6特殊能力: §7让你抓取",
+    "vi": "§6Special Ability: §7Lets you pick any"
+  },
+  "item.legendary_monsters.void_entity_warper2": {
+    "en": "§7entity to teleport to you in 6 block range! §6[RIGHT CLICK TO USE]",
+    "zh": "§76格范围内任意实体传送到你身边！ §6[右键使用]",
+    "vi": "§7entity to teleport to you in 6 block range! §6[RIGHT CLICK TO USE]"
+  },
+  "item.legendary_monsters.great_frost1": {
+    "en": "§6Special Ability: §7Right Click to summon Ice Spikes",
+    "zh": "§6特殊能力: §7右键召唤冰刺",
+    "vi": "§6Special Ability: §7Right Click to summon Ice Spikes"
+  },
+  "item.legendary_monsters.great_frost2": {
+    "en": "§6Special Ability 2: §7Right Click + shift on block to summon Ice Spikes around you",
+    "zh": "§6特殊能力2: §7C键方块召唤周身冰刺",
+    "vi": "§6Special Ability 2: §7Right Click + shift on block to summon Ice Spikes around you"
+  },
+  "item.legendary_monsters.shulker_helmet1": {
+    "en": "§7 This helmet protects player from levitation effect.",
+    "zh": "§7 此头盔保护玩家免受漂浮效果影响",
+    "vi": "§7 This helmet protects player from levitation effect."
+  },
+  "item.legendary_monsters.dino_shield": {
+    "en": "§6Extremely Durable!",
+    "zh": "§6极度耐用！",
+    "vi": "§6Extremely Durable!"
+  },
+  "item.legendary_monsters.blast_proof_helmet1": {
+    "en": "§6Special Ability:§7 35% explosion damage reduction",
+    "zh": "§6特殊能力:§7 35%爆炸伤害减免",
+    "vi": "§6Special Ability:§7 35% explosion damage reduction"
+  },
+  "item.legendary_monsters.blast_proof_helmet2": {
+    "en": "§6(Creeper Jumpscares are not so dangerous anymore!)",
+    "zh": "§6（苦力怕突脸不再致命！）",
+    "vi": "§6(Creeper Jumpscares are not so dangerous anymore!)"
+  },
+  "item.legendary_monsters.fiery_jaw1": {
+    "en": "§6Special Ability: §7 Fiery jaw Pushes every entity in",
+    "zh": "§6特殊能力: §7 炽火之颚推开3格",
+    "vi": "§6Special Ability: §7 Fiery jaw Pushes every entity in"
+  },
+  "item.legendary_monsters.fiery_jaw2": {
+    "en": "§7 3 block radius, away from the player, and player starts breathing fire§6[RIGHT CLICK TO USE]",
+    "zh": "§7半径内所有实体，并喷出火焰§6[C键使用]",
+    "vi": "§7 3 block radius, away from the player, and player starts breathing fire§6[RIGHT CLICK TO USE]"
+  },
+  "item.legendary_monsters.golden_halberd1": {
+    "en": "§6Special Ability: §7 25% Chance to give 'bleeding' effect to your enemies",
+    "zh": "§6特殊能力: §7 25%暴击后概率赋予敌人[流血]效果",
+    "vi": "§6Special Ability: §7 25% Chance to give 'bleeding' effect to your enemies"
+  },
+  "item.legendary_monsters.golden_halberd2": {
+    "en": "§7after dealing a critical hit.",
+    "zh": "",
+    "vi": "§7after dealing a critical hit."
+  },
+  "item.legendary_monsters.fiery_boots1": {
+    "en": "§6Special Ability: §7Use 'X' Key to spread fire on your position while walking.",
+    "zh": "§6特殊能力: §7 使用功能键在行走时于脚下散布火焰",
+    "vi": "§6Special Ability: §7Use 'X' Key to spread fire on your position while walking."
+  },
+  "item.legendary_monsters.frost_shield1": {
+    "en": "§6Special Ability: §7 Freezes your enemy for 3 seconds",
+    "zh": "§6特殊能力: §7 冻结敌人3秒",
+    "vi": "§6Special Ability: §7 Freezes your enemy for 3 seconds"
+  },
+  "item.legendary_monsters.frost_shield2": {
+    "en": "§6[BLOCK TO USE]",
+    "zh": "§6[格挡时触发]",
+    "vi": "§6[BLOCK TO USE]"
+  },
+  "item.legendary_monsters.chorus_cannon1": {
+    "en": "§6Special Ability: §7 Hold click for 1.5 sec. to shoot a Chorus Bomb which",
+    "zh": "§6特殊能力: §7 长按1.5秒发射紫颂炸弹",
+    "vi": "§6Special Ability: §7 Hold click for 1.5 sec. to shoot a Chorus Bomb which"
+  },
+  "item.legendary_monsters.chorus_cannon2": {
+    "en": "§7Applies Chorus Infection Effect to your enemies",
+    "zh": "§7对敌人施加紫颂侵染效果",
+    "vi": "§7Applies Chorus Infection Effect to your enemies"
+  },
+  "item.legendary_monsters.spiky_shield1": {
+    "en": "§6Special Ability: §7 50% Chance to give 'bleeding' effect to your enemies",
+    "zh": "§6特殊能力: §7 格挡时反弹伤害给敌人",
+    "vi": "§6Special Ability: §7 50% Chance to give 'bleeding' effect to your enemies"
+  },
+  "item.legendary_monsters.spiky_shield2": {
+    "en": "§7of reflecting damage back to your enemy when you are blocking with shield",
+    "zh": "§720%概率赋予敌人[流血]效果",
+    "vi": "§7of reflecting damage back to your enemy when you are blocking with shield"
+  },
+  "item.legendary_monsters.spiky_shield3": {
+    "en": "§2[Damage: 5 + 25% of your enemy attack damage] ",
+    "zh": "§2[伤害: 1 + 敌人攻击伤害的20%] ",
+    "vi": "§2[Damage: 5 + 25% of your enemy attack damage] "
+  },
+  "item.legendary_monsters.spiky_shield4": {
+    "en": "§6[BLOCK TO USE]",
+    "zh": "§6[格挡时触发]",
+    "vi": "§6[BLOCK TO USE]"
+  },
+  "item.legendary_monsters.shulker_shield1": {
+    "en": "§6Special Ability: §760% to give levitation effect to your enemies",
+    "zh": "§6特殊能力: §760%概率赋予敌人漂浮效果",
+    "vi": "§6Special Ability: §760% to give levitation effect to your enemies"
+  },
+  "item.legendary_monsters.shulker_shield2": {
+    "en": "§6[BLOCK TO USE",
+    "zh": "§6[格挡时触发]",
+    "vi": "§6[BLOCK TO USE"
+  },
+  "item.legendary_monsters.heartoftornado1": {
+    "en": "§6Hold Rightclick to shoot a tornado that grabs entities[lasts for 3 seconds]",
+    "zh": "§6长按右键发射可抓取实体的龙卷风[持续3秒]",
+    "vi": "§6Hold Rightclick to shoot a tornado that grabs entities[lasts for 3 seconds]"
+  },
+  "death.attack.legendary_monsters.laser": {
+    "en": "%s was Exterminated by %s using pure Lightning Energy",
+    "zh": "%s 被 %s 使用纯粹闪电能量歼灭",
+    "vi": "%s bị %s tiêu diệt bằng năng lượng sét thuần túy."
+  },
+  "death.attack.legendary_monsters.clouds": {
+    "en": "%s was Crushed to death by %s",
+    "zh": "%s 被 %s 碾压致死",
+    "vi": "%s bị %s đè chết"
+  },
+  "death.attack.legendary_monsters.ghost": {
+    "en": "%s has left the Reality",
+    "zh": "%s 已脱离现实",
+    "vi": "%s mất liên lạc với thực tế"
+  },
+  "death.attack.legendary_monsters.cut": {
+    "en": "%s was cut in half",
+    "zh": "%s 被斩成两段",
+    "vi": "%s bị cắt thành hai mảnh"
+  },
+  "death.attack.legendary_monsters.gravity": {
+    "en": "%s has Levitated for too long",
+    "zh": "%s 漂浮过久",
+    "vi": "%s trôi nổi quá lâu"
+  },
+  "death.attack.legendary_monsters.void": {
+    "en": "%s was annihilated by %s",
+    "zh": "%s 被 %s 所湮灭",
+    "vi": "%s bị tiêu diệt bởi %s"
+  },
+  "death.attack.legendary_monsters.impale": {
+    "en": "%s was impaled",
+    "zh": "%s 被尖刺戳穿了",
+    "vi": "%s bị một mũi nhọn đâm xuyên qua."
+  },
+  "legendary_monsters.message.stratling_interaction": {
+    "en": "Right Click to Interact (Trade)",
+    "zh": "右键互动（交易）",
+    "vi": "Tương tác chuột phải (giao dịch)"
+  },
+  "item.legendary_monsters.totem_of_moss": {
+    "en": "Totem Of Moss",
+    "zh": "苔藓图腾",
+    "vi": "Totem Of Moss"
+  },
+  "item.legendary_monsters.somber_key": {
+    "en": "Somber Key",
+    "zh": "阴沉钥匙",
+    "vi": "Somber Key"
+  },
+  "item.legendary_monsters.totem_of_moss.desc": {
+    "en": "Right - Click to summon Mossy Golem that assists you in battles and speeds up nearby crop grow speed while near young crops. golem can be respawned when it dies",
+    "zh": "右键点击召唤覆藓傀儡，它将在战斗中协助你，并在靠近未成熟作物时加速附近作物的生长速度；傀儡死亡后可重新召唤",
+    "vi": "Nhấp chuột phải để triệu hồi một con golem phủ đầy rêu, nó sẽ hỗ trợ bạn trong trận chiến và đẩy nhanh quá trình phát triển của các loại cây trồng gần đó khi ở gần cây trồng chưa trưởng thành; golem có thể được triệu tập lại sau khi chết."
+  },
+  "legendary_monsters.message.pet_sit_enable": {
+    "en": " §cSit§f Mode Enabled",
+    "zh": " §c坐下§f 模式已启用",
+    "vi": "Đã bật chế độ §c ngồi xuống§f"
+  },
+  "legendary_monsters.message.pet_walk_enable": {
+    "en": " §aWalk§f Mode Enabled",
+    "zh": " §a行走§f 模式已启用",
+    "vi": "Đã bật chế độ đi bộ §a Chế độ đi bộ§f"
+  },
+  "legendary_monsters.message.pet_stand_enable": {
+    "en": " §cStand still§f Mode Enabled",
+    "zh": " §c定驻§f 模式已启用",
+    "vi": "Đã bật §c được neo vào chế độ §f"
+  },
+  "legendary_monsters.message.pet_stand_disable": {
+    "en": " §aWalk freely§f Mode Enabled",
+    "zh": " §a自由行走§f 模式已启用",
+    "vi": "Đã bật Chế độ đi bộ miễn phí §a"
+  },
+  "legendary_monsters.message.pet_wander_enable": {
+    "en": " §aWander§f Mode Enabled",
+    "zh": " §a漫游§f 模式已启用",
+    "vi": "Chuyển vùng §a Chế độ chuyển vùng §f được bật"
+  },
+  "legendary_monsters.message.pet_follow_enable": {
+    "en": " §6Follow§f Mode Enabled",
+    "zh": " §6跟随§f 模式已启用",
+    "vi": "§6 tuân theo chế độ §f được bật"
+  },
+  "legendary_monsters.message.mossy_golem_string_message_name": {
+    "en": "Mossy Golem",
+    "zh": "覆藓傀儡",
+    "vi": "Golem rêu"
+  },
+  "legendary_monsters.message.knight_string_message_name": {
+    "en": "Knight",
+    "zh": "骑士",
+    "vi": "hiệp sĩ"
+  },
+  "legendary_monsters.message.guard_string_message_name": {
+    "en": "Guard",
+    "zh": "守卫",
+    "vi": "canh gác"
+  },
+  "legendary_monsters.message.skeloraptor_string_message_name": {
+    "en": "Skeloraptor",
+    "zh": "骸骨幼龙",
+    "vi": "Bộ xương nở"
+  },
+  "legendary_monsters.message.obliterator_p3_1_message": {
+    "en": "§a.",
+    "zh": "§a。",
+    "vi": "§a。"
+  },
+  "legendary_monsters.message.obliterator_p3_2_message": {
+    "en": "§a'...'",
+    "zh": "§a'...'",
+    "vi": "§a'...'"
+  },
+  "legendary_monsters.message.obliterator_ultimate": {
+    "en": "§aYour Doom Approaches",
+    "zh": "§a汝之末劫将至",
+    "vi": "§aSự diệt vong của bạn đang đến"
+  },
+  "key.categories.legendary_monsters": {
+    "en": "Legendary Monsters Key Category",
+    "zh": "传奇怪物按键分类",
+    "vi": "Phân loại nút quái vật huyền thoại"
+  },
+  "key.legendary_monsters.mossy_chestplate_ability": {
+    "en": "Legendary Monsters Chestplate Ability",
+    "zh": "传奇怪物胸甲技能键",
+    "vi": "Chìa khóa kỹ năng áo giáp quái vật huyền thoại"
+  },
+  "key.legendary_monsters.fiery_boots_ability": {
+    "en": "Legendary Monsters Boots Ability",
+    "zh": "传奇怪物靴子技能键",
+    "vi": "Chìa khóa kỹ năng Giày quái vật huyền thoại"
+  },
+  "key.legendary_monsters.skeloraptor_roar": {
+    "en": "Skeloraptor Roar Ability",
+    "zh": "骸骨幼龙咆哮技能键",
+    "vi": "Chìa khóa kỹ năng của Skeleton Drake Roar"
+  },
+  "key.legendary_monsters.skeloraptor_attack": {
+    "en": "Skeloraptor Attack Ability",
+    "zh": "骸骨幼龙攻击技能键",
+    "vi": "Phím kỹ năng tấn công Skeleton Drake"
+  },
+  "key.legendary_monsters.helmet": {
+    "en": "Legendary Monsters Helmet Ability",
+    "zh": "传奇怪物头盔技能键",
+    "vi": "Chìa khóa kỹ năng mũ bảo hiểm quái vật huyền thoại"
+  },
+  "item.legendary_monsters.totem_of_moss1": {
+    "en": "§6Right - Click on a Block to summon a Mossy Golem that makes crops grow way faster while near ungrown crops ",
+    "zh": "§6右键点击方块以召唤覆藓傀儡，该傀儡在靠近未成熟作物时可显著加快其生长速度 ",
+    "vi": "§6Right - Click on a Block to summon a Mossy Golem that makes crops grow way faster while near ungrown crops "
+  },
+  "item.legendary_monsters.totem_of_moss2": {
+    "en": "§7and can help you during fights. Golem is automatically tamed. It can be respawned easily after death ",
+    "zh": "§7并在战斗中为你提供帮助。傀儡会自动驯服。死亡后可轻松重新召唤 ",
+    "vi": "§7and can help you during fights. Golem is automatically tamed. It can be respawned easily after death "
+  },
+  "item.legendary_monsters.totem_of_moss3": {
+    "en": "§fShift + Right Click on golem to enable '§aStand Still Mode§7'",
+    "zh": "§f按住潜行键 + 右键点击傀儡可启用 '§a定驻模式§7'",
+    "vi": "§fShift + Right Click on golem to enable '§aStand Still Mode§7'"
+  },
+  "item.legendary_monsters.guard_summoner1": {
+    "en": "§7Right Click on the ground to summon a guard ",
+    "zh": "§6右键方块召唤守卫守护你 ",
+    "vi": "§7Right Click on the ground to summon a guard "
+  },
+  "item.legendary_monsters.guard_summoner2": {
+    "en": "§7it's Automatically tamed on spawn",
+    "zh": "§7可用铁锭将其收服",
+    "vi": "§7it's Automatically tamed on spawn"
+  },
+  "item.legendary_monsters.guard_summoner3": {
+    "en": "§7Deals more damage and in bigger ARC than knight but is slower.",
+    "zh": "§6伤害高于骑士且攻击范围更大，但行动较为缓慢",
+    "vi": "§7Deals more damage and in bigger ARC than knight but is slower."
+  },
+  "item.legendary_monsters.guard_summoner4": {
+    "en": "§7can be easily respawned after death using iron ingots and deactivated summoner",
+    "zh": "§7死亡后可用铁锭和黯淡的召令轻松重生",
+    "vi": "§7can be easily respawned after death using iron ingots and deactivated summoner"
+  },
+  "item.legendary_monsters.guard_summoner5": {
+    "en": "§7You can re-color him while holding valuable materials or change it's behavior state with shift + right click.",
+    "zh": "§7手持金锭钻石等贵重物品，潜行+右键点击即可为其更换盔甲样式",
+    "vi": "§7You can re-color him while holding valuable materials or change it's behavior state with shift + right click."
+  },
+  "item.legendary_monsters.knight_summoner1": {
+    "en": "§7Right click on block to summon a knight",
+    "zh": "§6右键方块召唤骑士守护你 ",
+    "vi": "§7Right click on block to summon a knight"
+  },
+  "item.legendary_monsters.knight_summoner2": {
+    "en": "§7it's Automatically tamed on spawn",
+    "zh": "§7可用铁锭将其收服",
+    "vi": "§7it's Automatically tamed on spawn"
+  },
+  "item.legendary_monsters.knight_summoner3": {
+    "en": "§7Deals less damage than guard but can do fast combos and can block incoming attacks",
+    "zh": "§6伤害低于守卫，但能发动快速连击并可格挡来袭攻击",
+    "vi": "§7Deals less damage than guard but can do fast combos and can block incoming attacks"
+  },
+  "item.legendary_monsters.knight_summoner4": {
+    "en": "§7can be easily respawned after death using iron ingots and deactivated summoner",
+    "zh": "§7死亡后可用铁锭和黯淡的召令轻松重生",
+    "vi": "§7can be easily respawned after death using iron ingots and deactivated summoner"
+  },
+  "item.legendary_monsters.knight_summoner5": {
+    "en": "§7You can re-color him while holding valuable materials or change it's behavior state with shift + right click.",
+    "zh": "§7手持金锭钻石等贵重物品，潜行+右键点击即可为其更换盔甲样式",
+    "vi": "§7You can re-color him while holding valuable materials or change it's behavior state with shift + right click."
+  },
+  "legendary_monsters.message.skeloraptor_time_until_next_roar": {
+    "en": "Roar Cooldown: ",
+    "zh": "咆哮冷却: ",
+    "vi": "Thời gian hồi chiêu của tiếng gầm:"
+  },
+  "block.legendary_monsters.skeletosaurus_egg1": {
+    "en": "§7Place it down and wait, to hatch Skeloraptor, once fully grown tame it with raw meat,",
+    "zh": "§7放置后等待孵化骸骨幼龙，成年后可用生肉驯服,",
+    "vi": "§7Place it down and wait, to hatch Skeloraptor, once fully grown tame it with raw meat,"
+  },
+  "block.legendary_monsters.skeletosaurus_egg2": {
+    "en": "§7you can ride it and make it attack while you are riding it (Skeletosaurus attack Patterns)",
+    "zh": "§7可以骑乘，并可在骑乘状态下指挥攻击（骸骨幼龙攻击模式）",
+    "vi": "§7you can ride it and make it attack while you are riding it (Skeletosaurus attack Patterns)"
+  },
+  "block.legendary_monsters.skeletosaurus_egg3": {
+    "en": "§7you can use 'R' key to roar and scare mobs.",
+    "zh": "§7按功能键可使用咆哮惊吓生物",
+    "vi": "§7you can use 'R' key to roar and scare mobs."
+  },
+  "block.legendary_monsters.skeletosaurus_egg4": {
+    "en": "§6-Place on soul sand for faster hatching time.",
+    "zh": "§6放置于灵魂沙上可加速孵化",
+    "vi": "§6-Place on soul sand for faster hatching time."
+  },
+  "legendary_monsters.message.skeloraptor_mount": {
+    "en": "Press 'R' to Roar, Press Left Shift to Dismount",
+    "zh": "按功能键咆哮，按左Shift键下坐骑",
+    "vi": "Nhấn phím chức năng để gầm, nhấn phím Shift trái để gắn kết"
+  },
+  "legendary_monsters.message.teleport_machine": {
+    "en": "§aInsert an 'Eye Crystal' in the teleport machine to summon the boss",
+    "zh": "§a将'眼之水晶'放入传送装置以召唤Boss",
+    "vi": "§aĐặt 'Eye Crystal' vào máy dịch chuyển để triệu hồi Boss"
+  },
+  "item.legendary_monsters.atom_splitter1": {
+    "en": "§7Hold right click for 1.5s to shoot an Annihilation Beam",
+    "zh": "§7长按右键1.5秒发射湮灭光束",
+    "vi": "§7Hold right click for 1.5s to shoot an Annihilation Beam"
+  },
+  "item.legendary_monsters.atom_splitter2": {
+    "en": "§7Shift + Hold right click for 1.5s to shoot Cluster Annihilation Bomb",
+    "zh": "§7潜行+长按右键1.5秒发射大型可分裂的湮灭爆弹",
+    "vi": "§7Shift + Hold right click for 1.5s to shoot Cluster Annihilation Bomb"
+  },
+  "item.legendary_monsters.atom_splitter3": {
+    "en": "§7And don't get fooled by the ammo system! it's unbreakable! automatically reloads with Annihilation Bottles in inventory ",
+    "zh": "§7别被弹药系统（耐久条）骗了！它坚不可摧！",
+    "vi": "§7And don't get fooled by the ammo system! it's unbreakable! automatically reloads with Annihilation Bottles in inventory "
+  },
+  "item.legendary_monsters.the_tesseract1": {
+    "en": "§7Hold right click for 1.5s to summon Annihilation Portals in a Star pattern.",
+    "zh": "§7长按【C】键1.5秒在自身周围五个方向召唤湮灭传送门",
+    "vi": "§7Hold right click for 1.5s to summon Annihilation Portals in a Star pattern."
+  },
+  "item.legendary_monsters.the_tesseract2": {
+    "en": "§7During Portal summoning nearby entities are affected by their gravity pull.",
+    "zh": "§7在传送门存在期间，其附近的实体会被传送门的引力吸引",
+    "vi": "§7During Portal summoning nearby entities are affected by their gravity pull."
+  },
+  "item.legendary_monsters.buckler_of_annihilation1": {
+    "en": "§7Hold right click + shift for 0.5s to perform area attack, and to shoot 3 small Annihilation Bombs [8 damage bypass armor]. Cooldown appears after hitting an entity with area attack",
+    "zh": "§7按住潜行+右键0.5秒对前方进行10点的撞击伤害，并发射3枚小型湮灭爆弹[8伤害，无视护甲]。区域攻击击中实体后进入冷却",
+    "vi": "§7Hold right click + shift for 0.5s to perform area attack, and to shoot 3 small Annihilation Bombs [8 damage bypass armor]. Cooldown appears after hitting an entity with area attack"
+  },
+  "item.legendary_monsters.enderitium_ingot": {
+    "en": "Enderitium Ingot",
+    "zh": "终末金属锭",
+    "vi": "Enderitium Ingot"
+  },
+  "item.legendary_monsters.bottle_of_annihilation": {
+    "en": "Bottle Of Annihilation",
+    "zh": "湮灭之瓶",
+    "vi": "Bottle Of Annihilation"
+  },
+  "item.legendary_monsters.enderitium_upgrade_smithing_template": {
+    "en": "Smithing Template",
+    "zh": "锻造模板",
+    "vi": "Smithing Template"
+  },
+  "item.legendary_monsters.annihilator_upgrade_smithing_template": {
+    "en": "Smithing Template",
+    "zh": "锻造模板",
+    "vi": "Smithing Template"
+  },
+  "item.legendary_monsters.portal_shard": {
+    "en": "Portal Shard",
+    "zh": "传送门碎片",
+    "vi": "Portal Shard"
+  },
+  "item.legendary_monsters.enderitium_gem": {
+    "en": "Enderitium Gem",
+    "zh": "终末金属宝石",
+    "vi": "Enderitium Gem"
+  },
+  "item.legendary_monsters.raw_enderitium": {
+    "en": "Raw Enderitium",
+    "zh": "粗终末金属",
+    "vi": "Raw Enderitium"
+  },
+  "item.legendary_monsters.enderitium_sword": {
+    "en": "Enderitium Sword",
+    "zh": "终末金属剑",
+    "vi": "Enderitium Sword"
+  },
+  "item.legendary_monsters.enderitium_axe": {
+    "en": "Enderitium Axe",
+    "zh": "终末金属斧",
+    "vi": "Enderitium Axe"
+  },
+  "item.legendary_monsters.enderitium_shovel": {
+    "en": "Enderitium Shovel",
+    "zh": "终末金属锹",
+    "vi": "Enderitium Shovel"
+  },
+  "item.legendary_monsters.enderitium_hoe": {
+    "en": "Enderitium Hoe",
+    "zh": "终末金属锄",
+    "vi": "Enderitium Hoe"
+  },
+  "item.legendary_monsters.enderitium_pickaxe": {
+    "en": "Enderitium Pickaxe",
+    "zh": "终末金属镐",
+    "vi": "Enderitium Pickaxe"
+  },
+  "block.legendary_monsters.enderitium_ore": {
+    "en": "Enderitium Ore",
+    "zh": "终末金属矿石",
+    "vi": "Enderitium Ore"
+  },
+  "block.legendary_monsters.enderitium_block": {
+    "en": "Enderitium Block",
+    "zh": "终末金属块",
+    "vi": "Enderitium Block"
+  },
+  "block.legendary_monsters.chiseled_enderstone_bricks": {
+    "en": "Chiseled Enderstone Bricks",
+    "zh": "雕纹末影石砖",
+    "vi": "Chiseled Enderstone Bricks"
+  },
+  "block.legendary_monsters.enderstone_bricks": {
+    "en": "Enderstone Bricks",
+    "zh": "末影石砖",
+    "vi": "Enderstone Bricks"
+  },
+  "block.legendary_monsters.enderstone_brick_stairs": {
+    "en": "Enderstone Brick Stairs",
+    "zh": "末影石砖楼梯",
+    "vi": "Enderstone Brick Stairs"
+  },
+  "block.legendary_monsters.enderstone_brick_slab": {
+    "en": "Enderstone Brick Slab",
+    "zh": "末影石砖台阶",
+    "vi": "Enderstone Brick Slab"
+  },
+  "block.legendary_monsters.enderstone_brick_wall": {
+    "en": "Enderstone Brick Wall",
+    "zh": "末影石砖墙",
+    "vi": "Enderstone Brick Wall"
+  },
+  "block.legendary_monsters.enderstone_pillar": {
+    "en": "Enderstone Pillar",
+    "zh": "末影石柱",
+    "vi": "Enderstone Pillar"
+  },
+  "block.legendary_monsters.enderstone": {
+    "en": "Enderstone",
+    "zh": "末影石",
+    "vi": "Enderstone"
+  },
+  "block.legendary_monsters.cobbled_enderstone": {
+    "en": "Cobbled Enderstone",
+    "zh": "末影圆石",
+    "vi": "Cobbled Enderstone"
+  },
+  "block.legendary_monsters.smooth_enderstone": {
+    "en": "Smooth Enderstone",
+    "zh": "平滑末影石",
+    "vi": "Smooth Enderstone"
+  },
+  "block.legendary_monsters.smooth_enderstone_slab": {
+    "en": "Smooth Enderstone Slab",
+    "zh": "平滑末影石台阶",
+    "vi": "Smooth Enderstone Slab"
+  },
+  "block.legendary_monsters.smooth_enderstone_stairs": {
+    "en": "Smooth Enderstone Stairs",
+    "zh": "平滑末影石楼梯",
+    "vi": "Smooth Enderstone Stairs"
+  },
+  "block.legendary_monsters.smooth_enderstone_wall": {
+    "en": "Smooth Enderstone Wall",
+    "zh": "平滑末影石墙",
+    "vi": "Smooth Enderstone Wall"
+  },
+  "block.legendary_monsters.cobbled_enderstone_slab": {
+    "en": "Cobbled Enderstone Slab",
+    "zh": "末影圆石台阶",
+    "vi": "Cobbled Enderstone Slab"
+  },
+  "block.legendary_monsters.cobbled_enderstone_stairs": {
+    "en": "Cobbled Enderstone Stairs",
+    "zh": "末影圆石楼梯",
+    "vi": "Cobbled Enderstone Stairs"
+  },
+  "block.legendary_monsters.cobbled_enderstone_wall": {
+    "en": "Cobbled Enderstone Wall",
+    "zh": "末影圆石墙",
+    "vi": "Cobbled Enderstone Wall"
+  },
+  "block.legendary_monsters.enderstone_slab": {
+    "en": "Enderstone Slab",
+    "zh": "末影石台阶",
+    "vi": "Enderstone Slab"
+  },
+  "block.legendary_monsters.enderstone_stairs": {
+    "en": "Enderstone Stairs",
+    "zh": "末影石楼梯",
+    "vi": "Enderstone Stairs"
+  },
+  "block.legendary_monsters.enderstone_wall": {
+    "en": "Enderstone Wall",
+    "zh": "末影石墙",
+    "vi": "Enderstone Wall"
+  },
+  "block.legendary_monsters.ender_anchor": {
+    "en": "Ender Anchor",
+    "zh": "末影锚",
+    "vi": "Ender Anchor"
+  },
+  "block.legendary_monsters.teleport_machine": {
+    "en": "Teleport Machine",
+    "zh": "传送装置",
+    "vi": "Teleport Machine"
+  },
+  "block.legendary_monsters.annihilation_lantern": {
+    "en": "Annihilation Lantern",
+    "zh": "湮灭灯",
+    "vi": "Annihilation Lantern"
+  },
+  "block.legendary_monsters.soul_candle": {
+    "en": "Soul Candle",
+    "zh": "Soul Candle",
+    "vi": "Soul Candle"
+  },
+  "item.legendary_monsters.ancient_sandstone_shard1": {
+    "en": "§7Obtainable by killing Bombers in the desert, at night",
+    "zh": "§7可通过在沙漠夜间击杀崩魔苦力怕获得",
+    "vi": "§7Obtainable by killing Bombers in the desert, at night"
+  },
+  "item.legendary_monsters.atom_splitter": {
+    "en": "Atom Splitter",
+    "zh": "原子分裂器",
+    "vi": "Atom Splitter"
+  },
+  "item.legendary_monsters.buckler_of_annihilation": {
+    "en": "Buckler Of Annihilation",
+    "zh": "湮灭圆盾",
+    "vi": "Buckler Of Annihilation"
+  },
+  "item.legendary_monsters.eye_crystal": {
+    "en": "Eye Crystal",
+    "zh": "眼之水晶",
+    "vi": "Eye Crystal"
+  },
+  "item.legendary_monsters.the_tesseract": {
+    "en": "The Tesseract",
+    "zh": "超立方体",
+    "vi": "The Tesseract"
+  },
+  "item.legendary_monsters.cloud_bread": {
+    "en": "Cloud Bread",
+    "zh": "云朵面包",
+    "vi": "Cloud Bread"
+  },
+  "item.legendary_monsters.dark_cloud_bread": {
+    "en": "Dark Cloud Bread",
+    "zh": "阴云面包",
+    "vi": "Dark Cloud Bread"
+  },
+  "item.legendary_monsters.wandering_eye_spawn_egg": {
+    "en": "Wandering Eye Spawn Egg",
+    "zh": "飘荡魔眼刷怪蛋",
+    "vi": "Wandering Eye Spawn Egg"
+  },
+  "item.legendary_monsters.enderitium_sickle": {
+    "en": "Enderitium Sickle",
+    "zh": "终末金属镰",
+    "vi": "Enderitium Sickle"
+  },
+  "item.legendary_monsters.flameborn_warrior_spawn_egg": {
+    "en": "Flameborn Warrior Spawn Egg",
+    "zh": "淬焰战士刷怪蛋",
+    "vi": "Flameborn Warrior Spawn Egg"
+  },
+  "item.legendary_monsters.smithing_template.enderitium_upgrade5": {
+    "en": " Enderitium Ingot",
+    "zh": " 终末金属锭",
+    "vi": " Enderitium Ingot"
+  },
+  "item.legendary_monsters.smithing_template.enderitium_upgrade4": {
+    "en": "Ingredients:",
+    "zh": "材料：",
+    "vi": "Ingredients:"
+  },
+  "item.legendary_monsters.smithing_template.enderitium_upgrade3": {
+    "en": " Diamond Equipment",
+    "zh": " 钻石装备",
+    "vi": " Diamond Equipment"
+  },
+  "item.legendary_monsters.smithing_template.enderitium_upgrade2": {
+    "en": "Applies to:",
+    "zh": "适用于：",
+    "vi": "Applies to:"
+  },
+  "item.legendary_monsters.smithing_template.enderitium_upgrade1": {
+    "en": "Enderitium Upgrade",
+    "zh": "终末金属升级",
+    "vi": "Enderitium Upgrade"
+  },
+  "item.legendary_monsters.smithing_template.annihilator_upgrade5": {
+    "en": " Portal Shard",
+    "zh": " 传送门碎片",
+    "vi": " Portal Shard"
+  },
+  "item.legendary_monsters.smithing_template.annihilator_upgrade4": {
+    "en": "Ingredients:",
+    "zh": "材料：",
+    "vi": "Ingredients:"
+  },
+  "item.legendary_monsters.smithing_template.annihilator_upgrade3": {
+    "en": " Netherite Equipment",
+    "zh": " 下界合金装备",
+    "vi": " Netherite Equipment"
+  },
+  "item.legendary_monsters.smithing_template.annihilator_upgrade2": {
+    "en": "Applies to:",
+    "zh": "适用于：",
+    "vi": "Applies to:"
+  },
+  "item.legendary_monsters.smithing_template.annihilator_upgrade1": {
+    "en": "Annihilator's Upgrade",
+    "zh": "湮灭者升级",
+    "vi": "Annihilator's Upgrade"
+  },
+  "block.legendary_monsters.ender_anchor1": {
+    "en": "Fill it with Annihilation Lanterns to set spawn point in the end",
+    "zh": "填入湮灭灯以在末地设置重生点",
+    "vi": "Fill it with Annihilation Lanterns to set spawn point in the end"
+  },
+  "item.legendary_monsters.annihilator_helmet": {
+    "en": "Annihilator's Helmet",
+    "zh": "湮灭者头盔",
+    "vi": "Annihilator's Helmet"
+  },
+  "item.legendary_monsters.annihilator_chestplate": {
+    "en": "Annihilator's Chestplate",
+    "zh": "湮灭者胸甲",
+    "vi": "Annihilator's Chestplate"
+  },
+  "item.legendary_monsters.annihilator_leggings": {
+    "en": "Annihilator's Leggings",
+    "zh": "湮灭者护腿",
+    "vi": "Annihilator's Leggings"
+  },
+  "item.legendary_monsters.annihilator_boots": {
+    "en": "Annihilator's Boots",
+    "zh": "湮灭者靴子",
+    "vi": "Annihilator's Boots"
+  },
+  "item.legendary_monsters.annihilator_helmet1": {
+    "en": "You don't aggro endermen when you look at them, Press 'C' key to instantly teleport to position you are looking at (in 15 block range)",
+    "zh": "注视末影人时不会激怒它们，按功能键可瞬间传送至你视线所及位置（15格范围内）",
+    "vi": "You don't aggro endermen when you look at them, Press 'C' key to instantly teleport to position you are looking at (in 15 block range)"
+  },
+  "item.legendary_monsters.annihilator_chestplate1": {
+    "en": "When you are at half a health or lower an Annihilation Supernova explodes at your position, and you become invulnerable for 3 seconds.",
+    "zh": "当生命值低于一半时，湮灭之力会在你身上爆炸，并使你获得3秒无敌状态",
+    "vi": "When you are at half a health or lower an Annihilation Supernova explodes at your position, and you become invulnerable for 3 seconds."
+  },
+  "item.legendary_monsters.bottled_lightning": {
+    "en": "Bottled Lightning",
+    "zh": "瓶装闪电",
+    "vi": "Bottled Lightning"
+  },
+  "item.legendary_monsters.shattered_greatsword": {
+    "en": "Shattered Greatsword",
+    "zh": "碎裂巨剑",
+    "vi": "Shattered Greatsword"
+  },
+  "item.legendary_monsters.shattered_greatsword1": {
+    "en": "'The Knights of the Collapsed Kingdom'",
+    "zh": "§7'覆灭王朝的骑士们'",
+    "vi": "'The Knights of the Collapsed Kingdom'"
+  },
+  "item.legendary_monsters.resurrected_javelin": {
+    "en": "Resurrected Javelin",
+    "zh": "复生长戟",
+    "vi": "Resurrected Javelin"
+  },
+  "item.legendary_monsters.metal_debris": {
+    "en": "Metal Debris",
+    "zh": "金属残骸",
+    "vi": "Metal Debris"
+  },
+  "item.legendary_monsters.somber_key_ring": {
+    "en": "Somber Key Ring",
+    "zh": "阴沉钥匙环",
+    "vi": "Somber Key Ring"
+  },
+  "item.legendary_monsters.somber_key_blade": {
+    "en": "Somber Key Blade",
+    "zh": "阴沉钥匙刃",
+    "vi": "Somber Key Blade"
+  },
+  "item.legendary_monsters.somber_key_part": {
+    "en": "Combine with another key part to create Somber Key",
+    "zh": "与另一枚钥匙部件组合，以合成阴沉钥匙",
+    "vi": "Combine with another key part to create Somber Key"
+  },
+  "item.legendary_monsters.eye_of_annihilation": {
+    "en": "Eye Of Annihilation",
+    "zh": "湮灭之眼",
+    "vi": "Eye Of Annihilation"
+  },
+  "item.legendary_monsters.annihilator_leggings1": {
+    "en": "25% Chance of turning your attack into bypass armor AOE, (your current WeaponDamage / 2) upon landing a crit",
+    "zh": "25%概率在暴击时将你的攻击转化为无视护甲的范围伤害，（当前武器伤害 / 2）",
+    "vi": "25% Chance of turning your attack into bypass armor AOE, (your current WeaponDamage / 2) upon landing a crit"
+  },
+  "item.legendary_monsters.annihilator_unknown": {
+    "en": "Ability Still WIP, will be added soon",
+    "zh": "能力开发中，即将添加",
+    "vi": "Ability Still WIP, will be added soon"
+  },
+  "item.legendary_monsters.annihilator_boots1": {
+    "en": "Protects you against weakness and slowness",
+    "zh": "保护你免受虚弱与缓慢影响",
+    "vi": "Protects you against weakness and slowness"
+  },
+  "legendary_monsters.message.stun": {
+    "en": "Stunned!",
+    "zh": "眩晕！",
+    "vi": "chóng mặt!"
+  },
+  "legendary_monsters.message.possessed_paladin_snore": {
+    "en": "''Zzzzz...''",
+    "zh": "Zzzzz...",
+    "vi": "Zzzzz..."
+  },
+  "legendary_monsters.message.possessed_paladin_talk1": {
+    "en": "'One was slain..'",
+    "zh": "其人已逝...",
+    "vi": "Ông ấy đã qua đời..."
+  },
+  "legendary_monsters.message.possessed_paladin_talk2": {
+    "en": "'A Soul Trapped..'",
+    "zh": "魂却仍囚...",
+    "vi": "Tâm hồn vẫn bị giam cầm..."
+  },
+  "legendary_monsters.message.possessed_paladin_talk3": {
+    "en": "'A Shadow will cover the stars once again'",
+    "zh": "繁星将再次被暗影所笼罩",
+    "vi": "Những ngôi sao sẽ một lần nữa bị che phủ trong bóng tối"
+  },
+  "legendary_monsters.message.possessed_paladin_talk4": {
+    "en": "'Now i fight as..'",
+    "zh": "而如今，我将为其而战...",
+    "vi": "Và bây giờ, tôi sẽ chiến đấu vì nó..."
+  },
+  "legendary_monsters.message.possessed_paladin_talk5": {
+    "en": "'..Orion, The Fractured Omen'",
+    "zh": "...奥莱恩-吾名即碎裂之兆",
+    "vi": "...Orion-Tên tôi là dấu hiệu của sự phân mảnh"
+  },
+  "legendary_monsters.message.possessed_paladin_talk6": {
+    "en": "'I..'",
+    "zh": "吾...",
+    "vi": "TÔI..."
+  },
+  "legendary_monsters.message.possessed_paladin_talk7": {
+    "en": "'..Am Free..'",
+    "zh": "...终得解脱...",
+    "vi": "...Cuối cùng cũng được giải thoát..."
+  },
+  "legendary_monsters.message.possessed_paladin_talk8": {
+    "en": "'I'll always find a way around death'",
+    "zh": "死亡，无法将吾阻挡",
+    "vi": "Cái chết không thể ngăn cản tôi"
+  },
+  "legendary_monsters.message.possessed_paladin_talk9": {
+    "en": "'It's not over yet'",
+    "zh": "一切...还未结束...",
+    "vi": "Mọi chuyện...vẫn chưa kết thúc..."
+  },
+  "legendary_monsters.message.possessed_paladin_talk10": {
+    "en": "'My shadow will cover the stars once again'",
+    "zh": "吾之阴影终将再次遮蔽繁星",
+    "vi": "Cái bóng của tôi cuối cùng sẽ lại che phủ những vì sao"
+  },
+  "legendary_monsters.message.possessed_paladin_kill_parry": {
+    "en": "/kill doesn't even bother me",
+    "zh": "/kill 亦不屑扰吾",
+    "vi": "/kill cũng không làm phiền tôi"
+  },
+  "block.legendary_monsters.somber_trapdoor1": {
+    "en": "Right click in the middle with a Somber Key to break a lock",
+    "zh": "使用阴沉钥匙右键打开阴沉活版门",
+    "vi": "Right click in the middle with a Somber Key to break a lock"
+  },
+  "block.legendary_monsters.small_spike_trap_block": {
+    "en": "Small Spike Trap Block",
+    "zh": "小型尖刺陷阱",
+    "vi": "Small Spike Trap Block"
+  },
+  "block.legendary_monsters.big_spike_trap_block": {
+    "en": "Big Spike Trap Block",
+    "zh": "大型尖刺陷阱",
+    "vi": "Big Spike Trap Block"
+  },
+  "legendary_monsters.message.somber_trapdoor": {
+    "en": "Right click the trapdoor with a Somber Key to break a lock",
+    "zh": "使用阴沉钥匙右键打开阴沉活版门",
+    "vi": "Sử dụng Chìa khóa Gloomy nhấn chuột phải để mở Cánh cửa Bẫy Gloomy"
+  },
+  "legendary_monsters.bar_name.possessed_paladin_p2": {
+    "en": "Orion, The Fractured Omen",
+    "zh": "奥莱恩·碎裂之兆",
+    "vi": "Điềm báo tan vỡ của Orion"
+  },
+  "item.legendary_monsters.fractured_apostle_spawn_egg": {
+    "en": "Fractured Apostle Spawn Egg",
+    "zh": "碎裂使徒刷怪蛋",
+    "vi": "Fractured Apostle Spawn Egg"
+  },
+  "entity.legendary_monsters.fractured_apostle": {
+    "en": "Fractured Apostle",
+    "zh": "碎裂使徒",
+    "vi": "Fractured Apostle"
+  },
+  "item.legendary_monsters.fractured_spawn_egg": {
+    "en": "Fractured Spawn Egg",
+    "zh": "碎裂者刷怪蛋",
+    "vi": "Fractured Spawn Egg"
+  },
+  "entity.legendary_monsters.fractured": {
+    "en": "Fractured",
+    "zh": "碎裂者",
+    "vi": "Fractured"
+  },
+  "legendary_monsters.message.pet_guard_enable": {
+    "en": " §3Guard§f Mode Enabled",
+    "zh": null,
+    "vi": null
+  },
+  "item.legendary_monsters.corrupted_soul1": {
+    "en": "I am.. free.. I'll face the final battle once again",
+    "zh": null,
+    "vi": null
+  }
+}

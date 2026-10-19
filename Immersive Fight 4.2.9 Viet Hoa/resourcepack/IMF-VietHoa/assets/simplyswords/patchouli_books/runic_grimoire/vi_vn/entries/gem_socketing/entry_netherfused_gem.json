@@ -1,0 +1,20 @@
+{
+  "name": "Bảo Thạch Ngục Linh (Netherite Gem)",
+  "icon": "simplyswords:netherfused_gem",
+  "category": "simplyswords:category_gem_socketing",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:netherfused_gem",
+      "text": "Rèn từ Netherite và Tinh Thể Năng Lượng trên Bàn Rèn, giám định để mở khóa năng lực ngẫu nhiên."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Khảm nạm vào [Ô Ngục Linh] của vũ khí độc nhất."
+    },
+    {
+      "type": "patchouli:smithing",
+      "recipe": "simplyswords:netherfused_gem"
+    }
+  ]
+}

@@ -1,0 +1,1702 @@
+{
+  "modmenu.descriptionTranslation.sodium-extra": {
+    "en": "Embeddium Extra aims to bring most of OptiFine's eye-candy options to Embeddium; in addition to providing some features such as visual bug fixes and other performance options that are not yet available on Embeddium.",
+    "zh": "Embeddium Extra 旨在将大部分 OptiFine 中赏心悦目的选项带到 Embeddium；此外，还提供一些功能，比如在 Embeddium 中还没有提供的一些视觉错误修复和其他性能选项。",
+    "vi": null
+  },
+  "modmenu.summaryTranslation.sodium-extra": {
+    "en": "Features that shouldn't be in Embeddium.",
+    "zh": "不应该在Embeddium中的功能。",
+    "vi": null
+  },
+  "options.dimensions.minecraft.overworld": {
+    "en": "Overworld",
+    "zh": "主世界",
+    "vi": null
+  },
+  "options.dimensions.minecraft.the_end": {
+    "en": "End",
+    "zh": "末地",
+    "vi": null
+  },
+  "options.dimensions.minecraft.the_nether": {
+    "en": "Nether",
+    "zh": "下界",
+    "vi": null
+  },
+  "options.particles.minecraft.ambient_entity_effect": {
+    "en": "Ambient Entity Effect",
+    "zh": "环境实体效果",
+    "vi": null
+  },
+  "options.particles.minecraft.ambient_entity_effect.tooltip": {
+    "en": "Beacon effects.",
+    "zh": "信标效果",
+    "vi": null
+  },
+  "options.particles.minecraft.angry_villager": {
+    "en": "Angry Villager",
+    "zh": "愤怒的村民",
+    "vi": null
+  },
+  "options.particles.minecraft.angry_villager.tooltip": {
+    "en": "Attacking a villager in a village; when villagers can't breed because there aren't enough beds nearby or when a panda is attacked by a player on the village.‌",
+    "zh": "村民被玩家攻击、目睹玩家攻击熊猫、无法进行繁殖时产生的愤怒粒子",
+    "vi": null
+  },
+  "options.particles.minecraft.ash": {
+    "en": "Ash",
+    "zh": "灰烬",
+    "vi": null
+  },
+  "options.particles.minecraft.ash.tooltip": {
+    "en": "Naturally generated in soul sand valley biome environment.",
+    "zh": "在灵魂沙峡谷生物群系中飘散的颗粒",
+    "vi": null
+  },
+  "options.particles.minecraft.barrier": {
+    "en": "Barrier",
+    "zh": "屏障",
+    "vi": null
+  },
+  "options.particles.minecraft.barrier.tooltip": {
+    "en": "Barrier block displays when the player holds the Barrier item.",
+    "zh": "当玩家持有屏障时，屏障会显示。",
+    "vi": null
+  },
+  "options.particles.minecraft.block": {
+    "en": "Block",
+    "zh": "方块",
+    "vi": null
+  },
+  "options.particles.minecraft.block.tooltip": {
+    "en": "Breaking blocks, sprinting, iron golems walking, armor stands, falling.",
+    "zh": "方块被摧毁、玩家疾跑、铁傀儡行走、盔甲架被摧毁、生物跌落于方块时产生的粒子",
+    "vi": null
+  },
+  "options.particles.minecraft.block_marker": {
+    "en": "Block Marker",
+    "zh": "方块标记",
+    "vi": null
+  },
+  "options.particles.minecraft.block_marker.tooltip": {
+    "en": "Barrier/Light particles.",
+    "zh": "屏障/光粒子",
+    "vi": null
+  },
+  "options.particles.minecraft.bubble": {
+    "en": "Bubble",
+    "zh": "气泡",
+    "vi": null
+  },
+  "options.particles.minecraft.bubble.tooltip": {
+    "en": "Entities in water, guardian laser beams, fishing.",
+    "zh": "水中的实体、守卫者激光、浮漂产生的气泡",
+    "vi": null
+  },
+  "options.particles.minecraft.bubble_column_up": {
+    "en": "Bubble Column Up",
+    "zh": "气泡柱",
+    "vi": null
+  },
+  "options.particles.minecraft.bubble_column_up.tooltip": {
+    "en": "Upward bubble columns made by soul sand under water.",
+    "zh": "水下灵魂沙产生的涌流气泡柱",
+    "vi": null
+  },
+  "options.particles.minecraft.bubble_pop": {
+    "en": "Bubble Pop",
+    "zh": "气泡：破裂",
+    "vi": null
+  },
+  "options.particles.minecraft.bubble_pop.tooltip": {
+    "en": "Popping Bubble particles.",
+    "zh": "爆裂气泡粒子",
+    "vi": null
+  },
+  "options.particles.minecraft.campfire_cosy_smoke": {
+    "en": "Campfire Cosy Smoke",
+    "zh": "营火烟雾",
+    "vi": null
+  },
+  "options.particles.minecraft.campfire_cosy_smoke.tooltip": {
+    "en": "Smoke produced by campfires and soul campfires.",
+    "zh": "营火和灵魂营火产生的烟雾",
+    "vi": null
+  },
+  "options.particles.minecraft.campfire_signal_smoke": {
+    "en": "Campfire Signal Smoke",
+    "zh": "营火信号烟雾",
+    "vi": null
+  },
+  "options.particles.minecraft.campfire_signal_smoke.tooltip": {
+    "en": "Smoke produced by campfires and soul campfires when above a hay bale.",
+    "zh": "放置在干草块上的营火/灵魂营火产生的烟雾",
+    "vi": null
+  },
+  "options.particles.minecraft.cherry_leaves": {
+    "en": "Cherry Leaves",
+    "zh": "樱花树叶",
+    "vi": null
+  },
+  "options.particles.minecraft.cherry_leaves.tooltip": {
+    "en": "Falling petals from the cherry leaves.",
+    "zh": "开启或关闭樱花树叶花瓣飘落粒子效果",
+    "vi": null
+  },
+  "options.particles.minecraft.cloud": {
+    "en": "Cloud",
+    "zh": "云",
+    "vi": null
+  },
+  "options.particles.minecraft.cloud.tooltip": {
+    "en": "Clouds appear when entity completes death rotation animation and disappears.",
+    "zh": "实体死亡时产生的烟雾粒子",
+    "vi": null
+  },
+  "options.particles.minecraft.composter": {
+    "en": "Composter",
+    "zh": "堆肥桶",
+    "vi": null
+  },
+  "options.particles.minecraft.composter.tooltip": {
+    "en": "If enabled, composter particles are processed.",
+    "zh": "若启用，将显示堆肥桶粒子效果",
+    "vi": null
+  },
+  "options.particles.minecraft.crimson_spore": {
+    "en": "Crimson Spore",
+    "zh": "绯红孢子",
+    "vi": null
+  },
+  "options.particles.minecraft.crimson_spore.tooltip": {
+    "en": "A crimson particle generated in crimson forest biome environment.",
+    "zh": "在绯红森林生物群系中飘散的颗粒",
+    "vi": null
+  },
+  "options.particles.minecraft.crit": {
+    "en": "Crit",
+    "zh": "暴击",
+    "vi": null
+  },
+  "options.particles.minecraft.crit.tooltip": {
+    "en": "Critical hits, fully charged bow shots, crossbows, evoker fangs.",
+    "zh": "玩家造成暴击、尖牙进行攻击、箭被射出时产生的粒子",
+    "vi": null
+  },
+  "options.particles.minecraft.current_down": {
+    "en": "Current Down",
+    "zh": "下行气泡柱",
+    "vi": null
+  },
+  "options.particles.minecraft.current_down.tooltip": {
+    "en": "Bubble column whirlpools made by magma blocks underwater.",
+    "zh": "水下岩浆块形成的涡流气泡柱",
+    "vi": null
+  },
+  "options.particles.minecraft.damage_indicator": {
+    "en": "Damage Indicator",
+    "zh": "命中提示",
+    "vi": null
+  },
+  "options.particles.minecraft.damage_indicator.tooltip": {
+    "en": "From mobs and players when hurt by a melee attack.",
+    "zh": "生物受到玩家近战攻击时产生的粒子",
+    "vi": null
+  },
+  "options.particles.minecraft.dolphin": {
+    "en": "Dolphin",
+    "zh": "海豚",
+    "vi": null
+  },
+  "options.particles.minecraft.dolphin.tooltip": {
+    "en": "Trails behind swimming dolphins.",
+    "zh": "海豚游泳时产生的水花",
+    "vi": null
+  },
+  "options.particles.minecraft.dragon_breath": {
+    "en": "Dragon Breath",
+    "zh": "龙息",
+    "vi": null
+  },
+  "options.particles.minecraft.dragon_breath.tooltip": {
+    "en": "An ender dragon's breath and dragon fireballs.",
+    "zh": "末影龙的龙息和末影龙火球",
+    "vi": null
+  },
+  "options.particles.minecraft.dripping_dripstone_lava": {
+    "en": "Dripping Dripstone Lava",
+    "zh": "渗出的石锥熔岩",
+    "vi": null
+  },
+  "options.particles.minecraft.dripping_dripstone_lava.tooltip": {
+    "en": "Dripping lava from the pointed dripstone.",
+    "zh": "滴水石锥渗出且未滴落的熔岩粒子。",
+    "vi": null
+  },
+  "options.particles.minecraft.dripping_dripstone_water": {
+    "en": "Dripping Dripstone Water",
+    "zh": "滴水石锥渗水",
+    "vi": null
+  },
+  "options.particles.minecraft.dripping_dripstone_water.tooltip": {
+    "en": "Dripping water from the pointed dripstone.",
+    "zh": "滴水石锥渗出且未滴落的水粒子",
+    "vi": null
+  },
+  "options.particles.minecraft.dripping_honey": {
+    "en": "Dripping Honey",
+    "zh": "滴落的蜂蜜",
+    "vi": null
+  },
+  "options.particles.minecraft.dripping_honey.tooltip": {
+    "en": "Dripping honey through blocks that haven't dripped down yet.",
+    "zh": "蜂巢或蜂箱渗出且未滴落的蜂蜜粒子",
+    "vi": null
+  },
+  "options.particles.minecraft.dripping_lava": {
+    "en": "Dripping Lava",
+    "zh": "滴落的熔岩",
+    "vi": null
+  },
+  "options.particles.minecraft.dripping_lava.tooltip": {
+    "en": "Dripping lava through blocks that haven't dripped down yet.",
+    "zh": "渗过方块且未滴落的熔岩粒子。",
+    "vi": null
+  },
+  "options.particles.minecraft.dripping_obsidian_tear": {
+    "en": "Dripping Obsidian Tear",
+    "zh": "哭泣的黑曜石渗出",
+    "vi": null
+  },
+  "options.particles.minecraft.dripping_obsidian_tear.tooltip": {
+    "en": "Dripping crying obsidian's particles through blocks that haven't dripped down yet.",
+    "zh": "哭泣的黑曜石渗出且未滴落的粒子",
+    "vi": null
+  },
+  "options.particles.minecraft.dripping_water": {
+    "en": "Dripping Water",
+    "zh": "水滴",
+    "vi": null
+  },
+  "options.particles.minecraft.dripping_water.tooltip": {
+    "en": "Dripping water through blocks, wet sponges, leaves when raining that haven't dripped down yet.",
+    "zh": "渗过方块的水粒子以及湿海绵、下雨时的树叶产生的水粒子",
+    "vi": null
+  },
+  "options.particles.minecraft.dust": {
+    "en": "Dust",
+    "zh": "粉尘",
+    "vi": null
+  },
+  "options.particles.minecraft.dust.tooltip": {
+    "en": "Redstone ore, powered redstone dust, redstone torches, powered redstone repeaters.",
+    "zh": "红石矿石，充能的红石粉，红石火把，充能的红石中继器。",
+    "vi": null
+  },
+  "options.particles.minecraft.dust_color_transition": {
+    "en": "Dust Color Transition",
+    "zh": "过渡颜色粉尘",
+    "vi": null
+  },
+  "options.particles.minecraft.dust_color_transition.tooltip": {
+    "en": "Sculk sensor gets triggered.",
+    "zh": "幽匿传感器被触发。",
+    "vi": null
+  },
+  "options.particles.minecraft.dust_pillar": {
+    "en": "Dust Pillar",
+    "zh": "Dust Pillar",
+    "vi": null
+  },
+  "options.particles.minecraft.dust_pillar.tooltip": {
+    "en": "Produced by mace smash attacks.",
+    "zh": "Produced by mace smash attacks.",
+    "vi": null
+  },
+  "options.particles.minecraft.dust_plume": {
+    "en": "Dust Plume",
+    "zh": "尘缕",
+    "vi": null
+  },
+  "options.particles.minecraft.dust_plume.tooltip": {
+    "en": "Shown when adding items to decorated pots.",
+    "zh": "在往饰纹陶罐内放入物品时产生",
+    "vi": null
+  },
+  "options.particles.minecraft.effect": {
+    "en": "Effect",
+    "zh": "效果",
+    "vi": null
+  },
+  "options.particles.minecraft.effect.tooltip": {
+    "en": "Splash potions, lingering potions, bottles o' enchanting, evokers.",
+    "zh": "喷溅型药水、滞留型药水、附魔瓶、唤魔者。",
+    "vi": null
+  },
+  "options.particles.minecraft.egg_crack": {
+    "en": "Egg Crack",
+    "zh": "生物蛋破碎",
+    "vi": null
+  },
+  "options.particles.minecraft.egg_crack.tooltip": {
+    "en": "Egg crack.",
+    "zh": "生物蛋破碎.",
+    "vi": null
+  },
+  "options.particles.minecraft.elder_guardian": {
+    "en": "Elder Guardian",
+    "zh": "远古守卫者",
+    "vi": null
+  },
+  "options.particles.minecraft.elder_guardian.tooltip": {
+    "en": "Elder Guardian.",
+    "zh": "玩家被远古守卫者给予挖掘疲劳时面前出现的“鬼影”。",
+    "vi": null
+  },
+  "options.particles.minecraft.electric_spark": {
+    "en": "Electric Spark",
+    "zh": "电火花",
+    "vi": null
+  },
+  "options.particles.minecraft.electric_spark.tooltip": {
+    "en": "Appears when a lightning bolt hits copper blocks.",
+    "zh": "当闪电击中铜块时出现。",
+    "vi": null
+  },
+  "options.particles.minecraft.enchant": {
+    "en": "Enchant",
+    "zh": "附魔",
+    "vi": null
+  },
+  "options.particles.minecraft.enchant.tooltip": {
+    "en": "From bookshelves near an enchanting table.",
+    "zh": "来自附魔台旁的书架。",
+    "vi": null
+  },
+  "options.particles.minecraft.enchanted_hit": {
+    "en": "Enchanted Hit",
+    "zh": "附魔攻击",
+    "vi": null
+  },
+  "options.particles.minecraft.enchanted_hit.tooltip": {
+    "en": "Attacking with a sword or axe enchanted with Sharpness, Smite, or Bane of Arthropods.",
+    "zh": "使用附魔了锋利、力量或节肢杀手的剑或斧进行攻击。",
+    "vi": null
+  },
+  "options.particles.minecraft.end_rod": {
+    "en": "End Rod",
+    "zh": "末地烛",
+    "vi": null
+  },
+  "options.particles.minecraft.end_rod.tooltip": {
+    "en": "End rods, shulker bullets.",
+    "zh": "末地烛，潜影贝子弹。",
+    "vi": null
+  },
+  "options.particles.minecraft.entity_effect": {
+    "en": "Entity Effect",
+    "zh": "状态效果",
+    "vi": null
+  },
+  "options.particles.minecraft.entity_effect.tooltip": {
+    "en": "Status effects, lingering potions, tipped arrows, trading, withered armor (linger potion particles decrease when the \"minimal\" particle setting is used).",
+    "zh": "状态效果、滞留药水、药水箭、交易、凋零的盔甲（使用“最小”粒子设置时滞留药水粒子减少）。",
+    "vi": null
+  },
+  "options.particles.minecraft.explosion": {
+    "en": "Explosion",
+    "zh": "爆炸",
+    "vi": null
+  },
+  "options.particles.minecraft.explosion.tooltip": {
+    "en": "Explosions, ghast fireballs, wither skulls, ender dragon death, shearing mooshrooms.",
+    "zh": "爆炸、恶魂火球、凋灵头骨、末影龙之死、剪哞菇。",
+    "vi": null
+  },
+  "options.particles.minecraft.explosion_emitter": {
+    "en": "Explosion Emitter",
+    "zh": "爆炸",
+    "vi": null
+  },
+  "options.particles.minecraft.explosion_emitter.tooltip": {
+    "en": "Explosions, ender dragon death.",
+    "zh": "爆炸，末影龙死亡。",
+    "vi": null
+  },
+  "options.particles.minecraft.falling_dripstone_lava": {
+    "en": "Falling Dripstone Lava",
+    "zh": "下落的石锥熔岩",
+    "vi": null
+  },
+  "options.particles.minecraft.falling_dripstone_lava.tooltip": {
+    "en": "Falling lava particles from the pointed dripstone.",
+    "zh": "从滴水石锥上掉落的熔岩粒子。",
+    "vi": null
+  },
+  "options.particles.minecraft.falling_dripstone_water": {
+    "en": "Falling Dripstone Water",
+    "zh": "下落的石锥水",
+    "vi": null
+  },
+  "options.particles.minecraft.falling_dripstone_water.tooltip": {
+    "en": "Falling water particles from the pointed dripstone.",
+    "zh": "从滴水石上掉落的水滴粒子。",
+    "vi": null
+  },
+  "options.particles.minecraft.falling_dust": {
+    "en": "Falling Dust",
+    "zh": "下落的粉尘",
+    "vi": null
+  },
+  "options.particles.minecraft.falling_dust.tooltip": {
+    "en": "Floating sand, gravel, concrete powder, and anvils.",
+    "zh": "漂浮的沙子、沙砾、混凝土粉末和铁砧。",
+    "vi": null
+  },
+  "options.particles.minecraft.falling_honey": {
+    "en": "Falling Honey",
+    "zh": "下落的蜂蜜",
+    "vi": null
+  },
+  "options.particles.minecraft.falling_honey.tooltip": {
+    "en": "Dripping honey through blocks that is dripping down in air.",
+    "zh": "渗过方块且正在空气中滴落的蜂蜜粒子",
+    "vi": null
+  },
+  "options.particles.minecraft.falling_lava": {
+    "en": "Falling Lava",
+    "zh": "下落的熔岩",
+    "vi": null
+  },
+  "options.particles.minecraft.falling_lava.tooltip": {
+    "en": "Dripping lava through blocks that is dripping down in air.",
+    "zh": "渗过方块且正在空气中滴落的熔岩粒子",
+    "vi": null
+  },
+  "options.particles.minecraft.falling_nectar": {
+    "en": "Falling Nectar",
+    "zh": "下落的花粉",
+    "vi": null
+  },
+  "options.particles.minecraft.falling_nectar.tooltip": {
+    "en": "Nectar on the pollen-loaded bees.",
+    "zh": "已经授粉的蜜蜂身上的花蜜。",
+    "vi": null
+  },
+  "options.particles.minecraft.falling_obsidian_tear": {
+    "en": "Falling Obsidian Tear",
+    "zh": "下落的黑曜石眼泪",
+    "vi": null
+  },
+  "options.particles.minecraft.falling_obsidian_tear.tooltip": {
+    "en": "Dripping crying obsidian's particles through blocks that is dripping down in air and has fallen to the ground.",
+    "zh": "哭泣的黑曜石渗出且正滴落以及已滴落的粒子",
+    "vi": null
+  },
+  "options.particles.minecraft.falling_spore_blossom": {
+    "en": "Falling Spore Blossom",
+    "zh": "下落的花孢子",
+    "vi": null
+  },
+  "options.particles.minecraft.falling_spore_blossom.tooltip": {
+    "en": "Dripping green particle from the spore blossom.",
+    "zh": "从孢子花中滴落的绿色颗粒。",
+    "vi": null
+  },
+  "options.particles.minecraft.falling_water": {
+    "en": "Falling Water",
+    "zh": "水花",
+    "vi": null
+  },
+  "options.particles.minecraft.falling_water.tooltip": {
+    "en": "Dripping water through blocks that is dripping down in air and has fallen to the ground.",
+    "zh": "滴水石锥渗出且正滴落以及已滴落的水粒子",
+    "vi": null
+  },
+  "options.particles.minecraft.firework": {
+    "en": "Firework",
+    "zh": "烟花",
+    "vi": null
+  },
+  "options.particles.minecraft.firework.tooltip": {
+    "en": "Firework rocket trail and explosion (trail is not shown when the \"minimal\" particle setting is used), when dolphins track shipwrecks and underwater ruins.",
+    "zh": "当海豚跟踪沉船和水下废墟时的尾迹，以及烟花火箭的爆炸与尾迹。(使用“最低”粒子设置时不显示尾迹)",
+    "vi": null
+  },
+  "options.particles.minecraft.fishing": {
+    "en": "Fishing",
+    "zh": "钓鱼",
+    "vi": null
+  },
+  "options.particles.minecraft.fishing.tooltip": {
+    "en": "Fishing.",
+    "zh": "钓鱼时出现的水花粒子",
+    "vi": null
+  },
+  "options.particles.minecraft.flame": {
+    "en": "Flame",
+    "zh": "火焰",
+    "vi": null
+  },
+  "options.particles.minecraft.flame.tooltip": {
+    "en": "Torches, furnaces, magma cubes, monster spawners.",
+    "zh": "火把、熔炉、岩浆块、刷怪笼。",
+    "vi": null
+  },
+  "options.particles.minecraft.flash": {
+    "en": "Flash",
+    "zh": "闪烁",
+    "vi": null
+  },
+  "options.particles.minecraft.flash.tooltip": {
+    "en": "Flash light when firework rocket explodes.",
+    "zh": "烟花火箭爆炸时的闪光。",
+    "vi": null
+  },
+  "options.particles.minecraft.glow": {
+    "en": "Glow",
+    "zh": "发光",
+    "vi": null
+  },
+  "options.particles.minecraft.glow.tooltip": {
+    "en": "Glow Squid.",
+    "zh": "发光鱿鱼产生的荧光粒子",
+    "vi": null
+  },
+  "options.particles.minecraft.glow_squid_ink": {
+    "en": "Glow Squid Ink",
+    "zh": "荧光墨汁",
+    "vi": null
+  },
+  "options.particles.minecraft.glow_squid_ink.tooltip": {
+    "en": "Glow squid getting hurt.",
+    "zh": "发光鱿鱼被攻击时喷出的荧光墨汁",
+    "vi": null
+  },
+  "options.particles.minecraft.gust": {
+    "en": "Gust",
+    "zh": "狂风",
+    "vi": null
+  },
+  "options.particles.minecraft.gust.tooltip": {
+    "en": "Created when a wind charge hits a block.",
+    "zh": "在风弹与方块碰撞时产生",
+    "vi": null
+  },
+  "options.particles.minecraft.gust_emitter_large": {
+    "en": "Gust Emitter Large",
+    "zh": "Gust Emitter Large",
+    "vi": null
+  },
+  "options.particles.minecraft.gust_emitter_large.tooltip": {
+    "en": "Created when a wind charge hits a block. Spawns a number of gust particles.",
+    "zh": "Created when a wind charge hits a block. Spawns a number of gust particles.",
+    "vi": null
+  },
+  "options.particles.minecraft.gust_emitter_small": {
+    "en": "Gust Emitter Small",
+    "zh": "Gust Emitter Small",
+    "vi": null
+  },
+  "options.particles.minecraft.gust_emitter_small.tooltip": {
+    "en": "Created when a wind charge hits a block. Spawns a number of gust particles.",
+    "zh": "Created when a wind charge hits a block. Spawns a number of gust particles.",
+    "vi": null
+  },
+  "options.particles.minecraft.happy_villager": {
+    "en": "Happy Villager",
+    "zh": "快乐的村民",
+    "vi": null
+  },
+  "options.particles.minecraft.happy_villager.tooltip": {
+    "en": "Applying bone meal to a crop, trading with villagers, feeding baby animals, walking or jumping on turtle eggs.",
+    "zh": "将骨粉应用于农作物、与村民交易、喂养动物雏体、在海龟蛋上行走或跳跃。",
+    "vi": null
+  },
+  "options.particles.minecraft.heart": {
+    "en": "Heart",
+    "zh": "爱心",
+    "vi": null
+  },
+  "options.particles.minecraft.heart.tooltip": {
+    "en": "Breeding and taming animals.",
+    "zh": "饲养和驯服动物。",
+    "vi": null
+  },
+  "options.particles.minecraft.infested": {
+    "en": "Infested",
+    "zh": "Infested",
+    "vi": null
+  },
+  "options.particles.minecraft.infested.tooltip": {
+    "en": "Produced by entities with the Infested effect.",
+    "zh": "Produced by entities with the Infested effect.",
+    "vi": null
+  },
+  "options.particles.minecraft.instant_effect": {
+    "en": "Instant Effect",
+    "zh": "瞬间效果",
+    "vi": null
+  },
+  "options.particles.minecraft.instant_effect.tooltip": {
+    "en": "Instant health/damage splash and lingering potions, spectral arrows.",
+    "zh": "瞬间伤害/治疗的喷溅型和滞留型药水，光灵箭。",
+    "vi": null
+  },
+  "options.particles.minecraft.item": {
+    "en": "Item",
+    "zh": "物品",
+    "vi": null
+  },
+  "options.particles.minecraft.item.tooltip": {
+    "en": "Eating, thrown eggs, splash potions, eyes of ender, breaking tools.",
+    "zh": "进食，扔鸡蛋，喷溅型药水，末影之眼，破坏工具。",
+    "vi": null
+  },
+  "options.particles.minecraft.item_cobweb.": {
+    "en": "Item Cobweb",
+    "zh": "Item Cobweb",
+    "vi": null
+  },
+  "options.particles.minecraft.item_cobweb.tooltip": {
+    "en": "Produced by entities with the weaving effect.",
+    "zh": "Produced by entities with the weaving effect.",
+    "vi": null
+  },
+  "options.particles.minecraft.item_slime": {
+    "en": "Item Slime",
+    "zh": "史莱姆",
+    "vi": null
+  },
+  "options.particles.minecraft.item_slime.tooltip": {
+    "en": "Slimes that land on the ground.",
+    "zh": "落在地上的史莱姆。",
+    "vi": null
+  },
+  "options.particles.minecraft.item_snowball": {
+    "en": "Item Snowball",
+    "zh": "雪球",
+    "vi": null
+  },
+  "options.particles.minecraft.item_snowball.tooltip": {
+    "en": "Thrown snowballs, creating withers, creating iron golems.",
+    "zh": "扔雪球，创造凋灵，创造铁傀儡。",
+    "vi": null
+  },
+  "options.particles.minecraft.landing_honey": {
+    "en": "Landing Honey",
+    "zh": "落地的蜂蜜",
+    "vi": null
+  },
+  "options.particles.minecraft.landing_honey.tooltip": {
+    "en": "Dripping honey through blocks that has fallen to the ground.",
+    "zh": "渗过方块且已滴落在地面的蜂蜜粒子",
+    "vi": null
+  },
+  "options.particles.minecraft.landing_lava": {
+    "en": "Landing Lava",
+    "zh": "落地的熔岩",
+    "vi": null
+  },
+  "options.particles.minecraft.landing_lava.tooltip": {
+    "en": "Dripping lava through blocks that has fallen to the ground.",
+    "zh": "渗过方块且已滴落在地面的熔岩粒子",
+    "vi": null
+  },
+  "options.particles.minecraft.landing_obsidian_tear": {
+    "en": "Landing Obsidian Tear",
+    "zh": "落地的黑曜石眼泪",
+    "vi": null
+  },
+  "options.particles.minecraft.landing_obsidian_tear.tooltip": {
+    "en": "Dripping crying obsidian's particles through blocks that has fallen to the ground.",
+    "zh": "哭泣的黑曜石渗出且已滴落在地面的粒子",
+    "vi": null
+  },
+  "options.particles.minecraft.large_smoke": {
+    "en": "Large Smoke",
+    "zh": "大型烟雾",
+    "vi": null
+  },
+  "options.particles.minecraft.large_smoke.tooltip": {
+    "en": "Fire, minecart with furnace, blazes, water flowing into lava, lava flowing into water.",
+    "zh": "着火，带熔炉的矿车，燃烧，水流入熔岩，熔岩流入水。",
+    "vi": null
+  },
+  "options.particles.minecraft.lava": {
+    "en": "Lava",
+    "zh": "熔岩",
+    "vi": null
+  },
+  "options.particles.minecraft.lava.tooltip": {
+    "en": "Lava bubbles.",
+    "zh": "熔岩的火花粒子。",
+    "vi": null
+  },
+  "options.particles.minecraft.light_block": {
+    "en": "Light Block",
+    "zh": "发光方块",
+    "vi": null
+  },
+  "options.particles.minecraft.light_block.tooltip": {
+    "en": "Light block displays when the player holds the Light item of any level.",
+    "zh": "当玩家持有任何级别的灯物品时，发光方块会显示。",
+    "vi": null
+  },
+  "options.particles.minecraft.mycelium": {
+    "en": "Mycelium",
+    "zh": "菌丝",
+    "vi": null
+  },
+  "options.particles.minecraft.mycelium.tooltip": {
+    "en": "Mycelium blocks.",
+    "zh": "菌丝体产生的孢子粒子",
+    "vi": null
+  },
+  "options.particles.minecraft.nautilus": {
+    "en": "Nautilus",
+    "zh": "鹦鹉螺",
+    "vi": null
+  },
+  "options.particles.minecraft.nautilus.tooltip": {
+    "en": "Activated conduits.",
+    "zh": "激活潮涌核心产生的粒子。",
+    "vi": null
+  },
+  "options.particles.minecraft.note": {
+    "en": "Note",
+    "zh": "音符",
+    "vi": null
+  },
+  "options.particles.minecraft.note.tooltip": {
+    "en": "Emitted from note blocks.",
+    "zh": "从音符盒发出的粒子。",
+    "vi": null
+  },
+  "options.particles.minecraft.ominous_spawning": {
+    "en": "Omnius Spawning",
+    "zh": "Omnius Spawning",
+    "vi": null
+  },
+  "options.particles.minecraft.ominous_spawning.tooltip": {
+    "en": "",
+    "zh": "",
+    "vi": null
+  },
+  "options.particles.minecraft.poof": {
+    "en": "Poof",
+    "zh": "烟雾",
+    "vi": null
+  },
+  "options.particles.minecraft.poof.tooltip": {
+    "en": "Explosions, death of mobs, mobs spawned from a monster spawner, silverfish infesting blocks.",
+    "zh": "爆炸、生物死亡、刷怪笼生成生物、蠹虫侵蚀方块。",
+    "vi": null
+  },
+  "options.particles.minecraft.portal": {
+    "en": "Portal",
+    "zh": "传送门",
+    "vi": null
+  },
+  "options.particles.minecraft.portal.tooltip": {
+    "en": "Nether portals, enderman, endermites, ender pearls, eyes of ender, ender chests, dragon eggs, teleporting from eating chorus fruits, end gateway portals.",
+    "zh": "下界传送门、末影人、末影螨、末影珍珠、末影之眼、末影箱、龙蛋、食用紫颂果后传送、末地折跃门产生的粒子。",
+    "vi": null
+  },
+  "options.particles.minecraft.raid_omen": {
+    "en": "Raid Omen",
+    "zh": "Raid Omen",
+    "vi": null
+  },
+  "options.particles.minecraft.raid_omen.tooltip": {
+    "en": "Produced by players and mobs with the Raid Omen effect.",
+    "zh": "Produced by players and mobs with the Raid Omen effect.",
+    "vi": null
+  },
+  "options.particles.minecraft.rain": {
+    "en": "Rain",
+    "zh": "雨滴",
+    "vi": null
+  },
+  "options.particles.minecraft.rain.tooltip": {
+    "en": "Rain splashes on the ground.",
+    "zh": "雨水溅在地上。",
+    "vi": null
+  },
+  "options.particles.minecraft.reverse_portal": {
+    "en": "Reverse Portal",
+    "zh": "反向传送门",
+    "vi": null
+  },
+  "options.particles.minecraft.reverse_portal.tooltip": {
+    "en": "Reverse Portal.",
+    "zh": "传送门反向。",
+    "vi": null
+  },
+  "options.particles.minecraft.scrape": {
+    "en": "Scrape",
+    "zh": "除锈",
+    "vi": null
+  },
+  "options.particles.minecraft.scrape.tooltip": {
+    "en": "Scraping oxidation off a copper block with an axe.",
+    "zh": "用斧头在铜块上去除氧化物。",
+    "vi": null
+  },
+  "options.particles.minecraft.sculk_charge": {
+    "en": "Sculk Charge",
+    "zh": "幽匿气泡",
+    "vi": null
+  },
+  "options.particles.minecraft.sculk_charge.tooltip": {
+    "en": "Shown as sculk spreads through other blocks.",
+    "zh": "在幽匿信号蔓延过程中显示。",
+    "vi": null
+  },
+  "options.particles.minecraft.sculk_charge_pop": {
+    "en": "Sculk Charge Pop",
+    "zh": "幽匿气泡破裂",
+    "vi": null
+  },
+  "options.particles.minecraft.sculk_charge_pop.tooltip": {
+    "en": "Sculk charge ends by popping.",
+    "zh": "幽匿信号丢失时产生的气泡破裂粒子",
+    "vi": null
+  },
+  "options.particles.minecraft.sculk_soul": {
+    "en": "Sculk Soul",
+    "zh": "幽匿灵魂",
+    "vi": null
+  },
+  "options.particles.minecraft.sculk_soul.tooltip": {
+    "en": "When a mob dies near a Sculk Catalyst these particles are shown.",
+    "zh": "当生物在幽匿催发体附近死亡时，会显示这些粒子。",
+    "vi": null
+  },
+  "options.particles.minecraft.shriek": {
+    "en": "Shriek",
+    "zh": "尖啸",
+    "vi": null
+  },
+  "options.particles.minecraft.shriek.tooltip": {
+    "en": "Shown when a Sculk Shrieker triggers.",
+    "zh": "当幽匿尖啸体触发时显示。",
+    "vi": null
+  },
+  "options.particles.minecraft.small_flame": {
+    "en": "Small Flame",
+    "zh": "小火焰",
+    "vi": null
+  },
+  "options.particles.minecraft.small_flame.tooltip": {
+    "en": "Small Flame.",
+    "zh": "小火焰。",
+    "vi": null
+  },
+  "options.particles.minecraft.small_gust": {
+    "en": "Small Gust",
+    "zh": "Small Gust",
+    "vi": null
+  },
+  "options.particles.minecraft.small_gust.tooltip": {
+    "en": "Produced by mobs with the Wind Charged effect.",
+    "zh": "Produced by mobs with the Wind Charged effect.",
+    "vi": null
+  },
+  "options.particles.minecraft.smoke": {
+    "en": "Smoke",
+    "zh": "烟雾",
+    "vi": null
+  },
+  "options.particles.minecraft.smoke.tooltip": {
+    "en": "Torches, primed TNT, droppers, dispensers, end portals, brewing stands, monster spawners, furnaces, ghast fireballs, wither skulls, taming, withers, lava (when raining), placing an eye of ender in an end portal frame, redstone torches burning out, food items on campfire.",
+    "zh": "火把、点燃的 TNT、漏斗、发射器、末地传送门、酿造台、刷怪笼、熔炉、恶魂火球、凋灵之首、驯服、凋灵、熔岩（下雨时）、在末地传送门上放置末影之眼、红石火把熄灭 ，营火上的食物。",
+    "vi": null
+  },
+  "options.particles.minecraft.sneeze": {
+    "en": "Sneeze",
+    "zh": "喷嚏",
+    "vi": null
+  },
+  "options.particles.minecraft.sneeze.tooltip": {
+    "en": "Baby pandas sneezing.",
+    "zh": "幼年熊猫的喷嚏粒子。",
+    "vi": null
+  },
+  "options.particles.minecraft.snowflake": {
+    "en": "Snowflake",
+    "zh": "雪花",
+    "vi": null
+  },
+  "options.particles.minecraft.snowflake.tooltip": {
+    "en": "Appears when sinking in powder snow.",
+    "zh": "当沉入细雪时出现。",
+    "vi": null
+  },
+  "options.particles.minecraft.sonic_boom": {
+    "en": "Sonic Boom",
+    "zh": "音波",
+    "vi": null
+  },
+  "options.particles.minecraft.sonic_boom.tooltip": {
+    "en": "Wardens casting sonic boom.",
+    "zh": "监守者发射的音波粒子。",
+    "vi": null
+  },
+  "options.particles.minecraft.soul": {
+    "en": "Soul",
+    "zh": "灵魂",
+    "vi": null
+  },
+  "options.particles.minecraft.soul.tooltip": {
+    "en": "Appears when walking on Soul Sand or Soul Soil with the Soul Speed Enchantment, when a Mob dies near a Sculk Catalyst.",
+    "zh": "穿戴灵魂疾行靴子的生物在灵魂沙或灵魂土上行走时出现的灵魂粒子 。",
+    "vi": null
+  },
+  "options.particles.minecraft.soul_fire_flame": {
+    "en": "Soul Fire Flame",
+    "zh": "灵魂火焰",
+    "vi": null
+  },
+  "options.particles.minecraft.soul_fire_flame.tooltip": {
+    "en": "Appears on top of soul torches as a flame.",
+    "zh": "以火焰的形式出现在灵魂火把之上。",
+    "vi": null
+  },
+  "options.particles.minecraft.spit": {
+    "en": "Spit",
+    "zh": "唾沫",
+    "vi": null
+  },
+  "options.particles.minecraft.spit.tooltip": {
+    "en": "Llamas spitting at a player or mob.",
+    "zh": "骆驼向玩家或生物吐口水。",
+    "vi": null
+  },
+  "options.particles.minecraft.splash": {
+    "en": "Splash",
+    "zh": "水花",
+    "vi": null
+  },
+  "options.particles.minecraft.splash.tooltip": {
+    "en": "Entities in water, wolves shaking off after swimming, boats.",
+    "zh": "水中的实体、离开水后的狼、船产生的水花粒子",
+    "vi": null
+  },
+  "options.particles.minecraft.spore_blossom_air": {
+    "en": "Spore Blossom Air",
+    "zh": "花孢子",
+    "vi": null
+  },
+  "options.particles.minecraft.spore_blossom_air.tooltip": {
+    "en": "Emits around a spore blossom.",
+    "zh": "在孢子花周围发散。",
+    "vi": null
+  },
+  "options.particles.minecraft.squid_ink": {
+    "en": "Squid Ink",
+    "zh": "墨汁",
+    "vi": null
+  },
+  "options.particles.minecraft.squid_ink.tooltip": {
+    "en": "Produced by squid when attacked.",
+    "zh": "鱿鱼受到攻击时产生。",
+    "vi": null
+  },
+  "options.particles.minecraft.sweep_attack": {
+    "en": "Sweep Attack",
+    "zh": "横扫攻击",
+    "vi": null
+  },
+  "options.particles.minecraft.sweep_attack.tooltip": {
+    "en": "A sword's sweep attack.",
+    "zh": "剑的横扫攻击。",
+    "vi": null
+  },
+  "options.particles.minecraft.totem_of_undying": {
+    "en": "Totem of Undying",
+    "zh": "不死图腾",
+    "vi": null
+  },
+  "options.particles.minecraft.totem_of_undying.tooltip": {
+    "en": "Totem of undying activating when player cheats death with it.",
+    "zh": "不死图腾在玩家用它免于死亡时激活出现的粒子。",
+    "vi": null
+  },
+  "options.particles.minecraft.trial_omen": {
+    "en": "Trial Omen",
+    "zh": "Trial Omen",
+    "vi": null
+  },
+  "options.particles.minecraft.trial_omen.tooltip": {
+    "en": "Produced by players and mobs with the Trial Omen effect.",
+    "zh": "Produced by players and mobs with the Trial Omen effect.",
+    "vi": null
+  },
+  "options.particles.minecraft.trial_spawner_detection": {
+    "en": "Trial Spawner Detection",
+    "zh": "试炼刷怪笼：充能",
+    "vi": null
+  },
+  "options.particles.minecraft.trial_spawner_detection.tooltip": {
+    "en": "Produced when a Trial Spawner is activated.",
+    "zh": "试炼刷怪笼检测到玩家靠近",
+    "vi": null
+  },
+  "options.particles.minecraft.trial_spawner_detection_ominous": {
+    "en": "Trial Spawner Detection Omnius",
+    "zh": "Trial Spawner Detection Omnius",
+    "vi": null
+  },
+  "options.particles.minecraft.trial_spawner_detection_ominous.tooltip": {
+    "en": "Produced when a Ominous Trial Spawner is activated.",
+    "zh": "Produced when a Ominous Trial Spawner is activated.",
+    "vi": null
+  },
+  "options.particles.minecraft.underwater": {
+    "en": "Underwater",
+    "zh": "水下",
+    "vi": null
+  },
+  "options.particles.minecraft.underwater.tooltip": {
+    "en": "Seen while underwater.",
+    "zh": "在水下时可见。",
+    "vi": null
+  },
+  "options.particles.minecraft.vault_connection": {
+    "en": "Vault Connection",
+    "zh": "Vault Connection",
+    "vi": null
+  },
+  "options.particles.minecraft.vault_connection.tooltip": {
+    "en": "Produced when a player is near a vault.",
+    "zh": "Produced when a player is near a vault.",
+    "vi": null
+  },
+  "options.particles.minecraft.vibration": {
+    "en": "Vibration",
+    "zh": "振动",
+    "vi": null
+  },
+  "options.particles.minecraft.vibration.tooltip": {
+    "en": "Sculk sensor gets triggered.",
+    "zh": "幽匿感测体被触发。",
+    "vi": null
+  },
+  "options.particles.minecraft.warped_spore": {
+    "en": "Warped Spore",
+    "zh": "诡异孢子",
+    "vi": null
+  },
+  "options.particles.minecraft.warped_spore.tooltip": {
+    "en": "A warped particle generated in warped forest biome environment.",
+    "zh": "诡异粒子在诡异森林生物群系环境中生成。",
+    "vi": null
+  },
+  "options.particles.minecraft.wax_off": {
+    "en": "Wax Off",
+    "zh": "除蜡",
+    "vi": null
+  },
+  "options.particles.minecraft.wax_off.tooltip": {
+    "en": "Appears when removing wax from a copper block.",
+    "zh": "为铜块除蜡时出现。",
+    "vi": null
+  },
+  "options.particles.minecraft.wax_on": {
+    "en": "Wax On",
+    "zh": "涂蜡",
+    "vi": null
+  },
+  "options.particles.minecraft.wax_on.tooltip": {
+    "en": "Appears when waxing a copper block with honeycomb.",
+    "zh": "用蜜脾给铜块涂蜡时出现。",
+    "vi": null
+  },
+  "options.particles.minecraft.white_ash": {
+    "en": "White Ash",
+    "zh": "白灰",
+    "vi": null
+  },
+  "options.particles.minecraft.white_ash.tooltip": {
+    "en": "Naturally generated in basalt deltas biome environment.",
+    "zh": "在玄武岩三角洲生物群系环境中自然生成。",
+    "vi": null
+  },
+  "options.particles.minecraft.white_smoke": {
+    "en": "White Smoke",
+    "zh": "白烟",
+    "vi": null
+  },
+  "options.particles.minecraft.white_smoke.tooltip": {
+    "en": "",
+    "zh": "合成器掷出物品时的白烟",
+    "vi": null
+  },
+  "options.particles.minecraft.witch": {
+    "en": "Witch",
+    "zh": "女巫",
+    "vi": null
+  },
+  "options.particles.minecraft.witch.tooltip": {
+    "en": "Witch.",
+    "zh": "女巫产生的粒子。",
+    "vi": null
+  },
+  "sodium-extra.option.advanced_item_tooltips": {
+    "en": "Advanced Item Tooltips",
+    "zh": "高级物品信息提示",
+    "vi": null
+  },
+  "sodium-extra.option.advanced_item_tooltips.tooltip": {
+    "en": "If enabled, tooltips for items will display the identifier and durability.",
+    "zh": "物品的工具提示将会显示ID和耐久值",
+    "vi": null
+  },
+  "sodium-extra.option.advancement_toast": {
+    "en": "Advancement Toasts",
+    "zh": "进度弹窗提示",
+    "vi": null
+  },
+  "sodium-extra.option.advancement_toast.tooltip": {
+    "en": "If enabled, advancement popups will be displayed.",
+    "zh": "显示进度的弹窗提示",
+    "vi": null
+  },
+  "sodium-extra.option.animate_fire.tooltip": {
+    "en": "If enabled, fire animations are processed.",
+    "zh": "开启或关闭火焰动画",
+    "vi": null
+  },
+  "sodium-extra.option.animate_lava.tooltip": {
+    "en": "If enabled, lava animations are processed.",
+    "zh": "开启或关闭岩浆动画",
+    "vi": null
+  },
+  "sodium-extra.option.animate_portal.tooltip": {
+    "en": "If enabled, portal animations are processed.",
+    "zh": "开启或关闭传送门动画",
+    "vi": null
+  },
+  "sodium-extra.option.animate_sculk_sensor.tooltip": {
+    "en": "If enabled, sculk sensor animations are processed.",
+    "zh": "开启或关闭幽匿感测体动画",
+    "vi": null
+  },
+  "sodium-extra.option.animate_water.tooltip": {
+    "en": "If enabled, water animations are processed.",
+    "zh": "开启或关闭水面动画",
+    "vi": null
+  },
+  "sodium-extra.option.animations": {
+    "en": "Animations",
+    "zh": "动画",
+    "vi": null
+  },
+  "sodium-extra.option.animations_all.tooltip": {
+    "en": "If enabled, animations are processed.",
+    "zh": "开启或关闭全部动画",
+    "vi": null
+  },
+  "sodium-extra.option.armor_stands.tooltip": {
+    "en": "If enabled, armor stands are rendered.",
+    "zh": "开启或关闭渲染盔甲架",
+    "vi": null
+  },
+  "sodium-extra.option.beacon_beam": {
+    "en": "Beacon Beam",
+    "zh": "信标光束",
+    "vi": null
+  },
+  "sodium-extra.option.beacon_beam.tooltip": {
+    "en": "If enabled, beacon beams are rendered.",
+    "zh": "开启或关闭渲染信标光束",
+    "vi": null
+  },
+  "sodium-extra.option.biome_colors": {
+    "en": "Biome Colors",
+    "zh": "群系颜色",
+    "vi": null
+  },
+  "sodium-extra.option.biome_colors.tooltip": {
+    "en": "If enabled, biome colors are changed based on the biome.",
+    "zh": "生物群系颜色根据生物群系变化",
+    "vi": null
+  },
+  "sodium-extra.option.block_animations": {
+    "en": "Block Animations",
+    "zh": "方块动画",
+    "vi": null
+  },
+  "sodium-extra.option.block_animations.tooltip": {
+    "en": "If enabled, block animations are processed.",
+    "zh": "开启或关闭方块动画",
+    "vi": null
+  },
+  "sodium-extra.option.block_break.tooltip": {
+    "en": "If enabled, block break particles are processed.",
+    "zh": "开启或关闭方块破坏粒子",
+    "vi": null
+  },
+  "sodium-extra.option.block_breaking.tooltip": {
+    "en": "If enabled, block breaking particles are processed.",
+    "zh": "开启或关闭方块破坏中粒子",
+    "vi": null
+  },
+  "sodium-extra.option.cloud_distance": {
+    "en": "Cloud Distance",
+    "zh": "云层距离",
+    "vi": null
+  },
+  "sodium-extra.option.cloud_distance.tooltip": {
+    "en": "Controls the distance away from the player that clouds are rendered.",
+    "zh": "调整云层相对玩家能渲染多远",
+    "vi": null
+  },
+  "sodium-extra.option.cloud_height": {
+    "en": "Cloud Height",
+    "zh": "云层高度",
+    "vi": null
+  },
+  "sodium-extra.option.cloud_height.tooltip": {
+    "en": "Controls the height of clouds that are rendered.",
+    "zh": "调整云层的高度",
+    "vi": null
+  },
+  "sodium-extra.option.details": {
+    "en": "Details",
+    "zh": "细节",
+    "vi": null
+  },
+  "sodium-extra.option.enchanting_table_book": {
+    "en": "Enchanting Table Book",
+    "zh": "附魔台上的书",
+    "vi": null
+  },
+  "sodium-extra.option.enchanting_table_book.tooltip": {
+    "en": "If enabled, enchanting table books are rendered.",
+    "zh": "开启或关闭附魔台上的书的渲染",
+    "vi": null
+  },
+  "sodium-extra.option.extras": {
+    "en": "Extras",
+    "zh": "其他",
+    "vi": null
+  },
+  "sodium-extra.option.fog_type": {
+    "en": "Fog modify type",
+    "zh": "雾的修改类型",
+    "vi": null
+  },
+  "sodium-extra.option.fog_type.tooltip": {
+    "en": "Sets how the fog should be modified. \nDefault - Just like sodium-extra\nMod Compat - Via the forge event, will provide better compatibility with mods (originally, fix for #48)\n\nWARNING!\nWhen using Mod Compat, the fog settings may be ignored! This is not a bug!",
+    "zh": "设置修改雾的方式。\n默认 - 和钠·扩展（Embeddium Extra）一样\n模组兼容 - 通过Forge事件修改雾，将会更兼容其他模组（本是为了修复 #48）\n\n警告！\n使用“模组兼容”时，雾设置可能会被忽略！这不是错误！",
+    "vi": null
+  },
+  "sodium-extra.option.fog_type.default": {
+    "en": "Default",
+    "zh": "默认",
+    "vi": null
+  },
+  "sodium-extra.option.fog_type.mod_compat": {
+    "en": "Mod Compat",
+    "zh": "模组兼容",
+    "vi": null
+  },
+  "sodium-extra.option.fog": {
+    "en": "%s Fog",
+    "zh": "%s的雾",
+    "vi": null
+  },
+  "sodium-extra.option.fog.tooltip": {
+    "en": "Adjusts the fog effect distance on the terrain per dimension. Disable Multi Dimension Fog to control fog using Single Fog \n0 - use vanilla fog settings\n1-32 - set fog distance in chunks\n33 - max fog distance (essentially disables fog)",
+    "zh": "调整此维度的地形迷雾效果距离。禁用多维度迷雾来控制全局迷雾。\n0 - 使用原版迷雾设置\n1-32 - 以区块为单位设置迷雾距离\n33 - 最大迷雾距离（基本上等于禁用迷雾）",
+    "vi": null
+  },
+  "sodium-extra.option.fog_start": {
+    "en": "Fog Start Multiplier",
+    "zh": "迷雾起始点",
+    "vi": null
+  },
+  "sodium-extra.option.fog_start.tooltip": {
+    "en": "Adjusts when the terrain fog begins to render for the player.",
+    "zh": "调整地形迷雾相对于玩家开始渲染的距离",
+    "vi": null
+  },
+  "sodium-extra.option.instant_sneak": {
+    "en": "Instant Sneak",
+    "zh": "直接潜行",
+    "vi": null
+  },
+  "sodium-extra.option.instant_sneak.tooltip": {
+    "en": "If enabled, the camera will not lerp upon sneaking.",
+    "zh": "潜行时视角直接下移而不是缓慢地",
+    "vi": null
+  },
+  "sodium-extra.option.item_frame_name_tag": {
+    "en": "Item Frame Name Tag",
+    "zh": "物品展示框名称标签",
+    "vi": null
+  },
+  "sodium-extra.option.item_frame_name_tag.tooltip": {
+    "en": "If enabled, item frame name tags will be visible.",
+    "zh": "开启或关闭显示物品展示框名称标签",
+    "vi": null
+  },
+  "sodium-extra.option.item_frames.tooltip": {
+    "en": "If enabled, item frames are rendered.",
+    "zh": "开启或关闭显示物品展示框",
+    "vi": null
+  },
+  "sodium-extra.option.light_updates": {
+    "en": "Light Updates",
+    "zh": "光照更新",
+    "vi": null
+  },
+  "sodium-extra.option.light_updates.tooltip": {
+    "en": "If enabled, lighting updates will be processed. If disabled, this can affect lighting when generating new chunks. Only disable this if you know what you are doing.",
+    "zh": "处理光照更新",
+    "vi": null
+  },
+  "sodium-extra.option.linear_flat_color_blender": {
+    "en": "Use Linear Flat Color Blender",
+    "zh": "使用线性扁平色彩混合",
+    "vi": null
+  },
+  "sodium-extra.option.linear_flat_color_blender.tooltip": {
+    "en": "Applies linear color biome blend without linear color blended block faces.",
+    "zh": "适用于线性色彩混合生物群系，不适用于线性色彩混合方块表面",
+    "vi": null
+  },
+  "sodium-extra.option.multi_dimension_fog": {
+    "en": "Multi Dimension Fog",
+    "zh": "多维度迷雾",
+    "vi": null
+  },
+  "sodium-extra.option.multi_dimension_fog.tooltip": {
+    "en": "If enabled, per dimension fog sliders will be processed. If disabled, single fog slider will be processed. Upon changing this option user will need to leave menu and reenter to see fog sliders.",
+    "zh": "开启或关闭多维度迷雾滑块（需重进界面查看）",
+    "vi": null
+  },
+  "sodium-extra.option.overlay_corner": {
+    "en": "Overlay Corner",
+    "zh": "叠加层位置",
+    "vi": null
+  },
+  "sodium-extra.option.overlay_corner.bottom_left": {
+    "en": "Bottom Left",
+    "zh": "左下",
+    "vi": null
+  },
+  "sodium-extra.option.overlay_corner.bottom_right": {
+    "en": "Bottom Right",
+    "zh": "右下",
+    "vi": null
+  },
+  "sodium-extra.option.overlay_corner.tooltip": {
+    "en": "Determines which corner of the screen the overlay (FPS and Coordinates) will be rendered.",
+    "zh": "确定将在屏幕的哪个角渲染叠加层（FPS 和坐标）。",
+    "vi": null
+  },
+  "sodium-extra.option.overlay_corner.top_left": {
+    "en": "Top Left",
+    "zh": "左上",
+    "vi": null
+  },
+  "sodium-extra.option.overlay_corner.top_right": {
+    "en": "Top Right",
+    "zh": "右上",
+    "vi": null
+  },
+  "sodium-extra.option.paintings.tooltip": {
+    "en": "If enabled, paintings are rendered.",
+    "zh": "开启或关闭显示画",
+    "vi": null
+  },
+  "sodium-extra.option.particles.tooltips": {
+    "en": "If enabled, %s particles are processed.",
+    "zh": "开启或关闭%s粒子效果",
+    "vi": null
+  },
+  "sodium-extra.option.particles_all.tooltip": {
+    "en": "If enabled, particles are processed.",
+    "zh": "开启或关闭全部粒子效果",
+    "vi": null
+  },
+  "sodium-extra.option.piston.tooltip": {
+    "en": "If enabled, piston extending animations are rendered.",
+    "zh": "开启或关闭渲染活塞伸缩动画",
+    "vi": null
+  },
+  "sodium-extra.option.player_name_tag": {
+    "en": "Player Name Tag",
+    "zh": "玩家名称标签",
+    "vi": null
+  },
+  "sodium-extra.option.player_name_tag.tooltip": {
+    "en": "If enabled, player name tags will be visible.",
+    "zh": "开启或关闭显示玩家名称标签",
+    "vi": null
+  },
+  "sodium-extra.option.prevent_shaders": {
+    "en": "Prevent Shaders",
+    "zh": "禁止着色器",
+    "vi": null
+  },
+  "sodium-extra.option.prevent_shaders.tooltip": {
+    "en": "If enabled, any type of vanilla shaders will be prevented from loading. For example, the distorted view when spectating from a spider's point of view.",
+    "zh": "禁止加载任何类型的着色器。例如，从蜘蛛的旁观视角的扭曲效果。",
+    "vi": null
+  },
+  "sodium-extra.option.rain_snow.tooltip": {
+    "en": "If enabled, rain & snow are rendered.",
+    "zh": "如果启用，则会渲染雨和雪。",
+    "vi": null
+  },
+  "sodium-extra.option.rain_splash.tooltip": {
+    "en": "If enabled, rain splash particles are rendered.",
+    "zh": "如果启用，将会渲染雨水飞溅粒子。",
+    "vi": null
+  },
+  "sodium-extra.option.recipe_toast": {
+    "en": "Recipe Toasts",
+    "zh": "配方弹窗提示",
+    "vi": null
+  },
+  "sodium-extra.option.recipe_toast.tooltip": {
+    "en": "If enabled, recipe popups will be displayed.",
+    "zh": "显示配方的弹窗提示",
+    "vi": null
+  },
+  "sodium-extra.option.reduce_resolution_on_mac": {
+    "en": "Reduce Resolution on macOS",
+    "zh": "在 macOS 上降低分辨率",
+    "vi": null
+  },
+  "sodium-extra.option.reduce_resolution_on_mac.tooltip": {
+    "en": "Use half the resolution on retina displays, vastly improving performance on macOS.\nModifying this option will require a game restart.",
+    "zh": "在 Retina Displays 上使用一半的分辨率，能大幅提高在 macOS 上的性能。\n更改此选项后需要重新启动游戏。",
+    "vi": null
+  },
+  "sodium-extra.option.render": {
+    "en": "Render",
+    "zh": "显示",
+    "vi": null
+  },
+  "sodium-extra.option.resolution.tooltip": {
+    "en": "Determines the resolution of the game when in fullscreen.",
+    "zh": "设置游戏的分辨率",
+    "vi": null
+  },
+  "sodium-extra.option.show_coordinates": {
+    "en": "Show Coordinates",
+    "zh": "显示坐标",
+    "vi": null
+  },
+  "sodium-extra.option.show_coordinates.tooltip": {
+    "en": "Displays player coordinates on the overlay.",
+    "zh": "在叠加层上显示坐标",
+    "vi": null
+  },
+  "sodium-extra.option.show_fps": {
+    "en": "Show FPS",
+    "zh": "显示FPS",
+    "vi": null
+  },
+  "sodium-extra.option.show_fps.tooltip": {
+    "en": "Displays the current FPS of the game on the overlay.",
+    "zh": "在叠加层上显示当前、最大、平均以及最小的FPS",
+    "vi": null
+  },
+  "sodium-extra.option.show_fps_extended": {
+    "en": "Show FPS Extended",
+    "zh": "显示FPS拓展",
+    "vi": null
+  },
+  "sodium-extra.option.show_fps_extended.tooltip": {
+    "en": "Displays in additional information (max, average, and min FPS) alongside current FPS on the overlay.",
+    "zh": "在叠加层上显示当前 FPS 以及附加信息（最大、平均和最小 FPS）。",
+    "vi": null
+  },
+  "sodium-extra.option.single_fog": {
+    "en": "Single Fog",
+    "zh": "全局迷雾",
+    "vi": null
+  },
+  "sodium-extra.option.single_fog.tooltip": {
+    "en": "Adjusts the fog effect distance on the terrain for all dimensions. Enable Multi Dimension Fog to control fog per dimension. \n0 - use vanilla fog settings\n1-32 - set fog distance in chunks\n33 - max fog distance (essentially disables fog)",
+    "zh": "调整所有维度地形上的迷雾效果距离。 启用多维度迷雾来控制每个维度。\n0 - 使用原版迷雾设置\n1-32 - 以区块为单位设置迷雾距离\n33 - 最大迷雾距离（基本上禁用迷雾）",
+    "vi": null
+  },
+  "sodium-extra.option.sky": {
+    "en": "Sky",
+    "zh": "天空",
+    "vi": null
+  },
+  "sodium-extra.option.sky.tooltip": {
+    "en": "If enabled, the sky will be rendered.",
+    "zh": "开启或关闭天空渲染.",
+    "vi": null
+  },
+  "sodium-extra.option.sky_colors": {
+    "en": "Sky Colors",
+    "zh": "天空颜色",
+    "vi": null
+  },
+  "sodium-extra.option.sky_colors.tooltip": {
+    "en": "If enabled, sky colors are changed based on the biome.",
+    "zh": "根据生物群系改变天空颜色",
+    "vi": null
+  },
+  "sodium-extra.option.stars": {
+    "en": "Stars",
+    "zh": "星星",
+    "vi": null
+  },
+  "sodium-extra.option.stars.tooltip": {
+    "en": "If enabled, the stars will be rendered.",
+    "zh": "开启或关闭星星渲染",
+    "vi": null
+  },
+  "sodium-extra.option.steady_debug_hud": {
+    "en": "Steady Debug Hud",
+    "zh": "调试界面稳定化",
+    "vi": null
+  },
+  "sodium-extra.option.steady_debug_hud.tooltip": {
+    "en": "If enabled, the debug hud will be refreshed at a certain amount of ticks configured by the Steady Debug Hud Refresh Rate.",
+    "zh": "启用后，调试界面将会根据调试界面刷新率配置的刻值进行刷新。",
+    "vi": null
+  },
+  "sodium-extra.option.steady_debug_hud_refresh_interval": {
+    "en": "Steady Debug Hud Refresh Interval",
+    "zh": "调试界面刷新间隔",
+    "vi": null
+  },
+  "sodium-extra.option.steady_debug_hud_refresh_interval.tooltip": {
+    "en": "Adjusts the interval of when the debug hud will be refreshed in ticks.",
+    "zh": "调整调试界面刷新的时间间隔",
+    "vi": null
+  },
+  "sodium-extra.option.sun_moon": {
+    "en": "Sun & Moon",
+    "zh": "太阳和月亮",
+    "vi": null
+  },
+  "sodium-extra.option.sun_moon.tooltip": {
+    "en": "If enabled, the sun and moon will be rendered.",
+    "zh": "开启或关闭太阳和月亮的渲染",
+    "vi": null
+  },
+  "sodium-extra.option.system_toast": {
+    "en": "System Toasts",
+    "zh": "系统弹窗提示",
+    "vi": null
+  },
+  "sodium-extra.option.system_toast.tooltip": {
+    "en": "If enabled, system popups will be displayed.",
+    "zh": "显示系统的弹窗提示",
+    "vi": null
+  },
+  "sodium-extra.option.text_contrast": {
+    "en": "Text Contrast",
+    "zh": "文本对比度",
+    "vi": null
+  },
+  "sodium-extra.option.text_contrast.background": {
+    "en": "Background",
+    "zh": "背景",
+    "vi": null
+  },
+  "sodium-extra.option.text_contrast.none": {
+    "en": "None",
+    "zh": "无",
+    "vi": null
+  },
+  "sodium-extra.option.text_contrast.shadow": {
+    "en": "Shadow",
+    "zh": "阴影",
+    "vi": null
+  },
+  "sodium-extra.option.text_contrast.tooltip": {
+    "en": "Adjusts the contrast of the FPS/Coordinates counter.\n- None: Default plain white text\n- Background: Renders a background to the text like the debug menu\n- Shadow: Plain white text with shadow",
+    "zh": "调整FPS/坐标的对比度\n- 无：默认白色文本\n- 背景：像调试菜单背景一样渲染文本背景\n- 阴影：有阴影的白色文本",
+    "vi": null
+  },
+  "sodium-extra.option.toasts": {
+    "en": "Toasts",
+    "zh": "弹窗提示",
+    "vi": null
+  },
+  "sodium-extra.option.toasts.tooltip": {
+    "en": "If enabled, advancement and crafting recipe popups will be displayed.",
+    "zh": "显示进度和合成配方的弹窗提示",
+    "vi": null
+  },
+  "sodium-extra.option.tutorial_toast": {
+    "en": "Tutorial Toasts",
+    "zh": "教程弹窗提示",
+    "vi": null
+  },
+  "sodium-extra.option.tutorial_toast.tooltip": {
+    "en": "If enabled, tutorial popups will be displayed.",
+    "zh": "显示教程的弹窗提示",
+    "vi": null
+  },
+  "sodium-extra.option.use_adaptive_sync.name": {
+    "en": "Adaptive",
+    "zh": "自适应",
+    "vi": null
+  },
+  "sodium-extra.option.use_adaptive_sync.tooltip": {
+    "en": "If enabled, V-Sync will be able to swap mid-frame and disable itself at times, usually notably helping responsiveness. May cause issues with some GPU drivers.",
+    "zh": "如果启用，垂直同步将能够交换中间帧，并有时禁用自己，通常有助于响应。可能会与一些GPU驱动程序发生问题。",
+    "vi": null
+  },
+  "sodium-extra.option.use_fast_random": {
+    "en": "Use Fast Random",
+    "zh": "快速随机纹理",
+    "vi": null
+  },
+  "sodium-extra.option.use_fast_random.tooltip": {
+    "en": "If enabled, a fast random function will be used for block rendering. This can affect the rotation of randomly rotated textures when compared to vanilla.",
+    "zh": "启用后, 将使用快速随机函数来渲染方块。\n与原版相比, 这会影响随机旋转纹理的旋转方向。",
+    "vi": null
+  },
+  "sodium-extra.overlay.coordinates": {
+    "en": "X: %s, Y: %s, Z: %s",
+    "zh": "X: %s, Y: %s, Z: %s",
+    "vi": null
+  },
+  "sodium-extra.overlay.fps": {
+    "en": "%s FPS",
+    "zh": "%s FPS",
+    "vi": null
+  },
+  "sodium-extra.overlay.fps_extended": {
+    "en": "(max. %s / avg. %s / min. %s)",
+    "zh": "(最大. %s / 平均. %s / 最小. %s)",
+    "vi": null
+  },
+  "sodium-extra.overlay.light_updates": {
+    "en": "Light updates disabled",
+    "zh": "光照更新已禁用",
+    "vi": null
+  },
+  "sodium-extra.suggestRSO.header": {
+    "en": "Suggestion: Install Reese's Embeddium Options",
+    "zh": "建议: 安装Reese's Embeddium Options",
+    "vi": null
+  },
+  "sodium-extra.suggestRSO.message": {
+    "en": "It is highly recommended you install Reese's Embeddium Options alongside Embeddium Extra. Due to the growing amount of features, it no longer fits properly on Embeddium's video options.",
+    "zh": "强烈建议您在安装Embeddium Extra的同时安装Reese's Embeddium Options。由于越来越多的功能，它不再适合Embeddium的视频设置。",
+    "vi": null
+  },
+  "sodium-extra.units.ticks": {
+    "en": "%s tick(s)",
+    "zh": "%s 刻",
+    "vi": null
+  }
+}

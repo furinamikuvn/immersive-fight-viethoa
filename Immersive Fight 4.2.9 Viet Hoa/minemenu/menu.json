@@ -1,0 +1,124 @@
+{
+  "main": {
+    "0": {
+      "title": "\u6253\u5f00\u5b58\u50a8\u7f51\u7edc",
+      "icon": {
+        "stack": "{Count:1b,id:\"beyonddimensions:net_terminal_item\"}"
+      },
+      "action": {
+        "key": {
+          "key": "key.beyonddimensions.open_gui",
+          "toggle": false
+        }
+      }
+    },
+    "1": {
+      "title": "\u5929\u8d4b\u6811\u754c\u9762",
+      "icon": {
+        "stack": "{Count:1b,id:\"aquamirae:dead_sea_scroll\"}"
+      },
+      "action": {
+        "key": {
+          "key": "key.puffish_skills.open",
+          "toggle": false
+        }
+      }
+    },
+    "2": {
+      "title": "\u7ba1\u7406\u6218\u6597\u6280\u80fd",
+      "icon": {
+        "stack": "{Count:1b,id:\"epicfight:skillbook\"}"
+      },
+      "action": {
+        "key": {
+          "key": "key.epicfight.skill_gui",
+          "toggle": false
+        }
+      }
+    },
+    "3": {
+      "title": "\u3010\u5f00/\u5173\u3011\u540e\u80cc\u6b66\u5668\u663e\u793a",
+      "icon": {
+        "stack": "{Count:1b,id:\"fantasy_armor:old_knight_chestplate\",tag:{Damage:0}}"
+      },
+      "action": {
+        "key": {
+          "key": "key.fight_more.toggle_back_render",
+          "toggle": false
+        }
+      }
+    },
+    "4": {
+      "title": "\u3010\u5f00/\u5173\u3011\u5feb\u6377\u680f\u81ea\u52a8\u9690\u85cf",
+      "icon": {
+        "stack": "{Count:1b,id:\"itemfilters:tag\"}"
+      },
+      "action": {
+        "key": {
+          "key": "key.autohud.toggle-hud",
+          "toggle": false
+        }
+      }
+    },
+    "5": {
+      "title": "\u6253\u5f00\u4efb\u52a1\u4e66",
+      "icon": {
+        "stack": "{Count:1b,id:\"ftbquests:book\"}"
+      },
+      "action": {
+        "key": {
+          "key": "key.ftbquests.quests",
+          "toggle": false
+        }
+      }
+    },
+    "6": {
+      "title": "\u3010\u5f00/\u5173\u3011\u5149\u5f71",
+      "icon": {
+        "stack": "{Count:1b,id:\"minecraft:lantern\"}"
+      },
+      "action": {
+        "key": {
+          "key": "iris.keybind.toggleShaders",
+          "toggle": false
+        }
+      }
+    },
+    "7": {
+      "title": "RPG\u4efb\u52a1\u65e5\u5fd7",
+      "icon": {
+        "stack": "{Count:1b,id:\"realmrpg_quests:quest_book\"}"
+      },
+      "action": {
+        "key": {
+          "key": "key.realmrpg_quests.quest_book_hotkey",
+          "toggle": false
+        }
+      }
+    },
+    "8": {
+      "title": "\u3010\u5f00/\u5173\u3011\u5de6\u4fa7\u4efb\u52a1\u663e\u793a",
+      "icon": {
+        "stack": "{Count:1b,id:\"minecraft:writable_book\"}"
+      },
+      "action": {
+        "key": {
+          "key": "key.realmrpg_quests.quest_tracking_hotkey",
+          "toggle": false
+        }
+      }
+    },
+    "9": {
+      "title": "\u8fd4\u56de\u6b7b\u4ea1\u5730\u70b9",
+      "icon": {
+        "stack": "{Count:1b,id:\"born_in_chaos_v1:shattered_skull\"}"
+      },
+      "action": {
+        "command": {
+          "command": "/back",
+          "clipboard": false
+        }
+      }
+    }
+  }
+}

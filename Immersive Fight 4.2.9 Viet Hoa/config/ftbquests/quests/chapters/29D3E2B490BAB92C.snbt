@@ -1,0 +1,895 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	disable_toast: true
+	filename: "29D3E2B490BAB92C"
+	group: "27EE47AB69EC29B4"
+	icon: "block_factorys_bosses:dragon_skull"
+	id: "29D3E2B490BAB92C"
+	images: [{
+		click: "https://www.mcmod.cn/item/list/21050-4.html"
+		height: 1.0d
+		hover: ["Bấm để mở trang bách khoa toàn thư"]
+		image: "ftbteams:textures/alian.png"
+		rotation: 0.0d
+		width: 1.0d
+		x: 1.5d
+		y: -0.5d
+	}]
+	order_index: 3
+	quest_links: [ ]
+	quests: [
+		{
+			description: [
+				"Kích thước: Thế giới bên kia"
+				"Cấu trúc: Lâu đài Wyvern"
+				""
+				"Có trạng thái bay và yêu cầu vũ khí tầm xa."
+			]
+			disable_toast: true
+			entity_vis_size: 1.0f
+			icon: "block_factorys_bosses:infernal_dragon_spawn_egg"
+			id: "56D1824AB98B329D"
+			tasks: [{
+				advancement: "block_factorys_bosses:kill_dragon"
+				criterion: ""
+				disable_toast: true
+				id: "244E3A3DF1338A0F"
+				title: "Giết con rồng địa ngục"
+				type: "advancement"
+			}]
+			x: -1.5d
+			y: -0.5d
+		}
+		{
+			description: [
+				"Kích thước: Thế giới bên kia"
+				"Cấu trúc: Hang giun cát"
+				""
+				"Sở hữu đặc tính có độc tính cao"
+				"Có thể làm vòng chống độc &a (có thể tổng hợp được) &r sẽ giúp ích cho bạn"
+			]
+			disable_toast: true
+			entity_vis_size: 1.0f
+			icon: "block_factorys_bosses:sandworm_spawn_egg"
+			id: "1EA7F089C0ED4728"
+			tasks: [{
+				advancement: "block_factorys_bosses:kill_sandworm"
+				criterion: ""
+				disable_toast: true
+				id: "67E6246A15B9826C"
+				title: "Tiêu diệt giun cát"
+				type: "advancement"
+			}]
+			x: -2.5d
+			y: -0.5d
+		}
+		{
+			description: [
+				"Kích thước: Thế giới bên kia"
+				"Cấu trúc: Hang Yeti"
+			]
+			disable_toast: true
+			entity_vis_size: 1.0f
+			icon: "block_factorys_bosses:yeti_spawn_egg"
+			id: "139591E88B8844E8"
+			tasks: [{
+				advancement: "block_factorys_bosses:kill_yeti"
+				criterion: ""
+				disable_toast: true
+				id: "4C7E038A105DB794"
+				title: "Tiêu diệt quái vật tuyết"
+				type: "advancement"
+			}]
+			x: -3.5d
+			y: -0.5d
+		}
+		{
+			description: [
+				"Kích thước: Nether"
+				"Cấu trúc: Đấu trường thế giới ngầm"
+				""
+				"Nó bất khả chiến bại và chỉ có thể tấn công vào những điểm yếu phát sáng để gây sát thương."
+			]
+			disable_toast: true
+			entity_vis_size: 1.0f
+			icon: "block_factorys_bosses:underworld_knight_spawn_egg"
+			id: "4D89A350B353EE0F"
+			tasks: [{
+				advancement: "block_factorys_bosses:kill_underworld_knight"
+				criterion: ""
+				disable_toast: true
+				id: "66B072734D118EF5"
+				title: "Giết hiệp sĩ ma"
+				type: "advancement"
+			}]
+			x: -0.5d
+			y: -0.5d
+		}
+		{
+			description: [
+				"Kích thước: Thế giới bên kia"
+				"Yêu cầu &b băng xanh &r triệu hồi bàn thờ nhấp chuột phải"
+				"&8&o[Bàn thờ sẽ tự động phục hồi sau khi giết và thử thách có thể được lặp lại]&r&r"
+			]
+			entity_vis_size: 1.0f
+			icon: "monsterexpansion:hoarfrost_shard"
+			id: "3A5B98FB7FB3D88B"
+			tasks: [{
+				disable_toast: true
+				entity: "monsterexpansion:leivekilth"
+				entity_use_tag: false
+				entity_vis_idle_mode: "USE_GLOBAL"
+				entity_vis_offset_x: 0.0f
+				entity_vis_offset_y: 0.0f
+				entity_vis_rotation: 0.0f
+				entity_vis_silhouette_mode: "NONE"
+				entity_vis_size: 1.0f
+				entity_vis_spin_mode: "USE_GLOBAL"
+				entity_vis_use_as_quest_icon: false
+				entity_vis_walk_mode: "USE_GLOBAL"
+				id: "52D0D7EB0FD9AB13"
+				type: "kill"
+				value: 1L
+			}]
+			x: -1.0d
+			y: 1.0d
+		}
+		{
+			description: [
+				"Kích thước: Kết thúc"
+				"Yêu cầu xương &b &r triệu hồi bàn thờ nhấp chuột phải"
+				"&8&o[Bàn thờ sẽ tự động phục hồi sau khi giết và thử thách có thể được lặp lại]&r&r"
+			]
+			entity_vis_size: 1.0f
+			id: "0BB6EB8E128006CC"
+			tasks: [{
+				disable_toast: true
+				entity: "monsterexpansion:rhyza"
+				entity_use_tag: false
+				entity_vis_idle_mode: "USE_GLOBAL"
+				entity_vis_offset_x: 0.0f
+				entity_vis_offset_y: 0.0f
+				entity_vis_rotation: 0.0f
+				entity_vis_silhouette_mode: "NONE"
+				entity_vis_size: 1.0f
+				entity_vis_spin_mode: "USE_GLOBAL"
+				entity_vis_use_as_quest_icon: false
+				entity_vis_walk_mode: "USE_GLOBAL"
+				icon: "monsterexpansion:rhyza_fur"
+				id: "76E9782F32FC14F3"
+				type: "kill"
+				value: 1L
+			}]
+			x: -4.0d
+			y: 1.0d
+		}
+		{
+			description: [
+				"Kích thước: Kết thúc"
+				"Yêu cầu triệu hồi bàn thờ bằng kim cương &b &r nhấp chuột phải"
+				"&8&o[Bàn thờ sẽ tự động phục hồi sau khi giết và thử thách có thể được lặp lại]&r&r"
+			]
+			entity_vis_size: 1.0f
+			id: "5211A6BE383888A9"
+			tasks: [{
+				disable_toast: true
+				entity: "monsterexpansion:skrythe"
+				entity_use_tag: false
+				entity_vis_idle_mode: "USE_GLOBAL"
+				entity_vis_offset_x: 0.0f
+				entity_vis_offset_y: 0.0f
+				entity_vis_rotation: 0.0f
+				entity_vis_silhouette_mode: "NONE"
+				entity_vis_size: 1.0f
+				entity_vis_spin_mode: "USE_GLOBAL"
+				entity_vis_use_as_quest_icon: false
+				entity_vis_walk_mode: "USE_GLOBAL"
+				icon: "monsterexpansion:skrythe_frill"
+				id: "6C1355DE1DA934A6"
+				type: "kill"
+				value: 1L
+			}]
+			x: -2.5d
+			y: 1.0d
+		}
+		{
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "monsterexpansion:rhyza_helmet"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "371BD33C839F7FF8"
+			shape: "square"
+			tasks: [
+				{
+					id: "7B7A98B7674DD9D4"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "monsterexpansion:rhyza_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "78302AF18F91EBB3"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "monsterexpansion:rhyza_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "38B017CAD9FD0FA4"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "monsterexpansion:rhyza_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "181CAD2E5DF05651"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "monsterexpansion:rhyza_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: -4.0d
+			y: 2.0d
+		}
+		{
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "monsterexpansion:leivekilth_helmet"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "63605C8C0ABF69C4"
+			shape: "square"
+			tasks: [
+				{
+					id: "2B0624FAE673DBCC"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "monsterexpansion:leivekilth_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "0C990F834510B612"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "monsterexpansion:leivekilth_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "0B5C3AD9B3E34E43"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "monsterexpansion:leivekilth_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "4C6B5B6217037A3C"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "monsterexpansion:leivekilth_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: -1.0d
+			y: 2.0d
+		}
+		{
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "monsterexpansion:skrythe_helmet"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "6E7F78C20F60419D"
+			shape: "square"
+			tasks: [
+				{
+					id: "2910BF02A0597C2C"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "monsterexpansion:skrythe_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "787794FA0AA42A29"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "monsterexpansion:skrythe_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "2114FE6B1FDF8A80"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "monsterexpansion:skrythe_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "52D082AEC1558E8A"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "monsterexpansion:skrythe_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: -2.5d
+			y: 2.0d
+		}
+		{
+			entity_vis_size: 1.0f
+			id: "496839CD78B4CD7E"
+			shape: "square"
+			tasks: [{
+				id: "653966929A6C10E0"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+						"monsterexpansion:weapon_data": { }
+					}
+					id: "monsterexpansion:horn_of_the_shattercry"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -4.0d
+			y: 3.0d
+		}
+		{
+			entity_vis_size: 1.0f
+			id: "6FAD48292534E193"
+			shape: "square"
+			tasks: [{
+				id: "3E0C6416F99A9B42"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+						"monsterexpansion:weapon_data": { }
+					}
+					id: "monsterexpansion:duskrend"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -2.5d
+			y: 3.0d
+		}
+		{
+			entity_vis_size: 1.0f
+			id: "5759726C8CEF079A"
+			shape: "square"
+			tasks: [{
+				id: "399DEC4092F44274"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+						"monsterexpansion:weapon_data": { }
+					}
+					id: "monsterexpansion:rimescourge"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -1.0d
+			y: 3.0d
+		}
+		{
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+					"monsterexpansion:monster_armor": {
+						ICE: -1
+					}
+				}
+				id: "monsterexpansion:rakoth_helmet"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "7241DE7475DFBFFB"
+			shape: "square"
+			tasks: [
+				{
+					id: "02321D3CFE838172"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+							"monsterexpansion:monster_armor": {
+								ICE: -1
+							}
+						}
+						id: "monsterexpansion:rakoth_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "43CCEBCD2789719F"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+							"monsterexpansion:monster_armor": {
+								ICE: -3
+							}
+						}
+						id: "monsterexpansion:rakoth_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "2FB6952B2CBB7E58"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+							"monsterexpansion:monster_armor": {
+								ICE: -2
+							}
+						}
+						id: "monsterexpansion:rakoth_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "2DAA0C61875E72C8"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+							"monsterexpansion:monster_armor": {
+								ICE: -2
+							}
+						}
+						id: "monsterexpansion:rakoth_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: 0.5d
+			y: 2.0d
+		}
+		{
+			entity_vis_size: 1.0f
+			id: "4C7C17C8EDA2BF30"
+			shape: "square"
+			tasks: [{
+				id: "61063F6B30705ED2"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+						"monsterexpansion:weapon_data": { }
+					}
+					id: "monsterexpansion:spire_shell_bulwark"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.5d
+			y: 3.0d
+		}
+		{
+			description: [
+				"Kích thước: Thế giới bên kia"
+				"Yêu cầu triệu hồi bàn thờ bằng đá sa thạch chạm khắc &b &r nhấp chuột phải vào bàn thờ"
+				"&8&o[Bàn thờ sẽ tự động phục hồi sau khi giết và thử thách có thể được lặp lại]&r&r"
+			]
+			entity_vis_size: 1.0f
+			id: "00BA1E6CCA7879CB"
+			tasks: [{
+				disable_toast: true
+				entity: "monsterexpansion:rakoth"
+				entity_use_tag: false
+				entity_vis_idle_mode: "USE_GLOBAL"
+				entity_vis_offset_x: 0.0f
+				entity_vis_offset_y: 0.0f
+				entity_vis_rotation: 0.0f
+				entity_vis_silhouette_mode: "NONE"
+				entity_vis_size: 1.0f
+				entity_vis_spin_mode: "USE_GLOBAL"
+				entity_vis_use_as_quest_icon: false
+				entity_vis_walk_mode: "USE_GLOBAL"
+				icon: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+						"monsterexpansion:monster_armor": {
+							ICE: -3
+						}
+					}
+					id: "monsterexpansion:rakoth_chestplate"
+					tag: {
+						Damage: 0
+						itemModifier: "modifiers:quick"
+					}
+				}
+				id: "70A8994B60B504FB"
+				type: "kill"
+				value: 1L
+			}]
+			x: 0.5d
+			y: 1.0d
+		}
+		{
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "monsterexpansion:ignathos_feather"
+				tag: { }
+			}
+			id: "2F4470702DBCF947"
+			tasks: [{
+				disable_toast: true
+				entity: "monsterexpansion:ignathos"
+				entity_use_tag: false
+				entity_vis_idle_mode: "USE_GLOBAL"
+				entity_vis_offset_x: 0.0f
+				entity_vis_offset_y: 0.0f
+				entity_vis_rotation: 0.0f
+				entity_vis_silhouette_mode: "NONE"
+				entity_vis_size: 1.0f
+				entity_vis_spin_mode: "USE_GLOBAL"
+				entity_vis_use_as_quest_icon: false
+				entity_vis_walk_mode: "USE_GLOBAL"
+				icon: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "monsterexpansion:ignathos_feather"
+					tag: { }
+				}
+				id: "34A471341C25DACE"
+				type: "kill"
+				value: 1L
+			}]
+			x: 2.0d
+			y: 1.0d
+		}
+		{
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+					"monsterexpansion:monster_armor": {
+						FIRE: 2
+						ICE: -1
+					}
+				}
+				id: "monsterexpansion:ignathos_helmet"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "64166BFD1A45F871"
+			shape: "square"
+			tasks: [
+				{
+					id: "37A939DE99B7CB27"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+							"monsterexpansion:monster_armor": {
+								FIRE: 2
+								ICE: -1
+							}
+						}
+						id: "monsterexpansion:ignathos_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "4D6C6077FDEB0D2D"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+							"monsterexpansion:monster_armor": {
+								FIRE: 2
+								ICE: -1
+							}
+						}
+						id: "monsterexpansion:ignathos_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "11B5C04241475E80"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+							"monsterexpansion:monster_armor": {
+								FIRE: 2
+								ICE: -1
+							}
+						}
+						id: "monsterexpansion:ignathos_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "6F82B7AF163AB344"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+							"monsterexpansion:monster_armor": {
+								FIRE: 2
+								ICE: -1
+							}
+						}
+						id: "monsterexpansion:ignathos_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: 2.0d
+			y: 2.0d
+		}
+		{
+			entity_vis_size: 1.0f
+			id: "17141CDDFD027698"
+			shape: "square"
+			tasks: [{
+				id: "7417EA4C87E0EDEE"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+						"monsterexpansion:weapon_data": { }
+					}
+					id: "monsterexpansion:charcraw"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 2.0d
+			y: 3.0d
+		}
+		{
+			description: [
+				"Kích thước: Thế giới bên kia"
+				"Kết cấu: Tàu Kraken"
+				""
+				"Dọn sạch tàu cướp biển và Kraken sẽ xuất hiện"
+				""
+				"Thường sử dụng vũ khí tầm xa để chống lại các xúc tu"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "block_factorys_bosses:kraken_spawn_egg"
+				tag: { }
+			}
+			id: "2BCA17169D0B232B"
+			tasks: [{
+				advancement: "block_factorys_bosses:kill_kraken"
+				criterion: ""
+				disable_toast: true
+				id: "574327D6F51AFA46"
+				title: "Tiêu diệt quái vật biển sâu"
+				type: "advancement"
+			}]
+			x: 0.5d
+			y: -0.5d
+		}
+	]
+	title: "Chúa tể và quái vật"
+}

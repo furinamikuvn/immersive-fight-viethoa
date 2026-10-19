@@ -1,0 +1,1778 @@
+{
+	consume_items: true
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	default_repeatable_quest: true
+	disable_toast: true
+	filename: "6945AEE2DAB51397"
+	group: "12485BC0976BA9E4"
+	icon: {
+		Count: 1
+		id: "fight_more:dimension_teleport_item"
+		tag: {
+			stored_dimension: "minecraft:overworld"
+			stored_x: 353
+			stored_y: 99
+			stored_z: -3497
+		}
+	}
+	id: "6945AEE2DAB51397"
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			can_repeat: true
+			description: [
+				"Có thể sử dụng khi tòa nhà đấu trường bị phá hủy"
+				""
+				"Đặt lại tòa nhà đấu trường và xóa các thực thể kích thước đấu trường."
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "supplementaries:pedestal"
+			}
+			id: "105F3BBB48ECE5F0"
+			rewards: [{
+				auto: "disabled"
+				command: "/resetflat"
+				elevate_perms: true
+				icon: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "born_in_chaos_v1:spawn_structure_mound_hounds"
+				}
+				id: "79519458F1CDE19E"
+				team_reward: false
+				title: "thiết lập lại cấu trúc"
+				type: "command"
+			}]
+			shape: "gear"
+			tasks: [{
+				id: "5EFBB4AA0FF53086"
+				title: "Đặt lại cấu trúc tòa nhà"
+				type: "checkmark"
+			}]
+			x: -5.5d
+			y: -1.0d
+		}
+		{
+			can_repeat: true
+			description: [
+				"Đấu trường được sử dụng để triệu hồi một số tên trùm không có con đường sinh sản tự nhiên."
+				"Hoặc một số BOSS cho những thử thách lặp đi lặp lại"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "fight_more:dimension_teleport_item"
+				tag: {
+					stored_dimension: "minecraft:overworld"
+					stored_x: 353
+					stored_y: 99
+					stored_z: -3497
+				}
+			}
+			id: "2285AB65A42F8414"
+			rewards: [{
+				id: "5568E506CB04425B"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "fight_more:dimension_teleport_item"
+					tag: {
+						stored_dimension: "minecraft:overworld"
+						stored_x: 353
+						stored_y: 99
+						stored_z: -3497
+					}
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "2D54B44A8189ABB7"
+				title: "Xe đón dịch chuyển"
+				type: "checkmark"
+			}]
+			x: -5.5d
+			y: -2.0d
+		}
+		{
+			description: ["{entity:infinitygolem:infinity_golem ent_size:0.5 off_x:0.0 off_y:0.0 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"]
+			entity_vis_size: 1.0f
+			icon: "minecraft:fire_charge"
+			id: "012F7BD7AE5EE831"
+			rewards: [{
+				id: "6F348A1F383F2F75"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "fight_more:entity_spawner"
+					tag: {
+						SummonBoss: "infinitygolem:infinity_golem"
+					}
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "square"
+			tasks: [{
+				count: 4L
+				id: "0D44EE1346FA5B4D"
+				item: {
+					Count: 4
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "minecraft:diamond"
+				}
+				type: "item"
+			}]
+			title: "con rối vô hạn"
+			x: -4.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["47AE39E0521CC270"]
+			description: [
+				"Lặp lại điều kiện tiên quyết của thử thách: giết một lần"
+				"{entity:the_faint_radiance:lychnus ent_size:0.5 off_x:0.0 off_y:0.0 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"
+			]
+			entity_vis_size: 1.0f
+			icon: "legionary:golden_lantern"
+			id: "5FF7E9A7ED416BBE"
+			rewards: [{
+				id: "269405B18987DBF4"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "fight_more:entity_spawner"
+					tag: {
+						SummonBoss: "the_faint_radiance:lychnus"
+					}
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "square"
+			tasks: [{
+				count: 4L
+				id: "62DA07CD1952A2F2"
+				item: {
+					Count: 4
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "minecraft:diamond"
+				}
+				type: "item"
+			}]
+			title: "Chúa tể ánh sáng"
+			x: -2.0d
+			y: 0.0d
+		}
+		{
+			description: [
+				"Điều kiện tiên quyết: Hoàn thành thành tích Anh hùng làng (thắng cuộc đột kích ban đầu)"
+				"{entity:illageandspillage:spiritcaller ent_size:0.5 off_x:0.0 off_y:0.0 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "illageandspillage:spellbound_book"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "7EB7FAFC44F2774F"
+			rewards: [{
+				id: "2577CB00D57BD84C"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "fight_more:entity_spawner"
+					tag: {
+						SummonBoss: "illageandspillage:spiritcaller"
+					}
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "square"
+			tasks: [
+				{
+					count: 4L
+					id: "65C41F7C3A24B236"
+					item: {
+						Count: 4
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:diamond"
+					}
+					type: "item"
+				}
+				{
+					advancement: "minecraft:adventure/hero_of_the_village"
+					criterion: ""
+					id: "07DE9215F9A6B391"
+					type: "advancement"
+				}
+			]
+			title: "Tâm hồn tâm linh"
+			x: -4.0d
+			y: -2.0d
+		}
+		{
+			description: [
+				"Điều kiện tiên quyết: Hoàn thành thành tích Anh hùng làng (thắng cuộc đột kích ban đầu)"
+				"{entity:illageandspillage:magispeller ent_size:0.5 off_x:0.0 off_y:0.0 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"
+			]
+			entity_vis_size: 1.0f
+			icon: "illageandspillage:totem_of_banishment"
+			id: "53205E8AA886D19B"
+			rewards: [{
+				id: "2DB11DCDE6DBDEE7"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "fight_more:entity_spawner"
+					tag: {
+						SummonBoss: "illageandspillage:magispeller"
+					}
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "square"
+			tasks: [
+				{
+					count: 4L
+					id: "4E13050702605312"
+					item: {
+						Count: 4
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:diamond"
+					}
+					type: "item"
+				}
+				{
+					advancement: "minecraft:adventure/hero_of_the_village"
+					criterion: ""
+					id: "21FB9C34830FA89D"
+					type: "advancement"
+				}
+			]
+			title: "ảo thuật gia"
+			x: -3.0d
+			y: -2.0d
+		}
+		{
+			description: [
+				"Điều kiện tiên quyết: Hoàn thành thành tích Anh hùng làng (thắng cuộc đột kích ban đầu)"
+				"{entity:illageandspillage:freakager ent_size:0.5 off_x:0.0 off_y:0.0 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"
+			]
+			entity_vis_size: 1.0f
+			icon: "illageandspillage:bag_of_horrors"
+			id: "17D8EC5B5458549A"
+			rewards: [{
+				id: "15BAD3E9A13F0D54"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "fight_more:entity_spawner"
+					tag: {
+						SummonBoss: "illageandspillage:freakager"
+					}
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "square"
+			tasks: [
+				{
+					count: 4L
+					id: "29924CA7B6899E8F"
+					item: {
+						Count: 4
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:diamond"
+					}
+					type: "item"
+				}
+				{
+					advancement: "minecraft:adventure/hero_of_the_village"
+					criterion: ""
+					id: "51DC95326E894D18"
+					type: "advancement"
+				}
+			]
+			title: "lập dị"
+			x: -2.0d
+			y: -2.0d
+		}
+		{
+			description: ["{entity:eeeabsmobs:nameless_guardian ent_size:0.5 off_x:0.0 off_y:0.0 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "eeeabsmobs:guardian_axe"
+				tag: {
+					CodeAddFlag: 1b
+					Damage: 0
+					Unbreakable: 1b
+				}
+			}
+			id: "0D8B971DD4E18922"
+			rewards: [{
+				id: "0B6C88AC7BF24EEB"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "fight_more:entity_spawner"
+					tag: {
+						SummonBoss: "eeeabsmobs:nameless_guardian"
+					}
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "square"
+			tasks: [{
+				count: 4L
+				id: "329C80EAF631BA97"
+				item: {
+					Count: 4
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "minecraft:diamond"
+				}
+				type: "item"
+			}]
+			title: "Người bảo vệ không tên"
+			x: -3.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["57838C3AD1AE8547"]
+			description: [
+				"Lặp lại điều kiện tiên quyết của thử thách: giết một lần"
+				"{entity:nightfall_invade:arterius ent_size:0.5 off_x:0.0 off_y:0.0 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"
+			]
+			entity_vis_size: 1.0f
+			icon: "efn:duskfire_helmet"
+			id: "145554F70F1004C9"
+			rewards: [{
+				id: "79198B1D16CAA1AA"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "fight_more:entity_spawner"
+					tag: {
+						SummonBoss: "nightfall_invade:arterius"
+					}
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "square"
+			tasks: [{
+				count: 4L
+				id: "5C7C302655B60A8F"
+				item: {
+					Count: 4
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "minecraft:diamond"
+				}
+				type: "item"
+			}]
+			title: "Artesios"
+			x: -3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["136ACD4900620C7F"]
+			description: [
+				"Lặp lại điều kiện tiên quyết của thử thách: giết một lần"
+				"{entity:nightfall_invade:scarlet_hunter ent_size:0.5 off_x:0.0 off_y:0.0 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"
+			]
+			entity_vis_size: 1.0f
+			icon: "efn:crimson_moon"
+			id: "3CA6AF1B515050CB"
+			rewards: [{
+				id: "4706661E359E01DA"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "fight_more:entity_spawner"
+					tag: {
+						SummonBoss: "nightfall_invade:scarlet_hunter"
+					}
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "square"
+			tasks: [{
+				count: 4L
+				id: "3A6B5C2BA99482AD"
+				item: {
+					Count: 4
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "minecraft:diamond"
+				}
+				type: "item"
+			}]
+			title: "Brad"
+			x: -4.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0427CE4A17859B62"]
+			description: [
+				"Lặp lại điều kiện tiên quyết của thử thách: giết một lần"
+				"{entity:legendary_monsters:cloud_golem ent_size:0.5 off_x:0.0 off_y:0.0 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"
+			]
+			entity_vis_size: 1.0f
+			icon: "legendary_monsters:eye_of_air"
+			id: "40BB9BEE7142C0F8"
+			rewards: [{
+				id: "03480A0607301511"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "fight_more:entity_spawner"
+					tag: {
+						SummonBoss: "legendary_monsters:cloud_golem"
+					}
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "square"
+			tasks: [{
+				count: 4L
+				id: "5EE65B3B16D31BEC"
+				item: {
+					Count: 4
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "minecraft:diamond"
+				}
+				type: "item"
+			}]
+			title: "Tượng quỷ xây mây"
+			x: -1.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["646F2534443AC7A1"]
+			description: [
+				"Lặp lại điều kiện tiên quyết của thử thách: giết một lần"
+				"{entity:legendary_monsters:posessed_paladin ent_size:0.5 off_x:0.0 off_y:0.0 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "legendary_monsters:soul_great_sword"
+				tag: {
+					Damage: 0
+					itemModifier: "modifiers:swift"
+				}
+			}
+			id: "046B26E987D49A7C"
+			rewards: [{
+				id: "4CA51EB00EB29365"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "fight_more:entity_spawner"
+					tag: {
+						SummonBoss: "legendary_monsters:posessed_paladin"
+					}
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "square"
+			tasks: [{
+				count: 4L
+				id: "411C10CFB4C54AF8"
+				item: {
+					Count: 4
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "minecraft:diamond"
+				}
+				type: "item"
+			}]
+			title: "Hiệp sĩ sa ngã"
+			x: -2.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["58BCA6047E201462"]
+			description: [
+				"Điều kiện tiên quyết: Realm Guard, Necromancer"
+				"{entity:eeeabsmobs:immortal ent_size:0.5 off_x:0.0 off_y:0.0 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "eeeabsmobs:ghost_warrior_helmet"
+				tag: {
+					CodeAddFlag: 1b
+					Damage: 0
+					Unbreakable: 1b
+				}
+			}
+			id: "74787D8F86072536"
+			rewards: [{
+				id: "58FBD61A7FA24E64"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "fight_more:entity_spawner"
+					tag: {
+						SummonBoss: "eeeabsmobs:immortal"
+					}
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "square"
+			tasks: [{
+				count: 4L
+				id: "59F2B755C57DBEC4"
+				item: {
+					Count: 4
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "minecraft:diamond"
+				}
+				type: "item"
+			}]
+			title: "bất tử"
+			x: -1.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["5B9F5CDA30390926"]
+			description: [
+				"Lặp lại điều kiện tiên quyết của thử thách: tiêu diệt cấu trúc độc quyền một lần"
+				""
+				""
+				""
+				"{entity:block_factorys_bosses:infernal_dragon ent_size:0.5 off_x:0.0 off_y:0.0 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "block_factorys_bosses:achievement_icons"
+				tag: {
+					icon_index: 0
+				}
+			}
+			id: "215B103438BB66E4"
+			rewards: [{
+				id: "098FB432F07A1DC0"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "fight_more:entity_spawner"
+					tag: {
+						SummonBoss: "block_factorys_bosses:infernal_dragon"
+					}
+				}
+				type: "item"
+			}]
+			shape: "square"
+			tasks: [{
+				count: 4L
+				id: "71DA9F762675B2B3"
+				item: {
+					Count: 4
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "minecraft:diamond"
+				}
+				type: "item"
+			}]
+			title: "Rồng địa ngục"
+			x: -4.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["7D2A220C9AA746ED"]
+			description: [
+				"Lặp lại điều kiện tiên quyết của thử thách: tiêu diệt cấu trúc độc quyền một lần"
+				""
+				""
+				""
+				"{entity:block_factorys_bosses:underworld_knight ent_size:0.5 off_x:0.0 off_y:0.0 rot:0.0 spin:FORCE_OFF idle:FORCE_ON walk:FORCE_OFF width:100 height:100 align:center}"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "block_factorys_bosses:achievement_icons"
+				tag: {
+					icon_index: 1
+				}
+			}
+			id: "571C7A41D939E635"
+			rewards: [{
+				id: "4540F242F7B70C54"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "fight_more:entity_spawner"
+					tag: {
+						SummonBoss: "block_factorys_bosses:underworld_knight"
+					}
+				}
+				type: "item"
+			}]
+			shape: "square"
+			tasks: [{
+				count: 4L
+				id: "440334985FB8A732"
+				item: {
+					Count: 4
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "minecraft:diamond"
+				}
+				type: "item"
+			}]
+			title: "Hiệp sĩ ma"
+			x: -3.0d
+			y: -1.0d
+		}
+		{
+			can_repeat: true
+			dependencies: ["1BACDD2F8641EFCF"]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "gateways:gate_pearl"
+				tag: {
+					gateway: "gateways:basic/alex_water"
+				}
+			}
+			id: "5025502DE3FE929E"
+			rewards: [{
+				id: "478F7AF4A43A1619"
+				item: {
+					Count: 1
+					id: "gateways:gate_pearl"
+					tag: {
+						gateway: "gateways:basic/alex_water"
+					}
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 8L
+				id: "3619ACF7B834FA96"
+				item: { Count: 8, id: "minecraft:emerald" }
+				type: "item"
+			}]
+			title: "Cấp độ hang vực thẳm"
+			x: 4.0d
+			y: -2.0d
+		}
+		{
+			can_repeat: true
+			dependencies: ["5BCB574C6A7D3ABC"]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "gateways:gate_pearl"
+				tag: {
+					gateway: "gateways:basic/alex_mag"
+				}
+			}
+			id: "67C798E39675080B"
+			rewards: [{
+				id: "2210062C3FDD3672"
+				item: {
+					Count: 1
+					id: "gateways:gate_pearl"
+					tag: {
+						gateway: "gateways:basic/alex_mag"
+					}
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 8L
+				id: "054B4ED7820DCB85"
+				item: { Count: 8, id: "minecraft:emerald" }
+				type: "item"
+			}]
+			title: "Cấp độ hang động từ trường"
+			x: 5.0d
+			y: -2.0d
+		}
+		{
+			can_repeat: true
+			dependencies: ["73DAE2EE1FD4D349"]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "gateways:gate_pearl"
+				tag: {
+					gateway: "gateways:basic/alex_candy"
+				}
+			}
+			id: "694F2E6065FE5813"
+			rewards: [{
+				id: "246FA5EA70D8090F"
+				item: {
+					Count: 1
+					id: "gateways:gate_pearl"
+					tag: {
+						gateway: "gateways:basic/alex_candy"
+					}
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 16L
+				id: "4BD82E1797C2D074"
+				item: { Count: 16, id: "minecraft:emerald" }
+				type: "item"
+			}]
+			title: "khoang kẹo"
+			x: 0.0d
+			y: -2.0d
+		}
+		{
+			can_repeat: true
+			dependencies: ["70B0BC56FFD4ADFB"]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "gateways:gate_pearl"
+				tag: {
+					gateway: "gateways:basic/alex_dark"
+				}
+			}
+			id: "7A28CE3B4CEEAAA9"
+			rewards: [{
+				id: "5E8D6C00711FEE2E"
+				item: {
+					Count: 1
+					id: "gateways:gate_pearl"
+					tag: {
+						gateway: "gateways:basic/alex_dark"
+					}
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 16L
+				id: "03915A83E12EBECA"
+				item: { Count: 16, id: "minecraft:emerald" }
+				type: "item"
+			}]
+			title: "Thung lũng trống vắng im lặng lạ lùng"
+			x: 1.0d
+			y: -2.0d
+		}
+		{
+			can_repeat: true
+			dependencies: ["6469D3C26D42E29B"]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "gateways:gate_pearl"
+				tag: {
+					gateway: "gateways:basic/alex_nuc"
+				}
+			}
+			id: "7C3129B86B153B56"
+			rewards: [{
+				id: "5FF3D5D3153FC3BD"
+				item: {
+					Count: 1
+					id: "gateways:gate_pearl"
+					tag: {
+						gateway: "gateways:basic/alex_nuc"
+					}
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 16L
+				id: "69792795A7E767D9"
+				item: { Count: 16, id: "minecraft:emerald" }
+				type: "item"
+			}]
+			title: "hang độc"
+			x: 2.0d
+			y: -2.0d
+		}
+		{
+			can_repeat: true
+			dependencies: ["371B42E5135389B8"]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "gateways:gate_pearl"
+				tag: {
+					gateway: "gateways:basic/alex_pri"
+				}
+			}
+			id: "17C31C5BEB9DD90F"
+			rewards: [{
+				id: "65B5BF0333AAD25C"
+				item: {
+					Count: 1
+					id: "gateways:gate_pearl"
+					tag: {
+						gateway: "gateways:basic/alex_pri"
+					}
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 16L
+				id: "3427C1DF06292CB7"
+				item: { Count: 16, id: "minecraft:emerald" }
+				type: "item"
+			}]
+			title: "hang động nguyên thủy"
+			x: 3.0d
+			y: -2.0d
+		}
+		{
+			can_repeat: true
+			description: ["Cần thử thách vào ban đêm"]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "gateways:gate_pearl"
+				tag: {
+					gateway: "gateways:basic/chaos"
+				}
+			}
+			id: "333BEC0993228F89"
+			rewards: [{
+				id: "538D0C55E4301040"
+				item: {
+					Count: 1
+					id: "gateways:gate_pearl"
+					tag: {
+						gateway: "gateways:basic/chaos"
+					}
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 16L
+				id: "50FDE2194042199A"
+				item: { Count: 16, id: "minecraft:emerald" }
+				type: "item"
+			}]
+			title: "Sinh ra ở cấp độ hỗn loạn"
+			x: 0.5d
+			y: -1.0d
+		}
+		{
+			can_repeat: true
+			description: [
+				"Tiêu diệt quái vật trong thử thách này để nhận được nhiều điềm xấu."
+				""
+				"Có thể được sử dụng để kích hoạt các cuộc tấn công vanilla (tối đa cấp 5 đáng ngại)"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "gateways:gate_pearl"
+				tag: {
+					gateway: "gateways:basic/pila"
+				}
+			}
+			id: "5A1EC95B54FDB477"
+			rewards: [{
+				id: "27C4CD8B37D608DC"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "gateways:gate_pearl"
+					tag: {
+						gateway: "gateways:basic/pila"
+					}
+				}
+				team_reward: false
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 16L
+				id: "20E6E8C8DD761E3B"
+				item: { Count: 16, id: "minecraft:emerald" }
+				type: "item"
+			}]
+			title: "Mức độ thiên tai"
+			x: 4.5d
+			y: -1.0d
+		}
+		{
+			can_repeat: true
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "gateways:gate_pearl"
+				tag: {
+					gateway: "gateways:basic/huoshi"
+				}
+			}
+			id: "45FD6534DAB057C9"
+			rewards: [{
+				id: "3489FEFDFA08B94F"
+				item: {
+					Count: 1
+					id: "gateways:gate_pearl"
+					tag: {
+						gateway: "gateways:basic/huoshi"
+					}
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 8L
+				id: "0F57BAE19C253559"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "minecraft:emerald"
+				}
+				type: "item"
+			}]
+			title: "Cấp độ xác sống (nhóm quái vật)"
+			x: 2.5d
+			y: -1.0d
+		}
+		{
+			can_repeat: true
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "gateways:gate_pearl"
+				tag: {
+					gateway: "gateways:basic/huoshi_one"
+				}
+			}
+			id: "21BBB1F67321A740"
+			rewards: [{
+				id: "478D7EA0F6B03654"
+				item: {
+					Count: 1
+					id: "gateways:gate_pearl"
+					tag: {
+						gateway: "gateways:basic/huoshi_one"
+					}
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 8L
+				id: "49B702A0B9FCBF27"
+				item: { Count: 8, id: "minecraft:emerald" }
+				type: "item"
+			}]
+			title: "Cấp độ xác sống (đơn)"
+			x: 1.5d
+			y: -1.0d
+		}
+		{
+			description: [
+				"Một trong những cách để nhận được phiếu đổi thưởng và đồ rớt quái vật"
+				""
+				""
+				"Mod cổng vĩnh cửu &l: &r"
+				"Tạo ra một cánh cổng triệu hồi quái vật."
+				"Quái vật ngoài phạm vi sẽ được dịch chuyển đến vùng lân cận của cổng."
+				"&b [Vui lòng sử dụng ở khu vực bằng phẳng] &r"
+				"&b [Được khuyến nghị sử dụng trong kích thước đấu trường &e &r&b] &r"
+			]
+			entity_vis_size: 1.0f
+			id: "47F1E9EF62977849"
+			size: 1.0d
+			tasks: [{
+				id: "00EADBACB8A87DD3"
+				type: "checkmark"
+			}]
+			x: 3.0d
+			y: -4.0d
+		}
+		{
+			can_repeat: true
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "gateways:gate_pearl"
+				tag: {
+					gateway: "gateways:basic/armorfog_dagger"
+				}
+			}
+			id: "2942A7DF7D054D9A"
+			rewards: [{
+				id: "614B98772C955599"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "gateways:gate_pearl"
+					tag: {
+						gateway: "gateways:basic/armorfog_dagger"
+					}
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 32L
+				id: "6985E1ACC749D3E2"
+				item: { Count: 32, id: "minecraft:emerald" }
+				type: "item"
+			}]
+			title: "Bảo vệ sương mù"
+			x: -0.5d
+			y: -3.0d
+		}
+		{
+			can_repeat: true
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "gateways:gate_pearl"
+				tag: {
+					gateway: "gateways:basic/chess_sword"
+				}
+			}
+			id: "7450A3BA846CE492"
+			rewards: [{
+				id: "32CCDE168A39F1FD"
+				item: {
+					Count: 1
+					id: "gateways:gate_pearl"
+					tag: {
+						gateway: "gateways:basic/chess_sword"
+					}
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 32L
+				id: "7C004BE514DC991A"
+				item: { Count: 32, id: "minecraft:emerald" }
+				type: "item"
+			}]
+			title: "Hiệp sĩ bàn cờ"
+			x: 0.5d
+			y: -3.0d
+		}
+		{
+			can_repeat: true
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "gateways:gate_pearl"
+				tag: {
+					gateway: "gateways:basic/dark_falchion"
+				}
+			}
+			id: "421B434AF6508C2B"
+			rewards: [{
+				id: "6F85D884E03241E4"
+				item: {
+					Count: 1
+					id: "gateways:gate_pearl"
+					tag: {
+						gateway: "gateways:basic/dark_falchion"
+					}
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 32L
+				id: "7772F12FA57CE050"
+				item: { Count: 32, id: "minecraft:emerald" }
+				type: "item"
+			}]
+			title: "Bảo vệ bóng tối"
+			x: 1.5d
+			y: -3.0d
+		}
+		{
+			can_repeat: true
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "gateways:gate_pearl"
+				tag: {
+					gateway: "gateways:basic/dragonslayer_staff"
+				}
+			}
+			id: "47CCA4E1455F1164"
+			rewards: [{
+				id: "12B744196E576F4D"
+				item: {
+					Count: 1
+					id: "gateways:gate_pearl"
+					tag: {
+						gateway: "gateways:basic/dragonslayer_staff"
+					}
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 32L
+				id: "4611591DEAF404BA"
+				item: { Count: 32, id: "minecraft:emerald" }
+				type: "item"
+			}]
+			title: "chiến binh diệt rồng"
+			x: 2.5d
+			y: -3.0d
+		}
+		{
+			can_repeat: true
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "gateways:gate_pearl"
+				tag: {
+					gateway: "gateways:basic/forgotten_great"
+				}
+			}
+			id: "067C4D13773CD265"
+			rewards: [{
+				id: "656FBA1919D9F686"
+				item: {
+					Count: 1
+					id: "gateways:gate_pearl"
+					tag: {
+						gateway: "gateways:basic/forgotten_great"
+					}
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 32L
+				id: "3D8A8F173228216E"
+				item: { Count: 32, id: "minecraft:emerald" }
+				type: "item"
+			}]
+			title: "dấu vết của sự lãng quên"
+			x: 3.5d
+			y: -3.0d
+		}
+		{
+			can_repeat: true
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "gateways:gate_pearl"
+				tag: {
+					gateway: "gateways:basic/spark_spear"
+				}
+			}
+			id: "1CA1EF43A61B488F"
+			rewards: [{
+				id: "0FBA4DF3474C3D9D"
+				item: {
+					Count: 1
+					id: "gateways:gate_pearl"
+					tag: {
+						gateway: "gateways:basic/spark_spear"
+					}
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 32L
+				id: "6344ACC2FE4144C8"
+				item: { Count: 32, id: "minecraft:emerald" }
+				type: "item"
+			}]
+			title: "tia lửa bình minh"
+			x: 4.5d
+			y: -3.0d
+		}
+		{
+			can_repeat: true
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "gateways:gate_pearl"
+				tag: {
+					gateway: "gateways:basic/sunset_long"
+				}
+			}
+			id: "0E9713755ED21789"
+			rewards: [{
+				id: "3375BA741084FD3E"
+				item: {
+					Count: 1
+					id: "gateways:gate_pearl"
+					tag: {
+						gateway: "gateways:basic/sunset_long"
+					}
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 32L
+				id: "39734EF1B00D3208"
+				item: { Count: 32, id: "minecraft:emerald" }
+				type: "item"
+			}]
+			title: "cánh hoàng hôn"
+			x: 5.5d
+			y: -3.0d
+		}
+		{
+			can_repeat: true
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "gateways:gate_pearl"
+				tag: {
+					gateway: "gateways:basic/twinned_tachi"
+				}
+			}
+			id: "00719862B010BA10"
+			rewards: [{
+				id: "4CFC8E062D4A7FEE"
+				item: {
+					Count: 1
+					id: "gateways:gate_pearl"
+					tag: {
+						gateway: "gateways:basic/twinned_tachi"
+					}
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 32L
+				id: "5EEB50884C277F42"
+				item: { Count: 32, id: "minecraft:emerald" }
+				type: "item"
+			}]
+			title: "linh hồn song sinh"
+			x: 6.5d
+			y: -3.0d
+		}
+		{
+			can_repeat: true
+			description: ["10% khả năng rơi vũ khí"]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "gateways:gate_pearl"
+				tag: {
+					gateway: "gateways:basic/monk"
+				}
+			}
+			id: "25017DA79597ABE8"
+			rewards: [{
+				id: "219F7120D3590D38"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "gateways:gate_pearl"
+					tag: {
+						gateway: "gateways:basic/monk"
+					}
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 16L
+				id: "356E82DFE7ABF253"
+				item: {
+					Count: 16
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "minecraft:emerald"
+				}
+				type: "item"
+			}]
+			title: "Anh Thoreau"
+			x: 3.5d
+			y: -1.0d
+		}
+		{
+			can_repeat: true
+			description: [
+				"Triệu hồi quái vật bao cát không gây nguy hiểm với HP cao"
+				""
+				"Kéo dài trong 10 phút"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "gateways:gate_pearl"
+				tag: {
+					gateway: "gateways:basic/test"
+				}
+			}
+			id: "48B6ABE864EB403D"
+			rewards: [{
+				id: "619A9A67954FBD02"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "gateways:gate_pearl"
+					tag: {
+						gateway: "gateways:basic/test"
+					}
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				id: "7ECE06BE1ECA13BE"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "minecraft:emerald"
+				}
+				type: "item"
+			}]
+			title: "đào tạo kiểm tra"
+			x: 6.0d
+			y: -2.0d
+		}
+		{
+			can_repeat: true
+			description: ["Golem sắt tuyệt vọng, Shocker"]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "gateways:gate_pearl"
+				tag: {
+					gateway: "gateways:basic/pila2"
+				}
+			}
+			id: "20B3ED60808465D4"
+			rewards: [{
+				id: "1ADD915B9A5BE2A5"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "gateways:gate_pearl"
+					tag: {
+						gateway: "gateways:basic/pila2"
+					}
+				}
+				team_reward: false
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 16L
+				id: "5D586A8D82690486"
+				item: {
+					Count: 16
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "minecraft:emerald"
+				}
+				type: "item"
+			}]
+			title: "Thảm họa cấp độ 2"
+			x: 5.5d
+			y: -1.0d
+		}
+		{
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "gateways:gate_pearl"
+				tag: {
+					gateway: "gateways:basic/zixie"
+				}
+			}
+			id: "7F5A539E089BF6D3"
+			rewards: [{
+				id: "572A87F05BA3BA94"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "gateways:gate_pearl"
+					tag: {
+						gateway: "gateways:basic/zixie"
+					}
+				}
+				type: "item"
+			}]
+			tasks: [{
+				count: 16L
+				id: "58F659E98E9497C4"
+				item: {
+					Count: 16
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "minecraft:emerald"
+				}
+				type: "item"
+			}]
+			title: "Ung thư thạch anh tím"
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			description: [
+				"Rớt triệu hồi BOSS"
+				"&ethan hồng đang cháy&r"
+				""
+				"Có thể được triệu hồi lại trong cấu trúc BOSS ban đầu"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "gateways:gate_pearl"
+				tag: {
+					gateway: "gateways:basic/miniboss1"
+				}
+			}
+			id: "41E0FDD15C2B7234"
+			rewards: [{
+				id: "7E927BFD5DE2F6ED"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "gateways:gate_pearl"
+					tag: {
+						gateway: "gateways:basic/miniboss1"
+					}
+				}
+				type: "item"
+			}]
+			tasks: [{
+				count: 16L
+				id: "2A211297FA5B4A79"
+				item: {
+					Count: 16
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "minecraft:emerald"
+				}
+				type: "item"
+			}]
+			title: "Triệu hồi quỷ lửa"
+			x: 2.5d
+			y: 0.0d
+		}
+		{
+			description: [
+				"Rớt triệu hồi BOSS"
+				"&e Cung cấp sâu thẳm&r Vật liệu tổng hợp"
+				""
+				"Có thể được triệu hồi lại trong cấu trúc BOSS ban đầu"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "gateways:gate_pearl"
+				tag: {
+					gateway: "gateways:basic/miniboss2"
+				}
+			}
+			id: "583F0E586DF7651D"
+			rewards: [{
+				id: "6AF9A2E94E9CE55D"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "gateways:gate_pearl"
+					tag: {
+						gateway: "gateways:basic/miniboss2"
+					}
+				}
+				type: "item"
+			}]
+			tasks: [{
+				count: 16L
+				id: "4B7255BB33DECBF7"
+				item: {
+					Count: 16
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "minecraft:emerald"
+				}
+				type: "item"
+			}]
+			title: "Triệu hồi Leviathan"
+			x: 3.5d
+			y: 0.0d
+		}
+		{
+			description: [
+				"Rớt triệu hồi BOSS"
+				"Tinh thể mắt &e&r"
+				""
+				"Có thể được triệu hồi lại trong cấu trúc BOSS ban đầu"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "gateways:gate_pearl"
+				tag: {
+					gateway: "gateways:basic/miniboss3"
+				}
+			}
+			id: "2ACE03CE9C8E6536"
+			rewards: [{
+				id: "766345CEE6A5FB81"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "gateways:gate_pearl"
+					tag: {
+						gateway: "gateways:basic/miniboss3"
+					}
+				}
+				type: "item"
+			}]
+			tasks: [{
+				count: 16L
+				id: "4B3C31171EBEEDB1"
+				item: {
+					Count: 16
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "minecraft:emerald"
+				}
+				type: "item"
+			}]
+			title: "Triệu hồi xây dựng hủy diệt"
+			x: 4.5d
+			y: 0.0d
+		}
+	]
+	title: "Kêu gọi thách thức"
+}

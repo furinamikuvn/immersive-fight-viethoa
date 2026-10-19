@@ -1,0 +1,642 @@
+{
+  "obscure_api.ability.bonuses": {
+    "en": "§fClass Bonus",
+    "zh": "§fClass Bonus",
+    "vi": "§fThưởng nghề nghiệp"
+  },
+  "obscure_api.ability.cost.cooldown": {
+    "en": "§f(#s§f)",
+    "zh": "§f(#s§f)",
+    "vi": "§f(#s§f)"
+  },
+  "obscure_api.ability.cost.exp": {
+    "en": "§f(# Exp§f)",
+    "zh": "§f(# Exp§f)",
+    "vi": "§f(#trải nghiệm§f)"
+  },
+  "obscure_api.ability.cost.health": {
+    "en": "§f(# HP§f)",
+    "zh": "§f(# HP§f)",
+    "vi": "§f(#HP§f)"
+  },
+  "obscure_api.ability.cost.level": {
+    "en": "§f(# Lvl§f)",
+    "zh": "§f(# Lvl§f)",
+    "vi": "§f(#cấp§f)"
+  },
+  "obscure_api.ability.cost.durability": {
+    "en": "§f(# §f)",
+    "zh": "§f(# §f)",
+    "vi": "§f(# §f)"
+  },
+  "obscure_api.ability.cost.none": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "obscure_api.ability.modifier.s": {
+    "en": "s",
+    "zh": "s",
+    "vi": "s"
+  },
+  "obscure_api.ability.modifier.%": {
+    "en": "%",
+    "zh": "%",
+    "vi": "%"
+  },
+  "class_bonus.armor_cooldown.minus": {
+    "en": "§2# Armor Cooldown",
+    "zh": "§2# Armor Cooldown",
+    "vi": "§2# Thời gian hồi giáp"
+  },
+  "class_bonus.armor_cooldown.plus": {
+    "en": "§c+# Armor Cooldown",
+    "zh": "§c+# Armor Cooldown",
+    "vi": "§c+# Thời gian hồi giáp"
+  },
+  "class_bonus.armor_power.minus": {
+    "en": "§c# Armor Power",
+    "zh": "§c# Armor Power",
+    "vi": "§c# Sức mạnh của giáp"
+  },
+  "class_bonus.armor_power.plus": {
+    "en": "§2+# Armor Power",
+    "zh": "§2+# Armor Power",
+    "vi": "§2+# Sức mạnh giáp"
+  },
+  "class_bonus.weapon_cooldown.minus": {
+    "en": "§2# Weapon Cooldown",
+    "zh": "§2# Weapon Cooldown",
+    "vi": "§2# Thời gian hồi chiêu của vũ khí"
+  },
+  "class_bonus.weapon_cooldown.plus": {
+    "en": "§c+# Weapon Cooldown",
+    "zh": "§c+# Weapon Cooldown",
+    "vi": "§c+# Thời gian hồi chiêu của vũ khí"
+  },
+  "class_bonus.weapon_power.minus": {
+    "en": "§c# Weapon Power",
+    "zh": "§c# Weapon Power",
+    "vi": "§c# Sát thương vũ khí"
+  },
+  "class_bonus.weapon_power.plus": {
+    "en": "§2+# Weapon Power",
+    "zh": "§2+# Weapon Power",
+    "vi": "§2+# Sát thương vũ khí"
+  },
+  "obscure_api.tooltip.collapse": {
+    "en": "§f§8Abilities",
+    "zh": "§f§8Abilities",
+    "vi": "Kỹ năng §f§8 kỹ năng"
+  },
+  "obscure_api.tooltip.expand": {
+    "en": "§f§8Hold Shift",
+    "zh": "§f§8Hold Shift",
+    "vi": "§f§8Giữ Shift"
+  },
+  "obscure_api.tooltip.knowledge": {
+    "en": "§f§9Knowledge:",
+    "zh": "§f§9Knowledge:",
+    "vi": "Kiến thức về §f§9:"
+  },
+  "rarity.legendary.name": {
+    "en": "Legendary",
+    "zh": "Legendary",
+    "vi": "huyền thoại"
+  },
+  "rarity.mythic.name": {
+    "en": "Mythic",
+    "zh": "Mythic",
+    "vi": "huyền thoại"
+  },
+  "item.obscure_api.astral_dust": {
+    "en": "Astral Dust",
+    "zh": "Astral Dust",
+    "vi": "Astral Dust"
+  },
+  "item.obscure_api.vial_of_knowledge": {
+    "en": "Vial of Knowledge",
+    "zh": "Vial of Knowledge",
+    "vi": "Vial of Knowledge"
+  },
+  "lore.obscure_api.vial_of_knowledge": {
+    "en": "§9Knowledge (2:00)",
+    "zh": "§9Knowledge (2:00)",
+    "vi": "Kiến thức §9 (2:00)"
+  },
+  "effect.obscure_api.fury": {
+    "en": "Fury",
+    "zh": "Fury",
+    "vi": "giận dữ"
+  },
+  "effect.obscure_api.fury.desc": {
+    "en": "Each level increase the power of class abilities by 10%.",
+    "zh": "Each level increase the power of class abilities by 10%.",
+    "vi": "Mỗi cấp độ tăng sức mạnh của các kỹ năng chuyên nghiệp thêm 10%."
+  },
+  "effect.obscure_api.fury.description": {
+    "en": "Each level increase the power of class abilities by 10%.",
+    "zh": "Each level increase the power of class abilities by 10%.",
+    "vi": "Mỗi cấp độ tăng sức mạnh của các kỹ năng chuyên nghiệp thêm 10%."
+  },
+  "effect.obscure_api.knowledge": {
+    "en": "Knowledge",
+    "zh": "Knowledge",
+    "vi": "Kiến thức"
+  },
+  "effect.obscure_api.knowledge.desc": {
+    "en": "Displays hidden information about some items in their tooltips.",
+    "zh": "Displays hidden information about some items in their tooltips.",
+    "vi": "Hiển thị thông tin ẩn trong chú giải công cụ của đạo cụ."
+  },
+  "effect.obscure_api.knowledge.description": {
+    "en": "Displays hidden information about some items in their tooltips.",
+    "zh": "Displays hidden information about some items in their tooltips.",
+    "vi": "Hiển thị thông tin ẩn trong chú giải công cụ của đạo cụ."
+  },
+  "effect.obscure_api.rush": {
+    "en": "Rush",
+    "zh": "Rush",
+    "vi": "thù lao"
+  },
+  "effect.obscure_api.rush.desc": {
+    "en": "Each level reduces the cooldown of class abilities by 10%.",
+    "zh": "Each level reduces the cooldown of class abilities by 10%.",
+    "vi": "Mỗi cấp độ giảm 10% thời gian hồi chiêu của các kỹ năng chuyên nghiệp."
+  },
+  "effect.obscure_api.rush.description": {
+    "en": "Each level reduces the cooldown of class abilities by 10%.",
+    "zh": "Each level reduces the cooldown of class abilities by 10%.",
+    "vi": "Mỗi cấp độ giảm 10% thời gian hồi chiêu của các kỹ năng chuyên nghiệp."
+  },
+  "enchantment.obscure_api.distance": {
+    "en": "Distance",
+    "zh": "Distance",
+    "vi": "khoảng cách"
+  },
+  "enchantment.obscure_api.distance.desc": {
+    "en": "Increase the radius of the projectile's orbit.",
+    "zh": "Increase the radius of the projectile's orbit.",
+    "vi": "Tăng bán kính quỹ đạo đạn đạo."
+  },
+  "enchantment.obscure_api.distance.description": {
+    "en": "Increase the radius of the projectile's orbit.",
+    "zh": "Increase the radius of the projectile's orbit.",
+    "vi": "Tăng bán kính quỹ đạo đạn đạo."
+  },
+  "enchantment.obscure_api.fast_spin": {
+    "en": "Fast Spin",
+    "zh": "Fast Spin",
+    "vi": "quay nhanh"
+  },
+  "enchantment.obscure_api.fast_spin.desc": {
+    "en": "Increase the flight speed of projectile.",
+    "zh": "Increase the flight speed of projectile.",
+    "vi": "Tăng tốc độ bay của đạn."
+  },
+  "enchantment.obscure_api.fast_spin.description": {
+    "en": "Increase the flight speed of projectile.",
+    "zh": "Increase the flight speed of projectile.",
+    "vi": "Tăng tốc độ bay của đạn."
+  },
+  "enchantment.obscure_api.mirror": {
+    "en": "Mirror",
+    "zh": "Mirror",
+    "vi": "gương"
+  },
+  "enchantment.obscure_api.mirror.desc": {
+    "en": "Duplicates projectile, but each duplicate will only deal 50% damage.",
+    "zh": "Duplicates projectile, but each duplicate will only deal 50% damage.",
+    "vi": "Sao chép đường đạn, nhưng mỗi bản sao chỉ gây 50% sát thương."
+  },
+  "enchantment.obscure_api.mirror.description": {
+    "en": "Duplicates projectile, but each duplicate will only deal 50% damage.",
+    "zh": "Duplicates projectile, but each duplicate will only deal 50% damage.",
+    "vi": "Đạn trùng lặp, nhưng mỗi bản sao chỉ gây 50% sát thương."
+  },
+  "attribute.obscure_api.accuracy": {
+    "en": "Accuracy",
+    "zh": "Accuracy",
+    "vi": "Sự chính xác"
+  },
+  "attribute.obscure_api.accuracy.icon": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "attribute.obscure_api.armor.icon": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "attribute.obscure_api.attackDamage.icon": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "attribute.obscure_api.criticalDamage": {
+    "en": "Critical Damage",
+    "zh": "Critical Damage",
+    "vi": "Sát thương chí mạng"
+  },
+  "attribute.obscure_api.criticalDamage.icon": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "attribute.obscure_api.criticalHit": {
+    "en": "Critical Hit",
+    "zh": "Critical Hit",
+    "vi": "Tỷ lệ trúng đòn chí mạng"
+  },
+  "attribute.obscure_api.criticalHit.icon": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "attribute.obscure_api.dodge": {
+    "en": "Dodge",
+    "zh": "Dodge",
+    "vi": "né tránh"
+  },
+  "attribute.obscure_api.dodge.icon": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "attribute.obscure_api.healingPower": {
+    "en": "Healing Power",
+    "zh": "Healing Power",
+    "vi": "Khả năng chữa bệnh"
+  },
+  "attribute.obscure_api.healingPower.icon": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "attribute.obscure_api.magicDamage": {
+    "en": "Magic Damage",
+    "zh": "Magic Damage",
+    "vi": "sát thương phép thuật"
+  },
+  "attribute.obscure_api.magicDamage.icon": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "attribute.obscure_api.magicResistance": {
+    "en": "Magic Resistance",
+    "zh": "Magic Resistance",
+    "vi": "kháng phép"
+  },
+  "attribute.obscure_api.magicResistance.icon": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "attribute.obscure_api.maxHealth.icon": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "attribute.obscure_api.movementSpeed.icon": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "attribute.obscure_api.parry": {
+    "en": "Parry",
+    "zh": "Parry",
+    "vi": "khối"
+  },
+  "attribute.obscure_api.parry.icon": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "attribute.obscure_api.penetration": {
+    "en": "Penetration",
+    "zh": "Penetration",
+    "vi": "thâm nhập"
+  },
+  "attribute.obscure_api.penetration.icon": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "attribute.obscure_api.regeneration": {
+    "en": "Regeneration",
+    "zh": "Regeneration",
+    "vi": "hồi đáp"
+  },
+  "attribute.obscure_api.regeneration.icon": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "attribute.obscure_api.resilience": {
+    "en": "Resilience",
+    "zh": "Resilience",
+    "vi": "sự dẻo dai"
+  },
+  "attribute.obscure_api.resilience.icon": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "obscure_api.accuracy": {
+    "en": "Accuracy",
+    "zh": "Accuracy",
+    "vi": "Sự chính xác"
+  },
+  "obscure_api.criticalDamage": {
+    "en": "Critical Damage",
+    "zh": "Critical Damage",
+    "vi": "Sát thương chí mạng"
+  },
+  "obscure_api.criticalHit": {
+    "en": "Critical Hit",
+    "zh": "Critical Hit",
+    "vi": "Tỷ lệ trúng đòn chí mạng"
+  },
+  "obscure_api.dodge": {
+    "en": "Dodge",
+    "zh": "Dodge",
+    "vi": "né tránh"
+  },
+  "obscure_api.healingPower": {
+    "en": "Healing Power",
+    "zh": "Healing Power",
+    "vi": "Khả năng chữa bệnh"
+  },
+  "obscure_api.magicDamage": {
+    "en": "Magic Damage",
+    "zh": "Magic Damage",
+    "vi": "sát thương phép thuật"
+  },
+  "obscure_api.magicResistance": {
+    "en": "Magic Resistance",
+    "zh": "Magic Resistance",
+    "vi": "kháng phép"
+  },
+  "obscure_api.parry": {
+    "en": "Parry",
+    "zh": "Parry",
+    "vi": "khối"
+  },
+  "obscure_api.penetration": {
+    "en": "Penetration",
+    "zh": "Penetration",
+    "vi": "thâm nhập"
+  },
+  "obscure_api.regeneration": {
+    "en": "Regeneration",
+    "zh": "Regeneration",
+    "vi": "hồi đáp"
+  },
+  "obscure_api.resilience": {
+    "en": "Resilience",
+    "zh": "Resilience",
+    "vi": "sự dẻo dai"
+  },
+  "icon.armor": {
+    "en": "§f",
+    "zh": "§f",
+    "vi": "§f"
+  },
+  "icon.armor_half": {
+    "en": "§f",
+    "zh": "§f",
+    "vi": "§f"
+  },
+  "icon.armor_empty": {
+    "en": "§f",
+    "zh": "§f",
+    "vi": "§f"
+  },
+  "icon.armor_toughness": {
+    "en": "§f",
+    "zh": "§f",
+    "vi": "§f"
+  },
+  "icon.arrow_down": {
+    "en": "§f",
+    "zh": "§f",
+    "vi": "§f"
+  },
+  "icon.arrow_up": {
+    "en": "§f",
+    "zh": "§f",
+    "vi": "§f"
+  },
+  "icon.attack_speed": {
+    "en": "§f",
+    "zh": "§f",
+    "vi": "§f"
+  },
+  "icon.attack_speed.fast": {
+    "en": "§f §2Fast",
+    "zh": "§f §2Fast",
+    "vi": "§f §2 nhanh"
+  },
+  "icon.attack_speed.medium": {
+    "en": "§f §fMedium",
+    "zh": "§f §fMedium",
+    "vi": "§f §ftrung bình"
+  },
+  "icon.attack_speed.slow": {
+    "en": "§f §6Slow",
+    "zh": "§f §6Slow",
+    "vi": "§f §6 chậm"
+  },
+  "icon.attack_speed.very_fast": {
+    "en": "§f §2Very Fast",
+    "zh": "§f §2Very Fast",
+    "vi": "§f §2 rất nhanh"
+  },
+  "icon.attack_speed.very_slow": {
+    "en": "§f §cVery Slow",
+    "zh": "§f §cVery Slow",
+    "vi": "§f §c rất chậm"
+  },
+  "icon.boss": {
+    "en": "§f",
+    "zh": "§f",
+    "vi": "§f"
+  },
+  "icon.damage": {
+    "en": "§f",
+    "zh": "§f",
+    "vi": "§f"
+  },
+  "icon.dialogue": {
+    "en": "§f",
+    "zh": "§f",
+    "vi": "§f"
+  },
+  "icon.down": {
+    "en": "§f",
+    "zh": "§f",
+    "vi": "§f"
+  },
+  "icon.durability": {
+    "en": "§f",
+    "zh": "§f",
+    "vi": "§f"
+  },
+  "icon.gems_fire": {
+    "en": null,
+    "zh": "§f",
+    "vi": "§f"
+  },
+  "icon.gems_nether": {
+    "en": null,
+    "zh": "§f",
+    "vi": "§f"
+  },
+  "icon.gems_soul": {
+    "en": null,
+    "zh": "§f",
+    "vi": "§f"
+  },
+  "icon.gems_tide": {
+    "en": null,
+    "zh": "§f",
+    "vi": "§f"
+  },
+  "icon.gems_bolt": {
+    "en": null,
+    "zh": "§f",
+    "vi": "§f"
+  },
+  "icon.gems_void": {
+    "en": null,
+    "zh": "§f",
+    "vi": "§f"
+  },
+  "icon.gems_sand": {
+    "en": null,
+    "zh": "§f",
+    "vi": "§f"
+  },
+  "icon.gems_sea": {
+    "en": null,
+    "zh": "§f",
+    "vi": "§f"
+  },
+  "icon.gems_cloud": {
+    "en": null,
+    "zh": "§f",
+    "vi": "§f"
+  },
+  "icon.gems_emob": {
+    "en": null,
+    "zh": "§f",
+    "vi": "§f"
+  },
+  "icon.gems_core": {
+    "en": null,
+    "zh": "§f",
+    "vi": "§f"
+  },
+  "icon.gems_green": {
+    "en": null,
+    "zh": "§f",
+    "vi": "§f"
+  },
+  "icon.gems_paladin": {
+    "en": null,
+    "zh": "§f",
+    "vi": "§f"
+  },
+  "icon.gems_empty": {
+    "en": null,
+    "zh": "§f",
+    "vi": "§f"
+  },
+  "icon.energy": {
+    "en": "§f§b",
+    "zh": "§f§b",
+    "vi": "§f§b"
+  },
+  "icon.exp": {
+    "en": "§f§a",
+    "zh": "§f§a",
+    "vi": "§f§a"
+  },
+  "icon.food": {
+    "en": "§f",
+    "zh": "§f",
+    "vi": "§f"
+  },
+  "icon.food_half": {
+    "en": "§f",
+    "zh": "§f",
+    "vi": "§f"
+  },
+  "icon.food_empty": {
+    "en": "§f",
+    "zh": "§f",
+    "vi": "§f"
+  },
+  "icon.food_saturation": {
+    "en": "§f",
+    "zh": "§f",
+    "vi": "§f"
+  },
+  "icon.heart": {
+    "en": "§f",
+    "zh": "§f",
+    "vi": "§f"
+  },
+  "icon.heart_half": {
+    "en": "§f",
+    "zh": "§f",
+    "vi": "§f"
+  },
+  "icon.heart_empty": {
+    "en": "§f",
+    "zh": "§f",
+    "vi": "§f"
+  },
+  "icon.info": {
+    "en": "§f",
+    "zh": "§f",
+    "vi": "§f"
+  },
+  "icon.knockback_resistance": {
+    "en": "§f",
+    "zh": "§f",
+    "vi": "§f"
+  },
+  "icon.reply": {
+    "en": "§f",
+    "zh": "§f",
+    "vi": "§f"
+  },
+  "icon.rmb": {
+    "en": "§f",
+    "zh": "§f",
+    "vi": "§f"
+  },
+  "icon.soul": {
+    "en": "§f",
+    "zh": "§f",
+    "vi": "§f"
+  },
+  "icon.star": {
+    "en": "§f",
+    "zh": "§f",
+    "vi": "§f"
+  },
+  "icon.stick": {
+    "en": "§f",
+    "zh": "§f",
+    "vi": "§f"
+  },
+  "icon.up": {
+    "en": "§f",
+    "zh": "§f",
+    "vi": "§f"
+  }
+}

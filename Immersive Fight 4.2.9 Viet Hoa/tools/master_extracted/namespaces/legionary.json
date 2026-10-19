@@ -1,0 +1,202 @@
+{
+  "item_group.legionary.legionary": {
+    "en": "Legionary",
+    "zh": "Legionary",
+    "vi": "Legionary"
+  },
+  "entity.legionary.unbreakable": {
+    "en": "The Unbreakable",
+    "zh": "不可撼动者",
+    "vi": "The Unbreakable"
+  },
+  "entity.legionary.petrified_unbreakable": {
+    "en": "Petrified Unbreakable",
+    "zh": "石化的不可撼动者",
+    "vi": "Petrified Unbreakable"
+  },
+  "advancements.broken.descr": {
+    "en": "Defeat the Unbreakable",
+    "zh": "击败不可撼动者",
+    "vi": "Đánh bại kẻ không thể lay chuyển"
+  },
+  "subtitles.unbreakable_skulls_shoot": {
+    "en": "The Unbreakable shoots skulls",
+    "zh": "不可撼动者发射颅骨",
+    "vi": "The Unshakable phóng đầu lâu"
+  },
+  "item.legionary.forgotten_bone": {
+    "en": "Forgotten Bone",
+    "zh": "被遗忘的骨头",
+    "vi": "Forgotten Bone"
+  },
+  "subtitles.unbreakable_jump": {
+    "en": "The Unbreakable jumps",
+    "zh": "不可撼动者跳跃",
+    "vi": "Bước nhảy không thể lay chuyển"
+  },
+  "block.legionary.arena_generator": {
+    "en": "Arena Generator",
+    "zh": "竞技场生成器",
+    "vi": "Arena Generator"
+  },
+  "effect.legionary.pierced": {
+    "en": "Pierced",
+    "zh": "穿透",
+    "vi": "thâm nhập"
+  },
+  "painting.legionary.inferno.author": {
+    "en": "RanzhomCheese",
+    "zh": "RanzhomCheese",
+    "vi": "RanzhomCheese"
+  },
+  "subtitles.unbreakable_death": {
+    "en": "The Unbreakable dies",
+    "zh": "不可撼动者死亡",
+    "vi": "Cái chết đến không thể lay chuyển"
+  },
+  "painting.legionary.inferno.title": {
+    "en": "Inferno",
+    "zh": "炼狱",
+    "vi": "luyện ngục"
+  },
+  "subtitles.unbreakable_step": {
+    "en": "Footsteps",
+    "zh": "脚步声",
+    "vi": "bước chân"
+  },
+  "item.minecraft.lingering_potion.effect.piercing": {
+    "en": "Lingering Potion of Piercing",
+    "zh": "穿透型滞留药水",
+    "vi": "Lingering Potion of Piercing"
+  },
+  "subtitles.wheel_of_death_fall": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "item.minecraft.tipped_arrow.effect.piercing": {
+    "en": "Arrow of Piercing",
+    "zh": "穿透之箭",
+    "vi": "Mũi tên xuyên thấu"
+  },
+  "attribute.legionary.sprinting_damage": {
+    "en": "Sprinting Damage",
+    "zh": "冲刺伤害",
+    "vi": "Sát thương gạch ngang"
+  },
+  "item.legionary.skin": {
+    "en": "Skin",
+    "zh": "皮肤",
+    "vi": "Skin"
+  },
+  "item.legionary.gold_shards": {
+    "en": "Gold Shards",
+    "zh": "黄金碎片",
+    "vi": "Gold Shards"
+  },
+  "item.legionary.cudgel": {
+    "en": "Cudgel",
+    "zh": "棍棒",
+    "vi": "Cudgel"
+  },
+  "subtitles.unbreakable_hit": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "entity.legionary.wheel_of_death": {
+    "en": "Wheel of Death",
+    "zh": "死亡之轮",
+    "vi": "Wheel of Death"
+  },
+  "subtitles.unbreakable_hurt": {
+    "en": "The Unbreakable hurts",
+    "zh": "不可撼动者受伤",
+    "vi": "Kẻ không lay chuyển bị thương"
+  },
+  "subtitles.unbreakable_magma": {
+    "en": "The unbreakable shoots",
+    "zh": "不可撼动者射击",
+    "vi": "Cú sút không thể lay chuyển"
+  },
+  "item.minecraft.splash_potion.effect.piercing": {
+    "en": "Splash Potion of Piercing",
+    "zh": "穿透型喷溅药水",
+    "vi": "Splash Potion of Piercing"
+  },
+  "block.legionary.golden_chain": {
+    "en": "Golden Chain",
+    "zh": "黄金锁链",
+    "vi": "Golden Chain"
+  },
+  "subtitles.unbreakable_ambient": {
+    "en": "The Unbreakable breathes",
+    "zh": "不可撼动者呼吸声",
+    "vi": "Hơi thở của người không thể lay chuyển"
+  },
+  "subtitles.unbreakable_warning": {
+    "en": "The Unbreakable roars",
+    "zh": "不可撼动者咆哮",
+    "vi": "Tiếng gầm của sự không thể lay chuyển"
+  },
+  "item.minecraft.potion.effect.piercing": {
+    "en": "Potion of Piercing",
+    "zh": "穿透药水",
+    "vi": "Potion of Piercing"
+  },
+  "subtitles.wheel_of_death_bounce": {
+    "en": "Wheel of death bounces",
+    "zh": "死亡之轮弹跳",
+    "vi": "bánh xe tử thần nảy lên"
+  },
+  "block.legionary.forgotten_bone_basket": {
+    "en": "Forgotten Bone Basket",
+    "zh": "遗忘之骨篮",
+    "vi": "Forgotten Bone Basket"
+  },
+  "block.legionary.block_of_skin": {
+    "en": "Block of Skin",
+    "zh": "皮肤块",
+    "vi": "Block of Skin"
+  },
+  "item.legionary.thermal_stone": {
+    "en": "Thermal Stone",
+    "zh": "热能石",
+    "vi": "Thermal Stone"
+  },
+  "item.legionary.unbreakable_spawn_egg": {
+    "en": "The Unbreakable Spawn Egg",
+    "zh": "不可撼动者生成蛋",
+    "vi": "The Unbreakable Spawn Egg"
+  },
+  "subtitles.sprinting_attack": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "subtitles.unbreakable_death_echo": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "advancements.broken.title": {
+    "en": "Broken",
+    "zh": "破碎",
+    "vi": "vỡ"
+  },
+  "subtitles.unbreakable_awaken": {
+    "en": "The Unbreakable awakens",
+    "zh": "不可撼动者苏醒",
+    "vi": "Sự thức tỉnh không thể lay chuyển"
+  },
+  "subtitles.unbreakable_shoot_skulls": {
+    "en": "The Unbreakable shoots",
+    "zh": "不可撼动者射击",
+    "vi": "Cú sút không thể lay chuyển"
+  },
+  "block.legionary.golden_lantern": {
+    "en": "Golden Lantern",
+    "zh": "黄金灯笼",
+    "vi": "Golden Lantern"
+  }
+}

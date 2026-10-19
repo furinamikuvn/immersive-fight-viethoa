@@ -1,0 +1,222 @@
+{
+  "itemGroup.modifiers_books": {
+    "en": "Modifiers",
+    "zh": "Modifiers",
+    "vi": "đúc lại"
+  },
+  "itemGroup.modifiers.books": {
+    "en": "Modifiers",
+    "zh": "Modifiers",
+    "vi": "đúc lại"
+  },
+  "item.modifiers.reforge_template": {
+    "en": "Reforging Template",
+    "zh": "Reforging Template",
+    "vi": "Reforging Template"
+  },
+  "item.modifiers.modifier_book": {
+    "en": "Modifier Book",
+    "zh": "Modifier Book",
+    "vi": "Modifier Book"
+  },
+  "item.modifiers.modifier_book.tooltip.0": {
+    "en": "§9Combine with an item in an anvil to set its modifier.",
+    "zh": "§9Combine with an item in an anvil to set its modifier.",
+    "vi": "§9 được sử dụng trên đe để che lối vào."
+  },
+  "item.modifiers.modifier_book.tooltip.1": {
+    "en": "§dOnly available in creative mode.",
+    "zh": "§dOnly available in creative mode.",
+    "vi": "Phần thưởng nhiệm vụ §d."
+  },
+  "item.modifiers.modifier_book.tooltip.invalid": {
+    "en": "§dInvalid modifier",
+    "zh": "§dInvalid modifier",
+    "vi": "§d không có mục nào"
+  },
+  "modifiers.waiting_reroll": {
+    "en": "§9Modifier will be rerolled when equipped or held in hand",
+    "zh": "§9Modifier will be rerolled when equipped or held in hand",
+    "vi": "Cho phép vào khi §9 được trang bị hoặc giữ"
+  },
+  "modifiers.curio.wrong_slot": {
+    "en": "not enabled for slot type",
+    "zh": "not enabled for slot type",
+    "vi": "Vật phẩm này không thể được rèn lại bằng thiết bị này"
+  },
+  "modifiers.curio.active": {
+    "en": "active",
+    "zh": "active",
+    "vi": "nhanh"
+  },
+  "modifiers.jei.reforging": {
+    "en": "Reforging",
+    "zh": "Reforging",
+    "vi": "đúc lại"
+  },
+  "misc.modifiers.modifier_prefix": {
+    "en": "Modifier: ",
+    "zh": "Modifier: ",
+    "vi": "Ôn lại:"
+  },
+  "modifier.modifiers.none": {
+    "en": "None",
+    "zh": "None",
+    "vi": "không hợp lệ"
+  },
+  "modifier.modifiers.none.info": {
+    "en": "No modifier",
+    "zh": "No modifier",
+    "vi": "No modifier"
+  },
+  "modifier.modifiers.half_hearted": {
+    "en": "Half-hearted",
+    "zh": "Half-hearted",
+    "vi": "nửa vời"
+  },
+  "modifier.modifiers.hearty": {
+    "en": "Hearty",
+    "zh": "Hearty",
+    "vi": "sức sống"
+  },
+  "modifier.modifiers.hard": {
+    "en": "Hard",
+    "zh": "Hard",
+    "vi": "chất rắn"
+  },
+  "modifier.modifiers.guarding": {
+    "en": "Guarding",
+    "zh": "Guarding",
+    "vi": "phòng thủ"
+  },
+  "modifier.modifiers.armored": {
+    "en": "Armored",
+    "zh": "Armored",
+    "vi": "vũ trang"
+  },
+  "modifier.modifiers.warding": {
+    "en": "Warding",
+    "zh": "Warding",
+    "vi": "canh gác"
+  },
+  "modifier.modifiers.jagged": {
+    "en": "Jagged",
+    "zh": "Jagged",
+    "vi": "răng cưa"
+  },
+  "modifier.modifiers.spiked": {
+    "en": "Spiked",
+    "zh": "Spiked",
+    "vi": "sắc"
+  },
+  "modifier.modifiers.angry": {
+    "en": "Angry",
+    "zh": "Angry",
+    "vi": "sự tức giận"
+  },
+  "modifier.modifiers.menacing": {
+    "en": "Menacing",
+    "zh": "Menacing",
+    "vi": "Sự nguy hiểm"
+  },
+  "modifier.modifiers.brisk": {
+    "en": "Brisk",
+    "zh": "Brisk",
+    "vi": "nhanh nhẹn"
+  },
+  "modifier.modifiers.fleeting": {
+    "en": "Fleeting",
+    "zh": "Fleeting",
+    "vi": "ngắn"
+  },
+  "modifier.modifiers.hasty": {
+    "en": "Hasty",
+    "zh": "Hasty",
+    "vi": "vội vã"
+  },
+  "modifier.modifiers.quick": {
+    "en": "Quick",
+    "zh": "Quick",
+    "vi": "nhanh"
+  },
+  "modifier.modifiers.wild": {
+    "en": "Wild",
+    "zh": "Wild",
+    "vi": "hung bạo"
+  },
+  "modifier.modifiers.rash": {
+    "en": "Rash",
+    "zh": "Rash",
+    "vi": "liều lĩnh"
+  },
+  "modifier.modifiers.intrepid": {
+    "en": "Intrepid",
+    "zh": "Intrepid",
+    "vi": "Không sợ hãi"
+  },
+  "modifier.modifiers.violent": {
+    "en": "Violent",
+    "zh": "Violent",
+    "vi": "Bạo lực"
+  },
+  "modifier.modifiers.legendary": {
+    "en": "Legendary",
+    "zh": "Legendary",
+    "vi": "huyền thoại"
+  },
+  "modifier.modifiers.deadly": {
+    "en": "Deadly",
+    "zh": "Deadly",
+    "vi": "gây tử vong"
+  },
+  "modifier.modifiers.vicious": {
+    "en": "Vicious",
+    "zh": "Vicious",
+    "vi": "độc ác"
+  },
+  "modifier.modifiers.sharp": {
+    "en": "Sharp",
+    "zh": "Sharp",
+    "vi": "sắc"
+  },
+  "modifier.modifiers.broken": {
+    "en": "Broken",
+    "zh": "Broken",
+    "vi": "không đầy đủ"
+  },
+  "modifier.modifiers.damaged": {
+    "en": "Damaged",
+    "zh": "Damaged",
+    "vi": "hư hại"
+  },
+  "modifier.modifiers.agile": {
+    "en": "Agile",
+    "zh": "Agile",
+    "vi": "nhanh nhẹn"
+  },
+  "modifier.modifiers.swift": {
+    "en": "Swift",
+    "zh": "Swift",
+    "vi": "Khỏe mạnh"
+  },
+  "modifier.modifiers.sluggish": {
+    "en": "Sluggish",
+    "zh": "Sluggish",
+    "vi": "chậm"
+  },
+  "modifier.modifiers.slow": {
+    "en": "Slow",
+    "zh": "Slow",
+    "vi": "chậm"
+  },
+  "modifier.modifiers.light": {
+    "en": "Light",
+    "zh": "Light",
+    "vi": "ánh sáng"
+  },
+  "modifier.modifiers.heavy": {
+    "en": "Heavy",
+    "zh": "Heavy",
+    "vi": "nặng"
+  }
+}

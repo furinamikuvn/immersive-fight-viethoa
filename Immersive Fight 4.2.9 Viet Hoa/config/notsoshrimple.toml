@@ -1,0 +1,61 @@
+
+[loot]
+	#Changes the maximum amount of damage / defense granted by somber smithing stones. -1 = uncapped.
+	#Range: > -1
+	somberCap = 3
+	#Changes the maximum amount of extra durability granted by smithing stones. -1 = uncapped. If capped, the maximum must be at least 10.
+	#Range: > -1
+	smithingCap = 0
+
+[crayfish]
+
+	[crayfish.spawning]
+		#Change the spawn weight for Crayfishes. Higher number = higher chance of spawning. 0 = disable spawn
+		#Range: 0 ~ 1000
+		crayfishSpawnWeight = 1
+		#Change the roll chance for Crayfishes. Higher number = lower chance of spawning
+		#Range: > 0
+		crayfishSpawnRolls = 1
+
+	[crayfish.behavior]
+		#Controls whether crayfish attack mobs other than the player
+		hostileCrayfish = true
+		#Crayfish only attack targets when they get too close
+		territorialCrayfish = true
+		#Range in blocks that crayfish consider their territory.
+		#Range: 1 ~ 64
+		crayfishTerritoryRange = 10
+		#Range beyond territoryRange where crayfish will look at targets.
+		#Range: 1 ~ 64
+		crayfishWatchRange = 5
+		#If true, crayfish will attack everything in their territory.
+		attackAllWithinTerritory = false
+		#If true, crayfish will always attack entities in the 'always_hunt' list.
+		crayfishAlwaysHuntList = true
+
+[maneater]
+
+	[maneater.spawning]
+		#Change the spawn weight for Maneater Shells. Higher number = higher chance of spawning. 0 = disable spawn
+		#Range: 0 ~ 1000
+		maneaterWeight = 1
+		#Change the roll chance for Maneater Shells. Higher number = lower chance of spawning
+		#Range: > 0
+		maneaterRolls = 1
+
+	[maneater.behavior]
+		#Controls whether maneaters attack mobs other than the player
+		hostileManeater = true
+		#Maneaters only attack targets when they get too close
+		territorialManeater = true
+		#Range in blocks that maneaters consider their territory.
+		#Range: 1 ~ 64
+		maneaterTerritoryRange = 10
+		#Range beyond territoryRange where maneaters will look at targets.
+		#Range: 1 ~ 64
+		maneaterWatchRange = 5
+		#If true, maneaters will attack everything in their territory.
+		attackAllWithinTerritory = false
+		#If true, maneaters will always attack entities in the 'always_hunt' list.
+		maneaterAlwaysHuntList = true
+

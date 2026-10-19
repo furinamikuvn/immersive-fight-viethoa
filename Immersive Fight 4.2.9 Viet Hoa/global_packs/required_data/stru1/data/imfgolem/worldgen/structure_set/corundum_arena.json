@@ -1,0 +1,18 @@
+{
+  "structures": [
+    {
+      "structure": "imfgolem:corundum_arena",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 30,
+    "separation": 10,
+    "salt": 2122116661,
+"exclusion_zone": {
+      "chunk_count": 5,
+      "other_set": "minecraft:villages"
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "entity.spice.warden_boss": {
+    "en": null,
+    "zh": "幽匿监守者",
+    "vi": "Người giữ ẩn"
+  },
+  "entity.spice.soul": {
+    "en": null,
+    "zh": "灵魂",
+    "vi": "linh hồn"
+  },
+  "effect.spice.shake": {
+    "en": null,
+    "zh": "震荡",
+    "vi": "sốc"
+  },
+  "subtitles.wardenboss_idle": {
+    "en": null,
+    "zh": "幽匿监守者低吼",
+    "vi": "Tên Hidewarder gầm gừ"
+  },
+  "item.spice.soulmob_spawn_egg": {
+    "en": null,
+    "zh": "灵魂刷怪蛋",
+    "vi": "Trứng hồi sinh linh hồn"
+  },
+  "entity.spice.soulmob": {
+    "en": null,
+    "zh": "灵魂",
+    "vi": "linh hồn"
+  },
+  "item.spice.warden_boss_spawn_egg": {
+    "en": null,
+    "zh": "幽匿监守者刷怪蛋",
+    "vi": "Trứng sinh sản Nether Warder"
+  }
+}

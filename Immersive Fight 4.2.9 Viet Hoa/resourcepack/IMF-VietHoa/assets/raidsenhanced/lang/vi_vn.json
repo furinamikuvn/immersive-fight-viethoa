@@ -1,0 +1,21 @@
+{
+  "item.raidsenhanced.player_blimp": "Blimp",
+  "item.raidsenhanced.zapper_staff": "Zapper Staff",
+  "item.raidsenhanced.blimp_parts": "Blimp Parts",
+  "item.raidsenhanced.handcannon": "Handcannon",
+  "itemGroup.raidsenhanced": "Raids Enhanced",
+  "raidsenhanced.mount": "Tương tác với khinh khí cầu một lần nữa để hạ cánh.",
+  "entity.raidsenhanced.zapper": "Zapper",
+  "entity.raidsenhanced.golem_of_last_resort": "Golem of Last Resort",
+  "entity.raidsenhanced.raid_blimp": "Raider Blimp",
+  "entity.raidsenhanced.player_blimp": "Blimp",
+  "entity.raidsenhanced.raid_drill": "Raider Drill",
+  "item.raidsenhanced.zapper_spawn_egg": "Zapper Spawn Egg",
+  "item.raidsenhanced.golem_of_last_resort_spawn_egg": "Golem of Last Resort Spawn Egg",
+  "item.raidsenhanced.raid_blimp_spawn_egg": "Raider Blimp Spawn Egg",
+  "item.raidsenhanced.raid_drill_spawn_egg": "Raider Drill Spawn Egg",
+  "raidsenhanced.item_description.player_blimp": "Đặt trên mặt đất để triệu hồi phi thuyền của riêng bạn",
+  "raidsenhanced.item_description.handcannon": "Sử dụng để phóng một quả bom mạnh mẽ",
+  "raidsenhanced.item_description.zapper_staff": "Dùng để phóng ra một quả cầu sét. Nếu bạn nhìn xuống đất trong khi sử dụng nó, tia sét sẽ được triệu tập xung quanh người dùng.",
+  "raidsenhanced.item_description.blimp_parts": "Kết hợp với bất kỳ con tàu nào để biến nó thành một chiếc airship"
+}

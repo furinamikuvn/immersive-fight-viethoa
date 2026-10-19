@@ -1,0 +1,133 @@
+{
+  "key.category.epicfight_awaken": "EpicFight Awaken",
+  "key.epicfight_awaken.skill1": "Skill 1",
+  "key.epicfight_awaken.skill2": "Skill 2",
+  "key_info.epicfight_awaken.long_press": "long press ",
+
+  "creativetab.epicfight_awaken.efa_items": "EpicFight Awaken Items",
+  "item.epicfight_awaken.darknight_pursuiters": "Darknight Pursuiters",
+  "item.epicfight_awaken.will_of_king": "Will of King",
+  "item.epicfight_awaken.rage_of_flame": "Rage of Flame",
+  "item.epicfight_awaken.bleak_ender_essence": "Bleak Ender Essence",
+  "item.epicfight_awaken.ender_essence": "Ender Essence",
+
+  "effect.epicfight_awaken.curse_of_night": "Curse Of Night",
+  "effect.epicfight_awaken.flame_enchant": "Flame Enchant",
+  "effect.epicfight_awaken.lightning_enchant": "Lightning Enchant",
+
+  "skill_tree.epicfight_awaken.awaken": "Awaken",
+  "unlock.epicfight_awaken.thunder_punishment": "Crafted",
+
+  "skill.epicfight_awaken.darknight_pursuiters": "Darknight Pursuiters",
+  "skill.epicfight_awaken.darknight_pursuiters.tooltip": "An assassin lurking in the shadows of the night, dodging enemy strikes with nimble movements and striking back in return.",
+  "skill.epicfight_awaken.darknight_pursuiters.tooltip_warning": "Warning: Normal Attack and Heavy Attack are currently bound to the same key. It is strongly recommended to bind Heavy Attack to a different key.",
+  "skill.epicfight_awaken.darknight_pursuiters.tooltip1": "<Keybind>",
+  "skill.epicfight_awaken.darknight_pursuiters.tooltip2-1": "-<N> %s  <H> %s  <D> %s",
+  "skill.epicfight_awaken.darknight_pursuiters.tooltip2-2": "-<S1> %s  <S2> %s",
+  "skill.epicfight_awaken.darknight_pursuiters.tooltip3": "<Weapon Skills>",
+  "skill.epicfight_awaken.darknight_pursuiters.tooltip4": "-[Normal Attack] §f N N N N",
+  "skill.epicfight_awaken.darknight_pursuiters.tooltip5": "-[Heavy Attack] §f H H H H",
+  "skill.epicfight_awaken.darknight_pursuiters.tooltip6": "-[Nightfall] §f N H",
+  "skill.epicfight_awaken.darknight_pursuiters.tooltip7": "-[Dust Reaver] §f N N H",
+  "skill.epicfight_awaken.darknight_pursuiters.tooltip8": "-[Phantom Dance] §f N N N H H H ... H",
+  "skill.epicfight_awaken.darknight_pursuiters.tooltip9": "-[Shadow Lunge] §f Dash N H H H",
+  "skill.epicfight_awaken.darknight_pursuiters.tooltip10": "-[Falling Shadow] §f Jump N H",
+  "skill.epicfight_awaken.darknight_pursuiters.tooltip11": "-[Shadow Step] §f After Attack S1 H",
+  "skill.epicfight_awaken.darknight_pursuiters.tooltip12": "-[Shadow Step-Pursuit] §f Shadow Step GP + N",
+  "skill.epicfight_awaken.darknight_pursuiters.tooltip13": "-[Shadow Step-Throwing Blade] §f Shadow Step GP + H",
+  "skill.epicfight_awaken.darknight_pursuiters.tooltip14": "-[Defensive Counter] §f D after Parry",
+  "skill.epicfight_awaken.darknight_pursuiters.tooltip15": "-[Shadow Swap] §f S1 + D after Parry",
+  "skill.epicfight_awaken.darknight_pursuiters.tooltip16": "-[Grappling Hook] §f S2 + H",
+  "skill.epicfight_awaken.darknight_pursuiters.tooltip17": "-[Ground Slash] §f Grappling Hook Slide + N/H",
+  "skill.epicfight_awaken.darknight_pursuiters.tooltip18": "-[Aerial Spinning Slash] §f Grappling Hook Flight + N/H",
+
+  "skill.epicfight_awaken.wok_skill": "Will Of King",
+  "skill.epicfight_awaken.wok_skill.tooltip": "",
+  "skill.epicfight_awaken.wok_skill.tooltip1": "<Keybind>",
+  "skill.epicfight_awaken.wok_skill.tooltip2-1": "-<N> %s  <H> %s  <D> %s",
+  "skill.epicfight_awaken.wok_skill.tooltip2-2": "-<S1> %s  <S2> %s",
+  "skill.epicfight_awaken.wok_skill.tooltip3": "<Weapon Skills>",
+  "skill.epicfight_awaken.wok_skill.tooltip4": "-[Normal Attack] §f N N N N N",
+  "skill.epicfight_awaken.wok_skill.tooltip5": "-[Heavy Attack] §f H H",
+  "skill.epicfight_awaken.wok_skill.tooltip6": "-[Dodge Counter] §f H D",
+  "skill.epicfight_awaken.wok_skill.tooltip7": "-[Dodge Pursuit] §f Dodge Counter + H",
+  "skill.epicfight_awaken.wok_skill.tooltip8": "-[Defensive Counter] §f D after Parry",
+  "skill.epicfight_awaken.wok_skill.tooltip9": "-[King's Judgment] §f S2 H",
+
+  "skill.epicfight_awaken.rof_skill": "Rage Of Flame",
+  "skill.epicfight_awaken.rof_skill.tooltip": "",
+  "skill.epicfight_awaken.rof_skill.tooltip1": "<Keybind>",
+  "skill.epicfight_awaken.rof_skill.tooltip2-1": "-<N> %s  <H> %s  <D> %s",
+  "skill.epicfight_awaken.rof_skill.tooltip2-2": "-<S1> %s  <S2> %s",
+  "skill.epicfight_awaken.rof_skill.tooltip3": "<Weapon Skills>",
+  "skill.epicfight_awaken.rof_skill.tooltip4": "-[Normal Attack] §f N N N N N",
+  "skill.epicfight_awaken.rof_skill.tooltip5": "-[Heavy Attack] §f H H",
+  "skill.epicfight_awaken.rof_skill.tooltip6": "-[Dodge Counter] §f H D",
+  "skill.epicfight_awaken.rof_skill.tooltip7": "-[Dodge Pursuit] §f Dodge Counter + H",
+  "skill.epicfight_awaken.rof_skill.tooltip8": "-[Defensive Counter] §f D after Parry",
+  "skill.epicfight_awaken.rof_skill.tooltip9": "-[Flame Storm] §f S2 H",
+
+
+  "skill.epicfight_awaken.wr_skill": "Sword Of Thunder and Flame",
+  "skill.epicfight_awaken.wr_skill.tooltip": "",
+  "skill.epicfight_awaken.wr_skill.tooltip1": "<Keybind>",
+  "skill.epicfight_awaken.wr_skill.tooltip2-1": "-<N> %s  <H> %s  <D> %s",
+  "skill.epicfight_awaken.wr_skill.tooltip2-2": "-<S1> %s  <S2> %s",
+  "skill.epicfight_awaken.wr_skill.tooltip3": "<Weapon Skills>",
+  "skill.epicfight_awaken.wr_skill.tooltip4": "-[Normal Attack] §f N N N N",
+  "skill.epicfight_awaken.wr_skill.tooltip5": "-[Heavy Attack] §f H H",
+  "skill.epicfight_awaken.wr_skill.tooltip6": "-[Dodge Counter] §f H D",
+  "skill.epicfight_awaken.wr_skill.tooltip7": "-[Dodge Pursuit] §f Dodge Counter + H",
+  "skill.epicfight_awaken.wr_skill.tooltip8": "-[Defensive Counter] §f D after Parry",
+  "skill.epicfight_awaken.wr_skill.tooltip9": "-[Inferno of Thunder and Flame] §f S2 H",
+
+  "skill.epicfight_awaken.wr_skill.passive":"<Passive>",
+  "skill.epicfight_awaken.wr_skill.stamina_regen":"[Battle Breath] §f Whenever you successfully use a dodge counter or defensive counter to dodge an enemy attack, you immediately recover a small amount of stamina and begin restoring stamina",
+  "skill.epicfight_awaken.wr_skill.guard_counter": "[Turning The Tide] §f Each time you successfully parry an enemy's attack, your next defensive counter deals 20% more damage for 3 seconds, up to a maximum of 100%",
+
+  "skill.epicfight_awaken.thunder_punishment": "Thunder Punishment",
+  "skill.epicfight_awaken.thunder_punishment.tooltip": "Press [%s + %s] to release\n\nStrike lightning on up to 10 targets within a 16-block radius\n\nDeal [5 + 8%% of Max Health + 300%% of ATK] damage\n\nDamage is doubled if the target has less than 25%% health remaining\n\nEach enemy killed with this skill reduces its cooldown by 10 seconds",
+
+  "skill.epicfight_awaken.indestructible": "Indestructible",
+  "skill.epicfight_awaken.indestructible.tooltip": "Whenever your health decreases, gain damage absorption equal to\n[2 + 5% of Max Health].\nIf health is below 50%, the effect is doubled.",
+
+  "skill.epicfight_awaken.focused_strike": "Focused Strike",
+  "skill.epicfight_awaken.focused_strike.tooltip": "When an attack successfully hits an enemy, gain a stack of a buff that increases attack speed by %s%% for %s seconds, stacking up to %s times.",
+
+  "skill.epicfight_awaken.rhythmic_endurance": "Rhythmic Endurance",
+  "skill.epicfight_awaken.rhythmic_endurance.tooltip": "Every 10 seconds, toggle between %s and %s stamina regeneration rate.",
+
+  "skill.epicfight_awaken.vulnerability_strike": "Vulnerability Strike",
+  "skill.epicfight_awaken.vulnerability_strike.tooltip": "During an enemy's attack wind-up, increase damage dealt to them by %s%% and impact by %s%%.",
+
+  "skill.epicfight_awaken.revitalize": "Revitalize",
+  "skill.epicfight_awaken.revitalize.tooltip": "Upon entering any stun state, immediately begin regenerating stamina.\nIf in a broken state, gain a brief Resistance effect at level 2.",
+
+  "skill.epicfight_awaken.unyielding_will": "Unyielding Will",
+  "skill.epicfight_awaken.unyielding_will.tooltip": "When about to take fatal damage, negate that damage, restore 40% of your health, and gain a brief Resistance effect at level 4."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}

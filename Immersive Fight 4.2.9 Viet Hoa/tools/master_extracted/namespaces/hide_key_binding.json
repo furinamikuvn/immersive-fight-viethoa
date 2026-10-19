@@ -1,0 +1,17 @@
+{
+  "hkb.gui.config_title": {
+    "en": "Hide Key Binding",
+    "zh": "按键绑定隐藏",
+    "vi": null
+  },
+  "hkb.gui.show": {
+    "en": "§aShow",
+    "zh": "§a显示",
+    "vi": null
+  },
+  "hkb.gui.hide": {
+    "en": "§cHide",
+    "zh": "§c隐藏",
+    "vi": null
+  }
+}

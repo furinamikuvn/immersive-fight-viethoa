@@ -1,0 +1,16 @@
+{
+  "cataclysm:wrath_of_the_desert":[
+    {
+      "attribute": "minecraft:generic.movement_speed",
+      "value": 0.03,
+      "operation": "ADDITION",
+      "slot": "mainhand"
+    },
+	{
+      "attribute": "attributeslib:arrow_damage",
+      "value": 1.5,
+      "operation": "ADDITION",
+      "slot": "mainhand"
+    }
+  ]
+}

@@ -1,0 +1,917 @@
+{
+  "config.jei": {
+    "en": null,
+    "zh": "JEI配置",
+    "vi": "cấu hình JEI"
+  },
+  "config.jei.advanced": {
+    "en": null,
+    "zh": "高级",
+    "vi": "trình độ cao"
+  },
+  "config.jei.advanced.centerSearchBarEnabled": {
+    "en": null,
+    "zh": "搜索栏居中",
+    "vi": "Thanh tìm kiếm ở giữa"
+  },
+  "config.jei.advanced.centerSearchBarEnabled.comment": {
+    "en": null,
+    "zh": "JEI搜索栏会被移动至屏幕底部居中的位置。",
+    "vi": "Thanh tìm kiếm JEI sẽ được chuyển xuống chính giữa phía dưới màn hình."
+  },
+  "config.jei.advanced.colorSearchEnabled": {
+    "en": null,
+    "zh": "启用颜色搜索",
+    "vi": "Bật tìm kiếm màu"
+  },
+  "config.jei.advanced.colorSearchEnabled.comment": {
+    "en": null,
+    "zh": "按颜色搜索原料，并在原料列表叠加层中原料的提示文本上显示颜色。",
+    "vi": "Tìm kiếm thành phần theo màu sắc và hiển thị màu trên văn bản chú giải công cụ của thành phần trong lớp phủ danh sách thành phần."
+  },
+  "config.jei.advanced.comment": {
+    "en": null,
+    "zh": "用于更改JEI功能的高级配置选项。",
+    "vi": "Tùy chọn cấu hình nâng cao để thay đổi chức năng JEI."
+  },
+  "config.jei.advanced.debugModeEnabled": {
+    "en": null,
+    "zh": "调试模式",
+    "vi": "chế độ gỡ lỗi"
+  },
+  "config.jei.advanced.debugModeEnabled.comment": {
+    "en": null,
+    "zh": "仅对JEI开发者有用，会添加测试原料以及一些调试配方。",
+    "vi": "Chỉ hữu ích cho các nhà phát triển JEI, nó sẽ thêm các thành phần thử nghiệm và một số công thức sửa lỗi."
+  },
+  "config.jei.advanced.giveMode": {
+    "en": null,
+    "zh": "拿取模式",
+    "vi": "Chụp chế độ"
+  },
+  "config.jei.advanced.giveMode.comment": {
+    "en": null,
+    "zh": "选择JEI会直接将原料移入物品栏或是用鼠标将其捡起。",
+    "vi": "Việc chọn JEI sẽ chuyển nguyên liệu thô trực tiếp vào kho hoặc nhặt bằng chuột."
+  },
+  "config.jei.advanced.itemBlacklist": {
+    "en": null,
+    "zh": "原料黑名单",
+    "vi": "Danh sách đen nguyên liệu thô"
+  },
+  "config.jei.advanced.itemBlacklist.comment": {
+    "en": null,
+    "zh": "黑名单中的原料将不会显示于JEI原料列表。添加格式：modId[:name[:meta]]。使用隐藏原料模式可自动添加或删除这里的条目。",
+    "vi": "Nguyên liệu thô trong danh sách đen sẽ không được hiển thị trong danh sách nguyên liệu thô của JEI. Thêm định dạng: modId[:name[:meta]]. Sử dụng chế độ thành phần ẩn để tự động thêm hoặc xóa các mục tại đây."
+  },
+  "config.jei.advanced.maxColumns": {
+    "en": null,
+    "zh": "叠加层最大宽度",
+    "vi": "Chiều rộng tối đa của lớp phủ"
+  },
+  "config.jei.advanced.maxColumns.comment": {
+    "en": null,
+    "zh": "原料列表叠加层和书签列表叠加层的最大宽度。",
+    "vi": "Chiều rộng tối đa của lớp phủ danh sách thành phần và lớp phủ danh sách đánh dấu."
+  },
+  "config.jei.advanced.maxRecipeGuiHeight": {
+    "en": null,
+    "zh": "配方界面最大高度",
+    "vi": "Chiều cao tối đa của giao diện công thức"
+  },
+  "config.jei.advanced.maxRecipeGuiHeight.comment": {
+    "en": null,
+    "zh": "配方界面的最大高度。",
+    "vi": "Chiều cao tối đa của giao diện công thức nấu ăn."
+  },
+  "config.jei.advanced.modNameFormat": {
+    "en": null,
+    "zh": "模组名称样式",
+    "vi": "Kiểu tên Mod"
+  },
+  "config.jei.advanced.modNameFormat.comment": {
+    "en": null,
+    "zh": "定义JEI界面的提示文本中的模组名称样式。留空以禁用。",
+    "vi": "Xác định kiểu tên Mod trong văn bản nhắc của giao diện JEI. Để trống để vô hiệu hóa."
+  },
+  "config.jei.default": {
+    "en": null,
+    "zh": "默认",
+    "vi": "mặc định"
+  },
+  "config.jei.interface": {
+    "en": null,
+    "zh": "用户界面",
+    "vi": "giao diện người dùng"
+  },
+  "config.jei.interface.bookmarkOverlayEnabled": {
+    "en": null,
+    "zh": "显示书签列表叠加层",
+    "vi": "Hiển thị lớp phủ danh sách dấu trang"
+  },
+  "config.jei.interface.bookmarkOverlayEnabled.comment": {
+    "en": null,
+    "zh": "在打开的界面一侧显示书签列表叠加层。",
+    "vi": "Hiển thị lớp phủ danh sách bookmark ở bên cạnh giao diện mở ra."
+  },
+  "config.jei.interface.comment": {
+    "en": null,
+    "zh": "用户界面的相关设定。",
+    "vi": "Cài đặt liên quan đến giao diện người dùng."
+  },
+  "config.jei.interface.overlayEnabled": {
+    "en": null,
+    "zh": "显示原料列表叠加层",
+    "vi": "Hiển thị lớp phủ danh sách thành phần"
+  },
+  "config.jei.interface.overlayEnabled.comment": {
+    "en": null,
+    "zh": "在打开的界面一侧显示原料列表。",
+    "vi": "Danh sách nguyên liệu thô được hiển thị ở một bên của giao diện đã mở."
+  },
+  "config.jei.mode": {
+    "en": null,
+    "zh": "模式",
+    "vi": "người mẫu"
+  },
+  "config.jei.mode.cheatItemsEnabled": {
+    "en": null,
+    "zh": "作弊模式",
+    "vi": "chế độ gian lận"
+  },
+  "config.jei.mode.cheatItemsEnabled.comment": {
+    "en": null,
+    "zh": "给予物品而非显示其配方。",
+    "vi": "Cung cấp vật phẩm thay vì hiển thị công thức của nó."
+  },
+  "config.jei.mode.comment": {
+    "en": null,
+    "zh": "更改JEI的工作模式。",
+    "vi": "Thay đổi chế độ làm việc của JEI."
+  },
+  "config.jei.mode.editEnabled": {
+    "en": null,
+    "zh": "隐藏原料模式",
+    "vi": "Ẩn chế độ thành phần"
+  },
+  "config.jei.mode.editEnabled.comment": {
+    "en": null,
+    "zh": "在原料列表叠加层中点击原料以隐藏或取消隐藏。",
+    "vi": "Nhấp vào một thành phần trong lớp phủ danh sách thành phần để ẩn hoặc hiện thành phần đó."
+  },
+  "config.jei.search": {
+    "en": null,
+    "zh": "搜索选项",
+    "vi": "Tùy chọn tìm kiếm"
+  },
+  "config.jei.search.colorSearchMode": {
+    "en": null,
+    "zh": "^颜色",
+    "vi": "^Màu sắc"
+  },
+  "config.jei.search.colorSearchMode.comment": {
+    "en": null,
+    "zh": "当按物品颜色搜索时，要求使用“^”作为前缀。",
+    "vi": "Khi tìm kiếm theo màu vật phẩm, bắt buộc phải sử dụng \"^\" làm tiền tố."
+  },
+  "config.jei.search.comment": {
+    "en": null,
+    "zh": "搜索栏的相关选项。",
+    "vi": "Các tùy chọn liên quan đến thanh tìm kiếm."
+  },
+  "config.jei.search.creativeTabSearchMode": {
+    "en": null,
+    "zh": "%%创造模式标签页",
+    "vi": "Tab chế độ sáng tạo %%"
+  },
+  "config.jei.search.creativeTabSearchMode.comment": {
+    "en": null,
+    "zh": "当按创造模式标签页名搜索时，要求使用“%”作为前缀。",
+    "vi": "Khi tìm kiếm theo tên tab chế độ sáng tạo, bắt buộc phải sử dụng \"%\" làm tiền tố."
+  },
+  "config.jei.search.modNameSearchMode": {
+    "en": null,
+    "zh": "@模组名称",
+    "vi": "@tên Mod"
+  },
+  "config.jei.search.modNameSearchMode.comment": {
+    "en": null,
+    "zh": "当按模组名称搜索时，要求使用“@”作为前缀。",
+    "vi": "Khi tìm kiếm theo tên Mod, bắt buộc phải có tiền tố \"@\"."
+  },
+  "config.jei.search.resourceIdSearchMode": {
+    "en": null,
+    "zh": "&资源ID",
+    "vi": "&ID tài nguyên"
+  },
+  "config.jei.search.resourceIdSearchMode.comment": {
+    "en": null,
+    "zh": "当按资源ID搜索时，要求使用“&”作为前缀。",
+    "vi": "Khi tìm kiếm theo ID tài nguyên, bắt buộc phải sử dụng \"&\" làm tiền tố."
+  },
+  "config.jei.search.searchAdvancedTooltips": {
+    "en": null,
+    "zh": "搜索高级提示文本",
+    "vi": "Tìm kiếm văn bản nhắc nhở nâng cao"
+  },
+  "config.jei.search.tagSearchMode": {
+    "en": null,
+    "zh": "$标签",
+    "vi": "thẻ $"
+  },
+  "config.jei.search.tagSearchMode.comment": {
+    "en": null,
+    "zh": "当按标签名称搜索时，要求使用“$”作为前缀。",
+    "vi": "Khi tìm kiếm theo tên thẻ, bắt buộc phải có tiền tố \"$\"."
+  },
+  "config.jei.search.tooltipSearchMode": {
+    "en": null,
+    "zh": "#提示文本",
+    "vi": "#văn bản nhắc nhở"
+  },
+  "config.jei.search.tooltipSearchMode.comment": {
+    "en": null,
+    "zh": "当按提示文本搜索时，要求使用“#”作为前缀。",
+    "vi": "Khi tìm kiếm bằng văn bản nhắc nhở, bắt buộc phải sử dụng \"#\" làm tiền tố."
+  },
+  "config.jei.title": {
+    "en": null,
+    "zh": "%MODNAME配置",
+    "vi": "Cấu hình %MODNAME"
+  },
+  "config.jei.valid": {
+    "en": null,
+    "zh": "有效",
+    "vi": "có hiệu quả"
+  },
+  "description.jei.debug.formatting.1": {
+    "en": "Testing %s formatting replacements.",
+    "zh": "测试%s格式化替换中。",
+    "vi": "Kiểm tra thay thế định dạng %s."
+  },
+  "description.jei.debug.formatting.2": {
+    "en": "Testing %s %s formatting replacements.",
+    "zh": "测试%s %s格式化替换中。",
+    "vi": "Kiểm tra thay thế định dạng %s %s."
+  },
+  "description.jei.debug.formatting.3": {
+    "en": "%s nested",
+    "zh": "%s嵌入完成",
+    "vi": "Quá trình nhúng %s đã hoàn tất"
+  },
+  "description.jei.wooden.door.1": {
+    "en": "Wooden doors allow you to block monsters from entering your building.\\nTesting sentences.",
+    "zh": "木门允许你阻止怪物进入你的建筑。\\n测试用文本。",
+    "vi": "Cửa gỗ cho phép bạn ngăn chặn quái vật xâm nhập vào tòa nhà của bạn. Văn bản kiểm tra \\n."
+  },
+  "description.jei.wooden.door.2": {
+    "en": "Clicking on a door changes its state from open to closed and vice versa.",
+    "zh": "右击一扇门，它的状态就会从打开变成关闭，反之亦然。",
+    "vi": "Nhấp chuột phải vào cửa sẽ thay đổi trạng thái từ mở sang đóng và ngược lại."
+  },
+  "description.jei.wooden.door.3": {
+    "en": "Wooden doors can be opened/closed via redstone circuits.",
+    "zh": "木门可以通过红石电路打开/关闭。",
+    "vi": "Cửa gỗ có thể đóng/mở thông qua mạch đá đỏ."
+  },
+  "gui.jei.category.blasting": {
+    "en": "Blasting",
+    "zh": "高温烧炼",
+    "vi": "Luyện kim ở nhiệt độ cao"
+  },
+  "gui.jei.category.brewing": {
+    "en": "Brewing",
+    "zh": "酿造",
+    "vi": "sản xuất bia"
+  },
+  "gui.jei.category.brewing.steps": {
+    "en": "Steps: %s",
+    "zh": "步骤：%s",
+    "vi": "Các bước:%s"
+  },
+  "gui.jei.category.campfire": {
+    "en": "Campfire Cooking",
+    "zh": "营火烹饪",
+    "vi": "nấu ăn lửa trại"
+  },
+  "gui.jei.category.compostable": {
+    "en": "Composting",
+    "zh": "堆肥",
+    "vi": "phân trộn"
+  },
+  "gui.jei.category.compostable.chance": {
+    "en": "Chance: %s%%",
+    "zh": "几率：%s%%",
+    "vi": "Xác suất: %s%%"
+  },
+  "gui.jei.category.craftingTable": {
+    "en": "Crafting",
+    "zh": "合成",
+    "vi": "tổng hợp"
+  },
+  "gui.jei.category.fuel": {
+    "en": "Fuel",
+    "zh": "燃料",
+    "vi": "nhiên liệu"
+  },
+  "gui.jei.category.fuel.smeltCount": {
+    "en": "Smelts %s items",
+    "zh": "烧炼%s个物品",
+    "vi": "Nấu chảy các mặt hàng %s"
+  },
+  "gui.jei.category.fuel.smeltCount.single": {
+    "en": "Smelts 1 item",
+    "zh": "烧炼1个物品",
+    "vi": "Ngửi 1 sản phẩm"
+  },
+  "gui.jei.category.itemInformation": {
+    "en": "Information",
+    "zh": "信息",
+    "vi": "thông tin"
+  },
+  "gui.jei.category.smelting": {
+    "en": "Smelting",
+    "zh": "烧炼",
+    "vi": "luyện kim"
+  },
+  "gui.jei.category.smelting.experience": {
+    "en": "%s XP",
+    "zh": "%s点经验",
+    "vi": "Kinh nghiệm điểm %s"
+  },
+  "gui.jei.category.smelting.time.seconds": {
+    "en": "%ss",
+    "zh": "%s秒",
+    "vi": "%s giây"
+  },
+  "gui.jei.category.smoking": {
+    "en": "Smoking",
+    "zh": "烟熏",
+    "vi": "có mùi khói"
+  },
+  "gui.jei.category.stoneCutter": {
+    "en": "Stonecutting",
+    "zh": "切石",
+    "vi": "đá cắt"
+  },
+  "gui.jei.editMode.description": {
+    "en": "JEI Hide Ingredients Mode:",
+    "zh": "JEI隐藏原料模式：",
+    "vi": "Chế độ thành phần ẩn của JEI:"
+  },
+  "gui.jei.editMode.description.hide": {
+    "en": "Press \"%s\" to hide.",
+    "zh": "%s以隐藏。",
+    "vi": "%s để ẩn."
+  },
+  "gui.jei.editMode.description.hide.wild": {
+    "en": "Press \"%s\" to hide by wildcard.",
+    "zh": "%s以隐藏（使用通配符）",
+    "vi": "%s để ẩn (sử dụng ký tự đại diện)"
+  },
+  "jei.chat.error.command.too.long": {
+    "en": null,
+    "zh": "此指令对Minecraft来说太长了，必须在服务端上安装JEI才能处理。",
+    "vi": "Lệnh này quá dài đối với Minecraft và JEI phải được cài đặt trên máy chủ để xử lý."
+  },
+  "jei.chat.error.no.cheat.permission.1": {
+    "en": "You do not have permission to use JEI's cheat mode.",
+    "zh": "你没有使用JEI作弊模式的权限。",
+    "vi": "Bạn không được phép sử dụng chế độ gian lận JEI."
+  },
+  "jei.chat.error.no.cheat.permission.creative": {
+    "en": "players who are in the creative mode",
+    "zh": "处于创造模式的玩家",
+    "vi": "Người chơi ở chế độ sáng tạo"
+  },
+  "jei.chat.error.no.cheat.permission.disabled": {
+    "en": "On this server, it is disabled for all players.",
+    "zh": "在此服务端，所有玩家被禁止使用JEI作弊模式。",
+    "vi": "Trên máy chủ này, tất cả người chơi đều bị cấm sử dụng chế độ gian lận JEI."
+  },
+  "jei.chat.error.no.cheat.permission.enabled": {
+    "en": "On this server, only the following types of players can use it:",
+    "zh": "在此服务端，以下类型的玩家可以使用JEI作弊模式：",
+    "vi": "Trên máy chủ này, những loại người chơi sau có thể sử dụng chế độ gian lận JEI:"
+  },
+  "jei.chat.error.no.cheat.permission.give": {
+    "en": "players who can use the \"/give\" command",
+    "zh": "可以使用/give的玩家",
+    "vi": "Người chơi có thể sử dụng /cho"
+  },
+  "jei.chat.error.no.cheat.permission.op": {
+    "en": "players who have an operator status (/op)",
+    "zh": "具有管理员身份（/op）的玩家",
+    "vi": "Người chơi có trạng thái quản trị viên (/op)"
+  },
+  "jei.key.category.cheat.mode": {
+    "en": "JEI (Cheat Mode)",
+    "zh": "JEI（作弊模式）",
+    "vi": "JEI (chế độ gian lận)"
+  },
+  "jei.key.category.dev.tools": {
+    "en": "JEI (Dev Tools)",
+    "zh": "JEI（开发工具）",
+    "vi": "JEI (Công cụ phát triển)"
+  },
+  "jei.key.category.edit.mode": {
+    "en": "JEI (Edit Mode)",
+    "zh": "JEI（编辑模式）",
+    "vi": "JEI (chế độ chỉnh sửa)"
+  },
+  "jei.key.category.hover.config.button": {
+    "en": "JEI (Hovering With Mouse Over Config Button)",
+    "zh": "JEI（鼠标悬停于配置按钮）",
+    "vi": "JEI (di chuột qua nút cấu hình)"
+  },
+  "jei.key.category.mouse.hover": {
+    "en": "JEI (Hovering With Mouse)",
+    "zh": "JEI（鼠标悬停）",
+    "vi": "JEI (di chuột qua)"
+  },
+  "jei.key.category.overlays": {
+    "en": "JEI (Overlays)",
+    "zh": "JEI（叠加层）",
+    "vi": "JEI (lớp phủ)"
+  },
+  "jei.key.category.recipe.gui": {
+    "en": "JEI (Recipes)",
+    "zh": "JEI（配方）",
+    "vi": "JEI (công thức)"
+  },
+  "jei.key.category.search": {
+    "en": "JEI (Search Filter)",
+    "zh": "JEI（搜索过滤）",
+    "vi": "JEI (bộ lọc tìm kiếm)"
+  },
+  "jei.key.combo.alt": {
+    "en": "ALT + %s",
+    "zh": "ALT + %s",
+    "vi": "ALT + %s"
+  },
+  "jei.key.combo.command": {
+    "en": "CMD + %s",
+    "zh": "CMD + %s",
+    "vi": "CMD + %s"
+  },
+  "jei.key.combo.control": {
+    "en": "CTRL + %s",
+    "zh": "CTRL + %s",
+    "vi": "CTRL + %s"
+  },
+  "jei.key.combo.shift": {
+    "en": "SHIFT + %s",
+    "zh": "SHIFT + %s",
+    "vi": "SHIFT + %s"
+  },
+  "jei.message.config.folder": {
+    "en": "Or click here to open the JEI config folder instead",
+    "zh": "点击这里以打开JEI配置文件夹",
+    "vi": "Bấm vào đây để mở thư mục cấu hình JEI"
+  },
+  "jei.message.configured": {
+    "en": "Install the \"Configured\" mod to access the in-game config",
+    "zh": "安装“Configured”模组后可在游戏内修改配置",
+    "vi": "Sau khi cài đặt Mod \"Đã định cấu hình\", bạn có thể sửa đổi cấu hình trong trò chơi"
+  },
+  "jei.message.copy.recipe.id.failure": {
+    "en": "Failed to copy the recipe ID to the clipboard because the ID is unknown",
+    "zh": "复制配方ID到剪贴板失败，找不到该配方ID",
+    "vi": "Sao chép ID công thức vào khay nhớ tạm không thành công, không tìm thấy ID công thức"
+  },
+  "jei.message.copy.recipe.id.success": {
+    "en": "The following recipe ID was copied to the clipboard: %s",
+    "zh": "复制配方ID到剪贴板：%s",
+    "vi": "Sao chép ID công thức vào clipboard: %s"
+  },
+  "jei.tooltip.bookmarks": {
+    "en": "JEI Bookmarks",
+    "zh": "JEI书签",
+    "vi": "dấu trang JEI"
+  },
+  "jei.tooltip.bookmarks.not.enough.space": {
+    "en": "The area on the left-hand side of this screen is too small for the JEI bookmark list overlay to display.",
+    "zh": "屏幕空间不足，无法显示JEI书签列表叠加层。",
+    "vi": "Không có đủ không gian màn hình để hiển thị lớp phủ danh sách dấu trang JEI."
+  },
+  "jei.tooltip.bookmarks.usage.key": {
+    "en": "Hover over an ingredient and press \"%s\" to bookmark it.",
+    "zh": "将鼠标悬停在某个原料上，然后按“%s”将其添加为书签。",
+    "vi": "Di chuột qua một thành phần và nhấn \"%s\" để đánh dấu thành phần đó."
+  },
+  "jei.tooltip.bookmarks.usage.nokey": {
+    "en": "Add a key binding for JEI bookmarks in your Controls settings.",
+    "zh": "在控制设定中为JEI书签添加快捷键。",
+    "vi": "Thêm phím tắt cho dấu trang JEI trong cài đặt điều khiển."
+  },
+  "jei.tooltip.cheat.mode.button.enabled": {
+    "en": "Cheat mode enabled.",
+    "zh": "作弊模式已开启",
+    "vi": "Chế độ gian lận đang bật"
+  },
+  "jei.tooltip.cheat.mode.how.to.disable.hotkey": {
+    "en": "Press \"%s\" to toggle it.",
+    "zh": "按%s以切换。",
+    "vi": "Nhấn %s để chuyển đổi."
+  },
+  "jei.tooltip.cheat.mode.how.to.disable.hover.config.button.hotkey": {
+    "en": "Press \"%s\" here to toggle it.",
+    "zh": "%s此处以切换。",
+    "vi": "%s ở đây để chuyển đổi."
+  },
+  "jei.tooltip.config": {
+    "en": "JEI Config",
+    "zh": "JEI配置",
+    "vi": "cấu hình JEI"
+  },
+  "jei.tooltip.delete.item": {
+    "en": "Click to delete.",
+    "zh": "点击以删除",
+    "vi": "Bấm để xóa"
+  },
+  "jei.tooltip.error.crash": {
+    "en": "This ingredient crashed when getting its tooltip. Please see the client logs for details.",
+    "zh": "提示文本错误，请查看日志",
+    "vi": "Lỗi văn bản nhắc nhở, vui lòng kiểm tra nhật ký"
+  },
+  "jei.tooltip.error.recipe.transfer.disabled": {
+    "en": null,
+    "zh": "服务端配置已禁止JEI配方转移",
+    "vi": "Cấu hình máy chủ đã cấm chuyển công thức JEI"
+  },
+  "jei.tooltip.error.recipe.transfer.inventory.full": {
+    "en": "Inventory is too full.",
+    "zh": "物品栏已满",
+    "vi": "Hàng tồn kho đã đầy"
+  },
+  "jei.tooltip.error.recipe.transfer.missing": {
+    "en": "Missing Items",
+    "zh": "缺少物品",
+    "vi": "Thiếu vật phẩm"
+  },
+  "jei.tooltip.error.recipe.transfer.no.server": {
+    "en": "The server must have JEI installed.",
+    "zh": "服务端必须安装JEI",
+    "vi": "JEI phải được cài đặt trên máy chủ"
+  },
+  "jei.tooltip.error.recipe.transfer.too.large.player.inventory": {
+    "en": "Recipe is too large to craft in the 2x2 player crafting grid.",
+    "zh": "配方太大，无法在2x2玩家合成栏合成。",
+    "vi": "Công thức quá lớn để có thể chế tạo trong ô chế tạo dành cho người chơi 2x2."
+  },
+  "jei.tooltip.error.recipe.transfer.unknown": {
+    "en": null,
+    "zh": "未知错误，请查看日志",
+    "vi": "Lỗi không xác định, vui lòng kiểm tra nhật ký"
+  },
+  "jei.tooltip.ingredient.list.disabled": {
+    "en": "JEI overlays are hidden.",
+    "zh": "JEI叠加层已禁用。",
+    "vi": "Lớp phủ JEI bị vô hiệu hóa."
+  },
+  "jei.tooltip.ingredient.list.disabled.how.to.fix": {
+    "en": "Press \"%s\" to show them again.",
+    "zh": "按“%s”以启用。",
+    "vi": "Nhấn \"%s\" để bật."
+  },
+  "jei.tooltip.item.colors": {
+    "en": "Colors: %s",
+    "zh": "颜色：%s",
+    "vi": "Màu sắc:%s"
+  },
+  "jei.tooltip.liquid.amount": {
+    "en": "%s mB",
+    "zh": "%s mB",
+    "vi": "%s mB"
+  },
+  "jei.tooltip.liquid.amount.with.capacity": {
+    "en": "%s / %s mB",
+    "zh": "%s / %s mB",
+    "vi": "%s / %s mB"
+  },
+  "jei.tooltip.not.enough.space": {
+    "en": "The area on the right-hand side of this screen is too small for the JEI ingredient list overlay to display.",
+    "zh": "屏幕空间不足，无法显示JEI原料列表叠加层。",
+    "vi": "Không có đủ không gian màn hình để hiển thị lớp phủ danh sách thành phần JEI."
+  },
+  "jei.tooltip.recipe.by": {
+    "en": "Recipe By: %s",
+    "zh": "配方来源：%s",
+    "vi": "Nguồn công thức: %s"
+  },
+  "jei.tooltip.recipe.id": {
+    "en": "Recipe ID: %s",
+    "zh": "配方ID：%s",
+    "vi": "ID công thức: %s"
+  },
+  "jei.tooltip.recipe.tag": {
+    "en": "Accepts Tag: %s",
+    "zh": "接受标签：%s",
+    "vi": "Chấp nhận thẻ: %s"
+  },
+  "jei.tooltip.shapeless.recipe": {
+    "en": "Shapeless Recipe",
+    "zh": "无序配方",
+    "vi": "Công thức không có thứ tự"
+  },
+  "jei.tooltip.show.all.recipes": {
+    "en": null,
+    "zh": "显示全部配方",
+    "vi": "Hiển thị tất cả công thức nấu ăn"
+  },
+  "jei.tooltip.show.recipes": {
+    "en": "Show Recipes",
+    "zh": "显示配方",
+    "vi": "hiển thị công thức"
+  },
+  "jei.tooltip.transfer": {
+    "en": "Move Items",
+    "zh": "转移物品",
+    "vi": "Chuyển vật phẩm"
+  },
+  "key.jei.bookmark": {
+    "en": "Add/Remove Bookmark",
+    "zh": "添加/移除书签",
+    "vi": "Thêm/xóa dấu trang"
+  },
+  "key.jei.cheatItemStack": {
+    "en": "Cheat 1 Stack",
+    "zh": "作弊获取1组物品",
+    "vi": "Nhận 1 bộ vật phẩm bằng cách gian lận"
+  },
+  "key.jei.cheatItemStack2": {
+    "en": "Cheat 1 Stack",
+    "zh": "作弊获取1组物品",
+    "vi": "Nhận 1 bộ vật phẩm bằng cách gian lận"
+  },
+  "key.jei.cheatOneItem": {
+    "en": "Cheat 1 Item",
+    "zh": "作弊获取1个物品",
+    "vi": "Nhận được 1 món đồ bằng cách gian lận"
+  },
+  "key.jei.cheatOneItem2": {
+    "en": "Cheat 1 Item",
+    "zh": "作弊获取1个物品",
+    "vi": "Nhận được 1 món đồ bằng cách gian lận"
+  },
+  "key.jei.clearSearchBar": {
+    "en": "Clear Search Filter",
+    "zh": "清空搜索过滤",
+    "vi": "Xóa bộ lọc tìm kiếm"
+  },
+  "key.jei.closeRecipeGui": {
+    "en": "Close Recipes GUI",
+    "zh": "关闭配方GUI",
+    "vi": "Đóng GUI công thức"
+  },
+  "key.jei.copy.recipe.id": {
+    "en": "Copy Recipe ID to Clipboard",
+    "zh": "复制配方ID到剪贴板",
+    "vi": "Sao chép ID công thức vào clipboard"
+  },
+  "key.jei.focusSearch": {
+    "en": "Select Search Bar",
+    "zh": "高亮搜索栏",
+    "vi": "Làm nổi bật thanh tìm kiếm"
+  },
+  "key.jei.nextCategory": {
+    "en": "Next Recipe Category",
+    "zh": "显示下一个配方分类",
+    "vi": "Hiển thị danh mục công thức tiếp theo"
+  },
+  "key.jei.nextPage": {
+    "en": "Next Page",
+    "zh": "显示下一页",
+    "vi": "Hiển thị trang tiếp theo"
+  },
+  "key.jei.nextRecipePage": {
+    "en": "Next Recipe Page",
+    "zh": "显示下一个配方页",
+    "vi": "Hiển thị trang công thức tiếp theo"
+  },
+  "key.jei.nextSearch": {
+    "en": "Next Search",
+    "zh": "下一个搜索历史",
+    "vi": "Lịch sử tìm kiếm tiếp theo"
+  },
+  "key.jei.previousCategory": {
+    "en": "Previous Recipe Category",
+    "zh": "显示上一个配方分类",
+    "vi": "Hiển thị danh mục công thức trước đó"
+  },
+  "key.jei.previousPage": {
+    "en": "Previous Page",
+    "zh": "显示上一页",
+    "vi": "Hiển thị trang trước"
+  },
+  "key.jei.previousRecipePage": {
+    "en": "Previous Recipe Page",
+    "zh": "显示上一个配方页",
+    "vi": "Hiển thị trang công thức trước đó"
+  },
+  "key.jei.previousSearch": {
+    "en": "Previous Search",
+    "zh": "上一个搜索历史",
+    "vi": "Lịch sử tìm kiếm trước đó"
+  },
+  "key.jei.recipeBack": {
+    "en": "Previous Recipe",
+    "zh": "显示上个查看的配方",
+    "vi": "Hiển thị công thức được xem lần cuối"
+  },
+  "key.jei.showRecipe": {
+    "en": "Show Recipe",
+    "zh": "显示配方",
+    "vi": "hiển thị công thức"
+  },
+  "key.jei.showRecipe2": {
+    "en": "Show Recipe",
+    "zh": "显示配方",
+    "vi": "hiển thị công thức"
+  },
+  "key.jei.showUses": {
+    "en": "Show Uses",
+    "zh": "显示用途",
+    "vi": "Hiển thị mức sử dụng"
+  },
+  "key.jei.showUses2": {
+    "en": "Show Uses",
+    "zh": "显示用途",
+    "vi": "Hiển thị mức sử dụng"
+  },
+  "key.jei.toggleBookmarkOverlay": {
+    "en": "Show/Hide Bookmarked Ingredients",
+    "zh": "显示/隐藏书签原料",
+    "vi": "Hiển thị/ẩn tài liệu đánh dấu"
+  },
+  "key.jei.toggleCheatMode": {
+    "en": "Toggle Cheat Mode",
+    "zh": "开关作弊模式",
+    "vi": "Bật hoặc tắt chế độ gian lận"
+  },
+  "key.jei.toggleCheatModeConfigButton": {
+    "en": "Toggle Cheat Mode",
+    "zh": "开关作弊模式（鼠标悬停在配置按钮）",
+    "vi": "Bật hoặc tắt chế độ gian lận (di chuột qua nút cấu hình)"
+  },
+  "key.jei.toggleEditMode": {
+    "en": "Toggle Hide Ingredients Mode",
+    "zh": "开关隐藏原料模式",
+    "vi": "Chuyển sang chế độ ẩn thành phần"
+  },
+  "key.jei.toggleHideIngredient": {
+    "en": "Hide Ingredient",
+    "zh": "隐藏一个原料",
+    "vi": "giấu một thành phần"
+  },
+  "key.jei.toggleOverlay": {
+    "en": "Show/Hide JEI Overlays",
+    "zh": "显示/隐藏JEI叠加层",
+    "vi": "Hiển thị/ẩn lớp phủ JEI"
+  },
+  "key.jei.toggleWildcardHideIngredient": {
+    "en": "Hide Ingredient (With Wildcard)",
+    "zh": "隐藏一个原料（使用通配符）",
+    "vi": "Ẩn một thành phần (sử dụng ký tự đại diện)"
+  },
+  "jer.dungeon.bastion_hoglin_stable": {
+    "en": null,
+    "zh": "猪灵堡垒马厩",
+    "vi": "Chuồng nuôi lợn"
+  },
+  "_comment": {
+    "en": "Debug (for a debug mode, do not need translation)",
+    "zh": "Debug (for a debug mode, do not need translation)",
+    "vi": null
+  },
+  "jei.tooltip.show.all.recipes.hotkey": {
+    "en": "Press \"%s\" to show all recipes.",
+    "zh": "按“%s”显示所有配方。",
+    "vi": null
+  },
+  "jei.tooltip.liquid.flowing": {
+    "en": "%s (Flowing)",
+    "zh": "%s（流动中）",
+    "vi": null
+  },
+  "jei.tooltip.item.search.aliases": {
+    "en": "Search Aliases:",
+    "zh": "搜索别名:",
+    "vi": null
+  },
+  "jei.tooltip.bookmarks.recipe": {
+    "en": "%s Recipe Bookmark",
+    "zh": "%s 配方书签",
+    "vi": null
+  },
+  "jei.tooltip.bookmarks.recipe.add": {
+    "en": "Bookmark this recipe.",
+    "zh": "添加该配方到书签",
+    "vi": null
+  },
+  "jei.tooltip.bookmarks.recipe.remove": {
+    "en": "Remove the bookmark for this recipe.",
+    "zh": "从书签中移除该配方",
+    "vi": null
+  },
+  "jei.tooltip.bookmarks.tooltips.usage": {
+    "en": "[Press \"%s\" to show details]",
+    "zh": "[按“%s”显示细节]",
+    "vi": null
+  },
+  "jei.tooltip.bookmarks.tooltips.transfer.usage": {
+    "en": "[Press \"%s\" to craft one]",
+    "zh": "[按“%s”合成一个]",
+    "vi": null
+  },
+  "jei.tooltip.bookmarks.tooltips.transfer.max.usage": {
+    "en": "[Press \"%s\" to craft many]",
+    "zh": "[按“%s”合成多个]",
+    "vi": null
+  },
+  "jei.tooltip.recipe.sort.bookmarks.first.enabled": {
+    "en": "Show bookmarked recipes first (enabled).",
+    "zh": "优先显示书签配方（启用）。",
+    "vi": null
+  },
+  "jei.tooltip.recipe.sort.bookmarks.first.disabled": {
+    "en": "Show bookmarked recipes first (disabled).",
+    "zh": "优先显示书签配方（禁用）。",
+    "vi": null
+  },
+  "jei.tooltip.recipe.sort.craftable.first.enabled": {
+    "en": "Show craftable recipes first (enabled).",
+    "zh": "优先显示可合成的配方（启用）。",
+    "vi": null
+  },
+  "jei.tooltip.recipe.sort.craftable.first.disabled": {
+    "en": "Show craftable recipes first (disabled).",
+    "zh": "优先显示可合成的配方（禁用）。",
+    "vi": null
+  },
+  "jei.tooltip.error.render.crash": {
+    "en": "This ingredient crashed when being rendered. Please see the client logs for details.",
+    "zh": "该物品在渲染时崩溃了，请查看客户端日志以获取详细信息。",
+    "vi": null
+  },
+  "key.jei.transferRecipeBookmark": {
+    "en": "Craft Bookmarked Recipe (One)",
+    "zh": "合成书签配方（一个）",
+    "vi": null
+  },
+  "key.jei.maxTransferRecipeBookmark": {
+    "en": "Craft Bookmarked Recipe (Many)",
+    "zh": "合成书签配方（多个）",
+    "vi": null
+  },
+  "gui.jei.category.tagInformation": {
+    "en": "%s Tags",
+    "zh": "%s标签",
+    "vi": null
+  },
+  "gui.jei.category.tagInformation.block": {
+    "en": "Block Tags",
+    "zh": "方块标签",
+    "vi": null
+  },
+  "gui.jei.category.tagInformation.fluid": {
+    "en": "Fluid Tags",
+    "zh": "液体标签",
+    "vi": null
+  },
+  "gui.jei.category.tagInformation.item": {
+    "en": "Item Tags",
+    "zh": "物品标签",
+    "vi": null
+  },
+  "gui.jei.category.recipe.crashed": {
+    "en": "This recipe crashed. Please see the client logs for details.",
+    "zh": "该配方崩溃了，请查看客户端日志以获取详细信息。",
+    "vi": null
+  },
+  "jei.key.shift": {
+    "en": "SHIFT",
+    "zh": "SHIFT",
+    "vi": null
+  },
+  "jei.key.mouse.left": {
+    "en": "CLICK",
+    "zh": "左键",
+    "vi": null
+  },
+  "jei.key.mouse.right": {
+    "en": "RIGHT-CLICK",
+    "zh": "右键",
+    "vi": null
+  },
+  "jei.alias.panda.spawn.egg": {
+    "en": "endangered",
+    "zh": "endangered",
+    "vi": null
+  },
+  "jei.alias.villager.spawn.egg": {
+    "en": "HMMM",
+    "zh": "HMMM",
+    "vi": null
+  }
+}

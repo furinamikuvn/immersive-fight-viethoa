@@ -1,0 +1,17 @@
+{
+  "name": "Phiêu Phù (Float)",
+  "icon": "simplyswords:runic_tablet",
+  "category": "simplyswords:category_rune_etching",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:runic_tablet",
+      "title": "Phiêu Phù (Float)",
+      "text": "Thao túng trọng lực hất tung kẻ thù lên không trung, khiến chúng hoàn toàn bất lực."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Làm gián đoạn nhịp điệu chiến đấu, nhấc bổng kẻ thù lên không trung mở đường cho đòn kết liễu."
+    }
+  ]
+}

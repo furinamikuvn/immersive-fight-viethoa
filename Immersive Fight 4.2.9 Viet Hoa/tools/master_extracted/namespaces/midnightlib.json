@@ -1,0 +1,62 @@
+{
+  "midnightlib.overview.title": {
+    "en": "MidnightConfig Overview",
+    "zh": null,
+    "vi": null
+  },
+  "midnightlib.midnightconfig.title": {
+    "en": "MidnightLib Config",
+    "zh": null,
+    "vi": null
+  },
+  "midnightlib.midnightconfig.config_screen_list": {
+    "en": "Enable Config Screen List",
+    "zh": null,
+    "vi": null
+  },
+  "midnightlib.midnightconfig.enum.ConfigButton.TRUE": {
+    "en": "§aYes",
+    "zh": null,
+    "vi": null
+  },
+  "midnightlib.midnightconfig.enum.ConfigButton.FALSE": {
+    "en": "§cNo",
+    "zh": null,
+    "vi": null
+  },
+  "midnightlib.midnightconfig.enum.ConfigButton.MODMENU": {
+    "en": "§bModMenu",
+    "zh": null,
+    "vi": null
+  },
+  "midnightlib.midnightconfig.background_texture": {
+    "en": "Texture of config screen backgrounds",
+    "zh": null,
+    "vi": null
+  },
+  "midnightlib.modrinth": {
+    "en": "Modrinth",
+    "zh": null,
+    "vi": null
+  },
+  "midnightlib.curseforge": {
+    "en": "CurseForge",
+    "zh": null,
+    "vi": null
+  },
+  "midnightlib.wiki": {
+    "en": "Wiki",
+    "zh": null,
+    "vi": null
+  },
+  "modmenu.descriptionTranslation.midnightlib": {
+    "en": "Common Library for Team MidnightDust's mods.\nProvides a config api, automatic integration with other mods, common utils, and cosmetics.",
+    "zh": null,
+    "vi": null
+  },
+  "modmenu.summaryTranslation.midnightlib": {
+    "en": "Common Library for Team MidnightDust's mods.",
+    "zh": null,
+    "vi": null
+  }
+}

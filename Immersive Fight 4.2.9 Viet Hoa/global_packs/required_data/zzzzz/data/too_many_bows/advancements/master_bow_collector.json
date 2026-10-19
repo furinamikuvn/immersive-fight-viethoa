@@ -1,0 +1,256 @@
+{
+  "display": {
+    "icon": {
+      "item": "too_many_bows:ancient_sage_bow"
+    },
+    "title": {
+      "translate": "advancement.too_many_bows.master_bow_collector.title"
+    },
+    "description": {
+      "translate": "advancement.too_many_bows.master_bow_collector.description"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "too_many_bows:root",
+  "criteria": {
+    "arcane_bow": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [{ "items": ["too_many_bows:arcane_bow"] }]
+      }
+    },
+    "dark_bow": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [{ "items": ["too_many_bows:dark_bow"] }]
+      }
+    },
+    "ancient_sage_bow": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [{ "items": ["too_many_bows:ancient_sage_bow"] }]
+      }
+    },
+    "shulker_blast": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [{ "items": ["too_many_bows:shulker_blast"] }]
+      }
+    },
+    "dragons_breath": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [{ "items": ["too_many_bows:dragons_breath"] }]
+      }
+    },
+    "tidal_bow": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [{ "items": ["too_many_bows:tidal_bow"] }]
+      }
+    },
+    "wind_bow": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [{ "items": ["too_many_bows:wind_bow"] }]
+      }
+    },
+    "frostbite": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [{ "items": ["too_many_bows:frostbite"] }]
+      }
+    },
+    "scatter_bow": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [{ "items": ["too_many_bows:scatter_bow"] }]
+      }
+    },
+    "sentinels_wrath": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [{ "items": ["too_many_bows:sentinels_wrath"] }]
+      }
+    },
+    "hunter_bow": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [{ "items": ["too_many_bows:hunter_bow"] }]
+      }
+    },
+    "ironclad_bow": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [{ "items": ["too_many_bows:ironclad_bow"] }]
+      }
+    },
+    "demons_grasp": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [{ "items": ["too_many_bows:demons_grasp"] }]
+      }
+    },
+    "aethers_call": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [{ "items": ["too_many_bows:aethers_call"] }]
+      }
+    },
+    "solar_bow": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [{ "items": ["too_many_bows:solar_bow"] }]
+      }
+    },
+    "flame_bow": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [{ "items": ["too_many_bows:flame_bow"] }]
+      }
+    },
+    "necro_flame_bow": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [{ "items": ["too_many_bows:necro_flame_bow"] }]
+      }
+    }, "torchbearer": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [{ "items": ["too_many_bows:torchbearer"] }]
+      }
+    },
+    "arc_heavens": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [{ "items": ["too_many_bows:arc_heavens"] }]
+      }
+    },
+    "cyroheart_bow": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [{ "items": ["too_many_bows:cyroheart_bow"] }]
+      }
+    },
+    "burnt_relic": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [{ "items": ["too_many_bows:burnt_relic"] }]
+      }
+    },
+    "verdant_viper": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [{ "items": ["too_many_bows:verdant_viper"] }]
+      }
+    },
+    "emerald_sage_bow": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [{ "items": ["too_many_bows:emerald_sage_bow"] }]
+      }
+    },
+    "vitality_weaver": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [{ "items": ["too_many_bows:vitality_weaver"] }]
+      }
+    },
+    "astral_bound": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [{ "items": ["too_many_bows:astral_bound"] }]
+      }
+    },
+    "spectral_whisper": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [{ "items": ["too_many_bows:spectral_whisper"] }]
+      }
+    },
+    "auroras_grace": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [{ "items": ["too_many_bows:auroras_grace"] }]
+      }
+    },
+    "twin_shadows": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [{ "items": ["too_many_bows:twin_shadows"] }]
+      }
+    },
+    "verdant_vigor": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [{ "items": ["too_many_bows:verdant_vigor"] }]
+      }
+    },
+    "ethereal_hunter": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [{ "items": ["too_many_bows:ethereal_hunter"] }]
+      }
+    },
+    "dusk_reaper": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [{ "items": ["too_many_bows:dusk_reaper"] }]
+      }
+    },
+    "radiance": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [{ "items": ["too_many_bows:radiance"] }]
+      }
+    },
+    "crimson_nexus": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [{ "items": ["too_many_bows:crimson_nexus"] }]
+      }
+    }
+  },
+  "requirements": [
+    ["arcane_bow"],
+    ["crimson_nexus"],
+    ["radiance"],
+    ["dusk_reaper"],
+    ["ethereal_hunter"],
+    ["verdant_vigor"],
+    ["twin_shadows"],
+    ["dark_bow"],
+    ["ancient_sage_bow"],
+    ["shulker_blast"],
+    ["dragons_breath"],
+    ["tidal_bow"],
+    ["wind_bow"],
+    ["frostbite"],
+    ["scatter_bow"],
+    ["sentinels_wrath"],
+    ["hunter_bow"],
+    ["ironclad_bow"],
+    ["demons_grasp"],
+    ["aethers_call"],
+    ["solar_bow"],
+    ["flame_bow"],
+    ["necro_flame_bow"],
+    ["arc_heavens"],
+    ["cyroheart_bow"],
+    ["burnt_relic"],
+    ["verdant_viper"],
+    ["emerald_sage_bow"],
+    ["vitality_weaver"],
+    ["astral_bound"],
+    ["spectral_whisper"],
+    ["auroras_grace"],
+    ["torchbearer"]
+  ],
+  "rewards": {
+    "experience": 1000,
+    "loot": ["too_many_bows:reward_loot_table"]
+  }
+}

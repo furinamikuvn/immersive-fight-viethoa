@@ -1,0 +1,32 @@
+{
+  "item.superdupertamer.super_duper_ultra_hyper_lead": {
+    "en": "SUPER DUPER ULTRA HYPER LEAD",
+    "zh": "超级拴绳",
+    "vi": null
+  },
+  "entity.superduper.all.command_0": {
+    "en": "%s is wandering",
+    "zh": "%s 正在自由行动",
+    "vi": null
+  },
+  "entity.superduper.all.command_1": {
+    "en": "%s is following",
+    "zh": "%s 正在跟随",
+    "vi": null
+  },
+  "entity.superduper.all.command_2": {
+    "en": "%s is staying",
+    "zh": "%s 停留在原地",
+    "vi": null
+  },
+  "entity.superduper.already_tameable": {
+    "en": "This mob is already tameable without this mod",
+    "zh": "这个生物无需此模组即可被驯服",
+    "vi": null
+  },
+  "entity.superduper.cooldown": {
+    "en": "Cooldown left: %s seconds",
+    "zh": "冷却时间剩余：%s 秒",
+    "vi": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "dungeons_and_combat:the_cathedral",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 41,
+    "separation": 30,
+    "salt": 826261002
+  }
+}

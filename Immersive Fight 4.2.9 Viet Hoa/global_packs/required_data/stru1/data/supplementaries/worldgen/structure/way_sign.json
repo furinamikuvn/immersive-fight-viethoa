@@ -1,0 +1,11 @@
+{
+  "type": "supplementaries:way_sign",
+  "biomes": "regions_unexplored:alpha_grove",
+  "terrain_adaptation": "beard_thin",
+  "step": "strongholds",
+  "spawn_overrides": {},
+
+  "start_pool": "supplementaries:way_sign/start_pool",
+  "min_y": 40,
+  "max_y": 105
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Brimstone (Lưu Huỳnh Khoát Kiếm)",
+  "icon": "simplyswords:brimstone_claymore",
+  "advancement": "simplyswords:brimstone",
+  "category": "simplyswords:category_unique_weapons",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:brimstone_claymore",
+      "text": "Giải phóng sức mạnh lưu huỳnh nóng chảy, bộc phát những đòn nổ dung nham thiêu đốt đối thủ."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Thân kiếm nặng trịch đòi hỏi thể lực lớn, đòn nổ dung nham sát thương mọi sinh vật lân cận."
+    }
+  ]
+}

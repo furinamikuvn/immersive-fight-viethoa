@@ -1,0 +1,1257 @@
+{
+  "item.illageandspillage.igniter_spawn_egg": {
+    "en": "Igniter Spawn Egg",
+    "zh": "纵火者刷怪蛋",
+    "vi": null
+  },
+  "item.illageandspillage.engineer_spawn_egg": {
+    "en": "Engineer Spawn Egg",
+    "zh": "工程师刷怪蛋",
+    "vi": null
+  },
+  "item.illageandspillage.magispeller_spawn_egg": {
+    "en": "Magispeller Spawn Egg",
+    "zh": "魔法师刷怪蛋",
+    "vi": null
+  },
+  "item.illageandspillage.illashooter_spawn_egg": {
+    "en": "Illashooter Spawn Egg",
+    "zh": "厄灵射手刷怪蛋",
+    "vi": null
+  },
+  "item.illageandspillage.twittollager_spawn_egg": {
+    "en": "Twittollager Spawn Egg",
+    "zh": "暴躁推特哥刷怪蛋",
+    "vi": null
+  },
+  "item.illageandspillage.spiritcaller_spawn_egg": {
+    "en": "Spiritcaller Spawn Egg",
+    "zh": "灵魂感应师刷怪蛋",
+    "vi": null
+  },
+  "item.illageandspillage.crocofang_spawn_egg": {
+    "en": "Crocofang Spawn Egg",
+    "zh": "鳄牙兽刷怪蛋",
+    "vi": null
+  },
+  "item.illageandspillage.devastator_spawn_egg": {
+    "en": "Devastator Spawn Egg",
+    "zh": "灾厄暴龙刷怪蛋",
+    "vi": null
+  },
+  "item.illageandspillage.absorber_spawn_egg": {
+    "en": "Absorber Spawn Egg",
+    "zh": "伤害吸收者刷怪蛋",
+    "vi": null
+  },
+  "item.illageandspillage.preserver_spawn_egg": {
+    "en": "Preserver Spawn Egg",
+    "zh": "保护者刷怪蛋",
+    "vi": null
+  },
+  "item.illageandspillage.freakager_spawn_egg": {
+    "en": "Freakager Spawn Egg",
+    "zh": "怪人刷怪蛋",
+    "vi": null
+  },
+  "item.illageandspillage.ragno_spawn_egg": {
+    "en": "Ragno Spawn Egg",
+    "zh": "腐败蜘蛛刷怪蛋",
+    "vi": null
+  },
+  "item.illageandspillage.funnybone_spawn_egg": {
+    "en": "Funnybone Spawn Egg",
+    "zh": "幽默骨感刷怪蛋",
+    "vi": null
+  },
+  "item.illageandspillage.eyesore_spawn_egg": {
+    "en": "Eyesore Spawn Egg",
+    "zh": "血眼刷怪蛋",
+    "vi": null
+  },
+  "item.minecraft.potion.effect.mutation": {
+    "en": "Dark Potion",
+    "zh": "异变药水",
+    "vi": null
+  },
+  "item.minecraft.splash_potion.effect.mutation": {
+    "en": "Dark Splash Potion",
+    "zh": "喷溅型异变药水",
+    "vi": null
+  },
+  "item.minecraft.lingering_potion.effect.mutation": {
+    "en": "Dark Lingering Potion",
+    "zh": "滞留型异变药水",
+    "vi": null
+  },
+  "item.minecraft.tipped_arrow.effect.mutation": {
+    "en": "Dark Tipped Arrow",
+    "zh": "异变之箭",
+    "vi": null
+  },
+  "entity.illageandspillage.igniter": {
+    "en": "Igniter",
+    "zh": "纵火者",
+    "vi": null
+  },
+  "entity.illageandspillage.engineer": {
+    "en": "Engineer",
+    "zh": "工程师",
+    "vi": null
+  },
+  "entity.illageandspillage.chagrin_sentry": {
+    "en": "Chagrin Sentry",
+    "zh": "懊恼哨兵",
+    "vi": null
+  },
+  "entity.illageandspillage.hinder": {
+    "en": "Hinder",
+    "zh": "治愈者",
+    "vi": null
+  },
+  "entity.illageandspillage.factory": {
+    "en": "Factory",
+    "zh": "兵工厂",
+    "vi": null
+  },
+  "entity.illageandspillage.beeper": {
+    "en": "Beeper",
+    "zh": "传呼自爆机",
+    "vi": null
+  },
+  "entity.illageandspillage.sniper": {
+    "en": "Sniper",
+    "zh": "狙击手",
+    "vi": null
+  },
+  "entity.illageandspillage.poker": {
+    "en": "Poker",
+    "zh": "近战师",
+    "vi": null
+  },
+  "entity.illageandspillage.magispeller": {
+    "en": "Magispeller",
+    "zh": "魔法师",
+    "vi": null
+  },
+  "entity.illageandspillage.faker": {
+    "en": "Faker",
+    "zh": "魔法克隆体",
+    "vi": null
+  },
+  "entity.illageandspillage.dispenser": {
+    "en": "Dispenser",
+    "zh": "魔法炮塔",
+    "vi": null
+  },
+  "entity.illageandspillage.illashooter": {
+    "en": "Illashooter",
+    "zh": "厄灵射手",
+    "vi": null
+  },
+  "entity.illageandspillage.crashager": {
+    "en": "Crashager",
+    "zh": "碾压者",
+    "vi": null
+  },
+  "entity.illageandspillage.boss_randomizer": {
+    "en": "Boss Randomizer",
+    "zh": "Boss随机者",
+    "vi": null
+  },
+  "entity.illageandspillage.boss_randomizer.check_configs": {
+    "en": "CHECK YOUR CONFIGS",
+    "zh": "检查你的配置",
+    "vi": null
+  },
+  "entity.illageandspillage.twittollager": {
+    "en": "Twittollager",
+    "zh": "暴躁推特哥",
+    "vi": null
+  },
+  "entity.illageandspillage.spiritcaller": {
+    "en": "Spiritcaller",
+    "zh": "灵魂感应师",
+    "vi": null
+  },
+  "entity.illageandspillage.mob_spirit": {
+    "en": "Mob Spirit",
+    "zh": "生之灵",
+    "vi": null
+  },
+  "entity.illageandspillage.illager_soul": {
+    "en": "Illager Soul",
+    "zh": "灾厄灵",
+    "vi": null
+  },
+  "entity.illageandspillage.imp": {
+    "en": "Imp",
+    "zh": "灵魂",
+    "vi": null
+  },
+  "entity.illageandspillage.spirit_hand": {
+    "en": "Spirit Hand",
+    "zh": "灵魂之掌",
+    "vi": null
+  },
+  "entity.illageandspillage.crocofang": {
+    "en": "Crocofang",
+    "zh": "鳄牙兽",
+    "vi": null
+  },
+  "entity.illageandspillage.devastator": {
+    "en": "Devastator",
+    "zh": "灾厄暴龙",
+    "vi": null
+  },
+  "entity.illageandspillage.absorber": {
+    "en": "Absorber",
+    "zh": "伤害吸收者",
+    "vi": null
+  },
+  "entity.illageandspillage.preserver": {
+    "en": "Preserver",
+    "zh": "保护者",
+    "vi": null
+  },
+  "entity.illageandspillage.freakager": {
+    "en": "Freakager",
+    "zh": "怪人",
+    "vi": null
+  },
+  "entity.illageandspillage.ragno": {
+    "en": "Ragno",
+    "zh": "腐败蜘蛛",
+    "vi": null
+  },
+  "entity.illageandspillage.trick_or_treat": {
+    "en": "Trick or Treat",
+    "zh": "捣蛋糖果",
+    "vi": null
+  },
+  "entity.illageandspillage.eyesore": {
+    "en": "Eyesore",
+    "zh": "血眼",
+    "vi": null
+  },
+  "entity.illageandspillage.funnybone": {
+    "en": "Funnybone",
+    "zh": "幽默骨感",
+    "vi": null
+  },
+  "entity.illageandspillage.kaboomer": {
+    "en": "Kaboomer",
+    "zh": "虚拟苦力怕",
+    "vi": null
+  },
+  "entity.illageandspillage.old_freakager": {
+    "en": "Freakager",
+    "zh": "怪人",
+    "vi": null
+  },
+  "entity.illageandspillage.old_ragno": {
+    "en": "Ragno",
+    "zh": "腐败蜘蛛",
+    "vi": null
+  },
+  "entity.illageandspillage.old_magispeller": {
+    "en": "Magispeller",
+    "zh": "旧版魔法师",
+    "vi": null
+  },
+  "item.illageandspillage.totem_of_banishment": {
+    "en": "Totem of Banishment",
+    "zh": "放逐图腾",
+    "vi": null
+  },
+  "item.illageandspillage.spellbound_book": {
+    "en": "Spellbound Book",
+    "zh": "灵魂之书",
+    "vi": null
+  },
+  "item.illageandspillage.bag_of_horrors": {
+    "en": "Bag of Horrors",
+    "zh": "可怖之袋",
+    "vi": null
+  },
+  "item.illageandspillage.magi_disc": {
+    "en": "Music Disc",
+    "zh": "音乐唱片",
+    "vi": null
+  },
+  "item.illageandspillage.magi_disc.desc": {
+    "en": "Yellowbross Productions - WHEEEEEZE",
+    "zh": "Yellowbross Productions - WHEEEEEZE",
+    "vi": null
+  },
+  "item.illageandspillage.spiri_disc": {
+    "en": "Music Disc",
+    "zh": "音乐唱片",
+    "vi": null
+  },
+  "item.illageandspillage.spiri_disc.desc": {
+    "en": "Yellowbross Productions - Spellbound Execution",
+    "zh": "Yellowbross Productions - Spellbound Execution",
+    "vi": null
+  },
+  "item.illageandspillage.freaky_disc": {
+    "en": "Music Disc",
+    "zh": "音乐唱片",
+    "vi": null
+  },
+  "item.illageandspillage.freaky_disc.desc": {
+    "en": "Yellowbross Productions - Arachnophobia",
+    "zh": "Yellowbross Productions - Arachnophobia",
+    "vi": null
+  },
+  "tooltip.illageandspillage.shift": {
+    "en": "Hold §eShift §7for more information",
+    "zh": "按住§eShift§7去了解更多信息",
+    "vi": null
+  },
+  "tooltip.illageandspillage.spellbound_book_1": {
+    "en": "§7Can only be used once every ",
+    "zh": "§7每回只可使用一次",
+    "vi": null
+  },
+  "tooltip.illageandspillage.spellbound_book_1_minutes": {
+    "en": " minutes.",
+    "zh": "分钟。",
+    "vi": null
+  },
+  "tooltip.illageandspillage.spellbound_book_2": {
+    "en": "§7The cooldown will not reset with death so be careful.",
+    "zh": "§7冷却时间不会随着死亡而重置，所以要小心。",
+    "vi": null
+  },
+  "tooltip.illageandspillage.spellbound_book_3": {
+    "en": "§cOnly recharges when in the player inventory",
+    "zh": "§c只有在玩家物品栏中才会充能",
+    "vi": null
+  },
+  "tooltip.illageandspillage.spellbound_book_4": {
+    "en": "§7With empty hand, right-click ground or hit a mob to use attacks",
+    "zh": "§7空手右击地面或生物以触发攻击",
+    "vi": null
+  },
+  "effect.illageandspillage.misconduction": {
+    "en": "Misconduction",
+    "zh": "堕入魔阴",
+    "vi": null
+  },
+  "effect.illageandspillage.mutation": {
+    "en": "Mutation",
+    "zh": "异变",
+    "vi": null
+  },
+  "effect.illageandspillage.webbed": {
+    "en": "Webbed",
+    "zh": "蛛网缠绕",
+    "vi": null
+  },
+  "subtitles.entity.igniter.ambient": {
+    "en": "Igniter rages",
+    "zh": "纵火者：怒吼",
+    "vi": null
+  },
+  "subtitles.entity.igniter.celebrate": {
+    "en": "Igniter cheers",
+    "zh": "纵火者：欢呼",
+    "vi": null
+  },
+  "subtitles.entity.igniter.hurt": {
+    "en": "Igniter hurts",
+    "zh": "纵火者：受伤",
+    "vi": null
+  },
+  "subtitles.entity.igniter.death": {
+    "en": "Igniter dies",
+    "zh": "纵火者：死亡",
+    "vi": null
+  },
+  "subtitles.entity.engineer.ambient": {
+    "en": "Engineer hyucks",
+    "zh": "工程师：咳嗽",
+    "vi": null
+  },
+  "subtitles.entity.engineer.hurt": {
+    "en": "Engineer hurts",
+    "zh": "工程师：受伤",
+    "vi": null
+  },
+  "subtitles.entity.engineer.death": {
+    "en": "Engineer dies",
+    "zh": "工程师：死亡",
+    "vi": null
+  },
+  "subtitles.entity.engineer.throw": {
+    "en": "Engineer exerts",
+    "zh": "工程师：发挥",
+    "vi": null
+  },
+  "subtitles.entity.engineer.repair": {
+    "en": "Engineer repairs",
+    "zh": "工程师：修理",
+    "vi": null
+  },
+  "subtitles.entity.engineer.hinder.heal": {
+    "en": "Hinder heals",
+    "zh": "治愈者：治疗",
+    "vi": null
+  },
+  "subtitles.entity.engineer.beeper.beep": {
+    "en": "Beeper beeps",
+    "zh": "传呼自爆机： 发出哔哔声",
+    "vi": null
+  },
+  "subtitles.entity.engineer.poker.poke": {
+    "en": "Poker pokes",
+    "zh": "近战师：戳",
+    "vi": null
+  },
+  "subtitles.entity.magispeller.ambient": {
+    "en": "Magispeller snickers",
+    "zh": "魔法师：偷笑",
+    "vi": null
+  },
+  "subtitles.entity.magispeller.celebrate": {
+    "en": "Magispeller cheers",
+    "zh": "魔法师：欢呼",
+    "vi": null
+  },
+  "subtitles.entity.magispeller.hurt": {
+    "en": "Magispeller hurts",
+    "zh": "魔法师：受伤",
+    "vi": null
+  },
+  "subtitles.entity.magispeller.death": {
+    "en": "Magispeller dies",
+    "zh": "魔法师：死亡",
+    "vi": null
+  },
+  "subtitles.entity.magispeller.laugh": {
+    "en": "Magispeller laughs maniacally",
+    "zh": "魔法师：狂笑",
+    "vi": null
+  },
+  "subtitles.entity.magispeller.prepare_fakers": {
+    "en": "Magispeller prepares Fakers",
+    "zh": "魔法师：准备释放分身",
+    "vi": null
+  },
+  "subtitles.entity.magispeller.spin": {
+    "en": "Magispeller spins",
+    "zh": "魔法师：旋转",
+    "vi": null
+  },
+  "subtitles.entity.magispeller.arrowbarrage": {
+    "en": "Magispeller shoots rapidly",
+    "zh": "魔法师：速射",
+    "vi": null
+  },
+  "subtitles.entity.magispeller.heal": {
+    "en": "Magispeller heals",
+    "zh": "魔法师：回血",
+    "vi": null
+  },
+  "subtitles.entity.magispeller.dispenser": {
+    "en": "Magispeller throws out dispenser",
+    "zh": "魔法师：丢出魔法炮塔",
+    "vi": null
+  },
+  "subtitles.entity.magispeller.dispenser_open": {
+    "en": "Dispenser opens",
+    "zh": "魔法炮塔：打开",
+    "vi": null
+  },
+  "subtitles.entity.magispeller.dispenser_destroy": {
+    "en": "Machinery destroyed",
+    "zh": "魔法炮塔：被摧毁",
+    "vi": null
+  },
+  "subtitles.entity.magispeller.fangrun": {
+    "en": "Magispeller prepares Fang Run",
+    "zh": "魔法师：准备释放尖牙",
+    "vi": null
+  },
+  "subtitles.entity.magispeller.summon": {
+    "en": "Magispeller prepares summoning",
+    "zh": "魔法师：准备召唤",
+    "vi": null
+  },
+  "subtitles.entity.magispeller.cast_spell": {
+    "en": "Magispeller summons Vexes",
+    "zh": "魔法师：召唤恼鬼",
+    "vi": null
+  },
+  "subtitles.entity.magispeller.fireball": {
+    "en": "Magispeller prepares fireball",
+    "zh": "魔法师：准备火球",
+    "vi": null
+  },
+  "subtitles.entity.magispeller.life_steal": {
+    "en": "Magispeller uses life stealing",
+    "zh": "魔法师：准备施放生命偷取",
+    "vi": null
+  },
+  "subtitles.entity.magispeller.ravager": {
+    "en": "Magispeller prepares Crashager",
+    "zh": "魔法师：准备虚拟劫掠兽",
+    "vi": null
+  },
+  "subtitles.entity.magispeller.ravager_roar": {
+    "en": "Crashager roars",
+    "zh": "虚拟劫掠兽：怒吼",
+    "vi": null
+  },
+  "subtitles.entity.magispeller.forcefield": {
+    "en": "Magispeller's forcefield activates",
+    "zh": "魔法师：力场激活",
+    "vi": null
+  },
+  "subtitles.entity.magispeller.fireball_start": {
+    "en": "Magispeller ignites",
+    "zh": "魔法师：点燃",
+    "vi": null
+  },
+  "subtitles.entity.magispeller.swing_bat": {
+    "en": "Magispeller bats a fireball",
+    "zh": "魔法师：发射火球",
+    "vi": null
+  },
+  "subtitles.entity.magispeller.lifesteal_start": {
+    "en": "Magispeller necromances",
+    "zh": "魔法师：招魂",
+    "vi": null
+  },
+  "subtitles.entity.magispeller.fangrun_start": {
+    "en": "Magispeller evokes",
+    "zh": "魔法师：唤魔",
+    "vi": null
+  },
+  "subtitles.entity.magispeller.potions": {
+    "en": "Magispeller spins rapidly",
+    "zh": "魔法师：高速旋转",
+    "vi": null
+  },
+  "subtitles.entity.magispeller.potions_start": {
+    "en": "Magispeller witches",
+    "zh": "魔法师：释放药水",
+    "vi": null
+  },
+  "subtitles.entity.magispeller.crossbowspin": {
+    "en": "Magispeller prepares Crossbow Spin",
+    "zh": "魔法师：万箭齐发",
+    "vi": null
+  },
+  "subtitles.entity.magispeller.load": {
+    "en": "Cannon loads",
+    "zh": "魔法师：装弹",
+    "vi": null
+  },
+  "subtitles.entity.magispeller.shoot": {
+    "en": "Cannon fires",
+    "zh": "魔法师：射击",
+    "vi": null
+  },
+  "subtitles.entity.magispeller.heal_interrupt": {
+    "en": "Magispeller's heal interrupted",
+    "zh": "魔法师：治疗中断",
+    "vi": null
+  },
+  "subtitles.entity.magispeller.kaboomer_explode": {
+    "en": "Kaboomer explodes",
+    "zh": "虚拟苦力怕爆炸",
+    "vi": null
+  },
+  "subtitles.entity.magispeller.kaboomer_hiss": {
+    "en": "Kaboomer hisses",
+    "zh": "虚拟苦力怕：嘶嘶",
+    "vi": null
+  },
+  "subtitles.entity.magispeller.kaboomer": {
+    "en": "Magispeller prepares Kaboomer",
+    "zh": "魔法师：准备虚拟苦力怕",
+    "vi": null
+  },
+  "subtitles.entity.magispeller.escape": {
+    "en": "Magispeller escapes",
+    "zh": "魔法师：逃跑",
+    "vi": null
+  },
+  "subtitles.entity.faker.ambient": {
+    "en": "Faker snickers",
+    "zh": "分身：偷笑",
+    "vi": null
+  },
+  "subtitles.entity.faker.death": {
+    "en": "Faker dies",
+    "zh": "分身：死亡",
+    "vi": null
+  },
+  "subtitles.entity.twittollager.ambient": {
+    "en": "Twittollager seethes",
+    "zh": "暴躁推特哥：热血沸腾",
+    "vi": null
+  },
+  "subtitles.entity.twittollager.celebrate": {
+    "en": "Twittollager cheers",
+    "zh": "暴躁推特哥：欢呼",
+    "vi": null
+  },
+  "subtitles.entity.twittollager.hurt": {
+    "en": "Twittollager hurts",
+    "zh": "暴躁推特哥：受伤",
+    "vi": null
+  },
+  "subtitles.entity.twittollager.death": {
+    "en": "Twittollager dies",
+    "zh": "暴躁推特哥：死亡",
+    "vi": null
+  },
+  "subtitles.entity.twittollager.scream": {
+    "en": "Twittollager screams",
+    "zh": "暴躁推特哥：尖叫",
+    "vi": null
+  },
+  "subtitles.entity.twittollager.explode": {
+    "en": "Twittollager explodes",
+    "zh": "暴躁推特哥：爆炸",
+    "vi": null
+  },
+  "subtitles.entity.twittollager.ding": {
+    "en": "Twittollager's phone dings",
+    "zh": "暴躁推特哥：叮",
+    "vi": null
+  },
+  "subtitles.entity.twittollager.hmm": {
+    "en": "Twittollager hmphs",
+    "zh": "暴躁推特哥 思索",
+    "vi": null
+  },
+  "subtitles.entity.twittollager.angry": {
+    "en": "Twittollager snaps",
+    "zh": "暴躁推特哥：愤怒",
+    "vi": null
+  },
+  "subtitles.entity.twittollager.charge": {
+    "en": "Twittollager charges",
+    "zh": "暴躁推特哥：冲锋",
+    "vi": null
+  },
+  "subtitles.entity.spiritcaller.wings": {
+    "en": "Spiritcaller's wings flap",
+    "zh": "灵魂感应师：展翼",
+    "vi": null
+  },
+  "subtitles.entity.spiritcaller.ambient": {
+    "en": "Spiritcaller titters",
+    "zh": "灵魂感应师：窃笑",
+    "vi": null
+  },
+  "subtitles.entity.spiritcaller.celebrate": {
+    "en": "Spiritcaller cheers",
+    "zh": "灵魂感应师：欢呼",
+    "vi": null
+  },
+  "subtitles.entity.spiritcaller.hurt": {
+    "en": "Spiritcaller hurts",
+    "zh": "灵魂感应师：受伤",
+    "vi": null
+  },
+  "subtitles.entity.spiritcaller.death": {
+    "en": "Spiritcaller dies",
+    "zh": "灵魂感应师：死亡",
+    "vi": null
+  },
+  "subtitles.entity.spiritcaller.intro": {
+    "en": "Spiritcaller chants",
+    "zh": "灵魂感应师：开始吟唱",
+    "vi": null
+  },
+  "subtitles.entity.spiritcaller.steal_spirits": {
+    "en": "Spiritcaller pulls spirits",
+    "zh": "灵魂感应师：招魂",
+    "vi": null
+  },
+  "subtitles.entity.spiritcaller.spirit_absorb": {
+    "en": "Mob Spirit absorbed",
+    "zh": "生之灵：被吸收",
+    "vi": null
+  },
+  "subtitles.entity.spiritcaller.spirit_swarm": {
+    "en": "Spiritcaller calls for souls",
+    "zh": "灵魂感应师：呼唤灵魂",
+    "vi": null
+  },
+  "subtitles.entity.spiritcaller.soul_scream": {
+    "en": "Soul screams",
+    "zh": "灵魂尖叫",
+    "vi": null
+  },
+  "subtitles.entity.spiritcaller.block_alert": {
+    "en": "Block heats up",
+    "zh": "方块：灼烧",
+    "vi": null
+  },
+  "subtitles.entity.spiritcaller.earth_rumble": {
+    "en": "Earth rumbles",
+    "zh": "地面：震动",
+    "vi": null
+  },
+  "subtitles.entity.spiritcaller.imp_laugh": {
+    "en": "Imp laughs",
+    "zh": "灵魂：嘲笑",
+    "vi": null
+  },
+  "subtitles.entity.spiritcaller.death_animation": {
+    "en": "Spiritcaller fades away",
+    "zh": "灵魂感应师：消散",
+    "vi": null
+  },
+  "subtitles.entity.spiritcaller.descent": {
+    "en": "Spiritcaller descends",
+    "zh": "灵魂感应师：降临",
+    "vi": null
+  },
+  "subtitles.entity.spiritcaller.imprise": {
+    "en": "Spiritcaller rises Imps",
+    "zh": "灵魂感应师：召唤灵魂",
+    "vi": null
+  },
+  "subtitles.entity.spiritcaller.clap": {
+    "en": "Spiritcaller claps",
+    "zh": "灵魂感应师：击掌",
+    "vi": null
+  },
+  "subtitles.entity.spiritcaller.spirit_hands": {
+    "en": "Spiritcaller summons hands",
+    "zh": "灵魂感应师：召唤手掌",
+    "vi": null
+  },
+  "subtitles.entity.spiritcaller.spirithand_warn": {
+    "en": "Spirit Hand attacks",
+    "zh": "灵魂之掌：攻击",
+    "vi": null
+  },
+  "subtitles.entity.spiritcaller.charge_laser": {
+    "en": "Spiritcaller prepares laser",
+    "zh": "灵魂感应师：准备发射激光",
+    "vi": null
+  },
+  "subtitles.entity.spiritcaller.laser": {
+    "en": "Soul Laser blasts",
+    "zh": "灵魂激光",
+    "vi": null
+  },
+  "subtitles.entity.spiritcaller.anticheese": {
+    "en": "Spiritcaller is unamused",
+    "zh": "灵魂感应师：抱怨",
+    "vi": null
+  },
+  "subtitles.entity.mob_spirit.hurt": {
+    "en": "Mob Spirit hurts",
+    "zh": "生之灵：受伤",
+    "vi": null
+  },
+  "subtitles.entity.mob_spirit.death": {
+    "en": "Mob Spirit dies",
+    "zh": "生之灵：死亡",
+    "vi": null
+  },
+  "subtitles.entity.boss_randomizer.ambient": {
+    "en": "Boss Randomizer garbles",
+    "zh": "Boss随机者：嘶吼",
+    "vi": null
+  },
+  "subtitles.entity.boss_randomizer.hurt": {
+    "en": "Boss Randomizer hurts",
+    "zh": "Boss随机者：受伤",
+    "vi": null
+  },
+  "subtitles.entity.boss_randomizer.death": {
+    "en": "Boss Randomizer dies",
+    "zh": "Boss随机者：死亡",
+    "vi": null
+  },
+  "subtitles.entity.boss_randomizer.boss": {
+    "en": "Boss approaching",
+    "zh": "Boss 即将来袭",
+    "vi": null
+  },
+  "subtitles.entity.boss_randomizer.finalboss": {
+    "en": "Final Boss approaching",
+    "zh": "最终Boss 即将来袭",
+    "vi": null
+  },
+  "subtitles.entity.boss_randomizer.goofy": {
+    "en": "Final Boss-...WHAT IS THAT?!?!??!?",
+    "zh": "最终Boss-…那是什么?!",
+    "vi": null
+  },
+  "subtitles.entity.crocofang.ambient": {
+    "en": "Crocofang growls",
+    "zh": "鳄牙兽：咆哮",
+    "vi": null
+  },
+  "subtitles.entity.crocofang.bite": {
+    "en": "Crocofang bites",
+    "zh": "鳄牙兽：撕咬",
+    "vi": null
+  },
+  "subtitles.entity.crocofang.hurt": {
+    "en": "Crocofang hurts",
+    "zh": "鳄牙兽：受伤",
+    "vi": null
+  },
+  "subtitles.entity.crocofang.death": {
+    "en": "Crocofang dies",
+    "zh": "鳄牙兽：死亡",
+    "vi": null
+  },
+  "subtitles.entity.crocofang.prepare_charge": {
+    "en": "Crocofang winds up",
+    "zh": "鳄牙兽：蓄力",
+    "vi": null
+  },
+  "subtitles.entity.crocofang.charge": {
+    "en": "Crocofang charges",
+    "zh": "鳄牙兽：冲锋",
+    "vi": null
+  },
+  "subtitles.entity.devastator.ravager_mutate": {
+    "en": "Ravager mutates",
+    "zh": "灾厄暴龙：变异",
+    "vi": null
+  },
+  "subtitles.entity.devastator.intro_explosion": {
+    "en": "Devastator emerges",
+    "zh": "灾厄暴龙：显现",
+    "vi": null
+  },
+  "subtitles.entity.devastator.slam_ground_intro": {
+    "en": "Devastator slams the ground",
+    "zh": "灾厄暴龙：震地",
+    "vi": null
+  },
+  "subtitles.entity.devastator.intro_roar": {
+    "en": "Devastator roars ferociously",
+    "zh": "灾厄暴龙：怒吼",
+    "vi": null
+  },
+  "subtitles.entity.devastator.death": {
+    "en": "Devastator dies",
+    "zh": "灾厄暴龙：死亡",
+    "vi": null
+  },
+  "subtitles.entity.devastator.death_ground": {
+    "en": "Devastator crashes to the ground",
+    "zh": "灾厄暴龙：倒向地面",
+    "vi": null
+  },
+  "subtitles.entity.devastator.prepare_wallcrash": {
+    "en": "Devastator angers",
+    "zh": "灾厄暴龙：发怒",
+    "vi": null
+  },
+  "subtitles.entity.devastator.wallcrash": {
+    "en": "Devastator smashes through a wall",
+    "zh": "灾厄暴龙：砸墙",
+    "vi": null
+  },
+  "subtitles.entity.devastator.step": {
+    "en": "Devastator steps",
+    "zh": "灾厄暴龙：践踏",
+    "vi": null
+  },
+  "subtitles.entity.devastator.land": {
+    "en": "Devastator lands",
+    "zh": "灾厄暴龙：降临",
+    "vi": null
+  },
+  "subtitles.entity.absorber.ambient": {
+    "en": "Absorber grumbles",
+    "zh": "伤害吸收者：抱怨",
+    "vi": null
+  },
+  "subtitles.entity.absorber.hurt": {
+    "en": "Absorber hurts",
+    "zh": "伤害吸收者：受伤",
+    "vi": null
+  },
+  "subtitles.entity.absorber.death": {
+    "en": "Absorber dies",
+    "zh": "伤害吸收者：死亡",
+    "vi": null
+  },
+  "subtitles.entity.absorber.attack": {
+    "en": "Absorber attacks",
+    "zh": "伤害吸收者：攻击",
+    "vi": null
+  },
+  "subtitles.entity.absorber.collapse": {
+    "en": "Absorber collapses",
+    "zh": "伤害吸收者：倒下",
+    "vi": null
+  },
+  "subtitles.entity.preserver.ambient": {
+    "en": "Preserver contemplates",
+    "zh": "保护者：沉思",
+    "vi": null
+  },
+  "subtitles.entity.preserver.hurt": {
+    "en": "Preserver hurts",
+    "zh": "保护者：受伤",
+    "vi": null
+  },
+  "subtitles.entity.preserver.death": {
+    "en": "Preserver dies",
+    "zh": "保护者：死亡",
+    "vi": null
+  },
+  "subtitles.entity.preserver.jump": {
+    "en": "Preserver flops",
+    "zh": "保护者：起飞",
+    "vi": null
+  },
+  "subtitles.entity.preserver.land": {
+    "en": "Preserver lands",
+    "zh": "保护者：降落",
+    "vi": null
+  },
+  "subtitles.entity.freakager.ambient": {
+    "en": "Freakager giggles",
+    "zh": "怪人：傻笑",
+    "vi": null
+  },
+  "subtitles.entity.freakager.hurt": {
+    "en": "Freakager hurts",
+    "zh": "怪人：受伤",
+    "vi": null
+  },
+  "subtitles.entity.freakager.death": {
+    "en": "Freakager dies",
+    "zh": "怪人：死亡",
+    "vi": null
+  },
+  "subtitles.entity.freakager.reveal": {
+    "en": "Freakager reveals",
+    "zh": "怪人：展示",
+    "vi": null
+  },
+  "subtitles.entity.freakager.skid": {
+    "en": "Villager skids",
+    "zh": "村民：打滑",
+    "vi": null
+  },
+  "subtitles.entity.freakager.villager_wave": {
+    "en": "Arms flailing",
+    "zh": "胳膊：无力地挥舞",
+    "vi": null
+  },
+  "subtitles.entity.freakager.villager_sigh": {
+    "en": "Villager sighs",
+    "zh": "村民：叹气",
+    "vi": null
+  },
+  "subtitles.entity.freakager.force_potion": {
+    "en": "Freakager forces a potion",
+    "zh": "怪人：灌药",
+    "vi": null
+  },
+  "subtitles.entity.freakager.axe_draw": {
+    "en": "Freakager draws weapon",
+    "zh": "怪人：掏出武器",
+    "vi": null
+  },
+  "subtitles.entity.freakager.throw": {
+    "en": "Freakager throws",
+    "zh": "怪人：投掷",
+    "vi": null
+  },
+  "subtitles.entity.freakager.pumpkinbombs": {
+    "en": "Freakager throws Bombs",
+    "zh": "怪人：投掷炸弹",
+    "vi": null
+  },
+  "subtitles.entity.freakager.minions": {
+    "en": "Freakager throws minions",
+    "zh": "怪人：投掷仆从",
+    "vi": null
+  },
+  "subtitles.entity.freakager.angry_axes": {
+    "en": "Freakager throws angrily",
+    "zh": "怪人：气愤的投掷",
+    "vi": null
+  },
+  "subtitles.entity.freakager.laugh": {
+    "en": "Freakager laughs maniacally",
+    "zh": "怪人：狂笑",
+    "vi": null
+  },
+  "subtitles.entity.freakager.villager_panic": {
+    "en": "Villager panics",
+    "zh": "村民：恐慌",
+    "vi": null
+  },
+  "subtitles.entity.freakager.shiver": {
+    "en": "Shivering",
+    "zh": "颤抖",
+    "vi": null
+  },
+  "subtitles.entity.freakager.cymbal": {
+    "en": "Something revealed",
+    "zh": "有什么事被揭露了",
+    "vi": null
+  },
+  "subtitles.entity.freakager.skullbomb_explode": {
+    "en": "Skull Bomb explodes",
+    "zh": "头骨炸弹：爆炸",
+    "vi": null
+  },
+  "subtitles.entity.freakager.pumpkinbomb_explode": {
+    "en": "Pumpkin Bomb explodes",
+    "zh": "南瓜炸弹：爆炸",
+    "vi": null
+  },
+  "subtitles.entity.freakager.villager_hiss": {
+    "en": "Villager hisses",
+    "zh": "村民：嘶嘶",
+    "vi": null
+  },
+  "subtitles.entity.freakager.pumpkinbomb_boing": {
+    "en": "Pumpkin Bomb bounces",
+    "zh": "南瓜炸弹：弹跳",
+    "vi": null
+  },
+  "subtitles.entity.freakager.spin": {
+    "en": "Freakager spins",
+    "zh": "怪人：旋转",
+    "vi": null
+  },
+  "subtitles.entity.freakager.scythe_spin": {
+    "en": "Scythe spins",
+    "zh": "镰刀：旋转",
+    "vi": null
+  },
+  "subtitles.entity.freakager.scythe_catch": {
+    "en": "Freakager catches scythe",
+    "zh": null,
+    "vi": null
+  },
+  "subtitles.entity.freakager.trickortreat_destroy": {
+    "en": "Trick or Treat destroyed",
+    "zh": "糖果：被摧毁",
+    "vi": null
+  },
+  "subtitles.entity.freakager.trickortreat": {
+    "en": "Freakager prepares Trick or Treat",
+    "zh": "怪人：准备释放糖果",
+    "vi": null
+  },
+  "subtitles.entity.freakager.trickortreat_bounce": {
+    "en": "Trick or Treat bounces",
+    "zh": "怪人：释放糖果",
+    "vi": null
+  },
+  "subtitles.entity.freakager.eyesore_ambient": {
+    "en": "Eyesore slithers",
+    "zh": "血眼：蠕动",
+    "vi": null
+  },
+  "subtitles.entity.freakager.eyesore_hurt": {
+    "en": "Eyesore hurts",
+    "zh": "血眼：受伤",
+    "vi": null
+  },
+  "subtitles.entity.freakager.eyesore_death": {
+    "en": "Eyesore dies",
+    "zh": "血眼：死亡",
+    "vi": null
+  },
+  "subtitles.entity.freakager.eyesore_land": {
+    "en": "Eyesore lands",
+    "zh": "血眼：登录",
+    "vi": null
+  },
+  "subtitles.entity.freakager.funnybone_ambient": {
+    "en": "Funnybone giggles",
+    "zh": "幽默感：傻笑",
+    "vi": null
+  },
+  "subtitles.entity.freakager.funnybone_hurt": {
+    "en": "Funnybone hurts",
+    "zh": "幽默感：受伤",
+    "vi": null
+  },
+  "subtitles.entity.freakager.funnybone_death": {
+    "en": "Funnybone dies",
+    "zh": "幽默感：死亡",
+    "vi": null
+  },
+  "subtitles.entity.freakager.funnybone_throw": {
+    "en": "Funnybone throws",
+    "zh": "幽默感：投掷",
+    "vi": null
+  },
+  "subtitles.entity.ragno.ambient": {
+    "en": "Ragno gurgles",
+    "zh": "腐败蜘蛛：咯咯",
+    "vi": null
+  },
+  "subtitles.entity.ragno.hurt": {
+    "en": "Ragno hurts",
+    "zh": "腐败蜘蛛：受伤",
+    "vi": null
+  },
+  "subtitles.entity.ragno.death": {
+    "en": "Ragno dies",
+    "zh": "腐败蜘蛛：死亡",
+    "vi": null
+  },
+  "subtitles.entity.ragno.crawl": {
+    "en": "Ragno crawls",
+    "zh": "腐败蜘蛛：爬行",
+    "vi": null
+  },
+  "subtitles.entity.ragno.block": {
+    "en": "Ragno blocks",
+    "zh": "腐败蜘蛛：格挡",
+    "vi": null
+  },
+  "subtitles.entity.ragno.prepare_charge": {
+    "en": "Ragno prepares",
+    "zh": "腐败蜘蛛：准备中",
+    "vi": null
+  },
+  "subtitles.entity.ragno.leap": {
+    "en": "Ragno leaps",
+    "zh": "腐败蜘蛛：冲击",
+    "vi": null
+  },
+  "subtitles.entity.ragno.roar": {
+    "en": "Ragno roars",
+    "zh": "腐败蜘蛛：怒吼",
+    "vi": null
+  },
+  "subtitles.entity.ragno.web": {
+    "en": "Ragno spits",
+    "zh": "腐败蜘蛛：蛛网",
+    "vi": null
+  },
+  "subtitles.entity.ragno.spawn": {
+    "en": "Ragno bursts out",
+    "zh": "腐败蜘蛛：暴起",
+    "vi": null
+  },
+  "subtitles.entity.ragno.charge": {
+    "en": "Ragno charges",
+    "zh": "腐败蜘蛛：冲锋",
+    "vi": null
+  },
+  "subtitles.entity.ragno.screech": {
+    "en": "Villager cries out",
+    "zh": "村民：呼喊",
+    "vi": null
+  },
+  "subtitles.entity.ragno.jumpscare": {
+    "en": "Villager screams agonizingly",
+    "zh": "村民：尖叫",
+    "vi": null
+  },
+  "subtitles.entity.ragno.eat": {
+    "en": "Ragno eats",
+    "zh": "腐败蜘蛛：侵蚀",
+    "vi": null
+  },
+  "subtitles.entity.ragno.slam": {
+    "en": "Ragno slams",
+    "zh": "腐败蜘蛛：猛烈撞击",
+    "vi": null
+  },
+  "subtitles.entity.ragno.web_hit": {
+    "en": "Web splatters",
+    "zh": "蛛网：飞溅",
+    "vi": null
+  },
+  "subtitles.entity.ragno.stun": {
+    "en": "Ragno tires out",
+    "zh": "腐败蜘蛛：筋疲力尽",
+    "vi": null
+  },
+  "subtitles.entity.ragno.cough": {
+    "en": "Ragno coughs up",
+    "zh": "腐败蜘蛛：咳出异物",
+    "vi": null
+  },
+  "subtitles.item.totem_of_banishment.banish": {
+    "en": "Vexes banished",
+    "zh": "恼鬼：被放逐",
+    "vi": null
+  },
+  "subtitles.item.spellbound_book.use": {
+    "en": "Spellbound Book corrupts",
+    "zh": "你已堕入魔阴身",
+    "vi": null
+  },
+  "advancements.illageandspillage.freaky_advancement": {
+    "en": "Oops, did I scare you?",
+    "zh": "啊呀, 我吓到你了?",
+    "vi": null
+  },
+  "advancements.illageandspillage.freaky_advancement_desc": {
+    "en": "Defeat the Freakager and Ragno",
+    "zh": "打败怪人和腐败蜘蛛",
+    "vi": null
+  },
+  "advancements.illageandspillage.magi_advancement": {
+    "en": "Who's Wheezing Now!?",
+    "zh": "现在该谁汗流浃背了?",
+    "vi": null
+  },
+  "advancements.illageandspillage.magi_advancement_desc": {
+    "en": "Defeat the Magispeller",
+    "zh": "打败魔法师",
+    "vi": null
+  },
+  "advancements.illageandspillage.spiri_advancement": {
+    "en": "Sacrificial Satisfaction",
+    "zh": "意满牲牺",
+    "vi": null
+  },
+  "advancements.illageandspillage.spiri_advancement_desc": {
+    "en": "Defeat the Spiritcaller",
+    "zh": "打败灵魂感应师",
+    "vi": null
+  },
+  "advancements.illageandspillage.randomizer_advancement": {
+    "en": "Well, This is Awkward...",
+    "zh": "嗯，这很尴尬…",
+    "vi": null
+  },
+  "advancements.illageandspillage.randomizer_advancement_desc": {
+    "en": "Encounter the Boss Randomizer after setting up your config file wrong",
+    "zh": "在设置错误的配置文件后遇到Boss随机者",
+    "vi": null
+  },
+  "advancements.illageandspillage.kill_all_iands": {
+    "en": "Illage and Killage",
+    "zh": "灾厄溢杀",
+    "vi": null
+  },
+  "advancements.illageandspillage.kill_all_iands_desc": {
+    "en": "Kill one of every Illager in Illage and Spillage",
+    "zh": "在灾厄溢出模组中杀死每一种刌民",
+    "vi": null
+  },
+  "death.attack.mutation": {
+    "en": "%1$s was plagued with tumors by %2$s",
+    "zh": "%1$s 被%2$s的肿瘤所困扰",
+    "vi": null
+  },
+  "itemGroup.illageandspillage.creative_tab": {
+    "en": "Illage and Spillage",
+    "zh": "灾厄溢出",
+    "vi": null
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "structures": [
+    {
+      "structure": "mebahelcreaturesdraugr:draugr_fort",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 58796488,
+    "exclusion_zone":
+    {
+      "other_set":"mebahelcreaturesdraugr:draugr_bastion",
+      "chunk_count": 16
+    },
+    "spacing": 124,
+    "separation": 112
+  }
+}

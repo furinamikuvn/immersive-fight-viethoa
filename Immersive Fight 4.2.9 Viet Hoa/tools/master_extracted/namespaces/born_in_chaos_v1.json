@@ -1,0 +1,4287 @@
+{
+  "advancements.arachnophobes_nightmare.descr": {
+    "en": "Kill Spiders Mother",
+    "zh": "杀死一只蜘蛛母体",
+    "vi": "Giết nhện mẹ"
+  },
+  "advancements.arachnophobes_nightmare.title": {
+    "en": "Arachnophobe's Nightmare",
+    "zh": "恐蛛症的噩梦",
+    "vi": "Cơn ác mộng sợ nhện"
+  },
+  "advancements.big_boy.descr": {
+    "en": "Kill the Dire Hound Leader",
+    "zh": "杀死一只骇狼首领",
+    "vi": "Giết một thủ lĩnh sói tàn khốc"
+  },
+  "advancements.big_boy.title": {
+    "en": "Big Boy",
+    "zh": "大狗狗",
+    "vi": "con chó lớn"
+  },
+  "advancements.bonk.descr": {
+    "en": "Stun someone with the Skullbreaker Hammer",
+    "zh": "用重击者锤砸晕某人",
+    "vi": "Đánh bất tỉnh ai đó bằng Slugger Hammer"
+  },
+  "advancements.bonk.title": {
+    "en": "Bonk!",
+    "zh": "砰！",
+    "vi": "Bang!"
+  },
+  "advancements.bornin_chaos.descr": {
+    "en": "Enter a world full of dangers",
+    "zh": "踏上这片危机四伏的土地",
+    "vi": "Đặt chân lên vùng đất nguy hiểm này"
+  },
+  "advancements.bornin_chaos.title": {
+    "en": "Born in Chaos",
+    "zh": "生于混沌",
+    "vi": "sinh ra từ sự hỗn loạn"
+  },
+  "advancements.bowfor_wizards.descr": {
+    "en": null,
+    "zh": "获得一柄魔血法杖",
+    "vi": "Có được một cây trượng máu ma thuật"
+  },
+  "advancements.bowfor_wizards.title": {
+    "en": null,
+    "zh": "法师之弓",
+    "vi": "Cung pháp sư"
+  },
+  "advancements.bury_them_all.descr": {
+    "en": null,
+    "zh": "收集所有不朽之人的坟墓",
+    "vi": "Thu thập các ngôi mộ của tất cả những người bất tử"
+  },
+  "advancements.bury_them_all.title": {
+    "en": null,
+    "zh": "全给埋了",
+    "vi": "Tất cả được chôn cất"
+  },
+  "advancements.bypassingthe_expiration_date.descr": {
+    "en": "Eat Smoked Food",
+    "zh": "食用烟熏过的食物",
+    "vi": "ăn đồ hun khói"
+  },
+  "advancements.bypassingthe_expiration_date.title": {
+    "en": "Bypassing the Expiration Date",
+    "zh": "绕开过期日",
+    "vi": "Bỏ qua ngày hết hạn"
+  },
+  "advancements.chaos_knight.descr": {
+    "en": "Equip a full set of Dark Metal Armor",
+    "zh": "穿上一整套暗金属盔甲",
+    "vi": "Mặc đầy đủ bộ áo giáp kim loại tối màu"
+  },
+  "advancements.chaos_knight.title": {
+    "en": "Chaos Knight",
+    "zh": "混沌骑士",
+    "vi": "Hiệp sĩ hỗn loạn"
+  },
+  "advancements.charm_collector.descr": {
+    "en": "Collect all types of Charms in your inventory",
+    "zh": "收集所有类型的符咒",
+    "vi": "Thu thập tất cả các loại bùa chú"
+  },
+  "advancements.charm_collector.title": {
+    "en": "Charm Collector",
+    "zh": "符咒收集者",
+    "vi": "nhà sưu tập bùa chú"
+  },
+  "advancements.compact_necromancy.descr": {
+    "en": "Craft the Bonescaller Staff",
+    "zh": "制作一柄骷髅召唤师的法杖",
+    "vi": "Chế tạo gậy triệu hồi xương"
+  },
+  "advancements.compact_necromancy.title": {
+    "en": "Compact Necromancy",
+    "zh": "袖珍法术",
+    "vi": "bùa bỏ túi"
+  },
+  "advancements.cultural_attribute.descr": {
+    "en": "Get the Spirit Guide Sombrero",
+    "zh": "获得一顶骷髅领队的宽边帽",
+    "vi": "Nhận được chiếc mũ rộng vành của Skeleton Leader"
+  },
+  "advancements.cultural_attribute.title": {
+    "en": "Cultural Attribute",
+    "zh": "特色文化",
+    "vi": "Văn hóa đặc trưng"
+  },
+  "advancements.dark_blacksmith.descr": {
+    "en": "Craft any dark metal weapon",
+    "zh": "制作任意一把暗金属武器",
+    "vi": "Chế tạo bất kỳ vũ khí kim loại đen nào"
+  },
+  "advancements.dark_blacksmith.title": {
+    "en": "Dark Blacksmith",
+    "zh": "暗黑铁匠",
+    "vi": "thợ rèn bóng tối"
+  },
+  "advancements.dark_creator.descr": {
+    "en": "Kill the Missionary",
+    "zh": "杀死一位传教士",
+    "vi": "giết một nhà truyền giáo"
+  },
+  "advancements.dark_creator.title": {
+    "en": "Dark Creator",
+    "zh": "暗黑造物主",
+    "vi": "Người tạo bóng tối"
+  },
+  "advancements.dark_forging.descr": {
+    "en": "Craft a Dark Metal Ingot",
+    "zh": "制作一枚暗金属锭",
+    "vi": "Chế tạo một thỏi kim loại đen"
+  },
+  "advancements.dark_forging.title": {
+    "en": "Dark Forging",
+    "zh": "暗黑锻造",
+    "vi": "Darkforge"
+  },
+  "advancements.dark_metallurgy.descr": {
+    "en": "Get a piece of dark metal",
+    "zh": "获得一些暗金属",
+    "vi": "lấy một ít kim loại đen"
+  },
+  "advancements.dark_metallurgy.title": {
+    "en": "Dark Metallurgy",
+    "zh": "暗黑冶金",
+    "vi": "Luyện kim tối"
+  },
+  "advancements.deceived_hopes.descr": {
+    "en": "Mine Infested Diamond Ore",
+    "zh": "挖掘被感染的钻石矿石",
+    "vi": "Khai thác quặng kim cương bị nhiễm bệnh"
+  },
+  "advancements.deceived_hopes.title": {
+    "en": "Deceived Hopes",
+    "zh": "虚假的希望",
+    "vi": "hy vọng sai lầm"
+  },
+  "advancements.disgusting_lootbox.descr": {
+    "en": "Rip open Glutton Fish Stomach",
+    "zh": "打开巨食人鱼的胃",
+    "vi": "Mở bụng cá piranha khổng lồ"
+  },
+  "advancements.disgusting_lootbox.title": {
+    "en": "Disgusting Lootbox",
+    "zh": "令人“反”胃",
+    "vi": "Kinh tởm"
+  },
+  "advancements.dismantledto_bones.descr": {
+    "en": "Kill the Supreme Bonescaller",
+    "zh": "杀死一只高阶骷髅召唤师",
+    "vi": "Giết một người triệu hồi bộ xương cấp cao"
+  },
+  "advancements.dismantledto_bones.title": {
+    "en": "Senior Summoner",
+    "zh": "高阶召唤师",
+    "vi": "Triệu hồi sư cấp cao"
+  },
+  "advancements.double_trouble.descr": {
+    "en": "Make the Phantom Creeper split up by attacking it",
+    "zh": "攻击幻影苦力怕，让它进行分裂",
+    "vi": "Tấn công cây leo ma và khiến nó tách ra"
+  },
+  "advancements.double_trouble.title": {
+    "en": "Double Trouble",
+    "zh": "双倍烦恼",
+    "vi": "Nhân đôi rắc rối"
+  },
+  "advancements.excessive_fly_swatter.descr": {
+    "en": "Kill a Corpse Fly with a Dark Warblade while under the effects of a stage 5 rampage.",
+    "zh": "在极端暴怒的效果下，用暗黑大剑击杀一只腐尸苍蝇",
+    "vi": "Trong khi đang chịu tác dụng của Extreme Rage, hãy tiêu diệt Ruồi Carrion bằng Dark Sword."
+  },
+  "advancements.excessive_fly_swatter.title": {
+    "en": "Excessive Fly Swatter",
+    "zh": "杀蝇焉用牛刀",
+    "vi": "Giết ruồi bằng dao bò có ích gì?"
+  },
+  "advancements.exorcism.descr": {
+    "en": "Kill a mob possessed by the spirit of chaos",
+    "zh": "杀死一只被混沌恶灵附身的生物",
+    "vi": "Giết một sinh vật bị Chaos Spirit chiếm hữu"
+  },
+  "advancements.exorcism.title": {
+    "en": "Exorcism",
+    "zh": "驱魔除恶",
+    "vi": "Xua đuổi tà ma"
+  },
+  "advancements.explosive_temper.descr": {
+    "en": "Put on the Damned Demoman Hat",
+    "zh": "戴上一顶诅咒爆破帽",
+    "vi": "Đội chiếc mũ blaster bị nguyền rủa"
+  },
+  "advancements.explosive_temper.title": {
+    "en": "Explosive Temper",
+    "zh": "脾气“爆”躁",
+    "vi": "Tính khí “bùng nổ”"
+  },
+  "advancements.fighting_nightmares.descr": {
+    "en": "Kill the Nightmare Stalker",
+    "zh": "杀死一只梦魇循踪兽",
+    "vi": "Giết người theo dõi ác mộng"
+  },
+  "advancements.fighting_nightmares.title": {
+    "en": "Fighting Nightmares",
+    "zh": "激战梦魇",
+    "vi": "Chiến đấu với cơn ác mộng"
+  },
+  "advancements.food_fight.descr": {
+    "en": "Hit someone with monster flesh",
+    "zh": "拿兽肉去打某人",
+    "vi": "Đánh người bằng thịt động vật"
+  },
+  "advancements.food_fight.title": {
+    "en": "Food Fight",
+    "zh": "食物大战",
+    "vi": "cuộc chiến đồ ăn"
+  },
+  "advancements.freshen_your_breath.descr": {
+    "en": "Remove Rotten Stink by eating Mint Candy",
+    "zh": "通过食用薄荷糖去除身上的腐臭效果",
+    "vi": "Loại bỏ tác dụng ôi thiu trên cơ thể bằng cách ăn bạc hà"
+  },
+  "advancements.freshen_your_breath.title": {
+    "en": "Freshen Your Breath",
+    "zh": "清新口气",
+    "vi": "hơi thở thơm mát"
+  },
+  "advancements.good_demoman.descr": {
+    "en": "Kill the Skeleton Demoman",
+    "zh": "杀死一只爆破骷髅",
+    "vi": "Giết một bộ xương nổ"
+  },
+  "advancements.good_demoman.title": {
+    "en": "Good Demoman",
+    "zh": "好样的爆破手",
+    "vi": "Làm tốt lắm Demoman"
+  },
+  "advancements.grave_ravager.descr": {
+    "en": "Break down the gravestone of the immortalized person",
+    "zh": "破坏一座不朽之人的墓碑",
+    "vi": "Phá hủy bia mộ của người bất tử"
+  },
+  "advancements.grave_ravager.title": {
+    "en": "Grave Ravager",
+    "zh": "掘人坟墓",
+    "vi": "Đào mộ ai đó"
+  },
+  "advancements.guidetothenextworld.descr": {
+    "en": "Kill the Spirit Guide",
+    "zh": "杀死一只骷髅领队",
+    "vi": "Giết một thủ lĩnh bộ xương"
+  },
+  "advancements.guidetothenextworld.title": {
+    "en": "The day of the Dead",
+    "zh": "亡灵节",
+    "vi": "ngày của người chết"
+  },
+  "advancements.hat_for_dark_deeds.descr": {
+    "en": "Get the Missionary Hat",
+    "zh": "戴上一顶传教士的帽子",
+    "vi": "Đội chiếc mũ truyền giáo"
+  },
+  "advancements.hat_for_dark_deeds.title": {
+    "en": "Hat for dark affairs",
+    "zh": "黑暗事务帽",
+    "vi": "Mũ vật chất tối"
+  },
+  "advancements.hatman.descr": {
+    "en": "Collect all hats from Born in Chaos",
+    "zh": "收集生于混沌中所有的帽子",
+    "vi": "Thu thập tất cả những chiếc mũ sinh ra trong hỗn loạn"
+  },
+  "advancements.hatman.title": {
+    "en": "Hatman",
+    "zh": "帽子专家",
+    "vi": "chuyên gia về mũ"
+  },
+  "advancements.heart_thief.descr": {
+    "en": "Get Elixir of Vampirism",
+    "zh": "制作一瓶噬血试剂",
+    "vi": "Làm một lọ thuốc thử thực bào máu"
+  },
+  "advancements.heart_thief.title": {
+    "en": "Heart Thief",
+    "zh": "心血窃贼",
+    "vi": "Kẻ trộm máu"
+  },
+  "advancements.horror_underthe_mantle.descr": {
+    "en": "Kill Lifestealer",
+    "zh": "杀死一只窃命者",
+    "vi": "Giết kẻ cướp sự sống"
+  },
+  "advancements.horror_underthe_mantle.title": {
+    "en": "Horror Under the Mantle",
+    "zh": "斗篷之下的恐惧",
+    "vi": "Nỗi sợ hãi dưới tấm áo choàng"
+  },
+  "advancements.horrorofthe_depths.descr": {
+    "en": "Kill Glutton Fish",
+    "zh": "杀死一只巨食人鱼",
+    "vi": "Giết một con cá piranha khổng lồ"
+  },
+  "advancements.horrorofthe_depths.title": {
+    "en": "Horror of the Depths",
+    "zh": "惊骇深渊",
+    "vi": "Vực thẳm kinh hoàng"
+  },
+  "advancements.infernal_hatman.descr": {
+    "en": "Get Lord Pumpkinhead Hat",
+    "zh": "获得一顶南瓜领主的帽子",
+    "vi": "Nhận một chiếc mũ Chúa tể bí ngô"
+  },
+  "advancements.infernal_hatman.title": {
+    "en": "Infernal Musketeer",
+    "zh": "地狱枪手",
+    "vi": "game bắn súng địa ngục"
+  },
+  "advancements.infernal_medicine.descr": {
+    "en": "Transform Seared Spirit into Infernal Spirit using Transmuting Elixir",
+    "zh": "使用转化试剂，把炽魂南瓜人转化成邪魂南瓜人",
+    "vi": "Sử dụng thuốc thử biến đổi để biến Bí ngô Linh hồn rực lửa thành Bí ngô Linh hồn Ác ma."
+  },
+  "advancements.infernal_medicine.title": {
+    "en": "Infernal Medicine",
+    "zh": "地狱医学",
+    "vi": "thuốc địa ngục"
+  },
+  "advancements.insect_repellent.descr": {
+    "en": "Get Elixir of Insect Protection",
+    "zh": "获得一瓶防虫药剂",
+    "vi": "Lấy một chai thuốc chống côn trùng"
+  },
+  "advancements.insect_repellent.title": {
+    "en": "Insect Repellent",
+    "zh": "杀虫剂",
+    "vi": "thuốc trừ sâu"
+  },
+  "advancements.junior_summoner.descr": {
+    "en": "Kill the Bonecaller",
+    "zh": "杀死一只骷髅召唤师",
+    "vi": "Giết một người triệu hồi bộ xương"
+  },
+  "advancements.junior_summoner.title": {
+    "en": "Junior Summoner",
+    "zh": "初阶召唤师",
+    "vi": "Triệu Hồi Thiếu Niên"
+  },
+  "advancements.lifeturnedouttobeacomedy.descr": {
+    "en": "Kill the zombie clown",
+    "zh": "杀死一只小丑僵尸",
+    "vi": "Giết một thây ma hề"
+  },
+  "advancements.lifeturnedouttobeacomedy.title": {
+    "en": "Life turned out to be a comedy",
+    "zh": "滑稽人生",
+    "vi": "cuộc sống vui nhộn"
+  },
+  "advancements.mr_decoction.descr": {
+    "en": "Create an Intoxication or Stimulation Bomb",
+    "zh": "制作一瓶毒酒炸弹或亢奋炸弹",
+    "vi": "Làm bom rượu độc hay bom hưng phấn"
+  },
+  "advancements.mr_decoction.title": {
+    "en": "Mr. Decoction",
+    "zh": "药剂师傅",
+    "vi": "Dược sĩ Phúc"
+  },
+  "advancements.my_size.descr": {
+    "en": "Craft a Dark Warblade",
+    "zh": "制作一柄暗黑大剑",
+    "vi": "Tạo một thanh đại kiếm bóng tối"
+  },
+  "advancements.my_size.title": {
+    "en": "My Size!",
+    "zh": "好大！跟我一样！",
+    "vi": "Lớn quá! Cũng giống như tôi!"
+  },
+  "advancements.one_explosion_is_good_two_is_better.descr": {
+    "en": "Craft a Phantom Bomb",
+    "zh": "制作一颗幻影炸弹",
+    "vi": "Chế tạo bom ma"
+  },
+  "advancements.one_explosion_is_good_two_is_better.title": {
+    "en": "Double Bang",
+    "zh": "双重爆炸",
+    "vi": "vụ nổ kép"
+  },
+  "advancements.pieceof_chaos.descr": {
+    "en": null,
+    "zh": "获得一些混沌种子",
+    "vi": "Nhận một số hạt giống hỗn loạn"
+  },
+  "advancements.pieceof_chaos.title": {
+    "en": null,
+    "zh": "一片混沌",
+    "vi": "Sự hỗn loạn"
+  },
+  "advancements.protectedby_darkness.descr": {
+    "en": "Craft Dark Atrium",
+    "zh": "制作一枚暗黑心房",
+    "vi": "Tạo nên một trái tim đen tối"
+  },
+  "advancements.protectedby_darkness.title": {
+    "en": "Protected by Darkness",
+    "zh": "黑暗守护",
+    "vi": "Người bảo vệ bóng tối"
+  },
+  "advancements.pumpkin_lord.descr": {
+    "en": "Kill Lord Pumpkinhead",
+    "zh": "杀死一只南瓜领主",
+    "vi": "Giết chúa bí ngô"
+  },
+  "advancements.pumpkin_lord.title": {
+    "en": "Last Night",
+    "zh": "最终之夜",
+    "vi": "đêm cuối cùng"
+  },
+  "advancements.pumpkin_sir.descr": {
+    "en": "Kill Sir Pumpkinhead",
+    "zh": "杀死一只南瓜伯爵",
+    "vi": "Giết một số lượng bí ngô"
+  },
+  "advancements.pumpkin_sir.title": {
+    "en": "Pumpkin Sir",
+    "zh": "南瓜伯爵",
+    "vi": "Đếm bí ngô"
+  },
+  "advancements.rampage.descr": {
+    "en": "Get a five-kill streak with the Great Reaper Ax in a short period of time",
+    "zh": "短时间内用死神斧完成五连杀",
+    "vi": "Hoàn thành năm lần tiêu diệt liên tiếp bằng Rìu tử thần trong một khoảng thời gian ngắn"
+  },
+  "advancements.rampage.title": {
+    "en": "RAMPAGE!",
+    "zh": "横冲直撞！",
+    "vi": "Hung hăng!"
+  },
+  "advancements.scarecrow.descr": {
+    "en": "Create your own Pumpkin Spirit",
+    "zh": "召唤一只属于你的南瓜人",
+    "vi": "Triệu hồi Pumpkinman của riêng bạn"
+  },
+  "advancements.scarecrow.title": {
+    "en": "Scarecrow",
+    "zh": "稻草人",
+    "vi": "bù nhìn"
+  },
+  "advancements.shakeand_mix.descr": {
+    "en": "Be under the effects of Intoxication and Stimulation at the same time",
+    "zh": "同时获得酒中毒和亢奋效果",
+    "vi": "Đạt được cả hiệu ứng say mê và hưng phấn cùng một lúc"
+  },
+  "advancements.shakeand_mix.title": {
+    "en": "Shake and Mix",
+    "zh": "摇晃混合",
+    "vi": "Lắc để trộn"
+  },
+  "advancements.shell_warrior.descr": {
+    "en": "Equip a full set of Spiny Shell Armor",
+    "zh": "穿上一整套刺壳盔甲",
+    "vi": "Mặc đầy đủ bộ áo giáp vỏ gai"
+  },
+  "advancements.shell_warrior.title": {
+    "en": "Shell Warrior",
+    "zh": "刺壳战士",
+    "vi": "Chiến binh vỏ gai"
+  },
+  "advancements.soul_eater.descr": {
+    "en": "Collect 64 Ethereal Spirits into your inventory",
+    "zh": "在物品栏里收集64个虚魂",
+    "vi": "Thu thập 64 linh hồn trống rỗng trong kho"
+  },
+  "advancements.soul_eater.title": {
+    "en": "Soul Eater",
+    "zh": "噬魂者",
+    "vi": "Kẻ ăn linh hồn"
+  },
+  "advancements.spider_warlord.descr": {
+    "en": "Craft Spider Bite",
+    "zh": "制作一柄血蛛毒咬",
+    "vi": "Chế tạo vết cắn có nọc độc của nhện máu"
+  },
+  "advancements.spider_warlord.title": {
+    "en": "Spider Warlord",
+    "zh": "蛛军将领",
+    "vi": "Tướng quân nhện"
+  },
+  "advancements.spruce_cowboyinthe_moonlight.descr": {
+    "en": "Standing on a spruce log and while mounted, wearing Damned Demoman's Hat under the moon, kill any monster.",
+    "zh": "骑着马站在云杉原木上，戴着诅咒爆破帽，在月光底下杀死一只怪物",
+    "vi": "Cưỡi ngựa đứng trên khúc gỗ vân sam, đội chiếc mũ lưỡi trai bị nguyền rủa, giết quái vật dưới ánh trăng"
+  },
+  "advancements.spruce_cowboyinthe_moonlight.title": {
+    "en": "Spruce Cowboy In The Moonlight",
+    "zh": "月光下的云杉牛仔",
+    "vi": "Cao bồi vân sam dưới ánh trăng"
+  },
+  "advancements.squireofthe_dark_lord.descr": {
+    "en": "Have all types of dark metal weapons in your inventory",
+    "zh": "在物品栏里收集所有类型的暗金属武器",
+    "vi": "Thu thập tất cả các loại vũ khí kim loại đen trong kho của bạn"
+  },
+  "advancements.squireofthe_dark_lord.title": {
+    "en": "Squire of the Dark Lord",
+    "zh": "暗黑领主的侍卫",
+    "vi": "Vệ sĩ của Chúa tể bóng tối"
+  },
+  "advancements.sweet_battle.descr": {
+    "en": null,
+    "zh": "制作一柄甜蜜斧或甜蜜剑",
+    "vi": "Làm một chiếc rìu ngọt ngào hoặc một thanh kiếm ngọt ngào"
+  },
+  "advancements.sweet_battle.title": {
+    "en": null,
+    "zh": "口蜜“斧剑”",
+    "vi": "Miệng mật ong \"Axe Sword\""
+  },
+  "advancements.symphonyof_chaos.descr": {
+    "en": "Get all the Born in Chaos music discs",
+    "zh": "收集生于混沌中所有的唱片",
+    "vi": "Thu thập tất cả hồ sơ từ Sinh ra trong hỗn loạn"
+  },
+  "advancements.symphonyof_chaos.title": {
+    "en": "Symphony of Chaos",
+    "zh": "混沌交响乐",
+    "vi": "Bản giao hưởng hỗn loạn"
+  },
+  "advancements.the_wind_darkening.descr": {
+    "en": "Kill the dark vortex",
+    "zh": "杀死一只暗影漩涡",
+    "vi": "Giết một cơn lốc bóng tối"
+  },
+  "advancements.the_wind_darkening.title": {
+    "en": "The Wind Darkening",
+    "zh": "风变暗了",
+    "vi": "Gió đã tối"
+  },
+  "advancements.transmutalogy.descr": {
+    "en": "Create Transmuting Elixir",
+    "zh": "获得一瓶转化试剂",
+    "vi": "Lấy một chai thuốc thử biến đổi"
+  },
+  "advancements.transmutalogy.title": {
+    "en": "Transmutalogy",
+    "zh": "转化",
+    "vi": "Chuyển thành"
+  },
+  "advancements.trickor_treat.descr": {
+    "en": null,
+    "zh": "收集生于混沌中所有的糖果",
+    "vi": "Thu thập tất cả kẹo sinh ra trong hỗn loạn"
+  },
+  "advancements.trickor_treat.title": {
+    "en": null,
+    "zh": "不给糖就捣蛋",
+    "vi": "lừa hoặc điều trị"
+  },
+  "advancements.unitywith_darknessachievement.descr": {
+    "en": "Equip a full set of Nightmare Armor",
+    "zh": "穿上一整套梦魇盔甲",
+    "vi": "Mặc đầy đủ bộ áo giáp ác mộng"
+  },
+  "advancements.unitywith_darknessachievement.title": {
+    "en": "Unity with Darkness",
+    "zh": "融于黑暗",
+    "vi": "tan vào bóng tối"
+  },
+  "advancements.unlucky_hunter.descr": {
+    "en": "Step into a hound trap",
+    "zh": "踩上捕兽夹",
+    "vi": "Bước vào bẫy gấu"
+  },
+  "advancements.unlucky_hunter.title": {
+    "en": "Unlucky Hunter",
+    "zh": "倒霉的猎人",
+    "vi": "Thợ săn xui xẻo"
+  },
+  "advancements.waste_recycler.descr": {
+    "en": "Feed the Thornshell Crab rotten flesh or rotten fish",
+    "zh": "给刺壳蟹喂食一些腐肉或腐烂鱼肉",
+    "vi": "Cho cua mai ăn một ít thịt xác hoặc thịt cá"
+  },
+  "advancements.waste_recycler.title": {
+    "en": "Waste Recycler",
+    "zh": "废物回收商",
+    "vi": "tái chế chất thải"
+  },
+  "advancements.yoursatietywillbe_eternal.descr": {
+    "en": null,
+    "zh": "制作一颗永恒糖果",
+    "vi": "Làm kẹo vĩnh cửu"
+  },
+  "advancements.yoursatietywillbe_eternal.title": {
+    "en": null,
+    "zh": "永远饱足",
+    "vi": "luôn đầy đủ"
+  },
+  "block.born_in_chaos_v1.argillite_lamp": {
+    "en": "Argillite Lamp",
+    "zh": "粘板岩灯",
+    "vi": "Argillite Lamp"
+  },
+  "block.born_in_chaos_v1.black_argillite_brick_n": {
+    "en": "§4Cursed Black Argillite Brick",
+    "zh": "§4诅咒黑色粘板岩砖",
+    "vi": "§4Cursed Black Argillite Brick"
+  },
+  "block.born_in_chaos_v1.black_argillite_brick_slab_n": {
+    "en": "§4Cursed Black Argillite Brick Slab",
+    "zh": "§4诅咒黑色粘板岩砖台阶",
+    "vi": "§4Cursed Black Argillite Brick Slab"
+  },
+  "block.born_in_chaos_v1.black_argillite_brick_slab": {
+    "en": "Black Argillite Brick Slab",
+    "zh": "黑色粘板岩砖台阶",
+    "vi": "Black Argillite Brick Slab"
+  },
+  "block.born_in_chaos_v1.black_argillite_brick_stairs_n": {
+    "en": "§4Cursed Black Argillite Brick Stairs",
+    "zh": "§4诅咒黑色粘板岩砖楼梯",
+    "vi": "§4Cursed Black Argillite Brick Stairs"
+  },
+  "block.born_in_chaos_v1.black_argillite_brick_stairs": {
+    "en": "Black Argillite Brick Stairs",
+    "zh": "黑色粘板岩砖楼梯",
+    "vi": "Black Argillite Brick Stairs"
+  },
+  "block.born_in_chaos_v1.black_argillite_brick_wall_n": {
+    "en": "§4Cursed Black Argillite Brick Wall",
+    "zh": "§4诅咒黑色粘板岩砖墙",
+    "vi": "§4Cursed Black Argillite Brick Wall"
+  },
+  "block.born_in_chaos_v1.black_argillite_brick_wall": {
+    "en": "Black Argillite Brick Wall",
+    "zh": "黑色粘板岩砖墙",
+    "vi": "Black Argillite Brick Wall"
+  },
+  "block.born_in_chaos_v1.black_argillite_brick": {
+    "en": "Black Argillite Brick",
+    "zh": "黑色粘板岩砖",
+    "vi": "Black Argillite Brick"
+  },
+  "block.born_in_chaos_v1.black_argillite_button": {
+    "en": "Black Argillite Button",
+    "zh": "黑色粘板岩按钮",
+    "vi": "Black Argillite Button"
+  },
+  "block.born_in_chaos_v1.black_argillite_column_n": {
+    "en": "§4Cursed Black Argillite Column",
+    "zh": "§4诅咒黑色粘板岩柱",
+    "vi": "§4Cursed Black Argillite Column"
+  },
+  "block.born_in_chaos_v1.black_argillite_column_slab_n": {
+    "en": "§4Cursed Black Argillite Column Slab",
+    "zh": "§4诅咒黑色粘板岩柱台阶",
+    "vi": "§4Cursed Black Argillite Column Slab"
+  },
+  "block.born_in_chaos_v1.black_argillite_column_slab": {
+    "en": "Black Argillite Column Slab",
+    "zh": "黑色粘板岩柱台阶",
+    "vi": "Black Argillite Column Slab"
+  },
+  "block.born_in_chaos_v1.black_argillite_column": {
+    "en": "Black Argillite Column",
+    "zh": "黑色粘板岩柱",
+    "vi": "Black Argillite Column"
+  },
+  "block.born_in_chaos_v1.black_argillite_n": {
+    "en": "§4Cursed Black Argillite",
+    "zh": "§4诅咒黑色粘板岩",
+    "vi": "§4Cursed Black Argillite"
+  },
+  "block.born_in_chaos_v1.black_argillite_slab_n": {
+    "en": "§4Cursed Black Argillite Slab",
+    "zh": "§4诅咒黑色粘板岩台阶",
+    "vi": "§4Cursed Black Argillite Slab"
+  },
+  "block.born_in_chaos_v1.black_argillite_slab": {
+    "en": "Black Argillite Slab",
+    "zh": "黑色粘板岩台阶",
+    "vi": "Black Argillite Slab"
+  },
+  "block.born_in_chaos_v1.black_argillite_stairs_n": {
+    "en": "§4Cursed Black Argillite Stairs",
+    "zh": "§4诅咒黑色粘板岩楼梯",
+    "vi": "§4Cursed Black Argillite Stairs"
+  },
+  "block.born_in_chaos_v1.black_argillite_stairs": {
+    "en": "Black Argillite Stairs",
+    "zh": "黑色粘板岩楼梯",
+    "vi": "Black Argillite Stairs"
+  },
+  "block.born_in_chaos_v1.black_argillite_wall_n": {
+    "en": "§4Cursed Black Argillite Wall",
+    "zh": "§4诅咒黑色粘板岩墙",
+    "vi": "§4Cursed Black Argillite Wall"
+  },
+  "block.born_in_chaos_v1.black_argillite_wall": {
+    "en": "Black Argillite Wall",
+    "zh": "黑色粘板岩墙",
+    "vi": "Black Argillite Wall"
+  },
+  "block.born_in_chaos_v1.black_argillite": {
+    "en": "Black Argillite",
+    "zh": "黑色粘板岩",
+    "vi": "Black Argillite"
+  },
+  "block.born_in_chaos_v1.black_argillitepressureplate": {
+    "en": "Black Argillite Pressure Plate",
+    "zh": "黑色粘板岩压力板",
+    "vi": "Black Argillite Pressure Plate"
+  },
+  "block.born_in_chaos_v1.bundle_of_bones": {
+    "en": "Bundle of Bones",
+    "zh": "骨头捆",
+    "vi": "Bundle of Bones"
+  },
+  "block.born_in_chaos_v1.c_black_argillite_brick_n": {
+    "en": "§4Cursed Cracked Black Argillite Brick",
+    "zh": "§4诅咒裂纹黑色粘板岩砖",
+    "vi": "§4Cursed Cracked Black Argillite Brick"
+  },
+  "block.born_in_chaos_v1.carved_black_argillite_n": {
+    "en": "§4Cursed Carved Black Argillite",
+    "zh": "§4诅咒雕纹黑色粘板岩",
+    "vi": "§4Cursed Carved Black Argillite"
+  },
+  "block.born_in_chaos_v1.carved_black_argillite": {
+    "en": "Carved Black Argillite",
+    "zh": "雕纹黑色粘板岩",
+    "vi": "Carved Black Argillite"
+  },
+  "block.born_in_chaos_v1.chipped_black_argillite_brick": {
+    "en": "Cracked Black Argillite Brick",
+    "zh": "裂纹黑色粘板岩砖",
+    "vi": "Cracked Black Argillite Brick"
+  },
+  "block.born_in_chaos_v1.closed_hound_trap": {
+    "en": "§6Closed Hound Trap",
+    "zh": "§6合上的捕兽夹",
+    "vi": "§6Closed Hound Trap"
+  },
+  "block.born_in_chaos_v1.cobweb_cover": {
+    "en": "Cobweb Cover",
+    "zh": "覆地蛛网",
+    "vi": "Cobweb Cover"
+  },
+  "block.born_in_chaos_v1.cultivated_pumpkin": {
+    "en": "Cultivated Pumpkin",
+    "zh": "施肥南瓜",
+    "vi": "Cultivated Pumpkin"
+  },
+  "block.born_in_chaos_v1.cursed_scarlet_ornate_glass_pane": {
+    "en": "§4Cursed Scarlet Ornate Glass Pane",
+    "zh": "§4诅咒深红色花窗玻璃板",
+    "vi": "§4Cursed Scarlet Ornate Glass Pane"
+  },
+  "block.born_in_chaos_v1.dark_grid": {
+    "en": "Dark Grid",
+    "zh": "暗金属栏杆",
+    "vi": "Dark Grid"
+  },
+  "block.born_in_chaos_v1.dark_ice": {
+    "en": "Dark Ice",
+    "zh": "暗冰",
+    "vi": "Dark Ice"
+  },
+  "block.born_in_chaos_v1.dark_metal_block": {
+    "en": "Dark Metal Block",
+    "zh": "暗金属块",
+    "vi": "Dark Metal Block"
+  },
+  "block.born_in_chaos_v1.dark_metal_deposit": {
+    "en": "Dark Metal Deposit",
+    "zh": "暗金属矿石",
+    "vi": "Dark Metal Deposit"
+  },
+  "block.born_in_chaos_v1.dark_stained_glass_panel": {
+    "en": "Ornate Glass Pane",
+    "zh": "黑色花窗玻璃板",
+    "vi": "Ornate Glass Pane"
+  },
+  "block.born_in_chaos_v1.dark_stained_glass": {
+    "en": "Ornate Glass",
+    "zh": "黑色花窗玻璃",
+    "vi": "Ornate Glass"
+  },
+  "block.born_in_chaos_v1.evil_carved_pumpkin": {
+    "en": "Evil Carved Pumpkin",
+    "zh": "邪恶南瓜",
+    "vi": "Evil Carved Pumpkin"
+  },
+  "block.born_in_chaos_v1.fel_soil_destructible": {
+    "en": "§aFel Soil",
+    "zh": "§a邪恶污土",
+    "vi": "§aFel Soil"
+  },
+  "block.born_in_chaos_v1.fel_soil": {
+    "en": "§aFel Soil",
+    "zh": "§a邪恶污土",
+    "vi": "§aFel Soil"
+  },
+  "block.born_in_chaos_v1.fired_black_argillite_n": {
+    "en": "§4Cursed Fired Black Argillite",
+    "zh": "§4诅咒平滑黑色粘板岩",
+    "vi": "§4Cursed Fired Black Argillite"
+  },
+  "block.born_in_chaos_v1.fired_black_argillite": {
+    "en": "Fired Black Argillite",
+    "zh": "平滑黑色粘板岩",
+    "vi": "Fired Black Argillite"
+  },
+  "block.born_in_chaos_v1.flaming_evil_pumpkin": {
+    "en": "Flaming Evil Pumpkin",
+    "zh": "邪恶南瓜灯",
+    "vi": "Flaming Evil Pumpkin"
+  },
+  "block.born_in_chaos_v1.fragile_scorched_boards": {
+    "en": "Fragile Scorched Planks",
+    "zh": "裂纹焦炭木板",
+    "vi": "Fragile Scorched Planks"
+  },
+  "block.born_in_chaos_v1.gnawed_bones": {
+    "en": "Gnawed Bones",
+    "zh": "骸骨",
+    "vi": "Gnawed Bones"
+  },
+  "block.born_in_chaos_v1.green_stained_glass_panel": {
+    "en": "Green Ornate Glass Pane",
+    "zh": "绿色花窗玻璃板",
+    "vi": "Green Ornate Glass Pane"
+  },
+  "block.born_in_chaos_v1.green_stained_glass": {
+    "en": "Green Ornate Glass",
+    "zh": "绿色花窗玻璃",
+    "vi": "Green Ornate Glass"
+  },
+  "block.born_in_chaos_v1.hound_trap": {
+    "en": "§6Hound Trap",
+    "zh": "§6捕兽夹",
+    "vi": "§6Hound Trap"
+  },
+  "block.born_in_chaos_v1.infected_deepslate_diamond_ore": {
+    "en": "§3Infected Diamond Ore",
+    "zh": "§3被感染的深层钻石矿石",
+    "vi": "§3Infected Diamond Ore"
+  },
+  "block.born_in_chaos_v1.infected_diamond_ore": {
+    "en": "§3Infected Diamond Ore",
+    "zh": "§3被感染的钻石矿石",
+    "vi": "§3Infected Diamond Ore"
+  },
+  "block.born_in_chaos_v1.infernal_evil_pumpkin_s": {
+    "en": "§aInfernal Evil Pumpkin",
+    "zh": "§a恶魔南瓜",
+    "vi": "§aInfernal Evil Pumpkin"
+  },
+  "block.born_in_chaos_v1.infernal_evil_pumpkin": {
+    "en": "Infernal Evil Pumpkin",
+    "zh": "恶魔南瓜",
+    "vi": "Infernal Evil Pumpkin"
+  },
+  "block.born_in_chaos_v1.lifestealer_skull": {
+    "en": "Lifestealer Skull",
+    "zh": "窃命者头骨",
+    "vi": "Lifestealer Skull"
+  },
+  "block.born_in_chaos_v1.marigolds": {
+    "en": "Marigolds",
+    "zh": "金盏花",
+    "vi": "Marigolds"
+  },
+  "block.born_in_chaos_v1.mesh_door": {
+    "en": "Mesh Door",
+    "zh": "网格门",
+    "vi": "Mesh Door"
+  },
+  "block.born_in_chaos_v1.mossy_black_argillite_brick_n": {
+    "en": "§4Cursed Mossy Black Argillite Brick",
+    "zh": "§4诅咒覆苔黑色粘板岩砖",
+    "vi": "§4Cursed Mossy Black Argillite Brick"
+  },
+  "block.born_in_chaos_v1.mossy_black_argillite_brick": {
+    "en": "Mossy Black Argillite Brick",
+    "zh": "覆苔黑色粘板岩砖",
+    "vi": "Mossy Black Argillite Brick"
+  },
+  "block.born_in_chaos_v1.nightmare_stalker_skull": {
+    "en": "Nightmare Stalker Skull",
+    "zh": "梦魇循踪兽头颅",
+    "vi": "Nightmare Stalker Skull"
+  },
+  "block.born_in_chaos_v1.orange_stained_glass_panel": {
+    "en": "Orange Ornate Glass Pane",
+    "zh": "橙色花窗玻璃板",
+    "vi": "Orange Ornate Glass Pane"
+  },
+  "block.born_in_chaos_v1.orange_stained_glass": {
+    "en": "Orange Ornate Glass",
+    "zh": "橙色花窗玻璃",
+    "vi": "Orange Ornate Glass"
+  },
+  "block.born_in_chaos_v1.pile_of_skulls": {
+    "en": "Pile of Skulls",
+    "zh": "头骨堆",
+    "vi": "Pile of Skulls"
+  },
+  "block.born_in_chaos_v1.puddleof_stimulation": {
+    "en": "Puddle of stimulation",
+    "zh": "亢奋残渍",
+    "vi": "Puddle of stimulation"
+  },
+  "block.born_in_chaos_v1.puddleofintoxication": {
+    "en": "Puddle of intoxication",
+    "zh": "毒酒残渍",
+    "vi": "Puddle of intoxication"
+  },
+  "block.born_in_chaos_v1.purple_stained_glass_panel": {
+    "en": "Purple Ornate Glass Pane",
+    "zh": "紫色花窗玻璃板",
+    "vi": "Purple Ornate Glass Pane"
+  },
+  "block.born_in_chaos_v1.purple_stained_glass": {
+    "en": "Purple Ornate Glass",
+    "zh": "紫色花窗玻璃",
+    "vi": "Purple Ornate Glass"
+  },
+  "block.born_in_chaos_v1.river_mint": {
+    "en": "River Mint",
+    "zh": "河薄荷",
+    "vi": "River Mint"
+  },
+  "block.born_in_chaos_v1.rotten_infernal_pumpkin": {
+    "en": null,
+    "zh": "腐烂恶魔南瓜",
+    "vi": "Bí ngô quỷ thối"
+  },
+  "block.born_in_chaos_v1.rotten_soil": {
+    "en": "Rotten Soil",
+    "zh": "腐烂泥土",
+    "vi": "Rotten Soil"
+  },
+  "block.born_in_chaos_v1.scarlet_stained_glass_panel": {
+    "en": "Scarlet Ornate Glass Pane",
+    "zh": "深红色花窗玻璃板",
+    "vi": "Scarlet Ornate Glass Pane"
+  },
+  "block.born_in_chaos_v1.scarlet_stained_glass": {
+    "en": "Scarlet Ornate Glass",
+    "zh": "深红色花窗玻璃",
+    "vi": "Scarlet Ornate Glass"
+  },
+  "block.born_in_chaos_v1.scorched_log": {
+    "en": "Scorched Log",
+    "zh": "焦炭原木",
+    "vi": "Scorched Log"
+  },
+  "block.born_in_chaos_v1.scorched_planks_button": {
+    "en": "Scorched Button",
+    "zh": "焦炭木按钮",
+    "vi": "Scorched Button"
+  },
+  "block.born_in_chaos_v1.scorched_planks_door": {
+    "en": "Scorched Planks Door",
+    "zh": "焦炭木门",
+    "vi": "Scorched Planks Door"
+  },
+  "block.born_in_chaos_v1.scorched_planks_fence_gate": {
+    "en": "Scorched Fence Gate",
+    "zh": "焦炭木栅栏门",
+    "vi": "Scorched Fence Gate"
+  },
+  "block.born_in_chaos_v1.scorched_planks_fence": {
+    "en": "Scorched Fence",
+    "zh": "焦炭木栅栏",
+    "vi": "Scorched Fence"
+  },
+  "block.born_in_chaos_v1.scorched_planks_pressure_plates": {
+    "en": "Scorched Pressure Plate",
+    "zh": "焦炭木压力板",
+    "vi": "Scorched Pressure Plate"
+  },
+  "block.born_in_chaos_v1.scorched_planks_slab": {
+    "en": "Scorched Planks Slab",
+    "zh": "焦炭木台阶",
+    "vi": "Scorched Planks Slab"
+  },
+  "block.born_in_chaos_v1.scorched_planks_stairs": {
+    "en": "Scorched Planks Stairs",
+    "zh": "焦炭木楼梯",
+    "vi": "Scorched Planks Stairs"
+  },
+  "block.born_in_chaos_v1.scorched_planks_trapdoor": {
+    "en": "Scorched Trapdoor",
+    "zh": "焦炭木活板门",
+    "vi": "Scorched Trapdoor"
+  },
+  "block.born_in_chaos_v1.scorched_planks": {
+    "en": "Scorched Planks",
+    "zh": "焦炭木板",
+    "vi": "Scorched Planks"
+  },
+  "block.born_in_chaos_v1.scorched_wood": {
+    "en": "Scorched Wood",
+    "zh": "焦炭木",
+    "vi": "Scorched Wood"
+  },
+  "block.born_in_chaos_v1.smoldering_scorched_log": {
+    "en": "Smoldering Scorched Log",
+    "zh": "阴燃焦炭原木",
+    "vi": "Smoldering Scorched Log"
+  },
+  "block.born_in_chaos_v1.smoldering_scorched_wood": {
+    "en": "Smoldering Scorched Wood",
+    "zh": "阴燃焦炭木",
+    "vi": "Smoldering Scorched Wood"
+  },
+  "block.born_in_chaos_v1.spiny_shell_trap": {
+    "en": "§6Spiny Shell Trap",
+    "zh": "§6刺壳陷阱",
+    "vi": "§6Spiny Shell Trap"
+  },
+  "block.born_in_chaos_v1.stained_black_argillite_brick_n": {
+    "en": "§4Cursed Stained Black Argillite Brick",
+    "zh": "§4诅咒染污黑色粘板岩砖",
+    "vi": "§4Cursed Stained Black Argillite Brick"
+  },
+  "block.born_in_chaos_v1.stained_black_argillite_brick": {
+    "en": "Stained Black Argillite Brick",
+    "zh": "染污黑色粘板岩砖",
+    "vi": "Stained Black Argillite Brick"
+  },
+  "block.born_in_chaos_v1.stripped_scorched_log": {
+    "en": "Stripped Scorched Log",
+    "zh": "去皮焦炭原木",
+    "vi": "Stripped Scorched Log"
+  },
+  "block.born_in_chaos_v1.stripped_scorched_wood": {
+    "en": "Stripped Scorched Wood",
+    "zh": "去皮焦炭原木",
+    "vi": "Stripped Scorched Wood"
+  },
+  "block.born_in_chaos_v1.tombstone_2003wise": {
+    "en": "§bTombstone: 2003wise",
+    "zh": "§b墓碑：2003wise",
+    "vi": "§bTombstone: 2003wise"
+  },
+  "block.born_in_chaos_v1.tombstone_dark_titan_066": {
+    "en": "§cTombstone: DarkTitan066",
+    "zh": "§c墓碑：DarkTitan066",
+    "vi": "§cTombstone: DarkTitan066"
+  },
+  "block.born_in_chaos_v1.tombstone_derivas": {
+    "en": "§dTombstone: Derivas",
+    "zh": "§d墓碑：Derivas",
+    "vi": "§dTombstone: Derivas"
+  },
+  "block.born_in_chaos_v1.tombstone_fubuki_banzai": {
+    "en": "§bTombstone: Fubuki Banzai",
+    "zh": "§b墓碑：Fubuki Banzai",
+    "vi": "§bTombstone: Fubuki Banzai"
+  },
+  "block.born_in_chaos_v1.tombstone_orion": {
+    "en": "§6Tombstone: Orion",
+    "zh": "§6墓碑：Orion",
+    "vi": "§6Tombstone: Orion"
+  },
+  "block.born_in_chaos_v1.tombstone_petasi": {
+    "en": "§6Tombstone: Petasi",
+    "zh": "§6墓碑：Petasi",
+    "vi": "§6Tombstone: Petasi"
+  },
+  "block.born_in_chaos_v1.webbed_cobblestone": {
+    "en": "Webbed Stone",
+    "zh": "覆网石头",
+    "vi": "Webbed Stone"
+  },
+  "death.attack.piercing.item": {
+    "en": "%1$s was killed by %2$s using %3$s",
+    "zh": "%1$s被%2$s用%3$s杀死了",
+    "vi": "%1$s đã bị %2$s giết bằng cách sử dụng %3$s"
+  },
+  "death.attack.piercing.player": {
+    "en": "%1$s died whilst trying to escape %2$s",
+    "zh": "%1$s在试图逃离%2$s时死亡",
+    "vi": "%1$s chết khi cố gắng trốn thoát %2$s"
+  },
+  "death.attack.piercing": {
+    "en": "%1$s died from life stealing",
+    "zh": "%1$s被偷走了生命",
+    "vi": "%1$s đã bị đánh cắp mạng sống"
+  },
+  "effect.born_in_chaos_v1.aim": {
+    "en": null,
+    "zh": "瞄准",
+    "vi": "mục tiêu"
+  },
+  "effect.born_in_chaos_v1.barbedattack": {
+    "en": "Barbed attack",
+    "zh": "刺尖攻击",
+    "vi": "tấn công đột biến"
+  },
+  "effect.born_in_chaos_v1.block_break": {
+    "en": "Block Break",
+    "zh": "方块破碎",
+    "vi": "Phá vỡ khối"
+  },
+  "effect.born_in_chaos_v1.bone_barrier": {
+    "en": "Bone Barrier",
+    "zh": "骸骨护障",
+    "vi": "Hàng rào xương"
+  },
+  "effect.born_in_chaos_v1.bone_fracture": {
+    "en": "Bone Fracture",
+    "zh": "骨折",
+    "vi": "gãy xương"
+  },
+  "effect.born_in_chaos_v1.cursed_mark": {
+    "en": "Cursed Mark",
+    "zh": "咒印",
+    "vi": "con dấu nguyền rủa"
+  },
+  "effect.born_in_chaos_v1.curseofthe_boat": {
+    "en": "Curse of the Boat",
+    "zh": "船的诅咒",
+    "vi": "lời nguyền của con tàu"
+  },
+  "effect.born_in_chaos_v1.dark_splash": {
+    "en": "Dark Splash",
+    "zh": "暗黑溅射",
+    "vi": "giật gân tối"
+  },
+  "effect.born_in_chaos_v1.dark_ward": {
+    "en": "Dark Ward",
+    "zh": "暗黑监护",
+    "vi": "sự giám hộ tối tăm"
+  },
+  "effect.born_in_chaos_v1.detonation": {
+    "en": "Detonation",
+    "zh": "震爆",
+    "vi": "nổ tung"
+  },
+  "effect.born_in_chaos_v1.dogtruce": {
+    "en": "Dog Truce",
+    "zh": "看在骨头的份上",
+    "vi": "Vì xương cốt"
+  },
+  "effect.born_in_chaos_v1.fish_breath": {
+    "en": "Fish Breath",
+    "zh": "氧气要没了…",
+    "vi": "Oxy sắp cạn kiệt..."
+  },
+  "effect.born_in_chaos_v1.furious_rampage": {
+    "en": "Rampage",
+    "zh": "狂烈暴怒",
+    "vi": "cơn thịnh nộ dữ dội"
+  },
+  "effect.born_in_chaos_v1.gaze_of_terror": {
+    "en": "Gaze of Terror",
+    "zh": "恐惧凝视",
+    "vi": "cái nhìn sợ hãi"
+  },
+  "effect.born_in_chaos_v1.infernal_flame": {
+    "en": "§aInfernal Flame",
+    "zh": "§a狱火",
+    "vi": "§a Lửa địa ngục"
+  },
+  "effect.born_in_chaos_v1.infestationof_flies": {
+    "en": "Infestation of Flies",
+    "zh": "苍蝇感染",
+    "vi": "nhiễm ruồi"
+  },
+  "effect.born_in_chaos_v1.insect_protection": {
+    "en": "Insect Protection",
+    "zh": "虫害保护",
+    "vi": "phòng chống sâu bệnh"
+  },
+  "effect.born_in_chaos_v1.intoxication": {
+    "en": "Intoxication",
+    "zh": "酒中毒",
+    "vi": "ngộ độc rượu"
+  },
+  "effect.born_in_chaos_v1.jawattack": {
+    "en": "jaw attack",
+    "zh": "颚击",
+    "vi": "cú đánh hàm"
+  },
+  "effect.born_in_chaos_v1.lifesteal": {
+    "en": "§cLifesteal",
+    "zh": "§c生命窃失",
+    "vi": "§c cuộc sống bị đánh cắp"
+  },
+  "effect.born_in_chaos_v1.light_rampage": {
+    "en": "Rampage",
+    "zh": "轻度暴怒",
+    "vi": "Cơn thịnh nộ nhẹ"
+  },
+  "effect.born_in_chaos_v1.living_bomb": {
+    "en": "§aLiving Bomb",
+    "zh": "§a自爆",
+    "vi": "§a tự hủy"
+  },
+  "effect.born_in_chaos_v1.living_cocoon_player_side": {
+    "en": "Living Cocoon",
+    "zh": "活茧",
+    "vi": "Kén sống"
+  },
+  "effect.born_in_chaos_v1.living_cocoon": {
+    "en": "Living Cocoon",
+    "zh": "活茧",
+    "vi": "Kén sống"
+  },
+  "effect.born_in_chaos_v1.magic_depletion": {
+    "en": "Magic Depletion",
+    "zh": "魔力耗尽",
+    "vi": "Mana cạn kiệt"
+  },
+  "effect.born_in_chaos_v1.medium_rampage": {
+    "en": "Rampage",
+    "zh": "中度暴怒",
+    "vi": "Cơn thịnh nộ vừa phải"
+  },
+  "effect.born_in_chaos_v1.myiasis": {
+    "en": "Myiasis",
+    "zh": "蝇蛆病",
+    "vi": "bệnh Myosis"
+  },
+  "effect.born_in_chaos_v1.obsession": {
+    "en": "Obsession",
+    "zh": "迷痴",
+    "vi": "bị ám ảnh"
+  },
+  "effect.born_in_chaos_v1.rampant_rampage": {
+    "en": "Rampage",
+    "zh": "极端暴怒",
+    "vi": "cơn thịnh nộ cực độ"
+  },
+  "effect.born_in_chaos_v1.rotten_smell": {
+    "en": "Rotten Stink",
+    "zh": "腐臭",
+    "vi": "ôi thiu"
+  },
+  "effect.born_in_chaos_v1.sacrifice": {
+    "en": "Sacrifice",
+    "zh": "献祭",
+    "vi": "hy sinh"
+  },
+  "effect.born_in_chaos_v1.soul_stratification": {
+    "en": "Soul Stratification",
+    "zh": "灵魂剥离",
+    "vi": "lột xác tâm hồn"
+  },
+  "effect.born_in_chaos_v1.stimulatingsurge": {
+    "en": "Stimulating Surge",
+    "zh": "亢奋激增",
+    "vi": "sự phấn khích dâng trào"
+  },
+  "effect.born_in_chaos_v1.stimulation": {
+    "en": "Stimulation",
+    "zh": "亢奋",
+    "vi": "Hào hứng"
+  },
+  "effect.born_in_chaos_v1.stranglehold": {
+    "en": "§cStranglehold",
+    "zh": "§c束缚",
+    "vi": "Sự ràng buộc §c"
+  },
+  "effect.born_in_chaos_v1.strong_rampage": {
+    "en": "Rampage",
+    "zh": "重度暴怒",
+    "vi": "cơn thịnh nộ dữ dội"
+  },
+  "effect.born_in_chaos_v1.stun": {
+    "en": "Stun",
+    "zh": "眩晕",
+    "vi": "chóng mặt"
+  },
+  "effect.born_in_chaos_v1.stunning_strike": {
+    "en": "Stunning Strike",
+    "zh": "眩晕打击",
+    "vi": "đòn choáng váng"
+  },
+  "effect.born_in_chaos_v1.sweet_madness": {
+    "en": null,
+    "zh": "甜蜜癫狂",
+    "vi": "sự điên rồ ngọt ngào"
+  },
+  "effect.born_in_chaos_v1.terrifying_presence": {
+    "en": "Terrifying Presence",
+    "zh": "恐惧存在",
+    "vi": "Nỗi sợ hãi tồn tại"
+  },
+  "effect.born_in_chaos_v1.undead_summonun": {
+    "en": "Undead Summonundead",
+    "zh": "亡灵召唤",
+    "vi": "Tiếng gọi của người chết"
+  },
+  "effect.born_in_chaos_v1.unity_with_darkness": {
+    "en": "Unity With Darkness",
+    "zh": "融于黑暗",
+    "vi": "tan vào bóng tối"
+  },
+  "effect.born_in_chaos_v1.vampiric_touch": {
+    "en": "§cVampiric Touch",
+    "zh": "§c噬血之触",
+    "vi": "§cChảy máu khi chạm vào"
+  },
+  "effect.born_in_chaos_v1.wither_resistance": {
+    "en": "Wither Resistance",
+    "zh": "凋零抗性",
+    "vi": "kháng héo"
+  },
+  "effect.furious_rampage": {
+    "en": "Rampant Rampage",
+    "zh": "狂烈暴怒",
+    "vi": "cơn thịnh nộ dữ dội"
+  },
+  "effect.light_rampage": {
+    "en": "Light Rampage",
+    "zh": "轻度暴怒",
+    "vi": "Cơn thịnh nộ nhẹ"
+  },
+  "effect.magic_depletion": {
+    "en": "Magic Depletion",
+    "zh": "魔力耗尽",
+    "vi": "Mana cạn kiệt"
+  },
+  "effect.medium_rampage": {
+    "en": "MediumRampage",
+    "zh": "中度暴怒",
+    "vi": "Cơn thịnh nộ vừa phải"
+  },
+  "effect.rampant_rampage": {
+    "en": "Furious Rampage",
+    "zh": "极端暴怒",
+    "vi": "cơn thịnh nộ cực độ"
+  },
+  "effect.strong_rampage": {
+    "en": "Strong Rampage",
+    "zh": "重度暴怒",
+    "vi": "cơn thịnh nộ dữ dội"
+  },
+  "effect.stun": {
+    "en": "Stun",
+    "zh": "眩晕",
+    "vi": "chóng mặt"
+  },
+  "entity.born_in_chaos_v1.baby_skeleton_2": {
+    "en": null,
+    "zh": "小骷髅",
+    "vi": "hộp sọ nhỏ"
+  },
+  "entity.born_in_chaos_v1.baby_skeleton_minion": {
+    "en": "Baby Skeleton",
+    "zh": "小骷髅",
+    "vi": "Baby Skeleton"
+  },
+  "entity.born_in_chaos_v1.baby_skeleton": {
+    "en": "Baby Skeleton",
+    "zh": "小骷髅",
+    "vi": "Baby Skeleton"
+  },
+  "entity.born_in_chaos_v1.baby_spider_controlled": {
+    "en": "Baby Spider",
+    "zh": "受控的小蜘蛛",
+    "vi": "Baby Spider"
+  },
+  "entity.born_in_chaos_v1.baby_spider": {
+    "en": "Baby Spider",
+    "zh": "小蜘蛛",
+    "vi": "Baby Spider"
+  },
+  "entity.born_in_chaos_v1.barrel_zombie": {
+    "en": "Barrel Zombie",
+    "zh": "木桶僵尸",
+    "vi": "Barrel Zombie"
+  },
+  "entity.born_in_chaos_v1.bloody_gadfly": {
+    "en": "Bloody Gadfly",
+    "zh": "血腥牛虻",
+    "vi": "Bloody Gadfly"
+  },
+  "entity.born_in_chaos_v1.bone_imp_2": {
+    "en": null,
+    "zh": "恶魔小骷髅",
+    "vi": "Sọ quỷ"
+  },
+  "entity.born_in_chaos_v1.bone_imp_minion": {
+    "en": "Bone Imp",
+    "zh": "恶魔小骷髅",
+    "vi": "Bone Imp"
+  },
+  "entity.born_in_chaos_v1.bone_imp": {
+    "en": "Bone Imp",
+    "zh": "恶魔小骷髅",
+    "vi": "Bone Imp"
+  },
+  "entity.born_in_chaos_v1.bonescaller_not_despawn": {
+    "en": "Bonescaller",
+    "zh": "骷髅召唤师",
+    "vi": "Bonescaller"
+  },
+  "entity.born_in_chaos_v1.bonescaller": {
+    "en": "Bonescaller",
+    "zh": "骷髅召唤师",
+    "vi": "Bonescaller"
+  },
+  "entity.born_in_chaos_v1.controlled_baby_skeleton": {
+    "en": "Controlled Baby Skeleton",
+    "zh": "受控的小骷髅",
+    "vi": "Controlled Baby Skeleton"
+  },
+  "entity.born_in_chaos_v1.controlled_spiritual_assistant": {
+    "en": "Controlled Baby Skeleton",
+    "zh": "受控的随从小骷髅",
+    "vi": "Controlled Baby Skeleton"
+  },
+  "entity.born_in_chaos_v1.corpse_fish": {
+    "en": "Corpse Fish",
+    "zh": "腐尸鱼",
+    "vi": "Corpse Fish"
+  },
+  "entity.born_in_chaos_v1.corpse_fly": {
+    "en": "Corpse Fly",
+    "zh": "腐尸苍蝇",
+    "vi": "Corpse Fly"
+  },
+  "entity.born_in_chaos_v1.dark_vortex": {
+    "en": "Dark Vortex",
+    "zh": "暗影漩涡",
+    "vi": "Dark Vortex"
+  },
+  "entity.born_in_chaos_v1.decaying_zombie_not_despawn": {
+    "en": "Decaying Zombie",
+    "zh": "腐烂僵尸",
+    "vi": "Decaying Zombie"
+  },
+  "entity.born_in_chaos_v1.decaying_zombie": {
+    "en": "Decaying Zombie",
+    "zh": "腐烂僵尸",
+    "vi": "Decaying Zombie"
+  },
+  "entity.born_in_chaos_v1.decrepit_skeleton": {
+    "en": "Decrepit Skeleton",
+    "zh": "骨架",
+    "vi": "Decrepit Skeleton"
+  },
+  "entity.born_in_chaos_v1.diamond_termite": {
+    "en": "Diamond Termite",
+    "zh": "钻石甲虫",
+    "vi": "Diamond Termite"
+  },
+  "entity.born_in_chaos_v1.dire_hound_leader": {
+    "en": "Dire Hound Leader",
+    "zh": "骇狼首领",
+    "vi": "Dire Hound Leader"
+  },
+  "entity.born_in_chaos_v1.door_knight_not_despawn": {
+    "en": "Door Knight",
+    "zh": "铁桶门僵尸",
+    "vi": "Door Knight"
+  },
+  "entity.born_in_chaos_v1.door_knight": {
+    "en": "Door Knight",
+    "zh": "铁桶门僵尸",
+    "vi": "Door Knight"
+  },
+  "entity.born_in_chaos_v1.dread_hound_not_despawn": {
+    "en": "Dread Hound",
+    "zh": "骇狼",
+    "vi": "Dread Hound"
+  },
+  "entity.born_in_chaos_v1.dread_hound": {
+    "en": "Dread Hound",
+    "zh": "骇狼",
+    "vi": "Dread Hound"
+  },
+  "entity.born_in_chaos_v1.fallen_chaos_knight": {
+    "en": "Fallen Chaos Knight",
+    "zh": "堕落混沌骑士",
+    "vi": "Fallen Chaos Knight"
+  },
+  "entity.born_in_chaos_v1.felsteed": {
+    "en": "Felsteed",
+    "zh": "恶魔马",
+    "vi": "Felsteed"
+  },
+  "entity.born_in_chaos_v1.firelight_not_despawn": {
+    "en": "Firelight",
+    "zh": "焰芒虫",
+    "vi": "Firelight"
+  },
+  "entity.born_in_chaos_v1.firelight": {
+    "en": "Firelight",
+    "zh": "焰芒虫",
+    "vi": "Firelight"
+  },
+  "entity.born_in_chaos_v1.glutton_fish": {
+    "en": "Glutton Fish",
+    "zh": "巨食人鱼",
+    "vi": "Glutton Fish"
+  },
+  "entity.born_in_chaos_v1.infernal_spirit": {
+    "en": "Infernal Spirit",
+    "zh": "邪魂南瓜人",
+    "vi": "Infernal Spirit"
+  },
+  "entity.born_in_chaos_v1.lifestealer_true_form": {
+    "en": "Lifestealer",
+    "zh": "窃命者",
+    "vi": "Lifestealer"
+  },
+  "entity.born_in_chaos_v1.lifestealer": {
+    "en": "Lifestealer",
+    "zh": "窃命者",
+    "vi": "Lifestealer"
+  },
+  "entity.born_in_chaos_v1.lord_pumpkinhead_head": {
+    "en": "§aLord Pumpkinhead",
+    "zh": "§a南瓜领主的头",
+    "vi": "§aLord Pumpkinhead"
+  },
+  "entity.born_in_chaos_v1.lord_pumpkinhead_withouta_horse": {
+    "en": "§aLord Pumpkinhead",
+    "zh": "§a南瓜领主",
+    "vi": "§aLord Pumpkinhead"
+  },
+  "entity.born_in_chaos_v1.lord_pumpkinhead": {
+    "en": "§aLord Pumpkinhead",
+    "zh": "§a南瓜领主",
+    "vi": "§aLord Pumpkinhead"
+  },
+  "entity.born_in_chaos_v1.lord_the_headless": {
+    "en": "§aLord The Headless",
+    "zh": "§a无头领主",
+    "vi": "§aLord The Headless"
+  },
+  "entity.born_in_chaos_v1.lords_felsteed": {
+    "en": "§aLord's Felsteed",
+    "zh": "§a恶魔战马",
+    "vi": "§aLord's Felsteed"
+  },
+  "entity.born_in_chaos_v1.maggot": {
+    "en": "Corpse Maggot",
+    "zh": "尸蛆",
+    "vi": "Corpse Maggot"
+  },
+  "entity.born_in_chaos_v1.missioner": {
+    "en": "Missionary",
+    "zh": "传教士",
+    "vi": "Missionary"
+  },
+  "entity.born_in_chaos_v1.missionary_charge": {
+    "en": null,
+    "zh": "传教士冲击",
+    "vi": "cú sốc truyền giáo"
+  },
+  "entity.born_in_chaos_v1.mother_spider": {
+    "en": "Spiders Mother",
+    "zh": "蜘蛛母体",
+    "vi": "Spiders Mother"
+  },
+  "entity.born_in_chaos_v1.mr_pumpkin_controlled": {
+    "en": "Mr. Pumpkin",
+    "zh": "南瓜先生",
+    "vi": "Mr. Pumpkin"
+  },
+  "entity.born_in_chaos_v1.mr_pumpkin": {
+    "en": "Mr. Pumpkin",
+    "zh": "南瓜先生",
+    "vi": "Mr. Pumpkin"
+  },
+  "entity.born_in_chaos_v1.mrs_pumpkin": {
+    "en": null,
+    "zh": "南瓜夫人",
+    "vi": "bà bí ngô"
+  },
+  "entity.born_in_chaos_v1.nightmare_stalker": {
+    "en": "Nightmare Stalker",
+    "zh": "梦魇循踪兽",
+    "vi": "Nightmare Stalker"
+  },
+  "entity.born_in_chaos_v1.phantom_bomb_entity": {
+    "en": "Phantom Bomb",
+    "zh": "幻影炸弹",
+    "vi": "Phantom Bomb"
+  },
+  "entity.born_in_chaos_v1.phantom_creeper_copy": {
+    "en": "Phantom Creeper",
+    "zh": "幻影苦力怕",
+    "vi": "Phantom Creeper"
+  },
+  "entity.born_in_chaos_v1.phantom_creeper": {
+    "en": "Phantom Creeper",
+    "zh": "幻影苦力怕",
+    "vi": "Phantom Creeper"
+  },
+  "entity.born_in_chaos_v1.projectile_intoxicatind_bomb": {
+    "en": null,
+    "zh": "毒酒炸弹",
+    "vi": "bom rượu độc"
+  },
+  "entity.born_in_chaos_v1.projectile_pumpkin_pistol_2": {
+    "en": null,
+    "zh": "南瓜子弹",
+    "vi": "đạn bí ngô"
+  },
+  "entity.born_in_chaos_v1.projectile_pumpkin_pistol": {
+    "en": null,
+    "zh": "南瓜子弹",
+    "vi": "đạn bí ngô"
+  },
+  "entity.born_in_chaos_v1.projectile_pumpkin_staff_2": {
+    "en": null,
+    "zh": "南瓜魔法",
+    "vi": "ma thuật bí ngô"
+  },
+  "entity.born_in_chaos_v1.projectile_pumpkin_staff": {
+    "en": null,
+    "zh": "南瓜魔法",
+    "vi": "ma thuật bí ngô"
+  },
+  "entity.born_in_chaos_v1.projectile_staffof_blindness_2": {
+    "en": null,
+    "zh": "致盲暗风",
+    "vi": "Gió đen chói mắt"
+  },
+  "entity.born_in_chaos_v1.projectile_staffof_blindness": {
+    "en": null,
+    "zh": "致盲暗风",
+    "vi": "Gió đen chói mắt"
+  },
+  "entity.born_in_chaos_v1.projectile_staffof_magic_arrows_2": {
+    "en": null,
+    "zh": "魔血之箭",
+    "vi": "Mũi tên máu quỷ"
+  },
+  "entity.born_in_chaos_v1.projectile_staffof_magic_arrows": {
+    "en": null,
+    "zh": "魔血之箭",
+    "vi": "Mũi tên máu quỷ"
+  },
+  "entity.born_in_chaos_v1.intoxicatind_bomb_projectile": {
+    "en": null,
+    "zh": "毒酒炸弹",
+    "vi": "bom rượu độc"
+  },
+  "entity.born_in_chaos_v1.stimulating_bombprojectile": {
+    "en": null,
+    "zh": "亢奋炸弹",
+    "vi": "siêu bom"
+  },
+  "entity.born_in_chaos_v1.pumpkin_pistol_projectile": {
+    "en": null,
+    "zh": "南瓜子弹",
+    "vi": "đạn bí ngô"
+  },
+  "entity.born_in_chaos_v1.pumpkin_pistol_2_projectile": {
+    "en": null,
+    "zh": "南瓜子弹",
+    "vi": "đạn bí ngô"
+  },
+  "entity.born_in_chaos_v1.pumpkin_staff_projectile": {
+    "en": null,
+    "zh": "南瓜魔法",
+    "vi": "ma thuật bí ngô"
+  },
+  "entity.born_in_chaos_v1.pumpkin_staff_2_projectile": {
+    "en": null,
+    "zh": "南瓜魔法",
+    "vi": "ma thuật bí ngô"
+  },
+  "entity.born_in_chaos_v1.staffof_magic_arrows_projectile": {
+    "en": null,
+    "zh": "魔血之箭",
+    "vi": "Mũi tên máu quỷ"
+  },
+  "entity.born_in_chaos_v1.staffof_magic_arrows_2_projectile": {
+    "en": null,
+    "zh": "魔血之箭",
+    "vi": "Mũi tên máu quỷ"
+  },
+  "entity.born_in_chaos_v1.staffof_blindness_projectile": {
+    "en": null,
+    "zh": "致盲暗风",
+    "vi": "Gió đen chói mắt"
+  },
+  "entity.born_in_chaos_v1.phantom_bomb_projectile": {
+    "en": null,
+    "zh": "幻影炸弹",
+    "vi": "quả bom ma"
+  },
+  "entity.born_in_chaos_v1.pumpkin_bomb": {
+    "en": "Pumpkin Bomb",
+    "zh": "自爆南瓜头",
+    "vi": "Pumpkin Bomb"
+  },
+  "entity.born_in_chaos_v1.pumpkin_bruiser": {
+    "en": null,
+    "zh": "南瓜健壮僵尸",
+    "vi": "Bí ngô zombie mạnh mẽ"
+  },
+  "entity.born_in_chaos_v1.pumpkin_dunce": {
+    "en": null,
+    "zh": "南瓜傻蛋",
+    "vi": "Bí ngô ngớ ngẩn"
+  },
+  "entity.born_in_chaos_v1.pumpkin_spirit": {
+    "en": "Pumpkin Spirit",
+    "zh": "南瓜人",
+    "vi": "Pumpkin Spirit"
+  },
+  "entity.born_in_chaos_v1.pumpkinhead": {
+    "en": "Pumpkinhead",
+    "zh": "南瓜伯爵的头",
+    "vi": "Pumpkinhead"
+  },
+  "entity.born_in_chaos_v1.restless_spirit": {
+    "en": "Restless Spirit",
+    "zh": "急躁幽灵",
+    "vi": "Restless Spirit"
+  },
+  "entity.born_in_chaos_v1.riding_felsteed": {
+    "en": "Felsteed",
+    "zh": "恶魔马",
+    "vi": "Felsteed"
+  },
+  "entity.born_in_chaos_v1.riding_lords_felsteed": {
+    "en": "Felsteed",
+    "zh": "恶魔战马",
+    "vi": "Felsteed"
+  },
+  "entity.born_in_chaos_v1.scarlet_persecutor": {
+    "en": "Scarlet Persecutor",
+    "zh": "猩红幽灵",
+    "vi": "Scarlet Persecutor"
+  },
+  "entity.born_in_chaos_v1.seared_spirit_not_despawn": {
+    "en": "Seared Spirit",
+    "zh": "炽魂南瓜人",
+    "vi": "Seared Spirit"
+  },
+  "entity.born_in_chaos_v1.seared_spirit": {
+    "en": "Seared Spirit",
+    "zh": "炽魂南瓜人",
+    "vi": "Seared Spirit"
+  },
+  "entity.born_in_chaos_v1.senor_pumpkin": {
+    "en": "Senor Pumpkin",
+    "zh": "南瓜绅士",
+    "vi": "Senor Pumpkin"
+  },
+  "entity.born_in_chaos_v1.shy_spirit": {
+    "en": null,
+    "zh": "害羞幽灵",
+    "vi": "ma nhút nhát"
+  },
+  "entity.born_in_chaos_v1.siamese_skeletons": {
+    "en": "Siamese Skeletons",
+    "zh": "连体小骷髅",
+    "vi": "Siamese Skeletons"
+  },
+  "entity.born_in_chaos_v1.siamese_skeletonsleft": {
+    "en": "Siamese Skeleton",
+    "zh": "连体小骷髅",
+    "vi": "Siamese Skeleton"
+  },
+  "entity.born_in_chaos_v1.siamese_skeletonsright": {
+    "en": "Siamese Skeleton",
+    "zh": "连体小骷髅",
+    "vi": "Siamese Skeleton"
+  },
+  "entity.born_in_chaos_v1.sir_pumpkinhead_without_horse": {
+    "en": "Sir Pumpkinhead",
+    "zh": "南瓜伯爵",
+    "vi": "Sir Pumpkinhead"
+  },
+  "entity.born_in_chaos_v1.sir_pumpkinhead": {
+    "en": "Sir Pumpkinhead",
+    "zh": "南瓜伯爵",
+    "vi": "Sir Pumpkinhead"
+  },
+  "entity.born_in_chaos_v1.sir_the_headless": {
+    "en": "Sir The Headless",
+    "zh": "无头伯爵",
+    "vi": "Sir The Headless"
+  },
+  "entity.born_in_chaos_v1.skeleton_demoman": {
+    "en": "Skeleton Demoman",
+    "zh": "爆破骷髅",
+    "vi": "Skeleton Demoman"
+  },
+  "entity.born_in_chaos_v1.skeleton_thrasher_not_despawn": {
+    "en": "Skeleton Thrasher",
+    "zh": "重击者",
+    "vi": "Skeleton Thrasher"
+  },
+  "entity.born_in_chaos_v1.skeleton_thrasher": {
+    "en": "Skeleton Thrasher",
+    "zh": "重击者",
+    "vi": "Skeleton Thrasher"
+  },
+  "entity.born_in_chaos_v1.spirit_guide_assistant": {
+    "en": "Spirit Guide Assistant",
+    "zh": "随从小骷髅",
+    "vi": "Spirit Guide Assistant"
+  },
+  "entity.born_in_chaos_v1.spirit_guide": {
+    "en": "Spirit Guide",
+    "zh": "骷髅领队",
+    "vi": "Spirit Guide"
+  },
+  "entity.born_in_chaos_v1.spiritof_chaos": {
+    "en": "Spirit of Chaos",
+    "zh": "混沌恶灵",
+    "vi": "Spirit of Chaos"
+  },
+  "entity.born_in_chaos_v1.supreme_bonescaller_not_despawn": {
+    "en": "Supreme Bonescaller",
+    "zh": "高阶骷髅召唤师",
+    "vi": "Supreme Bonescaller"
+  },
+  "entity.born_in_chaos_v1.supreme_bonescaller_stage_2": {
+    "en": "Supreme Bonescaller",
+    "zh": "高阶骷髅召唤师",
+    "vi": "Supreme Bonescaller"
+  },
+  "entity.born_in_chaos_v1.supreme_bonescaller": {
+    "en": "Supreme Bonescaller",
+    "zh": "高阶骷髅召唤师",
+    "vi": "Supreme Bonescaller"
+  },
+  "entity.born_in_chaos_v1.swarmer": {
+    "en": "Swarmer",
+    "zh": "脓疮僵尸",
+    "vi": "Swarmer"
+  },
+  "entity.born_in_chaos_v1.thornshell_crab": {
+    "en": "Thornshell Crab",
+    "zh": "刺壳蟹",
+    "vi": "Thornshell Crab"
+  },
+  "entity.born_in_chaos_v1.wither_scuttler": {
+    "en": null,
+    "zh": "凋灵水黾",
+    "vi": "Máy kéo nước khô héo"
+  },
+  "entity.born_in_chaos_v1.zombie_bruiser": {
+    "en": "Zombie Bruiser",
+    "zh": "健壮僵尸",
+    "vi": "Zombie Bruiser"
+  },
+  "entity.born_in_chaos_v1.zombie_clown_not_despawn": {
+    "en": "Zombie Clown",
+    "zh": "小丑僵尸",
+    "vi": "Zombie Clown"
+  },
+  "entity.born_in_chaos_v1.zombie_clown": {
+    "en": "Zombie Clown",
+    "zh": "小丑僵尸",
+    "vi": "Zombie Clown"
+  },
+  "entity.born_in_chaos_v1.zombie_fisherman": {
+    "en": "Zombie Fisherman",
+    "zh": "渔夫僵尸",
+    "vi": "Zombie Fisherman"
+  },
+  "entity.born_in_chaos_v1.zombie_lumberjack": {
+    "en": "Zombie Lumberjack",
+    "zh": "伐木工僵尸",
+    "vi": "Zombie Lumberjack"
+  },
+  "gamerule.babySkeletonSpawn.description": {
+    "en": "Baby Skeleton Spawn",
+    "zh": "小骷髅生成",
+    "vi": "Bộ xương nhỏ được tạo ra"
+  },
+  "gamerule.babySkeletonSpawn": {
+    "en": "Baby Skeleton Spawn",
+    "zh": "小骷髅生成",
+    "vi": "Bộ xương nhỏ được tạo ra"
+  },
+  "gamerule.babySpiderSpawn.description": {
+    "en": "Baby Spider Spawn",
+    "zh": "小蜘蛛生成",
+    "vi": "Đẻ trứng của những con nhện nhỏ"
+  },
+  "gamerule.babySpiderSpawn": {
+    "en": "Baby Spider Spawn",
+    "zh": "小蜘蛛生成",
+    "vi": "Đẻ trứng của những con nhện nhỏ"
+  },
+  "gamerule.bloodyGadflySpawn.description": {
+    "en": "Bloody Gadfly Spawn",
+    "zh": "血腥牛虻生成",
+    "vi": "Ruồi trâu đẫm máu sinh sản"
+  },
+  "gamerule.bloodyGadflySpawn": {
+    "en": "Bloody Gadfly Spawn",
+    "zh": "血腥牛虻生成",
+    "vi": "Ruồi trâu đẫm máu sinh sản"
+  },
+  "gamerule.boneImpSpawn.description": {
+    "en": "Bone Imp Spawn",
+    "zh": "恶魔小骷髅生成",
+    "vi": "Bộ xương quỷ được tạo ra"
+  },
+  "gamerule.boneImpSpawn": {
+    "en": "Bone Imp Spawn",
+    "zh": "恶魔小骷髅生成",
+    "vi": "Bộ xương quỷ được tạo ra"
+  },
+  "gamerule.bonescallerSpawn.description": {
+    "en": "Bonescaller Spawn",
+    "zh": "骷髅召唤师生成",
+    "vi": "Bộ xương triệu hồi xuất hiện"
+  },
+  "gamerule.bonescallerSpawn": {
+    "en": "Bonescaller Spawn",
+    "zh": "骷髅召唤师生成",
+    "vi": "Bộ xương triệu hồi xuất hiện"
+  },
+  "gamerule.corpseFishSpawn.description": {
+    "en": "Corpse Fish Spawn",
+    "zh": "腐尸鱼生成",
+    "vi": "Cá cà rốt đẻ trứng"
+  },
+  "gamerule.corpseFishSpawn": {
+    "en": "Corpse Fish Spawn",
+    "zh": "腐尸鱼生成",
+    "vi": "Cá cà rốt đẻ trứng"
+  },
+  "gamerule.corpseFlySpawn.description": {
+    "en": "Corpse Fly Spawn",
+    "zh": "腐尸苍蝇生成",
+    "vi": "Ruồi Carrion sinh sản"
+  },
+  "gamerule.corpseFlySpawn": {
+    "en": "Corpse Fly Spawn",
+    "zh": "腐尸苍蝇生成",
+    "vi": "Ruồi Carrion sinh sản"
+  },
+  "gamerule.darkVortexSpawn.description": {
+    "en": "Dark Vortex Spawn",
+    "zh": "暗影漩涡生成",
+    "vi": "Tạo xoáy bóng"
+  },
+  "gamerule.darkVortexSpawn": {
+    "en": "Dark Vortex Spawn",
+    "zh": "暗影漩涡生成",
+    "vi": "Tạo xoáy bóng"
+  },
+  "gamerule.decayingZombieSpawn.description": {
+    "en": "Decaying Zombie Spawn",
+    "zh": "腐烂僵尸生成",
+    "vi": "Zombie thối sinh sản"
+  },
+  "gamerule.decayingZombieSpawn": {
+    "en": "Decaying Zombie Spawn",
+    "zh": "腐烂僵尸生成",
+    "vi": "Zombie thối sinh sản"
+  },
+  "gamerule.decrepitSkeletonSpawn.description": {
+    "en": "Decrepit Skeleton Spawn",
+    "zh": "骨架生成",
+    "vi": "Tạo bộ xương"
+  },
+  "gamerule.decrepitSkeletonSpawn": {
+    "en": "Decrepit Skeleton Spawn",
+    "zh": "骨架生成",
+    "vi": "Tạo bộ xương"
+  },
+  "gamerule.disappearanceofSpiritsUndertheSun.description": {
+    "en": "Disappearance of Spirits Under the Sun",
+    "zh": "幽灵消散于阳光之下",
+    "vi": "Bóng ma tan biến dưới ánh mặt trời"
+  },
+  "gamerule.disappearanceofSpiritsUndertheSun": {
+    "en": "Disappearance of Spirits Under the Sun",
+    "zh": "幽灵消散于阳光之下",
+    "vi": "Bóng ma tan biến dưới ánh mặt trời"
+  },
+  "gamerule.doorKnightSpawn.description": {
+    "en": "Door Knight Spawn",
+    "zh": "铁桶门僵尸生成",
+    "vi": "Thế hệ zombie cửa thùng sắt"
+  },
+  "gamerule.doorKnightSpawn": {
+    "en": "Door Knight Spawn",
+    "zh": "铁桶门僵尸生成",
+    "vi": "Thế hệ zombie cửa thùng sắt"
+  },
+  "gamerule.dreadHoundSpawn.description": {
+    "en": "Dread Hound Spawn",
+    "zh": "骇狼生成",
+    "vi": "Sói thảm khốc sinh sản"
+  },
+  "gamerule.dreadHoundSpawn": {
+    "en": "Dread Hound Spawn",
+    "zh": "骇狼生成",
+    "vi": "Sói thảm khốc sinh sản"
+  },
+  "gamerule.fallenChaosKnightSpawn.description": {
+    "en": "Fallen Chaos Knight Spawn",
+    "zh": "堕落混沌骑士生成",
+    "vi": "Hiệp sĩ hỗn loạn sa ngã xuất hiện"
+  },
+  "gamerule.fallenChaosKnightSpawn": {
+    "en": "Fallen Chaos Knight Spawn",
+    "zh": "堕落混沌骑士生成",
+    "vi": "Hiệp sĩ hỗn loạn sa ngã xuất hiện"
+  },
+  "gamerule.firelightSpawn.description": {
+    "en": "Firelight Spawn",
+    "zh": "焰芒虫生成",
+    "vi": "Bọ lửa xuất hiện"
+  },
+  "gamerule.firelightSpawn": {
+    "en": "Firelight Spawn",
+    "zh": "焰芒虫生成",
+    "vi": "Bọ lửa xuất hiện"
+  },
+  "gamerule.generationofInfectedDiamonds.description": {
+    "en": "Allows you to disable or enable, the generation of termite-infested, diamonds",
+    "zh": "控制开启或关闭钻石甲虫的生成",
+    "vi": "Điều khiển bật hoặc tắt sự sinh sản của Bọ kim cương"
+  },
+  "gamerule.generationofInfectedDiamonds": {
+    "en": "Generation of Infected Diamonds",
+    "zh": "生成被感染的钻石矿石",
+    "vi": "Tạo ra quặng kim cương bị nhiễm bệnh"
+  },
+  "gamerule.gluttonFishSpawn.description": {
+    "en": "Glutton Fish Spawn",
+    "zh": "巨食人鱼生成",
+    "vi": "Cá piranha khổng lồ sinh sản"
+  },
+  "gamerule.gluttonFishSpawn": {
+    "en": "Glutton Fish Spawn",
+    "zh": "巨食人鱼生成",
+    "vi": "Cá piranha khổng lồ sinh sản"
+  },
+  "gamerule.lifestealerSpawn.description": {
+    "en": "Lifestealer Spawn",
+    "zh": "窃命者生成",
+    "vi": "Lifestealer xuất hiện"
+  },
+  "gamerule.lifestealerSpawn": {
+    "en": "Lifestealer Spawn",
+    "zh": "窃命者生成",
+    "vi": "Lifestealer xuất hiện"
+  },
+  "gamerule.maggotsAppearance.description": {
+    "en": "The appearance of maggots after the death of a zombie",
+    "zh": "僵尸死后产生尸蛆",
+    "vi": "Zombie tạo ra xác giòi sau khi chết"
+  },
+  "gamerule.maggotsAppearance": {
+    "en": "Maggots Appearance",
+    "zh": "尸蛆产生",
+    "vi": "Lũ giòi sinh sản"
+  },
+  "gamerule.missionarySpawn.description": {
+    "en": "Missionary Spawn",
+    "zh": "传教士生成",
+    "vi": "truyền giáo sinh sản"
+  },
+  "gamerule.missionarySpawn": {
+    "en": "Missionary Spawn",
+    "zh": "传教士生成",
+    "vi": "truyền giáo sinh sản"
+  },
+  "gamerule.motherSpiderSpawn.description": {
+    "en": "Mother Spider Spawn",
+    "zh": "蜘蛛母体生成",
+    "vi": "Thế hệ cơ thể nhện mẹ"
+  },
+  "gamerule.motherSpiderSpawn": {
+    "en": "Mother Spider Spawn",
+    "zh": "蜘蛛母体生成",
+    "vi": "Thế hệ cơ thể nhện mẹ"
+  },
+  "gamerule.phantomCreeperSpawn.description": {
+    "en": "Phantom Creeper Spawn",
+    "zh": "幻影苦力怕生成",
+    "vi": "Cây leo ma xuất hiện"
+  },
+  "gamerule.phantomCreeperSpawn": {
+    "en": "Phantom Creeper Spawn",
+    "zh": "幻影苦力怕生成",
+    "vi": "Cây leo ma xuất hiện"
+  },
+  "gamerule.restlessSpiritSpawn.description": {
+    "en": "Restless Spirit Spawn",
+    "zh": "急躁幽灵生成",
+    "vi": "Bóng ma thiếu kiên nhẫn xuất hiện"
+  },
+  "gamerule.restlessSpiritSpawn": {
+    "en": "Restless Spirit Spawn",
+    "zh": "急躁幽灵生成",
+    "vi": "Bóng ma thiếu kiên nhẫn xuất hiện"
+  },
+  "gamerule.serPumpkinheadSpawn.description": {
+    "en": "Ser Pumpkinhead Spawn Only from 25 October to 5 November",
+    "zh": "南瓜伯爵只生成在10月25日至11月5日",
+    "vi": "Bá Tước Bí Ngô chỉ xuất hiện từ 25/10 đến 05/11"
+  },
+  "gamerule.serPumpkinheadSpawn": {
+    "en": "Ser Pumpkinhead Spawn",
+    "zh": "南瓜伯爵生成",
+    "vi": "Bá Tước Bí Ngô sinh sản"
+  },
+  "gamerule.skeletonBombSpawn.description": {
+    "en": "Skeleton Bomb Spawn",
+    "zh": "爆破骷髅生成",
+    "vi": "Bộ xương nổ"
+  },
+  "gamerule.skeletonBombSpawn": {
+    "en": "Skeleton Bomb Spawn",
+    "zh": "爆破骷髅生成",
+    "vi": "Bộ xương nổ"
+  },
+  "gamerule.skeletonThrasherSpawn.description": {
+    "en": "Skeleton Thrasher Spawn",
+    "zh": "重击者生成",
+    "vi": "Kẻ tấn công hạng nặng sinh sản"
+  },
+  "gamerule.skeletonThrasherSpawn": {
+    "en": "Skeleton Thrasher Spawn",
+    "zh": "重击者生成",
+    "vi": "Kẻ tấn công hạng nặng sinh sản"
+  },
+  "gamerule.soulStratificationEffect.description": {
+    "en": "Soul Stratification Effect",
+    "zh": "灵魂剥离效果",
+    "vi": "hiệu ứng lột xác tâm hồn"
+  },
+  "gamerule.soulStratificationEffect": {
+    "en": "Soul Stratification Effect",
+    "zh": "灵魂剥离",
+    "vi": "lột xác tâm hồn"
+  },
+  "gamerule.spiritGuideSpawn.description": {
+    "en": "Spirit Guide Spawn",
+    "zh": "骷髅领队生成",
+    "vi": "Thế hệ lãnh đạo bộ xương"
+  },
+  "gamerule.spiritGuideSpawn": {
+    "en": "Spirit Guide Spawn",
+    "zh": "骷髅领队生成",
+    "vi": "Thế hệ lãnh đạo bộ xương"
+  },
+  "gamerule.spiritOfChaosSpawn.description": {
+    "en": "Spirit of Chaos Spawn",
+    "zh": "混沌恶灵生成",
+    "vi": "Hỗn loạn thế hệ linh hồn ác quỷ"
+  },
+  "gamerule.spiritOfChaosSpawn": {
+    "en": "Spirit of Chaos Spawn",
+    "zh": "混沌恶灵生成",
+    "vi": "Hỗn loạn thế hệ linh hồn ác quỷ"
+  },
+  "gamerule.theappearanceofthe_nightmare_stalker.description": {
+    "en": "Allows you to disable or enable, the generation of termite-infested, diamonds",
+    "zh": "控制生成梦魇循踪兽",
+    "vi": "Kiểm soát sự sinh sản của Nightmare Trackers"
+  },
+  "gamerule.theappearanceofthe_nightmare_stalker": {
+    "en": "Generation of Infected Diamonds",
+    "zh": "梦魇循踪兽生成",
+    "vi": "Nightmare Tracker xuất hiện"
+  },
+  "gamerule.theappearanceoftheNightmareStalker.description": {
+    "en": "Nightmare Stalker Spawn",
+    "zh": "控制生成梦魇循踪兽",
+    "vi": "Kiểm soát sự sinh sản của Nightmare Trackers"
+  },
+  "gamerule.theappearanceoftheNightmareStalker": {
+    "en": "Nightmare Stalker Spawn",
+    "zh": "梦魇循踪兽生成",
+    "vi": "Nightmare Tracker xuất hiện"
+  },
+  "gamerule.thornshellCrabSpawn.description": {
+    "en": "Thornshell Crab Spawn",
+    "zh": "刺壳蟹生成",
+    "vi": "Cua vỏ gai sinh sản"
+  },
+  "gamerule.thornshellCrabSpawn": {
+    "en": "Thornshell Crab Spawn",
+    "zh": "刺壳蟹生成",
+    "vi": "Cua vỏ gai sinh sản"
+  },
+  "gamerule.witherStriderSpawn.description": {
+    "en": null,
+    "zh": "凋灵水黾生成",
+    "vi": "Dơi nước khô héo sinh sản"
+  },
+  "gamerule.witherStriderSpawn": {
+    "en": null,
+    "zh": "凋灵水黾生成",
+    "vi": "Dơi nước khô héo sinh sản"
+  },
+  "gamerule.zombieBruiserSpawn.description": {
+    "en": "Zombie Bruiser Spawn",
+    "zh": "健壮僵尸生成",
+    "vi": "Sinh sản zombie mạnh mẽ"
+  },
+  "gamerule.zombieBruiserSpawn": {
+    "en": "Zombie Bruiser Spawn",
+    "zh": "健壮僵尸生成",
+    "vi": "Sinh sản zombie mạnh mẽ"
+  },
+  "gamerule.zombieClownSpawn.description": {
+    "en": "Zombie Clown Spawn",
+    "zh": "小丑僵尸生成",
+    "vi": "Chú hề zombie sinh sản"
+  },
+  "gamerule.zombieClownSpawn": {
+    "en": "Zombie Clown Spawn",
+    "zh": "小丑僵尸生成",
+    "vi": "Chú hề zombie sinh sản"
+  },
+  "gamerule.zombieFishermanSpawn.description": {
+    "en": "Zombie Fisherman Spawn",
+    "zh": "渔夫僵尸生成",
+    "vi": "Zombie ngư dân sinh sản"
+  },
+  "gamerule.zombieFishermanSpawn": {
+    "en": "Zombie Fisherman Spawn",
+    "zh": "渔夫僵尸生成",
+    "vi": "Zombie ngư dân sinh sản"
+  },
+  "gamerule.zombieLumberjackSpawn.description": {
+    "en": "Zombie Lumberjack Spawn",
+    "zh": "伐木工僵尸生成",
+    "vi": "Zombie thợ rừng sinh sản"
+  },
+  "gamerule.zombieLumberjackSpawn": {
+    "en": "Zombie Lumberjack Spawn",
+    "zh": "伐木工僵尸生成",
+    "vi": "Zombie thợ rừng sinh sản"
+  },
+  "gamerule.zombiesinaBarrelSpawn.description": {
+    "en": "Zombies in a Barrel Spawn",
+    "zh": "木桶僵尸生成",
+    "vi": "thùng zombie sinh sản"
+  },
+  "gamerule.zombiesinaBarrelSpawn": {
+    "en": "Zombies in a Barrel Spawn",
+    "zh": "木桶僵尸生成",
+    "vi": "thùng zombie sinh sản"
+  },
+  "gamerule.clownTentGeneration": {
+    "en": null,
+    "zh": "小丑僵尸营地结构生成",
+    "vi": "Tạo cấu trúc trại hề zombie"
+  },
+  "gamerule.clownTentGeneration.description": {
+    "en": null,
+    "zh": "小丑僵尸营地结构生成",
+    "vi": "Tạo cấu trúc trại hề zombie"
+  },
+  "gamerule.darkTowerGeneration": {
+    "en": null,
+    "zh": "黑暗高塔结构生成",
+    "vi": "Tạo cấu trúc tháp tối"
+  },
+  "gamerule.darkTowerGeneration.description": {
+    "en": null,
+    "zh": "黑暗高塔结构生成",
+    "vi": "Tạo cấu trúc tháp tối"
+  },
+  "gamerule.firewellGeneration": {
+    "en": null,
+    "zh": "熔岩井结构生成",
+    "vi": "Tạo cấu trúc giếng dung nham"
+  },
+  "gamerule.firewellGeneration.description": {
+    "en": null,
+    "zh": "熔岩井结构生成",
+    "vi": "Tạo cấu trúc giếng dung nham"
+  },
+  "gamerule.observationTowerGeneration": {
+    "en": null,
+    "zh": "瞭望塔结构生成",
+    "vi": "Tạo cấu trúc tháp canh"
+  },
+  "gamerule.observationTowerGeneration.description": {
+    "en": null,
+    "zh": "瞭望塔结构生成",
+    "vi": "Tạo cấu trúc tháp canh"
+  },
+  "gamerule.farmGeneration": {
+    "en": null,
+    "zh": "农庄生成",
+    "vi": "Thế hệ trang trại"
+  },
+  "gamerule.farmGeneration.description": {
+    "en": null,
+    "zh": "农庄生成",
+    "vi": "Thế hệ trang trại"
+  },
+  "item_group.born_in_chaos_v1.block_borin_chaos": {
+    "en": "Born in Chaos Blocks",
+    "zh": "生于混沌丨方块",
+    "vi": "Sinh ra từ hỗn loạn | Block"
+  },
+  "item_group.born_in_chaos_v1.bornin_chaos_items": {
+    "en": "Born in Chaos Items",
+    "zh": "生于混沌丨物品",
+    "vi": "Sinh ra từ hỗn loạn | Vật phẩm"
+  },
+  "item_group.born_in_chaos_v1.bornin_chaos_mobs": {
+    "en": "Born in Chaos Mobs",
+    "zh": "生于混沌丨生物",
+    "vi": "Sinh ra từ sự hỗn loạn | Sinh vật"
+  },
+  "item_group.born_in_chaos_v1.debugging_bornin_chaos": {
+    "en": "Born in Chaos Debug",
+    "zh": "生于混沌丨DEBUG物品",
+    "vi": "Sinh ra trong hỗn loạn | GỠ LỖI Vật phẩm"
+  },
+  "item_group.born_in_chaos_v1.weapons_bornin_chaos": {
+    "en": "Born in Chaos Weapons",
+    "zh": "生于混沌丨武器",
+    "vi": "Sinh ra từ hỗn loạn | Vũ khí"
+  },
+  "item.born_in_chaos_v1.ai": {
+    "en": "§4Ai",
+    "zh": "§4Ai",
+    "vi": "§4Ai"
+  },
+  "item.born_in_chaos_v1.all_charm": {
+    "en": "All Charm",
+    "zh": "所有符咒-图标",
+    "vi": "All Charm"
+  },
+  "item.born_in_chaos_v1.anluka_doors.desc": {
+    "en": "Anluka - Doors",
+    "zh": "Anluka - Doors",
+    "vi": "Anluka - Doors"
+  },
+  "item.born_in_chaos_v1.anluka_doors": {
+    "en": "§cMusic Disc",
+    "zh": "§c音乐唱片",
+    "vi": "§cMusic Disc"
+  },
+  "item.born_in_chaos_v1.armor_plate_from_dark_metal": {
+    "en": "Dark Metal Armor Plate",
+    "zh": "暗金属装甲板",
+    "vi": "Dark Metal Armor Plate"
+  },
+  "item.born_in_chaos_v1.baby_skeleton_2_spawn_egg": {
+    "en": null,
+    "zh": "小骷髅刷怪蛋",
+    "vi": "Trứng sinh ra bộ xương nhỏ"
+  },
+  "item.born_in_chaos_v1.baby_skeleton_minion_spawn_egg": {
+    "en": "Baby Skeleton Spawn Egg",
+    "zh": "小骷髅刷怪蛋",
+    "vi": "Baby Skeleton Spawn Egg"
+  },
+  "item.born_in_chaos_v1.baby_skeleton_spawn_egg": {
+    "en": "Baby Skeleton Spawn Egg",
+    "zh": "小骷髅刷怪蛋",
+    "vi": "Baby Skeleton Spawn Egg"
+  },
+  "item.born_in_chaos_v1.baby_spider_controlled_spawn_egg": {
+    "en": "Baby Spider Spawn Egg",
+    "zh": "受控的小蜘蛛刷怪蛋",
+    "vi": "Baby Spider Spawn Egg"
+  },
+  "item.born_in_chaos_v1.baby_spider_spawn_egg": {
+    "en": "Baby Spider Spawn Egg",
+    "zh": "小蜘蛛刷怪蛋",
+    "vi": "Baby Spider Spawn Egg"
+  },
+  "item.born_in_chaos_v1.barrel_zombie_spawn_egg": {
+    "en": "Barrel Zombie Spawn Egg",
+    "zh": "木桶僵尸刷怪蛋",
+    "vi": "Barrel Zombie Spawn Egg"
+  },
+  "item.born_in_chaos_v1.bloody_gadfly_eye": {
+    "en": "Bloody Gadfly Eye",
+    "zh": "血腥牛虻眼",
+    "vi": "Bloody Gadfly Eye"
+  },
+  "item.born_in_chaos_v1.bloody_gadfly_spawn_egg": {
+    "en": "Bloody Gadfly Spawn Egg",
+    "zh": "血腥牛虻刷怪蛋",
+    "vi": "Bloody Gadfly Spawn Egg"
+  },
+  "item.born_in_chaos_v1.bone_handle": {
+    "en": "Bone Handle",
+    "zh": "骨质手柄",
+    "vi": "Bone Handle"
+  },
+  "item.born_in_chaos_v1.bone_heart": {
+    "en": "Bone Heart",
+    "zh": "骸骨之心",
+    "vi": "Bone Heart"
+  },
+  "item.born_in_chaos_v1.bone_imp_2_spawn_egg": {
+    "en": null,
+    "zh": "恶魔小骷髅刷怪蛋",
+    "vi": "Trứng đẻ trứng quỷ"
+  },
+  "item.born_in_chaos_v1.bone_imp_minion_spawn_egg": {
+    "en": "Bone Imp Spawn Egg",
+    "zh": "恶魔小骷髅刷怪蛋",
+    "vi": "Bone Imp Spawn Egg"
+  },
+  "item.born_in_chaos_v1.bone_imp_spawn_egg": {
+    "en": "Bone Imp Spawn Egg",
+    "zh": "恶魔小骷髅刷怪蛋",
+    "vi": "Bone Imp Spawn Egg"
+  },
+  "item.born_in_chaos_v1.bonescaller_not_despawn_spawn_egg": {
+    "en": "Bonescaller Spawn Egg",
+    "zh": "骷髅召唤师刷怪蛋",
+    "vi": "Bonescaller Spawn Egg"
+  },
+  "item.born_in_chaos_v1.bonescaller_spawn_egg": {
+    "en": "Bonescaller Spawn Egg",
+    "zh": "骷髅召唤师刷怪蛋",
+    "vi": "Bonescaller Spawn Egg"
+  },
+  "item.born_in_chaos_v1.bonescaller_staff": {
+    "en": "§6Bonescaller Staff",
+    "zh": "§6骷髅法杖",
+    "vi": "§6Bonescaller Staff"
+  },
+  "item.born_in_chaos_v1.bottle_of_magical_energy": {
+    "en": "§cBottle of Magical Energy",
+    "zh": "§c魔能瓶",
+    "vi": "§cBottle of Magical Energy"
+  },
+  "item.born_in_chaos_v1.burythemall_icon": {
+    "en": null,
+    "zh": "全给埋了-图标",
+    "vi": "Tất cả các biểu tượng bị chôn vùi"
+  },
+  "item.born_in_chaos_v1.caramel_pepper": {
+    "en": null,
+    "zh": "焦糖辣椒",
+    "vi": "Ớt caramen"
+  },
+  "item.born_in_chaos_v1.chaos_component": {
+    "en": "§cChaos Component",
+    "zh": "§c混沌元剂",
+    "vi": "§cChaos Component"
+  },
+  "item.born_in_chaos_v1.chaos_icon": {
+    "en": "Chaos Icon",
+    "zh": "混沌-图标",
+    "vi": "Chaos Icon"
+  },
+  "item.born_in_chaos_v1.charmof_endurance": {
+    "en": "§eCharm of Endurance",
+    "zh": "§e耐力符咒",
+    "vi": "§eCharm of Endurance"
+  },
+  "item.born_in_chaos_v1.charmof_fury": {
+    "en": "§4Charm of Fury",
+    "zh": "§4暴怒符咒",
+    "vi": "§4Charm of Fury"
+  },
+  "item.born_in_chaos_v1.charmof_power": {
+    "en": "§cCharm of Strength",
+    "zh": "§c力量符咒",
+    "vi": "§cCharm of Strength"
+  },
+  "item.born_in_chaos_v1.charmof_resistance": {
+    "en": "§bCharm of Resistance",
+    "zh": "§b抗性符咒",
+    "vi": "§bCharm of Resistance"
+  },
+  "item.born_in_chaos_v1.charmof_stealth": {
+    "en": "§2Charm of Stealth",
+    "zh": "§2隐身符咒",
+    "vi": "§2Charm of Stealth"
+  },
+  "item.born_in_chaos_v1.chocolate_heart": {
+    "en": null,
+    "zh": "心形巧克力",
+    "vi": "sô cô la hình trái tim"
+  },
+  "item.born_in_chaos_v1.coffee_candy": {
+    "en": null,
+    "zh": "咖啡糖",
+    "vi": "đường cà phê"
+  },
+  "item.born_in_chaos_v1.controlled_baby_skeleton_spawn_egg": {
+    "en": "Controlled Baby Skeleton Spawn Egg",
+    "zh": "受控的小骷髅刷怪蛋",
+    "vi": "Controlled Baby Skeleton Spawn Egg"
+  },
+  "item.born_in_chaos_v1.controlled_spiritual_assistant_spawn_egg": {
+    "en": "Controlled Baby Skeleton Spawn Egg",
+    "zh": "受控的随从小骷髅刷怪蛋",
+    "vi": "Controlled Baby Skeleton Spawn Egg"
+  },
+  "item.born_in_chaos_v1.corpse_fish_spawn_egg": {
+    "en": "Corpse Fish Spawn Egg",
+    "zh": "腐尸鱼刷怪蛋",
+    "vi": "Corpse Fish Spawn Egg"
+  },
+  "item.born_in_chaos_v1.corpse_fly_spawn_egg": {
+    "en": "Corpse Fly Spawn Egg",
+    "zh": "腐尸苍蝇刷怪蛋",
+    "vi": "Corpse Fly Spawn Egg"
+  },
+  "item.born_in_chaos_v1.corpse_maggot": {
+    "en": "Corpse Maggot",
+    "zh": "尸蛆",
+    "vi": "Corpse Maggot"
+  },
+  "item.born_in_chaos_v1.damned_demomans_hat_helmet": {
+    "en": "§6Damned Demoman's Hat",
+    "zh": "§6诅咒爆破帽",
+    "vi": "§6Damned Demoman's Hat"
+  },
+  "item.born_in_chaos_v1.dark_atrium": {
+    "en": "§cDark Atrium",
+    "zh": "§c暗黑心房",
+    "vi": "§cDark Atrium"
+  },
+  "item.born_in_chaos_v1.dark_charge": {
+    "en": "Dark Charge",
+    "zh": "暗影弹",
+    "vi": "Dark Charge"
+  },
+  "item.born_in_chaos_v1.dark_metal_armor_boots": {
+    "en": "§6Dark Metal Boots",
+    "zh": "§6暗金属靴子",
+    "vi": "§6Dark Metal Boots"
+  },
+  "item.born_in_chaos_v1.dark_metal_armor_chestplate": {
+    "en": "§6Dark Metal Chestplate",
+    "zh": "§6暗金属胸甲",
+    "vi": "§6Dark Metal Chestplate"
+  },
+  "item.born_in_chaos_v1.dark_metal_armor_helmet": {
+    "en": "§6Dark Metal Helmet",
+    "zh": "§6暗金属头盔",
+    "vi": "§6Dark Metal Helmet"
+  },
+  "item.born_in_chaos_v1.dark_metal_armor_leggings": {
+    "en": "§6Dark Metal Leggings",
+    "zh": "§6暗金属护腿",
+    "vi": "§6Dark Metal Leggings"
+  },
+  "item.born_in_chaos_v1.dark_metal_ingot": {
+    "en": "Dark Metal Ingot",
+    "zh": "暗金属锭",
+    "vi": "Dark Metal Ingot"
+  },
+  "item.born_in_chaos_v1.dark_metal_nugget": {
+    "en": "Dark Metal Nugget",
+    "zh": "暗金属粒",
+    "vi": "Dark Metal Nugget"
+  },
+  "item.born_in_chaos_v1.dark_ritual_dagger": {
+    "en": "§6Dark Ritual Dagger",
+    "zh": "§6暗黑仪式",
+    "vi": "§6Dark Ritual Dagger"
+  },
+  "item.born_in_chaos_v1.dark_rod": {
+    "en": "Dark Rod",
+    "zh": "暗影棒",
+    "vi": "Dark Rod"
+  },
+  "item.born_in_chaos_v1.dark_upgrade": {
+    "en": "Smithing Template",
+    "zh": "锻造模板",
+    "vi": "Smithing Template"
+  },
+  "item.born_in_chaos_v1.dark_vortex_spawn_egg": {
+    "en": "Dark Vortex Spawn Egg",
+    "zh": "暗影漩涡刷怪蛋",
+    "vi": "Dark Vortex Spawn Egg"
+  },
+  "item.born_in_chaos_v1.darkwarblade": {
+    "en": "§6Dark Warblade",
+    "zh": "§6暗黑大剑",
+    "vi": "§6Dark Warblade"
+  },
+  "item.born_in_chaos_v1.death_totem": {
+    "en": "§6Death Totem",
+    "zh": "§6死灵图腾",
+    "vi": "§6Death Totem"
+  },
+  "item.born_in_chaos_v1.decaying_zombie_not_despawn_spawn_egg": {
+    "en": "Decaying Zombie Spawn Egg",
+    "zh": "腐烂僵尸刷怪蛋",
+    "vi": "Decaying Zombie Spawn Egg"
+  },
+  "item.born_in_chaos_v1.decaying_zombie_spawn_egg": {
+    "en": "Decaying Zombie Spawn Egg",
+    "zh": "腐烂僵尸刷怪蛋",
+    "vi": "Decaying Zombie Spawn Egg"
+  },
+  "item.born_in_chaos_v1.deceived_hopes_icon": {
+    "en": "Deceived Hopes Icon",
+    "zh": "虚假的希望-图标",
+    "vi": "Deceived Hopes Icon"
+  },
+  "item.born_in_chaos_v1.decrepit_skeleton_spawn_egg": {
+    "en": "Decrepit Skeleton Spawn Egg",
+    "zh": "骨架刷怪蛋",
+    "vi": "Decrepit Skeleton Spawn Egg"
+  },
+  "item.born_in_chaos_v1.diamond_termite_shard": {
+    "en": "Diamond Termite Shard",
+    "zh": "钻石甲虫碎片",
+    "vi": "Diamond Termite Shard"
+  },
+  "item.born_in_chaos_v1.diamond_termite_spawn_egg": {
+    "en": "Diamond Termite Spawn Egg",
+    "zh": "钻石甲虫刷怪蛋",
+    "vi": "Diamond Termite Spawn Egg"
+  },
+  "item.born_in_chaos_v1.dire_hound_leader_spawn_egg": {
+    "en": "Dire Hound Leader Spawn Egg",
+    "zh": "骇狼首领刷怪蛋",
+    "vi": "Dire Hound Leader Spawn Egg"
+  },
+  "item.born_in_chaos_v1.door_knight_not_despawn_spawn_egg": {
+    "en": "Door Knight Spawn Egg",
+    "zh": "铁桶门僵尸刷怪蛋",
+    "vi": "Door Knight Spawn Egg"
+  },
+  "item.born_in_chaos_v1.door_knight_spawn_egg": {
+    "en": "Door Knight Spawn Egg",
+    "zh": "铁桶门僵尸刷怪蛋",
+    "vi": "Door Knight Spawn Egg"
+  },
+  "item.born_in_chaos_v1.double_troubleicon": {
+    "en": "Double Troubleicon",
+    "zh": "双倍麻烦-图标",
+    "vi": "Double Troubleicon"
+  },
+  "item.born_in_chaos_v1.dread_hound_not_despawn_spawn_egg": {
+    "en": "Dread Hound Spawn Egg",
+    "zh": "骇狼刷怪蛋",
+    "vi": "Dread Hound Spawn Egg"
+  },
+  "item.born_in_chaos_v1.dread_hound_spawn_egg": {
+    "en": "Dread Hound Spawn Egg",
+    "zh": "骇狼刷怪蛋",
+    "vi": "Dread Hound Spawn Egg"
+  },
+  "item.born_in_chaos_v1.elixir_of_vampirism": {
+    "en": "§cElixir of Vampirism",
+    "zh": "§c噬血试剂",
+    "vi": "§cElixir of Vampirism"
+  },
+  "item.born_in_chaos_v1.elixirof_insect_protection": {
+    "en": "§cElixir of Insect Protection",
+    "zh": "§c防虫药剂",
+    "vi": "§cElixir of Insect Protection"
+  },
+  "item.born_in_chaos_v1.elixirof_wither_resistance": {
+    "en": "§cElixir of Wither Resistance",
+    "zh": "§c凋零阻剂",
+    "vi": "§cElixir of Wither Resistance"
+  },
+  "item.born_in_chaos_v1.empty_fel_lamp": {
+    "en": "Empty Fel Lamp",
+    "zh": "空的恶魔灯笼",
+    "vi": "Empty Fel Lamp"
+  },
+  "item.born_in_chaos_v1.eternal_candy": {
+    "en": null,
+    "zh": "§b永§a恒§e糖§c果",
+    "vi": "§b vĩnh cửu§a vĩnh cửu§e đường§c trái cây"
+  },
+  "item.born_in_chaos_v1.ethereal_spirit": {
+    "en": "Ethereal Spirit",
+    "zh": "虚魂",
+    "vi": "Ethereal Spirit"
+  },
+  "item.born_in_chaos_v1.excessflyswattericon": {
+    "en": "Excessflyswattericon",
+    "zh": "杀蝇焉用牛刀-图标",
+    "vi": "Excessflyswattericon"
+  },
+  "item.born_in_chaos_v1.exorcism_icon": {
+    "en": "Exorcism Icon",
+    "zh": "驱魔除恶-图标",
+    "vi": "Exorcism Icon"
+  },
+  "item.born_in_chaos_v1.fallen_chaos_knight_spawn_egg": {
+    "en": "Fallen Chaos Knight Spawn Egg",
+    "zh": "堕落混沌骑士刷怪蛋",
+    "vi": "Fallen Chaos Knight Spawn Egg"
+  },
+  "item.born_in_chaos_v1.fangofthe_hound_leader": {
+    "en": "Fang of the Hound Leader",
+    "zh": "骇狼首领之牙",
+    "vi": "Fang of the Hound Leader"
+  },
+  "item.born_in_chaos_v1.fel_lamp": {
+    "en": "§aFel Lamp",
+    "zh": "§a恶魔灯笼",
+    "vi": "§aFel Lamp"
+  },
+  "item.born_in_chaos_v1.felsteed_spawn_egg": {
+    "en": "Felsteed Spawn Egg",
+    "zh": "恶魔马刷怪蛋",
+    "vi": "Felsteed Spawn Egg"
+  },
+  "item.born_in_chaos_v1.fire_dust": {
+    "en": "Fire Light Dust",
+    "zh": "焰芒尘",
+    "vi": "Fire Light Dust"
+  },
+  "item.born_in_chaos_v1.firelight_not_despawn_spawn_egg": {
+    "en": "Firelight Spawn Egg",
+    "zh": "焰芒虫刷怪蛋",
+    "vi": "Firelight Spawn Egg"
+  },
+  "item.born_in_chaos_v1.firelight_spawn_egg": {
+    "en": "Firelight Spawn Egg",
+    "zh": "焰芒虫刷怪蛋",
+    "vi": "Firelight Spawn Egg"
+  },
+  "item.born_in_chaos_v1.fried_maggot": {
+    "en": "Fried Maggot",
+    "zh": "熟尸蛆",
+    "vi": "Fried Maggot"
+  },
+  "item.born_in_chaos_v1.fused_bone": {
+    "en": "Fused Bone",
+    "zh": "融合骨",
+    "vi": "Fused Bone"
+  },
+  "item.born_in_chaos_v1.glutton_fish_spawn_egg": {
+    "en": "Glutton Fish Spawn Egg",
+    "zh": "巨食人鱼刷怪蛋",
+    "vi": "Glutton Fish Spawn Egg"
+  },
+  "item.born_in_chaos_v1.good_demoman_icon": {
+    "en": "Good Demoman Icon",
+    "zh": "好样的爆破手-图标",
+    "vi": "Good Demoman Icon"
+  },
+  "item.born_in_chaos_v1.gravestone_icon": {
+    "en": "Gravestone Icon",
+    "zh": "墓碑-图标",
+    "vi": "Gravestone Icon"
+  },
+  "item.born_in_chaos_v1.great_reaper_axe": {
+    "en": "§6Great Reaper Axe",
+    "zh": "§6死神斧",
+    "vi": "§6Great Reaper Axe"
+  },
+  "item.born_in_chaos_v1.gummy_vampire_teeth": {
+    "en": null,
+    "zh": "吸血鬼牙齿软糖",
+    "vi": "Kẹo dẻo răng ma cà rồng"
+  },
+  "item.born_in_chaos_v1.hats": {
+    "en": "Hats",
+    "zh": "帽子",
+    "vi": "Hats"
+  },
+  "item.born_in_chaos_v1.holiday_candy": {
+    "en": "Holiday Candy",
+    "zh": "节日糖果",
+    "vi": "Holiday Candy"
+  },
+  "item.born_in_chaos_v1.infernal_medicine_icon": {
+    "en": "Infernal Medicine Icon",
+    "zh": "地狱医学-图标",
+    "vi": "Infernal Medicine Icon"
+  },
+  "item.born_in_chaos_v1.infernal_spirit_spawn_egg": {
+    "en": "Infernal Spirit Spawn Egg",
+    "zh": "邪魂南瓜人刷怪蛋",
+    "vi": "Infernal Spirit Spawn Egg"
+  },
+  "item.born_in_chaos_v1.intoxicatind_bomb": {
+    "en": "§dIntoxicating Bomb",
+    "zh": "§d毒酒炸弹",
+    "vi": "§dIntoxicating Bomb"
+  },
+  "item.born_in_chaos_v1.intoxicating_dagger": {
+    "en": "§6Intoxicating Dagger",
+    "zh": "§6淬毒匕首",
+    "vi": "§6Intoxicating Dagger"
+  },
+  "item.born_in_chaos_v1.intoxicating_decoction": {
+    "en": "Intoxicating Decoction",
+    "zh": "毒酒药剂",
+    "vi": "Intoxicating Decoction"
+  },
+  "item.born_in_chaos_v1.lifestealer_bone": {
+    "en": "Lifestealer Bone",
+    "zh": "窃命者之骨",
+    "vi": "Lifestealer Bone"
+  },
+  "item.born_in_chaos_v1.lifestealer_spawn_egg": {
+    "en": "Lifestealer Spawn Egg",
+    "zh": "窃命者刷怪蛋",
+    "vi": "Lifestealer Spawn Egg"
+  },
+  "item.born_in_chaos_v1.lifestealer_true_form_spawn_egg": {
+    "en": "Lifestealer Spawn Egg",
+    "zh": "窃命者刷怪蛋",
+    "vi": "Lifestealer Spawn Egg"
+  },
+  "item.born_in_chaos_v1.lifeturnedouttobeacomedyicon": {
+    "en": "Lifeturnedouttobeacomedyicon",
+    "zh": "滑稽人生-图标",
+    "vi": "Lifeturnedouttobeacomedyicon"
+  },
+  "item.born_in_chaos_v1.lord_pumpkinhead_head_spawn_egg": {
+    "en": "§aLord Pumpkinhead Spawn Egg",
+    "zh": "§a南瓜领主（头部）刷怪蛋",
+    "vi": "§aLord Pumpkinhead Spawn Egg"
+  },
+  "item.born_in_chaos_v1.lord_pumpkinhead_icon": {
+    "en": "Lord Pumpkinhead Icon",
+    "zh": "南瓜领主-图标",
+    "vi": "Lord Pumpkinhead Icon"
+  },
+  "item.born_in_chaos_v1.lord_pumpkinhead_spawn_egg": {
+    "en": "§aLord Pumpkinhead Spawn Egg",
+    "zh": "§a南瓜领主（骑马）刷怪蛋",
+    "vi": "§aLord Pumpkinhead Spawn Egg"
+  },
+  "item.born_in_chaos_v1.lord_pumpkinhead_withouta_horse_spawn_egg": {
+    "en": "§aLord Pumpkinhead Spawn Egg",
+    "zh": "§a南瓜领主（无马）刷怪蛋",
+    "vi": "§aLord Pumpkinhead Spawn Egg"
+  },
+  "item.born_in_chaos_v1.lord_pumpkinheads_empty_lamp": {
+    "en": "Lord Pumpkinhead's Empty Lamp",
+    "zh": "空的领主灯笼",
+    "vi": "Lord Pumpkinhead's Empty Lamp"
+  },
+  "item.born_in_chaos_v1.lord_pumpkinheads_hat_helmet": {
+    "en": "§6Lord Pumpkinhead's Hat",
+    "zh": "§6南瓜领主帽",
+    "vi": "§6Lord Pumpkinhead's Hat"
+  },
+  "item.born_in_chaos_v1.lord_pumpkinheads_lamp": {
+    "en": "§aLord Pumpkinhead's Lamp",
+    "zh": "§a领主灯笼",
+    "vi": "§aLord Pumpkinhead's Lamp"
+  },
+  "item.born_in_chaos_v1.lord_the_headless_spawn_egg": {
+    "en": "§aLord The Headless Spawn Egg",
+    "zh": "§a南瓜领主（无头）刷怪蛋",
+    "vi": "§aLord The Headless Spawn Egg"
+  },
+  "item.born_in_chaos_v1.lords_felsteed_spawn_egg": {
+    "en": "§aLord's Felsteed Spawn Egg",
+    "zh": "§a恶魔战马刷怪蛋",
+    "vi": "§aLord's Felsteed Spawn Egg"
+  },
+  "item.born_in_chaos_v1.maggot_spawn_egg": {
+    "en": "Corpse Maggot Spawn Egg",
+    "zh": "尸蛆刷怪蛋",
+    "vi": "Corpse Maggot Spawn Egg"
+  },
+  "item.born_in_chaos_v1.magical_holiday_candy": {
+    "en": "§bMagical Holiday Candy",
+    "zh": "§b奇异节日糖果",
+    "vi": "§bMagical Holiday Candy"
+  },
+  "item.born_in_chaos_v1.magicskull": {
+    "en": "Magicskull",
+    "zh": "魔法头骨",
+    "vi": "Magicskull"
+  },
+  "item.born_in_chaos_v1.mint_candy": {
+    "en": "Mint Candy",
+    "zh": "薄荷糖",
+    "vi": "Mint Candy"
+  },
+  "item.born_in_chaos_v1.mint_ice_cream": {
+    "en": "Mint Ice Cream",
+    "zh": "薄荷雪糕",
+    "vi": "Mint Ice Cream"
+  },
+  "item.born_in_chaos_v1.missionary_hat_helmet": {
+    "en": "§6Missionary Hat",
+    "zh": "§6传教士帽",
+    "vi": "§6Missionary Hat"
+  },
+  "item.born_in_chaos_v1.missionaryicon": {
+    "en": "Missionary icon",
+    "zh": "传教士-图标",
+    "vi": "Missionary icon"
+  },
+  "item.born_in_chaos_v1.missioner_spawn_egg": {
+    "en": "Missionary Spawn Egg",
+    "zh": "传教士刷怪蛋",
+    "vi": "Missionary Spawn Egg"
+  },
+  "item.born_in_chaos_v1.monster_flesh": {
+    "en": "Monster Flesh",
+    "zh": "兽肉",
+    "vi": "Monster Flesh"
+  },
+  "item.born_in_chaos_v1.monster_skin": {
+    "en": "Monster Skin",
+    "zh": "兽皮",
+    "vi": "Monster Skin"
+  },
+  "item.born_in_chaos_v1.mother_spider_spawn_egg": {
+    "en": "Spiders Mother Spawn Egg",
+    "zh": "蜘蛛母体刷怪蛋",
+    "vi": "Spiders Mother Spawn Egg"
+  },
+  "item.born_in_chaos_v1.mr_pumpkin_controlled_spawn_egg": {
+    "en": "Mr. Pumpkin Spawn Egg",
+    "zh": "南瓜先生刷怪蛋",
+    "vi": "Mr. Pumpkin Spawn Egg"
+  },
+  "item.born_in_chaos_v1.mr_pumpkin_spawn_egg": {
+    "en": "Mr. Pumpkin Spawn Egg",
+    "zh": "南瓜先生刷怪蛋",
+    "vi": "Mr. Pumpkin Spawn Egg"
+  },
+  "item.born_in_chaos_v1.mrs_pumpkin_spawn_egg": {
+    "en": null,
+    "zh": "南瓜夫人刷怪蛋",
+    "vi": "Trứng đẻ trứng bí ngô Lady"
+  },
+  "item.born_in_chaos_v1.nightmare_claw": {
+    "en": "Nightmare Claw",
+    "zh": "梦魇循踪兽爪",
+    "vi": "Nightmare Claw"
+  },
+  "item.born_in_chaos_v1.nightmare_mantleofthe_night_boots": {
+    "en": "§6Nightmare Boots",
+    "zh": "§6梦魇靴子",
+    "vi": "§6Nightmare Boots"
+  },
+  "item.born_in_chaos_v1.nightmare_mantleofthe_night_chestplate": {
+    "en": "§6Nightmare Robe",
+    "zh": "§6梦魇长袍",
+    "vi": "§6Nightmare Robe"
+  },
+  "item.born_in_chaos_v1.nightmare_mantleofthe_night_helmet": {
+    "en": "§6Nightmare Mask",
+    "zh": "§6梦魇面具",
+    "vi": "§6Nightmare Mask"
+  },
+  "item.born_in_chaos_v1.nightmare_mantleofthe_night_leggings": {
+    "en": "§6Nightmare Pants",
+    "zh": "§6梦魇裤子",
+    "vi": "§6Nightmare Pants"
+  },
+  "item.born_in_chaos_v1.nightmare_scythe": {
+    "en": "§6Nightmare Scythe",
+    "zh": "§6暗影镰刀",
+    "vi": "§6Nightmare Scythe"
+  },
+  "item.born_in_chaos_v1.nightmare_stalker_spawn_egg": {
+    "en": "Nightmare Stalker Spawn Egg",
+    "zh": "梦魇循踪兽刷怪蛋",
+    "vi": "Nightmare Stalker Spawn Egg"
+  },
+  "item.born_in_chaos_v1.orbofthe_summoner": {
+    "en": "§4Orb of the Summoner",
+    "zh": "§4招魂球",
+    "vi": "§4Orb of the Summoner"
+  },
+  "item.born_in_chaos_v1.phantom_bomb": {
+    "en": "§dPhantom Bomb",
+    "zh": "§d幻影炸弹",
+    "vi": "§dPhantom Bomb"
+  },
+  "item.born_in_chaos_v1.phantom_creeper_copy_spawn_egg": {
+    "en": "Phantom Creeper Spawn Egg",
+    "zh": "幻影苦力怕刷怪蛋",
+    "vi": "Phantom Creeper Spawn Egg"
+  },
+  "item.born_in_chaos_v1.phantom_creeper_spawn_egg": {
+    "en": "Phantom Creeper Spawn Egg",
+    "zh": "幻影苦力怕刷怪蛋",
+    "vi": "Phantom Creeper Spawn Egg"
+  },
+  "item.born_in_chaos_v1.phantom_powder": {
+    "en": "Phantom Powder",
+    "zh": "幻影粉",
+    "vi": "Phantom Powder"
+  },
+  "item.born_in_chaos_v1.pieceofdarkmetal": {
+    "en": "Piece of Dark Metal",
+    "zh": "暗金属",
+    "vi": "Piece of Dark Metal"
+  },
+  "item.born_in_chaos_v1.pileof_dark_metal": {
+    "en": "Pile of Dark Metal",
+    "zh": "暗金属堆",
+    "vi": "Pile of Dark Metal"
+  },
+  "item.born_in_chaos_v1.potion_of_rampage": {
+    "en": "§cElixir of Rampage",
+    "zh": "§c暴怒药水",
+    "vi": "§cElixir of Rampage"
+  },
+  "item.born_in_chaos_v1.pumpkin_bomb_spawn_egg": {
+    "en": "Pumpkin Bomb Spawn Egg",
+    "zh": "自爆南瓜头刷怪蛋",
+    "vi": "Pumpkin Bomb Spawn Egg"
+  },
+  "item.born_in_chaos_v1.pumpkin_bruiser_spawn_egg": {
+    "en": null,
+    "zh": "南瓜健壮僵尸刷怪蛋",
+    "vi": "Trứng sinh sản Zombie mạnh mẽ bí ngô"
+  },
+  "item.born_in_chaos_v1.pumpkin_bullet": {
+    "en": "§6Pumpkin Bullet",
+    "zh": "§6南瓜子弹",
+    "vi": "§6Pumpkin Bullet"
+  },
+  "item.born_in_chaos_v1.pumpkin_dunce_spawn_egg": {
+    "en": null,
+    "zh": "南瓜傻蛋刷怪蛋",
+    "vi": "Trứng đẻ trứng bí ngô ngớ ngẩn"
+  },
+  "item.born_in_chaos_v1.pumpkin_pistol_2": {
+    "en": null,
+    "zh": "§6南瓜手铳",
+    "vi": "Súng bí ngô §6"
+  },
+  "item.born_in_chaos_v1.pumpkin_pistol": {
+    "en": null,
+    "zh": "§6南瓜手铳",
+    "vi": "Súng bí ngô §6"
+  },
+  "item.born_in_chaos_v1.pumpkin_spirit_icon": {
+    "en": "Pumpkin Spirit Icon",
+    "zh": "南瓜人-图标",
+    "vi": "Pumpkin Spirit Icon"
+  },
+  "item.born_in_chaos_v1.pumpkin_spirit_spawn_egg": {
+    "en": "Pumpkin Spirit Spawn Egg",
+    "zh": "南瓜人刷怪蛋",
+    "vi": "Pumpkin Spirit Spawn Egg"
+  },
+  "item.born_in_chaos_v1.pumpkinhandgun": {
+    "en": "§6Pumpkin Pistol",
+    "zh": "§6南瓜手铳",
+    "vi": "§6Pumpkin Pistol"
+  },
+  "item.born_in_chaos_v1.pumpkin_staff_2": {
+    "en": null,
+    "zh": "§6南瓜法杖",
+    "vi": "§6 Trượng bí ngô"
+  },
+  "item.born_in_chaos_v1.pumpkin_staff": {
+    "en": null,
+    "zh": "§6南瓜法杖",
+    "vi": "§6 Trượng bí ngô"
+  },
+  "item.born_in_chaos_v1.pumpkinhead_icon": {
+    "en": "Pumpkinhead Icon",
+    "zh": "南瓜伯爵-图标",
+    "vi": "Pumpkinhead Icon"
+  },
+  "item.born_in_chaos_v1.pumpkinhead_spawn_egg": {
+    "en": "Pumpkinhead Spawn Egg",
+    "zh": "南瓜伯爵（头部）刷怪蛋",
+    "vi": "Pumpkinhead Spawn Egg"
+  },
+  "item.born_in_chaos_v1.pumpkinstaffa": {
+    "en": "§6Pumpkin Staff",
+    "zh": "§6南瓜法杖",
+    "vi": "§6Pumpkin Staff"
+  },
+  "item.born_in_chaos_v1.restless_spirit_spawn_egg": {
+    "en": "Restless Spirit Spawn Egg",
+    "zh": "急躁幽灵刷怪蛋",
+    "vi": "Restless Spirit Spawn Egg"
+  },
+  "item.born_in_chaos_v1.riding_felsteed_spawn_egg": {
+    "en": "Felsteed Spawn Egg",
+    "zh": "恶魔马刷怪蛋",
+    "vi": "Felsteed Spawn Egg"
+  },
+  "item.born_in_chaos_v1.riding_lords_felsteed_spawn_egg": {
+    "en": "Felsteed Spawn Egg",
+    "zh": "恶魔战马刷怪蛋",
+    "vi": "Felsteed Spawn Egg"
+  },
+  "item.born_in_chaos_v1.rotten_fish": {
+    "en": "Rotten Fish",
+    "zh": "腐烂鱼肉",
+    "vi": "Rotten Fish"
+  },
+  "item.born_in_chaos_v1.scarlet_persecutor_spawn_egg": {
+    "en": "Scarlet Persecutor Spawn Egg",
+    "zh": "猩红幽灵刷怪蛋",
+    "vi": "Scarlet Persecutor Spawn Egg"
+  },
+  "item.born_in_chaos_v1.sea_terror_eye": {
+    "en": "Glutton Fish Eye",
+    "zh": "巨食人鱼眼",
+    "vi": "Glutton Fish Eye"
+  },
+  "item.born_in_chaos_v1.sea_terror_stomach": {
+    "en": "Glutton Fish Stomach",
+    "zh": "巨食人鱼胃",
+    "vi": "Glutton Fish Stomach"
+  },
+  "item.born_in_chaos_v1.seared_spirit_not_despawn_spawn_egg": {
+    "en": "Seared Spirit Spawn Egg",
+    "zh": "炽魂南瓜人刷怪蛋",
+    "vi": "Seared Spirit Spawn Egg"
+  },
+  "item.born_in_chaos_v1.seared_spirit_spawn_egg": {
+    "en": "Seared Spirit Spawn Egg",
+    "zh": "炽魂南瓜人刷怪蛋",
+    "vi": "Seared Spirit Spawn Egg"
+  },
+  "item.born_in_chaos_v1.seedof_chaos": {
+    "en": "Seed of Chaos",
+    "zh": "§4混沌种子",
+    "vi": "Seed of Chaos"
+  },
+  "item.born_in_chaos_v1.senor_pumpkin_spawn_egg": {
+    "en": "Senor Pumpkin Spawn Egg",
+    "zh": "南瓜绅士刷怪蛋",
+    "vi": "Senor Pumpkin Spawn Egg"
+  },
+  "item.born_in_chaos_v1.serpumpkinhead_m.desc": {
+    "en": "Anluka - Sir Pumpkinhead",
+    "zh": "Anluka - Sir Pumpkinhead",
+    "vi": "Anluka - Sir Pumpkinhead"
+  },
+  "item.born_in_chaos_v1.serpumpkinhead_m": {
+    "en": "§6Music Disc",
+    "zh": "§6音乐唱片",
+    "vi": "§6Music Disc"
+  },
+  "item.born_in_chaos_v1.shakeand_mixicon": {
+    "en": "Shake and Mix",
+    "zh": "摇晃混合-图标",
+    "vi": "Shake and Mix"
+  },
+  "item.born_in_chaos_v1.sharpened_dark_metal_sword": {
+    "en": "§6Sharpened Dark Metal Sword",
+    "zh": "§6暗金属剑",
+    "vi": "§6Sharpened Dark Metal Sword"
+  },
+  "item.born_in_chaos_v1.shattered_skull": {
+    "en": "Shattered Skull",
+    "zh": "裂纹头骨",
+    "vi": "Shattered Skull"
+  },
+  "item.born_in_chaos_v1.shell_mace": {
+    "en": "§6Shell Mace",
+    "zh": "§6刺壳锤杖",
+    "vi": "§6Shell Mace"
+  },
+  "item.born_in_chaos_v1.shy_spirit_spawn_egg": {
+    "en": null,
+    "zh": "害羞幽灵刷怪蛋",
+    "vi": "Trứng sinh sản ma nhút nhát"
+  },
+  "item.born_in_chaos_v1.siamese_skeletons_spawn_egg": {
+    "en": "Siamese Skeletons Spawn Egg",
+    "zh": "连体小骷髅刷怪蛋",
+    "vi": "Siamese Skeletons Spawn Egg"
+  },
+  "item.born_in_chaos_v1.siamese_skeletonsleft_spawn_egg": {
+    "en": "Siamese Skeleton Spawn Egg",
+    "zh": "连体小骷髅（左）刷怪蛋",
+    "vi": "Siamese Skeleton Spawn Egg"
+  },
+  "item.born_in_chaos_v1.siamese_skeletonsright_spawn_egg": {
+    "en": "Siamese Skeleton Spawn Egg",
+    "zh": "连体小骷髅（右）刷怪蛋",
+    "vi": "Siamese Skeleton Spawn Egg"
+  },
+  "item.born_in_chaos_v1.sir_pumpkinhead_spawn_egg": {
+    "en": "Sir Pumpkinhead Spawn Egg",
+    "zh": "南瓜伯爵（骑马）刷怪蛋",
+    "vi": "Sir Pumpkinhead Spawn Egg"
+  },
+  "item.born_in_chaos_v1.sir_pumpkinhead_without_horse_spawn_egg": {
+    "en": "Sir Pumpkinhead Spawn Egg",
+    "zh": "南瓜伯爵（无马）刷怪蛋",
+    "vi": "Sir Pumpkinhead Spawn Egg"
+  },
+  "item.born_in_chaos_v1.sir_the_headless_spawn_egg": {
+    "en": "Sir The Headless Spawn Egg",
+    "zh": "南瓜伯爵（无头）刷怪蛋",
+    "vi": "Sir The Headless Spawn Egg"
+  },
+  "item.born_in_chaos_v1.skeleton_demoman_spawn_egg": {
+    "en": "Skeleton Demoman Spawn Egg",
+    "zh": "爆破骷髅刷怪蛋",
+    "vi": "Skeleton Demoman Spawn Egg"
+  },
+  "item.born_in_chaos_v1.skeleton_thrasher_not_despawn_spawn_egg": {
+    "en": "Skeleton Thrasher Spawn Egg",
+    "zh": "重击者刷怪蛋",
+    "vi": "Skeleton Thrasher Spawn Egg"
+  },
+  "item.born_in_chaos_v1.skeleton_thrasher_spawn_egg": {
+    "en": "Skeleton Thrasher Spawn Egg",
+    "zh": "重击者刷怪蛋",
+    "vi": "Skeleton Thrasher Spawn Egg"
+  },
+  "item.born_in_chaos_v1.skullbreaker_hammer": {
+    "en": "§6Skullbreaker Hammer",
+    "zh": "§6重击者锤",
+    "vi": "§6Skullbreaker Hammer"
+  },
+  "item.born_in_chaos_v1.smoked_fish": {
+    "en": "Smoked Fish",
+    "zh": "烟熏鱼肉",
+    "vi": "Smoked Fish"
+  },
+  "item.born_in_chaos_v1.smoked_flesh": {
+    "en": "Smoked Flesh",
+    "zh": "烟熏腐肉",
+    "vi": "Smoked Flesh"
+  },
+  "item.born_in_chaos_v1.smoked_monster_flesh": {
+    "en": "Smoked Monster Flesh",
+    "zh": "烟熏兽肉",
+    "vi": "Smoked Monster Flesh"
+  },
+  "item.born_in_chaos_v1.smoldering_infernal_ember": {
+    "en": null,
+    "zh": "§a阴燃的邪魂余烬",
+    "vi": "§a Tàn hồng linh hồn tà ác âm ỉ"
+  },
+  "item.born_in_chaos_v1.soul_cutlass": {
+    "en": "§6Soul Saber",
+    "zh": "§6灵魂军刀",
+    "vi": "§6Soul Saber"
+  },
+  "item.born_in_chaos_v1.soulbane": {
+    "en": "§6Soulbane",
+    "zh": "§6魂祸战刃",
+    "vi": "§6Soulbane"
+  },
+  "item.born_in_chaos_v1.spawn_structure_mound_hounds": {
+    "en": "Spawn Structure: §7Mound Hounds",
+    "zh": "生成结构: §7骸骨荒地",
+    "vi": "Spawn Structure: §7Mound Hounds"
+  },
+  "item.born_in_chaos_v1.spawn_structures_clown_cart": {
+    "en": "Spawn Structures: §5Clown Caravan",
+    "zh": "生成结构: §5马车营地",
+    "vi": "Spawn Structures: §5Clown Caravan"
+  },
+  "item.born_in_chaos_v1.spawn_structures_dark_tower": {
+    "en": "Spawn Structures: §4Dark Tower",
+    "zh": "生成结构: §4黑暗高塔",
+    "vi": "Spawn Structures: §4Dark Tower"
+  },
+  "item.born_in_chaos_v1.spawn_structures_farm": {
+    "en": "Spawn Structures: §eFarm",
+    "zh": "生成结构: §e农庄",
+    "vi": "Spawn Structures: §eFarm"
+  },
+  "item.born_in_chaos_v1.spawn_structures_firewell": {
+    "en": "Spawn Structures: §cFirewell",
+    "zh": "生成结构: §c熔岩井",
+    "vi": "Spawn Structures: §cFirewell"
+  },
+  "item.born_in_chaos_v1.spawn_structures_lookout_tower": {
+    "en": "Spawn Structures: §6Lookout Tower",
+    "zh": "生成结构: §6瞭望塔",
+    "vi": "Spawn Structures: §6Lookout Tower"
+  },
+  "item.born_in_chaos_v1.spider_bite_sword": {
+    "en": "§6Spider Bite",
+    "zh": "§6血蛛毒咬",
+    "vi": "§6Spider Bite"
+  },
+  "item.born_in_chaos_v1.spider_mandible": {
+    "en": "Spider Mandible",
+    "zh": "蜘蛛螯肢",
+    "vi": "Spider Mandible"
+  },
+  "item.born_in_chaos_v1.spiny_shell_armor_chestplate": {
+    "en": "§6Spiny Shell Chestplate",
+    "zh": "§6刺壳胸甲",
+    "vi": "§6Spiny Shell Chestplate"
+  },
+  "item.born_in_chaos_v1.spiny_shell_armor_helmet": {
+    "en": "§6Spiny Shell Helmet",
+    "zh": "§6刺壳头盔",
+    "vi": "§6Spiny Shell Helmet"
+  },
+  "item.born_in_chaos_v1.spiny_shell": {
+    "en": "Spiny Shell",
+    "zh": "刺壳",
+    "vi": "Spiny Shell"
+  },
+  "item.born_in_chaos_v1.spirit_guide_assistant_spawn_egg": {
+    "en": "Spirit Guide Assistant Spawn Egg",
+    "zh": "小骷髅刷怪蛋",
+    "vi": "Spirit Guide Assistant Spawn Egg"
+  },
+  "item.born_in_chaos_v1.spirit_guide_spawn_egg": {
+    "en": "Spirit Guide Spawn Egg",
+    "zh": "骷髅领队刷怪蛋",
+    "vi": "Spirit Guide Spawn Egg"
+  },
+  "item.born_in_chaos_v1.spirit_guideicon": {
+    "en": "Spirit Guideicon",
+    "zh": "骷髅领队-图标",
+    "vi": "Spirit Guideicon"
+  },
+  "item.born_in_chaos_v1.spiritof_chaos_spawn_egg": {
+    "en": "Spirit of Chaos Spawn Egg",
+    "zh": "混沌恶灵刷怪蛋",
+    "vi": "Spirit of Chaos Spawn Egg"
+  },
+  "item.born_in_chaos_v1.spiritual_dust": {
+    "en": "Spiritual Dust",
+    "zh": "灵魂尘",
+    "vi": "Spiritual Dust"
+  },
+  "item.born_in_chaos_v1.spiritual_guide_sombrero_helmet": {
+    "en": "§6Spiritual Guide Sombrero",
+    "zh": "§6骷髅领队宽边帽",
+    "vi": "§6Spiritual Guide Sombrero"
+  },
+  "item.born_in_chaos_v1.spiritinabottle": {
+    "en": null,
+    "zh": "灵魂瓶",
+    "vi": "chai linh hồn"
+  },
+  "item.born_in_chaos_v1.spiritual_sword": {
+    "en": "§6Spirit Divider",
+    "zh": "§6魂心剑",
+    "vi": "§6Spirit Divider"
+  },
+  "item.born_in_chaos_v1.spruce_cowboy_in_the_moonlighticon": {
+    "en": "Spruce Cowboy In The Moonlighticon",
+    "zh": "月光下的云杉牛仔-图标",
+    "vi": "Spruce Cowboy In The Moonlighticon"
+  },
+  "item.born_in_chaos_v1.squireofthedarklordicon": {
+    "en": "Squire of the dark lord",
+    "zh": "暗黑领主的侍卫-图标",
+    "vi": "Squire of the dark lord"
+  },
+  "item.born_in_chaos_v1.staff_of_magic_arrows": {
+    "en": "§6Staff of Magic Arrows",
+    "zh": "§6魔血法杖",
+    "vi": "§6Staff of Magic Arrows"
+  },
+  "item.born_in_chaos_v1.staffof_blindness": {
+    "en": "Staff of Blindness",
+    "zh": "失明法杖",
+    "vi": "Staff of Blindness"
+  },
+  "item.born_in_chaos_v1.staffof_magic_arrows_2": {
+    "en": null,
+    "zh": "§6魔血法杖",
+    "vi": "§6 Trượng Huyết Quỷ"
+  },
+  "item.born_in_chaos_v1.staffof_magic_arrows": {
+    "en": null,
+    "zh": "§6魔血法杖",
+    "vi": "§6 Trượng Huyết Quỷ"
+  },
+  "item.born_in_chaos_v1.staffofthe_summoner": {
+    "en": null,
+    "zh": "§6骷髅法杖",
+    "vi": "§6 Trượng Bộ Xương"
+  },
+  "item.born_in_chaos_v1.stimulating_bomb": {
+    "en": "§6Stimulating Bomb",
+    "zh": "§6亢奋炸弹",
+    "vi": "§6Stimulating Bomb"
+  },
+  "item.born_in_chaos_v1.stimulating_decoction": {
+    "en": "Stimulating Decoction",
+    "zh": "亢奋药剂",
+    "vi": "Stimulating Decoction"
+  },
+  "item.born_in_chaos_v1.stop_hammer": {
+    "en": "§4Stop Hammer",
+    "zh": "§4致缓小锤",
+    "vi": "§4Stop Hammer"
+  },
+  "item.born_in_chaos_v1.supreme_bonescaller_not_despawn_spawn_egg": {
+    "en": "Supreme Bonescaller Spawn Egg",
+    "zh": "高阶骷髅召唤师刷怪蛋",
+    "vi": "Supreme Bonescaller Spawn Egg"
+  },
+  "item.born_in_chaos_v1.supreme_bonescaller_spawn_egg": {
+    "en": "Supreme Bonescaller Spawn Egg",
+    "zh": "高阶骷髅召唤师刷怪蛋",
+    "vi": "Supreme Bonescaller Spawn Egg"
+  },
+  "item.born_in_chaos_v1.supreme_bonescaller_stage_2_spawn_egg": {
+    "en": "Supreme Bonescaller Spawn Egg",
+    "zh": "高阶骷髅召唤师刷怪蛋",
+    "vi": "Supreme Bonescaller Spawn Egg"
+  },
+  "item.born_in_chaos_v1.supreme_measure": {
+    "en": "§4Supreme Measure",
+    "zh": "§4伤害测试",
+    "vi": "§4Supreme Measure"
+  },
+  "item.born_in_chaos_v1.swarmer_spawn_egg": {
+    "en": "Swarmer Spawn Egg",
+    "zh": "脓疮僵尸刷怪蛋",
+    "vi": "Swarmer Spawn Egg"
+  },
+  "item.born_in_chaos_v1.sweet_axe": {
+    "en": null,
+    "zh": "§6甜蜜斧",
+    "vi": "§6 Rìu Ngọt"
+  },
+  "item.born_in_chaos_v1.sweet_sword": {
+    "en": null,
+    "zh": "§6甜蜜剑",
+    "vi": "§6 Thanh kiếm ngọt ngào"
+  },
+  "item.born_in_chaos_v1.thornshell_crab_spawn_egg": {
+    "en": "Thornshell Crab Spawn Egg",
+    "zh": "刺壳蟹刷怪蛋",
+    "vi": "Thornshell Crab Spawn Egg"
+  },
+  "item.born_in_chaos_v1.transformative_flower": {
+    "en": "Transformative Flower",
+    "zh": "转变之花",
+    "vi": "Transformative Flower"
+  },
+  "item.born_in_chaos_v1.thread_on_the_bone": {
+    "en": null,
+    "zh": "线骨",
+    "vi": "xương dòng"
+  },
+  "item.born_in_chaos_v1.transmuting_elixir": {
+    "en": "§bTransmuting Elixir",
+    "zh": "§b转化试剂",
+    "vi": "§bTransmuting Elixir"
+  },
+  "item.born_in_chaos_v1.trident_hayfork": {
+    "en": "§6Pitchfork",
+    "zh": "§6干草叉",
+    "vi": "§6Pitchfork"
+  },
+  "item.born_in_chaos_v1.wither_scuttler_spawn_egg": {
+    "en": null,
+    "zh": "凋灵水黾刷怪蛋",
+    "vi": "Trứng sinh ra Wither Water Strider"
+  },
+  "item.born_in_chaos_v1.wood_splitter_axe": {
+    "en": "§6Wood Splitter",
+    "zh": "§6伐木斧",
+    "vi": "§6Wood Splitter"
+  },
+  "item.born_in_chaos_v1.zombie_bruiser_spawn_egg": {
+    "en": "Zombie Bruiser Spawn Egg",
+    "zh": "健壮僵尸刷怪蛋",
+    "vi": "Zombie Bruiser Spawn Egg"
+  },
+  "item.born_in_chaos_v1.zombie_clown_not_despawn_spawn_egg": {
+    "en": "Zombie Clown Spawn Egg",
+    "zh": "小丑僵尸刷怪蛋",
+    "vi": "Zombie Clown Spawn Egg"
+  },
+  "item.born_in_chaos_v1.zombie_clown_spawn_egg": {
+    "en": "Zombie Clown Spawn Egg",
+    "zh": "小丑僵尸刷怪蛋",
+    "vi": "Zombie Clown Spawn Egg"
+  },
+  "item.born_in_chaos_v1.zombie_fisherman_spawn_egg": {
+    "en": "Zombie Fisherman Spawn Egg",
+    "zh": "渔夫僵尸刷怪蛋",
+    "vi": "Zombie Fisherman Spawn Egg"
+  },
+  "item.born_in_chaos_v1.zombie_lumberjack_spawn_egg": {
+    "en": "Zombie Lumberjack Spawn Egg",
+    "zh": "伐木工僵尸刷怪蛋",
+    "vi": "Zombie Lumberjack Spawn Egg"
+  },
+  "item.minecraft.lingering_potion.effect.intoxication_potion": {
+    "en": "Lingering Potion of Intoxication",
+    "zh": "滞留型毒酒药水",
+    "vi": "Lingering Potion of Intoxication"
+  },
+  "item.minecraft.lingering_potion.effect.potion_of_living_cocoon": {
+    "en": "Lingering Potion of Living Cocoon",
+    "zh": "滞留型活茧药水",
+    "vi": "Lingering Potion of Living Cocoon"
+  },
+  "item.minecraft.lingering_potion.effect.potion_of_magical_depletion": {
+    "en": "Lingering Potion of Magical Depletion",
+    "zh": "滞留型尽魔药水",
+    "vi": "Lingering Potion of Magical Depletion"
+  },
+  "item.minecraft.lingering_potion.effect.stimulating_potion": {
+    "en": "Lingering Potion of Stimulations",
+    "zh": "滞留型亢奋药水",
+    "vi": "Lingering Potion of Stimulations"
+  },
+  "item.minecraft.potion.effect.intoxication_potion": {
+    "en": "Potion of Intoxication",
+    "zh": "毒酒药水",
+    "vi": "Potion of Intoxication"
+  },
+  "item.minecraft.potion.effect.potion_of_living_cocoon": {
+    "en": "Potion of Living Cocoon",
+    "zh": "活茧药水",
+    "vi": "Potion of Living Cocoon"
+  },
+  "item.minecraft.potion.effect.potion_of_magical_depletion": {
+    "en": "Potion of Magical Depletion",
+    "zh": "尽魔药水",
+    "vi": "Potion of Magical Depletion"
+  },
+  "item.minecraft.potion.effect.stimulating_potion": {
+    "en": "Potion of Stimulations",
+    "zh": "亢奋药水",
+    "vi": "Potion of Stimulations"
+  },
+  "item.minecraft.splash_potion.effect.intoxication_potion": {
+    "en": "Splash Potion of Intoxication",
+    "zh": "喷溅型毒酒药水",
+    "vi": "Splash Potion of Intoxication"
+  },
+  "item.minecraft.splash_potion.effect.potion_of_living_cocoon": {
+    "en": "Splash Potion of Living Cocoon",
+    "zh": "喷溅型活茧药水",
+    "vi": "Splash Potion of Living Cocoon"
+  },
+  "item.minecraft.splash_potion.effect.potion_of_magical_depletion": {
+    "en": "Splash Potion of Magical Depletion",
+    "zh": "喷溅型尽魔药水",
+    "vi": "Splash Potion of Magical Depletion"
+  },
+  "item.minecraft.splash_potion.effect.stimulating_potion": {
+    "en": "Splash Potion of Stimulations",
+    "zh": "喷溅型亢奋药水",
+    "vi": "Splash Potion of Stimulations"
+  },
+  "item.minecraft.tipped_arrow.effect.intoxication_potion": {
+    "en": "Arrow of Intoxication",
+    "zh": "毒酒之箭",
+    "vi": "mũi tên rượu độc"
+  },
+  "item.minecraft.tipped_arrow.effect.potion_of_living_cocoon": {
+    "en": "Arrow of Living Cocoon",
+    "zh": "活茧之箭",
+    "vi": "Mũi tên kén sống"
+  },
+  "item.minecraft.tipped_arrow.effect.potion_of_magical_depletion": {
+    "en": "Arrow of Magical Depletion",
+    "zh": "尽魔之箭",
+    "vi": "Mũi tên quỷ"
+  },
+  "item.minecraft.tipped_arrow.effect.stimulating_potion": {
+    "en": "Arrow of Stimulations",
+    "zh": "亢奋之箭",
+    "vi": "Mũi tên hưng phấn"
+  },
+  "itemGroup.tabblock_borin_chaos": {
+    "en": "Born in Chaos Blocks",
+    "zh": "生于混沌丨方块",
+    "vi": "Sinh ra từ hỗn loạn | Block"
+  },
+  "itemGroup.tabbornin_chaos_items": {
+    "en": "Born in Chaos Items",
+    "zh": "生于混沌丨物品",
+    "vi": "Sinh ra từ hỗn loạn | Vật phẩm"
+  },
+  "itemGroup.tabbornin_chaos_mobs": {
+    "en": "Born in Chaos Mobs",
+    "zh": "生于混沌丨生物",
+    "vi": "Sinh ra từ sự hỗn loạn | Sinh vật"
+  },
+  "itemGroup.tabdebugging_bornin_chaos": {
+    "en": "Born in Chaos Debug",
+    "zh": "生于混沌丨DEBUG物品",
+    "vi": "Sinh ra trong hỗn loạn | GỠ LỖI Vật phẩm"
+  },
+  "itemGroup.tabweapons_bornin_chaos": {
+    "en": "Born in Chaos Weapons",
+    "zh": "生于混沌丨武器",
+    "vi": "Sinh ra từ hỗn loạn | Vũ khí"
+  },
+  "subtitles.brute_zombie_attack": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "subtitles.brute_zombie_step": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "subtitles.chaos_spirit_haunt": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "subtitles.charm_of_endurance_use": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "subtitles.charm_of_protection_use": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "subtitles.charm_of_rage_use": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "subtitles.charm_of_stealth_use": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "subtitles.charm_of_strenght_use": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "subtitles.clown_death": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "subtitles.clown_hurt": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "subtitles.clown_step": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "subtitles.corpse_fly_ambient": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "subtitles.corpse_fly_ambient2": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "subtitles.corpse_fly_death": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "subtitles.corpse_fly_death2": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "subtitles.corpse_fly_hurt": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "subtitles.corpse_fly_hurt2": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "subtitles.crab_death": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "subtitles.crab_hurt": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "subtitles.crab_idle": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "subtitles.crab_step": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "subtitles.dark_warlblade_atak": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "subtitles.dfjn": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "subtitles.door1": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "subtitles.door2": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "subtitles.doorblokc": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "subtitles.doorblokc2": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "subtitles.doorsdisc": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "subtitles.fallen_attack": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "subtitles.fallen_curse_mark": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "subtitles.fallen_death": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "subtitles.fallen_hurt": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "subtitles.fallen_idle": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "subtitles.fallen_step": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "subtitles.fish_slap": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "subtitles.fly_move": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "subtitles.gadfly_death": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "subtitles.gadfly_hurt": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "subtitles.gadfly_idle": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "subtitles.glutton_fish_ambient": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "subtitles.glutton_fish_attack": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "subtitles.glutton_fish_death": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "subtitles.glutton_fish_hurt": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "subtitles.hah": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "subtitles.haha_lord": {
+    "en": null,
+    "zh": "",
+    "vi": ""
+  },
+  "subtitles.haha": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "subtitles.halloween": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "subtitles.hound_ambient": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "subtitles.hound_attack": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "subtitles.hound_death": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "subtitles.hound_hit": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "subtitles.houndtrap": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "subtitles.lifestealer_death": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "subtitles.lifestealer_hurt": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "subtitles.lifestealer_idle": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "subtitles.lifestealer_scream_ap": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "subtitles.lifestealer_scream": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "subtitles.magic_staff_shoot": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "subtitles.missionary_alert": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "subtitles.missionary_death": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "subtitles.missionary_hurt": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "subtitles.missionary_idle": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "subtitles.missionary_shoot": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "subtitles.missionary_spawn_mobs": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "subtitles.missionary_step": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "subtitles.missionary_stun": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "subtitles.missionary_teleport": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "subtitles.mother_spider_hurt": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "subtitles.mother_spider_idle": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "subtitles.mother_spider_step": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "subtitles.nightmare_stalker_roar": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "subtitles.nsstep": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "subtitles.nsstep1": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "subtitles.obsession": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "subtitles.persecutor_death": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "subtitles.persecutor_hurt": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "subtitles.persecutor_idle": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "subtitles.persecutor_scream": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "subtitles.pumpkin_hit": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "subtitles.pumpkin_spirit_death": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "subtitles.pumpkin_spirit_hurt": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "subtitles.pumpkin_spirit_idle": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "subtitles.pumpkin_spirit_idle2": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "subtitles.pumpkin_staff_shoot": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "subtitles.pumpkinhead_bomb_curse": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "subtitles.pumpkinhead_gun_fire": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "subtitles.pumpkinhead_reload": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "subtitles.restless_spirit_death": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "subtitles.restless_spirit_hurt": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "subtitles.restless_spirit_idle": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "subtitles.seared_spirit_death": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "subtitles.seared_spirit_hurt": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "subtitles.seared_spirit_idle": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "subtitles.serpumpkinheadm": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "subtitles.skeleton_trasher_attack": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "subtitles.skeleton_trasher_block1": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "subtitles.skeleton_trasher_block2": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "subtitles.skeleton_trasher_block3": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "subtitles.skeleton_trasher_step": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "subtitles.spider_mother_death": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "subtitles.spider_splash": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "subtitles.spirit_idle": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "subtitles.stalker_dead": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "subtitles.stalker_death": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "subtitles.stalker_death2": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "subtitles.stalker_hit": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "subtitles.stalker_hurt": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "subtitles.stalker_roar_distant": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "subtitles.stalker_roar": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "subtitles.stalker_step": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "subtitles.step_st": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "subtitles.step1": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "subtitles.step5": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "subtitles.stomach_open": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "subtitles.swarmer_death": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "subtitles.swarmer_hurt": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "subtitles.swarmer_idle": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "subtitles.vortex_death": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "subtitles.vortex_death1": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "subtitles.vortex_hurt1": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "subtitles.vortex_hurt11": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "subtitles.vortex_hurt2": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "subtitles.vortex_hurt21": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "subtitles.vortex_idle1": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "subtitles.vortex_idle2": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "subtitles.wolf_ambient": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "subtitles.wolf_atack": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "subtitles.wolf_deaf": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "subtitles.wolf_gett_damage": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "subtitles.zombie_brute_death": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "subtitles.zombie_brute_hurt": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "subtitles.zombie_brute_idle": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "subtitles.zombie_clown_attack": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "zh_cn": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  }
+}

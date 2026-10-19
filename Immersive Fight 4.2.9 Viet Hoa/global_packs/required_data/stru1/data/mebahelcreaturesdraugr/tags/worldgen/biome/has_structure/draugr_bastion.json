@@ -1,0 +1,20 @@
+{
+  "replace": false,
+  "values": [
+    "#c:snowy",
+
+    "minecraft:snowy_taiga",
+    "minecraft:snowy_plains",
+    "minecraft:grove",
+    "minecraft:snowy_slopes",
+    "minecraft:frozen_peaks",
+    "minecraft:jagged_peaks",
+    "minecraft:ice_spikes",
+"biomeswevegone:crimson_tundra",
+"regions_unexplored:spires",
+"regions_unexplored:frozen_tundra",
+"regions_unexplored:frozen_pine_taiga",
+    { "id": "terralith:wintry_lowlands", "required": false },
+    { "id": "terralith:wintry_forest", "required": false }
+  ]
+}

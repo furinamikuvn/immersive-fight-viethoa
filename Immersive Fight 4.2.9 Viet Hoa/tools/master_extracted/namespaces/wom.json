@@ -1,0 +1,1687 @@
+{
+  "itemGroup.wom.items": {
+    "en": "Weapons of Miracles Items",
+    "zh": "奇迹武器",
+    "vi": "Vũ Khí Kỳ Diệu (Weapons of Miracle)"
+  },
+  "enchantment.wom.invigoration": {
+    "en": "Invigoration",
+    "zh": "振奋",
+    "vi": "Hồi Sinh Lực"
+  },
+  "enchantment.wom.invigoration.desc": {
+    "en": "Increase your stamina by 2 per level.",
+    "zh": "每级增加1点耐力。",
+    "vi": "Mỗi cấp gia tăng 1 điểm Thể lực."
+  },
+  "item.wom.cursed_mask": {
+    "en": "Cursed Mask",
+    "zh": "诅咒面具",
+    "vi": "Cursed Mask"
+  },
+  "item.wom.unholy_cursed_mask": {
+    "en": "Unholy Mask",
+    "zh": "不洁诅咒面具",
+    "vi": "Unholy Mask"
+  },
+  "item.wom.demon_bracelet": {
+    "en": "Demon bracelets",
+    "zh": "恶魔手镯",
+    "vi": "Demon bracelets"
+  },
+  "item.wom.celerity_bracelet": {
+    "en": "Celerity bracelets",
+    "zh": "迅捷手镯",
+    "vi": "Celerity bracelets"
+  },
+  "item.wom.obsidian_bracelet": {
+    "en": "Obsidian bracelets",
+    "zh": "黑曜石手镯",
+    "vi": "Obsidian bracelets"
+  },
+  "item.wom.golden_monocle": {
+    "en": "Golden monocle",
+    "zh": "金单片眼镜",
+    "vi": "Golden monocle"
+  },
+  "item.wom.golden_chrono": {
+    "en": "Golden Pocket watch",
+    "zh": "金怀表",
+    "vi": "Golden Pocket watch"
+  },
+  "item.wom.golden_mokassin": {
+    "en": "Golden moccasins",
+    "zh": "金软皮鞋",
+    "vi": "Golden moccasins"
+  },
+  "item.wom.golden_kit": {
+    "en": "Golden suspenders",
+    "zh": "金背带",
+    "vi": "Golden suspenders"
+  },
+  "item.wom.diamond_crown": {
+    "en": "Diamond crown",
+    "zh": "钻石王冠",
+    "vi": "Diamond crown"
+  },
+  "item.wom.diamond_armbracelet": {
+    "en": "Diamond armlet",
+    "zh": "钻石臂环",
+    "vi": "Diamond armlet"
+  },
+  "item.wom.diamond_legtopseal": {
+    "en": "Diamond thigh strap",
+    "zh": "钻石大腿带",
+    "vi": "Diamond thigh strap"
+  },
+  "item.wom.diamond_legbottomseal": {
+    "en": "Diamond calf strap",
+    "zh": "钻石小腿带",
+    "vi": "Diamond calf strap"
+  },
+  "item.wom.emerald_earrings": {
+    "en": "Emerald ear rings",
+    "zh": "绿宝石耳环",
+    "vi": "Emerald ear rings"
+  },
+  "item.wom.emerald_chakra": {
+    "en": "Emerald back cercle",
+    "zh": "绿宝石背部圆环",
+    "vi": "Emerald back cercle"
+  },
+  "item.wom.emerald_tasset": {
+    "en": "Emerald tasset",
+    "zh": "绿宝石马镫",
+    "vi": "Emerald tasset"
+  },
+  "item.wom.emerald_anklebracelet": {
+    "en": "Emerald ankle bracelet",
+    "zh": "绿宝石脚踝手链",
+    "vi": "Emerald ankle bracelet"
+  },
+  "item.wom.netherite_mask": {
+    "en": "Netherite Mask",
+    "zh": "下界合金面具",
+    "vi": "Netherite Mask"
+  },
+  "item.wom.netherite_manicle": {
+    "en": "Netherite chains",
+    "zh": "下界合金手链",
+    "vi": "Netherite chains"
+  },
+  "item.wom.netherite_belt": {
+    "en": "Netherite Belt",
+    "zh": "下界合金腰带",
+    "vi": "Netherite Belt"
+  },
+  "item.wom.netherite_chains": {
+    "en": "Netherite shackles",
+    "zh": "下界合金脚镣",
+    "vi": "Netherite shackles"
+  },
+  "item.wom.agony": {
+    "en": "Agony",
+    "zh": "痛苦长枪",
+    "vi": "Agony"
+  },
+  "item.wom.agony.tooltip": {
+    "en": "\"Death will be a sweet gift..\"\n\n The spear moves you around regarldes of gavity's rules.\n Allowing you to make your target bleed in all direction.\n Giving you the choice of watching them suffer or give them the mercy of death...\n",
+    "zh": "轻盈而锋利的矛让持有者能进行致命的攻击。跳跃攻击允许跳跃2个方块。\n\n攻击敌人会为这个技能充能，最多3次。\n最终伤害会乘以充能次数。",
+    "vi": "Cây trường thương thanh thoát và sắc bén cho phép người sử dụng tung ra những đòn tấn công chí mạng. Đòn tấn công nhảy cho phép phóng cao 2 khối.\n\nTấn công kẻ địch sẽ tích tụ năng lượng cho kỹ năng này, tối đa 3 tầng.\nSát thương cuối cùng sẽ được nhân theo số tầng tích tụ."
+  },
+  "skill.wom.agony_plunge": {
+    "en": "Sky dive",
+    "zh": "天降突袭",
+    "vi": "Thiên Giáng Đột Kích"
+  },
+  "skill.wom.agony_plunge.tooltip": {
+    "en": "\"Disappear in the sky before diving on your enemies.\"\n\n Attacking enemies will charge this for up to 3 times.\nThe Final damage is multiplied by the number of charges",
+    "zh": "“在天空中消失，然后俯冲向你的敌人。”\n\n攻击敌人可以为这个技能充能，最多3层。\n跃起后再次长按左键下砸（需要有层数才能下砸），消耗所有层数，最终伤害与层数相关",
+    "vi": "“Biến mất giữa tầng không, rồi lao vút xuống kẻ thù.”\n\nTấn công kẻ địch sẽ tích nạp cho kỹ năng này, tối đa 3 tầng.\nSau khi nhảy lên không trung, tiếp tục giữ chuột trái để giáng đòn dập xuống đất (yêu cầu phải có tầng tích nạp). Tiêu hao toàn bộ tầng, sát thương tỷ lệ thuận với số tầng tích tụ."
+  },
+  "item.wom.tormented_mind": {
+    "en": "Torment",
+    "zh": "折磨之斧",
+    "vi": "Torment"
+  },
+  "item.wom.tormented_mind.tooltip": {
+    "en": "\"Only for mass murder and act of abomination.\"\n\n The axe have absorbed the Wrath of its former bearer.\n Holding it will cause destruction in an endless concentration of rage...",
+    "zh": "一件大规模杀戮与畸变的武器。\n这把斧头吸收了前任持有者的愤怒，\n并将这份愤怒传递给下一个目标。",
+    "vi": "Binh khí của sự tàn sát và biến dị quy mô lớn.\nLưỡi rìu này hấp thụ toàn bộ cơn thịnh nộ của kẻ nắm giữ trước đó, và truyền ngọn lửa cuồng nộ ấy sang mục tiêu tiếp theo."
+  },
+  "skill.wom.true_berserk": {
+    "en": "True Wrath",
+    "zh": "真·愤怒",
+    "vi": "Chân Thịnh Nộ"
+  },
+  "skill.wom.true_berserk.tooltip": {
+    "en": "\"May the god fear you...\"\n\nTorment wrath makes the skill gauge unreadable.",
+    "zh": "“愿神也畏惧你……”\n\n折磨的愤怒使得技能槽变得无法读取。",
+    "vi": "“Nguyện cho thần linh cũng phải khiếp sợ trước ngươi...”\n\nCơn cuồng nộ bị tra tấn khiến thanh hiển thị kỹ năng trở nên mất kiểm soát."
+  },
+  "item.wom.ruine": {
+    "en": "Ruine",
+    "zh": "毁灭之剑",
+    "vi": "Ruine"
+  },
+  "item.wom.ruine.tooltip": {
+    "en": "An ancient weapon, forged with forgotten knowledge and infused with enderman power.\nIts balance and design allow for maximum efficiency and accuracy in combat.",
+    "zh": "以失传技艺锻造的远古兵器，灌注了末影人之力。\n其精妙配重与独特设计能在战斗中实现极致效能与精准度。",
+    "vi": "Cổ khí được rèn đúc bằng bí thuật thất truyền thời cổ đại, dung hợp sức mạnh hư không của Enderman.\nTrọng tâm hoàn mỹ và thiết kế dị biệt mang lại uy lực tột cùng cùng sự chuẩn xác tuyệt đối trong giao chiến."
+  },
+  "skill.wom.plunder_perdition": {
+    "en": "Ender Ritual",
+    "zh": "夺魂",
+    "vi": "Đoạt Hồn Vực Sâu"
+  },
+  "skill.wom.plunder_perdition.tooltip": {
+    "en": "\"Own the ancient arcane of the endermen.\"\n\n When triggering this skill, you can choose\n between 4 different type of actions:\n  - in neutral and rather close to target, you'll do an [Ender Assault]\n    while alternating between left swing and right swing. \n  - While sprinting, you will do an [Ender Assault] and,\n    if the attack connect, trigger positive [Ender Snatch].\n  - While rising in the air, you will trigger aerian\n    [Ender Assault] and, trigger negative [Ender Snatch].\n  - While sneaking and with 10 stored stack,\n    you'll summon Ender Hands under targets around you.\n   Then the hands grasps their respective targets,\n    Damagind them and inflicting them with mining fatigue and slowness.\n\n [Ender Assault] - Teleport you around your target depending\n on the direction you are look at.\n\n [Ender Snatch] - ",
+    "zh": "“掌控末影族古老的秘法。”\n\n触发此技能时，你将传送至目标周围，\n    并交替进行左挥与右挥。\n  - 冲刺时，若攻击命中，夺取目标移速和攻速。\n  - 腾空时，空中传送至目标周围，\n    并夺取目标移速和攻速。\n  - 潜行且拥有10层充能时，\n    你将召唤末影之手于周围目标脚下。\n    随后这些手会抓住各自的目标，\n    对其造成伤害并施加挖掘疲劳与缓慢效果。",
+    "vi": "“Nắm giữ bí thuật cổ xưa của tộc Enderman.”\n\nKhi kích hoạt, bạn sẽ dịch chuyển tức thời xung quanh mục tiêu, liên tục vung trảm trái và phải.\n  - Khi đang lướt (sprint): nếu đánh trúng, tước đoạt tốc độ di chuyển và tốc độ đánh của mục tiêu.\n  - Khi đang ở trên không: dịch chuyển trên không quanh mục tiêu, tước đoạt tốc độ di chuyển và tốc độ đánh.\n  - Khi cúi người (sneak) và có 10 tầng tích nạp: triệu hồi Cánh Tay Hư Không dưới chân các mục tiêu xung quanh. Đôi tay sẽ túm chặt con mồi, gây sát thương cực lớn kèm hiệu ứng Mệt Mỏi Đào Mỏ và Làm Chậm."
+  },
+  "item.wom.satsujin": {
+    "en": "Satsujin",
+    "zh": "杀戮之刃",
+    "vi": "Satsujin"
+  },
+  "item.wom.satsujin.tooltip": {
+    "en": "The demon is sealed inside this blade.\nStrengthening the blade and increasing it's effectivness\nbut, as the demon is still sealed, he can't provide much more power...\n\nPassive: Sheath your blade after 4sec of inactivity.\nSheath the blade after a shorter period\nat the end of a sheathed attack.",
+    "zh": "这把剑中封印着恶魔。\n增强了剑的强度和效果，\n但由于恶魔仍被封印，它无法提供更多的力量...\n\n被动：在4秒不活动后自动收鞘。\n在收鞘攻击结束后，会更快地收鞘。",
+    "vi": "Thanh kiếm phong ấn ác ma cổ đại.\nCường hóa độ bền và hiệu ứng trảm kích, tuy nhiên vì phong ấn chưa được giải trừ hoàn toàn nên chưa thể phát huy tối đa ma lực...\n\nNội tại: Tự động thu bao kiếm sau 4 giây không hành động. Sau khi tung đòn rút kiếm chém (Iaijutsu), tốc độ thu bao kiếm sẽ nhanh hơn."
+  },
+  "skill.wom.sakura_state": {
+    "en": "Sakura state",
+    "zh": "樱花状态",
+    "vi": "Anh Hoa Kiếm Trảm"
+  },
+  "skill.wom.sakura_state.tooltip": {
+    "en": "\"Sharpest blade forged in absolute serenity\"\n\n On cast, you'll perform a Sakura slash.\n Sakura slashes can be declined in 2 form\n  - while sprinting,\n  you will fastly pass through enemys in front of you, slashing them along the way.  - while sprinting, (cost 2 stack)\n  you will fastly pass through enemys in front of you,\n  slashing them along the way.\n  - while standing or walking, (cost 1 stack)\n  you'll fastly slash in front of you.\n Sakura slashes automaticaly sheath your blade afterward.\n\n You can stack a total of 12 sakura slashes and Sweeping edge\n on your blade will grant you extra stack depending\n on the amount of stack you have on the first cast.\n([initial amont of stack] * 1/3 of the sweeping edge levels)\n\n After the innitial draw, you'll enter sakura state.\n If you don't draw a Sakura slash again within 4 seconds, you loose all your\n stacks and get out of sakura state.\n\n Slashing a target with a Dash attack or a Sakura slash,\n will stack Perpetual slashes on the target.\n (3 on dashes and sakura slash.\n 6 on sakura dash slash\n this value is then multiply by 1/3 of the Sweeping edge lvl).\n If no action is performed for a set of time after landing perpetual slashes,\n All Perpetual slashes stacked on the target are triggered,\n slashing it in sequence for each stacks of Perpetual slashes",
+    "zh": "\"在绝对宁静中施展的最薄之刃\"\n在冲刺时，你将快速穿过前方的敌人，并在途中对他们进行斩击。\n\n你可以总共堆叠8次樱花斩。横扫之刃可增加堆叠数量。\n初始释放技能，进入樱花状态。\n如果在4秒内没有再次施展樱花斩，你将失去所有层数并退出樱花状态。\n冲刺攻击将在敌人身上堆叠3层永恒斩击。\n如果在1.5秒内没有攻击，\n则将对目标上堆叠的所有永恒斩击进行释放。冲刺特殊攻击消耗2层技能。满12层技能按住右键并按下技能键消耗6层释放终结技",
+    "vi": "“Lưỡi kiếm mỏng manh nhất thi triển giữa sự tĩnh lặng tuyệt đối.”\nKhi lướt tới, bạn lướt xuyên qua kẻ địch phía trước và tung trảm kích chớp nhoáng dọc đường lướt.\n\nCó thể cộng dồn tối đa 8 tầng Anh Hoa Trảm. Cạnh Quét giúp tăng số lượng cộng dồn. Kích hoạt kỹ năng để tiến vào trạng thái Anh Hoa.\nNếu sau 4 giây không tiếp tục tung đòn chém, sẽ mất toàn bộ số tầng và thoát khỏi trạng thái.\nĐòn tấn công khi lướt sẽ cộng dồn 3 tầng Vĩnh Hằng Trảm Lạc lên kẻ địch. Nếu trong 1.5 giây không tấn công, toàn bộ vết chém cộng dồn sẽ đồng loạt bùng nổ sát thương. Đòn lướt đặc biệt tiêu hao 2 tầng. Khi đạt đủ 12 tầng, giữ chuột phải và nhấn phím kỹ năng để tiêu hao 6 tầng tung ra Tuyệt Kỹ Kết Liễu!"
+  },
+  "item.wom.ender_blaster": {
+    "en": "Ender blaster",
+    "zh": "末影爆破者",
+    "vi": "Ender blaster"
+  },
+  "item.wom.ender_blaster.tooltip": {
+    "en": "This weapon has transcended time and space\nin order to find someone who can control its power at its peak.",
+    "zh": "这把武器已经超越了时间和空间，\n只为寻找能够掌握其巅峰力量的人。",
+    "vi": "Hỏa khí vượt qua cả giới hạn của thời gian và không gian, chỉ tìm kiếm kẻ xứng đáng để thuần hóa uy lực đỉnh cao của nó."
+  },
+  "skill.wom.ender_blast": {
+    "en": "Ender blast",
+    "zh": "末影爆破",
+    "vi": "Oanh Tạc Hư Không"
+  },
+  "skill.wom.ender_blast.tooltip": {
+    "en": "\"The zenith of the End world technological power.\"\n\nThe blaster loader is composed of 12 chambers.\nKinetic energy is stored in them and transmuted into endpower.\nWhen the trigger is pressed, half of the converted endpower\nis condensed into end bullets.\nThe other half is transfered into a particle accelerator that overcharges\nthe endpower until it blasts the bullet out with tremendous force and precision.\nAll of that in just a fraction of a second ... outstanding!",
+    "zh": "\"末影科技力量的巅峰之作。\"\n\n爆破枪装填器由12个腔室组成。\n动能储存在其中并被转化为末影能量。\n当扳机被扣动时，一半转化的末影能量\n被凝聚成末影子弹。\n另一半则被送入粒子加速器中，对末影能量进行过载充能，\n以惊人的力量和精度将子弹射出。\n这一切都在一瞬间完成...太出色了！",
+    "vi": "“Đỉnh cao sức mạnh của công nghệ Ender.”\n\nBộ nạp blaster bao gồm 12 buồng.\nĐộng năng được lưu trữ trong đó và chuyển thành năng lượng cuối cùng.\nMột nửa năng lượng ender được chuyển đổi khi bóp cò\nCô đọng thành đạn Ender.\nNửa còn lại được đưa vào máy gia tốc hạt để nạp quá mức năng lượng cuối cùng.\nBắn đạn với sức mạnh và độ chính xác đáng kinh ngạc.\nTất cả diễn ra trong tích tắc...tuyệt vời!"
+  },
+  "skill.wom.ender_fusion": {
+    "en": "Ender fusion",
+    "zh": "末影融合",
+    "vi": "Sự kết hợp của Ender"
+  },
+  "skill.wom.ender_fusion.tooltip": {
+    "en": "\"The zenith of the End world technological power.\"\n\nTwo blaster loader with 12 chambers each for 24 in Total.\nthe Kinetic energy stored is shared between both Blasters\nand transmuted into endpower for each.\nWhen the trigger is pressed, half of the converted endpower\nis condensed into end bullets.\nThe other half is transfered into a particle accelerator that overcharges\nthe endpower until it blasts the bullet out with tremendous force and precision.\nAll of that in just a fraction of a second ... outstanding!",
+    "zh": "\"末影科技力量的巅峰之作。\"\n\n两个爆破枪装填器，每个有12个腔室，总共24个。\n储存的动能在这两把爆破枪之间共享，\n并各自转化为末影能量。\n当扳机被扣动时，一半转化的末影能量\n被凝聚成末影子弹。\n另一半则被送入粒子加速器中，对末影能量进行过载充能，\n以惊人的力量和精度将子弹射出。\n这一切都在一瞬间完成...太出色了！",
+    "vi": "“Đỉnh cao sức mạnh của công nghệ Ender.”\n\nHai máy xúc nổ, mỗi máy có 12 khoang, tổng cộng 24 khoang.\nĐộng năng dự trữ được chia sẻ giữa hai máy nổ,\nVà mỗi năng lượng được chuyển đổi thành năng lượng cuối cùng.\nMột nửa năng lượng ender được chuyển đổi khi bóp cò\nCô đọng thành đạn Ender.\nNửa còn lại được đưa vào máy gia tốc hạt để nạp quá mức năng lượng cuối cùng.\nBắn đạn với sức mạnh và độ chính xác đáng kinh ngạc.\nTất cả diễn ra trong tích tắc...tuyệt vời!"
+  },
+  "item.wom.herrscher": {
+    "en": "Herrscher",
+    "zh": "支配者",
+    "vi": "Herrscher"
+  },
+  "item.wom.herrscher.tooltip": {
+    "en": "Sharp and light sword that performs very well in combat....\nbut... it seams to need something in order to release it's full potential.",
+    "zh": "锋利且轻盈的剑，在战斗中表现极为出色...\n但...它似乎需要某种东西来释放其全部潜力。",
+    "vi": "Một thanh kiếm sắc bén và nhẹ nhàng, hoạt động cực kỳ hiệu quả trong chiến đấu...\nNhưng… có vẻ như nó cần thứ gì đó để phát huy hết tiềm năng của mình."
+  },
+  "item.wom.gesetz": {
+    "en": "Gesetz",
+    "zh": "法则",
+    "vi": "Gesetz"
+  },
+  "item.wom.gesetz.tooltip": {
+    "en": "Strong and resistent shield that block even the strongest attack....\nbut... it seams to need something in order to release it's full potential.",
+    "zh": "坚固且耐用的盾牌，能够阻挡最强大的攻击...\n但...它似乎也需要某种东西来释放其全部潜力。",
+    "vi": "Một tấm khiên mạnh mẽ và bền bỉ có khả năng ngăn chặn những đòn tấn công mạnh mẽ nhất...\nNhưng… có vẻ như nó cũng cần thứ gì đó để phát huy hết tiềm năng của mình."
+  },
+  "skill.wom.regierung": {
+    "en": "Regierung",
+    "zh": "统治之力",
+    "vi": "sức mạnh thống trị"
+  },
+  "skill.wom.regierung.tooltip": {
+    "en": "\"Unbreakable defense combined with overwhelming offense rules over battle.\"\n\n On cast, you'll perform shield attacks in front of you.\n There is 3 Basic attacks, 1 Dash attack and\n 1 Jump attack for both the sword and the shield.\n\n Some attacks (shields or sword attacks) will move your in front of you.\n While this occure, the shield will have a slight red field around it as an indicator.\n During this short period,you will block incoming attacks and\n perform an automatic counter attack.\n\n Depending on how you block an attack, you will increase you Shield Charges by a certain amount.\n (increased with sweeping edge lvl)\n Shield Charges can be stored for up to 90 and used in 2 ways:\n  - With the Shield, by holding guard and casting a shield attack.\n    You will convert all Shield charge into shield Overcharge,\n    granting you damage resistance.\n  - With the Sword, by holding guard and casting a sword attack.\n    You will charge your sword and consume your\n     shield charges slowly to perform a spin attack.\n\n While your shield is Overcharged, your shield attack will do\n increase damage after a sword attack based on the Overcharge amount.\n\n Getting damaged reduce your Shield Overcharge by 5.\n ( Sweeping edge on your Sword reduce this by 1 per level )",
+    "zh": "\"进攻与防守的完美结合，达到了完美的和谐。\"\n\n防御时，会根据你阻挡攻击的方式累积伤害。\n当盾牌位于玩家面前时，某些攻击会有反击窗口。",
+    "vi": "\"Sự kết hợp hoàn hảo giữa tấn công và phòng thủ, đạt được sự hài hòa hoàn hảo.\"\n\nKhi phòng thủ, sát thương sẽ tích lũy dựa trên cách bạn chặn đòn tấn công.\nMột số đòn tấn công nhất định có cửa sổ phản công khi lá chắn ở trước mặt người chơi."
+  },
+  "item.wom.moonless": {
+    "en": "Moonless",
+    "zh": "无月之刃",
+    "vi": "Moonless"
+  },
+  "item.wom.moonless.tooltip": {
+    "en": "\"What is a blade without a handle,\n a light without any shadow..\n a night without a moon.\"\n\n Moonless have 2 set of attacks, Recto and verso.\n Dash attack to switch beetwen them.",
+    "zh": "\"无柄之刃何以称剑，\n 无影之光何以称明，\n 无月之夜何以称夜。\"\n\n无月拥有阴阳双形态攻击模式，\n通过冲刺攻击切换形态。",
+    "vi": "\"Làm sao một thanh kiếm không tay có thể được gọi là kiếm?\n Làm sao ánh sáng không bóng có thể được gọi là rõ ràng?\n Tại sao đêm không trăng được gọi là đêm? \"\n\nWuyue có chế độ tấn công kép âm dương.\nChuyển đổi hình thức bằng cách lao tới và tấn công."
+  },
+  "skill.wom.lunar_eclipse": {
+    "en": "Lunar Eclipse",
+    "zh": "月食",
+    "vi": "nguyệt thực"
+  },
+  "skill.wom.lunar_eclipse.tooltip": {
+    "en": "\"Moonlight shadowing the night\"\n\n Strike foes in front of you\n and makes them glow for 7sec.\n\n In Recto : \n  - Attaking Glowing targets, stack your damage\n    and increase their Glowing lvl.\n  - Attaking Blind targets, stack your damage\n    and remove their Blindness.\n\n In Verso: \n  - Attaking Glowing targets, stack your damage\n    and remove their Glowing.\n  - Attaking Blind targets, increase their Blindness lvl\n\n Recto Jump attack ( Crescent )\n  Unleash all stacked damage on the target.\n  If it kills the target, it bounce to the closest target\n  and loose 5% of its damage.\n    Glowing increase the bounce range.\n    Blindness increase the damage.\n\n Verso Jump attack ( Fullmoon )\n  Unleash 70% of the stacked damage in Aoe.\n    Blindness increase the damage.",
+    "zh": "\"月影蔽天光\"\n\n斩击前方敌人，使其发光和失明7秒。\n\n【阳面】模式下：\n  - 攻击失明目标：造成伤害并转换失明效果为发光\n  - 攻击发光目标：提升其发光等级\n\n【阴面】模式下：\n  - 攻击发光目标：造成伤害并转换发光效果为失明\n  - 攻击失明目标：提升其失明等级\n\n使用跳跃攻击释放叠加伤害。\n\n跳跃攻击（阳）\n  对目标释放所有累积伤害。\n  若击杀目标，则向最近目标弹射造成伤害。\n\n跳跃攻击（阴）\n  对范围内敌人释放50%累积AOE伤害。",
+    "vi": "“Bóng trăng che khuất ánh sáng bầu trời”\n\nChém kẻ địch ở phía trước, khiến chúng phát sáng và bị mù trong 7 giây.\n\nỞ chế độ [Bên nắng]:\n  - Tấn công mục tiêu bị mù: gây sát thương và chuyển hiệu ứng mù thành ánh sáng\n  - Tấn công các mục tiêu phát sáng: tăng mức độ phát sáng của chúng\n\nỞ chế độ [Bóng tối]:\n  - Tấn công mục tiêu phát sáng: gây sát thương và chuyển hiệu ứng phát sáng thành mù lòa\n  - Tấn công mục tiêu mù: Tăng mức độ mù của nó\n\nSử dụng các đòn tấn công nhảy để gây sát thương cộng dồn.\n\nNhảy tấn công (dương)\n  Giải phóng toàn bộ sát thương tích lũy lên mục tiêu.\n  Nếu mục tiêu bị tiêu diệt, nó sẽ lao tới mục tiêu gần nhất để gây sát thương.\n\nNhảy tấn công (âm)\n  Gây 50% sát thương AOE tích lũy cho kẻ địch trong phạm vi."
+  },
+  "item.wom.solar": {
+    "en": "Solar",
+    "zh": "太阳之力",
+    "vi": "Solar"
+  },
+  "item.wom.solar.tooltip": {
+    "en": "\"The power of the sun, in the palm of my hand\"",
+    "zh": "\"太阳之力，尽在掌握\"",
+    "vi": "\"Sức mạnh của mặt trời nằm trong tầm tay bạn\""
+  },
+  "skill.wom.solar_arcano": {
+    "en": "Solar Arcano",
+    "zh": "太阳秘法",
+    "vi": "Bí mật của mặt trời"
+  },
+  "skill.wom.solar_arcano.tooltip": {
+    "en": "\"Witness the full force of a star\"\n\n After each basic attack, a special icon will apear within a short period.\n Press the Skill button when you see it to perform a timed Solar attack.\n Solar attack cycle between ignites ( Polvora ) and explode ( Chispear ):\n\n    Polvora : set the target in fire. if target is\n    allready in fire, increase ignitions level by 1.\n    (can only go up to 2)\n\n    Chispear: if target is in fire, extinguish the fire and\n    explode for a set of damage depending on the ignitions level.\n    (3 => 6 => 9, +1 per sweeping edge lvl)\n\n Solar have a unique skill meter mechanique.\n Heat level, wich is showed by the percentage number on the skill,\n can change color (from red to white) depending on the Heating speed.\n Increase Heat level by increasing heating speed above\n the orange lvl by successfully performing Chispear.\n The heating speed increase depends on the target ignition level.\n\n Hold guard and press skill to perform Solar Brasero.\n Solar Brasero harvest heat level to perform incendiary spell:\n\n    Obscuridad: Infuse your blade with soul fire,\n    melting it into a new form.\n    All attacks within this form trigger Chispear.\n    Lock your heating speed to red.\n\n    Crematorio: breath soul fire in front of you.\n    Burns targets to ignitions level 3.\n    Durations depends on the amount of time\n    they stay in the flame.\n\n    Infierno: Burn target around you in a spherical shape.\n    The area of effect will keep growing until 10 sec.\n    Every 2sec, target within the area are affected by polvora.\n    (can increase ignition level to 3)\n    During infierno, all the speed at wich heat level is affected is doubled.",
+    "zh": "\"见证星辰的全力\" 每次基础攻击后，短暂出现一个图标。当看到这个图标时，按下技能键来发动太阳攻击。\n 太阳攻击在[点燃]和[引爆]之间循环：[点燃]：将目标点燃。目标已经着火，则增加燃烧等级。[引爆]：熄灭火焰并爆炸，根据燃烧等级造成伤害。\n 热度等级，通过技能上的百分比数字显示，其颜色（从红色到白色）会根据加热速度变化。通过成功发动[引爆]并将加热速度提升到橙色以上来增加热度等级。加热速度的增加取决于目标的燃烧等级。\n按住防御并按下技能键来发动太阳火炉。太阳火炉消耗热度等级来施展燃烧法术：\n[日蚀烈焰]：将你的刀刃注入灵魂之火，将其熔化为新的形态。 在此形态下，所有攻击都会触发[引爆]。将加热速度锁定为红色。\n   [阳炎焚烬]：在你面前呼出灵魂之火。将目标燃烧至3级燃烧等级。持续时间取决于它们在火焰中停留的时间。\n    [太阳炼狱]：以球形方式燃烧你周围的目标。影响区域将持续扩大10秒。 每2秒，区域内的目标都会受到[点燃]的影响。在太阳炼狱期间，所有影响热度等级的速度都将翻倍。",
+    "vi": "\"Chứng kiến ​​sức mạnh của các vì sao\" Sau mỗi đòn tấn công cơ bản, một biểu tượng sẽ xuất hiện thoáng qua. Khi nhìn thấy biểu tượng này, hãy nhấn nút kỹ năng để thực hiện đòn tấn công mặt trời.\n Cuộc tấn công mặt trời xoay vòng giữa [Đốt cháy] và [Kích nổ]: [Đốt cháy]: Đốt cháy mục tiêu. Nếu mục tiêu đã bốc cháy, hãy tăng mức độ đốt cháy. [Nổ]: Dập tắt ngọn lửa và phát nổ, gây sát thương tùy theo mức độ cháy.\n Mức nhiệt, được hiển thị dưới dạng số phần trăm trên kỹ năng, thay đổi màu sắc (từ đỏ sang trắng) dựa trên tốc độ gia nhiệt. Tăng mức nhiệt bằng cách kích hoạt thành công [Kích nổ] và tăng tốc độ gia nhiệt lên trên màu cam. Tốc độ gia nhiệt tăng tùy thuộc vào mức độ đốt cháy của mục tiêu.\nGiữ phím Phòng thủ và nhấn nút kỹ năng để kích hoạt Lò năng lượng mặt trời. Lò năng lượng mặt trời tiêu thụ mức nhiệt để thực hiện các phép thuật đốt cháy:\n[Ngọn lửa nhật thực]: Truyền lửa linh hồn vào lưỡi kiếm của bạn, nấu chảy nó thành một hình dạng mới. Ở dạng này, tất cả các đòn tấn công sẽ kích hoạt [Kích nổ]. Khóa tốc độ làm nóng bằng màu đỏ.\n   [Sunfire Ember]: Thổi ra ngọn lửa linh hồn trước mặt bạn. Đốt cháy mục tiêu đến cấp độ đốt cháy cấp 3. Thời gian phụ thuộc vào thời gian họ ở trong ngọn lửa.\n    [Solar Inferno]: Đốt cháy các mục tiêu xung quanh bạn theo hình cầu. Khu vực bị ảnh hưởng sẽ tiếp tục mở rộng trong 10 giây. Cứ sau 2 giây, mục tiêu trong khu vực sẽ bị ảnh hưởng bởi [Đốt cháy]. Trong Solar Inferno, tất cả tốc độ ảnh hưởng đến mức nhiệt sẽ tăng gấp đôi."
+  },
+  "item.wom.antitheus": {
+    "en": "Antitheus",
+    "zh": "反神之镰",
+    "vi": "Antitheus"
+  },
+  "item.wom.antitheus.tooltip": {
+    "en": "\"Harvest life in the most horrible and obnoxious way.\"\n\n Attacks have 20% chance to cause wither for 6sec.\n If the entity allready has wither effect, then it\n reapply a stronger wither effect with the duration refreshed.\n\n Each Sweeping edge lvl, give 10% more chance to cause Wither\n and increase the duration by 2sec.",
+    "zh": "“以最可怕和可憎的方式收割生命。”\n\n攻击有20%的机会在6秒内造成凋零效果。\n如果实体已经有凋零效果，那么它将重新应用更强的凋零效果，持续时间刷新。\n\n每级横扫之刃，增加10%的凋零概率，并将持续时间增加2秒。",
+    "vi": "\"Cắt bỏ mạng sống theo cách khủng khiếp và ghê tởm nhất.\"\n\nCác đòn tấn công có 20% khả năng gây héo trong vòng 6 giây.\nNếu thực thể đã có hiệu ứng héo, nó sẽ áp dụng lại hiệu ứng héo mạnh hơn và thời gian tồn tại sẽ được làm mới.\n\nMỗi cấp độ của Sweeping Blade tăng khả năng héo thêm 10% và tăng thời gian tồn tại thêm 2 giây."
+  },
+  "skill.wom.demonic_ascension": {
+    "en": "Demonic Ascension",
+    "zh": "恶魔升华",
+    "vi": "Quỷ thăng thiên"
+  },
+  "skill.wom.demonic_ascension.tooltip": {
+    "en": "\"The scythe takes possession of your body\n and use it to perform terrible things....\"\n\nAscenscion :\n on a large area, try to Apply Wither effect\n before applying 50% catharsis* on affected entity.\n\nIn Demon form:\n Base Duration is equal to 20s x (1 + (Sweeping edge level) / 3).\n Dash attack have twice the chance to apply wither effect but\n will consume more and more health if used multiple times.\n Other attacks will cause 80% Catharsis* on withered entitys if they hit.\n\n *Catharsis: Reap of the wither effect from the target\n dealing the remaining damage depending on the catharsis percentage at once\n and heal you for the remaining of that percentage.\n catharsis also increase the Demon form\n duration depending on their wither state\n (+3s for wither II and +6s for wither III).\n",
+    "zh": "“镰刀占据你的躯体\n驱使你行可怖之事……”\n\n升华：\n在一个大范围内，尝试在影响的实体上应用凋零效果，然后应用50%的赎罪*。\n\n在恶魔形态中：\n基础持续时间等于20秒 x (1 + (扫击等级) / 3)。\n冲刺攻击有两倍的凋零效果应用机会，但\n如果多次使用，将消耗越来越多的生命值。\n其他攻击如果命中，将对有凋零效果的实体造成80%的赎罪*。\n\n*赎罪：从目标中收割凋零效果\n根据赎罪百分比一次性造成剩余伤害\n并治愈你的百分比剩余部分。\n赎罪还会根据它们的凋零状态增加恶魔形态\n持续时间（凋零II增加3秒，凋零III增加6秒）。",
+    "vi": "\"Liềm chiếm lấy cơ thể bạn\nThúc đẩy bạn làm những điều khủng khiếp...\"\n\nThăng hoa:\nTrong một khu vực rộng lớn, cố gắng áp dụng hiệu ứng Wither lên các thực thể bị ảnh hưởng, sau đó áp dụng 50% Chuộc Tội*.\n\nỞ dạng quỷ dữ:\nThời lượng cơ bản bằng 20 giây x (1 + (cấp độ vuốt) / 3).\nCác đòn tấn công lướt nhanh có gấp đôi cơ hội áp dụng hiệu ứng khô héo, nhưng\nNếu sử dụng nhiều lần thì lượng máu sẽ bị tiêu hao ngày càng nhiều.\nNếu các đòn tấn công khác trúng đích, chúng sẽ gây ra sự chuộc tội 80%* cho thực thể có hiệu ứng héo.\n\n* Chuộc Tội: Thu hoạch hiệu ứng khô héo từ mục tiêu\nGây sát thương còn lại trong một lượt dựa trên tỷ lệ chuộc tội\nVà chữa lành phần còn lại của bạn.\nSự chuộc tội cũng bổ sung thêm các hình dạng ma quỷ dựa trên trạng thái khô héo của chúng\nThời lượng (tăng thêm 3 giây đối với Wither II và 6 giây đối với Wither III)."
+  },
+  "item.wom.napoleon": {
+    "en": "Napoleon",
+    "zh": "拿破仑",
+    "vi": "Napoleon"
+  },
+  "item.wom.napoleon.tooltip": {
+    "en": "\"L'intarissable moteur du conquérant.\"",
+    "zh": "\"征服者永不停歇的引擎\"",
+    "vi": "“Động cơ không ngừng nghỉ của kẻ chinh phục”"
+  },
+  "skill.wom.rechargement": {
+    "en": "Rechargement",
+    "zh": "装填术",
+    "vi": "Đang tải"
+  },
+  "skill.wom.rechargement.tooltip": {
+    "en": "\"Il n'y a que deux puissances au monde, le sabre et l'esprit : à la longue, le sabre est toujours vaincu par l'esprit.\"\n\n After attacking performing skill will reload ammunition\n depending on the attack made before it.\n\n  - 1 ammo after first attack.\n  - 2 ammo after the second attacks.\n  - 3 ammo afer the third one.\n\n The last attack of the normal combo will also realod 3 ammo.\n\n To shoot your ammo, you must perform an attack or a reload first.\n You can also shoot right after sprinting or if you are rising in the air (jumping).\n\n Dealing damage with a shot will increase [Heatdrive] depending on the bullet type.\n [Heatdrive] slowly decrease if no shot damage is dealt within 4 sec.\n When fully charged, [Heatdrive] become [Souldrive]:\n  during that state, the drive will quickly decrease but,\n  every second during that state will reload 1 ammo.\n\n Ammo can be overcharged if rechargement is performed when 6 ammo is allready loaded.\n Overcharged Ammo deal more damage and bypass guards.\n\n Reloading to reach exactly 6 ammo or 6 overcharged ammo will double\n the reload ammount for as long as you keep your reloads to reach exactly 6.\n",
+    "zh": "\"世间唯有两种力量：剑与心。长远观之，剑终为心所败\"\n\n攻击后按技能键将根据先前攻击次数手动装填对应数量弹药\n\n完成一轮普攻连段会自动装填3发弹药\n\n右键可释放射击动作，射击前需先进行攻击或装填动作\n冲刺或跳跃时亦可立即射击\n若已装载6发弹药时继续装填，可获得超载弹药\n超载弹药造成更高伤害且无视格挡\n\n精确装填至6发普通弹药或6发超载弹药时\n只要保持精确装填至6发的操作\n装填量将永久翻倍",
+    "vi": "\"Trên thế giới chỉ có hai loại sức mạnh: kiếm và trái tim. Về lâu dài, kiếm cuối cùng sẽ bị trái tim đánh bại.\"\n\nSau khi tấn công, nhấn nút kỹ năng để tự nạp lại lượng đạn tương ứng dựa trên số lần tấn công trước đó.\n\nSau khi hoàn thành combo tấn công cơ bản, 3 viên đạn sẽ tự động được nạp.\n\nNhấp chuột phải để thực hiện hành động bắn súng. Trước khi bắn, bạn cần thực hiện hành động tấn công hoặc nạp đạn.\nBạn cũng có thể bắn ngay lập tức khi đang chạy nước rút hoặc nhảy\nNếu tiếp tục nạp đạn khi đã nạp đủ 6 viên đạn, bạn sẽ bị quá tải đạn.\nĐạn quá tải sẽ gây thêm sát thương và bỏ qua các khối\n\nNạp lại chính xác 6 viên đạn thường hoặc 6 viên đạn quá tải\nCứ nạp đạn chính xác tới 6 vòng là được\nKhả năng tải lại sẽ được nhân đôi vĩnh viễn"
+  },
+  "item.wom.evil_tachi": {
+    "en": "Evil Ôdachi",
+    "zh": "妖刀大太刀",
+    "vi": "Evil Ôdachi"
+  },
+  "item.wom.hollow_longsword": {
+    "en": "Hollow Longsword",
+    "zh": "空洞长剑",
+    "vi": "Hollow Longsword"
+  },
+  "item.wom.jabberwocky": {
+    "en": "Clawed Gauntle",
+    "zh": "利爪拳铠",
+    "vi": "Clawed Gauntle"
+  },
+  "item.wom.orbit": {
+    "en": "Orbit",
+    "zh": "轨道",
+    "vi": "Orbit"
+  },
+  "item.wom.orbit.tooltip": {
+    "en": "Even so far appart, even on constant motion.. terra never leave's sol, luna never leaves terra. Forever far from each other, yet linked all together.",
+    "zh": "纵使遥隔万里，纵使永动不息...地星永不离日，月卫永不弃地。永恒相隔，却又彼此相连。",
+    "vi": "Dù chúng ta cách xa nhau hàng ngàn dặm, dù chúng ta chuyển động không ngừng...các ngôi sao trên trái đất sẽ không bao giờ rời khỏi mặt trời, và mặt trăng sẽ không bao giờ rời bỏ trái đất. Dù xa cách vĩnh viễn nhưng vẫn gắn kết với nhau."
+  },
+  "skill.wom.orbital_beam": {
+    "en": "Orbital beam",
+    "zh": "轨道光束",
+    "vi": "chùm tia quỹ đạo"
+  },
+  "skill.wom.orbital_beam.tooltip": {
+    "en": "Call an orbital beam that strike foes in your gaze.",
+    "zh": "召唤一道轨道光束，打击你视线所及之处的敌人。",
+    "vi": "Triệu tập một chùm tia quỹ đạo tấn công kẻ thù trong tầm mắt."
+  },
+  "item.wom.nova": {
+    "en": "Nova",
+    "zh": "新星",
+    "vi": "Nova"
+  },
+  "item.wom.nova.tooltip": {
+    "en": "Lost in the void, burning forever... waiting for darkness, predators of their power. Scourges of shadows in eternity, bursting their halo thru the field of infinity.",
+    "zh": "迷失于虚空，永恒燃烧...静候黑暗，吞噬其力。永世暗影之灾厄，迸发无限领域之光环。",
+    "vi": "Lạc vào hư không, cháy bỏng mãi mãi...chờ bóng tối nuốt chửng sức mạnh của nó. Tai họa của bóng tối vĩnh cửu bùng phát thành hào quang của cõi vô tận."
+  },
+  "skill.wom.flash_mutilation": {
+    "en": "Flash mutilation",
+    "zh": "闪裂",
+    "vi": "vết nứt chớp nhoáng"
+  },
+  "skill.wom.flash_mutilation.tooltip": {
+    "en": "Teleport yourself around a target before performing a spin attack.",
+    "zh": "在执行旋转攻击前，将自己传送至目标周围。",
+    "vi": "Dịch chuyển bản thân xung quanh mục tiêu trước khi thực hiện một đòn tấn công xoay tròn."
+  },
+  "item.wom.blackstar": {
+    "en": "Blackstar",
+    "zh": "黑星",
+    "vi": "Blackstar"
+  },
+  "item.wom.blackstar.tooltip": {
+    "en": "Within the silent emptyness, dark giants are ingaged in ominous danses. Masters of art and desrtuctions, they shake the void and absorb all matter. Horrible, yet, absolutely magneficent... nothing can stop their malevolent riffs.",
+    "zh": "寂寥虚境之中，黑暗巨灵翩跹不祥之舞。毁灭艺术之主宰，撼动虚空吞噬万物。恐怖至极，却又壮丽绝伦...无人能阻其恶毒裂痕。",
+    "vi": "Trong thế giới ảo cô đơn, linh hồn khổng lồ bóng tối nhảy múa một cách đáng ngại. Bậc thầy của nghệ thuật hủy diệt, rung chuyển khoảng không và nuốt chửng vạn vật. Kinh hoàng nhưng hùng vĩ...không ai có thể ngăn chặn được những vết nứt tàn khốc của nó."
+  },
+  "skill.wom.unbreakable": {
+    "en": null,
+    "zh": "不灭壁垒",
+    "vi": "Rào chắn bất tử"
+  },
+  "skill.wom.unbreakable.tooltip": {
+    "en": null,
+    "zh": "获得三层护盾，可抵挡三次伤害。",
+    "vi": "Có được ba lớp lá chắn, có thể chịu được sát thương gấp ba lần."
+  },
+  "item.wom.overly_large_cylinder": {
+    "en": "Overly large cylinder",
+    "zh": "超大号气缸",
+    "vi": "Overly large cylinder"
+  },
+  "item.wom.overly_large_cylinder.tooltip": {
+    "en": "This cylinder is way to large for anything...",
+    "zh": "这个气缸对任何东西来说都太大了...",
+    "vi": "Hình trụ này quá lớn cho bất cứ thứ gì..."
+  },
+  "item.wom.fur": {
+    "en": "Fur",
+    "zh": "皮毛",
+    "vi": "Fur"
+  },
+  "item.wom.claw": {
+    "en": "Claw",
+    "zh": "利爪",
+    "vi": "Claw"
+  },
+  "item.wom.demon_seal": {
+    "en": "Demon seal",
+    "zh": "恶魔封印",
+    "vi": "Demon seal"
+  },
+  "item.wom.demon_seal.tooltip": {
+    "en": "An old demon is sealed inside this.",
+    "zh": "一位古老的恶魔被封印在其中。",
+    "vi": "Một con quỷ cổ xưa bị phong ấn bên trong."
+  },
+  "item.wom.eternal_fire_arcane": {
+    "en": "Eternal fire arcane",
+    "zh": "永恒之火奥术",
+    "vi": "Eternal fire arcane"
+  },
+  "item.wom.eternal_fire_arcane.tooltip": {
+    "en": "In this book, is writen the arcane for endless blaze fire.\nTitle says:\"Encarnacion solar infinita\".",
+    "zh": "这本书中记载着无尽烈焰之火的奥术知识。无尽太阳化身。",
+    "vi": "Cuốn sách này chứa đựng những kiến ​​thức bí ẩn về ngọn lửa vô tận. Hiện thân của mặt trời vô tận."
+  },
+  "item.wom.stone_greataxe": {
+    "en": "Stone Greataxe",
+    "zh": "石制巨斧",
+    "vi": "Stone Greataxe"
+  },
+  "item.wom.golden_greataxe": {
+    "en": "Golden Greataxe",
+    "zh": "金制巨斧",
+    "vi": "Golden Greataxe"
+  },
+  "item.wom.iron_greataxe": {
+    "en": "Iron Greataxe",
+    "zh": "铁制巨斧",
+    "vi": "Iron Greataxe"
+  },
+  "item.wom.diamond_greataxe": {
+    "en": "Diamond Greataxe",
+    "zh": "钻石巨斧",
+    "vi": "Diamond Greataxe"
+  },
+  "item.wom.netherite_greataxe": {
+    "en": "Netherite Greataxe",
+    "zh": "下界合金巨斧",
+    "vi": "Netherite Greataxe"
+  },
+  "item.wom.wooden_staff": {
+    "en": "Wooden staff",
+    "zh": "木杖",
+    "vi": "Wooden staff"
+  },
+  "item.wom.stone_staff": {
+    "en": "Stone staff",
+    "zh": "石杖",
+    "vi": "Stone staff"
+  },
+  "item.wom.golden_staff": {
+    "en": "Golden staff ",
+    "zh": "金杖",
+    "vi": "Golden staff "
+  },
+  "item.wom.iron_staff": {
+    "en": "Iron staff",
+    "zh": "铁杖",
+    "vi": "Iron staff"
+  },
+  "item.wom.diamond_staff": {
+    "en": "Diamond staff",
+    "zh": "钻石杖",
+    "vi": "Diamond staff"
+  },
+  "item.wom.netherite_staff": {
+    "en": "Netherite staff",
+    "zh": "下界合金杖",
+    "vi": "Netherite staff"
+  },
+  "skill.wom.charybdis": {
+    "en": "Charybdis into Scylla",
+    "zh": "旋风扫击",
+    "vi": "Quét lốc xoáy"
+  },
+  "skill.wom.charybdis.tooltip": {
+    "en": "Consume Stamina to perform a whirlwind of hit for a total of 8 strikes. Reduce the stamina consumption with sweeping edge.\n",
+    "zh": "消耗体力进行一次旋风式打击，总共8次打击。使用扫击等级可降低体力消耗。\n",
+    "vi": "Tiêu hao thể lực để thực hiện đòn tấn công gió lốc, tổng cộng 8 đòn. Sử dụng cấp độ vuốt để giảm mức tiêu thụ sức chịu đựng."
+  },
+  "skill.wom.ender_step": {
+    "en": "Ender step",
+    "zh": "末影踏步",
+    "vi": "Các bước Ender"
+  },
+  "skill.wom.ender_step.tooltip": {
+    "en": "A fast teleportion away from the danger. While executing this skill, player become immune from physical attacks.",
+    "zh": "快速传送远离危险。在使用此技能时，玩家将免疫物理攻击。",
+    "vi": "Dịch chuyển nhanh chóng khỏi nguy hiểm. Khi sử dụng kỹ năng này, người chơi sẽ miễn nhiễm với các đòn tấn công vật lý."
+  },
+  "skill.wom.ender_obscuris": {
+    "en": "Ender obscuris",
+    "zh": "末影隐踪",
+    "vi": "dấu vết của Ender"
+  },
+  "skill.wom.ender_obscuris.tooltip": {
+    "en": "Teleport you behind the last hitted target within 30 blocks (in radius from your position).\n\nWhile executing this skill, player become immune from physical attacks.",
+    "zh": "将你传送到距离你（以你所在位置为圆心）不超过30格范围内的最后一个攻击目标后方。\n\n在使用此技能时，玩家将免疫物理攻击。\n\n需要先学习：末影踏步技能",
+    "vi": "Dịch chuyển bạn đến phía sau mục tiêu tấn công cuối cùng trong phạm vi không quá 30 khối tính từ bạn (với vị trí của bạn là tâm của vòng tròn).\n\nKhi sử dụng kỹ năng này, người chơi sẽ miễn nhiễm với các đòn tấn công vật lý.\n\nCần học trước: Kỹ năng bước chân của Ender"
+  },
+  "skill.wom.shadow_step": {
+    "en": "Shadow step",
+    "zh": "暗影步",
+    "vi": "Bước bóng"
+  },
+  "skill.wom.shadow_step.tooltip": {
+    "en": "§oSink in the shadows.§r\nMoving in the shadow will twist space to make you move faster than the light itself.\n\nWhile executing this skill, player become immune from physical attacks.",
+    "zh": "沉入阴影之中。\n在阴影中移动将扭曲空间，使你移动得比光还快。\n\n在使用此技能时，玩家将免疫物理攻击。\n\n需要先学习：末影踏步技能",
+    "vi": "Chìm vào bóng tối.\nDi chuyển trong bóng tối sẽ làm biến dạng không gian, khiến bạn di chuyển nhanh hơn ánh sáng.\n\nKhi sử dụng kỹ năng này, người chơi sẽ miễn nhiễm với các đòn tấn công vật lý.\n\nCần học trước: Kỹ năng bước chân của Ender"
+  },
+  "skill.wom.bull_charge": {
+    "en": "Ravanger force",
+    "zh": "狂牛冲锋",
+    "vi": "Phí Mad Bull"
+  },
+  "skill.wom.bull_charge.tooltip": {
+    "en": "Charge forward pushing away any entity that come across your path.\n\nYou are immune to stun effect during the charge and take 40% less damage",
+    "zh": "向前冲锋，推开路径上的所有实体。\n\n冲锋期间免疫晕眩效果，并减少40%所受伤害。",
+    "vi": "Tiến về phía trước, đẩy lùi tất cả các thực thể trên đường đi của bạn.\n\nTrong quá trình tấn công, bạn miễn nhiễm với hiệu ứng choáng và giảm 40% sát thương phải chịu."
+  },
+  "skill.wom.precise_roll": {
+    "en": "Precise roll",
+    "zh": "精准翻滚",
+    "vi": "cuộn chính xác"
+  },
+  "skill.wom.precise_roll.tooltip": {
+    "en": "Faster, further and cheaper roll.\n\n Perform acrobatic Roll like a true expert.",
+    "zh": "更快、更远且更省耐力的翻滚。\n\n像真正的专家一样表演杂技翻滚",
+    "vi": "Lăn nhanh hơn, xa hơn và có độ bền kém hơn.\n\nThực hiện các động tác nhào lộn như một chuyên gia thực thụ"
+  },
+  "skill.wom.dodge_master": {
+    "en": "Dodge master",
+    "zh": "闪避大师",
+    "vi": "Dodge Master"
+  },
+  "skill.wom.dodge_master.tooltip": {
+    "en": "Instinctly dodge a small distance if you would take damage after the cast within a window of 0.30s. Continuesly dodge all attack after the first one within a window of 0.50s and after each succesful dodge.\n\nDouble stamina consumption on multiple cast.",
+    "zh": "如果在施放后0.3秒内会受到伤害，则本能地小距离闪避。\n在首次闪避后的0.5秒内，连续闪避所有攻击。\n\n多次施放将加倍消耗耐力。",
+    "vi": "Nếu bạn nhận sát thương trong vòng 0,3 giây sau khi thi triển, bạn sẽ né tránh theo bản năng ở một khoảng cách nhỏ.\nTrong vòng 0,5 giây sau lần né đầu tiên, né liên tục mọi đòn tấn công.\n\nThi triển nhiều lần sẽ tăng gấp đôi mức tiêu hao thể lực."
+  },
+  "skill.wom.time_travel": {
+    "en": "Time travel",
+    "zh": "时光回溯",
+    "vi": "Nhìn lại thời gian"
+  },
+  "skill.wom.time_travel.tooltip": {
+    "en": "Register your position and health on cast.\nAfter 5sec you'll be teleported back to your previus position and half of all damage taken within this time is healed.\n\nCast again to teleport early or sneak to cancel.",
+    "zh": "记录你的位置和生命值。\n5秒后，你将被传送回之前的位置，并治愈这段时间内所受伤害的一半。\n\n再次施放以提前传送或取消。\n\n需要先学习：暗影步技能",
+    "vi": "Theo dõi vị trí và sức khỏe của bạn.\nSau 5 giây, bạn sẽ được dịch chuyển trở lại vị trí trước đó và được hồi phục một nửa lượng sát thương nhận được trong thời gian đó.\n\nTruyền lại để dịch chuyển sớm hoặc hủy.\n\nCần học trước: Kỹ năng Shadow Step"
+  },
+  "skill.wom.punishment_kick": {
+    "en": "Punishment kick",
+    "zh": "惩戒踢击",
+    "vi": "cú đá trừng phạt"
+  },
+  "skill.wom.punishment_kick.tooltip": {
+    "en": "Kick in front of you with force. Cause strong Stun and can blackout if perform during enemy attack.",
+    "zh": "用力向前踢出。造成强烈的晕眩效果，如果在敌人攻击时施放，则可能使其昏迷。",
+    "vi": "Dùng lực đá về phía trước. Gây hiệu ứng choáng mạnh và có thể làm choáng kẻ địch nếu sử dụng trong khi tấn công."
+  },
+  "skill.wom.counter_attack": {
+    "en": "Counter attack",
+    "zh": "反击",
+    "vi": "phản công"
+  },
+  "skill.wom.counter_attack.tooltip": {
+    "en": "Perfect Guard will trigger a counter attack based on weapons attacks.\n\nAvailable Weapon Types : %s",
+    "zh": "完美防御将触发基于武器攻击的反击。",
+    "vi": "Phòng thủ hoàn hảo sẽ kích hoạt một cuộc phản công dựa trên các cuộc tấn công bằng vũ khí."
+  },
+  "skill.wom.perfect_bulwark": {
+    "en": "Perfect bulwark",
+    "zh": "完美壁垒",
+    "vi": "rào cản hoàn hảo"
+  },
+  "skill.wom.perfect_bulwark.tooltip": {
+    "en": "Holding Guard stance will block attacks from all directions at low progressive stamina cost.\nReleasing guard after being hit 5 times will send a shockwave that pushes enemys away. \n\nAvailable Weapon Types : %s",
+    "zh": "保持防御姿势将以低渐进耐力成本阻挡来自各个方向的攻击。\n在被击中5次后释放防御将释放震荡波，将敌人推开。",
+    "vi": "Duy trì tư thế phòng thủ sẽ chặn các cuộc tấn công từ mọi hướng với chi phí sức chịu đựng lũy ​​tiến thấp.\nGiải phóng phòng thủ sau khi bị trúng đòn 5 lần sẽ giải phóng một làn sóng xung kích đẩy kẻ địch ra xa."
+  },
+  "skill.wom.vengeful_parry": {
+    "en": "Vengeful parry",
+    "zh": "复仇招架",
+    "vi": "trả thù"
+  },
+  "skill.wom.vengeful_parry.tooltip": {
+    "en": "Put you in a guarding stance for 2sec.\nYou will hold your position during that time blocking all attack at no stamina cost.\nAfter that you'll be able to send back all the damage in your next attack.\nRefresh damage on recast.\n1sec cooldown.\n\nAvailable Weapon Types : %s",
+    "zh": "进入防御姿态持续2秒。\n在此期间，无需耐力成本即可阻挡所有攻击。\n之后，你能够将所受的所有伤害在下一次攻击中反击回去。\n再次使用将重置反击伤害。\n1秒冷却时间。",
+    "vi": "Vào thế phòng thủ trong 2 giây.\nTrong thời gian này, tất cả các cuộc tấn công có thể bị chặn mà không tốn sức chịu đựng.\nSau đó, bạn có thể trả đũa bất kỳ thiệt hại nào bạn phải chịu trong đòn tấn công tiếp theo.\nSử dụng nó một lần nữa sẽ thiết lập lại sát thương phản đòn.\nThời gian hồi chiêu 1 giây."
+  },
+  "skill.wom.soul_protection": {
+    "en": "Soul protection",
+    "zh": "灵魂守护",
+    "vi": "Bảo vệ linh hồn"
+  },
+  "skill.wom.soul_protection.tooltip": {
+    "en": "Loose the ability to guard.\n\n Each second you summon a soul that give 1% damage negation.\nYour own soul give you 20% damage negation.\n\n Getting damaged will remove 3 souls.",
+    "zh": "放弃防御能力。\n\n每秒召唤一个灵魂，每个灵魂提供1%的伤害减免。\n你自己的灵魂为你提供20%的伤害减免。\n\n受到伤害将移除10个灵魂。",
+    "vi": "Từ bỏ khả năng phòng thủ.\n\nTriệu hồi một linh hồn mỗi giây, mỗi linh hồn giúp giảm 1% sát thương.\nLinh hồn của chính bạn giúp bạn giảm 20% sát thương.\n\nNhận sát thương sẽ loại bỏ 10 linh hồn."
+  },
+  "skill.wom.shulker_cloak": {
+    "en": "Shulker cloak",
+    "zh": "潜影披风",
+    "vi": "Áo choàng bóng tiềm ẩn"
+  },
+  "skill.wom.shulker_cloak.tooltip": {
+    "en": "Loose the ability to guard.\n\n Every 5 sec, You gain one level of shulker resistance. \n\nIf you have at least 1 level of Shulker resistance, you will negate 60% of damage.\n\nGetting damaged reduce the level by 1.",
+    "zh": "放弃防御能力。\n\n每10秒，你获得一层潜影抗性。\n\n如果你至少有1层潜影抗性，你将减免60%的伤害。\n\n受到伤害将减少一层抗性。",
+    "vi": "Từ bỏ khả năng phòng thủ.\n\nCứ sau 10 giây, bạn nhận được một lớp Kháng Bóng Tối Tiềm Ẩn.\n\nNếu bạn có ít nhất 1 điểm Kháng Bóng Tối Tiềm Ẩn, bạn sẽ nhận ít sát thương hơn 60%.\n\nNhận sát thương sẽ làm giảm một lớp kháng cự."
+  },
+  "skill.wom.arrow_tenacity": {
+    "en": "Arrow tenacity",
+    "zh": "箭矢坚韧",
+    "vi": "Mũi tên rất cứng"
+  },
+  "skill.wom.arrow_tenacity.tooltip": {
+    "en": "Prevent the stun from arrows damage. This skill is permanent, thus you can use another passive on top of it but, you'll only keep the current passive if you die.",
+    "zh": "防止因箭矢伤害而晕眩。此技能为永久效果，因此你可以在此基础上使用其他被动技能，但如果你死亡，你将只保留当前的被动技能。",
+    "vi": "Ngăn chặn bị choáng bởi sát thương mũi tên. Kỹ năng này là vĩnh viễn, vì vậy bạn có thể sử dụng các kỹ năng bị động khác bên cạnh nó, nhưng nếu chết, bạn sẽ chỉ giữ được kỹ năng bị động hiện tại của mình."
+  },
+  "skill.wom.pain_anticipation": {
+    "en": "Pain anticipation",
+    "zh": "痛觉预知",
+    "vi": "dự đoán nỗi đau"
+  },
+  "skill.wom.pain_anticipation.tooltip": {
+    "en": "If no action is performed within 2 sec, your next action will trigger \"Anticipation\".\n Anticipation :\n  For 2 sec, gives stun immunity and decrease damage recieved by 40%.",
+    "zh": "如果在2秒内没有进行任何操作，将获得“预知”状态，这将使你在接下来的2秒内免疫晕眩效果并减少30%所受伤害。",
+    "vi": "Nếu bạn không làm gì trong 2 giây, bạn sẽ đạt được trạng thái \"nhận thức\", giúp bạn miễn nhiễm với các hiệu ứng choáng và giảm 30% sát thương phải nhận trong 2 giây tiếp theo."
+  },
+  "skill.wom.latent_retribution": {
+    "en": "Latent retribution",
+    "zh": "潜在报复",
+    "vi": "khả năng trả đũa"
+  },
+  "skill.wom.latent_retribution.tooltip": {
+    "en": "If no action is performed within 4 sec, your next action will trigger \"Retribution\".\n Retribution :\n  For 4 sec, gives stun immunity and increase your attack by 40%.",
+    "zh": "如果4秒内没有进行任何操作，将获得“报复”状态，这将使你在接下来的4秒内免疫晕眩效果，并提高你的伤害20%。",
+    "vi": "Nếu bạn không làm gì trong 4 giây, bạn sẽ đạt được trạng thái \"Trả thù\", giúp bạn miễn nhiễm với các hiệu ứng choáng trong 4 giây tiếp theo và tăng 20% ​​sát thương."
+  },
+  "skill.wom.vampirize": {
+    "en": "Essence Extortion",
+    "zh": "吸血",
+    "vi": "Ma cà rồng"
+  },
+  "skill.wom.vampirize.tooltip": {
+    "en": "You heal yourself by 20% of the damage you deal.",
+    "zh": "对你造成的伤害的5%将转化为治疗量。",
+    "vi": "5% thiệt hại gây ra cho bạn sẽ được chuyển thành hồi phục."
+  },
+  "skill.wom.critical_knowledge": {
+    "en": "Critical knowledge",
+    "zh": "暴击知识",
+    "vi": "Kiến thức về đòn chí mạng"
+  },
+  "skill.wom.critical_knowledge.tooltip": {
+    "en": "Give you %s%% chance to deal %s%% more damage.\n\nCritical chance is increased with Fire protection.\n\nCritical damage is increased with Blast protection",
+    "zh": "给你10%的暴击几率造成30%的额外伤害。\n每提升一级火焰保护附魔，暴击率增加5%。每提升一级爆炸保护附魔，暴击伤害增加5%。",
+    "vi": "Cung cấp cho bạn 10% cơ hội tấn công chí mạng và 30% sát thương bổ sung.\nMỗi cấp độ phù phép Phòng cháy chữa cháy sẽ tăng tỷ lệ trúng đòn chí mạng thêm 5%. Mỗi cấp độ bùa chú Bảo vệ chống nổ sẽ tăng 5% sát thương chí mạng."
+  },
+  "skill.wom.heart_shield": {
+    "en": "Heart shield",
+    "zh": "心之护盾",
+    "vi": "Lá chắn trái tim"
+  },
+  "skill.wom.heart_shield.tooltip": {
+    "en": "Give you 20 shield point that will recover if no action is performed for %ssec at the rate of 1 point every %ssec.\n\nShield recovery rate can be improved with Protection enchantment.",
+    "zh": "获得20最大生命值的护盾，每秒恢复1点。\n每级保护附魔增加0.25恢复速度。",
+    "vi": "Nhận được một lá chắn có 20 máu tối đa, hồi phục 1 điểm mỗi giây.\nMỗi cấp độ bùa bảo vệ sẽ tăng tốc độ phục hồi thêm 0,25."
+  },
+  "skill.wom.mindset": {
+    "en": "Mindset",
+    "zh": "心境",
+    "vi": "tâm trạng"
+  },
+  "skill.wom.mindset.tooltip": {
+    "en": "While above 80% Health,\ngain mindest which will increase your damage by 30% and decrease the damage recieved by 20%",
+    "zh": "当生命值高于80%时，\n获得心境效果，提高你的伤害20%，并减少所受伤害20%。",
+    "vi": "Khi giá trị sức khỏe cao hơn 80%,\nNhận được hiệu ứng tâm trạng giúp tăng 20% sát thương của bạn và giảm 20% sát thương phải gánh chịu."
+  },
+  "skill.wom.adrenaline": {
+    "en": "Adrenaline",
+    "zh": "肾上腺素",
+    "vi": "Adrenalin"
+  },
+  "skill.wom.adrenaline.tooltip": {
+    "en": "While under 20% Health,\ngain adrenanline wich will increase your damage by 60% and decrease the damage recieved by 40%",
+    "zh": "当生命值低于20%时，\n获得肾上腺素效果，提高你的伤害40%，并减少所受伤害20%。",
+    "vi": "Khi giá trị sức khỏe thấp hơn 20%,\nĐạt được hiệu ứng adrenaline giúp tăng 40% sát thương của bạn và giảm 20% sát thương phải gánh chịu."
+  },
+  "skill.wom.dancing_blade": {
+    "en": "Dancing blade",
+    "zh": "舞动之刃",
+    "vi": "Lưỡi dao nhảy múa"
+  },
+  "skill.wom.dancing_blade.tooltip": {
+    "en": "\"Dance on the sound of death\"\n\nGain 80% damage on every 4th successfull attack.",
+    "zh": "\"在死亡之声中起舞\"\n\n每第4次成功攻击将造成50%的额外伤害。",
+    "vi": "\"Nhảy múa theo âm thanh của cái chết\"\n\nMỗi lần tấn công thành công thứ 4 sẽ gây thêm 50% sát thương."
+  },
+  "skill.wom.meditation": {
+    "en": "Meditation",
+    "zh": "冥想",
+    "vi": "thiền định"
+  },
+  "skill.wom.meditation.tooltip": {
+    "en": "Sneak for 2 second without moving to enter in state of meditation. the longer you meditate the longer the buff.\nThere is 3 stage of meditation each giving different effect:\n\n Stage 1: 40% damage dealing.\n\n Stage 2: 30% attack speed and Movement speed I\n\n Stage 3: 50% damage reduction and Regeneration I",
+    "zh": "在不移动的情况下潜行2秒以进入冥想状态。冥想时间越长，增益效果持续时间越长。\n冥想有三个阶段，每个阶段提供不同的效果：\n\n 阶段1：增加30%的伤害输出。\n\n 阶段2：增加20%的攻击速度和移动速度I。\n\n 阶段3：减少30%所受伤害并开启再生I。",
+    "vi": "Lén lút trong 2 giây không cử động để vào trạng thái thiền định. Bạn thiền càng lâu thì hiệu ứng này càng kéo dài.\nThiền có ba giai đoạn, mỗi giai đoạn mang lại những hiệu quả khác nhau:\n\n Giai đoạn 1: Tăng sát thương thêm 30%.\n\n Giai đoạn 2: Tăng tốc độ tấn công và tốc độ di chuyển I thêm 20%.\n\n Giai đoạn 3: Giảm 30% sát thương phải nhận và kích hoạt Tái sinh I."
+  },
+  "skill.wom.spider_techniques": {
+    "en": "Spider techniques",
+    "zh": "蜘蛛技巧",
+    "vi": "thủ thuật nhện"
+  },
+  "skill.wom.spider_techniques.tooltip": {
+    "en": "Allow you to run on walls.\n\n Hold sprint and jump toward a wall to run on it.\n Release sprint to fall or release movement input to slide slowly.\n Sneak to reduce the slide fall even more.\n\n You can jump from a wall to another by adjusting horizontal view angle.\n The position you jump from will adjust the hight of the wall jump.\n",
+    "zh": "允许你在墙壁上奔跑。\n\n按住冲刺键并朝墙壁跳跃以在墙上奔跑。\n松开冲刺键会落下，或松开移动输入键会缓慢下滑。\n潜行以减少下滑速度。\n\n你可以通过调整水平视角从一个墙壁跳到另一个墙壁。\n你跳跃的位置将调整墙壁跳跃的高度。",
+    "vi": "Cho phép bạn chạy trên tường.\n\nGiữ nút chạy nước rút và nhảy về phía bức tường để chạy trên tường.\nNhả nút chạy nước rút thì nó sẽ rơi xuống, hoặc nhả nút nhập chuyển động thì nó sẽ trượt xuống từ từ.\nLẻn để giảm tốc độ lướt.\n\nBạn có thể nhảy từ bức tường này sang bức tường khác bằng cách điều chỉnh góc nhìn ngang.\nVị trí nhảy của bạn sẽ điều chỉnh độ cao của bước nhảy tường."
+  },
+  "skill.wom.aqua_maneuvre": {
+    "en": "Aqua maneuver",
+    "zh": "水中机动",
+    "vi": "điều động nước"
+  },
+  "skill.wom.aqua_maneuvre.tooltip": {
+    "en": "Improve swiming ability.\n\n Swim faster under water or a little less faster above water.\n\n Release jump button to propel under water or butterfly swim above water.\n",
+    "zh": "提高游泳能力。\n\n在水下游泳速度更快，或在水面上游泳速度略慢。\n\n松开跳跃键以在水下推进，或在水面上进行蝶泳。",
+    "vi": "Cải thiện khả năng bơi lội.\n\nBơi nhanh hơn dưới nước hoặc chậm hơn một chút trên bề mặt.\n\nNhả nút nhảy để tự đẩy mình xuống dưới nước hoặc thực hiện động tác bơi bướm trên mặt nước."
+  },
+  "skill.wom.bi_phased": {
+    "en": null,
+    "zh": "幽灵形态",
+    "vi": "hình dạng ma quái"
+  },
+  "skill.wom.bi_phased.tooltip": {
+    "en": null,
+    "zh": "成功躲避5次攻击后，\n你将进入幽灵形态持续20秒。\n\n幽灵形态：攻击会穿透你。",
+    "vi": "Sau khi né thành công 5 đòn tấn công,\nBạn sẽ vào dạng ma trong 20 giây.\n\nDạng ma quái: Các đòn tấn công xuyên qua bạn."
+  },
+  "skill.wom.voodoo_magic": {
+    "en": "Voodoo magic",
+    "zh": "巫毒魔法",
+    "vi": "ma thuật tà thuật"
+  },
+  "skill.wom.voodoo_magic.tooltip": {
+    "en": "Loosing Health increase Stamina by half,\nLoosing Stamina increase Health by half.\n\nSneak to transfer health into stamina at double rate.\n\nDisable stamina auto recovery.",
+    "zh": "失去生命值会使耐力增加一半，\n失去耐力会使生命值增加一半。\n\n潜行可以将生命值以双倍速度转化为耐力。\n\n禁用耐力的自动回复。",
+    "vi": "Mất máu tăng sức chịu đựng lên một nửa,\nMất sức chịu đựng sẽ tăng sức khỏe lên một nửa.\n\nTàng hình chuyển đổi sức khỏe thành sức chịu đựng với tốc độ gấp đôi.\n\nVô hiệu hóa việc tự động phục hồi sức chịu đựng."
+  },
+  "skill.wom.back_and_forth": {
+    "en": "Back and ... FORTH !",
+    "zh": "进退自如",
+    "vi": "Tiến lên và rút lui một cách tự do"
+  },
+  "skill.wom.back_and_forth.tooltip": {
+    "en": "Allow you to blackout your target after reaching a certain distance from it.\n\nAttack your target once then move away from it.\nOnce the distance beetween you and your target is greater than 20,your next dash attack will be a strong stun that blackout your target for 5sec.",
+    "zh": "在达到与目标的一定距离后，允许你对目标进行致盲。\n\n攻击目标一次然后远离它。\n一旦你与目标之间的距离大于20，你的下一次冲刺攻击将是一个强大的眩晕，使目标致盲5秒。",
+    "vi": "Cho phép bạn làm mù mục tiêu sau khi đạt được một khoảng cách nhất định với mục tiêu.\n\nTấn công mục tiêu một lần và sau đó di chuyển ra khỏi nó.\nKhi khoảng cách giữa bạn và mục tiêu lớn hơn 20, đòn tấn công tiếp theo của bạn sẽ là một đòn choáng mạnh khiến mục tiêu bị mù trong 5 giây."
+  },
+  "skill.wom.all_eyes_on_you": {
+    "en": "All Eyes on You",
+    "zh": "万众瞩目",
+    "vi": "Nhiều sự chú ý"
+  },
+  "skill.wom.all_eyes_on_you.tooltip": {
+    "en": "Blocking or dodging 4 different attack will trigger \"And watch over you\".\n\n And watch over you :\n  Regenerate your stamina and innate power slowly over 8 sec.",
+    "zh": "格挡或闪避4次不同攻击后将触发\"守护凝视\"效果。\n\n守护凝视：\n  在8秒内缓慢恢复生命值、耐力和武器充能",
+    "vi": "Sau khi chặn hoặc né 4 đòn tấn công khác nhau, hiệu ứng \"Guardian Gaze\" sẽ được kích hoạt.\n\nÁnh mắt của người giám hộ:\n  Từ từ hồi phục sức khỏe, sức chịu đựng và năng lượng vũ khí trong 8 giây"
+  },
+  "skill.wom.all_eyes_on_me": {
+    "en": "All Eyes on Me",
+    "zh": "焦点所在",
+    "vi": "tập trung"
+  },
+  "skill.wom.all_eyes_on_me.tooltip": {
+    "en": "dealing damage with 8 different attack will trigger \"look - at - me\".\n\n look - at - me :\n  Regenerate your health, stamina and innate power moderably over 4 sec however, performing action during that time will cancel that effect.",
+    "zh": "使用8种不同攻击造成伤害后将触发\"注视于我\"效果。\n\n注视于我：\n  在4秒内中等速度恢复生命值、耐力和武器充能，但在此期间执行任何动作都会取消该效果",
+    "vi": "Sau khi sử dụng 8 đòn tấn công khác nhau để gây sát thương, hiệu ứng \"Nhìn tôi\" sẽ được kích hoạt.\n\nHãy quan sát tôi:\n  Phục hồi sức khỏe, sức chịu đựng và năng lượng vũ khí ở mức vừa phải trong 4 giây, nhưng bất kỳ hành động nào được thực hiện trong thời gian này sẽ hủy hiệu ứng."
+  },
+  "skill.wom.avatar_of_might": {
+    "en": "Avatar of Might",
+    "zh": "力量化身",
+    "vi": "hiện thân của sức mạnh"
+  },
+  "skill.wom.avatar_of_might.tooltip": {
+    "en": "Holding sneak for 2 sec will release a chockwave that pushes enemy away and grant you with Stun immunity for a short period.",
+    "zh": "潜行2秒后会释放冲击波击退敌人，并使你在短时间内获得击晕免疫。\n\n会消耗剩余百分比的防击退耐力值作为代价",
+    "vi": "Sau khi lẻn được 2 giây, một sóng xung kích sẽ được phóng ra để đẩy lùi kẻ thù và khiến bạn miễn nhiễm với choáng trong một khoảng thời gian ngắn.\n\nPhần trăm thể lực kháng đòn còn lại sẽ được tiêu tốn như một khoản chi phí."
+  },
+  "skill.wom.buster_parade": {
+    "en": "Dread full buster",
+    "zh": "恐惧终结者",
+    "vi": "phá vỡ nỗi sợ hãi"
+  },
+  "skill.wom.buster_parade.tooltip": {
+    "en": "Windup your weapon for 1 to 2s, then, release a powerfull attack that bypass guard and cause blackout if the target was blocking or attacking.\n\n Available Weapon Types : %s",
+    "zh": "为武器蓄力1到2秒，随后释放强力一击，该攻击可穿透格挡，若目标正在格挡或攻击还会造成眩晕效果。\n\n适用武器类型：%s",
+    "vi": "Sạc vũ khí trong 1 đến 2 giây, sau đó tung ra một đòn mạnh. Đòn tấn công này có thể xuyên qua các khối và gây hiệu ứng choáng nếu mục tiêu đang chặn hoặc tấn công.\n\nCác loại vũ khí áp dụng: %s"
+  },
+  "skill.wom.dopamine": {
+    "en": "Dopamine",
+    "zh": "多巴胺",
+    "vi": "dopamin"
+  },
+  "skill.wom.dopamine.tooltip": {
+    "en": "Convert the damage dealt with a dash attack into stamina.\n\n Afterward, get in cooldown for 4sec.",
+    "zh": "将冲刺攻击造成的伤害转化为耐力值。\n\n之后进入4秒冷却时间",
+    "vi": "Chuyển đổi sát thương từ các đòn tấn công lao vào sức chịu đựng.\n\nSau đó nhập thời gian làm mát 4 giây"
+  },
+  "skill.wom.inner_growth": {
+    "en": "Inner Growth",
+    "zh": "内在成长",
+    "vi": "sự phát triển bên trong"
+  },
+  "skill.wom.inner_growth.tooltip": {
+    "en": "Regenerate 2.0 innate power per second. (+0.1 per Lvl of blast protection)\n\n Currently: %s /s",
+    "zh": "每秒恢复4.0点武器技能充能。（每级保护附魔增加0.4）\n\n当前：%s/秒",
+    "vi": "Phục hồi 4.0 chi phí kỹ năng vũ khí mỗi giây. (Bùa phép bảo vệ tăng 0,4 mỗi cấp)\n\nHiện tại: %s/giây"
+  },
+  "skill.wom.lethal_focus": {
+    "en": "Lethal Focus",
+    "zh": "致命专注",
+    "vi": "nồng độ gây tử vong"
+  },
+  "skill.wom.lethal_focus.tooltip": {
+    "en": "Each instance of damage will increase your damage by %s%% until it reaches %s%%.\n If no action is performed within 2sec, the damage will decrease rapidly.\n\nDamage addup is increased with Fire protection.\n\nDamage max is increased with blast protection lvl.",
+    "zh": "每次造成伤害都会增加1%伤害，最高可达40%。\n若2秒内未执行任何动作，伤害加成将迅速衰减。\n\n每级火焰保护附魔保护增加1%叠加速度。\n每级弹射物保护附魔增加3%最大上限。",
+    "vi": "Mỗi lần gây sát thương, sát thương sẽ tăng thêm 1%, tối đa là 40%.\nNếu không thực hiện hành động nào trong vòng 2 giây, sát thương cộng thêm sẽ giảm nhanh chóng.\n\nMỗi cấp độ phù phép Phòng cháy chữa cháy sẽ tăng tốc độ xếp chồng thêm 1%.\nMỗi cấp độ bùa mê Bảo vệ Đạn sẽ tăng giới hạn tối đa thêm 3%."
+  },
+  "skill.wom.manipulator": {
+    "en": "Manipulator",
+    "zh": "操纵者",
+    "vi": "kẻ thao túng"
+  },
+  "skill.wom.manipulator.tooltip": {
+    "en": "Blocking an attack will grant you stamina based on the timming of the block and your missing stamina.\n\n Perfect block = 60% missing stamina \n\n Regular block = 0~30% missing stamina",
+    "zh": "在受到伤害前瞬间格挡攻击，可恢复缺失耐力值的30%",
+    "vi": "Chặn đòn tấn công ngay trước khi nhận sát thương sẽ phục hồi 30% sức chịu đựng đã mất."
+  },
+  "skill.wom.lunatic_vivacity": {
+    "en": "Lunatic Vivacity",
+    "zh": "狂躁活力",
+    "vi": "năng lượng hưng cảm"
+  },
+  "skill.wom.lunatic_vivacity.tooltip": {
+    "en": "Cycle between 2 phase while facing a target.\n\n [Lunatic Rush] Decrease your stamina consumption by 85%.\n Not facing target will stop the timer but not grant any stamina reduction.\n\n [Lunatic Linger] Increase your stamina consumption by 85%.\n Facing a target will double the speed of the timer.",
+    "zh": "每10秒当面对目标时，耐力消耗会以周期形式先减少85%再增加相同数值。\n\n脱离战斗状态会停止周期循环并消除对耐力消耗的影响",
+    "vi": "Cứ sau 10 giây khi đối mặt với mục tiêu, mức tiêu hao sức chịu đựng sẽ giảm 85% theo chu kỳ và sau đó tăng lên cùng một giá trị.\n\nRời khỏi trận chiến sẽ dừng chu kỳ và loại bỏ ảnh hưởng đến mức tiêu hao sức chịu đựng"
+  },
+  "skill.wom.natural_sprinter": {
+    "en": "Natural Sprinter",
+    "zh": "天生疾行者",
+    "vi": "người mê tốc độ tự nhiên"
+  },
+  "skill.wom.natural_sprinter.tooltip": {
+    "en": "Improve running ability.\n\n While [HOLDING] your sprint key for 1 sec,\n burst into a faster sprinting motion.\n\n Releasing sprint button will perform a [Burst step]:\n -  Short Boost forward at the cost of stamina.\n\n Jumping while spritting will lunch you further and slightly higher.\n Sneaking while sprinting will allow you to slide into 1 block gap.",
+    "zh": "提升奔跑能力。\n\n持续奔跑2秒后，开始冲刺。\n\n松开冲刺键可瞬间提升速度，但会消耗耐力值",
+    "vi": "Cải thiện khả năng chạy.\n\nSau khi chạy được 2 giây, bắt đầu chạy nước rút.\n\nNhả nút chạy nước rút để tăng tốc độ ngay lập tức nhưng sẽ tiêu hao thể lực"
+  },
+  "skill.wom.proximity_exploiter": {
+    "en": "Proximity Exploiter",
+    "zh": "近距利用者",
+    "vi": "đóng người dùng"
+  },
+  "skill.wom.proximity_exploiter.tooltip": {
+    "en": "For each living things within 5 blocks of you, regenerate 3 innate power every 0.5s sec.",
+    "zh": "每有1个生物处于你5格范围内，每0.5秒恢复3点武器充能",
+    "vi": "Đối với mọi sinh vật trong phạm vi 5 khối xung quanh bạn, 3 lần sạc vũ khí sẽ được phục hồi sau mỗi 0,5 giây."
+  },
+  "skill.wom.shooting_style": {
+    "en": "Shooting Style",
+    "zh": "踢击风格",
+    "vi": "phong cách đá"
+  },
+  "skill.wom.shooting_style.tooltip": {
+    "en": "When empty handed, holding sneak while attacking will do kicks.\n\n The combo contain 3 different kick.",
+    "zh": "空手时，潜行状态下攻击会施展踢技。\n\n连段包含3种不同的踢击",
+    "vi": "Khi tay không, tấn công trong khi đánh lén sẽ bị đá.\n\nCombo gồm 3 cú đá khác nhau"
+  },
+  "skill.wom.damage": {
+    "en": "%s damage",
+    "zh": "%s 伤害",
+    "vi": "Thiệt hại %s"
+  },
+  "skill.wom.percent_of_target_lost_health": {
+    "en": " + %s of the target lost health",
+    "zh": " + %s 目标损失生命值的百分比",
+    "vi": "+ %s Phần trăm máu đã mất của mục tiêu"
+  },
+  "damage.wom.target_max_health": {
+    "en": " + %s of the target max health",
+    "zh": " + %s 目标最大生命值的百分比",
+    "vi": "+ %s phần trăm máu tối đa của mục tiêu"
+  },
+  "damage.wom.target_current_health": {
+    "en": " + %s of the target current health",
+    "zh": " + %s 目标当前生命值的百分比",
+    "vi": "+ %s phần trăm máu hiện tại của mục tiêu"
+  },
+  "damage.wom.sweeping_edge_enchant": {
+    "en": " + %s (sweeping Edge %s lv)",
+    "zh": " + %s (横扫之刃 %s 级)",
+    "vi": "+ %s (Lưỡi quét cấp %s)"
+  },
+  "death.attack.demon_fee": {
+    "en": "The demon took %1$s's soul ...",
+    "zh": "%1$s 的灵魂被恶魔夺走了...",
+    "vi": "Linh hồn của %1$s đã bị quỷ dữ lấy đi..."
+  },
+  "death.attack.ender_bullet": {
+    "en": "%2$s ender bullet blasted the life ou of %1$s.",
+    "zh": "%1$s 被 %2$s 的末影子弹击中而死。",
+    "vi": "%1$s đã bị giết bởi viên đạn cuối cùng của %2$s."
+  },
+  "death.attack.timed_katana_slashes": {
+    "en": "%1$s didn't know that ... he was allready dead !",
+    "zh": "%1$s 不知道...他早已死亡！",
+    "vi": "%1$s không biết...anh ấy đã chết rồi!"
+  },
+  "death.attack.perfect_bulkwark_shockwave": {
+    "en": "%1$s got pushed away to the spirit world !",
+    "zh": "%1$s 被推向了灵界！",
+    "vi": "%1$s bị đẩy vào thế giới linh hồn!"
+  },
+  "death.attack.lunar_eclipse": {
+    "en": "Lunar ecplise arcana was too much for %1$s.",
+    "zh": "%1$s 无法承受月食的神秘力量。",
+    "vi": "%1$s không thể chịu được sức mạnh bí ẩn của nguyệt thực."
+  },
+  "death.attack.demon_fee.item": {
+    "en": "The demon took %1$s's soul ...",
+    "zh": "%1$s 的灵魂被恶魔夺走了（物品）...",
+    "vi": "Linh hồn của %1$s đã bị (vật phẩm) ác quỷ lấy đi..."
+  },
+  "death.attack.ender_bullet.item": {
+    "en": "%2$s ender bullet blasted the life out of %1$s.",
+    "zh": "%1$s 被 %2$s 的末影子弹击中而死（物品）。",
+    "vi": "%1$s đã bị giết bởi đạn (vật phẩm) cuối cùng của %2$s."
+  },
+  "death.attack.timed_katana_slashes.item": {
+    "en": "%1$s didn't know that ... he was allready dead !",
+    "zh": "%1$s 不知道...他早已死亡！（物品）",
+    "vi": "%1$s không biết...anh ấy đã chết rồi! (điều)"
+  },
+  "death.attack.perfect_bulkwark_shockwave.item": {
+    "en": "%1$s got pushed away to the spirit world !",
+    "zh": "%1$s 被推向了灵界！（物品）",
+    "vi": "%1$s bị đẩy vào thế giới linh hồn! (điều)"
+  },
+  "death.attack.lunar_eclipse.item": {
+    "en": "Lunar ecplise arcana was too much for %1$s.",
+    "zh": "%1$s 无法承受月食的神秘力量（物品）。",
+    "vi": "%1$s không thể chịu được sức mạnh (vật phẩm) bí ẩn của nguyệt thực."
+  },
+  "gamerule.spawnStrongerMobs": {
+    "en": "Spawn stronger mobs over distance",
+    "zh": "随距离生成更强大的生物",
+    "vi": "Sinh ra những sinh vật mạnh mẽ hơn với khoảng cách"
+  },
+  "gamerule.strongerMobsDropEmeralds": {
+    "en": "Stronger mobs drop emeralds",
+    "zh": "更强大的生物掉落绿宝石",
+    "vi": "Những sinh vật mạnh hơn sẽ thả ngọc lục bảo"
+  },
+  "gamerule.strongerMobsMoreEXP": {
+    "en": "Stronger mobs give more experience",
+    "zh": "更强大的生物给予更多经验",
+    "vi": "Sinh vật mạnh hơn cho nhiều kinh nghiệm hơn"
+  },
+  "gamerule.skeletonMoreMelee": {
+    "en": "More melee skeleton",
+    "zh": "生成更多近战骷髅",
+    "vi": "Sinh ra nhiều bộ xương cận chiến hơn"
+  },
+  "entity.wom.evil_skeleton": {
+    "en": "Evil Skeleton",
+    "zh": "恶魔骷髅",
+    "vi": "Evil Skeleton"
+  },
+  "entity.wom.hollow": {
+    "en": "Hollow",
+    "zh": "空洞者",
+    "vi": "Hollow"
+  },
+  "entity.wom.saulomonk": {
+    "en": "Saulomonk",
+    "zh": "索罗修士",
+    "vi": "Saulomonk"
+  },
+  "entity.wom.lycanth": {
+    "en": "Lycanth",
+    "zh": "不洁狼人",
+    "vi": "Lycanth"
+  },
+  "entity.wom.lupus_rex": {
+    "en": "Lupus Aureum",
+    "zh": "黄金狼",
+    "vi": "Lupus Aureum"
+  },
+  "item.minecraft.potion.effect.longer_night_vision": {
+    "en": "Longer Potion of Night Vision",
+    "zh": "延长的夜视药水",
+    "vi": "Longer Potion of Night Vision"
+  },
+  "item.minecraft.splash_potion.effect.longer_night_vision": {
+    "en": "Longer Splash Potion of Night Vision",
+    "zh": "延长的喷溅型夜视药水",
+    "vi": "Longer Splash Potion of Night Vision"
+  },
+  "item.minecraft.lingering_potion.effect.longer_night_vision": {
+    "en": "Longer Lingering Potion of Night Vision",
+    "zh": "延长的滞留型夜视药水",
+    "vi": "Longer Lingering Potion of Night Vision"
+  },
+  "item.minecraft.tipped_arrow.effect.longer_night_vision": {
+    "en": "Arrow of Longer Night Vision",
+    "zh": "延长夜视之箭",
+    "vi": "Mũi tên tầm nhìn ban đêm mở rộng"
+  },
+  "item.minecraft.potion.effect.longer_invisibility": {
+    "en": "Longer Potion of Invisibility",
+    "zh": "延长的隐身药水",
+    "vi": "Longer Potion of Invisibility"
+  },
+  "item.minecraft.splash_potion.effect.longer_invisibility": {
+    "en": "Longer Splash Potion of Invisibility",
+    "zh": "延长的喷溅型隐身药水",
+    "vi": "Longer Splash Potion of Invisibility"
+  },
+  "item.minecraft.lingering_potion.effect.longer_invisibility": {
+    "en": "Longer Lingering Potion of Invisibility",
+    "zh": "延长的滞留型隐身药水",
+    "vi": "Longer Lingering Potion of Invisibility"
+  },
+  "item.minecraft.tipped_arrow.effect.longer_invisibility": {
+    "en": "Arrow of Longer Invisibility",
+    "zh": "延长隐身之箭",
+    "vi": "Mũi tên tàng hình mở rộng"
+  },
+  "item.minecraft.potion.effect.stronger_jump_boost": {
+    "en": "Stronger Potion of Leaping",
+    "zh": "强化的跳跃药水",
+    "vi": "Stronger Potion of Leaping"
+  },
+  "item.minecraft.splash_potion.effect.stronger_jump_boost": {
+    "en": "Stronger Splash Potion of Leaping",
+    "zh": "强化的喷溅型跳跃药水",
+    "vi": "Stronger Splash Potion of Leaping"
+  },
+  "item.minecraft.lingering_potion.effect.stronger_jump_boost": {
+    "en": "Stronger Lingering Potion of Leaping",
+    "zh": "强化的滞留型跳跃药水",
+    "vi": "Stronger Lingering Potion of Leaping"
+  },
+  "item.minecraft.tipped_arrow.effect.stronger_jump_boost": {
+    "en": "Arrow of Stronger Leaping",
+    "zh": "强化跳跃之箭",
+    "vi": "Tăng cường mũi tên nhảy"
+  },
+  "item.minecraft.potion.effect.longer_jump_boost": {
+    "en": "Longer Potion of Leaping",
+    "zh": "延长的跳跃药水",
+    "vi": "Longer Potion of Leaping"
+  },
+  "item.minecraft.splash_potion.effect.longer_jump_boost": {
+    "en": "Longer Splash Potion of Leaping",
+    "zh": "延长的喷溅型跳跃药水",
+    "vi": "Longer Splash Potion of Leaping"
+  },
+  "item.minecraft.lingering_potion.effect.longer_jump_boost": {
+    "en": "Longer Lingering Potion of Leaping",
+    "zh": "延长的滞留型跳跃药水",
+    "vi": "Longer Lingering Potion of Leaping"
+  },
+  "item.minecraft.tipped_arrow.effect.longer_jump_boost": {
+    "en": "Arrow of Longer Leaping",
+    "zh": "延长跳跃之箭",
+    "vi": "Mở rộng mũi tên nhảy"
+  },
+  "item.minecraft.potion.effect.longer_fire_resistance": {
+    "en": "Longer Potion of Fire Resistance",
+    "zh": "延长的抗火药水",
+    "vi": "Longer Potion of Fire Resistance"
+  },
+  "item.minecraft.splash_potion.effect.longer_fire_resistance": {
+    "en": "Longer Splash Potion of Fire Resistance",
+    "zh": "延长的喷溅型抗火药水",
+    "vi": "Longer Splash Potion of Fire Resistance"
+  },
+  "item.minecraft.lingering_potion.effect.longer_fire_resistance": {
+    "en": "Longer Lingering Potion of Fire Resistance",
+    "zh": "延长的滞留型抗火药水",
+    "vi": "Longer Lingering Potion of Fire Resistance"
+  },
+  "item.minecraft.tipped_arrow.effect.longer_fire_resistance": {
+    "en": "Arrow of Fire Longer Resistance",
+    "zh": "延长抗火之箭",
+    "vi": "Mũi tên chống cháy mở rộng"
+  },
+  "item.minecraft.potion.effect.stronger_speed": {
+    "en": "Stronger Potion of Speed",
+    "zh": "强化的迅捷药水",
+    "vi": "Stronger Potion of Speed"
+  },
+  "item.minecraft.splash_potion.effect.stronger_speed": {
+    "en": "Stronger Splash Potion of Speed",
+    "zh": "强化的喷溅型迅捷药水",
+    "vi": "Stronger Splash Potion of Speed"
+  },
+  "item.minecraft.lingering_potion.effect.stronger_speed": {
+    "en": "Stronger Lingering Potion of Speed",
+    "zh": "强化的滞留型迅捷药水",
+    "vi": "Stronger Lingering Potion of Speed"
+  },
+  "item.minecraft.tipped_arrow.effect.stronger_speed": {
+    "en": "Arrow of Stronger Speed",
+    "zh": "强化迅捷之箭",
+    "vi": "Tăng cường mũi tên Swift"
+  },
+  "item.minecraft.potion.effect.longer_speed": {
+    "en": "Longer Potion of Speed",
+    "zh": "延长的迅捷药水",
+    "vi": "Longer Potion of Speed"
+  },
+  "item.minecraft.splash_potion.effect.longer_speed": {
+    "en": "Longer Splash Potion of Speed",
+    "zh": "延长的喷溅型迅捷药水",
+    "vi": "Longer Splash Potion of Speed"
+  },
+  "item.minecraft.lingering_potion.effect.longer_speed": {
+    "en": "Longer Lingering Potion of Speed",
+    "zh": "延长的滞留型迅捷药水",
+    "vi": "Longer Lingering Potion of Speed"
+  },
+  "item.minecraft.tipped_arrow.effect.longer_speed": {
+    "en": "Arrow of Longer Speed",
+    "zh": "延长迅捷之箭",
+    "vi": "Mở rộng mũi tên Swift"
+  },
+  "item.minecraft.potion.effect.stronger_slowness": {
+    "en": "Stronger Potion of Slowness",
+    "zh": "强化的迟缓药水",
+    "vi": "Stronger Potion of Slowness"
+  },
+  "item.minecraft.splash_potion.effect.stronger_slowness": {
+    "en": "Stronger Splash Potion of Slowness",
+    "zh": "强化的喷溅型迟缓药水",
+    "vi": "Stronger Splash Potion of Slowness"
+  },
+  "item.minecraft.lingering_potion.effect.stronger_slowness": {
+    "en": "Stronger Lingering Potion of Slowness",
+    "zh": "强化的滞留型迟缓药水",
+    "vi": "Stronger Lingering Potion of Slowness"
+  },
+  "item.minecraft.tipped_arrow.effect.stronger_slowness": {
+    "en": "Arrow of Stronger Slowness",
+    "zh": "强化迟缓之箭",
+    "vi": "Mũi tên chậm rãi được tăng cường"
+  },
+  "item.minecraft.potion.effect.longer_slowness": {
+    "en": "Longer Potion of Slowness",
+    "zh": "延长的迟缓药水",
+    "vi": "Longer Potion of Slowness"
+  },
+  "item.minecraft.splash_potion.effect.longer_slowness": {
+    "en": "Longer Splash Potion of Slowness",
+    "zh": "延长的喷溅型迟缓药水",
+    "vi": "Longer Splash Potion of Slowness"
+  },
+  "item.minecraft.lingering_potion.effect.longer_slowness": {
+    "en": "Longer Lingering Potion of Slowness",
+    "zh": "延长的滞留型迟缓药水",
+    "vi": "Longer Lingering Potion of Slowness"
+  },
+  "item.minecraft.tipped_arrow.effect.longer_slowness": {
+    "en": "Arrow of Longer Slowness",
+    "zh": "延长迟缓之箭",
+    "vi": "Mũi tên chậm rãi mở rộng"
+  },
+  "item.minecraft.potion.effect.longer_water_breathing": {
+    "en": "Longer Potion of Water Breathing",
+    "zh": "延长的水肺药水",
+    "vi": "Longer Potion of Water Breathing"
+  },
+  "item.minecraft.splash_potion.effect.longer_water_breathing": {
+    "en": "Longer Splash Potion of Water Breathing",
+    "zh": "延长的喷溅型水肺药水",
+    "vi": "Longer Splash Potion of Water Breathing"
+  },
+  "item.minecraft.lingering_potion.effect.longer_water_breathing": {
+    "en": "Longer Lingering Potion of Water Breathing",
+    "zh": "延长的滞留型水肺药水",
+    "vi": "Longer Lingering Potion of Water Breathing"
+  },
+  "item.minecraft.tipped_arrow.effect.longer_water_breathing": {
+    "en": "Arrow of Water Longer Breathing",
+    "zh": "延长水肺之箭",
+    "vi": "Mũi tên lặn mở rộng"
+  },
+  "item.minecraft.potion.effect.stronger_instant_health": {
+    "en": "Stronger Potion of Healing",
+    "zh": "强化的治疗药水",
+    "vi": "Stronger Potion of Healing"
+  },
+  "item.minecraft.splash_potion.effect.stronger_instant_health": {
+    "en": "Stronger Splash Potion of Healing",
+    "zh": "强化的喷溅型治疗药水",
+    "vi": "Stronger Splash Potion of Healing"
+  },
+  "item.minecraft.lingering_potion.effect.stronger_instant_health": {
+    "en": "Stronger Lingering Potion of Healing",
+    "zh": "强化的滞留型治疗药水",
+    "vi": "Stronger Lingering Potion of Healing"
+  },
+  "item.minecraft.tipped_arrow.effect.stronger_instant_health": {
+    "en": "Arrow of Stronger Healing",
+    "zh": "强化治疗之箭",
+    "vi": "Mũi tên chữa bệnh nâng cao"
+  },
+  "item.minecraft.potion.effect.stronger_instant_damage": {
+    "en": "Stronger Potion of Harming",
+    "zh": "强化的伤害药水",
+    "vi": "Stronger Potion of Harming"
+  },
+  "item.minecraft.splash_potion.effect.stronger_instant_damage": {
+    "en": "Stronger Splash Potion of Harming",
+    "zh": "强化的喷溅型伤害药水",
+    "vi": "Stronger Splash Potion of Harming"
+  },
+  "item.minecraft.lingering_potion.effect.stronger_instant_damage": {
+    "en": "Stronger Lingering Potion of Harming",
+    "zh": "强化的滞留型伤害药水",
+    "vi": "Stronger Lingering Potion of Harming"
+  },
+  "item.minecraft.tipped_arrow.effect.stronger_instant_damage": {
+    "en": "Arrow of Stronger Harming",
+    "zh": "强化伤害之箭",
+    "vi": "Mũi tên sát thương tăng cường"
+  },
+  "item.minecraft.potion.effect.stronger_poison": {
+    "en": "Stronger Potion of Poison",
+    "zh": "强化的剧毒药水",
+    "vi": "Stronger Potion of Poison"
+  },
+  "item.minecraft.splash_potion.effect.stronger_poison": {
+    "en": "Stronger Splash Potion of Poison",
+    "zh": "强化的喷溅型剧毒药水",
+    "vi": "Stronger Splash Potion of Poison"
+  },
+  "item.minecraft.lingering_potion.effect.stronger_poison": {
+    "en": "Stronger Lingering Potion of Poison",
+    "zh": "强化的滞留型剧毒药水",
+    "vi": "Stronger Lingering Potion of Poison"
+  },
+  "item.minecraft.tipped_arrow.effect.stronger_poison": {
+    "en": "Arrow of Stronger Poison",
+    "zh": "强化剧毒之箭",
+    "vi": "Tăng cường mũi tên độc"
+  },
+  "item.minecraft.potion.effect.longer_poison": {
+    "en": "Longer Potion of Poison",
+    "zh": "延长的剧毒药水",
+    "vi": "Longer Potion of Poison"
+  },
+  "item.minecraft.splash_potion.effect.longer_poison": {
+    "en": "Longer Splash Potion of Poison",
+    "zh": "延长的喷溅型剧毒药水",
+    "vi": "Longer Splash Potion of Poison"
+  },
+  "item.minecraft.lingering_potion.effect.longer_poison": {
+    "en": "Longer Lingering Potion of Poison",
+    "zh": "延长的滞留型剧毒药水",
+    "vi": "Longer Lingering Potion of Poison"
+  },
+  "item.minecraft.tipped_arrow.effect.longer_poison": {
+    "en": "Arrow of Longer Poison",
+    "zh": "延长剧毒之箭",
+    "vi": "Mở rộng mũi tên độc"
+  },
+  "item.minecraft.potion.effect.stronger_regeneration": {
+    "en": "Stronger Potion of Regeneration",
+    "zh": "强化的再生药水",
+    "vi": "Stronger Potion of Regeneration"
+  },
+  "item.minecraft.splash_potion.effect.stronger_regeneration": {
+    "en": "Stronger Splash Potion of Regeneration",
+    "zh": "强化的喷溅型再生药水",
+    "vi": "Stronger Splash Potion of Regeneration"
+  },
+  "item.minecraft.lingering_potion.effect.stronger_regeneration": {
+    "en": "Stronger Lingering Potion of Regeneration",
+    "zh": "强化的滞留型再生药水",
+    "vi": "Stronger Lingering Potion of Regeneration"
+  },
+  "item.minecraft.tipped_arrow.effect.stronger_regeneration": {
+    "en": "Arrow of Stronger Regeneration",
+    "zh": "强化再生之箭",
+    "vi": "Mũi tên tái sinh nâng cao"
+  },
+  "item.minecraft.potion.effect.longer_regeneration": {
+    "en": "Longer Potion of Regeneration",
+    "zh": "延长的再生药水",
+    "vi": "Longer Potion of Regeneration"
+  },
+  "item.minecraft.splash_potion.effect.longer_regeneration": {
+    "en": "Longer  Potion of Regeneration",
+    "zh": "延长的喷溅型再生药水",
+    "vi": "Longer  Potion of Regeneration"
+  },
+  "item.minecraft.lingering_potion.effect.longer_regeneration": {
+    "en": "Longer Lingering Potion of Regeneration",
+    "zh": "延长的滞留型再生药水",
+    "vi": "Longer Lingering Potion of Regeneration"
+  },
+  "item.minecraft.tipped_arrow.effect.longer_regeneration": {
+    "en": "Arrow of Longer Regeneration",
+    "zh": "延长再生之箭",
+    "vi": "Mũi tên tái sinh mở rộng"
+  },
+  "item.minecraft.potion.effect.stronger_strength": {
+    "en": "Stronger Potion of Strength",
+    "zh": "强化的力量药水",
+    "vi": "Stronger Potion of Strength"
+  },
+  "item.minecraft.splash_potion.effect.stronger_strength": {
+    "en": "Stronger Splash Potion of Strength",
+    "zh": "强化的喷溅型力量药水",
+    "vi": "Stronger Splash Potion of Strength"
+  },
+  "item.minecraft.lingering_potion.effect.stronger_strength": {
+    "en": "Stronger Lingering Potion of Strength",
+    "zh": "强化的滞留型力量药水",
+    "vi": "Stronger Lingering Potion of Strength"
+  },
+  "item.minecraft.tipped_arrow.effect.stronger_strength": {
+    "en": "Arrow of Stronger Strength",
+    "zh": "强化力量之箭",
+    "vi": "Mũi tên tăng cường"
+  },
+  "item.minecraft.potion.effect.longer_strength": {
+    "en": "Longer Potion of Strength",
+    "zh": "延长的力量药水",
+    "vi": "Longer Potion of Strength"
+  },
+  "item.minecraft.splash_potion.effect.longer_strength": {
+    "en": "Longer Splash Potion of Strength",
+    "zh": "延长的喷溅型力量药水",
+    "vi": "Longer Splash Potion of Strength"
+  },
+  "item.minecraft.lingering_potion.effect.longer_strength": {
+    "en": "Longer Lingering Potion of Strength",
+    "zh": "延长的滞留型力量药水",
+    "vi": "Longer Lingering Potion of Strength"
+  },
+  "item.minecraft.tipped_arrow.effect.longer_strength": {
+    "en": "Arrow of Longer Strength",
+    "zh": "延长力量之箭",
+    "vi": "Mở rộng mũi tên quyền lực"
+  },
+  "item.minecraft.potion.effect.longer_weakness": {
+    "en": "Longer Potion of Weakness",
+    "zh": "延长的虚弱药水",
+    "vi": "Longer Potion of Weakness"
+  },
+  "item.minecraft.splash_potion.effect.longer_weakness": {
+    "en": "Longer Splash Potion of Weakness",
+    "zh": "延长的喷溅型虚弱药水",
+    "vi": "Longer Splash Potion of Weakness"
+  },
+  "item.minecraft.lingering_potion.effect.longer_weakness": {
+    "en": "Longer Lingering Potion of Weakness",
+    "zh": "延长的滞留型虚弱药水",
+    "vi": "Longer Lingering Potion of Weakness"
+  },
+  "item.minecraft.tipped_arrow.effect.longer_weakness": {
+    "en": "Arrow of Longer Weakness",
+    "zh": "延长虚弱之箭",
+    "vi": "Mở rộng mũi tên điểm yếu"
+  },
+  "item.minecraft.potion.effect.longer_slow_falling": {
+    "en": "Longer Potion of Slow Falling",
+    "zh": "延长的缓降药水",
+    "vi": "Longer Potion of Slow Falling"
+  },
+  "item.minecraft.splash_potion.effect.longer_slow_falling": {
+    "en": "Longer Splash Potion of Slow Falling",
+    "zh": "延长的喷溅型缓降药水",
+    "vi": "Longer Splash Potion of Slow Falling"
+  },
+  "item.minecraft.lingering_potion.effect.longer_slow_falling": {
+    "en": "Longer Lingering Potion of Slow Falling",
+    "zh": "延长的滞留型缓降药水",
+    "vi": "Longer Lingering Potion of Slow Falling"
+  },
+  "item.minecraft.tipped_arrow.effect.longer_slow_falling": {
+    "en": "Arrow of Longer Slow Falling",
+    "zh": "延长缓降之箭",
+    "vi": "Mũi tên rơi chậm mở rộng"
+  },
+  "item.minecraft.potion.effect.stronger_turtle_master": {
+    "en": "Stronger Potion of the Turtle Master",
+    "zh": "强化的神龟药水",
+    "vi": "Stronger Potion of the Turtle Master"
+  },
+  "item.minecraft.splash_potion.effect.stronger_turtle_master": {
+    "en": "Stronger Splash Potion the Turtle Master",
+    "zh": "强化的喷溅型神龟药水",
+    "vi": "Stronger Splash Potion the Turtle Master"
+  },
+  "item.minecraft.lingering_potion.effect.stronger_turtle_master": {
+    "en": "Stronger Lingering Potion of the Turtle Master",
+    "zh": "强化的滞留型神龟药水",
+    "vi": "Stronger Lingering Potion of the Turtle Master"
+  },
+  "item.minecraft.tipped_arrow.effect.stronger_turtle_master": {
+    "en": "Arrow of the Stronger Turtle Master",
+    "zh": "强化神龟之箭",
+    "vi": "Mũi tên rùa được tăng cường"
+  },
+  "item.minecraft.potion.effect.longer_turtle_master": {
+    "en": "Longer Potion of the Turtle Master",
+    "zh": "延长的神龟药水",
+    "vi": "Longer Potion of the Turtle Master"
+  },
+  "item.minecraft.splash_potion.effect.longer_turtle_master": {
+    "en": "Longer Splash Potion the Turtle Master",
+    "zh": "延长的喷溅型神龟药水",
+    "vi": "Longer Splash Potion the Turtle Master"
+  },
+  "item.minecraft.lingering_potion.effect.longer_turtle_master": {
+    "en": "Longer Lingering Potion of the Turtle Master",
+    "zh": "延长的滞留型神龟药水",
+    "vi": "Longer Lingering Potion of the Turtle Master"
+  },
+  "item.minecraft.tipped_arrow.effect.longer_turtle_master": {
+    "en": "Arrow of the Longer Turtle Master",
+    "zh": "延长神龟之箭",
+    "vi": "Kéo dài mũi tên rùa"
+  },
+  "item.wom.lycanth_spawn_egg": {
+    "en": "Lycanth Spawn Egg",
+    "zh": "不洁狼人刷怪蛋",
+    "vi": "Lycanth Spawn Egg"
+  },
+  "item.wom.saulomonk_spawn_egg": {
+    "en": "Saulomonk Spawn Egg",
+    "zh": "索罗修士刷怪蛋",
+    "vi": "Saulomonk Spawn Egg"
+  },
+  "item.wom.hollow_spawn_egg": {
+    "en": "Hollow Spawn Egg",
+    "zh": "空洞者刷怪蛋",
+    "vi": "Hollow Spawn Egg"
+  },
+  "item.wom.evil_skeleton_spawn_egg": {
+    "en": "Evil Skeleton Spawn Egg",
+    "zh": "恶魔骷髅刷怪蛋",
+    "vi": "Evil Skeleton Spawn Egg"
+  },
+  "item.wom.lupus_rex_spawn_egg": {
+    "en": "Lupus Rex Spawn Egg",
+    "zh": "黄金狼刷怪蛋",
+    "vi": "Lupus Rex Spawn Egg"
+  },
+  "skill_tree.wom.acrobat": {
+    "en": "Acrobat",
+    "zh": null,
+    "vi": null
+  },
+  "unlock_tip.epicskills.acrobat.spider_techniques": {
+    "en": " Slaught 100 Spider",
+    "zh": null,
+    "vi": null
+  },
+  "unlock_tip.epicskills.acrobat.natural_sprinter": {
+    "en": " Slaught 5 Lycanth and sprint 20 km",
+    "zh": null,
+    "vi": null
+  },
+  "unlock_tip.epicskills.acrobat.aqua_maneuvre": {
+    "en": " Slaught 6 Elder Guadian and swim 6 km",
+    "zh": null,
+    "vi": null
+  },
+  "skill_tree.wom.prodigy": {
+    "en": "Prodigy",
+    "zh": null,
+    "vi": null
+  },
+  "unlock_tip.epicskills.prodigy.shooting_style": {
+    "en": " Slaught 5 Enderman",
+    "zh": null,
+    "vi": null
+  },
+  "unlock_tip.epicskills.prodigy.punishment_kick": {
+    "en": " Slaught 50 Enderman",
+    "zh": null,
+    "vi": null
+  },
+  "unlock_tip.epicskills.prodigy.arrow_tenacity": {
+    "en": " Slaught 10 skeleton",
+    "zh": null,
+    "vi": null
+  },
+  "unlock_tip.epicskills.prodigy.dodge_master": {
+    "en": " Slaught 100 skeleton",
+    "zh": null,
+    "vi": null
+  },
+  "unlock_tip.epicskills.prodigy.ender_step": {
+    "en": " Slaught 100 Enderman",
+    "zh": null,
+    "vi": null
+  },
+  "unlock_tip.epicskills.prodigy.ender_obscuris": {
+    "en": " Slaught 500 Enderman",
+    "zh": null,
+    "vi": null
+  },
+  "unlock_tip.epicskills.prodigy.time_travel": {
+    "en": " Slaught 2000 Enderman",
+    "zh": null,
+    "vi": null
+  },
+  "unlock_tip.epicskills.prodigy.buster_parade": {
+    "en": " Slaught 20 Hollow",
+    "zh": null,
+    "vi": null
+  },
+  "unlock_tip.epicskills.prodigy.perfect_bulwark": {
+    "en": " Slaught 100 guardian",
+    "zh": null,
+    "vi": null
+  },
+  "unlock_tip.epicskills.prodigy.avatar_of_might": {
+    "en": " Slaught 100 Hollow",
+    "zh": null,
+    "vi": null
+  },
+  "unlock_tip.epicskills.prodigy.precise_roll": {
+    "en": " Sprint 8 km",
+    "zh": null,
+    "vi": null
+  },
+  "unlock_tip.epicskills.prodigy.bull_charge": {
+    "en": " Slaught 40 Ravager",
+    "zh": null,
+    "vi": null
+  },
+  "unlock_tip.epicskills.prodigy.shulker_cloak": {
+    "en": " Slaught 72 shulker",
+    "zh": null,
+    "vi": null
+  },
+  "unlock_tip.epicskills.prodigy.soul_protection": {
+    "en": " Slaught 120 Wither Skeleton",
+    "zh": null,
+    "vi": null
+  },
+  "unlock_tip.epicskills.prodigy.vampirize": {
+    "en": " Slaught 40 Evil Skeleton",
+    "zh": null,
+    "vi": null
+  },
+  "unlock_tip.epicskills.prodigy.dopamine": {
+    "en": " Slaught 54 Lycanth",
+    "zh": null,
+    "vi": null
+  },
+  "unlock_tip.epicskills.prodigy.lunatic_vivacity": {
+    "en": " Slaught 18 Ghast",
+    "zh": null,
+    "vi": null
+  },
+  "unlock_tip.epicskills.prodigy.voodoo_magic": {
+    "en": " Slaught 20 Evoker",
+    "zh": null,
+    "vi": null
+  },
+  "unlock_tip.epicskills.prodigy.manipulator": {
+    "en": " Slaught 13 Saulomnk",
+    "zh": null,
+    "vi": null
+  },
+  "unlock_tip.epicskills.prodigy.all_eyes_on_you": {
+    "en": " Slaught 200 Evil Skeleton",
+    "zh": null,
+    "vi": null
+  },
+  "unlock_tip.epicskills.prodigy.all_eyes_on_me": {
+    "en": " Slaught 200 Saulomnk",
+    "zh": null,
+    "vi": null
+  },
+  "unlock_tip.epicskills.prodigy.inner_growth": {
+    "en": " Elimate the Ender Dragon",
+    "zh": null,
+    "vi": null
+  },
+  "unlock_tip.epicskills.prodigy.shadow_step": {
+    "en": " Elimate the Wither",
+    "zh": null,
+    "vi": null
+  },
+  "unlock_tip.epicskills.prodigy.critical_knowledge": {
+    "en": " Slaught 100 Creeper and 300 mobs",
+    "zh": null,
+    "vi": null
+  },
+  "unlock_tip.epicskills.prodigy.dancing_blade": {
+    "en": " Slaught 10 Witches and 300 mobs",
+    "zh": null,
+    "vi": null
+  },
+  "unlock_tip.epicskills.prodigy.lethal_focus": {
+    "en": " Slaught 10 Evil Skeleton and 900 mobs",
+    "zh": null,
+    "vi": null
+  },
+  "item.wom.demon_bracelet.tooltip": {
+    "en": "Enhance the strengh of his wielder.",
+    "zh": null,
+    "vi": null
+  },
+  "item.wom.celerity_bracelet.tooltip": {
+    "en": "Enhance the speed of his wielder.",
+    "zh": null,
+    "vi": null
+  },
+  "item.wom.obsidian_bracelet.tooltip": {
+    "en": "Enhance the resistance of his wielder.",
+    "zh": null,
+    "vi": null
+  },
+  "potion.potency.6": {
+    "en": "VII",
+    "zh": null,
+    "vi": null
+  },
+  "potion.potency.7": {
+    "en": "VIII",
+    "zh": null,
+    "vi": null
+  }
+}

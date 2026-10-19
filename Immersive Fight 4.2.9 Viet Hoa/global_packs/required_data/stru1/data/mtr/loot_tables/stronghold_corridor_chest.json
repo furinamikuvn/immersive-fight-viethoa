@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "bonus_rolls": 0,
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "name": "mtr:stronghold_corridor_common",
+          "weight": 40
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "mtr:stronghold_corridor_uncommon",
+          "weight": 25
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "mtr:stronghold_corridor_rare",
+          "weight": 15
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "mtr:stronghold_corridor_empty",
+          "weight": 20
+        }
+      ]
+    }
+  ]
+}

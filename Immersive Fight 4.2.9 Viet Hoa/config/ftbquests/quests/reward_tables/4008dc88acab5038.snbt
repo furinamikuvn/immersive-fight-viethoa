@@ -1,0 +1,46 @@
+{
+	icon: {
+		Count: 1
+		id: "minecraft:bow"
+		tag: {
+			Damage: 0
+			is_full: 0b
+		}
+	}
+	id: "4008DC88ACAB5038"
+	loot_size: 1
+	order_index: 18
+	rewards: [
+		{
+			command: "/gamerule EpicBowLock true"
+			elevate_perms: true
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "minecraft:lime_concrete"
+			}
+			title: "Bật"
+			type: "command"
+		}
+		{
+			command: "/gamerule EpicBowLock false"
+			elevate_perms: true
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "minecraft:red_concrete"
+			}
+			title: "Tắt"
+			type: "command"
+		}
+	]
+	title: "Chuột Trái Cung Tấn Công Khóa Mục Tiêu"
+}

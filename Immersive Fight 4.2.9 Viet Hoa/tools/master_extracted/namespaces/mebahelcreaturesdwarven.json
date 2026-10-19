@@ -1,0 +1,192 @@
+{
+  "itemgroup.mebahelcreaturesdwarven": {
+    "en": "Mebahel's Creatures - Dwemer Automatons",
+    "zh": "上古神兽",
+    "vi": null
+  },
+  "_comment1": {
+    "en": "=== Items ===",
+    "zh": "=== 物品 ===",
+    "vi": null
+  },
+  "item.mebahelcreaturesdwarven.dwemer_metal_gear": {
+    "en": "Dwemer Metal Gear",
+    "zh": "锻莫金属齿轮",
+    "vi": null
+  },
+  "item.mebahelcreaturesdwarven.dwemer_metal_scrap": {
+    "en": "Dwemer Metal Scrap",
+    "zh": "锻莫金属碎料",
+    "vi": null
+  },
+  "item.mebahelcreaturesdwarven.dwemer_metal_ingot": {
+    "en": "Dwemer Metal Ingot",
+    "zh": "锻莫金属锭",
+    "vi": null
+  },
+  "_comment2": {
+    "en": "=== Shields ===",
+    "zh": "=== 盾牌 ===",
+    "vi": null
+  },
+  "_comment3": {
+    "en": "=== Weapons ===",
+    "zh": "=== 武器 ===",
+    "vi": null
+  },
+  "item.mebahelcreaturesdwarven.weapon.dwemer.dwemer_dagger": {
+    "en": "Dwemer Dagger",
+    "zh": "锻莫匕首",
+    "vi": null
+  },
+  "item.mebahelcreaturesdwarven.weapon.dwemer.dwemer_sword": {
+    "en": "Dwemer Sword",
+    "zh": "锻莫剑",
+    "vi": null
+  },
+  "item.mebahelcreaturesdwarven.weapon.dwemer.dwemer_mace": {
+    "en": "Dwemer Mace",
+    "zh": "锻莫钉头锤",
+    "vi": null
+  },
+  "item.mebahelcreaturesdwarven.weapon.dwemer.dwemer_warhammer": {
+    "en": "Dwemer Warhammer",
+    "zh": "锻莫战锤",
+    "vi": null
+  },
+  "item.mebahelcreaturesdwarven.weapon.dwemer.dwemer_axe": {
+    "en": "Dwemer Axe",
+    "zh": "锻莫斧",
+    "vi": null
+  },
+  "item.mebahelcreaturesdwarven.weapon.dwemer.dwemer_war_axe": {
+    "en": "Dwemer War Axe",
+    "zh": "锻莫战斧",
+    "vi": null
+  },
+  "item.mebahelcreaturesdwarven.dwarven_arrow": {
+    "en": "Dwarven Arrow",
+    "zh": "矮人箭",
+    "vi": null
+  },
+  "item.mebahelcreaturesdwarven.dwarven_arrow.tooltip1": {
+    "en": "§7These arrows are too powerful for Infinity to replicate",
+    "zh": "§7这些箭过于强大，无法被“无限”附魔复制",
+    "vi": null
+  },
+  "_comment4": {
+    "en": "=== Bows ===",
+    "zh": "=== 弓 ===",
+    "vi": null
+  },
+  "_comment5": {
+    "en": "=== Armors ===",
+    "zh": "=== 盔甲 ===",
+    "vi": null
+  },
+  "_comment6": {
+    "en": "=== Mob Entities ===",
+    "zh": "=== 生物实体 ===",
+    "vi": null
+  },
+  "entity.mebahelcreaturesdwarven.dwarven_spider": {
+    "en": "Dwarven Spider",
+    "zh": "锻莫蜘蛛",
+    "vi": null
+  },
+  "entity.mebahelcreaturesdwarven.dwarven_spider_guardian": {
+    "en": "Dwarven Spider Guardian",
+    "zh": "锻莫蜘蛛守卫",
+    "vi": null
+  },
+  "entity.mebahelcreaturesdwarven.dwarven_centurion": {
+    "en": "Dwarven Centurion",
+    "zh": "锻莫百夫长",
+    "vi": null
+  },
+  "entity.mebahelcreaturesdwarven.dwarven_sphere": {
+    "en": "Dwarven Sphere",
+    "zh": "Sphère Dwemer",
+    "vi": null
+  },
+  "_comment7": {
+    "en": "=== Projectile Entities ===",
+    "zh": "=== 投掷物实体 ===",
+    "vi": null
+  },
+  "entity.mebahelcreaturesdwarven.steam_projectile": {
+    "en": "Pressured Steam",
+    "zh": "高压蒸汽",
+    "vi": null
+  },
+  "_comment8": {
+    "en": "=== Blocks ===",
+    "zh": "=== 方块 ===",
+    "vi": null
+  },
+  "block.mebahelcreaturesdwarven.dwemer_chest": {
+    "en": "Dwemer Chest",
+    "zh": "锻莫宝箱",
+    "vi": null
+  },
+  "block.mebahelcreaturesdwarven.dwarven_spider_block": {
+    "en": "Dwarven Spider Block",
+    "zh": "锻莫蜘蛛方块",
+    "vi": null
+  },
+  "block.mebahelcreaturesdwarven.dwemer_metal_block": {
+    "en": "Dwemer Metal Block",
+    "zh": "锻莫金属块",
+    "vi": null
+  },
+  "block.mebahelcreaturesdwarven.dwemer_metal_pipe": {
+    "en": "Dwemer Metal Pipe",
+    "zh": "锻莫金属管",
+    "vi": null
+  },
+  "block.mebahelcreaturesdwarven.dwemer_metal_pipe_gear": {
+    "en": "Dwemer Metal Pipe with Gears",
+    "zh": "带齿轮的锻莫金属管",
+    "vi": null
+  },
+  "_comment9": {
+    "en": "=== Spawn Eggs ===",
+    "zh": "=== 刷怪蛋 ===",
+    "vi": null
+  },
+  "item.mebahelcreaturesdwarven.spawn_egg.dwarven_centurion_spawn_egg": {
+    "en": "Dwarven Centurion Spawn Egg",
+    "zh": "锻莫百夫长刷怪蛋",
+    "vi": null
+  },
+  "item.mebahelcreaturesdwarven.spawn_egg.dwarven_sphere_spawn_egg": {
+    "en": "Dwarven Sphere Spawn Egg",
+    "zh": "Dwarven Sphere Spawn Egg",
+    "vi": null
+  },
+  "item.mebahelcreaturesdwarven.spawn_egg.dwarven_spider_spawn_egg": {
+    "en": "Dwarven Spider Spawn Egg",
+    "zh": "锻莫蜘蛛刷怪蛋",
+    "vi": null
+  },
+  "item.mebahelcreaturesdwarven.spawn_egg.dwarven_spider_guardian_spawn_egg": {
+    "en": "Dwarven Spider Guardian Spawn Egg",
+    "zh": "锻莫蜘蛛守卫刷怪蛋",
+    "vi": null
+  },
+  "_comment10": {
+    "en": "=== Advancements ===",
+    "zh": "=== 进度 ===",
+    "vi": null
+  },
+  "_comment13": {
+    "en": "=== Maps ===",
+    "zh": "=== 地图 ===",
+    "vi": null
+  },
+  "mebahelcreaturesdwarven.map.dwemer_map": {
+    "en": "Dwemer City Map",
+    "zh": "锻莫城市地图",
+    "vi": null
+  }
+}

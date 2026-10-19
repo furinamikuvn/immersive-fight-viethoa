@@ -1,0 +1,1604 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "mofu"
+	group: "4E6BE2D374D7AE03"
+	icon: {
+		Count: 1
+		ForgeCaps: {
+			"celestisynth:celestisynthitemstackcapabilities": {
+				cs.aquaSkin: 0
+			}
+		}
+		id: "mofus_better_end_:eye_guardian_hand"
+		tag: {
+			Damage: 0
+		}
+	}
+	id: "6B4ABAB768E363C8"
+	order_index: 4
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: [
+				"41B2ABBB632D7081"
+				"2F38269EC22C0A87"
+				"23BFA0A77E47B04E"
+				"572F4795606C66C4"
+				"1CA4AEC3E66AB3DB"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					Parent: {
+						Items: [ ]
+						Size: 0
+					}
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "mofus_better_end_:book_of_void"
+				tag: {
+					Inventory: {
+						Items: [ ]
+						Size: 0
+					}
+					csController: { }
+				}
+			}
+			id: "5BBF27230D59ED9E"
+			size: 1.0d
+			tasks: [{
+				id: "621F20F25EB738EE"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						Parent: {
+							Items: [ ]
+							Size: 0
+						}
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "mofus_better_end_:book_of_void"
+					tag: {
+						csController: { }
+					}
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"6B4B250F50F4E1EF"
+				"10FDACAD25E22BD2"
+			]
+			description: [
+				"Cấu trúc: Tổ Endermite"
+				"Tìm phòng của nữ hoàng (không gian rộng hơn, có bàn thờ triệu hồi)"
+				"(Ba mạng nhện trên bề mặt quấn quanh những cột đá nhọn,"
+				"Có một lối đi xuống ở trung tâm, nhảy xuống và vào sảnh."
+				"Lối vào lớn nhất dẫn thẳng tới Phòng của Nữ hoàng)"
+				""
+				""
+				"Bạn cần sử dụng 5 bình máu, chuột phải vào 4 khối nghi lễ và Bàn thờ Nữ hoàng."
+				"Sau đó đặt ấu trùng nữ hoàng endermite lên bàn thờ để triệu hồi theo nghi lễ"
+			]
+			entity_vis_size: 1.0f
+			id: "41B2ABBB632D7081"
+			size: 1.0d
+			tasks: [{
+				id: "460AD23B32F3A0B8"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "mofus_better_end_:mite_queen_soul"
+					tag: {
+						csController: { }
+					}
+				}
+				type: "item"
+			}]
+			x: -1.5d
+			y: -0.5d
+		}
+		{
+			dependencies: [
+				"4BE8A1F628BAD469"
+				"3DF926132E8E0CE6"
+			]
+			description: ["tổng hợp"]
+			entity_vis_size: 1.0f
+			id: "1CA4AEC3E66AB3DB"
+			size: 1.0d
+			tasks: [{
+				id: "6B3A9AEE3462F186"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "mofus_better_end_:weird_mechanical_core"
+				}
+				type: "item"
+			}]
+			x: 1.5d
+			y: -0.5d
+		}
+		{
+			dependencies: [
+				"0BC5182E3E08A023"
+				"37B92CD040FD0033"
+				"7C9A5FE247EA76F1"
+			]
+			description: ["tổng hợp"]
+			entity_vis_size: 1.0f
+			id: "23BFA0A77E47B04E"
+			size: 1.0d
+			tasks: [{
+				id: "1B1C69D2479AF202"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "mofus_better_end_:void_glass_globe"
+				}
+				type: "item"
+			}]
+			x: 1.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["02F817B986B69529"]
+			description: ["BOSS rớt ra"]
+			entity_vis_size: 1.0f
+			id: "2F38269EC22C0A87"
+			size: 1.0d
+			tasks: [{
+				id: "39546903D05E471E"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "mofus_better_end_:eye_guardian_angel_eye"
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: -1.5d
+		}
+		{
+			dependencies: [
+				"4A7596B23E002A87"
+				"5243D53220746C17"
+				"7F48EA543202A8EB"
+			]
+			description: ["tổng hợp"]
+			entity_vis_size: 1.0f
+			id: "572F4795606C66C4"
+			size: 1.0d
+			tasks: [{
+				id: "12DB05241D3CEE21"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "mofus_better_end_:labyrinth_crystal"
+				}
+				type: "item"
+			}]
+			x: -1.0d
+			y: 1.5d
+		}
+		{
+			description: ["Cách nhận được: [ Lộ trình cụ thể giống với nhiệm vụ ở góc dưới bên phải]"]
+			entity_vis_size: 1.0f
+			id: "10FDACAD25E22BD2"
+			size: 1.0d
+			tasks: [{
+				id: "387BF9DD32A4841E"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "mofus_better_end_:blood_jug"
+				}
+				type: "item"
+			}]
+			x: -2.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["57E0716AF7DBEF41"]
+			description: [
+				"Dùng trong nghi lễ triệu hồi"
+				"Triệu hồi Nữ hoàng Endermite"
+			]
+			entity_vis_size: 1.0f
+			id: "6B4B250F50F4E1EF"
+			size: 1.0d
+			tasks: [{
+				id: "391D15D6707FF409"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "mofus_better_end_:endermite_queen_idol"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -2.5d
+			y: -1.0d
+		}
+		{
+			description: [
+				"Công trình: Tháp đồng hồ tận thế"
+				"Nằm trên mặt bàn ở sảnh kính của Tháp Trung tâm"
+			]
+			entity_vis_size: 1.0f
+			id: "3DF926132E8E0CE6"
+			size: 1.0d
+			tasks: [{
+				id: "63944595AED1310E"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "mofus_better_end_:empty_mechanical_heart"
+				}
+				type: "item"
+			}]
+			x: 2.0d
+			y: -2.0d
+		}
+		{
+			description: [
+				"Kết cấu: Vườn đá băng"
+				""
+				"Thu thập Năng lượng Genfu băng giá để nhận được"
+				"Phòng ở dưới cùng của cấu trúc"
+				"trên rễ cây băng giá"
+			]
+			entity_vis_size: 1.0f
+			id: "4BE8A1F628BAD469"
+			rewards: [{
+				id: "5E0587AF15999536"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "mofus_better_end_:unrefined_fosend"
+				}
+				type: "item"
+			}]
+			size: 1.0d
+			tasks: [{
+				id: "7B1D6A40108B165C"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "mofus_better_end_:unrefined_fosend"
+				}
+				type: "item"
+			}]
+			x: 3.0d
+			y: 0.5d
+		}
+		{
+			dependencies: [
+				"566B4558D8D422FA"
+				"1CA4AEC3E66AB3DB"
+				"42F6D38543A1645E"
+			]
+			description: [
+				"Đánh bại &e Eye Guardian Puppet và rơi ra nó khỏi &r"
+				""
+				"Có bốn tháp canh bao quanh tháp chuông cuối cùng."
+				"Trên đỉnh tháp có bàn thờ hộ mệnh."
+				"Sử dụng chuột phải vào Funen Cube để kích hoạt triệu hồi"
+				""
+				"&c[Quan trọng] &r"
+				"Sau khi giết chết con rối, một"
+				"Tinh chất bảo vệ mắt màu tím &d &r"
+				"Bạn cần chuột phải để nó bay lên đỉnh tháp chuông trung tâm"
+				"Sau khi thần về thì nhấn chuột phải lần nữa"
+				"Nó sẽ mở khóa một trong bốn phong ấn"
+				""
+				"Lặp lại thao tác trên 4 tòa tháp để loại bỏ hoàn toàn 4 phong ấn"
+			]
+			entity_vis_size: 1.0f
+			id: "1D74D48B6571414F"
+			size: 1.0d
+			tasks: [{
+				id: "28648A495E13E817"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "mofus_better_end_:engine_core"
+				}
+				type: "item"
+			}]
+			x: 3.0d
+			y: -1.0d
+		}
+		{
+			description: [
+				"Giết con bọ cuối cùng &d &r"
+				""
+				"Quần xã: Quần đảo rêu tím"
+			]
+			entity_vis_size: 1.0f
+			id: "7F48EA543202A8EB"
+			size: 1.0d
+			tasks: [{
+				id: "145D626500393506"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "mofus_better_end_:poison_pearl"
+				}
+				type: "item"
+			}]
+			x: -3.0d
+			y: 2.5d
+		}
+		{
+			description: [
+				"Cách lấy 1:"
+				"Bị Ender Manta Ray rơi ra sau khi giết &d Ender Corpse Puppet &r."
+				""
+				"&o Ender Manta Ray: &r có thể được cưỡi trên yên ngựa và được điều khiển bằng cần câu hạt giống điệp khúc."
+				"&o Ender Corpse Puppet: &r Enderman biến hình sau khi bị giết bởi bọ ve của Ender."
+				""
+				"Cách lấy 2:"
+				"Khám phá Loot Box"
+			]
+			entity_vis_size: 1.0f
+			id: "5243D53220746C17"
+			size: 1.0d
+			tasks: [{
+				id: "0F70CC6BFAA6612E"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "mofus_better_end_:enderman_heart"
+				}
+				type: "item"
+			}]
+			x: -2.5d
+			y: 3.5d
+		}
+		{
+			description: [
+				"Làm thế nào để có được nó:"
+				"Hộp chiến lợi phẩm"
+				"Cấu trúc tòa nhà: mê cung cuối"
+				"{@pagebreak}"
+				"Mẹo: Có khả năng cao là các hộp trên đỉnh tháp bề mặt sẽ được tạo ra."
+			]
+			entity_vis_size: 1.0f
+			id: "4A7596B23E002A87"
+			size: 1.0d
+			tasks: [{
+				id: "200EC9A273695C9D"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "mofus_better_end_:void_end_shard"
+					tag: {
+						csController: { }
+					}
+				}
+				type: "item"
+			}]
+			x: -1.5d
+			y: 3.5d
+		}
+		{
+			description: [
+				"Làm thế nào để có được nó:"
+				"Hộp chiến lợi phẩm"
+				""
+				"Cấu trúc: Đài quan sát cuối (100%)"
+				"Cấu trúc: Ngôi nhà cô đơn cuối cùng (xác suất rất thấp)"
+				""
+				""
+				"Lật trang để xem mẹo→"
+				"{@pagebreak}"
+				"Có một không gian ẩn ở phía dưới trung tâm của trạm quan sát cuối"
+			]
+			entity_vis_size: 1.0f
+			id: "37B92CD040FD0033"
+			size: 1.0d
+			tasks: [{
+				id: "78F61D11D756762E"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "mofus_better_end_:broken_end_glass"
+				}
+				type: "item"
+			}]
+			x: 1.5d
+			y: 3.0d
+		}
+		{
+			dependencies: [
+				"7D441C968F025553"
+				"485D0328B56DC56F"
+			]
+			description: ["tổng hợp"]
+			entity_vis_size: 1.0f
+			id: "7C9A5FE247EA76F1"
+			size: 1.0d
+			tasks: [{
+				id: "7D661EFB02BA8643"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "mofus_better_end_:starpearl"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 2.5d
+			y: 2.5d
+		}
+		{
+			description: [
+				"&b Enderman không miệng&r bị rơi"
+				"Quần xã: Rừng sao máu"
+			]
+			entity_vis_size: 1.0f
+			id: "7D441C968F025553"
+			size: 1.0d
+			tasks: [{
+				id: "5BD5F7822A2F8D4D"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "mofus_better_end_:stardust"
+					tag: {
+						csController: { }
+					}
+				}
+				type: "item"
+			}]
+			x: 3.5d
+			y: 3.5d
+		}
+		{
+			description: [
+				"&6 Lửa sao&r bị rơi"
+				"Quần xã: Rừng sao máu"
+				"Dùng kéo cắt phần keo dính trên Star Firefly."
+				"Nó sẽ rớt ra sau khi giết được Đom Đóm Sao."
+			]
+			entity_vis_size: 1.0f
+			id: "485D0328B56DC56F"
+			size: 1.0d
+			tasks: [{
+				id: "2145105A57F8CCB6"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "mofus_better_end_:starfly_powder"
+				}
+				type: "item"
+			}]
+			x: 4.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["5205745F27582F05"]
+			description: [
+				"Làm thế nào để có được nó:"
+				"Dùng bình chứa thủy tinh nhấp chuột phải vào tổ ong đen &4 &r để thu thập."
+				""
+				"Lượng máu của tổ ong đen phải lớn hơn 6."
+				""
+				"Thông tin sinh học: Ong đen"
+				"Tạo quần xã: Rừng Bloodstar"
+				"Thói quen: Nó săn đom đóm sao và tạo ra máu tích tụ trong túi máu trên lưng."
+				"Khi túi máu trên lưng đầy, nó sẽ quay về tổ và tích trữ máu trong tổ."
+				""
+				"Bạn có thể cho ăn &e Stardust Cream &r để tăng lượng máu trong túi máu lên 1/3."
+			]
+			entity_vis_size: 1.0f
+			id: "0BC5182E3E08A023"
+			rewards: [{
+				count: 6
+				id: "47DA5F5E0B222CD7"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "mofus_better_end_:blood_jug"
+				}
+				type: "item"
+			}]
+			size: 1.0d
+			tasks: [{
+				id: "538227E7C90783C6"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "mofus_better_end_:blood_jug"
+				}
+				type: "item"
+			}]
+			x: 0.5d
+			y: 3.0d
+		}
+		{
+			dependencies: [
+				"19DD2AA7F3136CB9"
+				"7DC9A46A159BA4DE"
+				"6819D5AF2F6E8EC4"
+			]
+			description: [
+				"Có thể nở thành ấu trùng nữ hoàng endermite"
+				""
+				"Chỉ cần đặt nó vào kho"
+				"Chờ nở (độ bền giảm dần)"
+			]
+			entity_vis_size: 1.0f
+			id: "57E0716AF7DBEF41"
+			size: 1.0d
+			tasks: [{
+				id: "5AC74DAC995B77A2"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "mofus_better_end_:endermite_idol_egg"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -3.5d
+			y: -1.5d
+		}
+		{
+			dependencies: [
+				"312AE7B9C56F1DDF"
+				"4F31C44B1FC3712D"
+				"46F11DC5AEBB4718"
+			]
+			description: ["tổng hợp"]
+			entity_vis_size: 1.0f
+			id: "19DD2AA7F3136CB9"
+			size: 1.0d
+			tasks: [{
+				id: "050ECE57F3E2A0EA"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "mofus_better_end_:endermite_horned_eye"
+					tag: {
+						csController: { }
+					}
+				}
+				type: "item"
+			}]
+			x: -4.5d
+			y: -2.0d
+		}
+		{
+			description: [
+				"&dender SoldierMites&r"
+				""
+				""
+				"Quần xã: Quần đảo rêu tím"
+			]
+			entity_vis_size: 1.0f
+			id: "312AE7B9C56F1DDF"
+			size: 1.0d
+			tasks: [{
+				id: "5DC8269B4A5D0648"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "mofus_better_end_:endermite_guardian_horn"
+				}
+				type: "item"
+			}]
+			x: -5.0d
+			y: -3.0d
+		}
+		{
+			description: [
+				"Tiêu diệt trứng ve cuối cùng &5 có khả năng làm rơi ra &r"
+				"Bị ảnh hưởng bởi vận may"
+				""
+				"kết cấu:"
+				"Tổ Endermite"
+				""
+				"Quần xã: Quần đảo rêu tím"
+			]
+			entity_vis_size: 1.0f
+			id: "46F11DC5AEBB4718"
+			size: 1.0d
+			tasks: [{
+				id: "599DFB2DCAC92A60"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "mofus_better_end_:crystal_mite_eye"
+				}
+				type: "item"
+			}]
+			x: -6.0d
+			y: -2.5d
+		}
+		{
+			description: [
+				"&dMite&r"
+				""
+				""
+				"Quần xã: Quần đảo rêu tím"
+			]
+			entity_vis_size: 1.0f
+			id: "4F31C44B1FC3712D"
+			size: 1.0d
+			tasks: [{
+				id: "5AA6FA0073EB1AAB"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "mofus_better_end_:endermite_swarmer_wing"
+				}
+				type: "item"
+			}]
+			x: -5.5d
+			y: -1.5d
+		}
+		{
+			description: [
+				"Giết giun máu &4 và thả &r"
+				""
+				"Huyết trùng đã bị chôn vùi dưới lòng đất đã lâu, chỉ lộ ra cái đuôi bắt chước."
+				"Phá hủy cây nắp ấm &c &r có cơ hội làm phiền chính giun máu."
+				""
+				"Quần xã: Rừng sao máu"
+			]
+			entity_vis_size: 1.0f
+			id: "7DC9A46A159BA4DE"
+			size: 1.0d
+			tasks: [{
+				id: "686124BEC4BC3FFD"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "mofus_better_end_:bloodworm_scale"
+				}
+				type: "item"
+			}]
+			x: -3.5d
+			y: -3.0d
+		}
+		{
+			description: [
+				"Giết con ong đen"
+				""
+				""
+				"Quần xã: Rừng sao máu"
+			]
+			entity_vis_size: 1.0f
+			id: "6819D5AF2F6E8EC4"
+			size: 1.0d
+			tasks: [{
+				id: "2ECA4BF00975D104"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "mofus_better_end_:blackwasp_maggot"
+				}
+				type: "item"
+			}]
+			x: -4.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["6C5011F8128E0292"]
+			description: [
+				"[Do phải chờ thu thập rắc rối nên nhiệm vụ bình máu tạm thời bị hủy]"
+				"[Phần thưởng cho nhiệm vụ này được trao trực tiếp]"
+			]
+			entity_vis_size: 1.0f
+			id: "5205745F27582F05"
+			rewards: [
+				{
+					id: "02CDF5CA5F733ED3"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "mofus_better_end_:waspnestcheck"
+					}
+					type: "item"
+				}
+				{
+					count: 16
+					id: "48400B9884B81533"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "mofus_better_end_:blood_jug"
+						tag: {
+							csController: { }
+						}
+					}
+					type: "item"
+				}
+			]
+			size: 1.0d
+			tasks: [{
+				id: "5CEEFF950CA1B0D3"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "mofus_better_end_:starflypaste"
+					tag: {
+						Damage: 0
+						csController: { }
+					}
+				}
+				type: "item"
+			}]
+			x: 1.0d
+			y: 4.0d
+		}
+		{
+			description: [
+				"&6 Lửa sao&r bị rơi"
+				"Quần xã: Rừng sao máu"
+				"Chuột phải vào Star Firefly bằng kéo"
+			]
+			entity_vis_size: 1.0f
+			id: "6C5011F8128E0292"
+			size: 1.0d
+			tasks: [{
+				id: "37229DDDBFCFEF17"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "mofus_better_end_:starfly_jelly"
+					tag: {
+						csController: { }
+					}
+				}
+				type: "item"
+			}]
+			x: 2.0d
+			y: 4.5d
+		}
+		{
+			description: [
+				"&e Bảo vệ mắt-Creeper&r"
+				"Công trình: Vườn đá băng, Tháp đồng hồ cuối cùng"
+			]
+			entity_vis_size: 1.0f
+			id: "566B4558D8D422FA"
+			size: 1.0d
+			tasks: [{
+				id: "3622EF4F277B3826"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "mofus_better_end_:end_energy_cube"
+					tag: {
+						csController: { }
+					}
+				}
+				type: "item"
+			}]
+			x: 4.0d
+			y: -1.5d
+		}
+		{
+			description: [
+				"Miếng bảo vệ mắt &e - Bị Walker rơi ra &r"
+				"Công trình: Vườn đá băng, Tháp đồng hồ cuối cùng"
+			]
+			entity_vis_size: 1.0f
+			id: "42F6D38543A1645E"
+			size: 1.0d
+			tasks: [{
+				id: "38E2650AC10F9DE7"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "mofus_better_end_:guardian_fragment"
+				}
+				type: "item"
+			}]
+			x: 4.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["1CA4AEC3E66AB3DB"]
+			description: [
+				"Sau khi phong ấn của Tượng Bốn Mắt được dỡ bỏ"
+				""
+				"Sử dụng &5 Funeng Mechanical Eye &r để kích hoạt BOSS"
+			]
+			entity_vis_size: 1.0f
+			id: "02F817B986B69529"
+			size: 1.0d
+			tasks: [{
+				id: "380B8E244FE875C5"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "mofus_better_end_:mechanical_fosend_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: -2.5d
+		}
+		{
+			description: [
+				"Cuối cùng chỉ có hai ông chủ:"
+				"&eNữ hoàng Endermite&r"
+				"&eThiên thần hộ mệnh của con mắt&r"
+				""
+				"Nội dung còn lại là tổng hợp tư liệu sản xuất"
+				"Cuối cùng, bạn có thể sử dụng &a để chỉ chiến đấu với hai tên trùm &r"
+				""
+				"Các tác vụ sau được sử dụng làm đạo cụ Mod &b để nhận hướng dẫn"
+				"Nếu cảm thấy phiền phức, bạn có thể đơn giản hóa quy trình &c và trực tiếp nhận đạo cụ &r"
+			]
+			entity_vis_size: 1.0f
+			id: "51A1CAD06351AF68"
+			shape: "gear"
+			size: 2.0d
+			tasks: [{
+				id: "574B0C0C63B39E61"
+				title: "Đề xuất dòng quy trình"
+				type: "checkmark"
+			}]
+			title: "Quá trình phiên bản đơn giản hóa"
+			x: -5.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["51A1CAD06351AF68"]
+			description: [
+				"&b (đơn giản hóa: bỏ qua quy trình và nhận trực tiếp bình máu &e &r) &r"
+				"Khám phá quần xã sinh vật cuối cùng: Rừng Bloodstar"
+				"Mục tiêu chính: Hoàn thành việc sản xuất quả cầu thủy tinh rỗng (dòng nhiệm vụ ở góc dưới bên phải)"
+				"và thu thập thêm tài liệu."
+				"Vảy huyết trùng x4, giòi ong đen x1, lọ máu x5 (dòng nhiệm vụ ở góc trên bên trái)"
+			]
+			entity_vis_size: 1.0f
+			icon: "mofus_better_end_:weepingstarsapling"
+			id: "01DF9921F1721404"
+			rewards: [{
+				count: 16
+				id: "1D9461361F014317"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "mofus_better_end_:blood_jug"
+				}
+				type: "item"
+			}]
+			size: 2.0d
+			tasks: [{
+				id: "110372DD0100E502"
+				type: "checkmark"
+			}]
+			title: "Rừng sao máu"
+			x: -3.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["01DF9921F1721404"]
+			description: [
+				"&b (đơn giản hóa: bỏ qua quy trình và nhận trực tiếp &e Ấu trùng nữ hoàng Endermite &r) &r"
+				"Khám phá quần xã sinh vật cuối cùng: Quần đảo Rêu Tím"
+				"Cấu trúc: Tổ Endermite"
+				"Mục tiêu chính: Đánh bại Nữ hoàng Endermite (dòng nhiệm vụ ở góc trên bên trái)"
+				""
+				""
+				"&e Triệu hồi Nữ hoàng Endermite: &r"
+				"Bạn cần sử dụng 5 bình máu, chuột phải vào 4 khối nghi lễ và Bàn thờ Nữ hoàng."
+				"Sau đó đặt ấu trùng nữ hoàng endermite lên bàn thờ để triệu hồi theo nghi lễ"
+			]
+			entity_vis_size: 1.0f
+			icon: "mofus_better_end_:end_grass"
+			id: "56CAFF4C5A908FA7"
+			rewards: [{
+				id: "26EFC9069E5D12B3"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "mofus_better_end_:endermite_queen_idol"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			size: 2.0d
+			tasks: [{
+				id: "435E67A3E40E20CB"
+				type: "checkmark"
+			}]
+			title: "Quần Đảo Rêu Tím"
+			x: -0.3690476190476133d
+			y: -5.000000000000025d
+		}
+		{
+			dependencies: ["56CAFF4C5A908FA7"]
+			description: [
+				"&b (đơn giản hóa: bỏ qua trực tiếp)&r"
+				"Khám phá quần xã sinh vật cuối cùng: Quần đảo Root"
+				"Mục tiêu chính: Khám phá cấu trúc—Vườn đá băng &e&r"
+				"Và thu được những nguyên liệu quan trọng: &d Funeng chưa tinh chế &r"
+			]
+			entity_vis_size: 1.0f
+			icon: "mofus_better_end_:crestguin_nest_stick"
+			id: "11E2C2265404B82E"
+			size: 2.0d
+			tasks: [{
+				id: "08EA751622BA0756"
+				type: "checkmark"
+			}]
+			title: "Quần đảo Root"
+			x: 2.297619047619058d
+			y: -5.000000000000025d
+		}
+		{
+			dependencies: ["01206D6C1BF5C7E5"]
+			description: [
+				"Kích hoạt cổng thông tin bước 3:"
+				"Tổng hợp &e Sách Void&r"
+				"&b cúi xuống nhấp chuột phải vào trung tâm &r &e bộ phận đánh lửa cổng thông tin void &r"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					Parent: {
+						Items: [ ]
+						Size: 0
+					}
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "mofus_better_end_:book_of_void"
+			}
+			id: "02345B683BF9D0FA"
+			rewards: [{
+				id: "0005D2CF6D6A78E7"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						Parent: {
+							Items: [ ]
+							Size: 0
+						}
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "mofus_better_end_:book_of_void"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "697CEDB59E6DA4D2"
+				type: "checkmark"
+			}]
+			x: 7.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["01206D6C1BF5C7E5"]
+			description: [
+				"Kích hoạt cổng thông tin bước 1:"
+				""
+				"Nhận được Búa tháp chuông &e Mảnh vỡ &r: nằm trên đỉnh tháp chóp xung quanh"
+				"Sau khi đánh bại BOSS, hãy sửa chữa chiếc đồng hồ hắc thạch được tạo ra trên mái nhà."
+				""
+				"Đầu tiên dùng búa chuông &e chuột phải để sửa &r, sau đó chuột phải vào quả chuông khổng lồ &e để rung chuông &r"
+				"Điều kiện tiên quyết để kích hoạt cổng: Nhận được buff do chuông rung"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "mofus_better_end_:clock_tower_clapper"
+			}
+			id: "0E09DBDCF16120AA"
+			rewards: [{
+				id: "7EFB077A3680D449"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "mofus_better_end_:clock_tower_clapper"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "3C5C55697D129CB6"
+				type: "checkmark"
+			}]
+			x: 7.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["01206D6C1BF5C7E5"]
+			description: [
+				"Kích hoạt cổng thông tin bước 2:"
+				"Được đặt trên cổng thông tin ngôi sao &e &r"
+				"Tổng cộng 20"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "mofus_better_end_:void_core"
+				tag: {
+					csController: { }
+				}
+			}
+			id: "0990D49FF92EDDB3"
+			rewards: [{
+				count: 20
+				id: "6F436B4483124E36"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "mofus_better_end_:void_core"
+					tag: {
+						csController: { }
+					}
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "2DFD5AA399010293"
+				type: "checkmark"
+			}]
+			x: 7.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["11E2C2265404B82E"]
+			description: [
+				"&b[Đi tới Cấu trúc: Tháp đồng hồ cuối] &r"
+				""
+				"Mục tiêu: Tiêu diệt BOSS cuối cùng-Thiên thần hộ mệnh của đôi mắt"
+				"Theo góc trên bên phải của cây nhiệm vụ"
+				""
+				"Kích hoạt &eBOSS: &r"
+				"Có bốn tháp canh &e xung quanh tháp chuông cuối cùng &r"
+				"Có Bàn thờ hộ mệnh &e &r trên đỉnh tháp."
+				"Sử dụng &d Fu Neng Cube &r nhấp chuột phải để kích hoạt Con rối Hộ mệnh Triệu hồi"
+				""
+				"&c[Quan trọng] &r"
+				"Sau khi giết chết con rối, một"
+				"Tinh chất bảo vệ mắt &d màu tím Thực thể &r"
+				"Bạn cần nhấn chuột phải vào &b đúng lúc trên &r để nó bay lên đỉnh tháp đồng hồ trung tâm."
+				"Sau khi linh hồn &d &r&b lên tới đỉnh tháp trung tâm &r, nhấp chuột phải lần nữa"
+				"Nó sẽ mở khóa một trong bốn phong ấn"
+				""
+				"Lặp lại thao tác trên bốn tòa tháp, hoàn toàn &e để giải phóng 4 phong ấn &r"
+				"Sau đó dùng &d Mechanical Funeng Eye &r chuột phải vào tượng BOSS để kích hoạt"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "mofus_better_end_:eye_guardian_angel_eye"
+				tag: {
+					csController: { }
+				}
+			}
+			id: "63609E1C9306576C"
+			rewards: [
+				{
+					id: "7B72BF1BB4B95AC8"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "mofus_better_end_:mechanical_fosend_eye"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					count: 4
+					id: "71A50A82127329D8"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "mofus_better_end_:end_energy_cube"
+					}
+					type: "item"
+				}
+			]
+			size: 2.0d
+			tasks: [{
+				id: "0E82F5B89E378BB5"
+				type: "checkmark"
+			}]
+			title: "Thiên thần hộ mệnh của đôi mắt"
+			x: 5.0d
+			y: -5.0d
+		}
+		{
+			dependencies: [
+				"0E09DBDCF16120AA"
+				"02345B683BF9D0FA"
+				"0990D49FF92EDDB3"
+			]
+			description: ["Nhập một chiều hướng mới thông qua cổng thông tin"]
+			entity_vis_size: 1.0f
+			icon: "mofus_better_end_:void_portal_igniter"
+			id: "55BFEED39A087065"
+			rewards: [
+				{
+					id: "1BF93D6440A24508"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "mofus_better_end_:green_crystal_staff"
+						tag: {
+							Damage: 0
+							csController: { }
+						}
+					}
+					type: "item"
+				}
+				{
+					count: 4
+					id: "32576A33358966B6"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "mofus_better_end_:survival_crystal"
+						tag: { }
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "5C3A139CEF08E5D4"
+				type: "checkmark"
+			}]
+			title: "Mở khóa các kích thước mới"
+			x: 8.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["55BFEED39A087065"]
+			description: ["Cấu trúc: Bên trong nhà thờ lớn ở Làng Lãng Quên"]
+			entity_vis_size: 1.0f
+			id: "7488D6F471B5B1D1"
+			rewards: [{
+				count: 64
+				id: "78A7CDBD46727B68"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "mofus_better_end_:titanium_ingot"
+					tag: {
+						csController: { }
+					}
+				}
+				type: "item"
+			}]
+			tasks: [{
+				disable_toast: true
+				entity: "mofus_better_end_:forgotten_litch"
+				entity_use_tag: false
+				entity_vis_idle_mode: "USE_GLOBAL"
+				entity_vis_offset_x: 0.0f
+				entity_vis_offset_y: 0.0f
+				entity_vis_rotation: 0.0f
+				entity_vis_silhouette_mode: "NONE"
+				entity_vis_size: 1.0f
+				entity_vis_spin_mode: "USE_GLOBAL"
+				entity_vis_use_as_quest_icon: false
+				entity_vis_walk_mode: "USE_GLOBAL"
+				icon: {
+					Count: 1
+					ForgeCaps: {
+						Parent: {
+							Items: [ ]
+							Size: 23
+						}
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "mofus_better_end_:forgotten_litch_staff"
+				}
+				id: "573C402F84BAD750"
+				type: "kill"
+				value: 1L
+			}]
+			x: 10.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["7488D6F471B5B1D1"]
+			description: [
+				"Sau khi giết chết Lich bị lãng quên"
+				"Một nền tảng bị đình chỉ sẽ được tạo ra trên đầu bạn"
+				"Bước lên đó và bạn có thể lên đến địa điểm trên cao"
+			]
+			entity_vis_size: 1.0f
+			id: "4C9EEB338DC8FAC2"
+			rewards: [{
+				count: 64
+				id: "3154080569D09717"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "mofus_better_end_:reinforced_titanium_ingot"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				disable_toast: true
+				entity: "mofus_better_end_:reborn_litch"
+				entity_use_tag: false
+				entity_vis_idle_mode: "USE_GLOBAL"
+				entity_vis_offset_x: 0.0f
+				entity_vis_offset_y: 0.0f
+				entity_vis_rotation: 0.0f
+				entity_vis_silhouette_mode: "NONE"
+				entity_vis_size: 1.0f
+				entity_vis_spin_mode: "USE_GLOBAL"
+				entity_vis_use_as_quest_icon: false
+				entity_vis_walk_mode: "USE_GLOBAL"
+				icon: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "mofus_better_end_:litch_pendolum"
+					tag: {
+						csController: { }
+					}
+				}
+				id: "69D6E4906114B464"
+				type: "kill"
+				value: 1L
+			}]
+			x: 11.5d
+			y: -2.5d
+		}
+		{
+			description: [
+				"Hiệu ứng đặc biệt:"
+				"Yêu cầu bộ áo giáp End Warrior đầy đủ để kích hoạt"
+				"Nhấn phím shift (cúi người) khi đang bay"
+				"Đạt được khả năng &e để tạo ra &r bay trong 20 giây"
+				"Thời gian làm mát: 60 giây"
+			]
+			entity_vis_size: 1.0f
+			id: "7BFA502163ECD0C0"
+			shape: "square"
+			size: 1.0d
+			tasks: [
+				{
+					id: "74F8B060C554B415"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "mofus_better_end_:end_warrior_armor_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "34AF5E3E24B5B67E"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "mofus_better_end_:end_warrior_armor_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "3DC9799B81232140"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "mofus_better_end_:end_warrior_armor_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "0A6FD2D2B92C107C"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "mofus_better_end_:end_warrior_armor_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: 1.0d
+		}
+		{
+			description: [
+				"Sau khi giết Thiên thần hộ mệnh của Eye"
+				"Quá trình đi vào chiều hướng mới"
+				"Nhưng khả năng chơi hiện tại thấp và có thể bỏ qua."
+			]
+			entity_vis_size: 1.0f
+			id: "01206D6C1BF5C7E5"
+			invisible: true
+			rewards: [{
+				id: "0B4827A4FFF06A58"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "mofus_better_end_:asteroidburger"
+					tag: { }
+				}
+				type: "item"
+			}]
+			tasks: [{
+				disable_toast: true
+				entity: "mofus_better_end_:eye_guardian"
+				entity_use_tag: false
+				entity_vis_idle_mode: "USE_GLOBAL"
+				entity_vis_offset_x: 0.0f
+				entity_vis_offset_y: 0.0f
+				entity_vis_rotation: 0.0f
+				entity_vis_silhouette_mode: "NONE"
+				entity_vis_size: 1.0f
+				entity_vis_spin_mode: "USE_GLOBAL"
+				entity_vis_use_as_quest_icon: false
+				entity_vis_walk_mode: "USE_GLOBAL"
+				icon: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "mofus_better_end_:eye_guardian_angel_eye"
+				}
+				id: "1B2D4E819AC8D7EC"
+				type: "kill"
+				value: 1L
+			}]
+			x: 5.5d
+			y: -2.5d
+		}
+	]
+	title: "Chòm sao tan vỡ: Sự kết thúc"
+}

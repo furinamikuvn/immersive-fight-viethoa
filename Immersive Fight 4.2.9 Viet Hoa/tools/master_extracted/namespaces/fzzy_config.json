@@ -1,0 +1,1077 @@
+{
+  "fc.validated_field.boolean.true": {
+    "en": "True",
+    "zh": null,
+    "vi": null
+  },
+  "fc.validated_field.boolean.false": {
+    "en": "False",
+    "zh": null,
+    "vi": null
+  },
+  "fc.validated_field.choice_set": {
+    "en": "Edit Choices...",
+    "zh": null,
+    "vi": null
+  },
+  "fc.validated_field.choice_set.deselect": {
+    "en": "Deselect all",
+    "zh": null,
+    "vi": null
+  },
+  "fc.validated_field.choice_set.select": {
+    "en": "Select all",
+    "zh": null,
+    "vi": null
+  },
+  "fc.validated_field.color.r": {
+    "en": "R",
+    "zh": null,
+    "vi": null
+  },
+  "fc.validated_field.color.g": {
+    "en": "G",
+    "zh": null,
+    "vi": null
+  },
+  "fc.validated_field.color.b": {
+    "en": "B",
+    "zh": null,
+    "vi": null
+  },
+  "fc.validated_field.color.a": {
+    "en": "A",
+    "zh": null,
+    "vi": null
+  },
+  "fc.validated_field.color.hl": {
+    "en": "Hue Light Map",
+    "zh": null,
+    "vi": null
+  },
+  "fc.validated_field.color.s": {
+    "en": "Saturation Slider",
+    "zh": null,
+    "vi": null
+  },
+  "fc.validated_field.color.r.desc": {
+    "en": "Enter an integer between 0 and 255",
+    "zh": null,
+    "vi": null
+  },
+  "fc.validated_field.color.g.desc": {
+    "en": "Enter an integer between 0 and 255",
+    "zh": null,
+    "vi": null
+  },
+  "fc.validated_field.color.b.desc": {
+    "en": "Enter an integer between 0 and 255",
+    "zh": null,
+    "vi": null
+  },
+  "fc.validated_field.color.a.desc": {
+    "en": "Enter an integer between 0 and 255",
+    "zh": null,
+    "vi": null
+  },
+  "fc.validated_field.color.a.desc_locked": {
+    "en": "Alpha is locked to 255.",
+    "zh": null,
+    "vi": null
+  },
+  "fc.validated_field.color.s.desc": {
+    "en": "Use hue brightness map to change those values",
+    "zh": null,
+    "vi": null
+  },
+  "fc.validated_field.color.s.usage.keyboard": {
+    "en": "Press up or down arrow keys to change color saturation",
+    "zh": null,
+    "vi": null
+  },
+  "fc.validated_field.color.hl.desc": {
+    "en": "Only assigns hue and brightness. Use saturation slider to change saturation.",
+    "zh": null,
+    "vi": null
+  },
+  "fc.validated_field.color.hl.usage.keyboard": {
+    "en": "Press left or right arrow to change color hue. Press up or down for color brightness",
+    "zh": null,
+    "vi": null
+  },
+  "fc.validated_field.color.hl.usage.mouse": {
+    "en": "Click the map to assign a hue and light value",
+    "zh": null,
+    "vi": null
+  },
+  "fc.validated_field.color.int.desc": {
+    "en": "Hexadecimal color representation.",
+    "zh": null,
+    "vi": null
+  },
+  "fc.validated_field.entity_attribute.error": {
+    "en": "§o§4Unknown Attribute§r",
+    "zh": null,
+    "vi": null
+  },
+  "fc.validated_field.expression": {
+    "en": "Edit Expression",
+    "zh": null,
+    "vi": null
+  },
+  "fc.validated_field.expression.ln.tip": {
+    "en": "Natural Logarithm\ncomputes log base 'e' on the given value",
+    "zh": null,
+    "vi": null
+  },
+  "fc.validated_field.expression.min.tip": {
+    "en": "Max\ncomputes the maximum of the two given values",
+    "zh": null,
+    "vi": null
+  },
+  "fc.validated_field.expression.max.tip": {
+    "en": "Min\ncomputes the minimum of the two given values",
+    "zh": null,
+    "vi": null
+  },
+  "fc.validated_field.expression.log.tip": {
+    "en": "Logarithm\ncomputes log of the given first value with base of the second value\nlog[right](left)",
+    "zh": null,
+    "vi": null
+  },
+  "fc.validated_field.expression.log10.tip": {
+    "en": "Logarithm Base 10\ncomputes log base 10 on the given value",
+    "zh": null,
+    "vi": null
+  },
+  "fc.validated_field.expression.log2.tip": {
+    "en": "Logarithm Base 2\ncomputes log base 2 on the given value",
+    "zh": null,
+    "vi": null
+  },
+  "fc.validated_field.expression.sqrt.tip": {
+    "en": "Square Root\ncomputes the square root of the given value",
+    "zh": null,
+    "vi": null
+  },
+  "fc.validated_field.expression.abs.tip": {
+    "en": "Absolute Value\ncomputes the absolute value of the given value",
+    "zh": null,
+    "vi": null
+  },
+  "fc.validated_field.expression.sin.tip": {
+    "en": "Sine\ncomputes the sine of the given value, in radians",
+    "zh": null,
+    "vi": null
+  },
+  "fc.validated_field.expression.cos.tip": {
+    "en": "Cosine\ncomputes the cosine of the given value, in radians",
+    "zh": null,
+    "vi": null
+  },
+  "fc.validated_field.expression.pow.tip": {
+    "en": "Exponent\nraises the value on the left side of the ^ to the power of the value on the right",
+    "zh": null,
+    "vi": null
+  },
+  "fc.validated_field.expression.paren.tip": {
+    "en": "Parentheses\nadds a set of parentheses",
+    "zh": null,
+    "vi": null
+  },
+  "fc.validated_field.expression.incr.tip": {
+    "en": "Round-to-Increment\nrounds the given value to the next closest lower multiple of the given increment.\nincr(1.16, 0.1) will round to 1.1",
+    "zh": null,
+    "vi": null
+  },
+  "fc.validated_field.expression.ciel.tip": {
+    "en": "Ceiling\nrounds the given value up (towards positive infinity)",
+    "zh": null,
+    "vi": null
+  },
+  "fc.validated_field.expression.flr.tip": {
+    "en": "Floor\nrounds the given value down (towards negative infinity)",
+    "zh": null,
+    "vi": null
+  },
+  "fc.validated_field.expression.rnd.tip": {
+    "en": "Round\nrounds the given value towards the nearest integer.\nTies round to the even number.",
+    "zh": null,
+    "vi": null
+  },
+  "fc.validated_field.expression.plus.tip": {
+    "en": "Plus\nadds the left and right value",
+    "zh": null,
+    "vi": null
+  },
+  "fc.validated_field.expression.minus.tip": {
+    "en": "Minus\nsubtracts the right value from the left value",
+    "zh": null,
+    "vi": null
+  },
+  "fc.validated_field.expression.times.tip": {
+    "en": "Multiply\nmultiplies the left and right value",
+    "zh": null,
+    "vi": null
+  },
+  "fc.validated_field.expression.div.tip": {
+    "en": "Divide\ndivides the left value by the right value",
+    "zh": null,
+    "vi": null
+  },
+  "fc.validated_field.expression.mod.tip": {
+    "en": "Modulus\ncomputes the remainder after dividing the left value by the right value",
+    "zh": null,
+    "vi": null
+  },
+  "fc.validated_field.ingredient": {
+    "en": "Only values in selected type are kept",
+    "zh": null,
+    "vi": null
+  },
+  "fc.validated_field.ingredient.edit": {
+    "en": "Edit Ingredient...",
+    "zh": null,
+    "vi": null
+  },
+  "fc.validated_field.ingredient.items": {
+    "en": "Item IDs",
+    "zh": null,
+    "vi": null
+  },
+  "fc.validated_field.ingredient.tags": {
+    "en": "Tag IDs",
+    "zh": null,
+    "vi": null
+  },
+  "fc.validated_field.ingredient.clear": {
+    "en": "Clear",
+    "zh": null,
+    "vi": null
+  },
+  "fc.validated_field.list": {
+    "en": "Edit List...",
+    "zh": null,
+    "vi": null
+  },
+  "fc.validated_field.list.clear": {
+    "en": "Clear List",
+    "zh": null,
+    "vi": null
+  },
+  "fc.validated_field.list.clear.desc": {
+    "en": "Pressing Confirm will entirely clear this list. Continue?",
+    "zh": null,
+    "vi": null
+  },
+  "fc.validated_field.map": {
+    "en": "Edit Map...",
+    "zh": null,
+    "vi": null
+  },
+  "fc.validated_field.map.clear": {
+    "en": "Clear Map",
+    "zh": null,
+    "vi": null
+  },
+  "fc.validated_field.map.clear.desc": {
+    "en": "Pressing Confirm will entirely clear this map. Continue?",
+    "zh": null,
+    "vi": null
+  },
+  "fc.validated_field.number.desc.fallback": {
+    "en": "Number between %1$s and %2$s",
+    "zh": null,
+    "vi": null
+  },
+  "fc.validated_field.number.desc.fallback.min": {
+    "en": "Number less than or equal to %s",
+    "zh": null,
+    "vi": null
+  },
+  "fc.validated_field.number.desc.fallback.max": {
+    "en": "Number greater than or equal to %s",
+    "zh": null,
+    "vi": null
+  },
+  "fc.validated_field.number.desc.fallback.any": {
+    "en": "Any valid number",
+    "zh": null,
+    "vi": null
+  },
+  "fc.validated_field.number.editBox.usage": {
+    "en": "Type new number to update.",
+    "zh": null,
+    "vi": null
+  },
+  "fc.validated_field.number.slider.usage": {
+    "en": "Press left or right keys to increment value.",
+    "zh": null,
+    "vi": null
+  },
+  "fc.validated_field.number.slider.usage2": {
+    "en": "Press enter to confirm.",
+    "zh": null,
+    "vi": null
+  },
+  "fc.validated_field.number.slider.usage.unfocused": {
+    "en": "Drag slider to change value.",
+    "zh": null,
+    "vi": null
+  },
+  "fc.validated_field.number.textbox.invalid": {
+    "en": "Invalid entry: Needs to be a number.",
+    "zh": null,
+    "vi": null
+  },
+  "fc.validated_field.number.textbox.usage": {
+    "en": "Press enter to confirm entry.",
+    "zh": null,
+    "vi": null
+  },
+  "fc.validated_field.number.textbox.usage.unfocused": {
+    "en": "Click checkmark to confirm entry.",
+    "zh": null,
+    "vi": null
+  },
+  "fc.validated_field.object": {
+    "en": "Edit...",
+    "zh": null,
+    "vi": null
+  },
+  "fc.validated_field.set": {
+    "en": "Edit Set...",
+    "zh": null,
+    "vi": null
+  },
+  "fc.validated_field.set.clear": {
+    "en": "Clear Set",
+    "zh": null,
+    "vi": null
+  },
+  "fc.validated_field.set.clear.desc": {
+    "en": "Pressing Confirm will entirely clear this set. Continue?",
+    "zh": null,
+    "vi": null
+  },
+  "fc.validated_field.condition": {
+    "en": "Condition not met",
+    "zh": null,
+    "vi": null
+  },
+  "fc.validated_field.conditions": {
+    "en": "Conditions not met",
+    "zh": null,
+    "vi": null
+  },
+  "fc.validated_field.pair.left": {
+    "en": "Left",
+    "zh": null,
+    "vi": null
+  },
+  "fc.validated_field.pair.right": {
+    "en": "Right",
+    "zh": null,
+    "vi": null
+  },
+  "fc.validated_field.expand": {
+    "en": "Expanded",
+    "zh": null,
+    "vi": null
+  },
+  "fc.validated_field.expand.usage.focused": {
+    "en": "Press enter to expand",
+    "zh": null,
+    "vi": null
+  },
+  "fc.validated_field.expand.usage.hovered": {
+    "en": "Left click to expand",
+    "zh": null,
+    "vi": null
+  },
+  "fc.validated_field.collapse": {
+    "en": "Collapsed",
+    "zh": null,
+    "vi": null
+  },
+  "fc.validated_field.collapse.usage.focused": {
+    "en": "Press enter to collapse",
+    "zh": null,
+    "vi": null
+  },
+  "fc.validated_field.collapse.usage.hovered": {
+    "en": "Left click to collapse",
+    "zh": null,
+    "vi": null
+  },
+  "fc.validated_field.current": {
+    "en": "Current value: %s",
+    "zh": null,
+    "vi": null
+  },
+  "fc.validated_field.default": {
+    "en": "Restore [%1$s] to default of [%2$s]",
+    "zh": null,
+    "vi": null
+  },
+  "fc.validated_field.update.error": {
+    "en": "Update error for [%1$s], [%2$s] to [%3$s]: %4$s",
+    "zh": null,
+    "vi": null
+  },
+  "fc.validated_field.revert.error": {
+    "en": "Revert error for [%1$s]: %2$s",
+    "zh": null,
+    "vi": null
+  },
+  "fc.validated_field.update": {
+    "en": "[%1$s], [%2$s] to [%3$s]",
+    "zh": null,
+    "vi": null
+  },
+  "fc.validated_field.revert": {
+    "en": "Revert [%1$s], [%2$s] back to [%3$s]",
+    "zh": null,
+    "vi": null
+  },
+  "test.walkable.testChildDave.testChildBool": {
+    "en": "Test Child Dave's Boolean",
+    "zh": null,
+    "vi": null
+  },
+  "test.walkable.testChildDave.testChildBool.desc": {
+    "en": "Dave's favorite boolean. Please treat it well.",
+    "zh": null,
+    "vi": null
+  },
+  "fc.networking.permission.cheat": {
+    "en": "Player [%1$s] may have tried cheating in server config changes!",
+    "zh": null,
+    "vi": null
+  },
+  "fc.networking.restart": {
+    "en": "Configs require a restart.",
+    "zh": null,
+    "vi": null
+  },
+  "fc.narrator.position.list": {
+    "en": "List entry %1$s of %2$s",
+    "zh": null,
+    "vi": null
+  },
+  "fc.narrator.position.config": {
+    "en": "Setting %1$s of %2$s",
+    "zh": null,
+    "vi": null
+  },
+  "fc.narrator.position.entry": {
+    "en": "Element %1$s of %2$s",
+    "zh": null,
+    "vi": null
+  },
+  "fc.narrator.position.child": {
+    "en": "Sub-element %1$s of %2$s",
+    "zh": null,
+    "vi": null
+  },
+  "fc.command.config": {
+    "en": "§6§lConfig Affected:§r",
+    "zh": null,
+    "vi": null
+  },
+  "fc.command.player": {
+    "en": "§6§lPlayer Responsible:§r",
+    "zh": null,
+    "vi": null
+  },
+  "fc.command.history": {
+    "en": "§6§lChange History at the time of the incident:§r",
+    "zh": null,
+    "vi": null
+  },
+  "fc.command.accept": {
+    "en": "[Accept Update]",
+    "zh": null,
+    "vi": null
+  },
+  "fc.command.accepted": {
+    "en": "Update Accepted; senders permissions are being re-synced: %s",
+    "zh": null,
+    "vi": null
+  },
+  "fc.command.reject": {
+    "en": "[Reject Update]",
+    "zh": null,
+    "vi": null
+  },
+  "fc.command.rejected": {
+    "en": "Update Accepted: %s",
+    "zh": null,
+    "vi": null
+  },
+  "fc.command.inspect": {
+    "en": "[Inspect Update]",
+    "zh": null,
+    "vi": null
+  },
+  "fc.command.error.no_id": {
+    "en": "Quarantined update id not valid",
+    "zh": null,
+    "vi": null
+  },
+  "fc.config.generic.section": {
+    "en": "Config Section",
+    "zh": null,
+    "vi": null
+  },
+  "fc.config.generic.section.desc": {
+    "en": "This Config Section doesn't implement it's translation key. The screen doesn't know what to call it!",
+    "zh": null,
+    "vi": null
+  },
+  "fc.config.generic.field": {
+    "en": "Setting",
+    "zh": null,
+    "vi": null
+  },
+  "fc.config.generic.field.desc": {
+    "en": "This Setting doesn't implement it's translation key. The screen doesn't know what to call it!",
+    "zh": null,
+    "vi": null
+  },
+  "fc.config.right_click": {
+    "en": "Actions",
+    "zh": null,
+    "vi": null
+  },
+  "fc.config.restore.confirm.desc": {
+    "en": "Pressing Confirm will reset this setting to its default. Continue?",
+    "zh": null,
+    "vi": null
+  },
+  "fc.config.back": {
+    "en": "Back",
+    "zh": null,
+    "vi": null
+  },
+  "fc.config.back.desc": {
+    "en": "Return to %s\n(Hold shift to exit fully)",
+    "zh": null,
+    "vi": null
+  },
+  "fc.config.done.desc": {
+    "en": "Save config and close screen",
+    "zh": null,
+    "vi": null
+  },
+  "fc.config.search": {
+    "en": "Search",
+    "zh": null,
+    "vi": null
+  },
+  "fc.config.search.desc": {
+    "en": "Filter settings by name\n\n$ : search descriptions\n- : negate search\n-$ : negate description\n\"\" : exact search\n-\"\" : negate exact search",
+    "zh": null,
+    "vi": null
+  },
+  "fc.config.forwarded": {
+    "en": "Forwarded Settings",
+    "zh": null,
+    "vi": null
+  },
+  "fc.config.forwarded_error.c2s": {
+    "en": "Failed to forward the setting(s). The server isn't accepting this type of data, please contact an admin for help.",
+    "zh": null,
+    "vi": null
+  },
+  "fc.config.forwarded_error.s2c": {
+    "en": "Failed to forward the setting(s). The player you are trying to forward the setting to doesn't have a compatible client.",
+    "zh": null,
+    "vi": null
+  },
+  "fc.config.restart": {
+    "en": "Restart Required",
+    "zh": null,
+    "vi": null
+  },
+  "fc.config.restart.warning": {
+    "en": "Changing this setting will require a restart!",
+    "zh": null,
+    "vi": null
+  },
+  "fc.config.restart.warning.section": {
+    "en": "Some settings within this section will require a restart if changed!",
+    "zh": null,
+    "vi": null
+  },
+  "fc.config.restart.warning.config": {
+    "en": "Some settings within this config will require a restart if changed!",
+    "zh": null,
+    "vi": null
+  },
+  "fc.config.restart.update": {
+    "en": "You have received a configuration update that may require a client restart. Please contact a Server Operator if you have any questions.",
+    "zh": null,
+    "vi": null
+  },
+  "fc.config.restart.update.client": {
+    "en": "You have made changes to configuration(s) that require a client restart.",
+    "zh": null,
+    "vi": null
+  },
+  "fc.config.restart.update.client.prompt": {
+    "en": "[Restart]",
+    "zh": null,
+    "vi": null
+  },
+  "fc.config.restart.update.server": {
+    "en": "You have made changes to configuration(s) that require a server restart. Connected clients have been automatically updated and notified; please follow up with players and/or staff members to schedule a restart.",
+    "zh": null,
+    "vi": null
+  },
+  "fc.config.restart.sync": {
+    "en": "Settings received during synchronization require a client restart. Proceed?",
+    "zh": null,
+    "vi": null
+  },
+  "fc.config.relog.warning": {
+    "en": "Changing this setting will require leaving and rejoining the current server or world!",
+    "zh": null,
+    "vi": null
+  },
+  "fc.config.relog.warning.section": {
+    "en": "Some settings within this section will require leaving and rejoining the current server or world if changed!",
+    "zh": null,
+    "vi": null
+  },
+  "fc.config.relog.warning.config": {
+    "en": "Some settings within this config will require leaving and rejoining the current server or world if changed!",
+    "zh": null,
+    "vi": null
+  },
+  "fc.config.relog.update": {
+    "en": "You have received a configuration update that may require you to leave and rejoin the current server. Please contact a Server Operator if you have any questions.",
+    "zh": null,
+    "vi": null
+  },
+  "fc.config.relog.update.client": {
+    "en": "You have made changes to configuration(s) that require leaving and rejoining the world.",
+    "zh": null,
+    "vi": null
+  },
+  "fc.config.relog.update.client.prompt": {
+    "en": "[Leave Game]",
+    "zh": null,
+    "vi": null
+  },
+  "fc.config.relog.update.server": {
+    "en": "You have made changes to configuration(s) that require leaving and rejoining the current server. Connected clients have been automatically updated and notified; please follow up with players as needed.",
+    "zh": null,
+    "vi": null
+  },
+  "fc.config.reload_both.warning": {
+    "en": "Changing this setting will require reloading data packs (/reload) and resources (F3 + T).",
+    "zh": null,
+    "vi": null
+  },
+  "fc.config.reload_both.warning.section": {
+    "en": "Some settings within this section will require reloading data packs (/reload) and resources (F3 + T) if changed.",
+    "zh": null,
+    "vi": null
+  },
+  "fc.config.reload_both.warning.config": {
+    "en": "Some settings within this config will require reloading data packs (/reload) and resources (F3 + T) if changed.",
+    "zh": null,
+    "vi": null
+  },
+  "fc.config.reload_both.update": {
+    "en": "You have received a configuration update that may require reloading data packs (/reload) and resources (F3 + T). Prepare for a possible server reload, and please contact a Server Operator if you have any questions.",
+    "zh": null,
+    "vi": null
+  },
+  "fc.config.reload_both.update.client": {
+    "en": "You have made changes to configuration(s) that require reloading data packs (/reload) and resources (F3 + T).",
+    "zh": null,
+    "vi": null
+  },
+  "fc.config.reload_both.update.server": {
+    "en": "You have made changes to configuration(s) that require reloading data packs (/reload) and resources (F3 + T). Connected clients have been automatically updated and notified that they need to reload resources; please follow up with players and/or staff members to schedule a reload.",
+    "zh": null,
+    "vi": null
+  },
+  "fc.config.reload_data.warning": {
+    "en": "Changing this setting will require reloading data packs (/reload).",
+    "zh": null,
+    "vi": null
+  },
+  "fc.config.reload_data.warning.section": {
+    "en": "Some settings within this section will require reloading data packs (/reload) if changed.",
+    "zh": null,
+    "vi": null
+  },
+  "fc.config.reload_data.warning.config": {
+    "en": "Some settings within this config will require reloading data packs (/reload) if changed.",
+    "zh": null,
+    "vi": null
+  },
+  "fc.config.reload_data.update": {
+    "en": "You have received a configuration update that may require reloading data packs. Please prepare for a possible server reload.",
+    "zh": null,
+    "vi": null
+  },
+  "fc.config.reload_data.update.client": {
+    "en": "You have made changes to configuration(s) that require reloading data packs (/reload).",
+    "zh": null,
+    "vi": null
+  },
+  "fc.config.reload_data.update.prompt": {
+    "en": "[Reload Data Packs]",
+    "zh": null,
+    "vi": null
+  },
+  "fc.config.reload_data.update.server": {
+    "en": "You have made changes to configuration(s) that require reloading data packs (/reload). Connected clients have been automatically updated and notified of the potential for a reload; please follow up with players and/or staff members to schedule a reload.",
+    "zh": null,
+    "vi": null
+  },
+  "fc.config.reload_resources.warning": {
+    "en": "Changing this setting will require reloading resources (F3 + T).",
+    "zh": null,
+    "vi": null
+  },
+  "fc.config.reload_resources.warning.section": {
+    "en": "Some settings within this section will require reloading resources (F3 + T).",
+    "zh": null,
+    "vi": null
+  },
+  "fc.config.reload_resources.warning.config": {
+    "en": "Some settings within this config will require reloading resources (F3 + T) if changed.",
+    "zh": null,
+    "vi": null
+  },
+  "fc.config.reload_resources.update": {
+    "en": "You have received a configuration update that may require reloading resources (F3 + T). Please contact a Server Operator if you have any questions.",
+    "zh": null,
+    "vi": null
+  },
+  "fc.config.reload_resources.update.client": {
+    "en": "You have made changes to configuration(s) that require reloading resources (F3 + T).",
+    "zh": null,
+    "vi": null
+  },
+  "fc.config.reload_resources.update.client.prompt": {
+    "en": "[Reload Resource Packs]",
+    "zh": null,
+    "vi": null
+  },
+  "fc.config.reload_resources.update.server": {
+    "en": "You have made changes to configuration(s) that require clients to reload resources (F3 + T). Connected clients have been automatically updated and notified; please follow up with players if there are any questions.",
+    "zh": null,
+    "vi": null
+  },
+  "fc.config.prompt.hover": {
+    "en": "Click to execute command",
+    "zh": null,
+    "vi": null
+  },
+  "fc.button.accept": {
+    "en": "Accept",
+    "zh": null,
+    "vi": null
+  },
+  "fc.button.deny": {
+    "en": "Deny",
+    "zh": null,
+    "vi": null
+  },
+  "fc.button.apply": {
+    "en": "Apply Changes",
+    "zh": null,
+    "vi": null
+  },
+  "fc.button.apply.desc": {
+    "en": "Applies all changes and saves configs",
+    "zh": null,
+    "vi": null
+  },
+  "fc.button.revert": {
+    "en": "Revert Changes",
+    "zh": null,
+    "vi": null
+  },
+  "fc.button.revert.desc": {
+    "en": "Reverts all changes just made to configs",
+    "zh": null,
+    "vi": null
+  },
+  "fc.button.restore": {
+    "en": "Restore Defaults",
+    "zh": null,
+    "vi": null
+  },
+  "fc.button.restore.desc": {
+    "en": "Restores all configs default settings",
+    "zh": null,
+    "vi": null
+  },
+  "fc.button.restore.confirm": {
+    "en": "Confirm",
+    "zh": null,
+    "vi": null
+  },
+  "fc.button.restore.confirm.desc": {
+    "en": "Pressing Confirm will reset these settings to their defaults. Continue?",
+    "zh": null,
+    "vi": null
+  },
+  "fc.button.reset": {
+    "en": "Reset Config",
+    "zh": null,
+    "vi": null
+  },
+  "fc.button.changelog": {
+    "en": "Change History",
+    "zh": null,
+    "vi": null
+  },
+  "fc.button.changelog.desc": {
+    "en": "Lists all changes just made to configs",
+    "zh": null,
+    "vi": null
+  },
+  "fc.button.forward": {
+    "en": "Forward Setting",
+    "zh": null,
+    "vi": null
+  },
+  "fc.button.forward.confirm": {
+    "en": "Forward",
+    "zh": null,
+    "vi": null
+  },
+  "fc.button.forward.active": {
+    "en": "Forward this entry to another player",
+    "zh": null,
+    "vi": null
+  },
+  "fc.button.forward.inactive": {
+    "en": "No-one to forward settings to",
+    "zh": null,
+    "vi": null
+  },
+  "fc.button.alert.active": {
+    "en": "Forwarded settings",
+    "zh": null,
+    "vi": null
+  },
+  "fc.button.alert.inactive": {
+    "en": "No forwarded settings",
+    "zh": null,
+    "vi": null
+  },
+  "fc.button.noPerms": {
+    "en": "Can't Edit",
+    "zh": null,
+    "vi": null
+  },
+  "fc.button.noPerms.desc": {
+    "en": "You don't have the proper permissions to edit this entry.",
+    "zh": null,
+    "vi": null
+  },
+  "fc.button.outOfGame": {
+    "en": "Not in Game",
+    "zh": null,
+    "vi": null
+  },
+  "fc.button.outOfGame.desc": {
+    "en": "Join a game or connect to a server to edit this entry",
+    "zh": null,
+    "vi": null
+  },
+  "fc.button.navigate": {
+    "en": "Navigate to %s",
+    "zh": null,
+    "vi": null
+  },
+  "fc.button.changes": {
+    "en": "Changes...",
+    "zh": null,
+    "vi": null
+  },
+  "fc.button.changes.title": {
+    "en": "Manage Changes",
+    "zh": null,
+    "vi": null
+  },
+  "fc.button.changes.message": {
+    "en": "%s Changes Made Button",
+    "zh": null,
+    "vi": null
+  },
+  "fc.button.changes.message.noChanges": {
+    "en": "No Changes Made Button",
+    "zh": null,
+    "vi": null
+  },
+  "fc.button.changes.desc": {
+    "en": "Change management menu for applying and reverting changes.",
+    "zh": null,
+    "vi": null
+  },
+  "fc.button.copy": {
+    "en": "Copy",
+    "zh": null,
+    "vi": null
+  },
+  "fc.button.paste": {
+    "en": "Paste",
+    "zh": null,
+    "vi": null
+  },
+  "fc.button.save": {
+    "en": "Save Config",
+    "zh": null,
+    "vi": null
+  },
+  "fc.button.delete": {
+    "en": "Delete Entry",
+    "zh": null,
+    "vi": null
+  },
+  "fc.button.add": {
+    "en": "Add New Entry",
+    "zh": null,
+    "vi": null
+  },
+  "fc.button.config": {
+    "en": "Open Config",
+    "zh": null,
+    "vi": null
+  },
+  "fc.button.config_inactive": {
+    "en": "§cConfig not found§r",
+    "zh": null,
+    "vi": null
+  },
+  "fc.button.cancel": {
+    "en": "Cancel",
+    "zh": null,
+    "vi": null
+  },
+  "fc.button.goto": {
+    "en": "Go To...",
+    "zh": null,
+    "vi": null
+  },
+  "fc.button.goto.narration": {
+    "en": "Go To: %s",
+    "zh": null,
+    "vi": null
+  },
+  "fc.button.up": {
+    "en": "Increment",
+    "zh": null,
+    "vi": null
+  },
+  "fc.button.down": {
+    "en": "Decrement",
+    "zh": null,
+    "vi": null
+  },
+  "fc.button.slider.usage.focused": {
+    "en": "Press up or down arrows to change value",
+    "zh": null,
+    "vi": null
+  },
+  "fc.button.restart.cancel": {
+    "en": "Back to Title Screen",
+    "zh": null,
+    "vi": null
+  },
+  "fc.button.info": {
+    "en": "Screen Usage Information",
+    "zh": null,
+    "vi": null
+  },
+  "fc.button.info.fc": {
+    "en": "§oThis config is powered by %s§r",
+    "zh": null,
+    "vi": null
+  },
+  "fc.button.info.fc.tip": {
+    "en": "Open Curseforge page",
+    "zh": null,
+    "vi": null
+  },
+  "fc.button.info.undo": {
+    "en": "§o[Ctrl + Z]§r - Undoes changes one-by-one new to old.",
+    "zh": null,
+    "vi": null
+  },
+  "fc.button.info.find": {
+    "en": "§o[Ctrl + F]§r - Focuses the search bar.",
+    "zh": null,
+    "vi": null
+  },
+  "fc.button.info.copy": {
+    "en": "§o[Ctrl + C]§r - Copies hovered or selected setting.",
+    "zh": null,
+    "vi": null
+  },
+  "fc.button.info.paste": {
+    "en": "§o[Ctrl + V]§r - Pastes copy buffer into compatible setting.",
+    "zh": null,
+    "vi": null
+  },
+  "fc.button.info.save": {
+    "en": "§o[Ctrl + S]§r - Saves changes and sends updates to the server.",
+    "zh": null,
+    "vi": null
+  },
+  "fc.button.info.page": {
+    "en": "§o[Pg Up/Pg Dwn]§r - Scrolls up/down a 'page' of settings.",
+    "zh": null,
+    "vi": null
+  },
+  "fc.button.info.click": {
+    "en": "§o[Right Click]§r - Opens a context menu, if applicable.",
+    "zh": null,
+    "vi": null
+  },
+  "fc.button.info.click_kb": {
+    "en": "§o[Shift + F10]§r - Opens a context menu, if applicable.",
+    "zh": null,
+    "vi": null
+  },
+  "fc.button.info.click_kb2": {
+    "en": "§o[Context Menu Key]§r - Opens a context menu, if applicable.",
+    "zh": null,
+    "vi": null
+  },
+  "fc.button.info.alert": {
+    "en": "§o[!]§r - Settings marked with an icon require an action if changed.",
+    "zh": null,
+    "vi": null
+  },
+  "fc.button.click.open_url": {
+    "en": "Opens a link to %s",
+    "zh": null,
+    "vi": null
+  },
+  "fc.button.click.open_file": {
+    "en": "Opens a file: %s",
+    "zh": null,
+    "vi": null
+  },
+  "fc.button.click.run_command": {
+    "en": "runs command \"%s\"",
+    "zh": null,
+    "vi": null
+  },
+  "fc.button.click.copy_to_clipboard": {
+    "en": "copies \"%s\" to your clipboard",
+    "zh": null,
+    "vi": null
+  }
+}

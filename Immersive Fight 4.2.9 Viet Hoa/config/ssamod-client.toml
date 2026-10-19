@@ -1,0 +1,29 @@
+#Play sound in cave
+play_in_cave = false
+#Send messages in other dimensions
+send_messages_other_dim = false
+#Send messages
+send_messages = true
+#Current moon phase
+moon_phase = "All"
+#Chance to play Wolf sound
+#Range: 0 ~ 100
+chance_wolf = 100
+#Play sound in other dimensions
+play_in_other_dim = false
+#Rooster volume
+#Range: 0 ~ 100
+rooster_volume = 50
+#Chance to play Rooster sound
+#Range: 0 ~ 100
+chance_rooster = 100
+#When should howl Wolf? (time in ticks)
+#Range: 10 ~ 23999
+evening_tick = 12800
+#When should crow Rooster? (time in ticks)
+#Range: 10 ~ 23999
+morning_tick = 23250
+#Wolf volume
+#Range: 0 ~ 100
+wolf_volume = 50
+

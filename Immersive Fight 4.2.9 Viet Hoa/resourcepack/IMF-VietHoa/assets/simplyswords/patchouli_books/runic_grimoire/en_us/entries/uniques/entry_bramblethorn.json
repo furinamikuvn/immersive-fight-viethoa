@@ -1,0 +1,17 @@
+{
+  "name": "Bramblethorn (Gai Nhọn)",
+  "icon": "simplyswords:bramblethorn",
+  "advancement": "simplyswords:bramblethorn",
+  "category": "simplyswords:category_unique_weapons",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:bramblethorn",
+      "text": "Thoạt nhìn như nhánh cây tầm thường, nhưng ẩn chứa ma pháp gai góc sắc nhọn, nhẹ nhàng và đâm xuyên hiểm hóc."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Phát tán bào tử độc làm chậm và trúng độc diện rộng. Cẩn trọng không dùng gần đồng minh hoặc vật nuôi."
+    }
+  ]
+}

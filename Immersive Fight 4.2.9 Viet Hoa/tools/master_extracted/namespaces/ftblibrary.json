@@ -1,0 +1,497 @@
+{
+  "gui.accept": {
+    "en": "Accept",
+    "zh": "确认",
+    "vi": "xác nhận"
+  },
+  "gui.add": {
+    "en": "Add",
+    "zh": "添加",
+    "vi": "Thêm vào"
+  },
+  "gui.added": {
+    "en": "Added",
+    "zh": "已添加",
+    "vi": "Đã thêm"
+  },
+  "gui.remove": {
+    "en": "Remove",
+    "zh": "移除",
+    "vi": "Di dời"
+  },
+  "gui.removed": {
+    "en": "Removed",
+    "zh": "已移除",
+    "vi": "LOẠI BỎ"
+  },
+  "gui.close": {
+    "en": "Close",
+    "zh": "关闭",
+    "vi": "đóng cửa"
+  },
+  "gui.open": {
+    "en": "Open",
+    "zh": "打开",
+    "vi": "Mở"
+  },
+  "gui.saved": {
+    "en": "Saved",
+    "zh": "已保存",
+    "vi": "đã lưu"
+  },
+  "gui.loaded": {
+    "en": "Loaded",
+    "zh": "已加载",
+    "vi": "Đã tải"
+  },
+  "gui.info": {
+    "en": "Info",
+    "zh": "信息",
+    "vi": "thông tin"
+  },
+  "gui.collapse_all": {
+    "en": "Collapse All",
+    "zh": "全部折叠",
+    "vi": "Thu gọn tất cả"
+  },
+  "gui.expand_all": {
+    "en": "Expand All",
+    "zh": "全部展开",
+    "vi": "Mở rộng tất cả"
+  },
+  "gui.download": {
+    "en": "Download",
+    "zh": "下载",
+    "vi": "tải về"
+  },
+  "gui.downloaded": {
+    "en": "Downloaded",
+    "zh": "已下载",
+    "vi": "Đã tải xuống"
+  },
+  "gui.update": {
+    "en": "Update",
+    "zh": "更新",
+    "vi": "gia hạn"
+  },
+  "gui.updated": {
+    "en": "Updated",
+    "zh": "已更新",
+    "vi": "đã cập nhật"
+  },
+  "gui.active": {
+    "en": "Active",
+    "zh": "激活",
+    "vi": "kích hoạt"
+  },
+  "gui.inactive": {
+    "en": "Inactive",
+    "zh": "未激活",
+    "vi": "Chưa kích hoạt"
+  },
+  "gui.settings": {
+    "en": "Settings",
+    "zh": "设置",
+    "vi": "cài đặt"
+  },
+  "gui.rename": {
+    "en": "Rename",
+    "zh": "重命名",
+    "vi": "Đổi tên"
+  },
+  "gui.search_box": {
+    "en": "Search...",
+    "zh": "搜索⋯⋯",
+    "vi": "Tìm kiếm⋯⋯"
+  },
+  "gui.move": {
+    "en": "Move",
+    "zh": "移动",
+    "vi": "di chuyển"
+  },
+  "gui.copy": {
+    "en": "Copy",
+    "zh": "复制",
+    "vi": "sao chép"
+  },
+  "gui.paste": {
+    "en": "Paste",
+    "zh": "粘贴",
+    "vi": "Dán"
+  },
+  "gui.cut": {
+    "en": "Cut",
+    "zh": "剪切",
+    "vi": "cắt"
+  },
+  "gui.other": {
+    "en": "Other",
+    "zh": "其他",
+    "vi": "khác"
+  },
+  "gui.server_forced": {
+    "en": "Server Forced: %s",
+    "zh": "服务器强制加载：%s",
+    "vi": "Máy chủ buộc tải: %s"
+  },
+  "gui.online": {
+    "en": "Online",
+    "zh": "在线",
+    "vi": "trực tuyến"
+  },
+  "gui.offline": {
+    "en": "Offline",
+    "zh": "离线",
+    "vi": "Ngoại tuyến"
+  },
+  "gui.whitelist": {
+    "en": "Whitelist",
+    "zh": "白名单",
+    "vi": "danh sách trắng"
+  },
+  "gui.blacklist": {
+    "en": "Blacklist",
+    "zh": "黑名单",
+    "vi": "danh sách đen"
+  },
+  "gui.color": {
+    "en": "Color",
+    "zh": "颜色",
+    "vi": "màu sắc"
+  },
+  "gui.downloading": {
+    "en": "Downloading...",
+    "zh": "正在下载⋯⋯",
+    "vi": "Đang tải xuống⋯⋯"
+  },
+  "gui.infinite": {
+    "en": "Infinite",
+    "zh": "无限",
+    "vi": "không giới hạn"
+  },
+  "delete_item": {
+    "en": "Do you want to delete %s?",
+    "zh": "你想要删除“%s”么？",
+    "vi": "Bạn có muốn xóa \"%s\" không?"
+  },
+  "lat_support": {
+    "en": "Like this mod? Click to support my projects!",
+    "zh": "喜欢这个模组吗？点击支持我的项目！",
+    "vi": "Thích chế độ này? Click để ủng hộ dự án của tôi!"
+  },
+  "ftblibrary.select_fluid.gui": {
+    "en": "Select Fluid",
+    "zh": "选择流体",
+    "vi": "Chọn chất lỏng"
+  },
+  "ftblibrary.select_item.list_mode": {
+    "en": "List Mode",
+    "zh": "列表模式",
+    "vi": "chế độ danh sách"
+  },
+  "ftblibrary.select_item.list_mode.all": {
+    "en": "All Items",
+    "zh": "所有物品",
+    "vi": "Tất cả các mục"
+  },
+  "ftblibrary.select_item.list_mode.inv": {
+    "en": "Inventory",
+    "zh": "物品栏",
+    "vi": "Hàng tồn kho"
+  },
+  "ftblibrary.select_item.list_mode.jei": {
+    "en": "JEI",
+    "zh": "JEI",
+    "vi": "JEI"
+  },
+  "ftblibrary.select_item.list_mode.rei": {
+    "en": "REI",
+    "zh": "REI",
+    "vi": "REI"
+  },
+  "ftblibrary.select_item.count": {
+    "en": "Set Size",
+    "zh": "设置大小",
+    "vi": "Đặt kích thước"
+  },
+  "ftblibrary.select_item.nbt": {
+    "en": "Edit NBT\n§7Left-click: quick string editor\n§7Right-click: interactive NBT editor",
+    "zh": "编辑NBT",
+    "vi": "Chỉnh sửa NBT"
+  },
+  "ftblibrary.select_item.caps": {
+    "en": "Edit Capabilities",
+    "zh": "编辑功能",
+    "vi": "Chỉnh sửa chức năng"
+  },
+  "ftblibrary.select_item.display_name": {
+    "en": "Set Display Name",
+    "zh": "设置显示名称",
+    "vi": "Đặt tên hiển thị"
+  },
+  "config.group.value": {
+    "en": "Value",
+    "zh": "参数",
+    "vi": "tham số"
+  },
+  "sidebar_button.ftblibrary.toggle.gamemode": {
+    "en": "Toggle Gamemode",
+    "zh": "切换游戏模式",
+    "vi": "Chuyển đổi chế độ trò chơi"
+  },
+  "sidebar_button.ftblibrary.toggle.gamemode.tooltip": {
+    "en": "Toggles between survival and creative mode",
+    "zh": "在生存模式和创造模式之间切换",
+    "vi": "Chuyển đổi giữa chế độ sinh tồn và chế độ sáng tạo"
+  },
+  "sidebar_button.ftblibrary.toggle.rain": {
+    "en": "Toggle Rain",
+    "zh": "切换天气",
+    "vi": "Chuyển đổi thời tiết"
+  },
+  "sidebar_button.ftblibrary.toggle.rain.tooltip": {
+    "en": "Toggles weather between clear and raining",
+    "zh": "在晴天和雨天之间切换",
+    "vi": "Chuyển đổi giữa ngày nắng và mưa"
+  },
+  "sidebar_button.ftblibrary.toggle.day": {
+    "en": "Set time to Day",
+    "zh": "时间设为白天",
+    "vi": "Đặt thời gian thành ban ngày"
+  },
+  "sidebar_button.ftblibrary.toggle.day.tooltip": {
+    "en": "Sets daytime",
+    "zh": "将时间设置为白天",
+    "vi": "Đặt thời gian thành ban ngày"
+  },
+  "sidebar_button.ftblibrary.toggle.night": {
+    "en": "Set time to Night",
+    "zh": "时间设为黑夜",
+    "vi": "Đặt thời gian vào ban đêm"
+  },
+  "sidebar_button.ftblibrary.toggle.night.tooltip": {
+    "en": "Sets nighttime",
+    "zh": "将时间设置为黑夜",
+    "vi": "Đặt thời gian vào ban đêm"
+  },
+  "item.ftblibrary.fluid_container": {
+    "en": "Fluid Container",
+    "zh": "流体容器",
+    "vi": "Fluid Container"
+  },
+  "item.ftblibrary.fluid_container.use": {
+    "en": "Right-click on a tank to empty the container",
+    "zh": "右击储罐以清空容器",
+    "vi": "Right-click on a tank to empty the container"
+  },
+  "ftblibrary.mb": {
+    "en": "%d mB of %s",
+    "zh": "%d mB%s",
+    "vi": "%d mB%s"
+  },
+  "ftblibrary.empty": {
+    "en": "Empty",
+    "zh": "空",
+    "vi": "vô giá trị"
+  },
+  "ftblibrary.select_fluid.list_mode.all": {
+    "en": "All Fluids",
+    "zh": null,
+    "vi": null
+  },
+  "ftblibrary.select_image.scanning": {
+    "en": "Scanning for images: this could take a few seconds...",
+    "zh": null,
+    "vi": null
+  },
+  "ftblibrary.select_image.rescan": {
+    "en": "Rescan Images",
+    "zh": null,
+    "vi": null
+  },
+  "ftblibrary.select_image.all_images": {
+    "en": "All Images",
+    "zh": null,
+    "vi": null
+  },
+  "ftblibrary.unsaved_changes": {
+    "en": "Discard unsaved changes?",
+    "zh": null,
+    "vi": null
+  },
+  "sidebar_group.ftblibrary.info": {
+    "en": "FTB Library — Info",
+    "zh": null,
+    "vi": null
+  },
+  "sidebar_group.ftblibrary.cheat": {
+    "en": "FTB Library — Cheats",
+    "zh": null,
+    "vi": null
+  },
+  "sidebar_group.ftblibrary.util": {
+    "en": "FTB Library — Utilities",
+    "zh": null,
+    "vi": null
+  },
+  "ftblibrary.gui.listSize1": {
+    "en": "1 item",
+    "zh": null,
+    "vi": null
+  },
+  "ftblibrary.gui.listSize": {
+    "en": "%d items",
+    "zh": null,
+    "vi": null
+  },
+  "ftblibrary.gui.error": {
+    "en": "Error!",
+    "zh": null,
+    "vi": null
+  },
+  "ftblibrary.gui.nbt_copied": {
+    "en": "NBT copied to clipboard",
+    "zh": null,
+    "vi": null
+  },
+  "ftblibrary.gui.edit_tag_name": {
+    "en": "Edit Tag Name",
+    "zh": null,
+    "vi": null
+  },
+  "ftblibrary.gui.edit_tag_value": {
+    "en": "Edit Tag Value",
+    "zh": null,
+    "vi": null
+  },
+  "ftblibrary.gui.no_selection": {
+    "en": "Nothing Selected",
+    "zh": null,
+    "vi": null
+  },
+  "ftblibrary.gui.key_reference": {
+    "en": "Key Reference",
+    "zh": null,
+    "vi": null
+  },
+  "ftblibrary.client_settings": {
+    "en": "Client Config",
+    "zh": null,
+    "vi": null
+  },
+  "ftblibrary.client_settings.tooltips.item_modname": {
+    "en": "Show Mod Name in Item Select GUI",
+    "zh": null,
+    "vi": null
+  },
+  "ftblibrary.client_settings.tooltips.fluid_modname": {
+    "en": "Show Mod Name in Fluid Select GUI",
+    "zh": null,
+    "vi": null
+  },
+  "ftblibrary.client_settings.tooltips.image_modname": {
+    "en": "Show Mod Name in Image Select GUI",
+    "zh": null,
+    "vi": null
+  },
+  "ftblibrary.palette.chat": {
+    "en": "Chat Colors",
+    "zh": null,
+    "vi": null
+  },
+  "ftblibrary.palette.dye": {
+    "en": "Dye Colors",
+    "zh": null,
+    "vi": null
+  },
+  "ftblibrary.palette.nord": {
+    "en": "Nord Theme",
+    "zh": null,
+    "vi": null
+  },
+  "ftblibrary.palette.reds": {
+    "en": "Reds",
+    "zh": null,
+    "vi": null
+  },
+  "ftblibrary.palette.greens": {
+    "en": "Greens",
+    "zh": null,
+    "vi": null
+  },
+  "ftblibrary.palette.blues": {
+    "en": "Blues",
+    "zh": null,
+    "vi": null
+  },
+  "ftblibrary.palette.recent": {
+    "en": "Recent Colors",
+    "zh": null,
+    "vi": null
+  },
+  "ftblibrary.panel.position.top_left": {
+    "en": "Top Left",
+    "zh": null,
+    "vi": null
+  },
+  "ftblibrary.panel.position.top": {
+    "en": "Top",
+    "zh": null,
+    "vi": null
+  },
+  "ftblibrary.panel.position.top_right": {
+    "en": "Top Right",
+    "zh": null,
+    "vi": null
+  },
+  "ftblibrary.panel.position.left": {
+    "en": "Left",
+    "zh": null,
+    "vi": null
+  },
+  "ftblibrary.panel.position.right": {
+    "en": "Right",
+    "zh": null,
+    "vi": null
+  },
+  "ftblibrary.panel.position.bottom_left": {
+    "en": "Bottom Left",
+    "zh": null,
+    "vi": null
+  },
+  "ftblibrary.panel.position.bottom": {
+    "en": "Bottom",
+    "zh": null,
+    "vi": null
+  },
+  "ftblibrary.panel.position.bottom_right": {
+    "en": "Bottom Right",
+    "zh": null,
+    "vi": null
+  },
+  "dimension.minecraft.overworld": {
+    "en": "Overworld",
+    "zh": null,
+    "vi": null
+  },
+  "dimension.minecraft.the_nether": {
+    "en": "The Nether",
+    "zh": null,
+    "vi": null
+  },
+  "dimension.minecraft.the_end": {
+    "en": "The End",
+    "zh": null,
+    "vi": null
+  },
+  "dimension.hyperbox.hyperbox": {
+    "en": "Hyperbox",
+    "zh": null,
+    "vi": null
+  },
+  "dimension.ae2.spatial_storage": {
+    "en": "AE2 Spatial Storage",
+    "zh": null,
+    "vi": null
+  }
+}

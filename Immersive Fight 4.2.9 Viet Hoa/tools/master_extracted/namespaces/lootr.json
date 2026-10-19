@@ -1,0 +1,252 @@
+{
+  "lootr.message.should_sneak": {
+    "en": "Breaking the chest will delete your unique loot and all items in the chest! In order to break, you must sneak while doing so.",
+    "zh": "破坏箱子将会永久删去其中的战利品！如果你真的想破坏它，请在潜行时破坏。",
+    "vi": "Phá hủy một chiếc rương sẽ xóa vĩnh viễn chiến lợi phẩm của nó! Nếu bạn thực sự muốn tiêu diệt nó, hãy làm điều đó trong khi lén lút."
+  },
+  "lootr.message.should_sneak2": {
+    "en": "As loot is %s, only break if really needed.",
+    "zh": "由于箱内战利品是%s，请只在必要时破坏战利品箱。",
+    "vi": "Vì chiến lợi phẩm bên trong hộp là %s nên vui lòng chỉ phá hủy chiến lợi phẩm khi cần thiết."
+  },
+  "lootr.message.should_sneak3": {
+    "en": "per-player per-chest",
+    "zh": "各玩家相互独立的",
+    "vi": "Người chơi độc lập với nhau"
+  },
+  "lootr.message.cart_should_sneak": {
+    "en": "Breaking the cart will delete your unique loot and items! In order to break, you must sneak while attacking",
+    "zh": "破坏矿车将会永久删去其中的战利品！如果你真的想破坏它，请在潜行时破坏。",
+    "vi": "Việc phá hủy xe chở hàng sẽ xóa vĩnh viễn chiến lợi phẩm của nó! Nếu bạn thực sự muốn tiêu diệt nó, hãy làm điều đó trong khi lén lút."
+  },
+  "lootr.message.cart_should_sneak3": {
+    "en": "per-player per-cart",
+    "zh": "各玩家相互独立的",
+    "vi": "Người chơi độc lập với nhau"
+  },
+  "lootr.message.cannot_break": {
+    "en": "Loot containers and carts cannot be broken.",
+    "zh": "战利品容器和矿车不能被破坏。",
+    "vi": "Thùng chứa chiến lợi phẩm và xe chở mìn không thể bị phá hủy."
+  },
+  "lootr.message.cannot_break_sneak": {
+    "en": "Loot containers and carts can only be broken while sneaking in creative mode.",
+    "zh": "战利品容器和矿车只能在创造模式潜行时被破坏。",
+    "vi": "Các thùng chứa chiến lợi phẩm và xe chở mìn chỉ có thể bị phá hủy khi lẻn vào chế độ sáng tạo."
+  },
+  "lootr.message.decayed": {
+    "en": "The decaying container crumbles at your touch!",
+    "zh": "衰败的容器在你的接触后碎了！",
+    "vi": "Vật chứa sự phân hủy sẽ vỡ tan khi bạn chạm vào!"
+  },
+  "lootr.message.decay_in": {
+    "en": "This container will decay completely in %s seconds.",
+    "zh": "这个容器将在%s秒内完全衰败。",
+    "vi": "Thùng chứa này sẽ phân hủy hoàn toàn sau %s giây."
+  },
+  "lootr.message.decay_start": {
+    "en": "The container begins to crumble at your touch! It will decay completely in %s seconds.",
+    "zh": "容器在你的接触后开始碎裂！它将在%s秒内完全衰败。",
+    "vi": "Hộp đựng bắt đầu vỡ khi bạn tiếp xúc! Nó sẽ phân rã hoàn toàn trong vòng %s giây."
+  },
+  "lootr.message.refreshed": {
+    "en": "The contents of the container are refreshed at your touch!",
+    "zh": "容器中的物品在你接触后被刷新！",
+    "vi": "Các vật phẩm trong thùng chứa sẽ được làm mới khi bạn chạm vào chúng!"
+  },
+  "lootr.message.refresh_in": {
+    "en": "This container will refresh its contents in %s seconds.",
+    "zh": "这个容器将在%s秒内刷新里面的物品。",
+    "vi": "Vùng chứa này sẽ làm mới nội dung của nó trong vòng %s giây."
+  },
+  "lootr.message.refresh_start": {
+    "en": "The container will refresh with new contents in %s seconds!",
+    "zh": "容器将在%s秒后用新的物品进行刷新！",
+    "vi": "Thùng chứa sẽ được làm mới với các vật phẩm mới sau %s giây!"
+  },
+  "lootr.message.invalid_table": {
+    "en": "The loot table for this container [%s] resolved to empty and loot could not be generated. Check your `latest.log` for errors.",
+    "zh": "这个容器的战利品表[%s]为空，战利品无法生成。检查你的 `latest.log` 中是否有报错。",
+    "vi": "Bảng chiến lợi phẩm [%s] của thùng chứa này trống và không thể tạo chiến lợi phẩm. Kiểm tra `latest.log` của bạn xem có lỗi nào không."
+  },
+  "block.lootr.lootr_chest": {
+    "en": "Loot Chest",
+    "zh": "战利品箱子",
+    "vi": "Loot Chest"
+  },
+  "block.lootr.lootr_trapped_chest": {
+    "en": "Loot Chest",
+    "zh": "战利品箱子",
+    "vi": "Loot Chest"
+  },
+  "block.lootr.lootr_barrel": {
+    "en": "Loot Barrel",
+    "zh": "战利品木桶",
+    "vi": "Loot Barrel"
+  },
+  "block.lootr.lootr_inventory": {
+    "en": "Loot Chest",
+    "zh": "战利品箱子",
+    "vi": "Loot Chest"
+  },
+  "block.lootr.lootr_shulker": {
+    "en": "Loot Shulker",
+    "zh": "战利品潜影贝",
+    "vi": "Loot Shulker"
+  },
+  "block.lootr.trophy": {
+    "en": "Centennial Trophy",
+    "zh": "百次奖杯",
+    "vi": "Centennial Trophy"
+  },
+  "entity.lootr.lootr_minecart": {
+    "en": "Minecart with Chest",
+    "zh": "运输矿车",
+    "vi": "Minecart with Chest"
+  },
+  "lootr.commands.usage": {
+    "en": "/lootr barrel | barrel <loot-table> | chest | chest <loot-table> | cart | cart <loot-table> | shulker | shulker <loot-table> | convert | custom <id> | refresh | decay",
+    "zh": "/lootr barrel | barrel <战利品表> | chest | chest <战利品表> | cart | cart <战利品表> | shulker | shulker <战利品表> | convert | custom <id> | refresh | decay",
+    "vi": "/thùng cướp bóc | thùng <bàn cướp bóc> | ngực | rương <bàn cướp bóc> | giỏ hàng | giỏ hàng <bàn cướp bóc> | Shulker | shulker <bàn cướp bóc> | chuyển đổi | tùy chỉnh <id> | làm mới | phân hủy"
+  },
+  "lootr.commands.create": {
+    "en": "Created a Lootr %s at %s using the loot table %s.",
+    "zh": "已使用战利品表 %3$s 于 %2$s 处创建出了 Lootr 的%1$s。",
+    "vi": "Lootr %1$s đã được tạo tại %2$s bằng cách sử dụng bảng loot %3$s."
+  },
+  "lootr.commands.summon": {
+    "en": "Summoned a Lootr Cart at %s using the loot table %s.",
+    "zh": "已使用战利品表 %3$s 于 %2$s 处生成出了 Lootr 矿车的%1$s。",
+    "vi": "Xe chở đồ chở chiến lợi phẩm %1$s đã được sinh ra tại %2$s bằng cách sử dụng bảng chiến lợi phẩm %3$s."
+  },
+  "lootr.commands.blockpos": {
+    "en": "%s,%s,%s",
+    "zh": "%s，%s，%s",
+    "vi": "%s，%s，%s"
+  },
+  "stat.lootr.looted_stat": {
+    "en": "Chests Looted",
+    "zh": "箱子已搜刮",
+    "vi": "Rương bị cướp"
+  },
+  "lootr.advancements.100loot.title": {
+    "en": "Centennial",
+    "zh": "百次",
+    "vi": "một trăm lần"
+  },
+  "lootr.advancements.100loot.description": {
+    "en": "Open 100 instanced, per-player Loot containers and collect your rewards!",
+    "zh": "打开100次实例化的、各玩家相互独立的战利品容器，获取属于你的战利品！",
+    "vi": "Mở 100 thùng chứa chiến lợi phẩm được tạo sẵn độc lập cho mỗi người chơi và nhận chiến lợi phẩm của riêng bạn!"
+  },
+  "lootr.advancements.50loot.title": {
+    "en": "Penteconter",
+    "zh": "五十桨战船",
+    "vi": "tàu chiến năm mươi mái chèo"
+  },
+  "lootr.advancements.50loot.description": {
+    "en": "Open 50 instanced, per-player Loot containers and collect your rewards!",
+    "zh": "打开50次实例化的、各玩家相互独立的战利品容器，获取属于你的战利品！",
+    "vi": "Mở 50 thùng chứa chiến lợi phẩm được tạo sẵn độc lập cho mỗi người chơi và nhận chiến lợi phẩm của riêng bạn!"
+  },
+  "lootr.advancements.25loot.title": {
+    "en": "Close Quarters",
+    "zh": "再来！",
+    "vi": "Hãy đến lần nữa!"
+  },
+  "lootr.advancements.25loot.description": {
+    "en": "Open 25 instanced, per-player Loot containers and collect your rewards!",
+    "zh": "打开25次实例化的、各玩家相互独立的战利品容器，获取属于你的战利品！",
+    "vi": "Mở 25 thùng chứa chiến lợi phẩm được tạo sẵn độc lập cho mỗi người chơi và nhận chiến lợi phẩm của riêng bạn!"
+  },
+  "lootr.advancements.10loot.title": {
+    "en": "Disme A Dozen",
+    "zh": "到处都是",
+    "vi": "ở khắp mọi nơi"
+  },
+  "lootr.advancements.10loot.description": {
+    "en": "Open 10 instanced, per-player Loot containers and collect your rewards!",
+    "zh": "打开10次实例化的、各玩家相互独立的战利品容器，获取属于你的战利品！",
+    "vi": "Mở 10 thùng chứa chiến lợi phẩm được tạo sẵn độc lập cho mỗi người chơi và nhận chiến lợi phẩm của riêng bạn!"
+  },
+  "lootr.advancements.1chest.title": {
+    "en": "'X' Marks the Spot",
+    "zh": "“X”标记着藏宝点",
+    "vi": "\"X\" đánh dấu vị trí kho báu"
+  },
+  "lootr.advancements.1chest.description": {
+    "en": "Open your first instanced, per-player Loot chest and collect your rewards!",
+    "zh": "首次打开实例化的、各玩家相互独立的战利品箱子，获取属于你的战利品！",
+    "vi": "Lần đầu tiên, hãy mở các hộp chiến lợi phẩm đặc biệt độc lập với mỗi người chơi và nhận chiến lợi phẩm của riêng bạn!"
+  },
+  "lootr.advancements.1barrel.title": {
+    "en": "Barrel Booty",
+    "zh": "木桶里的战利品",
+    "vi": "Danh hiệu trong thùng"
+  },
+  "lootr.advancements.1barrel.description": {
+    "en": "Open your first instanced, per-player Loot barrel and collect your rewards!",
+    "zh": "首次打开实例化的、各玩家相互独立的战利品木桶，获取属于你的战利品！",
+    "vi": "Lần đầu tiên, hãy mở các thùng chiến lợi phẩm được tạo riêng cho từng người chơi và nhận chiến lợi phẩm của riêng bạn!"
+  },
+  "lootr.advancements.1cart.title": {
+    "en": "Tunnel Treasures",
+    "zh": "隧道里的宝藏",
+    "vi": "Kho báu trong đường hầm"
+  },
+  "lootr.advancements.1cart.description": {
+    "en": "Open your first instanced, per-player Loot minecart and collect your rewards!",
+    "zh": "首次打开实例化的、各玩家相互独立的战利品矿车，获取属于你的战利品！",
+    "vi": "Lần đầu tiên, hãy mở một xe khai thác chiến lợi phẩm được khởi tạo độc lập cho mỗi người chơi và nhận chiến lợi phẩm của riêng bạn!"
+  },
+  "lootr.advancements.1shulker.title": {
+    "en": "Bounty Box",
+    "zh": "奖励盒",
+    "vi": "hộp phần thưởng"
+  },
+  "lootr.advancements.1shulker.description": {
+    "en": "Open your first instanced, per-played Loot shulker and collect your rewards!",
+    "zh": "首次打开实例化的、各玩家相互独立的战利品潜影贝，获取属于你的战利品！",
+    "vi": "Lần đầu tiên, hãy mở các vỏ shulker cướp bóc đặc biệt độc lập với mỗi người chơi và nhận chiến lợi phẩm của riêng bạn!"
+  },
+  "lootr.advancements.social.title": {
+    "en": "Socialised Loot",
+    "zh": "战利品社会化",
+    "vi": "Xã hội hóa chiến lợi phẩm"
+  },
+  "lootr.advancements.social.description": {
+    "en": "Open one of every type of instanced, per-player Loot container in the world!",
+    "zh": "在世界中首次打开实例化的、各玩家相互独立的战利品容器！",
+    "vi": "Lần đầu tiên trên thế giới mở các thùng chứa chiến lợi phẩm được khởi tạo độc lập với người chơi!"
+  },
+  "lootr.advancements.root.title": {
+    "en": "Belongs in a Museum",
+    "zh": "老套搜刮已成过去式",
+    "vi": "Chuyện học cũ đã là chuyện quá khứ"
+  },
+  "lootr.advancements.root.description": {
+    "en": "Bring instanced, per-player Loot into your world.",
+    "zh": "为你的世界带来实例化的、各玩家相互独立的战利品。",
+    "vi": "Mang chiến lợi phẩm cụ thể, độc lập với người chơi vào thế giới của bạn."
+  },
+  "lootr.advancements.1337loot.title": {
+    "en": "/\\/\\4$73R 10073R",
+    "zh": "/\\/\\4$73R 10073R",
+    "vi": "/\\/\\4$73R 10073R"
+  },
+  "lootr.advancements.1337loot.description": {
+    "en": "Open a total of 1337 containers! Wow!",
+    "zh": "一共打开了1337个战利品容器！哇哦！",
+    "vi": "Tổng cộng có 1337 thùng chứa chiến lợi phẩm đã được mở! Ồ!"
+  },
+  "itemGroup.lootr": {
+    "en": "Lootr",
+    "zh": "Lootr",
+    "vi": "Lootr"
+  },
+  "item.lootr.crown": {
+    "en": "Crown of the Master Looter",
+    "zh": "搜刮王的王冠",
+    "vi": "Crown of the Master Looter"
+  }
+}

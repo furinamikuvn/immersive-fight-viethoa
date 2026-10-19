@@ -1,0 +1,1567 @@
+{
+  "advancement.die_boss.desc": {
+    "en": "Die fighting a Boss",
+    "zh": "在与首领战斗时死亡",
+    "vi": "Chết khi đang chiến đấu với trùm"
+  },
+  "advancement.die_boss.title": {
+    "en": "Bosses' Rise",
+    "zh": "首领崛起",
+    "vi": "Sự trỗi dậy của một nhà lãnh đạo"
+  },
+  "advancement.kill_all_bosses.desc": {
+    "en": "Defeat all Bosses",
+    "zh": "击败所有首领",
+    "vi": "Đánh bại tất cả các ông chủ"
+  },
+  "advancement.kill_all_bosses.title": {
+    "en": "Unbound",
+    "zh": "挣脱束缚",
+    "vi": "thoát khỏi tự do"
+  },
+  "advancement.kill_boss_under_minute.desc": {
+    "en": "Defeat a Boss under a minute",
+    "zh": "在一分钟内击败首领",
+    "vi": "Đánh bại tên trùm trong vòng một phút"
+  },
+  "advancement.kill_boss_under_minute.title": {
+    "en": "Overclocker",
+    "zh": "超频者",
+    "vi": "người ép xung"
+  },
+  "advancement.kill_dragon.desc": {
+    "en": "Defeat Ashlord, the Infernal Dragon",
+    "zh": "击败炼狱飞龙—灰烬领主",
+    "vi": "Đánh bại Wyvern địa ngục - Chúa tể tro tàn"
+  },
+  "advancement.kill_dragon.title": {
+    "en": "Dragon Slayer",
+    "zh": "屠龙者",
+    "vi": "kẻ giết rồng"
+  },
+  "advancement.kill_kraken.desc": {
+    "en": "Defeat Nerakyss, the Kraken",
+    "zh": "击败深海巨妖—涅拉基斯",
+    "vi": "Đánh bại Kraken của vực sâu - Nerakis"
+  },
+  "advancement.kill_kraken.title": {
+    "en": "Terror of the Depths",
+    "zh": "深渊梦魇",
+    "vi": "Cơn ác mộng của vực thẳm"
+  },
+  "advancement.kill_sandworm.desc": {
+    "en": "Defeat Sirok, the Sandworm",
+    "zh": "击败沙虫—西洛克",
+    "vi": "Đánh bại Sandworm - Siroc"
+  },
+  "advancement.kill_sandworm.title": {
+    "en": "The Beast Below",
+    "zh": "地底巨兽",
+    "vi": "Quái vật dưới lòng đất"
+  },
+  "advancement.kill_underworld_knight.desc": {
+    "en": "Defeat Helvar, the Underworld Knight",
+    "zh": "击败幽冥骑士—赫尔瓦",
+    "vi": "Đánh bại Hiệp sĩ ma - Helva"
+  },
+  "advancement.kill_underworld_knight.title": {
+    "en": "Back Into Hell!",
+    "zh": "滚回地狱去！",
+    "vi": "Hãy quay trở lại địa ngục!"
+  },
+  "advancement.kill_yeti.desc": {
+    "en": "Defeat Skor, the Yeti",
+    "zh": "击败雪怪—斯科尔",
+    "vi": "Đánh bại Yeti - Skoll"
+  },
+  "advancement.kill_yeti.title": {
+    "en": "Lost in the Snow",
+    "zh": "雪原迷踪",
+    "vi": "Bị lạc trong tuyết"
+  },
+  "advancement.no_hit_dragon.desc": {
+    "en": "Kill the Infernal Dragon without getting hit",
+    "zh": "无伤击败炼狱飞龙",
+    "vi": "Đánh bại Infernal Dragon mà không nhận bất kỳ thiệt hại nào"
+  },
+  "advancement.no_hit_dragon.title": {
+    "en": "Dragon Hunter",
+    "zh": "猎龙大师",
+    "vi": "Bậc thầy săn rồng"
+  },
+  "advancement.no_hit_kraken.desc": {
+    "en": "Kill Nerakyss, the Kraken, without getting hit",
+    "zh": "无伤击败深海巨妖—涅拉基斯",
+    "vi": "Đánh bại Kraken of the Deep - Nerakis mà không nhận bất kỳ thiệt hại nào"
+  },
+  "advancement.no_hit_kraken.title": {
+    "en": "Wraith of the Tide",
+    "zh": "潮汐幽魂",
+    "vi": "Ma thủy triều"
+  },
+  "advancement.no_hit_sandworm.desc": {
+    "en": "Kill Sirok, the Sandworm, without getting hit",
+    "zh": "无伤击败沙虫—西洛克",
+    "vi": "Đánh bại Sandworm mà không nhận bất kỳ sát thương nào - Sirocco"
+  },
+  "advancement.no_hit_sandworm.title": {
+    "en": "Desert Power",
+    "zh": "沙漠之力",
+    "vi": "sức mạnh sa mạc"
+  },
+  "advancement.no_hit_underworld_knight.desc": {
+    "en": "Kill the Underworld Knight without getting hit",
+    "zh": "无伤击败幽冥骑士",
+    "vi": "Đánh bại Ghost Knight mà không nhận bất kỳ sát thương nào"
+  },
+  "advancement.no_hit_underworld_knight.title": {
+    "en": "Beyond Death",
+    "zh": "超越死亡",
+    "vi": "ngoài cái chết"
+  },
+  "advancement.no_hit_yeti.desc": {
+    "en": "Kill Skor without getting hit",
+    "zh": "无伤击败斯科尔",
+    "vi": "Đánh bại Skoll mà không nhận bất kỳ thiệt hại nào"
+  },
+  "advancement.no_hit_yeti.title": {
+    "en": "King of the Hill",
+    "zh": "山巅之王",
+    "vi": "vua đồi"
+  },
+  "attribute.block_factorys_bosses.roll_count": {
+    "en": "Roll Count",
+    "zh": "翻滚次数",
+    "vi": "Số lượng cuộn"
+  },
+  "block.block_factorys_bosses.big_chain": {
+    "en": "Big Chain",
+    "zh": "大型锁链",
+    "vi": "Big Chain"
+  },
+  "block.block_factorys_bosses.big_oak_planks": {
+    "en": "Big Oak Planks",
+    "zh": "大型橡木板",
+    "vi": "Big Oak Planks"
+  },
+  "block.block_factorys_bosses.big_oak_planks_broken": {
+    "en": "Broken Big Oak Planks",
+    "zh": "破损的大型橡木板",
+    "vi": "Broken Big Oak Planks"
+  },
+  "block.block_factorys_bosses.big_oak_planks_cracked": {
+    "en": "Cracked Big Oak Planks",
+    "zh": "开裂的大型橡木板",
+    "vi": "Cracked Big Oak Planks"
+  },
+  "block.block_factorys_bosses.big_oak_planks_straight": {
+    "en": "Big Oak Planks (straight)",
+    "zh": "大型橡木板（直纹）",
+    "vi": "Big Oak Planks (straight)"
+  },
+  "block.block_factorys_bosses.big_oak_planks_variation": {
+    "en": "Big Oak Planks (variant)",
+    "zh": "大型橡木板（变体）",
+    "vi": "Big Oak Planks (variant)"
+  },
+  "block.block_factorys_bosses.big_oak_planks_wet": {
+    "en": "Big Wet Oak Planks",
+    "zh": "潮湿的大型橡木板",
+    "vi": "Big Wet Oak Planks"
+  },
+  "block.block_factorys_bosses.big_oak_planks_wet_broken": {
+    "en": "Broken Big Wet Oak Planks",
+    "zh": "破损的潮湿大型橡木板",
+    "vi": "Broken Big Wet Oak Planks"
+  },
+  "block.block_factorys_bosses.big_oak_planks_wet_cracked": {
+    "en": "Cracked Big Wet Oak Planks",
+    "zh": "开裂的潮湿大型橡木板",
+    "vi": "Cracked Big Wet Oak Planks"
+  },
+  "block.block_factorys_bosses.big_oak_planks_wet_straight": {
+    "en": "Big Wet Oak Planks (straight)",
+    "zh": "潮湿的大型橡木板（直纹）",
+    "vi": "Big Wet Oak Planks (straight)"
+  },
+  "block.block_factorys_bosses.big_oak_planks_wet_variation": {
+    "en": "Big Wet Oak Planks (variant)",
+    "zh": "潮湿的大型橡木板（变体）",
+    "vi": "Big Wet Oak Planks (variant)"
+  },
+  "block.block_factorys_bosses.bone_remains": {
+    "en": "Bone Remains",
+    "zh": "骸骨遗骸",
+    "vi": "Bone Remains"
+  },
+  "block.block_factorys_bosses.bone_remains.description_0": {
+    "en": "§7Body",
+    "zh": "§7躯干",
+    "vi": "Thân §7"
+  },
+  "block.block_factorys_bosses.bone_remains_legs": {
+    "en": "Bone Remains",
+    "zh": "骸骨遗骸",
+    "vi": "Bone Remains"
+  },
+  "block.block_factorys_bosses.bone_remains_legs.description_0": {
+    "en": "§7Legs",
+    "zh": "§7腿部",
+    "vi": "Chân §7"
+  },
+  "block.block_factorys_bosses.bone_remains_rib_cage": {
+    "en": "Bone Remains",
+    "zh": "骸骨遗骸",
+    "vi": "Bone Remains"
+  },
+  "block.block_factorys_bosses.bone_remains_rib_cage.description_0": {
+    "en": "§7Rib Cage",
+    "zh": "§7胸腔",
+    "vi": "§7ngực"
+  },
+  "block.block_factorys_bosses.boss_spawner": {
+    "en": "Boss Spawner",
+    "zh": "首领刷怪笼",
+    "vi": "Boss Spawner"
+  },
+  "block.block_factorys_bosses.candles": {
+    "en": "Small Candelabra",
+    "zh": "小型烛台",
+    "vi": "Small Candelabra"
+  },
+  "block.block_factorys_bosses.cannonball": {
+    "en": "Cannonball",
+    "zh": "炮弹",
+    "vi": "Cannonball"
+  },
+  "block.block_factorys_bosses.coin_pile": {
+    "en": "Coin Pile",
+    "zh": "钱币堆",
+    "vi": "Coin Pile"
+  },
+  "block.block_factorys_bosses.corpse": {
+    "en": "Corpse",
+    "zh": "尸体",
+    "vi": "Corpse"
+  },
+  "block.block_factorys_bosses.dragon_banner": {
+    "en": "Dragon Banner",
+    "zh": "巨龙旗帜",
+    "vi": "Dragon Banner"
+  },
+  "block.block_factorys_bosses.dragon_skull": {
+    "en": "Ashlord Skull",
+    "zh": "灰烬领龙头骨",
+    "vi": "Ashlord Skull"
+  },
+  "block.block_factorys_bosses.guardrail": {
+    "en": "Guardrail",
+    "zh": "护栏",
+    "vi": "Guardrail"
+  },
+  "block.block_factorys_bosses.guardrail_diagonal": {
+    "en": "Diagonal Guardrail",
+    "zh": "斜角护栏",
+    "vi": "Diagonal Guardrail"
+  },
+  "block.block_factorys_bosses.ice_block_particules": {
+    "en": "Ice Block Particles",
+    "zh": "冰块粒子",
+    "vi": "Ice Block Particles"
+  },
+  "block.block_factorys_bosses.kraken_spawner": {
+    "en": "Kraken Spawner",
+    "zh": "巨妖刷怪笼",
+    "vi": "Kraken Spawner"
+  },
+  "block.block_factorys_bosses.net": {
+    "en": "Net",
+    "zh": "渔网",
+    "vi": "Net"
+  },
+  "block.block_factorys_bosses.plank": {
+    "en": "Pile of Planks",
+    "zh": "木板堆",
+    "vi": "Pile of Planks"
+  },
+  "block.block_factorys_bosses.prison_door": {
+    "en": "Prison Door",
+    "zh": "牢门",
+    "vi": "Prison Door"
+  },
+  "block.block_factorys_bosses.rope_roll": {
+    "en": "Rope Roll",
+    "zh": "绳索卷",
+    "vi": "Rope Roll"
+  },
+  "block.block_factorys_bosses.rusty_prison_door": {
+    "en": "Rusty Prison Door",
+    "zh": "生锈的牢门",
+    "vi": "Rusty Prison Door"
+  },
+  "block.block_factorys_bosses.ship_lantern": {
+    "en": "Ship Lantern",
+    "zh": "船用灯笼",
+    "vi": "Ship Lantern"
+  },
+  "block.block_factorys_bosses.ship_steering_wheel": {
+    "en": "Ship Steering Wheel",
+    "zh": "船舵",
+    "vi": "Ship Steering Wheel"
+  },
+  "block.block_factorys_bosses.tall_candles": {
+    "en": "Tall Candelabra",
+    "zh": "高脚烛台",
+    "vi": "Tall Candelabra"
+  },
+  "block.block_factorys_bosses.tall_candles.description_0": {
+    "en": "§7Twisted",
+    "zh": "§7扭曲造型",
+    "vi": "§7 dạng xoắn"
+  },
+  "block.block_factorys_bosses.tall_candles_cross": {
+    "en": "Tall Cross Candelabra",
+    "zh": "高脚十字烛台",
+    "vi": "Tall Cross Candelabra"
+  },
+  "block.block_factorys_bosses.tall_candles_cross.description_0": {
+    "en": "§7Cross",
+    "zh": "§7十字造型",
+    "vi": "Hình chữ thập §7"
+  },
+  "block.block_factorys_bosses.tall_vase": {
+    "en": "Tall Vase",
+    "zh": "高脚花瓶",
+    "vi": "Tall Vase"
+  },
+  "block.block_factorys_bosses.under_world_tall_candle_cross": {
+    "en": "Tall Cross Soul Candelabra",
+    "zh": "高脚十字灵魂烛台",
+    "vi": "Tall Cross Soul Candelabra"
+  },
+  "block.block_factorys_bosses.under_world_tall_candle_cross.description_0": {
+    "en": "§7Cross",
+    "zh": "§7十字造型",
+    "vi": "Hình chữ thập §7"
+  },
+  "block.block_factorys_bosses.underwold_candles": {
+    "en": "Small Soul Candelabra",
+    "zh": "小型灵魂烛台",
+    "vi": "Small Soul Candelabra"
+  },
+  "block.block_factorys_bosses.underwold_wall_torch": {
+    "en": "Soul Wall Torch",
+    "zh": "灵魂壁挂火把",
+    "vi": "Soul Wall Torch"
+  },
+  "block.block_factorys_bosses.underworld_arena_door": {
+    "en": "Underworld Arena Door",
+    "zh": "冥界竞技场大门",
+    "vi": "Underworld Arena Door"
+  },
+  "block.block_factorys_bosses.underworld_tall_candles": {
+    "en": "Tall Soul Candelabra",
+    "zh": "高脚灵魂烛台",
+    "vi": "Tall Soul Candelabra"
+  },
+  "block.block_factorys_bosses.underworld_tall_candles.description_0": {
+    "en": "§7Twisted",
+    "zh": "§7扭曲造型",
+    "vi": "§7 dạng xoắn"
+  },
+  "block.block_factorys_bosses.vase": {
+    "en": "Vase",
+    "zh": "花瓶",
+    "vi": "Vase"
+  },
+  "block.block_factorys_bosses.wall_torch": {
+    "en": "Wall Torch",
+    "zh": "壁挂火把",
+    "vi": "Wall Torch"
+  },
+  "block_factorys_bosses": {
+    "en": "Bosses' Rise",
+    "zh": "首领崛起",
+    "vi": "Sự trỗi dậy của một nhà lãnh đạo"
+  },
+  "death.attack.block_factorys_bosses.cannonball_hit": {
+    "en": "%1$s got flattened with a cannonball",
+    "zh": "%1$s被炮弹碾成了肉饼",
+    "vi": "%1$s bị đạn đại bác nghiền thành từng miếng thịt"
+  },
+  "death.attack.block_factorys_bosses.cannonball_hit.player": {
+    "en": "%2$s flattened %1$s with a cannonball",
+    "zh": "%2$s用炮弹把%1$s碾成了肉饼",
+    "vi": "%2$s dùng đạn đại bác để nghiền %1$s thành miếng thịt"
+  },
+  "death.attack.block_factorys_bosses.kraken_tentacle_smash": {
+    "en": "%1$s got smashed by a tentacle",
+    "zh": "%1$s被触手拍成了肉酱",
+    "vi": "%1$s bị xúc tu đập nát thành bột"
+  },
+  "death.attack.block_factorys_bosses.kraken_tentacle_smash.player": {
+    "en": "%2$s smashed %1$s with a tentacle",
+    "zh": "%2$s用触手把%1$s拍成了肉酱",
+    "vi": "%2$s đã sử dụng các xúc tu của mình để đánh %1$s thành bột giấy"
+  },
+  "entity.block_factorys_bosses.anchor": {
+    "en": "Anchor",
+    "zh": "船锚",
+    "vi": "Anchor"
+  },
+  "entity.block_factorys_bosses.big_cage": {
+    "en": "Big Cage",
+    "zh": "大型牢笼",
+    "vi": "Big Cage"
+  },
+  "entity.block_factorys_bosses.big_cage_skelly": {
+    "en": "Big Cage With Skelly",
+    "zh": "带骷髅的大型牢笼",
+    "vi": "Big Cage With Skelly"
+  },
+  "entity.block_factorys_bosses.big_rift_projectile": {
+    "en": "Helvar Rift Projectile Deluxe",
+    "zh": "赫尔瓦裂隙投射物·豪华版",
+    "vi": "Helvar Rift Projectile Deluxe"
+  },
+  "entity.block_factorys_bosses.blazing_fire_ball": {
+    "en": "Blazing Fireball",
+    "zh": "炽焰火球",
+    "vi": "Blazing Fireball"
+  },
+  "entity.block_factorys_bosses.cage": {
+    "en": "Cage",
+    "zh": "牢笼",
+    "vi": "Cage"
+  },
+  "entity.block_factorys_bosses.cage_skelly": {
+    "en": "Cage With Skelly",
+    "zh": "带骷髅的牢笼",
+    "vi": "Cage With Skelly"
+  },
+  "entity.block_factorys_bosses.cannonball": {
+    "en": "Cannonball",
+    "zh": "炮弹",
+    "vi": "Cannonball"
+  },
+  "entity.block_factorys_bosses.crate_pile": {
+    "en": "Crate Pile",
+    "zh": "木箱堆",
+    "vi": "Crate Pile"
+  },
+  "entity.block_factorys_bosses.crossbow_pirate": {
+    "en": "Crossbow Pirate",
+    "zh": "海盗弩手",
+    "vi": "Crossbow Pirate"
+  },
+  "entity.block_factorys_bosses.dragon_guard_sword": {
+    "en": "Ashlord Guard",
+    "zh": "灰烬领主守卫",
+    "vi": "Ashlord Guard"
+  },
+  "entity.block_factorys_bosses.fire_area": {
+    "en": "Fire Arena",
+    "zh": "火焰领域",
+    "vi": "Fire Arena"
+  },
+  "entity.block_factorys_bosses.flaming_skeleton_guard_fireball": {
+    "en": "Flaming Ashlord Shooter",
+    "zh": "炽焰灰烬领主射手",
+    "vi": "Flaming Ashlord Shooter"
+  },
+  "entity.block_factorys_bosses.flaming_skeleton_guard_sword": {
+    "en": "Flaming Ashlord Guard",
+    "zh": "炽焰灰烬领主守卫",
+    "vi": "Flaming Ashlord Guard"
+  },
+  "entity.block_factorys_bosses.frozen_skeleton": {
+    "en": "Frozen Skeleton",
+    "zh": "寒冰骷髅",
+    "vi": "Frozen Skeleton"
+  },
+  "entity.block_factorys_bosses.ghost_tentacle": {
+    "en": "Ghost Tentacle",
+    "zh": "幽灵触手",
+    "vi": "Ghost Tentacle"
+  },
+  "entity.block_factorys_bosses.glacial_shove": {
+    "en": "Ice Cube",
+    "zh": "冰立方",
+    "vi": "Ice Cube"
+  },
+  "entity.block_factorys_bosses.ice_spike": {
+    "en": "Ice Spike",
+    "zh": "冰刺",
+    "vi": "Ice Spike"
+  },
+  "entity.block_factorys_bosses.ice_spike_cluster": {
+    "en": "Ice Spike Cluster",
+    "zh": "冰刺簇",
+    "vi": "Ice Spike Cluster"
+  },
+  "entity.block_factorys_bosses.ice_spike_pr": {
+    "en": "Ice Spike Projectile",
+    "zh": "冰刺投射物",
+    "vi": "Ice Spike Projectile"
+  },
+  "entity.block_factorys_bosses.infernal_dragon": {
+    "en": "Ashlord, The Infernal Dragon",
+    "zh": "炼狱飞龙—灰烬领主",
+    "vi": "Ashlord, The Infernal Dragon"
+  },
+  "entity.block_factorys_bosses.knight_mark": {
+    "en": "Helvar's Weakness",
+    "zh": "赫尔瓦的弱点",
+    "vi": "Helvar's Weakness"
+  },
+  "entity.block_factorys_bosses.kraken": {
+    "en": "Nerakyss, The Kraken",
+    "zh": "深海巨妖—涅拉基斯",
+    "vi": "Nerakyss, The Kraken"
+  },
+  "entity.block_factorys_bosses.kraken_cannon": {
+    "en": "Kraken Cannon",
+    "zh": "巨妖火炮",
+    "vi": "Kraken Cannon"
+  },
+  "entity.block_factorys_bosses.kraken_tentacle": {
+    "en": "Kraken Tentacle",
+    "zh": "巨妖触手",
+    "vi": "Kraken Tentacle"
+  },
+  "entity.block_factorys_bosses.pile_of_bones": {
+    "en": "Pile Of Bones",
+    "zh": "骸骨堆",
+    "vi": "Pile Of Bones"
+  },
+  "entity.block_factorys_bosses.pirate_captain": {
+    "en": "Pirate Captain",
+    "zh": "海盗船长",
+    "vi": "Pirate Captain"
+  },
+  "entity.block_factorys_bosses.pirate_rook": {
+    "en": "Pirate Rook",
+    "zh": "海盗暴徒",
+    "vi": "Pirate Rook"
+  },
+  "entity.block_factorys_bosses.poison_area": {
+    "en": "Poison Area",
+    "zh": "毒液领域",
+    "vi": "Poison Area"
+  },
+  "entity.block_factorys_bosses.poison_spit_pr": {
+    "en": "Poison Spit",
+    "zh": "毒液喷吐",
+    "vi": "Poison Spit"
+  },
+  "entity.block_factorys_bosses.rift": {
+    "en": "Helvar Rift",
+    "zh": "赫尔瓦裂隙",
+    "vi": "Helvar Rift"
+  },
+  "entity.block_factorys_bosses.rift_projectile": {
+    "en": "Helvar Rift Projectile",
+    "zh": "赫尔瓦裂隙投射物",
+    "vi": "Helvar Rift Projectile"
+  },
+  "entity.block_factorys_bosses.sand_column": {
+    "en": "Sand Column",
+    "zh": "沙柱",
+    "vi": "Sand Column"
+  },
+  "entity.block_factorys_bosses.sandworm": {
+    "en": "Sirok, The Sandworm",
+    "zh": "沙虫—西洛克",
+    "vi": "Sirok, The Sandworm"
+  },
+  "entity.block_factorys_bosses.soul_knight_wither_skeleton": {
+    "en": "Wither Knight",
+    "zh": "凋灵骑士",
+    "vi": "Wither Knight"
+  },
+  "entity.block_factorys_bosses.soul_shockwave": {
+    "en": "Soul Shockwave",
+    "zh": "灵魂冲击波",
+    "vi": "Soul Shockwave"
+  },
+  "entity.block_factorys_bosses.soul_skeleton": {
+    "en": "Soul Skeleton",
+    "zh": "灵魂骷髅",
+    "vi": "Soul Skeleton"
+  },
+  "entity.block_factorys_bosses.sword_wave": {
+    "en": "Sword Wave",
+    "zh": "剑刃波",
+    "vi": "Sword Wave"
+  },
+  "entity.block_factorys_bosses.thrown_crate": {
+    "en": "Crate",
+    "zh": "投掷木箱",
+    "vi": "Crate"
+  },
+  "entity.block_factorys_bosses.underworld_knight": {
+    "en": "Helvar, the Underworld Knight",
+    "zh": "幽冥骑士—赫尔瓦",
+    "vi": "Helvar, the Underworld Knight"
+  },
+  "entity.block_factorys_bosses.yeti": {
+    "en": "Skor, The Yeti",
+    "zh": "雪怪—斯科尔",
+    "vi": "Skor, The Yeti"
+  },
+  "item.block_factorys_bosses.anchor": {
+    "en": "Anchor",
+    "zh": "船锚",
+    "vi": "Anchor"
+  },
+  "item.block_factorys_bosses.anchor_spawn_egg": {
+    "en": "Anchor Spawn Egg",
+    "zh": "船锚刷怪蛋",
+    "vi": "Anchor Spawn Egg"
+  },
+  "item.block_factorys_bosses.ancient_trial_key": {
+    "en": "Ancient Trial Key",
+    "zh": "远古试炼钥匙",
+    "vi": "Ancient Trial Key"
+  },
+  "item.block_factorys_bosses.big_cage_item": {
+    "en": "Big Cage",
+    "zh": "大型牢笼",
+    "vi": "Big Cage"
+  },
+  "item.block_factorys_bosses.big_cage_skelly_item": {
+    "en": "Big Cage With Skelly",
+    "zh": "带骷髅的大型牢笼",
+    "vi": "Big Cage With Skelly"
+  },
+  "item.block_factorys_bosses.cage_item": {
+    "en": "Cage",
+    "zh": "牢笼",
+    "vi": "Cage"
+  },
+  "item.block_factorys_bosses.cage_skelly_item": {
+    "en": "Cage With Skelly",
+    "zh": "带骷髅的牢笼",
+    "vi": "Cage With Skelly"
+  },
+  "item.block_factorys_bosses.crate": {
+    "en": "Crate",
+    "zh": "木箱",
+    "vi": "Crate"
+  },
+  "item.block_factorys_bosses.crate_pile_spawn_egg": {
+    "en": "Crate Pile Spawn Egg",
+    "zh": "木箱堆刷怪蛋",
+    "vi": "Crate Pile Spawn Egg"
+  },
+  "item.block_factorys_bosses.crossbow_pirate_spawn_egg": {
+    "en": "Crossbow Pirate Spawn Egg",
+    "zh": "海盗弩手刷怪蛋",
+    "vi": "Crossbow Pirate Spawn Egg"
+  },
+  "item.block_factorys_bosses.dagger": {
+    "en": "Dagger",
+    "zh": "匕首",
+    "vi": "Dagger"
+  },
+  "item.block_factorys_bosses.dragon_bone": {
+    "en": "Dragon Bone",
+    "zh": "龙骨",
+    "vi": "Dragon Bone"
+  },
+  "item.block_factorys_bosses.dragon_bones_boots": {
+    "en": "Dragon Bones Boots",
+    "zh": "龙骨战靴",
+    "vi": "Dragon Bones Boots"
+  },
+  "item.block_factorys_bosses.dragon_bones_chestplate": {
+    "en": "Dragon Bones Chestplate",
+    "zh": "龙骨胸甲",
+    "vi": "Dragon Bones Chestplate"
+  },
+  "item.block_factorys_bosses.dragon_bones_leggings": {
+    "en": "Dragon Bones Leggings",
+    "zh": "龙骨护腿",
+    "vi": "Dragon Bones Leggings"
+  },
+  "item.block_factorys_bosses.dragon_guard_shield": {
+    "en": "Dragon Guard Shield",
+    "zh": "龙卫盾牌",
+    "vi": "Dragon Guard Shield"
+  },
+  "item.block_factorys_bosses.dragon_guard_sword_spawn_egg": {
+    "en": "Ashlord Guard Spawn Egg",
+    "zh": "灰烬领主守卫刷怪蛋",
+    "vi": "Ashlord Guard Spawn Egg"
+  },
+  "item.block_factorys_bosses.dragon_shank": {
+    "en": "Dragon Shank",
+    "zh": "龙腿肉",
+    "vi": "Dragon Shank"
+  },
+  "item.block_factorys_bosses.enhanced_shield": {
+    "en": "Enhanced Shield",
+    "zh": "强化盾牌",
+    "vi": "Enhanced Shield"
+  },
+  "item.block_factorys_bosses.flaming_skeleton_guard_fireball_spawn_egg": {
+    "en": "Flaming Ashlord Shooter Spawn Egg",
+    "zh": "炽焰灰烬领主射手刷怪蛋",
+    "vi": "Flaming Ashlord Shooter Spawn Egg"
+  },
+  "item.block_factorys_bosses.flaming_skeleton_guard_sword_spawn_egg": {
+    "en": "Flaming Ashlord Guard Spawn Egg",
+    "zh": "炽焰灰烬领主守卫刷怪蛋",
+    "vi": "Flaming Ashlord Guard Spawn Egg"
+  },
+  "item.block_factorys_bosses.ghost_tentacle_spawn_egg": {
+    "en": "Ghost Tentacle Spawn Egg",
+    "zh": "幽灵触手刷怪蛋",
+    "vi": "Ghost Tentacle Spawn Egg"
+  },
+  "item.block_factorys_bosses.ice_gauntlet": {
+    "en": "Skor Gauntlet",
+    "zh": "斯科尔的冰拳套",
+    "vi": "Skor Gauntlet"
+  },
+  "item.block_factorys_bosses.ice_gauntlet.description_0": {
+    "en": "§7On Hit:",
+    "zh": "§7攻击时：",
+    "vi": "Khi §7 tấn công:"
+  },
+  "item.block_factorys_bosses.ice_gauntlet.description_1": {
+    "en": "§9Freeze Target",
+    "zh": "§9冻结目标",
+    "vi": "Mục tiêu đóng băng §9"
+  },
+  "item.block_factorys_bosses.ice_gauntlet.description_2": {
+    "en": "§7On Sneak-Right-Click Release:",
+    "zh": "§7潜行时右键释放：",
+    "vi": "§7Thả chuột phải khi đang lén lút:"
+  },
+  "item.block_factorys_bosses.ice_gauntlet.description_3": {
+    "en": "§9Fire wave of ice-spikes",
+    "zh": "§9发射冰刺波",
+    "vi": "§9 phát động làn sóng tăng đột biến băng"
+  },
+  "item.block_factorys_bosses.ice_gauntlet.description_4": {
+    "en": "§7On jump while holding Right-Click:",
+    "zh": "§7按住右键时跳跃：",
+    "vi": "§7 nhảy trong khi giữ nút bên phải:"
+  },
+  "item.block_factorys_bosses.ice_gauntlet.description_5": {
+    "en": "§9Perform an ice-slam-leap",
+    "zh": "§9施展冰霜震地跃击",
+    "vi": "§9 thi triển Frost Leap"
+  },
+  "item.block_factorys_bosses.ice_gauntlet.description_6": {
+    "en": "§8Can be used as a Shield",
+    "zh": "§8可充当盾牌使用",
+    "vi": "§8 có thể được sử dụng làm lá chắn"
+  },
+  "item.block_factorys_bosses.infernal_dragon_spawn_egg": {
+    "en": "Ashlord, The Infernal Dragon Spawn Egg",
+    "zh": "炼狱飞龙—灰烬领主刷怪蛋",
+    "vi": "Ashlord, The Infernal Dragon Spawn Egg"
+  },
+  "item.block_factorys_bosses.knight_boots": {
+    "en": "Knight Boots",
+    "zh": "骑士战靴",
+    "vi": "Knight Boots"
+  },
+  "item.block_factorys_bosses.knight_chestplate": {
+    "en": "Knight Chestplate",
+    "zh": "骑士胸甲",
+    "vi": "Knight Chestplate"
+  },
+  "item.block_factorys_bosses.knight_helmet": {
+    "en": "Knight Helmet",
+    "zh": "骑士头盔",
+    "vi": "Knight Helmet"
+  },
+  "item.block_factorys_bosses.knight_leggings": {
+    "en": "Knight Leggings",
+    "zh": "骑士护腿",
+    "vi": "Knight Leggings"
+  },
+  "item.block_factorys_bosses.knight_sword": {
+    "en": "Helvar's Sword",
+    "zh": "赫尔瓦之剑",
+    "vi": "Helvar's Sword"
+  },
+  "item.block_factorys_bosses.knight_sword.description_0": {
+    "en": "§7On Right-Click:",
+    "zh": "§7右键点击：",
+    "vi": "Nhấp chuột phải vào §7:"
+  },
+  "item.block_factorys_bosses.knight_sword.description_1": {
+    "en": "§9Throw a powerful Slash",
+    "zh": "§9挥出强力斩击",
+    "vi": "§9 vung một nhát chém mạnh mẽ"
+  },
+  "item.block_factorys_bosses.kraken_cannon_item": {
+    "en": "Kraken Cannon",
+    "zh": "巨妖火炮",
+    "vi": "Kraken Cannon"
+  },
+  "item.block_factorys_bosses.kraken_spawn_egg": {
+    "en": "Nerakyss, The Kraken Spawn Egg",
+    "zh": "深海巨妖—涅拉基斯刷怪蛋",
+    "vi": "Nerakyss, The Kraken Spawn Egg"
+  },
+  "item.block_factorys_bosses.kraken_tooth": {
+    "en": "Kraken Tooth",
+    "zh": "巨妖利齿",
+    "vi": "Kraken Tooth"
+  },
+  "item.block_factorys_bosses.kraken_trident": {
+    "en": "Kraken Trident",
+    "zh": "巨妖三叉戟",
+    "vi": "Kraken Trident"
+  },
+  "item.block_factorys_bosses.kraken_trident.description_0": {
+    "en": "§7On Collision:",
+    "zh": "§7碰撞时：",
+    "vi": "Khi §7 va chạm:"
+  },
+  "item.block_factorys_bosses.kraken_trident.description_1": {
+    "en": "§9Damages and pulls nearby entities",
+    "zh": "§9伤害并牵引附近实体",
+    "vi": "§9 gây sát thương và kéo các thực thể lân cận"
+  },
+  "item.block_factorys_bosses.large_sword": {
+    "en": "Large Sword",
+    "zh": "巨剑",
+    "vi": "Large Sword"
+  },
+  "item.block_factorys_bosses.pile_of_bones_spawn_egg": {
+    "en": "Pile Of Bones Spawn Egg",
+    "zh": "骸骨堆刷怪蛋",
+    "vi": "Pile Of Bones Spawn Egg"
+  },
+  "item.block_factorys_bosses.pirate_captain_spawn_egg": {
+    "en": "Pirate Captain Spawn Egg",
+    "zh": "海盗船长刷怪蛋",
+    "vi": "Pirate Captain Spawn Egg"
+  },
+  "item.block_factorys_bosses.pirate_rook_spawn_egg": {
+    "en": "Pirate Rook Spawn Egg",
+    "zh": "海盗暴徒刷怪蛋",
+    "vi": "Pirate Rook Spawn Egg"
+  },
+  "item.block_factorys_bosses.pirate_saber": {
+    "en": "Pirate Saber",
+    "zh": "海盗弯刀",
+    "vi": "Pirate Saber"
+  },
+  "item.block_factorys_bosses.sandworm_gauntlet": {
+    "en": "Sirok Gauntlet",
+    "zh": "西洛克的沙拳套",
+    "vi": "Sirok Gauntlet"
+  },
+  "item.block_factorys_bosses.sandworm_gauntlet.description_0": {
+    "en": "§7On Hold-Right-Click:",
+    "zh": "§7按住右键：",
+    "vi": "§7 nhấp chuột phải:"
+  },
+  "item.block_factorys_bosses.sandworm_gauntlet.description_1": {
+    "en": "§9Shoot Poison",
+    "zh": "§9喷射毒液",
+    "vi": "§9 phun nọc độc"
+  },
+  "item.block_factorys_bosses.sandworm_spawn_egg": {
+    "en": "Sirok, The Sandworm Spawn Egg",
+    "zh": "沙虫—西洛克刷怪蛋",
+    "vi": "Sirok, The Sandworm Spawn Egg"
+  },
+  "item.block_factorys_bosses.soul_knight_wither_skeleton_spawn_egg": {
+    "en": "Wither Knight Spawn Egg",
+    "zh": "凋灵骑士刷怪蛋",
+    "vi": "Wither Knight Spawn Egg"
+  },
+  "item.block_factorys_bosses.soul_skeleton_spawn_egg": {
+    "en": "Soul Skeleton Spawn Egg",
+    "zh": "灵魂骷髅刷怪蛋",
+    "vi": "Soul Skeleton Spawn Egg"
+  },
+  "item.block_factorys_bosses.underworld_arena_key": {
+    "en": "Underworld Arena Key",
+    "zh": "冥界竞技场钥匙",
+    "vi": "Underworld Arena Key"
+  },
+  "item.block_factorys_bosses.underworld_knight_spawn_egg": {
+    "en": "Helvar, the Underworld Knight Spawn Egg",
+    "zh": "幽冥骑士—赫尔瓦刷怪蛋",
+    "vi": "Helvar, the Underworld Knight Spawn Egg"
+  },
+  "item.block_factorys_bosses.undying_tentacle": {
+    "en": "Undying Tentacle",
+    "zh": "不朽触须",
+    "vi": "Undying Tentacle"
+  },
+  "item.block_factorys_bosses.undying_tentacle.description_0": {
+    "en": "§7On Use:",
+    "zh": "§7使用时：",
+    "vi": "Khi sử dụng §7:"
+  },
+  "item.block_factorys_bosses.undying_tentacle.description_1": {
+    "en": "§9Hook yourself to block, or an entity to yourself.",
+    "zh": "§9将自身钩向方块，或将实体拉向自身。",
+    "vi": "§9 tự móc vào các khối hoặc kéo các thực thể về phía chính nó."
+  },
+  "item.block_factorys_bosses.undying_tentacle.description_2": {
+    "en": "§7On Shift-Use:",
+    "zh": "§7潜行时使用：",
+    "vi": "Sử dụng khi §7 đang lén lút:"
+  },
+  "item.block_factorys_bosses.undying_tentacle.description_3": {
+    "en": "§9Summon tentacles to fight enemies.",
+    "zh": "§9召唤触手攻击敌人。",
+    "vi": "§9 triệu hồi các xúc tu để tấn công kẻ thù."
+  },
+  "item.block_factorys_bosses.warrior_sword": {
+    "en": "Warrior Sword",
+    "zh": "勇士之剑",
+    "vi": "Warrior Sword"
+  },
+  "item.block_factorys_bosses.yeti_spawn_egg": {
+    "en": "Skor, The Yeti Spawn Egg",
+    "zh": "雪怪—斯科尔刷怪蛋",
+    "vi": "Skor, The Yeti Spawn Egg"
+  },
+  "item_group.block_factorys_bosses.blockfactorysbossestab": {
+    "en": "Bosses' Rise",
+    "zh": "首领崛起",
+    "vi": "Sự trỗi dậy của một nhà lãnh đạo"
+  },
+  "key.block_factorys_bosses.dodge_roll": {
+    "en": "Dodge Roll",
+    "zh": "翻滚闪避",
+    "vi": "Lăn để né"
+  },
+  "message.block_factorys_bosses.cannon.no_balls": {
+    "en": "No ammo!",
+    "zh": "没有弹药了！",
+    "vi": "Không còn đạn nữa!"
+  },
+  "message.block_factorys_bosses.dragon_tower.block_protection": {
+    "en": "The Dragon Tower is protected by ancient magic!",
+    "zh": "巨龙之塔受到古老魔法的保护！",
+    "vi": "Tháp Rồng được bảo vệ bởi phép thuật cổ xưa!"
+  },
+  "message.block_factorys_bosses.helvar.knocked_down": {
+    "en": "Helvar is knocked down!",
+    "zh": "赫尔瓦被击倒了！",
+    "vi": "Helva đã bị đánh gục!"
+  },
+  "subtitles.block_factorys_bosses.block.underworld_arena_door.close": {
+    "en": "Underworld Arena Door Closes",
+    "zh": "冥界竞技场大门关闭",
+    "vi": "Cánh cổng của Đấu trường Địa ngục đã đóng lại"
+  },
+  "subtitles.block_factorys_bosses.block.underworld_arena_door.key_insertion": {
+    "en": "Underworld Arena Key Inserts",
+    "zh": "插入冥界竞技场钥匙",
+    "vi": "Chèn Chìa khóa Đấu trường Thế giới ngầm"
+  },
+  "subtitles.block_factorys_bosses.block.underworld_arena_door.open": {
+    "en": "Underworld Arena Door Opens",
+    "zh": "冥界竞技场大门开启",
+    "vi": "Cánh cổng đấu trường thế giới ngầm mở ra"
+  },
+  "subtitles.block_factorys_bosses.entity.barrage_rift.closing": {
+    "en": "Helvar's Rift Closes",
+    "zh": "赫尔瓦裂隙闭合",
+    "vi": "Đóng khe nứt Helva"
+  },
+  "subtitles.block_factorys_bosses.entity.barrage_rift.jump": {
+    "en": "Helvar's Rift Jump",
+    "zh": "赫尔瓦裂隙跳跃",
+    "vi": "Nhảy Rift Helva"
+  },
+  "subtitles.block_factorys_bosses.entity.barrage_rift.rift_fireball": {
+    "en": "Helvar's Rift Fires",
+    "zh": "赫尔瓦裂隙发射火球",
+    "vi": "Quả cầu lửa Helva Rift"
+  },
+  "subtitles.block_factorys_bosses.entity.barrage_rift.rift_idle": {
+    "en": "Helvar's Rift Idles",
+    "zh": "赫尔瓦裂隙闲置音效",
+    "vi": "Hiệu ứng âm thanh nhàn rỗi Helva Rift"
+  },
+  "subtitles.block_factorys_bosses.entity.barrage_rift.rift_open": {
+    "en": "Helvar's Rift Opens",
+    "zh": "赫尔瓦裂隙开启",
+    "vi": "Rạn nứt Helva mở ra"
+  },
+  "subtitles.block_factorys_bosses.entity.barrage_rift.slash_air": {
+    "en": "Helvar's Rift Slash",
+    "zh": "赫尔瓦裂隙挥砍",
+    "vi": "Chém rạn nứt Helva"
+  },
+  "subtitles.block_factorys_bosses.entity.cannon.fire": {
+    "en": "Cannon Fires",
+    "zh": "火炮开火",
+    "vi": "hỏa lực pháo binh"
+  },
+  "subtitles.block_factorys_bosses.entity.cannon.get_out": {
+    "en": "Cannon Is Dismounted",
+    "zh": "离开火炮",
+    "vi": "rời khỏi pháo binh"
+  },
+  "subtitles.block_factorys_bosses.entity.cannon.impact": {
+    "en": "Cannonball Hits",
+    "zh": "炮弹命中",
+    "vi": "vỏ đạn"
+  },
+  "subtitles.block_factorys_bosses.entity.cannon.reload": {
+    "en": "Cannon Reloads",
+    "zh": "火炮装填",
+    "vi": "nạp pháo"
+  },
+  "subtitles.block_factorys_bosses.entity.cannon.seat": {
+    "en": "Cannon Is Mounted",
+    "zh": "进入火炮",
+    "vi": "Vào pháo binh"
+  },
+  "subtitles.block_factorys_bosses.entity.crate.land": {
+    "en": "Crate Lands",
+    "zh": "木箱落地",
+    "vi": "sàn hộp gỗ"
+  },
+  "subtitles.block_factorys_bosses.entity.dragon.bite": {
+    "en": "Ashlord Bites",
+    "zh": "灰烬领主撕咬",
+    "vi": "Vết cắn của Ashlord"
+  },
+  "subtitles.block_factorys_bosses.entity.dragon.claw": {
+    "en": "Ashlord Swipes With Claws",
+    "zh": "灰烬领主爪击",
+    "vi": "Móng vuốt của Chúa Ash"
+  },
+  "subtitles.block_factorys_bosses.entity.dragon.death": {
+    "en": "Ashlord Dies",
+    "zh": "灰烬领主死亡",
+    "vi": "Cái chết của Chúa tể Ash"
+  },
+  "subtitles.block_factorys_bosses.entity.dragon.fire_smelted_item": {
+    "en": "Item is Smelted",
+    "zh": "物品被熔炼",
+    "vi": "Các mặt hàng được nấu chảy"
+  },
+  "subtitles.block_factorys_bosses.entity.dragon.fireballs": {
+    "en": "Ashlord Shoots Fireballs",
+    "zh": "灰烬领主发射火球",
+    "vi": "Chúa tể tro bắn những quả cầu lửa"
+  },
+  "subtitles.block_factorys_bosses.entity.dragon.firelayer": {
+    "en": "Fireslayer",
+    "zh": "火焰喷发",
+    "vi": "ngọn lửa phun trào"
+  },
+  "subtitles.block_factorys_bosses.entity.dragon.hit": {
+    "en": "Ashlord Hurts",
+    "zh": "灰烬领主受伤",
+    "vi": "Chúa tể tro bị thương"
+  },
+  "subtitles.block_factorys_bosses.entity.dragon.phase_transition": {
+    "en": "Ashlord Transforms",
+    "zh": "灰烬领主转变形态",
+    "vi": "Chúa tể Ash thay đổi hình dạng"
+  },
+  "subtitles.block_factorys_bosses.entity.dragon.roar": {
+    "en": "Ashlord Roars",
+    "zh": "灰烬领主咆哮",
+    "vi": "Tiếng gầm của Chúa tể Ash"
+  },
+  "subtitles.block_factorys_bosses.entity.dragon.spawn": {
+    "en": "Ashlord Appears",
+    "zh": "灰烬领主现身",
+    "vi": "Chúa tể tro xuất hiện"
+  },
+  "subtitles.block_factorys_bosses.entity.dragon.tailswipe": {
+    "en": "Ashlord Swipes With Tail",
+    "zh": "灰烬领主甩尾",
+    "vi": "phim Chúa tể tro"
+  },
+  "subtitles.block_factorys_bosses.entity.dragon.wing": {
+    "en": "Ashlord Flaps Wings",
+    "zh": "灰烬领主振翅",
+    "vi": "Chúa tể Ash vỗ cánh"
+  },
+  "subtitles.block_factorys_bosses.entity.ice_gauntlet.icicle_break": {
+    "en": "Icicle Destroyed",
+    "zh": "冰锥碎裂",
+    "vi": "Gắp đá vỡ vụn"
+  },
+  "subtitles.block_factorys_bosses.entity.ice_gauntlet.icicle_hurt": {
+    "en": "Icicle Damaged",
+    "zh": "冰锥受损",
+    "vi": "Gắp đá bị hỏng"
+  },
+  "subtitles.block_factorys_bosses.entity.ice_gauntlet.icicle_spawning": {
+    "en": "Icicle Spawns",
+    "zh": "冰锥生成",
+    "vi": "Thế hệ nón băng"
+  },
+  "subtitles.block_factorys_bosses.entity.knight.attack_voiceline": {
+    "en": "Helvar Yaps",
+    "zh": "赫尔瓦叫嚣",
+    "vi": "Helva hét lên"
+  },
+  "subtitles.block_factorys_bosses.entity.knight.block": {
+    "en": "Helvar Blocks Damage",
+    "zh": "赫尔瓦格挡伤害",
+    "vi": "Helva chặn sát thương"
+  },
+  "subtitles.block_factorys_bosses.entity.knight.combo1": {
+    "en": "Helvar Goes All Out",
+    "zh": "赫尔瓦全力攻击",
+    "vi": "Helva tấn công toàn lực"
+  },
+  "subtitles.block_factorys_bosses.entity.knight.combo2": {
+    "en": "Helvar Goes All Out",
+    "zh": "赫尔瓦全力攻击",
+    "vi": "Helva tấn công toàn lực"
+  },
+  "subtitles.block_factorys_bosses.entity.knight.death": {
+    "en": "Helvar Dies!",
+    "zh": "赫尔瓦死亡！",
+    "vi": "Chết đi Helva!"
+  },
+  "subtitles.block_factorys_bosses.entity.knight.dodge": {
+    "en": "Helvar Dodges",
+    "zh": "赫尔瓦闪避",
+    "vi": "Helva né tránh"
+  },
+  "subtitles.block_factorys_bosses.entity.knight.fake_death": {
+    "en": "Helvar Dies?",
+    "zh": "赫尔瓦假死？",
+    "vi": "Helva đã làm giả cái chết của mình?"
+  },
+  "subtitles.block_factorys_bosses.entity.knight.heavy_attack": {
+    "en": "Helvar Heavy Attacks",
+    "zh": "赫尔瓦重击",
+    "vi": "Helva Thổi"
+  },
+  "subtitles.block_factorys_bosses.entity.knight.horizontal_slash": {
+    "en": "Helvar Slashes Horizontally",
+    "zh": "赫尔瓦横斩",
+    "vi": "Helva chém ngang"
+  },
+  "subtitles.block_factorys_bosses.entity.knight.horizontal_slash_transition": {
+    "en": "Helvar Slashes Horizontally",
+    "zh": "赫尔瓦横斩衔接",
+    "vi": "Helva cắt và kết nối theo chiều ngang"
+  },
+  "subtitles.block_factorys_bosses.entity.knight.hurt": {
+    "en": "Helvar Hurt",
+    "zh": "赫尔瓦受伤",
+    "vi": "Helva bị thương"
+  },
+  "subtitles.block_factorys_bosses.entity.knight.intro": {
+    "en": "Helvar Notices You",
+    "zh": "赫尔瓦注意到你",
+    "vi": "Helva thông báo cho bạn"
+  },
+  "subtitles.block_factorys_bosses.entity.knight.introduction_attack": {
+    "en": "Helvar Introduces Himself",
+    "zh": "赫尔瓦发起介绍攻击",
+    "vi": "Helva phát động cuộc tấn công giới thiệu"
+  },
+  "subtitles.block_factorys_bosses.entity.knight.jumpspin_1": {
+    "en": "Helvar Spin Jumps",
+    "zh": "赫尔瓦旋转跳跃",
+    "vi": "Nhảy xoay Helva"
+  },
+  "subtitles.block_factorys_bosses.entity.knight.jumpspin_2": {
+    "en": "Helvar Spin Jumps",
+    "zh": "赫尔瓦旋转跳跃",
+    "vi": "Nhảy xoay Helva"
+  },
+  "subtitles.block_factorys_bosses.entity.knight.jumpspin_3": {
+    "en": "Helvar Spin Jumps",
+    "zh": "赫尔瓦旋转跳跃",
+    "vi": "Nhảy xoay Helva"
+  },
+  "subtitles.block_factorys_bosses.entity.knight.knock_off": {
+    "en": "Helvar Knock Off",
+    "zh": "赫尔瓦被击退",
+    "vi": "Helva bị đẩy lùi"
+  },
+  "subtitles.block_factorys_bosses.entity.knight.knocked_down": {
+    "en": "Helvar Groans",
+    "zh": "赫尔瓦呻吟",
+    "vi": "Helva rên rỉ"
+  },
+  "subtitles.block_factorys_bosses.entity.knight.light_attack_1": {
+    "en": "Helvar Light Attacks",
+    "zh": "赫尔瓦轻击",
+    "vi": "vòi Helva"
+  },
+  "subtitles.block_factorys_bosses.entity.knight.light_attack_2": {
+    "en": "Helvar Light Attacks",
+    "zh": "赫尔瓦轻击",
+    "vi": "vòi Helva"
+  },
+  "subtitles.block_factorys_bosses.entity.knight.light_heavy_attack": {
+    "en": "Helvar Heavy Attacks, Lightly",
+    "zh": "赫尔瓦轻量重击",
+    "vi": "Helva đòn nhẹ nặng"
+  },
+  "subtitles.block_factorys_bosses.entity.knight.resurrection": {
+    "en": "Helvar Comes Back To Un-Life",
+    "zh": "赫尔瓦重返非生",
+    "vi": "Helva trở về cõi chết"
+  },
+  "subtitles.block_factorys_bosses.entity.knight.revenge_attack": {
+    "en": "Helvar Gets Revenge",
+    "zh": "赫尔瓦复仇攻击",
+    "vi": "Cuộc tấn công trả thù Helva"
+  },
+  "subtitles.block_factorys_bosses.entity.knight.stack_remove": {
+    "en": "Helvar Loses a Stack",
+    "zh": "赫尔瓦失去一层强化",
+    "vi": "Helva mất mức tăng cường"
+  },
+  "subtitles.block_factorys_bosses.entity.knight.thrust": {
+    "en": "Helvar Performs a Thrust Attack",
+    "zh": "赫尔瓦突刺攻击",
+    "vi": "Cuộc tấn công lunge của Helva"
+  },
+  "subtitles.block_factorys_bosses.entity.knight.vertical_slash": {
+    "en": "Helvar Slashes Vertically",
+    "zh": "赫尔瓦纵劈",
+    "vi": "Helva chia"
+  },
+  "subtitles.block_factorys_bosses.entity.knight.vertical_slash_transition": {
+    "en": "Helvar Slashes Vertically",
+    "zh": "赫尔瓦纵劈衔接",
+    "vi": "Kết nối chia dọc Helva"
+  },
+  "subtitles.block_factorys_bosses.entity.knight.wisp_explode": {
+    "en": "Helvar's Wisp Explodes",
+    "zh": "赫尔瓦的魂火爆炸",
+    "vi": "Vụ nổ linh hồn của Helva"
+  },
+  "subtitles.block_factorys_bosses.entity.knight.wisp_explode_last": {
+    "en": "Helvar's Last Wisp Explodes",
+    "zh": "赫尔瓦的最后魂火爆炸",
+    "vi": "Vụ nổ lửa linh hồn cuối cùng của Helva"
+  },
+  "subtitles.block_factorys_bosses.entity.kraken.death": {
+    "en": "Kraken Dies",
+    "zh": "巨妖死亡",
+    "vi": "cái chết của quái vật khổng lồ"
+  },
+  "subtitles.block_factorys_bosses.entity.kraken.death_final": {
+    "en": "Kraken Dies",
+    "zh": "巨妖最终死亡",
+    "vi": "Quái vật khổng lồ cuối cùng cũng chết"
+  },
+  "subtitles.block_factorys_bosses.entity.kraken.grab_and_throw": {
+    "en": "Kraken Grabs and Throws",
+    "zh": "巨妖抓取并投掷",
+    "vi": "Troll tóm và ném"
+  },
+  "subtitles.block_factorys_bosses.entity.kraken.growling": {
+    "en": "Kraken Growls",
+    "zh": "巨妖低吼",
+    "vi": "Quái vật khổng lồ gầm lên"
+  },
+  "subtitles.block_factorys_bosses.entity.kraken.idle": {
+    "en": "Kraken Idles",
+    "zh": "巨妖闲置音效",
+    "vi": "Hiệu ứng âm thanh nhàn rỗi Troll"
+  },
+  "subtitles.block_factorys_bosses.entity.kraken.intro": {
+    "en": "Tentacles Emerge",
+    "zh": "触手浮现",
+    "vi": "Xúc tu xuất hiện"
+  },
+  "subtitles.block_factorys_bosses.entity.kraken.light_slam": {
+    "en": "Kraken Slams",
+    "zh": "巨妖轻砸",
+    "vi": "Quái vật khổng lồ đập nhẹ"
+  },
+  "subtitles.block_factorys_bosses.entity.kraken.strong_slam": {
+    "en": "Kraken Slams",
+    "zh": "巨妖重砸",
+    "vi": "Quái vật khổng lồ đập phá"
+  },
+  "subtitles.block_factorys_bosses.entity.kraken.tentacle_death": {
+    "en": "Tentacle Dies",
+    "zh": "触手死亡",
+    "vi": "xúc tu chết"
+  },
+  "subtitles.block_factorys_bosses.entity.kraken.warning": {
+    "en": "Kraken Grumbles",
+    "zh": "巨妖低鸣警告",
+    "vi": "Con quái vật khổng lồ thì thầm lời cảnh báo"
+  },
+  "subtitles.block_factorys_bosses.entity.kraken.water_movement": {
+    "en": "Water Splashes",
+    "zh": "水花飞溅",
+    "vi": "nước bắn tung tóe"
+  },
+  "subtitles.block_factorys_bosses.entity.roll": {
+    "en": "Player Rolls",
+    "zh": "玩家翻滚",
+    "vi": "Người chơi cuộn"
+  },
+  "subtitles.block_factorys_bosses.entity.sand_column.eruption": {
+    "en": "Sand Erupts",
+    "zh": "沙柱喷发",
+    "vi": "vụ phun trào cột cát"
+  },
+  "subtitles.block_factorys_bosses.entity.sandworm.ambient": {
+    "en": "Sandworm Rumbles",
+    "zh": "沙虫低鸣",
+    "vi": "giun cát thì thầm"
+  },
+  "subtitles.block_factorys_bosses.entity.sandworm.bite": {
+    "en": "Sirok Bites",
+    "zh": "西洛克撕咬",
+    "vi": "Siroc Cắn"
+  },
+  "subtitles.block_factorys_bosses.entity.sandworm.charge": {
+    "en": "Sirok Charges",
+    "zh": "西洛克冲锋",
+    "vi": "Phí Sirocco"
+  },
+  "subtitles.block_factorys_bosses.entity.sandworm.death": {
+    "en": "Sirok Dies",
+    "zh": "西洛克死亡",
+    "vi": "Cái chết của Sirocco"
+  },
+  "subtitles.block_factorys_bosses.entity.sandworm.dive": {
+    "en": "Sirok Dives",
+    "zh": "西洛克潜入沙中",
+    "vi": "Sirocco lao xuống cát"
+  },
+  "subtitles.block_factorys_bosses.entity.sandworm.dive_long": {
+    "en": "Sirok Dives Deep",
+    "zh": "西洛克深潜",
+    "vi": "Lặn ở Sirocco"
+  },
+  "subtitles.block_factorys_bosses.entity.sandworm.dive_short": {
+    "en": "Sirok Dives Shallow",
+    "zh": "西洛克浅潜",
+    "vi": "Lặn cạn Sirocco"
+  },
+  "subtitles.block_factorys_bosses.entity.sandworm.emerge": {
+    "en": "Sirok Emerges",
+    "zh": "西洛克现身",
+    "vi": "Sirocco xuất hiện"
+  },
+  "subtitles.block_factorys_bosses.entity.sandworm.hurt": {
+    "en": "Sirok Hurts",
+    "zh": "西洛克受伤",
+    "vi": "Sirocco chấn thương"
+  },
+  "subtitles.block_factorys_bosses.entity.sandworm.impact": {
+    "en": "Sirok Hits Ground",
+    "zh": "西洛克撞击地面",
+    "vi": "Sirocco chạm đất"
+  },
+  "subtitles.block_factorys_bosses.entity.sandworm.poison_spit": {
+    "en": "Sirok Spits Poison",
+    "zh": "西洛克喷吐毒液",
+    "vi": "Sirocco phun nọc độc"
+  },
+  "subtitles.block_factorys_bosses.entity.sandworm.screech": {
+    "en": "Sirok Screeches",
+    "zh": "西洛克尖啸",
+    "vi": "Tiếng thét Sirocco"
+  },
+  "subtitles.block_factorys_bosses.entity.sandworm.tail_impact": {
+    "en": "Tail impacts",
+    "zh": "尾部撞击",
+    "vi": "Lực xung kích đuôi"
+  },
+  "subtitles.block_factorys_bosses.entity.yeti.death": {
+    "en": "Skor Dies",
+    "zh": "斯科尔死亡",
+    "vi": "Cái chết của Skoll"
+  },
+  "subtitles.block_factorys_bosses.entity.yeti.enrage": {
+    "en": "Skor Rages",
+    "zh": "斯科尔暴怒",
+    "vi": "Skoll rất tức giận"
+  },
+  "subtitles.block_factorys_bosses.entity.yeti.groundsmash": {
+    "en": "Skor Smashes the Ground",
+    "zh": "斯科尔重击地面",
+    "vi": "Skoll đập mạnh xuống đất"
+  },
+  "subtitles.block_factorys_bosses.entity.yeti.handswipe": {
+    "en": "Skor Swipes With his Hand",
+    "zh": "斯科尔挥动手臂",
+    "vi": "Skoll vẫy tay"
+  },
+  "subtitles.block_factorys_bosses.entity.yeti.handswipe2": {
+    "en": "Skor Swipes With his Other Hand",
+    "zh": "斯科尔挥动另一只手臂",
+    "vi": "Skoll vẫy cánh tay còn lại của mình."
+  },
+  "subtitles.block_factorys_bosses.entity.yeti.hit": {
+    "en": "Skor Hurts",
+    "zh": "斯科尔受伤",
+    "vi": "Scholl bị thương"
+  },
+  "subtitles.block_factorys_bosses.entity.yeti.ice_barrage": {
+    "en": "Skor Summons a Snowstorm",
+    "zh": "斯科尔召唤暴风雪",
+    "vi": "Skoll triệu hồi một trận bão tuyết"
+  },
+  "subtitles.block_factorys_bosses.entity.yeti.ice_barrage_whirlpool": {
+    "en": "Snowstorm Rages",
+    "zh": "暴风雪肆虐",
+    "vi": "bão tuyết hoành hành"
+  },
+  "subtitles.block_factorys_bosses.entity.yeti.jump": {
+    "en": "Skor Leaps",
+    "zh": "斯科尔跳跃",
+    "vi": "Nhảy Skoll"
+  },
+  "subtitles.block_factorys_bosses.entity.yeti.land": {
+    "en": "Skor Lands",
+    "zh": "斯科尔落地",
+    "vi": "Vùng đất Skoll"
+  },
+  "subtitles.block_factorys_bosses.entity.yeti.punch": {
+    "en": "Skor Punches",
+    "zh": "斯科尔挥拳",
+    "vi": "Cú đấm đầu lâu"
+  },
+  "subtitles.block_factorys_bosses.entity.yeti.ranged_control": {
+    "en": "Skor Summons Ice Cube",
+    "zh": "斯科尔召唤冰立方",
+    "vi": "Skoll triệu hồi Ice Cube"
+  },
+  "subtitles.block_factorys_bosses.entity.yeti.ranged_control_ice_block": {
+    "en": "Ice Cube Appears",
+    "zh": "冰立方出现",
+    "vi": "khối băng xuất hiện"
+  },
+  "subtitles.block_factorys_bosses.entity.yeti.spawn": {
+    "en": "Skor Awakens",
+    "zh": "斯科尔苏醒",
+    "vi": "Skoll thức dậy"
+  },
+  "subtitles.block_factorys_bosses.item.dagger_stab": {
+    "en": "Dagger Stab",
+    "zh": "匕首刺击",
+    "vi": "lực đẩy dao găm"
+  },
+  "subtitles.block_factorys_bosses.item.ice_gauntlet.blast_1": {
+    "en": "Icicle Gauntlet Blasts Ice",
+    "zh": "冰拳套发射冰刺",
+    "vi": "Găng tay băng bắn ra những gai băng"
+  },
+  "subtitles.block_factorys_bosses.item.ice_gauntlet.icicle_pickup": {
+    "en": "Icicle Picked Up",
+    "zh": "拾取冰锥",
+    "vi": "nhặt đá"
+  },
+  "subtitles.block_factorys_bosses.item.ice_gauntlet.punch": {
+    "en": "Ice Gauntlet Punches",
+    "zh": "冰拳套挥拳",
+    "vi": "Găng tay nắm đấm băng"
+  },
+  "subtitles.block_factorys_bosses.item.ice_gauntlet.throw_icicle": {
+    "en": "Icicle is Thrown",
+    "zh": "投掷冰锥",
+    "vi": "Ném đá"
+  },
+  "subtitles.block_factorys_bosses.item.knight_sword_swing": {
+    "en": "Knight Sword Swing",
+    "zh": "骑士剑挥砍",
+    "vi": "Hiệp sĩ kiếm chém"
+  },
+  "subtitles.block_factorys_bosses.item.large_sword_swing": {
+    "en": "Large Sword Swing",
+    "zh": "巨剑挥砍",
+    "vi": "Chém đại kiếm"
+  },
+  "subtitles.block_factorys_bosses.item.sandworm_gauntlet.poison_barrage_release": {
+    "en": "Sandworm Gauntlet shoots",
+    "zh": "沙拳套喷射毒液",
+    "vi": "Găng tay đấm bốc cát phun nọc độc"
+  },
+  "subtitles.block_factorys_bosses.item.undying_tentacle.charging": {
+    "en": "Undying Tentacle Gets Ready",
+    "zh": "不朽触须蓄力",
+    "vi": "Phí xúc tu bất tử"
+  },
+  "subtitles.block_factorys_bosses.item.undying_tentacle.disappearing": {
+    "en": "Tentacle Summon Disappears",
+    "zh": "触手召唤消失",
+    "vi": "Triệu hồi xúc tu biến mất"
+  },
+  "subtitles.block_factorys_bosses.item.undying_tentacle.smash_ground": {
+    "en": "Undying Tentacle Smashes Ground",
+    "zh": "不朽触须重击地面",
+    "vi": "Những xúc tu bất tử đập xuống đất"
+  },
+  "subtitles.block_factorys_bosses.item.undying_tentacle.spawn_tentacles": {
+    "en": "Tentacle Summon Appears",
+    "zh": "触手召唤出现",
+    "vi": "Triệu hồi xúc tu xuất hiện"
+  },
+  "subtitles.block_factorys_bosses.item.undying_tentacle.tentacle_strike_the_ground": {
+    "en": "Tentacle Summon Strikes Ground",
+    "zh": "触手召唤敲击地面",
+    "vi": "Tiếng gọi của xúc tu gõ xuống đất"
+  },
+  "subtitles.block_factorys_bosses.item.undying_tentacle.throw_back": {
+    "en": "Undying Tentacle Whips Back",
+    "zh": "不朽触须向后挥击",
+    "vi": "Những xúc tu bất tử quay lại"
+  },
+  "subtitles.block_factorys_bosses.item.undying_tentacle.throw_forth": {
+    "en": "Undying Tentacle Whips Forth",
+    "zh": "不朽触须向前挥击",
+    "vi": "Những xúc tu bất tử vung về phía trước"
+  },
+  "subtitles.block_factorys_bosses.item.undying_tentacle.throw_grab": {
+    "en": "Undying Tentacle Whip Collides",
+    "zh": "不朽触须挥击命中",
+    "vi": "Cú đánh xúc tu bất tử"
+  },
+  "subtitles.block_factorys_bosses.item.warrior_sword_swing": {
+    "en": "Warrior Sword Swing",
+    "zh": "勇士之剑挥砍",
+    "vi": "Chiến binh chém kiếm"
+  },
+  "subtitles.block_factorys_bosses.entity.kraken.phase_transition": {
+    "en": "Kraken Emerges",
+    "zh": null,
+    "vi": null
+  },
+  "block.block_factorys_bosses.dragon_flag": {
+    "en": null,
+    "zh": "飞龙旗帜",
+    "vi": null
+  },
+  "item.block_factorys_bosses.big_cage_skelly_spawn_egg": {
+    "en": null,
+    "zh": "笼子刷怪蛋",
+    "vi": null
+  },
+  "item.block_factorys_bosses.big_cage_spawn_egg": {
+    "en": null,
+    "zh": "笼子刷怪蛋",
+    "vi": null
+  },
+  "item.block_factorys_bosses.cage_skelly_spawn_egg": {
+    "en": null,
+    "zh": "关着骨架的笼子刷怪蛋",
+    "vi": null
+  },
+  "item.block_factorys_bosses.cage_spawn_egg": {
+    "en": null,
+    "zh": "笼子刷怪蛋",
+    "vi": null
+  }
+}

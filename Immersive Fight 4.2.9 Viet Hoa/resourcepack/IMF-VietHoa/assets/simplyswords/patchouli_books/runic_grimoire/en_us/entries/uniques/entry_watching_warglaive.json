@@ -1,0 +1,17 @@
+{
+  "name": "Watching Warglaive (Thủ Vọng Chiến Nhận)",
+  "icon": "simplyswords:watching_warglaive",
+  "advancement": "simplyswords:watching_warglaive",
+  "category": "simplyswords:category_unique_weapons",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:watching_warglaive",
+      "text": "Vũ khí của những chiến binh tàn bạo. Giữa thân lưỡi đao khảm hai con mắt ma quái luôn chớp nháy, thân đao đen thẫm như hút cạn ánh sáng xung quanh."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Hút cạn sinh mệnh kẻ thù hồi máu cho bản thân, có tỉ lệ kết liễu ngay lập tức mục tiêu thấp máu."
+    }
+  ]
+}

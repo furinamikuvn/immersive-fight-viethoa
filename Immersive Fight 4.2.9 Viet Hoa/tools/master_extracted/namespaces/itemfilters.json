@@ -1,0 +1,222 @@
+{
+  "itemGroup.itemfilters.main": {
+    "en": "Item Filters",
+    "zh": "物品过滤器",
+    "vi": "Bộ lọc mục"
+  },
+  "itemGroup.itemfilters.itemfilters": {
+    "en": "Item Filters",
+    "zh": "物品过滤器",
+    "vi": "Bộ lọc mục"
+  },
+  "item.itemfilters.filter": {
+    "en": "Item Filter",
+    "zh": "物品过滤器",
+    "vi": "Item Filter"
+  },
+  "item.itemfilters.always_true": {
+    "en": "Always True Filter",
+    "zh": "全部匹配过滤器",
+    "vi": "Always True Filter"
+  },
+  "item.itemfilters.always_true.description": {
+    "en": "Matches all items",
+    "zh": "匹配所有物品",
+    "vi": "Phù hợp với tất cả các mục"
+  },
+  "item.itemfilters.always_false": {
+    "en": "Always False Filter",
+    "zh": "全部忽略过滤器",
+    "vi": "Always False Filter"
+  },
+  "item.itemfilters.always_false.description": {
+    "en": "Matches no items",
+    "zh": "忽略所有物品",
+    "vi": "Bỏ qua tất cả các mục"
+  },
+  "item.itemfilters.or": {
+    "en": "OR Filter",
+    "zh": "或过滤器",
+    "vi": "OR Filter"
+  },
+  "item.itemfilters.or.description": {
+    "en": "One of filters must match",
+    "zh": "匹配其中一个过滤器",
+    "vi": "Phù hợp với một trong các bộ lọc"
+  },
+  "item.itemfilters.and": {
+    "en": "AND Filter",
+    "zh": "与过滤器",
+    "vi": "AND Filter"
+  },
+  "item.itemfilters.and.description": {
+    "en": "All filters must match",
+    "zh": "匹配所有过滤器",
+    "vi": "phù hợp với tất cả các bộ lọc"
+  },
+  "item.itemfilters.not": {
+    "en": "NOT Filter",
+    "zh": "非过滤器",
+    "vi": "NOT Filter"
+  },
+  "item.itemfilters.not.description": {
+    "en": "Invert filter",
+    "zh": "反转过滤器",
+    "vi": "Bộ lọc đảo ngược"
+  },
+  "item.itemfilters.xor": {
+    "en": "XOR Filter",
+    "zh": "异或过滤器",
+    "vi": "XOR Filter"
+  },
+  "item.itemfilters.xor.description": {
+    "en": "One of two filters must match, but not both",
+    "zh": "匹配两个过滤器其中一个，但不能同时匹配",
+    "vi": "Phù hợp với một trong hai bộ lọc, nhưng không phải cả hai"
+  },
+  "item.itemfilters.tag": {
+    "en": "Tag Filter",
+    "zh": "标签过滤器",
+    "vi": "Tag Filter"
+  },
+  "item.itemfilters.tag.description": {
+    "en": "Tags names, such as 'minecraft:wool' or 'forge:cobblestone'",
+    "zh": "标签名称，例如“minecraft:wool”或“forge:cobblestone”",
+    "vi": "Tên thẻ, chẳng hạn như \"minecraft:wool\" hoặc \"forge:cobblestone\""
+  },
+  "item.itemfilters.item_group": {
+    "en": null,
+    "zh": "物品组过滤器",
+    "vi": "Bộ lọc nhóm mặt hàng"
+  },
+  "item.itemfilters.item_group.description": {
+    "en": null,
+    "zh": "按照物品组/创造标签页ID过滤",
+    "vi": "Lọc theo nhóm mục/tạo ID tab"
+  },
+  "item.itemfilters.mod": {
+    "en": "Mod Filter",
+    "zh": "模组过滤器",
+    "vi": "Mod Filter"
+  },
+  "item.itemfilters.mod.description": {
+    "en": "Use Mod ID",
+    "zh": "按照模组ID过滤",
+    "vi": "Lọc theo ID Mod"
+  },
+  "item.itemfilters.id_regex": {
+    "en": "ID RegEx Filter",
+    "zh": "ID正则过滤器",
+    "vi": "ID RegEx Filter"
+  },
+  "item.itemfilters.id_regex.description": {
+    "en": "Checks item ID with regular expressions",
+    "zh": "使用正则表达式检测物品ID",
+    "vi": "Phát hiện ID mục bằng biểu thức chính quy"
+  },
+  "item.itemfilters.damage": {
+    "en": "Damage Filter",
+    "zh": "耐久过滤器",
+    "vi": "Damage Filter"
+  },
+  "item.itemfilters.damage.description": {
+    "en": "Checks item damage",
+    "zh": "检测物品耐久",
+    "vi": "Kiểm tra độ bền của sản phẩm"
+  },
+  "item.itemfilters.block": {
+    "en": "Block Filter",
+    "zh": "方块过滤器",
+    "vi": "Block Filter"
+  },
+  "item.itemfilters.block.description": {
+    "en": "Checks of item is a block",
+    "zh": "检测物品是否为方块",
+    "vi": "Kiểm tra xem một mục có phải là một khối không"
+  },
+  "item.itemfilters.max_count": {
+    "en": "Max Count Filter",
+    "zh": "最大堆叠数过滤器",
+    "vi": "Max Count Filter"
+  },
+  "item.itemfilters.max_count.description": {
+    "en": "Checks item max count",
+    "zh": "检测物品最大堆叠数",
+    "vi": "Phát hiện số lượng ngăn xếp tối đa của vật phẩm"
+  },
+  "item.itemfilters.strong_nbt": {
+    "en": "NBT Filter (Strong)",
+    "zh": "NBT过滤器（强）",
+    "vi": "NBT Filter (Strong)"
+  },
+  "item.itemfilters.strong_nbt.description": {
+    "en": "Matches if entire NBT is equal",
+    "zh": "匹配完整NBT",
+    "vi": "Trận đấu đầy đủ NBT"
+  },
+  "item.itemfilters.weak_nbt": {
+    "en": "NBT Filter (Weak)",
+    "zh": "NBT过滤器（弱）",
+    "vi": "NBT Filter (Weak)"
+  },
+  "item.itemfilters.weak_nbt.description": {
+    "en": "Matches if only specified part of NBT is present",
+    "zh": "匹配部分NBT",
+    "vi": "Phần trận đấu NBT"
+  },
+  "item.itemfilters.custom": {
+    "en": "Custom Filter",
+    "zh": "自定义过滤器",
+    "vi": "Custom Filter"
+  },
+  "item.itemfilters.custom.description": {
+    "en": "Requires a mod or a script, usually KubeJS, to make it work",
+    "zh": "需要模组或脚本（通常为KubeJS）才能使其工作",
+    "vi": "Yêu cầu mod hoặc tập lệnh (thường là KubeJS) để hoạt động"
+  },
+  "itemfilters.variants": {
+    "en": "Variants [%d]",
+    "zh": null,
+    "vi": null
+  },
+  "itemfilters.help_text.variants": {
+    "en": "Tab, Scroll Wheel, Cursor Up/Down: adjust highlight\nEnter: select highlighted",
+    "zh": null,
+    "vi": null
+  },
+  "itemfilters.help_text.filter": {
+    "en": "Filter (Right-Click to clear)",
+    "zh": null,
+    "vi": null
+  },
+  "itemfilters.help_text.nbt": {
+    "en": "NBT String\n▶ e.g. { text:\"hello\", value: 1, active: true }",
+    "zh": null,
+    "vi": null
+  },
+  "itemfilters.help_text.weak_nbt": {
+    "en": "Weak NBT String\n▶ e.g. { text:\"hello\", value: 1, active: true }\n▶ Only the NBT fields supplied will be checked (any other fields in the item are ignored)",
+    "zh": null,
+    "vi": null
+  },
+  "itemfilters.help_text.regex": {
+    "en": "Regular Expression\n Matched against the item ID\n▶ e.g. \"^minecraft:\" matches all vanilla items",
+    "zh": null,
+    "vi": null
+  },
+  "itemfilters.help_text.max_count": {
+    "en": "Maximum Stack Size\n▶ May also include relational operators, e.g. \"<64\" or \">=16\"",
+    "zh": null,
+    "vi": null
+  },
+  "itemfilters.help_text.damage": {
+    "en": "Item Damage\n▶ May also include relational operators, e.g. \"<10\" or \">=5\"\n and optionally by percentage, e.g. \">50%\"",
+    "zh": null,
+    "vi": null
+  },
+  "item.itemfilters.missing": {
+    "en": null,
+    "zh": "缺少物品",
+    "vi": null
+  }
+}

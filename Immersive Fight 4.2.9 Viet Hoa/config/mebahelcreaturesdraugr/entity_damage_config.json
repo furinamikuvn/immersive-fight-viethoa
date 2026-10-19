@@ -1,0 +1,15 @@
+{
+  "draugrEntityMeleeDamage": 6.0,
+  "draugrArcherEntityBonusArrowDamage": 0.0,
+  "draugrWightEntityMeleeDamage": 6.0,
+  "draugrWightEntityFrostbiteDamage": 2.5,
+  "draugrScourgeEntityFrostbiteDamage": 3.0,
+  "draugrScourgeEntityIceSpikeDamage": 9.0,
+  "draugrOverlordEntityMeleeDamage": 12.0,
+  "draugrOverlordEntitySpinDamage": 10.0,
+  "draugrOverlordEntityGroundStrikeDamage": 20.0,
+  "skeletonWarriorEntityMeleeDamage": 5.0,
+  "flameAtronachEntityDamage": 8.0,
+  "infernalDraugrEntityMeleeDamage": 7.0,
+  "infernalDraugrEntityFireBoltDamage": 8.0
+}

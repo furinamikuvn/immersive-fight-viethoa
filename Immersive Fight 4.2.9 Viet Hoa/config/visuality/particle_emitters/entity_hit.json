@@ -1,0 +1,57 @@
+{
+  "enabled": true,
+  "min_amount": 1,
+  "max_amount": 20,
+  "entries": [
+    {
+      "entity": [
+        "minecraft:skeleton",
+        "minecraft:skeleton_horse",
+        "minecraft:stray",
+		"born_in_chaos_v1:bonescaller",
+		"born_in_chaos_v1:supreme_bonescaller",
+		"born_in_chaos_v1:spirit_guide",
+		"born_in_chaos_v1:decrepit_skeleton",
+		"block_factorys_bosses:soul_skeleton",
+		"legendary_monsters:skeletosaurus",
+		"minecraftdungeons:skeleton_horseman",
+		"minecraftdungeons:vanguard",
+		"minecraftdungeons:elite_vanguard",
+		"minecraftdungeons:skeleguard",
+		"block_factorys_bosses:crossbow_pirate",
+		"block_factorys_bosses:pirate_captain",
+		"block_factorys_bosses:pirate_rook"
+      ],
+      "particle": {
+        "type": "visuality:bone"
+      }
+    },
+    {
+      "entity": [
+        "minecraft:wither_skeleton",
+        "wom:evil_skeleton",
+        "born_in_chaos_v1:skeleton_demoman",
+		"block_factorys_bosses:soul_knight_wither_skeleton",
+		"legendary_monsters:withered_abomination"
+      ],
+      "particle": {
+        "type": "visuality:wither_bone"
+      }
+    },
+    {
+      "entity": "minecraft:chicken",
+      "particle": {
+        "type": "visuality:feather"
+      }
+    },
+    {
+      "entity": [
+        "minecraft:villager",
+        "minecraft:wandering_trader"
+      ],
+      "particle": {
+        "type": "visuality:emerald"
+      }
+    }
+  ]
+}

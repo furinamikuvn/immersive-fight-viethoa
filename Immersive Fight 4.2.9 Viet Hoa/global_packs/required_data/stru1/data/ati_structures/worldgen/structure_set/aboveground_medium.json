@@ -1,0 +1,35 @@
+{
+  "structures": [
+    {
+      "structure": "ati_structures:dark_tower",
+      "weight": 1
+    },
+    {
+      "structure": "ati_structures:dojo",
+      "weight": 1
+    },
+    {
+      "structure": "ati_structures:monastery_tower",
+      "weight": 1
+    },
+    {
+      "structure": "ati_structures:overgrown_outpost",
+      "weight": 1
+    },
+    {
+      "structure": "ati_structures:wither_keep",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 238479652,
+    "locate_offset": [0, 5, -5],
+    "spacing": 30,
+    "separation": 15,
+ "exclusion_zone": {
+      "chunk_count": 6,
+      "other_set": "minecraft:villages"
+    }
+  }
+}

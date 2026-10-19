@@ -1,0 +1,40 @@
+
+[light_sources]
+	entities = true
+	self = true
+	block_entities = true
+	water_sensitive_check = true
+
+	[light_sources.settings]
+
+		[light_sources.settings.entities]
+
+			[light_sources.settings.entities.minecraft]
+				player = true
+				axolotl = true
+				chicken = true
+				skeleton_horse = true
+				zombie_horse = true
+
+			[light_sources.settings.entities.dummmmmmy]
+				target_dummy = true
+
+			[light_sources.settings.entities.species]
+				deepfish = true
+
+			[light_sources.settings.entities.gem_crabs]
+				copper_crab = true
+				iron_crab = true
+				emerald_crab = true
+				redstone_crab = true
+				coal_crab = true
+
+			[light_sources.settings.entities.alexsmobs]
+				lobster = true
+
+			[light_sources.settings.entities.friendsandfoes]
+				glare = true
+
+			[light_sources.settings.entities.born_in_chaos_v1]
+				thornshell_crab = true
+

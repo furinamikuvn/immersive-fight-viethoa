@@ -1,0 +1,117 @@
+{
+  "key.open_menu": {
+    "en": "Open Mine Menu",
+    "zh": "打开我的菜单",
+    "vi": null
+  },
+  "mine_menu.clipboardCopy": {
+    "en": "Command copied to clipboard",
+    "zh": null,
+    "vi": null
+  },
+  "mine_menu.selectKey": {
+    "en": "Select a key",
+    "zh": null,
+    "vi": null
+  },
+  "mine_menu.selectSlot": {
+    "en": "Select a Slot",
+    "zh": null,
+    "vi": null
+  },
+  "mine_menu.clipboard": {
+    "en": "Clipboard",
+    "zh": null,
+    "vi": null
+  },
+  "mine_menu.send": {
+    "en": "Send",
+    "zh": null,
+    "vi": null
+  },
+  "mine_menu.toggle": {
+    "en": "Toggle",
+    "zh": null,
+    "vi": null
+  },
+  "mine_menu.press": {
+    "en": "Press",
+    "zh": null,
+    "vi": null
+  },
+  "mine_menu.action": {
+    "en": "Action",
+    "zh": null,
+    "vi": null
+  },
+  "mine_menu.command": {
+    "en": "Command",
+    "zh": null,
+    "vi": null
+  },
+  "mine_menu.keybind": {
+    "en": "Keybind",
+    "zh": null,
+    "vi": null
+  },
+  "mine_menu.clickAction_command": {
+    "en": "Click Action: Command",
+    "zh": null,
+    "vi": null
+  },
+  "mine_menu.clickAction_keybinding": {
+    "en": "Click Action: KeyBinding",
+    "zh": null,
+    "vi": null
+  },
+  "mine_menu.clickAction_useItem": {
+    "en": "Click Action: Use Item",
+    "zh": null,
+    "vi": null
+  },
+  "mine_menu.clickAction_category": {
+    "en": "Click Action: Category",
+    "zh": null,
+    "vi": null
+  },
+  "mine_menu.actionScreen.title": {
+    "en": "MineMenu Action Screen",
+    "zh": null,
+    "vi": null
+  },
+  "mine_menu.itemScreen.title": {
+    "en": "MineMenu Item Screen",
+    "zh": null,
+    "vi": null
+  },
+  "mine_menu.menuItem.title": {
+    "en": "MineMenu Menu Item",
+    "zh": null,
+    "vi": null
+  },
+  "mine_menu.iconScreen.title": {
+    "en": "MineMenu Icon Screen",
+    "zh": null,
+    "vi": null
+  },
+  "mine_menu.pickIcon.search": {
+    "en": "MineMenu Pick Icon Search",
+    "zh": null,
+    "vi": null
+  },
+  "mine_menu.keyScreen.title": {
+    "en": "MineMenu Key Screen",
+    "zh": null,
+    "vi": null
+  },
+  "mine_menu.radialMenu.title": {
+    "en": "MineMenu Radial Menu",
+    "zh": null,
+    "vi": null
+  },
+  "gui.delete": {
+    "en": "Delete",
+    "zh": null,
+    "vi": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "structures": [
+    { "structure": "illagerstructures:mohai_illager", "weight": 5 },
+    { "structure": "illagerstructures:well", "weight": 5 },
+    { "structure": "illagerstructures:tipi", "weight": 5 },
+    { "structure": "illagerstructures:simple_well", "weight": 5 },
+    { "structure": "illagerstructures:totem", "weight": 5 },
+    { "structure": "illagerstructures:lone_house", "weight": 5 },
+    { "structure": "illagerstructures:simple_cart", "weight": 5 },
+    { "structure": "illagerstructures:illager_tower", "weight": 5 },
+    { "structure": "illagerstructures:illager_tower2", "weight": 5 },
+    { "structure": "illagerstructures:illager_tower3", "weight": 5 },
+    { "structure": "illagerstructures:illager_tipi_camp", "weight": 3 },
+    { "structure": "illagerstructures:lava_extractor", "weight": 3 },
+    { "structure": "illagerstructures:illager_stable", "weight": 3 },
+    { "structure": "illagerstructures:illager_camp", "weight": 3 },
+    { "structure": "illagerstructures:balloon_tower", "weight": 3 },
+    { "structure": "illagerstructures:illager_fort", "weight": 1 },
+    { "structure": "illagerstructures:smeltery", "weight": 1 }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 40,
+    "separation": 20,
+    "spread_type": "triangular",
+    "salt": 73841625
+  }
+}

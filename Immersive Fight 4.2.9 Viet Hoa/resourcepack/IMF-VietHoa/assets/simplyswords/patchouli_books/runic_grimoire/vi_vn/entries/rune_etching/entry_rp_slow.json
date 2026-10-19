@@ -1,0 +1,17 @@
+{
+  "name": "Chậm lại",
+  "icon": "simplyswords:runic_tablet",
+  "category": "simplyswords:category_rune_etching",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:runic_tablet",
+      "title": "Chậm lại",
+      "text": "Slow Rune mang đến cho vũ khí bản chất của sự chậm chạp và trì trệ $() của $(#87185d)$(l). Mỗi lần người giữ $(br2) tấn công, có khả năng giảm tốc độ của mục tiêu."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Khống chế mạnh mẽ, cực kỳ thích hợp cho phong cách vừa đánh vừa rút thả diều đối thủ."
+    }
+  ]
+}

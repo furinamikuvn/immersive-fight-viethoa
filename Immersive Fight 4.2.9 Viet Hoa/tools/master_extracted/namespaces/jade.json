@@ -1,0 +1,1412 @@
+{
+  "modmenu.nameTranslation.jade": {
+    "en": "Jade",
+    "zh": "Jade",
+    "vi": null
+  },
+  "modmenu.descriptionTranslation.jade": {
+    "en": "Shows information about what you are looking at.",
+    "zh": "显示你眼前物体的信息。",
+    "vi": null
+  },
+  "tooltip.jade.crop_growth": {
+    "en": "Growth: %s",
+    "zh": "生长状态：%s",
+    "vi": null
+  },
+  "tooltip.jade.crop_mature": {
+    "en": "Mature",
+    "zh": "成熟",
+    "vi": null
+  },
+  "tooltip.jade.empty": {
+    "en": "Empty",
+    "zh": "空",
+    "vi": null
+  },
+  "tooltip.jade.delay": {
+    "en": "Delay: %d",
+    "zh": "延迟：%d",
+    "vi": null
+  },
+  "tooltip.jade.mode": {
+    "en": "Mode: %s",
+    "zh": "模式：%s",
+    "vi": null
+  },
+  "tooltip.jade.mode_comparator": {
+    "en": "Comparator",
+    "zh": "比较器",
+    "vi": null
+  },
+  "tooltip.jade.mode_subtractor": {
+    "en": "Subtractor",
+    "zh": "减法器",
+    "vi": null
+  },
+  "tooltip.jade.state": {
+    "en": "State: %s",
+    "zh": "状态：%s",
+    "vi": null
+  },
+  "tooltip.jade.state_on": {
+    "en": "On",
+    "zh": "开",
+    "vi": null
+  },
+  "tooltip.jade.state_off": {
+    "en": "Off",
+    "zh": "关",
+    "vi": null
+  },
+  "tooltip.jade.power": {
+    "en": "Power: %d",
+    "zh": "红石强度：%d",
+    "vi": null
+  },
+  "jade.input_signal": {
+    "en": "Input: %d",
+    "zh": "输入：%d",
+    "vi": null
+  },
+  "tooltip.jade.villager_profession": {
+    "en": "Profession: %s",
+    "zh": "职业：%s",
+    "vi": null
+  },
+  "gui.jade.by": {
+    "en": "Made with %s by Snownee",
+    "zh": "Made with %s by Snownee",
+    "vi": null
+  },
+  "gui.jade.configuration": {
+    "en": "Jade Configuration",
+    "zh": "Jade 配置",
+    "vi": null
+  },
+  "gui.jade.configuration.desc1": {
+    "en": "a §fUI enhancement§r mod that",
+    "zh": "Jade是一款免费模组，如遇盗卖等行为请向平台举报。",
+    "vi": null
+  },
+  "gui.jade.configuration.desc2": {
+    "en": "§fdisplays information§r about what §fyou are looking at§r.",
+    "zh": "",
+    "vi": null
+  },
+  "gui.jade.jade_settings": {
+    "en": "Mod Settings",
+    "zh": "模组设置",
+    "vi": null
+  },
+  "gui.jade.plugin_settings": {
+    "en": "Plugin Settings",
+    "zh": "插件设置",
+    "vi": null
+  },
+  "gui.jade.save_and_quit": {
+    "en": "Save & Quit",
+    "zh": "保存并退出",
+    "vi": null
+  },
+  "gui.jade.forced_plugin_config": {
+    "en": "This option is controlled by the server",
+    "zh": "此选项由服务器设置",
+    "vi": null
+  },
+  "gui.jade.disabled_by_mods": {
+    "en": "This option is disabled by the following mods:",
+    "zh": "此选项被以下模组禁用：",
+    "vi": null
+  },
+  "gui.jade.server_feature": {
+    "en": "This feature requires the server to have Jade installed",
+    "zh": "此功能要求服务器安装Jade",
+    "vi": null
+  },
+  "gui.jade.search": {
+    "en": "Search",
+    "zh": "搜索",
+    "vi": null
+  },
+  "gui.jade.search.hint": {
+    "en": "Search...",
+    "zh": "搜索…",
+    "vi": null
+  },
+  "gui.jade.preview": {
+    "en": "Preview",
+    "zh": "预览",
+    "vi": null
+  },
+  "gui.jade.no_results": {
+    "en": "No results :(",
+    "zh": "无结果 :(",
+    "vi": null
+  },
+  "key.jade.config": {
+    "en": "Open Config",
+    "zh": "打开配置",
+    "vi": null
+  },
+  "key.jade.show_overlay": {
+    "en": "Show Overlay",
+    "zh": "显示叠加层",
+    "vi": null
+  },
+  "key.jade.toggle_liquid": {
+    "en": "Toggle Fluid",
+    "zh": "切换流体",
+    "vi": null
+  },
+  "key.jade.show_details": {
+    "en": "Show Details",
+    "zh": "显示细节",
+    "vi": null
+  },
+  "key.jade.show_details_alternative": {
+    "en": "Show Details (Alternative)",
+    "zh": "显示细节（切换）",
+    "vi": null
+  },
+  "key.jade.show_recipes": {
+    "en": "Show Recipes",
+    "zh": "显示配方",
+    "vi": null
+  },
+  "key.jade.show_uses": {
+    "en": "Show Uses",
+    "zh": "显示用途",
+    "vi": null
+  },
+  "key.jade.narrate": {
+    "en": "Narrate",
+    "zh": "语音复述",
+    "vi": null
+  },
+  "narration.jade.health": {
+    "en": "Health: %s",
+    "zh": "生命值：%s",
+    "vi": null
+  },
+  "narration.jade.armor": {
+    "en": "Armor: %s",
+    "zh": "护甲值：%s",
+    "vi": null
+  },
+  "narration.jade.bookName": {
+    "en": "Book Name: %s",
+    "zh": "书名：《%s》",
+    "vi": null
+  },
+  "narration.jade.blockpos": {
+    "en": "X%s Y%s Z%s ",
+    "zh": "X%s Y%s Z%s ",
+    "vi": null
+  },
+  "narration.jade.negative": {
+    "en": "negative %s",
+    "zh": "负%s",
+    "vi": null
+  },
+  "narration.jade.distance": {
+    "en": "D%s",
+    "zh": "距离%s",
+    "vi": null
+  },
+  "narration.jade.category": {
+    "en": "%s category",
+    "zh": "%s类别",
+    "vi": null
+  },
+  "narration.jade.clear_content.usage": {
+    "en": "Left click to clear content",
+    "zh": "左键清空内容",
+    "vi": null
+  },
+  "config.jade.general": {
+    "en": "General",
+    "zh": "通用",
+    "vi": null
+  },
+  "config.jade.debug_mode": {
+    "en": "Debug Mode",
+    "zh": "调试模式",
+    "vi": null
+  },
+  "config.jade.edit_blocklist": {
+    "en": "Edit Blocklist in Files...",
+    "zh": "在文件中编辑方块列表…",
+    "vi": null
+  },
+  "config.jade.display_tooltip": {
+    "en": "Display Tooltip",
+    "zh": "显示提示框",
+    "vi": null
+  },
+  "config.jade.display_tooltip_desc": {
+    "en": "Collect data and render the tooltip.",
+    "zh": "收集数据并渲染提示框",
+    "vi": null
+  },
+  "config.jade.display_entities": {
+    "en": "Display Entities",
+    "zh": "显示实体",
+    "vi": null
+  },
+  "config.jade.display_entities_extra_msg": {
+    "en": "entity",
+    "zh": "entity",
+    "vi": null
+  },
+  "config.jade.display_bosses": {
+    "en": "Display Bosses",
+    "zh": "显示Boss",
+    "vi": null
+  },
+  "config.jade.display_blocks": {
+    "en": "Display Blocks",
+    "zh": "显示方块",
+    "vi": null
+  },
+  "config.jade.display_fluids": {
+    "en": "Display Fluids",
+    "zh": "显示流体",
+    "vi": null
+  },
+  "config.jade.display_fluids_extra_msg": {
+    "en": "liquid,source,only",
+    "zh": "liquid,source,only",
+    "vi": null
+  },
+  "config.jade.display_fluids_source_only": {
+    "en": "Source Only",
+    "zh": "仅显示源块",
+    "vi": null
+  },
+  "config.jade.display_fluids_any": {
+    "en": "Any",
+    "zh": "显示所有",
+    "vi": null
+  },
+  "config.jade.display_fluids_none": {
+    "en": "None",
+    "zh": "不显示",
+    "vi": null
+  },
+  "config.jade.display_fluids_fallback": {
+    "en": "Fallback",
+    "zh": "备选项",
+    "vi": null
+  },
+  "config.jade.display_fluids_fallback_desc": {
+    "en": "Only show fluid when there is no other target.",
+    "zh": "只在没有其他目标时才显示流体。",
+    "vi": null
+  },
+  "config.jade.display_mode": {
+    "en": "Display Mode",
+    "zh": "显示模式",
+    "vi": null
+  },
+  "config.jade.display_mode_desc": {
+    "en": "The behavior of the tooltip in the usual situation and how the [Show Details] key works.",
+    "zh": "信息框的正常显示方式以及按下[显示细节]键的显示方式。",
+    "vi": null
+  },
+  "config.jade.display_mode_extra_msg": {
+    "en": "toggle,hold,lite",
+    "zh": "toggle,hold,lite",
+    "vi": null
+  },
+  "config.jade.display_mode_toggle": {
+    "en": "Toggle",
+    "zh": "切换",
+    "vi": null
+  },
+  "config.jade.display_mode_toggle_desc": {
+    "en": "Display keybind will toggle it on and off.",
+    "zh": "显示按键切换开闭",
+    "vi": null
+  },
+  "config.jade.display_mode_hold_key": {
+    "en": "Hold",
+    "zh": "按住",
+    "vi": null
+  },
+  "config.jade.display_mode_hold_key_desc": {
+    "en": "Display keybind must be held.",
+    "zh": "按住显示按键",
+    "vi": null
+  },
+  "config.jade.display_mode_lite": {
+    "en": "Lite",
+    "zh": "简洁",
+    "vi": null
+  },
+  "config.jade.display_mode_lite_desc": {
+    "en": "Hold [Show Details] key to show further information.",
+    "zh": "按住[显示细节]按键显示细节",
+    "vi": null
+  },
+  "config.jade.display_mode_lite_desc.fabric": {
+    "en": "Hold Shift to show further information.",
+    "zh": "按住Shift显示更多信息",
+    "vi": null
+  },
+  "config.jade.hide_from_debug": {
+    "en": "Hide from Debug Screen",
+    "zh": "调试隐藏",
+    "vi": null
+  },
+  "config.jade.hide_from_debug_desc": {
+    "en": "Hide the tooltip while the debug screen is displayed.",
+    "zh": "当调试菜单打开时隐藏提示框",
+    "vi": null
+  },
+  "config.jade.hide_from_tab_list": {
+    "en": "Hide from Player List",
+    "zh": "查看玩家列表时隐藏",
+    "vi": null
+  },
+  "config.jade.hide_from_tab_list_desc": {
+    "en": "Hide the tooltip while the player list is displayed.",
+    "zh": "显示玩家列表时隐藏信息框。",
+    "vi": null
+  },
+  "config.jade.hide_from_tab_list_extra_msg": {
+    "en": "tab,playerlist",
+    "zh": "tab,playerlist",
+    "vi": null
+  },
+  "config.jade.boss_bar_overlap": {
+    "en": "Boss Bar Overlap",
+    "zh": "Boss条显示方式",
+    "vi": null
+  },
+  "config.jade.boss_bar_overlap_extra_msg": {
+    "en": "bossbars,hide,push,down",
+    "zh": "bossbars,hide,push,down",
+    "vi": null
+  },
+  "config.jade.boss_bar_overlap_no_operation": {
+    "en": "No Operation",
+    "zh": "无操作",
+    "vi": null
+  },
+  "config.jade.boss_bar_overlap_hide_boss_bar": {
+    "en": "Hide Boss Bar",
+    "zh": "隐藏Boss条",
+    "vi": null
+  },
+  "config.jade.boss_bar_overlap_hide_tooltip": {
+    "en": "Hide Tooltip",
+    "zh": "Hide Tooltip",
+    "vi": null
+  },
+  "config.jade.boss_bar_overlap_push_down": {
+    "en": "Push Down Tooltip",
+    "zh": "向下移动信息框",
+    "vi": null
+  },
+  "config.jade.display_item": {
+    "en": "Icon Position",
+    "zh": "显示图标",
+    "vi": null
+  },
+  "config.jade.display_item_extra_msg": {
+    "en": "hide,top,centered",
+    "zh": "hide,top,centered",
+    "vi": null
+  },
+  "config.jade.display_item_hide": {
+    "en": "Hide",
+    "zh": "隐藏",
+    "vi": null
+  },
+  "config.jade.display_item_top": {
+    "en": "Top",
+    "zh": "置顶显示",
+    "vi": null
+  },
+  "config.jade.display_item_centered": {
+    "en": "Centered",
+    "zh": "居中显示",
+    "vi": null
+  },
+  "config.jade.tts_mode": {
+    "en": "Text to Speech Mode",
+    "zh": "语音复述模式",
+    "vi": null
+  },
+  "config.jade.tts_mode_extra_msg": {
+    "en": "tts,narration,narrate,press,toggle",
+    "zh": "tts,narration,narrate,press,toggle",
+    "vi": null
+  },
+  "config.jade.tts_mode_press": {
+    "en": "Press",
+    "zh": "按键",
+    "vi": null
+  },
+  "config.jade.tts_mode_toggle": {
+    "en": "Toggle",
+    "zh": "切换",
+    "vi": null
+  },
+  "config.jade.reach_distance": {
+    "en": "Extended Reach",
+    "zh": "触及距离延伸",
+    "vi": null
+  },
+  "config.jade.reach_distance_desc": {
+    "en": "Increase the distance limit to the target.",
+    "zh": "设置显示信息框的距离限制。",
+    "vi": null
+  },
+  "config.jade.item_mod_name": {
+    "en": "Mod Name on Item Tooltip",
+    "zh": "显示来源模组",
+    "vi": null
+  },
+  "config.jade.item_mod_name_desc": {
+    "en": "Show which mod is an item from on its tooltip.",
+    "zh": "在信息框上显示来自哪个模组。",
+    "vi": null
+  },
+  "config.jade.item_mod_name_extra_msg": {
+    "en": "modid",
+    "zh": "modid",
+    "vi": null
+  },
+  "config.jade.overlay": {
+    "en": "Appearance",
+    "zh": "外观",
+    "vi": null
+  },
+  "config.jade.overlay_pos_x": {
+    "en": "Horizontal Position",
+    "zh": "水平位置",
+    "vi": null
+  },
+  "config.jade.overlay_pos_x_extra_msg": {
+    "en": "left,right,center,ratio",
+    "zh": "left,right,center,ratio",
+    "vi": null
+  },
+  "config.jade.overlay_pos_y": {
+    "en": "Vertical Position",
+    "zh": "垂直位置",
+    "vi": null
+  },
+  "config.jade.overlay_pos_y_extra_msg": {
+    "en": "top,bottom,center,ratio",
+    "zh": "top,bottom,center,ratio",
+    "vi": null
+  },
+  "config.jade.overlay_scale": {
+    "en": "Display Scale",
+    "zh": "显示缩放",
+    "vi": null
+  },
+  "config.jade.overlay_anchor_x": {
+    "en": "Horizontal Anchor",
+    "zh": "水平锚点",
+    "vi": null
+  },
+  "config.jade.overlay_anchor_y": {
+    "en": "Vertical Anchor",
+    "zh": "垂直锚点",
+    "vi": null
+  },
+  "config.jade.overlay_square": {
+    "en": "Square Border",
+    "zh": "无圆角边框",
+    "vi": null
+  },
+  "config.jade.flip_main_hand": {
+    "en": "Flip Position with Main Hand",
+    "zh": "翻转主手",
+    "vi": null
+  },
+  "config.jade.flip_main_hand_desc": {
+    "en": "Mirror tooltip position when main hand is left.",
+    "zh": "如果主手为左手则镜像提示框位置",
+    "vi": null
+  },
+  "config.jade.overlay_alpha": {
+    "en": "Background Opacity",
+    "zh": "不透明度",
+    "vi": null
+  },
+  "config.jade.overlay_alpha_extra_msg": {
+    "en": "transparent,alpha",
+    "zh": "transparent,alpha",
+    "vi": null
+  },
+  "config.jade.overlay_theme": {
+    "en": "Theme",
+    "zh": "主题",
+    "vi": null
+  },
+  "config.jade.animation": {
+    "en": "Overlay Animation",
+    "zh": "信息框动画",
+    "vi": null
+  },
+  "config.jade.animation_desc": {
+    "en": "Animate the overlay when it appears and disappears. Morph the box when size changes.",
+    "zh": "信息框显示/消失/大小改变时显示动画。",
+    "vi": null
+  },
+  "config.jade.animation_extra_msg": {
+    "en": "fade",
+    "zh": "fade",
+    "vi": null
+  },
+  "config.jade.key_binds": {
+    "en": "Key Binds",
+    "zh": "按键绑定",
+    "vi": null
+  },
+  "config.jade.accessibility": {
+    "en": "Accessibility",
+    "zh": "辅助功能",
+    "vi": null
+  },
+  "config.jade.danger_zone": {
+    "en": "Danger Zone",
+    "zh": "危险区",
+    "vi": null
+  },
+  "config.jade.reset_settings": {
+    "en": "Reset Settings",
+    "zh": "重置设置",
+    "vi": null
+  },
+  "config.jade.reset_settings.confirm": {
+    "en": "Are you sure you wish to reset settings?",
+    "zh": "您确定要重置设置吗？",
+    "vi": null
+  },
+  "config.jade.plugin_jade": {
+    "en": "Jade Core",
+    "zh": "Jade 核心",
+    "vi": null
+  },
+  "config.jade.plugin_jade.registry_name": {
+    "en": "Registry Name",
+    "zh": "注册名称",
+    "vi": null
+  },
+  "config.jade.plugin_jade.registry_name_extra_msg": {
+    "en": "id,advanced,tooltips",
+    "zh": "id,advanced,tooltips",
+    "vi": null
+  },
+  "config.jade.plugin_jade.registry_name_advanced_tooltips": {
+    "en": "Advanced Tooltips",
+    "zh": "高级物品信息提示",
+    "vi": null
+  },
+  "config.jade.plugin_jade.registry_name_advanced_tooltips_desc": {
+    "en": "Follow the advanced tooltips option.",
+    "zh": "跟随“高级物品信息提示”的设置",
+    "vi": null
+  },
+  "config.jade.plugin_minecraft.entity_health": {
+    "en": "Entity Health",
+    "zh": "实体生命值",
+    "vi": null
+  },
+  "config.jade.plugin_minecraft.entity_health.max_for_render": {
+    "en": "Max Health for Render",
+    "zh": "显示红心最大值（大于则显示数字）",
+    "vi": null
+  },
+  "config.jade.plugin_minecraft.entity_health.icons_per_line": {
+    "en": "Icons per Line",
+    "zh": "每行红心数量",
+    "vi": null
+  },
+  "config.jade.plugin_minecraft.entity_health.show_fractions": {
+    "en": "Show Fractions",
+    "zh": "显示小数",
+    "vi": null
+  },
+  "config.jade.plugin_minecraft.entity_armor": {
+    "en": "Entity Armor",
+    "zh": "实体盔甲值",
+    "vi": null
+  },
+  "config.jade.plugin_minecraft.entity_armor.max_for_render": {
+    "en": "Max Armors for Render",
+    "zh": "显示盔甲的最大值（大于则显示数字）",
+    "vi": null
+  },
+  "config.jade.plugin_minecraft.block_states": {
+    "en": "Block States",
+    "zh": "方块状态",
+    "vi": null
+  },
+  "config.jade.plugin_jade.item_mod_name": {
+    "en": "Mod Name in Item Tooltip",
+    "zh": "物品模组名称",
+    "vi": null
+  },
+  "config.jade.plugin_jade.mod_name": {
+    "en": "Mod Name",
+    "zh": "模组名称",
+    "vi": null
+  },
+  "config.jade.plugin_jade.mod_name_extra_msg": {
+    "en": "namespace,modid",
+    "zh": "namespace,modid",
+    "vi": null
+  },
+  "config.jade.plugin_jade.distance": {
+    "en": "Distance",
+    "zh": "距离",
+    "vi": null
+  },
+  "config.jade.plugin_jade.distance_desc": {
+    "en": "Show the distance between the player and the target.",
+    "zh": "显示玩家和目标之间的距离。",
+    "vi": null
+  },
+  "config.jade.plugin_jade.coordinates": {
+    "en": "Coordinates",
+    "zh": "坐标",
+    "vi": null
+  },
+  "config.jade.plugin_jade.coordinates_desc": {
+    "en": "Show the position of the target.",
+    "zh": "显示目标的坐标。",
+    "vi": null
+  },
+  "config.jade.plugin_jade.coordinates_extra_msg": {
+    "en": "location",
+    "zh": "location",
+    "vi": null
+  },
+  "config.jade.plugin_jade.coordinates.rel": {
+    "en": "Relative Coordinates",
+    "zh": "相对坐标",
+    "vi": null
+  },
+  "config.jade.plugin_jade.coordinates.rel_desc": {
+    "en": "Requires holding Ctrl.",
+    "zh": "需要按住Ctrl键",
+    "vi": null
+  },
+  "config.jade.plugin_jade.block_face": {
+    "en": "Block Face",
+    "zh": "方块目标面朝向",
+    "vi": null
+  },
+  "config.jade.plugin_jade.block_face_desc": {
+    "en": "Show the face of the block the player touches.",
+    "zh": "显示瞄准方块的面的朝向。",
+    "vi": null
+  },
+  "config.jade.plugin_jade.block_face_extra_msg": {
+    "en": "direction,side",
+    "zh": "direction,side",
+    "vi": null
+  },
+  "entity.minecraft.villager.none": {
+    "en": "Unemployed",
+    "zh": "无业",
+    "vi": null
+  },
+  "entity.minecraft.villager.nitwit": {
+    "en": "Nitwit",
+    "zh": "傻子",
+    "vi": null
+  },
+  "command.jade.dump.success": {
+    "en": "Dumped successfully",
+    "zh": "成功导出",
+    "vi": null
+  },
+  "config.jade.plugin_minecraft.horse_stats": {
+    "en": "Horse Stats",
+    "zh": "马匹信息",
+    "vi": null
+  },
+  "jade.horseStat.jump": {
+    "en": "Jump height: %s",
+    "zh": "跳跃高度：%s",
+    "vi": null
+  },
+  "jade.horseStat.speed": {
+    "en": "Speed: %s",
+    "zh": "速度：%s",
+    "vi": null
+  },
+  "config.jade.plugin_minecraft.potion_effects": {
+    "en": "Entity Effects",
+    "zh": "生物效果",
+    "vi": null
+  },
+  "config.jade.plugin_minecraft.potion_effects_extra_msg": {
+    "en": "potion,status",
+    "zh": "potion,status",
+    "vi": null
+  },
+  "jade.potion": {
+    "en": "%s (%s)",
+    "zh": "%s（%s）",
+    "vi": null
+  },
+  "config.jade.plugin_minecraft.item_frame": {
+    "en": "Item Frame",
+    "zh": "物品展示框",
+    "vi": null
+  },
+  "config.jade.plugin_minecraft.container_entity": {
+    "en": "Container Entity",
+    "zh": "实体物品栏",
+    "vi": null
+  },
+  "jade.llamaStrength": {
+    "en": "Strength: %s",
+    "zh": "力量：%d",
+    "vi": null
+  },
+  "config.jade.plugin_minecraft.mob_growth": {
+    "en": "Mob Growth",
+    "zh": "生物生长时间",
+    "vi": null
+  },
+  "jade.mobgrowth.time": {
+    "en": "Growing time: %s",
+    "zh": "生长时间：%s",
+    "vi": null
+  },
+  "config.jade.plugin_minecraft.mob_breeding": {
+    "en": "Mob Breeding",
+    "zh": "生物繁殖冷却",
+    "vi": null
+  },
+  "config.jade.plugin_minecraft.mob_breeding_extra_msg": {
+    "en": "cooldown,cd,allay,duplication",
+    "zh": "cooldown,cd,allay,duplication",
+    "vi": null
+  },
+  "jade.mobbreeding.time": {
+    "en": "Breeding CD: %s",
+    "zh": "繁殖冷却：%s",
+    "vi": null
+  },
+  "jade.mobduplication.time": {
+    "en": "Duplication CD: %s",
+    "zh": "复制冷却：%s",
+    "vi": null
+  },
+  "config.jade.plugin_minecraft.brewing_stand": {
+    "en": "Brewing Stand",
+    "zh": "酿造台",
+    "vi": null
+  },
+  "config.jade.plugin_minecraft.tnt_stability": {
+    "en": "TNT Stability",
+    "zh": "TNT稳定性",
+    "vi": null
+  },
+  "config.jade.plugin_minecraft.tnt_stability_desc": {
+    "en": "Warn player of special TNT that ignites when hit.",
+    "zh": "警告玩家特殊的TNT会在被破坏时爆炸。",
+    "vi": null
+  },
+  "jade.tnt.unstable": {
+    "en": "Unstable",
+    "zh": "不稳定",
+    "vi": null
+  },
+  "config.jade.plugin_minecraft.beehive": {
+    "en": "Beehive",
+    "zh": "蜂箱",
+    "vi": null
+  },
+  "config.jade.plugin_minecraft.beehive_extra_msg": {
+    "en": "bees,honey",
+    "zh": "bees,honey",
+    "vi": null
+  },
+  "jade.fraction": {
+    "en": "%d / %d",
+    "zh": "%d / %d",
+    "vi": null
+  },
+  "jade.beehive.bees": {
+    "en": "Bees: %s",
+    "zh": "蜜蜂数量：%s",
+    "vi": null
+  },
+  "jade.beehive.honey": {
+    "en": "Honey: %s",
+    "zh": "储蜜量：%s",
+    "vi": null
+  },
+  "config.jade.plugin_minecraft.note_block": {
+    "en": "Note Block",
+    "zh": "音符盒",
+    "vi": null
+  },
+  "config.jade.plugin_minecraft.note_block_desc": {
+    "en": "Show the note and instrument of the note block.",
+    "zh": "显示音符盒的音高和乐器。",
+    "vi": null
+  },
+  "jade.instrument.bass": {
+    "en": "Bass",
+    "zh": "贝斯",
+    "vi": null
+  },
+  "jade.instrument.snare": {
+    "en": "Snare Drum",
+    "zh": "小军鼓",
+    "vi": null
+  },
+  "jade.instrument.hat": {
+    "en": "Clicks and Sticks",
+    "zh": "击鼓沿",
+    "vi": null
+  },
+  "jade.instrument.basedrum": {
+    "en": "Bass Drum",
+    "zh": "底鼓",
+    "vi": null
+  },
+  "jade.instrument.bell": {
+    "en": "Bells",
+    "zh": "铃铛",
+    "vi": null
+  },
+  "jade.instrument.flute": {
+    "en": "Flute",
+    "zh": "长笛",
+    "vi": null
+  },
+  "jade.instrument.chime": {
+    "en": "Chimes",
+    "zh": "管钟",
+    "vi": null
+  },
+  "jade.instrument.guitar": {
+    "en": "Guitar",
+    "zh": "吉他",
+    "vi": null
+  },
+  "jade.instrument.xylophone": {
+    "en": "Xylophone",
+    "zh": "木琴",
+    "vi": null
+  },
+  "jade.instrument.iron_xylophone": {
+    "en": "Vibraphone",
+    "zh": "铁木琴",
+    "vi": null
+  },
+  "jade.instrument.cow_bell": {
+    "en": "Cow Bell",
+    "zh": "牛铃",
+    "vi": null
+  },
+  "jade.instrument.didgeridoo": {
+    "en": "Didgeridoo",
+    "zh": "迪吉里杜管",
+    "vi": null
+  },
+  "jade.instrument.bit": {
+    "en": "Square Wave",
+    "zh": "方波",
+    "vi": null
+  },
+  "jade.instrument.banjo": {
+    "en": "Banjo",
+    "zh": "班卓琴",
+    "vi": null
+  },
+  "jade.instrument.pling": {
+    "en": "Electric Piano",
+    "zh": "电钢琴",
+    "vi": null
+  },
+  "jade.instrument.harp": {
+    "en": "Harp",
+    "zh": "竖琴",
+    "vi": null
+  },
+  "jade.instrument.zombie": {
+    "en": "Zombie",
+    "zh": "僵尸",
+    "vi": null
+  },
+  "jade.instrument.skeleton": {
+    "en": "Skeleton",
+    "zh": "骷髅",
+    "vi": null
+  },
+  "jade.instrument.creeper": {
+    "en": "Creeper",
+    "zh": "苦力怕",
+    "vi": null
+  },
+  "jade.instrument.dragon": {
+    "en": "Dragon",
+    "zh": "末影龙",
+    "vi": null
+  },
+  "jade.instrument.wither_skeleton": {
+    "en": "Wither Skeleton",
+    "zh": "凋灵骷髅",
+    "vi": null
+  },
+  "jade.instrument.piglin": {
+    "en": "Piglin",
+    "zh": "猪灵",
+    "vi": null
+  },
+  "jade.instrument.custom_head": {
+    "en": "Custom Head",
+    "zh": "自定义头颅",
+    "vi": null
+  },
+  "config.jade.plugin_minecraft.armor_stand": {
+    "en": "Armor Stand",
+    "zh": "盔甲架",
+    "vi": null
+  },
+  "config.jade.plugin_minecraft.painting": {
+    "en": "Painting",
+    "zh": "画",
+    "vi": null
+  },
+  "config.jade.plugin_minecraft.chicken_egg": {
+    "en": "Chicken Egg",
+    "zh": "鸡蛋",
+    "vi": null
+  },
+  "jade.nextEgg": {
+    "en": "Next Egg: %s",
+    "zh": "产卵冷却：%s",
+    "vi": null
+  },
+  "config.jade.plugin_minecraft.breaking_progress": {
+    "en": "Breaking Progress",
+    "zh": "破坏进度",
+    "vi": null
+  },
+  "config.jade.plugin_minecraft.command_block": {
+    "en": "Command Block",
+    "zh": "命令方块",
+    "vi": null
+  },
+  "config.jade.plugin_minecraft.harvest_tool": {
+    "en": "Harvest Tool",
+    "zh": "采掘工具",
+    "vi": null
+  },
+  "config.jade.plugin_minecraft.harvest_tool.new_line": {
+    "en": "Start in New Line",
+    "zh": "另起一行",
+    "vi": null
+  },
+  "config.jade.plugin_minecraft.harvest_tool.effective_tool": {
+    "en": "Effective Tool",
+    "zh": "高效工具",
+    "vi": null
+  },
+  "config.jade.plugin_minecraft.harvest_tool.show_unbreakable": {
+    "en": "Show \"Unbreakable\"",
+    "zh": "显示“无法破坏”",
+    "vi": null
+  },
+  "config.jade.plugin_minecraft.harvest_tool.creative": {
+    "en": "Show in Creative Mode",
+    "zh": "Show in Creative Mode",
+    "vi": null
+  },
+  "config.jade.plugin_minecraft.harvest_tool.creative_desc": {
+    "en": "Show harvest information in creative or spectator mode as well",
+    "zh": "Show harvest information in creative or spectator mode as well",
+    "vi": null
+  },
+  "jade.harvest_tool.unbreakable": {
+    "en": "Unbreakable",
+    "zh": "无法破坏",
+    "vi": null
+  },
+  "config.jade.plugin_minecraft.enchantment_power": {
+    "en": "Enchantment Power",
+    "zh": "附魔能力",
+    "vi": null
+  },
+  "config.jade.plugin_minecraft.enchantment_power_desc": {
+    "en": "Show the enchantment power of the block.",
+    "zh": "显示附魔台的附魔能力。",
+    "vi": null
+  },
+  "config.jade.plugin_minecraft.total_enchantment_power": {
+    "en": "Total Enchantment Power",
+    "zh": "总附魔能力",
+    "vi": null
+  },
+  "jade.ench_power": {
+    "en": "Ench Power: %s",
+    "zh": "附魔能力：%s",
+    "vi": null
+  },
+  "config.jade.plugin_minecraft.player_head": {
+    "en": "Player Head",
+    "zh": "玩家头颅",
+    "vi": null
+  },
+  "config.jade.plugin_minecraft.profession": {
+    "en": "Villager Profession",
+    "zh": "村民职业",
+    "vi": null
+  },
+  "config.jade.plugin_minecraft.item_tooltip": {
+    "en": "Item Description",
+    "zh": "物品提示框",
+    "vi": null
+  },
+  "config.jade.plugin_minecraft.item_storage": {
+    "en": "Item Storage",
+    "zh": "物品存储",
+    "vi": null
+  },
+  "config.jade.plugin_minecraft.item_storage_extra_msg": {
+    "en": "inventory,chest",
+    "zh": "inventory,chest",
+    "vi": null
+  },
+  "config.jade.plugin_minecraft.item_storage.detailed_amount": {
+    "en": "Detailed Amount",
+    "zh": "细节物品数量",
+    "vi": null
+  },
+  "config.jade.plugin_minecraft.item_storage.detailed_amount_desc": {
+    "en": "The amount of items to show when [Show Details] key is pressed.",
+    "zh": "按下[显示细节]键时显示的项目数量。",
+    "vi": null
+  },
+  "config.jade.plugin_minecraft.item_storage.normal_amount": {
+    "en": "Normal Amount",
+    "zh": "正常物品数量",
+    "vi": null
+  },
+  "config.jade.plugin_minecraft.item_storage.normal_amount_desc": {
+    "en": "The amount of items to show when [Show Details] key is not pressed.",
+    "zh": "未按下[显示细节]键时显示的项目数量。",
+    "vi": null
+  },
+  "config.jade.plugin_minecraft.item_storage.show_name_amount": {
+    "en": "Show Name Threshold",
+    "zh": "显示名称阈值",
+    "vi": null
+  },
+  "config.jade.plugin_minecraft.item_storage.show_name_amount_desc": {
+    "en": "The maximum amount of items to show item names instead of just item icons.",
+    "zh": "显示项目名称而不仅仅是项目图标的最大项目数量。",
+    "vi": null
+  },
+  "config.jade.plugin_minecraft.item_storage.items_per_line": {
+    "en": "Items per Line",
+    "zh": "每行物品数量",
+    "vi": null
+  },
+  "jade.locked": {
+    "en": "Inventory is locked",
+    "zh": "容器已上锁",
+    "vi": null
+  },
+  "jade.not_generated": {
+    "en": "Inventory isn't generated",
+    "zh": "物品未生成",
+    "vi": null
+  },
+  "config.jade.plugin_minecraft.energy_storage": {
+    "en": "Energy Storage",
+    "zh": "储能",
+    "vi": null
+  },
+  "config.jade.plugin_minecraft.energy_storage.detailed": {
+    "en": "Detailed-Only",
+    "zh": "仅在细节显示",
+    "vi": null
+  },
+  "config.jade.plugin_minecraft.energy_storage.detailed_desc": {
+    "en": "Only show energy info when [Show Details] key is pressed.",
+    "zh": "仅在按下[显示详情]键时显示。",
+    "vi": null
+  },
+  "jade.fe": {
+    "en": "%s / %s",
+    "zh": "%s / %s",
+    "vi": null
+  },
+  "config.jade.plugin_minecraft.fluid_storage": {
+    "en": "Fluid Storage",
+    "zh": "流体存储",
+    "vi": null
+  },
+  "config.jade.plugin_minecraft.fluid_storage_extra_msg": {
+    "en": "tank,liquid",
+    "zh": "tank,liquid",
+    "vi": null
+  },
+  "config.jade.plugin_minecraft.fluid_storage.detailed": {
+    "en": "Detailed-Only",
+    "zh": "仅在细节显示",
+    "vi": null
+  },
+  "config.jade.plugin_minecraft.fluid_storage.detailed_desc": {
+    "en": "Only show fluid info when [Show Details] key is pressed.",
+    "zh": "仅在按下[显示详情]键时显示。",
+    "vi": null
+  },
+  "jade.fluid": {
+    "en": "%s %s",
+    "zh": "%s %s",
+    "vi": null
+  },
+  "jade.fluid2": {
+    "en": "%s %s / %s",
+    "zh": "%s %s / %s",
+    "vi": null
+  },
+  "jade.fluid.empty": {
+    "en": "Empty",
+    "zh": "空",
+    "vi": null
+  },
+  "config.jade.plugin_minecraft.lectern": {
+    "en": "Lectern",
+    "zh": "讲台",
+    "vi": null
+  },
+  "config.jade.plugin_minecraft.animal_owner": {
+    "en": "Animal Owner",
+    "zh": "动物主人",
+    "vi": null
+  },
+  "config.jade.plugin_minecraft.animal_owner_extra_msg": {
+    "en": "horse,pet",
+    "zh": "horse,pet",
+    "vi": null
+  },
+  "jade.owner": {
+    "en": "Owner: %s",
+    "zh": "主人：%s",
+    "vi": null
+  },
+  "jade.infinity": {
+    "en": "+∞",
+    "zh": "∞",
+    "vi": null
+  },
+  "jade.seconds": {
+    "en": "{0}s",
+    "zh": "{0}秒",
+    "vi": null
+  },
+  "jade.error": {
+    "en": "<Error occurred, plz report to %s>",
+    "zh": "<发生错误，请反馈至%s>",
+    "vi": null
+  },
+  "jade.hopper.locked": {
+    "en": "Hopper is locked",
+    "zh": "漏斗已关闭",
+    "vi": null
+  },
+  "jade.blockpos": {
+    "en": "%s %s %s",
+    "zh": "%s %s %s",
+    "vi": null
+  },
+  "jade.distance1": {
+    "en": " [%s]",
+    "zh": " [%s]",
+    "vi": null
+  },
+  "jade.distance2": {
+    "en": "Distance: %s",
+    "zh": "距离：%s",
+    "vi": null
+  },
+  "jade.blockFace": {
+    "en": " (%s)",
+    "zh": "（%s）",
+    "vi": null
+  },
+  "jade.up": {
+    "en": "Up",
+    "zh": "上",
+    "vi": null
+  },
+  "jade.down": {
+    "en": "Down",
+    "zh": "下",
+    "vi": null
+  },
+  "jade.north": {
+    "en": "North",
+    "zh": "北",
+    "vi": null
+  },
+  "jade.south": {
+    "en": "South",
+    "zh": "南",
+    "vi": null
+  },
+  "jade.east": {
+    "en": "East",
+    "zh": "东",
+    "vi": null
+  },
+  "jade.west": {
+    "en": "West",
+    "zh": "西",
+    "vi": null
+  },
+  "config.jade.plugin_minecraft.furnace": {
+    "en": "Furnace Contents",
+    "zh": "熔炉物品",
+    "vi": null
+  },
+  "config.jade.plugin_minecraft.mob_spawner": {
+    "en": "Mob Spawner Type",
+    "zh": "刷怪笼类型",
+    "vi": null
+  },
+  "config.jade.plugin_minecraft.crop_progress": {
+    "en": "Crop Progress",
+    "zh": "作物生长进度",
+    "vi": null
+  },
+  "config.jade.plugin_minecraft.redstone": {
+    "en": "Redstone Info",
+    "zh": "红石信息",
+    "vi": null
+  },
+  "config.jade.plugin_minecraft.jukebox": {
+    "en": "Jukebox Record",
+    "zh": "当前唱片",
+    "vi": null
+  },
+  "config.jade.plugin_minecraft.villager_profession": {
+    "en": "Villager Profession",
+    "zh": "村民职业",
+    "vi": null
+  },
+  "jade.spawner": {
+    "en": "%s (%s)",
+    "zh": "%s（%s）",
+    "vi": null
+  },
+  "config.jade.plugin_minecraft.chiseled_bookshelf": {
+    "en": "Chiseled Bookshelf",
+    "zh": "雕纹书架",
+    "vi": null
+  },
+  "config.jade.plugin_minecraft.zombie_villager": {
+    "en": "Zombie Villager Conversion",
+    "zh": "僵尸村民转化时间",
+    "vi": null
+  },
+  "jade.zombieConversion.time": {
+    "en": "Conversion time: %s",
+    "zh": "转化时间：%s",
+    "vi": null
+  },
+  "config.jade.plugin_minecraft.waxed": {
+    "en": "Waxed State",
+    "zh": "上蜡状态",
+    "vi": null
+  },
+  "config.jade.plugin_minecraft.waxed_desc": {
+    "en": "Show the waxed state of the block, such as waxed sign.",
+    "zh": "显示某些方块是否已打蜡，如告示牌。",
+    "vi": null
+  },
+  "toast.jade.toggle_hint.1": {
+    "en": "Jade is now closed",
+    "zh": "Jade已关闭",
+    "vi": null
+  },
+  "toast.jade.toggle_hint.2": {
+    "en": "Press %s again to reopen",
+    "zh": "按下%s重新打开",
+    "vi": null
+  },
+  "toast.jade.tts_hint.1": {
+    "en": "Jade's narrator is now open",
+    "zh": "Jade语音复述已开启",
+    "vi": null
+  },
+  "toast.jade.tts_hint.2": {
+    "en": "Press %s again to disable",
+    "zh": "再次按%s关闭",
+    "vi": null
+  },
+  "jade.theme.jade.waila": {
+    "en": "Classic",
+    "zh": "经典",
+    "vi": null
+  },
+  "jade.theme.jade.dark": {
+    "en": "Dark",
+    "zh": "暗色",
+    "vi": null
+  },
+  "jade.theme.jade.top": {
+    "en": "One Probe",
+    "zh": "TOP检测器",
+    "vi": null
+  },
+  "jade.theme.jade.create": {
+    "en": "Create",
+    "zh": "机械动力",
+    "vi": null
+  },
+  "jade.collectingItems": {
+    "en": "Collecting items...",
+    "zh": "获取物品中…",
+    "vi": null
+  },
+  "__comment": {
+    "en": "Only for testing:",
+    "zh": "仅测试用：",
+    "vi": null
+  },
+  "jade.modName.cpp": {
+    "en": "Crafting++",
+    "zh": "更多的合成",
+    "vi": null
+  },
+  "mymod.fuel": {
+    "en": "Fuel: %d ticks",
+    "zh": "燃料：%d刻",
+    "vi": null
+  },
+  "config.jade.plugin_debug.furnace_fuel": {
+    "en": "Test Fuel",
+    "zh": "测试燃料",
+    "vi": null
+  },
+  "config.jade.plugin_debug.furnace_fuel.str_cfg": {
+    "en": "Test Str",
+    "zh": "测试字符串",
+    "vi": null
+  },
+  "config.jade.plugin_debug.furnace_fuel.float_cfg": {
+    "en": "Test Float",
+    "zh": "测试浮点数",
+    "vi": null
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "skill.womplus.evil_beam": {
+    "en": "Evil Beam",
+    "zh": "邪能光束",
+    "vi": "chùm tia fel"
+  },
+  "epicfight.weapon_category.evil_tachi": {
+    "en": "Evil Tachi",
+    "zh": "恶魔太刀",
+    "vi": "Thanh kiếm của quỷ"
+  },
+  "epicfight.weapon_category.hollow_longsword": {
+    "en": "Hollow Longsword",
+    "zh": "空洞长剑",
+    "vi": "thanh kiếm rỗng"
+  },
+  "epicfight.weapon_category.wom_greataxe": {
+    "en": "Greataxes",
+    "zh": "巨斧",
+    "vi": "rìu khổng lồ"
+  },
+  "skill.womplus.evil_beam.tooltip": {
+    "en": "Unleash a beam of demonic energy on your attackers!",
+    "zh": "向攻击者释放一道恶魔能量光束！",
+    "vi": "Giải phóng một chùm năng lượng ma quỷ vào kẻ tấn công!"
+  },
+  "skill.womplus.annihilate": {
+    "en": "Annihilate",
+    "zh": "湮灭",
+    "vi": "sự hủy diệt"
+  },
+  "skill.womplus.annihilate.tooltip": {
+    "en": "Yes This Section is Called Tooltip. What should I write here.. (^◕.◕^) ... Just Annihilate ur Enemies!",
+    "zh": " ... 直接湮灭你的敌人吧！",
+    "vi": "... chỉ cần tiêu diệt kẻ thù của bạn!"
+  },
+  "creativetab.womplus": {
+    "en": "Weapons of Miracles Extended",
+    "zh": "奇迹武器·扩展",
+    "vi": "Vũ khí kỳ diệu·Mở rộng"
+  },
+  "effect.womplus.impregnability": {
+    "en": "RAAHHHRR",
+    "zh": "战吼",
+    "vi": "tiếng kêu chiến tranh"
+  },
+  "skill.womplus.rahhh": {
+    "en": "RRAAAAHHR",
+    "zh": "战吼",
+    "vi": "tiếng kêu chiến tranh"
+  },
+  "skill.womplus.comet": {
+    "en": "Comet",
+    "zh": "彗星",
+    "vi": "sao chổi"
+  },
+  "skill.womplus.comet.tooltip": {
+    "en": "Soar into the air and strike down upon your opponents with a devastating hit.",
+    "zh": "腾空而起，以毁灭性的一击砸向你的对手。",
+    "vi": "Nhảy lên không trung và đập vào đối thủ của bạn bằng một đòn tàn khốc."
+  },
+  "skill.womplus.rahhh.tooltip": {
+    "en": "\n\nGives effect that increases: \n  - Defence \n  - Attack Speed by 10% \n  - Stamina Regen \n  - Impact",
+    "zh": "\n\n赋予以下增益效果：\n  - 防御力提升\n  - 攻击速度提升10%\n  - 耐力恢复提升\n  - 冲击力提升",
+    "vi": "Cấp các buff sau:\n  - Cải thiện khả năng phòng thủ\n  - Tốc độ tấn công tăng 10%\n  - Phục hồi sức chịu đựng được cải thiện\n  - Tăng Lực xung kích"
+  },
+  "pack.wom_override.title": {
+    "en": "WOM Capability Override",
+    "zh": "WOM 能力覆盖包",
+    "vi": "Gói bảo hiểm khả năng WOM"
+  }
+}

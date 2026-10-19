@@ -1,0 +1,17 @@
+{
+  "name": "Trailblaze (Diễm Ngân)",
+  "icon": "simplyswords:runic_tablet",
+  "category": "simplyswords:category_rune_etching",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:runic_tablet",
+      "title": "Trailblaze (Diễm Ngân)",
+      "text": "Kết tinh của $(#bf4117)$(l)Ngọn Lửa$(). $(br2)Tăng vọt tốc độ khi ra đòn, song cũng tự thiêu đốt người cầm."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Giúp tăng vọt tốc độ để truy đuổi kẻ địch nhanh nhẹn. Cần lưu ý phòng ngự vì đòn đánh có thể tự thiêu đốt bản thân."
+    }
+  ]
+}

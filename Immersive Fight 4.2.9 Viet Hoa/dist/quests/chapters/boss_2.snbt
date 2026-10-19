@@ -1,0 +1,4072 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	disable_toast: true
+	filename: "boss_2"
+	group: "18A6655ADC4DF0EF"
+	id: "68CB2D59834BFC7E"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			description: [
+				"Chương Hang Alex"
+				"Tìm ngọn núi lửa trong [Hang nguyên thủy] và tạo ra chất xúc tác thảm họa."
+				"Ném nó vào miệng núi lửa và triệu tập BOSS"
+				"{entity:alexscaves:luxtructosaurus ent_size:0.6 off_x:0.0 off_y:0.0 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"
+			]
+			entity_vis_size: 1.0f
+			icon: "alexscaves:tectonic_shard"
+			id: "3FC41B1888CBC0C9"
+			rewards: [
+				{
+					count: 2
+					id: "0D31AB238389600E"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:netherite_ingot"
+					}
+					type: "item"
+				}
+				{
+					command: "/curios add ring @s"
+					elevate_perms: true
+					icon: "ringsofascension:ring_slow_falling"
+					id: "292A368173D9D6B9"
+					title: "Nhận một khe vòng"
+					type: "command"
+				}
+				{
+					id: "076FA9F145FC0EBB"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "dungeons_and_combat:molten_blazing_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "17B34305CF2E9908"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "dungeons_and_combat:molten_blazing_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5EB948E5CA6325EB"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "dungeons_and_combat:molten_blazing_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "7D374F86379A4394"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "dungeons_and_combat:molten_blazing_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			shape: "diamond"
+			tasks: [{
+				entity: "alexscaves:luxtructosaurus"
+				entity_use_tag: false
+				entity_vis_idle_mode: "USE_GLOBAL"
+				entity_vis_offset_x: 0.0f
+				entity_vis_offset_y: 0.0f
+				entity_vis_rotation: 0.0f
+				entity_vis_silhouette_mode: "NONE"
+				entity_vis_size: 1.0f
+				entity_vis_spin_mode: "USE_GLOBAL"
+				entity_vis_use_as_quest_icon: false
+				entity_vis_walk_mode: "USE_GLOBAL"
+				icon: "alexscaves:tectonic_shard"
+				id: "74101F84021CB9ED"
+				type: "kill"
+				value: 1L
+			}]
+			x: -2.0d
+			y: -2.5d
+		}
+		{
+			description: [
+				"Để biết thêm chi tiết, vui lòng tham khảo chương thảm họa."
+				"thế giới chính"
+				"{entity:cataclysm:ancient_remnant ent_size:0.6 off_x:0.0 off_y:0.0 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"
+			]
+			entity_vis_size: 1.0f
+			id: "1E2EA4CC407D90B9"
+			rewards: [
+				{
+					count: 2
+					id: "286DE19CC8075EA0"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:netherite_ingot"
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "357FEE5DB750CCB8"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "enchanlownew:paper_skill_high"
+					}
+					type: "item"
+				}
+			]
+			shape: "diamond"
+			tasks: [{
+				entity: "cataclysm:ancient_remnant"
+				entity_use_tag: false
+				entity_vis_idle_mode: "USE_GLOBAL"
+				entity_vis_offset_x: 0.0f
+				entity_vis_offset_y: 0.0f
+				entity_vis_rotation: 0.0f
+				entity_vis_silhouette_mode: "NONE"
+				entity_vis_size: 1.0f
+				entity_vis_spin_mode: "USE_GLOBAL"
+				entity_vis_use_as_quest_icon: false
+				entity_vis_walk_mode: "USE_GLOBAL"
+				icon: "cataclysm:remnant_skull"
+				id: "32A46AE4A2411601"
+				type: "kill"
+				value: 1L
+			}]
+			x: -4.0d
+			y: -1.5d
+		}
+		{
+			description: [
+				"Xem chương Thảm họa để biết chi tiết"
+				"Kích thước: Nether"
+				"{entity:cataclysm:ignis ent_size:0.6 off_x:0.0 off_y:0.0 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"
+			]
+			entity_vis_size: 1.0f
+			id: "01F583F471397FED"
+			rewards: [
+				{
+					id: "35AB4A9468BA454E"
+					item: "minecraft:netherite_ingot"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					icon: {
+						Count: 1
+						id: "modifiers:modifier_book"
+						tag: {
+							bookModifier: "modifiers:legendary"
+						}
+					}
+					id: "4BC7D8FC633FE6CD"
+					table_id: 2575389883246373071L
+					type: "choice"
+				}
+				{
+					id: "605C398ECCF3FF47"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "dungeons_and_combat:molten_cryolite_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "3F3759A76FC9E593"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "dungeons_and_combat:molten_cryolite_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5A1524D22701AFD0"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "dungeons_and_combat:molten_cryolite_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "17A737FD91D2EE73"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "dungeons_and_combat:molten_cryolite_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			shape: "diamond"
+			tasks: [{
+				entity: "cataclysm:ignis"
+				entity_use_tag: false
+				entity_vis_idle_mode: "USE_GLOBAL"
+				entity_vis_offset_x: 0.0f
+				entity_vis_offset_y: 0.0f
+				entity_vis_rotation: 0.0f
+				entity_vis_silhouette_mode: "NONE"
+				entity_vis_size: 1.0f
+				entity_vis_spin_mode: "USE_GLOBAL"
+				entity_vis_use_as_quest_icon: false
+				entity_vis_walk_mode: "USE_GLOBAL"
+				icon: "cataclysm:the_incinerator"
+				id: "699AE538A3379D78"
+				type: "kill"
+				value: 1L
+			}]
+			x: -8.0d
+			y: -0.5d
+		}
+		{
+			description: [
+				"Xem chương Thảm họa để biết chi tiết"
+				"địa ngục"
+				"{entity:cataclysm:netherite_monstrosity ent_size:0.8 off_x:0.0 off_y:0.0 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"
+			]
+			entity_vis_size: 1.0f
+			id: "77D5412F4F996A44"
+			rewards: [
+				{
+					count: 2
+					id: "4491C28F4C4CB6EF"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:netherite_ingot"
+					}
+					type: "item"
+				}
+				{
+					id: "6FA4E29391229CCF"
+					item: "realmrpg_quests:ring_of_fire_lesser"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "50708DAAA71FCD3E"
+					table_id: 840663340100755059L
+					title: "Chất lượng áo giáp"
+					type: "choice"
+				}
+				{
+					id: "0476EC6EADA2D4A5"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:nether_star"
+						tag: { }
+					}
+					type: "item"
+				}
+			]
+			shape: "diamond"
+			tasks: [{
+				entity: "cataclysm:netherite_monstrosity"
+				entity_use_tag: false
+				entity_vis_idle_mode: "USE_GLOBAL"
+				entity_vis_offset_x: 0.0f
+				entity_vis_offset_y: 0.0f
+				entity_vis_rotation: 0.0f
+				entity_vis_silhouette_mode: "NONE"
+				entity_vis_size: 1.0f
+				entity_vis_spin_mode: "USE_GLOBAL"
+				entity_vis_use_as_quest_icon: false
+				entity_vis_walk_mode: "USE_GLOBAL"
+				icon: {
+					Count: 1
+					id: "cataclysm:infernal_forge"
+					tag: {
+						Damage: 0
+					}
+				}
+				id: "002C9610E7A6345F"
+				type: "kill"
+				value: 1L
+			}]
+			x: -1.0d
+			y: -2.5d
+		}
+		{
+			description: [
+				"Xem chương Thảm họa để biết chi tiết"
+				"thế giới chính"
+				"Có thể bay ở độ cao thấp, có thể cần vũ khí có tay dài hơn"
+				"{entity:cataclysm:the_harbinger ent_size:0.6 off_x:0.0 off_y:0.0 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"
+			]
+			entity_vis_size: 1.0f
+			id: "13A1DB14F973476B"
+			rewards: [
+				{
+					id: "14778FFB9F38A892"
+					item: "minecraft:netherite_ingot"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "4558DEB78C2B79C7"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "enchanlownew:paper_skill_high"
+					}
+					type: "item"
+				}
+				{
+					id: "7EDD7F17A77385F2"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "relics:elytra_booster"
+						tag: {
+							abilities: {
+								boost: {
+									points: 0
+									stats: {
+										capacity: 60.11333d
+										speed: 1.24141d
+									}
+								}
+							}
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "7EC234D5A3E9DB93"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:nether_star"
+						tag: { }
+					}
+					type: "item"
+				}
+			]
+			shape: "diamond"
+			tasks: [{
+				entity: "cataclysm:the_harbinger"
+				entity_use_tag: false
+				entity_vis_idle_mode: "USE_GLOBAL"
+				entity_vis_offset_x: 0.0f
+				entity_vis_offset_y: 0.0f
+				entity_vis_rotation: 0.0f
+				entity_vis_silhouette_mode: "NONE"
+				entity_vis_size: 1.0f
+				entity_vis_spin_mode: "USE_GLOBAL"
+				entity_vis_use_as_quest_icon: false
+				entity_vis_walk_mode: "USE_GLOBAL"
+				icon: "cataclysm:meat_shredder"
+				id: "2EC4130D0EE19037"
+				type: "kill"
+				value: 1L
+			}]
+			x: -1.0d
+			y: -3.5d
+		}
+		{
+			description: [
+				"Xem chương Thảm họa để biết chi tiết"
+				"kết thúc"
+				"{entity:cataclysm:ender_guardian ent_size:0.6 off_x:0.0 off_y:0.0 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"
+			]
+			entity_vis_size: 1.0f
+			id: "6DD640D22E397DDD"
+			rewards: [
+				{
+					id: "01FC6DB5F5C320F8"
+					item: "minecraft:netherite_ingot"
+					type: "item"
+				}
+				{
+					count: 3
+					id: "30E62E3CCBFF21C4"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "enchanlownew:paper_skill_high"
+					}
+					type: "item"
+				}
+			]
+			shape: "diamond"
+			tasks: [{
+				entity: "cataclysm:ender_guardian"
+				entity_use_tag: false
+				entity_vis_idle_mode: "USE_GLOBAL"
+				entity_vis_offset_x: 0.0f
+				entity_vis_offset_y: 0.0f
+				entity_vis_rotation: 0.0f
+				entity_vis_silhouette_mode: "NONE"
+				entity_vis_size: 1.0f
+				entity_vis_spin_mode: "USE_GLOBAL"
+				entity_vis_use_as_quest_icon: false
+				entity_vis_walk_mode: "USE_GLOBAL"
+				icon: {
+					Count: 1
+					id: "cataclysm:void_forge"
+					tag: {
+						Damage: 0
+					}
+				}
+				id: "4BC22DC0089E5F05"
+				type: "kill"
+				value: 1L
+			}]
+			x: -7.0d
+			y: -1.5d
+		}
+		{
+			description: [
+				"Xem chương Thảm họa để biết chi tiết"
+				"Kích thước: Thế giới bên kia"
+				""
+				"Mẹo về đạo cụ chiến đấu dưới nước &7&o: &o"
+				"Kỹ năng hành động &7&o: điều khiển dưới nước, vũ khí đinh ba nhanh và một số phụ kiện. &r&r"
+				""
+				"{entity:cataclysm:the_leviathan ent_size:0.5 off_x:0.0 off_y:0.0 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"
+			]
+			entity_vis_size: 1.0f
+			id: "2F5CD028A102B1A7"
+			rewards: [
+				{
+					id: "62E2330C882DD28C"
+					item: "minecraft:netherite_ingot"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					icon: {
+						Count: 1
+						id: "modifiers:modifier_book"
+						tag: {
+							bookModifier: "modifiers:legendary"
+						}
+					}
+					id: "006AD661832E919A"
+					table_id: 2575389883246373071L
+					title: "Chất lượng vũ khí"
+					type: "choice"
+				}
+				{
+					id: "6BD848076E0DBAC7"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:heart_of_the_sea"
+					}
+					type: "item"
+				}
+			]
+			shape: "diamond"
+			tasks: [{
+				entity: "cataclysm:the_leviathan"
+				entity_use_tag: false
+				entity_vis_idle_mode: "USE_GLOBAL"
+				entity_vis_offset_x: 0.0f
+				entity_vis_offset_y: 0.0f
+				entity_vis_rotation: 0.0f
+				entity_vis_silhouette_mode: "NONE"
+				entity_vis_size: 1.0f
+				entity_vis_spin_mode: "USE_GLOBAL"
+				entity_vis_use_as_quest_icon: false
+				entity_vis_walk_mode: "USE_GLOBAL"
+				icon: "cataclysm:tidal_claws"
+				id: "5D23A948AB38F803"
+				type: "kill"
+				value: 1L
+			}]
+			x: 3.0d
+			y: -1.5d
+		}
+		{
+			description: [
+				"Boss của chương Mass"
+				""
+				"Yêu cầu vũ khí tầm xa"
+				"{entity:bosses_of_mass_destruction:gauntlet ent_size:1.0 off_x:0.0 off_y:0.0 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"
+			]
+			entity_vis_size: 1.0f
+			id: "7C13F485F4C84201"
+			rewards: [
+				{
+					count: 2
+					id: "59AD02C432AC7252"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:netherite_ingot"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "561AB06B3C89304F"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "enchanlownew:paper_ring_high"
+					}
+					type: "item"
+				}
+				{
+					command: "/curios add hands @s"
+					elevate_perms: true
+					icon: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "alexsmobs:falconry_glove"
+					}
+					id: "714148F178EAFA7F"
+					title: "Nhận một khe cắm phụ kiện cầm tay"
+					type: "command"
+				}
+				{
+					id: "3823653F1A13E8A8"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:nether_star"
+						tag: { }
+					}
+					type: "item"
+				}
+			]
+			shape: "diamond"
+			tasks: [{
+				entity: "bosses_of_mass_destruction:gauntlet"
+				entity_use_tag: false
+				entity_vis_idle_mode: "USE_GLOBAL"
+				entity_vis_offset_x: 0.0f
+				entity_vis_offset_y: 0.0f
+				entity_vis_rotation: 0.0f
+				entity_vis_silhouette_mode: "NONE"
+				entity_vis_size: 1.0f
+				entity_vis_spin_mode: "USE_GLOBAL"
+				entity_vis_use_as_quest_icon: false
+				entity_vis_walk_mode: "USE_GLOBAL"
+				icon: "bosses_of_mass_destruction:blazing_eye"
+				id: "56305345A1DFBC84"
+				type: "kill"
+				value: 1L
+			}]
+			x: -5.0d
+			y: -2.5d
+		}
+		{
+			description: [
+				"Boss của chương Mass"
+				"Kích thước: Kết thúc"
+				"Mắt của Ender được kích hoạt"
+				"{entity:bosses_of_mass_destruction:obsidilith ent_size:1.0 off_x:0.0 off_y:0.0 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"
+			]
+			entity_vis_size: 1.0f
+			id: "23555F4C5E27116C"
+			rewards: [
+				{
+					id: "0300A2248E413076"
+					item: "enchanlownew:paper_ring_high"
+					type: "item"
+				}
+				{
+					id: "75024719529C4D5C"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "wom:obsidian_bracelet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					count: 24
+					id: "473177B93BAE358E"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:lapis_block"
+						tag: { }
+					}
+					type: "item"
+				}
+			]
+			shape: "diamond"
+			tasks: [{
+				entity: "bosses_of_mass_destruction:obsidilith"
+				entity_use_tag: false
+				entity_vis_idle_mode: "USE_GLOBAL"
+				entity_vis_offset_x: 0.0f
+				entity_vis_offset_y: 0.0f
+				entity_vis_rotation: 0.0f
+				entity_vis_silhouette_mode: "NONE"
+				entity_vis_size: 1.0f
+				entity_vis_spin_mode: "USE_GLOBAL"
+				entity_vis_use_as_quest_icon: false
+				entity_vis_walk_mode: "USE_GLOBAL"
+				icon: "bosses_of_mass_destruction:obsidian_heart"
+				id: "2E9F3C511D8ABE3B"
+				type: "kill"
+				value: 1L
+			}]
+			x: -4.0d
+			y: -3.5d
+		}
+		{
+			description: [
+				"Boss của chương Mass"
+				"thế giới chính"
+				"{entity:bosses_of_mass_destruction:void_blossom ent_size:1.0 off_x:0.0 off_y:0.0 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"
+			]
+			entity_vis_size: 1.0f
+			id: "1EDFCDD94CBE40F4"
+			rewards: [
+				{
+					count: 2
+					id: "44F0863FC68388BE"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:netherite_ingot"
+					}
+					type: "item"
+				}
+				{
+					id: "23A8A1059343E193"
+					item: "enchanlownew:paper_ring_high"
+					type: "item"
+				}
+			]
+			shape: "diamond"
+			tasks: [{
+				entity: "bosses_of_mass_destruction:void_blossom"
+				entity_use_tag: false
+				entity_vis_idle_mode: "USE_GLOBAL"
+				entity_vis_offset_x: 0.0f
+				entity_vis_offset_y: 0.0f
+				entity_vis_rotation: 0.0f
+				entity_vis_silhouette_mode: "NONE"
+				entity_vis_size: 1.0f
+				entity_vis_spin_mode: "USE_GLOBAL"
+				entity_vis_use_as_quest_icon: false
+				entity_vis_walk_mode: "USE_GLOBAL"
+				icon: "bosses_of_mass_destruction:crystal_fruit"
+				id: "3607CC777A20C43F"
+				type: "kill"
+				value: 1L
+			}]
+			x: -8.0d
+			y: -3.5d
+		}
+		{
+			description: [
+				"Boss của chương Mass"
+				""
+				"BOSS bay"
+				"Yêu cầu vũ khí tầm xa"
+				"{entity:bosses_of_mass_destruction:lich ent_size:0.6 off_x:0.0 off_y:0.0 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"
+			]
+			entity_vis_size: 1.0f
+			id: "64215EDB185F3639"
+			rewards: [
+				{
+					id: "0EA0C2670BB66529"
+					item: "minecraft:netherite_ingot"
+					type: "item"
+				}
+				{
+					id: "30788B866145C0C1"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "relics:midnight_robe"
+						tag: {
+							abilities: {
+								backstab: {
+									points: 0
+									stats: {
+										damage: 1.48662d
+										distance: 19.79718d
+									}
+								}
+								vanish: {
+									points: 0
+									stats: {
+										light: 1.44379d
+										speed: 0.19445d
+									}
+									temp: {
+										ticking: 1b
+									}
+								}
+							}
+						}
+					}
+					type: "item"
+				}
+			]
+			shape: "diamond"
+			tasks: [{
+				entity: "bosses_of_mass_destruction:lich"
+				entity_use_tag: false
+				entity_vis_idle_mode: "USE_GLOBAL"
+				entity_vis_offset_x: 0.0f
+				entity_vis_offset_y: 0.0f
+				entity_vis_rotation: 0.0f
+				entity_vis_silhouette_mode: "NONE"
+				entity_vis_size: 1.0f
+				entity_vis_spin_mode: "USE_GLOBAL"
+				entity_vis_use_as_quest_icon: false
+				entity_vis_walk_mode: "USE_GLOBAL"
+				icon: "bosses_of_mass_destruction:ancient_anima"
+				id: "5740F208C9BA13E7"
+				type: "kill"
+				value: 1L
+			}]
+			x: -5.0d
+			y: -1.5d
+		}
+		{
+			description: [
+				"Để biết chi tiết, xem chương về Câu chuyện ca ngợi"
+				"{entity:aquamirae:captain_cornelia ent_size:0.6 off_x:0.0 off_y:0.0 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "aquamirae:shell_horn"
+			}
+			id: "5E54AA0217549232"
+			rewards: [
+				{
+					count: 2
+					id: "38019E42BA6C583C"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:netherite_ingot"
+					}
+					type: "item"
+				}
+				{
+					id: "1F16F357A2B13BDC"
+					item: "realmrpg_quests:ring_of_ice_lesser"
+					type: "item"
+				}
+				{
+					command: "/puffish_skills points add @s puffish_skills:combat 3"
+					elevate_perms: true
+					icon: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "dummmmmmy:target_dummy"
+					}
+					id: "1DEC009694BE6232"
+					silent: true
+					title: "Nhận được 3 điểm kỹ năng"
+					type: "command"
+				}
+			]
+			shape: "diamond"
+			tasks: [{
+				entity: "aquamirae:captain_cornelia"
+				entity_use_tag: false
+				entity_vis_idle_mode: "USE_GLOBAL"
+				entity_vis_offset_x: 0.0f
+				entity_vis_offset_y: 0.0f
+				entity_vis_rotation: 0.0f
+				entity_vis_silhouette_mode: "NONE"
+				entity_vis_size: 1.0f
+				entity_vis_spin_mode: "USE_GLOBAL"
+				entity_vis_use_as_quest_icon: false
+				entity_vis_walk_mode: "USE_GLOBAL"
+				icon: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "aquamirae:shell_horn"
+				}
+				id: "418B0302DE3F173B"
+				type: "kill"
+				value: 1L
+			}]
+			x: 4.0d
+			y: -3.5d
+		}
+		{
+			description: [
+				"Chương nghĩa trang"
+				"{entity:graveyard:lich ent_size:0.6 off_x:0.0 off_y:0.0 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"
+			]
+			entity_vis_size: 1.0f
+			id: "2BB240D0EEC9F188"
+			rewards: [
+				{
+					id: "1ADC837C286C2E5B"
+					item: "minecraft:netherite_ingot"
+					type: "item"
+				}
+				{
+					command: "/curios add ring @s"
+					elevate_perms: true
+					icon: "ringsofascension:ring_slow_falling"
+					id: "61C2B2356F394CFB"
+					title: "Nhận một khe vòng"
+					type: "command"
+				}
+			]
+			shape: "diamond"
+			tasks: [{
+				entity: "graveyard:lich"
+				entity_use_tag: false
+				entity_vis_idle_mode: "USE_GLOBAL"
+				entity_vis_offset_x: 0.0f
+				entity_vis_offset_y: 0.0f
+				entity_vis_rotation: 0.0f
+				entity_vis_silhouette_mode: "NONE"
+				entity_vis_size: 1.0f
+				entity_vis_spin_mode: "USE_GLOBAL"
+				entity_vis_use_as_quest_icon: false
+				entity_vis_walk_mode: "USE_GLOBAL"
+				icon: "graveyard:upper_bone_staff"
+				id: "4755104BF9AD0CF2"
+				type: "kill"
+				value: 1L
+			}]
+			x: -3.0d
+			y: -1.5d
+		}
+		{
+			description: [
+				"Chương Sinh Ra Trong Sự Hỗn Loạn"
+				"{entity:born_in_chaos_v1:lord_pumpkinhead ent_size:0.5 off_x:0.0 off_y:0.0 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"
+			]
+			entity_vis_size: 1.0f
+			id: "5D8843302054DA07"
+			rewards: [
+				{
+					id: "6DF9125EEB340516"
+					item: "minecraft:netherite_ingot"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					icon: {
+						Count: 1
+						id: "modifiers:modifier_book"
+						tag: {
+							bookModifier: "modifiers:legendary"
+						}
+					}
+					id: "01EA0B72C485BEA9"
+					table_id: 2575389883246373071L
+					type: "choice"
+				}
+			]
+			shape: "diamond"
+			tasks: [{
+				entity: "born_in_chaos_v1:lord_pumpkinhead_head"
+				entity_use_tag: false
+				entity_vis_idle_mode: "USE_GLOBAL"
+				entity_vis_offset_x: 0.0f
+				entity_vis_offset_y: 0.0f
+				entity_vis_rotation: 0.0f
+				entity_vis_silhouette_mode: "NONE"
+				entity_vis_size: 1.0f
+				entity_vis_spin_mode: "USE_GLOBAL"
+				entity_vis_use_as_quest_icon: false
+				entity_vis_walk_mode: "USE_GLOBAL"
+				icon: "born_in_chaos_v1:lord_pumpkinheads_lamp"
+				id: "4C93310DB0E58F2D"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Giết: 1xChúa bí ngô"
+			x: -8.0d
+			y: -2.5d
+		}
+		{
+			description: [
+				"Tìm kiếm con trỏ phiêu lưu"
+				"Sử dụng Vật Tổ Bất Diệt &b để triệu hồi &r"
+				"&8&o[Bàn thờ sẽ tự động phục hồi sau khi giết và thử thách có thể được lặp lại]&r&r"
+				"Đánh bại và rơi ra nhiều thỏi netherite."
+				"{entity:corundumguardian:corundum_guardian ent_size:0.6 off_x:0.0 off_y:0.0 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"
+			]
+			entity_vis_size: 1.0f
+			id: "4765B38AB2802217"
+			rewards: [
+				{
+					id: "2513FB0EFFF49CE1"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "dungeons_and_combat:monarch_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "62743A89FED50344"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "dungeons_and_combat:monarch_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "79A27C8DB2ED185A"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "dungeons_and_combat:monarch_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "4FF8C2610C3DCC34"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "dungeons_and_combat:monarch_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "481EE3DB1F838841"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:nether_star"
+						tag: { }
+					}
+					type: "item"
+				}
+			]
+			shape: "diamond"
+			tasks: [{
+				entity: "corundumguardian:corundum_guardian"
+				entity_use_tag: false
+				entity_vis_idle_mode: "USE_GLOBAL"
+				entity_vis_offset_x: 0.0f
+				entity_vis_offset_y: 0.0f
+				entity_vis_rotation: 0.0f
+				entity_vis_silhouette_mode: "NONE"
+				entity_vis_size: 1.0f
+				entity_vis_spin_mode: "USE_GLOBAL"
+				entity_vis_use_as_quest_icon: false
+				entity_vis_walk_mode: "USE_GLOBAL"
+				icon: {
+					Count: 1
+					id: "wom:netherite_mask"
+					tag: {
+						Damage: 0
+					}
+				}
+				id: "65CF2B873906A62C"
+				type: "kill"
+				value: 1L
+			}]
+			x: 1.0d
+			y: -2.5d
+		}
+		{
+			description: [
+				"Hang Alex"
+				"Động Nguyên Hải"
+				"Mẹo về đạo cụ chiến đấu dưới nước &7&o: &o"
+				"Kỹ năng hành động &7&o: điều khiển dưới nước, vũ khí đinh ba nhanh và một số phụ kiện. &r&r"
+				"{entity:alexscaves:hullbreaker ent_size:0.5 off_x:0.0 off_y:0.0 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"
+			]
+			entity_vis_size: 1.0f
+			id: "3F0509147FA1B7FD"
+			rewards: [
+				{
+					count: 2
+					id: "16A3CF398C1CE662"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:netherite_ingot"
+					}
+					type: "item"
+				}
+				{
+					id: "000CBD3AA8DE2819"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "enchanlownew:paper_ring_high"
+					}
+					type: "item"
+				}
+				{
+					id: "454FED0203CBBF7F"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "dungeons_and_combat:cursed_molten_blazing_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "427148D3EB4BFACC"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "dungeons_and_combat:cursed_molten_blazing_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "38D9764379B84391"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "dungeons_and_combat:cursed_molten_blazing_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "07C737B361D3D132"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "dungeons_and_combat:cursed_molten_blazing_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "4DAE9D4C64B47B7E"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:heart_of_the_sea"
+					}
+					type: "item"
+				}
+			]
+			shape: "diamond"
+			tasks: [{
+				entity: "alexscaves:hullbreaker"
+				entity_use_tag: false
+				entity_vis_idle_mode: "USE_GLOBAL"
+				entity_vis_offset_x: 0.0f
+				entity_vis_offset_y: 0.0f
+				entity_vis_rotation: 0.0f
+				entity_vis_silhouette_mode: "NONE"
+				entity_vis_size: 1.0f
+				entity_vis_spin_mode: "USE_GLOBAL"
+				entity_vis_use_as_quest_icon: false
+				entity_vis_walk_mode: "USE_GLOBAL"
+				icon: "alexscaves:immortal_embryo"
+				id: "4F5C7B241E05B104"
+				type: "kill"
+				value: 1L
+			}]
+			x: 2.0d
+			y: -3.5d
+		}
+		{
+			description: [
+				"Hang Alex: Thung lũng im lặng kỳ lạ"
+				"Được sinh ra bởi những kẻ ngoại đạo ngầm thực hiện các nghi lễ tà ác"
+				"{entity:alexscaves:forsaken ent_size:0.5 off_x:0.0 off_y:0.0 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"
+			]
+			entity_vis_size: 1.0f
+			id: "343ECCCC74673E4D"
+			rewards: [
+				{
+					count: 2
+					id: "20B9FE0559A3BAE8"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:netherite_ingot"
+					}
+					type: "item"
+				}
+				{
+					id: "3013E728657D6989"
+					item: "enchanlownew:paper_ring_high"
+					type: "item"
+				}
+				{
+					id: "608AE420980E6604"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "dungeons_and_combat:crimson_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "47D29421EAA4A0CE"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "dungeons_and_combat:crimson_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "43930C1A79B1FE5A"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "dungeons_and_combat:crimson_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "0EE2283DD7F29636"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "dungeons_and_combat:crimson_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			shape: "diamond"
+			tasks: [{
+				entity: "alexscaves:forsaken"
+				entity_use_tag: false
+				entity_vis_idle_mode: "USE_GLOBAL"
+				entity_vis_offset_x: 0.0f
+				entity_vis_offset_y: 0.0f
+				entity_vis_rotation: 0.0f
+				entity_vis_silhouette_mode: "NONE"
+				entity_vis_size: 1.0f
+				entity_vis_spin_mode: "USE_GLOBAL"
+				entity_vis_use_as_quest_icon: false
+				entity_vis_walk_mode: "USE_GLOBAL"
+				icon: "alexscaves:pure_darkness"
+				id: "1A266D192013BC6F"
+				type: "kill"
+				value: 1L
+			}]
+			x: -5.0d
+			y: -3.5d
+		}
+		{
+			description: [
+				"Xem chương Thảm họa để biết chi tiết"
+				"Kích thước: Thế giới bên kia"
+				"{entity:cataclysm:maledictus ent_size:0.6 off_x:0.0 off_y:0.0 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"
+			]
+			entity_vis_size: 1.0f
+			id: "4E7C4C4C27AA3A23"
+			rewards: [
+				{
+					id: "006BC367B4ABE526"
+					item: "minecraft:netherite_ingot"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					icon: {
+						Count: 1
+						id: "modifiers:modifier_book"
+						tag: {
+							bookModifier: "modifiers:legendary"
+						}
+					}
+					id: "38970F0DEF93E43A"
+					table_id: 2575389883246373071L
+					title: "Chất lượng vũ khí"
+					type: "choice"
+				}
+			]
+			shape: "diamond"
+			tasks: [{
+				disable_toast: true
+				entity: "cataclysm:maledictus"
+				entity_use_tag: false
+				entity_vis_idle_mode: "USE_GLOBAL"
+				entity_vis_offset_x: 0.0f
+				entity_vis_offset_y: 0.0f
+				entity_vis_rotation: 0.0f
+				entity_vis_silhouette_mode: "NONE"
+				entity_vis_size: 1.0f
+				entity_vis_spin_mode: "USE_GLOBAL"
+				entity_vis_use_as_quest_icon: false
+				entity_vis_walk_mode: "USE_GLOBAL"
+				icon: {
+					Count: 1
+					id: "cataclysm:cursium_helmet"
+					tag: {
+						Damage: 0
+					}
+				}
+				id: "559B08A06194A427"
+				type: "kill"
+				value: 1L
+			}]
+			x: -5.0d
+			y: -0.5d
+		}
+		{
+			description: [
+				"Chương quái vật huyền thoại"
+				"Kích thước: Thế giới bên kia"
+				"Cấu trúc: Đền Yunzhu"
+				"{entity:legendary_monsters:cloud_golem ent_size:0.6 off_x:0.0 off_y:0.0 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"
+			]
+			entity_vis_size: 1.0f
+			id: "0427CE4A17859B62"
+			rewards: [
+				{
+					id: "7B057227C14D83D2"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "celestisynth:celestial_netherite_ingot"
+					}
+					type: "item"
+				}
+				{
+					id: "16F53641BB499040"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "dungeons_and_combat:silver_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "66794DD0DCA44691"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "dungeons_and_combat:silver_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "2C9ACBE655286A1C"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "dungeons_and_combat:silver_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "3D626F81C17EBE2A"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "dungeons_and_combat:silver_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			shape: "diamond"
+			tasks: [{
+				disable_toast: true
+				entity: "legendary_monsters:cloud_golem"
+				entity_use_tag: false
+				entity_vis_idle_mode: "USE_GLOBAL"
+				entity_vis_offset_x: 0.0f
+				entity_vis_offset_y: 0.0f
+				entity_vis_rotation: 0.0f
+				entity_vis_silhouette_mode: "NONE"
+				entity_vis_size: 1.0f
+				entity_vis_spin_mode: "USE_GLOBAL"
+				entity_vis_use_as_quest_icon: false
+				entity_vis_walk_mode: "USE_GLOBAL"
+				icon: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "legendary_monsters:eye_of_air"
+				}
+				id: "7B521DE0F0FD611C"
+				type: "kill"
+				value: 1L
+			}]
+			x: -3.0d
+			y: -0.5d
+		}
+		{
+			description: [
+				"Dòng chính:"
+				"Chương: Chòm sao tan vỡ: Sự kết thúc"
+				""
+				""
+				""
+				"{entity:mofus_better_end_:eye_guardian ent_size:0.6 off_x:0.0 off_y:0.0 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"
+			]
+			entity_vis_size: 1.0f
+			id: "1F20E3A08FC68BAE"
+			rewards: [
+				{
+					count: 2
+					id: "79731229CC13EA4C"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "celestisynth:celestial_netherite_ingot"
+					}
+					type: "item"
+				}
+				{
+					id: "4957634F3EC90C0A"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "clockwork:clockwork_wings"
+						tag: {
+							Damage: 0
+							clockwork_wings_dive_acceleration: 0
+							clockwork_wings_fall_acceleration: 0
+							clockwork_wings_flap_pulse: 0b
+							clockwork_wings_gliding: 0b
+							clockwork_wings_init: 0b
+						}
+					}
+					type: "item"
+				}
+			]
+			shape: "diamond"
+			tasks: [{
+				entity: "mofus_better_end_:eye_guardian"
+				entity_use_tag: false
+				entity_vis_idle_mode: "USE_GLOBAL"
+				entity_vis_offset_x: 0.0f
+				entity_vis_offset_y: 0.0f
+				entity_vis_rotation: 0.0f
+				entity_vis_silhouette_mode: "NONE"
+				entity_vis_size: 1.0f
+				entity_vis_spin_mode: "USE_GLOBAL"
+				entity_vis_use_as_quest_icon: false
+				entity_vis_walk_mode: "USE_GLOBAL"
+				icon: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "mofus_better_end_:eye_guardian_angel_eye"
+				}
+				id: "75424746DD7E3A75"
+				type: "kill"
+				value: 1L
+			}]
+			x: -8.0d
+			y: -1.5d
+		}
+		{
+			description: [
+				"Trao đổi vật phẩm &b [Thử thách triệu hồi] Chương &r"
+				"Đổi giấy triệu tập"
+				"Đi đến Triệu hồi Kích thước Đấu trường"
+				"{entity:infinitygolem:infinity_golem ent_size:0.6 off_x:0.0 off_y:0.0 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"
+			]
+			entity_vis_size: 1.0f
+			id: "1F7B394999B3207D"
+			rewards: [
+				{
+					count: 16
+					id: "22E3EFFEBFF0A13E"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:emerald_block"
+					}
+					type: "item"
+				}
+				{
+					count: 4
+					id: "19827883F9061E51"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "celestisynth:celestial_core"
+					}
+					type: "item"
+				}
+			]
+			shape: "diamond"
+			tasks: [{
+				entity: "infinitygolem:infinity_golem"
+				entity_use_tag: false
+				entity_vis_idle_mode: "USE_GLOBAL"
+				entity_vis_offset_x: 0.0f
+				entity_vis_offset_y: 0.0f
+				entity_vis_rotation: 0.0f
+				entity_vis_silhouette_mode: "NONE"
+				entity_vis_size: 1.0f
+				entity_vis_spin_mode: "USE_GLOBAL"
+				entity_vis_use_as_quest_icon: false
+				entity_vis_walk_mode: "USE_GLOBAL"
+				icon: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "minecraft:fire_charge"
+				}
+				id: "76D767A2FC0FA51A"
+				type: "kill"
+				value: 1L
+			}]
+			x: -6.0d
+			y: -3.5d
+		}
+		{
+			description: [
+				"Con trỏ phiêu lưu tìm kiếm tên BOSS"
+				"Kích thước: Thế giới bên kia"
+				""
+				"Có thể được triệu hồi lại bằng cách sử dụng &6 Bọ cánh cứng may mắn &r"
+				"{entity:dungeons_and_combat:sunleia ent_size:0.6 off_x:0.0 off_y:0.0 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "dungeons_and_combat:sunleia_armor_helmet"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "13704DF6CBCF9D83"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s puffish_skills:combat 8"
+					elevate_perms: true
+					icon: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "dummmmmmy:target_dummy"
+					}
+					id: "29E9F003A9CE3C78"
+					silent: true
+					title: "Đạt được 8 điểm kỹ năng"
+					type: "command"
+				}
+				{
+					id: "7981F032ED4CEA9E"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "celestisynth:celestial_netherite_ingot"
+					}
+					type: "item"
+				}
+			]
+			shape: "diamond"
+			tasks: [{
+				entity: "dungeons_and_combat:sunleia"
+				entity_use_tag: false
+				entity_vis_idle_mode: "USE_GLOBAL"
+				entity_vis_offset_x: 0.0f
+				entity_vis_offset_y: 0.0f
+				entity_vis_rotation: 0.0f
+				entity_vis_silhouette_mode: "NONE"
+				entity_vis_size: 1.0f
+				entity_vis_spin_mode: "USE_GLOBAL"
+				entity_vis_use_as_quest_icon: false
+				entity_vis_walk_mode: "USE_GLOBAL"
+				icon: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "dungeons_and_combat:sunleia_armor_helmet"
+					tag: {
+						Damage: 0
+					}
+				}
+				id: "14A7A22605BD3D6C"
+				type: "kill"
+				value: 1L
+			}]
+			x: -4.0d
+			y: -0.5d
+		}
+		{
+			description: [
+				"Con trỏ phiêu lưu tìm kiếm tên BOSS"
+				"Kích thước: Thế giới bên kia"
+				""
+				"Có thể được triệu hồi lại bằng &b Linh hồn uy nghiêm &r"
+				"{entity:dungeons_and_combat:kamath ent_size:0.8 off_x:0.0 off_y:0.0 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "dungeons_and_combat:kamath_armor_helmet"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "50FE14AFC32CA0AB"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s puffish_skills:combat 3"
+					elevate_perms: true
+					icon: {
+						Count: 1
+						id: "dummmmmmy:target_dummy"
+						tag: {
+							csController: { }
+						}
+					}
+					id: "6C5E83557ECFCA3D"
+					silent: true
+					title: "Đạt được 3 điểm kỹ năng"
+					type: "command"
+				}
+				{
+					count: 16
+					id: "61BD6C9F8AB48234"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:emerald_block"
+					}
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "3D3B4160549EF9F5"
+					table_id: 840663340100755059L
+					title: "Chất lượng áo giáp"
+					type: "choice"
+				}
+			]
+			shape: "diamond"
+			tasks: [{
+				entity: "dungeons_and_combat:kamath"
+				entity_use_tag: false
+				entity_vis_idle_mode: "USE_GLOBAL"
+				entity_vis_offset_x: 0.0f
+				entity_vis_offset_y: 0.0f
+				entity_vis_rotation: 0.0f
+				entity_vis_silhouette_mode: "NONE"
+				entity_vis_size: 1.0f
+				entity_vis_spin_mode: "USE_GLOBAL"
+				entity_vis_use_as_quest_icon: false
+				entity_vis_walk_mode: "USE_GLOBAL"
+				icon: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "dungeons_and_combat:kamath_armor_helmet"
+					tag: {
+						Damage: 0
+					}
+				}
+				id: "15426523D11417B4"
+				type: "kill"
+				value: 1L
+			}]
+			x: 2.0d
+			y: -2.5d
+		}
+		{
+			description: [
+				"Xem chương Thảm họa để biết chi tiết"
+				"Kích thước: Thế giới bên kia"
+				"{entity:cataclysm:scylla ent_size:0.6 off_x:0.0 off_y:0.0 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"
+			]
+			entity_vis_size: 1.0f
+			id: "541DA7D069AF855E"
+			rewards: [
+				{
+					count: 3
+					id: "5BBEF5B53E343F33"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "enchanlownew:paper_ring_high"
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "4CAB9A7FED95F109"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "enchanlownew:paper_skill_high"
+					}
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					icon: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "modifiers:modifier_book"
+						tag: {
+							bookModifier: "modifiers:deadly"
+						}
+					}
+					id: "3F8E0BFF08AE18C1"
+					table_id: 2575389883246373071L
+					title: "Chất lượng vũ khí"
+					type: "choice"
+				}
+			]
+			shape: "diamond"
+			tasks: [{
+				entity: "cataclysm:scylla"
+				entity_use_tag: false
+				entity_vis_idle_mode: "USE_GLOBAL"
+				entity_vis_offset_x: 0.0f
+				entity_vis_offset_y: 0.0f
+				entity_vis_rotation: 0.0f
+				entity_vis_silhouette_mode: "NONE"
+				entity_vis_size: 1.0f
+				entity_vis_spin_mode: "USE_GLOBAL"
+				entity_vis_use_as_quest_icon: false
+				entity_vis_walk_mode: "USE_GLOBAL"
+				icon: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "cataclysm:ceraunus"
+				}
+				id: "3934B22CA297A632"
+				type: "kill"
+				value: 1L
+			}]
+			x: -6.0d
+			y: -0.5d
+		}
+		{
+			description: [
+				"Con trỏ phiêu lưu tìm kiếm tên BOSS"
+				"Kích thước: Nether"
+				"Yêu cầu &b hộp sọ khô héo &r triệu hồi bàn thờ nhấp chuột phải"
+				"&8&o[Bàn thờ sẽ tự động phục hồi sau khi giết và thử thách có thể được lặp lại]&r&r"
+				"{entity:wom:evil_skeleton ent_size:0.6 off_x:0.0 off_y:0.0 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"
+			]
+			entity_vis_size: 1.0f
+			id: "15E501538DD2F120"
+			rewards: [
+				{
+					id: "3CFE87A7BEAF597C"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "wom:demon_bracelet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					count: 4
+					id: "5F98F3637F1725E4"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:netherite_ingot"
+					}
+					type: "item"
+				}
+				{
+					id: "789D11C272102512"
+					type: "xp_levels"
+					xp_levels: 10
+				}
+			]
+			shape: "diamond"
+			tasks: [{
+				entity: "wom:evil_skeleton"
+				entity_use_tag: false
+				entity_vis_idle_mode: "USE_GLOBAL"
+				entity_vis_offset_x: 0.0f
+				entity_vis_offset_y: 0.0f
+				entity_vis_rotation: 0.0f
+				entity_vis_silhouette_mode: "NONE"
+				entity_vis_size: 1.0f
+				entity_vis_spin_mode: "USE_GLOBAL"
+				entity_vis_use_as_quest_icon: false
+				entity_vis_walk_mode: "USE_GLOBAL"
+				icon: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "wom:demon_seal"
+				}
+				id: "39DD5F1462D3E679"
+				type: "kill"
+				value: 1L
+			}]
+			x: 3.0d
+			y: -2.5d
+		}
+		{
+			description: [
+				"Chương Sự trỗi dậy của Overlord"
+				""
+				"Kích thước: Thế giới bên kia"
+				"Cấu trúc: Hang Yeti"
+				"{entity:block_factorys_bosses:yeti ent_size:0.8 off_x:0.0 off_y:0.0 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "block_factorys_bosses:achievement_icons"
+				tag: {
+					icon_index: 9
+				}
+			}
+			id: "516DF9CA7B864EC2"
+			rewards: [
+				{
+					count: 3
+					id: "29666A658A29D205"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "enchanlownew:paper_skill_high"
+						tag: {
+							obscuridad: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "04519F845C946ADC"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:netherite_ingot"
+					}
+					type: "item"
+				}
+				{
+					id: "43B39498774D5147"
+					type: "xp_levels"
+					xp_levels: 10
+				}
+			]
+			shape: "diamond"
+			tasks: [{
+				advancement: "block_factorys_bosses:kill_yeti"
+				criterion: ""
+				id: "1D32BF9A0BD577E6"
+				title: "Đã giết: 1x Quái vật tuyết"
+				type: "advancement"
+			}]
+			x: 4.0d
+			y: -2.5d
+		}
+		{
+			description: [
+				"Chương Sự trỗi dậy của Overlord"
+				"&7 yêu cầu vũ khí tầm xa &r"
+				"Kích thước: Thế giới bên kia"
+				"Cấu trúc: Lâu đài Wyvern"
+				""
+				""
+				"{entity:block_factorys_bosses:infernal_dragon ent_size:0.5 off_x:0.0 off_y:0.0 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "block_factorys_bosses:achievement_icons"
+				tag: {
+					icon_index: -1
+				}
+			}
+			id: "5B9F5CDA30390926"
+			rewards: [
+				{
+					count: 3
+					id: "636415450F568AC8"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "enchanlownew:paper_skill_high"
+						tag: {
+							obscuridad: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					count: 24
+					id: "2CCB07802A55C781"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:emerald_block"
+					}
+					type: "item"
+				}
+			]
+			shape: "diamond"
+			tasks: [{
+				advancement: "block_factorys_bosses:kill_dragon"
+				criterion: ""
+				id: "1199048EDBECCCF9"
+				title: "Tiêu diệt: 1x Rồng địa ngục"
+				type: "advancement"
+			}]
+			x: -6.0d
+			y: -1.5d
+		}
+		{
+			description: [
+				"Chương Sự trỗi dậy của Overlord"
+				""
+				"Kích thước: Thế giới bên kia"
+				"Cấu trúc: Hang giun cát"
+				""
+				"{entity:block_factorys_bosses:sandworm ent_size:0.03 off_x:0.0 off_y:0.0 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "block_factorys_bosses:achievement_icons"
+				tag: {
+					icon_index: 7
+				}
+			}
+			id: "7E294A1FAD2C96E7"
+			rewards: [
+				{
+					count: 3
+					id: "5BBE6BF39F504F01"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "enchanlownew:paper_ring_high"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "0114156F82EDDA43"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:netherite_ingot"
+					}
+					type: "item"
+				}
+				{
+					id: "133BDB9C1DF8D88C"
+					type: "xp_levels"
+					xp_levels: 10
+				}
+			]
+			shape: "diamond"
+			tasks: [{
+				advancement: "block_factorys_bosses:kill_sandworm"
+				criterion: ""
+				id: "317AFA69F205F139"
+				title: "Giết chết: 1xSandworm"
+				type: "advancement"
+			}]
+			x: -6.0d
+			y: -2.5d
+		}
+		{
+			description: [
+				"Chương Sự trỗi dậy của Overlord"
+				""
+				"Kích thước: Nether"
+				"Cấu trúc: Đấu trường thế giới ngầm"
+				"{entity:block_factorys_bosses:underworld_knight ent_size:0.5 off_x:0.0 off_y:0.0 rot:0.0 spin:FORCE_OFF idle:FORCE_ON walk:FORCE_OFF width:100 height:100 align:center}"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "block_factorys_bosses:achievement_icons"
+				tag: {
+					icon_index: 1
+				}
+			}
+			id: "7D2A220C9AA746ED"
+			rewards: [
+				{
+					id: "6AD2553C566D7FEF"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "wom:celerity_bracelet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					count: 5
+					id: "19B7DFEB8048D0E4"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:netherite_ingot"
+					}
+					type: "item"
+				}
+			]
+			shape: "diamond"
+			tasks: [{
+				advancement: "block_factorys_bosses:kill_underworld_knight"
+				criterion: ""
+				id: "712EA5BF6616F2FC"
+				title: "Tiêu diệt: 1x Hiệp sĩ Nether"
+				type: "advancement"
+			}]
+			x: -7.0d
+			y: -0.5d
+		}
+		{
+			description: [
+				"Con trỏ phiêu lưu tìm kiếm tên BOSS"
+				"Kích thước: Kết thúc"
+				"Yêu cầu xương &b &r triệu hồi bàn thờ nhấp chuột phải"
+				"&8&o[Bàn thờ sẽ tự động phục hồi sau khi giết và thử thách có thể được lặp lại]&r&r"
+				"{entity:monsterexpansion:rhyza ent_size:0.6 off_x:0.0 off_y:0.0 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"
+			]
+			entity_vis_size: 1.0f
+			id: "47D851969B3A6977"
+			rewards: [
+				{
+					count: 3
+					id: "51C58522DDD6EFD0"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "enchanlownew:paper_skill_high"
+						tag: {
+							obscuridad: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					command: "/puffish_skills points add @s puffish_skills:combat 2"
+					elevate_perms: true
+					icon: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "dummmmmmy:target_dummy"
+						tag: {
+							obscuridad: 0
+						}
+					}
+					id: "58BF23F46DA335DA"
+					title: "Đạt được 2 điểm kỹ năng"
+					type: "command"
+				}
+			]
+			shape: "diamond"
+			tasks: [{
+				entity: "monsterexpansion:rhyza"
+				entity_use_tag: false
+				entity_vis_idle_mode: "USE_GLOBAL"
+				entity_vis_offset_x: 0.0f
+				entity_vis_offset_y: 0.0f
+				entity_vis_rotation: 0.0f
+				entity_vis_silhouette_mode: "NONE"
+				entity_vis_size: 1.0f
+				entity_vis_spin_mode: "USE_GLOBAL"
+				entity_vis_use_as_quest_icon: false
+				entity_vis_walk_mode: "USE_GLOBAL"
+				icon: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "monsterexpansion:rhyza_fur"
+				}
+				id: "523DC941669964A5"
+				type: "kill"
+				value: 1L
+			}]
+			x: -4.0d
+			y: -2.5d
+		}
+		{
+			description: [
+				"Con trỏ phiêu lưu tìm kiếm tên BOSS"
+				"Kích thước: Kết thúc"
+				"Yêu cầu triệu hồi bàn thờ bằng kim cương &b &r nhấp chuột phải"
+				"&8&o[Bàn thờ sẽ tự động phục hồi sau khi giết và thử thách có thể được lặp lại]&r&r"
+				"{entity:monsterexpansion:skrythe ent_size:0.6 off_x:0.0 off_y:0.0 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"
+			]
+			entity_vis_size: 1.0f
+			id: "15927BF01900C62B"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s puffish_skills:combat 3"
+					elevate_perms: true
+					icon: {
+						Count: 1
+						id: "dummmmmmy:target_dummy"
+						tag: {
+							obscuridad: 0
+						}
+					}
+					id: "2EA0FF62FCBEEF13"
+					title: "Đạt được 3 điểm kỹ năng"
+					type: "command"
+				}
+				{
+					count: 5
+					id: "726AA03046BFA7D5"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "enchanlownew:paper_skill_high"
+					}
+					type: "item"
+				}
+			]
+			shape: "diamond"
+			tasks: [{
+				entity: "monsterexpansion:skrythe"
+				entity_use_tag: false
+				entity_vis_idle_mode: "USE_GLOBAL"
+				entity_vis_offset_x: 0.0f
+				entity_vis_offset_y: 0.0f
+				entity_vis_rotation: 0.0f
+				entity_vis_silhouette_mode: "NONE"
+				entity_vis_size: 1.0f
+				entity_vis_spin_mode: "USE_GLOBAL"
+				entity_vis_use_as_quest_icon: false
+				entity_vis_walk_mode: "USE_GLOBAL"
+				icon: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "monsterexpansion:skrythe_frill"
+				}
+				id: "204738D78F7673AD"
+				type: "kill"
+				value: 1L
+			}]
+			x: 4.0d
+			y: -1.5d
+		}
+		{
+			description: [
+				"Con trỏ phiêu lưu tìm kiếm tên BOSS"
+				"Kích thước: Thế giới bên kia"
+				""
+				""
+				"{entity:dodosmobs:dead_horn ent_size:0.5 off_x:0.0 off_y:0.0 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"
+			]
+			entity_vis_size: 1.0f
+			id: "19B1FA08579F1D10"
+			rewards: [
+				{
+					id: "327D07B5D7064E6A"
+					type: "xp_levels"
+					xp_levels: 15
+				}
+				{
+					id: "3B178CC39E385E88"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "dungeons_and_combat:bronze_barbarian_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "112EC790F9A4911C"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "dungeons_and_combat:bronze_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5FD0839BC5DC8196"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "dungeons_and_combat:bronze_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "16AC0DBBD8C6308E"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "dungeons_and_combat:bronze_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			shape: "diamond"
+			tasks: [{
+				entity: "dodosmobs:dead_horn"
+				entity_use_tag: false
+				entity_vis_idle_mode: "USE_GLOBAL"
+				entity_vis_offset_x: 0.0f
+				entity_vis_offset_y: 0.0f
+				entity_vis_rotation: 0.0f
+				entity_vis_silhouette_mode: "NONE"
+				entity_vis_size: 1.0f
+				entity_vis_spin_mode: "USE_GLOBAL"
+				entity_vis_use_as_quest_icon: false
+				entity_vis_walk_mode: "USE_GLOBAL"
+				icon: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "dodosmobs:amalgam_claws"
+					tag: {
+						Damage: 0
+					}
+				}
+				id: "35EA5B7B2C23F17C"
+				type: "kill"
+				value: 1L
+			}]
+			x: -1.0d
+			y: -1.5d
+		}
+		{
+			description: [
+				"Xem các chương BOSS&r khác của &6 để biết chi tiết"
+				"{entity:eeeabsmobs:immortal ent_size:0.6 off_x:0.0 off_y:0.0 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"
+			]
+			entity_vis_size: 1.0f
+			id: "1B72023B4D5100E5"
+			rewards: [{
+				count: 16
+				id: "7BD7A09336BB2377"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "eeeabsmobs:immortal_ingot"
+				}
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				entity: "eeeabsmobs:immortal"
+				entity_use_tag: false
+				entity_vis_idle_mode: "USE_GLOBAL"
+				entity_vis_offset_x: 0.0f
+				entity_vis_offset_y: 0.0f
+				entity_vis_rotation: 0.0f
+				entity_vis_silhouette_mode: "NONE"
+				entity_vis_size: 1.0f
+				entity_vis_spin_mode: "USE_GLOBAL"
+				entity_vis_use_as_quest_icon: false
+				entity_vis_walk_mode: "USE_GLOBAL"
+				icon: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "eeeabsmobs:ghost_warrior_helmet"
+					tag: {
+						CodeAddFlag: 1b
+						Damage: 0
+						Unbreakable: 1b
+					}
+				}
+				id: "6682F8D5B4D5C587"
+				type: "kill"
+				value: 1L
+			}]
+			x: 1.0d
+			y: -0.5d
+		}
+		{
+			description: [
+				"Con trỏ phiêu lưu tìm kiếm tên BOSS"
+				"Kích thước: Thế giới bên kia"
+				"Yêu cầu &b băng xanh &r triệu hồi bàn thờ nhấp chuột phải"
+				"&8&o[Bàn thờ sẽ tự động phục hồi sau khi giết và thử thách có thể được lặp lại]&r&r"
+				"{entity:monsterexpansion:leivekilth ent_size:0.6 off_x:0.0 off_y:0.0 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"
+			]
+			entity_vis_size: 1.0f
+			id: "16C204CECB8DBC28"
+			rewards: [
+				{
+					id: "3E7DE88C973A444E"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "dungeons_and_combat:cryolite_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "12B9C5F95B8574EE"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "dungeons_and_combat:cryolite_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "77D322C52316CC2F"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "dungeons_and_combat:cryolite_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "56CE8544BB740713"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "dungeons_and_combat:cryolite_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					count: 32
+					id: "0FEDF30517711423"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:diamond"
+					}
+					type: "item"
+				}
+			]
+			shape: "diamond"
+			tasks: [{
+				entity: "monsterexpansion:leivekilth"
+				entity_use_tag: false
+				entity_vis_idle_mode: "USE_GLOBAL"
+				entity_vis_offset_x: 0.0f
+				entity_vis_offset_y: 0.0f
+				entity_vis_rotation: 0.0f
+				entity_vis_silhouette_mode: "NONE"
+				entity_vis_size: 1.0f
+				entity_vis_spin_mode: "USE_GLOBAL"
+				entity_vis_use_as_quest_icon: false
+				entity_vis_walk_mode: "USE_GLOBAL"
+				icon: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "monsterexpansion:hoarfrost_shard"
+				}
+				id: "1DE50E15AF2B3B26"
+				type: "kill"
+				value: 1L
+			}]
+			x: -2.0d
+			y: -1.5d
+		}
+		{
+			description: [
+				"Chương quái vật huyền thoại"
+				"Kích thước: Thế giới bên kia"
+				"Cấu trúc: Lật đổ triều đại"
+				"{entity:legendary_monsters:posessed_paladin ent_size:0.6 off_x:0.0 off_y:0.0 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"
+			]
+			entity_vis_size: 1.0f
+			id: "646F2534443AC7A1"
+			rewards: [
+				{
+					id: "48ADCB24F9B676EE"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "dungeons_and_combat:wolf_steel_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "1B9232182A8E30EF"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "dungeons_and_combat:wolf_steel_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "44E519744449BA38"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "dungeons_and_combat:wolf_steel_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5DF2AB670BF22E11"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "dungeons_and_combat:wolf_steel_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "164F11A5D3F55C31"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:netherite_ingot"
+					}
+					type: "item"
+				}
+			]
+			shape: "diamond"
+			tasks: [{
+				entity: "legendary_monsters:posessed_paladin"
+				entity_use_tag: false
+				entity_vis_idle_mode: "USE_GLOBAL"
+				entity_vis_offset_x: 0.0f
+				entity_vis_offset_y: 0.0f
+				entity_vis_rotation: 0.0f
+				entity_vis_silhouette_mode: "NONE"
+				entity_vis_size: 1.0f
+				entity_vis_spin_mode: "USE_GLOBAL"
+				entity_vis_use_as_quest_icon: false
+				entity_vis_walk_mode: "USE_GLOBAL"
+				icon: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "legendary_monsters:soul_great_sword"
+					tag: {
+						Damage: 0
+					}
+				}
+				id: "6ECB417166D74571"
+				type: "kill"
+				value: 1L
+			}]
+			x: 2.0d
+			y: -0.5d
+		}
+		{
+			description: [
+				"Kích thước: Thế giới bên kia"
+				"Cấu trúc: Cửa thiên tai"
+				"{entity:nightfall_invade:arterius ent_size:0.4 off_x:0.0 off_y:0.0 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"
+			]
+			entity_vis_size: 1.0f
+			id: "57838C3AD1AE8547"
+			rewards: [{
+				count: 10
+				id: "4D65B635B39FD59A"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "enchanlownew:paper_skill_high"
+				}
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				entity: "nightfall_invade:arterius"
+				entity_use_tag: false
+				entity_vis_idle_mode: "USE_GLOBAL"
+				entity_vis_offset_x: 0.0f
+				entity_vis_offset_y: 0.0f
+				entity_vis_rotation: 0.0f
+				entity_vis_silhouette_mode: "NONE"
+				entity_vis_size: 1.0f
+				entity_vis_spin_mode: "USE_GLOBAL"
+				entity_vis_use_as_quest_icon: false
+				entity_vis_walk_mode: "USE_GLOBAL"
+				icon: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "efn:duskfire_helmet"
+					tag: {
+						itemModifier: "modifiers:warding"
+					}
+				}
+				id: "076B2BA6F0575C36"
+				type: "kill"
+				value: 1L
+			}]
+			x: -2.0d
+			y: -0.5d
+		}
+		{
+			description: [
+				"Con trỏ phiêu lưu tìm kiếm tên BOSS"
+				"Kích thước: Thế giới bên kia"
+				"Yêu cầu triệu hồi bàn thờ bằng đá sa thạch chạm khắc &b &r nhấp chuột phải vào bàn thờ"
+				"&8&o[Bàn thờ sẽ tự động phục hồi sau khi giết và thử thách có thể được lặp lại]&r&r"
+				""
+				"{entity:monsterexpansion:rakoth ent_size:0.5 off_x:0.0 off_y:0.0 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"
+			]
+			entity_vis_size: 1.0f
+			id: "6AEA246D73E5DCF6"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s puffish_skills:combat 3"
+					elevate_perms: true
+					icon: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "dummmmmmy:target_dummy"
+					}
+					id: "73BABE897A7EB197"
+					title: "Đạt được 3 điểm kỹ năng"
+					type: "command"
+				}
+				{
+					count: 5
+					id: "47B6D28F96B976C2"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "enchanlownew:paper_skill_high"
+					}
+					type: "item"
+				}
+			]
+			shape: "diamond"
+			tasks: [{
+				entity: "monsterexpansion:rakoth"
+				entity_use_tag: false
+				entity_vis_idle_mode: "USE_GLOBAL"
+				entity_vis_offset_x: 0.0f
+				entity_vis_offset_y: 0.0f
+				entity_vis_rotation: 0.0f
+				entity_vis_silhouette_mode: "NONE"
+				entity_vis_size: 1.0f
+				entity_vis_spin_mode: "USE_GLOBAL"
+				entity_vis_use_as_quest_icon: false
+				entity_vis_walk_mode: "USE_GLOBAL"
+				icon: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+						"monsterexpansion:monster_armor": {
+							ICE: -3
+						}
+					}
+					id: "monsterexpansion:rakoth_chestplate"
+					tag: {
+						Damage: 0
+						itemModifier: "modifiers:hasty"
+					}
+				}
+				id: "1EB7F38EBFF34B83"
+				type: "kill"
+				value: 1L
+			}]
+			x: 0.0d
+			y: -2.5d
+		}
+		{
+			description: [
+				"Chương Sự trỗi dậy của Overlord"
+				""
+				"Kích thước: Thế giới bên kia"
+				"Kết cấu: Tàu Kraken"
+				"Yêu cầu vũ khí tầm xa"
+				"{entity:block_factorys_bosses:kraken ent_size:0.5 off_x:0.0 off_y:0.0 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"
+			]
+			entity_vis_size: 1.0f
+			id: "0E7479CB42DF291F"
+			rewards: [
+				{
+					count: 32
+					id: "2FB2409814ADE465"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:emerald_block"
+					}
+					type: "item"
+				}
+				{
+					count: 8
+					id: "371F905ADFB6639F"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:diamond_block"
+					}
+					type: "item"
+				}
+			]
+			shape: "diamond"
+			tasks: [{
+				advancement: "block_factorys_bosses:kill_kraken"
+				criterion: ""
+				id: "0A762508FF5E9E43"
+				title: "Giết chết: 1xKraken"
+				type: "advancement"
+			}]
+			title: "Giết chết: 1xKraken"
+			x: 1.0d
+			y: -1.5d
+		}
+		{
+			description: [
+				"Chương quái vật huyền thoại"
+				"Kích thước: Kết thúc"
+				"Cấu trúc: Trạm vũ trụ hủy diệt"
+				"{entity:legendary_monsters:the_obliterator ent_size:0.6 off_x:0.0 off_y:0.0 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "legendary_monsters:annihilator_helmet"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "44924491393CEFDE"
+			shape: "diamond"
+			tasks: [{
+				entity: "legendary_monsters:the_obliterator"
+				entity_use_tag: false
+				entity_vis_idle_mode: "USE_GLOBAL"
+				entity_vis_offset_x: 0.0f
+				entity_vis_offset_y: 0.0f
+				entity_vis_rotation: 0.0f
+				entity_vis_silhouette_mode: "NONE"
+				entity_vis_size: 1.0f
+				entity_vis_spin_mode: "USE_GLOBAL"
+				entity_vis_use_as_quest_icon: false
+				entity_vis_walk_mode: "USE_GLOBAL"
+				icon: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "legendary_monsters:annihilator_helmet"
+					tag: {
+						Damage: 0
+					}
+				}
+				id: "2C7069B571075115"
+				type: "kill"
+				value: 1L
+			}]
+			x: 0.0d
+			y: -0.5d
+		}
+		{
+			description: [
+				"Kích thước: Thế giới bên kia"
+				"Cấu trúc: Nhà thờ cổ"
+				"{entity:nightfall_invade:scarlet_hunter ent_size:0.6 off_x:0.0 off_y:0.0 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "efn:crimson_moon"
+				tag: {
+					itemModifier: "modifiers:sharp"
+				}
+			}
+			id: "136ACD4900620C7F"
+			shape: "diamond"
+			tasks: [{
+				entity: "nightfall_invade:scarlet_hunter"
+				entity_use_tag: false
+				entity_vis_idle_mode: "USE_GLOBAL"
+				entity_vis_offset_x: 0.0f
+				entity_vis_offset_y: 0.0f
+				entity_vis_rotation: 0.0f
+				entity_vis_silhouette_mode: "NONE"
+				entity_vis_size: 1.0f
+				entity_vis_spin_mode: "USE_GLOBAL"
+				entity_vis_use_as_quest_icon: false
+				entity_vis_walk_mode: "USE_GLOBAL"
+				icon: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "efn:crimson_moon"
+					tag: {
+						itemModifier: "modifiers:sharp"
+					}
+				}
+				id: "1EF21B9CCCFCDC90"
+				type: "kill"
+				value: 1L
+			}]
+			x: -1.0d
+			y: -0.5d
+		}
+		{
+			description: [
+				"Cấu trúc: Thor Chiều không gian: Thế giới bên kia"
+				"Nhận Búa của Thor:"
+				"Sau khi đánh bại Thor, hãy tiến tới Structure: Quake Hideout"
+				"{entity:mythical_weaponry:boss_thor ent_size:0.6 off_x:0.0 off_y:0.0 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"
+			]
+			entity_vis_size: 1.0f
+			id: "2789C17E5F002354"
+			rewards: [
+				{
+					id: "328206A325F7DE82"
+					type: "xp_levels"
+					xp_levels: 20
+				}
+				{
+					id: "73F69B21892F09A8"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:nether_star"
+					}
+					type: "item"
+				}
+			]
+			shape: "diamond"
+			tasks: [{
+				entity: "mythical_weaponry:boss_thor"
+				entity_use_tag: false
+				entity_vis_idle_mode: "USE_GLOBAL"
+				entity_vis_offset_x: 0.0f
+				entity_vis_offset_y: 0.0f
+				entity_vis_rotation: 0.0f
+				entity_vis_silhouette_mode: "NONE"
+				entity_vis_size: 1.0f
+				entity_vis_spin_mode: "USE_GLOBAL"
+				entity_vis_use_as_quest_icon: false
+				entity_vis_walk_mode: "USE_GLOBAL"
+				icon: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "mythical_weaponry:thor_helmet"
+					tag: {
+						Damage: 0
+					}
+				}
+				id: "2EC8E167CF13F66C"
+				type: "kill"
+				value: 1L
+			}]
+			x: 3.0d
+			y: -3.5d
+		}
+		{
+			description: [
+				"Kích thước: Cấu trúc thế giới ngầm: Mật mã ma cà rồng/Pháo đài ma cà rồng"
+				"Thu thập các mảnh móng vàng &e &r để tổng hợp móng vuốt vàng &e"
+				"{entity:mebahelcreaturesdraugr:draugr_overlord ent_size:0.6 off_x:0.0 off_y:0.0 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"
+			]
+			entity_vis_size: 1.0f
+			id: "49D4E68E0E816BD9"
+			rewards: [
+				{
+					count: 2
+					id: "5DAE6D02AA918AF5"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:netherite_ingot"
+					}
+					type: "item"
+				}
+				{
+					id: "41E35CD127294774"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "realmrpg_quests:ring_of_wind_lesser"
+					}
+					type: "item"
+				}
+				{
+					command: "/puffish_skills points add @s puffish_skills:combat 3"
+					elevate_perms: true
+					icon: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "dummmmmmy:target_dummy"
+					}
+					id: "7C834A0D579DE398"
+					silent: true
+					title: "Đạt được 3 điểm kỹ năng"
+					type: "command"
+				}
+			]
+			shape: "diamond"
+			tasks: [{
+				entity: "mebahelcreaturesdraugr:draugr_overlord"
+				entity_use_tag: false
+				entity_vis_idle_mode: "USE_GLOBAL"
+				entity_vis_offset_x: 0.0f
+				entity_vis_offset_y: 0.0f
+				entity_vis_rotation: 0.0f
+				entity_vis_silhouette_mode: "NONE"
+				entity_vis_size: 1.0f
+				entity_vis_spin_mode: "USE_GLOBAL"
+				entity_vis_use_as_quest_icon: false
+				entity_vis_walk_mode: "USE_GLOBAL"
+				icon: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "mebahelcreaturesdraugr:spawn_egg/draugr_overlord_spawn_egg"
+				}
+				id: "2C69FDE9DC114B0C"
+				type: "kill"
+				value: 1L
+			}]
+			x: -7.0d
+			y: -3.5d
+		}
+		{
+			description: [
+				"Chế tạo vật phẩm "Xấu hổ vì tội lỗi""
+				"Nhấp chuột phải để vào kích thước BOSS"
+				"{entity:the_faint_radiance:lychnus ent_size:1.0 off_x:0.0 off_y:0.0 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"
+			]
+			entity_vis_size: 1.0f
+			id: "47AE39E0521CC270"
+			rewards: [
+				{
+					count: 5
+					id: "70B323C917232F5F"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "enchanlownew:paper_ring_high"
+						tag: { }
+					}
+					type: "item"
+				}
+				{
+					count: 5
+					id: "420C45AD184D7B1B"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "enchanlownew:paper_skill_high"
+						tag: { }
+					}
+					type: "item"
+				}
+				{
+					count: 8
+					id: "76ED5E983646189C"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:diamond_block"
+						tag: { }
+					}
+					type: "item"
+				}
+			]
+			shape: "diamond"
+			tasks: [{
+				entity: "the_faint_radiance:lychnus"
+				entity_use_tag: false
+				entity_vis_idle_mode: "USE_GLOBAL"
+				entity_vis_offset_x: 0.0f
+				entity_vis_offset_y: 0.0f
+				entity_vis_rotation: 0.0f
+				entity_vis_silhouette_mode: "NONE"
+				entity_vis_size: 1.0f
+				entity_vis_spin_mode: "USE_GLOBAL"
+				entity_vis_use_as_quest_icon: false
+				entity_vis_walk_mode: "USE_GLOBAL"
+				icon: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "legionary:golden_lantern"
+				}
+				id: "22D2F4D33303F28B"
+				type: "kill"
+				value: 1L
+			}]
+			x: 3.0d
+			y: -0.5d
+		}
+		{
+			description: [
+				"Kích thước: Thế giới ngầm (ngầm)"
+				"Cấu trúc: Redstone Behemoth-Fireforge"
+				"{entity:minecraftdungeons:redstone_monstrosity ent_size:0.6 off_x:0.0 off_y:0.0 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"
+			]
+			entity_vis_size: 1.0f
+			id: "6CE7338FD1A8D77B"
+			rewards: [
+				{
+					count: 64
+					id: "0325BA153BD16A3A"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:redstone_block"
+						tag: { }
+					}
+					type: "item"
+				}
+				{
+					count: 64
+					id: "64F4FE15D472B713"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:iron_ingot"
+						tag: { }
+					}
+					type: "item"
+				}
+				{
+					id: "0C34E9A288647CD0"
+					type: "xp_levels"
+					xp_levels: 20
+				}
+				{
+					id: "53AB91E7C2948E87"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:nether_star"
+						tag: { }
+					}
+					type: "item"
+				}
+			]
+			shape: "diamond"
+			tasks: [{
+				entity: "minecraftdungeons:redstone_monstrosity"
+				entity_use_tag: false
+				entity_vis_idle_mode: "USE_GLOBAL"
+				entity_vis_offset_x: 0.0f
+				entity_vis_offset_y: 0.0f
+				entity_vis_rotation: 0.0f
+				entity_vis_silhouette_mode: "NONE"
+				entity_vis_size: 1.0f
+				entity_vis_spin_mode: "USE_GLOBAL"
+				entity_vis_use_as_quest_icon: false
+				entity_vis_walk_mode: "USE_GLOBAL"
+				icon: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "minecraftdungeons:remote_redstone_receiver"
+					tag: { }
+				}
+				id: "1F059C99C2E05CCB"
+				type: "kill"
+				value: 1L
+			}]
+			x: -3.0d
+			y: -3.5d
+		}
+		{
+			description: [
+				"Kích thước: Thế giới bên kia"
+				"Cấu trúc: Ngôi chùa một sa mạc vô danh"
+				"{entity:minecraftdungeons:nameless_one ent_size:0.6 off_x:0.0 off_y:0.0 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "minecraftdungeons:radiant_crystal"
+				tag: { }
+			}
+			id: "5F1C5D50E0BD19EF"
+			rewards: [
+				{
+					count: 64
+					id: "3E54458C26333E51"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:emerald"
+						tag: { }
+					}
+					type: "item"
+				}
+				{
+					id: "3B8B515CBBAE000A"
+					type: "xp_levels"
+					xp_levels: 15
+				}
+			]
+			shape: "diamond"
+			tasks: [{
+				entity: "minecraftdungeons:nameless_one"
+				entity_use_tag: false
+				entity_vis_idle_mode: "USE_GLOBAL"
+				entity_vis_offset_x: 0.0f
+				entity_vis_offset_y: 0.0f
+				entity_vis_rotation: 0.0f
+				entity_vis_silhouette_mode: "NONE"
+				entity_vis_size: 1.0f
+				entity_vis_spin_mode: "USE_GLOBAL"
+				entity_vis_use_as_quest_icon: false
+				entity_vis_walk_mode: "USE_GLOBAL"
+				icon: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "minecraftdungeons:radiant_crystal"
+					tag: { }
+				}
+				id: "1B608192726DD3FD"
+				type: "kill"
+				value: 1L
+			}]
+			x: -3.0d
+			y: -2.5d
+		}
+		{
+			description: [
+				"Kích thước: Thế giới bên kia"
+				"Cấu trúc: Ngôi làng bị hỏng vạc quái vật"
+				"&o&7 (được kích hoạt bằng cách đi đến giữa bãi cỏ với hai cây cột lò than)&r&r"
+				"{entity:minecraftdungeons:corrupted_cauldron ent_size:0.6 off_x:0.0 off_y:0.0 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "minecraftdungeons:cauldron_ladle"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "1C992C825A3D399E"
+			rewards: [{
+				id: "554E65704AC2CB04"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "relics:magic_mirror"
+					tag: {
+						abilities: {
+							teleport: {
+								points: 0
+								stats: {
+									cooldown: 201.90216d
+									distance: 1787.13155d
+								}
+							}
+						}
+					}
+				}
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				entity: "minecraftdungeons:corrupted_cauldron"
+				entity_use_tag: false
+				entity_vis_idle_mode: "USE_GLOBAL"
+				entity_vis_offset_x: 0.0f
+				entity_vis_offset_y: 0.0f
+				entity_vis_rotation: 0.0f
+				entity_vis_silhouette_mode: "NONE"
+				entity_vis_size: 1.0f
+				entity_vis_spin_mode: "USE_GLOBAL"
+				entity_vis_use_as_quest_icon: false
+				entity_vis_walk_mode: "USE_GLOBAL"
+				icon: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "minecraftdungeons:cauldron_ladle"
+					tag: {
+						Damage: 0
+					}
+				}
+				id: "3EF8BDA6FD6CCE37"
+				type: "kill"
+				value: 1L
+			}]
+			x: -2.0d
+			y: -3.5d
+		}
+		{
+			description: [
+				"Kích thước: Thế giới bên kia"
+				"Cấu trúc: Đền Herobrine"
+				"&o&7 (Nếu ở quá xa và không thể tìm thấy, trước tiên hãy tạo một chiếc la bàn tôn nghiêm để xác định hướng) &r&r"
+				"Sử dụng đá lửa &b và thép &r chuột phải vào hòn đá địa ngục để triệu hồi BOSS"
+				"Đặt lại vị trí theo chiều dọc ở trung tâm của ngôi đền"
+				"[&e Nugget vàng giả &r*2+&eHerobrine Totem &r+&e Nether Rock"
+				"&7&o (Để thay đổi màn chơi, bạn cần phá vỡ quả cầu lửa để gây sát thương nổ)&r&r"
+				"{entity:naraka:herobrine ent_size:0.6 off_x:0.0 off_y:0.0 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "naraka:god_blood"
+				tag: { }
+			}
+			id: "0A34375CE7BC437F"
+			rewards: [
+				{
+					id: "30B08D6780401D34"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "naraka:naraka_pickaxe"
+						tag: {
+							itemModifier: "modifiers:light"
+						}
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "690A5DB3AE2608BD"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "naraka:imitation_gold_block"
+						tag: { }
+					}
+					type: "item"
+				}
+				{
+					id: "42ACAC1A0D78C501"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "naraka:herobrine_totem"
+						tag: { }
+					}
+					type: "item"
+				}
+				{
+					id: "39F9498E9D7A90DA"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:netherrack"
+						tag: { }
+					}
+					type: "item"
+				}
+			]
+			shape: "diamond"
+			tasks: [
+				{
+					entity: "naraka:herobrine"
+					entity_use_tag: false
+					entity_vis_idle_mode: "USE_GLOBAL"
+					entity_vis_offset_x: 0.0f
+					entity_vis_offset_y: 0.0f
+					entity_vis_rotation: 0.0f
+					entity_vis_silhouette_mode: "NONE"
+					entity_vis_size: 1.0f
+					entity_vis_spin_mode: "USE_GLOBAL"
+					entity_vis_use_as_quest_icon: false
+					entity_vis_walk_mode: "USE_GLOBAL"
+					icon: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "naraka:god_blood"
+						tag: { }
+					}
+					id: "6CAB33535FF4F7EC"
+					type: "kill"
+					value: 1L
+				}
+				{
+					id: "379C67B4A9FCBFC2"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "naraka:sanctuary_compass"
+						tag: {
+							SanctuaryPosition: {
+								X: 8080
+								Y: 0
+								Z: 23232
+							}
+						}
+					}
+					type: "item"
+				}
+			]
+			x: 4.0d
+			y: -0.5d
+		}
+		{
+			description: [
+				"Kích thước: Thế giới bên kia"
+				"Cấu trúc: Đốt lông chim"
+				"{entity:monsterexpansion:ignathos ent_size:0.4 off_x:0.0 off_y:0.0 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "monsterexpansion:ignathos_feather"
+				tag: { }
+			}
+			id: "3DAFBD32E795E710"
+			rewards: [
+				{
+					count: 16
+					id: "285D645358A37D29"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:gold_block"
+						tag: { }
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "456B343867163A2E"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "enchanlownew:paper_skill_high"
+						tag: { }
+					}
+					type: "item"
+				}
+			]
+			shape: "diamond"
+			tasks: [{
+				entity: "monsterexpansion:ignathos"
+				entity_use_tag: false
+				entity_vis_idle_mode: "USE_GLOBAL"
+				entity_vis_offset_x: 0.0f
+				entity_vis_offset_y: 0.0f
+				entity_vis_rotation: 0.0f
+				entity_vis_silhouette_mode: "NONE"
+				entity_vis_size: 1.0f
+				entity_vis_spin_mode: "USE_GLOBAL"
+				entity_vis_use_as_quest_icon: false
+				entity_vis_walk_mode: "USE_GLOBAL"
+				icon: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "monsterexpansion:ignathos_feather"
+					tag: { }
+				}
+				id: "04FCF81321818624"
+				type: "kill"
+				value: 1L
+			}]
+			x: 0.0d
+			y: -3.5d
+		}
+		{
+			description: [
+				"Kích thước: Thế giới bên kia"
+				"Kết cấu: Bàn Thờ Phong Lan"
+				"Tổng hợp &e Orchid Heart&r để triệu hồi BOSS"
+				"{entity:oddities:queen_of_orchid ent_size:0.6 off_x:0.0 off_y:0.0 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"
+			]
+			entity_vis_size: 1.0f
+			id: "5E41A7AF12C1927F"
+			rewards: [
+				{
+					count: 3
+					id: "3B0AAA5E15B1BBC1"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "enchanlownew:paper_skill_high"
+					}
+					type: "item"
+				}
+				{
+					id: "19CC539586ABFC59"
+					type: "xp_levels"
+					xp_levels: 16
+				}
+			]
+			shape: "diamond"
+			tasks: [{
+				entity: "oddities:queen_of_orchid"
+				entity_use_tag: false
+				entity_vis_idle_mode: "USE_GLOBAL"
+				entity_vis_offset_x: 0.0f
+				entity_vis_offset_y: 0.0f
+				entity_vis_rotation: 0.0f
+				entity_vis_silhouette_mode: "NONE"
+				entity_vis_size: 1.0f
+				entity_vis_spin_mode: "USE_GLOBAL"
+				entity_vis_use_as_quest_icon: false
+				entity_vis_walk_mode: "USE_GLOBAL"
+				icon: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "oddities:orchid_heart"
+				}
+				id: "402C0973FB9EE74E"
+				type: "kill"
+				value: 1L
+			}]
+			x: 1.0d
+			y: -3.5d
+		}
+		{
+			description: [
+				"Kích thước: Nether"
+				"Tìm Cấu Trúc: Bàn Thờ Máu"
+				"BOSS: Pháp sư xác chết"
+				"{entity:eeeabsmobs:corpse_warlock ent_size:0.6 off_x:0.0 off_y:0.0 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"
+			]
+			entity_vis_size: 1.0f
+			id: "7D1825BEEBF85B47"
+			rewards: [{
+				command: "/curios add charm @s"
+				elevate_perms: true
+				icon: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "itemfilters:custom"
+				}
+				id: "4C6ED9D051A3FD35"
+				team_reward: false
+				title: "Nhận được 1 ô bùa bùa"
+				type: "command"
+			}]
+			shape: "diamond"
+			tasks: [{
+				disable_toast: true
+				entity: "eeeabsmobs:corpse_warlock"
+				entity_use_tag: false
+				entity_vis_idle_mode: "USE_GLOBAL"
+				entity_vis_offset_x: 0.0f
+				entity_vis_offset_y: 0.0f
+				entity_vis_rotation: 0.0f
+				entity_vis_silhouette_mode: "NONE"
+				entity_vis_size: 1.0f
+				entity_vis_spin_mode: "USE_GLOBAL"
+				entity_vis_use_as_quest_icon: false
+				entity_vis_walk_mode: "USE_GLOBAL"
+				icon: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "eeeabsmobs:soul_summon_necklace"
+				}
+				id: "07B7B2AB5036891B"
+				type: "kill"
+				value: 1L
+			}]
+			x: -7.0d
+			y: -2.5d
+		}
+		{
+			description: [
+				"Không gian: [Thế giới chính] Dưới lòng đất"
+				""
+				"Tìm cấu trúc: Tiền đồn lõi máy"
+				"BOSS: Bảo vệ vương quốc"
+				"{entity:eeeabsmobs:realm_warden ent_size:0.6 off_x:0.0 off_y:0.0 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"
+			]
+			entity_vis_size: 1.0f
+			id: "40BDA0AB0F39E171"
+			rewards: [
+				{
+					count: 6
+					id: "0487BFE0315D46AA"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:netherite_ingot"
+					}
+					type: "item"
+				}
+				{
+					id: "7FC0BCF72B4292DF"
+					type: "xp_levels"
+					xp_levels: 12
+				}
+			]
+			shape: "diamond"
+			tasks: [{
+				entity: "eeeabsmobs:realm_warden"
+				entity_use_tag: false
+				entity_vis_idle_mode: "USE_GLOBAL"
+				entity_vis_offset_x: 0.0f
+				entity_vis_offset_y: 0.0f
+				entity_vis_rotation: 0.0f
+				entity_vis_silhouette_mode: "NONE"
+				entity_vis_size: 1.0f
+				entity_vis_spin_mode: "USE_GLOBAL"
+				entity_vis_use_as_quest_icon: false
+				entity_vis_walk_mode: "USE_GLOBAL"
+				icon: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "eeeabsmobs:doombolt_battleaxe"
+					tag: {
+						Damage: 0
+						IMFgem: "core"
+					}
+				}
+				id: "4998163713CCB771"
+				type: "kill"
+				value: 1L
+			}]
+			x: 2.0d
+			y: -1.5d
+		}
+		{
+			description: [
+				"Trao đổi vật phẩm &b [Thử thách triệu hồi] Chương &r"
+				"Đổi giấy triệu tập"
+				"Đi đến Triệu hồi Kích thước Đấu trường"
+				""
+				"{entity:eeeabsmobs:nameless_guardian ent_size:0.6 off_x:0.0 off_y:0.0 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "eeeabsmobs:guardian_core"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "687D2E2912A2CC2F"
+			rewards: [
+				{
+					count: 6
+					id: "6A49B5C7BB065D20"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:netherite_ingot"
+					}
+					type: "item"
+				}
+				{
+					id: "42BA62E11923FE7B"
+					type: "xp_levels"
+					xp_levels: 12
+				}
+			]
+			shape: "diamond"
+			tasks: [{
+				entity: "eeeabsmobs:nameless_guardian"
+				entity_use_tag: false
+				entity_vis_idle_mode: "USE_GLOBAL"
+				entity_vis_offset_x: 0.0f
+				entity_vis_offset_y: 0.0f
+				entity_vis_rotation: 0.0f
+				entity_vis_silhouette_mode: "NONE"
+				entity_vis_size: 1.0f
+				entity_vis_spin_mode: "USE_GLOBAL"
+				entity_vis_use_as_quest_icon: false
+				entity_vis_walk_mode: "USE_GLOBAL"
+				icon: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "eeeabsmobs:guardian_core"
+					tag: {
+						Damage: 0
+					}
+				}
+				id: "7F5EFECEFC90163A"
+				type: "kill"
+				value: 1L
+			}]
+			x: 0.0d
+			y: -1.5d
+		}
+	]
+	title: "Danh sách BOSS"
+}

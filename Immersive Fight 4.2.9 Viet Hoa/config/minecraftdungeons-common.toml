@@ -1,0 +1,35 @@
+
+["Arch Illager"]
+	#When the Arch-Illager uses the line summon attack. Summons 20 Illagers. Preferably put ranged Illagers in this list.
+	lineSummons = ["minecraft:pillager"]
+	#When the Arch-Illager uses the circle summon attack. Summons between 10 and 16 Illagers. Preferably put melee Illagers in this list.
+	circleSummons = ["minecraft:vindicator"]
+	#When the Arch-Illager uses the special summon attack. Summons 4 Illagers. Preferably put more powerful Illagers in this list.
+	specialSummons = ["minecraft:evoker", "minecraftdungeons:wind_caller", "minecraftdungeons:iceologer", "minecraftdungeons:royal_guard", "minecraftdungeons:geomancer"]
+	#When the Arch-Illager uses the single summon attack. Summons 1 powerful mob. Preferably put powerful golems or Illagers in this list.
+	strongSummons = ["minecraftdungeons:redstone_golem"]
+
+[Monstrosities]
+	#How many projectiles are fired during the Scatter Bomb in Phase 1. Phase 2 doubles projectile count, so keep that in mind.
+	#Range: 1 ~ 200
+	redstoneMonstrosityProjectileCount = 8
+	#How many projectiles are fired during the Scatter Bomb attack.
+	#Range: 1 ~ 200
+	obsidianMonstrosityProjectileCount = 12
+	#How many mushroom rockets are fired during the Rocket attack. Keep in mind rocket count is actually 1 more than the value you put in.
+	#Range: 1 ~ 200
+	mooshroomMonstrosityRocketCount = 8
+	#How many Vindicators are summoned by the Arch-Illager during the Obsidian Monstrosity fight.
+	#Range: 1 ~ 100
+	vindicatorCount = 10
+
+[Raids]
+	windCaller = [0, 0, 0, 0, 0, 0, 0, 0]
+	geomancer = [0, 0, 0, 0, 0, 0, 0, 0]
+	iceologer = [0, 0, 0, 0, 0, 0, 0, 0]
+	royalGuard = [0, 0, 0, 0, 0, 0, 0, 0]
+	mountaineer = [0, 0, 0, 0, 0, 0, 0, 0]
+	squallGolem = [0, 0, 0, 0, 0, 0, 0, 0]
+	redstoneGolem = [0, 0, 0, 0, 0, 0, 0, 0]
+	giantRoyalGuard = [0, 0, 0, 0, 0, 0, 0, 0]
+

@@ -1,0 +1,27 @@
+
+[gameplay]
+	#Extra Saint's Dragons griefing toggle layered on top of the vanilla mobGriefing gamerule.
+	#If false, dragon-caused block destruction is disabled even when mobGriefing is true.
+	dragonGriefingEnabled = false
+	#Whether Ignivorus and Cindervane attacks may place fire blocks. Also requires dragonGriefingEnabled and the vanilla mobGriefing gamerule.
+	fireDragonBlockIgnitionEnabled = false
+	#Global toggle for dragon and ability-driven screen shake effects.
+	screenShakeEnabled = true
+	#Global toggle for rider-triggered barrel roll on flying dragons.
+	barrelRollEnabled = true
+	#Global toggle for Stegonaut passive aura buffs and portable binder buffs.
+	stegonautBuffsEnabled = true
+	#Server-authoritative toggle for dragon breeding. If false, players cannot ready dragons for breeding and dragons cannot produce eggs.
+	dragonBreedingEnabled = true
+	#Global toggle for tame dragon hunger decay.
+	hungerDecayEnabled = false
+	#Global toggle for tame dragon happiness decay.
+	happinessDecayEnabled = false
+	#Whether players receive the one-time Saint's Dragons wiki reminder when joining a world.
+	wikiReminderEnabled = false
+
+[ivy]
+	#Ticks between Ivy's trade restocks (20 ticks = 1 second, 24000 = 20 minutes).
+	#Range: 20 ~ 72000
+	ivyRestockInterval = 12000
+

@@ -1,0 +1,21 @@
+{
+  "entity.the_faint_radiance.holy": "Holy-sword",
+  "effect.the_faint_radiance.penitence": "Penitence",
+  "advancements.blasphemy.title": "On the path of blasphemy",
+  "death.attack.gleam.item": "%1$s was put to rest by %2$s using %3$s",
+  "entity.the_faint_radiance.lychnus": "Lychnus",
+  "item.the_faint_radiance.shapeofsin": "Shape of sin ",
+  "death.attack.absolute_radiance.player": "%1$s ascended to heaven",
+  "death.attack.gleam": "%1$s went to rest",
+  "item.the_faint_radiance.lychnus_spawn_egg": "Lychnus Spawn Egg",
+  "item.the_faint_radiance.shapeofsin.description_0": "...",
+  "subtitles.choir": "",
+  "entity.the_faint_radiance.radiance": "?",
+  "death.attack.absolute_radiance.item": "%1$s ascended to heaven",
+  "subtitles.spread": "",
+  "entity.the_faint_radiance.quake": "Quake",
+  "death.attack.absolute_radiance": "%1$s ascended to heaven",
+  "death.attack.gleam.player": "%1$s ascended to heaven",
+  "advancements.blasphemy.descr": "Will you make it to the end?",
+  "biome.the_faint_radiance.bright": "Bright"
+}

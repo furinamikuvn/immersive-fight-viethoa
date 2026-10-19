@@ -1,0 +1,5517 @@
+{
+  "biome.biomeswevegone.black_forest": {
+    "en": "Black Forest",
+    "zh": "黑木林",
+    "vi": "rừng gỗ đen"
+  },
+  "biome.biomeswevegone.cika_woods": {
+    "en": "Cika Woods",
+    "zh": "锡卡林地",
+    "vi": "Rừng Thika"
+  },
+  "advancements.biomeswevegone.adventure.forgotten_fae.description": {
+    "en": "Find a Pixie Club Music Disc",
+    "zh": "找到名为《精灵俱乐部》的唱片",
+    "vi": null
+  },
+  "advancements.biomeswevegone.adventure.forgotten_fae.title": {
+    "en": "Forgotten Fae",
+    "zh": "被遗忘的仙境",
+    "vi": null
+  },
+  "advancements.biomeswevegone.adventure.inside_quicksand.description": {
+    "en": "Fall into quicksand",
+    "zh": "陷入流沙之中",
+    "vi": null
+  },
+  "advancements.biomeswevegone.adventure.inside_quicksand.title": {
+    "en": "I'm Sinking?",
+    "zh": "身世浮沉雨打萍",
+    "vi": null
+  },
+  "advancements.biomeswevegone.adventure.little_house_on_the_prairie.description": {
+    "en": "Find all the Prairie houses",
+    "zh": "找到所有的原野小屋",
+    "vi": null
+  },
+  "advancements.biomeswevegone.adventure.little_house_on_the_prairie.title": {
+    "en": "Little House on the Prairie",
+    "zh": "在希望的原野上",
+    "vi": null
+  },
+  "advancements.biomeswevegone.adventure.oh_the_biomes_weve_gone.description": {
+    "en": "Explore all of the BWG biomes",
+    "zh": "探索BWG所有的生物群系",
+    "vi": null
+  },
+  "advancements.biomeswevegone.adventure.oh_the_biomes_weve_gone.title": {
+    "en": "Oh The Biomes We've Gone",
+    "zh": "我们走过的生物群系",
+    "vi": null
+  },
+  "advancements.biomeswevegone.adventure.root.description": {
+    "en": "The root of all things BWG adventure",
+    "zh": "我们走过的生物群系冒险体系",
+    "vi": null
+  },
+  "advancements.biomeswevegone.adventure.root.title": {
+    "en": "Adventure",
+    "zh": "冒险",
+    "vi": null
+  },
+  "advancements.biomeswevegone.adventure.true_traveler.description": {
+    "en": "Find all the inhabited BWG Villages",
+    "zh": "找到所有栖息建立在BWG生物群系中的村庄",
+    "vi": null
+  },
+  "advancements.biomeswevegone.adventure.true_traveler.title": {
+    "en": "True Traveler",
+    "zh": "旅行者1号！",
+    "vi": null
+  },
+  "advancements.biomeswevegone.description.root": {
+    "en": "Launch a world with the Oh The Biomes We've Gone",
+    "zh": "创建一个包含 Biome We've Gone 模组内容的世界",
+    "vi": null
+  },
+  "advancements.biomeswevegone.husbandry.berrily_alive.description": {
+    "en": "Obtain Blueberries",
+    "zh": "采集蓝莓",
+    "vi": null
+  },
+  "advancements.biomeswevegone.husbandry.berrily_alive.title": {
+    "en": "Berrily Alive",
+    "zh": "蓝以维继，喜上莓梢",
+    "vi": null
+  },
+  "advancements.biomeswevegone.husbandry.forager.description": {
+    "en": "Obtain White Puffball Caps",
+    "zh": "采集白色马勃菌盖",
+    "vi": null
+  },
+  "advancements.biomeswevegone.husbandry.forager.title": {
+    "en": "Forager",
+    "zh": "采蘑菇的小红帽",
+    "vi": null
+  },
+  "advancements.biomeswevegone.husbandry.forgotten_nostalgia.description": {
+    "en": "Reminds them of a childhood they never got..",
+    "zh": null,
+    "vi": null
+  },
+  "advancements.biomeswevegone.husbandry.forgotten_nostalgia.title": {
+    "en": "Forgotten Nostalgia",
+    "zh": null,
+    "vi": null
+  },
+  "advancements.biomeswevegone.husbandry.granny_smith.description": {
+    "en": "Obtain a Green Apple from the Skyris Vale",
+    "zh": "在天际树林高地收集青苹果",
+    "vi": null
+  },
+  "advancements.biomeswevegone.husbandry.granny_smith.title": {
+    "en": "Granny Smith?",
+    "zh": "苹果奶奶?",
+    "vi": null
+  },
+  "advancements.biomeswevegone.husbandry.hot_diggity_not_dog.description": {
+    "en": "Cook a Cattail on a campfire, you might wanna back away...",
+    "zh": "在营火上烹饪香蒲，但请小心赤焰",
+    "vi": null
+  },
+  "advancements.biomeswevegone.husbandry.hot_diggity_not_dog.title": {
+    "en": "Hot Diggity Not Dog",
+    "zh": "热狗不是狗！",
+    "vi": null
+  },
+  "advancements.biomeswevegone.husbandry.johnny_appleseed.description": {
+    "en": "Find All 3 Apples",
+    "zh": "收集到三种苹果",
+    "vi": null
+  },
+  "advancements.biomeswevegone.husbandry.johnny_appleseed.title": {
+    "en": "Johnny Appleseed",
+    "zh": "先锋人士",
+    "vi": null
+  },
+  "advancements.biomeswevegone.husbandry.just_like_grandmas.description": {
+    "en": "Craft both of the BWG pies.",
+    "zh": "制作全部2种 BWG 的派",
+    "vi": null
+  },
+  "advancements.biomeswevegone.husbandry.just_like_grandmas.title": {
+    "en": "Just Like Grandma's",
+    "zh": "如祖母般心灵手巧",
+    "vi": null
+  },
+  "advancements.biomeswevegone.husbandry.root.description": {
+    "en": "The root of all things BWG husbandry",
+    "zh": "我们走过的生物群系农作体系",
+    "vi": null
+  },
+  "advancements.biomeswevegone.husbandry.root.title": {
+    "en": "Husbandry",
+    "zh": "农业耕作",
+    "vi": null
+  },
+  "advancements.biomeswevegone.title.root": {
+    "en": "Oh The Biomes We've Gone",
+    "zh": "我们走过的生物群系",
+    "vi": null
+  },
+  "biome.biomeswevegone.allium_shrubland": {
+    "en": "Allium Shrubland",
+    "zh": "绒球葱灌丛",
+    "vi": null
+  },
+  "biome.biomeswevegone.amaranth_grassland": {
+    "en": "Amaranth Grassland",
+    "zh": "苋菜花原野",
+    "vi": null
+  },
+  "biome.biomeswevegone.araucaria_savanna": {
+    "en": "Araucaria Savanna",
+    "zh": "热带南洋杉疏林草原",
+    "vi": null
+  },
+  "biome.biomeswevegone.aspen_boreal": {
+    "en": "Aspen Boreal",
+    "zh": "北境白杨森林",
+    "vi": null
+  },
+  "biome.biomeswevegone.atacama_outback": {
+    "en": "Atacama Outback",
+    "zh": "阿塔卡玛旱地",
+    "vi": null
+  },
+  "biome.biomeswevegone.baobab_savanna": {
+    "en": "Baobab Savanna",
+    "zh": "猴面包疏林草原",
+    "vi": null
+  },
+  "biome.biomeswevegone.basalt_barrera": {
+    "en": "Basalt Barrera",
+    "zh": "玄武岩岩障",
+    "vi": null
+  },
+  "biome.biomeswevegone.bayou": {
+    "en": "Bayou",
+    "zh": "长沼",
+    "vi": null
+  },
+  "biome.biomeswevegone.canadian_shield": {
+    "en": "Canadian Shield",
+    "zh": "加拿大地盾",
+    "vi": null
+  },
+  "biome.biomeswevegone.coconino_meadow": {
+    "en": "Coconino Meadow",
+    "zh": "可可尼诺草甸",
+    "vi": null
+  },
+  "biome.biomeswevegone.coniferous_forest": {
+    "en": "Coniferous Forest",
+    "zh": "针叶树林",
+    "vi": null
+  },
+  "biome.biomeswevegone.crag_gardens": {
+    "en": "Crag Gardens",
+    "zh": "峭壁花园",
+    "vi": null
+  },
+  "biome.biomeswevegone.crimson_tundra": {
+    "en": "Crimson Tundra",
+    "zh": "绯红苔原",
+    "vi": null
+  },
+  "biome.biomeswevegone.cypress_swamplands": {
+    "en": "Cypress Swamplands",
+    "zh": "柏木沼泽",
+    "vi": null
+  },
+  "biome.biomeswevegone.cypress_wetlands": {
+    "en": "Cypress Wetlands",
+    "zh": "柏木湿地",
+    "vi": null
+  },
+  "biome.biomeswevegone.dacite_ridges": {
+    "en": "Dacite Ridges",
+    "zh": "安英岩山岭",
+    "vi": null
+  },
+  "biome.biomeswevegone.dacite_shore": {
+    "en": "Dacite Shore",
+    "zh": "安英岩海滨",
+    "vi": null
+  },
+  "biome.biomeswevegone.dead_sea": {
+    "en": "Dead Sea",
+    "zh": "死海",
+    "vi": null
+  },
+  "biome.biomeswevegone.ebony_woods": {
+    "en": "Ebony Woods",
+    "zh": "乌木森林",
+    "vi": null
+  },
+  "biome.biomeswevegone.enchanted_tangle": {
+    "en": "Enchanted Tangle",
+    "zh": "封魔缠怨之境",
+    "vi": null
+  },
+  "biome.biomeswevegone.eroded_borealis": {
+    "en": "Eroded Borealis",
+    "zh": "被侵蚀的北境",
+    "vi": null
+  },
+  "biome.biomeswevegone.firecracker_chaparral": {
+    "en": "Firecracker Chaparral",
+    "zh": "鸟尾花常绿灌木群落",
+    "vi": null
+  },
+  "biome.biomeswevegone.forgotten_forest": {
+    "en": "Forgotten Forest",
+    "zh": "遗忘之森",
+    "vi": null
+  },
+  "biome.biomeswevegone.fragment_jungle": {
+    "en": "Fragment Jungle",
+    "zh": "破碎的雨林",
+    "vi": null
+  },
+  "biome.biomeswevegone.frosted_coniferous_forest": {
+    "en": "Frosted Coniferous Forest",
+    "zh": "寒霜针叶林",
+    "vi": null
+  },
+  "biome.biomeswevegone.frosted_taiga": {
+    "en": "Frosted Taiga",
+    "zh": "覆雪的针叶林",
+    "vi": null
+  },
+  "biome.biomeswevegone.howling_peaks": {
+    "en": "Howling Peaks",
+    "zh": "呼啸山巅",
+    "vi": null
+  },
+  "biome.biomeswevegone.ironwood_gour": {
+    "en": "Ironwood Gour",
+    "zh": "铁色木蘑菇石交错带",
+    "vi": null
+  },
+  "biome.biomeswevegone.jacaranda_jungle": {
+    "en": "Jacaranda Jungle",
+    "zh": "蓝花楹丛林",
+    "vi": null
+  },
+  "biome.biomeswevegone.lush_stacks": {
+    "en": "Lush Stacks",
+    "zh": "繁茂交错带",
+    "vi": null
+  },
+  "biome.biomeswevegone.maple_taiga": {
+    "en": "Maple Taiga",
+    "zh": "枫叶针叶林",
+    "vi": null
+  },
+  "biome.biomeswevegone.mojave_desert": {
+    "en": "Mojave Desert",
+    "zh": "莫哈韦沙漠",
+    "vi": null
+  },
+  "biome.biomeswevegone.orchard": {
+    "en": "Orchard",
+    "zh": "果园",
+    "vi": null
+  },
+  "biome.biomeswevegone.overgrowth_woodlands": {
+    "en": "Overgrowth Woodlands",
+    "zh": "繁茂林地",
+    "vi": null
+  },
+  "biome.biomeswevegone.prairie": {
+    "en": "Prairie",
+    "zh": "原野",
+    "vi": null
+  },
+  "biome.biomeswevegone.pumpkin_valley": {
+    "en": "Pumpkin Valley",
+    "zh": "南瓜山谷",
+    "vi": null
+  },
+  "biome.biomeswevegone.rainbow_beach": {
+    "en": "Rainbow Beach",
+    "zh": "彩虹海岸",
+    "vi": null
+  },
+  "biome.biomeswevegone.red_rock_peaks": {
+    "en": "Red Rock Peaks",
+    "zh": "红岩山巅",
+    "vi": null
+  },
+  "biome.biomeswevegone.red_rock_valley": {
+    "en": "Red Rock Valley",
+    "zh": "红岩山谷",
+    "vi": null
+  },
+  "biome.biomeswevegone.redwood_thicket": {
+    "en": "Redwood Thicket",
+    "zh": "红杉木丛",
+    "vi": null
+  },
+  "biome.biomeswevegone.rose_fields": {
+    "en": "Rose Fields",
+    "zh": "玫瑰原野",
+    "vi": null
+  },
+  "biome.biomeswevegone.rugged_badlands": {
+    "en": "Rugged Badlands",
+    "zh": "崎岖恶地",
+    "vi": null
+  },
+  "biome.biomeswevegone.sakura_grove": {
+    "en": "Sakura Grove",
+    "zh": "樱花树林",
+    "vi": null
+  },
+  "biome.biomeswevegone.shattered_glacier": {
+    "en": "Shattered Glacier",
+    "zh": "破碎的冰川",
+    "vi": null
+  },
+  "biome.biomeswevegone.sierra_badlands": {
+    "en": "Sierra Badlands",
+    "zh": "锯齿恶地",
+    "vi": null
+  },
+  "biome.biomeswevegone.skyris_vale": {
+    "en": "Skyris Vale",
+    "zh": "天际山谷",
+    "vi": null
+  },
+  "biome.biomeswevegone.temperate_grove": {
+    "en": "Temperate Grove",
+    "zh": "温带树林",
+    "vi": null
+  },
+  "biome.biomeswevegone.tropical_rainforest": {
+    "en": "Tropical Rainforest",
+    "zh": "热带雨林",
+    "vi": null
+  },
+  "biome.biomeswevegone.weeping_witch_forest": {
+    "en": "Weeping Witch Forest",
+    "zh": "巫术垂柳之森",
+    "vi": null
+  },
+  "biome.biomeswevegone.white_mangrove_marshes": {
+    "en": "White Mangrove Marshes",
+    "zh": "白色红树林沼泽",
+    "vi": null
+  },
+  "biome.biomeswevegone.windswept_desert": {
+    "en": "Windswept Desert",
+    "zh": "风袭沙漠",
+    "vi": null
+  },
+  "biome.biomeswevegone.zelkova_forest": {
+    "en": "Zelkova Forest",
+    "zh": "榉木森林",
+    "vi": null
+  },
+  "biomeswevegone.commands.reload.spawn.success": {
+    "en": "Successfully reloaded Mob Spawn config",
+    "zh": "重载生物生成设置成功",
+    "vi": null
+  },
+  "biomeswevegone.commands.reload.success": {
+    "en": "Successfully reloaded all configs",
+    "zh": "重载所有设置成功",
+    "vi": null
+  },
+  "block.biomeswevegone.allium_flower_bush": {
+    "en": "Allium Flower Bush",
+    "zh": "绒球葱花丛",
+    "vi": null
+  },
+  "block.biomeswevegone.allium_petal_block": {
+    "en": "Allium Petal Block",
+    "zh": "绒球葱块",
+    "vi": null
+  },
+  "block.biomeswevegone.aloe_vera": {
+    "en": "Aloe Vera",
+    "zh": "芦荟",
+    "vi": null
+  },
+  "block.biomeswevegone.alpine_bellflower": {
+    "en": "Alpine Bellflower",
+    "zh": "高山风铃草",
+    "vi": null
+  },
+  "block.biomeswevegone.amaranth": {
+    "en": "Amaranth",
+    "zh": "苋菜花",
+    "vi": null
+  },
+  "block.biomeswevegone.angelica": {
+    "en": "Angelica",
+    "zh": "白芷",
+    "vi": null
+  },
+  "block.biomeswevegone.apple_fruit": {
+    "en": "Apple Fruit",
+    "zh": "苹果果实",
+    "vi": null
+  },
+  "block.biomeswevegone.araucaria_leaves": {
+    "en": "Araucaria Leaves",
+    "zh": "南洋杉树叶",
+    "vi": null
+  },
+  "block.biomeswevegone.araucaria_sapling": {
+    "en": "Araucaria Sapling",
+    "zh": "南洋杉树苗",
+    "vi": null
+  },
+  "block.biomeswevegone.aspen_bookshelf": {
+    "en": "Aspen Bookshelf",
+    "zh": "白杨木书架",
+    "vi": null
+  },
+  "block.biomeswevegone.aspen_button": {
+    "en": "Aspen Button",
+    "zh": "白杨木按钮",
+    "vi": null
+  },
+  "block.biomeswevegone.aspen_crafting_table": {
+    "en": "Aspen Crafting Table",
+    "zh": "白杨木工作台",
+    "vi": null
+  },
+  "block.biomeswevegone.aspen_door": {
+    "en": "Aspen Door",
+    "zh": "白杨木门",
+    "vi": null
+  },
+  "block.biomeswevegone.aspen_fence": {
+    "en": "Aspen Fence",
+    "zh": "白杨木栅栏",
+    "vi": null
+  },
+  "block.biomeswevegone.aspen_fence_gate": {
+    "en": "Aspen Fence Gate",
+    "zh": "白杨木栅栏门",
+    "vi": null
+  },
+  "block.biomeswevegone.aspen_hanging_sign": {
+    "en": "Aspen Hanging Sign",
+    "zh": "白杨木悬挂式告示牌",
+    "vi": null
+  },
+  "block.biomeswevegone.aspen_leaves": {
+    "en": "Aspen Leaves",
+    "zh": "白杨树叶",
+    "vi": null
+  },
+  "block.biomeswevegone.aspen_log": {
+    "en": "Aspen Log",
+    "zh": "白杨木原木",
+    "vi": null
+  },
+  "block.biomeswevegone.aspen_planks": {
+    "en": "Aspen Planks",
+    "zh": "白杨木木板",
+    "vi": null
+  },
+  "block.biomeswevegone.aspen_pressure_plate": {
+    "en": "Aspen Pressure Plate",
+    "zh": "白杨木压力板",
+    "vi": null
+  },
+  "block.biomeswevegone.aspen_sapling": {
+    "en": "Aspen Sapling",
+    "zh": "白杨树苗",
+    "vi": null
+  },
+  "block.biomeswevegone.aspen_sign": {
+    "en": "Aspen Sign",
+    "zh": "白杨木告示牌",
+    "vi": null
+  },
+  "block.biomeswevegone.aspen_slab": {
+    "en": "Aspen Slab",
+    "zh": "白杨木台阶",
+    "vi": null
+  },
+  "block.biomeswevegone.aspen_stairs": {
+    "en": "Aspen Stairs",
+    "zh": "白杨木楼梯",
+    "vi": null
+  },
+  "block.biomeswevegone.aspen_trapdoor": {
+    "en": "Aspen Trapdoor",
+    "zh": "白杨木活板门",
+    "vi": null
+  },
+  "block.biomeswevegone.aspen_wood": {
+    "en": "Aspen Wood",
+    "zh": "白杨木",
+    "vi": null
+  },
+  "block.biomeswevegone.baobab_bookshelf": {
+    "en": "Baobab Bookshelf",
+    "zh": "猴面包木书架",
+    "vi": null
+  },
+  "block.biomeswevegone.baobab_button": {
+    "en": "Baobab Button",
+    "zh": "猴面包木按钮",
+    "vi": null
+  },
+  "block.biomeswevegone.baobab_crafting_table": {
+    "en": "Baobab Crafting Table",
+    "zh": "猴面包木工作台",
+    "vi": null
+  },
+  "block.biomeswevegone.baobab_door": {
+    "en": "Baobab Door",
+    "zh": "猴面包木门",
+    "vi": null
+  },
+  "block.biomeswevegone.baobab_fence": {
+    "en": "Baobab Fence",
+    "zh": "猴面包木栅栏",
+    "vi": null
+  },
+  "block.biomeswevegone.baobab_fence_gate": {
+    "en": "Baobab Fence Gate",
+    "zh": "猴面包木栅栏门",
+    "vi": null
+  },
+  "block.biomeswevegone.baobab_fruit": {
+    "en": "Baobab Fruit",
+    "zh": "猴面包果实",
+    "vi": null
+  },
+  "block.biomeswevegone.baobab_hanging_sign": {
+    "en": "Baobab Hanging Sign",
+    "zh": "猴面包木悬挂式公示牌",
+    "vi": null
+  },
+  "block.biomeswevegone.baobab_leaves": {
+    "en": "Baobab Leaves",
+    "zh": "猴面包树叶",
+    "vi": null
+  },
+  "block.biomeswevegone.baobab_log": {
+    "en": "Baobab Log",
+    "zh": "猴面包原木",
+    "vi": null
+  },
+  "block.biomeswevegone.baobab_planks": {
+    "en": "Baobab Planks",
+    "zh": "猴面包木板",
+    "vi": null
+  },
+  "block.biomeswevegone.baobab_pressure_plate": {
+    "en": "Baobab Pressure Plate",
+    "zh": "猴面包木压力板",
+    "vi": null
+  },
+  "block.biomeswevegone.baobab_sapling": {
+    "en": "Baobab Sapling",
+    "zh": "猴面包树苗",
+    "vi": null
+  },
+  "block.biomeswevegone.baobab_sign": {
+    "en": "Baobab Sign",
+    "zh": "猴面包木告示牌",
+    "vi": null
+  },
+  "block.biomeswevegone.baobab_slab": {
+    "en": "Baobab Slab",
+    "zh": "猴面包木台阶",
+    "vi": null
+  },
+  "block.biomeswevegone.baobab_stairs": {
+    "en": "Baobab Stairs",
+    "zh": "猴面包木楼梯",
+    "vi": null
+  },
+  "block.biomeswevegone.baobab_trapdoor": {
+    "en": "Baobab Trapdoor",
+    "zh": "猴面包木活板门",
+    "vi": null
+  },
+  "block.biomeswevegone.baobab_wood": {
+    "en": "Baobab Wood",
+    "zh": "猴面包木",
+    "vi": null
+  },
+  "block.biomeswevegone.barrel_cactus": {
+    "en": "Barrel Cactus",
+    "zh": "桶形仙人掌",
+    "vi": null
+  },
+  "block.biomeswevegone.beach_grass": {
+    "en": "Beach Grass",
+    "zh": "滨草",
+    "vi": null
+  },
+  "block.biomeswevegone.begonia": {
+    "en": "Begonia",
+    "zh": "秋海棠",
+    "vi": null
+  },
+  "block.biomeswevegone.bistort": {
+    "en": "Bistort",
+    "zh": "拳参",
+    "vi": null
+  },
+  "block.biomeswevegone.black_ice": {
+    "en": "Black Ice",
+    "zh": "黑冰",
+    "vi": null
+  },
+  "block.biomeswevegone.black_rose": {
+    "en": "Black Rose",
+    "zh": "黑色玫瑰",
+    "vi": null
+  },
+  "block.biomeswevegone.black_sand": {
+    "en": "Black Sand",
+    "zh": "黑沙",
+    "vi": null
+  },
+  "block.biomeswevegone.black_sandstone": {
+    "en": "Black Sandstone",
+    "zh": "黑砂岩",
+    "vi": null
+  },
+  "block.biomeswevegone.black_sandstone_slab": {
+    "en": "Black Sandstone Slab",
+    "zh": "黑砂岩台阶",
+    "vi": null
+  },
+  "block.biomeswevegone.black_sandstone_stairs": {
+    "en": "Black Sandstone Stairs",
+    "zh": "黑砂岩楼梯",
+    "vi": null
+  },
+  "block.biomeswevegone.black_sandstone_wall": {
+    "en": "Black Sandstone Wall",
+    "zh": "黑砂岩墙",
+    "vi": null
+  },
+  "block.biomeswevegone.blooming_aloe_vera": {
+    "en": "Blooming Aloe Vera",
+    "zh": "盛开的芦荟",
+    "vi": null
+  },
+  "block.biomeswevegone.blooming_witch_hazel_leaves": {
+    "en": "Blooming Witch Hazel Leaves",
+    "zh": "盛开的金缕梅树叶",
+    "vi": null
+  },
+  "block.biomeswevegone.blue_enchanted_bookshelf": {
+    "en": "Blue Enchanted Bookshelf",
+    "zh": "蓝色魔法木书架",
+    "vi": null
+  },
+  "block.biomeswevegone.blue_enchanted_button": {
+    "en": "Blue Enchanted Button",
+    "zh": "蓝色魔法木按钮",
+    "vi": null
+  },
+  "block.biomeswevegone.blue_enchanted_crafting_table": {
+    "en": "Blue Enchanted Crafting Table",
+    "zh": "蓝色魔法木工作台",
+    "vi": null
+  },
+  "block.biomeswevegone.blue_enchanted_door": {
+    "en": "Blue Enchanted Door",
+    "zh": "蓝色魔法木门",
+    "vi": null
+  },
+  "block.biomeswevegone.blue_enchanted_fence": {
+    "en": "Blue Enchanted Fence",
+    "zh": "蓝色魔法木栅栏",
+    "vi": null
+  },
+  "block.biomeswevegone.blue_enchanted_fence_gate": {
+    "en": "Blue Enchanted Fence Gate",
+    "zh": "蓝色魔法木栅栏门",
+    "vi": null
+  },
+  "block.biomeswevegone.blue_enchanted_hanging_sign": {
+    "en": "Blue Enchanted Hanging Sign",
+    "zh": "蓝色魔法木悬挂式告示牌",
+    "vi": null
+  },
+  "block.biomeswevegone.blue_enchanted_leaves": {
+    "en": "Blue Enchanted Leaves",
+    "zh": "蓝色魔法树叶",
+    "vi": null
+  },
+  "block.biomeswevegone.blue_enchanted_log": {
+    "en": "Blue Enchanted Log",
+    "zh": "蓝色魔法原木",
+    "vi": null
+  },
+  "block.biomeswevegone.blue_enchanted_planks": {
+    "en": "Blue Enchanted Planks",
+    "zh": "蓝色魔法木板",
+    "vi": null
+  },
+  "block.biomeswevegone.blue_enchanted_pressure_plate": {
+    "en": "Blue Enchanted Pressure Plate",
+    "zh": "蓝色魔法木压力板",
+    "vi": null
+  },
+  "block.biomeswevegone.blue_enchanted_sapling": {
+    "en": "Blue Enchanted Sapling",
+    "zh": "蓝色魔法树树苗",
+    "vi": null
+  },
+  "block.biomeswevegone.blue_enchanted_sign": {
+    "en": "Blue Enchanted Sign",
+    "zh": "蓝色魔法木告示牌",
+    "vi": null
+  },
+  "block.biomeswevegone.blue_enchanted_slab": {
+    "en": "Blue Enchanted Slab",
+    "zh": "蓝色魔法木台阶",
+    "vi": null
+  },
+  "block.biomeswevegone.blue_enchanted_stairs": {
+    "en": "Blue Enchanted Stairs",
+    "zh": "蓝色魔法木楼梯",
+    "vi": null
+  },
+  "block.biomeswevegone.blue_enchanted_trapdoor": {
+    "en": "Blue Enchanted Trapdoor",
+    "zh": "蓝色魔法木活板门",
+    "vi": null
+  },
+  "block.biomeswevegone.blue_enchanted_wood": {
+    "en": "Blue Enchanted Wood",
+    "zh": "蓝色魔法木",
+    "vi": null
+  },
+  "block.biomeswevegone.blue_rose_bush": {
+    "en": "Blue Rose Bush",
+    "zh": "蓝色玫瑰花丛",
+    "vi": null
+  },
+  "block.biomeswevegone.blue_sage": {
+    "en": "Blue Sage",
+    "zh": "蓝色鼠尾草",
+    "vi": null
+  },
+  "block.biomeswevegone.blue_sand": {
+    "en": "Blue Sand",
+    "zh": "蓝沙",
+    "vi": null
+  },
+  "block.biomeswevegone.blue_sandstone": {
+    "en": "Blue Sandstone",
+    "zh": "蓝色砂岩",
+    "vi": null
+  },
+  "block.biomeswevegone.blue_sandstone_slab": {
+    "en": "Blue Sandstone Slab",
+    "zh": "蓝色砂岩台阶",
+    "vi": null
+  },
+  "block.biomeswevegone.blue_sandstone_stairs": {
+    "en": "Blue Sandstone Stairs",
+    "zh": "蓝色砂岩楼梯",
+    "vi": null
+  },
+  "block.biomeswevegone.blue_sandstone_wall": {
+    "en": "Blue Sandstone Wall",
+    "zh": "蓝色砂岩墙",
+    "vi": null
+  },
+  "block.biomeswevegone.blue_spruce_leaves": {
+    "en": "Blue Spruce Leaves",
+    "zh": "蓝色云杉树叶",
+    "vi": null
+  },
+  "block.biomeswevegone.blue_spruce_sapling": {
+    "en": "Blue Spruce Sapling",
+    "zh": "蓝色云杉树苗",
+    "vi": null
+  },
+  "block.biomeswevegone.blueberry_bush": {
+    "en": "Blueberry Bush",
+    "zh": "蓝莓草丛",
+    "vi": null
+  },
+  "block.biomeswevegone.borealis_ice": {
+    "en": "Borealis Ice",
+    "zh": "北极冰",
+    "vi": null
+  },
+  "block.biomeswevegone.brown_birch_leaves": {
+    "en": "Brown Birch Leaves",
+    "zh": "棕色白桦树叶",
+    "vi": null
+  },
+  "block.biomeswevegone.brown_birch_sapling": {
+    "en": "Brown Birch Sapling",
+    "zh": "棕色桦树苗",
+    "vi": null
+  },
+  "block.biomeswevegone.brown_mushroom_stem": {
+    "en": "Brown Mushroom Stem",
+    "zh": "棕色蘑菇茎",
+    "vi": null
+  },
+  "block.biomeswevegone.brown_oak_leaves": {
+    "en": "Brown Oak Leaves",
+    "zh": "棕色橡树叶",
+    "vi": null
+  },
+  "block.biomeswevegone.brown_oak_sapling": {
+    "en": "Brown Oak Sapling",
+    "zh": "棕色橡树苗",
+    "vi": null
+  },
+  "block.biomeswevegone.brown_zelkova_leaves": {
+    "en": "Brown Zelkova Leaves",
+    "zh": "棕色榉树叶",
+    "vi": null
+  },
+  "block.biomeswevegone.brown_zelkova_sapling": {
+    "en": "Brown Zelkova Sapling",
+    "zh": "棕色榉树苗",
+    "vi": null
+  },
+  "block.biomeswevegone.california_poppy": {
+    "en": "California Poppy",
+    "zh": "花菱草",
+    "vi": null
+  },
+  "block.biomeswevegone.carved_barrel_cactus": {
+    "en": "Carved Barrel Cactus",
+    "zh": "雕刻过的桶形仙人掌",
+    "vi": null
+  },
+  "block.biomeswevegone.cattail": {
+    "en": "Cattail",
+    "zh": "香蒲",
+    "vi": null
+  },
+  "block.biomeswevegone.cattail_sprout": {
+    "en": "Cattail Sprout",
+    "zh": "香蒲苗",
+    "vi": null
+  },
+  "block.biomeswevegone.cattail_thatch": {
+    "en": "Cattail Thatch",
+    "zh": "香蒲茅草",
+    "vi": null
+  },
+  "block.biomeswevegone.cattail_thatch_carpet": {
+    "en": "Cattail Thatch Carpet",
+    "zh": "香蒲茅草地毯",
+    "vi": null
+  },
+  "block.biomeswevegone.cattail_thatch_slab": {
+    "en": "Cattail Thatch Slab",
+    "zh": "香蒲茅草台阶",
+    "vi": null
+  },
+  "block.biomeswevegone.cattail_thatch_stairs": {
+    "en": "Cattail Thatch Stairs",
+    "zh": "香蒲茅草楼梯",
+    "vi": null
+  },
+  "block.biomeswevegone.chiseled_black_sandstone": {
+    "en": "Chiseled Black Sandstone",
+    "zh": "錾制黑色砂岩",
+    "vi": null
+  },
+  "block.biomeswevegone.chiseled_blue_sandstone": {
+    "en": "Chiseled Blue Sandstone",
+    "zh": "錾制蓝色砂岩",
+    "vi": null
+  },
+  "block.biomeswevegone.chiseled_dacite_brick_slab": {
+    "en": "Chiseled Dacite Brick Slab",
+    "zh": "錾制英安岩砖台阶",
+    "vi": null
+  },
+  "block.biomeswevegone.chiseled_dacite_brick_stairs": {
+    "en": "Chiseled Dacite Brick Stairs",
+    "zh": "錾制英安岩砖楼梯",
+    "vi": null
+  },
+  "block.biomeswevegone.chiseled_dacite_brick_wall": {
+    "en": "Chiseled Dacite Brick Wall",
+    "zh": "錾制英安岩砖墙",
+    "vi": null
+  },
+  "block.biomeswevegone.chiseled_dacite_bricks": {
+    "en": "Chiseled Dacite Bricks",
+    "zh": "錾制英安岩砖",
+    "vi": null
+  },
+  "block.biomeswevegone.chiseled_pink_sandstone": {
+    "en": "Chiseled Pink Sandstone",
+    "zh": "錾制粉色砂岩",
+    "vi": null
+  },
+  "block.biomeswevegone.chiseled_purple_sandstone": {
+    "en": "Chiseled Purple Sandstone",
+    "zh": "錾制紫色砂岩",
+    "vi": null
+  },
+  "block.biomeswevegone.chiseled_red_rock_brick_slab": {
+    "en": "Chiseled Red Rock Brick Slab",
+    "zh": "錾制红岩砖台阶",
+    "vi": null
+  },
+  "block.biomeswevegone.chiseled_red_rock_brick_stairs": {
+    "en": "Chiseled Red Rock Brick Stairs",
+    "zh": "錾制红岩砖楼梯",
+    "vi": null
+  },
+  "block.biomeswevegone.chiseled_red_rock_brick_wall": {
+    "en": "Chiseled Red Rock Brick Wall",
+    "zh": "錾制红岩砖墙",
+    "vi": null
+  },
+  "block.biomeswevegone.chiseled_red_rock_bricks": {
+    "en": "Chiseled Red Rock Bricks",
+    "zh": "錾制红岩砖",
+    "vi": null
+  },
+  "block.biomeswevegone.chiseled_white_dacite_brick_slab": {
+    "en": "Chiseled White Dacite Brick Slab",
+    "zh": "錾制白色英安岩砖台阶",
+    "vi": null
+  },
+  "block.biomeswevegone.chiseled_white_dacite_brick_stairs": {
+    "en": "Chiseled White Dacite Brick Stairs",
+    "zh": "錾制白色英安岩砖楼梯",
+    "vi": null
+  },
+  "block.biomeswevegone.chiseled_white_dacite_brick_wall": {
+    "en": "Chiseled White Dacite Brick Wall",
+    "zh": "錾制白色英安岩砖墙",
+    "vi": null
+  },
+  "block.biomeswevegone.chiseled_white_dacite_bricks": {
+    "en": "Chiseled White Dacite Bricks",
+    "zh": "錾制白色英安岩砖",
+    "vi": null
+  },
+  "block.biomeswevegone.chiseled_white_sandstone": {
+    "en": "Chiseled White Sandstone",
+    "zh": "錾制白色砂岩",
+    "vi": null
+  },
+  "block.biomeswevegone.chiseled_windswept_sandstone": {
+    "en": "Chiseled Windswept Sandstone",
+    "zh": "錾制风袭砂岩",
+    "vi": null
+  },
+  "block.biomeswevegone.cika_bookshelf": {
+    "en": "Cika Bookshelf",
+    "zh": "锡卡木书架",
+    "vi": null
+  },
+  "block.biomeswevegone.cika_button": {
+    "en": "Cika Button",
+    "zh": "锡卡木按钮",
+    "vi": null
+  },
+  "block.biomeswevegone.cika_crafting_table": {
+    "en": "Cika Crafting Table",
+    "zh": "锡卡木工作台",
+    "vi": null
+  },
+  "block.biomeswevegone.cika_door": {
+    "en": "Cika Door",
+    "zh": "锡卡木门",
+    "vi": null
+  },
+  "block.biomeswevegone.cika_fence": {
+    "en": "Cika Fence",
+    "zh": "锡卡木栅栏",
+    "vi": null
+  },
+  "block.biomeswevegone.cika_fence_gate": {
+    "en": "Cika Fence Gate",
+    "zh": "锡卡木栅栏门",
+    "vi": null
+  },
+  "block.biomeswevegone.cika_hanging_sign": {
+    "en": "Cika Hanging Sign",
+    "zh": "锡卡木悬挂式告示牌",
+    "vi": null
+  },
+  "block.biomeswevegone.cika_leaves": {
+    "en": "Cika Leaves",
+    "zh": "锡卡树叶",
+    "vi": null
+  },
+  "block.biomeswevegone.cika_log": {
+    "en": "Cika Log",
+    "zh": "锡卡木原木",
+    "vi": null
+  },
+  "block.biomeswevegone.cika_planks": {
+    "en": "Cika Planks",
+    "zh": "锡卡木木板",
+    "vi": null
+  },
+  "block.biomeswevegone.cika_pressure_plate": {
+    "en": "Cika Pressure Plate",
+    "zh": "锡卡木压力板",
+    "vi": null
+  },
+  "block.biomeswevegone.cika_sapling": {
+    "en": "Cika Sapling",
+    "zh": "锡卡树苗",
+    "vi": null
+  },
+  "block.biomeswevegone.cika_sign": {
+    "en": "Cika Sign",
+    "zh": "锡卡木告示牌",
+    "vi": null
+  },
+  "block.biomeswevegone.cika_slab": {
+    "en": "Cika Slab",
+    "zh": "锡卡木台阶",
+    "vi": null
+  },
+  "block.biomeswevegone.cika_stairs": {
+    "en": "Cika Stairs",
+    "zh": "锡卡木楼梯",
+    "vi": null
+  },
+  "block.biomeswevegone.cika_trapdoor": {
+    "en": "Cika Trapdoor",
+    "zh": "锡卡木活板门",
+    "vi": null
+  },
+  "block.biomeswevegone.cika_wood": {
+    "en": "Cika Wood",
+    "zh": "锡卡木",
+    "vi": null
+  },
+  "block.biomeswevegone.clover_patch": {
+    "en": "Clover Patch",
+    "zh": "三叶草簇",
+    "vi": null
+  },
+  "block.biomeswevegone.cracked_dacite_brick_slab": {
+    "en": "Cracked Dacite Brick Slab",
+    "zh": "裂纹英安岩砖台阶",
+    "vi": null
+  },
+  "block.biomeswevegone.cracked_dacite_brick_stairs": {
+    "en": "Cracked Dacite Brick Stairs",
+    "zh": "裂纹英安岩砖楼梯",
+    "vi": null
+  },
+  "block.biomeswevegone.cracked_dacite_brick_wall": {
+    "en": "Cracked Dacite Brick Wall",
+    "zh": "裂纹英安岩砖墙",
+    "vi": null
+  },
+  "block.biomeswevegone.cracked_dacite_bricks": {
+    "en": "Cracked Dacite Bricks",
+    "zh": "裂纹英安岩砖",
+    "vi": null
+  },
+  "block.biomeswevegone.cracked_red_rock_brick_slab": {
+    "en": "Cracked Red Rock Brick Slab",
+    "zh": "碎裂的红岩砖台阶",
+    "vi": null
+  },
+  "block.biomeswevegone.cracked_red_rock_brick_stairs": {
+    "en": "Cracked Red Rock Brick Stairs",
+    "zh": "碎裂的红岩砖楼梯",
+    "vi": null
+  },
+  "block.biomeswevegone.cracked_red_rock_brick_wall": {
+    "en": "Cracked Red Rock Brick Wall",
+    "zh": "碎裂的红岩砖墙",
+    "vi": null
+  },
+  "block.biomeswevegone.cracked_red_rock_bricks": {
+    "en": "Cracked Red Rock Bricks",
+    "zh": "碎裂的红岩砖",
+    "vi": null
+  },
+  "block.biomeswevegone.cracked_red_sand": {
+    "en": "Cracked Red Sand",
+    "zh": "裂纹红沙",
+    "vi": null
+  },
+  "block.biomeswevegone.cracked_sand": {
+    "en": "Cracked Sand",
+    "zh": "裂纹沙",
+    "vi": null
+  },
+  "block.biomeswevegone.cracked_white_dacite_brick_slab": {
+    "en": "Cracked White Dacite Brick Slab",
+    "zh": "裂纹白色英安岩砖台阶",
+    "vi": null
+  },
+  "block.biomeswevegone.cracked_white_dacite_brick_stairs": {
+    "en": "Cracked White Dacite Brick Stairs",
+    "zh": "裂纹白色英安岩砖楼梯",
+    "vi": null
+  },
+  "block.biomeswevegone.cracked_white_dacite_brick_wall": {
+    "en": "Cracked White Dacite Brick Wall",
+    "zh": "裂纹白色英安岩砖墙",
+    "vi": null
+  },
+  "block.biomeswevegone.cracked_white_dacite_bricks": {
+    "en": "Cracked White Dacite Bricks",
+    "zh": "裂纹白色英安岩砖",
+    "vi": null
+  },
+  "block.biomeswevegone.crocus": {
+    "en": "Crocus",
+    "zh": "番红花",
+    "vi": null
+  },
+  "block.biomeswevegone.cut_black_sandstone": {
+    "en": "Cut Black Sandstone",
+    "zh": "切制黑色砂岩",
+    "vi": null
+  },
+  "block.biomeswevegone.cut_black_sandstone_slab": {
+    "en": "Cut Black Sandstone Slab",
+    "zh": "切制黑色砂岩台阶",
+    "vi": null
+  },
+  "block.biomeswevegone.cut_blue_sandstone": {
+    "en": "Cut Blue Sandstone",
+    "zh": "切制蓝色砂岩",
+    "vi": null
+  },
+  "block.biomeswevegone.cut_blue_sandstone_slab": {
+    "en": "Cut Blue Sandstone Slab",
+    "zh": "切制蓝色砂岩台阶",
+    "vi": null
+  },
+  "block.biomeswevegone.cut_pink_sandstone": {
+    "en": "Cut Pink Sandstone",
+    "zh": "切制粉色砂岩",
+    "vi": null
+  },
+  "block.biomeswevegone.cut_pink_sandstone_slab": {
+    "en": "Cut Pink Sandstone Slab",
+    "zh": "切制粉色砂岩台阶",
+    "vi": null
+  },
+  "block.biomeswevegone.cut_purple_sandstone": {
+    "en": "Cut Purple Sandstone",
+    "zh": "切制紫色砂岩",
+    "vi": null
+  },
+  "block.biomeswevegone.cut_purple_sandstone_slab": {
+    "en": "Cut Purple Sandstone Slab",
+    "zh": "切制紫色砂岩台阶",
+    "vi": null
+  },
+  "block.biomeswevegone.cut_white_sandstone": {
+    "en": "Cut White Sandstone",
+    "zh": "切制白色砂岩",
+    "vi": null
+  },
+  "block.biomeswevegone.cut_white_sandstone_slab": {
+    "en": "Cut White Sandstone Slab",
+    "zh": "切制白色砂岩台阶",
+    "vi": null
+  },
+  "block.biomeswevegone.cut_windswept_sandstone": {
+    "en": "Cut Windswept Sandstone",
+    "zh": "切制风袭砂岩",
+    "vi": null
+  },
+  "block.biomeswevegone.cut_windswept_sandstone_slab": {
+    "en": "Cut Windswept Sandstone Slab",
+    "zh": "切制风袭砂岩台阶",
+    "vi": null
+  },
+  "block.biomeswevegone.cyan_amaranth": {
+    "en": "Cyan Amaranth",
+    "zh": "青色苋菜花",
+    "vi": null
+  },
+  "block.biomeswevegone.cyan_pitcher_plant": {
+    "en": "Cyan Pitcher Plant",
+    "zh": "青色瓶子草",
+    "vi": null
+  },
+  "block.biomeswevegone.cyan_rose": {
+    "en": "Cyan Rose",
+    "zh": "青色玫瑰",
+    "vi": null
+  },
+  "block.biomeswevegone.cyan_tulip": {
+    "en": "Cyan Tulip",
+    "zh": "青色郁金香",
+    "vi": null
+  },
+  "block.biomeswevegone.cypress_bookshelf": {
+    "en": "Cypress Bookshelf",
+    "zh": "柏木书架",
+    "vi": null
+  },
+  "block.biomeswevegone.cypress_button": {
+    "en": "Cypress Button",
+    "zh": "柏木按钮",
+    "vi": null
+  },
+  "block.biomeswevegone.cypress_crafting_table": {
+    "en": "Cypress Crafting Table",
+    "zh": "柏木工作台",
+    "vi": null
+  },
+  "block.biomeswevegone.cypress_door": {
+    "en": "Cypress Door",
+    "zh": "柏木门",
+    "vi": null
+  },
+  "block.biomeswevegone.cypress_fence": {
+    "en": "Cypress Fence",
+    "zh": "柏木栅栏",
+    "vi": null
+  },
+  "block.biomeswevegone.cypress_fence_gate": {
+    "en": "Cypress Fence Gate",
+    "zh": "柏木栅栏门",
+    "vi": null
+  },
+  "block.biomeswevegone.cypress_hanging_sign": {
+    "en": "Cypress Hanging Sign",
+    "zh": "柏木悬挂式告示牌",
+    "vi": null
+  },
+  "block.biomeswevegone.cypress_leaves": {
+    "en": "Cypress Leaves",
+    "zh": "柏树叶",
+    "vi": null
+  },
+  "block.biomeswevegone.cypress_log": {
+    "en": "Cypress Log",
+    "zh": "柏木原木",
+    "vi": null
+  },
+  "block.biomeswevegone.cypress_planks": {
+    "en": "Cypress Planks",
+    "zh": "柏木木板",
+    "vi": null
+  },
+  "block.biomeswevegone.cypress_pressure_plate": {
+    "en": "Cypress Pressure Plate",
+    "zh": "柏木压力板",
+    "vi": null
+  },
+  "block.biomeswevegone.cypress_sapling": {
+    "en": "Cypress Sapling",
+    "zh": "柏树苗",
+    "vi": null
+  },
+  "block.biomeswevegone.cypress_sign": {
+    "en": "Cypress Sign",
+    "zh": "柏木告示牌",
+    "vi": null
+  },
+  "block.biomeswevegone.cypress_slab": {
+    "en": "Cypress Slab",
+    "zh": "柏木台阶",
+    "vi": null
+  },
+  "block.biomeswevegone.cypress_stairs": {
+    "en": "Cypress Stairs",
+    "zh": "柏木楼梯",
+    "vi": null
+  },
+  "block.biomeswevegone.cypress_trapdoor": {
+    "en": "Cypress Trapdoor",
+    "zh": "柏木活板门",
+    "vi": null
+  },
+  "block.biomeswevegone.cypress_wood": {
+    "en": "Cypress Wood",
+    "zh": "柏木",
+    "vi": null
+  },
+  "block.biomeswevegone.dacite": {
+    "en": "Dacite",
+    "zh": "英安岩",
+    "vi": null
+  },
+  "block.biomeswevegone.dacite_brick_slab": {
+    "en": "Dacite Brick Slab",
+    "zh": "英安岩砖台阶",
+    "vi": null
+  },
+  "block.biomeswevegone.dacite_brick_stairs": {
+    "en": "Dacite Brick Stairs",
+    "zh": "英安岩砖楼梯",
+    "vi": null
+  },
+  "block.biomeswevegone.dacite_brick_wall": {
+    "en": "Dacite Brick Wall",
+    "zh": "英安岩砖墙",
+    "vi": null
+  },
+  "block.biomeswevegone.dacite_bricks": {
+    "en": "Dacite Bricks",
+    "zh": "英安岩砖",
+    "vi": null
+  },
+  "block.biomeswevegone.dacite_cobblestone": {
+    "en": "Dacite Cobblestone",
+    "zh": "英安岩圆石",
+    "vi": null
+  },
+  "block.biomeswevegone.dacite_cobblestone_slab": {
+    "en": "Dacite Cobblestone Slab",
+    "zh": "英安岩圆石台阶",
+    "vi": null
+  },
+  "block.biomeswevegone.dacite_cobblestone_stairs": {
+    "en": "Dacite Cobblestone Stairs",
+    "zh": "英安岩圆石楼梯",
+    "vi": null
+  },
+  "block.biomeswevegone.dacite_cobblestone_wall": {
+    "en": "Dacite Cobblestone Wall",
+    "zh": "英安岩圆石墙",
+    "vi": null
+  },
+  "block.biomeswevegone.dacite_pillar": {
+    "en": "Dacite Pillar",
+    "zh": "英安岩柱",
+    "vi": null
+  },
+  "block.biomeswevegone.dacite_slab": {
+    "en": "Dacite Slab",
+    "zh": "英安岩台阶",
+    "vi": null
+  },
+  "block.biomeswevegone.dacite_stairs": {
+    "en": "Dacite Stairs",
+    "zh": "英安岩楼梯",
+    "vi": null
+  },
+  "block.biomeswevegone.dacite_tile_slab": {
+    "en": "Dacite Tile Slab",
+    "zh": "英安岩瓦台阶",
+    "vi": null
+  },
+  "block.biomeswevegone.dacite_tile_stairs": {
+    "en": "Dacite Tile Stairs",
+    "zh": "英安岩瓦楼梯",
+    "vi": null
+  },
+  "block.biomeswevegone.dacite_tile_wall": {
+    "en": "Dacite Tile Wall",
+    "zh": "英安岩瓦墙",
+    "vi": null
+  },
+  "block.biomeswevegone.dacite_tiles": {
+    "en": "Dacite Tiles",
+    "zh": "英安岩瓦",
+    "vi": null
+  },
+  "block.biomeswevegone.dacite_wall": {
+    "en": "Dacite Wall",
+    "zh": "英安岩墙",
+    "vi": null
+  },
+  "block.biomeswevegone.daffodil": {
+    "en": "Daffodil",
+    "zh": "水仙花",
+    "vi": null
+  },
+  "block.biomeswevegone.delphinium": {
+    "en": "Delphinium",
+    "zh": "翠雀花",
+    "vi": null
+  },
+  "block.biomeswevegone.ebony_bookshelf": {
+    "en": "Ebony Bookshelf",
+    "zh": "乌木书架",
+    "vi": null
+  },
+  "block.biomeswevegone.ebony_button": {
+    "en": "Ebony Button",
+    "zh": "乌木按钮",
+    "vi": null
+  },
+  "block.biomeswevegone.ebony_crafting_table": {
+    "en": "Ebony Crafting Table",
+    "zh": "乌木工作台",
+    "vi": null
+  },
+  "block.biomeswevegone.ebony_door": {
+    "en": "Ebony Door",
+    "zh": "乌木门",
+    "vi": null
+  },
+  "block.biomeswevegone.ebony_fence": {
+    "en": "Ebony Fence",
+    "zh": "乌木栅栏",
+    "vi": null
+  },
+  "block.biomeswevegone.ebony_fence_gate": {
+    "en": "Ebony Fence Gate",
+    "zh": "乌木栅栏门",
+    "vi": null
+  },
+  "block.biomeswevegone.ebony_hanging_sign": {
+    "en": "Ebony Hanging Sign",
+    "zh": "乌木悬挂式告示牌",
+    "vi": null
+  },
+  "block.biomeswevegone.ebony_leaves": {
+    "en": "Ebony Leaves",
+    "zh": "乌树叶",
+    "vi": null
+  },
+  "block.biomeswevegone.ebony_log": {
+    "en": "Ebony Log",
+    "zh": "乌木原木",
+    "vi": null
+  },
+  "block.biomeswevegone.ebony_planks": {
+    "en": "Ebony Planks",
+    "zh": "乌木木板",
+    "vi": null
+  },
+  "block.biomeswevegone.ebony_pressure_plate": {
+    "en": "Ebony Pressure Plate",
+    "zh": "乌木压力板",
+    "vi": null
+  },
+  "block.biomeswevegone.ebony_sapling": {
+    "en": "Ebony Sapling",
+    "zh": "乌树苗",
+    "vi": null
+  },
+  "block.biomeswevegone.ebony_sign": {
+    "en": "Ebony Sign",
+    "zh": "乌木告示牌",
+    "vi": null
+  },
+  "block.biomeswevegone.ebony_slab": {
+    "en": "Ebony Slab",
+    "zh": "乌木台阶",
+    "vi": null
+  },
+  "block.biomeswevegone.ebony_stairs": {
+    "en": "Ebony Stairs",
+    "zh": "乌木楼梯",
+    "vi": null
+  },
+  "block.biomeswevegone.ebony_trapdoor": {
+    "en": "Ebony Trapdoor",
+    "zh": "乌木活板门",
+    "vi": null
+  },
+  "block.biomeswevegone.ebony_wood": {
+    "en": "Ebony Wood",
+    "zh": "乌木",
+    "vi": null
+  },
+  "block.biomeswevegone.fairy_slipper": {
+    "en": "Fairy Slipper",
+    "zh": "布袋兰",
+    "vi": null
+  },
+  "block.biomeswevegone.fir_bookshelf": {
+    "en": "Fir Bookshelf",
+    "zh": "冷杉木书架",
+    "vi": null
+  },
+  "block.biomeswevegone.fir_button": {
+    "en": "Fir Button",
+    "zh": "冷杉木按钮",
+    "vi": null
+  },
+  "block.biomeswevegone.fir_crafting_table": {
+    "en": "Fir Crafting Table",
+    "zh": "冷杉木工作台",
+    "vi": null
+  },
+  "block.biomeswevegone.fir_door": {
+    "en": "Fir Door",
+    "zh": "冷杉木门",
+    "vi": null
+  },
+  "block.biomeswevegone.fir_fence": {
+    "en": "Fir Fence",
+    "zh": "冷杉木栅栏",
+    "vi": null
+  },
+  "block.biomeswevegone.fir_fence_gate": {
+    "en": "Fir Fence Gate",
+    "zh": "冷杉木栅栏门",
+    "vi": null
+  },
+  "block.biomeswevegone.fir_hanging_sign": {
+    "en": "Fir Hanging Sign",
+    "zh": "冷杉木悬挂式告示牌",
+    "vi": null
+  },
+  "block.biomeswevegone.fir_leaves": {
+    "en": "Fir Leaves",
+    "zh": "冷杉树叶",
+    "vi": null
+  },
+  "block.biomeswevegone.fir_log": {
+    "en": "Fir Log",
+    "zh": "冷杉木原木",
+    "vi": null
+  },
+  "block.biomeswevegone.fir_planks": {
+    "en": "Fir Planks",
+    "zh": "冷杉木木板",
+    "vi": null
+  },
+  "block.biomeswevegone.fir_pressure_plate": {
+    "en": "Fir Pressure Plate",
+    "zh": "冷杉木压力板",
+    "vi": null
+  },
+  "block.biomeswevegone.fir_sapling": {
+    "en": "Fir Sapling",
+    "zh": "冷杉树苗",
+    "vi": null
+  },
+  "block.biomeswevegone.fir_sign": {
+    "en": "Fir Sign",
+    "zh": "冷杉木告示牌",
+    "vi": null
+  },
+  "block.biomeswevegone.fir_slab": {
+    "en": "Fir Slab",
+    "zh": "冷杉木台阶",
+    "vi": null
+  },
+  "block.biomeswevegone.fir_stairs": {
+    "en": "Fir Stairs",
+    "zh": "冷杉木楼梯",
+    "vi": null
+  },
+  "block.biomeswevegone.fir_trapdoor": {
+    "en": "Fir Trapdoor",
+    "zh": "冷杉木活板门",
+    "vi": null
+  },
+  "block.biomeswevegone.fir_wood": {
+    "en": "Fir Wood",
+    "zh": "冷杉木",
+    "vi": null
+  },
+  "block.biomeswevegone.firecracker_flower_bush": {
+    "en": "Firecracker Flower Bush",
+    "zh": "鸟尾花灌木",
+    "vi": null
+  },
+  "block.biomeswevegone.firecracker_leaves": {
+    "en": "Firecracker Leaves",
+    "zh": "鸟尾花树叶",
+    "vi": null
+  },
+  "block.biomeswevegone.florus_bookshelf": {
+    "en": "Florus Bookshelf",
+    "zh": "花茎木书架",
+    "vi": null
+  },
+  "block.biomeswevegone.florus_button": {
+    "en": "Florus Button",
+    "zh": "花茎木按钮",
+    "vi": null
+  },
+  "block.biomeswevegone.florus_crafting_table": {
+    "en": "Florus Crafting Table",
+    "zh": "花茎木工作台",
+    "vi": null
+  },
+  "block.biomeswevegone.florus_door": {
+    "en": "Florus Door",
+    "zh": "花茎木门",
+    "vi": null
+  },
+  "block.biomeswevegone.florus_fence": {
+    "en": "Florus Fence",
+    "zh": "花茎木栅栏",
+    "vi": null
+  },
+  "block.biomeswevegone.florus_fence_gate": {
+    "en": "Florus Fence Gate",
+    "zh": "花茎木栅栏门",
+    "vi": null
+  },
+  "block.biomeswevegone.florus_hanging_sign": {
+    "en": "Florus Hanging Sign",
+    "zh": "花茎木悬挂式告示牌",
+    "vi": null
+  },
+  "block.biomeswevegone.florus_planks": {
+    "en": "Florus Planks",
+    "zh": "花茎木木板",
+    "vi": null
+  },
+  "block.biomeswevegone.florus_pressure_plate": {
+    "en": "Florus Pressure Plate",
+    "zh": "花茎木压力板",
+    "vi": null
+  },
+  "block.biomeswevegone.florus_sign": {
+    "en": "Florus Sign",
+    "zh": "花茎木告示牌",
+    "vi": null
+  },
+  "block.biomeswevegone.florus_slab": {
+    "en": "Florus Slab",
+    "zh": "花茎木台阶",
+    "vi": null
+  },
+  "block.biomeswevegone.florus_stairs": {
+    "en": "Florus Stairs",
+    "zh": "花茎木楼梯",
+    "vi": null
+  },
+  "block.biomeswevegone.florus_stem": {
+    "en": "Florus Stem",
+    "zh": "花茎",
+    "vi": null
+  },
+  "block.biomeswevegone.florus_trapdoor": {
+    "en": "Florus Trapdoor",
+    "zh": "花茎木活板门",
+    "vi": null
+  },
+  "block.biomeswevegone.florus_wood": {
+    "en": "Florus Wood",
+    "zh": "花茎木",
+    "vi": null
+  },
+  "block.biomeswevegone.flower_patch": {
+    "en": "Flower Patch",
+    "zh": "花簇",
+    "vi": null
+  },
+  "block.biomeswevegone.flowering_baobab_leaves": {
+    "en": "Flowering Baobab Leaves",
+    "zh": "开花的猴面包树叶",
+    "vi": null
+  },
+  "block.biomeswevegone.flowering_barrel_cactus": {
+    "en": "Flowering Barrel Cactus",
+    "zh": "开花的桶形仙人掌",
+    "vi": null
+  },
+  "block.biomeswevegone.flowering_indigo_jacaranda_bush": {
+    "en": "Flowering Indigo Jacaranda Bush",
+    "zh": "开花的靛青蓝花楹灌丛",
+    "vi": null
+  },
+  "block.biomeswevegone.flowering_indigo_jacaranda_leaves": {
+    "en": "Flowering Indigo Jacaranda Leaves",
+    "zh": "开花的靛青蓝花楹树叶",
+    "vi": null
+  },
+  "block.biomeswevegone.flowering_ironwood_leaves": {
+    "en": "Flowering Ironwood Leaves",
+    "zh": "开花的铁色树叶",
+    "vi": null
+  },
+  "block.biomeswevegone.flowering_jacaranda_bush": {
+    "en": "Flowering Jacaranda Bush",
+    "zh": "开花的蓝花楹灌丛",
+    "vi": null
+  },
+  "block.biomeswevegone.flowering_jacaranda_leaves": {
+    "en": "Flowering Jacaranda Leaves",
+    "zh": "开花的靛青蓝花楹树叶",
+    "vi": null
+  },
+  "block.biomeswevegone.flowering_orchard_leaves": {
+    "en": "Flowering Orchard Leaves",
+    "zh": "开花的果树树叶",
+    "vi": null
+  },
+  "block.biomeswevegone.flowering_palo_verde_leaves": {
+    "en": "Flowering Palo Verde Leaves",
+    "zh": "开花的扁轴树叶",
+    "vi": null
+  },
+  "block.biomeswevegone.flowering_skyris_leaves": {
+    "en": "Flowering Skyris Leaves",
+    "zh": "开花的天际树叶",
+    "vi": null
+  },
+  "block.biomeswevegone.flowering_tiny_lily_pads": {
+    "en": "Flowering Tiny Lily Pads",
+    "zh": "开花的小型睡莲",
+    "vi": null
+  },
+  "block.biomeswevegone.flowering_yucca_leaves": {
+    "en": "Flowering Yucca Leaves",
+    "zh": "开花的丝兰树叶",
+    "vi": null
+  },
+  "block.biomeswevegone.foragers_table": {
+    "en": "Foragers Table",
+    "zh": "采集台",
+    "vi": null
+  },
+  "block.biomeswevegone.foxglove": {
+    "en": "Foxglove",
+    "zh": "毛地黄",
+    "vi": null
+  },
+  "block.biomeswevegone.golden_spined_cactus": {
+    "en": "Golden Spined Cactus",
+    "zh": "金刺仙人掌",
+    "vi": null
+  },
+  "block.biomeswevegone.green_apple_fruit": {
+    "en": "Green Apple Fruit",
+    "zh": "青苹果",
+    "vi": null
+  },
+  "block.biomeswevegone.green_apple_skyris_leaves": {
+    "en": "Green Apple Skyris Leaves",
+    "zh": "青苹果天际树叶",
+    "vi": null
+  },
+  "block.biomeswevegone.green_enchanted_bookshelf": {
+    "en": "Green Enchanted Bookshelf",
+    "zh": "绿色魔法木书架",
+    "vi": null
+  },
+  "block.biomeswevegone.green_enchanted_button": {
+    "en": "Green Enchanted Button",
+    "zh": "绿色魔法木按钮",
+    "vi": null
+  },
+  "block.biomeswevegone.green_enchanted_crafting_table": {
+    "en": "Green Enchanted Crafting Table",
+    "zh": "绿色魔法木工作台",
+    "vi": null
+  },
+  "block.biomeswevegone.green_enchanted_door": {
+    "en": "Green Enchanted Door",
+    "zh": "绿色魔法木门",
+    "vi": null
+  },
+  "block.biomeswevegone.green_enchanted_fence": {
+    "en": "Green Enchanted Fence",
+    "zh": "绿色魔法木栅栏",
+    "vi": null
+  },
+  "block.biomeswevegone.green_enchanted_fence_gate": {
+    "en": "Green Enchanted Fence Gate",
+    "zh": "绿色魔法木栅栏门",
+    "vi": null
+  },
+  "block.biomeswevegone.green_enchanted_hanging_sign": {
+    "en": "Green Enchanted Hanging Sign",
+    "zh": "绿色魔法木悬挂式告示牌",
+    "vi": null
+  },
+  "block.biomeswevegone.green_enchanted_leaves": {
+    "en": "Green Enchanted Leaves",
+    "zh": "绿色魔法树树叶",
+    "vi": null
+  },
+  "block.biomeswevegone.green_enchanted_log": {
+    "en": "Green Enchanted Log",
+    "zh": "绿色魔法木原木",
+    "vi": null
+  },
+  "block.biomeswevegone.green_enchanted_planks": {
+    "en": "Green Enchanted Planks",
+    "zh": "绿色魔法木木板",
+    "vi": null
+  },
+  "block.biomeswevegone.green_enchanted_pressure_plate": {
+    "en": "Green Enchanted Pressure Plate",
+    "zh": "绿色魔法木压力板",
+    "vi": null
+  },
+  "block.biomeswevegone.green_enchanted_sapling": {
+    "en": "Green Enchanted Sapling",
+    "zh": "绿色魔法树苗",
+    "vi": null
+  },
+  "block.biomeswevegone.green_enchanted_sign": {
+    "en": "Green Enchanted Sign",
+    "zh": "绿色魔法木告示牌",
+    "vi": null
+  },
+  "block.biomeswevegone.green_enchanted_slab": {
+    "en": "Green Enchanted Slab",
+    "zh": "绿色魔法木台阶",
+    "vi": null
+  },
+  "block.biomeswevegone.green_enchanted_stairs": {
+    "en": "Green Enchanted Stairs",
+    "zh": "绿色魔法木楼梯",
+    "vi": null
+  },
+  "block.biomeswevegone.green_enchanted_trapdoor": {
+    "en": "Green Enchanted Trapdoor",
+    "zh": "绿色魔法木活板门",
+    "vi": null
+  },
+  "block.biomeswevegone.green_enchanted_wood": {
+    "en": "Green Enchanted Wood",
+    "zh": "绿色魔法木",
+    "vi": null
+  },
+  "block.biomeswevegone.green_mushroom": {
+    "en": "Green Mushroom",
+    "zh": "绿色蘑菇",
+    "vi": null
+  },
+  "block.biomeswevegone.green_mushroom_block": {
+    "en": "Green Mushroom Block",
+    "zh": "绿色蘑菇块",
+    "vi": null
+  },
+  "block.biomeswevegone.green_tulip": {
+    "en": "Green Tulip",
+    "zh": "绿色郁金香",
+    "vi": null
+  },
+  "block.biomeswevegone.guzmania": {
+    "en": "Guzmania",
+    "zh": "星花凤梨",
+    "vi": null
+  },
+  "block.biomeswevegone.holly_berry_leaves": {
+    "en": "Holly Berry Leaves",
+    "zh": "冬青树树叶",
+    "vi": null
+  },
+  "block.biomeswevegone.holly_bookshelf": {
+    "en": "Holly Bookshelf",
+    "zh": "冬青木书架",
+    "vi": null
+  },
+  "block.biomeswevegone.holly_button": {
+    "en": "Holly Button",
+    "zh": "冬青木按钮",
+    "vi": null
+  },
+  "block.biomeswevegone.holly_crafting_table": {
+    "en": "Holly Crafting Table",
+    "zh": "冬青木工作台",
+    "vi": null
+  },
+  "block.biomeswevegone.holly_door": {
+    "en": "Holly Door",
+    "zh": "冬青木门",
+    "vi": null
+  },
+  "block.biomeswevegone.holly_fence": {
+    "en": "Holly Fence",
+    "zh": "冬青木栅栏",
+    "vi": null
+  },
+  "block.biomeswevegone.holly_fence_gate": {
+    "en": "Holly Fence Gate",
+    "zh": "冬青木栅栏门",
+    "vi": null
+  },
+  "block.biomeswevegone.holly_hanging_sign": {
+    "en": "Holly Hanging Sign",
+    "zh": "冬青木悬挂式告示牌",
+    "vi": null
+  },
+  "block.biomeswevegone.holly_leaves": {
+    "en": "Holly Leaves",
+    "zh": "冬青树树叶",
+    "vi": null
+  },
+  "block.biomeswevegone.holly_log": {
+    "en": "Holly Log",
+    "zh": "冬青木原木",
+    "vi": null
+  },
+  "block.biomeswevegone.holly_planks": {
+    "en": "Holly Planks",
+    "zh": "冬青木木板",
+    "vi": null
+  },
+  "block.biomeswevegone.holly_pressure_plate": {
+    "en": "Holly Pressure Plate",
+    "zh": "冬青木压力板",
+    "vi": null
+  },
+  "block.biomeswevegone.holly_sapling": {
+    "en": "Holly Sapling",
+    "zh": "冬青树苗",
+    "vi": null
+  },
+  "block.biomeswevegone.holly_sign": {
+    "en": "Holly Sign",
+    "zh": "冬青木告示牌",
+    "vi": null
+  },
+  "block.biomeswevegone.holly_slab": {
+    "en": "Holly Slab",
+    "zh": "冬青木台阶",
+    "vi": null
+  },
+  "block.biomeswevegone.holly_stairs": {
+    "en": "Holly Stairs",
+    "zh": "冬青木楼梯",
+    "vi": null
+  },
+  "block.biomeswevegone.holly_trapdoor": {
+    "en": "Holly Trapdoor",
+    "zh": "冬青木活板门",
+    "vi": null
+  },
+  "block.biomeswevegone.holly_wood": {
+    "en": "Holly Wood",
+    "zh": "冬青木",
+    "vi": null
+  },
+  "block.biomeswevegone.horseweed": {
+    "en": "Horseweed",
+    "zh": "小蓬草",
+    "vi": null
+  },
+  "block.biomeswevegone.hydrangea_bush": {
+    "en": "Hydrangea Bush",
+    "zh": "绣球花灌丛",
+    "vi": null
+  },
+  "block.biomeswevegone.hydrangea_hedge": {
+    "en": "Hydrangea Hedge",
+    "zh": "绣球花丛",
+    "vi": null
+  },
+  "block.biomeswevegone.imbued_blue_enchanted_wood": {
+    "en": "Imbued Blue Enchanted Wood",
+    "zh": "盈染的蓝色魔法原木",
+    "vi": null
+  },
+  "block.biomeswevegone.imbued_green_enchanted_wood": {
+    "en": "Imbued Green Enchanted Wood",
+    "zh": "盈染的绿色魔法原木",
+    "vi": null
+  },
+  "block.biomeswevegone.incan_lily": {
+    "en": "Incan Lily",
+    "zh": "六出花",
+    "vi": null
+  },
+  "block.biomeswevegone.indigo_jacaranda_bush": {
+    "en": "Indigo Jacaranda Bush",
+    "zh": "靛青蓝花楹灌木",
+    "vi": null
+  },
+  "block.biomeswevegone.indigo_jacaranda_leaves": {
+    "en": "Indigo Jacaranda Leaves",
+    "zh": "靛青蓝花楹树叶",
+    "vi": null
+  },
+  "block.biomeswevegone.indigo_jacaranda_sapling": {
+    "en": "Indigo Jacaranda Sapling",
+    "zh": "靛青蓝花楹树苗",
+    "vi": null
+  },
+  "block.biomeswevegone.iris": {
+    "en": "Iris",
+    "zh": "鸢尾花",
+    "vi": null
+  },
+  "block.biomeswevegone.ironwood_bookshelf": {
+    "en": "Ironwood Bookshelf",
+    "zh": "铁色木书架",
+    "vi": null
+  },
+  "block.biomeswevegone.ironwood_button": {
+    "en": "Ironwood Button",
+    "zh": "铁色木按钮",
+    "vi": null
+  },
+  "block.biomeswevegone.ironwood_crafting_table": {
+    "en": "Ironwood Crafting Table",
+    "zh": "铁色木工作台",
+    "vi": null
+  },
+  "block.biomeswevegone.ironwood_door": {
+    "en": "Ironwood Door",
+    "zh": "铁色木门",
+    "vi": null
+  },
+  "block.biomeswevegone.ironwood_fence": {
+    "en": "Ironwood Fence",
+    "zh": "铁色木栅栏",
+    "vi": null
+  },
+  "block.biomeswevegone.ironwood_fence_gate": {
+    "en": "Ironwood Fence Gate",
+    "zh": "铁色木栅栏门",
+    "vi": null
+  },
+  "block.biomeswevegone.ironwood_hanging_sign": {
+    "en": "Ironwood Hanging Sign",
+    "zh": "铁色木悬挂式告示牌",
+    "vi": null
+  },
+  "block.biomeswevegone.ironwood_leaves": {
+    "en": "Ironwood Leaves",
+    "zh": "铁色木树叶",
+    "vi": null
+  },
+  "block.biomeswevegone.ironwood_log": {
+    "en": "Ironwood Log",
+    "zh": "铁色木原木",
+    "vi": null
+  },
+  "block.biomeswevegone.ironwood_planks": {
+    "en": "Ironwood Planks",
+    "zh": "铁色木木板",
+    "vi": null
+  },
+  "block.biomeswevegone.ironwood_pressure_plate": {
+    "en": "Ironwood Pressure Plate",
+    "zh": "铁色木压力板",
+    "vi": null
+  },
+  "block.biomeswevegone.ironwood_sapling": {
+    "en": "Ironwood Sapling",
+    "zh": "铁色木树苗",
+    "vi": null
+  },
+  "block.biomeswevegone.ironwood_sign": {
+    "en": "Ironwood Sign",
+    "zh": "铁色木告示牌",
+    "vi": null
+  },
+  "block.biomeswevegone.ironwood_slab": {
+    "en": "Ironwood Slab",
+    "zh": "铁色木台阶",
+    "vi": null
+  },
+  "block.biomeswevegone.ironwood_stairs": {
+    "en": "Ironwood Stairs",
+    "zh": "铁色木楼梯",
+    "vi": null
+  },
+  "block.biomeswevegone.ironwood_trapdoor": {
+    "en": "Ironwood Trapdoor",
+    "zh": "铁色木活板门",
+    "vi": null
+  },
+  "block.biomeswevegone.ironwood_wood": {
+    "en": "Ironwood Wood",
+    "zh": "铁色木",
+    "vi": null
+  },
+  "block.biomeswevegone.jacaranda_bookshelf": {
+    "en": "Jacaranda Bookshelf",
+    "zh": "蓝花楹木书架",
+    "vi": null
+  },
+  "block.biomeswevegone.jacaranda_bush": {
+    "en": "Jacaranda Bush",
+    "zh": "蓝花楹灌丛",
+    "vi": null
+  },
+  "block.biomeswevegone.jacaranda_button": {
+    "en": "Jacaranda Button",
+    "zh": "蓝花楹木按钮",
+    "vi": null
+  },
+  "block.biomeswevegone.jacaranda_crafting_table": {
+    "en": "Jacaranda Crafting Table",
+    "zh": "蓝花楹木工作台",
+    "vi": null
+  },
+  "block.biomeswevegone.jacaranda_door": {
+    "en": "Jacaranda Door",
+    "zh": "蓝花楹木门",
+    "vi": null
+  },
+  "block.biomeswevegone.jacaranda_fence": {
+    "en": "Jacaranda Fence",
+    "zh": "蓝花楹木栅栏",
+    "vi": null
+  },
+  "block.biomeswevegone.jacaranda_fence_gate": {
+    "en": "Jacaranda Fence Gate",
+    "zh": "蓝花楹木栅栏门",
+    "vi": null
+  },
+  "block.biomeswevegone.jacaranda_hanging_sign": {
+    "en": "Jacaranda Hanging Sign",
+    "zh": "蓝花楹木悬挂式告示牌",
+    "vi": null
+  },
+  "block.biomeswevegone.jacaranda_leaves": {
+    "en": "Jacaranda Leaves",
+    "zh": "蓝花楹树叶",
+    "vi": null
+  },
+  "block.biomeswevegone.jacaranda_log": {
+    "en": "Jacaranda Log",
+    "zh": "蓝花楹木原木",
+    "vi": null
+  },
+  "block.biomeswevegone.jacaranda_planks": {
+    "en": "Jacaranda Planks",
+    "zh": "蓝花楹木木板",
+    "vi": null
+  },
+  "block.biomeswevegone.jacaranda_pressure_plate": {
+    "en": "Jacaranda Pressure Plate",
+    "zh": "蓝花楹木压力板",
+    "vi": null
+  },
+  "block.biomeswevegone.jacaranda_sapling": {
+    "en": "Jacaranda Sapling",
+    "zh": "蓝花楹树苗",
+    "vi": null
+  },
+  "block.biomeswevegone.jacaranda_sign": {
+    "en": "Jacaranda Sign",
+    "zh": "蓝花楹木告示牌",
+    "vi": null
+  },
+  "block.biomeswevegone.jacaranda_slab": {
+    "en": "Jacaranda Slab",
+    "zh": "蓝花楹木台阶",
+    "vi": null
+  },
+  "block.biomeswevegone.jacaranda_stairs": {
+    "en": "Jacaranda Stairs",
+    "zh": "蓝花楹木楼梯",
+    "vi": null
+  },
+  "block.biomeswevegone.jacaranda_trapdoor": {
+    "en": "Jacaranda Trapdoor",
+    "zh": "蓝花楹木活板门",
+    "vi": null
+  },
+  "block.biomeswevegone.jacaranda_wood": {
+    "en": "Jacaranda Wood",
+    "zh": "蓝花楹木",
+    "vi": null
+  },
+  "block.biomeswevegone.japanese_orchid": {
+    "en": "Japanese Orchid",
+    "zh": "日本兰花",
+    "vi": null
+  },
+  "block.biomeswevegone.kovan_flower": {
+    "en": "Kovan Flower",
+    "zh": "高文花",
+    "vi": null
+  },
+  "block.biomeswevegone.lazarus_bellflower": {
+    "en": "Lazarus Bellflower",
+    "zh": "阿尔泰贝母",
+    "vi": null
+  },
+  "block.biomeswevegone.leaf_pile": {
+    "en": "Leaf Pile",
+    "zh": "落叶堆",
+    "vi": null
+  },
+  "block.biomeswevegone.lollipop_flower": {
+    "en": "Lollipop Flower",
+    "zh": "金苞花",
+    "vi": null
+  },
+  "block.biomeswevegone.lush_dirt": {
+    "en": "Lush Dirt",
+    "zh": "富壤土",
+    "vi": null
+  },
+  "block.biomeswevegone.lush_dirt_path": {
+    "en": "Lush Dirt Path",
+    "zh": "富壤土土径",
+    "vi": null
+  },
+  "block.biomeswevegone.lush_farmland": {
+    "en": "Lush Farmland",
+    "zh": "富壤土耕地",
+    "vi": null
+  },
+  "block.biomeswevegone.lush_grass_block": {
+    "en": "Lush Grass Block",
+    "zh": "富壤草方块",
+    "vi": null
+  },
+  "block.biomeswevegone.magenta_amaranth": {
+    "en": "Magenta Amaranth",
+    "zh": "品红色苋菜花",
+    "vi": null
+  },
+  "block.biomeswevegone.magenta_pitcher_plant": {
+    "en": "Magenta Pitcher Plant",
+    "zh": "品红色瓶子草",
+    "vi": null
+  },
+  "block.biomeswevegone.magenta_tulip": {
+    "en": "Magenta Tulip",
+    "zh": "品红色郁金香",
+    "vi": null
+  },
+  "block.biomeswevegone.mahogany_bookshelf": {
+    "en": "Mahogany Bookshelf",
+    "zh": "桃花心木书架",
+    "vi": null
+  },
+  "block.biomeswevegone.mahogany_button": {
+    "en": "Mahogany Button",
+    "zh": "桃花心木按钮",
+    "vi": null
+  },
+  "block.biomeswevegone.mahogany_crafting_table": {
+    "en": "Mahogany Crafting Table",
+    "zh": "桃花心木工作台",
+    "vi": null
+  },
+  "block.biomeswevegone.mahogany_door": {
+    "en": "Mahogany Door",
+    "zh": "桃花心木门",
+    "vi": null
+  },
+  "block.biomeswevegone.mahogany_fence": {
+    "en": "Mahogany Fence",
+    "zh": "桃花心木栅栏",
+    "vi": null
+  },
+  "block.biomeswevegone.mahogany_fence_gate": {
+    "en": "Mahogany Fence Gate",
+    "zh": "桃花心木栅栏门",
+    "vi": null
+  },
+  "block.biomeswevegone.mahogany_hanging_sign": {
+    "en": "Mahogany Hanging Sign",
+    "zh": "桃花心木悬挂式告示牌",
+    "vi": null
+  },
+  "block.biomeswevegone.mahogany_leaves": {
+    "en": "Mahogany Leaves",
+    "zh": "桃花心木树叶",
+    "vi": null
+  },
+  "block.biomeswevegone.mahogany_log": {
+    "en": "Mahogany Log",
+    "zh": "桃花心木原木",
+    "vi": null
+  },
+  "block.biomeswevegone.mahogany_planks": {
+    "en": "Mahogany Planks",
+    "zh": "桃花心木木板",
+    "vi": null
+  },
+  "block.biomeswevegone.mahogany_pressure_plate": {
+    "en": "Mahogany Pressure Plate",
+    "zh": "桃花心木压力板",
+    "vi": null
+  },
+  "block.biomeswevegone.mahogany_sapling": {
+    "en": "Mahogany Sapling",
+    "zh": "桃花心木树苗",
+    "vi": null
+  },
+  "block.biomeswevegone.mahogany_sign": {
+    "en": "Mahogany Sign",
+    "zh": "桃花心木告示牌",
+    "vi": null
+  },
+  "block.biomeswevegone.mahogany_slab": {
+    "en": "Mahogany Slab",
+    "zh": "桃花心木台阶",
+    "vi": null
+  },
+  "block.biomeswevegone.mahogany_stairs": {
+    "en": "Mahogany Stairs",
+    "zh": "桃花心木楼梯",
+    "vi": null
+  },
+  "block.biomeswevegone.mahogany_trapdoor": {
+    "en": "Mahogany Trapdoor",
+    "zh": "桃花心木活板门",
+    "vi": null
+  },
+  "block.biomeswevegone.mahogany_wood": {
+    "en": "Mahogany Wood",
+    "zh": "桃花心木",
+    "vi": null
+  },
+  "block.biomeswevegone.maple_bookshelf": {
+    "en": "Maple Bookshelf",
+    "zh": "枫木书架",
+    "vi": null
+  },
+  "block.biomeswevegone.maple_button": {
+    "en": "Maple Button",
+    "zh": "枫木按钮",
+    "vi": null
+  },
+  "block.biomeswevegone.maple_crafting_table": {
+    "en": "Maple Crafting Table",
+    "zh": "枫木工作台",
+    "vi": null
+  },
+  "block.biomeswevegone.maple_door": {
+    "en": "Maple Door",
+    "zh": "枫木门",
+    "vi": null
+  },
+  "block.biomeswevegone.maple_fence": {
+    "en": "Maple Fence",
+    "zh": "枫木栅栏",
+    "vi": null
+  },
+  "block.biomeswevegone.maple_fence_gate": {
+    "en": "Maple Fence Gate",
+    "zh": "枫木栅栏门",
+    "vi": null
+  },
+  "block.biomeswevegone.maple_hanging_sign": {
+    "en": "Maple Hanging Sign",
+    "zh": "枫木悬挂式告示牌",
+    "vi": null
+  },
+  "block.biomeswevegone.maple_leaves": {
+    "en": "Maple Leaves",
+    "zh": "枫树叶",
+    "vi": null
+  },
+  "block.biomeswevegone.maple_log": {
+    "en": "Maple Log",
+    "zh": "枫木原木",
+    "vi": null
+  },
+  "block.biomeswevegone.maple_planks": {
+    "en": "Maple Planks",
+    "zh": "枫木木板",
+    "vi": null
+  },
+  "block.biomeswevegone.maple_pressure_plate": {
+    "en": "Maple Pressure Plate",
+    "zh": "枫木压力板",
+    "vi": null
+  },
+  "block.biomeswevegone.maple_sapling": {
+    "en": "Maple Sapling",
+    "zh": "枫树苗",
+    "vi": null
+  },
+  "block.biomeswevegone.maple_sign": {
+    "en": "Maple Sign",
+    "zh": "枫木告示牌",
+    "vi": null
+  },
+  "block.biomeswevegone.maple_slab": {
+    "en": "Maple Slab",
+    "zh": "枫木台阶",
+    "vi": null
+  },
+  "block.biomeswevegone.maple_stairs": {
+    "en": "Maple Stairs",
+    "zh": "枫木楼梯",
+    "vi": null
+  },
+  "block.biomeswevegone.maple_trapdoor": {
+    "en": "Maple Trapdoor",
+    "zh": "枫木活板门",
+    "vi": null
+  },
+  "block.biomeswevegone.maple_wood": {
+    "en": "Maple Wood",
+    "zh": "枫木",
+    "vi": null
+  },
+  "block.biomeswevegone.mini_cactus": {
+    "en": "Mini Cactus",
+    "zh": "小型仙人掌",
+    "vi": null
+  },
+  "block.biomeswevegone.mossy_dacite_brick_slab": {
+    "en": "Mossy Dacite Brick Slab",
+    "zh": "附苔英安岩砖台阶",
+    "vi": null
+  },
+  "block.biomeswevegone.mossy_dacite_brick_stairs": {
+    "en": "Mossy Dacite Brick Stairs",
+    "zh": "附苔英安岩砖楼梯",
+    "vi": null
+  },
+  "block.biomeswevegone.mossy_dacite_brick_wall": {
+    "en": "Mossy Dacite Brick Wall",
+    "zh": "附苔英安岩砖墙",
+    "vi": null
+  },
+  "block.biomeswevegone.mossy_dacite_bricks": {
+    "en": "Mossy Dacite Bricks",
+    "zh": "附苔英安岩砖",
+    "vi": null
+  },
+  "block.biomeswevegone.mossy_red_rock_brick_slab": {
+    "en": "Mossy Red Rock Brick Slab",
+    "zh": "附苔红岩砖台阶",
+    "vi": null
+  },
+  "block.biomeswevegone.mossy_red_rock_brick_stairs": {
+    "en": "Mossy Red Rock Brick Stairs",
+    "zh": "附苔红岩砖楼梯",
+    "vi": null
+  },
+  "block.biomeswevegone.mossy_red_rock_brick_wall": {
+    "en": "Mossy Red Rock Brick Wall",
+    "zh": "附苔红岩砖墙",
+    "vi": null
+  },
+  "block.biomeswevegone.mossy_red_rock_bricks": {
+    "en": "Mossy Red Rock Bricks",
+    "zh": "附苔红岩砖",
+    "vi": null
+  },
+  "block.biomeswevegone.mossy_stone": {
+    "en": "Mossy Stone",
+    "zh": "苔藓石",
+    "vi": null
+  },
+  "block.biomeswevegone.mossy_stone_slab": {
+    "en": "Mossy Stone Slab",
+    "zh": "苔藓石台阶",
+    "vi": null
+  },
+  "block.biomeswevegone.mossy_stone_stairs": {
+    "en": "Mossy Stone Stairs",
+    "zh": "苔藓石楼梯",
+    "vi": null
+  },
+  "block.biomeswevegone.mossy_stone_wall": {
+    "en": "Mossy Stone Wall",
+    "zh": "苔藓石墙",
+    "vi": null
+  },
+  "block.biomeswevegone.mossy_white_dacite_brick_slab": {
+    "en": "Mossy White Dacite Brick Slab",
+    "zh": "附苔白色英安岩砖台阶",
+    "vi": null
+  },
+  "block.biomeswevegone.mossy_white_dacite_brick_stairs": {
+    "en": "Mossy White Dacite Brick Stairs",
+    "zh": "附苔白色英安岩砖楼梯",
+    "vi": null
+  },
+  "block.biomeswevegone.mossy_white_dacite_brick_wall": {
+    "en": "Mossy White Dacite Brick Wall",
+    "zh": "附苔白色英安岩砖墙",
+    "vi": null
+  },
+  "block.biomeswevegone.mossy_white_dacite_bricks": {
+    "en": "Mossy White Dacite Bricks",
+    "zh": "附苔白色英安岩砖",
+    "vi": null
+  },
+  "block.biomeswevegone.oddion_crop": {
+    "en": "Oddion Crop",
+    "zh": "奇异作物",
+    "vi": null
+  },
+  "block.biomeswevegone.orange_amaranth": {
+    "en": "Orange Amaranth",
+    "zh": "橙色苋菜花",
+    "vi": null
+  },
+  "block.biomeswevegone.orange_birch_leaves": {
+    "en": "Orange Birch Leaves",
+    "zh": "橙色白桦树树叶",
+    "vi": null
+  },
+  "block.biomeswevegone.orange_birch_sapling": {
+    "en": "Orange Birch Sapling",
+    "zh": "橙色桦树苗",
+    "vi": null
+  },
+  "block.biomeswevegone.orange_daisy": {
+    "en": "Orange Daisy",
+    "zh": "橙色雏菊",
+    "vi": null
+  },
+  "block.biomeswevegone.orange_oak_leaves": {
+    "en": "Orange Oak Leaves",
+    "zh": "橙色橡树树叶",
+    "vi": null
+  },
+  "block.biomeswevegone.orange_oak_sapling": {
+    "en": "Orange Oak Sapling",
+    "zh": "橙色橡树苗",
+    "vi": null
+  },
+  "block.biomeswevegone.orange_spruce_leaves": {
+    "en": "Orange Spruce Leaves",
+    "zh": "橙色云杉树树叶",
+    "vi": null
+  },
+  "block.biomeswevegone.orange_spruce_sapling": {
+    "en": "Orange Spruce Sapling",
+    "zh": "橙色云杉树苗",
+    "vi": null
+  },
+  "block.biomeswevegone.orchard_leaves": {
+    "en": "Orchard Leaves",
+    "zh": "果树树叶",
+    "vi": null
+  },
+  "block.biomeswevegone.orchard_sapling": {
+    "en": "Orchard Sapling",
+    "zh": "果树苗",
+    "vi": null
+  },
+  "block.biomeswevegone.osiria_rose": {
+    "en": "Osiria Rose",
+    "zh": "奥西利亚玫瑰",
+    "vi": null
+  },
+  "block.biomeswevegone.overgrown_dacite": {
+    "en": "Overgrown Dacite",
+    "zh": "覆草英安岩",
+    "vi": null
+  },
+  "block.biomeswevegone.overgrown_stone": {
+    "en": "Overgrown Stone",
+    "zh": "覆草岩石",
+    "vi": null
+  },
+  "block.biomeswevegone.packed_black_ice": {
+    "en": "Packed Black Ice",
+    "zh": "黑浮冰",
+    "vi": null
+  },
+  "block.biomeswevegone.packed_borealis_ice": {
+    "en": "Packed Borealis Ice",
+    "zh": "北境浮冰",
+    "vi": null
+  },
+  "block.biomeswevegone.palm_bookshelf": {
+    "en": "Palm Bookshelf",
+    "zh": "棕榈木书架",
+    "vi": null
+  },
+  "block.biomeswevegone.palm_button": {
+    "en": "Palm Button",
+    "zh": "棕榈木按钮",
+    "vi": null
+  },
+  "block.biomeswevegone.palm_crafting_table": {
+    "en": "Palm Crafting Table",
+    "zh": "棕榈木工作台",
+    "vi": null
+  },
+  "block.biomeswevegone.palm_door": {
+    "en": "Palm Door",
+    "zh": "棕榈木门",
+    "vi": null
+  },
+  "block.biomeswevegone.palm_fence": {
+    "en": "Palm Fence",
+    "zh": "棕榈木栅栏",
+    "vi": null
+  },
+  "block.biomeswevegone.palm_fence_gate": {
+    "en": "Palm Fence Gate",
+    "zh": "棕榈木栅栏门",
+    "vi": null
+  },
+  "block.biomeswevegone.palm_hanging_sign": {
+    "en": "Palm Hanging Sign",
+    "zh": "棕榈木悬挂式告示牌",
+    "vi": null
+  },
+  "block.biomeswevegone.palm_leaves": {
+    "en": "Palm Leaves",
+    "zh": "棕榈树叶",
+    "vi": null
+  },
+  "block.biomeswevegone.palm_log": {
+    "en": "Palm Log",
+    "zh": "棕榈原木",
+    "vi": null
+  },
+  "block.biomeswevegone.palm_planks": {
+    "en": "Palm Planks",
+    "zh": "棕榈木木板",
+    "vi": null
+  },
+  "block.biomeswevegone.palm_pressure_plate": {
+    "en": "Palm Pressure Plate",
+    "zh": "棕榈木压力板",
+    "vi": null
+  },
+  "block.biomeswevegone.palm_sapling": {
+    "en": "Palm Sapling",
+    "zh": "棕榈树苗",
+    "vi": null
+  },
+  "block.biomeswevegone.palm_sign": {
+    "en": "Palm Sign",
+    "zh": "棕榈木告示牌",
+    "vi": null
+  },
+  "block.biomeswevegone.palm_slab": {
+    "en": "Palm Slab",
+    "zh": "棕榈木台阶",
+    "vi": null
+  },
+  "block.biomeswevegone.palm_stairs": {
+    "en": "Palm Stairs",
+    "zh": "棕榈木楼梯",
+    "vi": null
+  },
+  "block.biomeswevegone.palm_trapdoor": {
+    "en": "Palm Trapdoor",
+    "zh": "棕榈木活板门",
+    "vi": null
+  },
+  "block.biomeswevegone.palm_wood": {
+    "en": "Palm Wood",
+    "zh": "棕榈木",
+    "vi": null
+  },
+  "block.biomeswevegone.palo_verde_leaves": {
+    "en": "Palo Verde Leaves",
+    "zh": "扁轴树树叶",
+    "vi": null
+  },
+  "block.biomeswevegone.palo_verde_log": {
+    "en": "Palo Verde Log",
+    "zh": "扁轴木原木",
+    "vi": null
+  },
+  "block.biomeswevegone.palo_verde_sapling": {
+    "en": "Palo Verde Sapling",
+    "zh": "扁轴树苗",
+    "vi": null
+  },
+  "block.biomeswevegone.palo_verde_wood": {
+    "en": "Palo Verde Wood",
+    "zh": "扁轴木原木",
+    "vi": null
+  },
+  "block.biomeswevegone.peach_leather_flower": {
+    "en": "Peach Leather Flower",
+    "zh": "桃粉铁线莲",
+    "vi": null
+  },
+  "block.biomeswevegone.peat": {
+    "en": "Peat",
+    "zh": "泥炭土",
+    "vi": null
+  },
+  "block.biomeswevegone.pine_bookshelf": {
+    "en": "Pine Bookshelf",
+    "zh": "松木书架",
+    "vi": null
+  },
+  "block.biomeswevegone.pine_button": {
+    "en": "Pine Button",
+    "zh": "松木按钮",
+    "vi": null
+  },
+  "block.biomeswevegone.pine_crafting_table": {
+    "en": "Pine Crafting Table",
+    "zh": "松木工作台",
+    "vi": null
+  },
+  "block.biomeswevegone.pine_door": {
+    "en": "Pine Door",
+    "zh": "松木门",
+    "vi": null
+  },
+  "block.biomeswevegone.pine_fence": {
+    "en": "Pine Fence",
+    "zh": "松木栅栏",
+    "vi": null
+  },
+  "block.biomeswevegone.pine_fence_gate": {
+    "en": "Pine Fence Gate",
+    "zh": "松木栅栏门",
+    "vi": null
+  },
+  "block.biomeswevegone.pine_hanging_sign": {
+    "en": "Pine Hanging Sign",
+    "zh": "松木悬挂式公示牌",
+    "vi": null
+  },
+  "block.biomeswevegone.pine_leaves": {
+    "en": "Pine Leaves",
+    "zh": "松树树叶",
+    "vi": null
+  },
+  "block.biomeswevegone.pine_log": {
+    "en": "Pine Log",
+    "zh": "松木原木",
+    "vi": null
+  },
+  "block.biomeswevegone.pine_planks": {
+    "en": "Pine Planks",
+    "zh": "松木木板",
+    "vi": null
+  },
+  "block.biomeswevegone.pine_pressure_plate": {
+    "en": "Pine Pressure Plate",
+    "zh": "松木压力板",
+    "vi": null
+  },
+  "block.biomeswevegone.pine_sapling": {
+    "en": "Pine Sapling",
+    "zh": "松树树苗",
+    "vi": null
+  },
+  "block.biomeswevegone.pine_sign": {
+    "en": "Pine Sign",
+    "zh": "松木公示牌",
+    "vi": null
+  },
+  "block.biomeswevegone.pine_slab": {
+    "en": "Pine Slab",
+    "zh": "松木台阶",
+    "vi": null
+  },
+  "block.biomeswevegone.pine_stairs": {
+    "en": "Pine Stairs",
+    "zh": "松木楼梯",
+    "vi": null
+  },
+  "block.biomeswevegone.pine_trapdoor": {
+    "en": "Pine Trapdoor",
+    "zh": "松木活板门",
+    "vi": null
+  },
+  "block.biomeswevegone.pine_wood": {
+    "en": "Pine Wood",
+    "zh": "松木原木",
+    "vi": null
+  },
+  "block.biomeswevegone.pink_allium": {
+    "en": "Pink Allium",
+    "zh": "粉红色绒球葱",
+    "vi": null
+  },
+  "block.biomeswevegone.pink_allium_flower_bush": {
+    "en": "Pink Allium Flower Bush",
+    "zh": "粉红色绒球葱花丛",
+    "vi": null
+  },
+  "block.biomeswevegone.pink_allium_petal_block": {
+    "en": "Pink Allium Petal Block",
+    "zh": "粉红色绒球葱方块",
+    "vi": null
+  },
+  "block.biomeswevegone.pink_anemone": {
+    "en": "Pink Anemone",
+    "zh": "粉红色银莲花",
+    "vi": null
+  },
+  "block.biomeswevegone.pink_daffodil": {
+    "en": "Pink Daffodil",
+    "zh": "粉红色水仙花",
+    "vi": null
+  },
+  "block.biomeswevegone.pink_sand": {
+    "en": "Pink Sand",
+    "zh": "粉红沙",
+    "vi": null
+  },
+  "block.biomeswevegone.pink_sandstone": {
+    "en": "Pink Sandstone",
+    "zh": "粉红砂岩",
+    "vi": null
+  },
+  "block.biomeswevegone.pink_sandstone_slab": {
+    "en": "Pink Sandstone Slab",
+    "zh": "粉红砂岩台阶",
+    "vi": null
+  },
+  "block.biomeswevegone.pink_sandstone_stairs": {
+    "en": "Pink Sandstone Stairs",
+    "zh": "粉红砂岩楼梯",
+    "vi": null
+  },
+  "block.biomeswevegone.pink_sandstone_wall": {
+    "en": "Pink Sandstone Wall",
+    "zh": "粉红砂岩墙",
+    "vi": null
+  },
+  "block.biomeswevegone.podzol_dacite": {
+    "en": "Podzol Dacite",
+    "zh": "灰化英安岩",
+    "vi": null
+  },
+  "block.biomeswevegone.poison_ivy": {
+    "en": "Poison Ivy",
+    "zh": "剧毒常青藤",
+    "vi": null
+  },
+  "block.biomeswevegone.polished_red_rock": {
+    "en": "Polished Red Rock",
+    "zh": "磨制红岩",
+    "vi": null
+  },
+  "block.biomeswevegone.polished_red_rock_slab": {
+    "en": "Polished Red Rock Slab",
+    "zh": "磨制红岩台阶",
+    "vi": null
+  },
+  "block.biomeswevegone.polished_red_rock_stairs": {
+    "en": "Polished Red Rock Stairs",
+    "zh": "磨制红岩楼梯",
+    "vi": null
+  },
+  "block.biomeswevegone.polished_red_rock_wall": {
+    "en": "Polished Red Rock Wall",
+    "zh": "磨制红岩墙",
+    "vi": null
+  },
+  "block.biomeswevegone.potted_allium_flower_bush": {
+    "en": "Potted Allium Flower Bush",
+    "zh": "绒球葱盆栽",
+    "vi": null
+  },
+  "block.biomeswevegone.potted_alpine_bellflower": {
+    "en": "Potted Alpine Bellflower",
+    "zh": "高山风铃草盆栽",
+    "vi": null
+  },
+  "block.biomeswevegone.potted_amaranth": {
+    "en": "Potted Amaranth",
+    "zh": "苋菜花盆栽",
+    "vi": null
+  },
+  "block.biomeswevegone.potted_angelica": {
+    "en": "Potted Angelica",
+    "zh": "白芷盆栽",
+    "vi": null
+  },
+  "block.biomeswevegone.potted_araucaria_sapling": {
+    "en": "Potted Araucaria Sapling",
+    "zh": "南洋杉树苗盆栽",
+    "vi": null
+  },
+  "block.biomeswevegone.potted_aspen_sapling": {
+    "en": "Potted Aspen Sapling",
+    "zh": "白杨树苗盆栽",
+    "vi": null
+  },
+  "block.biomeswevegone.potted_baobab_sapling": {
+    "en": "Potted Baobab Sapling",
+    "zh": "猴面包树苗盆栽",
+    "vi": null
+  },
+  "block.biomeswevegone.potted_begonia": {
+    "en": "Potted Begonia",
+    "zh": "秋海棠盆栽",
+    "vi": null
+  },
+  "block.biomeswevegone.potted_bistort": {
+    "en": "Potted Bistort",
+    "zh": "拳参盆栽",
+    "vi": null
+  },
+  "block.biomeswevegone.potted_black_rose": {
+    "en": "Potted Black Rose",
+    "zh": "黑色玫瑰盆栽",
+    "vi": null
+  },
+  "block.biomeswevegone.potted_blue_enchanted_sapling": {
+    "en": "Potted Blue Enchanted Sapling",
+    "zh": "蓝色魔法树苗盆栽",
+    "vi": null
+  },
+  "block.biomeswevegone.potted_blue_sage": {
+    "en": "Potted Blue Sage",
+    "zh": "蓝色鼠尾草盆栽",
+    "vi": null
+  },
+  "block.biomeswevegone.potted_blue_spruce_sapling": {
+    "en": "Potted Blue Spruce Sapling",
+    "zh": "蓝色云杉树苗盆栽",
+    "vi": null
+  },
+  "block.biomeswevegone.potted_brown_birch_sapling": {
+    "en": "Potted Brown Birch Sapling",
+    "zh": "棕色桦树苗盆栽",
+    "vi": null
+  },
+  "block.biomeswevegone.potted_brown_oak_sapling": {
+    "en": "Potted Brown Oak Sapling",
+    "zh": "棕色橡树苗盆栽",
+    "vi": null
+  },
+  "block.biomeswevegone.potted_brown_zelkova_sapling": {
+    "en": "Potted Brown Zelkova Sapling",
+    "zh": "棕色榉树苗盆栽",
+    "vi": null
+  },
+  "block.biomeswevegone.potted_california_poppy": {
+    "en": "Potted California Poppy",
+    "zh": "花菱草盆栽",
+    "vi": null
+  },
+  "block.biomeswevegone.potted_cika_sapling": {
+    "en": "Potted Cika Sapling",
+    "zh": "锡卡树苗盆栽",
+    "vi": null
+  },
+  "block.biomeswevegone.potted_crocus": {
+    "en": "Potted Crocus",
+    "zh": "番红花盆栽",
+    "vi": null
+  },
+  "block.biomeswevegone.potted_cyan_amaranth": {
+    "en": "Potted Cyan Amaranth",
+    "zh": "青色苋菜花盆栽",
+    "vi": null
+  },
+  "block.biomeswevegone.potted_cyan_rose": {
+    "en": "Potted Cyan Rose",
+    "zh": "青色玫瑰盆栽",
+    "vi": null
+  },
+  "block.biomeswevegone.potted_cyan_tulip": {
+    "en": "Potted Cyan Tulip",
+    "zh": "青色郁金香",
+    "vi": null
+  },
+  "block.biomeswevegone.potted_cypress_sapling": {
+    "en": "Potted Cypress Sapling",
+    "zh": "柏树苗盆栽",
+    "vi": null
+  },
+  "block.biomeswevegone.potted_daffodil": {
+    "en": "Potted Daffodil",
+    "zh": "水仙花盆栽",
+    "vi": null
+  },
+  "block.biomeswevegone.potted_ebony_sapling": {
+    "en": "Potted Ebony Sapling",
+    "zh": "乌树苗盆栽",
+    "vi": null
+  },
+  "block.biomeswevegone.potted_fairy_slipper": {
+    "en": "Potted Fairy Slipper",
+    "zh": "布袋兰盆栽",
+    "vi": null
+  },
+  "block.biomeswevegone.potted_fir_sapling": {
+    "en": "Potted Fir Sapling",
+    "zh": "冷杉树苗盆栽",
+    "vi": null
+  },
+  "block.biomeswevegone.potted_firecracker_flower_bush": {
+    "en": "Potted Firecracker Flower Bush",
+    "zh": "鸟尾花丛盆栽",
+    "vi": null
+  },
+  "block.biomeswevegone.potted_golden_spined_cactus": {
+    "en": "Potted Golden Spined Cactus",
+    "zh": "金刺仙人掌盆栽",
+    "vi": null
+  },
+  "block.biomeswevegone.potted_green_enchanted_sapling": {
+    "en": "Potted Green Enchanted Sapling",
+    "zh": "绿色魔法树苗盆栽",
+    "vi": null
+  },
+  "block.biomeswevegone.potted_green_tulip": {
+    "en": "Potted Green Tulip",
+    "zh": "绿色郁金香盆栽",
+    "vi": null
+  },
+  "block.biomeswevegone.potted_guzmania": {
+    "en": "Potted Guzmania",
+    "zh": "星花凤梨盆栽",
+    "vi": null
+  },
+  "block.biomeswevegone.potted_holly_sapling": {
+    "en": "Potted Holly Sapling",
+    "zh": "冬青树苗盆栽",
+    "vi": null
+  },
+  "block.biomeswevegone.potted_horseweed": {
+    "en": "Potted Horseweed",
+    "zh": "小蓬草盆栽",
+    "vi": null
+  },
+  "block.biomeswevegone.potted_hydrangea_bush": {
+    "en": "Potted Hydrangea Bush",
+    "zh": "绣球花灌丛盆栽",
+    "vi": null
+  },
+  "block.biomeswevegone.potted_incan_lily": {
+    "en": "Potted Incan Lily",
+    "zh": "六出花盆栽",
+    "vi": null
+  },
+  "block.biomeswevegone.potted_indigo_jacaranda_bush": {
+    "en": "Potted Indigo Jacaranda Bush",
+    "zh": "靛青蓝花楹灌木盆栽",
+    "vi": null
+  },
+  "block.biomeswevegone.potted_indigo_jacaranda_sapling": {
+    "en": "Potted Indigo Jacaranda Sapling",
+    "zh": "靛青蓝花楹树苗盆栽",
+    "vi": null
+  },
+  "block.biomeswevegone.potted_iris": {
+    "en": "Potted Iris",
+    "zh": "鸢尾盆栽",
+    "vi": null
+  },
+  "block.biomeswevegone.potted_ironwood_sapling": {
+    "en": "Potted Ironwood Sapling",
+    "zh": "铁色树苗盆栽",
+    "vi": null
+  },
+  "block.biomeswevegone.potted_jacaranda_bush": {
+    "en": "Potted Jacaranda Bush",
+    "zh": "蓝花楹灌木盆栽",
+    "vi": null
+  },
+  "block.biomeswevegone.potted_jacaranda_sapling": {
+    "en": "Potted Jacaranda Sapling",
+    "zh": "蓝花楹树苗盆栽",
+    "vi": null
+  },
+  "block.biomeswevegone.potted_kovan_flower": {
+    "en": "Potted Kovan Flower",
+    "zh": "高文花盆栽",
+    "vi": null
+  },
+  "block.biomeswevegone.potted_lazarus_bellflower": {
+    "en": "Potted Lazarus Bellflower",
+    "zh": "阿尔泰贝母盆栽",
+    "vi": null
+  },
+  "block.biomeswevegone.potted_lollipop_flower": {
+    "en": "Potted Lollipop Flower",
+    "zh": "金苞花盆栽",
+    "vi": null
+  },
+  "block.biomeswevegone.potted_magenta_amaranth": {
+    "en": "Potted Magenta Amaranth",
+    "zh": "粉红色苋菜花盆栽",
+    "vi": null
+  },
+  "block.biomeswevegone.potted_magenta_tulip": {
+    "en": "Potted Magenta Tulip",
+    "zh": "品红色郁金香盆栽",
+    "vi": null
+  },
+  "block.biomeswevegone.potted_mahogany_sapling": {
+    "en": "Potted Mahogany Sapling",
+    "zh": "桃花心木树苗盆栽",
+    "vi": null
+  },
+  "block.biomeswevegone.potted_maple_sapling": {
+    "en": "Potted Maple Sapling",
+    "zh": "枫树苗盆栽",
+    "vi": null
+  },
+  "block.biomeswevegone.potted_mini_cactus": {
+    "en": "Potted Mini Cactus",
+    "zh": "小型仙人掌盆栽",
+    "vi": null
+  },
+  "block.biomeswevegone.potted_orange_amaranth": {
+    "en": "Potted Orange Amaranth",
+    "zh": "橙色苋菜花盆栽",
+    "vi": null
+  },
+  "block.biomeswevegone.potted_orange_birch_sapling": {
+    "en": "Potted Orange Birch Sapling",
+    "zh": "橙色桦树苗盆栽",
+    "vi": null
+  },
+  "block.biomeswevegone.potted_orange_daisy": {
+    "en": "Potted Orange Daisy",
+    "zh": "橙色雏菊盆栽",
+    "vi": null
+  },
+  "block.biomeswevegone.potted_orange_oak_sapling": {
+    "en": "Potted Orange Oak Sapling",
+    "zh": "橙色橡树苗盆栽",
+    "vi": null
+  },
+  "block.biomeswevegone.potted_orange_spruce_sapling": {
+    "en": "Potted Orange Spruce Sapling",
+    "zh": "橙色云杉树苗盆栽",
+    "vi": null
+  },
+  "block.biomeswevegone.potted_orchard_sapling": {
+    "en": "Potted Orchard Sapling",
+    "zh": "果树苗盆栽",
+    "vi": null
+  },
+  "block.biomeswevegone.potted_osiria_rose": {
+    "en": "Potted Osiria Rose",
+    "zh": "奥西利亚盆栽",
+    "vi": null
+  },
+  "block.biomeswevegone.potted_palm_sapling": {
+    "en": "Potted Palm Sapling",
+    "zh": "棕榈树苗盆栽",
+    "vi": null
+  },
+  "block.biomeswevegone.potted_palo_verde_sapling": {
+    "en": "Potted Palo Verde Sapling",
+    "zh": "扁轴树苗盆栽",
+    "vi": null
+  },
+  "block.biomeswevegone.potted_peach_leather_flower": {
+    "en": "Potted Peach Leather Flower",
+    "zh": "桃粉铁线莲盆栽",
+    "vi": null
+  },
+  "block.biomeswevegone.potted_pine_sapling": {
+    "en": "Potted Pine Sapling",
+    "zh": "松树苗盆栽",
+    "vi": null
+  },
+  "block.biomeswevegone.potted_pink_allium": {
+    "en": "Potted Pink Allium",
+    "zh": "粉红色绒球葱盆栽",
+    "vi": null
+  },
+  "block.biomeswevegone.potted_pink_allium_flower_bush": {
+    "en": "Potted Pink Allium Flower Bush",
+    "zh": "粉红色绒球葱花丛盆栽",
+    "vi": null
+  },
+  "block.biomeswevegone.potted_pink_anemone": {
+    "en": "Potted Pink Anemone",
+    "zh": "粉红色银莲花盆栽",
+    "vi": null
+  },
+  "block.biomeswevegone.potted_pink_daffodil": {
+    "en": "Potted Pink Daffodil",
+    "zh": "粉红色水仙花盆栽",
+    "vi": null
+  },
+  "block.biomeswevegone.potted_prickly_pear_cactus": {
+    "en": "Potted Prickly Pear Cactus",
+    "zh": "刺梨仙人掌盆栽",
+    "vi": null
+  },
+  "block.biomeswevegone.potted_protea_flower": {
+    "en": "Potted Protea Flower",
+    "zh": "帝王花盆栽",
+    "vi": null
+  },
+  "block.biomeswevegone.potted_purple_amaranth": {
+    "en": "Potted Purple Amaranth",
+    "zh": "紫色苋菜花盆栽",
+    "vi": null
+  },
+  "block.biomeswevegone.potted_purple_sage": {
+    "en": "Potted Purple Sage",
+    "zh": "紫色鼠尾草盆栽",
+    "vi": null
+  },
+  "block.biomeswevegone.potted_purple_tulip": {
+    "en": "Potted Purple Tulip",
+    "zh": "紫色郁金香盆栽",
+    "vi": null
+  },
+  "block.biomeswevegone.potted_rainbow_eucalyptus_sapling": {
+    "en": "Potted Rainbow Eucalyptus Sapling",
+    "zh": "彩虹桉树苗盆栽",
+    "vi": null
+  },
+  "block.biomeswevegone.potted_red_birch_sapling": {
+    "en": "Potted Red Birch Sapling",
+    "zh": "红色桦树苗盆栽",
+    "vi": null
+  },
+  "block.biomeswevegone.potted_red_maple_sapling": {
+    "en": "Potted Red Maple Sapling",
+    "zh": "红色枫树苗盆栽",
+    "vi": null
+  },
+  "block.biomeswevegone.potted_red_oak_sapling": {
+    "en": "Potted Red Oak Sapling",
+    "zh": "红色橡树苗盆栽",
+    "vi": null
+  },
+  "block.biomeswevegone.potted_red_spruce_sapling": {
+    "en": "Potted Red Spruce Sapling",
+    "zh": "红色云杉树苗盆栽",
+    "vi": null
+  },
+  "block.biomeswevegone.potted_redwood_sapling": {
+    "en": "Potted Redwood Sapling",
+    "zh": "红杉树苗盆栽",
+    "vi": null
+  },
+  "block.biomeswevegone.potted_richea": {
+    "en": "Potted Richea",
+    "zh": "彩穗花盆栽",
+    "vi": null
+  },
+  "block.biomeswevegone.potted_rose": {
+    "en": "Potted Rose",
+    "zh": "玫瑰盆栽",
+    "vi": null
+  },
+  "block.biomeswevegone.potted_shrub": {
+    "en": "Potted Shrub",
+    "zh": "灌木盆栽",
+    "vi": null
+  },
+  "block.biomeswevegone.potted_silver_maple_sapling": {
+    "en": "Potted Silver Maple Sapling",
+    "zh": "银色枫树苗盆栽",
+    "vi": null
+  },
+  "block.biomeswevegone.potted_silver_vase_flower": {
+    "en": "Potted Silver Vase Flower",
+    "zh": "美叶光萼荷盆栽",
+    "vi": null
+  },
+  "block.biomeswevegone.potted_skyris_sapling": {
+    "en": "Potted Skyris Sapling",
+    "zh": "天际树苗盆栽",
+    "vi": null
+  },
+  "block.biomeswevegone.potted_snowdrops": {
+    "en": "Potted Snowdrops",
+    "zh": "雪滴花盆栽",
+    "vi": null
+  },
+  "block.biomeswevegone.potted_violet_leather_flower": {
+    "en": "Potted Violet Leather Flower",
+    "zh": "蓝紫铁线莲盆栽",
+    "vi": null
+  },
+  "block.biomeswevegone.potted_white_allium": {
+    "en": "Potted White Allium",
+    "zh": "白色绒球葱盆栽",
+    "vi": null
+  },
+  "block.biomeswevegone.potted_white_allium_flower_bush": {
+    "en": "Potted White Allium Flower Bush",
+    "zh": "白色绒球葱花丛盆栽",
+    "vi": null
+  },
+  "block.biomeswevegone.potted_white_anemone": {
+    "en": "Potted White Anemone",
+    "zh": "白色银莲花盆栽",
+    "vi": null
+  },
+  "block.biomeswevegone.potted_white_mangrove_sapling": {
+    "en": "Potted White Mangrove Sapling",
+    "zh": "白色红树苗盆栽",
+    "vi": null
+  },
+  "block.biomeswevegone.potted_white_puffball": {
+    "en": "Potted White Puffball",
+    "zh": "白色马勃菌盆栽",
+    "vi": null
+  },
+  "block.biomeswevegone.potted_white_sage": {
+    "en": "Potted White Sage",
+    "zh": "白色鼠尾草盆栽",
+    "vi": null
+  },
+  "block.biomeswevegone.potted_white_sakura_sapling": {
+    "en": "Potted White Sakura Sapling",
+    "zh": "白色樱花树苗盆栽",
+    "vi": null
+  },
+  "block.biomeswevegone.potted_willow_sapling": {
+    "en": "Potted Willow Sapling",
+    "zh": "柳树苗盆栽",
+    "vi": null
+  },
+  "block.biomeswevegone.potted_winter_cyclamen": {
+    "en": "Potted Winter Cyclamen",
+    "zh": "冬生仙客来盆栽",
+    "vi": null
+  },
+  "block.biomeswevegone.potted_winter_rose": {
+    "en": "Potted Winter Rose",
+    "zh": "冬生玫瑰盆栽",
+    "vi": null
+  },
+  "block.biomeswevegone.potted_winter_scilla": {
+    "en": "Potted Winter Scilla",
+    "zh": "冬生绵枣儿盆栽",
+    "vi": null
+  },
+  "block.biomeswevegone.potted_winter_succulent": {
+    "en": "Potted Winter Succulent",
+    "zh": "冬生多肉植物盆栽",
+    "vi": null
+  },
+  "block.biomeswevegone.potted_witch_hazel_sapling": {
+    "en": "Potted Witch Hazel Sapling",
+    "zh": "金缕梅树苗盆栽",
+    "vi": null
+  },
+  "block.biomeswevegone.potted_yellow_birch_sapling": {
+    "en": "Potted Yellow Birch Sapling",
+    "zh": "黄色桦树苗盆栽",
+    "vi": null
+  },
+  "block.biomeswevegone.potted_yellow_daffodil": {
+    "en": "Potted Yellow Daffodil",
+    "zh": "黄色水仙花盆栽",
+    "vi": null
+  },
+  "block.biomeswevegone.potted_yellow_sakura_sapling": {
+    "en": "Potted Yellow Sakura Sapling",
+    "zh": "黄色樱花树苗盆栽",
+    "vi": null
+  },
+  "block.biomeswevegone.potted_yellow_spruce_sapling": {
+    "en": "Potted Yellow Spruce Sapling",
+    "zh": "黄色云杉树苗盆栽",
+    "vi": null
+  },
+  "block.biomeswevegone.potted_yellow_tulip": {
+    "en": "Potted Yellow Tulip",
+    "zh": "黄色郁金香盆栽",
+    "vi": null
+  },
+  "block.biomeswevegone.potted_yucca_sapling": {
+    "en": "Potted Yucca Sapling",
+    "zh": "丝兰树苗盆栽",
+    "vi": null
+  },
+  "block.biomeswevegone.potted_zelkova_sapling": {
+    "en": "Potted Zelkova Sapling",
+    "zh": "榉树苗盆栽",
+    "vi": null
+  },
+  "block.biomeswevegone.prairie_grass": {
+    "en": "Prairie Grass",
+    "zh": "扁穗雀麦",
+    "vi": null
+  },
+  "block.biomeswevegone.prickly_pear_cactus": {
+    "en": "Prickly Pear Cactus",
+    "zh": "刺梨仙人掌",
+    "vi": null
+  },
+  "block.biomeswevegone.protea_flower": {
+    "en": "Protea Flower",
+    "zh": "帝王花",
+    "vi": null
+  },
+  "block.biomeswevegone.pumpkin_burrow": {
+    "en": "Pumpkin Burrow",
+    "zh": "空洞的南瓜",
+    "vi": null
+  },
+  "block.biomeswevegone.purple_amaranth": {
+    "en": "Purple Amaranth",
+    "zh": "紫色苋菜花",
+    "vi": null
+  },
+  "block.biomeswevegone.purple_sage": {
+    "en": "Purple Sage",
+    "zh": "紫色鼠尾草",
+    "vi": null
+  },
+  "block.biomeswevegone.purple_sand": {
+    "en": "Purple Sand",
+    "zh": "紫沙",
+    "vi": null
+  },
+  "block.biomeswevegone.purple_sandstone": {
+    "en": "Purple Sandstone",
+    "zh": "紫砂岩",
+    "vi": null
+  },
+  "block.biomeswevegone.purple_sandstone_slab": {
+    "en": "Purple Sandstone Slab",
+    "zh": "紫砂岩台阶",
+    "vi": null
+  },
+  "block.biomeswevegone.purple_sandstone_stairs": {
+    "en": "Purple Sandstone Stairs",
+    "zh": "紫砂岩楼梯",
+    "vi": null
+  },
+  "block.biomeswevegone.purple_sandstone_wall": {
+    "en": "Purple Sandstone Wall",
+    "zh": "紫砂岩墙",
+    "vi": null
+  },
+  "block.biomeswevegone.purple_tulip": {
+    "en": "Purple Tulip",
+    "zh": "紫色郁金香",
+    "vi": null
+  },
+  "block.biomeswevegone.quicksand": {
+    "en": "Quicksand",
+    "zh": "流沙",
+    "vi": null
+  },
+  "block.biomeswevegone.rainbow_eucalyptus_bookshelf": {
+    "en": "Rainbow Eucalyptus Bookshelf",
+    "zh": "彩虹桉木书架",
+    "vi": null
+  },
+  "block.biomeswevegone.rainbow_eucalyptus_button": {
+    "en": "Rainbow Eucalyptus Button",
+    "zh": "彩虹桉木按钮",
+    "vi": null
+  },
+  "block.biomeswevegone.rainbow_eucalyptus_crafting_table": {
+    "en": "Rainbow Eucalyptus Crafting Table",
+    "zh": "彩虹桉木工作台",
+    "vi": null
+  },
+  "block.biomeswevegone.rainbow_eucalyptus_door": {
+    "en": "Rainbow Eucalyptus Door",
+    "zh": "彩虹桉木门",
+    "vi": null
+  },
+  "block.biomeswevegone.rainbow_eucalyptus_fence": {
+    "en": "Rainbow Eucalyptus Fence",
+    "zh": "彩虹桉木栅栏",
+    "vi": null
+  },
+  "block.biomeswevegone.rainbow_eucalyptus_fence_gate": {
+    "en": "Rainbow Eucalyptus Fence Gate",
+    "zh": "彩虹桉木栅栏门",
+    "vi": null
+  },
+  "block.biomeswevegone.rainbow_eucalyptus_hanging_sign": {
+    "en": "Rainbow Eucalyptus Hanging Sign",
+    "zh": "彩虹桉木悬挂式公示牌",
+    "vi": null
+  },
+  "block.biomeswevegone.rainbow_eucalyptus_leaves": {
+    "en": "Rainbow Eucalyptus Leaves",
+    "zh": "彩虹桉树叶",
+    "vi": null
+  },
+  "block.biomeswevegone.rainbow_eucalyptus_log": {
+    "en": "Rainbow Eucalyptus Log",
+    "zh": "彩虹桉原木",
+    "vi": null
+  },
+  "block.biomeswevegone.rainbow_eucalyptus_planks": {
+    "en": "Rainbow Eucalyptus Planks",
+    "zh": "彩虹桉木板",
+    "vi": null
+  },
+  "block.biomeswevegone.rainbow_eucalyptus_pressure_plate": {
+    "en": "Rainbow Eucalyptus Pressure Plate",
+    "zh": "彩虹桉压力板",
+    "vi": null
+  },
+  "block.biomeswevegone.rainbow_eucalyptus_sapling": {
+    "en": "Rainbow Eucalyptus Sapling",
+    "zh": "彩虹桉树苗",
+    "vi": null
+  },
+  "block.biomeswevegone.rainbow_eucalyptus_sign": {
+    "en": "Rainbow Eucalyptus Sign",
+    "zh": "彩虹桉木告示牌",
+    "vi": null
+  },
+  "block.biomeswevegone.rainbow_eucalyptus_slab": {
+    "en": "Rainbow Eucalyptus Slab",
+    "zh": "彩虹桉木台阶",
+    "vi": null
+  },
+  "block.biomeswevegone.rainbow_eucalyptus_stairs": {
+    "en": "Rainbow Eucalyptus Stairs",
+    "zh": "彩虹桉木楼梯",
+    "vi": null
+  },
+  "block.biomeswevegone.rainbow_eucalyptus_trapdoor": {
+    "en": "Rainbow Eucalyptus Trapdoor",
+    "zh": "彩虹桉木活板门",
+    "vi": null
+  },
+  "block.biomeswevegone.rainbow_eucalyptus_wood": {
+    "en": "Rainbow Eucalyptus Wood",
+    "zh": "彩虹桉木",
+    "vi": null
+  },
+  "block.biomeswevegone.red_birch_leaves": {
+    "en": "Red Birch Leaves",
+    "zh": "红色白桦树叶",
+    "vi": null
+  },
+  "block.biomeswevegone.red_birch_sapling": {
+    "en": "Red Birch Sapling",
+    "zh": "红色桦树苗",
+    "vi": null
+  },
+  "block.biomeswevegone.red_maple_leaves": {
+    "en": "Red Maple Leaves",
+    "zh": "红色枫树树叶",
+    "vi": null
+  },
+  "block.biomeswevegone.red_maple_sapling": {
+    "en": "Red Maple Sapling",
+    "zh": "红色枫树苗",
+    "vi": null
+  },
+  "block.biomeswevegone.red_oak_leaves": {
+    "en": "Red Oak Leaves",
+    "zh": "红色橡树树叶",
+    "vi": null
+  },
+  "block.biomeswevegone.red_oak_sapling": {
+    "en": "Red Oak Sapling",
+    "zh": "红色橡树苗",
+    "vi": null
+  },
+  "block.biomeswevegone.red_quicksand": {
+    "en": "Red Quicksand",
+    "zh": "红色流沙",
+    "vi": null
+  },
+  "block.biomeswevegone.red_rock": {
+    "en": "Red Rock",
+    "zh": "红岩",
+    "vi": null
+  },
+  "block.biomeswevegone.red_rock_brick_slab": {
+    "en": "Red Rock Brick Slab",
+    "zh": "红岩砖台阶",
+    "vi": null
+  },
+  "block.biomeswevegone.red_rock_brick_stairs": {
+    "en": "Red Rock Brick Stairs",
+    "zh": "红岩砖楼梯",
+    "vi": null
+  },
+  "block.biomeswevegone.red_rock_brick_wall": {
+    "en": "Red Rock Brick Wall",
+    "zh": "红岩砖墙",
+    "vi": null
+  },
+  "block.biomeswevegone.red_rock_bricks": {
+    "en": "Red Rock Bricks",
+    "zh": "红岩砖",
+    "vi": null
+  },
+  "block.biomeswevegone.red_rock_slab": {
+    "en": "Red Rock Slab",
+    "zh": "红岩台阶",
+    "vi": null
+  },
+  "block.biomeswevegone.red_rock_stairs": {
+    "en": "Red Rock Stairs",
+    "zh": "红岩楼梯",
+    "vi": null
+  },
+  "block.biomeswevegone.red_rock_tile_slab": {
+    "en": "Red Rock Tile Slab",
+    "zh": "红岩瓷砖台阶",
+    "vi": null
+  },
+  "block.biomeswevegone.red_rock_tile_stairs": {
+    "en": "Red Rock Tile Stairs",
+    "zh": "红岩瓷砖楼梯",
+    "vi": null
+  },
+  "block.biomeswevegone.red_rock_tile_wall": {
+    "en": "Red Rock Tile Wall",
+    "zh": "红岩瓷砖墙",
+    "vi": null
+  },
+  "block.biomeswevegone.red_rock_tiles": {
+    "en": "Red Rock Tiles",
+    "zh": "红岩瓷砖",
+    "vi": null
+  },
+  "block.biomeswevegone.red_rock_wall": {
+    "en": "Red Rock Wall",
+    "zh": "红岩楼梯",
+    "vi": null
+  },
+  "block.biomeswevegone.red_spruce_leaves": {
+    "en": "Red Spruce Leaves",
+    "zh": "红色云杉树叶",
+    "vi": null
+  },
+  "block.biomeswevegone.red_spruce_sapling": {
+    "en": "Red Spruce Sapling",
+    "zh": "红色云杉树苗",
+    "vi": null
+  },
+  "block.biomeswevegone.redwood_bookshelf": {
+    "en": "Redwood Bookshelf",
+    "zh": "红杉木书架",
+    "vi": null
+  },
+  "block.biomeswevegone.redwood_button": {
+    "en": "Redwood Button",
+    "zh": "红杉木按钮",
+    "vi": null
+  },
+  "block.biomeswevegone.redwood_crafting_table": {
+    "en": "Redwood Crafting Table",
+    "zh": "红杉木工作台",
+    "vi": null
+  },
+  "block.biomeswevegone.redwood_door": {
+    "en": "Redwood Door",
+    "zh": "红杉木门",
+    "vi": null
+  },
+  "block.biomeswevegone.redwood_fence": {
+    "en": "Redwood Fence",
+    "zh": "红杉木栅栏",
+    "vi": null
+  },
+  "block.biomeswevegone.redwood_fence_gate": {
+    "en": "Redwood Fence Gate",
+    "zh": "红杉木栅栏门",
+    "vi": null
+  },
+  "block.biomeswevegone.redwood_hanging_sign": {
+    "en": "Redwood Hanging Sign",
+    "zh": "红杉木悬挂式告示牌",
+    "vi": null
+  },
+  "block.biomeswevegone.redwood_leaves": {
+    "en": "Redwood Leaves",
+    "zh": "红杉树叶",
+    "vi": null
+  },
+  "block.biomeswevegone.redwood_log": {
+    "en": "Redwood Log",
+    "zh": "红杉原木",
+    "vi": null
+  },
+  "block.biomeswevegone.redwood_planks": {
+    "en": "Redwood Planks",
+    "zh": "红杉木板",
+    "vi": null
+  },
+  "block.biomeswevegone.redwood_pressure_plate": {
+    "en": "Redwood Pressure Plate",
+    "zh": "红杉木压力板",
+    "vi": null
+  },
+  "block.biomeswevegone.redwood_sapling": {
+    "en": "Redwood Sapling",
+    "zh": "红杉树苗",
+    "vi": null
+  },
+  "block.biomeswevegone.redwood_sign": {
+    "en": "Redwood Sign",
+    "zh": "红杉木告示牌",
+    "vi": null
+  },
+  "block.biomeswevegone.redwood_slab": {
+    "en": "Redwood Slab",
+    "zh": "红杉木台阶",
+    "vi": null
+  },
+  "block.biomeswevegone.redwood_stairs": {
+    "en": "Redwood Stairs",
+    "zh": "红杉木楼梯",
+    "vi": null
+  },
+  "block.biomeswevegone.redwood_trapdoor": {
+    "en": "Redwood Trapdoor",
+    "zh": "红杉木活板门",
+    "vi": null
+  },
+  "block.biomeswevegone.redwood_wood": {
+    "en": "Redwood Wood",
+    "zh": "红杉木",
+    "vi": null
+  },
+  "block.biomeswevegone.richea": {
+    "en": "Richea",
+    "zh": "彩穗花",
+    "vi": null
+  },
+  "block.biomeswevegone.ripe_baobab_leaves": {
+    "en": "Ripe Baobab Leaves",
+    "zh": "成熟的猴面包树叶",
+    "vi": null
+  },
+  "block.biomeswevegone.ripe_orchard_leaves": {
+    "en": "Ripe Orchard Leaves",
+    "zh": "成熟的果树叶",
+    "vi": null
+  },
+  "block.biomeswevegone.ripe_yucca_leaves": {
+    "en": "Ripe Yucca Leaves",
+    "zh": "成熟的约书亚树叶",
+    "vi": null
+  },
+  "block.biomeswevegone.rocky_stone": {
+    "en": "Rocky Stone",
+    "zh": "鹅卵石",
+    "vi": null
+  },
+  "block.biomeswevegone.rocky_stone_slab": {
+    "en": "Rocky Stone Slab",
+    "zh": "鹅卵石台阶",
+    "vi": null
+  },
+  "block.biomeswevegone.rocky_stone_stairs": {
+    "en": "Rocky Stone Stairs",
+    "zh": "鹅卵石楼梯",
+    "vi": null
+  },
+  "block.biomeswevegone.rocky_stone_wall": {
+    "en": "Rocky Stone Wall",
+    "zh": "鹅卵石墙",
+    "vi": null
+  },
+  "block.biomeswevegone.rose": {
+    "en": "Rose",
+    "zh": "玫瑰",
+    "vi": null
+  },
+  "block.biomeswevegone.rose_petal_block": {
+    "en": "Rose Petal Block",
+    "zh": "玫瑰花瓣方块",
+    "vi": null
+  },
+  "block.biomeswevegone.sakura_bookshelf": {
+    "en": "Sakura Bookshelf",
+    "zh": "樱花木书架",
+    "vi": null
+  },
+  "block.biomeswevegone.sakura_button": {
+    "en": "Sakura Button",
+    "zh": "樱花木按钮",
+    "vi": null
+  },
+  "block.biomeswevegone.sakura_crafting_table": {
+    "en": "Sakura Crafting Table",
+    "zh": "樱花木工作台",
+    "vi": null
+  },
+  "block.biomeswevegone.sakura_door": {
+    "en": "Sakura Door",
+    "zh": "樱花木门",
+    "vi": null
+  },
+  "block.biomeswevegone.sakura_fence": {
+    "en": "Sakura Fence",
+    "zh": "樱花木栅栏",
+    "vi": null
+  },
+  "block.biomeswevegone.sakura_fence_gate": {
+    "en": "Sakura Fence Gate",
+    "zh": "樱花木栅栏门",
+    "vi": null
+  },
+  "block.biomeswevegone.sakura_hanging_sign": {
+    "en": "Sakura Hanging Sign",
+    "zh": "樱花木悬挂式告示牌",
+    "vi": null
+  },
+  "block.biomeswevegone.sakura_log": {
+    "en": "Sakura Log",
+    "zh": "樱花原木",
+    "vi": null
+  },
+  "block.biomeswevegone.sakura_planks": {
+    "en": "Sakura Planks",
+    "zh": "樱花木板",
+    "vi": null
+  },
+  "block.biomeswevegone.sakura_pressure_plate": {
+    "en": "Sakura Pressure Plate",
+    "zh": "樱花木压力板",
+    "vi": null
+  },
+  "block.biomeswevegone.sakura_sign": {
+    "en": "Sakura Sign",
+    "zh": "樱花木告示牌",
+    "vi": null
+  },
+  "block.biomeswevegone.sakura_slab": {
+    "en": "Sakura Slab",
+    "zh": "樱花木台阶",
+    "vi": null
+  },
+  "block.biomeswevegone.sakura_stairs": {
+    "en": "Sakura Stairs",
+    "zh": "樱花木楼梯",
+    "vi": null
+  },
+  "block.biomeswevegone.sakura_trapdoor": {
+    "en": "Sakura Trapdoor",
+    "zh": "樱花木活板门",
+    "vi": null
+  },
+  "block.biomeswevegone.sakura_wood": {
+    "en": "Sakura Wood",
+    "zh": "樱花木",
+    "vi": null
+  },
+  "block.biomeswevegone.sandy_dirt": {
+    "en": "Sandy Dirt",
+    "zh": "沙质土",
+    "vi": null
+  },
+  "block.biomeswevegone.sandy_dirt_path": {
+    "en": "Sandy Dirt Path",
+    "zh": "沙质土土径",
+    "vi": null
+  },
+  "block.biomeswevegone.sandy_farmland": {
+    "en": "Sandy Farmland",
+    "zh": "沙质耕地",
+    "vi": null
+  },
+  "block.biomeswevegone.shelf_fungi": {
+    "en": "Shelf Fungi",
+    "zh": "层孔菌",
+    "vi": null
+  },
+  "block.biomeswevegone.shrub": {
+    "en": "Shrub",
+    "zh": "灌木",
+    "vi": null
+  },
+  "block.biomeswevegone.silver_maple_leaves": {
+    "en": "Silver Maple Leaves",
+    "zh": "银色枫树树叶",
+    "vi": null
+  },
+  "block.biomeswevegone.silver_maple_sapling": {
+    "en": "Silver Maple Sapling",
+    "zh": "银色枫树苗",
+    "vi": null
+  },
+  "block.biomeswevegone.silver_vase_flower": {
+    "en": "Silver Vase Flower",
+    "zh": "美叶光萼荷",
+    "vi": null
+  },
+  "block.biomeswevegone.skyris_bookshelf": {
+    "en": "Skyris Bookshelf",
+    "zh": "天际木书架",
+    "vi": null
+  },
+  "block.biomeswevegone.skyris_button": {
+    "en": "Skyris Button",
+    "zh": "天际木按钮",
+    "vi": null
+  },
+  "block.biomeswevegone.skyris_crafting_table": {
+    "en": "Skyris Crafting Table",
+    "zh": "天际木工作台",
+    "vi": null
+  },
+  "block.biomeswevegone.skyris_door": {
+    "en": "Skyris Door",
+    "zh": "天际木门",
+    "vi": null
+  },
+  "block.biomeswevegone.skyris_fence": {
+    "en": "Skyris Fence",
+    "zh": "天际木栅栏",
+    "vi": null
+  },
+  "block.biomeswevegone.skyris_fence_gate": {
+    "en": "Skyris Fence Gate",
+    "zh": "天际木栅栏门",
+    "vi": null
+  },
+  "block.biomeswevegone.skyris_hanging_sign": {
+    "en": "Skyris Hanging Sign",
+    "zh": "天际木悬挂式告示牌",
+    "vi": null
+  },
+  "block.biomeswevegone.skyris_leaves": {
+    "en": "Skyris Leaves",
+    "zh": "天际树叶",
+    "vi": null
+  },
+  "block.biomeswevegone.skyris_log": {
+    "en": "Skyris Log",
+    "zh": "天际木原木",
+    "vi": null
+  },
+  "block.biomeswevegone.skyris_planks": {
+    "en": "Skyris Planks",
+    "zh": "天际木木板",
+    "vi": null
+  },
+  "block.biomeswevegone.skyris_pressure_plate": {
+    "en": "Skyris Pressure Plate",
+    "zh": "天际木压力板",
+    "vi": null
+  },
+  "block.biomeswevegone.skyris_sapling": {
+    "en": "Skyris Sapling",
+    "zh": "天际树树苗",
+    "vi": null
+  },
+  "block.biomeswevegone.skyris_sign": {
+    "en": "Skyris Sign",
+    "zh": "天际木告示牌",
+    "vi": null
+  },
+  "block.biomeswevegone.skyris_slab": {
+    "en": "Skyris Slab",
+    "zh": "天际木台阶",
+    "vi": null
+  },
+  "block.biomeswevegone.skyris_stairs": {
+    "en": "Skyris Stairs",
+    "zh": "天际木楼梯",
+    "vi": null
+  },
+  "block.biomeswevegone.skyris_trapdoor": {
+    "en": "Skyris Trapdoor",
+    "zh": "天际木活板门",
+    "vi": null
+  },
+  "block.biomeswevegone.skyris_vine": {
+    "en": "Skyris Vine",
+    "zh": "天际树藤",
+    "vi": null
+  },
+  "block.biomeswevegone.skyris_wood": {
+    "en": "Skyris Wood",
+    "zh": "天际木",
+    "vi": null
+  },
+  "block.biomeswevegone.smooth_black_sandstone": {
+    "en": "Smooth Black Sandstone",
+    "zh": "黑色平滑砂岩",
+    "vi": null
+  },
+  "block.biomeswevegone.smooth_black_sandstone_slab": {
+    "en": "Smooth Black Sandstone Slab",
+    "zh": "黑色平滑砂岩台阶",
+    "vi": null
+  },
+  "block.biomeswevegone.smooth_black_sandstone_stairs": {
+    "en": "Smooth Black Sandstone Stairs",
+    "zh": "黑色平滑砂岩楼梯",
+    "vi": null
+  },
+  "block.biomeswevegone.smooth_blue_sandstone": {
+    "en": "Smooth Blue Sandstone",
+    "zh": "蓝色平滑砂岩",
+    "vi": null
+  },
+  "block.biomeswevegone.smooth_blue_sandstone_slab": {
+    "en": "Smooth Blue Sandstone Slab",
+    "zh": "蓝色平滑砂岩台阶",
+    "vi": null
+  },
+  "block.biomeswevegone.smooth_blue_sandstone_stairs": {
+    "en": "Smooth Blue Sandstone Stairs",
+    "zh": "蓝色平滑砂岩楼梯",
+    "vi": null
+  },
+  "block.biomeswevegone.smooth_pink_sandstone": {
+    "en": "Smooth Pink Sandstone",
+    "zh": "粉色平滑砂岩",
+    "vi": null
+  },
+  "block.biomeswevegone.smooth_pink_sandstone_slab": {
+    "en": "Smooth Pink Sandstone Slab",
+    "zh": "粉色平滑砂岩台阶",
+    "vi": null
+  },
+  "block.biomeswevegone.smooth_pink_sandstone_stairs": {
+    "en": "Smooth Pink Sandstone Stairs",
+    "zh": "粉色平滑砂岩楼梯",
+    "vi": null
+  },
+  "block.biomeswevegone.smooth_purple_sandstone": {
+    "en": "Smooth Purple Sandstone",
+    "zh": "紫色平滑砂岩",
+    "vi": null
+  },
+  "block.biomeswevegone.smooth_purple_sandstone_slab": {
+    "en": "Smooth Purple Sandstone Slab",
+    "zh": "紫色平滑砂岩台阶",
+    "vi": null
+  },
+  "block.biomeswevegone.smooth_purple_sandstone_stairs": {
+    "en": "Smooth Purple Sandstone Stairs",
+    "zh": "紫色平滑砂岩楼梯",
+    "vi": null
+  },
+  "block.biomeswevegone.smooth_white_sandstone": {
+    "en": "Smooth White Sandstone",
+    "zh": "白色平滑砂岩",
+    "vi": null
+  },
+  "block.biomeswevegone.smooth_white_sandstone_slab": {
+    "en": "Smooth White Sandstone Slab",
+    "zh": "白色平滑砂岩台阶",
+    "vi": null
+  },
+  "block.biomeswevegone.smooth_white_sandstone_stairs": {
+    "en": "Smooth White Sandstone Stairs",
+    "zh": "白色平滑砂岩楼梯",
+    "vi": null
+  },
+  "block.biomeswevegone.smooth_windswept_sandstone": {
+    "en": "Smooth Windswept Sandstone",
+    "zh": "平滑的风袭砂岩",
+    "vi": null
+  },
+  "block.biomeswevegone.smooth_windswept_sandstone_slab": {
+    "en": "Smooth Windswept Sandstone Slab",
+    "zh": "平滑的风袭砂岩台阶",
+    "vi": null
+  },
+  "block.biomeswevegone.smooth_windswept_sandstone_stairs": {
+    "en": "Smooth Windswept Sandstone Stairs",
+    "zh": "平滑的风袭砂岩楼梯",
+    "vi": null
+  },
+  "block.biomeswevegone.snowdrops": {
+    "en": "Snowdrops",
+    "zh": "雪滴花",
+    "vi": null
+  },
+  "block.biomeswevegone.stripped_aspen_log": {
+    "en": "Stripped Aspen Log",
+    "zh": "去皮的白杨木原木",
+    "vi": null
+  },
+  "block.biomeswevegone.stripped_aspen_wood": {
+    "en": "Stripped Aspen Wood",
+    "zh": "去皮的白杨木",
+    "vi": null
+  },
+  "block.biomeswevegone.stripped_baobab_log": {
+    "en": "Stripped Baobab Log",
+    "zh": "去皮的猴面包木原木",
+    "vi": null
+  },
+  "block.biomeswevegone.stripped_baobab_wood": {
+    "en": "Stripped Baobab Wood",
+    "zh": "去皮的猴面包木",
+    "vi": null
+  },
+  "block.biomeswevegone.stripped_blue_enchanted_log": {
+    "en": "Stripped Blue Enchanted Log",
+    "zh": "去皮的蓝色魔法木原木",
+    "vi": null
+  },
+  "block.biomeswevegone.stripped_blue_enchanted_wood": {
+    "en": "Stripped Blue Enchanted Wood",
+    "zh": "去皮的蓝色魔法木",
+    "vi": null
+  },
+  "block.biomeswevegone.stripped_cika_log": {
+    "en": "Stripped Cika Log",
+    "zh": "去皮的锡卡木原木",
+    "vi": null
+  },
+  "block.biomeswevegone.stripped_cika_wood": {
+    "en": "Stripped Cika Wood",
+    "zh": "去皮的锡卡木",
+    "vi": null
+  },
+  "block.biomeswevegone.stripped_cypress_log": {
+    "en": "Stripped Cypress Log",
+    "zh": "去皮的柏木原木",
+    "vi": null
+  },
+  "block.biomeswevegone.stripped_cypress_wood": {
+    "en": "Stripped Cypress Wood",
+    "zh": "去皮的柏木",
+    "vi": null
+  },
+  "block.biomeswevegone.stripped_ebony_log": {
+    "en": "Stripped Ebony Log",
+    "zh": "去皮的乌木原木",
+    "vi": null
+  },
+  "block.biomeswevegone.stripped_ebony_wood": {
+    "en": "Stripped Ebony Wood",
+    "zh": "去皮的乌木",
+    "vi": null
+  },
+  "block.biomeswevegone.stripped_fir_log": {
+    "en": "Stripped Fir Log",
+    "zh": "去皮的冷杉木原木",
+    "vi": null
+  },
+  "block.biomeswevegone.stripped_fir_wood": {
+    "en": "Stripped Fir Wood",
+    "zh": "去皮的冷杉木",
+    "vi": null
+  },
+  "block.biomeswevegone.stripped_florus_stem": {
+    "en": "Stripped Florus Stem",
+    "zh": "去皮的花茎",
+    "vi": null
+  },
+  "block.biomeswevegone.stripped_florus_wood": {
+    "en": "Stripped Florus Wood",
+    "zh": "去皮的花茎木",
+    "vi": null
+  },
+  "block.biomeswevegone.stripped_green_enchanted_log": {
+    "en": "Stripped Green Enchanted Log",
+    "zh": "去皮的绿色魔法木原木",
+    "vi": null
+  },
+  "block.biomeswevegone.stripped_green_enchanted_wood": {
+    "en": "Stripped Green Enchanted Wood",
+    "zh": "去皮的绿色魔法木",
+    "vi": null
+  },
+  "block.biomeswevegone.stripped_holly_log": {
+    "en": "Stripped Holly Log",
+    "zh": "去皮的冬青木原木",
+    "vi": null
+  },
+  "block.biomeswevegone.stripped_holly_wood": {
+    "en": "Stripped Holly Wood",
+    "zh": "去皮的冬青木",
+    "vi": null
+  },
+  "block.biomeswevegone.stripped_ironwood_log": {
+    "en": "Stripped Ironwood Log",
+    "zh": "去皮的铁色木原木",
+    "vi": null
+  },
+  "block.biomeswevegone.stripped_ironwood_wood": {
+    "en": "Stripped Ironwood Wood",
+    "zh": "去皮的铁色木",
+    "vi": null
+  },
+  "block.biomeswevegone.stripped_jacaranda_log": {
+    "en": "Stripped Jacaranda Log",
+    "zh": "去皮的蓝花楹木原木",
+    "vi": null
+  },
+  "block.biomeswevegone.stripped_jacaranda_wood": {
+    "en": "Stripped Jacaranda Wood",
+    "zh": "去皮的蓝花楹木",
+    "vi": null
+  },
+  "block.biomeswevegone.stripped_mahogany_log": {
+    "en": "Stripped Mahogany Log",
+    "zh": "去皮的桃花心木原木",
+    "vi": null
+  },
+  "block.biomeswevegone.stripped_mahogany_wood": {
+    "en": "Stripped Mahogany Wood",
+    "zh": "去皮的桃花心木",
+    "vi": null
+  },
+  "block.biomeswevegone.stripped_maple_log": {
+    "en": "Stripped Maple Log",
+    "zh": "去皮的枫木原木",
+    "vi": null
+  },
+  "block.biomeswevegone.stripped_maple_wood": {
+    "en": "Stripped Maple Wood",
+    "zh": "去皮的枫木",
+    "vi": null
+  },
+  "block.biomeswevegone.stripped_palm_log": {
+    "en": "Stripped Palm Log",
+    "zh": "去皮的棕榈木原木",
+    "vi": null
+  },
+  "block.biomeswevegone.stripped_palm_wood": {
+    "en": "Stripped Palm Wood",
+    "zh": "去皮的棕榈木",
+    "vi": null
+  },
+  "block.biomeswevegone.stripped_palo_verde_log": {
+    "en": "Stripped Palo Verde Log",
+    "zh": "去皮的扁轴木原木",
+    "vi": null
+  },
+  "block.biomeswevegone.stripped_palo_verde_wood": {
+    "en": "Stripped Palo Verde Wood",
+    "zh": "去皮的扁轴木",
+    "vi": null
+  },
+  "block.biomeswevegone.stripped_pine_log": {
+    "en": "Stripped Pine Log",
+    "zh": "去皮的松木原木",
+    "vi": null
+  },
+  "block.biomeswevegone.stripped_pine_wood": {
+    "en": "Stripped Pine Wood",
+    "zh": "去皮的松木",
+    "vi": null
+  },
+  "block.biomeswevegone.stripped_rainbow_eucalyptus_log": {
+    "en": "Stripped Rainbow Eucalyptus Log",
+    "zh": "去皮的彩虹桉木原木",
+    "vi": null
+  },
+  "block.biomeswevegone.stripped_rainbow_eucalyptus_wood": {
+    "en": "Stripped Rainbow Eucalyptus Wood",
+    "zh": "去皮的彩虹桉木",
+    "vi": null
+  },
+  "block.biomeswevegone.stripped_redwood_log": {
+    "en": "Stripped Redwood Log",
+    "zh": "去皮的红杉木原木",
+    "vi": null
+  },
+  "block.biomeswevegone.stripped_redwood_wood": {
+    "en": "Stripped Redwood Wood",
+    "zh": "去皮的红杉木",
+    "vi": null
+  },
+  "block.biomeswevegone.stripped_sakura_log": {
+    "en": "Stripped Sakura Log",
+    "zh": "去皮的樱花木原木",
+    "vi": null
+  },
+  "block.biomeswevegone.stripped_sakura_wood": {
+    "en": "Stripped Sakura Wood",
+    "zh": "去皮的樱花木",
+    "vi": null
+  },
+  "block.biomeswevegone.stripped_skyris_log": {
+    "en": "Stripped Skyris Log",
+    "zh": "去皮的天际木原木",
+    "vi": null
+  },
+  "block.biomeswevegone.stripped_skyris_wood": {
+    "en": "Stripped Skyris Wood",
+    "zh": "去皮的天际木",
+    "vi": null
+  },
+  "block.biomeswevegone.stripped_white_mangrove_log": {
+    "en": "Stripped White Mangrove Log",
+    "zh": "去皮的白色红树木原木",
+    "vi": null
+  },
+  "block.biomeswevegone.stripped_white_mangrove_wood": {
+    "en": "Stripped White Mangrove Wood",
+    "zh": "去皮的白色红树木",
+    "vi": null
+  },
+  "block.biomeswevegone.stripped_willow_log": {
+    "en": "Stripped Willow Log",
+    "zh": "去皮的柳木原木",
+    "vi": null
+  },
+  "block.biomeswevegone.stripped_willow_wood": {
+    "en": "Stripped Willow Wood",
+    "zh": "去皮的柳木",
+    "vi": null
+  },
+  "block.biomeswevegone.stripped_witch_hazel_log": {
+    "en": "Stripped Witch Hazel Log",
+    "zh": "去皮的金缕梅木原木",
+    "vi": null
+  },
+  "block.biomeswevegone.stripped_witch_hazel_wood": {
+    "en": "Stripped Witch Hazel Wood",
+    "zh": "去皮的金缕梅木",
+    "vi": null
+  },
+  "block.biomeswevegone.stripped_zelkova_log": {
+    "en": "Stripped Zelkova Log",
+    "zh": "去皮的榉木原木",
+    "vi": null
+  },
+  "block.biomeswevegone.stripped_zelkova_wood": {
+    "en": "Stripped Zelkova Wood",
+    "zh": "去皮的榉木",
+    "vi": null
+  },
+  "block.biomeswevegone.tall_allium": {
+    "en": "Tall Allium",
+    "zh": "高绒球葱",
+    "vi": null
+  },
+  "block.biomeswevegone.tall_beach_grass": {
+    "en": "Tall Beach Grass",
+    "zh": "高滨草",
+    "vi": null
+  },
+  "block.biomeswevegone.tall_pink_allium": {
+    "en": "Tall Pink Allium",
+    "zh": "高粉红色绒球葱",
+    "vi": null
+  },
+  "block.biomeswevegone.tall_prairie_grass": {
+    "en": "Tall Prairie Grass",
+    "zh": "高扁穗雀麦",
+    "vi": null
+  },
+  "block.biomeswevegone.tall_white_allium": {
+    "en": "Tall White Allium",
+    "zh": "高白色绒球葱",
+    "vi": null
+  },
+  "block.biomeswevegone.tiny_lily_pads": {
+    "en": "Tiny Lily Pads",
+    "zh": "小型睡莲",
+    "vi": null
+  },
+  "block.biomeswevegone.violet_leather_flower": {
+    "en": "Violet Leather Flower",
+    "zh": "蓝紫铁线莲",
+    "vi": null
+  },
+  "block.biomeswevegone.water_silk": {
+    "en": "Water Silk",
+    "zh": "水绵",
+    "vi": null
+  },
+  "block.biomeswevegone.weeping_milkcap": {
+    "en": "Weeping Milkcap",
+    "zh": "多汁乳菇",
+    "vi": null
+  },
+  "block.biomeswevegone.weeping_milkcap_mushroom_block": {
+    "en": "Weeping Milkcap Mushroom Block",
+    "zh": "多汁乳菇块",
+    "vi": null
+  },
+  "block.biomeswevegone.white_allium": {
+    "en": "White Allium",
+    "zh": "白色绒球葱",
+    "vi": null
+  },
+  "block.biomeswevegone.white_allium_flower_bush": {
+    "en": "White Allium Flower Bush",
+    "zh": "白色绒球葱花丛",
+    "vi": null
+  },
+  "block.biomeswevegone.white_allium_petal_block": {
+    "en": "White Allium Petal Block",
+    "zh": "白色绒球葱花块",
+    "vi": null
+  },
+  "block.biomeswevegone.white_anemone": {
+    "en": "White Anemone",
+    "zh": "白色银莲花",
+    "vi": null
+  },
+  "block.biomeswevegone.white_dacite": {
+    "en": "White Dacite",
+    "zh": "白色英安岩",
+    "vi": null
+  },
+  "block.biomeswevegone.white_dacite_brick_slab": {
+    "en": "White Dacite Brick Slab",
+    "zh": "白色英安岩砖台阶",
+    "vi": null
+  },
+  "block.biomeswevegone.white_dacite_brick_stairs": {
+    "en": "White Dacite Brick Stairs",
+    "zh": "白色英安岩砖楼梯",
+    "vi": null
+  },
+  "block.biomeswevegone.white_dacite_brick_wall": {
+    "en": "White Dacite Brick Wall",
+    "zh": "白色英安岩砖墙",
+    "vi": null
+  },
+  "block.biomeswevegone.white_dacite_bricks": {
+    "en": "White Dacite Bricks",
+    "zh": "白色英安岩砖",
+    "vi": null
+  },
+  "block.biomeswevegone.white_dacite_cobblestone": {
+    "en": "White Dacite Cobblestone",
+    "zh": "白色英安岩鹅卵石",
+    "vi": null
+  },
+  "block.biomeswevegone.white_dacite_cobblestone_slab": {
+    "en": "White Dacite Cobblestone Slab",
+    "zh": "白色英安岩鹅卵石台阶",
+    "vi": null
+  },
+  "block.biomeswevegone.white_dacite_cobblestone_stairs": {
+    "en": "White Dacite Cobblestone Stairs",
+    "zh": "白色英安岩鹅卵石楼梯",
+    "vi": null
+  },
+  "block.biomeswevegone.white_dacite_cobblestone_wall": {
+    "en": "White Dacite Cobblestone Wall",
+    "zh": "白色英安岩鹅卵石墙",
+    "vi": null
+  },
+  "block.biomeswevegone.white_dacite_pillar": {
+    "en": "White Dacite Pillar",
+    "zh": "白色英安岩柱",
+    "vi": null
+  },
+  "block.biomeswevegone.white_dacite_slab": {
+    "en": "White Dacite Slab",
+    "zh": "白色英安岩台阶",
+    "vi": null
+  },
+  "block.biomeswevegone.white_dacite_stairs": {
+    "en": "White Dacite Stairs",
+    "zh": "白色英安岩楼梯",
+    "vi": null
+  },
+  "block.biomeswevegone.white_dacite_tile_slab": {
+    "en": "White Dacite Tile Slab",
+    "zh": "白色英安岩瓷砖台阶",
+    "vi": null
+  },
+  "block.biomeswevegone.white_dacite_tile_stairs": {
+    "en": "White Dacite Tile Stairs",
+    "zh": "白色英安岩瓷砖楼梯",
+    "vi": null
+  },
+  "block.biomeswevegone.white_dacite_tile_wall": {
+    "en": "White Dacite Tile Wall",
+    "zh": "白色英安岩瓷砖墙",
+    "vi": null
+  },
+  "block.biomeswevegone.white_dacite_tiles": {
+    "en": "White Dacite Tiles",
+    "zh": "白色英安岩瓷砖",
+    "vi": null
+  },
+  "block.biomeswevegone.white_dacite_wall": {
+    "en": "White Dacite Wall",
+    "zh": "白色英安岩墙",
+    "vi": null
+  },
+  "block.biomeswevegone.white_mangrove_bookshelf": {
+    "en": "White Mangrove Bookshelf",
+    "zh": "白色红树木书架",
+    "vi": null
+  },
+  "block.biomeswevegone.white_mangrove_button": {
+    "en": "White Mangrove Button",
+    "zh": "白色红树木按钮",
+    "vi": null
+  },
+  "block.biomeswevegone.white_mangrove_crafting_table": {
+    "en": "White Mangrove Crafting Table",
+    "zh": "白色红树木工作台",
+    "vi": null
+  },
+  "block.biomeswevegone.white_mangrove_door": {
+    "en": "White Mangrove Door",
+    "zh": "白色红树木门",
+    "vi": null
+  },
+  "block.biomeswevegone.white_mangrove_fence": {
+    "en": "White Mangrove Fence",
+    "zh": "白色红树木栅栏",
+    "vi": null
+  },
+  "block.biomeswevegone.white_mangrove_fence_gate": {
+    "en": "White Mangrove Fence Gate",
+    "zh": "白色红树木栅栏门",
+    "vi": null
+  },
+  "block.biomeswevegone.white_mangrove_hanging_sign": {
+    "en": "White Mangrove Hanging Sign",
+    "zh": "白色红树木悬挂式告示牌",
+    "vi": null
+  },
+  "block.biomeswevegone.white_mangrove_leaves": {
+    "en": "White Mangrove Leaves",
+    "zh": "白色红树树叶",
+    "vi": null
+  },
+  "block.biomeswevegone.white_mangrove_log": {
+    "en": "White Mangrove Log",
+    "zh": "白色红树木原木",
+    "vi": null
+  },
+  "block.biomeswevegone.white_mangrove_planks": {
+    "en": "White Mangrove Planks",
+    "zh": "白色红树木木板",
+    "vi": null
+  },
+  "block.biomeswevegone.white_mangrove_pressure_plate": {
+    "en": "White Mangrove Pressure Plate",
+    "zh": "白色红树木压力板",
+    "vi": null
+  },
+  "block.biomeswevegone.white_mangrove_sapling": {
+    "en": "White Mangrove Sapling",
+    "zh": "白色红树树苗",
+    "vi": null
+  },
+  "block.biomeswevegone.white_mangrove_sign": {
+    "en": "White Mangrove Sign",
+    "zh": "白色红树木告示牌",
+    "vi": null
+  },
+  "block.biomeswevegone.white_mangrove_slab": {
+    "en": "White Mangrove Slab",
+    "zh": "白色红树木台阶",
+    "vi": null
+  },
+  "block.biomeswevegone.white_mangrove_stairs": {
+    "en": "White Mangrove Stairs",
+    "zh": "白色红树木楼梯",
+    "vi": null
+  },
+  "block.biomeswevegone.white_mangrove_trapdoor": {
+    "en": "White Mangrove Trapdoor",
+    "zh": "白色红树木活板门",
+    "vi": null
+  },
+  "block.biomeswevegone.white_mangrove_wood": {
+    "en": "White Mangrove Wood",
+    "zh": "白色红树木",
+    "vi": null
+  },
+  "block.biomeswevegone.white_mushroom_stem": {
+    "en": "White Mushroom Stem",
+    "zh": "白蘑菇菌柄",
+    "vi": null
+  },
+  "block.biomeswevegone.white_overgrown_dacite": {
+    "en": "White Overgrown Dacite",
+    "zh": "覆草白色英安岩",
+    "vi": null
+  },
+  "block.biomeswevegone.white_podzol_dacite": {
+    "en": "White Podzol Dacite",
+    "zh": "灰化白色英安岩",
+    "vi": null
+  },
+  "block.biomeswevegone.white_puffball": {
+    "en": "White Puffball",
+    "zh": "白色马勃菌",
+    "vi": null
+  },
+  "block.biomeswevegone.white_sage": {
+    "en": "White Sage",
+    "zh": "白色鼠尾草",
+    "vi": null
+  },
+  "block.biomeswevegone.white_sakura_leaves": {
+    "en": "White Sakura Leaves",
+    "zh": "白色樱花树树叶",
+    "vi": null
+  },
+  "block.biomeswevegone.white_sakura_petals": {
+    "en": "White Sakura Petals",
+    "zh": "白色樱花花瓣",
+    "vi": null
+  },
+  "block.biomeswevegone.white_sakura_sapling": {
+    "en": "White Sakura Sapling",
+    "zh": "白色樱花树苗",
+    "vi": null
+  },
+  "block.biomeswevegone.white_sand": {
+    "en": "White Sand",
+    "zh": "白沙",
+    "vi": null
+  },
+  "block.biomeswevegone.white_sandstone": {
+    "en": "White Sandstone",
+    "zh": "白色砂岩",
+    "vi": null
+  },
+  "block.biomeswevegone.white_sandstone_slab": {
+    "en": "White Sandstone Slab",
+    "zh": "白色砂岩台阶",
+    "vi": null
+  },
+  "block.biomeswevegone.white_sandstone_stairs": {
+    "en": "White Sandstone Stairs",
+    "zh": "白色砂岩楼梯",
+    "vi": null
+  },
+  "block.biomeswevegone.white_sandstone_wall": {
+    "en": "White Sandstone Wall",
+    "zh": "白色砂岩墙",
+    "vi": null
+  },
+  "block.biomeswevegone.willow_bookshelf": {
+    "en": "Willow Bookshelf",
+    "zh": "柳木书架",
+    "vi": null
+  },
+  "block.biomeswevegone.willow_button": {
+    "en": "Willow Button",
+    "zh": "柳木按钮",
+    "vi": null
+  },
+  "block.biomeswevegone.willow_crafting_table": {
+    "en": "Willow Crafting Table",
+    "zh": "柳木工作台",
+    "vi": null
+  },
+  "block.biomeswevegone.willow_door": {
+    "en": "Willow Door",
+    "zh": "柳木门",
+    "vi": null
+  },
+  "block.biomeswevegone.willow_fence": {
+    "en": "Willow Fence",
+    "zh": "柳木栅栏",
+    "vi": null
+  },
+  "block.biomeswevegone.willow_fence_gate": {
+    "en": "Willow Fence Gate",
+    "zh": "柳木栅栏门",
+    "vi": null
+  },
+  "block.biomeswevegone.willow_hanging_sign": {
+    "en": "Willow Hanging Sign",
+    "zh": "柳木悬挂式告示牌",
+    "vi": null
+  },
+  "block.biomeswevegone.willow_leaves": {
+    "en": "Willow Leaves",
+    "zh": "柳树叶",
+    "vi": null
+  },
+  "block.biomeswevegone.willow_log": {
+    "en": "Willow Log",
+    "zh": "柳木原木",
+    "vi": null
+  },
+  "block.biomeswevegone.willow_planks": {
+    "en": "Willow Planks",
+    "zh": "柳木木板",
+    "vi": null
+  },
+  "block.biomeswevegone.willow_pressure_plate": {
+    "en": "Willow Pressure Plate",
+    "zh": "柳木压力板",
+    "vi": null
+  },
+  "block.biomeswevegone.willow_sapling": {
+    "en": "Willow Sapling",
+    "zh": "柳树树苗",
+    "vi": null
+  },
+  "block.biomeswevegone.willow_sign": {
+    "en": "Willow Sign",
+    "zh": "柳木告示牌",
+    "vi": null
+  },
+  "block.biomeswevegone.willow_slab": {
+    "en": "Willow Slab",
+    "zh": "柳木台阶",
+    "vi": null
+  },
+  "block.biomeswevegone.willow_stairs": {
+    "en": "Willow Stairs",
+    "zh": "柳木楼梯",
+    "vi": null
+  },
+  "block.biomeswevegone.willow_trapdoor": {
+    "en": "Willow Trapdoor",
+    "zh": "柳木活板门",
+    "vi": null
+  },
+  "block.biomeswevegone.willow_wood": {
+    "en": "Willow Wood",
+    "zh": "柳木",
+    "vi": null
+  },
+  "block.biomeswevegone.windswept_sand": {
+    "en": "Windswept Sand",
+    "zh": "受风袭的沙",
+    "vi": null
+  },
+  "block.biomeswevegone.windswept_sandstone": {
+    "en": "Windswept Sandstone",
+    "zh": "风袭砂岩",
+    "vi": null
+  },
+  "block.biomeswevegone.windswept_sandstone_pillar": {
+    "en": "Windswept Sandstone Pillar",
+    "zh": "风袭砂岩柱",
+    "vi": null
+  },
+  "block.biomeswevegone.windswept_sandstone_slab": {
+    "en": "Windswept Sandstone Slab",
+    "zh": "风袭砂岩台阶",
+    "vi": null
+  },
+  "block.biomeswevegone.windswept_sandstone_stairs": {
+    "en": "Windswept Sandstone Stairs",
+    "zh": "风袭砂岩楼梯",
+    "vi": null
+  },
+  "block.biomeswevegone.windswept_sandstone_wall": {
+    "en": "Windswept Sandstone Wall",
+    "zh": "风袭砂岩墙",
+    "vi": null
+  },
+  "block.biomeswevegone.winter_cyclamen": {
+    "en": "Winter Cyclamen",
+    "zh": "冬生仙客来",
+    "vi": null
+  },
+  "block.biomeswevegone.winter_rose": {
+    "en": "Winter Rose",
+    "zh": "冬生玫瑰",
+    "vi": null
+  },
+  "block.biomeswevegone.winter_scilla": {
+    "en": "Winter Scilla",
+    "zh": "冬生绵枣儿",
+    "vi": null
+  },
+  "block.biomeswevegone.winter_succulent": {
+    "en": "Winter Succulent",
+    "zh": "冬生多肉植物",
+    "vi": null
+  },
+  "block.biomeswevegone.witch_hazel_blossom": {
+    "en": "Witch Hazel Blossom",
+    "zh": "金缕梅花",
+    "vi": null
+  },
+  "block.biomeswevegone.witch_hazel_bookshelf": {
+    "en": "Witch Hazel Bookshelf",
+    "zh": "金缕梅木书架",
+    "vi": null
+  },
+  "block.biomeswevegone.witch_hazel_branch": {
+    "en": "Witch Hazel Branch",
+    "zh": "金缕梅树枝",
+    "vi": null
+  },
+  "block.biomeswevegone.witch_hazel_button": {
+    "en": "Witch Hazel Button",
+    "zh": "金缕梅木按钮",
+    "vi": null
+  },
+  "block.biomeswevegone.witch_hazel_crafting_table": {
+    "en": "Witch Hazel Crafting Table",
+    "zh": "金缕梅木工作台",
+    "vi": null
+  },
+  "block.biomeswevegone.witch_hazel_door": {
+    "en": "Witch Hazel Door",
+    "zh": "金缕梅木门",
+    "vi": null
+  },
+  "block.biomeswevegone.witch_hazel_fence": {
+    "en": "Witch Hazel Fence",
+    "zh": "金缕梅木栅栏",
+    "vi": null
+  },
+  "block.biomeswevegone.witch_hazel_fence_gate": {
+    "en": "Witch Hazel Fence Gate",
+    "zh": "金缕梅木栅栏门",
+    "vi": null
+  },
+  "block.biomeswevegone.witch_hazel_hanging_sign": {
+    "en": "Witch Hazel Hanging Sign",
+    "zh": "金缕梅木悬挂式告示牌",
+    "vi": null
+  },
+  "block.biomeswevegone.witch_hazel_leaves": {
+    "en": "Witch Hazel Leaves",
+    "zh": "金缕梅树树叶",
+    "vi": null
+  },
+  "block.biomeswevegone.witch_hazel_log": {
+    "en": "Witch Hazel Log",
+    "zh": "金缕梅木原木",
+    "vi": null
+  },
+  "block.biomeswevegone.witch_hazel_planks": {
+    "en": "Witch Hazel Planks",
+    "zh": "金缕梅木木板",
+    "vi": null
+  },
+  "block.biomeswevegone.witch_hazel_pressure_plate": {
+    "en": "Witch Hazel Pressure Plate",
+    "zh": "金缕梅木压力板",
+    "vi": null
+  },
+  "block.biomeswevegone.witch_hazel_sapling": {
+    "en": "Witch Hazel Sapling",
+    "zh": "金缕梅树树苗",
+    "vi": null
+  },
+  "block.biomeswevegone.witch_hazel_sign": {
+    "en": "Witch Hazel Sign",
+    "zh": "金缕梅木告示牌",
+    "vi": null
+  },
+  "block.biomeswevegone.witch_hazel_slab": {
+    "en": "Witch Hazel Slab",
+    "zh": "金缕梅木台阶",
+    "vi": null
+  },
+  "block.biomeswevegone.witch_hazel_stairs": {
+    "en": "Witch Hazel Stairs",
+    "zh": "金缕梅木楼梯",
+    "vi": null
+  },
+  "block.biomeswevegone.witch_hazel_trapdoor": {
+    "en": "Witch Hazel Trapdoor",
+    "zh": "金缕梅木活板门",
+    "vi": null
+  },
+  "block.biomeswevegone.witch_hazel_wood": {
+    "en": "Witch Hazel Wood",
+    "zh": "金缕梅木",
+    "vi": null
+  },
+  "block.biomeswevegone.wood_blewit": {
+    "en": "Wood Blewit",
+    "zh": "紫丁香菇",
+    "vi": null
+  },
+  "block.biomeswevegone.wood_blewit_mushroom_block": {
+    "en": "Wood Blewit Mushroom Block",
+    "zh": "紫丁香菇块",
+    "vi": null
+  },
+  "block.biomeswevegone.yellow_birch_leaves": {
+    "en": "Yellow Birch Leaves",
+    "zh": "黄色白桦树树叶",
+    "vi": null
+  },
+  "block.biomeswevegone.yellow_birch_sapling": {
+    "en": "Yellow Birch Sapling",
+    "zh": "黄色桦树苗",
+    "vi": null
+  },
+  "block.biomeswevegone.yellow_daffodil": {
+    "en": "Yellow Daffodil",
+    "zh": "黄色水仙花",
+    "vi": null
+  },
+  "block.biomeswevegone.yellow_sakura_leaves": {
+    "en": "Yellow Sakura Leaves",
+    "zh": "黄色樱花树树叶",
+    "vi": null
+  },
+  "block.biomeswevegone.yellow_sakura_petals": {
+    "en": "Yellow Sakura Petals",
+    "zh": "黄色樱花花瓣",
+    "vi": null
+  },
+  "block.biomeswevegone.yellow_sakura_sapling": {
+    "en": "Yellow Sakura Sapling",
+    "zh": "黄色樱花树苗",
+    "vi": null
+  },
+  "block.biomeswevegone.yellow_spruce_leaves": {
+    "en": "Yellow Spruce Leaves",
+    "zh": "黄色云杉树树叶",
+    "vi": null
+  },
+  "block.biomeswevegone.yellow_spruce_sapling": {
+    "en": "Yellow Spruce Sapling",
+    "zh": "黄色云杉树苗",
+    "vi": null
+  },
+  "block.biomeswevegone.yellow_tulip": {
+    "en": "Yellow Tulip",
+    "zh": "黄色郁金香",
+    "vi": null
+  },
+  "block.biomeswevegone.yucca_fruit": {
+    "en": "Yucca Fruit",
+    "zh": "丝兰果实",
+    "vi": null
+  },
+  "block.biomeswevegone.yucca_leaves": {
+    "en": "Yucca Leaves",
+    "zh": "丝兰叶",
+    "vi": null
+  },
+  "block.biomeswevegone.yucca_sapling": {
+    "en": "Yucca Sapling",
+    "zh": "丝兰树苗",
+    "vi": null
+  },
+  "block.biomeswevegone.zelkova_bookshelf": {
+    "en": "Zelkova Bookshelf",
+    "zh": "榉木书架",
+    "vi": null
+  },
+  "block.biomeswevegone.zelkova_button": {
+    "en": "Zelkova Button",
+    "zh": "榉木按钮",
+    "vi": null
+  },
+  "block.biomeswevegone.zelkova_crafting_table": {
+    "en": "Zelkova Crafting Table",
+    "zh": "榉木工作台",
+    "vi": null
+  },
+  "block.biomeswevegone.zelkova_door": {
+    "en": "Zelkova Door",
+    "zh": "榉木门",
+    "vi": null
+  },
+  "block.biomeswevegone.zelkova_fence": {
+    "en": "Zelkova Fence",
+    "zh": "榉木栅栏",
+    "vi": null
+  },
+  "block.biomeswevegone.zelkova_fence_gate": {
+    "en": "Zelkova Fence Gate",
+    "zh": "榉木栅栏门",
+    "vi": null
+  },
+  "block.biomeswevegone.zelkova_hanging_sign": {
+    "en": "Zelkova Hanging Sign",
+    "zh": "榉木悬挂式告示牌",
+    "vi": null
+  },
+  "block.biomeswevegone.zelkova_leaves": {
+    "en": "Zelkova Leaves",
+    "zh": "榉树树叶",
+    "vi": null
+  },
+  "block.biomeswevegone.zelkova_log": {
+    "en": "Zelkova Log",
+    "zh": "榉木原木",
+    "vi": null
+  },
+  "block.biomeswevegone.zelkova_planks": {
+    "en": "Zelkova Planks",
+    "zh": "榉木木板",
+    "vi": null
+  },
+  "block.biomeswevegone.zelkova_pressure_plate": {
+    "en": "Zelkova Pressure Plate",
+    "zh": "榉木压力板",
+    "vi": null
+  },
+  "block.biomeswevegone.zelkova_sapling": {
+    "en": "Zelkova Sapling",
+    "zh": "榉树树苗",
+    "vi": null
+  },
+  "block.biomeswevegone.zelkova_sign": {
+    "en": "Zelkova Sign",
+    "zh": "榉木告示牌",
+    "vi": null
+  },
+  "block.biomeswevegone.zelkova_slab": {
+    "en": "Zelkova Slab",
+    "zh": "榉木台阶",
+    "vi": null
+  },
+  "block.biomeswevegone.zelkova_stairs": {
+    "en": "Zelkova Stairs",
+    "zh": "榉木楼梯",
+    "vi": null
+  },
+  "block.biomeswevegone.zelkova_trapdoor": {
+    "en": "Zelkova Trapdoor",
+    "zh": "榉木活板门",
+    "vi": null
+  },
+  "block.biomeswevegone.zelkova_wood": {
+    "en": "Zelkova Wood",
+    "zh": "榉木",
+    "vi": null
+  },
+  "death.attack.biomeswevegone.cattailExplosion": {
+    "en": "%s got too curious and put a cattail in a campfire",
+    "zh": "%s 由于过于好奇便在营火上烹饪香蒲",
+    "vi": null
+  },
+  "death.attack.biomeswevegone.inQuicksand": {
+    "en": "%s tried to swim in the desert",
+    "zh": "%s 尝试在沙漠中游泳",
+    "vi": null
+  },
+  "entity.biomeswevegone.boat": {
+    "en": "Boat",
+    "zh": "我们走过的生物群系船只",
+    "vi": null
+  },
+  "entity.biomeswevegone.chest_boat": {
+    "en": "Boat with Chest",
+    "zh": "我们走过的生物群系运输船只",
+    "vi": null
+  },
+  "entity.biomeswevegone.man_o_war": {
+    "en": "Man O' War",
+    "zh": "僧帽水母",
+    "vi": null
+  },
+  "entity.biomeswevegone.oddion": {
+    "en": "Oddion",
+    "zh": "奇异洋葱",
+    "vi": null
+  },
+  "entity.biomeswevegone.pumpkin_warden": {
+    "en": "Pumpkin Warden",
+    "zh": "南瓜守卫",
+    "vi": null
+  },
+  "entity.minecraft.villager.biomeswevegone.forager": {
+    "en": "Forager",
+    "zh": "采集者",
+    "vi": null
+  },
+  "entity.minecraft.villager.forager": {
+    "en": "Forager",
+    "zh": "采集者",
+    "vi": null
+  },
+  "item.biomeswevegone.allium_oddion_soup": {
+    "en": "Allium Oddion Soup",
+    "zh": "奇异葱油汤",
+    "vi": null
+  },
+  "item.biomeswevegone.aloe_vera_juice": {
+    "en": "Aloe Vera Juice",
+    "zh": "芦荟汁",
+    "vi": null
+  },
+  "item.biomeswevegone.aspen_boat": {
+    "en": "Aspen Boat",
+    "zh": "白杨木船",
+    "vi": null
+  },
+  "item.biomeswevegone.aspen_chest_boat": {
+    "en": "Aspen Boat with Chest",
+    "zh": "白杨木运输船",
+    "vi": null
+  },
+  "item.biomeswevegone.baobab_boat": {
+    "en": "Baobab Boat",
+    "zh": "猴面包木船",
+    "vi": null
+  },
+  "item.biomeswevegone.baobab_chest_boat": {
+    "en": "Baobab Boat with Chest",
+    "zh": "猴面包木运输船",
+    "vi": null
+  },
+  "item.biomeswevegone.baobab_fruit": {
+    "en": "Baobab Fruit",
+    "zh": "猴面包果实",
+    "vi": null
+  },
+  "item.biomeswevegone.blooming_oddion": {
+    "en": "Blooming Oddion",
+    "zh": "开花的奇异洋葱",
+    "vi": null
+  },
+  "item.biomeswevegone.blue_enchanted_boat": {
+    "en": "Blue Enchanted Boat",
+    "zh": "蓝色魔法木船",
+    "vi": null
+  },
+  "item.biomeswevegone.blue_enchanted_chest_boat": {
+    "en": "Blue Enchanted Boat with Chest",
+    "zh": "蓝色魔法木运输船",
+    "vi": null
+  },
+  "item.biomeswevegone.blueberries": {
+    "en": "Blueberries",
+    "zh": "蓝莓",
+    "vi": null
+  },
+  "item.biomeswevegone.blueberry_pie": {
+    "en": "Blueberry Pie",
+    "zh": "蓝莓派",
+    "vi": null
+  },
+  "item.biomeswevegone.cika_boat": {
+    "en": "Cika Boat",
+    "zh": "锡卡木船",
+    "vi": null
+  },
+  "item.biomeswevegone.cika_chest_boat": {
+    "en": "Cika Boat with Chest",
+    "zh": "锡卡木运输船",
+    "vi": null
+  },
+  "item.biomeswevegone.cooked_oddion_bulb": {
+    "en": "Cooked Oddion Bulb",
+    "zh": "熟的奇异洋葱球茎",
+    "vi": null
+  },
+  "item.biomeswevegone.cooked_white_puffball_cap": {
+    "en": "Cooked White Puffball Cap",
+    "zh": "熟白色马勃菌菌盖",
+    "vi": null
+  },
+  "item.biomeswevegone.cooked_yucca_fruit": {
+    "en": "Cooked Yucca Fruit",
+    "zh": "熟的丝兰果实",
+    "vi": null
+  },
+  "item.biomeswevegone.cypress_boat": {
+    "en": "Cypress Boat",
+    "zh": "柏木船",
+    "vi": null
+  },
+  "item.biomeswevegone.cypress_chest_boat": {
+    "en": "Cypress Boat with Chest",
+    "zh": "柏木运输船",
+    "vi": null
+  },
+  "item.biomeswevegone.ebony_boat": {
+    "en": "Ebony Boat",
+    "zh": "乌木船",
+    "vi": null
+  },
+  "item.biomeswevegone.ebony_chest_boat": {
+    "en": "Ebony Boat with Chest",
+    "zh": "乌木运输船",
+    "vi": null
+  },
+  "item.biomeswevegone.fir_boat": {
+    "en": "Fir Boat",
+    "zh": "冷杉木船",
+    "vi": null
+  },
+  "item.biomeswevegone.fir_chest_boat": {
+    "en": "Fir Boat with Chest",
+    "zh": "冷杉木运输船",
+    "vi": null
+  },
+  "item.biomeswevegone.florus_boat": {
+    "en": "Florus Boat",
+    "zh": "花茎木船",
+    "vi": null
+  },
+  "item.biomeswevegone.florus_chest_boat": {
+    "en": "Florus Boat with Chest",
+    "zh": "花茎木运输船",
+    "vi": null
+  },
+  "item.biomeswevegone.green_apple": {
+    "en": "Green Apple",
+    "zh": "青苹果",
+    "vi": null
+  },
+  "item.biomeswevegone.green_apple_pie": {
+    "en": "Green Apple Pie",
+    "zh": "青苹果派",
+    "vi": null
+  },
+  "item.biomeswevegone.green_enchanted_boat": {
+    "en": "Green Enchanted Boat",
+    "zh": "绿色魔法木船",
+    "vi": null
+  },
+  "item.biomeswevegone.green_enchanted_chest_boat": {
+    "en": "Green Enchanted Boat with Chest",
+    "zh": "绿色魔法木运输船",
+    "vi": null
+  },
+  "item.biomeswevegone.holly_boat": {
+    "en": "Holly Boat",
+    "zh": "冬青木船",
+    "vi": null
+  },
+  "item.biomeswevegone.holly_chest_boat": {
+    "en": "Holly Boat with Chest",
+    "zh": "冬青木运输船",
+    "vi": null
+  },
+  "item.biomeswevegone.holly_wreath": {
+    "en": "Holly Wreath",
+    "zh": "冬青花环",
+    "vi": null
+  },
+  "item.biomeswevegone.ironwood_boat": {
+    "en": "Ironwood Boat",
+    "zh": "铁色木船",
+    "vi": null
+  },
+  "item.biomeswevegone.ironwood_chest_boat": {
+    "en": "Ironwood Boat with Chest",
+    "zh": "铁色木运输船",
+    "vi": null
+  },
+  "item.biomeswevegone.jacaranda_boat": {
+    "en": "Jacaranda Boat",
+    "zh": "蓝楹花木船",
+    "vi": null
+  },
+  "item.biomeswevegone.jacaranda_chest_boat": {
+    "en": "Jacaranda Boat with Chest",
+    "zh": "蓝楹花木运输船",
+    "vi": null
+  },
+  "item.biomeswevegone.mahogany_boat": {
+    "en": "Mahogany Boat",
+    "zh": "桃花心木船",
+    "vi": null
+  },
+  "item.biomeswevegone.mahogany_chest_boat": {
+    "en": "Mahogany Boat with Chest",
+    "zh": "桃花心木运输船",
+    "vi": null
+  },
+  "item.biomeswevegone.man_o_war_bucket": {
+    "en": "Man O War Bucket",
+    "zh": "僧帽水母桶",
+    "vi": null
+  },
+  "item.biomeswevegone.man_o_war_spawn_egg": {
+    "en": "Man O War Spawn Egg",
+    "zh": "僧帽水母刷怪蛋",
+    "vi": null
+  },
+  "item.biomeswevegone.maple_boat": {
+    "en": "Maple Boat",
+    "zh": "枫木船",
+    "vi": null
+  },
+  "item.biomeswevegone.maple_chest_boat": {
+    "en": "Maple Boat with Chest",
+    "zh": "枫木运输船",
+    "vi": null
+  },
+  "item.biomeswevegone.mushroom_wreath": {
+    "en": "Mushroom Wreath",
+    "zh": "蘑菇花环",
+    "vi": null
+  },
+  "item.biomeswevegone.music_disc_better_days": {
+    "en": "Music Disc",
+    "zh": "唱片",
+    "vi": null
+  },
+  "item.biomeswevegone.music_disc_better_days.desc": {
+    "en": "AOCAWOL - Better Days",
+    "zh": "AOCAWOL - 更美好的时光",
+    "vi": null
+  },
+  "item.biomeswevegone.music_disc_pixie_club": {
+    "en": "Music Disc",
+    "zh": "唱片",
+    "vi": null
+  },
+  "item.biomeswevegone.music_disc_pixie_club.desc": {
+    "en": "AOCAWOL - Pixie Club",
+    "zh": "AOCAWOL - 精灵俱乐部",
+    "vi": null
+  },
+  "item.biomeswevegone.oddion_bulb": {
+    "en": "Oddion Bulb",
+    "zh": "奇异洋葱球茎",
+    "vi": null
+  },
+  "item.biomeswevegone.oddion_spawn_egg": {
+    "en": "Oddion Spawn Egg",
+    "zh": "奇异洋葱刷怪蛋",
+    "vi": null
+  },
+  "item.biomeswevegone.oddion_wreath": {
+    "en": "Oddion Wreath",
+    "zh": "奇异洋葱花环",
+    "vi": null
+  },
+  "item.biomeswevegone.palm_boat": {
+    "en": "Palm Boat",
+    "zh": "棕榈木船",
+    "vi": null
+  },
+  "item.biomeswevegone.palm_chest_boat": {
+    "en": "Palm Boat with Chest",
+    "zh": "棕榈木运输船",
+    "vi": null
+  },
+  "item.biomeswevegone.petal_wreath": {
+    "en": "Petal Wreath",
+    "zh": "绒球葱花环",
+    "vi": null
+  },
+  "item.biomeswevegone.pine_boat": {
+    "en": "Pine Boat",
+    "zh": "松木船",
+    "vi": null
+  },
+  "item.biomeswevegone.pine_chest_boat": {
+    "en": "Pine Boat with Chest",
+    "zh": "松木运输船",
+    "vi": null
+  },
+  "item.biomeswevegone.pumpkin_warden_spawn_egg": {
+    "en": "Pumpkin Warden Spawn Egg",
+    "zh": "南瓜守卫刷怪蛋",
+    "vi": null
+  },
+  "item.biomeswevegone.rainbow_eucalyptus_boat": {
+    "en": "Rainbow Eucalyptus Boat",
+    "zh": "彩虹桉木船",
+    "vi": null
+  },
+  "item.biomeswevegone.rainbow_eucalyptus_chest_boat": {
+    "en": "Rainbow Eucalyptus Boat with Chest",
+    "zh": "彩虹桉木运输船",
+    "vi": null
+  },
+  "item.biomeswevegone.redwood_boat": {
+    "en": "Redwood Boat",
+    "zh": "红杉木船",
+    "vi": null
+  },
+  "item.biomeswevegone.redwood_chest_boat": {
+    "en": "Redwood Boat with Chest",
+    "zh": "红杉木运输船",
+    "vi": null
+  },
+  "item.biomeswevegone.rosy_wreath": {
+    "en": "Rosy Wreath",
+    "zh": "玫瑰花环",
+    "vi": null
+  },
+  "item.biomeswevegone.sakura_boat": {
+    "en": "Sakura Boat",
+    "zh": "樱花木船",
+    "vi": null
+  },
+  "item.biomeswevegone.sakura_chest_boat": {
+    "en": "Sakura Boat with Chest",
+    "zh": "樱花木运输船",
+    "vi": null
+  },
+  "item.biomeswevegone.skyris_boat": {
+    "en": "Skyris Boat",
+    "zh": "天际木船",
+    "vi": null
+  },
+  "item.biomeswevegone.skyris_chest_boat": {
+    "en": "Skyris Boat with Chest",
+    "zh": "天际木运输船",
+    "vi": null
+  },
+  "item.biomeswevegone.white_mangrove_boat": {
+    "en": "White Mangrove Boat",
+    "zh": "白色红树木船",
+    "vi": null
+  },
+  "item.biomeswevegone.white_mangrove_chest_boat": {
+    "en": "White Mangrove Boat with Chest",
+    "zh": "白色红树木运输船",
+    "vi": null
+  },
+  "item.biomeswevegone.white_puffball_cap": {
+    "en": "White Puffball Cap",
+    "zh": "白色马勃菌菌盖",
+    "vi": null
+  },
+  "item.biomeswevegone.white_puffball_spores": {
+    "en": "White Puffball Spores",
+    "zh": "白色马勃菌孢子",
+    "vi": null
+  },
+  "item.biomeswevegone.white_puffball_stew": {
+    "en": "White Puffball Stew",
+    "zh": "白色马勃菌煲",
+    "vi": null
+  },
+  "item.biomeswevegone.willow_boat": {
+    "en": "Willow Boat",
+    "zh": "柳木船",
+    "vi": null
+  },
+  "item.biomeswevegone.willow_chest_boat": {
+    "en": "Willow Boat with Chest",
+    "zh": "柳木运输船",
+    "vi": null
+  },
+  "item.biomeswevegone.winter_rosy_wreath": {
+    "en": "Winter Rosy Wreath",
+    "zh": "冬生玫瑰花环",
+    "vi": null
+  },
+  "item.biomeswevegone.witch_hazel_boat": {
+    "en": "Witch Hazel Boat",
+    "zh": "金缕梅木船",
+    "vi": null
+  },
+  "item.biomeswevegone.witch_hazel_chest_boat": {
+    "en": "Witch Hazel Boat with Chest",
+    "zh": "金缕梅木运输船",
+    "vi": null
+  },
+  "item.biomeswevegone.wreath": {
+    "en": "Wreath",
+    "zh": "花环",
+    "vi": null
+  },
+  "item.biomeswevegone.yucca_fruit": {
+    "en": "Yucca Fruit",
+    "zh": "丝兰果实",
+    "vi": null
+  },
+  "item.biomeswevegone.zelkova_boat": {
+    "en": "Zelkova Boat",
+    "zh": "榉木船",
+    "vi": null
+  },
+  "item.biomeswevegone.zelkova_chest_boat": {
+    "en": "Zelkova Boat with Chest",
+    "zh": "榉木运输船",
+    "vi": null
+  },
+  "itemGroup.biomeswevegone.biomes_weve_gone": {
+    "en": "Biomes We've Gone",
+    "zh": "我们走过的生物群系",
+    "vi": null
+  },
+  "itemGroup.biomeswevegone.biomes_weve_gone_wood": {
+    "en": "Biomes We've Gone Wood",
+    "zh": "我们走过的生物群系木属",
+    "vi": null
+  },
+  "subtitles.entity.oddion_ambient": {
+    "en": "Oddion purrs",
+    "zh": "奇异洋葱：咕噜",
+    "vi": null
+  },
+  "subtitles.entity.oddion_death": {
+    "en": "Oddion dies",
+    "zh": "奇异洋葱：死亡",
+    "vi": null
+  },
+  "subtitles.entity.oddion_happy": {
+    "en": "Oddion happy purrs",
+    "zh": "奇异洋葱：欣喜",
+    "vi": null
+  },
+  "subtitles.entity.oddion_hurt": {
+    "en": "Oddion hurts",
+    "zh": "奇异洋葱：受伤",
+    "vi": null
+  },
+  "tooltip.waila.hatch_chance": {
+    "en": "Hatch Chance: %s",
+    "zh": "孵化率: %s",
+    "vi": null
+  }
+}

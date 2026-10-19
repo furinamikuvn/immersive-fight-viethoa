@@ -1,0 +1,25 @@
+# Binary and large archive files
+*.zip
+*.jar
+*.class
+*.bak
+*.tmp
+*.log
+*.tar
+*.gz
+
+# Heavy game runtimes, downloads and scratch folders
+Immersive Fight 4.2.9/
+Immersive Fight 4.2.9 - Cai Dat Nhanh/
+temp_mod/
+**/mods/
+**/saves/
+**/crash-reports/
+**/logs/
+**/downloads/
+
+# Python / IDE cache
+__pycache__/
+*.pyc
+.vscode/
+.idea/

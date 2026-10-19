@@ -1,0 +1,22 @@
+{
+  "name": "Slumbering Lichblade (Vu Yêu Cự Kiếm)",
+  "icon": "simplyswords:slumbering_lichblade",
+  "advancement": "simplyswords:slumbering_lichblade",
+  "category": "simplyswords:category_unique_weapons",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:slumbering_lichblade",
+      "text": "Đại kiếm rèn từ hài cốt Vu Yêu cổ đại, giam giữ ngàn linh hồn đau đớn, phát ra những lời thì thầm tà ác và thiêu đốt sinh lực kẻ địch lân cận."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Khi thức tỉnh hoàn toàn, Vu Yêu Cự Kiếm chỉ huy vong hồn cắn xé kẻ thù và chuyển hóa sinh mệnh hồi phục cho chủ nhân."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "simplyswords:waking_lichblade",
+      "recipe2": "simplyswords:awakened_lichblade"
+    }
+  ]
+}

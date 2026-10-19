@@ -1,0 +1,657 @@
+{
+  "autohud.title": {
+    "en": "Auto HUD",
+    "zh": "Auto HUD",
+    "vi": null
+  },
+  "autohud.category.general": {
+    "en": "General",
+    "zh": "自动 HUD",
+    "vi": null
+  },
+  "autohud.category.components": {
+    "en": "Components",
+    "zh": "组件",
+    "vi": null
+  },
+  "autohud.category.advanced": {
+    "en": "Advanced",
+    "zh": "Advanced",
+    "vi": null
+  },
+  "autohud.option.dynamicOnLoad": {
+    "en": "Enable on game load",
+    "zh": "在游戏加载时启用动态 HUD",
+    "vi": null
+  },
+  "autohud.option.dynamicOnLoad.description": {
+    "en": "Enable dynamic HUD on game load",
+    "zh": null,
+    "vi": null
+  },
+  "autohud.option.ticksRevealed": {
+    "en": "Time revealed",
+    "zh": "显示时间 (ticks)",
+    "vi": null
+  },
+  "autohud.option.ticksRevealed.description": {
+    "en": "The time in ticks that components should be revealed for. After this time, they automatically hide again.",
+    "zh": null,
+    "vi": null
+  },
+  "autohud.option.animationMove": {
+    "en": "Move",
+    "zh": "动画类型：移动",
+    "vi": null
+  },
+  "autohud.option.animationMove.description": {
+    "en": "Enables the move animation, hiding components by pushing them off the screen.",
+    "zh": null,
+    "vi": null
+  },
+  "autohud.option.animationFade": {
+    "en": "Fade",
+    "zh": "动画类型：渐变",
+    "vi": null
+  },
+  "autohud.option.animationFade.description": {
+    "en": "Enables the fade animation, hiding components by reducing their opacity.",
+    "zh": null,
+    "vi": null
+  },
+  "autohud.option.animationSpeed": {
+    "en": "Animation speed",
+    "zh": "动画速度",
+    "vi": null
+  },
+  "autohud.option.animationSpeed.description": {
+    "en": "Animation speed",
+    "zh": null,
+    "vi": null
+  },
+  "autohud.group.animationSpeeds": {
+    "en": "Special animation speeds",
+    "zh": "Special animation speeds (set to 0 to use above value)",
+    "vi": null
+  },
+  "autohud.group.animationSpeeds.description": {
+    "en": "Special animation speeds Set to 0 to use above value",
+    "zh": null,
+    "vi": null
+  },
+  "autohud.option.animationSpeeds.moveIn": {
+    "en": "Moving in",
+    "zh": "Moving in",
+    "vi": null
+  },
+  "autohud.option.animationSpeeds.moveIn.description": {
+    "en": "Animation speed while moving in. Set to 0 to use above speed value.",
+    "zh": null,
+    "vi": null
+  },
+  "autohud.option.animationSpeeds.moveOut": {
+    "en": "Moving out",
+    "zh": "Moving out",
+    "vi": null
+  },
+  "autohud.option.animationSpeeds.moveOut.description": {
+    "en": "Animation speed while moving out. Set to 0 to use above speed value.",
+    "zh": null,
+    "vi": null
+  },
+  "autohud.option.animationSpeeds.fadeIn": {
+    "en": "Fading in",
+    "zh": "Fading in",
+    "vi": null
+  },
+  "autohud.option.animationSpeeds.fadeIn.description": {
+    "en": "Animation speed while fading in. Set to 0 to use above speed value.",
+    "zh": null,
+    "vi": null
+  },
+  "autohud.option.animationSpeeds.fadeOut": {
+    "en": "Fading out",
+    "zh": "Fading out",
+    "vi": null
+  },
+  "autohud.option.animationSpeeds.fadeOut.description": {
+    "en": "Animation speed while fading out. Set to 0 to use above speed value.",
+    "zh": null,
+    "vi": null
+  },
+  "autohud.option.revealType": {
+    "en": "Component stacking",
+    "zh": "以如下方式处理组件",
+    "vi": null
+  },
+  "autohud.option.revealType.description": {
+    "en": "Handle the components as such:\nIndividual: move all components individually\nStacked: Hide components only if not blocked by other visible components\nGrouped: move all logically grouped components (hotbar area) together\nHide Combined: hide revealed components together\nCombined: move all components together",
+    "zh": null,
+    "vi": null
+  },
+  "autohud.group.statusBars": {
+    "en": "Status Bars",
+    "zh": "Status Bars",
+    "vi": null
+  },
+  "autohud.option.health.policy": {
+    "en": "Reveal health when",
+    "zh": "在如下条件下显示生命值",
+    "vi": null
+  },
+  "autohud.option.health.policy.description": {
+    "en": "Always: always visible\nDisabled: do not automatically reveal\nChanging: reveal when health changes\nIncreasing: reveal when healing\nDecreasing: reveal when hurting\nNot Full: reveal when not at full health\nLow: reveal when at low health",
+    "zh": null,
+    "vi": null
+  },
+  "autohud.option.hunger.policy": {
+    "en": "Reveal hunger when",
+    "zh": "在如下条件下显示饥饿值",
+    "vi": null
+  },
+  "autohud.option.hunger.policy.description": {
+    "en": "Always: always visible\nDisabled: do not automatically reveal\nChanging: reveal when hunger changes\nIncreasing: reveal when eating\nDecreasing: reveal when gaining hunger\nNot Full: reveal when not at full food bar\nLow: reveal when at low food bar",
+    "zh": null,
+    "vi": null
+  },
+  "autohud.option.air.policy": {
+    "en": "Reveal air when",
+    "zh": "在如下条件下显示氧气值",
+    "vi": null
+  },
+  "autohud.option.air.policy.description": {
+    "en": "Always: always visible\nDisabled: do not automatically reveal\nChanging: reveal when air changes\nIncreasing: reveal when gaining air\nDecreasing: reveal when losing air\nNot Full: reveal when not at full health\nLow: reveal when at low health",
+    "zh": null,
+    "vi": null
+  },
+  "autohud.option.armor.policy": {
+    "en": "Reveal armor when",
+    "zh": "在如下条件下显示盔甲",
+    "vi": null
+  },
+  "autohud.option.armor.policy.description": {
+    "en": "Always: always visible\nDisabled: do not automatically reveal\nChanging: reveal when armor changes\nIncreasing: reveal when adding armor\nDecreasing: reveal when removing armor\nNot Full: reveal when not at full armor bar\nLow: reveal when armor bar is low",
+    "zh": null,
+    "vi": null
+  },
+  "autohud.option.experience.active": {
+    "en": "Hide experience bar",
+    "zh": "隐藏经验栏",
+    "vi": null
+  },
+  "autohud.option.experience.active.description": {
+    "en": "Dynamically hide the experience bar. If disabled, the experience bar is always visible.",
+    "zh": null,
+    "vi": null
+  },
+  "autohud.option.experience.onChange": {
+    "en": "Reveal on experience change",
+    "zh": "在经验改变时显示",
+    "vi": null
+  },
+  "autohud.option.experience.onChange.description": {
+    "en": "Reveal the experience bar whenever gaining experience.",
+    "zh": null,
+    "vi": null
+  },
+  "autohud.option.mountJumpBar.active": {
+    "en": "Hide mount jump bar",
+    "zh": "不蓄力时隐藏坐骑跳跃栏",
+    "vi": null
+  },
+  "autohud.option.mountJumpBar.active.description": {
+    "en": "Hide mount jump bar when not charging",
+    "zh": null,
+    "vi": null
+  },
+  "autohud.option.mountJumpBar.onChange": {
+    "en": "Reveal mount jump bar",
+    "zh": "蓄力时显示坐骑跳跃栏",
+    "vi": null
+  },
+  "autohud.option.mountJumpBar.onChange.description": {
+    "en": "Reveal mount jump bar during charge",
+    "zh": null,
+    "vi": null
+  },
+  "autohud.option.mountHealth.policy": {
+    "en": "Reveal mount health when",
+    "zh": "在如下条件下显示坐骑健康状况",
+    "vi": null
+  },
+  "autohud.option.mountHealth.policy.description": {
+    "en": "Always: always visible\nDisabled: do not automatically reveal\nChanging: reveal when health changes\nIncreasing: reveal when healing\nDecreasing: reveal when hurting\nNot Full: reveal when not at full health\nLow: reveal when at low health",
+    "zh": null,
+    "vi": null
+  },
+  "autohud.group.hotbar": {
+    "en": "Hotbar",
+    "zh": "快捷栏",
+    "vi": null
+  },
+  "autohud.option.hotbar.hotbar.active": {
+    "en": "Hide",
+    "zh": "隐藏",
+    "vi": null
+  },
+  "autohud.option.hotbar.hotbar.active.description": {
+    "en": "Dynamically hide the hotbar",
+    "zh": null,
+    "vi": null
+  },
+  "autohud.option.hotbar.hotbar.onChange": {
+    "en": "Reveal on hand change",
+    "zh": "在活动栏的内容变化时显示",
+    "vi": null
+  },
+  "autohud.option.hotbar.hotbar.onChange.description": {
+    "en": "Reveal whenever the active slot's content changes",
+    "zh": null,
+    "vi": null
+  },
+  "autohud.option.hotbar.onSlotChange": {
+    "en": "Reveal on switching slot",
+    "zh": "在切换选择存储槽时显示",
+    "vi": null
+  },
+  "autohud.option.hotbar.onSlotChange.description": {
+    "en": "Reveal when switching the currently selected slot",
+    "zh": null,
+    "vi": null
+  },
+  "autohud.option.hotbar.onLowDurability": {
+    "en": "Reveal on low durability",
+    "zh": "在低耐久时显示",
+    "vi": null
+  },
+  "autohud.option.hotbar.onLowDurability.description": {
+    "en": "Reveal on low durability",
+    "zh": null,
+    "vi": null
+  },
+  "autohud.option.hotbar.durabilityPercentage": {
+    "en": "Reveal percentage",
+    "zh": "低于显示的百分比",
+    "vi": null
+  },
+  "autohud.option.hotbar.durabilityPercentage.description": {
+    "en": "Percentage below which to reveal",
+    "zh": null,
+    "vi": null
+  },
+  "autohud.option.hotbar.durabilityTotal": {
+    "en": "Reveal durability",
+    "zh": "低于显示的耐久",
+    "vi": null
+  },
+  "autohud.option.hotbar.durabilityTotal.description": {
+    "en": "Durability below which to reveal",
+    "zh": null,
+    "vi": null
+  },
+  "autohud.option.hotbar.maximumFadeHotbarItems": {
+    "en": "Fade-out limit for items",
+    "zh": "Fade-out limit for hotbar items",
+    "vi": null
+  },
+  "autohud.option.hotbar.maximumFadeHotbarItems.description": {
+    "en": "Fade-out limit for hotbar items. Set this to non-zero to keep the contents of the hotbar always slightly visible.",
+    "zh": null,
+    "vi": null
+  },
+  "autohud.group.statusEffects": {
+    "en": "Status effects",
+    "zh": "Status effects",
+    "vi": null
+  },
+  "autohud.option.statusEffects.active": {
+    "en": "Hide",
+    "zh": "隐藏状态效果",
+    "vi": null
+  },
+  "autohud.option.statusEffects.active.description": {
+    "en": "Dynamically hide status effects",
+    "zh": null,
+    "vi": null
+  },
+  "autohud.option.statusEffects.onChange": {
+    "en": "Reveal active",
+    "zh": "显示当前的状态效果",
+    "vi": null
+  },
+  "autohud.option.statusEffects.onChange.description": {
+    "en": "Reveal active status effects",
+    "zh": null,
+    "vi": null
+  },
+  "autohud.option.statusEffectTimer": {
+    "en": "Show remaining time",
+    "zh": "在其图标上显示状态效果的剩余时间",
+    "vi": null
+  },
+  "autohud.option.statusEffectTimer.description": {
+    "en": "Show remaining time of status effects on their icon",
+    "zh": null,
+    "vi": null
+  },
+  "autohud.option.hidePersistentStatusEffects": {
+    "en": "Hide persistent",
+    "zh": "隐藏持续的状态效果",
+    "vi": null
+  },
+  "autohud.option.hidePersistentStatusEffects.description": {
+    "en": "Always hide the status effect symbol for unchanging status effects, such as when wearing a turtle master helmet",
+    "zh": null,
+    "vi": null
+  },
+  "autohud.group.scoreboard": {
+    "en": "Scoreboard",
+    "zh": "计分板",
+    "vi": null
+  },
+  "autohud.option.scoreboard.scoreboard.active": {
+    "en": "Hide",
+    "zh": "隐藏",
+    "vi": null
+  },
+  "autohud.option.scoreboard.scoreboard.active.description": {
+    "en": "Hide the scoreboard",
+    "zh": null,
+    "vi": null
+  },
+  "autohud.option.scoreboard.scoreboard.onChange": {
+    "en": "Reveal on title",
+    "zh": "在标题改变时显示",
+    "vi": null
+  },
+  "autohud.option.scoreboard.scoreboard.onChange.description": {
+    "en": "Reveal when the scoreboard title changes",
+    "zh": null,
+    "vi": null
+  },
+  "autohud.option.scoreboard.onScoreChange": {
+    "en": "Reveal when score changes",
+    "zh": "在分数改变时显示",
+    "vi": null
+  },
+  "autohud.option.scoreboard.onScoreChange.description": {
+    "en": "Reveal when score changes",
+    "zh": null,
+    "vi": null
+  },
+  "autohud.option.scoreboard.onTeamChange": {
+    "en": "Reveal when team changes",
+    "zh": "在队伍改变时显示",
+    "vi": null
+  },
+  "autohud.option.scoreboard.onTeamChange.description": {
+    "en": "If the team is part of the player score, update it; otherwise any team can update and still provide no actual visibility",
+    "zh": null,
+    "vi": null
+  },
+  "autohud.group.crosshair": {
+    "en": "Crosshair",
+    "zh": null,
+    "vi": null
+  },
+  "autohud.option.crosshair.active": {
+    "en": "Hide",
+    "zh": null,
+    "vi": null
+  },
+  "autohud.option.crosshair.active.description": {
+    "en": "Hide the crosshair. By default in \"fade\" mode, it is only made mostly transparent. Go to advanced settings to configure this.",
+    "zh": null,
+    "vi": null
+  },
+  "autohud.option.crosshair.onChange": {
+    "en": "Reveal when targeting",
+    "zh": null,
+    "vi": null
+  },
+  "autohud.option.crosshair.onChange.description": {
+    "en": "Reveal when any block or entity is targeted. If DynamicCrosshair is installed, that mod's settings are used.",
+    "zh": null,
+    "vi": null
+  },
+  "autohud.option.defaultValues.speedMultiplier": {
+    "en": "Default speed multiplier",
+    "zh": "默认的速度倍率",
+    "vi": null
+  },
+  "autohud.option.defaultValues.speedMultiplier.description": {
+    "en": "Speed multiplier that gets added onto the animation speed.",
+    "zh": null,
+    "vi": null
+  },
+  "autohud.option.defaultValues.distance": {
+    "en": "Default distance",
+    "zh": "默认距离",
+    "vi": null
+  },
+  "autohud.option.defaultValues.distance.description": {
+    "en": "Controls how many pixels elements move out by",
+    "zh": null,
+    "vi": null
+  },
+  "autohud.option.defaultValues.maximumFade": {
+    "en": "Default fade-out limit",
+    "zh": "默认的淡出限制",
+    "vi": null
+  },
+  "autohud.option.defaultValues.maximumFade.description": {
+    "en": "Controls how far the opacity of elements can be reduced.",
+    "zh": null,
+    "vi": null
+  },
+  "autohud.option.advanced.label": {
+    "en": "Here you can manually adjust values for each component. This might be necessary if some other mod moves components around.\nSet numeric values to -1 to inherit from default.",
+    "zh": "Here you can manually adjust values for each component. This might be necessary if some other mod moves components around.\nSet numeric values to -1 to inherit from default.",
+    "vi": null
+  },
+  "autohud.option.advanced.direction": {
+    "en": "Direction",
+    "zh": "方向",
+    "vi": null
+  },
+  "autohud.option.advanced.direction.description": {
+    "en": "Which direction to move the component in. You probably want to set it to its closest screen edge.",
+    "zh": null,
+    "vi": null
+  },
+  "autohud.option.advanced.speedMultiplier": {
+    "en": "Speed Multiplier",
+    "zh": "速度倍数",
+    "vi": null
+  },
+  "autohud.option.advanced.speedMultiplier.description": {
+    "en": "Speed multiplier that gets added onto the animation speed. Set to -1 to use default.",
+    "zh": null,
+    "vi": null
+  },
+  "autohud.option.advanced.distance": {
+    "en": "Distance",
+    "zh": "距离",
+    "vi": null
+  },
+  "autohud.option.advanced.distance.description": {
+    "en": "Controls how many pixels this element moves out by. Set to -1 to use default.",
+    "zh": null,
+    "vi": null
+  },
+  "autohud.option.advanced.maximumFade": {
+    "en": "Fade-out limit",
+    "zh": "淡出限制",
+    "vi": null
+  },
+  "autohud.option.advanced.maximumFade.description": {
+    "en": "Controls how far the opacity of this element can be reduced. Set to -1 to use default.",
+    "zh": null,
+    "vi": null
+  },
+  "autohud.group.health": {
+    "en": "Health",
+    "zh": "Health",
+    "vi": null
+  },
+  "autohud.group.armor": {
+    "en": "Armor",
+    "zh": "Armor",
+    "vi": null
+  },
+  "autohud.group.hunger": {
+    "en": "Hunger",
+    "zh": "Hunger",
+    "vi": null
+  },
+  "autohud.group.air": {
+    "en": "Air",
+    "zh": "Air",
+    "vi": null
+  },
+  "autohud.group.experience": {
+    "en": "Experience",
+    "zh": "Experience",
+    "vi": null
+  },
+  "autohud.group.mountJumpBar": {
+    "en": "Mount Jump Bar",
+    "zh": "Mount Jump Bar",
+    "vi": null
+  },
+  "autohud.group.mountHealth": {
+    "en": "Mount Health",
+    "zh": "Mount Health",
+    "vi": null
+  },
+  "autohud.scrollDirection.Up": {
+    "en": "Up",
+    "zh": "上",
+    "vi": null
+  },
+  "autohud.scrollDirection.Down": {
+    "en": "Down",
+    "zh": "下",
+    "vi": null
+  },
+  "autohud.scrollDirection.Left": {
+    "en": "Left",
+    "zh": "左",
+    "vi": null
+  },
+  "autohud.scrollDirection.Right": {
+    "en": "Right",
+    "zh": "右",
+    "vi": null
+  },
+  "autohud.revealType.Individual": {
+    "en": "Individual",
+    "zh": "独立",
+    "vi": null
+  },
+  "autohud.revealType.Stacked": {
+    "en": "Stacked",
+    "zh": "叠加",
+    "vi": null
+  },
+  "autohud.revealType.Grouped": {
+    "en": "Grouped",
+    "zh": "分组",
+    "vi": null
+  },
+  "autohud.revealType.HideCombined": {
+    "en": "Hide Combined",
+    "zh": "隐藏合并",
+    "vi": null
+  },
+  "autohud.revealType.Combined": {
+    "en": "Combined",
+    "zh": "合并",
+    "vi": null
+  },
+  "autohud.revealPolicy.Always": {
+    "en": "Always",
+    "zh": "总是",
+    "vi": null
+  },
+  "autohud.revealPolicy.Disabled": {
+    "en": "Disabled",
+    "zh": "关闭",
+    "vi": null
+  },
+  "autohud.revealPolicy.Changing": {
+    "en": "Changing",
+    "zh": "变化",
+    "vi": null
+  },
+  "autohud.revealPolicy.Increasing": {
+    "en": "Increasing",
+    "zh": "增加",
+    "vi": null
+  },
+  "autohud.revealPolicy.Decreasing": {
+    "en": "Decreasing",
+    "zh": "减少",
+    "vi": null
+  },
+  "autohud.revealPolicy.NotFull": {
+    "en": "Not Full",
+    "zh": "未满",
+    "vi": null
+  },
+  "autohud.revealPolicy.Low": {
+    "en": "Low",
+    "zh": "低",
+    "vi": null
+  },
+  "key.category.autohud": {
+    "en": "Auto HUD",
+    "zh": "自动 HUD",
+    "vi": null
+  },
+  "key.autohud.toggle-hud": {
+    "en": "Toggle dynamic HUD",
+    "zh": "切换动态 HUD",
+    "vi": null
+  },
+  "key.autohud.peek-hud": {
+    "en": "Toggle HUD while held",
+    "zh": "按住时切换 HUD",
+    "vi": null
+  },
+  "modmenu.summaryTranslation.autohud": {
+    "en": "Dynamically hide interface elements",
+    "zh": "动态地隐藏界面元素",
+    "vi": null
+  },
+  "modmenu.descriptionTranslation.autohud": {
+    "en": "Dynamic HUD that hides interface elements while they are not needed.",
+    "zh": "动态 HUD，在不需要时隐藏界面元素。",
+    "vi": null
+  },
+  "autohud.option.revealType.@Tooltip": {
+    "en": null,
+    "zh": "独立：独立移动所有部件\n叠加：只有在不被其他可见组件阻挡的情况下才会隐藏组件\n分组：将所有逻辑上分组的组件（快捷栏区）移到一起\n隐藏合并：将显示的组件一起隐藏\n合并：将所有组件一起移动",
+    "vi": null
+  },
+  "autohud.option.hidePersistentStatusEffects.@Tooltip": {
+    "en": null,
+    "zh": "对于不变的状态效果总是隐藏状态效果符号，例如戴着海龟壳时。",
+    "vi": null
+  },
+  "autohud.option.statusEffectTimer.@Tooltip": {
+    "en": null,
+    "zh": "Show remaining time of status effects on their icon",
+    "vi": null
+  },
+  "autohud.option.scoreboard.onTeamChange.@Tooltip": {
+    "en": null,
+    "zh": "如果队伍是玩家分数的一部分，则更新它；否则，任何队伍都可以更新，但仍然没有提供实际的可见性。",
+    "vi": null
+  },
+  "autohud.requireYaclForConfigScreen": {
+    "en": null,
+    "zh": "To configure AutoHUD through ModMenu, please install YetAnotherConfigLib!",
+    "vi": null
+  }
+}

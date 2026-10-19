@@ -1,0 +1,272 @@
+{
+  "weaponleveling.tooltip.itemlevel": {
+    "en": "Item Level",
+    "zh": "物品等级",
+    "vi": "Cấp độ vật phẩm"
+  },
+  "weaponleveling.tooltip.level": {
+    "en": "Level ",
+    "zh": "等级 ",
+    "vi": "cấp"
+  },
+  "weaponleveling.tooltip.reduction": {
+    "en": null,
+    "zh": "伤害减免 ",
+    "vi": "giảm thiệt hại"
+  },
+  "weaponleveling.tooltip.projectile_weapon_level": {
+    "en": "Extra Damage ",
+    "zh": "额外伤害 ",
+    "vi": "thiệt hại thêm"
+  },
+  "weaponleveling.tooltip.levelprogress": {
+    "en": "Progress ",
+    "zh": "进度 ",
+    "vi": "lịch trình"
+  },
+  "weaponleveling.tooltip.pressshift": {
+    "en": "Press [Shift] to see the Level",
+    "zh": "按住 [Shift] 来查看等级",
+    "vi": "Giữ [Shift] để xem cấp độ"
+  },
+  "weaponleveling.tooltip.maxlevel": {
+    "en": "Max Level",
+    "zh": "最高等级",
+    "vi": "cấp độ cao nhất"
+  },
+  "weaponleveling.tooltip.overmaxlevel": {
+    "en": "Wait, this is illegal",
+    "zh": "这是无效的行为哦",
+    "vi": "Đây là hành vi không hợp lệ"
+  },
+  "weaponleveling.levelup": {
+    "en": "reached level ",
+    "zh": "升级至等级 ",
+    "vi": "Nâng cấp lên cấp độ"
+  },
+  "weaponleveling.command.setlevel": {
+    "en": "Set the Level of %s to %s",
+    "zh": "设置 %s 的等级至 %s",
+    "vi": "Đặt mức %s thành %s"
+  },
+  "weaponleveling.command.setpoints": {
+    "en": "Set the XP Points of %s to %s",
+    "zh": "设置 %s 的经验值至 %s",
+    "vi": "Đặt giá trị trải nghiệm của %s thành %s"
+  },
+  "weaponleveling.command.exception.novalidweapon": {
+    "en": "%s is not a valid item",
+    "zh": "%s 不是一件有效的物品",
+    "vi": "%s không phải là mặt hàng hợp lệ"
+  },
+  "weaponleveling.command.exception.outofbounds": {
+    "en": "%s is higher than the Maximum Value",
+    "zh": "%s 超过了能设置的最大值",
+    "vi": "%s vượt quá giá trị tối đa có thể được đặt"
+  },
+  "weaponleveling.tooltip.broken": {
+    "en": "Broken",
+    "zh": "损坏",
+    "vi": "hư hại"
+  },
+  "weaponleveling.midnightconfig.client_title": {
+    "en": "Client Configuration",
+    "zh": null,
+    "vi": null
+  },
+  "weaponleveling.midnightconfig.category.client": {
+    "en": "Client",
+    "zh": null,
+    "vi": null
+  },
+  "weaponleveling.midnightconfig.holdShiftToShow": {
+    "en": "Hold Shift to Show Level/XP",
+    "zh": null,
+    "vi": null
+  },
+  "weaponleveling.midnightconfig.titleColor": {
+    "en": "Title Color",
+    "zh": null,
+    "vi": null
+  },
+  "weaponleveling.midnightconfig.arrowColor": {
+    "en": "Arrow Color",
+    "zh": null,
+    "vi": null
+  },
+  "weaponleveling.midnightconfig.textColor": {
+    "en": "Text Color",
+    "zh": null,
+    "vi": null
+  },
+  "weaponleveling.midnightconfig.valuesColor": {
+    "en": "Values Color",
+    "zh": null,
+    "vi": null
+  },
+  "weaponleveling.midnightconfig.shiftColor": {
+    "en": "Shift Color",
+    "zh": null,
+    "vi": null
+  },
+  "weaponleveling.midnightconfig.brokenColor": {
+    "en": "Broken Color",
+    "zh": null,
+    "vi": null
+  },
+  "weaponleveling.midnightconfig.leveling_title": {
+    "en": "Leveling Configuration",
+    "zh": null,
+    "vi": null
+  },
+  "weaponleveling.midnightconfig.category.leveling": {
+    "en": "Leveling",
+    "zh": null,
+    "vi": null
+  },
+  "weaponleveling.midnightconfig.hit_xp_amount": {
+    "en": "XP Amount for Hit",
+    "zh": null,
+    "vi": null
+  },
+  "weaponleveling.midnightconfig.crit_xp_amount": {
+    "en": "XP Amount for Critical Hit",
+    "zh": null,
+    "vi": null
+  },
+  "weaponleveling.midnightconfig.hit_percentage": {
+    "en": "Chance for a Hit to cause XP",
+    "zh": null,
+    "vi": null
+  },
+  "weaponleveling.midnightconfig.crit_percentage": {
+    "en": "Chance for a Critical Hit to cause XP",
+    "zh": null,
+    "vi": null
+  },
+  "weaponleveling.midnightconfig.max_item_level": {
+    "en": "Max Item Level",
+    "zh": null,
+    "vi": null
+  },
+  "weaponleveling.midnightconfig.level_modifier": {
+    "en": "Leveling Modifier",
+    "zh": null,
+    "vi": null
+  },
+  "weaponleveling.midnightconfig.starting_xp_amount": {
+    "en": "Starting XP Amount",
+    "zh": null,
+    "vi": null
+  },
+  "weaponleveling.midnightconfig.damage_per_level": {
+    "en": "Damage per Level",
+    "zh": null,
+    "vi": null
+  },
+  "weaponleveling.midnightconfig.armor_per_level": {
+    "en": "Damage per Level",
+    "zh": null,
+    "vi": null
+  },
+  "weaponleveling.midnightconfig.toughness_per_level": {
+    "en": "Damage per Level",
+    "zh": null,
+    "vi": null
+  },
+  "weaponleveling.midnightconfig.armor_rng_modifier": {
+    "en": "Armor RNG Modifier",
+    "zh": null,
+    "vi": null
+  },
+  "weaponleveling.midnightconfig.max_damage_reduction_percentage": {
+    "en": "Max Damage Reduction Percentage",
+    "zh": null,
+    "vi": null
+  },
+  "weaponleveling.midnightconfig.bow_like_damage_modifier": {
+    "en": "Bow-Like Damage Modifier",
+    "zh": null,
+    "vi": null
+  },
+  "weaponleveling.midnightconfig.level_up_type": {
+    "en": "Level Up Type",
+    "zh": null,
+    "vi": null
+  },
+  "weaponleveling.midnightconfig.enum.LevelUpType.TOAST": {
+    "en": "In Toast",
+    "zh": null,
+    "vi": null
+  },
+  "weaponleveling.midnightconfig.enum.LevelUpType.ACTIONBAR": {
+    "en": "In Actionbar",
+    "zh": null,
+    "vi": null
+  },
+  "weaponleveling.midnightconfig.items_title": {
+    "en": "Item Configuration",
+    "zh": null,
+    "vi": null
+  },
+  "weaponleveling.midnightconfig.category.items": {
+    "en": "Items",
+    "zh": null,
+    "vi": null
+  },
+  "weaponleveling.midnightconfig.broken_items_wont_vanish": {
+    "en": "Items don't vanish when breaking",
+    "zh": null,
+    "vi": null
+  },
+  "weaponleveling.midnightconfig.send_registry_in_log": {
+    "en": "Send Registry Information in Log",
+    "zh": null,
+    "vi": null
+  },
+  "weaponleveling.midnightconfig.disable_unlisted_items": {
+    "en": "Disable Unlisted Items (Weapons/Armor in Code)",
+    "zh": null,
+    "vi": null
+  },
+  "weaponleveling.midnightconfig.levelable_items_auto_unbreakable": {
+    "en": "All Levelable Items are automatically Non-Vanish",
+    "zh": null,
+    "vi": null
+  },
+  "weaponleveling.midnightconfig.entities_title": {
+    "en": "Entity Configuration",
+    "zh": null,
+    "vi": null
+  },
+  "weaponleveling.midnightconfig.category.entities": {
+    "en": "Entities",
+    "zh": null,
+    "vi": null
+  },
+  "weaponleveling.midnightconfig.xp_for_generic_kill": {
+    "en": "XP for killing a Generic Mob",
+    "zh": null,
+    "vi": null
+  },
+  "weaponleveling.midnightconfig.xp_for_monster_kill": {
+    "en": "XP for killing a Monster",
+    "zh": null,
+    "vi": null
+  },
+  "weaponleveling.midnightconfig.xp_for_animal_kill": {
+    "en": "XP for killing an Animal",
+    "zh": null,
+    "vi": null
+  },
+  "weaponleveling.midnightconfig.xp_for_mini_boss_kill": {
+    "en": "XP for killing a Mini Boss",
+    "zh": null,
+    "vi": null
+  },
+  "weaponleveling.midnightconfig.xp_for_boss_kill": {
+    "en": "XP for killing a Boss",
+    "zh": null,
+    "vi": null
+  }
+}

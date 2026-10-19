@@ -1,0 +1,9 @@
+{
+  "replace": true,
+  "values": [
+    "minecraft:wooded_badlands",
+    "minecraft:badlands",
+"regions_unexplored:outback",
+"minecraft:desert"
+  ]
+}

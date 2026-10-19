@@ -1,0 +1,32 @@
+{
+  "advancements.dracolotl_bucket_get.title": {
+    "en": "The Cutest Apex Predator",
+    "zh": "凶萌的顶级猎杀者",
+    "vi": "Thợ săn hàng đầu hung dữ và dễ thương"
+  },
+  "advancements.dracolotl_bucket_get.description": {
+    "en": "This vessel cannot contain him forever.",
+    "zh": "这个容器无法永远困住它。",
+    "vi": "Vật chứa không thể nhốt nó mãi được."
+  },
+  "item.dracolotl.dracolotl_spawn_egg": {
+    "en": "Dracolotl Spawn Egg",
+    "zh": "末影蝾生成蛋",
+    "vi": "Dracolotl Spawn Egg"
+  },
+  "item.dracolotl.bucket_of_dracolotl": {
+    "en": "Bucket of Dracolotl",
+    "zh": "末影蝾桶",
+    "vi": "Bucket of Dracolotl"
+  },
+  "entity.dracolotl.dracolotl": {
+    "en": "Dracolotl",
+    "zh": "末影蝾",
+    "vi": "Dracolotl"
+  },
+  "jei.dracolotl.dracolotl_info": {
+    "en": "To summon the almighty Dracolotl, make a pillar of obsidian three blocks high. One block away from each of its faces, place another block of obsidian, and place an End Crystal atop each one. Then, place a Dragon Egg atop the pillar, and interact with it. The legends whisper of a forgotten red dracolotl that was named 'Hellkite.'",
+    "zh": "要召唤万能的末影蝾，需要建造一个高三格的黑曜石柱。在每个面的旁边一格处，再放置一个黑曜石，并在每个黑曜石方块上放置一个末地水晶。然后，在柱子的顶端放置一个龙蛋，并与它互动。投喂紫颂花有概率产下龙蛋。传说中，有一只被遗忘的红色末影蝾，名为“Hellkite”。",
+    "vi": "Để triệu hồi Ender Salamander toàn năng, bạn cần xây dựng một Trụ cột Obsidian cao ba khối. Một khối bên cạnh mỗi mặt, đặt một khối obsidian khác và đặt một tinh thể cuối cùng trên mỗi khối obsidian. Sau đó, đặt một quả trứng rồng lên trên cây cột và tương tác với nó. Ăn hoa Điệp có cơ hội đẻ trứng rồng. Truyền thuyết kể rằng có một con kỳ nhông ender đỏ bị lãng quên tên là \"Hellkite\"."
+  }
+}

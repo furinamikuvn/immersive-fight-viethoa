@@ -1,0 +1,3177 @@
+{
+  "itemgroup.mebahelcreaturesdraugr": {
+    "en": "Mebahel's Creatures - Draugr",
+    "zh": "Mebahel 的生物 - 尸鬼",
+    "vi": null
+  },
+  "_comment1": {
+    "en": "=== Items ===",
+    "zh": "=== 物品 ===",
+    "vi": null
+  },
+  "item.mebahelcreaturesdraugr.magical_stone.frost_bite_magical_stone": {
+    "en": "§9Frostbite Magical Stone",
+    "zh": "§9霜噬术魔法石",
+    "vi": null
+  },
+  "item.mebahelcreaturesdraugr.magical_stone.frost_spike_magical_stone": {
+    "en": "§5Frost Spike Magical Stone",
+    "zh": "§5冰锥术魔法石",
+    "vi": null
+  },
+  "item.mebahelcreaturesdraugr.draugr_awakening_soul_gem": {
+    "en": "Draugr Awakening Soul Gem",
+    "zh": "尸鬼觉醒灵魂石",
+    "vi": null
+  },
+  "item.mebahelcreaturesdraugr.filled_draugr_awakening_soul_gem": {
+    "en": "Filled Draugr Awakening Soul Gem",
+    "zh": "充能的尸鬼觉醒灵魂石",
+    "vi": null
+  },
+  "item.mebahelcreaturesdraugr.stalhrim": {
+    "en": "Stalhrim",
+    "zh": "魔冰",
+    "vi": null
+  },
+  "item.mebahelcreaturesdraugr.ebony_ingot": {
+    "en": "Ebony Ingot",
+    "zh": "乌木锭",
+    "vi": null
+  },
+  "item.mebahelcreaturesdraugr.ebony_scrap": {
+    "en": "Ebony Scrap",
+    "zh": "乌木碎片",
+    "vi": null
+  },
+  "item.mebahelcreaturesdraugr.ingredient.flame_atronach_heart": {
+    "en": "Flame Atronach Heart",
+    "zh": "火焰侍灵之心",
+    "vi": null
+  },
+  "item.mebahelcreaturesdraugr.golden_claw": {
+    "en": "Golden Claw",
+    "zh": "金爪",
+    "vi": null
+  },
+  "item.mebahelcreaturesdraugr.golden_claw_fragment": {
+    "en": "Golden Claw Fragment",
+    "zh": "金爪碎片",
+    "vi": null
+  },
+  "item.mebahelcreaturesdraugr.lesser_soul_gem": {
+    "en": "Lesser Soul Gem",
+    "zh": "低等灵魂石",
+    "vi": null
+  },
+  "item.mebahelcreaturesdraugr.common_soul_gem": {
+    "en": "Common Soul Gem",
+    "zh": "普通灵魂石",
+    "vi": null
+  },
+  "item.mebahelcreaturesdraugr.greater_soul_gem": {
+    "en": "Greater Soul Gem",
+    "zh": "强效灵魂石",
+    "vi": null
+  },
+  "item.mebahelcreaturesdraugr.sublime_soul_gem": {
+    "en": "Sublime Soul Gem",
+    "zh": "崇高灵魂石",
+    "vi": null
+  },
+  "item.mebahelcreaturesdraugr.soul_essence": {
+    "en": "Soul Essence",
+    "zh": "灵魂精华",
+    "vi": null
+  },
+  "_comment2": {
+    "en": "=== Weapons ===",
+    "zh": "=== 武器 ===",
+    "vi": null
+  },
+  "item.mebahelcreaturesdraugr.weapon.ancient_nord.ancient_nord_sword": {
+    "en": "Ancient Nord Sword",
+    "zh": "古诺德剑",
+    "vi": null
+  },
+  "item.mebahelcreaturesdraugr.weapon.ebony.ebony_axe": {
+    "en": "Ebony Axe",
+    "zh": "乌木斧",
+    "vi": null
+  },
+  "item.mebahelcreaturesdraugr.weapon.ebony.infernal_ebony_axe": {
+    "en": "Infernal Ebony Axe",
+    "zh": "狱焰乌木斧",
+    "vi": null
+  },
+  "item.mebahelcreaturesdraugr.weapon.ebony.ebony_mace": {
+    "en": "Ebony Mace",
+    "zh": "乌木钉锤",
+    "vi": null
+  },
+  "item.mebahelcreaturesdraugr.weapon.ebony.ebony_dagger": {
+    "en": "Ebony Dagger",
+    "zh": "乌木匕首",
+    "vi": null
+  },
+  "item.mebahelcreaturesdraugr.weapon.ebony.ebony_greatsword": {
+    "en": "Ebony Greatsword",
+    "zh": "乌木巨剑",
+    "vi": null
+  },
+  "item.mebahelcreaturesdraugr.staff.dragon_priest_frost_bite_staff": {
+    "en": "§9Frost Bite Dragon Priest Staff",
+    "zh": "§9霜噬术龙祭司法杖",
+    "vi": null
+  },
+  "item.mebahelcreaturesdraugr.staff.dragon_priest_frost_spike_staff": {
+    "en": "§5Ice Spike Dragon Priest Staff",
+    "zh": "§5冰锥术龙祭司法杖",
+    "vi": null
+  },
+  "item.mebahelcreaturesdraugr.staff.flame_atronach_summoning_staff": {
+    "en": "§9Flame Atronach Summoning Staff",
+    "zh": "§9火焰侍灵召唤法杖",
+    "vi": null
+  },
+  "item.mebahelcreaturesdraugr.stalhrim_sword": {
+    "en": "§5Stalhrim Sword",
+    "zh": "§5魔冰剑",
+    "vi": null
+  },
+  "item.mebahelcreaturesdraugr.frost_sword.tooltip1": {
+    "en": "This sword gives its wearer the ability to freeze ",
+    "zh": "此剑赋予持有者每次攻击",
+    "vi": null
+  },
+  "item.mebahelcreaturesdraugr.frost_sword.tooltip2": {
+    "en": "the enemy with every strike.",
+    "zh": "冻结敌人的能力。",
+    "vi": null
+  },
+  "item.mebahelcreaturesdraugr.ebony_arrow": {
+    "en": "Ebony Arrow",
+    "zh": "乌木箭",
+    "vi": null
+  },
+  "item.mebahelcreaturesdraugr.ebony_arrow.tooltip1": {
+    "en": "§7These arrows are too powerful for Infinity to replicate",
+    "zh": "§7这些箭矢过于强大，无法被“无限”附魔复制",
+    "vi": null
+  },
+  "_comment3": {
+    "en": "=== Bows ===",
+    "zh": "=== 弓 ===",
+    "vi": null
+  },
+  "item.mebahelcreaturesdraugr.bow.ancient_nord.ancient_nord_bow": {
+    "en": "Ancient Nord Bow",
+    "zh": "古诺德弓",
+    "vi": null
+  },
+  "item.mebahelcreaturesdraugr.bow.ebony_bow": {
+    "en": "Ebony Bow",
+    "zh": "乌木弓",
+    "vi": null
+  },
+  "item.mebahelcreaturesdraugr.bow.stalhrim_bow": {
+    "en": "Stalhrim Bow",
+    "zh": "§5魔冰弓",
+    "vi": null
+  },
+  "_comment4": {
+    "en": "=== Mob Entities ===",
+    "zh": "=== 生物实体 ===",
+    "vi": null
+  },
+  "entity.mebahelcreaturesdraugr.draugr": {
+    "en": "Draugr",
+    "zh": "尸鬼",
+    "vi": null
+  },
+  "entity.mebahelcreaturesdraugr.draugr_overlord": {
+    "en": "Draugr Overlord",
+    "zh": "尸鬼霸主",
+    "vi": null
+  },
+  "entity.mebahelcreaturesdraugr.draugr_archer": {
+    "en": "Draugr Archer",
+    "zh": "尸鬼弓手",
+    "vi": null
+  },
+  "entity.mebahelcreaturesdraugr.draugr_wight": {
+    "en": "Draugr Wight",
+    "zh": "尸鬼幽灵",
+    "vi": null
+  },
+  "entity.mebahelcreaturesdraugr.draugr_scourge": {
+    "en": "Draugr Scourge",
+    "zh": "尸鬼惩罚者",
+    "vi": null
+  },
+  "entity.mebahelcreaturesdraugr.skeleton_warrior": {
+    "en": "Skeleton Warrior",
+    "zh": "骷髅战士",
+    "vi": null
+  },
+  "entity.mebahelcreaturesdraugr.skeleton_warrior_head": {
+    "en": "Skeleton Warrior Head",
+    "zh": "骷髅战士之首",
+    "vi": null
+  },
+  "entity.mebahelcreaturesdraugr.flame_atronach": {
+    "en": "Flame Atronach",
+    "zh": "火焰侍灵",
+    "vi": null
+  },
+  "entity.mebahelcreaturesdraugr.infernal_draugr": {
+    "en": "Infernal Draugr",
+    "zh": "炼狱尸鬼",
+    "vi": null
+  },
+  "_comment5": {
+    "en": "=== Projectile Entities ===",
+    "zh": "=== 投掷物实体 ===",
+    "vi": null
+  },
+  "entity.mebahelcreaturesdraugr.frostbite_projectile": {
+    "en": "Frostbite",
+    "zh": "霜噬术",
+    "vi": null
+  },
+  "entity.mebahelcreaturesdraugr.frost_spike_projectile": {
+    "en": "Ice Spike",
+    "zh": "冰锥术",
+    "vi": null
+  },
+  "entity.mebahelcreaturesdraugr.firebolt_projectile": {
+    "en": "Firebolt",
+    "zh": "火焰箭",
+    "vi": null
+  },
+  "entity.mebahelcreaturesdraugr.ebony_arrow": {
+    "en": "Ebony Arrow",
+    "zh": "乌木箭",
+    "vi": null
+  },
+  "_comment6": {
+    "en": "=== Blocks ===",
+    "zh": "=== 方块 ===",
+    "vi": null
+  },
+  "block.mebahelcreaturesdraugr.draugr_chest": {
+    "en": "Draugr Chest",
+    "zh": "尸鬼宝箱",
+    "vi": null
+  },
+  "block.mebahelcreaturesdraugr.draugr_altar": {
+    "en": "Draugr Altar",
+    "zh": "尸鬼祭坛",
+    "vi": null
+  },
+  "block.mebahelcreaturesdraugr.altarprotection": {
+    "en": "This area is protected by a Draugr Altar",
+    "zh": "该区域受到尸鬼祭坛的保护",
+    "vi": null
+  },
+  "block.mebahelcreaturesdraugr.draugr_altar_unlocked": {
+    "en": "The Draugr Altar is already unlocked",
+    "zh": "尸鬼祭坛已经解锁",
+    "vi": null
+  },
+  "block.mebahelcreaturesdraugr.draugr_altar_unlocking": {
+    "en": "The Draugr Altar is unlocking",
+    "zh": "尸鬼祭坛正在解锁",
+    "vi": null
+  },
+  "block.mebahelcreaturesdraugr.draugr_altar.requires_golden_claw": {
+    "en": "You need a Golden Claw to unlock this altar",
+    "zh": "你需要一只金爪来解锁这座祭坛",
+    "vi": null
+  },
+  "block.mebahelcreaturesdraugr.dungeon_spellcaster_trap_frostbite": {
+    "en": "Frostbite Dungeon Spellcaster Trap",
+    "zh": "霜噬术地下城施法陷阱",
+    "vi": null
+  },
+  "block.mebahelcreaturesdraugr.spellcaster_trap_frostbite": {
+    "en": "Frostbite Spellcaster Trap",
+    "zh": "霜噬术施法陷阱",
+    "vi": null
+  },
+  "block.mebahelcreaturesdraugr.dungeon_spellcaster_trap_frost_spike": {
+    "en": "Frost Spike Dungeon Spellcaster Trap",
+    "zh": "冰锥术地下城施法陷阱",
+    "vi": null
+  },
+  "block.mebahelcreaturesdraugr.spellcaster_trap_frost_spike": {
+    "en": "Frost Spike Spellcaster Trap",
+    "zh": "冰锥术施法陷阱",
+    "vi": null
+  },
+  "block.mebahelcreaturesdraugr.dungeon_spellcaster_trap_firebolt": {
+    "en": "Firebolt Dungeon Spellcaster Trap",
+    "zh": "火焰箭地下城施法陷阱",
+    "vi": null
+  },
+  "block.mebahelcreaturesdraugr.spellcaster_trap_firebolt": {
+    "en": "Firebolt Spellcaster Trap",
+    "zh": "火焰箭施法陷阱",
+    "vi": null
+  },
+  "_comment7": {
+    "en": "=== Spawn Eggs ===",
+    "zh": "=== 刷怪蛋 ===",
+    "vi": null
+  },
+  "item.mebahelcreaturesdraugr.spawn_egg.skeleton_warrior_spawn_egg": {
+    "en": "Skeleton Warrior Spawn Egg",
+    "zh": "骷髅战士刷怪蛋",
+    "vi": null
+  },
+  "item.mebahelcreaturesdraugr.spawn_egg.skeleton_warrior_head_spawn_egg": {
+    "en": "Skeleton Warrior Head Spawn Egg",
+    "zh": "骷髅战士之首刷怪蛋",
+    "vi": null
+  },
+  "item.mebahelcreaturesdraugr.spawn_egg.draugr_scourge_spawn_egg": {
+    "en": "Draugr Scourge Spawn Egg",
+    "zh": "尸鬼惩罚者刷怪蛋",
+    "vi": null
+  },
+  "item.mebahelcreaturesdraugr.spawn_egg.draugr_wight_spawn_egg": {
+    "en": "Draugr Wight Spawn Egg",
+    "zh": "尸鬼幽灵刷怪蛋",
+    "vi": null
+  },
+  "item.mebahelcreaturesdraugr.spawn_egg.draugr_archer_spawn_egg": {
+    "en": "Draugr Archer Spawn Egg",
+    "zh": "尸鬼弓手刷怪蛋",
+    "vi": null
+  },
+  "item.mebahelcreaturesdraugr.spawn_egg.draugr_spawn_egg": {
+    "en": "Draugr Spawn Egg",
+    "zh": "尸鬼刷怪蛋",
+    "vi": null
+  },
+  "item.mebahelcreaturesdraugr.spawn_egg.draugr_overlord_spawn_egg": {
+    "en": "Draugr Overlord Spawn Egg",
+    "zh": "尸鬼霸主刷怪蛋",
+    "vi": null
+  },
+  "item.mebahelcreaturesdraugr.spawn_egg.infernal_draugr_spawn_egg": {
+    "en": "Infernal Draugr Spawn Egg",
+    "zh": "炼狱尸鬼刷怪蛋",
+    "vi": null
+  },
+  "item.mebahelcreaturesdraugr.spawn_egg.flame_atronach_spawn_egg": {
+    "en": "Flame Atronach Spawn Egg",
+    "zh": "火焰侍灵刷怪蛋",
+    "vi": null
+  },
+  "_comment8": {
+    "en": "=== Advancements ===",
+    "zh": "=== 进度 ===",
+    "vi": null
+  },
+  "advancement.mebahelcreaturesdraugr.root.title": {
+    "en": "Mebahel's Creatures - Draugr",
+    "zh": "Mebahel 的生物 - 尸鬼",
+    "vi": null
+  },
+  "advancement.mebahelcreaturesdraugr.root.description": {
+    "en": "Explore the mysteries of ancient creatures.",
+    "zh": "探索古老生物的神秘世界。",
+    "vi": null
+  },
+  "advancement.mebahelcreaturesdraugr.kill_draugr.title": {
+    "en": "What Woke Them Up ?",
+    "zh": "是什么惊醒了它们？",
+    "vi": null
+  },
+  "advancement.mebahelcreaturesdraugr.kill_draugr.description": {
+    "en": "Kill a Draugr for the first time.",
+    "zh": "首次击杀一个尸鬼。",
+    "vi": null
+  },
+  "advancement.mebahelcreaturesdraugr.kill_draugr_archer.title": {
+    "en": "Sharp Shooter",
+    "zh": "神射手",
+    "vi": null
+  },
+  "advancement.mebahelcreaturesdraugr.kill_draugr_archer.description": {
+    "en": "Kill a Draugr Archer for the first time.",
+    "zh": "首次击杀一个尸鬼弓手。",
+    "vi": null
+  },
+  "advancement.mebahelcreaturesdraugr.kill_draugr_wight.title": {
+    "en": "Frostbite",
+    "zh": "霜噬术",
+    "vi": null
+  },
+  "advancement.mebahelcreaturesdraugr.kill_draugr_wight.description": {
+    "en": "Kill a Draugr Wight for the first time.",
+    "zh": "首次击杀一个尸鬼幽灵。",
+    "vi": null
+  },
+  "advancement.mebahelcreaturesdraugr.kill_draugr_scourge.title": {
+    "en": "Ice and Dice ?",
+    "zh": "冰与骰子？",
+    "vi": null
+  },
+  "advancement.mebahelcreaturesdraugr.kill_draugr_scourge.description": {
+    "en": "Kill a Draugr Scourge for the first time.",
+    "zh": "首次击杀一个尸鬼惩罚者。",
+    "vi": null
+  },
+  "_comment9": {
+    "en": "=== Draugr Raid ===",
+    "zh": "=== 尸鬼袭击 ===",
+    "vi": null
+  },
+  "item.mebahelcreaturesdraugr.filled_draugr_awakening_soul_gem.tooltip1": {
+    "en": "Filled with draugr souls",
+    "zh": "充满了尸鬼的灵魂",
+    "vi": null
+  },
+  "item.mebahelcreaturesdraugr.filled_draugr_awakening_soul_gem.tooltip2": {
+    "en": "Right-click on the surface to awaken an ancient evil.",
+    "zh": "在地表右键以唤醒古老的邪恶。",
+    "vi": null
+  },
+  "item.mebahelcreaturesdraugr.filled_draugr_awakening_soul_gem.msg.surface_required": {
+    "en": "You must be on the surface to use this gem!",
+    "zh": "你必须在地表才能使用这颗宝石！",
+    "vi": null
+  },
+  "item.mebahelcreaturesdraugr.filled_draugr_awakening_soul_gem.msg.awakened": {
+    "en": "You've awoken an ancient evil...",
+    "zh": "你唤醒了古老的邪恶……",
+    "vi": null
+  },
+  "item.mebahelcreaturesdraugr.filled_draugr_awakening_soul_gem.msg.absorbing": {
+    "en": "Absorbing Draugr Souls...",
+    "zh": "正在吸收尸鬼灵魂...",
+    "vi": null
+  },
+  "item.mebahelcreaturesdraugr.filled_draugr_awakening_soul_gem.tooltip.kills": {
+    "en": "Draugr killed : ",
+    "zh": "被击杀的尸鬼数量：",
+    "vi": null
+  },
+  "mebahelcreaturesdraugr.draugr_raid.wave_msg": {
+    "en": "Raid Draugr - Wave %s",
+    "zh": "尸鬼突袭 - 第%s波",
+    "vi": null
+  },
+  "_comment10": {
+    "en": "=== Food ===",
+    "zh": "=== 食物 ===",
+    "vi": null
+  },
+  "item.mebahelcreaturesdraugr.food.magma_soup": {
+    "en": "Magma Soup",
+    "zh": "岩浆汤",
+    "vi": null
+  },
+  "_comment11": {
+    "en": "=== Sound ===",
+    "zh": "=== 声音 ===",
+    "vi": null
+  },
+  "subtitles.mebahelcreaturesdraugr.swing1": {
+    "en": "Weapon swing",
+    "zh": "武器挥动",
+    "vi": null
+  },
+  "subtitles.mebahelcreaturesdraugr.mummy_spawn": {
+    "en": "Draugr spawn",
+    "zh": "尸鬼出现",
+    "vi": null
+  },
+  "subtitles.mebahelcreaturesdraugr.draugr_ambient": {
+    "en": "Draugr groans",
+    "zh": "尸鬼低吼",
+    "vi": null
+  },
+  "subtitles.mebahelcreaturesdraugr.draugr_taunt": {
+    "en": "Draugr taunts",
+    "zh": "尸鬼嘲讽",
+    "vi": null
+  },
+  "subtitles.mebahelcreaturesdraugr.draugr_hurt": {
+    "en": "Draugr hurts",
+    "zh": "尸鬼受伤",
+    "vi": null
+  },
+  "subtitles.mebahelcreaturesdraugr.draugr_death": {
+    "en": "Draugr dies",
+    "zh": "尸鬼死亡",
+    "vi": null
+  },
+  "subtitles.mebahelcreaturesdraugr.draugr_walk": {
+    "en": "Draugr steps",
+    "zh": "尸鬼行走",
+    "vi": null
+  },
+  "subtitles.mebahelcreaturesdraugr.draugr_frost_spell": {
+    "en": "Frost magic casts",
+    "zh": "寒冰魔法释放",
+    "vi": null
+  },
+  "subtitles.mebahelcreaturesdraugr.draugr_ice_spike": {
+    "en": "Ice spike casts",
+    "zh": "冰刺生成",
+    "vi": null
+  },
+  "subtitles.mebahelcreaturesdraugr.winning_raid": {
+    "en": "Winning Raid",
+    "zh": "袭击胜利",
+    "vi": null
+  },
+  "subtitles.mebahelcreaturesdraugr.starting_raid_1": {
+    "en": "Raid begins",
+    "zh": "袭击开始",
+    "vi": null
+  },
+  "subtitles.mebahelcreaturesdraugr.frost_charge": {
+    "en": "Frost energy charges",
+    "zh": "寒冰能量蓄力",
+    "vi": null
+  },
+  "subtitles.mebahelcreaturesdraugr.frost_spike_break": {
+    "en": "Ice shatters",
+    "zh": "冰块破裂",
+    "vi": null
+  },
+  "subtitles.mebahelcreaturesdraugr.frost_spell_3": {
+    "en": "Frost spell releases",
+    "zh": "寒冰魔法释放",
+    "vi": null
+  },
+  "subtitles.mebahelcreaturesdraugr.cracked_ground": {
+    "en": "Ground cracks",
+    "zh": "地面开裂",
+    "vi": null
+  },
+  "subtitles.mebahelcreaturesdraugr.ground_impact": {
+    "en": "Heavy impact",
+    "zh": "重击",
+    "vi": null
+  },
+  "subtitles.mebahelcreaturesdraugr.sword_impact": {
+    "en": "Blade hits",
+    "zh": "剑击命中",
+    "vi": null
+  },
+  "subtitles.mebahelcreaturesdraugr.sword_slash": {
+    "en": "Blade slashes",
+    "zh": "剑刃挥砍",
+    "vi": null
+  },
+  "subtitles.mebahelcreaturesdraugr.sword_slash_ring": {
+    "en": "Blade rings",
+    "zh": "剑刃震响",
+    "vi": null
+  },
+  "subtitles.mebahelcreaturesdraugr.sword_block": {
+    "en": "Weapon blocks",
+    "zh": "格挡",
+    "vi": null
+  },
+  "subtitles.mebahelcreaturesdraugr.flame_atronach_attack": {
+    "en": "Flame Atronach attacks",
+    "zh": "火焰侍灵攻击",
+    "vi": null
+  },
+  "subtitles.mebahelcreaturesdraugr.flame_atronach_injured": {
+    "en": "Flame Atronach hurt",
+    "zh": "火焰侍灵受伤",
+    "vi": null
+  },
+  "subtitles.mebahelcreaturesdraugr.flame_atronach_idle": {
+    "en": "Flame crackles",
+    "zh": "火焰噼啪作响",
+    "vi": null
+  },
+  "subtitles.mebahelcreaturesdraugr.flame_atronach_death": {
+    "en": "Flame Atronach dies",
+    "zh": "火焰侍灵死亡",
+    "vi": null
+  },
+  "subtitles.mebahelcreaturesdraugr.flame_atronach_walk": {
+    "en": "Flames flicker",
+    "zh": "火焰摇曳",
+    "vi": null
+  },
+  "subtitles.mebahelcreaturesdraugr.flame_atronach_summon": {
+    "en": "Atronach summoned",
+    "zh": "召唤火焰侍灵",
+    "vi": null
+  },
+  "subtitles.mebahelcreaturesdraugr.flame_atronach_summon_charge": {
+    "en": "Summoning energy builds",
+    "zh": "召唤蓄力",
+    "vi": null
+  },
+  "subtitles.mebahelcreaturesdraugr.flame_atronach_summon_charged": {
+    "en": "Summoning completes",
+    "zh": "召唤完成",
+    "vi": null
+  },
+  "subtitles.mebahelcreaturesdraugr.firebolt_fire": {
+    "en": "Firebolt launches",
+    "zh": "火焰弹发射",
+    "vi": null
+  },
+  "subtitles.mebahelcreaturesdraugr.firebolt_impact": {
+    "en": "Firebolt impacts",
+    "zh": "火焰弹命中",
+    "vi": null
+  },
+  "subtitles.mebahelcreaturesdraugr.ruin_puzzle_claw_turn": {
+    "en": "Claw mechanism turns",
+    "zh": "金爪机关转动",
+    "vi": null
+  },
+  "subtitles.mebahelcreaturesdraugr.ambient_crumble_1": {
+    "en": "Debris crumbles",
+    "zh": "碎石坠落",
+    "vi": null
+  },
+  "subtitles.mebahelcreaturesdraugr.ambient_crumble_2": {
+    "en": "Debris crumbles",
+    "zh": "碎石坠落",
+    "vi": null
+  },
+  "subtitles.mebahelcreaturesdraugr.ambient_crumble_3": {
+    "en": "Debris crumbles",
+    "zh": "碎石坠落",
+    "vi": null
+  },
+  "subtitles.mebahelcreaturesdraugr.ambient_crumble_4": {
+    "en": "Debris crumbles",
+    "zh": "碎石坠落",
+    "vi": null
+  },
+  "subtitles.mebahelcreaturesdraugr.ambient_spooky_1": {
+    "en": "Eerie ambience",
+    "zh": "阴森回响",
+    "vi": null
+  },
+  "subtitles.mebahelcreaturesdraugr.ambient_spooky_2": {
+    "en": "Eerie ambience",
+    "zh": "阴森回响",
+    "vi": null
+  },
+  "subtitles.mebahelcreaturesdraugr.ambient_spooky_3": {
+    "en": "Eerie ambience",
+    "zh": "阴森回响",
+    "vi": null
+  },
+  "subtitles.mebahelcreaturesdraugr.ambient_wind_1": {
+    "en": "Wind howls",
+    "zh": "狂风呼啸",
+    "vi": null
+  },
+  "subtitles.mebahelcreaturesdraugr.ambient_wind_2": {
+    "en": "Wind howls",
+    "zh": "狂风呼啸",
+    "vi": null
+  },
+  "subtitles.mebahelcreaturesdraugr.ambient_wind_3": {
+    "en": "Wind howls",
+    "zh": "狂风呼啸",
+    "vi": null
+  },
+  "subtitles.mebahelcreaturesdraugr.skeleton_warrior_ambient_1": {
+    "en": "Skeleton rattles",
+    "zh": "骷髅咔嗒作响",
+    "vi": null
+  },
+  "subtitles.mebahelcreaturesdraugr.skeleton_warrior_ambient_2": {
+    "en": "Skeleton rattles",
+    "zh": "骷髅咔嗒作响",
+    "vi": null
+  },
+  "subtitles.mebahelcreaturesdraugr.skeleton_warrior_death_1": {
+    "en": "Skeleton collapses",
+    "zh": "骷髅散架",
+    "vi": null
+  },
+  "subtitles.mebahelcreaturesdraugr.skeleton_warrior_death_2": {
+    "en": "Skeleton collapses",
+    "zh": "骷髅散架",
+    "vi": null
+  },
+  "subtitles.mebahelcreaturesdraugr.skeleton_warrior_hurt_2": {
+    "en": "Skeleton hurts",
+    "zh": "骷髅受伤",
+    "vi": null
+  },
+  "subtitles.mebahelcreaturesdraugr.skeleton_warrior_hurt_3": {
+    "en": "Skeleton hurts",
+    "zh": "骷髅受伤",
+    "vi": null
+  },
+  "subtitles.mebahelcreaturesdraugr.skeleton_warrior_walk_1": {
+    "en": "Bones clatter",
+    "zh": "骨骼碰撞",
+    "vi": null
+  },
+  "_comment12": {
+    "en": "=== Damage Type ===",
+    "zh": "=== 伤害类型 ===",
+    "vi": null
+  },
+  "death.attack.mebahel_draugr_fire": {
+    "en": "%1$s was consumed by fire magic",
+    "zh": "%1$s 被火焰魔法吞噬了",
+    "vi": null
+  },
+  "death.attack.mebahel_draugr_fire.player": {
+    "en": "%1$s was consumed by fire magic while fighting %2$s",
+    "zh": "%1$s 在与 %2$s 战斗时被火焰魔法吞噬了",
+    "vi": null
+  },
+  "death.attack.mebahel_draugr_frost": {
+    "en": "%1$s was frozen by frost magic",
+    "zh": "%1$s 被寒霜魔法冻结了",
+    "vi": null
+  },
+  "death.attack.mebahel_draugr_frost.player": {
+    "en": "%1$s was frozen by frost magic while fighting %2$s",
+    "zh": "%1$s 在与 %2$s 战斗时被寒霜魔法冻结了",
+    "vi": null
+  },
+  "_comment13": {
+    "en": "=== Enchantment ===",
+    "zh": "=== 附魔 ===",
+    "vi": null
+  },
+  "enchantment.mebahelcreaturesdraugr.soul_gem_spell_power": {
+    "en": "Soul Gem Spell Power",
+    "zh": "灵魂石法术威力",
+    "vi": null
+  },
+  "enchantment.mebahelcreaturesdraugr.soul_gem_quick_cast": {
+    "en": "Soul Gem Quick Cast",
+    "zh": "灵魂石快速施法",
+    "vi": null
+  },
+  "enchantment.mebahelcreaturesdraugr.soul_gem_multishot": {
+    "en": "Soul Gem Multishot",
+    "zh": "灵魂石多重射击",
+    "vi": null
+  },
+  "tooltip.mebahelcreaturesdraugr.sublime_soul_gem_bonus": {
+    "en": "Spells cast with this soul gem are 50% stronger",
+    "zh": "使用此灵魂石释放的法术威力提升50%",
+    "vi": null
+  },
+  "block.mebahel.spellcaster_trap": {
+    "en": "Spellcaster Trap",
+    "zh": "施法陷阱",
+    "vi": null
+  },
+  "message.mebahel.spell_trap.crystal_broken": {
+    "en": "The crystal is shattered. The trap is disabled.",
+    "zh": "水晶已破碎，陷阱已失效。",
+    "vi": null
+  },
+  "message.mebahel.spell_trap.no_inventory": {
+    "en": "The trap hums with magical energy.",
+    "zh": "陷阱散发着魔法能量。",
+    "vi": null
+  },
+  "message.mebahel.spell_trap.has_inventory": {
+    "en": "This trap uses a soul gem slot.",
+    "zh": "该陷阱使用一个灵魂石槽位。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_1_5_watch_against_the_dead.title": {
+    "en": "A Watch Against the Dead",
+    "zh": "警惕死者",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_1_5_watch_against_the_dead.summary": {
+    "en": "The tower has gone silent, but the village is still exposed. Help build a small watchtower before the dead come looking for the horn you silenced.",
+    "zh": "塔楼已经寂静无声，但村庄仍然暴露在外。在死者前来寻找你熄灭的号角之前，帮助建造一座小瞭望塔。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_1_5_watch_against_the_dead.dialogue.intro": {
+    "en": "The elder is waiting near the edge of the village, staring at the road that leads back to the tower.",
+    "zh": "长老正在村子边缘等待，盯着通往塔楼的道路。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_1_5_watch_against_the_dead.dialogue.offer.0.0": {
+    "en": "The tower is silent now.",
+    "zh": "塔楼现在一片寂静。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_1_5_watch_against_the_dead.dialogue.offer.0.1": {
+    "en": "Silent, yes. Safe, no. If the dead heard that horn once, they may come looking for the hand that stopped it.",
+    "zh": "沉默，是的。安全，不。如果死者曾经听到过那个号角，他们可能会来寻找阻止它的手。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_1_5_watch_against_the_dead.dialogue.offer.1.0": {
+    "en": "You think they will attack the village?",
+    "zh": "你认为他们会攻击村庄？",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_1_5_watch_against_the_dead.dialogue.offer.1.1": {
+    "en": "I think the dead do not forgive interruption. They were being called to something, and you broke the first call.",
+    "zh": "我认为死者不会原谅打扰。他们被叫去做某件事，而你却挂断了第一个电话。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_1_5_watch_against_the_dead.dialogue.offer.2.0": {
+    "en": "What do you want me to do?",
+    "zh": "你想让我做什么？",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_1_5_watch_against_the_dead.dialogue.offer.2.1": {
+    "en": "Help us raise a watchtower. Stone for the base, timber for the frame, fences for the top, and a lantern high enough for every frightened soul to see.",
+    "zh": "帮助我们建立一座瞭望塔。石头做底座，木材做框架，栅栏做顶部，还有一盏足够高的灯笼，让每个受惊的灵魂都能看到。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_1_5_watch_against_the_dead.dialogue.offer.3.0": {
+    "en": "You want me to build it?",
+    "zh": "你想让我建造它吗？",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_1_5_watch_against_the_dead.dialogue.offer.3.1": {
+    "en": "The guards are afraid, and the masons are pretending not to hear me. But if you build it, they may remember they have spines.",
+    "zh": "守卫很害怕，石匠们假装没有听到我的声音。但如果你建造它，他们可能会记得他们有刺。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_1_5_watch_against_the_dead.dialogue.return": {
+    "en": "The watchtower still stands. I heard the bell, then the arrows, then the dead at the gates. Tell me the silence afterward was yours.",
+    "zh": "瞭望塔依然矗立。我听到钟声，然后是箭声，然后是门口的死者。告诉我之后的沉默是你的。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_1_5_watch_against_the_dead.dialogue.return_steps.0.0": {
+    "en": "The dead came for the village.",
+    "zh": "死者来到了村庄。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_1_5_watch_against_the_dead.dialogue.return_steps.0.1": {
+    "en": "Then the horn was not alone. Something heard it. Something sent them to test us.",
+    "zh": "那么喇叭并不孤单。有什么东西听到了。有什么东西派他们来考验我们。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_1_5_watch_against_the_dead.dialogue.return_steps.1.0": {
+    "en": "The watchtower held.",
+    "zh": "了望塔。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_1_5_watch_against_the_dead.dialogue.return_steps.1.1": {
+    "en": "Because you built it, and because you stood there when others would have hidden behind doors.",
+    "zh": "因为它是你建造的，因为当其他人躲在门后时你站在那里。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_1_5_watch_against_the_dead.dialogue.return_steps.2.0": {
+    "en": "They had archers.",
+    "zh": "他们有弓箭手。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_1_5_watch_against_the_dead.dialogue.return_steps.2.1": {
+    "en": "Archers? Then these were no wandering corpses. Someone is arranging the dead like soldiers.",
+    "zh": "弓箭手？那么这些就不是流浪尸了。有人像士兵一样整理死者。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_1_5_watch_against_the_dead.dialogue.return_steps.3.0": {
+    "en": "What now?",
+    "zh": "现在怎么办？",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_1_5_watch_against_the_dead.dialogue.return_steps.3.1": {
+    "en": "Now we stop guessing. The tablet named soldiers, but not the king. We need the one who carved that name away.",
+    "zh": "现在我们停止猜测。牌匾上写着士兵，但没有写着国王。我们需要那个刻下这个名字的人。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_1_5_watch_against_the_dead.dialogue.reward": {
+    "en": "Take this. The village has a watchtower now, but I fear we have only lit a candle in front of a tomb.",
+    "zh": "拿着这个。村子里现在有了瞭望塔，但恐怕我们只在坟墓前点燃了一根蜡烛。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_1_5_watch_against_the_dead.dialogue.done": {
+    "en": "The watchtower still burns at night. Some sleep easier for it. I do not.",
+    "zh": "了望塔在夜间仍在燃烧。有些人因此睡得更容易。我不知道。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_1_5_watch_against_the_dead.threats.0.name": {
+    "en": "Horn-Drawn Draugr",
+    "zh": "喇叭 尸鬼",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_1_5_watch_against_the_dead.threats.0.target_line": {
+    "en": "A draugr staggers from the darkness, drawn toward the new watchlight.",
+    "zh": "尸鬼 从黑暗中摇摇晃晃地走出来，被新的监视灯吸引。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_1_5_watch_against_the_dead.threats.1.name": {
+    "en": "Road-Woken Draugr",
+    "zh": "公路觉醒 尸鬼",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_1_5_watch_against_the_dead.threats.1.target_line": {
+    "en": "Another dead warrior answers the broken horn's memory.",
+    "zh": "另一名死去的战士回答了破碎号角的记忆。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_1_5_watch_against_the_dead.threats.2.name": {
+    "en": "Frost-Mouthed Draugr",
+    "zh": "霜口尸鬼",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_1_5_watch_against_the_dead.threats.2.target_line": {
+    "en": "A third corpse comes through the dark, frost spilling from its jaw.",
+    "zh": "第三具尸体穿过黑暗，冰霜从它的下巴溢出。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_1_5_watch_against_the_dead.threats.3.name": {
+    "en": "Gate-Scraping Draugr",
+    "zh": "浇口刮削 尸鬼",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_1_5_watch_against_the_dead.threats.3.target_line": {
+    "en": "A heavier draugr lumbers toward the village gate, dragging its axe across the ground.",
+    "zh": "一辆较重的 尸鬼 拖着斧头缓慢地朝村门走去。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_1_5_watch_against_the_dead.threats.4.name": {
+    "en": "Barrow Archer",
+    "zh": "巴罗弓箭手",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_1_5_watch_against_the_dead.threats.4.target_line": {
+    "en": "A draugr archer appears beyond the torchlight, bow already drawn toward the watchtower.",
+    "zh": "一名 尸鬼 弓箭手出现在火炬光之外，弓箭已拉向了望塔。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_1_5_watch_against_the_dead.threats.5.name": {
+    "en": "Frost-Eyed Archer",
+    "zh": "霜眼弓箭手",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_1_5_watch_against_the_dead.threats.5.target_line": {
+    "en": "A second archer takes position farther out, using the dark between houses as cover.",
+    "zh": "第二名弓箭手位于更远的位置，利用房屋之间的黑暗作为掩护。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_1_whispers_below.title": {
+    "en": "Whispers Below",
+    "zh": "下方窃窃私语",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_1_whispers_below.summary": {
+    "en": "I need someone brave enough to go to the old Draugr Tower. Something inside it has started calling to the dead, and if that call spreads, this village will not survive the next night.",
+    "zh": "我需要一个足够勇敢的人去旧的 尸鬼塔。它里面有什么东西开始呼唤死者，如果这种呼唤蔓延开来，这个村庄将无法在第二天晚上生存。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_1_whispers_below.dialogue.intro": {
+    "en": "Come closer. I would rather not say this where every frightened ear in the village can hear me.",
+    "zh": "靠近点。我不想在村子里每个受惊的耳朵都能听到我的声音的地方说这些。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_1_whispers_below.dialogue.offer.0.0": {
+    "en": "What happened?",
+    "zh": "发生了什么？",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_1_whispers_below.dialogue.offer.0.1": {
+    "en": "The old Draugr Tower has started making sounds again. Not wind. Not stone settling. A horn, deep under the earth.",
+    "zh": "旧的 尸鬼塔 又开始发出声音。不是风。不是石头沉降。一只角，在地底深处。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_1_whispers_below.dialogue.offer.1.0": {
+    "en": "A horn?",
+    "zh": "喇叭？",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_1_whispers_below.dialogue.offer.1.1": {
+    "en": "Aye. And after it sounds, something answers from below. The dead are not wandering anymore. They are listening.",
+    "zh": "是的。声音响起后，下面传来了回应。死者不再流浪。他们在听。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_1_whispers_below.dialogue.offer.2.0": {
+    "en": "Why has no one gone there?",
+    "zh": "为什么没人去那里？",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_1_whispers_below.dialogue.offer.2.1": {
+    "en": "Because the last guard who reached the tower came back without his shield, without his sword, and without a single word left in him.",
+    "zh": "因为最后一个到达塔楼的守卫回来时没有带盾牌，没有带剑，也没有留下任何一句话。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_1_whispers_below.dialogue.offer.3.0": {
+    "en": "What do you want me to do?",
+    "zh": "你想让我做什么？",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_1_whispers_below.dialogue.offer.3.1": {
+    "en": "Go to the tower first. See if the old stories are true. If something inside is waking the draugr, break it before the call spreads.",
+    "zh": "先去塔楼。看看那些古老的故事是否属实。如果内部有东西正在唤醒 尸鬼，请在呼叫传播之前将其打破。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_1_whispers_below.dialogue.return": {
+    "en": "You are back. Tell me quickly. Does the tower still call to the dead?",
+    "zh": "你回来了。快点告诉我吧。这座塔还会召唤死者吗？",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_1_whispers_below.dialogue.return_steps.0.0": {
+    "en": "The tower is silent.",
+    "zh": "塔楼一片寂静。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_1_whispers_below.dialogue.return_steps.0.1": {
+    "en": "Then you have done more than clear old stone. You have stopped the first horn before the rest could answer.",
+    "zh": "那么你所做的不仅仅是清除旧石头。在其他人回答之前，你已经停止了第一个喇叭。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_1_whispers_below.dialogue.return_steps.1.0": {
+    "en": "There was a spawner inside.",
+    "zh": "里面有一个刷怪笼。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_1_whispers_below.dialogue.return_steps.1.1": {
+    "en": "A cursed anchor, then. The dead were being gathered, not merely awakened.",
+    "zh": "一个被诅咒的锚。死者正在被聚集，而不仅仅是被唤醒。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_1_whispers_below.dialogue.return_steps.2.0": {
+    "en": "You think there are more?",
+    "zh": "你认为还有更多吗？",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_1_whispers_below.dialogue.return_steps.2.1": {
+    "en": "I fear it. Towers do not wake alone. Somewhere beneath the hills, something older is giving orders.",
+    "zh": "我害怕它。塔楼不会单独醒来。山脚下的某个地方，某个更古老的东西正在发号施令。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_1_whispers_below.dialogue.return_steps.3.0": {
+    "en": "What kind of orders?",
+    "zh": "什么样的订单？",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_1_whispers_below.dialogue.return_steps.3.1": {
+    "en": "The kind only the buried obey. The kind carved into tomb walls and sealed behind claw-locked doors.",
+    "zh": "这种只有被埋葬的人才会服从。那种刻在墓墙上并密封在爪锁门后的东西。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_1_whispers_below.dialogue.reward": {
+    "en": "Take this. You bought us time, but I fear the tower was only the first stone to stir.",
+    "zh": "拿着这个。你为我们赢得了时间，但我担心这座塔只是第一块被搅动的石头。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_1_whispers_below.dialogue.done": {
+    "en": "The tower is silent now, but I still do not trust the quiet.",
+    "zh": "塔现在很安静，但我仍然不相信安静。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_2_name_of_the_dead_king.title": {
+    "en": "The Name of the Dead King",
+    "zh": "死去国王的名字",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_2_name_of_the_dead_king.summary": {
+    "en": "The tablet you found names every buried warrior except one. I need you to find the dead scribe who erased that name and decide whether his silence deserves death or mercy.",
+    "zh": "你发现的石板列出了除一名之外所有被埋葬的战士的名字。我需要你找到那个抹掉这个名字的死去的抄写员，并决定他的沉默是否值得死亡或怜悯。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_2_name_of_the_dead_king.dialogue.intro": {
+    "en": "The elder has not slept. The cracked tablet lies before him, covered in candle wax and shaking shadows.",
+    "zh": "长老还没睡。破裂的石板躺在他面前，上面覆盖着烛蜡和晃动的阴影。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_2_name_of_the_dead_king.dialogue.offer.0.0": {
+    "en": "What did the tablet say?",
+    "zh": "平板电脑说了什么？",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_2_name_of_the_dead_king.dialogue.offer.0.1": {
+    "en": "It was a burial record. Names of warriors, oathmen, shield-brothers... all bound to one king.",
+    "zh": "这是一份埋葬记录。战士、誓言者、盾牌兄弟的名字……都与一位国王息息相关。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_2_name_of_the_dead_king.dialogue.offer.1.0": {
+    "en": "One king?",
+    "zh": "一位国王？",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_2_name_of_the_dead_king.dialogue.offer.1.1": {
+    "en": "That is the trouble. His title remains, but his name was carved out. Someone wanted him forgotten.",
+    "zh": "这就是麻烦所在。他的头衔仍然存在，但他的名字被刻了下来。有人希望他被遗忘。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_2_name_of_the_dead_king.dialogue.offer.2.0": {
+    "en": "Who erased it?",
+    "zh": "谁删除了它？",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_2_name_of_the_dead_king.dialogue.offer.2.1": {
+    "en": "A death-scribe. A draugr priest trained to bind names to tombs and oaths to bones.",
+    "zh": "A 亡者书记官。一名 尸鬼 牧师接受过将名字与坟墓绑定、将誓言与骨头绑定的训练。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_2_name_of_the_dead_king.dialogue.offer.3.0": {
+    "en": "And you think he still exists?",
+    "zh": "你认为他还存在吗？",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_2_name_of_the_dead_king.dialogue.offer.3.1": {
+    "en": "I think the dead do not forget their duties. Find him in the crypt, and make him speak. But listen carefully before you decide what he deserves.",
+    "zh": "我认为死者不会忘记他们的职责。在地窖里找到他，让他说话。但在决定他应得的待遇之前，请仔细聆听。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_2_name_of_the_dead_king.dialogue.return": {
+    "en": "You have returned. Tell me what happened in the crypt.",
+    "zh": "您已返回。告诉我在地窖里发生了什么。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_2_name_of_the_dead_king.dialogue.return_steps.0.0": {
+    "en": "The king's name was Kjorvund Black-Crowned.",
+    "zh": "国王的名字是 黑冠科乔文德。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_2_name_of_the_dead_king.dialogue.return_steps.0.1": {
+    "en": "Then the old fear has a name again. I had hoped never to hear it spoken aloud.",
+    "zh": "那么，旧的恐惧又有了名字。我曾希望永远不会听到有人大声说出这句话。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_2_name_of_the_dead_king.dialogue.return_steps.1.0": {
+    "en": "Vahruk erased the name to weaken him.",
+    "zh": "瓦鲁克删除了这个名字以削弱他的力量。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_2_name_of_the_dead_king.dialogue.return_steps.1.1": {
+    "en": "A death-scribe who betrayed his king to save the living... that is not the tale I expected.",
+    "zh": "一个 亡者书记官 背叛了他的国王以拯救生者……这不是我所期望的故事。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_2_name_of_the_dead_king.dialogue.return_steps.2.0": {
+    "en": "He said the Bastion guards an Oath-Seal.",
+    "zh": "他说 堡垒 守卫着 誓约之印。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_2_name_of_the_dead_king.dialogue.return_steps.2.1": {
+    "en": "Then the seal is the true command. Not a relic. Not treasure. A voice waiting for a dead army.",
+    "zh": "那么封印就是真正的命令。不是遗迹。不是宝物。一个等待死去的军队的声音。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_2_name_of_the_dead_king.dialogue.return_steps.3.0": {
+    "en": "What if I killed him?",
+    "zh": "如果我杀了他怎么办？",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_2_name_of_the_dead_king.dialogue.return_steps.3.1": {
+    "en": "Then we go forward with blood on the answer. It may be necessary. It may also be exactly what the dead king wanted.",
+    "zh": "然后我们带着血的答案继续前行。也许有必要。这也可能正是死去的国王想要的。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_2_name_of_the_dead_king.dialogue.reward": {
+    "en": "Whether you judged him or spared him, the path now leads to the Bastion. Find the seal before Kjorvund's army remembers how to march.",
+    "zh": "无论你审判他还是饶恕他，这条路现在通向 堡垒。在科尔文德的军队记住如何行军之前找到封印。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_2_name_of_the_dead_king.dialogue.done": {
+    "en": "The death-scribe has spoken. I still cannot decide whether he was a monster, a coward, or the only reason we are alive.",
+    "zh": "亡者书记官 已发言。我仍然无法确定他是怪物、胆小鬼，还是我们活着的唯一理由。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_2_name_of_the_dead_king.threat.name": {
+    "en": "Vahruk the Name-Eater",
+    "zh": "噬名者瓦鲁克",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_2_name_of_the_dead_king.threat.offer_line": {
+    "en": "The death-scribe has risen inside the old crypt. He carries the name that was cut from the tablet.",
+    "zh": "亡者书记官 已在旧地窖内升起。他的名字是从石碑上剪下来的。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_2_name_of_the_dead_king.threat.target_line": {
+    "en": "The draugr wight turns slowly. Its jaw opens with the sound of stone dragged across stone.",
+    "zh": "尸鬼幽灵 缓慢转动。它的下巴张开，发出石头拖过石头的声音。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_2_name_of_the_dead_king.threat.attack_choice_label": {
+    "en": "A traitor and a monster are still both dead.",
+    "zh": "叛徒和怪物仍然都死了。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_2_name_of_the_dead_king.threat.spare_choice_label": {
+    "en": "You betrayed him to save the living. That is enough.",
+    "zh": "你为了拯救生者而背叛了他。这就够了。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_2_name_of_the_dead_king.threat.attack_return_line": {
+    "en": "Vahruk raises his blade. The crypt answers with the scrape of waking bones. If you want the king's name, you will take it through blood.",
+    "zh": "瓦鲁克举起了他的剑。地窖以苏醒的骨头的刮擦声回应。如果你想要国王的名字，你就必须通过血来获得它。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_2_name_of_the_dead_king.threat.spared_line": {
+    "en": "You lower your weapon. Vahruk stares at you as if mercy is more painful than steel.",
+    "zh": "你放下武器。瓦鲁克盯着你，仿佛怜悯比钢铁更痛苦。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_2_name_of_the_dead_king.threat.post_spare_line": {
+    "en": "Then hear the rest. The Bastion does not guard treasure. It guards the Oath-Seal. Take it, and the king's command breaks. Take it wrongly, and every buried throat will answer.",
+    "zh": "然后听剩下的。 堡垒 不守护宝藏。它保护 誓约之印。拿下它，国王的命令就失效了。如果理解错误，每一个埋着喉咙的人都会回答。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_2_name_of_the_dead_king.threat.villager_spared_line": {
+    "en": "You spared the death-scribe? Then the story is worse than I feared. If he betrayed his own king to save the living, perhaps the dead have carried more truth than we did.",
+    "zh": "你放过了 亡者书记官？然后故事比我担心的更糟糕。如果他为了拯救生者而背叛了自己的国王，也许死者比我们承载了更多的真理。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_2_name_of_the_dead_king.threat.attack_ambush_name": {
+    "en": "Oathbound Draugr",
+    "zh": "誓约尸鬼",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_2_name_of_the_dead_king.threat.talk.0.0": {
+    "en": "Are you Vahruk?",
+    "zh": "你是瓦鲁克吗？",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_2_name_of_the_dead_king.threat.talk.0.1": {
+    "en": "Vahruk was the hand. The chisel. The silence. I carved the king from memory.",
+    "zh": "Vahruk 是手。凿子。沉默。我凭记忆雕刻了国王。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_2_name_of_the_dead_king.threat.talk.1.0": {
+    "en": "What king?",
+    "zh": "什么国王？",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_2_name_of_the_dead_king.threat.talk.1.1": {
+    "en": "The black-crowned one. The oath-bound one. The one whose army still waits beneath the frost.",
+    "zh": "黑冠的。受誓言约束的人。其军队仍在冰霜下等待的人。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_2_name_of_the_dead_king.threat.talk.2.0": {
+    "en": "Say his name.",
+    "zh": "说出他的名字。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_2_name_of_the_dead_king.threat.talk.2.1": {
+    "en": "Kjorvund Black-Crowned. King of the sealed host. Break his oath, or kneel when he rises.",
+    "zh": "黑冠科乔文德。封印宿主之王。违背他的誓言，或者在他起身时跪下。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_2_name_of_the_dead_king.threat.talk.3.0": {
+    "en": "Why erase his name?",
+    "zh": "为什么要删除他的名字？",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_2_name_of_the_dead_king.threat.talk.3.1": {
+    "en": "Because I was ordered to preserve him. So I betrayed him instead. A king without a name cannot command. A dead army without command can only dream.",
+    "zh": "因为我奉命保护他。所以我反而背叛了他。没有名字的国王无法指挥。没有指挥的死军只能是梦想。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_2_name_of_the_dead_king.threat.talk.4.0": {
+    "en": "You erased him to stop him?",
+    "zh": "你抹掉他是为了阻止他？",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_2_name_of_the_dead_king.threat.talk.4.1": {
+    "en": "I damned myself to weaken him. Every age calls me traitor. Every corpse calls me coward. Yet the world still breathes because I carved one name away.",
+    "zh": "我诅咒自己削弱了他。每个时代都称我为叛徒。每具尸体都称我为胆小鬼。然而世界仍在呼吸，因为我刻下了一个名字。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_3_the_bastion_oath_blood.title": {
+    "en": "The Bastion Oath",
+    "zh": "堡垒 誓言",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_3_the_bastion_oath_blood.summary": {
+    "en": "Vahruk is dead, and whatever truth he carried was torn from him by force. Now the Bastion waits, already warned by blood. Find the oath-seal, take it, and survive whatever answers.",
+    "zh": "瓦鲁克死了，他所携带的一切真理都被武力从他身上夺走了。现在堡垒已经在等待，已经用鲜血警告了。找到 誓约之印，拿走它，无论答案是什么，都能生存下来。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_3_the_bastion_oath_blood.dialogue.intro": {
+    "en": "The elder watches the blood dry on the cracked tablet. Whatever Vahruk knew, you took the king's name from him with steel.",
+    "zh": "长老看着破裂的石碑上的血迹干涸。无论瓦鲁克知道什么，你都用钢铁从他手中夺走了国王的名字。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_3_the_bastion_oath_blood.dialogue.offer.0.0": {
+    "en": "Vahruk gave me the name before he died.",
+    "zh": "Vahruk 在他去世前给了我这个名字。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_3_the_bastion_oath_blood.dialogue.offer.0.1": {
+    "en": "Then we know enough to be afraid. Kjorvund Black-Crowned was not merely buried. He was contained.",
+    "zh": "那么我们就知道足够害怕了。 黑冠科乔文德 不仅仅被埋葬了。他被控制住了。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_3_the_bastion_oath_blood.dialogue.offer.1.0": {
+    "en": "He chose to fight.",
+    "zh": "他选择了战斗。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_3_the_bastion_oath_blood.dialogue.offer.1.1": {
+    "en": "Perhaps. Or perhaps the dead king wanted him silenced before he could say more.",
+    "zh": "也许吧。或者也许死去的国王希望他在能说更多之前就闭嘴。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_3_the_bastion_oath_blood.dialogue.offer.2.0": {
+    "en": "You think killing him was a mistake?",
+    "zh": "你认为杀了他是一个错误？",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_3_the_bastion_oath_blood.dialogue.offer.2.1": {
+    "en": "I think some truths bleed when cut. Now we go to the Bastion with only half the warning.",
+    "zh": "我认为有些真理一旦被切割就会流血。现在我们进入 堡垒，只有一半的警告。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_3_the_bastion_oath_blood.dialogue.offer.3.0": {
+    "en": "Then what do I do?",
+    "zh": "那我该怎么办？",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_3_the_bastion_oath_blood.dialogue.offer.3.1": {
+    "en": "Find the oath-seal and take it. If the dead rise to stop you, cut through them before the Bastion wakes fully.",
+    "zh": "找到 誓约之印 并拿走它。如果死者崛起来阻止你，请在 堡垒 完全苏醒之前将其斩断。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_3_the_bastion_oath_blood.dialogue.return": {
+    "en": "You have it? The seal... and by your wounds, the Bastion did not let you take it quietly.",
+    "zh": "你有吗？封印……还有你的伤，堡垒并没有让你安静地承受。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_3_the_bastion_oath_blood.dialogue.return_steps.0.0": {
+    "en": "The dead rose the moment I took it.",
+    "zh": "当我接过它的那一刻，死者就复活了。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_3_the_bastion_oath_blood.dialogue.return_steps.0.1": {
+    "en": "Then Vahruk's death warned them. The Bastion knew you were coming before your hand touched the seal.",
+    "zh": "然后瓦鲁克的死向他们发出了警告。在您的手触及密封件之前，堡垒 就知道您要来。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_3_the_bastion_oath_blood.dialogue.return_steps.1.0": {
+    "en": "Hroldan rose with fire in his armor.",
+    "zh": "赫罗丹的盔甲中燃烧着火焰。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_3_the_bastion_oath_blood.dialogue.return_steps.1.1": {
+    "en": "Kjorvund's inner guard. The old songs said they burned beneath their burial plates. I had hoped the songs lied.",
+    "zh": "Kjorvund 的内卫。古老的歌曲说他们在墓盘下被烧毁。我本来希望这些歌是撒谎的。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grey_banner_3_the_wall_answered_truth.dialogue.offer.2.0": {
+    "en": "And now?",
+    "zh": "那么现在呢？",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grey_banner_3_the_wall_answered_truth.dialogue.offer.2.1": {
+    "en": "Now they are closer.",
+    "zh": "现在他们更近了。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grey_banner_3_the_wall_answered_truth.dialogue.return": {
+    "en": "The dead are gone. The gate still stands. No one is cheering.",
+    "zh": "死者已然消失。城门依然矗立。没有人欢呼。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grey_banner_3_the_wall_answered_truth.dialogue.return_steps.0.0": {
+    "en": "They came because of the truth.",
+    "zh": "他们因真理而来。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grey_banner_3_the_wall_answered_truth.dialogue.return_steps.0.1": {
+    "en": "No. They came because the truth was left too long in the dark.",
+    "zh": "不。他们来是因为真相被蒙在鼓里太久了。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grey_banner_3_the_wall_answered_truth.dialogue.return_steps.1.0": {
+    "en": "Will the village admit what happened?",
+    "zh": "村里会承认发生的事情吗？",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grey_banner_3_the_wall_answered_truth.dialogue.return_steps.1.1": {
+    "en": "Not today. Maybe not this generation. But children ask why banners fly. That is enough.",
+    "zh": "今天不行。也许不是这一代。但孩子们问为什么横幅会飘扬。这就够了。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grey_banner_3_the_wall_answered_truth.dialogue.reward": {
+    "en": "The village lost its clean story, but kept its walls. That is more mercy than it gave Harvald.",
+    "zh": "村庄失去了干净的故事，但保留了城墙。这比给予哈佛的仁慈还要多。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grey_banner_3_the_wall_answered_truth.dialogue.done": {
+    "en": "The grey banner still flies. Some spit when they pass it. Some bow.",
+    "zh": "灰旗 仍在飞行。有些人经过时会吐口水。有些鞠躬。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grey_banner_3_the_wall_answered_truth.threats.0.name": {
+    "en": "Wall-Called Draugr",
+    "zh": "壁挂 尸鬼",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grey_banner_3_the_wall_answered_truth.threats.1.name": {
+    "en": "Gate-Forsaken Draugr",
+    "zh": "被遗忘之门 尸鬼",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grey_banner_3_the_wall_answered_truth.threats.2.name": {
+    "en": "Grey Banner Dead",
+    "zh": "灰旗 死了",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grey_banner_3_the_wall_answered_truth.threats.3.name": {
+    "en": "Mud-Wall Draugr",
+    "zh": "泥墙 尸鬼",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grey_banner_3_the_wall_answered_truth.threats.4.name": {
+    "en": "The Last Man on the Wall",
+    "zh": "墙上的最后一个人",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.saint_of_rot_1_ash_for_the_living.title": {
+    "en": "Ash for the Living",
+    "zh": "生者骨灰",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.saint_of_rot_1_ash_for_the_living.summary": {
+    "en": "Do not call it cursed before you have watched fever take a child by inches. If there is ash left in that ruined church, bring it to me.",
+    "zh": "在你亲眼目睹发烧把孩子带走之前，不要说这是诅咒。如果那座被毁的教堂里还有灰烬，就把它带给我。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.saint_of_rot_1_ash_for_the_living.dialogue.intro": {
+    "en": "The healer keeps her hands folded, but grey dust has settled beneath her nails.",
+    "zh": "治疗师双手合十，但指甲下已经落下了灰色的灰尘。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.saint_of_rot_1_ash_for_the_living.dialogue.offer.0.0": {
+    "en": "You are using ash as medicine?",
+    "zh": "您正在使用灰烬作为药物吗？",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.saint_of_rot_1_ash_for_the_living.dialogue.offer.0.1": {
+    "en": "Medicine is whatever keeps a child breathing until morning.",
+    "zh": "药物是让孩子呼吸到早晨的任何东西。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.saint_of_rot_1_ash_for_the_living.dialogue.offer.1.0": {
+    "en": "Where did it come from?",
+    "zh": "它从哪里来？",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.saint_of_rot_1_ash_for_the_living.dialogue.offer.1.1": {
+    "en": "The ruined church beyond the old road. Beneath the altar, sealed in a cracked urn.",
+    "zh": "老路对面的教堂废墟。祭坛下方，密封在一个有裂缝的瓮中。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.saint_of_rot_1_ash_for_the_living.dialogue.offer.2.0": {
+    "en": "That sounds cursed.",
+    "zh": "这听起来像是被诅咒了。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.saint_of_rot_1_ash_for_the_living.dialogue.offer.2.1": {
+    "en": "So does fever, when it takes a house one bed at a time.",
+    "zh": "发烧也是如此，当它一次占用一个房子一张床时。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.saint_of_rot_1_ash_for_the_living.dialogue.offer.3.0": {
+    "en": "What do you want from me?",
+    "zh": "你想从我这里得到什么？",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.saint_of_rot_1_ash_for_the_living.dialogue.offer.3.1": {
+    "en": "Bring more ash. Judge me after the dying stop begging.",
+    "zh": "带更多的灰烬。临终者停止乞讨后审判我。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.saint_of_rot_1_ash_for_the_living.dialogue.return": {
+    "en": "You found it. Good. Do not look at me like that. I know what it smells like.",
+    "zh": "你找到了。好的。别那样看着我。我知道那是什么味道。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.saint_of_rot_1_ash_for_the_living.dialogue.return_steps.0.0": {
+    "en": "It was under the altar.",
+    "zh": "它在祭坛下面。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.saint_of_rot_1_ash_for_the_living.dialogue.return_steps.0.1": {
+    "en": "Then the old priest knew where mercy was buried.",
+    "zh": "然后老牧师就知道怜悯被埋在哪里了。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.saint_of_rot_1_ash_for_the_living.dialogue.return_steps.1.0": {
+    "en": "Or where something cursed was hidden.",
+    "zh": "或者隐藏着被诅咒的东西的地方。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.saint_of_rot_1_ash_for_the_living.dialogue.return_steps.1.1": {
+    "en": "If curses lower fever and ease pain, the gods should be ashamed of themselves.",
+    "zh": "如果咒语能够退烧止痛，诸神应该感到羞愧。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.saint_of_rot_1_ash_for_the_living.dialogue.reward": {
+    "en": "One pinch in water, and the shaking stops. Tell me what curse does better work than mercy.",
+    "zh": "在水里捏一捏，摇晃就停止了。告诉我什么咒骂比怜悯更有效。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.saint_of_rot_1_ash_for_the_living.dialogue.done": {
+    "en": "The ash is almost gone again. The fever is not.",
+    "zh": "灰烬几乎又消失了。发烧则不然。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.saint_of_rot_1_ash_for_the_living.goals.0.name": {
+    "en": "Grey Saint Ash",
+    "zh": "灰色圣灰",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.saint_of_rot_2_the_saved.title": {
+    "en": "The Saved",
+    "zh": "得救者",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.saint_of_rot_2_the_saved.summary": {
+    "en": "He was dying yesterday. Today he breathes, speaks, and remembers names no living man taught him. Tell me whether I saved him or only delayed the grave.",
+    "zh": "他昨天快要死了。今天，他呼吸、说话、记住没有一个活着的人教过他的名字。告诉我是我救了他还是只是推迟了坟墓的时间。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.saint_of_rot_2_the_saved.dialogue.intro": {
+    "en": "The healer waits beside a man tied to a chair. His eyes are open, but his lips move to a prayer no one taught him.",
+    "zh": "治疗师等待在一个绑在椅子上的男人旁边。他的眼睛睁着，但他的嘴唇却在做着无人教过的祈祷。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.saint_of_rot_2_the_saved.dialogue.offer.0.0": {
+    "en": "Is he dangerous?",
+    "zh": "他危险吗？",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.saint_of_rot_2_the_saved.dialogue.offer.0.1": {
+    "en": "He was dying yesterday. Today he can stand, speak, and remember names that are not his.",
+    "zh": "他昨天快要死了。如今，他可以站立、说话并记住不属于他的名字。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.saint_of_rot_2_the_saved.dialogue.offer.1.0": {
+    "en": "You did this to him.",
+    "zh": "你对他做了这样的事。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.saint_of_rot_2_the_saved.dialogue.offer.1.1": {
+    "en": "I kept him alive. If the price comes due, then say it plainly. But do not pretend death was cleaner.",
+    "zh": "我让他活着。如果价格到期，就直白地说出来。但不要假装死亡更干净。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.saint_of_rot_2_the_saved.dialogue.offer.2.0": {
+    "en": "What do you want?",
+    "zh": "你想要什么？",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.saint_of_rot_2_the_saved.dialogue.offer.2.1": {
+    "en": "Speak to him. If there is still a man in there, find him. If there is not, be quicker than the fever was.",
+    "zh": "和他说话。如果里面还有人，就找到他。如果没有，就比发烧时更快。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.saint_of_rot_2_the_saved.dialogue.return": {
+    "en": "Edran is dead. I asked for mercy and got certainty. Perhaps that is all this village deserves.",
+    "zh": "艾德兰死​​了。我请求怜悯并得到了确定性。也许这就是这个村庄应得的一切。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.saint_of_rot_2_the_saved.dialogue.return_steps.0.0": {
+    "en": "He was changing.",
+    "zh": "他正在改变。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.saint_of_rot_2_the_saved.dialogue.return_steps.0.1": {
+    "en": "Everyone sick enough changes. Pain makes strangers of us before magic ever gets the chance.",
+    "zh": "每个人都病得够多了。在魔法出现之前，痛苦让我们变得陌生。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.saint_of_rot_2_the_saved.dialogue.return_steps.1.0": {
+    "en": "The ash is not safe.",
+    "zh": "灰烬不安全。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.saint_of_rot_2_the_saved.dialogue.return_steps.1.1": {
+    "en": "No. But it works. That is why this is cruel.",
+    "zh": "不。但它有效。这就是为什么这很残酷。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.saint_of_rot_2_the_saved.dialogue.reward": {
+    "en": "Go to the church. Burn the altar, break the urns, do whatever righteous people do after the desperate have already paid.",
+    "zh": "去教堂。烧毁祭坛，打破骨灰盒，做正义之人在绝望者付出代价后所做的一切。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.saint_of_rot_2_the_saved.dialogue.done": {
+    "en": "Edran's chair is empty. The healer has not moved it.",
+    "zh": "埃德兰的椅子是空的。治疗师没有移动它。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.saint_of_rot_2_the_saved.threat.name": {
+    "en": "Edran the Saved",
+    "zh": "被拯救的艾德兰",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.saint_of_rot_2_the_saved.threat.offer_line": {
+    "en": "Edran waits near the healer's house. He is breathing. He is speaking. Neither of those things means he is safe.",
+    "zh": "艾德兰在治疗师的房子附近等待。他正在呼吸。他正在说话。这两件事都不意味着他是安全的。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.saint_of_rot_2_the_saved.threat.target_line": {
+    "en": "The sick man turns toward you. His voice is his own for a moment, then older.",
+    "zh": "病人转向你。他的声音有那么一会儿是他自己的，然后就苍老了。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.saint_of_rot_2_the_saved.threat.spared_line": {
+    "en": "You lower your weapon. Edran exhales like a man who expected mercy to hurt more.",
+    "zh": "你放下武器。艾德兰呼了口气，就像一个期待怜悯会造成更多伤害的人。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.saint_of_rot_2_the_saved.threat.post_spare_line": {
+    "en": "Take me to the church. If the bell wants my voice, let it ask while I am awake.",
+    "zh": "带我去教堂。如果门铃需要我的声音，就让它在我醒着的时候询问。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.saint_of_rot_2_the_saved.threat.villager_spared_line": {
+    "en": "You spared him? Then you have more faith in that thing wearing Edran's face than I do.",
+    "zh": "你饶了他？那么你对那个戴着艾德兰面孔的东西比我更有信心。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.saint_of_rot_2_the_saved.threat.attack_choice_label": {
+    "en": "The ash has taken too much of you.",
+    "zh": "火山灰已经带走了你太多。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.saint_of_rot_2_the_saved.threat.spare_choice_label": {
+    "en": "You are still here. That matters.",
+    "zh": "你还在这里。这很重要。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.saint_of_rot_2_the_saved.threat.attack_return_line": {
+    "en": "You did it. Then the ash can heal flesh, but not what it invites inside.",
+    "zh": "你做到了。然后，灰烬可以治愈肉体，但不能治愈它内部的东西。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.saint_of_rot_2_the_saved.threat.talk.0.0": {
+    "en": "Do you know what is happening to you?",
+    "zh": "你知道你发生了什么事吗？",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.saint_of_rot_2_the_saved.threat.talk.0.1": {
+    "en": "I was dying. Then I was not. Now I dream with someone else's mouth.",
+    "zh": "我快死了。然后我就不是了。现在我用别人的嘴做梦。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.saint_of_rot_2_the_saved.threat.talk.1.0": {
+    "en": "What do you hear?",
+    "zh": "你听到什么？",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.saint_of_rot_2_the_saved.threat.talk.1.1": {
+    "en": "A bell under the church. It rings when I sleep. It counts the names of people who are not dead yet.",
+    "zh": "教堂下方的钟声。当我睡觉的时候它会响。它统计的是还没有死的人的名字。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.saint_of_rot_2_the_saved.threat.talk.2.0": {
+    "en": "Are you still Edran?",
+    "zh": "你还是艾德兰吗？",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.saint_of_rot_2_the_saved.threat.talk.2.1": {
+    "en": "Ask me while I still know the answer.",
+    "zh": "趁我还知道答案的时候问我。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.saint_of_rot_2_the_saved.threat.talk.3.0": {
+    "en": "Do you want me to end it?",
+    "zh": "你想让我结束它吗？",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.saint_of_rot_2_the_saved.threat.talk.3.1": {
+    "en": "I want to see one more sunrise as myself. If that is too much to ask, then be quick.",
+    "zh": "我想像我一样多看一次日出。如果要求太多，那就快点。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.saint_of_rot_2_the_saved.threat.mercy.ambush_name": {
+    "en": "Ash-Sick Villager",
+    "zh": "灰病村民",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.saint_of_rot_2_the_saved.threat.mercy.line": {
+    "en": "Take me back to the church. I want to hear the bell while I still know which voice is mine.",
+    "zh": "带我回教堂。我想在我仍然知道哪个声音是我的时候听到铃声。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.saint_of_rot_2_the_saved.threat.mercy.ambush_line": {
+    "en": "The ash in Edran's veins stirs. Sick shapes stumble from the dark, answering the bell beneath the stones.",
+    "zh": "艾德兰血管中的灰烬在搅动。病态的身影从黑暗中跌跌撞撞地走出来，回应着石头下的铃声。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.saint_of_rot_2_the_saved.threat.mercy.nothing": {
+    "en": "Edran closes his eyes. Whatever was speaking through him waits.",
+    "zh": "埃德兰闭上眼睛。无论通过他说话的是什么，都在等待。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.saint_of_rot_3_condemn_the_church.title": {
+    "en": "Condemn the Church",
+    "zh": "谴责教会",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.saint_of_rot_3_condemn_the_church.summary": {
+    "en": "If Edran's death bought you certainty, spend it well. Go to the ruined church, board the doors, mark the stones, and leave me with the fever you call natural.",
+    "zh": "如果艾德兰的死给你带来了确定性，那就好好利用它。去那座被毁的教堂，登上大门，在石头上做记号，然后把你称之为自然的发烧留给我。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.saint_of_rot_3_condemn_the_church.dialogue.intro": {
+    "en": "The healer does not look at you when she speaks.",
+    "zh": "治疗师说话时不会看着你。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.saint_of_rot_3_condemn_the_church.dialogue.offer.0.0": {
+    "en": "The ash has to end.",
+    "zh": "灰烬必须结束。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.saint_of_rot_3_condemn_the_church.dialogue.offer.0.1": {
+    "en": "Then end the road to it. Board the church, mark it, and make sure even desperate hands know not to enter.",
+    "zh": "然后结束通往它的路。登上教堂，标记它，并确保即使是绝望的手也知道不要进入。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.saint_of_rot_3_condemn_the_church.dialogue.offer.1.0": {
+    "en": "You hate me for this.",
+    "zh": "你因此恨我。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.saint_of_rot_3_condemn_the_church.dialogue.offer.1.1": {
+    "en": "No. Hate is simple. I envy you. You can leave after choosing who dies.",
+    "zh": "不。仇恨很简单。我羡慕你。选择死者后即可离开。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.saint_of_rot_3_condemn_the_church.dialogue.offer.2.0": {
+    "en": "Why board it up instead of burning it?",
+    "zh": "为什么用木板封住而不是烧掉它？",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.saint_of_rot_3_condemn_the_church.dialogue.offer.2.1": {
+    "en": "Because people will call a burnt church tragedy. A boarded church is a warning.",
+    "zh": "因为人们会把烧毁的教堂称为悲剧。教堂被封锁是一个警告。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.saint_of_rot_3_condemn_the_church.dialogue.offer.3.0": {
+    "en": "You knew it was wrong.",
+    "zh": "你知道这是错误的。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.saint_of_rot_3_condemn_the_church.dialogue.offer.3.1": {
+    "en": "I knew it was working. That is worse.",
+    "zh": "我知道它正在工作。那就更糟了。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.saint_of_rot_3_condemn_the_church.dialogue.return": {
+    "en": "The church is boarded. The doors are marked. The fever came back before dawn.",
+    "zh": "登上教堂。门有标记。天亮之前又发烧了。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.saint_of_rot_3_condemn_the_church.dialogue.return_steps.0.0": {
+    "en": "No one will use the ash again.",
+    "zh": "没有人会再次使用灰烬。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.saint_of_rot_3_condemn_the_church.dialogue.return_steps.0.1": {
+    "en": "No. Now they will just stand outside the boards and wonder how many planks a life is worth.",
+    "zh": "不。现在他们只会站在木板外面，想知道一条生命值多少块木板。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.saint_of_rot_3_condemn_the_church.dialogue.return_steps.1.0": {
+    "en": "The dead will stop calling.",
+    "zh": "死者将停止召唤。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.saint_of_rot_3_condemn_the_church.dialogue.return_steps.1.1": {
+    "en": "Good. Then the living can die in their own voices.",
+    "zh": "好。然后，生者就可以在自己的声音中死去。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.saint_of_rot_3_condemn_the_church.dialogue.return_steps.2.0": {
+    "en": "You know it had to be done.",
+    "zh": "你知道必须这样做。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.saint_of_rot_3_condemn_the_church.dialogue.return_steps.2.1": {
+    "en": "I know many things. Knowing them has not made me kinder.",
+    "zh": "我知道很多事情。认识他们并没有让我变得更友善。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.saint_of_rot_3_condemn_the_church.dialogue.return_steps.3.0": {
+    "en": "You could not keep using it.",
+    "zh": "您无法继续使用它。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.saint_of_rot_3_condemn_the_church.dialogue.return_steps.3.1": {
+    "en": "And now I get to watch what happens when I stop. Do not dress that as comfort.",
+    "zh": "现在我可以观察当我停下来时会发生什么。不要把它装扮成舒适。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.saint_of_rot_3_condemn_the_church.dialogue.reward": {
+    "en": "Two houses lost children this morning. The church is quiet, yes. So are they.",
+    "zh": "今天早上有两所房子失去了孩子。教堂很安静，是的。他们也是。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.saint_of_rot_3_condemn_the_church.dialogue.done": {
+    "en": "The ruined church is boarded now. The healer no longer prays where people can hear her.",
+    "zh": "被毁坏的教堂现在已经登上了。治疗师不再在人们能听到的地方祈祷。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.saint_of_rot_3_condemn_the_church.threats.0.name": {
+    "en": "Ash-Preserved Dead",
+    "zh": "灰烬保存死者",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.saint_of_rot_3_condemn_the_church.threats.0.target_line": {
+    "en": "A dead thing rises through the ruined church, its ribs packed with grey ash.",
+    "zh": "一个死物从废弃的教堂中升起，它的肋骨上布满了灰色的灰烬。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.saint_of_rot_3_condemn_the_church.threats.1.name": {
+    "en": "Altar-Fed Draugr",
+    "zh": "祭坛喂养 尸鬼",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.saint_of_rot_3_condemn_the_church.threats.1.target_line": {
+    "en": "Another corpse pulls itself from the church floor, drawn by the sound of hammering wood.",
+    "zh": "另一具尸体被锤击木头的声音从教堂地板上拉了出来。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.saint_of_rot_3_condemn_the_church.threats.2.name": {
+    "en": "Grey Saint's Dead",
+    "zh": "灰色圣徒之死",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.saint_of_rot_3_condemn_the_church.threats.2.target_line": {
+    "en": "The last of the ash-fed dead staggers forward, wearing prayer like rot.",
+    "zh": "最后一个被灰烬喂养的死者摇摇晃晃地向前走，像腐烂的人一样祈祷着。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.saint_of_rot_3_price_of_mercy.title": {
+    "en": "The Price of Mercy",
+    "zh": "仁慈的代价",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.saint_of_rot_3_price_of_mercy.summary": {
+    "en": "Take me back to the ruined church. I want to hear the bell while I still know which voice is mine.",
+    "zh": "带我回到废弃的教堂。我想在我仍然知道哪个声音是我的时候听到铃声。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.saint_of_rot_3_price_of_mercy.dialogue.intro": {
+    "en": "Edran keeps his hands pressed over his ears, though no bell is ringing.",
+    "zh": "埃德兰双手捂住耳朵，尽管没有铃声响起。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.saint_of_rot_3_price_of_mercy.dialogue.offer.0.0": {
+    "en": "You still hear it?",
+    "zh": "你还听到吗？",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.saint_of_rot_3_price_of_mercy.dialogue.offer.0.1": {
+    "en": "Yes. But now it is afraid.",
+    "zh": "是的。但现在它害怕了。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.saint_of_rot_3_price_of_mercy.dialogue.offer.1.0": {
+    "en": "The bell?",
+    "zh": "铃声？",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.saint_of_rot_3_price_of_mercy.dialogue.offer.1.1": {
+    "en": "No. Whatever is holding the rope.",
+    "zh": "否。抓住绳子的东西。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.saint_of_rot_3_price_of_mercy.dialogue.offer.2.0": {
+    "en": "Can you walk?",
+    "zh": "你能走路吗？",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.saint_of_rot_3_price_of_mercy.dialogue.offer.2.1": {
+    "en": "If I fall, do not carry me. Drag me. I would rather arrive ashamed than arrive dead.",
+    "zh": "如果我跌倒，不要抱我。拖我吧我宁愿羞愧地到达，也不愿死去。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.saint_of_rot_3_price_of_mercy.dialogue.return": {
+    "en": "The ruined church is quiet. I can breathe without borrowing someone else's mouth.",
+    "zh": "废墟里的教堂很安静。我不用借别人的嘴就能呼吸。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.saint_of_rot_3_price_of_mercy.dialogue.return_steps.0.0": {
+    "en": "Is the voice gone?",
+    "zh": "声音消失了吗？",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.saint_of_rot_3_price_of_mercy.dialogue.return_steps.0.1": {
+    "en": "No. But it has stopped pretending to be mine.",
+    "zh": "不。但它已经不再冒充我的了。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.saint_of_rot_3_price_of_mercy.dialogue.return_steps.1.0": {
+    "en": "What is under the church?",
+    "zh": "教堂下面是什么？",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.saint_of_rot_3_price_of_mercy.dialogue.return_steps.1.1": {
+    "en": "Not a saint. Not a demon either. Something worse. Something useful.",
+    "zh": "不是圣人。也不是恶魔。更糟糕的是。有用的东西。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.saint_of_rot_3_price_of_mercy.dialogue.return_steps.2.0": {
+    "en": "Useful?",
+    "zh": "有用吗？",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.saint_of_rot_3_price_of_mercy.dialogue.return_steps.2.1": {
+    "en": "It kept me alive. That is what makes it dangerous.",
+    "zh": "它让我活了下来。这就是它危险的原因。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.saint_of_rot_3_price_of_mercy.dialogue.reward": {
+    "en": "I do not know if I am saved. But I am still the one speaking. That is more than I had.",
+    "zh": "我不知道我是否得救了。但说话的还是我。这比我拥有的还要多。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.saint_of_rot_3_price_of_mercy.dialogue.done": {
+    "en": "The church road is quieter now. I still hear the bell, but it waits its turn.",
+    "zh": "教堂的道路现在更安静了。我仍然听到铃声，但它在等待轮到它。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.saint_of_rot_4_the_bell_under_stone.title": {
+    "en": "The Bell Under Stone",
+    "zh": "石下之钟",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.saint_of_rot_4_the_bell_under_stone.summary": {
+    "en": "There is no saint beneath the church. There is a bell that teaches the dying how to remain useful to the dead. Help me silence it before someone desperate calls that mercy again.",
+    "zh": "教堂下面没有圣人。有一个钟声可以教导临终者如何继续对死者有用。在有人绝望地再次呼吁怜悯之前，请帮助我平息它。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.saint_of_rot_4_the_bell_under_stone.dialogue.intro": {
+    "en": "Edran stands before the broken altar. His hands shake, but his voice is finally his own.",
+    "zh": "艾德兰站在破碎的祭坛前。他的手在颤抖，但他的声音终于是他自己的了。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.saint_of_rot_4_the_bell_under_stone.dialogue.offer.0.0": {
+    "en": "You know what is under the altar now?",
+    "zh": "你现在知道祭坛下面有什么吗？",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.saint_of_rot_4_the_bell_under_stone.dialogue.offer.0.1": {
+    "en": "I know what it wanted me to become. Not dead. Not alive. Preserved. Useful. Grateful.",
+    "zh": "我知道它希望我成为什么。没死。没有活着。保存下来。有用。感激的。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.saint_of_rot_4_the_bell_under_stone.dialogue.offer.1.0": {
+    "en": "Why call it a bell?",
+    "zh": "为什么叫它钟？",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.saint_of_rot_4_the_bell_under_stone.dialogue.offer.1.1": {
+    "en": "Because it rings without sound. It pulls on the names of the sick until they answer in their sleep.",
+    "zh": "因为它响起时没有声音。它会拉出病人的名字，直到他们在睡梦中回答为止。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.saint_of_rot_4_the_bell_under_stone.dialogue.offer.2.0": {
+    "en": "The healer thought it was a miracle.",
+    "zh": "治疗师认为这是一个奇迹。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.saint_of_rot_4_the_bell_under_stone.dialogue.offer.2.1": {
+    "en": "Maybe it was. That is the cruel part. A thing can save your body and still steal the rest.",
+    "zh": "也许是的。这就是残酷的部分。有一样东西可以拯救你的身体，但仍然可以偷走你的其余部分。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.saint_of_rot_4_the_bell_under_stone.dialogue.offer.3.0": {
+    "en": "What do you want to do?",
+    "zh": "你想做什么？",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.saint_of_rot_4_the_bell_under_stone.dialogue.offer.3.1": {
+    "en": "Break it while I still hate it. If I wait too long, I may start thanking it.",
+    "zh": "趁我还讨厌它的时候打破它。如果我等得太久，我可能会开始感谢它。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.saint_of_rot_4_the_bell_under_stone.dialogue.return": {
+    "en": "The bell is silent. I am still breathing. For once, those two things do not feel like enemies.",
+    "zh": "铃声没有响。我还在呼吸。这一次，这两件事感觉不像是敌人。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.saint_of_rot_4_the_bell_under_stone.dialogue.return_steps.0.0": {
+    "en": "Are you still yourself?",
+    "zh": "你还是你自己吗？",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.saint_of_rot_4_the_bell_under_stone.dialogue.return_steps.0.1": {
+    "en": "For now. That is not nothing.",
+    "zh": "目前。那并不是什么都没有。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.saint_of_rot_4_the_bell_under_stone.dialogue.return_steps.1.0": {
+    "en": "The ash cannot be used again.",
+    "zh": "灰烬不能再次使用。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.saint_of_rot_4_the_bell_under_stone.dialogue.return_steps.1.1": {
+    "en": "Then someone will die cursing us for being right.",
+    "zh": "那么有人会因为我们是对的而咒骂我们而死。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.saint_of_rot_4_the_bell_under_stone.dialogue.return_steps.2.0": {
+    "en": "The healer will hate this.",
+    "zh": "治疗师会讨厌这个。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.saint_of_rot_4_the_bell_under_stone.dialogue.return_steps.2.1": {
+    "en": "She should. Hate is easier to carry than empty hands.",
+    "zh": "她应该。仇恨比两手空空更容易携带。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.saint_of_rot_4_the_bell_under_stone.dialogue.return_steps.3.0": {
+    "en": "Was this mercy?",
+    "zh": "这是仁慈吗？",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.saint_of_rot_4_the_bell_under_stone.dialogue.return_steps.3.1": {
+    "en": "Mercy is what people call the knife after it cuts the right throat.",
+    "zh": "慈悲就是人们所说的割断右喉咙后的刀。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.saint_of_rot_4_the_bell_under_stone.dialogue.reward": {
+    "en": "I still live. The village lost its miracle. The dead lost their bell. I do not know who won, and that may be the most honest ending we get.",
+    "zh": "我还活着。村庄失去了奇迹。死者失去了铃铛。我不知道谁赢了，但这可能是我们得到的最诚实的结局。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.saint_of_rot_4_the_bell_under_stone.dialogue.done": {
+    "en": "The ruined church is quiet. No one agrees what that quiet cost.",
+    "zh": "废墟里的教堂很安静。没有人同意这种安静的代价是什么。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.saint_of_rot_4_the_bell_under_stone.threats.0.name": {
+    "en": "The Bell-Keeper",
+    "zh": "守钟人",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.saint_of_rot_4_the_bell_under_stone.threats.0.target_line": {
+    "en": "The Bell-Keeper rises beneath the ruined altar. Its mouth opens, and every sickbed in the village seems to breathe through it.",
+    "zh": "守钟人在废墟祭坛下方升起。它的嘴张开，村里的每一张病床似乎都在用它呼吸。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.saint_of_rot_4_the_bell_under_stone.threats.1.name": {
+    "en": "Ash-Preserved Dead",
+    "zh": "灰烬保存死者",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.saint_of_rot_4_the_bell_under_stone.threats.2.name": {
+    "en": "Grey Ash Thrall",
+    "zh": "灰灰萨尔",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.saint_of_rot_4_the_bell_under_stone.threats.3.name": {
+    "en": "Almost-Saved Dead",
+    "zh": "差一点就死了",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_3_the_bastion_oath_blood.dialogue.return_steps.2.0": {
+    "en": "More draugr came than expected.",
+    "zh": "尸鬼 的数量比预期的要多。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_3_the_bastion_oath_blood.dialogue.return_steps.2.1": {
+    "en": "Blood calls loudly in old tombs. Perhaps the death-scribe's silence was protecting us more than we understood.",
+    "zh": "血在古老的坟墓中大声呼唤。也许 亡者书记官 的沉默对我们的保护超出了我们的理解。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_3_the_bastion_oath_blood.dialogue.return_steps.3.0": {
+    "en": "But the seal is ours.",
+    "zh": "但印章是我们的。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_3_the_bastion_oath_blood.dialogue.return_steps.3.1": {
+    "en": "Yes. And perhaps that is all history will remember. Not how cleanly it was done, only that someone survived doing it.",
+    "zh": "是的。也许这就是历史所记住的一切。不是做得有多干净，而是有人在做这件事时幸存下来。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_3_the_bastion_oath_blood.dialogue.reward": {
+    "en": "You broke the seal as you broke the scribe: with steel and certainty. Perhaps that is what saved us. Perhaps that is simply what the dead understand best.",
+    "zh": "你打破了封印，就像你打破了抄写员一样：带着钢铁和确定性。也许这就是拯救我们的原因。也许这就是死者最明白的道理。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_3_the_bastion_oath_blood.dialogue.done": {
+    "en": "The Bastion is silent now, but sometimes I wonder if Vahruk's warning died too soon.",
+    "zh": "堡垒 现在很安静，但有时我想知道 Vahruk 的警告是否消失得太快了。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_3_the_bastion_oath_blood.goals.0.name": {
+    "en": "Oath-Seal of Kjorvund",
+    "zh": "Kjorvund 的 誓约之印",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_3_the_bastion_oath_blood.threats.0.name": {
+    "en": "Hroldan, Blood-Woken Oathkeeper",
+    "zh": "赫罗丹，血醒誓言守护者",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_3_the_bastion_oath_blood.threats.0.target_line": {
+    "en": "The oath-seal turns cold in your hand. Blood-dark fire spills through the Bastion stones, and Hroldan rises as if Vahruk's death was the final horn.",
+    "zh": "誓约之印 在您手中变冷。血色的火焰从 堡垒 的石头中溢出，赫尔丹站了起来，仿佛瓦鲁克的死亡是最后的号角。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_3_the_bastion_oath_blood.threats.1.name": {
+    "en": "Blood-Scribe Wight",
+    "zh": "鲜血抄写员怀特",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_3_the_bastion_oath_blood.threats.1.target_line": {
+    "en": "A wight claws itself from the dust, whispering Vahruk's name like an accusation.",
+    "zh": "一只尸鬼从尘土中抓起自己，低声呼唤着瓦鲁克的名字，就像一种指控。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_3_the_bastion_oath_blood.threats.2.name": {
+    "en": "Black-Crowned Wight",
+    "zh": "黑冠尸鬼",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_3_the_bastion_oath_blood.threats.2.target_line": {
+    "en": "A second wight answers the seal's call, blocking the way back through the ruin.",
+    "zh": "第二个异鬼响应了海豹的召唤，封锁了穿过废墟返回的道路。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_3_the_bastion_oath_blood.threats.3.name": {
+    "en": "Blood-Woken Draugr",
+    "zh": "鲜血觉醒 尸鬼",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_3_the_bastion_oath_blood.threats.3.target_line": {
+    "en": "A draugr lurches from the shadows, drawn by the violence that opened the path.",
+    "zh": "尸鬼 被打开道路的暴力所吸引，从阴影中蹒跚而出。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_3_the_bastion_oath_blood.threats.4.name": {
+    "en": "Bastion Dead",
+    "zh": "堡垒 死亡",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_3_the_bastion_oath_blood.threats.4.target_line": {
+    "en": "Another corpse answers the broken oath with rusted steel.",
+    "zh": "另一具尸体用生锈的钢铁回答了破碎的誓言。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_3_the_bastion_oath_blood.threats.5.name": {
+    "en": "Oath-Marched Draugr",
+    "zh": "誓言行进 尸鬼",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_3_the_bastion_oath_blood.threats.5.target_line": {
+    "en": "A third draugr marches forward as if commanded by a voice under the stone.",
+    "zh": "第三个 尸鬼 向前行进，仿佛受到石头下声音的指挥。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_3_the_bastion_oath_mercy.title": {
+    "en": "The Bastion Oath",
+    "zh": "堡垒 誓言",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_3_the_bastion_oath_mercy.summary": {
+    "en": "Vahruk revealed the truth: the Bastion guards not treasure, but the command that lets Kjorvund's dead army rise. Take the oath-seal carefully, and break the king's voice without becoming its echo.",
+    "zh": "Vahruk 揭示了真相：堡垒 守护的不是宝藏，而是让 Kjorvund 死去的军队崛起的命令。小心地拿着誓约之印，打破国王的声音而不成为它的回声。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_3_the_bastion_oath_mercy.dialogue.intro": {
+    "en": "The elder reads Vahruk's warning again and again. The death-scribe did not protect the king. He crippled him.",
+    "zh": "长老一遍又一遍地阅读瓦鲁克的警告。 亡者书记官 没有保护国王。他把他打残了。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_3_the_bastion_oath_mercy.dialogue.offer.0.0": {
+    "en": "Vahruk betrayed Kjorvund to save the living.",
+    "zh": "Vahruk 为了拯救生者而背叛了 Kjorvund。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_3_the_bastion_oath_mercy.dialogue.offer.0.1": {
+    "en": "Then perhaps history buried the wrong villain. Or perhaps the dead have had centuries to make cowards sound noble.",
+    "zh": "那么也许历史埋葬了错误的恶棍。或者也许死者已经有几个世纪的时间让懦夫变得高贵。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_3_the_bastion_oath_mercy.dialogue.offer.1.0": {
+    "en": "He said the Bastion guards the Oath-Seal.",
+    "zh": "他说 堡垒 守卫着 誓约之印。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_3_the_bastion_oath_mercy.dialogue.offer.1.1": {
+    "en": "Then the seal is the king's voice. Not a relic, not a trophy. A command waiting for a throat.",
+    "zh": "那么印章就是国王的声音。不是遗物，不是战利品。等待喉咙的命令。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_3_the_bastion_oath_mercy.dialogue.offer.2.0": {
+    "en": "Can we destroy it?",
+    "zh": "我们能摧毁它吗？",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_3_the_bastion_oath_mercy.dialogue.offer.2.1": {
+    "en": "Maybe. But first you must take it from the Bastion. If Vahruk spoke truth, the guardians will rise when the seal leaves its rest.",
+    "zh": "也许吧。但首先您必须从 堡垒 获取它。如果瓦鲁克说的是真话，当封印离开安息之时，守护者们就会崛起。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_3_the_bastion_oath_mercy.dialogue.offer.3.0": {
+    "en": "What should I do when they come?",
+    "zh": "他们来了我该怎么办？",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_3_the_bastion_oath_mercy.dialogue.offer.3.1": {
+    "en": "Do not answer hatred with hatred. Break the guardians, take the seal, and bring it back before the king's name becomes a banner again.",
+    "zh": "不要以仇恨回应仇恨。打破守卫，夺走封印，并在国王的名字再次成为旗帜之前将其带回来。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_3_the_bastion_oath_mercy.dialogue.return": {
+    "en": "You have it? Good. Set it here carefully. I do not want that thing hearing its own name spoken aloud.",
+    "zh": "你有吗？好的。小心地把它放在这里。我不想让那个东西听到自己的名字被大声说出。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_3_the_bastion_oath_mercy.dialogue.return_steps.0.0": {
+    "en": "The guardians rose when I touched it.",
+    "zh": "当我触碰它时，守护者们就站了起来。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_3_the_bastion_oath_mercy.dialogue.return_steps.0.1": {
+    "en": "Then Vahruk told the truth. The seal was not stored in the Bastion. It was enthroned there.",
+    "zh": "然后瓦鲁克说了实话。密封件未存储在 堡垒 中。它在那里加冕。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_3_the_bastion_oath_mercy.dialogue.return_steps.1.0": {
+    "en": "Hroldan seemed commanded, not hateful.",
+    "zh": "赫罗丹看上去很有命令性，但并不充满仇恨。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_3_the_bastion_oath_mercy.dialogue.return_steps.1.1": {
+    "en": "That may be the worst part. Some monsters choose evil. Others are simply never released from obedience.",
+    "zh": "这可能是最糟糕的部分。有些怪物选择邪恶。其他人则永远无法摆脱服从。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_3_the_bastion_oath_mercy.dialogue.return_steps.2.0": {
+    "en": "The wights tried to keep me from leaving.",
+    "zh": "尸鬼试图阻止我离开。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_3_the_bastion_oath_mercy.dialogue.return_steps.2.1": {
+    "en": "Scribes of the oath, perhaps. Dead hands keeping a dead king's voice intact.",
+    "zh": "或许是宣誓的抄写员。死去的双手完好无损地保存着死去国王的声音。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_3_the_bastion_oath_mercy.dialogue.return_steps.3.0": {
+    "en": "What happens to the seal now?",
+    "zh": "封印现在怎么样了？",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_3_the_bastion_oath_mercy.dialogue.return_steps.3.1": {
+    "en": "We bury it where no crown, claw, or king can reach it. And we remember that even the dead can resist a tyrant.",
+    "zh": "我们把它埋在王冠、利爪或国王够不到的地方。我们记住，即使是死人也能抵抗暴君。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_3_the_bastion_oath_mercy.dialogue.reward": {
+    "en": "You broke the seal without becoming its echo. Vahruk was right: some oaths are not defeated by hatred, but by refusing to obey them.",
+    "zh": "你打破了封印，但没有成为它的回声。瓦鲁克是对的：有些誓言不是被仇恨打败，而是被拒绝遵守。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_3_the_bastion_oath_mercy.dialogue.done": {
+    "en": "The Bastion is silent now. If Vahruk still walks somewhere in that dark, perhaps he finally knows his betrayal mattered.",
+    "zh": "堡垒 现在沉默了。如果瓦鲁克仍然在黑暗中行走，也许他终于知道他的背叛很重要。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_3_the_bastion_oath_mercy.goals.0.name": {
+    "en": "Oath-Seal of Kjorvund",
+    "zh": "Kjorvund 的 誓约之印",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_3_the_bastion_oath_mercy.threats.0.name": {
+    "en": "Hroldan, Oathkeeper of Kjorvund",
+    "zh": "赫罗丹，克约文德的誓言守护者",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_3_the_bastion_oath_mercy.threats.0.target_line": {
+    "en": "The oath-seal turns cold in your hand. Hroldan rises from the dark, not enraged, but commanded.",
+    "zh": "誓约之印 在您手中变冷。赫罗丹从黑暗中站起来，脸上没有愤怒，而是命令。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_3_the_bastion_oath_mercy.threats.1.name": {
+    "en": "Ash-Bound Wight",
+    "zh": "灰烬尸魂",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_3_the_bastion_oath_mercy.threats.1.target_line": {
+    "en": "A draugr wight claws its way from the Bastion dust, drawn by the stolen oath-seal.",
+    "zh": "一架 尸鬼幽灵 从被偷走的 誓约之印 牵引的 堡垒 灰尘中爬出。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_3_the_bastion_oath_mercy.threats.2.name": {
+    "en": "Black-Crowned Wight",
+    "zh": "黑冠尸鬼",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.barrow_that_breathes_3_the_bastion_oath_mercy.threats.2.target_line": {
+    "en": "A second wight answers the seal's call, blocking the way back through the ruin.",
+    "zh": "第二个异鬼响应了海豹的召唤，封锁了穿过废墟返回的道路。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grave_that_still_guards_1_the_dead_guard.title": {
+    "en": "The Dead Guard",
+    "zh": "死亡守卫",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grave_that_still_guards_1_the_dead_guard.summary": {
+    "en": "A villager heard of a draugr walking the old road near a ruined tower. It follows travelers, but does not strike unless threatened.",
+    "zh": "一位村民听说 尸鬼 在一座废弃塔楼附近的旧路上行走。它跟随旅行者，但除非受到威胁，否则不会攻击。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grave_that_still_guards_1_the_dead_guard.dialogue.return": {
+    "en": "You killed it. Good. But if it remembered the road, then something taught a corpse to wait there.",
+    "zh": "你杀了它。好的。但如果它记住了路，那么就会有某种东西教会尸体在那里等待。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grave_that_still_guards_1_the_dead_guard.dialogue.reward": {
+    "en": "Take this. If more dead things start remembering, come back before the village forgets how to sleep.",
+    "zh": "拿着这个。如果更多死去的东西开始记起，请在村子忘记如何睡觉之前回来。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grave_that_still_guards_1_the_dead_guard.dialogue.done": {
+    "en": "The old road is quiet now. I wish that felt like peace.",
+    "zh": "老路现在安静了。我希望那感觉像平静。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grave_that_still_guards_1_the_dead_guard.threat.name": {
+    "en": "Svanir the Road-Forgotten",
+    "zh": "被遗忘之路的斯瓦尼尔",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grave_that_still_guards_1_the_dead_guard.threat.offer_line": {
+    "en": "A draugr stands near the old tower road. It carries a sword, watches the path, and has not attacked yet. Find out whether it is a threat before fear makes the choice for us.",
+    "zh": "A 尸鬼 矗立在旧塔路附近。它提着剑，注视着前方，还没有攻击。在恐惧为我们做出选择之前弄清楚它是否是一种威胁。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grave_that_still_guards_1_the_dead_guard.threat.target_line": {
+    "en": "The draugr lowers its blade slightly. Its voice is dry, broken, but not empty.",
+    "zh": "尸鬼 稍微降低刀片。它的声音干巴巴、断断续续，但并不空洞。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grave_that_still_guards_1_the_dead_guard.threat.spared_line": {
+    "en": "You lower your weapon. The draugr stares at the village road as if seeing it for the first time in centuries.",
+    "zh": "你放下武器。 尸鬼 盯着乡村道路，仿佛几个世纪以来第一次看到它。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grave_that_still_guards_1_the_dead_guard.threat.post_spare_line": {
+    "en": "The bell. I remember the bell now. Not all of it, but enough to walk.",
+    "zh": "铃声。我现在记得铃声了。虽然不是全部，但足够步行了。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grave_that_still_guards_1_the_dead_guard.threat.villager_spared_line": {
+    "en": "You spared it? Then either you found mercy, or you brought us a worse problem. I hope you know which.",
+    "zh": "你幸免于难吗？那么要么你找到了怜悯，要么你给我们带来了更糟糕的问题。我希望你知道是哪一个。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grave_that_still_guards_1_the_dead_guard.threat.attack_choice_label": {
+    "en": "Whatever you were, you are too dangerous now.",
+    "zh": "无论你以前是什么，你现在都太危险了。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grave_that_still_guards_1_the_dead_guard.threat.spare_choice_label": {
+    "en": "I will not cut down a memory.",
+    "zh": "我不会削减记忆。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grave_that_still_guards_1_the_dead_guard.threat.attack_return_line": {
+    "en": "So the dead guard is gone. I should be relieved, but a corpse that remembers a road does not happen by accident.",
+    "zh": "所以死去的守卫已经消失了。我应该松一口气，但记住路的尸体并不是偶然发生的。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grave_that_still_guards_1_the_dead_guard.threat.talk.0.0": {
+    "en": "Can you understand me?",
+    "zh": "你能理解我吗？",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grave_that_still_guards_1_the_dead_guard.threat.talk.0.1": {
+    "en": "Understand... enough. Road. Bell. Snow in the mouth. I was ordered to guard. I guarded the wrong fear.",
+    "zh": "了解...足够了。路。钟。嘴里有雪。我奉命看守。我守护着错误的恐惧。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grave_that_still_guards_1_the_dead_guard.threat.talk.1.0": {
+    "en": "Who are you?",
+    "zh": "你是谁？",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grave_that_still_guards_1_the_dead_guard.threat.talk.1.1": {
+    "en": "Svanir. No. Shield-hand. Road-guard. Coward. The words change when I try to hold them.",
+    "zh": "斯瓦尼尔。不，盾手。路卫士。懦夫。当我试图握住它们时，它们就变了。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grave_that_still_guards_1_the_dead_guard.threat.talk.2.0": {
+    "en": "Why do you follow travelers?",
+    "zh": "您为什么关注旅行者？",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grave_that_still_guards_1_the_dead_guard.threat.talk.2.1": {
+    "en": "Small hand. Red cloak. Bell on the braid. She held my cloak when the dark had teeth.",
+    "zh": "小手。红色斗篷。辫子上有铃铛。当黑暗有牙齿时，她抓住了我的斗篷。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grave_that_still_guards_1_the_dead_guard.threat.talk.3.0": {
+    "en": "Who was she?",
+    "zh": "她是谁？",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grave_that_still_guards_1_the_dead_guard.threat.talk.3.1": {
+    "en": "My charge. My oath. My shame. I remember the scream better than the name.",
+    "zh": "我负责。我的誓言。我的耻辱。我记得尖叫声比名字更清楚。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grave_that_still_guards_1_the_dead_guard.threat.mercy.ambush_name": {
+    "en": "Oath-Called Dead",
+    "zh": "誓言死亡",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grave_that_still_guards_1_the_dead_guard.threat.mercy.line": {
+    "en": "You spared me. There is a road in my head, and a bell at the end of it. Walk with me. If I remember what I was, I may remember where my oath broke.",
+    "zh": "你饶了我。我的脑海里有一条路，路的尽头有一个钟声。和我一起走吧。如果我记得我是谁，我可能会记得我的誓言在哪里被打破。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grave_that_still_guards_1_the_dead_guard.threat.mercy.ambush_line": {
+    "en": "The tower road exhales frost. Dead hands rise from the old stones, drawn by the mercy you showed.",
+    "zh": "塔路呼霜。死人的手被你表现出的仁慈所吸引，从古老的石头上伸出来。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grave_that_still_guards_1_the_dead_guard.threat.mercy.nothing": {
+    "en": "The draugr watches the road in silence. Whatever memory stirred in it fades before it can become words.",
+    "zh": "尸鬼 静静地注视着道路。无论其中激起什么记忆，在成为文字之前都会消失。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grave_that_still_guards_2_beneath_the_bell.title": {
+    "en": "Beneath the Bell",
+    "zh": "钟声之下",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grave_that_still_guards_2_beneath_the_bell.summary": {
+    "en": "The spared draugr remembers a village bell and asks you to walk with him toward the place where his oath first broke.",
+    "zh": "幸免的 尸鬼 想起了村庄的钟声，并要求你和他一起走向他第一次违背誓言的地方。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grave_that_still_guards_2_beneath_the_bell.dialogue.intro": {
+    "en": "Svanir keeps his sword low. His gaze is fixed beyond the road, toward a bell only he seems to hear.",
+    "zh": "斯瓦尼尔将剑放低。他的目光凝视着路的另一边，凝视着似乎只有他能听见的铃声。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grave_that_still_guards_2_beneath_the_bell.dialogue.offer.0.0": {
+    "en": "You remember the village?",
+    "zh": "你还记得那个村庄吗？",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grave_that_still_guards_2_beneath_the_bell.dialogue.offer.0.1": {
+    "en": "Bell. Smoke. Snow against the door. A child holding my cloak because the dark had teeth.",
+    "zh": "贝尔。抽烟。雪抵着门。一个孩子抓着我的斗篷，因为黑暗有牙齿。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grave_that_still_guards_2_beneath_the_bell.dialogue.offer.1.0": {
+    "en": "The bell means something to you.",
+    "zh": "铃声对你来说意味着什么。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grave_that_still_guards_2_beneath_the_bell.dialogue.offer.1.1": {
+    "en": "She had a little bell tied to her braid. I told her it would help me find her if the snow grew thick.",
+    "zh": "她的辫子上系着一个小铃铛。我告诉她，如果雪变厚，我就能找到她。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grave_that_still_guards_2_beneath_the_bell.dialogue.offer.2.0": {
+    "en": "Did it?",
+    "zh": "是吗？",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grave_that_still_guards_2_beneath_the_bell.dialogue.offer.2.1": {
+    "en": "No. When the screaming began, I heard it behind me. I kept running anyway.",
+    "zh": "不。当尖叫声开始时，我听到了身后的声音。无论如何我还是继续跑。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grave_that_still_guards_2_beneath_the_bell.dialogue.offer.3.0": {
+    "en": "You want to go back there?",
+    "zh": "你想回去吗？",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grave_that_still_guards_2_beneath_the_bell.dialogue.offer.3.1": {
+    "en": "I need to hear the bell and not mistake it for her dying.",
+    "zh": "我需要听到铃声，而不是误以为她快死了。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grave_that_still_guards_2_beneath_the_bell.dialogue.offer.4.0": {
+    "en": "Then we go together.",
+    "zh": "那我们就一起去吧。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grave_that_still_guards_2_beneath_the_bell.dialogue.offer.4.1": {
+    "en": "If I falter, do not forgive me. If the dead come for me, do not let them take the village with them.",
+    "zh": "如果我犹豫不决，请不要原谅我。如果死者来找我，不要让他们带走村庄。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grave_that_still_guards_2_beneath_the_bell.dialogue.return": {
+    "en": "Svanir stands beneath the bell. He does not look at the dead around him. He looks at the villagers who are still alive.",
+    "zh": "斯瓦尼尔站在钟下。他不看周围的死者。他看着还活着的村民。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grave_that_still_guards_2_beneath_the_bell.dialogue.return_steps.0.0": {
+    "en": "The dead came for you.",
+    "zh": "死者来找你了。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grave_that_still_guards_2_beneath_the_bell.dialogue.return_steps.0.1": {
+    "en": "No. They came for the oath still wrapped around my bones.",
+    "zh": "不。他们是为了仍缠绕在我骨头上的誓言而来的。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grave_that_still_guards_2_beneath_the_bell.dialogue.return_steps.1.0": {
+    "en": "You held your ground this time.",
+    "zh": "这次你坚守阵地。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grave_that_still_guards_2_beneath_the_bell.dialogue.return_steps.1.1": {
+    "en": "I heard the bell and did not run. That is not redemption. But it is the first honest thing I have done in centuries.",
+    "zh": "我听到铃声但没有跑。那不是救赎。但这是我几个世纪以来所做的第一件诚实的事。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grave_that_still_guards_2_beneath_the_bell.dialogue.return_steps.2.0": {
+    "en": "Do you remember the child's name?",
+    "zh": "您还记得孩子的名字吗？",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grave_that_still_guards_2_beneath_the_bell.dialogue.return_steps.2.1": {
+    "en": "Alva. Her name was Alva. I had no right to forget it.",
+    "zh": "阿尔瓦。她的名字叫阿尔瓦。我没有权利忘记它。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grave_that_still_guards_2_beneath_the_bell.dialogue.return_steps.3.0": {
+    "en": "What now?",
+    "zh": "现在怎么办？",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grave_that_still_guards_2_beneath_the_bell.dialogue.return_steps.3.1": {
+    "en": "Now I find the thing that kept my shame useful.",
+    "zh": "现在我发现让我保持羞耻感的东西很有用。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grave_that_still_guards_2_beneath_the_bell.dialogue.reward": {
+    "en": "The villagers live, and Svanir remembers the name he buried under fear. But something still holds his oath from the Bastion.",
+    "zh": "村民们还活着，斯瓦尼尔还记得他因恐惧而埋葬的名字。但有些东西仍然保留着他在 堡垒 上的誓言。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grave_that_still_guards_2_beneath_the_bell.dialogue.done": {
+    "en": "The bell no longer sounds like a scream. Not always.",
+    "zh": "铃声听起来不再像尖叫声。并非总是如此。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grave_that_still_guards_2_beneath_the_bell.threats.0.name": {
+    "en": "Oath-Hunter Draugr",
+    "zh": "誓言猎人尸鬼",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grave_that_still_guards_2_beneath_the_bell.threats.0.target_line": {
+    "en": "A draugr steps from the dark, staring past you toward Svanir.",
+    "zh": "尸鬼 从黑暗中走出来，目光越过你，望向斯瓦尼尔。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grave_that_still_guards_2_beneath_the_bell.threats.1.name": {
+    "en": "Road-Caller Draugr",
+    "zh": "公路呼叫者 尸鬼",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grave_that_still_guards_2_beneath_the_bell.threats.1.target_line": {
+    "en": "Another corpse answers the old oath, dragging its axe through the village dirt.",
+    "zh": "另一具尸体回应了古老的誓言，拖着斧头穿过村庄的泥土。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grave_that_still_guards_2_beneath_the_bell.threats.2.name": {
+    "en": "Bell-Hating Draugr",
+    "zh": "讨厌贝尔 尸鬼",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grave_that_still_guards_2_beneath_the_bell.threats.2.target_line": {
+    "en": "A third draugr turns its skull toward the bell, hatred burning in its empty eyes.",
+    "zh": "第三个 尸鬼 将头骨转向钟声，空洞的双眼中燃烧着仇恨。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grave_that_still_guards_2_beneath_the_bell.threats.3.name": {
+    "en": "Frost-String Archer",
+    "zh": "霜弦弓箭手",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grave_that_still_guards_2_beneath_the_bell.threats.3.target_line": {
+    "en": "A draugr archer appears beyond the torchlight, bow already drawn toward the villagers.",
+    "zh": "一名 尸鬼 弓箭手出现在火炬光之外，弓箭已经拉向村民。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grave_that_still_guards_2_beneath_the_bell.threats.4.name": {
+    "en": "Grave-Road Archer",
+    "zh": "墓道弓箭手",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grave_that_still_guards_2_beneath_the_bell.threats.4.target_line": {
+    "en": "A second archer takes position farther out, using the village dark as cover.",
+    "zh": "第二名弓箭手占据更远的位置，利用村庄的黑暗作为掩护。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grave_that_still_guards_3_the_grave_that_would_not_rest.title": {
+    "en": "The Grave That Would Not Rest",
+    "zh": "不肯安息的坟墓",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grave_that_still_guards_3_the_grave_that_would_not_rest.summary": {
+    "en": "Walk with me to Alva's grave. I have carried my fear longer than I carried my shield, and I would set one of them down before I follow another road.",
+    "zh": "跟我一起去阿尔瓦的坟墓。我携带恐惧的时间比携带盾牌的时间还要长，在踏上另一条路之前，我会放下其中的一个。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grave_that_still_guards_3_the_grave_that_would_not_rest.dialogue.intro": {
+    "en": "Svanir stands beneath the village bell, one hand closed around a small rusted charm.",
+    "zh": "斯瓦尼尔站在村庄的钟下，一只手握着一个生锈的小符咒。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grave_that_still_guards_3_the_grave_that_would_not_rest.dialogue.offer.0.0": {
+    "en": "You remembered her name.",
+    "zh": "你记得她的名字。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grave_that_still_guards_3_the_grave_that_would_not_rest.dialogue.offer.0.1": {
+    "en": "Alva. I thought saying it would make the memory softer. It made it sharper.",
+    "zh": "阿尔瓦。我以为这样说会让记忆变得更柔和。它使它变得更加尖锐。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grave_that_still_guards_3_the_grave_that_would_not_rest.dialogue.offer.1.0": {
+    "en": "What do you need now?",
+    "zh": "您现在需要什么？",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grave_that_still_guards_3_the_grave_that_would_not_rest.dialogue.offer.1.1": {
+    "en": "Her grave. I remember where they buried her. Or where they said they did. I never went to see it.",
+    "zh": "她的坟墓。我记得他们埋葬她的地方。或者他们所说的地方。我从来没有去看过它。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grave_that_still_guards_3_the_grave_that_would_not_rest.dialogue.offer.2.0": {
+    "en": "Why not?",
+    "zh": "为什么不呢？",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grave_that_still_guards_3_the_grave_that_would_not_rest.dialogue.offer.2.1": {
+    "en": "Because a grave cannot be lied to. Villagers can. Priests can. Even the dead can, for a while. But stone remembers weight.",
+    "zh": "因为坟墓是无法欺骗的。村民可以。牧师可以。即使是死人也可以暂时。但石头会记住重量。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grave_that_still_guards_3_the_grave_that_would_not_rest.dialogue.offer.3.0": {
+    "en": "You want me to take you there?",
+    "zh": "你想让我带你去那里吗？",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grave_that_still_guards_3_the_grave_that_would_not_rest.dialogue.offer.3.1": {
+    "en": "Yes. If the old dead rise to judge me, let them. I have been running from children and corpses long enough.",
+    "zh": "是的。如果那些老死人起来评判我，就让他们来吧。我逃离孩子和尸体已经够久了。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grave_that_still_guards_3_the_grave_that_would_not_rest.dialogue.return": {
+    "en": "This is the place. I remember the stone. I remember refusing to look at it.",
+    "zh": "就是这个地方。我记得那块石头。我记得我拒绝看它。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grave_that_still_guards_3_the_grave_that_would_not_rest.dialogue.return_steps.0.0": {
+    "en": "The dead rose when you arrived.",
+    "zh": "当你到达时，死者复活了。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grave_that_still_guards_3_the_grave_that_would_not_rest.dialogue.return_steps.0.1": {
+    "en": "Good. Let them see me. Let them know I came back without excuses.",
+    "zh": "好。让他们看到我。让他们知道我回来了，没有任何借口。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grave_that_still_guards_3_the_grave_that_would_not_rest.dialogue.return_steps.1.0": {
+    "en": "Were they guarding her?",
+    "zh": "他们在看守她吗？",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grave_that_still_guards_3_the_grave_that_would_not_rest.dialogue.return_steps.1.1": {
+    "en": "No. They were guarding the truth I buried with her.",
+    "zh": "不。他们正在守护我与她一起埋葬的真相。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grave_that_still_guards_3_the_grave_that_would_not_rest.dialogue.return_steps.2.0": {
+    "en": "What would you tell Alva?",
+    "zh": "你会告诉阿尔瓦什么？",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grave_that_still_guards_3_the_grave_that_would_not_rest.dialogue.return_steps.2.1": {
+    "en": "That I ran. That I lived long enough to regret it. That death did not make me brave. Someone else had to do that.",
+    "zh": "我跑了。我活得足够长，足以后悔。那次死亡并没有让我变得勇敢。其他人必须这样做。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grave_that_still_guards_3_the_grave_that_would_not_rest.dialogue.return_steps.3.0": {
+    "en": "She was only a child.",
+    "zh": "她只是个孩子。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grave_that_still_guards_3_the_grave_that_would_not_rest.dialogue.return_steps.3.1": {
+    "en": "Yes. That is the part no oath can polish clean.",
+    "zh": "是的。那是任何誓言都无法擦干净的部分。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grave_that_still_guards_3_the_grave_that_would_not_rest.dialogue.return_steps.4.0": {
+    "en": "And now?",
+    "zh": "那么现在呢？",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grave_that_still_guards_3_the_grave_that_would_not_rest.dialogue.return_steps.4.1": {
+    "en": "Now I leave the bell here. If she hears anything of me, let it be this silence, not my excuses.",
+    "zh": "现在我把门铃留在这里。如果她听到了我的任何消息，那就是沉默，而不是我的借口。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grave_that_still_guards_3_the_grave_that_would_not_rest.dialogue.return_steps.5.0": {
+    "en": "What will you do after?",
+    "zh": "之后你会做什么？",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grave_that_still_guards_3_the_grave_that_would_not_rest.dialogue.return_steps.5.1": {
+    "en": "Walk. Guard. Stand when standing matters. If you will have me, I would rather carry my shame beside the living than bury it again with the dead.",
+    "zh": "步行。警卫。当站立很重要时站立。如果你愿意拥有我，我宁愿把我的耻辱带到生者身边，也不愿再和死者一起埋葬。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grave_that_still_guards_3_the_grave_that_would_not_rest.dialogue.reward": {
+    "en": "Svanir places the rusted bell on the grave and rises without looking away. His sword is no longer a chain. It is a choice.",
+    "zh": "斯瓦尼尔将生锈的钟放在坟墓上，然后起身，头也不回。他的剑不再是锁链。这是一个选择。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grave_that_still_guards_3_the_grave_that_would_not_rest.dialogue.done": {
+    "en": "Alva's grave is quiet. Svanir still hears the bell, but now it sounds like farewell.",
+    "zh": "阿尔瓦的坟墓很安静。斯瓦尼尔仍然听到铃声，但现在听起来像是告别。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grave_that_still_guards_3_the_grave_that_would_not_rest.threats.0.name": {
+    "en": "Grave-Witness Draugr",
+    "zh": "坟墓见证人 尸鬼",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grave_that_still_guards_3_the_grave_that_would_not_rest.threats.0.target_line": {
+    "en": "A draugr rises from the cold earth, not to defend treasure, but to stand witness.",
+    "zh": "尸鬼 从寒冷的大地中升起，不是为了保卫宝藏，而是为了见证。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grave_that_still_guards_3_the_grave_that_would_not_rest.threats.1.name": {
+    "en": "Oath-Witness Draugr",
+    "zh": "宣誓见证人 尸鬼",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grave_that_still_guards_3_the_grave_that_would_not_rest.threats.1.target_line": {
+    "en": "Another dead warrior turns toward Svanir, as if the grave itself has called for judgment.",
+    "zh": "另一名死去的战士转向斯瓦尼尔，仿佛坟墓本身正在接受审判。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grave_that_still_guards_3_the_grave_that_would_not_rest.threats.2.name": {
+    "en": "The Child's Last Witness",
+    "zh": "孩子的最后证人",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grave_that_still_guards_3_the_grave_that_would_not_rest.threats.2.target_line": {
+    "en": "A wight steps from beside the grave. Its empty face turns not to you, but to the dead guard who finally came back.",
+    "zh": "一个尸鬼从坟墓旁边走出来。它空洞的脸不是转向你，而是转向最后回来的死去的守卫。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grey_banner_1_the_fallen_wall.title": {
+    "en": "The Fallen Wall",
+    "zh": "倒塌的墙",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grey_banner_1_the_fallen_wall.summary": {
+    "en": "Go to the ruined wall and listen before you swing. If Harvald was a coward, end him. If the village lied, bring me something uglier than a clean story.",
+    "zh": "在挥杆之前，走到废墟墙边听听。如果哈佛是个胆小鬼，就消灭他。如果村子撒谎了，请给我带来比干净的故事更丑陋的东西。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grey_banner_1_the_fallen_wall.dialogue.return": {
+    "en": "So Harvald is dead for good. The wall can keep its secrets now.",
+    "zh": "所以哈瓦尔德已经永远死了。隔离墙现在可以保守秘密了。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grey_banner_1_the_fallen_wall.dialogue.reward": {
+    "en": "Take this. The village will sleep easier if no one asks what the dead were trying to say.",
+    "zh": "拿着这个。如果没有人询问死者想说什么，村子里的人就会睡得更安稳。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grey_banner_1_the_fallen_wall.dialogue.done": {
+    "en": "The fort is quiet. I prefer quiet ruins.",
+    "zh": "堡垒很安静。我更喜欢安静的废墟。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grey_banner_1_the_fallen_wall.threat.name": {
+    "en": "Harvald Grey-Banner",
+    "zh": "ZX哈瓦尔ZX",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grey_banner_1_the_fallen_wall.threat.offer_line": {
+    "en": "The old fort still has a dead captain in it. The village says he failed his watch. Go see if the corpse agrees.",
+    "zh": "旧堡垒里仍然有一位死去的船长。村里人说他没守表。去看看尸体是否同意。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grey_banner_1_the_fallen_wall.threat.target_line": {
+    "en": "The wight stands beneath a broken wall, one hand resting on a banner pole with no banner left.",
+    "zh": "尸鬼站在残破的墙下，一只手放在一根没有旗帜的旗杆上。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grey_banner_1_the_fallen_wall.threat.spared_line": {
+    "en": "You lower your weapon. Harvald looks past you, toward the village, as if waiting for a gate to open centuries too late.",
+    "zh": "你放下武器。哈瓦尔德的目光越过你，看向村庄，仿佛等待大门晚了几个世纪才打开。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grey_banner_1_the_fallen_wall.threat.post_spare_line": {
+    "en": "Then carry the truth. Not for me. For the wall. For the men whose names were buried under someone else's fear.",
+    "zh": "那么就说出真相吧。不适合我。为了墙。对于那些名字被埋藏在别人恐惧之下的人。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grey_banner_1_the_fallen_wall.threat.villager_spared_line": {
+    "en": "You spared him? Then you brought back more than a ghost. You brought back an accusation.",
+    "zh": "你饶了他？然后你带回来的不仅仅是一个鬼魂。你带回了指控。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grey_banner_1_the_fallen_wall.threat.attack_choice_label": {
+    "en": "Whatever the truth was, you are still a danger.",
+    "zh": "无论真相是什么，你仍然是一个危险。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grey_banner_1_the_fallen_wall.threat.spare_choice_label": {
+    "en": "The village should hear what happened here.",
+    "zh": "村里应该听到这里发生的事情。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grey_banner_1_the_fallen_wall.threat.attack_return_line": {
+    "en": "Then the fort is quiet. Good. Maybe some silences are worth more than old accusations.",
+    "zh": "然后堡垒就安静了。好的。也许一些沉默比旧的指责更有价值。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grey_banner_1_the_fallen_wall.threat.talk.0.0": {
+    "en": "Are you Harvald?",
+    "zh": "你是哈佛吗？",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grey_banner_1_the_fallen_wall.threat.talk.0.1": {
+    "en": "Harvald held the wall. Harvald watched the village gates close. Harvald died listening to the living pray he would stay blamed.",
+    "zh": "哈瓦尔德守住了墙。哈佛看着村门关闭。哈佛去世时，他听到了生者祈祷他不会受到指责。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grey_banner_1_the_fallen_wall.threat.talk.1.0": {
+    "en": "The village says you abandoned them.",
+    "zh": "村庄说你抛弃了他们。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grey_banner_1_the_fallen_wall.threat.talk.1.1": {
+    "en": "The living often give the dead clean names for dirty work. Coward. Traitor. Failure. Easier than saying 'we shut the gate.'",
+    "zh": "生者经常为死者的肮脏工作起干净的名字。懦夫。叛徒。失败。比说“我们关上大门”更容易。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grey_banner_1_the_fallen_wall.threat.talk.2.0": {
+    "en": "Why stay here?",
+    "zh": "为什么留在这里？",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grey_banner_1_the_fallen_wall.threat.talk.2.1": {
+    "en": "Because the banner fell before the truth did. I will not let both rot in the mud.",
+    "zh": "因为旗帜先于真相倒下。我不会让两者都烂在泥里。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grey_banner_1_the_fallen_wall.threat.talk.3.0": {
+    "en": "What do you want?",
+    "zh": "你想要什么？",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grey_banner_1_the_fallen_wall.threat.talk.3.1": {
+    "en": "Raise the grey banner where they can see it. Let the village remember who bled outside their walls.",
+    "zh": "在他们可以看到的地方举起 灰旗。让村庄记住谁在墙外流血。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grey_banner_1_the_fallen_wall.threat.mercy.ambush_name": {
+    "en": "Wall-Called Dead",
+    "zh": "墙唤死者",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grey_banner_1_the_fallen_wall.threat.mercy.line": {
+    "en": "Raise the banner. Let the wind say what the living would not.",
+    "zh": "举起旗帜。生者不愿说的话就让风说吧。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grey_banner_1_the_fallen_wall.threat.mercy.ambush_line": {
+    "en": "The broken wall groans. Dead hands rise where the old watch once stood.",
+    "zh": "破碎的墙壁发出呻吟声。死去的手在旧手表曾经矗立的地方升起。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grey_banner_1_the_fallen_wall.threat.mercy.nothing": {
+    "en": "Harvald turns back to the wall. The wind takes his words before they become a plea.",
+    "zh": "哈瓦尔德转身背向墙壁。在他的话语变成恳求之前，风就将其带走了。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grey_banner_2_burn_the_lie.title": {
+    "en": "Burn the Lie",
+    "zh": "烧毁谎言",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grey_banner_2_burn_the_lie.summary": {
+    "en": "Go back to the fort. Harvald is dead, but dead men leave names behind. Bring me the roll from the wall, and I will decide whether those names still need speaking.",
+    "zh": "返回堡垒。哈佛死了，但死者留下了名字。把墙上的卷轴拿给我，我会决定这些名字是否还需要说出。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grey_banner_2_burn_the_lie.dialogue.intro": {
+    "en": "The elder looks relieved, but not innocent.",
+    "zh": "长老看上去松了口气，但并不无辜。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grey_banner_2_burn_the_lie.dialogue.offer.0.0": {
+    "en": "Harvald is dead.",
+    "zh": "哈瓦尔德死了。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grey_banner_2_burn_the_lie.dialogue.offer.0.1": {
+    "en": "Then perhaps the road is safer.",
+    "zh": "那么也许道路更安全。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grey_banner_2_burn_the_lie.dialogue.offer.1.0": {
+    "en": "You do not sound convinced.",
+    "zh": "你听起来不太相信。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grey_banner_2_burn_the_lie.dialogue.offer.1.1": {
+    "en": "A dead man with a grievance is rarely ended by one more blade.",
+    "zh": "一个满怀怨恨的死者很少会被多一把刀片结束。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grey_banner_2_burn_the_lie.dialogue.offer.2.0": {
+    "en": "What do you want now?",
+    "zh": "你现在想要什么？",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grey_banner_2_burn_the_lie.dialogue.offer.2.1": {
+    "en": "The old fort kept a roll of names. Soldiers posted there, villagers sheltered behind them, debts no one paid. Find it.",
+    "zh": "古老的堡垒保存着一卷名字。士兵在那里驻扎，村民躲在他们身后，债务无人偿还。找到它。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grey_banner_2_burn_the_lie.dialogue.offer.3.0": {
+    "en": "You want proof.",
+    "zh": "你想要证据。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grey_banner_2_burn_the_lie.dialogue.offer.3.1": {
+    "en": "I want control of what proof survives.",
+    "zh": "我想要控制哪些证据得以保留。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grey_banner_2_burn_the_lie.dialogue.offer.4.0": {
+    "en": "That sounds like burying the truth.",
+    "zh": "这听起来像是掩埋真相。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grey_banner_2_burn_the_lie.dialogue.offer.4.1": {
+    "en": "Truth buried badly becomes a corpse. Truth buried well becomes peace.",
+    "zh": "真相被严重埋藏成尸体。埋藏得好的真相会变成和平。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grey_banner_2_burn_the_lie.dialogue.return": {
+    "en": "You found the roll. Give it here before someone younger and angrier learns how to read old ink.",
+    "zh": "你找到了卷轴。在更年轻、更愤怒的人学会如何阅读旧墨水之前，把它交给这里。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grey_banner_2_burn_the_lie.dialogue.return_steps.0.0": {
+    "en": "There were names on it.",
+    "zh": "上面有名字。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grey_banner_2_burn_the_lie.dialogue.return_steps.0.1": {
+    "en": "Names are dangerous. They turn dead men into fathers, brothers, sons. Easier to mourn a wall than the people left on it.",
+    "zh": "名字是危险的。他们把死人变成父亲、兄弟、儿子。哀悼一堵墙比哀悼留在上面的人更容易。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grey_banner_2_burn_the_lie.dialogue.return_steps.1.0": {
+    "en": "The village abandoned them.",
+    "zh": "村庄抛弃了他们。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grey_banner_2_burn_the_lie.dialogue.return_steps.1.1": {
+    "en": "The village survived them.",
+    "zh": "村庄幸存下来。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grey_banner_2_burn_the_lie.dialogue.return_steps.2.0": {
+    "en": "That is not the same thing.",
+    "zh": "这不是同一件事。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grey_banner_2_burn_the_lie.dialogue.return_steps.2.1": {
+    "en": "No. It is merely the version that still has children running in the streets.",
+    "zh": "不。这只是仍然有孩子在街上奔跑的版本。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grey_banner_2_burn_the_lie.dialogue.return_steps.3.0": {
+    "en": "What will you do with the roll?",
+    "zh": "您将如何处理卷轴？",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grey_banner_2_burn_the_lie.dialogue.return_steps.3.1": {
+    "en": "Hide it where grief cannot turn it into a weapon.",
+    "zh": "将其隐藏在悲伤无法将其变成武器的地方。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grey_banner_2_burn_the_lie.dialogue.reward": {
+    "en": "Take this. Harvald is dead, the roll is buried, and the village keeps its old lie. It is ugly, but it will hold.",
+    "zh": "拿着这个。哈佛死了，卷轴被埋葬了，村庄仍保留着它的旧谎言。它很丑陋，但它会保留。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grey_banner_2_burn_the_lie.dialogue.done": {
+    "en": "The roll is gone. The fort still stands, but now it has no names left to shout.",
+    "zh": "卷筒不见了。堡垒仍然矗立，但现在它已经没有名字可以喊叫了。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grey_banner_2_burn_the_lie.goals.0.name": {
+    "en": "Muster Roll of the Fallen Wall",
+    "zh": "倒塌之墙的集结卷",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grey_banner_2_burn_the_lie.threats.0.name": {
+    "en": "Name-Bound Draugr",
+    "zh": "名称绑定 尸鬼",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grey_banner_2_burn_the_lie.threats.0.target_line": {
+    "en": "A dead soldier rises as the roll leaves the wall, as if his name was the last nail holding him down.",
+    "zh": "当卷离开墙壁时，一名死去的士兵站了起来，仿佛他的名字是压倒他的最后一根钉子。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grey_banner_2_burn_the_lie.threats.1.name": {
+    "en": "Gate-Denied Draugr",
+    "zh": "拒绝登机 尸鬼",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grey_banner_2_burn_the_lie.threats.1.target_line": {
+    "en": "Another corpse claws from the mud, staring toward the road where help never came.",
+    "zh": "另一具尸体从泥土中伸出爪子，凝视着从未有过救援的道路。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grey_banner_2_burn_the_lie.threats.2.name": {
+    "en": "The Roll-Keeper",
+    "zh": "卷筒保持器",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grey_banner_2_burn_the_lie.threats.2.target_line": {
+    "en": "A wight rises beside the broken records, guarding names the village would rather lose.",
+    "zh": "一个尸鬼在破碎的记录旁边升起，守护着村庄宁愿失去的名字。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grey_banner_2_raise_the_truth.title": {
+    "en": "Raise the Truth",
+    "zh": "提出真相",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grey_banner_2_raise_the_truth.summary": {
+    "en": "Raise the grey banner where the village can see it. I do not ask for forgiveness, only for the wind to carry what their gates buried.",
+    "zh": "在村庄可以看到的地方升起 灰旗。我不求宽恕，只求风能带走他们的城门埋葬的东西。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grey_banner_2_raise_the_truth.dialogue.intro": {
+    "en": "Harvald points his broken sword toward the highest stone of the ruined fort.",
+    "zh": "哈瓦尔德将断剑指向废墟堡垒中最高的石头。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grey_banner_2_raise_the_truth.dialogue.offer.0.0": {
+    "en": "You want the banner raised?",
+    "zh": "您想要升起横幅吗？",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grey_banner_2_raise_the_truth.dialogue.offer.0.1": {
+    "en": "Not for pride. Pride died first. Raise it so the village remembers who they left outside the gate.",
+    "zh": "不是为了骄傲。骄傲先死。举起它，让村庄记住他们把谁留在门外。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grey_banner_2_raise_the_truth.dialogue.offer.1.0": {
+    "en": "They may hate the truth.",
+    "zh": "他们可能讨厌真相。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grey_banner_2_raise_the_truth.dialogue.offer.1.1": {
+    "en": "Truth is not a guest. It does not ask to be welcomed.",
+    "zh": "真理不是客人。它不要求受到欢迎。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grey_banner_2_raise_the_truth.dialogue.offer.2.0": {
+    "en": "And if they tear it down?",
+    "zh": "如果他们把它拆掉呢？",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grey_banner_2_raise_the_truth.dialogue.offer.2.1": {
+    "en": "Then they will have to touch it first. That is more than they did for us.",
+    "zh": "那么他们必须先触摸它。这比他们为我们做的还要多。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grey_banner_2_raise_the_truth.dialogue.return": {
+    "en": "The banner stands. I feel the wind through bones that should not feel anything.",
+    "zh": "横幅竖立。我感觉到风穿过骨头，本不应该有任何感觉。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grey_banner_2_raise_the_truth.dialogue.return_steps.0.0": {
+    "en": "It is done.",
+    "zh": "完成了。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grey_banner_2_raise_the_truth.dialogue.return_steps.0.1": {
+    "en": "No. It has begun. A lie buried this long does not stay quiet because cloth touched air.",
+    "zh": "不，已经开始了。埋藏这么久的谎言不会因为布料接触到空气而保持安静。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grey_banner_2_raise_the_truth.dialogue.return_steps.1.0": {
+    "en": "What happens now?",
+    "zh": "现在会发生什么？",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grey_banner_2_raise_the_truth.dialogue.return_steps.1.1": {
+    "en": "The dead will answer. The living will deny hearing them.",
+    "zh": "死者会回答。活着的人会否认听到他们的声音。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grey_banner_2_raise_the_truth.dialogue.reward": {
+    "en": "Tell them. Or do not. The wall has spoken now.",
+    "zh": "告诉他们。或者不这样做。现在墙已经说话了。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grey_banner_2_raise_the_truth.dialogue.done": {
+    "en": "The grey banner still moves in the wind. The village pretends not to look.",
+    "zh": "灰旗 仍然在风中移动。村里假装没看见。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grey_banner_3_the_wall_answered_truth.title": {
+    "en": "The Wall Answered",
+    "zh": "墙的回应",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grey_banner_3_the_wall_answered_truth.summary": {
+    "en": "The banner is raised, and now the dead stand at the edge of the fields. If truth called them home, help us survive its answer.",
+    "zh": "旗帜升起，现在死者站在田野边。如果真理呼唤他们回家，请帮助我们度过它的答案。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grey_banner_3_the_wall_answered_truth.dialogue.intro": {
+    "en": "The villagers have gathered beneath the bell. No one admits to seeing the banner, but everyone has.",
+    "zh": "村民们聚集在钟声下。没有人承认看到了横幅，但每个人都看到过。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grey_banner_3_the_wall_answered_truth.dialogue.offer.0.0": {
+    "en": "The village knows.",
+    "zh": "村里都知道。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grey_banner_3_the_wall_answered_truth.dialogue.offer.0.1": {
+    "en": "The village suspects. That is worse. Suspicion lets every coward choose his own version.",
+    "zh": "村里的嫌疑人。那就更糟了。怀疑让每个胆小鬼都选择了自己的版本。",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grey_banner_3_the_wall_answered_truth.dialogue.offer.1.0": {
+    "en": "What happened last night?",
+    "zh": "昨晚发生了什么？",
+    "vi": null
+  },
+  "quest.mebahelrpgrquest.grey_banner_3_the_wall_answered_truth.dialogue.offer.1.1": {
+    "en": "Dead men stood beyond the fields and did not attack. They simply watched the gate.",
+    "zh": "死者站在田野之外，没有攻击。他们只是看着大门。",
+    "vi": null
+  }
+}

@@ -1,0 +1,36 @@
+{
+    "replace": false,
+    "values": [
+        "minecraft:jungle",
+        "minecraft:bamboo_jungle",
+        "minecraft:sparse_jungle",
+        "minecraft:old_growth_spruce_taiga",
+        "minecraft:old_growth_pine_taiga",
+        "minecraft:dark_forest",
+        "minecraft:forest",
+"biomeswevegone:black_forest",
+"biomeswevegone:cika_woods",
+"biomeswevegone:temperate_grove",
+      "regions_unexplored:temperate_grove",
+        {
+            "id": "terralith:rocky_jungle",
+            "required": false
+        },
+        {
+            "id": "terralith:amethyst_rainforest",
+            "required": false
+        },
+        {
+            "id": "regions_unexplored:sparse_rainforest",
+            "required": false
+        },
+        {
+            "id": "regions_unexplored:sparse_redwoods",
+            "required": false
+        },
+        {
+            "id": "#c:is_jungle",
+            "required": false
+        }
+    ]
+}

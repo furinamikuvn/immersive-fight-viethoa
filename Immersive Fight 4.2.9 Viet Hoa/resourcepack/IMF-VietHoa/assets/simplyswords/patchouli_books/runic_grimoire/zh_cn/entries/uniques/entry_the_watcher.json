@@ -1,0 +1,17 @@
+{
+  "name": "The Watcher (Thủ Vọng Khoát Kiếm)",
+  "icon": "simplyswords:watcher_claymore",
+  "advancement": "simplyswords:the_watcher",
+  "category": "simplyswords:category_unique_weapons",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:watcher_claymore",
+      "text": "Đại kiếm kỳ dị với con mắt ma quái chớp nháy trên chuôi, nguồn cội của sức mạnh bóng tối nuốt chửng ánh sáng."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Khả năng đặc biệt có thể hạ gục kẻ địch trong chớp mắt khi đối thủ suy yếu, chỉ chiến binh có ý chí sắt đá mới thuần phục được."
+    }
+  ]
+}

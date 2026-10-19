@@ -1,0 +1,26 @@
+{
+	"step_height": {
+		"definition": "step_height+0.4625",
+		"x": 0,
+		"y": 0,
+		"root": false
+	},
+	"1_fortune+0.1": {
+		"definition": "fortune+0.1",
+		"x": 0,
+		"y": 32,
+		"root": false
+	},
+	"resistance_100": {
+		"definition": "resistance+100",
+		"x": 0,
+		"y": 64,
+		"root": false
+	},
+	"3_fortune+0.1": {
+		"definition": "fortune+0.1",
+		"x": 0,
+		"y": 96,
+		"root": false
+	}
+}

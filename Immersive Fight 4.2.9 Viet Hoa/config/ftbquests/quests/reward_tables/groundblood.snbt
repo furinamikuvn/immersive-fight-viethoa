@@ -1,0 +1,43 @@
+{
+	icon: {
+		Count: 1
+		id: "born_in_chaos_v1:potion_of_rampage"
+		tag: {
+			Damage: 0
+		}
+	}
+	id: "73379733D511D04B"
+	loot_size: 1
+	order_index: 13
+	rewards: [
+		{
+			command: "/epicgoop ground off"
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "minecraft:red_concrete"
+			}
+			title: "Tắt Vết Máu Dưới Đất"
+			type: "command"
+		}
+		{
+			command: "/epicgoop ground on"
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "minecraft:lime_concrete"
+			}
+			title: "Bật Vết Máu Dưới Đất"
+			type: "command"
+		}
+	]
+	title: "Hiệu Ứng Vết Máu Dưới Đất"
+}

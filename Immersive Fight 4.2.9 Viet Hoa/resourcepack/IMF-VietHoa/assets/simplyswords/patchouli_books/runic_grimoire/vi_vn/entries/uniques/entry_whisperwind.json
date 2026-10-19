@@ -1,0 +1,13 @@
+{
+  "name": "Whisperwind (Phong Chi Đê Ngữ)",
+  "icon": "simplyswords:whisperwind",
+  "advancement": "simplyswords:whisperwind",
+  "category": "simplyswords:category_unique_weapons",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:whisperwind",
+      "text": "Thanh kiếm lướt như cơn gió thoảng, tấn công thính giác và cảm quan khiến đối thủ lạc lối."
+    }
+  ]
+}

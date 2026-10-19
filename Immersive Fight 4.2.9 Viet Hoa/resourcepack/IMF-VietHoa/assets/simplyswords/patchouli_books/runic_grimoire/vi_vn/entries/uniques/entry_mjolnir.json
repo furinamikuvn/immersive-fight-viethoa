@@ -1,0 +1,17 @@
+{
+  "name": "Mjolnir (Lôi Thần Chi Chùy)",
+  "icon": "simplyswords:mjolnir",
+  "advancement": "simplyswords:mjolnir",
+  "category": "simplyswords:category_unique_weapons",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:mjolnir",
+      "text": "Chiến chùy huyền thoại do người lùn Brokkr và Eitri rèn tặng Lôi Thần Thor. Uy lực kinh người, khi chiến binh được chọn vung lên, một đòn có thể san phẳng cả ngọn núi."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Khi ném đi sẽ tự động quay về tay chủ nhân. Trong ngày mưa có thể triệu hồi sấm sét hoặc giải phóng bão lôi cuồng nộ."
+    }
+  ]
+}

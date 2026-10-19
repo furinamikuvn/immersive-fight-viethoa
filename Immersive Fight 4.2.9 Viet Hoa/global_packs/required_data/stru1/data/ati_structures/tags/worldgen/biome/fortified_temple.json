@@ -1,0 +1,23 @@
+{
+    "replace": false,
+    "values": [
+        "minecraft:dark_forest",
+        "minecraft:old_growth_birch_forest",
+        "minecraft:windswept_forest",
+        "minecraft:taiga",
+        "minecraft:jungle",
+        "minecraft:bamboo_jungle",
+        "minecraft:plains",
+        "minecraft:forest",
+        "minecraft:meadow",
+
+  "regions_unexplored:rainforest",
+  "regions_unexplored:sparse_rainforest",
+  "regions_unexplored:bamboo_forest",
+ "regions_unexplored:cold_boreal_taiga",
+  "regions_unexplored:boreal_taiga",
+  "regions_unexplored:sparse_redwoods",
+        "minecraft:badlands",
+      "regions_unexplored:temperate_grove"
+    ]
+}

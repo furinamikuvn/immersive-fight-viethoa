@@ -1,0 +1,217 @@
+{
+  "item.takesapillage.archer_spawn_egg": {
+    "en": "Archer Spawn Egg",
+    "zh": "远弓手刷怪蛋",
+    "vi": null
+  },
+  "item.takesapillage.skirmisher_spawn_egg": {
+    "en": "Skirmisher Spawn Egg",
+    "zh": "突击手刷怪蛋",
+    "vi": null
+  },
+  "item.takesapillage.legioner_spawn_egg": {
+    "en": "Legioner Spawn Egg",
+    "zh": "重装军刷怪蛋",
+    "vi": null
+  },
+  "item.takesapillage.ravager_horn": {
+    "en": "Ravager Horn",
+    "zh": "劫掠兽兽角",
+    "vi": null
+  },
+  "item.takesapillage.bastille_blues_music_disc": {
+    "en": "Music Disc",
+    "zh": "音乐唱片",
+    "vi": null
+  },
+  "item.takesapillage.bastille_blues_music_disc.desc": {
+    "en": "izofar - Bastille Blues",
+    "zh": "izofar - Bastille Blues",
+    "vi": null
+  },
+  "entity.takesapillage.clay_golem": {
+    "en": "Clay Golem",
+    "zh": "黏土傀儡",
+    "vi": null
+  },
+  "entity.takesapillage.archer": {
+    "en": "Archer",
+    "zh": "远弓手",
+    "vi": null
+  },
+  "entity.takesapillage.skirmisher": {
+    "en": "Skirmisher",
+    "zh": "突袭者",
+    "vi": null
+  },
+  "entity.takesapillage.legioner": {
+    "en": "Legioner",
+    "zh": "重装军",
+    "vi": null
+  },
+  "subtitle.takesapillage.entity.clay_golem.attack": {
+    "en": "Clay Golem attacks",
+    "zh": "黏土傀儡：攻击",
+    "vi": null
+  },
+  "subtitle.takesapillage.entity.clay_golem.damage": {
+    "en": "Clay Golem breaks",
+    "zh": "黏土傀儡：受损",
+    "vi": null
+  },
+  "subtitle.takesapillage.entity.clay_golem.death": {
+    "en": "Clay Golem dies",
+    "zh": "黏土傀儡：死亡",
+    "vi": null
+  },
+  "subtitle.takesapillage.entity.clay_golem.hurt": {
+    "en": "Clay Golem hurts",
+    "zh": "黏土傀儡：受伤",
+    "vi": null
+  },
+  "subtitle.takesapillage.entity.clay_golem.repair": {
+    "en": "Clay Golem repairred",
+    "zh": "黏土傀儡：修复",
+    "vi": null
+  },
+  "subtitle.takesapillage.entity.clay_golem.step": {
+    "en": "Clay Golem steps",
+    "zh": "黏土傀儡：脚步声",
+    "vi": null
+  },
+  "subtitle.takesapillage.entity.legioner.ambient": {
+    "en": "Legioner murmurs",
+    "zh": "重装军：低语",
+    "vi": null
+  },
+  "subtitle.takesapillage.entity.legioner.celebrate": {
+    "en": "Legioner celebrates",
+    "zh": "重装军：欢呼",
+    "vi": null
+  },
+  "subtitle.takesapillage.entity.legioner.death": {
+    "en": "Legioner dies",
+    "zh": "重装军：死亡",
+    "vi": null
+  },
+  "subtitle.takesapillage.entity.legioner.hurt": {
+    "en": "Legioner hurts",
+    "zh": "重装军：受伤",
+    "vi": null
+  },
+  "advancements.takesapillage.root.title": {
+    "en": "It Takes A Pillage",
+    "zh": "集群氓之力",
+    "vi": null
+  },
+  "advancements.takesapillage.root.description": {
+    "en": "Explore the Overworld for New Structures!",
+    "zh": "在主世界探索新结构吧！",
+    "vi": null
+  },
+  "advancements.takesapillage.bastille.title": {
+    "en": "Eh-eh-oh, eh-oh",
+    "zh": "Eh-eh-oh, eh-oh",
+    "vi": null
+  },
+  "advancements.takesapillage.bastille.description": {
+    "en": "Locate a Bastille",
+    "zh": "发现一座巴士底堡",
+    "vi": null
+  },
+  "advancements.takesapillage.pillager_camp.title": {
+    "en": "Campfire Song Song",
+    "zh": "篝火之歌",
+    "vi": null
+  },
+  "advancements.takesapillage.pillager_camp.description": {
+    "en": "Locate a Pillager Camp",
+    "zh": "发现一处掠夺者营寨",
+    "vi": null
+  },
+  "death.attack.clay_golem": {
+    "en": "%1$s was pummeled by %2$s",
+    "zh": "%1$s被%2$s打死了",
+    "vi": null
+  },
+  "death.attack.clay_golem.item": {
+    "en": "%1$s was pummeled %2$s using %3$s",
+    "zh": "%1$s被%2$s用%3$s打死了",
+    "vi": null
+  },
+  "death.attack.archer": {
+    "en": "%1$s was sniped by %2$s",
+    "zh": "%1$s被%2$s狙杀了",
+    "vi": null
+  },
+  "death.attack.archer.item": {
+    "en": "%1$s was sniped %2$s using %3$s",
+    "zh": "%1$s被%2$s用%3$s狙杀了",
+    "vi": null
+  },
+  "death.attack.skirmisher": {
+    "en": "%1$s was chopped to bits by %2$s",
+    "zh": "%1$s被%2$s砍成了碎片",
+    "vi": null
+  },
+  "death.attack.skirmisher.item": {
+    "en": "%1$s was chopped to bits by %2$s while wielding %3$s",
+    "zh": "%1$s被%2$s用%3$s砍成了碎片",
+    "vi": null
+  },
+  "death.attack.legioner": {
+    "en": "%1$s was struck down by %2$s",
+    "zh": "%1$s被%2$s击杀了",
+    "vi": null
+  },
+  "death.attack.legioner.item": {
+    "en": "%1$s was struck down by %2$s while wielding %3$s",
+    "zh": "%1$s被%2$s用%3$s击杀了",
+    "vi": null
+  },
+  "takesapillage.configGui.title": {
+    "en": "It Takes a Pillage - Config",
+    "zh": "It Takes a Pillage - Config",
+    "vi": null
+  },
+  "takesapillage.configGui.replaceIronGolems.title": {
+    "en": "Clay Golem Spawns",
+    "zh": "Clay Golem Spawns",
+    "vi": null
+  },
+  "takesapillage.configGui.peacefulGolemRate.title": {
+    "en": "Peaceful Difficulty Clay Golem Replacement",
+    "zh": "Peaceful Difficulty Clay Golem Replacement",
+    "vi": null
+  },
+  "takesapillage.configGui.easyGolemRate.title": {
+    "en": "Easy Difficulty Clay Golem Replacement",
+    "zh": "Easy Difficulty Clay Golem Replacement",
+    "vi": null
+  },
+  "takesapillage.configGui.normalGolemRate.title": {
+    "en": "Normal Difficulty Clay Golem Replacement",
+    "zh": "Normal Difficulty Clay Golem Replacement",
+    "vi": null
+  },
+  "takesapillage.configGui.hardGolemRate.title": {
+    "en": "Hard Difficulty Clay Golem Replacement",
+    "zh": "Hard Difficulty Clay Golem Replacement",
+    "vi": null
+  },
+  "takesapillage.configGui.removeBadOmen.title": {
+    "en": "Milk Removes Bad Omen",
+    "zh": "Milk Removes Bad Omen",
+    "vi": null
+  },
+  "takesapillage.configGui.pillageSiegesOccur.title": {
+    "en": "Pillage Sieges",
+    "zh": "Pillage Sieges",
+    "vi": null
+  },
+  "instrument.takesapillage.raid_horn": {
+    "en": "Raid Horn",
+    "zh": "Raid Horn",
+    "vi": null
+  }
+}

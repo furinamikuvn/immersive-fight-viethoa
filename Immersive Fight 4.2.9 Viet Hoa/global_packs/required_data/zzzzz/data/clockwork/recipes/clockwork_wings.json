@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "G G",
+    "IEI",
+    " L "
+  ],
+  "key": {
+    "I": {
+      "item": "minecraft:gold_ingot"
+    },
+    "L": {
+      "item": "mofus_better_end_:weird_mechanical_core"
+    },
+    "E": {
+      "item": "minecraft:elytra"
+    },
+    "G": {
+      "item": "clockwork:clockwork_gear"
+    }
+  },
+  "result": {
+    "item": "clockwork:clockwork_wings",
+    "count": 1
+  }
+}

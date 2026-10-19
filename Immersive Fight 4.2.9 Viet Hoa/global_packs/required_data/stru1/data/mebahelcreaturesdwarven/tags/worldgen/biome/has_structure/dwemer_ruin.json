@@ -1,0 +1,33 @@
+{
+  "replace": false,
+  "values": [
+    "#c:plains",
+    "#c:forest",
+    "#c:taiga",
+    "#c:savanna",
+    "#c:jungle",
+
+    "minecraft:plains",
+    "minecraft:sunflower_plains",
+    "minecraft:forest",
+    "minecraft:birch_forest",
+    "minecraft:dark_forest",
+    "minecraft:taiga",
+    "minecraft:snowy_taiga",
+    "minecraft:old_growth_pine_taiga",
+    "minecraft:old_growth_spruce_taiga",
+"regions_unexplored:icy_heights",
+"regions_unexplored:frozen_pine_taiga",
+"regions_unexplored:shrubland",
+    "regions_unexplored:grassland",
+    { "id": "terralith:temperate_valley", "required": false },
+    { "id": "terralith:orchard", "required": false },
+    { "id": "terralith:wintry_lowlands", "required": false },
+    { "id": "terralith:wintry_forest", "required": false },
+    { "id": "terralith:siberian_taiga", "required": false },
+    { "id": "terralith:siberian_grove", "required": false },
+    { "id": "terralith:shield_clearing", "required": false },
+    { "id": "terralith:moonlight_grove", "required": false },
+    { "id": "terralith:moonlight_valley", "required": false }
+  ]
+}

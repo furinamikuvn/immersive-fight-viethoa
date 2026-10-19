@@ -1,0 +1,38 @@
+#Giá trị nút tìm kiếm UI Lưu Trữ (Đừng sửa thủ công trừ khi bạn biết rõ)
+#Allowed Values: ENABLED, DISABLED, SORT_DEFAULT, SORT_CREATIVE_TAB, SORT_MAX_STACK, SORT_QUANTITY, SORT_NAME, SORT_MODID, SORT_INSERTED_TIME, SORT_MODIFIED_TIME
+ui_sort_button = "SORT_NAME"
+#Giá trị nút tìm kiếm UI Lưu Trữ (Đừng sửa thủ công trừ khi bạn biết rõ)
+#Allowed Values: ENABLED, DISABLED, SORT_DEFAULT, SORT_CREATIVE_TAB, SORT_MAX_STACK, SORT_QUANTITY, SORT_NAME, SORT_MODID, SORT_INSERTED_TIME, SORT_MODIFIED_TIME
+ui_second_sort_button = "SORT_INSERTED_TIME"
+#Giá trị nút đảo thứ tự UI Lưu Trữ (Đừng sửa thủ công trừ khi bạn biết rõ)
+#Allowed Values: ENABLED, DISABLED, SORT_DEFAULT, SORT_CREATIVE_TAB, SORT_MAX_STACK, SORT_QUANTITY, SORT_NAME, SORT_MODID, SORT_INSERTED_TIME, SORT_MODIFIED_TIME
+ui_reverse_button = "DISABLED"
+#Giá trị nút tìm kiếm UI Lưu Trữ (Đừng sửa thủ công trừ khi bạn biết rõ)
+#Allowed Values: ENABLED, DISABLED, SORT_DEFAULT, SORT_CREATIVE_TAB, SORT_MAX_STACK, SORT_QUANTITY, SORT_NAME, SORT_MODID, SORT_INSERTED_TIME, SORT_MODIFIED_TIME
+ui_search_button = "DISABLED"
+#Quyết định khi mở menu có hiển thị ô chế tạo hay không
+#Allowed Values: ENABLED, DISABLED, SORT_DEFAULT, SORT_CREATIVE_TAB, SORT_MAX_STACK, SORT_QUANTITY, SORT_NAME, SORT_MODID, SORT_INSERTED_TIME, SORT_MODIFIED_TIME
+ui_craft_button = "DISABLED"
+#Quyết định hướng ưu tiên chuyển vật phẩm khi đóng menu chế tạo; Bật: ưu tiên vào Lưu Trữ, Tắt: ưu tiên vào Ba Lô
+#Allowed Values: ENABLED, DISABLED, SORT_DEFAULT, SORT_CREATIVE_TAB, SORT_MAX_STACK, SORT_QUANTITY, SORT_NAME, SORT_MODID, SORT_INSERTED_TIME, SORT_MODIFIED_TIME
+ui_craft_return_button = "DISABLED"
+#Tổng số trang hiển thị hiện tại của UI Lưu Trữ (Đừng sửa thủ công trừ khi bạn biết rõ)
+#Range: 2 ~ 99
+ui_page_num = 5
+#Nội dung ô tìm kiếm UI Lưu Trữ (Đừng sửa thủ công trừ khi bạn biết rõ)
+ui_search = ""
+#Có đồng bộ tìm kiếm với JEI hoặc EMI hay không
+search_text_with_jei_emi = true
+#Cho phép EMI lấy toàn bộ thông tin vật phẩm trong mạng lưới chiều không gian hay không
+emi_allow_network_storage_info = false
+#Cho phép giao diện mạng đưa tài nguyên vào mạng lưới hay không
+interface_can_receive_resource = true
+#Cho phép giao diện mạng rút tài nguyên được đánh dấu từ mạng lưới hay không
+interface_can_output_resource = true
+#Cho phép giao diện mạng đẩy vật phẩm vào thùng chứa gần đó hay không
+interface_can_pop_resource = true
+#Giao diện mạng có bao nhiêu ô thực sự khả dụng?
+#Lưu ý: Chỉ sử dụng khi thực sự cần thiết, các bản cập nhật sau sẽ thay thế bằng giải pháp khác.
+#Range: 1 ~ 27
+interface_usable_capacity = 27
+

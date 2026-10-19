@@ -1,0 +1,677 @@
+{
+  "item.modifiers.both_hands": {
+    "en": "When Held:",
+    "zh": "在任意手时：",
+    "vi": "When Held:"
+  },
+  "attributeslib.adv.base": {
+    "en": "[Entity: %s | Item: %s]",
+    "zh": "[实体：%s | 物品：%s]",
+    "vi": "[Thực thể: %s | Vật phẩm: %s]"
+  },
+  "attributeslib.adv.sharpness_bonus": {
+    "en": "[Sharp: +%s]",
+    "zh": "[锋利：+%s]",
+    "vi": "[Sắc nét: +%s]"
+  },
+  "attributeslib.value.flat": {
+    "en": "%s",
+    "zh": "%s",
+    "vi": "%s"
+  },
+  "attributeslib.value.percent": {
+    "en": "%s%%",
+    "zh": "%s%%",
+    "vi": "%s%%"
+  },
+  "attributeslib.value.boolean.enabled": {
+    "en": "Enabled",
+    "zh": "已启用",
+    "vi": "Đã bật"
+  },
+  "attributeslib.value.boolean.disabled": {
+    "en": "Disabled",
+    "zh": "已禁用",
+    "vi": "Tàn tật"
+  },
+  "attributeslib.value.boolean.enable": {
+    "en": "Enables",
+    "zh": "启用",
+    "vi": "cho phép"
+  },
+  "attributeslib.value.boolean.force_disable": {
+    "en": "Forcibly Disables",
+    "zh": "强制禁用",
+    "vi": "Buộc vô hiệu hóa"
+  },
+  "attributeslib.value.boolean.invalid": {
+    "en": "Invalid",
+    "zh": "无效",
+    "vi": "không hợp lệ"
+  },
+  "attributeslib.modifier.plus": {
+    "en": "+%s %s",
+    "zh": "+%s %s",
+    "vi": "+%s %s"
+  },
+  "attributeslib.modifier.take": {
+    "en": "-%s %s",
+    "zh": "-%s %s",
+    "vi": "-%s %s"
+  },
+  "attributeslib.modifier.bool": {
+    "en": "%s %s",
+    "zh": "%s %s",
+    "vi": "%s %s"
+  },
+  "attributeslib.gui.attributes": {
+    "en": "Attributes",
+    "zh": "玩家属性",
+    "vi": "Thuộc tính người chơi"
+  },
+  "attributeslib.gui.base": {
+    "en": "Base: %s",
+    "zh": "基础值：%s",
+    "vi": "Giá trị cơ bản: %s"
+  },
+  "attributeslib.gui.min": {
+    "en": "Min: %s",
+    "zh": "最小值：%s",
+    "vi": "Giá trị tối thiểu: %s"
+  },
+  "attributeslib.gui.max": {
+    "en": "Max: %s",
+    "zh": "最大值：%s",
+    "vi": "Giá trị tối đa: %s"
+  },
+  "attributeslib.gui.modifiers": {
+    "en": "Modifiers",
+    "zh": "加成列表",
+    "vi": "Danh sách tiền thưởng"
+  },
+  "attributeslib.gui.addition": {
+    "en": "Addition: %s",
+    "zh": "增加：%s",
+    "vi": "Đã thêm: %s"
+  },
+  "attributeslib.gui.multiply_base": {
+    "en": "Multiply Base: %s",
+    "zh": "基础乘数: %s",
+    "vi": "Hệ số cơ bản: %s"
+  },
+  "attributeslib.gui.multiply_total": {
+    "en": "Multiply Total: %s",
+    "zh": "总乘数: %s",
+    "vi": "Tổng số nhân: %s"
+  },
+  "attributeslib.gui.press_shift": {
+    "en": "Hold Shift for more info.",
+    "zh": "按住Shift查看更多信息。",
+    "vi": "Giữ phím Shift để xem thêm thông tin."
+  },
+  "attributeslib.gui.current": {
+    "en": "Current: %s",
+    "zh": "当前：%s",
+    "vi": "Hiện tại:%s"
+  },
+  "attributeslib.gui.show_attributes": {
+    "en": "Show Attributes",
+    "zh": "显示属性",
+    "vi": "thuộc tính hiển thị"
+  },
+  "attribute.name.generic.armor.desc": {
+    "en": "Increases physical damage reduction.",
+    "zh": "增加物理伤害减免",
+    "vi": "Tăng khả năng giảm sát thương vật lý"
+  },
+  "attribute.name.generic.armor_toughness.desc": {
+    "en": "Reduces the effectiveness of enemy armor reduction.",
+    "zh": "减少高额攻击的伤害",
+    "vi": "Giảm sát thương từ các đòn tấn công có giá trị cao"
+  },
+  "attribute.name.generic.attack_damage.desc": {
+    "en": "Physical damage dealt with a fully charged attack.",
+    "zh": "攻击造成的物理伤害。",
+    "vi": "Sát thương vật lý do đòn tấn công gây ra."
+  },
+  "attribute.name.generic.attack_knockback.desc": {
+    "en": "How far your melee attacks knock back foes, in half-blocks.",
+    "zh": "近战攻击击退敌人的距离，以半格为单位。",
+    "vi": "Khoảng cách mà một đòn tấn công cận chiến đánh lui kẻ thù, tính bằng đơn vị nửa khối."
+  },
+  "attribute.name.generic.attack_speed.desc": {
+    "en": "How many fully charged attacks you can execute per second.",
+    "zh": "你每秒攻击的次数",
+    "vi": "Bạn tấn công bao nhiêu lần mỗi giây"
+  },
+  "attribute.name.generic.knockback_resistance.desc": {
+    "en": "How much knockback you ignore.",
+    "zh": "你无视的击退量",
+    "vi": "Số lượng phản đòn bạn bỏ qua"
+  },
+  "attribute.name.generic.luck.desc": {
+    "en": "Increases the likelihood of good things happening.",
+    "zh": "增加好事发生的可能性。",
+    "vi": "Tăng khả năng xảy ra những điều tốt đẹp."
+  },
+  "attribute.name.generic.max_health.desc": {
+    "en": "How many hit points you can have.",
+    "zh": "你拥有的生命值点数",
+    "vi": "Số điểm sức khỏe bạn có"
+  },
+  "attribute.name.generic.movement_speed.desc": {
+    "en": "Movement speed while walking.",
+    "zh": "行走时的移动速度",
+    "vi": "Tốc độ di chuyển khi đi bộ"
+  },
+  "attribute.name.epicfight.staminar.desc": {
+    "en": null,
+    "zh": "你的耐力值总量",
+    "vi": "Tổng sức chịu đựng của bạn"
+  },
+  "attribute.name.epicfight.stamina_regen.desc": {
+    "en": null,
+    "zh": "耐力恢复速度",
+    "vi": "Tốc độ phục hồi thể lực"
+  },
+  "attribute.puffish_attributes.player.resistance.desc": {
+    "en": null,
+    "zh": "伤害减免百分比",
+    "vi": "Tỷ lệ giảm sát thương"
+  },
+  "attribute.puffish_attributes.player.melee_damage.desc": {
+    "en": null,
+    "zh": "近战武器伤害增加百分比",
+    "vi": "Phần trăm tăng sát thương vũ khí cận chiến"
+  },
+  "attribute.puffish_attributes.player.ranged_damage.desc": {
+    "en": null,
+    "zh": "远程武器伤害增加百分比",
+    "vi": "Phần trăm tăng sát thương vũ khí tầm xa"
+  },
+  "forge.entity_reach.desc": {
+    "en": "How far you can interact with entities, in blocks.",
+    "zh": "你能与实体互动的距离，以格为单位。",
+    "vi": "Khoảng cách theo khối bạn có thể tương tác với một thực thể."
+  },
+  "forge.entity_gravity.desc": {
+    "en": "Acceleration towrds the ground, in blocks/s²",
+    "zh": "落向地面的加速度，以格/平方秒为单位。",
+    "vi": "Gia tốc rơi xuống đất, được đo bằng lưới/giây bình phương."
+  },
+  "forge.name_tag_distance.desc": {
+    "en": "How far away another player must be to see your name.",
+    "zh": "其他玩家必须距离多远才能看到你的名字。",
+    "vi": "Những người chơi khác phải ở khoảng cách bao xa mới thấy được tên của bạn."
+  },
+  "forge.block_reach.desc": {
+    "en": "How far you can interact with blocks, in blocks.",
+    "zh": "你能与方块互动的距离，以格为单位。",
+    "vi": "Khoảng cách theo khối bạn có thể tương tác với khối, theo khối."
+  },
+  "forge.step_height.desc": {
+    "en": "How many blocks you may step up without jumping.",
+    "zh": "你可以在不跳跃的情况下自动走上方块的高度。",
+    "vi": "Bạn có thể tự động đi lên độ cao của khối mà không cần nhảy."
+  },
+  "forge.swim_speed.desc": {
+    "en": "How fast you swim, relative to normal.",
+    "zh": "相对于正常情况，你的游泳速度。",
+    "vi": "Tốc độ bơi của bạn so với điều kiện bình thường."
+  },
+  "attributeslib:draw_speed": {
+    "en": "Draw Speed",
+    "zh": "蓄力速度",
+    "vi": "Tốc độ sạc"
+  },
+  "attributeslib:draw_speed.desc": {
+    "en": "How fast you draw ranged weapons, such as bows, crossbows, or tridents.",
+    "zh": "你蓄力远程武器（例如弓、弩或三叉戟）的速度。",
+    "vi": "Tốc độ sạc của vũ khí tầm xa như cung, nỏ hoặc đinh ba."
+  },
+  "attributeslib:crit_chance": {
+    "en": "Crit Chance",
+    "zh": "暴击率",
+    "vi": "Tỷ lệ trúng đòn chí mạng"
+  },
+  "attributeslib:crit_chance.desc": {
+    "en": "The chance any damage you deal critically strikes, dealing extra damage based on your Crit Damage.",
+    "zh": "你造成暴击伤害的几率，根据你的暴击伤害造成额外伤害。",
+    "vi": "Cơ hội gây sát thương chí mạng, gây thêm sát thương dựa trên sát thương chí mạng của bạn."
+  },
+  "attributeslib:crit_damage": {
+    "en": "Crit Damage",
+    "zh": "暴击伤害",
+    "vi": "Sát thương chí mạng"
+  },
+  "attributeslib:crit_damage.desc": {
+    "en": "Damage multiplier for critical hits, including vanilla jump crits.",
+    "zh": "暴击的伤害乘数，包括原版跳跃暴击。",
+    "vi": "Hệ số sát thương cho các đòn chí mạng, bao gồm cả các đòn chí mạng khi nhảy vani."
+  },
+  "attributeslib:cold_damage": {
+    "en": "Cold Damage",
+    "zh": "冰霜伤害",
+    "vi": "thiệt hại do sương giá"
+  },
+  "attributeslib:cold_damage.desc": {
+    "en": "Bonus magic damage applied on melee attacks, and slows enemies hit.",
+    "zh": "对近战攻击施加额外魔法伤害，并减速被击中的敌人。",
+    "vi": "Thêm sát thương phép thuật cho các đòn tấn công cận chiến và làm chậm kẻ địch trúng đòn."
+  },
+  "attributeslib:fire_damage": {
+    "en": "Fire Damage",
+    "zh": "火焰伤害",
+    "vi": "hỏa hoạn"
+  },
+  "attributeslib:fire_damage.desc": {
+    "en": "Bonus magic damage applied on melee attacks, and burns enemies hit.",
+    "zh": "对近战攻击施加额外魔法伤害，并燃烧被击中的敌人。",
+    "vi": "Thêm sát thương phép cho các đòn tấn công cận chiến và đốt cháy kẻ địch trúng phải."
+  },
+  "attributeslib:life_steal": {
+    "en": "Life Steal",
+    "zh": "生命偷取",
+    "vi": "cuộc sống đánh cắp"
+  },
+  "attributeslib:life_steal.desc": {
+    "en": "Percentage of post-mitigation damage which will heal you.",
+    "zh": "对你造成的伤害进行治疗的百分比。",
+    "vi": "Phần trăm sát thương bạn gây ra sẽ được hồi phục."
+  },
+  "attributeslib:current_hp_damage": {
+    "en": "Current HP Damage",
+    "zh": "当前生命值伤害",
+    "vi": "Thiệt hại sức khỏe hiện tại"
+  },
+  "attributeslib:current_hp_damage.desc": {
+    "en": "Bonus physical damage applied on melee attacks, based on the target's health.",
+    "zh": "根据目标的生命值，对近战攻击施加额外物理伤害。",
+    "vi": "Thêm sát thương vật lý cho các đòn tấn công cận chiến dựa trên máu của mục tiêu."
+  },
+  "attributeslib:overheal": {
+    "en": "Overheal",
+    "zh": "过量治疗",
+    "vi": "Điều trị quá mức"
+  },
+  "attributeslib:overheal.desc": {
+    "en": "Percentage of post-mitigation damage which will grant you an absorption shield.",
+    "zh": "造成伤害的百分比将为你提供伤害吸收护盾。",
+    "vi": "Tỷ lệ sát thương gây ra sẽ cung cấp cho bạn một lá chắn hấp thụ sát thương."
+  },
+  "attributeslib:ghost_health": {
+    "en": "Ghost Health",
+    "zh": "虚假生命",
+    "vi": "cuộc sống sai lầm"
+  },
+  "attributeslib:ghost_health.desc": {
+    "en": "Not Yet Implemented",
+    "zh": "尚未实现",
+    "vi": "chưa được triển khai"
+  },
+  "attributeslib:mining_speed": {
+    "en": "Mining Speed",
+    "zh": "挖掘速度",
+    "vi": "Tốc độ đào"
+  },
+  "attributeslib:mining_speed.desc": {
+    "en": "How fast you mine blocks, compared to normal.",
+    "zh": "与正常情况相比，你的挖掘方块速度。",
+    "vi": "Bạn khai thác khối nhanh như thế nào so với bình thường."
+  },
+  "attributeslib:arrow_damage": {
+    "en": "Arrow Damage",
+    "zh": "弹射物伤害",
+    "vi": "thiệt hại đạn"
+  },
+  "attributeslib:arrow_damage.desc": {
+    "en": "Damage multiplier for arrows. Tridents are arrows.",
+    "zh": "弹射物的伤害乘数，三叉戟是弹射物。",
+    "vi": "Hệ số sát thương cho đạn, Trident là một loại đạn."
+  },
+  "attributeslib:arrow_velocity": {
+    "en": "Arrow Velocity",
+    "zh": "弹射物速度",
+    "vi": "tốc độ đạn"
+  },
+  "attributeslib:arrow_velocity.desc": {
+    "en": "Speed multiplier for arrows. Arrow damage scales with velocity.",
+    "zh": "弹射物的速度乘数，弹射物伤害与速度成比例。",
+    "vi": "Hệ số nhân tốc độ đạn, sát thương đạn tỷ lệ thuận với tốc độ."
+  },
+  "attributeslib:experience_gained": {
+    "en": "Experience Gained",
+    "zh": "经验获取",
+    "vi": "Kinh nghiệm thu được"
+  },
+  "attributeslib:experience_gained.desc": {
+    "en": "Multiplier on how much experience you gain from breaking blocks and killing mobs.",
+    "zh": "通过破坏方块和杀死生物获得经验值的乘数。",
+    "vi": "Hệ số nhân cho kinh nghiệm có được bằng cách phá vỡ các khối và tiêu diệt sinh vật."
+  },
+  "attributeslib:healing_received": {
+    "en": "Healing Received",
+    "zh": "受到治疗",
+    "vi": "được điều trị"
+  },
+  "attributeslib:healing_received.desc": {
+    "en": "Multiplier on all incoming healing.",
+    "zh": "所有受到治疗的乘数。",
+    "vi": "Số nhân cho tất cả được chữa lành."
+  },
+  "attributeslib:armor_pierce": {
+    "en": "Armor Pierce",
+    "zh": "盔甲穿透",
+    "vi": "Xuyên giáp"
+  },
+  "attributeslib:armor_pierce.desc": {
+    "en": "Flat reduction to the target's armor value.",
+    "zh": "对目标的护甲值进行平摊减免。",
+    "vi": "Giá trị giáp của mục tiêu bị giảm như nhau."
+  },
+  "attributeslib:armor_shred": {
+    "en": "Armor Shred",
+    "zh": "盔甲撕裂",
+    "vi": "áo giáp rách"
+  },
+  "attributeslib:armor_shred.desc": {
+    "en": "Percentage reduction to the target's armor value.",
+    "zh": "目标护甲值降低的百分比。",
+    "vi": "Tỷ lệ phần trăm giá trị giáp của mục tiêu bị giảm."
+  },
+  "attributeslib:prot_pierce": {
+    "en": "Protection Pierce",
+    "zh": "保护穿透",
+    "vi": "sự thâm nhập bảo vệ"
+  },
+  "attributeslib:prot_pierce.desc": {
+    "en": "Flat reduction to the target's protection point total.",
+    "zh": "对目标的总保护点数进行平摊减免。",
+    "vi": "Tổng điểm bảo vệ của mục tiêu sẽ được giảm đồng đều."
+  },
+  "attributeslib:prot_shred": {
+    "en": "Protection Shred",
+    "zh": "保护撕裂",
+    "vi": "bảo vệ nước mắt"
+  },
+  "attributeslib:prot_shred.desc": {
+    "en": "Percentage reduction to the target's protection point total.",
+    "zh": "目标总保护点数降低的百分比。",
+    "vi": "Tỷ lệ phần trăm mà tổng điểm bảo vệ của mục tiêu bị giảm."
+  },
+  "attributeslib:dodge_chance": {
+    "en": "Dodge Chance",
+    "zh": "闪避率",
+    "vi": "Tỷ lệ né tránh"
+  },
+  "attributeslib:dodge_chance.desc": {
+    "en": "Chance to dodge a melee attack or a projectile.",
+    "zh": "有概率闪避近战攻击或弹射物。",
+    "vi": "Có cơ hội né tránh các đòn tấn công cận chiến hoặc đạn."
+  },
+  "attributeslib:elytra_flight": {
+    "en": "Elytra Flight",
+    "zh": "鞘翅飞行",
+    "vi": "chuyến bay elytra"
+  },
+  "attributeslib:elytra_flight.desc": {
+    "en": "If you can fly as if wearing an Elytra.",
+    "zh": "你能像穿戴鞘翅一样飞行。",
+    "vi": "Bạn có thể bay như thể đang đeo elytra."
+  },
+  "attributeslib:creative_flight": {
+    "en": "Creative Flight",
+    "zh": "创造模式飞行",
+    "vi": "chuyến bay sáng tạo"
+  },
+  "attributeslib:creative_flight.desc": {
+    "en": "If you can fly as if in Creative Mode.",
+    "zh": "你能像创造模式一样飞行。",
+    "vi": "Bạn có thể bay giống như trong chế độ sáng tạo."
+  },
+  "comment_id": {
+    "en": "Damage Sources",
+    "zh": "Damage Sources",
+    "vi": "Damage Sources"
+  },
+  "effect.attributeslib.knowledge": {
+    "en": "Ancient Knowledge",
+    "zh": "古代知识",
+    "vi": "kiến thức cổ xưa"
+  },
+  "effect.attributeslib.knowledge.desc": {
+    "en": "Increases experience gained from kills and blocks.",
+    "zh": "增加杀死生物和挖掘方块获得的经验。",
+    "vi": "Tăng kinh nghiệm thu được từ việc tiêu diệt mob và khối khai thác."
+  },
+  "effect.attributeslib.knowledge.description": {
+    "en": "Increases experience gained from kills and blocks.",
+    "zh": "增加杀死生物和挖掘方块获得的经验。",
+    "vi": "Tăng kinh nghiệm thu được từ việc tiêu diệt mob và khối khai thác."
+  },
+  "effect.attributeslib.sundering": {
+    "en": "Sundering",
+    "zh": "破甲",
+    "vi": "xuyên giáp"
+  },
+  "effect.attributeslib.sundering.desc": {
+    "en": "Increases damage received.",
+    "zh": "增加受到的伤害。",
+    "vi": "Tăng sát thương nhận vào."
+  },
+  "effect.attributeslib.sundering.description": {
+    "en": "Increases damage received.",
+    "zh": "增加受到的伤害。",
+    "vi": "Tăng sát thương nhận vào."
+  },
+  "effect.attributeslib.vitality": {
+    "en": "Bursting Vitality",
+    "zh": "活力迸发",
+    "vi": "năng lượng bùng nổ"
+  },
+  "effect.attributeslib.vitality.desc": {
+    "en": "Increases healing received.",
+    "zh": "增加受到的治疗效果。",
+    "vi": "Tăng hiệu quả hồi máu nhận được."
+  },
+  "effect.attributeslib.vitality.description": {
+    "en": "Increases healing received.",
+    "zh": "增加受到的治疗效果。",
+    "vi": "Tăng hiệu quả hồi máu nhận được."
+  },
+  "effect.attributeslib.grievous": {
+    "en": "Grievous Wounds",
+    "zh": "重伤",
+    "vi": "bị thương nặng"
+  },
+  "effect.attributeslib.grievous.desc": {
+    "en": "Decreases healing received.",
+    "zh": "减少受到的治疗效果。",
+    "vi": "Giảm tác dụng chữa lành nhận được."
+  },
+  "effect.attributeslib.grievous.description": {
+    "en": "Decreases healing received.",
+    "zh": "减少受到的治疗效果。",
+    "vi": "Giảm tác dụng chữa lành nhận được."
+  },
+  "effect.attributeslib.bleeding": {
+    "en": "Bleeding",
+    "zh": "流血",
+    "vi": "chảy máu"
+  },
+  "effect.attributeslib.bleeding.desc": {
+    "en": "Inflicts damage every two seconds.",
+    "zh": "每两秒造成一次伤害。",
+    "vi": "Gây sát thương mỗi hai giây."
+  },
+  "effect.attributeslib.bleeding.description": {
+    "en": "Inflicts damage every two seconds.",
+    "zh": "每两秒造成一次伤害。",
+    "vi": "Gây sát thương mỗi hai giây."
+  },
+  "effect.attributeslib.detonation": {
+    "en": "Flaming Detonation",
+    "zh": "火焰引爆",
+    "vi": "vụ nổ ngọn lửa"
+  },
+  "effect.attributeslib.detonation.desc": {
+    "en": "On expiry, inflicts damage based on remaining fire ticks.",
+    "zh": "该效果结束后，根据剩余着火时间造成伤害。",
+    "vi": "Sau khi hiệu ứng này kết thúc, sát thương sẽ được gây ra dựa trên thời gian bắn còn lại."
+  },
+  "effect.attributeslib.detonation.description": {
+    "en": "On expiry, inflicts damage based on remaining fire ticks.",
+    "zh": "该效果结束后，根据剩余着火时间造成伤害。",
+    "vi": "Sau khi hiệu ứng này kết thúc, sát thương sẽ được gây ra dựa trên thời gian bắn còn lại."
+  },
+  "effect.attributeslib.flying": {
+    "en": "Flying",
+    "zh": "飞行",
+    "vi": "chuyến bay"
+  },
+  "effect.attributeslib.flying.desc": {
+    "en": "Grants Creative Flight.",
+    "zh": "给予创造模式飞行能力。",
+    "vi": "Cung cấp khả năng bay ở chế độ sáng tạo."
+  },
+  "effect.attributeslib.flying.description": {
+    "en": "Grant Creative Flight.",
+    "zh": "给予创造模式飞行能力。",
+    "vi": "Cung cấp khả năng bay ở chế độ sáng tạo."
+  },
+  "effect.minecraft.night_vision.desc": {
+    "en": "Allows you to see in the dark.",
+    "zh": "允许你在黑暗中也能看清东西。",
+    "vi": "Cho phép bạn nhìn rõ trong bóng tối."
+  },
+  "effect.minecraft.invisibility.desc": {
+    "en": "Makes you invisible, excluding equipment.",
+    "zh": "使你隐身，不包括装备。",
+    "vi": "Làm cho bạn trở nên vô hình, không bao gồm thiết bị."
+  },
+  "effect.minecraft.jump_boost.desc": {
+    "en": "Increases jump height.",
+    "zh": "增加跳跃高度。",
+    "vi": "Tăng độ cao nhảy."
+  },
+  "effect.minecraft.fire_resistance.desc": {
+    "en": "Makes you immune to fire damage.",
+    "zh": "使你免疫火焰伤害。",
+    "vi": "Giúp bạn miễn nhiễm với sát thương lửa."
+  },
+  "effect.minecraft.water_breathing.desc": {
+    "en": "Causes you to be unable to drown.",
+    "zh": "使你不会溺水。",
+    "vi": "Để bạn không bị chết đuối."
+  },
+  "effect.minecraft.instant_health.desc": {
+    "en": "Instantly restores a bit of your health.",
+    "zh": "立即恢复少量生命值。",
+    "vi": "Phục hồi ngay lập tức một lượng nhỏ sức khỏe."
+  },
+  "effect.minecraft.instant_damage.desc": {
+    "en": "Instantly causes a bit of magic damage.",
+    "zh": "立即造成少量魔法伤害。",
+    "vi": "Ngay lập tức gây ra một lượng nhỏ sát thương phép thuật."
+  },
+  "effect.minecraft.poison.desc": {
+    "en": "Periodically inflicts non-lethal damage.",
+    "zh": "定期造成非致命伤害。",
+    "vi": "Gây sát thương không gây chết người thường xuyên."
+  },
+  "effect.minecraft.regeneration.desc": {
+    "en": "Causes you to regenerate health over time.",
+    "zh": "使你随着时间的推移恢复生命值。",
+    "vi": "Giúp bạn lấy lại sức khỏe theo thời gian."
+  },
+  "death.attack.attributeslib:bleeding": {
+    "en": "%1$s bled out",
+    "zh": "%1$s失血过多了",
+    "vi": "%1$s mất quá nhiều máu"
+  },
+  "death.attack.attributeslib:bleeding.item": {
+    "en": "%1$s bled out due to %2$s's %3$s",
+    "zh": "%1$s因%2$s的%3$s而失血过多",
+    "vi": "%1$s chảy ra từ %3$s của %2$s"
+  },
+  "death.attack.attributeslib:bleeding.player": {
+    "en": "%1$s bled out whilst trying to escape %2$s",
+    "zh": "%1$s在试图逃离%2$s时失血过多了",
+    "vi": "%1$s mất rất nhiều máu khi cố gắng thoát khỏi %2$s"
+  },
+  "death.attack.attributeslib:detonation": {
+    "en": "%1$s was detonated by flame",
+    "zh": "%1$s被火焰引爆了",
+    "vi": "%1$s bị phát nổ do ngọn lửa"
+  },
+  "death.attack.attributeslib:detonation.item": {
+    "en": "%1$s was detonated by flame",
+    "zh": "%1$s被火焰引爆了",
+    "vi": "%1$s bị phát nổ do ngọn lửa"
+  },
+  "death.attack.attributeslib:detonation.player": {
+    "en": "%1$s was detonated by flame",
+    "zh": "%1$s被火焰引爆了",
+    "vi": "%1$s bị phát nổ do ngọn lửa"
+  },
+  "death.attack.attributeslib:current_hp_damage": {
+    "en": "%1$s was struck down",
+    "zh": "%1$s被击败了",
+    "vi": "%1$s đã bị đánh bại"
+  },
+  "death.attack.attributeslib:current_hp_damage.item": {
+    "en": "%1$s was struck down by %2$s using %3$s",
+    "zh": "%1$s被%2$s用%3$s击败了",
+    "vi": "%1$s bị %2$s đánh bại bằng %3$s"
+  },
+  "death.attack.attributeslib:current_hp_damage.player": {
+    "en": "%1$s was struck down whilst fighting %2$s",
+    "zh": "%1$s在与%2$s战斗时被击败了",
+    "vi": "%1$s bị đánh bại khi chiến đấu với %2$s"
+  },
+  "death.attack.attributeslib:fire_damage": {
+    "en": "%1$s was scorched to death",
+    "zh": "%1$s被烧焦至死",
+    "vi": "%1$s bị thiêu chết"
+  },
+  "death.attack.attributeslib:fire_damage.item": {
+    "en": "%1$s was scorched to death by %2$s using %3$s",
+    "zh": "%1$s被%2$s用%3$s烧焦至死",
+    "vi": "%1$s bị %2$s đốt chết bằng cách sử dụng %3$s"
+  },
+  "death.attack.attributeslib:fire_damage.player": {
+    "en": "%1$s was scorched to death whilst fighting %2$s",
+    "zh": "%1$s在与%2$s战斗时被烧焦至死",
+    "vi": "%1$s bị thiêu chết khi chiến đấu với %2$s"
+  },
+  "death.attack.attributeslib:cold_damage": {
+    "en": "%1$s was frozen to death",
+    "zh": "%1$s被冰冻至死",
+    "vi": "%1$s bị đóng băng đến chết"
+  },
+  "death.attack.attributeslib:cold_damage.item": {
+    "en": "%1$s was frozen to death by %2$s using %3$s",
+    "zh": "%1$s被%2$s用%3$s冰冻至死",
+    "vi": "%1$s đã bị %2$s đóng băng đến chết bằng cách sử dụng %3$s"
+  },
+  "death.attack.attributeslib:cold_damage.player": {
+    "en": "%1$s was frozen to death whilst fighting %2$s",
+    "zh": "%1$s在与%2$s战斗时被冰冻至死",
+    "vi": "%1$s bị chết cóng khi chiến đấu với %2$s"
+  },
+  "attributeslib.gui.formula.base": {
+    "en": "Base",
+    "zh": null,
+    "vi": null
+  },
+  "attributeslib.gui.formula.value": {
+    "en": "Value",
+    "zh": null,
+    "vi": null
+  },
+  "attributeslib.gui.no_modifiers": {
+    "en": "No Modifiers",
+    "zh": null,
+    "vi": null
+  }
+}

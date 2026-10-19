@@ -1,0 +1,193 @@
+{
+  "item.too_many_bows.arcane_bow": "秘法弓",
+  "item.too_many_bows.dark_bow": "幽匿之弓",
+  "item.too_many_bows.ancient_sage_bow": "古贤之弓",
+  "item.too_many_bows.verdant_viper": "翠绿蝰蛇弓",
+  "item.too_many_bows.wind_bow": "风之弓",
+  "item.too_many_bows.demons_grasp": "恶魔之握",
+  "item.too_many_bows.aethers_call": "以太之唤",
+  "item.too_many_bows.spectral_bow": "幽灵弓",
+  "item.too_many_bows.cyroheart_bow": "冰心弓",
+  "item.too_many_bows.flame_bow": "烈焰之拥",
+  "item.too_many_bows.necro_flame_bow": "死灵火焰弓",
+  "item.too_many_bows.tidal_bow": "潮汐弓",
+  "item.too_many_bows.hunter_bow": "猎人之弓",
+  "item.too_many_bows.sentinels_wrath": "哨兵之怒",
+  "item.too_many_bows.frostbite": "霜冻",
+  "item.too_many_bows.burnt_relic": "烧焦遗物",
+  "item.too_many_bows.ironclad_bow": "铁壁弓",
+  "item.too_many_bows.arc_heavens": "天际之弧",
+  "item.too_many_bows.solar_bow": "太阳耀斑弓",
+  "item.too_many_bows.dragons_breath": "龙息弓",
+  "item.too_many_bows.skull": "死灵颅骨",
+  "item.too_many_bows.ancient_sage": "古贤",
+  "item.too_many_bows.frozenite": "冰冻石",
+  "item.too_many_bows.shulker_blast": "潜影贝爆炸",
+  "item.too_many_bows.crimson_nexus": "猩红节点",
+  "too_many_bows_tab": "Too Many Bows",
+  "category.many_bows": "Too Many Bows",
+
+"item.many_bows.crimson_nexus.tooltip": "一把散发着猩红能量的脉动之弓。",
+"item.many_bows.crimson_nexus.tooltip.ability": "消耗自身生命值并对附近敌人造成生命吸取效果。",
+"item.many_bows.crimson_nexus.tooltip.legend": "掌握它的力量，但要警惕它的代价。",
+"item.many_bows.crimson_nexus.tooltip.info": "发射强力箭矢时会消耗自身生命值。",
+"item.many_bows.crimson_nexus.tooltip.health_cost": "生命值消耗：每箭消耗 §c%s HP§r。",
+
+  "item.many_bows.arcane_bow.tooltip": "释放带有神秘能量的神秘箭矢散射。",
+  "item.many_bows.arcane_bow.tooltip.ability": "能力：以散射模式发射三支箭，造成额外的神秘伤害。",
+  "item.many_bows.arcane_bow.tooltip.legend": "古老的秘密隐藏在其被施魔法的弓身之中...",
+ 
+  "item.many_bows.solar_bow.tooltip": "§e一把由太阳充能的强大弓",
+  "item.many_bows.solar_bow.tooltip.ability": "§c满蓄力时发射燃烧的太阳能箭。",
+ 
+  "item.many_bows.frostbite_bow.tooltip": "一把由冰冷精华锻造的弓。",
+  "item.many_bows.frostbite_bow.tooltip.ability": "满蓄力时发射冰霜箭，减速并冻结敌人。",
+  "item.many_bows.frostbite_bow.tooltip.frostwalker": "拉弓时应用冰霜行者效果。",
+ 
+  "item.too_many_bows.arc_heavens.tooltip": "释放风暴的力量。",
+  "item.too_many_bows.arc_heavens.tooltip.ability": "直接命中时以闪电打击敌人。",
+ 
+  "item.too_many_bows.sonic_bow.tooltip": "利用守卫者的咆哮的破坏力",
+  "item.too_many_bows.sonic_bow.tooltip.ability": "发射强大的冲击波，以巨大的力量穿透敌人",
+  "item.too_many_bows.sonic_bow.tooltip.legend": "由深暗回声锻造，此弓释放纯粹的毁灭力量。",
+
+
+
+  "item.many_bows.dragons_breath_bow.tooltip": "龙之力量",
+  "item.many_bows.dragons_breath_bow.tooltip.ability": "发射蓄力箭，命中后产生龙息。",
+  
+  "item.too_many_bows.verdant_viper_bow.tooltip": "一把利用自然毒液的弓。",
+  "item.too_many_bows.verdant_viper_bow.tooltip.ability": "发射箭矢，留下毒云。",
+  "item.too_many_bows.verdant_viper_bow.tooltip.legend": "据说此弓由大蛇王的毒牙锻造而成。",
+  
+  "item.too_many_bows.flame_bow.tooltip": "利用火焰的力量",
+  "item.too_many_bows.flame_bow.tooltip.ability": "发射火焰箭，引发火爆。",
+  "item.too_many_bows.flame_bow.tooltip.legend": "一把在火山中心锻造的传奇之弓。",
+  
+  "item.too_many_bows.tidal_bow.tooltip": "此弓流淌着海洋的力量。",
+  "item.too_many_bows.tidal_bow.tooltip.ability": "您可以在水下像发射普通箭一样发射箭矢。",
+  "item.too_many_bows.tidal_bow.tooltip.legend": "一把利用海洋古老力量的弓。",
+  
+  "item.too_many_bows.cursed_flame_bow.tooltip": "一把蕴含诅咒火焰的弓，以阻止再生并以不灭之怒燃烧而闻名。",
+  "item.too_many_bows.cursed_flame_bow.tooltip.ability": "用诅咒之火点燃敌人：阻止再生回血效果，并每秒造成一颗心的伤害。",
+  "item.too_many_bows.cursed_flame_bow.tooltip.legend": "在黑暗、禁忌的火焰中锻造而成。",
+
+  "effect.too_many_bows.cursed_flame": "诅咒火焰",
+ 
+  "item.too_many_bows.scatter_bow": "散射弓",
+  "item.many_bows.scatter_bow.tooltip": "一把可以向各个方向发射箭矢的弓",
+  "item.many_bows.scatter_bow.tooltip.ability": "释放一阵箭矢",
+  "item.many_bows.scatter_bow.tooltip.legend": "由最伟大的弓箭手打造",
+ 
+  "item.many_bows.ancient_sage_bow.tooltip": "一把无与伦比的古老武器。",
+  "item.many_bows.ancient_sage_bow.tooltip.ability": "穿透33%的护甲防御",
+  "item.many_bows.ancient_sage_bow.tooltip.legend": "只有智者才能发挥其真正的力量。",
+ 
+  "item.too_many_bows.wind_bow.tooltip": "利用风的力量",
+  "item.too_many_bows.wind_bow.tooltip.ability": "特殊能力：迅捷步伐",
+  "item.too_many_bows.wind_bow.tooltip.effect": "拉弓可以迅速移动",
+  "item.too_many_bows.wind_bow.tooltip.legend": "古老的传言说，这把弓是由风暴的愤怒锻造而成",
+ 
+  "item.many_bows.icicle_javelin_bow.tooltip": "一把蕴含着寒风之力的弓。",
+  "item.many_bows.icicle_javelin_bow.tooltip.ability": "发射冰锥标枪，穿透敌人",
+  "item.many_bows.icicle_javelin_bow.tooltip.freeze": "击中方块时会召唤出冰块",
+
+  "item.too_many_bows.ironclad_bow.tooltip": "铁铸而成，战火中淬炼",
+  "item.too_many_bows.ironclad_bow.tooltip.ability": "磁力脉冲：将敌人拉向撞击点",
+  "item.too_many_bows.ironclad_bow.tooltip.legend": "箭矢蕴含磁力…",
+ 
+  "item.too_many_bows.hunter_bow_bow": "猎人的信赖之弓",
+  "item.too_many_bows.hunter_bow.tooltip": "§7对被动生物特别有效",
+  "item.too_many_bows.hunter_bow.hold_shift": "§8[按住 §eShift§8] 查看更多信息",
+  "item.too_many_bows.hunter_bow.shift_title": "§6擅长对付：",
+  "item.too_many_bows.hunter_bow.mob1": "§7牛",
+  "item.too_many_bows.hunter_bow.mob2": "§7猪",
+  "item.too_many_bows.hunter_bow.mob3": "§7羊",
+  "item.too_many_bows.hunter_bow.mob4": "§7鸡",
+  "item.too_many_bows.hunter_bow.mob5": "§7兔子",
+ 
+  "item.too_many_bows.emerald_sage_bow": "翡翠贤者之弓",
+  "item.too_many_bows.emerald_sage_bow.tooltip": "击中敌人可获得额外经验值",
+ 
+  "item.too_many_bows.sentinels_wrath.tooltip": "§7对袭击者特别有效",
+  "item.too_many_bows.sentinels_wrath.hold_shift": "§8[按住 §eShift§8] 查看更多信息",
+  "item.too_many_bows.sentinels_wrath.shift_title": "§6擅长对付：",
+  "item.too_many_bows.sentinels_wrath.mob1": "§7掠夺者",
+  "item.too_many_bows.sentinels_wrath.mob2": "§7卫道士",
+  "item.too_many_bows.sentinels_wrath.mob3": "§7唤魔者",
+  "item.too_many_bows.sentinels_wrath.mob4": "§7劫掠兽",
+  "item.too_many_bows.sentinels_wrath.mob5": "§7幻术师",
+  "item.too_many_bows.sentinels_wrath.mob6": "§7女巫",
+
+  "item.too_many_bows.shulker_blast_bow.tooltip": "发射自动追踪的潜影贝爆炸弹",
+  "item.too_many_bows.shulker_blast_bow.shift_title": "§6特殊效果",
+  "item.too_many_bows.shulker_blast_bow.effect1": "§7自动追踪的投射物",
+  "item.too_many_bows.shulker_blast_bow.hold_shift": "§8[按住 §eShift§8] 查看更多信息",
+  "item.too_many_bows.burnt_relic.tooltip": "古老遗物之弓",
+  "item.too_many_bows.burnt_relic.tooltip1": "曾被古神所用，至今仍蕴含着微弱的力量...",
+  "item.too_many_bows.burnt_relic.tooltip2": "无限箭矢与增强伤害",
+ 
+  "advancement.too_many_bows.root.title": "弓太多",
+  "advancement.too_many_bows.root.description": "获得你的第一把弓，开始成为神射手的旅程。",
+  "advancement.too_many_bows.master_bow_collector.title": "卓越的弓收藏家",
+  "advancement.too_many_bows.master_bow_collector.description": "收集Too Many Bows模组中的所有独特弓。",
+ 
+  "advancement.too_many_bows.necro_skull.title": "死灵颅骨",
+  "advancement.too_many_bows.necro_skull.description": "获得传说中的死灵颅骨。",
+  "advancement.too_many_bows.necro_flame_bow.title": "死灵火焰弓",
+  "advancement.too_many_bows.necro_flame_bow.description": "掌握死灵火焰弓的力量。",
+
+  "advancement.too_many_bows.ancient_sage.title": "古代贤者",
+  "advancement.too_many_bows.ancient_sage.description": "发现古代贤者的力量。",
+  "advancement.too_many_bows.frozenite.title": "冰冻矿石",
+  "advancement.too_many_bows.frozenite.description": "获得神秘的冰冻矿石。",
+  "advancement.too_many_bows.frostbite.title": "霜冻之咬",
+  "advancement.too_many_bows.frostbite.description": "掌握霜冻之弓的寒冷力量。",
+  "advancement.too_many_bows.sage_bow.title": "古代贤者的遗产",
+  "advancement.too_many_bows.sage_bow.description": "释放古代贤者之弓的智慧。",
+  "advancement.shulker_blast.title": "潜影贝爆炸大师",
+  "advancement.shulker_blast.description": "获得潜影贝爆炸弓。",
+  "advancement.shulker_shell.title": "潜影贝的馈赠",
+  "advancement.shulker_shell.description": "收集一个潜影贝外壳。",
+ 
+  "item.too_many_bows.vitality_weaver": "生命编织者",
+  "item.too_many_bows.vitality_weaver.tooltip": "一把蕴含生死之力的弓。",
+  "item.too_many_bows.vitality_weaver.details": "吸血箭：箭矢能从敌人身上偷取生命值并治疗射手。",
+  "item.too_many_bows.hold_shift": "§8[按住 §eShift§8] 查看更多信息",
+  "entity.too_many_bows.vitality_arrow": "生命之箭",
+ 
+  "item.too_many_bows.astral_bound": "星界束缚",
+  "item.too_many_bows.astral_bow": "他们不会察觉到……",
+  "item.too_many_bows.astral_bow.tooltip": "发射强力的箭矢。",
+  "item.too_many_bows.astral_bow.details": "这把弓发射的箭矢能够弹射，使用弹射附魔可以使其在多个表面间弹跳。",
+
+  "enchantment.too_many_bows.ricochet": "弹射",
+  "enchantment.too_many_bows.ricochet.desc": "仅对星界束缚弓有效，允许箭矢在更多表面进行弹射。",
+  "enchantment.level.1": "I",
+  "enchantment.level.2": "II",
+  "enchantment.level.3": "III",
+ 
+  "item.too_many_bows.spectral_whisper": "幽灵低语",
+  "item.too_many_bows.spectral_whisper.tooltip": "箭矢能穿透第一个障碍物。",
+  "item.too_many_bows.spectral_whisper.details": "这把弓发射幽灵箭，能够穿透方块并伤害实体。",
+ 
+  "entity.too_many_bows.spectral_arrow": "幽灵箭",
+  "enchantment.too_many_bows.spectral": "幽灵",
+  "enchantment.too_many_bows.spectral.desc": "允许箭矢穿透额外的障碍物。",
+ 
+  "item.too_many_bows.auroras_grace": "极光之恩",
+  "item.many_bows.aurora_bow.tooltip": "一把蕴含天体能量的弓。",
+  "item.many_bows.aurora_bow.tooltip.ability": "利用裂缝的力量。",
+  "item.many_bows.aurora_bow.tooltip.extended": "这把弓需要箭矢和裂缝碎片才能发射。",
+  "item.many_bows.aurora_bow.item_use": "你需要裂缝碎片来使用这把弓！",
+  "item.too_many_bows.rift_shard": "裂缝碎片",
+  "item.too_many_bows.repair_crystal": "修复水晶",
+ 
+  "advancement.too_many_bows.repair.title": "修复水晶",
+  "advancement.too_many_bows.repair.description": "使用这块水晶在铁砧上修复你的弓……",
+ 
+  "item.many_bows.repair_crystal.tooltip": "一块纯净能量的水晶。",
+  "item.many_bows.repair_crystal.tooltip.use": "在铁砧上使用以修复弓。",
+  "item.many_bows.rift_shard.tooltip": "一块纯净能量的碎片。",
+  "item.many_bows.rift_shard.tooltip.use": "用于为极光之恩弓的箭矢注入足够强大的能量以进行发射。"
+}

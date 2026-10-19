@@ -1,0 +1,51 @@
+{
+	icon: {
+		Count: 1
+		ForgeCaps: {
+			"celestisynth:celestisynthitemstackcapabilities": {
+				cs.aquaSkin: 0
+			}
+		}
+		id: "minecraft:bone"
+	}
+	id: "5EF0EC1F29B94F01"
+	loot_size: 1
+	order_index: 20
+	rewards: [
+		{
+			auto: "disabled"
+			command: "/gamerule FriendlyFire true"
+			elevate_perms: true
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "minecraft:red_concrete"
+			}
+			team_reward: false
+			title: "Bảo Vệ Sát Thương Chủ Nhân: Tắt"
+			type: "command"
+		}
+		{
+			auto: "disabled"
+			command: "/gamerule FriendlyFire false"
+			elevate_perms: true
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "minecraft:lime_concrete"
+			}
+			team_reward: false
+			title: "Bảo Vệ Sát Thương Chủ Nhân: Bật"
+			type: "command"
+		}
+	]
+	title: "Bảo Vệ Sát Thương Chủ Nhân"
+}

@@ -1,0 +1,11 @@
+{
+  "feature": "minecraft:spring_lava_frozen",
+  "placement": [
+    {
+      "type": "reterraforged:blacklist_dimension",
+      "blacklist": [
+        "minecraft:overworld"
+      ]
+    }
+  ]
+}

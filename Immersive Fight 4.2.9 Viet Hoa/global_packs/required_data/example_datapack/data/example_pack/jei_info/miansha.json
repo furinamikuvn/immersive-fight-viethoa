@@ -1,0 +1,13 @@
+{
+    "items": [
+        {
+            "item": "minecraft:potion",
+            "nbt": {
+                "Potion": "alexsmobs:bug_pheromones"
+            }
+        }
+    ],
+    "infos": [
+        "§0Khó bị phát hiện bởi các sinh vật chân khớp thù địch"
+    ]
+}

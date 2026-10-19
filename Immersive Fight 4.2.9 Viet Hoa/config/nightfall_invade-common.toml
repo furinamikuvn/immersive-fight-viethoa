@@ -1,0 +1,44 @@
+
+["BOSS Config"]
+
+	["BOSS Config"."Arterius Config"]
+		#Bội số sát thương tấn công: (Sát thương cơ bản + Sát thương vũ khí) * Bội số
+		#Range: 0.0 ~ 1.7976931348623157E308
+		arteriusAttackDamageMultiplier = 0.6
+		#Bội số máu tối đa
+		#Range: 0.0 ~ 1.7976931348623157E308
+		arteriusMaxHealthMultiplier = 1.0
+		#Sát thương cộng thêm khi đánh trúng kẻ địch (dựa trên % máu tối đa của mục tiêu)
+		#Range: 0.0 ~ 1.7976931348623157E308
+		arteriusExHPDamage = 0.01
+		#Cấp độ debuff áp dụng khi đánh trúng (bắt đầu từ 0)
+		#Range: 0 ~ 255
+		arteriusDebuffLevel = 5
+		#Thời lượng debuff khi đánh trúng (tick)
+		#Range: > 0
+		arteriusDebuffDuration = 40
+		#Sát thương cộng thêm khi đánh trúng kẻ địch có debuff (dựa trên % sát thương của bản thân)
+		#Range: 0.0 ~ 1.7976931348623157E308
+		arteriusDebuffExDamage = 0.2
+		#Sát thương cộng thêm khi đánh trúng kẻ địch có debuff (dựa trên % máu tối đa của mục tiêu)
+		#Range: 0.0 ~ 1.7976931348623157E308
+		arteriusDebuffExHPDamage = 0.02
+		#Đòn đánh kèm theo sát thương lửa dựa trên % sát thương tấn công
+		#Range: 0.0 ~ 1.7976931348623157E308
+		arteriusExFireDamage = 0.3
+		#Giới hạn sát thương phải chịu trong 1 đòn, không vượt quá % máu tối đa
+		#Range: 0.0 ~ 1.0
+		arteriusDamageCap = 0.12
+		#Sau khi sát thương tích lũy đạt tỉ lệ máu nhất định, tỉ lệ giảm sát thương bắt đầu tăng
+		#Range: 0.0 ~ 1.0
+		arteriusDamageThreshold = 0.04
+		#Sau khi sát thương tích lũy đạt tỉ lệ máu nhất định, tỉ lệ giảm sát thương đạt cực đại
+		#Range: 0.0 ~ 1.0
+		arteriusDamageMaxThreshold = 0.24
+		#Tỉ lệ giảm sát thương tối đa có thể đạt được
+		#Range: 0.0 ~ 1.0
+		arteriusMaxReduction = 0.8
+		#Thời gian cần thiết để tỉ lệ giảm sát thương giảm từ tối đa về 0 (tick)
+		#Range: > 0
+		arteriusDecaySecond = 180
+

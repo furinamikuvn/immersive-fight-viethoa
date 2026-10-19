@@ -1,0 +1,122 @@
+{
+  "trashslot.serverNotInstalled": {
+    "en": "The server does not have TrashSlot installed. This mod will be disabled.",
+    "zh": "服务器没有安装垃圾桶。此 Mod 将被禁用。",
+    "vi": null
+  },
+  "key.trashslot.toggle": {
+    "en": "Show/Hide TrashSlot",
+    "zh": "显示/隐藏 垃圾桶",
+    "vi": null
+  },
+  "key.trashslot.toggleLock": {
+    "en": "Lock/Unlock TrashSlot",
+    "zh": null,
+    "vi": null
+  },
+  "key.trashslot.delete": {
+    "en": "Delete Item",
+    "zh": "删除物品",
+    "vi": null
+  },
+  "key.trashslot.deleteAll": {
+    "en": "Delete All Items of Type",
+    "zh": "删除所有此类物品",
+    "vi": null
+  },
+  "key.categories.trashslot": {
+    "en": "TrashSlot",
+    "zh": "垃圾桶",
+    "vi": null
+  },
+  "trashslot.config.instantDeletion": {
+    "en": "Instant Deleting",
+    "zh": "立刻删除",
+    "vi": null
+  },
+  "config.trashslot.title": {
+    "en": "TrashSlot",
+    "zh": "垃圾桶",
+    "vi": null
+  },
+  "config.trashslot.instantDeletion": {
+    "en": "Instant Deletion",
+    "zh": "立刻删除",
+    "vi": null
+  },
+  "config.trashslot.instantDeletion.tooltip": {
+    "en": "This causes the deletion slot to delete items instantly, similar to Creative Mode.",
+    "zh": null,
+    "vi": null
+  },
+  "config.trashslot.enableDeleteKeysInCreative": {
+    "en": "Delete Keys in Creative",
+    "zh": null,
+    "vi": null
+  },
+  "config.trashslot.enableDeleteKeysInCreative.tooltip": {
+    "en": "Set to true if you want the delete keybindings to work in creative as well. Note: Items will be deleted permanently in creative, regardless of instantDeletion setting!",
+    "zh": null,
+    "vi": null
+  },
+  "config.trashslot.enableHints": {
+    "en": "Enable Hints",
+    "zh": null,
+    "vi": null
+  },
+  "config.trashslot.enableHints.tooltip": {
+    "en": "TrashSlot will show a hint the first time the trash slot is toggled off or can be enabled on a supported screen. Set to false to disable.",
+    "zh": null,
+    "vi": null
+  },
+  "config.trashslot.allowDeletionWhileTrashSlotIsInvisible": {
+    "en": "Allow Deletion While TrashSlot is Invisible",
+    "zh": null,
+    "vi": null
+  },
+  "config.trashslot.allowDeletionWhileTrashSlotIsInvisible.tooltip": {
+    "en": "Not recommended, but this will allow you to use the keybinds for deleting items even if the trash slot itself is hidden.",
+    "zh": null,
+    "vi": null
+  },
+  "config.trashslot.deletionDenyList": {
+    "en": "Deletion Deny List",
+    "zh": null,
+    "vi": null
+  },
+  "config.trashslot.deletionDenyList.tooltip": {
+    "en": "List of items that cannot be deleted, in comma-separated format of \"modid:name\".",
+    "zh": null,
+    "vi": null
+  },
+  "trashslot.hint.toggleOn": {
+    "en": "Press %s to enable the trash slot for this screen!",
+    "zh": null,
+    "vi": null
+  },
+  "trashslot.hint.toggledOff": {
+    "en": "You've toggled off the trash slot! Press %s to re-enable it.",
+    "zh": null,
+    "vi": null
+  },
+  "trashslot.hint.deletedWhileHidden": {
+    "en": "Item trashed!",
+    "zh": null,
+    "vi": null
+  },
+  "trashslot.hint.deletionDenied": {
+    "en": "Item cannot be trashed!",
+    "zh": null,
+    "vi": null
+  },
+  "trashslot.hint.locked": {
+    "en": "Trash slot locked. Press %s to unlock it.",
+    "zh": null,
+    "vi": null
+  },
+  "trashslot.hint.unlocked": {
+    "en": "Trash slot unlocked. Press %s to lock it.",
+    "zh": null,
+    "vi": null
+  }
+}

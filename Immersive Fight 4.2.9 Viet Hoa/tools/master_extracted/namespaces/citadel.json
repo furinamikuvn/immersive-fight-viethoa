@@ -1,0 +1,122 @@
+{
+  "item.citadel.debug": {
+    "en": "Citadel Debugger",
+    "zh": null,
+    "vi": null
+  },
+  "item.citadel.citadel_book": {
+    "en": "Citadel Book",
+    "zh": null,
+    "vi": null
+  },
+  "item.citadel.effect_item": {
+    "en": "Potion Effect",
+    "zh": null,
+    "vi": null
+  },
+  "item.citadel.fancy_item": {
+    "en": "Fancy Item",
+    "zh": null,
+    "vi": null
+  },
+  "item.citadel.icon_item": {
+    "en": "Icon Item",
+    "zh": null,
+    "vi": null
+  },
+  "block.citadel.lectern": {
+    "en": "Lectern",
+    "zh": null,
+    "vi": null
+  },
+  "book.citadel_book.root": {
+    "en": "Citadel Book!!!",
+    "zh": null,
+    "vi": null
+  },
+  "book.citadel_book.link_example": {
+    "en": "Link Example",
+    "zh": null,
+    "vi": null
+  },
+  "book.citadel_book.hover_text_pillager_example": {
+    "en": "Entity Links are small, cute buttons!",
+    "zh": null,
+    "vi": null
+  },
+  "citadel.gui.patreon_rewards_option": {
+    "en": "Citadel Patreon Customization...",
+    "zh": null,
+    "vi": null
+  },
+  "citadel.gui.patreon_customization": {
+    "en": "Citadel Patreon Customization",
+    "zh": null,
+    "vi": null
+  },
+  "citadel.gui.capes_option": {
+    "en": "Cape Customization...",
+    "zh": null,
+    "vi": null
+  },
+  "citadel.gui.capes": {
+    "en": "Cape Customization",
+    "zh": null,
+    "vi": null
+  },
+  "citadel.gui.cape_type": {
+    "en": "Type:",
+    "zh": null,
+    "vi": null
+  },
+  "citadel.gui.no_cape": {
+    "en": "No Modded Cape",
+    "zh": null,
+    "vi": null
+  },
+  "citadel.gui.orbit_dist": {
+    "en": "Rotate Distance",
+    "zh": null,
+    "vi": null
+  },
+  "citadel.gui.orbit_speed": {
+    "en": "Rotate Speed",
+    "zh": null,
+    "vi": null
+  },
+  "citadel.gui.orbit_height": {
+    "en": "Rotate Height",
+    "zh": null,
+    "vi": null
+  },
+  "citadel.gui.reset": {
+    "en": "Reset",
+    "zh": null,
+    "vi": null
+  },
+  "citadel.gui.follower_type": {
+    "en": "Type: ",
+    "zh": null,
+    "vi": null
+  },
+  "citadel.follower.none": {
+    "en": "None",
+    "zh": null,
+    "vi": null
+  },
+  "citadel.follower.citadel": {
+    "en": "Space Station",
+    "zh": null,
+    "vi": null
+  },
+  "citadel.follower.citadel_red": {
+    "en": "Space Station (Red)",
+    "zh": null,
+    "vi": null
+  },
+  "citadel.follower.citadel_gray": {
+    "en": "Space Station (Gray)",
+    "zh": null,
+    "vi": null
+  }
+}

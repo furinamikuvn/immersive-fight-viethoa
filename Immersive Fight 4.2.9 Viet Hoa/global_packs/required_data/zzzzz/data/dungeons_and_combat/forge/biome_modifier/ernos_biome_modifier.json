@@ -1,0 +1,10 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": "regions_unexplored:alpha_grove",
+  "spawners": {
+    "type": "dungeons_and_combat:ernos",
+    "weight": 15,
+    "minCount": 1,
+    "maxCount": 1
+  }
+}

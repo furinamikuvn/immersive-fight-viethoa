@@ -1,0 +1,20 @@
+{
+  "name": "Bảo Thạch Phù Văn (Runic Gem)",
+  "icon": "simplyswords:runefused_gem",
+  "category": "simplyswords:category_gem_socketing",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:runefused_gem",
+      "text": "Chế tạo trên Bàn Rèn từ Tinh Thể Năng Lượng và Phiến Đá Phù Văn, giám định để khám phá năng lực ngẫu nhiên."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Khảm vào [Ô Phù Văn] của vũ khí độc nhất, kích hoạt khi tung đòn tấn công."
+    },
+    {
+      "type": "patchouli:smithing",
+      "recipe": "simplyswords:runefused_gem"
+    }
+  ]
+}

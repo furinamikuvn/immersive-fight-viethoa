@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " # ",
+    "PC ",
+    " # "
+  ],
+  "key": {
+    "#": {"item": "minecraft:dragon_breath"},
+    "P": {"item": "minecraft:dragon_head"},
+    "C": {"item": "minecraft:bow"}
+  },
+  "result": {
+    "item": "too_many_bows:dragons_breath"
+  }
+}

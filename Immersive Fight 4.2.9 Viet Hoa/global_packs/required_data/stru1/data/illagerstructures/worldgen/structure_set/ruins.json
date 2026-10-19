@@ -1,0 +1,13 @@
+{
+  "structures": [
+    { "structure": "illagerstructures:tower_ruin", "weight": 5 },
+    { "structure": "illagerstructures:ruined_church", "weight": 3 }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 50,
+    "separation": 20,
+    "spread_type": "triangular",
+    "salt": 45692817
+  }
+}

@@ -1,0 +1,67 @@
+show = true
+
+[number]
+	x = -140
+	y = 92
+	#Range: 0.0 ~ 10.0
+	scale = 3.0
+	show = true
+	#Range: 0.0 ~ 1.0
+	opacity = 1.0
+
+[title]
+	x = -140
+	y = 72
+	#Range: 0.0 ~ 10.0
+	scale = 3.2
+	show = true
+	#Range: 0.0 ~ 1.0
+	opacity = 1.0
+
+[combo]
+	x = -145
+	y = 114
+	#Range: 0.0 ~ 10.0
+	scale = 1.4
+	show = true
+	#Range: 0.0 ~ 1.0
+	opacity = 1.0
+
+[damage_list]
+	x = -90
+	y = 90
+	#Range: 0.0 ~ 10.0
+	scale = 1.0
+	show = true
+	#Range: 0.0 ~ 1.0
+	opacity = 1.0
+	max_size = 8
+
+[damage_rank]
+	#Use damage ranked style
+	enable = true
+	#Use format like "<damage amount>|<rank name>|<render color>"
+	option = ["0|§o§l𝔻|16777215", "10|§o§lℂ|16113331", "20|§o§l𝔹|16032864", "30|§o§l𝔸|16747520", "40|§o§l𝕊|16737095", "60|§o§l𝕊𝕊|16729344", "80|§o§l𝕊𝕊𝕊|16711680"]
+
+	[damage_rank.color]
+		#Color the damage number
+		number = true
+		#Color the title
+		title = true
+		#Color the title
+		combo = false
+
+[combo_rank]
+	#Use combo ranked style
+	enable = false
+	#Use format like "<combo>|<rank name>|<render color>"
+	option = ["0|D|16777215", "5|C|15138811", "10|B|12249087", "20|A|12248631", "40|S|16774502", "80|SS|16759702", "160|SSS|16753566"]
+
+	[combo_rank.color]
+		#Color the damage number
+		number = true
+		#Color the title
+		title = true
+		#Color the combo
+		combo = true
+

@@ -1,0 +1,12 @@
+{
+  "globalpacks.source.global": {
+    "en": "[Global] %s",
+    "zh": null,
+    "vi": null
+  },
+  "globalpacks.source.global_opt": {
+    "en": "[Global (Optional)] %s",
+    "zh": null,
+    "vi": null
+  }
+}

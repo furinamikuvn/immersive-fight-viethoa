@@ -1,0 +1,17 @@
+{
+  "name": "Trái tim của bầy đàn",
+  "icon": "simplyswords:hiveheart",
+  "advancement": "simplyswords:hiveheart",
+  "category": "simplyswords:category_unique_weapons",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:hiveheart",
+      "text": "Heart of the Swarm, một chiếc búa tạ hai tay bí ẩn trông giống như có một tổ ong gắn trên tay cầm. Vì lý do nào đó, những con ong trong tổ dường như được người dùng điều khiển, tấn công khi người dùng đang chiến đấu."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Lòng trung thành của bầy đàn dường như vượt xa những hành vi tấn công đơn giản. Người dùng có thể sử dụng các kỹ năng độc đáo để khiến những con ong tạo ra mật ong tái sinh để chữa lành vết thương cho người dùng, ngay cả những vết thương nghiêm trọng nhất cũng có thể được chữa lành."
+    }
+  ]
+}

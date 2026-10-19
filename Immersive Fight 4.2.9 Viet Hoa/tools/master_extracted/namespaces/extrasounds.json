@@ -1,0 +1,72 @@
+{
+  "soundCategory.extrasounds$master": {
+    "en": "ExtraSounds",
+    "zh": "ExtraSounds/额外音效",
+    "vi": null
+  },
+  "soundCategory.extrasounds$inventory": {
+    "en": "Inventory",
+    "zh": "物品栏",
+    "vi": null
+  },
+  "soundCategory.extrasounds$action": {
+    "en": "Actions",
+    "zh": "行为",
+    "vi": null
+  },
+  "soundCategory.extrasounds$chat": {
+    "en": "Chat Messages",
+    "zh": "聊天消息",
+    "vi": null
+  },
+  "soundCategory.extrasounds$chat_mention": {
+    "en": "Chat Mention",
+    "zh": "聊天提及",
+    "vi": null
+  },
+  "soundCategory.extrasounds$effects": {
+    "en": "Effects/Potions",
+    "zh": "效果/药水",
+    "vi": null
+  },
+  "soundCategory.extrasounds$hotbar": {
+    "en": "Hotbar",
+    "zh": "快捷栏",
+    "vi": null
+  },
+  "soundCategory.extrasounds$typing": {
+    "en": "Typing",
+    "zh": "打字",
+    "vi": null
+  },
+  "soundCategory.extrasounds$item_drop": {
+    "en": "Item Drop",
+    "zh": "丢弃物品音效",
+    "vi": null
+  },
+  "soundCategory.extrasounds$empty_hotbar": {
+    "en": "Empty Hotbar",
+    "zh": "空快捷栏音效",
+    "vi": null
+  },
+  "soundCategory.extrasounds$enabled_footstep": {
+    "en": "Footstep",
+    "zh": "脚步音效",
+    "vi": null
+  },
+  "soundCategory.extrasounds$enabled_effects": {
+    "en": "Effects",
+    "zh": "效果音效",
+    "vi": null
+  },
+  "soundCategory.extrasounds$enabled_poof": {
+    "en": "Poof",
+    "zh": "生物死亡音效",
+    "vi": null
+  },
+  "tooltip.soundCategory.extrasounds_action": {
+    "en": "This volume is applied when Item interactions, Block interactions and Entity events.",
+    "zh": "此音量适用于物品交互、方块交互和实体事件。",
+    "vi": null
+  }
+}

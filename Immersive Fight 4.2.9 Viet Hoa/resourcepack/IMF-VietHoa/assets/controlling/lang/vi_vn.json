@@ -1,0 +1,14 @@
+{
+  "options.showAll": "Hiển thị tất cả các phím",
+  "options.showConflicts": "Hiển thị các phím xung đột",
+  "options.showNone": "Hiển thị các phím không liên kết",
+  "options.availableKeys": "Phím tắt có sẵn",
+  "options.sort": "loại",
+  "options.category": "Phân loại",
+  "options.key": "Vị trí then chốt",
+  "options.sortNone": "không có",
+  "options.sortAZ": "A->Z",
+  "options.sortZA": "Z->A",
+  "options.toggleFree": "Chuyển đổi miễn phí",
+  "options.confirmReset": "Chắc chắn?"
+}

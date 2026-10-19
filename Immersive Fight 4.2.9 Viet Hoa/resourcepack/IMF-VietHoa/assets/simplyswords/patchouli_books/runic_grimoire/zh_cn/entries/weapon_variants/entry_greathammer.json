@@ -1,0 +1,26 @@
+{
+  "name": "Cự Chùy (Greathammer)",
+  "icon": "simplyswords:iron_greathammer",
+  "category": "simplyswords:category_weapon_variants",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:iron_greathammer",
+      "text": "Uy lực chấn động địa cầu, mỗi cú vung búa nghiền nát giáp trụ và làm choáng váng mọi kẻ thù trong phạm vi."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "simplyswords:iron_greathammer",
+      "recipe2": "simplyswords:gold_greathammer"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "simplyswords:diamond_greathammer"
+    },
+    {
+      "type": "patchouli:smithing",
+      "recipe": "simplyswords:netherite_greathammer",
+      "recipe2": "simplyswords:runic_greathammer"
+    }
+  ]
+}

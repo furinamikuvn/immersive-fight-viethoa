@@ -1,0 +1,242 @@
+{
+  "curios.name": {
+    "en": "Curios",
+    "zh": "饰品",
+    "vi": null
+  },
+  "curios.slot": {
+    "en": "Slot",
+    "zh": "栏位",
+    "vi": null
+  },
+  "curios.tooltip.slot": {
+    "en": "Slot:",
+    "zh": "栏位:",
+    "vi": null
+  },
+  "curios.cosmetic": {
+    "en": "Cosmetic",
+    "zh": "装饰品",
+    "vi": null
+  },
+  "commands.curios.set.success": {
+    "en": "Type %s now has been set to %d slots for %s",
+    "zh": "类型%s的%d栏位已设置为到%s中",
+    "vi": null
+  },
+  "commands.curios.add.success": {
+    "en": "%d slots of type %s have been added to %s",
+    "zh": "类型%s的%d栏位已添加到%s中",
+    "vi": null
+  },
+  "commands.curios.remove.success": {
+    "en": "%d slots of type %s have been removed from %s",
+    "zh": "类型%s的%d栏位已从%s中移除",
+    "vi": null
+  },
+  "commands.curios.unlock.success": {
+    "en": "Slot %s has been unlocked for %s",
+    "zh": "栏位%s已为%s启用",
+    "vi": null
+  },
+  "commands.curios.lock.success": {
+    "en": "Slot %s has been locked for %s",
+    "zh": "栏位%s已为%s禁用",
+    "vi": null
+  },
+  "commands.curios.clear.success": {
+    "en": "Slot %s has been cleared for %s",
+    "zh": "栏位%s已为%s清除",
+    "vi": null
+  },
+  "commands.curios.clearAll.success": {
+    "en": "All slots have been cleared for %s",
+    "zh": "已清除%s的所有栏位",
+    "vi": null
+  },
+  "commands.curios.drop.success": {
+    "en": "Dropped items in slot %s for %s",
+    "zh": null,
+    "vi": null
+  },
+  "commands.curios.dropAll.success": {
+    "en": "Dropped items in all slots for %s",
+    "zh": null,
+    "vi": null
+  },
+  "commands.curios.reset.success": {
+    "en": "Reset slots for %s",
+    "zh": "重置%s的栏位",
+    "vi": null
+  },
+  "commands.curios.replace.success": {
+    "en": "Replaced slot %s for %s with %s",
+    "zh": null,
+    "vi": null
+  },
+  "argument.entity.options.curios.description": {
+    "en": "Entity curios inventory",
+    "zh": "实体饰品栏",
+    "vi": null
+  },
+  "argument.curios.type.unknown": {
+    "en": "Unknown curio slot type %s",
+    "zh": "未知的栏位类型%s",
+    "vi": null
+  },
+  "curios.identifier.curio": {
+    "en": "Curio",
+    "zh": "饰品",
+    "vi": null
+  },
+  "curios.identifier.necklace": {
+    "en": "Necklace",
+    "zh": "项链",
+    "vi": null
+  },
+  "curios.identifier.ring": {
+    "en": "Ring",
+    "zh": "戒指",
+    "vi": null
+  },
+  "curios.identifier.head": {
+    "en": "Head",
+    "zh": "首饰",
+    "vi": null
+  },
+  "curios.identifier.back": {
+    "en": "Back",
+    "zh": "背饰",
+    "vi": null
+  },
+  "curios.identifier.belt": {
+    "en": "Belt",
+    "zh": "腰带",
+    "vi": null
+  },
+  "curios.identifier.body": {
+    "en": "Body",
+    "zh": "胸饰",
+    "vi": null
+  },
+  "curios.identifier.charm": {
+    "en": "Charm",
+    "zh": "护符",
+    "vi": null
+  },
+  "curios.identifier.hands": {
+    "en": "Hands",
+    "zh": "手饰",
+    "vi": null
+  },
+  "curios.identifier.bracelet": {
+    "en": "Bracelet",
+    "zh": "手镯",
+    "vi": null
+  },
+  "curios.modifiers.curio": {
+    "en": "When worn as curio:",
+    "zh": "佩戴饰品时：",
+    "vi": null
+  },
+  "curios.modifiers.necklace": {
+    "en": "When around neck:",
+    "zh": "佩戴项链时：",
+    "vi": null
+  },
+  "curios.modifiers.ring": {
+    "en": "When worn as ring:",
+    "zh": "佩戴戒指时：",
+    "vi": null
+  },
+  "curios.modifiers.head": {
+    "en": "When on head:",
+    "zh": "佩戴首饰时：",
+    "vi": null
+  },
+  "curios.modifiers.back": {
+    "en": "When on back:",
+    "zh": "佩戴背饰时：",
+    "vi": null
+  },
+  "curios.modifiers.belt": {
+    "en": "When worn as belt:",
+    "zh": "佩戴腰带时：",
+    "vi": null
+  },
+  "curios.modifiers.body": {
+    "en": "When on body:",
+    "zh": "佩戴胸饰时：",
+    "vi": null
+  },
+  "curios.modifiers.charm": {
+    "en": "When worn as charm:",
+    "zh": "佩戴护符时：",
+    "vi": null
+  },
+  "curios.modifiers.hands": {
+    "en": "When on hands:",
+    "zh": "佩戴手饰时：",
+    "vi": null
+  },
+  "curios.modifiers.bracelet": {
+    "en": "When worn as bracelet:",
+    "zh": "佩戴手镯时：",
+    "vi": null
+  },
+  "curios.modifiers.slots.plus.0": {
+    "en": "+%s %s Slots",
+    "zh": "+%s %s 栏位",
+    "vi": null
+  },
+  "curios.modifiers.slots.plus.1": {
+    "en": "+%s%% %s Slots",
+    "zh": "+%s%% %s 栏位",
+    "vi": null
+  },
+  "curios.modifiers.slots.plus.2": {
+    "en": "+%s%% %s Slots",
+    "zh": "+%s%% %s 栏位",
+    "vi": null
+  },
+  "curios.modifiers.slots.take.0": {
+    "en": "-%s %s Slots",
+    "zh": "-%s %s 栏位",
+    "vi": null
+  },
+  "curios.modifiers.slots.take.1": {
+    "en": "-%s%% %s Slots",
+    "zh": "-%s%% %s 栏位",
+    "vi": null
+  },
+  "curios.modifiers.slots.take.2": {
+    "en": "-%s%% %s Slots",
+    "zh": "-%s%% %s 栏位",
+    "vi": null
+  },
+  "key.curios.category": {
+    "en": "Curios",
+    "zh": "饰品",
+    "vi": null
+  },
+  "key.curios.open.desc": {
+    "en": "Open/Close Curios Inventory",
+    "zh": "打开/关闭饰品栏",
+    "vi": null
+  },
+  "gui.curios.toggle": {
+    "en": "Toggle Visibility",
+    "zh": "切换是否可见",
+    "vi": null
+  },
+  "gui.curios.toggle.cosmetics": {
+    "en": "Toggle Cosmetics",
+    "zh": null,
+    "vi": null
+  },
+  "gui.curios.page": {
+    "en": "Page %d / %d",
+    "zh": null,
+    "vi": null
+  }
+}

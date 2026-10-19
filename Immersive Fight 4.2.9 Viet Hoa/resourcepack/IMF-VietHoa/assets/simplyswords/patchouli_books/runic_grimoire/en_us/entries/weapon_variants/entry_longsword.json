@@ -1,0 +1,26 @@
+{
+  "name": "Trường Kiếm (Longsword)",
+  "icon": "simplyswords:iron_longsword",
+  "category": "simplyswords:category_weapon_variants",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:iron_longsword",
+      "text": "Trường kiếm đa năng công thủ toàn diện, vũ khí kinh điển lừng danh của các hiệp sĩ thời trung cổ."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "simplyswords:iron_longsword",
+      "recipe2": "simplyswords:gold_longsword"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "simplyswords:diamond_longsword"
+    },
+    {
+      "type": "patchouli:smithing",
+      "recipe": "simplyswords:netherite_longsword",
+      "recipe2": "simplyswords:runic_longsword"
+    }
+  ]
+}

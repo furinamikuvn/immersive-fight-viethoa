@@ -1,0 +1,22 @@
+{
+  "gui.lionfishapi.optifine.message": {
+    "en": "Optifine is very incompatible between different mods!",
+    "zh": null,
+    "vi": null
+  },
+  "gui.lionfishapi.optifine.xenonsuggestions": {
+    "en": "Instead Optimization Mod Xenon",
+    "zh": null,
+    "vi": null
+  },
+  "gui.lionfishapi.optifine.oculussuggestions": {
+    "en": "Instead Shader Mod Oculus",
+    "zh": null,
+    "vi": null
+  },
+  "gui.lionfishapi.optifine.title": {
+    "en": "STOP USING OPTIFINE",
+    "zh": null,
+    "vi": null
+  }
+}

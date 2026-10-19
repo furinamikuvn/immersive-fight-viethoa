@@ -1,0 +1,1037 @@
+{
+  "item_group.soul_like_armors_reworked.other_items_tab": {
+    "en": null,
+    "zh": "类魂盔甲：其他",
+    "vi": "Áo giáp giống như linh hồn: Khác"
+  },
+  "item_group.soul_like_armors_reworked.armor_tab": {
+    "en": null,
+    "zh": "类魂盔甲",
+    "vi": "Áo giáp giống như linh hồn"
+  },
+  "item.soul_like_armors_reworked.wolfknight_boots": {
+    "en": "Wolf knight Boots",
+    "zh": "狼骑士靴子",
+    "vi": "Wolf knight Boots"
+  },
+  "item.soul_like_armors_reworked.crystaltrident": {
+    "en": "Crystal blade",
+    "zh": "水晶大刀",
+    "vi": "Crystal blade"
+  },
+  "effect.soul_like_armors_reworked.wait": {
+    "en": "wait",
+    "zh": "等待",
+    "vi": "Chờ đợi"
+  },
+  "enchantment.soul_like_armors_reworked.infinitemagic": {
+    "en": "Infinite magic",
+    "zh": "无限魔法",
+    "vi": "phép thuật vô hạn"
+  },
+  "enchantment.soul_like_armors_reworked.infinitemagic.desc": {
+    "en": "can use the magic wand without consuming any magic dust.",
+    "zh": "魔杖不消耗魔法尘",
+    "vi": "Đũa phép không tiêu tốn bụi ma thuật"
+  },
+  "item.soul_like_armors_reworked.abysswatcher_boots": {
+    "en": "Abyss watcher Boots",
+    "zh": "深渊守望者靴子",
+    "vi": "Abyss watcher Boots"
+  },
+  "item.soul_like_armors_reworked.abysswatcher_chestplate": {
+    "en": "Abyss watcher Body",
+    "zh": "深渊守望者胸甲",
+    "vi": "Abyss watcher Body"
+  },
+  "item.soul_like_armors_reworked.abysswatcher_helmet": {
+    "en": "Abyss watcher Helmet",
+    "zh": "深渊守望者头盔",
+    "vi": "Abyss watcher Helmet"
+  },
+  "item.soul_like_armors_reworked.abysswatcher_leggings": {
+    "en": "Abyss watcher Leggings",
+    "zh": "深渊守望者护腿",
+    "vi": "Abyss watcher Leggings"
+  },
+  "item.soul_like_armors_reworked.alloy_boots": {
+    "en": "Alloy Boots",
+    "zh": "合金靴子",
+    "vi": "Alloy Boots"
+  },
+  "item.soul_like_armors_reworked.alloy_chestplate": {
+    "en": "Alloy Body",
+    "zh": "合金胸甲",
+    "vi": "Alloy Body"
+  },
+  "item.soul_like_armors_reworked.alloy_helmet": {
+    "en": "Alloy Helmet",
+    "zh": "合金头盔",
+    "vi": "Alloy Helmet"
+  },
+  "item.soul_like_armors_reworked.alloy_leggings": {
+    "en": "Alloy Leggings",
+    "zh": "合金护腿",
+    "vi": "Alloy Leggings"
+  },
+  "item.soul_like_armors_reworked.alloygreatsword": {
+    "en": "Alloy greatsword",
+    "zh": "虚无长剑",
+    "vi": "Alloy greatsword"
+  },
+  "item.soul_like_armors_reworked.assassin_boots": {
+    "en": "Assassin Boots",
+    "zh": "刺客靴",
+    "vi": "Assassin Boots"
+  },
+  "item.soul_like_armors_reworked.assassin_chestplate": {
+    "en": "Assassin Body",
+    "zh": "刺客胸甲",
+    "vi": "Assassin Body"
+  },
+  "item.soul_like_armors_reworked.assassin_helmet": {
+    "en": "Assassin Helmet",
+    "zh": "刺客头盔",
+    "vi": "Assassin Helmet"
+  },
+  "item.soul_like_armors_reworked.assassin_leggings": {
+    "en": "Assassin Leggings",
+    "zh": "刺客护腿",
+    "vi": "Assassin Leggings"
+  },
+  "item.soul_like_armors_reworked.victoriousknight_chestplate": {
+    "en": "Victorious knight Body",
+    "zh": "胜利骑士胸甲",
+    "vi": "Victorious knight Body"
+  },
+  "item.soul_like_armors_reworked.victoriousknight_helmet": {
+    "en": "Victorious knight Helmet",
+    "zh": "胜利骑士头盔",
+    "vi": "Victorious knight Helmet"
+  },
+  "item.soul_like_armors_reworked.victoriousknight_boots": {
+    "en": "Victorious knight Boots",
+    "zh": "胜利骑士靴",
+    "vi": "Victorious knight Boots"
+  },
+  "item.soul_like_armors_reworked.victoriousknight_leggings": {
+    "en": "Victorious knight Leggings",
+    "zh": "胜利骑士护腿",
+    "vi": "Victorious knight Leggings"
+  },
+  "item.soul_like_armors_reworked.victoriousgreatsword": {
+    "en": "Victorious greatsword",
+    "zh": "胜利大剑",
+    "vi": "Victorious greatsword"
+  },
+  "item.soul_like_armors_reworked.battleaxe": {
+    "en": "Battle axe",
+    "zh": "战斧",
+    "vi": "Battle axe"
+  },
+  "itemGroup.tabtab_9": {
+    "en": null,
+    "zh": "soul like armors: 胜利骑士",
+    "vi": "linh hồn như áo giáp: hiệp sĩ chiến thắng"
+  },
+  "itemGroup.tabtab_5": {
+    "en": "soul like armors: update",
+    "zh": "soul like armors: 锈蚀钢铁",
+    "vi": "linh hồn như áo giáp: thép rỉ sét"
+  },
+  "itemGroup.tabtab_6": {
+    "en": null,
+    "zh": "soul like armors: 合金",
+    "vi": "linh hồn như áo giáp: hợp kim"
+  },
+  "itemGroup.tabtab_7": {
+    "en": null,
+    "zh": "soul like armors: 黑骑士",
+    "vi": "linh hồn như áo giáp: hiệp sĩ đen"
+  },
+  "itemGroup.tabtab_8": {
+    "en": null,
+    "zh": "soul like armors: 黑男爵",
+    "vi": "linh hồn như áo giáp: nam tước đen"
+  },
+  "itemGroup.tabtab_1": {
+    "en": "soul like armors: armors",
+    "zh": "soul like armors: 护甲",
+    "vi": "linh hồn như áo giáp: áo giáp"
+  },
+  "itemGroup.tabtab_2": {
+    "en": "soul like armors: others",
+    "zh": "soul like armors: 其他",
+    "vi": "linh hồn như áo giáp: khác"
+  },
+  "itemGroup.tabtab_3": {
+    "en": "soul like armors: weapons",
+    "zh": "soul like armors: 武器",
+    "vi": "linh hồn như áo giáp: vũ khí"
+  },
+  "itemGroup.tabtab_4": {
+    "en": "soul like armors: shields",
+    "zh": "soul like armors: 盾牌",
+    "vi": "linh hồn như áo giáp: lá chắn"
+  },
+  "item.soul_like_armors_reworked.blackbaron_chestplate": {
+    "en": "Black baron robe",
+    "zh": "黑男爵长袍",
+    "vi": "Black baron robe"
+  },
+  "item.soul_like_armors_reworked.blackbaron_helmet": {
+    "en": "Black baron Hat",
+    "zh": "黑男爵帽子",
+    "vi": "Black baron Hat"
+  },
+  "item.soul_like_armors_reworked.blackbaron_leggings": {
+    "en": "Black baron Leggings",
+    "zh": "黑男爵护腿",
+    "vi": "Black baron Leggings"
+  },
+  "item.soul_like_armors_reworked.blackbaron_boots": {
+    "en": "Black baron Boots",
+    "zh": "黑男爵靴",
+    "vi": "Black baron Boots"
+  },
+  "item.soul_like_armors_reworked.blackbaronsword": {
+    "en": "saw cleaver",
+    "zh": "黑男爵的锯斧",
+    "vi": "saw cleaver"
+  },
+  "item.soul_like_armors_reworked.foldedsawsickle": {
+    "en": "Folded saw cleaver",
+    "zh": "折叠锯斧",
+    "vi": "Folded saw cleaver"
+  },
+  "item.soul_like_armors_reworked.blackkatana": {
+    "en": "black katana",
+    "zh": "黑暗武士刀",
+    "vi": "black katana"
+  },
+  "item.soul_like_armors_reworked.blacksamurai_boots": {
+    "en": "Black samurai Boots",
+    "zh": "黑武士靴",
+    "vi": "Black samurai Boots"
+  },
+  "item.soul_like_armors_reworked.blacksamurai_chestplate": {
+    "en": "Black samurai Body",
+    "zh": "黑武士胸甲",
+    "vi": "Black samurai Body"
+  },
+  "item.soul_like_armors_reworked.blacksamurai_helmet": {
+    "en": "Black samurai Helmet",
+    "zh": "黑武士头盔",
+    "vi": "Black samurai Helmet"
+  },
+  "item.soul_like_armors_reworked.blacksamurai_leggings": {
+    "en": "Black samurai Leggings",
+    "zh": "黑武士护腿",
+    "vi": "Black samurai Leggings"
+  },
+  "item.soul_like_armors_reworked.bloodtrident": {
+    "en": "Blood trident",
+    "zh": "血之三叉戟",
+    "vi": "Blood trident"
+  },
+  "item.soul_like_armors_reworked.bloodykatana": {
+    "en": "Bloodthirsty blade",
+    "zh": "嗜血之刃",
+    "vi": "Bloodthirsty blade"
+  },
+  "item.soul_like_armors_reworked.cinderkingblade": {
+    "en": "Cinder king's blade",
+    "zh": "恶魔之刃",
+    "vi": "Cinder king's blade"
+  },
+  "item.soul_like_armors_reworked.crossshield": {
+    "en": "Cross shield",
+    "zh": "十字盾",
+    "vi": "Cross shield"
+  },
+  "item.soul_like_armors_reworked.crusade_boots": {
+    "en": "Crusade Boots",
+    "zh": "十字军靴子",
+    "vi": "Crusade Boots"
+  },
+  "item.soul_like_armors_reworked.crusade_chestplate": {
+    "en": "Crusade Body",
+    "zh": "十字军胸甲",
+    "vi": "Crusade Body"
+  },
+  "item.soul_like_armors_reworked.crusade_helmet": {
+    "en": "Crusade Helmet",
+    "zh": "十字军头盔",
+    "vi": "Crusade Helmet"
+  },
+  "item.soul_like_armors_reworked.crusade_leggings": {
+    "en": "Crusade Leggings",
+    "zh": "十字军护腿",
+    "vi": "Crusade Leggings"
+  },
+  "item.soul_like_armors_reworked.crusadeshield": {
+    "en": "Crusade shield",
+    "zh": "十字军盾牌",
+    "vi": "Crusade shield"
+  },
+  "item.soul_like_armors_reworked.dagger": {
+    "en": "Dagger",
+    "zh": "匕首",
+    "vi": "Dagger"
+  },
+  "item.soul_like_armors_reworked.dark_knight_boots": {
+    "en": "Dark Knight Boots",
+    "zh": "黑暗骑士靴子",
+    "vi": "Dark Knight Boots"
+  },
+  "item.soul_like_armors_reworked.dark_knight_chestplate": {
+    "en": "Dark Knight Body",
+    "zh": "黑暗骑士胸甲",
+    "vi": "Dark Knight Body"
+  },
+  "item.soul_like_armors_reworked.dark_knight_helmet": {
+    "en": "Dark Knight Helmet",
+    "zh": "黑暗骑士头盔",
+    "vi": "Dark Knight Helmet"
+  },
+  "item.soul_like_armors_reworked.dark_knight_leggings": {
+    "en": "Dark Knight Leggings",
+    "zh": "黑暗骑士护腿",
+    "vi": "Dark Knight Leggings"
+  },
+  "item.soul_like_armors_reworked.darkknightshield": {
+    "en": "dark knight's shield",
+    "zh": "黑暗骑士盾",
+    "vi": "dark knight's shield"
+  },
+  "item.soul_like_armors_reworked.darkknightsword": {
+    "en": "Dark knight's sword",
+    "zh": "黑暗骑士之剑",
+    "vi": "Dark knight's sword"
+  },
+  "item.soul_like_armors_reworked.darkknighttrident": {
+    "en": "Dark knight's spear",
+    "zh": "黑暗骑士之矛",
+    "vi": "Dark knight's spear"
+  },
+  "item.soul_like_armors_reworked.darkmoongreatsword": {
+    "en": "Darkmoon greatsword",
+    "zh": "金丝长剑",
+    "vi": "Darkmoon greatsword"
+  },
+  "item.soul_like_armors_reworked.dragonslayer_boots": {
+    "en": "Dragon slayer Boots",
+    "zh": "屠龙者靴子",
+    "vi": "Dragon slayer Boots"
+  },
+  "item.soul_like_armors_reworked.dragonslayer_chestplate": {
+    "en": "Dragon slayer Body",
+    "zh": "屠龙者胸甲",
+    "vi": "Dragon slayer Body"
+  },
+  "item.soul_like_armors_reworked.dragonslayer_helmet": {
+    "en": "Dragon slayer Helmet",
+    "zh": "屠龙者头盔",
+    "vi": "Dragon slayer Helmet"
+  },
+  "item.soul_like_armors_reworked.dragonslayer_leggings": {
+    "en": "Dragon slayer Leggings",
+    "zh": "屠龙者护腿",
+    "vi": "Dragon slayer Leggings"
+  },
+  "item.soul_like_armors_reworked.dragonslayeraxe": {
+    "en": "Dragon slayer's greataxe",
+    "zh": "嗜血之镰",
+    "vi": "Dragon slayer's greataxe"
+  },
+  "item.soul_like_armors_reworked.dragonslayershield": {
+    "en": "Dragon slayer's shield",
+    "zh": "屠龙者盾牌",
+    "vi": "Dragon slayer's shield"
+  },
+  "item.soul_like_armors_reworked.druid_boots": {
+    "en": "Druid Boots",
+    "zh": "德鲁伊靴子",
+    "vi": "Druid Boots"
+  },
+  "item.soul_like_armors_reworked.druid_chestplate": {
+    "en": "Druid Body",
+    "zh": "德鲁伊胸甲",
+    "vi": "Druid Body"
+  },
+  "item.soul_like_armors_reworked.druid_helmet": {
+    "en": "Druid Helmet",
+    "zh": "德鲁伊头盔",
+    "vi": "Druid Helmet"
+  },
+  "item.soul_like_armors_reworked.druid_leggings": {
+    "en": "Druid Leggings",
+    "zh": "德鲁伊护腿",
+    "vi": "Druid Leggings"
+  },
+  "item.soul_like_armors_reworked.estusflask": {
+    "en": "Estus flask",
+    "zh": "恶魔之瓶",
+    "vi": "Estus flask"
+  },
+  "item.soul_like_armors_reworked.farrondagger": {
+    "en": "Farron's dagger",
+    "zh": "暗月匕首",
+    "vi": "Farron's dagger"
+  },
+  "item.soul_like_armors_reworked.farronsword": {
+    "en": "Farron's greatsword",
+    "zh": "银刺剑",
+    "vi": "Farron's greatsword"
+  },
+  "item.soul_like_armors_reworked.goldensword": {
+    "en": "Golden sword",
+    "zh": "大天使剑",
+    "vi": "Golden sword"
+  },
+  "item.soul_like_armors_reworked.greathammer": {
+    "en": "golden greathammer",
+    "zh": "黄金巨锤",
+    "vi": "golden greathammer"
+  },
+  "item.soul_like_armors_reworked.greatsword": {
+    "en": "Greatsword",
+    "zh": "巨剑",
+    "vi": "Greatsword"
+  },
+  "item.soul_like_armors_reworked.heavyshield": {
+    "en": "Heavy shield",
+    "zh": "重型盾牌",
+    "vi": "Heavy shield"
+  },
+  "item.soul_like_armors_reworked.hunter_boots": {
+    "en": "Hunter Boots",
+    "zh": "猎人靴",
+    "vi": "Hunter Boots"
+  },
+  "item.soul_like_armors_reworked.hunter_chestplate": {
+    "en": "Hunter Body",
+    "zh": "猎人胸甲",
+    "vi": "Hunter Body"
+  },
+  "item.soul_like_armors_reworked.hunter_helmet": {
+    "en": "Hunter Helmet",
+    "zh": "猎人头盔",
+    "vi": "Hunter Helmet"
+  },
+  "item.soul_like_armors_reworked.hunter_leggings": {
+    "en": "Hunter Leggings",
+    "zh": "猎人护腿",
+    "vi": "Hunter Leggings"
+  },
+  "item.soul_like_armors_reworked.immortalknight_boots": {
+    "en": "Immortal knight Boots",
+    "zh": "不朽骑士靴子",
+    "vi": "Immortal knight Boots"
+  },
+  "item.soul_like_armors_reworked.immortalknight_chestplate": {
+    "en": "Immortal knight Body",
+    "zh": "不朽骑士胸甲",
+    "vi": "Immortal knight Body"
+  },
+  "item.soul_like_armors_reworked.immortalknight_helmet": {
+    "en": "Immortal knight Helmet",
+    "zh": "不朽骑士头盔",
+    "vi": "Immortal knight Helmet"
+  },
+  "item.soul_like_armors_reworked.immortalknight_leggings": {
+    "en": "Immortal knight Leggings",
+    "zh": "不朽骑士护腿",
+    "vi": "Immortal knight Leggings"
+  },
+  "item.soul_like_armors_reworked.kata_sword": {
+    "en": "Katana",
+    "zh": "血色武士刀",
+    "vi": "Katana"
+  },
+  "item.soul_like_armors_reworked.knight_boots": {
+    "en": "Knight Boots",
+    "zh": "骑士靴子",
+    "vi": "Knight Boots"
+  },
+  "item.soul_like_armors_reworked.knight_chestplate": {
+    "en": "Knight Body",
+    "zh": "骑士胸甲",
+    "vi": "Knight Body"
+  },
+  "item.soul_like_armors_reworked.knight_helmet": {
+    "en": "Knight Helmet",
+    "zh": "骑士头盔",
+    "vi": "Knight Helmet"
+  },
+  "item.soul_like_armors_reworked.knight_leggings": {
+    "en": "Knight Leggings",
+    "zh": "骑士护腿",
+    "vi": "Knight Leggings"
+  },
+  "item.soul_like_armors_reworked.knight_soul_knife": {
+    "en": "Knight sword",
+    "zh": "骑士之剑",
+    "vi": "Knight sword"
+  },
+  "item.soul_like_armors_reworked.lightninglord_boots": {
+    "en": "Lightning lord Boots",
+    "zh": "雷电领主靴子",
+    "vi": "Lightning lord Boots"
+  },
+  "item.soul_like_armors_reworked.lightninglord_chestplate": {
+    "en": "Lightning lord Body",
+    "zh": "雷电领主胸甲",
+    "vi": "Lightning lord Body"
+  },
+  "item.soul_like_armors_reworked.lightninglord_helmet": {
+    "en": "Lightning lord Helmet",
+    "zh": "闪电领主头盔",
+    "vi": "Lightning lord Helmet"
+  },
+  "item.soul_like_armors_reworked.lightninglord_leggings": {
+    "en": "Lightning lord Leggings",
+    "zh": "雷电领主护腿",
+    "vi": "Lightning lord Leggings"
+  },
+  "item.soul_like_armors_reworked.lightningsword": {
+    "en": "Lightning spear",
+    "zh": "烈焰长剑",
+    "vi": "Lightning spear"
+  },
+  "item.soul_like_armors_reworked.longhammer": {
+    "en": "battle hammer",
+    "zh": "战锤",
+    "vi": "battle hammer"
+  },
+  "item.soul_like_armors_reworked.longinustrident": {
+    "en": "lance of longinus",
+    "zh": "大天使之矛",
+    "vi": "lance of longinus"
+  },
+  "item.soul_like_armors_reworked.longsword": {
+    "en": "Longsword",
+    "zh": "长剑",
+    "vi": "Longsword"
+  },
+  "item.soul_like_armors_reworked.mace": {
+    "en": "Mace",
+    "zh": "狼牙棒",
+    "vi": "Mace"
+  },
+  "item.soul_like_armors_reworked.magicdust": {
+    "en": "Magic dust",
+    "zh": "魔法尘",
+    "vi": "Magic dust"
+  },
+  "item.soul_like_armors_reworked.magicer": {
+    "en": "Magic wand",
+    "zh": "魔杖",
+    "vi": "Magic wand"
+  },
+  "item.soul_like_armors_reworked.magicshooter": {
+    "en": "no use",
+    "zh": "无用",
+    "vi": "no use"
+  },
+  "item.soul_like_armors_reworked.mirrorshield": {
+    "en": "Mirror shield",
+    "zh": "镜盾",
+    "vi": "Mirror shield"
+  },
+  "item.soul_like_armors_reworked.monkeyhammer": {
+    "en": "Monkey bar",
+    "zh": "暗月银枪",
+    "vi": "Monkey bar"
+  },
+  "item.soul_like_armors_reworked.monkeyking_boots": {
+    "en": "Monkey king Boots",
+    "zh": "猴王靴子",
+    "vi": "Monkey king Boots"
+  },
+  "item.soul_like_armors_reworked.monkeyking_chestplate": {
+    "en": "Monkey king Body",
+    "zh": "猴王胸甲",
+    "vi": "Monkey king Body"
+  },
+  "item.soul_like_armors_reworked.monkeyking_helmet": {
+    "en": "Monkey king Helmet",
+    "zh": "猴王头盔",
+    "vi": "Monkey king Helmet"
+  },
+  "item.soul_like_armors_reworked.monkeyking_leggings": {
+    "en": "Monkey king Leggings",
+    "zh": "猴王护腿",
+    "vi": "Monkey king Leggings"
+  },
+  "item.soul_like_armors_reworked.moonkatana": {
+    "en": "Moonlight greatsword",
+    "zh": "月光长剑",
+    "vi": "Moonlight greatsword"
+  },
+  "item.soul_like_armors_reworked.nightcrow_boots": {
+    "en": "Night crow Boots",
+    "zh": "夜鸦靴子",
+    "vi": "Night crow Boots"
+  },
+  "item.soul_like_armors_reworked.nightcrow_chestplate": {
+    "en": "Night crow Body",
+    "zh": "夜鸦胸甲",
+    "vi": "Night crow Body"
+  },
+  "item.soul_like_armors_reworked.nightcrow_helmet": {
+    "en": "Night crow Helmet",
+    "zh": "夜鸦头盔",
+    "vi": "Night crow Helmet"
+  },
+  "item.soul_like_armors_reworked.nightcrow_leggings": {
+    "en": "Night crow Leggings",
+    "zh": "夜鸦护腿",
+    "vi": "Night crow Leggings"
+  },
+  "item.soul_like_armors_reworked.nightcrowsword": {
+    "en": "Night crow's sword",
+    "zh": "夜鸦之剑",
+    "vi": "Night crow's sword"
+  },
+  "item.soul_like_armors_reworked.northknight_boots": {
+    "en": "North knight Boots",
+    "zh": "北方骑士靴子",
+    "vi": "North knight Boots"
+  },
+  "item.soul_like_armors_reworked.northknight_chestplate": {
+    "en": "North knight Body",
+    "zh": "北方骑士胸甲",
+    "vi": "North knight Body"
+  },
+  "item.soul_like_armors_reworked.northknight_helmet": {
+    "en": "North knight Helmet",
+    "zh": "北方骑士头盔",
+    "vi": "North knight Helmet"
+  },
+  "item.soul_like_armors_reworked.northknight_leggings": {
+    "en": "North knight Leggings",
+    "zh": "北方骑士护腿",
+    "vi": "North knight Leggings"
+  },
+  "item.soul_like_armors_reworked.ornstein_boots": {
+    "en": "Ornstein Boots",
+    "zh": "奥恩斯坦靴子",
+    "vi": "Ornstein Boots"
+  },
+  "item.soul_like_armors_reworked.ornstein_chestplate": {
+    "en": "Ornstein Body",
+    "zh": "奥恩斯坦胸甲",
+    "vi": "Ornstein Body"
+  },
+  "item.soul_like_armors_reworked.ornstein_helmet": {
+    "en": "Ornstein Helmet",
+    "zh": "奥恩斯坦头盔",
+    "vi": "Ornstein Helmet"
+  },
+  "item.soul_like_armors_reworked.ornstein_leggings": {
+    "en": "Ornstein Leggings",
+    "zh": "奥恩斯坦护腿",
+    "vi": "Ornstein Leggings"
+  },
+  "item.soul_like_armors_reworked.ornsteinspsword": {
+    "en": "Ornstein's spear",
+    "zh": "烈焰长矛",
+    "vi": "Ornstein's spear"
+  },
+  "item.soul_like_armors_reworked.paladin_boots": {
+    "en": "Paladin Boots",
+    "zh": "圣骑士靴子",
+    "vi": "Paladin Boots"
+  },
+  "item.soul_like_armors_reworked.paladin_chestplate": {
+    "en": "Paladin Body",
+    "zh": "圣骑士胸甲",
+    "vi": "Paladin Body"
+  },
+  "item.soul_like_armors_reworked.paladin_helmet": {
+    "en": "Paladin Helmet",
+    "zh": "圣骑士头盔",
+    "vi": "Paladin Helmet"
+  },
+  "item.soul_like_armors_reworked.paladin_leggings": {
+    "en": "Paladin Leggings",
+    "zh": "圣骑士护腿",
+    "vi": "Paladin Leggings"
+  },
+  "item.soul_like_armors_reworked.platinumknight_boots": {
+    "en": "Platinum knight Boots",
+    "zh": "铂金骑士靴子",
+    "vi": "Platinum knight Boots"
+  },
+  "item.soul_like_armors_reworked.platinumknight_chestplate": {
+    "en": "Platinum knight Body",
+    "zh": "铂金骑士胸甲",
+    "vi": "Platinum knight Body"
+  },
+  "item.soul_like_armors_reworked.platinumknight_helmet": {
+    "en": "Platinum knight Helmet",
+    "zh": "白金骑士头盔",
+    "vi": "Platinum knight Helmet"
+  },
+  "item.soul_like_armors_reworked.platinumknight_leggings": {
+    "en": "Platinum knight Leggings",
+    "zh": "铂金骑士护腿",
+    "vi": "Platinum knight Leggings"
+  },
+  "item.soul_like_armors_reworked.platinumspsword": {
+    "en": "Platinum spear",
+    "zh": "荣耀长矛",
+    "vi": "Platinum spear"
+  },
+  "item.soul_like_armors_reworked.priest_boots": {
+    "en": "Priest Boots",
+    "zh": "牧师靴子",
+    "vi": "Priest Boots"
+  },
+  "item.soul_like_armors_reworked.priest_chestplate": {
+    "en": "Priest Body",
+    "zh": "牧师胸甲",
+    "vi": "Priest Body"
+  },
+  "item.soul_like_armors_reworked.priest_helmet": {
+    "en": "Priest Helmet",
+    "zh": "牧师头盔",
+    "vi": "Priest Helmet"
+  },
+  "item.soul_like_armors_reworked.priest_leggings": {
+    "en": "Priest Leggings",
+    "zh": "牧师护腿",
+    "vi": "Priest Leggings"
+  },
+  "item.soul_like_armors_reworked.repairplate": {
+    "en": "Repairplate",
+    "zh": "盔甲升级板",
+    "vi": "Repairplate"
+  },
+  "item.soul_like_armors_reworked.roundshield": {
+    "en": "Round shield",
+    "zh": "圆盾",
+    "vi": "Round shield"
+  },
+  "item.soul_like_armors_reworked.royalknight_boots": {
+    "en": "Royalknight Boots",
+    "zh": "皇家骑士靴",
+    "vi": "Royalknight Boots"
+  },
+  "item.soul_like_armors_reworked.royalknight_chestplate": {
+    "en": "Royal knight Body",
+    "zh": "皇家骑士胸甲",
+    "vi": "Royal knight Body"
+  },
+  "item.soul_like_armors_reworked.royalknight_helmet": {
+    "en": "Royal knight Helmet",
+    "zh": "皇家骑士头盔",
+    "vi": "Royal knight Helmet"
+  },
+  "item.soul_like_armors_reworked.royalknight_leggings": {
+    "en": "Royal knight Leggings",
+    "zh": "皇家骑士护腿",
+    "vi": "Royal knight Leggings"
+  },
+  "item.soul_like_armors_reworked.rustyshield": {
+    "en": "rusted shield",
+    "zh": "生锈的盾牌",
+    "vi": "rusted shield"
+  },
+  "item.soul_like_armors_reworked.rustysteel_boots": {
+    "en": "Rusted steel Boots",
+    "zh": "生锈钢靴子",
+    "vi": "Rusted steel Boots"
+  },
+  "item.soul_like_armors_reworked.rustysteel_chestplate": {
+    "en": "Rusted steel Body",
+    "zh": "锈蚀钢铁胸甲",
+    "vi": "Rusted steel Body"
+  },
+  "item.soul_like_armors_reworked.rustysteel_helmet": {
+    "en": "Rusted steel Helmet",
+    "zh": "生锈钢头盔",
+    "vi": "Rusted steel Helmet"
+  },
+  "item.soul_like_armors_reworked.rustysteel_leggings": {
+    "en": "Rusted steel Leggings",
+    "zh": "生锈钢护腿",
+    "vi": "Rusted steel Leggings"
+  },
+  "item.soul_like_armors_reworked.rustysteelmace": {
+    "en": "Rusted steel mace",
+    "zh": "生锈钢锤",
+    "vi": "Rusted steel mace"
+  },
+  "item.soul_like_armors_reworked.sawblade": {
+    "en": "Sawblade",
+    "zh": "锯齿大剑",
+    "vi": "Sawblade"
+  },
+  "item.soul_like_armors_reworked.sickle": {
+    "en": "Sickle",
+    "zh": "爪刃",
+    "vi": "Sickle"
+  },
+  "item.soul_like_armors_reworked.solarknight_boots": {
+    "en": "Solar knight Boots",
+    "zh": "太阳骑士靴子",
+    "vi": "Solar knight Boots"
+  },
+  "item.soul_like_armors_reworked.solarknight_chestplate": {
+    "en": "Solar knight Body",
+    "zh": "太阳骑士胸甲",
+    "vi": "Solar knight Body"
+  },
+  "item.soul_like_armors_reworked.solarknight_helmet": {
+    "en": "Solar knight Helmet",
+    "zh": "太阳骑士头盔",
+    "vi": "Solar knight Helmet"
+  },
+  "item.soul_like_armors_reworked.solarknight_leggings": {
+    "en": "Solar knight Leggings",
+    "zh": "太阳骑士护腿",
+    "vi": "Solar knight Leggings"
+  },
+  "item.soul_like_armors_reworked.soldier_boots": {
+    "en": "Soldier Boots",
+    "zh": "士兵靴子",
+    "vi": "Soldier Boots"
+  },
+  "item.soul_like_armors_reworked.soldier_chestplate": {
+    "en": "Soldier Body",
+    "zh": "士兵胸甲",
+    "vi": "Soldier Body"
+  },
+  "item.soul_like_armors_reworked.soldier_helmet": {
+    "en": "Soldier Helmet",
+    "zh": "士兵头盔",
+    "vi": "Soldier Helmet"
+  },
+  "item.soul_like_armors_reworked.soldier_leggings": {
+    "en": "Soldier Leggings",
+    "zh": "士兵护腿",
+    "vi": "Soldier Leggings"
+  },
+  "item.soul_like_armors_reworked.soldiertrident": {
+    "en": "spear",
+    "zh": "三叉戟",
+    "vi": "spear"
+  },
+  "item.soul_like_armors_reworked.spear": {
+    "en": "long spear",
+    "zh": "长矛",
+    "vi": "long spear"
+  },
+  "item.soul_like_armors_reworked.spiritaxe": {
+    "en": "Spirit's axe",
+    "zh": "灵魂之斧",
+    "vi": "Spirit's axe"
+  },
+  "item.soul_like_armors_reworked.steelknight_boots": {
+    "en": "Steel knight Boots",
+    "zh": "钢铁骑士靴子",
+    "vi": "Steel knight Boots"
+  },
+  "item.soul_like_armors_reworked.steelknight_chestplate": {
+    "en": "Steel knight Body",
+    "zh": "钢铁骑士胸甲",
+    "vi": "Steel knight Body"
+  },
+  "item.soul_like_armors_reworked.steelknight_helmet": {
+    "en": "Steel knight Helmet",
+    "zh": "钢铁骑士头盔",
+    "vi": "Steel knight Helmet"
+  },
+  "item.soul_like_armors_reworked.steelknight_leggings": {
+    "en": "Steel knight Leggings",
+    "zh": "钢铁骑士护腿",
+    "vi": "Steel knight Leggings"
+  },
+  "item.soul_like_armors_reworked.viking_boots": {
+    "en": "Viking Boots",
+    "zh": "维京靴",
+    "vi": "Viking Boots"
+  },
+  "item.soul_like_armors_reworked.viking_chestplate": {
+    "en": "Viking Body",
+    "zh": "维京身体",
+    "vi": "Viking Body"
+  },
+  "item.soul_like_armors_reworked.viking_helmet": {
+    "en": "Viking Helmet",
+    "zh": "维京头盔",
+    "vi": "Viking Helmet"
+  },
+  "item.soul_like_armors_reworked.viking_leggings": {
+    "en": "Viking Leggings",
+    "zh": "维京护腿",
+    "vi": "Viking Leggings"
+  },
+  "item.soul_like_armors_reworked.vikingaxe": {
+    "en": "Viking's axe",
+    "zh": "维京斧",
+    "vi": "Viking's axe"
+  },
+  "item.soul_like_armors_reworked.vikingshield": {
+    "en": "viking's shield",
+    "zh": "维京盾",
+    "vi": "viking's shield"
+  },
+  "item.soul_like_armors_reworked.wanderingknight_boots": {
+    "en": "Wandering knight Boots",
+    "zh": "流浪骑士靴子",
+    "vi": "Wandering knight Boots"
+  },
+  "item.soul_like_armors_reworked.wanderingknight_chestplate": {
+    "en": "Wandering knight Body",
+    "zh": "流浪骑士胸甲",
+    "vi": "Wandering knight Body"
+  },
+  "item.soul_like_armors_reworked.wanderingknight_helmet": {
+    "en": "Wandering knight Helmet",
+    "zh": "流浪骑士头盔",
+    "vi": "Wandering knight Helmet"
+  },
+  "item.soul_like_armors_reworked.wanderingknight_leggings": {
+    "en": "Wandering knight Leggings",
+    "zh": "流浪骑士护腿",
+    "vi": "Wandering knight Leggings"
+  },
+  "item.soul_like_armors_reworked.warriorgreatsword": {
+    "en": "Warrior's greatsword",
+    "zh": "勇士巨剑",
+    "vi": "Warrior's greatsword"
+  },
+  "item.soul_like_armors_reworked.wizard_boots": {
+    "en": "Wizard Boots",
+    "zh": "巫师靴子",
+    "vi": "Wizard Boots"
+  },
+  "item.soul_like_armors_reworked.wizard_chestplate": {
+    "en": "Wizard Body",
+    "zh": "巫师胸甲",
+    "vi": "Wizard Body"
+  },
+  "item.soul_like_armors_reworked.wizard_helmet": {
+    "en": "Wizard Helmet",
+    "zh": "巫师头盔",
+    "vi": "Wizard Helmet"
+  },
+  "item.soul_like_armors_reworked.wizard_leggings": {
+    "en": "Wizard Leggings",
+    "zh": "巫师护腿",
+    "vi": "Wizard Leggings"
+  },
+  "item.soul_like_armors_reworked.wolfknight_chestplate": {
+    "en": "Wolfk night Body",
+    "zh": "狼骑士胸甲",
+    "vi": "Wolfk night Body"
+  },
+  "item.soul_like_armors_reworked.wolfknight_helmet": {
+    "en": "Wolfk night Helmet",
+    "zh": "狼骑士头盔",
+    "vi": "Wolfk night Helmet"
+  },
+  "item.soul_like_armors_reworked.wolfknight_leggings": {
+    "en": "Wolf knight Leggings",
+    "zh": "狼骑士护腿",
+    "vi": "Wolf knight Leggings"
+  },
+  "item.soul_like_armors_reworked.wolfknightsword": {
+    "en": "Wolf knight sword",
+    "zh": "狼骑士之剑",
+    "vi": "Wolf knight sword"
+  },
+  "item.soul_like_armors_reworked.kingdomknight_helmet": {
+    "en": "Kingdom knight Helmet",
+    "zh": "皇家骑士头盔",
+    "vi": "Kingdom knight Helmet"
+  },
+  "item.soul_like_armors_reworked.kingdomknight_chestplate": {
+    "en": "Kingdom knight Body",
+    "zh": "皇家骑士胸甲",
+    "vi": "Kingdom knight Body"
+  },
+  "item.soul_like_armors_reworked.kingdomknight_leggings": {
+    "en": "Kingdom knight Leggings",
+    "zh": "皇家骑士护腿",
+    "vi": "Kingdom knight Leggings"
+  },
+  "item.soul_like_armors_reworked.kingdomknight_boots": {
+    "en": "Kingdom knight Boots",
+    "zh": "皇家骑士靴子",
+    "vi": "Kingdom knight Boots"
+  },
+  "item.soul_like_armors_reworked.kingdomsword": {
+    "en": "Kingdom sword",
+    "zh": "皇家骑士剑",
+    "vi": "Kingdom sword"
+  },
+  "item.soul_like_armors_reworked.lunatic_helmet": {
+    "en": "Lunatic Helmet",
+    "zh": "疯子头盔",
+    "vi": "Lunatic Helmet"
+  },
+  "item.soul_like_armors_reworked.lunatic_chestplate": {
+    "en": "Lunatic Body",
+    "zh": "疯子胸甲",
+    "vi": "Lunatic Body"
+  },
+  "item.soul_like_armors_reworked.lunatic_boots": {
+    "en": "Lunatic Boots",
+    "zh": "疯子靴子",
+    "vi": "Lunatic Boots"
+  },
+  "item.soul_like_armors_reworked.lunatic_leggings": {
+    "en": "Lunatic Leggings",
+    "zh": "疯子护腿",
+    "vi": "Lunatic Leggings"
+  },
+  "item.soul_like_armors_reworked.barbarianhammer": {
+    "en": "Barbarian club",
+    "zh": "食人魔大棒",
+    "vi": "Barbarian club"
+  },
+  "item.soul_like_armors_reworked.hunteraxe": {
+    "en": "Hunter's axe",
+    "zh": "猎人斧",
+    "vi": "Hunter's axe"
+  },
+  "item.soul_like_armors_reworked.hunterscythe": {
+    "en": "Hunter's scythe",
+    "zh": "猎人镰刀",
+    "vi": "Hunter's scythe"
+  },
+  "subtitles.transform": {
+    "en": "",
+    "zh": null,
+    "vi": null
+  },
+  "item_group.soul_like_armors_reworked.tab_4": {
+    "en": "soul like armors: shields",
+    "zh": null,
+    "vi": null
+  },
+  "item_group.soul_like_armors_reworked.tab_3": {
+    "en": "soul like armors: weapons",
+    "zh": null,
+    "vi": null
+  },
+  "item_group.soul_like_armors_reworked.tab_2": {
+    "en": "soul like armors: others",
+    "zh": null,
+    "vi": null
+  },
+  "item_group.soul_like_armors_reworked.tab_1": {
+    "en": "soul like armors: armors",
+    "zh": null,
+    "vi": null
+  },
+  "item_group.soul_like_armors_reworked.tab_5": {
+    "en": "soul like armors: update",
+    "zh": null,
+    "vi": null
+  }
+}

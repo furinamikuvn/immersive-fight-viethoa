@@ -1,0 +1,1462 @@
+{
+  "container.ossuary": {
+    "en": "Ossuary",
+    "zh": "藏骨堂",
+    "vi": "Bình đựng hài cốt"
+  },
+  "block.graveyard.ossuary": {
+    "en": "Ossuary",
+    "zh": "藏骨堂",
+    "vi": "Ossuary"
+  },
+  "block.graveyard.gilded_blackstone_gravestone": {
+    "en": "Gilded Blackstone Gravestone",
+    "zh": "镶金黑石墓碑",
+    "vi": "Gilded Blackstone Gravestone"
+  },
+  "block.graveyard.sandstone_gravestone": {
+    "en": "Sandstone Gravestone",
+    "zh": "砂岩墓碑",
+    "vi": "Sandstone Gravestone"
+  },
+  "block.graveyard.red_sandstone_gravestone": {
+    "en": "Red Sandstone Gravestone",
+    "zh": "红砂岩墓碑",
+    "vi": "Red Sandstone Gravestone"
+  },
+  "block.graveyard.quartz_bricks_gravestone": {
+    "en": "Quartz Bricks Gravestone",
+    "zh": "石英砖墓碑",
+    "vi": "Quartz Bricks Gravestone"
+  },
+  "block.graveyard.hanged_skeleton": {
+    "en": "Hanged Skeleton",
+    "zh": "悬吊骷髅",
+    "vi": "Hanged Skeleton"
+  },
+  "block.graveyard.hanged_wither_skeleton": {
+    "en": "Hanged Wither Skeleton",
+    "zh": "悬吊凋零骷髅",
+    "vi": "Hanged Wither Skeleton"
+  },
+  "item.graveyard.bamboo_coffin": {
+    "en": "Bamboo Coffin",
+    "zh": "竹棺材",
+    "vi": "Bamboo Coffin"
+  },
+  "block.graveyard.bamboo_coffin": {
+    "en": "Bamboo Coffin",
+    "zh": "竹棺材",
+    "vi": "Bamboo Coffin"
+  },
+  "item.graveyard.cherry_coffin": {
+    "en": "Cherry Coffin",
+    "zh": "樱木棺材",
+    "vi": "Cherry Coffin"
+  },
+  "block.graveyard.cherry_coffin": {
+    "en": "Cherry Coffin",
+    "zh": "樱木棺材",
+    "vi": "Cherry Coffin"
+  },
+  "entity.graveyard.nameless_hanged.wait": {
+    "en": "Yes, I see you... But let me enjoy the sun for once. Come back at night.",
+    "zh": "是的,我看见你了... 但让我享受一次阳光,晚上回来.",
+    "vi": "Yes, I see you... But let me enjoy the sun for once. Come back at night."
+  },
+  "subtitles.entity.graveyard.nameless_hanged.ambient": {
+    "en": "Rope creaks",
+    "zh": "绳子吱吱作响",
+    "vi": "Sợi dây kêu cót két"
+  },
+  "subtitles.entity.graveyard.nameless_hanged.breath": {
+    "en": "Nameless Hanged struggles for breath",
+    "zh": "无名吊死者挣扎着呼吸",
+    "vi": "Người đàn ông bị treo cổ vô danh khó thở"
+  },
+  "subtitles.entity.graveyard.nameless_hanged.interact": {
+    "en": "Nameless Hanged sees through you...",
+    "zh": "无名吊死者看到了你...",
+    "vi": "Người bị treo cổ đã nhìn thấy bạn..."
+  },
+  "entity.graveyard.nameless_hanged": {
+    "en": "Nameless Hanged",
+    "zh": "无名吊死者",
+    "vi": "Nameless Hanged"
+  },
+  "item.graveyard.nameless_hanged_spawn_egg": {
+    "en": "Nameless Hanged Spawn Egg",
+    "zh": "无名吊死者刷怪蛋",
+    "vi": "Nameless Hanged Spawn Egg"
+  },
+  "entity.graveyard.lich": {
+    "en": "Corrupted Champion",
+    "zh": "巫妖",
+    "vi": "Corrupted Champion"
+  },
+  "item.graveyard.lich_spawn_egg": {
+    "en": "Corrupted Champion Spawn Egg",
+    "zh": "腐败精英刷怪蛋",
+    "vi": "Corrupted Champion Spawn Egg"
+  },
+  "subtitles.entity.graveyard.lich.spawn": {
+    "en": "Corrupted Champion escapes its prison",
+    "zh": "腐败精英逃离了牢狱",
+    "vi": "Giới thượng lưu tham nhũng trốn thoát khỏi nhà tù"
+  },
+  "subtitles.entity.graveyard.lich.melee": {
+    "en": "Corrupted Champion attacks",
+    "zh": "腐败精英发动攻击",
+    "vi": "Giới tinh hoa tham nhũng tấn công"
+  },
+  "subtitles.entity.graveyard.lich.corpse_spell": {
+    "en": "Corrupted Champion summons corpses",
+    "zh": "腐败精英召唤尸体",
+    "vi": "Tinh hoa tham nhũng triệu hồi xác chết"
+  },
+  "subtitles.entity.graveyard.lich.phase_three": {
+    "en": "Corrupted Champion takes its final form",
+    "zh": "腐败精英进入最终形态",
+    "vi": "Tầng lớp ưu tú tham nhũng bước vào hình thức cuối cùng của nó"
+  },
+  "subtitles.entity.graveyard.lich.phase_two": {
+    "en": "Corrupted Champion changes to its second form",
+    "zh": "腐败精英变成了第二形态",
+    "vi": "Tầng lớp thượng lưu tham nhũng trở thành hình thức thứ hai"
+  },
+  "subtitles.entity.graveyard.lich.phase_three_attack": {
+    "en": "Corrupted Champion gargles",
+    "zh": "腐败精英发出咆哮声",
+    "vi": "Giới thượng lưu tham nhũng gầm thét"
+  },
+  "subtitles.entity.graveyard.lich.death": {
+    "en": "Corrupted Champion breaks down",
+    "zh": "腐败精英崩溃了",
+    "vi": ""
+  },
+  "subtitles.entity.graveyard.lich.hunt": {
+    "en": "Corrupted Champion hunts",
+    "zh": "腐败精英正在猎杀",
+    "vi": "Giới tinh hoa tham nhũng đang săn lùng"
+  },
+  "subtitles.entity.graveyard.lich.idle": {
+    "en": "Corrupted Champion whispers",
+    "zh": "腐败精英低语着",
+    "vi": ""
+  },
+  "subtitles.entity.graveyard.lich.scare": {
+    "en": "Corrupted Champion found its prey",
+    "zh": "腐败精英找到了猎物",
+    "vi": "Giới tinh hoa tham nhũng đã tìm thấy con mồi của họ"
+  },
+  "subtitles.entity.graveyard.lich.hurt": {
+    "en": "Corrupted Champion hurts",
+    "zh": "腐败精英受伤了",
+    "vi": ""
+  },
+  "subtitles.entity.graveyard.lich.shoot_skull": {
+    "en": "Corrupted Champion summons skulls",
+    "zh": "腐败精英召唤头骨",
+    "vi": ""
+  },
+  "subtitles.entity.graveyard.lich.levitation": {
+    "en": "Corrupted Champion casts spell",
+    "zh": "腐败精英施展魔法",
+    "vi": "Giới tinh hoa tham nhũng thực hiện phép thuật của họ"
+  },
+  "subtitles.entity.graveyard.lich.heal": {
+    "en": "Corrupted Champion murmurs healing spell",
+    "zh": "腐败精英低语着治疗咒语",
+    "vi": "Giới thượng lưu tham nhũng thì thầm những câu thần chú chữa bệnh"
+  },
+  "subtitles.entity.graveyard.corrupted_illager.ambient": {
+    "en": "Corrupted Illager breaths",
+    "zh": "腐化的袭击者呼吸声",
+    "vi": "Hơi thở của Raider bị hỏng"
+  },
+  "subtitles.entity.graveyard.corrupted_illager.hurt": {
+    "en": "Corrupted Illager hurts",
+    "zh": "腐化的袭击者受伤了",
+    "vi": "Raider bị hỏng bị thương"
+  },
+  "subtitles.entity.graveyard.corrupted_illager.step": {
+    "en": "Corrupted Illager steps",
+    "zh": "腐化的袭击者迈步",
+    "vi": ""
+  },
+  "subtitles.entity.graveyard.corrupted_illager.death": {
+    "en": "Corrupted Illager dies a second time",
+    "zh": "腐化的袭击者第二次死亡",
+    "vi": "Corrupted Raider chết lần thứ hai"
+  },
+  "block.graveyard.altar_side": {
+    "en": "Corrupted Deepslate Side",
+    "zh": "碎裂的深石",
+    "vi": "Corrupted Deepslate Side"
+  },
+  "block.graveyard.altar_corner": {
+    "en": "Corrupted Deepslate Corner",
+    "zh": "碎裂的深石边缘",
+    "vi": "Corrupted Deepslate Corner"
+  },
+  "block.graveyard.altar_center": {
+    "en": "Corrupted Deepslate Center",
+    "zh": "碎裂的深石中心",
+    "vi": "Corrupted Deepslate Center"
+  },
+  "block.graveyard.tg_stone": {
+    "en": "Stone",
+    "zh": "墓园石",
+    "vi": "Stone"
+  },
+  "block.graveyard.tg_granite": {
+    "en": "Granite",
+    "zh": "墓园花岗岩",
+    "vi": "Granite"
+  },
+  "block.graveyard.tg_diorite": {
+    "en": "Diorite",
+    "zh": "墓园闪长岩",
+    "vi": "Diorite"
+  },
+  "block.graveyard.tg_andesite": {
+    "en": "Andesite",
+    "zh": "墓园安山岩",
+    "vi": "Andesite"
+  },
+  "block.graveyard.tg_grass_block": {
+    "en": "Grass Block",
+    "zh": "墓园草方块",
+    "vi": "Grass Block"
+  },
+  "block.graveyard.tg_podzol": {
+    "en": "Podzol",
+    "zh": "墓园灰烬",
+    "vi": "Podzol"
+  },
+  "block.graveyard.tg_dirt": {
+    "en": "Dirt",
+    "zh": "墓园土",
+    "vi": "Dirt"
+  },
+  "block.graveyard.tg_coarse_dirt": {
+    "en": "Coarse Dirt",
+    "zh": "墓园粗垢",
+    "vi": "Coarse Dirt"
+  },
+  "block.graveyard.tg_deepslate": {
+    "en": "Deepslate",
+    "zh": "墓园深石板",
+    "vi": "Deepslate"
+  },
+  "block.graveyard.tg_tuff": {
+    "en": "Tuff",
+    "zh": "墓园凝灰岩",
+    "vi": "Tuff"
+  },
+  "block.graveyard.tg_rooted_dirt": {
+    "en": "Rooted Dirt",
+    "zh": "墓园根须土",
+    "vi": "Rooted Dirt"
+  },
+  "block.graveyard.tg_moss_block": {
+    "en": "Moss Block",
+    "zh": "墓园苔藓",
+    "vi": "Moss Block"
+  },
+  "container.urn": {
+    "en": "Urn",
+    "zh": "瓮",
+    "vi": "bình đựng tro cốt"
+  },
+  "container.sarcophagus": {
+    "en": "Sarcophagus",
+    "zh": "石棺",
+    "vi": "quan tài"
+  },
+  "container.coffin": {
+    "en": "Coffin",
+    "zh": "棺材",
+    "vi": "quan tài"
+  },
+  "block.graveyard.white_urn": {
+    "en": "White Glazed Urn",
+    "zh": "白色釉瓮",
+    "vi": "White Glazed Urn"
+  },
+  "block.graveyard.black_urn": {
+    "en": "Black Glazed Urn",
+    "zh": "黑色釉瓮",
+    "vi": "Black Glazed Urn"
+  },
+  "block.graveyard.brown_urn": {
+    "en": "Brown Glazed Urn",
+    "zh": "棕色釉瓮",
+    "vi": "Brown Glazed Urn"
+  },
+  "block.graveyard.gray_urn": {
+    "en": "Gray Glazed Urn",
+    "zh": "灰色釉瓮",
+    "vi": "Gray Glazed Urn"
+  },
+  "block.graveyard.light_gray_urn": {
+    "en": "Light Gray Glazed Urn",
+    "zh": "淡灰色釉瓮",
+    "vi": "Light Gray Glazed Urn"
+  },
+  "block.graveyard.lime_urn": {
+    "en": "Lime Glazed Urn",
+    "zh": "黄绿色釉瓮",
+    "vi": "Lime Glazed Urn"
+  },
+  "block.graveyard.green_urn": {
+    "en": "Green Glazed Urn",
+    "zh": "绿色釉瓮",
+    "vi": "Green Glazed Urn"
+  },
+  "block.graveyard.purple_urn": {
+    "en": "Purple Glazed Urn",
+    "zh": "紫色釉瓮",
+    "vi": "Purple Glazed Urn"
+  },
+  "block.graveyard.magenta_urn": {
+    "en": "Magenta Glazed Urn",
+    "zh": "品红色釉瓮",
+    "vi": "Magenta Glazed Urn"
+  },
+  "block.graveyard.pink_urn": {
+    "en": "Pink Glazed Urn",
+    "zh": "粉色釉瓮",
+    "vi": "Pink Glazed Urn"
+  },
+  "block.graveyard.red_urn": {
+    "en": "Red Glazed Urn",
+    "zh": "红色釉瓮",
+    "vi": "Red Glazed Urn"
+  },
+  "block.graveyard.orange_urn": {
+    "en": "Orange Glazed Urn",
+    "zh": "橙色釉瓮",
+    "vi": "Orange Glazed Urn"
+  },
+  "block.graveyard.yellow_urn": {
+    "en": "Yellow Glazed Urn",
+    "zh": "黄色釉瓮",
+    "vi": "Yellow Glazed Urn"
+  },
+  "block.graveyard.blue_urn": {
+    "en": "Blue Glazed Urn",
+    "zh": "蓝色釉瓮",
+    "vi": "Blue Glazed Urn"
+  },
+  "block.graveyard.cyan_urn": {
+    "en": "Cyan Glazed Urn",
+    "zh": "青色釉瓮",
+    "vi": "Cyan Glazed Urn"
+  },
+  "block.graveyard.light_blue_urn": {
+    "en": "Light Blue Glazed Urn",
+    "zh": "淡蓝色釉瓮",
+    "vi": "Light Blue Glazed Urn"
+  },
+  "block.graveyard.small_white_urn": {
+    "en": "Small White Urn",
+    "zh": "小白色瓮",
+    "vi": "Small White Urn"
+  },
+  "block.graveyard.small_black_urn": {
+    "en": "Small Black Urn",
+    "zh": "小黑色瓮",
+    "vi": "Small Black Urn"
+  },
+  "block.graveyard.small_brown_urn": {
+    "en": "Small Brown Urn",
+    "zh": "小棕色瓮",
+    "vi": "Small Brown Urn"
+  },
+  "block.graveyard.small_gray_urn": {
+    "en": "Small Gray Urn",
+    "zh": "小灰色瓮",
+    "vi": "Small Gray Urn"
+  },
+  "block.graveyard.small_light_gray_urn": {
+    "en": "Small Light Gray Urn",
+    "zh": "小淡灰色瓮",
+    "vi": "Small Light Gray Urn"
+  },
+  "block.graveyard.small_lime_urn": {
+    "en": "Small Lime Urn",
+    "zh": "小黄绿色瓮",
+    "vi": "Small Lime Urn"
+  },
+  "block.graveyard.small_green_urn": {
+    "en": "Small Green Urn",
+    "zh": "小绿色瓮",
+    "vi": "Small Green Urn"
+  },
+  "block.graveyard.small_purple_urn": {
+    "en": "Small Purple Urn",
+    "zh": "小紫色瓮",
+    "vi": "Small Purple Urn"
+  },
+  "block.graveyard.small_magenta_urn": {
+    "en": "Small Magenta Urn",
+    "zh": "小品红色瓮",
+    "vi": "Small Magenta Urn"
+  },
+  "block.graveyard.small_pink_urn": {
+    "en": "Small Pink Urn",
+    "zh": "小粉色瓮",
+    "vi": "Small Pink Urn"
+  },
+  "block.graveyard.small_red_urn": {
+    "en": "Small Red Urn",
+    "zh": "小红色瓮",
+    "vi": "Small Red Urn"
+  },
+  "block.graveyard.small_orange_urn": {
+    "en": "Small Orange Urn",
+    "zh": "小橙色瓮",
+    "vi": "Small Orange Urn"
+  },
+  "block.graveyard.small_yellow_urn": {
+    "en": "Small Yellow Urn",
+    "zh": "小黄色瓮",
+    "vi": "Small Yellow Urn"
+  },
+  "block.graveyard.small_blue_urn": {
+    "en": "Small Blue Urn",
+    "zh": "小蓝色瓮",
+    "vi": "Small Blue Urn"
+  },
+  "block.graveyard.small_cyan_urn": {
+    "en": "Small Cyan Urn",
+    "zh": "小青色瓮",
+    "vi": "Small Cyan Urn"
+  },
+  "block.graveyard.small_light_blue_urn": {
+    "en": "Small Light Blue Urn",
+    "zh": "小淡蓝色瓮",
+    "vi": "Small Light Blue Urn"
+  },
+  "block.graveyard.vase_block": {
+    "en": "Ceramics",
+    "zh": "陶瓷",
+    "vi": "Ceramics"
+  },
+  "block.graveyard.lying_skeleton": {
+    "en": "Lying Skeleton",
+    "zh": "卧倒的骷髅",
+    "vi": "Lying Skeleton"
+  },
+  "block.graveyard.leaning_skeleton": {
+    "en": "Leaning Skeleton",
+    "zh": "倾斜骷髅",
+    "vi": "Leaning Skeleton"
+  },
+  "block.graveyard.skeleton_hand": {
+    "en": "Skeleton Hand",
+    "zh": "骷髅手",
+    "vi": "Skeleton Hand"
+  },
+  "block.graveyard.skull_pile": {
+    "en": "Skull Pile",
+    "zh": "骷髅堆",
+    "vi": "Skull Pile"
+  },
+  "block.graveyard.skull_with_rib_cage": {
+    "en": "Skull and Rib Cage",
+    "zh": "骷髅和肋骨笼",
+    "vi": "Skull and Rib Cage"
+  },
+  "block.graveyard.laterally_lying_skeleton": {
+    "en": "Laterally Lying Skeleton",
+    "zh": "横躺的骷髅",
+    "vi": "Laterally Lying Skeleton"
+  },
+  "block.graveyard.torso_pile": {
+    "en": "Torso Pile",
+    "zh": "骷髅躯干堆",
+    "vi": "Torso Pile"
+  },
+  "block.graveyard.bone_remains": {
+    "en": "Defeated Skeleton",
+    "zh": "不甘的骷髅",
+    "vi": "Defeated Skeleton"
+  },
+  "block.graveyard.skull_on_pike": {
+    "en": "Skull on Pike",
+    "zh": "矛上的骷髅",
+    "vi": "Skull on Pike"
+  },
+  "block.graveyard.lying_wither_skeleton": {
+    "en": "Lying Wither Skeleton",
+    "zh": "卧倒的凋零骷髅",
+    "vi": "Lying Wither Skeleton"
+  },
+  "block.graveyard.leaning_wither_skeleton": {
+    "en": "Leaning Wither Skeleton",
+    "zh": "倾斜凋零骷髅",
+    "vi": "Leaning Wither Skeleton"
+  },
+  "block.graveyard.wither_skeleton_hand": {
+    "en": "Wither Skeleton Hand",
+    "zh": "凋零骷髅手",
+    "vi": "Wither Skeleton Hand"
+  },
+  "block.graveyard.wither_skull_pile": {
+    "en": "Wither Skull Pile",
+    "zh": "凋零骷髅堆",
+    "vi": "Wither Skull Pile"
+  },
+  "block.graveyard.wither_skull_with_rib_cage": {
+    "en": "Wither Skull and Rib Cage",
+    "zh": "凋灵骷髅和肋骨笼",
+    "vi": "Wither Skull and Rib Cage"
+  },
+  "block.graveyard.creeper_skeleton": {
+    "en": "Creeper Skeleton",
+    "zh": "苦力怕骷髅",
+    "vi": "Creeper Skeleton"
+  },
+  "block.graveyard.laterally_lying_wither_skeleton": {
+    "en": "Laterally Lying Wither Skeleton",
+    "zh": "横躺的凋零骷髅",
+    "vi": "Laterally Lying Wither Skeleton"
+  },
+  "block.graveyard.wither_torso_pile": {
+    "en": "Wither Torso Pile",
+    "zh": "凋零骷髅躯干堆",
+    "vi": "Wither Torso Pile"
+  },
+  "block.graveyard.wither_bone_remains": {
+    "en": "Defeated Wither Skeleton",
+    "zh": "不甘的凋零骷髅",
+    "vi": "Defeated Wither Skeleton"
+  },
+  "block.graveyard.wither_skull_on_pike": {
+    "en": "Wither Skull on Pike",
+    "zh": "矛上的凋零骷髅",
+    "vi": "Wither Skull on Pike"
+  },
+  "block.graveyard.dark_iron_bars": {
+    "en": "Dark Iron Bars",
+    "zh": "暗铁栏杆",
+    "vi": "Dark Iron Bars"
+  },
+  "block.graveyard.soul_fire_brazier": {
+    "en": "Soul Fire Brazier",
+    "zh": "灵魂火盆",
+    "vi": "Soul Fire Brazier"
+  },
+  "block.graveyard.fire_brazier": {
+    "en": "Fire Brazier",
+    "zh": "火盆",
+    "vi": "Fire Brazier"
+  },
+  "block.graveyard.pedestal": {
+    "en": "Small Pillar",
+    "zh": "Small Pillar",
+    "vi": "Small Pillar"
+  },
+  "block.graveyard.candle_holder": {
+    "en": "Candle Holder",
+    "zh": "烛台",
+    "vi": "Candle Holder"
+  },
+  "block.graveyard.dark_iron_block": {
+    "en": "Dark Iron Block",
+    "zh": "暗铁块",
+    "vi": "Dark Iron Block"
+  },
+  "block.graveyard.dark_iron_trapdoor": {
+    "en": "Dark Iron Trapdoor",
+    "zh": "暗铁活板门",
+    "vi": "Dark Iron Trapdoor"
+  },
+  "block.graveyard.dark_iron_door": {
+    "en": "Dark Iron Door",
+    "zh": "暗铁门",
+    "vi": "Dark Iron Door"
+  },
+  "block.graveyard.gravestone": {
+    "en": "Polished Basalt Gravestone",
+    "zh": "平滑玄武岩墓碑",
+    "vi": "Polished Basalt Gravestone"
+  },
+  "block.graveyard.cobblestone_gravestone": {
+    "en": "Cobblestone Gravestone",
+    "zh": "圆石墓碑",
+    "vi": "Cobblestone Gravestone"
+  },
+  "block.graveyard.mossy_cobblestone_gravestone": {
+    "en": "Mossy Cobblestone Gravestone",
+    "zh": "苔藓圆石墓碑",
+    "vi": "Mossy Cobblestone Gravestone"
+  },
+  "block.graveyard.deepslate_gravestone": {
+    "en": "Deepslate Gravestone",
+    "zh": "深板岩墓碑",
+    "vi": "Deepslate Gravestone"
+  },
+  "block.graveyard.blackstone_gravestone": {
+    "en": "Blackstone Gravestone",
+    "zh": "黑石墓碑",
+    "vi": "Blackstone Gravestone"
+  },
+  "block.graveyard.cracked_blackstone_gravestone": {
+    "en": "Cracked Polished Blackstone Gravestone",
+    "zh": "平滑裂纹黑石墓碑",
+    "vi": "Cracked Polished Blackstone Gravestone"
+  },
+  "block.graveyard.stone_bricks_gravestone": {
+    "en": "Stone Bricks Gravestone",
+    "zh": "石砖墓碑",
+    "vi": "Stone Bricks Gravestone"
+  },
+  "block.graveyard.mossy_stone_bricks_gravestone": {
+    "en": "Mossy Stone Bricks Gravestone",
+    "zh": "苔石砖墓碑",
+    "vi": "Mossy Stone Bricks Gravestone"
+  },
+  "block.graveyard.bricks_gravestone": {
+    "en": "Bricks Gravestone",
+    "zh": "红砖墓碑",
+    "vi": "Bricks Gravestone"
+  },
+  "item.graveyard.incarnated_evil_music_disc": {
+    "en": "\"Incarnated Evil\" by Rotch Gwylt",
+    "zh": "\"Incarnated Evil\" by Rotch Gwylt",
+    "vi": "\"Incarnated Evil\" by Rotch Gwylt"
+  },
+  "item.graveyard.incarnated_evil_music_disc.desc": {
+    "en": "\"Incarnated Evil\" by Rotch Gwylt",
+    "zh": "\"Incarnated Evil\" by Rotch Gwylt",
+    "vi": "\"Incarnated Evil\" by Rotch Gwylt"
+  },
+  "item.graveyard.bone_dagger": {
+    "en": "Bone Dagger",
+    "zh": "骨头匕首",
+    "vi": "Bone Dagger"
+  },
+  "item.graveyard.dark_iron_ingot": {
+    "en": "Dark Iron Ingot",
+    "zh": "暗铁锭",
+    "vi": "Dark Iron Ingot"
+  },
+  "item.graveyard.corruption": {
+    "en": "Corruption",
+    "zh": "堕落精华",
+    "vi": "Corruption"
+  },
+  "item.graveyard.sarcophagus": {
+    "en": "Sarcophagus",
+    "zh": "精美石棺",
+    "vi": "Sarcophagus"
+  },
+  "block.graveyard.sarcophagus": {
+    "en": "Sarcophagus",
+    "zh": "精美石棺",
+    "vi": "Sarcophagus"
+  },
+  "item.graveyard.oak_coffin": {
+    "en": "Oak Coffin",
+    "zh": "橡木棺材",
+    "vi": "Oak Coffin"
+  },
+  "block.graveyard.oak_coffin": {
+    "en": "Oak Coffin",
+    "zh": "橡木棺材",
+    "vi": "Oak Coffin"
+  },
+  "item.graveyard.dark_oak_coffin": {
+    "en": "Dark Oak Coffin",
+    "zh": "深色橡木棺材",
+    "vi": "Dark Oak Coffin"
+  },
+  "block.graveyard.dark_oak_coffin": {
+    "en": "Dark Oak Coffin",
+    "zh": "深色橡木棺材",
+    "vi": "Dark Oak Coffin"
+  },
+  "item.graveyard.birch_coffin": {
+    "en": "Birch Coffin",
+    "zh": "白桦木棺材",
+    "vi": "Birch Coffin"
+  },
+  "block.graveyard.birch_coffin": {
+    "en": "Birch Coffin",
+    "zh": "白桦木棺材",
+    "vi": "Birch Coffin"
+  },
+  "item.graveyard.spruce_coffin": {
+    "en": "Spruce Coffin",
+    "zh": "云杉木棺材",
+    "vi": "Spruce Coffin"
+  },
+  "block.graveyard.spruce_coffin": {
+    "en": "Spruce Coffin",
+    "zh": "云杉木棺材",
+    "vi": "Spruce Coffin"
+  },
+  "item.graveyard.jungle_coffin": {
+    "en": "Jungle Coffin",
+    "zh": "丛林木棺材",
+    "vi": "Jungle Coffin"
+  },
+  "block.graveyard.jungle_coffin": {
+    "en": "Jungle Coffin",
+    "zh": "丛林木棺材",
+    "vi": "Jungle Coffin"
+  },
+  "item.graveyard.acacia_coffin": {
+    "en": "Acacia Coffin",
+    "zh": "金合欢木棺材",
+    "vi": "Acacia Coffin"
+  },
+  "block.graveyard.acacia_coffin": {
+    "en": "Acacia Coffin",
+    "zh": "金合欢木棺材",
+    "vi": "Acacia Coffin"
+  },
+  "item.graveyard.warped_coffin": {
+    "en": "Warped Coffin",
+    "zh": "诡异木棺材",
+    "vi": "Warped Coffin"
+  },
+  "block.graveyard.warped_coffin": {
+    "en": "Warped Coffin",
+    "zh": "诡异木棺材",
+    "vi": "Warped Coffin"
+  },
+  "item.graveyard.crimson_coffin": {
+    "en": "Crimson Coffin",
+    "zh": "绯红木棺材",
+    "vi": "Crimson Coffin"
+  },
+  "block.graveyard.crimson_coffin": {
+    "en": "Crimson Coffin",
+    "zh": "绯红木棺材",
+    "vi": "Crimson Coffin"
+  },
+  "item.graveyard.mangrove_coffin": {
+    "en": "Mangrove Coffin",
+    "zh": "紅樹棺材",
+    "vi": "Mangrove Coffin"
+  },
+  "block.graveyard.mangrove_coffin": {
+    "en": "Mangrove Coffin",
+    "zh": "紅樹棺材",
+    "vi": "Mangrove Coffin"
+  },
+  "item.graveyard.vial_of_blood": {
+    "en": "Vial of Blood",
+    "zh": "血瓶",
+    "vi": "Vial of Blood"
+  },
+  "block.graveyard.lower_bone_staff": {
+    "en": "Ominous Bone Staff Fragment",
+    "zh": "不祥的骨杖残片",
+    "vi": "Ominous Bone Staff Fragment"
+  },
+  "block.graveyard.middle_bone_staff": {
+    "en": "Ominous Bone Staff Fragment",
+    "zh": "不祥的骨杖残片",
+    "vi": "Ominous Bone Staff Fragment"
+  },
+  "block.graveyard.upper_bone_staff": {
+    "en": "Ominous Bone Staff Fragment",
+    "zh": "不祥的骨杖残片",
+    "vi": "Ominous Bone Staff Fragment"
+  },
+  "block.graveyard.altar": {
+    "en": "Altar",
+    "zh": "祭坛",
+    "vi": "Altar"
+  },
+  "item.graveyard.white_bone_staff": {
+    "en": "Staff of Zatraq'gul",
+    "zh": "扎特拉克·古尔之杖",
+    "vi": "Staff of Zatraq'gul"
+  },
+  "item.graveyard.black_bone_staff": {
+    "en": "Staff of Nortoq'gul",
+    "zh": "诺托克·古尔之杖",
+    "vi": "Staff of Nortoq'gul"
+  },
+  "item.graveyard.red_bone_staff": {
+    "en": "Staff of Azrata'gul",
+    "zh": "阿兹拉塔·古尔之杖",
+    "vi": "Staff of Azrata'gul"
+  },
+  "item.graveyard.cyan_bone_staff": {
+    "en": "Staff of Mynakta'gul",
+    "zh": "米纳克塔·古尔之杖",
+    "vi": "Staff of Mynakta'gul"
+  },
+  "item.graveyard.purple_bone_staff": {
+    "en": "Staff of Xaphnok'gul",
+    "zh": "夏普诺克·古尔之杖",
+    "vi": "Staff of Xaphnok'gul"
+  },
+  "entity.graveyard.ghouling.wait": {
+    "en": "I shall stay here.",
+    "zh": "我会留在这里。",
+    "vi": "I shall stay here."
+  },
+  "entity.graveyard.ghouling.nowait": {
+    "en": "I follow.",
+    "zh": "我跟随。",
+    "vi": "I follow."
+  },
+  "entity.graveyard.ghouling.spawn": {
+    "en": "I hear and obey...",
+    "zh": "我听到并服从……",
+    "vi": "I hear and obey..."
+  },
+  "entity.graveyard.ghouling.respawn": {
+    "en": "Death... is a mere inconvenience.",
+    "zh": "死亡……只是一个小问题。",
+    "vi": "Death... is a mere inconvenience."
+  },
+  "entity.graveyard.ghouling.obey": {
+    "en": "I don't obey your orders, you are no master of mine!",
+    "zh": "我不听从你的命令,你不是我的主人！",
+    "vi": "I don't obey your orders, you are no master of mine!"
+  },
+  "entity.graveyard.ghouling.kill": {
+    "en": "Me make it stop moving!",
+    "zh": "我让它停止移动！",
+    "vi": "Me make it stop moving!"
+  },
+  "subtitles.entity.graveyard.ghouling.spawn": {
+    "en": "Ghouling emerges",
+    "zh": "鬼灵出现",
+    "vi": "Bóng ma xuất hiện"
+  },
+  "subtitles.entity.graveyard.ghouling.death": {
+    "en": "Ghouling dies",
+    "zh": "鬼灵死亡",
+    "vi": "ma chết"
+  },
+  "subtitles.entity.graveyard.ghouling.ambient": {
+    "en": "Ghouling groans",
+    "zh": "鬼灵呻吟",
+    "vi": "Những bóng ma rên rỉ"
+  },
+  "subtitles.entity.graveyard.ghouling.hurt": {
+    "en": "Ghouling hurts",
+    "zh": "鬼灵受伤",
+    "vi": "Con ma bị thương"
+  },
+  "subtitles.entity.graveyard.ghouling.attack": {
+    "en": "Ghouling attacks",
+    "zh": "鬼灵攻击",
+    "vi": "ma tấn công"
+  },
+  "subtitles.entity.graveyard.ghouling.step": {
+    "en": "Ghouling steps",
+    "zh": "鬼灵踏步",
+    "vi": "bước ma"
+  },
+  "subtitles.entity.graveyard.ghouling.groan": {
+    "en": "Ghouling groans",
+    "zh": "鬼灵呻吟",
+    "vi": "Những bóng ma rên rỉ"
+  },
+  "subtitles.entity.graveyard.ghoul.death": {
+    "en": "Ghoul dies",
+    "zh": "食尸鬼死亡",
+    "vi": "cái chết của ma cà rồng"
+  },
+  "subtitles.entity.graveyard.ghoul.ambient": {
+    "en": "Ghoul groans",
+    "zh": "食尸鬼呻吟",
+    "vi": "Ghoul rên rỉ"
+  },
+  "subtitles.entity.graveyard.ghoul.hurt": {
+    "en": "Ghoul hurts",
+    "zh": "食尸鬼受伤",
+    "vi": "Ghoul bị thương"
+  },
+  "subtitles.entity.graveyard.ghoul.step": {
+    "en": "Ghoul steps",
+    "zh": "食尸鬼踏步",
+    "vi": "Ghoul giẫm đạp"
+  },
+  "subtitles.entity.graveyard.ghoul.roar": {
+    "en": "Ghoul roars",
+    "zh": "食尸鬼咆哮",
+    "vi": "tiếng gầm gừ của ma cà rồng"
+  },
+  "subtitles.entity.graveyard.revenant.ambient": {
+    "en": "Revenant rattles",
+    "zh": "亡魂咔嗒作响",
+    "vi": "Tiếng kêu vang"
+  },
+  "subtitles.entity.graveyard.revenant.hurt": {
+    "en": "Revenant hurts",
+    "zh": "亡魂受伤",
+    "vi": "Linh hồn chết bị thương"
+  },
+  "subtitles.entity.graveyard.revenant.step": {
+    "en": "Revenant steps",
+    "zh": "亡魂踏步",
+    "vi": "Sự giẫm đạp của người chết"
+  },
+  "subtitles.entity.graveyard.revenant.death": {
+    "en": "Revenant falls apart",
+    "zh": "亡魂四分五裂",
+    "vi": "Linh hồn người chết bị xé nát"
+  },
+  "subtitles.entity.graveyard.nightmare.ambient": {
+    "en": "Nightmare vwoops",
+    "zh": "梦魇嗖嗖作响",
+    "vi": "Cơn ác mộng ập đến"
+  },
+  "subtitles.entity.graveyard.nightmare.hurt": {
+    "en": "Nightmare hurts",
+    "zh": "梦魇受伤",
+    "vi": "Cơn ác mộng bị thương"
+  },
+  "subtitles.entity.graveyard.nightmare.death": {
+    "en": "Nightmare dies",
+    "zh": "梦魇死亡",
+    "vi": "Cơn ác mộng cái chết"
+  },
+  "subtitles.entity.graveyard.wraith.ambient": {
+    "en": "Wraith enslaves souls",
+    "zh": "幽魂奴役灵魂",
+    "vi": "Ma làm nô lệ linh hồn"
+  },
+  "subtitles.entity.graveyard.wraith.hurt": {
+    "en": "Wraith hurts",
+    "zh": "幽魂受伤",
+    "vi": "Con ma bị thương"
+  },
+  "subtitles.entity.graveyard.lich.theme_01": {
+    "en": "\"Incarnated Evil\" plays",
+    "zh": "“化身的邪恶”播放",
+    "vi": "Vở kịch \"Ác quỷ nhập thể\""
+  },
+  "subtitles.block.graveyard.altar.ambient": {
+    "en": "Altar hums",
+    "zh": "祭坛嗡嗡作响",
+    "vi": "Bàn thờ ngân nga"
+  },
+  "subtitles.block.graveyard.bone.placed": {
+    "en": "Bone Staff echoes",
+    "zh": "骨杖回响",
+    "vi": "Tiếng trượng xương vang vọng"
+  },
+  "subtitles.block.graveyard.bone.ambient": {
+    "en": "Bone Staff whispers",
+    "zh": "骨杖低语",
+    "vi": "Lời Thì Thầm Của Trượng Xương"
+  },
+  "subtitles.item.graveyard.vial.splash": {
+    "en": "Blood drips",
+    "zh": "血滴",
+    "vi": "giọt máu"
+  },
+  "subtitles.block.graveyard.coffin.open": {
+    "en": "Coffin creaks open",
+    "zh": "棺材吱嘎打开",
+    "vi": "Chiếc quan tài kêu cọt kẹt mở ra"
+  },
+  "subtitles.block.graveyard.coffin.close": {
+    "en": "Coffin closes",
+    "zh": "棺材关闭",
+    "vi": "quan tài đóng cửa"
+  },
+  "subtitles.block.graveyard.urn.open": {
+    "en": "Urn opens",
+    "zh": "骨灰盒打开",
+    "vi": "mở bình"
+  },
+  "subtitles.block.graveyard.urn.close": {
+    "en": "Urn closes",
+    "zh": "骨灰盒关闭",
+    "vi": "bình đóng cửa"
+  },
+  "subtitles.block.graveyard.ossuary.open": {
+    "en": "Ossuary opens",
+    "zh": "骨堆打开",
+    "vi": "đống xương mở"
+  },
+  "subtitles.block.graveyard.sarcophagus.use": {
+    "en": "Sarcophagus lid drags",
+    "zh": "石棺盖拖动",
+    "vi": "Kéo nắp quan tài"
+  },
+  "subtitles.entity.graveyard.acolyte.ambient": {
+    "en": "Acolyte breaths",
+    "zh": "侍僧呼吸",
+    "vi": "hơi thở của người giúp việc"
+  },
+  "subtitles.entity.graveyard.acolyte.hurt": {
+    "en": "Acolyte hurts",
+    "zh": "侍僧受伤",
+    "vi": "Acolyte bị thương"
+  },
+  "subtitles.entity.graveyard.acolyte.death": {
+    "en": "Acolyte dies",
+    "zh": "侍僧死亡",
+    "vi": "Acolyte chết"
+  },
+  "subtitles.entity.graveyard.reaper.ambient": {
+    "en": "Reaper laughs",
+    "zh": "收割者笑声",
+    "vi": "tiếng cười máy gặt"
+  },
+  "subtitles.entity.graveyard.reaper.hurt": {
+    "en": "Reaper hurts",
+    "zh": "收割者受伤",
+    "vi": "Reaper bị thương"
+  },
+  "subtitles.entity.graveyard.reaper.death": {
+    "en": "Reaper dies",
+    "zh": "收割者死亡",
+    "vi": "cái chết của máy gặt"
+  },
+  "subtitles.entity.graveyard.reaper.charge": {
+    "en": "Reaper charges",
+    "zh": "收割者冲锋",
+    "vi": "Phí máy gặt"
+  },
+  "entity.graveyard.skeleton_creeper": {
+    "en": "Skeleton Creeper",
+    "zh": "骷髅苦力怕",
+    "vi": "Skeleton Creeper"
+  },
+  "entity.graveyard.acolyte": {
+    "en": "Acolyte",
+    "zh": "守灵人",
+    "vi": "Acolyte"
+  },
+  "entity.graveyard.ghoul": {
+    "en": "Ghoul",
+    "zh": "食尸鬼",
+    "vi": "Ghoul"
+  },
+  "entity.graveyard.reaper": {
+    "en": "Reaper",
+    "zh": "死神",
+    "vi": "Reaper"
+  },
+  "item.graveyard.skeleton_creeper_spawn_egg": {
+    "en": "Skeleton Creeper Spawn Egg",
+    "zh": "骷髅苦力怕刷怪蛋",
+    "vi": "Skeleton Creeper Spawn Egg"
+  },
+  "item.graveyard.acolyte_spawn_egg": {
+    "en": "Acolyte Spawn Egg",
+    "zh": "守灵人刷怪蛋",
+    "vi": "Acolyte Spawn Egg"
+  },
+  "item.graveyard.ghoul_spawn_egg": {
+    "en": "Ghoul Spawn Egg",
+    "zh": "食尸鬼刷怪蛋",
+    "vi": "Ghoul Spawn Egg"
+  },
+  "item.graveyard.reaper_spawn_egg": {
+    "en": "Reaper Spawn Egg",
+    "zh": "死神刷怪蛋",
+    "vi": "Reaper Spawn Egg"
+  },
+  "entity.graveyard.revenant": {
+    "en": "Revenant",
+    "zh": "亡魂",
+    "vi": "Revenant"
+  },
+  "item.graveyard.revenant_spawn_egg": {
+    "en": "Revenant Spawn Egg",
+    "zh": "亡魂刷怪蛋",
+    "vi": "Revenant Spawn Egg"
+  },
+  "entity.graveyard.nightmare": {
+    "en": "Nightmare",
+    "zh": "梦魇",
+    "vi": "Nightmare"
+  },
+  "item.graveyard.nightmare_spawn_egg": {
+    "en": "Nightmare Spawn Egg",
+    "zh": "梦魇刷怪蛋",
+    "vi": "Nightmare Spawn Egg"
+  },
+  "entity.graveyard.corrupted_pillager": {
+    "en": "Corrupted Pillager",
+    "zh": "腐化掠夺者",
+    "vi": "Corrupted Pillager"
+  },
+  "item.graveyard.corrupted_pillager_spawn_egg": {
+    "en": "Corrupted Pillager Spawn Egg",
+    "zh": "腐化掠夺者刷怪蛋",
+    "vi": "Corrupted Pillager Spawn Egg"
+  },
+  "entity.graveyard.corrupted_vindicator": {
+    "en": "Corrupted Vindicator",
+    "zh": "腐化卫道士",
+    "vi": "Corrupted Vindicator"
+  },
+  "item.graveyard.corrupted_vindicator_spawn_egg": {
+    "en": "Corrupted Vindicator Spawn Egg",
+    "zh": "腐化卫道士刷怪蛋",
+    "vi": "Corrupted Vindicator Spawn Egg"
+  },
+  "entity.graveyard.wraith": {
+    "en": "Wraith",
+    "zh": "幽魂",
+    "vi": "Wraith"
+  },
+  "item.graveyard.wraith_spawn_egg": {
+    "en": "Wraith Spawn Egg",
+    "zh": "幽魂刷怪蛋",
+    "vi": "Wraith Spawn Egg"
+  },
+  "entity.graveyard.ghouling": {
+    "en": "Ghouling",
+    "zh": "食尸鬼从者",
+    "vi": "Ghouling"
+  },
+  "biome.graveyard.haunted_forest": {
+    "en": "Haunted Forest",
+    "zh": "闹鬼森林",
+    "vi": "khu rừng ma ám"
+  },
+  "biome.graveyard.haunted_lakes": {
+    "en": "Haunted Lakes",
+    "zh": "亡灵湖泊",
+    "vi": "hồ của người chết"
+  },
+  "biome.graveyard.eroded_haunted_forest": {
+    "en": "Eroded Haunted Forest",
+    "zh": "侵蚀中的闹鬼森林",
+    "vi": "Khu rừng ma ám đang bị xói mòn"
+  },
+  "biome.graveyard.ancient_dead_coral_reef": {
+    "en": "Ancient Dead Coral Reef",
+    "zh": "远古死珊瑚礁",
+    "vi": "rạn san hô chết cổ xưa"
+  },
+  "itemGroup.graveyard.group": {
+    "en": "The Graveyard",
+    "zh": "墓园",
+    "vi": "nghĩa trang"
+  },
+  "gravestone.edit": {
+    "en": "Edit Gravestone",
+    "zh": "编辑墓碑",
+    "vi": "Chỉnh sửa bia mộ"
+  },
+  "advancements.graveyard.crypt.title": {
+    "en": "Into Darkness",
+    "zh": "进入黑暗",
+    "vi": "vào bóng tối"
+  },
+  "advancements.graveyard.crypt.description": {
+    "en": "Find an underground crypt.",
+    "zh": "找到一个地下墓穴",
+    "vi": "Tìm một hầm mộ"
+  },
+  "advancements.graveyard.haunted_house.title": {
+    "en": "Invitation to the Tea Party",
+    "zh": "茶会邀请函",
+    "vi": "lời mời dự tiệc trà"
+  },
+  "advancements.graveyard.haunted_house.description": {
+    "en": "Accept the invitation to the house in the woods.",
+    "zh": "接受邀请前往森林中的房子.",
+    "vi": "Nhận lời mời đến ngôi nhà trong rừng."
+  },
+  "advancements.graveyard.medium_graveyard.title": {
+    "en": "Disturbing the Dead I",
+    "zh": "扰乱死者 I",
+    "vi": "Làm phiền người chết tôi"
+  },
+  "advancements.graveyard.medium_graveyard.description": {
+    "en": "Enter a medium graveyard.",
+    "zh": "进入一个中型墓园.",
+    "vi": "Bước vào một nghĩa trang cỡ trung bình."
+  },
+  "advancements.graveyard.large_graveyard.title": {
+    "en": "Disturbing the Dead II",
+    "zh": "扰乱死者 II",
+    "vi": "Làm phiền người chết II"
+  },
+  "advancements.graveyard.large_graveyard.description": {
+    "en": "Enter a large graveyard.",
+    "zh": "进入一个大型墓园.",
+    "vi": "Bước vào một nghĩa trang rộng lớn."
+  },
+  "advancements.graveyard.giant_mushroom.title": {
+    "en": "Corrupting the Paradise",
+    "zh": "腐化的天堂",
+    "vi": "thiên đường tham nhũng"
+  },
+  "advancements.graveyard.giant_mushroom.description": {
+    "en": "Find a mutated mushroom on the mushroom islands.",
+    "zh": "在蘑菇岛上找到一个变异的蘑菇.",
+    "vi": "Tìm một loại nấm đột biến trên Đảo Nấm."
+  },
+  "advancements.graveyard.root.title": {
+    "en": "Gravedigger",
+    "zh": "掘墓人",
+    "vi": "người đào mộ"
+  },
+  "advancements.graveyard.root.description": {
+    "en": "Find a small grave.",
+    "zh": "找到一个小型坟墓",
+    "vi": "Tìm một ngôi mộ nhỏ"
+  },
+  "advancements.graveyard.kill_wraith.title": {
+    "en": "Taking from the Dead",
+    "zh": "从死者身上拿东西",
+    "vi": "lấy đồ vật từ người chết"
+  },
+  "advancements.graveyard.kill_wraith.description": {
+    "en": "Summon a wraith by desecrating its coffin.",
+    "zh": "通过亵渎其棺材来召唤一个幽魂.",
+    "vi": "Triệu hồi một hồn ma bằng cách mạo phạm quan tài của nó."
+  },
+  "advancements.graveyard.kill_acolyte_bone_dagger.title": {
+    "en": "Turning the tables",
+    "zh": "扭转局势",
+    "vi": "xoay chuyển tình thế"
+  },
+  "advancements.graveyard.kill_acolyte_bone_dagger.description": {
+    "en": "Kill an acolyte with a bone dagger.",
+    "zh": "用骨头匕首杀死一名侍僧.",
+    "vi": "Giết một Acolyte bằng Bone Dagger."
+  },
+  "advancements.graveyard.desert_graveyard.title": {
+    "en": "Dust, Sand and Bones",
+    "zh": "灰尘、沙子和骨头",
+    "vi": "bụi, cát và xương"
+  },
+  "advancements.graveyard.desert_graveyard.description": {
+    "en": "Find a desert graveyard.",
+    "zh": "找到一个沙漠墓园",
+    "vi": "Tìm một nghĩa trang sa mạc"
+  },
+  "advancements.graveyard.dim_light.title": {
+    "en": "Who turned the lights off?",
+    "zh": "谁把灯关了？",
+    "vi": "Ai đã tắt đèn?"
+  },
+  "advancements.graveyard.dim_light.description": {
+    "en": "Witness a wraith extinguish a light source.",
+    "zh": "目睹一个幽魂熄灭了一个光源.",
+    "vi": "Chứng kiến ​​một con ma dập tắt một nguồn sáng."
+  },
+  "advancements.graveyard.kill_while_blinded.title": {
+    "en": "Peekaboo, I (still) see you!",
+    "zh": "躲猫猫,我（还）能看见你！",
+    "vi": "Trốn tìm, tôi có thể (vẫn) nhìn thấy bạn!"
+  },
+  "advancements.graveyard.kill_while_blinded.description": {
+    "en": "Kill a nightmare while under the blindness effect.",
+    "zh": "在失明效果下杀死一个梦魇.",
+    "vi": "Giết một cơn ác mộng trong khi bị mù."
+  },
+  "advancements.graveyard.kill_graveyard_mob.title": {
+    "en": "Stay dead",
+    "zh": "保持死亡",
+    "vi": "chết đi"
+  },
+  "advancements.graveyard.kill_graveyard_mob.description": {
+    "en": "Kill a graveyard mob.",
+    "zh": "杀死一个墓园里的生物",
+    "vi": "Giết một sinh vật trong nghĩa trang"
+  },
+  "advancements.graveyard.craft_coffin.title": {
+    "en": "Well prepared",
+    "zh": "准备充分",
+    "vi": "chuẩn bị tốt"
+  },
+  "advancements.graveyard.craft_coffin.description": {
+    "en": "Obtain a coffin.",
+    "zh": "获得一副棺材.",
+    "vi": "Lấy một chiếc quan tài."
+  },
+  "advancements.graveyard.corruption.title": {
+    "en": "Source of Evil",
+    "zh": "邪恶之源",
+    "vi": "nguồn gốc của cái ác"
+  },
+  "advancements.graveyard.corruption.description": {
+    "en": "Obtain corruption from graves or graveyard mobs.",
+    "zh": "从坟墓或墓园的生物那里获得堕落精华.",
+    "vi": "Thu thập Tinh chất bị hỏng từ các sinh vật trong mộ hoặc nghĩa địa."
+  },
+  "advancements.graveyard.dark_iron.title": {
+    "en": "Iron, but dark",
+    "zh": "铁,但是是黑的",
+    "vi": "Sắt, nhưng màu đen"
+  },
+  "advancements.graveyard.dark_iron.description": {
+    "en": "Obtain a dark iron ingot.",
+    "zh": "获得一个暗铁锭.",
+    "vi": "Thu được một thỏi sắt sẫm màu."
+  },
+  "advancements.graveyard.find_skeleton.title": {
+    "en": "Pseudo Archaeologist",
+    "zh": "伪考古学家",
+    "vi": "nhà khảo cổ học giả"
+  },
+  "advancements.graveyard.find_skeleton.description": {
+    "en": "Obtain a decorative skeleton.",
+    "zh": "获得一个装饰性的骷髅.",
+    "vi": "Nhận một hộp sọ trang trí."
+  },
+  "advancements.graveyard.visit_at_night.title": {
+    "en": "Dreamcatcher",
+    "zh": "捕梦者",
+    "vi": "người bắt giấc mơ"
+  },
+  "advancements.graveyard.visit_at_night.description": {
+    "en": "Sleep on a graveyard.",
+    "zh": "睡在墓园上",
+    "vi": "ngủ ở nghĩa trang"
+  },
+  "advancements.graveyard.kill_horde.title": {
+    "en": "Walking Dead",
+    "zh": "行尸走肉",
+    "vi": "Xác sống"
+  },
+  "advancements.graveyard.kill_horde.description": {
+    "en": "Decimate a graveyard horde, spawning at night.",
+    "zh": "消灭一个在夜间生成的墓园军团.",
+    "vi": "Tiêu diệt Quân đoàn Nghĩa địa xuất hiện vào ban đêm."
+  },
+  "advancements.graveyard.lower_bone_staff.title": {
+    "en": "Broken Parts I",
+    "zh": "残缺的部分 I",
+    "vi": "phần I chưa đầy đủ"
+  },
+  "advancements.graveyard.lower_bone_staff.description": {
+    "en": "Collect the lower piece of the bone staff.",
+    "zh": "收集骨杖的下部.",
+    "vi": "Thu thập phần dưới của trượng xương."
+  },
+  "advancements.graveyard.middle_bone_staff.title": {
+    "en": "Broken Parts II",
+    "zh": "残缺的部分 II",
+    "vi": "Phần II chưa đầy đủ"
+  },
+  "advancements.graveyard.middle_bone_staff.description": {
+    "en": "Collect the middle piece of the bone staff.",
+    "zh": "收集骨杖的中部.",
+    "vi": "Thu thập phần giữa của trượng xương."
+  },
+  "advancements.graveyard.upper_bone_staff.title": {
+    "en": "Broken Parts III",
+    "zh": "残缺的部分 III",
+    "vi": "Phần III chưa đầy đủ"
+  },
+  "advancements.graveyard.upper_bone_staff.description": {
+    "en": "Collect the upper piece of the bone staff.",
+    "zh": "收集骨杖的上部.",
+    "vi": "Thu thập phần trên của trượng xương."
+  },
+  "advancements.graveyard.summon_lich.title": {
+    "en": "Wrath of the Lich",
+    "zh": "巫妖之怒",
+    "vi": "Cơn thịnh nộ của Lich"
+  },
+  "advancements.graveyard.summon_lich.description": {
+    "en": "Summon the Lich at an altar with a full vial of blood and all three bone staff pieces at night.",
+    "zh": "用一瓶血和三枚骨杖碎片,于夜晚的祭坛召唤巫妖.",
+    "vi": "Dùng một bình máu và ba mảnh xương trượng để triệu hồi thi thể tại tế đàn vào ban đêm."
+  },
+  "advancements.graveyard.vial_of_blood.title": {
+    "en": "Blood \"Donation\"",
+    "zh": "“自愿”献血",
+    "vi": "Hiến máu “tự nguyện”"
+  },
+  "advancements.graveyard.vial_of_blood.description": {
+    "en": "Collect blood from villagers, using an empty glass bottle and a bone dagger.",
+    "zh": "手持空玻璃瓶和骨头匕首收集村民的血液.",
+    "vi": "Cầm một chai thủy tinh rỗng và một con dao găm bằng xương để lấy máu của dân làng."
+  },
+  "advancements.graveyard.lich_prison.title": {
+    "en": "Cursed Island",
+    "zh": "诅咒之地",
+    "vi": "nơi bị nguyền rủa"
+  },
+  "advancements.graveyard.lich_prison.description": {
+    "en": "Find the altar of the lich.",
+    "zh": "找到巫妖的祭坛.",
+    "vi": "Tìm Bàn thờ của Lich."
+  },
+  "advancements.graveyard.white_bone_staff.title": {
+    "en": "Staff of Zatraq'gul",
+    "zh": "扎特拉克·古尔之杖",
+    "vi": "Nhân viên của Zatrak Ghul"
+  },
+  "advancements.graveyard.white_bone_staff.description": {
+    "en": "Attain the Staff of Zatraq'gul.",
+    "zh": "获得扎特拉克·古尔之杖.",
+    "vi": "Có được Quyền trượng của Zatrak Ghul."
+  },
+  "advancements.graveyard.black_bone_staff.title": {
+    "en": "Staff of Nortoq'gul",
+    "zh": "诺托克·古尔之杖",
+    "vi": "Nhân viên của Notok Ghul"
+  },
+  "advancements.graveyard.black_bone_staff.description": {
+    "en": "Attain the Staff of Nortoq'gul.",
+    "zh": "获得诺托克·古尔之杖.",
+    "vi": "Lấy được quyền trượng của Notok Ghul."
+  },
+  "advancements.graveyard.red_bone_staff.title": {
+    "en": "Staff of Azrata'gul",
+    "zh": "阿兹拉塔·古尔之杖",
+    "vi": "Nhân viên của Azratar Ghul"
+  },
+  "advancements.graveyard.red_bone_staff.description": {
+    "en": "Attain the Staff of Azrata'gul.",
+    "zh": "获得阿兹拉塔·古尔之杖.",
+    "vi": "Có được Quyền trượng của Azrata Ghul."
+  },
+  "advancements.graveyard.purple_bone_staff.title": {
+    "en": "Staff of Xaphnok'gul",
+    "zh": "夏普诺克·古尔之杖",
+    "vi": "Nhân viên của Sharpnok Gur"
+  },
+  "advancements.graveyard.purple_bone_staff.description": {
+    "en": "Attain the Staff of Xaphnok'gul.",
+    "zh": "获得夏普诺克·古尔之杖.",
+    "vi": "Có được Quyền trượng của Sharpnok Gur."
+  },
+  "advancements.graveyard.cyan_bone_staff.title": {
+    "en": "Staff of Mynakta'gul",
+    "zh": "米纳克塔·古尔之杖",
+    "vi": "Nhân viên của Minakta Ghul"
+  },
+  "advancements.graveyard.cyan_bone_staff.description": {
+    "en": "Attain the Staff of Mynakta'gul.",
+    "zh": "获得米纳克塔·古尔之杖.",
+    "vi": "Có được Nhân viên của Minaktar Gur."
+  },
+  "advancements.graveyard.equip_coffin.title": {
+    "en": "The dead shall serve",
+    "zh": "为死者服务",
+    "vi": "Phục vụ người chết"
+  },
+  "advancements.graveyard.equip_coffin.description": {
+    "en": "Equip a Ghouling with a coffin or sarcophagus.",
+    "zh": "为食尸鬼配备合适的棺材.",
+    "vi": "Trang bị cho con ma cà rồng một chiếc quan tài phù hợp."
+  },
+  "advancements.graveyard.dead_tree.title": {
+    "en": "Hanging Tree",
+    "zh": "吊死树",
+    "vi": "cây treo"
+  },
+  "advancements.graveyard.dead_tree.description": {
+    "en": "Discover the truth about the dead tree.",
+    "zh": "发现死树的真相.",
+    "vi": "Khám phá sự thật về cây chết."
+  }
+}

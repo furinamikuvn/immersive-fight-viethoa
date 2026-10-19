@@ -1,0 +1,11 @@
+
+["Roll Mechanics"]
+	#Whether the roll ability is enabled.
+	enable_roll = false
+	#Cooldown in ticks (20 ticks = 1 second).
+	#Range: 0 ~ 1000
+	roll_cooldown = 40
+	#Velocity strength of the roll.
+	#Range: 0.1 ~ 2.0
+	roll_speed = 1.0
+

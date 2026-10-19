@@ -1,0 +1,302 @@
+{
+  "Use /locate structure #bettermineshafts:better_mineshafts instead!": {
+    "en": "Use /locate structure #bettermineshafts:better_mineshafts instead!",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.bettermineshafts-fabric-1_20.title": {
+    "en": "YUNG's Better Mineshafts",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.bettermineshafts-fabric-1_20.category.default": {
+    "en": "Main Settings",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.bettermineshafts-fabric-1_20.category.spawnrates": {
+    "en": "Spawn Rates & More",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.bettermineshafts-fabric-1_20.category.ores": {
+    "en": "Ore Deposits",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.bettermineshafts-fabric-1_20.option.minY": {
+    "en": "Minimum y-coordinate",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.bettermineshafts-fabric-1_20.option.minY.@Tooltip": {
+    "en": "The lowest the floor of a mineshaft can be.",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.bettermineshafts-fabric-1_20.option.maxY": {
+    "en": "Maximum y-coordinate",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.bettermineshafts-fabric-1_20.option.maxY.@Tooltip": {
+    "en": "The highest the floor of a mineshaft can be.",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.bettermineshafts-fabric-1_20.option.disableVanillaMineshafts": {
+    "en": "Disable Vanilla Mineshafts",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.bettermineshafts-fabric-1_20.option.disableVanillaMineshafts.@Tooltip": {
+    "en": "Whether or not vanilla mineshafts should be disabled.",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.bettermineshafts-fabric-1_20.option.spawnRates": {
+    "en": "Spawn Rates & More",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.bettermineshafts-fabric-1_20.option.spawnRates.@Tooltip": {
+    "en": "Customize spawn rates for various mineshaft parts and decorations.",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.bettermineshafts-fabric-1_20.option.ores": {
+    "en": "Ore Deposits",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.bettermineshafts-fabric-1_20.option.ores.@Tooltip[0]": {
+    "en": "Configure ore deposit spawn chances.",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.bettermineshafts-fabric-1_20.option.ores.@Tooltip[1]": {
+    "en": "MAKE SURE ALL THE VALUES ADD UP TO 100,",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.bettermineshafts-fabric-1_20.option.ores.@Tooltip[2]": {
+    "en": "or things won't work the way you want them to!!",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.bettermineshafts-fabric-1_20.option.spawnRates.lanternSpawnRate": {
+    "en": "Lantern Spawn Rate",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.bettermineshafts-fabric-1_20.option.spawnRates.lanternSpawnRate.@Tooltip": {
+    "en": "The spawn rate for lanterns in the main shaft.",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.bettermineshafts-fabric-1_20.option.spawnRates.torchSpawnRate": {
+    "en": "Torch Spawn Rate",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.bettermineshafts-fabric-1_20.option.spawnRates.torchSpawnRate.@Tooltip": {
+    "en": "The spawn rate for torches in small shafts.",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.bettermineshafts-fabric-1_20.option.spawnRates.workstationSpawnRate": {
+    "en": "Workstation Spawn Rate",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.bettermineshafts-fabric-1_20.option.spawnRates.workstationSpawnRate.@Tooltip": {
+    "en": "The spawn rate for workstation side rooms along the main shaft.",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.bettermineshafts-fabric-1_20.option.spawnRates.workstationDungeonSpawnRate": {
+    "en": "Workstation Cellar Spawn Rate",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.bettermineshafts-fabric-1_20.option.spawnRates.workstationDungeonSpawnRate.@Tooltip": {
+    "en": "The spawn rate for workstation cellars below workstations along the main shaft.",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.bettermineshafts-fabric-1_20.option.spawnRates.smallShaftSpawnRate": {
+    "en": "Small Shaft Spawn Rate",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.bettermineshafts-fabric-1_20.option.spawnRates.smallShaftSpawnRate.@Tooltip": {
+    "en": "The spawn rate for smaller tunnels that generate along the main shaft.",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.bettermineshafts-fabric-1_20.option.spawnRates.cobwebSpawnRate": {
+    "en": "Cobweb Spawn Rate",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.bettermineshafts-fabric-1_20.option.spawnRates.cobwebSpawnRate.@Tooltip": {
+    "en": "The spawn rate for cobwebs.",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.bettermineshafts-fabric-1_20.option.spawnRates.smallShaftChestMinecartSpawnRate": {
+    "en": "Small Shaft Chest Minecart Spawn Rate",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.bettermineshafts-fabric-1_20.option.spawnRates.smallShaftChestMinecartSpawnRate.@Tooltip": {
+    "en": "The spawn rate for minecarts holding chests in small shafts.",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.bettermineshafts-fabric-1_20.option.spawnRates.mainShaftChestMinecartSpawnRate": {
+    "en": "Main Shaft Chest Minecart Spawn Rate",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.bettermineshafts-fabric-1_20.option.spawnRates.mainShaftChestMinecartSpawnRate.@Tooltip": {
+    "en": "The spawn rate for minecarts holding chests in the main shaft.",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.bettermineshafts-fabric-1_20.option.spawnRates.smallShaftTntMinecartSpawnRate": {
+    "en": "Small Shaft TNT Minecart Spawn Rate",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.bettermineshafts-fabric-1_20.option.spawnRates.smallShaftTntMinecartSpawnRate.@Tooltip": {
+    "en": "The spawn rate for minecarts holding TNT in small shafts.",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.bettermineshafts-fabric-1_20.option.spawnRates.mainShaftTntMinecartSpawnRate": {
+    "en": "Main Shaft TNT  Minecart Spawn Rate",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.bettermineshafts-fabric-1_20.option.spawnRates.mainShaftTntMinecartSpawnRate.@Tooltip": {
+    "en": "The spawn rate for minecarts holding TNT in the main shaft.",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.bettermineshafts-fabric-1_20.option.spawnRates.zombieVillagerRoomSpawnChance": {
+    "en": "Abandoned Miners' Outpost Spawn Rate",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.bettermineshafts-fabric-1_20.option.spawnRates.zombieVillagerRoomSpawnChance.@Tooltip[0]": {
+    "en": "Percent chance of an Abandoned Miners' Outpost to spawn",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.bettermineshafts-fabric-1_20.option.spawnRates.zombieVillagerRoomSpawnChance.@Tooltip[1]": {
+    "en": "at the end of a small mineshaft tunnel.",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.bettermineshafts-fabric-1_20.option.spawnRates.smallShaftPieceChainLength": {
+    "en": "Small Shaft Piece Chain Length",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.bettermineshafts-fabric-1_20.option.spawnRates.smallShaftPieceChainLength.@Tooltip[0]": {
+    "en": "The number of \"pieces\" (e.g. straight, turn, etc) in a single small shaft.",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.bettermineshafts-fabric-1_20.option.spawnRates.smallShaftPieceChainLength.@Tooltip[1]": {
+    "en": "This determines the overall size of small shafts.",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.bettermineshafts-fabric-1_20.option.ores.enabled": {
+    "en": "Enable Ore Deposits",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.bettermineshafts-fabric-1_20.option.ores.cobble": {
+    "en": "Cobble Spawn Chance (Empty deposit)",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.bettermineshafts-fabric-1_20.option.ores.cobble.@Tooltip": {
+    "en": "Percent chance of an ore deposit being cobblestone only.",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.bettermineshafts-fabric-1_20.option.ores.coal": {
+    "en": "Coal Spawn Chance",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.bettermineshafts-fabric-1_20.option.ores.coal.@Tooltip": {
+    "en": "Percent chance of an ore deposit containing coal.",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.bettermineshafts-fabric-1_20.option.ores.iron": {
+    "en": "Iron Spawn Chance",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.bettermineshafts-fabric-1_20.option.ores.iron.@Tooltip": {
+    "en": "Percent chance of an ore deposit containing iron.",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.bettermineshafts-fabric-1_20.option.ores.redstone": {
+    "en": "Redstone Spawn Chance",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.bettermineshafts-fabric-1_20.option.ores.redstone.@Tooltip": {
+    "en": "Percent chance of an ore deposit containing redstone.",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.bettermineshafts-fabric-1_20.option.ores.gold": {
+    "en": "Gold Spawn Chance",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.bettermineshafts-fabric-1_20.option.ores.gold.@Tooltip": {
+    "en": "Percent chance of an ore deposit containing gold.",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.bettermineshafts-fabric-1_20.option.ores.lapis": {
+    "en": "Lapis Spawn Chance",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.bettermineshafts-fabric-1_20.option.ores.lapis.@Tooltip": {
+    "en": "Percent chance of an ore deposit containing lapis.",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.bettermineshafts-fabric-1_20.option.ores.emerald": {
+    "en": "Emerald Spawn Chance",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.bettermineshafts-fabric-1_20.option.ores.emerald.@Tooltip": {
+    "en": "Percent chance of an ore deposit containing emerald.",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.bettermineshafts-fabric-1_20.option.ores.diamond": {
+    "en": "Diamond Spawn Chance",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.bettermineshafts-fabric-1_20.option.ores.diamond.@Tooltip": {
+    "en": "Percent chance of an ore deposit containing diamond.",
+    "zh": null,
+    "vi": null
+  }
+}

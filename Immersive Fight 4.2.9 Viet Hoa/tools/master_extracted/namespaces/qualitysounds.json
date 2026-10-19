@@ -1,0 +1,612 @@
+{
+  "qualitysounds.sound_reload_key": {
+    "en": "Reload sound system",
+    "zh": null,
+    "vi": null
+  },
+  "qualitysounds.sound_reload_message": {
+    "en": "Quality Sounds: Reloaded sound system",
+    "zh": null,
+    "vi": null
+  },
+  "qualitysounds.category": {
+    "en": "Quality Sounds",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.qualitysounds.title": {
+    "en": "Quality Sounds Configuration",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.qualitysounds.option.block_sounds": {
+    "en": "Block Sounds",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.qualitysounds.option.block_sounds.blockSoundsConfig": {
+    "en": "Individual Block Sound Groups",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.qualitysounds.option.block_sounds.blockSoundsConfig.acacia_leavesSounds": {
+    "en": "Acacia Leaves and Acacia Sapling",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.qualitysounds.option.block_sounds.blockSoundsConfig.acacia_leavesSounds.@Tooltip": {
+    "en": "Acacia Leaves and Sapling will now use a new sound group",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.qualitysounds.option.block_sounds.blockSoundsConfig.acacia_logSounds": {
+    "en": "Acacia Log and Acacia Wood",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.qualitysounds.option.block_sounds.blockSoundsConfig.acacia_logSounds.@Tooltip": {
+    "en": "Acacia Log and Wood will now use a new sound group",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.qualitysounds.option.block_sounds.blockSoundsConfig.acacia_objectSounds": {
+    "en": "Acacia Pressure Plate, Acacia Fence, Acacia Fence Gate, Acacia Sign, Acacia Door, Acacia Trapdoor, and Acacia Button",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.qualitysounds.option.block_sounds.blockSoundsConfig.acacia_objectSounds.@Tooltip": {
+    "en": "Acacia Pressure Plate, Fence, Fence Gate, Sign, Door, Trapdoor, and Button will now use the same sound group as Acacia Planks",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.qualitysounds.option.block_sounds.blockSoundsConfig.acacia_planksSounds": {
+    "en": "Acacia Planks, Acacia Slab, Acacia Stairs, Stripped Acacia Log, and Stripped Acacia Wood",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.qualitysounds.option.block_sounds.blockSoundsConfig.acacia_planksSounds.@Tooltip": {
+    "en": "Acacia Planks, Slab, Stairs, Stripped Log, and Stripped Wood will now use a new sound group",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.qualitysounds.option.block_sounds.blockSoundsConfig.barrelSounds": {
+    "en": "Barrel",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.qualitysounds.option.block_sounds.blockSoundsConfig.barrelSounds.@Tooltip": {
+    "en": "Barrel will now use a new sound group",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.qualitysounds.option.block_sounds.blockSoundsConfig.beehiveSounds": {
+    "en": "Beehive",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.qualitysounds.option.block_sounds.blockSoundsConfig.beehiveSounds.@Tooltip": {
+    "en": "Beehive will now use a new sound group",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.qualitysounds.option.block_sounds.blockSoundsConfig.birch_leavesSounds": {
+    "en": "Birch Leaves and Birch Saplings",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.qualitysounds.option.block_sounds.blockSoundsConfig.birch_leavesSounds.@Tooltip": {
+    "en": "Birch Leaves will now use same sound group as Cherry Leaves",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.qualitysounds.option.block_sounds.blockSoundsConfig.birch_logSounds": {
+    "en": "Birch Log, Birch Wood, Birch Trapdoor",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.qualitysounds.option.block_sounds.blockSoundsConfig.birch_logSounds.@Tooltip": {
+    "en": "Birch Log and Wood will now use a new sound group",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.qualitysounds.option.block_sounds.blockSoundsConfig.birch_objectSounds": {
+    "en": "Birch Pressure Plate, Birch Fence, Birch Fence Gate, Birch Sign, Birch Button, Birch Slab",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.qualitysounds.option.block_sounds.blockSoundsConfig.birch_objectSounds.@Tooltip": {
+    "en": "Birch Pressure Plate, Fence, Fence Gate, Sign, Button, and Slab will now use a new sound group",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.qualitysounds.option.block_sounds.blockSoundsConfig.birch_planksSounds": {
+    "en": "Birch Planks, Birch Stairs, Stripped Birch Log, and Stripped Birch Wood",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.qualitysounds.option.block_sounds.blockSoundsConfig.birch_planksSounds.@Tooltip": {
+    "en": "Birch Planks, Stairs, Stripped Log, and Stripped Wood will now use a new sound group",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.qualitysounds.option.block_sounds.blockSoundsConfig.bookshelfSounds": {
+    "en": "Bookshelf",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.qualitysounds.option.block_sounds.blockSoundsConfig.bookshelfSounds.@Tooltip": {
+    "en": "Bookshelf will now use a new sound group",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.qualitysounds.option.block_sounds.blockSoundsConfig.chestSounds": {
+    "en": "Chest",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.qualitysounds.option.block_sounds.blockSoundsConfig.chestSounds.@Tooltip": {
+    "en": "Chest will now use a new sound group",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.qualitysounds.option.block_sounds.blockSoundsConfig.clayBrickSounds": {
+    "en": "Bricks",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.qualitysounds.option.block_sounds.blockSoundsConfig.clayBrickSounds.@Tooltip": {
+    "en": "Bricks will now use a new sound group",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.qualitysounds.option.block_sounds.blockSoundsConfig.claySounds": {
+    "en": "Clay",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.qualitysounds.option.block_sounds.blockSoundsConfig.claySounds.@Tooltip": {
+    "en": "Clay will now use a new sound group",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.qualitysounds.option.block_sounds.blockSoundsConfig.cobblestoneSounds": {
+    "en": "Cobblestone",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.qualitysounds.option.block_sounds.blockSoundsConfig.cobblestoneSounds.@Tooltip": {
+    "en": "Cobblestone will now use a new sound group",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.qualitysounds.option.block_sounds.blockSoundsConfig.copper_oreSounds": {
+    "en": "Copper Ore",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.qualitysounds.option.block_sounds.blockSoundsConfig.copper_oreSounds.@Tooltip": {
+    "en": "Copper Ore will now use a new sound group",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.qualitysounds.option.block_sounds.blockSoundsConfig.darkPrismarineSounds": {
+    "en": "Dark Prismarine",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.qualitysounds.option.block_sounds.blockSoundsConfig.darkPrismarineSounds.@Tooltip": {
+    "en": "Dark Prismarine blocks will now use the same sound group as Deepslate Tiles",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.qualitysounds.option.block_sounds.blockSoundsConfig.deepslate_copper_oreSounds": {
+    "en": "Deepslate Copper Ore",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.qualitysounds.option.block_sounds.blockSoundsConfig.deepslate_copper_oreSounds.@Tooltip": {
+    "en": "Deepslate Copper Ore will now use a new sound group",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.qualitysounds.option.block_sounds.blockSoundsConfig.deepslate_gold_oreSounds": {
+    "en": "Deepslate Gold Ore",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.qualitysounds.option.block_sounds.blockSoundsConfig.deepslate_gold_oreSounds.@Tooltip": {
+    "en": "Deepslate Gold Ore will now use a new sound group",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.qualitysounds.option.block_sounds.blockSoundsConfig.deepslate_iron_oreSounds": {
+    "en": "Deepslate Iron Ore",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.qualitysounds.option.block_sounds.blockSoundsConfig.deepslate_iron_oreSounds.@Tooltip": {
+    "en": "Deepslate Iron Ore will now use a new sound group",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.qualitysounds.option.block_sounds.blockSoundsConfig.emeraldSounds": {
+    "en": "Emerald",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.qualitysounds.option.block_sounds.blockSoundsConfig.emeraldSounds.@Tooltip": {
+    "en": "Emerald Blocks will now use a new sound group",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.qualitysounds.option.block_sounds.blockSoundsConfig.endStoneBrickSounds": {
+    "en": "End Stone Brick",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.qualitysounds.option.block_sounds.blockSoundsConfig.endStoneBrickSounds.@Tooltip": {
+    "en": "End Stone Bricks will now use a new sound group",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.qualitysounds.option.block_sounds.blockSoundsConfig.endStoneSounds": {
+    "en": "End Stone",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.qualitysounds.option.block_sounds.blockSoundsConfig.endStoneSounds.@Tooltip": {
+    "en": "End Stone will now use a new sound group",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.qualitysounds.option.block_sounds.blockSoundsConfig.glassSounds": {
+    "en": "Glass, Glowstone, Beacon, Redstone Lamp, and Sea Lantern Sounds",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.qualitysounds.option.block_sounds.blockSoundsConfig.glassSounds.@Tooltip": {
+    "en": "Glass blocks, Beacons, Glowstone, Redstone Lamps, and Sea Lanterns will now use a new sound group",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.qualitysounds.option.block_sounds.blockSoundsConfig.goldSounds": {
+    "en": "Gold Block",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.qualitysounds.option.block_sounds.blockSoundsConfig.goldSounds.@Tooltip": {
+    "en": "Gold Blocks and Light Weighted Pressure Plates will now use a new sound group",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.qualitysounds.option.block_sounds.blockSoundsConfig.gold_oreSounds": {
+    "en": "Gold Ore",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.qualitysounds.option.block_sounds.blockSoundsConfig.gold_oreSounds.@Tooltip": {
+    "en": "Gold Ore will now use a new sound group",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.qualitysounds.option.block_sounds.blockSoundsConfig.gravelSounds": {
+    "en": "Gravel",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.qualitysounds.option.block_sounds.blockSoundsConfig.gravelSounds.@Tooltip": {
+    "en": "Gravel will now use a new sound group",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.qualitysounds.option.block_sounds.blockSoundsConfig.hayBlockSounds": {
+    "en": "Hay Bale",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.qualitysounds.option.block_sounds.blockSoundsConfig.hayBlockSounds.@Tooltip": {
+    "en": "Hay Bales will now use a new sound group",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.qualitysounds.option.block_sounds.blockSoundsConfig.iceSounds": {
+    "en": "Ice",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.qualitysounds.option.block_sounds.blockSoundsConfig.iceSounds.@Tooltip": {
+    "en": "Ice Blocks will now use a new sound group",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.qualitysounds.option.block_sounds.blockSoundsConfig.ironSounds": {
+    "en": "Iron",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.qualitysounds.option.block_sounds.blockSoundsConfig.ironSounds.@Tooltip": {
+    "en": "Iron Doors, Iron Blocks, and Heavy Weighted Pressure Plates will now use a new sound group",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.qualitysounds.option.block_sounds.blockSoundsConfig.iron_oreSounds": {
+    "en": "Iron Ore",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.qualitysounds.option.block_sounds.blockSoundsConfig.iron_oreSounds.@Tooltip": {
+    "en": "Iron Ore will now use a new sound group",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.qualitysounds.option.block_sounds.blockSoundsConfig.jungle_leavesSounds": {
+    "en": "Jungle Leaves and Jungle Saplings",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.qualitysounds.option.block_sounds.blockSoundsConfig.jungle_leavesSounds.@Tooltip": {
+    "en": "Jungle Leaves and Jungle Saplings will now use a new sound group",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.qualitysounds.option.block_sounds.blockSoundsConfig.jungle_objectSounds": {
+    "en": "Jungle Pressure Plate, Jungle Fence, Jungle Fence Gate, Jungle Sign, Jungle Door, Jungle Trapdoor, and Jungle Button",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.qualitysounds.option.block_sounds.blockSoundsConfig.jungle_objectSounds.@Tooltip": {
+    "en": "Jungle Pressure Plate, Fence, Fence Gate, Sign, Door, Trapdoor, and Button will now use the same sound group as Jungle Planks",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.qualitysounds.option.block_sounds.blockSoundsConfig.jungle_planksSounds": {
+    "en": "Jungle Planks, Jungle Stairs, Stripped Jungle Log, and Stripped Jungle Wood",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.qualitysounds.option.block_sounds.blockSoundsConfig.jungle_planksSounds.@Tooltip": {
+    "en": "Jungle Planks, Stairs, Stripped Log, and Stripped Wood will now use a new sound group",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.qualitysounds.option.block_sounds.blockSoundsConfig.lapisSounds": {
+    "en": "Lapis and Glazed Terracotta",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.qualitysounds.option.block_sounds.blockSoundsConfig.lapisSounds.@Tooltip": {
+    "en": "Lapis and Glazed Terracotta Blocks will now use the same sound group as Bone Blocks",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.qualitysounds.option.block_sounds.blockSoundsConfig.loomSounds": {
+    "en": "Loom",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.qualitysounds.option.block_sounds.blockSoundsConfig.loomSounds.@Tooltip": {
+    "en": "Loom will now use a new sound group",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.qualitysounds.option.block_sounds.blockSoundsConfig.magmaBlockSounds": {
+    "en": "Magma Block",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.qualitysounds.option.block_sounds.blockSoundsConfig.magmaBlockSounds.@Tooltip": {
+    "en": "Magma Blocks will now use a new sound group",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.qualitysounds.option.block_sounds.blockSoundsConfig.mangrove_leavesSounds": {
+    "en": "Mangrove Leaves",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.qualitysounds.option.block_sounds.blockSoundsConfig.mangrove_leavesSounds.@Tooltip": {
+    "en": "Mangrove Leaves will now use a new sound group",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.qualitysounds.option.block_sounds.blockSoundsConfig.mangrove_logSounds": {
+    "en": "Mangrove Log and Mangrove Wood",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.qualitysounds.option.block_sounds.blockSoundsConfig.mangrove_logSounds.@Tooltip": {
+    "en": "Mangrove Logs and Wood will now use a new sound group",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.qualitysounds.option.block_sounds.blockSoundsConfig.mangrove_objectSounds": {
+    "en": "Mangrove Pressure Plate, Fence, Fence Gate, Sign, Door, Trapdoor, and Button",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.qualitysounds.option.block_sounds.blockSoundsConfig.mangrove_objectSounds.@Tooltip": {
+    "en": "Mangrove Pressure Plate, Fence, Fence Gate, Sign, Door, Trapdoor, and Button will now use the same sound group as Mangrove Planks",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.qualitysounds.option.block_sounds.blockSoundsConfig.mangrove_planksSounds": {
+    "en": "Mangrove Planks, Stairs, Stripped Log, and Stripped Wood",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.qualitysounds.option.block_sounds.blockSoundsConfig.mangrove_planksSounds.@Tooltip": {
+    "en": "Mangrove Planks, Stairs, Stripped Log, and Stripped Wood will now use a new sound group",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.qualitysounds.option.block_sounds.blockSoundsConfig.mossy_cobblestoneSounds": {
+    "en": "Mossy Cobblestone",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.qualitysounds.option.block_sounds.blockSoundsConfig.mossy_cobblestoneSounds.@Tooltip": {
+    "en": "Mossy Cobblestone will now use a new sound group",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.qualitysounds.option.block_sounds.blockSoundsConfig.mossy_stone_bricksSounds": {
+    "en": "Mossy Stone Bricks",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.qualitysounds.option.block_sounds.blockSoundsConfig.mossy_stone_bricksSounds.@Tooltip": {
+    "en": "Mossy Stone Bricks will now use a new sound group",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.qualitysounds.option.block_sounds.blockSoundsConfig.oak_logSounds": {
+    "en": "Oak Log, Oak Wood, Dark Oak Log, and Dark Oak Wood",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.qualitysounds.option.block_sounds.blockSoundsConfig.oak_logSounds.@Tooltip": {
+    "en": "Oak Log/Wood and Dark Oak Log/Wood will now use a new sound group",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.qualitysounds.option.block_sounds.blockSoundsConfig.obsidianSounds": {
+    "en": "Respawn Anchor, Enchanting Table, and Ender Chest",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.qualitysounds.option.block_sounds.blockSoundsConfig.obsidianSounds.@Tooltip": {
+    "en": "Respawn Anchors, Enchanting Tables, and Ender Chests will now use a new sound group",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.qualitysounds.option.block_sounds.blockSoundsConfig.overworldStoneVariantSounds": {
+    "en": "Andesite, Diorite, and Granite",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.qualitysounds.option.block_sounds.blockSoundsConfig.overworldStoneVariantSounds.@Tooltip": {
+    "en": "Andesite, Diorite, and Granite will now use the same sound group as Basalt",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.qualitysounds.option.block_sounds.blockSoundsConfig.packedIceSounds": {
+    "en": "Packed/Blue Ice",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.qualitysounds.option.block_sounds.blockSoundsConfig.packedIceSounds.@Tooltip": {
+    "en": "Packed and Blue Ice Blocks will now use a new sound group",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.qualitysounds.option.block_sounds.blockSoundsConfig.prismarineSounds": {
+    "en": "Prismarine and End Stone",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.qualitysounds.option.block_sounds.blockSoundsConfig.prismarineSounds.@Tooltip": {
+    "en": "Prismarine blocks and End Stone will now use a new sound group",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.qualitysounds.option.block_sounds.blockSoundsConfig.quartzSounds": {
+    "en": "Diamond Block, Obsidian, and Crying Obsidian, Redstone Block, and Quartz Sounds",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.qualitysounds.option.block_sounds.blockSoundsConfig.quartzSounds.@Tooltip": {
+    "en": "Diamond Blocks, Obsidian, Crying Obsidian, Redstone Block, and Quartz will now use a new sound group",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.qualitysounds.option.block_sounds.blockSoundsConfig.raw_gold_blockSounds": {
+    "en": "Raw Gold Block",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.qualitysounds.option.block_sounds.blockSoundsConfig.raw_gold_blockSounds.@Tooltip": {
+    "en": "Raw Gold Block will now use a new sound group",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.qualitysounds.option.block_sounds.blockSoundsConfig.sandstoneSounds": {
+    "en": "Sandstone",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.qualitysounds.option.block_sounds.blockSoundsConfig.sandstoneSounds.@Tooltip": {
+    "en": "All variants of Sandstone will now use a new sound group",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.qualitysounds.option.block_sounds.blockSoundsConfig.sheetMetalSounds": {
+    "en": "Sheet Metal",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.qualitysounds.option.block_sounds.blockSoundsConfig.sheetMetalSounds.@Tooltip": {
+    "en": "Iron Bars, Iron Trapdoors, Hoppers, and Cauldrons will now use a new sound group",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.qualitysounds.option.block_sounds.blockSoundsConfig.spruce_leavesSounds": {
+    "en": "Spruce Leaves and Spruce Sapling",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.qualitysounds.option.block_sounds.blockSoundsConfig.spruce_leavesSounds.@Tooltip": {
+    "en": "Spruce Leaves and Saplings will now use a new sound group",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.qualitysounds.option.block_sounds.blockSoundsConfig.spruce_logSounds": {
+    "en": "Spruce Log and Spruce Wood",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.qualitysounds.option.block_sounds.blockSoundsConfig.spruce_logSounds.@Tooltip": {
+    "en": "Spruce Log and Wood will now use a new sound group",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.qualitysounds.option.block_sounds.blockSoundsConfig.spruce_objectSounds": {
+    "en": "Spruce Pressure Plate, Spruce Fence, Spruce Fence Gate, Spruce Sign, Spruce Door, Spruce Trapdoor, and Spruce Button",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.qualitysounds.option.block_sounds.blockSoundsConfig.spruce_objectSounds.@Tooltip": {
+    "en": "Spruce Pressure Plate, Fence, Fence Gate, Sign, Door, Trapdoor, and Button will now use the same sound group as Spruce Planks",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.qualitysounds.option.block_sounds.blockSoundsConfig.spruce_planksSounds": {
+    "en": "Spruce Planks, Spruce Stairs, Stripped Spruce Log, and Stripped Spruce Wood",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.qualitysounds.option.block_sounds.blockSoundsConfig.spruce_planksSounds.@Tooltip": {
+    "en": "Spruce Planks, Stairs, Stripped Log, and Stripped Wood will now use a new sound group",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.qualitysounds.option.block_sounds.blockSoundsConfig.stone_bricksSounds": {
+    "en": "Stone Bricks",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.qualitysounds.option.block_sounds.blockSoundsConfig.stone_bricksSounds.@Tooltip": {
+    "en": "Stone Bricks will now use a new sound group",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.qualitysounds.option.block_sounds.blockSoundsConfig.terracottaSounds": {
+    "en": "Terracotta and Bedrock",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.qualitysounds.option.block_sounds.blockSoundsConfig.terracottaSounds.@Tooltip": {
+    "en": "Terracotta and Bedrock will now use a new sound group",
+    "zh": null,
+    "vi": null
+  }
+}

@@ -1,0 +1,249 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "boss"
+	group: "27EE47AB69EC29B4"
+	icon: "minecraft:ender_eye"
+	id: "4B7EB22481EE7927"
+	images: [{
+		click: "https://www.mcmod.cn/item/list/4660-4.html"
+		height: 1.0d
+		hover: ["Nhấp để mở trang Bách Khoa Toàn Thư (Wiki)"]
+		image: "ftbteams:textures/alian.png"
+		rotation: 0.0d
+		width: 1.0503597122302157d
+		x: -1.0d
+		y: -7.0d
+	}]
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["27F0CB8995B4B854"]
+			disable_toast: true
+			entity_vis_size: 1.0f
+			id: "4A65691DFE967EF2"
+			shape: "diamond"
+			size: 1.2d
+			tasks: [{
+				disable_toast: true
+				entity: "bosses_of_mass_destruction:lich"
+				entity_use_tag: false
+				entity_vis_idle_mode: "USE_GLOBAL"
+				entity_vis_offset_x: 0.0f
+				entity_vis_offset_y: 0.0f
+				entity_vis_rotation: 0.0f
+				entity_vis_silhouette_mode: "NONE"
+				entity_vis_size: 1.0f
+				entity_vis_spin_mode: "USE_GLOBAL"
+				entity_vis_use_as_quest_icon: false
+				entity_vis_walk_mode: "USE_GLOBAL"
+				icon: "bosses_of_mass_destruction:ancient_anima"
+				id: "23E0D7A49D643B34"
+				type: "kill"
+				value: 1L
+			}]
+			x: -2.0d
+			y: -8.0d
+		}
+		{
+			dependencies: ["49415722E18BF142"]
+			disable_toast: true
+			entity_vis_size: 1.0f
+			id: "6E661EF377B00DB0"
+			shape: "diamond"
+			size: 1.2d
+			tasks: [{
+				disable_toast: true
+				entity: "bosses_of_mass_destruction:void_blossom"
+				entity_use_tag: false
+				entity_vis_idle_mode: "USE_GLOBAL"
+				entity_vis_offset_x: 0.0f
+				entity_vis_offset_y: 0.0f
+				entity_vis_rotation: 0.0f
+				entity_vis_silhouette_mode: "NONE"
+				entity_vis_size: 1.0f
+				entity_vis_spin_mode: "USE_GLOBAL"
+				entity_vis_use_as_quest_icon: false
+				entity_vis_walk_mode: "USE_GLOBAL"
+				icon: "bosses_of_mass_destruction:void_thorn"
+				id: "65C9F07A00940E95"
+				type: "kill"
+				value: 1L
+			}]
+			x: -2.0d
+			y: -7.0d
+		}
+		{
+			disable_toast: true
+			entity_vis_size: 1.0f
+			id: "6425B029CF0FF9D7"
+			shape: "diamond"
+			size: 1.2d
+			tasks: [{
+				disable_toast: true
+				entity: "bosses_of_mass_destruction:gauntlet"
+				entity_use_tag: false
+				entity_vis_idle_mode: "USE_GLOBAL"
+				entity_vis_offset_x: 0.0f
+				entity_vis_offset_y: 0.0f
+				entity_vis_rotation: 0.0f
+				entity_vis_silhouette_mode: "NONE"
+				entity_vis_size: 1.0f
+				entity_vis_spin_mode: "USE_GLOBAL"
+				entity_vis_use_as_quest_icon: false
+				entity_vis_walk_mode: "USE_GLOBAL"
+				icon: "bosses_of_mass_destruction:blazing_eye"
+				id: "0A535E511C2DD2A2"
+				type: "kill"
+				value: 1L
+			}]
+			x: -2.0d
+			y: -6.0d
+		}
+		{
+			description: ["Kích hoạt Eye of Ender"]
+			disable_toast: true
+			entity_vis_size: 1.0f
+			id: "6ABEEF083521894C"
+			shape: "diamond"
+			size: 1.2d
+			tasks: [{
+				disable_toast: true
+				entity: "bosses_of_mass_destruction:obsidilith"
+				entity_use_tag: false
+				entity_vis_idle_mode: "USE_GLOBAL"
+				entity_vis_offset_x: 0.0f
+				entity_vis_offset_y: 0.0f
+				entity_vis_rotation: 0.0f
+				entity_vis_silhouette_mode: "NONE"
+				entity_vis_size: 1.0f
+				entity_vis_spin_mode: "USE_GLOBAL"
+				entity_vis_use_as_quest_icon: false
+				entity_vis_walk_mode: "USE_GLOBAL"
+				icon: "bosses_of_mass_destruction:obsidian_heart"
+				id: "32C321CF7897FE6F"
+				type: "kill"
+				value: 1L
+			}]
+			x: -2.0d
+			y: -5.0d
+		}
+		{
+			description: [
+				""
+				"Khi tiêu diệt sinh vật thù địch, có tỷ lệ rơi thấp."
+				""
+				"Dõi theo hướng bay của vật phẩm,"
+				"Người chơi có thể tìm thấy Night Lich (Ám Dạ Vu Yêu),"
+				""
+				"Người chơi cần đặt bốn Soul Star lên bàn tế,"
+				"Để triệu hồi Night Lich."
+			]
+			entity_vis_size: 1.0f
+			id: "27F0CB8995B4B854"
+			tasks: [{
+				id: "4AF14AEEECB02B9D"
+				item: "bosses_of_mass_destruction:soul_star"
+				type: "item"
+			}]
+			x: -3.5d
+			y: -8.0d
+		}
+		{
+			description: [
+				"Đặt Void Lily xuống mặt đất,"
+				"Sau một thoáng sẽ xuất hiện các hạt phân tử màu vàng,"
+				"Dõi theo luồng phân tử, bạn sẽ tìm thấy Void Blossom (Hư Không Chi Hoa)."
+			]
+			entity_vis_size: 1.0f
+			id: "49415722E18BF142"
+			tasks: [{
+				id: "476AA60EFDFA90C0"
+				item: "bosses_of_mass_destruction:void_lily"
+				type: "item"
+			}]
+			x: -3.5d
+			y: -7.0d
+		}
+		{
+			entity_vis_size: 1.0f
+			id: "0F00B5B30E34DF98"
+			shape: "square"
+			tasks: [{
+				id: "7C02FE39FD7088B6"
+				item: "bosses_of_mass_destruction:mob_ward"
+				type: "item"
+			}]
+			x: 0.0d
+			y: -7.5d
+		}
+		{
+			entity_vis_size: 1.0f
+			id: "7FC797B533EE4063"
+			shape: "square"
+			tasks: [{
+				id: "1C4620A351FC6604"
+				item: "bosses_of_mass_destruction:monolith_block"
+				type: "item"
+			}]
+			x: 1.0d
+			y: -7.5d
+		}
+		{
+			entity_vis_size: 1.0f
+			id: "01BC96980A19E5C5"
+			shape: "square"
+			tasks: [{
+				id: "4794ACFC46C46CB6"
+				item: "bosses_of_mass_destruction:levitation_block"
+				type: "item"
+			}]
+			x: 2.0d
+			y: -7.5d
+		}
+		{
+			entity_vis_size: 1.0f
+			id: "5C7378522ADD8375"
+			shape: "square"
+			tasks: [{
+				id: "1127274F54299054"
+				item: {
+					Count: 1
+					id: "bosses_of_mass_destruction:earthdive_spear"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: -6.5d
+		}
+		{
+			entity_vis_size: 1.0f
+			id: "1D8E645553BFE22C"
+			shape: "square"
+			tasks: [{
+				id: "029316A9DAB1F8F8"
+				item: "bosses_of_mass_destruction:charged_ender_pearl"
+				type: "item"
+			}]
+			x: 1.0d
+			y: -6.5d
+		}
+		{
+			entity_vis_size: 1.0f
+			id: "455CE643F6914C4A"
+			shape: "square"
+			tasks: [{
+				id: "345744D61C47AE9E"
+				item: "bosses_of_mass_destruction:brimstone_nectar"
+				type: "item"
+			}]
+			x: 2.0d
+			y: -6.5d
+		}
+	]
+	title: "Họa Loạn Ma Quái (Calamity Phantoms)"
+}

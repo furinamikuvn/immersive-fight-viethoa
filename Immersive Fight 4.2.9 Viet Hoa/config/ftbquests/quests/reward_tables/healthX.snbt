@@ -1,0 +1,45 @@
+{
+	icon: "level_hp:heartcontainers"
+	id: "645AD29EB22FF701"
+	loot_size: 1
+	order_index: 11
+	rewards: [
+		{
+			command: "/function minecraft:health_1_0"
+			icon: "level_hp:heartcontainers"
+			title: "Máu x1.0"
+			type: "command"
+		}
+		{
+			command: "/function minecraft:health_1_5"
+			icon: "level_hp:heartcontainers"
+			title: "Máu x1.5"
+			type: "command"
+		}
+		{
+			command: "/function minecraft:health_2_0"
+			icon: "level_hp:heartcontainers"
+			title: "Máu x2.0"
+			type: "command"
+		}
+		{
+			command: "/function minecraft:health_2_5"
+			icon: "level_hp:heartcontainers"
+			title: "Máu x2.5"
+			type: "command"
+		}
+		{
+			command: "/function minecraft:health_3_0"
+			icon: "level_hp:heartcontainers"
+			title: "Máu x3.0"
+			type: "command"
+		}
+		{
+			command: "/function minecraft:health_5_0"
+			icon: "level_hp:heartcontainers"
+			title: "Máu x5.0"
+			type: "command"
+		}
+	]
+	title: "Hệ Số Máu Toàn Cục"
+}

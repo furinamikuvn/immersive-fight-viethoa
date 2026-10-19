@@ -1,0 +1,13 @@
+{
+  "name": "Waxweaver (Dệt Sáp)",
+  "icon": "simplyswords:waxweaver",
+  "advancement": "simplyswords:waxweaver",
+  "category": "simplyswords:category_unique_weapons",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:waxweaver",
+      "text": "Khoát kiếm hoa mỹ, khi chém vào kẻ địch đang bốc cháy sẽ khơi dậy sức mạnh của ngọn sáp ban tặng bùa lợi sức mạnh."
+    }
+  ]
+}

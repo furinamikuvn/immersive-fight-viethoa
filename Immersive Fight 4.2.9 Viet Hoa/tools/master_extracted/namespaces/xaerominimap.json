@@ -1,0 +1,3232 @@
+{
+  "gui.xaero_old_minecraft": {
+    "en": "This feature is not available on this old version of Minecraft.",
+    "zh": "此功能在此旧版 Minecraft 上不可用。",
+    "vi": "Tính năng này không có trên phiên bản Minecraft cũ hơn này."
+  },
+  "gui.xaero_delete": {
+    "en": "Delete",
+    "zh": "删除",
+    "vi": "xóa bỏ"
+  },
+  "gui.xaero_OK": {
+    "en": "OK",
+    "zh": "确定",
+    "vi": "Chắc chắn"
+  },
+  "gui.xaero_add_edit": {
+    "en": "Add/Edit",
+    "zh": "添加/编辑",
+    "vi": "Thêm/Chỉnh sửa"
+  },
+  "gui.xaero_new_waypoint": {
+    "en": "New Waypoint",
+    "zh": "新建路径点",
+    "vi": "Tạo điểm tham chiếu mới"
+  },
+  "gui.xaero_initial": {
+    "en": "initials",
+    "zh": "缩写",
+    "vi": "viết tắt"
+  },
+  "gui.xaero_edit_waypoint": {
+    "en": "Edit Waypoint",
+    "zh": "编辑路径点",
+    "vi": "Chỉnh sửa điểm tham chiếu"
+  },
+  "gui.xaero_choose_a_preset": {
+    "en": "Choose a Preset",
+    "zh": "选择一个预设",
+    "vi": "Chọn một cài đặt trước"
+  },
+  "gui.xaero_choose_an_interface": {
+    "en": "Choose an Interface",
+    "zh": "选择一个界面",
+    "vi": "Chọn một giao diện"
+  },
+  "gui.xaero_minimap": {
+    "en": "Minimap",
+    "zh": "小地图",
+    "vi": "bản đồ nhỏ"
+  },
+  "gui.xaero_edit_mode": {
+    "en": "Edit Mode",
+    "zh": "编辑模式",
+    "vi": "Chế độ chỉnh sửa"
+  },
+  "gui.xaero_instructions": {
+    "en": "Instructions/Help",
+    "zh": "说明/帮助",
+    "vi": "Trợ giúp/Trợ giúp"
+  },
+  "gui.xaero_not_ingame": {
+    "en": "You have to be in game to be able to use the edit mode!",
+    "zh": "你必须进入游戏才能使用编辑模式！",
+    "vi": "Bạn phải ở trong trò chơi để sử dụng chế độ chỉnh sửa!"
+  },
+  "gui.xaero_welcome_edit_mode": {
+    "en": "Welcome to the edit mode!",
+    "zh": "欢迎进入编辑模式！",
+    "vi": "Chào mừng đến với chế độ chỉnh sửa!"
+  },
+  "gui.xaero_howto_select": {
+    "en": "Left-click an interface to select it.",
+    "zh": "左键单击一个界面以选中它。",
+    "vi": "Nhấp chuột trái vào một giao diện để chọn nó."
+  },
+  "gui.xaero_howto_drag": {
+    "en": "Left-click and drag to move an interface around.",
+    "zh": "左键单击并拖动以移动界面。",
+    "vi": "Nhấn chuột trái và kéo để di chuyển giao diện."
+  },
+  "gui.xaero_howto_deselect": {
+    "en": "Right-click to deselect an interface.",
+    "zh": "右键单击以取消选中一个界面。",
+    "vi": "Nhấn chuột phải để bỏ chọn một giao diện."
+  },
+  "gui.xaero_howto_center": {
+    "en": "Press \"C\" to center or uncenter the selected interface.",
+    "zh": "按“C”键居中或取消居中选中的界面。",
+    "vi": "Nhấn phím \"C\" để căn giữa hoặc bỏ giữa giao diện đã chọn."
+  },
+  "gui.xaero_different_centered": {
+    "en": "Some interfaces have a different centered look.",
+    "zh": "某些界面在居中时有不同的外观。",
+    "vi": "Một số giao diện có giao diện khác khi được căn giữa."
+  },
+  "gui.xaero_howto_flip": {
+    "en": "Press \"F\" to flip or unflip the selected interface.",
+    "zh": "按“F”键翻转或取消翻转选中的界面。",
+    "vi": "Nhấn phím \"F\" để lật hoặc mở giao diện đã chọn."
+  },
+  "gui.xaero_howto_settings": {
+    "en": "Press \"S\" to quickly access settings of the selected interface.",
+    "zh": "按“S”键快速访问选中界面的设置。",
+    "vi": "Nhấn phím \"S\" để truy cập nhanh vào cài đặt của giao diện đã chọn."
+  },
+  "gui.xaero_howto_preset": {
+    "en": "Select a preset by clicking the \"Choose a Preset\" button.",
+    "zh": "点击“选择一个预设”按钮来选择预设。",
+    "vi": "Nhấp vào nút \"Chọn cài đặt trước\" để chọn cài đặt trước."
+  },
+  "gui.xaero_howto_save": {
+    "en": "Save your changes by clicking the \"Confirm\" button.",
+    "zh": "点击“确认”按钮保存更改。",
+    "vi": "Nhấp vào nút \"Xác nhận\" để lưu thay đổi."
+  },
+  "gui.xaero_howto_cancel": {
+    "en": "Discard your changes by clicking the \"Cancel\" button.",
+    "zh": "点击“取消”按钮放弃更改。",
+    "vi": "Nhấp vào nút Hủy để loại bỏ các thay đổi."
+  },
+  "gui.xaero_minimap_settings": {
+    "en": "Minimap Settings",
+    "zh": "小地图设置",
+    "vi": "Cài đặt bản đồ thu nhỏ"
+  },
+  "gui.xaero_server_disabled": {
+    "en": "The server might have disabled some of the mod features.",
+    "zh": "服务器可能已禁用部分模组功能。",
+    "vi": "Máy chủ có thể đã tắt một số tính năng mod."
+  },
+  "gui.xaero_waypoints": {
+    "en": "Waypoints",
+    "zh": "路径点",
+    "vi": "điểm tham chiếu"
+  },
+  "gui.xaero_centered": {
+    "en": "Centered:",
+    "zh": "已居中：",
+    "vi": "Đã căn giữa:"
+  },
+  "gui.xaero_press_c": {
+    "en": "(pr. C)",
+    "zh": "(按 C)",
+    "vi": "(Nhấn C)"
+  },
+  "gui.xaero_flipped": {
+    "en": "Flipped:",
+    "zh": "已翻转：",
+    "vi": "Lật ngược:"
+  },
+  "gui.xaero_press_f": {
+    "en": "(pr. F)",
+    "zh": "(按 F)",
+    "vi": "(Nhấn F)"
+  },
+  "gui.xaero_reset_defaults": {
+    "en": "Restore Default Settings",
+    "zh": "恢复默认设置",
+    "vi": "Khôi phục cài đặt mặc định"
+  },
+  "gui.xaero_cave_maps": {
+    "en": "Cave Mode",
+    "zh": "洞穴模式",
+    "vi": "chế độ hang động"
+  },
+  "gui.xaero_display_waypoints": {
+    "en": "On-Map Waypoints",
+    "zh": "地图上路径点",
+    "vi": "điểm tham chiếu trên bản đồ"
+  },
+  "gui.xaero_zoom": {
+    "en": "Zoom",
+    "zh": "缩放",
+    "vi": "Phóng"
+  },
+  "gui.xaero_minimap_size": {
+    "en": "Size",
+    "zh": "大小",
+    "vi": "kích cỡ"
+  },
+  "gui.xaero_entity_amount": {
+    "en": "Entity Number",
+    "zh": "实体数量",
+    "vi": "Số lượng thực thể"
+  },
+  "gui.xaero_black": {
+    "en": "Black",
+    "zh": "黑色",
+    "vi": "đen"
+  },
+  "gui.xaero_dark_blue": {
+    "en": "Dark Blue",
+    "zh": "深蓝色",
+    "vi": "xanh đậm"
+  },
+  "gui.xaero_dark_green": {
+    "en": "Dark Green",
+    "zh": "深绿色",
+    "vi": "màu xanh đậm"
+  },
+  "gui.xaero_dark_aqua": {
+    "en": "Dark Aqua",
+    "zh": "深青色",
+    "vi": "màu lục lam đậm"
+  },
+  "gui.xaero_dark_red": {
+    "en": "Dark Red",
+    "zh": "深红色",
+    "vi": "màu đỏ đậm"
+  },
+  "gui.xaero_dark_purple": {
+    "en": "Dark Purple",
+    "zh": "深紫色",
+    "vi": "màu tím đậm"
+  },
+  "gui.xaero_gold": {
+    "en": "Gold",
+    "zh": "金色",
+    "vi": "vàng"
+  },
+  "gui.xaero_gray": {
+    "en": "Gray",
+    "zh": "灰色",
+    "vi": "xám"
+  },
+  "gui.xaero_dark_gray": {
+    "en": "Dark Gray",
+    "zh": "深灰色",
+    "vi": "màu xám đen"
+  },
+  "gui.xaero_blue": {
+    "en": "Blue",
+    "zh": "蓝色",
+    "vi": "màu xanh da trời"
+  },
+  "gui.xaero_green": {
+    "en": "Green",
+    "zh": "绿色",
+    "vi": "màu xanh lá"
+  },
+  "gui.xaero_aqua": {
+    "en": "Aqua",
+    "zh": "青色",
+    "vi": "màu xanh da trời"
+  },
+  "gui.xaero_red": {
+    "en": "Red",
+    "zh": "红色",
+    "vi": "màu đỏ"
+  },
+  "gui.xaero_purple": {
+    "en": "Light Purple",
+    "zh": "淡紫色",
+    "vi": "tử đinh hương"
+  },
+  "gui.xaero_yellow": {
+    "en": "Yellow",
+    "zh": "黄色",
+    "vi": "màu vàng"
+  },
+  "gui.xaero_white": {
+    "en": "White",
+    "zh": "白色",
+    "vi": "Trắng"
+  },
+  "gui.xaero_zoom_in": {
+    "en": "Zoom In Minimap",
+    "zh": "放大小地图",
+    "vi": "Phóng to bản đồ nhỏ"
+  },
+  "gui.xaero_zoom_out": {
+    "en": "Zoom Out Minimap",
+    "zh": "缩小大地图",
+    "vi": "Thu nhỏ bản đồ lớn"
+  },
+  "gui.xaero_preset_topleft": {
+    "en": "Top-Left Corner",
+    "zh": "左上角",
+    "vi": "góc trên bên trái"
+  },
+  "gui.xaero_preset_topright": {
+    "en": "Top-Right Corner",
+    "zh": "右上角",
+    "vi": "góc trên bên phải"
+  },
+  "gui.xaero_waypoint_teleport": {
+    "en": "Teleport",
+    "zh": "传送",
+    "vi": "truyền tải"
+  },
+  "gui.xaero_waypoints_key": {
+    "en": "Open Waypoint Screen",
+    "zh": "打开路径点界面",
+    "vi": "Mở giao diện điểm tham chiếu"
+  },
+  "gui.xaero_display_coords": {
+    "en": "Display Coordinates",
+    "zh": "显示坐标",
+    "vi": "Hiển thị tọa độ"
+  },
+  "gui.xaero_disable_enable": {
+    "en": "Disable/Enable",
+    "zh": "禁用/启用",
+    "vi": "vô hiệu hóa/kích hoạt"
+  },
+  "gui.xaero_disabled": {
+    "en": "disabled",
+    "zh": "已禁用",
+    "vi": "Tàn tật"
+  },
+  "gui.xaero_minimap_guide": {
+    "en": "Left-click and drag to move the minimap around.",
+    "zh": "左键单击并拖动以移动小地图。",
+    "vi": "Nhấp chuột trái và kéo để di chuyển bản đồ nhỏ."
+  },
+  "gui.xaero_change_position": {
+    "en": "Change Position",
+    "zh": "更改位置",
+    "vi": "thay đổi vị trí"
+  },
+  "gui.xaero_preset_bottom_left": {
+    "en": "Bottom-Left Corner",
+    "zh": "左下角",
+    "vi": "góc dưới bên trái"
+  },
+  "gui.xaero_preset_bottom_right": {
+    "en": "Bottom-Right Corner",
+    "zh": "右下角",
+    "vi": "góc dưới bên phải"
+  },
+  "gui.xaero_ingame_waypoints": {
+    "en": "In-World Waypoints",
+    "zh": "世界中路径点",
+    "vi": "Điểm tham chiếu trên thế giới"
+  },
+  "gui.xaero_lock_north": {
+    "en": "Lock Minimap North",
+    "zh": "锁定小地图北方向",
+    "vi": "Khóa hướng bắc của bản đồ nhỏ"
+  },
+  "gui.xaero_deathpoint": {
+    "en": "Latest Death",
+    "zh": "最近死亡点",
+    "vi": "điểm chết gần nhất"
+  },
+  "gui.xaero_deathpoint_old": {
+    "en": "Old Death",
+    "zh": "旧的死亡点",
+    "vi": "điểm chết cũ"
+  },
+  "gui.xaero_deathpoints": {
+    "en": "Deathpoints",
+    "zh": "死亡点",
+    "vi": "điểm chết"
+  },
+  "gui.xaero_chunkgrid": {
+    "en": "Chunk Grid",
+    "zh": "区块网格",
+    "vi": "lưới khối"
+  },
+  "gui.xaero_players": {
+    "en": "Players",
+    "zh": "玩家",
+    "vi": "người chơi"
+  },
+  "gui.xaero_mobs": {
+    "en": "Friendly Mobs",
+    "zh": "友好生物",
+    "vi": "sinh vật thân thiện"
+  },
+  "gui.xaero_hostile": {
+    "en": "Hostile Mobs",
+    "zh": "敌对生物",
+    "vi": "Đám đông thù địch"
+  },
+  "gui.xaero_items": {
+    "en": "Items",
+    "zh": "物品",
+    "vi": "điều"
+  },
+  "gui.xaero_other": {
+    "en": "Other Entities",
+    "zh": "其他实体",
+    "vi": "các thực thể khác"
+  },
+  "gui.xaero_enlarge_map": {
+    "en": "Enlarge Minimap",
+    "zh": "放大小地图",
+    "vi": "Phóng to bản đồ nhỏ"
+  },
+  "gui.xaero_fbo": {
+    "en": "Beta",
+    "zh": "测试版",
+    "vi": "phiên bản thử nghiệm"
+  },
+  "gui.xaero_opacity": {
+    "en": "Opacity",
+    "zh": "透明度",
+    "vi": "minh bạch"
+  },
+  "gui.xaero_slime_chunks": {
+    "en": "Slime Chunks",
+    "zh": "史莱姆区块",
+    "vi": "khối chất nhờn"
+  },
+  "gui.xaero_unlimited": {
+    "en": "Unlimited",
+    "zh": "无限",
+    "vi": "không giới hạn"
+  },
+  "gui.xaero_old_deathpoints": {
+    "en": "Keep Old Deathpoints",
+    "zh": "保留旧死亡点",
+    "vi": "Giữ điểm chết cũ"
+  },
+  "gui.xaero_toggle_map": {
+    "en": "Toggle Minimap",
+    "zh": "切换小地图",
+    "vi": "Chuyển đổi bản đồ nhỏ"
+  },
+  "gui.xaero_antialiasing": {
+    "en": "Anti-Aliasing",
+    "zh": "抗锯齿",
+    "vi": "Khử răng cưa"
+  },
+  "gui.xaero_safe_mode": {
+    "en": "Safe Mode",
+    "zh": "安全模式",
+    "vi": "chế độ an toàn"
+  },
+  "gui.xaero_transfer": {
+    "en": "Transfer",
+    "zh": "转移",
+    "vi": "chuyển khoản"
+  },
+  "gui.xaero_transfer_all": {
+    "en": "Transfer All Waypoints",
+    "zh": "转移所有路径点",
+    "vi": "chuyển tất cả các điểm tham chiếu"
+  },
+  "gui.xaero_clear": {
+    "en": "Clear Set",
+    "zh": "清空集合",
+    "vi": "Xóa bộ sưu tập"
+  },
+  "gui.xaero_from": {
+    "en": "From",
+    "zh": "从",
+    "vi": "từ"
+  },
+  "gui.xaero_to": {
+    "en": "To",
+    "zh": "到",
+    "vi": "đến"
+  },
+  "gui.xaero_used_seed": {
+    "en": "Seed to Use:",
+    "zh": "使用的种子：",
+    "vi": "Hạt giống được sử dụng:"
+  },
+  "gui.xaero_show_distance": {
+    "en": "Distance to WP",
+    "zh": "到路径点的距离",
+    "vi": "khoảng cách tới điểm tham chiếu"
+  },
+  "gui.xaero_waypoints_scale": {
+    "en": "In-World Waypoint Scale",
+    "zh": "世界中路径点缩放",
+    "vi": "Tỉ lệ điểm Waypoint trên thế giới"
+  },
+  "gui.xaero_block_colours": {
+    "en": "Block Color Mode",
+    "zh": "方块颜色模式",
+    "vi": "chế độ chặn màu"
+  },
+  "gui.xaero_accurate": {
+    "en": "Accurate",
+    "zh": "精确",
+    "vi": "chính xác"
+  },
+  "gui.xaero_vanilla": {
+    "en": "Vanilla",
+    "zh": "原版",
+    "vi": "nguyên bản"
+  },
+  "gui.xaero_lighting": {
+    "en": "Lighting",
+    "zh": "光照",
+    "vi": "chiếu sáng"
+  },
+  "gui.xaero_looking_at": {
+    "en": "Looking At",
+    "zh": "正在看向",
+    "vi": "nhìn về phía"
+  },
+  "gui.xaero_all": {
+    "en": "All",
+    "zh": "全部",
+    "vi": "tất cả"
+  },
+  "gui.xaero_display_redstone": {
+    "en": "Show Redstone",
+    "zh": "显示红石",
+    "vi": "Hiển thị đá đỏ"
+  },
+  "gui.xaero_clear_set_message": {
+    "en": "Are you sure you would like to clear the current set",
+    "zh": "你确定要清空当前集合吗？",
+    "vi": "Bạn có chắc chắn muốn xóa bộ sưu tập hiện tại không?"
+  },
+  "gui.xaero_clear_set_message2": {
+    "en": "All waypoints from this set will be deleted!",
+    "zh": "此集合中的所有路径点都将被删除！",
+    "vi": "Tất cả các điểm tham chiếu trong bộ sưu tập này sẽ bị xóa!"
+  },
+  "gui.xaero_default": {
+    "en": "Default",
+    "zh": "默认",
+    "vi": "mặc định"
+  },
+  "gui.xaero_create_set": {
+    "en": "New Waypoint Set",
+    "zh": "新建路径点集合",
+    "vi": "Tạo bộ sưu tập điểm tham chiếu mới"
+  },
+  "gui.xaero_delete_set": {
+    "en": "Delete Set",
+    "zh": "删除集合",
+    "vi": "Xóa bộ sưu tập"
+  },
+  "gui.xaero_delete_set_message": {
+    "en": "Are you sure you would like to delete the current set",
+    "zh": "你确定要删除当前集合吗？",
+    "vi": "Bạn có chắc chắn muốn xóa bộ sưu tập hiện tại không?"
+  },
+  "gui.xaero_delete_set_message2": {
+    "en": "This set will be removed from the current world.",
+    "zh": "此集合将从当前世界中移除。",
+    "vi": "Bộ sưu tập này sẽ bị xóa khỏi thế giới hiện tại."
+  },
+  "gui.xaero_toggle_waypoints": {
+    "en": "Toggle In-World Waypoints",
+    "zh": "切换世界中路径点",
+    "vi": "Chuyển đổi điểm tham chiếu trên thế giới"
+  },
+  "gui.xaero_dots_size": {
+    "en": "Entity Dot Size",
+    "zh": "实体点大小",
+    "vi": "Kích thước điểm thực thể"
+  },
+  "gui.xaero_toggle_slime": {
+    "en": "Toggle Slime Chunks",
+    "zh": "切换史莱姆区块",
+    "vi": "Chuyển đổi khối chất nhờn"
+  },
+  "gui.xaero_toggle_grid": {
+    "en": "Toggle Chunk Grid",
+    "zh": "切换区块网格",
+    "vi": "Chuyển đổi lưới khối"
+  },
+  "gui.xaero_compass_over_wp": {
+    "en": "Compass Over Waypoints",
+    "zh": "指南针优先于路径点",
+    "vi": "La bàn được ưu tiên hơn các điểm tham chiếu"
+  },
+  "gui.xaero_current_biome": {
+    "en": "Display Current Biome",
+    "zh": "显示当前生物群系",
+    "vi": "Hiển thị quần xã hiện tại"
+  },
+  "gui.xaero_auto_map_size": {
+    "en": "Auto",
+    "zh": "自动",
+    "vi": "tự động"
+  },
+  "gui.xaero_reset_message": {
+    "en": "Are you sure you would like to restore the default settings?",
+    "zh": "你确定要恢复默认设置吗？",
+    "vi": "Bạn có chắc chắn muốn khôi phục cài đặt mặc định không?"
+  },
+  "gui.xaero_reset_message2": {
+    "en": "This action cannot be undone!",
+    "zh": "此操作无法撤消！",
+    "vi": "Hành động này không thể hoàn tác được!"
+  },
+  "gui.xaero_yaw": {
+    "en": "yaw",
+    "zh": "偏航角",
+    "vi": "Góc ngáp"
+  },
+  "gui.xaero_true": {
+    "en": "true",
+    "zh": "是",
+    "vi": "Đúng"
+  },
+  "gui.xaero_false": {
+    "en": "false",
+    "zh": "否",
+    "vi": "KHÔNG"
+  },
+  "gui.xaero_team_colours": {
+    "en": "Team Colors",
+    "zh": "队伍颜色",
+    "vi": "Màu đội"
+  },
+  "gui.xaero_instant_waypoint": {
+    "en": "Quick Waypoint",
+    "zh": "快速路径点",
+    "vi": "điểm nhanh"
+  },
+  "gui.xaero_entity_depth": {
+    "en": "Show Entity Depth",
+    "zh": "显示实体深度",
+    "vi": "Hiển thị độ sâu thực thể"
+  },
+  "gui.xaero_show_flowers": {
+    "en": "Show Flowers",
+    "zh": "显示花朵",
+    "vi": "khoe hoa"
+  },
+  "gui.xaero_waypoint_names": {
+    "en": "WP Name Above Distance",
+    "zh": "路径点名在距离之上",
+    "vi": "Đặt tên tuyến đường theo khoảng cách"
+  },
+  "gui.xaero_waypoints_distance": {
+    "en": "Max WP Render Dist.",
+    "zh": "最大路径点渲染距离",
+    "vi": "Khoảng cách hiển thị điểm đường dẫn tối đa"
+  },
+  "gui.xaero_teleport_default_command": {
+    "en": "Default Teleport Command",
+    "zh": "默认传送命令",
+    "vi": "Lệnh chuyển mặc định"
+  },
+  "gui.xaero_waypoints_distance_min": {
+    "en": "Min WP Render Dist.",
+    "zh": "最小路径点渲染距离",
+    "vi": "Khoảng cách hiển thị điểm đường dẫn tối thiểu"
+  },
+  "gui.xaero_other_teams": {
+    "en": "Other Teams",
+    "zh": "其他队伍",
+    "vi": "các đội khác"
+  },
+  "gui.xaero_arrow_scale": {
+    "en": "Arrow Scale",
+    "zh": "箭头缩放",
+    "vi": "thu phóng mũi tên"
+  },
+  "gui.xaero_arrow_colour": {
+    "en": "Arrow Color",
+    "zh": "箭头颜色",
+    "vi": "Màu mũi tên"
+  },
+  "gui.xaero_smooth_dots": {
+    "en": "Smooth Dots",
+    "zh": "平滑圆点",
+    "vi": "chấm mịn"
+  },
+  "gui.xaero_cave_zoom": {
+    "en": "Cave Mode Zoom In",
+    "zh": "洞穴模式放大",
+    "vi": "Thu phóng chế độ hang động"
+  },
+  "gui.xaero_safe_mode_box": {
+    "en": "Use Java-based (CPU) equivalent of this mod instead of the default, OpenGL-based (GPU) one. Safe mode is a plan B in case the mod does not function correctly. Not all features work in the safe mode. Do not use unless you have to.",
+    "zh": "使用基于 Java（CPU）的等效模组，而不是默认的基于 OpenGL（GPU）的模组。安全模式是在模组无法正常工作时的一种备选方案。并非所有功能都在安全模式下可用。除非必要，否则不要使用。",
+    "vi": "Sử dụng Mod tương đương dựa trên Java (CPU) thay vì Mod dựa trên OpenGL (GPU) mặc định. Chế độ an toàn là một lựa chọn thay thế nếu mod không hoạt động bình thường. Không phải tất cả các tính năng đều có sẵn ở chế độ an toàn. Không sử dụng trừ khi cần thiết."
+  },
+  "gui.xaero_height_limit": {
+    "en": "Entity Height Limit",
+    "zh": "实体高度限制",
+    "vi": "Giới hạn chiều cao thực thể"
+  },
+  "gui.xaero_world_map": {
+    "en": "World Map",
+    "zh": "世界地图",
+    "vi": "bản đồ thế giới"
+  },
+  "gui.xaero_use_world_map": {
+    "en": "Use World Map Mod Chunks",
+    "zh": "使用世界地图模组的区块",
+    "vi": "Các khối sử dụng Mod bản đồ thế giới"
+  },
+  "gui.xaero_patron_capes": {
+    "en": "Patreon Capes",
+    "zh": "赞助者披风",
+    "vi": "Áo choàng của người bảo trợ"
+  },
+  "gui.xaero_entity_radar": {
+    "en": "Entity Radar",
+    "zh": "实体雷达",
+    "vi": "radar vật lý"
+  },
+  "gui.xaero_terrain_depth": {
+    "en": "Terrain Depth",
+    "zh": "地形深度",
+    "vi": "độ sâu địa hình"
+  },
+  "gui.xaero_terrain_slopes": {
+    "en": "Terrain Slopes",
+    "zh": "地形坡度",
+    "vi": "độ dốc địa hình"
+  },
+  "gui.xaero_block_transparency": {
+    "en": "Block Transparency",
+    "zh": "方块透明度",
+    "vi": "khối minh bạch"
+  },
+  "gui.xaero_team": {
+    "en": "Team",
+    "zh": "队伍",
+    "vi": "Đội"
+  },
+  "gui.xaero_world_server": {
+    "en": "World/Server",
+    "zh": "世界/服务器",
+    "vi": "thế giới/máy chủ"
+  },
+  "gui.xaero_subworld_dimension": {
+    "en": "Sub-World/Dimension",
+    "zh": "子世界/维度",
+    "vi": "thế giới con/chiều không gian"
+  },
+  "gui.xaero_switch_waypoint_set": {
+    "en": "Switch Waypoint Set",
+    "zh": "切换路径点集合",
+    "vi": "Chuyển đổi bộ sưu tập điểm tham chiếu"
+  },
+  "gui.xaero_waypoint_opacity_ingame": {
+    "en": "Waypoint Opacity in World",
+    "zh": "世界中路径点透明度",
+    "vi": "Tính minh bạch của Pathpoint trên thế giới"
+  },
+  "gui.xaero_waypoint_opacity_map": {
+    "en": "Waypoint Opacity on Map",
+    "zh": "地图上路径点透明度",
+    "vi": "Tính minh bạch của các điểm tham chiếu trên bản đồ"
+  },
+  "gui.xaero_hide_world_names": {
+    "en": "Hide IPs/World Names",
+    "zh": "隐藏 IP/世界名称",
+    "vi": "Ẩn IP/Tên thế giới"
+  },
+  "gui.xaero_open_slime": {
+    "en": "Open on Key Press",
+    "zh": "按键时打开",
+    "vi": "Mở khi nhấn phím"
+  },
+  "gui.xaero_options": {
+    "en": "Options",
+    "zh": "选项",
+    "vi": "Tùy chọn"
+  },
+  "gui.xaero_make_automatic": {
+    "en": "Make World/Server Auto",
+    "zh": "设为世界/服务器自动",
+    "vi": "Đặt thành tự động thế giới/máy chủ"
+  },
+  "gui.xaero_make_automatic_msg1": {
+    "en": "Are you sure?",
+    "zh": "你确定吗？",
+    "vi": "bạn có chắc không?"
+  },
+  "gui.xaero_make_automatic_msg2": {
+    "en": "This will swap all waypoint data between the selected world/server and the auto one, thus simulate making the selected world/server automatic. Make sure you know what you are doing.",
+    "zh": "这将会交换所选世界/服务器与自动世界/服务器之间的所有路径点数据，从而模拟将所选世界/服务器设为自动。请确保你清楚自己在做什么。",
+    "vi": "Điều này sẽ trao đổi tất cả dữ liệu điểm tham chiếu giữa thế giới/máy chủ đã chọn và thế giới/máy chủ tự động, mô phỏng cài đặt thế giới/máy chủ đã chọn thành tự động. Hãy chắc chắn rằng bạn biết những gì bạn đang làm."
+  },
+  "gui.xaero_make_multi_automatic": {
+    "en": "Make Sub-World Auto",
+    "zh": "设子世界为自动",
+    "vi": "Đặt thế giới con thành tự động"
+  },
+  "gui.xaero_make_multi_automatic_msg1": {
+    "en": "Are you sure?",
+    "zh": "你确定吗？",
+    "vi": "bạn có chắc không?"
+  },
+  "gui.xaero_make_multi_automatic_msg2": {
+    "en": "This will swap all waypoint data between the selected sub-world and the auto one, thus simulate making the selected sub-world automatic. Make sure you know what you are doing.",
+    "zh": "这将会交换所选子世界与自动子世界之间的所有路径点数据，从而模拟将所选子世界设为自动。请确保你清楚自己在做什么。",
+    "vi": "Điều này sẽ trao đổi tất cả dữ liệu điểm tham chiếu giữa thế giới con đã chọn và thế giới con tự động, mô phỏng việc đặt thế giới con đã chọn thành tự động. Hãy chắc chắn rằng bạn biết những gì bạn đang làm."
+  },
+  "gui.xaero_delete_world": {
+    "en": "Delete World/Server",
+    "zh": "删除世界/服务器",
+    "vi": "Xóa thế giới/máy chủ"
+  },
+  "gui.xaero_delete_world_msg1": {
+    "en": "Would you like to delete all waypoint data for the selected world/server?",
+    "zh": "是否要删除所选世界/服务器的所有路径点数据？",
+    "vi": "Bạn có muốn xóa tất cả dữ liệu điểm tham chiếu cho thế giới/máy chủ đã chọn không?"
+  },
+  "gui.xaero_delete_world_msg2": {
+    "en": "This action cannot be undone! Make sure you know what you are doing.",
+    "zh": "此操作无法撤消！请确保你清楚自己在做什么。",
+    "vi": "Hành động này không thể hoàn tác được! Hãy chắc chắn rằng bạn biết những gì bạn đang làm."
+  },
+  "gui.xaero_delete_multi_world": {
+    "en": "Delete Sub-World",
+    "zh": "删除子世界",
+    "vi": "Xóa thế giới con"
+  },
+  "gui.xaero_delete_multi_world_msg1": {
+    "en": "Would you like to delete all waypoint data for the selected sub-world?",
+    "zh": "是否要删除所选子世界的所有路径点数据？",
+    "vi": "Bạn có muốn xóa tất cả dữ liệu điểm tham chiếu cho thế giới con đã chọn không?"
+  },
+  "gui.xaero_delete_multi_world_msg2": {
+    "en": "This action cannot be undone! Make sure you know what you are doing.",
+    "zh": "此操作无法撤消！请确保你清楚自己在做什么。",
+    "vi": "Hành động này không thể hoàn tác được! Hãy chắc chắn rằng bạn biết những gì bạn đang làm."
+  },
+  "gui.xaero_always_show_distance": {
+    "en": "Always Disp. Dist. to WP",
+    "zh": "始终显示到路径点的距离",
+    "vi": "Luôn hiển thị khoảng cách tới điểm tham chiếu"
+  },
+  "gui.xaero_multiply_all_by_8": {
+    "en": "Sub-World Coordinates * 8",
+    "zh": "子世界坐标 * 8",
+    "vi": "Tọa độ thế giới con * 8"
+  },
+  "gui.xaero_divide_all_by_8": {
+    "en": "Sub-World Coordinates / 8",
+    "zh": "子世界坐标 / 8",
+    "vi": "Tọa độ thế giới phụ / 8"
+  },
+  "gui.xaero_multiply_msg1": {
+    "en": "This option should be used only to fix incorrect waypoint coordinates.",
+    "zh": "此选项应仅用于修复错误的路径点坐标。",
+    "vi": "Tùy chọn này chỉ nên được sử dụng để sửa tọa độ điểm tham chiếu không chính xác."
+  },
+  "gui.xaero_multiply_msg2": {
+    "en": "Are you sure you would like to MULTIPLY all sub-world coordinates by 8?",
+    "zh": "你确定要将所有子世界坐标乘以 8 吗？",
+    "vi": "Bạn có chắc chắn muốn nhân tất cả tọa độ thế giới con với 8 không?"
+  },
+  "gui.xaero_divide_msg2": {
+    "en": "Are you sure you would like to DIVIDE all sub-world coordinates by 8?",
+    "zh": "你确定要将所有子世界坐标除以 8 吗？",
+    "vi": "Bạn có chắc chắn muốn chia tất cả tọa độ thế giới con cho 8 không?"
+  },
+  "gui.xaero_share": {
+    "en": "Share",
+    "zh": "分享",
+    "vi": "chia sẻ"
+  },
+  "gui.xaero_share_msg1": {
+    "en": "Are you sure you would like to share this waypoint with §cEVERYONE§f in the chat?",
+    "zh": "你确定要在聊天中将此路径点分享给 §c所有人§f 吗？",
+    "vi": "Bạn có chắc chắn muốn chia sẻ điểm tham chiếu này trong cuộc trò chuyện với mọi người tại §c§f không?"
+  },
+  "gui.xaero_share_msg2": {
+    "en": "Make sure you do not expose a secret location!",
+    "zh": "确保你没有暴露秘密地点！",
+    "vi": "Hãy chắc chắn rằng bạn không tiết lộ vị trí bí mật!"
+  },
+  "gui.xaero_roof": {
+    "en": "Ceiling",
+    "zh": "天花板",
+    "vi": "trần nhà"
+  },
+  "gui.xaero_partial": {
+    "en": "Partial",
+    "zh": "部分",
+    "vi": "phần"
+  },
+  "gui.xaero_full": {
+    "en": "Full",
+    "zh": "完整",
+    "vi": "trọn"
+  },
+  "gui.xaero_show_light_level": {
+    "en": "Display Light Level",
+    "zh": "显示光照等级",
+    "vi": "Hiển thị mức độ ánh sáng"
+  },
+  "gui.xaero_up": {
+    "en": "[Go Up]",
+    "zh": "[向上]",
+    "vi": "[hướng lên]"
+  },
+  "gui.xaero_down": {
+    "en": "[Go Down]",
+    "zh": "[向下]",
+    "vi": "[xuống]"
+  },
+  "gui.xaero_display_all_sets": {
+    "en": "Toggle All WP Sets Render",
+    "zh": "切换所有路径点集合渲染",
+    "vi": "Chuyển đổi tất cả kết xuất tập hợp điểm tham chiếu"
+  },
+  "gui.xaero_waypoint_name": {
+    "en": "waypoint name",
+    "zh": "路径点名称",
+    "vi": "tên điểm tham chiếu"
+  },
+  "gui.xaero_set_name": {
+    "en": "Set Name",
+    "zh": "集合名称",
+    "vi": "Tên bộ sưu tập"
+  },
+  "gui.xaero_render_layer": {
+    "en": "Overlay Render Layer",
+    "zh": "叠加渲染层",
+    "vi": "Lớp kết xuất lớp phủ"
+  },
+  "gui.xaero_visit_needed": {
+    "en": "§eYou need to visit this dimension first to convert it to the new format!",
+    "zh": "§e你需要先访问此维度才能将其转换为新格式！",
+    "vi": "§eBạn cần truy cập thứ nguyên này trước khi có thể chuyển đổi nó sang định dạng mới!"
+  },
+  "gui.xaero_cross_tp": {
+    "en": "Cross-Dimensional TP",
+    "zh": "跨维度传送",
+    "vi": "Dịch chuyển tức thời xuyên không gian"
+  },
+  "gui.xaero_unreachable_dimension": {
+    "en": "Unreachable destination dimension.",
+    "zh": "目标维度不可达。",
+    "vi": "Kích thước mục tiêu không thể truy cập được."
+  },
+  "gui.xaero_show_time": {
+    "en": "Display Game Time",
+    "zh": "显示游戏时间",
+    "vi": "Hiển thị thời gian thi đấu"
+  },
+  "gui.xaero_24h": {
+    "en": "24h",
+    "zh": "24小时制",
+    "vi": "đồng hồ 24 giờ"
+  },
+  "gui.xaero_12h": {
+    "en": "12h",
+    "zh": "12小时制",
+    "vi": "đồng hồ 12 giờ"
+  },
+  "gui.xaero_temporary": {
+    "en": "temporary",
+    "zh": "临时",
+    "vi": "tạm thời"
+  },
+  "gui.xaero_temporary2": {
+    "en": "Temporary",
+    "zh": "临时",
+    "vi": "tạm thời"
+  },
+  "gui.xaero_restore": {
+    "en": "Restore",
+    "zh": "恢复",
+    "vi": "hồi phục"
+  },
+  "gui.xaero_biomes_vanilla": {
+    "en": "Biomes in Vanilla Color Mode",
+    "zh": "原版颜色模式下的生物群系",
+    "vi": "Quần xã ở chế độ màu vani"
+  },
+  "gui.xaero_use_multiworld": {
+    "en": "Multiworld Detection",
+    "zh": "多世界检测",
+    "vi": "Phát hiện nhiều thế giới"
+  },
+  "gui.xaero_close": {
+    "en": "Close",
+    "zh": "关闭",
+    "vi": "đóng cửa"
+  },
+  "gui.xaero_waypoint_distance_visibility_angle": {
+    "en": "WP Dist. Horis. Angle",
+    "zh": "路径点距离水平视角角度",
+    "vi": "Khoảng cách điểm đường dẫn từ góc nhìn ngang"
+  },
+  "gui.xaero_waypoint_distance_vertical_visibility_angle": {
+    "en": "WP Dist. Vertic. Angle",
+    "zh": "路径点距离垂直视角角度",
+    "vi": "Khoảng cách điểm đường dẫn từ góc nhìn dọc"
+  },
+  "gui.xaero_teleportation": {
+    "en": "Teleportation",
+    "zh": "传送",
+    "vi": "truyền tải"
+  },
+  "gui.xaero_teleportation_tooltip": {
+    "en": "Once disabled, it can be enabled back only through the config file!",
+    "zh": "一旦禁用，只能通过配置文件重新启用！",
+    "vi": "Sau khi bị tắt, nó chỉ có thể được kích hoạt lại thông qua tệp cấu hình!"
+  },
+  "gui.xaero_use_multiworld_tooltip": {
+    "en": "Disable if this is a simple server with a single world (no separate lobby, game mode, or minigame worlds). Multiworld detection will cause only issues on such servers. However, installing this mod on the server side should prevent these issues.",
+    "zh": "如果这是一个只有单一世界的简单服务器（没有单独的大厅、游戏模式或小游戏世界），请禁用此项。多世界检测只会在此类服务器上引起问题。但是，在服务器端安装此模组应该可以防止这些问题。",
+    "vi": "Nếu đây là một máy chủ đơn giản có một thế giới duy nhất (không có hành lang, chế độ trò chơi hoặc thế giới trò chơi nhỏ riêng biệt), hãy tắt tính năng này. Tính năng phát hiện đa thế giới sẽ chỉ gây ra sự cố trên các máy chủ như vậy. Tuy nhiên, việc cài đặt bản mod này ở phía máy chủ sẽ ngăn chặn được những vấn đề này."
+  },
+  "gui.xaero_world_teleport_command": {
+    "en": "Teleport Command",
+    "zh": "传送命令",
+    "vi": "Gửi lệnh"
+  },
+  "gui.xaero_use_default": {
+    "en": "Use Default",
+    "zh": "使用默认",
+    "vi": "Sử dụng mặc định"
+  },
+  "gui.xaero_centered_enlarged": {
+    "en": "Center When Enlarged",
+    "zh": "放大时居中",
+    "vi": "Căn giữa khi phóng to"
+  },
+  "gui.xaero_zoomed_out_enlarged": {
+    "en": "Zoom Out When Enlarged",
+    "zh": "放大时缩小",
+    "vi": "Thu nhỏ khi phóng to"
+  },
+  "gui.xaero_sort": {
+    "en": "Sort By",
+    "zh": "排序依据",
+    "vi": "Sắp xếp theo"
+  },
+  "gui.xaero_sort_reversed": {
+    "en": "Reversed Sort Order",
+    "zh": "反转排序顺序",
+    "vi": "Thứ tự sắp xếp ngược"
+  },
+  "gui.xaero_sort_unsorted": {
+    "en": "Unsorted",
+    "zh": "未排序",
+    "vi": "Chưa được sắp xếp"
+  },
+  "gui.xaero_sort_name": {
+    "en": "Name",
+    "zh": "名称",
+    "vi": "tên"
+  },
+  "gui.xaero_sort_symbol": {
+    "en": "Initials",
+    "zh": "缩写",
+    "vi": "viết tắt"
+  },
+  "gui.xaero_sort_distance": {
+    "en": "Distance",
+    "zh": "距离",
+    "vi": "khoảng cách"
+  },
+  "gui.xaero_box_cave_maps": {
+    "en": "Mapping mode that can go deeper than the surface blocks, mainly to display underground caves and interiors of buildings. The ceiling size refers to the size of a horizontal \"square\" of solid blocks that has to be detected above you to activate the cave mode.",
+    "zh": "一种可以深入到地表方块以下的映射模式，主要用于显示地下洞穴和建筑物内部。天花板大小指的是必须在您上方检测到的实心方块构成的水平“正方形”的尺寸。",
+    "vi": "Chế độ lập bản đồ có thể đi sâu bên dưới các khối bề mặt, chủ yếu được sử dụng để hiển thị các hang động dưới lòng đất và nội thất tòa nhà. Kích thước trần đề cập đến kích thước của \"hình vuông\" nằm ngang của các khối rắn phải được phát hiện phía trên bạn."
+  },
+  "gui.xaero_box_cave_maps2": {
+    "en": "Mapping mode that can go deeper than the surface blocks, mainly to display underground caves and interiors of buildings. The ceiling size refers to the size of a square ceiling of solid blocks that has to be detected above you to activate the cave mode. The solid blocks don't have to be on the same Y level.",
+    "zh": "一种可以深入到地表方块以下的映射模式，主要用于显示地下洞穴和建筑物内部。天花板大小指的是必须在您上方检测到的实心方块构成的正方形天花板的尺寸。这些实心方块不必位于同一 Y 高度。",
+    "vi": "Chế độ lập bản đồ có thể đi sâu bên dưới các khối bề mặt, chủ yếu được sử dụng để hiển thị các hang động dưới lòng đất và nội thất tòa nhà. Kích thước trần là kích thước của trần vuông được làm bằng các khối đặc phải được phát hiện phía trên bạn. Những hình vuông đặc này không nhất thiết phải có cùng chiều cao Y."
+  },
+  "gui.xaero_box_entity_amount": {
+    "en": "The limit per each entity category.",
+    "zh": "每个实体类别的限制数量。",
+    "vi": "Giới hạn số lượng cho mỗi lớp thực thể."
+  },
+  "gui.xaero_box_distance": {
+    "en": "Specifies, for which in-world waypoints to show the distance to.",
+    "zh": "指定为哪些世界中的路径点显示距离。",
+    "vi": "Chỉ định các điểm tham chiếu trên thế giới mà khoảng cách được hiển thị."
+  },
+  "gui.xaero_box_distance2": {
+    "en": "Specifies, for which in-world waypoints to show the distance to. This does not guarantee that it will be shown for multiple waypoints at once. Check out the \"Multiple Waypoint Distances\" setting as well.",
+    "zh": "指定为哪些世界中的路径点显示距离。这并不能保证同时为多个路径点显示距离。也请查看“多路径点距离”设置。",
+    "vi": "Chỉ định các điểm tham chiếu trên thế giới mà khoảng cách được hiển thị. Điều này không đảm bảo rằng khoảng cách được hiển thị cho nhiều điểm tham chiếu cùng một lúc. Ngoài ra, hãy kiểm tra cài đặt Khoảng cách điểm đa đường."
+  },
+  "gui.xaero_box_always_distance": {
+    "en": "Display distance even when the waypoint is very close. This setting does not override the \"Distance to WP\" option.",
+    "zh": "即使路径点非常近也显示距离。此设置不会覆盖“到路径点的距离”选项。",
+    "vi": "Hiển thị khoảng cách ngay cả khi điểm tham chiếu rất gần. Cài đặt này không ghi đè tùy chọn Khoảng cách đến điểm tham chiếu."
+  },
+  "gui.xaero_box_arrow_scale": {
+    "en": "Scale of the arrow used in the non-rotating variant of the minimap and several other cases.",
+    "zh": "用于小地图非旋转变体及其他几种情况的箭头缩放。",
+    "vi": "Chia tỷ lệ mũi tên cho các biến thể không xoay của bản đồ nhỏ và một số tình huống khác."
+  },
+  "gui.xaero_box_arrow_color": {
+    "en": "Color of the arrow used in the non-rotating variant of the minimap and several other cases.",
+    "zh": "用于小地图非旋转变体及其他几种情况的箭头颜色。",
+    "vi": "Màu mũi tên được sử dụng cho các biến thể không xoay của bản đồ nhỏ và một số tình huống khác."
+  },
+  "gui.xaero_box_cave_zoom": {
+    "en": "Specifies, how much to zoom the minimap further in when the cave mode is active.",
+    "zh": "指定洞穴模式激活时，小地图进一步放大的程度。",
+    "vi": "Chỉ định mức độ phóng to của bản đồ nhỏ hơn nữa khi chế độ hang động được kích hoạt."
+  },
+  "gui.xaero_box_entity_depth": {
+    "en": "Display entities darker on the minimap depending on their Y level relative to you.",
+    "zh": "根据实体相对于你的 Y 等级，在小地图上显示更暗的实体。",
+    "vi": "Hiển thị các thực thể tối hơn trên bản đồ nhỏ dựa trên cấp độ Y của chúng so với bạn."
+  },
+  "gui.xaero_box_height_limit": {
+    "en": "Maximum Y-level distance for entities until they are no longer displayed on the minimap.",
+    "zh": "实体不再显示在小地图上之前的最大 Y 轴距离。",
+    "vi": "Khoảng cách trục Y tối đa trước khi các thực thể không còn hiển thị trên bản đồ nhỏ nữa."
+  },
+  "gui.xaero_toggle_map_waypoints": {
+    "en": "Toggle On-Map Waypoints",
+    "zh": "切换地图上路径点",
+    "vi": "Chuyển đổi điểm tham chiếu trên bản đồ"
+  },
+  "gui.xaero_always_entity_nametags": {
+    "en": "Always Render Entity Name Tags",
+    "zh": "始终渲染实体名称标签",
+    "vi": "Luôn hiển thị nhãn tên thực thể"
+  },
+  "gui.xaero_minimap_text_align": {
+    "en": "Info Text Alignment",
+    "zh": "信息文本对齐",
+    "vi": "Căn chỉnh văn bản thông tin"
+  },
+  "gui.xaero_center": {
+    "en": "Center",
+    "zh": "居中",
+    "vi": "trung tâm"
+  },
+  "gui.xaero_left": {
+    "en": "Left",
+    "zh": "左对齐",
+    "vi": "căn trái"
+  },
+  "gui.xaero_right": {
+    "en": "Right",
+    "zh": "右对齐",
+    "vi": "Căn phải"
+  },
+  "gui.xaero_show_angles": {
+    "en": "Display Facing Angles",
+    "zh": "显示朝向角度",
+    "vi": "Hiển thị góc tiêu đề"
+  },
+  "gui.xaero_box_always_entity_nametags": {
+    "en": "Always render names for entities with name tags regardless of what the name setting is set to in the \"Entity Radar\" screen.",
+    "zh": "无论“实体雷达”界面中的名称设置为何，始终渲染带有名称标签的实体的名称。",
+    "vi": "Tên của một thực thể có thẻ tên luôn được hiển thị bất kể cài đặt tên trong giao diện Radar thực thể."
+  },
+  "gui.xaero_box_teleport_default_command": {
+    "en": "The command used for waypoint teleportation if a world-specific or a server-specific command is not set in the Options menu in the waypoint screen.",
+    "zh": "如果在路径点界面的选项菜单中没有设置世界特定或服务器特定的命令，则用于路径点传送的命令。",
+    "vi": "Lệnh được sử dụng để dịch chuyển tức thời điểm tham chiếu nếu không có lệnh dành riêng cho thế giới hoặc máy chủ cụ thể nào được đặt trong menu tùy chọn của giao diện điểm tham chiếu."
+  },
+  "gui.xaero_waypoints_edit_mode_individually": {
+    "en": "One by One",
+    "zh": "逐个",
+    "vi": "từng cái một"
+  },
+  "gui.xaero_waypoints_edit_mode_all": {
+    "en": "All at Once",
+    "zh": "全部同时",
+    "vi": "tất cả cùng một lúc"
+  },
+  "gui.xaero_compass": {
+    "en": "Compass",
+    "zh": "指南针",
+    "vi": "la bàn"
+  },
+  "gui.xaero_cave_maps_depth": {
+    "en": "Cave Mode Depth",
+    "zh": "洞穴模式深度",
+    "vi": "Độ sâu chế độ hang động"
+  },
+  "gui.xaero_waypoints_edit_reset": {
+    "en": "Reset",
+    "zh": "重置",
+    "vi": "cài lại"
+  },
+  "gui.xaero_main_entity_as": {
+    "en": "Main Entity As",
+    "zh": "主要实体显示为",
+    "vi": "Thực thể chính được hiển thị là"
+  },
+  "gui.xaero_arrow": {
+    "en": "Arrow",
+    "zh": "箭头",
+    "vi": "mũi tên"
+  },
+  "gui.xaero_dot": {
+    "en": "Dot",
+    "zh": "圆点",
+    "vi": "dấu chấm"
+  },
+  "gui.xaero_crosshair": {
+    "en": "Crosshair",
+    "zh": "十字准星",
+    "vi": "chữ thập"
+  },
+  "gui.xaero_teleport_coordinates_hidden": {
+    "en": "Unable to teleport, because it would expose the waypoint coordinates. Disable the \"Hide Waypoint Coordinates\" option to be able to freely teleport again.",
+    "zh": "无法传送，因为会暴露路径点坐标。禁用“隐藏路径点坐标”选项以再次自由传送。",
+    "vi": "Không thể dịch chuyển tức thời vì tọa độ điểm tham chiếu sẽ bị lộ. Tắt tùy chọn \"Ẩn tọa độ điểm tham chiếu\" để dịch chuyển tự do trở lại."
+  },
+  "gui.xaero_hide_wp_coords": {
+    "en": "Hide Waypoint Coordinates",
+    "zh": "隐藏路径点坐标",
+    "vi": "Ẩn tọa độ điểm tham chiếu"
+  },
+  "gui.xaero_waypoints_edit_show": {
+    "en": "Show",
+    "zh": "显示",
+    "vi": "trình diễn"
+  },
+  "gui.xaero_waypoints_edit_hide": {
+    "en": "Hide",
+    "zh": "隐藏",
+    "vi": "trốn"
+  },
+  "gui.xaero_teleport_anyway": {
+    "en": "Teleport Anyway",
+    "zh": "仍然传送",
+    "vi": "Vẫn đang gửi"
+  },
+  "gui.xaero_teleport_shows_coordinates": {
+    "en": "It will expose the coordinates!",
+    "zh": "这将暴露坐标！",
+    "vi": "Điều này sẽ làm lộ tọa độ!"
+  },
+  "gui.xaero_render_all_wp_sets": {
+    "en": "Render All Waypoint Sets",
+    "zh": "渲染所有路径点集合",
+    "vi": "Hiển thị một bộ sưu tập tất cả các điểm tham chiếu"
+  },
+  "gui.xaero_waypoints_global": {
+    "en": "Global",
+    "zh": "全局",
+    "vi": "tình hình chung"
+  },
+  "gui.xaero_waypoints_local": {
+    "en": "Local",
+    "zh": "本地",
+    "vi": "địa phương"
+  },
+  "gui.xaero_player_arrow_opacity": {
+    "en": "Arrow Opacity",
+    "zh": "箭头透明度",
+    "vi": "mũi tên minh bạch"
+  },
+  "gui.xaero_box_waypoints_distance": {
+    "en": "Maximum render distance for local waypoints. Global waypoints are not affected.",
+    "zh": "本地路径点的最大渲染距离。全局路径点不受影响。",
+    "vi": "Khoảng cách hiển thị tối đa của các điểm tham chiếu cục bộ. Điểm tham chiếu toàn cầu không bị ảnh hưởng."
+  },
+  "gui.xaero_connect_with_auto": {
+    "en": "Add Sub-World Connection",
+    "zh": "添加子世界连接",
+    "vi": "Thêm kết nối thế giới con"
+  },
+  "gui.xaero_disconnect_from_auto": {
+    "en": "Delete Sub-World Connection",
+    "zh": "删除子世界连接",
+    "vi": "Xóa kết nối thế giới con"
+  },
+  "gui.xaero_world_connection_tooltip": {
+    "en": "Connect/disconnect selected sub-world to/from the current auto one. Connect only sub-worlds that are from the same sub-server/world save. For example, if a vanilla Nether portal takes you from sub-world A to sub-world B, then you can safely connect them. Other sub-worlds connected to the current one are always at the top of the list and are marked by an asterisk (symbol: *).",
+    "zh": "连接/断开所选子世界与当前自动子世界的连接。仅连接来自同一个子服务器/世界存档的子世界。例如，如果一个原版下界传送门将你从子世界 A 带到子世界 B，那么你可以安全地连接它们。连接到当前子世界的其他子世界始终位于列表顶部，并用星号（符号：*）标记。",
+    "vi": "Kết nối/ngắt kết nối thế giới con đã chọn với thế giới con tự động hiện tại. Chỉ kết nối các thế giới con từ cùng một kho lưu trữ máy chủ con/thế giới. Ví dụ: nếu một cổng Nether vanilla đưa bạn từ thế giới con A đến thế giới con B, bạn có thể kết nối với chúng một cách an toàn. Các thế giới con khác được kết nối với thế giới con hiện tại luôn đứng đầu danh sách và được đánh dấu bằng dấu hoa thị (ký hiệu: *)."
+  },
+  "gui.xaero_connect_with_auto_msg": {
+    "en": "Would you like to create the following connection between sub-worlds?",
+    "zh": "是否要在子世界之间创建以下连接？",
+    "vi": "Bạn có muốn tạo các kết nối sau đây giữa các thế giới con không?"
+  },
+  "gui.xaero_disconnect_from_auto_msg": {
+    "en": "Would you like to delete the following connection between sub-worlds?",
+    "zh": "是否要删除子世界之间的以下连接？",
+    "vi": "Bạn có muốn xóa các kết nối sau đây giữa các thế giới con không?"
+  },
+  "gui.xaero_teleport_not_connected": {
+    "en": "You are trying to teleport to a sub-world that is not connected to the current auto one. If you are sure that this sub-world is from the same sub-server/world save as the auto one, then you can enable teleportation by adding a connection in the waypoint screen -> Options -> Add Sub-World Connection. But beware, if you connect unrelated sub-worlds and teleport, then there is a good chance you will suffocate in a block or die from fall damage, so be careful and connect only the right ones.",
+    "zh": "你正尝试传送到一个未连接到当前自动子世界的子世界。如果你确定这个子世界与自动子世界来自同一个子服务器/世界存档，那么你可以通过在路径点界面 -> 选项 -> 添加子世界连接中添加一个连接来启用传送。但请注意，如果你连接了不相关的子世界并进行传送，那么你很可能会卡进方块里窒息而死，或者摔死，所以请小心谨慎，只连接正确的子世界。",
+    "vi": "Bạn đang cố gắng dịch chuyển đến một thế giới con không được kết nối với thế giới con tự động hiện tại. Nếu bạn chắc chắn rằng thế giới con này đến từ cùng một máy chủ con/thế giới được lưu với thế giới con tự động, thì bạn có thể kích hoạt dịch chuyển tức thời bằng cách thêm kết nối trong Giao diện Waypoint -> Tùy chọn -> Thêm kết nối thế giới con. Nhưng xin lưu ý rằng nếu bạn kết nối với các thế giới con không liên quan và dịch chuyển tức thời, rất có thể bạn sẽ bị mắc kẹt trong một khối nhà và ngạt thở hoặc ngã xuống mà chết, vì vậy hãy cẩn thận và chỉ kết nối với các thế giới con phù hợp."
+  },
+  "gui.xaero_ignore_heightmaps": {
+    "en": "Ignore Server Heightmaps",
+    "zh": "忽略服务器高度图",
+    "vi": "Bỏ qua sơ đồ chiều cao máy chủ"
+  },
+  "gui.xaero_box_ignore_heightmaps": {
+    "en": "Some servers put custom values in the world heightmaps, which may result in incorrectly rendered maps. Sometimes it may even happen in heavily modded singleplayer worlds. This option should fix such issues at the expense of a bit of performance. Do not use unless you have to. Reenter the world after toggling this option! Stored per world/server, not part of the config profile.",
+    "zh": "某些服务器会在世界高度图中放入自定义值，这可能导致地图渲染不正确。有时即使在大量修改的单人世界中也可能发生。此选项应以牺牲一点性能为代价来解决此类问题。除非必要，否则不要使用。切换此选项后请重新进入世界！按世界/服务器存储，不属于配置配置文件的一部分。",
+    "vi": "Một số máy chủ đặt các giá trị tùy chỉnh vào bản đồ chiều cao thế giới, điều này có thể khiến bản đồ hiển thị không chính xác. Đôi khi điều này có thể xảy ra ngay cả trong thế giới chơi đơn được sửa đổi nhiều. Tùy chọn này sẽ giải quyết những vấn đề như vậy nhưng phải trả giá bằng một chút hiệu suất. Không sử dụng trừ khi cần thiết. Vui lòng vào lại thế giới sau khi chuyển đổi tùy chọn này! Được lưu trữ trên mỗi thế giới/máy chủ và không phải là một phần của hồ sơ cấu hình."
+  },
+  "gui.xaero_error_loading_properties": {
+    "en": "Error loading server minimap properties. Please retry.",
+    "zh": "加载服务器小地图属性时出错。请重试。",
+    "vi": "Đã xảy ra lỗi khi tải thuộc tính bản đồ nhỏ của máy chủ. Vui lòng thử lại."
+  },
+  "gui.xaero_light_block": {
+    "en": "Block",
+    "zh": "方块",
+    "vi": "khối"
+  },
+  "gui.xaero_light_sky": {
+    "en": "Sky",
+    "zh": "天空",
+    "vi": "Bầu trời"
+  },
+  "gui.xaero_light_both": {
+    "en": "All",
+    "zh": "全部",
+    "vi": "tất cả"
+  },
+  "gui.xaero_light_all": {
+    "en": "All",
+    "zh": "全部",
+    "vi": "tất cả"
+  },
+  "gui.xaero_light_both2": {
+    "en": "Both",
+    "zh": "两者",
+    "vi": "cả hai"
+  },
+  "gui.xaero_waypoints_bottom": {
+    "en": "New Waypoints to Bottom",
+    "zh": "新路径点放在底部",
+    "vi": "Điểm tham chiếu mới được đặt ở phía dưới"
+  },
+  "gui.xaero_box_waypoints_bottom": {
+    "en": "Put newly created waypoints at the bottom of the waypoint list instead of the default top.",
+    "zh": "将新创建的路径点放在路径点列表的底部，而不是默认的顶部。",
+    "vi": "Đặt các điểm tham chiếu mới được tạo ở cuối danh sách điểm tham chiếu thay vì ở trên cùng mặc định."
+  },
+  "gui.xaero_minimap_shape": {
+    "en": "Shape",
+    "zh": "形状",
+    "vi": "hình dạng"
+  },
+  "gui.xaero_minimap_shape_square": {
+    "en": "Square",
+    "zh": "方形",
+    "vi": "quảng trường"
+  },
+  "gui.xaero_minimap_shape_circle": {
+    "en": "Circle",
+    "zh": "圆形",
+    "vi": "tròn"
+  },
+  "gui.xaero_slopes_legacy": {
+    "en": "Legacy",
+    "zh": "旧版",
+    "vi": "Phiên bản cũ"
+  },
+  "gui.xaero_names_list": {
+    "en": "Player List",
+    "zh": "玩家列表",
+    "vi": "danh sách người chơi"
+  },
+  "gui.xaero_names_always": {
+    "en": "Always",
+    "zh": "始终",
+    "vi": "luôn luôn"
+  },
+  "gui.xaero_names_off": {
+    "en": "No Names",
+    "zh": "无名称",
+    "vi": "không có tên"
+  },
+  "gui.xaero_entity_radar_type": {
+    "en": "Type:",
+    "zh": "类型：",
+    "vi": "kiểu:"
+  },
+  "gui.xaero_entity_radar_color": {
+    "en": "Color:",
+    "zh": "颜色：",
+    "vi": "màu sắc:"
+  },
+  "gui.xaero_entity_radar_visiblity": {
+    "en": "Visibility:",
+    "zh": "可见性：",
+    "vi": "Tầm nhìn:"
+  },
+  "gui.xaero_entity_radar_names": {
+    "en": "Names:",
+    "zh": "名称：",
+    "vi": "tên:"
+  },
+  "gui.xaero_entity_radar_icons": {
+    "en": "Icons/Heads:",
+    "zh": "图标/头像：",
+    "vi": "Biểu tượng/hình đại diện:"
+  },
+  "gui.xaero_box_entity_radar_names": {
+    "en": "Render entity names under the dots or icons/heads. \n \n Option \"Player List\" - render only when the \"List Players\" key binding (TAB by default) is pressed.",
+    "zh": "在圆点或图标/头像下方渲染实体名称。\n\n选项“玩家列表” - 仅在按下“列出玩家”按键绑定（默认为 TAB）时渲染。",
+    "vi": "Hiển thị tên thực thể bên dưới dấu chấm hoặc biểu tượng/hình đại diện.\n\nTùy chọn \"Danh sách người chơi\" - Chỉ được hiển thị khi nhấn tổ hợp phím \"Danh sách người chơi\" (mặc định là TAB)."
+  },
+  "gui.xaero_light_overlay_status": {
+    "en": "Using Light Overlay",
+    "zh": "正在使用光照叠加",
+    "vi": "Sử dụng lớp phủ ánh sáng"
+  },
+  "gui.xaero_light_overlay": {
+    "en": "Light Overlay",
+    "zh": "光照叠加",
+    "vi": "Lớp phủ ánh sáng"
+  },
+  "gui.xaero_light_overlay_type": {
+    "en": "Light Overlay",
+    "zh": "光照叠加",
+    "vi": "Lớp phủ ánh sáng"
+  },
+  "gui.xaero_light_overlay_color": {
+    "en": "Color",
+    "zh": "颜色",
+    "vi": "màu sắc"
+  },
+  "gui.xaero_light_overlay_max_light": {
+    "en": "Max Light",
+    "zh": "最大光照",
+    "vi": "Ánh sáng tối đa"
+  },
+  "gui.xaero_light_overlay_min_light": {
+    "en": "Min Light",
+    "zh": "最小光照",
+    "vi": "ánh sáng tối thiểu"
+  },
+  "gui.xaero_toggle_light_overlay": {
+    "en": "Toggle Light Overlay",
+    "zh": "切换光照叠加",
+    "vi": "Chuyển đổi lớp phủ ánh sáng"
+  },
+  "gui.xaero_box_light_overlay_type": {
+    "en": "Using this overlay can negatively affect the game performance because it currently does not use the World Map mod chunks and increases the minimap updating frequency. Do not keep it active all the time.",
+    "zh": "使用此叠加可能会对游戏性能产生负面影响，因为它目前不使用世界地图模组的区块，并且会增加小地图的更新频率。请不要一直保持激活状态。",
+    "vi": "Việc sử dụng lớp phủ này có thể có Lực xung kích tiêu cực đến hiệu suất trò chơi, vì hiện tại nó không sử dụng các phần của mod bản đồ thế giới và sẽ tăng tần suất cập nhật bản đồ nhỏ. Xin vui lòng không để nó hoạt động mọi lúc."
+  },
+  "gui.xaero_day": {
+    "en": "Day",
+    "zh": "白天",
+    "vi": "ban ngày"
+  },
+  "gui.xaero_tamed": {
+    "en": "Tamed Mobs",
+    "zh": "已驯服生物",
+    "vi": "sinh vật thuần hóa"
+  },
+  "gui.xaero_untamed_color": {
+    "en": "Untamed Color",
+    "zh": "未驯服颜色",
+    "vi": "màu sắc hoang sơ"
+  },
+  "gui.xaero_icons_list": {
+    "en": "Player List",
+    "zh": "玩家列表",
+    "vi": "danh sách người chơi"
+  },
+  "gui.xaero_icons_always": {
+    "en": "Always",
+    "zh": "始终",
+    "vi": "luôn luôn"
+  },
+  "gui.xaero_icons_off": {
+    "en": "No Icons",
+    "zh": "无图标",
+    "vi": "Không có biểu tượng"
+  },
+  "gui.xaero_box_entity_radar_icons": {
+    "en": "Render entity icons instead of colored dots. \n \n Option \"Player List\" - render only when the \"List Players\" key binding (TAB by default) is pressed.",
+    "zh": "渲染实体图标而非彩色圆点。\n\n选项“玩家列表” - 仅在按下“列出玩家”按键绑定（默认为 TAB）时渲染。",
+    "vi": "Hiển thị các biểu tượng đặc thay vì các chấm màu.\n\nTùy chọn \"Danh sách người chơi\" - Chỉ được hiển thị khi nhấn tổ hợp phím \"Danh sách người chơi\" (mặc định là TAB)."
+  },
+  "gui.xaero_dot_name_scale": {
+    "en": "Dot Name Scale",
+    "zh": "圆点名称缩放",
+    "vi": "Chia tỷ lệ tên dấu chấm"
+  },
+  "gui.xaero_entity_heads_scale": {
+    "en": "Entity Icon Scale",
+    "zh": "实体图标缩放",
+    "vi": "Chia tỷ lệ biểu tượng thực thể"
+  },
+  "gui.xaero_box_minimap_size": {
+    "en": "Size of the minimap frame that affects how much is visible. Square-shaped minimap is forced into the non-rotating mode (option \"Lock Minimap North\") when the size is greater than 180. \n \n For the \"Auto\" option, go all the way to the left. \n \n Size values in older mod versions: \n Tiny - 57 \n Small - 85 \n Medium - 113 \n Large - 169",
+    "zh": "小地图框架的大小，影响可见范围。当大小大于 180 时，方形小地图会被强制进入非旋转模式（选项“锁定小地图北方向”）。\n\n对于“自动”选项，请一直向左拖动。\n\n旧版模组版本中的大小值：\n极小 - 57\n小 - 85\n中等 - 113\n大 - 169",
+    "vi": "Kích thước của khung bản đồ nhỏ ảnh hưởng đến phạm vi hiển thị. Khi kích thước lớn hơn 180, bản đồ nhỏ hình vuông buộc phải chuyển sang chế độ không xoay (tùy chọn \"Khóa bản đồ nhỏ về phía bắc\").\n\nĐối với tùy chọn Tự động, hãy kéo hết cỡ sang trái.\n\nGiá trị kích thước trong các phiên bản mod cũ hơn:\nRất nhỏ - 57\nNhỏ - 85\nTrung bình - 113\nLớn - 169"
+  },
+  "gui.xaero_auto_clamp_depth": {
+    "en": "Auto",
+    "zh": "自动",
+    "vi": "tự động"
+  },
+  "gui.xaero_waypoints_clamp_depth": {
+    "en": "Clamp Depth",
+    "zh": "钳制深度",
+    "vi": "độ sâu kẹp"
+  },
+  "gui.xaero_waypoints_distance_scale": {
+    "en": "Waypoint Distance Text Scale",
+    "zh": "路径点距离文字缩放",
+    "vi": "Chia tỷ lệ văn bản khoảng cách điểm đường dẫn"
+  },
+  "gui.xaero_waypoints_name_scale": {
+    "en": "Waypoint Name Text Scale",
+    "zh": "路径点名称文字缩放",
+    "vi": "Chia tỷ lệ văn bản tên điểm tham chiếu"
+  },
+  "gui.xaero_box_waypoints_clamp_depth": {
+    "en": "The screen depth at which in-world waypoints stop getting smaller when you go further away from them. \n Use this if you want to make waypoints that are far away bigger/smaller on the screen. Use the \"Waypoint In-World Scale\" setting to also affect the size of waypoints when you are close to them. \n \n For the \"Auto\" option, go all the way to the left. \n The automatic option attempts to give you the best value for the default values of scale types, taking your FOV and screen height into account. \n \n Default values in older mod versions: \n Clamp Depth: 12 \n In-World Scale: 2.5 \n Name Text Scale: 0.5 \n Distance Text Scale: 0.8",
+    "zh": "当你远离世界中的路径点时，路径点停止变小的屏幕深度。\n如果你想使远处的路径点在屏幕上变大/变小，请使用此选项。使用“路径点世界中缩放”设置也会影响你在附近时路径点的大小。\n\n对于“自动”选项，请一直向左拖动。\n自动选项会根据你的视野和屏幕高度，尝试为你提供缩放类型默认值的最佳值。\n\n旧版模组版本中的默认值：\n钳制深度：12\n世界中缩放：2.5\n名称文字缩放：0.5\n距离文字缩放：0.8",
+    "vi": "Điểm tham chiếu không còn nhỏ hơn về độ sâu màn hình khi bạn di chuyển ra khỏi chúng trên thế giới.\nSử dụng tùy chọn này nếu bạn muốn làm cho các điểm tọa độ ở xa lớn hơn/nhỏ hơn trên màn hình. Việc sử dụng cài đặt Tỷ lệ điểm tham chiếu trong thế giới cũng ảnh hưởng đến kích thước của điểm tham chiếu khi bạn ở gần.\n\nĐối với tùy chọn Tự động, hãy kéo hết cỡ sang trái.\nTùy chọn tự động sẽ cố gắng cung cấp cho bạn giá trị tốt nhất cho loại thu phóng mặc định dựa trên trường nhìn và chiều cao màn hình của bạn.\n\nGiá trị mặc định trong các phiên bản mod cũ hơn:\nĐộ sâu kẹp: 12\nTỷ lệ trong thế giới: 2,5\nTỷ lệ văn bản tên: 0,5\nTỷ lệ văn bản khoảng cách: 0,8"
+  },
+  "gui.xaero_box_waypoints_distance_scale": {
+    "en": "Scale of the text displaying the distance to a waypoint in world. \n \n Default values in older mod versions: \n Clamp Depth: 12 \n In-World Scale: 2.5 \n Name Text Scale: 0.5 \n Distance Text Scale: 0.8",
+    "zh": "显示到世界中路径点距离的文字缩放。\n\n旧版模组版本中的默认值：\n钳制深度：12\n世界中缩放：2.5\n名称文字缩放：0.5\n距离文字缩放：0.8",
+    "vi": "Chia tỷ lệ văn bản hiển thị khoảng cách đến các điểm tham chiếu trên thế giới.\n\nGiá trị mặc định trong các phiên bản mod cũ hơn:\nĐộ sâu kẹp: 12\nTỷ lệ trong thế giới: 2,5\nTỷ lệ văn bản tên: 0,5\nTỷ lệ văn bản khoảng cách: 0,8"
+  },
+  "gui.xaero_box_waypoints_name_scale": {
+    "en": "Scale of the text displaying the name of a waypoint in world. \n \n Default values in older mod versions: \n Clamp Depth: 12 \n In-World Scale: 2.5 \n Name Text Scale: 0.5 \n Distance Text Scale: 0.8",
+    "zh": "显示世界中路径点名称的文字缩放。\n\n旧版模组版本中的默认值：\n钳制深度：12\n世界中缩放：2.5\n名称文字缩放：0.5\n距离文字缩放：0.8",
+    "vi": "Chia tỷ lệ văn bản hiển thị tên điểm tham chiếu trên thế giới.\n\nGiá trị mặc định trong các phiên bản mod cũ hơn:\nĐộ sâu kẹp: 12\nTỷ lệ trong thế giới: 2,5\nTỷ lệ văn bản tên: 0,5\nTỷ lệ văn bản khoảng cách: 0,8"
+  },
+  "gui.xaero_box_waypoints_scale": {
+    "en": "Scale of waypoints in world. Use this to change the scale of all waypoints in world, including those that are near you. Use the \"Clamp Depth\" setting to specifically affect the size of waypoints that are far away. \n \n Default values in older mod versions: \n Clamp Depth: 12 \n In-World Scale: 2.5 \n Name Text Scale: 0.5 \n Distance Text Scale: 0.8",
+    "zh": "世界中路径点的缩放。使用此选项更改所有世界中路径点的缩放，包括靠近你的那些。使用“钳制深度”设置专门影响远处路径点的大小。\n\n旧版模组版本中的默认值：\n钳制深度：12\n世界中缩放：2.5\n名称文字缩放：0.5\n距离文字缩放：0.8",
+    "vi": "Việc mở rộng quy mô của các điểm tham chiếu trên thế giới. Sử dụng tùy chọn này để thay đổi tỷ lệ điểm tham chiếu ở tất cả các thế giới, bao gồm cả những thế giới gần gũi với bạn. Sử dụng cài đặt Độ sâu kẹp để Lực xung kích cụ thể đến kích thước của các điểm tham chiếu ở xa.\n\nGiá trị mặc định trong các phiên bản mod cũ hơn:\nĐộ sâu kẹp: 12\nTỷ lệ trong thế giới: 2,5\nTỷ lệ văn bản tên: 0,5\nTỷ lệ văn bản khoảng cách: 0,8"
+  },
+  "gui.xaero_waypoint_shared": {
+    "en": "%1$s shared a waypoint called \"%2$s\"! §2§n[Add]",
+    "zh": "%1$s 分享了一个名为 \"%2$s\" 的路径点！§2§n[添加]",
+    "vi": "%1$s đã chia sẻ một điểm tham chiếu có tên \"%2$s\"! §2§n[thêm]"
+  },
+  "gui.xaero_waypoint_shared_dimension": {
+    "en": "%1$s shared a waypoint called \"%2$s\" from %3$s! §2§n[Add]",
+    "zh": "%1$s 分享了来自 %3$s 的一个名为 \"%2$s\" 的路径点！§2§n[添加]",
+    "vi": "%1$s đã chia sẻ một điểm tham chiếu có tên \"%2$s\" từ %3$s! §2§n[thêm]"
+  },
+  "gui.xaero_waypoint_unknown_dimension": {
+    "en": "an unknown dimension",
+    "zh": "一个未知维度",
+    "vi": "một chiều không xác định"
+  },
+  "gui.xaero_uses_worldmap_value": {
+    "en": "Setting value is taken from the world map settings!",
+    "zh": "设置值取自世界地图设置！",
+    "vi": "Các giá trị cài đặt được lấy từ cài đặt bản đồ thế giới!"
+  },
+  "gui.xaero_uses_worldmap_hard_value": {
+    "en": "Setting value cannot be configured when using the world map chunks!",
+    "zh": "使用世界地图区块时无法配置此设置值！",
+    "vi": "Không thể định cấu hình giá trị cài đặt này khi sử dụng ô bản đồ thế giới!"
+  },
+  "gui.xaero_dots_style": {
+    "en": "Entity Dots Style",
+    "zh": "实体圆点样式",
+    "vi": "phong cách chấm rắn"
+  },
+  "gui.xaero_dots_style_default": {
+    "en": "Default",
+    "zh": "默认",
+    "vi": "mặc định"
+  },
+  "gui.xaero_dots_style_legacy": {
+    "en": "Legacy",
+    "zh": "旧版",
+    "vi": "Phiên bản cũ"
+  },
+  "gui.xaero_slopes_default_3d": {
+    "en": "Default 3D",
+    "zh": "默认 3D",
+    "vi": "3D mặc định"
+  },
+  "gui.xaero_slopes_default_2d": {
+    "en": "Default 2D",
+    "zh": "默认 2D",
+    "vi": "2D mặc định"
+  },
+  "gui.xaero_ui_scale": {
+    "en": "UI Scale",
+    "zh": "界面缩放",
+    "vi": "Chia tỷ lệ giao diện"
+  },
+  "gui.xaero_ui_scale_auto": {
+    "en": "Auto",
+    "zh": "自动",
+    "vi": "tự động"
+  },
+  "gui.xaero_ui_scale_mc": {
+    "en": "UI",
+    "zh": "界面",
+    "vi": "giao diện"
+  },
+  "gui.xaero_box_ui_scale": {
+    "en": "Scale of text and other minimap UI elements. Not made for zooming in or resizing. There are separate options for that.",
+    "zh": "文字和其他小地图界面元素的缩放。不适用于放大或调整大小。有单独的选项用于此目的。",
+    "vi": "Chia tỷ lệ văn bản và các thành phần giao diện bản đồ nhỏ khác. Không thích hợp để phóng to hoặc thay đổi kích thước. Có những lựa chọn riêng biệt cho mục đích này."
+  },
+  "gui.xaero_pushbox_normal": {
+    "en": "Normal",
+    "zh": "标准",
+    "vi": "tiêu chuẩn"
+  },
+  "gui.xaero_pushbox_screen_height": {
+    "en": "Screen Height",
+    "zh": "屏幕高度",
+    "vi": "chiều cao màn hình"
+  },
+  "gui.xaero_pushbox_boss_health": {
+    "en": "Boss Health Push Box",
+    "zh": "BOSS 生命值推盒",
+    "vi": "Hộp đẩy sức khỏe BOSS"
+  },
+  "gui.xaero_pushbox_potion_effects": {
+    "en": "Potion Effects Push Box",
+    "zh": "药水效果推盒",
+    "vi": "Hộp đẩy hiệu ứng thuốc"
+  },
+  "gui.xaero_box_pushbox_boss_health": {
+    "en": "An invisible box around the vanilla boss health display that pushes the mod's interfaces out of the way. \n \n Normal type's collision box is equal to its size and only pushes interfaces by the necessary distance. \n \n Screen Height type's collision box is stretched across the whole screen height and always shifts colliding interfaces vertically by the Normal type's height. This can be very useful when you have multiple interfaces in a column and want all of them to be pushed.",
+    "zh": "原版 Boss 生命值显示周围的一个隐形盒子，用于推开模组的界面。\n\n标准类型的碰撞箱等于其自身大小，并且仅将界面推开必要的距离。\n\n屏幕高度类型的碰撞箱会拉伸至整个屏幕高度，并且始终将碰撞到的界面垂直移动标准类型的高度。当你有多个界面排成一列并且希望它们都被推开时，这会非常有用。",
+    "vi": "Một chiếc hộp vô hình xung quanh màn hình hiển thị sức khỏe của trùm vanilla, dùng để đẩy giao diện của mod ra xa.\n\nHitbox loại tiêu chuẩn có kích thước bằng với kích thước của chính nó và chỉ đẩy giao diện đến mức cần thiết.\n\nHộp va chạm loại chiều cao màn hình trải dài đến chiều cao toàn màn hình và luôn di chuyển giao diện mà nó va chạm theo chiều dọc theo chiều cao của loại tiêu chuẩn. Điều này hữu ích khi bạn có nhiều giao diện được xếp hàng và muốn loại bỏ tất cả chúng."
+  },
+  "gui.xaero_box_pushbox_potion_effects": {
+    "en": "An invisible box around the vanilla potion effects display that pushes the mod's interfaces out of the way. \n \n Normal type's collision box is equal to its size and only pushes interfaces by the necessary distance. \n \n Screen Height type's collision box is stretched across the whole screen height and always shifts colliding interfaces vertically by the Normal type's height. This can be very useful when you have multiple interfaces in a column and want all of them to be pushed.",
+    "zh": "原版药水效果显示周围的一个隐形盒子，用于推开模组的界面。\n\n标准类型的碰撞箱等于其自身大小，并且仅将界面推开必要的距离。\n\n屏幕高度类型的碰撞箱会拉伸至整个屏幕高度，并且始终将碰撞到的界面垂直移动标准类型的高度。当你有多个界面排成一列并且希望它们都被推开时，这会非常有用。",
+    "vi": "Hiệu ứng thuốc vani hiển thị một chiếc hộp vô hình xung quanh nó, dùng để đẩy giao diện của mod ra xa.\n\nHitbox loại tiêu chuẩn có kích thước bằng với kích thước của chính nó và chỉ đẩy giao diện đến mức cần thiết.\n\nHộp va chạm loại chiều cao màn hình trải dài đến chiều cao toàn màn hình và luôn di chuyển giao diện mà nó va chạm theo chiều dọc theo chiều cao của loại tiêu chuẩn. Điều này rất hữu ích khi bạn có nhiều giao diện được xếp hàng và muốn loại bỏ tất cả chúng."
+  },
+  "gui.xaero_minimap_frame": {
+    "en": "Frame Style",
+    "zh": "边框样式",
+    "vi": "phong cách biên giới"
+  },
+  "gui.xaero_minimap_frame_color": {
+    "en": "Frame Color",
+    "zh": "边框颜色",
+    "vi": "màu viền"
+  },
+  "gui.xaero_box_minimap_frame_color": {
+    "en": "The color of the minimap frame for the non-default colored frame styles.",
+    "zh": "非默认彩色边框样式的边框颜色。",
+    "vi": "Màu đường viền cho các kiểu đường viền có màu không mặc định."
+  },
+  "gui.xaero_minimap_frame_default": {
+    "en": "Default",
+    "zh": "默认",
+    "vi": "mặc định"
+  },
+  "gui.xaero_minimap_frame_colored_thick": {
+    "en": "Colored",
+    "zh": "彩色",
+    "vi": "màu sắc"
+  },
+  "gui.xaero_minimap_frame_colored_thin": {
+    "en": "Colored Thin",
+    "zh": "细彩",
+    "vi": "màu sắc đẹp"
+  },
+  "gui.xaero_compass_north": {
+    "en": "N",
+    "zh": "北",
+    "vi": "phía bắc"
+  },
+  "gui.xaero_compass_east": {
+    "en": "E",
+    "zh": "东",
+    "vi": "Phía đông"
+  },
+  "gui.xaero_compass_south": {
+    "en": "S",
+    "zh": "南",
+    "vi": "Phía nam"
+  },
+  "gui.xaero_compass_west": {
+    "en": "W",
+    "zh": "西",
+    "vi": "Tây"
+  },
+  "gui.xaero_compass_scale": {
+    "en": "Compass Scale On-Map",
+    "zh": "地图上指南针缩放",
+    "vi": "La bàn phóng to trên bản đồ"
+  },
+  "gui.xaero_box_compass_scale": {
+    "en": "The scale of the compass letters NESW when using the on-map compass location.",
+    "zh": "使用地图上指南针位置时，指南针字母 NESW 的缩放。",
+    "vi": "Chia tỷ lệ các chữ la bàn NESW khi sử dụng vị trí la bàn trên bản đồ."
+  },
+  "gui.xaero_minimap_compass_inside_frame": {
+    "en": "On Map",
+    "zh": "在地图上",
+    "vi": "trên bản đồ"
+  },
+  "gui.xaero_minimap_compass_on_frame": {
+    "en": "On Frame",
+    "zh": "在边框上",
+    "vi": "trên biên giới"
+  },
+  "gui.xaero_compass_color": {
+    "en": "Compass Shadow Color",
+    "zh": "指南针阴影颜色",
+    "vi": "màu bóng la bàn"
+  },
+  "gui.xaero_box_compass_over_wp2": {
+    "en": "Render compass letters (N, E, S, W) over the on-map waypoints. This only works for the on-frame compass location.",
+    "zh": "在地图上的路径点上方渲染指南针字母（北、东、南、西）。这仅适用于边框上的指南针位置。",
+    "vi": "Hiển thị các chữ cái la bàn (bắc, đông, nam, tây) phía trên các điểm tham chiếu trên bản đồ. Tính năng này chỉ hoạt động đối với các vị trí la bàn trên khung bezel."
+  },
+  "effect.xaerominimap.no_minimap": {
+    "en": "No Minimap",
+    "zh": "无小地图",
+    "vi": "Không có bản đồ nhỏ"
+  },
+  "effect.xaerominimap.no_entity_radar": {
+    "en": "No Entity Radar",
+    "zh": "无实体雷达",
+    "vi": "radar thoát xác"
+  },
+  "effect.xaerominimap.no_waypoints": {
+    "en": "No Waypoints",
+    "zh": "无路径点",
+    "vi": "Không có điểm tham chiếu"
+  },
+  "effect.xaerominimap.no_cave_maps": {
+    "en": "No Cave Maps",
+    "zh": "无洞穴地图",
+    "vi": "Không có bản đồ hang động"
+  },
+  "effect.xaerominimap.no_minimap_harmful": {
+    "en": "No Minimap",
+    "zh": "无小地图",
+    "vi": "Không có bản đồ nhỏ"
+  },
+  "effect.xaerominimap.no_entity_radar_harmful": {
+    "en": "No Entity Radar",
+    "zh": "无实体雷达",
+    "vi": "radar thoát xác"
+  },
+  "effect.xaerominimap.no_waypoints_harmful": {
+    "en": "No Waypoints",
+    "zh": "无路径点",
+    "vi": "Không có điểm tham chiếu"
+  },
+  "effect.xaerominimap.no_cave_maps_harmful": {
+    "en": "No Cave Maps",
+    "zh": "无洞穴地图",
+    "vi": "Không có bản đồ hang động"
+  },
+  "effect.xaerominimap.no_minimap_beneficial": {
+    "en": "No Minimap",
+    "zh": "无小地图",
+    "vi": "Không có bản đồ nhỏ"
+  },
+  "effect.xaerominimap.no_entity_radar_beneficial": {
+    "en": "No Entity Radar",
+    "zh": "无实体雷达",
+    "vi": "radar thoát xác"
+  },
+  "effect.xaerominimap.no_waypoints_beneficial": {
+    "en": "No Waypoints",
+    "zh": "无路径点",
+    "vi": "Không có điểm tham chiếu"
+  },
+  "effect.xaerominimap.no_cave_maps_beneficial": {
+    "en": "No Cave Maps",
+    "zh": "无洞穴地图",
+    "vi": "Không có bản đồ hang động"
+  },
+  "gui.xaero_radar_item_frames": {
+    "en": "Display Item Frame Dots",
+    "zh": "显示物品展示框圆点",
+    "vi": "Hiển thị dấu chấm khung mục"
+  },
+  "gui.xaero_show_dimension_name": {
+    "en": "Display Current Dimension",
+    "zh": "显示当前维度",
+    "vi": "Hiển thị kích thước hiện tại"
+  },
+  "gui.xaero_unknown_biome": {
+    "en": "Unknown Biome",
+    "zh": "未知生物群系",
+    "vi": "quần xã chưa biết"
+  },
+  "gui.xaero_light_value": {
+    "en": "Light: %d",
+    "zh": "光照：%d",
+    "vi": "Ánh sáng:%d"
+  },
+  "gui.xaero_teleport_y_unknown": {
+    "en": "You can't teleport to a waypoint that doesn't specify the Y coordinate. Edit the waypoint to be able to teleport to it.",
+    "zh": "无法传送到未指定 Y 坐标的路径点。请编辑路径点以便能够传送到它。",
+    "vi": "Không thể dịch chuyển đến điểm tham chiếu không chỉ định tọa độ Y. Vui lòng chỉnh sửa điểm tham chiếu để có thể dịch chuyển tức thời đến đó."
+  },
+  "gui.xaero_box_waypoints_distance_scale2": {
+    "en": "Scale of the text displaying the distance to a waypoint in world.",
+    "zh": "显示到世界中路径点距离的文字缩放。",
+    "vi": "Chia tỷ lệ văn bản hiển thị khoảng cách đến các điểm tham chiếu trên thế giới."
+  },
+  "gui.xaero_box_waypoints_name_scale2": {
+    "en": "Scale of the text displaying the name of a waypoint in world.",
+    "zh": "显示世界中路径点名称的文字缩放。",
+    "vi": "Chia tỷ lệ văn bản hiển thị tên điểm tham chiếu trên thế giới."
+  },
+  "gui.xaero_box_ingame_waypoint_icon_scale": {
+    "en": "Scale of the waypoint icons in world.",
+    "zh": "世界中路径点图标的缩放。",
+    "vi": "Chia tỷ lệ các biểu tượng điểm tham chiếu trên thế giới."
+  },
+  "gui.xaero_ingame_waypoint_icon_scale": {
+    "en": "In-World Waypoint Icon Scale",
+    "zh": "世界中路径点图标缩放",
+    "vi": "Chia tỷ lệ biểu tượng Waypoint trên thế giới"
+  },
+  "gui.xaero_ingame_waypoint_close_scale": {
+    "en": "In-World Waypoint Up-Close Scale",
+    "zh": "世界中路径点近距离缩放",
+    "vi": "Thu phóng gần các điểm tham chiếu trên thế giới"
+  },
+  "gui.xaero_box_ingame_waypoint_close_scale": {
+    "en": "Scale of the waypoints in world when you are very close to them. To change the scale of waypoints that are far away, use the \"In-World Waypoint Icon Scale\", \"Waypoint Distance Text Scale\" and \"Waypoint Name Text Scale\" settings.",
+    "zh": "当你非常接近路径点时，其在世界中的缩放。要更改远处路径点的缩放，请使用“世界中路径点图标缩放”、“路径点距离文字缩放”和“路径点名称文字缩放”设置。",
+    "vi": "Điểm tham chiếu sẽ thay đổi trên thế giới khi bạn ở rất gần nó. Để thay đổi tỷ lệ của các điểm tham chiếu ở xa, hãy sử dụng cài đặt Tỷ lệ biểu tượng điểm tham chiếu trong thế giới, Tỷ lệ văn bản khoảng cách điểm tham chiếu và Tỷ lệ văn bản tên điểm tham chiếu."
+  },
+  "gui.xaero_entity_icon_name_fallback": {
+    "en": "Entity Name When Icon Fails",
+    "zh": "图标失败时显示实体名称",
+    "vi": "Hiển thị tên thực thể khi biểu tượng bị lỗi"
+  },
+  "gui.xaero_minimap_view_settings": {
+    "en": "View Settings",
+    "zh": "视图设置",
+    "vi": "Xem cài đặt"
+  },
+  "gui.xaero_entity_radar_settings": {
+    "en": "Entity Radar Settings",
+    "zh": "实体雷达设置",
+    "vi": "Cài đặt radar vật lý"
+  },
+  "gui.xaero_entity_radar_categories": {
+    "en": "Entity Category Settings",
+    "zh": "实体类别设置",
+    "vi": "Cài đặt lớp thực thể"
+  },
+  "gui.xaero_minimap_block_map_settings": {
+    "en": "Block Map Settings",
+    "zh": "方块地图设置",
+    "vi": "Chặn cài đặt bản đồ"
+  },
+  "gui.xaero_overlay_settings": {
+    "en": "Overlay Settings",
+    "zh": "叠加层设置",
+    "vi": "Cài đặt lớp phủ"
+  },
+  "gui.xaero_minimap_info_settings": {
+    "en": "Information Settings",
+    "zh": "信息设置",
+    "vi": "Cài đặt thông tin"
+  },
+  "gui.xaero_waypoint_settings": {
+    "en": "Waypoint Settings",
+    "zh": "路径点设置",
+    "vi": "Cài đặt điểm tham chiếu"
+  },
+  "gui.xaero_minimap_misc_settings": {
+    "en": "Miscellaneous Settings",
+    "zh": "杂项设置",
+    "vi": "Cài đặt khác"
+  },
+  "gui.xaero_entity_radar_category": {
+    "en": "Category:",
+    "zh": "类别：",
+    "vi": "loại:"
+  },
+  "gui.xaero_multiple_waypoint_info": {
+    "en": "Multiple Waypoint Distances",
+    "zh": "多路径点距离",
+    "vi": "khoảng cách điểm đa đường"
+  },
+  "gui.xaero_box_multiple_waypoint_info": {
+    "en": "Whether the distance can be displayed for multiple waypoints in world at once. By default, only the distance to the closest waypoint to the crosshair is displayed. Use the \"Distance to WP\" setting to configure which waypoints the distance could even be shown for.",
+    "zh": "是否可以同时显示世界中多个路径点的距离。默认情况下，只显示最靠近准星的路径点的距离。使用“到路径点的距离”设置来配置可以为哪些路径点显示距离。",
+    "vi": "Có thể hiển thị khoảng cách của nhiều điểm tham chiếu trên thế giới cùng một lúc không? Theo mặc định, chỉ khoảng cách đến điểm tham chiếu gần tâm ngắm nhất được hiển thị. Sử dụng cài đặt Khoảng cách đến điểm tham chiếu để định cấu hình điểm tham chiếu nào có thể hiển thị khoảng cách."
+  },
+  "gui.xaero_while_sneaking": {
+    "en": "Sneaking",
+    "zh": "潜行时",
+    "vi": "Trong khi lén lút"
+  },
+  "gui.xaero_multiple_waypoints_always": {
+    "en": "Always",
+    "zh": "始终",
+    "vi": "luôn luôn"
+  },
+  "gui.xaero_narrator_select_nothing": {
+    "en": "Nothing",
+    "zh": "无",
+    "vi": "không có"
+  },
+  "gui.xaero_category_setting_inherit": {
+    "en": "-",
+    "zh": "-",
+    "vi": "-"
+  },
+  "gui.xaero_category_expanded_options": {
+    "en": "%s (Choose an Option)",
+    "zh": "%s（选择一个选项）",
+    "vi": "%s (chọn một tùy chọn)"
+  },
+  "gui.xaero_entity_category_root": {
+    "en": "Any",
+    "zh": "任意",
+    "vi": "tùy tiện"
+  },
+  "gui.xaero_entity_category_living": {
+    "en": "Living",
+    "zh": "生物",
+    "vi": "sinh vật học"
+  },
+  "gui.xaero_entity_category_hostile": {
+    "en": "Hostile",
+    "zh": "敌对",
+    "vi": "sự thù địch"
+  },
+  "gui.xaero_entity_category_friendly": {
+    "en": "Friendly",
+    "zh": "友好",
+    "vi": "thân thiện"
+  },
+  "gui.xaero_entity_category_hostile_tamed": {
+    "en": "Tamed",
+    "zh": "已驯服",
+    "vi": "thuần hóa"
+  },
+  "gui.xaero_entity_category_friendly_tamed": {
+    "en": "Tamed",
+    "zh": "已驯服",
+    "vi": "thuần hóa"
+  },
+  "gui.xaero_entity_category_players": {
+    "en": "Player",
+    "zh": "玩家",
+    "vi": "người chơi"
+  },
+  "gui.xaero_entity_category_same_team": {
+    "en": "From the Same Team",
+    "zh": "来自同一队伍",
+    "vi": "từ cùng một đội"
+  },
+  "gui.xaero_entity_category_other_teams": {
+    "en": "From Other Teams",
+    "zh": "来自其他队伍",
+    "vi": "từ các đội khác"
+  },
+  "gui.xaero_entity_category_items": {
+    "en": "Item",
+    "zh": "物品",
+    "vi": "điều"
+  },
+  "gui.xaero_entity_category_other_entities": {
+    "en": "Other",
+    "zh": "其他",
+    "vi": "khác"
+  },
+  "gui.xaero_category_settings": {
+    "en": "Settings",
+    "zh": "设置",
+    "vi": "cài đặt"
+  },
+  "gui.xaero_category_include_list": {
+    "en": "Include List",
+    "zh": "包含列表",
+    "vi": "Chứa danh sách"
+  },
+  "gui.xaero_box_category_include_list2": {
+    "en": "A list of entities to include in the (sub-)category on top of the entities included by the \"Hard Include\".",
+    "zh": "在“硬包含”包含的实体之外，要额外包含到（子）类别中的实体列表。",
+    "vi": "Danh sách các thực thể sẽ được đưa thêm vào các danh mục (phụ) ngoài những thực thể được đưa vào \"bao gồm cứng\"."
+  },
+  "gui.xaero_category_exclude_list": {
+    "en": "Exclude List",
+    "zh": "排除列表",
+    "vi": "danh sách loại trừ"
+  },
+  "gui.xaero_box_category_exclude_list2": {
+    "en": "A list of entities to exclude from the entities already included in the (sub-)category. Can work both as a \"whitelist\" and a \"blacklist\" depending on the exclusion mode you choose. This does not remove entities from the entity radar, unless you're excluding from the root \"Any\" category. The \"Display\" setting can remove entities from the radar.",
+    "zh": "要从已包含在（子）类别中的实体中排除的实体列表。根据你选择的排除模式，它可以作为“白名单”或“黑名单”工作。这不会从实体雷达中移除实体，除非你从根“任意”类别中排除。“显示”设置可以从雷达中移除实体。",
+    "vi": "Danh sách các thực thể cần loại trừ khỏi các thực thể đã có trong danh mục (phụ). Tùy thuộc vào chế độ loại trừ bạn chọn, nó có thể hoạt động dưới dạng \"danh sách trắng\" hoặc \"danh sách đen\". Điều này sẽ không xóa thực thể khỏi radar thực thể trừ khi bạn loại trừ nó khỏi danh mục \"bất kỳ\" gốc. Cài đặt \"Hiển thị\" sẽ xóa các thực thể khỏi radar."
+  },
+  "gui.xaero_category_add_subcategory": {
+    "en": "Add Sub-Category",
+    "zh": "添加子类别",
+    "vi": "Thêm danh mục phụ"
+  },
+  "gui.xaero_category_hard_include": {
+    "en": "Hard Include",
+    "zh": "硬包含",
+    "vi": "Bao gồm cứng"
+  },
+  "gui.xaero_box_category_hard_include2": {
+    "en": "Controls which entities to automatically include in the (sub-)category without having to put them in the include list manually.",
+    "zh": "控制哪些实体自动包含在（子）类别中，而无需手动将它们放入包含列表。",
+    "vi": "Kiểm soát các thực thể nào được tự động đưa vào danh mục (phụ) mà không cần phải đưa chúng vào danh sách bao gồm theo cách thủ công."
+  },
+  "gui.xaero_category_list_add": {
+    "en": "Add To List...",
+    "zh": "添加到列表...",
+    "vi": "Thêm vào danh sách..."
+  },
+  "gui.xaero_category_exclude_list_mode": {
+    "en": "Exclusion Mode",
+    "zh": "排除模式",
+    "vi": "loại trừ mẫu"
+  },
+  "gui.xaero_category_name": {
+    "en": "Category Name...",
+    "zh": "类别名称...",
+    "vi": "Tên chuyên mục..."
+  },
+  "gui.xaero_category_confirm": {
+    "en": "Confirm",
+    "zh": "确认",
+    "vi": "xác nhận"
+  },
+  "gui.xaero_category_delete": {
+    "en": "Delete Category",
+    "zh": "删除类别",
+    "vi": "Xóa danh mục"
+  },
+  "gui.xaero_category_delete_confirm": {
+    "en": "Delete the following category?",
+    "zh": "删除以下类别？",
+    "vi": "Xóa các danh mục sau?"
+  },
+  "gui.xaero_category_enable_protection": {
+    "en": "Protection: OFF",
+    "zh": "保护：关",
+    "vi": "Bảo vệ: tắt"
+  },
+  "gui.xaero_category_disable_protection": {
+    "en": "Protection: ON",
+    "zh": "保护：开",
+    "vi": "Bảo vệ: Bật"
+  },
+  "gui.xaero_category_disable_protection_confirm": {
+    "en": "Disable protection for the following category?",
+    "zh": "禁用以下类别的保护？",
+    "vi": "Tắt tính năng bảo vệ cho các danh mục sau?"
+  },
+  "gui.xaero_category_enable_protection_confirm": {
+    "en": "Enable protection for the following category?",
+    "zh": "启用以下类别的保护？",
+    "vi": "Bật tính năng bảo vệ cho các danh mục sau?"
+  },
+  "gui.xaero_box_category_protection": {
+    "en": "Category protection prevents you from (accidentally) deleting, moving, renaming a category or changing its \"Hard Include\" setting.",
+    "zh": "类别保护可防止你（意外）删除、移动、重命名类别或更改其“硬包含”设置。",
+    "vi": "Bảo vệ danh mục ngăn bạn (vô tình) xóa, di chuyển, đổi tên danh mục hoặc thay đổi cài đặt \"bao gồm cứng\" của chúng."
+  },
+  "gui.xaero_category_protected_category": {
+    "en": "Protected!",
+    "zh": "已保护！",
+    "vi": "Được bảo vệ!"
+  },
+  "gui.xaero_category_category_move_up": {
+    "en": "Increase Priority",
+    "zh": "提高优先级",
+    "vi": "Tăng mức độ ưu tiên"
+  },
+  "gui.xaero_category_category_move_down": {
+    "en": "Decrease Priority",
+    "zh": "降低优先级",
+    "vi": "Mức độ ưu tiên thấp hơn"
+  },
+  "gui.xaero_category_delete_list_element": {
+    "en": "Delete",
+    "zh": "删除",
+    "vi": "xóa bỏ"
+  },
+  "gui.xaero_category_settings_confirm": {
+    "en": "Confirm",
+    "zh": "确认",
+    "vi": "xác nhận"
+  },
+  "gui.xaero_category_settings_cancel": {
+    "en": "Cancel",
+    "zh": "取消",
+    "vi": "Hủy bỏ"
+  },
+  "gui.xaero_category_settings_cancel_confirm": {
+    "en": "Leave without saving your changes?",
+    "zh": "不保存更改就离开？",
+    "vi": "Thoát mà không lưu thay đổi?"
+  },
+  "gui.xaero_category_settings_reset": {
+    "en": "Reset Defaults",
+    "zh": "重置为默认值",
+    "vi": "đặt lại về mặc định"
+  },
+  "gui.xaero_category_settings_reset_confirm1": {
+    "en": "Reset the category configuration to default values?",
+    "zh": "将类别配置重置为默认值？",
+    "vi": "Đặt lại cấu hình danh mục về mặc định?"
+  },
+  "gui.xaero_category_settings_reset_confirm2": {
+    "en": "Custom categories will be removed and the default ones will be reset.",
+    "zh": "自定义类别将被移除，默认类别将被重置。",
+    "vi": "Các danh mục tùy chỉnh sẽ bị xóa và các danh mục mặc định sẽ được đặt lại."
+  },
+  "gui.xaero_radar_displayed": {
+    "en": "Display",
+    "zh": "显示",
+    "vi": "trình diễn"
+  },
+  "gui.xaero_radar_dots_color": {
+    "en": "Dot Color",
+    "zh": "圆点颜色",
+    "vi": "màu chấm"
+  },
+  "gui.xaero_radar_icons_displayed": {
+    "en": "Icons",
+    "zh": "图标",
+    "vi": "biểu tượng"
+  },
+  "gui.xaero_radar_names_displayed": {
+    "en": "Names",
+    "zh": "名称",
+    "vi": "tên"
+  },
+  "gui.xaero_radar_render_order": {
+    "en": "Render Order",
+    "zh": "渲染顺序",
+    "vi": "Thứ tự hiển thị"
+  },
+  "gui.xaero_box_radar_render_order": {
+    "en": "Controls the order in which the radar categories are rendered. A lower number means being rendered earlier. However, in the newer Minecraft versions dots are always rendered on top of the icons. The order still applies within dot or icon rendering though.",
+    "zh": "控制雷达类别的渲染顺序。数字越小表示越早渲染。但是，在新版 Minecraft 中，圆点总是渲染在图标的上面。不过，顺序在圆点或图标渲染内部仍然适用。",
+    "vi": "Kiểm soát thứ tự hiển thị của các danh mục radar. Số thấp hơn có nghĩa là kết xuất sớm hơn. Tuy nhiên, trong các phiên bản Minecraft mới hơn, các dấu chấm luôn hiển thị trên đầu các biểu tượng. Tuy nhiên, thứ tự vẫn được áp dụng bên trong kết xuất dấu chấm hoặc biểu tượng."
+  },
+  "gui.xaero_radar_dots_color_team_colour": {
+    "en": "Team Color",
+    "zh": "队伍颜色",
+    "vi": "Màu đội"
+  },
+  "gui.xaero_box_always_entity_nametags2": {
+    "en": "Always render names for entities with name tags regardless of what the name setting is set to.",
+    "zh": "无论名称设置为何，始终渲染带有名称标签的实体的名称。",
+    "vi": "Bất kể cài đặt tên là gì, tên của thực thể có thẻ tên luôn được hiển thị."
+  },
+  "gui.xaero_radar_setting_displayed": {
+    "en": "Display Radar",
+    "zh": "显示雷达",
+    "vi": "hiển thị radar"
+  },
+  "gui.xaero_radar_setting_names": {
+    "en": "Display Names",
+    "zh": "显示名称",
+    "vi": "tên hiển thị"
+  },
+  "gui.xaero_radar_setting_icons": {
+    "en": "Display Icons",
+    "zh": "显示图标",
+    "vi": "hiển thị biểu tượng"
+  },
+  "gui.xaero_toggle_entity_radar": {
+    "en": "Toggle Entity Radar",
+    "zh": "切换实体雷达",
+    "vi": "Chuyển đổi radar thực thể"
+  },
+  "narration.xaero_ui_list_left_right_usage": {
+    "en": "Press LEFT and RIGHT buttons to select a column within the entry.",
+    "zh": "按左右按钮选择条目中的一列。",
+    "vi": "Nhấn nút trái và phải để chọn một cột trong mục nhập."
+  },
+  "gui.xaero_category_help2": {
+    "en": "Select a sub-category and go to its Settings to configure things like dot color, names, icons etc. \n \n Sub-categories that are higher on the list are prioritized when multiple sub-categories include the same entity! Keep that in mind when creating custom categories. Usually, a new custom category should be placed at the top.",
+    "zh": "选择一个子类别并进入其设置，以配置诸如圆点颜色、名称、图标等内容。\n\n当多个子类别包含同一个实体时，列表中位置较高的子类别优先！创建自定义类别时请记住这一点。通常，新的自定义类别应放在顶部。",
+    "vi": "Chọn một danh mục phụ và đi tới cài đặt của danh mục đó để định cấu hình những thứ như màu chấm, tên, biểu tượng, v.v.\n\nKhi nhiều danh mục con chứa cùng một thực thể, danh mục con cao hơn trong danh sách sẽ được ưu tiên! Hãy ghi nhớ điều này khi tạo danh mục tùy chỉnh. Thông thường, các danh mục tùy chỉnh mới nên được đặt ở trên cùng."
+  },
+  "gui.xaero_update_notification": {
+    "en": "Update Notifications",
+    "zh": "更新通知",
+    "vi": "Cập nhật thông báo"
+  },
+  "gui.xaero_category_cut": {
+    "en": "Cut/Move §e%1$s",
+    "zh": "剪切/移动 §e%1$s",
+    "vi": "Cắt/Di chuyển §e%1$s"
+  },
+  "gui.xaero_category_paste": {
+    "en": "Paste §e%1$s§r Into §e%2$s",
+    "zh": "粘贴 §e%1$s§r 到 §e%2$s",
+    "vi": "Dán §e%1$s§r vào §e%2$s"
+  },
+  "gui.xaero_category_paste_cancel": {
+    "en": "Cancel Cut/Paste",
+    "zh": "取消剪切/粘贴",
+    "vi": "Hủy cắt/dán"
+  },
+  "gui.xaero_category_duplicate": {
+    "en": "Duplicate §e%1$s",
+    "zh": "复制 §e%1$s",
+    "vi": "Sao chép §e%1$s"
+  },
+  "gui.xaero_category_duplicate_confirm": {
+    "en": "Duplicate the following category?",
+    "zh": "复制以下类别？",
+    "vi": "Sao chép các danh mục sau đây?"
+  },
+  "gui.xaero_reverse_entity_radar": {
+    "en": "Reverse Radar Render Order",
+    "zh": "反转雷达渲染顺序",
+    "vi": "Thứ tự hiển thị radar ngược"
+  },
+  "gui.xaero_adjust_height_for_carpetlike_blocks": {
+    "en": "Adjust Y For Short Blocks",
+    "zh": "为薄型方块调整 Y 值",
+    "vi": "Điều chỉnh giá trị Y cho khối mỏng"
+  },
+  "gui.xaero_box_adjust_height_for_carpetlike_blocks": {
+    "en": "Subtract 1 from the height value for short carpetlike blocks, e.g. carpet, 1-layer snow, lilypad etc. This prevents such blocks from causing harsh shading on the map like a full block.",
+    "zh": "为地毯、单层雪、睡莲等薄型方块的高度值减去 1。这可以防止此类方块像完整方块一样在地图上产生刺眼的阴影。",
+    "vi": "Trừ 1 từ chiều cao của các khối mỏng như thảm, lớp tuyết đơn, hoa súng, v.v. Điều này ngăn các khối như vậy tạo ra bóng khắc nghiệt trên bản đồ như các khối đầy đủ."
+  },
+  "gui.xaero_box_category": {
+    "en": "View/Edit §e%1$s",
+    "zh": "查看/编辑 §e%1$s",
+    "vi": "Xem/Chỉnh sửa §e%1$s"
+  },
+  "gui.xaero_box_category_settings": {
+    "en": "Settings For §e%1$s",
+    "zh": "§e%1$s 的设置",
+    "vi": "Cài đặt cho §e%1$s"
+  },
+  "gui.xaero_auto_convert_wp_distance_km": {
+    "en": "Convert Distance to KM at",
+    "zh": "在以下距离时将距离转换为公里",
+    "vi": "Chuyển đổi khoảng cách sang km khi"
+  },
+  "gui.xaero_auto_convert_wp_distance_km_never": {
+    "en": "Never",
+    "zh": "从不",
+    "vi": "Không bao giờ"
+  },
+  "gui.xaero_waypoint_distance_precision": {
+    "en": "Waypoint Distance Precision",
+    "zh": "路径点距离精度",
+    "vi": "Độ chính xác khoảng cách điểm"
+  },
+  "gui.xaero_sort_angle": {
+    "en": "Angular Distance",
+    "zh": "角距离",
+    "vi": "Khoảng cách góc"
+  },
+  "gui.xaero_toggle_enabled": {
+    "en": "Enabled",
+    "zh": "已启用",
+    "vi": "Đã bật"
+  },
+  "gui.xaero_toggle_disabled": {
+    "en": "Disabled",
+    "zh": "已禁用",
+    "vi": "Tàn tật"
+  },
+  "gui.xaero_main_entity_dot_size": {
+    "en": "Main Entity Dot Size",
+    "zh": "主要实体圆点大小",
+    "vi": "Kích thước dấu chấm thực thể chính"
+  },
+  "gui.xaero_category_settings_save_confirm": {
+    "en": "Save changes before you exit?",
+    "zh": "退出前保存更改？",
+    "vi": "Lưu các thay đổi trước khi thoát?"
+  },
+  "gui.xaero_category_settings_save_confirm_warning": {
+    "en": "Warning: This confirmation screen was recently replaced!",
+    "zh": "警告：此确认界面最近已被替换！",
+    "vi": "Cảnh báo: Màn hình xác nhận này gần đây đã được thay thế!"
+  },
+  "gui.xaero_start_fading_at": {
+    "en": "Min Y Distance For Depth Fade",
+    "zh": "深度渐隐的最小 Y 距离",
+    "vi": "Khoảng cách Y tối thiểu để làm mờ độ sâu"
+  },
+  "gui.xaero_box_start_fading_at": {
+    "en": "Minimum Y level difference requirement for an entity to start darkening on the radar when the \"Show Entity Depth\" setting is enabled.",
+    "zh": "启用“显示实体深度”设置时，实体开始在雷达上变暗所需的最小 Y 等级差异。",
+    "vi": "Chênh lệch mức Y tối thiểu cần thiết để một thực thể bắt đầu tối đi trên radar khi cài đặt Hiển thị độ sâu thực thể được bật."
+  },
+  "gui.xaero_start_fading_at_auto": {
+    "en": "Auto",
+    "zh": "自动",
+    "vi": "tự động"
+  },
+  "gui.xaero_legacy_color": {
+    "en": "Legacy",
+    "zh": "旧版",
+    "vi": "Phiên bản cũ"
+  },
+  "gui.xaero_partial_y_teleportation": {
+    "en": "Use Y With Partial When TP",
+    "zh": "传送时使用带小数的 Y 值",
+    "vi": "Sử dụng giá trị Y thập phân khi truyền"
+  },
+  "gui.xaero_box_partial_y_teleportation": {
+    "en": "When teleporting to a waypoint, offset the Y coordinate by 0.5 to avoid falling through carpet-like blocks into the void. Otherwise, the integer Y coordinate is used.",
+    "zh": "传送到路径点时，将 Y 坐标偏移 0.5，以避免掉落地毯类方块落入虚空。否则，将使用整数 Y 坐标。",
+    "vi": "Khi dịch chuyển đến một điểm tham chiếu, hãy bù tọa độ Y 0,5 để tránh các khối giống như tấm thảm rơi vào khoảng trống. Mặt khác, tọa độ số nguyên Y được sử dụng."
+  },
+  "gui.xaero_delete_reached_deathpoints": {
+    "en": "Delete Reached Deathpoints",
+    "zh": "删除已到达的死亡点",
+    "vi": "Xóa điểm chết đạt được"
+  },
+  "gui.xaero_box_delete_reached_deathpoints": {
+    "en": "Automatically delete deathpoints when you are within 4 blocks from them. This requires the deathpoint to be visible in world or on the minimap. A deathpoint is protected from deletion for 5 seconds after its creation.",
+    "zh": "当你距离死亡点 4 格以内时自动删除它。这需要死亡点在世界上或小地图上可见。死亡点创建后有 5 秒的保护期，防止被删除。",
+    "vi": "Tự động xóa nó khi bạn ở trong phạm vi 4 khối chết. Điều này yêu cầu điểm chết phải hiển thị trên thế giới hoặc trên bản đồ nhỏ. Có khoảng thời gian bảo vệ 5 giây sau khi điểm chết được tạo để ngăn nó bị xóa."
+  },
+  "gui.xaero_hide_minimap_under_screen": {
+    "en": "Hide When Under Screen",
+    "zh": "在界面下时隐藏",
+    "vi": "Ẩn khi ở dưới giao diện"
+  },
+  "gui.xaero_box_hide_minimap_under_screen": {
+    "en": "Hide the minimap when a GUI screen is open, e.g. the inventory, with the exception of minimap-related screens and the chat screen.",
+    "zh": "当 GUI 界面（例如背包）打开时隐藏小地图，但与地图相关的界面和聊天界面除外。",
+    "vi": "Ẩn bản đồ nhỏ khi giao diện GUI (ví dụ: ba lô) mở, ngoại trừ giao diện liên quan đến bản đồ và giao diện trò chuyện."
+  },
+  "gui.xaero_north_compass_color": {
+    "en": "North Compass Color",
+    "zh": "北方向指南针颜色",
+    "vi": "Màu la bàn hướng bắc"
+  },
+  "gui.xaero_north_compass_color_default": {
+    "en": "Default",
+    "zh": "默认",
+    "vi": "mặc định"
+  },
+  "gui.xaero_category_add_to_list_custom": {
+    "en": "Confirm Custom Input: %1$s",
+    "zh": "确认自定义输入：%1$s",
+    "vi": "Xác nhận đầu vào tùy chỉnh: %1$s"
+  },
+  "gui.xaero_box_category_list_add": {
+    "en": "Supports player names, entity/item identifiers or patterns with special characters * ) ( and |. \n \n * - matches anything. \n )( - parenthesis, mostly for usage with |. \n | - the OR operator to match different sequences in the same location. \n \n For example: \n minecraft:creeper \n minecraft:zombie(_villager|_horse) - zombie villagers and horses. \n minecraft:a*l - any vanilla entity which starts with 'a' and ends with 'l'.",
+    "zh": "支持玩家名称、实体/物品标识符或包含特殊字符 * ) ( 和 | 的模式。\n\n* - 匹配任意内容。\n)( - 括号，主要用于与 | 一起使用。\n| - 或运算符，用于在同一位置匹配不同的序列。\n\n例如：\nminecraft:creeper\nminecraft:zombie(_villager|_horse) - 僵尸村民和僵尸马。\nminecraft:a*l - 任何以 'a' 开头并以 'l' 结尾的原版实体。",
+    "vi": "Hỗ trợ tên người chơi, mã định danh thực thể/vật phẩm hoặc mẫu chứa các ký tự đặc biệt * ) ( và |\n\n* - khớp với bất kỳ thứ gì.\n)( - dấu ngoặc, chủ yếu được sử dụng với |\n| - Toán tử OR, dùng để so khớp các chuỗi khác nhau ở cùng một vị trí.\n\nVí dụ:\nminecraft:cây leo\nminecraft:zombie(_villager|_horse) - Dân làng zombie và ngựa zombie.\nminecraft:a*l - Bất kỳ thực thể vanilla nào bắt đầu bằng 'a' và kết thúc bằng 'l'."
+  },
+  "gui.xaero_using_custom_subworld": {
+    "en": "Waypoints: %1$s",
+    "zh": "路径点：%1$s",
+    "vi": "Điểm tham chiếu: %1$s"
+  },
+  "gui.xaero_hide_minimap_under_f3": {
+    "en": "Hide When Under F3",
+    "zh": "在 F3 下时隐藏",
+    "vi": "Ẩn khi ở dưới F3"
+  },
+  "gui.xaero_box_hide_minimap_under_f3": {
+    "en": "Hide the minimap when the F3 debug screen is enabled.",
+    "zh": "当 F3 调试界面启用时隐藏小地图。",
+    "vi": "Ẩn bản đồ nhỏ khi bật giao diện gỡ lỗi F3."
+  },
+  "gui.xaero_entity_display_height": {
+    "en": "Display Height",
+    "zh": "显示高度",
+    "vi": "Chiều cao hiển thị"
+  },
+  "gui.xaero_entity_display_height_full": {
+    "en": "Display Entity Height",
+    "zh": "显示实体高度",
+    "vi": "Hiển thị chiều cao thực thể"
+  },
+  "gui.xaero_block_light_value": {
+    "en": "BL: %d",
+    "zh": "方块光：%d",
+    "vi": "Khối ánh sáng: %d"
+  },
+  "gui.xaero_sky_light_value": {
+    "en": "SL: %d",
+    "zh": "天空光：%d",
+    "vi": "Đèn trời: %d"
+  },
+  "gui.xaero_all_light_value": {
+    "en": "L: %d",
+    "zh": "光：%d",
+    "vi": "Ánh sáng:%d"
+  },
+  "gui.xaero_both_light_value": {
+    "en": "BL: %d SL: %d",
+    "zh": "方块光：%d 天空光：%d",
+    "vi": "Đèn vuông: %d Đèn trời: %d"
+  },
+  "gui.xaero_toggle_manual_cave_mode": {
+    "en": "Toggle Manual Cave Mode",
+    "zh": "切换手动洞穴模式",
+    "vi": "Chuyển sang chế độ hang thủ công"
+  },
+  "gui.xaero_manual_cave_mode": {
+    "en": "Manual Cave Mode",
+    "zh": "手动洞穴模式",
+    "vi": "Chế độ hang thủ công"
+  },
+  "gui.xaero_manual_cave_mode_start": {
+    "en": "Manual Cave Mode Start Y",
+    "zh": "手动洞穴模式起始 Y 值",
+    "vi": "Chế độ hang động thủ công bắt đầu giá trị Y"
+  },
+  "gui.xaero_box_manual_cave_mode_start": {
+    "en": "Which Y level to start mapping blocks from when the manual cave mode is enabled. Manual cave mode can be toggled with a key binding. For the \"Auto\" option, go all the way to the left.",
+    "zh": "启用手动洞穴模式时，开始映射方块的 Y 等级。手动洞穴模式可以通过按键绑定切换。对于“自动”选项，请一直向左拖动。",
+    "vi": "Bắt đầu ánh xạ cấp độ Y của khối khi bật chế độ hang động thủ công. Chế độ hang động thủ công có thể được chuyển đổi thông qua các tổ hợp phím. Đối với tùy chọn Tự động, hãy kéo hết cỡ sang trái."
+  },
+  "gui.xaero_manual_cave_mode_start_auto": {
+    "en": "Auto",
+    "zh": "自动",
+    "vi": "tự động"
+  },
+  "gui.xaero_chunk_grid_line_width": {
+    "en": "Chunk Grid Line Width",
+    "zh": "区块网格线宽",
+    "vi": "Chặn chiều rộng đường lưới"
+  },
+  "gui.xaero_radar_render_over_minimap": {
+    "en": "Render Over Minimap Frame",
+    "zh": "在小地图边框上方渲染",
+    "vi": "Hiển thị phía trên đường viền bản đồ nhỏ"
+  },
+  "gui.xaero_box_radar_render_over_minimap": {
+    "en": "Render the entities over the minimap frame instead of rendering them inside the frame. Entities rendered this way act similarly to the waypoints and stick to the border when out of bounds. Visible entities are still limited to the ones loaded on the game client side though. \n \n Option \"Player List\" - render over minimap only when the \"List Players\" key binding (TAB by default) is pressed.",
+    "zh": "将实体渲染在小地图边框之上，而不是边框之内。以这种方式渲染的实体行为类似于路径点，并在超出边界时贴附在边界上。不过，可见实体仍然仅限于游戏客户端加载的实体。\n\n选项“玩家列表” - 仅在按下“列出玩家”按键绑定（默认为 TAB）时渲染在边框之上。",
+    "vi": "Hiển thị các thực thể phía trên đường viền bản đồ nhỏ thay vì bên trong nó. Các thực thể được hiển thị theo cách này hoạt động giống như các điểm tham chiếu và bám sát các ranh giới khi vượt quá. Tuy nhiên, các thực thể hiển thị vẫn bị giới hạn ở những thực thể được tải bởi ứng dụng khách trò chơi.\n\nTùy chọn \"Danh sách người chơi\" - Chỉ hiển thị qua đường viền khi nhấn tổ hợp phím \"Danh sách người chơi\" (mặc định là TAB)."
+  },
+  "gui.xaero_radar_render_radar_over_frame": {
+    "en": "Render Radar Over Frame",
+    "zh": "在边框上方渲染雷达",
+    "vi": "Kết xuất radar phía trên đường viền"
+  },
+  "gui.xaero_radar_over_map_never": {
+    "en": "Never",
+    "zh": "从不",
+    "vi": "Không bao giờ"
+  },
+  "gui.xaero_radar_over_map_list": {
+    "en": "Player List",
+    "zh": "玩家列表",
+    "vi": "danh sách người chơi"
+  },
+  "gui.xaero_radar_over_map_always": {
+    "en": "Always",
+    "zh": "始终",
+    "vi": "luôn luôn"
+  },
+  "gui.xaero_compass_over_everything": {
+    "en": "Compass Over Everything",
+    "zh": "指南针置于所有元素之上",
+    "vi": "La bàn đặt trên tất cả các yếu tố"
+  },
+  "gui.xaero_box_compass_over_everything": {
+    "en": "Render the cardinal direction letters (N, E, S, W) above all map elements, as opposed to under some, e.g. waypoints.",
+    "zh": "将基本方位字母（北、东、南、西）渲染在所有地图元素之上，而不是在某些元素（例如路径点）之下。",
+    "vi": "Hiển thị các chữ cái góc phương vị chính (Bắc, Đông, Nam, Tây) phía trên tất cả các thành phần bản đồ thay vì bên dưới một số thành phần (chẳng hạn như điểm tham chiếu)."
+  },
+  "gui.xaero_waypoint_server_shared": {
+    "en": "Server",
+    "zh": "服务器",
+    "vi": "máy chủ"
+  },
+  "gui.xaero_waypoint_somebody_shared": {
+    "en": "Somebody",
+    "zh": "某人",
+    "vi": "người nào đó"
+  },
+  "gui.xaero_tracked_players": {
+    "en": "Display Tracked Players",
+    "zh": "显示追踪玩家",
+    "vi": "Hiển thị người chơi theo dõi"
+  },
+  "gui.xaero_box_tracked_players": {
+    "en": "Display players whose locations are shared with you in one way or another (usually your party) when they are out of the minimap frame bounds or not visible for another reason.",
+    "zh": "当与你以某种方式共享位置信息的玩家（通常是你的队伍成员）超出小地图边框范围或因其他原因不可见时，显示他们。",
+    "vi": "Hiển thị những người chơi chia sẻ vị trí của họ với bạn theo một cách nào đó (thường là thành viên trong nhóm của bạn) khi họ ở ngoài biên giới bản đồ nhỏ hoặc vô hình."
+  },
+  "gui.xaero_toggle_pac_chunk_claims": {
+    "en": "Toggle Chunk Claims",
+    "zh": "切换区块认领",
+    "vi": "Yêu cầu chặn chuyển đổi"
+  },
+  "gui.xaero_pac_marked_for_forceload": {
+    "en": " (Forceloadable)",
+    "zh": "（可强制加载）",
+    "vi": "(Có thể buộc phải tải)"
+  },
+  "gui.xaero_pac_claim_tooltip": {
+    "en": "%1$s's Claim%2$s",
+    "zh": "%1$s 的领地%2$s",
+    "vi": "Lãnh thổ của %1$s%2$s"
+  },
+  "gui.xaero_pac_server_claim_tooltip": {
+    "en": "Server Claim%1$s",
+    "zh": "服务器领地%1$s",
+    "vi": "Lãnh thổ máy chủ%1$s"
+  },
+  "gui.xaero_pac_expired_claim_tooltip": {
+    "en": "Expired Claim%1$s",
+    "zh": "过期的领地%1$s",
+    "vi": "Lãnh thổ hết hạn %1$s"
+  },
+  "gui.xaero_pac_claims": {
+    "en": "Display Chunk Claims",
+    "zh": "显示区块认领",
+    "vi": "Hiển thị yêu cầu chặn"
+  },
+  "gui.xaero_box_pac_claims": {
+    "en": "Display chunk claims from the Open Parties and Claims mod as a colored overlay.",
+    "zh": "将来自 Open Parties and Claims 模组的区块认领显示为彩色叠加层。",
+    "vi": "Hiển thị các khiếu nại khối từ mod Bên mở và Khiếu nại dưới dạng lớp phủ màu."
+  },
+  "gui.xaero_pac_claims_border_opacity": {
+    "en": "Chunk Claims Border Opacity",
+    "zh": "区块认领边框透明度",
+    "vi": "Chặn yêu cầu minh bạch về biên giới"
+  },
+  "gui.xaero_box_pac_claims_border_opacity": {
+    "en": "The opacity of the chunk claims overlay border color. Chunk claims require the Open Parties and Claims mod.",
+    "zh": "区块认领叠加层边框颜色的透明度。区块认领需要 Open Parties and Claims 模组。",
+    "vi": "Độ trong suốt của màu đường viền lớp phủ yêu cầu khối. Việc xác nhận quyền sở hữu bị chặn yêu cầu Mod Bên mở và Khiếu nại."
+  },
+  "gui.xaero_pac_claims_fill_opacity": {
+    "en": "Chunk Claims Fill Opacity",
+    "zh": "区块认领填充透明度",
+    "vi": "Chặn tính minh bạch của yêu cầu điền"
+  },
+  "gui.xaero_box_pac_claims_fill_opacity": {
+    "en": "The opacity of the chunk claims overlay fill color. Chunk claims require the Open Parties and Claims mod.",
+    "zh": "区块认领叠加层填充颜色的透明度。区块认领需要 Open Parties and Claims 模组。",
+    "vi": "Độ trong suốt của màu tô lớp phủ yêu cầu khối. Việc xác nhận quyền sở hữu bị chặn yêu cầu Mod Bên mở và Khiếu nại."
+  },
+  "gui.xaero_pac_current_claim": {
+    "en": "Display Current Claim",
+    "zh": "显示当前领地",
+    "vi": "Hiển thị lãnh thổ hiện tại"
+  },
+  "gui.xaero_box_pac_current_claim": {
+    "en": "Display claim information about the chunk that you are in. Chunk claims require the Open Parties and Claims mod.",
+    "zh": "显示你所在的区块的领地信息。区块认领需要 Open Parties and Claims 模组。",
+    "vi": "Hiển thị thông tin lãnh thổ cho khối bạn đang ở. Việc xác nhận quyền sở hữu khối yêu cầu Mod Các bên mở và Khiếu nại."
+  },
+  "gui.xaero_category_include_list_include_in_super": {
+    "en": "Include in Super-Category",
+    "zh": "包含到上级类别中",
+    "vi": "được bao gồm trong danh mục cha mẹ"
+  },
+  "gui.xaero_box_category_include_list_include_in_super": {
+    "en": "Automatically include all entities from this list, and other lists included in this category, in the super-category/parent of this category, except the entities in the exclude list. That way you don't have to manually add duplicates on each level.",
+    "zh": "自动将此列表以及此类别中包含的其他列表中的所有实体包含到此类别的上级/父类别中，排除列表中的实体除外。这样你就不必在每个层级手动添加重复项。",
+    "vi": "Tự động đưa tất cả các thực thể trong danh sách này và các danh sách khác có trong danh mục này vào danh mục chính/mẹ của danh mục này, ngoại trừ các thực thể trong danh sách loại trừ. Bằng cách này, bạn không phải thêm các bản sao ở mỗi cấp độ theo cách thủ công."
+  },
+  "gui.xaero_box_category_include_list_include_in_super2": {
+    "en": "Automatically include all elements from this list, and other sub-lists included in this category, in the super-category/parent of this category. That way you don't have to manually add duplicates on each level. Keep in mind that super-categories are not going to check the exclusion lists of this category.",
+    "zh": "自动将此列表以及此类别中包含的其他子列表中的所有元素包含到此类别的上级/父类别中。这样你就不必在每个层级手动添加重复项。请记住，上级类别不会检查此类别的排除列表。",
+    "vi": "Tự động bao gồm tất cả các thành phần từ danh sách này và các danh sách phụ khác có trong danh mục này vào danh mục chính/mẹ của danh mục này. Bằng cách này, bạn không phải thêm các bản sao ở mỗi cấp độ theo cách thủ công. Hãy nhớ rằng các danh mục chính không kiểm tra danh sách loại trừ của danh mục này."
+  },
+  "gui.xaero_temp_waypoints_global": {
+    "en": "Global Temporary Waypoints",
+    "zh": "全局临时路径点",
+    "vi": "điểm tham chiếu tạm thời toàn cầu"
+  },
+  "gui.xaero_box_temp_waypoints_global": {
+    "en": "When enabled, temporary waypoints are treated as global waypoints and ignore the waypoint render distance limits.",
+    "zh": "启用后，临时路径点被视为全局路径点，并忽略路径点渲染距离限制。",
+    "vi": "Khi được bật, các điểm tham chiếu tạm thời được coi là điểm tham chiếu chung và các ràng buộc về khoảng cách hiển thị điểm tham chiếu sẽ bị bỏ qua."
+  },
+  "gui.xaero_keep_enlarged_minimap_unlocked": {
+    "en": "Keep Rotation When Enlarged",
+    "zh": "放大时保持旋转",
+    "vi": "Giữ xoay trong khi phóng to"
+  },
+  "gui.xaero_box_keep_enlarged_minimap_unlocked": {
+    "en": "Do not lock the minimap to north when enlarged if possible, which is only when using the circle shape at the time of writing this.",
+    "zh": "放大时，如果可能，不要将小地图锁定为北向上，这在撰写本文时仅在使用圆形形状时可行。",
+    "vi": "Khi phóng to, nếu có thể, đừng khóa bản đồ nhỏ về phía bắc, điều này tại thời điểm viết bài chỉ có thể thực hiện được khi sử dụng hình tròn."
+  },
+  "gui.xaero_enlarged_minimap_a_toggle": {
+    "en": "Toggled Enlarged Minimap",
+    "zh": "切换放大状态的小地图",
+    "vi": "Chuyển bản đồ nhỏ ở trạng thái phóng to"
+  },
+  "gui.xaero_box_enlarged_minimap_a_toggle": {
+    "en": "Treat the \"Enlarge Minimap\" key binding as a toggle instead of having to hold it.",
+    "zh": "将“放大小地图”按键绑定视为开关，而不是需要按住。",
+    "vi": "Hãy coi tổ hợp phím \"phóng to bản đồ nhỏ\" như một công tắc thay vì yêu cầu giữ."
+  },
+  "gui.xaero_waypoint_visibility_type_world_map_local": {
+    "en": "World Map Loc.",
+    "zh": "世界地图本地",
+    "vi": "bản đồ thế giới địa phương"
+  },
+  "gui.xaero_waypoint_visibility_type_world_map_global": {
+    "en": "World Map Glo.",
+    "zh": "世界地图全局",
+    "vi": "Bản đồ toàn cầu của thế giới"
+  },
+  "gui.xaero_box_visibility_type": {
+    "en": "In-World/Minimap Visibility Type \n \n Local - only visible when in the maximum waypoint render distance \n Global - always visible \n World Map Loc. - not visible but is considered local \n World Map Glo. - not visible but is considered global",
+    "zh": "世界中/小地图可见性类型\n\n本地 - 仅在最大路径点渲染距离内可见\n全局 - 始终可见\n世界地图本地 - 不可见，但被视为本地\n世界地图全局 - 不可见，但被视为全局",
+    "vi": "Loại hiển thị trong thế giới/bản đồ nhỏ\n\nCục bộ - chỉ hiển thị trong khoảng cách hiển thị điểm tham chiếu tối đa\nToàn cầu - luôn hiển thị\nBản đồ thế giới địa phương - không hiển thị nhưng được coi là địa phương\nBản đồ thế giới toàn cầu - không hiển thị, nhưng được coi là toàn cầu"
+  },
+  "gui.xaero_option_requires_ingame": {
+    "en": "This option requires you to be in game.",
+    "zh": "此选项需要您在游戏中。",
+    "vi": "Tùy chọn này yêu cầu bạn phải tham gia trò chơi."
+  },
+  "gui.xaero_alternative_list_players": {
+    "en": "\"List Players\" Alternative",
+    "zh": "“列出玩家”替代按键",
+    "vi": "Nút thay thế \"Danh sách người chơi\""
+  },
+  "gui.xaero_display_stained_glass": {
+    "en": "Display Stained Glass",
+    "zh": "显示染色玻璃",
+    "vi": "Hiển thị kính màu"
+  },
+  "gui.xaero_waypoint_onmap_scale": {
+    "en": "On-Map Waypoint Scale",
+    "zh": "地图上路径点缩放",
+    "vi": "Thu phóng các điểm tham chiếu trên bản đồ"
+  },
+  "gui.xaero_waypoint_onmap_scale_auto": {
+    "en": "Auto",
+    "zh": "自动",
+    "vi": "tự động"
+  },
+  "gui.xaero_switch_to_auto_on_death": {
+    "en": "Auto Sub-World On Death",
+    "zh": "死亡时切换到自动子世界",
+    "vi": "Chuyển sang thế giới con tự động khi chết"
+  },
+  "gui.xaero_box_switch_to_auto_on_death": {
+    "en": "Whether to switch the waypoint sub-world to auto on deathpoint creation. This doesn't affect what sub-world the deathpoint is created in.",
+    "zh": "是否在创建死亡点时将路径点子世界切换到自动。这不会影响死亡点创建在哪个子世界中。",
+    "vi": "Có nên chuyển thế giới con của điểm đường dẫn sang tự động khi tạo điểm chết hay không. Điều này không ảnh hưởng đến thế giới con mà điểm chết được tạo ra."
+  },
+  "gui.xaero_zoom_on_enlarge": {
+    "en": "Zoom Level When Enlarged",
+    "zh": "放大时的缩放等级",
+    "vi": "Mức thu phóng khi phóng to"
+  },
+  "gui.xaero_zoom_on_enlarge_auto": {
+    "en": "Auto",
+    "zh": "自动",
+    "vi": "tự động"
+  },
+  "gui.xaero_sort_color": {
+    "en": "Color",
+    "zh": "颜色",
+    "vi": "màu sắc"
+  },
+  "gui.xaero_weather_display": {
+    "en": "Display Weather Info",
+    "zh": "显示天气信息",
+    "vi": "Hiển thị thông tin thời tiết"
+  },
+  "gui.xaero_weather_raining": {
+    "en": "Raining/Snowing",
+    "zh": "下雨/下雪",
+    "vi": "mưa/tuyết"
+  },
+  "gui.xaero_weather_thundering": {
+    "en": "Thundering",
+    "zh": "雷暴",
+    "vi": "dông"
+  },
+  "gui.xaero_dropdown_waypoint_color": {
+    "en": "Waypoint Color",
+    "zh": "路径点颜色",
+    "vi": "Màu điểm tham chiếu"
+  },
+  "gui.xaero_dropdown_waypoint_set": {
+    "en": "Waypoint Set",
+    "zh": "路径点集合",
+    "vi": "thu thập điểm tham chiếu"
+  },
+  "gui.xaero_dropdown_waypoint_container": {
+    "en": "Waypoint Server/World",
+    "zh": "路径点服务器/世界",
+    "vi": "máy chủ/thế giới điểm tham chiếu"
+  },
+  "gui.xaero_dropdown_waypoint_world": {
+    "en": "Waypoint Sub-World/Dimension",
+    "zh": "路径点子世界/维度",
+    "vi": "Thế giới/thứ nguyên của điểm đường dẫn"
+  },
+  "gui.xaero_dropdown_transfer_worlds1": {
+    "en": "From Sub-World/Dimension",
+    "zh": "从子世界/维度",
+    "vi": "Từ thế giới con/chiều không gian"
+  },
+  "gui.xaero_dropdown_transfer_worlds2": {
+    "en": "To Sub-World/Dimension",
+    "zh": "到子世界/维度",
+    "vi": "đến thế giới con/chiều không gian"
+  },
+  "gui.xaero_dropdown_transfer_containers1": {
+    "en": "From Server/World",
+    "zh": "从服务器/世界",
+    "vi": "từ máy chủ/thế giới"
+  },
+  "gui.xaero_dropdown_transfer_containers2": {
+    "en": "To Server/World",
+    "zh": "到服务器/世界",
+    "vi": "đến máy chủ/thế giới"
+  },
+  "gui.xaero_dropdown_selected_narration": {
+    "en": "%1$s is selected.",
+    "zh": "已选择 %1$s。",
+    "vi": "Đã chọn %1$s."
+  },
+  "gui.xaero_infodisplay_coords": {
+    "en": "Coordinates",
+    "zh": "坐标",
+    "vi": "điều phối"
+  },
+  "gui.xaero_infodisplay_dimension": {
+    "en": "Dimension",
+    "zh": "维度",
+    "vi": "Kích thước"
+  },
+  "gui.xaero_infodisplay_biome": {
+    "en": "Biome",
+    "zh": "生物群系",
+    "vi": "quần thể sinh vật"
+  },
+  "gui.xaero_infodisplay_weather": {
+    "en": "Weather",
+    "zh": "天气",
+    "vi": "thời tiết"
+  },
+  "gui.xaero_infodisplay_light_level": {
+    "en": "Light Level",
+    "zh": "光照等级",
+    "vi": "mức độ ánh sáng"
+  },
+  "gui.xaero_infodisplay_time": {
+    "en": "Game Time",
+    "zh": "游戏时间",
+    "vi": "giờ chơi"
+  },
+  "gui.xaero_infodisplay_highlights": {
+    "en": "Highlight Info (e.g. Claims)",
+    "zh": "高亮信息（例如领地）",
+    "vi": "Làm nổi bật thông tin (chẳng hạn như lãnh thổ)"
+  },
+  "gui.xaero_infodisplay_angles": {
+    "en": "Facing Angles",
+    "zh": "朝向角度",
+    "vi": "Góc định hướng"
+  },
+  "gui.xaero_infodisplay_light_overlay_indicator": {
+    "en": "Light Overlay Status",
+    "zh": "光照叠加状态",
+    "vi": "Trạng thái lớp phủ ánh sáng"
+  },
+  "gui.xaero_infodisplay_manual_cave_mode_indicator": {
+    "en": "Manual Cave Mode Status",
+    "zh": "手动洞穴模式状态",
+    "vi": "Trạng thái chế độ hang thủ công"
+  },
+  "gui.xaero_infodisplay_custom_sub_world": {
+    "en": "Custom Waypoint Sub-World",
+    "zh": "自定义路径点子世界",
+    "vi": "Thế giới ý tưởng đường dẫn tùy chỉnh"
+  },
+  "gui.xaero_dropdown_info_display_text_color": {
+    "en": "Text Color",
+    "zh": "文字颜色",
+    "vi": "màu văn bản"
+  },
+  "gui.xaero_dropdown_info_display_background_color": {
+    "en": "Text Background Color",
+    "zh": "文字背景颜色",
+    "vi": "màu nền văn bản"
+  },
+  "gui.xaero_minimap_info_display_manager": {
+    "en": "Info Display Manager",
+    "zh": "信息显示管理器",
+    "vi": "Trình quản lý hiển thị thông tin"
+  },
+  "gui.xaero_minimap_info_display_manager_help": {
+    "en": "Click and drag the elements to change the order of the displayed information.",
+    "zh": "点击并拖动元素以更改显示信息的顺序。",
+    "vi": "Nhấp và kéo các phần tử để thay đổi thứ tự hiển thị thông tin."
+  },
+  "gui.xaero_info_display_background_opacity": {
+    "en": "Info Display Background Opacity",
+    "zh": "信息显示背景透明度",
+    "vi": "Nền hiển thị thông tin trong suốt"
+  },
+  "gui.xaero_box_info_display_background_opacity": {
+    "en": "The opacity of the colored backgrounds of information types that have a background enabled in the info display manager.",
+    "zh": "在信息显示管理器中启用了背景的信息类型的彩色背景的透明度。",
+    "vi": "Độ trong suốt của nền màu cho các loại thông tin có nền được bật trong Trình quản lý hiển thị thông tin."
+  },
+  "gui.xaero_infodisplay_chunk_coords": {
+    "en": "Chunk Coordinates",
+    "zh": "区块坐标",
+    "vi": "khối tọa độ"
+  },
+  "gui.xaero_entity_display_height_actual": {
+    "en": "Actual",
+    "zh": "实际",
+    "vi": "thật sự"
+  },
+  "gui.xaero_entity_display_height_relative": {
+    "en": "Relative",
+    "zh": "相对",
+    "vi": "tương đối"
+  },
+  "gui.xaero_entity_display_height_direction": {
+    "en": "Direction",
+    "zh": "方向",
+    "vi": "phương hướng"
+  },
+  "gui.xaero_destination": {
+    "en": "Destination",
+    "zh": "目的地",
+    "vi": "điểm đến"
+  },
+  "gui.xaero_box_waypoint_type": {
+    "en": "Enabled - regular waypoint \n Disabled - regular hidden waypoint \n Temporary - waypoint disappears on world exit \n Destination - waypoint disappears when reached",
+    "zh": "启用 - 常规路径点\n禁用 - 常规隐藏路径点\n临时 - 退出世界时消失的路径点\n目的地 - 到达时消失的路径点",
+    "vi": "Đã bật - Điểm tham chiếu thông thường\nĐã tắt - Điểm tham chiếu ẩn chung\nTạm thời - Điểm tham chiếu biến mất khi thoát khỏi thế giới\nĐiểm đến - một điểm dừng biến mất khi đến nơi"
+  },
+  "gui.xaero_infodisplay_real_time": {
+    "en": "Real Time",
+    "zh": "现实时间",
+    "vi": "thời gian thực"
+  },
+  "gui.xaero_cave_mode_toggle_timer": {
+    "en": "Cave Mode Toggle Timer",
+    "zh": "洞穴模式切换计时器",
+    "vi": "Hẹn giờ chuyển đổi chế độ hang động"
+  },
+  "gui.xaero_box_cave_mode_toggle_timer": {
+    "en": "The minimum time to wait between toggles of cave mode to prevent flickering when quickly switching between being under blocks and not. The latest world map mod has a separate setting for this as well.",
+    "zh": "在快速进出方块下方时，为防止闪烁，两次洞穴模式切换之间的最短等待时间。最新的世界地图模组也有一个单独的设置。",
+    "vi": "Thời gian chờ tối thiểu giữa các công tắc chế độ hang động để tránh hiện tượng nhấp nháy khi nhanh chóng vào và ra bên dưới các khối. Bản mod bản đồ thế giới mới nhất cũng có phần cài đặt riêng."
+  },
+  "gui.xaero_infodisplay_overworld_coords": {
+    "en": "Overworld Coordinates",
+    "zh": "主世界坐标",
+    "vi": "Tọa độ thế giới chính"
+  },
+  "gui.xaero_legible_cave_maps": {
+    "en": "Legible Cave Maps",
+    "zh": "清晰的洞穴地图",
+    "vi": "Bản đồ hang động rõ ràng"
+  },
+  "gui.xaero_box_legible_cave_maps": {
+    "en": "Use depth-based lighting in cave mode instead of actual block lighting, making it easier to mentally separate the different cave layers.",
+    "zh": "在洞穴模式下使用基于深度的光照代替实际方块光照，使不同的洞穴层更容易在视觉上区分开。",
+    "vi": "Sử dụng ánh sáng dựa trên độ sâu trong chế độ hang động thay vì chiếu sáng khối thực tế, giúp phân biệt trực quan các lớp hang động khác nhau dễ dàng hơn."
+  },
+  "gui.xaero_uses_worldmap_screen_value": {
+    "en": "Setting value is taken from the world map screen!",
+    "zh": "设置值取自世界地图界面！",
+    "vi": "Giá trị cài đặt được lấy từ giao diện bản đồ thế giới!"
+  },
+  "gui.xaero_biome_blending": {
+    "en": "Biome Blending",
+    "zh": "生物群系混合",
+    "vi": "hỗn hợp quần xã"
+  },
+  "gui.xaero_box_biome_blending": {
+    "en": "Smooth out biome color edges by sampling biome colors for multiple blocks for every block on the map. Turning this off can significantly improve performance when biome color calculation is modded to be much more heavyweight than vanilla.",
+    "zh": "通过为地图上的每个方块采样多个方块的生物群系颜色来平滑生物群系颜色边缘。如果生物群系颜色计算经过模组修改，变得比原版繁重得多，关闭此选项可以显著提高性能。",
+    "vi": "Làm mịn các cạnh màu quần xã bằng cách lấy mẫu màu quần xã của nhiều khối cho mỗi khối trên bản đồ. Nếu việc tính toán màu quần xã đã được mod sửa đổi để trở nên nặng nề hơn nhiều so với màu vani, thì việc tắt tùy chọn này có thể cải thiện đáng kể hiệu suất."
+  },
+  "gui.xaero_box_minimap_info_display_manager": {
+    "en": "Configure and/or rearrange different types of info displayed under the minimap, such as current coordinates, facing angles, dimension, biome, weather, light level, game time, real time and more.",
+    "zh": "配置和/或重新排列小地图下方显示的不同类型的信息，例如当前坐标、朝向角度、维度、生物群系、天气、光照等级、游戏时间、现实时间等。",
+    "vi": "Định cấu hình và/hoặc sắp xếp lại các loại thông tin khác nhau được hiển thị bên dưới bản đồ nhỏ, chẳng hạn như tọa độ hiện tại, góc hướng, kích thước, quần xã, thời tiết, mức độ ánh sáng, thời gian trò chơi, thời gian thực, v.v."
+  },
+  "gui.xaero_box_entity_radar_categories": {
+    "en": "Configure specific entity categories, which are usually players, hostile mobs, friendly mobs, items or other entities, separately instead of having the same configuration for every entity. You can even create your own custom categories for specific entity types.",
+    "zh": "分别配置特定的实体类别（通常是玩家、敌对生物、友好生物、物品或其他实体），而不是为每个实体使用相同的配置。你甚至可以为你指定的实体类型创建自己的自定义类别。",
+    "vi": "Định cấu hình riêng các lớp thực thể cụ thể (thường là người chơi, mob thù địch, mob thân thiện, vật phẩm hoặc các thực thể khác) thay vì sử dụng cùng một cấu hình cho từng thực thể. Bạn thậm chí có thể tạo danh mục tùy chỉnh của riêng mình cho các loại thực thể mà bạn chỉ định."
+  },
+  "gui.xaero_box_compass": {
+    "en": "The cardinal directions displayed on the minimap.",
+    "zh": "小地图上显示的基本方位。",
+    "vi": "Các hướng cơ bản được hiển thị trên bản đồ nhỏ."
+  },
+  "gui.xaero_box_compass_color": {
+    "en": "The color of the background/shadow under the cardinal directions displayed on the minimap.",
+    "zh": "小地图上基本方位下方背景/阴影的颜色。",
+    "vi": "Màu nền/bóng bên dưới các hướng chính trên bản đồ nhỏ."
+  },
+  "gui.xaero_box_north_compass_color": {
+    "en": "The color of the background/shadow under the north cardinal direction displayed on the minimap.",
+    "zh": "小地图上北方向下方背景/阴影的颜色。",
+    "vi": "Màu nền/bóng phía dưới hướng bắc trên bản đồ nhỏ."
+  },
+  "gui.xaero_compass_scale_auto": {
+    "en": "Auto",
+    "zh": "自动",
+    "vi": "tự động"
+  },
+  "gui.xaero_compass_scale2": {
+    "en": "Compass Scale",
+    "zh": "指南针缩放",
+    "vi": "Thu phóng la bàn"
+  },
+  "gui.xaero_box_compass_scale2": {
+    "en": "The scale of the cardinal direction letters NESW. For the \"Auto\" option, go all the way to the left.",
+    "zh": "基本方位字母 NESW 的缩放。对于“自动”选项，请一直向左拖动。",
+    "vi": "Chia tỷ lệ của chữ cái hồng y NESW. Đối với tùy chọn Tự động, hãy kéo hết cỡ sang trái."
+  },
+  "gui.xaero_entity_category_friend": {
+    "en": "Friend",
+    "zh": "好友",
+    "vi": "bạn"
+  },
+  "gui.xaero_entity_category_tracked": {
+    "en": "Tracked (e.g. Party/Allies)",
+    "zh": "已追踪（例如队伍/盟友）",
+    "vi": "Đã theo dõi (ví dụ: đội/đồng minh)"
+  },
+  "gui.xaero_dimension_scaled_max_waypoint_distance": {
+    "en": "Dimension-scaled Max WP Distance",
+    "zh": "按维度缩放的最大路径点距离",
+    "vi": "Khoảng cách điểm tối đa được chia tỷ lệ theo kích thước"
+  },
+  "gui.xaero_box_dimension_scaled_max_waypoint_distance": {
+    "en": "Scale the maximum waypoint render distance by the current dimension's coordinate scale (e.g. 1/8 in the Nether).",
+    "zh": "按当前维度的坐标缩放比例（例如下界的 1/8）缩放最大路径点渲染距离。",
+    "vi": "Chia tỷ lệ khoảng cách hiển thị điểm tham chiếu tối đa theo tỷ lệ tọa độ của kích thước hiện tại (ví dụ: 1/8 giới hạn dưới)."
+  },
+  "gui.xaero_box_waypoints_distance2": {
+    "en": "Maximum render distance for local waypoints. Global waypoints are not affected. By default, the maximum distance is scaled by the current dimension's coordinate scale. You can toggle this with \"Dimension-scaled Max WP Distance\".",
+    "zh": "本地路径点的最大渲染距离。全局路径点不受影响。默认情况下，最大距离会根据当前维度的坐标缩放比例进行调整。你可以使用“按维度缩放的最大路径点距离”来切换此功能。",
+    "vi": "Khoảng cách hiển thị tối đa của các điểm tham chiếu cục bộ. Điểm tham chiếu toàn cầu không bị ảnh hưởng. Theo mặc định, khoảng cách tối đa được điều chỉnh dựa trên tỷ lệ tọa độ của kích thước hiện tại. Bạn có thể chuyển đổi tính năng này bằng cách sử dụng \"Khoảng cách điểm tham chiếu tối đa được chia tỷ lệ theo kích thước\"."
+  },
+  "gui.xaero_waypoint_shared2": {
+    "en": "%1$s shared a waypoint called \"%2$s\"!",
+    "zh": "%1$s 分享了一个名为 \"%2$s\" 的路径点！",
+    "vi": "%1$s đã chia sẻ một điểm tham chiếu có tên \"%2$s\"!"
+  },
+  "gui.xaero_waypoint_shared_dimension2": {
+    "en": "%1$s shared a waypoint called \"%2$s\" from %3$s!",
+    "zh": "%1$s 分享了来自 %3$s 的一个名为 \"%2$s\" 的路径点！",
+    "vi": "%1$s đã chia sẻ một điểm tham chiếu có tên \"%2$s\" từ %3$s!"
+  },
+  "gui.xaero_waypoint_shared_add": {
+    "en": " [Add]",
+    "zh": " [添加]",
+    "vi": "[Thêm vào]"
+  },
+  "gui.xaero_tracked_players_on_map": {
+    "en": "On-Map Tracked Players",
+    "zh": "地图上追踪玩家",
+    "vi": "Theo dõi người chơi trên bản đồ"
+  },
+  "gui.xaero_box_tracked_players_on_map": {
+    "en": "Display markers on the minimap for players whose locations are shared with you in one way or another (usually your party) when they are out of the minimap frame bounds or not visible for another reason. The \"common\" config has an option \"everyoneTracksEveryone\" that enables tracking of every player.",
+    "zh": "当与你以某种方式共享位置信息的玩家（通常是你的队伍成员）超出小地图边框范围或因其他原因不可见时，在小地图上显示他们的标记。“通用”配置中有一个选项 \"everyoneTracksEveryone\"，可以启用对所有玩家的追踪。",
+    "vi": "Hiển thị các điểm đánh dấu trên bản đồ nhỏ khi những người chơi mà bạn chia sẻ vị trí của họ theo một cách nào đó (thường là thành viên trong nhóm của bạn) ở bên ngoài đường viền bản đồ nhỏ hoặc nói cách khác là vô hình. Có một tùy chọn \"everyoneTracksMọi người\" trong cấu hình \"Universal\" cho phép theo dõi tất cả người chơi."
+  },
+  "gui.xaero_tracked_players_in_world": {
+    "en": "In-World Tracked Players",
+    "zh": "世界中追踪玩家",
+    "vi": "Theo dõi người chơi trên thế giới"
+  },
+  "gui.xaero_box_tracked_players_in_world": {
+    "en": "Display markers in the world for players whose locations are shared with you in one way or another (usually your party). The \"common\" config has an option \"everyoneTracksEveryone\" that enables tracking of every player.",
+    "zh": "在世界上为与你以某种方式共享位置信息的玩家（通常是你的队伍成员）显示标记。“通用”配置中有一个选项 \"everyoneTracksEveryone\"，可以启用对所有玩家的追踪。",
+    "vi": "Hiển thị điểm đánh dấu trên thế giới dành cho những người chơi (thường là thành viên trong nhóm của bạn) chia sẻ vị trí của họ với bạn theo một cách nào đó. Có một tùy chọn \"everyoneTracksMọi người\" trong cấu hình \"Universal\" cho phép theo dõi tất cả người chơi."
+  },
+  "gui.xaero_tracked_player_world_icon_scale": {
+    "en": "Tracked Player In-World Scale",
+    "zh": "追踪玩家世界中缩放",
+    "vi": "Theo dõi tỷ lệ trong thế giới người chơi"
+  },
+  "gui.xaero_box_tracked_player_world_icon_scale": {
+    "en": "Scale of the tracked player icons in world.",
+    "zh": "世界中追踪玩家图标的缩放。",
+    "vi": "Theo dõi tỷ lệ của các biểu tượng người chơi trên thế giới."
+  },
+  "gui.xaero_tracked_player_world_name_scale": {
+    "en": "Tracked Player Name Scale",
+    "zh": "追踪玩家名称缩放",
+    "vi": "Theo dõi tỷ lệ tên người chơi"
+  },
+  "gui.xaero_box_tracked_player_world_name_scale": {
+    "en": "Scale of the text displaying the name of a tracked player in world.",
+    "zh": "显示世界中追踪玩家名称的文字缩放。",
+    "vi": "Hiển thị thu phóng văn bản cho tên người chơi được theo dõi trên thế giới."
+  },
+  "gui.xaero_tracked_player_minimap_icon_scale": {
+    "en": "Tracked Player On-Map Scale",
+    "zh": "追踪玩家地图上缩放",
+    "vi": "Theo dõi người chơi phóng to trên bản đồ"
+  },
+  "gui.xaero_box_tracked_player_minimap_icon_scale": {
+    "en": "Scale of the tracked player icons on the minimap.",
+    "zh": "小地图上追踪玩家图标的缩放。",
+    "vi": "Theo dõi tỷ lệ của các biểu tượng người chơi trên bản đồ nhỏ."
+  },
+  "gui.xaero_toggle_tracked_players_on_map": {
+    "en": "Toggle Tracked Players On Map",
+    "zh": "切换地图上追踪玩家",
+    "vi": "Chuyển đổi theo dõi người chơi trên bản đồ"
+  },
+  "gui.xaero_toggle_tracked_players_in_world": {
+    "en": "Toggle Tracked Players In World",
+    "zh": "切换世界中追踪玩家",
+    "vi": "Theo dõi người chơi trong thế giới chuyển đổi"
+  },
+  "gui.xaero_minimap_redirect_legacy": {
+    "en": "Disabled by a server plugin!",
+    "zh": "已被服务器插件禁用！",
+    "vi": "Bị vô hiệu hóa bởi plugin máy chủ!"
+  },
+  "gui.xaero_minimap_redirect_item": {
+    "en": "Disabled because you're missing the configured required item in your hotbar: %1$s!",
+    "zh": "已禁用，因为你的快捷栏中缺少配置所需的物品：%1$s！",
+    "vi": "Bị tắt vì thiếu một mục cần thiết cho cấu hình trong thanh nóng của bạn: %1$s!"
+  },
+  "gui.xaero_minimap_item": {
+    "en": "Minimap Item",
+    "zh": "小地图物品",
+    "vi": "mục bản đồ nhỏ"
+  },
+  "gui.xaero_box_minimap_item": {
+    "en": "The ID of an item required in the hotbar for the minimap and waypoints to function. Set it to \"-\" to have no item requirement.",
+    "zh": "一个物品的 ID，需要在快捷栏中持有才能使小地图和路径点正常工作。设置为 \"-\" 则表示不需要任何物品。",
+    "vi": "ID của một vật phẩm cần được giữ trong thanh hotbar để bản đồ nhỏ và các điểm tham chiếu hoạt động bình thường. Đặt thành \"-\" để cho biết rằng không có mục nào được yêu cầu."
+  },
+  "gui.xaero_category_editor_read_only": {
+    "en": "Read-only",
+    "zh": "只读",
+    "vi": "chỉ đọc"
+  },
+  "gui.xaero_entity_category_editor_server_enforced": {
+    "en": "(Server-enforced)",
+    "zh": "（服务器强制）",
+    "vi": "(Bắt buộc máy chủ)"
+  },
+  "gui.xaero_info_display_editor_server_enforced": {
+    "en": "(Server-enforced)",
+    "zh": "（服务器强制）",
+    "vi": "(Bắt buộc máy chủ)"
+  },
+  "gui.xaero_config_redirect_fairplay": {
+    "en": "Disabled by fair-play mode enforced by the server!",
+    "zh": "已被服务器强制执行的公平竞赛模式禁用！",
+    "vi": "Bị vô hiệu hóa bởi chế độ chơi công bằng do máy chủ thực thi!"
+  },
+  "gui.xaero_config_redirect_safe_mode": {
+    "en": "This value cannot be modified when the minimap is in safe mode.",
+    "zh": "当小地图处于安全模式时，无法修改此值。",
+    "vi": "Không thể sửa đổi giá trị này khi bản đồ nhỏ ở chế độ an toàn."
+  },
+  "gui.xaero_teleport_default_command_rotation": {
+    "en": "Default Teleport Rotation Command",
+    "zh": "默认传送旋转命令",
+    "vi": "Gửi lệnh xoay theo mặc định"
+  },
+  "gui.xaero_box_teleport_default_command_rotation": {
+    "en": "The command used for waypoint teleportation with rotation if a world-specific or a server-specific command is not set in the Options menu in the waypoint screen.",
+    "zh": "如果在路径点界面的选项菜单中没有设置世界特定或服务器特定的命令，则用于带旋转的路径点传送的命令。",
+    "vi": "Các lệnh được sử dụng để dịch chuyển tức thời điểm tham chiếu bằng cách xoay nếu không có lệnh dành riêng cho thế giới hoặc máy chủ cụ thể nào được đặt trong menu tùy chọn của giao diện điểm tham chiếu."
+  },
+  "gui.xaero_unit_ms": {
+    "en": "ms",
+    "zh": "毫秒",
+    "vi": "mili giây"
+  },
+  "gui.xaero_unit_s": {
+    "en": "s",
+    "zh": "秒",
+    "vi": "Thứ hai"
+  },
+  "gui.xaero_hide_invisible_entities": {
+    "en": "Hide Invisible Entities",
+    "zh": "隐藏隐形实体",
+    "vi": "Ẩn các thực thể vô hình"
+  },
+  "gui.xaero_minimap_server_profiles": {
+    "en": "Minimap Server Settings",
+    "zh": "小地图服务器设置",
+    "vi": "Cài đặt máy chủ Minimap"
+  },
+  "gui.xaero_cave_mode_allowed_dimensions": {
+    "en": "Cave Mode Dimensions",
+    "zh": "洞穴模式维度",
+    "vi": "kích thước chế độ hang động"
+  },
+  "gui.xaero_box_cave_mode_allowed_dimensions": {
+    "en": "A list of dimension IDs, separated by comas, where cave mode should work. If the list is empty (just []), cave mode works in every dimension.",
+    "zh": "一个用逗号分隔的维度 ID 列表，在这些维度中洞穴模式应该有效。如果列表为空（仅 []），则洞穴模式在所有维度中都有效。",
+    "vi": "Danh sách ID thứ nguyên được phân tách bằng dấu phẩy trong đó chế độ hang động phải hợp lệ. Nếu danh sách trống (chỉ []), chế độ hang động hợp lệ ở tất cả các chiều."
+  },
+  "gui.xaero_mm_auto_cave_mode": {
+    "en": "Auto Cave Mode",
+    "zh": "自动洞穴模式",
+    "vi": "Chế độ hang động tự động"
+  },
+  "gui.xaero_mm_box_auto_cave_mode": {
+    "en": "Enable cave mode automatically based on what's above you. The ceiling size refers to the size of a square ceiling of solid blocks that has to be detected above you to activate the cave mode. The solid blocks don't have to be on the same Y level.",
+    "zh": "根据你头顶上方的情况自动启用洞穴模式。天花板大小指的是必须在您上方检测到的实心方块构成的正方形天花板的尺寸。这些实心方块不必位于同一 Y 高度。",
+    "vi": "Tự động kích hoạt chế độ hang động dựa trên những gì ở trên đầu bạn. Kích thước trần là kích thước của trần vuông được làm bằng các khối đặc phải được phát hiện phía trên bạn. Những hình vuông đặc này không nhất thiết phải có cùng chiều cao Y."
+  },
+  "gui.xaero_box_cave_mode_allowed": {
+    "en": "Mapping mode that can go deeper than the surface blocks, mainly to display underground caves and interiors of buildings. Cave mode is usually enabled automatically (see \"Auto Cave Mode\"), but can also be toggled manually with a key binding (see \"Manual Cave Mode Start Y\").",
+    "zh": "一种可以深入到地表方块以下的映射模式，主要用于显示地下洞穴和建筑物内部。洞穴模式通常会自动启用（参见“自动洞穴模式”），但也可以通过按键绑定手动切换（参见“手动洞穴模式起始 Y 值”）。",
+    "vi": "Chế độ lập bản đồ có thể đi sâu bên dưới các khối bề mặt, chủ yếu được sử dụng để hiển thị các hang động dưới lòng đất và nội thất tòa nhà. Chế độ hang động thường được bật tự động (xem \"Chế độ hang động tự động\"), nhưng cũng có thể được bật theo cách thủ công thông qua các tổ hợp phím (xem \"Chế độ hang động thủ công bắt đầu giá trị Y\")."
+  },
+  "gui.xaero_reset_config_profile_default": {
+    "en": "Reset Profile Defaults",
+    "zh": "重置配置文件默认值",
+    "vi": "Đặt lại mặc định hồ sơ"
+  },
+  "gui.xaero_reset_config_profile_default_message": {
+    "en": "Are you sure you want to restore the default values in the config profile?",
+    "zh": "您确定要恢复配置文件中的默认值吗？",
+    "vi": "Bạn có chắc chắn muốn khôi phục các giá trị mặc định trong file cấu hình không?"
+  },
+  "gui.xaero_reset_config_profile_default_message2": {
+    "en": "This action cannot be undone! Non-profile options aren't affected.",
+    "zh": "此操作无法撤消！非配置文件选项不受影响。",
+    "vi": "Hành động này không thể hoàn tác được! Các tùy chọn không có hồ sơ không bị ảnh hưởng."
+  },
+  "gui.xaero_config_redirect_effect": {
+    "en": "Disabled by a status effect!",
+    "zh": "已被状态效果禁用！",
+    "vi": "Bị vô hiệu hóa bởi hiệu ứng trạng thái!"
+  },
+  "gui.xaero_further_zoomout": {
+    "en": "Further Zoom-out",
+    "zh": "进一步缩小",
+    "vi": "thu hẹp hơn nữa"
+  },
+  "gui.xaero_box_further_zoomout": {
+    "en": "Experimental! \n Not enabled by default due to potentially bad performance but will be in the future after some optimization.",
+    "zh": "实验性功能！\n由于可能存在性能问题，默认情况下未启用，但在未来经过一些优化后会启用。",
+    "vi": "Tính năng thử nghiệm!\nNó không được bật theo mặc định do các vấn đề về hiệu suất có thể xảy ra nhưng sẽ được bật trong tương lai với một số tối ưu hóa."
+  },
+  "gui.xaero_minimap_undiscovered_opacity": {
+    "en": "Undiscovered Opacity",
+    "zh": "未探索区域透明度",
+    "vi": "Tính minh bạch của khu vực chưa được khám phá"
+  },
+  "gui.xaero_box_minimap_undiscovered_opacity": {
+    "en": "The opacity of the black undiscovered areas on the map, relative to the main opacity setting.",
+    "zh": "地图上黑色未探索区域的透明度，相对于主透明度设置。",
+    "vi": "Độ trong suốt của các khu vực màu đen chưa được khám phá trên bản đồ, liên quan đến cài đặt độ trong suốt chính."
+  },
+  "gui.xaero_waypoint_filter_box": {
+    "en": "Waypoint Filter",
+    "zh": "路径点筛选器",
+    "vi": "bộ lọc điểm tham chiếu"
+  },
+  "gui.xaero_waypoint_filter_box_suggestion": {
+    "en": "Filter...",
+    "zh": "筛选...",
+    "vi": "lọc..."
+  },
+  "gui.xaero_default_waystone_name": {
+    "en": "Waystone",
+    "zh": "传送石碑",
+    "vi": "tấm bia dịch chuyển"
+  },
+  "gui.xaero_magenta": {
+    "en": "Magenta",
+    "zh": "品红色",
+    "vi": "màu đỏ tươi"
+  },
+  "gui.xaero_light_blue": {
+    "en": "Light Blue",
+    "zh": "浅蓝色",
+    "vi": "xanh nhạt"
+  },
+  "gui.xaero_lime": {
+    "en": "Lime",
+    "zh": "黄绿色",
+    "vi": "Màu vàng-xanh"
+  },
+  "gui.xaero_pink": {
+    "en": "Pink",
+    "zh": "粉红色",
+    "vi": "hồng"
+  },
+  "gui.xaero_brown": {
+    "en": "Brown",
+    "zh": "棕色",
+    "vi": "màu nâu"
+  },
+  "gui.xaero_showing_third_party_deleted_waypoints": {
+    "en": "Show Deleted 3rd-Party WPs",
+    "zh": "显示已删除的第三方路径点",
+    "vi": "Hiển thị các điểm tham chiếu của bên thứ ba đã bị xóa"
+  },
+  "gui.xaero_box_showing_third_party_deleted_waypoints": {
+    "en": "Show third-party waypoints that you have \"deleted\", e.g. waystone waypoints.",
+    "zh": "显示你已“删除”的第三方路径点，例如传送石碑路径点。",
+    "vi": "Hiển thị các điểm tham chiếu của bên thứ ba mà bạn đã \"xóa\", chẳng hạn như các điểm tham chiếu dịch chuyển tức thời."
+  },
+  "gui.xaero_deleted": {
+    "en": "deleted",
+    "zh": "已删除",
+    "vi": "Đã xóa"
+  },
+  "gui.xaero_discovered_waystone_waypoints": {
+    "en": "Discovered Waystone Waypoints",
+    "zh": "已发现的传送石碑路径点",
+    "vi": "Đã phát hiện ra các điểm tham chiếu của tấm bia dịch chuyển tức thời"
+  },
+  "gui.xaero_box_discovered_waystone_waypoints": {
+    "en": "Automatically display discovered waystones (from the mods Waystones and Wraith Waystones) as waypoints. In Wraith Waystones, only activated ones are considered discovered.",
+    "zh": "自动将已发现的传送石碑（来自 Waystones 和 Wraith Waystones 模组）显示为路径点。在 Wraith Waystones 中，只有已激活的才被视为已发现。",
+    "vi": "Tự động hiển thị các máy tính bảng dịch chuyển được phát hiện (từ mod Waystones và Wraith Waystones) dưới dạng điểm tham chiếu. Trong Wraith Waystones, chỉ những vật đã kích hoạt mới được coi là đã phát hiện được."
+  },
+  "gui.xaero_other_waystone_waypoints": {
+    "en": "Other Waystone Waypoints",
+    "zh": "其他传送石碑路径点",
+    "vi": "Các điểm đường dẫn bia dịch chuyển khác"
+  },
+  "gui.xaero_box_other_waystone_waypoints": {
+    "en": "Automatically display other types of waystones (from the mods Waystones and Wraith Waystones) as waypoints. If supported (1.20.4+), this includes sharestones in the original Waystones mod. In Wraith Waystones, this includes unactivated global waystones.",
+    "zh": "自动将其他类型的传送石碑（来自 Waystones 和 Wraith Waystones 模组）显示为路径点。如果支持（1.20.4+），这包括原始 Waystones 模组中的共享石碑。在 Wraith Waystones 中，这包括未激活的全局传送石碑。",
+    "vi": "Tự động hiển thị các loại đá dịch chuyển khác (từ mod Waystones và Wraith Waystones) làm điểm tham chiếu. Điều này bao gồm các tượng đài được chia sẻ từ mod Waystones ban đầu nếu được hỗ trợ (1.20.4+). Trong Wraith Waystones, điều này bao gồm cả những máy tính bảng dịch chuyển tức thời toàn cầu không hoạt động."
+  },
+  "gui.xaero_waypoint_distance_in_menu": {
+    "en": "Waypoint Distance In Menu",
+    "zh": "菜单中的路径点距离",
+    "vi": "Khoảng cách điểm trong menu"
+  }
+}

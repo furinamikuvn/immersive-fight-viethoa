@@ -1,0 +1,79 @@
+{
+  "structures": [
+    {
+      "structure": "ati_structures:ancient_temple",
+      "weight": 1
+    },
+    {
+      "structure": "ati_structures:desert_outpost",
+      "weight": 1
+    },
+    {
+      "structure": "ati_structures:fortified_temple",
+      "weight": 1
+    },
+    {
+      "structure": "ati_structures:granite_fort",
+      "weight": 1
+    },
+    {
+      "structure": "ati_structures:herobrine_stronghold",
+      "weight": 1
+    },
+    {
+      "structure": "ati_structures:jungle_settlement",
+      "weight": 1
+    },
+    {
+      "structure": "ati_structures:manor",
+      "weight": 1
+    },
+    {
+      "structure": "ati_structures:marble_chateau",
+      "weight": 1
+    },
+    {
+      "structure": "ati_structures:old_fort",
+      "weight": 1
+    },
+    {
+      "structure": "ati_structures:quarry",
+      "weight": 1
+    },
+    {
+      "structure": "ati_structures:sinking_temple",
+      "weight": 1
+    },
+    {
+      "structure": "ati_structures:tavern",
+      "weight": 1
+    },
+    {
+      "structure": "ati_structures:villager_inn",
+      "weight": 1
+    },
+    {
+      "structure": "ati_structures:woodland_keep",
+      "weight": 1
+    },
+    {
+      "structure": "ati_structures:ruined_castle",
+      "weight": 1
+    },
+    {
+      "structure": "ati_structures:jungle_grotto",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 817997296,
+    "locate_offset": [0, 5, -5],
+    "spacing": 40,
+    "separation": 20,
+ "exclusion_zone": {
+      "chunk_count": 6,
+      "other_set": "minecraft:villages"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "bonus_rolls": 0,
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "name": "mtr:jungle_temple_crypt_barrel_full",
+          "weight": 70
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "mtr:jungle_temple_crypt_barrel_empty",
+          "weight": 30
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Pincushion (Châm Điệm)",
+  "icon": "simplyswords:runic_tablet",
+  "category": "simplyswords:category_rune_etching",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:runic_tablet",
+      "title": "Pincushion (Châm Điệm)",
+      "text": "Phù văn Châm Điệm truyền tinh hoa $(#d1422c)$(l)Phản Kích$(). $(br2)Gây thêm sát thương dựa trên số mũi tên găm trên người."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Người chơi được trang bị rune này theo đúng nghĩa đen sẽ biến thành một \"chiếc gối cắm kim\" như tên gọi của rune, khiến các cung thủ phải suy nghĩ kỹ trước khi bắn chúng. Người sử dụng càng trúng nhiều mũi tên, anh ta càng trở nên mạnh mẽ hơn và mối đe dọa trên chiến trường càng lớn."
+    }
+  ]
+}

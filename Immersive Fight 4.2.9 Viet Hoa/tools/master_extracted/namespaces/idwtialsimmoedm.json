@@ -1,0 +1,392 @@
+{
+  "text.idwtialsimmoedm.config.title": {
+    "en": null,
+    "zh": "idwtialsimmoedm configuration",
+    "vi": "idwtialsimmoedm configuration"
+  },
+  "text.idwtialsimmoedm.config.field.descriptionPrefix": {
+    "en": null,
+    "zh": "description prefix (line 1)",
+    "vi": "description prefix (line 1)"
+  },
+  "text.idwtialsimmoedm.config.field.descriptionIndent": {
+    "en": null,
+    "zh": "description indentation (lines 2+)",
+    "vi": "description indentation (lines 2+)"
+  },
+  "text.idwtialsimmoedm.config.field.displayOnlyWhenShiftIsHeld": {
+    "en": null,
+    "zh": "display only when shift is held",
+    "vi": "display only when shift is held"
+  },
+  "text.idwtialsimmoedm.config.field.displayOnBooksOnly": {
+    "en": null,
+    "zh": "display only on enchanted books",
+    "vi": "display only on enchanted books"
+  },
+  "text.idwtialsimmoedm.config.field.hideMissingDescriptions": {
+    "en": null,
+    "zh": "hide missing descriptions",
+    "vi": "hide missing descriptions"
+  },
+  "enchantment.minecraft.protection.desc": {
+    "en": null,
+    "zh": "增强盔甲对大多数伤害的防护能力",
+    "vi": "Tăng khả năng bảo vệ của áo giáp trước hầu hết sát thương"
+  },
+  "enchantment.minecraft.fire_protection.desc": {
+    "en": null,
+    "zh": "当玩家被点燃时，盔甲对火焰的抵抗能力增强，燃烧时间缩短",
+    "vi": "Khi người chơi được đốt cháy, khả năng chống cháy của áo giáp được tăng lên và thời gian cháy được rút ngắn lại."
+  },
+  "enchantment.minecraft.feather_falling.desc": {
+    "en": null,
+    "zh": "减少摔落和末影珍珠造成的伤害",
+    "vi": "Giảm sát thương từ ngọc trai rơi và ender"
+  },
+  "enchantment.minecraft.blast_protection.desc": {
+    "en": null,
+    "zh": "增强盔甲对爆炸和烟花伤害的防护能力",
+    "vi": "Tăng khả năng bảo vệ của áo giáp khỏi sát thương nổ và pháo hoa"
+  },
+  "enchantment.minecraft.projectile_protection.desc": {
+    "en": null,
+    "zh": "增强盔甲对弹射物攻击的防护能力",
+    "vi": "Tăng khả năng bảo vệ của áo giáp trước các cuộc tấn công bằng đạn"
+  },
+  "enchantment.minecraft.respiration.desc": {
+    "en": null,
+    "zh": "延长水下呼吸时间并增强玩家水下视觉效果",
+    "vi": "Kéo dài thời gian thở dưới nước và nâng cao hình ảnh dưới nước của người chơi"
+  },
+  "enchantment.minecraft.aqua_affinity.desc": {
+    "en": null,
+    "zh": "提高玩家在水下挖掘的速度",
+    "vi": "Tăng tốc độ người chơi có thể đào dưới nước"
+  },
+  "enchantment.minecraft.thorns.desc": {
+    "en": null,
+    "zh": "玩家受到攻击时，有机率对攻击者造成反弹伤害",
+    "vi": "Khi người chơi bị tấn công, có khả năng gây ra sát thương phản hồi cho kẻ tấn công."
+  },
+  "enchantment.minecraft.sharpness.desc": {
+    "en": null,
+    "zh": "增加武器的近战伤害",
+    "vi": "Tăng sát thương cận chiến của vũ khí"
+  },
+  "enchantment.minecraft.smite.desc": {
+    "en": null,
+    "zh": "增加武器对僵尸、骷髅等亡灵怪物造成的伤害",
+    "vi": "Tăng sát thương do vũ khí gây ra cho quái vật bất tử như zombie và bộ xương"
+  },
+  "enchantment.minecraft.bane_of_arthropods.desc": {
+    "en": null,
+    "zh": "增加武器对蜘蛛、蜜蜂等节肢动物造成的伤害",
+    "vi": "Tăng sát thương vũ khí cho động vật chân đốt như nhện và ong"
+  },
+  "enchantment.minecraft.knockback.desc": {
+    "en": null,
+    "zh": "增加武器的击退距离",
+    "vi": "Tăng khoảng cách đẩy lùi vũ khí"
+  },
+  "enchantment.minecraft.fire_aspect.desc": {
+    "en": null,
+    "zh": "近战攻击时点燃攻击目标",
+    "vi": "Đốt cháy mục tiêu trong một cuộc tấn công cận chiến"
+  },
+  "enchantment.minecraft.looting.desc": {
+    "en": null,
+    "zh": "杀死生物时，生物掉落物的数量或掉落几率增加",
+    "vi": "Khi giết một sinh vật, số lượng hoặc khả năng rơi ra sinh vật đó sẽ tăng lên."
+  },
+  "enchantment.minecraft.efficiency.desc": {
+    "en": null,
+    "zh": "提高玩家挖掘的速度",
+    "vi": "Tăng tốc độ khai thác của người chơi"
+  },
+  "enchantment.minecraft.silk_touch.desc": {
+    "en": null,
+    "zh": "在破坏多数方块如玻璃和铁矿石后，可以使方块掉落本身",
+    "vi": "Phá vỡ hầu hết các khối như thủy tinh và quặng sắt có thể khiến khối tự rơi xuống"
+  },
+  "enchantment.minecraft.unbreaking.desc": {
+    "en": null,
+    "zh": "延长使用物品的耐久，在物品使用时有概率不消耗耐久",
+    "vi": "Kéo dài độ bền của vật phẩm đã qua sử dụng và có khả năng độ bền sẽ không bị tiêu hao khi sử dụng vật phẩm đó."
+  },
+  "enchantment.minecraft.fortune.desc": {
+    "en": null,
+    "zh": "在开采矿石和作物时有机率获得更多掉落物",
+    "vi": "Cơ hội nhận được nhiều giọt hơn khi khai thác quặng và cây trồng"
+  },
+  "enchantment.minecraft.power.desc": {
+    "en": null,
+    "zh": "增加弓、弩射出的箭造成的伤害",
+    "vi": "Tăng sát thương gây ra bởi mũi tên bắn từ cung và nỏ"
+  },
+  "enchantment.minecraft.punch.desc": {
+    "en": null,
+    "zh": "增加弓、弩射出的箭的击退距离",
+    "vi": "Tăng khoảng cách đẩy lùi của mũi tên bắn từ cung và nỏ"
+  },
+  "enchantment.minecraft.flame.desc": {
+    "en": null,
+    "zh": "使弓、弩射出的箭点燃攻击目标",
+    "vi": "Làm cho mũi tên bắn ra từ cung và nỏ đốt cháy mục tiêu."
+  },
+  "enchantment.minecraft.infinity.desc": {
+    "en": null,
+    "zh": "在玩家至少有一支箭时，使弓射出普通箭时不会消耗箭",
+    "vi": "Làm cho cung bắn những mũi tên bình thường mà không tốn mũi tên khi người chơi có ít nhất một mũi tên."
+  },
+  "enchantment.minecraft.luck_of_the_sea.desc": {
+    "en": null,
+    "zh": "增加钓鱼时获得稀有物品的概率，降低获得垃圾的概率",
+    "vi": "Tăng khả năng nhận được vật phẩm quý hiếm khi câu cá và giảm xác suất thu được rác"
+  },
+  "enchantment.minecraft.lure.desc": {
+    "en": null,
+    "zh": "在钓鱼时使鱼上钩更快",
+    "vi": "Làm lưỡi câu nhanh hơn khi câu cá"
+  },
+  "enchantment.minecraft.depth_strider.desc": {
+    "en": null,
+    "zh": "提高玩家在水下移动的速度",
+    "vi": "Tăng tốc độ di chuyển của người chơi dưới nước"
+  },
+  "enchantment.minecraft.frost_walker.desc": {
+    "en": null,
+    "zh": "将玩家脚下的水暂时变成冰以供前行",
+    "vi": "Tạm thời biến vùng nước dưới chân người chơi thành băng để họ tiến về phía trước."
+  },
+  "enchantment.minecraft.mending.desc": {
+    "en": null,
+    "zh": "被施加此魔咒的物品可以通过拾取经验球修复耐久",
+    "vi": "Các vật phẩm bị mê hoặc bởi phép thuật này có thể được phục hồi độ bền bằng cách nhặt các quả cầu kinh nghiệm."
+  },
+  "enchantment.minecraft.binding_curse.desc": {
+    "en": null,
+    "zh": "被此魔咒诅咒的盔甲无法从护甲槽中移除",
+    "vi": "Áo giáp bị nguyền rủa bởi bùa chú này không thể được gỡ bỏ khỏi khe áo giáp."
+  },
+  "enchantment.minecraft.vanishing_curse.desc": {
+    "en": null,
+    "zh": "被此魔咒诅咒的物品会在玩家死亡后消失",
+    "vi": "Vật phẩm bị nguyền rủa bởi bùa chú này sẽ biến mất khi người chơi chết"
+  },
+  "enchantment.minecraft.sweeping.desc": {
+    "en": null,
+    "zh": "增加武器横扫攻击造成的伤害",
+    "vi": "Tăng sát thương gây ra bởi các cuộc tấn công quét vũ khí"
+  },
+  "enchantment.minecraft.loyalty.desc": {
+    "en": null,
+    "zh": "被施加此魔咒的三叉戟被投掷后会回到玩家身边",
+    "vi": "Cây đinh ba được bùa này sẽ quay trở lại với người chơi sau khi bị ném."
+  },
+  "enchantment.minecraft.impaling.desc": {
+    "en": null,
+    "zh": "增加三叉戟对鱼、守卫者等水生生物造成的伤害",
+    "vi": "Tăng sát thương do đinh ba gây ra cho cá, người bảo vệ và các sinh vật dưới nước khác"
+  },
+  "enchantment.minecraft.riptide.desc": {
+    "en": null,
+    "zh": "使玩家在水中或雨中投掷三叉戟时向前冲刺",
+    "vi": "Khiến người chơi lao về phía trước khi ném đinh ba xuống nước hoặc mưa"
+  },
+  "enchantment.minecraft.channeling.desc": {
+    "en": null,
+    "zh": "使三叉戟在雷暴天气下击中目标时召唤闪电",
+    "vi": "Khiến cây đinh ba triệu hồi tia sét khi đánh trúng mục tiêu trong cơn giông bão"
+  },
+  "enchantment.minecraft.multishot.desc": {
+    "en": null,
+    "zh": "使弩在单次射击时射出多支箭",
+    "vi": "Làm cho nỏ bắn nhiều mũi tên trong một lần bắn"
+  },
+  "enchantment.minecraft.quick_charge.desc": {
+    "en": null,
+    "zh": "减少弩的充能时间",
+    "vi": "Giảm thời gian nạp nỏ"
+  },
+  "enchantment.minecraft.piercing.desc": {
+    "en": null,
+    "zh": "被施加此魔咒的弩射出的箭能穿透多个生物",
+    "vi": "Mũi tên bắn ra từ nỏ yểm bùa có thể xuyên qua nhiều sinh vật."
+  },
+  "enchantment.minecraft.soul_speed.desc": {
+    "en": null,
+    "zh": "增加玩家在灵魂沙、灵魂土上的行走速度",
+    "vi": "Tăng tốc độ đi bộ của người chơi trên cát linh hồn và đất linh hồn"
+  },
+  "enchantment.minecraft.swift_sneak.desc": {
+    "en": null,
+    "zh": "提高玩家潜行时的移动速度",
+    "vi": "Tăng tốc độ di chuyển của người chơi khi lén lút"
+  },
+  "effect.minecraft.night_vision.desc": {
+    "en": null,
+    "zh": "改善黑暗中的视力",
+    "vi": "Cải thiện tầm nhìn trong bóng tối"
+  },
+  "effect.minecraft.absorption.desc": {
+    "en": null,
+    "zh": "提升玩家在黑暗中的视野亮度",
+    "vi": "Cải thiện độ sáng tầm nhìn của người chơi trong bóng tối"
+  },
+  "effect.minecraft.bad_omen.desc": {
+    "en": null,
+    "zh": "在玩家进入村庄时触发袭击",
+    "vi": "Kích hoạt cuộc đột kích khi người chơi vào làng"
+  },
+  "effect.minecraft.blindness.desc": {
+    "en": null,
+    "zh": "使玩家视野受限，无法奔跑和暴击",
+    "vi": "Giới hạn tầm nhìn của người chơi và ngăn anh ta chạy và tấn công chí mạng."
+  },
+  "effect.minecraft.conduit_power.desc": {
+    "en": null,
+    "zh": "使玩家能够在水下呼吸，提高玩家视野范围和挖掘速度",
+    "vi": "Cho phép người chơi thở dưới nước, cải thiện tầm nhìn và tốc độ đào của người chơi"
+  },
+  "effect.minecraft.darkness.desc": {
+    "en": null,
+    "zh": "使玩家视野受限，亮度在正常和昏暗间反复切换",
+    "vi": "Tầm nhìn của người chơi bị hạn chế và độ sáng chuyển đổi liên tục giữa bình thường và mờ."
+  },
+  "effect.minecraft.dolphins_grace.desc": {
+    "en": null,
+    "zh": "加快玩家的游泳速度",
+    "vi": "Tăng tốc độ bơi của người chơi"
+  },
+  "effect.minecraft.glowing.desc": {
+    "en": null,
+    "zh": "使实体发光，并带有可以透过方块看到的轮廓线",
+    "vi": "Làm cho thực thể phát sáng với đường viền hiển thị xuyên qua khối"
+  },
+  "effect.minecraft.haste.desc": {
+    "en": null,
+    "zh": "提高玩家挖掘的速度",
+    "vi": "Tăng tốc độ khai thác của người chơi"
+  },
+  "effect.minecraft.health_boost.desc": {
+    "en": null,
+    "zh": "使玩家临时获得额外生命上限",
+    "vi": "Cho phép người chơi tạm thời nhận thêm giới hạn tuổi thọ"
+  },
+  "effect.minecraft.hero_of_the_village.desc": {
+    "en": null,
+    "zh": "降低与村民交易的价格，有概率获得村民的随机礼物",
+    "vi": "Giảm giá giao dịch với dân làng và có cơ hội nhận được quà tặng ngẫu nhiên từ dân làng."
+  },
+  "effect.minecraft.hunger.desc": {
+    "en": null,
+    "zh": "使玩家饱食度消耗得更快",
+    "vi": "Làm cho cảm giác no của người chơi cạn kiệt nhanh hơn"
+  },
+  "effect.minecraft.levitation.desc": {
+    "en": null,
+    "zh": "使玩家向上漂浮",
+    "vi": "Làm cho người chơi nổi lên"
+  },
+  "effect.minecraft.mining_fatigue.desc": {
+    "en": null,
+    "zh": "降低玩家的挖掘速度",
+    "vi": "Giảm tốc độ khai thác của người chơi"
+  },
+  "effect.minecraft.nausea.desc": {
+    "en": null,
+    "zh": "使玩家视野摇晃扭曲",
+    "vi": "Làm cho tầm nhìn của người chơi rung chuyển và méo mó"
+  },
+  "effect.minecraft.saturation.desc": {
+    "en": null,
+    "zh": "使玩家的饱食度恢复",
+    "vi": "Phục hồi cảm giác no của người chơi"
+  },
+  "effect.minecraft.slow_falling.desc": {
+    "en": null,
+    "zh": "减缓实体的下降速度",
+    "vi": "Làm chậm quá trình đi xuống của thực thể"
+  },
+  "effect.minecraft.invisibility.desc": {
+    "en": null,
+    "zh": "使实体的身体变得不可见",
+    "vi": "Làm cho cơ thể của thực thể trở nên vô hình"
+  },
+  "effect.minecraft.jump_boost.desc": {
+    "en": null,
+    "zh": "增加实体跳跃高度",
+    "vi": "Tăng chiều cao nhảy thực thể"
+  },
+  "effect.minecraft.fire_resistance.desc": {
+    "en": null,
+    "zh": "降低实体受到的火焰伤害",
+    "vi": "Giảm thiệt hại do hỏa hoạn gây ra cho các thực thể"
+  },
+  "effect.minecraft.speed.desc": {
+    "en": null,
+    "zh": "提高实体的移动速度",
+    "vi": "Tăng tốc độ di chuyển của các thực thể"
+  },
+  "effect.minecraft.slowness.desc": {
+    "en": null,
+    "zh": "降低实体的移动速度",
+    "vi": "Giảm tốc độ di chuyển của các thực thể"
+  },
+  "effect.minecraft.resistance.desc": {
+    "en": null,
+    "zh": "降低实体受到的伤害",
+    "vi": "Giảm sát thương của các thực thể"
+  },
+  "effect.minecraft.water_breathing.desc": {
+    "en": null,
+    "zh": "使玩家能够在水下呼吸",
+    "vi": "Cho phép người chơi thở dưới nước"
+  },
+  "effect.minecraft.instant_health.desc": {
+    "en": null,
+    "zh": "使实体瞬间生命值提升",
+    "vi": "Tăng sức khỏe của thực thể ngay lập tức"
+  },
+  "effect.minecraft.instant_damage.desc": {
+    "en": null,
+    "zh": "对实体瞬间造成伤害",
+    "vi": "Gây sát thương tức thời cho thực thể"
+  },
+  "effect.minecraft.poison.desc": {
+    "en": null,
+    "zh": "随着时间推移对实体造成伤害，但不会造成死亡",
+    "vi": "Gây sát thương cho thực thể theo thời gian nhưng không gây tử vong"
+  },
+  "effect.minecraft.regeneration.desc": {
+    "en": null,
+    "zh": "随着时间的推移慢慢治愈实体",
+    "vi": "Từ từ chữa lành thực thể theo thời gian"
+  },
+  "effect.minecraft.strength.desc": {
+    "en": null,
+    "zh": "增加实体攻击伤害",
+    "vi": "Tăng sát thương vật lý"
+  },
+  "effect.minecraft.weakness.desc": {
+    "en": null,
+    "zh": "降低实体攻击伤害",
+    "vi": "Giảm sát thương vật lý"
+  },
+  "effect.minecraft.luck.desc": {
+    "en": null,
+    "zh": "在某些情况下增加玩家幸运值，主要是钓鱼",
+    "vi": "Tăng may mắn cho người chơi trong một số tình huống nhất định, chủ yếu là câu cá"
+  },
+  "effect.minecraft.unluck.desc": {
+    "en": null,
+    "zh": "在某些情况下降低玩家的幸运值，主要是钓鱼",
+    "vi": "Giảm may mắn của người chơi trong một số tình huống nhất định, chủ yếu là câu cá"
+  },
+  "effect.minecraft.wither.desc": {
+    "en": null,
+    "zh": "随着时间的推移对实体造成伤害",
+    "vi": "Gây thiệt hại cho thực thể theo thời gian"
+  }
+}

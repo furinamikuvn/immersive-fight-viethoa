@@ -1,0 +1,26 @@
+{
+  "name": "Kích (Halberd)",
+  "icon": "simplyswords:iron_halberd",
+  "category": "simplyswords:category_weapon_variants",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:iron_halberd",
+      "text": "Trường binh khí kết hợp giữa mũi giáo và lưỡi rìu, tầm đánh xa và biến hóa khôn lường."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "simplyswords:iron_halberd",
+      "recipe2": "simplyswords:gold_halberd"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "simplyswords:diamond_halberd"
+    },
+    {
+      "type": "patchouli:smithing",
+      "recipe": "simplyswords:netherite_halberd",
+      "recipe2": "simplyswords:runic_halberd"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Tôi Ma (Imbued)",
+  "icon": "simplyswords:runic_tablet",
+  "category": "simplyswords:category_rune_etching",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:runic_tablet",
+      "title": "Tôi Ma (Imbued)",
+      "text": "Truyền tinh hoa $(#389fff)$(l)Ma Pháp$(). $(br2)Giải phóng năng lượng ma thuật ẩn giấu tấn công mục tiêu."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Sát thương kích hoạt theo xác suất và tiêu hao thêm độ bền vũ khí, hãy chú ý sửa chữa định kỳ."
+    }
+  ]
+}

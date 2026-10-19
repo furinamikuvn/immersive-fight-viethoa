@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " #K",
+    "PC ",
+    " #K"
+  ],
+  "key": {
+    "#": {"item": "nethers_exorcism_reborn:strampler_heart"},
+    "P": {"item": "eeeabsmobs:heart_of_pagan"},
+    "K": {"item": "nethers_exorcism_reborn:strampler_horn"},
+    "C": {"item": "minecraft:bow"}
+  },
+  "result": {
+    "item": "too_many_bows:necro_flame_bow"
+  }
+}

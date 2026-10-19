@@ -1,0 +1,472 @@
+{
+  "ftbquesttransl.translate": {
+    "en": "Translate Quest",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquesttransl.settings": {
+    "en": "FTB Quests Translator Settings",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquesttransl.configuration": {
+    "en": "Translation Options",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquesttransl.batch.title": {
+    "en": "Batch Translation Options",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquesttransl.batch.toggle": {
+    "en": "Toggle Batch Translation",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquesttransl.tts.read": {
+    "en": "Read Aloud (TTS)",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquesttransl.tts.unsupported": {
+    "en": "TTS Unsupported for this language",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquesttransl.translating": {
+    "en": "Translating...",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquesttransl.translated": {
+    "en": "Translated",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquesttransl.click_to_restore": {
+    "en": "Click to show original",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquesttransl.error": {
+    "en": "Translation failed",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquesttransl.configuration.targetLanguage": {
+    "en": "Target Language",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquesttransl.configuration.targetLanguage.tooltip": {
+    "en": "Target language for translation (ISO 639-1 code). Set to 'auto' to use Minecraft's language setting.",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquesttransl.configuration.enableCaching": {
+    "en": "Enable Caching",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquesttransl.configuration.enableCaching.tooltip": {
+    "en": "Cache translations in memory to avoid re-translating the same text",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquesttransl.configuration.translationProvider": {
+    "en": "Translation Provider",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquesttransl.configuration.translationProvider.tooltip": {
+    "en": "Which translation API to use (GOOGLE, MYMEMORY, DEEPL)",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquesttransl.configuration.deepLApiKey": {
+    "en": "DeepL API Key (Required for DeepL)",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquesttransl.configuration.deepLApiKey.tooltip": {
+    "en": "Authentication key for DeepL translation service (get from deepl.com)",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquesttransl.configuration.enableTranslatingAnimation": {
+    "en": "Translating Animation",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquesttransl.configuration.enableTranslatingAnimation.tooltip": {
+    "en": "Show yellow wave animation while a quest is being translated",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquesttransl.configuration.enableTranslatedAnimation": {
+    "en": "Translated Animation",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquesttransl.configuration.enableTranslatedAnimation.tooltip": {
+    "en": "Show green wave animation when a quest has been translated",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquesttransl.configuration.enableTtsLoadingAnimation": {
+    "en": "TTS Rings Animation (Loading)",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquesttransl.configuration.enableTtsLoadingAnimation.tooltip": {
+    "en": "Enable yellow colored ring animations around the TTS button while loading audio",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquesttransl.configuration.enableTtsPlayingAnimation": {
+    "en": "TTS Rings Animation (Playing)",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquesttransl.configuration.enableTtsPlayingAnimation.tooltip": {
+    "en": "Enable colored ring animations around the TTS button while playing audio",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquesttransl.configuration.enableTranslateButton": {
+    "en": "Show Translate Button",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquesttransl.configuration.enableTtsButton": {
+    "en": "Show TTS Button",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquesttransl.configuration.translationAnimationDuration": {
+    "en": "Translation Animation Duration (ms)",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquesttransl.configuration.translationAnimationDuration.tooltip": {
+    "en": "How long the green translation animation should be shown in milliseconds",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquesttransl.configuration.ttsPitch": {
+    "en": "TTS Voice Pitch",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquesttransl.configuration.ttsPitch.tooltip": {
+    "en": "Pitch multiplier for the reader voice (Default: 1.0)",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquesttransl.configuration.ttsRate": {
+    "en": "TTS Voice Rate",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquesttransl.configuration.ttsRate.tooltip": {
+    "en": "Speed multiplier for the reader voice (Default: 1.0)",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquesttransl.error.connection": {
+    "en": "Connection error!",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquesttransl.error.connection_desc": {
+    "en": "Translation server is unreachable.",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquesttransl.error.unsupported": {
+    "en": "Language Unsupported!",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquesttransl.error.unsupported_desc": {
+    "en": "Translation API doesn't support this language.",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquesttransl.error.missing_api": {
+    "en": "DEEPL API KEY IS MISSING!",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquesttransl.error.missing_api_desc": {
+    "en": "Please configure your DeepL API key in the Translation Options.",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquesttransl.supported_language": {
+    "en": "Quests Translation Supported",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquesttransl.warning.large_quest": {
+    "en": "Large text volume (%s chars). Translate?",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquesttransl.configuration.enableLargeTextWarning": {
+    "en": "Large Text Warning",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquesttransl.configuration.enableLargeTextWarning.tooltip": {
+    "en": "Show a confirmation popup before translating extremely large quests to save API quota",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquesttransl.configuration.largeTextThreshold": {
+    "en": "Large Text Threshold",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquesttransl.configuration.largeTextThreshold.tooltip": {
+    "en": "Character count threshold for the large text warning",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquesttransl.clear_cache": {
+    "en": "Clear Translation Cache",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquesttransl.cache_cleared": {
+    "en": "Translation cache cleared successfully!",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquesttransl.supported_language_regional": {
+    "en": "Language supported, but will be translated to base language (%s)",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquesttransl.batch.already_running": {
+    "en": "Translation already running!",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquesttransl.batch.current_chapter": {
+    "en": "Translate current chapter",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquesttransl.batch.all_chapters": {
+    "en": "Translate all chapters",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquesttransl.batch.no_quests": {
+    "en": "No quests in this chapter",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquesttransl.batch.chat_started": {
+    "en": "[TFQ] Mass translation started. Target language: %s. Quests remaining: %s",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquesttransl.batch.chat_progress": {
+    "en": "[TFQ] Mass translation progress: %s%% (%s/%s)",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquesttransl.batch.chat_completed": {
+    "en": "[TFQ] Mass translation completed successfully!",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquesttransl.batch.chat_paused": {
+    "en": "[TFQ] Mass translation paused.",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquesttransl.batch.chat_cancelled": {
+    "en": "[TFQ] Mass translation cancelled.",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquesttransl.batch.chat_cache_cleared": {
+    "en": "[TFQ] Translation cache cleared.",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquesttransl.batch.menu_progress": {
+    "en": "Progress: %s%% (%s/%s)",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquesttransl.batch.menu_cancel": {
+    "en": "Cancel mass translation",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquesttransl.batch.clear_cache": {
+    "en": "Clear translation cache",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquesttransl.batch.clear_current": {
+    "en": "Clear current chapter",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquesttransl.batch.clear_all": {
+    "en": "Clear all chapters",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquesttransl.batch.confirm_restart": {
+    "en": "Restart Chapter Translation?",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquesttransl.batch.confirm_restart_desc": {
+    "en": "This chapter has already been translated. Translating it again will restart the process and clear the existing translation cache for this chapter. Do you wish to continue?",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquesttransl.batch.confirm_restart_all": {
+    "en": "Restart All Chapters Translation?",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquesttransl.batch.cache_empty": {
+    "en": "Mass translation cache is empty.",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquesttransl.batch.stop": {
+    "en": "Stop Batch Translation",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquesttransl.batch.chat_stopped": {
+    "en": "Batch translation stopped.",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquesttransl.batch.continue_old": {
+    "en": "Continue (%s/%s)",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquesttransl.batch.start_new": {
+    "en": "Start New Batch",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquesttransl.batch.confirm_new_over_old": {
+    "en": "Restart Batch?",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquesttransl.batch.confirm_new_over_old_desc": {
+    "en": "Are you sure you want to discard the previous progress?",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquesttransl.glossary": {
+    "en": "Glossary",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquesttransl.glossary.add_term": {
+    "en": "Add Term",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquesttransl.glossary.edit_term": {
+    "en": "Edit Term",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquesttransl.glossary.original_word": {
+    "en": "Original Word",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquesttransl.glossary.translated_word": {
+    "en": "Translated Word",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquesttransl.glossary.accept": {
+    "en": "Accept",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquesttransl.glossary.cancel": {
+    "en": "Cancel",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquesttransl.glossary.info.title": {
+    "en": "How the glossary works?",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquesttransl.glossary.info.desc": {
+    "en": "The glossary replaces specific words before or after translation.",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquesttransl.glossary.info.original": {
+    "en": "Original Word: the word or phrase to find in the quest.",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquesttransl.glossary.info.translated": {
+    "en": "Translated Word: what to replace it with.",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquesttransl.glossary.info.lang": {
+    "en": "Lang: the target language for this rule.",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquesttransl.glossary.info.all_mode": {
+    "en": "ALL mode: the rule applies to any language.",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquesttransl.batch.select_all": {
+    "en": "Select All",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquesttransl.batch.apply": {
+    "en": "Apply",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquesttransl.batch.delete_cache": {
+    "en": "Delete Cache",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquesttransl.batch.filter_all": {
+    "en": "ALL",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquesttransl.glossary.remove": {
+    "en": "Remove",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquesttransl.glossary.edit": {
+    "en": "Edit",
+    "zh": null,
+    "vi": null
+  }
+}

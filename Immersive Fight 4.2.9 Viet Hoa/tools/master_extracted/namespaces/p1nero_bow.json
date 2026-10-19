@@ -1,0 +1,37 @@
+{
+  "effect.p1nero_bow.double_arrow": {
+    "en": "Double Arrow",
+    "zh": "双重箭",
+    "vi": "Song Tiễn"
+  },
+  "effect.p1nero_bow.double_arrow.description": {
+    "en": null,
+    "zh": null,
+    "vi": "Đòn bắn cung sẽ bắn ra hai mũi tên cùng lúc"
+  },
+  "item.p1nero_bow.mortis": {
+    "en": "Mortis",
+    "zh": "墨提斯",
+    "vi": "Metis"
+  },
+  "item.p1nero_bow.mortis_innate.tooltip0": {
+    "en": "Mortis Echo",
+    "zh": "墨提斯之回响",
+    "vi": "Âm Vang Của Metis"
+  },
+  "item.p1nero_bow.mortis_innate.tooltip1": {
+    "en": "Press [%s] when shooting to cancel movement.",
+    "zh": "射箭时按下 [%s] 以取消位移。",
+    "vi": "Khi bắn tên nhấn [%s] để hủy bỏ chuyển động giật lùi về sau."
+  },
+  "item.p1nero_bow.mortis_innate.tooltip2": {
+    "en": "Upon unleashing a basic attack, press [%s] to deliver a devastating melee strike and reset your combo.",
+    "zh": "施展普通攻击后按下[%s]，即可发动毁灭性的近战打击，并重置连击。",
+    "vi": "Sau khi tung đòn đánh thường nhấn [%s] để phát động đòn cận chiến và đặt lại combo."
+  },
+  "item.p1nero_bow.mortis_innate.tooltip3": {
+    "en": "When the stack reaches its zenith, the power of twin arrows is bestowed upon you.",
+    "zh": "当层数达至巅峰，双箭之力将赐予汝身。",
+    "vi": "Khi nạp đầy năng lượng, nhận hiệu ứng bắn tên đôi."
+  }
+}

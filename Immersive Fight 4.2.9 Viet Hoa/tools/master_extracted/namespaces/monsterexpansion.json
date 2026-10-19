@@ -1,0 +1,1972 @@
+{
+  "attribute.name.monsterexpansion.defense": {
+    "en": "Defense",
+    "zh": "防御",
+    "vi": "phòng thủ"
+  },
+  "key.categories.monsterexpansion": {
+    "en": "Monster Expansion",
+    "zh": "怪物扩展",
+    "vi": "mở rộng quái vật"
+  },
+  "key.monsterexpansion.roll": {
+    "en": "Roll",
+    "zh": "翻滚",
+    "vi": "cuộn"
+  },
+  "key.monsterexpansion.arborix_jump": {
+    "en": "Arborix Jump",
+    "zh": "木栖羽龙跳跃",
+    "vi": "Rồng lông ở rừng nhảy"
+  },
+  "key.monsterexpansion.arborix_call_key": {
+    "en": "Call Arborix",
+    "zh": "召唤木栖羽龙",
+    "vi": "Triệu hồi Rồng lông sống ở gỗ"
+  },
+  "key.monsterexpansion.weapon_action": {
+    "en": "Weapon Action",
+    "zh": "武器技能",
+    "vi": "Kỹ năng sử dụng vũ khí"
+  },
+  "entity.monsterexpansion.arborix": {
+    "en": "Arborix",
+    "zh": "木栖羽龙",
+    "vi": "Arborix"
+  },
+  "entity.monsterexpansion.skrythe": {
+    "en": "Skrythe",
+    "zh": "肆空龙",
+    "vi": "Skrythe"
+  },
+  "entity.monsterexpansion.skrythe_tail": {
+    "en": "Skrythe Tail",
+    "zh": "肆空龙尾",
+    "vi": "Skrythe Tail"
+  },
+  "entity.monsterexpansion.skrythe_part": {
+    "en": "Skrythe Part",
+    "zh": "肆空龙部位",
+    "vi": "Skrythe Part"
+  },
+  "entity.monsterexpansion.ignathos": {
+    "en": "Ignathos",
+    "zh": "燃羽鸟",
+    "vi": "Ignathos"
+  },
+  "entity.monsterexpansion.ignathos_tail": {
+    "en": "Ignathos Tail",
+    "zh": "燃羽鸟尾",
+    "vi": "Ignathos Tail"
+  },
+  "entity.monsterexpansion.ignathos_part": {
+    "en": "Ignathos Part",
+    "zh": "燃羽鸟部位",
+    "vi": "Ignathos Part"
+  },
+  "entity.monsterexpansion.rhyza": {
+    "en": "Rhyza",
+    "zh": "锐爪兽",
+    "vi": "Rhyza"
+  },
+  "entity.monsterexpansion.rhyza_tail": {
+    "en": "Rhyza Tail",
+    "zh": "锐爪兽尾",
+    "vi": "Rhyza Tail"
+  },
+  "entity.monsterexpansion.rhyza_part": {
+    "en": "Rhyza Part",
+    "zh": "锐爪兽部位",
+    "vi": "Rhyza Part"
+  },
+  "entity.monsterexpansion.leivekilth": {
+    "en": "Leivekilth",
+    "zh": "凛冰兽",
+    "vi": "Leivekilth"
+  },
+  "entity.monsterexpansion.leivekilth_tail": {
+    "en": "Leivekilth Tail",
+    "zh": "凛冰兽尾",
+    "vi": "Leivekilth Tail"
+  },
+  "entity.monsterexpansion.leivekilth_part": {
+    "en": "Leivekilth Part",
+    "zh": "凛冰兽部位",
+    "vi": "Leivekilth Part"
+  },
+  "entity.monsterexpansion.rakoth": {
+    "en": "Rakoth",
+    "zh": "岩壳巨兽",
+    "vi": "Rakoth"
+  },
+  "entity.monsterexpansion.rakoth_tail": {
+    "en": "Rakoth Tail",
+    "zh": "岩壳巨兽尾",
+    "vi": "Rakoth Tail"
+  },
+  "entity.monsterexpansion.rakoth_part": {
+    "en": "Rakoth Part",
+    "zh": "岩壳巨兽部位",
+    "vi": "Rakoth Part"
+  },
+  "entity.monsterexpansion.kobeko": {
+    "en": "Kobeko",
+    "zh": "科贝蜥",
+    "vi": "Kobeko"
+  },
+  "block.monsterexpansion.foundry_placeholder": {
+    "en": "The Foundry",
+    "zh": "铸造炉",
+    "vi": "The Foundry"
+  },
+  "block.monsterexpansion.foundry": {
+    "en": "The Foundry",
+    "zh": "铸造炉",
+    "vi": "The Foundry"
+  },
+  "effect.monsterexpansion.cloaked": {
+    "en": "Cloaked",
+    "zh": "隐匿",
+    "vi": "Ẩn giấu"
+  },
+  "effect.monsterexpansion.cloaked_cooldown": {
+    "en": "Cloaked Cooldown",
+    "zh": "隐匿冷却",
+    "vi": "Thời gian hồi chiêu ẩn"
+  },
+  "effect.monsterexpansion.blinded": {
+    "en": "Blinded",
+    "zh": "致盲",
+    "vi": "mù"
+  },
+  "effect.monsterexpansion.discombobulated": {
+    "en": "Discombobulated",
+    "zh": "混乱",
+    "vi": "lú lẫn"
+  },
+  "effect.monsterexpansion.stunned": {
+    "en": "Stunned",
+    "zh": "眩晕",
+    "vi": "chóng mặt"
+  },
+  "effect.monsterexpansion.bleeding": {
+    "en": "Bleeding",
+    "zh": "流血",
+    "vi": "chảy máu"
+  },
+  "effect.monsterexpansion.lethargy": {
+    "en": "Lethargy",
+    "zh": " 虚弱",
+    "vi": "yếu đuối"
+  },
+  "effect.monsterexpansion.frostvein": {
+    "en": "Frostvein",
+    "zh": "霜脉",
+    "vi": "tĩnh mạch băng giá"
+  },
+  "effect.monsterexpansion.flarevein": {
+    "en": "Flarevein",
+    "zh": "焰脉",
+    "vi": "tĩnh mạch ngọn lửa"
+  },
+  "creativetab.monsterexpansion_tab": {
+    "en": "Monster Expansion",
+    "zh": "怪物扩展",
+    "vi": "mở rộng quái vật"
+  },
+  "item.monsterexpansion.skrythe_spawn_egg": {
+    "en": "Skrythe Spawn Egg",
+    "zh": "肆空龙刷怪蛋",
+    "vi": "Skrythe Spawn Egg"
+  },
+  "item.monsterexpansion.ignathos_spawn_egg": {
+    "en": "Ignathos Spawn Egg",
+    "zh": "燃羽鸟刷怪蛋",
+    "vi": "Ignathos Spawn Egg"
+  },
+  "item.monsterexpansion.rhyza_spawn_egg": {
+    "en": "Rhyza Spawn Egg",
+    "zh": "锐爪兽刷怪蛋",
+    "vi": "Rhyza Spawn Egg"
+  },
+  "item.monsterexpansion.leivekilth_spawn_egg": {
+    "en": "Leivekilth Spawn Egg",
+    "zh": "凛冰兽刷怪蛋",
+    "vi": "Leivekilth Spawn Egg"
+  },
+  "item.monsterexpansion.rakoth_spawn_egg": {
+    "en": "Rakoth Spawn Egg",
+    "zh": "岩壳巨兽刷怪蛋",
+    "vi": "Rakoth Spawn Egg"
+  },
+  "item.monsterexpansion.kobeko_spawn_egg": {
+    "en": "Kobeko Spawn Egg",
+    "zh": "科贝蜥刷怪蛋",
+    "vi": "Kobeko Spawn Egg"
+  },
+  "item.monsterexpansion.arborix_spawn_egg": {
+    "en": "Arborix Spawn Egg",
+    "zh": "木栖羽龙刷怪蛋",
+    "vi": "Arborix Spawn Egg"
+  },
+  "item.monsterexpansion.skrythe_fang": {
+    "en": "Skrythe Fang",
+    "zh": "肆空龙尖牙",
+    "vi": "Skrythe Fang"
+  },
+  "item.monsterexpansion.skrythe_armorplate": {
+    "en": "Skrythe Armorplate",
+    "zh": "肆空龙鳞甲",
+    "vi": "Skrythe Armorplate"
+  },
+  "item.monsterexpansion.skrythe_wing_membrane": {
+    "en": "Skrythe Wing Membrane",
+    "zh": "肆空龙翼膜",
+    "vi": "Skrythe Wing Membrane"
+  },
+  "item.monsterexpansion.skrythe_frill": {
+    "en": "Skrythe Frill",
+    "zh": "肆空龙头冠",
+    "vi": "Skrythe Frill"
+  },
+  "item.monsterexpansion.skrythe_tail": {
+    "en": "Skrythe Tail",
+    "zh": "肆空龙尾",
+    "vi": "Skrythe Tail"
+  },
+  "item.monsterexpansion.vocal_resonance_fold": {
+    "en": "Vocal Resonance Fold",
+    "zh": "共鸣声带",
+    "vi": "Vocal Resonance Fold"
+  },
+  "item.monsterexpansion.ignathos_talon": {
+    "en": "Ignathos Talon",
+    "zh": "燃羽鸟利爪",
+    "vi": "Ignathos Talon"
+  },
+  "item.monsterexpansion.ignathos_hide": {
+    "en": "Ignathos Hide",
+    "zh": "燃羽鸟皮革",
+    "vi": "Ignathos Hide"
+  },
+  "item.monsterexpansion.ignathos_feather": {
+    "en": "Ignathos Feather",
+    "zh": "燃羽鸟羽毛",
+    "vi": "Ignathos Feather"
+  },
+  "item.monsterexpansion.ignathos_beak": {
+    "en": "Ignathos Beak",
+    "zh": "燃羽鸟喙",
+    "vi": "Ignathos Beak"
+  },
+  "item.monsterexpansion.catalytic_ignition_crop": {
+    "en": "Catalytic Ignition Crop",
+    "zh": "催化火囊",
+    "vi": "Catalytic Ignition Crop"
+  },
+  "item.monsterexpansion.ignathos_tail": {
+    "en": "Ignathos Tail",
+    "zh": "燃羽鸟尾",
+    "vi": "Ignathos Tail"
+  },
+  "item.monsterexpansion.rhyza_claw": {
+    "en": "Rhyza Claw",
+    "zh": "锐爪兽利爪",
+    "vi": "Rhyza Claw"
+  },
+  "item.monsterexpansion.rhyza_fur": {
+    "en": "Rhyza Fur",
+    "zh": "锐爪兽皮毛",
+    "vi": "Rhyza Fur"
+  },
+  "item.monsterexpansion.rhyza_carapace": {
+    "en": "Rhyza Carapace",
+    "zh": "锐爪兽甲壳",
+    "vi": "Rhyza Carapace"
+  },
+  "item.monsterexpansion.rhyza_scale": {
+    "en": "Rhyza Scale",
+    "zh": "锐爪兽鳞片",
+    "vi": "Rhyza Scale"
+  },
+  "item.monsterexpansion.rhyza_tail": {
+    "en": "Rhyza Tail",
+    "zh": "锐爪兽尾",
+    "vi": "Rhyza Tail"
+  },
+  "item.monsterexpansion.rhyza_gleam_core": {
+    "en": "Rhyza Gleam Core",
+    "zh": "锐爪兽辉光核心",
+    "vi": "Rhyza Gleam Core"
+  },
+  "item.monsterexpansion.serrated_sharpclaw": {
+    "en": "Serrated Sharpclaw",
+    "zh": "锯齿利刃爪",
+    "vi": "Serrated Sharpclaw"
+  },
+  "item.monsterexpansion.leivekilth_armorplate": {
+    "en": "Leivekilth Armorplate",
+    "zh": "凛冰兽鳞甲",
+    "vi": "Leivekilth Armorplate"
+  },
+  "item.monsterexpansion.leivekilth_rimepelt": {
+    "en": "Leivekilth Rimepelt",
+    "zh": "凛冰兽霜毛皮",
+    "vi": "Leivekilth Rimepelt"
+  },
+  "item.monsterexpansion.leivekilth_tusk": {
+    "en": "Leivekilth Tusk",
+    "zh": "凛冰兽长牙",
+    "vi": "Leivekilth Tusk"
+  },
+  "item.monsterexpansion.leivekilth_tail": {
+    "en": "Leivekilth Tail",
+    "zh": "凛冰兽尾",
+    "vi": "Leivekilth Tail"
+  },
+  "item.monsterexpansion.hoarfrost_shard": {
+    "en": "Hoarfrost Shard",
+    "zh": "寒霜碎片",
+    "vi": "Hoarfrost Shard"
+  },
+  "item.monsterexpansion.deepfreeze_gland": {
+    "en": "Deepfreeze Gland",
+    "zh": "深冻腺体",
+    "vi": "Deepfreeze Gland"
+  },
+  "item.monsterexpansion.rakoth_underplate": {
+    "en": "Rakoth Underplate",
+    "zh": "岩壳巨兽腹甲",
+    "vi": "Rakoth Underplate"
+  },
+  "item.monsterexpansion.rakoth_carapace": {
+    "en": "Rakoth Carapace",
+    "zh": "岩壳巨兽甲壳",
+    "vi": "Rakoth Carapace"
+  },
+  "item.monsterexpansion.rakoth_horn": {
+    "en": "Rakoth Horn",
+    "zh": "岩壳巨兽角",
+    "vi": "Rakoth Horn"
+  },
+  "item.monsterexpansion.rakoth_tail": {
+    "en": "Rakoth Tail",
+    "zh": "岩壳巨兽尾",
+    "vi": "Rakoth Tail"
+  },
+  "item.monsterexpansion.sedimentary_scarp_shell": {
+    "en": "Sedimentary Scarp Shell",
+    "zh": "沉积岩壳",
+    "vi": "Sedimentary Scarp Shell"
+  },
+  "item.monsterexpansion.bedrock_core": {
+    "en": "Bedrock Core",
+    "zh": "基岩核心",
+    "vi": "Bedrock Core"
+  },
+  "item.monsterexpansion.monster_hardbone": {
+    "en": "Monster Hardbone",
+    "zh": "怪物硬骨",
+    "vi": "Monster Hardbone"
+  },
+  "item.monsterexpansion.flash_arrow": {
+    "en": "Flash Arrow",
+    "zh": "闪光箭",
+    "vi": "Flash Arrow"
+  },
+  "item.monsterexpansion.guidebook": {
+    "en": "Hunter's Notes",
+    "zh": "猎人手记",
+    "vi": "Hunter's Notes"
+  },
+  "item.monsterexpansion.wooden_mace": {
+    "en": "Wooden Mace",
+    "zh": "木制钉锤",
+    "vi": "Wooden Mace"
+  },
+  "item.monsterexpansion.stone_mace": {
+    "en": "Stone Mace",
+    "zh": "石制钉锤",
+    "vi": "Stone Mace"
+  },
+  "item.monsterexpansion.iron_mace": {
+    "en": "Iron Mace",
+    "zh": "铁制钉锤",
+    "vi": "Iron Mace"
+  },
+  "item.monsterexpansion.golden_mace": {
+    "en": "Golden Mace",
+    "zh": "金制钉锤",
+    "vi": "Golden Mace"
+  },
+  "item.monsterexpansion.diamond_mace": {
+    "en": "Diamond Mace",
+    "zh": "钻石钉锤",
+    "vi": "Diamond Mace"
+  },
+  "item.monsterexpansion.netherite_mace": {
+    "en": "Netherite Mace",
+    "zh": "下界合金钉锤",
+    "vi": "Netherite Mace"
+  },
+  "item.monsterexpansion.wooden_spear": {
+    "en": "Wooden Spear",
+    "zh": "木制长矛",
+    "vi": "Wooden Spear"
+  },
+  "item.monsterexpansion.stone_spear": {
+    "en": "Stone Spear",
+    "zh": "石制长矛",
+    "vi": "Stone Spear"
+  },
+  "item.monsterexpansion.iron_spear": {
+    "en": "Iron Spear",
+    "zh": "铁制长矛",
+    "vi": "Iron Spear"
+  },
+  "item.monsterexpansion.golden_spear": {
+    "en": "Golden Spear",
+    "zh": "金制长矛",
+    "vi": "Golden Spear"
+  },
+  "item.monsterexpansion.diamond_spear": {
+    "en": "Diamond Spear",
+    "zh": "钻石长矛",
+    "vi": "Diamond Spear"
+  },
+  "item.monsterexpansion.netherite_spear": {
+    "en": "Netherite Spear",
+    "zh": "下界合金长矛",
+    "vi": "Netherite Spear"
+  },
+  "item.monsterexpansion.horn_of_the_shattercry": {
+    "en": "Horn Of The Shattercry",
+    "zh": "碎地号角",
+    "vi": "Horn Of The Shattercry"
+  },
+  "item.monsterexpansion.duskrend": {
+    "en": "Duskrend",
+    "zh": "暮裂刃",
+    "vi": "Duskrend"
+  },
+  "item.monsterexpansion.rimescourge": {
+    "en": "Rimescourge",
+    "zh": "霜灾锤",
+    "vi": "Rimescourge"
+  },
+  "item.monsterexpansion.charcraw": {
+    "en": "Charcraw",
+    "zh": "灼热锤",
+    "vi": "Charcraw"
+  },
+  "item.monsterexpansion.spire_shell_bulwark": {
+    "en": "Spire Shell Bulwark",
+    "zh": "峰壳壁垒",
+    "vi": "Spire Shell Bulwark"
+  },
+  "item.monsterexpansion.taunt_shield": {
+    "en": "Taunt Shield",
+    "zh": "嘲讽盾牌",
+    "vi": "Taunt Shield"
+  },
+  "item.monsterexpansion.whistlewind_horn": {
+    "en": "Whistlewind Horn",
+    "zh": "风啸号角",
+    "vi": "Whistlewind Horn"
+  },
+  "item.monsterexpansion.vigor_belt": {
+    "en": "Vigor Belt",
+    "zh": "活力腰带",
+    "vi": "Vigor Belt"
+  },
+  "item.monsterexpansion.flash_bundle": {
+    "en": "Flash Bundle",
+    "zh": "闪光 bundle",
+    "vi": "Flash Bundle"
+  },
+  "item.monsterexpansion.kobeko_locator": {
+    "en": "Kobeko Locator",
+    "zh": "科贝蜥定位器",
+    "vi": "Kobeko Locator"
+  },
+  "item.monsterexpansion.skrythe_helmet": {
+    "en": "Skrythe Helmet",
+    "zh": "肆空龙头盔",
+    "vi": "Skrythe Helmet"
+  },
+  "item.monsterexpansion.skrythe_chestplate": {
+    "en": "Skrythe Chestplate",
+    "zh": "肆空龙胸甲",
+    "vi": "Skrythe Chestplate"
+  },
+  "item.monsterexpansion.skrythe_leggings": {
+    "en": "Skrythe Leggings",
+    "zh": "肆空龙护腿",
+    "vi": "Skrythe Leggings"
+  },
+  "item.monsterexpansion.skrythe_boots": {
+    "en": "Skrythe Boots",
+    "zh": "肆空龙靴子",
+    "vi": "Skrythe Boots"
+  },
+  "item.monsterexpansion.ignathos_helmet": {
+    "en": "Ignathos Helmet",
+    "zh": "燃羽鸟头盔",
+    "vi": "Ignathos Helmet"
+  },
+  "item.monsterexpansion.ignathos_chestplate": {
+    "en": "Ignathos Chestplate",
+    "zh": "燃羽鸟胸甲",
+    "vi": "Ignathos Chestplate"
+  },
+  "item.monsterexpansion.ignathos_leggings": {
+    "en": "Ignathos Leggings",
+    "zh": "燃羽鸟护腿",
+    "vi": "Ignathos Leggings"
+  },
+  "item.monsterexpansion.ignathos_boots": {
+    "en": "Ignathos Boots",
+    "zh": "燃羽鸟靴子",
+    "vi": "Ignathos Boots"
+  },
+  "item.monsterexpansion.rhyza_helmet": {
+    "en": "Rhyza Helmet",
+    "zh": "锐爪兽头盔",
+    "vi": "Rhyza Helmet"
+  },
+  "item.monsterexpansion.rhyza_chestplate": {
+    "en": "Rhyza Chestplate",
+    "zh": "锐爪兽胸甲",
+    "vi": "Rhyza Chestplate"
+  },
+  "item.monsterexpansion.rhyza_leggings": {
+    "en": "Rhyza Leggings",
+    "zh": "锐爪兽护腿",
+    "vi": "Rhyza Leggings"
+  },
+  "item.monsterexpansion.rhyza_boots": {
+    "en": "Rhyza Boots",
+    "zh": "锐爪兽靴子",
+    "vi": "Rhyza Boots"
+  },
+  "item.monsterexpansion.leivekilth_helmet": {
+    "en": "Leivekilth Helmet",
+    "zh": "凛冰兽头盔",
+    "vi": "Leivekilth Helmet"
+  },
+  "item.monsterexpansion.leivekilth_chestplate": {
+    "en": "Leivekilth Chestplate",
+    "zh": "凛冰兽胸甲",
+    "vi": "Leivekilth Chestplate"
+  },
+  "item.monsterexpansion.leivekilth_leggings": {
+    "en": "Leivekilth Leggings",
+    "zh": "凛冰兽护腿",
+    "vi": "Leivekilth Leggings"
+  },
+  "item.monsterexpansion.leivekilth_boots": {
+    "en": "Leivekilth Boots",
+    "zh": "凛冰兽靴子",
+    "vi": "Leivekilth Boots"
+  },
+  "item.monsterexpansion.rakoth_helmet": {
+    "en": "Rakoth Helmet",
+    "zh": "岩壳巨兽头盔",
+    "vi": "Rakoth Helmet"
+  },
+  "item.monsterexpansion.rakoth_chestplate": {
+    "en": "Rakoth Chestplate",
+    "zh": "岩壳巨兽胸甲",
+    "vi": "Rakoth Chestplate"
+  },
+  "item.monsterexpansion.rakoth_leggings": {
+    "en": "Rakoth Leggings",
+    "zh": "岩壳巨兽护腿",
+    "vi": "Rakoth Leggings"
+  },
+  "item.monsterexpansion.rakoth_boots": {
+    "en": "Rakoth Boots",
+    "zh": "岩壳巨兽靴子",
+    "vi": "Rakoth Boots"
+  },
+  "item.monsterexpansion.kobeko_skrythe_helmet": {
+    "en": "Skrythe Kobeko Helmet",
+    "zh": "肆空龙·科贝蜥头盔",
+    "vi": "Skrythe Kobeko Helmet"
+  },
+  "item.monsterexpansion.kobeko_skrythe_chestplate": {
+    "en": "Skrythe Kobeko Chestplate",
+    "zh": "肆空龙·科贝蜥胸甲",
+    "vi": "Skrythe Kobeko Chestplate"
+  },
+  "item.monsterexpansion.kobeko_rhyza_helmet": {
+    "en": "Rhyza Kobeko Helmet",
+    "zh": "锐爪兽·科贝蜥头盔",
+    "vi": "Rhyza Kobeko Helmet"
+  },
+  "item.monsterexpansion.kobeko_rhyza_chestplate": {
+    "en": "Rhyza Kobeko Chestplate",
+    "zh": "锐爪兽·科贝蜥胸甲",
+    "vi": "Rhyza Kobeko Chestplate"
+  },
+  "item.monsterexpansion.kobeko_leivekilth_helmet": {
+    "en": "Leivekilth Kobeko Helmet",
+    "zh": "凛冰兽·科贝蜥头盔",
+    "vi": "Leivekilth Kobeko Helmet"
+  },
+  "item.monsterexpansion.kobeko_leivekilth_chestplate": {
+    "en": "Leivekilth Kobeko Chestplate",
+    "zh": "凛冰兽·科贝蜥胸甲",
+    "vi": "Leivekilth Kobeko Chestplate"
+  },
+  "item.monsterexpansion.kobeko_rakoth_helmet": {
+    "en": "Rakoth Kobeko Helmet",
+    "zh": "岩壳巨兽·科贝蜥头盔",
+    "vi": "Rakoth Kobeko Helmet"
+  },
+  "item.monsterexpansion.kobeko_rakoth_chestplate": {
+    "en": "Rakoth Kobeko Chestplate",
+    "zh": "岩壳巨兽·科贝蜥胸甲",
+    "vi": "Rakoth Kobeko Chestplate"
+  },
+  "item.monsterexpansion.kobeko_ignathos_helmet": {
+    "en": "Ignathos Kobeko Helmet",
+    "zh": "燃羽鸟·科贝蜥头盔",
+    "vi": "Ignathos Kobeko Helmet"
+  },
+  "item.monsterexpansion.kobeko_ignathos_chestplate": {
+    "en": "Ignathos Kobeko Chestplate",
+    "zh": "燃羽鸟·科贝蜥胸甲",
+    "vi": "Ignathos Kobeko Chestplate"
+  },
+  "item.monsterexpansion.kobeko_iron_helmet": {
+    "en": "Iron Kobeko Helmet",
+    "zh": "铁制·科贝蜥头盔",
+    "vi": "Iron Kobeko Helmet"
+  },
+  "item.monsterexpansion.kobeko_iron_chestplate": {
+    "en": "Iron Kobeko Chestplate",
+    "zh": "铁制·科贝蜥胸甲",
+    "vi": "Iron Kobeko Chestplate"
+  },
+  "item.monsterexpansion.kobeko_gold_helmet": {
+    "en": "Gold Kobeko Helmet",
+    "zh": "金制·科贝蜥头盔",
+    "vi": "Gold Kobeko Helmet"
+  },
+  "item.monsterexpansion.kobeko_gold_chestplate": {
+    "en": "Gold Kobeko Chestplate",
+    "zh": "金制·科贝蜥胸甲",
+    "vi": "Gold Kobeko Chestplate"
+  },
+  "item.monsterexpansion.kobeko_diamond_helmet": {
+    "en": "Diamond Kobeko Helmet",
+    "zh": "钻石·科贝蜥头盔",
+    "vi": "Diamond Kobeko Helmet"
+  },
+  "item.monsterexpansion.kobeko_diamond_chestplate": {
+    "en": "Diamond Kobeko Chestplate",
+    "zh": "钻石·科贝蜥胸甲",
+    "vi": "Diamond Kobeko Chestplate"
+  },
+  "item.monsterexpansion.kobeko_netherite_helmet": {
+    "en": "Netherite Kobeko Helmet",
+    "zh": "下界合金·科贝蜥头盔",
+    "vi": "Netherite Kobeko Helmet"
+  },
+  "item.monsterexpansion.kobeko_netherite_chestplate": {
+    "en": "Netherite Kobeko Chestplate",
+    "zh": "下界合金·科贝蜥胸甲",
+    "vi": "Netherite Kobeko Chestplate"
+  },
+  "item.monsterexpansion.arborix_royal_cosmetic_head": {
+    "en": "Arborix Royal Cosmetic Head",
+    "zh": "木栖羽龙皇家装饰头饰",
+    "vi": "Arborix Royal Cosmetic Head"
+  },
+  "item.monsterexpansion.arborix_royal_cosmetic_chest": {
+    "en": "Arborix Royal Cosmetic Chest",
+    "zh": "木栖羽龙皇家装饰胸饰",
+    "vi": "Arborix Royal Cosmetic Chest"
+  },
+  "item.monsterexpansion.arborix_royal_cosmetic_tail": {
+    "en": "Arborix Royal Cosmetic Tail",
+    "zh": "木栖羽龙皇家装饰尾饰",
+    "vi": "Arborix Royal Cosmetic Tail"
+  },
+  "item.monsterexpansion.arborix_tophat_cosmetic_head": {
+    "en": "Arborix Top-hat Cosmetic Head",
+    "zh": "木栖羽龙高帽装饰头饰",
+    "vi": "Arborix Top-hat Cosmetic Head"
+  },
+  "item.monsterexpansion.arborix_skull_cosmetic_head": {
+    "en": "Arborix Skull Cosmetic Head",
+    "zh": "木栖羽龙骷髅装饰头饰",
+    "vi": "Arborix Skull Cosmetic Head"
+  },
+  "screen.monsterexpansion.foundry": {
+    "en": "The Foundry",
+    "zh": "铸造炉",
+    "vi": "lò đúc"
+  },
+  "screen.monsterexpansion.guidebook.title": {
+    "en": "Hunter's Notes",
+    "zh": "猎人手记",
+    "vi": "Ghi chú của thợ săn"
+  },
+  "screen.monsterexpansion.guidebook.monsterology": {
+    "en": "Monsterology",
+    "zh": "怪物学",
+    "vi": "Quái vật học"
+  },
+  "screen.monsterexpansion.guidebook.pathology": {
+    "en": "Pathology",
+    "zh": "病理学",
+    "vi": "bệnh lý"
+  },
+  "screen.monsterexpansion.guidebook.quests": {
+    "en": "Quests",
+    "zh": "任务",
+    "vi": "Nhiệm vụ"
+  },
+  "screen.monsterexpansion.guidebook.assignments": {
+    "en": "Assignments",
+    "zh": "委托",
+    "vi": "giao phó"
+  },
+  "screen.monsterexpansion.guidebook.optionals": {
+    "en": "Optionals",
+    "zh": "可选",
+    "vi": "Không bắt buộc"
+  },
+  "screen.monsterexpansion.guidebook.events": {
+    "en": "Events",
+    "zh": "事件",
+    "vi": "sự kiện"
+  },
+  "screen.monsterexpansion.guidebook.tab.ecology": {
+    "en": "Ecology",
+    "zh": "生态",
+    "vi": "sinh thái"
+  },
+  "screen.monsterexpansion.guidebook.tab.physiology": {
+    "en": "Physiology",
+    "zh": "生理",
+    "vi": "sinh lý"
+  },
+  "screen.monsterexpansion.guidebook.tab.drops": {
+    "en": "Drops",
+    "zh": "掉落物",
+    "vi": "Giọt"
+  },
+  "screen.monsterexpansion.guidebook.tab.effects": {
+    "en": "Effects",
+    "zh": "效果",
+    "vi": "Tác dụng"
+  },
+  "screen.monsterexpansion.guidebook.tab.consumables": {
+    "en": "Consumables",
+    "zh": "消耗品",
+    "vi": "Vật tư tiêu hao"
+  },
+  "screen.monsterexpansion.guidebook.tab.overview": {
+    "en": "Overview",
+    "zh": "总览",
+    "vi": "Tổng quan"
+  },
+  "screen.monsterexpansion.guidebook.tab.rewards": {
+    "en": "Rewards",
+    "zh": "奖励",
+    "vi": "phần thưởng"
+  },
+  "screen.monsterexpansion.guidebook.label.type": {
+    "en": "Type",
+    "zh": "类型",
+    "vi": "kiểu"
+  },
+  "screen.monsterexpansion.guidebook.label.threat_level": {
+    "en": "Threat Level",
+    "zh": "威胁等级",
+    "vi": "Mức độ đe dọa"
+  },
+  "screen.monsterexpansion.guidebook.label.habitats": {
+    "en": "Habitats",
+    "zh": "栖息地",
+    "vi": "môi trường sống"
+  },
+  "screen.monsterexpansion.guidebook.label.slain": {
+    "en": "Slain: ",
+    "zh": "已击杀：",
+    "vi": "Bị giết:"
+  },
+  "screen.monsterexpansion.guidebook.label.characteristics": {
+    "en": "Characteristics",
+    "zh": "特征",
+    "vi": "tính năng"
+  },
+  "screen.monsterexpansion.guidebook.label.element_effectiveness": {
+    "en": "Element Effectiveness",
+    "zh": "元素克制",
+    "vi": "Hạn chế nguyên tố"
+  },
+  "screen.monsterexpansion.guidebook.label.ice": {
+    "en": "Ice",
+    "zh": "冰",
+    "vi": "đá"
+  },
+  "screen.monsterexpansion.guidebook.label.fire": {
+    "en": "Fire",
+    "zh": "火",
+    "vi": "ngọn lửa"
+  },
+  "screen.monsterexpansion.guidebook.label.item": {
+    "en": "Item",
+    "zh": "物品",
+    "vi": "điều"
+  },
+  "screen.monsterexpansion.guidebook.label.rarity": {
+    "en": "Rarity",
+    "zh": "稀有度",
+    "vi": "hiếm có"
+  },
+  "screen.monsterexpansion.guidebook.label.count": {
+    "en": "Count",
+    "zh": "数量",
+    "vi": "Số lượng"
+  },
+  "screen.monsterexpansion.guidebook.label.chance": {
+    "en": "Chance",
+    "zh": "概率",
+    "vi": "Xác suất"
+  },
+  "screen.monsterexpansion.guidebook.label.tail_drop": {
+    "en": "Tail Drop",
+    "zh": "尾部掉落",
+    "vi": "đuôi rơi"
+  },
+  "screen.monsterexpansion.guidebook.label.fighting_tips": {
+    "en": "Fighting Tips",
+    "zh": "战斗技巧",
+    "vi": "kỹ năng chiến đấu"
+  },
+  "screen.monsterexpansion.guidebook.label.status_effects": {
+    "en": "Status Effects",
+    "zh": "状态效果",
+    "vi": "hiệu ứng trạng thái"
+  },
+  "screen.monsterexpansion.guidebook.label.severity_level": {
+    "en": "Severity Level",
+    "zh": "严重程度",
+    "vi": "Mức độ nghiêm trọng"
+  },
+  "screen.monsterexpansion.guidebook.label.effect_description": {
+    "en": "Effect Description",
+    "zh": "效果描述",
+    "vi": "Mô tả hiệu ứng"
+  },
+  "screen.monsterexpansion.guidebook.label.remedies": {
+    "en": "Remedies",
+    "zh": "治疗方法",
+    "vi": "Sự đối đãi"
+  },
+  "screen.monsterexpansion.guidebook.label.known_sources": {
+    "en": "Known Sources",
+    "zh": "已知来源",
+    "vi": "nguồn đã biết"
+  },
+  "screen.monsterexpansion.guidebook.label.difficulty": {
+    "en": "Difficulty",
+    "zh": "难度",
+    "vi": "khó khăn"
+  },
+  "screen.monsterexpansion.guidebook.label.time_limit": {
+    "en": "Time Limit",
+    "zh": "时间限制",
+    "vi": "giới hạn thời gian"
+  },
+  "screen.monsterexpansion.guidebook.label.minutes": {
+    "en": "Minutes",
+    "zh": "分钟",
+    "vi": "phút"
+  },
+  "screen.monsterexpansion.guidebook.label.conditions": {
+    "en": "Conditions",
+    "zh": "条件",
+    "vi": "tình trạng"
+  },
+  "screen.monsterexpansion.guidebook.label.locations": {
+    "en": "Locations",
+    "zh": "地点",
+    "vi": "Địa điểm"
+  },
+  "screen.monsterexpansion.guidebook.label.no_locations": {
+    "en": "No Locations",
+    "zh": "无地点",
+    "vi": "không có chỗ"
+  },
+  "screen.monsterexpansion.guidebook.label.quest_description": {
+    "en": "Quest Description",
+    "zh": "任务描述",
+    "vi": "Mô tả nhiệm vụ"
+  },
+  "screen.monsterexpansion.guidebook.label.player_single": {
+    "en": "1 Player",
+    "zh": "1人",
+    "vi": "1 người"
+  },
+  "screen.monsterexpansion.guidebook.label.player_multi": {
+    "en": "1-%s Players",
+    "zh": "1-%s人",
+    "vi": "1-%s người"
+  },
+  "screen.monsterexpansion.guidebook.label.done": {
+    "en": "[Done] ",
+    "zh": "[已完成] ",
+    "vi": "[Hoàn thành]"
+  },
+  "screen.monsterexpansion.guidebook.label.unknown": {
+    "en": "[ ? ]  ",
+    "zh": "[ ? ]  ",
+    "vi": "[ ? ]  "
+  },
+  "screen.monsterexpansion.guidebook.label.advancement_prefix": {
+    "en": "Advancement: ",
+    "zh": "进度：",
+    "vi": "lịch trình:"
+  },
+  "screen.monsterexpansion.guidebook.label.complete_prefix": {
+    "en": "Complete: ",
+    "zh": "完成：",
+    "vi": "Hoàn thành:"
+  },
+  "screen.monsterexpansion.guidebook.label.already_completed": {
+    "en": "Already Completed",
+    "zh": "已完成",
+    "vi": "Hoàn thành"
+  },
+  "screen.monsterexpansion.guidebook.label.one_time_quest": {
+    "en": "One-time Quest",
+    "zh": "一次性任务",
+    "vi": "nhiệm vụ một lần"
+  },
+  "screen.monsterexpansion.guidebook.label.monsters": {
+    "en": "Monsters",
+    "zh": "怪物",
+    "vi": "quái vật"
+  },
+  "tooltip.monsterexpansion.element": {
+    "en": " Element",
+    "zh": " 元素",
+    "vi": "yếu tố"
+  },
+  "tooltip.monsterexpansion.weapon_type": {
+    "en": " Type",
+    "zh": " 类型",
+    "vi": "kiểu"
+  },
+  "tooltip.monsterexpansion.resistances": {
+    "en": "Resistances",
+    "zh": "抗性",
+    "vi": "Sức chống cự"
+  },
+  "tooltip.monsterexpansion.drop_rarity.common": {
+    "en": "Common Drop",
+    "zh": "常见掉落",
+    "vi": "Giọt thông thường"
+  },
+  "tooltip.monsterexpansion.drop_rarity.uncommon": {
+    "en": "Uncommon Drop",
+    "zh": "罕见掉落",
+    "vi": "giọt hiếm"
+  },
+  "tooltip.monsterexpansion.drop_rarity.rare": {
+    "en": "Rare Drop",
+    "zh": "稀有掉落",
+    "vi": "Giọt hiếm"
+  },
+  "tooltip.monsterexpansion.drop_rarity.tail": {
+    "en": "Tail Drop",
+    "zh": "尾部掉落",
+    "vi": "đuôi rơi"
+  },
+  "tooltip.monsterexpansion.kobeko_gadget": {
+    "en": "Kobeko Gadget",
+    "zh": "科贝蜥装置",
+    "vi": "Thiết bị thằn lằn Kobe"
+  },
+  "tooltip.monsterexpansion.arborix_cosmetic_slot.head": {
+    "en": "Slot: Head",
+    "zh": "栏位：头部",
+    "vi": "Cột: Tiêu đề"
+  },
+  "tooltip.monsterexpansion.arborix_cosmetic_slot.chest": {
+    "en": "Slot: Chest",
+    "zh": "栏位：胸部",
+    "vi": "Cột: Ngực"
+  },
+  "tooltip.monsterexpansion.arborix_cosmetic_slot.tail": {
+    "en": "Slot: Tail",
+    "zh": "栏位：尾部",
+    "vi": "Cột: đuôi"
+  },
+  "tooltip.monsterexpansion.spireshellbulwark.description": {
+    "en": "Hewn from the mountain's patience, it only knows how to move forward.",
+    "zh": "由山岳的耐心凿成，它只懂得前进。",
+    "vi": "Được đẽo gọt bởi sự kiên nhẫn của núi non, nó chỉ biết tiến về phía trước."
+  },
+  "tooltip.monsterexpansion.spireshellbulwark.charge": {
+    "en": "» Hold Right-Click + Sprint: ",
+    "zh": "» 按住右键+冲刺：",
+    "vi": "» Giữ nút phải + chạy nước rút:"
+  },
+  "tooltip.monsterexpansion.spireshellbulwark.charge_details": {
+    "en": "Charge. Impact deals damage and inflicts Bleeding.",
+    "zh": "冲锋。撞击造成伤害并施加流血。",
+    "vi": "thù lao. Lực xung kích gây sát thương và gây chảy máu."
+  },
+  "tooltip.monsterexpansion.spireshellbulwark.passive": {
+    "en": "» Passive: ",
+    "zh": "» 被动：",
+    "vi": "\" Thụ động:"
+  },
+  "tooltip.monsterexpansion.spireshellbulwark.passive_details": {
+    "en": "You're able to block attacks which would disable or ignore shields. (Large monsters excluded)",
+    "zh": "你可以格挡通常会使盾牌失效或被忽略的攻击。（大型怪物除外）",
+    "vi": "Bạn có thể chặn các cuộc tấn công thường vô hiệu hóa hoặc bỏ qua lá chắn. (Trừ quái vật lớn)"
+  },
+  "tooltip.monsterexpansion.spireshellbulwark.flavor": {
+    "en": "The ground shook first. Then you did.",
+    "zh": "大地先颤抖了。然后是你。",
+    "vi": "Trái đất rung chuyển đầu tiên. Sau đó là bạn."
+  },
+  "tooltip.monsterexpansion.duskrend.description": {
+    "en": "Forged from the dusk's claw, it moves faster than its shadow.",
+    "zh": "以暮色之爪锻造而成，其速快过自身阴影。",
+    "vi": "Được rèn từ Claws of Dusk, nó nhanh hơn chính cái bóng của nó."
+  },
+  "tooltip.monsterexpansion.duskrend.counter": {
+    "en": "» Right-Click: ",
+    "zh": "» 右键：",
+    "vi": "» Nhấp chuột phải:"
+  },
+  "tooltip.monsterexpansion.duskrend.counter.details": {
+    "en": "Open a brief parry window. Absorb a direct hit to retaliate with a counter-dash.",
+    "zh": "开启短暂的招架窗口。吸收一次直接攻击后发动反击突刺。",
+    "vi": "Mở một cửa sổ đỡ đòn ngắn gọn. Hấp thụ đòn tấn công trực tiếp và phát động lực đẩy phản công."
+  },
+  "tooltip.monsterexpansion.duskrend.dual_wield": {
+    "en": "» Dual Wield: ",
+    "zh": "» 双持：",
+    "vi": "» Sử dụng kép:"
+  },
+  "tooltip.monsterexpansion.duskrend.dual_wield.details": {
+    "en": "Counter damage is doubled.",
+    "zh": "反击伤害翻倍。",
+    "vi": "Sát thương phản công tăng gấp đôi."
+  },
+  "tooltip.monsterexpansion.duskrend.flavor": {
+    "en": "The dusk hunts with silent grace.",
+    "zh": "暮色以无声的优雅狩猎。",
+    "vi": "Chạng vạng săn lùng với ân sủng thầm lặng."
+  },
+  "tooltip.monsterexpansion.rimescourge.description": {
+    "en": "Hammered from winter's bone, it buries what it touches and lifts what it breaks.",
+    "zh": "一把凝聚冰川怒意的重锤。",
+    "vi": "Một chiếc búa nặng nề ngưng tụ cơn thịnh nộ của sông băng."
+  },
+  "tooltip.monsterexpansion.rimescourge.effect.hit": {
+    "en": "» On hit (1/3 chance): ",
+    "zh": "» 命中时：",
+    "vi": "» Bị đánh:"
+  },
+  "tooltip.monsterexpansion.rimescourge.effect.hit.details": {
+    "en": "Inflict Frostvein, stacking up to 3 layers of slowing chill.",
+    "zh": "施加霜寒脉络，层层寒意使敌人减速麻木。",
+    "vi": "Áp dụng các tĩnh mạch băng giá, các lớp lạnh sẽ làm chậm và làm tê liệt kẻ thù."
+  },
+  "tooltip.monsterexpansion.rimescourge.effect.use": {
+    "en": "» Hold Right-Click: ",
+    "zh": "» 使用时：",
+    "vi": "» Khi sử dụng:"
+  },
+  "tooltip.monsterexpansion.rimescourge.effect.use.details": {
+    "en": "Charge a slam that erupts rings of ice spikes ahead. Longer charge spawns more rings. Launches you skyward on release.",
+    "zh": "释放一道带有冰刺的极寒冲击波。",
+    "vi": "Giải phóng một làn sóng xung kích cực lạnh với những gai băng."
+  },
+  "tooltip.monsterexpansion.rimescourge.flavor": {
+    "en": "The chill in the air isn't the weather.",
+    "zh": "你感觉周围的空气变得寒冷...",
+    "vi": "Bạn cảm thấy không khí xung quanh mình trở nên lạnh hơn..."
+  },
+  "tooltip.monsterexpansion.charcraw.description": {
+    "en": "Hammered out fast and pointed forward, it has always preferred the direct approach.",
+    "zh": "快速锻造而成，指向明确，它一直偏爱直截了当的方式。",
+    "vi": "Được rèn giũa và nhọn một cách nhanh chóng, nó luôn thiên về cách tiếp cận đơn giản."
+  },
+  "tooltip.monsterexpansion.charcraw.use": {
+    "en": "» Right-Click: ",
+    "zh": "» 右键：",
+    "vi": "» Nhấp chuột phải:"
+  },
+  "tooltip.monsterexpansion.charcraw.use.details": {
+    "en": "Channel a fiery burst that detonates ahead, dealing heavy damage in a wide radius.",
+    "zh": "引导一道烈焰爆裂，在前方引爆，对大范围区域造成巨额伤害。",
+    "vi": "Hướng dẫn một luồng lửa bùng nổ và phát nổ ở phía trước, gây ra thiệt hại lớn trên một khu vực rộng lớn."
+  },
+  "tooltip.monsterexpansion.charcraw.flavor": {
+    "en": "Subtlety is a skill. You'll learn it later.",
+    "zh": "含蓄是一种技巧。你以后会学会的。",
+    "vi": "Tiềm ẩn là một kỹ năng. Bạn sẽ học nó sau."
+  },
+  "tooltip.monsterexpansion.horn_of_shattercry.description": {
+    "en": "Rung from a cry that split the earth, it hasn't quieted since.",
+    "zh": "由一声撕裂大地的呐喊铸就，自此再未平息。",
+    "vi": "Được rèn bởi một tiếng kêu xé nát trái đất và không bao giờ im lặng kể từ đó."
+  },
+  "tooltip.monsterexpansion.horn_of_shattercry.standing_use": {
+    "en": "» Hold Use: ",
+    "zh": "» 按住使用键：",
+    "vi": "» Bấm và giữ phím sử dụng:"
+  },
+  "tooltip.monsterexpansion.horn_of_shattercry.projectile": {
+    "en": "Plant a Sound Mine in front of you. It detonates when enemies draw near, sending out a shockwave.",
+    "zh": "在你前方放置一个声波地雷。敌人接近时会引爆，释放冲击波。",
+    "vi": "Đặt một mỏ âm thanh trước mặt bạn. Nó sẽ phát nổ khi kẻ địch đến gần, giải phóng sóng xung kích."
+  },
+  "tooltip.monsterexpansion.horn_of_shattercry.flavor": {
+    "en": "You don't blow it. You give it permission.",
+    "zh": "不是你吹响它。而是你允许它发声。",
+    "vi": "Không phải bạn là người thổi nó. Đúng hơn là bạn cho phép nó nói."
+  },
+  "tooltip.monsterexpansion.flash_bundle.description": {
+    "en": "A compact cluster of flash arrows, thrown by Kobeko who can't be bothered with bows.",
+    "zh": "一捆紧凑的闪光箭，由懒得用弓的科贝蜥投掷。",
+    "vi": "Một bó mũi tên nhỏ gọn, được ném bởi một Kobelizard quá lười sử dụng cung."
+  },
+  "tooltip.monsterexpansion.taunt_shield.description": {
+    "en": "A battered Kobeko shield, more noise than metal, perfect for drawing attention.",
+    "zh": "一面破旧的科贝蜥盾牌，噪音多于金属，非常适合吸引注意力。",
+    "vi": "Một tấm khiên kobe cũ kỹ tạo ra nhiều tiếng ồn hơn kim loại, hoàn hảo để thu hút sự chú ý."
+  },
+  "tooltip.monsterexpansion.whistlewind_horn.description": {
+    "en": "A Skrythe-alloy horn that releases a burst of wind, bolstering its Kobeko wielder.",
+    "zh": "一把肆空龙合金制成的号角，能释放一阵狂风，增强其科贝蜥主人。",
+    "vi": "Một chiếc sừng làm bằng hợp kim Skydragon có thể giải phóng một luồng gió tăng sức mạnh cho chủ nhân của nó."
+  },
+  "tooltip.monsterexpansion.vigor_belt.description": {
+    "en": "A sturdy belt rigged to carry potions, letting a Kobeko mend itself or its master on the fly.",
+    "zh": "一条坚固的腰带，用于携带药水，让科贝蜥能在战斗中为自己或主人疗伤。",
+    "vi": "Một chiếc thắt lưng chắc chắn dùng để đựng bình thuốc, cho phép Cobel tự chữa lành vết thương cho bản thân hoặc chủ nhân trong khi chiến đấu."
+  },
+  "tooltip.monsterexpansion.kobeko_locator.description": {
+    "en": "Allows you to teleport your tamed Kobeko to you from anywhere!",
+    "zh": "允许你将驯服的科贝蜥从任何地方传送到你身边！",
+    "vi": "Cho phép bạn dịch chuyển những con Corbetans đã được thuần hóa đến bạn từ bất cứ đâu!"
+  },
+  "tooltip.monsterexpansion.skrythe_armor.description": {
+    "en": "An armor piece crafted from the Skrythe's materials.",
+    "zh": "一件用肆空龙的材料制作的护甲。",
+    "vi": "Một bộ áo giáp được làm từ chất liệu của Si Konglong."
+  },
+  "tooltip.monsterexpansion.skrythe_armor.set_bonus": {
+    "en": "Set Bonus:",
+    "zh": "套装加成：",
+    "vi": "Đặt tiền thưởng:"
+  },
+  "tooltip.monsterexpansion.skrythe_armor.resilience": {
+    "en": "You gain Skrythe's resilience; increased knockback resistance.",
+    "zh": "获得肆空龙的韧性；增加击退抗性。",
+    "vi": "Đạt được độ dẻo dai của Sky Dragon; tăng khả năng chống đẩy lùi."
+  },
+  "tooltip.monsterexpansion.skrythe_armor.might": {
+    "en": "You gain Skrythe's might; resistance to fall damage, falls erupt into shockwaves.",
+    "zh": "获得肆空龙的力量；抵抗摔落伤害，落地时产生冲击波。",
+    "vi": "Đạt được sức mạnh của Sky Dragon; chống lại sát thương rơi xuống và tạo ra sóng xung kích khi hạ cánh."
+  },
+  "tooltip.monsterexpansion.skrythe_kobeko_armor.description": {
+    "en": "An armor piece crafted with Skrythe's materials for the Kobeko.",
+    "zh": "一件为科贝蜥用肆空龙材料制作的护甲。",
+    "vi": "Một bộ áo giáp được làm từ chất liệu của Sky Dragon dành cho Thằn lằn Kobe."
+  },
+  "tooltip.monsterexpansion.skrythe_kobeko_armor.set_bonus": {
+    "en": "Set Bonus:",
+    "zh": "套装加成：",
+    "vi": "Đặt tiền thưởng:"
+  },
+  "tooltip.monsterexpansion.skrythe_kobeko_armor.fall_resistance": {
+    "en": "Kobeko becomes resistant to fall damage.",
+    "zh": "科贝蜥获得摔落伤害抗性。",
+    "vi": "Kobelizard có khả năng chống chịu sát thương khi rơi."
+  },
+  "tooltip.monsterexpansion.ignathos_armor.description": {
+    "en": "An armor piece crafted from the Ignathos's materials.",
+    "zh": "一件用燃羽鸟的材料制作的护甲。",
+    "vi": "Một bộ áo giáp được làm từ chất liệu của Burning Feather Bird."
+  },
+  "tooltip.monsterexpansion.ignathos_armor.set_bonus": {
+    "en": "Set Bonus:",
+    "zh": "套装加成：",
+    "vi": "Đặt tiền thưởng:"
+  },
+  "tooltip.monsterexpansion.ignathos_armor.sweet_zone": {
+    "en": "You gain Ignathos's precision; attacks at optimal range deal increased damage. (3.5 - 5 Blocks)",
+    "zh": "获得燃羽鸟的精准；在最佳距离攻击造成额外伤害。（3.5 - 5格）",
+    "vi": "Đạt được độ chính xác của Burning Bird; tấn công ở khoảng cách tối ưu để tăng thêm sát thương. (3,5 - 5 lưới)"
+  },
+  "tooltip.monsterexpansion.ignathos_armor.reach": {
+    "en": "You gain Ignathos's reach; increased block and entity reach.",
+    "zh": "获得燃羽鸟的延伸；增加方块和实体触及距离。",
+    "vi": "Có được phần mở rộng của Burning Feather Bird; tăng phạm vi tiếp cận của các khối và thực thể."
+  },
+  "tooltip.monsterexpansion.rhyza_armor.description": {
+    "en": "An armor piece crafted from the Rhyza's materials.",
+    "zh": "一件用锐爪兽的材料制作的护甲。",
+    "vi": "Một bộ áo giáp được làm từ vật liệu móng vuốt sắc nhọn."
+  },
+  "tooltip.monsterexpansion.rhyza_armor.set_bonus": {
+    "en": "Set Bonus:",
+    "zh": "套装加成：",
+    "vi": "Đặt tiền thưởng:"
+  },
+  "tooltip.monsterexpansion.rhyza_armor.dazzle_resistance": {
+    "en": "You gain Rhyza's dazzle resistance; you are immune to blinding light.",
+    "zh": "获得锐爪兽的炫光抗性；免疫致盲光线。",
+    "vi": "Đạt được khả năng chống chói của móng vuốt sắc nhọn; miễn dịch với các tia chói mắt."
+  },
+  "tooltip.monsterexpansion.rhyza_armor.cloaking": {
+    "en": "You gain Rhyza's cloaking; you become invisible on low hp.",
+    "zh": "获得锐爪兽的隐匿；低生命值时隐身。",
+    "vi": "Có được khả năng tàng hình của Sharpclaw; trở nên vô hình khi sức khỏe thấp."
+  },
+  "tooltip.monsterexpansion.rhyza_kobeko_armor.description": {
+    "en": "An armor piece crafted with Rhyza's materials for the Kobeko.",
+    "zh": "一件为科贝蜥用锐爪兽材料制作的护甲。",
+    "vi": "Một bộ áo giáp được làm từ chất liệu móng vuốt sắc nhọn dành cho thằn lằn Kobe."
+  },
+  "tooltip.monsterexpansion.rhyza_kobeko_armor.set_bonus": {
+    "en": "Set Bonus:",
+    "zh": "套装加成：",
+    "vi": "Đặt tiền thưởng:"
+  },
+  "tooltip.monsterexpansion.rhyza_kobeko_armor.movement_speed": {
+    "en": "Kobeko gains increased movement speed.",
+    "zh": "科贝蜥获得移动速度提升。",
+    "vi": "Kobelis tăng tốc độ di chuyển."
+  },
+  "tooltip.monsterexpansion.leivekilth_armor.description": {
+    "en": "An armor piece crafted from the Leivekilth's materials",
+    "zh": "一件用凛冰兽的材料制作的护甲。",
+    "vi": "Một bộ áo giáp được làm từ vật liệu của Ice Beast."
+  },
+  "tooltip.monsterexpansion.leivekilth_armor.set_bonus": {
+    "en": "Set Bonus:",
+    "zh": "套装加成：",
+    "vi": "Đặt tiền thưởng:"
+  },
+  "tooltip.monsterexpansion.leivekilth_armor.frostwalker": {
+    "en": "You gain Leivekilth's frost control; you have permanent frostwalker.",
+    "zh": "获得凛冰兽的霜冻控制；永久拥有冰霜行者附魔。",
+    "vi": "Có được khả năng kiểm soát băng giá của quái thú băng; sở hữu vĩnh viễn bùa mê Frost Walker."
+  },
+  "tooltip.monsterexpansion.leivekilth_armor.ice_armor": {
+    "en": "You gain Leivekilth's ice armor; chance of bursting ice, damaging whatever attacked you.",
+    "zh": "获得凛冰兽的冰甲；有几率迸发冰刺，伤害攻击者。",
+    "vi": "Có được áo giáp băng của quái thú băng; nó có cơ hội phóng ra những gai băng, gây sát thương cho kẻ tấn công."
+  },
+  "tooltip.monsterexpansion.leivekilth_kobeko_armor.description": {
+    "en": "An armor piece crafted with Leivekilth's materials for the Kobeko.",
+    "zh": "一件为科贝蜥用凛冰兽材料制作的护甲。",
+    "vi": "Một bộ áo giáp làm từ vật liệu quái thú băng dành cho Thằn lằn Kobe."
+  },
+  "tooltip.monsterexpansion.leivekilth_kobeko_armor.set_bonus": {
+    "en": "Set Bonus:",
+    "zh": "套装加成：",
+    "vi": "Đặt tiền thưởng:"
+  },
+  "tooltip.monsterexpansion.leivekilth_kobeko_armor.stagger_effect": {
+    "en": "Kobeko stagger's shatter ice, damaging those near.",
+    "zh": "科贝蜥的踉跄会震碎寒冰，伤害附近的敌人。",
+    "vi": "Cú loạng choạng của Kobelisk sẽ phá vỡ băng, gây sát thương cho kẻ địch ở gần."
+  },
+  "tooltip.monsterexpansion.rakoth_armor.description": {
+    "en": "An armor piece crafted from the Rakoth's materials",
+    "zh": "一件用岩壳巨兽的材料制作的护甲。",
+    "vi": "Một bộ áo giáp được làm từ chất liệu của quái vật vỏ đá."
+  },
+  "tooltip.monsterexpansion.rakoth_armor.set_bonus": {
+    "en": "Set Bonus:",
+    "zh": "套装加成：",
+    "vi": "Đặt tiền thưởng:"
+  },
+  "tooltip.monsterexpansion.rakoth_armor.step_over_blocks": {
+    "en": "You gain Rakoth's steadfastness; you can step over full blocks.",
+    "zh": "获得岩壳巨兽的稳健；可以跨过完整方块。",
+    "vi": "Đạt được sự ổn định của một con quái vật vỏ đá; có thể mở rộng toàn bộ khối."
+  },
+  "tooltip.monsterexpansion.rakoth_armor.momentum_deflect": {
+    "en": "You gain Rakoth's unyielding mass; sprinting builds momentum to deflect projectiles.",
+    "zh": "获得岩壳巨兽的不屈质量；冲刺积累动量以偏转弹射物。",
+    "vi": "Đạt được khối lượng kiên cường của một con quái vật vỏ đá; chạy nước rút để tạo đà làm chệch hướng đạn."
+  },
+  "tooltip.monsterexpansion.rakoth_kobeko_armor.description": {
+    "en": "An armor piece crafted with Rakoth's materials for the Kobeko.",
+    "zh": "一件为科贝蜥用岩壳巨兽材料制作的护甲。",
+    "vi": "Một bộ áo giáp được làm từ chất liệu của quái thú vỏ đá dành cho Thằn lằn Kobe."
+  },
+  "tooltip.monsterexpansion.rakoth_kobeko_armor.set_bonus": {
+    "en": "Set Bonus:",
+    "zh": "套装加成：",
+    "vi": "Đặt tiền thưởng:"
+  },
+  "tooltip.monsterexpansion.rakoth_kobeko_armor.aoe_attack": {
+    "en": "Kobeko's regular attacks become area of effect.",
+    "zh": "科贝蜥的普通攻击变为范围效果。",
+    "vi": "Các đòn tấn công thông thường của Corbet trở thành vùng có hiệu lực."
+  },
+  "tooltip.monsterexpansion.ignathos_kobeko_armor.description": {
+    "en": "An armor piece crafted with Ignathos's materials for the Kobeko.",
+    "zh": "一件为科贝蜥用燃羽鸟材料制作的护甲。",
+    "vi": "Một bộ áo giáp làm từ chất liệu chim lửa dành cho thằn lằn Kobe."
+  },
+  "tooltip.monsterexpansion.ignathos_kobeko_armor.set_bonus": {
+    "en": "Set Bonus:",
+    "zh": "套装加成：",
+    "vi": "Đặt tiền thưởng:"
+  },
+  "tooltip.monsterexpansion.ignathos_kobeko_armor.fuel_revival": {
+    "en": "A fainted Kobeko can be revived with Ignathos fuel blocks.",
+    "zh": "可以使用燃羽鸟燃料块复活昏倒的科贝蜥。",
+    "vi": "Kobelizard bị ngất có thể được hồi sinh bằng cách sử dụng Khối Nhiên liệu Chim Đốt."
+  },
+  "tooltip.monsterexpansion.kobeko_armor.description": {
+    "en": "An armor piece for the Kobeko.",
+    "zh": "一件给科贝蜥的护甲。",
+    "vi": "Một bộ áo giáp cho Kobelizard."
+  },
+  "tooltip.monsterexpansion.kobeko_armor.armor": {
+    "en": "Defense: ",
+    "zh": "防御：",
+    "vi": "phòng thủ:"
+  },
+  "tooltip.monsterexpansion.skrythe_fang.description": {
+    "en": "A razor-sharp fang broken from the Skrythe's jaw.",
+    "zh": "一颗从肆空龙颌上折断的锋利尖牙。",
+    "vi": "Một chiếc răng nanh sắc nhọn gãy ra từ hàm của một con rồng Si Kong."
+  },
+  "tooltip.monsterexpansion.skrythe_armorplate.description": {
+    "en": "A dense fragment of scale dropped from the Skrythe.",
+    "zh": "一块从肆空龙身上掉落的致密鳞片碎片。",
+    "vi": "Một mảnh vảy dày đặc rơi xuống từ Sky Dragon."
+  },
+  "tooltip.monsterexpansion.skrythe_wing_membrane.description": {
+    "en": "A torn stretch of wing membrane dropped from the Skrythe.",
+    "zh": "一片从肆空龙身上撕下的破损翼膜。",
+    "vi": "Một mảnh màng cánh bị rách ra khỏi cơ thể Si Konglong."
+  },
+  "tooltip.monsterexpansion.skrythe_frill.description": {
+    "en": "A vibrant blue frill dropped from the Skrythe.",
+    "zh": "一片从肆空龙身上掉落的鲜艳蓝色头冠。",
+    "vi": "Một mảnh vương miện màu xanh sáng rơi ra khỏi cơ thể Si Konglong."
+  },
+  "tooltip.monsterexpansion.skrythe_tail.description": {
+    "en": "Skrythe's tail piece dropped by severing the beast's tail from its body.",
+    "zh": "通过切断野兽尾巴获得的肆空龙尾部材料。",
+    "vi": "Nguyên liệu đuôi của Sky Dragon thu được bằng cách cắt đuôi con thú."
+  },
+  "tooltip.monsterexpansion.vocal_resonance_fold.description": {
+    "en": "A magical fragment of Skrythe's throat, humming with the wyvern's lingering roar.",
+    "zh": "一块带有魔力的肆空龙喉咙碎片，萦绕着飞龙残留的咆哮。",
+    "vi": "Một mảnh ma thuật trong cổ họng của Sky Dragon đọng lại cùng với tiếng gầm còn lại của con rồng đang bay."
+  },
+  "tooltip.monsterexpansion.ignathos_talon.description": {
+    "en": "A curved, sharp talon ripped from the Ignathos.",
+    "zh": "一只从燃羽鸟身上扯下的弯曲利爪。",
+    "vi": "Một móng vuốt cong xé ra từ một con chim lông đang cháy."
+  },
+  "tooltip.monsterexpansion.ignathos_hide.description": {
+    "en": "A thick slab of fire-resistant hide stripped from the Ignathos.",
+    "zh": "一块从燃羽鸟身上剥下的厚实防火皮革。",
+    "vi": "Một miếng da dày chống cháy được lấy ra từ cơ thể của một con chim lửa."
+  },
+  "tooltip.monsterexpansion.ignathos_feather.description": {
+    "en": "A soot-darkened feather plucked from the Ignathos.",
+    "zh": "一根从燃羽鸟身上拔下的烟熏色羽毛。",
+    "vi": "Một chiếc lông khói được nhổ từ một con chim lửa."
+  },
+  "tooltip.monsterexpansion.ignathos_beak.description": {
+    "en": "A jagged fragment of the Ignathos's reinforced beak.",
+    "zh": "一片燃羽鸟强化喙部的锯齿状碎片。",
+    "vi": "Một mảnh lởm chởm của chiếc mỏ được gia cố của loài chim đốt."
+  },
+  "tooltip.monsterexpansion.catalytic_ignition_crop.description": {
+    "en": "The volatile organ the Ignathos uses to ignite its internal furnace. It still radiates heat.",
+    "zh": "燃羽鸟用来点燃体内熔炉的挥发性器官。它仍在散发着热量。",
+    "vi": "Cơ quan dễ bay hơi được Burning Feather sử dụng để đốt cháy lò bên trong. Nó vẫn đang tỏa nhiệt."
+  },
+  "tooltip.monsterexpansion.ignathos_tail.description": {
+    "en": "Ignathos's tail piece dropped by severing the beast's tail from its body.",
+    "zh": "通过切断野兽尾巴获得的燃羽鸟尾部材料。",
+    "vi": "Nguyên liệu đuôi chim lông cháy thu được bằng cách cắt đuôi quái thú."
+  },
+  "tooltip.monsterexpansion.rhyza_claw.description": {
+    "en": "A razor-sharp claw dropped from the Rhyza.",
+    "zh": "一只从锐爪兽身上掉落的锋利爪子。",
+    "vi": "Một móng vuốt sắc nhọn rơi ra từ một Sharpclaw."
+  },
+  "tooltip.monsterexpansion.rhyza_fur.description": {
+    "en": "A thick piece of fur dropped from the Rhyza.",
+    "zh": "一块从锐爪兽身上掉落的厚实皮毛。",
+    "vi": "Một mảnh lông dày rơi ra từ một con Sharpclaw."
+  },
+  "tooltip.monsterexpansion.rhyza_carapace.description": {
+    "en": "A hardened segment of exoskeleton dropped by the Rhyza.",
+    "zh": "一段从锐爪兽身上掉落的硬化外骨骼。",
+    "vi": "Một mảnh xương ngoài cứng rơi ra từ Sharpclaw."
+  },
+  "tooltip.monsterexpansion.rhyza_scale.description": {
+    "en": "A hard shard of scale dropped by the Rhyza.",
+    "zh": "一片从锐爪兽身上掉落的坚硬鳞片。",
+    "vi": "Một chiếc vảy cứng rơi xuống từ con thú có móng vuốt sắc nhọn."
+  },
+  "tooltip.monsterexpansion.rhyza_tail.description": {
+    "en": "Rhyza's tail piece dropped by severing the beast's tail from its body.",
+    "zh": "通过切断野兽尾巴获得的锐爪兽尾部材料。",
+    "vi": "Vật liệu đuôi Sharpclaw thu được bằng cách cắt đuôi của con thú."
+  },
+  "tooltip.monsterexpansion.rhyza_gleam_core.description": {
+    "en": "A radiant core pulsing with blinding light, dropped by the Rhyza.",
+    "zh": "一颗脉动着致盲光芒的光辉核心，由锐爪兽掉落。",
+    "vi": "Một lõi rạng rỡ phát ra ánh sáng chói mắt do Vuốt Sắc rơi ra."
+  },
+  "tooltip.monsterexpansion.serrated_sharpclaw.description": {
+    "en": "A jagged claw from Rhyza, edged with unnatural precision and highly prized.",
+    "zh": "一只来自锐爪兽的锯齿状利爪，边缘带着异常的锋利，备受珍视。",
+    "vi": "Một móng vuốt lởm chởm của một con thú có móng vuốt sắc nhọn, với cạnh sắc bén khác thường, được đánh giá cao."
+  },
+  "tooltip.monsterexpansion.leivekilth_armorplate.description": {
+    "en": "A dense fragment of scale dropped from the Leivekilth.",
+    "zh": "一块从凛冰兽身上掉落的致密鳞片碎片。",
+    "vi": "Một mảnh vảy dày đặc rơi ra từ Ice Beast."
+  },
+  "tooltip.monsterexpansion.leivekilth_rimepelt.description": {
+    "en": "A frost-laced pelt shed from the Leivekilth.",
+    "zh": "一张从凛冰兽身上脱落的覆霜毛皮。",
+    "vi": "Một mảnh lông phủ đầy sương giá rơi ra khỏi cơ thể của một con thú băng."
+  },
+  "tooltip.monsterexpansion.leivekilth_tusk.description": {
+    "en": "A massive, frozen tusk torn from the Leivekilth.",
+    "zh": "一根从凛冰兽身上撕下的巨大冰冻长牙。",
+    "vi": "Một chiếc răng nanh đông lạnh khổng lồ được xé ra từ cơ thể của Quái thú Băng."
+  },
+  "tooltip.monsterexpansion.leivekilth_tail.description": {
+    "en": "Leivekilth's tail piece dropped by severing the beast's tail from its body.",
+    "zh": "通过切断野兽尾巴获得的凛冰兽尾部材料。",
+    "vi": "Vật liệu đuôi quái thú băng thu được bằng cách cắt đuôi quái thú."
+  },
+  "tooltip.monsterexpansion.hoarfrost_shard.description": {
+    "en": "A crystalline shard infused with biting hoarfrost dropped from the Leivekilth.",
+    "zh": "一枚从凛冰兽身上掉落的、注入了刺骨寒霜的水晶碎片。",
+    "vi": "Một mảnh pha lê rơi ra từ Quái thú Băng và được bao phủ bởi sương giá buốt giá."
+  },
+  "tooltip.monsterexpansion.deepfreeze_gland.description": {
+    "en": "A subzero organ harvested from the Leivekilth. It secretes an essence cold enough to freeze steel solid.",
+    "zh": "一个从凛冰兽身上采集的零下器官。它分泌的精华足以将钢铁冻结。",
+    "vi": "Một cơ quan dưới 0 được thu thập từ Ice Beast. Tinh chất nó tiết ra đủ để đóng băng thép."
+  },
+  "tooltip.monsterexpansion.rakoth_underplate.description": {
+    "en": "A dense, scarred armor plate torn from the Rakoth's underside.",
+    "zh": "一块从岩壳巨兽腹部撕下的致密、布满伤痕的装甲板。",
+    "vi": "Một tấm áo giáp dày đặc đầy vết sẹo được xé ra từ bụng của một con quái vật vỏ đá."
+  },
+  "tooltip.monsterexpansion.rakoth_carapace.description": {
+    "en": "A hardened segment of exoskeleton dropped by the Rakoth.",
+    "zh": "一段从岩壳巨兽身上掉落的硬化外骨骼。",
+    "vi": "Một mảnh khung xương ngoài cứng cáp rơi xuống từ một con quái vật vỏ đá."
+  },
+  "tooltip.monsterexpansion.rakoth_horn.description": {
+    "en": "A jagged horn broken from the Rakoth's crown.",
+    "zh": "一根从岩壳巨兽头顶折断的锯齿状角。",
+    "vi": "Một chiếc sừng lởm chởm bật ra từ đỉnh đầu của con thú vỏ đá."
+  },
+  "tooltip.monsterexpansion.rakoth_tail.description": {
+    "en": "Rakoth's tail piece dropped by severing the beast's tail from its body.",
+    "zh": "通过切断野兽尾巴获得的岩壳巨兽尾部材料。",
+    "vi": "Nguyên liệu đuôi của Rock Shell Behemoth thu được bằng cách cắt đuôi con thú."
+  },
+  "tooltip.monsterexpansion.sedimentary_scarp_shell.description": {
+    "en": "A layered, stone-hard shell fragment broken from the Rakoth.",
+    "zh": "一块从岩壳巨兽身上破碎的多层岩石般坚硬的壳。",
+    "vi": "Một lớp vỏ cứng như đá, nhiều lớp bị vỡ ra từ một con thú vỏ đá."
+  },
+  "tooltip.monsterexpansion.bedrock_core.description": {
+    "en": "A dense, ancient core formed under unimaginable pressure. It carries the unyielding strength of the earth.",
+    "zh": "一个在难以想象的压力下形成的致密远古核心。承载着大地不屈的力量。",
+    "vi": "Một lõi cổ dày đặc được hình thành dưới áp lực không thể tưởng tượng được. Mang theo sức mạnh kiên cường của trái đất."
+  },
+  "tooltip.monsterexpansion.monster_hardbone.description": {
+    "en": "A sturdy piece of bone dropped by a Large Monster.",
+    "zh": "一块由大型怪物掉落的结实骨头。",
+    "vi": "Một khúc xương rắn chắc bị rơi ra bởi một con quái vật lớn."
+  },
+  "effect.monsterexpansion.discombobulated.guidebook_description": {
+    "en": "Makes you unable to move nor attack for a short duration. This status is very common and can be inflicted by most monsters' roars. However as common as it is, the monsters also do not attack when roaring, making the status not as dangerous. As the effect will likely end before the monster can finish roaring.",
+    "zh": "使你在短时间内无法移动或攻击。这种状态非常普遍，大多数怪物的咆哮都能造成此效果。但同样普遍的是，怪物在咆哮时也不会攻击，因此该状态并不危险。因为效果很可能在怪物结束咆哮前就已消失。",
+    "vi": "Ngăn cản bạn di chuyển hoặc tấn công trong một khoảng thời gian ngắn. Trạng thái này rất phổ biến và có thể do tiếng gầm của hầu hết quái vật gây ra. Nhưng điều phổ biến là quái vật sẽ không tấn công khi đang gầm lên, nên trạng thái này không nguy hiểm. Bởi vì hiệu ứng có thể sẽ biến mất trước khi quái vật ngừng gầm."
+  },
+  "effect.monsterexpansion.stunned.guidebook_description": {
+    "en": "Makes you unable to move nor attack for a short duration. This can be inflicted by all monsters if the hunter is often hit by attacks. The effect instantly ends if the hunter is hit again. The damage source does not matter, making allies and self-inflicted damage a viable way to end the effect early. However this effect is still very dangerous as the monster may follow up with a devastating attack before the hunter can recover.",
+    "zh": "使你在短时间内无法移动或攻击。如果猎人频繁被击中，所有怪物都可能造成此效果。如果猎人再次被击中，该效果会立即结束。伤害来源不限，因此友军或自伤都是提前结束效果的可行方法。然而此状态仍然非常危险，因为怪物可能在猎人恢复前发动毁灭性的追击。",
+    "vi": "Ngăn cản bạn di chuyển hoặc tấn công trong một khoảng thời gian ngắn. Nếu thợ săn bị tấn công thường xuyên, tất cả quái vật có thể gây ra hiệu ứng này. Nếu thợ săn bị đánh lần nữa, hiệu ứng sẽ kết thúc ngay lập tức. Thiệt hại có thể đến từ bất kỳ nguồn nào, vì vậy thân thiện hoặc tự gây sát thương đều là những cách khả thi để kết thúc hiệu ứng sớm. Tuy nhiên, trạng thái này vẫn rất nguy hiểm vì con quái vật có thể tung ra một cuộc truy đuổi tàn khốc trước khi người thợ săn kịp hồi phục."
+  },
+  "effect.monsterexpansion.bleeding.guidebook_description": {
+    "en": "Makes you take damage over time. This effect can stack, making the damage interval shorter. On its own, the damage isn't anything to be afraid of, but it can be devastating if its allowed to stack up. This status' duration will go down slower depending on how fast you are moving. To get rid of it the fastest, the hunter must crouch while staying still.",
+    "zh": "使你持续受到伤害。此效果可以叠加，缩短伤害间隔。单独来看伤害不足为惧，但如果任其叠加则可能致命。该状态的持续时间会根据你的移动速度而减缓消退。为了最快消除它，猎人必须蹲下并保持静止。",
+    "vi": "Giữ cho bạn nhận thiệt hại. Hiệu ứng này có thể được xếp chồng lên nhau để rút ngắn khoảng thời gian sát thương. Riêng thiệt hại thì không đáng báo động nhưng nếu để chồng chất thì có thể gây tử vong. Thời lượng của trạng thái này giảm dần dựa trên tốc độ di chuyển của bạn. Để loại bỏ nó nhanh nhất, người thợ săn phải cúi mình và đứng yên."
+  },
+  "effect.monsterexpansion.flarevein.guidebook_description": {
+    "en": "Makes you take damage over time. This effect can stack, making the damage interval shorter. On its own, the damage isn't anything to be afraid of, but it can be devastating if its allowed to stack up. This status' duration will go down slower depending on how slow you are moving. To get rid of it the fastest, the hunter must be sprinting, or even better, roll around until the status is cured. The hunter must be careful as to not stay still, as doing so will increase the duration instead.",
+    "zh": "使你持续受到伤害。此效果可以叠加，缩短伤害间隔。单独来看伤害不足为惧，但如果任其叠加则可能致命。该状态的持续时间会根据你的移动速度缓慢而减缓消退。为了最快消除它，猎人必须冲刺，或者更好的是，翻滚直到状态解除。猎人必须小心不要静止不动，否则反而会增加持续时间。",
+    "vi": "Giữ cho bạn nhận thiệt hại. Hiệu ứng này có thể được xếp chồng lên nhau để rút ngắn khoảng thời gian sát thương. Riêng thiệt hại thì không đáng báo động nhưng nếu để chồng chất thì có thể gây tử vong. Thời lượng của trạng thái này sẽ giảm tùy theo tốc độ di chuyển của bạn. Để loại bỏ nó nhanh nhất, thợ săn phải chạy nước rút, hoặc tốt hơn là lăn lộn cho đến khi trạng thái được nâng lên. Thợ săn phải cẩn thận không đứng yên vì làm như vậy sẽ kéo dài thời gian."
+  },
+  "effect.monsterexpansion.frostvein.guidebook_description": {
+    "en": "Makes you move slower, attack slower and jump lower. This effect can stack, making the movement speed decrease more severe. This effect can really be devastating if its allowed to stack up as you may not be able to jump over even a singular block. This status currently does not have a remedy making it incredibly dangerous if the hunter is fighting in rough terrain.",
+    "zh": "使你的移动变慢、攻击变慢、跳跃变低。此效果可以叠加，使移动速度降低更严重。如果任其叠加，此效果可能极具毁灭性，因为你可能连一个方块都跳不过去。此状态目前没有治疗方法，使得在不平整地形作战时极其危险。",
+    "vi": "Làm cho chuyển động của bạn chậm hơn, tấn công chậm hơn và nhảy thấp hơn. Hiệu ứng này cộng dồn, khiến tốc độ di chuyển bị giảm nghiêm trọng hơn. Nếu được phép xếp chồng, hiệu ứng này có thể cực kỳ tàn khốc, vì bạn có thể không thể nhảy dù chỉ một khối. Hiện tại chưa có cách chữa trị cho tình trạng này khiến nó trở nên cực kỳ nguy hiểm khi chiến đấu trên địa hình không bằng phẳng."
+  },
+  "effect.monsterexpansion.remedy.no_remedy": {
+    "en": "No Remedy",
+    "zh": "无治疗方法",
+    "vi": "Không điều trị"
+  },
+  "effect.monsterexpansion.remedy.dont_move": {
+    "en": "Dont move.",
+    "zh": "不要移动。",
+    "vi": "Đừng di chuyển."
+  },
+  "effect.monsterexpansion.remedy.crouch": {
+    "en": "Crouch.",
+    "zh": "蹲下。",
+    "vi": "Ngồi xổm xuống."
+  },
+  "effect.monsterexpansion.remedy.sprint": {
+    "en": "Sprint",
+    "zh": "冲刺",
+    "vi": "chạy nước rút"
+  },
+  "effect.monsterexpansion.remedy.roll": {
+    "en": "Roll.",
+    "zh": "翻滚。",
+    "vi": "cuộn."
+  },
+  "monsterology.monsterexpansion.skrythe.title": {
+    "en": "First King of The Skies",
+    "zh": "天空初代王",
+    "vi": "Vị vua đầu tiên của bầu trời"
+  },
+  "monsterology.monsterexpansion.skrythe.type": {
+    "en": "Wyvern",
+    "zh": "飞龙种",
+    "vi": "Loài rồng bay"
+  },
+  "monsterology.monsterexpansion.skrythe.lore": {
+    "en": "A highly territorial carnivorous Wyvern characterized by its dense, ash-grey scales and striking azure wing membranes. The Skrythe thrives in most regions and can be sighted throughout the world migrating or looking for food.\n\nRather than relying on a breath weapon, its throat houses a highly specialized organ capable of generating devastating, high-frequency vibrations. The prominent blue frills crowning Skrythe's head are not merely for display. They are highly complex biological parabolic reflectors. When the wyvern produces a sound, these frills flare outward to amplify, focus, and aim the vibrations, turning a deafening roar into a localized, kinetic shockwave capable of pulverizing solid rock and shattering the bones of its prey.\n\nTo counterbalance the force of its own sonic blasts, Skrythe has developed a heavily calcified, rigid tail. While it prefers to fight at a distance using acoustics, it will ruthlessly swing this hardened tail like a mace to crush anything that manages to get too close.\n\nSkrythe was the very first apex predator officially documented by early explorers. Before humanity understood the true dangers of the world, a massive grey shadow blotted out the sun, accompanied by a deafening roar that shattered village windows. It was the creature that taught the world to look up and fear the skies. Which is why its titled 'First King of The Skies'",
+    "zh": "一种领地意识极强的肉食性飞龙，以其密集的灰烬色鳞片和醒目的蔚蓝翼膜为特征。肆空龙在大多数地区都能繁衍生息，可以在世界各地看到它们迁徙或觅食的身影。\n\n它的喉咙中没有吐息武器，而是拥有一个高度特化的器官，能够产生毁灭性的高频振动。肆空龙头顶那显眼的蓝色头冠并非仅仅用于展示。它们是高度复杂的生物抛物面反射器。当飞龙发出声音时，这些头冠会向外张开，放大、聚焦并引导振动，将震耳欲聋的咆哮转化为局部的动能冲击波，足以粉碎坚硬的岩石和猎物的骨骼。\n\n为了平衡自身音爆的力量，肆空龙进化出了一条高度钙化、僵硬的尾巴。虽然它更喜欢利用声学进行远程战斗，但它也会无情地挥舞这条坚硬的尾巴，像钉锤一样碾碎任何靠得太近的东西。\n\n肆空龙是早期探险家正式记录的第一种顶级掠食者。在人类理解世界真正的危险之前，一道巨大的灰色阴影遮蔽了太阳，伴随着震碎村庄窗户的震耳欲聋的咆哮。正是这种生物教会了世界仰望天空并为之恐惧。这就是为什么它被称为“天空初代王”。",
+    "vi": "Một loài rồng bay ăn thịt có tính lãnh thổ khốc liệt, được phân biệt bởi lớp vảy dày đặc màu tro và màng cánh màu xanh nổi bật. Sky Dragon phát triển mạnh ở hầu hết các khu vực và có thể được nhìn thấy di cư hoặc tìm kiếm thức ăn trên khắp thế giới.\n\nThay vì vũ khí hơi thở, nó có một cơ quan chuyên môn cao trong cổ họng có khả năng tạo ra những rung động tần số cao có sức tàn phá. Chiếc vương miện màu xanh nổi bật trên đầu Si Konglong không chỉ để trưng bày. Chúng là những chất phản xạ parabol sinh học rất phức tạp. Khi con wyvern phát ra âm thanh, những mào này phóng ra bên ngoài, khuếch đại, tập trung và điều khiển các rung động, biến tiếng gầm chói tai thành sóng xung kích động học cục bộ đủ mạnh để làm vỡ đá rắn và xương của con mồi.\n\nĐể cân bằng sức mạnh của sự bùng nổ âm thanh của nó, Si Konglong đã phát triển một cái đuôi cứng và bị vôi hóa cao. Mặc dù nó thích sử dụng âm thanh của mình để chiến đấu tầm xa, nhưng nó cũng sẽ vung cái đuôi cứng không thương tiếc, nghiền nát bất cứ thứ gì đến quá gần như một chiếc chùy.\n\nAsterosaurus là loài săn mồi đỉnh cao đầu tiên được các nhà thám hiểm đầu tiên chính thức ghi nhận. Trước khi nhân loại có thể hiểu được mối nguy hiểm thực sự của thế giới, một cái bóng xám rộng lớn che khuất mặt trời, kèm theo một tiếng gầm chói tai làm vỡ tan cửa sổ ngôi làng. Chính sinh vật này đã dạy thế giới nhìn lên bầu trời và sợ hãi nó. Đó là lý do tại sao nó được gọi là \"Vị vua đầu tiên của bầu trời\"."
+  },
+  "monsterology.monsterexpansion.skrythe.fighting_tips": {
+    "en": "When engaging a Skrythe, avoid lingering in mid-range, as this is where its attacks, particularly its roar, are most devastating. Fighting at close range prevents you from simply outrunning strikes, forcing you to rely on diagonal dodge rolls to evade. This dynamic completely shifts when the Skrythe becomes enraged. You must abandon close-quarters combat during this state, as it can unleash a Seismic Roar at any moment. This attack is instantly fatal at point-blank range and still inflicts massive damage further out, so your best strategy is to keep your distance and bait the attack. If you back away too far while the enraged beast is airborne, it will trigger an Aerial Assault. As it ascends to fire sound spheres, do not waste stamina dodging them, as they deal negligible damage. Instead, immediately sprint directly underneath the Skrythe. The true threat is its subsequent angled dive, which boasts an incredibly long forward reach. Positioning yourself directly below the monster is the most reliable way to evade the dive completely.",
+    "zh": "与肆空龙交战时，避免停留在中距离，因为那里是其攻击（尤其是咆哮）最具毁灭性的范围。近距离战斗让你无法简单地跑开躲避攻击，迫使你必须依靠斜向翻滚来闪避。当肆空龙进入愤怒状态时，这一动态会完全改变。你必须在此状态下放弃近身缠斗，因为它随时可能释放地震咆哮。该攻击在零距离下瞬间致命，即使在远处也会造成巨额伤害，所以你最好的策略是保持距离并引诱它出招。如果愤怒的野兽在空中时你退得太远，会触发它的空中突击。当它上升发射音波球时，不要浪费体力去躲避它们，因为它们造成的伤害微不足道。相反，立即冲刺到肆空龙正下方。真正的威胁是随后的倾斜俯冲，其向前突进的距离极长。将自己置于怪物正下方是最可靠的完全躲避俯冲的方法。",
+    "vi": "Khi giao chiến với Sky Dragon, hãy tránh ở tầm trung, vì đó là nơi các đòn tấn công của nó (đặc biệt là Roar) có sức tàn phá mạnh nhất. Cận chiến khiến bạn không thể đơn giản chạy trốn khỏi các cuộc tấn công, buộc bạn phải dựa vào các đường lăn chéo để né tránh. Động lực này hoàn toàn thay đổi khi Sky Dragon bước vào trạng thái giận dữ. Bạn phải từ bỏ cận chiến ở trạng thái này, vì nó có thể giải phóng Tiếng gầm địa chấn bất cứ lúc nào. Cuộc tấn công này có khả năng gây chết người ngay lập tức ở phạm vi 0 và gây sát thương lớn ngay cả từ khoảng cách xa, vì vậy chiến lược tốt nhất của bạn là giữ khoảng cách và dụ nó tấn công. Nếu bạn di chuyển quá xa trong khi con thú giận dữ đang ở trên không, nó sẽ kích hoạt Cuộc tấn công trên không. Khi nó bay lên và bắn ra những quả bóng âm thanh, đừng lãng phí sức lực để né tránh chúng, vì chúng gây sát thương không đáng kể. Thay vào đó, hãy chạy ngay bên dưới Sky Dragon. Mối đe dọa thực sự là cú lao xiên tiếp theo, đạt được một khoảng cách cực kỳ dài về phía trước. Định vị bản thân ngay bên dưới con quái vật là cách đáng tin cậy nhất để tránh hoàn toàn việc lao xuống."
+  },
+  "monsterology.monsterexpansion.ignathos.title": {
+    "en": "Brushfire Vandal",
+    "zh": "野火破坏者",
+    "vi": "Kẻ hủy diệt cháy rừng"
+  },
+  "monsterology.monsterexpansion.ignathos.type": {
+    "en": "Avian",
+    "zh": "鸟龙种",
+    "vi": "loài chim rồng"
+  },
+  "monsterology.monsterexpansion.ignathos.lore": {
+    "en": "Often referred to by frustrated locals as the \"Brushfire Vandal,\" Ignathos is a medium-sized, flightless Avian covered in dense, heat-resistant plumage. Unlike most predators, this highly specialized creature is an obligate consumer of combustibles, sustaining itself entirely on a diet of raw wood, coal, and other flammable materials. Its anatomy is perfectly adapted for this bizarre ecological niche; it possesses unusually long arms ending in inward-pointing, vice-like claws that allow it to effortlessly grip, uproot, and pull solid blocks of fuel directly from the earth or human structures.\n\nOnce consumed, the materials enter a highly specialized stomach that acts as a biological furnace. Ignathos does not digest its food in a traditional sense; instead, it literally burns it, absorbing the resulting thermal and kinetic energy to fuel its own body. Because of its voracious appetite for fuel, particularly during the harsh winter months, unprepared villages often fall victim to its pillaging. However, Ignathos is naturally docile and strongly prefers to flee from confrontation. Over time, settlements situated near birch forests and other natural habitats have learned to coexist with the beast, leaving designated piles of scrap wood and coal on the outskirts of town to prevent the creature from dismantling their houses or raiding freshly mined stockpiles.\n\nDespite its somewhat dopey appearance and timid nature, Ignathos is not defenseless. If it detects genuine hostility and feels it cannot safely escape (or if it is fiercely protecting a particularly rich meal) it will fight back. By hyper-ventilating and forcefully expelling the burning contents of its stomach furnace, Ignathos can spew globs of highly adhesive, flaming goo over a wide area.\n\nWhile Ignathos is considered physically weaker than most large monsters, seasoned hunters actively avoid confronting them whenever possible. This is not out of fear of the beast itself, but rather the catastrophic environmental damage it causes when panicked. A frightened or cornered Ignathos will spray its flaming goo wildly, easily igniting massive, uncontrollable forest fires that can devastate an entire biome.",
+    "zh": "常被沮丧的当地人称为“野火破坏者”，燃羽鸟是一种中等体型、不会飞的鸟类，覆盖着浓密的耐热羽毛。与大多数掠食者不同，这种高度特化的生物是燃烧物的专性消费者，完全依赖生木材、煤炭和其他可燃材料的饮食生存。它的解剖结构完美适应了这一奇特的生态位；它拥有异常长的前肢，末端是向内弯曲的虎钳般的爪子，使其能够轻松抓取、拔起并从地面或人造建筑中拉出整块的固体燃料。\n\n一旦被吞下，这些材料会进入一个高度特化的胃，充当生物熔炉。燃羽鸟不以传统方式消化食物；相反，它实际上是在燃烧它们，吸收由此产生的热能和动能来驱动自己的身体。由于其贪婪的食欲，尤其是在严酷的冬季，毫无准备的村庄常常沦为它掠夺的受害者。然而，燃羽鸟天生温顺，强烈倾向于逃离冲突。随着时间的推移，位于桦树林及其他自然栖息地附近的定居点已经学会了与这种野兽共存，在城镇外围留下指定的废木料和煤堆，以防止这种生物拆毁他们的房屋或抢劫新开采的库存。\n\n尽管外表有些呆萌且天性胆小，燃羽鸟并非没有防御能力。如果它察觉到真正的敌意并感到无法安全逃脱（或者正在激烈保护一顿特别丰盛的大餐），它会奋起反抗。通过过度换气并用力排出胃炉中燃烧的内容物，燃羽鸟可以在大范围内喷出一团团粘性极强的火焰粘液。\n\n虽然燃羽鸟被认为在物理上弱于大多数大型怪物，但经验丰富的猎人会尽可能避免与之对抗。这并非出于对野兽本身的恐惧，而是因为它惊慌失措时造成的灾难性环境破坏。受惊或被逼入绝境的燃羽鸟会疯狂喷洒其火焰粘液，轻易引发大规模、失控的森林火灾，足以摧毁整个生物群系。",
+    "vi": "Thường được những người dân địa phương thất vọng gọi là \"những kẻ phá đám cháy rừng\", hồng hạc là một loài chim cỡ trung bình, không biết bay, được bao phủ bởi bộ lông dày đặc, chịu nhiệt. Không giống như hầu hết các loài săn mồi, sinh vật có chuyên môn cao này là loài tiêu thụ bắt buộc các chất dễ cháy, sống sót hoàn toàn bằng chế độ ăn gỗ thô, than đá và các vật liệu dễ cháy khác. Giải phẫu của nó hoàn toàn thích nghi với khu vực sinh thái đặc biệt này; nó sở hữu các chi trước dài bất thường, kết thúc bằng những móng vuốt cong vào trong giống như cái kẹp, cho phép nó dễ dàng nắm, nhổ và kéo toàn bộ khối nhiên liệu rắn khỏi mặt đất hoặc các cấu trúc nhân tạo.\n\nSau khi được nuốt vào, vật liệu này sẽ đi vào dạ dày chuyên biệt cao, hoạt động như một lò sinh học. Chim lửa không tiêu hóa thức ăn theo cách truyền thống; thay vào đó, nó thực sự đốt cháy chúng, hấp thụ nhiệt lượng và động năng sinh ra để cung cấp năng lượng cho cơ thể. Do tính háu ăn của nó, đặc biệt là trong mùa đông khắc nghiệt, những ngôi làng không được chuẩn bị trước thường trở thành nạn nhân của sự tàn phá của nó. Tuy nhiên, Burning Feathers có bản tính ngoan ngoãn và có xu hướng chạy trốn khỏi xung đột. Theo thời gian, các khu định cư gần rừng bạch dương và các môi trường sống tự nhiên khác đã học cách chung sống với quái vật, để lại những đống gỗ phế liệu và than đá ở ngoại ô thị trấn để ngăn sinh vật này phá hủy nhà cửa của họ hoặc cướp đi các kho dự trữ mới khai thác.\n\nMặc dù có vẻ ngoài dễ thương và bản tính nhút nhát nhưng Burning Feather Bird không hề yếu đuối. Nếu nó cảm nhận được sự thù địch thực sự và cảm thấy không thể trốn thoát an toàn (hoặc đang quyết liệt bảo vệ một bữa ăn đặc biệt xa hoa), nó sẽ gây chiến. Bằng cách tăng thông khí và trục xuất một cách mạnh mẽ những chất cháy trong lò dạ dày của nó, một con chim lửa có thể phóng ra những khối chất nhờn lửa cực kỳ nhớt trên một khu vực rộng.\n\nMặc dù Burning Feather được coi là yếu hơn về thể chất so với hầu hết các quái vật lớn hơn, nhưng những thợ săn có kinh nghiệm sẽ tránh đối đầu nếu có thể. Điều này không phải vì bản thân con thú sợ hãi mà vì sự tàn phá môi trường thảm khốc mà nó gây ra khi hoảng sợ. Một con chim lửa sợ hãi hoặc bị dồn vào chân tường sẽ phun chất nhờn rực lửa của nó một cách điên cuồng, dễ dàng gây ra những đám cháy rừng lớn, mất kiểm soát và có thể phá hủy toàn bộ quần xã sinh vật."
+  },
+  "monsterology.monsterexpansion.ignathos.fighting_tips": {
+    "en": "Ignathos' base attacks can be easily evaded using dodge rolls. As the fight progresses, Ignathos will search for and consume any valid fuel blocks nearby. Upon eating the fuel, it enters an ignited state, unlocking new flame-based abilities and empowering its standard moves. While ignited, both its beak strikes and its newly acquired flame-spitting attacks deal Fire damage and have a chance to inflict the Flarevein effect. The primary danger here is Flarevein, which will ramp up in severity if not addressed quickly. To cure the affliction, simply sprint or perform dodge rolls until it dissipates. When enraged, Ignathos gains the ability to spew a massive glob of flaming goo. Although this attack boasts increased damage and a wider area of effect, the beast suffers from a short recovery period afterward, providing an excellent opening for a counterattack.",
+    "zh": "燃羽鸟的基础攻击可以通过翻滚轻松躲避。随着战斗进行，燃羽鸟会寻找并消耗附近任何有效的燃料块。食用燃料后，它会进入点燃状态，解锁新的火焰能力并强化其标准招式。在点燃状态下，它的喙击和新获得的喷火攻击都会造成火焰伤害，并有几率施加焰脉效果。这里的主要危险是焰脉，如果不迅速处理，其严重程度会不断升级。要治愈此症状，只需冲刺或进行翻滚直到其消散。当愤怒时，燃羽鸟获得了喷出一大团火焰粘液的能力。尽管这次攻击具有更高的伤害和更广的范围效果，但野兽之后会有短暂的恢复期，提供了一个绝佳的反击机会。",
+    "vi": "Các đòn tấn công cơ bản của Burning Feather Bird có thể dễ dàng né tránh bằng cách lăn. Khi trận chiến diễn ra, Burning Bird sẽ tìm kiếm và tiêu thụ bất kỳ khối nhiên liệu hợp lệ nào gần đó. Sau khi tiêu thụ nhiên liệu, nó chuyển sang trạng thái bốc cháy, mở khóa các khả năng lửa mới và tăng cường các chiêu thức tiêu chuẩn của nó. Khi được đốt cháy, đòn tấn công bằng mỏ và đòn tấn công thở lửa mới có được đều gây sát thương lửa và có cơ hội áp dụng hiệu ứng Flame Vein. Mối nguy hiểm chính ở đây là Flame Vein, có thể trở nên nghiêm trọng hơn nếu không được xử lý nhanh chóng. Để chữa tình trạng này, bạn chỉ cần chạy nước rút hoặc thực hiện động tác lăn cho đến khi hết. Khi tức giận, con chim lửa có khả năng phun ra một đám mây rực lửa. Mặc dù đòn tấn công này có lực sát thương cao hơn và phạm vi tác dụng rộng hơn, nhưng con thú có thời gian hồi phục ngắn sau đó, tạo cơ hội tuyệt vời để phản công."
+  },
+  "monsterology.monsterexpansion.rhyza.title": {
+    "en": "Pest of The Blind",
+    "zh": "盲目之灾",
+    "vi": "thảm họa mù quáng"
+  },
+  "monsterology.monsterexpansion.rhyza.type": {
+    "en": "Chimeran",
+    "zh": "嵌合种",
+    "vi": "loài tinh tinh"
+  },
+  "monsterology.monsterexpansion.rhyza.lore": {
+    "en": "A highly elusive, carnivorous Chimeran native to the barren, floating islands of the End. Characterized by its twin tails and specialized forelimbs, the Rhyza is a deadly anomaly in an already alien landscape. Unlike other predators that rely on crushing jaws, this beast rarely utilizes its sharp teeth in combat. Instead, it wields elongated, jagged claws with terrifying precision, evolved specifically to slash and perforate. Even if a target manages to deflect the brunt of a physical strike, the deep, serrated lacerations left behind inflict severe and continuous bleeding.\n\nDespite its lethal anatomy, the Rhyza is naturally cautious and actively avoids unnecessary confrontation. It navigates the desolate void using advanced evasion tactics, primarily shifting into complete invisibility, to stalk small prey or bypass threats. Ecologists have recently discovered that what appears to be pale, white fur is actually a dense coat of microscopic, incredibly complex mirror-like structures. These organic, yet-to-be-understood prisms perfectly bend light around the creature's body, rendering it entirely unseen in its environment.\n\nIf cornered, it reveals its secondary defense mechanism: the bulbous, gleam-infused cores at the ends of its twin tails. By smashing these cores together or against the ground, the Rhyza detonates a blinding, disorienting flash of light, allowing it to vanish. However, if the creature is provoked into a lethal encounter, these evasive tools are weaponized, allowing the beast to blind its target and strike from unseen angles with terrifying, omnidirectional leaps.\n\nThis timid nature completely inverts during mating season. Expectant female Rhyzas become hyper-aggressive, entirely abandoning their natural invisibility to ruthlessly hunt down anything that moves within their territory. Ecologists theorize this violent behavioral shift is a preemptive evolutionary imperative, a brutal campaign to purge the surrounding islands of any potential threats before giving birth, ensuring the absolute safety of its vulnerable offspring.",
+    "zh": "一种极为隐秘的肉食性嵌合种，原产于末地荒芜的浮岛。以双尾和特化的前肢为特征，锐爪兽在本已异域的环境中是一个致命的异类。与其他依赖粉碎性颚骨的掠食者不同，这种野兽很少在战斗中使用其锋利的牙齿。相反，它挥舞着细长、锯齿状的爪子，具有可怕的精确度，专门用于切割和穿刺。即使目标成功格挡了物理攻击的大部分力量，留下的深层锯齿状伤口也会造成严重且持续的出血。\n\n尽管拥有致命的解剖结构，锐爪兽天生谨慎，积极避免不必要的冲突。它利用先进的规避战术在荒凉的虚空中导航，主要通过进入完全隐形状态来潜行追踪小型猎物或绕过威胁。生态学家最近发现，看似苍白、白色的皮毛实际上是一层由微观、极其复杂的镜面结构组成的致密外套。这些有机的、尚未被理解的棱镜能够完美地弯曲光线，使其在环境中完全不可见。\n\n如果被逼入绝境，它会展现出第二套防御机制：双尾末端那充满光辉的核心。通过将这些核心相互碰撞或砸向地面，锐爪兽会引爆一阵致盲、令人迷失方向的强光，使其得以消失。然而，如果该生物被激怒至生死搏杀，这些规避工具就会被武器化，使野兽能够致盲目标，并从看不见的角度发动可怕的全方位跳跃。\n\n这种胆小的天性与繁殖季节完全相反。怀孕的雌性锐爪兽会变得极度攻击性，完全放弃其天生的隐形能力，无情地猎杀其领土内任何移动的东西。生态学家推测，这种暴力的行为转变是一种先发制人的进化需求，一场在分娩前清除周围岛屿任何潜在威胁的残酷行动，以确保其后代的绝对安全。",
+    "vi": "Một loài tinh tinh ăn thịt cực kỳ bí mật có nguồn gốc từ các hòn đảo nổi hoang vắng ở tận cùng. Đặc trưng bởi đôi đuôi và chi trước đặc biệt, Vuốt Sắc là một sinh vật dị thường chết người trong một môi trường vốn đã xa lạ. Không giống như những kẻ săn mồi khác dựa vào hàm nghiền nát, loài thú này hiếm khi sử dụng hàm răng sắc nhọn của mình trong chiến đấu. Thay vào đó, nó sử dụng những móng vuốt mảnh mai có răng cưa với độ chính xác đáng kinh ngạc, được thiết kế để cắt và đâm. Ngay cả khi mục tiêu chặn thành công phần lớn lực tấn công vật lý, những vết thương sâu, lởm chởm để lại có thể gây chảy máu nghiêm trọng và liên tục.\n\nBất chấp cơ thể nguy hiểm của mình, móng vuốt dao cạo có bản chất thận trọng và chủ động tránh xung đột không cần thiết. Nó sử dụng các chiến thuật lẩn tránh tiên tiến để điều hướng khoảng trống khắc nghiệt, chủ yếu bằng cách tiến vào trạng thái tàng hình hoàn toàn để rình rập con mồi nhỏ hoặc vượt qua các mối đe dọa. Các nhà sinh thái học gần đây đã phát hiện ra rằng lớp lông trắng, tưởng chừng như nhợt nhạt thực chất là một lớp lông dày đặc gồm những cấu trúc gương cực nhỏ và cực kỳ phức tạp. Những lăng kính hữu cơ chưa được hiểu rõ này bẻ cong ánh sáng một cách hoàn hảo, khiến nó hoàn toàn vô hình trong môi trường.\n\nNếu bị dồn vào chân tường, nó sẽ hiển thị cơ chế phòng thủ thứ hai: lõi rạng rỡ ở cuối đôi đuôi của nó. Bằng cách đập những lõi này vào nhau hoặc xuống đất, Sharpclaw sẽ kích nổ một luồng ánh sáng chói mắt, làm mất phương hướng, khiến nó biến mất. Tuy nhiên, nếu sinh vật bị kích động vào một cuộc đấu tranh sinh tử, những công cụ né tránh này sẽ được trang bị vũ khí, cho phép con thú làm mù mục tiêu và tung ra những cú nhảy đa hướng đáng sợ từ những góc không nhìn thấy được.\n\nBản tính rụt rè này hoàn toàn trái ngược với mùa sinh sản. Những con Sharpclaw cái mang thai sẽ trở nên cực kỳ hung dữ, từ bỏ hoàn toàn khả năng tàng hình tự nhiên và săn lùng tàn nhẫn bất cứ thứ gì di chuyển trong lãnh thổ của chúng. Các nhà sinh thái học suy đoán rằng sự thay đổi hành vi bạo lực này là một nhu cầu tiến hóa phủ đầu, một chiến dịch tàn nhẫn nhằm dọn sạch các hòn đảo xung quanh khỏi mọi mối đe dọa tiềm tàng trước khi sinh ra để đảm bảo sự an toàn tuyệt đối cho con cái của chúng."
+  },
+  "monsterology.monsterexpansion.rhyza.fighting_tips": {
+    "en": "Much like Ignathos, most of Rhyza's base attacks can be easily evaded using dodge rolls, though its overall attack speed is noticeably faster. When enraged, Rhyza gains access to two new abilities: Flash and Invisibility. Avoiding the Flash is simple; Rhyza will deliberately dash into your field of vision, so simply look away, preferably in the opposite direction of its dash, to avoid being blinded. Invisibility is a bit trickier, as there is no way to predict where Rhyza will emerge around you. Rather than trying to guess, it is better to rely on a reactive dodge roll. If you do not immediately see the beast, assume it is preparing to strike from behind and roll accordingly.",
+    "zh": "与燃羽鸟类似，锐爪兽的大部分基础攻击可以通过翻滚轻松躲避，但其整体攻击速度明显更快。当愤怒时，锐爪兽会获得两个新能力：闪光和隐形。躲避闪光很简单；锐爪兽会故意冲入你的视野，所以只需看向别处，最好是与其冲刺方向相反，即可避免被致盲。隐形则稍显棘手，因为你无法预测锐爪兽会从哪里出现。与其试图猜测，不如依赖反应性的翻滚。如果你没有立即看到野兽，假设它正准备从背后袭击并相应地进行翻滚。",
+    "vi": "Tương tự như Burning Feather, hầu hết các đòn tấn công cơ bản của Sharpclaw có thể dễ dàng né được bằng cách lăn, nhưng tốc độ tấn công tổng thể của nó nhanh hơn đáng kể. Khi tức giận, Sharpclaw có được hai khả năng mới: Tốc biến và Tàng hình. Tránh đèn flash thật dễ dàng; Talon sẽ cố tình lao vào tầm nhìn của bạn, vì vậy chỉ cần nhìn đi chỗ khác, tốt nhất là theo hướng ngược lại với đường lao của nó, để tránh bị mù. Việc tàng hình phức tạp hơn một chút vì bạn không thể đoán được Sharpclaw sẽ xuất hiện từ đâu. Thay vì cố gắng đoán, hãy dựa vào phản ứng nhào lộn. Nếu bạn không nhìn thấy con thú ngay lập tức, hãy cho rằng nó đang chuẩn bị tấn công từ phía sau và lăn theo đó."
+  },
+  "monsterology.monsterexpansion.leivekilth.title": {
+    "en": "The Ancient Glacier",
+    "zh": "远古冰川",
+    "vi": "sông băng cổ"
+  },
+  "monsterology.monsterexpansion.leivekilth.type": {
+    "en": "Therian",
+    "zh": "牙兽种",
+    "vi": "Loài có răng"
+  },
+  "monsterology.monsterexpansion.leivekilth.lore": {
+    "en": "A colossal, solitary Therian bearing the traits of a walrus, but equipped with membranous wings, a heavy tail, and devastating saber-like tusks. Its fangs serve as a visual marker of its age and dominance.\n\nLeivekilth possesses highly specialized organs that secrete volatile fluids capable of rapidly stripping salt from seawater and shifting freezing points. This also allows the creature to exhale sweeping jets of pure frost. Its thick blubber is laced with a sponge-like tissue, enabling it to absorb water and cloak itself in a dense armor of regenerative ice.\n\nDespite its immense weight, Leivekilth is terrifyingly agile in short bursts, the sheer muscle mass of the creature allows it to leap great distances and even take flight for brief periods. However when enraged, utilizing its blowholes to push freezing air at high speeds, it can temporarily transition into its flying state. This phase is extremely dangerous, as its bodily fluids can now rapidly drip below, flash freezing the ground at impact and creating razor sharp ice spikes. Or increasing the rate and pressure of its blowhole exhalations to supercool the ground below it, creating a massive icy shockwave.\n\nLeivekilth are notoriously brutal with its prey, preserving them in ice and impaling them upon its jagged back spines. These macabre displays serve to store food, assert dominance, and attract mates. During breeding season, its lairs are decorated with mountainous heaps of frozen corpses, a grim warning that stepping foot into its territory is an absolute death sentence.",
+    "zh": "一种巨大的独居兽族，具有海象的特征，但配备了膜状翅膀、沉重的尾巴和毁灭性的军刀般的长牙。它的獠牙是其年龄和统治地位的视觉标志。\n\n凛冰兽拥有高度特化的器官，能分泌不稳定的液体，可以迅速从海水中剥离盐分并改变冰点。这也使该生物能够呼出扫荡一切的纯霜冻气流。其厚厚的脂肪中交织着海绵状的组织，使其能够吸收水分，并将自己包裹在一层致密的再生冰甲中。\n\n尽管体重惊人，凛冰兽在短距离内却拥有可怕的敏捷性，其纯粹的肌肉质量使它能够跳跃很远的距离，甚至短暂飞行。然而当愤怒时，利用其呼吸孔高速推出冷冻空气，它可以暂时过渡到飞行状态。这个阶段极其危险，因为它的体液现在会迅速滴落，在撞击时瞬间冻结地面并形成锋利的冰刺。或者增加呼吸孔呼气的速率和压力，使其下方的地面过冷，产生巨大的冰霜冲击波。\n\n凛冰兽以其对猎物的残忍而闻名，将它们保存在冰中，并串在其锯齿状的背棘上。这些恐怖的展示用于储存食物、彰显统治地位和吸引配偶。在繁殖季节，它的巢穴装饰着堆积如山的冰冻尸体，这是一个严峻的警告：踏入其领土绝对是死路一条。",
+    "vi": "Một con thú đơn độc khổng lồ có những đặc điểm của hải mã nhưng được trang bị đôi cánh có màng, một cái đuôi nặng nề và những chiếc ngà giống như thanh kiếm có sức tàn phá khủng khiếp. Ngà của nó là một dấu hiệu trực quan về tuổi tác và sự thống trị của nó.\n\nQuái thú băng có các cơ quan chuyên môn cao, có thể tiết ra chất lỏng không ổn định, có thể nhanh chóng loại bỏ muối khỏi nước biển và thay đổi điểm đóng băng. Điều này cũng cho phép sinh vật này phun ra những luồng sương giá tinh khiết quét qua mọi thứ. Lớp mỡ dày của nó được đan xen với mô xốp, cho phép nó hút nước và bọc mình trong một lớp băng tái sinh dày đặc.\n\nMặc dù có trọng lượng đáng kinh ngạc, Quái vật Băng sở hữu sự nhanh nhẹn đáng kinh ngạc trong khoảng cách ngắn, khối lượng cơ bắp tuyệt đối của nó cho phép nó nhảy những khoảng cách rất xa và thậm chí bay trong thời gian ngắn. Tuy nhiên, khi tức giận, nó có thể tạm thời chuyển sang trạng thái bay bằng cách sử dụng các lỗ thở để đẩy không khí đông lạnh ra ngoài với tốc độ cao. Giai đoạn này cực kỳ nguy hiểm vì chất lỏng trong cơ thể của nó sẽ nhỏ giọt nhanh chóng, ngay lập tức đóng băng mặt đất khi va chạm và tạo thành những gai băng sắc nhọn. Hoặc tăng tốc độ thở ra và áp suất của lỗ thở khiến mặt đất bên dưới siêu lạnh và tạo ra sóng xung kích băng giá cực lớn.\n\nQuái vật băng được biết đến với sự tàn ác đối với con mồi, bảo quản chúng trong băng và xâu chuỗi trên những chiếc gai lưng lởm chởm. Những màn trình diễn khủng khiếp này được sử dụng để dự trữ thức ăn, thể hiện sự thống trị và thu hút bạn tình. Trong mùa sinh sản, tổ của nó được trang trí bằng hàng núi xác đông lạnh, một lời cảnh báo rõ ràng rằng đặt chân lên lãnh thổ của nó là cái chết tuyệt đối."
+  },
+  "monsterology.monsterexpansion.leivekilth.fighting_tips": {
+    "en": "Leivekilth's attacks are slow, but its sheer size makes up for the lack of speed. Shattering its ice armor quickly is crucial, as breaking each section increases the damage the monster takes. Watch out for its belly flop attacks; the safest way to evade these is to run diagonally underneath the beast. Be equally cautious of its ice attacks, which can inflict Frostvein. This effect is highly dangerous if allowed to stack, eventually preventing you from jumping over blocks altogether. Upon enraging, Leivekilth will flip onto its back and begin to hover. Do not waste your resources trying to outrun it. Instead, the safest approach is to remain at its sides. This positioning keeps you clear of the ice spikes erupting directly beneath it, while also preventing the monster from targeting you with its ice breath or tail sweeps.",
+    "zh": "凛冰兽的攻击速度很慢，但其庞大的体型弥补了速度的不足。快速击碎它的冰甲至关重要，因为打破每个部分都会增加怪物受到的伤害。注意它的肚皮拍击攻击；躲避这些攻击最安全的方法是斜向跑到野兽下方。同样要警惕它的冰霜攻击，这可能会施加霜脉效果。如果任其叠加，此效果极其危险，最终会使你完全无法跳过方块。愤怒时，凛冰兽会翻身仰面开始悬浮。不要浪费资源试图跑赢它。相反，最安全的做法是保持在它的侧面。这个位置既能让你远离其正下方迸发的冰刺，也能防止怪物用冰霜吐息或尾巴横扫来瞄准你。",
+    "vi": "Tốc độ tấn công của Quái thú băng rất chậm, nhưng kích thước lớn của nó bù lại cho việc thiếu tốc độ. Phá vỡ lớp giáp băng của nó một cách nhanh chóng là rất quan trọng, vì việc phá vỡ từng phần sẽ làm tăng sát thương mà quái vật phải gánh chịu. Hãy coi chừng những đòn tấn công vào bụng của nó; cách an toàn nhất để né tránh những đòn tấn công này là chạy chéo bên dưới con thú. Ngoài ra, hãy cảnh giác với các đòn tấn công băng giá của nó, chúng có thể gây ra hiệu ứng Frost Vein. Hiệu ứng này cực kỳ nguy hiểm nếu được cộng dồn, cuối cùng khiến bạn không thể nhảy qua các khối. Khi tức giận, Quái thú Băng sẽ lật ngửa và bắt đầu bay lên. Đừng lãng phí nguồn lực để cố gắng vượt trội hơn nó. Thay vào đó, điều an toàn nhất nên làm là đứng về phía nó. Vị trí này không chỉ giúp bạn tránh xa những gai băng đang nổ tung ngay bên dưới nó mà còn ngăn chặn con quái vật nhắm mục tiêu vào bạn bằng hơi thở băng giá hoặc cú quét đuôi của nó."
+  },
+  "monsterology.monsterexpansion.rakoth.title": {
+    "en": "Sandwrought Behemoth",
+    "zh": "沙铸巨兽",
+    "vi": "Quái vật rèn cát"
+  },
+  "monsterology.monsterexpansion.rakoth.type": {
+    "en": "Lacertian",
+    "zh": "蜥蜴种",
+    "vi": "loài thằn lằn"
+  },
+  "monsterology.monsterexpansion.rakoth.lore": {
+    "en": "A massive, four-legged Lacertian geovore characterized by the heavily armored, rocky shell covering its back. Rakoth primarily roams the arid expanses of badlands and deserts, relentlessly searching for exposed mineral veins and precious metals to sustain itself.\n\nEquipped with a thick, reinforced skull and prominent frontal horns, this beast routinely headbutts solid cliff faces to excavate its metallic diet. While typically docile toward humans, its insatiable hunger for ore makes it extremely dangerous to fully equipped hunters. Rakoth is known to mistake the glint of metallic armor for a walking feast, charging relentlessly to crack open the hunter and consume the raw iron or gold within.\n\nDespite its cumbersome, rocky exterior, hunters must not be deceived by its apparent sluggishness. Rakoths can launch into a terrifyingly swift gallop. If severely threatened, it will tuck its head and tail inward, transforming into a massive, rolling boulder of pure physical destruction. While this rolling charge delivers devastating blunt-force trauma capable of flattening anything in its path, the beast's vision and turning radius are severely compromised in this state, allowing nimble hunters to evade and counterattack.\n\nBeyond its horns and rolling charge, Rakoth boasts a remarkably thick, armored tail used for crushing blows. During mating season, the arid plains echo with rhythmic, thunderous tremors as rival males repeatedly slam their heavy tails into the dirt. This display of raw physical power serves both as a call to potential mates and a violent warning to any competing males in the territory.",
+    "zh": "一种巨大的四足蜥蜴食岩生物，以其覆盖背部的厚重装甲岩壳为特征。岩壳巨兽主要游荡在恶地和沙漠的干旱地带，不知疲倦地寻找暴露的矿脉和贵金属以维持自身。\n\n配备着厚实的强化头骨和突出的额角，这种野兽经常用头撞击坚实的悬崖面来挖掘其金属饮食。虽然通常对人类温顺，但它对矿石的贪得无厌使其对全副武装的猎人极其危险。岩壳巨兽常会将金属盔甲的反光误认为是一顿行走的大餐，会无情地冲锋以撞开猎人并吞噬其中的生铁或黄金。\n\n尽管外表笨重多石，猎人们切莫被其表面的迟缓所欺骗。岩壳巨兽可以发起可怕的高速奔驰。如果受到严重威胁，它会将头和尾巴向内蜷缩，变成一个纯粹物理破坏的巨大滚动巨石。虽然这种滚动冲锋能造成毁灭性的钝力创伤，足以夷平其路径上的任何东西，但野兽在这种状态下的视野和转弯半径会受到严重限制，让灵活的猎人得以躲避并进行反击。\n\n除了它的角和滚动冲锋，岩壳巨兽还拥有一条异常粗壮、覆盖装甲的尾巴，用于毁灭性打击。在繁殖季节，干旱的平原上回荡着有节奏的雷鸣般震动，因为竞争的公兽们反复将其沉重的尾巴猛击地面。这种原始力量的展示既是对潜在配偶的呼唤，也是对该领土上任何竞争公兽的暴力警告。",
+    "vi": "Một sinh vật ăn đá khổng lồ, bốn chân, giống thằn lằn, được phân biệt bởi lớp vỏ đá bọc thép dày che phủ lưng. Những con thú vỏ đá chủ yếu đi lang thang trong các khu vực khô cằn của vùng đất cằn cỗi và sa mạc, không mệt mỏi tìm kiếm những mạch khoáng chất và kim loại quý lộ thiên để tồn tại.\n\nĐược trang bị hộp sọ dày được gia cố và vầng trán nổi bật, loài quái vật này thường đập đầu vào mặt vách đá rắn chắc để đào bới thức ăn bằng kim loại của mình. Mặc dù nhìn chung là ngoan ngoãn với con người, nhưng tính thèm ăn quặng vô độ của nó khiến nó trở nên cực kỳ nguy hiểm đối với những thợ săn được trang bị vũ khí hạng nặng. Những con quái vật vỏ đá thường nhầm lẫn hình ảnh phản chiếu của áo giáp kim loại với một bữa ăn đi bộ, lao tới không ngừng để đánh bật những người thợ săn và nuốt chửng gang hoặc vàng bên trong.\n\nBất chấp vẻ ngoài cồng kềnh và nhiều đá của nó, các thợ săn không nên bị đánh lừa bởi sự chậm chạp rõ ràng của nó. Con vật khổng lồ có vỏ bằng đá có thể lao đi với tốc độ cao đáng sợ. Nếu bị đe dọa nghiêm trọng, nó sẽ cong đầu và đuôi vào trong, biến thành một tảng đá lăn khổng lồ có sức hủy diệt vật lý thuần túy. Mặc dù đòn tấn công lăn này có thể gây ra chấn thương lực tàn khốc đủ để san phẳng bất cứ thứ gì trên đường đi của nó, nhưng tầm nhìn và bán kính quay vòng của con thú bị hạn chế nghiêm trọng trong trạng thái này, cho phép những thợ săn nhanh nhẹn né tránh và chống trả.\n\nNgoài cặp sừng và lực phóng lăn, Rockshell Behemoth còn sở hữu một chiếc đuôi bọc thép dày bất thường để thực hiện những đòn tấn công tàn khốc. Trong mùa sinh sản, vùng đồng bằng khô cằn vang lên những rung động sấm sét nhịp nhàng khi những con đực cạnh tranh liên tục đập chiếc đuôi nặng nề của chúng xuống đất. Việc thể hiện sức mạnh thô sơ này vừa là lời kêu gọi bạn tình tiềm năng vừa là lời cảnh báo về bạo lực đối với bất kỳ con đực nào cạnh tranh trong lãnh thổ."
+  },
+  "monsterology.monsterexpansion.rakoth.fighting_tips": {
+    "en": "Rakoth excels at mid-to-short range, so it is best to avoid lingering at these distances. Watch out for its tail attacks, which possess a wide area of effect and can be devastating if caught off guard. Rakoth inflicts more stun than any other monster; taking damage three times in quick succession will almost certainly leave you immobilized. Because the beast is typically very slow, most of its attacks can be easily dodged with proper positioning. After sustaining enough damage, Rakoth will occasionally curl into a ball and attempt to crush you. If you see it suddenly running in an unusual direction, it is preparing to initiate this rolling attack. Do not allow it to create distance, as this gives it the space needed to freely turn and home in on you. Instead, chase after it. If you stay close enough, its turning radius will be restricted, forcing it to helplessly circle around you instead of landing a direct hit.",
+    "zh": "岩壳巨兽擅长中短距离作战，因此最好避免在这些距离停留。注意它的尾巴攻击，其范围效果很广，如果被打个措手不及可能会是毁灭性的。岩壳巨兽造成的眩晕比任何其他怪物都多；连续快速受到三次伤害几乎肯定会让你动弹不得。由于该野兽通常非常缓慢，通过适当的定位，大部分攻击都可以轻松躲避。在承受足够伤害后，岩壳巨兽偶尔会卷成一个球并试图碾压你。如果你看到它突然朝不寻常的方向奔跑，说明它正准备发动滚动攻击。不要让它拉开距离，因为这给了它自由转向并锁定你的空间。相反，要追赶它。如果你保持足够近的距离，它的转弯半径就会受到限制，迫使它无助地绕着你打转，而不是直接命中。",
+    "vi": "Shelled Behemoth chuyên chiến đấu tầm ngắn đến trung bình, vì vậy tốt nhất bạn nên tránh ở những khoảng cách này. Hãy đề phòng đòn tấn công bằng đuôi của nó, đòn tấn công này có phạm vi ảnh hưởng rộng và có thể tàn phá nếu bị bắt bất ngờ. Stonehull gây choáng nhiều hơn bất kỳ quái vật nào khác; nhận ba đòn liên tiếp gần như chắc chắn sẽ khiến bạn bất động. Vì quái thú nhìn chung rất chậm nên hầu hết các cuộc tấn công đều có thể dễ dàng tránh được nếu chọn đúng vị trí. Sau khi nhận đủ sát thương, Stonehull thỉnh thoảng sẽ cuộn lại thành một quả bóng và cố gắng đè bẹp bạn. Nếu bạn thấy nó đột nhiên chạy theo một hướng bất thường, nó đang chuẩn bị tung ra một cuộc tấn công lăn lộn. Đừng để nó kéo ra xa vì điều này giúp nó có thể tự do xoay và khóa vào không gian của bạn. Thay vào đó, hãy đuổi theo nó. Nếu bạn ở đủ gần, bán kính quay vòng của nó sẽ bị hạn chế, buộc nó phải vòng quanh bạn một cách bất lực thay vì đánh trực diện."
+  },
+  "quest.monsterexpansion.a_burning_nuisance.name": {
+    "en": "A Burning Nuisance",
+    "zh": "燃烧的麻烦",
+    "vi": "rắc rối cháy bỏng"
+  },
+  "quest.monsterexpansion.a_burning_nuisance.objective": {
+    "en": "Slay an Ignathos",
+    "zh": "击杀一只燃羽鸟",
+    "vi": "Giết một con chim lửa"
+  },
+  "quest.monsterexpansion.a_burning_nuisance.description": {
+    "en": "Listen here, rookie! I know we're supposed to leave out scrap wood to keep those dopey birds happy, but a particularly greedy Ignathos just broke into my yard and made off with a whole stack of my premium crafting coal! I can't forge any armor if my fuel keeps getting treated like an all-you-can-eat buffet. Head out to the woods and teach that overgrown turkey a lesson. Just... try not to panic it near the tree line, yeah? We don't need a forest fire today.",
+    "zh": "听好了，菜鸟！我知道我们本该留些废木料让那些呆鸟开心，但一只特别贪心的燃羽鸟刚刚闯进了我的院子，偷走了我一整堆优质工艺煤！如果我的燃料老是被人当成自助餐吃掉，我还怎么打造盔甲？去林子里给那只大火鸡一点教训。只是……尽量别在林线附近把它吓慌了，行吗？我们今天可不想来一场森林大火。",
+    "vi": "Nghe này, tân binh! Tôi biết lẽ ra chúng ta nên để lại một ít gỗ vụn để giúp những chú chim mọt sách vui vẻ, nhưng một con chim đốt đặc biệt tham lam vừa đột nhập vào sân của tôi và lấy trộm cả đống than thủ công cao cấp của tôi! Làm sao tôi có thể chế tạo áo giáp nếu nhiên liệu của tôi liên tục bị ngốn như một bữa tiệc buffet? Hãy vào rừng và dạy cho con gà tây to lớn đó một bài học. Chỉ cần... cố gắng đừng dọa nó ở gần hàng cây, được chứ? Chúng tôi không muốn xảy ra cháy rừng ngày hôm nay."
+  },
+  "quest.monsterexpansion.a_flash_in_the_dark.name": {
+    "en": "A Flash in the Dark",
+    "zh": "黑暗中的闪光",
+    "vi": "nhấp nháy trong bóng tối"
+  },
+  "quest.monsterexpansion.a_flash_in_the_dark.objective": {
+    "en": "Slay a Rhyza",
+    "zh": "击杀一只锐爪兽",
+    "vi": "Giết một con Sharpclaw"
+  },
+  "quest.monsterexpansion.a_flash_in_the_dark.description": {
+    "en": "I know the End isn't exactly a peaceful garden, but normally those pests just turn invisible and run away when I come to harvest Chorus Fruit. Well, not this one. I barely took two steps before it dropped its camouflage, flashed me blind, and came at me swinging those awful claws. The ecologists at camp told me she must be nesting, which means no one is safe near her territory. I need you to go clear it out so I can get back to my research. And hey, bring some bandages, those scratches do NOT stop bleeding!",
+    "zh": "我知道末地不是什么和平花园，但通常我来收割紫颂果的时候，那些害虫只会隐身逃跑。嗯，这只可不一样。我还没走两步，它就解除了伪装，闪瞎了我的眼，然后挥舞着那可怕的爪子扑了过来。营地的生态学家告诉我，它一定是在筑巢，这意味着它的领地附近没人安全。我需要你去把它清理掉，这样我才能回去继续我的研究。嘿，带上些绷带，那些抓伤根本止不住血！",
+    "vi": "Tôi biết Cuối cùng không phải là một khu vườn yên bình, nhưng thường khi tôi đến thu hoạch trái điệp khúc, sâu bệnh chỉ tàng hình và bỏ chạy. Vâng, cái này thì khác. Tôi chưa bước được hai bước thì nó đã cởi bỏ lớp ngụy trang, làm tôi bịt mắt rồi lao tới với những móng vuốt đáng sợ. Nhà sinh thái học của trại nói với tôi rằng nó chắc chắn đang làm tổ, điều đó có nghĩa là không ai được an toàn ở gần lãnh thổ của nó. Tôi cần bạn dọn dẹp nó để tôi có thể quay lại nghiên cứu của mình. Này, băng bó lại đi, vết xước đó không cầm được máu đâu!"
+  },
+  "quest.monsterexpansion.silence_the_skies.name": {
+    "en": "Silence the Skies",
+    "zh": "寂静的天空",
+    "vi": "bầu trời im lặng"
+  },
+  "quest.monsterexpansion.silence_the_skies.objective": {
+    "en": "Slay a Skrythe",
+    "zh": "击杀一只肆空龙",
+    "vi": "Giết một con rồng trời"
+  },
+  "quest.monsterexpansion.silence_the_skies.description": {
+    "en": "WHAT? YOU'LL HAVE TO SPEAK UP! MY EARS ARE STILL RINGING! I was hauling a premium shipment of glass panes through the crossing when this massive grey shadow dropped out of nowhere. It flared up these blue things on its head and just... screamed! The sheer force of the sound shattered my entire cargo into dust! When I tried to scare it off, it swung a tail the size of an anvil and smashed my cart to splinters. I don't care what the guild calls it, just go out there and shut that flying menace up so I can do my job in peace!",
+    "zh": "什么？你大声点！我耳朵还在嗡嗡响！我当时正拖着一批高级玻璃板穿过隘口，这时一个巨大的灰色影子不知从哪冒了出来。它展开头上那些蓝色的东西，然后就……尖叫了起来！那声音的纯粹力量把我的整批货物震成了粉末！我想把它吓跑，它却挥动了一条铁砧大小的尾巴，把我的车砸成了碎片。我才不管公会叫它什么呢，赶紧出去把那个飞行祸害给灭了，让我能安安静静地干活！",
+    "vi": "Cái gì? Bạn nói to lên! Tai tôi vẫn còn ù đi! Tôi đang chở một lô hàng tấm kính cao cấp băng qua đèo thì bỗng một bóng đen lớn màu xám không biết từ đâu xuất hiện. Nó trải ra những thứ màu xanh đó trên đầu, rồi... hét lên! Sức mạnh cực lớn của âm thanh đó đã nghiền nát toàn bộ chuyến hàng của tôi thành bột! Tôi cố xua nó đi, nhưng nó vung cái đuôi to bằng cái đe và đập nát xe tôi thành từng mảnh. Tôi không quan tâm công hội gọi nó là gì, cứ ra ngoài tiêu diệt con tai họa bay đó để tôi có thể yên tâm làm việc!"
+  },
+  "quest.monsterexpansion.the_badlands_bite_back.name": {
+    "en": "The Badlands Bite Back",
+    "zh": "恶地的反击",
+    "vi": "Badlands đình công trở lại"
+  },
+  "quest.monsterexpansion.the_badlands_bite_back.objective": {
+    "en": "Slay a Rakoth",
+    "zh": "击杀一只岩壳巨兽",
+    "vi": "Giết một con thú vỏ đá"
+  },
+  "quest.monsterexpansion.the_badlands_bite_back.description": {
+    "en": "Ravines out here are dangerous, so I spent my life savings on a brand-new set of heavy Iron armor. Turns out, to a Rakoth, that just makes me look like a premium, canned meal! I was barely swinging my pickaxe before this massive, rocky lizard charged at me, trying to crack me open like a geode. I dropped my tools and ran, but the overgrown pebble curled up into a boulder and literally flattened my entire campsite. I can still hear it slamming its tail out there. Go deal with it!",
+    "zh": "这里的峡谷很危险，所以我花了一生的积蓄买了一套全新的重型铁甲。结果呢，对岩壳巨兽来说，那只是让我看起来像一份高档罐头大餐！我还没来得及挥几下镐，这只巨大的岩石蜥蜴就冲了过来，想把我像晶洞一样敲开。我扔下工具就跑，但那块大卵石居然蜷成了一个球，literally 把我的整个营地夷为平地。我现在还能听到它在外面甩尾巴的声音。去搞定它！",
+    "vi": "Các hẻm núi ở đây rất nguy hiểm, vì vậy tôi đã dành số tiền tiết kiệm cả đời để mua một bộ áo giáp hạng nặng hoàn toàn mới. Hóa ra, đối với con vật khổng lồ vỏ đá, nó chỉ khiến tôi trông giống như một món ăn đóng hộp sang trọng! Trước khi tôi kịp vung cuốc vài lần, con thằn lằn đá khổng lồ này đã sà xuống và cố gắng xé nát tôi như một tinh thạch. Tôi rơi ra dụng cụ của mình và bỏ chạy, nhưng tảng đá cuộn tròn thành một quả bóng, san bằng toàn bộ khu trại của tôi theo đúng nghĩa đen. Tôi vẫn có thể nghe thấy tiếng nó vẫy đuôi ở bên ngoài. Đi lấy nó đi!"
+  },
+  "quest.monsterexpansion.bloody_waters.name": {
+    "en": "Bloody Waters",
+    "zh": "血染水域",
+    "vi": "nước có vết máu"
+  },
+  "quest.monsterexpansion.bloody_waters.objective": {
+    "en": "Slay a Leivekilth",
+    "zh": "击杀一只凛冰兽",
+    "vi": "Giết một con thú băng"
+  },
+  "quest.monsterexpansion.bloody_waters.description": {
+    "en": "We thought it was just a rogue iceberg drifting into the shipping lanes. Then it turned and rammed our hull. It's a leviathan, Hunter, a colossal beast cloaked in thick frost, with tusks that sheared right through our reinforced bow. As we abandoned ship, the fog cleared enough for me to see its back. It had massive marine predators, sharks and whales, completely frozen and skewered along its spine like grim trophies. It blasted the water with a freezing wind, locking our ruined ship in the floe to mark its new territory. Hunt it down before it pushes any further south.",
+    "zh": "我们以为只是一座冰山漂进了航道。然后它转身撞穿了我们的船壳。那是只利维坦，猎人，一只裹着厚厚冰霜的巨兽，它的獠牙直接切开了我们加固的船首。当我们弃船时，雾气散去了一些，让我看到了它的背部。上面有巨大的海洋掠食者，鲨鱼和鲸鱼，被完全冰冻并像阴森的战利品一样串在它的脊椎上。它用一阵寒风轰击水面，将我们毁坏的船只锁在浮冰中，以此标记它的新领地。在它进一步向南推进之前，猎杀它。",
+    "vi": "Chúng tôi nghĩ đó chỉ là một tảng băng trôi vào kênh. Sau đó nó quay lại và đâm xuyên qua thân thuyền của chúng tôi. Đó là Leviathan, một thợ săn, một con thú khổng lồ được bao phủ bởi sương giá dày đặc và những chiếc răng nanh của nó cắt thẳng vào cây cung đã được gia cố của chúng tôi. Khi chúng tôi rời bỏ con tàu, sương mù dâng lên một phần, cho phép tôi nhìn thấy mặt sau của nó. Trên đó là những kẻ săn mồi khổng lồ trên đại dương, cá mập và cá voi, hoàn toàn bị đóng băng và bị treo dọc theo xương sống của nó như những chiếc cúp kỳ lạ. Nó đánh dấu lãnh thổ mới của mình bằng cách thổi một luồng gió lạnh lên mặt nước, nhốt những con tàu bị đắm của chúng tôi trong những tảng băng trôi. Hãy săn nó trước khi nó tiến xa hơn về phía nam."
+  },
+  "quest.monsterexpansion.stolen_embers.name": {
+    "en": "Stolen Embers",
+    "zh": "被盗的余烬",
+    "vi": "Than hồng bị đánh cắp"
+  },
+  "quest.monsterexpansion.stolen_embers.objective": {
+    "en": "Slay an Ignathos",
+    "zh": "击杀一只燃羽鸟",
+    "vi": "Giết một con chim lửa"
+  },
+  "quest.monsterexpansion.stolen_embers.description": {
+    "en": "Winter is setting in early, and one of those fire-birds just raided our communal woodpile again. We need to restock our firewood, but more importantly, the local tanner says Ignathos plumage makes for incredible thermal insulation. Head into the woods, track it down, and bring back enough feathers to line our winter coats.",
+    "zh": "冬天来得早，那些火鸟又袭击了我们的公共柴堆。我们需要补充柴火，但更重要的是，当地的皮匠说燃羽鸟的羽毛是极好的隔热材料。去林子里，找到它，带回足够的羽毛来填我们的冬衣。",
+    "vi": "Mùa đông đến sớm và lũ chim lửa đó lại tấn công đống củi chung của chúng tôi. Chúng tôi cần bổ sung củi, nhưng quan trọng hơn, người thợ giày địa phương nói rằng lông của chim đốt có khả năng cách nhiệt tuyệt vời. Hãy vào rừng tìm nó và mang về đủ lông vũ để nhét vào áo khoác mùa đông của chúng ta."
+  },
+  "quest.monsterexpansion.resonance_and_ruin.name": {
+    "en": "Resonance and Ruin",
+    "zh": "共鸣与毁灭",
+    "vi": "cộng hưởng và phá hủy"
+  },
+  "quest.monsterexpansion.resonance_and_ruin.objective": {
+    "en": "Slay a Skrythe",
+    "zh": "击杀一只肆空龙",
+    "vi": "Giết một con rồng trời"
+  },
+  "quest.monsterexpansion.resonance_and_ruin.description": {
+    "en": "I thought I was tough enough to take on a Skrythe solo. I was wrong. It shattered my iron shield with one of those sonic blasts and nearly took my head off. I plan on getting my revenge eventually, but first, I need an upgrade. Go hunt one down and bring me back a few of its calcified tail-bones. I'm going to forge a new hammer out of the very thing that beat me.",
+    "zh": "我以为自己够强，可以独自狩猎一只肆空龙。我错了。它用一发音爆击碎了我的铁盾，差点把我的脑袋也炸飞。我迟早会报仇的，但首先，我需要升级装备。去猎一只回来，给我带几根它的钙化尾骨。我要用打败我的东西来锻造一把新锤子。",
+    "vi": "Tôi nghĩ mình đủ mạnh để tự mình săn được một con Sky Dragon. Tôi đã sai. Nó phá vỡ tấm khiên sắt của tôi chỉ bằng một vụ nổ và gần như thổi bay đầu tôi. Sớm hay muộn tôi cũng sẽ trả thù được, nhưng trước tiên, tôi cần phải nâng cấp trang bị của mình. Hãy đi săn một con và mang về cho tôi một ít xương đuôi bị vôi hóa của nó. Tôi sẽ sử dụng những gì đã đánh bại tôi để rèn một cây búa mới."
+  },
+  "quest.monsterexpansion.gold_and_granite.name": {
+    "en": "Gold and Granite",
+    "zh": "黄金与花岗岩",
+    "vi": "vàng và đá granit"
+  },
+  "quest.monsterexpansion.gold_and_granite.objective": {
+    "en": "Slay a Rakoth",
+    "zh": "击杀一只岩壳巨兽",
+    "vi": "Giết một con thú vỏ đá"
+  },
+  "quest.monsterexpansion.gold_and_granite.description": {
+    "en": "We finally struck a massive raw gold vein in the badlands ravine, but the noise of our pickaxes attracted a Rakoth. It started eating the ore straight out of the cavern walls! Get in there and crack its shell before it devours our entire payout. Feel free to keep any of the heavy carapace you break off of it, I hear it makes fantastic plating.",
+    "zh": "我们终于在恶地峡谷里找到了一条巨大的天然金矿脉，但镐子的噪音引来了一只岩壳巨兽。它开始直接从洞穴壁上啃矿石！进去在它吞掉我们全部收益之前敲碎它的壳。你从它身上敲下来的厚重甲壳可以随意留着，我听说那是做装甲的好材料。",
+    "vi": "Cuối cùng chúng tôi đã tìm thấy một mạch vàng tự nhiên khổng lồ ở Badland Canyon, nhưng tiếng ồn của cái cuốc đã thu hút một con thú vỏ đá. Nó bắt đầu nhai quặng ngay trên vách hang! Hãy vào đó và đập vỡ lớp vỏ của nó trước khi nó nuốt chửng tất cả lợi ích của chúng ta. Cứ thoải mái giữ lại lớp mai dày mà bạn đã hạ gục nhé, tôi nghe nói đó là chất liệu tốt để làm áo giáp."
+  },
+  "quest.monsterexpansion.unseen_blade.name": {
+    "en": "Unseen Blade",
+    "zh": "无形之刃",
+    "vi": "lưỡi vô hình"
+  },
+  "quest.monsterexpansion.unseen_blade.objective": {
+    "en": "Slay a Rhyza",
+    "zh": "击杀一只锐爪兽",
+    "vi": "Giết một con Sharpclaw"
+  },
+  "quest.monsterexpansion.unseen_blade.description": {
+    "en": "I've finally figured out how to weave that microscopic mirrored fur into a stealth cloak, but my workshop is completely out of materials. I need you to head into the Outer Islands and track down a Rhyza. They are going to be incredibly evasive. You'll have to keep a sharp eye out for their shimmering silhouettes and strike before they flashbang you and vanish.",
+    "zh": "我终于弄清楚了如何用那种微观镜面皮毛编织隐形斗篷，但我的工作室已经完全没材料了。我需要你去外岛追踪一只锐爪兽。它们会极其难以捉摸。你必须时刻留意它们 shimmer 的轮廓，并在它们用闪光弹晃晕你并消失之前发动攻击。",
+    "vi": "Cuối cùng tôi đã tìm ra cách dệt một chiếc áo choàng tàng hình từ bộ lông phản chiếu siêu nhỏ đó, nhưng xưởng của tôi hoàn toàn hết nguyên liệu. Tôi cần cậu truy tìm Vuốt Sắc ở những hòn đảo bên ngoài. Họ có thể cực kỳ khó nắm bắt. Bạn phải để ý đến đường viền lung linh của chúng và tấn công trước khi chúng làm bạn choáng váng bằng những pha chớp nhoáng và biến mất."
+  },
+  "quest.monsterexpansion.forged_in_ice.name": {
+    "en": "Forged in Ice",
+    "zh": "冰铸",
+    "vi": "đúc băng"
+  },
+  "quest.monsterexpansion.forged_in_ice.objective": {
+    "en": "Slay a Leivekilth",
+    "zh": "击杀一只凛冰兽",
+    "vi": "Giết một con thú băng"
+  },
+  "quest.monsterexpansion.forged_in_ice.description": {
+    "en": "I'm trying to design a new type of cooling forge, and I need intact Leivekilth materials to make it work. I know hunting a Leivekilth is a massive risk, but if you can isolate one and bring me its parts, I'll forge you a weapon that'll freeze the sea itself.",
+    "zh": "我正在尝试设计一种新型冷却熔炉，需要完整的凛冰兽材料才能让它工作。我知道猎杀凛冰兽风险极大，但如果你能引开一只并带回它的部件，我会为你锻造一把足以冻结大海的武器。",
+    "vi": "Tôi đang cố gắng thiết kế một lò làm mát mới đòi hỏi phải có đầy đủ nguyên liệu Rin Ice Beast để nó hoạt động. Tôi biết săn thú băng là cực kỳ mạo hiểm, nhưng nếu bạn có thể dụ một con đi và mang về các bộ phận của nó, tôi sẽ rèn cho bạn một vũ khí đủ mạnh để đóng băng cả biển."
+  },
+  "quest.monsterexpansion.sunscorched_vandal.name": {
+    "en": "Sun-Scorched Vandal",
+    "zh": "烈日破坏者",
+    "vi": "kẻ hủy diệt mặt trời"
+  },
+  "quest.monsterexpansion.sunscorched_vandal.objective": {
+    "en": "Slay a Tempered Ignathos",
+    "zh": "击杀一只炽热化燃羽鸟",
+    "vi": "Giết một con chim lửa rực lửa"
+  },
+  "quest.monsterexpansion.sunscorched_vandal.description": {
+    "en": "We have a massive problem on the dry plains. An Ignathos was sighted in the Savanna. Between the scorching sun and the dry brush, its internal furnace has completely overheated. It is permanently ignited, hyper-aggressive, and turning the grass to ash with every step. If we don't put this bird down immediately, the entire biome is going to go up in smoke.",
+    "zh": "我们在干燥的平原上遇到了大麻烦。有人在稀树草原目击到了一只燃羽鸟。在炎炎烈日和干燥灌木丛的影响下，它的内部熔炉已经完全过热。它处于永久点燃状态，极度攻击性，每一步都将草地化为灰烬。如果我们不立刻解决这只鸟，整个生物群系都要烧起来了。",
+    "vi": "Chúng ta đang gặp rắc rối lớn trên vùng đồng bằng khô cằn. Một con chim rực lửa đã được nhìn thấy ở thảo nguyên. Lò nung bên trong của nó hoàn toàn quá nóng bởi ánh nắng thiêu đốt và bụi cây khô. Nó ở trạng thái bốc cháy vĩnh viễn, cực kỳ hung hãn, mỗi bước đi đều biến cỏ thành tro. Nếu chúng ta không xử lý con chim này ngay lập tức, toàn bộ quần xã sẽ bị đốt cháy."
+  },
+  "quest.monsterexpansion.thermal_shock.name": {
+    "en": "Thermal Shock",
+    "zh": "热冲击",
+    "vi": "Sốc nhiệt"
+  },
+  "quest.monsterexpansion.thermal_shock.objective": {
+    "en": "Slay a Leivekilth and Tempered Ignathos",
+    "zh": "击杀一只凛冰兽和一只炽热化燃羽鸟",
+    "vi": "Giết một con thú băng và một con chim lông rực lửa"
+  },
+  "quest.monsterexpansion.thermal_shock.description": {
+    "en": "An Ignathos has wandered far outside its natural habitat, tracking deep into the frozen shores. That kind of reckless, erratic behavior leads us to believe it is a Tempered specimen. There is a Leivekilth territory dangerously close to a nearby coastal settlement. If the Ignathos agitates the leviathan, the resulting rampage will cause great harm to the village. We cannot take any chances. Head to the coast and take them both out before the situation escalates.",
+    "zh": "一只燃羽鸟远远离开了它的自然栖息地，深入到了冰冻海岸。这种鲁莽、不稳定的行为让我们相信这是一只炽热化个体。有一处凛冰兽的领地距离附近的沿海定居点非常近。如果燃羽鸟激怒了那头利维坦，由此引发的暴怒将对村庄造成巨大伤害。我们不能冒任何风险。前往海岸，在事态升级之前把它们两个都干掉。",
+    "vi": "Một con chim lửa đã đi lạc xa môi trường sống tự nhiên của nó, xâm nhập sâu vào bờ biển đóng băng. Hành vi liều lĩnh, thất thường này khiến chúng ta tin rằng đây là một cá nhân bốc lửa. Một trong những lãnh thổ của quái thú băng rất gần với khu định cư ven biển gần đó. Nếu Burning Feather Bird chọc giận Leviathan, cơn thịnh nộ sẽ gây ra thiệt hại lớn cho ngôi làng. Chúng ta không thể chấp nhận bất kỳ rủi ro nào. Đi đến bờ biển và đưa cả hai ra ngoài trước khi mọi chuyện leo thang."
+  },
+  "quest.monsterexpansion.a_bantam_boulder.name": {
+    "en": "A Bantam Boulder",
+    "zh": "迷你巨石",
+    "vi": "những tảng đá nhỏ"
+  },
+  "quest.monsterexpansion.a_bantam_boulder.objective": {
+    "en": "Slay a Rakoth",
+    "zh": "击杀一只岩壳巨兽",
+    "vi": "Giết một con thú vỏ đá"
+  },
+  "quest.monsterexpansion.a_bantam_boulder.description": {
+    "en": "I was clearing out a new tunnel in the badlands and found this round, heavy rock blocking the tracks. It was about the size of a minecart, so I gave it a good whack with my pickaxe to break it up. Big mistake. The 'rock' uncurled, roared, and headbutted my actual minecart off the rails! It's a Rakoth, but it's only half the size of the massive ones we usually see on the surface. Don't let the compact size fool you, it still hits like a runaway train. Go clear it out of our shaft so we can get back to work!",
+    "zh": "我在恶地清理一条新隧道时，发现了一块堵在轨道上的圆形沉重岩石。它大概有矿车那么大，于是我抡起镐子给它狠狠来了一下，想把它敲碎。大错特错。那块“石头”展开了身体，咆哮着，一头把我真正的矿车撞下了轨道！那是一只岩壳巨兽，但只有我们通常在地面上看到的那些大家伙的一半大小。别被它紧凑的体型骗了，它打人还是跟脱缰的火车一样猛。去把它从我们的矿道里清掉，好让我们回去干活！",
+    "vi": "Tôi đang dọn đường hầm mới ở Badlands thì phát hiện ra một tảng đá tròn, nặng chặn đường đi. Nó có kích thước bằng một chiếc xe đẩy của mỏ, nên tôi dùng cuốc đập mạnh vào nó, cố gắng làm gãy nó. Sai lầm lớn. “Tảng đá” lộ thân, gầm lên và hất văng chiếc xe chở mìn thật của tôi ra khỏi đường ray! Đó là một con vật khổng lồ có vỏ bằng đá nhưng chỉ có kích thước bằng một nửa những con vật to lớn mà chúng ta thường thấy trên mặt đất. Đừng để kích thước nhỏ gọn của nó đánh lừa bạn, nó vẫn lao như một đoàn tàu đang chạy trốn. Hãy dọn sạch nó ra khỏi đường hầm của chúng ta để chúng ta có thể quay lại làm việc!"
+  },
+  "tooltip.monsterexpansion.duskrend.on_hit": {
+    "en": null,
+    "zh": "» 命中时：",
+    "vi": "» Bị đánh:"
+  },
+  "tooltip.monsterexpansion.duskrend.on_hit.effect": {
+    "en": null,
+    "zh": "获得狂怒，提升速度。",
+    "vi": "Đạt được cơn thịnh nộ và tăng tốc độ."
+  },
+  "tooltip.monsterexpansion.duskrend.use": {
+    "en": null,
+    "zh": "» 使用时：",
+    "vi": "» Khi sử dụng:"
+  },
+  "tooltip.monsterexpansion.duskrend.use.effect": {
+    "en": null,
+    "zh": "向前冲刺，消耗所有层数。",
+    "vi": "Lao về phía trước, tiêu hết số điểm tích lũy."
+  },
+  "tooltip.monsterexpansion.duskrend.frenzy_stacks": {
+    "en": null,
+    "zh": "狂怒层数：",
+    "vi": "Các lớp giận dữ:"
+  },
+  "advancements.monsterexpansion.hunt_skrythe.title": {
+    "en": null,
+    "zh": "忘记带耳塞了",
+    "vi": "Quên mang theo nút tai"
+  },
+  "advancements.monsterexpansion.hunt_skrythe.description": {
+    "en": null,
+    "zh": "猎杀一只肆空龙",
+    "vi": "Săn rồng trời"
+  },
+  "advancements.monsterexpansion.craft_duskrend.title": {
+    "en": null,
+    "zh": "利爪化刃",
+    "vi": "Lưỡi vuốt"
+  },
+  "advancements.monsterexpansion.craft_duskrend.description": {
+    "en": null,
+    "zh": "在铸造厂锻造暮裂刃",
+    "vi": "Rèn Duskblade trong lò đúc"
+  },
+  "advancements.monsterexpansion.craft_horn_of_the_shattercry.title": {
+    "en": null,
+    "zh": "碎地号角",
+    "vi": "Sừng đất vỡ vụn"
+  },
+  "advancements.monsterexpansion.craft_horn_of_the_shattercry.description": {
+    "en": null,
+    "zh": "在铸造厂锻造碎地号角",
+    "vi": "Rèn chiếc sừng đột phá trong xưởng đúc"
+  },
+  "advancements.monsterexpansion.craft_monster_armor.title": {
+    "en": null,
+    "zh": "到头来成了我的裤子",
+    "vi": "Cuối cùng nó là quần của tôi"
+  },
+  "advancements.monsterexpansion.craft_monster_armor.description": {
+    "en": null,
+    "zh": "用大型怪物的材料制作一件护甲",
+    "vi": "Chế tạo một bộ áo giáp bằng vật liệu từ một con quái vật lớn"
+  },
+  "advancements.monsterexpansion.craft_spire_shell_bulwark.title": {
+    "en": null,
+    "zh": "移动的不动之物",
+    "vi": "vật bất động chuyển động"
+  },
+  "advancements.monsterexpansion.craft_spire_shell_bulwark.description": {
+    "en": null,
+    "zh": "在铸造厂锻造峰壳壁垒",
+    "vi": "Rèn hàng rào vỏ đỉnh trong xưởng đúc"
+  },
+  "advancements.monsterexpansion.hunt_large_monster.title": {
+    "en": null,
+    "zh": "怪物……猎人",
+    "vi": "Quái vật…Thợ săn"
+  },
+  "advancements.monsterexpansion.hunt_large_monster.description": {
+    "en": null,
+    "zh": "猎杀你的第一只大型怪物",
+    "vi": "Săn quái vật lớn đầu tiên của bạn"
+  },
+  "advancements.monsterexpansion.hunt_leivekilth.title": {
+    "en": null,
+    "zh": "好大一块冰",
+    "vi": "Thật là một tảng băng lớn"
+  },
+  "advancements.monsterexpansion.hunt_leivekilth.description": {
+    "en": null,
+    "zh": "猎杀一只凛冰兽",
+    "vi": "Săn quái vật băng"
+  },
+  "advancements.monsterexpansion.hunt_rakoth.title": {
+    "en": null,
+    "zh": "哇，生气的石头？",
+    "vi": "Wow, đá giận dữ?"
+  },
+  "advancements.monsterexpansion.hunt_rakoth.description": {
+    "en": null,
+    "zh": "猎杀一只岩壳巨兽",
+    "vi": "Săn một con thú có vỏ đá"
+  },
+  "advancements.monsterexpansion.hunt_rhyza.title": {
+    "en": null,
+    "zh": "利爪少女！",
+    "vi": "Cô gái móng vuốt!"
+  },
+  "advancements.monsterexpansion.hunt_rhyza.description": {
+    "en": null,
+    "zh": "猎杀一只锐爪兽",
+    "vi": "Săn một con vuốt sắc"
+  }
+}

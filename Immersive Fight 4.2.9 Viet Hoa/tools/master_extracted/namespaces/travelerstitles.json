@@ -1,0 +1,1177 @@
+{
+  "travelerstitles.minecraft.overworld": {
+    "en": "Overworld",
+    "zh": "主世界",
+    "vi": "thế giới chính"
+  },
+  "travelerstitles.minecraft.the_nether": {
+    "en": "The Nether",
+    "zh": "下界",
+    "vi": "địa ngục"
+  },
+  "travelerstitles.minecraft.the_end": {
+    "en": "The End",
+    "zh": "末地",
+    "vi": "kết thúc"
+  },
+  "travelerstitles.atum.atum": {
+    "en": "Atum",
+    "zh": "阿图姆",
+    "vi": "Atum"
+  },
+  "travelerstitles.lostcities.lostcity": {
+    "en": "Lost City",
+    "zh": "失落的城市",
+    "vi": "thành phố đã mất"
+  },
+  "travelerstitles.mining_dimension.mining": {
+    "en": "Mining Dimension",
+    "zh": "挖矿维度",
+    "vi": "Kích thước khai thác"
+  },
+  "travelerstitles.the_bumblezone.the_bumblezone": {
+    "en": "The Bumblezone",
+    "zh": "蜜蜂领域",
+    "vi": "Cánh đồng ong"
+  },
+  "travelerstitles.twilightforest.twilightforest": {
+    "en": "Twilight Forest",
+    "zh": "暮色森林",
+    "vi": "rừng chạng vạng"
+  },
+  "travelerstitles.undergarden.undergarden": {
+    "en": "The Undergarden",
+    "zh": "深暗之园",
+    "vi": "Khu vườn bóng tối"
+  },
+  "travelerstitles.blue_skies.everbright": {
+    "en": "Everbright",
+    "zh": "永昼之地",
+    "vi": "Vùng đất của ánh sáng ban ngày vĩnh cửu"
+  },
+  "travelerstitles.blue_skies.everdawn": {
+    "en": "Everdawn",
+    "zh": "恒晓之地",
+    "vi": "Vùng đất của bình minh vĩnh cửu"
+  },
+  "travelerstitles.the_afterlight.the_afterlight": {
+    "en": "The Afterlight",
+    "zh": "隐光之域",
+    "vi": "Vương quốc ánh sáng ẩn giấu"
+  },
+  "travelerstitles.commands.biometitle.invalid": {
+    "en": "\"%s\" does not seem to be a valid biome",
+    "zh": null,
+    "vi": null
+  },
+  "travelerstitles.commands.biometitle.notfound": {
+    "en": "No title found for biome \"%s\"",
+    "zh": null,
+    "vi": null
+  },
+  "travelerstitles.minecraft.the_nether.color": {
+    "en": "750909",
+    "zh": null,
+    "vi": null
+  },
+  "travelerstitles.minecraft.the_end.color": {
+    "en": "4f219e",
+    "zh": null,
+    "vi": null
+  },
+  "travelerstitles.atum.atum.color": {
+    "en": "8c6b07",
+    "zh": null,
+    "vi": null
+  },
+  "travelerstitles.the_bumblezone.the_bumblezone.color": {
+    "en": "d1bd0d",
+    "zh": null,
+    "vi": null
+  },
+  "travelerstitles.twilightforest.twilightforest.color": {
+    "en": "80119c",
+    "zh": null,
+    "vi": null
+  },
+  "travelerstitles.twilightforest.twilight_forest": {
+    "en": "Twilight Forest",
+    "zh": null,
+    "vi": null
+  },
+  "travelerstitles.twilightforest.twilight_forest.color": {
+    "en": "80119c",
+    "zh": null,
+    "vi": null
+  },
+  "travelerstitles.undergarden.undergarden.color": {
+    "en": "428542",
+    "zh": null,
+    "vi": null
+  },
+  "travelerstitles.blue_skies.everbright.color": {
+    "en": "006fb0",
+    "zh": null,
+    "vi": null
+  },
+  "travelerstitles.blue_skies.everdawn.color": {
+    "en": "db6e2a",
+    "zh": null,
+    "vi": null
+  },
+  "travelerstitles.the_afterlight.the_afterlight.color": {
+    "en": "0fd3d6",
+    "zh": null,
+    "vi": null
+  },
+  "travelerstitles.lobby.fishing_dimension": {
+    "en": "Fishing Dimension",
+    "zh": null,
+    "vi": null
+  },
+  "travelerstitles.lobby.gaming_dimension": {
+    "en": "Gaming Dimension",
+    "zh": null,
+    "vi": null
+  },
+  "travelerstitles.lobby.lobby_dimension": {
+    "en": "Lobby",
+    "zh": null,
+    "vi": null
+  },
+  "travelerstitles.lobby.mining_dimension": {
+    "en": "Mining Dimension",
+    "zh": null,
+    "vi": null
+  },
+  "travelerstitles.lobby.void_dimension": {
+    "en": "Void Dimension",
+    "zh": null,
+    "vi": null
+  },
+  "biome.terralith.alpha_islands": {
+    "en": "Alpha Islands",
+    "zh": null,
+    "vi": null
+  },
+  "biome.terralith.alpha_islands_winter": {
+    "en": "Alpha Islands (Winter)",
+    "zh": null,
+    "vi": null
+  },
+  "biome.terralith.alpine_grove": {
+    "en": "Alpine Grove",
+    "zh": null,
+    "vi": null
+  },
+  "biome.terralith.alpine_highlands": {
+    "en": "Alpine Highlands",
+    "zh": null,
+    "vi": null
+  },
+  "biome.terralith.amethyst_canyon": {
+    "en": "Amethyst Canyon",
+    "zh": null,
+    "vi": null
+  },
+  "biome.terralith.amethyst_rainforest": {
+    "en": "Amethyst Rainforest",
+    "zh": null,
+    "vi": null
+  },
+  "biome.terralith.ancient_sands": {
+    "en": "Ancient Sands",
+    "zh": null,
+    "vi": null
+  },
+  "biome.terralith.arid_highlands": {
+    "en": "Arid Highlands",
+    "zh": null,
+    "vi": null
+  },
+  "biome.terralith.ashen_savanna": {
+    "en": "Ashen Savanna",
+    "zh": null,
+    "vi": null
+  },
+  "biome.terralith.basalt_cliffs": {
+    "en": "Basalt Cliffs",
+    "zh": null,
+    "vi": null
+  },
+  "biome.terralith.birch_taiga": {
+    "en": "Birch Taiga",
+    "zh": null,
+    "vi": null
+  },
+  "biome.terralith.blooming_plateau": {
+    "en": "Blooming Plateau",
+    "zh": null,
+    "vi": null
+  },
+  "biome.terralith.blooming_valley": {
+    "en": "Blooming Valley",
+    "zh": null,
+    "vi": null
+  },
+  "biome.terralith.brushland": {
+    "en": "Brushland",
+    "zh": null,
+    "vi": null
+  },
+  "biome.terralith.bryce_canyon": {
+    "en": "Bryce Canyon",
+    "zh": null,
+    "vi": null
+  },
+  "biome.terralith.caldera": {
+    "en": "Caldera",
+    "zh": null,
+    "vi": null
+  },
+  "biome.terralith.cloud_forest": {
+    "en": "Cloud Forest",
+    "zh": null,
+    "vi": null
+  },
+  "biome.terralith.cold_shrubland": {
+    "en": "Cold Shrubland",
+    "zh": null,
+    "vi": null
+  },
+  "biome.terralith.desert_oasis": {
+    "en": "Desert Oasis",
+    "zh": null,
+    "vi": null
+  },
+  "biome.terralith.desert_spires": {
+    "en": "Desert Spires",
+    "zh": null,
+    "vi": null
+  },
+  "biome.terralith.emerald_peaks": {
+    "en": "Emerald Peaks",
+    "zh": null,
+    "vi": null
+  },
+  "biome.terralith.forested_highlands": {
+    "en": "Forested Highlands",
+    "zh": null,
+    "vi": null
+  },
+  "biome.terralith.fractured_savanna": {
+    "en": "Fractured Savanna",
+    "zh": null,
+    "vi": null
+  },
+  "biome.terralith.frozen_cliffs": {
+    "en": "Frozen Cliffs",
+    "zh": null,
+    "vi": null
+  },
+  "biome.terralith.glacial_chasm": {
+    "en": "Glacial Chasm",
+    "zh": null,
+    "vi": null
+  },
+  "biome.terralith.granite_cliffs": {
+    "en": "Granite Cliffs",
+    "zh": null,
+    "vi": null
+  },
+  "biome.terralith.gravel_beach": {
+    "en": "Gravel Beach",
+    "zh": null,
+    "vi": null
+  },
+  "biome.terralith.gravel_desert": {
+    "en": "Gravel Desert",
+    "zh": null,
+    "vi": null
+  },
+  "biome.terralith.haze_mountain": {
+    "en": "Haze Mountain",
+    "zh": null,
+    "vi": null
+  },
+  "biome.terralith.highlands": {
+    "en": "Highlands",
+    "zh": null,
+    "vi": null
+  },
+  "biome.terralith.hot_shrubland": {
+    "en": "Hot Shrubland",
+    "zh": null,
+    "vi": null
+  },
+  "biome.terralith.ice_marsh": {
+    "en": "Ice Marsh",
+    "zh": null,
+    "vi": null
+  },
+  "biome.terralith.jungle_mountains": {
+    "en": "Jungle Mountains",
+    "zh": null,
+    "vi": null
+  },
+  "biome.terralith.lavender_forest": {
+    "en": "Lavender Forest",
+    "zh": null,
+    "vi": null
+  },
+  "biome.terralith.lavender_valley": {
+    "en": "Lavender Valley",
+    "zh": null,
+    "vi": null
+  },
+  "biome.terralith.lush_valley": {
+    "en": "Lush Valley",
+    "zh": null,
+    "vi": null
+  },
+  "biome.terralith.mirage_isles": {
+    "en": "Mirage Isles",
+    "zh": null,
+    "vi": null
+  },
+  "biome.terralith.moonlight_grove": {
+    "en": "Moonlight Grove",
+    "zh": null,
+    "vi": null
+  },
+  "biome.terralith.moonlight_valley": {
+    "en": "Moonlight Valley",
+    "zh": null,
+    "vi": null
+  },
+  "biome.terralith.mountain_steppe": {
+    "en": "Mountain Steppe",
+    "zh": null,
+    "vi": null
+  },
+  "biome.terralith.orchid_swamp": {
+    "en": "Orchid Swamp",
+    "zh": null,
+    "vi": null
+  },
+  "biome.terralith.painted_mountains": {
+    "en": "Painted Mountains",
+    "zh": null,
+    "vi": null
+  },
+  "biome.terralith.red_oasis": {
+    "en": "Red Oasis",
+    "zh": null,
+    "vi": null
+  },
+  "biome.terralith.rocky_jungle": {
+    "en": "Rocky Jungle",
+    "zh": null,
+    "vi": null
+  },
+  "biome.terralith.rocky_mountains": {
+    "en": "Rocky Mountains",
+    "zh": null,
+    "vi": null
+  },
+  "biome.terralith.rocky_shrubland": {
+    "en": "Rocky Shrubland",
+    "zh": null,
+    "vi": null
+  },
+  "biome.terralith.sakura_grove": {
+    "en": "Sakura Grove",
+    "zh": null,
+    "vi": null
+  },
+  "biome.terralith.sakura_valley": {
+    "en": "Sakura Valley",
+    "zh": null,
+    "vi": null
+  },
+  "biome.terralith.sandstone_valley": {
+    "en": "Sandstone Valley",
+    "zh": null,
+    "vi": null
+  },
+  "biome.terralith.savanna_badlands": {
+    "en": "Savanna Badlands",
+    "zh": null,
+    "vi": null
+  },
+  "biome.terralith.savanna_slopes": {
+    "en": "Savanna Slopes",
+    "zh": null,
+    "vi": null
+  },
+  "biome.terralith.scarlet_mountains": {
+    "en": "Scarlet Mountains",
+    "zh": null,
+    "vi": null
+  },
+  "biome.terralith.shield": {
+    "en": "Shield",
+    "zh": null,
+    "vi": null
+  },
+  "biome.terralith.shield_clearing": {
+    "en": "Shield Clearing",
+    "zh": null,
+    "vi": null
+  },
+  "biome.terralith.shrubland": {
+    "en": "Shrubland",
+    "zh": null,
+    "vi": null
+  },
+  "biome.terralith.siberian_grove": {
+    "en": "Siberian Grove",
+    "zh": null,
+    "vi": null
+  },
+  "biome.terralith.siberian_taiga": {
+    "en": "Siberian Taiga",
+    "zh": null,
+    "vi": null
+  },
+  "biome.terralith.skylands": {
+    "en": "Skylands",
+    "zh": null,
+    "vi": null
+  },
+  "biome.terralith.skylands_autumn": {
+    "en": "Skylands (Autumn)",
+    "zh": null,
+    "vi": null
+  },
+  "biome.terralith.skylands_spring": {
+    "en": "Skylands (Spring)",
+    "zh": null,
+    "vi": null
+  },
+  "biome.terralith.skylands_summer": {
+    "en": "Skylands (Summer)",
+    "zh": null,
+    "vi": null
+  },
+  "biome.terralith.skylands_winter": {
+    "en": "Skylands (Winter)",
+    "zh": null,
+    "vi": null
+  },
+  "biome.terralith.snowy_badlands": {
+    "en": "Snowy Badlands",
+    "zh": null,
+    "vi": null
+  },
+  "biome.terralith.snowy_maple_forest": {
+    "en": "Snowy Maple Forest",
+    "zh": null,
+    "vi": null
+  },
+  "biome.terralith.snowy_shield": {
+    "en": "Snowy Shield",
+    "zh": null,
+    "vi": null
+  },
+  "biome.terralith.steppe": {
+    "en": "Steppe",
+    "zh": null,
+    "vi": null
+  },
+  "biome.terralith.stony_spires": {
+    "en": "Stony Spires",
+    "zh": null,
+    "vi": null
+  },
+  "biome.terralith.temperate_highlands": {
+    "en": "Temperate Highlands",
+    "zh": null,
+    "vi": null
+  },
+  "biome.terralith.tropical_jungle": {
+    "en": "Tropical Jungle",
+    "zh": null,
+    "vi": null
+  },
+  "biome.terralith.valley_clearing": {
+    "en": "Valley Clearing",
+    "zh": null,
+    "vi": null
+  },
+  "biome.terralith.volcanic_crater": {
+    "en": "Volcanic Crater",
+    "zh": null,
+    "vi": null
+  },
+  "biome.terralith.volcanic_peaks": {
+    "en": "Volcanic Peaks",
+    "zh": null,
+    "vi": null
+  },
+  "biome.terralith.warm_river": {
+    "en": "Warm River",
+    "zh": null,
+    "vi": null
+  },
+  "biome.terralith.warped_mesa": {
+    "en": "Warped Mesa",
+    "zh": null,
+    "vi": null
+  },
+  "biome.terralith.white_cliffs": {
+    "en": "White Cliffs",
+    "zh": null,
+    "vi": null
+  },
+  "biome.terralith.white_mesa": {
+    "en": "White Mesa",
+    "zh": null,
+    "vi": null
+  },
+  "biome.terralith.windswept_spires": {
+    "en": "Windswept Spires",
+    "zh": null,
+    "vi": null
+  },
+  "biome.terralith.wintry_forest": {
+    "en": "Wintry Forest",
+    "zh": null,
+    "vi": null
+  },
+  "biome.terralith.yellowstone": {
+    "en": "Yellowstone",
+    "zh": null,
+    "vi": null
+  },
+  "biome.terralith.yosemite_cliffs": {
+    "en": "Yosemite Cliffs",
+    "zh": null,
+    "vi": null
+  },
+  "biome.terralith.yosemite_lowlands": {
+    "en": "Yosemite Lowlands",
+    "zh": null,
+    "vi": null
+  },
+  "biome.terralith.cave/andesite_caves": {
+    "en": "Andesite Caves",
+    "zh": null,
+    "vi": null
+  },
+  "biome.terralith.cave/desert_caves": {
+    "en": "Desert Caves",
+    "zh": null,
+    "vi": null
+  },
+  "biome.terralith.cave/crystal_caves": {
+    "en": "Crystal Caves",
+    "zh": null,
+    "vi": null
+  },
+  "biome.terralith.cave/diorite_caves": {
+    "en": "Diorite Caves",
+    "zh": null,
+    "vi": null
+  },
+  "biome.terralith.cave/frostfire_caves": {
+    "en": "Frostfire Caves",
+    "zh": null,
+    "vi": null
+  },
+  "biome.terralith.cave/fungal_caves": {
+    "en": "Fungal Caves",
+    "zh": null,
+    "vi": null
+  },
+  "biome.terralith.cave/granite_caves": {
+    "en": "Granite Caves",
+    "zh": null,
+    "vi": null
+  },
+  "biome.terralith.cave/infested_Caves": {
+    "en": "Infested Caves",
+    "zh": null,
+    "vi": null
+  },
+  "biome.terralith.cave/ice_caves": {
+    "en": "Ice Caves",
+    "zh": null,
+    "vi": null
+  },
+  "biome.terralith.cave/mantle_caves": {
+    "en": "Mantle Caves",
+    "zh": null,
+    "vi": null
+  },
+  "biome.terralith.cave/thermal_caves": {
+    "en": "Thermal Caves",
+    "zh": null,
+    "vi": null
+  },
+  "biome.terralith.cave/tuff_caves": {
+    "en": "Tuff Caves",
+    "zh": null,
+    "vi": null
+  },
+  "biome.terralith.cave.andesite_caves": {
+    "en": "Andesite Caves",
+    "zh": null,
+    "vi": null
+  },
+  "biome.terralith.cave.desert_caves": {
+    "en": "Desert Caves",
+    "zh": null,
+    "vi": null
+  },
+  "biome.terralith.cave.diorite_caves": {
+    "en": "Diorite Caves",
+    "zh": null,
+    "vi": null
+  },
+  "biome.terralith.cave.frostfire_caves": {
+    "en": "Frostfire Caves",
+    "zh": null,
+    "vi": null
+  },
+  "biome.terralith.cave.fungal_caves": {
+    "en": "Fungal Caves",
+    "zh": null,
+    "vi": null
+  },
+  "biome.terralith.cave.granite_caves": {
+    "en": "Granite Caves",
+    "zh": null,
+    "vi": null
+  },
+  "biome.terralith.cave.ice_caves": {
+    "en": "Ice Caves",
+    "zh": null,
+    "vi": null
+  },
+  "biome.terralith.cave.mantle_caves": {
+    "en": "Mantle Caves",
+    "zh": null,
+    "vi": null
+  },
+  "biome.terralith.cave.thermal_caves": {
+    "en": "Thermal Caves",
+    "zh": null,
+    "vi": null
+  },
+  "biome.terralith.cave.tuff_caves": {
+    "en": "Tuff Caves",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.travelerstitles-fabric-1_20.title": {
+    "en": "Traveler's Titles",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.travelerstitles-fabric-1_20.option.biomes": {
+    "en": "Biome Title Settings",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.travelerstitles-fabric-1_20.option.biomes.@Tooltip": {
+    "en": "Biome Title Settings",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.travelerstitles-fabric-1_20.option.dimensions": {
+    "en": "Dimension Title Settings",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.travelerstitles-fabric-1_20.option.dimensions.@Tooltip": {
+    "en": "Dimension Title Settings",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.travelerstitles-fabric-1_20.option.sound": {
+    "en": "Sound Settings",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.travelerstitles-fabric-1_20.option.sound.@Tooltip[0]": {
+    "en": "Sound Settings.",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.travelerstitles-fabric-1_20.option.sound.@Tooltip[1]": {
+    "en": "These will only be used if you add custom sounds via a resource pack.",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.travelerstitles-fabric-1_20.option.sound.@Tooltip[2]": {
+    "en": "For information on how to do this, visit the CurseForge page.",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.travelerstitles-fabric-1_20.option.biomes.enabled": {
+    "en": "Enable Biome Titles",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.travelerstitles-fabric-1_20.option.biomes.textFadeInTime": {
+    "en": "Text Fade-In Time",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.travelerstitles-fabric-1_20.option.biomes.textFadeInTime.@Tooltip[0]": {
+    "en": "How long the fade-in text effect lasts, in ticks.",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.travelerstitles-fabric-1_20.option.biomes.textFadeInTime.@Tooltip[1]": {
+    "en": "20 ticks = 1 second.",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.travelerstitles-fabric-1_20.option.biomes.textDisplayTime": {
+    "en": "Text Display Time",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.travelerstitles-fabric-1_20.option.biomes.textDisplayTime.@Tooltip[0]": {
+    "en": "How long the text displays, in ticks.",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.travelerstitles-fabric-1_20.option.biomes.textDisplayTime.@Tooltip[1]": {
+    "en": "20 ticks = 1 second.",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.travelerstitles-fabric-1_20.option.biomes.textFadeOutTime": {
+    "en": "Text Fade-Out Time",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.travelerstitles-fabric-1_20.option.biomes.textFadeOutTime.@Tooltip[0]": {
+    "en": "How long the fade-out text effect lasts, in ticks.",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.travelerstitles-fabric-1_20.option.biomes.textFadeOutTime.@Tooltip[1]": {
+    "en": "20 ticks = 1 second.",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.travelerstitles-fabric-1_20.option.biomes.textCooldownTime": {
+    "en": "Text Cooldown Time",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.travelerstitles-fabric-1_20.option.biomes.textCooldownTime.@Tooltip[0]": {
+    "en": "The minimum amount of time in ticks that must pass after a biome title",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.travelerstitles-fabric-1_20.option.biomes.textCooldownTime.@Tooltip[1]": {
+    "en": "is displayed before another can be displayed.",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.travelerstitles-fabric-1_20.option.biomes.textCooldownTime.@Tooltip[2]": {
+    "en": "Useful for preventing the player from being spammed if they are traveling quickly.",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.travelerstitles-fabric-1_20.option.biomes.textCooldownTime.@Tooltip[3]": {
+    "en": "20 ticks = 1 second.",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.travelerstitles-fabric-1_20.option.biomes.textColor": {
+    "en": "Text Color",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.travelerstitles-fabric-1_20.option.biomes.textColor.@Tooltip": {
+    "en": "The text's default RGB color.",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.travelerstitles-fabric-1_20.option.biomes.textSize": {
+    "en": "Text Size",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.travelerstitles-fabric-1_20.option.biomes.textSize.@Tooltip": {
+    "en": "The text's scale.",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.travelerstitles-fabric-1_20.option.biomes.renderShadow": {
+    "en": "Display Text Shadow",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.travelerstitles-fabric-1_20.option.biomes.renderShadow.@Tooltip": {
+    "en": "If enabled, will render a shadow below the text making it easier to read.",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.travelerstitles-fabric-1_20.option.biomes.textYOffset": {
+    "en": "Text Y Offset",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.travelerstitles-fabric-1_20.option.biomes.textYOffset.@Tooltip[0]": {
+    "en": "The text's vertical position on the screen.",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.travelerstitles-fabric-1_20.option.biomes.textYOffset.@Tooltip[1]": {
+    "en": "If Horizontally Center Title is enabled, this number is relative to the center of the screen.",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.travelerstitles-fabric-1_20.option.biomes.textYOffset.@Tooltip[2]": {
+    "en": "If Horizontally Center Title is disabled, this number is relative to the top of the screen.",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.travelerstitles-fabric-1_20.option.biomes.textXOffset": {
+    "en": "Text X Offset",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.travelerstitles-fabric-1_20.option.biomes.textXOffset.@Tooltip[0]": {
+    "en": "The text's horizontal position on the screen.",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.travelerstitles-fabric-1_20.option.biomes.textXOffset.@Tooltip[1]": {
+    "en": "If Horizontally Center Title is enabled, this number is relative to the center of the screen.",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.travelerstitles-fabric-1_20.option.biomes.textXOffset.@Tooltip[2]": {
+    "en": "If Horizontally Center Title is disabled, this number is relative to the left side of the screen.",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.travelerstitles-fabric-1_20.option.biomes.biomeBlacklist": {
+    "en": "Blacklisted Biomes",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.travelerstitles-fabric-1_20.option.biomes.biomeBlacklist.@Tooltip[0]": {
+    "en": "Biomes that should not have any title displayed when the player enters them.",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.travelerstitles-fabric-1_20.option.biomes.biomeBlacklist.@Tooltip[1]": {
+    "en": "Example: \"[minecraft:plains, minecraft:desert]\".",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.travelerstitles-fabric-1_20.option.biomes.recentBiomeCacheSize": {
+    "en": "Number of Most Recent Biomes Saved",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.travelerstitles-fabric-1_20.option.biomes.recentBiomeCacheSize.@Tooltip[0]": {
+    "en": "Traveler's Titles tracks a list of biomes the player most recently visited in order to",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.travelerstitles-fabric-1_20.option.biomes.recentBiomeCacheSize.@Tooltip[1]": {
+    "en": "prevent the player from being spammed with titles when they move between the same few biomes.",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.travelerstitles-fabric-1_20.option.biomes.recentBiomeCacheSize.@Tooltip[2]": {
+    "en": "This is the size of that list.",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.travelerstitles-fabric-1_20.option.biomes.recentBiomeCacheSize.@Tooltip[3]": {
+    "en": "For example, if this value is 5, then your 5 most recent biomes will be saved.",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.travelerstitles-fabric-1_20.option.biomes.centerText": {
+    "en": "Center Title",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.travelerstitles-fabric-1_20.option.biomes.centerText.@Tooltip[0]": {
+    "en": "Whether or not the biome text should be centered on the screen.",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.travelerstitles-fabric-1_20.option.biomes.centerText.@Tooltip[1]": {
+    "en": "The Text X Offset and Text Y Offset options are relative",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.travelerstitles-fabric-1_20.option.biomes.centerText.@Tooltip[2]": {
+    "en": "to the center of the screen if this is enabled.",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.travelerstitles-fabric-1_20.option.biomes.resetBiomeCacheOnDimensionChange": {
+    "en": "Reset Biome Cache When Changing Dimensions",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.travelerstitles-fabric-1_20.option.biomes.resetBiomeCacheOnDimensionChange.@Tooltip[0]": {
+    "en": "Traveler's Titles tracks a list of biomes the player most recently visited in order to",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.travelerstitles-fabric-1_20.option.biomes.resetBiomeCacheOnDimensionChange.@Tooltip[1]": {
+    "en": "prevent the player from being spammed with titles when they move between the same few biomes.",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.travelerstitles-fabric-1_20.option.biomes.resetBiomeCacheOnDimensionChange.@Tooltip[2]": {
+    "en": "This option determines whether or not that list should be cleared every time",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.travelerstitles-fabric-1_20.option.biomes.resetBiomeCacheOnDimensionChange.@Tooltip[3]": {
+    "en": "the player changes dimensions.",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.travelerstitles-fabric-1_20.option.biomes.onlyUpdateAtSurface": {
+    "en": "Only Show Biome Titles When Exposed To Skylight",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.travelerstitles-fabric-1_20.option.biomes.onlyUpdateAtSurface.@Tooltip[0]": {
+    "en": "If enabled, dimensions without ceilings (like the Overworld) will only",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.travelerstitles-fabric-1_20.option.biomes.onlyUpdateAtSurface.@Tooltip[1]": {
+    "en": "display biome titles when the player is exposed to the skylight.",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.travelerstitles-fabric-1_20.option.biomes.onlyUpdateAtSurface.@Tooltip[2]": {
+    "en": "This prevents biome titles from showing while the player is underground.",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.travelerstitles-fabric-1_20.option.dimensions.enabled": {
+    "en": "Enable Dimension Titles",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.travelerstitles-fabric-1_20.option.dimensions.textFadeInTime": {
+    "en": "Text Fade-In Time",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.travelerstitles-fabric-1_20.option.dimensions.textFadeInTime.@Tooltip[0]": {
+    "en": "How long the fade-in text effect lasts, in ticks.",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.travelerstitles-fabric-1_20.option.dimensions.textFadeInTime.@Tooltip[1]": {
+    "en": "20 ticks = 1 second.",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.travelerstitles-fabric-1_20.option.dimensions.textDisplayTime": {
+    "en": "Text Display Time",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.travelerstitles-fabric-1_20.option.dimensions.textDisplayTime.@Tooltip[0]": {
+    "en": "How long the text displays, in ticks.",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.travelerstitles-fabric-1_20.option.dimensions.textDisplayTime.@Tooltip[1]": {
+    "en": "20 ticks = 1 second.",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.travelerstitles-fabric-1_20.option.dimensions.textFadeOutTime": {
+    "en": "Text Fade-Out Time",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.travelerstitles-fabric-1_20.option.dimensions.textFadeOutTime.@Tooltip[0]": {
+    "en": "How long the fade-out text effect lasts, in ticks.",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.travelerstitles-fabric-1_20.option.dimensions.textFadeOutTime.@Tooltip[1]": {
+    "en": "20 ticks = 1 second.",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.travelerstitles-fabric-1_20.option.dimensions.textColor": {
+    "en": "Text Color",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.travelerstitles-fabric-1_20.option.dimensions.textColor.@Tooltip": {
+    "en": "The text's default RGB color.",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.travelerstitles-fabric-1_20.option.dimensions.textSize": {
+    "en": "Text Size",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.travelerstitles-fabric-1_20.option.dimensions.textSize.@Tooltip": {
+    "en": "The text's scale.",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.travelerstitles-fabric-1_20.option.dimensions.renderShadow": {
+    "en": "Display Text Shadow",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.travelerstitles-fabric-1_20.option.dimensions.renderShadow.@Tooltip": {
+    "en": "If enabled, will render a shadow below the text making it easier to read.",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.travelerstitles-fabric-1_20.option.dimensions.textYOffset": {
+    "en": "Text Y Offset",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.travelerstitles-fabric-1_20.option.dimensions.textYOffset.@Tooltip[0]": {
+    "en": "The text's vertical position on the screen.",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.travelerstitles-fabric-1_20.option.dimensions.textYOffset.@Tooltip[1]": {
+    "en": "If Horizontally Center Title is enabled, this number is relative to the center of the screen.",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.travelerstitles-fabric-1_20.option.dimensions.textYOffset.@Tooltip[2]": {
+    "en": "If Horizontally Center Title is disabled, this number is relative to the top of the screen.",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.travelerstitles-fabric-1_20.option.dimensions.textXOffset": {
+    "en": "Text X Offset",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.travelerstitles-fabric-1_20.option.dimensions.textXOffset.@Tooltip[0]": {
+    "en": "The text's horizontal position on the screen.",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.travelerstitles-fabric-1_20.option.dimensions.textXOffset.@Tooltip[1]": {
+    "en": "If Horizontally Center Title is enabled, this number is relative to the center of the screen.",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.travelerstitles-fabric-1_20.option.dimensions.textXOffset.@Tooltip[2]": {
+    "en": "If Horizontally Center Title is disabled, this number is relative to the left side of the screen.",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.travelerstitles-fabric-1_20.option.dimensions.dimensionBlacklist": {
+    "en": "Blacklisted Dimensions",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.travelerstitles-fabric-1_20.option.dimensions.dimensionBlacklist.@Tooltip[0]": {
+    "en": "Dimensions that should not have any title displayed when the player enters them.",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.travelerstitles-fabric-1_20.option.dimensions.dimensionBlacklist.@Tooltip[1]": {
+    "en": "Example: \"[minecraft:overworld, minecraft:the_nether]\"",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.travelerstitles-fabric-1_20.option.dimensions.centerText": {
+    "en": "Center Title",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.travelerstitles-fabric-1_20.option.dimensions.centerText.@Tooltip[0]": {
+    "en": "Whether or not the dimension text should be centered on the screen.",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.travelerstitles-fabric-1_20.option.dimensions.centerText.@Tooltip[1]": {
+    "en": "The Text X Offset and Text Y Offset options are relative",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.travelerstitles-fabric-1_20.option.dimensions.centerText.@Tooltip[2]": {
+    "en": "to the center of the screen if this is enabled.",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.travelerstitles-fabric-1_20.option.dimensions.onlyUpdateAtSurface": {
+    "en": "Only Show Dimension Titles When Exposed To Skylight",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.travelerstitles-fabric-1_20.option.dimensions.onlyUpdateAtSurface.@Tooltip[0]": {
+    "en": "If enabled, dimensions without ceilings (like the Overworld) will only",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.travelerstitles-fabric-1_20.option.dimensions.onlyUpdateAtSurface.@Tooltip[1]": {
+    "en": "display dimension titles when the player is exposed to the skylight.",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.travelerstitles-fabric-1_20.option.dimensions.onlyUpdateAtSurface.@Tooltip[2]": {
+    "en": "This prevents dimension titles from showing while the player is underground.",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.travelerstitles-fabric-1_20.option.sound.biomeVolume": {
+    "en": "Biome Sound Effect Volume",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.travelerstitles-fabric-1_20.option.sound.biomeVolume.@Tooltip": {
+    "en": "The volume of the sound that plays when a biome title displays.",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.travelerstitles-fabric-1_20.option.sound.biomePitch": {
+    "en": "Biome Sound Effect Pitch",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.travelerstitles-fabric-1_20.option.sound.biomePitch.@Tooltip": {
+    "en": "The pitch of the sound that plays when a biome title displays.",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.travelerstitles-fabric-1_20.option.sound.dimensionVolume": {
+    "en": "Dimension Sound Effect Volume",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.travelerstitles-fabric-1_20.option.sound.dimensionVolume.@Tooltip": {
+    "en": "The volume of the sound that plays when a dimension title displays.",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.travelerstitles-fabric-1_20.option.sound.dimensionPitch": {
+    "en": "Dimension Sound Effect Pitch",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.travelerstitles-fabric-1_20.option.sound.dimensionPitch.@Tooltip": {
+    "en": "The pitch of the sound that plays when a dimension title displays.",
+    "zh": null,
+    "vi": null
+  }
+}

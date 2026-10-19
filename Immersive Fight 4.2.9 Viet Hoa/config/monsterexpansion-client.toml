@@ -1,0 +1,8 @@
+
+#Client-side HUD settings.
+[hud]
+	#Show the quest HUD (banner, targets, party health) on the right side of the screen instead of the left.
+	questHudOnRight = false
+	#Show floating damage number indicators when you hit a monster.
+	showDamageIndicators = false
+

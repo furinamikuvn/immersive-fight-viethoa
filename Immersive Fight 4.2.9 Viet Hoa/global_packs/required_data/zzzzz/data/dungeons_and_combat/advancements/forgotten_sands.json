@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:sandstone"
+    },
+    "title": {
+      "translate": "advancements.forgotten_sands.title"
+    },
+    "description": {
+      "translate": "advancements.forgotten_sands.descr"
+    },
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": true
+  },
+  "criteria": {
+    "forgotten_sands_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "dungeons_and_combat:dungeons_and_combat"
+}

@@ -1,0 +1,15 @@
+{
+    "name": "ati_structures:marble_chateau",
+    "fallback": "minecraft:empty",
+    "elements": [
+        {
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "processors": "minecraft:empty",
+                "location": "ati_structures:marble_chateau"
+            },
+            "weight": 1
+        }
+    ]
+}

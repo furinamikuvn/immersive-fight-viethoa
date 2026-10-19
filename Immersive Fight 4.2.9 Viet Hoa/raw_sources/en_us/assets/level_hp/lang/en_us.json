@@ -1,0 +1,19 @@
+{
+  "gui.level_hp.hpexp.label_empty": "/",
+  "message.dielost": "You died, lost §e",
+  "gui.level_hp.hpexp.label_varintegerhpexp": "\u003cVAR:integer:hpexp\u003e",
+  "config.level_hp.levelhpconfig": "levelhp-common",
+  "message.getexp": "Get §c",
+  "message.imlevelup": " §e§ltimes!!   ",
+  "message.levelup": "§e§lHp level up!  ",
+  "message.mlevelup": "§e§lHp level up §c§l",
+  "message.iidielost": " §fhp level(s).",
+  "gui.level_hp.hpexp.label_lv": "Lv",
+  "item.level_hp.heartcontainers": "Heart containers",
+  "message.adielost": "You died, §eyou lost all hp exp and level.",
+  "message.ilevelup": "§fLevel ",
+  "gui.level_hp.hpexp.label_varintegerhplevel": "\u003cVAR:integer:hplevel\u003e",
+  "gui.level_hp.hpexp.label_varintegerleveluphpexp": "\u003cVAR:integer:leveluphpexp\u003e",
+  "message.idielost": " §fhp exp and §e",
+  "message.igetexp": " §fhp exp!"
+}

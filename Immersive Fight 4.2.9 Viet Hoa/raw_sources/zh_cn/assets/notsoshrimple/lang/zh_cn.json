@@ -1,0 +1,30 @@
+{
+  "itemGroup.notsoshrimple": "不只是虾",
+
+  "entity.notsoshrimple.crayfish": "螯虾",
+  "entity.notsoshrimple.maneater": "食人壳",
+
+  "item.notsoshrimple.crayfish_spawn_egg": "螯虾刷怪蛋",
+  "item.notsoshrimple.maneater_spawn_egg": "食人壳刷怪蛋",
+  "item.notsoshrimple.clawbuster": "碎钳者",
+  "item.notsoshrimple.claw": "老茧之钳",
+  "item.notsoshrimple.raw_prawn": "生对虾",
+  "item.notsoshrimple.cooked_prawn": "熟对虾",
+  "item.notsoshrimple.smithing_stone": "锻造石",
+  "item.notsoshrimple.somber_stone": "暗色锻造石",
+  "item.notsoshrimple.purging_stone": "净化石",
+
+  "notsoshrimple.sound.subtitle.crayfish_idle": "可怖的咔哒声",
+  "notsoshrimple.sound.subtitle.crayfish_attack": "钳子猛击",
+  "notsoshrimple.sound.subtitle.crayfish_hurt": "螯虾受伤",
+  "notsoshrimple.sound.subtitle.crayfish_death": "咔嗒惨叫",
+  "notsoshrimple.sound.subtitle.crayfish_scuttle": "威胁性的爬行声",
+  "notsoshrimple.sound.subtitle.crayfish_scuttling_0": "恐怖的爬行声",
+  "notsoshrimple.sound.subtitle.crayfish_scuttling_1": "压迫性的爬行声",
+  "notsoshrimple.sound.subtitle.crayfish_smashing": "螯虾砸击钳子",
+  "notsoshrimple.sound.subtitle.crayfish_water_blast": "螯虾喷水",
+  "notsoshrimple.sound.subtitle.crayfish_ice_blast": "螯虾喷射冰块",
+  "notsoshrimple.sound.subtitle.clawbuster_charged": "碎钳者充能完毕",
+
+  "durability": "耐久度"
+}

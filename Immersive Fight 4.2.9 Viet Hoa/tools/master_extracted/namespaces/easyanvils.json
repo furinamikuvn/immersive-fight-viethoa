@@ -1,0 +1,12 @@
+{
+  "easyanvils.item.name_tag.description": {
+    "en": "Use %s + %s to set a new name without an anvil.",
+    "zh": "潜行右击以设置新名字，无需铁砧",
+    "vi": "Lén chuột phải để đặt tên mới, không cần đe"
+  },
+  "easyanvils.name_tag.edit": {
+    "en": "Edit %s",
+    "zh": "编辑%s",
+    "vi": "Chỉnh sửa%s"
+  }
+}

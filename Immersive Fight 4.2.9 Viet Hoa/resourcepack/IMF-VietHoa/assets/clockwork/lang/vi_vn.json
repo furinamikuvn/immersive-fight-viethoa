@@ -1,0 +1,16 @@
+{
+  "packet.clockwork.client_message.is_flying": "%1$s đang bay",
+  "packet.clockwork.client_message.is_walking": "%1$s đang đi bộ",
+  "key.clockwork.toggle_dragonfly_flight": "Chuyển sang chế độ bay chuồn chuồn có động cơ",
+  "key.categories.clockwork": "Nghề thủ công đồng hồ",
+  "creativetab.clockwork.title": "Clockwork",
+  "item.clockwork.clockwork_gear": "Clockwork Gear",
+  "item.clockwork.crossbow_barrel": "Crossbow Barrel",
+  "item.clockwork.clockwork_arrow": "Clockwork Arrow",
+  "item.clockwork.barrel_crossbow": "Automatic Crossbow",
+  "item.clockwork.scope_crossbow": "Scoped Crossbow",
+  "item.clockwork.clockwork_potion_sprayer": "Potion Sprayer",
+  "item.clockwork.clockwork_wings": "Clockwork Wings",
+  "entity.clockwork.dragonfly": "Dragonfly",
+  "entity.clockwork.broken_dragonfly": "Broken Dragonfly"
+}

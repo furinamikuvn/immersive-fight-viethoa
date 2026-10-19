@@ -1,0 +1,13 @@
+{
+    "items": [
+        {
+            "item": "minecraft:potion",
+            "nbt": {
+                "Potion": "betterend:end_veil"
+            }
+        }
+    ],
+    "infos": [
+        "§0Ngăn chặn Enderman nảy sinh thù địch với bạn"
+    ]
+}

@@ -1,0 +1,7 @@
+
+["UseKey Configuration"]
+	#Danh sách ID Mod
+	mod_id_list = ["simplyswords"]
+	#Danh sách ID Vật phẩm
+	skill_can_use_item = ["arsenal:soul_knight_great_sword", "arsenal:charge_halberd", "legendary_monsters:chorus_blade", "legendary_monsters:dinosaur_bone_club", "legendary_monsters:fiery_jaw", "legendary_monsters:withered_scythe", "legendary_monsters:the_great_frost", "legendary_monsters:axe_of_lightning", "legendary_monsters:mossy_hammer", "legendary_monsters:monstrous_anchor", "legendary_monsters:soul_great_sword", "legendary_monsters:the_tesseract"]
+

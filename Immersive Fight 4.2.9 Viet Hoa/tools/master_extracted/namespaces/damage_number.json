@@ -1,0 +1,67 @@
+{
+  "damage_number:title.content": {
+    "en": "Damage",
+    "zh": "§l伤害",
+    "vi": "Thiệt hại §l"
+  },
+  "damage_number:combo.content": {
+    "en": "%sX Combo",
+    "zh": "%sX 连击",
+    "vi": "Kết hợp %sX"
+  },
+  "damage_number:damage_list.content": {
+    "en": " +%s",
+    "zh": " +%s",
+    "vi": " +%s"
+  },
+  "damage_number:number.content": {
+    "en": "%s",
+    "zh": "§o§l%s",
+    "vi": "§o§l%s"
+  },
+  "damage_number:config.title": {
+    "en": "Config Screen",
+    "zh": "Config Screen",
+    "vi": "Config Screen"
+  },
+  "key.damage_number.show_config": {
+    "en": "Show Damage Number Config",
+    "zh": "显示伤害数字配置",
+    "vi": "Hiển thị cấu hình số thiệt hại"
+  },
+  "damage_number:config.setting": {
+    "en": "Settings",
+    "zh": "配置",
+    "vi": "Cấu hình"
+  },
+  "damage_number:config.x": {
+    "en": "X",
+    "zh": "X",
+    "vi": "X"
+  },
+  "damage_number:config.y": {
+    "en": "Y",
+    "zh": "Y",
+    "vi": "Y"
+  },
+  "damage_number:config.scale": {
+    "en": "Scale",
+    "zh": "缩放",
+    "vi": "Phóng"
+  },
+  "damage_number:config.opacity": {
+    "en": "Opacity",
+    "zh": "透明度",
+    "vi": "minh bạch"
+  },
+  "damage_number:config.select_key": {
+    "en": "Part to modify",
+    "zh": "要修改的部分",
+    "vi": "Phần cần sửa đổi"
+  },
+  "damage_number:config.max_size": {
+    "en": "Max Size",
+    "zh": "最大数量",
+    "vi": "số lượng tối đa"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "bcb",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:diamond"
+    },
+    "b": {
+      "item": "minecraft:gold_ingot"
+    },
+    "c": {
+      "item": "cataclysm:ancient_metal_ingot"
+    }
+  },
+  "result": {
+    "item": "dungeons_and_combat:blessed_gold_ingot",
+    "count": 1
+  }
+}

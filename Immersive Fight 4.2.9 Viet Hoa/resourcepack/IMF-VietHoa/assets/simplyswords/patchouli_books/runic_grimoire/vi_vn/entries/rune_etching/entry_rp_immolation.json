@@ -1,0 +1,17 @@
+{
+  "name": "Hiến Tế Quang Hoàn (Immolation)",
+  "icon": "simplyswords:runic_tablet",
+  "category": "simplyswords:category_rune_etching",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:runic_tablet",
+      "title": "Hiến Tế Quang Hoàn (Immolation)",
+      "text": "Tạo vòng hào quang hiến tế thiêu đốt kẻ địch xung quanh bằng hỏa diệm dựa trên lượng máu của người dùng."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Cái giá phải trả là ngọn lửa cũng gây tổn hại nhỏ lên chính cơ thể người sử dụng."
+    }
+  ]
+}

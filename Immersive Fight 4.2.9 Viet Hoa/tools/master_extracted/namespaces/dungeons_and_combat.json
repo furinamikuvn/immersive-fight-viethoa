@@ -1,0 +1,5922 @@
+{
+  "item.dungeons_and_combat.morning_star_mace": {
+    "en": "Steel Morningstar",
+    "zh": "Steel Morningstar",
+    "vi": "Steel Morningstar"
+  },
+  "block.dungeons_and_combat.ebony_ore": {
+    "en": "Ebony Ore",
+    "zh": "Ebony Ore",
+    "vi": "Ebony Ore"
+  },
+  "item.dungeons_and_combat.divine_stew": {
+    "en": "Divine Stew",
+    "zh": "Divine Stew",
+    "vi": "Divine Stew"
+  },
+  "gui.dungeons_and_combat.rogue_class_gui.label_health": {
+    "en": "Health",
+    "zh": "Health",
+    "vi": "Health"
+  },
+  "item.dungeons_and_combat.bronze_nugget": {
+    "en": "Bronze Nugget",
+    "zh": "Bronze Nugget",
+    "vi": "Bronze Nugget"
+  },
+  "entity.dungeons_and_combat.palehand_minion": {
+    "en": "Palehand Minion",
+    "zh": "Palehand Minion",
+    "vi": "Palehand Minion"
+  },
+  "item.dungeons_and_combat.dragonsteel_fire_greatsword": {
+    "en": "Fire Dragonsteel Greatsword",
+    "zh": "Fire Dragonsteel Greatsword",
+    "vi": "Fire Dragonsteel Greatsword"
+  },
+  "subtitles.pride_before_the_fall": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "item.dungeons_and_combat.molten_bone_sword": {
+    "en": "Molten Bone Greatsword",
+    "zh": "Molten Bone Greatsword",
+    "vi": "Molten Bone Greatsword"
+  },
+  "item.dungeons_and_combat.gigant_scorpion_spawn_egg": {
+    "en": "Gigant Scorpion Spawn Egg",
+    "zh": "Gigant Scorpion Spawn Egg",
+    "vi": "Gigant Scorpion Spawn Egg"
+  },
+  "item.dungeons_and_combat.molten_blazing_leggings": {
+    "en": "Blazing Leggings",
+    "zh": "炽熔护腿",
+    "vi": "Blazing Leggings"
+  },
+  "block.dungeons_and_combat.igneous_blackstone_brick": {
+    "en": "Igneous Blackstone Brick",
+    "zh": "Igneous Blackstone Brick",
+    "vi": "Igneous Blackstone Brick"
+  },
+  "item.minecraft.potion.effect.long_haste_ii": {
+    "en": "Potion of Haste II",
+    "zh": "Potion of Haste II",
+    "vi": "Potion of Haste II"
+  },
+  "item.dungeons_and_combat.copper_chestplate": {
+    "en": "Copper Chestplate",
+    "zh": "铜骑士胸甲",
+    "vi": "Copper Chestplate"
+  },
+  "item.dungeons_and_combat.golden_sickle": {
+    "en": "Golden Honshu",
+    "zh": "Golden Honshu",
+    "vi": "Golden Honshu"
+  },
+  "entity.dungeons_and_combat.weakness_despawn": {
+    "en": "Weakness",
+    "zh": "Weakness",
+    "vi": "Weakness"
+  },
+  "item.dungeons_and_combat.blessed_beetle": {
+    "en": "Blessed Beetle",
+    "zh": "祝福甲虫",
+    "vi": "Blessed Beetle"
+  },
+  "item.dungeons_and_combat.titanium_ingot": {
+    "en": "Titanium Ingot",
+    "zh": "Titanium Ingot",
+    "vi": "Titanium Ingot"
+  },
+  "block.dungeons_and_combat.chalice_blood_indestructible": {
+    "en": "Chalice With Blood",
+    "zh": "Chalice With Blood",
+    "vi": "Chalice With Blood"
+  },
+  "item.dungeons_and_combat.infernus_spawn_egg": {
+    "en": "Infernus Spawn Egg",
+    "zh": "Infernus Spawn Egg",
+    "vi": "Infernus Spawn Egg"
+  },
+  "entity.dungeons_and_combat.kamath": {
+    "en": "Kamath",
+    "zh": "冥骸之主-卡玛斯",
+    "vi": "Kamath"
+  },
+  "item.dungeons_and_combat.diamond_shield": {
+    "en": "Diamond Shield",
+    "zh": "Diamond Shield",
+    "vi": "Diamond Shield"
+  },
+  "item.dungeons_and_combat.titanium_sword": {
+    "en": "Titanium Long Sword",
+    "zh": "Titanium Long Sword",
+    "vi": "Titanium Long Sword"
+  },
+  "gui.dungeons_and_combat.rogue_class_gui.button_empty": {
+    "en": ">",
+    "zh": ">",
+    "vi": ">"
+  },
+  "item.dungeons_and_combat.ice_dragonsteel_boots": {
+    "en": "Ice Dragonsteel Boots",
+    "zh": "Ice Dragonsteel Boots",
+    "vi": "Ice Dragonsteel Boots"
+  },
+  "gui.dungeons_and_combat.bounty_hunter_class_gui.button_empty1": {
+    "en": "<",
+    "zh": "<",
+    "vi": "<"
+  },
+  "subtitles.ammit_death": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "advancements.the_forgotten_knight.descr": {
+    "en": "The world forgot you and it is your duty to take revenge",
+    "zh": "The world forgot you and it is your duty to take revenge",
+    "vi": "The world forgot you and it is your duty to take revenge"
+  },
+  "item.dungeons_and_combat.dark_metal_leggings": {
+    "en": "§6Dark Metal Leggings",
+    "zh": "§6Dark Metal Leggings",
+    "vi": "§6Dark Metal Leggings"
+  },
+  "item.dungeons_and_combat.steel_helmet": {
+    "en": "Steel Helmet",
+    "zh": "Steel Helmet",
+    "vi": "Steel Helmet"
+  },
+  "advancements.hiddeninthe_cult.descr": {
+    "en": "Obtain Ebony Raw",
+    "zh": "Obtain Ebony Raw",
+    "vi": "Obtain Ebony Raw"
+  },
+  "block.dungeons_and_combat.soul_bottle": {
+    "en": "Soul Bottle",
+    "zh": "Soul Bottle",
+    "vi": "Soul Bottle"
+  },
+  "item.dungeons_and_combat.iron_metal_leggings": {
+    "en": "Iron Leggings",
+    "zh": "Iron Leggings",
+    "vi": "Iron Leggings"
+  },
+  "subtitles.death_mark": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "effect.dungeons_and_combat.fang_necklace_effect": {
+    "en": "Fang Necklace Effect",
+    "zh": "Fang Necklace Effect",
+    "vi": "Fang Necklace Effect"
+  },
+  "item.dungeons_and_combat.iron_shield": {
+    "en": "Iron Shield",
+    "zh": "Iron Shield",
+    "vi": "Iron Shield"
+  },
+  "item.dungeons_and_combat.tohi_smithing_template": {
+    "en": "Smithing Template",
+    "zh": "Smithing Template",
+    "vi": "Smithing Template"
+  },
+  "block.dungeons_and_combat.sacrificial_table": {
+    "en": "Sacrificial Table",
+    "zh": "Sacrificial Table",
+    "vi": "Sacrificial Table"
+  },
+  "gui.dungeons_and_combat.oni_slayer_class_gui.label_medium": {
+    "en": "Medium",
+    "zh": "Medium",
+    "vi": "Medium"
+  },
+  "effect.dungeons_and_combat.acid_fire": {
+    "en": "Acid Fire",
+    "zh": "Acid Fire",
+    "vi": "Acid Fire"
+  },
+  "item.dungeons_and_combat.essence_of_sunleia": {
+    "en": "Essence Of Sunleia",
+    "zh": "苏蕾娅精魄",
+    "vi": "Essence Of Sunleia"
+  },
+  "item.dungeons_and_combat.ernos_spawn_egg": {
+    "en": "Ernos Spawn Egg",
+    "zh": "Ernos Spawn Egg",
+    "vi": "Ernos Spawn Egg"
+  },
+  "item.dungeons_and_combat.forgotten_knight_helmet": {
+    "en": "Forgotten Knight Helmet",
+    "zh": "Forgotten Knight Helmet",
+    "vi": "Forgotten Knight Helmet"
+  },
+  "item.dungeons_and_combat.diamond_metal_boots": {
+    "en": "Diamond Boots",
+    "zh": "钻石骑士靴子",
+    "vi": "Diamond Boots"
+  },
+  "block.dungeons_and_combat.steel_block": {
+    "en": "Steel Block",
+    "zh": "Steel Block",
+    "vi": "Steel Block"
+  },
+  "item.dungeons_and_combat.steel_shield": {
+    "en": "Steel Shield",
+    "zh": "Steel Shield",
+    "vi": "Steel Shield"
+  },
+  "advancements.now_you_can_rest.title": {
+    "en": "New Champion",
+    "zh": "New Champion",
+    "vi": "New Champion"
+  },
+  "gui.dungeons_and_combat.oni_slayer_class_gui.label_passive": {
+    "en": "Passive",
+    "zh": "Passive",
+    "vi": "Passive"
+  },
+  "item.dungeons_and_combat.cryolite_boots": {
+    "en": "Cryolite Boots",
+    "zh": "冰晶靴子",
+    "vi": "Cryolite Boots"
+  },
+  "gui.dungeons_and_combat.rogue_class_gui.button_choose": {
+    "en": "Choose",
+    "zh": "Choose",
+    "vi": "Choose"
+  },
+  "item.dungeons_and_combat.acid_molten_blazing_helmet": {
+    "en": "Acid Blazing Helmet",
+    "zh": "酸蚀炽熔头盔",
+    "vi": "Acid Blazing Helmet"
+  },
+  "item.dungeons_and_combat.royal_steel_sword": {
+    "en": "Royal Steel Sword",
+    "zh": "Royal Steel Sword",
+    "vi": "Royal Steel Sword"
+  },
+  "item.dungeons_and_combat.raw_silver": {
+    "en": "Raw Silver",
+    "zh": "Raw Silver",
+    "vi": "Raw Silver"
+  },
+  "item.dungeons_and_combat.molten_dark_steel_shield": {
+    "en": "Molten Dark Steel Shield",
+    "zh": "Molten Dark Steel Shield",
+    "vi": "Molten Dark Steel Shield"
+  },
+  "item.dungeons_and_combat.copper_dragon_chestplate": {
+    "en": "Copper Dragon Chestplate",
+    "zh": "Copper Dragon Chestplate",
+    "vi": "Copper Dragon Chestplate"
+  },
+  "item.dungeons_and_combat.fire_dragonsteel_helmet": {
+    "en": "Fire Dragonsteel Helmet",
+    "zh": "Fire Dragonsteel Helmet",
+    "vi": "Fire Dragonsteel Helmet"
+  },
+  "item.dungeons_and_combat.fairy_wing": {
+    "en": "Fairy Wing",
+    "zh": "Fairy Wing",
+    "vi": "Fairy Wing"
+  },
+  "item.dungeons_and_combat.skull_mimic_spawn_egg": {
+    "en": "Skull Mimic Spawn Egg",
+    "zh": "Skull Mimic Spawn Egg",
+    "vi": "Skull Mimic Spawn Egg"
+  },
+  "block.dungeons_and_combat.crimson_brick_stairs": {
+    "en": "Crimson Bricks Stairs",
+    "zh": "Crimson Bricks Stairs",
+    "vi": "Crimson Bricks Stairs"
+  },
+  "gui.dungeons_and_combat.rogue_class_gui.label_395": {
+    "en": "4.5",
+    "zh": "4.5",
+    "vi": "4.5"
+  },
+  "subtitles.greatsword_lightning_swing": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "advancements.the_new_god_of_the_sun.descr": {
+    "en": "Equip all Blessed Gold armor in the Day",
+    "zh": "Equip all Blessed Gold armor in the Day",
+    "vi": "Equip all Blessed Gold armor in the Day"
+  },
+  "subtitles.estus_effect": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "item.dungeons_and_combat.royal_steel_leggings": {
+    "en": "Royal Steel Leggings",
+    "zh": "Royal Steel Leggings",
+    "vi": "Royal Steel Leggings"
+  },
+  "gui.dungeons_and_combat.bounty_hunter_class_gui.label_medium": {
+    "en": "Medium",
+    "zh": "Medium",
+    "vi": "Medium"
+  },
+  "advancements.no_soy_dendy.title": {
+    "en": "No Soy Dendy",
+    "zh": "No Soy Dendy",
+    "vi": "No Soy Dendy"
+  },
+  "subtitles.blood_oath_ability": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "item.dungeons_and_combat.molten_dark_steel_pickaxe": {
+    "en": "Molten Dark Steel Pickaxe",
+    "zh": "Molten Dark Steel Pickaxe",
+    "vi": "Molten Dark Steel Pickaxe"
+  },
+  "gui.dungeons_and_combat.bounty_hunter_class_gui.label_armor": {
+    "en": "Armor",
+    "zh": "Armor",
+    "vi": "Armor"
+  },
+  "gui.dungeons_and_combat.rogue_class_gui.label_strength": {
+    "en": "Strength",
+    "zh": "Strength",
+    "vi": "Strength"
+  },
+  "item.dungeons_and_combat.fire_dragonsteel_chestplate": {
+    "en": "Fire Dragonsteel Chestplate",
+    "zh": "Fire Dragonsteel Chestplate",
+    "vi": "Fire Dragonsteel Chestplate"
+  },
+  "gui.dungeons_and_combat.oni_slayer_class_gui.label_speed": {
+    "en": "Speed",
+    "zh": "Speed",
+    "vi": "Speed"
+  },
+  "block.dungeons_and_combat.sunleia_light_off": {
+    "en": "Sunleia Light",
+    "zh": "苏蕾娅之灯",
+    "vi": "Sunleia Light"
+  },
+  "item.dungeons_and_combat.steel_boots": {
+    "en": "Steel Boots",
+    "zh": "Steel Boots",
+    "vi": "Steel Boots"
+  },
+  "item.dungeons_and_combat.exiled_chestplate": {
+    "en": "Exiled Tunic",
+    "zh": "Exiled Tunic",
+    "vi": "Exiled Tunic"
+  },
+  "gui.dungeons_and_combat.bounty_hunter_class_gui.label_395": {
+    "en": "3,95",
+    "zh": "3,95",
+    "vi": "3,95"
+  },
+  "item.dungeons_and_combat.silver_boots": {
+    "en": "Silver Boots",
+    "zh": "银辉骑士靴子",
+    "vi": "Silver Boots"
+  },
+  "block.dungeons_and_combat.raw_silver_block": {
+    "en": "Raw Silver Block",
+    "zh": "Raw Silver Block",
+    "vi": "Raw Silver Block"
+  },
+  "item.dungeons_and_combat.copper_axe_war": {
+    "en": "Copper Axe War",
+    "zh": "Copper Axe War",
+    "vi": "Copper Axe War"
+  },
+  "item.dungeons_and_combat.black_dragon_boots": {
+    "en": "Grey Dragon Boots",
+    "zh": "Grey Dragon Boots",
+    "vi": "Grey Dragon Boots"
+  },
+  "item.dungeons_and_combat.white_dragon_chestplate": {
+    "en": "White Dragon Chestplate",
+    "zh": "White Dragon Chestplate",
+    "vi": "White Dragon Chestplate"
+  },
+  "item.dungeons_and_combat.dragonsteel_lightning_katana": {
+    "en": "Lightning Dragonsteel Katana",
+    "zh": "Lightning Dragonsteel Katana",
+    "vi": "Lightning Dragonsteel Katana"
+  },
+  "item.minecraft.lingering_potion.effect.haste_iii": {
+    "en": "Lingering Potion of Haste III",
+    "zh": "Lingering Potion of Haste III",
+    "vi": "Lingering Potion of Haste III"
+  },
+  "block.dungeons_and_combat.crimson_tiles": {
+    "en": "Crimson Tiles",
+    "zh": "Crimson Tiles",
+    "vi": "Crimson Tiles"
+  },
+  "item.dungeons_and_combat.netherite_boots": {
+    "en": "Netherite Boots",
+    "zh": "下界合金骑士靴子",
+    "vi": "Netherite Boots"
+  },
+  "item.dungeons_and_combat.torture_spawn_egg": {
+    "en": "Torture Spawn Egg",
+    "zh": "Torture Spawn Egg",
+    "vi": "Torture Spawn Egg"
+  },
+  "advancements.the_oni_slayer.title": {
+    "en": "The Oni Slayer",
+    "zh": "The Oni Slayer",
+    "vi": "The Oni Slayer"
+  },
+  "effect.dungeons_and_combat.hunter_fury": {
+    "en": "Hunter Fury",
+    "zh": "Hunter Fury",
+    "vi": "Hunter Fury"
+  },
+  "gui.dungeons_and_combat.titan_class_gui.label_toughness": {
+    "en": "Toughness",
+    "zh": "Toughness",
+    "vi": "Toughness"
+  },
+  "gui.dungeons_and_combat.rogue_class_gui.label_swing": {
+    "en": "Swing",
+    "zh": "Swing",
+    "vi": "Swing"
+  },
+  "item.dungeons_and_combat.pitchfork_lance": {
+    "en": "Pitchfork",
+    "zh": "Pitchfork",
+    "vi": "Pitchfork"
+  },
+  "item.dungeons_and_combat.palehand_minion_spawn_egg": {
+    "en": "Palehand Minion Spawn Egg",
+    "zh": "Palehand Minion Spawn Egg",
+    "vi": "Palehand Minion Spawn Egg"
+  },
+  "gui.dungeons_and_combat.exlied_class_gui.label_speed": {
+    "en": "Speed",
+    "zh": "Speed",
+    "vi": "Speed"
+  },
+  "block.dungeons_and_combat.bone_planks_stairs": {
+    "en": "Bone Planks Stairs",
+    "zh": "Bone Planks Stairs",
+    "vi": "Bone Planks Stairs"
+  },
+  "item.dungeons_and_combat.crimson_smithing_template": {
+    "en": "Smithing Template",
+    "zh": "Smithing Template",
+    "vi": "Smithing Template"
+  },
+  "block.dungeons_and_combat.bone_planks_pressure_plate": {
+    "en": "Bone Planks Pressure Plate",
+    "zh": "Bone Planks Pressure Plate",
+    "vi": "Bone Planks Pressure Plate"
+  },
+  "block.dungeons_and_combat.acid_puddle": {
+    "en": "Acid Puddle",
+    "zh": "Acid Puddle",
+    "vi": "Acid Puddle"
+  },
+  "gui.dungeons_and_combat.linen_bundle_gui.label_linen_bundle": {
+    "en": "Linen Bundle",
+    "zh": "Linen Bundle",
+    "vi": "Linen Bundle"
+  },
+  "item.dungeons_and_combat.blessed_gold_pickaxe": {
+    "en": "§eBlessed Gold Pickaxe",
+    "zh": "§eBlessed Gold Pickaxe",
+    "vi": "§eBlessed Gold Pickaxe"
+  },
+  "advancements.the_cursed_soul.title": {
+    "en": "The Cursed Soul",
+    "zh": "The Cursed Soul",
+    "vi": "The Cursed Soul"
+  },
+  "item.dungeons_and_combat.molten_dark_steel_helmet": {
+    "en": "Molten Dark Steel Helmet",
+    "zh": "熔铸暗钢头盔",
+    "vi": "Molten Dark Steel Helmet"
+  },
+  "block.dungeons_and_combat.bronze_brick_slab": {
+    "en": "Bronze Bricks Slab",
+    "zh": "Bronze Bricks Slab",
+    "vi": "Bronze Bricks Slab"
+  },
+  "item.dungeons_and_combat.silver_dragon_chestplate": {
+    "en": "Silver Dragon Chestplate",
+    "zh": "Silver Dragon Chestplate",
+    "vi": "Silver Dragon Chestplate"
+  },
+  "item.dungeons_and_combat.cursed_steel_dagger": {
+    "en": "Cursed Steel Dagger",
+    "zh": "Cursed Steel Dagger",
+    "vi": "Cursed Steel Dagger"
+  },
+  "item.dungeons_and_combat.totem_of_sacrifice": {
+    "en": "Totem Of Sacrifice",
+    "zh": "Totem Of Sacrifice",
+    "vi": "Totem Of Sacrifice"
+  },
+  "item.dungeons_and_combat.mortar_and_pestle_of_blaze_powder": {
+    "en": "Mortar And Pestle Of Blaze Powder",
+    "zh": "Mortar And Pestle Of Blaze Powder",
+    "vi": "Mortar And Pestle Of Blaze Powder"
+  },
+  "gui.dungeons_and_combat.oni_slayer_class_gui.label_wield": {
+    "en": "Wield",
+    "zh": "Wield",
+    "vi": "Wield"
+  },
+  "gui.dungeons_and_combat.exlied_class_gui.label_heavy": {
+    "en": "Heavy",
+    "zh": "Heavy",
+    "vi": "Heavy"
+  },
+  "entity.minecraft.villager.dungeons_and_combat.forger_of_essences": {
+    "en": "Forger Of Essences",
+    "zh": "Forger Of Essences",
+    "vi": "Forger Of Essences"
+  },
+  "item.dungeons_and_combat.stone_spear": {
+    "en": "Stone Spear",
+    "zh": "Stone Spear",
+    "vi": "Stone Spear"
+  },
+  "gui.dungeons_and_combat.vagabond_class_gui.label_armor": {
+    "en": "Armor",
+    "zh": "Armor",
+    "vi": "Armor"
+  },
+  "gui.dungeons_and_combat.oni_slayer_class_gui.label_14": {
+    "en": "1,2",
+    "zh": "1,2",
+    "vi": "1,2"
+  },
+  "effect.dungeons_and_combat.deadly_aura": {
+    "en": "Deadly Aura",
+    "zh": "Deadly Aura",
+    "vi": "Deadly Aura"
+  },
+  "item.dungeons_and_combat.mortar_and_pestle": {
+    "en": "Mortar And Pestle",
+    "zh": "Mortar And Pestle",
+    "vi": "Mortar And Pestle"
+  },
+  "subtitles.mimic_ambient": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "subtitles.katana_stab": {
+    "en": "A stabbing sound of katana",
+    "zh": "A stabbing sound of katana",
+    "vi": "A stabbing sound of katana"
+  },
+  "item.dungeons_and_combat.cryolite_lance": {
+    "en": "Cryolite Lance",
+    "zh": "Cryolite Lance",
+    "vi": "Cryolite Lance"
+  },
+  "item.minecraft.splash_potion.effect.long_haste_ii": {
+    "en": "Splash Potion of Haste II",
+    "zh": "Splash Potion of Haste II",
+    "vi": "Splash Potion of Haste II"
+  },
+  "subtitles.mimic_hurt": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "advancements.the_bloodymancer.title": {
+    "en": "The Bloodymancer",
+    "zh": "The Bloodymancer",
+    "vi": "The Bloodymancer"
+  },
+  "effect.dungeons_and_combat.scarlet_restoration_ii": {
+    "en": "Scarlet Restoration II",
+    "zh": "Scarlet Restoration II",
+    "vi": "Scarlet Restoration II"
+  },
+  "item.dungeons_and_combat.gold_lance": {
+    "en": "Golden Lance",
+    "zh": "Golden Lance",
+    "vi": "Golden Lance"
+  },
+  "item.dungeons_and_combat.sandstone_pickaxe": {
+    "en": "Sandstone Pickaxe",
+    "zh": "Sandstone Pickaxe",
+    "vi": "Sandstone Pickaxe"
+  },
+  "gui.dungeons_and_combat.vagabond_class_gui.label_heavy": {
+    "en": "Heavy",
+    "zh": "Heavy",
+    "vi": "Heavy"
+  },
+  "item.minecraft.tipped_arrow.effect.frozen_resistance": {
+    "en": "Arrow of Frozen Resistance",
+    "zh": "Arrow of Frozen Resistance",
+    "vi": "Arrow of Frozen Resistance"
+  },
+  "advancements.dungeons_and_combat.title": {
+    "en": "Dungeons And Combat",
+    "zh": "Dungeons And Combat",
+    "vi": "Dungeons And Combat"
+  },
+  "block.dungeons_and_combat.fleshy_cloth_block": {
+    "en": "Fleshy Cloth Block",
+    "zh": "Fleshy Cloth Block",
+    "vi": "Fleshy Cloth Block"
+  },
+  "subtitles.greatsword_ice_slam": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "gui.dungeons_and_combat.oni_slayer_class_gui.label_20": {
+    "en": "18",
+    "zh": "18",
+    "vi": "18"
+  },
+  "block.dungeons_and_combat.bone_planks_fence_gate": {
+    "en": "Bone Planks Fence Gate",
+    "zh": "Bone Planks Fence Gate",
+    "vi": "Bone Planks Fence Gate"
+  },
+  "item.dungeons_and_combat.dragonsteel_ice_greatsword": {
+    "en": "Ice Dragonsteel Greatsword",
+    "zh": "Ice Dragonsteel Greatsword",
+    "vi": "Ice Dragonsteel Greatsword"
+  },
+  "item.dungeons_and_combat.copper_leggings": {
+    "en": "Copper Leggings",
+    "zh": "铜骑士护腿",
+    "vi": "Copper Leggings"
+  },
+  "item.dungeons_and_combat.dragon_greatsword_ice": {
+    "en": "Iced Dragon Bone Greatsword",
+    "zh": "Iced Dragon Bone Greatsword",
+    "vi": "Iced Dragon Bone Greatsword"
+  },
+  "gui.dungeons_and_combat.oni_slayer_class_gui.label_395": {
+    "en": "4,2",
+    "zh": "4,2",
+    "vi": "4,2"
+  },
+  "item.dungeons_and_combat.golden_chestplate": {
+    "en": "Golden Chestplate",
+    "zh": "Golden Chestplate",
+    "vi": "Golden Chestplate"
+  },
+  "item.dungeons_and_combat.sandstone_axe": {
+    "en": "Sandstone Axe",
+    "zh": "Sandstone Axe",
+    "vi": "Sandstone Axe"
+  },
+  "item.dungeons_and_combat.deserter_armor_leggings": {
+    "en": "Deserter Leggings",
+    "zh": "Deserter Leggings",
+    "vi": "Deserter Leggings"
+  },
+  "item.dungeons_and_combat.silver_dragon_boots": {
+    "en": "Silver Dragon Boots",
+    "zh": "Silver Dragon Boots",
+    "vi": "Silver Dragon Boots"
+  },
+  "item.dungeons_and_combat.netherite_claymore": {
+    "en": "Netherite Zweihander",
+    "zh": "Netherite Zweihander",
+    "vi": "Netherite Zweihander"
+  },
+  "item.dungeons_and_combat.deserter_steel_sword": {
+    "en": "Deserter Steel Sword",
+    "zh": "Deserter Steel Sword",
+    "vi": "Deserter Steel Sword"
+  },
+  "item.dungeons_and_combat.mortar_and_pestle_of_toxin": {
+    "en": "Mortar And Pestle Of Toxin",
+    "zh": "Mortar And Pestle Of Toxin",
+    "vi": "Mortar And Pestle Of Toxin"
+  },
+  "block.dungeons_and_combat.silver_ore": {
+    "en": "Silver Ore",
+    "zh": "Silver Ore",
+    "vi": "Silver Ore"
+  },
+  "item.dungeons_and_combat.cryolite_leggings": {
+    "en": "Cryolite Leggings",
+    "zh": "冰晶护腿",
+    "vi": "Cryolite Leggings"
+  },
+  "item.minecraft.splash_potion.effect.intoxicated": {
+    "en": "Splash Potion of Intoxicated",
+    "zh": "Splash Potion of Intoxicated",
+    "vi": "Splash Potion of Intoxicated"
+  },
+  "item.dungeons_and_combat.iron_mace": {
+    "en": "Iron Mace",
+    "zh": "Iron Mace",
+    "vi": "Iron Mace"
+  },
+  "item.dungeons_and_combat.rogue_leggings": {
+    "en": "Rogue Leggings",
+    "zh": "初始护腿β",
+    "vi": "Rogue Leggings"
+  },
+  "subtitles.skull_armored_death": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "effect.dungeons_and_combat.crimson_rage": {
+    "en": "Crimson Rage",
+    "zh": "Crimson Rage",
+    "vi": "Crimson Rage"
+  },
+  "item.dungeons_and_combat.titanium_chestplate": {
+    "en": "Titanium Chestplate",
+    "zh": "Titanium Chestplate",
+    "vi": "Titanium Chestplate"
+  },
+  "item.dungeons_and_combat.bucket_of_cheese": {
+    "en": "Bucket Of Cheese",
+    "zh": "Bucket Of Cheese",
+    "vi": "Bucket Of Cheese"
+  },
+  "item.dungeons_and_combat.vagabond_boots": {
+    "en": "Vagabond Boots",
+    "zh": "Vagabond Boots",
+    "vi": "Vagabond Boots"
+  },
+  "item.dungeons_and_combat.wooden_greathammer": {
+    "en": "Wooden Great Club",
+    "zh": "Wooden Great Club",
+    "vi": "Wooden Great Club"
+  },
+  "advancements.the_vagabond.title": {
+    "en": "The Vagabond",
+    "zh": "The Vagabond",
+    "vi": "The Vagabond"
+  },
+  "item.dungeons_and_combat.ebony_shield": {
+    "en": "Ebony Shield",
+    "zh": "Ebony Shield",
+    "vi": "Ebony Shield"
+  },
+  "item.dungeons_and_combat.reptile_meat": {
+    "en": "Reptile Meat",
+    "zh": "Reptile Meat",
+    "vi": "Reptile Meat"
+  },
+  "item.dungeons_and_combat.crimson_shovel": {
+    "en": "Crimson Shovel",
+    "zh": "Crimson Shovel",
+    "vi": "Crimson Shovel"
+  },
+  "item.dungeons_and_combat.cryolite_sword": {
+    "en": "Cryolite Greatsword",
+    "zh": "Cryolite Greatsword",
+    "vi": "Cryolite Greatsword"
+  },
+  "item.dungeons_and_combat.netherite_shield": {
+    "en": "Netherite Shield",
+    "zh": "Netherite Shield",
+    "vi": "Netherite Shield"
+  },
+  "item.minecraft.lingering_potion.effect.levitation": {
+    "en": "Lingering Potion of Levitation",
+    "zh": "Lingering Potion of Levitation",
+    "vi": "Lingering Potion of Levitation"
+  },
+  "block.dungeons_and_combat.bone_planks": {
+    "en": "Bone Planks",
+    "zh": "Bone Planks",
+    "vi": "Bone Planks"
+  },
+  "block.dungeons_and_combat.chalice": {
+    "en": "Chalice",
+    "zh": "Chalice",
+    "vi": "Chalice"
+  },
+  "subtitles.mimic_death": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "item.dungeons_and_combat.sandstorm_greatsword": {
+    "en": "Sandstorm Greatsword",
+    "zh": "Sandstorm Greatsword",
+    "vi": "Sandstorm Greatsword"
+  },
+  "gui.dungeons_and_combat.mimy_chest_gui.label_linen_bundle": {
+    "en": "Mimy Chest",
+    "zh": "Mimy Chest",
+    "vi": "Mimy Chest"
+  },
+  "gui.dungeons_and_combat.vagabond_class_gui.label_forgotten_knight": {
+    "en": "Vagabond",
+    "zh": "Vagabond",
+    "vi": "Vagabond"
+  },
+  "item.dungeons_and_combat.acid_blazing_shield": {
+    "en": "Acid Blazing Shield",
+    "zh": "Acid Blazing Shield",
+    "vi": "Acid Blazing Shield"
+  },
+  "item.minecraft.potion.effect.haste_iii": {
+    "en": "Potion of Haste III",
+    "zh": "Potion of Haste III",
+    "vi": "Potion of Haste III"
+  },
+  "effect.dungeons_and_combat.steel_shoulder_effect": {
+    "en": "Steel Shoulder Effect",
+    "zh": "Steel Shoulder Effect",
+    "vi": "Steel Shoulder Effect"
+  },
+  "gui.dungeons_and_combat.bounty_hunter_class_gui.label_heavy": {
+    "en": "Heavy",
+    "zh": "Heavy",
+    "vi": "Heavy"
+  },
+  "item.dungeons_and_combat.delta_sword": {
+    "en": "Delta Sword",
+    "zh": "Delta Sword",
+    "vi": "Delta Sword"
+  },
+  "gui.dungeons_and_combat.oni_slayer_class_gui.label_heavy": {
+    "en": "Heavy",
+    "zh": "Heavy",
+    "vi": "Heavy"
+  },
+  "subtitles.palehand_death": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "gui.dungeons_and_combat.forgotten_knight_class_gui.label_wield": {
+    "en": "Wield",
+    "zh": "Wield",
+    "vi": "Wield"
+  },
+  "item.dungeons_and_combat.hood_of_shame_helmet": {
+    "en": "Hood Of Shame",
+    "zh": "Hood Of Shame",
+    "vi": "Hood Of Shame"
+  },
+  "item.dungeons_and_combat.titan_leggings": {
+    "en": "Titan Leggings",
+    "zh": "Titan Leggings",
+    "vi": "Titan Leggings"
+  },
+  "item.dungeons_and_combat.flower_fairy_spawn_egg": {
+    "en": "Flower Fairy Spawn Egg",
+    "zh": "Flower Fairy Spawn Egg",
+    "vi": "Flower Fairy Spawn Egg"
+  },
+  "item.dungeons_and_combat.rotten_hammer": {
+    "en": "Rotten Hammer",
+    "zh": "Rotten Hammer",
+    "vi": "Rotten Hammer"
+  },
+  "item.dungeons_and_combat.silver_chestplate": {
+    "en": "Silver Chestplate",
+    "zh": "银辉骑士胸甲",
+    "vi": "Silver Chestplate"
+  },
+  "block.dungeons_and_combat.linen_rope": {
+    "en": "Linen Rope",
+    "zh": "Linen Rope",
+    "vi": "Linen Rope"
+  },
+  "item.dungeons_and_combat.avarice_mask_helmet": {
+    "en": "Avarice Mask",
+    "zh": "Avarice Mask",
+    "vi": "Avarice Mask"
+  },
+  "item.dungeons_and_combat.hunter_cape": {
+    "en": "Hunter Cape",
+    "zh": "Hunter Cape",
+    "vi": "Hunter Cape"
+  },
+  "item.dungeons_and_combat.molten_knight_chestplate": {
+    "en": "Molten Knight Chestplate",
+    "zh": "Molten Knight Chestplate",
+    "vi": "Molten Knight Chestplate"
+  },
+  "entity.dungeons_and_combat.bloodymancer_cultist": {
+    "en": "Bloodymancer",
+    "zh": "Bloodymancer",
+    "vi": "Bloodymancer"
+  },
+  "item.dungeons_and_combat.molten_blazing_lance": {
+    "en": "§6Molten Blazing Lance",
+    "zh": "§6Molten Blazing Lance",
+    "vi": "§6Molten Blazing Lance"
+  },
+  "item.dungeons_and_combat.molten_blazing_greathammer": {
+    "en": "§6Molten Blazing Hammer",
+    "zh": "§6Molten Blazing Hammer",
+    "vi": "§6Molten Blazing Hammer"
+  },
+  "block.dungeons_and_combat.bone_planks_trap_door": {
+    "en": "Bone Planks Trap Door",
+    "zh": "Bone Planks Trap Door",
+    "vi": "Bone Planks Trap Door"
+  },
+  "item.dungeons_and_combat.failure_spawn_egg": {
+    "en": "Failure Spawn Egg",
+    "zh": "Failure Spawn Egg",
+    "vi": "Failure Spawn Egg"
+  },
+  "item.dungeons_and_combat.fang_necklace": {
+    "en": "Ammit Fang Necklace",
+    "zh": "Ammit Fang Necklace",
+    "vi": "Ammit Fang Necklace"
+  },
+  "item.dungeons_and_combat.oni_slayer_helmet": {
+    "en": "Oni Slayer Helmet",
+    "zh": "Oni Slayer Helmet",
+    "vi": "Oni Slayer Helmet"
+  },
+  "item.dungeons_and_combat.the_aberrator_spawn_egg": {
+    "en": "The Aberrator Spawn Egg",
+    "zh": "The Aberrator Spawn Egg",
+    "vi": "The Aberrator Spawn Egg"
+  },
+  "item.dungeons_and_combat.ammit_fang": {
+    "en": "Ammit Fang",
+    "zh": "Ammit Fang",
+    "vi": "Ammit Fang"
+  },
+  "item.dungeons_and_combat.bronze_leggings": {
+    "en": "Bronze Leggings",
+    "zh": "黄铜蛮族护腿",
+    "vi": "Bronze Leggings"
+  },
+  "entity.dungeons_and_combat.pyro_knight": {
+    "en": "Pyro Knight",
+    "zh": "Pyro Knight",
+    "vi": "Pyro Knight"
+  },
+  "advancements.catacumbs_lugubrious.title": {
+    "en": "Spooky Scary Skeletons",
+    "zh": "Spooky Scary Skeletons",
+    "vi": "Spooky Scary Skeletons"
+  },
+  "item.dungeons_and_combat.dragon_lance_ice": {
+    "en": "Iced Dragon Bone Lance",
+    "zh": "Iced Dragon Bone Lance",
+    "vi": "Iced Dragon Bone Lance"
+  },
+  "item.dungeons_and_combat.blue_dragon_chestplate": {
+    "en": "Blue Dragon Chestplate",
+    "zh": "Blue Dragon Chestplate",
+    "vi": "Blue Dragon Chestplate"
+  },
+  "gui.dungeons_and_combat.vagabond_class_gui.label_wield": {
+    "en": "Wield",
+    "zh": "Wield",
+    "vi": "Wield"
+  },
+  "item.dungeons_and_combat.blessed_gold_sickle": {
+    "en": "§eSandstone Twin Blade",
+    "zh": "§eSandstone Twin Blade",
+    "vi": "§eSandstone Twin Blade"
+  },
+  "advancements.the_bloody_cult.descr": {
+    "en": "Find some structure of those who praise the Blood God",
+    "zh": "Find some structure of those who praise the Blood God",
+    "vi": "Find some structure of those who praise the Blood God"
+  },
+  "gui.dungeons_and_combat.titan_class_gui.label_medium": {
+    "en": "Medium",
+    "zh": "Medium",
+    "vi": "Medium"
+  },
+  "item.dungeons_and_combat.prisoner_skull_spawn_egg": {
+    "en": "Prisoner Skull Spawn Egg",
+    "zh": "Prisoner Skull Spawn Egg",
+    "vi": "Prisoner Skull Spawn Egg"
+  },
+  "item.dungeons_and_combat.mortar_and_pestle_of_acid_fire": {
+    "en": "Mortar And Pestle Of Acid Fire",
+    "zh": "Mortar And Pestle Of Acid Fire",
+    "vi": "Mortar And Pestle Of Acid Fire"
+  },
+  "effect.dungeons_and_combat.hunter_fury_ii": {
+    "en": "Hunter Fury II",
+    "zh": "Hunter Fury II",
+    "vi": "Hunter Fury II"
+  },
+  "effect.dungeons_and_combat.scarlet_restoration_iii": {
+    "en": "Scarlet Restoration III",
+    "zh": "Scarlet Restoration III",
+    "vi": "Scarlet Restoration III"
+  },
+  "block.dungeons_and_combat.silver_deepslate_ore": {
+    "en": "Silver Deepslate Ore",
+    "zh": "Silver Deepslate Ore",
+    "vi": "Silver Deepslate Ore"
+  },
+  "item.dungeons_and_combat.lightning_dragonsteel_leggings": {
+    "en": "Lightning Dragonsteel Leggings",
+    "zh": "Lightning Dragonsteel Leggings",
+    "vi": "Lightning Dragonsteel Leggings"
+  },
+  "gui.dungeons_and_combat.exlied_class_gui.label_01": {
+    "en": "1",
+    "zh": "1",
+    "vi": "1"
+  },
+  "advancements.witch.title": {
+    "en": "Witch!",
+    "zh": "Witch!",
+    "vi": "Witch!"
+  },
+  "item.dungeons_and_combat.dragon_dagger_ice": {
+    "en": "Iced Dragon Bone Dagger",
+    "zh": "Iced Dragon Bone Dagger",
+    "vi": "Iced Dragon Bone Dagger"
+  },
+  "item.dungeons_and_combat.deserter_armor_boots": {
+    "en": "Deserter Boots",
+    "zh": "Deserter Boots",
+    "vi": "Deserter Boots"
+  },
+  "item.dungeons_and_combat.cursed_molten_blazing_greathammer": {
+    "en": "§3Cursed Molten Blazing Hammer",
+    "zh": "§3Cursed Molten Blazing Hammer",
+    "vi": "§3Cursed Molten Blazing Hammer"
+  },
+  "subtitles.sandstone_golem_step": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "gui.dungeons_and_combat.exlied_class_gui.label_14": {
+    "en": "1",
+    "zh": "1",
+    "vi": "1"
+  },
+  "block.dungeons_and_combat.elden_oak_planks_button": {
+    "en": "Elden Oak Planks Button",
+    "zh": "Elden Oak Planks Button",
+    "vi": "Elden Oak Planks Button"
+  },
+  "item.dungeons_and_combat.white_dragon_helmet": {
+    "en": "White Dragon Helmet",
+    "zh": "White Dragon Helmet",
+    "vi": "White Dragon Helmet"
+  },
+  "item.dungeons_and_combat.titanium_helmet": {
+    "en": "Titanium Helmet",
+    "zh": "Titanium Helmet",
+    "vi": "Titanium Helmet"
+  },
+  "gui.dungeons_and_combat.oni_slayer_class_gui.label_death_that_will_deal_damage_when": {
+    "en": "death that will ",
+    "zh": "death that will ",
+    "vi": "death that will "
+  },
+  "item.dungeons_and_combat.ebony_scythe": {
+    "en": "§8Ebony Scythe",
+    "zh": "§8Ebony Scythe",
+    "vi": "§8Ebony Scythe"
+  },
+  "gui.dungeons_and_combat.titan_class_gui.label_forgotten_knight": {
+    "en": "Titan",
+    "zh": "Titan",
+    "vi": "Titan"
+  },
+  "item.minecraft.tipped_arrow.effect.long_frozen_resistance": {
+    "en": "Arrow of Frozen Resistance",
+    "zh": "Arrow of Frozen Resistance",
+    "vi": "Arrow of Frozen Resistance"
+  },
+  "item.dungeons_and_combat.copper_shield": {
+    "en": "Copper Shield",
+    "zh": "Copper Shield",
+    "vi": "Copper Shield"
+  },
+  "block.dungeons_and_combat.elden_oak_planks_slab": {
+    "en": "Elden Oak Planks Slab",
+    "zh": "Elden Oak Planks Slab",
+    "vi": "Elden Oak Planks Slab"
+  },
+  "item.dungeons_and_combat.steel_shoulder": {
+    "en": "Steel Shoulder",
+    "zh": "钢铁护肩",
+    "vi": "Steel Shoulder"
+  },
+  "item.dungeons_and_combat.rogue_helmet": {
+    "en": "Rogue Hood",
+    "zh": "初始头盔β",
+    "vi": "Rogue Hood"
+  },
+  "subtitles.greatsword_fire_slam": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "item.dungeons_and_combat.diamond_metal_leggings": {
+    "en": "Diamond Leggings",
+    "zh": "钻石骑士护腿",
+    "vi": "Diamond Leggings"
+  },
+  "item.dungeons_and_combat.crimson_flask": {
+    "en": "Crimson Flask",
+    "zh": "Crimson Flask",
+    "vi": "Crimson Flask"
+  },
+  "item.dungeons_and_combat.titanium_pickaxe": {
+    "en": "Titanium Pickaxe",
+    "zh": "Titanium Pickaxe",
+    "vi": "Titanium Pickaxe"
+  },
+  "subtitles.crimson_flask": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "item.dungeons_and_combat.silver_nugget": {
+    "en": "Silver Nugget",
+    "zh": "Silver Nugget",
+    "vi": "Silver Nugget"
+  },
+  "gui.dungeons_and_combat.forgotten_knight_class_gui.label_speed": {
+    "en": "Speed",
+    "zh": "Speed",
+    "vi": "Speed"
+  },
+  "item.dungeons_and_combat.bounty_hunter_leggings": {
+    "en": "Bounty Hunter Leggings",
+    "zh": "Bounty Hunter Leggings",
+    "vi": "Bounty Hunter Leggings"
+  },
+  "item.dungeons_and_combat.dragonsteel_lightning_long_sword": {
+    "en": "Lightning Dragonsteel Long Sword",
+    "zh": "Lightning Dragonsteel Long Sword",
+    "vi": "Lightning Dragonsteel Long Sword"
+  },
+  "entity.dungeons_and_combat.sandstone_golem": {
+    "en": "Sandstone Golem",
+    "zh": "Sandstone Golem",
+    "vi": "Sandstone Golem"
+  },
+  "entity.dungeons_and_combat.flower_fairy": {
+    "en": "Flower Fairy",
+    "zh": "Flower Fairy",
+    "vi": "Flower Fairy"
+  },
+  "item.dungeons_and_combat.sandstone_hoe": {
+    "en": "Sandstone Hoe",
+    "zh": "Sandstone Hoe",
+    "vi": "Sandstone Hoe"
+  },
+  "gui.dungeons_and_combat.exlied_class_gui.label_20": {
+    "en": "18",
+    "zh": "18",
+    "vi": "18"
+  },
+  "subtitles.flower_fairy_hurt": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "item.dungeons_and_combat.broken_shield": {
+    "en": "Broken Shield",
+    "zh": "Broken Shield",
+    "vi": "Broken Shield"
+  },
+  "gui.dungeons_and_combat.forgotten_knight_class_gui.label_armor": {
+    "en": "Armor",
+    "zh": "Armor",
+    "vi": "Armor"
+  },
+  "item.dungeons_and_combat.bloodymancer_chestplate": {
+    "en": "Bloodymancer Tunic",
+    "zh": "Bloodymancer Tunic",
+    "vi": "Bloodymancer Tunic"
+  },
+  "advancements.born_of_blood.descr": {
+    "en": "Spawn a villager with Blood in a Chalice",
+    "zh": "Spawn a villager with Blood in a Chalice",
+    "vi": "Spawn a villager with Blood in a Chalice"
+  },
+  "item.minecraft.splash_potion.effect.gigant": {
+    "en": "Splash Potion of Gigant",
+    "zh": "Splash Potion of Gigant",
+    "vi": "Splash Potion of Gigant"
+  },
+  "item.dungeons_and_combat.molten_dark_steel_shovel": {
+    "en": "Molten Dark Steel Shovel",
+    "zh": "Molten Dark Steel Shovel",
+    "vi": "Molten Dark Steel Shovel"
+  },
+  "entity.dungeons_and_combat.failure": {
+    "en": "Failure",
+    "zh": "Failure",
+    "vi": "Failure"
+  },
+  "entity.dungeons_and_combat.gigant_scorpion": {
+    "en": "Gigant Scorpion",
+    "zh": "Gigant Scorpion",
+    "vi": "Gigant Scorpion"
+  },
+  "advancements.old_friends.descr": {
+    "en": "Energize Sunleia's light with a Blessed Beetle",
+    "zh": "Energize Sunleia's light with a Blessed Beetle",
+    "vi": "Energize Sunleia's light with a Blessed Beetle"
+  },
+  "gui.dungeons_and_combat.forgotten_knight_class_gui.label_heavy": {
+    "en": "Heavy",
+    "zh": "Heavy",
+    "vi": "Heavy"
+  },
+  "item.dungeons_and_combat.hell_ring": {
+    "en": "Hell Ring",
+    "zh": "Hell Ring",
+    "vi": "Hell Ring"
+  },
+  "item.dungeons_and_combat.copper_hammer": {
+    "en": "Copper Greathammer",
+    "zh": "Copper Greathammer",
+    "vi": "Copper Greathammer"
+  },
+  "item.dungeons_and_combat.red_dragon_boots": {
+    "en": "Red Dragon Boots",
+    "zh": "Red Dragon Boots",
+    "vi": "Red Dragon Boots"
+  },
+  "gui.dungeons_and_combat.titan_class_gui.label_swing": {
+    "en": "Swing",
+    "zh": "Swing",
+    "vi": "Swing"
+  },
+  "block.dungeons_and_combat.bronze_tiles": {
+    "en": "Bronze Tiles",
+    "zh": "Bronze Tiles",
+    "vi": "Bronze Tiles"
+  },
+  "item.dungeons_and_combat.molten_blazing_boots": {
+    "en": "Blazing Boots",
+    "zh": "炽熔靴子",
+    "vi": "Blazing Boots"
+  },
+  "item.dungeons_and_combat.acid_molten_blazing_boots": {
+    "en": "Acid Blazing Boots",
+    "zh": "酸蚀炽熔靴子",
+    "vi": "Acid Blazing Boots"
+  },
+  "item.dungeons_and_combat.roasted_scorpion_tail": {
+    "en": "Roasted Scorpion Tail",
+    "zh": "Roasted Scorpion Tail",
+    "vi": "Roasted Scorpion Tail"
+  },
+  "item.dungeons_and_combat.amethyst_dragon_leggings": {
+    "en": "Amethyst Dragon Leggings",
+    "zh": "Amethyst Dragon Leggings",
+    "vi": "Amethyst Dragon Leggings"
+  },
+  "item.dungeons_and_combat.sandstone_twin_blade": {
+    "en": "Sandstone Twin Blade",
+    "zh": "Sandstone Twin Blade",
+    "vi": "Sandstone Twin Blade"
+  },
+  "advancements.dark_purposes.title": {
+    "en": "Dark Purposes",
+    "zh": "Dark Purposes",
+    "vi": "Dark Purposes"
+  },
+  "item.dungeons_and_combat.sunleia_spawn_egg": {
+    "en": "Sunleia Spawn Egg",
+    "zh": "永昼之翼-苏蕾娅刷怪蛋",
+    "vi": "Sunleia Spawn Egg"
+  },
+  "entity.dungeons_and_combat.mummy": {
+    "en": "Centinel",
+    "zh": "Mummy",
+    "vi": "Centinel"
+  },
+  "item.dungeons_and_combat.silver_lance": {
+    "en": "Silver Spear",
+    "zh": "Silver Spear",
+    "vi": "Silver Spear"
+  },
+  "gui.dungeons_and_combat.forgotten_knight_class_gui.label_strength": {
+    "en": "Strength",
+    "zh": "Strength",
+    "vi": "Strength"
+  },
+  "item.dungeons_and_combat.acid_molten_blazing_greathammer": {
+    "en": "§2Acid Molten Blazing Hammer",
+    "zh": "§2Acid Molten Blazing Hammer",
+    "vi": "§2Acid Molten Blazing Hammer"
+  },
+  "gui.dungeons_and_combat.exlied_class_gui.label_swing": {
+    "en": "Swing",
+    "zh": "Swing",
+    "vi": "Swing"
+  },
+  "item.dungeons_and_combat.wolf_steel_boots": {
+    "en": "Wolf Steel Boots",
+    "zh": "狼骑士靴子",
+    "vi": "Wolf Steel Boots"
+  },
+  "block.dungeons_and_combat.bronze_block": {
+    "en": "Bronze Block",
+    "zh": "Bronze Block",
+    "vi": "Bronze Block"
+  },
+  "item.minecraft.lingering_potion.effect.long_frozen_resistance": {
+    "en": "Lingering Potion of Frozen Resistance",
+    "zh": "Lingering Potion of Frozen Resistance",
+    "vi": "Lingering Potion of Frozen Resistance"
+  },
+  "gui.dungeons_and_combat.bounty_hunter_class_gui.label_passive": {
+    "en": "Passive",
+    "zh": "Passive",
+    "vi": "Passive"
+  },
+  "item.dungeons_and_combat.royal_steel_chestplate": {
+    "en": "Royal Steel Chestplate",
+    "zh": "Royal Steel Chestplate",
+    "vi": "Royal Steel Chestplate"
+  },
+  "block.dungeons_and_combat.lisianthus": {
+    "en": "Lisianthus",
+    "zh": "Lisianthus",
+    "vi": "Lisianthus"
+  },
+  "gui.dungeons_and_combat.oni_slayer_class_gui.label_0": {
+    "en": "0",
+    "zh": "0",
+    "vi": "0"
+  },
+  "gui.dungeons_and_combat.oni_slayer_class_gui.label_1": {
+    "en": "0,95",
+    "zh": "0,95",
+    "vi": "0,95"
+  },
+  "item.dungeons_and_combat.kamath_armor_helmet": {
+    "en": "Kamath Helmet",
+    "zh": "卡玛斯头盔",
+    "vi": "Kamath Helmet"
+  },
+  "gui.dungeons_and_combat.titan_class_gui.label_14": {
+    "en": "1",
+    "zh": "1",
+    "vi": "1"
+  },
+  "item.dungeons_and_combat.molten_knight_helmet": {
+    "en": "Molten Knight Helmet",
+    "zh": "Molten Knight Helmet",
+    "vi": "Molten Knight Helmet"
+  },
+  "item.dungeons_and_combat.bronze_war_hammer": {
+    "en": "Bronze War Hammer",
+    "zh": "Bronze War Hammer",
+    "vi": "Bronze War Hammer"
+  },
+  "subtitles.katana_slash": {
+    "en": "A slashing sound of katana",
+    "zh": "A slashing sound of katana",
+    "vi": "A slashing sound of katana"
+  },
+  "item.dungeons_and_combat.silver_orange": {
+    "en": "Silver Orange",
+    "zh": "Silver Orange",
+    "vi": "Silver Orange"
+  },
+  "item.dungeons_and_combat.ebony_long_sword": {
+    "en": "§8Ebony Long Sword",
+    "zh": "§8Ebony Long Sword",
+    "vi": "§8Ebony Long Sword"
+  },
+  "item.dungeons_and_combat.iron_greataxe": {
+    "en": "Iron Greataxe",
+    "zh": "Iron Greataxe",
+    "vi": "Iron Greataxe"
+  },
+  "item.dungeons_and_combat.dragon_greatsword_bone": {
+    "en": "Dragon Bone Greatsword",
+    "zh": "Dragon Bone Greatsword",
+    "vi": "Dragon Bone Greatsword"
+  },
+  "item.dungeons_and_combat.raw_crimson": {
+    "en": "Raw Crimson",
+    "zh": "Raw Crimson",
+    "vi": "Raw Crimson"
+  },
+  "item.dungeons_and_combat.raw_titanium": {
+    "en": "Raw Titanium",
+    "zh": "Raw Titanium",
+    "vi": "Raw Titanium"
+  },
+  "block.dungeons_and_combat.chalice_divine_indestructible": {
+    "en": null,
+    "zh": "Chalice With Divine Blood",
+    "vi": "Chalice With Divine Blood"
+  },
+  "effect.dungeons_and_combat.ammit_edge": {
+    "en": "Ammit Edge",
+    "zh": "Ammit Edge",
+    "vi": "Ammit Edge"
+  },
+  "effect.dungeons_and_combat.broken_armor_iii": {
+    "en": "Broken Armor III",
+    "zh": "Broken Armor III",
+    "vi": "Broken Armor III"
+  },
+  "item.dungeons_and_combat.ernos_fang_necklace": {
+    "en": "Ernos Fang Necklace",
+    "zh": "Ernos Fang Necklace",
+    "vi": "Ernos Fang Necklace"
+  },
+  "item.dungeons_and_combat.dragonsteel_fire_long_sword": {
+    "en": "Fire Dragonsteel Long Sword",
+    "zh": "Fire Dragonsteel Long Sword",
+    "vi": "Fire Dragonsteel Long Sword"
+  },
+  "item.dungeons_and_combat.molten_dark_steel_sword": {
+    "en": "Molten Dark Steel Sword",
+    "zh": "Molten Dark Steel Sword",
+    "vi": "Molten Dark Steel Sword"
+  },
+  "effect.dungeons_and_combat.broken_armor": {
+    "en": "Broken Armor I",
+    "zh": "Broken Armor I",
+    "vi": "Broken Armor I"
+  },
+  "gui.dungeons_and_combat.titan_class_gui.label_01": {
+    "en": "0",
+    "zh": "0",
+    "vi": "0"
+  },
+  "item.dungeons_and_combat.diamond_metal_chestplate": {
+    "en": "Diamond Chestplate",
+    "zh": "钻石骑士胸甲",
+    "vi": "Diamond Chestplate"
+  },
+  "item.minecraft.lingering_potion.effect.gigant": {
+    "en": "Lingering Potion of Gigant",
+    "zh": "Lingering Potion of Gigant",
+    "vi": "Lingering Potion of Gigant"
+  },
+  "item.dungeons_and_combat.blessed_gold_fist": {
+    "en": "§eBlessed Gold Fist",
+    "zh": "§eBlessed Gold Fist",
+    "vi": "§eBlessed Gold Fist"
+  },
+  "item.minecraft.splash_potion.effect.frozen_resistance": {
+    "en": "Splash Potion of Frozen Resistance",
+    "zh": "Splash Potion of Frozen Resistance",
+    "vi": "Splash Potion of Frozen Resistance"
+  },
+  "subtitles.apollo": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "gui.dungeons_and_combat.rogue_class_gui.label_light": {
+    "en": "Light",
+    "zh": "Light",
+    "vi": "Light"
+  },
+  "item.dungeons_and_combat.dragonium_chestplate": {
+    "en": "Dragonium Chestplate",
+    "zh": "Dragonium Chestplate",
+    "vi": "Dragonium Chestplate"
+  },
+  "effect.dungeons_and_combat.fatal_oath_ii": {
+    "en": "Fatal Oath II",
+    "zh": "Fatal Oath II",
+    "vi": "Fatal Oath II"
+  },
+  "item.dungeons_and_combat.cursed_molten_blazing_helmet": {
+    "en": "Cursed Blazing Helmet",
+    "zh": "诅咒炽熔头盔",
+    "vi": "Cursed Blazing Helmet"
+  },
+  "gui.dungeons_and_combat.rogue_class_gui.label_looting": {
+    "en": "Looting",
+    "zh": "Looting",
+    "vi": "Looting"
+  },
+  "block.dungeons_and_combat.crimson_brick_slab": {
+    "en": "Crimson Bricks Slab",
+    "zh": "Crimson Bricks Slab",
+    "vi": "Crimson Bricks Slab"
+  },
+  "subtitles.greatsword_lightning_stab": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "item.dungeons_and_combat.mortar_and_pestle_of_poison": {
+    "en": "Mortar And Pestle Of Poison",
+    "zh": "Mortar And Pestle Of Poison",
+    "vi": "Mortar And Pestle Of Poison"
+  },
+  "entity.dungeons_and_combat.sunleia": {
+    "en": "Sunleia",
+    "zh": "永昼之翼-苏蕾娅",
+    "vi": "Sunleia"
+  },
+  "item.dungeons_and_combat.ritual_bone": {
+    "en": "Ritual Bone",
+    "zh": "Ritual Bone",
+    "vi": "Ritual Bone"
+  },
+  "effect.dungeons_and_combat.broken_armor_ii": {
+    "en": "Broken Armor II",
+    "zh": "Broken Armor II",
+    "vi": "Broken Armor II"
+  },
+  "item.dungeons_and_combat.linen_cloth": {
+    "en": "Linen Cloth",
+    "zh": "Linen Cloth",
+    "vi": "Linen Cloth"
+  },
+  "block.dungeons_and_combat.igneous_ore": {
+    "en": "Igneous Ore",
+    "zh": "Igneous Ore",
+    "vi": "Igneous Ore"
+  },
+  "item.dungeons_and_combat.crimson_axe": {
+    "en": "Crimson Axe",
+    "zh": "Crimson Axe",
+    "vi": "Crimson Axe"
+  },
+  "item.dungeons_and_combat.mortar_and_pestle_of_ammit_powder": {
+    "en": "Mortar And Pestle Of Ammit Powder",
+    "zh": "Mortar And Pestle Of Ammit Powder",
+    "vi": "Mortar And Pestle Of Ammit Powder"
+  },
+  "gui.dungeons_and_combat.exlied_class_gui.label_passive": {
+    "en": "Passive",
+    "zh": "Passive",
+    "vi": "Passive"
+  },
+  "item.dungeons_and_combat.molten_ring": {
+    "en": "Molten Ring",
+    "zh": "Molten Ring",
+    "vi": "Molten Ring"
+  },
+  "item.dungeons_and_combat.rusty_bronze_plates": {
+    "en": "Rusty Bronze Plates",
+    "zh": "Rusty Bronze Plates",
+    "vi": "Rusty Bronze Plates"
+  },
+  "item.dungeons_and_combat.pyromancer_scepter": {
+    "en": "§6Pyroclastic Staff",
+    "zh": "§6Pyroclastic Staff",
+    "vi": "§6Pyroclastic Staff"
+  },
+  "attribute.dungeons_and_combat.action_state": {
+    "en": "Action State",
+    "zh": "Action State",
+    "vi": "Action State"
+  },
+  "gui.dungeons_and_combat.bounty_hunter_class_gui.label_01": {
+    "en": "1",
+    "zh": "1",
+    "vi": "1"
+  },
+  "item.dungeons_and_combat.ring_of_life": {
+    "en": "Ring Of Life",
+    "zh": "Ring Of Life",
+    "vi": "Ring Of Life"
+  },
+  "item.dungeons_and_combat.blacksmith_boots": {
+    "en": "Blacksmith Boots",
+    "zh": "初始靴子δ",
+    "vi": "Blacksmith Boots"
+  },
+  "gui.dungeons_and_combat.titan_class_gui.button_choose": {
+    "en": "Choose",
+    "zh": "Choose",
+    "vi": "Choose"
+  },
+  "block.dungeons_and_combat.bronze_tiles_wall": {
+    "en": "Bronze Tiles Wall",
+    "zh": "Bronze Tiles Wall",
+    "vi": "Bronze Tiles Wall"
+  },
+  "item.dungeons_and_combat.sandstone_chestplate": {
+    "en": "Sandstone Chestplate",
+    "zh": "Sandstone Chestplate",
+    "vi": "Sandstone Chestplate"
+  },
+  "block.dungeons_and_combat.chalice_with_impure_blood": {
+    "en": "Chalice With Impure Blood",
+    "zh": "Chalice With Impure Blood",
+    "vi": "Chalice With Impure Blood"
+  },
+  "item.dungeons_and_combat.crimson_helmet": {
+    "en": "§cCrimson Helmet",
+    "zh": "§c猩红头盔",
+    "vi": "§cCrimson Helmet"
+  },
+  "item.dungeons_and_combat.steel_hoe": {
+    "en": "Steel Hoe",
+    "zh": "Steel Hoe",
+    "vi": "Steel Hoe"
+  },
+  "item.dungeons_and_combat.molten_blazing_chestplate": {
+    "en": "Blazing Chestplate",
+    "zh": "炽熔胸甲",
+    "vi": "Blazing Chestplate"
+  },
+  "entity.dungeons_and_combat.hermit_witch": {
+    "en": "Hermit Witch",
+    "zh": "Hermit Witch",
+    "vi": "Hermit Witch"
+  },
+  "gui.dungeons_and_combat.oni_slayer_class_gui.label_armor": {
+    "en": "Armor",
+    "zh": "Armor",
+    "vi": "Armor"
+  },
+  "advancements.the_forgotten_knight.title": {
+    "en": "The Forgotten Knight",
+    "zh": "The Forgotten Knight",
+    "vi": "The Forgotten Knight"
+  },
+  "subtitles.dagger_ice_swing": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "item.dungeons_and_combat.sunleia_armor_helmet": {
+    "en": "§eSunleia Helmet",
+    "zh": "§e苏蕾娅头盔",
+    "vi": "§eSunleia Helmet"
+  },
+  "item.dungeons_and_combat.wooden_shield": {
+    "en": "Wooden Shield",
+    "zh": "Wooden Shield",
+    "vi": "Wooden Shield"
+  },
+  "block.dungeons_and_combat.titanium_deepslate_ore": {
+    "en": "Titanium Deepslate Ore",
+    "zh": "Titanium Deepslate Ore",
+    "vi": "Titanium Deepslate Ore"
+  },
+  "gui.dungeons_and_combat.bounty_hunter_class_gui.label_14": {
+    "en": "1,6",
+    "zh": "1,6",
+    "vi": "1,6"
+  },
+  "entity.dungeons_and_combat.chained": {
+    "en": "Code",
+    "zh": "Code",
+    "vi": "Code"
+  },
+  "entity.dungeons_and_combat.skull": {
+    "en": "Skull",
+    "zh": "Skull",
+    "vi": "Skull"
+  },
+  "subtitles.sunleia_spawn": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "item.dungeons_and_combat.ebony_shovel": {
+    "en": "§8Ebony Shovel",
+    "zh": "§8Ebony Shovel",
+    "vi": "§8Ebony Shovel"
+  },
+  "item.dungeons_and_combat.molten_dark_steel_leggings": {
+    "en": "Molten Dark Steel Leggings",
+    "zh": "熔铸暗钢护腿",
+    "vi": "Molten Dark Steel Leggings"
+  },
+  "item.dungeons_and_combat.horuso_feather": {
+    "en": "Horuso Feather",
+    "zh": "Horuso Feather",
+    "vi": "Horuso Feather"
+  },
+  "item.dungeons_and_combat.cultstick": {
+    "en": null,
+    "zh": "Cultstick",
+    "vi": "Cultstick"
+  },
+  "item.dungeons_and_combat.cheese": {
+    "en": "Cheese",
+    "zh": "Cheese",
+    "vi": "Cheese"
+  },
+  "block.dungeons_and_combat.elden_oak_planks_fence": {
+    "en": "Elden Oak Planks Fence",
+    "zh": "Elden Oak Planks Fence",
+    "vi": "Elden Oak Planks Fence"
+  },
+  "item.dungeons_and_combat.steel_leggings": {
+    "en": "Steel Leggings",
+    "zh": "Steel Leggings",
+    "vi": "Steel Leggings"
+  },
+  "item.dungeons_and_combat.cursed_silk": {
+    "en": "Cursed Silk",
+    "zh": "Cursed Silk",
+    "vi": "Cursed Silk"
+  },
+  "gui.dungeons_and_combat.bounty_hunter_class_gui.label_20": {
+    "en": "18",
+    "zh": "18",
+    "vi": "18"
+  },
+  "advancements.hiddeninthe_cult.title": {
+    "en": "Hidden in the Dark",
+    "zh": "Hidden in the Dark",
+    "vi": "Hidden in the Dark"
+  },
+  "gui.dungeons_and_combat.exlied_class_gui.button_empty": {
+    "en": ">",
+    "zh": ">",
+    "vi": ">"
+  },
+  "entity.dungeons_and_combat.royal_skull": {
+    "en": "Royal Skull",
+    "zh": "Royal Skull",
+    "vi": "Royal Skull"
+  },
+  "gui.dungeons_and_combat.titan_class_gui.label_passive": {
+    "en": "Passive",
+    "zh": "Passive",
+    "vi": "Passive"
+  },
+  "item.dungeons_and_combat.white_dragon_boots": {
+    "en": "White Dragon Boots",
+    "zh": "White Dragon Boots",
+    "vi": "White Dragon Boots"
+  },
+  "entity.dungeons_and_combat.counselor_skull": {
+    "en": "Counselor Skull",
+    "zh": "Counselor Skull",
+    "vi": "Counselor Skull"
+  },
+  "item.dungeons_and_combat.stone_mace": {
+    "en": "Stone Mace",
+    "zh": "Stone Mace",
+    "vi": "Stone Mace"
+  },
+  "item.minecraft.lingering_potion.effect.intoxicated": {
+    "en": "Lingering Potion of Intoxicated",
+    "zh": "Lingering Potion of Intoxicated",
+    "vi": "Lingering Potion of Intoxicated"
+  },
+  "gui.dungeons_and_combat.forgotten_knight_class_gui.label_2": {
+    "en": "2",
+    "zh": "2",
+    "vi": "2"
+  },
+  "gui.dungeons_and_combat.bounty_hunter_class_gui.label_0": {
+    "en": "0",
+    "zh": "0",
+    "vi": "0"
+  },
+  "gui.dungeons_and_combat.forgotten_knight_class_gui.label_1": {
+    "en": "1",
+    "zh": "1",
+    "vi": "1"
+  },
+  "gui.dungeons_and_combat.forgotten_knight_class_gui.label_0": {
+    "en": "0",
+    "zh": "0",
+    "vi": "0"
+  },
+  "gui.dungeons_and_combat.bounty_hunter_class_gui.label_2": {
+    "en": "0",
+    "zh": "0",
+    "vi": "0"
+  },
+  "gui.dungeons_and_combat.bounty_hunter_class_gui.label_1": {
+    "en": "1",
+    "zh": "1",
+    "vi": "1"
+  },
+  "item.dungeons_and_combat.rusty_claymore": {
+    "en": null,
+    "zh": "Rusty Claymore",
+    "vi": "Rusty Claymore"
+  },
+  "item.dungeons_and_combat.titanium_nugget": {
+    "en": "Titanium Nugget",
+    "zh": "Titanium Nugget",
+    "vi": "Titanium Nugget"
+  },
+  "advancements.the_bounty_hunter.descr": {
+    "en": "Good, bad, depends on who pays more",
+    "zh": "Good, bad, depends on who pays more",
+    "vi": "Good, bad, depends on who pays more"
+  },
+  "item.dungeons_and_combat.steel_shovel": {
+    "en": "Steel Shovel",
+    "zh": "Steel Shovel",
+    "vi": "Steel Shovel"
+  },
+  "block.dungeons_and_combat.blazing_block": {
+    "en": "Blazing Block",
+    "zh": "Blazing Block",
+    "vi": "Blazing Block"
+  },
+  "effect.dungeons_and_combat.man_of_steel": {
+    "en": "Man Of Steel",
+    "zh": "Man Of Steel",
+    "vi": "Man Of Steel"
+  },
+  "item.dungeons_and_combat.wooden_battle_staff": {
+    "en": "Wooden Battle Staff",
+    "zh": "Wooden Battle Staff",
+    "vi": "Wooden Battle Staff"
+  },
+  "item.dungeons_and_combat.crimson_sickle": {
+    "en": "§cCrimson Blades",
+    "zh": "§c猩红短刀",
+    "vi": "§cCrimson Blades"
+  },
+  "item.dungeons_and_combat.blessed_gold_chestplate": {
+    "en": "§eBlessed Gold Chestplate",
+    "zh": "§e圣金胸甲",
+    "vi": "§eBlessed Gold Chestplate"
+  },
+  "item.dungeons_and_combat.cryolite_helmet": {
+    "en": "Cryolite Helmet",
+    "zh": "冰晶头盔",
+    "vi": "Cryolite Helmet"
+  },
+  "gui.dungeons_and_combat.oni_slayer_class_gui.button_empty1": {
+    "en": "<",
+    "zh": "<",
+    "vi": "<"
+  },
+  "item.dungeons_and_combat.bronze_barbarian_helmet": {
+    "en": "Bronze Barbarian Helmet",
+    "zh": "黄铜蛮族头盔",
+    "vi": "Bronze Barbarian Helmet"
+  },
+  "item.dungeons_and_combat.molten_dark_steel_chestplate": {
+    "en": "Molten Dark Steel Chestplate",
+    "zh": "熔铸暗钢胸甲",
+    "vi": "Molten Dark Steel Chestplate"
+  },
+  "subtitles.palehand_hurt": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "item.dungeons_and_combat.molten_blazing_sword": {
+    "en": "§6Molten Blazing Sword",
+    "zh": "§6Molten Blazing Sword",
+    "vi": "§6Molten Blazing Sword"
+  },
+  "gui.dungeons_and_combat.exlied_class_gui.label_armor": {
+    "en": "Armor",
+    "zh": "Armor",
+    "vi": "Armor"
+  },
+  "item.dungeons_and_combat.acid_molten_blazing_sword": {
+    "en": "§2Acid Molten Blazing Sword",
+    "zh": "§2Acid Molten Blazing Sword",
+    "vi": "§2Acid Molten Blazing Sword"
+  },
+  "item.dungeons_and_combat.titanium_axe": {
+    "en": "Titanium Axe",
+    "zh": "Titanium Axe",
+    "vi": "Titanium Axe"
+  },
+  "gui.dungeons_and_combat.forgotten_knight_class_gui.label_looting": {
+    "en": "Looting",
+    "zh": "Looting",
+    "vi": "Looting"
+  },
+  "item.dungeons_and_combat.bronze_chestplate": {
+    "en": "Bronze Chestplate",
+    "zh": "黄铜蛮族胸甲",
+    "vi": "Bronze Chestplate"
+  },
+  "gui.dungeons_and_combat.bounty_hunter_class_gui.button_choose": {
+    "en": "Choose",
+    "zh": "Choose",
+    "vi": "Choose"
+  },
+  "item.dungeons_and_combat.acid_molten_blazing_leggings": {
+    "en": "Acid Blazing Leggings",
+    "zh": "酸蚀炽熔护腿",
+    "vi": "Acid Blazing Leggings"
+  },
+  "item.dungeons_and_combat.cryolite_sickle": {
+    "en": "Cryolite Sickle",
+    "zh": "Cryolite Sickle",
+    "vi": "Cryolite Sickle"
+  },
+  "item.dungeons_and_combat.lightning_dragonsteel_chestplate": {
+    "en": "Lightning Dragonsteel Chestplate",
+    "zh": "Lightning Dragonsteel Chestplate",
+    "vi": "Lightning Dragonsteel Chestplate"
+  },
+  "item.minecraft.lingering_potion.effect.haste_ii": {
+    "en": "Lingering Potion of Haste II",
+    "zh": "Lingering Potion of Haste II",
+    "vi": "Lingering Potion of Haste II"
+  },
+  "advancements.catacumbs_lugubrious.descr": {
+    "en": "Face your first enemy in the Lugubrious Catacombs",
+    "zh": "Face your first enemy in the Lugubrious Catacombs",
+    "vi": "Face your first enemy in the Lugubrious Catacombs"
+  },
+  "advancements.the_man_of_steel.descr": {
+    "en": "Make the complete armor out of steel.",
+    "zh": "Make the complete armor out of steel.",
+    "vi": "Make the complete armor out of steel."
+  },
+  "block.dungeons_and_combat.igneous_blackstone_brick_slab": {
+    "en": "Igneous Blackstone Brick Slab",
+    "zh": "Igneous Blackstone Brick Slab",
+    "vi": "Igneous Blackstone Brick Slab"
+  },
+  "advancements.a_infernal_fortress.descr": {
+    "en": "Enter the Blazing Fortress and face an Blaze Entity",
+    "zh": "Enter the Blazing Fortress and face an Blaze Entity",
+    "vi": "Enter the Blazing Fortress and face an Blaze Entity"
+  },
+  "item.dungeons_and_combat.titanium_boots": {
+    "en": "Titanium Boots",
+    "zh": "Titanium Boots",
+    "vi": "Titanium Boots"
+  },
+  "item.dungeons_and_combat.blessed_smithing_template": {
+    "en": "Smithing Template",
+    "zh": "Smithing Template",
+    "vi": "Smithing Template"
+  },
+  "advancements.origin.descr": {
+    "en": "Select a class",
+    "zh": "Select a class",
+    "vi": "Select a class"
+  },
+  "gui.dungeons_and_combat.titan_class_gui.label_strength": {
+    "en": "Strength",
+    "zh": "Strength",
+    "vi": "Strength"
+  },
+  "subtitles.molotov_throw": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "item.dungeons_and_combat.tombwarden_chestplate": {
+    "en": "Tombwarden Jacket",
+    "zh": "Tombwarden Jacket",
+    "vi": "Tombwarden Jacket"
+  },
+  "item.dungeons_and_combat.scorpion_claw": {
+    "en": "Scorpion Claw",
+    "zh": "Scorpion Claw",
+    "vi": "Scorpion Claw"
+  },
+  "gui.dungeons_and_combat.bounty_hunter_class_gui.label_strength_ii": {
+    "en": "Strength I",
+    "zh": "Strength II",
+    "vi": "Strength II"
+  },
+  "subtitles.greatsword_ice_stab": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "subtitles.tale_swing": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "item.dungeons_and_combat.dragon_lance_lightning": {
+    "en": "Lightning Dragon Bone Lance",
+    "zh": "Lightning Dragon Bone Lance",
+    "vi": "Lightning Dragon Bone Lance"
+  },
+  "item.dungeons_and_combat.black_dragon_leggings": {
+    "en": "Grey Dragon Leggings",
+    "zh": "Grey Dragon Leggings",
+    "vi": "Grey Dragon Leggings"
+  },
+  "item.dungeons_and_combat.cursed_soul": {
+    "en": "Cursed Soul",
+    "zh": "诅咒之魂",
+    "vi": "Cursed Soul"
+  },
+  "effect.dungeons_and_combat.klauen_necklace_effect": {
+    "en": "Klauen Necklace Effect",
+    "zh": "Klauen Necklace Effect",
+    "vi": "Klauen Necklace Effect"
+  },
+  "effect.dungeons_and_combat.acid_fire_edge": {
+    "en": "Acid Fire Edge",
+    "zh": "Acid Fire Edge",
+    "vi": "Acid Fire Edge"
+  },
+  "subtitles.kamath_combo_attack": {
+    "en": "Kamath uses combo attack",
+    "zh": "Kamath uses combo attack",
+    "vi": "Kamath uses combo attack"
+  },
+  "item.dungeons_and_combat.copper_shovel": {
+    "en": "Copper Shovel",
+    "zh": "Copper Shovel",
+    "vi": "Copper Shovel"
+  },
+  "item.dungeons_and_combat.acid_molten_blazing_fists": {
+    "en": "§2Acid Molten Blazing Fist",
+    "zh": "§2Acid Molten Blazing Fist",
+    "vi": "§2Acid Molten Blazing Fist"
+  },
+  "gui.dungeons_and_combat.titan_class_gui.label_heavy": {
+    "en": "Heavy",
+    "zh": "Heavy",
+    "vi": "Heavy"
+  },
+  "item.dungeons_and_combat.cooked_reptile_meat": {
+    "en": "Cooked Reptile Meat",
+    "zh": "Cooked Reptile Meat",
+    "vi": "Cooked Reptile Meat"
+  },
+  "item.dungeons_and_combat.ernos_fur": {
+    "en": "Ernos Fur",
+    "zh": "Ernos Fur",
+    "vi": "Ernos Fur"
+  },
+  "item.dungeons_and_combat.steel_tomahawk_axe": {
+    "en": "Steel Tomahawk",
+    "zh": "Steel Tomahawk",
+    "vi": "Steel Tomahawk"
+  },
+  "item.dungeons_and_combat.blazing_ingot": {
+    "en": "Blazing Ingot",
+    "zh": "Blazing Ingot",
+    "vi": "Blazing Ingot"
+  },
+  "item.dungeons_and_combat.executioner_axe": {
+    "en": "Executioner Axe",
+    "zh": "Executioner Axe",
+    "vi": "Executioner Axe"
+  },
+  "item.minecraft.potion.effect.frozen_resistance": {
+    "en": "Potion of Frozen Resistance",
+    "zh": "Potion of Frozen Resistance",
+    "vi": "Potion of Frozen Resistance"
+  },
+  "item.dungeons_and_combat.silver_sword": {
+    "en": "Silver Sword",
+    "zh": "Silver Sword",
+    "vi": "Silver Sword"
+  },
+  "block.dungeons_and_combat.crimson_tiles_wall": {
+    "en": "Crimson Tiles Wall",
+    "zh": "Crimson Tiles Wall",
+    "vi": "Crimson Tiles Wall"
+  },
+  "subtitles.bite_sound": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "gui.dungeons_and_combat.titan_class_gui.label_wield": {
+    "en": "Wield",
+    "zh": "Wield",
+    "vi": "Wield"
+  },
+  "item.dungeons_and_combat.monarch_boots": {
+    "en": "§cMonarch Boots",
+    "zh": "§c君主靴子",
+    "vi": "§cMonarch Boots"
+  },
+  "item.dungeons_and_combat.prisoner_helmet": {
+    "en": "Prisoner Helmet",
+    "zh": "Prisoner Helmet",
+    "vi": "Prisoner Helmet"
+  },
+  "entity.dungeons_and_combat.remanent": {
+    "en": "Remanent",
+    "zh": "Remanent",
+    "vi": "Remanent"
+  },
+  "gui.dungeons_and_combat.titan_class_gui.label_speed": {
+    "en": "Speed",
+    "zh": "Speed",
+    "vi": "Speed"
+  },
+  "item.dungeons_and_combat.ice_dragonsteel_chestplate": {
+    "en": "Ice Dragonsteel Chestplate",
+    "zh": "Ice Dragonsteel Chestplate",
+    "vi": "Ice Dragonsteel Chestplate"
+  },
+  "item.dungeons_and_combat.cursed_molten_blazing_boots": {
+    "en": "Cursed Blazing Boots",
+    "zh": "诅咒炽熔靴子",
+    "vi": "Cursed Blazing Boots"
+  },
+  "block.dungeons_and_combat.elden_oak_planks_fence_gate": {
+    "en": "Elden Oak Planks Fence Gate",
+    "zh": "Elden Oak Planks Fence Gate",
+    "vi": "Elden Oak Planks Fence Gate"
+  },
+  "item.dungeons_and_combat.bottled_acid_fire": {
+    "en": "Bottled Acid Fire",
+    "zh": "Bottled Acid Fire",
+    "vi": "Bottled Acid Fire"
+  },
+  "item.dungeons_and_combat.elden_sensu_dagger": {
+    "en": "Elden Sensu",
+    "zh": "Elden Sensu",
+    "vi": "Elden Sensu"
+  },
+  "item.dungeons_and_combat.the_grave_watcher_spawn_egg": {
+    "en": "The GraveWatcher Spawn Egg",
+    "zh": "The GraveWatcher Spawn Egg",
+    "vi": "The GraveWatcher Spawn Egg"
+  },
+  "subtitles.fire_slash_01": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "item.dungeons_and_combat.ebony_helmet": {
+    "en": "§8Ebony Helmet",
+    "zh": "§8Ebony Helmet",
+    "vi": "§8Ebony Helmet"
+  },
+  "gui.dungeons_and_combat.vagabond_class_gui.label_01": {
+    "en": "0",
+    "zh": "0",
+    "vi": "0"
+  },
+  "gui.dungeons_and_combat.vagabond_class_gui.label_395": {
+    "en": "4",
+    "zh": "4",
+    "vi": "4"
+  },
+  "gui.dungeons_and_combat.exlied_class_gui.label_have_10_additional_damage": {
+    "en": "have 10% ",
+    "zh": "have 10% ",
+    "vi": "have 10% "
+  },
+  "item.dungeons_and_combat.molten_cryolite_sword": {
+    "en": "Cryolite Greatsword",
+    "zh": "Cryolite Greatsword",
+    "vi": "Cryolite Greatsword"
+  },
+  "item.dungeons_and_combat.titanium_dragon_sword": {
+    "en": "Titanium Greatsword",
+    "zh": "Titanium Greatsword",
+    "vi": "Titanium Greatsword"
+  },
+  "item.dungeons_and_combat.cursed_molten_blazing_chestplate": {
+    "en": "Cursed Blazing Chestplate",
+    "zh": "诅咒炽熔胸甲",
+    "vi": "Cursed Blazing Chestplate"
+  },
+  "item.dungeons_and_combat.rogue_boots": {
+    "en": "Rogue Boots",
+    "zh": "初始靴子β",
+    "vi": "Rogue Boots"
+  },
+  "item.dungeons_and_combat.molten_cryolite_leggings": {
+    "en": "Molten Cryolite Leggings",
+    "zh": "熔晶护腿",
+    "vi": "Molten Cryolite Leggings"
+  },
+  "gui.dungeons_and_combat.exlied_class_gui.label_strength": {
+    "en": "Strength",
+    "zh": "Strength",
+    "vi": "Strength"
+  },
+  "gui.dungeons_and_combat.titan_class_gui.label_armor": {
+    "en": "Armor",
+    "zh": "Armor",
+    "vi": "Armor"
+  },
+  "block.dungeons_and_combat.chalice_impure_indestructible": {
+    "en": "Chalice With Impure Blood",
+    "zh": "Chalice With Impure Blood",
+    "vi": "Chalice With Impure Blood"
+  },
+  "item.dungeons_and_combat.blacksmith_helmet": {
+    "en": "Blacksmith Mask",
+    "zh": "初始头盔δ",
+    "vi": "Blacksmith Mask"
+  },
+  "item.dungeons_and_combat.black_dragon_chestplate": {
+    "en": "Grey Dragon Chestplate",
+    "zh": "Grey Dragon Chestplate",
+    "vi": "Grey Dragon Chestplate"
+  },
+  "advancements.the_titan.title": {
+    "en": "The Titan",
+    "zh": "The Titan",
+    "vi": "The Titan"
+  },
+  "item.dungeons_and_combat.sandstone_leggings": {
+    "en": "Sandstone Leggings",
+    "zh": "Sandstone Leggings",
+    "vi": "Sandstone Leggings"
+  },
+  "item.dungeons_and_combat.titan_chestplate": {
+    "en": "Titan Chestplate",
+    "zh": "Titan Chestplate",
+    "vi": "Titan Chestplate"
+  },
+  "block.dungeons_and_combat.bronze_tiles_stairs": {
+    "en": "Bronze Tiles Stairs",
+    "zh": "Bronze Tiles Stairs",
+    "vi": "Bronze Tiles Stairs"
+  },
+  "item.dungeons_and_combat.skull_spawn_egg": {
+    "en": "Skull Spawn Egg",
+    "zh": "Skull Spawn Egg",
+    "vi": "Skull Spawn Egg"
+  },
+  "item.dungeons_and_combat.dragon_greatsword_lightning": {
+    "en": "Lightning Dragon Bone Greatsword",
+    "zh": "Lightning Dragon Bone Greatsword",
+    "vi": "Lightning Dragon Bone Greatsword"
+  },
+  "item.dungeons_and_combat.blood_orb": {
+    "en": "Blood Orb",
+    "zh": "Blood Orb",
+    "vi": "Blood Orb"
+  },
+  "gui.dungeons_and_combat.vagabond_class_gui.label_strength": {
+    "en": "Strength",
+    "zh": "Strength",
+    "vi": "Strength"
+  },
+  "item.dungeons_and_combat.bronze_hand_drill": {
+    "en": "Bronze Hand Drill",
+    "zh": "Bronze Hand Drill",
+    "vi": "Bronze Hand Drill"
+  },
+  "item.minecraft.tipped_arrow.effect.haste_iii": {
+    "en": "Arrow of Haste III",
+    "zh": "Arrow of Haste III",
+    "vi": "Arrow of Haste III"
+  },
+  "item.dungeons_and_combat.blessed_gold_helmet": {
+    "en": "§eBlessed Gold Helmet",
+    "zh": "§e圣金头盔",
+    "vi": "§eBlessed Gold Helmet"
+  },
+  "item.dungeons_and_combat.pitchfork_spear": {
+    "en": "Pitchfork",
+    "zh": "Pitchfork",
+    "vi": "Pitchfork"
+  },
+  "gui.dungeons_and_combat.vagabond_class_gui.label_14": {
+    "en": "1",
+    "zh": "1",
+    "vi": "1"
+  },
+  "gui.dungeons_and_combat.forgotten_knight_class_gui.button_empty1": {
+    "en": "<",
+    "zh": "<",
+    "vi": "<"
+  },
+  "entity.dungeons_and_combat.palehand": {
+    "en": "Palehand",
+    "zh": "Palehand",
+    "vi": "Palehand"
+  },
+  "gui.dungeons_and_combat.vagabond_class_gui.label_passive": {
+    "en": "Passive",
+    "zh": "Passive",
+    "vi": "Passive"
+  },
+  "item.minecraft.lingering_potion.effect.long_gigant_potion": {
+    "en": "Lingering Potion of Gigant",
+    "zh": "Lingering Potion of Gigant",
+    "vi": "Lingering Potion of Gigant"
+  },
+  "item.dungeons_and_combat.dragon_dagger_bone": {
+    "en": "Dragon Bone Dagger",
+    "zh": "Dragon Bone Dagger",
+    "vi": "Dragon Bone Dagger"
+  },
+  "advancements.is_this_my_size.descr": {
+    "en": "Get a Giant Scorpion Claw",
+    "zh": "Get a Giant Scorpion Claw",
+    "vi": "Get a Giant Scorpion Claw"
+  },
+  "entity.dungeons_and_combat.infernus": {
+    "en": "Infernus",
+    "zh": "Infernus",
+    "vi": "Infernus"
+  },
+  "item.dungeons_and_combat.horus_klauen": {
+    "en": "Horus Klauen",
+    "zh": "Horus Klauen",
+    "vi": "Horus Klauen"
+  },
+  "item.dungeons_and_combat.silver_ingot": {
+    "en": "Silver Ingot",
+    "zh": "Silver Ingot",
+    "vi": "Silver Ingot"
+  },
+  "gui.dungeons_and_combat.vagabond_class_gui.label_20": {
+    "en": "20",
+    "zh": "20",
+    "vi": "20"
+  },
+  "item.minecraft.lingering_potion.effect.frozen_resistance": {
+    "en": "Lingering Potion of Frozen Resistance",
+    "zh": "Lingering Potion of Frozen Resistance",
+    "vi": "Lingering Potion of Frozen Resistance"
+  },
+  "item.dungeons_and_combat.spell_book": {
+    "en": null,
+    "zh": "Spell Book",
+    "vi": "Spell Book"
+  },
+  "item.dungeons_and_combat.red_dragon_chestplate": {
+    "en": "Red Dragon Chestplate",
+    "zh": "Red Dragon Chestplate",
+    "vi": "Red Dragon Chestplate"
+  },
+  "item.dungeons_and_combat.fairy_scepter": {
+    "en": "Fairy Wand",
+    "zh": "Fairy Wand",
+    "vi": "Fairy Wand"
+  },
+  "item.dungeons_and_combat.silver_dagger": {
+    "en": "Silver Dagger",
+    "zh": "Silver Dagger",
+    "vi": "Silver Dagger"
+  },
+  "entity.dungeons_and_combat.the_grave_watcher": {
+    "en": "The GraveWatcher",
+    "zh": "The GraveWatcher",
+    "vi": "The GraveWatcher"
+  },
+  "advancements.a_infernal_fortress.title": {
+    "en": "A Infernal Fortress",
+    "zh": "A Infernal Fortress",
+    "vi": "A Infernal Fortress"
+  },
+  "gui.dungeons_and_combat.exlied_class_gui.label_health": {
+    "en": "Health",
+    "zh": "Health",
+    "vi": "Health"
+  },
+  "item.dungeons_and_combat.dragon_lance_bone": {
+    "en": "Dragon Bone Lance",
+    "zh": "Dragon Bone Lance",
+    "vi": "Dragon Bone Lance"
+  },
+  "block.dungeons_and_combat.chalice_indestructible": {
+    "en": "Chalice",
+    "zh": "Chalice",
+    "vi": "Chalice"
+  },
+  "item.dungeons_and_combat.counselor_chestplate": {
+    "en": "Counselor Tunic",
+    "zh": "Counselor Tunic",
+    "vi": "Counselor Tunic"
+  },
+  "item.dungeons_and_combat.netherite_dagger": {
+    "en": "Netherite Dagger",
+    "zh": "Netherite Dagger",
+    "vi": "Netherite Dagger"
+  },
+  "block.dungeons_and_combat.champion_brazier_off": {
+    "en": "Champion Brazier Off",
+    "zh": "Champion Brazier Off",
+    "vi": "Champion Brazier Off"
+  },
+  "item.dungeons_and_combat.ebony_scrap": {
+    "en": "Ebony Raw",
+    "zh": "Ebony Raw",
+    "vi": "Ebony Raw"
+  },
+  "block.dungeons_and_combat.blessed_gold_block": {
+    "en": "Blessed Gold Block",
+    "zh": "Blessed Gold Block",
+    "vi": "Blessed Gold Block"
+  },
+  "subtitles.flower_fairy_ambient": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "item.dungeons_and_combat.blessed_gold_axe": {
+    "en": "§eBlessed Gold Axe",
+    "zh": "§eBlessed Gold Axe",
+    "vi": "§eBlessed Gold Axe"
+  },
+  "entity.dungeons_and_combat.the_aberrator": {
+    "en": "The Aberrator",
+    "zh": "The Aberrator",
+    "vi": "The Aberrator"
+  },
+  "item.dungeons_and_combat.crimson_hoe": {
+    "en": "Crimson Hoe",
+    "zh": "Crimson Hoe",
+    "vi": "Crimson Hoe"
+  },
+  "item.dungeons_and_combat.eldrich_heart": {
+    "en": "Eldrich Heart",
+    "zh": "Eldrich Heart",
+    "vi": "Eldrich Heart"
+  },
+  "item.dungeons_and_combat.copper_pickaxe": {
+    "en": "Copper Pickaxe",
+    "zh": "Copper Pickaxe",
+    "vi": "Copper Pickaxe"
+  },
+  "item.minecraft.potion.effect.intoxicated": {
+    "en": "Potion of Intoxicated",
+    "zh": "Potion of Intoxicated",
+    "vi": "Potion of Intoxicated"
+  },
+  "item.dungeons_and_combat.sunleia_music_disc.desc": {
+    "en": "Sebastian Angel - Apollo",
+    "zh": "Sebastian Angel - Apollo",
+    "vi": "Sebastian Angel - Apollo"
+  },
+  "item.dungeons_and_combat.sunleia_armor_boots": {
+    "en": "§eSunleia Boots",
+    "zh": "§e苏蕾娅靴子",
+    "vi": "§eSunleia Boots"
+  },
+  "item.dungeons_and_combat.titanium_hoe": {
+    "en": "Titanium Hoe",
+    "zh": "Titanium Hoe",
+    "vi": "Titanium Hoe"
+  },
+  "item.dungeons_and_combat.white_dragon_leggings": {
+    "en": "White Dragon Leggings",
+    "zh": "White Dragon Leggings",
+    "vi": "White Dragon Leggings"
+  },
+  "effect.dungeons_and_combat.scarlet_restoration": {
+    "en": "Scarlet Restoration",
+    "zh": "Scarlet Restoration",
+    "vi": "Scarlet Restoration"
+  },
+  "item.dungeons_and_combat.mimy_chest_spawn_egg": {
+    "en": "Mimy Chest Spawn Egg",
+    "zh": "Mimy Chest Spawn Egg",
+    "vi": "Mimy Chest Spawn Egg"
+  },
+  "item.dungeons_and_combat.dark_metal_boots": {
+    "en": "§6Dark Metal Boots",
+    "zh": "§6Dark Metal Boots",
+    "vi": "§6Dark Metal Boots"
+  },
+  "item.dungeons_and_combat.monarch_leggings": {
+    "en": "§cMonarch Leggings",
+    "zh": "§c君主护腿",
+    "vi": "§cMonarch Leggings"
+  },
+  "entity.dungeons_and_combat.torture": {
+    "en": "Torture",
+    "zh": "Torture",
+    "vi": "Torture"
+  },
+  "block.dungeons_and_combat.ebony_block": {
+    "en": "Ebony Block",
+    "zh": "Ebony Block",
+    "vi": "Ebony Block"
+  },
+  "item.dungeons_and_combat.mead": {
+    "en": "Mead",
+    "zh": "Mead",
+    "vi": "Mead"
+  },
+  "item.dungeons_and_combat.monarch_helmet": {
+    "en": "§cMonarch Helmet",
+    "zh": "§c君主头盔",
+    "vi": "§cMonarch Helmet"
+  },
+  "item.dungeons_and_combat.iron_metal_chestplate": {
+    "en": "Iron Chestplate",
+    "zh": "Iron Chestplate",
+    "vi": "Iron Chestplate"
+  },
+  "subtitles.molotov_fire": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "item.dungeons_and_combat.almond": {
+    "en": "Almond",
+    "zh": "Almond",
+    "vi": "Almond"
+  },
+  "item.dungeons_and_combat.armor_plate": {
+    "en": "Armor Plate",
+    "zh": "盔甲碎片",
+    "vi": "Armor Plate"
+  },
+  "entity.dungeons_and_combat.horuso": {
+    "en": "Horuso",
+    "zh": "Horuso",
+    "vi": "Horuso"
+  },
+  "effect.dungeons_and_combat.hunter_boots_effect": {
+    "en": "Hunter Boots Effect",
+    "zh": "Hunter Boots Effect",
+    "vi": "Hunter Boots Effect"
+  },
+  "item.dungeons_and_combat.iron_metal_boots": {
+    "en": "Iron Boots",
+    "zh": "Iron Boots",
+    "vi": "Iron Boots"
+  },
+  "item.dungeons_and_combat.mortar_and_pestle_of_wither": {
+    "en": "Mortar And Pestle Of Wither",
+    "zh": "Mortar And Pestle Of Wither",
+    "vi": "Mortar And Pestle Of Wither"
+  },
+  "subtitles.greatsword_fire_stab": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "item.dungeons_and_combat.bottled_fairy_dust": {
+    "en": "Bottled Fairy Dust",
+    "zh": "Bottled Fairy Dust",
+    "vi": "Bottled Fairy Dust"
+  },
+  "gui.dungeons_and_combat.exlied_class_gui.label_wield": {
+    "en": "Wield",
+    "zh": "Wield",
+    "vi": "Wield"
+  },
+  "item.dungeons_and_combat.copper_helmet": {
+    "en": "Copper Helmet",
+    "zh": "铜骑士头盔",
+    "vi": "Copper Helmet"
+  },
+  "advancements.the_new_god_of_the_sun.title": {
+    "en": "The New God Of The Sun",
+    "zh": "The New God Of The Sun",
+    "vi": "The New God Of The Sun"
+  },
+  "subtitles.kamath_death": {
+    "en": "Kamath dies",
+    "zh": "Kamath dies",
+    "vi": "Kamath dies"
+  },
+  "item.dungeons_and_combat.thirsty_necklace": {
+    "en": "Vampiric Necklace",
+    "zh": "§c渴血项链",
+    "vi": "Vampiric Necklace"
+  },
+  "item.dungeons_and_combat.dragonium_leggings": {
+    "en": "Dragonium Leggings",
+    "zh": "Dragonium Leggings",
+    "vi": "Dragonium Leggings"
+  },
+  "block.dungeons_and_combat.titanium_ore": {
+    "en": "Titanium Ore",
+    "zh": "Titanium Ore",
+    "vi": "Titanium Ore"
+  },
+  "item.dungeons_and_combat.molten_bone": {
+    "en": "Molten Bone",
+    "zh": "Molten Bone",
+    "vi": "Molten Bone"
+  },
+  "item.dungeons_and_combat.bloodywarden_chestplate": {
+    "en": "§cBloodywarden Jacket",
+    "zh": "§cBloodywarden Jacket",
+    "vi": "§cBloodywarden Jacket"
+  },
+  "item.minecraft.tipped_arrow.effect.haste_ii": {
+    "en": "Arrow of Haste II",
+    "zh": "Arrow of Haste II",
+    "vi": "Arrow of Haste II"
+  },
+  "advancements.the_bloodymancer.descr": {
+    "en": "Get the Blood Orb",
+    "zh": "Get the Blood Orb",
+    "vi": "Get the Blood Orb"
+  },
+  "item.dungeons_and_combat.crimson_ingot": {
+    "en": "Crimson Ingot",
+    "zh": "Crimson Ingot",
+    "vi": "Crimson Ingot"
+  },
+  "block.dungeons_and_combat.chalice_with_divine_blood": {
+    "en": null,
+    "zh": "Chalice With Divine Blood",
+    "vi": "Chalice With Divine Blood"
+  },
+  "item.dungeons_and_combat.stone_shield": {
+    "en": "Stone Shield",
+    "zh": "Stone Shield",
+    "vi": "Stone Shield"
+  },
+  "item.dungeons_and_combat.blessed_gold_shovel": {
+    "en": "§eBlessed Gold Shovel",
+    "zh": "§eBlessed Gold Shovel",
+    "vi": "§eBlessed Gold Shovel"
+  },
+  "item.dungeons_and_combat.ring_of_the_eternal_resting": {
+    "en": "Ring Of The Eternal Resting",
+    "zh": "Ring Of The Eternal Resting",
+    "vi": "Ring Of The Eternal Resting"
+  },
+  "item.dungeons_and_combat.silver_carrot": {
+    "en": "Silver Carrot",
+    "zh": "Silver Carrot",
+    "vi": "Silver Carrot"
+  },
+  "subtitles.fairy_power_up": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "block.dungeons_and_combat.bronze_tiles_slab": {
+    "en": "Bronze Tiles Slab",
+    "zh": "Bronze Tiles Slab",
+    "vi": "Bronze Tiles Slab"
+  },
+  "effect.dungeons_and_combat.fatal_oath_iii": {
+    "en": "Fatal Oath III",
+    "zh": "Fatal Oath III",
+    "vi": "Fatal Oath III"
+  },
+  "item.dungeons_and_combat.netherite_sword": {
+    "en": "Netherite Zweihander",
+    "zh": "Netherite Zweihander",
+    "vi": "Netherite Zweihander"
+  },
+  "item.dungeons_and_combat.wolf_steel_helmet": {
+    "en": "Wolf Steel Helmet",
+    "zh": "狼骑士头盔",
+    "vi": "Wolf Steel Helmet"
+  },
+  "item.dungeons_and_combat.oni_slayer_boots": {
+    "en": "Oni Slayer Boots",
+    "zh": "Oni Slayer Boots",
+    "vi": "Oni Slayer Boots"
+  },
+  "item.dungeons_and_combat.bronze_engine_core": {
+    "en": "Bronze Engine Core",
+    "zh": "Bronze Engine Core",
+    "vi": "Bronze Engine Core"
+  },
+  "item.dungeons_and_combat.sandstone_ingot": {
+    "en": "Sandstone Ingot",
+    "zh": "Sandstone Ingot",
+    "vi": "Sandstone Ingot"
+  },
+  "item.dungeons_and_combat.silver_leggings": {
+    "en": "Silver Leggings",
+    "zh": "银辉骑士护腿",
+    "vi": "Silver Leggings"
+  },
+  "item.dungeons_and_combat.blue_dragon_boots": {
+    "en": "Blue Dragon Boots",
+    "zh": "Blue Dragon Boots",
+    "vi": "Blue Dragon Boots"
+  },
+  "gui.dungeons_and_combat.titan_class_gui.label_20": {
+    "en": "28",
+    "zh": "28",
+    "vi": "28"
+  },
+  "item.dungeons_and_combat.diamond_sword": {
+    "en": "Diamond Claymore",
+    "zh": "Diamond Claymore",
+    "vi": "Diamond Claymore"
+  },
+  "item.dungeons_and_combat.titanium_sickle": {
+    "en": "Titanium Dagger",
+    "zh": "Titanium Dagger",
+    "vi": "Titanium Dagger"
+  },
+  "item.dungeons_and_combat.weakness_spawn_egg": {
+    "en": "Weakness Spawn Egg",
+    "zh": "Weakness Spawn Egg",
+    "vi": "Weakness Spawn Egg"
+  },
+  "entity.dungeons_and_combat.weakness": {
+    "en": "Weakness",
+    "zh": "Weakness",
+    "vi": "Weakness"
+  },
+  "gui.dungeons_and_combat.rogue_class_gui.label_when_crouching_you_will_become_i": {
+    "en": "When crouching ",
+    "zh": "When crouching ",
+    "vi": "When crouching "
+  },
+  "subtitles.fire_fist": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "subtitles.summon_ewffect": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "item.dungeons_and_combat.dragonsteel_fire_katana": {
+    "en": "Fire Dragonsteel Katana",
+    "zh": "Fire Dragonsteel Long Sword",
+    "vi": "Fire Dragonsteel Katana"
+  },
+  "item.dungeons_and_combat.fractured_vex_spawn_egg": {
+    "en": "Fractured Vex Spawn Egg",
+    "zh": "Fractured Vex Spawn Egg",
+    "vi": "Fractured Vex Spawn Egg"
+  },
+  "gui.dungeons_and_combat.vagabond_class_gui.button_choose": {
+    "en": "Choose",
+    "zh": "Choose",
+    "vi": "Choose"
+  },
+  "item.dungeons_and_combat.amethyst_dragon_helmet": {
+    "en": "Amethyst Dragon Helmet",
+    "zh": "Amethyst Dragon Helmet",
+    "vi": "Amethyst Dragon Helmet"
+  },
+  "entity.dungeons_and_combat.skull_deserter": {
+    "en": "Skull Deserter",
+    "zh": "Skull Deserter",
+    "vi": "Skull Deserter"
+  },
+  "gui.dungeons_and_combat.forgotten_knight_class_gui.button_choose": {
+    "en": "Choose",
+    "zh": "Choose",
+    "vi": "Choose"
+  },
+  "advancements.witch.descr": {
+    "en": "Use the Pitchfork to attack a Witch",
+    "zh": "Use the Pitchfork to attack a Witch",
+    "vi": "Use the Pitchfork to attack a Witch"
+  },
+  "block.dungeons_and_combat.bone_planks_door": {
+    "en": "Bone Planks Door",
+    "zh": "Bone Planks Door",
+    "vi": "Bone Planks Door"
+  },
+  "item.dungeons_and_combat.bronze_sword": {
+    "en": "Bronze Sword",
+    "zh": "Bronze Sword",
+    "vi": "Bronze Sword"
+  },
+  "item.dungeons_and_combat.sandstone_helmet": {
+    "en": "Sandstone Helmet",
+    "zh": "Sandstone Helmet",
+    "vi": "Sandstone Helmet"
+  },
+  "effect.dungeons_and_combat.toxin": {
+    "en": "Toxin",
+    "zh": "Toxin",
+    "vi": "Toxin"
+  },
+  "block.dungeons_and_combat.sunleia_light": {
+    "en": "Sunleia Light",
+    "zh": "苏蕾娅之灯",
+    "vi": "Sunleia Light"
+  },
+  "gui.dungeons_and_combat.forgotten_knight_class_gui.label_toughness": {
+    "en": "Toughness",
+    "zh": "Toughness",
+    "vi": "Toughness"
+  },
+  "item.dungeons_and_combat.bloody_cult_helmet": {
+    "en": "Bloody Cult Hood",
+    "zh": "Bloody Cult Hood",
+    "vi": "Bloody Cult Hood"
+  },
+  "item.dungeons_and_combat.vagabond_chestplate": {
+    "en": "Vagabond Chestplate",
+    "zh": "Vagabond Chestplate",
+    "vi": "Vagabond Chestplate"
+  },
+  "item.dungeons_and_combat.golden_boots": {
+    "en": "Golden Boots",
+    "zh": "Golden Boots",
+    "vi": "Golden Boots"
+  },
+  "effect.dungeons_and_combat.bleeding_edge": {
+    "en": "Bleeding Edge",
+    "zh": "Bleeding Edge",
+    "vi": "Bleeding Edge"
+  },
+  "item.dungeons_and_combat.netherite_chestplate": {
+    "en": "Netherite Chestplate",
+    "zh": "下界合金骑士胸甲",
+    "vi": "Netherite Chestplate"
+  },
+  "item.dungeons_and_combat.copper_axe": {
+    "en": "Copper Axe",
+    "zh": "Copper Axe",
+    "vi": "Copper Axe"
+  },
+  "item.dungeons_and_combat.cryolite_chestplate": {
+    "en": "Cryolite Chestplate",
+    "zh": "冰晶胸甲",
+    "vi": "Cryolite Chestplate"
+  },
+  "item.dungeons_and_combat.ice_dragonsteel_leggings": {
+    "en": "Ice Dragonsteel Leggings",
+    "zh": "Ice Dragonsteel Leggings",
+    "vi": "Ice Dragonsteel Leggings"
+  },
+  "item.dungeons_and_combat.molten_cryolite_greatsword": {
+    "en": "Cryolite Greatsword",
+    "zh": "Cryolite Greatsword",
+    "vi": "Cryolite Greatsword"
+  },
+  "block.dungeons_and_combat.raw_titanium_block": {
+    "en": "Raw Titanium Block",
+    "zh": "Raw Titanium Block",
+    "vi": "Raw Titanium Block"
+  },
+  "item.dungeons_and_combat.true_claymore": {
+    "en": "True Claymore",
+    "zh": "True Claymore",
+    "vi": "True Claymore"
+  },
+  "item.dungeons_and_combat.red_dragon_leggings": {
+    "en": "Red Dragon Leggings",
+    "zh": "Red Dragon Leggings",
+    "vi": "Red Dragon Leggings"
+  },
+  "item.dungeons_and_combat.dagger": {
+    "en": "Dagger",
+    "zh": "Dagger",
+    "vi": "Dagger"
+  },
+  "gui.dungeons_and_combat.exlied_class_gui.label_0": {
+    "en": "0",
+    "zh": "0",
+    "vi": "0"
+  },
+  "item.dungeons_and_combat.molten_dark_steel_nugget": {
+    "en": "Molten Dark Steel Nugget",
+    "zh": "Molten Dark Steel Nugget",
+    "vi": "Molten Dark Steel Nugget"
+  },
+  "gui.dungeons_and_combat.exlied_class_gui.label_1": {
+    "en": "1.1",
+    "zh": "1.1",
+    "vi": "1.1"
+  },
+  "gui.dungeons_and_combat.exlied_class_gui.label_2": {
+    "en": "0",
+    "zh": "0",
+    "vi": "0"
+  },
+  "item.dungeons_and_combat.egyptian_fragment": {
+    "en": null,
+    "zh": "Egyptian Fragment",
+    "vi": "Egyptian Fragment"
+  },
+  "item.dungeons_and_combat.diamond_sickle": {
+    "en": "Diamond Sickle",
+    "zh": "Diamond Sickle",
+    "vi": "Diamond Sickle"
+  },
+  "item.dungeons_and_combat.golden_helmet": {
+    "en": "Golden Helmet",
+    "zh": "Golden Helmet",
+    "vi": "Golden Helmet"
+  },
+  "item.dungeons_and_combat.forgotten_knight_chestplate": {
+    "en": "Forgotten Knight Chestplate",
+    "zh": "Forgotten Knight Chestplate",
+    "vi": "Forgotten Knight Chestplate"
+  },
+  "item.dungeons_and_combat.fractured_soul": {
+    "en": "Fractured Soul",
+    "zh": "Fractured Soul",
+    "vi": "Fractured Soul"
+  },
+  "entity.dungeons_and_combat.high_priest": {
+    "en": "High Priest",
+    "zh": "High Priest",
+    "vi": "High Priest"
+  },
+  "item.dungeons_and_combat.golden_shield": {
+    "en": "Golden Shield",
+    "zh": "Golden Shield",
+    "vi": "Golden Shield"
+  },
+  "subtitles.greatsword_fire_swing": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "subtitles.greatsword_lightning_slam": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "block.dungeons_and_combat.igneous_blackstone_brick_wall": {
+    "en": "Igneous Blackstone Brick Wall",
+    "zh": "Igneous Blackstone Brick Wall",
+    "vi": "Igneous Blackstone Brick Wall"
+  },
+  "item.dungeons_and_combat.wooden_knife": {
+    "en": "Wooden Knife",
+    "zh": "Wooden Knife",
+    "vi": "Wooden Knife"
+  },
+  "item.dungeons_and_combat.bloody_dye": {
+    "en": "Bloody Dye",
+    "zh": "Bloody Dye",
+    "vi": "Bloody Dye"
+  },
+  "block.dungeons_and_combat.elden_oak_planks_door": {
+    "en": "Elden Oak Planks Door",
+    "zh": "Elden Oak Planks Door",
+    "vi": "Elden Oak Planks Door"
+  },
+  "subtitles.kamath_step": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "item.dungeons_and_combat.diamond_claymore": {
+    "en": "Diamond Claymore",
+    "zh": "Diamond Claymore",
+    "vi": "Diamond Claymore"
+  },
+  "item.dungeons_and_combat.vagabond_leggings": {
+    "en": "Vagabond Leggings",
+    "zh": "Vagabond Leggings",
+    "vi": "Vagabond Leggings"
+  },
+  "block.dungeons_and_combat.forging_of_essences": {
+    "en": "Forging Of Essences",
+    "zh": "Forging Of Essences",
+    "vi": "Forging Of Essences"
+  },
+  "advancements.origin.title": {
+    "en": "Origin",
+    "zh": "Origin",
+    "vi": "Origin"
+  },
+  "item.dungeons_and_combat.silver_hoe": {
+    "en": "Silver Hoe",
+    "zh": "Silver Hoe",
+    "vi": "Silver Hoe"
+  },
+  "item.dungeons_and_combat.bronze_shield": {
+    "en": "Bronze Shield",
+    "zh": "Bronze Shield",
+    "vi": "Bronze Shield"
+  },
+  "item.dungeons_and_combat.molten_cryolite_boots": {
+    "en": "Molten Cryolite Boots",
+    "zh": "熔晶靴子",
+    "vi": "Molten Cryolite Boots"
+  },
+  "advancements.the_bloody_cult.title": {
+    "en": "The Bloody Cult",
+    "zh": "The Bloody Cult",
+    "vi": "The Bloody Cult"
+  },
+  "item.dungeons_and_combat.acid_molten_blazing_chestplate": {
+    "en": "Acid Blazing Chestplate",
+    "zh": "酸蚀炽熔胸甲",
+    "vi": "Acid Blazing Chestplate"
+  },
+  "subtitles.sandstone_golem_hurt": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "advancements.blood_is_fuel_hell_is_full.descr": {
+    "en": "Feeds the Crimson Armor with blood",
+    "zh": "Feeds the Crimson Armor with blood",
+    "vi": "Feeds the Crimson Armor with blood"
+  },
+  "item.dungeons_and_combat.igenous_molten_shield": {
+    "en": "Igenous Molten Shield",
+    "zh": "Igenous Molten Shield",
+    "vi": "Igenous Molten Shield"
+  },
+  "subtitles.dagger_fire_swing": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "item.dungeons_and_combat.lady_blaze_spawn_egg": {
+    "en": "Blazing Lady Spawn Egg",
+    "zh": "Lady Blaze Spawn Egg",
+    "vi": "Blazing Lady Spawn Egg"
+  },
+  "advancements.is_this_my_size.title": {
+    "en": "Is This My Size?",
+    "zh": "Is This My Size?",
+    "vi": "Is This My Size?"
+  },
+  "block.dungeons_and_combat.molten_bone_block": {
+    "en": "Molten Bone Block",
+    "zh": "Molten Bone Block",
+    "vi": "Molten Bone Block"
+  },
+  "item.dungeons_and_combat.bounty_hunter_helmet": {
+    "en": "Bounty Hunter Helmet",
+    "zh": "Bounty Hunter Helmet",
+    "vi": "Bounty Hunter Helmet"
+  },
+  "item.dungeons_and_combat.bloodywarden_helmet": {
+    "en": "§cBloodywarden Hat",
+    "zh": "§cBloodywarden Hat",
+    "vi": "§cBloodywarden Hat"
+  },
+  "item.dungeons_and_combat.bronze_helmet": {
+    "en": "Bronze Helmet",
+    "zh": "Bronze Helmet",
+    "vi": "Bronze Helmet"
+  },
+  "advancements.the_bounty_hunter.title": {
+    "en": "The Bounty Hunter",
+    "zh": "The Bounty Hunter",
+    "vi": "The Bounty Hunter"
+  },
+  "gui.dungeons_and_combat.exlied_class_gui.label_additional_damage": {
+    "en": "additional damage",
+    "zh": "additional damage",
+    "vi": "additional damage"
+  },
+  "subtitles.acid_in_the_ground": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "effect.dungeons_and_combat.ernos_necklace": {
+    "en": "Ernos Necklace",
+    "zh": "Ernos Necklace",
+    "vi": "Ernos Necklace"
+  },
+  "item.dungeons_and_combat.ghoul_spawn_egg": {
+    "en": "Ghoul Spawn Egg",
+    "zh": "Ghoul Spawn Egg",
+    "vi": "Ghoul Spawn Egg"
+  },
+  "item.dungeons_and_combat.steel_wolf_greatsword": {
+    "en": "Steel Wolf Greatsword",
+    "zh": "Steel Wolf Greatsword",
+    "vi": "Steel Wolf Greatsword"
+  },
+  "gui.dungeons_and_combat.vagabond_class_gui.label_light": {
+    "en": "Light",
+    "zh": "Light",
+    "vi": "Light"
+  },
+  "item.dungeons_and_combat.horuso_spawn_egg": {
+    "en": "Horuso Spawn Egg",
+    "zh": "Horuso Spawn Egg",
+    "vi": "Horuso Spawn Egg"
+  },
+  "item.dungeons_and_combat.weakness_despawn_spawn_egg": {
+    "en": "Weakness Spawn Egg",
+    "zh": "Weakness Spawn Egg",
+    "vi": "Weakness Spawn Egg"
+  },
+  "subtitles.greatsword_ice_swing": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "item.dungeons_and_combat.processed_antidote": {
+    "en": "Processed Antidote",
+    "zh": "Processed Antidote",
+    "vi": "Processed Antidote"
+  },
+  "item.dungeons_and_combat.deserter_armor_helmet": {
+    "en": "Deserter Helmet",
+    "zh": "Deserter Helmet",
+    "vi": "Deserter Helmet"
+  },
+  "item.dungeons_and_combat.pyro_knight_spawn_egg": {
+    "en": "Pyro Knight Spawn Egg",
+    "zh": "Pyro Knight Spawn Egg",
+    "vi": "Pyro Knight Spawn Egg"
+  },
+  "gui.dungeons_and_combat.bounty_hunter_class_gui.label_health": {
+    "en": "Health",
+    "zh": "Health",
+    "vi": "Health"
+  },
+  "gui.dungeons_and_combat.forgotten_knight_class_gui.label_you_will_get_resistance_ii": {
+    "en": "you will get ",
+    "zh": "you will get ",
+    "vi": "you will get "
+  },
+  "item.dungeons_and_combat.bleesed_gold_axe": {
+    "en": "Blessed Gold Twin Blade",
+    "zh": "Blessed Gold Twin Blade",
+    "vi": "Blessed Gold Twin Blade"
+  },
+  "item.dungeons_and_combat.heavy_hammer": {
+    "en": "Heavy Hammer",
+    "zh": "Heavy Hammer",
+    "vi": "Heavy Hammer"
+  },
+  "subtitles.high_priest_death": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "gui.dungeons_and_combat.forgotten_knight_class_gui.label_light": {
+    "en": "Light",
+    "zh": "Light",
+    "vi": "Light"
+  },
+  "block.dungeons_and_combat.desolate_dirt": {
+    "en": "Desolate Dirt",
+    "zh": "Desolate Dirt",
+    "vi": "Desolate Dirt"
+  },
+  "block.dungeons_and_combat.bronze_lamp": {
+    "en": "Bronze Lamp",
+    "zh": "Bronze Lamp",
+    "vi": "Bronze Lamp"
+  },
+  "gui.dungeons_and_combat.oni_slayer_class_gui.button_choose": {
+    "en": "Choose",
+    "zh": "Choose",
+    "vi": "Choose"
+  },
+  "item.dungeons_and_combat.dragon_lance_fire": {
+    "en": "Flamed Dragon Bone Lance",
+    "zh": "Flamed Dragon Bone Lance",
+    "vi": "Flamed Dragon Bone Lance"
+  },
+  "gui.dungeons_and_combat.oni_slayer_class_gui.label_health": {
+    "en": "Health",
+    "zh": "Health",
+    "vi": "Health"
+  },
+  "subtitles.dagger_lightning_swing": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "block.dungeons_and_combat.cobblestone_brick_mossy": {
+    "en": "Cobblestone Bricks Mossy",
+    "zh": "Cobblestone Bricks Mossy",
+    "vi": "Cobblestone Bricks Mossy"
+  },
+  "item.dungeons_and_combat.bloodymancer_helmet": {
+    "en": "Bloodymancer Hood",
+    "zh": "Bloodymancer Hood",
+    "vi": "Bloodymancer Hood"
+  },
+  "item.dungeons_and_combat.blessed_gold_hoe": {
+    "en": "§eBlessed Gold Hoe",
+    "zh": "§eBlessed Gold Hoe",
+    "vi": "§eBlessed Gold Hoe"
+  },
+  "item.dungeons_and_combat.barros_luco": {
+    "en": "Barros Luco",
+    "zh": "Barros Luco",
+    "vi": "Barros Luco"
+  },
+  "gui.dungeons_and_combat.bounty_hunter_class_gui.button_empty": {
+    "en": ">",
+    "zh": ">",
+    "vi": ">"
+  },
+  "item.dungeons_and_combat.fairy_wings": {
+    "en": "Fairy Wings",
+    "zh": "Fairy Wings",
+    "vi": "Fairy Wings"
+  },
+  "item.dungeons_and_combat.corroding_flame": {
+    "en": "Corroding Flame Scepter",
+    "zh": "Corroding Flame Scepter",
+    "vi": "Corroding Flame Scepter"
+  },
+  "item.dungeons_and_combat.blessed_bandages": {
+    "en": "Blessed Bandages",
+    "zh": "Blessed Bandages",
+    "vi": "Blessed Bandages"
+  },
+  "item.dungeons_and_combat.electric_dragon_chestplate": {
+    "en": "Electric Dragon Chestplate",
+    "zh": "Electric Dragon Chestplate",
+    "vi": "Electric Dragon Chestplate"
+  },
+  "item.dungeons_and_combat.wooden_mace": {
+    "en": "Wooden Club",
+    "zh": "Wooden Club",
+    "vi": "Wooden Club"
+  },
+  "block.dungeons_and_combat.raw_crimson_block": {
+    "en": "Raw Crimson Block",
+    "zh": "Raw Crimson Block",
+    "vi": "Raw Crimson Block"
+  },
+  "effect.dungeons_and_combat.toxic_edge": {
+    "en": "Toxic Edge",
+    "zh": "Toxic Edge",
+    "vi": "Toxic Edge"
+  },
+  "subtitles.kamath_great_slam": {
+    "en": "Ultimate attack of Kamath is coming",
+    "zh": "Ultimate attack of Kamath is coming",
+    "vi": "Ultimate attack of Kamath is coming"
+  },
+  "item.dungeons_and_combat.deserter_armor_chestplate": {
+    "en": "Deserter Chestplate",
+    "zh": "Deserter Chestplate",
+    "vi": "Deserter Chestplate"
+  },
+  "subtitles.kamath_stab": {
+    "en": "Kamath stabs",
+    "zh": "Kamath stabs",
+    "vi": "Kamath stabs"
+  },
+  "advancements.the_vagabond.descr": {
+    "en": "Your are not special",
+    "zh": "Your are not special",
+    "vi": "Your are not special"
+  },
+  "gui.dungeons_and_combat.oni_slayer_class_gui.label_forgotten_knight": {
+    "en": "Oni Slayer",
+    "zh": "Oni Slayer",
+    "vi": "Oni Slayer"
+  },
+  "item.dungeons_and_combat.enchanted_fairy_dust_apple": {
+    "en": "Enchanted Fairy Dust Apple",
+    "zh": "Enchanted Fairy Dust Apple",
+    "vi": "Enchanted Fairy Dust Apple"
+  },
+  "item.dungeons_and_combat.molten_blazing_fists": {
+    "en": "§6Molten Blazing Fist",
+    "zh": "§6Molten Blazing Fist",
+    "vi": "§6Molten Blazing Fist"
+  },
+  "item.dungeons_and_combat.golden_glaive": {
+    "en": "Golden Glaive",
+    "zh": "Golden Glaive",
+    "vi": "Golden Glaive"
+  },
+  "item.dungeons_and_combat.sanguine_scepter": {
+    "en": "§cSanguine Scepter",
+    "zh": "§cSanguine Scepter",
+    "vi": "§cSanguine Scepter"
+  },
+  "gui.dungeons_and_combat.vagabond_class_gui.label_none": {
+    "en": "None",
+    "zh": "None",
+    "vi": "None"
+  },
+  "subtitles.skull_armored_hurt": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "entity.dungeons_and_combat.prisoner_skull": {
+    "en": "Prisoner Skull",
+    "zh": "Prisoner Skull",
+    "vi": "Prisoner Skull"
+  },
+  "item.dungeons_and_combat.ebony_hoe": {
+    "en": "§8Ebony Hoe",
+    "zh": "§8Ebony Hoe",
+    "vi": "§8Ebony Hoe"
+  },
+  "item.dungeons_and_combat.blessed_amulet": {
+    "en": "Blessed Amulet",
+    "zh": "祝福项链",
+    "vi": "Blessed Amulet"
+  },
+  "item.dungeons_and_combat.mortar_and_pestle_of_blood": {
+    "en": "Mortar And Pestle Of Blood",
+    "zh": "Mortar And Pestle Of Blood",
+    "vi": "Mortar And Pestle Of Blood"
+  },
+  "item.dungeons_and_combat.molten_dark_steel_hoe": {
+    "en": "Molten Dark Steel Hoe",
+    "zh": "Molten Dark Steel Hoe",
+    "vi": "Molten Dark Steel Hoe"
+  },
+  "item.dungeons_and_combat.dragonsteel_ice_katana": {
+    "en": "Ice Dragonsteel Katana",
+    "zh": "Ice Dragonsteel Katana",
+    "vi": "Ice Dragonsteel Katana"
+  },
+  "item.dungeons_and_combat.scorpion_tail": {
+    "en": "Scorpion Tail",
+    "zh": "Scorpion Tail",
+    "vi": "Scorpion Tail"
+  },
+  "block.dungeons_and_combat.igneous_block": {
+    "en": "Igneous Block",
+    "zh": "Igneous Block",
+    "vi": "Igneous Block"
+  },
+  "advancements.the_rogue.title": {
+    "en": "The Rogue",
+    "zh": "The Rogue",
+    "vi": "The Rogue"
+  },
+  "gui.dungeons_and_combat.exlied_class_gui.label_forgotten_knight": {
+    "en": "Exiled",
+    "zh": "Exiled",
+    "vi": "Exiled"
+  },
+  "gui.dungeons_and_combat.exlied_class_gui.label_395": {
+    "en": "4",
+    "zh": "4",
+    "vi": "4"
+  },
+  "item.dungeons_and_combat.blessed_gold_leggings": {
+    "en": "§eBlessed Gold Leggings",
+    "zh": "§e圣金护腿",
+    "vi": "§eBlessed Gold Leggings"
+  },
+  "subtitles.flower_fairy_death": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "item.minecraft.potion.effect.haste_ii": {
+    "en": "Potion of Haste II",
+    "zh": "Potion of Haste II",
+    "vi": "Potion of Haste II"
+  },
+  "item.dungeons_and_combat.broken_sword": {
+    "en": "Broken Sword",
+    "zh": "Broken Sword",
+    "vi": "Broken Sword"
+  },
+  "gui.dungeons_and_combat.oni_slayer_class_gui.button_empty": {
+    "en": ">",
+    "zh": ">",
+    "vi": ">"
+  },
+  "item.minecraft.splash_potion.effect.haste_ii": {
+    "en": "Splash Potion of Haste II",
+    "zh": "Splash Potion of Haste II",
+    "vi": "Splash Potion of Haste II"
+  },
+  "item.dungeons_and_combat.molten_cryolite_chestplate": {
+    "en": "Molten Cryolite Chestplate",
+    "zh": "熔晶胸甲",
+    "vi": "Molten Cryolite Chestplate"
+  },
+  "subtitles.skull_hurt": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "item.dungeons_and_combat.bloody_cultist_spawn_egg": {
+    "en": "Bloody Cultist Spawn Egg",
+    "zh": "Bloody Cultist Spawn Egg",
+    "vi": "Bloody Cultist Spawn Egg"
+  },
+  "effect.dungeons_and_combat.flame_grant_me_strength": {
+    "en": "Flame Grant Me Strength",
+    "zh": "Flame Grant Me Strength",
+    "vi": "Flame Grant Me Strength"
+  },
+  "item.dungeons_and_combat.red_dragon_helmet": {
+    "en": "Red Dragon Helmet",
+    "zh": "Red Dragon Helmet",
+    "vi": "Red Dragon Helmet"
+  },
+  "effect.dungeons_and_combat.bronze_barbarian_helmet_bonus": {
+    "en": "Bronze Barbarian Helmet Bonus",
+    "zh": "Bronze Barbarian Helmet Bonus",
+    "vi": "Bronze Barbarian Helmet Bonus"
+  },
+  "item.dungeons_and_combat.silver_shield": {
+    "en": "Silver Shield",
+    "zh": "Silver Shield",
+    "vi": "Silver Shield"
+  },
+  "effect.dungeons_and_combat.burning_edge": {
+    "en": "Burning Edge",
+    "zh": "Burning Edge",
+    "vi": "Burning Edge"
+  },
+  "item.dungeons_and_combat.sandstone_boots": {
+    "en": "Sandstone Boots",
+    "zh": "Sandstone Boots",
+    "vi": "Sandstone Boots"
+  },
+  "item.dungeons_and_combat.dragonsteel_lightning_greatsword": {
+    "en": "Lightning Dragonsteel Greatsword",
+    "zh": "Lightning Dragonsteel Greatsword",
+    "vi": "Lightning Dragonsteel Greatsword"
+  },
+  "item.dungeons_and_combat.blessed_gold_shield": {
+    "en": "Blessed Gold Shield",
+    "zh": "Blessed Gold Shield",
+    "vi": "Blessed Gold Shield"
+  },
+  "item.dungeons_and_combat.crimson_chestplate": {
+    "en": "§cCrimson Chestplate",
+    "zh": "§c猩红胸甲",
+    "vi": "§cCrimson Chestplate"
+  },
+  "gui.dungeons_and_combat.forgotten_knight_class_gui.label_01": {
+    "en": "0",
+    "zh": "0",
+    "vi": "0"
+  },
+  "item.dungeons_and_combat.cryolite_greatsword": {
+    "en": "Cryolite Greatsword",
+    "zh": "Cryolite Greatsword",
+    "vi": "Cryolite Greatsword"
+  },
+  "item.dungeons_and_combat.golden_leggings": {
+    "en": "Golden Leggings",
+    "zh": "Golden Leggings",
+    "vi": "Golden Leggings"
+  },
+  "gui.dungeons_and_combat.oni_slayer_class_gui.label_deal_damage_when_the_effect_ends": {
+    "en": "deal damage when ",
+    "zh": "deal damage when ",
+    "vi": "deal damage when "
+  },
+  "item.dungeons_and_combat.titan_helmet": {
+    "en": "Titan Helmet",
+    "zh": "Titan Helmet",
+    "vi": "Titan Helmet"
+  },
+  "item.dungeons_and_combat.old_axe": {
+    "en": "Old Axe",
+    "zh": "Old Axe",
+    "vi": "Old Axe"
+  },
+  "gui.dungeons_and_combat.oni_slayer_class_gui.label_light": {
+    "en": "Light",
+    "zh": "Light",
+    "vi": "Light"
+  },
+  "item.dungeons_and_combat.sandstorm_sword": {
+    "en": "Sandstorm Greatsword",
+    "zh": "Sandstorm Greatsword",
+    "vi": "Sandstorm Greatsword"
+  },
+  "item.dungeons_and_combat.molten_cryolite_helmet": {
+    "en": "Molten Cryolite Helmet",
+    "zh": "熔晶头盔",
+    "vi": "Molten Cryolite Helmet"
+  },
+  "item.dungeons_and_combat.dragonium_boots": {
+    "en": "Dragonium Boots",
+    "zh": "Dragonium Boots",
+    "vi": "Dragonium Boots"
+  },
+  "advancements.dark_purposes.descr": {
+    "en": "Get a Chalice",
+    "zh": "Get a Chalice",
+    "vi": "Get a Chalice"
+  },
+  "gui.dungeons_and_combat.titan_class_gui.label_negative_combat_effects": {
+    "en": "negative combat ",
+    "zh": "negative combat ",
+    "vi": "negative combat "
+  },
+  "item.minecraft.splash_potion.effect.long_frozen_resistance": {
+    "en": "Splash Potion of Frozen Resistance",
+    "zh": "Splash Potion of Frozen Resistance",
+    "vi": "Splash Potion of Frozen Resistance"
+  },
+  "block.dungeons_and_combat.spike_trap": {
+    "en": "Spike Trap",
+    "zh": "Spike Trap",
+    "vi": "Spike Trap"
+  },
+  "entity.dungeons_and_combat.skull_mimic": {
+    "en": "Skull Mimic",
+    "zh": "Skull Mimic",
+    "vi": "Skull Mimic"
+  },
+  "advancements.the_exiled.descr": {
+    "en": "The guilt consumes",
+    "zh": "The guilt consumes",
+    "vi": "The guilt consumes"
+  },
+  "item.dungeons_and_combat.royal_skull_spawn_egg": {
+    "en": "Royal Skull Spawn Egg",
+    "zh": "Royal Skull Spawn Egg",
+    "vi": "Royal Skull Spawn Egg"
+  },
+  "advancements.old_friends.title": {
+    "en": "Old Friends",
+    "zh": "Old Friends",
+    "vi": "Old Friends"
+  },
+  "advancements.no_soy_dendy.descr": {
+    "en": "Thanks to Dendy for cooperating on the mod",
+    "zh": "Thanks to Dendy for cooperating on the mod",
+    "vi": "Thanks to Dendy for cooperating on the mod"
+  },
+  "entity.dungeons_and_combat.lady_blaze": {
+    "en": "Blazing Lady",
+    "zh": "Lady Blaze",
+    "vi": "Blazing Lady"
+  },
+  "gui.dungeons_and_combat.rogue_class_gui.button_empty1": {
+    "en": "<",
+    "zh": "<",
+    "vi": "<"
+  },
+  "item.dungeons_and_combat.long_katana": {
+    "en": "Oni Slayer Katana",
+    "zh": "Oni Slayer Katana",
+    "vi": "Oni Slayer Katana"
+  },
+  "gui.dungeons_and_combat.vagabond_class_gui.label_medium": {
+    "en": "Medium",
+    "zh": "Medium",
+    "vi": "Medium"
+  },
+  "item.dungeons_and_combat.crimson_pickaxe": {
+    "en": "Crimson Pickaxe",
+    "zh": "Crimson Pickaxe",
+    "vi": "Crimson Pickaxe"
+  },
+  "item.dungeons_and_combat.sandstone_shovel": {
+    "en": "Sandstone Shovel",
+    "zh": "Sandstone Shovel",
+    "vi": "Sandstone Shovel"
+  },
+  "advancements.now_you_can_rest.descr": {
+    "en": "Defeat Kamath and obtain his Essence",
+    "zh": "Defeat Kamath and obtain his Essence",
+    "vi": "Defeat Kamath and obtain his Essence"
+  },
+  "item.dungeons_and_combat.igneous": {
+    "en": "Igneous",
+    "zh": "Igneous",
+    "vi": "Igneous"
+  },
+  "gui.dungeons_and_combat.rogue_class_gui.label_invisible": {
+    "en": "invisible",
+    "zh": "invisible",
+    "vi": "invisible"
+  },
+  "gui.dungeons_and_combat.exlied_class_gui.label_looting": {
+    "en": "Looting",
+    "zh": "Looting",
+    "vi": "Looting"
+  },
+  "subtitles.fairy_spell": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "gui.dungeons_and_combat.exlied_class_gui.label_magic_attacks_have_10_additiona": {
+    "en": "Magic attacks ",
+    "zh": "Magic attacks ",
+    "vi": "Magic attacks "
+  },
+  "item.dungeons_and_combat.green_dragon_boots": {
+    "en": "Emerald Dragon Boots",
+    "zh": "Green Dragon Boots",
+    "vi": "Emerald Dragon Boots"
+  },
+  "block.dungeons_and_combat.igneous_blackstone_brick_stairs": {
+    "en": "Igneous Blackstone Brick Stairs",
+    "zh": "Igneous Blackstone Brick Stairs",
+    "vi": "Igneous Blackstone Brick Stairs"
+  },
+  "gui.dungeons_and_combat.titan_class_gui.label_395": {
+    "en": "3,85",
+    "zh": "3,85",
+    "vi": "3,85"
+  },
+  "gui.dungeons_and_combat.forgotten_knight_class_gui.label_20": {
+    "en": "20",
+    "zh": "20",
+    "vi": "20"
+  },
+  "item.dungeons_and_combat.fire_dragonsteel_leggings": {
+    "en": "Fire Dragonsteel Leggings",
+    "zh": "Fire Dragonsteel Leggings",
+    "vi": "Fire Dragonsteel Leggings"
+  },
+  "advancements.i_dont_think_you_need_it.descr": {
+    "en": "Obtain the fang of an Ammit",
+    "zh": "Obtain the fang of an Ammit",
+    "vi": "Obtain the fang of an Ammit"
+  },
+  "block.dungeons_and_combat.bone_planks_fence": {
+    "en": "Bone Planks Fence",
+    "zh": "Bone Planks Fence",
+    "vi": "Bone Planks Fence"
+  },
+  "item.dungeons_and_combat.blacksmith_chestplate": {
+    "en": "Blacksmith Apron",
+    "zh": "初始胸甲δ",
+    "vi": "Blacksmith Apron"
+  },
+  "item.dungeons_and_combat.black_dragon_helmet": {
+    "en": "Grey Dragon Helmet",
+    "zh": "Grey Dragon Helmet",
+    "vi": "Grey Dragon Helmet"
+  },
+  "advancements.the_cursed_soul.descr": {
+    "en": "Obtain a Cursed Soul",
+    "zh": "Obtain a Cursed Soul",
+    "vi": "Obtain a Cursed Soul"
+  },
+  "item.dungeons_and_combat.oni_slayer_leggings": {
+    "en": "Oni Slayer Leggings",
+    "zh": "Oni Slayer Leggings",
+    "vi": "Oni Slayer Leggings"
+  },
+  "item.dungeons_and_combat.the_gravedigger_sword": {
+    "en": "The Gravedigger",
+    "zh": "The Gravedigger",
+    "vi": "The Gravedigger"
+  },
+  "effect.dungeons_and_combat.bleeding": {
+    "en": "Bleeding",
+    "zh": "Bleeding",
+    "vi": "Bleeding"
+  },
+  "item.dungeons_and_combat.titanium_shovel": {
+    "en": "Titanium Shovel",
+    "zh": "Titanium Shovel",
+    "vi": "Titanium Shovel"
+  },
+  "advancements.the_titan.descr": {
+    "en": "You sacrificed yourself to protect them, however...",
+    "zh": "You sacrificed yourself to protect them, however...",
+    "vi": "You sacrificed yourself to protect them, however..."
+  },
+  "item.dungeons_and_combat.high_priest_spawn_egg": {
+    "en": "High Priest Spawn Egg",
+    "zh": "High Priest Spawn Egg",
+    "vi": "High Priest Spawn Egg"
+  },
+  "gui.dungeons_and_combat.forgotten_knight_class_gui.label_14": {
+    "en": "1,4",
+    "zh": "1,4",
+    "vi": "1,4"
+  },
+  "item.dungeons_and_combat.blazing_core": {
+    "en": "Blazing Core",
+    "zh": "Blazing Core",
+    "vi": "Blazing Core"
+  },
+  "effect.dungeons_and_combat.ring_of_life_effect": {
+    "en": "Ring Of Life Effect",
+    "zh": "Ring Of Life Effect",
+    "vi": "Ring Of Life Effect"
+  },
+  "item.minecraft.potion.effect.long_frozen_resistance": {
+    "en": "Potion of Frozen Resistance",
+    "zh": "Potion of Frozen Resistance",
+    "vi": "Potion of Frozen Resistance"
+  },
+  "item.dungeons_and_combat.chained_spawn_egg": {
+    "en": "Code Spawn Egg",
+    "zh": "Code Spawn Egg",
+    "vi": "Code Spawn Egg"
+  },
+  "item.dungeons_and_combat.cursed_molten_blazing_leggings": {
+    "en": "Cursed Blazing Leggings",
+    "zh": "诅咒炽熔护腿",
+    "vi": "Cursed Blazing Leggings"
+  },
+  "block.dungeons_and_combat.cobblestone_brick": {
+    "en": "Cobblestone Bricks",
+    "zh": "Cobblestone Bricks",
+    "vi": "Cobblestone Bricks"
+  },
+  "item.dungeons_and_combat.blessed_gold_ingot": {
+    "en": "Blessed Gold Ingot",
+    "zh": "祝福金锭",
+    "vi": "Blessed Gold Ingot"
+  },
+  "gui.dungeons_and_combat.bounty_hunter_class_gui.label_forgotten_knight": {
+    "en": "Bounty Hunter",
+    "zh": "Bounty Hunter",
+    "vi": "Bounty Hunter"
+  },
+  "item.dungeons_and_combat.forgotten_knight_boots": {
+    "en": "Forgotten Knight Boots",
+    "zh": "Forgotten Knight Boots",
+    "vi": "Forgotten Knight Boots"
+  },
+  "item.dungeons_and_combat.silver_spear": {
+    "en": "Silver Spear",
+    "zh": "Silver Spear",
+    "vi": "Silver Spear"
+  },
+  "gui.dungeons_and_combat.forgotten_knight_class_gui.label_395": {
+    "en": "4",
+    "zh": "4",
+    "vi": "4"
+  },
+  "item.dungeons_and_combat.sandstone_fist": {
+    "en": "Sandstone Fist",
+    "zh": "Sandstone Fist",
+    "vi": "Sandstone Fist"
+  },
+  "item.minecraft.tipped_arrow.effect.levitation": {
+    "en": "Arrow of Levitation",
+    "zh": "Arrow of Levitation",
+    "vi": "Arrow of Levitation"
+  },
+  "block.dungeons_and_combat.skull_head": {
+    "en": "Skull Head",
+    "zh": "Skull Head",
+    "vi": "Skull Head"
+  },
+  "item.dungeons_and_combat.kamath_armor_boots": {
+    "en": "Kamath Boots",
+    "zh": "卡玛斯靴子",
+    "vi": "Kamath Boots"
+  },
+  "item.dungeons_and_combat.steel_nugget": {
+    "en": "Steel Nugget",
+    "zh": "Steel Nugget",
+    "vi": "Steel Nugget"
+  },
+  "gui.dungeons_and_combat.forgotten_knight_class_gui.label_health": {
+    "en": "Health",
+    "zh": "Health",
+    "vi": "Health"
+  },
+  "block.dungeons_and_combat.elden_oak_planks_stairs": {
+    "en": "Elden Oak Planks Stairs",
+    "zh": "Elden Oak Planks Stairs",
+    "vi": "Elden Oak Planks Stairs"
+  },
+  "item_group.dungeons_and_combat.dungeons_and_combat_items": {
+    "en": "Dungeons And Combat Items & Blocks",
+    "zh": "Dungeons And Combat",
+    "vi": "Dungeons And Combat"
+  },
+  "item.dungeons_and_combat.monarch_chestplate": {
+    "en": "§cMonarch Chestplate",
+    "zh": "§c君主胸甲",
+    "vi": "§cMonarch Chestplate"
+  },
+  "item.dungeons_and_combat.blessed_dust": {
+    "en": "Blessed Dust",
+    "zh": "Blessed Dust",
+    "vi": "Blessed Dust"
+  },
+  "item_group.dungeons_and_combat.dungeons_and_combat_equipment": {
+    "en": "Dungeons And Combat Equipment",
+    "zh": "Dungeons And Combat Equipment",
+    "vi": "Dungeons And Combat Equipment"
+  },
+  "block.dungeons_and_combat.crimson_tiles_slab": {
+    "en": "Crimson Tiles Slab",
+    "zh": "Crimson Tiles Slab",
+    "vi": "Crimson Tiles Slab"
+  },
+  "item.dungeons_and_combat.oath_sword": {
+    "en": "Oath",
+    "zh": "誓约",
+    "vi": "Oath"
+  },
+  "item.dungeons_and_combat.crimson_boots": {
+    "en": "§cCrimson Boots",
+    "zh": "§c猩红靴子",
+    "vi": "§cCrimson Boots"
+  },
+  "item.minecraft.tipped_arrow.effect.gigant": {
+    "en": "Arrow of Gigant",
+    "zh": "Arrow of Gigant",
+    "vi": "Arrow of Gigant"
+  },
+  "item.dungeons_and_combat.flaming_gloves": {
+    "en": "Flaming Gloves",
+    "zh": "Flaming Gloves",
+    "vi": "Flaming Gloves"
+  },
+  "block.dungeons_and_combat.bronze_brick_stairs": {
+    "en": "Bronze Bricks Stairs",
+    "zh": "Bronze Bricks Stairs",
+    "vi": "Bronze Bricks Stairs"
+  },
+  "block.dungeons_and_combat.bronze_brick": {
+    "en": "Bronze Bricks",
+    "zh": "Bronze Bricks",
+    "vi": "Bronze Bricks"
+  },
+  "effect.dungeons_and_combat.burning_aura": {
+    "en": "Burning Aura",
+    "zh": "Burning Aura",
+    "vi": "Burning Aura"
+  },
+  "item.dungeons_and_combat.blacksmith_hammer": {
+    "en": "Blacksmith Hammer",
+    "zh": "Blacksmith Hammer",
+    "vi": "Blacksmith Hammer"
+  },
+  "block.dungeons_and_combat.crimson_brick_wall": {
+    "en": "Crimson Bricks Wall",
+    "zh": "Crimson Bricks Wall",
+    "vi": "Crimson Bricks Wall"
+  },
+  "item.dungeons_and_combat.steel_axe": {
+    "en": "Steel Axe",
+    "zh": "Steel Axe",
+    "vi": "Steel Axe"
+  },
+  "item.dungeons_and_combat.exiled_helmet": {
+    "en": "Exiled Hat",
+    "zh": "Exiled Hat",
+    "vi": "Exiled Hat"
+  },
+  "gui.dungeons_and_combat.bounty_hunter_class_gui.label_none": {
+    "en": "At half health ",
+    "zh": "At half health ",
+    "vi": "At half health "
+  },
+  "item.dungeons_and_combat.bear_helmet": {
+    "en": "Bear Hood",
+    "zh": "Bear Hood",
+    "vi": "Bear Hood"
+  },
+  "gui.dungeons_and_combat.oni_slayer_class_gui.label_looting": {
+    "en": "Looting",
+    "zh": "Looting",
+    "vi": "Looting"
+  },
+  "item.dungeons_and_combat.electric_dragon_leggings": {
+    "en": "Electric Dragon Leggings",
+    "zh": "Electric Dragon Leggings",
+    "vi": "Electric Dragon Leggings"
+  },
+  "effect.dungeons_and_combat.processed_antidote_shield": {
+    "en": "Processed Antidote Shield",
+    "zh": "Processed Antidote Shield",
+    "vi": "Processed Antidote Shield"
+  },
+  "gui.dungeons_and_combat.rogue_class_gui.label_0": {
+    "en": "0",
+    "zh": "0",
+    "vi": "0"
+  },
+  "item.dungeons_and_combat.nullfire_amulet": {
+    "en": "Nullfire Amulet",
+    "zh": "Nullfire Amulet",
+    "vi": "Nullfire Amulet"
+  },
+  "item.dungeons_and_combat.dark_metal_helmet": {
+    "en": "§6Dark Metal Helmet",
+    "zh": "§6Dark Metal Helmet",
+    "vi": "§6Dark Metal Helmet"
+  },
+  "item.dungeons_and_combat.molten_cryolite_lance": {
+    "en": "Cryolite Lance",
+    "zh": "Cryolite Lance",
+    "vi": "Cryolite Lance"
+  },
+  "advancements.the_rogue.descr": {
+    "en": "You are the most wanted liar",
+    "zh": "You are the most wanted liar",
+    "vi": "You are the most wanted liar"
+  },
+  "item.dungeons_and_combat.saw_cleaver_glaive": {
+    "en": "Saw Cleaver",
+    "zh": "Saw Cleaver",
+    "vi": "Saw Cleaver"
+  },
+  "gui.dungeons_and_combat.rogue_class_gui.label_1": {
+    "en": "1.2",
+    "zh": "1.2",
+    "vi": "1.2"
+  },
+  "gui.dungeons_and_combat.rogue_class_gui.label_2": {
+    "en": "0",
+    "zh": "0",
+    "vi": "0"
+  },
+  "item.dungeons_and_combat.hunter_boots": {
+    "en": "Hunter Boots",
+    "zh": "Hunter Boots",
+    "vi": "Hunter Boots"
+  },
+  "item.dungeons_and_combat.crimson_leggings": {
+    "en": "§cCrimson Leggings",
+    "zh": "§c猩红护腿",
+    "vi": "§cCrimson Leggings"
+  },
+  "gui.dungeons_and_combat.exlied_class_gui.button_empty1": {
+    "en": "<",
+    "zh": "<",
+    "vi": "<"
+  },
+  "advancements.i_dont_think_you_need_it.title": {
+    "en": "I Dont Think You Need It",
+    "zh": "I Dont Think You Need It",
+    "vi": "I Dont Think You Need It"
+  },
+  "block.dungeons_and_combat.cobblestone_brick_slab": {
+    "en": "Cobblestone Bricks Slab",
+    "zh": "Cobblestone Bricks Slab",
+    "vi": "Cobblestone Bricks Slab"
+  },
+  "gui.dungeons_and_combat.vagabond_class_gui.label_1": {
+    "en": "1",
+    "zh": "1",
+    "vi": "1"
+  },
+  "item.dungeons_and_combat.dark_metal_chestplate": {
+    "en": "§6Dark Metal Chestplate",
+    "zh": "§6Dark Metal Chestplate",
+    "vi": "§6Dark Metal Chestplate"
+  },
+  "gui.dungeons_and_combat.vagabond_class_gui.label_2": {
+    "en": "0",
+    "zh": "0",
+    "vi": "0"
+  },
+  "effect.dungeons_and_combat.wither_edge": {
+    "en": "Wither Edge",
+    "zh": "Wither Edge",
+    "vi": "Wither Edge"
+  },
+  "item.minecraft.tipped_arrow.effect.long_haste_ii": {
+    "en": "Arrow of Haste II",
+    "zh": "Arrow of Haste II",
+    "vi": "Arrow of Haste II"
+  },
+  "gui.dungeons_and_combat.vagabond_class_gui.label_0": {
+    "en": "0",
+    "zh": "0",
+    "vi": "0"
+  },
+  "item.dungeons_and_combat.klauen_necklace": {
+    "en": "Klauen Necklace",
+    "zh": "Klauen Necklace",
+    "vi": "Klauen Necklace"
+  },
+  "item.dungeons_and_combat.ceremonial_dagger": {
+    "en": "Ceremonial Dagger",
+    "zh": "Ceremonial Dagger",
+    "vi": "Ceremonial Dagger"
+  },
+  "gui.dungeons_and_combat.rogue_class_gui.label_passive": {
+    "en": "Passive",
+    "zh": "Passive",
+    "vi": "Passive"
+  },
+  "item.dungeons_and_combat.sandstone_axe_war": {
+    "en": "Sandstone Axe War",
+    "zh": "Sandstone Axe War",
+    "vi": "Sandstone Axe War"
+  },
+  "item.dungeons_and_combat.green_dragon_chestplate": {
+    "en": "Emerald Dragon Chestplate",
+    "zh": "Green Dragon Chestplate",
+    "vi": "Emerald Dragon Chestplate"
+  },
+  "item.dungeons_and_combat.bronze_ingot": {
+    "en": "Bronze Ingot",
+    "zh": "Bronze Ingot",
+    "vi": "Bronze Ingot"
+  },
+  "item.dungeons_and_combat.blessed_gold_axe_war": {
+    "en": "§eBlessed Gold Axe War",
+    "zh": "§eBlessed Gold Axe War",
+    "vi": "§eBlessed Gold Axe War"
+  },
+  "gui.dungeons_and_combat.bounty_hunter_class_gui.label_wield": {
+    "en": "Wield",
+    "zh": "Wield",
+    "vi": "Wield"
+  },
+  "gui.dungeons_and_combat.rogue_class_gui.label_forgotten_knight": {
+    "en": "Rogue",
+    "zh": "Rogue",
+    "vi": "Rogue"
+  },
+  "item.dungeons_and_combat.wolf_steel_chestplate": {
+    "en": "Wolf Steel Chestplate",
+    "zh": "狼骑士胸甲",
+    "vi": "Wolf Steel Chestplate"
+  },
+  "item.dungeons_and_combat.molten_dark_steel_greataxe": {
+    "en": "Molten Dark Steel Greataxe",
+    "zh": "Molten Dark Steel Greataxe",
+    "vi": "Molten Dark Steel Greataxe"
+  },
+  "gui.dungeons_and_combat.bounty_hunter_class_gui.label_light": {
+    "en": "Light",
+    "zh": "Light",
+    "vi": "Light"
+  },
+  "advancements.the_man_of_steel.title": {
+    "en": "The Man Of Steel",
+    "zh": "The Man Of Steel",
+    "vi": "The Man Of Steel"
+  },
+  "gui.dungeons_and_combat.oni_slayer_class_gui.label_2": {
+    "en": "0",
+    "zh": "0",
+    "vi": "0"
+  },
+  "item.dungeons_and_combat.copper_dragon_leggings": {
+    "en": "Copper Dragon Leggings",
+    "zh": "Copper Dragon Leggings",
+    "vi": "Copper Dragon Leggings"
+  },
+  "gui.dungeons_and_combat.titan_class_gui.label_none": {
+    "en": "Immune to ",
+    "zh": "Immune to ",
+    "vi": "Immune to "
+  },
+  "item.dungeons_and_combat.sandstone_golem_spawn_egg": {
+    "en": "Sandstone Golem Spawn Egg",
+    "zh": "Sandstone Golem Spawn Egg",
+    "vi": "Sandstone Golem Spawn Egg"
+  },
+  "block.dungeons_and_combat.skull_chest": {
+    "en": "Skull Chest",
+    "zh": "Skull Chest",
+    "vi": "Skull Chest"
+  },
+  "gui.dungeons_and_combat.bounty_hunter_class_gui.label_toughness": {
+    "en": "Toughness",
+    "zh": "Toughness",
+    "vi": "Toughness"
+  },
+  "item.dungeons_and_combat.amethyst_dragon_boots": {
+    "en": "Amethyst Dragon Boots",
+    "zh": "Amethyst Dragon Boots",
+    "vi": "Amethyst Dragon Boots"
+  },
+  "advancements.the_new_gravedigger.title": {
+    "en": "The New Gravedigger",
+    "zh": "The New Gravedigger",
+    "vi": "The New Gravedigger"
+  },
+  "item.minecraft.potion.effect.levitation": {
+    "en": "Potion of Levitation",
+    "zh": "Potion of Levitation",
+    "vi": "Potion of Levitation"
+  },
+  "item.dungeons_and_combat.dragon_dagger_lightning": {
+    "en": "Lightning Dragon Bone Dagger",
+    "zh": "Lightning Dragon Bone Dagger",
+    "vi": "Lightning Dragon Bone Dagger"
+  },
+  "advancements.the_oni_slayer.descr": {
+    "en": "Skill and power were not enough",
+    "zh": "Skill and power were not enough",
+    "vi": "Skill and power were not enough"
+  },
+  "item.dungeons_and_combat.blue_dragon_helmet": {
+    "en": "Blue Dragon Helmet",
+    "zh": "Blue Dragon Helmet",
+    "vi": "Blue Dragon Helmet"
+  },
+  "item.dungeons_and_combat.molten_dark_steel_axe_ii": {
+    "en": "Molten Dark Steel Greataxe",
+    "zh": "Molten Dark Steel Greataxe",
+    "vi": "Molten Dark Steel Greataxe"
+  },
+  "gui.dungeons_and_combat.forgotten_knight_class_gui.label_swing": {
+    "en": "Swing",
+    "zh": "Swing",
+    "vi": "Swing"
+  },
+  "item.dungeons_and_combat.heavy_shield": {
+    "en": "Heavy Shield",
+    "zh": "Heavy Shield",
+    "vi": "Heavy Shield"
+  },
+  "item.dungeons_and_combat.bloodymancer_cultist_spawn_egg": {
+    "en": "Bloodymancer Spawn Egg",
+    "zh": "Bloodymancer Spawn Egg",
+    "vi": "Bloodymancer Spawn Egg"
+  },
+  "subtitles.sunleia_hurt": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "item_group.dungeons_and_combat.dungeons_and_combat_mobs": {
+    "en": "Dungeons And Combat Mobs",
+    "zh": "Dungeons And Combat Mobs",
+    "vi": "Dungeons And Combat Mobs"
+  },
+  "item.dungeons_and_combat.iron_dagger": {
+    "en": "Iron Dagger",
+    "zh": "Iron Dagger",
+    "vi": "Iron Dagger"
+  },
+  "item.dungeons_and_combat.lightning_dragonsteel_helmet": {
+    "en": "Lightning Dragonsteel Helmet",
+    "zh": "Lightning Dragonsteel Helmet",
+    "vi": "Lightning Dragonsteel Helmet"
+  },
+  "item.dungeons_and_combat.cursed_blazing_shield": {
+    "en": "Cursed Blazing Shield",
+    "zh": "Cursed Blazing Shield",
+    "vi": "Cursed Blazing Shield"
+  },
+  "item.dungeons_and_combat.crimson_long_sword": {
+    "en": "§cCrimson Long Sword",
+    "zh": "§c猩红之刃",
+    "vi": "§cCrimson Long Sword"
+  },
+  "item.dungeons_and_combat.molten_smithing_template": {
+    "en": "Smithing Template",
+    "zh": "Smithing Template",
+    "vi": "Smithing Template"
+  },
+  "entity.dungeons_and_combat.ernos": {
+    "en": "Ernos",
+    "zh": "Ernos",
+    "vi": "Ernos"
+  },
+  "item.dungeons_and_combat.steel_greataxe": {
+    "en": "Steel Greataxe",
+    "zh": "Steel Greataxe",
+    "vi": "Steel Greataxe"
+  },
+  "item.dungeons_and_combat.scepter_of_compensation": {
+    "en": "Scepter Of Compensation",
+    "zh": "Scepter Of Compensation",
+    "vi": "Scepter Of Compensation"
+  },
+  "gui.dungeons_and_combat.forgotten_knight_class_gui.label_medium": {
+    "en": "Medium",
+    "zh": "Medium",
+    "vi": "Medium"
+  },
+  "entity.dungeons_and_combat.ammit": {
+    "en": "Ammit",
+    "zh": "Ammit",
+    "vi": "Ammit"
+  },
+  "item.dungeons_and_combat.ernos_fang": {
+    "en": "Ernos Fang",
+    "zh": "Ernos Fang",
+    "vi": "Ernos Fang"
+  },
+  "item.dungeons_and_combat.kamath_armor_chestplate": {
+    "en": "Kamath Chestplate",
+    "zh": "卡玛斯胸甲",
+    "vi": "Kamath Chestplate"
+  },
+  "block.dungeons_and_combat.titanium_block": {
+    "en": "Titanium Block",
+    "zh": "Titanium Block",
+    "vi": "Titanium Block"
+  },
+  "item.dungeons_and_combat.molten_knight_leggings": {
+    "en": "Molten Knight Leggings",
+    "zh": "Molten Knight Leggings",
+    "vi": "Molten Knight Leggings"
+  },
+  "item.dungeons_and_combat.copper_dragon_helmet": {
+    "en": "Copper Dragon Helmet",
+    "zh": "Copper Dragon Helmet",
+    "vi": "Copper Dragon Helmet"
+  },
+  "item.dungeons_and_combat.silver_pickaxe": {
+    "en": "Silver Pickaxe",
+    "zh": "Silver Pickaxe",
+    "vi": "Silver Pickaxe"
+  },
+  "advancements.dungeons_and_combat.descr": {
+    "en": "The dungeons await you",
+    "zh": "The dungeons await you",
+    "vi": "The dungeons await you"
+  },
+  "gui.dungeons_and_combat.exlied_class_gui.label_medium": {
+    "en": "Medium",
+    "zh": "Medium",
+    "vi": "Medium"
+  },
+  "gui.dungeons_and_combat.bounty_hunter_class_gui.label_strength": {
+    "en": "Strength",
+    "zh": "Strength",
+    "vi": "Strength"
+  },
+  "item.dungeons_and_combat.palehand_spawn_egg": {
+    "en": "Palehand Spawn Egg",
+    "zh": "Palehand Spawn Egg",
+    "vi": "Palehand Spawn Egg"
+  },
+  "gui.dungeons_and_combat.rogue_class_gui.label_heavy": {
+    "en": "Heavy",
+    "zh": "Heavy",
+    "vi": "Heavy"
+  },
+  "item.dungeons_and_combat.green_dragon_helmet": {
+    "en": "Emerald Dragon Helmet",
+    "zh": "Green Dragon Helmet",
+    "vi": "Emerald Dragon Helmet"
+  },
+  "item.dungeons_and_combat.netherite_trident": {
+    "en": "Netherite Trident",
+    "zh": "Netherite Trident",
+    "vi": "Netherite Trident"
+  },
+  "gui.dungeons_and_combat.vagabond_class_gui.label_looting": {
+    "en": "Looting",
+    "zh": "Looting",
+    "vi": "Looting"
+  },
+  "block.dungeons_and_combat.elden_oak_planks": {
+    "en": "Elden Oak Planks",
+    "zh": "Elden Oak Planks",
+    "vi": "Elden Oak Planks"
+  },
+  "item.minecraft.tipped_arrow.effect.long_gigant_potion": {
+    "en": "Arrow of Gigant",
+    "zh": "Arrow of Gigant",
+    "vi": "Arrow of Gigant"
+  },
+  "item.dungeons_and_combat.mummy_spawn_egg": {
+    "en": "Centinel Spawn Egg",
+    "zh": "Mummy Spawn Egg",
+    "vi": "Centinel Spawn Egg"
+  },
+  "item.dungeons_and_combat.blessed_gold_boots": {
+    "en": "§eBlessed Gold Boots",
+    "zh": "§e圣金靴子",
+    "vi": "§eBlessed Gold Boots"
+  },
+  "advancements.the_exiled.title": {
+    "en": "The Exiled",
+    "zh": "The Exiled",
+    "vi": "The Exiled"
+  },
+  "item.dungeons_and_combat.oni_slayer_chestplate": {
+    "en": "Oni Slayer Chestplate",
+    "zh": "Oni Slayer Chestplate",
+    "vi": "Oni Slayer Chestplate"
+  },
+  "item.dungeons_and_combat.forgotten_knight_leggings": {
+    "en": "Forgotten Knight Leggings",
+    "zh": "Forgotten Knight Leggings",
+    "vi": "Forgotten Knight Leggings"
+  },
+  "item.dungeons_and_combat.cursed_molten_blazing_sword": {
+    "en": "§3Cursed Molten Blazing Sword",
+    "zh": "§3Cursed Molten Blazing Sword",
+    "vi": "§3Cursed Molten Blazing Sword"
+  },
+  "item.dungeons_and_combat.iron_rapier": {
+    "en": "Iron Rapier",
+    "zh": "Iron Rapier",
+    "vi": "Iron Rapier"
+  },
+  "item.dungeons_and_combat.molten_dark_steel_ingot": {
+    "en": "Molten Dark Steel",
+    "zh": "Molten Dark Steel",
+    "vi": "Molten Dark Steel"
+  },
+  "item.dungeons_and_combat.silver_shovel": {
+    "en": "Silver Shovel",
+    "zh": "Silver Shovel",
+    "vi": "Silver Shovel"
+  },
+  "subtitles.ammit_hurt": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "gui.dungeons_and_combat.vagabond_class_gui.label_toughness": {
+    "en": "Toughness",
+    "zh": "Toughness",
+    "vi": "Toughness"
+  },
+  "item.dungeons_and_combat.skull_deserter_spawn_egg": {
+    "en": "Skull Deserter Spawn Egg",
+    "zh": "Skull Deserter Spawn Egg",
+    "vi": "Skull Deserter Spawn Egg"
+  },
+  "gui.dungeons_and_combat.forgotten_knight_class_gui.label_at_half_health_you_will_get_resi": {
+    "en": "At half health ",
+    "zh": "At half health ",
+    "vi": "At half health "
+  },
+  "gui.dungeons_and_combat.titan_class_gui.label_light": {
+    "en": "Light",
+    "zh": "Light",
+    "vi": "Light"
+  },
+  "item.dungeons_and_combat.ebony_boots": {
+    "en": "§8Ebony Boots",
+    "zh": "§8Ebony Boots",
+    "vi": "§8Ebony Boots"
+  },
+  "item.dungeons_and_combat.crimson_scythe": {
+    "en": "§cCrimson Scythe",
+    "zh": "§c猩红镰刀",
+    "vi": "§cCrimson Scythe"
+  },
+  "item.dungeons_and_combat.royal_steel_boots": {
+    "en": "Royal Steel Boots",
+    "zh": "Royal Steel Boots",
+    "vi": "Royal Steel Boots"
+  },
+  "gui.dungeons_and_combat.forgotten_knight_class_gui.button_empty": {
+    "en": ">",
+    "zh": ">",
+    "vi": ">"
+  },
+  "gui.dungeons_and_combat.bounty_hunter_class_gui.label_speed": {
+    "en": "Speed",
+    "zh": "Speed",
+    "vi": "Speed"
+  },
+  "item.dungeons_and_combat.green_dragon_leggings": {
+    "en": "Emerald Dragon Leggings",
+    "zh": "Green Dragon Leggings",
+    "vi": "Emerald Dragon Leggings"
+  },
+  "item.dungeons_and_combat.crimson_shield": {
+    "en": "Crimson Shield",
+    "zh": "Crimson Shield",
+    "vi": "Crimson Shield"
+  },
+  "gui.dungeons_and_combat.rogue_class_gui.label_you_will_become_invisible": {
+    "en": "you will become",
+    "zh": "you will become",
+    "vi": "you will become"
+  },
+  "advancements.forgotten_sands.descr": {
+    "en": "Fight a Monster in the Forgotten Sands",
+    "zh": "Fight a Monster in the Forgotten Sands",
+    "vi": "Fight a Monster in the Forgotten Sands"
+  },
+  "item.dungeons_and_combat.saw_cleaver_sickle": {
+    "en": "Saw Cleaver",
+    "zh": "Saw Cleaver",
+    "vi": "Saw Cleaver"
+  },
+  "item.dungeons_and_combat.dragonium_helmet": {
+    "en": "Dragonium Helmet",
+    "zh": "Dragonium Helmet",
+    "vi": "Dragonium Helmet"
+  },
+  "item.dungeons_and_combat.bronze_dagger": {
+    "en": "Bronze Dagger",
+    "zh": "Bronze Dagger",
+    "vi": "Bronze Dagger"
+  },
+  "subtitles.spear_lightning_stab": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "item.dungeons_and_combat.sunleia_music_disc": {
+    "en": "Music Disc",
+    "zh": "Music Disc",
+    "vi": "Music Disc"
+  },
+  "gui.dungeons_and_combat.exlied_class_gui.label_toughness": {
+    "en": "Toughness",
+    "zh": "Toughness",
+    "vi": "Toughness"
+  },
+  "item.dungeons_and_combat.remanent_spawn_egg": {
+    "en": "Remanent Spawn Egg",
+    "zh": "Remanent Spawn Egg",
+    "vi": "Remanent Spawn Egg"
+  },
+  "block.dungeons_and_combat.elden_oak_log": {
+    "en": "Elden Oak Log",
+    "zh": "Elden Oak Log",
+    "vi": "Elden Oak Log"
+  },
+  "gui.dungeons_and_combat.oni_slayer_class_gui.label_the_effect_ends": {
+    "en": "the effect ends",
+    "zh": "the effect ends",
+    "vi": "the effect ends"
+  },
+  "gui.dungeons_and_combat.titan_class_gui.label_effects": {
+    "en": "effects",
+    "zh": "effects",
+    "vi": "effects"
+  },
+  "subtitles.kamath_hurt": {
+    "en": "Kamath is damaged",
+    "zh": "Kamath is damaged",
+    "vi": "Kamath is damaged"
+  },
+  "item.dungeons_and_combat.slimy_knife": {
+    "en": "Slimy Knife",
+    "zh": "Slimy Knife",
+    "vi": "Slimy Knife"
+  },
+  "item.dungeons_and_combat.blessed_gold_twin_blade": {
+    "en": "Blessed Gold Twin Blade",
+    "zh": "Blessed Gold Twin Blade",
+    "vi": "Blessed Gold Twin Blade"
+  },
+  "block.dungeons_and_combat.cobblestone_brick_stairs": {
+    "en": "Cobblestone Bricks Stairs",
+    "zh": "Cobblestone Bricks Stairs",
+    "vi": "Cobblestone Bricks Stairs"
+  },
+  "item.dungeons_and_combat.dragon_greatsword_fire": {
+    "en": "Flamed Dragon Bone Greatsword",
+    "zh": "Flamed Dragon Bone Greatsword",
+    "vi": "Flamed Dragon Bone Greatsword"
+  },
+  "item.dungeons_and_combat.steel_ingot": {
+    "en": "Steel Ingot",
+    "zh": "钢锭",
+    "vi": "Steel Ingot"
+  },
+  "gui.dungeons_and_combat.titan_class_gui.label_health": {
+    "en": "Health",
+    "zh": "Health",
+    "vi": "Health"
+  },
+  "gui.dungeons_and_combat.oni_slayer_class_gui.label_swing": {
+    "en": "Swing",
+    "zh": "Swing",
+    "vi": "Swing"
+  },
+  "item.dungeons_and_combat.steel_sword": {
+    "en": "Steel Sword",
+    "zh": "Steel Sword",
+    "vi": "Steel Sword"
+  },
+  "item.dungeons_and_combat.sunrise_sword": {
+    "en": "Sunrise",
+    "zh": "破晓",
+    "vi": "Sunrise"
+  },
+  "item.dungeons_and_combat.molten_blazing_helmet": {
+    "en": "Blazing Helmet",
+    "zh": "炽熔头盔",
+    "vi": "Blazing Helmet"
+  },
+  "item.dungeons_and_combat.blessed_gold_nugget": {
+    "en": "Blessed Gold Nugget",
+    "zh": "Blessed Gold Nugget",
+    "vi": "Blessed Gold Nugget"
+  },
+  "block.dungeons_and_combat.champion_brazier": {
+    "en": "Champion Brazier",
+    "zh": "冠军火盆",
+    "vi": "Champion Brazier"
+  },
+  "item.dungeons_and_combat.copper_dragon_boots": {
+    "en": "Copper Dragon Boots",
+    "zh": "Copper Dragon Boots",
+    "vi": "Copper Dragon Boots"
+  },
+  "gui.dungeons_and_combat.titan_class_gui.button_empty": {
+    "en": ">",
+    "zh": ">",
+    "vi": ">"
+  },
+  "item.dungeons_and_combat.stone_knife": {
+    "en": "Stone Knife",
+    "zh": "Stone Knife",
+    "vi": "Stone Knife"
+  },
+  "item.dungeons_and_combat.diamond_lance": {
+    "en": "Diamond Lance",
+    "zh": "Diamond Lance",
+    "vi": "Diamond Lance"
+  },
+  "item.dungeons_and_combat.molten_dark_steel_dagger": {
+    "en": "Molten Dark Steel Dagger",
+    "zh": "Molten Dark Steel Dagger",
+    "vi": "Molten Dark Steel Dagger"
+  },
+  "gui.dungeons_and_combat.vagabond_class_gui.label_speed": {
+    "en": "Speed",
+    "zh": "Speed",
+    "vi": "Speed"
+  },
+  "item.minecraft.splash_potion.effect.haste_iii": {
+    "en": "Splash Potion of Haste III",
+    "zh": "Splash Potion of Haste III",
+    "vi": "Splash Potion of Haste III"
+  },
+  "effect.dungeons_and_combat.conductive": {
+    "en": "Conductive",
+    "zh": "Conductive",
+    "vi": "Conductive"
+  },
+  "item.dungeons_and_combat.kamath_music_disc.desc": {
+    "en": " Ethan Meixsel - Pride Before The Fall",
+    "zh": " Ethan Meixsel - Pride Before The Fall",
+    "vi": " Ethan Meixsel - Pride Before The Fall"
+  },
+  "block.dungeons_and_combat.bone_planks_button": {
+    "en": "Bone Planks Button",
+    "zh": "Bone Planks Button",
+    "vi": "Bone Planks Button"
+  },
+  "advancements.let_the_ceremony_begin.descr": {
+    "en": "Obtain the Ceremonial Dagger",
+    "zh": "Obtain the Ceremonial Dagger",
+    "vi": "Obtain the Ceremonial Dagger"
+  },
+  "block.dungeons_and_combat.monarch_table": {
+    "en": "Monarch Table",
+    "zh": "Monarch Table",
+    "vi": "Monarch Table"
+  },
+  "item.dungeons_and_combat.orange": {
+    "en": "Orange",
+    "zh": "Orange",
+    "vi": "Orange"
+  },
+  "gui.dungeons_and_combat.oni_slayer_class_gui.label_strength": {
+    "en": "Strength",
+    "zh": "Strength",
+    "vi": "Strength"
+  },
+  "item.dungeons_and_combat.dragon_dagger_fire": {
+    "en": "Flamed Dragon Bone Dagger",
+    "zh": "Flamed Dragon Bone Dagger",
+    "vi": "Flamed Dragon Bone Dagger"
+  },
+  "item.dungeons_and_combat.bloody_cult_chestplate": {
+    "en": "Bloody Cult Tunic",
+    "zh": "Bloody Cult Tunic",
+    "vi": "Bloody Cult Tunic"
+  },
+  "subtitles.high_priest_ambient": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "entity.dungeons_and_combat.mimy_chest": {
+    "en": "Mimy Chest",
+    "zh": "Mimy Chest",
+    "vi": "Mimy Chest"
+  },
+  "item.dungeons_and_combat.linen_bundle": {
+    "en": "Linen Bundle",
+    "zh": "Linen Bundle",
+    "vi": "Linen Bundle"
+  },
+  "item.dungeons_and_combat.bounty_hunter_boots": {
+    "en": "Bounty Hunter Boots",
+    "zh": "Bounty Hunter Boots",
+    "vi": "Bounty Hunter Boots"
+  },
+  "item.dungeons_and_combat.dragonsteel_ice_long_sword": {
+    "en": "Ice Dragonsteel Long Sword",
+    "zh": "Ice Dragonsteel Long Sword",
+    "vi": "Ice Dragonsteel Long Sword"
+  },
+  "entity.dungeons_and_combat.bloody_cultist": {
+    "en": "Bloody Cultist",
+    "zh": "Bloody Cultist",
+    "vi": "Bloody Cultist"
+  },
+  "advancements.born_of_blood.title": {
+    "en": "The Bloodborn",
+    "zh": "The Bloodborn",
+    "vi": "The Bloodborn"
+  },
+  "gui.dungeons_and_combat.forgotten_knight_class_gui.label_resistance_ii": {
+    "en": "Resistance I",
+    "zh": "Resistance II",
+    "vi": "Resistance II"
+  },
+  "item.dungeons_and_combat.electric_dragon_boots": {
+    "en": "Electric Dragon Boots",
+    "zh": "Electric Dragon Boots",
+    "vi": "Electric Dragon Boots"
+  },
+  "effect.dungeons_and_combat.forgotten_entity": {
+    "en": "Forgotten Entity",
+    "zh": "Forgotten Entity",
+    "vi": "Forgotten Entity"
+  },
+  "item.dungeons_and_combat.titanium_greatsword": {
+    "en": "Titanium Greatsword",
+    "zh": "Titanium Greatsword",
+    "vi": "Titanium Greatsword"
+  },
+  "item.dungeons_and_combat.electric_dragon_helmet": {
+    "en": "Electric Dragon Helmet",
+    "zh": "Electric Dragon Helmet",
+    "vi": "Electric Dragon Helmet"
+  },
+  "effect.dungeons_and_combat.scorpion_claw_effect": {
+    "en": "Scorpion Claw Effect",
+    "zh": "Scorpion Claw Effect",
+    "vi": "Scorpion Claw Effect"
+  },
+  "item.dungeons_and_combat.steel_pickaxe": {
+    "en": "Steel Pickaxe",
+    "zh": "Steel Pickaxe",
+    "vi": "Steel Pickaxe"
+  },
+  "subtitles.spear_ice_stab": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "gui.dungeons_and_combat.forgotten_knight_class_gui.label_forgotten_knight": {
+    "en": "Forgotten Knight",
+    "zh": "Forgotten Knight",
+    "vi": "Forgotten Knight"
+  },
+  "item.dungeons_and_combat.titanium_leggings": {
+    "en": "Titanium Leggings",
+    "zh": "Titanium Leggings",
+    "vi": "Titanium Leggings"
+  },
+  "advancements.forgotten_sands.title": {
+    "en": "Forgotten Sands",
+    "zh": "Forgotten Sands",
+    "vi": "Forgotten Sands"
+  },
+  "item.dungeons_and_combat.ebony_pickaxe": {
+    "en": "§8Ebony Pickaxe",
+    "zh": "§8Ebony Pickaxe",
+    "vi": "§8Ebony Pickaxe"
+  },
+  "subtitles.saw_cleaver_changue": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "gui.dungeons_and_combat.bounty_hunter_class_gui.label_looting": {
+    "en": "Looting",
+    "zh": "Looting",
+    "vi": "Looting"
+  },
+  "item.dungeons_and_combat.lightning_dragonsteel_boots": {
+    "en": "Lightning Dragonsteel Boots",
+    "zh": "Lightning Dragonsteel Boots",
+    "vi": "Lightning Dragonsteel Boots"
+  },
+  "item.dungeons_and_combat.cryolite_shard": {
+    "en": "Cryolite Shard",
+    "zh": "Cryolite Shard",
+    "vi": "Cryolite Shard"
+  },
+  "subtitles.magic_boost": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "block.dungeons_and_combat.bronze_brick_wall": {
+    "en": "Bronze Bricks Wall",
+    "zh": "Bronze Bricks Wall",
+    "vi": "Bronze Bricks Wall"
+  },
+  "item.dungeons_and_combat.mantle_of_the_demon_king_boots": {
+    "en": "Mantle Of The Demon King Boots",
+    "zh": "Mantle Of The Demon King Boots",
+    "vi": "Mantle Of The Demon King Boots"
+  },
+  "item.dungeons_and_combat.copper_boots": {
+    "en": "Copper Boots",
+    "zh": "铜骑士靴子",
+    "vi": "Copper Boots"
+  },
+  "gui.dungeons_and_combat.oni_slayer_class_gui.label_toughness": {
+    "en": "Toughness",
+    "zh": "Toughness",
+    "vi": "Toughness"
+  },
+  "effect.dungeons_and_combat.ice_resistance": {
+    "en": "Ice Resistance",
+    "zh": "Ice Resistance",
+    "vi": "Ice Resistance"
+  },
+  "gui.dungeons_and_combat.rogue_class_gui.label_20": {
+    "en": "16",
+    "zh": "16",
+    "vi": "16"
+  },
+  "item.dungeons_and_combat.slimy_tongue": {
+    "en": "Slimy Tongue",
+    "zh": "Slimy Tongue",
+    "vi": "Slimy Tongue"
+  },
+  "gui.dungeons_and_combat.rogue_class_gui.label_wield": {
+    "en": "Wield",
+    "zh": "Wield",
+    "vi": "Wield"
+  },
+  "gui.dungeons_and_combat.titan_class_gui.label_1": {
+    "en": "0,85",
+    "zh": "0,85",
+    "vi": "0,85"
+  },
+  "gui.dungeons_and_combat.titan_class_gui.label_2": {
+    "en": "2",
+    "zh": "2",
+    "vi": "2"
+  },
+  "item.dungeons_and_combat.mantle_of_the_demon_king_chestplate": {
+    "en": "Mantle Of The Demon King Chestplate",
+    "zh": "Mantle Of The Demon King Chestplate",
+    "vi": "Mantle Of The Demon King Chestplate"
+  },
+  "item.dungeons_and_combat.ebony_chestplate": {
+    "en": "§8Ebony Chestplate",
+    "zh": "§8Ebony Chestplate",
+    "vi": "§8Ebony Chestplate"
+  },
+  "gui.dungeons_and_combat.titan_class_gui.label_0": {
+    "en": "1",
+    "zh": "1",
+    "vi": "1"
+  },
+  "item.minecraft.potion.effect.gigant": {
+    "en": "Potion of Gigant",
+    "zh": "Potion of Gigant",
+    "vi": "Potion of Gigant"
+  },
+  "item.dungeons_and_combat.silver_dragon_leggings": {
+    "en": "Silver Dragon Leggings",
+    "zh": "Silver Dragon Leggings",
+    "vi": "Silver Dragon Leggings"
+  },
+  "advancements.blood_is_fuel_hell_is_full.title": {
+    "en": "Blood Is Fuel Hell Is Full",
+    "zh": "Blood Is Fuel Hell Is Full",
+    "vi": "Blood Is Fuel Hell Is Full"
+  },
+  "item.dungeons_and_combat.blood_vial": {
+    "en": "Blood Vial",
+    "zh": "Blood Vial",
+    "vi": "Blood Vial"
+  },
+  "item.dungeons_and_combat.amethyst_dragon_chestplate": {
+    "en": "Amethyst Dragon Chestplate",
+    "zh": "Amethyst Dragon Chestplate",
+    "vi": "Amethyst Dragon Chestplate"
+  },
+  "subtitles.death_mark_sound": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "gui.dungeons_and_combat.oni_slayer_class_gui.label_01": {
+    "en": "1",
+    "zh": "1",
+    "vi": "1"
+  },
+  "gui.dungeons_and_combat.exlied_class_gui.label_light": {
+    "en": "Light",
+    "zh": "Light",
+    "vi": "Light"
+  },
+  "item.dungeons_and_combat.copper_greathammer": {
+    "en": "Copper Greathammer",
+    "zh": "Copper Greathammer",
+    "vi": "Copper Greathammer"
+  },
+  "block.dungeons_and_combat.elden_oak_planks_pressure_plate": {
+    "en": "Elden Oak Planks Pressure Plate",
+    "zh": "Elden Oak Planks Pressure Plate",
+    "vi": "Elden Oak Planks Pressure Plate"
+  },
+  "item.dungeons_and_combat.long_sickle": {
+    "en": "Long Katana",
+    "zh": "Long Katana",
+    "vi": "Long Katana"
+  },
+  "block.dungeons_and_combat.crimson_brick": {
+    "en": "Crimson Bricks",
+    "zh": "Crimson Bricks",
+    "vi": "Crimson Bricks"
+  },
+  "item.dungeons_and_combat.molten_dark_steel_axe": {
+    "en": "Molten Dark Steel Axe",
+    "zh": "Molten Dark Steel Axe",
+    "vi": "Molten Dark Steel Axe"
+  },
+  "item.dungeons_and_combat.steel_chestplate": {
+    "en": "Steel Chestplate",
+    "zh": "Steel Chestplate",
+    "vi": "Steel Chestplate"
+  },
+  "item.dungeons_and_combat.mantle_of_the_demon_king_leggings": {
+    "en": "Mantle Of The Demon King Leggings",
+    "zh": "Mantle Of The Demon King Leggings",
+    "vi": "Mantle Of The Demon King Leggings"
+  },
+  "item.dungeons_and_combat.fairy_dust": {
+    "en": "Fairy Dust",
+    "zh": "Fairy Dust",
+    "vi": "Fairy Dust"
+  },
+  "item.dungeons_and_combat.silver_axe": {
+    "en": "Silver Axe",
+    "zh": "Silver Axe",
+    "vi": "Silver Axe"
+  },
+  "effect.dungeons_and_combat.poisoned_edge": {
+    "en": "Poisoned Edge",
+    "zh": "Poisoned Edge",
+    "vi": "Poisoned Edge"
+  },
+  "effect.dungeons_and_combat.death_mark": {
+    "en": "Death Mark",
+    "zh": "Death Mark",
+    "vi": "Death Mark"
+  },
+  "item.dungeons_and_combat.fire_dragonsteel_boots": {
+    "en": "Fire Dragonsteel Boots",
+    "zh": "Fire Dragonsteel Boots",
+    "vi": "Fire Dragonsteel Boots"
+  },
+  "item.dungeons_and_combat.sunleia_armor_chestplate": {
+    "en": "§eSunleia Chestplate",
+    "zh": "§e苏蕾娅胸甲",
+    "vi": "§eSunleia Chestplate"
+  },
+  "item.dungeons_and_combat.mantle_of_the_demon_king_helmet": {
+    "en": "Mantle Of The Demon King Helmet",
+    "zh": "Mantle Of The Demon King Helmet",
+    "vi": "Mantle Of The Demon King Helmet"
+  },
+  "subtitles.fire_hammer_slam": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "block.dungeons_and_combat.crimson_tiles_stairs": {
+    "en": "Crimson Tiles Stairs",
+    "zh": "Crimson Tiles Stairs",
+    "vi": "Crimson Tiles Stairs"
+  },
+  "advancements.let_the_ceremony_begin.title": {
+    "en": "Let The Ceremony Begin",
+    "zh": "Let The Ceremony Begin",
+    "vi": "Let The Ceremony Begin"
+  },
+  "item.dungeons_and_combat.silver_dragon_helmet": {
+    "en": "Silver Dragon Helmet",
+    "zh": "Silver Dragon Helmet",
+    "vi": "Silver Dragon Helmet"
+  },
+  "item.dungeons_and_combat.horde_torch_sword": {
+    "en": "Horde Torch",
+    "zh": "Horde Torch",
+    "vi": "Horde Torch"
+  },
+  "item.dungeons_and_combat.ebony_ingot": {
+    "en": "Ebony Ingot",
+    "zh": "Ebony Ingot",
+    "vi": "Ebony Ingot"
+  },
+  "item.dungeons_and_combat.egyptian_beer": {
+    "en": "Egyptian Beer",
+    "zh": "Egyptian Beer",
+    "vi": "Egyptian Beer"
+  },
+  "item.dungeons_and_combat.ebony_dagger": {
+    "en": "§8Ebony Dagger",
+    "zh": "§8Ebony Dagger",
+    "vi": "§8Ebony Dagger"
+  },
+  "item.dungeons_and_combat.estus_flask": {
+    "en": "Estus Flask",
+    "zh": "Estus Flask",
+    "vi": "Estus Flask"
+  },
+  "gui.dungeons_and_combat.bounty_hunter_class_gui.label_you_will_get_strength_ii": {
+    "en": "you will get ",
+    "zh": "you will get ",
+    "vi": "you will get "
+  },
+  "item.dungeons_and_combat.vagabond_helmet": {
+    "en": "Vagabond Helmet",
+    "zh": "Vagabond Helmet",
+    "vi": "Vagabond Helmet"
+  },
+  "item.dungeons_and_combat.kamath_music_disc": {
+    "en": "Music Disc",
+    "zh": "Music Disc",
+    "vi": "Music Disc"
+  },
+  "item.dungeons_and_combat.ebony_axe": {
+    "en": "§8Ebony Axe",
+    "zh": "§8Ebony Axe",
+    "vi": "§8Ebony Axe"
+  },
+  "item.dungeons_and_combat.wolf_steel_leggings": {
+    "en": "Wolf Steel Leggings",
+    "zh": "狼骑士护腿",
+    "vi": "Wolf Steel Leggings"
+  },
+  "item.dungeons_and_combat.fleshy_cloth": {
+    "en": "Fleshy Cloth",
+    "zh": "Fleshy Cloth",
+    "vi": "Fleshy Cloth"
+  },
+  "item.dungeons_and_combat.netherite_helmet": {
+    "en": "Netherite Helmet",
+    "zh": "下界合金骑士头盔",
+    "vi": "Netherite Helmet"
+  },
+  "item.dungeons_and_combat.blue_dragon_leggings": {
+    "en": "Blue Dragon Leggings",
+    "zh": "Blue Dragon Leggings",
+    "vi": "Blue Dragon Leggings"
+  },
+  "item.dungeons_and_combat.copper_hoe": {
+    "en": "Copper Hoe",
+    "zh": "Copper Hoe",
+    "vi": "Copper Hoe"
+  },
+  "item.dungeons_and_combat.cursed_molten_blazing_fist": {
+    "en": "§3Cursed Molten Blazing Fist",
+    "zh": "§3Cursed Molten Blazing Fist",
+    "vi": "§3Cursed Molten Blazing Fist"
+  },
+  "block.dungeons_and_combat.silver_block": {
+    "en": "Silver Block",
+    "zh": "Silver Block",
+    "vi": "Silver Block"
+  },
+  "subtitles.sunleia_death": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "item.dungeons_and_combat.royal_steel_helmet": {
+    "en": "Royal Steel Helmet",
+    "zh": "Royal Steel Helmet",
+    "vi": "Royal Steel Helmet"
+  },
+  "item.dungeons_and_combat.sunleia_armor_leggings": {
+    "en": "§eSunleiar Leggings",
+    "zh": "§e苏蕾娅护腿",
+    "vi": "§eSunleiar Leggings"
+  },
+  "item.dungeons_and_combat.molten_blazing_hammer": {
+    "en": "§6Molten Blazing Hammer",
+    "zh": "§6Molten Blazing Hammer",
+    "vi": "§6Molten Blazing Hammer"
+  },
+  "subtitles.high_priest_hurt": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "block.dungeons_and_combat.cobblestone_brick_wall": {
+    "en": "Cobblestone Bricks Wall",
+    "zh": "Cobblestone Bricks Wall",
+    "vi": "Cobblestone Bricks Wall"
+  },
+  "item.dungeons_and_combat.molten_dark_steel_boots": {
+    "en": "Molten Dark Steel Boots",
+    "zh": "熔铸暗钢靴子",
+    "vi": "Molten Dark Steel Boots"
+  },
+  "item.dungeons_and_combat.kopesh_sickle": {
+    "en": null,
+    "zh": "Blessed Gold Kopesh",
+    "vi": "Blessed Gold Kopesh"
+  },
+  "item.dungeons_and_combat.combat_style_manual": {
+    "en": "Combat Style Manual",
+    "zh": "Combat Style Manual",
+    "vi": "Combat Style Manual"
+  },
+  "item.dungeons_and_combat.diamond_metal_helmet": {
+    "en": "Diamond Helmet",
+    "zh": "钻石骑士头盔",
+    "vi": "Diamond Helmet"
+  },
+  "item.dungeons_and_combat.ebony_leggings": {
+    "en": "§8Ebony Leggings",
+    "zh": "§8Ebony Leggings",
+    "vi": "§8Ebony Leggings"
+  },
+  "gui.dungeons_and_combat.titan_class_gui.button_empty1": {
+    "en": "<",
+    "zh": "<",
+    "vi": "<"
+  },
+  "gui.dungeons_and_combat.vagabond_class_gui.button_empty": {
+    "en": ">",
+    "zh": ">",
+    "vi": ">"
+  },
+  "item.dungeons_and_combat.silver_helmet": {
+    "en": "Silver Helmet",
+    "zh": "银辉骑士头盔",
+    "vi": "Silver Helmet"
+  },
+  "item.dungeons_and_combat.counselor_skull_spawn_egg": {
+    "en": "Counselor Skull Spawn Egg",
+    "zh": "Counselor Skull Spawn Egg",
+    "vi": "Counselor Skull Spawn Egg"
+  },
+  "item.dungeons_and_combat.golden_lance": {
+    "en": "Golden Glaive",
+    "zh": "Golden Glaive",
+    "vi": "Golden Glaive"
+  },
+  "gui.dungeons_and_combat.oni_slayer_class_gui.label_none": {
+    "en": "Leaves a mark of ",
+    "zh": "Leaves a mark of ",
+    "vi": "Leaves a mark of "
+  },
+  "gui.dungeons_and_combat.vagabond_class_gui.label_swing": {
+    "en": "Swing",
+    "zh": "Swing",
+    "vi": "Swing"
+  },
+  "gui.dungeons_and_combat.rogue_class_gui.label_medium": {
+    "en": "Medium",
+    "zh": "Medium",
+    "vi": "Medium"
+  },
+  "block.dungeons_and_combat.bone_planks_slab": {
+    "en": "Bone Planks Slab",
+    "zh": "Bone Planks Slab",
+    "vi": "Bone Planks Slab"
+  },
+  "item.dungeons_and_combat.ammit_spawn_egg": {
+    "en": "Ammit Spawn Egg",
+    "zh": "Ammit Spawn Egg",
+    "vi": "Ammit Spawn Egg"
+  },
+  "subtitles.spear_fire_stab": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "subtitles.sandstone_golem_death": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "item.dungeons_and_combat.wooden_staff": {
+    "en": "Wooden Battle Staff",
+    "zh": "Wooden Battle Staff",
+    "vi": "Wooden Battle Staff"
+  },
+  "gui.dungeons_and_combat.vagabond_class_gui.label_health": {
+    "en": "Health",
+    "zh": "Health",
+    "vi": "Health"
+  },
+  "item.dungeons_and_combat.molten_bone_greatsword": {
+    "en": "Molten Bone Greatsword",
+    "zh": "Molten Bone Greatsword",
+    "vi": "Molten Bone Greatsword"
+  },
+  "item.dungeons_and_combat.stone_lance": {
+    "en": "Stone Spear",
+    "zh": "Stone Spear",
+    "vi": "Stone Spear"
+  },
+  "item.dungeons_and_combat.blacksmith_leggings": {
+    "en": "Blacksmith Pants",
+    "zh": "初始护腿δ",
+    "vi": "Blacksmith Pants"
+  },
+  "item.dungeons_and_combat.netherite_leggings": {
+    "en": "Netherite Leggings",
+    "zh": "下界合金骑士护腿",
+    "vi": "Netherite Leggings"
+  },
+  "entity.dungeons_and_combat.ghoul": {
+    "en": "Ghoul",
+    "zh": "Ghoul",
+    "vi": "Ghoul"
+  },
+  "item.dungeons_and_combat.titanium_shield": {
+    "en": "Titanium Shield",
+    "zh": "Titanium Shield",
+    "vi": "Titanium Shield"
+  },
+  "item.dungeons_and_combat.the_gravedigger_greataxe": {
+    "en": "The Gravedigger",
+    "zh": "The Gravedigger",
+    "vi": "The Gravedigger"
+  },
+  "item.dungeons_and_combat.old_shield": {
+    "en": "Old Shield",
+    "zh": "Old Shield",
+    "vi": "Old Shield"
+  },
+  "advancements.the_new_gravedigger.descr": {
+    "en": "Use the Gravedigger to summon a Palehand",
+    "zh": "Use the Gravedigger to summon a Palehand",
+    "vi": "Use the Gravedigger to summon a Palehand"
+  },
+  "block.dungeons_and_combat.elden_oak_wood": {
+    "en": "Elden Oak Wood",
+    "zh": "Elden Oak Wood",
+    "vi": "Elden Oak Wood"
+  },
+  "item.dungeons_and_combat.counselor_leggings": {
+    "en": "Counselor Leggings",
+    "zh": "Counselor Leggings",
+    "vi": "Counselor Leggings"
+  },
+  "gui.dungeons_and_combat.bounty_hunter_class_gui.label_swing": {
+    "en": "Swing",
+    "zh": "Swing",
+    "vi": "Swing"
+  },
+  "item.dungeons_and_combat.steel_dagger": {
+    "en": "Steel Dagger",
+    "zh": "Steel Dagger",
+    "vi": "Steel Dagger"
+  },
+  "item.dungeons_and_combat.steel_axe_ii": {
+    "en": "Steel Greataxe",
+    "zh": "Steel Greataxe",
+    "vi": "Steel Greataxe"
+  },
+  "item.minecraft.lingering_potion.effect.long_haste_ii": {
+    "en": "Lingering Potion of Haste II",
+    "zh": "Lingering Potion of Haste II",
+    "vi": "Lingering Potion of Haste II"
+  },
+  "subtitles.skull_death": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "item.dungeons_and_combat.kamath_spawn_egg": {
+    "en": "Kamath Spawn Egg",
+    "zh": "冥骸之主-卡玛斯刷怪蛋",
+    "vi": "Kamath Spawn Egg"
+  },
+  "gui.dungeons_and_combat.forgotten_knight_class_gui.label_passive": {
+    "en": "Passive",
+    "zh": "Passive",
+    "vi": "Passive"
+  },
+  "item.dungeons_and_combat.copper_dagger": {
+    "en": "Copper Dagger",
+    "zh": "Copper Dagger",
+    "vi": "Copper Dagger"
+  },
+  "item.dungeons_and_combat.bronze_boots": {
+    "en": "Bronze Boots",
+    "zh": "黄铜蛮族靴子",
+    "vi": "Bronze Boots"
+  },
+  "item.dungeons_and_combat.light_smithing_template": {
+    "en": "Smithing Template",
+    "zh": "Smithing Template",
+    "vi": "Smithing Template"
+  },
+  "curios.identifier.feet": {
+    "en": "Feet",
+    "zh": "Feet",
+    "vi": "Feet"
+  },
+  "subtitles.kamath_ground_attack": {
+    "en": "Kamath tries to slam the ground",
+    "zh": "Kamath tries to slam the ground",
+    "vi": "Kamath tries to slam the ground"
+  },
+  "item.dungeons_and_combat.blazing_shield": {
+    "en": "Blazing Shield",
+    "zh": "Blazing Shield",
+    "vi": "Blazing Shield"
+  },
+  "item.dungeons_and_combat.bounty_hunter_chestplate": {
+    "en": "Bounty Hunter Chestplate",
+    "zh": "Bounty Hunter Chestplate",
+    "vi": "Bounty Hunter Chestplate"
+  },
+  "item.dungeons_and_combat.molten_knight_boots": {
+    "en": "Molten Knight Boots",
+    "zh": "Molten Knight Boots",
+    "vi": "Molten Knight Boots"
+  },
+  "block.dungeons_and_combat.elden_oak_planks_trap_door": {
+    "en": "Elden Oak Planks Trap Door",
+    "zh": "Elden Oak Planks Trap Door",
+    "vi": "Elden Oak Planks Trap Door"
+  },
+  "gui.dungeons_and_combat.rogue_class_gui.label_armor": {
+    "en": "Armor",
+    "zh": "Armor",
+    "vi": "Armor"
+  },
+  "item.minecraft.tipped_arrow.effect.intoxicated": {
+    "en": "Arrow of Intoxicated",
+    "zh": "Arrow of Intoxicated",
+    "vi": "Arrow of Intoxicated"
+  },
+  "item.dungeons_and_combat.hermit_witch_spawn_egg": {
+    "en": "Hermit Witch Spawn Egg",
+    "zh": "Hermit Witch Spawn Egg",
+    "vi": "Hermit Witch Spawn Egg"
+  },
+  "item.dungeons_and_combat.ice_dragonsteel_helmet": {
+    "en": "Ice Dragonsteel Helmet",
+    "zh": "Ice Dragonsteel Helmet",
+    "vi": "Ice Dragonsteel Helmet"
+  },
+  "effect.dungeons_and_combat.fatal_oath": {
+    "en": "Fatal Oath",
+    "zh": "Fatal Oath",
+    "vi": "Fatal Oath"
+  },
+  "entity.dungeons_and_combat.fractured_vex": {
+    "en": "Fractured Vex",
+    "zh": "Fractured Vex",
+    "vi": "Fractured Vex"
+  },
+  "gui.dungeons_and_combat.rogue_class_gui.label_toughness": {
+    "en": "Toughness",
+    "zh": "Toughness",
+    "vi": "Toughness"
+  },
+  "item.dungeons_and_combat.molten_cryolite_sickle": {
+    "en": "Molten Cryolite Sickle",
+    "zh": "Molten Cryolite Sickle",
+    "vi": "Molten Cryolite Sickle"
+  },
+  "gui.dungeons_and_combat.rogue_class_gui.label_speed": {
+    "en": "Speed",
+    "zh": "Speed",
+    "vi": "Speed"
+  },
+  "gui.dungeons_and_combat.rogue_class_gui.label_01": {
+    "en": "1",
+    "zh": "1",
+    "vi": "1"
+  },
+  "item.dungeons_and_combat.tombwarden_helmet": {
+    "en": "Tombwarden Hat",
+    "zh": "Tombwarden Hat",
+    "vi": "Tombwarden Hat"
+  },
+  "item.dungeons_and_combat.whole_cheese": {
+    "en": "Whole Cheese",
+    "zh": "Whole Cheese",
+    "vi": "Whole Cheese"
+  },
+  "block.dungeons_and_combat.chalice_with_blood": {
+    "en": "Chalice With Blood",
+    "zh": "Chalice With Blood",
+    "vi": "Chalice With Blood"
+  },
+  "effect.dungeons_and_combat.life_stealer": {
+    "en": "Life Stealer",
+    "zh": "Life Stealer",
+    "vi": "Life Stealer"
+  },
+  "item.dungeons_and_combat.kamath_armor_leggings": {
+    "en": "Kamath Leggings",
+    "zh": "卡玛斯护腿",
+    "vi": "Kamath Leggings"
+  },
+  "item_group.dungeons_and_combat.dungeons_and_combat_colab_compatibility": {
+    "en": "Dungeons And Combat Compatibility",
+    "zh": "Dungeons And Combat Compatibility",
+    "vi": "Dungeons And Combat Compatibility"
+  },
+  "item.minecraft.splash_potion.effect.long_gigant_potion": {
+    "en": "Splash Potion of Gigant",
+    "zh": "Splash Potion of Gigant",
+    "vi": "Splash Potion of Gigant"
+  },
+  "item.dungeons_and_combat.imposing_soul": {
+    "en": "Imposing Soul",
+    "zh": "威严之魂",
+    "vi": "Imposing Soul"
+  },
+  "item.minecraft.potion.effect.long_gigant_potion": {
+    "en": "Potion of Gigant",
+    "zh": "Potion of Gigant",
+    "vi": "Potion of Gigant"
+  },
+  "item.dungeons_and_combat.rogue_chestplate": {
+    "en": "Rogue Tunic",
+    "zh": "初始胸甲β",
+    "vi": "Rogue Tunic"
+  },
+  "item.dungeons_and_combat.mimic_eye": {
+    "en": "Mimic Eye",
+    "zh": "Mimic Eye",
+    "vi": "Mimic Eye"
+  },
+  "item.minecraft.splash_potion.effect.levitation": {
+    "en": "Splash Potion of Levitation",
+    "zh": "Splash Potion of Levitation",
+    "vi": "Splash Potion of Levitation"
+  },
+  "gui.dungeons_and_combat.exlied_class_gui.button_choose": {
+    "en": "Choose",
+    "zh": "Choose",
+    "vi": "Choose"
+  },
+  "gui.dungeons_and_combat.rogue_class_gui.label_14": {
+    "en": "2",
+    "zh": "2",
+    "vi": "2"
+  },
+  "item.dungeons_and_combat.essence_of_kamath": {
+    "en": "Essence Of Kamath",
+    "zh": "卡玛斯精魄",
+    "vi": "Essence Of Kamath"
+  },
+  "gui.dungeons_and_combat.titan_class_gui.label_looting": {
+    "en": "Looting",
+    "zh": "Looting",
+    "vi": "Looting"
+  },
+  "item.dungeons_and_combat.titan_boots": {
+    "en": "Titan Boots",
+    "zh": "Titan Boots",
+    "vi": "Titan Boots"
+  },
+  "gui.dungeons_and_combat.vagabond_class_gui.button_empty1": {
+    "en": "<",
+    "zh": "<",
+    "vi": "<"
+  },
+  "item.dungeons_and_combat.iron_metal_helmet": {
+    "en": "Iron Helmet",
+    "zh": "Iron Helmet",
+    "vi": "Iron Helmet"
+  },
+  "item.dungeons_and_combat.sunleia_hand": {
+    "en": "Hand of Sunleia",
+    "zh": "苏蕾娅护手",
+    "vi": "Hand of Sunleia"
+  },
+  "item.dungeons_and_combat.crimson_bloodweave_sword": {
+    "en": "Crimson Bloodweave",
+    "zh": "§c猩红血织",
+    "vi": "Crimson Bloodweave"
+  },
+  "item.dungeons_and_combat.crimson_sovereign_sword": {
+    "en": "Crimson Sovereign",
+    "zh": "§c猩红君权",
+    "vi": "Crimson Sovereign"
+  },
+  "item.dungeons_and_combat.centinel_armor_helmet": {
+    "en": "§eCentinel Helmet",
+    "zh": "§e哨卫头盔",
+    "vi": "§eCentinel Helmet"
+  },
+  "item.dungeons_and_combat.centinel_armor_chestplate": {
+    "en": "§eCentinel Chestplate",
+    "zh": "§e哨卫胸甲",
+    "vi": "§eCentinel Chestplate"
+  },
+  "item.dungeons_and_combat.centinel_armor_leggings": {
+    "en": "§eCentinel Leggings",
+    "zh": "§e哨卫护腿",
+    "vi": "§eCentinel Leggings"
+  },
+  "item.dungeons_and_combat.centinel_armor_boots": {
+    "en": "§eCentinel Boots",
+    "zh": "§e哨卫靴子",
+    "vi": "§eCentinel Boots"
+  },
+  "item.dungeons_and_combat.dragon_sword_fire": {
+    "en": "Flamed Dragon Bone Greatsword",
+    "zh": null,
+    "vi": null
+  },
+  "item.dungeons_and_combat.ammit_armor_helmet": {
+    "en": "§eAmmit Visor",
+    "zh": null,
+    "vi": null
+  },
+  "item.dungeons_and_combat.black_dragon_electric_helmet": {
+    "en": "Black Dragon Helmet",
+    "zh": null,
+    "vi": null
+  },
+  "item.dungeons_and_combat.crystal_greatsword": {
+    "en": "Crystal Greatsword",
+    "zh": null,
+    "vi": null
+  },
+  "item.dungeons_and_combat.sapphire_dragon_leggings": {
+    "en": "Sapphire Dragon Leggings",
+    "zh": null,
+    "vi": null
+  },
+  "item.dungeons_and_combat.gray_dragon_shield": {
+    "en": "Gray Dragon Shield",
+    "zh": null,
+    "vi": null
+  },
+  "item.dungeons_and_combat.wulfrum_greatsword": {
+    "en": "Wulfrum Greatsword",
+    "zh": null,
+    "vi": null
+  },
+  "item.dungeons_and_combat.neptunium_dagger": {
+    "en": "Neptunium Dagger",
+    "zh": null,
+    "vi": null
+  },
+  "item.dungeons_and_combat.black_dragon_electric_chestplate": {
+    "en": "Black Dragon Chestplate",
+    "zh": null,
+    "vi": null
+  },
+  "item.dungeons_and_combat.crystal_shield": {
+    "en": "Crystal Shield",
+    "zh": null,
+    "vi": null
+  },
+  "item.dungeons_and_combat.tin_shield": {
+    "en": "Tin Shield",
+    "zh": null,
+    "vi": null
+  },
+  "item.dungeons_and_combat.black_dragon_electric_boots": {
+    "en": "Black Dragon Boots",
+    "zh": null,
+    "vi": null
+  },
+  "item.dungeons_and_combat.dragon_sword_ice": {
+    "en": "Iced Dragon Bone Greatsword",
+    "zh": null,
+    "vi": null
+  },
+  "item.dungeons_and_combat.dragonsteel_fire_shield": {
+    "en": "Dragonsteel Fire Shield",
+    "zh": null,
+    "vi": null
+  },
+  "item.dungeons_and_combat.wulfrum_shield": {
+    "en": "Wulfrum Shield",
+    "zh": null,
+    "vi": null
+  },
+  "item.dungeons_and_combat.silver_dragon_shield": {
+    "en": "Silver Dragon Shield",
+    "zh": null,
+    "vi": null
+  },
+  "item.dungeons_and_combat.compat": {
+    "en": "Compat",
+    "zh": null,
+    "vi": null
+  },
+  "item.dungeons_and_combat.black_dragon_electric_leggings": {
+    "en": "Black Dragon Leggings",
+    "zh": null,
+    "vi": null
+  },
+  "item.dungeons_and_combat.sapphire_dragon_boots": {
+    "en": "Sapphire Dragon Boots",
+    "zh": null,
+    "vi": null
+  },
+  "item.dungeons_and_combat.neptunium_leggings": {
+    "en": "Neptunium Leggings",
+    "zh": null,
+    "vi": null
+  },
+  "item.dungeons_and_combat.curse_molten_blazing_hammer": {
+    "en": "§3Cursed Molten Blazing Hammer",
+    "zh": null,
+    "vi": null
+  },
+  "item.dungeons_and_combat.blue_dragon_shield": {
+    "en": "Blue Dragon Shield",
+    "zh": null,
+    "vi": null
+  },
+  "item.dungeons_and_combat.crystal_lance": {
+    "en": "Crystal Lance",
+    "zh": null,
+    "vi": null
+  },
+  "item.dungeons_and_combat.dragonsteel_lightning_shield": {
+    "en": "Dragonsteel Lightning Shield",
+    "zh": null,
+    "vi": null
+  },
+  "item.dungeons_and_combat.copper_dragon_shield": {
+    "en": "Copper Dragon Shield",
+    "zh": null,
+    "vi": null
+  },
+  "item.dungeons_and_combat.blessed_rogue_helmet": {
+    "en": "§eBlessed Rogue Hood",
+    "zh": null,
+    "vi": null
+  },
+  "item.dungeons_and_combat.electric_dragon_shield": {
+    "en": "Electric Blue Dragon Shield",
+    "zh": null,
+    "vi": null
+  },
+  "block.dungeons_and_combat.sandstone_tiles": {
+    "en": "Sandstone Tiles",
+    "zh": null,
+    "vi": null
+  },
+  "item.dungeons_and_combat.dragonsteel_lightning_sword": {
+    "en": "Lightning Dragonsteel Greatsword",
+    "zh": null,
+    "vi": null
+  },
+  "item.dungeons_and_combat.divine_blood_vial": {
+    "en": "Divine Blood Vial",
+    "zh": null,
+    "vi": null
+  },
+  "item.dungeons_and_combat.dragonsteel_ice_sickle": {
+    "en": "Ice Dragonsteel Katana",
+    "zh": null,
+    "vi": null
+  },
+  "item.dungeons_and_combat.dawn_breaker_sword": {
+    "en": "Dawnbreaker",
+    "zh": null,
+    "vi": null
+  },
+  "item.dungeons_and_combat.ammit_armor_leggings": {
+    "en": "§eAmmit Leggings",
+    "zh": null,
+    "vi": null
+  },
+  "item.dungeons_and_combat.cobalt_greataxe": {
+    "en": "Cobalt Greataxe",
+    "zh": null,
+    "vi": null
+  },
+  "item.dungeons_and_combat.neptunium_boots": {
+    "en": "Neptunium Boots",
+    "zh": null,
+    "vi": null
+  },
+  "item.dungeons_and_combat.steel_wolf_sword": {
+    "en": "Steel Wolf Greatsword",
+    "zh": null,
+    "vi": null
+  },
+  "subtitles.speed_magic_sound": {
+    "en": "",
+    "zh": null,
+    "vi": null
+  },
+  "item.dungeons_and_combat.neptunium_trident": {
+    "en": "Neptunium Trident",
+    "zh": null,
+    "vi": null
+  },
+  "item.dungeons_and_combat.wulfrum_katana": {
+    "en": "Wulfrum Uchigatana",
+    "zh": null,
+    "vi": null
+  },
+  "effect.dungeons_and_combat.curse_of_the_sun": {
+    "en": "Curse of the Sun",
+    "zh": null,
+    "vi": null
+  },
+  "item.minecraft.tipped_arrow.effect.divinite": {
+    "en": "Arrow of Divinite",
+    "zh": null,
+    "vi": null
+  },
+  "item.minecraft.lingering_potion.effect.divinite": {
+    "en": "Lingering Potion of Divinite",
+    "zh": null,
+    "vi": null
+  },
+  "item.dungeons_and_combat.black_dragon_shield": {
+    "en": "White Dragon Shield",
+    "zh": null,
+    "vi": null
+  },
+  "item.dungeons_and_combat.red_dragon_shield": {
+    "en": "Red Dragon Shield",
+    "zh": null,
+    "vi": null
+  },
+  "effect.dungeons_and_combat.horuso_armo_bonus": {
+    "en": "Horuso Armor Bonus",
+    "zh": null,
+    "vi": null
+  },
+  "block.dungeons_and_combat.sandstone_tiles_stairs": {
+    "en": "Sandstone Tiles Stairs",
+    "zh": null,
+    "vi": null
+  },
+  "item.dungeons_and_combat.tin_mace": {
+    "en": "Tin Mace",
+    "zh": null,
+    "vi": null
+  },
+  "block.dungeons_and_combat.sandstone_tiles_slab": {
+    "en": "Sandstone Tiles Slab",
+    "zh": null,
+    "vi": null
+  },
+  "item.dungeons_and_combat.bronze_dragon_leggings": {
+    "en": "Bronze Dragon Leggings",
+    "zh": null,
+    "vi": null
+  },
+  "item.dungeons_and_combat.cobalt_dagger": {
+    "en": "Cobalt Dagger",
+    "zh": null,
+    "vi": null
+  },
+  "block.dungeons_and_combat.sandstone_light": {
+    "en": "Sandstone Light",
+    "zh": null,
+    "vi": null
+  },
+  "item.minecraft.potion.effect.divinite": {
+    "en": "Potion of Divinite",
+    "zh": null,
+    "vi": null
+  },
+  "item.dungeons_and_combat.sandstone_shield": {
+    "en": "Sandstone Shield",
+    "zh": null,
+    "vi": null
+  },
+  "item.dungeons_and_combat.true_sword": {
+    "en": "True Claymore",
+    "zh": null,
+    "vi": null
+  },
+  "item.dungeons_and_combat.blessed_rogue_leggings": {
+    "en": "§eBlessed Rogue Pants",
+    "zh": null,
+    "vi": null
+  },
+  "item.dungeons_and_combat.iron_axe": {
+    "en": "Iron Greataxe",
+    "zh": null,
+    "vi": null
+  },
+  "item.dungeons_and_combat.wooden_hammer": {
+    "en": "Wooden Great Club",
+    "zh": null,
+    "vi": null
+  },
+  "item.dungeons_and_combat.amethyst_dragon_shield": {
+    "en": "Amethyst Dragon Shield",
+    "zh": null,
+    "vi": null
+  },
+  "item.dungeons_and_combat.neptunium_hammer": {
+    "en": "Neptunium Greatanchor",
+    "zh": null,
+    "vi": null
+  },
+  "item.dungeons_and_combat.golden_lance_light": {
+    "en": "Golden Glaive",
+    "zh": null,
+    "vi": null
+  },
+  "item.dungeons_and_combat.ammit_armor_chestplate": {
+    "en": "§eAmmit Chestplate",
+    "zh": null,
+    "vi": null
+  },
+  "item.dungeons_and_combat.bronze_dragon_helmet": {
+    "en": "Bronze Dragon Helmet",
+    "zh": null,
+    "vi": null
+  },
+  "item.dungeons_and_combat.bronze_dragon_boots": {
+    "en": "Bronze Dragon Boots",
+    "zh": null,
+    "vi": null
+  },
+  "item.dungeons_and_combat.neptunium_greathammer": {
+    "en": "Neptunium Greatanchor",
+    "zh": null,
+    "vi": null
+  },
+  "item.dungeons_and_combat.bronze_dragon_shield": {
+    "en": "Red Dragon Shield",
+    "zh": null,
+    "vi": null
+  },
+  "item.dungeons_and_combat.crimson_sickle_sword": {
+    "en": "§cCrimson Scythe",
+    "zh": null,
+    "vi": null
+  },
+  "item.dungeons_and_combat.sapphire_dragon_helmet": {
+    "en": "Sapphire Dragon Helmet",
+    "zh": null,
+    "vi": null
+  },
+  "item.dungeons_and_combat.bronze_dragon_chestplate": {
+    "en": "Bronze Dragon Chestplate",
+    "zh": null,
+    "vi": null
+  },
+  "item.dungeons_and_combat.sapphire_dragon_chestplate": {
+    "en": "Sapphire Dragon Chestplate",
+    "zh": null,
+    "vi": null
+  },
+  "item.dungeons_and_combat.ebony_sickle": {
+    "en": "§8Ebony Scythe",
+    "zh": null,
+    "vi": null
+  },
+  "item.dungeons_and_combat.tin_greathammer": {
+    "en": "Tin Greathammer",
+    "zh": null,
+    "vi": null
+  },
+  "effect.dungeons_and_combat.champion_belt_effect": {
+    "en": "Champion Belt Effect",
+    "zh": null,
+    "vi": null
+  },
+  "block.dungeons_and_combat.sandstone_tiles_wall": {
+    "en": "Sandstone Tiles Wall",
+    "zh": null,
+    "vi": null
+  },
+  "item.dungeons_and_combat.dragon_sword_lightning": {
+    "en": "Lightning Dragon Bone Greatsword",
+    "zh": null,
+    "vi": null
+  },
+  "item.dungeons_and_combat.cobalt_shield": {
+    "en": "Cobalt Shield",
+    "zh": null,
+    "vi": null
+  },
+  "item.dungeons_and_combat.dragonsteel_fire_sickle": {
+    "en": "Fire Dragonsteel Katana",
+    "zh": null,
+    "vi": null
+  },
+  "item.dungeons_and_combat.dragon_sword_bone": {
+    "en": "Dragon Bone Greatsword",
+    "zh": null,
+    "vi": null
+  },
+  "item.dungeons_and_combat.cursed_lamp": {
+    "en": "Cursed Lamp",
+    "zh": null,
+    "vi": null
+  },
+  "item.dungeons_and_combat.neptunium_shield": {
+    "en": "Neptunium Shield",
+    "zh": null,
+    "vi": null
+  },
+  "item.dungeons_and_combat.champion_belt": {
+    "en": "Champion Belt",
+    "zh": null,
+    "vi": null
+  },
+  "item.dungeons_and_combat.green_dragon_shield": {
+    "en": "Green Dragon Shield",
+    "zh": null,
+    "vi": null
+  },
+  "item.dungeons_and_combat.bronze_hammer": {
+    "en": "Bronze War Hammer",
+    "zh": null,
+    "vi": null
+  },
+  "item.dungeons_and_combat.neptunium_helmet": {
+    "en": "Neptunium Helmet",
+    "zh": null,
+    "vi": null
+  },
+  "block.dungeons_and_combat.igneous_ore_netherrack": {
+    "en": "Netherrack Igneous Ore",
+    "zh": null,
+    "vi": null
+  },
+  "item.dungeons_and_combat.dragonsteel_lightning_sickle": {
+    "en": "Lightning Dragonsteel Katana",
+    "zh": null,
+    "vi": null
+  },
+  "item.dungeons_and_combat.dragonsteel_fire_sword": {
+    "en": "Fire Dragonsteel Greatsword",
+    "zh": null,
+    "vi": null
+  },
+  "item.dungeons_and_combat.dragonsteel_ice_shield": {
+    "en": "Dragonsteel Ice Shield",
+    "zh": null,
+    "vi": null
+  },
+  "item.dungeons_and_combat.cobalt_long_sword": {
+    "en": "Cobalt Long Sword",
+    "zh": null,
+    "vi": null
+  },
+  "item.dungeons_and_combat.tin_dagger": {
+    "en": "Tin Dagger",
+    "zh": null,
+    "vi": null
+  },
+  "item.dungeons_and_combat.dragonsteel_ice_sword": {
+    "en": "Ice Dragonsteel Greatsword",
+    "zh": null,
+    "vi": null
+  },
+  "effect.dungeons_and_combat.ammit_armor_bonus": {
+    "en": "Ammit Armor Bonus",
+    "zh": null,
+    "vi": null
+  },
+  "item.dungeons_and_combat.wulfrum_rapier": {
+    "en": "Wulfrum Rapier",
+    "zh": null,
+    "vi": null
+  },
+  "item.dungeons_and_combat.sapphire_dragon_shield": {
+    "en": "Amethyst Dragon Shield",
+    "zh": null,
+    "vi": null
+  },
+  "item.dungeons_and_combat.solar_emblem": {
+    "en": "Solar Emblem",
+    "zh": null,
+    "vi": null
+  },
+  "item.dungeons_and_combat.crystal_fists": {
+    "en": "Crystal Fists",
+    "zh": null,
+    "vi": null
+  },
+  "effect.dungeons_and_combat.man_of_dark_steel": {
+    "en": "Man Of Dark Steel",
+    "zh": null,
+    "vi": null
+  },
+  "item.minecraft.splash_potion.effect.divinite": {
+    "en": "Splash Potion of Divinite",
+    "zh": null,
+    "vi": null
+  },
+  "item.dungeons_and_combat.raw_molten_dark_steel": {
+    "en": "Raw Molten Dark Steel",
+    "zh": null,
+    "vi": null
+  },
+  "item.dungeons_and_combat.acid_molten_blazing_hammer": {
+    "en": "§2Acid Molten Blazing Hammer",
+    "zh": null,
+    "vi": null
+  },
+  "item.dungeons_and_combat.blessed_rogue_chestplate": {
+    "en": "§eBlessed Rogue Jacket",
+    "zh": null,
+    "vi": null
+  },
+  "effect.dungeons_and_combat.frostbite": {
+    "en": "Frostbite",
+    "zh": null,
+    "vi": null
+  },
+  "item.dungeons_and_combat.white_dragon_shield": {
+    "en": "White Dragon Shield",
+    "zh": null,
+    "vi": null
+  },
+  "item.dungeons_and_combat.sandstone_sickle": {
+    "en": "Sandstone Twin Blade",
+    "zh": null,
+    "vi": null
+  },
+  "item.dungeons_and_combat.sunrise_sickle": {
+    "en": "Sunrise",
+    "zh": null,
+    "vi": null
+  },
+  "item.dungeons_and_combat.neptunium_chestplate": {
+    "en": "Neptunium Chestplate",
+    "zh": null,
+    "vi": null
+  },
+  "effect.dungeons_and_combat.blessing_of_neptune": {
+    "en": "Blessing of Neptune",
+    "zh": null,
+    "vi": null
+  }
+}

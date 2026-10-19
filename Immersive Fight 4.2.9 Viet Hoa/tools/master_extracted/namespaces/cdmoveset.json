@@ -1,0 +1,592 @@
+{
+  "cdmoveset.weapon_category.katana": {
+    "en": null,
+    "zh": null,
+    "vi": "Katana"
+  },
+  "epicfight.weapon_category.dual_tachi": {
+    "en": "Dual Tachi",
+    "zh": "重太刀",
+    "vi": "Trọng Thái Đao (Dual Tachi)"
+  },
+  "epicfight.weapon_category.s_greatsword": {
+    "en": "Enhanced Greatsword",
+    "zh": "强化重剑",
+    "vi": "Trọng Kiếm Cường Hóa"
+  },
+  "epicfight.weapon_category.s_longsword": {
+    "en": "Enhanced Longsword",
+    "zh": "强化长剑",
+    "vi": "Trường Kiếm Cường Hóa"
+  },
+  "epicfight.weapon_category.s_spear": {
+    "en": "Enhanced Spear",
+    "zh": "强化长枪",
+    "vi": "Trường Thương Cường Hóa"
+  },
+  "epicfight.weapon_category.s_sword": {
+    "en": "Enhanced One-handed Sword",
+    "zh": "强化单手剑",
+    "vi": "Đơn Thủ Kiếm Cường Hóa"
+  },
+  "epicfight.weapon_category.s_tachi": {
+    "en": "Enhanced Tachi",
+    "zh": "强化太刀",
+    "vi": "Thái Đao Cường Hóa"
+  },
+  "epicfight.weapon_category.yamato": {
+    "en": "Yamato",
+    "zh": "阎魔刀",
+    "vi": "Diêm Ma Đao (Yamato)"
+  },
+  "item.cdmoveset.dual_tachi": {
+    "en": "Dual Tachi",
+    "zh": "Dual Tachi",
+    "vi": "Trọng Thái Đao"
+  },
+  "item.cdmoveset.katana": {
+    "en": "Katana",
+    "zh": "武士刀",
+    "vi": "Katana"
+  },
+  "item.cdmoveset.katana.tooltip": {
+    "en": "After 5 seconds of not attacking, the katana is sheathed, and the next attack will be enhanced. Skills will also be enhanced.",
+    "zh": "5秒不攻击后收刀，下次的攻击将会强化.技能也会得到强化",
+    "vi": "Tra kiếm vào bao sau 5 giây không tấn công, đòn đánh kế tiếp sẽ được cường hóa. Kỹ năng cũng được cường hóa theo."
+  },
+  "item.cdmoveset.s_diamonddagger": {
+    "en": null,
+    "zh": null,
+    "vi": "Dao Găm Kim Cương Cường Hóa"
+  },
+  "item.cdmoveset.s_diamondgreatsword": {
+    "en": null,
+    "zh": null,
+    "vi": "Trọng Kiếm Kim Cương Cường Hóa"
+  },
+  "item.cdmoveset.s_diamondlongsword": {
+    "en": null,
+    "zh": null,
+    "vi": "Trường Kiếm Kim Cương Cường Hóa"
+  },
+  "item.cdmoveset.s_diamondspear": {
+    "en": null,
+    "zh": null,
+    "vi": "Trường Thương Kim Cương Cường Hóa"
+  },
+  "item.cdmoveset.s_diamondsword": {
+    "en": null,
+    "zh": null,
+    "vi": "Kiếm Kim Cương Cường Hóa"
+  },
+  "item.cdmoveset.s_diamondtachi": {
+    "en": null,
+    "zh": null,
+    "vi": "Thái Đao Kim Cương Cường Hóa"
+  },
+  "item.cdmoveset.s_irondagger": {
+    "en": null,
+    "zh": null,
+    "vi": "Dao Găm Sắt Cường Hóa"
+  },
+  "item.cdmoveset.s_irongreatsword": {
+    "en": null,
+    "zh": null,
+    "vi": "Trọng Kiếm Sắt Cường Hóa"
+  },
+  "item.cdmoveset.s_ironlongsword": {
+    "en": null,
+    "zh": null,
+    "vi": "Trường Kiếm Sắt Cường Hóa"
+  },
+  "item.cdmoveset.s_ironspear": {
+    "en": null,
+    "zh": null,
+    "vi": "Trường Thương Sắt Cường Hóa"
+  },
+  "item.cdmoveset.s_ironsword": {
+    "en": null,
+    "zh": null,
+    "vi": "Kiếm Sắt Cường Hóa"
+  },
+  "item.cdmoveset.s_irontachi": {
+    "en": null,
+    "zh": null,
+    "vi": "Thái Đao Sắt Cường Hóa"
+  },
+  "item.cdmoveset.s_netheritedagger": {
+    "en": null,
+    "zh": null,
+    "vi": "Dao Găm Netherite Cường Hóa"
+  },
+  "item.cdmoveset.s_netheritegreatsword": {
+    "en": null,
+    "zh": null,
+    "vi": "Trọng Kiếm Netherite Cường Hóa"
+  },
+  "item.cdmoveset.s_netheritelongsword": {
+    "en": null,
+    "zh": null,
+    "vi": "Trường Kiếm Netherite Cường Hóa"
+  },
+  "item.cdmoveset.s_netheritesword": {
+    "en": null,
+    "zh": null,
+    "vi": "Kiếm Netherite Cường Hóa"
+  },
+  "item.cdmoveset.s_netheritetachi": {
+    "en": null,
+    "zh": null,
+    "vi": "Thái Đao Netherite Cường Hóa"
+  },
+  "item.cdmoveset.yamato": {
+    "en": "Yamato",
+    "zh": "阎魔刀",
+    "vi": "Diêm Ma Đao (Cổ Bản)"
+  },
+  "item.cdmoveset.yamato.tooltip": {
+    "en": "A weakened version of the Yamato, you feel the unstable power from this blade.",
+    "zh": "弱化版的阎魔刀,你感受到来自这把刀的力量不稳定",
+    "vi": "Phiên bản suy yếu của Diêm Ma Đao, bạn cảm nhận được sức mạnh từ thanh đao này không ổn định."
+  },
+  "item_group.cdmoveset.corrupt_fight": {
+    "en": "Corrupt Fight",
+    "zh": "Corrupt Fight",
+    "vi": "Corrupt Fight"
+  },
+  "pack.More_Power.title": {
+    "en": null,
+    "zh": null,
+    "vi": "More_Power ! ! !"
+  },
+  "pack.corrupt_animation.title": {
+    "en": "Corrupt Animation",
+    "zh": "Corrupt Animation",
+    "vi": "Corrupt Animation"
+  },
+  "skill.cdmoveset.bloodwolf": {
+    "en": "Blood Wolf",
+    "zh": "狼魂",
+    "vi": "Lang Hồn"
+  },
+  "skill.cdmoveset.bloodwolf.tooltip": {
+    "en": "When the wolf howls, it is time for a counterattack. Gain the protection of the wolf god by dodging and defeating enemies. When the skill level reaches 10, you will gain the protection of the wolf god, enhancing your attacks and having a chance to interrupt enemy attacks.",
+    "zh": "狼嚎之时,即是反击时刻,通过闪避和击败敌人来获得狼神的庇护,当技能层数达到\n\n 10 之时,即会获得狼神的庇护,强化自身攻击,并且有概率中断敌人的攻击",
+    "vi": "Khi tiếng sói hú vang lên, đó là lúc phản kích. Nhận được sự che chở của Sói Thần thông qua việc né tránh và tiêu diệt kẻ địch. Khi tầng kỹ năng đạt 10, sẽ nhận được sự bảo hộ của Sói Thần, cường hóa đòn tấn công của bản thân và có tỉ lệ làm gián đoạn đòn tấn công của kẻ địch."
+  },
+  "skill.cdmoveset.cdparryskill": {
+    "en": "New version technical update, this skill is useless",
+    "zh": "新版本技术更新,这个技能也就没用了",
+    "vi": "Đỡ Đòn Đặc Chế"
+  },
+  "skill.cdmoveset.cdparryskill.tooltip": {
+    "en": "Specially made parry, I don't know how to make it, don't ask",
+    "zh": "专门特制的格挡,我也不会做,别问",
+    "vi": "Kỹ năng đỡ đòn đặc chế cho phiên bản cũ."
+  },
+  "skill.cdmoveset.dual_slash": {
+    "en": "Edge Dance",
+    "zh": "边缘之舞",
+    "vi": "Điệu Nhảy Ranh Giới"
+  },
+  "skill.cdmoveset.dual_slash.tooltip": {
+    "en": "Edge Dance",
+    "zh": "边缘之舞",
+    "vi": "Vung đao liên hoàn tạo thành điệu nhảy ranh giới sắc bén."
+  },
+  "skill.cdmoveset.greatsword_dual_skill": {
+    "en": "Earth Splitting Slash",
+    "zh": "裂地斩",
+    "vi": "Liệt Địa Trảm"
+  },
+  "skill.cdmoveset.greatsword_dual_skill.tooltip": {
+    "en": "A powerful ground-shaking attack that knocks down all enemies within range",
+    "zh": "强力的震地攻击,击倒所有在范围里的敌人",
+    "vi": "Đòn tấn công chấn động mặt đất mạnh mẽ, quật ngã toàn bộ kẻ địch trong phạm vi."
+  },
+  "skill.cdmoveset.guardparry": {
+    "en": "Absolute Defense",
+    "zh": "绝对防御",
+    "vi": "Tuyệt Đối Phòng Ngự"
+  },
+  "skill.cdmoveset.guardparry.tooltip": {
+    "en": "Allows you to adjust your defensive stance and block all blockable attacks during the skill duration. Each defeated enemy restores one layer of defense points (the base value of defense points is 4, the Sweeping Blade enchantment can increase defense points)",
+    "zh": "允许你调整防御姿态,并且在技能持续期间,格挡所有可以格挡的攻击,每击败一名敌人回复一层防御点数(防御点数的基础数值为4,横扫之刃附魔可以提高防御点数)",
+    "vi": "Cho phép điều chỉnh tư thế phòng ngự, và trong thời gian kỹ năng duy trì, đỡ toàn bộ đòn đánh có thể đỡ. Mỗi khi tiêu diệt một kẻ địch hồi phục một tầng điểm phòng ngự (Chỉ số cơ bản của điểm phòng ngự là 4, phù phép Quét Của Kiếm có thể tăng điểm phòng ngự)."
+  },
+  "skill.cdmoveset.katanaskill": {
+    "en": "Critical Strike",
+    "zh": "会心一击",
+    "vi": "Hội Tâm Nhất Kích"
+  },
+  "skill.cdmoveset.katanaskill.tooltip": {
+    "en": "A swift thrust that pierces through enemies in its path. In a running state, you can sheathe the sword and deliver a powerful strike.",
+    "zh": "迅猛的突刺,刺穿路径的敌人,在奔跑状态下可以收起鞘斩出强力的一击",
+    "vi": "Cú đâm cực nhanh xuyên thủng kẻ địch trên đường đi. Ở trạng thái chạy bộ có thể tra kiếm vào bao và tung ra đòn chém uy lực."
+  },
+  "skill.cdmoveset.katanaspskill": {
+    "en": "Critical Strike",
+    "zh": "会心一击",
+    "vi": "Hội Tâm Phản Sát"
+  },
+  "skill.cdmoveset.katanaspskill.tooltip": {
+    "en": "Adopt a stance to block the enemy's attack and then execute a killing blow.",
+    "zh": "竖起架势,挡住敌人的攻击并且将敌人斩杀",
+    "vi": "Dựng tư thế thủ, chặn đòn đánh của kẻ địch và tung nhát chém kết liễu kẻ địch."
+  },
+  "skill.cdmoveset.lethalslicing": {
+    "en": "Lethal Slash",
+    "zh": "致命切割",
+    "vi": "Trảm Cắt Chí Mạng"
+  },
+  "skill.cdmoveset.lethalslicing.tooltip": {
+    "en": "Stun the enemy and deliver a powerful strike. The number of strikes varies depending on the number of enemies.",
+    "zh": "击晕敌人并斩出强力的一击,根据敌人的数量斩击的次数也不同",
+    "vi": "Làm choáng kẻ địch và tung cú chém uy lực, số lần chém thay đổi tùy theo số lượng kẻ địch."
+  },
+  "skill.cdmoveset.psstep": {
+    "en": null,
+    "zh": null,
+    "vi": "Lang Thần Chi Dược"
+  },
+  "skill.cdmoveset.psstep.tooltip": {
+    "en": null,
+    "zh": null,
+    "vi": "Cho phép bạn sử dụng các động tác khác nhau để né tránh. Né tránh thành công kích hoạt hiệu ứng đặc biệt và hồi phục năng lượng vũ khí."
+  },
+  "skill.cdmoveset.shiled_slahs": {
+    "en": "Shield Bash!!!!",
+    "zh": "盾击!!!!",
+    "vi": "Thuẫn Kích!!!!"
+  },
+  "skill.cdmoveset.shiled_slahs.tooltip": {
+    "en": "Use the shield to block the enemy's attack and stun the enemy.",
+    "zh": "使用盾牌,抵挡住敌人的攻击,并且眩晕敌人",
+    "vi": "Sử dụng khiên chặn đứng đòn tấn công của kẻ địch và làm choáng chúng."
+  },
+  "skill.cdmoveset.spearslash": {
+    "en": "Spear Dance",
+    "zh": "枪舞",
+    "vi": "Thương Vũ"
+  },
+  "skill.cdmoveset.spearslash.tooltip": {
+    "en": "Grab surrounding enemies and deliver a powerful knockdown.",
+    "zh": "抓取周围的敌人并且强力的击倒",
+    "vi": "Tóm lấy kẻ địch xung quanh và quật ngã chúng cực mạnh."
+  },
+  "skill.cdmoveset.fatalfalsh": {
+    "en": "Fatal Flash",
+    "zh": "一闪",
+    "vi": "Nhất Thiểm"
+  },
+  "skill.cdmoveset.fatalfalsh.tooltip": {
+    "en": "Lock onto a low-health enemy and perform a kill, which cannot be interrupted during execution (Weapons allowed: uchigatana, katana, tachi, longsword)",
+    "zh": "锁定低血量的敌人并进行斩杀,斩杀期间不可被打断(可用武器:打刀,武士刀,太刀,长剑)",
+    "vi": "Khóa mục tiêu kẻ địch thấp máu và tung nhát chém kết liễu.\nKhi kẻ địch dưới mức máu nhất định sẽ xuất hiện dấu ấn kết liễu, nhấp chuột trái để kết liễu, trong thời gian kết liễu không thể bị gián đoạn.\n(Vũ khí khả dụng: Katana, Tachi, Trường Kiếm)"
+  },
+  "skill.cdmoveset.sstep": {
+    "en": "Step (for creatures, bosses, etc.)",
+    "zh": "跨步(为生物,boss,等准备)",
+    "vi": "Chưa Bật"
+  },
+  "skill.cdmoveset.sstep.tooltip": {
+    "en": "A meaningless dodge skill book, maybe the author was too lazy to delete it. It doesn't differ much from dodging, except that it reduces stamina consumption by 1.\n\n(Stamina: %d)",
+    "zh": "意义不明的闪避技能书,也许是作者太懒了忘记删掉了吧,和闪避没什么区别,就是闪避消耗减少了 1 耐力。\n\n（耐力：%d）",
+    "vi": "Sách kỹ năng chưa kích hoạt.\n\n(Thể lực: %d)"
+  },
+  "skill.cdmoveset.sword_slash": {
+    "en": "Enhanced Sweeping Blade",
+    "zh": "强化横扫之刃",
+    "vi": "Cường Hóa Hoành Tảo"
+  },
+  "skill.cdmoveset.sword_slash.tooltip": {
+    "en": "Spin forward and deliver a powerful strike.",
+    "zh": "向前旋转斩出强力的一击",
+    "vi": "Xoay người về phía trước tung ra một đòn chém uy lực."
+  },
+  "skill.cdmoveset.wind_slash": {
+    "en": "Steel Whirlwind",
+    "zh": "钢铁旋风",
+    "vi": "Lốc Xoáy Thép"
+  },
+  "skill.cdmoveset.wind_slash.tooltip": {
+    "en": "Raise your greatsword and slash all surrounding enemies.",
+    "zh": "举起你的大剑,斩开周围的所有敌人",
+    "vi": "Nâng cao đại kiếm của bạn, chém tan toàn bộ kẻ địch xung quanh."
+  },
+  "skill.cdmoveset.yamato_step": {
+    "en": "Phantom",
+    "zh": "幻影",
+    "vi": "Ảo Ảnh"
+  },
+  "skill.cdmoveset.yamato_step.tooltip": {
+    "en": "Teleport in a specified direction. Dodge all dodgeable attacks.\n\n(Stamina: %d)",
+    "zh": "向指定方向闪现。 闪避所有可以闪避的攻击。\n\n（耐力：%d）",
+    "vi": "Tốc biến về hướng chỉ định. Né tránh toàn bộ đòn tấn công có thể né.\n\n(Thể lực: %d)"
+  },
+  "skill.cdmoveset.bstep": {
+    "en": "Better Step",
+    "zh": "更好的跨步",
+    "vi": "Sải Bước Linh Hoạt"
+  },
+  "skill.cdmoveset.bstep.tooltip": {
+    "en": "Better Step.\n\n(Stamina: %d)",
+    "zh": "更好的跨步.\n\n（耐力：%d）",
+    "vi": "Sải bước né tránh linh hoạt hơn.\n\n(Thể lực: %d)"
+  },
+  "skill.cdmoveset.yamatoskill": {
+    "en": "During the preparation phase of normal skill usage, being attacked by the enemy can trigger a counterattack. After 1a, 2a, 3a, you can release additional combos, and after a parry, you can release the Illusory Blade Realm for a counterattack.",
+    "zh": "普通技能在使用过程的准备阶段受到敌人的攻击可以反击,1a,2a,3a后均可释放追加连段,在招架之后可以释放虚幻刀界进行反击",
+    "vi": "Diêm Ma Đao"
+  },
+  "skill.cdmoveset.yamatoskill.tooltip": {
+    "en": "Depending on the attack, the combo delivered is different.",
+    "zh": "根据攻击的不同,打出的连击也不同",
+    "vi": "Kỹ năng thông thường trong giai đoạn chuẩn bị nếu bị kẻ địch tấn công có thể phản đòn. Sau các đòn 1A, 2A, 3A đều có thể tung ra chuỗi combo nối tiếp. Sau khi đỡ đòn có thể giải phóng Hư Huyễn Đao Giới để phản kích.\nTùy theo đòn tấn công mà tạo ra chuỗi combo khác nhau."
+  },
+  "epicfight.weapon_category.phantom_katana": {
+    "en": "Phantom Katana",
+    "zh": "幻锋",
+    "vi": null
+  },
+  "epicfight.weapon_category.katana": {
+    "en": "Katana",
+    "zh": "武士刀",
+    "vi": null
+  },
+  "epicfight.style.yamato": {
+    "en": "Yamato",
+    "zh": "Yamato",
+    "vi": null
+  },
+  "epicfight.weapon_category.great_tachi": {
+    "en": "Dual Tachi",
+    "zh": "重太刀",
+    "vi": null
+  },
+  "item.cdmoveset.phantom_katana": {
+    "en": "Phantom Katana",
+    "zh": "幻锋",
+    "vi": null
+  },
+  "item.cdmoveset.phantom_katana.tooltip": {
+    "en": "A very ordinary katana",
+    "zh": "一把非常普通的武士刀",
+    "vi": null
+  },
+  "item.cdmoveset.s_wooden_greatsword": {
+    "en": "Enhanced Wooden Greatsword",
+    "zh": "强化木制重剑",
+    "vi": null
+  },
+  "item.cdmoveset.s_stone_greatsword": {
+    "en": "Enhanced Stone Greatsword",
+    "zh": "强化石制重剑",
+    "vi": null
+  },
+  "item.cdmoveset.s_golden_greatsword": {
+    "en": "Enhanced Golden Greatsword",
+    "zh": "强化金制重剑",
+    "vi": null
+  },
+  "item.cdmoveset.s_wooden_longsword": {
+    "en": "Enhanced Wooden Longsword",
+    "zh": "强化木制长剑",
+    "vi": null
+  },
+  "item.cdmoveset.s_stone_longsword": {
+    "en": "Enhanced Stone Longsword",
+    "zh": "强化石制长剑",
+    "vi": null
+  },
+  "item.cdmoveset.s_golden_longsword": {
+    "en": "Enhanced Golden Longsword",
+    "zh": "强化金制长剑",
+    "vi": null
+  },
+  "item.cdmoveset.s_wooden_tachi": {
+    "en": "Enhanced Wooden Tachi",
+    "zh": "强化木制太刀",
+    "vi": null
+  },
+  "item.cdmoveset.s_stone_tachi": {
+    "en": "Enhanced Stone Tachi",
+    "zh": "强化石制太刀",
+    "vi": null
+  },
+  "item.cdmoveset.s_golden_tachi": {
+    "en": "Enhanced Golden Tachi",
+    "zh": "强化金制太刀",
+    "vi": null
+  },
+  "item.cdmoveset.s_wooden_spear": {
+    "en": "Enhanced Wooden Spear",
+    "zh": "强化木制长枪",
+    "vi": null
+  },
+  "item.cdmoveset.s_stone_spear": {
+    "en": "Enhanced Stone Spear",
+    "zh": "强化石制长枪",
+    "vi": null
+  },
+  "item.cdmoveset.s_golden_spear": {
+    "en": "Enhanced Golden Spear",
+    "zh": "强化金制长枪",
+    "vi": null
+  },
+  "item.cdmoveset.s_diamond_dagger": {
+    "en": "Enhanced Diamond Dagger",
+    "zh": "强化钻石制匕首",
+    "vi": null
+  },
+  "item.cdmoveset.s_diamond_greatsword": {
+    "en": "Enhanced Diamond Greatsword",
+    "zh": "强化钻石重剑",
+    "vi": null
+  },
+  "item.cdmoveset.s_diamond_longsword": {
+    "en": "Enhanced Diamond Longsword",
+    "zh": "强化钻石长剑",
+    "vi": null
+  },
+  "item.cdmoveset.s_diamond_spear": {
+    "en": "Enhanced Diamond Spear",
+    "zh": "强化钻石长枪",
+    "vi": null
+  },
+  "item.cdmoveset.s_diamond_sword": {
+    "en": "Enhanced Diamond Sword",
+    "zh": "强化钻石剑",
+    "vi": null
+  },
+  "item.cdmoveset.s_diamond_tachi": {
+    "en": "Enhanced Diamond Tachi",
+    "zh": "强化钻石太刀",
+    "vi": null
+  },
+  "item.cdmoveset.s_iron_dagger": {
+    "en": "Enhanced Iron Dagger",
+    "zh": "强化铁制匕首",
+    "vi": null
+  },
+  "item.cdmoveset.s_iron_greatsword": {
+    "en": "Enhanced Iron Greatsword",
+    "zh": "强化铁重剑",
+    "vi": null
+  },
+  "item.cdmoveset.s_iron_longsword": {
+    "en": "Enhanced Iron Longsword",
+    "zh": "强化铁长剑",
+    "vi": null
+  },
+  "item.cdmoveset.s_iron_spear": {
+    "en": "Enhanced Iron Spear",
+    "zh": "强化铁长枪",
+    "vi": null
+  },
+  "item.cdmoveset.s_iron_sword": {
+    "en": "Enhanced Iron Sword",
+    "zh": "强化铁剑",
+    "vi": null
+  },
+  "item.cdmoveset.s_iron_tachi": {
+    "en": "Enhanced Iron Tachi",
+    "zh": "强化铁太刀",
+    "vi": null
+  },
+  "item.cdmoveset.s_netherite_dagger": {
+    "en": "Enhanced Netherite Dagger",
+    "zh": "强化下界合金制匕首",
+    "vi": null
+  },
+  "item.cdmoveset.s_netherite_greatsword": {
+    "en": "Enhanced Netherite Greatsword",
+    "zh": "强化下界合金重剑",
+    "vi": null
+  },
+  "item.cdmoveset.s_netherite_longsword": {
+    "en": "Enhanced Netherite Longsword",
+    "zh": "强化下界合金长剑",
+    "vi": null
+  },
+  "item.cdmoveset.s_netherite_sword": {
+    "en": "Enhanced Netherite Sword",
+    "zh": "强化下界合金剑",
+    "vi": null
+  },
+  "item.cdmoveset.s_netherite_tachi": {
+    "en": "Enhanced Netherite Tachi",
+    "zh": "强化下界合金太刀",
+    "vi": null
+  },
+  "item.cdmoveset.s_netherite_spear": {
+    "en": "Enhanced Netherite Spear",
+    "zh": "强化下界合金长枪",
+    "vi": null
+  },
+  "item.cdmoveset.s_wooden_sword": {
+    "en": "Enhanced Wooden Sword",
+    "zh": "强化木剑",
+    "vi": null
+  },
+  "item.cdmoveset.s_golden_sword": {
+    "en": "Enhanced Golden Sword",
+    "zh": "强化金剑",
+    "vi": null
+  },
+  "item.cdmoveset.s_stone_sword": {
+    "en": "Enhanced Stone Sword",
+    "zh": "强化石剑",
+    "vi": null
+  },
+  "item.cdmoveset.great_tachi": {
+    "en": "Crimson Fang",
+    "zh": "绯红之牙",
+    "vi": null
+  },
+  "item.cdmoveset.great_tachi.tooltip": {
+    "en": "A Tachi stained crimson, you can feel the blade's thirst for blood",
+    "zh": "染上绯红的一把太刀,你感受到这把刀对于鲜血的渴望",
+    "vi": null
+  },
+  "pack.more_power.title": {
+    "en": "More Power !!!",
+    "zh": "More Power !!!",
+    "vi": null
+  },
+  "skill.cdmoveset.wolf_dodge": {
+    "en": "Wolf God Leap",
+    "zh": "狼神之跃",
+    "vi": null
+  },
+  "skill.cdmoveset.wolf_dodge.tooltip": {
+    "en": "Allows you to use different actions to dodge. A successful dodge can trigger special effects and restore weapon charge.",
+    "zh": "允许你使用不同的动作进行闪避,闪避成功可以触发特效.并恢复武器充能.",
+    "vi": null
+  },
+  "skill.cdmoveset.ex_yamato_step": {
+    "en": "Yamato step (cannot be learned)",
+    "zh": "Yamato step(无法学习)",
+    "vi": null
+  },
+  "skill.cdmoveset.ex_yamato_step.tooltip": {
+    "en": "Exclusive dodge skill for Yamato  (Without Yamato, you cannot use this skill. When holding the Yamato , and dodge is set to Phantom, this skill will activate automatically)",
+    "zh": "阎魔刀专属闪避技能 (没有阎魔刀,你无法使用此技能,当持有阎魔刀时,并且闪避为阎魔刀闪避时,此技能会自动激活)",
+    "vi": null
+  },
+  "skill.cdmoveset.greeat_tachiskill": {
+    "en": "Blood Blade",
+    "zh": "血刃裂空",
+    "vi": null
+  },
+  "skill.cdmoveset.greeat_tachiskill.tooltip": {
+    "en": "After a brief charge, stun the enemy, deal a fatal attack, and effectively push back the enemy.",
+    "zh": "短暂的蓄力之后,眩晕敌人,造成致命攻击,并有效地击退敌人",
+    "vi": null
+  },
+  "pack.cdmoveset.forixaim_yamato.title": {
+    "en": "Forixaim's Yamato",
+    "zh": "Forixaim's Yamato",
+    "vi": null
+  }
+}

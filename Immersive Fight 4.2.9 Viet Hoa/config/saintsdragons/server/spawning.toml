@@ -1,0 +1,74 @@
+
+[spawning]
+	#Entity spawn configuration - control how often Saint's Dragons creatures spawn
+	#Note: spawn weights are relative per biome/category roll.
+	#Final spawn frequency also depends on each entity's spawn predicate and placement checks.
+	#Natural wild dragon spawns are also filtered by shared density rules to stop creature-category dragons from piling up.
+	#Raevyx additionally requires a thunderstorm for natural/chunk-generation spawning.
+	#Raevyx spawn settings
+	raevyxCustomSpawningEnabled = true
+	#Range: 0 ~ 5000
+	raevyxSpawnWeight = 4
+	#Range: 1 ~ 10
+	raevyxMinGroupSize = 1
+	#Range: 1 ~ 10
+	raevyxMaxGroupSize = 1
+	#Stegonaut spawn settings
+	stegonautCustomSpawningEnabled = true
+	#Range: 0 ~ 5000
+	stegonautSpawnWeight = 4
+	#Range: 1 ~ 10
+	stegonautMinGroupSize = 1
+	#Range: 1 ~ 10
+	stegonautMaxGroupSize = 3
+	#Cindervane spawn settings
+	#Range: 0 ~ 5000
+	cindervaneSpawnWeight = 4
+	#Range: 1 ~ 10
+	cindervaneMinGroupSize = 1
+	#Range: 1 ~ 10
+	cindervaneMaxGroupSize = 2
+	#Ignivorus spawn settings
+	#Range: 0 ~ 5000
+	ignivorusSpawnWeight = 1
+	#Range: 1 ~ 10
+	ignivorusMinGroupSize = 1
+	#Range: 1 ~ 10
+	ignivorusMaxGroupSize = 1
+	#Atroxiia spawn settings
+	#Range: 0 ~ 5000
+	atroxiiaSpawnWeight = 3
+	#Range: 1 ~ 10
+	atroxiiaMinGroupSize = 1
+	#Range: 1 ~ 10
+	atroxiiaMaxGroupSize = 1
+	#Volitans spawn settings (custom underwater spawner for ocean/wetland habitats)
+	volitansCustomSpawningEnabled = true
+	#Range: 0 ~ 5000
+	volitansSpawnWeight = 4
+	#Range: 1 ~ 10
+	volitansMinGroupSize = 1
+	#Range: 1 ~ 10
+	volitansMaxGroupSize = 1
+	#Nulljaw spawn settings (End-floating dragon)
+	#Range: 0 ~ 5000
+	nulljawSpawnWeight = 4
+	#Range: 1 ~ 10
+	nulljawMinGroupSize = 1
+	#Range: 1 ~ 10
+	nulljawMaxGroupSize = 3
+	#Moop spawn settings
+	#Range: 0 ~ 5000
+	moopSpawnWeight = 2
+	#Range: 1 ~ 10
+	moopMinGroupSize = 1
+	#Range: 1 ~ 10
+	moopMaxGroupSize = 1
+	#Mossback spawn settings
+	#Range: 0 ~ 5000
+	mossbackSpawnWeight = 2
+	#Range: 1 ~ 10
+	mossbackMinGroupSize = 1
+	#Range: 1 ~ 10
+	mossbackMaxGroupSize = 2
+

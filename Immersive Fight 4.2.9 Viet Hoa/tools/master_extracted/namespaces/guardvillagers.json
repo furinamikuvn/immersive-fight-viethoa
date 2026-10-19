@@ -1,0 +1,52 @@
+{
+  "entity.guardvillagers.guard": {
+    "en": "Guard",
+    "zh": "警卫",
+    "vi": null
+  },
+  "item.guardvillagers.guard_spawn_egg": {
+    "en": "Guard Spawn Egg",
+    "zh": "警卫刷怪蛋",
+    "vi": null
+  },
+  "item.guardvillagers.illusioner_spawn_egg": {
+    "en": "Illusioner Spawn Egg",
+    "zh": "幻术师刷怪蛋",
+    "vi": null
+  },
+  "item.guardvillagers.iron_golem_spawn_egg": {
+    "en": "Iron Golem Spawn Egg",
+    "zh": "铁傀儡刷怪蛋",
+    "vi": null
+  },
+  "item.guardvillagers.snow_golem_spawn_egg": {
+    "en": "Snow Golem Spawn Egg",
+    "zh": "雪傀儡刷怪蛋",
+    "vi": null
+  },
+  "guardinventory.health": {
+    "en": "Health: %s",
+    "zh": "生命值: %s",
+    "vi": null
+  },
+  "guardinventory.armor": {
+    "en": "Armor: %s",
+    "zh": "护甲值: %s",
+    "vi": null
+  },
+  "subtitles.entity.guard.ambient": {
+    "en": "Guard mumbles",
+    "zh": "警卫：喃喃自语",
+    "vi": null
+  },
+  "subtitles.entity.guard.hurt": {
+    "en": "Guard hurts",
+    "zh": "警卫：受伤",
+    "vi": null
+  },
+  "subtitles.entity.guard.death": {
+    "en": "Guard dies",
+    "zh": "警卫：死亡",
+    "vi": null
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "unlocked_by_default": true,
+  "title": "Chiến Đấu",
+  "icon": {
+    "type": "effect",
+    "data": {
+      "effect": "obscure_api:fury"
+    }
+  },
+  "background": "textures/gui/cjzdbeijing.png"
+}

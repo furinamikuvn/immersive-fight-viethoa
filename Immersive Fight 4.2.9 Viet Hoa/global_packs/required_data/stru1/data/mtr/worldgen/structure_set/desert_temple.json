@@ -1,0 +1,14 @@
+{
+    "structures": [
+        {
+            "structure": "mtr:desert_temple",
+            "weight": 1
+        }
+    ],
+    "placement": {
+        "type": "moogs_structures:advanced_random_spread",
+        "salt": 225874987,
+        "spacing": 50,
+        "separation": 8
+    }
+}

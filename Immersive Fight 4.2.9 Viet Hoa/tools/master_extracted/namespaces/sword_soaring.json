@@ -1,0 +1,312 @@
+{
+  "key.sword_soaring.common": {
+    "en": "Epic Fight: Sword Soaring",
+    "zh": "御剑飞行",
+    "vi": "Kiếm bay"
+  },
+  "epicfight.skill_slot.sword_soaring": {
+    "en": "Sword Soaring",
+    "zh": "御剑飞行",
+    "vi": "Kiếm bay"
+  },
+  "key.sword_soaring.take_off": {
+    "en": "Initiate Flight",
+    "zh": "御剑飞行",
+    "vi": "Kiếm bay"
+  },
+  "key.sword_soaring.acceleration": {
+    "en": "Boost",
+    "zh": "御剑飞行加速",
+    "vi": "Tăng tốc bay kiếm"
+  },
+  "skill.sword_soaring.sword_soaring_apprentice": {
+    "en": "Sword Soaring: Lv1",
+    "zh": "御剑术·初习",
+    "vi": "Kiếm thuật·Học ban đầu"
+  },
+  "skill.sword_soaring.sword_soaring_apprentice.tooltip": {
+    "en": "Apprentice\n\nDouble click [%s] to take off. Holding [%s] to speed up.",
+    "zh": "快速双击【空格】开始御剑飞行，期间消耗耐力，按住Ctrl可以加速飞行。当耐力耗尽将会坠落。",
+    "vi": "Bấm nhanh hai lần vào [Space] để bắt đầu bay bằng thanh kiếm, việc này tiêu tốn sức chịu đựng. Giữ phím Ctrl để tăng tốc độ bay. Sẽ gục ngã khi sức chịu đựng cạn kiệt."
+  },
+  "skill.sword_soaring.sword_soaring_expert": {
+    "en": "Sword Soaring: Lv2",
+    "zh": "御剑术·精熟",
+    "vi": "Kiếm thuật · Thành thạo"
+  },
+  "skill.sword_soaring.sword_soaring_expert.tooltip": {
+    "en": "Expert\n\nDouble click [%s] to take off. Holding [%s] to speed up.",
+    "zh": "快速双击【空格】开始御剑飞行，期间消耗耐力，按住Ctrl可以加速飞行。当耐力耗尽将会坠落。  现在御剑飞行速度更快，耐力消耗降低。",
+    "vi": "Bấm nhanh hai lần vào [Space] để bắt đầu bay bằng thanh kiếm, việc này tiêu tốn sức chịu đựng. Giữ phím Ctrl để tăng tốc độ bay. Sẽ gục ngã khi sức chịu đựng cạn kiệt.  Mitsurugi bây giờ bay nhanh hơn và tiêu tốn ít sức chịu đựng hơn."
+  },
+  "skill.sword_soaring.sword_soaring_elytra_expert": {
+    "en": "Soaring-Elytra2",
+    "zh": "御剑术·鞘翅",
+    "vi": "Kiếm thuật·Elytra"
+  },
+  "skill.sword_soaring.sword_soaring_elytra_expert.tooltip": {
+    "en": "Expert-Elytra\n\nDouble click [%s] to take off. Holding [%s] to speed up.",
+    "zh": "鞘翅与御剑飞行技巧的结合，穿戴鞘翅后【双击空格】起飞，御剑辅助鞘翅飞行，你的鞘翅耐力条恢复速度更快。",
+    "vi": "Sự kết hợp giữa kỹ năng bay elytra và kiếm, sau khi đeo elytra [nhấp đúp vào khoảng trống] để cất cánh, thanh kiếm sẽ hỗ trợ elytra bay và thanh sức chịu đựng elytra của bạn sẽ phục hồi nhanh hơn."
+  },
+  "skill.sword_soaring.vatansever.tooltip0": {
+    "en": null,
+    "zh": "技能",
+    "vi": "Kỹ năng"
+  },
+  "skill.sword_soaring.vatansever.tooltip01": {
+    "en": null,
+    "zh": "§f普攻循环§r ——",
+    "vi": "§f chu kỳ tấn công cơ bản§r——"
+  },
+  "skill.sword_soaring.vatansever.tooltip02": {
+    "en": null,
+    "zh": "§f飞行：§r ——长按",
+    "vi": "Chuyến bay §f: §r - nhấn và giữ"
+  },
+  "skill.epicfight.sword_soaring.category": {
+    "en": "Sword Soaring",
+    "zh": "御剑飞行",
+    "vi": "Kiếm bay"
+  },
+  "entity.sword_soaring.vatansever": {
+    "en": null,
+    "zh": " ",
+    "vi": " "
+  },
+  "itemGroup.sword_soaring.items": {
+    "en": "Sword Soaring Items",
+    "zh": "御剑凌虚 秘典",
+    "vi": null
+  },
+  "item.sword_soaring.vatansever": {
+    "en": "Vatansever",
+    "zh": "「卫疆刃」",
+    "vi": null
+  },
+  "item.sword_soaring.vatansever.description1": {
+    "en": " —— §b§lIts frost's chill guards realms serene;§r§c§lThrough slaughter's maze, purges taint unclean§r",
+    "zh": " —— §b§l镇三尺霜寒，可护山河无恙；§r§c§l纵千重杀阵，亦诛寰宇邪祟§r",
+    "vi": null
+  },
+  "item.sword_soaring.vatansever.description2": {
+    "en": "Forged post-Celestial War by Kunwu's master smith, this blade consumed century-cured Netheriron and divine bones within Guixu's crucible. At its birth, heaven wept stardust tears. Its edge bears Celestial Array sigils, while draconic essence coils along its spine - not mere steel, but destiny's answer when cataclysm demands blood to preserve mortal hearths. Now awakened, its glacial arrays shatter mountains yet shelter cooking-smoke villages.",
+    "zh": "上古神魔战后，昆吾山铸剑宗师采九幽寒铁、神魔骸骨，于归墟秘境淬炼百年，方成此刃。剑成之日，天降星坠如泪，刃身自显「天罡剑阵」符纹，更引龙魂盘踞剑脊——方知此刃非杀器，实为苍生劫至时，以杀止祸、以剑卫道的天命之兵。而今剑阵启，冰刃环魄蚀骨，巨剑贯日碎岳，镇的是八荒妖异，守的却是红尘炊烟。",
+    "vi": null
+  },
+  "skill.sword_soaring.vatansever.tooltip1": {
+    "en": "§3§lXuanming: Soulfrost Circle§r —— ",
+    "zh": "§3§l玄冥·环魄蚀心§r —— ",
+    "vi": null
+  },
+  "skill.sword_soaring.vatansever.tooltip2": {
+    "en": "§7With glacial sigils, frostblades form,/Inscribed with runes that rend the soul's core§r",
+    "zh": "§7幽寒阵纹凝冰刃，环中亡魄尽销骨§r",
+    "vi": null
+  },
+  "skill.sword_soaring.vatansever.tooltip3": {
+    "en": "§c§lTri-Sun Piercer Art§r —— ",
+    "zh": "§c§l三元贯日诀§r —— ",
+    "vi": null
+  },
+  "skill.sword_soaring.vatansever.tooltip4": {
+    "en": "§7Three suns merge through draconic might,/One thrust parts clouds to pierce heaven's height§r",
+    "zh": "§7剑合三元凝龙脊，一刃破云贯九霄",
+    "vi": null
+  },
+  "skill.sword_soaring.vatansever.tooltip5": {
+    "en": "§f§lSixfold Abyss Crusher§r —— ",
+    "zh": "§f§l六极镇狱式§r —— ",
+    "vi": null
+  },
+  "skill.sword_soaring.vatansever.tooltip6": {
+    "en": "§7Six peaks condense in crushing arc,/One slash cleanses hell's eternal dark§r",
+    "zh": "§7剑聚六极化岳重，一斩荡魔碎冥渊",
+    "vi": null
+  },
+  "skill.sword_soaring.vatansever.tooltip7": {
+    "en": "§f§lGuixu's Cliff of Blades§r —— ",
+    "zh": "§f§l归墟千仞壁§r —— ",
+    "vi": null
+  },
+  "skill.sword_soaring.vatansever.tooltip8": {
+    "en": "§7Blade-wrought walls seal life's last breath,/Guixu's silence sings requiem of death§r",
+    "zh": "§7环刃成壁断生死，归墟寂灭葬轮回",
+    "vi": null
+  },
+  "skill.sword_soaring.vatansever.tooltip9": {
+    "en": "§b§lDragon's Maw Annihilation§r —— ",
+    "zh": "§b§l龙渊环杀诀§r —— ",
+    "vi": null
+  },
+  "skill.sword_soaring.vatansever.tooltip10": {
+    "en": "§7Coiled dragon's breath becomes edged storm,/Array awakens - sun and moon reform§r",
+    "zh": "§7潜龙吐息凝刃环，阵启如渊吞日月",
+    "vi": null
+  },
+  "skill.sword_soaring.sword_soaring_master": {
+    "en": "Soaring: Master",
+    "zh": "御剑术·臻境",
+    "vi": null
+  },
+  "skill.sword_soaring.sword_soaring_master.tooltip": {
+    "en": "You have already been a master, flying will not consume stamina and enter cooldown.\n\nDouble click [%s] to take off. Holding [%s] to speed up.",
+    "zh": "六尘不染\n\n习得此技，御剑无须耗炁力，亦无调息之虞\n\n双击[%s]以始御剑，长按[%s]而速之。",
+    "vi": null
+  },
+  "skill.sword_soaring.sword_soaring_elytra_apprentice": {
+    "en": "Soaring-Elytra1",
+    "zh": "御剑术·初习（翼）",
+    "vi": null
+  },
+  "skill.sword_soaring.sword_soaring_elytra_apprentice.tooltip": {
+    "en": "Apprentice-Elytra\n\nDouble click [%s] to take off. Holding [%s] to speed up.",
+    "zh": "翼展初成\n\n双击[%s]以始御剑，长按[%s]而速之。",
+    "vi": null
+  },
+  "skill.sword_soaring.sword_soaring_elytra_master": {
+    "en": "Elytra-Master",
+    "zh": "御剑术·臻境（翼）",
+    "vi": null
+  },
+  "skill.sword_soaring.sword_soaring_elytra_master.tooltip": {
+    "en": "You have already been a master, flying will not consume stamina and enter cooldown.\n\nDouble click [%s] to take off. Holding [%s] to speed up.",
+    "zh": "翼展无碍\n\n习得此技，御剑无须耗炁力，亦无调息之虞\n\n双击[%s]以始御剑，长按[%s]而速之。",
+    "vi": null
+  },
+  "skill.sword_soaring.vatansever_dodge": {
+    "en": "Vatansever Dodge",
+    "zh": "Vatansever Dodge",
+    "vi": null
+  },
+  "skill.sword_soaring.vatansever_dodge.tooltip": {
+    "en": "Dodge Skill for Vatansever. This skill will be learned automatically when you equip Vatansever. And the skill is invalid when holding other weapon.",
+    "zh": "Dodge Skill for Vatansever. This skill will be learned automatically when you equip Vatansever. And the skill is invalid when holding other weapon.",
+    "vi": null
+  },
+  "epicfight.skill_slot.sword_controller": {
+    "en": "Sword Dominion",
+    "zh": "御剑诀",
+    "vi": null
+  },
+  "skill.epicfight.sword_controller.category": {
+    "en": "Blade Scripture Codex",
+    "zh": "剑诀真章",
+    "vi": null
+  },
+  "skill.sword_soaring.screen_sword": {
+    "en": "Voidblade Domain: Severance",
+    "zh": "太虚剑域·绝",
+    "vi": null
+  },
+  "skill.sword_soaring.screen_sword.tooltip": {
+    "en": "§f§lSword-qi weaves net sealing realms eight,/Array complete - heaven-earth resonate§r\n\nSummon Voidblade Domain to deflect harm. Nullifies projectiles, counters melee strikes with blade's maximum might\n\nLoses 1 sword per %d/6 hits, healing %.1f HP\n\nDuration: %.1fs\nCooldown: %.1fs\n\n press [%s]",
+    "zh": "§f§l剑炁织网封八荒，环阵成时天地肃§r\n\n唤太虚剑域以御诸伤。可避飞矢之害，若受他击必反制，其威不逾兵刃之极\n\n每承击（%d/6）次，则失一剑，复得 %.1f 炁血\n\n存续：%.1f 息\n\n调息：%.1f 息\n\n 按 [%s]",
+    "vi": null
+  },
+  "skill.sword_soaring.kill_aura_1": {
+    "en": "Stellar Annihilation: Cataclysm",
+    "zh": "星陨环阵·劫",
+    "vi": null
+  },
+  "skill.sword_soaring.kill_aura_1.tooltip": {
+    "en": "§b§lCelestial stars descend to mortal plane,/Ring's radiance brings purging flame§r\n\nSummons meteor array damaging nearby foes (scales with weapon)\n\nDuration: %.1fs\nCooldown: %.1fs\n\n press [%s]",
+    "zh": "§b§l周天星斗落凡尘，环光所覆皆陨灭§r\n\n召星陨之阵伤周遭生灵，其威视兵刃而定\n\n存续：%.1f 息\n\n调息：%.1f 息\n\n 按 [%s]",
+    "vi": null
+  },
+  "skill.sword_soaring.kill_aura_2": {
+    "en": "Bloodlotus Incineration",
+    "zh": "血戮莲华·烬",
+    "vi": null
+  },
+  "skill.sword_soaring.kill_aura_2.tooltip": {
+    "en": "§c§lCrimson rings bloom as lotus fire,/Scorching all life, leaving none entire§r\n\nIgnites blazing array (scales with weapon), sets foes aflame\n\nDuration: %.1fs\nCooldown: %.1fs\n\n press [%s]",
+    "zh": "§c§l赤焰环刃绽如莲，焚尽苍生不留痕§r\n\n唤赤莲之阵焚四野，其威视兵刃而定，中者皆燃\n\n存续：%.1f 息\n\n调息：%.1f 息\n\n 按 [%s]",
+    "vi": null
+  },
+  "skill.sword_soaring.rain_sword": {
+    "en": "Celestial Array: Purge",
+    "zh": "天罡剑阵·灭",
+    "vi": null
+  },
+  "skill.sword_soaring.rain_sword.tooltip": {
+    "en": "§f§lBig Dipper's might forms sword domain,/Where array reaches - evil's bane§r\n\nEach strike summons %d-%d phantom blades\n\nDuration: %.1fs\nCooldown: %.1fs\n\n press [%s]",
+    "zh": "§f§l北斗天罡化剑域，环阵所至尽诛邪§r\n\n施术则凡击皆引剑雨，每击可生 %d 至 %d 余刃\n\n存续：%.1f 息\n\n调息：%.1f 息\n\n 按 [%s]",
+    "vi": null
+  },
+  "skill.sword_soaring.babylon": {
+    "en": "Babylonian Armory",
+    "zh": "王庭宝库",
+    "vi": null
+  },
+  "skill.sword_soaring.babylon.tooltip": {
+    "en": "Unleash treasury of blades raining from skies\n\n§e§l\"Hmph. Noble armaments deserve proper use\"§r\n\nCooldown: %.1fs\n\n press [%s]",
+    "zh": "启宝库纳万兵，化剑雨贯长空\n\n §e§l「哼。此等宝具，回收方显其用」 §r\n\n调息：%.1f 息\n\n 按 [%s]",
+    "vi": null
+  },
+  "skill.sword_soaring.wan_jian_gui_zong": {
+    "en": "Myriad Blades Convergence",
+    "zh": "万剑归宗",
+    "vi": null
+  },
+  "skill.sword_soaring.wan_jian_gui_zong.tooltip": {
+    "en": "Qi commands the Eight Directions,\nBlades dominate Six Realms' foundations.\n\nSoaring qi summons thousand-edge storm,\nFocused will merges myriad blades' form.\n\nPeak sword dao - mysteries unfold,\nOnly enlightened may this art behold.\n\nCooldown: %.1fs\n\n press [%s]",
+    "zh": "炁引八荒，剑御六合。\n\n驭炁凌虚，千刃啸空如龙骧\n凝神守中，万锋归一若星聚\n\n此乃剑道极诣，非通玄者不可窥其奥也。   §r\n\n调息：%.1f 息\n\n 按 [%s]",
+    "vi": null
+  },
+  "key.sword_soaring.sword_skill": {
+    "en": "Sword Skill",
+    "zh": "御剑诀",
+    "vi": null
+  },
+  "key.sword_soaring.sword_back": {
+    "en": "Sword Back (Vatansever)",
+    "zh": "剑归（卫疆刃）",
+    "vi": null
+  },
+  "key.sword_soaring.switch_mode": {
+    "en": "Toggle Soaring Mode",
+    "zh": "易御剑式",
+    "vi": null
+  },
+  "key.sword_soaring.sword_skill.description": {
+    "en": "Performs your weapon’s special sword skill when available.",
+    "zh": null,
+    "vi": null
+  },
+  "key.sword_soaring.sword_back.description": {
+    "en": "Returns your Vatansever sword to your back position.",
+    "zh": null,
+    "vi": null
+  },
+  "key.sword_soaring.take_off.description": {
+    "en": "Initiates Sword Soaring Flight if you have the required Epic Fight skill.",
+    "zh": null,
+    "vi": null
+  },
+  "key.sword_soaring.acceleration.description": {
+    "en": "Temporarily boosts your flight speed while soaring.",
+    "zh": null,
+    "vi": null
+  },
+  "key.sword_soaring.switch_mode.description": {
+    "en": "Toggles between different Sword Soaring flight modes.",
+    "zh": null,
+    "vi": null
+  },
+  "tips.sword_soaring.style_change": {
+    "en": "Current Flight Mode:",
+    "zh": "御剑式：",
+    "vi": null
+  },
+  "biome.sword_soaring.the_wraithium_battlegrounds": {
+    "en": "The Wraithium Battlegrounds",
+    "zh": "冥古战域",
+    "vi": null
+  },
+  "skill_tree.sword_soaring.sword_soaring_skills": {
+    "en": "Sword Skills",
+    "zh": "御剑诀",
+    "vi": null
+  }
+}

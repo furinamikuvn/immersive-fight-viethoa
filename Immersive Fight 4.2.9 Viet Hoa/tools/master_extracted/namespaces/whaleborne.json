@@ -1,0 +1,142 @@
+{
+  "itemGroup.whaleborne.whaleborne": {
+    "en": "Whaleborne",
+    "zh": null,
+    "vi": null
+  },
+  "block.whaleborne.barnacle": {
+    "en": "Barnacle Block",
+    "zh": null,
+    "vi": null
+  },
+  "block.whaleborne.rough_barnacle": {
+    "en": "Rough Barnacle Block",
+    "zh": null,
+    "vi": null
+  },
+  "item.whaleborne.barnacle": {
+    "en": "Barnacle Block",
+    "zh": null,
+    "vi": null
+  },
+  "item.whaleborne.rough_barnacle": {
+    "en": "Rough Barnacle Block",
+    "zh": null,
+    "vi": null
+  },
+  "subtitles.block.barnacle.organ": {
+    "en": "Barnacle sings",
+    "zh": null,
+    "vi": null
+  },
+  "item.whaleborne.sail": {
+    "en": "Sail",
+    "zh": null,
+    "vi": null
+  },
+  "item.whaleborne.anchor": {
+    "en": "Anchor",
+    "zh": null,
+    "vi": null
+  },
+  "item.whaleborne.mast": {
+    "en": "Mast",
+    "zh": null,
+    "vi": null
+  },
+  "item.whaleborne.helm": {
+    "en": "Helm",
+    "zh": null,
+    "vi": null
+  },
+  "item.whaleborne.cannon": {
+    "en": "Cannon",
+    "zh": null,
+    "vi": null
+  },
+  "entity.whaleborne.sail": {
+    "en": "Sail",
+    "zh": null,
+    "vi": null
+  },
+  "entity.whaleborne.anchor": {
+    "en": "Anchor",
+    "zh": null,
+    "vi": null
+  },
+  "entity.whaleborne.anchor_head": {
+    "en": "Anchor Head",
+    "zh": null,
+    "vi": null
+  },
+  "entity.whaleborne.mast": {
+    "en": "Mast",
+    "zh": null,
+    "vi": null
+  },
+  "entity.whaleborne.helm": {
+    "en": "Helm",
+    "zh": null,
+    "vi": null
+  },
+  "entity.whaleborne.cannon": {
+    "en": "Cannon",
+    "zh": null,
+    "vi": null
+  },
+  "menu.title.whaleborne.cannon": {
+    "en": "Cannon",
+    "zh": null,
+    "vi": null
+  },
+  "item.whaleborne.hullback_spawn_egg": {
+    "en": "Hullback Spawn Egg",
+    "zh": null,
+    "vi": null
+  },
+  "entity.whaleborne.hullback": {
+    "en": "Hullback",
+    "zh": null,
+    "vi": null
+  },
+  "subtitles.entity.hullback.ambient": {
+    "en": "Hullback sings",
+    "zh": null,
+    "vi": null
+  },
+  "subtitles.entity.hullback.hurt": {
+    "en": "Hullback hurts",
+    "zh": null,
+    "vi": null
+  },
+  "subtitles.entity.hullback.death": {
+    "en": "Hullback dies",
+    "zh": null,
+    "vi": null
+  },
+  "subtitles.entity.hullback.happy": {
+    "en": "Hullback amused",
+    "zh": null,
+    "vi": null
+  },
+  "subtitles.entity.hullback.tame": {
+    "en": "Hullback sings happily",
+    "zh": null,
+    "vi": null
+  },
+  "subtitles.entity.hullback.mad": {
+    "en": "Hullback groans",
+    "zh": null,
+    "vi": null
+  },
+  "subtitles.entity.hullback.swim": {
+    "en": "Hullback swims",
+    "zh": null,
+    "vi": null
+  },
+  "subtitles.entity.hullback.breathe": {
+    "en": "Hullback breaches",
+    "zh": null,
+    "vi": null
+  }
+}

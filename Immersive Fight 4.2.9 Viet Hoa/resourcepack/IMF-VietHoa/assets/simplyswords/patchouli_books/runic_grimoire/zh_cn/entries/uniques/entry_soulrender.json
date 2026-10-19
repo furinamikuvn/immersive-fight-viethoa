@@ -1,0 +1,17 @@
+{
+  "name": "chia đôi tâm hồn",
+  "icon": "simplyswords:soulrender",
+  "advancement": "simplyswords:soulrender",
+  "category": "simplyswords:category_unique_weapons",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:soulrender",
+      "text": "Lưỡi đao Liệt Hồn chế tác từ kim loại đen thần bí, tỏa ra tà năng tột cùng. Không chỉ chém sắt gãy xương mà còn có thể cắt đứt cả linh hồn."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Mục tiêu bị Xé Rách Linh Hồn sẽ suy yếu nặng nề. Lưỡi hái của Pháp Sư Chiêu Hồn thu hoạch linh hồn kẻ địch, uy lực tột bậc nhưng ẩn chứa hiểm họa."
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+    "replace": false,
+    "values": [
+        "minecraft:jungle",
+        "minecraft:bamboo_jungle",
+        "minecraft:sparse_jungle",
+        "minecraft:mangrove_swamp",
+        {
+            "id": "terralith:rocky_jungle",
+            "required": false
+        },
+        {
+            "id": "terralith:amethyst_rainforest",
+            "required": false
+        },
+        {
+            "id": "regions_unexplored:rainforest",
+            "required": false
+        },
+        {
+            "id": "#c:is_jungle",
+            "required": false
+        }
+    ]
+}

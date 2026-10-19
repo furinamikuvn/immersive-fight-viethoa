@@ -1,0 +1,14 @@
+{
+    "structures": [
+        {
+            "structure": "mtr:badlands_temple",
+            "weight": 1
+        }
+    ],
+    "placement": {
+        "type": "moogs_structures:advanced_random_spread",
+        "salt": 8859687364,
+        "spacing": 55,
+        "separation": 6
+    }
+}

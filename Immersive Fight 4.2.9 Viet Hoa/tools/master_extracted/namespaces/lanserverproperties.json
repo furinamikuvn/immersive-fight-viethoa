@@ -1,0 +1,92 @@
+{
+  "lanserverproperties.options.online_mode": {
+    "en": "Online Mode",
+    "zh": "在线模式",
+    "vi": null
+  },
+  "lanserverproperties.options.online_mode.on": {
+    "en": "Online Mode: ON",
+    "zh": "在线模式: 启用",
+    "vi": null
+  },
+  "lanserverproperties.options.online_mode.on.message": {
+    "en": "Enabling online mode will only allow players logged in with valid Microsoft/Mojang accounts to join the LAN server.",
+    "zh": "启用在线模式将只允许使用微软/Mojang帐户登录的玩家加入本服务器.",
+    "vi": null
+  },
+  "lanserverproperties.options.online_mode.off.vanilla": {
+    "en": "Online Mode: OFF",
+    "zh": "在线模式: 关闭",
+    "vi": null
+  },
+  "lanserverproperties.options.online_mode.off.vanilla.message": {
+    "en": "Disabling online mode will allow anyone to join the LAN server.",
+    "zh": "禁用在线模式将允许非正版玩家加入.",
+    "vi": null
+  },
+  "lanserverproperties.options.online_mode.off.fixed": {
+    "en": "Offline Mode + UUID Fix",
+    "zh": "离线模式+UUID修复",
+    "vi": null
+  },
+  "lanserverproperties.options.online_mode.off.fixed.message": {
+    "en": "This mode will allow anyone to join the LAN server while retaining the UUID for those who logged in with their Microsoft/Mojang accounts. Use this mode if you are migrating from the online mode and want to retain the inventories.",
+    "zh": "此模式将允许任何人加入本服务器, 同时为使用微软/Mojang帐户登录的用户保留UUID. 如果您正在从在线模式迁移, 请使用此模式, 它可以防止背包和物品栏内容丢失.",
+    "vi": null
+  },
+  "lanserverproperties.options.preference_enabled": {
+    "en": "Auto Load Preference",
+    "zh": "自动读取已存配置",
+    "vi": null
+  },
+  "lanserverproperties.options.preference_enabled.message": {
+    "en": "Automatically load the settings from the stored preference, if the server is not published. Otherwise, this window displays the current configuration of the server.",
+    "zh": "打开本窗口时自动读取已存配置,只在服务器未开放时生效,服务器开放后本页面默认显示当前服务器配置.",
+    "vi": null
+  },
+  "lanserverproperties.button.lan_server_options": {
+    "en": "LAN Server Options",
+    "zh": "局域网服务器配置",
+    "vi": null
+  },
+  "lanserverproperties.button.preference_load": {
+    "en": "Load Preference",
+    "zh": "从已存配置读取",
+    "vi": null
+  },
+  "lanserverproperties.button.preference_save": {
+    "en": "Save Preference",
+    "zh": "保存配置",
+    "vi": null
+  },
+  "lanserverproperties.gui.pvp_allowed": {
+    "en": "PvP Allowed",
+    "zh": "允许PvP",
+    "vi": null
+  },
+  "lanserverproperties.gui.port_listening": {
+    "en": "Listening on:",
+    "zh": "已开端口:",
+    "vi": null
+  },
+  "lanserverproperties.gui.port": {
+    "en": "Port:",
+    "zh": "监听端口:",
+    "vi": null
+  },
+  "lanserverproperties.gui.max_player": {
+    "en": "Max Player:",
+    "zh": "最大玩家数:",
+    "vi": null
+  },
+  "lanserverproperties.gui.always_offline": {
+    "en": "Always Offline Players",
+    "zh": "强制离线模式的玩家名列表",
+    "vi": null
+  },
+  "lanserverproperties.gui.always_offline.message": {
+    "en": "A list of space-separated player names that are always considered offline. Only valid in the 'Offline Mode + UUID Fix' mode and can be helpful to resolve the name collision between an offline player and a registered online player.",
+    "zh": "在本列表使用空格分隔，只在'离线模式+UUID修复模式'中有效. 若发生离线玩家与已注册的正版版玩家名字冲突, 可将离线玩家名字加入这里.",
+    "vi": null
+  }
+}

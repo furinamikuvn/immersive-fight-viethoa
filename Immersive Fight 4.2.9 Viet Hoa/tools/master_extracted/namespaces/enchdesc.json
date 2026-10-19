@@ -1,0 +1,927 @@
+{
+  "_comment": {
+    "en": "Vanilla Enchantment Descriptions",
+    "zh": "原版附魔描述",
+    "vi": "Mô tả bùa mê ban đầu"
+  },
+  "tooltip.enchdesc.addedby": {
+    "en": null,
+    "zh": "来源: %s",
+    "vi": "Nguồn: %s"
+  },
+  "tooltip.enchdesc.activate": {
+    "en": null,
+    "zh": "按下%s%s%s查看附魔描述.",
+    "vi": "Nhấn %s%s%s để xem mô tả bùa mê."
+  },
+  "enchantment.minecraft.protection.desc": {
+    "en": "Reduces damage from most sources.",
+    "zh": "减少来自大多数来源的伤害。",
+    "vi": "Giảm thiệt hại từ hầu hết các nguồn."
+  },
+  "enchantment.minecraft.fire_protection.desc": {
+    "en": "Reduces the effects of fire damage. Also reduces the burn time when set on fire.",
+    "zh": "减少火焰伤害的效果。同时减少着火时的燃烧时间。",
+    "vi": "Giảm hiệu ứng sát thương của lửa. Đồng thời làm giảm thời gian cháy trong trường hợp hỏa hoạn."
+  },
+  "enchantment.minecraft.feather_falling.desc": {
+    "en": "Reduces fall damage and ender pearl teleportation damage.",
+    "zh": "减少摔落伤害和末影珍珠传送伤害。",
+    "vi": "Giảm sát thương khi rơi và sát thương dịch chuyển ngọc trai cuối cùng."
+  },
+  "enchantment.minecraft.blast_protection.desc": {
+    "en": "Reduces damage from explosions and explosion knockback.",
+    "zh": "减少爆炸伤害和爆炸击退效果。",
+    "vi": "Giảm sát thương vụ nổ và đánh bật vụ nổ."
+  },
+  "enchantment.minecraft.projectile_protection.desc": {
+    "en": "Reduces damage from projectiles such as arrows and fire balls.",
+    "zh": "减少来自如箭矢和火球等弹射物的伤害。",
+    "vi": "Giảm sát thương từ các loại đạn như mũi tên và quả cầu lửa."
+  },
+  "enchantment.minecraft.respiration.desc": {
+    "en": "Allows the user to breathe longer underwater.",
+    "zh": "延长玩家在水下的时间。同时改善水下视野。",
+    "vi": "Kéo dài thời gian người chơi có thể ở dưới nước. Cũng cải thiện tầm nhìn dưới nước."
+  },
+  "enchantment.minecraft.aqua_affinity.desc": {
+    "en": "Increases mining speed while underwater.",
+    "zh": "提高在水下的挖掘速度。",
+    "vi": "Tăng tốc độ đào dưới nước."
+  },
+  "enchantment.minecraft.thorns.desc": {
+    "en": "Causes damage to enemies when they attack you.",
+    "zh": "当敌人攻击你时，对敌人造成伤害。",
+    "vi": "Khi kẻ địch tấn công bạn, hãy gây sát thương cho kẻ địch."
+  },
+  "enchantment.minecraft.sharpness.desc": {
+    "en": "Increases the damage of the item.",
+    "zh": "增加武器的攻击力。",
+    "vi": "Tăng sức tấn công của vũ khí."
+  },
+  "enchantment.minecraft.smite.desc": {
+    "en": "Increases damage against undead mobs such as Zombies and Skeletons.",
+    "zh": "增加对亡灵生物（如僵尸和骷髅）的伤害。",
+    "vi": "Tăng sát thương chống lại các sinh vật bất tử như zombie và bộ xương."
+  },
+  "enchantment.minecraft.bane_of_arthropods.desc": {
+    "en": "Increases damage against arthropods such as Spiders and Silverfish.",
+    "zh": "增加对节肢动物（如蜘蛛和蠹虫）的伤害。",
+    "vi": "Tăng sát thương cho động vật chân đốt như nhện và cá bạc."
+  },
+  "enchantment.minecraft.knockback.desc": {
+    "en": "Increases the knockback strength of the weapon.",
+    "zh": "增加武器的击退效果。",
+    "vi": "Tăng hiệu ứng đẩy lùi của vũ khí."
+  },
+  "enchantment.minecraft.fire_aspect.desc": {
+    "en": "Causes additional fire damage when used to attack a mob.",
+    "zh": "攻击生物时造成额外的火焰伤害。",
+    "vi": "Gây thêm sát thương lửa khi tấn công sinh vật."
+  },
+  "enchantment.minecraft.looting.desc": {
+    "en": "Mobs will drop more loot when killed.",
+    "zh": "杀死生物时，生物会掉落更多战利品。",
+    "vi": "Mob rơi ra nhiều chiến lợi phẩm hơn khi bị giết."
+  },
+  "enchantment.minecraft.efficiency.desc": {
+    "en": "Increases mining speed of the tool.",
+    "zh": "提高工具的挖掘速度。",
+    "vi": "Tăng tốc độ đào của công cụ."
+  },
+  "enchantment.minecraft.silk_touch.desc": {
+    "en": "Allows fragile blocks such as glass to be collected.",
+    "zh": "允许收集易碎的方块，如玻璃。",
+    "vi": "Cho phép thu thập các khối dễ vỡ như thủy tinh."
+  },
+  "enchantment.minecraft.unbreaking.desc": {
+    "en": "Causes the tool to lose durability at a slower rate.",
+    "zh": "使工具的耐久度下降速度减慢。",
+    "vi": "Làm chậm quá trình mất độ bền của công cụ."
+  },
+  "enchantment.minecraft.fortune.desc": {
+    "en": "Some blocks like coal and diamond ore may drop additional items.",
+    "zh": "对一些方块，如煤和钻石矿石，可能会掉落额外的物品。",
+    "vi": "Một số khối, chẳng hạn như than đá và quặng kim cương, có thể rơi ra các vật phẩm bổ sung."
+  },
+  "enchantment.minecraft.power.desc": {
+    "en": "Increases the damage of arrows fired from the bow.",
+    "zh": "增加弓射出的箭的伤害。",
+    "vi": "Tăng sát thương của mũi tên bắn ra từ cung."
+  },
+  "enchantment.minecraft.punch.desc": {
+    "en": "Increases the knockback strength of arrows fired by the bow.",
+    "zh": "增加弓射出的箭的击退强度。",
+    "vi": "Tăng sức mạnh đánh bật của mũi tên bắn ra từ cung."
+  },
+  "enchantment.minecraft.flame.desc": {
+    "en": "Arrows fired from the bow will deal additional fire damage.",
+    "zh": "弓射出的箭将造成额外的火焰伤害。",
+    "vi": "Mũi tên bắn ra từ cung gây thêm sát thương lửa."
+  },
+  "enchantment.minecraft.infinity.desc": {
+    "en": "Allows the bow to fire normal arrows for free. You must have at least one arrow for this to work.",
+    "zh": "允许弓免费射出普通箭矢。至少需要一支箭才能生效。",
+    "vi": "Cho phép cung bắn tên bình thường miễn phí. Cần ít nhất một mũi tên để có hiệu quả."
+  },
+  "enchantment.minecraft.luck_of_the_sea.desc": {
+    "en": "Increases the chance of getting good loot while fishing.",
+    "zh": "增加钓鱼时获得优质战利品的几率。",
+    "vi": "Tăng cơ hội nhận được chiến lợi phẩm chất lượng khi câu cá."
+  },
+  "enchantment.minecraft.lure.desc": {
+    "en": "Decreases the amount of time it takes for a fish to bite the hook.",
+    "zh": "减少鱼咬钩所需的时间。",
+    "vi": "Giảm thời gian cá cắn câu."
+  },
+  "enchantment.minecraft.depth_strider.desc": {
+    "en": "Increases movement speed while underwater.",
+    "zh": "增加在水下的移动速度。",
+    "vi": "Tăng tốc độ di chuyển dưới nước."
+  },
+  "enchantment.minecraft.frost_walker.desc": {
+    "en": "Water under the user will freeze into frosted ice.",
+    "zh": "将玩家脚下的水冻结成霜冰。",
+    "vi": "Đóng băng nước dưới chân người chơi thành băng giá."
+  },
+  "enchantment.minecraft.mending.desc": {
+    "en": "Repairs the durability of armor and tools with XP.",
+    "zh": "使用经验值修复盔甲和工具的耐久度。",
+    "vi": "Sử dụng điểm kinh nghiệm để sửa chữa độ bền của áo giáp và công cụ."
+  },
+  "enchantment.minecraft.binding_curse.desc": {
+    "en": "Prevents the cursed item from being removed from an armor slot.",
+    "zh": "防止诅咒物品从盔甲槽中被移除。",
+    "vi": "Ngăn chặn việc vật phẩm bị nguyền rủa bị lấy ra khỏi khe áo giáp."
+  },
+  "enchantment.minecraft.vanishing_curse.desc": {
+    "en": "Destroys the cursed item if you die with it in your inventory.",
+    "zh": "如果玩家在携带诅咒物品时死亡，该物品将被销毁。",
+    "vi": "Nếu người chơi chết khi đang mang theo vật phẩm bị nguyền rủa, vật phẩm đó sẽ bị phá hủy."
+  },
+  "enchantment.minecraft.sweeping.desc": {
+    "en": "Increases the damage of sweeping attacks.",
+    "zh": "增加横扫攻击的伤害。",
+    "vi": "Tăng sát thương của các đòn tấn công quét."
+  },
+  "enchantment.minecraft.loyalty.desc": {
+    "en": "Allows the trident to automatically return after being thrown.",
+    "zh": "允许三叉戟在被投掷后自动返回。",
+    "vi": "Cho phép cây đinh ba tự động quay trở lại sau khi bị ném đi."
+  },
+  "enchantment.minecraft.impaling.desc": {
+    "en": "Increases damage to aquatic mobs.",
+    "zh": "增加对水生生物的伤害。",
+    "vi": "Tăng thiệt hại cho đời sống thủy sinh."
+  },
+  "enchantment.minecraft.riptide.desc": {
+    "en": "Using the trident while in rain or water will launch the user forward.",
+    "zh": "允许玩家随着三叉戟一同飞出。仅在下雨或水中有效。",
+    "vi": "Cho phép người chơi bay ra ngoài bằng cây đinh ba. Chỉ hiệu quả khi trời mưa hoặc nước."
+  },
+  "enchantment.minecraft.channeling.desc": {
+    "en": "Allows the trident to summon lightning bolts during thunderstorms.",
+    "zh": "允许三叉戟在雷雨期间召唤闪电。",
+    "vi": "Cho phép cây đinh ba triệu hồi tia sét khi có giông bão."
+  },
+  "enchantment.minecraft.multishot.desc": {
+    "en": "Fires additional arrows in similar directions.",
+    "zh": "发射额外的箭矢。",
+    "vi": "Bắn thêm mũi tên."
+  },
+  "enchantment.minecraft.quick_charge.desc": {
+    "en": "Increases the reload speed of crossbows.",
+    "zh": "增加弩的装填速度。",
+    "vi": "Tăng tốc độ nạp lại nỏ."
+  },
+  "enchantment.minecraft.piercing.desc": {
+    "en": "Allows projectiles to pierce through mobs.",
+    "zh": "允许投射物穿透生物。",
+    "vi": "Cho phép đạn xuyên qua sinh vật."
+  },
+  "enchantment.minecraft.soul_speed.desc": {
+    "en": "Increases movement speed on soul blocks.",
+    "zh": "增加在灵魂方块上的移动速度。",
+    "vi": "Tăng tốc độ di chuyển trên các khối linh hồn."
+  },
+  "enchantment.minecraft.swift_sneak.desc": {
+    "en": "Increases movement speed while sneaking.",
+    "zh": "增加潜行时的移动速度。",
+    "vi": "Tăng tốc độ di chuyển khi lén lút."
+  },
+  "enchdesc.activate.message": {
+    "en": "Hold shift to view enchantment descriptions.",
+    "zh": null,
+    "vi": null
+  },
+  "__comment_jei": {
+    "en": "JEI Compat",
+    "zh": null,
+    "vi": null
+  },
+  "enchdesc.jei.compatible_items.title": {
+    "en": "Compatible Items",
+    "zh": null,
+    "vi": null
+  },
+  "__support_gofish": {
+    "en": "Go Fish support https://www.curseforge.com/minecraft/mc-mods/go-fish",
+    "zh": null,
+    "vi": null
+  },
+  "enchantment.gofish.deepfry.desc": {
+    "en": "Reeling in certain fish will cook them.",
+    "zh": null,
+    "vi": null
+  },
+  "__support_shield+": {
+    "en": "Shields+ https://www.curseforge.com/minecraft/mc-mods/shieldsplus",
+    "zh": null,
+    "vi": null
+  },
+  "enchantment.shieldsplus.recoil.desc": {
+    "en": "Knocks back attackers and projectiles.",
+    "zh": null,
+    "vi": null
+  },
+  "enchantment.shieldsplus.reflection.desc": {
+    "en": "Reflects damage back at attackers.",
+    "zh": null,
+    "vi": null
+  },
+  "enchantment.shieldsplus.reinforced.desc": {
+    "en": "Increases amount of damage blocked by shields.",
+    "zh": null,
+    "vi": null
+  },
+  "enchantment.shieldsplus.aegis.desc": {
+    "en": "Reduces damage taken while blocking.",
+    "zh": null,
+    "vi": null
+  },
+  "enchantment.shieldsplus.ablaze.desc": {
+    "en": "Sets attackers and projectiles on fire.",
+    "zh": null,
+    "vi": null
+  },
+  "enchantment.shieldsplus.lightweight.desc": {
+    "en": "Allows the user to move faster when blocking.",
+    "zh": null,
+    "vi": null
+  },
+  "enchantment.shieldsplus.fast_recovery.desc": {
+    "en": "Reduces shield cooldown times.",
+    "zh": null,
+    "vi": null
+  },
+  "enchantment.shieldsplus.shield_bash.desc": {
+    "en": "Gives the shield a bash attack.",
+    "zh": null,
+    "vi": null
+  },
+  "__support_grapplemod": {
+    "en": "Grapple Mod https://www.curseforge.com/minecraft/mc-mods/grappling-hook-mod",
+    "zh": null,
+    "vi": null
+  },
+  "enchantment.grapplemod.wallrunenchantment.desc": {
+    "en": "Allows the user to run on walls.",
+    "zh": null,
+    "vi": null
+  },
+  "enchantment.grapplemod.doublejumpenchantment.desc": {
+    "en": "Allows the user to jump twice.",
+    "zh": null,
+    "vi": null
+  },
+  "enchantment.grapplemod.slidingenchantment.desc": {
+    "en": "Allows the user to slide using built up momentum.",
+    "zh": null,
+    "vi": null
+  },
+  "__support_hunterillager": {
+    "en": "https://www.curseforge.com/minecraft/mc-mods/huntersreturn",
+    "zh": null,
+    "vi": null
+  },
+  "enchantment.hunterillager.bounce.desc": {
+    "en": "Increases how much boomerangs will bounce off walls.",
+    "zh": null,
+    "vi": null
+  },
+  "__support_betterarcheology": {
+    "en": "https://www.curseforge.com/minecraft/mc-mods/better-archeology",
+    "zh": null,
+    "vi": null
+  },
+  "enchantment.betterarcheology.penetrating_strike.desc": {
+    "en": "Some damage will bypass protection enchantments.",
+    "zh": null,
+    "vi": null
+  },
+  "enchantment.betterarcheology.seas_bounty.desc": {
+    "en": "Allows you to catch more types of treasure.",
+    "zh": null,
+    "vi": null
+  },
+  "enchantment.betterarcheology.soaring_winds.desc": {
+    "en": "Gives the elytra a boost when taking off.",
+    "zh": null,
+    "vi": null
+  },
+  "enchantment.betterarcheology.tunneling.desc": {
+    "en": "Mines the block below the target block as well.",
+    "zh": null,
+    "vi": null
+  },
+  "__support_deeperdarker": {
+    "en": "https://www.curseforge.com/minecraft/mc-mods/deeperdarker",
+    "zh": null,
+    "vi": null
+  },
+  "enchantment.deeperdarker.catalysis.desc": {
+    "en": "Killing mobs will spread sculk nearby.",
+    "zh": null,
+    "vi": null
+  },
+  "enchantment.deeperdarker.sculk_smite.desc": {
+    "en": "Increases damage to sculk based mobs.",
+    "zh": null,
+    "vi": null
+  },
+  "__support_endlessbiomes": {
+    "en": "https://www.curseforge.com/minecraft/mc-mods/endless-biomes",
+    "zh": null,
+    "vi": null
+  },
+  "enchantment.endlessbiomes.vwooping.desc": {
+    "en": "Enemies that attack you may be teleported away.",
+    "zh": null,
+    "vi": null
+  },
+  "enchantment.endlessbiomes.shared_pain": {
+    "en": "When a mob is killed any excess damage will be dealt to nearby mobs.",
+    "zh": null,
+    "vi": null
+  },
+  "__support_stalwart_dungeons": {
+    "en": "https://www.curseforge.com/minecraft/mc-mods/stalwart-dungeons",
+    "zh": null,
+    "vi": null
+  },
+  "enchantment.stalwart_dungeons.thunder_strike.desc": {
+    "en": "Gives hammers the ability to summon lightning.",
+    "zh": null,
+    "vi": null
+  },
+  "__support_dungeonsenchantments": {
+    "en": "https://www.curseforge.com/minecraft/mc-mods/dungeons-enchantments",
+    "zh": null,
+    "vi": null
+  },
+  "enchantment.dungeonsenchantments.thundering.desc": {
+    "en": "Attacks strike the target with lightning.",
+    "zh": null,
+    "vi": null
+  },
+  "enchantment.dungeonsenchantments.freezing.desc": {
+    "en": "Attacks slow the target down.",
+    "zh": null,
+    "vi": null
+  },
+  "enchantment.dungeonsenchantments.fuse_shot.desc": {
+    "en": "Bows may shoot explosive arrows.",
+    "zh": null,
+    "vi": null
+  },
+  "enchantment.dungeonsenchantments.deflect.desc": {
+    "en": "Arrows may deflect back at the shooter.",
+    "zh": null,
+    "vi": null
+  },
+  "enchantment.dungeonsenchantments.guarding_strike.desc": {
+    "en": "Defeating enemies boosts your defence temporarily.",
+    "zh": null,
+    "vi": null
+  },
+  "enchantment.dungeonsenchantments.leeching.desc": {
+    "en": "Defeating enemies will heal the user.",
+    "zh": null,
+    "vi": null
+  },
+  "enchantment.dungeonsenchantments.rush.desc": {
+    "en": "Temporarily increases speed after the user is hurt.",
+    "zh": null,
+    "vi": null
+  },
+  "enchantment.dungeonsenchantments.weakening.desc": {
+    "en": "Attacks temporarily weaken the enemy.",
+    "zh": null,
+    "vi": null
+  },
+  "enchantment.dungeonsenchantments.cowardice.desc": {
+    "en": "Attacks do more damage when the users health is full.",
+    "zh": null,
+    "vi": null
+  },
+  "enchantment.dungeonsenchantments.illagers_bane.desc": {
+    "en": "Attacks do more damage against illagers.",
+    "zh": null,
+    "vi": null
+  },
+  "enchantment.dungeonsenchantments.radiance.desc": {
+    "en": "Heals nearby players.",
+    "zh": null,
+    "vi": null
+  },
+  "enchantment.dungeonsenchantments.radiance_shot.desc": {
+    "en": "Arrows heal nearby players.",
+    "zh": null,
+    "vi": null
+  },
+  "enchantment.dungeonsenchantments.void_strike.desc": {
+    "en": "Consecutive attacks do more damage.",
+    "zh": null,
+    "vi": null
+  },
+  "enchantment.dungeonsenchantments.pain_cycle.desc": {
+    "en": "Attacks hurt the user. Every fifth attack deals massive damage.",
+    "zh": null,
+    "vi": null
+  },
+  "enchantment.dungeonsenchantments.ambush.desc": {
+    "en": "Attacks deal extra damage to enemies that are not looking at you.",
+    "zh": null,
+    "vi": null
+  },
+  "enchantment.dungeonsenchantments.exploding.desc": {
+    "en": "Attacks also create an explosion.",
+    "zh": null,
+    "vi": null
+  },
+  "enchantment.dungeonsenchantments.recycler.desc": {
+    "en": "Being hit by projectiles sometimes produces arrows.",
+    "zh": null,
+    "vi": null
+  },
+  "__support_create_stuff": {
+    "en": "https://www.curseforge.com/minecraft/mc-mods/create-stuff-additions",
+    "zh": null,
+    "vi": null
+  },
+  "enchantment.create_sa.gravity_gun.desc": {
+    "en": "Allows the Block Picker to move and throw entities.",
+    "zh": null,
+    "vi": null
+  },
+  "enchantment.create_sa.impact.desc": {
+    "en": "Allows the Grapplin Whisk to do a small burst of AOE damage.",
+    "zh": null,
+    "vi": null
+  },
+  "enchantment.create_sa.digging.desc": {
+    "en": "Allows the drill to dig a bigger hole.",
+    "zh": null,
+    "vi": null
+  },
+  "enchantment.create_sa.hellfire.desc": {
+    "en": "Increases the damage of the flamethrower and place fire.",
+    "zh": null,
+    "vi": null
+  },
+  "__support_improved_exp": {
+    "en": "https://www.curseforge.com/minecraft/mc-mods/improved-exp",
+    "zh": null,
+    "vi": null
+  },
+  "enchantment.improved_exp.detection.desc": {
+    "en": "Attacks will make the target glow.",
+    "zh": null,
+    "vi": null
+  },
+  "enchantment.improved_exp.autosmelt.desc": {
+    "en": "Breaking a block will smelt it instead.",
+    "zh": null,
+    "vi": null
+  },
+  "enchantment.improved_exp.pain_relief.desc": {
+    "en": "Holding shift will use EXP to regenerate health.",
+    "zh": null,
+    "vi": null
+  },
+  "enchantment.improved_exp.heavyweight.desc": {
+    "en": "The wearer falls faster.",
+    "zh": null,
+    "vi": null
+  },
+  "enchantment.improved_exp.saturation.desc": {
+    "en": "Restores hunger and saturation.",
+    "zh": null,
+    "vi": null
+  },
+  "enchantment.improved_exp.boer_1.desc": {
+    "en": "Breaks multiple blocks at once.",
+    "zh": null,
+    "vi": null
+  },
+  "enchantment.improved_exp.weight.desc": {
+    "en": "Slows the user down.",
+    "zh": null,
+    "vi": null
+  },
+  "enchantment.improved_exp.woodcutter.desc": {
+    "en": "Breaks wood faster.",
+    "zh": null,
+    "vi": null
+  },
+  "enchantment.improved_exp.coldblooded.desc": {
+    "en": "The user takes damage in warm biomes.",
+    "zh": null,
+    "vi": null
+  },
+  "enchantment.improved_exp.flammable.desc": {
+    "en": "Damages the wearer in direct sunlight.",
+    "zh": null,
+    "vi": null
+  },
+  "enchantment.improved_exp.the_hatred_of_others.desc": {
+    "en": "Hostile enemies ignore the wearer.",
+    "zh": null,
+    "vi": null
+  },
+  "enchantment.improved_exp.drill.desc": {
+    "en": "Breaks blocks significantly faster.",
+    "zh": null,
+    "vi": null
+  },
+  "enchantment.improved_exp.habitual_place.desc": {
+    "en": "Grants the wearer buffs in different dimensions.",
+    "zh": null,
+    "vi": null
+  },
+  "enchantment.improved_exp.medication.desc": {
+    "en": "Gives the user more hearts.",
+    "zh": null,
+    "vi": null
+  },
+  "enchantment.improved_exp.in_all_seriousness.desc": {
+    "en": "Increases the wearers speed when their health is low.",
+    "zh": null,
+    "vi": null
+  },
+  "enchantment.improved_exp.random_teleport.desc": {
+    "en": "Teleports the user in a random direction.",
+    "zh": null,
+    "vi": null
+  },
+  "enchantment.improved_exp.suspicious_look.desc": {
+    "en": "Mobs will stare at the wearer.",
+    "zh": null,
+    "vi": null
+  },
+  "enchantment.improved_exp.resistance.desc": {
+    "en": "Gives the wearer the resistance buff.",
+    "zh": null,
+    "vi": null
+  },
+  "enchantment.improved_exp.fear_of_depth.desc": {
+    "en": "Damages the wearer while deep below water.",
+    "zh": null,
+    "vi": null
+  },
+  "enchantment.improved_exp.jump_boost.desc": {
+    "en": "Increases the wearers jump strength.",
+    "zh": null,
+    "vi": null
+  },
+  "enchantment.improved_exp.water_breathing.desc": {
+    "en": "Allows the wearer to breath under water.",
+    "zh": null,
+    "vi": null
+  },
+  "enchantment.improved_exp.bakingpowder.desc": {
+    "en": "Allows the hoe to till multiple blocks at once.",
+    "zh": null,
+    "vi": null
+  },
+  "enchantment.improved_exp.damage_suppression.desc": {
+    "en": "Reduces the damage received.",
+    "zh": null,
+    "vi": null
+  },
+  "enchantment.improved_exp.auto_explosion.desc": {
+    "en": "Automatically ignites placed TNT.",
+    "zh": null,
+    "vi": null
+  },
+  "enchantment.improved_exp.machine_gun.desc": {
+    "en": "Reduces charge time of the bow.",
+    "zh": null,
+    "vi": null
+  },
+  "enchantment.improved_exp.passage.desc": {
+    "en": "The user will fly towards what they look at.",
+    "zh": null,
+    "vi": null
+  },
+  "enchantment.improved_exp.preview.desc": {
+    "en": "The users camera rotates to the right.",
+    "zh": null,
+    "vi": null
+  },
+  "enchantment.improved_exp.evasion.desc": {
+    "en": "Allows the wearer to avoid damage.",
+    "zh": null,
+    "vi": null
+  },
+  "enchantment.improved_exp.explosive.desc": {
+    "en": "When the user is low on health they will explode.",
+    "zh": null,
+    "vi": null
+  },
+  "enchantment.improved_exp.night_vision.desc": {
+    "en": "Allows the wearer to see in the dark.",
+    "zh": null,
+    "vi": null
+  },
+  "enchantment.improved_exp.auto_repair.desc": {
+    "en": "Repairs the tool over time.",
+    "zh": null,
+    "vi": null
+  },
+  "enchantment.improved_exp.poisonous_water.desc": {
+    "en": "The wearer is poisoned while in water.",
+    "zh": null,
+    "vi": null
+  },
+  "enchantment.improved_exp.harm.desc": {
+    "en": "Removes all buffs from the wearer.",
+    "zh": null,
+    "vi": null
+  },
+  "enchantment.improved_exp.pinger.desc": {
+    "en": "Warns the user when durability is low.",
+    "zh": null,
+    "vi": null
+  },
+  "enchantment.improved_exp.warmblooded.desc": {
+    "en": "Damages the wearer in cold biomes.",
+    "zh": null,
+    "vi": null
+  },
+  "enchantment.improved_exp.slow_falling.desc": {
+    "en": "The wearer will fall slower.",
+    "zh": null,
+    "vi": null
+  },
+  "enchantment.improved_exp.night.desc": {
+    "en": "The wearer takes damage if they can not see the sky.",
+    "zh": null,
+    "vi": null
+  },
+  "enchantment.improved_exp.unstable.desc": {
+    "en": "Damages the user.",
+    "zh": null,
+    "vi": null
+  },
+  "enchantment.improved_exp.return_from_void.desc": {
+    "en": "Teleports the wearer back to the surface if they fall into the void.",
+    "zh": null,
+    "vi": null
+  },
+  "enchantment.improved_exp.healing_waters.desc": {
+    "en": "The wearer is healed while in water.",
+    "zh": null,
+    "vi": null
+  },
+  "enchantment.improved_exp.strength.desc": {
+    "en": "Increases the attack damage of the wearer.",
+    "zh": null,
+    "vi": null
+  },
+  "enchantment.improved_exp.invulnerability.desc": {
+    "en": "The wearer does not take damage.",
+    "zh": null,
+    "vi": null
+  },
+  "enchantment.improved_exp.true_shot.desc": {
+    "en": "Arrows are fired with more power.",
+    "zh": null,
+    "vi": null
+  },
+  "enchantment.improved_exp.quick_kill.desc": {
+    "en": "Attacks have a chance to immediately kill the target",
+    "zh": null,
+    "vi": null
+  },
+  "enchantment.improved_exp.weakness.desc": {
+    "en": "The wearer will take more damage than normal.",
+    "zh": null,
+    "vi": null
+  },
+  "enchantment.improved_exp.fear_of_dark.desc": {
+    "en": "The wearer takes damage in the dark.",
+    "zh": null,
+    "vi": null
+  },
+  "enchantment.improved_exp.indestructible.desc": {
+    "en": "The tool becomes unbreakable.",
+    "zh": null,
+    "vi": null
+  },
+  "enchantment.improved_exp.naturalfertilizer.desc": {
+    "en": "Using the hoe has a chance to create bonemeal.",
+    "zh": null,
+    "vi": null
+  },
+  "enchantment.improved_exp.professional_rider.desc": {
+    "en": "The wearer can ride any mob.",
+    "zh": null,
+    "vi": null
+  },
+  "enchantment.improved_exp.collector.desc": {
+    "en": "Killing a mob may drop a spawn egg of that mob.",
+    "zh": null,
+    "vi": null
+  },
+  "enchantment.improved_exp.rock_crusher.desc": {
+    "en": "Breaks veins of ores.",
+    "zh": null,
+    "vi": null
+  },
+  "enchantment.improved_exp.planeswalker.desc": {
+    "en": "Allows the wearer to change dimensions using keybinds.",
+    "zh": null,
+    "vi": null
+  },
+  "enchantment.improved_exp.golden_fever.desc": {
+    "en": "Blocks have a chance to drop gold nuggets.",
+    "zh": null,
+    "vi": null
+  },
+  "enchantment.improved_exp.digger.desc": {
+    "en": "Breaks earthy blocks faster.",
+    "zh": null,
+    "vi": null
+  },
+  "enchantment.improved_exp.speed.desc": {
+    "en": "Increases the wearers movement speed.",
+    "zh": null,
+    "vi": null
+  },
+  "enchantment.improved_exp.toxic_1.desc": {
+    "en": "Attacks poison the target.",
+    "zh": null,
+    "vi": null
+  },
+  "enchantment.improved_exp.gravity.desc": {
+    "en": "Right clicking a block will pull nearby entities in.",
+    "zh": null,
+    "vi": null
+  },
+  "enchantment.improved_exp.blindness.desc": {
+    "en": "Reduces the vision of the wearer.",
+    "zh": null,
+    "vi": null
+  },
+  "enchantment.improved_exp.telekinesis.desc": {
+    "en": "Looking at an entity will pull them towards you.",
+    "zh": null,
+    "vi": null
+  },
+  "enchantment.improved_exp.rebound.desc": {
+    "en": "Pressing the R key will make the user bounce backwards.",
+    "zh": null,
+    "vi": null
+  },
+  "enchantment.improved_exp.constant_surveillance.desc": {
+    "en": "The wearer is forced to look at the nearest mob.",
+    "zh": null,
+    "vi": null
+  },
+  "enchantment.improved_exp.far_swing.desc": {
+    "en": "Attacks hit all nearby entities.",
+    "zh": null,
+    "vi": null
+  },
+  "enchantment.improved_exp.fire_resistance.desc": {
+    "en": "The wearer is immune to fire damage.",
+    "zh": null,
+    "vi": null
+  },
+  "enchantment.improved_exp.spurt.desc": {
+    "en": "Pressing the R key will thrust the player in the direction they are looking.",
+    "zh": null,
+    "vi": null
+  },
+  "enchantment.improved_exp.magnet.desc": {
+    "en": "Block drops are pulled towards the user.",
+    "zh": null,
+    "vi": null
+  },
+  "enchantment.improved_exp.easy_movement.desc": {
+    "en": "Increases movement speed on certain blocks.",
+    "zh": null,
+    "vi": null
+  },
+  "enchantment.improved_exp.treatment.desc": {
+    "en": "Removes negative effects from the wearer.",
+    "zh": null,
+    "vi": null
+  },
+  "enchantment.improved_exp.hungry.desc": {
+    "en": "The wearer constantly loses hunger and saturation points.",
+    "zh": null,
+    "vi": null
+  },
+  "enchantment.improved_exp.jumper.desc": {
+    "en": "Allows the wearer to jump while in the air.",
+    "zh": null,
+    "vi": null
+  },
+  "enchantment.improved_exp.oxidation.desc": {
+    "en": "Attacks deal more damage to the targets armor.",
+    "zh": null,
+    "vi": null
+  },
+  "enchantment.improved_exp.levitation.desc": {
+    "en": "The wearer will levitate.",
+    "zh": null,
+    "vi": null
+  },
+  "enchantment.improved_exp.bury.desc": {
+    "en": "Attacking an entity will push them into the ground.",
+    "zh": null,
+    "vi": null
+  },
+  "enchantment.improved_exp.recovery.desc": {
+    "en": "The user is healed when they attack others.",
+    "zh": null,
+    "vi": null
+  },
+  "enchantment.improved_exp.haste.desc": {
+    "en": "The user destroys blocks faster.",
+    "zh": null,
+    "vi": null
+  },
+  "enchantment.improved_exp.fertilizing.desc": {
+    "en": "Pressing the Z key will bonemeal nearby blocks.",
+    "zh": null,
+    "vi": null
+  },
+  "enchantment.improved_exp.dolphins_grace.desc": {
+    "en": "The wearer moves faster in water.",
+    "zh": null,
+    "vi": null
+  },
+  "enchantment.improved_exp.lavawalker.desc": {
+    "en": "Lava blocks nearby will freeze into obsidian.",
+    "zh": null,
+    "vi": null
+  },
+  "enchantment.improved_exp.absorption.desc": {
+    "en": "Gives the wearer the absorption effect.",
+    "zh": null,
+    "vi": null
+  },
+  "enchantment.improved_exp.ore_detector.desc": {
+    "en": "Using the right mouse button will tell the user about nearby ores.",
+    "zh": null,
+    "vi": null
+  },
+  "enchantment.improved_exp.flight.desc": {
+    "en": "Allows the wearer to fly.",
+    "zh": null,
+    "vi": null
+  },
+  "enchantment.improved_exp.werewolf.desc": {
+    "en": "Grants the wearer buffs based on the current moon phase.",
+    "zh": null,
+    "vi": null
+  },
+  "enchantment.improved_exp.fear_of_height.desc": {
+    "en": "The wearer will take damage if they are too high.",
+    "zh": null,
+    "vi": null
+  },
+  "__support_galosphere": {
+    "en": "https://www.curseforge.com/minecraft/mc-mods/galosphere",
+    "zh": null,
+    "vi": null
+  },
+  "enchantment.galosphere.rupture.desc": {
+    "en": "Shatters the saltbound tablet's pillars into shard projectiles once they break.",
+    "zh": null,
+    "vi": null
+  },
+  "enchantment.galosphere.sustain.desc": {
+    "en": "Extends the duration of the saltbound tablet's pillars.",
+    "zh": null,
+    "vi": null
+  },
+  "enchantment.galosphere.enfeeble.desc": {
+    "en": "Inflicts slowness on entities hit by the saltbound tablet's pillars.",
+    "zh": null,
+    "vi": null
+  }
+}

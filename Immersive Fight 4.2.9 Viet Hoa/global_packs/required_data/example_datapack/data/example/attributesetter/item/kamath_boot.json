@@ -1,0 +1,10 @@
+{
+  "dungeons_and_combat:kamath_armor_boots":[
+    {
+      "attribute": "minecraft:generic.max_health",
+      "value": 5,
+      "operation": "ADDITION",
+      "slot": "feet"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "pools": [
+    {
+      "rolls": {
+        "min": 1,
+        "max": 1
+      },
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "legendary_monsters:fiery_jaw",
+          "weight": 10
+        },
+        {
+          "type": "minecraft:item",
+          "name": "alexscaves_torpedoes:pulsargun",
+          "weight": 10
+        },
+        {
+          "type": "minecraft:item",
+          "name": "legendary_monsters:sand_cannon",
+          "weight": 10
+        },
+        {
+          "type": "minecraft:item",
+          "name": "legendary_monsters:chorus_cannon",
+          "weight": 10
+        },
+        {
+          "type": "minecraft:item",
+          "name": "born_in_chaos_v1:pumpkinhandgun",
+          "weight": 10
+        },
+        {
+          "type": "minecraft:item",
+          "name": "alexscaves:sea_staff",
+          "weight": 10
+        },
+        {
+          "type": "minecraft:item",
+          "name": "alexscaves:ortholance",
+          "weight": 10
+        },
+        {
+          "type": "minecraft:item",
+          "name": "alexscaves:shot_gum",
+          "weight": 10
+        },
+        {
+          "type": "minecraft:item",
+          "name": "alexscaves:primitive_club",
+          "weight": 10
+        },
+        {
+          "type": "minecraft:item",
+          "name": "alexscaves:candy_cane_hook",
+          "weight": 10
+        }
+      ]
+    }
+  ]
+}

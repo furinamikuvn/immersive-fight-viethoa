@@ -1,0 +1,25 @@
+{
+  "item.mythical_weaponry.mjolnir": "雷神之锤",
+  "item.mythical_weaponry.thor_helmet": "托尔头盔",
+  "item.mythical_weaponry.thor_chestplate": "托尔胸甲",
+  "item.mythical_weaponry.thor_leggings": "托尔护腿",
+  "item.mythical_weaponry.thor_boots": "托尔靴子",
+  "item.mythical_weaponry.lightning_upgrade_template": "锻造模板",
+  "item.mythical_weaponry.black_bone_flintlock": "黑骨燧发手枪",
+  "item.mythical_weaponry.black_bone_sword": "黑骨剑",
+  "item.mythical_weaponry.boss_thor_spawn_egg": "托尔刷怪蛋",
+
+  "block.mythical_weaponry.thor_statue": "托尔雕像",
+  "block.mythical_weaponry.decorative_thor_statue": "装饰用托尔雕像",
+
+  "advancement.mythical_weaponry.get_mjolnir.title": "新的雷神",
+  "advancement.mythical_weaponry.get_mjolnir.description": "获得传说中的雷神之锤。",
+  "advancement.mythical_weaponry.defeat_thor.title": "弑神",
+  "advancement.mythical_weaponry.defeat_thor.description": "击败雷神",
+
+  "entity.mythical_weaponry.boss_thor": "雷神·托尔",
+
+  "effect.mythical_weaponry.fire_weakness": "火焰弱点",
+
+  "creativetab.mythical_weaponry_main": "神话武器"
+}

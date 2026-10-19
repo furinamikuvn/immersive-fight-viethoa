@@ -1,0 +1,37 @@
+{
+  "item.dummmmmmy.target_dummy": {
+    "en": "Target Dummy",
+    "zh": "训练人偶",
+    "vi": "Target Dummy"
+  },
+  "entity.dummmmmmy.target_dummy": {
+    "en": "Target Dummy",
+    "zh": "训练人偶",
+    "vi": "Target Dummy"
+  },
+  "message.dummmmmmy.dps": {
+    "en": "%1$s DPS",
+    "zh": "%1$s DPS",
+    "vi": "%1$s DPS"
+  },
+  "message.dummmmmmy.hps": {
+    "en": "%1$s HPS",
+    "zh": "%1$s HPS",
+    "vi": "%1$s HPS"
+  },
+  "message.dummmmmmy.single": {
+    "en": "%1$s: %2$s",
+    "zh": "%1$s: %2$s",
+    "vi": "%1$s: %2$s"
+  },
+  "message.dummmmmmy.double": {
+    "en": "%1$s: %2$s, %3$s",
+    "zh": "%1$s: %2$s, %3$s",
+    "vi": "%1$s: %2$s, %3$s"
+  },
+  "message.dummmmmmy.crit": {
+    "en": "%d (%dx)",
+    "zh": "%d (%dx)",
+    "vi": "%d (%dx)"
+  }
+}

@@ -1,0 +1,212 @@
+{
+  "text.puffish_skills.skills": {
+    "en": "Skills",
+    "zh": "技能",
+    "vi": "Kỹ năng"
+  },
+  "text.puffish_skills.points_left": {
+    "en": "Points left: ",
+    "zh": "剩余技能点：",
+    "vi": "Điểm kỹ năng còn lại:"
+  },
+  "tooltip.puffish_skills.current_level": {
+    "en": "Current level: %s",
+    "zh": "当前等级：%s",
+    "vi": "Cấp độ hiện tại: %s"
+  },
+  "tooltip.puffish_skills.experience_progress": {
+    "en": "Experience: %s/%s (%s%%)",
+    "zh": "经验：%s/%s (%s%%)",
+    "vi": "Kinh nghiệm: %s/%s (%s%%)"
+  },
+  "tooltip.puffish_skills.to_next_level": {
+    "en": "To next level: %s",
+    "zh": "距下一级：%s",
+    "vi": "Một cấp độ dưới đây: %s"
+  },
+  "tooltip.puffish_skills.earned_points": {
+    "en": "Earned points: %s",
+    "zh": "获得点数：%s",
+    "vi": "Số điểm kiếm được: %s"
+  },
+  "tooltip.puffish_skills.spent_points": {
+    "en": "Spent points: %s",
+    "zh": "消耗点数：%s",
+    "vi": "Số điểm đã tiêu thụ: %s"
+  },
+  "category.puffish_skills.skills": {
+    "en": "Skills",
+    "zh": "天赋树",
+    "vi": "Cây tài năng"
+  },
+  "key.puffish_skills.open": {
+    "en": "Open Skill Tree",
+    "zh": "打开天赋树",
+    "vi": "Mở cây tài năng"
+  },
+  "chat.puffish_skills.new_point": {
+    "en": "You have a new skill point. Press %s to open your skill tree.",
+    "zh": "你获得了一个新的技能点，按%s加点。",
+    "vi": "Bạn đã đạt được điểm kỹ năng mới, nhấn %s để thêm điểm."
+  },
+  "toast.puffish_skills.invalid_config.description": {
+    "en": "Invalid configuration, check game logs.",
+    "zh": "无效的配置，请检查游戏日志。",
+    "vi": "Cấu hình không hợp lệ, vui lòng kiểm tra nhật ký trò chơi."
+  },
+  "gamerule.puffish_skills:announceNewPoints": {
+    "en": "Announce new skill points",
+    "zh": "提示获得新的技能点",
+    "vi": "Mẹo để nhận điểm kỹ năng mới"
+  },
+  "command.puffish_skills.no_such_category": {
+    "en": "There is no category with ID %s",
+    "zh": "无类别ID为%s",
+    "vi": "Không có ID danh mục nào là %s"
+  },
+  "command.puffish_skills.no_such_skill": {
+    "en": "There is no skill with ID %s",
+    "zh": "无技能ID为%s",
+    "vi": "Không có ID kỹ năng là %s"
+  },
+  "command.puffish_skills.category.lock.success.single": {
+    "en": "Locked category %s for %s",
+    "zh": "为%1$s锁定类别%2$s",
+    "vi": "Khóa danh mục %2$s cho %1$s"
+  },
+  "command.puffish_skills.category.lock.success.multiple": {
+    "en": "Locked category %s for %s players",
+    "zh": "为玩家%1$s锁定类别%2$s",
+    "vi": "Khóa danh mục %2$s cho người chơi %1$s"
+  },
+  "command.puffish_skills.category.unlock.success.single": {
+    "en": "Unlocked category %s for %s",
+    "zh": "为%2$s解锁类别%1$s",
+    "vi": "Mở khóa danh mục %1$s cho %2$s"
+  },
+  "command.puffish_skills.category.unlock.success.multiple": {
+    "en": "Unlocked category %s for %s players",
+    "zh": "为玩家%2$s解锁类别%1$s",
+    "vi": "Mở khóa danh mục %1$s cho người chơi %2$s"
+  },
+  "command.puffish_skills.category.erase.success.single": {
+    "en": "Erased category %s for %s",
+    "zh": "为%1$s清空类别%2$s",
+    "vi": "Xóa danh mục %2$s cho %1$s"
+  },
+  "command.puffish_skills.category.erase.success.multiple": {
+    "en": "Erased category %s for %s players",
+    "zh": "为玩家%1$s清空类别%2$s",
+    "vi": "Xóa danh mục %2$s cho người chơi %1$s"
+  },
+  "command.puffish_skills.experience.add.success.single": {
+    "en": "Added %s experience to category %s for %s",
+    "zh": "为%3$s增加%1$s点经验至类别%2$s",
+    "vi": "Thêm điểm kinh nghiệm %1$s vào danh mục %2$s cho %3$s"
+  },
+  "command.puffish_skills.experience.add.success.multiple": {
+    "en": "Added %s experience to category %s for %s players",
+    "zh": "为玩家%3$s增加%1$s点经验至类别%2$s",
+    "vi": "Thêm điểm kinh nghiệm %1$s cho người chơi %3$s vào danh mục %2$s"
+  },
+  "command.puffish_skills.experience.set.success.single": {
+    "en": "Set %s experience in category %s for %s",
+    "zh": "为%3$s设定为%1$s点经验至类别%2$s",
+    "vi": "Đặt %3$s thành %1$s điểm trải nghiệm vào danh mục %2$s"
+  },
+  "command.puffish_skills.experience.set.success.multiple": {
+    "en": "Set %s experience in category %s for %s players",
+    "zh": "将玩家%3$s类别%2$s的经验设定为%1$s点",
+    "vi": "Đặt trải nghiệm của người chơi %3$s danh mục %2$s thành điểm %1$s"
+  },
+  "command.puffish_skills.points.add.success.single": {
+    "en": "Added %s points to category %s for %s",
+    "zh": "为%3$s增加%1$s点技能点至类别%2$s",
+    "vi": "Thêm điểm kỹ năng %1$s vào danh mục %2$s cho %3$s"
+  },
+  "command.puffish_skills.points.add.success.multiple": {
+    "en": "Added %s points to category %s for %s players",
+    "zh": "为玩家%3$s增加%1$s点技能点至类别%2$s",
+    "vi": "Thêm điểm kỹ năng %1$s vào danh mục %2$s cho người chơi %3$s"
+  },
+  "command.puffish_skills.points.set.success.single": {
+    "en": "Set %s points in category %s for %s",
+    "zh": "为%3$s设定为%1$s点技能点至类别%2$s",
+    "vi": "Đặt điểm kỹ năng cho %3$s thành %1$s vào danh mục %2$s"
+  },
+  "command.puffish_skills.points.set.success.multiple": {
+    "en": "Set %s points in category %s for %s players",
+    "zh": "为%3$s玩家设定为%1$s点技能点至类别%2$s",
+    "vi": "Đối với người chơi %3$s, đặt điểm kỹ năng %1$s vào danh mục %2$s"
+  },
+  "command.puffish_skills.skills.unlock.success.single": {
+    "en": "Unlocked %s skill in category %s for %s",
+    "zh": "为%3$s解锁类别%2$s中的技能%1$s",
+    "vi": "Mở khóa kỹ năng %1$s trong danh mục %2$s cho %3$s"
+  },
+  "command.puffish_skills.skills.unlock.success.multiple": {
+    "en": "Unlocked %s skill in category %s for %s players",
+    "zh": "为玩家%3$s解锁类别%2$s中的技能%1$s",
+    "vi": "Mở khóa kỹ năng %1$s trong danh mục %2$s cho người chơi %3$s"
+  },
+  "command.puffish_skills.skills.reset.success.single": {
+    "en": "Reset all skills in category %s for %s",
+    "zh": "为%1$s重置类别%2$s的所有技能",
+    "vi": "Đặt lại tất cả các kỹ năng thuộc danh mục %2$s cho %1$s"
+  },
+  "command.puffish_skills.skills.reset.success.multiple": {
+    "en": "Reset all skills in category %s for %s players",
+    "zh": "为玩家%1$s重置类别%2$s的所有技能",
+    "vi": "Đặt lại tất cả các kỹ năng thuộc danh mục %2$s cho người chơi %1$s"
+  },
+  "toast.puffish_skills.missing_config.description": {
+    "en": "No skill trees provided, make sure to add one.",
+    "zh": null,
+    "vi": null
+  },
+  "command.puffish_skills.no_experience": {
+    "en": "Experience is not enabled for this category",
+    "zh": null,
+    "vi": null
+  },
+  "command.puffish_skills.experience.get.success": {
+    "en": "%3$s has %1$s experience in category %2$s",
+    "zh": null,
+    "vi": null
+  },
+  "command.puffish_skills.points.get.success": {
+    "en": "%3$s has %1$s points in category %2$s",
+    "zh": null,
+    "vi": null
+  },
+  "command.puffish_skills.skills.lock.success.single": {
+    "en": "Locked %s skill in category %s for %s",
+    "zh": null,
+    "vi": null
+  },
+  "command.puffish_skills.skills.lock.success.multiple": {
+    "en": "Locked %s skill in category %s for %s players",
+    "zh": null,
+    "vi": null
+  },
+  "command.puffish_skills.category.open.success.single": {
+    "en": "Opened category %s screen for %s",
+    "zh": null,
+    "vi": null
+  },
+  "command.puffish_skills.category.open.success.multiple": {
+    "en": "Opened category %s screen for %s players",
+    "zh": null,
+    "vi": null
+  },
+  "command.puffish_skills.open.success.single": {
+    "en": "Opened skills screen for %s",
+    "zh": null,
+    "vi": null
+  },
+  "command.puffish_skills.open.success.multiple": {
+    "en": "Opened skills screen for %s players",
+    "zh": null,
+    "vi": null
+  }
+}

@@ -1,0 +1,2261 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "2E426C9254557CE6"
+	group: "645C652F9B0DFA16"
+	icon: {
+		Count: 1
+		id: "fantasy_armor:chess_board_knight_helmet"
+		tag: {
+			Damage: 0
+		}
+	}
+	id: "2E426C9254557CE6"
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			description: [
+				"Tiêu thụ mảnh thạch anh tím"
+				"Bạn có thể biến đổi trang bị này thành một trang bị khác có ngoại hình &e &r"
+				""
+				"Nếu các mảnh trống &b &r được đặt vào lưới thứ hai, thiết bị có thể bị ẩn."
+				"&d vật phẩm được chuyển đổi&rĐể trống lưới thứ hai&b"
+				""
+				"Vũ khí bên phải là vũ khí bình thường không có hiệu ứng đặc biệt."
+				"Nếu có một cái nhìn bạn thích,"
+				"Nó cũng tốt như một ảo ảnh."
+			]
+			disable_toast: true
+			entity_vis_size: 1.0f
+			id: "06A4120527680E43"
+			rewards: [
+				{
+					count: 16
+					id: "67A72A56420C2C65"
+					item: "minecraft:amethyst_shard"
+					type: "item"
+				}
+				{
+					id: "1E3E8574BCB895E9"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+				{
+					id: "2EEE3BCF10771F3A"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "transmog:void_fragment"
+					}
+					type: "item"
+				}
+			]
+			size: 1.5d
+			tasks: [{
+				id: "67D91CBB2BF56136"
+				item: "transmog:transmogrification_table"
+				type: "item"
+			}]
+			x: -3.75d
+			y: 0.75d
+		}
+		{
+			description: [
+				"Được sử dụng để nâng cấp áo giáp tưởng tượng"
+				"&bÁo giáp kỳ ảo&r"
+				""
+				""
+				"Và có hiệu ứng cài đặt &e &r"
+			]
+			entity_vis_size: 1.0f
+			id: "75BDAEA7B4DBB0C5"
+			rewards: [{
+				id: "3A68B7AA6F6B7FF8"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			size: 1.5d
+			tasks: [{
+				id: "6DB941C4B04AAA13"
+				item: "fantasy_armor:moon_crystal"
+				type: "item"
+			}]
+			x: -6.0d
+			y: 0.75d
+		}
+		{
+			disable_toast: true
+			entity_vis_size: 1.0f
+			id: "295580CD53103A4C"
+			shape: "square"
+			tasks: [{
+				id: "47B17DC32FE04190"
+				item: {
+					Count: 1
+					id: "soul_like_armors_reworked:ornsteinspsword"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 2.0d
+			y: -1.5d
+		}
+		{
+			disable_toast: true
+			entity_vis_size: 1.0f
+			id: "36F20981D7569D4E"
+			shape: "square"
+			tasks: [{
+				id: "266721B64097B864"
+				item: {
+					Count: 1
+					id: "soul_like_armors_reworked:monkeyhammer"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.0d
+			y: -3.5d
+		}
+		{
+			disable_toast: true
+			entity_vis_size: 1.0f
+			id: "4666FC622D98F988"
+			shape: "square"
+			tasks: [{
+				id: "413FB9391F5038F1"
+				item: {
+					Count: 1
+					id: "soul_like_armors_reworked:dragonslayeraxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 3.0d
+			y: -1.5d
+		}
+		{
+			description: ["Có thể sử dụng kép"]
+			disable_toast: true
+			entity_vis_size: 1.0f
+			id: "317AC253DD6ED66D"
+			shape: "square"
+			tasks: [{
+				id: "0932C9E33540084F"
+				item: {
+					Count: 1
+					id: "soul_like_armors_reworked:sawblade"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.0d
+			y: -2.5d
+		}
+		{
+			disable_toast: true
+			entity_vis_size: 1.0f
+			id: "15134B61F3A44810"
+			shape: "square"
+			tasks: [{
+				id: "76EB0C303D0ED5D9"
+				item: {
+					Count: 1
+					id: "soul_like_armors_reworked:crystaltrident"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.0d
+			y: -1.5d
+		}
+		{
+			disable_toast: true
+			entity_vis_size: 1.0f
+			id: "01C0403E14035572"
+			shape: "square"
+			tasks: [{
+				id: "0D9C6EF38F29F877"
+				item: {
+					Count: 1
+					id: "soul_like_armors_reworked:wolfknightsword"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.0d
+			y: -4.5d
+		}
+		{
+			description: ["Thay đổi hành động sử dụng kép"]
+			disable_toast: true
+			entity_vis_size: 1.0f
+			id: "57DAC02D4B46D6F7"
+			shape: "square"
+			tasks: [{
+				id: "2E9D0473A5F06B35"
+				item: {
+					Count: 1
+					id: "soul_like_armors_reworked:farrondagger"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 3.0d
+			y: -2.5d
+		}
+		{
+			disable_toast: true
+			entity_vis_size: 1.0f
+			id: "7632017CFF239FC8"
+			shape: "square"
+			tasks: [{
+				id: "533DA7FC349EF0D7"
+				item: {
+					Count: 1
+					id: "soul_like_armors_reworked:kata_sword"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 2.0d
+			y: -3.5d
+		}
+		{
+			disable_toast: true
+			entity_vis_size: 1.0f
+			id: "6DFF6A8B86BA43DB"
+			shape: "square"
+			tasks: [{
+				id: "334763BCEAE5FF67"
+				item: {
+					Count: 1
+					id: "soul_like_armors_reworked:blackkatana"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 3.0d
+			y: -3.5d
+		}
+		{
+			description: ["Có thể sử dụng kép"]
+			disable_toast: true
+			entity_vis_size: 1.0f
+			id: "2C48F4A03D44F7CE"
+			shape: "square"
+			tasks: [{
+				id: "7943CF0F806CA744"
+				item: {
+					Count: 1
+					id: "soul_like_armors_reworked:cinderkingblade"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: -2.5d
+		}
+		{
+			entity_vis_size: 1.0f
+			id: "5950A48B4A41CD99"
+			shape: "square"
+			tasks: [{
+				id: "245E302735C6B536"
+				item: {
+					Count: 1
+					id: "soul_like_armors_reworked:platinumspsword"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: -1.5d
+		}
+		{
+			entity_vis_size: 1.0f
+			id: "2E747B4114C4B3C0"
+			shape: "square"
+			tasks: [{
+				id: "4A0EDF56E77BA910"
+				item: {
+					Count: 1
+					id: "soul_like_armors_reworked:sickle"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 2.0d
+			y: -2.5d
+		}
+		{
+			disable_toast: true
+			entity_vis_size: 1.0f
+			id: "04B9A8CDB3A7A940"
+			shape: "square"
+			tasks: [{
+				id: "60ECF8270ADD8AA0"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "soul_like_armors_reworked:alloygreatsword"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: -3.5d
+		}
+		{
+			entity_vis_size: 1.0f
+			id: "71B24D65D160B5BA"
+			shape: "square"
+			tasks: [{
+				id: "099B856AB91A21F0"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "soul_like_armors_reworked:moonkatana"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: -4.5d
+		}
+		{
+			entity_vis_size: 1.0f
+			id: "1995F14C4AC72A48"
+			shape: "square"
+			tasks: [{
+				id: "6C104BF660E170A2"
+				item: {
+					Count: 1
+					id: "soul_like_armors_reworked:bloodtrident"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 2.0d
+			y: -4.5d
+		}
+		{
+			entity_vis_size: 1.0f
+			id: "2495A3A75B6CDADC"
+			shape: "square"
+			tasks: [{
+				id: "044E61563C1B2136"
+				item: {
+					Count: 1
+					id: "soul_like_armors_reworked:lightningsword"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 3.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["0B2E2685E5C8CEDE"]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "fantasy_armor:dark_cover_helmet"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "170F74AC87A7590A"
+			tasks: [
+				{
+					id: "03F0386916101683"
+					item: {
+						Count: 1
+						id: "fantasy_armor:dark_cover_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "4EE71951D8109148"
+					item: {
+						Count: 1
+						id: "fantasy_armor:dark_cover_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5F1A43A40F35F054"
+					item: {
+						Count: 1
+						id: "fantasy_armor:dark_cover_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "3907E15579990A82"
+					item: {
+						Count: 1
+						id: "fantasy_armor:dark_cover_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: -9.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["2B4AF0391CBCBC7E"]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "fantasy_armor:twinned_helmet"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "6A6467CD12B9E24C"
+			tasks: [
+				{
+					id: "2EFFDE0979C603B6"
+					item: {
+						Count: 1
+						id: "fantasy_armor:twinned_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "4EF763595D04953A"
+					item: {
+						Count: 1
+						id: "fantasy_armor:twinned_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "3D7C20D05C4CE891"
+					item: {
+						Count: 1
+						id: "fantasy_armor:twinned_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "78CD684E3C83A247"
+					item: {
+						Count: 1
+						id: "fantasy_armor:twinned_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: -4.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["0AA9D1FB5A1EBCE5"]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "fantasy_armor:dragonslayer_helmet"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "63DB0ABE7B9C5B94"
+			tasks: [
+				{
+					id: "6A36229F48C3743D"
+					item: {
+						Count: 1
+						id: "fantasy_armor:dragonslayer_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "63CA6781E7432646"
+					item: {
+						Count: 1
+						id: "fantasy_armor:dragonslayer_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "7FAE65BE6B6D3A29"
+					item: {
+						Count: 1
+						id: "fantasy_armor:dragonslayer_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "590B1AE914C53840"
+					item: {
+						Count: 1
+						id: "fantasy_armor:dragonslayer_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: -4.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["170F74AC87A7590A"]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "fantasy_armor:sunset_wings_helmet"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "286EF6CA10F60E1D"
+			tasks: [
+				{
+					id: "7A483F152B74D865"
+					item: {
+						Count: 1
+						id: "fantasy_armor:sunset_wings_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "4E20EF355E066233"
+					item: {
+						Count: 1
+						id: "fantasy_armor:sunset_wings_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "1923BD4B3B0AF08F"
+					item: {
+						Count: 1
+						id: "fantasy_armor:sunset_wings_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "1CC20BFCE8338FF1"
+					item: {
+						Count: 1
+						id: "fantasy_armor:sunset_wings_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: -9.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["0AA9D1FB5A1EBCE5"]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "fantasy_armor:dark_lord_helmet"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "6497CFC71F89F63A"
+			tasks: [
+				{
+					id: "61C605320D75F9EC"
+					item: {
+						Count: 1
+						id: "fantasy_armor:dark_lord_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "44BB3961ECD98117"
+					item: {
+						Count: 1
+						id: "fantasy_armor:dark_lord_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5A7C9D0063BB94D1"
+					item: {
+						Count: 1
+						id: "fantasy_armor:dark_lord_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "6E38BD6BC003566B"
+					item: {
+						Count: 1
+						id: "fantasy_armor:dark_lord_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: -3.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["6497CFC71F89F63A"]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "fantasy_armor:golden_execution_helmet"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "626AD2C4E1BBDF1D"
+			tasks: [
+				{
+					id: "010B573778974AF9"
+					item: {
+						Count: 1
+						id: "fantasy_armor:golden_execution_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "3A0006E62B2E546A"
+					item: {
+						Count: 1
+						id: "fantasy_armor:golden_execution_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "3DA951F852057E7F"
+					item: {
+						Count: 1
+						id: "fantasy_armor:golden_execution_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "22CAF183AE4AB9D3"
+					item: {
+						Count: 1
+						id: "fantasy_armor:golden_execution_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: -3.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["50D3DB9E976D1019"]
+			description: ["Con đường kháng chiến"]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "fantasy_armor:eclipse_soldier_helmet"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "3BF6C8E16A2C2FF7"
+			tasks: [
+				{
+					id: "4E3B63AB1E75C079"
+					item: {
+						Count: 1
+						id: "fantasy_armor:eclipse_soldier_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "44F5A750B21339EC"
+					item: {
+						Count: 1
+						id: "fantasy_armor:eclipse_soldier_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5745B72CD815C70F"
+					item: {
+						Count: 1
+						id: "fantasy_armor:eclipse_soldier_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "2A82DFBDF06083A5"
+					item: {
+						Count: 1
+						id: "fantasy_armor:eclipse_soldier_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: -7.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["3BF6C8E16A2C2FF7"]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "fantasy_armor:redeemer_helmet"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "03B079C2F95506E7"
+			tasks: [
+				{
+					id: "72F21AA2F405BD4D"
+					item: {
+						Count: 1
+						id: "fantasy_armor:redeemer_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "1D90BAE553333C60"
+					item: {
+						Count: 1
+						id: "fantasy_armor:redeemer_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "2598A1288CCAC62F"
+					item: {
+						Count: 1
+						id: "fantasy_armor:redeemer_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "4BD51E440F910271"
+					item: {
+						Count: 1
+						id: "fantasy_armor:redeemer_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: -7.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["73B9D8D6DC929401"]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "fantasy_armor:fog_guard_helmet"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "16B13CD613BAA211"
+			tasks: [
+				{
+					id: "05CDD8AB4B3F4978"
+					item: {
+						Count: 1
+						id: "fantasy_armor:fog_guard_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "31BD9F331A94C772"
+					item: {
+						Count: 1
+						id: "fantasy_armor:fog_guard_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "531D13A40B30BA34"
+					item: {
+						Count: 1
+						id: "fantasy_armor:fog_guard_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "2626331691E49B4E"
+					item: {
+						Count: 1
+						id: "fantasy_armor:fog_guard_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: -2.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["0AA9D1FB5A1EBCE5"]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "fantasy_armor:wandering_wizard_helmet"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "73B9D8D6DC929401"
+			tasks: [
+				{
+					id: "1DB829E0D1FC78C4"
+					item: {
+						Count: 1
+						id: "fantasy_armor:wandering_wizard_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "222F2DFFFE1202DE"
+					item: {
+						Count: 1
+						id: "fantasy_armor:wandering_wizard_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5CF13896B201096F"
+					item: {
+						Count: 1
+						id: "fantasy_armor:wandering_wizard_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "792A9E6C04D7D091"
+					item: {
+						Count: 1
+						id: "fantasy_armor:wandering_wizard_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: -2.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["3B6D3FD6F256C3BA"]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "fantasy_armor:gilded_hunt_helmet"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "3536C786C56BF351"
+			tasks: [
+				{
+					id: "1FFF7BCD2CF40379"
+					item: {
+						Count: 1
+						id: "fantasy_armor:gilded_hunt_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "43664AC87254460E"
+					item: {
+						Count: 1
+						id: "fantasy_armor:gilded_hunt_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "0ACE86CAD69B4236"
+					item: {
+						Count: 1
+						id: "fantasy_armor:gilded_hunt_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "18A9E59F4190765F"
+					item: {
+						Count: 1
+						id: "fantasy_armor:gilded_hunt_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: -6.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["50D3DB9E976D1019"]
+			description: ["Lộ trình tốc độ tấn công"]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "fantasy_armor:hero_helmet"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "3B6D3FD6F256C3BA"
+			tasks: [
+				{
+					id: "4D4EE8BED77E792E"
+					item: {
+						Count: 1
+						id: "fantasy_armor:hero_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "0CF4EC849C5FF6E7"
+					item: {
+						Count: 1
+						id: "fantasy_armor:hero_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5CBD9580888A4E36"
+					item: {
+						Count: 1
+						id: "fantasy_armor:hero_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "089D20BFF067ED9D"
+					item: {
+						Count: 1
+						id: "fantasy_armor:hero_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: -6.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["761927012ABB6556"]
+			description: [
+				"Nguồn nguyên liệu &e&r"
+				"Cursed Soul Bar: BOSS Những tàn tích có cánh bị nguyền rủa"
+				"Tinh chất của cơn bão: BOSS Scylla"
+				"Thỏi hợp kim khô héo: BOSS Pioneer"
+				"(Có thể xem trang danh sách BOSS và có thể tìm kiếm con trỏ phiêu lưu)"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "fantasy_armor:spark_of_dawn_helmet"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "575CE63F39AC26F0"
+			tasks: [
+				{
+					id: "34A9C57DBEEBDC37"
+					item: {
+						Count: 1
+						id: "fantasy_armor:spark_of_dawn_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "749777F19199396D"
+					item: {
+						Count: 1
+						id: "fantasy_armor:spark_of_dawn_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "06F8AB7F8C4375DF"
+					item: {
+						Count: 1
+						id: "fantasy_armor:spark_of_dawn_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "03ED15E3DC51939B"
+					item: {
+						Count: 1
+						id: "fantasy_armor:spark_of_dawn_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: -6.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["3536C786C56BF351"]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "fantasy_armor:chess_board_knight_helmet"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "761927012ABB6556"
+			tasks: [
+				{
+					id: "39DD2717C12ECF71"
+					item: {
+						Count: 1
+						id: "fantasy_armor:chess_board_knight_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "7C99EA1D666DCC3F"
+					item: {
+						Count: 1
+						id: "fantasy_armor:chess_board_knight_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "286ED58D81741B32"
+					item: {
+						Count: 1
+						id: "fantasy_armor:chess_board_knight_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "17B74346851630BE"
+					item: {
+						Count: 1
+						id: "fantasy_armor:chess_board_knight_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: -6.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["5E5EE3F1AD8A9DFD"]
+			description: [
+				"Nguồn nguyên liệu &e&r:"
+				"Mảnh vỏ: BOSS Minghuanglong"
+				"Vuốt Xương: BOSS Hủy Diệt Sừng Quái Vật"
+				"Lông Vuốt Sắc: BOSS Vuốt Sắc"
+				"Thỏi kim loại cổ đại: Đại hồng thủy - Kim tự tháp lời nguyền"
+				"(Có thể xem trang danh sách BOSS và có thể tìm kiếm con trỏ phiêu lưu)"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "fantasy_armor:forgotten_trace_helmet"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "715500FBC0B215FB"
+			tasks: [
+				{
+					id: "5EFC98725E415504"
+					item: {
+						Count: 1
+						id: "fantasy_armor:forgotten_trace_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "7EF6D34DC3B3C7EF"
+					item: {
+						Count: 1
+						id: "fantasy_armor:forgotten_trace_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "78F3D81F61D8B661"
+					item: {
+						Count: 1
+						id: "fantasy_armor:forgotten_trace_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "250AA5ECE1839C66"
+					item: {
+						Count: 1
+						id: "fantasy_armor:forgotten_trace_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: -7.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["03B079C2F95506E7"]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "fantasy_armor:golden_horns_helmet"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "5E5EE3F1AD8A9DFD"
+			tasks: [
+				{
+					id: "7876F0F88B7636B0"
+					item: {
+						Count: 1
+						id: "fantasy_armor:golden_horns_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "3521D25532EB9459"
+					item: {
+						Count: 1
+						id: "fantasy_armor:golden_horns_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "250D14E35F2882A9"
+					item: {
+						Count: 1
+						id: "fantasy_armor:golden_horns_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "01F6601BEBF25633"
+					item: {
+						Count: 1
+						id: "fantasy_armor:golden_horns_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: -7.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["286EF6CA10F60E1D"]
+			description: [
+				"Nguồn nguyên liệu &e&r:"
+				"Thỏi Teng Yan: BOSS Ngọn lửa quỷ"
+				"Xương rồng: BOSS Rồng địa ngục"
+				"Lõi năng lượng nóng chảy: BOSS Nether Behemoth"
+				"(Có thể xem trang danh sách BOSS và có thể tìm kiếm con trỏ phiêu lưu)"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "fantasy_armor:crucible_knight_helmet"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "29B319AEAEBF039E"
+			tasks: [
+				{
+					id: "680B2A3CFB429FF2"
+					item: {
+						Count: 1
+						id: "fantasy_armor:crucible_knight_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5D27F0FCDC52BDD0"
+					item: {
+						Count: 1
+						id: "fantasy_armor:crucible_knight_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "6A246FE530C850E5"
+					item: {
+						Count: 1
+						id: "fantasy_armor:crucible_knight_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "13F4690CDCDAF5E2"
+					item: {
+						Count: 1
+						id: "fantasy_armor:crucible_knight_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: -9.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["0AA9D1FB5A1EBCE5"]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "fantasy_armor:ronin_helmet"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "2B4AF0391CBCBC7E"
+			tasks: [
+				{
+					id: "5664F47F1FE38C74"
+					item: {
+						Count: 1
+						id: "fantasy_armor:ronin_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "0248F10A7824C240"
+					item: {
+						Count: 1
+						id: "fantasy_armor:ronin_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "4F0485F4D4F76D0A"
+					item: {
+						Count: 1
+						id: "fantasy_armor:ronin_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "00A64F407A513580"
+					item: {
+						Count: 1
+						id: "fantasy_armor:ronin_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: -4.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["50D3DB9E976D1019"]
+			description: ["đường dây điện"]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "fantasy_armor:silver_knight_helmet"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "0B2E2685E5C8CEDE"
+			tasks: [
+				{
+					id: "301C40B503510C3F"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "fantasy_armor:silver_knight_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "4B9BBD4DFFAA8590"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "fantasy_armor:silver_knight_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "78833193B5C2941C"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "fantasy_armor:silver_knight_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "32404CBB231DC368"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "fantasy_armor:silver_knight_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: -9.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["0AA9D1FB5A1EBCE5"]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "fantasy_armor:dead_gladiator_helmet"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "7946B4C2E7A9BAE6"
+			tasks: [
+				{
+					id: "614A57908EF6BF8D"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "fantasy_armor:dead_gladiator_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "6BA8E68F14DDF856"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "fantasy_armor:dead_gladiator_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "6751F6F31A9F516F"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "fantasy_armor:dead_gladiator_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "52EB2EB3381DFEDF"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "fantasy_armor:dead_gladiator_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: -2.0d
+			y: -2.5d
+		}
+		{
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "fantasy_armor:malenia_helmet"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "0E44A880DC6B2FC5"
+			tasks: [
+				{
+					id: "4F700339E06C3076"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "fantasy_armor:malenia_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "45A718CB9E89DCB9"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "fantasy_armor:malenia_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "4700F4F2D7B441A6"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "fantasy_armor:malenia_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "0EBD904FA5BC51CB"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "fantasy_armor:malenia_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: -4.0d
+			y: -3.5d
+		}
+		{
+			description: ["Một bộ trang bị hoàn chỉnh có tác dụng định sẵn"]
+			disable_toast: true
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "minecraft:iron_helmet"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "50D3DB9E976D1019"
+			rewards: [{
+				id: "3856B861BE5FB5AA"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			tasks: [{
+				id: "05CD0F9BA4437CFF"
+				type: "checkmark"
+			}]
+			title: "bộ áo giáp"
+			x: -7.5d
+			y: -4.5d
+		}
+		{
+			description: [""]
+			disable_toast: true
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "minecraft:netherite_helmet"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "0AA9D1FB5A1EBCE5"
+			rewards: [
+				{
+					id: "444EF1A0B1CD7ACC"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "dungeons_and_combat:netherite_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "20D31F21360EE89D"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "dungeons_and_combat:netherite_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "0300D303C7B0F3CD"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "dungeons_and_combat:netherite_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "3B4AAFC503269C33"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "dungeons_and_combat:netherite_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					disable_toast: true
+					id: "7CD8D9D47134E288"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:netherite_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "24CB7DA409FCB88F"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:netherite_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "08BC94A1D81CA80A"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:netherite_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "10FA2701F3CBD3BB"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:netherite_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: -3.0d
+			y: -2.5d
+		}
+		{
+			description: [""]
+			entity_vis_size: 1.0f
+			id: "30E3F448DDBC02AA"
+			rewards: [
+				{
+					id: "10AC6AC4B56D919F"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "dungeons_and_combat:diamond_metal_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "7E22CC9FB6A70FB7"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "dungeons_and_combat:diamond_metal_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "455EEDD209809696"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "dungeons_and_combat:diamond_metal_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "1B8DA3AA580B4986"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "dungeons_and_combat:diamond_metal_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "6AE15E80B422CEEE"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:diamond_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "2F42EBED8E437BCE"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:diamond_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "24D3BD692F659265"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:diamond_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "1275F5E36008B338"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:diamond_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: -3.0d
+			y: -3.5d
+		}
+		{
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "dungeons_and_combat:blessed_gold_helmet"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "2CAF6DE849A2A629"
+			rewards: [
+				{
+					id: "31CB1077F1BDA306"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "dungeons_and_combat:centinel_armor_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "292A484BD79BE587"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "dungeons_and_combat:centinel_armor_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "1AA1F3B7A87A1476"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "dungeons_and_combat:centinel_armor_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "1FCE623055D10276"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "dungeons_and_combat:centinel_armor_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "73BED5D1881A91CB"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "dungeons_and_combat:blessed_gold_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "6E3055F2694C79B0"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "dungeons_and_combat:blessed_gold_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "0FE32B0D3DBB88B5"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "dungeons_and_combat:blessed_gold_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "48B609AD07B7CFEC"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "dungeons_and_combat:blessed_gold_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: -2.0d
+			y: -3.5d
+		}
+	]
+	title: "Ngoại hình thiết bị"
+}

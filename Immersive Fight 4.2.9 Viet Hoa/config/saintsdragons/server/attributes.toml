@@ -1,0 +1,364 @@
+
+[cindervane]
+	#Range: 1.0 ~ 100000.0
+	max_health = 80.0
+	#Range: 0.0 ~ 100000.0
+	armor = 4.0
+	#Range: 0.0 ~ 2.0
+	flying_speed = 0.6
+	#Range: 0.05 ~ 10.0
+	wild_flying_speed_multiplier = 1.0
+	#Range: 0.0 ~ 100000.0
+	bite_damage = 12.0
+	#Range: 0.0 ~ 100000.0
+	double_bite_damage = 15.0
+	#Range: 0.0 ~ 100000.0
+	slash_grab_hit1_damage = 5.0
+	#Range: 0.0 ~ 100000.0
+	slash_grab_hit2_damage = 7.0
+	#Range: 0.0 ~ 100000.0
+	magma_volley_damage = 20.0
+	#Range: 0.0 ~ 100000.0
+	fire_body_damage = 3.0
+	#Range: 0.0 ~ 100.0
+	taming_chance_base = 25.0
+	#Range: 0.0 ~ 100.0
+	taming_chance_chicken = 33.3333
+	#Range: 0.0 ~ 100.0
+	taming_chance_hearty = 50.0
+	#Range: 20.0 ~ 72000.0
+	egg_hatch_time_ticks_normal = 12000.0
+	#Range: 0.0 ~ 100000.0
+	fire_body_explosion_damage = 200.0
+	#Range: 0.0 ~ 100000.0
+	fire_body_self_damage_on_crash = 40.0
+	aggressive_wild = false
+
+[raevyx]
+	#Range: 1.0 ~ 100000.0
+	max_health = 180.0
+	#Range: 0.0 ~ 100000.0
+	armor = 8.0
+	#Range: 0.0 ~ 2.0
+	flying_speed = 0.5
+	dive_loop_enabled = true
+	#Range: 0.05 ~ 10.0
+	wild_flying_speed_multiplier = 1.0
+	#Range: 0.0 ~ 100000.0
+	bite_damage = 15.0
+	#Range: 0.0 ~ 100000.0
+	lightning_beam_damage = 35.0
+	#Range: 0.0 ~ 100000.0
+	horn_gore_damage = 15.0
+	#Range: 0.0 ~ 100000.0
+	dash_damage = 10.0
+	#Range: 0.0 ~ 1.0
+	beam_drain_per_tick = 0.014
+	#Range: 0.0 ~ 1.0
+	beam_regen_per_tick = 0.0025
+	#Range: 20.0 ~ 120000.0
+	summon_storm_cooldown_ticks = 4800.0
+	#Range: 20.0 ~ 120000.0
+	summon_storm_supercharge_ticks = 1200.0
+	#Range: 0.0 ~ 100.0
+	summon_storm_supercharge_damage_multiplier = 2.0
+	#Range: 20.0 ~ 120000.0
+	summon_storm_duration_ticks = 1200.0
+	#Range: 0.0 ~ 100.0
+	taming_chance_base = 20.0
+	#Range: 0.0 ~ 100.0
+	taming_chance_mutton = 20.0
+	#Range: 0.0 ~ 100.0
+	taming_chance_porkchop = 20.0
+	#Range: 0.0 ~ 100.0
+	taming_chance_hearty = 33.3333
+	#Range: 0.0 ~ 1000.0
+	taming_stun_health = 60.0
+	#Range: 20.0 ~ 72000.0
+	egg_hatch_time_ticks_normal = 18000.0
+	#Range: 20.0 ~ 72000.0
+	egg_hatch_time_ticks_thunder = 9600.0
+	legacy_taming = false
+	aggressive_wild = false
+
+[varasuchus]
+	#Range: 1.0 ~ 100000.0
+	max_health = 200.0
+	#Range: 0.0 ~ 100000.0
+	armor = 8.0
+	#Range: 0.1 ~ 5.0
+	swim_speed = 1.45
+	#Range: 0.0 ~ 100000.0
+	bite_phase1_damage = 15.0
+	#Range: 0.0 ~ 100000.0
+	bite_phase2_damage = 25.0
+	#Range: 0.0 ~ 100000.0
+	tail_attack_damage = 7.0
+	#Range: 0.0 ~ 100000.0
+	tailguard_parry_damage = 10.0
+	#Range: 0.0 ~ 100000.0
+	dash_tail_swipe_damage = 10.0
+	#Range: 0.0 ~ 100000.0
+	dash_claw_damage = 15.0
+	#Range: 0.0 ~ 100000.0
+	claw_attack_damage = 8.0
+	#Range: 0.0 ~ 100000.0
+	horn_gore_phase1_damage = 8.0
+	#Range: 0.0 ~ 100000.0
+	horn_gore_phase2_damage = 15.8
+	#Range: 0.0 ~ 100.0
+	taming_chance = 16.6667
+	#Range: 0.0 ~ 100.0
+	taming_chance_beef = 16.6667
+	#Range: 0.0 ~ 100.0
+	taming_chance_tropical = 25.0
+	#Range: 20.0 ~ 72000.0
+	egg_hatch_time_ticks_normal = 24000.0
+	legacy_taming = false
+	aggressive_wild = true
+
+[ignivorus]
+	#Range: 1.0 ~ 100000.0
+	max_health = 450.0
+	#Range: 0.0 ~ 100000.0
+	armor = 4.0
+	#Range: 0.0 ~ 2.0
+	flying_speed = 0.35
+	#Range: 0.05 ~ 10.0
+	wild_flying_speed_multiplier = 1.0
+	#Range: 0.0 ~ 100000.0
+	bite_damage = 50.0
+	#Range: 0.0 ~ 100000.0
+	body_slam_damage = 40.0
+	#Range: 0.0 ~ 100000.0
+	leap_slam_damage = 50.0
+	#Range: 0.0 ~ 100000.0
+	fire_breath_damage = 80.0
+	#Range: 0.0 ~ 100000.0
+	fireball_damage = 70.0
+	#Range: 0.0 ~ 100000.0
+	magma_pillar_damage = 18.0
+	#Range: 0.0 ~ 100000.0
+	wing_swipe_damage = 15.0
+	#Range: 0.0 ~ 100000.0
+	stomp_damage = 18.0
+	#Range: 0.0 ~ 100000.0
+	bulldoze_damage = 10.0
+	#Range: 0.0 ~ 100000.0
+	ultimate_damage = 200.0
+	#Range: 1.0 ~ 10000.0
+	ultimate_penalty_health = 50.0
+	#Range: 0.0 ~ 1.0
+	ultimate_trigger_health_fraction = 0.6
+	#Range: 0.0 ~ 1.0
+	fire_breath_drain_per_tick = 0.00625
+	#Range: 0.0 ~ 1.0
+	fire_breath_regen_per_tick = 0.0025
+	#Range: 0.0 ~ 5.0
+	fire_breath_flame_spawn_multiplier = 1.0
+	#Range: 0.0 ~ 5.0
+	fire_breath_flame_speed_multiplier = 1.0
+	#Range: 0.0 ~ 5.0
+	fire_breath_flame_lifetime_multiplier = 1.0
+	#Range: 0.0 ~ 1.0
+	fire_breath_ignite_block_chance = 1.0
+	#Range: 0.0 ~ 100.0
+	taming_chance_base = 14.2857
+	#Range: 0.0 ~ 100.0
+	taming_chance_beef = 20.0
+	#Range: 0.0 ~ 100.0
+	taming_chance_mutton = 14.2857
+	#Range: 0.0 ~ 100.0
+	taming_chance_porkchop = 14.2857
+	#Range: 0.0 ~ 100.0
+	taming_chance_hearty = 25.0
+	#Range: 0.0 ~ 1000.0
+	taming_stun_health = 100.0
+	#Range: 20.0 ~ 72000.0
+	egg_hatch_time_ticks_normal = 36000.0
+	legacy_taming = false
+	aggressive_wild = false
+
+[stegonaut]
+	#Range: 1.0 ~ 100000.0
+	max_health = 100.0
+	#Range: 0.0 ~ 100000.0
+	armor = 15.0
+	#Range: 0.0 ~ 100000.0
+	bite_damage = 5.0
+	#Range: 0.0 ~ 100000.0
+	chin_slam_damage = 8.0
+	#Range: 0.0 ~ 100000.0
+	ground_eating_damage = 10.0
+	#Range: 0.0 ~ 100000.0
+	ground_slam_damage = 20.0
+	#Range: 0.0 ~ 100000.0
+	ground_slam2_damage = 25.0
+	#Range: 0.0 ~ 100000.0
+	ground_slam_pillar_damage = 10.0
+	#Range: 0.0 ~ 100000.0
+	ground_slam_knockback = 1.35
+	#Range: 0.0 ~ 100000.0
+	ground_slam2_knockback = 1.8
+	#Range: 0.0 ~ 100000.0
+	ground_slam_pillar_knockback = 0.9
+	#Range: 0.0 ~ 100.0
+	taming_chance_base = 100.0
+	#Range: 0.0 ~ 100.0
+	taming_chance_hearty = 100.0
+	#Range: 20.0 ~ 72000.0
+	egg_hatch_time_ticks_normal = 30000.0
+	aggressive_wild = false
+
+[volitans]
+	#Range: 1.0 ~ 100000.0
+	max_health = 160.0
+	#Range: 0.0 ~ 100000.0
+	armor = 6.0
+	#Range: 0.0 ~ 2.0
+	flying_speed = 0.38
+	#Range: 0.05 ~ 10.0
+	wild_flying_speed_multiplier = 1.0
+	#Range: 0.0 ~ 100000.0
+	bite_damage = 12.0
+	#Range: 0.0 ~ 100000.0
+	claw_damage = 11.0
+	#Range: 0.0 ~ 100000.0
+	horn_gore_damage = 15.0
+	#Range: 0.0 ~ 100000.0
+	roar_ground_damage = 10.0
+	#Range: 0.0 ~ 100000.0
+	roar_air_water_damage = 7.0
+	#Range: 0.0 ~ 100000.0
+	burrow_damage = 30.0
+	#Range: 0.0 ~ 100000.0
+	poison_ball_damage = 12.0
+	#Range: 0.0 ~ 100000.0
+	water_breath_damage = 1.8
+	#Range: 0.0 ~ 100000.0
+	poison_breath_damage = 1.4
+	#Range: 0.0 ~ 100.0
+	taming_chance_base = 20.0
+	#Range: 0.0 ~ 100.0
+	taming_chance_hearty = 30.0
+	#Range: 0.0 ~ 100000.0
+	taming_stun_health = 60.0
+	#Range: 20.0 ~ 72000.0
+	egg_hatch_time_ticks_normal = 18000.0
+	#Range: 1.0 ~ 24000.0
+	breath_active_ticks_max = 240.0
+	#Range: 0.0 ~ 1.0
+	breath_drain_per_tick = 0.004166666666666667
+	#Range: 0.0 ~ 1.0
+	breath_regen_per_tick = 0.0025
+	#Range: 0.0 ~ 5.0
+	breath_projectile_spread = 0.2
+	#Range: 0.0 ~ 10.0
+	breath_projectile_speed = 1.6
+	#Range: 1.0 ~ 1200.0
+	breath_projectile_lifetime = 28.0
+	#Range: 0.0 ~ 12000.0
+	poison_breath_poison_duration_ticks = 80.0
+	#Range: 0.0 ~ 4.0
+	poison_breath_poison_level = 1.0
+	#Range: 0.0 ~ 12000.0
+	poison_ball_poison_duration_ticks = 120.0
+	#Range: 0.0 ~ 4.0
+	poison_ball_poison_level = 1.0
+	#Range: 0.0 ~ 12000.0
+	roar_ground_poison_duration_ticks = 1200.0
+	#Range: 0.0 ~ 4.0
+	roar_ground_poison_level = 3.0
+	#Range: 0.0 ~ 12000.0
+	roar_air_water_poison_duration_ticks = 200.0
+	#Range: 0.0 ~ 4.0
+	roar_air_water_poison_level = 2.0
+	legacy_taming = false
+	aggressive_wild = true
+
+[nulljaw]
+	#Range: 1.0 ~ 100000.0
+	max_health = 70.0
+	#Range: 0.0 ~ 100000.0
+	armor = 4.0
+	#Range: 0.0 ~ 100000.0
+	bite_damage = 8.0
+	#Range: 1.0 ~ 72000.0
+	invisibility_duration_ticks = 6000.0
+
+[atroxiia]
+	#Range: 1.0 ~ 100000.0
+	max_health = 200.0
+	#Range: 0.0 ~ 100000.0
+	taming_stun_health = 60.0
+	#Range: 0.0 ~ 100000.0
+	armor = 10.0
+	#Range: 0.0 ~ 100000.0
+	slam_damage = 16.0
+	#Range: 0.0 ~ 100000.0
+	swipe_damage = 12.0
+	#Range: 0.0 ~ 100000.0
+	underwater_bite_damage = 10.0
+	#Range: 0.0 ~ 100000.0
+	gungnir_stab_damage = 40.0
+	#Range: 0.0 ~ 100000.0
+	precise_strike_damage = 9.0
+	#Range: 0.0 ~ 1000.0
+	precise_strike_knockback = 0.75
+	#Range: 0.0 ~ 12000.0
+	precise_strike_stun_duration_ticks = 40.0
+	#Range: 0.0 ~ 100000.0
+	devastating_sweep_damage = 13.0
+	#Range: 0.0 ~ 1000.0
+	devastating_sweep_knockback = 1.65
+	#Range: 0.0 ~ 100000.0
+	helheim_quake_damage = 25.0
+	#Range: 0.0 ~ 1000.0
+	helheim_quake_knockback = 0.75
+	#Range: 0.0 ~ 1000.0
+	helheim_quake_secondary_knockback = 1.8
+	#Range: 0.0 ~ 12000.0
+	helheim_quake_stun_duration_ticks = 100.0
+	#Range: 20.0 ~ 72000.0
+	egg_hatch_time_ticks_normal = 24000.0
+	frost_impact_enabled = true
+	aggressive_wild = false
+	#Range: 0.0 ~ 100000.0
+	slither_damage = 5.0
+
+[draconian_swarm]
+	#Range: 1 ~ 50
+	wave_1_count = 6
+	#Range: 1 ~ 50
+	wave_2_count = 9
+	#Range: 1 ~ 50
+	wave_3_count = 12
+	#Range: 1.0 ~ 100000.0
+	latcher_max_health = 12.0
+	#Range: 0.0 ~ 100000.0
+	latcher_armor = 0.0
+	#Range: 0.0 ~ 2.0
+	latcher_chase_speed = 0.8
+	#Range: 0.0 ~ 100000.0
+	latcher_bite_damage = 4.0
+	#Range: 1.0 ~ 100000.0
+	winged_max_health = 6.0
+	#Range: 0.0 ~ 100000.0
+	winged_armor = 0.0
+	#Range: 0.0 ~ 2.0
+	winged_chase_speed = 1.0
+	#Range: 0.0 ~ 100000.0
+	winged_hook_and_pull_damage = 1.5
+	#Range: 0.0 ~ 100000.0
+	winged_dive_bomb_damage = 2.025
+	#Range: 1.0 ~ 100000.0
+	whettled_max_health = 16.0
+	#Range: 0.0 ~ 100000.0
+	whettled_armor = 0.0
+	#Range: 0.0 ~ 2.0
+	whettled_chase_speed = 0.9
+	#Range: 0.0 ~ 100000.0
+	whettled_claw_attack_damage = 4.0
+	#Range: 0.0 ~ 100000.0
+	whettled_lunge_damage = 9.0
+

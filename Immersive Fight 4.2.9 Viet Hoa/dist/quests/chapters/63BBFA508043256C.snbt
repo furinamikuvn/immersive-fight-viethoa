@@ -1,0 +1,574 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "63BBFA508043256C"
+	group: "4E6BE2D374D7AE03"
+	icon: "born_in_chaos_v1:shattered_skull"
+	id: "63BBFA508043256C"
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["4136241D57627B10"]
+			description: ["Cố gắng chế tạo trang bị ác mộng để nhận thêm buff"]
+			entity_vis_size: 1.0f
+			id: "2F3C1957C0EFA86F"
+			rewards: [{
+				exclude_from_claim_all: true
+				icon: {
+					Count: 1
+					id: "modifiers:modifier_book"
+					tag: {
+						bookModifier: "modifiers:quick"
+					}
+				}
+				id: "103E4F0A8B191429"
+				table_id: 840663340100755059L
+				type: "choice"
+			}]
+			shape: "square"
+			tasks: [
+				{
+					id: "01D75E75AE9B85A2"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"cold_sweat:item_insulation": {
+								Insulation: [ ]
+							}
+						}
+						id: "born_in_chaos_v1:nightmare_mantleofthe_night_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "50C36B9BF2D5B229"
+					item: {
+						Count: 1
+						id: "born_in_chaos_v1:nightmare_mantleofthe_night_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "15E0DB6DF9691C4B"
+					item: {
+						Count: 1
+						id: "born_in_chaos_v1:nightmare_mantleofthe_night_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5F3D52C08F506C89"
+					item: {
+						Count: 1
+						id: "born_in_chaos_v1:nightmare_mantleofthe_night_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: 11.0d
+			y: 0.5d
+		}
+		{
+			description: [
+				"Khi bạn chết khi cầm vật tổ này, vật tổ sẽ bị tiêu hao để cứu bạn khỏi cái chết."
+				"Và mang lại cho bạn hiệu ứng phục hồi sức khỏe V, sức mạnh III và làm suy yếu phép thuật II."
+			]
+			entity_vis_size: 1.0f
+			id: "1FB5B21F37ACA015"
+			shape: "square"
+			tasks: [{
+				id: "37CB986D4D60BABC"
+				item: "born_in_chaos_v1:death_totem"
+				type: "item"
+			}]
+			x: 12.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["4136241D57627B10"]
+			description: ["Thiết bị kim loại Nether có thể được nâng cấp thành thiết bị mạnh hơn"]
+			entity_vis_size: 1.0f
+			id: "2D859D2D9A029501"
+			tasks: [{
+				id: "1C7670E706BC9FAD"
+				item: "born_in_chaos_v1:dark_upgrade"
+				type: "item"
+			}]
+			x: 11.0d
+			y: -0.5d
+		}
+		{
+			description: ["Có thể chế tạo nhiều loại vũ khí và thiết bị"]
+			entity_vis_size: 1.0f
+			id: "4136241D57627B10"
+			tasks: [{
+				id: "5B642E47DDF67A3D"
+				item: "born_in_chaos_v1:dark_metal_ingot"
+				type: "item"
+			}]
+			x: 9.5d
+			y: -0.5d
+		}
+		{
+			description: [
+				"Tìm cấu trúc &a Devil Pumpkin &r bằng cách sử dụng Con trỏ Phiêu lưu"
+				""
+				"Tiêu diệt bí ngô quỷ &a &r,"
+				"Triệu hồi BOSS Bá Tước Bí Ngô"
+			]
+			entity_vis_size: 1.0f
+			icon: "born_in_chaos_v1:infernal_evil_pumpkin_s"
+			id: "2776F3024124F131"
+			shape: "diamond"
+			size: 1.5d
+			tasks: [{
+				id: "4B9EED4B1A35176A"
+				structure: "born_in_chaos_v1:infernal_pumpkin"
+				title: "bí ngô bị nguyền rủa"
+				type: "structure"
+			}]
+			title: "Đếm bí ngô"
+			x: 6.0d
+			y: 0.75d
+		}
+		{
+			dependencies: ["2776F3024124F131"]
+			description: [
+				"Sử dụng kéo để nhấp chuột phải vào [Bí ngô phân bón &e &r] để khắc,"
+				"Nhận &e Bí ngô độc ác&r"
+				""
+				"Sau đó tổng hợp nó thành Bí ngô quỷ &e&r,"
+				""
+				"Đặt đất và sử dụng thuốc thử chuyển đổi &d nhấp chuột phải,"
+				"Triệu hồi &l&aBOSS Chúa tể bí ngô&r&r"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "born_in_chaos_v1:lord_pumpkinheads_hat_helmet"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "63384A60FA5F6F72"
+			shape: "diamond"
+			size: 1.5d
+			tasks: [
+				{
+					id: "1C22D192882B9092"
+					item: "born_in_chaos_v1:cultivated_pumpkin"
+					type: "item"
+				}
+				{
+					id: "16083684F508B332"
+					item: "born_in_chaos_v1:evil_carved_pumpkin"
+					type: "item"
+				}
+				{
+					id: "70380243FEB813FA"
+					item: "born_in_chaos_v1:infernal_evil_pumpkin"
+					type: "item"
+				}
+				{
+					id: "110FC925843E6772"
+					item: "born_in_chaos_v1:transmuting_elixir"
+					type: "item"
+				}
+			]
+			title: "chúa tể bí ngô"
+			x: 8.25d
+			y: 0.75d
+		}
+		{
+			dependencies: ["2D859D2D9A029501"]
+			entity_vis_size: 1.0f
+			id: "63FBBFB5ACEE07B6"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					icon: {
+						Count: 1
+						id: "modifiers:modifier_book"
+						tag: {
+							bookModifier: "modifiers:quick"
+						}
+					}
+					id: "68A8FDD6D9174526"
+					table_id: 840663340100755059L
+					type: "choice"
+				}
+				{
+					id: "2F3B3DDFF1440F49"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "dungeons_and_combat:molten_dark_steel_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "4B219928D83FD349"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "dungeons_and_combat:molten_dark_steel_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "0B5DCED9E075261C"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "dungeons_and_combat:molten_dark_steel_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5B0DCF8D0AD4983B"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "dungeons_and_combat:molten_dark_steel_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			shape: "square"
+			tasks: [
+				{
+					id: "36257A57682FD3E1"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"cold_sweat:item_insulation": {
+								Insulation: [ ]
+							}
+						}
+						id: "born_in_chaos_v1:dark_metal_armor_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "0B81287C321A7E97"
+					item: {
+						Count: 1
+						id: "born_in_chaos_v1:dark_metal_armor_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "62AB6ACD4C19D0CE"
+					item: {
+						Count: 1
+						id: "born_in_chaos_v1:dark_metal_armor_leggings"
+						tag: {
+							Damage: 0
+							itemModifier: "modifiers:spiked"
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "4B8ADF5DE9AD2D24"
+					item: {
+						Count: 1
+						id: "born_in_chaos_v1:dark_metal_armor_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: 12.0d
+			y: 0.5d
+		}
+		{
+			description: [
+				"Cua mai gai giọt"
+				"Cua Vỏ Gai: Thế Hệ Bờ Biển"
+			]
+			entity_vis_size: 1.0f
+			id: "114DBE54D94F4A79"
+			tasks: [{
+				id: "50896D876C11CFA1"
+				item: "born_in_chaos_v1:spiny_shell"
+				type: "item"
+			}]
+			x: 9.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["114DBE54D94F4A79"]
+			entity_vis_size: 1.0f
+			id: "7B54FD4CAF938F04"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1B7C605CA1B7250F"
+				table_id: 840663340100755059L
+				type: "choice"
+			}]
+			shape: "square"
+			tasks: [
+				{
+					id: "59A81CB937C97474"
+					item: {
+						Count: 1
+						id: "born_in_chaos_v1:spiny_shell_armor_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "446B43AE6F962D0E"
+					item: {
+						Count: 1
+						id: "born_in_chaos_v1:spiny_shell_armor_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: 11.0d
+			y: 1.5d
+		}
+		{
+			entity_vis_size: 1.0f
+			id: "677F0239F6BBC9D9"
+			shape: "square"
+			tasks: [{
+				id: "48C10ADBAB9AF25A"
+				item: {
+					Count: 1
+					id: "born_in_chaos_v1:nightmare_scythe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 5.5d
+			y: 3.0d
+		}
+		{
+			entity_vis_size: 1.0f
+			id: "0C5DF0A39557126A"
+			shape: "square"
+			tasks: [{
+				id: "3EDB31D8BF5732B9"
+				item: {
+					Count: 1
+					id: "born_in_chaos_v1:great_reaper_axe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 6.5d
+			y: 3.0d
+		}
+		{
+			entity_vis_size: 1.0f
+			id: "7C527482CE7A41C1"
+			shape: "square"
+			tasks: [{
+				id: "0735DDC29F916CAE"
+				item: {
+					Count: 1
+					id: "born_in_chaos_v1:soul_cutlass"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 7.5d
+			y: 3.0d
+		}
+		{
+			entity_vis_size: 1.0f
+			id: "26E80A0490B5F299"
+			shape: "square"
+			tasks: [{
+				id: "1E2A6D691E018FEF"
+				item: {
+					Count: 1
+					id: "born_in_chaos_v1:darkwarblade"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 8.5d
+			y: 3.0d
+		}
+		{
+			entity_vis_size: 1.0f
+			id: "62219DCB81B0E82B"
+			shape: "square"
+			tasks: [{
+				id: "6810D8F73257CF74"
+				item: {
+					Count: 1
+					id: "born_in_chaos_v1:skullbreaker_hammer"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 5.5d
+			y: 4.0d
+		}
+		{
+			entity_vis_size: 1.0f
+			id: "2703A5D22199CA0D"
+			shape: "square"
+			tasks: [{
+				id: "08BDBB3ACDA42711"
+				item: {
+					Count: 1
+					id: "born_in_chaos_v1:shell_mace"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 6.5d
+			y: 4.0d
+		}
+		{
+			entity_vis_size: 1.0f
+			id: "505443C2CDA0AA58"
+			shape: "square"
+			tasks: [{
+				id: "3EF1DBC695E7FF95"
+				item: {
+					Count: 1
+					id: "born_in_chaos_v1:dark_ritual_dagger"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 8.5d
+			y: 4.0d
+		}
+		{
+			entity_vis_size: 1.0f
+			id: "304A97FC57A73FCB"
+			shape: "square"
+			tasks: [{
+				id: "45C475D1B363E376"
+				item: {
+					Count: 1
+					id: "born_in_chaos_v1:spiritual_sword"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 9.5d
+			y: 4.0d
+		}
+		{
+			entity_vis_size: 1.0f
+			id: "6E6B6DDBB69AD1AE"
+			shape: "square"
+			tasks: [{
+				id: "654197BEB1151AA6"
+				item: {
+					Count: 1
+					id: "born_in_chaos_v1:sharpened_dark_metal_sword"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 9.5d
+			y: 3.0d
+		}
+		{
+			entity_vis_size: 1.0f
+			id: "6D48C150119799BA"
+			shape: "square"
+			tasks: [{
+				id: "1A7E0AB4080CDF77"
+				item: {
+					Count: 1
+					id: "born_in_chaos_v1:intoxicating_dagger"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 7.5d
+			y: 4.0d
+		}
+	]
+	title: "sinh ra từ sự hỗn loạn"
+}

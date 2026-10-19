@@ -1,0 +1,17 @@
+{
+  "block.doapi.standard": {
+    "en": "Completionist Banner",
+    "zh": null,
+    "vi": null
+  },
+  "block.doapi.wall_standard": {
+    "en": "Completionist Wall Banner",
+    "zh": null,
+    "vi": null
+  },
+  "pack.source.builtinMod": {
+    "en": "built-in: %s",
+    "zh": null,
+    "vi": null
+  }
+}

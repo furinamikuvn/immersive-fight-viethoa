@@ -1,0 +1,132 @@
+{
+  "yacl.control.boolean.true": {
+    "en": "True",
+    "zh": "是",
+    "vi": null
+  },
+  "yacl.control.boolean.false": {
+    "en": "False",
+    "zh": "否",
+    "vi": null
+  },
+  "yacl.control.action.execute": {
+    "en": "EXECUTE",
+    "zh": "执行",
+    "vi": null
+  },
+  "yacl.control.color.color_picker_title": {
+    "en": "Color Picker",
+    "zh": null,
+    "vi": null
+  },
+  "yacl.control.dropdown.dropdown_widget_title": {
+    "en": "Dropdown Chooser",
+    "zh": null,
+    "vi": null
+  },
+  "yacl.control.text.blank": {
+    "en": "<blank>",
+    "zh": null,
+    "vi": null
+  },
+  "yacl.gui.save": {
+    "en": "Save Changes",
+    "zh": "保存更改",
+    "vi": null
+  },
+  "yacl.gui.save.tooltip": {
+    "en": "Makes the changes made permanent.",
+    "zh": "永久保存所做更改。",
+    "vi": null
+  },
+  "yacl.gui.finished.tooltip": {
+    "en": "Closes the GUI.",
+    "zh": "关闭 GUI。",
+    "vi": null
+  },
+  "yacl.gui.cancel.tooltip": {
+    "en": "Forgets pending changes and closes the GUI.",
+    "zh": "忽略犹豫不决的更改然后关闭 GUI。",
+    "vi": null
+  },
+  "yacl.gui.reset.tooltip": {
+    "en": "Resets all options to default. (This is reversible!)",
+    "zh": "将所有选项重置为默认值。（这是可逆的！）",
+    "vi": null
+  },
+  "yacl.gui.undo": {
+    "en": "Undo",
+    "zh": "撤销",
+    "vi": null
+  },
+  "yacl.gui.undo.tooltip": {
+    "en": "Reverts all options back to what they were before editing.",
+    "zh": "将所有选项恢复到编辑前的状态。",
+    "vi": null
+  },
+  "yacl.gui.fail_apply": {
+    "en": "Failed to apply",
+    "zh": "应用失败",
+    "vi": null
+  },
+  "yacl.gui.fail_apply.tooltip": {
+    "en": "There was an error and the changes couldn't be applied.",
+    "zh": "有一个错误以至于更改不能被应用。",
+    "vi": null
+  },
+  "yacl.gui.save_before_exit": {
+    "en": "Save before exiting!",
+    "zh": "退出前保存！",
+    "vi": null
+  },
+  "yacl.gui.save_before_exit.tooltip": {
+    "en": "Save or cancel to exit the GUI.",
+    "zh": "保存或取消以退出 GUI。",
+    "vi": null
+  },
+  "yacl.list.move_up": {
+    "en": "Move up",
+    "zh": "上移",
+    "vi": null
+  },
+  "yacl.list.move_down": {
+    "en": "Move down",
+    "zh": "下移",
+    "vi": null
+  },
+  "yacl.list.remove": {
+    "en": "Remove",
+    "zh": "移除",
+    "vi": null
+  },
+  "yacl.list.add_top": {
+    "en": "New entry",
+    "zh": "新条目",
+    "vi": null
+  },
+  "yacl.list.empty": {
+    "en": "List is empty",
+    "zh": "列表为空",
+    "vi": null
+  },
+  "yacl.restart.title": {
+    "en": "Config requires restart!",
+    "zh": "配置需要重新启动！",
+    "vi": null
+  },
+  "yacl.restart.message": {
+    "en": "One or more options needs you to restart the game to apply the changes.",
+    "zh": "一个或多个选项需要你重新启动游戏来应用这些更改。",
+    "vi": null
+  },
+  "yacl.restart.yes": {
+    "en": "Close Minecraft",
+    "zh": "关闭 Minecraft",
+    "vi": null
+  },
+  "yacl.restart.no": {
+    "en": "Ignore",
+    "zh": "忽略",
+    "vi": null
+  }
+}

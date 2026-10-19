@@ -1,0 +1,53 @@
+{
+	icon: "modifiers:modifier_book"
+	id: "0BBBB2DA92661E73"
+	loot_size: 1
+	order_index: 0
+	rewards: [
+		{
+			item: {
+				Count: 1
+				id: "modifiers:modifier_book"
+				tag: {
+					bookModifier: "modifiers:guarding"
+				}
+			}
+			title: "Phòng Vệ +1.5 Điểm Giáp"
+			weight: 2.0f
+		}
+		{
+			item: {
+				Count: 1
+				id: "modifiers:modifier_book"
+				tag: {
+					bookModifier: "modifiers:angry"
+				}
+			}
+			title: "Cuồng Nộ +3% Sát Thương"
+			weight: 2.0f
+		}
+		{
+			item: {
+				Count: 1
+				id: "modifiers:modifier_book"
+				tag: {
+					bookModifier: "modifiers:intrepid"
+				}
+			}
+			title: "Bất Khuất +3% Tốc Độ Đánh"
+			weight: 2.0f
+		}
+		{
+			item: {
+				Count: 1
+				id: "modifiers:modifier_book"
+				tag: {
+					bookModifier: "modifiers:hasty"
+				}
+			}
+			title: "Nhanh Nhẹn +3% Tốc Độ Di Chuyển"
+			weight: 2.0f
+		}
+	]
+	title: "Phẩm Chất Giáp Thường"
+}

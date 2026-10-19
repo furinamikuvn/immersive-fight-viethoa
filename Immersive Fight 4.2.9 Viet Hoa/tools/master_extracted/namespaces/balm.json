@@ -1,0 +1,177 @@
+{
+  "tag.item.balm.black_dyes": {
+    "en": "Black Dyes",
+    "zh": null,
+    "vi": null
+  },
+  "tag.item.balm.blue_dyes": {
+    "en": "Blue Dyes",
+    "zh": null,
+    "vi": null
+  },
+  "tag.item.balm.brown_dyes": {
+    "en": "Brown Dyes",
+    "zh": null,
+    "vi": null
+  },
+  "tag.item.balm.cyan_dyes": {
+    "en": "Cyan Dyes",
+    "zh": null,
+    "vi": null
+  },
+  "tag.item.balm.gray_dyes": {
+    "en": "Gray Dyes",
+    "zh": null,
+    "vi": null
+  },
+  "tag.item.balm.green_dyes": {
+    "en": "Green Dyes",
+    "zh": null,
+    "vi": null
+  },
+  "tag.item.balm.light_blue_dyes": {
+    "en": "Light Blue Dyes",
+    "zh": null,
+    "vi": null
+  },
+  "tag.item.balm.light_gray_dyes": {
+    "en": "Light Gray Dyes",
+    "zh": null,
+    "vi": null
+  },
+  "tag.item.balm.lime_dyes": {
+    "en": "Lime Dyes",
+    "zh": null,
+    "vi": null
+  },
+  "tag.item.balm.magenta_dyes": {
+    "en": "Magenta Dyes",
+    "zh": null,
+    "vi": null
+  },
+  "tag.item.balm.orange_dyes": {
+    "en": "Orange Dyes",
+    "zh": null,
+    "vi": null
+  },
+  "tag.item.balm.pink_dyes": {
+    "en": "Pink Dyes",
+    "zh": null,
+    "vi": null
+  },
+  "tag.item.balm.purple_dyes": {
+    "en": "Purple Dyes",
+    "zh": null,
+    "vi": null
+  },
+  "tag.item.balm.red_dyes": {
+    "en": "Red Dyes",
+    "zh": null,
+    "vi": null
+  },
+  "tag.item.balm.white_dyes": {
+    "en": "White Dyes",
+    "zh": null,
+    "vi": null
+  },
+  "tag.item.balm.yellow_dyes": {
+    "en": "Yellow Dyes",
+    "zh": null,
+    "vi": null
+  },
+  "tag.item.balm.cooking_oil": {
+    "en": "Cooking Oil",
+    "zh": null,
+    "vi": null
+  },
+  "tag.item.balm.diamonds": {
+    "en": "Diamonds",
+    "zh": null,
+    "vi": null
+  },
+  "tag.item.balm.dyes": {
+    "en": "Dyes",
+    "zh": null,
+    "vi": null
+  },
+  "tag.item.balm.eggs": {
+    "en": "Eggs",
+    "zh": null,
+    "vi": null
+  },
+  "tag.item.balm.emeralds": {
+    "en": "Emeralds",
+    "zh": null,
+    "vi": null
+  },
+  "tag.item.balm.gems": {
+    "en": "Gems",
+    "zh": null,
+    "vi": null
+  },
+  "tag.item.balm.gold_nuggets": {
+    "en": "Gold Nuggets",
+    "zh": null,
+    "vi": null
+  },
+  "tag.item.balm.ingots": {
+    "en": "Ingots",
+    "zh": null,
+    "vi": null
+  },
+  "tag.item.balm.iron_ingots": {
+    "en": "Iron Ingots",
+    "zh": null,
+    "vi": null
+  },
+  "tag.item.balm.iron_nuggets": {
+    "en": "Iron Nuggets",
+    "zh": null,
+    "vi": null
+  },
+  "tag.item.balm.nuggets": {
+    "en": "Nuggets",
+    "zh": null,
+    "vi": null
+  },
+  "tag.item.balm.ores": {
+    "en": "Ores",
+    "zh": null,
+    "vi": null
+  },
+  "tag.item.balm.stones": {
+    "en": "Stones",
+    "zh": null,
+    "vi": null
+  },
+  "tag.item.balm.wooden_chests": {
+    "en": "Wooden Chests",
+    "zh": null,
+    "vi": null
+  },
+  "tag.item.balm.wooden_rods": {
+    "en": "Wooden Rods",
+    "zh": null,
+    "vi": null
+  },
+  "disconnect.balm.mod_missing_on_server": {
+    "en": "The server does not have %s installed. Please remove the mod from your game or install it on the server as well.",
+    "zh": null,
+    "vi": null
+  },
+  "disconnect.balm.mod_missing_on_client": {
+    "en": "You do not have %s installed. Please install %s version %s to play on this server.",
+    "zh": null,
+    "vi": null
+  },
+  "disconnect.balm.mod_version_mismatch": {
+    "en": "Version mismatch for %s. The server expects version %s, but you currently have %s installed. Please install the correct version.",
+    "zh": null,
+    "vi": null
+  },
+  "config.jade.plugin_balm.jade": {
+    "en": "Balm",
+    "zh": null,
+    "vi": null
+  }
+}

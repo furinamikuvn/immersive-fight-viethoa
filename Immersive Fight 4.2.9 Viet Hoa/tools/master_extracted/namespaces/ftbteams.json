@@ -1,0 +1,452 @@
+{
+  "ftbteams.already_in_party": {
+    "en": "You are already in a party!",
+    "zh": "你已经在一个队伍里了！",
+    "vi": "Bạn đã ở trong một đội rồi!"
+  },
+  "ftbteams.player_already_in_party": {
+    "en": "Player '%s' is already in a party!",
+    "zh": null,
+    "vi": "Người chơi \"%s\" đã ở trong một đội rồi!"
+  },
+  "ftbteams.not_in_party": {
+    "en": "You haven't created or joined a party!",
+    "zh": "你还没有创建或加入一个队伍！",
+    "vi": "Bạn chưa tạo hoặc tham gia đội nào!"
+  },
+  "ftbteams.team_not_found": {
+    "en": "Team '%s' not found!",
+    "zh": "未找到团队“%s”！",
+    "vi": "Không tìm thấy đội \"%s\"!"
+  },
+  "ftbteams.cant_edit": {
+    "en": "You can't edit %s!",
+    "zh": "你无法编辑%s！",
+    "vi": "Bạn không thể chỉnh sửa %s!"
+  },
+  "ftbteams.not_member": {
+    "en": "%s is not a member of %s!",
+    "zh": "%s不是%s的成员！",
+    "vi": "%s không phải thành viên của %s!"
+  },
+  "ftbteams.not_officer": {
+    "en": "%s is not an officer of %s!",
+    "zh": null,
+    "vi": "%s không phải đội trưởng của %s!"
+  },
+  "ftbteams.not_invited": {
+    "en": "You are not invited to join %s!",
+    "zh": "你未被邀请加入%s！",
+    "vi": "Bạn chưa được mời tham gia %s!"
+  },
+  "ftbteams.name_too_short": {
+    "en": "Team name is too short! (must be >=3 characters)",
+    "zh": null,
+    "vi": "Tên đội quá ngắn! (Cần ít nhất 3 ký tự)"
+  },
+  "ftbteams.server_permissions_prevent": {
+    "en": "Server permissions prevent you from doing that.",
+    "zh": null,
+    "vi": "Quyền hạn máy chủ ngăn cản bạn thực hiện thao tác này."
+  },
+  "ftbteams.info.id": {
+    "en": "Long Team ID: %s",
+    "zh": "团队长ID：%s",
+    "vi": "ID Dài của Đội: %s"
+  },
+  "ftbteams.info.short_id": {
+    "en": "Short Team ID: %s",
+    "zh": "团队短ID：%s",
+    "vi": "ID Ngắn của Đội: %s"
+  },
+  "ftbteams.info.owner": {
+    "en": "Owner: %s",
+    "zh": "队长：%s",
+    "vi": "Đội Trưởng: %s"
+  },
+  "ftbteams.info.owner.none": {
+    "en": "None",
+    "zh": "无",
+    "vi": "Không có"
+  },
+  "ftbteams.info.members": {
+    "en": "Members:",
+    "zh": "成员：",
+    "vi": "Thành viên:"
+  },
+  "ftbteams.info.members.none": {
+    "en": "No members",
+    "zh": "没有成员",
+    "vi": "Không có thành viên"
+  },
+  "ftbteams.list": {
+    "en": "All FTB Teams: %s",
+    "zh": "所有FTB团队：%s",
+    "vi": "Tất cả các đội FTB: %s"
+  },
+  "ftbteams.property_not_found": {
+    "en": "Property ID not found!",
+    "zh": "未找到属性ID！",
+    "vi": "Không tìm thấy ID thuộc tính!"
+  },
+  "ftbteams.owner_cant_leave": {
+    "en": "You must transfer ownership of the team before you can leave!",
+    "zh": "你必须在离开之前转移团队的拥有权！",
+    "vi": "Trước khi rời đội, bạn phải chuyển quyền sở hữu đội!"
+  },
+  "ftbteams.cant_kick_owner": {
+    "en": "Can't kick the owner!",
+    "zh": "无法踢掉队长！",
+    "vi": "Không thể đá đội trưởng!"
+  },
+  "ftbteams.party_api_only": {
+    "en": "In this modpack you cannot create party teams directly!",
+    "zh": null,
+    "vi": "Trong modpack này, bạn không thể trực tiếp tạo đội!"
+  },
+  "ftbteams.api_override": {
+    "en": "In this modpack you can only create party from inventory 'My Team' button!",
+    "zh": null,
+    "vi": "Trong modpack này, bạn chỉ có thể tạo đội qua nút \"Đội Của Tôi\" trong túi đồ!"
+  },
+  "ftbteams.missing_data": {
+    "en": "Team data has not been received from the server!\nFTB Teams will not function correctly.\nCheck server log for errors, and ensure your server is in online mode.",
+    "zh": null,
+    "vi": "Chưa nhận được dữ liệu đội từ máy chủ!\nFTB Teams sẽ không hoạt động bình thường.\nVui lòng kiểm tra log máy chủ."
+  },
+  "sidebar_button.ftbteams.my_team": {
+    "en": "My Team",
+    "zh": "我的团队",
+    "vi": "Đội Của Tôi"
+  },
+  "ftbteamsconfig": {
+    "en": "Team Properties",
+    "zh": "FTB团队配置",
+    "vi": "Thuộc Tính Đội"
+  },
+  "ftbteamsconfig.ftbteams": {
+    "en": "Basic Team Properties",
+    "zh": null,
+    "vi": "Thuộc Tính Đội Cơ Bản"
+  },
+  "ftbteamsconfig.ftbteams.display_name": {
+    "en": "Display Name",
+    "zh": "显示名称",
+    "vi": "Tên Hiển Thị"
+  },
+  "ftbteamsconfig.ftbteams.description": {
+    "en": "Description",
+    "zh": "描述",
+    "vi": "Mô Tả"
+  },
+  "ftbteamsconfig.ftbteams.color": {
+    "en": "Color",
+    "zh": "颜色",
+    "vi": "Màu Sắc"
+  },
+  "ftbteamsconfig.ftbteams.free_to_join": {
+    "en": "Free to Join",
+    "zh": "自由加入",
+    "vi": "Tự Do Gia Nhập"
+  },
+  "ftbteamsconfig.ftbteams.max_msg_history_size": {
+    "en": "Message History Maximum Size",
+    "zh": null,
+    "vi": "Dung lượng tối đa lịch sử trò chuyện"
+  },
+  "ftbteams.privacy_mode.allies": {
+    "en": "Allies",
+    "zh": "盟友",
+    "vi": "Đồng Minh"
+  },
+  "ftbteams.privacy_mode.private": {
+    "en": "Private",
+    "zh": "私有",
+    "vi": "Riêng Tư"
+  },
+  "ftbteams.privacy_mode.public": {
+    "en": "Public",
+    "zh": "公开",
+    "vi": "Công Khai"
+  },
+  "ftbteams.create_party": {
+    "en": "Create a Party",
+    "zh": "创建一个队伍",
+    "vi": "Tạo Một Đội"
+  },
+  "ftbteams.create_party.info": {
+    "en": "Create a Party team to invite members and progress together",
+    "zh": "创建一个队伍并邀请成员共同发展",
+    "vi": "Tạo một đội để mời thành viên và cùng chơi"
+  },
+  "ftbteams.gui.kick": {
+    "en": "Kick %s",
+    "zh": null,
+    "vi": "Đá %s"
+  },
+  "ftbteams.gui.kick.confirm": {
+    "en": "Do you want to kick player %s?",
+    "zh": null,
+    "vi": "Bạn có chắc chắn muốn đá người chơi %s không?"
+  },
+  "ftbteams.gui.promote": {
+    "en": "Promote %s",
+    "zh": null,
+    "vi": "Thăng chức %s"
+  },
+  "ftbteams.gui.promote.confirm": {
+    "en": "Do you want to promote player %s?",
+    "zh": null,
+    "vi": "Bạn có chắc muốn thăng chức người chơi %s không?"
+  },
+  "ftbteams.gui.demote": {
+    "en": "Demote %s",
+    "zh": null,
+    "vi": "Giáng chức %s"
+  },
+  "ftbteams.gui.demote.confirm": {
+    "en": "Do you want to demote player %s?",
+    "zh": null,
+    "vi": "Bạn có chắc muốn giáng chức người chơi %s không?"
+  },
+  "ftbteams.gui.leave": {
+    "en": "Leave Party",
+    "zh": null,
+    "vi": "Rời Đội"
+  },
+  "ftbteams.gui.leave.confirm": {
+    "en": "Do you want to leave the party?",
+    "zh": null,
+    "vi": "Bạn có chắc chắn muốn rời đội không?"
+  },
+  "ftbteams.gui.disband": {
+    "en": "Disband Party",
+    "zh": null,
+    "vi": "Giải Tán Đội"
+  },
+  "ftbteams.gui.disband.confirm": {
+    "en": "Do you want to disband the party?",
+    "zh": null,
+    "vi": "Bạn có chắc chắn muốn giải tán đội không?"
+  },
+  "ftbteams.gui.transfer_ownership": {
+    "en": "Make %s Party Owner",
+    "zh": null,
+    "vi": "Chuyển Đội Trưởng cho %s"
+  },
+  "ftbteams.gui.transfer_ownership.confirm": {
+    "en": "Do you want to make %s party owner?",
+    "zh": null,
+    "vi": "Bạn có chắc chắn muốn chuyển đội trưởng cho %s không?"
+  },
+  "ftbteams.gui.party_name": {
+    "en": "Party Name",
+    "zh": null,
+    "vi": "Tên Đội"
+  },
+  "ftbteams.gui.party_description": {
+    "en": "Description",
+    "zh": null,
+    "vi": "Mô Tả"
+  },
+  "ftbteams.gui.create_party": {
+    "en": "Description",
+    "zh": null,
+    "vi": "Tạo Đội"
+  },
+  "ftbteams.gui.add_members": {
+    "en": "Add Members",
+    "zh": null,
+    "vi": "Thêm Thành Viên"
+  },
+  "ftbteams.gui.invite": {
+    "en": "Invite Player(s)",
+    "zh": null,
+    "vi": "Mời Người Chơi"
+  },
+  "ftbteams.gui.manage_allies": {
+    "en": "Manage Allies",
+    "zh": null,
+    "vi": "Quản Lý Đồng Minh"
+  },
+  "ftbteams.gui.no_players": {
+    "en": "No players available",
+    "zh": null,
+    "vi": "Không có người chơi nào khả dụng"
+  },
+  "ftbteams.gui.send_invite": {
+    "en": "Invite",
+    "zh": null,
+    "vi": "Mời"
+  },
+  "ftbteams.gui.add_ally": {
+    "en": "Ally",
+    "zh": null,
+    "vi": "Đồng Minh"
+  },
+  "ftbteams.gui.remove_ally": {
+    "en": "Un-Ally with %s",
+    "zh": null,
+    "vi": "Hủy đồng minh với %s"
+  },
+  "ftbteams.gui.remove_ally.confirm": {
+    "en": "Do you want to remove %s as an Ally?",
+    "zh": null,
+    "vi": "Bạn có chắc muốn hủy quan hệ đồng minh với %s không?"
+  },
+  "ftbteams.ranks.enemy": {
+    "en": "Enemy",
+    "zh": null,
+    "vi": "Kẻ Địch"
+  },
+  "ftbteams.ranks.none": {
+    "en": "None",
+    "zh": null,
+    "vi": "Không"
+  },
+  "ftbteams.ranks.ally": {
+    "en": "Ally",
+    "zh": null,
+    "vi": "Đồng Minh"
+  },
+  "ftbteams.ranks.invited": {
+    "en": "Invited",
+    "zh": null,
+    "vi": "Đã Mời"
+  },
+  "ftbteams.ranks.member": {
+    "en": "Member",
+    "zh": null,
+    "vi": "Thành Viên"
+  },
+  "ftbteams.ranks.officer": {
+    "en": "Officer",
+    "zh": null,
+    "vi": "Quản Trị Viên"
+  },
+  "ftbteams.ranks.owner": {
+    "en": "Owner",
+    "zh": null,
+    "vi": "Đội Trưởng"
+  },
+  "ftbteams.team_type.player": {
+    "en": "Player Team",
+    "zh": null,
+    "vi": "Đội Người Chơi"
+  },
+  "ftbteams.team_type.party": {
+    "en": "Party Team",
+    "zh": null,
+    "vi": "Đội"
+  },
+  "ftbteams.team_type.server": {
+    "en": "Server Team",
+    "zh": null,
+    "vi": "Đội Máy Chủ"
+  },
+  "key.ftbteams.open_gui": {
+    "en": "Open Teams GUI",
+    "zh": null,
+    "vi": "Mở Giao Diện Đội"
+  },
+  "key.categories.ftbteams": {
+    "en": "FTB Teams",
+    "zh": null,
+    "vi": "FTB Teams"
+  },
+  "ftbteams.message.invited": {
+    "en": "Invited %s",
+    "zh": null,
+    "vi": "Đã mời %s"
+  },
+  "ftbteams.message.invite_sent": {
+    "en": "%s has invited you to join their party!",
+    "zh": null,
+    "vi": "%s mời bạn gia nhập đội của họ!"
+  },
+  "ftbteams.message.joined": {
+    "en": "%s has joined your party!",
+    "zh": null,
+    "vi": "%s đã gia nhập đội của bạn!"
+  },
+  "ftbteams.message.declined": {
+    "en": "You have declined the invitation",
+    "zh": null,
+    "vi": "Bạn đã từ chối lời mời"
+  },
+  "ftbteams.message.kicked": {
+    "en": "Kicked %s from %s!",
+    "zh": null,
+    "vi": "Đã đá %s khỏi %s!"
+  },
+  "ftbteams.message.promoted": {
+    "en": "Promoted %s to Officer!",
+    "zh": null,
+    "vi": "Đã thăng chức %s lên Quản Trị Viên!"
+  },
+  "ftbteams.message.demoted": {
+    "en": "Demoted %s to Member!",
+    "zh": null,
+    "vi": "Đã giáng chức %s xuống Thành Viên!"
+  },
+  "ftbteams.message.transfer_owner": {
+    "en": "Transferred ownership to %s!",
+    "zh": null,
+    "vi": "Đã chuyển quyền đội trưởng cho %s!"
+  },
+  "ftbteams.message.left_party": {
+    "en": "Player %s left your party!",
+    "zh": null,
+    "vi": "Người chơi %s đã rời khỏi đội!"
+  },
+  "ftbteams.message.add_ally": {
+    "en": "Player %s is now an ally of your team!",
+    "zh": null,
+    "vi": "Người chơi %s hiện là đồng minh của đội bạn!"
+  },
+  "ftbteams.message.now_allied": {
+    "en": "You are now an ally of '%s'!",
+    "zh": null,
+    "vi": "Bạn hiện là đồng minh của \"%s\"!"
+  },
+  "ftbteams.message.remove_ally": {
+    "en": "Player %s is no longer an ally of your team!",
+    "zh": null,
+    "vi": "Người chơi %s không còn là đồng minh của đội bạn!"
+  },
+  "ftbteams.message.no_longer_allied": {
+    "en": "You are no longer an ally of '%s'!",
+    "zh": null,
+    "vi": "Bạn không còn là đồng minh của \"%s\"!"
+  },
+  "ftbteams.message.created_server_team": {
+    "en": "Created new server team '%s'!",
+    "zh": null,
+    "vi": "Đã tạo đội máy chủ mới \"%s\"!"
+  },
+  "ftbteams.message.deleted_server_team": {
+    "en": "Deleted server team '%s'!",
+    "zh": null,
+    "vi": "Đã xóa đội máy chủ \"%s\"!"
+  },
+  "ftbteams.message.team_disbanded": {
+    "en": "Forcibly disbanded party team '%s' (%s) !",
+    "zh": null,
+    "vi": "Đã cưỡng chế giải tán đội \"%s\" (%s)!"
+  },
+  "ftbteams.accept": {
+    "en": "Accept ✔",
+    "zh": null,
+    "vi": "Chấp Nhận ✔"
+  },
+  "ftbteams.decline": {
+    "en": "Decline ✘",
+    "zh": null,
+    "vi": "Từ Chối ✘"
+  },
+  "ftbteams.team_already_exists": {
+    "en": "Team name is too short! (must be >=3 characters)",
+    "zh": null,
+    "vi": null
+  }
+}

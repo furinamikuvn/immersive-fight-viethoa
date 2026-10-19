@@ -1,0 +1,19 @@
+{
+  "values": [
+    "minecraft:forest",
+    "minecraft:flower_forest",
+    "minecraft:taiga",
+    "minecraft:old_growth_spruce_taiga",
+    "minecraft:plains",
+    "minecraft:dark_forest",
+"biomeswevegone:black_forest",
+"biomeswevegone:cika_woods",
+"biomeswevegone:orchard",
+"biomeswevegone:prairie",
+"biomeswevegone:temperate_grove",
+"regions_unexplored:temperate_grove",
+"regions_unexplored:shrubland",
+"regions_unexplored:rocky_meadow",
+"regions_unexplored:grassland"
+  ]
+}

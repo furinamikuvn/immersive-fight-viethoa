@@ -1,0 +1,17 @@
+{
+  "name": "Bất Ổn Định (Unstable)",
+  "icon": "simplyswords:runic_tablet",
+  "category": "simplyswords:category_rune_etching",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:runic_tablet",
+      "title": "Bất Ổn Định (Unstable)",
+      "text": "Phù văn Bất Ổn Định chứa tinh hoa của $(#9243a3)$(l)Hỗn Loạn$(). $(br2)Nó ban cho người cầm hiệu ứng trạng thái ngẫu nhiên."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Hiệu quả hoàn toàn bất định, bao gồm cả bùa lợi và bùa hại, thích hợp cho những chiến binh ưa thích thử vận may."
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "item.key.chesttype": {
+    "en": "Chest Name: ",
+    "zh": "箱子名：",
+    "vi": "Chest Name: "
+  },
+  "item.key.chestpos": {
+    "en": "Chest Position: [X=%d, Y=%d, Z=%d]",
+    "zh": "箱子位置：[X=%d, Y=%d, Z=%d]",
+    "vi": "Chest Position: [X=%d, Y=%d, Z=%d]"
+  },
+  "item.key.keychest": {
+    "en": "%s : [X=%d, Y=%d, Z=%d]",
+    "zh": "%s : [X=%d, Y=%d, Z=%d]",
+    "vi": "%s : [X=%d, Y=%d, Z=%d]"
+  },
+  "item.key.keyring.desc": {
+    "en": "Keys:",
+    "zh": "箱子钥匙：",
+    "vi": "Chìa khóa hộp:"
+  },
+  "item.dolly.chestid": {
+    "en": "Chest: %s",
+    "zh": "箱子：%s",
+    "vi": "Chest: %s"
+  },
+  "block.ironchests.dirt_chest": {
+    "en": "Dirt Chest",
+    "zh": "泥土箱子",
+    "vi": "Dirt Chest"
+  },
+  "block.ironchests.copper_chest": {
+    "en": "Copper Chest",
+    "zh": "铜箱子",
+    "vi": "Copper Chest"
+  },
+  "block.ironchests.iron_chest": {
+    "en": "Iron Chest",
+    "zh": "铁箱子",
+    "vi": "Iron Chest"
+  },
+  "block.ironchests.gold_chest": {
+    "en": "Gold Chest",
+    "zh": "金箱子",
+    "vi": "Gold Chest"
+  },
+  "block.ironchests.diamond_chest": {
+    "en": "Diamond Chest",
+    "zh": "钻石箱子",
+    "vi": "Diamond Chest"
+  },
+  "block.ironchests.crystal_chest": {
+    "en": "Crystal Chest",
+    "zh": "水晶箱子",
+    "vi": "Crystal Chest"
+  },
+  "block.ironchests.obsidian_chest": {
+    "en": "Obsidian Chest",
+    "zh": "黑曜石箱子",
+    "vi": "Obsidian Chest"
+  },
+  "block.ironchests.netherite_chest": {
+    "en": "Netherite Chest",
+    "zh": "下界合金箱子",
+    "vi": "Netherite Chest"
+  },
+  "block.ironchests.copper_barrel": {
+    "en": "Copper Barrel",
+    "zh": "铜桶",
+    "vi": "Copper Barrel"
+  },
+  "block.ironchests.iron_barrel": {
+    "en": "Iron Barrel",
+    "zh": "铁桶",
+    "vi": "Iron Barrel"
+  },
+  "block.ironchests.gold_barrel": {
+    "en": "Gold Barrel",
+    "zh": "金桶",
+    "vi": "Gold Barrel"
+  },
+  "block.ironchests.diamond_barrel": {
+    "en": "Diamond Barrel",
+    "zh": "钻石桶",
+    "vi": "Diamond Barrel"
+  },
+  "block.ironchests.crystal_barrel": {
+    "en": "Crystal Barrel",
+    "zh": "水晶桶",
+    "vi": "Crystal Barrel"
+  },
+  "block.ironchests.obsidian_barrel": {
+    "en": "Obsidian Barrel",
+    "zh": "黑曜石桶",
+    "vi": "Obsidian Barrel"
+  },
+  "block.ironchests.netherite_barrel": {
+    "en": "Netherite Barrel",
+    "zh": "下界合金桶",
+    "vi": "Netherite Barrel"
+  },
+  "item.ironchests.key": {
+    "en": "Key",
+    "zh": "箱子钥匙",
+    "vi": "Key"
+  },
+  "item.ironchests.key_ring": {
+    "en": "Key Ring",
+    "zh": "箱子钥匙串",
+    "vi": "Key Ring"
+  },
+  "item.ironchests.lock": {
+    "en": "Lock",
+    "zh": "箱子锁",
+    "vi": "Lock"
+  },
+  "item.ironchests.blank_chest_upgrade": {
+    "en": "Blank Chest Upgrade",
+    "zh": "空白箱子升级",
+    "vi": "Blank Chest Upgrade"
+  },
+  "item.ironchests.copper_chest_upgrade": {
+    "en": "Copper Chest Upgrade",
+    "zh": "铜箱子升级",
+    "vi": "Copper Chest Upgrade"
+  },
+  "item.ironchests.iron_chest_upgrade": {
+    "en": "Iron Chest Upgrade",
+    "zh": "铁箱子升级",
+    "vi": "Iron Chest Upgrade"
+  },
+  "item.ironchests.gold_chest_upgrade": {
+    "en": "Gold Chest Upgrade",
+    "zh": "金箱子升级",
+    "vi": "Gold Chest Upgrade"
+  },
+  "item.ironchests.diamond_chest_upgrade": {
+    "en": "Diamond Chest Upgrade",
+    "zh": "钻石箱子升级",
+    "vi": "Diamond Chest Upgrade"
+  },
+  "item.ironchests.crystal_chest_upgrade": {
+    "en": "Crystal Chest Upgrade",
+    "zh": "水晶箱子升级",
+    "vi": "Crystal Chest Upgrade"
+  },
+  "item.ironchests.obsidian_chest_upgrade": {
+    "en": "Obsidian Chest Upgrade",
+    "zh": "黑曜石箱子升级",
+    "vi": "Obsidian Chest Upgrade"
+  },
+  "item.ironchests.netherite_chest_upgrade": {
+    "en": "Netherite Chest Upgrade",
+    "zh": "下界合金箱子升级",
+    "vi": "Netherite Chest Upgrade"
+  },
+  "item.ironchests.diamond_dolly": {
+    "en": "Diamond Dolly",
+    "zh": "钻石手推车",
+    "vi": "Diamond Dolly"
+  },
+  "item.ironchests.iron_dolly": {
+    "en": "Iron Dolly",
+    "zh": "铁手推车",
+    "vi": "Iron Dolly"
+  }
+}

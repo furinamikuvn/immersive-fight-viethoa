@@ -1,0 +1,13 @@
+{
+  "name": "Enigma (Mê Phong)",
+  "icon": "simplyswords:enigma",
+  "advancement": "simplyswords:enigma",
+  "category": "simplyswords:category_unique_weapons",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:enigma",
+      "text": "Một sản vật công nghệ cổ xưa không thể truy nguyên nguồn gốc. Ánh sáng kỳ lạ trên chuôi kiếm dường như nhấp nháy theo từng làn gió."
+    }
+  ]
+}

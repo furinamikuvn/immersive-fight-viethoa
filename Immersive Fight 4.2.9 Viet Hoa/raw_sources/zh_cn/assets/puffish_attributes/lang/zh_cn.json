@@ -1,0 +1,12 @@
+{
+	"attribute.puffish_attributes.player.stamina": "体力",
+	"attribute.puffish_attributes.player.melee_damage": "近战增伤",
+	"attribute.puffish_attributes.player.ranged_damage": "远程增伤",
+	"attribute.puffish_attributes.player.fortune": "时运",
+	"attribute.puffish_attributes.player.healing": "治疗",
+	"attribute.puffish_attributes.player.jump": "跳跃",
+	"attribute.puffish_attributes.player.resistance": "抗性增强",
+	"attribute.puffish_attributes.player.mining_speed": "挖掘速度",
+	"attribute.puffish_attributes.player.sprinting_speed": "冲刺速度",
+	"attribute.puffish_attributes.player.knockback": "击退"
+}

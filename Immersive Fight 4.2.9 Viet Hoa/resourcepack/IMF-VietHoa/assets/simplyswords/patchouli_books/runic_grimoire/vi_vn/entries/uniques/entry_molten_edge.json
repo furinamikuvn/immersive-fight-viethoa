@@ -1,0 +1,17 @@
+{
+  "name": "Molten Edge (Dung Hỏa)",
+  "icon": "simplyswords:molten_edge",
+  "advancement": "simplyswords:molten_edge",
+  "category": "simplyswords:category_unique_weapons",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:molten_edge",
+      "text": "Rìu cuồng nộ bùng cháy, sinh mệnh người cầm càng thấp thì sức mạnh và tốc độ bộc phát càng khủng khiếp."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Phát ra sóng xung kích tăng vọt tốc độ lao vào chém xé đối thủ, sinh ra từ dòng nham thạch bỏng cháy."
+    }
+  ]
+}

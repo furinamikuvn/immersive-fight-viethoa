@@ -1,0 +1,16 @@
+{
+    "replace": false,
+    "values": [
+        "minecraft:snowy_beach",
+        "minecraft:snowy_plains",
+        "minecraft:snowy_taiga",
+        "minecraft:ice_spikes",
+  "regions_unexplored:frozen_pine_taiga",
+  "regions_unexplored:icy_heights",
+  "regions_unexplored:frozen_tundra",
+  "regions_unexplored:fungal_fen", 
+  "regions_unexplored:cold_deciduous_forest",
+        "minecraft:snowy_taiga",
+"biomeswevegone:crimson_tundra"
+    ]
+}

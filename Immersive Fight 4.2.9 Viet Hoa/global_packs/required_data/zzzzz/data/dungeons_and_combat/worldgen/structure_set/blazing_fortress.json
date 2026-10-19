@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "dungeons_and_combat:blazing_fortress",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 50,
+    "separation": 30,
+    "salt": 1381622833
+  }
+}

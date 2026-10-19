@@ -1,0 +1,28 @@
+{
+  "display": {
+    "icon": {
+      "item": "simplyswords:molten_edge"
+    },
+    "title": "Nhiệt độ vừa chuẩn xác，Có thể cầm nắm trong tay",
+    "description": "Tìm thấy vũ khí độc nhất: Molten Edge",
+    "hidden": true,
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "simplyswords:runic_weapon",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "simplyswords:molten_edge"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

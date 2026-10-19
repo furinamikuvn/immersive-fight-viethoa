@@ -1,0 +1,10 @@
+{
+  "cataclysm:laser_gatling":[
+    {
+      "attribute": "minecraft:generic.movement_speed",
+      "value": 0.03,
+      "operation": "ADDITION",
+      "slot": "mainhand"
+    }
+  ]
+}

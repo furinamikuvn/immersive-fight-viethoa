@@ -1,0 +1,97 @@
+{
+  "pools": [
+    {
+      "rolls": {
+        "min": 1,
+        "max": 1
+      },
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "soul_like_armors_reworked:monkeyhammer",
+          "weight": 10
+        },
+        {
+          "type": "minecraft:item",
+          "name": "soul_like_armors_reworked:platinumspsword",
+          "weight": 10
+        },
+        {
+          "type": "minecraft:item",
+          "name": "soul_like_armors_reworked:crystaltrident",
+          "weight": 10
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cataclysm:coral_bardiche",
+          "weight": 10
+        },
+        {
+          "type": "minecraft:item",
+          "name": "betterend:aeternium_hammer",
+          "weight": 10
+        },
+        {
+          "type": "minecraft:item",
+          "name": "born_in_chaos_v1:wood_splitter_axe",
+          "weight": 10
+        },
+        {
+          "type": "minecraft:item",
+          "name": "soul_like_armors_reworked:sawblade",
+          "weight": 10
+        },
+        {
+          "type": "minecraft:item",
+          "name": "soul_like_armors_reworked:cinderkingblade",
+          "weight": 10
+        },
+        {
+          "type": "minecraft:item",
+          "name": "soul_like_armors_reworked:greathammer",
+          "weight": 10
+        },
+        {
+          "type": "minecraft:item",
+          "name": "soul_like_armors_reworked:bloodtrident",
+          "weight": 10
+        },
+        {
+          "type": "minecraft:item",
+          "name": "soul_like_armors_reworked:ornsteinspsword",
+          "weight": 10
+        },
+        {
+          "type": "minecraft:item",
+          "name": "aquamirae:terrible_blade",
+          "weight": 3
+        },
+        {
+          "type": "minecraft:item",
+          "name": "legendary_monsters:shattered_greatsword",
+          "weight": 2
+        },
+        {
+          "type": "minecraft:item",
+          "name": "legendary_monsters:golden_halbert",
+          "weight": 2
+        },
+        {
+          "type": "minecraft:item",
+          "name": "legendary_monsters:resurrected_javelin",
+          "weight": 2
+        },
+        {
+          "type": "minecraft:item",
+          "name": "soul_like_armors_reworked:alloygreatsword",
+          "weight": 3
+        },
+        {
+          "type": "minecraft:item",
+          "name": "soul_like_armors_reworked:wolfknightsword",
+          "weight": 3
+        }
+      ]
+    }
+  ]
+}

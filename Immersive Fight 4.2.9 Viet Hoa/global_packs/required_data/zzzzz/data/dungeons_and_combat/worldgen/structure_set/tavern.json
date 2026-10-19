@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "dungeons_and_combat:tavern",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 30,
+    "separation": 20,
+    "salt": 28203312
+  }
+}

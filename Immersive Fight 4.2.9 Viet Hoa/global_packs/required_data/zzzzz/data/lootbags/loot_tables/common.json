@@ -1,0 +1,54 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "name": "lootbags:weapon_soul2",
+          "weight": 3
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "lootbags:weapon_soul1",
+          "weight": 3
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "lootbags:canno",
+          "weight": 4
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "lootbags:runic",
+          "weight": 4
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "lootbags:food_less",
+          "weight": 60
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "lootbags:paper",
+          "weight": 100
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "lootbags:cailiao_common",
+          "weight": 100
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "lootbags:cailiao_else",
+          "weight": 10
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "lootbags:exp_less",
+          "weight": 40
+        }
+      ]
+    }
+  ]
+}

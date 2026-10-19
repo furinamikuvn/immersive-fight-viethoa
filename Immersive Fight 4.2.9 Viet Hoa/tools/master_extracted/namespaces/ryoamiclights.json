@@ -1,0 +1,107 @@
+{
+  "ryoamiclights.key.light_switch": {
+    "en": "Dynamic Light switch",
+    "zh": "动态光照开关",
+    "vi": null
+  },
+  "ryoamiclights.key.category": {
+    "en": "RyoamicLights",
+    "zh": "RyoamicLight",
+    "vi": null
+  },
+  "ryoamiclights.menu.light_sources": {
+    "en": "Dynamic Light Sources",
+    "zh": "动态光照",
+    "vi": null
+  },
+  "ryoamiclights.menu.title": {
+    "en": "RyoamicLights Settings",
+    "zh": "RyoamicLights设置",
+    "vi": null
+  },
+  "ryoamiclights.menu.canvas.1": {
+    "en": "Disabling entities dynamic lighting is recommended with Canvas!",
+    "zh": "建议在使用Canvas时禁用实体动态光照！",
+    "vi": null
+  },
+  "ryoamiclights.menu.canvas.2": {
+    "en": "Dynamic lighting with Canvas is currently performance heavy!",
+    "zh": "目前动态光照与Canvas同时使用会非常地吃性能！",
+    "vi": null
+  },
+  "ryoamiclights.menu.tabs.general": {
+    "en": "General",
+    "zh": "通用",
+    "vi": null
+  },
+  "ryoamiclights.option.light_sources.block_entities": {
+    "en": "Block Entities",
+    "zh": "方块实体",
+    "vi": null
+  },
+  "ryoamiclights.option.light_sources.entities": {
+    "en": "Entities",
+    "zh": "实体",
+    "vi": null
+  },
+  "ryoamiclights.option.light_sources.self": {
+    "en": "First-person",
+    "zh": "第一人称",
+    "vi": null
+  },
+  "ryoamiclights.option.light_sources.water_sensitive_check": {
+    "en": "Water Sensitivity Check",
+    "zh": "水敏光源检查",
+    "vi": null
+  },
+  "ryoamiclights.option.mode": {
+    "en": "Dynamic Lights",
+    "zh": "动态光照",
+    "vi": null
+  },
+  "ryoamiclights.tooltip.block_entities": {
+    "en": "Enables block entities dynamic lighting.",
+    "zh": "启用方块实体的动态光照。",
+    "vi": null
+  },
+  "ryoamiclights.tooltip.creeper_lighting": {
+    "en": "Sets the Creeper dynamic lighting mode.\n- %s disables Creeper dynamic lighting.\n- %s sets a constant luminance.\n- %s sets a dynamic luminance.",
+    "zh": "设置苦力怕的动态光照模式。\n- %s 禁用苦力怕动态光照。\n- %s 会设置一个恒定的亮度。\n- %s 会设置动态的亮度。",
+    "vi": null
+  },
+  "ryoamiclights.tooltip.entities": {
+    "en": "Enables entities dynamic lighting. Note: players are always active.",
+    "zh": "启用实体动态光照。注：与玩家的设置相独立。",
+    "vi": null
+  },
+  "ryoamiclights.tooltip.mode.1": {
+    "en": "Enables dynamic lights. If enabled a player holding a torch will light up the area for example.",
+    "zh": "启用动态光照。若启用，手持光源的玩家将照亮其附近。",
+    "vi": null
+  },
+  "ryoamiclights.tooltip.mode.2": {
+    "en": "%s and %s will lag a bit behind but minimizes light updates.",
+    "zh": "%s 和 %s 会略有延迟，以减少光照更新。",
+    "vi": null
+  },
+  "ryoamiclights.tooltip.mode.3": {
+    "en": "%s is smooth dynamic lighting.",
+    "zh": "%s 则是平滑动态光照。",
+    "vi": null
+  },
+  "ryoamiclights.tooltip.self_light_source": {
+    "en": "Enables first-person dynamic lighting. It's recommended to disable this if you're using shaders that has their own dynamic lighting.",
+    "zh": "启用第一人称动态光照。如果你使用自带动态光照的着色器，建议禁用该功能。",
+    "vi": null
+  },
+  "ryoamiclights.tooltip.tnt_lighting": {
+    "en": "Sets the TNT dynamic lighting mode.\n- %s disables TNT dynamic lighting.\n- %s sets a constant luminance.\n- %s sets a dynamic luminance.",
+    "zh": "设置TNT的动态光照模式。\n- %s 禁用TNT动态光照。\n- %s 会设置一个恒定的亮度。\n- %s 会设置动态的亮度。",
+    "vi": null
+  },
+  "ryoamiclights.tooltip.water_sensitive": {
+    "en": "Enables the water-sensitive light sources check. This means that some items will not emit light while being submerged in water.",
+    "zh": "启用水敏光源检查。这意味着某些物品被浸没在水中时将不会发光。",
+    "vi": null
+  }
+}

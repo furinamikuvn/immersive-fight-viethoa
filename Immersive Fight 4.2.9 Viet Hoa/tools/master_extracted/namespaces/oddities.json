@@ -1,0 +1,257 @@
+{
+  "entity.oddities.queen_of_orchid": {
+    "en": "Queen Of Orchid",
+    "zh": "兰花女王",
+    "vi": "Queen Of Orchid"
+  },
+  "item.oddities.queen_of_orchid_spawn_egg": {
+    "en": "Queen Of Orchid Spawn Egg",
+    "zh": "兰花女王刷怪蛋",
+    "vi": "Queen Of Orchid Spawn Egg"
+  },
+  "death.attack.orchid_slash_damage.player": {
+    "en": "%1$s was cut down whilst trying to escape %2$s",
+    "zh": "%1$s 在试图逃离 %2$s 时被斩倒",
+    "vi": "%1$s bị chém khi cố gắng thoát khỏi %2$s"
+  },
+  "death.attack.orchid_slash_damage": {
+    "en": "%1$s was cut down by Queen of Orchid",
+    "zh": "%1$s 被兰花女王斩倒",
+    "vi": "%1$s bị Nữ hoàng hoa lan chặt đầu"
+  },
+  "death.attack.orchid_slash_damage.item": {
+    "en": "%1$s was cut down by %2$s using %3$s",
+    "zh": "%1$s 被 %2$s 用 %3$s 斩倒",
+    "vi": "%1$s đã bị %2$s giết bằng cách sử dụng %3$s"
+  },
+  "death.attack.orchid_x_slash_damage.player": {
+    "en": "%1$s was split apart whilst trying to escape %2$s",
+    "zh": "%1$s 在试图逃离 %2$s 时被劈开",
+    "vi": "%1$s bị tách đôi khi cố gắng thoát khỏi %2$s"
+  },
+  "death.attack.orchid_x_slash_damage.item": {
+    "en": "%1$s was split apart by %2$s using %3$s",
+    "zh": "%1$s 被 %2$s 用 %3$s 劈开",
+    "vi": "%1$s được phân chia bởi %2$s bằng cách sử dụng %3$s"
+  },
+  "death.attack.orchid_x_slash_damage": {
+    "en": "%1$s was split apart by Queen of Orchid",
+    "zh": "%1$s 被兰花女王劈开",
+    "vi": "%1$s bị Nữ hoàng hoa lan chia cắt"
+  },
+  "death.attack.orchid_shockwave_damage": {
+    "en": "%1$s was crushed beneath Queen of Orchid",
+    "zh": "%1$s 被兰花女王压碎",
+    "vi": "%1$s bị Nữ hoàng hoa lan đè bẹp"
+  },
+  "death.attack.orchid_shockwave_damage.item": {
+    "en": "%1$s was crushed beneath by %2$s using %3$s",
+    "zh": "%1$s 被 %2$s 用 %3$s 压碎",
+    "vi": "%1$s đã bị %2$s nghiền nát bằng cách sử dụng %3$s"
+  },
+  "death.attack.orchid_shockwave_damage.player": {
+    "en": "%1$s was crushed beneath whilst trying to escape %2$s",
+    "zh": "%1$s 在试图逃离 %2$s 时被压碎",
+    "vi": "%1$s bị nghiền nát khi cố gắng thoát khỏi %2$s"
+  },
+  "death.attack.orchid_spin_damage.player": {
+    "en": "%1$s was shredded whilst trying to escape %2$s",
+    "zh": "%1$s 在试图逃离 %2$s 时被撕碎",
+    "vi": "%1$s bị xé xác khi cố gắng thoát khỏi %2$s"
+  },
+  "death.attack.orchid_spin_damage.item": {
+    "en": "%1$s was shredded by %2$s using %3$s",
+    "zh": "%1$s 被 %2$s 用 %3$s 撕碎",
+    "vi": "%1$s bị %2$s xé nát bằng cách sử dụng %3$s"
+  },
+  "death.attack.orchid_spin_damage": {
+    "en": "%1$s was shredded by Queen Of Orchid",
+    "zh": "%1$s 被兰花女王撕碎",
+    "vi": "%1$s bị Nữ hoàng hoa lan xé xác"
+  },
+  "block.oddities.purple_orchid_vine": {
+    "en": "Purple Orchid Vine",
+    "zh": "紫色兰花藤",
+    "vi": "Purple Orchid Vine"
+  },
+  "item_group.oddities.oddities": {
+    "en": "Oddities",
+    "zh": "奇异之物",
+    "vi": "Những điều kỳ lạ"
+  },
+  "block.oddities.white_orchid_vine": {
+    "en": "White Orchid Vine",
+    "zh": "白色兰花藤",
+    "vi": "White Orchid Vine"
+  },
+  "block.oddities.tall_purple_orchid": {
+    "en": "Tall Purple Orchid",
+    "zh": "高紫色兰花",
+    "vi": "Tall Purple Orchid"
+  },
+  "block.oddities.tall_white_orchid": {
+    "en": "Tall White Orchid",
+    "zh": "高白色兰花",
+    "vi": "Tall White Orchid"
+  },
+  "block.oddities.big_purple_orchid": {
+    "en": "Big Purple Orchid",
+    "zh": "大型紫色兰花",
+    "vi": "Big Purple Orchid"
+  },
+  "block.oddities.big_white_orchid": {
+    "en": "Big White Orchid",
+    "zh": "大型白色兰花",
+    "vi": "Big White Orchid"
+  },
+  "block.oddities.giant_purple_orchid": {
+    "en": "Giant Purple Orchid",
+    "zh": "巨型紫色兰花",
+    "vi": "Giant Purple Orchid"
+  },
+  "block.oddities.giant_white_orchid": {
+    "en": "Giant White Orchid",
+    "zh": "巨型白色兰花",
+    "vi": "Giant White Orchid"
+  },
+  "subtitles.orchid_queen_slash": {
+    "en": "Orchid Queen slash",
+    "zh": "兰花女王：斩击",
+    "vi": "Nữ hoàng hoa lan: Chém"
+  },
+  "subtitles.queen_of_orchid_roar": {
+    "en": "Queen of Orchid Roar",
+    "zh": "兰花女王：咆哮",
+    "vi": "Nữ hoàng hoa lan: Gầm gừ"
+  },
+  "subtitles.queen_of_orchid_death": {
+    "en": "Queen of Orchid death",
+    "zh": "兰花女王：死亡",
+    "vi": "Nữ hoàng hoa lan: Cái chết"
+  },
+  "subtitles.magic_explode": {
+    "en": "Magic explode",
+    "zh": "魔法爆炸",
+    "vi": "vụ nổ ma thuật"
+  },
+  "subtitles.queen_of_orchid_slash": {
+    "en": "Queen of Orchid slash",
+    "zh": "兰花女王：斩击",
+    "vi": "Nữ hoàng hoa lan: Chém"
+  },
+  "subtitles.queen_of_orchid_screech": {
+    "en": "Queen of Orchid screech",
+    "zh": "兰花女王：尖叫",
+    "vi": "Nữ hoàng hoa lan: Hét lên"
+  },
+  "subtitles.queen_of_orchid_ambient": {
+    "en": "Queen of Orchid noise",
+    "zh": "兰花女王：声响",
+    "vi": "Nữ hoàng hoa lan: Âm thanh"
+  },
+  "subtitles.queen_of_orchid_roar_2": {
+    "en": "Queen of Orchid roar",
+    "zh": "兰花女王：咆哮",
+    "vi": "Nữ hoàng hoa lan: Gầm gừ"
+  },
+  "block.oddities.orchid_altar": {
+    "en": "Orchid Altar",
+    "zh": "兰花祭坛",
+    "vi": "Orchid Altar"
+  },
+  "item.oddities.blade_of_the_orchid": {
+    "en": "Blade Of The Orchid",
+    "zh": "兰花之刃",
+    "vi": "Blade Of The Orchid"
+  },
+  "subtitles.orchid_ritual": {
+    "en": "Orchid ritual",
+    "zh": "兰花仪式",
+    "vi": "lễ phong lan"
+  },
+  "item.oddities.orchid_mantis_goggle_helmet": {
+    "en": "Orchid Mantis Goggle",
+    "zh": "兰花螳螂护目镜",
+    "vi": "Orchid Mantis Goggle"
+  },
+  "item.oddities.orchid_mantis_eye": {
+    "en": "Orchid Mantis Eye",
+    "zh": "兰花螳螂之眼",
+    "vi": "Orchid Mantis Eye"
+  },
+  "item.oddities.orchid_heart": {
+    "en": "Orchid Heart",
+    "zh": "兰花之心",
+    "vi": "Orchid Heart"
+  },
+  "item.oddities.orchid_mantis_boots_boots": {
+    "en": "Orchid Mantis Boots",
+    "zh": "兰花螳螂靴子",
+    "vi": "Orchid Mantis Boots"
+  },
+  "item.oddities.orchid_queen_carapace": {
+    "en": "Orchid Queen Carapace",
+    "zh": "兰花女王甲壳",
+    "vi": "Orchid Queen Carapace"
+  },
+  "item.oddities.blade_of_the_orchid.description_0": {
+    "en": "§aRight Click§f - Shoot a single slash projectile",
+    "zh": "§a右键§f - 发射一道单体斩击弹射物",
+    "vi": "§a Nhấp chuột phải§f - Bắn một viên đạn chém một mục tiêu"
+  },
+  "item.oddities.blade_of_the_orchid.description_3": {
+    "en": "§cCooldown: 3 seconds",
+    "zh": "§c冷却时间：3秒",
+    "vi": "Thời gian hồi chiêu §c: 3 giây"
+  },
+  "item.oddities.blade_of_the_orchid.description_1": {
+    "en": "§cCooldown: 1 second",
+    "zh": "§c冷却时间：1秒",
+    "vi": "Thời gian hồi chiêu §c: 1 giây"
+  },
+  "item.oddities.blade_of_the_orchid.description_2": {
+    "en": "§aShift + Right Click§f - Shoot an X-shaped slash projectile with two additional side slashes",
+    "zh": "§aShift + 右键§f - 发射一道X形斩击弹射物，并附带两道额外侧向斩击",
+    "vi": "§aShift + Nhấp chuột phải§f - Bắn một đường đạn chém hình chữ X kèm theo hai nhát chém sang một bên"
+  },
+  "item.oddities.orchid_mantis_goggle_helmet.description_0": {
+    "en": "§a+ 2.5 Blocks Reach",
+    "zh": "§a+ 2.5格触及距离",
+    "vi": "Khoảng cách tiếp cận lưới §a+ 2,5"
+  },
+  "item.oddities.orchid_mantis_goggle_helmet.description_1": {
+    "en": "§a+ 2× Attack Speed",
+    "zh": "§a+ 2倍攻击速度",
+    "vi": "§a+ tốc độ tấn công gấp 2 lần"
+  },
+  "item.oddities.orchid_mantis_boots_boots.description_0": {
+    "en": "§aHold Shift§f while on the ground to charge your jump",
+    "zh": "§a在地面上按住Shift§f蓄力跳跃",
+    "vi": "§a Giữ Shift§f trên mặt đất để lao tới và nhảy"
+  },
+  "item.oddities.orchid_mantis_boots_boots.description_1": {
+    "en": "§aRelease Shift§f to launch yourself upward",
+    "zh": "§a松开Shift§f向上弹射",
+    "vi": "§a Nhả Shift§f để đẩy lên trên"
+  },
+  "item.oddities.orchid_mantis_boots_boots.description_2": {
+    "en": "§eNegates all fall damage",
+    "zh": "§e免疫所有掉落伤害",
+    "vi": "§e miễn nhiễm với mọi sát thương rơi xuống"
+  },
+  "item.oddities.orchid_heart.description_0": {
+    "en": "§7Seems to have a use in the §dOrchid Shrine.",
+    "zh": "§7似乎能在§d兰花圣坛§7派上用场。",
+    "vi": "§7 có vẻ hữu ích trong bàn thờ hoa lan §d §7."
+  },
+  "item.oddities.orchid_mantis_boots_boots.description_3": {
+    "en": "§cThe longer you charge, the higher you jump",
+    "zh": "§c蓄力越久，跳得越高",
+    "vi": "§c tích lũy năng lượng càng lâu thì nhảy càng cao"
+  },
+  "subtitles.jump_wind": {
+    "en": "Jump wind",
+    "zh": "跳跃风声",
+    "vi": "gió nhảy"
+  }
+}

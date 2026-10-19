@@ -1,0 +1,772 @@
+{
+  "entity.bosses_of_mass_destruction.comet": {
+    "en": "Comet",
+    "zh": "彗星",
+    "vi": "Comet"
+  },
+  "entity.bosses_of_mass_destruction.lich": {
+    "en": "Night Lich",
+    "zh": "暗夜巫妖",
+    "vi": "Night Lich"
+  },
+  "entity.bosses_of_mass_destruction.blue_fireball": {
+    "en": "Blue Fireball",
+    "zh": "幽焰弹",
+    "vi": "Blue Fireball"
+  },
+  "entity.bosses_of_mass_destruction.soul_star": {
+    "en": "Soul Star",
+    "zh": "灵魂之星",
+    "vi": "Soul Star"
+  },
+  "entity.bosses_of_mass_destruction.obsidilith": {
+    "en": "Obsidilith",
+    "zh": "黑曜石柱",
+    "vi": "Obsidilith"
+  },
+  "entity.bosses_of_mass_destruction.gauntlet": {
+    "en": "Nether Gauntlet",
+    "zh": "下界铁掌",
+    "vi": "Nether Gauntlet"
+  },
+  "entity.bosses_of_mass_destruction.void_blossom": {
+    "en": "Void Blossom",
+    "zh": "虚空之花",
+    "vi": "Void Blossom"
+  },
+  "entity.bosses_of_mass_destruction.spore_ball": {
+    "en": "Spore",
+    "zh": "孢子",
+    "vi": "Spore"
+  },
+  "entity.bosses_of_mass_destruction.petal_blade": {
+    "en": "Petal Blade",
+    "zh": "花瓣利刃",
+    "vi": "Petal Blade"
+  },
+  "block.bosses_of_mass_destruction.obsidilith_end_frame": {
+    "en": "Obsidian Altar",
+    "zh": "黑曜石祭坛",
+    "vi": "Obsidian Altar"
+  },
+  "block.bosses_of_mass_destruction.obsidilith_rune": {
+    "en": "Obsidian Rune",
+    "zh": "黑曜石符文",
+    "vi": "Obsidian Rune"
+  },
+  "block.bosses_of_mass_destruction.sealed_blackstone": {
+    "en": "Sealed Blackstone Bricks",
+    "zh": "尘封黑石砖",
+    "vi": "Sealed Blackstone Bricks"
+  },
+  "block.bosses_of_mass_destruction.gauntlet_blackstone": {
+    "en": "Ancient Carved Blackstone",
+    "zh": "远古雕刻黑石",
+    "vi": "Ancient Carved Blackstone"
+  },
+  "block.bosses_of_mass_destruction.chiseled_stone_altar": {
+    "en": "Chiseled Stone Altar",
+    "zh": "雕纹石头祭坛",
+    "vi": "Chiseled Stone Altar"
+  },
+  "block.bosses_of_mass_destruction.void_blossom_block": {
+    "en": "Void Blossom Boss Spawner",
+    "zh": "虚空之花Boss刷怪笼",
+    "vi": "Void Blossom Boss Spawner"
+  },
+  "block.bosses_of_mass_destruction.void_lily": {
+    "en": "Void Lily",
+    "zh": "虚空百合",
+    "vi": "Void Lily"
+  },
+  "block.bosses_of_mass_destruction.void_lily.tooltip": {
+    "en": "Where does the pollen lead?",
+    "zh": "花粉将指引你到何处？  ",
+    "vi": "Phấn hoa sẽ dẫn bạn tới đâu?"
+  },
+  "block.bosses_of_mass_destruction.void_blossom": {
+    "en": "Void Blossom",
+    "zh": "虚空之花",
+    "vi": "Void Blossom"
+  },
+  "block.bosses_of_mass_destruction.vine_wall": {
+    "en": "Bramble Wall",
+    "zh": "灌木墙",
+    "vi": "Bramble Wall"
+  },
+  "itemGroup.bosses_of_mass_destruction.items": {
+    "en": "Bosses of Mass Destruction",
+    "zh": "Bosses of Mass Destruction",
+    "vi": "Bosses of Mass Destruction"
+  },
+  "item.bosses_of_mass_destruction.soul_star": {
+    "en": "Soul Star",
+    "zh": "灵魂之星",
+    "vi": "Soul Star"
+  },
+  "item.bosses_of_mass_destruction.soul_star.tooltip": {
+    "en": "Where does it lead?",
+    "zh": "它将带你到何处？",
+    "vi": "Nó sẽ đưa bạn tới đâu?"
+  },
+  "item.bosses_of_mass_destruction.ancient_anima": {
+    "en": "Ancient Anima",
+    "zh": "古代灵魂",
+    "vi": "Ancient Anima"
+  },
+  "item.bosses_of_mass_destruction.blazing_eye": {
+    "en": "Blazing Eye",
+    "zh": "烈焰之眼",
+    "vi": "Blazing Eye"
+  },
+  "item.bosses_of_mass_destruction.obsidian_heart": {
+    "en": "Obsidian Heart",
+    "zh": "黑曜石之心",
+    "vi": "Obsidian Heart"
+  },
+  "item.bosses_of_mass_destruction.void_thorn": {
+    "en": "Void Thorn",
+    "zh": "虚空荆棘",
+    "vi": "Void Thorn"
+  },
+  "item.bosses_of_mass_destruction.crystal_fruit": {
+    "en": "Crystal Fruit",
+    "zh": "水晶果实",
+    "vi": "Crystal Fruit"
+  },
+  "item.bosses_of_mass_destruction.crystal_fruit.tooltip": {
+    "en": "Grants brief regen and resistance",
+    "zh": "获得短暂的生命恢复与抗性提升效果",
+    "vi": "Đạt được tác dụng phục hồi sức khỏe và cải thiện sức đề kháng trong thời gian ngắn"
+  },
+  "item.bosses_of_mass_destruction.charged_ender_pearl": {
+    "en": "Charged Ender Pearl",
+    "zh": "充能末影珍珠",
+    "vi": "Charged Ender Pearl"
+  },
+  "item.bosses_of_mass_destruction.charged_ender_pearl.tooltip": {
+    "en": "Reusable and gives brief",
+    "zh": "可重复使用",
+    "vi": "tái sử dụng"
+  },
+  "item.bosses_of_mass_destruction.charged_ender_pearl.tooltip2": {
+    "en": "resistance after teleport",
+    "zh": "传送后获得短暂的抗性提升效果",
+    "vi": "Nhận được sức đề kháng ngắn hạn sau khi dịch chuyển tức thời"
+  },
+  "item.bosses_of_mass_destruction.crafting_material.tooltip": {
+    "en": "Crafting material",
+    "zh": "制作材料",
+    "vi": "vật liệu chế tạo"
+  },
+  "item.bosses_of_mass_destruction.brimstone_nectar": {
+    "en": "Brimstone Nectar",
+    "zh": "硫磺花蜜",
+    "vi": "Brimstone Nectar"
+  },
+  "item.bosses_of_mass_destruction.brimstone_nectar.tooltip": {
+    "en": "Resets nearby boss structures on use",
+    "zh": "使用后重置附近的Boss结构",
+    "vi": "Đặt lại cấu trúc của ông chủ gần đó sau khi sử dụng"
+  },
+  "block.bosses_of_mass_destruction.mob_ward": {
+    "en": "Staff of Suppression",
+    "zh": "镇压之杖",
+    "vi": "Staff of Suppression"
+  },
+  "item.bosses_of_mass_destruction.mob_ward.tooltip": {
+    "en": "When placed, mobs won't spawn in any 64 block direction",
+    "zh": "放置后，周围64格将不再生成怪物",
+    "vi": "Sau khi sắp xếp, quái vật sẽ không còn được tạo ra trong 64 ô xung quanh nữa."
+  },
+  "block.bosses_of_mass_destruction.monolith_block": {
+    "en": "Blast Amplifier",
+    "zh": "爆破增幅器",
+    "vi": "Blast Amplifier"
+  },
+  "item.bosses_of_mass_destruction.monolith_block.tooltip_0": {
+    "en": "When placed, increases explosion power by 30% in any",
+    "zh": "放置后，周围64格的爆炸威力将增加30%",
+    "vi": "Sau khi bố trí, sức nổ ở 64 khối xung quanh sẽ tăng thêm 30%."
+  },
+  "item.bosses_of_mass_destruction.monolith_block.tooltip_1": {
+    "en": "64 block direction. This effect cannot stack",
+    "zh": "效果不可叠加",
+    "vi": "Hiệu ứng không thể được xếp chồng lên nhau"
+  },
+  "block.bosses_of_mass_destruction.levitation_block": {
+    "en": "Table of Elevation",
+    "zh": "飞腾台座",
+    "vi": "Table of Elevation"
+  },
+  "item.bosses_of_mass_destruction.levitation_block.tooltip": {
+    "en": "When placed, grants creative flight in a 7x7 column",
+    "zh": "放置后，在7x7范围内获得创造飞行效果",
+    "vi": "Sau khi đặt sẽ tạo hiệu ứng bay trong phạm vi 7x7"
+  },
+  "item.bosses_of_mass_destruction.earthdive_spear.tooltip": {
+    "en": "Grants short range teleport through solid blocks",
+    "zh": "可以传送穿过一定厚度的固体方块",
+    "vi": "Có thể dịch chuyển tức thời qua các khối rắn có độ dày nhất định"
+  },
+  "item.bosses_of_mass_destruction.earthdive_spear": {
+    "en": "Earthdive Spear",
+    "zh": "潜地矛",
+    "vi": "Earthdive Spear"
+  },
+  "advancements.nether.gauntlet_defeat.title": {
+    "en": "Through the Gauntlet",
+    "zh": "击穿掌眼",
+    "vi": "Thâm nhập vào mắt của lòng bàn tay"
+  },
+  "advancements.nether.gauntlet_defeat.description": {
+    "en": "Defeat the Nether Gauntlet Boss",
+    "zh": "击败下界铁掌Boss",
+    "vi": "Đánh bại trùm Cọ sắt Nether"
+  },
+  "advancements.end.obsidilith_defeat.title": {
+    "en": "Obsidian Obliterator",
+    "zh": "黑曜石毁灭者",
+    "vi": "Kẻ hủy diệt Obsidian"
+  },
+  "advancements.end.obsidilith_defeat.description": {
+    "en": "Defeat the Obsidilith Boss",
+    "zh": "击败黑曜石柱Boss",
+    "vi": "Đánh bại trùm trụ Obsidian"
+  },
+  "advancements.adventure.night_lich_defeat.title": {
+    "en": "Night Vanquisher",
+    "zh": "暗夜消退",
+    "vi": "đêm tối tan dần"
+  },
+  "advancements.adventure.night_lich_defeat.description": {
+    "en": "Defeat the Night Lich Boss",
+    "zh": "击败暗夜巫妖Boss",
+    "vi": "Đánh bại trùm Night Lich"
+  },
+  "advancements.adventure.void_blossom_defeat.title": {
+    "en": "Extreme Weeding",
+    "zh": "寸草不生",
+    "vi": "Không một cọng cỏ nào mọc lên"
+  },
+  "advancements.adventure.void_blossom_defeat.description": {
+    "en": "Defeat the Void Blossom Boss",
+    "zh": "击败虚空之花Boss",
+    "vi": "Đánh bại Boss Hoa Hư Không"
+  },
+  "subtitles.bosses_of_mass_destruction.gauntlet_idle": {
+    "en": "Gauntlet Breathes",
+    "zh": "下界铁掌：呼吸",
+    "vi": "Cọ sắt Nether: Hơi thở"
+  },
+  "subtitles.bosses_of_mass_destruction.gauntlet_hurt": {
+    "en": "Gauntlet Hurts",
+    "zh": "下界铁掌：受伤",
+    "vi": "Nether Palm: Bị thương"
+  },
+  "subtitles.bosses_of_mass_destruction.gauntlet_cast": {
+    "en": "Gauntlet Casts",
+    "zh": "下界铁掌：施法",
+    "vi": "Cọ Nether: Đúc"
+  },
+  "subtitles.bosses_of_mass_destruction.gauntlet_spin_punch": {
+    "en": "Gauntlet Spins",
+    "zh": "下界铁掌：旋转",
+    "vi": "Cọ Nether: Quay"
+  },
+  "subtitles.bosses_of_mass_destruction.gauntlet_laser_charge": {
+    "en": "Gauntlet Charges Up",
+    "zh": "下界铁掌：充能",
+    "vi": "Cọ sắt Nether: Nạp tiền"
+  },
+  "subtitles.bosses_of_mass_destruction.gauntlet_death": {
+    "en": "Gauntlet Dies",
+    "zh": "下界铁掌：死亡",
+    "vi": "Cọ Nether: Cái chết"
+  },
+  "subtitles.bosses_of_mass_destruction.gauntlet_clink": {
+    "en": "Gauntlet Clinks",
+    "zh": "下界铁掌：叮当",
+    "vi": "Cọ sắt Nether: Clank"
+  },
+  "subtitles.bosses_of_mass_destruction.soul_star": {
+    "en": "Soul Star Falls",
+    "zh": "灵魂之星：下落",
+    "vi": "Ngôi sao linh hồn: Nơi ở"
+  },
+  "subtitles.bosses_of_mass_destruction.energy_shield": {
+    "en": "Obsidilith Shields",
+    "zh": "黑曜石柱：开启护盾",
+    "vi": "Trụ Obsidian: Bật khiên"
+  },
+  "subtitles.bosses_of_mass_destruction.obsidilith_prepare_attack": {
+    "en": "Obsidilith Charges Up",
+    "zh": "黑曜石柱：充能",
+    "vi": "Trụ đá Obsidian: Nạp tiền"
+  },
+  "subtitles.bosses_of_mass_destruction.spike": {
+    "en": "Frost Erupts",
+    "zh": "冰霜：震爆",
+    "vi": "Sương giá: Vụ nổ"
+  },
+  "subtitles.bosses_of_mass_destruction.spike_indicator": {
+    "en": "Frost Gathers",
+    "zh": "冰霜：汇聚",
+    "vi": "Frost: Hội tụ"
+  },
+  "subtitles.bosses_of_mass_destruction.wave_indicator": {
+    "en": "Fire Gathers",
+    "zh": "火焰：汇聚",
+    "vi": "Ngọn lửa: Tập hợp"
+  },
+  "subtitles.bosses_of_mass_destruction.obsidilith_burst": {
+    "en": "Energy Erupts",
+    "zh": "能量：震爆",
+    "vi": "Năng lượng: Vụ nổ"
+  },
+  "subtitles.bosses_of_mass_destruction.obsidilith_teleport": {
+    "en": "Obsidilith Teleports",
+    "zh": "黑曜石柱：传送",
+    "vi": "Trụ Obsidian: Dịch chuyển tức thời"
+  },
+  "subtitles.bosses_of_mass_destruction.obsidilith_death": {
+    "en": "Obsidilith Dies",
+    "zh": "黑曜石柱：死亡",
+    "vi": "Trụ đá Obsidian: Cái chết"
+  },
+  "subtitles.bosses_of_mass_destruction.obsidilith_hurt": {
+    "en": "Obsidilith Hurts",
+    "zh": "黑曜石柱：受伤",
+    "vi": "Trụ Obsidian: Bị thương"
+  },
+  "subtitles.bosses_of_mass_destruction.obsidilith_wave": {
+    "en": "Fire Erupts",
+    "zh": "火焰：震爆",
+    "vi": "Lửa: Vụ nổ"
+  },
+  "subtitles.bosses_of_mass_destruction.lich_death": {
+    "en": "Lich Dies",
+    "zh": "暗夜巫妖：死亡",
+    "vi": "Night Lich: Cái chết"
+  },
+  "subtitles.bosses_of_mass_destruction.lich_hurt": {
+    "en": "Lich Hurts",
+    "zh": "暗夜巫妖：受伤",
+    "vi": "Night Lich: Bị thương"
+  },
+  "subtitles.bosses_of_mass_destruction.lich_teleport": {
+    "en": "Lich Teleport",
+    "zh": "暗夜巫妖：传送",
+    "vi": "Night Lich: Dịch chuyển tức thời"
+  },
+  "subtitles.bosses_of_mass_destruction.rage_prepare": {
+    "en": "Lich Rages",
+    "zh": "暗夜巫妖：愤怒",
+    "vi": "Night Lich: Phẫn nộ"
+  },
+  "subtitles.bosses_of_mass_destruction.minion_summon": {
+    "en": "Phantom Appears",
+    "zh": "幻翼：被召唤",
+    "vi": "Bóng ma: được triệu hồi"
+  },
+  "subtitles.bosses_of_mass_destruction.minion_rune": {
+    "en": "Rune Appears",
+    "zh": "符文：被召唤",
+    "vi": "Rune: được triệu hồi"
+  },
+  "subtitles.bosses_of_mass_destruction.teleport_prepare": {
+    "en": "Lich Prepares Teleport",
+    "zh": "暗夜巫妖：准备传送",
+    "vi": "Night Lich: Chuẩn bị dịch chuyển tức thời"
+  },
+  "subtitles.bosses_of_mass_destruction.missile_prepare": {
+    "en": "Lich Prepares Iceballs",
+    "zh": "暗夜巫妖：准备发射霜星",
+    "vi": "Night Lich: Chuẩn bị ra mắt Frost Star"
+  },
+  "subtitles.bosses_of_mass_destruction.missile_shoot": {
+    "en": "Lich Shoots Iceballs",
+    "zh": "暗夜巫妖：发射霜星",
+    "vi": "Night Lich: Ngôi sao lửa băng giá"
+  },
+  "subtitles.bosses_of_mass_destruction.comet_prepare": {
+    "en": "Lich Prepares Comet",
+    "zh": "暗夜巫妖：准备发射彗星",
+    "vi": "Night Lich: Chuẩn bị phóng sao chổi"
+  },
+  "subtitles.bosses_of_mass_destruction.comet_shoot": {
+    "en": "Lich Launches Comet",
+    "zh": "暗夜巫妖：发射彗星",
+    "vi": "Night Lich: Phóng sao chổi"
+  },
+  "subtitles.bosses_of_mass_destruction.blue_fireball_land": {
+    "en": "Iceball Lands",
+    "zh": "霜星：着地",
+    "vi": "Ngôi sao băng giá: Hạ cánh"
+  },
+  "subtitles.bosses_of_mass_destruction.void_blossom_burrow": {
+    "en": "Blossom Burrows",
+    "zh": "虚空之花：掘洞",
+    "vi": "Hoa hư không: Đào hang"
+  },
+  "subtitles.bosses_of_mass_destruction.void_blossom_spike": {
+    "en": "Spikes",
+    "zh": "虚空之花：刺击",
+    "vi": "Hoa hư không: Đâm"
+  },
+  "subtitles.bosses_of_mass_destruction.spore_impact": {
+    "en": "Poison Explodes",
+    "zh": "毒素：爆裂",
+    "vi": "Độc tố: Vụ nổ"
+  },
+  "subtitles.bosses_of_mass_destruction.petal_blade": {
+    "en": "Petals",
+    "zh": "花瓣利刃",
+    "vi": "Lưỡi cánh hoa"
+  },
+  "subtitles.bosses_of_mass_destruction.spore_prepare": {
+    "en": "Poison Bubbling",
+    "zh": "毒素：酝酿",
+    "vi": "Độc tố: Sản xuất bia"
+  },
+  "subtitles.bosses_of_mass_destruction.spike_wave_indicator": {
+    "en": "Ground Trembles",
+    "zh": "大地：震动",
+    "vi": "Trái đất: rung chuyển"
+  },
+  "subtitles.bosses_of_mass_destruction.spore_ball_land": {
+    "en": "Poison Lands",
+    "zh": "药水：着地",
+    "vi": "Thuốc: Hạ cánh"
+  },
+  "subtitles.bosses_of_mass_destruction.void_spike_indicator": {
+    "en": "Spikes Gather",
+    "zh": "突刺：集聚",
+    "vi": "Lực đẩy: Tập hợp"
+  },
+  "subtitles.bosses_of_mass_destruction.void_blossom_hurt": {
+    "en": "Blossom Hurts",
+    "zh": "虚空之花：受伤",
+    "vi": "Hoa Hư Không: Bị thương"
+  },
+  "subtitles.bosses_of_mass_destruction.void_blossom_fall": {
+    "en": "Blossom Falls",
+    "zh": "虚空之花：凋落",
+    "vi": "Hoa hư không: khô héo"
+  },
+  "subtitles.bosses_of_mass_destruction.earthdive_spear_throw": {
+    "en": "Spear Throws",
+    "zh": "潜地矛：掷出",
+    "vi": "Giáo đào hang: Ném"
+  },
+  "subtitles.bosses_of_mass_destruction.charged_ender_pearl": {
+    "en": "Pearl Lands",
+    "zh": "充能末影珍珠：着地",
+    "vi": "Ngọc trai Ender tích điện: Đã hạ cánh"
+  },
+  "subtitles.bosses_of_mass_destruction.brimstone": {
+    "en": "Brimstone releases",
+    "zh": "硫磺：喷出",
+    "vi": "Lưu huỳnh: vòi"
+  },
+  "text.autoconfig.bosses_of_mass_destruction.title": {
+    "en": "All changes require mc restart",
+    "zh": "所有的更改都需要重启MC",
+    "vi": "Tất cả các thay đổi yêu cầu khởi động lại MC"
+  },
+  "text.autoconfig.bosses_of_mass_destruction.category.Lich": {
+    "en": "Lich",
+    "zh": "暗夜巫妖",
+    "vi": "Đêm Lịch"
+  },
+  "text.autoconfig.bosses_of_mass_destruction.option.lichConfig.eternalNighttime": {
+    "en": "Apply Eternal Nightime",
+    "zh": "启用永夜",
+    "vi": "Cho phép đêm vĩnh cửu"
+  },
+  "text.autoconfig.bosses_of_mass_destruction.option.lichConfig.experienceDrop": {
+    "en": "Experience Drop",
+    "zh": "经验掉落量",
+    "vi": "Lượng kinh nghiệm bị giảm"
+  },
+  "text.autoconfig.bosses_of_mass_destruction.option.lichConfig.idleHealingPerTick": {
+    "en": "Idle Healing per Tick",
+    "zh": "脱战每刻自愈量",
+    "vi": "Lượng tự hồi phục mỗi giây khi không chiến đấu"
+  },
+  "text.autoconfig.bosses_of_mass_destruction.option.lichConfig.health": {
+    "en": "Health",
+    "zh": "生命值",
+    "vi": "HP"
+  },
+  "text.autoconfig.bosses_of_mass_destruction.option.lichConfig.missile": {
+    "en": "Missile",
+    "zh": "投掷物",
+    "vi": "Ném đồ vật"
+  },
+  "text.autoconfig.bosses_of_mass_destruction.option.lichConfig.missile.statusEffectId": {
+    "en": null,
+    "zh": "状态效果",
+    "vi": "hiệu ứng trạng thái"
+  },
+  "text.autoconfig.bosses_of_mass_destruction.option.lichConfig.missile.statusEffectDuration": {
+    "en": null,
+    "zh": "状态效果持续时间",
+    "vi": "Thời gian hiệu ứng trạng thái"
+  },
+  "text.autoconfig.bosses_of_mass_destruction.option.lichConfig.missile.statusEffectPotency": {
+    "en": null,
+    "zh": "状态效果强度",
+    "vi": "Cường độ hiệu ứng trạng thái"
+  },
+  "text.autoconfig.bosses_of_mass_destruction.option.lichConfig.missile.damage": {
+    "en": "Damage",
+    "zh": "伤害",
+    "vi": "làm hại"
+  },
+  "text.autoconfig.bosses_of_mass_destruction.option.lichConfig.comet": {
+    "en": "Comet",
+    "zh": "彗星",
+    "vi": "sao chổi"
+  },
+  "text.autoconfig.bosses_of_mass_destruction.option.lichConfig.comet.explosionStrength": {
+    "en": "Explosion Strength",
+    "zh": "爆炸强度",
+    "vi": "Cường độ nổ"
+  },
+  "text.autoconfig.bosses_of_mass_destruction.option.lichConfig.comet.destroysBlocks": {
+    "en": "Destroys Blocks",
+    "zh": "破坏方块",
+    "vi": "Phá hủy các khối"
+  },
+  "text.autoconfig.bosses_of_mass_destruction.option.lichConfig.summonMechanic": {
+    "en": "Soul Star Drop",
+    "zh": "灵魂之星掉落",
+    "vi": "Ngôi sao linh hồn thả"
+  },
+  "text.autoconfig.bosses_of_mass_destruction.option.lichConfig.summonMechanic.isEnabled": {
+    "en": "Enabled",
+    "zh": "启用",
+    "vi": "cho phép"
+  },
+  "text.autoconfig.bosses_of_mass_destruction.option.lichConfig.summonMechanic.entitiesThatCountToSummonCounter": {
+    "en": "Entities that can drop",
+    "zh": "可掉落灵魂之星的生物",
+    "vi": "Sinh vật thả sao linh hồn"
+  },
+  "text.autoconfig.bosses_of_mass_destruction.option.lichConfig.summonMechanic.numEntitiesKilledToDropSoulStar": {
+    "en": "Kills per soul star",
+    "zh": "每颗所需的击杀数",
+    "vi": "Số lần tiêu diệt cần thiết cho mỗi"
+  },
+  "text.autoconfig.bosses_of_mass_destruction.option.lichConfig.generateLichTower": {
+    "en": "Lich Tower Generation Enabled",
+    "zh": "允许生成巫妖高塔",
+    "vi": "Cho phép Tháp Lich sinh sản"
+  },
+  "text.autoconfig.bosses_of_mass_destruction.category.Obsidilith": {
+    "en": "Obsidilith",
+    "zh": "黑曜石柱",
+    "vi": "cột đá obsidian"
+  },
+  "text.autoconfig.bosses_of_mass_destruction.option.obsidilithConfig.health": {
+    "en": "Health",
+    "zh": "生命值",
+    "vi": "HP"
+  },
+  "text.autoconfig.bosses_of_mass_destruction.option.obsidilithConfig.armor": {
+    "en": "Armor",
+    "zh": "护甲值",
+    "vi": "Giá trị giáp"
+  },
+  "text.autoconfig.bosses_of_mass_destruction.option.obsidilithConfig.attack": {
+    "en": "Attack",
+    "zh": "攻击力",
+    "vi": "Sức mạnh tấn công"
+  },
+  "text.autoconfig.bosses_of_mass_destruction.option.obsidilithConfig.idleHealingPerTick": {
+    "en": "Idle Healing per Tick",
+    "zh": "脱战每刻自愈量",
+    "vi": "Lượng tự hồi phục mỗi giây khi không chiến đấu"
+  },
+  "text.autoconfig.bosses_of_mass_destruction.option.obsidilithConfig.experienceDrop": {
+    "en": "Experience Drop",
+    "zh": "经验掉落量",
+    "vi": "Lượng kinh nghiệm bị giảm"
+  },
+  "text.autoconfig.bosses_of_mass_destruction.option.obsidilithConfig.spawnPillarOnDeath": {
+    "en": "Spawn Pillar On Death",
+    "zh": "死亡生成柱体",
+    "vi": "xi lanh sinh sản cái chết"
+  },
+  "text.autoconfig.bosses_of_mass_destruction.option.obsidilithConfig.anvilAttackExplosionStrength": {
+    "en": "Anvil Attack Explosion Strength",
+    "zh": "铁砧攻击爆炸强度",
+    "vi": "Đe tấn công sức mạnh bùng nổ"
+  },
+  "text.autoconfig.bosses_of_mass_destruction.option.obsidilithConfig.arenaGeneration": {
+    "en": "Arena Generation",
+    "zh": "角斗场生成",
+    "vi": "Thế hệ đấu trường"
+  },
+  "text.autoconfig.bosses_of_mass_destruction.option.obsidilithConfig.arenaGeneration.generationHeight": {
+    "en": "Generation Height",
+    "zh": "生成高度",
+    "vi": "Tạo chiều cao"
+  },
+  "text.autoconfig.bosses_of_mass_destruction.option.obsidilithConfig.arenaGeneration.generationSpacing": {
+    "en": "Generation Spacing",
+    "zh": "异种结构间隔",
+    "vi": "không gian cấu trúc không đồng nhất"
+  },
+  "text.autoconfig.bosses_of_mass_destruction.option.obsidilithConfig.arenaGeneration.generationSeparation": {
+    "en": "Generation Separation",
+    "zh": "同种结构间隔",
+    "vi": "khoảng cách cấu trúc đồng nhất"
+  },
+  "text.autoconfig.bosses_of_mass_destruction.option.obsidilithConfig.arenaGeneration.generationEnabled": {
+    "en": "Generation Enabled",
+    "zh": "允许生成",
+    "vi": "Cho phép tạo"
+  },
+  "text.autoconfig.bosses_of_mass_destruction.category.Gauntlet": {
+    "en": "Gauntlet",
+    "zh": "下界铁掌",
+    "vi": "Cây cọ sắt Nether"
+  },
+  "text.autoconfig.bosses_of_mass_destruction.option.gauntletConfig.health": {
+    "en": "Health",
+    "zh": "生命值",
+    "vi": "HP"
+  },
+  "text.autoconfig.bosses_of_mass_destruction.option.gauntletConfig.armor": {
+    "en": "Armor",
+    "zh": "护甲值",
+    "vi": "Giá trị giáp"
+  },
+  "text.autoconfig.bosses_of_mass_destruction.option.gauntletConfig.attack": {
+    "en": "Attack",
+    "zh": "攻击力",
+    "vi": "Sức mạnh tấn công"
+  },
+  "text.autoconfig.bosses_of_mass_destruction.option.gauntletConfig.idleHealingPerTick": {
+    "en": "Idle Healing per Tick",
+    "zh": "脱战每刻自愈量",
+    "vi": "Lượng tự hồi phục mỗi giây khi không chiến đấu"
+  },
+  "text.autoconfig.bosses_of_mass_destruction.option.gauntletConfig.experienceDrop": {
+    "en": "Experience Drop",
+    "zh": "经验掉落量",
+    "vi": "Lượng kinh nghiệm bị giảm"
+  },
+  "text.autoconfig.bosses_of_mass_destruction.option.gauntletConfig.spawnAncientDebrisOnDeath": {
+    "en": "Spawn Ancient Debris On Death",
+    "zh": "死亡后生成远古残骸",
+    "vi": "Những mảnh vụn cổ xưa được tạo ra sau khi chết"
+  },
+  "text.autoconfig.bosses_of_mass_destruction.option.gauntletConfig.energizedPunchExplosionSize": {
+    "en": "Energized Punch Explosion Strength",
+    "zh": "充能攻击爆炸强度",
+    "vi": "Sức mạnh bùng nổ của đòn tấn công tích điện"
+  },
+  "text.autoconfig.bosses_of_mass_destruction.option.gauntletConfig.normalPunchExplosionMultiplier": {
+    "en": "Normal Punch Explosion Multiplier",
+    "zh": "普通攻击爆炸倍率",
+    "vi": "Hệ số nổ tấn công thông thường"
+  },
+  "text.autoconfig.bosses_of_mass_destruction.option.gauntletConfig.arenaGeneration": {
+    "en": "Arena Generation",
+    "zh": "角斗场生成",
+    "vi": "Thế hệ đấu trường"
+  },
+  "text.autoconfig.bosses_of_mass_destruction.option.gauntletConfig.arenaGeneration.generationSpacing": {
+    "en": "Generation Spacing",
+    "zh": "异种结构间隔",
+    "vi": "không gian cấu trúc không đồng nhất"
+  },
+  "text.autoconfig.bosses_of_mass_destruction.option.gauntletConfig.arenaGeneration.generationSeparation": {
+    "en": "Generation Separation",
+    "zh": "同种结构间隔",
+    "vi": "khoảng cách cấu trúc đồng nhất"
+  },
+  "text.autoconfig.bosses_of_mass_destruction.option.gauntletConfig.arenaGeneration.generationEnabled": {
+    "en": "Generation Enabled",
+    "zh": "允许生成",
+    "vi": "Cho phép tạo"
+  },
+  "text.autoconfig.bosses_of_mass_destruction.category.VoidBlossom": {
+    "en": "Void Blossom",
+    "zh": "虚空之花",
+    "vi": "hoa hư vô"
+  },
+  "text.autoconfig.bosses_of_mass_destruction.option.voidBlossomConfig.health": {
+    "en": "Health",
+    "zh": "生命值",
+    "vi": "HP"
+  },
+  "text.autoconfig.bosses_of_mass_destruction.option.voidBlossomConfig.armor": {
+    "en": "Armor",
+    "zh": "护甲值",
+    "vi": "Giá trị giáp"
+  },
+  "text.autoconfig.bosses_of_mass_destruction.option.voidBlossomConfig.attack": {
+    "en": "Attack",
+    "zh": "攻击力",
+    "vi": "Sức mạnh tấn công"
+  },
+  "text.autoconfig.bosses_of_mass_destruction.option.voidBlossomConfig.idleHealingPerTick": {
+    "en": "Idle Healing per Tick",
+    "zh": "脱战每刻自愈量",
+    "vi": "Lượng tự hồi phục mỗi giây khi không chiến đấu"
+  },
+  "text.autoconfig.bosses_of_mass_destruction.option.voidBlossomConfig.experienceDrop": {
+    "en": "Experience Drop",
+    "zh": "经验掉落量",
+    "vi": "Lượng kinh nghiệm bị giảm"
+  },
+  "text.autoconfig.bosses_of_mass_destruction.option.voidBlossomConfig.arenaGeneration": {
+    "en": "Arena Generation",
+    "zh": "角斗场生成",
+    "vi": "Thế hệ đấu trường"
+  },
+  "text.autoconfig.bosses_of_mass_destruction.option.voidBlossomConfig.arenaGeneration.generationSpacing": {
+    "en": "Generation Spacing",
+    "zh": "异种结构间隔",
+    "vi": "không gian cấu trúc không đồng nhất"
+  },
+  "text.autoconfig.bosses_of_mass_destruction.option.voidBlossomConfig.arenaGeneration.generationSeparation": {
+    "en": "Generation Separation",
+    "zh": "同种结构间隔",
+    "vi": "khoảng cách cấu trúc đồng nhất"
+  },
+  "text.autoconfig.bosses_of_mass_destruction.option.voidBlossomConfig.arenaGeneration.generationEnabled": {
+    "en": "Generation Enabled",
+    "zh": "允许生成",
+    "vi": "Cho phép tạo"
+  },
+  "text.autoconfig.bosses_of_mass_destruction.option.lichConfig.missile.mobEffectId": {
+    "en": "Status Effect",
+    "zh": "状态效果",
+    "vi": null
+  },
+  "text.autoconfig.bosses_of_mass_destruction.option.lichConfig.missile.mobEffectDuration": {
+    "en": "Status Effect Duration",
+    "zh": "状态效果持续时间",
+    "vi": null
+  },
+  "text.autoconfig.bosses_of_mass_destruction.option.lichConfig.missile.mobEffectAmplifier": {
+    "en": "Status Effect Potency",
+    "zh": "状态效果强度",
+    "vi": null
+  },
+  "text.autoconfig.bosses_of_mass_destruction.category.General": {
+    "en": "General",
+    "zh": null,
+    "vi": null
+  },
+  "text.autoconfig.bosses_of_mass_destruction.option.generalConfig.tableOfElevationRadius": {
+    "en": "Table of Elevation radius",
+    "zh": null,
+    "vi": null
+  }
+}

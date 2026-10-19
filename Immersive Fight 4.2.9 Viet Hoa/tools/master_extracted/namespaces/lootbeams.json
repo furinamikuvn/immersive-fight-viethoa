@@ -1,0 +1,42 @@
+{
+  "lootbeams.vanilla_rarity.common": {
+    "en": "Common",
+    "zh": "普通",
+    "vi": null
+  },
+  "lootbeams.vanilla_rarity.uncommon": {
+    "en": "Uncommon",
+    "zh": "少见",
+    "vi": null
+  },
+  "lootbeams.vanilla_rarity.rare": {
+    "en": "Rare",
+    "zh": "稀有",
+    "vi": null
+  },
+  "lootbeams.vanilla_rarity.epic": {
+    "en": "Epic",
+    "zh": "史诗",
+    "vi": null
+  },
+  "lootbeams.mod_rarity.non_soul": {
+    "en": "Non Soul",
+    "zh": "缺少灵魂",
+    "vi": null
+  },
+  "lootbeams.lightconfig.lighteffectfilter.whitelist_by_tag.desc": {
+    "en": "the format is the same as the datapack format, start with \"#\".",
+    "zh": null,
+    "vi": null
+  },
+  "lootbeams.light_config.lightEffectFilter.blacklist_by_tag.desc": {
+    "en": "the format is the same as the datapack format, start with \"#\".",
+    "zh": null,
+    "vi": null
+  },
+  "_comment": {
+    "en": null,
+    "zh": "按照wiki应该是“常见”，但是似乎很少有模组会使用“常见”作为“Common”的译名，并且其他游戏也多用“普通”，遂此处选用普通而非常见。",
+    "vi": null
+  }
+}

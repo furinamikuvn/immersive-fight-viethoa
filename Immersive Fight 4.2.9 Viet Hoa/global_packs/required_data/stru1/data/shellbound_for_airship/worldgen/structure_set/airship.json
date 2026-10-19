@@ -1,0 +1,50 @@
+{
+  "structures": [
+    {
+      "structure": "shellbound_for_airship:airship_ship1",
+      "weight": 1
+    },
+    {
+      "structure": "shellbound_for_airship:airship_ship2",
+      "weight": 5
+    },
+    {
+      "structure": "shellbound_for_airship:airship_ship3",
+      "weight": 5
+    },
+    {
+      "structure": "shellbound_for_airship:airship_ship4",
+      "weight": 5
+    },
+    {
+      "structure": "shellbound_for_airship:airship_ship5",
+      "weight": 5
+    },
+    {
+      "structure": "shellbound_for_airship:airship_ship6",
+      "weight": 5
+    },
+    {
+      "structure": "shellbound_for_airship:airship_ship7",
+      "weight": 5
+    },
+    {
+      "structure": "shellbound_for_airship:airship_ship8",
+      "weight": 5
+    },
+    {
+      "structure": "shellbound_for_airship:airship_ship9",
+      "weight": 5
+    },
+    {
+      "structure": "shellbound_for_airship:airship_ship10",
+      "weight": 5
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 100,
+    "separation": 50,
+    "salt": 9345821
+  }
+}

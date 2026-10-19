@@ -1,0 +1,20 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:zombie",
+    "minecraft:skeleton",
+    "minecraft:creeper",
+    "minecraft:piglin",
+    "minecraft:pillager",
+"soul_like_mobs:hollowknight",
+"soul_like_mobs:hollowknighthammer",
+"soul_like_mobs:hollowknightspear",
+"soul_like_mobs:hollowknightmace",
+"soul_like_mobs:hollowsoldier",
+"soul_like_mobs:heavyarmorhollow",
+"soul_like_mobs:darkknight",
+"cataclysm:koboleton",
+    "wom:hollow",
+    "wom:lycanth"
+  ]
+}

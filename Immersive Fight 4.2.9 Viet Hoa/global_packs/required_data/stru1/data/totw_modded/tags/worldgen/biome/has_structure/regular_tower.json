@@ -1,0 +1,19 @@
+{
+    "replace": false,
+    "required": false,
+    "values": [
+        "#minecraft:is_taiga",
+        "minecraft:plains",
+        "minecraft:sunflower_plains",
+        "minecraft:savanna",
+        "#minecraft:is_forest",
+        "minecraft:swamp",
+        "#minecraft:is_mountain",
+        "#minecraft:is_hill",
+"regions_unexplored:steppe",
+"biomeswevegone:orchard",
+"regions_unexplored:temperate_grove",
+"regions_unexplored:rocky_meadow",
+"biomeswevegone:temperate_grove"
+    ]
+}

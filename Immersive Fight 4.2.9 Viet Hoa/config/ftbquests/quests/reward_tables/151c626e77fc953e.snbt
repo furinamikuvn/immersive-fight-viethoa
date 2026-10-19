@@ -1,0 +1,43 @@
+{
+	icon: {
+		Count: 1
+		id: "minecraft:iron_chestplate"
+		tag: {
+			Damage: 0
+		}
+	}
+	id: "151C626E77FC953E"
+	loot_size: 1
+	order_index: 17
+	rewards: [
+		{
+			command: "/fightmore backrender true"
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "minecraft:lime_concrete"
+			}
+			title: "Bật"
+			type: "command"
+		}
+		{
+			command: "/fightmore backrender false"
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "minecraft:red_concrete"
+			}
+			title: "Tắt"
+			type: "command"
+		}
+	]
+	title: "Bật/Tắt Vũ Khí Đeo Lưng"
+}

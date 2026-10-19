@@ -1,0 +1,77 @@
+{
+  "elytrautilities.enableFlight": {
+    "en": null,
+    "zh": "鞘翅已开启",
+    "vi": "Elytra đang mở"
+  },
+  "elytrautilities.disableFlight": {
+    "en": null,
+    "zh": "鞘翅已关闭",
+    "vi": "elytra đã đóng cửa"
+  },
+  "key.elytrautilities.category": {
+    "en": null,
+    "zh": "鞘翅实用工具",
+    "vi": "công cụ tiện ích elytra"
+  },
+  "key.elytrautilities.toggle.desc": {
+    "en": null,
+    "zh": "鞘翅上锁",
+    "vi": "khóa elytra"
+  },
+  "key.elytrautilities.trigger.desc": {
+    "en": null,
+    "zh": "鞘翅一键起飞",
+    "vi": "Elytra cất cánh chỉ bằng một cú nhấp chuột"
+  },
+  "gui.elytrautilities.config.toggleIcon.name": {
+    "en": null,
+    "zh": "Show toggle icon",
+    "vi": "Show toggle icon"
+  },
+  "gui.elytrautilities.config.toggleIcon.description": {
+    "en": null,
+    "zh": "If enabled, an icon appears on the HUD when fall flying is disabled.",
+    "vi": "If enabled, an icon appears on the HUD when fall flying is disabled."
+  },
+  "gui.elytrautilities.config.simpleTakeoff.name": {
+    "en": null,
+    "zh": "Simple firework takeoff",
+    "vi": "Simple firework takeoff"
+  },
+  "gui.elytrautilities.config.simpleTakeoff.description": {
+    "en": null,
+    "zh": "If enabled, holding down the \"Trigger Elytra\" key uses a firework from inventory to takeoff.",
+    "vi": "If enabled, holding down the \"Trigger Elytra\" key uses a firework from inventory to takeoff."
+  },
+  "gui.elytrautilities.config.enableElytra.name": {
+    "en": null,
+    "zh": "Allow fall flying",
+    "vi": "Allow fall flying"
+  },
+  "gui.elytrautilities.config.enableElytra.description": {
+    "en": null,
+    "zh": "If enabled, players can fall fly. This can also be managed in-game through the \"Toggle Elytra\" key.",
+    "vi": "If enabled, players can fall fly. This can also be managed in-game through the \"Toggle Elytra\" key."
+  },
+  "gui.elytrautilities.config.jumpTriggerable.name": {
+    "en": null,
+    "zh": "Midair jump fall flying",
+    "vi": "Midair jump fall flying"
+  },
+  "gui.elytrautilities.config.jumpTriggerable.description": {
+    "en": null,
+    "zh": "If enabled, fall flying can be activated by jumping in midair.",
+    "vi": "If enabled, fall flying can be activated by jumping in midair."
+  },
+  "gui.elytrautilities.config.restrictFireworks.name": {
+    "en": null,
+    "zh": "Restrict firework rockets",
+    "vi": "Restrict firework rockets"
+  },
+  "gui.elytrautilities.config.restrictFireworks.description": {
+    "en": null,
+    "zh": "f enabled, firework rockets can only be used while fall flying.",
+    "vi": "f enabled, firework rockets can only be used while fall flying."
+  }
+}

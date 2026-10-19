@@ -1,0 +1,15 @@
+{
+  "structures": [
+    {
+      "structure": "imf_bosses:evilarena",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 30,
+    "separation": 20,
+
+    "salt": 9852196
+  }
+}

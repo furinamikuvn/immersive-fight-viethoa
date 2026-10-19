@@ -1,0 +1,17 @@
+{
+  "name": "Chủ Động Phòng Ngự (Shielding)",
+  "icon": "simplyswords:runic_tablet",
+  "category": "simplyswords:category_rune_etching",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:runic_tablet",
+      "title": "Chủ Động Phòng Ngự (Shielding)",
+      "text": "Phù văn Chủ Động Phòng Ngự truyền vào vũ khí tinh hoa $(#389fff)$(l)Bảo Vệ$(). $(br2)Nó tự động bắn tên vào kẻ địch xung quanh nếu trong túi có đủ tên."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Yêu cầu phải có tên trong túi đồ để tự động bắn tỉa cản bước kẻ thù khi di chuyển thả diều."
+    }
+  ]
+}

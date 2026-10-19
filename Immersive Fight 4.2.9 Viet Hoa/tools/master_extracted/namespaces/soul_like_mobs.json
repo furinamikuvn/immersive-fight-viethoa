@@ -1,0 +1,162 @@
+{
+  "entity.soul_like_mobs.hollowknighthammer": {
+    "en": "hollow knight",
+    "zh": "重型活尸",
+    "vi": "hollow knight"
+  },
+  "subtitles.hollow_hurt": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "entity.soul_like_mobs.hollowknightmace": {
+    "en": "hollow knight",
+    "zh": "活尸骑士",
+    "vi": "hollow knight"
+  },
+  "item.soul_like_mobs.hollowknightspear_spawn_egg": {
+    "en": "hollow knight Spawn Egg",
+    "zh": "长矛骑士刷怪蛋",
+    "vi": "hollow knight Spawn Egg"
+  },
+  "subtitles.hollow_growling": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "item.soul_like_mobs.hollowsoldier_spawn_egg": {
+    "en": "Hollow soldier Spawn Egg",
+    "zh": "活尸士兵刷怪蛋",
+    "vi": "Hollow soldier Spawn Egg"
+  },
+  "entity.soul_like_mobs.hollow": {
+    "en": "Hollow",
+    "zh": "活尸",
+    "vi": "Hollow"
+  },
+  "entity.soul_like_mobs.twistedsouls": {
+    "en": "Twisted soul mass",
+    "zh": "扭曲灵魂",
+    "vi": "Twisted soul mass"
+  },
+  "subtitles.hollow_death": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "item.soul_like_mobs.sacredforce": {
+    "en": "Sacred blood",
+    "zh": "恐惧之血",
+    "vi": "Sacred blood"
+  },
+  "entity.soul_like_mobs.hollowknight": {
+    "en": "Hollow knight",
+    "zh": "活尸骑士",
+    "vi": "Hollow knight"
+  },
+  "item_group.soul_like_mobs.soullikemobstab": {
+    "en": "soul like mobs",
+    "zh": "soul like mobs",
+    "vi": "soul like mobs"
+  },
+  "item.soul_like_mobs.hollowknighthammer_spawn_egg": {
+    "en": "hollow knight Spawn Egg",
+    "zh": "重型活尸刷怪蛋",
+    "vi": "hollow knight Spawn Egg"
+  },
+  "subtitles.wind_effect": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "itemGroup.tabsoullikemobstab": {
+    "en": "soul like mobs",
+    "zh": "soul like mobs",
+    "vi": "soul like mobs"
+  },
+  "item.soul_like_mobs.hollowknight_spawn_egg": {
+    "en": "Hollow knight Spawn Egg",
+    "zh": "活尸骑士刷怪蛋",
+    "vi": "Hollow knight Spawn Egg"
+  },
+  "item.soul_like_mobs.goldencup": {
+    "en": "Golden cup",
+    "zh": "金杯",
+    "vi": "Golden cup"
+  },
+  "item.soul_like_mobs.hollowknightmace_spawn_egg": {
+    "en": "hollow knight Spawn Egg",
+    "zh": "活尸骑士刷怪蛋",
+    "vi": "hollow knight Spawn Egg"
+  },
+  "enchantment.soul_like_mobs.monsterslayer.desc": {
+    "en": "deals additional damage to monster judge mobs.",
+    "zh": "对怪物造成小额伤害",
+    "vi": "Gây sát thương nhỏ lên quái vật"
+  },
+  "item.soul_like_mobs.heavyarmorhollow_spawn_egg": {
+    "en": "Heavy armor hollow Spawn Egg",
+    "zh": "重型活尸刷怪蛋",
+    "vi": "Heavy armor hollow Spawn Egg"
+  },
+  "item.soul_like_mobs.hollow_spawn_egg": {
+    "en": "Hollow Spawn Egg",
+    "zh": "活尸刷怪蛋",
+    "vi": "Hollow Spawn Egg"
+  },
+  "subtitles.vic": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "item.soul_like_mobs.darkknight_spawn_egg": {
+    "en": "dark knight Spawn Egg",
+    "zh": "黑暗骑士刷怪蛋",
+    "vi": "dark knight Spawn Egg"
+  },
+  "entity.soul_like_mobs.hollowknightspear": {
+    "en": "hollow knight",
+    "zh": "长矛骑士",
+    "vi": "hollow knight"
+  },
+  "entity.soul_like_mobs.hollowsoldier": {
+    "en": "Hollow soldier",
+    "zh": "活尸士兵",
+    "vi": "Hollow soldier"
+  },
+  "item.soul_like_mobs.obsidianhammer": {
+    "en": "Obsidian hammer",
+    "zh": "黑曜石锤",
+    "vi": "Obsidian hammer"
+  },
+  "entity.soul_like_mobs.heavyarmorhollow": {
+    "en": "Heavy armor hollow",
+    "zh": "重型活尸",
+    "vi": "Heavy armor hollow"
+  },
+  "item.soul_like_mobs.forcingenergy": {
+    "en": "Forcing energy",
+    "zh": "迫使能量",
+    "vi": "Forcing energy"
+  },
+  "entity.soul_like_mobs.darkknight": {
+    "en": "dark knight",
+    "zh": "黑暗骑士",
+    "vi": "dark knight"
+  },
+  "item.soul_like_mobs.twistedsouls_spawn_egg": {
+    "en": "Twisted soul mass Spawn Egg",
+    "zh": "扭曲灵魂刷怪蛋",
+    "vi": "Twisted soul mass Spawn Egg"
+  },
+  "item.soul_like_mobs.sacredblade": {
+    "en": "Sacred blade",
+    "zh": "恐惧之剑",
+    "vi": "Sacred blade"
+  },
+  "item.soul_like_mobs.cupofsacredforce": {
+    "en": "Cup of sacred blood",
+    "zh": "一杯恐惧之血",
+    "vi": "Cup of sacred blood"
+  }
+}

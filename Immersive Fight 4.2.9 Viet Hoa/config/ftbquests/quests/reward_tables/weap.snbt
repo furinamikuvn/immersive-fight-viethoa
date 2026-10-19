@@ -1,0 +1,119 @@
+{
+	icon: {
+		Count: 1
+		id: "minecraft:iron_sword"
+		tag: {
+			Damage: 0
+		}
+	}
+	id: "67BB22EA7E5FBAEA"
+	loot_size: 1
+	order_index: 7
+	rewards: [
+		{
+			item: {
+				Count: 1
+				id: "minecraft:iron_sword"
+				tag: {
+					Damage: 0
+				}
+			}
+			title: "Iron Sword"
+		}
+		{
+			item: {
+				Count: 1
+				id: "eugenes_guan_dao:iron_guan_dao"
+				tag: {
+					Damage: 0
+				}
+			}
+			title: "Iron Guan Dao"
+		}
+		{
+			item: {
+				Count: 1
+				id: "wom:iron_staff"
+				tag: {
+					Damage: 0
+				}
+			}
+			title: "Iron Staff"
+		}
+		{
+			item: {
+				Count: 1
+				id: "epicfight:iron_dagger"
+				tag: {
+					Damage: 0
+				}
+			}
+			title: "Iron Dagger"
+		}
+		{
+			item: {
+				Count: 1
+				id: "epicfight:iron_tachi"
+				tag: {
+					Damage: 0
+				}
+			}
+			title: "Iron Tachi"
+		}
+		{
+			item: {
+				Count: 1
+				id: "epicfight:iron_longsword"
+				tag: {
+					Damage: 0
+				}
+			}
+			title: "Iron Longsword"
+		}
+		{
+			item: {
+				Count: 1
+				id: "epicfight:iron_spear"
+				tag: {
+					Damage: 0
+				}
+			}
+			title: "Iron Spear"
+		}
+		{
+			item: {
+				Count: 1
+				id: "epicfight:iron_greatsword"
+				tag: {
+					Damage: 0
+				}
+			}
+			title: "Iron Greatsword"
+		}
+		{
+			item: {
+				Count: 1
+				id: "refm:iron_rapier"
+				tag: {
+					Damage: 0
+				}
+			}
+			title: "Iron Rapier"
+		}
+		{
+			item: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "simplyswords:iron_scythe"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+	]
+	title: "Vũ Khí Khởi Đầu"
+}

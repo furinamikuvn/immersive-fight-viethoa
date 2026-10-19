@@ -1,0 +1,36 @@
+
+["Sword Properties 剑配置"]
+	#A list of items considered as sword.
+	#Danh sách vật phẩm được coi là kiếm
+	items_considered_as_sword = ["cataclysm:the_incinerator", "cataclysm:ancient_spear", "cataclysm:soul_render", "cataclysm:coral_bardiche", "arsenal:charge_halberd", "arsenal:soul_knight_great_sword", "cataclysm:astrape", "cataclysm:ceraunus"]
+	#A list of items not considered as sword.
+	#Danh sách vật phẩm không được coi là kiếm
+	items_not_considered_as_sword = ["sword_soaring:vatansever", "wom:ender_blaster", "epicfight:glove"]
+
+	["Sword Properties 剑配置"."Sword Soaring 御剑凌虚"]
+		#time mills between double click of starting flying
+		#Khoảng cách nhấp đúp tính bằng mili-giây để bắt đầu bay
+		#Range: > -2147483648
+		fly_delay = 200
+
+	["Sword Properties 剑配置"."Gate of Babylon Skill 王之财宝"]
+		#should the item shot glowing
+		#Vật phẩm bắn ra có phát sáng không
+		items_bloom = false
+		#BE CAREFUL TO CHANGE!! remove the item in backpack and spawn when shot
+		#[Thận trọng khi bật!] Xóa vật phẩm trong ba lô khi bắn ra và rơi xuống sau khi bắn. Không chịu trách nhiệm nếu mất mát.
+		remove_item = false
+
+	["Sword Properties 剑配置"."Sword Convergence 万剑归宗"]
+		#additional swords per tick
+		#Số lượng kiếm hội tụ mỗi giây (chỉ hiệu ứng)
+		#Range: > -2147483648
+		sword_effect_per_tick = 0
+		#trail effect update interval
+		#Tần số làm mới vệt chém kiếm quang, 0 là tắt
+		#Range: > -2147483648
+		wan_trail_update_tick = 0
+		#default trail particle type
+		#Loại hạt vệt kiếm mặc định
+		trail_particle_type = "epicfight:swing_trail"
+

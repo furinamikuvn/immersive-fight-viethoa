@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " b ",
+    "bcb",
+    " b "
+  ],
+  "key": {
+    "b": {
+      "item": "minecraft:netherite_scrap"
+    },
+    "c": {
+      "item": "dungeons_and_combat:blessed_gold_ingot"
+    }
+  },
+  "result": {
+    "item": "dungeons_and_combat:blessed_beetle",
+    "count": 1
+  }
+}

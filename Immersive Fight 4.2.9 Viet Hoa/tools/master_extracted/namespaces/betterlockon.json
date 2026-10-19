@@ -1,0 +1,212 @@
+{
+  "screen.betterlockon.config": {
+    "en": "Lock On Config",
+    "zh": "锁定配置",
+    "vi": null
+  },
+  "screen.betterlockon.config.on": {
+    "en": "On",
+    "zh": "开",
+    "vi": null
+  },
+  "screen.betterlockon.config.off": {
+    "en": "Off",
+    "zh": "关",
+    "vi": null
+  },
+  "screen.betterlockon.config.confirm": {
+    "en": "Save",
+    "zh": "保存",
+    "vi": null
+  },
+  "screen.betterlockon.config.reset": {
+    "en": "Reset",
+    "zh": "重置",
+    "vi": null
+  },
+  "screen.betterlockon.config.cancel": {
+    "en": "Exit",
+    "zh": "退出",
+    "vi": null
+  },
+  "screen.betterlockon.config.icon_type": {
+    "en": "Icon type",
+    "zh": "图标类型",
+    "vi": null
+  },
+  "screen.betterlockon.config.lockon_change_distance": {
+    "en": "Change distance",
+    "zh": "锁定切换距离",
+    "vi": null
+  },
+  "screen.betterlockon.config.lockon_change_speed": {
+    "en": "Change speed",
+    "zh": "锁定切换速度",
+    "vi": null
+  },
+  "screen.betterlockon.config.target_auto_switch": {
+    "en": "Target auto switch",
+    "zh": "目标自动切换",
+    "vi": null
+  },
+  "screen.betterlockon.config.max_lock_on_distance": {
+    "en": "Max lock on distance",
+    "zh": "最大锁定距离",
+    "vi": null
+  },
+  "screen.betterlockon.config.max_target_select_distance": {
+    "en": "Target select distance",
+    "zh": "最大索敌距离",
+    "vi": null
+  },
+  "screen.betterlockon.config.min_lock_on_pitch": {
+    "en": "Min lock on pitch(+down, -up)",
+    "zh": "最低俯仰角(正低负高)",
+    "vi": null
+  },
+  "screen.betterlockon.config.max_lock_on_pitch": {
+    "en": "Max lock on pitch(+down, -up)",
+    "zh": "最高俯仰角(正低负高)",
+    "vi": null
+  },
+  "screen.betterlockon.config.pitch_offset": {
+    "en": "Pitch offset",
+    "zh": "俯仰角偏移量(正低负高)",
+    "vi": null
+  },
+  "screen.betterlockon.config.enable_soft_lock": {
+    "en": "Enable soft lock",
+    "zh": "启用软锁",
+    "vi": null
+  },
+  "screen.betterlockon.config.max_soft_angle_x": {
+    "en": "Max soft angle X",
+    "zh": "软锁活动角度X",
+    "vi": null
+  },
+  "screen.betterlockon.config.max_soft_angle_y": {
+    "en": "Max soft angle Y",
+    "zh": "软锁活动角度Y",
+    "vi": null
+  },
+  "screen.betterlockon.config.change_distance_multiply": {
+    "en": "Chance distance multiply",
+    "zh": "软锁切换距离倍率",
+    "vi": null
+  },
+  "screen.betterlockon.config.change_speed_multiply": {
+    "en": "Change speed multiply",
+    "zh": "软锁切换速度倍率",
+    "vi": null
+  },
+  "screen.betterlockon.config.lockon_icon_size": {
+    "en": "Icon size",
+    "zh": "图标大小",
+    "vi": null
+  },
+  "screen.betterlockon.config.lockon_icon_color_red": {
+    "en": "Color red",
+    "zh": "图标颜色：红",
+    "vi": null
+  },
+  "screen.betterlockon.config.lockon_icon_color_green": {
+    "en": "Color green",
+    "zh": "图标颜色：绿",
+    "vi": null
+  },
+  "screen.betterlockon.config.lockon_icon_color_blue": {
+    "en": "Color blue",
+    "zh": "图标颜色：蓝",
+    "vi": null
+  },
+  "screen.betterlockon.config.lockon_icon_alpha": {
+    "en": "Icon alpha",
+    "zh": "图标透明度",
+    "vi": null
+  },
+  "screen.betterlockon.config.lockon_size_scale": {
+    "en": "Icon scale with target",
+    "zh": "图标随实体大小缩放",
+    "vi": null
+  },
+  "screen.betterlockon.config.fix_wom_lockon": {
+    "en": "WOM Lock on fix",
+    "zh": "WOM锁定失效修复",
+    "vi": null
+  },
+  "screen.betterlockon.config.white_list": {
+    "en": "White list have not screen now, please set it in config file",
+    "zh": "白名单暂无配置界面，请在配置文件中手动添加",
+    "vi": null
+  },
+  "screen.betterlockon.config.black_list": {
+    "en": "Black list have not screen now, please set it in config file",
+    "zh": "黑名单暂无配置界面，请在配置文件中手动添加",
+    "vi": null
+  },
+  "screen.betterlockon.config.enable_dynamic_camera": {
+    "en": "Enable dynamic camera",
+    "zh": "启用动态相机",
+    "vi": null
+  },
+  "screen.betterlockon.config.max_dynamic_camera_y": {
+    "en": "Max camera height",
+    "zh": "最大相机高度",
+    "vi": null
+  },
+  "screen.betterlockon.config.max_dynamic_camera_x": {
+    "en": "Max camera horizontal distance",
+    "zh": "最大相机距离",
+    "vi": null
+  },
+  "screen.betterlockon.config.enable_dynamic_fov": {
+    "en": "Enable dynamic Fov(need cam)",
+    "zh": "动态视角场(需要动态相机)",
+    "vi": null
+  },
+  "screen.betterlockon.config.max_dynamic_fov": {
+    "en": "Max Fov multiplier",
+    "zh": "最大视角场倍率",
+    "vi": null
+  },
+  "screen.betterlockon.config.rotation_transition": {
+    "en": "Rotation Transition Speed",
+    "zh": "旋转过渡速度",
+    "vi": null
+  },
+  "screen.betterlockon.config.enable_model_transparency": {
+    "en": "Adjust Model Transparency",
+    "zh": "模型透明度调整",
+    "vi": null
+  },
+  "screen.betterlockon.config.auto_switch_first_person": {
+    "en": "Auto Switch First Person",
+    "zh": "自动切换第一人称",
+    "vi": null
+  },
+  "screen.betterlockon.config.auto_switch_first_person_distance": {
+    "en": "Switch Distance",
+    "zh": "切换距离",
+    "vi": null
+  },
+  "screen.betterlockon.config.start_transparency_distance": {
+    "en": "Start Transparency",
+    "zh": "透明开始距离",
+    "vi": null
+  },
+  "screen.betterlockon.config.fully_transparency_distance": {
+    "en": "Fully Transparency",
+    "zh": "完全透明距离",
+    "vi": null
+  },
+  "key.betterlockon.category": {
+    "en": "Better Lock On",
+    "zh": "锁定优化",
+    "vi": null
+  },
+  "key.betterlockon.change_lock_on_joint": {
+    "en": "Change Joint",
+    "zh": "切换锁定部位",
+    "vi": null
+  }
+}

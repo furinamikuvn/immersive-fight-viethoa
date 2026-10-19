@@ -1,0 +1,1203 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "3DC5891FB99263A8"
+	group: "4E6BE2D374D7AE03"
+	icon: "betterend:eternal_crystal"
+	id: "3DC5891FB99263A8"
+	images: [{
+		height: 4.0d
+		hover: [
+			"Vị trí bàn thờ"
+			"Bàn thờ được bố trí như trong hình"
+		]
+		image: "ftbteams:textures/abcjiz.png"
+		rotation: 0.0d
+		width: 4.0d
+		x: -1.5d
+		y: 3.5d
+	}]
+	order_index: 5
+	quest_links: [ ]
+	quests: [
+		{
+			description: [
+				"cộng đồng độc đáo,"
+				"Tài nguyên có thể tạo ra thiết bị"
+			]
+			entity_vis_size: 1.0f
+			id: "254E78FF4D7E1AD8"
+			shape: "pentagon"
+			tasks: [{
+				id: "1E3BBEF0D34CAF2A"
+				title: "Khám phá và thu thập tài nguyên"
+				type: "checkmark"
+			}]
+			x: -1.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["254E78FF4D7E1AD8"]
+			description: ["+4 máu tối đa cho mỗi vật phẩm"]
+			entity_vis_size: 1.0f
+			id: "715EA62A9AE5FA1D"
+			rewards: [{
+				exclude_from_claim_all: true
+				icon: {
+					Count: 1
+					id: "modifiers:modifier_book"
+					tag: {
+						bookModifier: "modifiers:quick"
+					}
+				}
+				id: "3E3D1955652508E4"
+				table_id: 840663340100755059L
+				type: "choice"
+			}]
+			shape: "square"
+			tasks: [
+				{
+					id: "5B6FAE353C045CEA"
+					item: {
+						Count: 1
+						id: "betterend:aeternium_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "529B3CC29130E1B5"
+					item: {
+						Count: 1
+						id: "betterend:aeternium_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "1A4EB002F2AD3581"
+					item: {
+						Count: 1
+						id: "betterend:aeternium_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "40A4BCE9D68C0917"
+					item: {
+						Count: 1
+						id: "betterend:aeternium_boots"
+						tag: {
+							Damage: 0
+							itemModifier: "modifiers:angry"
+						}
+					}
+					type: "item"
+				}
+			]
+			x: -3.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["254E78FF4D7E1AD8"]
+			entity_vis_size: 1.0f
+			id: "1E38D6BEC86AF7B3"
+			rewards: [{
+				exclude_from_claim_all: true
+				icon: {
+					Count: 1
+					id: "modifiers:modifier_book"
+					tag: {
+						bookModifier: "modifiers:quick"
+					}
+				}
+				id: "565F17F461200A1D"
+				table_id: 840663340100755059L
+				type: "choice"
+			}]
+			shape: "square"
+			tasks: [
+				{
+					id: "3A99647BDD522204"
+					item: {
+						Count: 1
+						id: "betterend:crystalite_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "0193186848040C51"
+					item: {
+						Count: 1
+						id: "betterend:crystalite_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "24D436A4F6BFB41E"
+					item: {
+						Count: 1
+						id: "betterend:crystalite_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "12DB9E9D740262A8"
+					item: {
+						Count: 1
+						id: "betterend:crystalite_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: -3.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["254E78FF4D7E1AD8"]
+			entity_vis_size: 1.0f
+			id: "27729123585B6EE9"
+			rewards: [{
+				exclude_from_claim_all: true
+				icon: {
+					Count: 1
+					id: "modifiers:modifier_book"
+					tag: {
+						bookModifier: "modifiers:quick"
+					}
+				}
+				id: "2576876796CD1F08"
+				table_id: 840663340100755059L
+				type: "choice"
+			}]
+			shape: "square"
+			tasks: [
+				{
+					id: "1B094E2EC08BA59D"
+					item: {
+						Count: 1
+						id: "betterend:terminite_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "2FD09878ED461F9F"
+					item: {
+						Count: 1
+						id: "betterend:terminite_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "282DF01EE39E2463"
+					item: {
+						Count: 1
+						id: "betterend:terminite_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "03AD730FD7A3BE30"
+					item: {
+						Count: 1
+						id: "betterend:terminite_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: -3.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["254E78FF4D7E1AD8"]
+			entity_vis_size: 1.0f
+			id: "04251AC10131401F"
+			tasks: [{
+				id: "170595BE6A9F3D94"
+				item: "betterend:end_stone_smelter"
+				type: "item"
+			}]
+			x: 0.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["109C193966FB3693"]
+			description: [
+				"Nó được tạo ra bằng cách hợp kim hóa các thỏi sắt cuối cùng và các thỏi hợp kim nether trong lò luyện đá cuối cùng."
+				"{image:ftbteams:textures/aaaabbbb.png width:100 height:50 align:1}"
+			]
+			entity_vis_size: 1.0f
+			id: "43C11812B830AC06"
+			tasks: [{
+				id: "2894313DAEFA46EC"
+				item: "betterend:aeternium_ingot"
+				type: "item"
+			}]
+			x: 3.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["254E78FF4D7E1AD8"]
+			description: [""]
+			entity_vis_size: 1.0f
+			id: "45BE48980E2C2479"
+			shape: "square"
+			tasks: [{
+				id: "35BB8CC1BD343E37"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"cold_sweat:item_insulation": {
+							Insulation: [ ]
+						}
+					}
+					id: "betterend:elytra_crystalite"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -1.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["254E78FF4D7E1AD8"]
+			description: [""]
+			entity_vis_size: 1.0f
+			id: "1FB789EB8BAE41B6"
+			shape: "square"
+			tasks: [{
+				id: "6A7776216ED2F0FD"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"cold_sweat:item_insulation": {
+							Insulation: [ ]
+						}
+					}
+					id: "betterend:elytra_armored"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -2.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["43C11812B830AC06"]
+			entity_vis_size: 1.0f
+			id: "081D087B9E530820"
+			tasks: [{
+				id: "62491614F4A6648F"
+				item: {
+					Count: 1
+					id: "betterend:aeternium_hammer"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 5.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["43C11812B830AC06"]
+			entity_vis_size: 1.0f
+			id: "5DBD3AA5C918C3C6"
+			tasks: [{
+				id: "327518C44A766586"
+				item: {
+					Count: 1
+					id: "betterend:aeternium_anvil"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 5.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["109C193966FB3693"]
+			entity_vis_size: 1.0f
+			id: "12AB0EBFC604FBDC"
+			tasks: [{
+				id: "7D9410A275DAAA14"
+				item: {
+					Count: 1
+					id: "betterend:terminite_anvil"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 3.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["109C193966FB3693"]
+			entity_vis_size: 1.0f
+			id: "76B6C75D45340C50"
+			tasks: [{
+				id: "64E4B58CA0C2D8F4"
+				item: {
+					Count: 1
+					id: "betterend:terminite_hammer"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 3.5d
+			y: -0.5d
+		}
+		{
+			dependencies: [
+				"12AB0EBFC604FBDC"
+				"76B6C75D45340C50"
+			]
+			description: [
+				"Sử dụng đe hợp kim cuối cùng &b &r hoặc đe cấp cao hơn"
+				"Búa rèn hợp kim cuối cùng &e&r hoặc búa rèn cấp cao hơn"
+				"{image:ftbteams:textures/aaaabbb.png width:100 height:50 align:1}"
+			]
+			entity_vis_size: 1.0f
+			id: "198357FD64FD481C"
+			shape: "gear"
+			tasks: [{
+				id: "0F028656C45F6CED"
+				item: "betterend:terminite_forged_plate"
+				type: "item"
+			}]
+			x: 4.5d
+			y: -1.0d
+		}
+		{
+			dependencies: [
+				"081D087B9E530820"
+				"5DBD3AA5C918C3C6"
+			]
+			description: [
+				"Sử dụng đe hợp kim &b Taikoo &r"
+				"Sử dụng búa rèn hợp kim &e Taikoo &r"
+				"{image:ftbteams:textures/aaabbaa.png width:100 height:50 align:1}"
+			]
+			entity_vis_size: 1.0f
+			id: "10C4095654CBEF76"
+			shape: "gear"
+			tasks: [{
+				id: "3A5AF00386A71405"
+				item: "betterend:aeternium_forged_plate"
+				type: "item"
+			}]
+			x: 6.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["254E78FF4D7E1AD8"]
+			description: [
+				"Xây dựng [Bàn thờ truyền dịch]"
+				"Nhấp chuột phải và đặt các mục để tổng hợp"
+				""
+				"Tập trung vào cơ sở tưới máu &a &r,"
+				"Đặt 8 đế bằng bất kỳ vật liệu &a nào như hình bên dưới"
+				"(Công thức có tính định hướng, đỉnh N hướng bắc)"
+			]
+			entity_vis_size: 1.0f
+			icon: "betterend:infusion_pedestal"
+			id: "21BC122D06353E5E"
+			rewards: [{
+				count: 3
+				id: "297B8F61EBFB6B69"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "betterend:enchanted_petal"
+				}
+				type: "item"
+			}]
+			shape: "gear"
+			size: 1.2d
+			tasks: [
+				{
+					id: "17ECFB4B9FED1D33"
+					item: "betterend:infusion_pedestal"
+					type: "item"
+				}
+				{
+					id: "6220FCD6E1A1C710"
+					item: "betterend:andesite_pedestal"
+					type: "item"
+				}
+			]
+			x: -1.5d
+			y: 1.0d
+		}
+		{
+			disable_toast: true
+			entity_vis_size: 1.0f
+			id: "21DCE8DDD1429147"
+			size: 0.5d
+			tasks: [{
+				id: "786854173A2153D8"
+				item: "minecraft:end_crystal"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 2.5d
+		}
+		{
+			disable_toast: true
+			entity_vis_size: 1.0f
+			id: "27F9D0FE0E37EBBE"
+			size: 0.5d
+			tasks: [{
+				id: "54F1FBF7F1AD503D"
+				item: "betterend:crystal_shards"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 1.75d
+		}
+		{
+			disable_toast: true
+			entity_vis_size: 1.0f
+			id: "063A0ED166E0FD01"
+			size: 0.5d
+			tasks: [{
+				id: "22AFBBE00124B4C3"
+				item: "betterend:crystal_shards"
+				type: "item"
+			}]
+			x: 2.25d
+			y: 2.5d
+		}
+		{
+			disable_toast: true
+			entity_vis_size: 1.0f
+			id: "2F5A91992A013C91"
+			size: 0.5d
+			tasks: [{
+				id: "1DF44A46821EACDD"
+				item: "betterend:crystal_shards"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 3.25d
+		}
+		{
+			disable_toast: true
+			entity_vis_size: 1.0f
+			id: "7E2C093C0D4D4628"
+			size: 0.5d
+			tasks: [{
+				id: "51C7B50E2F1A6E01"
+				item: "betterend:crystal_shards"
+				type: "item"
+			}]
+			x: 0.75d
+			y: 2.5d
+		}
+		{
+			disable_toast: true
+			entity_vis_size: 1.0f
+			id: "7A4F4B400C10D37E"
+			size: 0.5d
+			tasks: [{
+				id: "2794EB732E97D787"
+				item: "betterend:ender_shard"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 2.0d
+		}
+		{
+			disable_toast: true
+			entity_vis_size: 1.0f
+			id: "14071C864719ACEE"
+			size: 0.5d
+			tasks: [{
+				id: "705EA4FF422112F6"
+				item: "betterend:ender_shard"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 2.0d
+		}
+		{
+			disable_toast: true
+			entity_vis_size: 1.0f
+			id: "1A934BB898007069"
+			size: 0.5d
+			tasks: [{
+				id: "541568E6A36887D0"
+				item: "betterend:ender_shard"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 3.0d
+		}
+		{
+			disable_toast: true
+			entity_vis_size: 1.0f
+			id: "7CD720CEEF0D4093"
+			size: 0.5d
+			tasks: [{
+				id: "1B36022F0170F4DA"
+				item: "betterend:ender_shard"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 3.0d
+		}
+		{
+			entity_vis_size: 1.0f
+			id: "38AD6284DF689258"
+			shape: "square"
+			size: 1.0d
+			tasks: [{
+				id: "3C755C0660EF2847"
+				item: "betterend:eternal_crystal"
+				type: "item"
+			}]
+			x: 3.25d
+			y: 2.5d
+		}
+		{
+			entity_vis_size: 1.0f
+			id: "46766F2398302C80"
+			size: 0.5d
+			tasks: [
+				{
+					id: "240ACB9888881E54"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"cold_sweat:item_insulation": {
+								Insulation: [ ]
+							}
+						}
+						id: "betterend:terminite_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "7979ADC0FC1AE843"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"cold_sweat:item_insulation": {
+								Insulation: [ ]
+							}
+						}
+						id: "betterend:terminite_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: 4.75d
+			y: 2.5d
+		}
+		{
+			disable_toast: true
+			entity_vis_size: 1.0f
+			id: "6F20C55DD714023E"
+			size: 0.5d
+			tasks: [{
+				id: "21EE36ACCC38F81C"
+				item: "betterend:amber_gem"
+				type: "item"
+			}]
+			x: 4.75d
+			y: 1.75d
+		}
+		{
+			disable_toast: true
+			entity_vis_size: 1.0f
+			id: "20F672F01DA2C09F"
+			size: 0.5d
+			tasks: [{
+				id: "503E77846157BFF3"
+				item: "betterend:crystal_shards"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 2.5d
+		}
+		{
+			disable_toast: true
+			entity_vis_size: 1.0f
+			id: "028238EE14FDE7DB"
+			size: 0.5d
+			tasks: [{
+				id: "10993AAB846FFC42"
+				item: "betterend:crystal_shards"
+				type: "item"
+			}]
+			x: 5.5d
+			y: 2.5d
+		}
+		{
+			entity_vis_size: 1.0f
+			id: "775009631DB5EBD7"
+			size: 0.5d
+			tasks: [{
+				id: "0A0985A1D268E8E3"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"cold_sweat:item_insulation": {
+							Insulation: [ ]
+						}
+					}
+					id: "betterend:terminite_leggings"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 8.25d
+			y: 2.5d
+		}
+		{
+			disable_toast: true
+			entity_vis_size: 1.0f
+			id: "694A9BBA829D1773"
+			size: 0.5d
+			tasks: [{
+				id: "73B20CF843CA8CE2"
+				item: "betterend:amber_gem"
+				type: "item"
+			}]
+			x: 8.25d
+			y: 1.75d
+		}
+		{
+			disable_toast: true
+			entity_vis_size: 1.0f
+			id: "1D2CD6C0CB764AFB"
+			size: 0.5d
+			tasks: [{
+				id: "4727F443BD72431A"
+				item: "betterend:crystal_shards"
+				type: "item"
+			}]
+			x: 7.5d
+			y: 2.5d
+		}
+		{
+			disable_toast: true
+			entity_vis_size: 1.0f
+			id: "308AAF5D4FEDDA05"
+			size: 0.5d
+			tasks: [{
+				id: "352BD7F8584CCF6A"
+				item: "betterend:crystal_shards"
+				type: "item"
+			}]
+			x: 9.0d
+			y: 2.5d
+		}
+		{
+			disable_toast: true
+			entity_vis_size: 1.0f
+			id: "2ABD728BC21515CC"
+			size: 0.5d
+			tasks: [{
+				id: "5610B6F993F12D5E"
+				item: "betterend:crystal_shards"
+				type: "item"
+			}]
+			x: 8.25d
+			y: 3.25d
+		}
+		{
+			entity_vis_size: 1.0f
+			id: "2C97FC7F5A65EE72"
+			size: 0.5d
+			tasks: [{
+				id: "2BA77E01EF5822B0"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"cold_sweat:item_insulation": {
+							Insulation: [ ]
+						}
+					}
+					id: "betterend:terminite_chestplate"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 5.0d
+			y: 5.25d
+		}
+		{
+			disable_toast: true
+			entity_vis_size: 1.0f
+			id: "51CB1C75F3F7B2BC"
+			size: 0.5d
+			tasks: [{
+				id: "15E98209407DD956"
+				item: "betterend:amber_gem"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 4.5d
+		}
+		{
+			disable_toast: true
+			entity_vis_size: 1.0f
+			id: "5D1FDBC84E3E7B5C"
+			size: 0.5d
+			tasks: [{
+				id: "2546B8CC156E86E6"
+				item: "betterend:crystal_shards"
+				type: "item"
+			}]
+			x: 5.5d
+			y: 4.75d
+		}
+		{
+			disable_toast: true
+			entity_vis_size: 1.0f
+			id: "2B49F327D4F352B8"
+			size: 0.5d
+			tasks: [{
+				id: "1B6D2C166327F828"
+				item: "betterend:crystal_shards"
+				type: "item"
+			}]
+			x: 4.5d
+			y: 4.75d
+		}
+		{
+			disable_toast: true
+			entity_vis_size: 1.0f
+			id: "6368AF520FE71D2B"
+			size: 0.5d
+			tasks: [{
+				id: "151FF3562DF017A7"
+				item: "betterend:crystal_shards"
+				type: "item"
+			}]
+			x: 4.5d
+			y: 5.75d
+		}
+		{
+			disable_toast: true
+			entity_vis_size: 1.0f
+			id: "0212BA28AF2AF9A9"
+			size: 0.5d
+			tasks: [{
+				id: "1857990AE4A14D3D"
+				item: "betterend:crystal_shards"
+				type: "item"
+			}]
+			x: 5.5d
+			y: 5.75d
+		}
+		{
+			entity_vis_size: 1.0f
+			id: "7476EADA91C4C7D6"
+			size: 0.5d
+			tasks: [{
+				id: "10B024072B76B916"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"cold_sweat:item_insulation": {
+							Insulation: [ ]
+						}
+					}
+					id: "minecraft:elytra"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 8.25d
+			y: 5.25d
+		}
+		{
+			disable_toast: true
+			entity_vis_size: 1.0f
+			id: "367B4FCE8BD6DEBE"
+			size: 0.5d
+			tasks: [{
+				id: "3C372D0B9EC21D87"
+				item: "betterend:amber_gem"
+				type: "item"
+			}]
+			x: 8.25d
+			y: 4.5d
+		}
+		{
+			disable_toast: true
+			entity_vis_size: 1.0f
+			id: "03A60A810CADB1C9"
+			size: 0.5d
+			tasks: [{
+				id: "1DE2754B399B0669"
+				item: "betterend:crystal_shards"
+				type: "item"
+			}]
+			x: 7.75d
+			y: 4.75d
+		}
+		{
+			disable_toast: true
+			entity_vis_size: 1.0f
+			id: "41172B3CAF49FDDC"
+			size: 0.5d
+			tasks: [{
+				id: "790E17F9190B5506"
+				item: "betterend:crystal_shards"
+				type: "item"
+			}]
+			x: 8.75d
+			y: 4.75d
+		}
+		{
+			disable_toast: true
+			entity_vis_size: 1.0f
+			id: "59A25DB52BBAEA79"
+			size: 0.5d
+			tasks: [{
+				id: "07F939ECE44AF0F5"
+				item: "betterend:crystal_shards"
+				type: "item"
+			}]
+			x: 7.75d
+			y: 5.75d
+		}
+		{
+			disable_toast: true
+			entity_vis_size: 1.0f
+			id: "51664F271059127B"
+			size: 0.5d
+			tasks: [{
+				id: "0C7E6F0F69C823BA"
+				item: "betterend:crystal_shards"
+				type: "item"
+			}]
+			x: 8.75d
+			y: 5.75d
+		}
+		{
+			disable_toast: true
+			entity_vis_size: 1.0f
+			id: "17A10961F6F7DFDB"
+			size: 0.5d
+			tasks: [{
+				id: "5B9A3654257B291A"
+				item: "betterend:enchanted_membrane"
+				type: "item"
+			}]
+			x: 7.5d
+			y: 5.25d
+		}
+		{
+			disable_toast: true
+			entity_vis_size: 1.0f
+			id: "71746D244E33DA50"
+			size: 0.5d
+			tasks: [{
+				id: "179AFE350C6CE223"
+				item: "betterend:enchanted_membrane"
+				type: "item"
+			}]
+			x: 9.0d
+			y: 5.25d
+		}
+		{
+			disable_toast: true
+			entity_vis_size: 1.0f
+			id: "65FD24C88C9A2FCC"
+			size: 0.5d
+			tasks: [{
+				id: "28E4C387D8B893EA"
+				item: "betterend:enchanted_membrane"
+				type: "item"
+			}]
+			x: 8.25d
+			y: 6.0d
+		}
+		{
+			entity_vis_size: 1.0f
+			id: "64182CB89B77DDC9"
+			shape: "square"
+			size: 1.0d
+			tasks: [
+				{
+					id: "6901DB7B62EA623A"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"cold_sweat:item_insulation": {
+								Insulation: [ ]
+							}
+						}
+						id: "betterend:crystalite_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "23020AD55ABA1580"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"cold_sweat:item_insulation": {
+								Insulation: [ ]
+							}
+						}
+						id: "betterend:crystalite_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: 6.5d
+			y: 2.5d
+		}
+		{
+			entity_vis_size: 1.0f
+			id: "329CF401CD8BEDC7"
+			shape: "square"
+			size: 1.0d
+			tasks: [{
+				id: "2B58FAC9BA4E8A54"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"cold_sweat:item_insulation": {
+							Insulation: [ ]
+						}
+					}
+					id: "betterend:crystalite_chestplate"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 6.5d
+			y: 5.25d
+		}
+		{
+			entity_vis_size: 1.0f
+			id: "5B40A346A40C7341"
+			shape: "square"
+			size: 1.0d
+			tasks: [{
+				id: "7EF566C0FC5299E9"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"cold_sweat:item_insulation": {
+							Insulation: [ ]
+						}
+					}
+					id: "betterend:crystalite_leggings"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 10.0d
+			y: 2.5d
+		}
+		{
+			entity_vis_size: 1.0f
+			id: "352A726DCD7218F7"
+			shape: "square"
+			size: 1.0d
+			tasks: [{
+				id: "5CD710A48F293CCF"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"cold_sweat:item_insulation": {
+							Insulation: [ ]
+						}
+					}
+					id: "betterend:elytra_crystalite"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 10.0d
+			y: 5.25d
+		}
+		{
+			entity_vis_size: 1.0f
+			id: "001AB72703DEEB47"
+			size: 0.5d
+			tasks: [{
+				id: "683A6F36F9DB0F61"
+				item: "minecraft:phantom_membrane"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 5.25d
+		}
+		{
+			disable_toast: true
+			entity_vis_size: 1.0f
+			id: "539D2656B066A477"
+			size: 0.5d
+			tasks: [{
+				id: "60EC134E60D584E2"
+				item: "betterend:crystal_shards"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 4.5d
+		}
+		{
+			disable_toast: true
+			entity_vis_size: 1.0f
+			id: "738A930A4227623B"
+			size: 0.5d
+			tasks: [{
+				id: "3E5A53AF7937F8C7"
+				item: "betterend:crystal_shards"
+				type: "item"
+			}]
+			x: 0.75d
+			y: 5.25d
+		}
+		{
+			disable_toast: true
+			entity_vis_size: 1.0f
+			id: "5F3E0CC5BBF0C244"
+			size: 0.5d
+			tasks: [{
+				id: "195AA29DB3E17811"
+				item: "betterend:crystal_shards"
+				type: "item"
+			}]
+			x: 2.25d
+			y: 5.25d
+		}
+		{
+			disable_toast: true
+			entity_vis_size: 1.0f
+			id: "01682239D398310D"
+			size: 0.5d
+			tasks: [{
+				id: "29A0F189F17CB261"
+				item: "betterend:crystal_shards"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 6.0d
+		}
+		{
+			entity_vis_size: 1.0f
+			id: "700EFF46AE0A9E73"
+			shape: "square"
+			size: 1.0d
+			tasks: [{
+				id: "7EA525E81EDB53CD"
+				item: "betterend:enchanted_membrane"
+				type: "item"
+			}]
+			x: 3.25d
+			y: 5.25d
+		}
+		{
+			dependencies: ["402346E2288D77CE"]
+			description: [
+				"Sử dụng lò luyện đá cuối &b&r"
+				"{image:ftbteams:textures/aaaaabb.png width:100 height:50 align:1}"
+			]
+			entity_vis_size: 1.0f
+			id: "109C193966FB3693"
+			tasks: [{
+				id: "298AA3A94DE7B237"
+				item: "betterend:terminite_ingot"
+				type: "item"
+			}]
+			x: 2.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["04251AC10131401F"]
+			description: [
+				"Sử dụng đe vàng &b &r hoặc đe cấp cao hơn"
+				"Búa rèn sắt &e &r trở lên có thể đập vỡ các mảnh ender"
+				"{image:ftbteams:textures/abab.png width:100 height:40 align:1}"
+				""
+				"&e búa rèn netherite &r trở lên có thể đập vỡ ngọc trai ender"
+				"{image:ftbteams:textures/aaabbbd.png width:100 height:40 align:1}"
+			]
+			entity_vis_size: 1.0f
+			id: "402346E2288D77CE"
+			tasks: [{
+				id: "25015D8BCF628026"
+				item: "betterend:ender_dust"
+				type: "item"
+			}]
+			x: 1.0d
+			y: -0.5d
+		}
+	]
+	title: "Một kết thúc tốt hơn"
+}

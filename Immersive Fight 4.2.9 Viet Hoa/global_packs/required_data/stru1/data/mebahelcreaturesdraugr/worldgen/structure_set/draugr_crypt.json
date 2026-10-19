@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "mebahelcreaturesdraugr:draugr_crypt",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 469872378,
+    "spacing": 74,
+    "separation": 50
+  }
+}

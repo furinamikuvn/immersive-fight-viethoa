@@ -1,0 +1,937 @@
+{
+  "itemGroup.valhelsia_structures_main": {
+    "en": null,
+    "zh": "Valhelsia丨结构",
+    "vi": "Valhelsia | Cấu trúc"
+  },
+  "block.valhelsia_structures.special_spawner": {
+    "en": "Special Spawner",
+    "zh": "特殊刷怪笼",
+    "vi": "Special Spawner"
+  },
+  "block.valhelsia_structures.brazier": {
+    "en": "Brazier",
+    "zh": "火盆",
+    "vi": "Brazier"
+  },
+  "block.valhelsia_structures.soul_brazier": {
+    "en": "Soul Brazier",
+    "zh": "灵魂火盆",
+    "vi": "Soul Brazier"
+  },
+  "block.valhelsia_structures.oak_post": {
+    "en": "Oak Post",
+    "zh": "橡木桩",
+    "vi": "Oak Post"
+  },
+  "block.valhelsia_structures.spruce_post": {
+    "en": "Spruce Post",
+    "zh": "云杉木桩",
+    "vi": "Spruce Post"
+  },
+  "block.valhelsia_structures.birch_post": {
+    "en": "Birch Post",
+    "zh": "白桦木桩",
+    "vi": "Birch Post"
+  },
+  "block.valhelsia_structures.jungle_post": {
+    "en": "Jungle Post",
+    "zh": "丛林木桩",
+    "vi": "Jungle Post"
+  },
+  "block.valhelsia_structures.acacia_post": {
+    "en": "Acacia Post",
+    "zh": "金合欢木桩",
+    "vi": "Acacia Post"
+  },
+  "block.valhelsia_structures.dark_oak_post": {
+    "en": "Dark Oak Post",
+    "zh": "深色橡木桩",
+    "vi": "Dark Oak Post"
+  },
+  "block.valhelsia_structures.warped_post": {
+    "en": "Warped Post",
+    "zh": "扭曲木桩",
+    "vi": "Warped Post"
+  },
+  "block.valhelsia_structures.crimson_post": {
+    "en": "Crimson Post",
+    "zh": "绯红木桩",
+    "vi": "Crimson Post"
+  },
+  "block.valhelsia_structures.lapidified_jungle_post": {
+    "en": "Lapidified Jungle Post",
+    "zh": "石化丛林木桩",
+    "vi": "Lapidified Jungle Post"
+  },
+  "block.valhelsia_structures.stripped_oak_post": {
+    "en": "Stripped Oak Post",
+    "zh": "去皮橡木桩",
+    "vi": "Stripped Oak Post"
+  },
+  "block.valhelsia_structures.stripped_spruce_post": {
+    "en": "Stripped Spruce Post",
+    "zh": "去皮云杉木桩",
+    "vi": "Stripped Spruce Post"
+  },
+  "block.valhelsia_structures.stripped_birch_post": {
+    "en": "Stripped Birch Post",
+    "zh": "去皮白桦木桩",
+    "vi": "Stripped Birch Post"
+  },
+  "block.valhelsia_structures.stripped_jungle_post": {
+    "en": "Stripped Jungle Post",
+    "zh": "去皮丛林木桩",
+    "vi": "Stripped Jungle Post"
+  },
+  "block.valhelsia_structures.stripped_acacia_post": {
+    "en": "Stripped Acacia Post",
+    "zh": "去皮金合欢木桩",
+    "vi": "Stripped Acacia Post"
+  },
+  "block.valhelsia_structures.stripped_dark_oak_post": {
+    "en": "Stripped Dark Oak Post",
+    "zh": "去皮深色橡木桩",
+    "vi": "Stripped Dark Oak Post"
+  },
+  "block.valhelsia_structures.stripped_warped_post": {
+    "en": "Stripped Warped Post",
+    "zh": "去皮诡异木桩",
+    "vi": "Stripped Warped Post"
+  },
+  "block.valhelsia_structures.stripped_crimson_post": {
+    "en": "Stripped Crimson Post",
+    "zh": "去皮绯红木桩",
+    "vi": "Stripped Crimson Post"
+  },
+  "block.valhelsia_structures.stripped_lapidified_jungle_post": {
+    "en": "Stripped Lapidified Jungle Post",
+    "zh": "去皮石化丛林木桩",
+    "vi": "Stripped Lapidified Jungle Post"
+  },
+  "block.valhelsia_structures.cut_oak_post": {
+    "en": "Cut Oak Post",
+    "zh": "切制橡木桩",
+    "vi": "Cut Oak Post"
+  },
+  "block.valhelsia_structures.cut_spruce_post": {
+    "en": "Cut Spruce Post",
+    "zh": "切制云杉木桩",
+    "vi": "Cut Spruce Post"
+  },
+  "block.valhelsia_structures.cut_birch_post": {
+    "en": "Cut Birch Post",
+    "zh": "切制白桦木桩",
+    "vi": "Cut Birch Post"
+  },
+  "block.valhelsia_structures.cut_jungle_post": {
+    "en": "Cut Jungle Post",
+    "zh": "切制丛林木桩",
+    "vi": "Cut Jungle Post"
+  },
+  "block.valhelsia_structures.cut_acacia_post": {
+    "en": "Cut Acacia Post",
+    "zh": "切制金合欢木桩",
+    "vi": "Cut Acacia Post"
+  },
+  "block.valhelsia_structures.cut_dark_oak_post": {
+    "en": "Cut Dark Oak Post",
+    "zh": "切制深色橡木桩",
+    "vi": "Cut Dark Oak Post"
+  },
+  "block.valhelsia_structures.cut_warped_post": {
+    "en": "Cut Warped Post",
+    "zh": "切制扭曲木桩",
+    "vi": "Cut Warped Post"
+  },
+  "block.valhelsia_structures.cut_crimson_post": {
+    "en": "Cut Crimson Post",
+    "zh": "切制绯红木桩",
+    "vi": "Cut Crimson Post"
+  },
+  "block.valhelsia_structures.cut_lapidified_jungle_post": {
+    "en": "Cut Lapidified Jungle Post",
+    "zh": "切制石化丛林木桩",
+    "vi": "Cut Lapidified Jungle Post"
+  },
+  "block.valhelsia_structures.cut_stripped_oak_post": {
+    "en": "Cut Stripped Oak Post",
+    "zh": "切制去皮橡木桩",
+    "vi": "Cut Stripped Oak Post"
+  },
+  "block.valhelsia_structures.cut_stripped_spruce_post": {
+    "en": "Cut Stripped Spruce Post",
+    "zh": "切制去皮云杉木桩",
+    "vi": "Cut Stripped Spruce Post"
+  },
+  "block.valhelsia_structures.cut_stripped_birch_post": {
+    "en": "Cut Stripped Birch Post",
+    "zh": "切制去皮白桦木桩",
+    "vi": "Cut Stripped Birch Post"
+  },
+  "block.valhelsia_structures.cut_stripped_jungle_post": {
+    "en": "Cut Stripped Jungle Post",
+    "zh": "切制去皮丛林木桩",
+    "vi": "Cut Stripped Jungle Post"
+  },
+  "block.valhelsia_structures.cut_stripped_acacia_post": {
+    "en": "Cut Stripped Acacia Post",
+    "zh": "切制去皮金合欢木桩",
+    "vi": "Cut Stripped Acacia Post"
+  },
+  "block.valhelsia_structures.cut_stripped_dark_oak_post": {
+    "en": "Cut Stripped Dark Oak Post",
+    "zh": "切制去皮深色橡木桩",
+    "vi": "Cut Stripped Dark Oak Post"
+  },
+  "block.valhelsia_structures.cut_stripped_warped_post": {
+    "en": "Cut Stripped Warped Post",
+    "zh": "切制去皮诡异木桩",
+    "vi": "Cut Stripped Warped Post"
+  },
+  "block.valhelsia_structures.cut_stripped_crimson_post": {
+    "en": "Cut Stripped Crimson Post",
+    "zh": "切制去皮绯红木桩",
+    "vi": "Cut Stripped Crimson Post"
+  },
+  "block.valhelsia_structures.cut_stripped_lapidified_jungle_post": {
+    "en": "Cut Stripped Lapidified Jungle Post",
+    "zh": "切制去皮石化丛林木桩",
+    "vi": "Cut Stripped Lapidified Jungle Post"
+  },
+  "block.valhelsia_structures.bundled_oak_posts": {
+    "en": "Bundled Oak Posts",
+    "zh": "橡木桩捆",
+    "vi": "Bundled Oak Posts"
+  },
+  "block.valhelsia_structures.bundled_spruce_posts": {
+    "en": "Bundled Spruce Posts",
+    "zh": "云杉木桩捆",
+    "vi": "Bundled Spruce Posts"
+  },
+  "block.valhelsia_structures.bundled_birch_posts": {
+    "en": "Bundled Birch Posts",
+    "zh": "白桦木桩捆",
+    "vi": "Bundled Birch Posts"
+  },
+  "block.valhelsia_structures.bundled_jungle_posts": {
+    "en": "Bundled Jungle Posts",
+    "zh": "丛林木桩捆",
+    "vi": "Bundled Jungle Posts"
+  },
+  "block.valhelsia_structures.bundled_acacia_posts": {
+    "en": "Bundled Acacia Posts",
+    "zh": "金合欢木桩捆",
+    "vi": "Bundled Acacia Posts"
+  },
+  "block.valhelsia_structures.bundled_dark_oak_posts": {
+    "en": "Bundled Dark Oak Posts",
+    "zh": "深色橡木桩捆",
+    "vi": "Bundled Dark Oak Posts"
+  },
+  "block.valhelsia_structures.bundled_crimson_posts": {
+    "en": "Bundled Crimson Posts",
+    "zh": "绯红木桩捆",
+    "vi": "Bundled Crimson Posts"
+  },
+  "block.valhelsia_structures.bundled_warped_posts": {
+    "en": "Bundled Warped Posts",
+    "zh": "诡异木桩捆",
+    "vi": "Bundled Warped Posts"
+  },
+  "block.valhelsia_structures.bundled_stripped_oak_posts": {
+    "en": "Bundled Stripped Oak Posts",
+    "zh": "去皮橡木桩捆",
+    "vi": "Bundled Stripped Oak Posts"
+  },
+  "block.valhelsia_structures.bundled_stripped_spruce_posts": {
+    "en": "Bundled Stripped Spruce Posts",
+    "zh": "去皮云杉木桩捆",
+    "vi": "Bundled Stripped Spruce Posts"
+  },
+  "block.valhelsia_structures.bundled_stripped_birch_posts": {
+    "en": "Bundled Stripped Birch Posts",
+    "zh": "去皮白桦木桩捆",
+    "vi": "Bundled Stripped Birch Posts"
+  },
+  "block.valhelsia_structures.bundled_stripped_jungle_posts": {
+    "en": "Bundled Stripped Jungle Posts",
+    "zh": "去皮丛林木桩捆",
+    "vi": "Bundled Stripped Jungle Posts"
+  },
+  "block.valhelsia_structures.bundled_stripped_acacia_posts": {
+    "en": "Bundled Stripped Acacia Posts",
+    "zh": "去皮金合欢木桩捆",
+    "vi": "Bundled Stripped Acacia Posts"
+  },
+  "block.valhelsia_structures.bundled_stripped_dark_oak_posts": {
+    "en": "Bundled Stripped Dark Oak Posts",
+    "zh": "去皮深色橡木桩捆",
+    "vi": "Bundled Stripped Dark Oak Posts"
+  },
+  "block.valhelsia_structures.bundled_stripped_crimson_posts": {
+    "en": "Bundled Stripped Crimson Posts",
+    "zh": "去皮绯红木桩捆",
+    "vi": "Bundled Stripped Crimson Posts"
+  },
+  "block.valhelsia_structures.bundled_stripped_warped_posts": {
+    "en": "Bundled Stripped Warped Posts",
+    "zh": "去皮诡异木桩捆",
+    "vi": "Bundled Stripped Warped Posts"
+  },
+  "block.valhelsia_structures.metal_framed_glass": {
+    "en": "Metal Framed Glass",
+    "zh": "金属镶框玻璃",
+    "vi": "Metal Framed Glass"
+  },
+  "block.valhelsia_structures.metal_framed_glass_pane": {
+    "en": "Metal Framed Glass Pane",
+    "zh": "金属镶框玻璃板",
+    "vi": "Metal Framed Glass Pane"
+  },
+  "block.valhelsia_structures.white_metal_framed_glass": {
+    "en": "White Metal Framed Glass",
+    "zh": "白色金属镶框玻璃",
+    "vi": "White Metal Framed Glass"
+  },
+  "block.valhelsia_structures.orange_metal_framed_glass": {
+    "en": "Orange Metal Framed Glass",
+    "zh": "橙色金属镶框玻璃",
+    "vi": "Orange Metal Framed Glass"
+  },
+  "block.valhelsia_structures.magenta_metal_framed_glass": {
+    "en": "Magenta Metal Framed Glass",
+    "zh": "品红色金属镶框玻璃",
+    "vi": "Magenta Metal Framed Glass"
+  },
+  "block.valhelsia_structures.light_blue_metal_framed_glass": {
+    "en": "Light Blue Metal Framed Glass",
+    "zh": "淡蓝色金属镶框玻璃",
+    "vi": "Light Blue Metal Framed Glass"
+  },
+  "block.valhelsia_structures.yellow_metal_framed_glass": {
+    "en": "Yellow Metal Framed Glass",
+    "zh": "黄色金属镶框玻璃",
+    "vi": "Yellow Metal Framed Glass"
+  },
+  "block.valhelsia_structures.lime_metal_framed_glass": {
+    "en": "Lime Metal Framed Glass",
+    "zh": "黄绿色金属镶框玻璃",
+    "vi": "Lime Metal Framed Glass"
+  },
+  "block.valhelsia_structures.pink_metal_framed_glass": {
+    "en": "Pink Metal Framed Glass",
+    "zh": "粉红色金属镶框玻璃",
+    "vi": "Pink Metal Framed Glass"
+  },
+  "block.valhelsia_structures.gray_metal_framed_glass": {
+    "en": "Gray Metal Framed Glass",
+    "zh": "灰色金属镶框玻璃",
+    "vi": "Gray Metal Framed Glass"
+  },
+  "block.valhelsia_structures.light_gray_metal_framed_glass": {
+    "en": "Light Gray Metal Framed Glass",
+    "zh": "淡灰色金属镶框玻璃",
+    "vi": "Light Gray Metal Framed Glass"
+  },
+  "block.valhelsia_structures.cyan_metal_framed_glass": {
+    "en": "Cyan Metal Framed Glass",
+    "zh": "青色金属镶框玻璃",
+    "vi": "Cyan Metal Framed Glass"
+  },
+  "block.valhelsia_structures.purple_metal_framed_glass": {
+    "en": "Purple Metal Framed Glass",
+    "zh": "紫色金属镶框玻璃",
+    "vi": "Purple Metal Framed Glass"
+  },
+  "block.valhelsia_structures.blue_metal_framed_glass": {
+    "en": "Blue Metal Framed Glass",
+    "zh": "蓝色金属镶框玻璃",
+    "vi": "Blue Metal Framed Glass"
+  },
+  "block.valhelsia_structures.brown_metal_framed_glass": {
+    "en": "Brown Metal Framed Glass",
+    "zh": "棕色金属镶框玻璃",
+    "vi": "Brown Metal Framed Glass"
+  },
+  "block.valhelsia_structures.green_metal_framed_glass": {
+    "en": "Green Metal Framed Glass",
+    "zh": "绿色金属镶框玻璃",
+    "vi": "Green Metal Framed Glass"
+  },
+  "block.valhelsia_structures.red_metal_framed_glass": {
+    "en": "Red Metal Framed Glass",
+    "zh": "红色金属镶框玻璃",
+    "vi": "Red Metal Framed Glass"
+  },
+  "block.valhelsia_structures.black_metal_framed_glass": {
+    "en": "Black Metal Framed Glass",
+    "zh": "黑色金属镶框玻璃",
+    "vi": "Black Metal Framed Glass"
+  },
+  "block.valhelsia_structures.white_metal_framed_glass_pane": {
+    "en": "White Metal Framed Glass Pane",
+    "zh": "白色金属镶框玻璃板",
+    "vi": "White Metal Framed Glass Pane"
+  },
+  "block.valhelsia_structures.orange_metal_framed_glass_pane": {
+    "en": "Orange Metal Framed Glass Pane",
+    "zh": "橙色金属镶框玻璃板",
+    "vi": "Orange Metal Framed Glass Pane"
+  },
+  "block.valhelsia_structures.magenta_metal_framed_glass_pane": {
+    "en": "Magenta Metal Framed Glass Pane",
+    "zh": "品红色金属镶框玻璃板",
+    "vi": "Magenta Metal Framed Glass Pane"
+  },
+  "block.valhelsia_structures.light_blue_metal_framed_glass_pane": {
+    "en": "Light Blue Metal Framed Glass Pane",
+    "zh": "淡蓝色金属镶框玻璃板",
+    "vi": "Light Blue Metal Framed Glass Pane"
+  },
+  "block.valhelsia_structures.yellow_metal_framed_glass_pane": {
+    "en": "Yellow Metal Framed Glass Pane",
+    "zh": "黄色金属镶框玻璃板",
+    "vi": "Yellow Metal Framed Glass Pane"
+  },
+  "block.valhelsia_structures.lime_metal_framed_glass_pane": {
+    "en": "Lime Metal Framed Glass Pane",
+    "zh": "黄绿色金属镶框玻璃板",
+    "vi": "Lime Metal Framed Glass Pane"
+  },
+  "block.valhelsia_structures.pink_metal_framed_glass_pane": {
+    "en": "Pink Metal Framed Glass Pane",
+    "zh": "粉红色金属镶框玻璃板",
+    "vi": "Pink Metal Framed Glass Pane"
+  },
+  "block.valhelsia_structures.gray_metal_framed_glass_pane": {
+    "en": "Gray Metal Framed Glass Pane",
+    "zh": "灰色金属镶框玻璃板",
+    "vi": "Gray Metal Framed Glass Pane"
+  },
+  "block.valhelsia_structures.light_gray_metal_framed_glass_pane": {
+    "en": "Light Gray Metal Framed Glass Pane",
+    "zh": "淡灰色金属镶框玻璃板",
+    "vi": "Light Gray Metal Framed Glass Pane"
+  },
+  "block.valhelsia_structures.cyan_metal_framed_glass_pane": {
+    "en": "Cyan Metal Framed Glass Pane",
+    "zh": "青色金属镶框玻璃板",
+    "vi": "Cyan Metal Framed Glass Pane"
+  },
+  "block.valhelsia_structures.purple_metal_framed_glass_pane": {
+    "en": "Purple Metal Framed Glass Pane",
+    "zh": "紫色金属镶框玻璃板",
+    "vi": "Purple Metal Framed Glass Pane"
+  },
+  "block.valhelsia_structures.blue_metal_framed_glass_pane": {
+    "en": "Blue Metal Framed Glass Pane",
+    "zh": "蓝色金属镶框玻璃板",
+    "vi": "Blue Metal Framed Glass Pane"
+  },
+  "block.valhelsia_structures.brown_metal_framed_glass_pane": {
+    "en": "Brown Metal Framed Glass Pane",
+    "zh": "棕色金属镶框玻璃板",
+    "vi": "Brown Metal Framed Glass Pane"
+  },
+  "block.valhelsia_structures.green_metal_framed_glass_pane": {
+    "en": "Green Metal Framed Glass Pane",
+    "zh": "绿色金属镶框玻璃板",
+    "vi": "Green Metal Framed Glass Pane"
+  },
+  "block.valhelsia_structures.red_metal_framed_glass_pane": {
+    "en": "Red Metal Framed Glass Pane",
+    "zh": "红色金属镶框玻璃板",
+    "vi": "Red Metal Framed Glass Pane"
+  },
+  "block.valhelsia_structures.black_metal_framed_glass_pane": {
+    "en": "Black Metal Framed Glass Pane",
+    "zh": "黑色金属镶框玻璃板",
+    "vi": "Black Metal Framed Glass Pane"
+  },
+  "block.valhelsia_structures.paper_wall": {
+    "en": "Paper Wall",
+    "zh": "纸墙",
+    "vi": "Paper Wall"
+  },
+  "block.valhelsia_structures.hanging_vines": {
+    "en": "Hanging Vines",
+    "zh": "垂藤",
+    "vi": "Hanging Vines"
+  },
+  "block.valhelsia_structures.glazed_jar": {
+    "en": "Glazed Jar",
+    "zh": "带釉陶罐",
+    "vi": "Glazed Jar"
+  },
+  "block.valhelsia_structures.cracked_glazed_jar": {
+    "en": "Cracked Glazed Jar",
+    "zh": "裂纹带釉陶罐",
+    "vi": "Cracked Glazed Jar"
+  },
+  "block.valhelsia_structures.white_glazed_jar": {
+    "en": "White Glazed Jar",
+    "zh": "白色带釉陶罐",
+    "vi": "White Glazed Jar"
+  },
+  "block.valhelsia_structures.orange_glazed_jar": {
+    "en": "Orange Glazed Jar",
+    "zh": "橙色带釉陶罐",
+    "vi": "Orange Glazed Jar"
+  },
+  "block.valhelsia_structures.magenta_glazed_jar": {
+    "en": "Magenta Glazed Jar",
+    "zh": "品红色带釉陶罐",
+    "vi": "Magenta Glazed Jar"
+  },
+  "block.valhelsia_structures.light_blue_glazed_jar": {
+    "en": "Light Blue Glazed Jar",
+    "zh": "淡蓝色带釉陶罐",
+    "vi": "Light Blue Glazed Jar"
+  },
+  "block.valhelsia_structures.yellow_glazed_jar": {
+    "en": "Yellow Glazed Jar",
+    "zh": "黄色带釉陶罐",
+    "vi": "Yellow Glazed Jar"
+  },
+  "block.valhelsia_structures.lime_glazed_jar": {
+    "en": "Lime Glazed Jar",
+    "zh": "黄绿色带釉陶罐",
+    "vi": "Lime Glazed Jar"
+  },
+  "block.valhelsia_structures.pink_glazed_jar": {
+    "en": "Pink Glazed Jar",
+    "zh": "粉红色带釉陶罐",
+    "vi": "Pink Glazed Jar"
+  },
+  "block.valhelsia_structures.gray_glazed_jar": {
+    "en": "Gray Glazed Jar",
+    "zh": "灰色带釉陶罐",
+    "vi": "Gray Glazed Jar"
+  },
+  "block.valhelsia_structures.light_gray_glazed_jar": {
+    "en": "Light Gray Glazed Jar",
+    "zh": "淡灰色带釉陶罐",
+    "vi": "Light Gray Glazed Jar"
+  },
+  "block.valhelsia_structures.cyan_glazed_jar": {
+    "en": "Cyan Glazed Jar",
+    "zh": "青色带釉陶罐",
+    "vi": "Cyan Glazed Jar"
+  },
+  "block.valhelsia_structures.purple_glazed_jar": {
+    "en": "Purple Glazed Jar",
+    "zh": "紫色带釉陶罐",
+    "vi": "Purple Glazed Jar"
+  },
+  "block.valhelsia_structures.blue_glazed_jar": {
+    "en": "Blue Glazed Jar",
+    "zh": "蓝色带釉陶罐",
+    "vi": "Blue Glazed Jar"
+  },
+  "block.valhelsia_structures.brown_glazed_jar": {
+    "en": "Brown Glazed Jar",
+    "zh": "棕色带釉陶罐",
+    "vi": "Brown Glazed Jar"
+  },
+  "block.valhelsia_structures.green_glazed_jar": {
+    "en": "Green Glazed Jar",
+    "zh": "绿色带釉陶罐",
+    "vi": "Green Glazed Jar"
+  },
+  "block.valhelsia_structures.red_glazed_jar": {
+    "en": "Red Glazed Jar",
+    "zh": "红色带釉陶罐",
+    "vi": "Red Glazed Jar"
+  },
+  "block.valhelsia_structures.black_glazed_jar": {
+    "en": "Black Glazed Jar",
+    "zh": "黑色带釉陶罐",
+    "vi": "Black Glazed Jar"
+  },
+  "block.valhelsia_structures.big_glazed_jar": {
+    "en": "Big Glazed Jar",
+    "zh": "大型带釉陶罐",
+    "vi": "Big Glazed Jar"
+  },
+  "block.valhelsia_structures.cracked_big_glazed_jar": {
+    "en": "Cracked Big Glazed Jar",
+    "zh": "大型裂纹带釉陶罐",
+    "vi": "Cracked Big Glazed Jar"
+  },
+  "block.valhelsia_structures.big_white_glazed_jar": {
+    "en": "Big White Glazed Jar",
+    "zh": "大型白色带釉陶罐",
+    "vi": "Big White Glazed Jar"
+  },
+  "block.valhelsia_structures.big_orange_glazed_jar": {
+    "en": "Big Orange Glazed Jar",
+    "zh": "大型橙色带釉陶罐",
+    "vi": "Big Orange Glazed Jar"
+  },
+  "block.valhelsia_structures.big_magenta_glazed_jar": {
+    "en": "Big Magenta Glazed Jar",
+    "zh": "大型品红色带釉陶罐",
+    "vi": "Big Magenta Glazed Jar"
+  },
+  "block.valhelsia_structures.big_light_blue_glazed_jar": {
+    "en": "Big Light Blue Glazed Jar",
+    "zh": "大型淡蓝色带釉陶罐",
+    "vi": "Big Light Blue Glazed Jar"
+  },
+  "block.valhelsia_structures.big_yellow_glazed_jar": {
+    "en": "Big Yellow Glazed Jar",
+    "zh": "大型黄色带釉陶罐",
+    "vi": "Big Yellow Glazed Jar"
+  },
+  "block.valhelsia_structures.big_lime_glazed_jar": {
+    "en": "Big Lime Glazed Jar",
+    "zh": "大型黄绿色带釉陶罐",
+    "vi": "Big Lime Glazed Jar"
+  },
+  "block.valhelsia_structures.big_pink_glazed_jar": {
+    "en": "Big Pink Glazed Jar",
+    "zh": "大型粉红色带釉陶罐",
+    "vi": "Big Pink Glazed Jar"
+  },
+  "block.valhelsia_structures.big_gray_glazed_jar": {
+    "en": "Big Gray Glazed Jar",
+    "zh": "大型灰色带釉陶罐",
+    "vi": "Big Gray Glazed Jar"
+  },
+  "block.valhelsia_structures.big_light_gray_glazed_jar": {
+    "en": "Big Light Gray Glazed Jar",
+    "zh": "大型淡灰色带釉陶罐",
+    "vi": "Big Light Gray Glazed Jar"
+  },
+  "block.valhelsia_structures.big_cyan_glazed_jar": {
+    "en": "Big Cyan Glazed Jar",
+    "zh": "大型青色带釉陶罐",
+    "vi": "Big Cyan Glazed Jar"
+  },
+  "block.valhelsia_structures.big_purple_glazed_jar": {
+    "en": "Big Purple Glazed Jar",
+    "zh": "大型紫色带釉陶罐",
+    "vi": "Big Purple Glazed Jar"
+  },
+  "block.valhelsia_structures.big_blue_glazed_jar": {
+    "en": "Big Blue Glazed Jar",
+    "zh": "大型蓝色带釉陶罐",
+    "vi": "Big Blue Glazed Jar"
+  },
+  "block.valhelsia_structures.big_brown_glazed_jar": {
+    "en": "Big Brown Glazed Jar",
+    "zh": "大型棕色带釉陶罐",
+    "vi": "Big Brown Glazed Jar"
+  },
+  "block.valhelsia_structures.big_green_glazed_jar": {
+    "en": "Big Green Glazed Jar",
+    "zh": "大型绿色带釉陶罐",
+    "vi": "Big Green Glazed Jar"
+  },
+  "block.valhelsia_structures.big_red_glazed_jar": {
+    "en": "Big Red Glazed Jar",
+    "zh": "大型红色带釉陶罐",
+    "vi": "Big Red Glazed Jar"
+  },
+  "block.valhelsia_structures.big_black_glazed_jar": {
+    "en": "Big Black Glazed Jar",
+    "zh": "大型黑色带釉陶罐",
+    "vi": "Big Black Glazed Jar"
+  },
+  "block.valhelsia_structures.big_jar_top": {
+    "en": "Big Jar Top",
+    "zh": "大型陶罐顶部",
+    "vi": "Big Jar Top"
+  },
+  "block.valhelsia_structures.lapidified_jungle_log": {
+    "en": "Lapidified Jungle Log",
+    "zh": "石化丛林原木",
+    "vi": "Lapidified Jungle Log"
+  },
+  "block.valhelsia_structures.lapidified_jungle_wood": {
+    "en": "Lapidified Jungle Wood",
+    "zh": "石化丛林木",
+    "vi": "Lapidified Jungle Wood"
+  },
+  "block.valhelsia_structures.lapidified_jungle_planks": {
+    "en": "Lapidified Jungle Planks",
+    "zh": "石化丛林木板",
+    "vi": "Lapidified Jungle Planks"
+  },
+  "block.valhelsia_structures.lapidified_jungle_slab": {
+    "en": "Lapidified Jungle Slab",
+    "zh": "石化丛林木台阶",
+    "vi": "Lapidified Jungle Slab"
+  },
+  "block.valhelsia_structures.lapidified_jungle_stairs": {
+    "en": "Lapidified Jungle Stairs",
+    "zh": "石化丛林木楼梯",
+    "vi": "Lapidified Jungle Stairs"
+  },
+  "block.valhelsia_structures.lapidified_jungle_pressure_plate": {
+    "en": "Lapidified Jungle Pressure Plate",
+    "zh": "石化丛林木压力板",
+    "vi": "Lapidified Jungle Pressure Plate"
+  },
+  "block.valhelsia_structures.lapidified_jungle_button": {
+    "en": "Lapidified Jungle Button",
+    "zh": "石化丛林木按钮",
+    "vi": "Lapidified Jungle Button"
+  },
+  "block.valhelsia_structures.lapidified_jungle_fence": {
+    "en": "Lapidified Jungle Fence",
+    "zh": "石化丛林木栅栏",
+    "vi": "Lapidified Jungle Fence"
+  },
+  "block.valhelsia_structures.lapidified_jungle_fence_gate": {
+    "en": "Lapidified Jungle Fence Gate",
+    "zh": "石化丛林木栅栏门",
+    "vi": "Lapidified Jungle Fence Gate"
+  },
+  "block.valhelsia_structures.explorers_tent": {
+    "en": "Explorer's Tent",
+    "zh": "探险家帐篷",
+    "vi": "Explorer's Tent"
+  },
+  "block.valhelsia_structures.hibiscus": {
+    "en": "Hibiscus",
+    "zh": "木槿",
+    "vi": "Hibiscus"
+  },
+  "block.valhelsia_structures.giant_fern": {
+    "en": "Giant Fern",
+    "zh": "巨型蕨",
+    "vi": "Giant Fern"
+  },
+  "block.valhelsia_structures.doused_torch": {
+    "en": "Doused Torch",
+    "zh": "熄灭的火把",
+    "vi": "Doused Torch"
+  },
+  "block.valhelsia_structures.doused_soul_torch": {
+    "en": "Doused Soul Torch",
+    "zh": "熄灭的灵魂火把",
+    "vi": "Doused Soul Torch"
+  },
+  "block.valhelsia_structures.dungeon_door": {
+    "en": "Dungeon Door",
+    "zh": "地牢门",
+    "vi": "Dungeon Door"
+  },
+  "block.valhelsia_structures.bone_pile": {
+    "en": "Bone Pile",
+    "zh": "骨堆",
+    "vi": "Bone Pile"
+  },
+  "block.valhelsia_structures.bone_pile_block": {
+    "en": "Bone Pile Block",
+    "zh": "骨堆块",
+    "vi": "Bone Pile Block"
+  },
+  "block.valhelsia_structures.unlit_lantern": {
+    "en": "Unlit Lantern",
+    "zh": "熄灭的灯笼",
+    "vi": "Unlit Lantern"
+  },
+  "block.valhelsia_structures.unlit_soul_lantern": {
+    "en": "Unlit Soul Lantern",
+    "zh": "熄灭的灵魂灯笼",
+    "vi": "Unlit Soul Lantern"
+  },
+  "block.valhelsia_structures.white_sleeping_bag": {
+    "en": "White Sleeping Bag",
+    "zh": "白色睡袋",
+    "vi": "White Sleeping Bag"
+  },
+  "block.valhelsia_structures.orange_sleeping_bag": {
+    "en": "Orange Sleeping Bag",
+    "zh": "橙色睡袋",
+    "vi": "Orange Sleeping Bag"
+  },
+  "block.valhelsia_structures.magenta_sleeping_bag": {
+    "en": "Magenta Sleeping Bag",
+    "zh": "品红色睡袋",
+    "vi": "Magenta Sleeping Bag"
+  },
+  "block.valhelsia_structures.light_blue_sleeping_bag": {
+    "en": "Light Blue Sleeping Bag",
+    "zh": "淡蓝色睡袋",
+    "vi": "Light Blue Sleeping Bag"
+  },
+  "block.valhelsia_structures.yellow_sleeping_bag": {
+    "en": "Yellow Sleeping Bag",
+    "zh": "黄色睡袋",
+    "vi": "Yellow Sleeping Bag"
+  },
+  "block.valhelsia_structures.lime_sleeping_bag": {
+    "en": "Lime Sleeping Bag",
+    "zh": "黄绿色睡袋",
+    "vi": "Lime Sleeping Bag"
+  },
+  "block.valhelsia_structures.pink_sleeping_bag": {
+    "en": "Pink Sleeping Bag",
+    "zh": "粉红色睡袋",
+    "vi": "Pink Sleeping Bag"
+  },
+  "block.valhelsia_structures.gray_sleeping_bag": {
+    "en": "Gray Sleeping Bag",
+    "zh": "灰色睡袋",
+    "vi": "Gray Sleeping Bag"
+  },
+  "block.valhelsia_structures.light_gray_sleeping_bag": {
+    "en": "Light Gray Sleeping Bag",
+    "zh": "淡灰色睡袋",
+    "vi": "Light Gray Sleeping Bag"
+  },
+  "block.valhelsia_structures.cyan_sleeping_bag": {
+    "en": "Cyan Sleeping Bag",
+    "zh": "青色睡袋",
+    "vi": "Cyan Sleeping Bag"
+  },
+  "block.valhelsia_structures.purple_sleeping_bag": {
+    "en": "Purple Sleeping Bag",
+    "zh": "紫色睡袋",
+    "vi": "Purple Sleeping Bag"
+  },
+  "block.valhelsia_structures.blue_sleeping_bag": {
+    "en": "Blue Sleeping Bag",
+    "zh": "蓝色睡袋",
+    "vi": "Blue Sleeping Bag"
+  },
+  "block.valhelsia_structures.brown_sleeping_bag": {
+    "en": "Brown Sleeping Bag",
+    "zh": "棕色睡袋",
+    "vi": "Brown Sleeping Bag"
+  },
+  "block.valhelsia_structures.green_sleeping_bag": {
+    "en": "Green Sleeping Bag",
+    "zh": "绿色睡袋",
+    "vi": "Green Sleeping Bag"
+  },
+  "block.valhelsia_structures.red_sleeping_bag": {
+    "en": "Red Sleeping Bag",
+    "zh": "红色睡袋",
+    "vi": "Red Sleeping Bag"
+  },
+  "block.valhelsia_structures.black_sleeping_bag": {
+    "en": "Black Sleeping Bag",
+    "zh": "黑色睡袋",
+    "vi": "Black Sleeping Bag"
+  },
+  "block.valhelsia_structures.sleeping_bag.occupied": {
+    "en": "This sleeping bag is occupied",
+    "zh": "这个睡袋已被占用",
+    "vi": "This sleeping bag is occupied"
+  },
+  "block.valhelsia_structures.sleeping_bag.obstructed": {
+    "en": "This sleeping bag is obstructed",
+    "zh": "这个睡袋已被阻挡",
+    "vi": "This sleeping bag is obstructed"
+  },
+  "block.valhelsia_structures.sleeping_bag.no_sleep": {
+    "en": "You can sleep only at night or during thunderstorms",
+    "zh": "你只能在夜间或雷暴中入眠",
+    "vi": "You can sleep only at night or during thunderstorms"
+  },
+  "block.valhelsia_structures.sleeping_bag.too_far_away": {
+    "en": "You may not rest now; the sleeping bag is too far away",
+    "zh": "你现在不能休息，睡袋离你太远",
+    "vi": "You may not rest now; the sleeping bag is too far away"
+  },
+  "block.valhelsia_structures.sleeping_bag.not_safe": {
+    "en": "You may not rest now; there are monsters nearby",
+    "zh": "你现在不能休息，周围有怪物在游荡",
+    "vi": "You may not rest now; there are monsters nearby"
+  },
+  "gui.valhelsia_structures.config.spacing_error": {
+    "en": "The Spacing Value of the Structure needs to be greater than the Separation Value!",
+    "zh": "结构的间距值需要大于分隔值！",
+    "vi": "Giá trị khoảng cách của cấu trúc cần phải lớn hơn giá trị phân tách!"
+  },
+  "gui.valhelsia_structures.config.spacing_solution": {
+    "en": "Using %s as Spacing Value instead (Separation + 1)",
+    "zh": "改用%s作为间距值（分隔值+1）",
+    "vi": "Thay vào đó, hãy sử dụng %s làm giá trị khoảng cách (giá trị phân tách + 1)"
+  },
+  "gui.valhelsia_structures.config.invalid_biome_category": {
+    "en": "List contains invalid Biome Category:",
+    "zh": "列表包含无效的生物群系类别：",
+    "vi": "Danh sách chứa danh mục quần xã không hợp lệ:"
+  },
+  "gui.valhelsia_structures.config.invalid_blacklisted_biome": {
+    "en": "List contains invalid Biome:",
+    "zh": "列表包含无效的生物群系：",
+    "vi": "Danh sách chứa quần xã không hợp lệ:"
+  },
+  "filled_map.valhelsia_structures.spawner_dungeon": {
+    "en": "Spawner Dungeon Explorer Map",
+    "zh": "刷怪笼地牢探险家地图",
+    "vi": "Bản đồ thám hiểm hầm ngục sinh sản quái vật"
+  },
+  "filled_map.valhelsia_structures.castle": {
+    "en": "Castle Explorer Map",
+    "zh": "城堡探险家地图",
+    "vi": "Bản đồ khám phá lâu đài"
+  },
+  "itemGroup.valhelsia_structures": {
+    "en": "Valhelsia Structures",
+    "zh": null,
+    "vi": null
+  },
+  "block.valhelsia_structures.mangrove_post": {
+    "en": "Mangrove Post",
+    "zh": null,
+    "vi": null
+  },
+  "block.valhelsia_structures.stripped_mangrove_post": {
+    "en": "Stripped Mangrove Post",
+    "zh": null,
+    "vi": null
+  },
+  "block.valhelsia_structures.cut_mangrove_post": {
+    "en": "Cut Mangrove Post",
+    "zh": null,
+    "vi": null
+  },
+  "block.valhelsia_structures.cut_stripped_mangrove_post": {
+    "en": "Cut Stripped Mangrove Post",
+    "zh": null,
+    "vi": null
+  },
+  "block.valhelsia_structures.bundled_mangrove_posts": {
+    "en": "Bundled Mangrove Posts",
+    "zh": null,
+    "vi": null
+  },
+  "block.valhelsia_structures.bundled_lapidified_jungle_posts": {
+    "en": "Bundled Lapidified Jungle Posts",
+    "zh": null,
+    "vi": null
+  },
+  "block.valhelsia_structures.bundled_stripped_mangrove_posts": {
+    "en": "Bundled Stripped Mangrove Posts",
+    "zh": null,
+    "vi": null
+  },
+  "gui.valhelsia_structures.furniture_warning_1": {
+    "en": "Valhelsia Structures detected that Valhelsia Furniture is not installed.",
+    "zh": null,
+    "vi": null
+  },
+  "gui.valhelsia_structures.furniture_warning_2": {
+    "en": "While it is not required, it greatly enhances the structures.",
+    "zh": null,
+    "vi": null
+  },
+  "comment.blocks": {
+    "en": null,
+    "zh": "---Blocks---",
+    "vi": null
+  },
+  "comment.filled_maps": {
+    "en": null,
+    "zh": "---Filled Maps---",
+    "vi": null
+  }
+}

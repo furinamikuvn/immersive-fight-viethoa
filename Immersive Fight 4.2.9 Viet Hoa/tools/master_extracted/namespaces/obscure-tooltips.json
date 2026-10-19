@@ -1,0 +1,57 @@
+{
+  "tooltip.item_type.armor": {
+    "en": null,
+    "zh": "盔甲",
+    "vi": "áo giáp"
+  },
+  "tooltip.item_type.shield": {
+    "en": null,
+    "zh": "盾牌",
+    "vi": "cái khiên"
+  },
+  "tooltip.item_type.weapon": {
+    "en": null,
+    "zh": "武器",
+    "vi": "cánh tay"
+  },
+  "tooltip.item_type.ranged_weapon": {
+    "en": null,
+    "zh": "远程武器",
+    "vi": "vũ khí tầm xa"
+  },
+  "tooltip.item_type.tool": {
+    "en": null,
+    "zh": "工具",
+    "vi": "dụng cụ"
+  },
+  "tooltip.item_type.food": {
+    "en": null,
+    "zh": "食物",
+    "vi": "đồ ăn"
+  },
+  "tooltip.item_type.potion": {
+    "en": null,
+    "zh": "药水",
+    "vi": "thuốc"
+  },
+  "tooltip.item_type.magic": {
+    "en": null,
+    "zh": "魔法",
+    "vi": "ảo thuật"
+  },
+  "tooltip.item_type.block": {
+    "en": null,
+    "zh": "方块",
+    "vi": "khối"
+  },
+  "tooltip.item_type.ammo": {
+    "en": null,
+    "zh": "弹药",
+    "vi": "đạn dược"
+  },
+  "tooltip.item_type.material": {
+    "en": null,
+    "zh": "材料",
+    "vi": "Vật liệu"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "dungeons_and_combat:the_church",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 52,
+    "separation": 21,
+    "salt": 635513944
+  }
+}

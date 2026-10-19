@@ -1,0 +1,107 @@
+{
+  "entity.pots_and_mimics.end_pot_crab": {
+    "en": "End Pot Crab",
+    "zh": "末地罐居蟹",
+    "vi": "End Pot Crab"
+  },
+  "block.pots_and_mimics.treasure_pot": {
+    "en": "Treasure Pot",
+    "zh": "宝藏罐",
+    "vi": "Treasure Pot"
+  },
+  "subtitles.pot_crab_hurt": {
+    "en": "Pot crab hurts",
+    "zh": "罐居蟹：受伤",
+    "vi": "Cua Nồi: Bị thương"
+  },
+  "block.pots_and_mimics.nether_treasure_pot": {
+    "en": "Nether Treasure Pot",
+    "zh": "下界宝藏罐",
+    "vi": "Nether Treasure Pot"
+  },
+  "subtitles.pot_crab_ambient": {
+    "en": "Pot crab clicks",
+    "zh": "罐居蟹：咔哒声",
+    "vi": "Nồi Cua: Nhấp Nháy"
+  },
+  "gamerule.potCrabSpawnChance.description": {
+    "en": "Defines the chance that a crab will spawn from a pot (default is 17%).",
+    "zh": "设定打破罐子时生成罐居蟹的概率（默认为 17%）。",
+    "vi": "Đặt cơ hội sinh ra Cua Nồi khi làm vỡ lọ (mặc định 17%)."
+  },
+  "gamerule.potCrabSpawning.description": {
+    "en": "Enables spawning of pot crabs while breaking pots.",
+    "zh": "启用打破罐子时生成罐居蟹。",
+    "vi": "Cho phép cua nồi sinh sản khi phá chậu."
+  },
+  "gamerule.potCrabSpawnChance": {
+    "en": "Pot Crab Spawn Chance",
+    "zh": "罐居蟹生成概率",
+    "vi": "Xác suất sinh sản của cua nồi"
+  },
+  "block.pots_and_mimics.end_treasure_pot": {
+    "en": "Ender Treasure Pot",
+    "zh": "末地宝藏罐",
+    "vi": "Ender Treasure Pot"
+  },
+  "block.pots_and_mimics.decorative_end_pot": {
+    "en": "Decorative Ender Pot",
+    "zh": "装饰性末地罐",
+    "vi": "Decorative Ender Pot"
+  },
+  "item.pots_and_mimics.poison_pot_crab_spawn_egg": {
+    "en": "Poison Pot Crab Spawn Egg",
+    "zh": "剧毒罐居蟹刷怪蛋",
+    "vi": "Poison Pot Crab Spawn Egg"
+  },
+  "subtitles.pot_crab_death": {
+    "en": "Pot crab dies",
+    "zh": "罐居蟹：死亡",
+    "vi": "Cua Nồi: Cái chết"
+  },
+  "block.pots_and_mimics.decorative_nether_pot": {
+    "en": "Decorative Nether Pot",
+    "zh": "装饰性下界罐",
+    "vi": "Decorative Nether Pot"
+  },
+  "entity.pots_and_mimics.nether_pot_crab": {
+    "en": "Nether Pot Crab",
+    "zh": "下界罐居蟹",
+    "vi": "Nether Pot Crab"
+  },
+  "item.pots_and_mimics.nether_pot_crab_spawn_egg": {
+    "en": "Nether Pot Crab Spawn Egg",
+    "zh": "下界罐居蟹刷怪蛋",
+    "vi": "Nether Pot Crab Spawn Egg"
+  },
+  "entity.pots_and_mimics.pot_crab": {
+    "en": "Pot Crab",
+    "zh": "罐居蟹",
+    "vi": "Pot Crab"
+  },
+  "block.pots_and_mimics.decorative_pot": {
+    "en": "Decorative Pot",
+    "zh": "装饰性罐",
+    "vi": "Decorative Pot"
+  },
+  "item.pots_and_mimics.end_pot_crab_spawn_egg": {
+    "en": "End Pot Crab Spawn Egg",
+    "zh": "末地罐居蟹刷怪蛋",
+    "vi": "End Pot Crab Spawn Egg"
+  },
+  "item.pots_and_mimics.pot_crab_spawn_egg": {
+    "en": "Pot Crab Spawn Egg",
+    "zh": "罐居蟹刷怪蛋",
+    "vi": "Pot Crab Spawn Egg"
+  },
+  "gamerule.potCrabSpawning": {
+    "en": "Pot Crab Spawning",
+    "zh": "罐居蟹生成",
+    "vi": "Cua nồi sinh sản"
+  },
+  "entity.pots_and_mimics.poison_pot_crab": {
+    "en": "Poison Pot Crab",
+    "zh": "剧毒罐居蟹",
+    "vi": "Poison Pot Crab"
+  }
+}

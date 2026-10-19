@@ -1,0 +1,22 @@
+{
+  "modmenu.descriptionTranslation.entityculling": {
+    "en": null,
+    "zh": "此模块使用异步路径跟踪来隐藏不可见的方块/实体。",
+    "vi": null
+  },
+  "text.entityculling.title": {
+    "en": "EntityCulling",
+    "zh": "EntityCulling",
+    "vi": null
+  },
+  "key.entityculling.toggle": {
+    "en": "Debug toggle culling",
+    "zh": "调试切换剔除",
+    "vi": null
+  },
+  "key.entityculling.toggleBoxes": {
+    "en": "Show culling boxes",
+    "zh": "显示筛选框",
+    "vi": null
+  }
+}

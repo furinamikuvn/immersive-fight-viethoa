@@ -1,0 +1,12 @@
+{
+  "button.mods.count": {
+    "en": "(%s Loaded)",
+    "zh": "（已加载 %s 个）",
+    "vi": "(Đã tải %s)"
+  },
+  "button.mods.count.compact": {
+    "en": "(%s)",
+    "zh": "（%s）",
+    "vi": "（%s）"
+  }
+}

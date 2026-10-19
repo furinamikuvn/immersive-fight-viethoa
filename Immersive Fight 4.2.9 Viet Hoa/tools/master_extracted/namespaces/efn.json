@@ -1,0 +1,2072 @@
+{
+  "prompt.efn.judgementcut_end": {
+    "en": "judgementcut-end",
+    "zh": "次元斩-绝",
+    "vi": "Thứ Nguyên Trảm - Tuyệt"
+  },
+  "prompt.efn.angel": {
+    "en": "angel",
+    "zh": "天使形态",
+    "vi": "Thế Thiên Thần"
+  },
+  "prompt.efn.devil": {
+    "en": "devil",
+    "zh": "恶魔形态",
+    "vi": "Thế Ác Quỷ"
+  },
+  "prompt.efn.slasher1": {
+    "en": "slasher1",
+    "zh": "三连斩-1",
+    "vi": "Tam Liên Trảm - 1"
+  },
+  "prompt.efn.slasher2": {
+    "en": "slasher2",
+    "zh": "三连斩-2",
+    "vi": "Tam Liên Trảm - 2"
+  },
+  "prompt.efn.slasher3": {
+    "en": "slasher3",
+    "zh": "三连斩-3",
+    "vi": "Tam Liên Trảm - 3"
+  },
+  "prompt.efn.aerialrave1": {
+    "en": "aerialrave1",
+    "zh": "御空刀舞-1",
+    "vi": "Ngự Không Đao Vũ - 1"
+  },
+  "prompt.efn.aerialrave2": {
+    "en": "aerialrave2",
+    "zh": "御空刀舞-2",
+    "vi": "Ngự Không Đao Vũ - 2"
+  },
+  "prompt.efn.aerialrave3": {
+    "en": "aerialrave3",
+    "zh": "御空刀舞-3",
+    "vi": "Ngự Không Đao Vũ - 3"
+  },
+  "prompt.efn.orbit1": {
+    "en": "orbit1",
+    "zh": "月轮刀-1",
+    "vi": "Nguyệt Luân Đao - 1"
+  },
+  "prompt.efn.orbit2": {
+    "en": "orbit2",
+    "zh": "月轮刀-2",
+    "vi": "Nguyệt Luân Đao - 2"
+  },
+  "prompt.efn.killerbee": {
+    "en": "killerbee",
+    "zh": "杀人蜂",
+    "vi": "Sát Nhân Phong"
+  },
+  "prompt.efn.drive": {
+    "en": "drive",
+    "zh": "断狱斩",
+    "vi": "Đoạn Ngục Trảm"
+  },
+  "prompt.efn.stomp": {
+    "en": "stomp",
+    "zh": "炼狱坠",
+    "vi": "Luyện Ngục Trụy"
+  },
+  "prompt.efn.flush": {
+    "en": "flush",
+    "zh": "空刃",
+    "vi": "Không Nhận"
+  },
+  "prompt.efn.crosscut3_alt": {
+    "en": "crosscut3",
+    "zh": "乱斩-1",
+    "vi": "Loạn Trảm - 1"
+  },
+  "prompt.efn.crosscut4": {
+    "en": "crosscut4",
+    "zh": "乱斩-2",
+    "vi": "Loạn Trảm - 2"
+  },
+  "prompt.efn.crosscut5": {
+    "en": "crosscut5",
+    "zh": "乱斩-3",
+    "vi": "Loạn Trảm - 3"
+  },
+  "prompt.efn.doppelganger": {
+    "en": "Switch doppelganger Move Mode",
+    "zh": "切换分身行走模式",
+    "vi": "Chuyển Đổi Di Chuyển Phân Thân"
+  },
+  "prompt.efn.summoned_sword": {
+    "en": "Summoned Sword",
+    "zh": "幻影剑",
+    "vi": "Ảo Ảnh Kiếm"
+  },
+  "prompt.efn.summoned_sword_angle": {
+    "en": "Summoned Sword-Angle",
+    "zh": "天使幻影剑",
+    "vi": "Thiên Thần Ảo Ảnh Kiếm"
+  },
+  "prompt.efn.summoned_sword_devil": {
+    "en": "Summoned Sword-Devil",
+    "zh": "恶魔幻影剑",
+    "vi": "Ác Quỷ Ảo Ảnh Kiếm"
+  },
+  "pack.power.title": {
+    "en": "More Powerful Power：hill's trail",
+    "zh": "More Powerful Power!!!",
+    "vi": "More Powerful Power!!!"
+  },
+  "efn.configgui.yamato_catcher": {
+    "en": "Yamato Catcher Settings",
+    "zh": "阎魔刀幻影剑抓取设置",
+    "vi": "Cài Đặt Bắt Ảo Ảnh Kiếm Diêm Ma Đao"
+  },
+  "efn.configgui.yamato_global_stun": {
+    "en": "Yamato Global Stun Settings",
+    "zh": "阎魔刀全局眩晕设置",
+    "vi": "Cài Đặt Choáng Toàn Cục Diêm Ma Đao"
+  },
+  "efn.configgui.yamato_parry_stun": {
+    "en": "Yamato Parry Stun Settings",
+    "zh": "阎魔刀格挡眩晕设置",
+    "vi": "Cài Đặt Choáng Đỡ Đòn Diêm Ma Đao"
+  },
+  "efn.configgui.animation": {
+    "en": "Animation Settings",
+    "zh": "动画设置",
+    "vi": "Cài Đặt Hoạt Ảnh"
+  },
+  "efn.configgui.yamato_reward": {
+    "en": "Yamato Reward Settings",
+    "zh": "阎魔刀奖励设置",
+    "vi": "Cài Đặt Phần Thưởng Diêm Ma Đao"
+  },
+  "efn.configgui.judgementcut_end_camera": {
+    "en": "JudgementCut-End Camera Animation Settings",
+    "zh": "次元斩绝相机动画设置",
+    "vi": "Cài Đặt Camera Thứ Nguyên Trảm Tuyệt"
+  },
+  "efn.configgui.judgementcut_end_particles": {
+    "en": "JudgementCut-End Particle Settings",
+    "zh": "次元斩绝粒子效果设置",
+    "vi": "Cài Đặt Hạt Thứ Nguyên Trảm Tuyệt"
+  },
+  "efn.configgui.yamato_parry_timeslow": {
+    "en": "Yamato parry time slowdown",
+    "zh": "阎魔刀格挡时缓设置",
+    "vi": "Cài Đặt Làm Chậm Thời Gian Đỡ Đòn Diêm Ma Đao"
+  },
+  "efn.configgui.dualsword_dodge_timeslow": {
+    "en": "Dualsword dodge time slowdown",
+    "zh": "双刀闪避时缓设置",
+    "vi": "Cài Đặt Làm Chậm Thời Gian Né Song Đao"
+  },
+  "efn.configgui.judgementcut_end_damage": {
+    "en": "Judgement Cut End Damage Settings",
+    "zh": "次元斩绝伤害设置",
+    "vi": "Cài Đặt Sát Thương Thứ Nguyên Trảm Tuyệt"
+  },
+  "efn.configgui.bloodlust_posteffect": {
+    "en": "Bloodlust Skill Post-effect Settings",
+    "zh": "血癫狂技能滤镜设置",
+    "vi": "Cài Đặt Bộ Lọc Kỹ Năng Huyết Điên Cuồng"
+  },
+  "efn.config.category.yamato_catcher": {
+    "en": "Yamato Catcher Settings",
+    "zh": "阎魔刀幻影剑抓取设置",
+    "vi": "Cài Đặt Bắt Ảo Ảnh Kiếm Diêm Ma Đao"
+  },
+  "efn.config.category.yamato_global_stun": {
+    "en": "Yamato Global Stun Settings",
+    "zh": "阎魔刀全局眩晕设置",
+    "vi": "Cài Đặt Choáng Toàn Cục Diêm Ma Đao"
+  },
+  "efn.config.category.yamato_parry_stun": {
+    "en": "Yamato Parry Stun Settings",
+    "zh": "阎魔刀格挡眩晕设置",
+    "vi": "Cài Đặt Choáng Đỡ Đòn Diêm Ma Đao"
+  },
+  "efn.config.category.animation": {
+    "en": "Animation Settings",
+    "zh": "动画设置",
+    "vi": "Cài Đặt Hoạt Ảnh"
+  },
+  "efn.config.category.yamato_reward": {
+    "en": "Yamato Reward Settings",
+    "zh": "阎魔刀奖励设置",
+    "vi": "Cài Đặt Phần Thưởng Diêm Ma Đao"
+  },
+  "efn.config.category.judgementcut_end_camera": {
+    "en": "JudgementCut-End Camera Animation Settings",
+    "zh": "次元斩绝相机动画设置",
+    "vi": "Cài Đặt Camera Thứ Nguyên Trảm Tuyệt"
+  },
+  "efn.config.category.judgementcut_end_particles": {
+    "en": "JudgementCut-End Particle Settings",
+    "zh": "次元斩绝粒子效果设置",
+    "vi": "Cài Đặt Hạt Thứ Nguyên Trảm Tuyệt"
+  },
+  "efn.config.category.yamato_parry_timeslow": {
+    "en": "Yamato parry time slowdown",
+    "zh": "阎魔刀格挡时缓设置",
+    "vi": "Cài Đặt Làm Chậm Thời Gian Đỡ Đòn Diêm Ma Đao"
+  },
+  "efn.config.category.dualsword_dodge_timeslow": {
+    "en": "Dualsword dodge time slowdown",
+    "zh": "双刀闪避时缓设置",
+    "vi": "Cài Đặt Làm Chậm Thời Gian Né Song Đao"
+  },
+  "efn.config.category.judgementcut_end_damage": {
+    "en": "Judgement Cut End Damage Settings",
+    "zh": "次元斩绝伤害设置",
+    "vi": "Cài Đặt Sát Thương Thứ Nguyên Trảm Tuyệt"
+  },
+  "efn.config.category.bloodlust_posteffect": {
+    "en": "Bloodlust Skill Post-effect Settings",
+    "zh": "血癫狂技能滤镜设置",
+    "vi": "Cài Đặt Bộ Lọc Kỹ Năng Huyết Điên Cuồng"
+  },
+  "efn.config.yamato_catcher_blacklist": {
+    "en": "yamatoCatcherBlacklist",
+    "zh": "阎魔刀幻影剑抓取黑名单",
+    "vi": "Danh Sách Đen Bắt Ảo Ảnh Kiếm"
+  },
+  "efn.config.yamato_catcher_whitelist": {
+    "en": "yamatoCatcherWhitelist",
+    "zh": "阎魔刀幻影剑抓取白名单",
+    "vi": "Danh Sách Trắng Bắt Ảo Ảnh Kiếm"
+  },
+  "efn.config.yamato_globalstun_whitelist": {
+    "en": "yamatoStunWhitelist",
+    "zh": "阎魔刀全局眩晕白名单",
+    "vi": "Danh Sách Trắng Choáng Toàn Cục"
+  },
+  "efn.config.yamato_parry_stun_duration": {
+    "en": "yamatoParryStunDuration",
+    "zh": "格挡眩晕持续时间",
+    "vi": "Thời Lượng Choáng Đỡ Đòn"
+  },
+  "efn.config.yamato_parry_stun_cooldown": {
+    "en": "yamatoParryStunCooldown",
+    "zh": "格挡眩晕冷却时间",
+    "vi": "Hồi Chiêu Choáng Đỡ Đòn"
+  },
+  "efn.config.animation_blacklist": {
+    "en": "animationBlacklist",
+    "zh": "动画黑名单",
+    "vi": "Danh Sách Đen Hoạt Ảnh"
+  },
+  "efn.config.animation_whitelist": {
+    "en": "animationWhitelist",
+    "zh": "动画白名单",
+    "vi": "Danh Sách Trắng Hoạt Ảnh"
+  },
+  "efn.config.yamato_reward_enabled": {
+    "en": "yamatoRewardEnabled",
+    "zh": "阎魔刀奖励启用",
+    "vi": "Bật Phần Thưởng Diêm Ma Đao"
+  },
+  "efn.config.yamato_reward_kill_threshold": {
+    "en": "yamatoRewardKillThreshold",
+    "zh": "阎魔刀奖励击杀阈值",
+    "vi": "Ngưỡng Tiêu Diệt Nhận Phần Thưởng"
+  },
+  "efn.config.enable_judgementcut_end_camera_animations": {
+    "en": "enableCameraAnimations",
+    "zh": "启用相机动画",
+    "vi": "Bật Hoạt Ảnh Camera"
+  },
+  "efn.config.enable_judgementcut_end_particles": {
+    "en": "enableJudgementCutEndParticles",
+    "zh": "启用粒子效果",
+    "vi": "Bật Hiệu Ứng Hạt"
+  },
+  "efn.config.enable_yamato_parry_timeslowdown": {
+    "en": "enable yamato parry timeslowdown",
+    "zh": "启用时缓效果",
+    "vi": "Bật Hiệu Ứng Làm Chậm Thời Gian"
+  },
+  "efn.config.enable_dualsword_dodge_timeslowdown": {
+    "en": "enable Dualsword dodge timeslowdown",
+    "zh": "启用时缓效果",
+    "vi": "Bật Làm Chậm Khi Né Song Đao"
+  },
+  "efn.config.judgement_cut_end_damage_rate": {
+    "en": "judgementCutEndDamageRate",
+    "zh": "伤害倍率",
+    "vi": "Bội Số Sát Thương"
+  },
+  "efn.config.judgement_cut_end_cut_rate": {
+    "en": "judgementCutEndCutRate",
+    "zh": "斩击比率",
+    "vi": "Tỉ Lệ Trảm Kích"
+  },
+  "efn.config.judgement_cut_end_boss_damage_multiplier": {
+    "en": "judgementCutEndBossDamageMultiplier",
+    "zh": "BOSS伤害倍率",
+    "vi": "Bội Số Sát Thương Lên BOSS"
+  },
+  "efn.config.judgement_cut_end_health_percentage": {
+    "en": "judgementCutEndHealthPercentage",
+    "zh": "生命值百分比",
+    "vi": "Tỉ Lệ Máu"
+  },
+  "efn.config.enable_bloodlust_posteffect": {
+    "en": "enablePost-Effects",
+    "zh": "启用血癫狂技能画面滤镜",
+    "vi": "Bật Bộ Lọc Màn Hình Huyết Cuồng"
+  },
+  "efn.config.enable_vfx": {
+    "en": "Enable/disable AAA Particle Extend",
+    "zh": "启用/禁用AAA粒子联动",
+    "vi": "Bật/Tắt Liên Kết Hạt AAA"
+  },
+  "efn.warning.title": {
+    "en": "§l§eEFN Mod - Important Notice",
+    "zh": "§l§eEFN模组 - 重要提示",
+    "vi": "§l§eMod EFN - Lưu Ý Quan Trọng"
+  },
+  "efn.warning.message": {
+    "en": "You have installed the EFN Mod, but the highly recommended companion mod AAA Particles is not currently installed.This mod significantly enhances the visual effects of EFN.",
+    "zh": "您已安装EFN模组，但未安装强烈推荐的联动模组AAA Particles。该模组能显著增强EFN的视觉效果",
+    "vi": "Bạn đã cài đặt mod EFN nhưng chưa cài mod liên kết được khuyến nghị AAA Particles. Mod đó giúp nâng cao đáng kể hiệu ứng hình ảnh của EFN."
+  },
+  "efn.warning.recommendation": {
+    "en": "§l§6Recommendation:",
+    "zh": "§l§6推荐：",
+    "vi": "§l§6Khuyến Nghị:"
+  },
+  "efn.warning.recommendation.details": {
+    "en": "For the best gameplay experience with EFN Mod, we strongly recommend installing AAA Particles. Without it, some visual effects may not display as intended or may be less impressive.",
+    "zh": "为了获得最佳的EFN模组游戏体验，我们强烈推荐安装AAA Particles。如果不安装，部分视觉效果可能无法按预期显示或效果较差。",
+    "vi": "Để có trải nghiệm tốt nhất với mod EFN, chúng tôi khuyên bạn nên cài đặt AAA Particles."
+  },
+  "efn.warning.download": {
+    "en": "§aDownload AAA Particles",
+    "zh": "§a下载AAA Particles",
+    "vi": "§aTải AAA Particles"
+  },
+  "efn.warning.ignore": {
+    "en": "§7Skip (I Understand)",
+    "zh": "§7我已了解，跳过",
+    "vi": "§7Tôi đã hiểu, bỏ qua"
+  },
+  "efn.warning.bottom_hint": {
+    "en": "This message will only appear once. You can always download AAA Particles later if needed.",
+    "zh": "选择任意选项后，下次启动将不再显示此提示。右上角×按钮仅关闭窗口。",
+    "vi": "Sau khi chọn, thông báo này sẽ không hiện lại trong lần khởi động kế tiếp."
+  },
+  "efn.warning.close": {
+    "en": "×",
+    "zh": "×",
+    "vi": "×"
+  },
+  "efn.warning.close.tooltip": {
+    "en": "Close this window. (it will appear again the next time you start)",
+    "zh": "关闭此窗口（下次启动时还会显示）",
+    "vi": "Đóng cửa sổ này (sẽ hiển thị lại ở lần khởi động sau)"
+  },
+  "tooltip.efn.config": {
+    "en": null,
+    "zh": "Auto-switch exclusive dodge can be disabled in the config file",
+    "vi": "Tự động chuyển đổi né độc quyền có thể tắt trong tệp cấu hình"
+  },
+  "tooltip.efn.welcome_message": {
+    "en": "Use /efn secludedAttack to toggle entity effects for [Ancient Sculk Twinblades]",
+    "zh": "§7可使用/efn secludedAttack开关远古幽匿对刀武器的实体特效",
+    "vi": null
+  },
+  "skill.efn.efn_dodge": {
+    "en": "§o§l『soul-like dodge』",
+    "zh": "§o§l『翻滚』",
+    "vi": null
+  },
+  "skill.efn.efn_dodge.tooltip": {
+    "en": "§o§l『soul-like dodge』\n- Superior long-distance evasion",
+    "zh": "朝你移动的方向翻滚。 闪避所有袭来的攻击。",
+    "vi": null
+  },
+  "skill.efn.efn_step": {
+    "en": "§o§l 『soul-like step』",
+    "zh": "§o§l『跨步』",
+    "vi": null
+  },
+  "skill.efn.efn_step.tooltip": {
+    "en": "§o§l 『soul-like step』\n- Smoother short-distance evasion",
+    "zh": "朝你移动的方向快速移动一小段距离。闪避所有袭来的攻击。",
+    "vi": null
+  },
+  "skill.efn.efn_parry": {
+    "en": "§l『Parry』",
+    "zh": "§l『招架』",
+    "vi": null
+  },
+  "skill.efn.efn_parry.tooltip": {
+    "en": "Enhanced parrying",
+    "zh": "完美防御可以触发招架，并防止耐力消耗。可以防御远程攻击。",
+    "vi": null
+  },
+  "skill.efn.broadblade.tooltip4": {
+    "en": "Resolve: Damage increased to 1.5x when attack hits only one target",
+    "zh": "决意：攻击只命中一个目标时，伤害提升至1.3倍",
+    "vi": null
+  },
+  "item.efn.ruinsgreatsword": {
+    "en": "§i§l[Ruins Greatsword]",
+    "zh": "§7§i§l残骸大剑",
+    "vi": null
+  },
+  "item.efn.ruinsgreatsword.description1": {
+    "en": "A massive sword excavated from beneath lava, surprisingly still functional after restoration",
+    "zh": "岩浆之下发掘的巨剑残骸，经过修复后竟然仍能使用",
+    "vi": null
+  },
+  "item.efn.meen_spear": {
+    "en": "§i§l[Duskfire]",
+    "zh": "§6§i§l黄昏之火",
+    "vi": null
+  },
+  "item.efn.meen_spear.description1": {
+    "en": "Forged entirely from Netherite, this exceptionally heavy lance defies conventional spear techniques.",
+    "zh": "通体由下界合金打造，异常沉重的大枪，寻常枪术难以在其上施展。",
+    "vi": null
+  },
+  "item.efn.nf_dual_sword": {
+    "en": "§i§l[Ancient Sculk Twinblades]",
+    "zh": "§b§i§l远古幽匿对刀",
+    "vi": null
+  },
+  "item.efn.nf_dual_sword.description1": {
+    "en": "A paired weapon discovered in an Ancient City, its crafting techniques lost to time",
+    "zh": "于远古城市中发现的成对武器，制作工艺已无从考据",
+    "vi": null
+  },
+  "item.efn.sword_of_pioneer": {
+    "en": "§i§l[Vanguard Sword]",
+    "zh": "§f§i§l先锋军佩刀",
+    "vi": null
+  },
+  "item.efn.sword_of_pioneer.description1": {
+    "en": "Commissioned by a king for his vanguard troops during their first Nether expedition, this exquisitely crafted saber remains as sharp as ever",
+    "zh": "曾有某位国王为了探索下界，为先头部队打造了做工精良的佩刀",
+    "vi": null
+  },
+  "item.efn.nf_shortsword": {
+    "en": "§i§lEmpress Shortblade",
+    "zh": "§i§l女皇短刃",
+    "vi": null
+  },
+  "item.efn.nf_shortsword.description1": {
+    "en": "",
+    "zh": "",
+    "vi": null
+  },
+  "item.efn.nf_shortsword_2": {
+    "en": "§b§lRunic Shortsword",
+    "zh": "§b§l魔纹短剑",
+    "vi": null
+  },
+  "item.efn.air_tachi": {
+    "en": "§c§o§lBloodlust",
+    "zh": "§c§o§l血癫狂",
+    "vi": null
+  },
+  "item.efn.co_tachi": {
+    "en": "§c§o§lCarnivorous Osteofrenzy",
+    "zh": "§c§o§l噬骨血癫",
+    "vi": null
+  },
+  "item.efn.bloodlust.description1": {
+    "en": "A skeletal hand clutches the cursed blade shrouded in blood rust...",
+    "zh": "§c§o骸骨紧握着被血锈覆盖的诅咒刀刃……",
+    "vi": null
+  },
+  "item.efn.kusabimaru": {
+    "en": "§7§lKusabimaru",
+    "zh": "§7§l楔丸",
+    "vi": null
+  },
+  "item.efn.kusabimaru.description1": {
+    "en": "§lThe blade passed down by the Divine Heir of the Dragon's Heritage;\n§i§lThe name 'Kusabimaru' carries a wish—even if a shinobi is fated to kill, they must never abandon the last shred of mercy in their heart...",
+    "zh": "§f§i§l龙胤神子的相传之刃 \n§7§l楔丸的名字里包含着心愿——'即使忍者注定是杀人的宿命,也不可舍弃仅有的一点慈悲之心'",
+    "vi": null
+  },
+  "item.efn.yamato_dmc4": {
+    "en": "",
+    "zh": "",
+    "vi": null
+  },
+  "item.efn.yamato.description1": {
+    "en": "Too SLow.",
+    "zh": "Too SLow.",
+    "vi": null
+  },
+  "item.efn.yamato_dmc": {
+    "en": "",
+    "zh": "",
+    "vi": null
+  },
+  "item.efn.yamato_dmc4_in_sheath": {
+    "en": "§b§lYAMATO",
+    "zh": "§b§l阎魔刀",
+    "vi": null
+  },
+  "item.efn.yamato_dmc_in_sheath": {
+    "en": "§b§lYAMATO",
+    "zh": "§b§l阎魔刀",
+    "vi": null
+  },
+  "tooltip.efn.yamato.kill_count": {
+    "en": "Kills: %d",
+    "zh": "斩敌: %d",
+    "vi": null
+  },
+  "tooltip.efn.yamato.total_damage": {
+    "en": "Total Damage: %s",
+    "zh": "伤积: %s",
+    "vi": null
+  },
+  "item.efn.hf_murasama": {
+    "en": "§c§lHF-MURASAMA",
+    "zh": "§c§l高频村雨",
+    "vi": null
+  },
+  "item.efn.hf_murasama.description1": {
+    "en": "Let's Dance!",
+    "zh": "Let's Dance!",
+    "vi": null
+  },
+  "item.efn.hf_blade": {
+    "en": "§b§lHF-BLADE",
+    "zh": "§b§l高周波刀",
+    "vi": null
+  },
+  "item.efn.hf_blade.description1": {
+    "en": "Let's Dance!",
+    "zh": "Let's Dance!",
+    "vi": null
+  },
+  "item.efn.crimson_moon": {
+    "en": "§c§lCRIMSON_MOON",
+    "zh": "§c§l赤月",
+    "vi": null
+  },
+  "item.efn.scythe.description1": {
+    "en": "§c§lThe Moon Abides Forever",
+    "zh": "§c§l如月常存",
+    "vi": null
+  },
+  "item.efn.thornwheel": {
+    "en": "§i§lGhiza's Wheel",
+    "zh": "§i§l基萨的刺轮",
+    "vi": null
+  },
+  "item.efn.thornwheel.description1": {
+    "en": "Great iron wheel lined with flesh-flaying blades. \nAs the wheel spins it causes severe pain and blood loss.",
+    "zh": "在轮子外围排满刀刃，用来撕裂皮肤的铁制大刺轮; \n旋转刺轮时，会带给敌人剧痛与出血。",
+    "vi": null
+  },
+  "item.efn.crescent_moon": {
+    "en": "CrescentMoon",
+    "zh": "傩面偃月",
+    "vi": null
+  },
+  "item.efn.crescent_moon.description1": {
+    "en": "This Weapon Smelts Enemy's Soul",
+    "zh": "§b§i§l这把武器能够炼化敌人的灵魂",
+    "vi": null
+  },
+  "item.efn.broadblade": {
+    "en": "Warriors-BroadBlade",
+    "zh": "抗战大刀",
+    "vi": null
+  },
+  "item.efn.broadblade.description1": {
+    "en": "§lThe time has come to slay the enemy and serve the nation!",
+    "zh": "§l杀敌报国，此其时也！",
+    "vi": null
+  },
+  "tooltip.efn.broadblade.kill_count": {
+    "en": "Kills: %d",
+    "zh": "斩敌: %d",
+    "vi": null
+  },
+  "item.efn.exsiliumgladius": {
+    "en": "§lEXSILIUMGLADIUS-R",
+    "zh": "§l放逐之刃-右",
+    "vi": null
+  },
+  "item.efn.exsiliumgladius.description1": {
+    "en": "§o§lA weapon from the Land of Exile. Wielding both blades unlocks its true form",
+    "zh": "§o§l来自放逐之地的武器，同时持有两把将解锁完全形态",
+    "vi": null
+  },
+  "item.efn.fire_exsiliumgladius": {
+    "en": "§c§lEXSILIUMGLADIUS-L",
+    "zh": "§c§l放逐之刃-左",
+    "vi": null
+  },
+  "item.efn.fire_exsiliumgladius.description1": {
+    "en": "§o§lA weapon from the Land of Exile. Wielding both blades unlocks its true form",
+    "zh": "§o§l来自放逐之地的武器，同时持有两把将解锁完全形态",
+    "vi": null
+  },
+  "item.efn.nf_claw": {
+    "en": "§7§o§l Feral Claw",
+    "zh": "§7§l狂野爪",
+    "vi": null
+  },
+  "item.efn.nf_claw.description1": {
+    "en": "§o§l",
+    "zh": "§o§l",
+    "vi": null
+  },
+  "item.efn.ruinfighter_helmet": {
+    "en": "§7§o§l Ruinfighter Scarf",
+    "zh": "§7§l 墟骸战士围巾",
+    "vi": null
+  },
+  "item.efn.ruinfighter_helmet.description1": {
+    "en": "§o§l",
+    "zh": "§o§l",
+    "vi": null
+  },
+  "item.efn.ruinfighter_chestplate": {
+    "en": "§7§o§l Ruinfighter Armor",
+    "zh": "§7§l 墟骸战士盔甲",
+    "vi": null
+  },
+  "item.efn.ruinfighter_chestplate.description1": {
+    "en": "§o§l",
+    "zh": "§o§l",
+    "vi": null
+  },
+  "item.efn.ruinfighter_leggings": {
+    "en": "§7§o§l Ruinfighter Greaves",
+    "zh": "§7§l 墟骸战士腿甲",
+    "vi": null
+  },
+  "item.efn.ruinfighter_leggings.description1": {
+    "en": "§o§l",
+    "zh": "§o§l",
+    "vi": null
+  },
+  "item.efn.ruinfighter_boots": {
+    "en": "§7§o§l Ruinfighter Boots",
+    "zh": "§7§l 墟骸战士战靴",
+    "vi": null
+  },
+  "item.efn.ruinfighter_boots.description1": {
+    "en": "§o§l",
+    "zh": "§o§l",
+    "vi": null
+  },
+  "item.efn.duskfire_armor.description1": {
+    "en": "§c§l Heavy armor reforged from Netherite bathed in flames, its core pulses with residual embers",
+    "zh": "§c§l 将下界合金沐火重铸的重甲,炉心迸发着余火",
+    "vi": null
+  },
+  "item.efn.duskfire_helmet": {
+    "en": "§c§o§l Duskfire Greathelm",
+    "zh": "§c§l 余火重盔",
+    "vi": null
+  },
+  "item.efn.duskfire_chestplate": {
+    "en": "§c§o§l Duskfire Plate",
+    "zh": "§c§l 余火重甲",
+    "vi": null
+  },
+  "item.efn.duskfire_leggings": {
+    "en": "§c§o§l Duskfire Greaves",
+    "zh": "§c§l 余火护腿",
+    "vi": null
+  },
+  "item.efn.duskfire_boots": {
+    "en": "§c§o§l Duskfire Sabatons",
+    "zh": "§c§l 余火战靴",
+    "vi": null
+  },
+  "item.efn.deepdark_heart": {
+    "en": "§c§o§lHeart of Deepdark",
+    "zh": "§c§l深暗之心",
+    "vi": null
+  },
+  "item.efn.duskfire_ingot": {
+    "en": "§c§o§lDuskfire Ingot",
+    "zh": "§c§l余火锭",
+    "vi": null
+  },
+  "item.efn.hf_ingot": {
+    "en": "§c§o§lHigh-frequency Alloy",
+    "zh": "§c§l高频合金",
+    "vi": null
+  },
+  "item.efn.hf_ingot_b": {
+    "en": "§b§o§lHigh-frequency Alloy-Re",
+    "zh": "§b§l高频合金-改",
+    "vi": null
+  },
+  "item.efn.hf_murasama_blade": {
+    "en": "§c§o§lHF Murasama-Blade",
+    "zh": "§c§l高频村雨刀刃",
+    "vi": null
+  },
+  "item.efn.hf_murasama_sheath": {
+    "en": "§c§o§lHF Murasama-Sheath",
+    "zh": "§c§l高频村雨刀鞘",
+    "vi": null
+  },
+  "enchantment.efn.yamato_summoned_sword": {
+    "en": "Yamato-Summoned Sword",
+    "zh": "阎魔刀-幻影剑",
+    "vi": null
+  },
+  "enchantment.efn.yamato_summoned_sword_end": {
+    "en": "Summoned Sword End",
+    "zh": "幻影剑-极",
+    "vi": null
+  },
+  "enchantment.efn.yamato_doppelganger": {
+    "en": "Yamato-Doppelganger",
+    "zh": "阎魔刀-同行者",
+    "vi": null
+  },
+  "enchantment.efn.yamato_judgement_cut_end": {
+    "en": "Yamato-Judgement Cut End",
+    "zh": "阎魔刀-次元斩·绝",
+    "vi": null
+  },
+  "enchantment.efn.yamato_heavy_rain": {
+    "en": "Yamato-Heavy Rain",
+    "zh": "阎魔刀-五月雨",
+    "vi": null
+  },
+  "enchantment.efn.yamato_guard": {
+    "en": "Yamato-Guard",
+    "zh": "阎魔刀-防御",
+    "vi": null
+  },
+  "enchantment.efn.scythe_enhance": {
+    "en": "Crimson Moon - Demonized",
+    "zh": "赤月-魔化",
+    "vi": null
+  },
+  "enchantment.efn.broad_blade_enhance": {
+    "en": "BroadBlade - Revolution",
+    "zh": "抗战大刀-革命",
+    "vi": null
+  },
+  "enchantment.efn.yamato_summoned_sword.desc": {
+    "en": "Summon phantom swords to assist in battle",
+    "zh": "允许阎魔刀召唤幻影剑",
+    "vi": null
+  },
+  "enchantment.efn.yamato_summoned_sword_end.desc": {
+    "en": "Summoned Swords will automatically perform in actions",
+    "zh": "幻影剑将在特定招式中自动生成",
+    "vi": null
+  },
+  "enchantment.efn.yamato_doppelganger.desc": {
+    "en": "Summon Doppelganger to assist in battle",
+    "zh": "允许阎魔刀召唤同行者",
+    "vi": null
+  },
+  "enchantment.efn.yamato_judgement_cut_end.desc": {
+    "en": "SLAY ALL",
+    "zh": "SLAY ALL",
+    "vi": null
+  },
+  "enchantment.efn.yamato_guard.desc": {
+    "en": "Allow automatic guard when yamato attacking",
+    "zh": "使得阎魔刀攻击时可格挡伤害",
+    "vi": null
+  },
+  "enchantment.efn.yamato_heavy_rain.desc": {
+    "en": "Access to Heavy Rain[Replace Spiral sword]",
+    "zh": "允许阎魔刀使用五月雨[替换无门阵]",
+    "vi": null
+  },
+  "enchantment.efn.scythe_enhance.desc": {
+    "en": "Every strike echoes with a blood cut while at max energy.",
+    "zh": "满能量时常驻额外斩击",
+    "vi": null
+  },
+  "enchantment.efn.broad_blade_enhance.desc": {
+    "en": "Enabled BroadBlade Passive - Revolution",
+    "zh": "解锁抗战大刀被动：革命",
+    "vi": null
+  },
+  "skill.efn.ruinsgreatsword.tooltip": {
+    "en": "§7§o§lActive Skill-Defiance ",
+    "zh": "§7§o§l抗争 ",
+    "vi": null
+  },
+  "skill.efn.ruinsgreatsword.tooltip1": {
+    "en": "Press",
+    "zh": "按",
+    "vi": null
+  },
+  "skill.efn.ruinsgreatsword.tooltip2": {
+    "en": "Channel all your strength into an upward swing. When clashing with enemy attacks, you'll negate their strike and follow up with a powerful combo",
+    "zh": "用尽全力向上挥击，成功与敌人攻击相撞时能抵消攻击并借势使出强力连击",
+    "vi": null
+  },
+  "skill.efn.ruinsgreatsword.tooltip3": {
+    "en": "Passive: Barbarian Arts - Hold both right-click and left-click simultaneously to charge",
+    "zh": "蛮勇——同时按住鼠标右键与左键进行蓄力",
+    "vi": null
+  },
+  "skill.efn.ruinsgreatsword.tooltip4": {
+    "en": "Charged attacks briefly negate incoming damage",
+    "zh": "蓄力攻击打出的一瞬间，能以蛮力抵消伤害",
+    "vi": null
+  },
+  "skill.efn.meenlance.tooltip": {
+    "en": "§o§lActive Skill-Embers",
+    "zh": "§c§o§l余火 ",
+    "vi": null
+  },
+  "skill.efn.meenlance.tooltip1": {
+    "en": "Full energy——Hold both right-click and left-click simultaneously to charge",
+    "zh": "满能量时——同时按住鼠标右键与左键进行蓄力",
+    "vi": null
+  },
+  "skill.efn.meenlance.tooltip2": {
+    "en": "Swing the spear to ignite residual flames, culminating in sweeping/thrusting attacks. At peak intensity, temporarily restores its former power",
+    "zh": "用力挥动长枪，卷起狂风引燃残存的余火并顺势使出横扫或突刺，火焰燃至最盛时能够席卷全身，强化攻击力",
+    "vi": null
+  },
+  "skill.efn.meenlance.tooltip3": {
+    "en": "Passive: Flame Tempest - Use skill while \"Embers\" peak",
+    "zh": "火焰风暴——“黄昏之火”效果期间，使用技能",
+    "vi": null
+  },
+  "skill.efn.meenlance.tooltip4": {
+    "en": "Release all stored flames and wind in a devastating whirlwind attack",
+    "zh": "能进一步催发长枪的力量，伴随着挥舞，将枪中的火焰与风暴一口气全部释放",
+    "vi": null
+  },
+  "skill.efn.aetherialdusk.tooltip": {
+    "en": "§o§lActive Skill-Execution ",
+    "zh": "§o§l处刑 ",
+    "vi": null
+  },
+  "skill.efn.aetherialdusk.tooltip1": {
+    "en": "Press",
+    "zh": "按",
+    "vi": null
+  },
+  "skill.efn.aetherialdusk.tooltip2": {
+    "en": "Quick tap launches enemies upward. Hold for a finishing strike",
+    "zh": "短按技能轻盈挑起敌人，长按技能则追加打出终结一击",
+    "vi": null
+  },
+  "skill.efn.aetherialdusk.tooltip3": {
+    "en": "Passive: KurEnme's Premonition - Dodge counter",
+    "zh": "预感",
+    "vi": null
+  },
+  "skill.efn.aetherialdusk.tooltip4": {
+    "en": "Perfect dodges enable quick counters with attack buffs",
+    "zh": "在敌人命中前的瞬间闪避时，能够迅速跳开并趁机伤害敌人",
+    "vi": null
+  },
+  "skill.efn.pioneer.tooltip": {
+    "en": "§c§o§lActive Skill-Breaching Combo ",
+    "zh": "§o§l溃防连击 ",
+    "vi": null
+  },
+  "skill.efn.pioneer.tooltip1": {
+    "en": "Press",
+    "zh": "按",
+    "vi": null
+  },
+  "skill.efn.pioneer.tooltip2": {
+    "en": "Initiate with rapid slashes, then break defenses with a hilt strike",
+    "zh": "先以快速的斩击抢得先机，然后用剑柄打破对手的防御",
+    "vi": null
+  },
+  "skill.efn.bloodlust.tooltip": {
+    "en": "§c§o§lBLOODRUST ",
+    "zh": "§c§o§l血癫狂 ",
+    "vi": null
+  },
+  "skill.efn.bloodlust.tooltip1": {
+    "en": "Press",
+    "zh": "按",
+    "vi": null
+  },
+  "skill.efn.bloodlust.tooltip2": {
+    "en": "Awaken the blade with bloodshed. Each slash carries sanguine power at the cost of continuous HP drain. Reactivate to end this state.",
+    "zh": "以鲜血唤醒刀刃，每次斩击都将附有血的力量，维持此状态时会持续流失生命，再次使用技能以结束状态",
+    "vi": null
+  },
+  "skill.efn.yamato.tooltip": {
+    "en": "§b§lYAMATO",
+    "zh": "§b§l阎魔刀 ",
+    "vi": null
+  },
+  "skill.efn.yamato.tooltip1": {
+    "en": "Basic Style: ",
+    "zh": "§o§l基础风格: ",
+    "vi": null
+  },
+  "skill.efn.yamato.tooltip2": {
+    "en": "Slasher·AAA §f||§r Crosscut·AA-AAA §f||§r Judgementcut·Hold A §f||§r Upperslash·S §f||§r Upperslash_hold·Forward S",
+    "zh": "三连斩·AAA §f||§r 乱斩·AA-AAA §f||§r 次元斩·长按A §f||§r 射空斩·S §f||§r 射空斩-升·前进S",
+    "vi": null
+  },
+  "skill.efn.yamato.tooltip3": {
+    "en": "Air: Aerialrave·AAA §f||§r Helmbreaker·S",
+    "zh": "空中: 御空刀舞·AAA §f||§r 破盔·S",
+    "vi": null
+  },
+  "skill.efn.yamato.tooltip4": {
+    "en": "§o§l Angel Style: ",
+    "zh": "§o§l天使风格: ",
+    "vi": null
+  },
+  "skill.efn.yamato.tooltip5": {
+    "en": "Repaidslash·A §f||§r Flarecut·S §f||§r Flarecut_rise·Hold S",
+    "zh": "疾走居合·A §f||§r 耀斑·S §f||§r 太阳耀斑·长按S",
+    "vi": null
+  },
+  "skill.efn.yamato.tooltip6": {
+    "en": "Air: Orbit·A §f||§r Orbit2·Hold A §f||§r Flush·S",
+    "zh": "空中: 月轮刀·A §f||§r 月轮刀-极·长按A §f||§r 空刃·S",
+    "vi": null
+  },
+  "skill.efn.yamato.tooltip7": {
+    "en": "§o§l Devil Style: ",
+    "zh": "§o§l恶魔风格: ",
+    "vi": null
+  },
+  "skill.efn.yamato.tooltip8": {
+    "en": "Divorce·AAA §f||§r Volcanol·S §f||§r Volcanol_hold·Hold S",
+    "zh": "崩离斩·AAA §f||§r 火山·S §f||§r 红莲·长按S",
+    "vi": null
+  },
+  "skill.efn.yamato.tooltip9": {
+    "en": "Air: Killerbee·A §f||§r Drive·S §f||§r Stomp·SS",
+    "zh": "空中: 杀人蜂·A §f||§r 断狱斩·S §f||§r 炼狱坠·SS",
+    "vi": null
+  },
+  "skill.efn.yamato.tooltip10": {
+    "en": "During repaidslash: Flarecut_rise·Jump §f||§r Flarecut·Forward §f||§r Volcanol·Backward §f||§r Judgementcut·Hold A §f||§r Divorce·devil",
+    "zh": "疾走居合期间: 太阳耀斑·跳跃 §f||§r 耀斑·前进 §f||§r 火山·后退 §f||§r 次元斩·长按A §f||§r 崩离斩·恶魔",
+    "vi": null
+  },
+  "skill.efn.yamato.tooltip11": {
+    "en": "Summoned Sword: ",
+    "zh": "幻影剑: ",
+    "vi": null
+  },
+  "skill.efn.yamato.tooltip12": {
+    "en": "Angel Sword: Teleport to Target §f||§r Demon Sword: Pull Target §f||§r §rBlistering: Forward(1 Bar) §f||§r §rStorm: Backward(1 Bar) §f||§r §rSpiral / Heavy Rain(Enchanted): Sneak(5/3 Bars)",
+    "zh": "天使幻影剑·瞬移至目标 §f||§r 恶魔幻影剑·拉扯目标到面前 §f||§r §r急袭·前进(一层能量) §f||§r §r暴雨·后退(一层能量) §f||§r §r无门阵/五月雨(需附魔)·下蹲(五层/三层能量)",
+    "vi": null
+  },
+  "skill.efn.yamato.tooltip13": {
+    "en": "Doppelganger(press when sneak will summon behind target): ",
+    "zh": "魔影分身(下蹲时按可召唤至目标身后): ",
+    "vi": null
+  },
+  "skill.efn.yamato.tooltip14": {
+    "en": "Judgementcut-End: ",
+    "zh": "次元斩:绝: ",
+    "vi": null
+  },
+  "skill.efn.murasama.tooltip": {
+    "en": "§c§o§lRodrigues Shinkage-ryu",
+    "zh": "§c§o§l罗德里格斯-新阴流",
+    "vi": null
+  },
+  "skill.efn.murasama.tooltip1": {
+    "en": "",
+    "zh": "",
+    "vi": null
+  },
+  "skill.efn.murasama.tooltip2": {
+    "en": "CrossCut·X §f||§r SlideSwipe·XX §f||§r FrontKick·XXX §f||§r FollowUp·XXXX §f||§r Air: DeadlyPeak-1·X §f||§r DeadlyPeak-2·XX",
+    "zh": "袈裟·X §f||§r 风扫·XX §f||§r 瞬蹴·XXX §f||§r 追影·XXXX §f||§r 空中: 空裂-壹·X §f||§r 空裂-贰·XX",
+    "vi": null
+  },
+  "skill.efn.murasama.tooltip3": {
+    "en": "QuickDraw·Y §f||§r ReverseCross·XY §f||§r WideCut·XXY §f||§r TailWind·XXXY §f||§r Air: Avalanche·Y",
+    "zh": "居合·Y §f||§r 逆袈裟·XY §f||§r 弧光斩·XXY §f||§r 朔风·XXXY §f||§r 空中: 雪崩斩·Y",
+    "vi": null
+  },
+  "skill.efn.murasama.tooltip4": {
+    "en": "ChargingSlash·Hold-Y §f||§r RisingGale·X-Hold-Y §f||§r Blender·XX-Hold-Y §f||§r StormFront·XXX-Hold-Y",
+    "zh": "斩钢闪·长按Y §f||§r 升龙跃·X-长按Y §f||§r 刃岚·XX-长按Y §f||§r 疾风波·XXX-长按Y",
+    "vi": null
+  },
+  "skill.efn.murasama.tooltip5": {
+    "en": "AssaultRush· DoubleTap-Sprint: Y §f||§r JawBreaker Down-Up: Y",
+    "zh": "奔袭·双击前进冲刺: Y §f||§r 碎颚 后退-前进: Y",
+    "vi": null
+  },
+  "skill.efn.murasama.tooltip6": {
+    "en": "Sheath",
+    "zh": "纳刀",
+    "vi": null
+  },
+  "skill.efn.murasama.tooltip7": {
+    "en": "PiercingWinds· SheathedSprint: X §f||§r StiffBreeze SheathedSprint: Y §f||§r ChargingSlash·SheathedSneak-Y",
+    "zh": "烈风突·纳刀冲刺: X §f||§r 烈风闪·纳刀冲刺: Y §f||§r 断钢·纳刀潜行Y",
+    "vi": null
+  },
+  "skill.efn.murasama.tooltip8": {
+    "en": "Extra: Counter·Parry: Up-Y §f||§r QuickDraw-Combo·Down-Y §f||§r ChargingSlash-Through·Up-Hold-Y",
+    "zh": "额外: 反击·招架: 前进Y §f||§r 居合迅·后退Y §f||§r 斩钢闪-穿·前进-长按Y",
+    "vi": null
+  },
+  "skill.efn.murasama.tooltip9": {
+    "en": "Taunt",
+    "zh": "嘲讽",
+    "vi": null
+  },
+  "skill.efn.exsiliumgladius.tooltip": {
+    "en": "§lEXSILIUMGLADIUS",
+    "zh": "§l放逐之刃",
+    "vi": null
+  },
+  "skill.efn.exsiliumgladius.tooltip1": {
+    "en": "Press-KEY3:",
+    "zh": "按",
+    "vi": null
+  },
+  "skill.efn.exsiliumgladius.tooltip2": {
+    "en": "Each attack can chain into multiple skills - experiment with different combinations",
+    "zh": "每次攻击后都可多次派生不同技能，尝试各种组合",
+    "vi": null
+  },
+  "skill.efn.kusabimaru.tooltip": {
+    "en": "Ashina",
+    "zh": "苇名流",
+    "vi": null
+  },
+  "skill.efn.kusabimaru.tooltip1": {
+    "en": "Press",
+    "zh": "按",
+    "vi": null
+  },
+  "skill.efn.kusabimaru.tooltip2": {
+    "en": "Ground: Dragon Flash",
+    "zh": "地面: 龙闪",
+    "vi": null
+  },
+  "skill.efn.kusabimaru.tooltip3": {
+    "en": "Air: Sakura Dance",
+    "zh": "空中: 樱舞",
+    "vi": null
+  },
+  "skill.efn.kusabimaru.tooltip4": {
+    "en": "Dash: Shadow Rush",
+    "zh": "冲刺: 忍者突刺",
+    "vi": null
+  },
+  "skill.efn.kusabimaru.tooltip5": {
+    "en": "Sneak: Ichimonji: Double",
+    "zh": "下蹲: 一文字二连",
+    "vi": null
+  },
+  "skill.efn.kusabimaru.tooltip6": {
+    "en": "Sneak & NightFallArtKey & Skill have learnt: §4WU SHEN ULTIMATE TECHNIQUE THE THREE FORMS OF ZERO INTENT",
+    "zh": "下蹲 & 摁下夜幕武技键 & 学习过不死斩技能书: §4武神将技艺之巅峰·叁式零极意",
+    "vi": null
+  },
+  "skill.efn.thornwheel.tooltip": {
+    "en": "Ghiza's Wheel",
+    "zh": "基萨的刺轮",
+    "vi": null
+  },
+  "skill.efn.thornwheel.tooltip1": {
+    "en": "Press",
+    "zh": "按",
+    "vi": null
+  },
+  "skill.efn.thornwheel.tooltip2": {
+    "en": "to activate Thornwheel and dash forward; hold to continue attacking",
+    "zh": "启动刺轮向前突进;可长按持续攻击",
+    "vi": null
+  },
+  "skill.efn.thornwheel.tooltip3": {
+    "en": "Thornwheel's basic attacks stack Bleed on targets. When enough stacks accumulate, use Thornwheel Dash to detonate them, dealing massive damage",
+    "zh": "刺轮的普通攻击会为目标叠加出血值, 层数足够时可使用刺轮突进引爆造成高额伤害",
+    "vi": null
+  },
+  "skill.efn.scythe_skill.longPress": {
+    "en": "(Hold)",
+    "zh": "(长按)",
+    "vi": null
+  },
+  "skill.efn.scythe_skill.tooltip": {
+    "en": "§c§o§lCrimson Harvest",
+    "zh": "§c§o§l血腥收割",
+    "vi": null
+  },
+  "skill.efn.scythe_skill.tooltip1": {
+    "en": "§6Core Mechanics§r",
+    "zh": "§6核心机制§r",
+    "vi": null
+  },
+  "skill.efn.scythe_skill.tooltip2": {
+    "en": "§7┌ §fBasic Attack§r: The 1st, 3rd, and 5th hits apply §cCurse of Blood§r (20s) to the target.",
+    "zh": "§7┌ §f普攻§r：第1/3/5段命中为目标叠加§c血疫§r(20秒)",
+    "vi": null
+  },
+  "skill.efn.scythe_skill.tooltip3": {
+    "en": "§7├ If the target is immune to §cCurse of Blood§r, grant yourself §dBlood Blessing§r instead as an alternative for consumption.",
+    "zh": "§7├ 如果目标免疫§c血疫§r时改为为自身叠加§d鲜血祝福§r，作为消耗替代",
+    "vi": null
+  },
+  "skill.efn.scythe_skill.tooltip4": {
+    "en": "§7├ §fDash Attack§r: On hit, absorbs 1 stack of §cCurse of Blood§r to grant §bDamage Reduction§r (15s), up to 4 stacks.",
+    "zh": "§7├ §f冲刺攻击§r：命中则吸收1层§c血疫§r，叠加§b伤害减免§r(15秒)，最多叠加4层",
+    "vi": null
+  },
+  "skill.efn.scythe_skill.tooltip5": {
+    "en": "§7├ §fJump Attack§r: On hit, absorbs 1 stack of §cCurse of Blood§r to grant §eAttack Speed Boost§r (15s), up to 3 stacks.",
+    "zh": "§7├ §f跳跃攻击§r：命中则吸收1层§c血疫§r，叠加§e攻速提升§r(15秒)，最多叠加3层",
+    "vi": null
+  },
+  "skill.efn.scythe_skill.tooltip6": {
+    "en": "§7├ §fSkill: Harvest§r: Unleashes 3 spinning attacks. Deals increased damage to §cCurse of Blood§r targets and absorbs 1 stack per hit,",
+    "zh": "§7├ §f战技·收割§r：释放三次回旋攻击，对§c血疫§r目标造成伤害提升，每次命中吸收1层§c血疫§r",
+    "vi": null
+  },
+  "skill.efn.scythe_skill.tooltip7": {
+    "en": "§7│ converting it into energy while granting Super Armor and stacking §aAttack Boost§r (15s), up to 6 stacks.",
+    "zh": "§7│ 将其转换为能量并获得霸体、叠加§a攻击提升§r(15秒)，最多叠加6层",
+    "vi": null
+  },
+  "skill.efn.scythe_skill.tooltip8": {
+    "en": "§7├ §fSkill Energy§r: Attacks generate energy. §6When fully charged, blocking allows casting the enhanced skill§r:",
+    "zh": "§7├ §f技能能量§r：攻击积攒能量，§6充能完毕后，防御期间可释放强化战技§r：",
+    "vi": null
+  },
+  "skill.efn.scythe_skill.tooltip9": {
+    "en": "§7│ §fSkill: Scarlet End§r: Unleashes a wide slash, clearing the target's §cCurse of Blood§r to deal bonus damage and restore HP based on stacks cleared.",
+    "zh": "§7│ §f战技·赤色末路§r：进行大范围的斩击、清空目标§c血疫§r并根据层数提升伤害、回复生命值",
+    "vi": null
+  },
+  "skill.efn.scythe_skill.tooltip10": {
+    "en": "§7└ §fSheathed Stance§r: Reduces dodge stamina cost, increases movement speed, and allows consuming energy to restore HP.",
+    "zh": "§7└ §f收刀状态§r：闪避耐力消耗降低、移速提升、能够消耗能量回复损失的生命值",
+    "vi": null
+  },
+  "skill.efn.scythe_skill.tooltip11": {
+    "en": "Sheathing: ",
+    "zh": "收刀: ",
+    "vi": null
+  },
+  "skill.efn.scythe_skill.tooltip12": {
+    "en": "Unleashes an extra slash when enchanted with Sweeping Edge III while the §aAttack Boost§r effect is active; gains a permanent extra slash enhancement when enchanted with §aCrimson Moon - Demonized§r at max energy.",
+    "zh": "当武器有横扫之刃III且持有§a攻击提升§r效果时，附带额外斩击;当持有§a赤月-魔化§r附魔且满能量时，获得常驻额外斩击强化",
+    "vi": null
+  },
+  "skill.efn.beastclaw.tooltip": {
+    "en": "§o§lFeral Claw ",
+    "zh": "§o§l狂野爪 ",
+    "vi": null
+  },
+  "skill.efn.beastclaw.tooltip1": {
+    "en": "Press",
+    "zh": "按",
+    "vi": null
+  },
+  "skill.efn.beastclaw.tooltip2": {
+    "en": "Unleash a savage roar forward, awakening the beast blood within. Feral power reduces stamina consumption and enhances attack power",
+    "zh": "向前方狂野嘶吼，唤起体内的野兽之血，狂野之力能够减少耐力消耗增强攻击力",
+    "vi": null
+  },
+  "skill.efn.shortsword.tooltip": {
+    "en": "§o§lReenactment ",
+    "zh": "§o§l重演 ",
+    "vi": null
+  },
+  "skill.efn.shortsword.tooltip1": {
+    "en": "Press",
+    "zh": "按",
+    "vi": null
+  },
+  "skill.efn.shortsword.tooltip2": {
+    "en": "Activate temporal power, causing the next strike to additionally inflict damage equal to the last attack from 3.5 seconds ago",
+    "zh": "激活时序之力，使得下一次击额外附带3.5前最后一次攻击的伤害",
+    "vi": null
+  },
+  "skill.efn.crescentmoon.tooltip": {
+    "en": "Soul Fusion",
+    "zh": "融魂",
+    "vi": null
+  },
+  "skill.efn.crescentmoon.tooltip1": {
+    "en": "Press",
+    "zh": "按",
+    "vi": null
+  },
+  "skill.efn.crescentmoon.tooltip2": {
+    "en": "to deploy a domain: Continuously gain super armor within range, and restore health each time you are attacked",
+    "zh": "展开领域: 范围内持续获得霸体，并且每次遭受攻击恢复生命值",
+    "vi": null
+  },
+  "skill.efn.crescentmoon.tooltip3": {
+    "en": "Press ",
+    "zh": "按",
+    "vi": null
+  },
+  "skill.efn.crescentmoon.tooltip4": {
+    "en": "Consume stamina to perform a charge with block; if successful, follow attack to unleash a super armor sweep",
+    "zh": "消耗耐力发动带有格挡判定的突击，判定成功后按攻击可派生霸体横扫",
+    "vi": null
+  },
+  "skill.efn.crescentmoon.tooltip5": {
+    "en": "Passive: ",
+    "zh": "被动: ",
+    "vi": null
+  },
+  "skill.efn.crescentmoon.tooltip6": {
+    "en": "Attacks deal 5% additional true damage to targets, stackable up to 10 times",
+    "zh": "攻击命中时对目标造成5%的额外真实伤害，可叠加10层",
+    "vi": null
+  },
+  "skill.efn.crescentmoon.tooltip7": {
+    "en": "Afflicted targets suffer reduced speed, weakened attack power, and a 25% chance for their attacks to deal no damage;",
+    "zh": "受击目标速度减缓，攻击力削弱且其攻击有25%概率不造成伤害;",
+    "vi": null
+  },
+  "skill.efn.broadblade.tooltip": {
+    "en": "Breaking Edge",
+    "zh": "破锋",
+    "vi": null
+  },
+  "skill.efn.broadblade.tooltip1": {
+    "en": "Nation Guardian: After parrying an attack, press",
+    "zh": "卫国: 招架攻击后按",
+    "vi": null
+  },
+  "skill.efn.broadblade.tooltip2": {
+    "en": "to launch a counterattack",
+    "zh": "发动反击",
+    "vi": null
+  },
+  "skill.efn.broadblade.tooltip3": {
+    "en": "Iron Bones: Super armor during attack wind-up",
+    "zh": "铁骨: 攻击前摇霸体",
+    "vi": null
+  },
+  "skill.efn.broadblade.tooltip5": {
+    "en": "Army Breaker: When hitting more than 2 targets, deal additional damage equal to 2% of each target's current health",
+    "zh": "破军: 命中目标数量大于2时，对命中目标附加其当前生命值百分之二的额外伤害",
+    "vi": null
+  },
+  "skill.efn.broadblade.tooltip6": {
+    "en": "Bloodbath: Upon killing an enemy, gain speed boost and continuous health regeneration",
+    "zh": "浴血: 造成击杀后获得速度加成并持续恢复生命",
+    "vi": null
+  },
+  "skill.efn.broadblade.tooltip7": {
+    "en": "Last Stand: When receiving a fatal blow, enter 15 seconds of 'Fighting Spirit'—greatly increased movement speed and damage, immune to ranged damage; death occurs after Fighting Spirit ends",
+    "zh": "死战: 受到致命伤后进入15秒的战斗续行，期间大幅提升移速和伤害;战斗续行结束后死亡",
+    "vi": null
+  },
+  "skill.efn.broadblade.tooltip8": {
+    "en": "Heroic Soul: After weapon kills exceed 100, gain immunity to darkness/blindness/slowness/mining fatigue; every 10s randomly gain two of the following: resistance boost/super armor/health regeneration/strength/effects",
+    "zh": "英魂: 武器击杀大于100后免疫黑暗/失明/缓慢/挖掘疲劳效果;每10s随机获得/抗性提升/霸体/生命恢复/力量/效果其中两种",
+    "vi": null
+  },
+  "skill.efn.broadblade.tooltip9": {
+    "en": "Revolution: Attacks have a 30% chance to ignore dodging and blocking; when triggered, deal additional damage equal to 5% of the target's current health",
+    "zh": "革命: 攻击时有百分之30的几率无视闪避防御，触发时额外对目标给予当前生命值百分之五的额外伤害",
+    "vi": null
+  },
+  "skill.efn.broadblade.tooltip10": {
+    "en": "Execute: When target's health <= MaxHealth*0.2,press the key Special Ability 2",
+    "zh": "处决：当目标生命值只剩20%时，摁下特殊技能2键触发处决（手撕鬼子）",
+    "vi": null
+  },
+  "skill.efn.broadblade.tooltip11": {
+    "en": "[§cLOCKED§r]:Need Enchantment——Revolution: Attacks have a 30% chance to ignore dodging and blocking; when triggered, deal additional damage equal to 5% of the target's current health",
+    "zh": "[§c已锁定§r]：需要附魔书——革命: 攻击时有百分之30的几率无视闪避防御，触发时额外对目标给予当前生命值百分之五的额外伤害",
+    "vi": null
+  },
+  "epicfight.style.falchion": {
+    "en": "Two Handed：CrescentMoon",
+    "zh": "双手握持：傩面偃月",
+    "vi": null
+  },
+  "epicfight.style.board_blade": {
+    "en": "Two Handed：Warriors-BroadBlade",
+    "zh": "双手握持：抗战大刀",
+    "vi": null
+  },
+  "effect.efn.sin_stun_immunity": {
+    "en": "§o§l§cTrue Stun Immunity",
+    "zh": "§o§l§c真·霸体",
+    "vi": null
+  },
+  "effect.efn.sin_stun_immunity.description": {
+    "en": "Immune to all types of stun",
+    "zh": "免疫所有硬直类型",
+    "vi": null
+  },
+  "effect.efn.invincibility": {
+    "en": "Invincible Time",
+    "zh": "无敌时间",
+    "vi": null
+  },
+  "effect.efn.invincibility.description": {
+    "en": "Cannot be hit by attacks",
+    "zh": "无法被攻击命中",
+    "vi": null
+  },
+  "effect.efn.meenlance": {
+    "en": "§o§l§cMeEn's Residual Flames",
+    "zh": "§o§l§c黄昏之火",
+    "vi": null
+  },
+  "effect.efn.bloodlust": {
+    "en": "§o§l§c bloodlust",
+    "zh": "§o§l§c 血癫狂",
+    "vi": null
+  },
+  "effect.efn.claw": {
+    "en": "§o§l§c BeastClaw",
+    "zh": "§o§l§c 狂野爪",
+    "vi": null
+  },
+  "effect.efn.replay": {
+    "en": "Replay Time",
+    "zh": "重演时间",
+    "vi": null
+  },
+  "effect.efn.ring": {
+    "en": "effect alpha",
+    "zh": "特效1",
+    "vi": null
+  },
+  "effect.efn.knockbackresistant": {
+    "en": "Knockback Resistance",
+    "zh": "击退抗性",
+    "vi": null
+  },
+  "effect.efn.heavy_rain_stun": {
+    "en": "Heavy Rain Stun",
+    "zh": "五月雨硬直",
+    "vi": null
+  },
+  "effect.efn.verticalstop": {
+    "en": "Vertical Halt",
+    "zh": "垂直停止",
+    "vi": null
+  },
+  "effect.efn.horizontalstop": {
+    "en": "Horizontal Halt",
+    "zh": "水平停止",
+    "vi": null
+  },
+  "effect.efn.damage_reduction": {
+    "en": "Damage Reduction",
+    "zh": "伤害减免",
+    "vi": null
+  },
+  "effect.efn.attack_damage_increase": {
+    "en": "ATK Boost",
+    "zh": "攻击力提升",
+    "vi": null
+  },
+  "effect.efn.attack_speed_increase": {
+    "en": "ATS Boost",
+    "zh": "攻击速度提升",
+    "vi": null
+  },
+  "effect.efn.curse_of_blood": {
+    "en": "Curse of blood",
+    "zh": "血疫",
+    "vi": null
+  },
+  "effect.efn.blood_blessing": {
+    "en": "Blood blessing",
+    "zh": "鲜血祝福",
+    "vi": null
+  },
+  "effect.efn.combo_execute_window": {
+    "en": "Execute Window",
+    "zh": "判定窗口",
+    "vi": null
+  },
+  "effect.efn.falchion_bless": {
+    "en": "Falchion Bless",
+    "zh": "偃月祝福",
+    "vi": null
+  },
+  "effect.efn.falchion_vulnerability": {
+    "en": "Crescent's Scare",
+    "zh": "傩面之怖",
+    "vi": null
+  },
+  "effect.efn.vulnerability": {
+    "en": "vulnerability",
+    "zh": "脆弱",
+    "vi": null
+  },
+  "effect.efn.gradual_heal": {
+    "en": "Gradual Heal",
+    "zh": "百分比生命恢复",
+    "vi": null
+  },
+  "effect.efn.gradual_heal.description": {
+    "en": "Restores total health equal to [%5 of max health * potion effect level] over the duration",
+    "zh": "持续时间内恢复总量[%5最大生命值 * 药水效果等级]的生命值",
+    "vi": null
+  },
+  "effect.efn.battle_continuation": {
+    "en": "Battle Continuation",
+    "zh": "战斗续行",
+    "vi": null
+  },
+  "effect.efn.battle_continuation.description": {
+    "en": "increased movement speed and damage, immune to ranged damage; death occurs after Fighting Spirit ends",
+    "zh": "持续时间内不死且获得增益，结束后死亡",
+    "vi": null
+  },
+  "effect.efn.shiver": {
+    "en": "Shiver",
+    "zh": "战栗",
+    "vi": null
+  },
+  "effect.efn.blood_explosion": {
+    "en": "BloodExplosion",
+    "zh": "爆血",
+    "vi": null
+  },
+  "effect.efn.murasama_sheath": {
+    "en": "Charging Sheath",
+    "zh": "收刀充能",
+    "vi": null
+  },
+  "epicfight.skill_slot.efn_arts": {
+    "en": "NF Arts",
+    "zh": "夜幕武技",
+    "vi": null
+  },
+  "epicfight.skill_slot.efn_sekiro": {
+    "en": "Sekiro Arts",
+    "zh": "只狼流派技能",
+    "vi": null
+  },
+  "epicfight.skill_slot.judgmentcut_end": {
+    "en": "JUDGEMENTCUT_END",
+    "zh": "次元斩绝",
+    "vi": null
+  },
+  "epicfight.skill_slot.efn_zansetsu": {
+    "en": "BLADE-MODE",
+    "zh": "斩切模式",
+    "vi": null
+  },
+  "skill.efn.yamato_step": {
+    "en": "§o§l§b YAMATO STEP",
+    "zh": "§o§l§b瞬身",
+    "vi": null
+  },
+  "skill.efn.yamato_step.tooltip": {
+    "en": "§o§l§bInstant Movement\n-§o§l§b Too Slow.",
+    "zh": "§o§l§b瞬身\n-§o§l§b Too Slow.",
+    "vi": null
+  },
+  "skill.efn.parry_master": {
+    "en": "§l『PARRY_MASTER』",
+    "zh": "§l『招 架 大 师』",
+    "vi": null
+  },
+  "skill.efn.parry_master.tooltip": {
+    "en": "§lGains skill charge after each parry\n-§l%d%% chance to ignore enemy defense (increases per successful parry)\n-§lEnables ICHIMONJI counters when wielding tachi/uchigatana",
+    "zh": "§l-每次招架后增加技能充能\n-§l攻击时%d%%§l概率无视目标的防御，每次成功招架后都会提升无视防御的概率\n-§l当使用太刀或打刀时，可额外施展一文字斩击.",
+    "vi": null
+  },
+  "skill.efn.indestructible": {
+    "en": "§o§c 『indestructible』",
+    "zh": "§o§c『坚不可摧』",
+    "vi": null
+  },
+  "skill.efn.indestructible.tooltip": {
+    "en": "§lTrue Combat Optimization:\n- §lNo hitstun\n- §lNo stamina cost\n- §lDodge cancel anytime\n- SLAY ALL!",
+    "zh": "§l真正的动作优化:\n- §l无硬直 \n- §l无耐力消耗 \n- §l任何时刻都可使用闪避取消动作. \n- SLAY ALL!",
+    "vi": null
+  },
+  "skill.efn.precise_parry": {
+    "en": "§o§c『PRECISE PARRY』",
+    "zh": "§l『精 准 招 架』",
+    "vi": null
+  },
+  "skill.efn.precise_parry.tooltip": {
+    "en": "§lParry within Parry:\n-§lMore precise parrying; §lMore fierce counterattacks.\n-Triggering parry at the perfect moment grants significant buffs and enhances the next attack within 0.7s.",
+    "zh": "§l招架中的招架：\n-§l更精确的招架；§l更凶猛的反击. \n-在最合适的时机触发招架后，获得大量增益效果并强化0.7s内的下一次攻击.",
+    "vi": null
+  },
+  "skill.efn.judgementcutend": {
+    "en": "§l『Judgement Cut End』",
+    "zh": "§l『次元斩绝』",
+    "vi": null
+  },
+  "skill.efn.judgementcutend.tooltip": {
+    "en": "§l SLAY ALL \n Press [%s] to use; %.1fs cooldown",
+    "zh": "§l SLAY ALL \n 按[%s]使用；冷却%.1f秒",
+    "vi": null
+  },
+  "skill.efn.zansetsu": {
+    "en": "『Blade Mode』",
+    "zh": "『斬切模式』",
+    "vi": null
+  },
+  "skill.efn.zansetsu.tooltip": {
+    "en": "The mountains don't give back what they take...\n\n◆ Activation Condition\n When holding 'HF-Murasama', hold [%s] to consume skill charge and enter 【Blade Mode】\n\n◆ Mode Mechanics\n Duration: %.1f seconds × HF-Murasama's current weapon charge stacks\n Basic Operation: Move mouse left/right to switch slash direction\n  · Click Left Button - Execute a single slash\n  · Hold Left Button - Execute a reciprocating slash\n Advanced Operation: Hold [%s] to switch input mode\n  In this mode, swipe mouse in 8 directions to directly execute slashes\n\n◆ Finisher\n When slashes hit a certain number of times or target's health falls below a certain percentage\n Press RMB to execute 【Zandatsu】\n\n※ This skill is exclusive to 'HF-Murasama', other weapons cannot use it",
+    "zh": "高山不会归还所得的一切...\n\n◆ 发动条件\n 持有'高频村雨'时，按住[%s]键消耗技能充能，进入【斩切模式】\n\n◆ 模式机制\n 持续时间：%.1f秒 × '高频村雨'当前武器充能层数\n 基础操作：左右移动鼠标切换斩击方向\n  · 单点左键 - 释放一次斩击\n  · 长按左键 - 释放来回斩击\n- 进阶操作：按住[%s]切换输入模式\n 此模式下可八向划动鼠标直接释放斩击\n\n◆ 终结技\n 当斩击命中一定次数或目标生命值低于一定比例时\n按下鼠标右键释放【斩夺】\n\n※ 此技能为'高频村雨'专用，其它武器无法使用",
+    "vi": null
+  },
+  "skill.efn.stomp": {
+    "en": "§l『Gravity Stomp』",
+    "zh": "§l『重力践踏』",
+    "vi": null
+  },
+  "skill.efn.stomp.tooltip": {
+    "en": "Press [%s] to consume %.1f stamina for a wide-area stomp attack; %.1fs cooldown \n-§lDeals extra damage to 'Vex' entities",
+    "zh": "按[%s]消耗%.1f耐力进行大范围踩踏杀伤；冷却%.1f秒 \n-§l对“恼鬼”实体特攻",
+    "vi": null
+  },
+  "skill.efn.execution": {
+    "en": "§l『Soul Hunt』",
+    "zh": "§l『猎魂』",
+    "vi": null
+  },
+  "skill.efn.execution.tooltip": {
+    "en": "Press [%s] to launch an assault forward; %.1fs cooldown \n-『Soul Hunt』 reduces cooldown by %.1fs per kill during cooldown period \n-『Soul Hunt』 directly killing target reduces cooldown by %.1fs, gain %d innate skill stacks \n-『Soul Hunt』 hitting guard-broken target increases damage to %dx, impact to %dx, and reduces cooldown by %.1fs, gain %d innate skill stacks \n-『Soul Hunt』 directly killing target or hitting guard-broken target grants significant buffs",
+    "zh": "按[%s]向前方发动强袭；冷却%.1f秒 \n-『猎魂』冷却期间可通过造成击杀减少%.1f秒冷却时间 \n-『猎魂』直接击杀目标则减少%.1f秒冷却时间，增加%d层技能充能 \n-『猎魂』命中破防目标则伤害提升至%d倍，冲击提升至%d倍，同时减少%.1f秒冷却时间，增加%d层技能充能 \n-『猎魂』直接击杀目标或命中破防目标都会获得大量增益效果",
+    "vi": null
+  },
+  "skill.efn.murasama_parry": {
+    "en": "§l『Parry-MURASAMA』",
+    "zh": "§l『招架-高频村雨』",
+    "vi": null
+  },
+  "skill.efn.murasama_parry.tooltip": {
+    "en": "Enhanced parrying-MURASAMA",
+    "zh": "更好的招架-高频村雨",
+    "vi": null
+  },
+  "skill.efn.mortal_blade": {
+    "en": "§l『Mortal Blade-HaiRui』",
+    "zh": "§l『不死斩-拜泪』",
+    "vi": null
+  },
+  "skill.efn.mortal_blade.tooltip": {
+    "en": "Press [%s] to consume %.1f stamina for use Mortal Blade, %.1fs cooldown, consume %d stacks\n-A blade shrouded in crimson-black miasma that cuts down enemies from great distances;\nAn unsheathed technique only the Divine Heir's attendant can wield - the forbidden draw of immortality's bane",
+    "zh": "按 [%s] 消耗 %.1f 点耐力使用不死斩, 冷却%.1f秒, 技能消耗 %d 层\n-令黑红色瘴气由不死斩渗出，可以长射程利刃横扫敌人;\n拔刀挥斩不可出鞘之刀，乃龙胤神子的侍从方可驾驭的招式",
+    "vi": null
+  },
+  "tooltip.efn.yamato.skill_progress_title": {
+    "en": "Judgement Cut EndSkill Progress: %d Kills",
+    "zh": "次元斩-绝技能进度：%d击杀",
+    "vi": null
+  },
+  "tooltip.efn.yamato.skill_reward_disabled": {
+    "en": "Skill reward feature disabled",
+    "zh": "技能奖励功能已禁用",
+    "vi": null
+  },
+  "tooltip.efn.yamato.skill_reward_unavailable": {
+    "en": "Skill reward unavailable",
+    "zh": "技能奖励暂不可用",
+    "vi": null
+  },
+  "item.efn.welcome_diamond": {
+    "en": "EFN Guide",
+    "zh": "EFN模组指南",
+    "vi": null
+  },
+  "tooltip.efn.keybind_warning": {
+    "en": "Please ensure your Invincibile KeyBinding [KEY1] keybind is set to Left Click;",
+    "zh": "§c请确保您的无坚不摧键位KEY1为鼠标左键;",
+    "vi": null
+  },
+  "itemGroup.efn.items": {
+    "en": "NightFall",
+    "zh": "NightFall",
+    "vi": null
+  },
+  "itemGroup.efn.items_extra": {
+    "en": "NightFall-Extra",
+    "zh": "NightFall-Extra",
+    "vi": null
+  },
+  "advancement.efn.obtain_ruinsgreatsword.title": {
+    "en": "Ancient Relic",
+    "zh": "遥远的遗物",
+    "vi": null
+  },
+  "advancement.efn.obtain_ruinsgreatsword.description": {
+    "en": "Obtain the Ruins Greatsword",
+    "zh": "一个被遗忘的国度，停滞在时间的尽头",
+    "vi": null
+  },
+  "advancement.efn.obtain_nf_dual_sword.title": {
+    "en": "§i§l[Ancient Sculk Twinblades]",
+    "zh": "§i§l古老的工艺",
+    "vi": null
+  },
+  "advancement.efn.obtain_nf_dual_sword.description": {
+    "en": "§7Obtained the paired blades from the lost city. Their whispering echoes the forgotten techniques of ancients.",
+    "zh": "§7引领进步的，是恐惧与折磨",
+    "vi": null
+  },
+  "advancement.efn.obtain_meen_spear.title": {
+    "en": "§c§l[Duskfire Awakens]",
+    "zh": "§c§l余火",
+    "vi": null
+  },
+  "advancement.efn.obtain_meen_spear.description": {
+    "en": "§7The Netherite lance hums with residual heat. Its weight alone could crush a skull.",
+    "zh": "§7紧握永不熄灭的余火",
+    "vi": null
+  },
+  "advancement.efn.obtain_sword_of_pioneer.title": {
+    "en": "§e§l[Vanguard's Legacy]",
+    "zh": "§e§l开拓者",
+    "vi": null
+  },
+  "advancement.efn.obtain_sword_of_pioneer.description": {
+    "en": "§7This saber still bears the crest of the first Nether expedition. Its edge has tasted demon blood.",
+    "zh": "§7永远铭记开拓者的勇气",
+    "vi": null
+  },
+  "advancement.efn.obtain_exsiliumgladius.title": {
+    "en": "§4§l[Exile's Right Hand]",
+    "zh": "§4§l放逐者右刃",
+    "vi": null
+  },
+  "advancement.efn.obtain_exsiliumgladius.description": {
+    "en": "§8The crimson blade thirsts for its twin. Together they shall dance the dance of ruin.",
+    "zh": "§8猩红刀锋渴求着它的孪生兄弟，双刀合璧时将上演毁灭之舞",
+    "vi": null
+  },
+  "advancement.efn.obtain_fire_exsiliumgladius.title": {
+    "en": "§c§l[Exile's Left Hand]",
+    "zh": "§4§l放逐者左刃",
+    "vi": null
+  },
+  "advancement.efn.obtain_fire_exsiliumgladius.description": {
+    "en": "§8Flames lick the obsidian edge. The left blade completes the pair, unlocking their true devastation.",
+    "zh": "§8火焰舔舐着黑曜石刃缘，左刃与右刃合体时将释放真正的破坏力",
+    "vi": null
+  },
+  "advancement.efn.obtain_air_tachi.title": {
+    "en": "§b§l[Bloody Killing]",
+    "zh": "§4§l累积者",
+    "vi": null
+  },
+  "advancement.efn.obtain_air_tachi.description": {
+    "en": "A razor-edged blade awakened by bloodshed, though skeletal remains and blood rust warn of its cursed nature...",
+    "zh": "为了重现某个时代而累积牺牲",
+    "vi": null
+  },
+  "advancement.efn.obtain_co_tachi.title": {
+    "en": "§4§l[Osteofrenzy]",
+    "zh": "§4§l噬骨血癫",
+    "vi": null
+  },
+  "advancement.efn.obtain_co_tachi.description": {
+    "en": "§8The steel-forged evolution of Bloodfury, where bones celebrate their gruesome banquet",
+    "zh": "§8血癫狂的钢铸形态，骨骼欢庆着它们的盛宴",
+    "vi": null
+  },
+  "advancement.efn.obtain_yamato_dmc4.title": {
+    "en": "§3§l[YAMATO - Exiled]",
+    "zh": "§3§l阎魔刀·解",
+    "vi": null
+  },
+  "advancement.efn.obtain_yamato_dmc4.description": {
+    "en": "§bThe sheath trembles with restrained power. §o§l『Too slow...』",
+    "zh": "§b刀鞘因被压抑的力量而震颤 §o§l『太慢了...』",
+    "vi": null
+  },
+  "advancement.efn.obtain_yamato_dmc.title": {
+    "en": "§1§l[YAMATO - Unbound]",
+    "zh": "§1§lSon of Sparda",
+    "vi": null
+  },
+  "advancement.efn.obtain_yamato_dmc.description": {
+    "en": "§bThe true Sparda heritage. §o§l『Now I'm motivated!』",
+    "zh": "I'm free now, father.",
+    "vi": null
+  },
+  "advancement.efn.obtain_hf_murasama.title": {
+    "en": "§c§lLet's Dance!",
+    "zh": "§c§lLet's Dance!",
+    "vi": null
+  },
+  "advancement.efn.obtain_hf_murasama.description": {
+    "en": "The Only Thing I Know For Real.....",
+    "zh": "The Only Thing I Know For Real.....",
+    "vi": null
+  },
+  "advancement.efn.obtain_hf_blade.title": {
+    "en": "§b§lLet's Dance!",
+    "zh": "§b§lLet's Dance!",
+    "vi": null
+  },
+  "advancement.efn.obtain_hf_blade.description": {
+    "en": "This is not my sword.....",
+    "zh": "This is not my sword.....",
+    "vi": null
+  },
+  "advancement.efn.obtain_mortal_blade.title": {
+    "en": "§c§lMortal Blade",
+    "zh": "§c§l不死斩",
+    "vi": null
+  },
+  "advancement.efn.obtain_mortal_blade.description": {
+    "en": "不死斬り....確かに、もらい受けた",
+    "zh": "§c§l能斩杀不死之人的大太刀:其红色锋刃会使拔刀者丧命,若无起死回生之力，无法成为不死斩的主人\n——拔刀挥斩不可出鞘之刀,乃龙胤神子的侍从方可驾驭的招式",
+    "vi": null
+  },
+  "advancement.efn.toast.nf_dual_sword": {
+    "en": "Ancient Whispers Unlocked",
+    "zh": "古老的工艺",
+    "vi": null
+  },
+  "advancement.efn.toast.meen_spear": {
+    "en": "Embers Ignited",
+    "zh": "尚有余温",
+    "vi": null
+  },
+  "advancement.efn.toast.sword_of_pioneer": {
+    "en": "Vanguard's Oath Fulfilled",
+    "zh": "敢为人先",
+    "vi": null
+  },
+  "advancement.efn.toast.exsiliumgladius": {
+    "en": "Right Hand of Exile Claimed",
+    "zh": "放逐者之右刃",
+    "vi": null
+  },
+  "advancement.efn.toast.fire_exsiliumgladius": {
+    "en": "Left Hand of Exile Claimed",
+    "zh": "放逐者之左刃",
+    "vi": null
+  },
+  "advancement.efn.toast.air_tachi": {
+    "en": "Bloody Killing",
+    "zh": "累积者",
+    "vi": null
+  },
+  "advancement.efn.toast.co_tachi": {
+    "en": "Feast of Bones Begins",
+    "zh": "骨宴开始",
+    "vi": null
+  },
+  "advancement.efn.toast.yamato_dmc4": {
+    "en": "Bury the light deep within!",
+    "zh": "Bury the light deep within!",
+    "vi": null
+  },
+  "advancement.efn.toast.yamato_dmc": {
+    "en": "Born in flames, I have been blessed",
+    "zh": "I loved you, brother…",
+    "vi": null
+  },
+  "advancement.efn.toast.hf_murasama": {
+    "en": "The mountains don't give back what they take.",
+    "zh": "The mountains don't give back what they take.",
+    "vi": null
+  },
+  "advancement.efn.toast.hf_blade": {
+    "en": "My sword was a tool of justice",
+    "zh": "My sword was a tool of justice",
+    "vi": null
+  },
+  "skill_tree.efn.efn_skills": {
+    "en": "nightfall",
+    "zh": "夜幕",
+    "vi": null
+  },
+  "skill.efn.judgementcutend.unlock_tip": {
+    "en": "Unlocked after learning from skill book",
+    "zh": "通过技能书学习后解锁",
+    "vi": null
+  },
+  "stat.efn.judgementcutend_unlock": {
+    "en": "Judgement Cut End Unlocked",
+    "zh": "次元斩绝解锁",
+    "vi": null
+  },
+  "skill.epicfight.efn_arts.category": {
+    "en": "Nightfall Arts",
+    "zh": "夜幕武技",
+    "vi": null
+  },
+  "skill.epicfight.efn_sekiro.category": {
+    "en": "Sekiro Arts",
+    "zh": "只狼流派技能",
+    "vi": null
+  },
+  "skill.epicfight.efn_zansetsu.category": {
+    "en": "BLADE MODE",
+    "zh": "斩切模式",
+    "vi": null
+  },
+  "skill.epicfight.judgmentcut_end.category": {
+    "en": "JC:E",
+    "zh": "次元斩绝",
+    "vi": null
+  },
+  "key.efn.doppelganger": {
+    "en": "Doppelganger",
+    "zh": "阎魔刀分身",
+    "vi": null
+  },
+  "key.efn.doppelganger_delay": {
+    "en": "Doppelganger Delay Switch",
+    "zh": "分身延迟转换",
+    "vi": null
+  },
+  "key.efn.summoned_sword": {
+    "en": "Summoned Sword",
+    "zh": "幻影剑",
+    "vi": null
+  },
+  "key.efn.arts": {
+    "en": "Nightfall Arts",
+    "zh": "夜幕武技",
+    "vi": null
+  },
+  "key.efn.category": {
+    "en": "EpicFight:Nightfall",
+    "zh": "史诗战斗:夜幕",
+    "vi": null
+  },
+  "key.efn.angel": {
+    "en": "Angel Style",
+    "zh": "天使风格",
+    "vi": null
+  },
+  "key.efn.demon": {
+    "en": "Demon Style",
+    "zh": "恶魔风格",
+    "vi": null
+  },
+  "key.efn.zansetsu_input_switch": {
+    "en": "Zansetsu Input Switch",
+    "zh": "斩切输入模式切换",
+    "vi": null
+  },
+  "prompt.efn.repaidslash": {
+    "en": "repaidslash",
+    "zh": "疾走居合",
+    "vi": null
+  },
+  "prompt.efn.flarecut": {
+    "en": "flarecut",
+    "zh": "耀斑",
+    "vi": null
+  },
+  "prompt.efn.flarecut_rise": {
+    "en": "flarecut_rise",
+    "zh": "太阳耀斑",
+    "vi": null
+  },
+  "prompt.efn.divorce1": {
+    "en": "divorce1",
+    "zh": "崩离斩-1",
+    "vi": null
+  },
+  "prompt.efn.divorce2": {
+    "en": "divorce2",
+    "zh": "崩离斩-2",
+    "vi": null
+  },
+  "prompt.efn.divorce3": {
+    "en": "divorce3",
+    "zh": "崩离斩-3",
+    "vi": null
+  },
+  "prompt.efn.volcanol": {
+    "en": "volcanol",
+    "zh": "火山",
+    "vi": null
+  },
+  "prompt.efn.volcanol_hold": {
+    "en": "volcanol_hold",
+    "zh": "红莲",
+    "vi": null
+  },
+  "prompt.efn.upperslash": {
+    "en": "upperslash",
+    "zh": "上挑",
+    "vi": null
+  },
+  "prompt.efn.upperslash_hold": {
+    "en": "upperslash_hold",
+    "zh": "上挑EX",
+    "vi": null
+  },
+  "prompt.efn.helmbreaker": {
+    "en": "helmbreaker",
+    "zh": "破盔",
+    "vi": null
+  },
+  "prompt.efn.judgementcut": {
+    "en": "judgementcut",
+    "zh": "次元斩",
+    "vi": null
+  },
+  "efn.config.yamato_catcher_blacklist.desc": {
+    "en": "Entities that CANNOT be caught by Yamato Catcher (format: modid:entity_id)\nThese entities will be ignored regardless of knockback resistance\nExample: [\"minecraft:wither\", \"minecraft:ender_dragon\"]",
+    "zh": "无法被阎魔刀抓取的实体（格式：modid:实体id）\n这些实体无论击退抗性如何都会被忽略\n示例：[\"minecraft:wither\", \"minecraft:ender_dragon\"]",
+    "vi": null
+  },
+  "efn.config.yamato_catcher_whitelist.desc": {
+    "en": "Entities that CAN be caught by Yamato Catcher (format: modid:entity_id)\nThese entities can be caught regardless of knockback resistance\nExample: [\"minecraft:player\", \"minecraft:zombie\"]",
+    "zh": "可以被阎魔刀抓取的实体（格式：modid:实体id）\n这些实体无论击退抗性如何都可以被抓取\n示例：[\"minecraft:player\", \"minecraft:zombie\"]",
+    "vi": null
+  },
+  "efn.config.yamato_globalstun_whitelist.desc": {
+    "en": "Entities that can be Global Focus stunned by Yamato successful parry + attack combo (format: modid:entity_id)\nThese entities will receive YamatoStunEffect when hit\nUse 'modid:all' to include all entities from a mod\nExample: [\"minecraft:zombie\", \"cataclysm:all\", \"iceandfire:all\"]",
+    "zh": "可以被阎魔刀成功格挡+攻击连招全局眩晕的实体（格式：modid:实体id）\n这些实体在被击中时会受到阎魔刀眩晕效果\n使用'modid:all'来包含模组中的所有实体\n示例：[\"minecraft:zombie\", \"cataclysm:all\", \"iceandfire:all\"]",
+    "vi": null
+  },
+  "efn.config.yamato_parry_stun_duration.desc": {
+    "en": "Duration of stun effect applied after successful parry + attack combo (in ticks, 20 ticks = 1 second)",
+    "zh": "成功格挡+攻击连招后眩晕效果的持续时间（单位：刻，20刻=1秒）",
+    "vi": null
+  },
+  "efn.config.yamato_parry_stun_cooldown.desc": {
+    "en": "Cooldown between parry stuns (in ticks, 20 ticks = 1 second)",
+    "zh": "格挡眩晕之间的冷却时间（单位：刻，20刻=1秒）",
+    "vi": null
+  },
+  "efn.config.animation_blacklist.desc": {
+    "en": "Entities that won't play Yamato's stun animations (format: modid:entity_id)\nExample: [\"minecraft:wither\", \"minecraft:ender_dragon\"]",
+    "zh": "不会播放阎魔刀眩晕动画的实体（格式：modid:实体id）\n示例：[\"minecraft:wither\", \"minecraft:ender_dragon\"]",
+    "vi": null
+  },
+  "efn.config.animation_whitelist.desc": {
+    "en": "Entities that can play Yamato's stun animations (format: modid:entity_id)\nExample: [\"minecraft:player\", \"minecraft:zombie\", \"minecraft:skeleton\"]",
+    "zh": "可以播放阎魔刀眩晕动画的实体（格式：modid:实体id）\n示例：[\"minecraft:player\", \"minecraft:zombie\", \"minecraft:skeleton\"]",
+    "vi": null
+  },
+  "efn.config.yamato_reward_enabled.desc": {
+    "en": "Enable/disable the skill book reward for Yamato JudgementCut-End\nWhen enabled, players will receive JudgementCut-End skill book after reaching the kill threshold\nDefault: true (enabled)",
+    "zh": "启用/禁用阎魔刀次元斩绝的技能书奖励\n启用后，玩家在达到击杀阈值后将获得次元斩绝技能书\n默认：true（启用）",
+    "vi": null
+  },
+  "efn.config.yamato_reward_kill_threshold.desc": {
+    "en": "Number of kills required to receive the Yamato JudgementCut-End reward\nSet to 0 to disable the reward system\nDefault: 100 kills",
+    "zh": "获得阎魔刀次元斩绝奖励所需的击杀数量\n设置为0以禁用奖励系统\n默认：100击杀",
+    "vi": null
+  },
+  "efn.config.enable_judgementcut_end_camera_animations.desc": {
+    "en": "Enable/disable camera animations for JudgementCut-End\nWhen enabled, JudgementCut-End will play cinematic camera animations\nDefault: true (enabled)",
+    "zh": "启用/禁用在次元斩绝时播放运镜动画",
+    "vi": null
+  },
+  "efn.config.enable_judgementcut_end_particles.desc": {
+    "en": "Enable/disable particle effects for JudgementCut-End\nDisable Judgement Cut End's particle effects that may cause rendering incompatibility\nDefault: true (enabled)",
+    "zh": "启用/禁用在次元斩绝时播放粒子效果\n启用可能导致渲染不兼容的次元斩绝粒子效果\n默认：true（启用）",
+    "vi": null
+  },
+  "efn.config.enable_yamato_parry_timeslowdown.desc": {
+    "en": "Yamato parry timeslowdown\nDisable time slowdown effect that Yamato parry\nDefault: true (enabled)",
+    "zh": "启用/禁用阎魔刀成功格挡时的时间减缓效果",
+    "vi": null
+  },
+  "efn.config.yamato_parry_timeslow_delay": {
+    "en": "yamatoParryTimeSlowDelay",
+    "zh": "时缓延迟时间",
+    "vi": null
+  },
+  "efn.config.yamato_parry_timeslow_delay.desc": {
+    "en": "Delay before time slowdown effect starts (in ticks)\n20 ticks = 1 second. This creates a brief pause before the slowdown\nDefault: 5 ticks (0.25 seconds)",
+    "zh": "时缓效果开始前的延迟时间（单位：刻）",
+    "vi": null
+  },
+  "efn.config.yamato_parry_timeslow_duration": {
+    "en": "yamatoParryTimeSlowEnd",
+    "zh": "时缓结束时间",
+    "vi": null
+  },
+  "efn.config.yamato_parry_timeslow_duration.desc": {
+    "en": "End time of time slowdown effect (in ticks)\n20 ticks = 1 second. When the time slowdown end\nDefault: 3 ticks",
+    "zh": "时缓效果的结束时间（单位：刻）",
+    "vi": null
+  },
+  "efn.config.yamato_parry_timeslow_amplifier": {
+    "en": "yamatoParryTimeSlowAmplifier",
+    "zh": "时缓强度等级",
+    "vi": null
+  },
+  "efn.config.yamato_parry_timeslow_amplifier.desc": {
+    "en": "Strength level of time slowdown effect\n1 = 1% speed, 2 = 2% speed, 3 = 3% speed, 4 = 4% speed, 5 = 5% speed\nDefault: 3 (15% speed - perfect dodge level)",
+    "zh": "时缓效果的强度等级",
+    "vi": null
+  },
+  "efn.config.enable_dualsword_dodge_timeslowdown.desc": {
+    "en": "Dualsword dodge timeslowdown\nDisable time slowdown effect that Dualsword dodge\nDefault: true (enabled)",
+    "zh": "启用/禁用双刀成功闪避时的时间减缓效果",
+    "vi": null
+  },
+  "efn.config.dualsword_dodge_timeslow_delay": {
+    "en": "DualswordDodgeTimeSlowDelay",
+    "zh": "时缓延迟时间",
+    "vi": null
+  },
+  "efn.config.dualsword_dodge_timeslow_delay.desc": {
+    "en": "Delay before time slowdown effect starts (in ticks)\n20 ticks = 1 second. This creates a brief pause before the slowdown\nDefault: 4 ticks",
+    "zh": "时缓效果开始前的延迟时间（单位：刻）",
+    "vi": null
+  },
+  "efn.config.dualsword_dodge_timeslow_duration": {
+    "en": "DualswordDodgeTimeSlowEnd",
+    "zh": "时缓持续时间",
+    "vi": null
+  },
+  "efn.config.dualsword_dodge_timeslow_duration.desc": {
+    "en": "End time of time slowdown effect (in ticks)\n20 ticks = 1 second. When the time slowdown end\nDefault: 7 ticks",
+    "zh": "时缓效果的结束时间（单位：刻）",
+    "vi": null
+  },
+  "efn.config.dualsword_dodge_timeslow_amplifier": {
+    "en": "DualswordDodgeTimeSlowAmplifier",
+    "zh": "时缓强度等级",
+    "vi": null
+  },
+  "efn.config.dualsword_dodge_timeslow_amplifier.desc": {
+    "en": "Strength level of time slowdown effect\n1 = 1% speed, 2 = 2% speed, 3 = 3% speed, 4 = 4% speed, 5 = 5% speed\nDefault: 5",
+    "zh": "时缓效果的强度等级",
+    "vi": null
+  },
+  "efn.config.judgement_cut_end_damage_rate.desc": {
+    "en": "Base damage rate for Judgement Cut End\nThis multiplies the base damage calculation\nDefault: 2.0",
+    "zh": "次元斩绝的基础伤害倍率",
+    "vi": null
+  },
+  "efn.config.judgement_cut_end_cut_rate.desc": {
+    "en": "Cut rate for Judgement Cut End (percentage of max health)\nThis determines how much percentage damage is dealt based on target's max health\nDefault: 0.4 (40%)",
+    "zh": "次元斩绝的斩击比率（基于目标最大生命值的百分比）",
+    "vi": null
+  },
+  "efn.config.judgement_cut_end_boss_damage_multiplier.desc": {
+    "en": "Damage multiplier against bosses\nThis multiplies the damage when attacking bosses\nDefault: 1.0 (no multiplier)",
+    "zh": "对BOSS的伤害倍率",
+    "vi": null
+  },
+  "efn.config.judgement_cut_end_health_percentage.desc": {
+    "en": "Health percentage used in damage calculation\nThis is the percentage of max health used in the formula: cutRate * (maxHealth * healthPercentage)\nDefault: 0.4 (40%)",
+    "zh": "伤害计算中使用的生命值百分比",
+    "vi": null
+  },
+  "efn.config.enable_bloodlust_posteffect.desc": {
+    "en": "Enable/disable post-effect when bloodlust's skill active\nWhen enabled, bloodlust's skill will play post-effect\nDefault: true (enabled)",
+    "zh": "启用/禁用血癫狂技能激活时的画面滤镜",
+    "vi": null
+  }
+}

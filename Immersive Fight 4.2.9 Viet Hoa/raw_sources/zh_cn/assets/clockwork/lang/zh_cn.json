@@ -1,0 +1,20 @@
+{
+  "packet.clockwork.client_message.is_flying": "%1$s 正在飞行",
+  "packet.clockwork.client_message.is_walking": "%1$s 正在行走",
+
+  "key.clockwork.toggle_dragonfly_flight": "切换机动蜻蜓飞行模式",
+  "key.categories.clockwork": "发条工艺",
+
+  "creativetab.clockwork.title": "发条工艺",
+
+  "item.clockwork.clockwork_gear": "发条齿轮",
+  "item.clockwork.crossbow_barrel": "弩机膛管",
+  "item.clockwork.clockwork_arrow": "发条弩箭",
+  "item.clockwork.barrel_crossbow": "连发机弩",
+  "item.clockwork.scope_crossbow": "带瞄准镜的连发机弩",
+  "item.clockwork.clockwork_potion_sprayer": "发条药剂喷枪",
+  "item.clockwork.clockwork_wings": "发条飞翼",
+
+  "entity.clockwork.dragonfly": "机动蜻蜓",
+  "entity.clockwork.broken_dragonfly": "损坏的机动蜻蜓"
+}

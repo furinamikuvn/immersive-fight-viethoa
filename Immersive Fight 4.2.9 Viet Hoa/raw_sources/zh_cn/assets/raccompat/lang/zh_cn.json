@@ -1,0 +1,83 @@
+{
+
+  "item.raccompat.acid_walker": "浓酸行者",
+
+  "tooltip.relics.acid_walker.description": "允许穿戴者安全地穿越酸性表面，使有害影响无效化并提供保护。给予了探索辐射危险区的权限，将不可能变成可能。",
+
+  "tooltip.relics.acid_walker.ability.walking": "酸性跨越",
+
+  "tooltip.relics.acid_walker.ability.walking.description": "在一段时间内，允许在酸性表面上移动，而不会沉入其中或被腐蚀。在酸性表面停留足够长的时间后，移动时留下毒渍拖尾，对所有生物产生腐蚀作用。",
+
+  "tooltip.relics.acid_walker.ability.walking.stat.duration.title": "持续时间",
+
+  "tooltip.relics.acid_walker.ability.walking.stat.duration.value": "%1$s 秒.",
+
+
+
+  "item.raccompat.polar_boot": "磁极靴子",
+
+  "tooltip.relics.polar_boot.description": "为佩戴者提供在水面上漂浮的能力，使其更容易穿越困难的地形。",
+
+  "tooltip.relics.polar_boot.ability.polarity": "两级反转",
+
+  "tooltip.relics.polar_boot.ability.polarity.description": "将靴子的极性在蓝色和红色之间切换。红色增加了对地面的吸引力，而蓝色则允许你进行悬浮。",
+
+  "tooltip.relics.polar_boot.ability.polarity.stat.speed.title": "悬浮速度调节器：",
+
+  "tooltip.relics.polar_boot.ability.polarity.stat.speed.value": "x%1$s%%.",
+
+
+
+  "item.raccompat.desolate_pendant": "异寂吊坠",
+
+  "tooltip.relics.desolate_pendant.description": "挥舞着幽灵般的刀，悄悄地刺穿佩戴者路径上的目标。",
+
+  "tooltip.relics.desolate_pendant.ability.desolate": "空无影刃",
+
+  "tooltip.relics.desolate_pendant.ability.desolate.description": "每次攻击命中目标后均有概率召唤一把幻影刃刺向目标，幻影刃会据百分比继承玩家当前持有的武器的伤害",
+
+  "tooltip.relics.desolate_pendant.ability.desolate.stat.damage.title": "造成的伤害:",
+
+  "tooltip.relics.desolate_pendant.ability.desolate.stat.damage.value": "%1$s%%.",
+
+  "tooltip.relics.desolate_pendant.ability.desolate.stat.chance.title": "触发几率:",
+
+  "tooltip.relics.desolate_pendant.ability.desolate.stat.chance.value": "%1$s%%.",
+
+  "tooltip.relics.desolate_pendant.ability.devastate": "毁灭打击",
+
+  "tooltip.relics.desolate_pendant.ability.devastate.description": "选定并在一个目标所在的位置召唤数把幻影刃，一齐刺向目标。",
+
+  "tooltip.relics.desolate_pendant.ability.devastate.stat.count.title": "幻影刃数量:",
+
+  "tooltip.relics.desolate_pendant.ability.devastate.stat.count.value": "%1$s 个.",
+
+  "tooltip.relics.desolate_pendant.ability.devastate.stat.cooldown.title": "冷却时间:",
+
+  "tooltip.relics.desolate_pendant.ability.devastate.stat.cooldown.value": "%1$s 秒",
+
+  "tooltip.relics.desolate_pendant.ability.devastate.predicate.target": "查看目标",
+
+  "tooltip.relics.desolate_pendant.ability.devastate.predicate.weapon": "当武器在主手",
+
+
+
+  "item.raccompat.vine_ring": "蔓生之戒",
+
+  "tooltip.relics.vine_ring.description": "古老藤蔓丛生，为探索原始洞穴的复杂景观开辟了新的途径。",
+
+  "tooltip.relics.vine_ring.ability.vine": "藤蔓",
+
+  "tooltip.relics.vine_ring.ability.vine.description": "使用后可据距佩戴者头顶最近的完整方块位置，向上生成一根古老藤。",
+
+  "tooltip.relics.vine_ring.ability.vine.stat.length.title": "最大距离:",
+
+  "tooltip.relics.vine_ring.ability.vine.stat.length.value": "%1$s 格.",
+
+  "tooltip.relics.vine_ring.ability.vine.stat.cooldown.title": "冷却时间:",
+
+  "tooltip.relics.vine_ring.ability.vine.stat.cooldown.value":"%1$s 秒.",
+
+  "tooltip.relics.vine_ring.ability.vine.predicate.ceil": "头顶的方块"
+
+}

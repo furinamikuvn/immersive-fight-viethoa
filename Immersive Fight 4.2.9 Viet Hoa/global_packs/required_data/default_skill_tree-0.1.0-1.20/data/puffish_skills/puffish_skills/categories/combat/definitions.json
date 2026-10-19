@@ -1,0 +1,1152 @@
+{
+  "root_health+2": {
+    "title": "Máu Tối Đa",
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "challenge"
+      }
+    },
+    "icon": {
+      "type": "effect",
+      "data": {
+        "effect": "health_boost"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "generic.max_health",
+          "value": 5,
+          "operation": "addition"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "betterend:generic.blindness_resistance",
+          "value": 1,
+          "operation": "addition"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_skills:player.stamina",
+          "value": 100,
+          "operation": "addition"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "epicfight:stamina_regen",
+          "value": 0.1,
+          "operation": "addition"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "generic.attack_speed",
+          "value": 0.03,
+          "operation": "multiply_total"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "generic.movement_speed",
+          "value": 0.05,
+          "operation": "multiply_total"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "forge:swim_speed",
+          "value": 0.8,
+          "operation": "multiply_total"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "aquamirae:depths_fury",
+          "value": 2.0,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "root_resistance+1%": {
+    "title": "Kháng Cự",
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "challenge"
+      }
+    },
+    "icon": {
+      "type": "effect",
+      "data": {
+        "effect": "resistance"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_skills:player.resistance",
+          "value": 0.04,
+          "operation": "multiply_total"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "betterend:generic.blindness_resistance",
+          "value": 1,
+          "operation": "addition"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_skills:player.stamina",
+          "value": 100,
+          "operation": "addition"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "epicfight:stamina_regen",
+          "value": 0.1,
+          "operation": "addition"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "generic.attack_speed",
+          "value": 0.03,
+          "operation": "multiply_total"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "generic.movement_speed",
+          "value": 0.05,
+          "operation": "multiply_total"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "forge:swim_speed",
+          "value": 0.8,
+          "operation": "multiply_total"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "aquamirae:depths_fury",
+          "value": 2.0,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "root_melee_damage+3%": {
+    "title": "Sát Thương Cận Chiến",
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "challenge"
+      }
+    },
+    "icon": {
+      "type": "effect",
+      "data": {
+        "effect": "strength"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_skills:player.melee_damage",
+          "value": 0.04,
+          "operation": "multiply_total"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "betterend:generic.blindness_resistance",
+          "value": 1,
+          "operation": "addition"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_skills:player.stamina",
+          "value": 100,
+          "operation": "addition"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "epicfight:stamina_regen",
+          "value": 0.1,
+          "operation": "addition"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "generic.attack_speed",
+          "value": 0.03,
+          "operation": "multiply_total"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "generic.movement_speed",
+          "value": 0.05,
+          "operation": "multiply_total"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "forge:swim_speed",
+          "value": 0.8,
+          "operation": "multiply_total"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "aquamirae:depths_fury",
+          "value": 2.0,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "root_ranged_damage+3%": {
+    "title": "Sát Thương Tầm Xa",
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "challenge"
+      }
+    },
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "bow"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_skills:player.ranged_damage",
+          "value": 0.05,
+          "operation": "multiply_total"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "betterend:generic.blindness_resistance",
+          "value": 1,
+          "operation": "addition"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_skills:player.stamina",
+          "value": 100,
+          "operation": "addition"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "epicfight:stamina_regen",
+          "value": 0.1,
+          "operation": "addition"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "generic.attack_speed",
+          "value": 0.03,
+          "operation": "multiply_total"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "generic.movement_speed",
+          "value": 0.05,
+          "operation": "multiply_total"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "forge:swim_speed",
+          "value": 0.8,
+          "operation": "multiply_total"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "aquamirae:depths_fury",
+          "value": 2.0,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "health+2": {
+    "title": "+2 Máu Tối Đa",
+    "icon": {
+      "type": "effect",
+      "data": {
+        "effect": "health_boost"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "generic.max_health",
+          "value": 2,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "resistance+1%": {
+    "title": "+1% Kháng Cự",
+    "icon": {
+      "type": "effect",
+      "data": {
+        "effect": "resistance"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_skills:player.resistance",
+          "value": 0.01,
+          "operation": "multiply_total"
+        }
+      }
+    ]
+  },
+  "melee_damage+3%": {
+    "title": "+1% Sát Thương Cận Chiến",
+    "icon": {
+      "type": "effect",
+      "data": {
+        "effect": "strength"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_skills:player.melee_damage",
+          "value": 0.01,
+          "operation": "multiply_total"
+        }
+      }
+    ]
+  },
+  "ranged_damage+3%": {
+    "title": "+2% Sát Thương Tầm Xa",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "bow"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_skills:player.ranged_damage",
+          "value": 0.02,
+          "operation": "multiply_total"
+        }
+      }
+    ]
+  },
+  "attack_speed+5%": {
+    "title": "+1% Tốc Độ Đánh",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "golden_sword"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "generic.attack_speed",
+          "value": 0.01,
+          "operation": "multiply_total"
+        }
+      }
+    ]
+  },
+  "movement_speed+5%": {
+    "title": "+2% Tốc Độ Chạy",
+    "icon": {
+      "type": "effect",
+      "data": {
+        "effect": "speed"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "generic.movement_speed",
+          "value": 0.02,
+          "operation": "multiply_total"
+        }
+      }
+    ]
+  },
+  "luck+0.25": {
+    "title": "+0.1 Hồi Thể Lực",
+    "icon": {
+      "type": "effect",
+      "data": {
+        "effect": "alexsmobs:oiled"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "epicfight:stamina_regen",
+          "value": 0.1,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "stamina+5%": {
+    "title": "+2 Thể Lực",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:armor_stand"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "epicfight:staminar",
+          "value": 2,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "healing+5%": {
+    "title": "+5% Hiệu Quả Hồi Máu",
+    "icon": {
+      "type": "effect",
+      "data": {
+        "effect": "attributeslib:vitality"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_skills:player.healing",
+          "value": 0.05,
+          "operation": "multiply_total"
+        }
+      }
+    ]
+  },
+  "jump+5%": {
+    "title": "+2 Thể Lực",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:armor_stand"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "epicfight:staminar",
+          "value": 2,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "health_more": {
+    "title": "+1 Máu Tối Đa",
+    "icon": {
+      "type": "effect",
+      "data": {
+        "effect": "health_boost"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "generic.max_health",
+          "value": 1,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "resistance_more": {
+    "title": "+1% Kháng Cự",
+    "icon": {
+      "type": "effect",
+      "data": {
+        "effect": "resistance"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_skills:player.resistance",
+          "value": 0.01,
+          "operation": "multiply_total"
+        }
+      }
+    ]
+  },
+  "melee_damage_more": {
+    "title": "+1% Sát Thương Cận Chiến",
+    "icon": {
+      "type": "effect",
+      "data": {
+        "effect": "strength"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_skills:player.melee_damage",
+          "value": 0.01,
+          "operation": "multiply_total"
+        }
+      }
+    ]
+  },
+  "ranged_damage_more": {
+    "title": "+1% Sát Thương Tầm Xa",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "bow"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_skills:player.ranged_damage",
+          "value": 0.01,
+          "operation": "multiply_total"
+        }
+      }
+    ]
+  },
+  "attack_speed_more": {
+    "title": "+1% Tốc Độ Đánh",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "golden_sword"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "generic.attack_speed",
+          "value": 0.01,
+          "operation": "multiply_total"
+        }
+      }
+    ]
+  },
+  "movement_speed_more": {
+    "title": "+1% Tốc Độ Chạy",
+    "icon": {
+      "type": "effect",
+      "data": {
+        "effect": "speed"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "generic.movement_speed",
+          "value": 0.01,
+          "operation": "multiply_total"
+        }
+      }
+    ]
+  },
+  "stamina_regen_more": {
+    "title": "+0.1 Hồi Thể Lực",
+    "icon": {
+      "type": "effect",
+      "data": {
+        "effect": "alexsmobs:oiled"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "epicfight:stamina_regen",
+          "value": 0.1,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "stamina_more": {
+    "title": "+1 Thể Lực",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:armor_stand"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "epicfight:staminar",
+          "value": 1,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "healing_more": {
+    "title": "+2% Hiệu Quả Hồi Máu",
+    "icon": {
+      "type": "effect",
+      "data": {
+        "effect": "attributeslib:vitality"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_skills:player.healing",
+          "value": 0.02,
+          "operation": "multiply_total"
+        }
+      }
+    ]
+  },
+  "armor_negation": {
+    "title": "+1% Xuyên Giáp",
+    "icon": {
+      "type": "effect",
+      "data": {
+        "effect": "attributeslib:sundering"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "epicfight:armor_negation",
+          "value": 1,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "impact": {
+    "title": "+1 Kháng Choáng",
+    "icon": {
+      "type": "effect",
+      "data": {
+        "effect": "epicfight:stun_immunity"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "epicfight:stun_armor",
+          "value": 1,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "drawspeed": {
+    "title": "+5% Tốc Độ Kéo Cung",
+    "icon": {
+      "type": "effect",
+      "data": {
+        "effect": "minecraft:slow_falling"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "attributeslib:draw_speed",
+          "value": 0.05,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "draw_res": {
+    "title": "+3% Tốc Độ Kéo Cung, -1% Kháng Cự",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "minecraft:textures/gui/widgets2.png",
+        "available": "minecraft:textures/gui/widgets1.png"
+      }
+    },
+    "icon": {
+      "type": "effect",
+      "data": {
+        "effect": "minecraft:slow_falling"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "attributeslib:draw_speed",
+          "value": 0.03,
+          "operation": "addition"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_skills:player.resistance",
+          "value": -0.01,
+          "operation": "multiply_total"
+        }
+      }
+    ]
+  },
+  "aspeed_damage": {
+    "title": "+0.5% Tốc Độ Đánh, -1% Sát Thương Cận Chiến",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "minecraft:textures/gui/widgets2.png",
+        "available": "minecraft:textures/gui/widgets1.png"
+      }
+    },
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "golden_sword"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "generic.attack_speed",
+          "value": 0.005,
+          "operation": "multiply_total"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_skills:player.melee_damage",
+          "value": -0.01,
+          "operation": "multiply_total"
+        }
+      }
+    ]
+  },
+  "damage_aspeed": {
+    "title": "+0.5% Sát Thương Cận Chiến, -1% Tốc Độ Đánh",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "minecraft:textures/gui/widgets2.png",
+        "available": "minecraft:textures/gui/widgets1.png"
+      }
+    },
+    "icon": {
+      "type": "effect",
+      "data": {
+        "effect": "strength"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "generic.attack_speed",
+          "value": -0.01,
+          "operation": "multiply_total"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_skills:player.melee_damage",
+          "value": 0.05,
+          "operation": "multiply_total"
+        }
+      }
+    ]
+  },
+  "health_resitance": {
+    "title": "+1 Máu, -2% Kháng Cự",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "minecraft:textures/gui/widgets2.png",
+        "available": "minecraft:textures/gui/widgets1.png"
+      }
+    },
+    "icon": {
+      "type": "effect",
+      "data": {
+        "effect": "health_boost"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "generic.max_health",
+          "value": 1,
+          "operation": "addition"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_skills:player.resistance",
+          "value": -0.02,
+          "operation": "multiply_total"
+        }
+      }
+    ]
+  },
+  "stam_resitance": {
+    "title": "+1 Thể Lực, -1% Kháng Cự",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "minecraft:textures/gui/widgets2.png",
+        "available": "minecraft:textures/gui/widgets1.png"
+      }
+    },
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:armor_stand"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "epicfight:staminar",
+          "value": 1,
+          "operation": "addition"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_skills:player.resistance",
+          "value": -0.01,
+          "operation": "multiply_total"
+        }
+      }
+    ]
+  },
+  "resitance_health": {
+    "title": "+0.5% Kháng Cự, -1 Thể Lực",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "minecraft:textures/gui/widgets2.png",
+        "available": "minecraft:textures/gui/widgets1.png"
+      }
+    },
+    "icon": {
+      "type": "effect",
+      "data": {
+        "effect": "resistance"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "epicfight:staminar",
+          "value": -1,
+          "operation": "addition"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_skills:player.resistance",
+          "value": 0.005,
+          "operation": "multiply_total"
+        }
+      }
+    ]
+  },
+  "stareg_resitan": {
+    "title": "+0.1 Hồi Thể Lực, -1% Kháng Cự",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "minecraft:textures/gui/widgets2.png",
+        "available": "minecraft:textures/gui/widgets1.png"
+      }
+    },
+    "icon": {
+      "type": "effect",
+      "data": {
+        "effect": "alexsmobs:oiled"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "epicfight:stamina_regen",
+          "value": 0.1,
+          "operation": "addition"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_skills:player.resistance",
+          "value": -0.01,
+          "operation": "multiply_total"
+        }
+      }
+    ]
+  },
+  "yuan_resitan": {
+    "title": "+1% Sát Thương Tầm Xa, -2% Kháng Cự",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "minecraft:textures/gui/widgets2.png",
+        "available": "minecraft:textures/gui/widgets1.png"
+      }
+    },
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "bow"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_skills:player.ranged_damage",
+          "value": 0.01,
+          "operation": "multiply_total"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_skills:player.resistance",
+          "value": -0.02,
+          "operation": "multiply_total"
+        }
+      }
+    ]
+  },
+  "speed_health": {
+    "title": "+1% Tốc Độ Chạy, -1 Máu",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "minecraft:textures/gui/widgets2.png",
+        "available": "minecraft:textures/gui/widgets1.png"
+      }
+    },
+    "icon": {
+      "type": "effect",
+      "data": {
+        "effect": "speed"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "generic.movement_speed",
+          "value": 0.01,
+          "operation": "multiply_total"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "generic.max_health",
+          "value": -1,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "res_damage": {
+    "title": "+0.5% Kháng Cự, -1% Sát Thương Cận Chiến",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "minecraft:textures/gui/widgets2.png",
+        "available": "minecraft:textures/gui/widgets1.png"
+      }
+    },
+    "icon": {
+      "type": "effect",
+      "data": {
+        "effect": "resistance"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_skills:player.resistance",
+          "value": 0.005,
+          "operation": "multiply_total"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_skills:player.melee_damage",
+          "value": -0.01,
+          "operation": "multiply_total"
+        }
+      }
+    ]
+  },
+  "health_damage": {
+    "title": "+1 Máu, -1% Sát Thương Cận Chiến",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "minecraft:textures/gui/widgets2.png",
+        "available": "minecraft:textures/gui/widgets1.png"
+      }
+    },
+    "icon": {
+      "type": "effect",
+      "data": {
+        "effect": "health_boost"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "generic.max_health",
+          "value": 1,
+          "operation": "addition"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_skills:player.melee_damage",
+          "value": -0.01,
+          "operation": "multiply_total"
+        }
+      }
+    ]
+  },
+  "healreg_speed": {
+    "title": "+2% Hiệu Quả Hồi Máu, -1% Tốc Độ Chạy",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "minecraft:textures/gui/widgets2.png",
+        "available": "minecraft:textures/gui/widgets1.png"
+      }
+    },
+    "icon": {
+      "type": "effect",
+      "data": {
+        "effect": "attributeslib:vitality"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_skills:player.healing",
+          "value": 0.02,
+          "operation": "multiply_total"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "generic.movement_speed",
+          "value": -0.01,
+          "operation": "multiply_total"
+        }
+      }
+    ]
+  }
+}

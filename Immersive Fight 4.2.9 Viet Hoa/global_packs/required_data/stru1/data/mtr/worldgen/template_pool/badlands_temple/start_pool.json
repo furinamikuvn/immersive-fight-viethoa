@@ -1,0 +1,15 @@
+{
+    "name": "mtr:badlands_temple/start_pool",
+    "fallback": "minecraft:empty",
+    "elements": [
+        {
+            "weight": 1,
+            "element": {
+                "location": "mtr:badlands_temple/badlands_temple_main",
+                "processors": "minecraft:empty",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        }
+    ]
+}

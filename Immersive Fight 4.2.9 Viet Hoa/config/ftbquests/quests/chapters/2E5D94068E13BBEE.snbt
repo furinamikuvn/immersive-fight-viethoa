@@ -1,0 +1,1575 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	disable_toast: true
+	filename: "2E5D94068E13BBEE"
+	group: "27EE47AB69EC29B4"
+	icon: {
+		Count: 1
+		ForgeCaps: {
+			"celestisynth:celestisynthitemstackcapabilities": {
+				cs.aquaSkin: 0
+			}
+		}
+		id: "cataclysm:ignitium_helmet"
+		tag: {
+			Damage: 0
+		}
+	}
+	id: "2E5D94068E13BBEE"
+	images: [{
+		click: "https://www.mcmod.cn/item/list/5214-4.html"
+		height: 1.0d
+		hover: [
+			"Bấm để vào bách khoa toàn thư mc"
+			"Có thể hữu ích khi kiểm tra các đặc điểm của BOSS"
+		]
+		image: "ftbteams:textures/alian.png"
+		rotation: 0.0d
+		width: 1.0503597122302157d
+		x: 6.5d
+		y: 0.5d
+	}]
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["5E7A382EE6EE5EC1"]
+			disable_toast: true
+			entity_vis_size: 1.0f
+			id: "030F4EDAF8970EF1"
+			shape: "diamond"
+			size: 1.1d
+			tasks: [{
+				disable_toast: true
+				entity: "cataclysm:ender_guardian"
+				entity_use_tag: false
+				entity_vis_idle_mode: "USE_GLOBAL"
+				entity_vis_offset_x: 0.0f
+				entity_vis_offset_y: 0.0f
+				entity_vis_rotation: 0.0f
+				entity_vis_silhouette_mode: "NONE"
+				entity_vis_size: 1.0f
+				entity_vis_spin_mode: "USE_GLOBAL"
+				entity_vis_use_as_quest_icon: false
+				entity_vis_walk_mode: "USE_GLOBAL"
+				icon: "cataclysm:gauntlet_of_guard"
+				id: "6E7744DCF88FA4EC"
+				type: "kill"
+				value: 1L
+			}]
+			x: 5.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["26499A1DD2086A84"]
+			disable_toast: true
+			entity_vis_size: 1.0f
+			id: "66789CB9CBAFBB7F"
+			shape: "diamond"
+			size: 1.1d
+			tasks: [{
+				disable_toast: true
+				entity: "cataclysm:ignis"
+				entity_use_tag: false
+				entity_vis_idle_mode: "USE_GLOBAL"
+				entity_vis_offset_x: 0.0f
+				entity_vis_offset_y: 0.0f
+				entity_vis_rotation: 0.0f
+				entity_vis_silhouette_mode: "NONE"
+				entity_vis_size: 1.0f
+				entity_vis_spin_mode: "USE_GLOBAL"
+				entity_vis_use_as_quest_icon: false
+				entity_vis_walk_mode: "USE_GLOBAL"
+				icon: "cataclysm:the_incinerator"
+				id: "4552238184B47EEB"
+				type: "kill"
+				value: 1L
+			}]
+			x: 5.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["7BF69EEA4E5B7717"]
+			disable_toast: true
+			entity_vis_size: 1.0f
+			id: "59D1381FC871B373"
+			shape: "diamond"
+			size: 1.1d
+			tasks: [{
+				disable_toast: true
+				entity: "cataclysm:netherite_monstrosity"
+				entity_use_tag: false
+				entity_vis_idle_mode: "USE_GLOBAL"
+				entity_vis_offset_x: 0.0f
+				entity_vis_offset_y: 0.0f
+				entity_vis_rotation: 0.0f
+				entity_vis_silhouette_mode: "NONE"
+				entity_vis_size: 1.0f
+				entity_vis_spin_mode: "USE_GLOBAL"
+				entity_vis_use_as_quest_icon: false
+				entity_vis_walk_mode: "USE_GLOBAL"
+				icon: {
+					Count: 1
+					id: "cataclysm:infernal_forge"
+					tag: {
+						Damage: 0
+					}
+				}
+				id: "1DEA3C477B118801"
+				type: "kill"
+				value: 1L
+			}]
+			x: 5.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["02206F8A882E1638"]
+			disable_toast: true
+			entity_vis_size: 1.0f
+			id: "449BE29F0EB8ADAB"
+			shape: "diamond"
+			size: 1.1d
+			tasks: [{
+				disable_toast: true
+				entity: "cataclysm:the_leviathan"
+				entity_use_tag: false
+				entity_vis_idle_mode: "USE_GLOBAL"
+				entity_vis_offset_x: 0.0f
+				entity_vis_offset_y: 0.0f
+				entity_vis_rotation: 0.0f
+				entity_vis_silhouette_mode: "NONE"
+				entity_vis_size: 1.0f
+				entity_vis_spin_mode: "USE_GLOBAL"
+				entity_vis_use_as_quest_icon: false
+				entity_vis_walk_mode: "USE_GLOBAL"
+				icon: "cataclysm:tidal_claws"
+				id: "780EC8FA61747140"
+				type: "kill"
+				value: 1L
+			}]
+			x: 5.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["1D1F216DB67632BA"]
+			disable_toast: true
+			entity_vis_size: 1.0f
+			id: "2CF95BED761D9F2B"
+			shape: "diamond"
+			size: 1.1d
+			tasks: [{
+				disable_toast: true
+				entity: "cataclysm:ancient_remnant"
+				entity_use_tag: false
+				entity_vis_idle_mode: "USE_GLOBAL"
+				entity_vis_offset_x: 0.0f
+				entity_vis_offset_y: 0.0f
+				entity_vis_rotation: 0.0f
+				entity_vis_silhouette_mode: "NONE"
+				entity_vis_size: 1.0f
+				entity_vis_spin_mode: "USE_GLOBAL"
+				entity_vis_use_as_quest_icon: false
+				entity_vis_walk_mode: "USE_GLOBAL"
+				icon: "cataclysm:remnant_skull"
+				id: "4A296D3AEA2B9ED7"
+				type: "kill"
+				value: 1L
+			}]
+			x: 5.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["6994DA0BD96D8860"]
+			disable_toast: true
+			entity_vis_size: 1.0f
+			id: "4F1E74CB8322443A"
+			shape: "diamond"
+			size: 1.1d
+			tasks: [{
+				disable_toast: true
+				entity: "cataclysm:the_harbinger"
+				entity_use_tag: false
+				entity_vis_idle_mode: "USE_GLOBAL"
+				entity_vis_offset_x: 0.0f
+				entity_vis_offset_y: 0.0f
+				entity_vis_rotation: 0.0f
+				entity_vis_silhouette_mode: "NONE"
+				entity_vis_size: 1.0f
+				entity_vis_spin_mode: "USE_GLOBAL"
+				entity_vis_use_as_quest_icon: false
+				entity_vis_walk_mode: "USE_GLOBAL"
+				icon: "cataclysm:witherite_ingot"
+				id: "14661813EA1C9E99"
+				type: "kill"
+				value: 1L
+			}]
+			x: 5.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["4F1E74CB8322443A"]
+			description: ["Kết hợp các thiết bị Cataclysmic lại với nhau để tạo ra thiết bị mạnh hơn"]
+			entity_vis_size: 1.0f
+			id: "665BADE32588F7D7"
+			tasks: [{
+				id: "3F17F85B9ADC85FE"
+				item: "cataclysm:mechanical_fusion_anvil"
+				type: "item"
+			}]
+			x: 6.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["665BADE32588F7D7"]
+			disable_toast: true
+			entity_vis_size: 1.0f
+			id: "597AED97D2CBF780"
+			tasks: [{
+				id: "7392E29AF2FA5DC5"
+				item: {
+					Count: 1
+					id: "cataclysm:void_forge"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 8.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["665BADE32588F7D7"]
+			disable_toast: true
+			entity_vis_size: 1.0f
+			id: "5FCA53246CA42C75"
+			tasks: [{
+				id: "76359B4FEC1431E0"
+				item: "cataclysm:void_assault_shoulder_weapon"
+				type: "item"
+			}]
+			x: 8.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["665BADE32588F7D7"]
+			description: [""]
+			entity_vis_size: 1.0f
+			id: "78F7182790E9AE30"
+			tasks: [{
+				id: "6F0763E9381194F9"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"cold_sweat:item_insulation": {
+							Insulation: [ ]
+						}
+					}
+					id: "cataclysm:ignitium_elytra_chestplate"
+					tag: {
+						Damage: 0
+						SimpleInsulation: [ ]
+						itemModifier: "modifiers:guarding"
+					}
+				}
+				type: "item"
+			}]
+			x: 8.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["665BADE32588F7D7"]
+			disable_toast: true
+			entity_vis_size: 1.0f
+			id: "19546FF80713B5D9"
+			tasks: [{
+				id: "7832101CB12DDB73"
+				item: "cataclysm:gauntlet_of_bulwark"
+				type: "item"
+			}]
+			x: 8.0d
+			y: 3.5d
+		}
+		{
+			description: [
+				"Tương tự như Eye of Ender gốc,"
+				"Nhấn chuột phải bằng tay sẽ bay tới nhà máy cổ &a gần nhất &r"
+				""
+				""
+				"[Được sử dụng trong thế giới chính]"
+			]
+			entity_vis_size: 1.0f
+			id: "7E0FB121F506A945"
+			rewards: [
+				{
+					id: "20F0FD9B2FB8A322"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+				{
+					id: "34DBB23AA657A853"
+					item: "soul_like_mobs:cupofsacredforce"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "2B715DB538035BA7"
+				item: "cataclysm:mech_eye"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 2.0d
+		}
+		{
+			description: [
+				"Tương tự như Eye of Ender gốc,"
+				"Nhấn chuột phải bằng tay sẽ bay tới pháo đài bỏ hoang &a gần nhất &r"
+				""
+				""
+				"[Kết thúc sử dụng]"
+			]
+			entity_vis_size: 1.0f
+			id: "5E7A382EE6EE5EC1"
+			rewards: [
+				{
+					id: "15BEEBD56D0EE9AA"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+				{
+					id: "69C3841568BB5A2D"
+					item: "soul_like_mobs:cupofsacredforce"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "7BABBC63B273BF7C"
+				item: "cataclysm:void_eye"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 5.0d
+		}
+		{
+			description: [
+				"Tương tự như Eye of Ender gốc,"
+				"Dùng tay click chuột phải sẽ bay tới &a Sunken City &r gần nhất"
+				""
+				""
+				"[Được sử dụng trong thế giới chính]"
+			]
+			entity_vis_size: 1.0f
+			id: "29F82419F652E995"
+			rewards: [
+				{
+					id: "0BAD41D88537055D"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+				{
+					id: "04D54BF90340EFE3"
+					item: "soul_like_mobs:cupofsacredforce"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "405ACCBCD0D4DC1A"
+				item: "cataclysm:abyss_eye"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 3.0d
+		}
+		{
+			description: [
+				"Tương tự như Eye of Ender gốc,"
+				"Sau khi giữ tay phải chuột sẽ bay đến Đấu trường lửa &a &r gần nhất"
+				"[Sử dụng ở Nether]"
+				""
+				"&b[Bạn có thể sử dụng con trỏ phiêu lưu để tìm kiếm cấu trúc, &r"
+				"&b Nhưng mắt vẫn cần được tạo ra như một tác vụ xử lý]&r"
+			]
+			entity_vis_size: 1.0f
+			id: "4AEF5EA942E1DD3F"
+			rewards: [
+				{
+					id: "4C097E4BEC11C1CC"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+				{
+					id: "144129C7B07AD3DD"
+					item: "soul_like_mobs:cupofsacredforce"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "6EFBC329B90B687E"
+				item: "cataclysm:flame_eye"
+				type: "item"
+			}]
+			x: 3.0d
+			y: -1.0d
+		}
+		{
+			description: [
+				"Tương tự như Eye of Ender gốc,"
+				"Dùng tay click chuột phải sẽ bay tới &a Soul Forge &r gần nhất"
+				""
+				""
+				"[Sử dụng ở Nether]"
+			]
+			entity_vis_size: 1.0f
+			id: "7BF69EEA4E5B7717"
+			rewards: [
+				{
+					id: "2A694CE093FF7F47"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+				{
+					id: "2A882411441AEB7B"
+					item: "soul_like_mobs:cupofsacredforce"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "51BBA35A7EF155EA"
+				item: "cataclysm:monstrous_eye"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			description: [
+				"Tương tự như Eye of Ender gốc,"
+				"Dùng tay click chuột phải sẽ bay tới Kim tự tháp bị nguyền rủa &a gần nhất &r"
+				""
+				""
+				"[Được sử dụng trong thế giới chính]"
+			]
+			entity_vis_size: 1.0f
+			id: "73D43F3787B85474"
+			rewards: [
+				{
+					id: "458C01DCAF898D6C"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+				{
+					id: "64A2A74286B46A18"
+					item: "soul_like_mobs:cupofsacredforce"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "5DBFC766D6F28B10"
+				item: "cataclysm:desert_eye"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["4AEF5EA942E1DD3F"]
+			description: [
+				"[Ông chủ nhỏ]"
+				"Là người bảo vệ của Quỷ lửa,"
+				"Hai linh hồn cháy bỏng đang cố thủ trên tầng hai của Đấu trường lửa."
+				""
+				"Giọt: &b Ember rực lửa&r"
+				"Người chơi cầm vật phẩm này có thể nhấp chuột phải vào Bàn thờ lửa để đặt nó vào đó."
+				"Bạn có thể triệu hồi BOSS Flame Demon phía trên bàn thờ."
+				""
+				"Sau khi &n đánh bại Quỷ lửa lần đầu tiên, &r"
+				"&b Quần xã rừng địa ngục &r sẽ tự nhiên tạo ra &6 Linh hồn rực lửa &r"
+				"Vật phẩm rơi ra &e sẽ dập tắt than hồng &r và có thể dùng để chế tạo than hồng rực &e &r"
+			]
+			entity_vis_size: 1.0f
+			id: "26499A1DD2086A84"
+			tasks: [{
+				entity: "cataclysm:ignited_revenant"
+				entity_use_tag: false
+				entity_vis_idle_mode: "USE_GLOBAL"
+				entity_vis_offset_x: 0.0f
+				entity_vis_offset_y: 0.0f
+				entity_vis_rotation: 0.0f
+				entity_vis_silhouette_mode: "NONE"
+				entity_vis_size: 1.0f
+				entity_vis_spin_mode: "USE_GLOBAL"
+				entity_vis_use_as_quest_icon: false
+				entity_vis_walk_mode: "USE_GLOBAL"
+				icon: "cataclysm:burning_ashes"
+				id: "5FAC16E2107B01CC"
+				type: "kill"
+				value: 1L
+			}]
+			x: 4.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["29F82419F652E995"]
+			description: ["Người chơi cầm vật phẩm này và nhấp chuột phải vào Bàn thờ Abyss để đặt nó. Sau một thời gian, người chơi có thể hiến tế vật phẩm này và triệu hồi Leviathan phía trên bàn thờ."]
+			entity_vis_size: 1.0f
+			id: "02206F8A882E1638"
+			shape: "gear"
+			size: 1.0d
+			tasks: [{
+				id: "7E3D373CB26D6B8E"
+				item: "cataclysm:abyssal_sacrifice"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["7E0FB121F506A945"]
+			description: [
+				"Bằng cách nhấp chuột phải với một ngôi sao nether"
+				"Những người tiên phong “ngủ quên” sâu trong nhà máy cổ xưa đã thức tỉnh."
+				"(Tiêu thụ sao Nether)"
+			]
+			entity_vis_size: 1.0f
+			id: "6994DA0BD96D8860"
+			rewards: [{
+				id: "5CF933855D4B1B73"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "48C18C478EF8FF43"
+				item: "minecraft:nether_star"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["73D43F3787B85474"]
+			description: [
+				"Giữ vật phẩm"
+				"Nhấp chuột phải vào linh hồn cổ xưa đang ngủ,"
+				"Có thể đánh thức nó dậy."
+				""
+				"Cách lấy &l: &r"
+				"Sử dụng Khảo cổ học Brush trong Cấu trúc Kim tự tháp bị nguyền rủa"
+				"Cát khả nghi có cơ hội lấy được."
+			]
+			entity_vis_size: 1.0f
+			id: "1D1F216DB67632BA"
+			tasks: [{
+				id: "303FBF08F40EAAD9"
+				item: "cataclysm:necklace_of_the_desert"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["66789CB9CBAFBB7F"]
+			entity_vis_size: 1.0f
+			id: "14FF38D4E0AC20E1"
+			tasks: [{
+				id: "7A511F94766BD7AD"
+				item: "cataclysm:ignitium_ingot"
+				type: "item"
+			}]
+			x: 6.5d
+			y: -1.0d
+		}
+		{
+			description: ["Có thể được sử dụng tại bàn rèn cùng với bộ Netherite tương ứng và Thỏi Tengyan để nâng cấp nó lên bộ Tengyan."]
+			entity_vis_size: 1.0f
+			id: "447558931F4DFA10"
+			tasks: [{
+				id: "650EA384D9610352"
+				item: "cataclysm:ignitium_upgrade_smithing_template"
+				type: "item"
+			}]
+			x: 7.5d
+			y: -2.0d
+		}
+		{
+			dependencies: [
+				"14FF38D4E0AC20E1"
+				"447558931F4DFA10"
+			]
+			entity_vis_size: 1.0f
+			id: "43E4BF9EE050AFE3"
+			shape: "square"
+			tasks: [
+				{
+					id: "74B6EA3296ACB153"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"cold_sweat:item_insulation": {
+								Insulation: [ ]
+							}
+						}
+						id: "cataclysm:ignitium_helmet"
+						tag: {
+							Damage: 0
+							SimpleInsulation: [ ]
+							itemModifier: "modifiers:spiked"
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "1118D9EBFA5469A6"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"cold_sweat:item_insulation": {
+								Insulation: [ ]
+							}
+						}
+						id: "cataclysm:ignitium_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "7D42D33EEBDBA4EE"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"cold_sweat:item_insulation": {
+								Insulation: [ ]
+							}
+						}
+						id: "cataclysm:ignitium_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "0AA1FF9346C3FB89"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"cold_sweat:item_insulation": {
+								Insulation: [ ]
+							}
+						}
+						id: "cataclysm:ignitium_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: 8.0d
+			y: -1.0d
+		}
+		{
+			can_repeat: true
+			description: ["Có thể dùng thay thế cho Trident"]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "cataclysm:coral_spear"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "6F5D52CE60FA0D1A"
+			rewards: [{
+				id: "44EA74986A69D152"
+				item: {
+					Count: 1
+					id: "cataclysm:coral_spear"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			shape: "square"
+			tasks: [{
+				entity: "cataclysm:deepling"
+				entity_use_tag: false
+				entity_vis_idle_mode: "USE_GLOBAL"
+				entity_vis_offset_x: 0.0f
+				entity_vis_offset_y: 0.0f
+				entity_vis_rotation: 0.0f
+				entity_vis_silhouette_mode: "NONE"
+				entity_vis_size: 1.0f
+				entity_vis_spin_mode: "USE_GLOBAL"
+				entity_vis_use_as_quest_icon: false
+				entity_vis_walk_mode: "USE_GLOBAL"
+				icon: "cataclysm:deepling_spawn_egg"
+				id: "648FDDAF23A6C5FA"
+				type: "kill"
+				value: 15L
+			}]
+			title: "Ngọn giáo san hô"
+			x: 9.5d
+			y: -0.5d
+		}
+		{
+			disable_toast: true
+			entity_vis_size: 1.0f
+			id: "0C0549506D7A207E"
+			shape: "square"
+			tasks: [{
+				id: "23DEE70E913441A4"
+				item: "cataclysm:bulwark_of_the_flame"
+				type: "item"
+			}]
+			x: 12.5d
+			y: -0.5d
+		}
+		{
+			disable_toast: true
+			entity_vis_size: 1.0f
+			id: "5A50827B0D080CDA"
+			shape: "square"
+			tasks: [{
+				id: "283C7A5048C761BB"
+				item: "cataclysm:gauntlet_of_guard"
+				type: "item"
+			}]
+			x: 11.5d
+			y: 1.5d
+		}
+		{
+			disable_toast: true
+			entity_vis_size: 1.0f
+			id: "1B92035176C8A02C"
+			shape: "square"
+			tasks: [{
+				id: "20F8682019D57EA6"
+				item: "cataclysm:gauntlet_of_bulwark"
+				type: "item"
+			}]
+			x: 12.5d
+			y: 1.5d
+		}
+		{
+			disable_toast: true
+			entity_vis_size: 1.0f
+			id: "617F36DBFFFC91F8"
+			shape: "square"
+			tasks: [{
+				id: "799D40C508F0B187"
+				item: "cataclysm:the_incinerator"
+				type: "item"
+			}]
+			x: 13.5d
+			y: -0.5d
+		}
+		{
+			disable_toast: true
+			entity_vis_size: 1.0f
+			id: "2BC7E4DABC27C3B0"
+			shape: "square"
+			tasks: [{
+				id: "6E5C4F517B63C175"
+				item: "cataclysm:meat_shredder"
+				type: "item"
+			}]
+			x: 12.5d
+			y: 0.5d
+		}
+		{
+			disable_toast: true
+			entity_vis_size: 1.0f
+			id: "02EB713AC61D53DF"
+			shape: "square"
+			tasks: [{
+				id: "6EDD7B0B4E238118"
+				item: {
+					Count: 1
+					id: "cataclysm:laser_gatling"
+					tag: {
+						Charged: 0b
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 11.5d
+			y: 0.5d
+		}
+		{
+			disable_toast: true
+			entity_vis_size: 1.0f
+			id: "3ED166C1FC1A6FA7"
+			shape: "square"
+			tasks: [{
+				id: "054BEF0BF178C23D"
+				item: "cataclysm:wither_assault_shoulder_weapon"
+				type: "item"
+			}]
+			x: 9.5d
+			y: 0.5d
+		}
+		{
+			disable_toast: true
+			entity_vis_size: 1.0f
+			id: "4FB1242AD3FB8173"
+			shape: "square"
+			tasks: [{
+				id: "70BF94E42F355281"
+				item: "cataclysm:void_assault_shoulder_weapon"
+				type: "item"
+			}]
+			x: 10.5d
+			y: 0.5d
+		}
+		{
+			disable_toast: true
+			entity_vis_size: 1.0f
+			id: "2124705E7950FB41"
+			shape: "square"
+			tasks: [{
+				id: "1DC806C10CB24AAF"
+				item: {
+					Count: 1
+					id: "cataclysm:void_forge"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 10.5d
+			y: 1.5d
+		}
+		{
+			disable_toast: true
+			entity_vis_size: 1.0f
+			id: "530B05FACA7E4AAE"
+			shape: "square"
+			tasks: [{
+				id: "68FC36D94571AC2F"
+				item: "cataclysm:tidal_claws"
+				type: "item"
+			}]
+			x: 11.5d
+			y: -0.5d
+		}
+		{
+			disable_toast: true
+			entity_vis_size: 1.0f
+			id: "45C981B60EE27B49"
+			shape: "square"
+			tasks: [{
+				id: "4BD4B14D883E20FD"
+				item: {
+					Count: 1
+					id: "cataclysm:infernal_forge"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 9.5d
+			y: 1.5d
+		}
+		{
+			description: [
+				"Tương tự như Eye of Ender gốc,"
+				"Nhấn chuột phải bằng tay sẽ bay tới nhà tù lạnh lẽo cay đắng &a gần nhất &r"
+				""
+				""
+				"[Được sử dụng trong thế giới chính]"
+			]
+			entity_vis_size: 1.0f
+			id: "33B24B777C7003A7"
+			tasks: [{
+				id: "15763195EA1FBABD"
+				item: "cataclysm:cursed_eye"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["33B24B777C7003A7"]
+			disable_toast: true
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "cataclysm:the_annihilator"
+			}
+			id: "76C1209520B9C360"
+			shape: "diamond"
+			size: 1.1d
+			tasks: [{
+				disable_toast: true
+				entity: "cataclysm:maledictus"
+				entity_use_tag: false
+				entity_vis_idle_mode: "USE_GLOBAL"
+				entity_vis_offset_x: 0.0f
+				entity_vis_offset_y: 0.0f
+				entity_vis_rotation: 0.0f
+				entity_vis_silhouette_mode: "NONE"
+				entity_vis_size: 1.0f
+				entity_vis_spin_mode: "USE_GLOBAL"
+				entity_vis_use_as_quest_icon: false
+				entity_vis_walk_mode: "USE_GLOBAL"
+				icon: "cataclysm:the_annihilator"
+				id: "19F09695061DCF10"
+				type: "kill"
+				value: 1L
+			}]
+			x: 5.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["76C1209520B9C360"]
+			entity_vis_size: 1.0f
+			id: "1298EEC628D2A094"
+			tasks: [{
+				id: "20C94F3D7F247384"
+				item: "cataclysm:cursium_ingot"
+				type: "item"
+			}]
+			x: 6.5d
+			y: 6.0d
+		}
+		{
+			dependencies: [
+				"1298EEC628D2A094"
+				"7F2F808CC6E18569"
+			]
+			entity_vis_size: 1.0f
+			id: "3C83E365D0801295"
+			shape: "square"
+			tasks: [
+				{
+					id: "42CB3BD471D3F9BF"
+					item: {
+						Count: 1
+						id: "cataclysm:cursium_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "02F2BE84E1C6EE5F"
+					item: {
+						Count: 1
+						id: "cataclysm:cursium_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "1A221AFDAB26C2C6"
+					item: {
+						Count: 1
+						id: "cataclysm:cursium_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "42A28D0FE9A67788"
+					item: {
+						Count: 1
+						id: "cataclysm:cursium_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: 8.0d
+			y: 6.0d
+		}
+		{
+			entity_vis_size: 1.0f
+			id: "7F2F808CC6E18569"
+			tasks: [{
+				id: "3CC45DE1735FB610"
+				item: "cataclysm:cursium_upgrade_smithing_template"
+				type: "item"
+			}]
+			x: 7.5d
+			y: 5.0d
+		}
+		{
+			disable_toast: true
+			entity_vis_size: 1.0f
+			id: "0BDDCD93A5A01336"
+			shape: "square"
+			tasks: [{
+				id: "7432174ECF1EFB5C"
+				item: "cataclysm:the_annihilator"
+				type: "item"
+			}]
+			x: 9.5d
+			y: 2.5d
+		}
+		{
+			disable_toast: true
+			entity_vis_size: 1.0f
+			id: "61BAF4BF9BF8BDA7"
+			shape: "square"
+			tasks: [{
+				id: "314C3EE12ADF70EF"
+				item: "cataclysm:soul_render"
+				type: "item"
+			}]
+			x: 13.5d
+			y: 2.5d
+		}
+		{
+			disable_toast: true
+			entity_vis_size: 1.0f
+			id: "3EB6513D2B22C6BD"
+			shape: "square"
+			tasks: [{
+				id: "1C675AB18E034308"
+				item: {
+					Count: 1
+					id: "cataclysm:cursed_bow"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 11.5d
+			y: 2.5d
+		}
+		{
+			disable_toast: true
+			entity_vis_size: 1.0f
+			id: "444D0FED353E7BE6"
+			shape: "square"
+			tasks: [{
+				id: "7FE424947C166648"
+				item: {
+					Count: 1
+					id: "cataclysm:ancient_spear"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 13.5d
+			y: 0.5d
+		}
+		{
+			disable_toast: true
+			entity_vis_size: 1.0f
+			id: "0386BDAB0AD1A19C"
+			shape: "square"
+			tasks: [{
+				id: "54D5473EE289DD0B"
+				item: "cataclysm:gauntlet_of_maelstrom"
+				type: "item"
+			}]
+			x: 13.5d
+			y: 1.5d
+		}
+		{
+			disable_toast: true
+			entity_vis_size: 1.0f
+			id: "6C79E9CAE22BD4D6"
+			shape: "square"
+			tasks: [{
+				id: "408E92518002FA4A"
+				item: "cataclysm:the_immolator"
+				type: "item"
+			}]
+			x: 10.5d
+			y: 2.5d
+		}
+		{
+			disable_toast: true
+			entity_vis_size: 1.0f
+			id: "014C7CB2733807A0"
+			shape: "square"
+			tasks: [{
+				id: "3D459B307D6CC544"
+				item: {
+					Count: 1
+					id: "cataclysm:wrath_of_the_desert"
+					tag: {
+						PrevUseTime: 0
+						UseTime: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 12.5d
+			y: 2.5d
+		}
+		{
+			can_repeat: true
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "cataclysm:coral_bardiche"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "661F9972A65E4ADE"
+			rewards: [{
+				id: "21F6C5CC912530BA"
+				item: {
+					Count: 1
+					id: "cataclysm:coral_bardiche"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			shape: "square"
+			tasks: [{
+				entity: "cataclysm:deepling_brute"
+				entity_use_tag: false
+				entity_vis_idle_mode: "USE_GLOBAL"
+				entity_vis_offset_x: 0.0f
+				entity_vis_offset_y: 0.0f
+				entity_vis_rotation: 0.0f
+				entity_vis_silhouette_mode: "NONE"
+				entity_vis_size: 1.0f
+				entity_vis_spin_mode: "USE_GLOBAL"
+				entity_vis_use_as_quest_icon: false
+				entity_vis_walk_mode: "USE_GLOBAL"
+				icon: "cataclysm:deepling_brute_spawn_egg"
+				id: "1E2CD42F34FF71E0"
+				type: "kill"
+				value: 10L
+			}]
+			title: "Coral Yue"
+			x: 10.5d
+			y: -0.5d
+		}
+		{
+			description: [
+				"Tương tự như Eye of Ender gốc,"
+				"Sau khi nhấn chuột phải trong khi giữ tay sẽ bay đến Thành phố bão &a gần nhất &r"
+				""
+				""
+				"[Được sử dụng trong thế giới chính]"
+			]
+			entity_vis_size: 1.0f
+			id: "7A834016BCC1DAA5"
+			tasks: [{
+				id: "6F8C3A15ECAFAE04"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "cataclysm:storm_eye"
+				}
+				type: "item"
+			}]
+			x: 3.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["7A834016BCC1DAA5"]
+			entity_vis_size: 1.0f
+			id: "30A1167293733747"
+			shape: "diamond"
+			tasks: [{
+				disable_toast: true
+				entity: "cataclysm:scylla"
+				entity_use_tag: false
+				entity_vis_idle_mode: "USE_GLOBAL"
+				entity_vis_offset_x: 0.0f
+				entity_vis_offset_y: 0.0f
+				entity_vis_rotation: 0.0f
+				entity_vis_silhouette_mode: "NONE"
+				entity_vis_size: 1.0f
+				entity_vis_spin_mode: "USE_GLOBAL"
+				entity_vis_use_as_quest_icon: false
+				entity_vis_walk_mode: "USE_GLOBAL"
+				icon: "cataclysm:ceraunus"
+				id: "34C94F9A6DD6C816"
+				type: "kill"
+				value: 1L
+			}]
+			x: 5.5d
+			y: 4.0d
+		}
+		{
+			entity_vis_size: 1.0f
+			id: "00265512E438473F"
+			shape: "square"
+			tasks: [{
+				id: "15388E65962420C6"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "cataclysm:astrape"
+					tag: {
+						csController: { }
+					}
+				}
+				type: "item"
+			}]
+			x: 9.5d
+			y: 3.5d
+		}
+		{
+			entity_vis_size: 1.0f
+			id: "17CE1E5B73E498C8"
+			shape: "square"
+			tasks: [{
+				id: "75466E71119DC434"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "cataclysm:ceraunus"
+				}
+				type: "item"
+			}]
+			x: 10.5d
+			y: 3.5d
+		}
+		{
+			description: [
+				"&a[Đá quý BOSS]&r"
+				"Rơi ra khi đánh bại BOSS Cataclysmic và một số BOSS khác."
+				"(BOSS khác: Rối Mây, Bất Tử)"
+				""
+				"Vũ khí &e có thể được khảm &r trên đe &e &r."
+				"Nhận được hai kỹ năng hoạt động kiểu &eBOSS &r,"
+				"Sử dụng các phím KEY3 và KEY4 không thể phá hủy &b để kích hoạt &r"
+				"(Không thể nhúng vũ khí có chức năng nút đặc biệt)"
+				""
+				"&6 [Xác suất rơi] &r phụ thuộc vào số người chết trước BOSS &e"
+				"Nếu bạn đánh bại nó một mạng, nó sẽ bị rớt 100% (theo mặc định, BOSS sẽ thiết lập lại lượng máu của nó sau khi bạn chết)"
+				"(Số lần hồi máu BOSS có thể thay đổi trong nhiệm vụ điều chỉnh độ khó &b &r)"
+				""
+				"Bạn cũng có thể sử dụng vũ khí BOSS tương ứng &e &r và cho nó vào lò &b để nấu chảy để thu được nó."
+			]
+			disable_toast: true
+			entity_vis_size: 1.0f
+			icon: "fight_more:gems_fire"
+			id: "7E3D0592722FE3A1"
+			shape: "square"
+			tasks: [
+				{
+					id: "7BB121DE90E3CF69"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "fight_more:gems_fire"
+					}
+					type: "item"
+				}
+				{
+					id: "65B5684476EA13C7"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "fight_more:gems_soul"
+					}
+					type: "item"
+				}
+				{
+					id: "53D498CB479F6BFE"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "fight_more:gems_nether"
+					}
+					type: "item"
+				}
+				{
+					id: "755A636E6AEE47A5"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "fight_more:gems_bolt"
+					}
+					type: "item"
+				}
+				{
+					id: "7500E4EDF3B3D78B"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "fight_more:gems_tide"
+					}
+					type: "item"
+				}
+				{
+					id: "072D241DA92E16F3"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "fight_more:gems_sand"
+					}
+					type: "item"
+				}
+				{
+					id: "7BAAADDDD3AC789F"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "fight_more:gems_sea"
+					}
+					type: "item"
+				}
+				{
+					id: "0C07D1102733E2F0"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "fight_more:gems_void"
+					}
+					type: "item"
+				}
+				{
+					id: "67EC35B58B69161A"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "fight_more:gems_cloud"
+					}
+					type: "item"
+				}
+				{
+					id: "3D25DBD9CB3FFBE2"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "fight_more:gems_emob"
+					}
+					type: "item"
+				}
+			]
+			title: "đá quý BOSS"
+			x: 13.5d
+			y: 4.5d
+		}
+		{
+			entity_vis_size: 1.0f
+			id: "70973F05598666F8"
+			shape: "square"
+			tasks: [{
+				id: "7A0F61E84747499F"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "cataclysm:brontes"
+					tag: {
+						IMFgem: "bolt"
+					}
+				}
+				type: "item"
+			}]
+			x: 11.5d
+			y: 3.5d
+		}
+		{
+			entity_vis_size: 1.0f
+			id: "4D442A55716B7970"
+			shape: "square"
+			tasks: [{
+				id: "187B9CD3C2E578A1"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "cataclysm:ring_of_grudged"
+				}
+				type: "item"
+			}]
+			x: 9.5d
+			y: 4.5d
+		}
+		{
+			entity_vis_size: 1.0f
+			id: "11E14B58C169B595"
+			shape: "square"
+			tasks: [{
+				id: "0E33A15384219EC3"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "cataclysm:berserker_soul_amulet"
+				}
+				type: "item"
+			}]
+			x: 10.5d
+			y: 4.5d
+		}
+		{
+			entity_vis_size: 1.0f
+			id: "7D35AD37649ED8CD"
+			shape: "square"
+			tasks: [{
+				id: "2106BC8F0107460B"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "cataclysm:unbreakable_skull"
+				}
+				type: "item"
+			}]
+			x: 11.5d
+			y: 4.5d
+		}
+		{
+			entity_vis_size: 1.0f
+			id: "6959576502B65CE8"
+			shape: "square"
+			tasks: [{
+				id: "643FBA65863E0A71"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "cataclysm:vitality_ankh"
+				}
+				type: "item"
+			}]
+			x: 12.5d
+			y: 4.5d
+		}
+		{
+			entity_vis_size: 1.0f
+			id: "3A1F0CE94F83DE1B"
+			shape: "square"
+			tasks: [{
+				id: "464E7F0083BD7681"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "cataclysm:blazing_grips"
+				}
+				type: "item"
+			}]
+			x: 13.5d
+			y: 3.5d
+		}
+		{
+			entity_vis_size: 1.0f
+			id: "4A34ABC654E1B6E6"
+			shape: "square"
+			tasks: [{
+				id: "3B41B6B95A184303"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "cataclysm:sandstorm_in_a_bottle"
+				}
+				type: "item"
+			}]
+			x: 12.5d
+			y: 3.5d
+		}
+	]
+	title: "trận đại hồng thủy"
+}

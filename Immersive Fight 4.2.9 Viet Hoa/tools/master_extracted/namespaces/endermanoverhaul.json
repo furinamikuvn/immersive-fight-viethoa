@@ -1,0 +1,642 @@
+{
+  "block.endermanoverhaul.tiny_skull": {
+    "en": "Tiny Skull",
+    "zh": "微小的头骨",
+    "vi": "Tiny Skull"
+  },
+  "config.endermanoverhaul.allowSpawning": {
+    "en": "Allow Spawning",
+    "zh": "允许生成",
+    "vi": "Cho phép tạo"
+  },
+  "config.endermanoverhaul.replaceDefaultEnderman": {
+    "en": "Replace Default Enderman",
+    "zh": "替换默认末影人",
+    "vi": "Thay thế endermen mặc định"
+  },
+  "config.endermanoverhaul.spawnBadlandsEnderman": {
+    "en": "Spawn Badlands Enderman",
+    "zh": "生成荒漠末影人",
+    "vi": "Sinh ra endermen sa mạc"
+  },
+  "config.endermanoverhaul.spawnCaveEnderman": {
+    "en": "Spawn Cave Enderman",
+    "zh": "生成洞穴末影人",
+    "vi": "Endermen hang sinh sản"
+  },
+  "config.endermanoverhaul.spawnCrimsonForestEnderman": {
+    "en": "Spawn Crimson Forest Enderman",
+    "zh": "生成绯红森林末影人",
+    "vi": "Sinh sản Endermen rừng đỏ thẫm"
+  },
+  "config.endermanoverhaul.spawnDarkOakEnderman": {
+    "en": "Spawn Dark Oak Enderman",
+    "zh": "生成黑橡木末影人",
+    "vi": "Sinh sản endermen gỗ sồi đen"
+  },
+  "config.endermanoverhaul.spawnDesertEnderman": {
+    "en": "Spawn Desert Enderman",
+    "zh": "生成沙漠末影人",
+    "vi": "Sinh ra endermen sa mạc"
+  },
+  "config.endermanoverhaul.spawnEndEnderman": {
+    "en": "Spawn End Enderman",
+    "zh": "生成末地末影人",
+    "vi": "Endermen sinh sản"
+  },
+  "config.endermanoverhaul.spawnEndIslandsEnderman": {
+    "en": "Spawn End Islands Enderman",
+    "zh": "生成末地岛屿末影人",
+    "vi": "Endermen đảo cuối sinh sản"
+  },
+  "config.endermanoverhaul.spawnFlowerFieldsEnderman": {
+    "en": "Spawn Flower Fields Enderman",
+    "zh": "生成花海末影人",
+    "vi": "Tạo ra Endermen trong Biển Hoa"
+  },
+  "config.endermanoverhaul.spawnIceSpikesEnderman": {
+    "en": "Spawn Ice Spikes Enderman",
+    "zh": "生成冰刺末影人",
+    "vi": "Sinh sản băng endermen"
+  },
+  "config.endermanoverhaul.spawnMushroomFieldsEnderman": {
+    "en": "Spawn Mushroom Fields Enderman",
+    "zh": "生成蘑菇原野末影人",
+    "vi": "Endermen nấm sinh sản"
+  },
+  "config.endermanoverhaul.spawnNetherWastesEnderman": {
+    "en": "Spawn Nether Wastes Enderman",
+    "zh": "生成下界荒漠末影人",
+    "vi": "Sinh sản ở sa mạc Nether endermen"
+  },
+  "config.endermanoverhaul.spawnOceanEnderman": {
+    "en": null,
+    "zh": "生成海洋末影人",
+    "vi": "Sinh ra endermen đại dương"
+  },
+  "config.endermanoverhaul.spawnSavannaEnderman": {
+    "en": "Spawn Savanna Enderman",
+    "zh": "生成热带草原末影人",
+    "vi": "Sinh sản Savannah Endermen"
+  },
+  "config.endermanoverhaul.spawnSnowyEnderman": {
+    "en": "Spawn Snowy Enderman",
+    "zh": "生成雪地末影人",
+    "vi": "Sinh sản tuyết endermen"
+  },
+  "config.endermanoverhaul.spawnSoulsandValleyEnderman": {
+    "en": "Spawn Soulsand Valley Enderman",
+    "zh": "生成灵魂沙谷末影人",
+    "vi": "Tạo ra linh hồn thung lũng cát endermen"
+  },
+  "config.endermanoverhaul.spawnSwampEnderman": {
+    "en": "Spawn Swamp Enderman",
+    "zh": "生成沼泽末影人",
+    "vi": "Sinh sản của endermen đầm lầy"
+  },
+  "config.endermanoverhaul.spawnWarpedForestEnderman": {
+    "en": "Spawn Warped Forest Enderman",
+    "zh": "生成扭曲森林末影人",
+    "vi": "Sinh ra Endermen rừng xoắn"
+  },
+  "config.endermanoverhaul.spawnWindsweptHillsEnderman": {
+    "en": "Spawn Windswept Hills Enderman",
+    "zh": "生成风袭丘陵末影人",
+    "vi": "Sinh ra Endermen Windswept Hills"
+  },
+  "entity.endermanoverhaul.ancient_pearl": {
+    "en": "Ancient Pearl",
+    "zh": "远古珍珠",
+    "vi": "Ancient Pearl"
+  },
+  "entity.endermanoverhaul.axolotl_pet_enderman": {
+    "en": "Axolotl Pet Enderman",
+    "zh": "蝾螈宠物末影人",
+    "vi": "Axolotl Pet Enderman"
+  },
+  "entity.endermanoverhaul.badlands_enderman": {
+    "en": "Badlands Enderman",
+    "zh": "荒漠末影人",
+    "vi": "Badlands Enderman"
+  },
+  "entity.endermanoverhaul.bubble_pearl": {
+    "en": "Bubble Pearl",
+    "zh": "气泡珍珠",
+    "vi": "Bubble Pearl"
+  },
+  "entity.endermanoverhaul.cave_enderman": {
+    "en": "Cave Enderman",
+    "zh": "洞穴末影人",
+    "vi": "Cave Enderman"
+  },
+  "entity.endermanoverhaul.corrupted_pearl": {
+    "en": "Corrupted Pearl",
+    "zh": "腐化珍珠",
+    "vi": "Corrupted Pearl"
+  },
+  "entity.endermanoverhaul.crimson_forest_enderman": {
+    "en": "Crimson Forest Enderman",
+    "zh": "绯红森林末影人",
+    "vi": "Crimson Forest Enderman"
+  },
+  "entity.endermanoverhaul.crimson_pearl": {
+    "en": "Crimson Pearl",
+    "zh": "绯红珍珠",
+    "vi": "Crimson Pearl"
+  },
+  "entity.endermanoverhaul.dark_oak_enderman": {
+    "en": "Dark Oak Enderman",
+    "zh": "黑橡木末影人",
+    "vi": "Dark Oak Enderman"
+  },
+  "entity.endermanoverhaul.desert_enderman": {
+    "en": "Desert Enderman",
+    "zh": "沙漠末影人",
+    "vi": "Desert Enderman"
+  },
+  "entity.endermanoverhaul.end_enderman": {
+    "en": "End Enderman",
+    "zh": "末地末影人",
+    "vi": "End Enderman"
+  },
+  "entity.endermanoverhaul.end_islands_enderman": {
+    "en": "End Islands Enderman",
+    "zh": "末地岛屿末影人",
+    "vi": "End Islands Enderman"
+  },
+  "entity.endermanoverhaul.ender_bullet": {
+    "en": "Ender Bullet",
+    "zh": "末影弹",
+    "vi": "Ender Bullet"
+  },
+  "entity.endermanoverhaul.flower_fields_enderman": {
+    "en": "Flower Fields Enderman",
+    "zh": "花海末影人",
+    "vi": "Flower Fields Enderman"
+  },
+  "entity.endermanoverhaul.hammerhead_pet_enderman": {
+    "en": "Hammerhead Pet Enderman",
+    "zh": "锤头鲨宠物末影人",
+    "vi": "Hammerhead Pet Enderman"
+  },
+  "entity.endermanoverhaul.ice_spikes_enderman": {
+    "en": "Ice Spikes Enderman",
+    "zh": "冰刺末影人",
+    "vi": "Ice Spikes Enderman"
+  },
+  "entity.endermanoverhaul.icy_pearl": {
+    "en": "Icy Pearl",
+    "zh": "冰冷珍珠",
+    "vi": "Icy Pearl"
+  },
+  "entity.endermanoverhaul.mushroom_fields_enderman": {
+    "en": "Mushroom Fields Enderman",
+    "zh": "蘑菇原野末影人",
+    "vi": "Mushroom Fields Enderman"
+  },
+  "entity.endermanoverhaul.nether_wastes_enderman": {
+    "en": "Nether Wastes Enderman",
+    "zh": "下界荒野末影人",
+    "vi": "Nether Wastes Enderman"
+  },
+  "entity.endermanoverhaul.ocean_enderman": {
+    "en": null,
+    "zh": "海洋末影人",
+    "vi": "Enderman đại dương"
+  },
+  "entity.endermanoverhaul.pet_enderman": {
+    "en": "Pet Enderman",
+    "zh": "宠物末影人",
+    "vi": "Pet Enderman"
+  },
+  "entity.endermanoverhaul.savanna_enderman": {
+    "en": "Savanna Enderman",
+    "zh": "热带草原末影人",
+    "vi": "Savanna Enderman"
+  },
+  "entity.endermanoverhaul.scarab": {
+    "en": "Scarab",
+    "zh": "圣甲虫",
+    "vi": "Scarab"
+  },
+  "entity.endermanoverhaul.snowy_enderman": {
+    "en": "Snowy Enderman",
+    "zh": "雪地末影人",
+    "vi": "Snowy Enderman"
+  },
+  "entity.endermanoverhaul.soul_pearl": {
+    "en": "Soul Pearl",
+    "zh": "灵魂珠",
+    "vi": "Soul Pearl"
+  },
+  "entity.endermanoverhaul.soulsand_valley_enderman": {
+    "en": "Soulsand Valley Enderman",
+    "zh": "灵魂沙谷末影人",
+    "vi": "Soulsand Valley Enderman"
+  },
+  "entity.endermanoverhaul.spirit": {
+    "en": "Spirit",
+    "zh": "幽灵",
+    "vi": "Spirit"
+  },
+  "entity.endermanoverhaul.summoner_pearl": {
+    "en": "Summoner Pearl",
+    "zh": "召唤珠",
+    "vi": "Summoner Pearl"
+  },
+  "entity.endermanoverhaul.swamp_enderman": {
+    "en": "Swamp Enderman",
+    "zh": "沼泽末影人",
+    "vi": "Swamp Enderman"
+  },
+  "entity.endermanoverhaul.warped_forest_enderman": {
+    "en": "Warped Forest Enderman",
+    "zh": "诡异森林末影人",
+    "vi": "Warped Forest Enderman"
+  },
+  "entity.endermanoverhaul.warped_pearl": {
+    "en": "Warped Pearl",
+    "zh": "扭曲珠",
+    "vi": "Warped Pearl"
+  },
+  "entity.endermanoverhaul.windswept_hills_enderman": {
+    "en": "Windswept Hills Enderman",
+    "zh": "风袭丘陵末影人",
+    "vi": "Windswept Hills Enderman"
+  },
+  "item.endermanoverhaul.ancient_pearl": {
+    "en": "Ancient Pearl",
+    "zh": "远古珠",
+    "vi": "Ancient Pearl"
+  },
+  "item.endermanoverhaul.badlands_enderman_spawn_egg": {
+    "en": "Badlands Enderman Spawn Egg",
+    "zh": "恶地末影人刷怪蛋",
+    "vi": "Badlands Enderman Spawn Egg"
+  },
+  "item.endermanoverhaul.badlands_hood": {
+    "en": "Badlands Hood",
+    "zh": "恶地兜帽",
+    "vi": "Badlands Hood"
+  },
+  "item.endermanoverhaul.bubble_pearl": {
+    "en": "Bubble Pearl",
+    "zh": "气泡珠",
+    "vi": "Bubble Pearl"
+  },
+  "item.endermanoverhaul.cave_enderman_spawn_egg": {
+    "en": "Cave Enderman Spawn Egg",
+    "zh": "洞穴末影人刷怪蛋",
+    "vi": "Cave Enderman Spawn Egg"
+  },
+  "item.endermanoverhaul.corrupted_blade": {
+    "en": "Corrupted Blade",
+    "zh": "腐化之刃",
+    "vi": "Corrupted Blade"
+  },
+  "item.endermanoverhaul.corrupted_pearl": {
+    "en": "Corrupted Pearl",
+    "zh": "腐化珠",
+    "vi": "Corrupted Pearl"
+  },
+  "item.endermanoverhaul.corrupted_shield": {
+    "en": "Corrupted Shield",
+    "zh": "腐化盾",
+    "vi": "Corrupted Shield"
+  },
+  "item.endermanoverhaul.crimson_forest_enderman_spawn_egg": {
+    "en": "Crimson Forest Enderman Spawn Egg",
+    "zh": "绯红森林末影人刷怪蛋",
+    "vi": "Crimson Forest Enderman Spawn Egg"
+  },
+  "item.endermanoverhaul.crimson_pearl": {
+    "en": "Crimson Pearl",
+    "zh": "绯红珠",
+    "vi": "Crimson Pearl"
+  },
+  "item.endermanoverhaul.dark_oak_enderman_spawn_egg": {
+    "en": "Dark Oak Enderman Spawn Egg",
+    "zh": "黑橡木末影人刷怪蛋",
+    "vi": "Dark Oak Enderman Spawn Egg"
+  },
+  "item.endermanoverhaul.desert_enderman_spawn_egg": {
+    "en": "Desert Enderman Spawn Egg",
+    "zh": "沙漠末影人刷怪蛋",
+    "vi": "Desert Enderman Spawn Egg"
+  },
+  "item.endermanoverhaul.end_enderman_spawn_egg": {
+    "en": "End Enderman Spawn Egg",
+    "zh": "末地末影人刷怪蛋",
+    "vi": "End Enderman Spawn Egg"
+  },
+  "item.endermanoverhaul.end_islands_enderman_spawn_egg": {
+    "en": "End Islands Enderman Spawn Egg",
+    "zh": "末地岛屿末影人刷怪蛋",
+    "vi": "End Islands Enderman Spawn Egg"
+  },
+  "item.endermanoverhaul.enderman_tooth": {
+    "en": "Enderman Tooth",
+    "zh": "末影人牙齿",
+    "vi": "Enderman Tooth"
+  },
+  "item.endermanoverhaul.flower_fields_enderman_spawn_egg": {
+    "en": "Flower Fields Enderman Spawn Egg",
+    "zh": "花海末影人刷怪蛋",
+    "vi": "Flower Fields Enderman Spawn Egg"
+  },
+  "item.endermanoverhaul.ice_spikes_enderman_spawn_egg": {
+    "en": "Ice Spikes Enderman Spawn Egg",
+    "zh": "冰刺末影人刷怪蛋",
+    "vi": "Ice Spikes Enderman Spawn Egg"
+  },
+  "item.endermanoverhaul.icy_pearl": {
+    "en": "Icy Pearl",
+    "zh": "冰冷珠",
+    "vi": "Icy Pearl"
+  },
+  "item.endermanoverhaul.mushroom_fields_enderman_spawn_egg": {
+    "en": "Mushroom Fields Enderman Spawn Egg",
+    "zh": "蘑菇原野末影人刷怪蛋",
+    "vi": "Mushroom Fields Enderman Spawn Egg"
+  },
+  "item.endermanoverhaul.nether_wastes_enderman_spawn_egg": {
+    "en": "Nether Wastes Enderman Spawn Egg",
+    "zh": "下界荒野末影人刷怪蛋",
+    "vi": "Nether Wastes Enderman Spawn Egg"
+  },
+  "item.endermanoverhaul.ocean_enderman_spawn_egg": {
+    "en": null,
+    "zh": "海洋末影人刷怪蛋",
+    "vi": "Trứng sinh sản Ocean Enderman"
+  },
+  "item.endermanoverhaul.savanna_enderman_spawn_egg": {
+    "en": "Savanna Enderman Spawn Egg",
+    "zh": "热带草原末影人刷怪蛋",
+    "vi": "Savanna Enderman Spawn Egg"
+  },
+  "item.endermanoverhaul.savanna_hood": {
+    "en": "Savanna Hood",
+    "zh": "热带草原兜帽",
+    "vi": "Savanna Hood"
+  },
+  "item.endermanoverhaul.scarab_spawn_egg": {
+    "en": "Scarab Spawn Egg",
+    "zh": "圣甲虫刷怪蛋",
+    "vi": "Scarab Spawn Egg"
+  },
+  "item.endermanoverhaul.snowy_enderman_spawn_egg": {
+    "en": "Snowy Enderman Spawn Egg",
+    "zh": "雪地末影人刷怪蛋",
+    "vi": "Snowy Enderman Spawn Egg"
+  },
+  "item.endermanoverhaul.snowy_hood": {
+    "en": "Snowy Hood",
+    "zh": "雪地兜帽",
+    "vi": "Snowy Hood"
+  },
+  "item.endermanoverhaul.soul_pearl": {
+    "en": "Soul Pearl",
+    "zh": "灵魂珍珠",
+    "vi": "Soul Pearl"
+  },
+  "item.endermanoverhaul.soulsand_valley_enderman_spawn_egg": {
+    "en": "Soulsand Valley Enderman Spawn Egg",
+    "zh": "灵魂沙谷末影人刷怪蛋",
+    "vi": "Soulsand Valley Enderman Spawn Egg"
+  },
+  "item.endermanoverhaul.spirit_spawn_egg": {
+    "en": "Spirit Spawn Egg",
+    "zh": "幽灵刷怪蛋",
+    "vi": "Spirit Spawn Egg"
+  },
+  "item.endermanoverhaul.summoner_pearl": {
+    "en": "Summoner Pearl",
+    "zh": "召唤者珍珠",
+    "vi": "Summoner Pearl"
+  },
+  "item.endermanoverhaul.swamp_enderman_spawn_egg": {
+    "en": "Swamp Enderman Spawn Egg",
+    "zh": "沼泽末影人刷怪蛋",
+    "vi": "Swamp Enderman Spawn Egg"
+  },
+  "item.endermanoverhaul.warped_forest_enderman_spawn_egg": {
+    "en": "Warped Forest Enderman Spawn Egg",
+    "zh": "诡异森林末影人刷怪蛋",
+    "vi": "Warped Forest Enderman Spawn Egg"
+  },
+  "item.endermanoverhaul.warped_pearl": {
+    "en": "Warped Pearl",
+    "zh": "诡异珍珠",
+    "vi": "Warped Pearl"
+  },
+  "item.endermanoverhaul.windswept_hills_enderman_spawn_egg": {
+    "en": "Windswept Hills Enderman Spawn Egg",
+    "zh": "风袭丘陵末影人刷怪蛋",
+    "vi": "Windswept Hills Enderman Spawn Egg"
+  },
+  "itemGroup.endermanoverhaul.main": {
+    "en": "Enderman Overhaul",
+    "zh": "末影人改进",
+    "vi": "Cải tiến Enderman"
+  },
+  "subtitles.endermanoverhaul.entity.ancient_pearl.hit": {
+    "en": "Ancient Pearl Hits",
+    "zh": "古老珍珠命中",
+    "vi": "ngọc trai cổ đánh"
+  },
+  "subtitles.endermanoverhaul.entity.bubble_pearl.hit": {
+    "en": "Bubble Pearl Pops",
+    "zh": "气泡珍珠破裂",
+    "vi": "bong bóng ngọc trai vỡ"
+  },
+  "subtitles.endermanoverhaul.entity.bubble_pearl.thrown": {
+    "en": "Bubble Pearl Thrown",
+    "zh": "气泡珍珠投掷",
+    "vi": "ném ngọc trai bong bóng"
+  },
+  "subtitles.endermanoverhaul.entity.cave_enderman.ambient": {
+    "en": "Cave Enderman vwoops",
+    "zh": "洞穴末影人呜咽",
+    "vi": "Cave endermen thút thít"
+  },
+  "subtitles.endermanoverhaul.entity.cave_enderman.hurt": {
+    "en": "Cave Enderman hurts",
+    "zh": "洞穴末影人受伤",
+    "vi": "Cave Enderman bị thương"
+  },
+  "subtitles.endermanoverhaul.entity.corrupted_pearl.hit": {
+    "en": "Corrupted Pearl Hits",
+    "zh": "腐化珍珠命中",
+    "vi": ""
+  },
+  "subtitles.endermanoverhaul.entity.dark_oak_enderman.ambient": {
+    "en": "Dark Oak Enderman vwoops",
+    "zh": "黑橡木末影人呜咽",
+    "vi": "Endermen sồi đen thút thít"
+  },
+  "subtitles.endermanoverhaul.entity.dark_oak_enderman.darkness": {
+    "en": "Dark Oak Enderman darkens",
+    "zh": "黑橡木末影人变暗",
+    "vi": "Endermen gỗ sồi đen tối"
+  },
+  "subtitles.endermanoverhaul.entity.dark_oak_enderman.stare": {
+    "en": "Dark Oak Enderman cries out",
+    "zh": "黑橡木末影人呼喊",
+    "vi": "Tiếng hét của Endermen Sồi Đen"
+  },
+  "subtitles.endermanoverhaul.entity.plant_enderman.ambient": {
+    "en": "Plant Enderman vwoops",
+    "zh": "植物末影人呜咽",
+    "vi": "Cây endermen rên rỉ"
+  },
+  "subtitles.endermanoverhaul.entity.plant_enderman.hurt": {
+    "en": "Plant Enderman hurts",
+    "zh": "植物末影人受伤",
+    "vi": "Cây enderman bị thương"
+  },
+  "subtitles.endermanoverhaul.entity.soul_pearl.hit": {
+    "en": "Soul Pearl Hits",
+    "zh": "灵魂珍珠命中",
+    "vi": "viên ngọc trai tâm hồn"
+  },
+  "subtitles.endermanoverhaul.entity.summoner_pearl.hit": {
+    "en": "Summoner Pearl Hits",
+    "zh": "召唤者珍珠命中",
+    "vi": "Ngọc triệu hồi"
+  },
+  "subtitles.endermanoverhaul.entity.tall_enderman.ambient": {
+    "en": "Tall Enderman vwoops",
+    "zh": "高大末影人呜咽",
+    "vi": "Enderman cao lớn thút thít"
+  },
+  "subtitles.endermanoverhaul.entity.tall_enderman.death": {
+    "en": "Tall Enderman dies",
+    "zh": "高大末影人死亡",
+    "vi": "Cái chết của Enderman cao lớn"
+  },
+  "subtitles.endermanoverhaul.entity.tall_enderman.stare": {
+    "en": "Tall Enderman cries out",
+    "zh": "高大末影人呼喊",
+    "vi": "Enderman Cao hét lên"
+  },
+  "tag.item.endermanoverhaul.ender_pearls": {
+    "en": "Ender Pearls",
+    "zh": "末影珍珠",
+    "vi": "ngọc trai ender"
+  },
+  "tooltip.endermanoverhaul.ancient_pearl": {
+    "en": "Summons a friendly enderman to fight for you",
+    "zh": "召唤友好的末影人为你而战",
+    "vi": "Triệu tập những ender thân thiện để chiến đấu vì bạn"
+  },
+  "tooltip.endermanoverhaul.ancient_pet": {
+    "en": "Pet health: %.1f",
+    "zh": "宠物生命值:%.1f",
+    "vi": "HP thú cưng:%.1f"
+  },
+  "tooltip.endermanoverhaul.bound_to": {
+    "en": "Bound to: %s",
+    "zh": "绑定于:%s",
+    "vi": "Bị ràng buộc với:%s"
+  },
+  "tooltip.endermanoverhaul.bubble_pearl": {
+    "en": "Accurate Ender Pearl with no gravity",
+    "zh": "准确无误的末影珍珠,没有重力",
+    "vi": "Ngọc trai ender chính xác, không trọng lực"
+  },
+  "tooltip.endermanoverhaul.corrupted_blade": {
+    "en": "Teleports targets randomly",
+    "zh": "随机传送目标",
+    "vi": "Mục tiêu dịch chuyển ngẫu nhiên"
+  },
+  "tooltip.endermanoverhaul.corrupted_pearl": {
+    "en": "Teleports targets to a random location",
+    "zh": "将目标传送到随机位置",
+    "vi": "Dịch chuyển mục tiêu đến vị trí ngẫu nhiên"
+  },
+  "tooltip.endermanoverhaul.corrupted_shield": {
+    "en": "Teleports attackers randomly",
+    "zh": "随机传送攻击者",
+    "vi": "Dịch chuyển ngẫu nhiên kẻ tấn công"
+  },
+  "tooltip.endermanoverhaul.crimson_pearl": {
+    "en": "Applies Strength II when teleporting",
+    "zh": "传送时应用力量 II",
+    "vi": "Áp dụng lực trong khi dịch chuyển II"
+  },
+  "tooltip.endermanoverhaul.hood": {
+    "en": "Allows you to look at endermen without angering them",
+    "zh": "允许你观察末影人而不会激怒它们",
+    "vi": "Cho phép bạn quan sát endermen mà không chọc giận họ"
+  },
+  "tooltip.endermanoverhaul.icy_pearl": {
+    "en": "Freezes nearby targets on hit",
+    "zh": "击中目标时冻结附近的生物",
+    "vi": "Đóng băng các sinh vật xung quanh khi bị tấn công"
+  },
+  "tooltip.endermanoverhaul.not_bound": {
+    "en": "Not bound",
+    "zh": "未绑定",
+    "vi": "Không bị ràng buộc"
+  },
+  "tooltip.endermanoverhaul.soul_pearl_1": {
+    "en": "Shift-right click to bind an entity",
+    "zh": "按住Shift并右键点击实体以进行绑定",
+    "vi": "Shift + nhấp chuột phải vào thực thể để liên kết"
+  },
+  "tooltip.endermanoverhaul.soul_pearl_2": {
+    "en": "Teleports the bound entity to the target location",
+    "zh": "将绑定的实体传送到目标位置",
+    "vi": "Dịch chuyển thực thể bị ràng buộc đến vị trí mục tiêu"
+  },
+  "tooltip.endermanoverhaul.summoner_pearl": {
+    "en": "Teleports nearby targets on hit",
+    "zh": "击中附近的生物进行传送",
+    "vi": "Đánh một sinh vật gần đó để dịch chuyển tức thời"
+  },
+  "tooltip.endermanoverhaul.warped_pearl": {
+    "en": "Applies Resistance II when teleporting",
+    "zh": "传送时应用抗性 II",
+    "vi": "Áp dụng kháng cự II khi dịch chuyển tức thời"
+  },
+  "config.endermanoverhaul.allowPickingUpBlocks": {
+    "en": "Allow Picking Up Blocks",
+    "zh": null,
+    "vi": null
+  },
+  "config.endermanoverhaul.endEndermanTeleportChance": {
+    "en": "End Enderman Teleport Chance",
+    "zh": null,
+    "vi": null
+  },
+  "config.endermanoverhaul.friendlyEndermanDespawn": {
+    "en": "Friendly Enderman Despawn",
+    "zh": null,
+    "vi": null
+  },
+  "config.endermanoverhaul.friendlyEndermanTeleport": {
+    "en": "Friendly Enderman Teleport",
+    "zh": null,
+    "vi": null
+  },
+  "config.endermanoverhaul.spawnCoralEnderman": {
+    "en": "Spawn Coral Enderman",
+    "zh": "生成海洋末影人",
+    "vi": null
+  },
+  "entity.endermanoverhaul.coral_enderman": {
+    "en": "Coral Enderman",
+    "zh": "海洋末影人",
+    "vi": null
+  },
+  "item.endermanoverhaul.coral_enderman_spawn_egg": {
+    "en": "Coral Enderman Spawn Egg",
+    "zh": "海洋末影人刷怪蛋",
+    "vi": null
+  },
+  "subtitles.endermanoverhaul.entity.icy_pearl.hit": {
+    "en": "Icy Pearl Hits",
+    "zh": null,
+    "vi": null
+  }
+}

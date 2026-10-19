@@ -1,0 +1,227 @@
+{
+  "gui.client-config": {
+    "en": "Client Config",
+    "zh": "客户端设置",
+    "vi": null
+  },
+  "gui.config": {
+    "en": "Config",
+    "zh": "设置",
+    "vi": null
+  },
+  "gui.save": {
+    "en": "Save",
+    "zh": "保存",
+    "vi": null
+  },
+  "gui.add": {
+    "en": "Add",
+    "zh": "新增",
+    "vi": null
+  },
+  "gui.minus": {
+    "en": "-",
+    "zh": "-",
+    "vi": null
+  },
+  "gui.plus": {
+    "en": "+",
+    "zh": "+",
+    "vi": null
+  },
+  "gui.del": {
+    "en": "x",
+    "zh": "删除",
+    "vi": null
+  },
+  "gui.config.reset": {
+    "en": "r",
+    "zh": null,
+    "vi": null
+  },
+  "gui.volume": {
+    "en": "volume",
+    "zh": "音量",
+    "vi": null
+  },
+  "gui.pitch": {
+    "en": "pitch",
+    "zh": "投掷",
+    "vi": null
+  },
+  "gui.close": {
+    "en": "Close",
+    "zh": "关闭",
+    "vi": null
+  },
+  "gui.perm.open": {
+    "en": "Open Permissions",
+    "zh": "打开权限",
+    "vi": null
+  },
+  "gui.perm.add": {
+    "en": "Add Group",
+    "zh": "增加组",
+    "vi": null
+  },
+  "gui.content": {
+    "en": "Content",
+    "zh": "内容",
+    "vi": null
+  },
+  "gui.config.enabled": {
+    "en": "Enabled",
+    "zh": "已启用",
+    "vi": null
+  },
+  "gui.day": {
+    "en": "d",
+    "zh": null,
+    "vi": null
+  },
+  "gui.hour": {
+    "en": "h",
+    "zh": null,
+    "vi": null
+  },
+  "gui.minute": {
+    "en": "m",
+    "zh": null,
+    "vi": null
+  },
+  "gui.second": {
+    "en": "s",
+    "zh": null,
+    "vi": null
+  },
+  "gui.ingredient.latest": {
+    "en": "Recent ingredients:",
+    "zh": null,
+    "vi": null
+  },
+  "dialog.savechanges": {
+    "en": "Do you want to save your changes?",
+    "zh": "你想要保存更改吗？",
+    "vi": null
+  },
+  "dialog.button.OK": {
+    "en": "Okay",
+    "zh": "好的",
+    "vi": null
+  },
+  "dialog.button.YES": {
+    "en": "Yes",
+    "zh": "是",
+    "vi": null
+  },
+  "dialog.button.NO": {
+    "en": "No",
+    "zh": "否",
+    "vi": null
+  },
+  "dialog.button.MAYBE": {
+    "en": "Maybe",
+    "zh": "可能",
+    "vi": null
+  },
+  "dialog.button.CANCEL": {
+    "en": "Cancel",
+    "zh": "取消",
+    "vi": null
+  },
+  "dialog.button.ABORT": {
+    "en": "Abort",
+    "zh": "终止",
+    "vi": null
+  },
+  "dialog.button.CONFIRM": {
+    "en": "Confirm",
+    "zh": "确认",
+    "vi": null
+  },
+  "collector.inventory": {
+    "en": "Inventory",
+    "zh": "存储",
+    "vi": null
+  },
+  "collector.all": {
+    "en": "Creative",
+    "zh": "创造模式",
+    "vi": null
+  },
+  "minecraft.block": {
+    "en": "Block",
+    "zh": "方块",
+    "vi": null
+  },
+  "minecraft.blocks": {
+    "en": "Blocks",
+    "zh": null,
+    "vi": null
+  },
+  "minecraft.blocks.counting": {
+    "en": "%s Block(s)",
+    "zh": null,
+    "vi": null
+  },
+  "minecraft.item": {
+    "en": "Item",
+    "zh": "物品",
+    "vi": null
+  },
+  "minecraft.block_tag": {
+    "en": "Blocktag",
+    "zh": "方块标签",
+    "vi": null
+  },
+  "minecraft.item_tag": {
+    "en": "Itemtag",
+    "zh": "物品标签",
+    "vi": null
+  },
+  "minecraft.fuel": {
+    "en": "Fuel",
+    "zh": "燃料",
+    "vi": null
+  },
+  "minecraft.stack": {
+    "en": "Stack",
+    "zh": "堆",
+    "vi": null
+  },
+  "facing.east": {
+    "en": "East",
+    "zh": "东",
+    "vi": null
+  },
+  "facing.west": {
+    "en": "West",
+    "zh": "西",
+    "vi": null
+  },
+  "facing.up": {
+    "en": "Up",
+    "zh": "上",
+    "vi": null
+  },
+  "facing.down": {
+    "en": "Down",
+    "zh": "下",
+    "vi": null
+  },
+  "facing.south": {
+    "en": "South",
+    "zh": "南",
+    "vi": null
+  },
+  "facing.north": {
+    "en": "North",
+    "zh": "北",
+    "vi": null
+  },
+  "gui.reset": {
+    "en": null,
+    "zh": "r",
+    "vi": null
+  }
+}

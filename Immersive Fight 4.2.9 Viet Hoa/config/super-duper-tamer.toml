@@ -1,0 +1,33 @@
+
+["Balance Settings"]
+	#blacklisted mobs can't be tamed. example : minecraft:warden
+	blacklist = ["monsterexpansion:skrythe", "monsterexpansion:rhyza", "alexscaves:hullbreaker", "monsterexpansion:ignathos"]
+	#tame success chance for mobs. example : minecraft:husk=80.0
+	tameChance = ["minecraft:husk=80.0"]
+	#enable force tame, which is able to tame any mob even if it's already tamable with other method
+	forceTame = true
+	#heal item for tamed mob. example : minecraft:husk=minecraft:rotten_flesh
+	healItem = []
+	#heal amount for tamed mob. example : minecraft:husk=1.0
+	healAmount = ["minecraft:husk=1.0"]
+
+["Client Settings"]
+	#particle for when successfully tamed mobs. example : minecraft:husk=minecraft:damage_indicator
+	particleWhenTamed = ["minecraft:husk=minecraft:damage_indicator"]
+	#y offset of passenger when ride tamed mob. example : minecraft:husk=0.5
+	mountOffset = []
+
+["Common Settings"]
+	#enable empty hand taming, if mob is not defined in config, right click it with empty hand will have chance to tame it
+	handTame = false
+	#item needed for tame mobs. example : minecraft:husk=minecraft:rotten_flesh
+	tamingItems = ["minecraft:husk=minecraft:rotten_flesh"]
+	#movementSpeed for when pets following owner or controlled by owner. example : minecraft:husk=0.3
+	movementSpeed = ["minecraft:husk=0.3"]
+	#disable riding of specific mob. example : minecraft:husk
+	ridingBlacklist = []
+	#minimum range for tamed mob attack target while in following state. example : minecraft:husk=3.5
+	attackRange = []
+	#minimum range for tamed mob teleport to owner. example : minecraft:husk=10.0
+	teleportRange = []
+

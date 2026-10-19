@@ -1,0 +1,11 @@
+{
+  "cullleaves.midnightconfig.title": "Tùy chọn lá Cull",
+  "cullleaves.midnightconfig.enabled.tooltip": "Loại bỏ lá để cải thiện hiệu suất\n§cThay đổi tùy chọn này yêu cầu tải lại tất cả các khối (F3+A)",
+  "cullleaves.midnightconfig.enabled.tooltip.sodium": "Loại bỏ lá để cải thiện hiệu suất",
+  "cullleaves.midnightconfig.enabled": "Kích hoạt tính năng loại bỏ lá",
+  "cullleaves.midnightconfig.sodiumBlockFaceCullingFix.tooltip": "Đã khắc phục sự cố nhấp nháy khi loại bỏ lá khi sử dụng gói tài nguyên khi làm việc với natri\nBạn có thể muốn bật cái này lên",
+  "cullleaves.midnightconfig.sodiumBlockFaceCullingFix": "Sửa lỗi chặn mặt để loại bỏ natri trong lá",
+  "cullleaves.midnightconfig.cullRoots.tooltip": "Cho phép loại bỏ rễ cây ngập mặn.\n§cSau khi thay đổi cài đặt này, bạn phải tải lại tất cả các đoạn (F3 + A)",
+  "cullleaves.midnightconfig.cullRoots.tooltip.sodium": "Cho phép loại bỏ rễ cây ngập mặn.",
+  "cullleaves.midnightconfig.cullRoots": "Cho phép loại bỏ rễ cây ngập mặn"
+}

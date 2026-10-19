@@ -1,0 +1,12 @@
+{
+  "itemGroup.dodosmobs.item": "Dodo's Mods物品",
+  "item.dodosmobs.amalgam_claws": "融合利爪",
+  "item.dodosmobs.chimera_armor_chestplate": "骸骨胸甲",
+  "item.dodosmobs.chimera_claw": "骸骨爪",
+  "item.dodosmobs.bone_chimera_spawn_egg": "骸骨奇美拉刷怪蛋",
+  "entity.dodosmobs.bone_chimera": "骸骨奇美拉",
+  "effect.dodosmobs.wound": "创伤",
+  "death.attack.dodosmobs.wound": "创口崩裂而亡",
+  "death.attack.dodosmobs.wound.player": "因创口崩裂而死于%s手中",
+  "entity.dodosmobs.dead_horn": "寂灭角兽"
+}

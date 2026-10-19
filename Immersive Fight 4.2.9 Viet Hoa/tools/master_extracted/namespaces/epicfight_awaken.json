@@ -1,0 +1,452 @@
+{
+  "key.category.epicfight_awaken": {
+    "en": "EpicFight Awaken",
+    "zh": "史诗战斗：觉醒",
+    "vi": null
+  },
+  "key.epicfight_awaken.skill1": {
+    "en": "Skill 1",
+    "zh": "技能1",
+    "vi": null
+  },
+  "key.epicfight_awaken.skill2": {
+    "en": "Skill 2",
+    "zh": "技能2",
+    "vi": null
+  },
+  "key_info.epicfight_awaken.long_press": {
+    "en": "long press ",
+    "zh": "长按",
+    "vi": null
+  },
+  "creativetab.epicfight_awaken.efa_items": {
+    "en": "EpicFight Awaken Items",
+    "zh": "史诗战斗：觉醒 物品",
+    "vi": null
+  },
+  "item.epicfight_awaken.darknight_pursuiters": {
+    "en": "Darknight Pursuiters",
+    "zh": "暗夜逐猎者",
+    "vi": null
+  },
+  "item.epicfight_awaken.will_of_king": {
+    "en": "Will of King",
+    "zh": "王之意志",
+    "vi": null
+  },
+  "item.epicfight_awaken.rage_of_flame": {
+    "en": "Rage of Flame",
+    "zh": "烈焰之怒",
+    "vi": null
+  },
+  "item.epicfight_awaken.bleak_ender_essence": {
+    "en": "Bleak Ender Essence",
+    "zh": "黯淡的末影精华",
+    "vi": null
+  },
+  "item.epicfight_awaken.ender_essence": {
+    "en": "Ender Essence",
+    "zh": "末影精华",
+    "vi": null
+  },
+  "effect.epicfight_awaken.curse_of_night": {
+    "en": "Curse Of Night",
+    "zh": "黑夜诅咒",
+    "vi": null
+  },
+  "effect.epicfight_awaken.flame_enchant": {
+    "en": "Flame Enchant",
+    "zh": "火焰附魔",
+    "vi": null
+  },
+  "effect.epicfight_awaken.lightning_enchant": {
+    "en": "Lightning Enchant",
+    "zh": "雷电附魔",
+    "vi": null
+  },
+  "skill_tree.epicfight_awaken.awaken": {
+    "en": "Awaken",
+    "zh": "觉醒",
+    "vi": null
+  },
+  "unlock.epicfight_awaken.thunder_punishment": {
+    "en": "Crafted",
+    "zh": "合成获得",
+    "vi": null
+  },
+  "skill.epicfight_awaken.darknight_pursuiters": {
+    "en": "Darknight Pursuiters",
+    "zh": "暗夜逐猎者",
+    "vi": null
+  },
+  "skill.epicfight_awaken.darknight_pursuiters.tooltip": {
+    "en": "An assassin lurking in the shadows of the night, dodging enemy strikes with nimble movements and striking back in return.",
+    "zh": "潜伏于黑夜之中的刺客，用其灵巧的动作躲避敌人的攻击并给予反击",
+    "vi": null
+  },
+  "skill.epicfight_awaken.darknight_pursuiters.tooltip_warning": {
+    "en": "Warning: Normal Attack and Heavy Attack are currently bound to the same key. It is strongly recommended to bind Heavy Attack to a different key.",
+    "zh": "当前普攻与重击为同一个按键，强烈建议将重击绑定至其他按键",
+    "vi": null
+  },
+  "skill.epicfight_awaken.darknight_pursuiters.tooltip1": {
+    "en": "<Keybind>",
+    "zh": "<按键说明>",
+    "vi": null
+  },
+  "skill.epicfight_awaken.darknight_pursuiters.tooltip2-1": {
+    "en": "-<N> %s  <H> %s  <D> %s",
+    "zh": "-<N> %s  <H> %s  <D> %s",
+    "vi": null
+  },
+  "skill.epicfight_awaken.darknight_pursuiters.tooltip2-2": {
+    "en": "-<S1> %s  <S2> %s",
+    "zh": "-<S1> %s  <S2> %s",
+    "vi": null
+  },
+  "skill.epicfight_awaken.darknight_pursuiters.tooltip3": {
+    "en": "<Weapon Skills>",
+    "zh": "<武器技能>",
+    "vi": null
+  },
+  "skill.epicfight_awaken.darknight_pursuiters.tooltip4": {
+    "en": "-[Normal Attack] §f N N N N",
+    "zh": "-[普攻] §f N N N N",
+    "vi": null
+  },
+  "skill.epicfight_awaken.darknight_pursuiters.tooltip5": {
+    "en": "-[Heavy Attack] §f H H H H",
+    "zh": "-[重击] §f H H H H",
+    "vi": null
+  },
+  "skill.epicfight_awaken.darknight_pursuiters.tooltip6": {
+    "en": "-[Nightfall] §f N H",
+    "zh": "-[夜幕降临] §f N H",
+    "vi": null
+  },
+  "skill.epicfight_awaken.darknight_pursuiters.tooltip7": {
+    "en": "-[Dust Reaver] §f N N H",
+    "zh": "-[黄昏收割] §f N N H",
+    "vi": null
+  },
+  "skill.epicfight_awaken.darknight_pursuiters.tooltip8": {
+    "en": "-[Phantom Dance] §f N N N H H H ... H",
+    "zh": "-[幽影乱舞] §f N N N H H H ... H",
+    "vi": null
+  },
+  "skill.epicfight_awaken.darknight_pursuiters.tooltip9": {
+    "en": "-[Shadow Lunge] §f Dash N H H H",
+    "zh": "-[暗影突袭] §f 冲刺N H H H",
+    "vi": null
+  },
+  "skill.epicfight_awaken.darknight_pursuiters.tooltip10": {
+    "en": "-[Falling Shadow] §f Jump N H",
+    "zh": "-[落影] §f 跳跃N H",
+    "vi": null
+  },
+  "skill.epicfight_awaken.darknight_pursuiters.tooltip11": {
+    "en": "-[Shadow Step] §f After Attack S1 H",
+    "zh": "-[暗影步] §f 攻击后 S1 H",
+    "vi": null
+  },
+  "skill.epicfight_awaken.darknight_pursuiters.tooltip12": {
+    "en": "-[Shadow Step-Pursuit] §f Shadow Step GP + N",
+    "zh": "-[暗影步-追击] §f 暗影步GP + N",
+    "vi": null
+  },
+  "skill.epicfight_awaken.darknight_pursuiters.tooltip13": {
+    "en": "-[Shadow Step-Throwing Blade] §f Shadow Step GP + H",
+    "zh": "-[暗影步-暗器] §f 暗影步GP + H",
+    "vi": null
+  },
+  "skill.epicfight_awaken.darknight_pursuiters.tooltip14": {
+    "en": "-[Defensive Counter] §f D after Parry",
+    "zh": "-[防御反击] §f 招架后 D",
+    "vi": null
+  },
+  "skill.epicfight_awaken.darknight_pursuiters.tooltip15": {
+    "en": "-[Shadow Swap] §f S1 + D after Parry",
+    "zh": "-[暗影交换] §f 招架后 S1 + D",
+    "vi": null
+  },
+  "skill.epicfight_awaken.darknight_pursuiters.tooltip16": {
+    "en": "-[Grappling Hook] §f S2 + H",
+    "zh": "-[钩锁投掷] §f S2 + H",
+    "vi": null
+  },
+  "skill.epicfight_awaken.darknight_pursuiters.tooltip17": {
+    "en": "-[Ground Slash] §f Grappling Hook Slide + N/H",
+    "zh": "-[地面突进连斩] §f 钩锁滑铲 + N/H",
+    "vi": null
+  },
+  "skill.epicfight_awaken.darknight_pursuiters.tooltip18": {
+    "en": "-[Aerial Spinning Slash] §f Grappling Hook Flight + N/H",
+    "zh": "-[空中回旋连斩] §f 钩锁飞行 + N/H",
+    "vi": null
+  },
+  "skill.epicfight_awaken.wok_skill": {
+    "en": "Will Of King",
+    "zh": "王之意志",
+    "vi": null
+  },
+  "skill.epicfight_awaken.wok_skill.tooltip": {
+    "en": "",
+    "zh": "雷霆将会审判你的罪行",
+    "vi": null
+  },
+  "skill.epicfight_awaken.wok_skill.tooltip1": {
+    "en": "<Keybind>",
+    "zh": "<按键说明>",
+    "vi": null
+  },
+  "skill.epicfight_awaken.wok_skill.tooltip2-1": {
+    "en": "-<N> %s  <H> %s  <D> %s",
+    "zh": "-<N> %s  <H> %s  <D> %s",
+    "vi": null
+  },
+  "skill.epicfight_awaken.wok_skill.tooltip2-2": {
+    "en": "-<S1> %s  <S2> %s",
+    "zh": "-<S1> %s  <S2> %s",
+    "vi": null
+  },
+  "skill.epicfight_awaken.wok_skill.tooltip3": {
+    "en": "<Weapon Skills>",
+    "zh": "<武器技能>",
+    "vi": null
+  },
+  "skill.epicfight_awaken.wok_skill.tooltip4": {
+    "en": "-[Normal Attack] §f N N N N N",
+    "zh": "-[普攻] §f N N N N N",
+    "vi": null
+  },
+  "skill.epicfight_awaken.wok_skill.tooltip5": {
+    "en": "-[Heavy Attack] §f H H",
+    "zh": "-[重击] §f H H",
+    "vi": null
+  },
+  "skill.epicfight_awaken.wok_skill.tooltip6": {
+    "en": "-[Dodge Counter] §f H D",
+    "zh": "-[闪避反击] §f H D",
+    "vi": null
+  },
+  "skill.epicfight_awaken.wok_skill.tooltip7": {
+    "en": "-[Dodge Pursuit] §f Dodge Counter + H",
+    "zh": "-[闪避追击] §f 闪避反击 + H",
+    "vi": null
+  },
+  "skill.epicfight_awaken.wok_skill.tooltip8": {
+    "en": "-[Defensive Counter] §f D after Parry",
+    "zh": "-[防御反击] §f 招架后 D",
+    "vi": null
+  },
+  "skill.epicfight_awaken.wok_skill.tooltip9": {
+    "en": "-[King's Judgment] §f S2 H",
+    "zh": "-[王之审判] §f S2 H",
+    "vi": null
+  },
+  "skill.epicfight_awaken.rof_skill": {
+    "en": "Rage Of Flame",
+    "zh": "烈焰之怒",
+    "vi": null
+  },
+  "skill.epicfight_awaken.rof_skill.tooltip": {
+    "en": "",
+    "zh": "火焰将燃尽一切腐朽",
+    "vi": null
+  },
+  "skill.epicfight_awaken.rof_skill.tooltip1": {
+    "en": "<Keybind>",
+    "zh": "<按键说明>",
+    "vi": null
+  },
+  "skill.epicfight_awaken.rof_skill.tooltip2-1": {
+    "en": "-<N> %s  <H> %s  <D> %s",
+    "zh": "-<N> %s  <H> %s  <D> %s",
+    "vi": null
+  },
+  "skill.epicfight_awaken.rof_skill.tooltip2-2": {
+    "en": "-<S1> %s  <S2> %s",
+    "zh": "-<S1> %s  <S2> %s",
+    "vi": null
+  },
+  "skill.epicfight_awaken.rof_skill.tooltip3": {
+    "en": "<Weapon Skills>",
+    "zh": "<武器技能>",
+    "vi": null
+  },
+  "skill.epicfight_awaken.rof_skill.tooltip4": {
+    "en": "-[Normal Attack] §f N N N N N",
+    "zh": "-[普攻] §f N N N N N",
+    "vi": null
+  },
+  "skill.epicfight_awaken.rof_skill.tooltip5": {
+    "en": "-[Heavy Attack] §f H H",
+    "zh": "-[重击] §f H H",
+    "vi": null
+  },
+  "skill.epicfight_awaken.rof_skill.tooltip6": {
+    "en": "-[Dodge Counter] §f H D",
+    "zh": "-[闪避反击] §f H D",
+    "vi": null
+  },
+  "skill.epicfight_awaken.rof_skill.tooltip7": {
+    "en": "-[Dodge Pursuit] §f Dodge Counter + H",
+    "zh": "-[闪避追击] §f 闪避反击 + H",
+    "vi": null
+  },
+  "skill.epicfight_awaken.rof_skill.tooltip8": {
+    "en": "-[Defensive Counter] §f D after Parry",
+    "zh": "-[防御反击] §f 招架后 D",
+    "vi": null
+  },
+  "skill.epicfight_awaken.rof_skill.tooltip9": {
+    "en": "-[Flame Storm] §f S2 H",
+    "zh": "-[火焰风暴] §f S2 H",
+    "vi": null
+  },
+  "skill.epicfight_awaken.wr_skill": {
+    "en": "Sword Of Thunder and Flame",
+    "zh": "雷与火之剑",
+    "vi": null
+  },
+  "skill.epicfight_awaken.wr_skill.tooltip": {
+    "en": "",
+    "zh": "",
+    "vi": null
+  },
+  "skill.epicfight_awaken.wr_skill.tooltip1": {
+    "en": "<Keybind>",
+    "zh": "<按键说明>",
+    "vi": null
+  },
+  "skill.epicfight_awaken.wr_skill.tooltip2-1": {
+    "en": "-<N> %s  <H> %s  <D> %s",
+    "zh": "-<N> %s  <H> %s  <D> %s",
+    "vi": null
+  },
+  "skill.epicfight_awaken.wr_skill.tooltip2-2": {
+    "en": "-<S1> %s  <S2> %s",
+    "zh": "-<S1> %s  <S2> %s",
+    "vi": null
+  },
+  "skill.epicfight_awaken.wr_skill.tooltip3": {
+    "en": "<Weapon Skills>",
+    "zh": "<武器技能>",
+    "vi": null
+  },
+  "skill.epicfight_awaken.wr_skill.tooltip4": {
+    "en": "-[Normal Attack] §f N N N N",
+    "zh": "-[普攻] §f N N N N",
+    "vi": null
+  },
+  "skill.epicfight_awaken.wr_skill.tooltip5": {
+    "en": "-[Heavy Attack] §f H H",
+    "zh": "-[重击] §f H H",
+    "vi": null
+  },
+  "skill.epicfight_awaken.wr_skill.tooltip6": {
+    "en": "-[Dodge Counter] §f H D",
+    "zh": "-[闪避反击] §f H D",
+    "vi": null
+  },
+  "skill.epicfight_awaken.wr_skill.tooltip7": {
+    "en": "-[Dodge Pursuit] §f Dodge Counter + H",
+    "zh": "-[闪避追击] §f 闪避反击 + H",
+    "vi": null
+  },
+  "skill.epicfight_awaken.wr_skill.tooltip8": {
+    "en": "-[Defensive Counter] §f D after Parry",
+    "zh": "-[防御反击] §f 招架后 D",
+    "vi": null
+  },
+  "skill.epicfight_awaken.wr_skill.tooltip9": {
+    "en": "-[Inferno of Thunder and Flame] §f S2 H",
+    "zh": "-[雷与火的炼狱] §f S2 H",
+    "vi": null
+  },
+  "skill.epicfight_awaken.wr_skill.passive": {
+    "en": "<Passive>",
+    "zh": "<被动技能>",
+    "vi": null
+  },
+  "skill.epicfight_awaken.wr_skill.stamina_regen": {
+    "en": "[Battle Breath] §f Whenever you successfully use a dodge counter or defensive counter to dodge an enemy attack, you immediately recover a small amount of stamina and begin restoring stamina",
+    "zh": "[战斗呼吸] §f 每当你成功使用闪避反击或者防御反击闪避敌人攻击，立即恢复少量耐力并开始恢复耐力",
+    "vi": null
+  },
+  "skill.epicfight_awaken.wr_skill.guard_counter": {
+    "en": "[Turning The Tide] §f Each time you successfully parry an enemy's attack, your next defensive counter deals 20% more damage for 3 seconds, up to a maximum of 100%",
+    "zh": "[逆转攻势] §f 每当你成功招架敌人的攻击，3秒内使你的下一次防御反击伤害提升20%，最多提升100%",
+    "vi": null
+  },
+  "skill.epicfight_awaken.thunder_punishment": {
+    "en": "Thunder Punishment",
+    "zh": "雷霆惩戒",
+    "vi": null
+  },
+  "skill.epicfight_awaken.thunder_punishment.tooltip": {
+    "en": "Press [%s + %s] to release\n\nStrike lightning on up to 10 targets within a 16-block radius\n\nDeal [5 + 8%% of Max Health + 300%% of ATK] damage\n\nDamage is doubled if the target has less than 25%% health remaining\n\nEach enemy killed with this skill reduces its cooldown by 10 seconds",
+    "zh": "按下[%s + %s]释放\n\n对半径16格内最多10名目标释放雷击\n\n造成[5 + 最大生命值8%% + 攻击力300%%]的伤害\n\n如果目标的生命值低于25%%则伤害翻倍\n\n每使用技能击杀一名敌人，冷却时间缩短10秒",
+    "vi": null
+  },
+  "skill.epicfight_awaken.indestructible": {
+    "en": "Indestructible",
+    "zh": "坚不可摧",
+    "vi": null
+  },
+  "skill.epicfight_awaken.indestructible.tooltip": {
+    "en": "Whenever your health decreases, gain damage absorption equal to\n[2 + 5% of Max Health].\nIf health is below 50%, the effect is doubled.",
+    "zh": "每当你生命值降低时，获得\n[2 + 最大生命值5%]\n的伤害吸收量。\n如果生命值低于50%，效果翻倍",
+    "vi": null
+  },
+  "skill.epicfight_awaken.focused_strike": {
+    "en": "Focused Strike",
+    "zh": "专注剑法",
+    "vi": null
+  },
+  "skill.epicfight_awaken.focused_strike.tooltip": {
+    "en": "When an attack successfully hits an enemy, gain a stack of a buff that increases attack speed by %s%% for %s seconds, stacking up to %s times.",
+    "zh": "攻击成功命中敌人时，获得一层攻击速度提升%s%%的增益，持续%s秒，最多叠加%s层",
+    "vi": null
+  },
+  "skill.epicfight_awaken.rhythmic_endurance": {
+    "en": "Rhythmic Endurance",
+    "zh": "耐力流转",
+    "vi": null
+  },
+  "skill.epicfight_awaken.rhythmic_endurance.tooltip": {
+    "en": "Every 10 seconds, toggle between %s and %s stamina regeneration rate.",
+    "zh": "每10秒，使自身在耐力回复速度%s和%s之间切换",
+    "vi": null
+  },
+  "skill.epicfight_awaken.vulnerability_strike": {
+    "en": "Vulnerability Strike",
+    "zh": "弱点打击",
+    "vi": null
+  },
+  "skill.epicfight_awaken.vulnerability_strike.tooltip": {
+    "en": "During an enemy's attack wind-up, increase damage dealt to them by %s%% and impact by %s%%.",
+    "zh": "在敌人攻击前摇时，对其造成的伤害增加%s%%，冲击力增加%s%%",
+    "vi": null
+  },
+  "skill.epicfight_awaken.revitalize": {
+    "en": "Revitalize",
+    "zh": "重振精神",
+    "vi": null
+  },
+  "skill.epicfight_awaken.revitalize.tooltip": {
+    "en": "Upon entering any stun state, immediately begin regenerating stamina.\nIf in a broken state, gain a brief Resistance effect at level 2.",
+    "zh": "进入任意硬直状态时，立即开始回复耐力。\n如果处于破防状态，获得短暂的抗性提升2效果",
+    "vi": null
+  },
+  "skill.epicfight_awaken.unyielding_will": {
+    "en": "Unyielding Will",
+    "zh": "不屈意志",
+    "vi": null
+  },
+  "skill.epicfight_awaken.unyielding_will.tooltip": {
+    "en": "When about to take fatal damage, negate that damage, restore 40% of your health, and gain a brief Resistance effect at level 4.",
+    "zh": "即将受到致命伤害时减免当次伤害，并回复自身40%的生命值、获得短暂的抗性提升4效果",
+    "vi": null
+  }
+}

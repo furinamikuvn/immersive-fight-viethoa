@@ -1,0 +1,582 @@
+{
+  "bclib.datafixer.backupWarning.backup": {
+    "en": "Create Backup before applying Fixes",
+    "zh": "创建备份",
+    "vi": null
+  },
+  "bclib.datafixer.backupWarning.fix": {
+    "en": "Apply Fixes",
+    "zh": "应用修复",
+    "vi": null
+  },
+  "bclib.datafixer.backupWarning.message": {
+    "en": "The Guardian detected, that the internals some installed Mods did change since this world was last played.\n\nWe can automatically change the world for you. If you continue without applying the changes the world may not load correct. Before you continue, you should create a Backup.",
+    "zh": "自从上次加载这个世界以来，一些安装的MOD的内部结构确实发生了变化。\n\n我们可以自动为您更改世界。如果继续而不应用更改，则世界可能无法正确加载，在着之前，您应该创建一个备份.",
+    "vi": null
+  },
+  "bclib.datafixer.backupWarning.nofixes": {
+    "en": "Continue Without Fixes",
+    "zh": "忽略错误",
+    "vi": null
+  },
+  "bclib.datafixer.backupWarning.title": {
+    "en": "Guardian detected an incompatible World",
+    "zh": "发现了一个不兼容的世界",
+    "vi": null
+  },
+  "bclib.updates.curseforge_link": {
+    "en": "[CurseForge]",
+    "zh": "[CurseForge]",
+    "vi": null
+  },
+  "bclib.updates.description": {
+    "en": "Some of the installed mods are outdated. We continually improve and extend our content as well as provide important bug-fixes.\nPlease consider updating your mods using the provided links below.",
+    "zh": "一些已安装的模组已过时。 我们不断改进和扩展我们的内容，并提供重要的错误修复。\n请考虑使用下面提供的链接更新您的模组。",
+    "vi": null
+  },
+  "bclib.updates.disable_check": {
+    "en": "Disable Check",
+    "zh": "关闭更新检查",
+    "vi": null
+  },
+  "bclib.updates.donate": {
+    "en": "Donate",
+    "zh": "捐赠",
+    "vi": null
+  },
+  "bclib.updates.donate_pre": {
+    "en": "Like our Content?\nPlease consider a small Donation :)",
+    "zh": "喜欢我们的模组吗？\n考虑考虑捐点小钱呗 :)",
+    "vi": null
+  },
+  "bclib.updates.download_link": {
+    "en": "Download",
+    "zh": null,
+    "vi": null
+  },
+  "bclib.updates.modrinth_link": {
+    "en": "[Modrinth]",
+    "zh": null,
+    "vi": null
+  },
+  "bclib.updates.title": {
+    "en": "Mod Updates",
+    "zh": "模组更新",
+    "vi": null
+  },
+  "bclib.welcome.description": {
+    "en": "... and a huge hearty **thank you** for downloading and playing our mods. We hope you enjoy them as much as we do.\n\nBefore we start, there are a few things we need to set up, so please continue reading the following boring part.",
+    "zh": "...非常衷心地**感谢您**下载并游玩我们的模组。我们希望您和我们一样喜欢它们。\n\n在开始之前，我们需要设置一些东西，所以请继续阅读下面无聊的部分。",
+    "vi": null
+  },
+  "bclib.welcome.donation": {
+    "en": "If you enjoy our Mods as much as we hope you do, please consider a small Donation :)",
+    "zh": "如果您像我们希望的那样喜欢我们的模组，考虑捐点小钱呗 :)",
+    "vi": null
+  },
+  "bclib.welcome.title": {
+    "en": "Welcome to ",
+    "zh": "欢迎来到",
+    "vi": null
+  },
+  "description.config.bclib.client.ui.forceBetterXPreset": {
+    "en": "The world type determines how a world is generated. In most cases, BetterX should be kept as the default (you can change the type at any time in the world creation screen). This type is optimized for maximum compatibility between DataPacks, our mod, and other Fabric mods. It also provides some unique features for BetterNether and BetterEnd. You should only disable this option if you have a reason to do so!",
+    "zh": "世界类型决定了世界的生成方式。在大多数情况下，BetterX应该保持为默认值（您可以在世界创建屏幕中随时更改类型）。此类型针对数据包、我们的模组和其他Fabric模组之间进行了兼容性方面的最大优化。它还为更好的下界和更好的末地提供了一些独特的功能。如果您有理由这样做，您应该只禁用此选项！",
+    "vi": null
+  },
+  "description.config.bclib.client.ui.suppressExperimentalDialogOnLoad": {
+    "en": "The warning screen appears whenever your world does not use the vanilla version settings. This can happen when you start a world in a preview version, but also when you use mods to change the world creation. If this option is enabled, the warning will be skipped when you load an existing world. It will still be displayed (as a reminder) when a new world is created.",
+    "zh": "只要您的世界不使用原版设置，就会出现此警告屏幕。这也可能在当您在预览版中启动世界或使用模组更改世界创建的方式时发生。如果启用此选项，则在加载现有世界时将跳过此警告。创建新世界时，它仍会（作为提醒）显示。",
+    "vi": null
+  },
+  "description.config.bclib.client.version.check": {
+    "en": "BCLib includes a simple version checker that can notify you when new updates of our mods are available. To do this, we need to read a resource from one of our web servers. To process the request, together with your IP address (we need to know where to send the response) we also send your Minecraft version (so we can choose the right mod version). The transmitted data will never be used or processed by us for other purposes, but must be stored in our log files for 4 weeks for legal reasons.",
+    "zh": "BCLib包含一个简易的版本更新检测器，它可以在我们的模组有新的更新时通知您。为此，我们需要从我们的其中一个Web服务器中读取资源。为了处理这样的请求，您的IP地址（我们需要知道把响应发送到哪里）和Minecraft版本（以便我们可以选择正确的Mod版本）会发送到我们的服务器上。我们绝不会出于其他目的使用或处理传输的数据，但出于法律原因，这些数据必须在我们的日志文件中存储4周。",
+    "vi": null
+  },
+  "emi.category.bclib.alloying": {
+    "en": "Alloying",
+    "zh": "合金化",
+    "vi": null
+  },
+  "emi.category.bclib.anvil_0": {
+    "en": "Anvil (Level 0)",
+    "zh": "铁砧（等级 0 ）",
+    "vi": null
+  },
+  "emi.category.bclib.anvil_1": {
+    "en": "Anvil (Level I)",
+    "zh": "铁砧（等级 I ）",
+    "vi": null
+  },
+  "emi.category.bclib.anvil_2": {
+    "en": "Anvil (Level II)",
+    "zh": "铁砧（等级 II ）",
+    "vi": null
+  },
+  "emi.category.bclib.anvil_3": {
+    "en": "Anvil (Level III)",
+    "zh": "铁砧（等级 III ）",
+    "vi": null
+  },
+  "emi.category.bclib.anvil_4": {
+    "en": "Anvil (Level IV)",
+    "zh": "铁砧（等级 IV ）",
+    "vi": null
+  },
+  "emi.category.bclib.anvil_5": {
+    "en": "Anvil (Level V)",
+    "zh": "铁砧（等级 V ）",
+    "vi": null
+  },
+  "generator.bclib.amplified": {
+    "en": "Ampl. & BetterX",
+    "zh": null,
+    "vi": null
+  },
+  "generator.bclib.large": {
+    "en": "Large & BetterX",
+    "zh": null,
+    "vi": null
+  },
+  "generator.bclib.normal": {
+    "en": "BetterX",
+    "zh": "BetterX",
+    "vi": null
+  },
+  "message.bclib.anvil_damage": {
+    "en": "§cDamage",
+    "zh": "§c损坏",
+    "vi": null
+  },
+  "message.bclib.bclibmissmatch": {
+    "en": "The Version of BCLib on the server and this client do not match. This will cause problems when playing.\n\nDo you want to automatically download the BCLib-Version from the server? \n\nBCLib will move the old version into a subdirectory of your Mods-Folder and before installing the new one.",
+    "zh": "服务器上的BCLib版本与此客户端不匹配。这将导致非常严重的问题。\n\n是否要从服务器自动下载BCLib版本？\n\nBCLib将在安装新版本之前，将旧版本移动到Mods文件夹的子目录中.",
+    "vi": null
+  },
+  "message.bclib.confirmrestart": {
+    "en": "The requested content was synchronized. You need to restart Minecraft now.",
+    "zh": "请求的内容已同步。你现在需要重新启动Minecraft.",
+    "vi": null
+  },
+  "message.bclib.datafixer.error": {
+    "en": "There were errors while repairing the world. This means that this level is probably in an inconsistent state and you should not play it. Please restore your backup and fix the errors below before trying again.",
+    "zh": "修复世界时出现了错误，请还原备份并修复以下错误，然后重试",
+    "vi": null
+  },
+  "message.bclib.datafixer.progress": {
+    "en": "Applying all Patches to your World.",
+    "zh": "将所有修复补丁应用于您的世界",
+    "vi": null
+  },
+  "message.bclib.datafixer.progress.level": {
+    "en": "Applying Patches to level.dat",
+    "zh": "将修复补丁应用于level.dat",
+    "vi": null
+  },
+  "message.bclib.datafixer.progress.players": {
+    "en": "Fixing Players",
+    "zh": "固定玩家",
+    "vi": null
+  },
+  "message.bclib.datafixer.progress.reading": {
+    "en": "Reading Data",
+    "zh": "读取数据",
+    "vi": null
+  },
+  "message.bclib.datafixer.progress.regions": {
+    "en": "Repairing all Regions",
+    "zh": "修复所有区域",
+    "vi": null
+  },
+  "message.bclib.datafixer.progress.saving": {
+    "en": "Saving Patch State",
+    "zh": "保存补丁状态",
+    "vi": null
+  },
+  "message.bclib.datafixer.progress.waitbackup": {
+    "en": "Waiting for Backup to finish. This may take a while!",
+    "zh": "正在等待备份完成。这可能需要一段时间!",
+    "vi": null
+  },
+  "message.bclib.datafixer.progress.worlddata": {
+    "en": "Patching Custom World-Data",
+    "zh": "修补自定义世界数据",
+    "vi": null
+  },
+  "message.bclib.filesync.progress": {
+    "en": "Syncing File-Content with Server",
+    "zh": "正在将文件内容与服务器同步",
+    "vi": null
+  },
+  "message.bclib.filesync.progress.stage.empty": {
+    "en": "",
+    "zh": "",
+    "vi": null
+  },
+  "message.bclib.modmissmatch": {
+    "en": "Some Mods on this client do not match the version of Mods on the Server.\n\nMismatching Mods can result in odd game behavior or crashes. Please make sue that you use the same mods as the server.",
+    "zh": "此客户端上的某些MOD与服务器上的MOD版本不匹配。\n可能导致奇怪的游戏行为或崩溃。请确保您使用与服务器相同的mod版本",
+    "vi": null
+  },
+  "message.bclib.syncfiles": {
+    "en": "Some Content on the Server does not match the versions on the client.\nDo you want to replace the selected content with the data from the server?",
+    "zh": "服务器上的某些内容与客户端上的版本不匹配。\n是否要用服务器上的数据替换所选内容?",
+    "vi": null
+  },
+  "message.bclib.syncfiles.configs": {
+    "en": "Synchronize Configs",
+    "zh": "同步配置",
+    "vi": null
+  },
+  "message.bclib.syncfiles.delete": {
+    "en": "Delete unneeded",
+    "zh": "删除不需要的文件",
+    "vi": null
+  },
+  "message.bclib.syncfiles.folders": {
+    "en": "Synchronize Folders and Files",
+    "zh": "同步文件夹和文件",
+    "vi": null
+  },
+  "message.bclib.syncfiles.modlist": {
+    "en": "The following shows the state of your installed Mods.\n\nAll Mods that do not exist locally, or have a different version on the Server will be synchronized.",
+    "zh": "以下显示已安装的MOD的状态 \n\n将同步本地不存在或服务器上版本不同的所有MOD",
+    "vi": null
+  },
+  "message.bclib.syncfiles.mods": {
+    "en": "Synchronize Mods",
+    "zh": "同步Mods",
+    "vi": null
+  },
+  "tag.c.barrel": {
+    "en": "Barrels",
+    "zh": "桶",
+    "vi": null
+  },
+  "tag.c.furnaces": {
+    "en": "Furnaces",
+    "zh": "熔炉",
+    "vi": null
+  },
+  "tag.c.hammers": {
+    "en": "Hammers",
+    "zh": "锤子",
+    "vi": null
+  },
+  "tag.c.leaves": {
+    "en": "Leaves",
+    "zh": "树叶",
+    "vi": null
+  },
+  "tag.c.saplings": {
+    "en": "Saplings",
+    "zh": "树苗",
+    "vi": null
+  },
+  "tag.c.soul_ground": {
+    "en": "Soul Ground",
+    "zh": "灵魂之地",
+    "vi": null
+  },
+  "tag.c.wooden_barrels": {
+    "en": "Wooden Barrels",
+    "zh": "木桶",
+    "vi": null
+  },
+  "tag.c.workbench": {
+    "en": "Crafting Tables",
+    "zh": "工作台",
+    "vi": null
+  },
+  "title.bclib.bclibmissmatch": {
+    "en": "Version Mismatch",
+    "zh": "版本不匹配",
+    "vi": null
+  },
+  "title.bclib.confirmrestart": {
+    "en": "Restart Required",
+    "zh": "需要重新启动",
+    "vi": null
+  },
+  "title.bclib.datafixer.error": {
+    "en": "Errors while fixing World",
+    "zh": "修复世界时的错误",
+    "vi": null
+  },
+  "title.bclib.datafixer.error.continue": {
+    "en": "Proceed and mark as fixed",
+    "zh": "继续并标记为已修复",
+    "vi": null
+  },
+  "title.bclib.datafixer.progress": {
+    "en": "Fixing World",
+    "zh": "修复世界",
+    "vi": null
+  },
+  "title.bclib.filesync.progress": {
+    "en": "File Transfer",
+    "zh": "文件传输",
+    "vi": null
+  },
+  "title.bclib.modmenu.main": {
+    "en": "BCLib Settings",
+    "zh": "BCLib设置",
+    "vi": null
+  },
+  "title.bclib.modmissmatch": {
+    "en": "Mod Version Conflict",
+    "zh": "Mod版本冲突",
+    "vi": null
+  },
+  "title.bclib.progress": {
+    "en": "Progress",
+    "zh": "改进",
+    "vi": null
+  },
+  "title.bclib.syncfiles": {
+    "en": "Mismatching Data",
+    "zh": "不匹配数据",
+    "vi": null
+  },
+  "title.bclib.syncfiles.modInfo": {
+    "en": "Mod Info",
+    "zh": "模组信息",
+    "vi": null
+  },
+  "title.bclib.syncfiles.modlist": {
+    "en": "Mod Information",
+    "zh": "模组列表",
+    "vi": null
+  },
+  "title.bclib.the_end": {
+    "en": "The End",
+    "zh": "末地",
+    "vi": null
+  },
+  "title.bclib.the_nether": {
+    "en": "The Nether",
+    "zh": "下界",
+    "vi": null
+  },
+  "title.config.bclib.client.auto_sync.acceptConfigs": {
+    "en": "Accept incoming Config Files",
+    "zh": "接受下载的配置文件",
+    "vi": null
+  },
+  "title.config.bclib.client.auto_sync.acceptFiles": {
+    "en": "Accept incoming Files",
+    "zh": "接受下载的文件",
+    "vi": null
+  },
+  "title.config.bclib.client.auto_sync.acceptMods": {
+    "en": "Accept incoming Mods",
+    "zh": "接受下载的MOD",
+    "vi": null
+  },
+  "title.config.bclib.client.auto_sync.debugHashes": {
+    "en": "Print Auto-Sync Debug-Hashes to Log",
+    "zh": "将自动同步调试哈希打印到日志",
+    "vi": null
+  },
+  "title.config.bclib.client.auto_sync.displayModInfo": {
+    "en": "Display warning when Serverside Mods differ from Client",
+    "zh": "当服务器端MOD与客户端不同时显示警告",
+    "vi": null
+  },
+  "title.config.bclib.client.auto_sync.enabled": {
+    "en": "Enable Auto-Sync",
+    "zh": "启用自动同步",
+    "vi": null
+  },
+  "title.config.bclib.client.infos.survives_on_hint": {
+    "en": "Show 'Survives On' hint as Tooltip",
+    "zh": null,
+    "vi": null
+  },
+  "title.config.bclib.client.rendering.FogDensity": {
+    "en": "Fog Density",
+    "zh": "雾密度",
+    "vi": null
+  },
+  "title.config.bclib.client.rendering.customFogRendering": {
+    "en": "Custom Fog Rendering",
+    "zh": "自定义雾渲染",
+    "vi": null
+  },
+  "title.config.bclib.client.rendering.netherThickFog": {
+    "en": "Nether Thick Fog",
+    "zh": "下界浓雾",
+    "vi": null
+  },
+  "title.config.bclib.client.ui.forceBetterXPreset": {
+    "en": "Use BetterX as Default World-Type",
+    "zh": "使用BetterX作为默认世界类型",
+    "vi": null
+  },
+  "title.config.bclib.client.ui.preferModrinthForUpdates": {
+    "en": "Prefere Modrinth for Updates",
+    "zh": null,
+    "vi": null
+  },
+  "title.config.bclib.client.ui.showUpdateInfo": {
+    "en": "Allow Update Reminder Screen",
+    "zh": "允许出现更新提醒屏幕",
+    "vi": null
+  },
+  "title.config.bclib.client.ui.suppressExperimentalDialogOnLoad": {
+    "en": "Disable Experimental Warning Screen on Load",
+    "zh": "禁用加载时的实验警告",
+    "vi": null
+  },
+  "title.config.bclib.client.version.check": {
+    "en": "Enable Version Check",
+    "zh": "启用版本检测",
+    "vi": null
+  },
+  "title.config.bclib.generator.options.useOldBiomeGenerator": {
+    "en": "Use legacy 1.17 Biome Generator",
+    "zh": "使用旧版1.17生物群落生成器",
+    "vi": null
+  },
+  "title.config.bclib.main.infos.verbose": {
+    "en": "Verbose Logging",
+    "zh": null,
+    "vi": null
+  },
+  "title.config.bclib.main.patches.applyPatches": {
+    "en": "Automatically apply patches when loading level",
+    "zh": "加载时自动应用修复补丁",
+    "vi": null
+  },
+  "title.config.bclib.main.patches.repairBiomesOnLoad": {
+    "en": "Fix Biomesource on level load",
+    "zh": "将生物群系固定在水平荷载上",
+    "vi": null
+  },
+  "title.link.bclib.discord": {
+    "en": "Discord",
+    "zh": "Discord",
+    "vi": null
+  },
+  "title.screen.bclib.worldgen.avg_biome_size": {
+    "en": "Average Biome Size (in Chunks)",
+    "zh": "平均生物群系大小（以区块为单位）",
+    "vi": null
+  },
+  "title.screen.bclib.worldgen.barrens_biome_size": {
+    "en": "Barrens",
+    "zh": "末地荒地",
+    "vi": null
+  },
+  "title.screen.bclib.worldgen.center_biome_size": {
+    "en": "Central Biomes",
+    "zh": "末地主岛生物群系",
+    "vi": null
+  },
+  "title.screen.bclib.worldgen.central_radius": {
+    "en": "Central Void Radius (in Chunks)",
+    "zh": "末地主岛虚空半径（以区块为单位）",
+    "vi": null
+  },
+  "title.screen.bclib.worldgen.custom_end_biome_source": {
+    "en": "Use Custom End Biome Source",
+    "zh": null,
+    "vi": null
+  },
+  "title.screen.bclib.worldgen.custom_end_terrain": {
+    "en": "Custom End Terrain Generator",
+    "zh": "自定义末地地形生成器",
+    "vi": null
+  },
+  "title.screen.bclib.worldgen.custom_nether_biome_source": {
+    "en": "Use Custom Nether Biome Source",
+    "zh": null,
+    "vi": null
+  },
+  "title.screen.bclib.worldgen.end_void": {
+    "en": "Generate Small Islands",
+    "zh": "生成末地小型岛屿",
+    "vi": null
+  },
+  "title.screen.bclib.worldgen.land_biome_size": {
+    "en": "Land Biomes",
+    "zh": "末地生物群系",
+    "vi": null
+  },
+  "title.screen.bclib.worldgen.legacy_square": {
+    "en": "Use Legacy Map (1.17)",
+    "zh": "使用传统地图（1.17）",
+    "vi": null
+  },
+  "title.screen.bclib.worldgen.main": {
+    "en": "World Generator Settings",
+    "zh": "世界生成器设置",
+    "vi": null
+  },
+  "title.screen.bclib.worldgen.nether_amplified": {
+    "en": "Double the Nether Height (Amplified)",
+    "zh": null,
+    "vi": null
+  },
+  "title.screen.bclib.worldgen.nether_biome_size": {
+    "en": "Biome Size",
+    "zh": null,
+    "vi": null
+  },
+  "title.screen.bclib.worldgen.nether_vertical": {
+    "en": "Generate vertical Biomes",
+    "zh": null,
+    "vi": null
+  },
+  "title.screen.bclib.worldgen.nether_vertical_biome_size": {
+    "en": "Biome Height",
+    "zh": null,
+    "vi": null
+  },
+  "title.screen.bclib.worldgen.other": {
+    "en": "Other Settings",
+    "zh": "其他设置",
+    "vi": null
+  },
+  "title.screen.bclib.worldgen.void_biome_size": {
+    "en": "Small Island Biomes",
+    "zh": "末地小型岛屿生物群系",
+    "vi": null
+  },
+  "tooltip.bclib.place_on": {
+    "en": "Survives on: %s",
+    "zh": "在 %s 上存活",
+    "vi": null
+  },
+  "tooltip.bclib.place_underwater_on": {
+    "en": "Survives under water on: %s",
+    "zh": null,
+    "vi": null
+  },
+  "tooltip.bclib.place_underwater": {
+    "en": "Survives under water",
+    "zh": null,
+    "vi": null
+  },
+  "tooltip.bclib.place_underwater_depth": {
+    "en": "min. depth: %d",
+    "zh": null,
+    "vi": null
+  },
+  "tooltip.bclib.pottable_on": {
+    "en": "Pottable on: %s",
+    "zh": null,
+    "vi": null
+  },
+  "warning.config.bclib.client.ui.forceBetterXPreset": {
+    "en": "MOST LIKELY YOU WILL WANT TO KEEP THIS OPTION ENABLED.\n",
+    "zh": "您很可能希望启用此选项。\n",
+    "vi": null
+  },
+  "title.screen.bclib.worldgen.custom_biome_source": {
+    "en": null,
+    "zh": "使用自定义生物群系",
+    "vi": null
+  }
+}

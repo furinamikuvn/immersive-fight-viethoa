@@ -1,0 +1,177 @@
+{
+  "block.philipsruins.red_sand_stone_brick": {
+    "en": "Red Sandstone Brick",
+    "zh": "红沙石砖块",
+    "vi": "Red Sandstone Brick"
+  },
+  "block.philipsruins.sand_stone_brick": {
+    "en": "Sandstone Brick",
+    "zh": "沙石砖块",
+    "vi": "Sandstone Brick"
+  },
+  "block.philipsruins.red_sand_stone_tiles": {
+    "en": "Red Sandstone Tiles",
+    "zh": "红沙石瓦片",
+    "vi": "Red Sandstone Tiles"
+  },
+  "block.philipsruins.obsidian_brick": {
+    "en": "Obsidian Brick",
+    "zh": "黑曜石砖块",
+    "vi": "Obsidian Brick"
+  },
+  "block.philipsruins.soul_sand_bricks": {
+    "en": "Soul Sand Brick",
+    "zh": "灵魂沙砖块",
+    "vi": "Soul Sand Brick"
+  },
+  "block.philipsruins.sandstone_tiles": {
+    "en": "Sandstone Tiles",
+    "zh": "沙石瓦片",
+    "vi": "Sandstone Tiles"
+  },
+  "block.philipsruins.dark_brick": {
+    "en": "Grim Stone Brick",
+    "zh": "阴森石砖块",
+    "vi": "Grim Stone Brick"
+  },
+  "block.philipsruins.mossy_dark_brick": {
+    "en": "Mossy Grim Stone Brick",
+    "zh": "苔藓阴森石砖块",
+    "vi": "Mossy Grim Stone Brick"
+  },
+  "block.philipsruins.bone_bricks": {
+    "en": "Bone Bricks",
+    "zh": "骨砖块",
+    "vi": "Bone Bricks"
+  },
+  "block.philipsruins.bone_bricks_slab": {
+    "en": "Bone Bricks Slab",
+    "zh": "骨砖块台阶",
+    "vi": "Bone Bricks Slab"
+  },
+  "block.philipsruins.bone_chunk_block": {
+    "en": "Bone Chunk Block",
+    "zh": "骨块砖块",
+    "vi": "Bone Chunk Block"
+  },
+  "block.philipsruins.chiseled_bone_bricks": {
+    "en": "Chiseled Bone Bricks",
+    "zh": "雕刻骨砖块",
+    "vi": "Chiseled Bone Bricks"
+  },
+  "block.philipsruins.cracked_bone": {
+    "en": "Cracked Bone",
+    "zh": "裂纹骨块",
+    "vi": "Cracked Bone"
+  },
+  "block.philipsruins.fractured_bone_bricks": {
+    "en": "Fractured Bone Bricks",
+    "zh": "破碎骨砖块",
+    "vi": "Fractured Bone Bricks"
+  },
+  "block.philipsruins.bone_bricks_stairs": {
+    "en": "Bone Bricks Stairs",
+    "zh": "骨砖块楼梯",
+    "vi": "Bone Bricks Stairs"
+  },
+  "block.philipsruins.bone_bricks_wall": {
+    "en": "Bone Bricks Walls",
+    "zh": "骨砖块墙",
+    "vi": "Bone Bricks Walls"
+  },
+  "block.philipsruins.sculk_bone_block": {
+    "en": "Sculk Bone Block",
+    "zh": "骨鳞方块",
+    "vi": "Sculk Bone Block"
+  },
+  "block.philipsruins.sculk_bone_bricks": {
+    "en": "Sculk Bone Bricks",
+    "zh": "骨鳞砖块",
+    "vi": "Sculk Bone Bricks"
+  },
+  "block.philipsruins.sculk_bone_bricks_slab": {
+    "en": "Sculk Bone Bricks Slabs",
+    "zh": "骨鳞砖块台阶",
+    "vi": "Sculk Bone Bricks Slabs"
+  },
+  "block.philipsruins.sculk_bone_bricks_stairs": {
+    "en": "Sculk Bone Bricks Stairs",
+    "zh": "骨鳞砖块楼梯",
+    "vi": "Sculk Bone Bricks Stairs"
+  },
+  "block.philipsruins.infested_sculk_bone_bricks": {
+    "en": "Infested Sculk Bone Bricks",
+    "zh": "感染的骨鳞砖块",
+    "vi": "Infested Sculk Bone Bricks"
+  },
+  "block.philipsruins.frozen_dark_prismarine": {
+    "en": "Frozen Dark Prismarine",
+    "zh": "冰冻暗海晶石",
+    "vi": "Frozen Dark Prismarine"
+  },
+  "block.philipsruins.frozen_prismarine_bricks": {
+    "en": "Frozen Prismarine Bricks",
+    "zh": "冰冻海晶石砖块",
+    "vi": "Frozen Prismarine Bricks"
+  },
+  "block.philipsruins.frozen_sea_lantern": {
+    "en": "Frozen Sea Lantern",
+    "zh": "冰冻海晶灯",
+    "vi": "Frozen Sea Lantern"
+  },
+  "block.philipsruins.frozen_prismarine": {
+    "en": "Frozen Prismarine",
+    "zh": "冰冻海晶石",
+    "vi": "Frozen Prismarine"
+  },
+  "block.philipsruins.obsidian_brick_stairs": {
+    "en": "Obsidian Bricks Stairs",
+    "zh": "黑曜石砖块楼梯",
+    "vi": "Obsidian Bricks Stairs"
+  },
+  "block.philipsruins.obsidian_brick_slab": {
+    "en": "Obsidian Brick Slab",
+    "zh": "黑曜石砖块台阶",
+    "vi": "Obsidian Brick Slab"
+  },
+  "block.philipsruins.obsidian_brick_wall": {
+    "en": "Obsidian Brick Wall",
+    "zh": "黑曜石砖块墙",
+    "vi": "Obsidian Brick Wall"
+  },
+  "item.philipsruins.bone_chunk": {
+    "en": "Bone Chunk",
+    "zh": "骨块",
+    "vi": "Bone Chunk"
+  },
+  "item.philipsruins.broken_bone": {
+    "en": "Broken Bone",
+    "zh": "断骨",
+    "vi": "Broken Bone"
+  },
+  "item.philipsruins.sculk_bone": {
+    "en": "Sculk Bone",
+    "zh": "骨鳞",
+    "vi": "Sculk Bone"
+  },
+  "item.philipsruins.sculk_bone_meal": {
+    "en": "Sculk Bone Meal",
+    "zh": "骨鳞粉",
+    "vi": "Sculk Bone Meal"
+  },
+  "item.philipsruins.frozen_prismarine_shard": {
+    "en": "Frozen Prismarine Shard",
+    "zh": "冰冻海晶石碎片",
+    "vi": "Frozen Prismarine Shard"
+  },
+  "item.philipsruins.frozen_prismarine_crystals": {
+    "en": "Frozen Prismarine Crystals",
+    "zh": "冰冻海晶石晶体",
+    "vi": "Frozen Prismarine Crystals"
+  },
+  "tabs.philipsruins.philipsruins": {
+    "en": "Philip's Ruins",
+    "zh": "philip的遗迹",
+    "vi": "hài cốt của philip"
+  }
+}

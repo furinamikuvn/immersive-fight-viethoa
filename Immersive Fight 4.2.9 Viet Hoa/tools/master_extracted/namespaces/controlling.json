@@ -1,0 +1,62 @@
+{
+  "options.showAll": {
+    "en": "Show All",
+    "zh": "显示所有键位",
+    "vi": null
+  },
+  "options.showConflicts": {
+    "en": "Show Conflicts",
+    "zh": "显示冲突键位",
+    "vi": null
+  },
+  "options.showNone": {
+    "en": "Show Unbound",
+    "zh": "显示未绑定键位",
+    "vi": null
+  },
+  "options.availableKeys": {
+    "en": "Available Keys",
+    "zh": "可用的快捷键",
+    "vi": null
+  },
+  "options.sort": {
+    "en": "Sort",
+    "zh": "排序",
+    "vi": null
+  },
+  "options.category": {
+    "en": "Category",
+    "zh": "分类",
+    "vi": null
+  },
+  "options.key": {
+    "en": "Key",
+    "zh": "键位",
+    "vi": null
+  },
+  "options.sortNone": {
+    "en": "None",
+    "zh": "无",
+    "vi": null
+  },
+  "options.sortAZ": {
+    "en": "A->Z",
+    "zh": "A->Z",
+    "vi": null
+  },
+  "options.sortZA": {
+    "en": "Z->A",
+    "zh": "Z->A",
+    "vi": null
+  },
+  "options.toggleFree": {
+    "en": "Toggle Free",
+    "zh": "自由切换",
+    "vi": null
+  },
+  "options.confirmReset": {
+    "en": "Confirm?",
+    "zh": "确定？",
+    "vi": null
+  }
+}

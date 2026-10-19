@@ -1,0 +1,52 @@
+{
+  "obsidianui.reset": {
+    "en": "Reset",
+    "zh": "重置",
+    "vi": null
+  },
+  "obsidianui.gui.unbind": {
+    "en": "Unbind",
+    "zh": "未绑定",
+    "vi": null
+  },
+  "obsidianui.narrator.separator": {
+    "en": "%s separator",
+    "zh": "%s 分割线",
+    "vi": null
+  },
+  "obsidianui.narration.toggle_switch": {
+    "en": "Toggle Switch: %s, with state %s",
+    "zh": null,
+    "vi": null
+  },
+  "obsidianui.options.generic": {
+    "en": "%s: %s",
+    "zh": "%s: %s",
+    "vi": null
+  },
+  "obsidianui.options.generic.fancy": {
+    "en": "Fancy",
+    "zh": "华丽",
+    "vi": null
+  },
+  "obsidianui.options.generic.fast": {
+    "en": "Fast",
+    "zh": "快速",
+    "vi": null
+  },
+  "obsidianui.options.generic.fastest": {
+    "en": "Fastest",
+    "zh": "最快",
+    "vi": null
+  },
+  "obsidianui.options.generic.simple": {
+    "en": "Simple",
+    "zh": "简约",
+    "vi": null
+  },
+  "obsidianui.widget.separator": {
+    "en": "Separator",
+    "zh": "分割线",
+    "vi": null
+  }
+}

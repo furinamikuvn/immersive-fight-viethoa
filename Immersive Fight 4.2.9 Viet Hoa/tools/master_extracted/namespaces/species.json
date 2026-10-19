@@ -1,0 +1,1017 @@
+{
+  "itemGroup.species.species": {
+    "en": "Species",
+    "zh": "Species",
+    "vi": "Species"
+  },
+  "item.species.logo": {
+    "en": "Species",
+    "zh": "Species",
+    "vi": "Species"
+  },
+  "species.developer.made_by": {
+    "en": "Made by:",
+    "zh": "由以下人员制作：",
+    "vi": "Được thực hiện bởi:"
+  },
+  "key.categories.species": {
+    "en": "Species",
+    "zh": "物种",
+    "vi": "Giống loài"
+  },
+  "key.extend": {
+    "en": "Springling Extend",
+    "zh": "弹簧伸展",
+    "vi": "mùa xuân căng"
+  },
+  "key.retract": {
+    "en": "Springling Retract",
+    "zh": "弹簧收回",
+    "vi": "Mùa xuân rút lại"
+  },
+  "entity.species.wraptor": {
+    "en": "Wraptor",
+    "zh": "缠尾鸟",
+    "vi": "Wraptor"
+  },
+  "block.species.wraptor_egg": {
+    "en": "Wraptor Egg",
+    "zh": "缠尾鸟蛋",
+    "vi": "Wraptor Egg"
+  },
+  "block.species.cracked_wraptor_egg": {
+    "en": "Cracked Wraptor Egg",
+    "zh": "裂纹缠尾鸟蛋",
+    "vi": "Cracked Wraptor Egg"
+  },
+  "item.species.cracked_wraptor_egg": {
+    "en": "Cracked Wraptor Egg",
+    "zh": "裂纹缠尾鸟蛋",
+    "vi": "Cracked Wraptor Egg"
+  },
+  "item.species.wraptor_spawn_egg": {
+    "en": "Wraptor Spawn Egg",
+    "zh": "缠尾鸟生成蛋",
+    "vi": "Wraptor Spawn Egg"
+  },
+  "effect.species.wither_resistance": {
+    "en": "Wither Resistance",
+    "zh": "凋零抗性",
+    "vi": "kháng héo"
+  },
+  "subtitles.entity.species.wraptor.aggro": {
+    "en": "Wraptor crows",
+    "zh": "缠尾鸟咆哮",
+    "vi": "tiếng gầm gầm"
+  },
+  "subtitles.entity.species.wraptor.agitated": {
+    "en": "Wraptor bawks",
+    "zh": "缠尾鸟鸣叫",
+    "vi": "Tiếng kêu của một con chó đuôi chó"
+  },
+  "subtitles.entity.species.wraptor.attack": {
+    "en": "Wraptor pecks",
+    "zh": "缠尾鸟啄击",
+    "vi": "Mổ đuôi chó"
+  },
+  "subtitles.entity.species.wraptor.death": {
+    "en": "Wraptor dies",
+    "zh": "缠尾鸟死亡",
+    "vi": "cái chết của chim đuôi"
+  },
+  "subtitles.entity.species.wraptor.hurt": {
+    "en": "Wraptor hurts",
+    "zh": "缠尾鸟受伤",
+    "vi": "Chim đuôi bị thương"
+  },
+  "subtitles.entity.species.wraptor.idle": {
+    "en": "Wraptor clucks",
+    "zh": "缠尾鸟咯咯叫",
+    "vi": "Tiếng cười khúc khích"
+  },
+  "subtitles.entity.species.wraptor.shear": {
+    "en": "Shears cut",
+    "zh": "剪刀剪切",
+    "vi": "kéo cắt"
+  },
+  "subtitles.entity.species.wraptor.step": {
+    "en": "Wraptor steps",
+    "zh": "缠尾鸟迈步",
+    "vi": "Bước chân chim"
+  },
+  "subtitles.entity.species.wraptor.feather_loss": {
+    "en": "Wraptor looses feathers",
+    "zh": "缠尾鸟掉毛",
+    "vi": "Con chim đuôi bị mất lông"
+  },
+  "subtitles.entity.species.wraptor.egg": {
+    "en": "Wraptor lays an egg",
+    "zh": "缠尾鸟产卵",
+    "vi": "Đuôi chó đẻ trứng"
+  },
+  "subtitles.block.species.wraptor_egg.crack": {
+    "en": "Wraptor egg cracks",
+    "zh": "缠尾鸟蛋破裂",
+    "vi": "Trứng đuôi chó bị nứt"
+  },
+  "subtitles.block.species.wraptor_egg.hatch": {
+    "en": "Wraptor egg hatches",
+    "zh": "缠尾鸟蛋孵化",
+    "vi": "Trứng đuôi chó nở"
+  },
+  "subtitles.item.species.cracked_wraptor_egg.slurp": {
+    "en": "Slurping",
+    "zh": "吮吸声",
+    "vi": "âm thanh hút"
+  },
+  "advancements.species.shear_wraptor_completely.title": {
+    "en": "Clever Girl",
+    "zh": "聪明的女孩",
+    "vi": "cô gái thông minh"
+  },
+  "advancements.species.shear_wraptor_completely.description": {
+    "en": "Shear a Wraptor completely and face the consequences",
+    "zh": "完全剪光缠尾鸟的毛并面对后果",
+    "vi": "Cắt đuôi hoàn toàn và đối mặt với hậu quả"
+  },
+  "advancements.species.hatch_wraptor.title": {
+    "en": "Tough Love",
+    "zh": "严厉的爱",
+    "vi": "tình yêu khó khăn"
+  },
+  "advancements.species.hatch_wraptor.description": {
+    "en": "Hatch a Wraptor Egg using an Anvil",
+    "zh": "使用铁砧孵化缠尾鸟蛋",
+    "vi": "Dùng đe để ấp trứng đuôi đôi"
+  },
+  "entity.species.deepfish": {
+    "en": "Deepfish",
+    "zh": "深海鱼",
+    "vi": "Deepfish"
+  },
+  "item.species.deepfish_spawn_egg": {
+    "en": "Deepfish Spawn Egg",
+    "zh": "深海鱼生成蛋",
+    "vi": "Deepfish Spawn Egg"
+  },
+  "item.species.deepfish_bucket": {
+    "en": "Bucket of Deepfish",
+    "zh": "一桶深海鱼",
+    "vi": "Bucket of Deepfish"
+  },
+  "subtitles.entity.species.deepfish.flop": {
+    "en": "Deepfish flops",
+    "zh": "深海鱼拍打",
+    "vi": "Cá biển sâu tát"
+  },
+  "subtitles.entity.species.deepfish.death": {
+    "en": "Deepfish dies",
+    "zh": "深海鱼死亡",
+    "vi": "Cá biển sâu chết"
+  },
+  "subtitles.entity.species.deepfish.hurt": {
+    "en": "Deepfish hurts",
+    "zh": "深海鱼受伤",
+    "vi": "cá biển sâu bị thương"
+  },
+  "subtitles.entity.species.deepfish.idle": {
+    "en": "Deepfish howls",
+    "zh": "深海鱼嚎叫",
+    "vi": "Cá biển sâu hú"
+  },
+  "advancements.species.deepfish_in_a_bucket.title": {
+    "en": "Song of the deep",
+    "zh": "深海之歌",
+    "vi": "Bài hát của biển sâu"
+  },
+  "advancements.species.deepfish_in_a_bucket.description": {
+    "en": "Catch a Deepfish in a Bucket",
+    "zh": "用桶捕获一条深海鱼",
+    "vi": "Bắt một con cá biển sâu trong một cái xô"
+  },
+  "entity.species.roombug": {
+    "en": "Roombug",
+    "zh": "房虫",
+    "vi": "Roombug"
+  },
+  "item.species.roombug_spawn_egg": {
+    "en": "Roombug Spawn Egg",
+    "zh": "房虫生成蛋",
+    "vi": "Roombug Spawn Egg"
+  },
+  "subtitles.entity.species.roombug.eat": {
+    "en": "Roombug eats",
+    "zh": "房虫进食",
+    "vi": "Ăn bọ nhà"
+  },
+  "subtitles.entity.species.roombug.death": {
+    "en": "Roombug dies",
+    "zh": "房虫死亡",
+    "vi": "Rệp nhà chết"
+  },
+  "subtitles.entity.species.roombug.hurt": {
+    "en": "Roombug hurts",
+    "zh": "房虫受伤",
+    "vi": "Rệp nhà bị thương"
+  },
+  "subtitles.entity.species.roombug.idle": {
+    "en": "Roombug clicks",
+    "zh": "房虫咔嚓作响",
+    "vi": "Tiếng rệp trong nhà kêu ầm ĩ"
+  },
+  "subtitles.entity.species.roombug.snoring": {
+    "en": "Roombug snores",
+    "zh": "房虫打鼾",
+    "vi": "con bọ nhà ngáy"
+  },
+  "subtitles.entity.species.roombug.step": {
+    "en": "Roombug strides",
+    "zh": "房虫大步走",
+    "vi": "Lũ bọ nhà sải bước"
+  },
+  "entity.species.birt": {
+    "en": "Birt",
+    "zh": "伯特",
+    "vi": "Birt"
+  },
+  "entity.species.birt_egg": {
+    "en": "Birt Egg",
+    "zh": "伯特蛋",
+    "vi": "Birt Egg"
+  },
+  "item.species.birt_spawn_egg": {
+    "en": "Birt Spawn Egg",
+    "zh": "伯特生成蛋",
+    "vi": "Birt Spawn Egg"
+  },
+  "item.species.birt_egg": {
+    "en": "Birt Egg",
+    "zh": "伯特蛋",
+    "vi": "Birt Egg"
+  },
+  "block.species.birt_dwelling": {
+    "en": "Birt Dwelling",
+    "zh": "伯特住所",
+    "vi": "Birt Dwelling"
+  },
+  "item.species.music_disc_dial": {
+    "en": "Music Disc",
+    "zh": "音乐唱片",
+    "vi": "Music Disc"
+  },
+  "item.species.music_disc_dial.desc": {
+    "en": "bunten - dial",
+    "zh": "bunten - dial（曲目名）",
+    "vi": "bunten - quay số (tên bài hát)"
+  },
+  "effect.species.birtd": {
+    "en": "Birt'd",
+    "zh": "伯特化",
+    "vi": "sự đốt cháy"
+  },
+  "subtitles.entity.species.birt.death": {
+    "en": "Birt dies",
+    "zh": "伯特死亡",
+    "vi": "Bert chết"
+  },
+  "subtitles.entity.species.birt.hurt": {
+    "en": "Birt hurts",
+    "zh": "伯特受伤",
+    "vi": "Burt bị thương"
+  },
+  "subtitles.entity.species.birt.idle": {
+    "en": "Birt chirps",
+    "zh": "伯特啾啾叫",
+    "vi": "Bert ríu rít"
+  },
+  "subtitles.entity.species.birt.fly": {
+    "en": "Birt flies",
+    "zh": "伯特飞行",
+    "vi": "Bert bay"
+  },
+  "subtitles.entity.species.birt.message": {
+    "en": "Birt communicates",
+    "zh": "伯特传递信息",
+    "vi": "Bert đưa ra thông điệp"
+  },
+  "subtitles.effect.birtd.applied": {
+    "en": "Birts cause confusion",
+    "zh": "伯特引发混乱",
+    "vi": "Bert gây hỗn loạn"
+  },
+  "subtitles.block.species.birt_dwelling.collect": {
+    "en": "Birt Egg collected",
+    "zh": "收集到伯特蛋",
+    "vi": "Trứng Burt được thu thập"
+  },
+  "subtitles.block.species.birt_dwelling.enter": {
+    "en": "Birt enters dwelling",
+    "zh": "伯特进入住所",
+    "vi": "Bert bước vào nơi ở"
+  },
+  "subtitles.block.species.birt_dwelling.exit": {
+    "en": "Birt exits dwelling",
+    "zh": "伯特离开住所",
+    "vi": "Bert rời khỏi nơi ở"
+  },
+  "subtitles.block.species.birt_dwelling.work": {
+    "en": "Birts are plotting",
+    "zh": "伯特们在密谋",
+    "vi": "Nhà Burts đang âm mưu"
+  },
+  "subtitles.item.species.birt_egg.throw": {
+    "en": "Birt Egg thrown",
+    "zh": "扔出伯特蛋",
+    "vi": "ném trứng burt"
+  },
+  "subtitles.item.species.birt_egg.hit": {
+    "en": "Birt Egg hits something",
+    "zh": "伯特蛋击中某物",
+    "vi": "Trứng của Burt va vào thứ gì đó"
+  },
+  "advancements.species.birt_egg_at_warden.title": {
+    "en": "Birt is the Word",
+    "zh": "伯特是关键",
+    "vi": "Bert là chìa khóa"
+  },
+  "advancements.species.birt_egg_at_warden.description": {
+    "en": "Throw a birt egg at a warden and live to tell the tale",
+    "zh": "向守卫扔出伯特蛋并活下来讲述这段经历",
+    "vi": "Ném quả trứng Burt vào người bảo vệ và sống sót để kể câu chuyện"
+  },
+  "entity.species.limpet": {
+    "en": "Limpet",
+    "zh": "蜗牛",
+    "vi": "Limpet"
+  },
+  "item.species.limpet_spawn_egg": {
+    "en": "Limpet Spawn Egg",
+    "zh": "蜗牛生成蛋",
+    "vi": "Limpet Spawn Egg"
+  },
+  "subtitles.entity.species.limpet.death": {
+    "en": "Limpet dies",
+    "zh": "蜗牛死亡",
+    "vi": "cái chết của ốc sên"
+  },
+  "subtitles.entity.species.limpet.hurt": {
+    "en": "Limpet hurts",
+    "zh": "蜗牛受伤",
+    "vi": "Ốc bị thương"
+  },
+  "subtitles.entity.species.limpet.idle": {
+    "en": "Limpet squeaks",
+    "zh": "蜗牛吱吱叫",
+    "vi": "tiếng kêu của ốc sên"
+  },
+  "subtitles.entity.species.limpet.step": {
+    "en": "Limpet steps",
+    "zh": "蜗牛迈步",
+    "vi": "tốc độ của ốc sên"
+  },
+  "subtitles.entity.species.limpet.deflect": {
+    "en": "Limpet deflects",
+    "zh": "蜗牛弹开攻击",
+    "vi": "Tấn công bằng ốc sên"
+  },
+  "subtitles.entity.species.limpet.break": {
+    "en": "Limpet shell breaks",
+    "zh": "蜗牛壳破裂",
+    "vi": "Vỏ ốc bị nứt"
+  },
+  "advancements.species.silk_touch_break_limpet.title": {
+    "en": "The Conchequences of Hiding",
+    "zh": "隐藏的后果",
+    "vi": "hậu quả tiềm ẩn"
+  },
+  "advancements.species.silk_touch_break_limpet.description": {
+    "en": "Break the Shell of a Limpet using Silk Touch",
+    "zh": "使用精准采集破坏一只舌形贝的外壳",
+    "vi": "Phá hủy vỏ lưỡi bằng Silk Touch."
+  },
+  "block.species.red_suspicious_sand": {
+    "en": "Red Suspicious Sand",
+    "zh": "红色可疑沙",
+    "vi": "Red Suspicious Sand"
+  },
+  "block.species.bone_bark": {
+    "en": "Bone Bark",
+    "zh": "骨树皮",
+    "vi": "Bone Bark"
+  },
+  "block.species.bone_vertebra": {
+    "en": "Bone Vertebra",
+    "zh": "骨脊椎",
+    "vi": "Bone Vertebra"
+  },
+  "block.species.bone_spike": {
+    "en": "Bone Spike",
+    "zh": "骨尖刺",
+    "vi": "Bone Spike"
+  },
+  "item.species.music_disc_lapidarian": {
+    "en": "Music Disc",
+    "zh": "音乐唱片",
+    "vi": "Music Disc"
+  },
+  "item.species.music_disc_lapidarian.desc": {
+    "en": "Exclaim! - Lapidarian",
+    "zh": "Exclaim! - 拉皮达利安",
+    "vi": "La lên! - Lapidarian"
+  },
+  "advancements.species.ancient_eggs.title": {
+    "en": "We're Back",
+    "zh": "我们回来了",
+    "vi": "chúng tôi đã trở lại"
+  },
+  "advancements.species.ancient_eggs.description": {
+    "en": "Have all Ancient Eggs in your inventory",
+    "zh": "在你的背包中拥有所有古代蛋",
+    "vi": "Có tất cả Trứng Cổ trong kho của bạn"
+  },
+  "entity.species.treeper": {
+    "en": "Treeper",
+    "zh": "树妖",
+    "vi": "Treeper"
+  },
+  "item.species.treeper_spawn_egg": {
+    "en": "Treeper Spawn Egg",
+    "zh": "树妖生成蛋",
+    "vi": "Treeper Spawn Egg"
+  },
+  "item.species.ancient_pinecone": {
+    "en": "Ancient Pinecone",
+    "zh": "古代松果",
+    "vi": "Ancient Pinecone"
+  },
+  "block.species.trooper": {
+    "en": "Trooper",
+    "zh": "树力怕",
+    "vi": "Trooper"
+  },
+  "block.species.potted_trooper": {
+    "en": "Potted Trooper",
+    "zh": "盆栽树力怕",
+    "vi": "Potted Trooper"
+  },
+  "entity.species.trooper": {
+    "en": "Trooper",
+    "zh": "树力怕实体",
+    "vi": "Trooper"
+  },
+  "item.species.trooper_spawn_egg": {
+    "en": "Trooper Spawn Egg",
+    "zh": "树力怕生成蛋",
+    "vi": "Trooper Spawn Egg"
+  },
+  "subtitles.entity.species.treeper.death": {
+    "en": "Treeper dies",
+    "zh": "树妖死亡",
+    "vi": "cái chết của thần nữ thần"
+  },
+  "subtitles.entity.species.treeper.hurt": {
+    "en": "Treeper hurts",
+    "zh": "树妖受伤",
+    "vi": "Dryad bị thương"
+  },
+  "subtitles.entity.species.treeper.idle": {
+    "en": "Treeper whispers",
+    "zh": "树妖低语",
+    "vi": "Lời Thì Thầm Của Nữ Thần Rừng"
+  },
+  "subtitles.entity.species.treeper.idle_planted": {
+    "en": "Tree cracks suspiciously",
+    "zh": "树木发出可疑的裂缝声",
+    "vi": "Cây cối phát ra âm thanh nứt gãy đáng ngờ"
+  },
+  "subtitles.entity.species.treeper.plant": {
+    "en": "Treeper plants",
+    "zh": "树妖种植",
+    "vi": "Trồng cây khô"
+  },
+  "subtitles.entity.species.treeper.uproot": {
+    "en": "Treeper uproots",
+    "zh": "树妖拔根",
+    "vi": "Dryad nhổ rễ"
+  },
+  "subtitles.entity.species.treeper.step": {
+    "en": "Treeper roams",
+    "zh": "树妖游荡",
+    "vi": "Dryad đi lang thang"
+  },
+  "subtitles.entity.species.treeper.shake_fail": {
+    "en": "Treeper shakes",
+    "zh": "树妖摇晃",
+    "vi": "Lắc lắc thần thoại"
+  },
+  "subtitles.entity.species.treeper.shake_success": {
+    "en": "Treeper Saplings drop",
+    "zh": "树妖掉落树苗",
+    "vi": "Dryad thả cây con"
+  },
+  "subtitles.entity.species.trooper.death": {
+    "en": "Trooper dies",
+    "zh": "树力怕死亡",
+    "vi": "Shuli sợ chết"
+  },
+  "subtitles.entity.species.trooper.hurt": {
+    "en": "Trooper hurts",
+    "zh": "树力怕受伤",
+    "vi": "Shuli sợ bị tổn thương"
+  },
+  "subtitles.entity.species.trooper.step": {
+    "en": "Trooper trots",
+    "zh": "树力怕小跑",
+    "vi": "Shuli sợ chạy nước kiệu"
+  },
+  "subtitles.entity.species.trooper.uproot": {
+    "en": "Trooper uproots",
+    "zh": "树力怕拔根",
+    "vi": "Cây sợ bị bật gốc"
+  },
+  "subtitles.entity.species.trooper.plant": {
+    "en": "Trooper plants",
+    "zh": "树力怕种植",
+    "vi": "Cây sợ trồng"
+  },
+  "advancements.species.burn_treeper_into_place.title": {
+    "en": "Nerve Damage",
+    "zh": "神经损伤",
+    "vi": "tổn thương thần kinh"
+  },
+  "advancements.species.burn_treeper_into_place.description": {
+    "en": "Burn a Treeper into place to prevent it from moving",
+    "zh": "将树妖在原地烧焦以防止其移动",
+    "vi": "Thiêu đốt Dryad tại chỗ để ngăn nó di chuyển"
+  },
+  "advancements.species.tame_trooper.title": {
+    "en": "I Speak for The Treepers",
+    "zh": "我代表树妖发言",
+    "vi": "Tôi phát biểu thay mặt cho các dryad"
+  },
+  "advancements.species.tame_trooper.description": {
+    "en": "Plant down an Ancient Pinecone and Tame the Trooper that grows from it",
+    "zh": "种植一个古代松果并驯服从中生长出来的树力怕",
+    "vi": "Trồng một quả thông cổ thụ và thuần hóa cái cây mọc lên từ nó"
+  },
+  "entity.species.goober": {
+    "en": "Goober",
+    "zh": "咕咕伯",
+    "vi": "Goober"
+  },
+  "entity.species.goober_goo": {
+    "en": "Goober Goo",
+    "zh": "咕咕伯粘液",
+    "vi": "Goober Goo"
+  },
+  "item.species.goober_spawn_egg": {
+    "en": "Goober Spawn Egg",
+    "zh": "咕咕伯生成蛋",
+    "vi": "Goober Spawn Egg"
+  },
+  "block.species.petrified_egg": {
+    "en": "Petrified Egg",
+    "zh": "石化蛋",
+    "vi": "Petrified Egg"
+  },
+  "block.species.alphacene_moss_block": {
+    "en": "Alphacene Moss Block",
+    "zh": "阿尔法烯苔藓块",
+    "vi": "Alphacene Moss Block"
+  },
+  "block.species.alphacene_moss_carpet": {
+    "en": "Alphacene Moss Carpet",
+    "zh": "阿尔法烯苔藓地毯",
+    "vi": "Alphacene Moss Carpet"
+  },
+  "block.species.alphacene_grass_block": {
+    "en": "Alphacene Grass Block",
+    "zh": "阿尔法烯草方块",
+    "vi": "Alphacene Grass Block"
+  },
+  "block.species.alphacene_grass": {
+    "en": "Alphacene Grass",
+    "zh": "阿尔法烯草",
+    "vi": "Alphacene Grass"
+  },
+  "block.species.alphacene_tall_grass": {
+    "en": "Alphacene Tall Grass",
+    "zh": "阿尔法烯高草",
+    "vi": "Alphacene Tall Grass"
+  },
+  "block.species.alphacene_mushroom": {
+    "en": "Alphacene Mushroom",
+    "zh": "阿尔法烯蘑菇",
+    "vi": "Alphacene Mushroom"
+  },
+  "block.species.alphacene_mushroom_block": {
+    "en": "Alphacene Mushroom Block",
+    "zh": "阿尔法烯蘑菇块",
+    "vi": "Alphacene Mushroom Block"
+  },
+  "block.species.alphacene_mushroom_growth": {
+    "en": "Alphacene Mushroom Growth",
+    "zh": "阿尔法烯蘑菇生长",
+    "vi": "Alphacene Mushroom Growth"
+  },
+  "subtitles.entity.species.goober.death": {
+    "en": "Goober dies",
+    "zh": "咕咕伯死了",
+    "vi": "Gu Gu Bo đã chết"
+  },
+  "subtitles.entity.species.goober.hurt": {
+    "en": "Goober hurts",
+    "zh": "咕咕伯受伤了",
+    "vi": "Gu Gu Bo bị thương"
+  },
+  "subtitles.entity.species.goober.idle": {
+    "en": "Goober grunts",
+    "zh": "咕咕伯哼哼",
+    "vi": "Gu Gu Bo hum"
+  },
+  "subtitles.entity.species.goober.idle_resting": {
+    "en": "Goober groans tiredly",
+    "zh": "咕咕伯疲惫地呻吟",
+    "vi": "Gu Gu Bo rên rỉ mệt mỏi"
+  },
+  "subtitles.entity.species.goober.sneeze": {
+    "en": "Goober sneezes",
+    "zh": "咕咕伯打喷嚏",
+    "vi": "Chim cu hắt hơi"
+  },
+  "subtitles.entity.species.goober.lay_down": {
+    "en": "Goober rests",
+    "zh": "咕咕伯休息",
+    "vi": "Chim cúc cu nghỉ ngơi"
+  },
+  "subtitles.entity.species.goober.rear_up": {
+    "en": "Goober rears up",
+    "zh": "咕咕伯后仰",
+    "vi": "Cúc ngả lưng"
+  },
+  "subtitles.entity.species.goober.step": {
+    "en": "Goober steps",
+    "zh": "咕咕伯迈步",
+    "vi": "Cúc bước về phía trước"
+  },
+  "subtitles.entity.species.goober.yawn": {
+    "en": "Goober yawns",
+    "zh": "咕咕伯打哈欠",
+    "vi": "Cúc cu ngáp"
+  },
+  "subtitles.entity.species.goober.eat": {
+    "en": "Goober eats",
+    "zh": "咕咕伯吃东西",
+    "vi": "Chim cu ăn thứ gì đó"
+  },
+  "subtitles.block.species.petrified_egg.crack": {
+    "en": "Petrified Egg cracks",
+    "zh": "石化蛋裂开",
+    "vi": "Trứng hóa thạch bị nứt"
+  },
+  "subtitles.block.species.petrified_egg.hatch": {
+    "en": "Petrified Egg hatches",
+    "zh": "石化蛋孵化",
+    "vi": "Ấp trứng hóa thạch"
+  },
+  "subtitles.block.species.petrified_egg.plop": {
+    "en": "Goober plops",
+    "zh": "咕咕伯噗通一声",
+    "vi": "Gu Gu Bo phát ra âm thanh phập phồng"
+  },
+  "advancements.species.obtain_petrified_egg.title": {
+    "en": "Feels Interesting",
+    "zh": "手感有趣",
+    "vi": "Cảm giác thú vị"
+  },
+  "advancements.species.obtain_petrified_egg.description": {
+    "en": "Obtain a Petrified Egg",
+    "zh": "获得一个石化蛋",
+    "vi": "Nhận một quả trứng hóa đá"
+  },
+  "advancements.species.tickle_goober.title": {
+    "en": "Allergy Season",
+    "zh": "过敏季节",
+    "vi": "mùa dị ứng"
+  },
+  "advancements.species.tickle_goober.description": {
+    "en": "Make a Goober sneeze Goober Goo and prehistorify the world around you",
+    "zh": "让咕咕伯打喷嚏喷出咕咕粘液，将周围的世界变成史前风貌",
+    "vi": "Khiến Cuckoo hắt hơi và nhổ ra chất nhờn Cuckoo, biến thế giới xung quanh thành thời tiền sử"
+  },
+  "entity.species.cruncher": {
+    "en": "Cruncher",
+    "zh": "暴食兽",
+    "vi": "Cruncher"
+  },
+  "bar.species.cruncher": {
+    "en": "%s's Appetite",
+    "zh": "%s的食欲",
+    "vi": "Sự thèm ăn của %s"
+  },
+  "item.species.cruncher_spawn_egg": {
+    "en": "Cruncher Spawn Egg",
+    "zh": "暴食兽生成蛋",
+    "vi": "Cruncher Spawn Egg"
+  },
+  "block.species.cruncher_egg": {
+    "en": "Cruncher Egg",
+    "zh": "暴食兽蛋",
+    "vi": "Cruncher Egg"
+  },
+  "block.species.cruncher_pellet": {
+    "en": "Cruncher Pellet",
+    "zh": "暴食兽粪球",
+    "vi": "Cruncher Pellet"
+  },
+  "subtitles.entity.species.cruncher.death": {
+    "en": "Cruncher dies",
+    "zh": "暴食兽死了",
+    "vi": "Sự háu ăn đã chết"
+  },
+  "subtitles.entity.species.cruncher.hurt": {
+    "en": "Cruncher hurts",
+    "zh": "暴食兽受伤了",
+    "vi": "Kẻ háu ăn bị thương"
+  },
+  "subtitles.entity.species.cruncher.idle": {
+    "en": "Cruncher grunts",
+    "zh": "暴食兽哼哼",
+    "vi": "háu ăn càu nhàu"
+  },
+  "subtitles.entity.species.cruncher.step": {
+    "en": "Cruncher waddles",
+    "zh": "暴食兽摇摆行走",
+    "vi": "Con thú háu ăn đu đưa và bước đi"
+  },
+  "subtitles.entity.species.cruncher.roar": {
+    "en": "Cruncher roars",
+    "zh": "暴食兽咆哮",
+    "vi": "tiếng gầm háu ăn"
+  },
+  "subtitles.entity.species.cruncher.spit": {
+    "en": "Cruncher spits",
+    "zh": "暴食兽吐痰",
+    "vi": "kẻ háu ăn nhổ"
+  },
+  "subtitles.entity.species.cruncher.stomp": {
+    "en": "Cruncher stomps",
+    "zh": "暴食兽跺脚",
+    "vi": "Tham ăn dậm chân"
+  },
+  "subtitles.entity.species.cruncher.stun": {
+    "en": "Cruncher gets stunned",
+    "zh": "暴食兽被眩晕",
+    "vi": "Kẻ háu ăn bị choáng váng"
+  },
+  "death.attack.crunch": {
+    "en": "%1$s was crunched",
+    "zh": "%1$s被暴食兽压扁了",
+    "vi": "%1$s bị kẻ háu ăn nghiền nát"
+  },
+  "death.attack.crunch.item": {
+    "en": "%1$s was crunched by %2$s using %3$s",
+    "zh": "%1$s被%2$s使用%3$s压扁了",
+    "vi": "%1$s đã bị %2$s đè bẹp bằng cách sử dụng %3$s"
+  },
+  "death.attack.crunch.player": {
+    "en": "%1$s was crunched by %2$s",
+    "zh": "%1$s被%2$s压扁了",
+    "vi": "%1$s đã bị %2$s đè bẹp"
+  },
+  "effect.species.gut_feeling": {
+    "en": "Gut Feeling",
+    "zh": "预感",
+    "vi": "điềm báo"
+  },
+  "subtitles.effect.species.gut_feeling.applied": {
+    "en": "Stomach rumbles",
+    "zh": "肚子咕咕叫",
+    "vi": "Bụng gầm gừ"
+  },
+  "subtitles.effect.species.gut_feeling.spawn": {
+    "en": "Stomach wrenches",
+    "zh": "肚子绞痛",
+    "vi": "co thắt dạ dày"
+  },
+  "subtitles.effect.species.gut_feeling.roar": {
+    "en": "Stomach upset",
+    "zh": "肚子不舒服",
+    "vi": "Khó chịu ở dạ dày"
+  },
+  "advancements.species.obtain_cruncher_egg.title": {
+    "en": "Tastes Interesting",
+    "zh": "味道有趣",
+    "vi": "hương vị thú vị"
+  },
+  "advancements.species.obtain_cruncher_egg.description": {
+    "en": "Obtain a Cruncher Egg",
+    "zh": "获得一个暴食兽蛋",
+    "vi": "Nhận một quả trứng háu ăn"
+  },
+  "advancements.species.feed_cruncher.title": {
+    "en": "Feed the Beast",
+    "zh": "喂食野兽",
+    "vi": "Cho thú ăn"
+  },
+  "advancements.species.feed_cruncher.description": {
+    "en": "Attempt to satiate the Cruncher's appetite",
+    "zh": "尝试满足暴食兽的食欲",
+    "vi": "Cố gắng thỏa mãn cơn thèm ăn của kẻ háu ăn"
+  },
+  "entity.species.mammutilation": {
+    "en": "Mammutilation",
+    "zh": "渎生巨兽",
+    "vi": "Mammutilation"
+  },
+  "item.species.mammutilation_spawn_egg": {
+    "en": "Mammutilation Spawn Egg",
+    "zh": "渎生巨兽生成蛋",
+    "vi": "Mammutilation Spawn Egg"
+  },
+  "item.species.ichor_bottle": {
+    "en": "Ichor Bottle",
+    "zh": "粘液瓶",
+    "vi": "Ichor Bottle"
+  },
+  "item.species.youth_potion": {
+    "en": "Youth Potion",
+    "zh": "返老还童药水",
+    "vi": "Youth Potion"
+  },
+  "block.species.ichor": {
+    "en": "Ichor",
+    "zh": "粘液",
+    "vi": "Ichor"
+  },
+  "block.species.frozen_meat": {
+    "en": "Frozen Meat",
+    "zh": "冻肉",
+    "vi": "Frozen Meat"
+  },
+  "block.species.frozen_hair": {
+    "en": "Frozen Hair",
+    "zh": "冻发",
+    "vi": "Frozen Hair"
+  },
+  "subtitles.entity.species.mammutilation.death": {
+    "en": "Mammutilation dies again",
+    "zh": "渎生巨兽再次死亡",
+    "vi": "Con thú trần tục lại chết"
+  },
+  "subtitles.entity.species.mammutilation.hurt": {
+    "en": "Mammutilation hurts even more",
+    "zh": "渎生巨兽更加疼痛",
+    "vi": "Con thú trần tục còn đau đớn hơn"
+  },
+  "subtitles.entity.species.mammutilation.idle": {
+    "en": "Mammutilation tries to breathe",
+    "zh": "渎生巨兽努力呼吸",
+    "vi": "Con thú trần tục cố gắng thở"
+  },
+  "subtitles.entity.species.mammutilation.cough": {
+    "en": "Mammutilation coughs",
+    "zh": "渎生巨兽咳嗽",
+    "vi": "Con thú tục tĩu ho"
+  },
+  "subtitles.entity.species.mammutilation.howl": {
+    "en": "Mammutilation howl",
+    "zh": "渎生巨兽咆哮",
+    "vi": "Tiếng gầm của con thú báng bổ"
+  },
+  "subtitles.entity.species.mammutilation.bleed": {
+    "en": "Mammutilation bleeds",
+    "zh": "渎生巨兽流血",
+    "vi": "Con thú phàm tục chảy máu"
+  },
+  "subtitles.entity.species.mammutilation.mammutiful_idle": {
+    "en": "Mammutilation rambles",
+    "zh": "渎生巨兽嘟囔",
+    "vi": "Con thú báng bổ càu nhàu"
+  },
+  "subtitles.item.species.ichor_bottle.applied": {
+    "en": "Ichor cures",
+    "zh": "粘液治愈",
+    "vi": "chữa bệnh bằng chất nhờn"
+  },
+  "subtitles.item.species.youth_potion.baby": {
+    "en": "Rejuvenation",
+    "zh": "返老还童",
+    "vi": "Trẻ hóa"
+  },
+  "subtitles.item.species.youth_potion.stumped": {
+    "en": "Baby's growth gets stumped",
+    "zh": "婴儿的成长被遏制",
+    "vi": "Sự phát triển của em bé bị chậm lại"
+  },
+  "advancements.species.look_at_mammutilation.title": {
+    "en": "It's... Alive?",
+    "zh": "它……还活着？",
+    "vi": "Nó... vẫn còn sống à?"
+  },
+  "advancements.species.look_at_mammutilation.description": {
+    "en": "Use the power of lightning to bring back the Mammutilation",
+    "zh": "使用闪电的力量让渎生巨兽",
+    "vi": "Sử dụng sức mạnh của tia sét để hồi sinh con thú tục tĩu"
+  },
+  "advancements.species.turn_mob_into_baby.title": {
+    "en": "Is this even ethical?",
+    "zh": "这道德吗？",
+    "vi": "Đây có phải là đạo đức?"
+  },
+  "advancements.species.turn_mob_into_baby.description": {
+    "en": "Turn back time and turn a mob into its baby form with a Youth Potion",
+    "zh": "使用返老还童药水将生物变回婴儿形态",
+    "vi": "Sử dụng Thuốc trẻ hóa để đưa sinh vật trở lại dạng trẻ sơ sinh"
+  },
+  "entity.species.springling": {
+    "en": "Springling",
+    "zh": "弹簧精灵",
+    "vi": "Springling"
+  },
+  "item.species.springling_spawn_egg": {
+    "en": "Springling Spawn Egg",
+    "zh": "弹簧精灵生成蛋",
+    "vi": "Springling Spawn Egg"
+  },
+  "block.species.springling_egg": {
+    "en": "Springling Egg",
+    "zh": "弹簧精灵蛋",
+    "vi": "Springling Egg"
+  },
+  "springling.keybinds": {
+    "en": "Press %s to Extend and %s to Retract",
+    "zh": "按%s伸长，按%s缩回",
+    "vi": "Nhấn %s để kéo dài, nhấn %s để rút lại"
+  },
+  "subtitles.entity.species.springling.death": {
+    "en": "Springling dies",
+    "zh": "弹簧精灵死了",
+    "vi": "Yêu tinh mùa xuân đã chết"
+  },
+  "subtitles.entity.species.springling.hurt": {
+    "en": "Springling hurts",
+    "zh": "弹簧精灵受伤了",
+    "vi": "Yêu tinh mùa xuân bị thương"
+  },
+  "subtitles.entity.species.springling.idle": {
+    "en": "Springling snorts",
+    "zh": "弹簧精灵喷气",
+    "vi": "máy bay phản lực mùa xuân"
+  },
+  "subtitles.entity.species.springling.step": {
+    "en": "Springling steps",
+    "zh": "弹簧精灵迈步",
+    "vi": "bước chân yêu tinh mùa xuân"
+  },
+  "subtitles.entity.species.springling.eat": {
+    "en": "Springling eats",
+    "zh": "弹簧精灵吃东西",
+    "vi": "Yêu tinh mùa xuân ăn"
+  },
+  "subtitles.entity.species.springling.extend": {
+    "en": "Springling extends",
+    "zh": "弹簧精灵伸长",
+    "vi": "Yêu tinh mùa xuân trải dài"
+  },
+  "subtitles.entity.species.springling.extend_finish": {
+    "en": "Springling finishes extending",
+    "zh": "弹簧精灵伸长完成",
+    "vi": "Yêu tinh mùa xuân được duỗi ra"
+  },
+  "subtitles.block.species.springling_egg.crack": {
+    "en": "Springling Egg cracks",
+    "zh": "弹簧精灵蛋裂开",
+    "vi": "Trứng cổ tích mùa xuân bị nứt"
+  },
+  "subtitles.block.species.springling_egg.hatch": {
+    "en": "Springling Egg hatches",
+    "zh": "弹簧精灵蛋孵化",
+    "vi": "Ấp trứng yêu tinh mùa xuân"
+  },
+  "subtitles.block.species.springling_egg.plop": {
+    "en": "Springling plops",
+    "zh": "弹簧精灵噗通一声",
+    "vi": "Tinh thần mùa xuân trỗi dậy"
+  },
+  "advancements.species.obtain_springling_egg.title": {
+    "en": "Looks Interesting",
+    "zh": "看起来有趣",
+    "vi": "trông thú vị"
+  },
+  "advancements.species.obtain_springling_egg.description": {
+    "en": "Obtain a Springling Egg",
+    "zh": "获得一个弹簧精灵蛋",
+    "vi": "Nhận một quả trứng yêu tinh mùa xuân"
+  },
+  "advancements.species.extend_springling_fully.title": {
+    "en": "Ding!",
+    "zh": "叮！",
+    "vi": "cắn!"
+  },
+  "advancements.species.extend_springling_fully.description": {
+    "en": "Tame a Springling and extend its neck to the max",
+    "zh": "驯服弹簧精灵并将其脖子伸长到最大",
+    "vi": "Thuần hóa Spring Sprite và kéo dài cổ nó đến mức tối đa"
+  }
+}

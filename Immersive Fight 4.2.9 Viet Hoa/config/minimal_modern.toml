@@ -1,0 +1,27 @@
+
+["Configs for Minimal Modern"]
+	#Which corner to display main GUI? 0 = TopLeft, 1 = TopRight, 2 = BottomLeft, 3 = BottomRight
+	#Range: 0 ~ 3
+	MainGuiCorner = 2
+	#Horizontal Padding for main GUI.
+	#Range: 0 ~ 50
+	MainGuiHorizontalPadding = 0
+	#Vertical Padding for main GUI.
+	#Range: 0 ~ 50
+	MainGuiVerticalPadding = 0
+	#Separate the main GUI from the Value Bars.
+	#The following settings will only take effect if set to true
+	#The corner values must also be different.
+	SeparateValueBars = false
+	#Which corner to display Value Bars? 0 = TopLeft, 1 = TopRight, 2 = BottomLeft, 3 = BottomRight
+	#Range: 0 ~ 3
+	ValueBarsCorner = 2
+	#Horizontal Padding for Value Bars.
+	#Range: 0 ~ 50
+	ValueBarsHorizontalPadding = 0
+	#Vertical Padding for Value Bars.
+	#Range: 0 ~ 50
+	ValueBarsVerticalPadding = 0
+	#show player hp number.
+	displayHpNumber = true
+

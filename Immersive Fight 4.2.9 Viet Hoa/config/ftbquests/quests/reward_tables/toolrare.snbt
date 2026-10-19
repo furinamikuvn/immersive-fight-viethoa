@@ -1,0 +1,52 @@
+{
+	icon: "modifiers:modifier_book"
+	id: "38CDAC9748461903"
+	loot_size: 1
+	order_index: 6
+	rewards: [
+		{
+			item: {
+				Count: 1
+				id: "modifiers:modifier_book"
+				tag: {
+					bookModifier: "modifiers:vicious"
+				}
+			}
+			title: "Tà Ác +15% Sát Thương Tấn Công"
+			weight: 2.0f
+		}
+		{
+			item: {
+				Count: 1
+				id: "modifiers:modifier_book"
+				tag: {
+					bookModifier: "modifiers:deadly"
+				}
+			}
+			title: "Chí Mạng +20% Sát Thương"
+			weight: 2.0f
+		}
+		{
+			item: {
+				Count: 1
+				id: "modifiers:modifier_book"
+				tag: {
+					bookModifier: "modifiers:swift"
+				}
+			}
+			title: "Nhanh Thoăn Thoắt +10% Tốc Độ Đánh"
+			weight: 2.0f
+		}
+		{
+			item: {
+				Count: 1
+				id: "modifiers:modifier_book"
+				tag: {
+					bookModifier: "modifiers:legendary"
+				}
+			}
+			title: "Huyền Thoại +10% Sát Thương, +5% Tốc Độ Đánh, +10% Tốc Độ Chạy"
+		}
+	]
+	title: "Phẩm Chất Vũ Khí Cao Cấp"
+}

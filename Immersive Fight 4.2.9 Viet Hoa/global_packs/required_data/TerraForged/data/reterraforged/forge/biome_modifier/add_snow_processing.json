@@ -1,0 +1,6 @@
+{
+  "type": "reterraforged:add",
+  "features": "reterraforged:decorate_snow",
+  "order": "append",
+  "step": "top_layer_modification"
+}

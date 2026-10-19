@@ -1,0 +1,92 @@
+{
+  "gui.level_hp.hpexp.label_empty": {
+    "en": "/",
+    "zh": "/",
+    "vi": "/"
+  },
+  "message.dielost": {
+    "en": "You died, lost §e",
+    "zh": "你死了，失去了 §e",
+    "vi": " §cMất §a§l"
+  },
+  "gui.level_hp.hpexp.label_varintegerhpexp": {
+    "en": "<VAR:integer:hpexp>",
+    "zh": "<VAR:integer:hpexp>",
+    "vi": "<VAR:integer:hpexp>"
+  },
+  "message.getexp": {
+    "en": "Get §c",
+    "zh": "得到 §c",
+    "vi": "Nhận được §c"
+  },
+  "config.level_hp.levelhpconfig": {
+    "en": "levelhp-common",
+    "zh": "levelhp-common",
+    "vi": "levelhp-common"
+  },
+  "message.imlevelup": {
+    "en": " §e§ltimes!!   ",
+    "zh": "§e§l次!!",
+    "vi": "§e§l Cấp!!"
+  },
+  "message.levelup": {
+    "en": "§e§lHp level up!  ",
+    "zh": "§e§lHp升级!",
+    "vi": "§e§lHp Lên Cấp!"
+  },
+  "message.mlevelup": {
+    "en": "§e§lHp level up §c§l",
+    "zh": "§e§lHp升级 §c§l",
+    "vi": "§e§lHp Lên Cấp §c§l"
+  },
+  "message.iidielost": {
+    "en": " §fhp level(s).",
+    "zh": "§f等hp等级",
+    "vi": "§c Bình Chứa Trái Tim"
+  },
+  "message.iiidielost": {
+    "en": null,
+    "zh": null,
+    "vi": "§c || §eCấp hiện tại: §a§l"
+  },
+  "gui.level_hp.hpexp.label_lv": {
+    "en": "Lv",
+    "zh": "Lv",
+    "vi": "Lv"
+  },
+  "item.level_hp.heartcontainers": {
+    "en": "Heart containers",
+    "zh": "心之容器",
+    "vi": "Bình Chứa Trái Tim"
+  },
+  "message.adielost": {
+    "en": "You died, §eyou lost all hp exp and level.",
+    "zh": "你死了，失去了 §e全部hp经验值与等级",
+    "vi": "Bạn đã chết, mất đi §etoàn bộ kinh nghiệm HP và cấp độ"
+  },
+  "message.ilevelup": {
+    "en": "§fLevel ",
+    "zh": "§f等级",
+    "vi": "§fCấp độ"
+  },
+  "gui.level_hp.hpexp.label_varintegerhplevel": {
+    "en": "<VAR:integer:hplevel>",
+    "zh": "<VAR:integer:hplevel>",
+    "vi": "<VAR:integer:hplevel>"
+  },
+  "gui.level_hp.hpexp.label_varintegerleveluphpexp": {
+    "en": "<VAR:integer:leveluphpexp>",
+    "zh": "<VAR:integer:leveluphpexp>",
+    "vi": "<VAR:integer:leveluphpexp>"
+  },
+  "message.idielost": {
+    "en": " §fhp exp and §e",
+    "zh": "§fhp经验值和 §e",
+    "vi": "§a§l"
+  },
+  "message.igetexp": {
+    "en": " §fhp exp!",
+    "zh": "§fhp经验值!",
+    "vi": "§f Kinh nghiệm HP!"
+  }
+}

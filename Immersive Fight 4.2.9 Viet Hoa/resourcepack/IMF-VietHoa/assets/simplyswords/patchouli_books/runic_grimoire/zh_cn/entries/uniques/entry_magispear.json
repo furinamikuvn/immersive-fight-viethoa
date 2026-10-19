@@ -1,0 +1,13 @@
+{
+  "name": "Magispear (Bí Pháp Chi Mâu)",
+  "icon": "simplyswords:magispear",
+  "advancement": "simplyswords:magispear",
+  "category": "simplyswords:category_unique_weapons",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:magispear",
+      "text": "Sản vật của một nền văn minh công nghệ kỳ lạ chưa rõ nguồn gốc."
+    }
+  ]
+}

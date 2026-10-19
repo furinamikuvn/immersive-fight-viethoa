@@ -1,0 +1,42 @@
+{
+  "name": "mtr:desert-mega-temple/side_pool/lower",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "mtr:desert-mega-temple/desert-mega-temple-lower-1",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "mtr:desert-mega-temple/desert-mega-temple-lower-2",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "mtr:desert-mega-temple/desert-mega-temple-lower-3",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "mtr:desert-mega-temple/desert-mega-temple-lower-4",
+        "processors": "minecraft:empty"
+      }
+    }
+  ]
+}

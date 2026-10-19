@@ -1,0 +1,32 @@
+{
+  "oregrowth.block.ore_growth": {
+    "en": "Ore Cluster",
+    "zh": "矿簇",
+    "vi": "cụm quặng"
+  },
+  "oregrowth.ore_growth_block.adjusted_name": {
+    "en": "%s Crystal",
+    "zh": "%s 结晶",
+    "vi": "Tinh thể %s"
+  },
+  "oregrowth.ore_growth_block.growth_hint": {
+    "en": "Growth: %s",
+    "zh": "生长: %s",
+    "vi": "Tăng trưởng: %s"
+  },
+  "oregrowth.jei_category.title": {
+    "en": "Crystal Growth",
+    "zh": "晶石生长",
+    "vi": "tăng trưởng thưa thớt"
+  },
+  "config.jade.plugin_oregrowth.ore_growth_hint": {
+    "en": "Show crystal growth progress",
+    "zh": "显示晶石生长进度",
+    "vi": "Hiển thị tiến trình tăng trưởng tinh thể"
+  },
+  "config.jade.plugin_oregrowth.ore_growth_icon": {
+    "en": "Replace crystal icon",
+    "zh": "替换晶石图标",
+    "vi": "Biểu tượng trụ thay thế"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Sương Hàng (Frostfall)",
+  "icon": "simplyswords:frostfall",
+  "advancement": "simplyswords:frostfall",
+  "category": "simplyswords:category_unique_weapons",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:frostfall",
+      "text": "Búa băng giá cực đại, giáng đòn đông cứng mục tiêu trong lớp băng vĩnh cửu."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Bao bọc người cầm trong lớp giáp băng tuyết hồi phục sinh lực và gia tăng kháng cự tuyệt đối."
+    }
+  ]
+}

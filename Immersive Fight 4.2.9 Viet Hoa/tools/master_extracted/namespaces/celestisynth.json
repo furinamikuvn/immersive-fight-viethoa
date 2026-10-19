@@ -1,0 +1,1242 @@
+{
+  "rarity.celestial.name": {
+    "en": null,
+    "zh": "§b§l天神",
+    "vi": "§b§lChúa"
+  },
+  "item.celestisynth.shift_notice": {
+    "en": "[Press Shift or Ctrl to switch pages]",
+    "zh": "[按下 Ctrl 切换技能页面]",
+    "vi": "[Press Shift or Ctrl to switch pages]"
+  },
+  "creativetab.celestisynth_tab": {
+    "en": "Celestisynth",
+    "zh": "天神剑技",
+    "vi": "Kỹ năng kiếm của Chúa"
+  },
+  "attribute.celestisynth.celestial_damage": {
+    "en": "Celestial Weapon Damage",
+    "zh": "天神武器伤害",
+    "vi": "Sát thương vũ khí thần"
+  },
+  "attribute.celestisynth.celestial_damage_reduction": {
+    "en": "Celestial Weapon Damage Reduction",
+    "zh": "天神武器伤害减免",
+    "vi": "Giảm sát thương vũ khí thiên thể"
+  },
+  "entity.celestisynth.star_monolith": {
+    "en": "Celestial Monolith",
+    "zh": "天神圣碑",
+    "vi": "Celestial Monolith"
+  },
+  "entity.celestisynth.traverser": {
+    "en": "Traverser",
+    "zh": "穿行者",
+    "vi": "Traverser"
+  },
+  "entity.celestisynth.rainfall_turret": {
+    "en": "Rainfall Turret",
+    "zh": "星落炮台",
+    "vi": "Rainfall Turret"
+  },
+  "block.celestisynth.no_more_celestial_workbench": {
+    "en": "This item is no longer usable. Please convert this block into the Starlit Factory in the crafting grid!",
+    "zh": "此物品已不可用。请在工作台中将此方块转换为星辉工厂！",
+    "vi": "This item is no longer usable. Please convert this block into the Starlit Factory in the crafting grid!"
+  },
+  "item.celestisynth.test": {
+    "en": "SCROLL: %s",
+    "zh": "卷轴：%s",
+    "vi": "SCROLL: %s"
+  },
+  "item.celestisynth.scroll_notice": {
+    "en": "[Scroll to navigate through abilities]",
+    "zh": "[Ctrl切换页面] [滚轮浏览技能]",
+    "vi": "[Scroll to navigate through abilities]"
+  },
+  "item.celestisynth.passive_notice": {
+    "en": "PASSIVES",
+    "zh": "被动技能：",
+    "vi": "PASSIVES"
+  },
+  "item.celestisynth.skill_notice": {
+    "en": "SKILLS",
+    "zh": "主动技能：",
+    "vi": "SKILLS"
+  },
+  "item.celestisynth.celestial_tier": {
+    "en": "CELESTIAL GRADE",
+    "zh": "天神造物",
+    "vi": "CELESTIAL GRADE"
+  },
+  "item.celestisynth.starlit_fuel_amount": {
+    "en": "Starlit Fuel Amount: %s",
+    "zh": "星辉燃料量：%s",
+    "vi": "Starlit Fuel Amount: %s"
+  },
+  "item.celestisynth.solar_crystal_armor_bonus": {
+    "en": "When receiving damage, the armor burst out a circle of flame, dealing damage and burning surrounding targets. Each piece increases the damage of the burst and the duration of the fire.",
+    "zh": "在受到伤害时，盔甲会爆发出一圈火焰，对周围目标造成伤害并点燃它们。每件盔甲都会提升火焰爆发的伤害及燃烧持续时间。",
+    "vi": "When receiving damage, the armor burst out a circle of flame, dealing damage and burning surrounding targets. Each piece increases the damage of the burst and the duration of the fire."
+  },
+  "item.celestisynth.lunar_stone_armor_bonus": {
+    "en": "When the wearer is hurt, the armor has a 1/5 chance to significantly reduce the damage received. Each piece increases the damage reduction value.",
+    "zh": "当穿戴者受到伤害时，盔甲有 1/5 的几率大幅减免所受伤害。每件护甲都会提高伤害减免数值。",
+    "vi": "When the wearer is hurt, the armor has a 1/5 chance to significantly reduce the damage received. Each piece increases the damage reduction value."
+  },
+  "item.celestisynth.celestial_core": {
+    "en": "Celestial Core",
+    "zh": "天神核心",
+    "vi": "Celestial Core"
+  },
+  "item.celestisynth.celestial_core_heated": {
+    "en": "Heated Celestial Core",
+    "zh": "活跃的天神核心",
+    "vi": "Heated Celestial Core"
+  },
+  "item.celestisynth.supernal_netherite_ingot": {
+    "en": "Supernal Netherite Ingot",
+    "zh": "神圣的下界合金锭",
+    "vi": "Supernal Netherite Ingot"
+  },
+  "item.celestisynth.celestial_netherite_ingot": {
+    "en": "Celestial Netherite Ingot",
+    "zh": "天界合金锭",
+    "vi": "Celestial Netherite Ingot"
+  },
+  "item.celestisynth.lunar_scrap": {
+    "en": "Lunar Scrap",
+    "zh": "净月精华",
+    "vi": "Lunar Scrap"
+  },
+  "block.celestisynth.solar_crystal": {
+    "en": "Solar Crystal",
+    "zh": "日曜结晶",
+    "vi": "Solar Crystal"
+  },
+  "block.celestisynth.lunar_stone": {
+    "en": "Lunar Stone",
+    "zh": "月明净石",
+    "vi": "Lunar Stone"
+  },
+  "block.celestisynth.zephyr_deposit": {
+    "en": "Zephyr Deposit",
+    "zh": "风啸沉淀",
+    "vi": "Zephyr Deposit"
+  },
+  "item.celestisynth.eyebomination": {
+    "en": "Eyebomination",
+    "zh": "魔眼燃石",
+    "vi": "Eyebomination"
+  },
+  "item.celestisynth.starstruck_scrap": {
+    "en": "Starstruck Scrap",
+    "zh": "星耀残料",
+    "vi": "Starstruck Scrap"
+  },
+  "item.celestisynth.starstruck_feather": {
+    "en": "Starstruck Feather",
+    "zh": "星耀羽毛",
+    "vi": "Starstruck Feather"
+  },
+  "block.celestisynth.wintereis": {
+    "en": "Wintereis",
+    "zh": "冬霜冰晶",
+    "vi": "Wintereis"
+  },
+  "item.celestisynth.wintereis_shard": {
+    "en": "Wintereis Shard",
+    "zh": "冬霜冰晶碎片",
+    "vi": "Wintereis Shard"
+  },
+  "item.celestisynth.crimson_piece": {
+    "en": "Crimson Piece",
+    "zh": "绯红残片",
+    "vi": "Crimson Piece"
+  },
+  "item.celestisynth.traverser_spawn_egg": {
+    "en": "Traverser Spawn Egg",
+    "zh": "穿行者刷怪蛋",
+    "vi": "Traverser Spawn Egg"
+  },
+  "item.celestisynth.star_monolith": {
+    "en": "Blank Celestial Monolith",
+    "zh": "空白天神圣碑",
+    "vi": "Blank Celestial Monolith"
+  },
+  "item.celestisynth.star_monolith_blood": {
+    "en": "Blood Rune Celestial Monolith",
+    "zh": "血符文天神圣碑",
+    "vi": "Blood Rune Celestial Monolith"
+  },
+  "block.celestisynth.celestial_crafting_table": {
+    "en": "Celestial Workbench",
+    "zh": "天界工作台",
+    "vi": "Celestial Workbench"
+  },
+  "block.celestisynth.starlit_factory": {
+    "en": "Starlit Factory",
+    "zh": "星辉工厂",
+    "vi": "Starlit Factory"
+  },
+  "item.celestisynth.solar_crystal_helmet": {
+    "en": "Solar Crystal Helmet",
+    "zh": "日曜结晶头盔",
+    "vi": "Solar Crystal Helmet"
+  },
+  "item.celestisynth.solar_crystal_chestplate": {
+    "en": "Solar Crystal Chestplate",
+    "zh": "日曜结晶胸甲",
+    "vi": "Solar Crystal Chestplate"
+  },
+  "item.celestisynth.solar_crystal_leggings": {
+    "en": "Solar Crystal Leggings",
+    "zh": "日曜结晶护腿",
+    "vi": "Solar Crystal Leggings"
+  },
+  "item.celestisynth.solar_crystal_boots": {
+    "en": "Solar Crystal Boots",
+    "zh": "日曜结晶靴子",
+    "vi": "Solar Crystal Boots"
+  },
+  "item.celestisynth.lunar_stone_helmet": {
+    "en": "Lunar Stone Helmet",
+    "zh": "月明净石头盔",
+    "vi": "Lunar Stone Helmet"
+  },
+  "item.celestisynth.lunar_stone_chestplate": {
+    "en": "Lunar Stone Chestplate",
+    "zh": "月明净石胸甲",
+    "vi": "Lunar Stone Chestplate"
+  },
+  "item.celestisynth.lunar_stone_leggings": {
+    "en": "Lunar Stone Leggings",
+    "zh": "月明净石护腿",
+    "vi": "Lunar Stone Leggings"
+  },
+  "item.celestisynth.lunar_stone_boots": {
+    "en": "Lunar Stone Boots",
+    "zh": "月明净石靴子",
+    "vi": "Lunar Stone Boots"
+  },
+  "item.celestisynth.celestial_debugger": {
+    "en": "The SUPER DUPER Celestial Debugger",
+    "zh": "超级天神调试工具",
+    "vi": "The SUPER DUPER Celestial Debugger"
+  },
+  "item.celestisynth.celestial_spell_book": {
+    "en": "The Celestial Genesis",
+    "zh": "天神创世纪",
+    "vi": "The Celestial Genesis"
+  },
+  "container.celestisynth.starlit_factory": {
+    "en": "Starlit Factory",
+    "zh": "星辉工厂",
+    "vi": "Nhà máy Tinh Huy"
+  },
+  "tip.celestisynth.starlit_factory_0": {
+    "en": "Did you know? The Rainfall Serenity is enchantable with some crossbow enchantments like Multishot, Piercing, and Quick Charge?",
+    "zh": "你知道吗？谧静星落可以附上弩的附魔，例如多重射击、穿透和快速装填。",
+    "vi": "Bạn có biết không? Silent Starfall có thể được trang bị bùa mê nỏ như Multishot, Penetration và Quick Reload."
+  },
+  "tip.celestisynth.starlit_factory_1": {
+    "en": "The Poltergeist is one extremely powerful heavy hitter, you just gotta use it right!",
+    "zh": "巨斧嚎鬼威力无穷，运用得当方显神威！",
+    "vi": "Sức mạnh của chiếc rìu khổng lồ Howling Ghost là vô hạn và nó chỉ có thể phát huy sức mạnh khi được sử dụng đúng cách!"
+  },
+  "tip.celestisynth.starlit_factory_2": {
+    "en": "Blood Monoliths naturally spawn on nether fortresses, so watch out for Traversers! They're quick, cautious, and versatile!",
+    "zh": "血符文天神圣碑自然生成在下界要塞之中，因此需要当心穿行者！它们迅捷、警觉且技能多样！",
+    "vi": "Di tích thiên thể Blood Rune được tạo ra một cách tự nhiên trong các pháo đài địa ngục, vì vậy hãy cẩn thận với những người đi qua chúng! Họ nhanh nhẹn, cảnh giác và có nhiều kỹ năng!"
+  },
+  "tip.celestisynth.starlit_factory_3": {
+    "en": "Have you ever wondered what a PvP would look like with these weapons? Well, I do.",
+    "zh": "你有没有想象过在 PvP 当中使用这些武器会是什么样子？嗯，我想过。",
+    "vi": "Bạn đã bao giờ tưởng tượng sẽ như thế nào khi sử dụng những vũ khí này trong PvP chưa? Vâng, tôi đã nghĩ về nó."
+  },
+  "tip.celestisynth.starlit_factory_4": {
+    "en": "The Keres is the most destructive weapon in the mod, use it with caution!",
+    "zh": "冥魇是该模组中最具破坏力的武器，请谨慎使用！",
+    "vi": "Ác mộng là vũ khí có sức tàn phá mạnh nhất trong Mod này, vui lòng sử dụng nó một cách thận trọng!"
+  },
+  "effect.celestisynth.hellbane": {
+    "en": "Hell Bane",
+    "zh": "地狱克星",
+    "vi": "kẻ phá hoại địa ngục"
+  },
+  "effect.celestisynth.hellbane.description": {
+    "en": "Increases any regeneration effects affecting the entity",
+    "zh": "增强实体的生命恢复效果",
+    "vi": "Tăng cường hiệu quả phục hồi sức khỏe của các thực thể"
+  },
+  "effect.celestisynth.cursebane": {
+    "en": "Curse Bane",
+    "zh": "诅咒克星",
+    "vi": "kẻ thù nguyền rủa"
+  },
+  "effect.celestisynth.cursebane.description": {
+    "en": "Decreases any regeneration effects affecting the entity",
+    "zh": "削弱实体的生命恢复效果",
+    "vi": "Giảm hiệu quả phục hồi sức khỏe của các thực thể"
+  },
+  "enchantment.celestisynth.pulsation": {
+    "en": "Pulsation",
+    "zh": "脉动涌流",
+    "vi": "dòng điện xung"
+  },
+  "commands.celestisynth.clear_animation": {
+    "en": "Animation cleared successfully",
+    "zh": "动画清除成功",
+    "vi": "Đã xóa hoạt ảnh thành công"
+  },
+  "death.attack.basic_player_attack": {
+    "en": "%s was slain by %s.",
+    "zh": "%s被%s杀死了。",
+    "vi": "%s đã bị %s giết chết."
+  },
+  "death.attack.rapid_player_attack": {
+    "en": "%s was damaged by %s repeatedly until death.",
+    "zh": "%s被%s反复折磨至死。",
+    "vi": "%s liên tục bị %s tra tấn đến chết."
+  },
+  "death.attack.basic_player_attack_nokb": {
+    "en": "%s was slain by %s.",
+    "zh": "%s被%s杀死了。",
+    "vi": "%s đã bị %s giết chết."
+  },
+  "death.attack.rapid_player_attack_nokb": {
+    "en": "%s was damaged by %s repeatedly until death.",
+    "zh": "%s被%s反复折磨至死。",
+    "vi": "%s liên tục bị %s tra tấn đến chết."
+  },
+  "death.attack.erasure": {
+    "en": "%s has been completely eradicated by %s.",
+    "zh": "%s被%s完全抹除了。",
+    "vi": "%s đã bị %s xóa hoàn toàn."
+  },
+  "death.attack.pulsation": {
+    "en": "%s gave %s a massive flash of power.",
+    "zh": "%s给予%s澎湃的能量。",
+    "vi": "%s mang lại năng lượng dâng trào cho %s."
+  },
+  "------------------- SOLARIS ------------------": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "item.celestisynth.solaris": {
+    "en": "Solaris",
+    "zh": "炎日",
+    "vi": "Solaris"
+  },
+  "advancement.celestisynth.obtain_solaris.title": {
+    "en": "A Million Degrees Above",
+    "zh": "炎至百万度",
+    "vi": "Viêm đến một triệu độ"
+  },
+  "advancement.celestisynth.obtain_solaris.description": {
+    "en": "Obtain the Solaris",
+    "zh": "获得炎日",
+    "vi": "đón nắng nóng"
+  },
+  "item.celestisynth.solaris.passive_1": {
+    "en": "Ember's Blessing",
+    "zh": "余烬之祝",
+    "vi": "Ember's Blessing"
+  },
+  "item.celestisynth.solaris.passive_desc_1": {
+    "en": "The player gains fire immunity while holding the item - normal attacks with this item sets the target on fire for a few seconds.",
+    "zh": "使用者在手持此武器时免疫火焰 - 普通攻击会使攻击对象着火。",
+    "vi": "The player gains fire immunity while holding the item - normal attacks with this item sets the target on fire for a few seconds."
+  },
+  "item.celestisynth.solaris.passive_2": {
+    "en": "Solar Bomb Formation",
+    "zh": "曜辉天陨",
+    "vi": "Solar Bomb Formation"
+  },
+  "item.celestisynth.solaris.passive_desc_2": {
+    "en": "When holding the right-button with the Solaris, the player can summon up to 5 solar bombs that will circle around them. Hurting a target redirects a solar bomb to them.",
+    "zh": "手持炎日并长按右键时，使用者可召唤最多五颗日耀炸弹环绕自身。攻击目标时，一颗日耀炸弹会同时飞向该目标。",
+    "vi": "When holding the right-button with the Solaris, the player can summon up to 5 solar bombs that will circle around them. Hurting a target redirects a solar bomb to them."
+  },
+  "item.celestisynth.solaris.skill_1": {
+    "en": "Spinning Flames - Full Round",
+    "zh": "烈焰圆舞 - 红镜之圆",
+    "vi": "Spinning Flames - Full Round"
+  },
+  "item.celestisynth.solaris.condition_1": {
+    "en": "Activate: Right-click",
+    "zh": "激活按键：%2$s || 1层充能",
+    "vi": "Activate: Right-click"
+  },
+  "item.celestisynth.solaris.desc_1": {
+    "en": "Perform a graceful spin, inflicting damage and burning nearby entities.",
+    "zh": "使出优雅的回旋斩击，造成伤害的同时点燃周围实体。",
+    "vi": "Sử dụng một nhát chém xoáy thanh lịch, gây sát thương đồng thời đốt cháy các thực thể xung quanh."
+  },
+  "item.celestisynth.solaris.skill_2": {
+    "en": "Spinning Flames - Soul Straight Dash",
+    "zh": "烈焰圆舞 - 灼骨直照",
+    "vi": "Spinning Flames - Soul Straight Dash"
+  },
+  "item.celestisynth.solaris.condition_2": {
+    "en": "Activate: Right-click while holding SHIFT",
+    "zh": "激活按键：%1$s || 1层充能",
+    "vi": "Activate: Right-click while holding SHIFT"
+  },
+  "item.celestisynth.solaris.desc_2": {
+    "en": "Dash forward, striking and temporarily igniting entities in your path.",
+    "zh": "向前冲刺，撞击并暂时引燃其路径上的实体。",
+    "vi": "Lao về phía trước, tấn công và đốt cháy tạm thời các thực thể trên đường đi của nó."
+  },
+  "chant.celestisynth.solaris": {
+    "en": "A soul that is the sun itself.",
+    "zh": "魂即炽阳。",
+    "vi": "Tâm hồn là mặt trời rực sáng."
+  },
+  "chant.celestisynth.solaris1": {
+    "en": "Full Spin.",
+    "zh": "烈日疾旋。",
+    "vi": "Mặt trời thiêu đốt đang quay nhanh."
+  },
+  "chant.celestisynth.solaris2": {
+    "en": "An unbreakable spirit.",
+    "zh": "神魄不摧。",
+    "vi": "Linh hồn là không thể phá hủy."
+  },
+  "chant.celestisynth.solaris3": {
+    "en": "Soul Pursuit.",
+    "zh": "追魂摄魄。",
+    "vi": "Truy đuổi linh hồn và bắt giữ linh hồn."
+  },
+  "------------------- CRESCENTIA ------------------": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "item.celestisynth.crescentia": {
+    "en": "Crescentia",
+    "zh": "初月",
+    "vi": "Crescentia"
+  },
+  "advancement.celestisynth.obtain_crescentia.title": {
+    "en": "Beautiful Fireworks",
+    "zh": "绮丽之烟火",
+    "vi": "Pháo hoa đẹp"
+  },
+  "advancement.celestisynth.obtain_crescentia.description": {
+    "en": "Obtain the Crescentia",
+    "zh": "获得初月",
+    "vi": "Nhận tháng đầu tiên"
+  },
+  "item.celestisynth.crescentia.passive_1": {
+    "en": "Heavy-Hitter",
+    "zh": "引力重击",
+    "vi": "Heavy-Hitter"
+  },
+  "item.celestisynth.crescentia.passive_desc_1": {
+    "en": "The player gains a level of damage resistance while holding the item - normal attacks with this item slows down the target for a few seconds.",
+    "zh": "使用者在手持此武器时获得一级抗性提升 - 普通攻击会使攻击对象减速几秒。",
+    "vi": "The player gains a level of damage resistance while holding the item - normal attacks with this item slows down the target for a few seconds."
+  },
+  "item.celestisynth.crescentia.skill_1": {
+    "en": "Lunar Celebration Barrage",
+    "zh": "月庆之幕",
+    "vi": "Lunar Celebration Barrage"
+  },
+  "item.celestisynth.crescentia.condition_1": {
+    "en": "Activate: Right-click",
+    "zh": "激活按键：%2$s || 2层充能",
+    "vi": "Activate: Right-click"
+  },
+  "item.celestisynth.crescentia.desc_1": {
+    "en": "Unleash a dazzling barrage of strikes on nearby entities, accompanied by a mesmerizing firework display.",
+    "zh": "对周围实体释放绚丽的弹幕攻击，伴随着迷人的烟花展。",
+    "vi": "Giải phóng một cuộc tấn công dồn dập rực rỡ vào các thực thể xung quanh, kèm theo màn bắn pháo hoa đầy mê hoặc."
+  },
+  "item.celestisynth.crescentia.skill_2": {
+    "en": "Eye of the Dragon",
+    "zh": "新月龙吟",
+    "vi": "Eye of the Dragon"
+  },
+  "item.celestisynth.crescentia.condition_2": {
+    "en": "Activate: Right-click while holding SHIFT",
+    "zh": "激活按键：%1$s || 1层充能",
+    "vi": "Activate: Right-click while holding SHIFT"
+  },
+  "item.celestisynth.crescentia.desc_2": {
+    "en": "Unleash a set of dragon-like projectiles, dragging enemies along with it whilst continuously slashing them.",
+    "zh": "释放一组龙形飞弹，拖拽敌人并对其进行连续斩击。",
+    "vi": "Phóng ra một nhóm tên lửa hình rồng, kéo kẻ địch và chém chúng liên tục."
+  },
+  "chant.celestisynth.crescentia": {
+    "en": "The sparks of destiny.",
+    "zh": "命运星火。",
+    "vi": "Tia sáng định mệnh."
+  },
+  "chant.celestisynth.crescentia1": {
+    "en": "The festival of fates.",
+    "zh": "天命之庆。",
+    "vi": "Lễ mừng định mệnh."
+  },
+  "chant.celestisynth.crescentia2": {
+    "en": "Dragons of the moon.",
+    "zh": "苍龙御月。",
+    "vi": "Thương Long Ngọc Nguyệt."
+  },
+  "chant.celestisynth.crescentia3": {
+    "en": "I call forth thee.",
+    "zh": "应召而来。",
+    "vi": "Đã đến cuộc gọi."
+  },
+  "------------------- BREEZEBREAKER ------------------": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "item.celestisynth.breezebreaker": {
+    "en": "Breezebreaker",
+    "zh": "肆风",
+    "vi": "Breezebreaker"
+  },
+  "advancement.celestisynth.obtain_breezebreaker.title": {
+    "en": "Swift and Sound",
+    "zh": "迅疾而声厉",
+    "vi": "Nhanh và ồn ào"
+  },
+  "advancement.celestisynth.obtain_breezebreaker.description": {
+    "en": "Obtain the Breezebreaker",
+    "zh": "获得肆风",
+    "vi": "đón gió"
+  },
+  "item.celestisynth.breezebreaker.passive_1": {
+    "en": "Agile",
+    "zh": "迅敏之风",
+    "vi": "Agile"
+  },
+  "item.celestisynth.breezebreaker.passive_desc_1": {
+    "en": "The player gains a huge jump boost and fall damage immunity while holding the item, but takes 2.3x damage from all the other damage sources.",
+    "zh": "使用者在手持此武器时得到强力的跳跃提升并免疫摔落伤害，然而来自其它攻击源的伤害增至原来的 2.3 倍。",
+    "vi": "The player gains a huge jump boost and fall damage immunity while holding the item, but takes 2.3x damage from all the other damage sources."
+  },
+  "item.celestisynth.breezebreaker.passive_2": {
+    "en": "Benevolent Soul",
+    "zh": "善息之灵",
+    "vi": "Benevolent Soul"
+  },
+  "item.celestisynth.breezebreaker.passive_desc_2": {
+    "en": "Every 15 skill casts activate or deactivate this passive. While active, the player gains a speed boost and reduces skill cooldowns by half. The effect wears off after 8 seconds.",
+    "zh": "每放出 15 次主动技能都会激活或禁用此项被动。激活状态下，使用者将获得速度提升，且技能冷却时间减半。此效果会在 8 秒钟后消失。",
+    "vi": "Every 15 skill casts activate or deactivate this passive. While active, the player gains a speed boost and reduces skill cooldowns by half. The effect wears off after 8 seconds."
+  },
+  "item.celestisynth.breezebreaker.skill_1": {
+    "en": "Galestorm",
+    "zh": "暴风之袭",
+    "vi": "Galestorm"
+  },
+  "item.celestisynth.breezebreaker.condition_1": {
+    "en": "Activate: Right-click",
+    "zh": "激活方式：攻击附带",
+    "vi": "Activate: Right-click"
+  },
+  "item.celestisynth.breezebreaker.desc_1": {
+    "en": "Unleashes a powerful wind slash that inflicts tremendous damage upon impact.",
+    "zh": "释放强大的风力斩击，通过冲袭造成惊人的伤害。",
+    "vi": "Giải phóng những luồng gió mạnh mẽ, gây sát thương đáng kinh ngạc khi va chạm."
+  },
+  "item.celestisynth.breezebreaker.skill_2": {
+    "en": "Dual Galestorm",
+    "zh": "暴风双袭",
+    "vi": "Dual Galestorm"
+  },
+  "item.celestisynth.breezebreaker.condition_2": {
+    "en": "Activate: Hold Right-click for 0.5 or more seconds",
+    "zh": "激活按键：%2$s || 2层充能",
+    "vi": "Activate: Hold Right-click for 0.5 or more seconds"
+  },
+  "item.celestisynth.breezebreaker.desc_2": {
+    "en": "Executes Galestorm twice consecutively, overwhelming foes with a relentless onslaught of wind slashes.",
+    "zh": "连续放出两次暴风之袭，用无情肆虐的狂风席卷敌人。",
+    "vi": "Tung ra hai đòn bão liên tiếp, càn quét kẻ thù bằng những cơn gió tàn nhẫn và cuồng nộ."
+  },
+  "item.celestisynth.breezebreaker.skill_3": {
+    "en": "Full-Force Whirlwind Extravagance",
+    "zh": "激厉旋风",
+    "vi": "Full-Force Whirlwind Extravagance"
+  },
+  "item.celestisynth.breezebreaker.condition_3": {
+    "en": "Activate: Right-click while holding SHIFT",
+    "zh": "激活按键：%1$s || 4层充能",
+    "vi": "Activate: Right-click while holding SHIFT"
+  },
+  "item.celestisynth.breezebreaker.desc_3": {
+    "en": "Summons a destructive tornado that slices through any entities unfortunate enough to cross its path.",
+    "zh": "召唤毁灭性的龙卷风，撕碎其路径上未能侥幸逃出的一切实体。",
+    "vi": "Triệu hồi một cơn lốc xoáy hủy diệt xé nát bất cứ thứ gì trên đường đi của nó và không thể sống sót."
+  },
+  "item.celestisynth.breezebreaker.skill_4": {
+    "en": "Roar of the Wind",
+    "zh": "劲风怒号",
+    "vi": "Roar of the Wind"
+  },
+  "item.celestisynth.breezebreaker.condition_4": {
+    "en": "Activate: Right-click while sprinting",
+    "zh": "激活方式：冲刺攻击 || 1层充能",
+    "vi": "Activate: Right-click while sprinting"
+  },
+  "item.celestisynth.breezebreaker.desc_4": {
+    "en": "Swiftly dashes forward, inflicting massive damage to the first entity it encounters along the way.",
+    "zh": "迅速向前冲刺，对遇到的第一个实体造成巨量伤害。",
+    "vi": "Nhanh chóng lao về phía trước, gây sát thương lớn lên thực thể đầu tiên gặp phải."
+  },
+  "item.celestisynth.breezebreaker.skill_5": {
+    "en": "Zephyr's Death Wheel",
+    "zh": "疾落死轮",
+    "vi": "Zephyr's Death Wheel"
+  },
+  "item.celestisynth.breezebreaker.condition_5": {
+    "en": "Activate: Right-click while in mid-air",
+    "zh": "激活方式：跳跃攻击 || 1层充能",
+    "vi": "Activate: Right-click while in mid-air"
+  },
+  "item.celestisynth.breezebreaker.desc_5": {
+    "en": "Creates a towering vertical wheel of wind around the player, obliterating nearby entities with its devastating force.",
+    "zh": "在使用者周围产生竖直的强力风轮，通过其骇人的力量抹除周围的实体。",
+    "vi": "Một bánh xe gió thẳng đứng mạnh mẽ được tạo ra xung quanh người dùng, xóa sổ các thực thể xung quanh bằng sức mạnh khủng khiếp của nó."
+  },
+  "------------------- POLTERGEIST ------------------": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "item.celestisynth.poltergeist": {
+    "en": "Poltergeist",
+    "zh": "嚎鬼",
+    "vi": "Poltergeist"
+  },
+  "advancement.celestisynth.obtain_poltergeist.title": {
+    "en": "A Haunted Axe",
+    "zh": "鬼啸神嚎之斧",
+    "vi": "Rìu hú của ma và thần"
+  },
+  "advancement.celestisynth.obtain_poltergeist.description": {
+    "en": "Obtain the Poltergeist",
+    "zh": "获得嚎鬼",
+    "vi": "Nhận ma hú"
+  },
+  "item.celestisynth.poltergeist.passive_1": {
+    "en": "Phantom Tag",
+    "zh": "恶鬼凝视",
+    "vi": "Phantom Tag"
+  },
+  "item.celestisynth.poltergeist.passive_desc_1": {
+    "en": "All skills of this weapon tags every affected entity with a Phantom Tag. Slain foes with the tag become monstrous Aberrants that draw in nearby entities for 5 seconds.",
+    "zh": "恶鬼会凝视所有被这把武器技能伤害的敌人，杀死被恶鬼凝视的敌人则会召唤多目恶鬼，在 5 秒内持续吸引附近的敌人。",
+    "vi": "All skills of this weapon tags every affected entity with a Phantom Tag. Slain foes with the tag become monstrous Aberrants that draw in nearby entities for 5 seconds."
+  },
+  "item.celestisynth.poltergeist.skill_1": {
+    "en": "Cosmic Steel Annihilation",
+    "zh": "炼狱湮灭",
+    "vi": "Cosmic Steel Annihilation"
+  },
+  "item.celestisynth.poltergeist.condition_1": {
+    "en": "Activate: Right-click",
+    "zh": "激活按键：%2$s || 1层充能",
+    "vi": "Activate: Right-click"
+  },
+  "item.celestisynth.poltergeist.desc_1": {
+    "en": "Executes a smash to the ground, dealing massive burst damage on surrounding entities. After 10 consecutive strikes, the weapon enables it's \"Aberrant Form\", allowing the next strike to enlarge and mutate a sucking aberrant from the ground. Killing an entity during \"Aberrant Form\" or jumping midair while striking instantly resets the cooldown of this ability.",
+    "zh": "进行一次湮灭重击，对范围内敌人造成巨大伤害。在使用十次炼狱湮灭后会睁开鬼眼，强化下次湮灭，并直接召唤出恶鬼。在鬼眼睁开之时击杀实体或在空中时使用攻击，会重置此技能冷却。",
+    "vi": "Thực hiện Đòn hủy diệt, gây sát thương lớn cho kẻ địch trong phạm vi. Sau khi sử dụng Luyện Ngục Tiêu Diệt mười lần, quỷ nhãn sẽ mở ra, cường hóa lần tiêu diệt tiếp theo, trực tiếp triệu hoán tà ác. Giết một thực thể khi Mắt Ma đang mở hoặc sử dụng đòn tấn công khi đang ở trên không sẽ thiết lập lại thời gian hồi chiêu của kỹ năng này."
+  },
+  "item.celestisynth.poltergeist.skill_2": {
+    "en": "Barrier Call",
+    "zh": "生者勿近",
+    "vi": "Barrier Call"
+  },
+  "item.celestisynth.poltergeist.condition_2": {
+    "en": "Activate: Right-click while holding SHIFT",
+    "zh": "激活按键：%1$s || 1层充能",
+    "vi": "Activate: Right-click while holding SHIFT"
+  },
+  "item.celestisynth.poltergeist.desc_2": {
+    "en": "Creates a protective barrier capable of shattering any incoming projectiles while forcefully propelling the player backwards.",
+    "zh": "向后闪避，并制造一个能够阻挡弹射物的炼狱屏障。",
+    "vi": "Lùi về phía sau và tạo ra một hàng rào địa ngục chặn đạn."
+  },
+  "------------------- AQUAFLORA ------------------": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "item.celestisynth.aquaflora": {
+    "en": "Aquaflora",
+    "zh": "莲华",
+    "vi": "Aquaflora"
+  },
+  "advancement.celestisynth.obtain_aquaflora.title": {
+    "en": "When the flowers bloom that day",
+    "zh": "待那花开之日",
+    "vi": "Chờ ngày hoa nở"
+  },
+  "advancement.celestisynth.obtain_aquaflora.description": {
+    "en": "Obtain the Aquaflora",
+    "zh": "获得莲华",
+    "vi": "lấy hoa sen"
+  },
+  "item.celestisynth.aquaflora.passive_1": {
+    "en": "Swipethrough",
+    "zh": "疾行之华",
+    "vi": "Swipethrough"
+  },
+  "item.celestisynth.aquaflora.passive_desc_1": {
+    "en": "Every skill cast gives 3 seconds of speed to the caster.",
+    "zh": "每次释放技能后，获得 3 秒的速度效果。",
+    "vi": "Every skill cast gives 3 seconds of speed to the caster."
+  },
+  "item.celestisynth.aquaflora.skill_1": {
+    "en": "Petal Pierces",
+    "zh": "乱花葬",
+    "vi": "Petal Pierces"
+  },
+  "item.celestisynth.aquaflora.condition_1": {
+    "en": "Activate: Right-click",
+    "zh": "激活按键：%2$s || 1层充能",
+    "vi": "Activate: Right-click"
+  },
+  "item.celestisynth.aquaflora.desc_1": {
+    "en": "Launches a series of attacks capable of penetrating a row of entities.",
+    "zh": "能够穿透前方一排实体进行狂风骤雨般的刺击。",
+    "vi": "Có khả năng xuyên thủng một hàng thực thể phía trước và thực hiện đòn tấn công đâm bạo lực."
+  },
+  "item.celestisynth.aquaflora.skill_2": {
+    "en": "Blasting Off Together",
+    "zh": "回天璇",
+    "vi": "Blasting Off Together"
+  },
+  "item.celestisynth.aquaflora.condition_2": {
+    "en": "Activate: Right-click while holding SHIFT",
+    "zh": "激活按键：%1$s || 1层充能",
+    "vi": "Activate: Right-click while holding SHIFT"
+  },
+  "item.celestisynth.aquaflora.desc_2": {
+    "en": "Uses a head-butt against a group of entities, pushing them away and inflicting significant damage. Activating this ability initiates the Blooming State, altering the weapon's skill set.",
+    "zh": "伤害并推开前方所有实体。使用此技能会使莲华绽放，进入极诣姿态。",
+    "vi": "Gây sát thương và đẩy lùi tất cả các thực thể trước mặt bạn. Sử dụng kỹ năng này sẽ khiến hoa sen nở rộ và tiến vào tư thế tối thượng."
+  },
+  "item.celestisynth.aquaflora.skill_3": {
+    "en": "Exorbitant Slashing Frenzy",
+    "zh": "镜花水月",
+    "vi": "Exorbitant Slashing Frenzy"
+  },
+  "item.celestisynth.aquaflora.condition_3": {
+    "en": "Activate: Right-click during Blooming State",
+    "zh": "激活方式：极诣姿态 || %2$s || 3层充能",
+    "vi": "Activate: Right-click during Blooming State"
+  },
+  "item.celestisynth.aquaflora.desc_3": {
+    "en": "During the execution of this skill, the player becomes immune to damage while delivering up to 20 individual attacks on entities within range. Dual wielding the same weapon enables the player to perform up to 40+ attacks, albeit with decreased damage.",
+    "zh": "对范围内实体进行最多 20 次伤害，双持此武器会使次数最多增加到 40+ 次，但伤害有所降低。使用镜花水月人物会免疫伤害。",
+    "vi": "Gây tối đa 20 sát thương cho các thực thể trong phạm vi, sử dụng vũ khí kép tăng mức này lên 40+ với mức sát thương giảm. Nhân vật sử dụng Mirror Flowers và Water Moon sẽ miễn nhiễm sát thương."
+  },
+  "item.celestisynth.aquaflora.skill_3.notice": {
+    "en": "Unable to locate nearby entities.",
+    "zh": "无法定位到附近的实体。",
+    "vi": "Unable to locate nearby entities."
+  },
+  "item.celestisynth.aquaflora.skill_4": {
+    "en": "Flowers Away",
+    "zh": "花舞游龙击",
+    "vi": "Flowers Away"
+  },
+  "item.celestisynth.aquaflora.condition_4": {
+    "en": "Activate: Right-click while holding SHIFT during Blooming State",
+    "zh": "激活方式：极诣姿态 || %1$s || 1层充能",
+    "vi": "Activate: Right-click while holding SHIFT during Blooming State"
+  },
+  "item.celestisynth.aquaflora.desc_4": {
+    "en": "The player executes a backward dash, leaving a floral effect that draws nearby entities toward it. This ability deactivates the Blooming State, resulting in a modification of the weapon's skill set.",
+    "zh": "向后闪避，在原地留下一个吸引附近实体的莲花。使用该技能会退出极诣姿态，回归莲华初始姿态。",
+    "vi": "Lùi về phía sau, để lại một bông hoa sen ở vị trí thu hút các thực thể ở gần. Sử dụng kỹ năng này sẽ thoát khỏi tư thế tối thượng và trở về tư thế hoa sen ban đầu."
+  },
+  "------------------- RAINFALL_SERENITY ------------------": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "item.celestisynth.rainfall_serenity": {
+    "en": "Rainfall Serenity",
+    "zh": "谧静星落",
+    "vi": "Rainfall Serenity"
+  },
+  "advancement.celestisynth.obtain_rainfall_serenity.title": {
+    "en": "Beyond the Earth's Atmosphere",
+    "zh": "破越地球大气",
+    "vi": "Phá vỡ bầu khí quyển của Trái đất"
+  },
+  "advancement.celestisynth.obtain_rainfall_serenity.description": {
+    "en": "Obtain the Rainfall Serenity",
+    "zh": "获得谧静星落",
+    "vi": "Có được sự sụp đổ im lặng"
+  },
+  "item.celestisynth.rainfall_serenity.skill_1": {
+    "en": "Eons, and Eons Through the Sky",
+    "zh": "穿越天际，亘古长存",
+    "vi": "Eons, and Eons Through the Sky"
+  },
+  "item.celestisynth.rainfall_serenity.condition_1": {
+    "en": "Activate: Fully charged bow",
+    "zh": "激活方式：拉满弓",
+    "vi": "Activate: Fully charged bow"
+  },
+  "item.celestisynth.rainfall_serenity.desc_1": {
+    "en": "When the bow is released, it emits a laser that can pierce through every entity, marking each with a \"Quasar Mark\" for 5 seconds. This mark can trigger nearby entities to shoot lasers at the marked target.",
+    "zh": "弓释放时发射出一道可穿透所有实体的激光，并为每个敌人打上持续 5 秒的“类星标记”。这个标记会使附近的实体向被标记的目标发射激光。",
+    "vi": "Khi được thả ra, chiếc cung sẽ bắn ra một tia laze xuyên qua tất cả các thực thể và đánh dấu mỗi kẻ thù bằng \"Dấu sao\" tồn tại trong 5 giây. Dấu hiệu này khiến các thực thể ở gần bắn tia laze vào mục tiêu được đánh dấu."
+  },
+  "item.celestisynth.rainfall_serenity.skill_2": {
+    "en": "Quasar Rainfall",
+    "zh": "类星雨落",
+    "vi": "Quasar Rainfall"
+  },
+  "item.celestisynth.rainfall_serenity.condition_2": {
+    "en": "Activate: Hit Entity with weapon",
+    "zh": "激活方式：使用武器击中实体",
+    "vi": "Activate: Hit Entity with weapon"
+  },
+  "item.celestisynth.rainfall_serenity.desc_2": {
+    "en": "When the laser strikes a target with a \"Quasar Mark\", a portal spawns above and lasers will rain down around the target.",
+    "zh": "当激光命中带有“类星标记”的目标时，会在其上方生成一个传送门，并从周围降下激光雨。",
+    "vi": "Khi tia laser bắn trúng mục tiêu có \"dấu giống ngôi sao\", một cánh cổng sẽ được tạo ra phía trên mục tiêu và mưa tia laser rơi xuống từ xung quanh nó."
+  },
+  "item.celestisynth.rainfall_serenity.skill_3": {
+    "en": "True Serenity",
+    "zh": "宁静真义",
+    "vi": "True Serenity"
+  },
+  "item.celestisynth.rainfall_serenity.condition_3": {
+    "en": "Activate: Right-click while holding SHIFT",
+    "zh": "激活方式：按住 SHIFT 并右键单击",
+    "vi": "Activate: Right-click while holding SHIFT"
+  },
+  "item.celestisynth.rainfall_serenity.desc_3": {
+    "en": "Increases speed massively and activates \"True Invisibility\" for 5 seconds.",
+    "zh": "大幅提升移动速度，并激活持续 5 秒的“隐身真义”。",
+    "vi": "Tăng đáng kể tốc độ di chuyển và kích hoạt Tàng hình trong 5 giây."
+  },
+  "item.celestisynth.rainfall_serenity.skill_4": {
+    "en": "Deployment",
+    "zh": "星渊机关",
+    "vi": "Deployment"
+  },
+  "item.celestisynth.rainfall_serenity.condition_4": {
+    "en": "Activate: Drop item on solid platform",
+    "zh": "激活方式：将武器丢弃到地面上",
+    "vi": "Activate: Drop item on solid platform"
+  },
+  "item.celestisynth.rainfall_serenity.desc_4": {
+    "en": "Dropping this item on to a solid platform transforms this weapon into a turret that shoots anything nearby.",
+    "zh": "将该武器丢弃到地面上后，武器将化作炮台，自动锁定并攻击周围敌对目标。下蹲右键拾起炮台。",
+    "vi": "Sau khi thả vũ khí xuống đất, vũ khí sẽ biến thành tháp pháo, tự động khóa và tấn công các mục tiêu thù địch xung quanh. Cúi người và nhấp chuột phải để nhặt tháp pháo."
+  },
+  "------------------- FROSTBOUND ------------------": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "item.celestisynth.frostbound": {
+    "en": "Frostbound",
+    "zh": "霜缚",
+    "vi": "Frostbound"
+  },
+  "advancement.celestisynth.obtain_frostbound.title": {
+    "en": "The Treasure of Boreas",
+    "zh": "寒霜北境秘宝",
+    "vi": "Kho báu bí mật phương Bắc băng giá"
+  },
+  "advancement.celestisynth.obtain_frostbound.description": {
+    "en": "Obtain the Frostbound",
+    "zh": "获得霜缚",
+    "vi": "Nhận Frostbind"
+  },
+  "item.celestisynth.frostbound.passive_1": {
+    "en": "Whispering Cold",
+    "zh": "寒霜低语",
+    "vi": "Whispering Cold"
+  },
+  "item.celestisynth.frostbound.passive_desc_1": {
+    "en": "Inflicting harm upon a target using this weapon induces a frostbound condition, significantly diminishing their strength and reducing their speed.",
+    "zh": "使用该武器攻击目标时，会对目标施加霜缚状态，大幅削弱目标的力量并降低其速度。",
+    "vi": "Inflicting harm upon a target using this weapon induces a frostbound condition, significantly diminishing their strength and reducing their speed."
+  },
+  "item.celestisynth.frostbound.passive_2": {
+    "en": "Icicle Array",
+    "zh": "寒霜冰列",
+    "vi": "Icicle Array"
+  },
+  "item.celestisynth.frostbound.passive_desc_2": {
+    "en": "When holding the right-button with the Frostbound, the weapon consumes Frostbound Shards and shoots them out towards nearby random entities, freezing them for a few seconds.",
+    "zh": "手持霜缚时按住右键，武器将消耗霜缚碎片并向附近随机实体发射，短暂冰冻目标。",
+    "vi": "When holding the right-button with the Frostbound, the weapon consumes Frostbound Shards and shoots them out towards nearby random entities, freezing them for a few seconds."
+  },
+  "item.celestisynth.frostbound.skill_1": {
+    "en": "Dance of the Seven-Thousand Snowflakes",
+    "zh": "七千雪舞",
+    "vi": "Dance of the Seven-Thousand Snowflakes"
+  },
+  "item.celestisynth.frostbound.condition_1": {
+    "en": "Activate: Right-click",
+    "zh": "激活按键：%2$s || 1层充能",
+    "vi": "Activate: Right-click"
+  },
+  "item.celestisynth.frostbound.desc_1": {
+    "en": "Executes a rhythmic movement sequence that inflicts damage on nearby entities multiple times, afflicting them with a frostbound effect.",
+    "zh": "执行一段节奏感十足的动作序列，对附近实体造成多次伤害并施加霜缚效果。",
+    "vi": "Thực hiện một chuỗi hành động nhịp nhàng, gây nhiều sát thương và áp dụng Frostbinding cho các thực thể ở gần."
+  },
+  "item.celestisynth.frostbound.skill_2": {
+    "en": "Calamity Frost Cast",
+    "zh": "寒霜绝唱",
+    "vi": "Calamity Frost Cast"
+  },
+  "item.celestisynth.frostbound.condition_2": {
+    "en": "Activate: Right-click while holding SHIFT",
+    "zh": "激活按键：%1$s || 1层充能",
+    "vi": "Activate: Right-click while holding SHIFT"
+  },
+  "item.celestisynth.frostbound.desc_2": {
+    "en": "Calls forth a maximum of five sizable ice formations in front of the caster, causing damage to entities and bestowing upon them a frostbound effect.",
+    "zh": "在施法者前方召唤最多五个巨大的冰柱，对目标造成伤害并施加霜缚效果。",
+    "vi": "Triệu hồi tối đa năm cột băng khổng lồ về phía trước người thi triển, gây sát thương và đóng băng mục tiêu."
+  },
+  "------------------- KERES ------------------": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "item.celestisynth.keres": {
+    "en": "Keres",
+    "zh": "冥魇",
+    "vi": "Keres"
+  },
+  "advancement.celestisynth.obtain_keres.title": {
+    "en": "The Ultimate Demonic Pact",
+    "zh": "至高恶魔誓约",
+    "vi": "Lời thề ma quỷ tối cao"
+  },
+  "advancement.celestisynth.obtain_keres.description": {
+    "en": "Obtain the Keres",
+    "zh": "获得冥魇",
+    "vi": "Nhận được cơn ác mộng"
+  },
+  "item.celestisynth.keres.passive_1": {
+    "en": "Hellbane Sequence",
+    "zh": "地狱连斩",
+    "vi": "Hellbane Sequence"
+  },
+  "item.celestisynth.keres.passive_desc_1": {
+    "en": "After consecutively attacking targets 5 times in a row, the holder activates a Hellbane state - which increases the Keres' lifesteal and repeatedly ejects homing shadow projectiles towards nearby enemies.",
+    "zh": "连续攻击目标 5 次后，使用者获得地狱克星效果 - 增加冥魇的生命窃取效果，并持续向附近敌人发射追踪的暗影飞弹。",
+    "vi": "After consecutively attacking targets 5 times in a row, the holder activates a Hellbane state - which increases the Keres' lifesteal and repeatedly ejects homing shadow projectiles towards nearby enemies."
+  },
+  "item.celestisynth.keres.passive_2": {
+    "en": "Blood Sacrifice",
+    "zh": "鲜血献祭",
+    "vi": "Blood Sacrifice"
+  },
+  "item.celestisynth.keres.passive_desc_2": {
+    "en": "While using the Keres to cast a skill, the holder sacrifices 1.5 health every few seconds, but every single skill regenerates the holder's health to some degree when it lands on a target.",
+    "zh": "使用冥魇释放技能时，使用者每隔数秒献祭 1.5 点生命值，但每次技能命中目标时都会一定程度上恢复生命值。",
+    "vi": "While using the Keres to cast a skill, the holder sacrifices 1.5 health every few seconds, but every single skill regenerates the holder's health to some degree when it lands on a target."
+  },
+  "item.celestisynth.keres.passive_3": {
+    "en": "Cursebane Affliction",
+    "zh": "诅咒凋零",
+    "vi": "Cursebane Affliction"
+  },
+  "item.celestisynth.keres.passive_desc_3": {
+    "en": "When a skill hit a target, it gives a Cursebane effect to the target for 5 seconds. The effect reduces the healing rate of the target significantly.",
+    "zh": "技能命中目标时，使目标获得诅咒克星效果，持续 5 秒。该效果显著降低目标的治疗速度。",
+    "vi": "When a skill hit a target, it gives a Cursebane effect to the target for 5 seconds. The effect reduces the healing rate of the target significantly."
+  },
+  "item.celestisynth.keres.skill_1": {
+    "en": "Blood-Red Severity",
+    "zh": "猩红威临",
+    "vi": "Blood-Red Severity"
+  },
+  "item.celestisynth.keres.condition_1": {
+    "en": "Activate: Right-click",
+    "zh": "激活方式：右键蓄力",
+    "vi": "Activate: Right-click"
+  },
+  "item.celestisynth.keres.desc_1": {
+    "en": "Sends waves of slashes that bypasses armor. The amount of slashes is proportional to the degree of \"Blood Sacrifice\".",
+    "zh": "释放多重无视护甲的斩击波，斩击数量与“鲜血献祭”的程度成正比。",
+    "vi": "Phóng ra nhiều đợt chém xuyên giáp. Số nhát chém tỉ lệ thuận với mức độ “Hy Sinh Máu”."
+  },
+  "item.celestisynth.keres.skill_2": {
+    "en": "Dreadful Sorrow",
+    "zh": "绝境哀歌",
+    "vi": "Dreadful Sorrow"
+  },
+  "item.celestisynth.keres.condition_2": {
+    "en": "Activate: Right-click while holding SHIFT",
+    "zh": "激活按键：%2$s || 6层充能",
+    "vi": "Activate: Right-click while holding SHIFT"
+  },
+  "item.celestisynth.keres.desc_2": {
+    "en": "Jumps to a location and sends a shockwave to the surroundings. The jumping distance is proportional to the degree of \"Blood Sacrifice\".",
+    "zh": "跳向目标地点并在周围释放冲击波，跳跃距离与“鲜血献祭”的程度成正比。",
+    "vi": "Nhảy tới vị trí mục tiêu và giải phóng sóng xung quanh nó. Khoảng cách nhảy tỷ lệ thuận với mức độ \"Hy sinh máu\"."
+  },
+  "item.celestisynth.keres.skill_3": {
+    "en": "The Abolishment of Sinners",
+    "zh": "罪孽永灭",
+    "vi": "The Abolishment of Sinners"
+  },
+  "item.celestisynth.keres.condition_3": {
+    "en": "Hold Right-click for 10 or more seconds",
+    "zh": "激活方式：最终血祭 || %1$s || 12层充能",
+    "vi": "Hold Right-click for 10 or more seconds"
+  },
+  "item.celestisynth.keres.desc_3": {
+    "en": "Sends out a giant rend that erases blocks and deals massive damage to targets along the way. The slash ignores all armor.",
+    "zh": "右键蓄力超过10秒获得“最终血祭”效果。释放一道巨大的裂刃，清除路径上的方块并对目标造成巨额伤害。此技能无视所有护甲【巨量地形破坏警告！！】",
+    "vi": "Nhấp chuột phải để sạc trong hơn 10 giây để nhận được hiệu ứng \"Hy sinh máu cuối cùng\". Giải phóng một vết nứt lớn giúp dọn sạch các khối chắn trên đường đi của nó và gây sát thương lớn cho mục tiêu. Kỹ năng này bỏ qua tất cả áo giáp [Cảnh báo sát thương địa hình lớn! ! 】"
+  },
+  "item.celestisynth.keres.notice": {
+    "en": "Unable to sacrifice blood. Regeneration is required.",
+    "zh": "无法献祭血液，需要恢复生命值。",
+    "vi": "Unable to sacrifice blood. Regeneration is required."
+  },
+  "item.celestisynth.keres.notice1": {
+    "en": "Sacrifice.",
+    "zh": "献祭。",
+    "vi": "Sacrifice."
+  },
+  "chant.celestisynth.keres": {
+    "en": "May the blood...",
+    "zh": "愿鲜血倾泻……",
+    "vi": "Xin cho máu đổ ra..."
+  },
+  "chant.celestisynth.keres1": {
+    "en": "of darkness...",
+    "zh": "源于黑暗……",
+    "vi": "Từ bóng tối..."
+  },
+  "chant.celestisynth.keres2": {
+    "en": "DESTROY ALL.",
+    "zh": "湮灭苍生！",
+    "vi": "Tiêu diệt thường dân!"
+  },
+  "{o}================{o} ADVANCEMENTS [NON-WEAPONS] {o}================{o}": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "advancement.celestisynth.place_celestial_table.title": {
+    "en": "A Lost Memory",
+    "zh": "一段遗失的记忆",
+    "vi": "một ký ức đã mất"
+  },
+  "advancement.celestisynth.place_celestial_table.description": {
+    "en": "Place a Celestial Table, the root of Celestisynth weaponry.",
+    "zh": "放置一个天界工作台，它是天神武器之源。",
+    "vi": "Đặt Bàn làm việc Thiên thể, là nguồn gốc của Vũ khí Thiên thể."
+  },
+  "advancement.celestisynth.obtain_celestial_core.title": {
+    "en": "Down to the Core",
+    "zh": "深入核心的旅途",
+    "vi": "Hành trình đến cốt lõi"
+  },
+  "advancement.celestisynth.obtain_celestial_core.description": {
+    "en": "The dawn of a celestial journey! Obtain a Celestial Core.",
+    "zh": "天神之旅启程！获得一个天神核心。",
+    "vi": "Cuộc hành trình đến với các vị thần bắt đầu! Có được lõi thiên thể."
+  },
+  "advancement.celestisynth.obtain_supernal_netherite_ingot.title": {
+    "en": "Eruption",
+    "zh": "烈焰噬天的爆发",
+    "vi": "Sự bùng nổ của ngọn lửa rực cháy"
+  },
+  "advancement.celestisynth.obtain_supernal_netherite_ingot.description": {
+    "en": "Obtain a Supernal Netherite Ingot, an important material to craft Celestial weaponry.",
+    "zh": "获得一个神圣的下界合金锭，它是制作天神武器的重要材料。",
+    "vi": "Nhận một thỏi netherite linh thiêng, một nguyên liệu quan trọng để chế tạo vũ khí Celestial."
+  },
+  "advancement.celestisynth.obtain_celestial_netherite_ingot.title": {
+    "en": "Celestial Emergence",
+    "zh": "天神之力的涌现",
+    "vi": "Sự xuất hiện của sức mạnh thần thánh"
+  },
+  "advancement.celestisynth.obtain_celestial_netherite_ingot.description": {
+    "en": "Obtain a Celestial Netherite Ingot, an important material to craft Celestial weaponry.",
+    "zh": "获得一个天界合金锭，它是制作天神武器的重要材料。",
+    "vi": "Có được một thỏi hợp kim thiên thể, đây là nguyên liệu quan trọng để chế tạo vũ khí thiên thể."
+  },
+  "advancement.celestisynth.obtain_core.title": {
+    "en": "Onto a Majestic Journey!",
+    "zh": "迈向神圣之旅！",
+    "vi": "Hành trình đến với Thiên Chúa!"
+  },
+  "advancement.celestisynth.obtain_core.description": {
+    "en": "Craft a Celestial Core",
+    "zh": "制作一个天神核心",
+    "vi": "Tạo một lõi thiên thể"
+  },
+  "advancement.celestisynth.obtain_supernal_ingot.title": {
+    "en": "Oh no, not another Netherite ingot!",
+    "zh": "哦，不，不是另一个下界合金！",
+    "vi": "Ồ không, không phải một netherite khác!"
+  },
+  "advancement.celestisynth.obtain_supernal_ingot.description": {
+    "en": "Obtain a Supernal Netherite Ingot",
+    "zh": "获得一个神圣下界合金锭",
+    "vi": "Nhận được một thỏi Netherite thần thánh"
+  },
+  "advancement.celestisynth.obtain_celestial_ingot.title": {
+    "en": "Perhaps, this one's different?",
+    "zh": "也许，不尽相同？",
+    "vi": "Có lẽ, không giống nhau?"
+  },
+  "advancement.celestisynth.obtain_celestial_ingot.description": {
+    "en": "Obtain a Celestial Netherite Ingot",
+    "zh": "获得一个天界合金锭",
+    "vi": "Nhận được một thỏi hợp kim thiên thể"
+  },
+  "advancement.celestisynth.placed_celestial_table.title": {
+    "en": "Leveling Further and Beyond",
+    "zh": "进一步提高水平！",
+    "vi": "Cải thiện trình độ của bạn hơn nữa!"
+  },
+  "advancement.celestisynth.placed_celestial_table.description": {
+    "en": "Place a Celestial Crafting Table",
+    "zh": "放置一个天界工作台",
+    "vi": "Đặt một bàn làm việc thiên thể"
+  },
+  "itemGroup.celestisynth.celestisynth_tab": {
+    "en": null,
+    "zh": "天神剑技",
+    "vi": null
+  },
+  "gui.celestisynth.celestial_crafting": {
+    "en": null,
+    "zh": "天界工作台",
+    "vi": null
+  },
+  "advancements.celestisynth.obtained_solaris.title": {
+    "en": null,
+    "zh": "炎至百万度",
+    "vi": null
+  },
+  "advancements.celestisynth.obtained_solaris.description": {
+    "en": null,
+    "zh": "获得神剑炎日",
+    "vi": null
+  },
+  "advancements.celestisynth.obtained_crescentia.title": {
+    "en": null,
+    "zh": "绮丽之烟火",
+    "vi": null
+  },
+  "advancements.celestisynth.obtained_crescentia.description": {
+    "en": null,
+    "zh": "获得初月",
+    "vi": null
+  },
+  "advancements.celestisynth.obtained_breezebreaker.title": {
+    "en": null,
+    "zh": "迅疾而声厉",
+    "vi": null
+  },
+  "advancements.celestisynth.obtained_breezebreaker.description": {
+    "en": null,
+    "zh": "获得肆风",
+    "vi": null
+  },
+  "advancements.celestisynth.obtained_poltergeist.title": {
+    "en": null,
+    "zh": "鬼啸神嚎之斧",
+    "vi": null
+  },
+  "advancements.celestisynth.obtained_poltergeist.description": {
+    "en": null,
+    "zh": "获得嚎鬼",
+    "vi": null
+  },
+  "advancements.celestisynth.obtained_aquaflora.title": {
+    "en": null,
+    "zh": "待那花开之日",
+    "vi": null
+  },
+  "advancements.celestisynth.obtained_aquaflora.description": {
+    "en": null,
+    "zh": "获得莲华",
+    "vi": null
+  },
+  "advancements.celestisynth.obtained_rainfall_serenity.title": {
+    "en": null,
+    "zh": "破越地球大气",
+    "vi": null
+  },
+  "advancements.celestisynth.obtained_rainfall_serenity.description": {
+    "en": null,
+    "zh": "获得谧静星落",
+    "vi": null
+  },
+  "item.celestisynth.rainfall_serenity.passive_1": {
+    "en": null,
+    "zh": "",
+    "vi": null
+  },
+  "item.celestisynth.rainfall_serenity.passive_desc_1": {
+    "en": null,
+    "zh": "",
+    "vi": null
+  },
+  "<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< ADVANCEMENTS [NON-WEAPONS] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>": {
+    "en": null,
+    "zh": "",
+    "vi": null
+  },
+  "advancements.celestisynth.obtained_core.title": {
+    "en": null,
+    "zh": "迈向辉煌之旅！",
+    "vi": null
+  },
+  "advancements.celestisynth.obtained_core.description": {
+    "en": null,
+    "zh": "制作一个天神核心",
+    "vi": null
+  },
+  "advancements.celestisynth.obtained_supernal_ingot.title": {
+    "en": null,
+    "zh": "哦，不，不是另一个下界合金！",
+    "vi": null
+  },
+  "advancements.celestisynth.obtained_supernal_ingot.description": {
+    "en": null,
+    "zh": "获得一个神圣下界合金锭。",
+    "vi": null
+  },
+  "advancements.celestisynth.obtained_celestial_ingot.title": {
+    "en": null,
+    "zh": "也许，不尽相同？",
+    "vi": null
+  },
+  "advancements.celestisynth.obtained_celestial_ingot.description": {
+    "en": null,
+    "zh": "获得一个天界合金锭",
+    "vi": null
+  },
+  "advancements.celestisynth.placed_celestial_table.title": {
+    "en": null,
+    "zh": "进一步提高水平！",
+    "vi": null
+  },
+  "advancements.celestisynth.placed_celestial_table.description": {
+    "en": null,
+    "zh": "放置一个天界工作台",
+    "vi": null
+  }
+}

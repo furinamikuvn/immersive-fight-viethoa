@@ -1,0 +1,97 @@
+{
+  "entity.the_faint_radiance.holy": {
+    "en": "Holy-sword",
+    "zh": "圣剑",
+    "vi": "Holy-sword"
+  },
+  "effect.the_faint_radiance.penitence": {
+    "en": "Penitence",
+    "zh": "忏悔",
+    "vi": "ăn năn"
+  },
+  "advancements.blasphemy.title": {
+    "en": "On the path of blasphemy",
+    "zh": "亵渎之路",
+    "vi": "con đường phạm thượng"
+  },
+  "death.attack.gleam.item": {
+    "en": "%1$s was put to rest by %2$s using %3$s",
+    "zh": "%1$s 被 %2$s 用 %3$s 送入了安息",
+    "vi": "%1$s được %2$s gửi đến phần còn lại bằng cách sử dụng %3$s"
+  },
+  "entity.the_faint_radiance.lychnus": {
+    "en": "Lychnus",
+    "zh": "明灯之主",
+    "vi": "Lychnus"
+  },
+  "item.the_faint_radiance.shapeofsin": {
+    "en": "Shape of sin ",
+    "zh": "罪孽形态",
+    "vi": "Shape of sin "
+  },
+  "death.attack.absolute_radiance.player": {
+    "en": "%1$s ascended to heaven",
+    "zh": "%1$s 升入天堂",
+    "vi": "%1$s bay lên trời"
+  },
+  "death.attack.gleam": {
+    "en": "%1$s went to rest",
+    "zh": "%1$s 陷入了安眠",
+    "vi": "%1$s chìm vào giấc ngủ sâu"
+  },
+  "item.the_faint_radiance.lychnus_spawn_egg": {
+    "en": "Lychnus Spawn Egg",
+    "zh": "明灯之主刷怪蛋",
+    "vi": "Lychnus Spawn Egg"
+  },
+  "item.the_faint_radiance.shapeofsin.description_0": {
+    "en": "...",
+    "zh": "……",
+    "vi": "……"
+  },
+  "subtitles.choir": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "entity.the_faint_radiance.radiance": {
+    "en": "?",
+    "zh": "？",
+    "vi": "?"
+  },
+  "death.attack.absolute_radiance.item": {
+    "en": "%1$s ascended to heaven",
+    "zh": "%1$s 升入天堂",
+    "vi": "%1$s bay lên trời"
+  },
+  "subtitles.spread": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "entity.the_faint_radiance.quake": {
+    "en": "Quake",
+    "zh": "震动",
+    "vi": "Quake"
+  },
+  "death.attack.absolute_radiance": {
+    "en": "%1$s ascended to heaven",
+    "zh": "%1$s 升入天堂",
+    "vi": "%1$s bay lên trời"
+  },
+  "death.attack.gleam.player": {
+    "en": "%1$s ascended to heaven",
+    "zh": "%1$s 升入天堂",
+    "vi": "%1$s bay lên trời"
+  },
+  "advancements.blasphemy.descr": {
+    "en": "Will you make it to the end?",
+    "zh": "你能走到终点吗？",
+    "vi": "Bạn có thể làm cho nó đến đích?"
+  },
+  "biome.the_faint_radiance.bright": {
+    "en": "Bright",
+    "zh": "光明",
+    "vi": "sáng"
+  }
+}

@@ -1,0 +1,45 @@
+{
+	icon: "born_in_chaos_v1:shattered_skull"
+	id: "2B6EAD3403AD84E6"
+	loot_size: 1
+	order_index: 10
+	rewards: [
+		{
+			command: "/deathbutthree setAllMaxDeaths 1"
+			icon: "born_in_chaos_v1:shattered_skull"
+			title: "Hồi Máu Sau 1 Lần Chết"
+			type: "command"
+		}
+		{
+			command: "/deathbutthree setAllMaxDeaths 2"
+			icon: "born_in_chaos_v1:shattered_skull"
+			title: "Hồi Máu Sau 2 Lần Chết"
+			type: "command"
+		}
+		{
+			command: "/deathbutthree setAllMaxDeaths 3"
+			icon: "born_in_chaos_v1:shattered_skull"
+			title: "Hồi Máu Sau 3 Lần Chết"
+			type: "command"
+		}
+		{
+			command: "/deathbutthree setAllMaxDeaths 4"
+			icon: "born_in_chaos_v1:shattered_skull"
+			title: "Hồi Máu Sau 4 Lần Chết"
+			type: "command"
+		}
+		{
+			command: "/deathbutthree setAllMaxDeaths 5"
+			icon: "born_in_chaos_v1:shattered_skull"
+			title: "Hồi Máu Sau 5 Lần Chết"
+			type: "command"
+		}
+		{
+			command: "/deathbutthree setAllMaxDeaths -1"
+			icon: "born_in_chaos_v1:shattered_skull"
+			title: "Tắt Hồi Máu Khi Chết"
+			type: "command"
+		}
+	]
+	title: "Sửa Cơ Chế Đặt Lại Máu BOSS"
+}

@@ -1,0 +1,2177 @@
+{
+  "_comment": {
+    "en": "Advancements",
+    "zh": "成就",
+    "vi": null
+  },
+  "itemGroup.mowziesmobs.creativeTab": {
+    "en": "Mowzie's Mobs",
+    "zh": "Mowzie的生物",
+    "vi": null
+  },
+  "entity.mowziesmobs.foliaath": {
+    "en": "Foliaath",
+    "zh": "巨噬叶",
+    "vi": null
+  },
+  "entity.mowziesmobs.ferrous_wroughtnaut": {
+    "en": "Ferrous Wroughtnaut",
+    "zh": "钢铁守护者",
+    "vi": null
+  },
+  "entity.mowziesmobs.baby_foliaath": {
+    "en": "Baby Foliaath",
+    "zh": "巨噬叶幼苗",
+    "vi": null
+  },
+  "entity.mowziesmobs.umvuthana_follower_raptor": {
+    "en": "Umvuthana",
+    "zh": "乌姆塔纳猛禽追随者",
+    "vi": null
+  },
+  "entity.mowziesmobs.umvuthana_follower_player": {
+    "en": "Umvuthana",
+    "zh": "乌姆塔纳追随者",
+    "vi": null
+  },
+  "entity.mowziesmobs.umvuthana_raptor": {
+    "en": "Umvuthana Raptor",
+    "zh": "乌姆塔纳猛禽",
+    "vi": null
+  },
+  "entity.mowziesmobs.umvuthana": {
+    "en": "Umvuthana",
+    "zh": "乌姆塔纳族人",
+    "vi": null
+  },
+  "entity.mowziesmobs.umvuthana_crane": {
+    "en": "Umvuthana Crane",
+    "zh": "乌姆塔纳食人鹤",
+    "vi": null
+  },
+  "entity.mowziesmobs.umvuthana_crane_player": {
+    "en": "Umvuthana Crane",
+    "zh": "乌姆塔纳食人鹤追随者",
+    "vi": null
+  },
+  "entity.mowziesmobs.umvuthi": {
+    "en": "Umvuthi, the Sunbird",
+    "zh": "乌姆塔纳, 太阳鸟",
+    "vi": null
+  },
+  "entity.mowziesmobs.frostmaw": {
+    "en": "Frostmaw",
+    "zh": "霜冻巨兽",
+    "vi": null
+  },
+  "entity.mowziesmobs.grottol": {
+    "en": "Grottol",
+    "zh": "岩壳居蟹",
+    "vi": null
+  },
+  "entity.mowziesmobs.lantern": {
+    "en": "Lantern",
+    "zh": "荧光浮灯",
+    "vi": null
+  },
+  "entity.mowziesmobs.naga": {
+    "en": "Naga",
+    "zh": "娜迦",
+    "vi": null
+  },
+  "entity.mowziesmobs.sculptor": {
+    "en": "Tongbi, the Sculptor",
+    "zh": "雕刻家-通臂大师",
+    "vi": null
+  },
+  "entity.mowziesmobs.boulder": {
+    "en": "Boulder",
+    "zh": "浮砾",
+    "vi": null
+  },
+  "entity.mowziesmobs.bluff": {
+    "en": "Bluff",
+    "zh": "泥峭人",
+    "vi": null
+  },
+  "item.mowziesmobs.foliaath_seed": {
+    "en": "Foliaath Seed",
+    "zh": "巨噬叶芽",
+    "vi": null
+  },
+  "item.mowziesmobs.mob_remover": {
+    "en": "Mob Remover",
+    "zh": "生物移除器",
+    "vi": null
+  },
+  "item.mowziesmobs.wrought_axe": {
+    "en": "Axe of a Thousand Metals",
+    "zh": "千锻巨斧",
+    "vi": null
+  },
+  "item.mowziesmobs.wrought_helmet": {
+    "en": "Wrought Helm",
+    "zh": "精炼头盔",
+    "vi": null
+  },
+  "item.mowziesmobs.umvuthana_mask_fury": {
+    "en": "Mask of Fury",
+    "zh": "愤怒面具",
+    "vi": null
+  },
+  "item.mowziesmobs.umvuthana_mask_fear": {
+    "en": "Mask of Fear",
+    "zh": "恐惧面具",
+    "vi": null
+  },
+  "item.mowziesmobs.umvuthana_mask_rage": {
+    "en": "Mask of Rage",
+    "zh": "盛怒面具",
+    "vi": null
+  },
+  "item.mowziesmobs.umvuthana_mask_bliss": {
+    "en": "Mask of Bliss",
+    "zh": "欣喜面具",
+    "vi": null
+  },
+  "item.mowziesmobs.umvuthana_mask_misery": {
+    "en": "Mask of Misery",
+    "zh": "痛苦面具",
+    "vi": null
+  },
+  "item.mowziesmobs.umvuthana_mask_faith": {
+    "en": "Mask of Faith",
+    "zh": "信仰面具",
+    "vi": null
+  },
+  "item.mowziesmobs.sol_visage": {
+    "en": "Sol Visage",
+    "zh": "太阳神面具",
+    "vi": null
+  },
+  "item.mowziesmobs.dart": {
+    "en": "Dart",
+    "zh": "吹镖",
+    "vi": null
+  },
+  "item.mowziesmobs.spear": {
+    "en": "Spear",
+    "zh": "长矛",
+    "vi": null
+  },
+  "item.mowziesmobs.blowgun": {
+    "en": "Blowgun",
+    "zh": "吹筒",
+    "vi": null
+  },
+  "item.mowziesmobs.grant_suns_blessing": {
+    "en": "Receive Sun's Blessing",
+    "zh": "接受太阳祝福",
+    "vi": null
+  },
+  "item.mowziesmobs.test_structure": {
+    "en": "Test Structures",
+    "zh": "结构测试器",
+    "vi": null
+  },
+  "item.mowziesmobs.ice_crystal": {
+    "en": "Ice Crystal",
+    "zh": "冰霜结晶",
+    "vi": null
+  },
+  "item.mowziesmobs.earthrend_gauntlet": {
+    "en": "Earthrend Gauntlet",
+    "zh": "大地手套",
+    "vi": null
+  },
+  "item.mowziesmobs.blowgun.text.0": {
+    "en": "Charges quickly",
+    "zh": "快速装填",
+    "vi": null
+  },
+  "item.mowziesmobs.blowgun.text.1": {
+    "en": "Short range",
+    "zh": "短射程",
+    "vi": null
+  },
+  "item.mowziesmobs.blowgun.text.2": {
+    "en": "Only shoot darts",
+    "zh": "仅能发射吹镖",
+    "vi": null
+  },
+  "item.mowziesmobs.wrought_axe.text.0": {
+    "en": "Never breaks",
+    "zh": "不可破坏",
+    "vi": null
+  },
+  "item.mowziesmobs.wrought_axe.text.1": {
+    "en": "Right-click to attack in an large arc",
+    "zh": "右击横扫攻击",
+    "vi": null
+  },
+  "item.mowziesmobs.wrought_axe.text.2": {
+    "en": "Shift-right-click to slam the ground and create a shockwave",
+    "zh": "潜行右击震撼大地并释放冲击波",
+    "vi": null
+  },
+  "item.mowziesmobs.sol_visage.text.0": {
+    "en": "Never breaks",
+    "zh": "不可破坏",
+    "vi": null
+  },
+  "item.mowziesmobs.sol_visage.text.1": {
+    "en": "Equip, then right-click while holding another mask to summon minions",
+    "zh": "装备后，手持任意乌姆塔纳面具右键以召唤随从",
+    "vi": null
+  },
+  "item.mowziesmobs.sol_visage.text.2": {
+    "en": "Right-click a minion to return it to its mask",
+    "zh": "右键随从可将其送回面具",
+    "vi": null
+  },
+  "item.mowziesmobs.umvuthana_mask_fear.text.0": {
+    "en": "Grants swiftness",
+    "zh": "穿戴后获得 速度",
+    "vi": null
+  },
+  "item.mowziesmobs.umvuthana_mask_fear.text.1": {
+    "en": "I wonder if...?",
+    "zh": "或许还有什么用......?",
+    "vi": null
+  },
+  "item.mowziesmobs.umvuthana_mask_rage.text.0": {
+    "en": "Grants haste",
+    "zh": "穿戴后获得 急迫",
+    "vi": null
+  },
+  "item.mowziesmobs.umvuthana_mask_rage.text.1": {
+    "en": "I wonder if...?",
+    "zh": "或许还有什么用......?",
+    "vi": null
+  },
+  "item.mowziesmobs.umvuthana_mask_misery.text.0": {
+    "en": "Grants resistance",
+    "zh": "穿戴后获得 抗性提升",
+    "vi": null
+  },
+  "item.mowziesmobs.umvuthana_mask_misery.text.1": {
+    "en": "I wonder if...?",
+    "zh": "或许还有什么用......?",
+    "vi": null
+  },
+  "item.mowziesmobs.umvuthana_mask_bliss.text.0": {
+    "en": "Grants jump boost",
+    "zh": "穿戴后获得 跳跃提升",
+    "vi": null
+  },
+  "item.mowziesmobs.umvuthana_mask_bliss.text.1": {
+    "en": "I wonder if...?",
+    "zh": "或许还有什么用......?",
+    "vi": null
+  },
+  "item.mowziesmobs.umvuthana_mask_fury.text.0": {
+    "en": "Grants strength",
+    "zh": "穿戴后获得 力量",
+    "vi": null
+  },
+  "item.mowziesmobs.umvuthana_mask_fury.text.1": {
+    "en": "I wonder if...?",
+    "zh": "或许还有什么用......?",
+    "vi": null
+  },
+  "item.mowziesmobs.umvuthana_mask_faith.text.0": {
+    "en": "Grants health boost",
+    "zh": "穿戴后获得 生命提升",
+    "vi": null
+  },
+  "item.mowziesmobs.umvuthana_mask_faith.text.1": {
+    "en": "I wonder if...?",
+    "zh": "或许还有什么用......?",
+    "vi": null
+  },
+  "item.mowziesmobs.dart.text.0": {
+    "en": "Can only be used with blowgun",
+    "zh": "仅适用于吹筒",
+    "vi": null
+  },
+  "item.mowziesmobs.dart.text.1": {
+    "en": "Poisons targets",
+    "zh": "使目标中毒",
+    "vi": null
+  },
+  "item.mowziesmobs.foliaath_seed.text.0": {
+    "en": "Plant in grass",
+    "zh": "种植在草方块上",
+    "vi": null
+  },
+  "item.mowziesmobs.foliaath_seed.text.1": {
+    "en": "Every half-day, the baby foliaath will get hungry",
+    "zh": "每隔半天，巨噬叶幼苗就会变得饥饿",
+    "vi": null
+  },
+  "item.mowziesmobs.foliaath_seed.text.2": {
+    "en": "Toss it any meat to feed it",
+    "zh": "向它丢肉来喂养它",
+    "vi": null
+  },
+  "item.mowziesmobs.foliaath_seed.text.3": {
+    "en": "After 2 days, the foliaath will be fully grown",
+    "zh": "经过两天，巨噬叶就会完全长大",
+    "vi": null
+  },
+  "item.mowziesmobs.grant_suns_blessing.text.0": {
+    "en": "Grants Sun's Blessing for",
+    "zh": "获得太阳祝福",
+    "vi": null
+  },
+  "item.mowziesmobs.grant_suns_blessing.text.1": {
+    "en": "minutes",
+    "zh": "分钟",
+    "vi": null
+  },
+  "item.mowziesmobs.grant_suns_blessing.text.2": {
+    "en": "Countdown only begins once you use an ability\n",
+    "zh": "倒计时只会在你使用技能时开始\n",
+    "vi": null
+  },
+  "item.mowziesmobs.grant_suns_blessing.text.3": {
+    "en": "§lSunstrike§r§7\nWith empty hand, right-click the ground to call a strike from the sky\n",
+    "zh": "§l日光打击§r§7\n空手时,右击地面可以从空中召唤光柱\n",
+    "vi": null
+  },
+  "item.mowziesmobs.grant_suns_blessing.text.4": {
+    "en": "§lSolar Flare§r§7\nWith empty hand, sneak-left-click to knock opponents away\n",
+    "zh": "§l太阳耀斑§r§7\n空手时, 潜行左键点击以击飞敌人\n",
+    "vi": null
+  },
+  "item.mowziesmobs.grant_suns_blessing.text.5": {
+    "en": "§lSolar Beam§r§7\nWith empty hand, sneak-right-click to fire a beam in the direction you are looking (costs",
+    "zh": "§l太阳射线§r§7\n空手时, 潜行右键向你所目视的方向发射光束 (消耗5分钟)",
+    "vi": null
+  },
+  "item.mowziesmobs.grant_suns_blessing.text.6": {
+    "en": "minutes)\n",
+    "zh": "",
+    "vi": null
+  },
+  "item.mowziesmobs.grant_suns_blessing.text.7": {
+    "en": "§lSupernova§r§7\nWith empty hand, sneak, then left and right click at the same time to create a massive explosion around you (costs",
+    "zh": "§l超新星燃烧§r§7\n空手时, 潜行, 然后左右键同时按,在你周围创造一个巨大的冲击波(消耗所有时间)",
+    "vi": null
+  },
+  "item.mowziesmobs.grant_suns_blessing.text.8": {
+    "en": " entire blessing",
+    "zh": " 所有的祝福",
+    "vi": null
+  },
+  "item.mowziesmobs.grant_suns_blessing.text.9": {
+    "en": ")",
+    "zh": ")",
+    "vi": null
+  },
+  "item.mowziesmobs.earthrend_gauntlet.text.0": {
+    "en": "§lBoulder Lift§r§7\nRight-click earthen ground to lift a boulder\nPunch boulder to fire it as projectile\nCharge right-click to lift bigger boulders\n",
+    "zh": "§l巨石攀升§r§7\n右击地面，举起巨石\n击打巨石，将其作为弹射物发射\n长按右键可以举起更大的巨石\n",
+    "vi": null
+  },
+  "item.mowziesmobs.earthrend_gauntlet.text.1": {
+    "en": "§lTunnel§r§7\nRight-click the air to start tunneling through the ground\nHold right-click and look in the direction you'd like to dig\nRelease right-click to surface and stop tunneling\n",
+    "zh": "§l隧道§r§7\n右击空气在地面上挖隧道\n按住右键，看向你想要挖掘的方向\n松开右键回到地面并停止挖掘隧道",
+    "vi": null
+  },
+  "item.mowziesmobs.earthrend_gauntlet.text.2": {
+    "en": "§lPillar Rise§r§7\nHold both Sneak and Jump to rise upward on a pillar of earth\nThe pillar's width increases if it grows through geomancy boulders",
+    "zh": "在背包中自动恢复耐久度",
+    "vi": null
+  },
+  "item.mowziesmobs.earthrend_gauntlet.text.3": {
+    "en": "Recharges while in inventory",
+    "zh": null,
+    "vi": null
+  },
+  "item.mowziesmobs.mob_remover.text.0": {
+    "en": "Left-click to remove a Mowzie's Mobs mob",
+    "zh": "左键移除 Mowzie的怪物 模组的生物",
+    "vi": null
+  },
+  "item.mowziesmobs.wrought_helmet.text.0": {
+    "en": "Never breaks",
+    "zh": "无法破坏",
+    "vi": null
+  },
+  "item.mowziesmobs.spear.text.0": {
+    "en": "Extends attack range by 1.5 blocks",
+    "zh": "扩大 1.5格攻击范围",
+    "vi": null
+  },
+  "item.mowziesmobs.spear.text.1": {
+    "en": "1/3 chance to instantly kill animals with less than 30 health",
+    "zh": "1/3 概率秒杀生命少于30的动物",
+    "vi": null
+  },
+  "item.mowziesmobs.ice_crystal.text.0": {
+    "en": "Hold right-click to channel an icy whirlwind",
+    "zh": "按住右键以发出冰霜旋风",
+    "vi": null
+  },
+  "item.mowziesmobs.ice_crystal.text.1": {
+    "en": "Recharges while in inventory",
+    "zh": "在背包中自动恢复耐久度",
+    "vi": null
+  },
+  "item.mowziesmobs.captured_grottol": {
+    "en": "Captured Grottol",
+    "zh": "捕获的岩壳居蟹",
+    "vi": null
+  },
+  "item.mowziesmobs.glowing_jelly": {
+    "en": "Luminous Jelly",
+    "zh": "荧光胶冻",
+    "vi": null
+  },
+  "item.mowziesmobs.glowing_jelly.text.0": {
+    "en": "Eat to briefly gain night vision",
+    "zh": "吃下能获得短暂的夜视效果",
+    "vi": null
+  },
+  "item.mowziesmobs.naga_fang": {
+    "en": "Naga Fang",
+    "zh": "娜迦毒牙",
+    "vi": null
+  },
+  "item.mowziesmobs.naga_fang.text.0": {
+    "en": "Used to brew Potion of Poison Resistance, craft a Naga Fang Dagger, or craft darts",
+    "zh": "用于酿造抗毒药水或制作娜迦毒牙匕首",
+    "vi": null
+  },
+  "item.mowziesmobs.naga_fang_dagger": {
+    "en": "Naga Fang Dagger",
+    "zh": "娜迦毒牙匕首",
+    "vi": null
+  },
+  "item.mowziesmobs.naga_fang_dagger.text.0": {
+    "en": "Poisons targets",
+    "zh": "使目标中毒",
+    "vi": null
+  },
+  "item.mowziesmobs.naga_fang_dagger.text.1": {
+    "en": "Deals double damage from behind",
+    "zh": "从背后造成双倍伤害",
+    "vi": null
+  },
+  "item.mowziesmobs.sculptor_staff": {
+    "en": "Geomancer Staff",
+    "zh": "地卜师法杖",
+    "vi": null
+  },
+  "item.mowziesmobs.sculptor_staff.text.0": {
+    "en": "Spawns three small rocks that fire as projectiles after a delay",
+    "zh": "生成三个小石块，一段时间后会像弹射物一样发射出去",
+    "vi": null
+  },
+  "item.mowziesmobs.sand_rake": {
+    "en": "Sand Rake",
+    "zh": "沙耙",
+    "vi": null
+  },
+  "item.mowziesmobs.sand_rake.text.0": {
+    "en": "Use on sand to create raked patterns\nRepair with wood planks",
+    "zh": "在沙子上使用得到耕过的沙子.",
+    "vi": null
+  },
+  "item.mowziesmobs.geomancer_beads": {
+    "en": "Geomancer Beads",
+    "zh": "地卜师念珠",
+    "vi": null
+  },
+  "item.mowziesmobs.geomancer_beads.text.0": {
+    "en": "+3 attack when punching (including attacks with the Earthrend Gauntlet)",
+    "zh": "攻击时+3攻击伤害",
+    "vi": null
+  },
+  "item.mowziesmobs.geomancer_robe": {
+    "en": "Geomancer Robe",
+    "zh": "地卜师长袍",
+    "vi": null
+  },
+  "item.mowziesmobs.geomancer_robe.text.0": {
+    "en": "Chance to spawn a geomancy boulder nearby when you deal or take damage",
+    "zh": "当你造成或受到伤害时，有机会在附近产生一块地卜石",
+    "vi": null
+  },
+  "item.mowziesmobs.geomancer_belt": {
+    "en": "Geomancer Belt",
+    "zh": "地卜师腰带",
+    "vi": null
+  },
+  "item.mowziesmobs.geomancer_belt.text.0": {
+    "en": "+4 armor and +1 knockback resist while you are inflicted with Slowness",
+    "zh": "当你拥有缓慢效果时，+4护甲和+1击退抗性",
+    "vi": null
+  },
+  "item.mowziesmobs.geomancer_sandals": {
+    "en": "Geomancer Sandals",
+    "zh": "地卜师拖鞋",
+    "vi": null
+  },
+  "item.mowziesmobs.geomancer_sandals.text.0": {
+    "en": "Gain increased movement speed for 3 seconds after falling more than 4 blocks",
+    "zh": "从超过4格的高度坠落后，获得3秒的移动速度提升",
+    "vi": null
+  },
+  "item.mowziesmobs.bluff_rod": {
+    "en": "Bluff Rod",
+    "zh": "泥峭棒",
+    "vi": null
+  },
+  "item.mowziesmobs.bluff_rod.text.0": {
+    "en": "Use to repair Geomancy items, or give to the Sculptor to begin his challenge",
+    "zh": "用于修复地卜类装备, 或交给雕刻家去开始挑战",
+    "vi": null
+  },
+  "item.mowziesmobs.music_disc_petiole": {
+    "en": "Music Disc",
+    "zh": "音乐唱片",
+    "vi": null
+  },
+  "item.mowziesmobs.music_disc_petiole.desc": {
+    "en": "LudoCrypt - Petiole",
+    "zh": "LudoCrypt - 柄竹夜游",
+    "vi": null
+  },
+  "item.mowziesmobs.foliaath_spawn_egg": {
+    "en": "Foliaath Spawn Egg",
+    "zh": "巨噬叶刷怪蛋",
+    "vi": null
+  },
+  "item.mowziesmobs.wroughtnaut_spawn_egg": {
+    "en": "Ferrous Wroughtnaut Spawn Egg",
+    "zh": "钢铁守护者刷怪蛋",
+    "vi": null
+  },
+  "item.mowziesmobs.umvuthana_spawn_egg": {
+    "en": "Umvuthana Spawn Egg",
+    "zh": "乌姆塔纳族人刷怪蛋",
+    "vi": null
+  },
+  "item.mowziesmobs.umvuthana_raptor_spawn_egg": {
+    "en": "Umvuthana Raptor Spawn Egg",
+    "zh": "乌姆塔纳猛禽刷怪蛋",
+    "vi": null
+  },
+  "item.mowziesmobs.umvuthana_crane_spawn_egg": {
+    "en": "Umvuthana Crane Spawn Egg",
+    "zh": "乌姆塔纳食人鹤刷怪蛋",
+    "vi": null
+  },
+  "item.mowziesmobs.umvuthi_spawn_egg": {
+    "en": "Umvuthi, the Sunbird Spawn Egg",
+    "zh": "乌姆塔纳，太阳鸟刷怪蛋",
+    "vi": null
+  },
+  "item.mowziesmobs.frostmaw_spawn_egg": {
+    "en": "Frostmaw Spawn Egg",
+    "zh": "霜冻巨兽刷怪蛋",
+    "vi": null
+  },
+  "item.mowziesmobs.grottol_spawn_egg": {
+    "en": "Grottol Spawn Egg",
+    "zh": "岩壳居蟹刷怪蛋",
+    "vi": null
+  },
+  "item.mowziesmobs.lantern_spawn_egg": {
+    "en": "Lantern Spawn Egg",
+    "zh": "荧光浮灯刷怪蛋",
+    "vi": null
+  },
+  "item.mowziesmobs.naga_spawn_egg": {
+    "en": "Naga Spawn Egg",
+    "zh": "娜迦刷怪蛋",
+    "vi": null
+  },
+  "item.mowziesmobs.sculptor_spawn_egg": {
+    "en": "Tongbi, the Sculptor Spawn Egg",
+    "zh": "雕刻家-通臂大师刷怪蛋",
+    "vi": null
+  },
+  "item.mowziesmobs.bluff_spawn_egg": {
+    "en": "Bluff Spawn Egg",
+    "zh": "泥峭人刷怪蛋",
+    "vi": null
+  },
+  "block.mowziesmobs.painted_acacia": {
+    "en": "Painted Acacia Wood",
+    "zh": "彩绘金合欢木板",
+    "vi": null
+  },
+  "block.mowziesmobs.painted_acacia_slab": {
+    "en": "Painted Acacia Wood Slab",
+    "zh": "彩绘金合欢木台阶",
+    "vi": null
+  },
+  "block.mowziesmobs.thatch_block": {
+    "en": "Thatch",
+    "zh": "茅草块",
+    "vi": null
+  },
+  "block.mowziesmobs.grottol": {
+    "en": "Grottol",
+    "zh": "岩壳",
+    "vi": null
+  },
+  "block.mowziesmobs.clawed_log": {
+    "en": "Clawed Log",
+    "zh": "有抓痕的原木",
+    "vi": null
+  },
+  "block.mowziesmobs.gong": {
+    "en": "Gong",
+    "zh": "锣",
+    "vi": null
+  },
+  "block.mowziesmobs.raked_sand": {
+    "en": "Raked Sand",
+    "zh": "耙沙",
+    "vi": null
+  },
+  "block.mowziesmobs.red_raked_sand": {
+    "en": "Red Raked Sand",
+    "zh": "红耙沙",
+    "vi": null
+  },
+  "effect.mowziesmobs.suns_blessing": {
+    "en": "Sun's Blessing",
+    "zh": "太阳祝福",
+    "vi": null
+  },
+  "effect.mowziesmobs.suns_blessing.description": {
+    "en": "§kAllows you to command the power of the sun.§r",
+    "zh": null,
+    "vi": null
+  },
+  "effect.mowziesmobs.geomancy": {
+    "en": "Geomancy",
+    "zh": "大地祝福",
+    "vi": null
+  },
+  "effect.mowziesmobs.geomancy.description": {
+    "en": "§kAllows you to command the power of the earth.§r",
+    "zh": null,
+    "vi": null
+  },
+  "effect.mowziesmobs.frozen": {
+    "en": "Frozen",
+    "zh": "冻结",
+    "vi": null
+  },
+  "effect.mowziesmobs.frozen.description": {
+    "en": "§kPrevents all actions for a short duration. Fire damage will remove the effect early.§r",
+    "zh": null,
+    "vi": null
+  },
+  "effect.mowziesmobs.sunblock": {
+    "en": "Sunblock",
+    "zh": "太阳屏障",
+    "vi": null
+  },
+  "effect.mowziesmobs.sunblock.description": {
+    "en": "§kA small boost to regeneration and damage resistance.§r",
+    "zh": null,
+    "vi": null
+  },
+  "effect.mowziesmobs.poison_resist": {
+    "en": "Poison Resistance",
+    "zh": "抗毒",
+    "vi": null
+  },
+  "effect.mowziesmobs.poison_resist.description": {
+    "en": "§kPrevents the Poison status effect.§r",
+    "zh": null,
+    "vi": null
+  },
+  "item.minecraft.potion.effect.poison_resist": {
+    "en": "Potion of Poison Resistance",
+    "zh": "抗毒药水",
+    "vi": null
+  },
+  "item.minecraft.splash_potion.effect.poison_resist": {
+    "en": "Splash Potion of Poison Resistance",
+    "zh": "喷溅型抗毒药水",
+    "vi": null
+  },
+  "item.minecraft.lingering_potion.effect.poison_resist": {
+    "en": "Lingering Potion of Poison Resistance",
+    "zh": "滞留型抗毒药水",
+    "vi": null
+  },
+  "item.minecraft.tipped_arrow.effect.poison_resist": {
+    "en": "Arrow of Poison Resistance",
+    "zh": "抗毒之箭",
+    "vi": null
+  },
+  "item.minecraft.potion.effect.long_poison_resist": {
+    "en": "Potion of Poison Resistance",
+    "zh": "长效抗毒药水",
+    "vi": null
+  },
+  "item.minecraft.splash_potion.effect.long_poison_resist": {
+    "en": "Splash Potion of Poison Resistance",
+    "zh": "喷溅型长效抗毒药水",
+    "vi": null
+  },
+  "item.minecraft.lingering_potion.effect.long_poison_resist": {
+    "en": "Lingering Potion of Poison Resistance",
+    "zh": "滞留型长效抗毒药水",
+    "vi": null
+  },
+  "item.minecraft.tipped_arrow.effect.long_poison_resist": {
+    "en": "Arrow of Poison Resistance",
+    "zh": "长效抗毒之箭",
+    "vi": null
+  },
+  "entity.mowziesmobs.umvuthana.trade": {
+    "en": "Umvuthana",
+    "zh": "乌姆塔纳",
+    "vi": null
+  },
+  "entity.mowziesmobs.umvuthi.trade": {
+    "en": "Umvuthi, the Sunbird",
+    "zh": "乌姆塔纳，太阳鸟",
+    "vi": null
+  },
+  "entity.mowziesmobs.umvuthi.trade.button.text": {
+    "en": "Trade",
+    "zh": "交易",
+    "vi": null
+  },
+  "entity.mowziesmobs.umvuthi.trade.button.hover": {
+    "en": "Return later to replenish for free",
+    "zh": "交易后回来免费补充",
+    "vi": null
+  },
+  "entity.mowziesmobs.umvuthi.replenish.button.text": {
+    "en": "Replenish",
+    "zh": "补充",
+    "vi": null
+  },
+  "entity.mowziesmobs.umvuthi.replenish.button.hover": {
+    "en": "Replenish your blessing for free",
+    "zh": "免费补充你的祝福",
+    "vi": null
+  },
+  "entity.mowziesmobs.sculptor.trade": {
+    "en": "Tongbi, the Sculptor",
+    "zh": "雕刻家",
+    "vi": null
+  },
+  "entity.mowziesmobs.sculptor.trade.button.text": {
+    "en": "Begin Test",
+    "zh": "开始考验",
+    "vi": null
+  },
+  "entity.mowziesmobs.sculptor.boss_info.timer.text": {
+    "en": "Time Remaining",
+    "zh": "剩余时间",
+    "vi": null
+  },
+  "entity.mowziesmobs.sculptor.trade.button.hover": {
+    "en": "Reach the top of the course and right-click the Sculptor to pass!\nPlacing blocks, breaking blocks, teleporting, and flying are not allowed.",
+    "zh": "到达试炼场的顶部，右键单击雕刻家通过！不允许放置方块、打破方块、传送和飞行.",
+    "vi": null
+  },
+  "entity.mowziesmobs.sculptor.trade.blocked": {
+    "en": "Test is blocked!",
+    "zh": "测试受阻!",
+    "vi": null
+  },
+  "death.attack.dart": {
+    "en": "%1$s was shot by %2$s",
+    "zh": "%1$s被%2$s射死了",
+    "vi": null
+  },
+  "config.mowziesmobs.mobs": {
+    "en": "Mobs",
+    "zh": "生物",
+    "vi": null
+  },
+  "config.mowziesmobs.mobs.tooltip": {
+    "en": "Controls for all of Mowzie's Mobs mobs",
+    "zh": "针对所有Mowzie的怪物的控制",
+    "vi": null
+  },
+  "config.mowziesmobs.foliaath": {
+    "en": "Foliaath",
+    "zh": "巨噬叶",
+    "vi": null
+  },
+  "config.mowziesmobs.foliaath.tooltip": {
+    "en": "",
+    "zh": "",
+    "vi": null
+  },
+  "config.mowziesmobs.has_boss_bar": {
+    "en": "Display Boss Bar",
+    "zh": "显示Boss生命槽",
+    "vi": null
+  },
+  "config.mowziesmobs.heals_out_of_battle": {
+    "en": "Heal While Not In Battle",
+    "zh": "未处于战斗时回复血量",
+    "vi": null
+  },
+  "config.mowziesmobs.reset_health_when_respawn": {
+    "en": "Reset Health When Players Respawn Nearby",
+    "zh": "当玩家在附近重生时重置生命值",
+    "vi": null
+  },
+  "config.mowziesmobs.ferrous_wroughtnaut": {
+    "en": "Ferrous Wroughtnaut",
+    "zh": "钢铁守护者",
+    "vi": null
+  },
+  "config.mowziesmobs.ferrous_wroughtnaut.tooltip": {
+    "en": "",
+    "zh": "",
+    "vi": null
+  },
+  "config.mowziesmobs.umvuthana": {
+    "en": "Umvuthana",
+    "zh": "乌姆塔纳",
+    "vi": null
+  },
+  "config.mowziesmobs.umvuthana.tooltip": {
+    "en": "Controls for Abavuthana",
+    "zh": "控制Abavuthana",
+    "vi": null
+  },
+  "config.mowziesmobs.umvuthi": {
+    "en": "Umvuthi, the Sunbird",
+    "zh": "乌姆塔纳, 太阳鸟",
+    "vi": null
+  },
+  "config.mowziesmobs.umvuthi.tooltip": {
+    "en": "Controls for Umvuthi, the Sunbird",
+    "zh": "控制乌姆塔纳, 太阳鸟",
+    "vi": null
+  },
+  "config.mowziesmobs.trade_which_item": {
+    "en": "Sun's Blessing Trade Item",
+    "zh": "太阳祝福所需交易物品",
+    "vi": null
+  },
+  "config.mowziesmobs.trade_how_many": {
+    "en": "Sun's Blessing Trade Item Amount",
+    "zh": "触发太阳祝福交易物品所需数量",
+    "vi": null
+  },
+  "config.mowziesmobs.frostmaw": {
+    "en": "Frostmaw",
+    "zh": "霜冻巨兽",
+    "vi": null
+  },
+  "config.mowziesmobs.frostmaw.tooltip": {
+    "en": "",
+    "zh": "",
+    "vi": null
+  },
+  "config.mowziesmobs.stealable_ice_crystal": {
+    "en": "Stealable Ice Crystals",
+    "zh": "是否允许玩家可窃取冰霜结晶",
+    "vi": null
+  },
+  "config.mowziesmobs.grottol": {
+    "en": "Grottol",
+    "zh": "岩壳居蟹",
+    "vi": null
+  },
+  "config.mowziesmobs.grottol.tooltip": {
+    "en": "",
+    "zh": "",
+    "vi": null
+  },
+  "config.mowziesmobs.lantern": {
+    "en": "Lantern",
+    "zh": "荧光浮灯",
+    "vi": null
+  },
+  "config.mowziesmobs.lantern.tooltip": {
+    "en": "",
+    "zh": "",
+    "vi": null
+  },
+  "config.mowziesmobs.naga": {
+    "en": "Naga",
+    "zh": "娜迦",
+    "vi": null
+  },
+  "config.mowziesmobs.naga.tooltip": {
+    "en": "",
+    "zh": "",
+    "vi": null
+  },
+  "config.mowziesmobs.spawn_data": {
+    "en": "Spawn Controls",
+    "zh": "生成控制",
+    "vi": null
+  },
+  "config.mowziesmobs.spawn_data.tooltip": {
+    "en": "",
+    "zh": "",
+    "vi": null
+  },
+  "config.mowziesmobs.spawn_rate": {
+    "en": "Spawn Rate",
+    "zh": "生成几率",
+    "vi": null
+  },
+  "config.mowziesmobs.min_group_size": {
+    "en": "Min Group Size",
+    "zh": "最小群体",
+    "vi": null
+  },
+  "config.mowziesmobs.max_group_size": {
+    "en": "Max Group Size",
+    "zh": "最大群体",
+    "vi": null
+  },
+  "config.mowziesmobs.height_min": {
+    "en": "Minimum Height",
+    "zh": "最低高度",
+    "vi": null
+  },
+  "config.mowziesmobs.height_max": {
+    "en": "Maximum Height",
+    "zh": "最高高度",
+    "vi": null
+  },
+  "config.mowziesmobs.needs_darkness": {
+    "en": "Needs Darkness",
+    "zh": "需要黑暗",
+    "vi": null
+  },
+  "config.mowziesmobs.requires_see_sky": {
+    "en": "Needs to See Sky",
+    "zh": "需要天空可见",
+    "vi": null
+  },
+  "config.mowziesmobs.requires_cant_see_sky": {
+    "en": "Needs to Not See Sky",
+    "zh": "需要天空不可见",
+    "vi": null
+  },
+  "config.mowziesmobs.allowed_blocks": {
+    "en": "Allowed Blocks",
+    "zh": "允许方块",
+    "vi": null
+  },
+  "config.mowziesmobs.allowed_block_tags": {
+    "en": "Allowed Block Tags",
+    "zh": "允许方块标签",
+    "vi": null
+  },
+  "config.mowziesmobs.generation_data": {
+    "en": "Generation Controls",
+    "zh": "生成控制",
+    "vi": null
+  },
+  "config.mowziesmobs.generation_data.tooltip": {
+    "en": "",
+    "zh": "",
+    "vi": null
+  },
+  "config.mowziesmobs.generation_distance": {
+    "en": "Generation Distance",
+    "zh": "生成距离",
+    "vi": null
+  },
+  "config.mowziesmobs.generation_separation": {
+    "en": "Generation Separation",
+    "zh": "生成间隔",
+    "vi": null
+  },
+  "config.mowziesmobs.combat_data": {
+    "en": "Combat Controls",
+    "zh": "战斗控制",
+    "vi": null
+  },
+  "config.mowziesmobs.combat_data.tooltip": {
+    "en": "",
+    "zh": "",
+    "vi": null
+  },
+  "config.mowziesmobs.attack_multiplier": {
+    "en": "Attack Damage Multiplier",
+    "zh": "攻击伤害倍数",
+    "vi": null
+  },
+  "config.mowziesmobs.health_multiplier": {
+    "en": "Health Multiplier",
+    "zh": "生命值倍数",
+    "vi": null
+  },
+  "config.mowziesmobs.tools_and_abilities": {
+    "en": "Tools and Abilities",
+    "zh": "工具与能力",
+    "vi": null
+  },
+  "config.mowziesmobs.tools_and_abilities.tooltip": {
+    "en": "Controls for mob drops, weapons, powers, and other loot used by players",
+    "zh": "针对生物掉落、武器、能力和其他可由玩家使用之战利品的控制",
+    "vi": null
+  },
+  "config.mowziesmobs.axe_of_a_thousand_metals": {
+    "en": "Axe of a Thousand Metals",
+    "zh": "千锻巨斧",
+    "vi": null
+  },
+  "config.mowziesmobs.axe_of_a_thousand_metals.tooltip": {
+    "en": "",
+    "zh": "",
+    "vi": null
+  },
+  "config.mowziesmobs.breakable": {
+    "en": "Breakable",
+    "zh": "可破坏",
+    "vi": null
+  },
+  "config.mowziesmobs.wrought_helm": {
+    "en": "Wrought Helm",
+    "zh": "精炼头盔",
+    "vi": null
+  },
+  "config.mowziesmobs.wrought_helm.tooltip": {
+    "en": "",
+    "zh": "",
+    "vi": null
+  },
+  "config.mowziesmobs.spear": {
+    "en": "Spear",
+    "zh": "长矛",
+    "vi": null
+  },
+  "config.mowziesmobs.spear.tooltip": {
+    "en": "",
+    "zh": "",
+    "vi": null
+  },
+  "config.mowziesmobs.umvuthana_mask": {
+    "en": "Umvuthana Masks",
+    "zh": "乌姆塔纳面具",
+    "vi": null
+  },
+  "config.mowziesmobs.umvuthana_mask.tooltip": {
+    "en": "",
+    "zh": "",
+    "vi": null
+  },
+  "config.mowziesmobs.sol_visage": {
+    "en": "Sol Visage",
+    "zh": "太阳面具",
+    "vi": null
+  },
+  "config.mowziesmobs.sol_visage.tooltip": {
+    "en": "",
+    "zh": "",
+    "vi": null
+  },
+  "config.mowziesmobs.max_followers": {
+    "en": "Maximum Followers",
+    "zh": "最多追随者",
+    "vi": null
+  },
+  "config.mowziesmobs.blow_gun": {
+    "en": "Blowgun",
+    "zh": "吹筒",
+    "vi": null
+  },
+  "config.mowziesmobs.blow_gun.tooltip": {
+    "en": "",
+    "zh": "",
+    "vi": null
+  },
+  "config.mowziesmobs.poison_duration": {
+    "en": "Poison Duration",
+    "zh": "中毒持续时间",
+    "vi": null
+  },
+  "config.mowziesmobs.ice_crystal": {
+    "en": "Ice Crystal",
+    "zh": "冰霜结晶",
+    "vi": null
+  },
+  "config.mowziesmobs.ice_crystal.tooltip": {
+    "en": "",
+    "zh": "",
+    "vi": null
+  },
+  "config.mowziesmobs.durability": {
+    "en": "Durability",
+    "zh": "耐久",
+    "vi": null
+  },
+  "config.mowziesmobs.naga_fang_dagger": {
+    "en": "Naga Fang Dagger",
+    "zh": "娜迦毒牙匕首",
+    "vi": null
+  },
+  "config.mowziesmobs.naga_fang_dagger.tooltip": {
+    "en": "",
+    "zh": "",
+    "vi": null
+  },
+  "config.mowziesmobs.backstab_damage_mult": {
+    "en": "Backstab Damage Multiplier",
+    "zh": "背刺伤害倍数",
+    "vi": null
+  },
+  "config.mowziesmobs.geomancy_attack_multiplier": {
+    "en": "Geomancy Attack Damage Multiplier",
+    "zh": "大地祝福攻击伤害倍数",
+    "vi": null
+  },
+  "config.mowziesmobs.suns_blessing": {
+    "en": "Sun's Blessing",
+    "zh": "太阳祝福",
+    "vi": null
+  },
+  "config.mowziesmobs.suns_blessing.tooltip": {
+    "en": "",
+    "zh": "",
+    "vi": null
+  },
+  "config.mowziesmobs.suns_blessing_attack_multiplier": {
+    "en": "Sun's Blessing Attack Damage Multiplier",
+    "zh": "太阳祝福攻击伤害倍数",
+    "vi": null
+  },
+  "config.mowziesmobs.suns_blessing_duration": {
+    "en": "Sun's Blessing Duration",
+    "zh": "太阳祝福持续时间",
+    "vi": null
+  },
+  "config.mowziesmobs.solar_beam_cost": {
+    "en": "Solar Beam Cost",
+    "zh": "太阳光束消耗",
+    "vi": null
+  },
+  "config.mowziesmobs.supernova_cost": {
+    "en": "Supernova Cost",
+    "zh": "超新星燃烧消耗",
+    "vi": null
+  },
+  "config.mowziesmobs.earthrend_gauntlet": {
+    "en": "Earthrend Gauntlet",
+    "zh": "大地手套",
+    "vi": null
+  },
+  "config.mowziesmobs.earthrend_gauntlet.tooltip": {
+    "en": "",
+    "zh": "",
+    "vi": null
+  },
+  "config.mowziesmobs.tool_data": {
+    "en": "Tool Controls",
+    "zh": "工具控制",
+    "vi": null
+  },
+  "config.mowziesmobs.tool_data.tooltip": {
+    "en": "",
+    "zh": "",
+    "vi": null
+  },
+  "config.mowziesmobs.attack_damage": {
+    "en": "Attack Damage",
+    "zh": "攻击伤害",
+    "vi": null
+  },
+  "config.mowziesmobs.attack_speed": {
+    "en": "Attack Speed",
+    "zh": "攻击速度",
+    "vi": null
+  },
+  "config.mowziesmobs.armor_data": {
+    "en": "Armor Controls",
+    "zh": "护甲控制",
+    "vi": null
+  },
+  "config.mowziesmobs.armor_data.tooltip": {
+    "en": "",
+    "zh": "",
+    "vi": null
+  },
+  "config.mowziesmobs.damage_reduction": {
+    "en": "Damage Reduction",
+    "zh": "伤害削减",
+    "vi": null
+  },
+  "config.mowziesmobs.toughness": {
+    "en": "Toughness",
+    "zh": "坚韧",
+    "vi": null
+  },
+  "config.mowziesmobs.general": {
+    "en": "General",
+    "zh": "常规",
+    "vi": null
+  },
+  "config.mowziesmobs.general.tooltip": {
+    "en": "Miscellaneous controls and settings",
+    "zh": "杂项控制与设置",
+    "vi": null
+  },
+  "config.mowziesmobs.freeze_blacklist": {
+    "en": "Freeze-Immune Mobs",
+    "zh": "免疫冰冻的生物",
+    "vi": null
+  },
+  "config.mowziesmobs.do_camera_shake": {
+    "en": "Do Camera Shake",
+    "zh": null,
+    "vi": null
+  },
+  "config.mowziesmobs.play_boss_music": {
+    "en": "Play Boss Music",
+    "zh": null,
+    "vi": null
+  },
+  "config.mowziesmobs.custom_boss_bar": {
+    "en": "Custom Boss Health Bars",
+    "zh": null,
+    "vi": null
+  },
+  "config.mowziesmobs.glow_effect": {
+    "en": "Display Glow Effect",
+    "zh": null,
+    "vi": null
+  },
+  "config.mowziesmobs.custom_player_anims": {
+    "en": "Custom Player Animations",
+    "zh": null,
+    "vi": null
+  },
+  "config.mowziesmobs.crane_heal_sounds": {
+    "en": "Play Umvuthana Crane Heal Sounds",
+    "zh": null,
+    "vi": null
+  },
+  "advancements.mowziesmobs.root.title": {
+    "en": "Mowzie's Mobs",
+    "zh": "Mowzie的怪物",
+    "vi": null
+  },
+  "advancements.mowziesmobs.root.description": {
+    "en": "Welcome to Mowzie's Mobs!",
+    "zh": "欢迎游玩Mowzie的怪物模组！",
+    "vi": null
+  },
+  "advancements.mowziesmobs.kill_umvuthi.title": {
+    "en": "Praise the Sun",
+    "zh": null,
+    "vi": null
+  },
+  "advancements.mowziesmobs.kill_umvuthi.description": {
+    "en": "Kill Umvuthi, the Sunbird",
+    "zh": null,
+    "vi": null
+  },
+  "advancements.mowziesmobs.kill_ferrous_wroughtnaut.title": {
+    "en": "Just a Flesh Wound",
+    "zh": "仅有擦伤",
+    "vi": null
+  },
+  "advancements.mowziesmobs.kill_ferrous_wroughtnaut.description": {
+    "en": "Kill a Ferrous Wroughtnaut",
+    "zh": "击杀钢铁守护者",
+    "vi": null
+  },
+  "advancements.mowziesmobs.kill_foliaath.title": {
+    "en": "Jennifer Dumped Me",
+    "zh": "詹妮弗甩了我",
+    "vi": null
+  },
+  "advancements.mowziesmobs.kill_foliaath.description": {
+    "en": "Kill a Foliaath",
+    "zh": "击杀巨噬叶",
+    "vi": null
+  },
+  "advancements.mowziesmobs.kill_umvuthana_raptor.title": {
+    "en": "Masquerade",
+    "zh": null,
+    "vi": null
+  },
+  "advancements.mowziesmobs.kill_umvuthana_raptor.description": {
+    "en": "Kill an Umvuthana Raptor",
+    "zh": null,
+    "vi": null
+  },
+  "advancements.mowziesmobs.kill_frostmaw.title": {
+    "en": "Rude Awakening",
+    "zh": "野蛮觉醒",
+    "vi": null
+  },
+  "advancements.mowziesmobs.kill_frostmaw.description": {
+    "en": "Kill a Frostmaw",
+    "zh": "击杀霜冻巨兽",
+    "vi": null
+  },
+  "advancements.mowziesmobs.kill_naga.title": {
+    "en": "Wingin' It",
+    "zh": "飞龙在天",
+    "vi": null
+  },
+  "advancements.mowziesmobs.kill_naga.description": {
+    "en": "Kill a Naga",
+    "zh": "击杀娜迦",
+    "vi": null
+  },
+  "advancements.mowziesmobs.kill_grottol.title": {
+    "en": "You Monster...",
+    "zh": "你这个怪物...",
+    "vi": null
+  },
+  "advancements.mowziesmobs.kill_grottol.description": {
+    "en": "Kill a Grottol",
+    "zh": "击杀岩壳居蟹",
+    "vi": null
+  },
+  "advancements.mowziesmobs.kill_bluff.title": {
+    "en": "Called Your Bluff",
+    "zh": "拆穿你的虚张声势",
+    "vi": null
+  },
+  "advancements.mowziesmobs.kill_bluff.description": {
+    "en": "Kill a Bluff",
+    "zh": "杀死一只泥峭人",
+    "vi": null
+  },
+  "advancements.mowziesmobs.sneak_grove.title": {
+    "en": "Birds of a Feather",
+    "zh": "一丘之貉",
+    "vi": null
+  },
+  "advancements.mowziesmobs.sneak_grove.description": {
+    "en": "Sneak into an Umvuthana grove in disguise",
+    "zh": "乔装潜入乌姆塔纳的村落",
+    "vi": null
+  },
+  "advancements.mowziesmobs.suns_blessing.title": {
+    "en": "Heliomancer",
+    "zh": "法厄同纪事",
+    "vi": null
+  },
+  "advancements.mowziesmobs.suns_blessing.description": {
+    "en": "Receive the Sun's Blessing",
+    "zh": "接受太阳祝福",
+    "vi": null
+  },
+  "advancements.mowziesmobs.steal_ice_crystal.title": {
+    "en": "Big Brain™ Time",
+    "zh": "没头脑时间",
+    "vi": null
+  },
+  "advancements.mowziesmobs.steal_ice_crystal.description": {
+    "en": "Steal an ice crystal from a Frostmaw",
+    "zh": "从霜冻巨兽处偷走冰霜结晶",
+    "vi": null
+  },
+  "advancements.mowziesmobs.kill_grottol_fortune.title": {
+    "en": "Double Or Nothing!",
+    "zh": "所有或一无所有！",
+    "vi": null
+  },
+  "advancements.mowziesmobs.kill_grottol_fortune.description": {
+    "en": "Kill a Grottol with a fortune pickaxe",
+    "zh": "使用带有时运附魔的镐击杀一只岩壳居蟹",
+    "vi": null
+  },
+  "advancements.mowziesmobs.kill_grottol_silk_touch.title": {
+    "en": "You're Coming With Me",
+    "zh": "跟我走吧",
+    "vi": null
+  },
+  "advancements.mowziesmobs.kill_grottol_silk_touch.description": {
+    "en": "Kill a Grottol with a silk touch pickaxe",
+    "zh": "使用带有精准采集附魔的镐击杀岩壳居蟹",
+    "vi": null
+  },
+  "advancements.mowziesmobs.sculptor_challenge.title": {
+    "en": "You Must Believe",
+    "zh": "你必须相信...",
+    "vi": null
+  },
+  "advancements.mowziesmobs.sculptor_challenge.description": {
+    "en": "Complete the Sculptor's challenge",
+    "zh": "完成雕刻家-通臂大师的挑战",
+    "vi": null
+  },
+  "advancements.mowziesmobs.sculptor_failure.title": {
+    "en": "No One Jumps for the Beef",
+    "zh": "欲获其果，首担其责",
+    "vi": null
+  },
+  "advancements.mowziesmobs.sculptor_failure.description": {
+    "en": "Fall to your death during the Sculptor's challenge",
+    "zh": "在雕刻家-通臂大师的挑战从高处坠落致死",
+    "vi": null
+  },
+  "subtitles.mowziesmobs.foliaath.bite": {
+    "en": "Foliaath bites",
+    "zh": "巨噬叶: 啃咬",
+    "vi": null
+  },
+  "subtitles.mowziesmobs.foliaath.pant": {
+    "en": "Foliaath pants",
+    "zh": "巨噬叶: 喘息",
+    "vi": null
+  },
+  "subtitles.mowziesmobs.foliaath.grunt": {
+    "en": "Foliaath grunts",
+    "zh": "巨噬叶: 咕哝声",
+    "vi": null
+  },
+  "subtitles.mowziesmobs.foliaath.emerge": {
+    "en": "Foliaath emerges",
+    "zh": "巨噬叶: 出现",
+    "vi": null
+  },
+  "subtitles.mowziesmobs.foliaath.retreat": {
+    "en": "Foliaath retreats",
+    "zh": "巨噬叶: 缩回",
+    "vi": null
+  },
+  "subtitles.mowziesmobs.foliaath.die": {
+    "en": "Foliaath dies",
+    "zh": "巨噬叶: 死亡",
+    "vi": null
+  },
+  "subtitles.mowziesmobs.foliaath.hurt": {
+    "en": "Foliaath grunts",
+    "zh": "巨噬叶: 咕哝声",
+    "vi": null
+  },
+  "subtitles.mowziesmobs.foliaath.rustle": {
+    "en": "Foliaath rustles",
+    "zh": "巨噬叶: 沙沙声",
+    "vi": null
+  },
+  "subtitles.mowziesmobs.foliaath.baby_eat": {
+    "en": "Baby foliaath eats",
+    "zh": "巨噬叶幼苗: 吞吃",
+    "vi": null
+  },
+  "subtitles.mowziesmobs.wroughtnaut.whoosh": {
+    "en": "Axe of a Thousand Metals whooshes",
+    "zh": "千锻巨斧: 嗖嗖声",
+    "vi": null
+  },
+  "subtitles.mowziesmobs.wroughtnaut.creak": {
+    "en": "Ferrous Wroughtnaut creaks",
+    "zh": "钢铁守护者",
+    "vi": null
+  },
+  "subtitles.mowziesmobs.wroughtnaut.grunt": {
+    "en": "Ferrous Wroughtnaut grunts",
+    "zh": "钢铁守护者: 嘟囔声",
+    "vi": null
+  },
+  "subtitles.mowziesmobs.wroughtnaut.hurt": {
+    "en": "Ferrous Wroughtnaut grunts",
+    "zh": "钢铁守护者: 咕哝声",
+    "vi": null
+  },
+  "subtitles.mowziesmobs.wroughtnaut.pre_swing": {
+    "en": "Ferrous Wroughtnaut grunts",
+    "zh": "钢铁守护者",
+    "vi": null
+  },
+  "subtitles.mowziesmobs.wroughtnaut.pull": {
+    "en": "Ferrous Wroughtnaut pulls his axe",
+    "zh": "钢铁守护者: 拔出斧头",
+    "vi": null
+  },
+  "subtitles.mowziesmobs.wroughtnaut.release": {
+    "en": "Ferrous Wroughtnaut frees his axe",
+    "zh": "钢铁守护者: 放下斧头",
+    "vi": null
+  },
+  "subtitles.mowziesmobs.wroughtnaut.shout": {
+    "en": "Ferrous Wroughtnaut shouts",
+    "zh": null,
+    "vi": null
+  },
+  "subtitles.mowziesmobs.wroughtnaut.scream": {
+    "en": "Ferrous Wroughtnaut dies",
+    "zh": "钢铁守护者: 尖啸",
+    "vi": null
+  },
+  "subtitles.mowziesmobs.wroughtnaut.swing": {
+    "en": "Ferrous Wroughtnaut attacks",
+    "zh": "钢铁守护者: 攻击",
+    "vi": null
+  },
+  "subtitles.mowziesmobs.wroughtnaut.footstep": {
+    "en": "Ferrous Wroughtnaut steps",
+    "zh": "钢铁守护者: 踏步",
+    "vi": null
+  },
+  "subtitles.mowziesmobs.wroughtnaut.axe_clang": {
+    "en": "Axe of a Thousand Metals clangs",
+    "zh": "千锻巨斧: 铿锵声",
+    "vi": null
+  },
+  "subtitles.mowziesmobs.umvuthana.shout": {
+    "en": "Umvuthana shouts",
+    "zh": null,
+    "vi": null
+  },
+  "subtitles.mowziesmobs.umvuthana.battlecry": {
+    "en": "Umvuthana battlecries",
+    "zh": null,
+    "vi": null
+  },
+  "subtitles.mowziesmobs.umvuthana.die": {
+    "en": "Umvuthana dies",
+    "zh": null,
+    "vi": null
+  },
+  "subtitles.mowziesmobs.umvuthana.hurt": {
+    "en": "Umvuthana grunts",
+    "zh": null,
+    "vi": null
+  },
+  "subtitles.mowziesmobs.umvuthana.idle": {
+    "en": "Umvuthana caws",
+    "zh": null,
+    "vi": null
+  },
+  "subtitles.mowziesmobs.umvuthana.alert": {
+    "en": "Umvuthana caws",
+    "zh": null,
+    "vi": null
+  },
+  "subtitles.mowziesmobs.umvuthana.roar": {
+    "en": "Umvuthana screeches",
+    "zh": null,
+    "vi": null
+  },
+  "subtitles.mowziesmobs.umvuthana.rattle": {
+    "en": "Umvuthana rattles",
+    "zh": null,
+    "vi": null
+  },
+  "subtitles.mowziesmobs.umvuthana.attack": {
+    "en": "Umvuthana attacks",
+    "zh": null,
+    "vi": null
+  },
+  "subtitles.mowziesmobs.umvuthana.attack_big": {
+    "en": "Umvuthana attacks",
+    "zh": null,
+    "vi": null
+  },
+  "subtitles.mowziesmobs.umvuthana.emerge": {
+    "en": "Umvuthana emerges",
+    "zh": null,
+    "vi": null
+  },
+  "subtitles.mowziesmobs.umvuthana.retract": {
+    "en": "Umvuthana retracts",
+    "zh": null,
+    "vi": null
+  },
+  "subtitles.mowziesmobs.umvuthana.heal": {
+    "en": "Umvuthana Crane heals",
+    "zh": null,
+    "vi": null
+  },
+  "subtitles.mowziesmobs.umvuthana.teleport": {
+    "en": "Umvuthana Crane teleports",
+    "zh": null,
+    "vi": null
+  },
+  "subtitles.mowziesmobs.umvuthana.blowdart": {
+    "en": "Blowgun shoots",
+    "zh": null,
+    "vi": null
+  },
+  "subtitles.mowziesmobs.umvuthi.belly": {
+    "en": "Umvuthi beats his belly",
+    "zh": null,
+    "vi": null
+  },
+  "subtitles.mowziesmobs.umvuthi.idle": {
+    "en": "Umvuthi caws",
+    "zh": null,
+    "vi": null
+  },
+  "subtitles.mowziesmobs.umvuthi.die": {
+    "en": "Umvuthi dies",
+    "zh": null,
+    "vi": null
+  },
+  "subtitles.mowziesmobs.umvuthi.hurt": {
+    "en": "Umvuthi grunts",
+    "zh": null,
+    "vi": null
+  },
+  "subtitles.mowziesmobs.umvuthi.attack": {
+    "en": "Umvuthi attacks",
+    "zh": null,
+    "vi": null
+  },
+  "subtitles.mowziesmobs.umvuthi.burst": {
+    "en": "Solar flare bursts",
+    "zh": null,
+    "vi": null
+  },
+  "subtitles.mowziesmobs.umvuthi.bless": {
+    "en": "Umvuthi bellows",
+    "zh": null,
+    "vi": null
+  },
+  "subtitles.mowziesmobs.sunstrike": {
+    "en": "Sunstrike smites",
+    "zh": "太阳打击: 重击",
+    "vi": null
+  },
+  "subtitles.mowziesmobs.laser": {
+    "en": "Solar beam fires",
+    "zh": "太阳光束: 发射",
+    "vi": null
+  },
+  "subtitles.mowziesmobs.umvuthi.roar": {
+    "en": "Umvuthi roars",
+    "zh": null,
+    "vi": null
+  },
+  "subtitles.mowziesmobs.umvuthi.supernova_start": {
+    "en": "Supernova absorbs energy",
+    "zh": null,
+    "vi": null
+  },
+  "subtitles.mowziesmobs.umvuthi.black_hole": {
+    "en": "Black hole hums",
+    "zh": null,
+    "vi": null
+  },
+  "subtitles.mowziesmobs.umvuthi.supernova_end": {
+    "en": "Supernova explodes",
+    "zh": null,
+    "vi": null
+  },
+  "subtitles.mowziesmobs.geomancy.small_rock": {
+    "en": "Small rock crashes",
+    "zh": "小岩块: 碰撞",
+    "vi": null
+  },
+  "subtitles.mowziesmobs.geomancy.small_hit": {
+    "en": "Small rock hits",
+    "zh": "小岩块: 击中",
+    "vi": null
+  },
+  "subtitles.mowziesmobs.geomancy.big_hit": {
+    "en": "Big rock hits",
+    "zh": "大岩块: 击中",
+    "vi": null
+  },
+  "subtitles.mowziesmobs.geomancy.big_break": {
+    "en": "Big rock smashes",
+    "zh": "大岩块: 重击",
+    "vi": null
+  },
+  "subtitles.mowziesmobs.geomancy.medium_break": {
+    "en": "Medium rock smashes",
+    "zh": "中岩块: 重击",
+    "vi": null
+  },
+  "subtitles.mowziesmobs.geomancy.hit": {
+    "en": "Geomancy hits",
+    "zh": "大地祝福: 击中",
+    "vi": null
+  },
+  "subtitles.mowziesmobs.geomancy.medium_hit": {
+    "en": "Medium rock hits",
+    "zh": "中岩块: 击中",
+    "vi": null
+  },
+  "subtitles.mowziesmobs.geomancy.break": {
+    "en": "Rock breaks",
+    "zh": "岩块: 破碎",
+    "vi": null
+  },
+  "subtitles.mowziesmobs.geomancy.crash": {
+    "en": "Rock crashes",
+    "zh": "岩块: 崩碎",
+    "vi": null
+  },
+  "subtitles.mowziesmobs.geomancy.crumble": {
+    "en": "Rock crumbles",
+    "zh": "岩块: 崩裂",
+    "vi": null
+  },
+  "subtitles.mowziesmobs.geomancy.rumble": {
+    "en": "Earth rumbles",
+    "zh": "大地: 隆隆作响",
+    "vi": null
+  },
+  "subtitles.mowziesmobs.geomancy.boulder_charge": {
+    "en": "Earth rumbles",
+    "zh": "大地: 隆隆作响",
+    "vi": null
+  },
+  "subtitles.mowziesmobs.frostmaw.roar": {
+    "en": "Frostmaw roars",
+    "zh": "霜冻巨兽: 咆哮",
+    "vi": null
+  },
+  "subtitles.mowziesmobs.frostmaw.whoosh": {
+    "en": "Frostmaw swipes",
+    "zh": "霜冻巨兽: 横扫",
+    "vi": null
+  },
+  "subtitles.mowziesmobs.frostmaw.icebreath": {
+    "en": "Icy whirlwind flurries",
+    "zh": "冰旋风: 飘飞",
+    "vi": null
+  },
+  "subtitles.mowziesmobs.frostmaw.icebreath.start": {
+    "en": "Icy whirlwind starts",
+    "zh": "冰旋风: 起风",
+    "vi": null
+  },
+  "subtitles.mowziesmobs.frostmaw.iceball.charge": {
+    "en": "Ice ball charges",
+    "zh": "冰球: 蓄力",
+    "vi": null
+  },
+  "subtitles.mowziesmobs.frostmaw.iceball.shoot": {
+    "en": "Ice ball shoots",
+    "zh": "冰球: 发射",
+    "vi": null
+  },
+  "subtitles.mowziesmobs.frostmaw.footstep": {
+    "en": "Frostmaw steps",
+    "zh": "霜冻巨兽: 踏步",
+    "vi": null
+  },
+  "subtitles.mowziesmobs.frostmaw.land": {
+    "en": "Frostmaw crashes to the ground",
+    "zh": "霜冻巨兽: 砸击地面",
+    "vi": null
+  },
+  "subtitles.mowziesmobs.frostmaw.attack": {
+    "en": "Frostmaw attacks",
+    "zh": "霜冻巨兽: 攻击",
+    "vi": null
+  },
+  "subtitles.mowziesmobs.frostmaw.die": {
+    "en": "Frostmaw dies",
+    "zh": "霜冻巨兽: 死亡",
+    "vi": null
+  },
+  "subtitles.mowziesmobs.frostmaw.breath": {
+    "en": "Frostmaw breathes",
+    "zh": "霜冻巨兽: 呼吸",
+    "vi": null
+  },
+  "subtitles.mowziesmobs.frostmaw.groan": {
+    "en": "Frostmaw groans",
+    "zh": "霜冻巨兽: 呻吟",
+    "vi": null
+  },
+  "subtitles.mowziesmobs.frostmaw.growl": {
+    "en": "Frostmaw growls",
+    "zh": "霜冻巨兽: 低声咆哮",
+    "vi": null
+  },
+  "subtitles.mowziesmobs.frostmaw.wakeup": {
+    "en": "Frostmaw awakens",
+    "zh": "霜冻巨兽: 苏醒",
+    "vi": null
+  },
+  "subtitles.mowziesmobs.ice.crash": {
+    "en": "Ice crashes",
+    "zh": "冰块: 破碎",
+    "vi": null
+  },
+  "subtitles.mowziesmobs.grottol.step": {
+    "en": "Grottol crawls",
+    "zh": "岩壳居蟹: 爬行",
+    "vi": null
+  },
+  "subtitles.mowziesmobs.grottol.dig": {
+    "en": "Grottol digs",
+    "zh": "岩壳居蟹: 挖掘",
+    "vi": null
+  },
+  "subtitles.mowziesmobs.grottol.die": {
+    "en": "Grottol dies",
+    "zh": "岩壳居蟹: 死亡",
+    "vi": null
+  },
+  "subtitles.mowziesmobs.black_pink": {
+    "en": "Black Pink in your area!",
+    "zh": "湮灭区域！",
+    "vi": null
+  },
+  "subtitles.mowziesmobs.lantern.pop": {
+    "en": "Lantern pops",
+    "zh": "荧光浮灯: 啵",
+    "vi": null
+  },
+  "subtitles.mowziesmobs.lantern.puff": {
+    "en": "Lantern puffs",
+    "zh": "荧光浮灯: 喷气",
+    "vi": null
+  },
+  "subtitles.mowziesmobs.naga.acid.charge": {
+    "en": "Naga concentrates acid",
+    "zh": "娜迦: 蓄积酸液",
+    "vi": null
+  },
+  "subtitles.mowziesmobs.naga.acid.hit": {
+    "en": "Acid splatters",
+    "zh": "酸液: 飞溅",
+    "vi": null
+  },
+  "subtitles.mowziesmobs.naga.acid.spit": {
+    "en": "Naga spits",
+    "zh": "娜迦: 喷吐",
+    "vi": null
+  },
+  "subtitles.mowziesmobs.naga.acid.hiss": {
+    "en": "Acid hisses",
+    "zh": "酸液: 嘶嘶声",
+    "vi": null
+  },
+  "subtitles.mowziesmobs.naga.flap": {
+    "en": "Naga flaps",
+    "zh": "娜迦: 拍打翅膀",
+    "vi": null
+  },
+  "subtitles.mowziesmobs.naga.growl": {
+    "en": "Naga growls",
+    "zh": "娜迦: 低沉咆哮",
+    "vi": null
+  },
+  "subtitles.mowziesmobs.naga.grunt": {
+    "en": "Naga grunts",
+    "zh": "娜迦: 咕哝声",
+    "vi": null
+  },
+  "subtitles.mowziesmobs.naga.roar": {
+    "en": "Naga roars",
+    "zh": "娜迦: 咆哮",
+    "vi": null
+  },
+  "subtitles.mowziesmobs.naga.swoop": {
+    "en": "Naga swoops",
+    "zh": "娜迦: 猛扑",
+    "vi": null
+  },
+  "subtitles.mowziesmobs.sculptor.ah": {
+    "en": "Sculptor talks",
+    "zh": "雕刻家：问候",
+    "vi": null
+  },
+  "subtitles.mowziesmobs.sculptor.greeting": {
+    "en": "Sculptor talks",
+    "zh": "雕刻家：问候",
+    "vi": null
+  },
+  "subtitles.mowziesmobs.sculptor.hm": {
+    "en": "Sculptor ponders",
+    "zh": "雕刻家：沉思",
+    "vi": null
+  },
+  "subtitles.mowziesmobs.sculptor.laugh": {
+    "en": "Sculptor laughs",
+    "zh": "雕刻家：笑",
+    "vi": null
+  },
+  "subtitles.mowziesmobs.sculptor.disappoint": {
+    "en": "Sculptor disapproves",
+    "zh": "雕刻家：失望",
+    "vi": null
+  },
+  "subtitles.mowziesmobs.sculptor.congrats": {
+    "en": "Sculptor cheers",
+    "zh": "雕刻家：欢呼",
+    "vi": null
+  },
+  "subtitles.mowziesmobs.sculptor.death": {
+    "en": "Sculptor dies",
+    "zh": "雕刻家：死亡",
+    "vi": null
+  },
+  "subtitles.mowziesmobs.sculptor.hurt": {
+    "en": "Sculptor grunts",
+    "zh": "雕刻家：受伤",
+    "vi": null
+  },
+  "subtitles.mowziesmobs.sculptor.attack": {
+    "en": "Sculptor shouts",
+    "zh": "雕刻家：掷弹",
+    "vi": null
+  },
+  "subtitles.mowziesmobs.sculptor.make_gauntlet": {
+    "en": "Sculptor concentrates",
+    "zh": "雕刻家：凝神",
+    "vi": null
+  },
+  "subtitles.mowziesmobs.sculptor.make_gauntlet_effects": {
+    "en": "Gauntlet assembles",
+    "zh": "大地手套：凝集",
+    "vi": null
+  },
+  "subtitles.mowziesmobs.sculptor.make_gauntlet_piece": {
+    "en": "Gauntlet piece attaches",
+    "zh": "大地手套：碎片凝结",
+    "vi": null
+  },
+  "subtitles.mowziesmobs.sculptor.disappear": {
+    "en": "Sculptor disappears",
+    "zh": "雕刻家：消失",
+    "vi": null
+  },
+  "subtitles.mowziesmobs.sculptor.disappear_effects": {
+    "en": "Sculptor disappears",
+    "zh": "雕刻家：消失",
+    "vi": null
+  },
+  "subtitles.mowziesmobs.sculptor.clap": {
+    "en": "Sculptor claps",
+    "zh": "雕刻家：鼓掌",
+    "vi": null
+  },
+  "subtitles.mowziesmobs.sculptor.platform_crumble": {
+    "en": "Platform crumbles",
+    "zh": "平台：崩解",
+    "vi": null
+  },
+  "subtitles.mowziesmobs.bluff.attack": {
+    "en": "Bluff attacks",
+    "zh": null,
+    "vi": null
+  },
+  "subtitles.mowziesmobs.bluff.death": {
+    "en": "Bluff dies",
+    "zh": null,
+    "vi": null
+  },
+  "subtitles.mowziesmobs.bluff.hurt": {
+    "en": "Bluff takes damage",
+    "zh": null,
+    "vi": null
+  },
+  "subtitles.mowziesmobs.bluff.idle": {
+    "en": "Bluff grunts",
+    "zh": null,
+    "vi": null
+  },
+  "subtitles.mowziesmobs.bluff.spike_emerge": {
+    "en": "Earth spike emerges",
+    "zh": null,
+    "vi": null
+  },
+  "subtitles.mowziesmobs.bluff.spike_explode": {
+    "en": "Earth spike crumbles",
+    "zh": null,
+    "vi": null
+  },
+  "subtitles.mowziesmobs.ground_hit": {
+    "en": "Something hits the ground",
+    "zh": "某物：撞到地面",
+    "vi": null
+  },
+  "subtitles.mowziesmobs.clink": {
+    "en": "Attack deflects",
+    "zh": "攻击偏转",
+    "vi": null
+  },
+  "subtitles.mowziesmobs.metal_impact": {
+    "en": "Metal clangs",
+    "zh": null,
+    "vi": null
+  },
+  "subtitles.mowziesmobs.petiole": {
+    "en": "Petiole",
+    "zh": null,
+    "vi": null
+  },
+  "subtitles.mowziesmobs.umvuthi_theme": {
+    "en": "Umvuthi Battle Theme",
+    "zh": "太阳酋长主题音乐",
+    "vi": null
+  },
+  "subtitles.mowziesmobs.ferrous_wroughtnaut_theme": {
+    "en": "Ferrous Wroughtnaut Battle Theme",
+    "zh": "钢铁守护者主题音乐",
+    "vi": null
+  },
+  "subtitles.mowziesmobs.frostmaw_theme": {
+    "en": "Frostmaw Battle Theme",
+    "zh": "霜冻巨兽主题音乐",
+    "vi": null
+  },
+  "subtitles.mowziesmobs.sculptor_theme": {
+    "en": "Sculptor Theme",
+    "zh": "雕刻家主题音乐",
+    "vi": null
+  },
+  "config.mowziesmobs.ice_crystal_breakable": {
+    "en": null,
+    "zh": "可破坏",
+    "vi": null
+  },
+  "config.mowziesmobs.ice_crystal_attack_multiplier": {
+    "en": null,
+    "zh": "",
+    "vi": null
+  },
+  "advancements.mowziesmobs.kill_barako.title": {
+    "en": null,
+    "zh": "赞美太阳",
+    "vi": null
+  },
+  "advancements.mowziesmobs.kill_barako.description": {
+    "en": null,
+    "zh": "击杀太阳酋长",
+    "vi": null
+  },
+  "advancements.mowziesmobs.kill_umvuthana.title": {
+    "en": null,
+    "zh": "愚者总按两遍铃",
+    "vi": null
+  },
+  "advancements.mowziesmobs.kill_umvuthana.description": {
+    "en": null,
+    "zh": "击杀乌姆塔纳猛禽",
+    "vi": null
+  },
+  "subtitles.mowziesmobs.wroughtnaut.die": {
+    "en": null,
+    "zh": "钢铁守护者: 死亡",
+    "vi": null
+  },
+  "subtitles.mowziesmobs.barakoa.shout": {
+    "en": null,
+    "zh": "原始人: 大叫",
+    "vi": null
+  },
+  "subtitles.mowziesmobs.barakoa.battlecry": {
+    "en": null,
+    "zh": "原始人: 战斗呼喊",
+    "vi": null
+  },
+  "subtitles.mowziesmobs.barakoa.die": {
+    "en": null,
+    "zh": "原始人: 死亡",
+    "vi": null
+  },
+  "subtitles.mowziesmobs.barakoa.hurt": {
+    "en": null,
+    "zh": "原始人: 嘟囔声",
+    "vi": null
+  },
+  "subtitles.mowziesmobs.barakoa.talk": {
+    "en": null,
+    "zh": "原始人: 交谈",
+    "vi": null
+  },
+  "subtitles.mowziesmobs.barakoa.blowdart": {
+    "en": null,
+    "zh": "原始人: 射出吹镖",
+    "vi": null
+  },
+  "subtitles.mowziesmobs.barakoa.inhale": {
+    "en": null,
+    "zh": "原始人: 吸气",
+    "vi": null
+  },
+  "subtitles.mowziesmobs.barakoa.swing": {
+    "en": null,
+    "zh": "原始人: 攻击",
+    "vi": null
+  },
+  "subtitles.mowziesmobs.barakoa.emerge": {
+    "en": null,
+    "zh": "原始人: 出现",
+    "vi": null
+  },
+  "subtitles.mowziesmobs.barakoa.retract": {
+    "en": null,
+    "zh": "原始人: 退场",
+    "vi": null
+  },
+  "subtitles.mowziesmobs.barakoa.heal": {
+    "en": null,
+    "zh": "原始人祭司: 治疗",
+    "vi": null
+  },
+  "subtitles.mowziesmobs.barakoa.teleport": {
+    "en": null,
+    "zh": "原始人祭司: 传送",
+    "vi": null
+  },
+  "subtitles.mowziesmobs.barako.belly": {
+    "en": null,
+    "zh": "太阳酋长: 拍打腹部",
+    "vi": null
+  },
+  "subtitles.mowziesmobs.barako.shout": {
+    "en": null,
+    "zh": "太阳酋长: 叫喊",
+    "vi": null
+  },
+  "subtitles.mowziesmobs.barako.talk": {
+    "en": null,
+    "zh": "太阳酋长: 说话",
+    "vi": null
+  },
+  "subtitles.mowziesmobs.barako.die": {
+    "en": null,
+    "zh": "太阳酋长: 死亡",
+    "vi": null
+  },
+  "subtitles.mowziesmobs.barako.hurt": {
+    "en": null,
+    "zh": "太阳酋长: 嘟囔声",
+    "vi": null
+  },
+  "subtitles.mowziesmobs.barako.attack": {
+    "en": null,
+    "zh": "太阳酋长: 攻击",
+    "vi": null
+  },
+  "subtitles.mowziesmobs.barako.burst": {
+    "en": null,
+    "zh": "太阳耀斑: 爆发",
+    "vi": null
+  },
+  "subtitles.mowziesmobs.barako.bless": {
+    "en": null,
+    "zh": "太阳酋长: 吟唱",
+    "vi": null
+  },
+  "subtitles.mowziesmobs.barako.scream": {
+    "en": null,
+    "zh": "太阳酋长: 尖叫",
+    "vi": null
+  },
+  "subtitles.mowziesmobs.barako.supernova_start": {
+    "en": null,
+    "zh": "超新星: 吸收能量",
+    "vi": null
+  },
+  "subtitles.mowziesmobs.barako.black_hole": {
+    "en": null,
+    "zh": "黑洞: 嗡嗡作响",
+    "vi": null
+  },
+  "subtitles.mowziesmobs.barako.supernova_end": {
+    "en": null,
+    "zh": "超新星: 爆炸",
+    "vi": null
+  }
+}

@@ -1,0 +1,1012 @@
+{
+  "item.too_many_bows.arcane_bow": {
+    "en": "Arcane Bow",
+    "zh": "秘法弓",
+    "vi": "Arcane Bow"
+  },
+  "item.too_many_bows.dark_bow": {
+    "en": "Dark Bow",
+    "zh": "幽匿之弓",
+    "vi": "Dark Bow"
+  },
+  "item.too_many_bows.ancient_sage_bow": {
+    "en": "Ancient Sage Bow",
+    "zh": "古贤之弓",
+    "vi": "Ancient Sage Bow"
+  },
+  "item.too_many_bows.verdant_viper": {
+    "en": "Verdant Viper",
+    "zh": "翠绿蝰蛇弓",
+    "vi": "Verdant Viper"
+  },
+  "item.too_many_bows.wind_bow": {
+    "en": "Wind Bow",
+    "zh": "风之弓",
+    "vi": "Wind Bow"
+  },
+  "item.too_many_bows.demons_grasp": {
+    "en": "Demons Grasp",
+    "zh": "恶魔之握",
+    "vi": "Demons Grasp"
+  },
+  "item.too_many_bows.aethers_call": {
+    "en": "Aether's Call",
+    "zh": "以太之唤",
+    "vi": "Aether's Call"
+  },
+  "item.too_many_bows.spectral_bow": {
+    "en": "Spectral Bow",
+    "zh": "幽灵弓",
+    "vi": "Spectral Bow"
+  },
+  "item.too_many_bows.cyroheart_bow": {
+    "en": "Cyroheart Bow",
+    "zh": "冰心弓",
+    "vi": "Cyroheart Bow"
+  },
+  "item.too_many_bows.flame_bow": {
+    "en": "Pyre's Embrace",
+    "zh": "烈焰之拥",
+    "vi": "Pyre's Embrace"
+  },
+  "item.too_many_bows.necro_flame_bow": {
+    "en": "Necro Flame Bow",
+    "zh": "死灵火焰弓",
+    "vi": "Necro Flame Bow"
+  },
+  "item.too_many_bows.tidal_bow": {
+    "en": "Tidal Bow",
+    "zh": "潮汐弓",
+    "vi": "Tidal Bow"
+  },
+  "item.too_many_bows.hunter_bow": {
+    "en": "Hunter's Bow",
+    "zh": "猎人之弓",
+    "vi": "Hunter's Bow"
+  },
+  "item.too_many_bows.sentinels_wrath": {
+    "en": "Sentinel's Wrath",
+    "zh": "哨兵之怒",
+    "vi": "Sentinel's Wrath"
+  },
+  "item.too_many_bows.frostbite": {
+    "en": "Frostbite",
+    "zh": "霜冻",
+    "vi": "Frostbite"
+  },
+  "item.too_many_bows.burnt_relic": {
+    "en": "Burnt Relic",
+    "zh": "烧焦遗物",
+    "vi": "Burnt Relic"
+  },
+  "item.too_many_bows.ironclad_bow": {
+    "en": "Ironclad Bow",
+    "zh": "铁壁弓",
+    "vi": "Ironclad Bow"
+  },
+  "item.too_many_bows.arc_heavens": {
+    "en": "Arc Of The Heavens",
+    "zh": "天际之弧",
+    "vi": "Arc Of The Heavens"
+  },
+  "item.too_many_bows.solar_bow": {
+    "en": "Solar Flare",
+    "zh": "太阳耀斑弓",
+    "vi": "Solar Flare"
+  },
+  "item.too_many_bows.dragons_breath": {
+    "en": "Dragons Breath",
+    "zh": "龙息弓",
+    "vi": "Dragons Breath"
+  },
+  "item.too_many_bows.skull": {
+    "en": null,
+    "zh": "死灵颅骨",
+    "vi": "hộp sọ Necron"
+  },
+  "item.too_many_bows.ancient_sage": {
+    "en": null,
+    "zh": "古贤",
+    "vi": "hiền nhân cổ xưa"
+  },
+  "item.too_many_bows.frozenite": {
+    "en": null,
+    "zh": "冰冻石",
+    "vi": "đá đông lạnh"
+  },
+  "item.too_many_bows.shulker_blast": {
+    "en": "Shulker's Blast",
+    "zh": "潜影贝爆炸",
+    "vi": "Shulker's Blast"
+  },
+  "item.too_many_bows.crimson_nexus": {
+    "en": "Crimson Nexus",
+    "zh": "猩红节点",
+    "vi": "Crimson Nexus"
+  },
+  "too_many_bows_tab": {
+    "en": "Too Many Bows",
+    "zh": "Too Many Bows",
+    "vi": "Too Many Bows"
+  },
+  "category.many_bows": {
+    "en": "Too Many Bows",
+    "zh": "Too Many Bows",
+    "vi": "Too Many Bows"
+  },
+  "item.many_bows.crimson_nexus.tooltip": {
+    "en": "A bow pulsing with crimson energy.",
+    "zh": "一把散发着猩红能量的脉动之弓。",
+    "vi": "Một cây cung rung động tỏa ra năng lượng đỏ thẫm."
+  },
+  "item.many_bows.crimson_nexus.tooltip.ability": {
+    "en": "Fires energy arrows that consume health and lifedrain nearby foes.",
+    "zh": "消耗自身生命值并对附近敌人造成生命吸取效果。",
+    "vi": "Tiêu hao sức khỏe của chính bạn và gây hiệu ứng hút máu kẻ địch ở gần."
+  },
+  "item.many_bows.crimson_nexus.tooltip.legend": {
+    "en": "Master its power, but beware its toll.",
+    "zh": "掌握它的力量，但要警惕它的代价。",
+    "vi": "Làm chủ sức mạnh của nó, nhưng hãy cảnh giác với cái giá phải trả của nó."
+  },
+  "item.many_bows.crimson_nexus.tooltip.info": {
+    "en": "Consumes health to fire powerful arrows.",
+    "zh": "发射强力箭矢时会消耗自身生命值。",
+    "vi": "Khi bắn những mũi tên mạnh, sức khỏe của bạn sẽ bị tiêu hao."
+  },
+  "item.many_bows.crimson_nexus.tooltip.health_cost": {
+    "en": "Health Cost: §c%s HP§r per shot.",
+    "zh": "生命值消耗：每箭消耗 §c%s HP§r。",
+    "vi": "Tiêu thụ HP: Mỗi mũi tên tiêu thụ §c%s HP§r."
+  },
+  "item.many_bows.arcane_bow.tooltip": {
+    "en": "Unleashes a mystical spread of arrows with arcane energy.",
+    "zh": "释放带有神秘能量的神秘箭矢散射。",
+    "vi": "Giải phóng một loạt mũi tên thần bí mang năng lượng thần bí."
+  },
+  "item.many_bows.arcane_bow.tooltip.ability": {
+    "en": "Ability: Fires three arrows in a spread pattern, dealing extra arcane damage.",
+    "zh": "能力：以散射模式发射三支箭，造成额外的神秘伤害。",
+    "vi": "Kỹ năng: Bắn ra ba mũi tên ở chế độ phân tán, gây thêm sát thương Thần Bí."
+  },
+  "item.many_bows.arcane_bow.tooltip.legend": {
+    "en": "Ancient secrets lie within its enchanted limbs...",
+    "zh": "古老的秘密隐藏在其被施魔法的弓身之中...",
+    "vi": "Những bí mật cổ xưa nằm bên trong cây cung đầy mê hoặc của nó..."
+  },
+  "item.many_bows.solar_bow.tooltip": {
+    "en": "§eA powerful bow charged by the sun",
+    "zh": "§e一把由太阳充能的强大弓",
+    "vi": "§e Cung mạnh mẽ được cung cấp năng lượng bởi mặt trời"
+  },
+  "item.many_bows.solar_bow.tooltip.ability": {
+    "en": "§cShoots flaming solar arrows on full charge.",
+    "zh": "§c满蓄力时发射燃烧的太阳能箭。",
+    "vi": "§c bắn ra những mũi tên mặt trời rực lửa khi được sạc đầy."
+  },
+  "item.many_bows.frostbite_bow.tooltip": {
+    "en": "A bow forged from the chilling essence of ice.",
+    "zh": "一把由冰冷精华锻造的弓。",
+    "vi": "Một cây cung được rèn từ tinh chất băng giá."
+  },
+  "item.many_bows.frostbite_bow.tooltip.ability": {
+    "en": "Shoots frost arrows that slow and freeze enemies on full charge.",
+    "zh": "满蓄力时发射冰霜箭，减速并冻结敌人。",
+    "vi": "Khi được sạc đầy, bắn những mũi tên băng giá để làm chậm và đóng băng kẻ thù."
+  },
+  "item.many_bows.frostbite_bow.tooltip.frostwalker": {
+    "en": "Applies Frost Walker effect when pulling back bow.",
+    "zh": "拉弓时应用冰霜行者效果。",
+    "vi": "Áp dụng hiệu ứng Frost Walker khi vẽ chiếc nơ."
+  },
+  "item.too_many_bows.arc_heavens.tooltip": {
+    "en": "Unleash the power of the storm.",
+    "zh": "释放风暴的力量。",
+    "vi": "Giải phóng sức mạnh của cơn bão."
+  },
+  "item.too_many_bows.arc_heavens.tooltip.ability": {
+    "en": "Strikes foes with lightning on a direct hit.",
+    "zh": "直接命中时以闪电打击敌人。",
+    "vi": "Tấn công kẻ thù bằng tia sét khi đánh trực tiếp."
+  },
+  "item.too_many_bows.sonic_bow.tooltip": {
+    "en": "Harness the destructive force of the Warden's roar",
+    "zh": "利用守卫者的咆哮的破坏力",
+    "vi": "Khai thác sức mạnh hủy diệt của Guardian's Roar"
+  },
+  "item.too_many_bows.sonic_bow.tooltip.ability": {
+    "en": "Shoots a powerful shockwave that pierces enemies with immense force",
+    "zh": "发射强大的冲击波，以巨大的力量穿透敌人",
+    "vi": "Phát ra một làn sóng xung kích mạnh mẽ xuyên qua kẻ thù với lực cực lớn"
+  },
+  "item.too_many_bows.sonic_bow.tooltip.legend": {
+    "en": "Forged from the echoes of the Deep Dark, this bow unleashes pure devastation.",
+    "zh": "由深暗回声锻造，此弓释放纯粹的毁灭力量。",
+    "vi": "Được rèn từ những tiếng vọng đen tối sâu thẳm, cây cung này giải phóng sức mạnh hủy diệt thuần túy."
+  },
+  "item.many_bows.dragons_breath_bow.tooltip": {
+    "en": "Power of the Dragon",
+    "zh": "龙之力量",
+    "vi": "sức mạnh rồng"
+  },
+  "item.many_bows.dragons_breath_bow.tooltip.ability": {
+    "en": "Fires a charged arrow that spawns dragon's breath upon impact.",
+    "zh": "发射蓄力箭，命中后产生龙息。",
+    "vi": "Bắn một mũi tên tích điện tạo ra hơi thở rồng sau khi bắn trúng nó."
+  },
+  "item.too_many_bows.verdant_viper_bow.tooltip": {
+    "en": "A bow that harnesses the venom of nature.",
+    "zh": "一把利用自然毒液的弓。",
+    "vi": "Một cây cung khai thác nọc độc tự nhiên."
+  },
+  "item.too_many_bows.verdant_viper_bow.tooltip.ability": {
+    "en": "Shoots arrows that leave behind a poisonous cloud.",
+    "zh": "发射箭矢，留下毒云。",
+    "vi": "Bắn mũi tên và để lại những đám mây độc phía sau."
+  },
+  "item.too_many_bows.verdant_viper_bow.tooltip.legend": {
+    "en": "It is said this bow was forged from the fangs of the great serpent king.",
+    "zh": "据说此弓由大蛇王的毒牙锻造而成。",
+    "vi": "Người ta nói rằng cây cung này được rèn từ răng nanh của Đại Xà Vương."
+  },
+  "item.too_many_bows.flame_bow.tooltip": {
+    "en": "Harness the Power of Fire",
+    "zh": "利用火焰的力量",
+    "vi": "Khai thác sức mạnh của lửa"
+  },
+  "item.too_many_bows.flame_bow.tooltip.ability": {
+    "en": "Shoots flaming arrows that cause fiery explosions.",
+    "zh": "发射火焰箭，引发火爆。",
+    "vi": "Bắn ra những mũi tên lửa, gây ra một vụ nổ rực lửa."
+  },
+  "item.too_many_bows.flame_bow.tooltip.legend": {
+    "en": "A legendary bow forged in the heart of a volcano.",
+    "zh": "一把在火山中心锻造的传奇之弓。",
+    "vi": "Cây cung huyền thoại được rèn trong lòng núi lửa."
+  },
+  "item.too_many_bows.tidal_bow.tooltip": {
+    "en": "The power of the ocean flows through this bow.",
+    "zh": "此弓流淌着海洋的力量。",
+    "vi": "Cung này chảy với sức mạnh của đại dương."
+  },
+  "item.too_many_bows.tidal_bow.tooltip.ability": {
+    "en": "You are able to shoot arrows underwater as normal arrows.",
+    "zh": "您可以在水下像发射普通箭一样发射箭矢。",
+    "vi": "Bạn có thể bắn mũi tên dưới nước như những mũi tên bình thường."
+  },
+  "item.too_many_bows.tidal_bow.tooltip.legend": {
+    "en": "A bow that harnesses the ancient power of the seas.",
+    "zh": "一把利用海洋古老力量的弓。",
+    "vi": "Một cây cung khai thác sức mạnh cổ xưa của biển cả."
+  },
+  "item.too_many_bows.cursed_flame_bow.tooltip": {
+    "en": "A bow imbued with cursed flames, known to halt regeneration and burn with inextinguishable fury.",
+    "zh": "一把蕴含诅咒火焰的弓，以阻止再生并以不灭之怒燃烧而闻名。",
+    "vi": "Một cây cung chứa ngọn lửa nguyền rủa, được biết đến với khả năng ngăn chặn sự tái sinh và đốt cháy cơn thịnh nộ bất diệt."
+  },
+  "item.too_many_bows.cursed_flame_bow.tooltip.ability": {
+    "en": "Ignites foes with cursed fire: blocks all regen, can't be extinguished by water, and deals a heart of damage per tick.",
+    "zh": "用诅咒之火点燃敌人：阻止再生回血效果，并每秒造成一颗心的伤害。",
+    "vi": "Đốt cháy kẻ thù bằng Lửa nguyền rủa: Ngăn chặn khả năng hồi phục và gây sát thương một tim mỗi giây."
+  },
+  "item.too_many_bows.cursed_flame_bow.tooltip.legend": {
+    "en": "Forged in dark, forbidden flames.",
+    "zh": "在黑暗、禁忌的火焰中锻造而成。",
+    "vi": "Được rèn trong bóng tối, những ngọn lửa bị cấm."
+  },
+  "effect.too_many_bows.cursed_flame": {
+    "en": "Cursed Flame",
+    "zh": "诅咒火焰",
+    "vi": "Ngọn lửa nguyền rủa"
+  },
+  "item.too_many_bows.scatter_bow": {
+    "en": "Scatter Shot",
+    "zh": "散射弓",
+    "vi": "Scatter Shot"
+  },
+  "item.many_bows.scatter_bow.tooltip": {
+    "en": "A bow that shoots arrows in all directions",
+    "zh": "一把可以向各个方向发射箭矢的弓",
+    "vi": "Một cây cung bắn mũi tên về mọi hướng"
+  },
+  "item.many_bows.scatter_bow.tooltip.ability": {
+    "en": "Releases a burst of arrows",
+    "zh": "释放一阵箭矢",
+    "vi": "phóng ra một loạt mũi tên"
+  },
+  "item.many_bows.scatter_bow.tooltip.legend": {
+    "en": "Crafted by the greatest archers",
+    "zh": "由最伟大的弓箭手打造",
+    "vi": "Được rèn bởi những cung thủ vĩ đại nhất"
+  },
+  "item.many_bows.ancient_sage_bow.tooltip": {
+    "en": "An ancient weapon of unmatched power.",
+    "zh": "一把无与伦比的古老武器。",
+    "vi": "Một vũ khí cổ xưa vô song."
+  },
+  "item.many_bows.ancient_sage_bow.tooltip.ability": {
+    "en": "Pierces through 33% of armor defenses.",
+    "zh": "穿透33%的护甲防御",
+    "vi": "Xuyên thủng 33% giáp phòng thủ"
+  },
+  "item.many_bows.ancient_sage_bow.tooltip.legend": {
+    "en": "Only the wise can wield its true might.",
+    "zh": "只有智者才能发挥其真正的力量。",
+    "vi": "Chỉ có người khôn ngoan mới có thể phát huy được sức mạnh thực sự của mình."
+  },
+  "item.too_many_bows.wind_bow.tooltip": {
+    "en": "Harness the power of the wind",
+    "zh": "利用风的力量",
+    "vi": "Khai thác sức mạnh của gió"
+  },
+  "item.too_many_bows.wind_bow.tooltip.ability": {
+    "en": "Special Ability: Levitation Shot",
+    "zh": "特殊能力：迅捷步伐",
+    "vi": "Khả năng đặc biệt: Bước chân nhanh nhẹn"
+  },
+  "item.too_many_bows.wind_bow.tooltip.effect": {
+    "en": "Draw the bow to move swiftly; enemies hit may be lifted skyward",
+    "zh": "拉弓可以迅速移动",
+    "vi": "Vẽ cung để di chuyển nhanh chóng"
+  },
+  "item.too_many_bows.wind_bow.tooltip.legend": {
+    "en": "Ancient whispers say this bow was crafted from a storm's fury",
+    "zh": "古老的传言说，这把弓是由风暴的愤怒锻造而成",
+    "vi": "Người xưa đồn rằng cây cung này được rèn từ cơn bão cuồng nộ"
+  },
+  "item.many_bows.icicle_javelin_bow.tooltip": {
+    "en": "A bow imbued with the power of freezing winds.",
+    "zh": "一把蕴含着寒风之力的弓。",
+    "vi": "Một cây cung chứa sức mạnh của gió lạnh."
+  },
+  "item.many_bows.icicle_javelin_bow.tooltip.ability": {
+    "en": "Fires icicle javelins that pierce enemies.",
+    "zh": "发射冰锥标枪，穿透敌人",
+    "vi": "Bắn một mũi lao băng xuyên qua kẻ thù"
+  },
+  "item.many_bows.icicle_javelin_bow.tooltip.freeze": {
+    "en": "summon ice upon block hit.",
+    "zh": "击中方块时会召唤出冰块",
+    "vi": "Khối băng được triệu tập khi chạm vào một khối"
+  },
+  "item.too_many_bows.ironclad_bow.tooltip": {
+    "en": "Forged with iron, tempered in battle",
+    "zh": "铁铸而成，战火中淬炼",
+    "vi": "Làm bằng sắt, tôi luyện trong lửa chiến tranh"
+  },
+  "item.too_many_bows.ironclad_bow.tooltip.ability": {
+    "en": "Magnetic Pulse: Pulls enemies towards the point of impact of arrow..",
+    "zh": "磁力脉冲：将敌人拉向撞击点",
+    "vi": "Xung từ: Kéo kẻ thù về phía điểm va chạm"
+  },
+  "item.too_many_bows.ironclad_bow.tooltip.legend": {
+    "en": "Including yourself (block radius 5)..",
+    "zh": "箭矢蕴含磁力…",
+    "vi": "Mũi tên có từ tính..."
+  },
+  "item.too_many_bows.hunter_bow_bow": {
+    "en": "The Hunter's trusty bow.",
+    "zh": "猎人的信赖之弓",
+    "vi": "The Hunter's trusty bow."
+  },
+  "item.too_many_bows.hunter_bow.tooltip": {
+    "en": "§7Effective against passive mobs.",
+    "zh": "§7对被动生物特别有效",
+    "vi": "§7 đặc biệt hiệu quả đối với các sinh vật thụ động"
+  },
+  "item.too_many_bows.hunter_bow.hold_shift": {
+    "en": "§8[Hold §eShift§8] for more info",
+    "zh": "§8[按住 §eShift§8] 查看更多信息",
+    "vi": "§8[Hold §eShift§8] for more info"
+  },
+  "item.too_many_bows.hunter_bow.shift_title": {
+    "en": "§6Strong against:",
+    "zh": "§6擅长对付：",
+    "vi": "§6Strong against:"
+  },
+  "item.too_many_bows.hunter_bow.mob1": {
+    "en": "§7Cows",
+    "zh": "§7牛",
+    "vi": "§7Cows"
+  },
+  "item.too_many_bows.hunter_bow.mob2": {
+    "en": "§7Pigs",
+    "zh": "§7猪",
+    "vi": "§7Pigs"
+  },
+  "item.too_many_bows.hunter_bow.mob3": {
+    "en": "§7Sheep",
+    "zh": "§7羊",
+    "vi": "§7Sheep"
+  },
+  "item.too_many_bows.hunter_bow.mob4": {
+    "en": "§7Chickens",
+    "zh": "§7鸡",
+    "vi": "§7Chickens"
+  },
+  "item.too_many_bows.hunter_bow.mob5": {
+    "en": "§7Rabbits",
+    "zh": "§7兔子",
+    "vi": "§7Rabbits"
+  },
+  "item.too_many_bows.emerald_sage_bow": {
+    "en": "Emerald Sage Bow",
+    "zh": "翡翠贤者之弓",
+    "vi": "Emerald Sage Bow"
+  },
+  "item.too_many_bows.emerald_sage_bow.tooltip": {
+    "en": "Grants bonus XP upon hitting enemies",
+    "zh": "击中敌人可获得额外经验值",
+    "vi": "Đánh kẻ thù mang lại cho bạn thêm điểm kinh nghiệm"
+  },
+  "item.too_many_bows.sentinels_wrath.tooltip": {
+    "en": "§7Effective against raiders.",
+    "zh": "§7对袭击者特别有效",
+    "vi": "§7 đặc biệt hiệu quả chống lại những kẻ tấn công"
+  },
+  "item.too_many_bows.sentinels_wrath.hold_shift": {
+    "en": "§8[Hold §eShift§8] for more info",
+    "zh": "§8[按住 §eShift§8] 查看更多信息",
+    "vi": "§8[Hold §eShift§8] for more info"
+  },
+  "item.too_many_bows.sentinels_wrath.shift_title": {
+    "en": "§6Strong against:",
+    "zh": "§6擅长对付：",
+    "vi": "§6Strong against:"
+  },
+  "item.too_many_bows.sentinels_wrath.mob1": {
+    "en": "§7Pillagers",
+    "zh": "§7掠夺者",
+    "vi": "§7Pillagers"
+  },
+  "item.too_many_bows.sentinels_wrath.mob2": {
+    "en": "§7Vindicators",
+    "zh": "§7卫道士",
+    "vi": "§7Vindicators"
+  },
+  "item.too_many_bows.sentinels_wrath.mob3": {
+    "en": "§7Evokers",
+    "zh": "§7唤魔者",
+    "vi": "§7Evokers"
+  },
+  "item.too_many_bows.sentinels_wrath.mob4": {
+    "en": "§7Ravagers",
+    "zh": "§7劫掠兽",
+    "vi": "§7Ravagers"
+  },
+  "item.too_many_bows.sentinels_wrath.mob5": {
+    "en": "§7Illusioners",
+    "zh": "§7幻术师",
+    "vi": "§7Illusioners"
+  },
+  "item.too_many_bows.sentinels_wrath.mob6": {
+    "en": "§7Witches",
+    "zh": "§7女巫",
+    "vi": "§7Witches"
+  },
+  "item.too_many_bows.shulker_blast_bow.tooltip": {
+    "en": "Fires homing Shulker blasts",
+    "zh": "发射自动追踪的潜影贝爆炸弹",
+    "vi": "Bắn bom shulker tự theo dõi"
+  },
+  "item.too_many_bows.shulker_blast_bow.shift_title": {
+    "en": "§6Special Effects",
+    "zh": "§6特殊效果",
+    "vi": "§6Special Effects"
+  },
+  "item.too_many_bows.shulker_blast_bow.effect1": {
+    "en": "§7Homing projectiles",
+    "zh": "§7自动追踪的投射物",
+    "vi": "§7Homing projectiles"
+  },
+  "item.too_many_bows.shulker_blast_bow.hold_shift": {
+    "en": "§8[Hold §eShift§8] for more info",
+    "zh": "§8[按住 §eShift§8] 查看更多信息",
+    "vi": "§8[Hold §eShift§8] for more info"
+  },
+  "item.too_many_bows.burnt_relic.tooltip": {
+    "en": "Ancient relic bow",
+    "zh": "古老遗物之弓",
+    "vi": "Cung di tích cổ"
+  },
+  "item.too_many_bows.burnt_relic.tooltip1": {
+    "en": "Once used by Ancient Gods, still holds a flicker of power...",
+    "zh": "曾被古神所用，至今仍蕴含着微弱的力量...",
+    "vi": "Một khi đã được các vị thần cổ xưa sử dụng, nó vẫn ẩn chứa một sức mạnh yếu ớt..."
+  },
+  "item.too_many_bows.burnt_relic.tooltip2": {
+    "en": "Infinite arrows and enhanced damage",
+    "zh": "无限箭矢与增强伤害",
+    "vi": "Mũi tên không giới hạn và sát thương tăng cường"
+  },
+  "advancement.too_many_bows.root.title": {
+    "en": "Too Many Bows",
+    "zh": "弓太多",
+    "vi": "quá nhiều cung"
+  },
+  "advancement.too_many_bows.root.description": {
+    "en": "Begin your journey to become a master archer by obtaining your first bow.",
+    "zh": "获得你的第一把弓，开始成为神射手的旅程。",
+    "vi": "Hãy lấy cây cung đầu tiên của bạn và bắt đầu hành trình trở thành một xạ thủ."
+  },
+  "advancement.too_many_bows.master_bow_collector.title": {
+    "en": "Bow Collector Extraordinaire",
+    "zh": "卓越的弓收藏家",
+    "vi": "Nhà sưu tập cung đáng chú ý"
+  },
+  "advancement.too_many_bows.master_bow_collector.description": {
+    "en": "Collect every unique bow in the Too Many Bows mod.",
+    "zh": "收集Too Many Bows模组中的所有独特弓。",
+    "vi": "Thu thập tất cả những chiếc cung độc đáo trong mod Too Many Bows."
+  },
+  "advancement.too_many_bows.necro_skull.title": {
+    "en": "The Cursed Stone",
+    "zh": "死灵颅骨",
+    "vi": "hộp sọ Necron"
+  },
+  "advancement.too_many_bows.necro_skull.description": {
+    "en": "Obtain the legendary Cursed Stone.",
+    "zh": "获得传说中的死灵颅骨。",
+    "vi": "Nhận được Hộp sọ Undead huyền thoại."
+  },
+  "advancement.too_many_bows.necro_flame_bow.title": {
+    "en": "Necro Flame Bow",
+    "zh": "死灵火焰弓",
+    "vi": "Cung lửa Necronomicon"
+  },
+  "advancement.too_many_bows.necro_flame_bow.description": {
+    "en": "Wield the power of the Necro Flame Bow.",
+    "zh": "掌握死灵火焰弓的力量。",
+    "vi": "Làm chủ sức mạnh của Cung lửa Necron."
+  },
+  "advancement.too_many_bows.ancient_sage.title": {
+    "en": "Ancient Sage",
+    "zh": "古代贤者",
+    "vi": "hiền nhân cổ xưa"
+  },
+  "advancement.too_many_bows.ancient_sage.description": {
+    "en": "Discover the power of the Ancient Sage.",
+    "zh": "发现古代贤者的力量。",
+    "vi": "Khám phá sức mạnh của các nhà hiền triết cổ đại."
+  },
+  "advancement.too_many_bows.frozenite.title": {
+    "en": "Frozenite",
+    "zh": "冰冻矿石",
+    "vi": "quặng đông lạnh"
+  },
+  "advancement.too_many_bows.frozenite.description": {
+    "en": "Obtain the mystical Frozenite ore.",
+    "zh": "获得神秘的冰冻矿石。",
+    "vi": "Lấy quặng đông lạnh bí ẩn."
+  },
+  "advancement.too_many_bows.frostbite.title": {
+    "en": "Frostbite",
+    "zh": "霜冻之咬",
+    "vi": "tê cóng"
+  },
+  "advancement.too_many_bows.frostbite.description": {
+    "en": "Wield the chilling power of the Frostbite Bow",
+    "zh": "掌握霜冻之弓的寒冷力量。",
+    "vi": "Làm chủ sức mạnh lạnh giá của Frost Bow."
+  },
+  "advancement.too_many_bows.sage_bow.title": {
+    "en": "Ancient Sage's Legacy",
+    "zh": "古代贤者的遗产",
+    "vi": "Di sản của các nhà hiền triết cổ đại"
+  },
+  "advancement.too_many_bows.sage_bow.description": {
+    "en": "Unleash the wisdom of the Ancient Sage Bow",
+    "zh": "释放古代贤者之弓的智慧。",
+    "vi": "Giải phóng trí tuệ của cây cung của nhà hiền triết cổ đại."
+  },
+  "advancement.shulker_blast.title": {
+    "en": "Master of Shulker Blasts",
+    "zh": "潜影贝爆炸大师",
+    "vi": "Bậc thầy nổ Shulker"
+  },
+  "advancement.shulker_blast.description": {
+    "en": "Obtain the Shulker Blast Bow",
+    "zh": "获得潜影贝爆炸弓。",
+    "vi": "Lấy cung nổ shulker."
+  },
+  "advancement.shulker_shell.title": {
+    "en": "Shulker's Gift",
+    "zh": "潜影贝的馈赠",
+    "vi": "Món quà của Shulker"
+  },
+  "advancement.shulker_shell.description": {
+    "en": "Collect a Shulker Shell",
+    "zh": "收集一个潜影贝外壳。",
+    "vi": "Thu thập một vỏ shulker."
+  },
+  "item.too_many_bows.vitality_weaver": {
+    "en": "Vitality Weaver",
+    "zh": "生命编织者",
+    "vi": "Vitality Weaver"
+  },
+  "item.too_many_bows.vitality_weaver.tooltip": {
+    "en": "A bow imbued with the power of life and death.",
+    "zh": "一把蕴含生死之力的弓。",
+    "vi": "Một cây cung chứa đựng sức mạnh của sự sống và cái chết."
+  },
+  "item.too_many_bows.vitality_weaver.details": {
+    "en": "Leeching Arrows: Arrows steal health from enemies and heal the shooter.",
+    "zh": "吸血箭：箭矢能从敌人身上偷取生命值并治疗射手。",
+    "vi": "Leeching Arrows: Arrows steal health from enemies and heal the shooter."
+  },
+  "item.too_many_bows.hold_shift": {
+    "en": "§8[Hold §eShift§8] for more info",
+    "zh": "§8[按住 §eShift§8] 查看更多信息",
+    "vi": "§8[Hold §eShift§8] for more info"
+  },
+  "entity.too_many_bows.vitality_arrow": {
+    "en": "Vitality Arrow",
+    "zh": "生命之箭",
+    "vi": "Vitality Arrow"
+  },
+  "item.too_many_bows.astral_bound": {
+    "en": "Astral Bound",
+    "zh": "星界束缚",
+    "vi": "Astral Bound"
+  },
+  "item.too_many_bows.astral_bow": {
+    "en": "They won't see it coming..",
+    "zh": "他们不会察觉到……",
+    "vi": "They won't see it coming.."
+  },
+  "item.too_many_bows.astral_bow.tooltip": {
+    "en": "Shoots strong arrows.",
+    "zh": "发射强力的箭矢。",
+    "vi": "Bắn ra những mũi tên mạnh mẽ."
+  },
+  "item.too_many_bows.astral_bow.details": {
+    "en": "This bow fires arrows that ricochet, enchant with Ricochet for more surfaces.",
+    "zh": "这把弓发射的箭矢能够弹射，使用弹射附魔可以使其在多个表面间弹跳。",
+    "vi": "This bow fires arrows that ricochet, enchant with Ricochet for more surfaces."
+  },
+  "enchantment.too_many_bows.ricochet": {
+    "en": "Ricochet",
+    "zh": "弹射",
+    "vi": "máy bắn đá"
+  },
+  "enchantment.too_many_bows.ricochet.desc": {
+    "en": "Allows arrows to ricochet off more surfaces for the Astral Bound Bow only.",
+    "zh": "仅对星界束缚弓有效，允许箭矢在更多表面进行弹射。",
+    "vi": "Chỉ hoạt động trên Cung ràng buộc Astral, cho phép mũi tên bật ra khỏi nhiều bề mặt hơn."
+  },
+  "enchantment.level.1": {
+    "en": "I",
+    "zh": "I",
+    "vi": "I"
+  },
+  "enchantment.level.2": {
+    "en": "II",
+    "zh": "II",
+    "vi": "II"
+  },
+  "enchantment.level.3": {
+    "en": "III",
+    "zh": "III",
+    "vi": "III"
+  },
+  "item.too_many_bows.spectral_whisper": {
+    "en": "Spectral Whisper",
+    "zh": "幽灵低语",
+    "vi": "Spectral Whisper"
+  },
+  "item.too_many_bows.spectral_whisper.tooltip": {
+    "en": "Arrows pierce through the first obstacle.",
+    "zh": "箭矢能穿透第一个障碍物。",
+    "vi": "Mũi tên có thể xuyên qua chướng ngại vật đầu tiên."
+  },
+  "item.too_many_bows.spectral_whisper.details": {
+    "en": "This bow fires spectral arrows that pass through blocks, damaging entities.",
+    "zh": "这把弓发射幽灵箭，能够穿透方块并伤害实体。",
+    "vi": "This bow fires spectral arrows that pass through blocks, damaging entities."
+  },
+  "entity.too_many_bows.spectral_arrow": {
+    "en": "Spectral Arrow",
+    "zh": "幽灵箭",
+    "vi": "Spectral Arrow"
+  },
+  "enchantment.too_many_bows.spectral": {
+    "en": "Spectral",
+    "zh": "幽灵",
+    "vi": "bóng ma"
+  },
+  "enchantment.too_many_bows.spectral.desc": {
+    "en": "Allows arrows to pass through additional obstacles.",
+    "zh": "允许箭矢穿透额外的障碍物。",
+    "vi": "Cho phép mũi tên xuyên qua chướng ngại vật bổ sung."
+  },
+  "item.too_many_bows.auroras_grace": {
+    "en": "Aurora's Grace",
+    "zh": "极光之恩",
+    "vi": "Aurora's Grace"
+  },
+  "item.many_bows.aurora_bow.tooltip": {
+    "en": "A bow infused with celestial energy.",
+    "zh": "一把蕴含天体能量的弓。",
+    "vi": "Một cây cung chứa năng lượng thiên thể."
+  },
+  "item.many_bows.aurora_bow.tooltip.ability": {
+    "en": "Harness the power of the rift.",
+    "zh": "利用裂缝的力量。",
+    "vi": "Khai thác sức mạnh của vết nứt."
+  },
+  "item.many_bows.aurora_bow.tooltip.extended": {
+    "en": "This bow requires both arrows and Rift Shards to fire.",
+    "zh": "这把弓需要箭矢和裂缝碎片才能发射。",
+    "vi": "Cây cung này cần có mũi tên và các mảnh nứt để bắn."
+  },
+  "item.many_bows.aurora_bow.item_use": {
+    "en": "You need Rift Shards to use this bow!",
+    "zh": "你需要裂缝碎片来使用这把弓！",
+    "vi": "You need Rift Shards to use this bow!"
+  },
+  "item.too_many_bows.rift_shard": {
+    "en": "Rift Shard",
+    "zh": "裂缝碎片",
+    "vi": "Rift Shard"
+  },
+  "item.too_many_bows.repair_crystal": {
+    "en": null,
+    "zh": "修复水晶",
+    "vi": "Sửa chữa pha lê"
+  },
+  "advancement.too_many_bows.repair.title": {
+    "en": "Power Crystal",
+    "zh": "修复水晶",
+    "vi": "Sửa chữa pha lê"
+  },
+  "advancement.too_many_bows.repair.description": {
+    "en": "Use this crystal to repair your bows on an anvil...",
+    "zh": "使用这块水晶在铁砧上修复你的弓……",
+    "vi": "Sử dụng viên pha lê này trên đe để sửa cây cung của bạn..."
+  },
+  "item.many_bows.repair_crystal.tooltip": {
+    "en": "A crystal of pure energy.",
+    "zh": "一块纯净能量的水晶。",
+    "vi": "Một tinh thể năng lượng thuần khiết."
+  },
+  "item.many_bows.repair_crystal.tooltip.use": {
+    "en": "Use in an anvil to repair bows.",
+    "zh": "在铁砧上使用以修复弓。",
+    "vi": "Sử dụng trên đe để sửa cung."
+  },
+  "item.many_bows.rift_shard.tooltip": {
+    "en": "A shard of pure energy.",
+    "zh": "一块纯净能量的碎片。",
+    "vi": "Một mảnh năng lượng thuần khiết."
+  },
+  "item.many_bows.rift_shard.tooltip.use": {
+    "en": "Use to infuse the Aurora's Grace bow arrows powerful enough to be fired.",
+    "zh": "用于为极光之恩弓的箭矢注入足够强大的能量以进行发射。",
+    "vi": "Được sử dụng để bơm đủ năng lượng vào các mũi tên của Aurora's Grace Bow để bắn ra."
+  },
+  "item.too_many_bows.cursed_stone": {
+    "en": "Cursed Stone",
+    "zh": "诅咒之石",
+    "vi": null
+  },
+  "item.too_many_bows.webstring": {
+    "en": "Webstring",
+    "zh": "网弦",
+    "vi": null
+  },
+  "item.too_many_bows.torchbearer": {
+    "en": "Torchebearer",
+    "zh": null,
+    "vi": null
+  },
+  "item.too_many_bows.soul_fragment": {
+    "en": "Soul Fragment",
+    "zh": "灵魂残片",
+    "vi": null
+  },
+  "item.too_many_bows.power_crystal": {
+    "en": "Power Crystal",
+    "zh": "蕴力凝晶",
+    "vi": null
+  },
+  "item.many_bows.cursed_stone.tooltip.info": {
+    "en": "Used to craft the Necro Bow",
+    "zh": "用于合成死灵弓",
+    "vi": null
+  },
+  "item.too_many_bows.arcforge": {
+    "en": "ArcForge",
+    "zh": null,
+    "vi": null
+  },
+  "item.too_many_bows.dusk_reaper": {
+    "en": "Dusk Reaper",
+    "zh": "黄昏死神",
+    "vi": null
+  },
+  "item.too_many_bows.ethereal_hunter": {
+    "en": "Ethereal Hunter",
+    "zh": "超凡猎弓",
+    "vi": null
+  },
+  "item.too_many_bows.twin_shadows": {
+    "en": "Twin Shadows",
+    "zh": "双生对影",
+    "vi": null
+  },
+  "item.too_many_bows.verdant_vigor": {
+    "en": "Verdant Vigor",
+    "zh": "苍翠活力",
+    "vi": null
+  },
+  "item.too_many_bows.radiance": {
+    "en": "Radiance",
+    "zh": "光辉",
+    "vi": null
+  },
+  "item.many_bows.verdant_vigor.tooltip": {
+    "en": "A bow imbued with the essence of nature.",
+    "zh": "蕴含大自然精华的弓。",
+    "vi": null
+  },
+  "item.many_bows.verdant_vigor.tooltip.ability": {
+    "en": "Holding this bow grants health and heals nearby allies.",
+    "zh": "持有此弓可获得生命值并治疗附近的盟友。",
+    "vi": null
+  },
+  "item.many_bows.verdant_vigor.tooltip.legend": {
+    "en": "Legends speak of its power to breathe life into barren lands.",
+    "zh": "传说中，它能为贫瘠的土地注入生机。",
+    "vi": null
+  },
+  "item.many_bows.twin_shadows.tooltip": {
+    "en": "A bow imbued with the essence of light and shadow.",
+    "zh": "蕴含光与影精华的弓。",
+    "vi": null
+  },
+  "item.many_bows.twin_shadows.tooltip.ability": {
+    "en": "Fires twin arrows: one of light and one of darkness.",
+    "zh": "发射双箭：一箭光明，一箭黑暗。",
+    "vi": null
+  },
+  "item.many_bows.twin_shadows.tooltip.legend": {
+    "en": "“Balance is the key to harmony.”",
+    "zh": "“平衡是和谐的关键。”",
+    "vi": null
+  },
+  "item.many_bows.radiance.tooltip": {
+    "en": "A bow blessed by celestial light.",
+    "zh": "一张受天光庇佑的弓。",
+    "vi": null
+  },
+  "item.many_bows.radiance.tooltip.ability": {
+    "en": "Radiant energy damages undead, heals allies, and blinds foes.",
+    "zh": "光辉能量可以伤害亡灵、治疗盟友并使敌人失明。",
+    "vi": null
+  },
+  "item.many_bows.radiance.tooltip.legend": {
+    "en": "“The light shall guide and protect.”",
+    "zh": "“光明将指引和保护我们。”",
+    "vi": null
+  },
+  "item.many_bows.radiance.tooltip.info": {
+    "en": "Consumes experience points to fire radiant arrows.",
+    "zh": "消耗经验值发射光辉箭。",
+    "vi": null
+  },
+  "item.many_bows.radiance.tooltip.xp": {
+    "en": "Experience Cost: §c%d XP§r per shot.",
+    "zh": "经验消耗：§c%d XP§r 每击。",
+    "vi": null
+  },
+  "item.many_bows.dusk_reaper.tooltip.info": {
+    "en": "Marks enemies.",
+    "zh": "标记敌人。",
+    "vi": null
+  },
+  "item.many_bows.dusk_reaper.tooltip.mark": {
+    "en": "Marked enemies take increased damage and leave a damaging trail.",
+    "zh": "被标记的敌人受到的伤害会增加，并留下伤害轨迹。",
+    "vi": null
+  },
+  "item.many_bows.dusk_reaper.tooltip.spectral": {
+    "en": "Fully charged shots create a spectral zone that damages and slows enemies.",
+    "zh": "完全蓄力射击会产生一个幽灵区域，对敌人造成伤害并使其减速。",
+    "vi": null
+  },
+  "item.many_bows.dusk_reaper.tooltip.effect": {
+    "en": "Marked enemies explode on death, dealing AoE damage.",
+    "zh": "被标记的敌人死亡时会爆炸，造成范围伤害。",
+    "vi": null
+  },
+  "item.many_bows.dusk_reaper.tooltip.debuff": {
+    "en": "Applies Weakness, Slowness, and constant damage to marked targets.",
+    "zh": "对标记目标施加虚弱、缓慢和持续伤害。",
+    "vi": null
+  },
+  "item.many_bows.dusk_reaper.tooltip.glow": {
+    "en": "Marked enemies are visible through walls.",
+    "zh": "被标记的敌人可以透过墙壁看到。",
+    "vi": null
+  },
+  "item.many_bows.soulfragment.tooltip.info": {
+    "en": "Used to fire the Dusk Reaper bow",
+    "zh": "用于发射黄昏死神弓。",
+    "vi": null
+  },
+  "item.many_bows.dusk_reaper.tooltip.soul_fragments": {
+    "en": "Consumes Soul Fragments to fire.",
+    "zh": "消耗灵魂残片发射。",
+    "vi": null
+  },
+  "item.many_bows.ethereal_hunter.tooltip.info": {
+    "en": "A mystical bow that fires radiant arrows fueled by your hunger.",
+    "zh": "一张神秘的弓，能以你的饥饿为动力射出光辉箭。",
+    "vi": null
+  },
+  "item.many_bows.ethereal_hunter.tooltip.hunger": {
+    "en": "Consumes %s hunger points per shot.",
+    "zh": "消耗 %s 点饥饿值每击。",
+    "vi": null
+  },
+  "item.many_bows.ethereal_hunter.tooltip.legend": {
+    "en": "Harnesses your energy to unleash powerful attacks.",
+    "zh": "利用你的能量发动强大的攻击。",
+    "vi": null
+  },
+  "item.many_bows.ethereal_hunter.no_hunger": {
+    "en": "You are too hungry to fire the bow!",
+    "zh": "你太饿了，无法开弓！",
+    "vi": null
+  },
+  "item.many_bows.dusk_reaper.no_soul_fragments": {
+    "en": "You need Soul Fragments to fire this bow!",
+    "zh": "你需要灵魂残片来发射这把弓！",
+    "vi": null
+  },
+  "item.many_bows.aurora_bow.no_rift_shard": {
+    "en": "You need a Rift shard to fire this bow!",
+    "zh": "你需要裂隙碎片来发射这把弓！",
+    "vi": null
+  },
+  "item.many_bows.radiance.no_experience": {
+    "en": "This bow requires XP to fire!",
+    "zh": "需要经验来发射这把弓！",
+    "vi": null
+  },
+  "item.too_many_bows.webstring_volley": {
+    "en": "Webstring Volley",
+    "zh": "网弦群射",
+    "vi": null
+  },
+  "item.too_many_bows.webstring_volley.tooltip": {
+    "en": "Unleash a volley of arrows in a wide spread.",
+    "zh": "大范围发射一排箭矢。",
+    "vi": null
+  },
+  "item.too_many_bows.webstring_volley.details": {
+    "en": "Shoots 5 arrows in a spread pattern, applying slowness to targets.",
+    "zh": "以散射模式射出 5 支箭，对目标施加缓慢。",
+    "vi": null
+  },
+  "item.too_many_bows.torchbearer_bow": {
+    "en": "Torchbearer Bow",
+    "zh": null,
+    "vi": null
+  },
+  "item.too_many_bows.torchbearer_bow.tooltip": {
+    "en": "Holding the bow gives off light.",
+    "zh": null,
+    "vi": null
+  },
+  "item.too_many_bows.torchbearer_bow.shift": {
+    "en": "Ignites enemies and lights your path.",
+    "zh": null,
+    "vi": null
+  },
+  "item.too_many_bows.torchbearer_bow.effect": {
+    "en": "Shoots fire arrows that place torches upon impact.",
+    "zh": null,
+    "vi": null
+  }
+}

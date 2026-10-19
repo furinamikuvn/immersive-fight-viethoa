@@ -1,0 +1,138 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": {
+        "min": 5,
+        "max": 6
+      },
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:end_rod",
+          "weight": 2
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:painting",
+          "weight": 2
+        },           
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:flower_pot",
+          "weight": 2
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:decorated_pot",
+          "weight": 2
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:lantern",
+          "weight": 2
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:torch",
+          "weight": 2
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:glow_item_frame",
+          "weight": 2
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:flint",
+          "weight": 2
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather",
+          "weight": 2
+        }
+      ],
+      "functions": [
+        {
+          "function": "minecraft:set_count",
+          "count": {
+            "min": 4,
+            "max": 8
+          }
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:iron_horse_armor",
+          "functions": [
+            {
+              "function": "minecraft:enchant_randomly",
+              "enchantments": [
+                "minecraft:unbreaking"
+              ],
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.5
+                }
+              ]
+            },
+            {
+              "function": "minecraft:enchant_randomly",
+              "enchantments": [
+                "minecraft:protection"
+              ],
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.5
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "conditions": [
+        {
+          "condition": "minecraft:random_chance",
+          "chance": 0.3
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_boots"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_leggings"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_chestplate"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_helmet"
+        }
+      ],
+      "functions": [
+        {
+          "function": "minecraft:enchant_with_levels",
+          "levels": {
+            "min": 0,
+            "max": 30
+          }
+        }
+      ]
+    }
+  ]
+}

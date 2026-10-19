@@ -1,0 +1,26 @@
+{
+  "name": "Trường Bính Đao (Glaive)",
+  "icon": "simplyswords:iron_glaive",
+  "category": "simplyswords:category_weapon_variants",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:iron_glaive",
+      "text": "Trường bính đao (Quan Đao/Đại Đao) tầm đánh rộng lớn, uy lực chém ngang quét dọc kinh thiên động địa."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "simplyswords:iron_glaive",
+      "recipe2": "simplyswords:gold_glaive"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "simplyswords:diamond_glaive"
+    },
+    {
+      "type": "patchouli:smithing",
+      "recipe": "simplyswords:netherite_glaive",
+      "recipe2": "simplyswords:runic_glaive"
+    }
+  ]
+}

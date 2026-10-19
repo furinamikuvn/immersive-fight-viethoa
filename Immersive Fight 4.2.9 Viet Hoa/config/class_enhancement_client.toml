@@ -1,0 +1,89 @@
+
+#═══════════════════════════════════════
+#  CLASS ENHANCEMENT CLIENT CONFIG
+#═══════════════════════════════════════
+[ui_text]
+	#Text displayed on the Confirm button (Supports translation keys or custom text)
+	confirmButtonText = "gui.linggango.class_enhancement.confirm"
+	#Main title text (Supports translation keys or custom text)
+	titleText = "gui.linggango.class_enhancement.title"
+
+#GUI Layout & Scaling
+[layout]
+	#Scale modifier for the entire GUI (1.0 = default, 1.5 = 50% larger)
+	#Range: 0.5 ~ 2.5
+	guiScale = 1.0
+	#Minimum button width in pixels
+	#Range: 80 ~ 300
+	minButtonWidth = 135
+	#Maximum button width in pixels
+	#Range: 100 ~ 400
+	maxButtonWidth = 220
+	#Button height in pixels
+	#Range: 20 ~ 50
+	buttonHeight = 28
+	#Vertical gap between buttons
+	#Range: 25 ~ 60
+	buttonGap = 34
+	#Number of visible button rows at once
+	#Range: 3 ~ 10
+	visibleRows = 5
+	#Width of the information panel
+	#Range: 150 ~ 300
+	panelWidth = 180
+
+#Color Customization (Hex format: #RRGGBB)
+[colors]
+	#Background color
+	backgroundColor = "#07070F"
+	#Panel background color
+	panelColor = "#0C0C1C"
+	#Accent gold color
+	goldColor = "#D4A843"
+	#Main text color
+	textColor = "#DDDDEE"
+	#Muted text color
+	mutedColor = "#7777AA"
+
+#Animation Settings
+[animations]
+	#Overall fade speed (higher = faster)
+	#Range: 0.01 ~ 0.5
+	fadeSpeed = 0.09
+	#Title reveal animation speed
+	#Range: 0.005 ~ 0.05
+	titleRevealSpeed = 0.014
+	#Scroll animation smoothness (higher = more responsive)
+	#Range: 0.1 ~ 0.8
+	scrollSpeed = 0.3
+	#Panel fade in/out speed
+	#Range: 0.05 ~ 0.5
+	panelFadeSpeed = 0.12
+	#Selection highlight fade speed
+	#Range: 0.05 ~ 0.5
+	selectionFadeSpeed = 0.12
+
+#Visual Effects
+[effects]
+	#Enable vignette effect around screen edges
+	enableVignette = true
+	#Strength of vignette effect (0.0 = none, 1.0 = full)
+	#Range: 0.0 ~ 1.0
+	vignetteStrength = 0.65
+	#Show 3D player preview with equipment
+	enablePlayerPreview = true
+	#Show item tooltips when hovering over starting equipment
+	enableItemTooltips = true
+	#Enable subtle bump animation to indicate scrollable panel
+	enableBumpAnimation = false
+
+#Cross-Mod Transition Settings
+[transitions]
+	#Enable smooth transition from difficulty selection screen
+	smoothTransitionFromDifficulty = true
+	#Duration of transition animation in seconds
+	#Range: 0.2 ~ 3.0
+	transitionDuration = 0.8
+	#Inherit background color gradient from difficulty screen
+	inheritBackgroundGradient = true
+

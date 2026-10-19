@@ -1,0 +1,14 @@
+{
+    "structures": [
+        {
+            "structure": "mtr:nether_temple",
+            "weight": 1
+        }
+    ],
+    "placement": {
+        "type": "moogs_structures:advanced_random_spread",
+        "salt": 887364097,
+        "spacing": 90,
+        "separation": 25
+    }
+}

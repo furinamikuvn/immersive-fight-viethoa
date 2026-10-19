@@ -1,0 +1,4 @@
+# Có thay thế mẫu Epic Fight gốc hay không
+# true: Thay thế toàn bộ mẫu vũ khí Epic Fight
+# false: Không thay thế, chỉ dùng làm thư viện hoạt ảnh bổ sung
+overwrite = false

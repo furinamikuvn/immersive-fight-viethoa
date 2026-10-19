@@ -1,0 +1,282 @@
+{
+  "block.minecraft.enchanting_table": {
+    "en": null,
+    "zh": "附魔台(被替代，详情查看任务实用物品章节)",
+    "vi": "Bảng bùa mê (đã thay thế, xem chương Vật phẩm thực hành nhiệm vụ để biết chi tiết)"
+  },
+  "block.mcde.runic_table": {
+    "en": "Runic Table",
+    "zh": "附魔书桌",
+    "vi": "Runic Table"
+  },
+  "block.mcde.roll_bench": {
+    "en": "Roll Bench",
+    "zh": "附魔刷新台",
+    "vi": "Roll Bench"
+  },
+  "block.mcde.gilding_foundry": {
+    "en": "Gilding Foundry",
+    "zh": "镀金台",
+    "vi": "Gilding Foundry"
+  },
+  "enchantment.minecraft.protection.desc": {
+    "en": "Reduces damage from most sources.",
+    "zh": "减少来自大多数来源的伤害。",
+    "vi": "Giảm thiệt hại từ hầu hết các nguồn."
+  },
+  "enchantment.minecraft.fire_protection.desc": {
+    "en": "Reduces the effects of fire damage. Also reduces the burn time when set on fire.",
+    "zh": "减少火焰伤害的效果。同时减少着火时的燃烧时间。",
+    "vi": "Giảm hiệu ứng sát thương của lửa. Đồng thời làm giảm thời gian cháy trong trường hợp hỏa hoạn."
+  },
+  "enchantment.minecraft.feather_falling.desc": {
+    "en": "Reduces fall damage and ender pearl teleportation damage.",
+    "zh": "减少跌落伤害和末影珍珠传送伤害。",
+    "vi": "Giảm sát thương khi rơi và sát thương dịch chuyển ngọc trai cuối cùng."
+  },
+  "enchantment.minecraft.blast_protection.desc": {
+    "en": "Reduces damage from explosions and explosion knockback.",
+    "zh": "减少爆炸伤害和爆炸击退效果。",
+    "vi": "Giảm sát thương vụ nổ và đánh bật vụ nổ."
+  },
+  "enchantment.minecraft.projectile_protection.desc": {
+    "en": "Reduces damage from projectiles such as arrows and fire balls.",
+    "zh": "减少来自如箭矢和火球等投射物的伤害。",
+    "vi": "Giảm sát thương từ các loại đạn như mũi tên và quả cầu lửa."
+  },
+  "enchantment.minecraft.respiration.desc": {
+    "en": "Extends the amount of time the player can spend under water. Also improves vision while under water.",
+    "zh": "延长玩家在水下的时间。同时改善水下视野。",
+    "vi": "Kéo dài thời gian người chơi có thể ở dưới nước. Cũng cải thiện tầm nhìn dưới nước."
+  },
+  "enchantment.minecraft.aqua_affinity.desc": {
+    "en": "Increases mining speed while underwater.",
+    "zh": "提高在水下的挖矿速度。",
+    "vi": "Tăng tốc độ khai thác dưới nước."
+  },
+  "enchantment.minecraft.thorns.desc": {
+    "en": "Causes damage to enemies when they attack you.",
+    "zh": "当敌人攻击你时，对敌人造成伤害。",
+    "vi": "Khi kẻ địch tấn công bạn, hãy gây sát thương cho kẻ địch."
+  },
+  "enchantment.minecraft.sharpness.desc": {
+    "en": "Increases the damage of the item.",
+    "zh": "增加物品的伤害。",
+    "vi": "Tăng sát thương vật phẩm."
+  },
+  "enchantment.minecraft.smite.desc": {
+    "en": "Increases damage against undead mobs such as Zombies and Skeletons.",
+    "zh": "增加对不死生物（如僵尸和骷髅）的伤害。",
+    "vi": "Tăng sát thương chống lại xác sống như zombie và bộ xương."
+  },
+  "enchantment.minecraft.bane_of_arthropods.desc": {
+    "en": "Increases damage against arthropods such as Spiders and Silverfish.",
+    "zh": "增加对节肢动物（如蜘蛛和蠹虫）的伤害。",
+    "vi": "Tăng sát thương cho động vật chân đốt như nhện và cá bạc."
+  },
+  "enchantment.minecraft.knockback.desc": {
+    "en": "Increases the knockback strength of the weapon.",
+    "zh": "增加武器的击退强度。",
+    "vi": "Tăng sức mạnh đẩy lùi của vũ khí."
+  },
+  "enchantment.minecraft.fire_aspect.desc": {
+    "en": "Causes additional fire damage when used to attack a mob.",
+    "zh": "攻击生物时造成额外的火焰伤害。",
+    "vi": "Gây thêm sát thương lửa khi tấn công sinh vật."
+  },
+  "enchantment.minecraft.looting.desc": {
+    "en": "Mobs will drop more loot when killed.",
+    "zh": "杀死生物时，生物会掉落更多战利品。",
+    "vi": "Mob rơi ra nhiều chiến lợi phẩm hơn khi bị giết."
+  },
+  "enchantment.minecraft.efficiency.desc": {
+    "en": "Increases mining speed of the tool.",
+    "zh": "提高工具的挖矿速度。",
+    "vi": "Tăng tốc độ khai thác của công cụ."
+  },
+  "enchantment.minecraft.silk_touch.desc": {
+    "en": "Allows fragile blocks such as glass to be collected.",
+    "zh": "允许收集脆弱的方块，如玻璃。",
+    "vi": "Cho phép thu thập các khối dễ vỡ như thủy tinh."
+  },
+  "enchantment.minecraft.unbreaking.desc": {
+    "en": "Causes the tool to lose durability at a slower rate.",
+    "zh": "使工具的耐久度下降速度减慢。",
+    "vi": "Làm chậm quá trình mất độ bền của công cụ."
+  },
+  "enchantment.minecraft.fortune.desc": {
+    "en": "Some blocks like coal and diamond ore may drop additional items.",
+    "zh": "一些方块，如煤和钻石矿石，可能会掉落额外的物品。",
+    "vi": "Một số khối, chẳng hạn như than đá và quặng kim cương, có thể rơi ra các vật phẩm bổ sung."
+  },
+  "enchantment.minecraft.power.desc": {
+    "en": "Increases the damage of arrows fired from the bow.",
+    "zh": "增加弓射出的箭的伤害。",
+    "vi": "Tăng sát thương của mũi tên bắn ra từ cung."
+  },
+  "enchantment.minecraft.punch.desc": {
+    "en": "Increases the knockback strength of arrows fired by the bow.",
+    "zh": "增加弓射出的箭的击退强度。",
+    "vi": "Tăng sức mạnh đánh bật của mũi tên bắn ra từ cung."
+  },
+  "enchantment.minecraft.flame.desc": {
+    "en": "Arrows fired from the bow will deal additional fire damage.",
+    "zh": "弓射出的箭将造成额外的火焰伤害。",
+    "vi": "Mũi tên bắn ra từ cung gây thêm sát thương lửa."
+  },
+  "enchantment.minecraft.infinity.desc": {
+    "en": "Allows the bow to fire normal arrows for free. You must have at least one arrow for this to work.",
+    "zh": "允许弓免费射出普通箭矢。至少需要一支箭才能生效。",
+    "vi": "Cho phép cung bắn tên bình thường miễn phí. Cần ít nhất một mũi tên để có hiệu quả."
+  },
+  "enchantment.minecraft.luck_of_the_sea.desc": {
+    "en": "Increases the chance of getting good loot while fishing.",
+    "zh": "增加钓鱼时获得优质战利品的几率。",
+    "vi": "Tăng cơ hội nhận được chiến lợi phẩm chất lượng khi câu cá."
+  },
+  "enchantment.minecraft.lure.desc": {
+    "en": "Decreases the amount of time it takes for a fish to bite the hook.",
+    "zh": "减少鱼咬钩所需的时间。",
+    "vi": "Giảm thời gian cá cắn câu."
+  },
+  "enchantment.minecraft.depth_strider.desc": {
+    "en": "Increases movement speed while under water.",
+    "zh": "增加在水下的移动速度。",
+    "vi": "Tăng tốc độ di chuyển dưới nước."
+  },
+  "enchantment.minecraft.frost_walker.desc": {
+    "en": "Freezes water under the player into frosted ice.",
+    "zh": "将玩家脚下的水冻结成霜冰。",
+    "vi": "Đóng băng nước dưới chân người chơi thành băng giá."
+  },
+  "enchantment.minecraft.mending.desc": {
+    "en": "Repairs the durability of armor and tools with XP.",
+    "zh": "使用经验值修复盔甲和工具的耐久度。",
+    "vi": "Sử dụng điểm kinh nghiệm để sửa chữa độ bền của áo giáp và công cụ."
+  },
+  "enchantment.minecraft.binding_curse.desc": {
+    "en": "Prevents the cursed item from being removed from an armor slot.",
+    "zh": "防止诅咒物品从盔甲槽中被移除。",
+    "vi": "Ngăn chặn việc vật phẩm bị nguyền rủa bị lấy ra khỏi khe áo giáp."
+  },
+  "enchantment.minecraft.vanishing_curse.desc": {
+    "en": "Destroys the cursed item if you die with it in your inventory.",
+    "zh": "如果玩家在携带诅咒物品时死亡，该物品将被销毁。",
+    "vi": "Nếu người chơi chết khi đang mang theo vật phẩm bị nguyền rủa, vật phẩm đó sẽ bị phá hủy."
+  },
+  "enchantment.minecraft.sweeping.desc": {
+    "en": "Increases the damage of sweeping attacks.",
+    "zh": "增加横扫攻击的伤害。",
+    "vi": "Tăng sát thương của các đòn tấn công quét."
+  },
+  "enchantment.minecraft.loyalty.desc": {
+    "en": "Allows the trident to automatically return after being thrown.",
+    "zh": "允许三叉戟在被投掷后自动返回。",
+    "vi": "Cho phép cây đinh ba tự động quay trở lại sau khi bị ném đi."
+  },
+  "enchantment.minecraft.impaling.desc": {
+    "en": "Increases damage to aquatic mobs.",
+    "zh": "增加对水生生物的伤害。",
+    "vi": "Tăng thiệt hại cho đời sống thủy sinh."
+  },
+  "enchantment.minecraft.riptide.desc": {
+    "en": "Allows the trident to launch the player forwards. Only works while in rain or water.",
+    "zh": "允许三叉戟将玩家向前发射。仅在下雨或水中有效。",
+    "vi": "Cho phép cây đinh ba phóng người chơi về phía trước. Chỉ hiệu quả khi trời mưa hoặc nước."
+  },
+  "enchantment.minecraft.channeling.desc": {
+    "en": "Allows the trident to summon lightning bolts during thunderstorms.",
+    "zh": "允许三叉戟在雷雨期间召唤闪电。",
+    "vi": "Cho phép cây đinh ba triệu hồi tia sét khi có giông bão."
+  },
+  "enchantment.minecraft.multishot.desc": {
+    "en": "Fires additional arrows in similar directions.",
+    "zh": "向类似方向发射额外的箭矢。",
+    "vi": "Bắn thêm mũi tên theo hướng tương tự."
+  },
+  "enchantment.minecraft.quick_charge.desc": {
+    "en": "Increases the reload speed of crossbows.",
+    "zh": "增加弩的装填速度。",
+    "vi": "Tăng tốc độ nạp lại nỏ."
+  },
+  "enchantment.minecraft.piercing.desc": {
+    "en": "Allows projectiles to pierce through mobs.",
+    "zh": "允许投射物穿透生物。",
+    "vi": "Cho phép đạn xuyên qua sinh vật."
+  },
+  "enchantment.minecraft.soul_speed.desc": {
+    "en": "Increases movement speed on soul blocks.",
+    "zh": "增加在灵魂方块上的移动速度。",
+    "vi": "Tăng tốc độ di chuyển trên các khối linh hồn."
+  },
+  "enchantment.minecraft.swift_sneak.desc": {
+    "en": "Increases movement speed while sneaking.",
+    "zh": "增加潜行时的移动速度。",
+    "vi": "Tăng tốc độ di chuyển khi lén lút."
+  },
+  "message.mcde.max_level": {
+    "en": "(Max Level)",
+    "zh": "（最高等级）",
+    "vi": "(mức cao nhất)"
+  },
+  "message.mcde.levels_required": {
+    "en": "(%d levels required)",
+    "zh": "（需要%d级）",
+    "vi": "(Yêu cầu cấp độ %d)"
+  },
+  "message.mcde.not_enough_levels": {
+    "en": "Not enough experience levels",
+    "zh": "经验等级不足",
+    "vi": "Mức độ kinh nghiệm không đủ"
+  },
+  "message.mcde.lapis_required": {
+    "en": "(%d lapis required)",
+    "zh": "（需要%d个青金石）",
+    "vi": "(yêu cầu %d lapis lazuli)"
+  },
+  "message.mcde.not_enough_lapis": {
+    "en": "Not enough lapis",
+    "zh": "青金石不足",
+    "vi": "Không đủ lapis lazuli"
+  },
+  "item.tooltip.gilded": {
+    "en": "[Gilded] - %s",
+    "zh": "[镀金] - %s",
+    "vi": "[Mạ Vàng] - %s"
+  },
+  "message.mcde.cant_generate": {
+    "en": "Can't generate a new enchantment",
+    "zh": "无法生成新的附魔",
+    "vi": "Không thể tạo bùa mê mới"
+  },
+  "message.mcde.error.config.general": {
+    "en": "An error occured while loading config. Using defaults. Check out logs for details",
+    "zh": "加载配置时出错。使用默认值。查看日志获取详细信息",
+    "vi": "Đã xảy ra lỗi khi tải cấu hình. Sử dụng giá trị mặc định. Kiểm tra nhật ký để biết chi tiết"
+  },
+  "message.mcde.already_exists": {
+    "en": "Enchantment is already applied",
+    "zh": "已应用附魔",
+    "vi": "Bùa mê được áp dụng"
+  },
+  "message.mcde.cant_combine": {
+    "en": "Can't combine with %s",
+    "zh": "无法与%s组合",
+    "vi": "Không thể kết hợp với %s"
+  },
+  "message.mcde.reroll_button.desc": {
+    "en": "Rerolls the amount of available slots and their enchantments.",
+    "zh": "重新刷新可用槽位及其附魔。",
+    "vi": "Làm mới các vị trí có sẵn và bùa mê của chúng."
+  },
+  "ui.mcde.gilding_button": {
+    "en": "Gild",
+    "zh": "镀金",
+    "vi": "mạ vàng"
+  },
+  "ui.mcde.regilding_button": {
+    "en": "Regild",
+    "zh": "重新镀金",
+    "vi": "mạ lại"
+  }
+}

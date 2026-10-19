@@ -1,0 +1,37 @@
+{
+  "type": "reterraforged:cache",
+  "value": {
+    "type": "reterraforged:warp",
+    "domain": {
+      "type": "reterraforged:domain",
+      "distance": 10.0,
+      "x": {
+        "type": "reterraforged:perlin",
+        "frequency": 0.06666667,
+        "gain": 0.5,
+        "interpolation": "CURVE3",
+        "lacunarity": 2.0,
+        "octaves": 1,
+        "seed": 746382641
+      },
+      "z": {
+        "type": "reterraforged:perlin",
+        "frequency": 0.06666667,
+        "gain": 0.5,
+        "interpolation": "CURVE3",
+        "lacunarity": 2.0,
+        "octaves": 1,
+        "seed": 746382642
+      }
+    },
+    "input": {
+      "type": "reterraforged:perlin",
+      "frequency": 0.015384615,
+      "gain": 0.5,
+      "interpolation": "CURVE3",
+      "lacunarity": 2.0,
+      "octaves": 3,
+      "seed": 746382640
+    }
+  }
+}

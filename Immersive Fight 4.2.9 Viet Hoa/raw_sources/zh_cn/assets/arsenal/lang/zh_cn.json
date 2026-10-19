@@ -1,0 +1,18 @@
+{
+  "itemGroup.arsenal": "Arsenal",
+
+  "item.arsenal.soul_metal_ingot": "魂金属锭",
+
+  "item.arsenal.charge_halberd": "充能戟",
+  "item.arsenal.charge_halberd.desc": "充能达到10点以上时，按【C】键键可在长矛与战斧形态间切换",
+  "item.arsenal.charge_halberd2_desc": "充能达到10点以上时，潜行【C】键可变形为戟形态",
+
+  "item.arsenal.soul_knight_great_sword": "灵魂骑士大剑",
+  "item.arsenal.soul_knight_great_sword.desc": "点燃敌人，或自身着火时引燃武器",
+  "item.arsenal.soul_knight_great_sword2.desc": "武器燃烧时按【C】键可激活技能",
+  "item.arsenal.soul_knight_spawn_egg": "灵魂骑士生成蛋",
+  "effect.arsenal.stun": "眩晕",
+  "advancements.arsenal.root.title": "arsenal",
+  "advancements.arsenal.root.description": "灵魂骑士进度",
+  "entity.arsenal.soul_knight": "灵魂骑士"
+}

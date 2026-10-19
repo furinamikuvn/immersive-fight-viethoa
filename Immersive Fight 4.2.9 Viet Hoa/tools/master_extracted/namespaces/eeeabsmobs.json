@@ -1,0 +1,2052 @@
+{
+  "_comment": {
+    "en": "Config",
+    "zh": "配置",
+    "vi": null
+  },
+  "item_group.eeeabsmobs.creative_tab": {
+    "en": "EEEAB's Mobs",
+    "zh": "EEEAB's Mobs",
+    "vi": null
+  },
+  "dev_group.eeeabsmobs.creative_tab": {
+    "en": "EEEAB's Mobs Unfinished Content",
+    "zh": "EEEAB's Mobs 未完成内容",
+    "vi": null
+  },
+  "entity.eeeabsmobs.corpse": {
+    "en": "Corpse",
+    "zh": "死尸",
+    "vi": null
+  },
+  "entity.eeeabsmobs.corpse_villager": {
+    "en": "Corpse Villager",
+    "zh": "死尸村民",
+    "vi": null
+  },
+  "entity.eeeabsmobs.corpse_warlock": {
+    "en": "Corpse Warlock",
+    "zh": "死尸术士",
+    "vi": null
+  },
+  "entity.eeeabsmobs.corpse_to_player": {
+    "en": "Corpse Minion",
+    "zh": "随从死尸",
+    "vi": null
+  },
+  "entity.eeeabsmobs.relic_observer": {
+    "en": "Relic Observer",
+    "zh": "遗迹观察者",
+    "vi": null
+  },
+  "entity.eeeabsmobs.relic_ripper": {
+    "en": "Relic Ripper",
+    "zh": "遗迹撕裂者",
+    "vi": null
+  },
+  "entity.eeeabsmobs.relic_earthshaker": {
+    "en": "Relic Earthshaker",
+    "zh": "遗迹撼地者",
+    "vi": null
+  },
+  "entity.eeeabsmobs.relic_annihilator": {
+    "en": "Relic Annihilator",
+    "zh": "遗迹歼击者",
+    "vi": null
+  },
+  "entity.eeeabsmobs.nameless_guardian": {
+    "en": "Nameless Guardian",
+    "zh": "无名守卫者",
+    "vi": null
+  },
+  "entity.eeeabsmobs.realm_warden": {
+    "en": "Realmwarden",
+    "zh": "界域戍卫",
+    "vi": null
+  },
+  "entity.eeeabsmobs.immortal_skeleton": {
+    "en": "Immortal Skeleton",
+    "zh": "不朽骷髅",
+    "vi": null
+  },
+  "entity.eeeabsmobs.immortal_archer": {
+    "en": "Immortal Skeleton(Archer)",
+    "zh": "不朽骷髅「射手」",
+    "vi": null
+  },
+  "entity.eeeabsmobs.immortal_mage": {
+    "en": "Immortal Skeleton(Mage)",
+    "zh": "不朽骷髅「法师」",
+    "vi": null
+  },
+  "entity.eeeabsmobs.immortal_warrior": {
+    "en": "Immortal Skeleton(Warrior)",
+    "zh": "不朽骷髅「战士」",
+    "vi": null
+  },
+  "entity.eeeabsmobs.immortal_knight": {
+    "en": "Immortal Skeleton(Knight)",
+    "zh": "不朽骷髅「骑士」",
+    "vi": null
+  },
+  "entity.eeeabsmobs.immortal_shaman": {
+    "en": "Immortal Shaman",
+    "zh": "不朽巫师",
+    "vi": null
+  },
+  "entity.eeeabsmobs.immortal_golem": {
+    "en": "Immortal Golem",
+    "zh": "不朽傀儡",
+    "vi": null
+  },
+  "entity.eeeabsmobs.immortal_executioner": {
+    "en": "Immortal Executioner",
+    "zh": "不朽斩魂者",
+    "vi": null
+  },
+  "entity.eeeabsmobs.immortal": {
+    "en": "The Immortal",
+    "zh": "不朽者",
+    "vi": null
+  },
+  "entity.eeeabsmobs.explode": {
+    "en": "Explode",
+    "zh": "爆炸",
+    "vi": null
+  },
+  "entity.eeeabsmobs.shaman_bomb": {
+    "en": "Shaman Bomb",
+    "zh": "巫师炸弹",
+    "vi": null
+  },
+  "entity.eeeabsmobs.eye_of_structure": {
+    "en": "Eye Of Structure",
+    "zh": "结构之眼",
+    "vi": null
+  },
+  "entity.eeeabsmobs.falling_block": {
+    "en": "Falling Block",
+    "zh": "下落方块",
+    "vi": null
+  },
+  "entity.eeeabsmobs.guardian_laser": {
+    "en": "Guardian Laser",
+    "zh": "守卫者激光",
+    "vi": null
+  },
+  "entity.eeeabsmobs.camera_shake": {
+    "en": "Camera Shake",
+    "zh": "相机抖动",
+    "vi": null
+  },
+  "entity.eeeabsmobs.tester": {
+    "en": "Tester",
+    "zh": "测试者",
+    "vi": null
+  },
+  "entity.eeeabsmobs.guardian_blade": {
+    "en": "Guardian Blade",
+    "zh": "守卫者之刃",
+    "vi": null
+  },
+  "entity.eeeabsmobs.poison_arrow": {
+    "en": "Poison Arrow",
+    "zh": "毒箭",
+    "vi": null
+  },
+  "entity.eeeabsmobs.blood_ball": {
+    "en": "Blood Ball",
+    "zh": "血球",
+    "vi": null
+  },
+  "entity.eeeabsmobs.crimson_crack": {
+    "en": "Crimson Crack",
+    "zh": "腥红裂缝",
+    "vi": null
+  },
+  "entity.eeeabsmobs.crimson_ray": {
+    "en": "Crimson Ray",
+    "zh": "腥红射线",
+    "vi": null
+  },
+  "entity.eeeabsmobs.crimson_ray_pre": {
+    "en": "Crimson Ray",
+    "zh": "腥红射线",
+    "vi": null
+  },
+  "entity.eeeabsmobs.pulsed_grenade": {
+    "en": "Pulsed Grenade",
+    "zh": "脉冲榴弹",
+    "vi": null
+  },
+  "entity.eeeabsmobs.annihilator_missile": {
+    "en": "Annihilator Missile",
+    "zh": "歼击者导弹",
+    "vi": null
+  },
+  "entity.eeeabsmobs.surge": {
+    "en": "Surge",
+    "zh": "电涌",
+    "vi": null
+  },
+  "entity.eeeabsmobs.electromagnetic": {
+    "en": "Electromagnetic",
+    "zh": "电磁脉冲",
+    "vi": null
+  },
+  "entity.eeeabsmobs.alien_portal": {
+    "en": "Alien Portal",
+    "zh": "异界传送门",
+    "vi": null
+  },
+  "entity.eeeabsmobs.immortal_magic_circle": {
+    "en": "Immortal Rune Circle",
+    "zh": "不朽符文阵",
+    "vi": null
+  },
+  "entity.eeeabsmobs.immortal_shuriken": {
+    "en": "Immortal Shuriken",
+    "zh": "不朽手里剑",
+    "vi": null
+  },
+  "entity.eeeabsmobs.immortal_laser": {
+    "en": "Immortal Laser",
+    "zh": "不朽激光",
+    "vi": null
+  },
+  "item.eeeabsmobs.logo_item": {
+    "en": "EEEAB's Mobs MOD Logo",
+    "zh": "EEEAB's Mobs 模组标识",
+    "vi": null
+  },
+  "item.eeeabsmobs.remove_mob": {
+    "en": "Mob Remover",
+    "zh": "生物移除器",
+    "vi": null
+  },
+  "item.eeeabsmobs.animation_controller": {
+    "en": "Animation Controller",
+    "zh": "动画控制器",
+    "vi": null
+  },
+  "item.eeeabsmobs.heart_of_pagan": {
+    "en": "Heart of Pagan",
+    "zh": "异教徒的心脏",
+    "vi": null
+  },
+  "item.eeeabsmobs.soul_summon_necklace": {
+    "en": "Summoning Soul Necklace",
+    "zh": "唤魂项链",
+    "vi": null
+  },
+  "item.eeeabsmobs.coreforge_ruins_eye": {
+    "en": "Eye of Coreforge Ruins",
+    "zh": "机核之眼",
+    "vi": null
+  },
+  "item.eeeabsmobs.bloody_altar_eye": {
+    "en": "Eye of Bloody Altar",
+    "zh": "血色之眼",
+    "vi": null
+  },
+  "item.eeeabsmobs.ancient_drive_crystal": {
+    "en": "Ancient Drive Crystal",
+    "zh": "远古驱动水晶",
+    "vi": null
+  },
+  "item.eeeabsmobs.boundary_brick": {
+    "en": "Boundary Brick",
+    "zh": "古界砖",
+    "vi": null
+  },
+  "item.eeeabsmobs.chain_gear": {
+    "en": "Chain Gear Core",
+    "zh": "链齿核心",
+    "vi": null
+  },
+  "item.eeeabsmobs.guardian_cube": {
+    "en": "Guardian Core",
+    "zh": "戍卫核心",
+    "vi": null
+  },
+  "item.eeeabsmobs.buster_gauntlet": {
+    "en": "Buster Gauntlet",
+    "zh": "爆裂护手",
+    "vi": null
+  },
+  "item.eeeabsmobs.chainsword": {
+    "en": "Annihilator Sawblade",
+    "zh": "歼击者锯刃",
+    "vi": null
+  },
+  "item.eeeabsmobs.guardian_core": {
+    "en": "Guardian Core",
+    "zh": "守卫者核心",
+    "vi": null
+  },
+  "item.eeeabsmobs.guardian_axe": {
+    "en": "Guardian Battleaxe",
+    "zh": "守卫者战斧",
+    "vi": null
+  },
+  "item.eeeabsmobs.skyfall_hammer": {
+    "en": "Skyfall Hammer",
+    "zh": "坠天重锤",
+    "vi": null
+  },
+  "item.eeeabsmobs.doombolt_battleaxe": {
+    "en": "Doombolt Battleaxe",
+    "zh": "谴雷战斧",
+    "vi": null
+  },
+  "item.eeeabsmobs.immortal_axe": {
+    "en": "Immortal Axe",
+    "zh": "不朽斧",
+    "vi": null
+  },
+  "item.eeeabsmobs.immortal_sword": {
+    "en": "Immortal Sword",
+    "zh": "不朽剑",
+    "vi": null
+  },
+  "item.eeeabsmobs.immortal_bone": {
+    "en": "Immortal Bone",
+    "zh": "不朽之骨",
+    "vi": null
+  },
+  "item.eeeabsmobs.ghost_warrior_helmet": {
+    "en": "Ghost Warrior Helmet",
+    "zh": "幽冥武士头盔",
+    "vi": null
+  },
+  "item.eeeabsmobs.ghost_warrior_chestplate": {
+    "en": "Ghost Warrior Chestplate",
+    "zh": "幽冥武士胸甲",
+    "vi": null
+  },
+  "item.eeeabsmobs.ghost_warrior_leggings": {
+    "en": "Ghost Warrior Leggings",
+    "zh": "幽冥武士护腿",
+    "vi": null
+  },
+  "item.eeeabsmobs.ghost_warrior_boots": {
+    "en": "Ghost Warrior Boots",
+    "zh": "幽冥武士靴子",
+    "vi": null
+  },
+  "item.eeeabsmobs.netherworld_katana": {
+    "en": "The Netherworld Katana",
+    "zh": "幽冥炼狱太刀",
+    "vi": null
+  },
+  "item.eeeabsmobs.immortal_staff": {
+    "en": "Immortal Staff",
+    "zh": "不朽法杖",
+    "vi": null
+  },
+  "item.eeeabsmobs.immortal_debris": {
+    "en": "Armor Debris",
+    "zh": "盔甲残骸",
+    "vi": null
+  },
+  "item.eeeabsmobs.immortal_ingot": {
+    "en": "Immortal Ingot",
+    "zh": "不朽锭",
+    "vi": null
+  },
+  "item.eeeabsmobs.ghost_steel_ingot": {
+    "en": "Ghost Steel Ingot",
+    "zh": "幽冥钢锭",
+    "vi": null
+  },
+  "item.eeeabsmobs.nameless_guardian_theme_music_disc": {
+    "en": "Music Disc",
+    "zh": "音乐唱片",
+    "vi": null
+  },
+  "item.eeeabsmobs.realm_warden_theme_music_disc": {
+    "en": "Music Disc",
+    "zh": "音乐唱片",
+    "vi": null
+  },
+  "item.eeeabsmobs.the_immortal_theme_music_disc": {
+    "en": "Music Disc",
+    "zh": "音乐唱片",
+    "vi": null
+  },
+  "upgrade.eeeabsmobs.relicron": {
+    "en": "Relicron Upgrade",
+    "zh": "机兵升级",
+    "vi": null
+  },
+  "item.eeeabsmobs.smithing_template.relicron.ingredients": {
+    "en": "Chain Gear Core or Guardian Core",
+    "zh": "锯齿核心/戍卫核心",
+    "vi": null
+  },
+  "item.eeeabsmobs.smithing_template.relicron.base_slot_description": {
+    "en": "Add netherite weapon or tool",
+    "zh": "放入下界合金武器或工具",
+    "vi": null
+  },
+  "item.eeeabsmobs.smithing_template.relicron.additions_slot_description": {
+    "en": "Add Chain Gear Core or Guardian Core",
+    "zh": "放入锯齿核心或戍卫核心",
+    "vi": null
+  },
+  "item.eeeabsmobs.smithing_template.netherite_upgrade.applies_to": {
+    "en": "Netherite Equipment",
+    "zh": "下界合金装备",
+    "vi": null
+  },
+  "upgrade.eeeabsmobs.ghost_warrior": {
+    "en": "Ghost Steel Upgrade",
+    "zh": "幽冥钢升级",
+    "vi": null
+  },
+  "item.eeeabsmobs.smithing_template.ghost_warrior.ingredients": {
+    "en": "Ghost Steel Ingot",
+    "zh": "幽冥钢锭",
+    "vi": null
+  },
+  "item.eeeabsmobs.smithing_template.ghost_warrior.base_slot_description": {
+    "en": "Add netherite armor",
+    "zh": "放入下界合金盔甲",
+    "vi": null
+  },
+  "item.eeeabsmobs.smithing_template.ghost_warrior.additions_slot_description": {
+    "en": "Add Ghost Steel Ingot",
+    "zh": "放入幽冥钢锭",
+    "vi": null
+  },
+  "block.eeeabsmobs.dungeon_brick": {
+    "en": "Dungeon Brick",
+    "zh": "地牢砖",
+    "vi": null
+  },
+  "block.eeeabsmobs.iron_grate": {
+    "en": "Iron Grate",
+    "zh": "铁格栅",
+    "vi": null
+  },
+  "block.eeeabsmobs.boundary_lamp": {
+    "en": "Boundary Lamp",
+    "zh": "古界灯",
+    "vi": null
+  },
+  "block.eeeabsmobs.ancient_boundary_stone": {
+    "en": "Ancient Boundary Stone",
+    "zh": "古界岩",
+    "vi": null
+  },
+  "block.eeeabsmobs.polished_rough_boundary_stone": {
+    "en": "Polished Rough Boundary Stone",
+    "zh": "磨制粗界岩",
+    "vi": null
+  },
+  "block.eeeabsmobs.polished_rough_boundary_stone_stairs": {
+    "en": "Polished Rough Boundary Stone Stairs",
+    "zh": "磨制粗界岩楼梯",
+    "vi": null
+  },
+  "block.eeeabsmobs.polished_rough_boundary_stone_slab": {
+    "en": "Polished Rough Boundary Stone Slab",
+    "zh": "磨制粗界岩台阶",
+    "vi": null
+  },
+  "block.eeeabsmobs.rough_boundary_bricks": {
+    "en": "Rough Boundary Bricks",
+    "zh": "粗制界岩砖",
+    "vi": null
+  },
+  "block.eeeabsmobs.rough_boundary_brick_stairs": {
+    "en": "Rough Boundary Brick Stairs",
+    "zh": "粗制界岩砖楼梯",
+    "vi": null
+  },
+  "block.eeeabsmobs.rough_boundary_brick_slab": {
+    "en": "Rough Boundary Brick Slab",
+    "zh": "粗制界岩砖台阶",
+    "vi": null
+  },
+  "block.eeeabsmobs.rough_boundary_brick_wall": {
+    "en": "Rough Boundary Bricks Wall",
+    "zh": "粗制界岩砖墙",
+    "vi": null
+  },
+  "block.eeeabsmobs.cracked_rough_boundary_bricks": {
+    "en": "Cracked Rough Boundary Bricks",
+    "zh": "裂纹粗制界岩砖",
+    "vi": null
+  },
+  "block.eeeabsmobs.chiseled_rough_boundary_bricks": {
+    "en": "Chiseled Rough Boundary Bricks",
+    "zh": "雕纹粗制界岩砖",
+    "vi": null
+  },
+  "block.eeeabsmobs.rough_boundary_stone_pillar": {
+    "en": "Rough Boundary Stone Pillar",
+    "zh": "粗制界岩柱",
+    "vi": null
+  },
+  "block.eeeabsmobs.polished_boundary_stone": {
+    "en": "Polished Boundary Stone",
+    "zh": "磨制界岩",
+    "vi": null
+  },
+  "block.eeeabsmobs.polished_boundary_stone_stairs": {
+    "en": "Polished Boundary Stone Stairs",
+    "zh": "磨制界岩楼梯",
+    "vi": null
+  },
+  "block.eeeabsmobs.polished_boundary_stone_slab": {
+    "en": "Polished Boundary Stone Slab",
+    "zh": "磨制界岩台阶",
+    "vi": null
+  },
+  "block.eeeabsmobs.polished_boundary_bricks": {
+    "en": "Polished Boundary Bricks",
+    "zh": "磨制界岩砖",
+    "vi": null
+  },
+  "block.eeeabsmobs.polished_boundary_brick_stairs": {
+    "en": "Polished Boundary Brick Stairs",
+    "zh": "磨制界岩砖楼梯",
+    "vi": null
+  },
+  "block.eeeabsmobs.polished_boundary_brick_slab": {
+    "en": "Polished Boundary Brick Slab",
+    "zh": "磨制界岩砖台阶",
+    "vi": null
+  },
+  "block.eeeabsmobs.polished_boundary_brick_wall": {
+    "en": "Polished Boundary Bricks Wall",
+    "zh": "磨制界岩砖墙",
+    "vi": null
+  },
+  "block.eeeabsmobs.chiseled_polished_boundary_bricks": {
+    "en": "Chiseled Polished Boundary Bricks",
+    "zh": "雕纹磨制界岩砖",
+    "vi": null
+  },
+  "block.eeeabsmobs.cracked_polished_boundary_bricks": {
+    "en": "Cracked Polished Boundary Bricks",
+    "zh": "裂纹磨制界岩砖",
+    "vi": null
+  },
+  "block.eeeabsmobs.polished_boundary_stone_pillar": {
+    "en": "Polished Boundary Stone Pillar",
+    "zh": "磨制界岩柱",
+    "vi": null
+  },
+  "block.eeeabsmobs.uncarved_boundary_stone": {
+    "en": "Uncarved Boundary Stone",
+    "zh": "未雕刻的符文界石",
+    "vi": null
+  },
+  "block.eeeabsmobs.runic_boundary_stone": {
+    "en": "Runic Boundary Stone",
+    "zh": "符文界石",
+    "vi": null
+  },
+  "block.eeeabsmobs.boundary_core": {
+    "en": "Boundary Core",
+    "zh": "符文核心",
+    "vi": null
+  },
+  "block.eeeabsmobs.sliding_door": {
+    "en": "Piston Door",
+    "zh": "滑动机关门",
+    "vi": null
+  },
+  "block.eeeabsmobs.immortal_block": {
+    "en": "Block of Immortal",
+    "zh": "不朽块",
+    "vi": null
+  },
+  "block.eeeabsmobs.ghost_steel_block": {
+    "en": "Block of Ghost Steel",
+    "zh": "幽冥钢块",
+    "vi": null
+  },
+  "block.eeeabsmobs.cut_ghost_steel": {
+    "en": "Cut Ghost Steel",
+    "zh": "切制幽冥钢块",
+    "vi": null
+  },
+  "block.eeeabsmobs.cut_ghost_steel_stairs": {
+    "en": "Cut Ghost Steel Stairs",
+    "zh": "切制幽冥钢块楼梯",
+    "vi": null
+  },
+  "block.eeeabsmobs.cut_ghost_steel_slab": {
+    "en": "Cut Ghost Steel Slab",
+    "zh": "切制幽冥钢块台阶",
+    "vi": null
+  },
+  "block.eeeabsmobs.redstone_poison_dart_trap": {
+    "en": "Redstone Poison Dart Trap",
+    "zh": "信号式毒镖陷阱",
+    "vi": null
+  },
+  "block.eeeabsmobs.stepping_poison_trap": {
+    "en": "Stepping Poison Trap",
+    "zh": "踩踏式剧毒陷阱",
+    "vi": null
+  },
+  "block.eeeabsmobs.stepping_skeleton_trap": {
+    "en": "Stepping Skeleton Trap",
+    "zh": "踩踏式骷髅陷阱",
+    "vi": null
+  },
+  "block.eeeabsmobs.stepping_flame_trap": {
+    "en": "Stepping Flame Trap",
+    "zh": "踩踏式喷焰陷阱",
+    "vi": null
+  },
+  "block.eeeabsmobs.stepping_shock_trap": {
+    "en": "Stepping Shock Trap",
+    "zh": "踩踏式电击陷阱",
+    "vi": null
+  },
+  "block.eeeabsmobs.erosion_deepslate_bricks": {
+    "en": "Erosion Deepslate Bricks",
+    "zh": "侵蚀深板岩砖",
+    "vi": null
+  },
+  "block.eeeabsmobs.eroded_soil": {
+    "en": "Eroded Soil",
+    "zh": "枯朽土",
+    "vi": null
+  },
+  "block.eeeabsmobs.darkened_coal_ore": {
+    "en": "Darkened Coal Ore",
+    "zh": "暗煤矿石",
+    "vi": null
+  },
+  "block.eeeabsmobs.darkened_iron_ore": {
+    "en": "Darkened Iron Ore",
+    "zh": "暗铁矿石",
+    "vi": null
+  },
+  "block.eeeabsmobs.blighted_stone": {
+    "en": "Blighted Stone",
+    "zh": "枯石",
+    "vi": null
+  },
+  "block.eeeabsmobs.blighted_stone_stairs": {
+    "en": "Blighted Stone Stairs",
+    "zh": "枯石楼梯",
+    "vi": null
+  },
+  "block.eeeabsmobs.blighted_stone_slab": {
+    "en": "Blighted Stone Slab",
+    "zh": "枯石台阶",
+    "vi": null
+  },
+  "block.eeeabsmobs.blighted_cobblestone": {
+    "en": "Blighted Cobblestone",
+    "zh": "枯萎圆石",
+    "vi": null
+  },
+  "block.eeeabsmobs.blighted_cobblestone_stairs": {
+    "en": "Blighted Cobblestone Stairs",
+    "zh": "枯萎圆石楼梯",
+    "vi": null
+  },
+  "block.eeeabsmobs.blighted_cobblestone_slab": {
+    "en": "Blighted Cobblestone Slab",
+    "zh": "枯萎圆石台阶",
+    "vi": null
+  },
+  "block.eeeabsmobs.blighted_cobblestone_wall": {
+    "en": "Blighted Cobblestone Wall",
+    "zh": "枯萎圆石墙",
+    "vi": null
+  },
+  "block.eeeabsmobs.voidshard": {
+    "en": "Voidshard",
+    "zh": "紫渊石",
+    "vi": null
+  },
+  "block.eeeabsmobs.voidshard_stairs": {
+    "en": "Voidshard Stairs",
+    "zh": "紫渊石楼梯",
+    "vi": null
+  },
+  "block.eeeabsmobs.voidshard_slab": {
+    "en": "Voidshard Slab",
+    "zh": "紫渊石台阶",
+    "vi": null
+  },
+  "block.eeeabsmobs.voidshard_wall": {
+    "en": "Voidshard Wall",
+    "zh": "紫渊石墙",
+    "vi": null
+  },
+  "block.eeeabsmobs.polished_voidshard": {
+    "en": "Polished Voidshard",
+    "zh": "磨制紫渊石",
+    "vi": null
+  },
+  "block.eeeabsmobs.polished_voidshard_stairs": {
+    "en": "Polished Voidshard Stairs",
+    "zh": "磨制紫渊石楼梯",
+    "vi": null
+  },
+  "block.eeeabsmobs.polished_voidshard_slab": {
+    "en": "Polished Voidshard Slab",
+    "zh": "磨制紫渊石台阶",
+    "vi": null
+  },
+  "block.eeeabsmobs.dark_erosion_rock": {
+    "en": "Dark Erosion Rock",
+    "zh": "黯蚀岩",
+    "vi": null
+  },
+  "block.eeeabsmobs.chiseled_dark_erosion_rock": {
+    "en": "Chiseled Dark Erosion Rock",
+    "zh": "雕纹黯蚀岩",
+    "vi": null
+  },
+  "block.eeeabsmobs.polished_dark_erosion_rock": {
+    "en": "Polished Dark Erosion Rock",
+    "zh": "磨制黯蚀岩",
+    "vi": null
+  },
+  "block.eeeabsmobs.polished_dark_erosion_rock_stairs": {
+    "en": "Polished Dark Erosion Rock Stairs",
+    "zh": "磨制黯蚀岩楼梯",
+    "vi": null
+  },
+  "block.eeeabsmobs.polished_dark_erosion_rock_slab": {
+    "en": "Polished Dark Erosion Rock Slab",
+    "zh": "磨制黯蚀岩台阶",
+    "vi": null
+  },
+  "block.eeeabsmobs.polished_dark_erosion_rock_wall": {
+    "en": "Polished Dark Erosion Rock Wall",
+    "zh": "磨制黯蚀岩墙",
+    "vi": null
+  },
+  "block.eeeabsmobs.dark_erosion_rock_pillar": {
+    "en": "Dark Erosion Rock Pillar",
+    "zh": "黯蚀岩柱",
+    "vi": null
+  },
+  "block.eeeabsmobs.dark_erosion_rock_bricks": {
+    "en": "Dark Erosion Rock Bricks",
+    "zh": "黯蚀岩砖",
+    "vi": null
+  },
+  "block.eeeabsmobs.cracked_dark_erosion_rock_bricks": {
+    "en": "Cracked Dark Erosion Rock Bricks",
+    "zh": "裂纹黯蚀岩砖",
+    "vi": null
+  },
+  "block.eeeabsmobs.dark_erosion_rock_bricks_stairs": {
+    "en": "Dark Erosion Rock Bricks Stairs",
+    "zh": "黯蚀岩砖楼梯",
+    "vi": null
+  },
+  "block.eeeabsmobs.dark_erosion_rock_bricks_slab": {
+    "en": "Dark Erosion Rock Bricks Slab",
+    "zh": "黯蚀岩砖台阶",
+    "vi": null
+  },
+  "block.eeeabsmobs.dark_erosion_rock_bricks_wall": {
+    "en": "Dark Erosion Rock Bricks Wall",
+    "zh": "黯蚀岩砖墙",
+    "vi": null
+  },
+  "item.eeeabsmobs.immortal_skeleton_egg": {
+    "en": "Immortal Skeleton Spawn Egg",
+    "zh": "不朽骷髅刷怪蛋",
+    "vi": null
+  },
+  "item.eeeabsmobs.immortal_archer_egg": {
+    "en": "Immortal Skeleton(Archer) Spawn Egg",
+    "zh": "不朽骷髅「射手」刷怪蛋",
+    "vi": null
+  },
+  "item.eeeabsmobs.immortal_mage_egg": {
+    "en": "Immortal Skeleton(Mage) Spawn Egg",
+    "zh": "不朽骷髅「法师」刷怪蛋",
+    "vi": null
+  },
+  "item.eeeabsmobs.immortal_warrior_egg": {
+    "en": "Immortal Skeleton(Warrior) Spawn Egg",
+    "zh": "不朽骷髅「战士」刷怪蛋",
+    "vi": null
+  },
+  "item.eeeabsmobs.immortal_knight_egg": {
+    "en": "Immortal Skeleton(Knight) Spawn Egg",
+    "zh": "不朽骷髅「骑士」刷怪蛋",
+    "vi": null
+  },
+  "item.eeeabsmobs.immortal_shaman_egg": {
+    "en": "Immortal Shaman Spawn Egg",
+    "zh": "不朽巫师刷怪蛋",
+    "vi": null
+  },
+  "item.eeeabsmobs.immortal_golem_egg": {
+    "en": "Immortal Golem Spawn Egg",
+    "zh": "不朽傀儡刷怪蛋",
+    "vi": null
+  },
+  "item.eeeabsmobs.immortal_executioner_egg": {
+    "en": "Immortal Executioner Spawn Egg",
+    "zh": "不朽斩魂者刷怪蛋",
+    "vi": null
+  },
+  "item.eeeabsmobs.immortal_boss_egg": {
+    "en": "The Immortal Spawn Egg",
+    "zh": "不朽者刷怪蛋",
+    "vi": null
+  },
+  "item.eeeabsmobs.corpse_egg": {
+    "en": "Corpse Spawn Egg",
+    "zh": "死尸刷怪蛋",
+    "vi": null
+  },
+  "item.eeeabsmobs.corpse_villager_egg": {
+    "en": "Corpse Villager Spawn Egg",
+    "zh": "死尸村民刷怪蛋",
+    "vi": null
+  },
+  "item.eeeabsmobs.corpse_warlock_egg": {
+    "en": "Corpse Warlock Spawn Egg",
+    "zh": "死尸术士刷怪蛋",
+    "vi": null
+  },
+  "item.eeeabsmobs.relic_observer_egg": {
+    "en": "Relic Observer Spawn Egg",
+    "zh": "遗迹观察者刷怪蛋",
+    "vi": null
+  },
+  "item.eeeabsmobs.relic_ripper_egg": {
+    "en": "Relic Ripper Spawn Egg",
+    "zh": "遗迹撕裂者刷怪蛋",
+    "vi": null
+  },
+  "item.eeeabsmobs.relic_earthshaker_egg": {
+    "en": "Relic Earthshaker Spawn Egg",
+    "zh": "遗迹撼地者刷怪蛋",
+    "vi": null
+  },
+  "item.eeeabsmobs.relic_annihilator_egg": {
+    "en": "Relic Annihilator Spawn Egg",
+    "zh": "遗迹歼击者刷怪蛋",
+    "vi": null
+  },
+  "item.eeeabsmobs.nameless_guardian_egg": {
+    "en": "Nameless Guardian Spawn Egg",
+    "zh": "无名守卫者刷怪蛋",
+    "vi": null
+  },
+  "item.eeeabsmobs.realm_warden_egg": {
+    "en": "Realmwarden Spawn Egg",
+    "zh": "界域戍卫刷怪蛋",
+    "vi": null
+  },
+  "item.eeeabsmobs.tester_egg": {
+    "en": "Tester Spawn Egg",
+    "zh": "测试者刷怪蛋",
+    "vi": null
+  },
+  "item.eeeabsmobs.remove_mob.tip_1": {
+    "en": "Left-click to remove 'EEEAB's Mobs' mob/entity",
+    "zh": "左键移除EEEAB的生物模组的生物或实体",
+    "vi": null
+  },
+  "item.eeeabsmobs.remove_mob.tip_2": {
+    "en": "Right-click to remove 'EEEAB's Mobs' mobs/entities in a 16x16x16 area",
+    "zh": "右键移除自身范围16×16×16的EEEAB模组生物或实体",
+    "vi": null
+  },
+  "item.eeeabsmobs.animation_controller.tip": {
+    "en": "Left-click to select the animation entity and right-click to play the animation of the selected entity",
+    "zh": "左键选中动画实体，右键播放选中实体的动画",
+    "vi": null
+  },
+  "item.other.eeeabsmobs.animation_controller.tip": {
+    "en": "Entity %1$s has been selected",
+    "zh": "实体 %1$s 已被选中",
+    "vi": null
+  },
+  "item.eeeabsmobs.guardian_core.tip_1": {
+    "en": "Hold the right-click to release a laser, dealing 5 base damage plus 1% of the target's maximum health. \nIt continuously consumes the item's durability while in use, and when not in use, the durability automatically recovers while in the inventory",
+    "zh": "按住右键释放激光，造成5点基础伤害+目标最大生命值的1%伤害。\n使用期间持续消耗物品耐久值，未使用时在背包中自动恢复耐久",
+    "vi": null
+  },
+  "item.eeeabsmobs.guardian_core.tip": {
+    "en": "Attack range: §l[ %1$s §l]",
+    "zh": "激光射程：§l[ %1$s §l]",
+    "vi": null
+  },
+  "item.eeeabsmobs.buster_gauntlet.tip": {
+    "en": "Right-click to fire a grenade, dealing up to %1$s explosive damage",
+    "zh": "右键发射榴弹造成最大%1$s爆炸伤害",
+    "vi": null
+  },
+  "item.eeeabsmobs.chainsword.tip": {
+    "en": "When there is no attack cooldown, dealing damage to the same type of target stacks 1 layer of Rend, increasing damage by %1$s per stack, up to %2$s stacks. Decays by 1 stack per second; switching targets resets the stack count",
+    "zh": "在无攻击冷却时对同种目标生物造成伤害可叠加1层撕裂效果，每层使伤害%1$s，最多%2$s层。每秒衰减1层，攻击其他目标则重置层数",
+    "vi": null
+  },
+  "item.eeeabsmobs.doombolt_battleaxe.tip": {
+    "en": "Hold right-click to throw. Upon impact, it releases an area-of-effect surge and automatically returns. While crouching, right-click the ground to release multiple electric surges in a fan-shaped area ahead",
+    "zh": "长按右键投掷，命中后释放范围电涌，并自动飞回。下蹲时对地面右键，向前方扇形区域释放多道电涌",
+    "vi": null
+  },
+  "item.eeeabsmobs.heart_of_pagan.tip": {
+    "en": "Used to make frenzy potions",
+    "zh": "用于炼制狂乱药水",
+    "vi": null
+  },
+  "item.eeeabsmobs.soul_summon_necklace.tip": {
+    "en": "Take damage accumulates to %1$s summon Corpse. Can counteract the side effects brought on by the Frenzy effect",
+    "zh": "承受伤害累计达到%1$s召唤死尸。可抵消狂乱效果带来的副作用",
+    "vi": null
+  },
+  "item.eeeabsmobs.immortal_sword.tip": {
+    "en": "Gives the attacker the erosion status",
+    "zh": "赋予被攻击者侵蚀状态",
+    "vi": null
+  },
+  "item.eeeabsmobs.immortal_staff.tip": {
+    "en": "Right-click to launch a shaman bomb, with a 25% base chance to fire a special projectile (this base probability is affected by luck or bad luck)",
+    "zh": "右键发射巫师炸弹，有25%基准发射特殊弹丸（基础概率受幸运或霉运影响）",
+    "vi": null
+  },
+  "item.eeeabsmobs.guardian_axe.tip_1": {
+    "en": "Sweep damage: §l[ %1$s §l]",
+    "zh": "横扫伤害：§l[ %1$s §l]",
+    "vi": null
+  },
+  "item.eeeabsmobs.guardian_axe.tip_2": {
+    "en": "Right-click on the ground to release a skill that deals magic damage equal to the user's weapon damage (ignoring armor, with the damage decreasing over distance)",
+    "zh": "朝地面右键释放技能，造成等同于使用者持有武器的魔法伤害（无视护甲，造成的伤害随距离衰减）",
+    "vi": null
+  },
+  "item.structure.eeeabsmobs.eye_of_bloody_altar.tip": {
+    "en": "Right-click to find the Bloody Altar structure",
+    "zh": "右键查找血色祭坛结构",
+    "vi": null
+  },
+  "item.structure.eeeabsmobs.eye_of_coreforge_ruins.tip": {
+    "en": "Right-click to find the Coreforge Ruins structure",
+    "zh": "右键查找机核哨站结构",
+    "vi": null
+  },
+  "item.armor.eeeabsmobs.full_suit_of_armor.tip": {
+    "en": "Full armor set effect:",
+    "zh": "全套盔甲效果 :",
+    "vi": null
+  },
+  "item.armor.eeeabsmobs.ghost_warrior_full_suit_of_armor.tip": {
+    "en": "Not finished",
+    "zh": "未完成",
+    "vi": null
+  },
+  "item.hotkeys.eeeabsmobs.shift_down.tip": {
+    "en": "Hold down <Shift> for more details",
+    "zh": "按住 <Shift> 查看详情",
+    "vi": null
+  },
+  "item.other.eeeabsmobs.unable_breaks.tip": {
+    "en": "Unbreakable",
+    "zh": "无法破坏",
+    "vi": null
+  },
+  "item.other.eeeabsmobs.cd.tip": {
+    "en": "CD %1$s sec",
+    "zh": "冷却 %1$s 秒",
+    "vi": null
+  },
+  "item.other.eeeabsmobs.no_cd.tip": {
+    "en": "No CD",
+    "zh": "无冷却",
+    "vi": null
+  },
+  "other.eeeabsmobs.cooling.tip": {
+    "en": "Cooling...",
+    "zh": "冷却中...",
+    "vi": null
+  },
+  "block.eeeabsmobs.sliding_door_level1.tip": {
+    "en": "This door requires a Chain Gear Core or Annihilator Sawblade to open",
+    "zh": "这扇门需要「链齿核心」或「歼击者锯刃」才能打开",
+    "vi": null
+  },
+  "block.eeeabsmobs.sliding_door_level2.tip": {
+    "en": "This door requires a Guardian Core or Doombolt Battleaxe to open",
+    "zh": "这扇门需要「戍卫核心」或「谴雷战斧」才能打开",
+    "vi": null
+  },
+  "tip.eeeabsmobs.relic_annihilator_weak_point": {
+    "en": "Use a projectile attack on the head's exposed core to incapacitate it and reduce its attack accuracy",
+    "zh": "使用弹射物攻击头部暴露的核心可使其瘫痪，并持续削弱其后续攻击精准度",
+    "vi": null
+  },
+  "tip.eeeabsmobs.realm_warden": {
+    "en": "Large AOE incoming! Escape the center!",
+    "zh": "将释放大范围攻击，快远离中心！",
+    "vi": null
+  },
+  "tip.eeeabsmobs.relic_earthshaker": {
+    "en": "Electrified targets take extra explosive damage from fire",
+    "zh": "当目标身上带电且受到火焰攻击时，会额外受到爆炸伤害",
+    "vi": null
+  },
+  "tip.eeeabsmobs.relic_observer": {
+    "en": "Electrified targets take extra explosive damage from fire",
+    "zh": "当目标身上带电且受到火焰攻击时，会额外受到爆炸伤害",
+    "vi": null
+  },
+  "eeeabsmobs.crit_chance": {
+    "en": "Crit Rate",
+    "zh": "受到暴击率",
+    "vi": null
+  },
+  "effect.eeeabsmobs.erode_effect": {
+    "en": "Erode",
+    "zh": "侵蚀",
+    "vi": null
+  },
+  "effect.eeeabsmobs.armor_lower_effect": {
+    "en": "Armor Reduction",
+    "zh": "弱防",
+    "vi": null
+  },
+  "effect.eeeabsmobs.stun_effect": {
+    "en": "Stun",
+    "zh": "眩晕",
+    "vi": null
+  },
+  "effect.eeeabsmobs.frenzy_effect": {
+    "en": "Frenzy",
+    "zh": "狂乱",
+    "vi": null
+  },
+  "effect.eeeabsmobs.electrified_effect": {
+    "en": "Electromagnetic Overload",
+    "zh": "感电",
+    "vi": null
+  },
+  "jei.eeeabsmobs.eye_of_structure.tip": {
+    "en": "It will guide you to the corresponding structure just like an Ender Eye does.",
+    "zh": "可像末影之眼一样引导你前往对应的结构。",
+    "vi": null
+  },
+  "effect.eeeabsmobs.erode_effect.description": {
+    "en": "The critical hit chance received increases with level, and each level additionally reduces the healing amount by 10%.",
+    "zh": "自身受到的暴击概率随等级提高而增加，并且每级额外降低10%回血量。",
+    "vi": null
+  },
+  "effect.eeeabsmobs.armor_lower_effect.description": {
+    "en": "Each level provides an additional 20% reduction in armor and armor toughness.",
+    "zh": "每一级都额外降低20%的护甲值与盔甲韧性。",
+    "vi": null
+  },
+  "effect.eeeabsmobs.stun_effect.description": {
+    "en": "During stun, you are unable to use items or place blocks, attack mobs or break blocks.",
+    "zh": "眩晕期间无法移动，放置方块与破坏方块，攻击生物与交互事物。",
+    "vi": null
+  },
+  "effect.eeeabsmobs.frenzy_effect.description": {
+    "en": "Obtain a boost in base attributes. In water, you will not take suffocation damage. Side effect: After the effect ends, you will be weakened.",
+    "zh": "获得基础属性提升，在水中则不会受到窒息伤害。副作用：在效果结束后陷入虚弱。",
+    "vi": null
+  },
+  "effect.eeeabsmobs.electrified_effect.description": {
+    "en": "When the character takes Fire-type damage, it triggers an Overloaded reaction, dealing explosive damage while removing this effect.",
+    "zh": "自身受到火类型伤害触发超载反应，造成爆炸伤害的同时清除该效果。",
+    "vi": null
+  },
+  "item.minecraft.potion.effect.frenzy_potion": {
+    "en": "Potion of Frenzy",
+    "zh": "狂乱药水",
+    "vi": null
+  },
+  "item.minecraft.splash_potion.effect.frenzy_potion": {
+    "en": "Splash Potion of Frenzy",
+    "zh": "喷溅型狂乱药水",
+    "vi": null
+  },
+  "item.minecraft.lingering_potion.effect.frenzy_potion": {
+    "en": "Lingering Potion of Frenzy",
+    "zh": "滞留型狂乱药水",
+    "vi": null
+  },
+  "item.minecraft.tipped_arrow.effect.frenzy_potion": {
+    "en": "Arrow of Frenzy",
+    "zh": "狂乱之箭",
+    "vi": null
+  },
+  "death.attack.eeeabsmobs.guardian_robust_attack": {
+    "en": "%1$s was smashed flat by %2$s",
+    "zh": "%1$s被%2$s砸扁",
+    "vi": null
+  },
+  "death.attack.eeeabsmobs.bypass_shield": {
+    "en": "%1$s died from an unblockable strike by %2$s",
+    "zh": "%1$s死于%2$s造成的破格伤",
+    "vi": null
+  },
+  "death.attack.eeeabsmobs.bypass_armor": {
+    "en": "%1$s died from a penetrating injury by %2$s",
+    "zh": "%1$s死于%2$s造成的穿透伤",
+    "vi": null
+  },
+  "death.attack.eeeabsmobs.bypass_iframe": {
+    "en": "%1$s was rent asunder by %2$s",
+    "zh": "%1$s被%2$s撕裂了",
+    "vi": null
+  },
+  "death.attack.eeeabsmobs.immortal_magic": {
+    "en": "%1$s was killed by %2$s using immortal magic",
+    "zh": "%1$s被%2$s使用的不朽魔法杀死了",
+    "vi": null
+  },
+  "death.attack.eeeabsmobs.overload_explode": {
+    "en": "%1$s blew up",
+    "zh": "%1$s爆炸了",
+    "vi": null
+  },
+  "item.eeeabsmobs.nameless_guardian_theme_music_disc.desc": {
+    "en": "Evan King - Guardians",
+    "zh": "Evan King - Guardians",
+    "vi": null
+  },
+  "item.eeeabsmobs.realm_warden_theme_music_disc.desc": {
+    "en": "Realmwarden Theme  - The Only Edict",
+    "zh": "界域戍卫主题曲 - 唯一铁律",
+    "vi": null
+  },
+  "item.eeeabsmobs.the_immortal_theme_music_disc.desc": {
+    "en": "Makai Symphony - The army of minotaur",
+    "zh": "Makai Symphony - The army of minotaur",
+    "vi": null
+  },
+  "subtitles.eeeabsmobs.giant_axe_hit": {
+    "en": "Giant Axe hits",
+    "zh": "巨斧：击中",
+    "vi": null
+  },
+  "subtitles.eeeabsmobs.surge": {
+    "en": "Surged",
+    "zh": "电涌",
+    "vi": null
+  },
+  "subtitles.eeeabsmobs.man": {
+    "en": "Weird noise",
+    "zh": "奇怪的动静",
+    "vi": null
+  },
+  "subtitles.eeeabsmobs.guardian_laser.shoot": {
+    "en": "Guardian Laser shoots",
+    "zh": "守卫者激光：发射",
+    "vi": null
+  },
+  "subtitles.eeeabsmobs.immortal_laser.shoot": {
+    "en": "Immortal Laser shoots",
+    "zh": "不朽激光：发射",
+    "vi": null
+  },
+  "subtitles.eeeabsmobs.infrared_ray.target_lock": {
+    "en": "Infrared Ray targets locked",
+    "zh": "红外线：目标锁定",
+    "vi": null
+  },
+  "subtitles.eeeabsmobs.crimson_ray.shoot": {
+    "en": "Crimson Ray shoots",
+    "zh": "腥红射线：发射",
+    "vi": null
+  },
+  "subtitles.eeeabsmobs.crimson_crack.break": {
+    "en": "Crimson Crack breaks",
+    "zh": "腥红裂缝：破裂",
+    "vi": null
+  },
+  "subtitles.eeeabsmobs.pulsed_grenade.launch": {
+    "en": "Buster Gauntlet launches grenades",
+    "zh": "爆裂护手：发射榴弹",
+    "vi": null
+  },
+  "subtitles.eeeabsmobs.magic_matrix.open": {
+    "en": "Immortal Rune Circle opens",
+    "zh": "不朽符文阵：展开",
+    "vi": null
+  },
+  "subtitles.eeeabsmobs.immortal_shuriken.rotating": {
+    "en": "Immortal Shuriken spins",
+    "zh": "不朽手里剑：转动声",
+    "vi": null
+  },
+  "subtitles.eeeabsmobs.immortal_shuriken.explode": {
+    "en": "Immortal Shuriken explodes",
+    "zh": "不朽手里剑：爆炸",
+    "vi": null
+  },
+  "subtitles.eeeabsmobs.item.chainsword.cut_hit": {
+    "en": "Annihilator Sawblade slashes",
+    "zh": "歼击者锯刃：斩击",
+    "vi": null
+  },
+  "subtitles.eeeabsmobs.item.doomboltaxe.hit": {
+    "en": "Doombolt Battleaxe stabs",
+    "zh": "遣雷战斧：击中",
+    "vi": null
+  },
+  "subtitles.eeeabsmobs.item.doomboltaxe.thunder": {
+    "en": "Doombolt Battleaxe thunder cracks",
+    "zh": "遣雷战斧：电闪雷鸣",
+    "vi": null
+  },
+  "subtitles.eeeabsmobs.item.doomboltaxe.throw": {
+    "en": "Doombolt Battleaxe clangs",
+    "zh": "遣雷战斧：投掷",
+    "vi": null
+  },
+  "subtitles.eeeabsmobs.item.doomboltaxe.return": {
+    "en": "Doombolt Battleaxe returns",
+    "zh": "遣雷战斧：收回",
+    "vi": null
+  },
+  "subtitles.eeeabsmobs.item.doomboltaxe.hit_ground": {
+    "en": "Doombolt Battleaxe vibrates",
+    "zh": "遣雷战斧：击中地面",
+    "vi": null
+  },
+  "subtitles.eeeabsmobs.entity.immortal_skeleton.hurt": {
+    "en": "Immortal Skeleton hurts",
+    "zh": "不朽骷髅：受伤",
+    "vi": null
+  },
+  "subtitles.eeeabsmobs.entity.immortal_skeleton.death": {
+    "en": "Immortal Skeleton dies",
+    "zh": "不朽骷髅：死亡",
+    "vi": null
+  },
+  "subtitles.eeeabsmobs.entity.immortal_shaman.shoot": {
+    "en": "Immortal Shaman launches bomb",
+    "zh": "不朽巫师：发射炸弹",
+    "vi": null
+  },
+  "subtitles.eeeabsmobs.entity.immortal_shaman.hurt": {
+    "en": "Immortal Shaman hurts",
+    "zh": "不朽巫师：受伤",
+    "vi": null
+  },
+  "subtitles.eeeabsmobs.entity.immortal_shaman.spell_casting": {
+    "en": "Immortal Shaman casts spell",
+    "zh": "不朽巫师：施法",
+    "vi": null
+  },
+  "subtitles.eeeabsmobs.entity.immortal_shaman.death": {
+    "en": "Immortal Shaman dies",
+    "zh": "不朽巫师：死亡",
+    "vi": null
+  },
+  "subtitles.eeeabsmobs.entity.immortal_golem.hurt": {
+    "en": "Immortal Golem hurts",
+    "zh": "不朽傀儡：受伤",
+    "vi": null
+  },
+  "subtitles.eeeabsmobs.entity.immortal_golem.death": {
+    "en": "Immortal Golem dies",
+    "zh": "不朽傀儡：死亡",
+    "vi": null
+  },
+  "subtitles.eeeabsmobs.entity.immortal_executioner.hurt": {
+    "en": "Immortal Executioner hurts",
+    "zh": "不朽斩魂者：受伤",
+    "vi": null
+  },
+  "subtitles.eeeabsmobs.entity.immortal_executioner.death": {
+    "en": "Immortal Executioner dies",
+    "zh": "不朽斩魂者：死亡",
+    "vi": null
+  },
+  "subtitles.eeeabsmobs.entity.immortal_executioner.dash": {
+    "en": "Immortal Executioner dashes",
+    "zh": "不朽斩魂者：突刺",
+    "vi": null
+  },
+  "subtitles.eeeabsmobs.entity.immortal_executioner.burn": {
+    "en": "Immortal Executioner crackles",
+    "zh": "不朽斩魂者：噼啪作响",
+    "vi": null
+  },
+  "subtitles.eeeabsmobs.entity.immortal_executioner.block": {
+    "en": "Immortal Executioner blocks",
+    "zh": "不朽斩魂者：格挡",
+    "vi": null
+  },
+  "subtitles.eeeabsmobs.entity.immortal_executioner.detonation": {
+    "en": "Immortal Executioner detonates",
+    "zh": "不朽斩魂者：爆燃",
+    "vi": null
+  },
+  "subtitles.eeeabsmobs.entity.immortal_executioner.scratch": {
+    "en": "Immortal Executioner scratches",
+    "zh": "不朽斩魂者：抓挠",
+    "vi": null
+  },
+  "subtitles.eeeabsmobs.entity.immortal.accumulating": {
+    "en": "Immortal Core charges",
+    "zh": "不朽核心：蓄力",
+    "vi": null
+  },
+  "subtitles.eeeabsmobs.entity.immortal.accumulating_end": {
+    "en": "Immortal Core cools down",
+    "zh": "不朽核心：冷却",
+    "vi": null
+  },
+  "subtitles.eeeabsmobs.entity.immortal.attack": {
+    "en": "Immortal attacks",
+    "zh": "不朽者：攻击",
+    "vi": null
+  },
+  "subtitles.eeeabsmobs.entity.immortal.attract": {
+    "en": "Immortal attracts",
+    "zh": "不朽者：牵引",
+    "vi": null
+  },
+  "subtitles.eeeabsmobs.entity.immortal.blocking": {
+    "en": "Immortal blocks",
+    "zh": "不朽者：格挡",
+    "vi": null
+  },
+  "subtitles.eeeabsmobs.entity.immortal.blocking_counter": {
+    "en": "Immortal deflects",
+    "zh": "不朽者：弹反",
+    "vi": null
+  },
+  "subtitles.eeeabsmobs.entity.immortal.death": {
+    "en": "Immortal dies",
+    "zh": "不朽者：死亡",
+    "vi": null
+  },
+  "subtitles.eeeabsmobs.entity.immortal.hurt": {
+    "en": "Immortal hurts",
+    "zh": "不朽者：受伤",
+    "vi": null
+  },
+  "subtitles.eeeabsmobs.entity.immortal.idle": {
+    "en": "Immortal roars",
+    "zh": "不朽者：低吼",
+    "vi": null
+  },
+  "subtitles.eeeabsmobs.entity.immortal.punch_hit": {
+    "en": "Immortal lands punch",
+    "zh": "不朽者：拳头命中",
+    "vi": null
+  },
+  "subtitles.eeeabsmobs.entity.immortal.punch_hard_hit": {
+    "en": "Immortal lands heavy punch",
+    "zh": "不朽者：重拳命中",
+    "vi": null
+  },
+  "subtitles.eeeabsmobs.entity.immortal.shoryuken": {
+    "en": "Immortal shoryukens",
+    "zh": "不朽者：升龙拳",
+    "vi": null
+  },
+  "subtitles.eeeabsmobs.entity.immortal.subsonic": {
+    "en": "Immortal booms",
+    "zh": "不朽者：突破音障",
+    "vi": null
+  },
+  "subtitles.eeeabsmobs.entity.immortal.stone_crack": {
+    "en": "Immortal cracks ground",
+    "zh": "不朽者：地裂",
+    "vi": null
+  },
+  "subtitles.eeeabsmobs.entity.immortal.shake_ground": {
+    "en": "Immortal shakes ground",
+    "zh": "不朽者：撼地",
+    "vi": null
+  },
+  "subtitles.eeeabsmobs.entity.immortal.teleport": {
+    "en": "Immortal teleports",
+    "zh": "不朽者：传送",
+    "vi": null
+  },
+  "subtitles.eeeabsmobs.entity.immortal.adapt": {
+    "en": "Immortal phantom scratches",
+    "zh": "不朽者：幻影之伤",
+    "vi": null
+  },
+  "subtitles.eeeabsmobs.entity.relic_observer.hurt": {
+    "en": "Relic Observer hurts",
+    "zh": "遗迹观察者：受伤",
+    "vi": null
+  },
+  "subtitles.eeeabsmobs.entity.relic_observer.death": {
+    "en": "Relic Observer dies",
+    "zh": "遗迹观察者：死亡",
+    "vi": null
+  },
+  "subtitles.eeeabsmobs.entity.relic_observer.attack": {
+    "en": "Relic Observer attacks",
+    "zh": "遗迹观察者：攻击",
+    "vi": null
+  },
+  "subtitles.eeeabsmobs.entity.relic_observer.electromagnetic": {
+    "en": "Relic Observer pulses",
+    "zh": "遗迹观察者：脉冲",
+    "vi": null
+  },
+  "subtitles.eeeabsmobs.entity.relic_observer.electric_pulse": {
+    "en": "Relic Observer electric pulses",
+    "zh": "遗迹观察者：电流脉冲",
+    "vi": null
+  },
+  "subtitles.eeeabsmobs.entity.relic_ripper.step": {
+    "en": "Relic Ripper steps",
+    "zh": "遗迹撕裂者：脚步声",
+    "vi": null
+  },
+  "subtitles.eeeabsmobs.entity.relic_ripper.hurt": {
+    "en": "Relic Ripper hurts",
+    "zh": "遗迹撕裂者：受伤",
+    "vi": null
+  },
+  "subtitles.eeeabsmobs.entity.relic_ripper.death": {
+    "en": "Relic Ripper dies",
+    "zh": "遗迹撕裂者：死亡",
+    "vi": null
+  },
+  "subtitles.eeeabsmobs.entity.relic_ripper.shake_ground": {
+    "en": "Relic Ripper shakes ground",
+    "zh": "遗迹撕裂者：撼地",
+    "vi": null
+  },
+  "subtitles.eeeabsmobs.entity.relic_ripper.saw": {
+    "en": "Relic Ripper saws spin",
+    "zh": "遗迹撕裂者：锯片转动",
+    "vi": null
+  },
+  "subtitles.eeeabsmobs.entity.relic_ripper.whoosh": {
+    "en": "Relic Ripper slashes",
+    "zh": "遗迹撕裂者：挥动手臂",
+    "vi": null
+  },
+  "subtitles.eeeabsmobs.entity.relic_earthshaker.step": {
+    "en": "Relic Earthshaker steps",
+    "zh": "遗迹撼地者：脚步声",
+    "vi": null
+  },
+  "subtitles.eeeabsmobs.entity.relic_earthshaker.idle": {
+    "en": "Relic Earthshaker's engine roars",
+    "zh": "遗迹撼地者：引擎轰鸣声",
+    "vi": null
+  },
+  "subtitles.eeeabsmobs.entity.relic_earthshaker.pre_attack": {
+    "en": "Relic Earthshaker screeches",
+    "zh": "遗迹撼地者：蓄力",
+    "vi": null
+  },
+  "subtitles.eeeabsmobs.entity.relic_earthshaker.attack": {
+    "en": "Relic Earthshaker attacks",
+    "zh": "遗迹撼地者：攻击",
+    "vi": null
+  },
+  "subtitles.eeeabsmobs.entity.relic_earthshaker.launch_grenade": {
+    "en": "Relic Earthshaker launches grenades",
+    "zh": "遗迹撼地者：发射榴弹",
+    "vi": null
+  },
+  "subtitles.eeeabsmobs.entity.relic_earthshaker.hurt": {
+    "en": "Relic Earthshaker hurts",
+    "zh": "遗迹撼地者：受伤",
+    "vi": null
+  },
+  "subtitles.eeeabsmobs.entity.relic_earthshaker.death": {
+    "en": "Relic Earthshaker dies",
+    "zh": "遗迹撼地者：死亡",
+    "vi": null
+  },
+  "subtitles.eeeabsmobs.entity.relic_earthshaker.fall": {
+    "en": "Relic Earthshaker falls",
+    "zh": "遗迹撼地者：倒下",
+    "vi": null
+  },
+  "subtitles.eeeabsmobs.entity.relicron.active": {
+    "en": "Relicron activates",
+    "zh": "遗迹机兵：激活",
+    "vi": null
+  },
+  "subtitles.eeeabsmobs.entity.relic_earthshaker.electromagnetic": {
+    "en": "Relic Earthshaker pulses",
+    "zh": "遗迹撼地者：电磁脉冲",
+    "vi": null
+  },
+  "subtitles.eeeabsmobs.entity.relic_annihilator.idle": {
+    "en": "Relic Annihilator's engine roars",
+    "zh": "遗迹歼击者：引擎轰鸣声",
+    "vi": null
+  },
+  "subtitles.eeeabsmobs.entity.relic_annihilator.pre_attack": {
+    "en": "Relic Annihilator screeches",
+    "zh": "遗迹歼击者：蓄力",
+    "vi": null
+  },
+  "subtitles.eeeabsmobs.entity.relic_annihilator.attack": {
+    "en": "Relic Annihilator attacks",
+    "zh": "遗迹歼击者：攻击",
+    "vi": null
+  },
+  "subtitles.eeeabsmobs.entity.relic_annihilator.hurt": {
+    "en": "Relic Annihilator hurts",
+    "zh": "遗迹歼击者：受伤",
+    "vi": null
+  },
+  "subtitles.eeeabsmobs.entity.relic_annihilator.stun": {
+    "en": "Relic Annihilator stuns",
+    "zh": "遗迹歼击者：瘫痪",
+    "vi": null
+  },
+  "subtitles.eeeabsmobs.entity.relic_annihilator.death": {
+    "en": "Relic Annihilator dies",
+    "zh": "遗迹歼击者：死亡",
+    "vi": null
+  },
+  "subtitles.eeeabsmobs.entity.relic_annihilator.saw": {
+    "en": "Relic Annihilator saws spin",
+    "zh": "遗迹歼击者：锯片转动",
+    "vi": null
+  },
+  "subtitles.eeeabsmobs.entity.relic_annihilator.whoosh": {
+    "en": "Relic Annihilator slashes",
+    "zh": "遗迹歼击者：挥动手臂",
+    "vi": null
+  },
+  "subtitles.eeeabsmobs.entity.relic_annihilator.smash": {
+    "en": "Relic Annihilator ground smashes",
+    "zh": "遗迹歼击者：地面重击",
+    "vi": null
+  },
+  "subtitles.eeeabsmobs.entity.relic_annihilator.jump": {
+    "en": "Relic Annihilator jumps",
+    "zh": "遗迹歼击者：跃起",
+    "vi": null
+  },
+  "subtitles.eeeabsmobs.entity.relic_annihilator.active_scope": {
+    "en": "Relic Annihilator activates scope",
+    "zh": "遗迹歼击者：激活瞄准镜",
+    "vi": null
+  },
+  "subtitles.eeeabsmobs.entity.relic_annihilator.launch": {
+    "en": "Relic Annihilator launches missiles",
+    "zh": "遗迹歼击者：发射导弹",
+    "vi": null
+  },
+  "subtitles.eeeabsmobs.entity.relic_annihilator.shoot_laser": {
+    "en": "Relic Annihilator laser fires",
+    "zh": "遗迹歼击者：发射激光",
+    "vi": null
+  },
+  "subtitles.eeeabsmobs.entity.nameless_guardian.step": {
+    "en": "Nameless Guardian steps",
+    "zh": "无名守卫者：脚步声",
+    "vi": null
+  },
+  "subtitles.eeeabsmobs.entity.nameless_guardian.accumulating": {
+    "en": "Guardian Core charges",
+    "zh": "守卫者核心：蓄力",
+    "vi": null
+  },
+  "subtitles.eeeabsmobs.entity.nameless_guardian.accumulating_end": {
+    "en": "Guardian Core cools down",
+    "zh": "守卫者核心：冷却",
+    "vi": null
+  },
+  "subtitles.eeeabsmobs.entity.nameless_guardian.whoosh": {
+    "en": "Axe of a Guardian whooshes",
+    "zh": "无名守卫者：斧头嗖嗖作响",
+    "vi": null
+  },
+  "subtitles.eeeabsmobs.entity.nameless_guardian.pre_pounce": {
+    "en": "Nameless Guardian locks target",
+    "zh": "无名守卫者：锁定目标",
+    "vi": null
+  },
+  "subtitles.eeeabsmobs.entity.nameless_guardian.madness": {
+    "en": "Nameless Guardian roars",
+    "zh": "无名守卫者：咆哮",
+    "vi": null
+  },
+  "subtitles.eeeabsmobs.entity.nameless_guardian.idle": {
+    "en": "Nameless Guardian's engine roars",
+    "zh": "无名守卫者：引擎轰鸣声",
+    "vi": null
+  },
+  "subtitles.eeeabsmobs.entity.nameless_guardian.hurt": {
+    "en": "Nameless Guardian hurts",
+    "zh": "无名守卫者：受伤",
+    "vi": null
+  },
+  "subtitles.eeeabsmobs.entity.nameless_guardian.death": {
+    "en": "Nameless Guardian dies",
+    "zh": "无名守卫者：死亡",
+    "vi": null
+  },
+  "subtitles.eeeabsmobs.entity.nameless_guardian.creak": {
+    "en": "Nameless Guardian creaks",
+    "zh": "无名守卫者：吱吱作响",
+    "vi": null
+  },
+  "subtitles.eeeabsmobs.entity.realm_warden.idle": {
+    "en": "Realmwarden engine is running",
+    "zh": "界域戍卫：引擎运作中",
+    "vi": null
+  },
+  "subtitles.eeeabsmobs.entity.realm_warden.step": {
+    "en": "Realmwarden steps",
+    "zh": "界域戍卫：脚步声",
+    "vi": null
+  },
+  "subtitles.eeeabsmobs.entity.realm_warden.hurt": {
+    "en": "Realmwarden hurts",
+    "zh": "界域戍卫：受伤",
+    "vi": null
+  },
+  "subtitles.eeeabsmobs.entity.realm_warden.death": {
+    "en": "Realmwarden dies",
+    "zh": "界域戍卫：死亡",
+    "vi": null
+  },
+  "subtitles.eeeabsmobs.entity.realm_warden.launch": {
+    "en": "Realmwarden launches missiles",
+    "zh": "界域戍卫：发射导弹",
+    "vi": null
+  },
+  "subtitles.eeeabsmobs.entity.realm_warden.blast": {
+    "en": "Realmwarden blasts",
+    "zh": "界域戍卫：推进器喷焰",
+    "vi": null
+  },
+  "subtitles.eeeabsmobs.entity.realm_warden.whoosh": {
+    "en": "Realmwarden whooshes",
+    "zh": "界域戍卫：挥动前臂",
+    "vi": null
+  },
+  "subtitles.eeeabsmobs.entity.realm_warden.shake_ground": {
+    "en": "Realmwarden shakes ground",
+    "zh": "界域戍卫：撼地",
+    "vi": null
+  },
+  "subtitles.eeeabsmobs.entity.realm_warden.shock": {
+    "en": "Realmwarden shocks",
+    "zh": "界域戍卫：电击",
+    "vi": null
+  },
+  "subtitles.eeeabsmobs.entity.realm_warden.leap": {
+    "en": "Realmwarden leaps",
+    "zh": "界域戍卫：跃起",
+    "vi": null
+  },
+  "subtitles.eeeabsmobs.entity.realm_warden.landing": {
+    "en": "Realmwarden lands",
+    "zh": "界域戍卫：落地",
+    "vi": null
+  },
+  "subtitles.eeeabsmobs.entity.realm_warden.hum": {
+    "en": "Realmwarden hums",
+    "zh": "界域戍卫：嗡鸣",
+    "vi": null
+  },
+  "subtitles.eeeabsmobs.entity.realm_warden.attack": {
+    "en": "Realmwarden attacks",
+    "zh": "界域戍卫：攻击",
+    "vi": null
+  },
+  "subtitles.eeeabsmobs.entity.realm_warden.airflow": {
+    "en": "Realmwarden airflow surges",
+    "zh": "界域戍卫：气流涌动",
+    "vi": null
+  },
+  "subtitles.eeeabsmobs.entity.realm_warden.voice1": {
+    "en": "System: Intrusion detected",
+    "zh": "系统：检测到入侵",
+    "vi": null
+  },
+  "subtitles.eeeabsmobs.entity.realm_warden.voice2": {
+    "en": "System: Threat level escalated",
+    "zh": "系统：威胁等级上升",
+    "vi": null
+  },
+  "subtitles.eeeabsmobs.entity.corpse.hurt": {
+    "en": "Corpse hurts",
+    "zh": "死尸：受伤",
+    "vi": null
+  },
+  "subtitles.eeeabsmobs.entity.corpse.death": {
+    "en": "Corpse dies",
+    "zh": "死尸：死亡",
+    "vi": null
+  },
+  "subtitles.eeeabsmobs.entity.corpse.idle": {
+    "en": "Corpse roars",
+    "zh": "死尸：低吼",
+    "vi": null
+  },
+  "subtitles.eeeabsmobs.entity.corpse_warlock.hurt": {
+    "en": "Corpse Warlock hurts",
+    "zh": "死尸术士：受伤",
+    "vi": null
+  },
+  "subtitles.eeeabsmobs.entity.corpse_warlock.tear": {
+    "en": "Corpse Warlock tears",
+    "zh": "死尸术士：撕裂",
+    "vi": null
+  },
+  "subtitles.eeeabsmobs.music.nameless_guardian_theme": {
+    "en": "Nameless Guardian Theme",
+    "zh": "无名守卫者主题曲",
+    "vi": null
+  },
+  "subtitles.eeeabsmobs.music.realm_warden_theme": {
+    "en": "Realmwarden Theme",
+    "zh": "界域戍卫主题曲",
+    "vi": null
+  },
+  "subtitles.eeeabsmobs.music.the_immortal_theme": {
+    "en": "The Immortal Theme",
+    "zh": "不朽者主题曲",
+    "vi": null
+  },
+  "advancements.eeeabsmobs.root.title": {
+    "en": "EEEAB's Mobs",
+    "zh": "EEEAB's Mobs",
+    "vi": null
+  },
+  "advancements.eeeabsmobs.root.description": {
+    "en": "Welcome to EEEAB's Mobs!",
+    "zh": "感谢你游玩EEEAB的暴徒!",
+    "vi": null
+  },
+  "advancements.eeeabsmobs.coreforge_ruins.title": {
+    "en": "Sealed Land",
+    "zh": "封印之地",
+    "vi": null
+  },
+  "advancements.eeeabsmobs.coreforge_ruins.description": {
+    "en": "Reach the Coreforge Ruins",
+    "zh": "抵达机核哨站",
+    "vi": null
+  },
+  "advancements.eeeabsmobs.bloody_altar.title": {
+    "en": "The Upside-Down Pot",
+    "zh": "“倒扣的锅”",
+    "vi": null
+  },
+  "advancements.eeeabsmobs.bloody_altar.description": {
+    "en": "Reach the Bloody Altar",
+    "zh": "抵达血色祭坛",
+    "vi": null
+  },
+  "advancements.eeeabsmobs.kill_corpse_warlock.title": {
+    "en": "The Heretic",
+    "zh": "异教之人",
+    "vi": null
+  },
+  "advancements.eeeabsmobs.kill_corpse_warlock.description": {
+    "en": "Defeat the Corpse Warlock",
+    "zh": "击败死尸术士",
+    "vi": null
+  },
+  "advancements.eeeabsmobs.kill_relic_annihilator.title": {
+    "en": "Core Exposed",
+    "zh": "核心暴露",
+    "vi": null
+  },
+  "advancements.eeeabsmobs.kill_relic_annihilator.description": {
+    "en": "Defeat the Relic Annihilator",
+    "zh": "击败遗迹歼击者",
+    "vi": null
+  },
+  "advancements.eeeabsmobs.kill_realm_warden.title": {
+    "en": "End of the Iron Law",
+    "zh": "铁律的终结",
+    "vi": null
+  },
+  "advancements.eeeabsmobs.kill_realm_warden.description": {
+    "en": "Defeat the Realmwarden",
+    "zh": "击败界域戍卫",
+    "vi": null
+  },
+  "config.eeeabsmobs.item_cd": {
+    "en": "Set Item Cool Down Time",
+    "zh": "设置物品冷却时间",
+    "vi": null
+  },
+  "config.eeeabsmobs.series_depleted": {
+    "en": "Enable If Armor Or Weapon Can Be Depleted",
+    "zh": "启用护甲与武器的耐久条",
+    "vi": null
+  },
+  "config.eeeabsmobs.tool_damage": {
+    "en": "Set Attack Damage",
+    "zh": "设置攻击伤害",
+    "vi": null
+  },
+  "config.eeeabsmobs.tool_speed": {
+    "en": "Set Attack Speed",
+    "zh": "设置攻击速度",
+    "vi": null
+  },
+  "config.eeeabsmobs.mob_health": {
+    "en": "Set Health Multiplier",
+    "zh": "设置血量倍数",
+    "vi": null
+  },
+  "config.eeeabsmobs.mob_attack": {
+    "en": "Set Attack Multiplier",
+    "zh": "设置攻击倍数",
+    "vi": null
+  },
+  "config.eeeabsmobs.entity_damage": {
+    "en": "Set Attack Amount",
+    "zh": "设置伤害值",
+    "vi": null
+  },
+  "config.eeeabsmobs.suck_blood": {
+    "en": "Set Suck Blood Multiplier",
+    "zh": "设置吸血倍数",
+    "vi": null
+  },
+  "config.eeeabsmobs.damage_cap": {
+    "en": "Set Damage Cap",
+    "zh": "设置受到伤害上限",
+    "vi": null
+  },
+  "config.eeeabsmobs.heal_percentage": {
+    "en": "Set Heal Percentage",
+    "zh": "设置治疗百分比",
+    "vi": null
+  },
+  "config.eeeabsmobs.damage_adapt_enabled": {
+    "en": "Enable Damage Adaptation",
+    "zh": "启用伤害适应",
+    "vi": null
+  },
+  "config.eeeabsmobs.damage_adapt_debug": {
+    "en": "Enable Debug Mode",
+    "zh": "启用调试模式",
+    "vi": null
+  },
+  "config.eeeabsmobs.damage_adapt_0": {
+    "en": "Set Decay Duration",
+    "zh": "设置适应值衰减时间",
+    "vi": null
+  },
+  "config.eeeabsmobs.damage_adapt_1": {
+    "en": "Set Adaptation Duration",
+    "zh": "设置适应伤害的有效时间",
+    "vi": null
+  },
+  "config.eeeabsmobs.damage_adapt_2": {
+    "en": "Mob Damage Adaptation Factor",
+    "zh": "由生物造成伤害的适应值增加系数",
+    "vi": null
+  },
+  "config.eeeabsmobs.damage_adapt_2_player": {
+    "en": "Player-Caused Damage Adaptation Factor",
+    "zh": "由玩家造成伤害的适应值增加系数",
+    "vi": null
+  },
+  "config.eeeabsmobs.damage_adapt_3": {
+    "en": "Set Same Damage Max Adaptation Factor",
+    "zh": "设置同一种伤害源的最大适应值",
+    "vi": null
+  },
+  "config.eeeabsmobs.max_damage_dist": {
+    "en": "Set Effective Damage Range",
+    "zh": "设置受到伤害的最远距离",
+    "vi": null
+  },
+  "config.eeeabsmobs.damage_reduction_duration": {
+    "en": "Set Damage Reduction Duration",
+    "zh": "设置动态减伤持续时间",
+    "vi": null
+  },
+  "config.eeeabsmobs.attack_radius": {
+    "en": "Set Attack Radius",
+    "zh": "设置攻击半径",
+    "vi": null
+  },
+  "config.eeeabsmobs.projectile_damage": {
+    "en": "Set Projectile Damage",
+    "zh": "设置弹射物伤害",
+    "vi": null
+  },
+  "config.eeeabsmobs.summoning_soul_necklace": {
+    "en": "Set Maximum Cumulative Damage Taken",
+    "zh": "设置最大累计伤害",
+    "vi": null
+  },
+  "config.eeeabsmobs.immortal_executioner": {
+    "en": "Set Maximum Ignite Count",
+    "zh": "设置强化自身次数",
+    "vi": null
+  },
+  "config.eeeabsmobs.corpse_to_player": {
+    "en": "Set Death Heal Amount",
+    "zh": "设置死亡恢复召唤者生命量",
+    "vi": null
+  },
+  "config.eeeabsmobs.out_of_battle": {
+    "en": "Enable healing while not active",
+    "zh": "启用未激活状态下回血",
+    "vi": null
+  },
+  "config.eeeabsmobs.forced_suck_blood": {
+    "en": "Enable Forced Suck Blood",
+    "zh": "启用强制吸血",
+    "vi": null
+  },
+  "config.eeeabsmobs.camera_shake": {
+    "en": "Enable Camera Shake",
+    "zh": "启用相机摇晃",
+    "vi": null
+  },
+  "config.eeeabsmobs.show_boss_bar": {
+    "en": "Enable Show Boss Health Bars",
+    "zh": "启用boss血条",
+    "vi": null
+  },
+  "config.eeeabsmobs.custom_boss_bar": {
+    "en": "Enable Custom Boss Health Bars",
+    "zh": "启用自定义boss血条",
+    "vi": null
+  },
+  "config.eeeabsmobs.boss_bar_render_dist": {
+    "en": "Set Render Distance For Boss Health Bars",
+    "zh": "设置boss血条显示距离",
+    "vi": null
+  },
+  "config.eeeabsmobs.play_boss_music": {
+    "en": "Enable Play Bosses Musics",
+    "zh": "启用boss战斗时播放音乐",
+    "vi": null
+  },
+  "config.eeeabsmobs.break_block_drop": {
+    "en": "Enable Mobs Breaking Blocks Drop Items",
+    "zh": "启用生物破坏方块掉落物品",
+    "vi": null
+  },
+  "config.eeeabsmobs.show_item_cd": {
+    "en": "Enable Show Items Cd",
+    "zh": "启用物品提示框中显示冷却时间",
+    "vi": null
+  },
+  "config.eeeabsmobs.combat_prompt": {
+    "en": "Enable Combat Prompt Trigger Detection",
+    "zh": "启用战斗提示触发检测",
+    "vi": null
+  },
+  "config.eeeabsmobs.challenge_mode": {
+    "en": "Enable Challenge Mode",
+    "zh": "启用挑战模式",
+    "vi": null
+  },
+  "config.eeeabsmobs.falling_block_1": {
+    "en": "Enable Falling Block Spawn",
+    "zh": "启用下落方块生成",
+    "vi": null
+  },
+  "config.eeeabsmobs.falling_block_2": {
+    "en": "Set Below Check Range",
+    "zh": "设置生成下落方块纵向探测范围",
+    "vi": null
+  },
+  "config.eeeabsmobs.falling_block_render": {
+    "en": "Enable Falling Block Render",
+    "zh": "启用下落方块渲染",
+    "vi": null
+  },
+  "config.eeeabsmobs.chainsword_1": {
+    "en": "Set Damage Bonus Per Stack",
+    "zh": "设置每层伤害加成",
+    "vi": null
+  },
+  "config.eeeabsmobs.chainsword_2": {
+    "en": "Set Max Buff Stacks",
+    "zh": "设置最大强化层数",
+    "vi": null
+  },
+  "config.eeeabsmobs.tester_1": {
+    "en": "Set Max Health",
+    "zh": "设置生命上限",
+    "vi": null
+  },
+  "config.eeeabsmobs.tester_2": {
+    "en": "Enable Immune To Environmental Or Status Damage",
+    "zh": "启用免疫由环境或者状态因素造成的伤害",
+    "vi": null
+  },
+  "config.eeeabsmobs.electrified_effect_1": {
+    "en": "Set Base Damage",
+    "zh": "设置基础伤害",
+    "vi": null
+  },
+  "config.eeeabsmobs.electrified_effect_2": {
+    "en": "Set Max Health Ratio",
+    "zh": "设置额外伤害百分比",
+    "vi": null
+  },
+  "config.eeeabsmobs.guardian_core": {
+    "en": "Enable Destroy Block",
+    "zh": "启用激光是否可以破坏方块",
+    "vi": null
+  },
+  "config.eeeabsmobs.corpse": {
+    "en": "Enable Killed Zombies And Villagers Turning Into Corpses",
+    "zh": "启用杀死僵尸/村民后转化为死尸",
+    "vi": null
+  },
+  "config.eeeabsmobs.eye_of_structure": {
+    "en": "Enable Consume Item On Release",
+    "zh": "启用释放时消耗物品",
+    "vi": null
+  },
+  "config.eeeabsmobs.notification_enabled": {
+    "en": "Enable Popup Notification",
+    "zh": "启用弹窗提示",
+    "vi": null
+  },
+  "config.eeeabsmobs.notification_display_mode": {
+    "en": "Hud Display Mode",
+    "zh": "HUD显示方式",
+    "vi": null
+  },
+  "config.eeeabsmobs.notification_display_duration": {
+    "en": "Hud Display Duration",
+    "zh": "HUD显示时长",
+    "vi": null
+  },
+  "config.eeeabsmobs.notification_background_opacity": {
+    "en": "Hud Background Opacity",
+    "zh": "HUD背景透明度",
+    "vi": null
+  },
+  "config.eeeabsmobs.notification_text_max_width": {
+    "en": "Text Maximum Width",
+    "zh": "文本最大宽度",
+    "vi": null
+  },
+  "config.eeeabsmobs.notification_line_spacing": {
+    "en": "Text Line Spacing",
+    "zh": "文本行间距",
+    "vi": null
+  },
+  "config.eeeabsmobs.notification_hud_position_y": {
+    "en": "Hud Vertical Position",
+    "zh": "HUD垂直位置",
+    "vi": null
+  }
+}

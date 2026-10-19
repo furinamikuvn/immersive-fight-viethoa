@@ -1,0 +1,2292 @@
+{
+  "itemGroup.supplementaries": {
+    "en": "Supplementaries",
+    "zh": "锦致装饰",
+    "vi": null
+  },
+  "block.supplementaries.faucet": {
+    "en": "Faucet",
+    "zh": "水龙头",
+    "vi": null
+  },
+  "block.supplementaries.wall_lantern": {
+    "en": "Wall Lantern",
+    "zh": "壁灯",
+    "vi": null
+  },
+  "block.supplementaries.planter": {
+    "en": "Planter",
+    "zh": "种植盆",
+    "vi": null
+  },
+  "block.supplementaries.bellows": {
+    "en": "Bellows",
+    "zh": "风箱",
+    "vi": null
+  },
+  "block.supplementaries.wind_vane": {
+    "en": "Wind Vane",
+    "zh": "风向标",
+    "vi": null
+  },
+  "block.supplementaries.clock_block": {
+    "en": "Clock Block",
+    "zh": "时钟方块",
+    "vi": null
+  },
+  "block.supplementaries.crank": {
+    "en": "Crank",
+    "zh": "曲柄",
+    "vi": null
+  },
+  "block.supplementaries.jar": {
+    "en": "Jar",
+    "zh": "玻璃罐",
+    "vi": null
+  },
+  "block.supplementaries.jar_tinted": {
+    "en": "Tinted Jar",
+    "zh": "着色玻璃罐",
+    "vi": null
+  },
+  "block.supplementaries.turn_table": {
+    "en": "Turn Table",
+    "zh": "转台",
+    "vi": null
+  },
+  "block.supplementaries.pedestal": {
+    "en": "Pedestal",
+    "zh": "展示台",
+    "vi": null
+  },
+  "block.supplementaries.redstone_illuminator": {
+    "en": "Redstone Illuminator",
+    "zh": "红石照明器",
+    "vi": null
+  },
+  "block.supplementaries.notice_board": {
+    "en": "Notice Board",
+    "zh": "布告栏",
+    "vi": null
+  },
+  "block.supplementaries.speaker_block": {
+    "en": "Speaker Block",
+    "zh": "扬声器",
+    "vi": null
+  },
+  "block.supplementaries.sconce": {
+    "en": "Sconce",
+    "zh": "加固火把",
+    "vi": null
+  },
+  "block.supplementaries.sconce_wall": {
+    "en": "Sconce",
+    "zh": "加固火把",
+    "vi": null
+  },
+  "block.supplementaries.sconce_soul": {
+    "en": "Soul Sconce",
+    "zh": "灵魂加固火把",
+    "vi": null
+  },
+  "block.supplementaries.sconce_soul_wall": {
+    "en": "Soul Sconce",
+    "zh": "灵魂加固火把",
+    "vi": null
+  },
+  "block.supplementaries.sconce_ender": {
+    "en": "Ender Sconce",
+    "zh": "末影加固火把",
+    "vi": null
+  },
+  "block.supplementaries.sconce_ender_wall": {
+    "en": "Ender Sconce",
+    "zh": "末影加固火把",
+    "vi": null
+  },
+  "block.supplementaries.sconce_glow": {
+    "en": "Glow Sconce",
+    "zh": "荧光加固火把",
+    "vi": null
+  },
+  "block.supplementaries.sconce_glow_wall": {
+    "en": "Glow Sconce",
+    "zh": "荧光加固火把",
+    "vi": null
+  },
+  "block.supplementaries.sconce_nether_brass": {
+    "en": "Nether Brass Sconce",
+    "zh": "下界黄铜加固火把",
+    "vi": null
+  },
+  "block.supplementaries.sconce_nether_brass_wall": {
+    "en": "Nether Brass Sconce",
+    "zh": "下界黄铜加固火把",
+    "vi": null
+  },
+  "block.supplementaries.sign_post": {
+    "en": "Sign Post",
+    "zh": "路标",
+    "vi": null
+  },
+  "block.supplementaries.candelabra": {
+    "en": "Gold Candelabra",
+    "zh": "金灯台",
+    "vi": null
+  },
+  "gui.supplementaries.speaker_block.edit": {
+    "en": "Edit Speaker Block Message",
+    "zh": "编辑扬声器信息",
+    "vi": null
+  },
+  "gui.supplementaries.speaker_block.chat_message": {
+    "en": "Narrator Message",
+    "zh": "语音信息",
+    "vi": null
+  },
+  "gui.supplementaries.speaker_block.narrator_message": {
+    "en": "Chat Message",
+    "zh": "聊天栏信息",
+    "vi": null
+  },
+  "gui.supplementaries.speaker_block.action_bar_message": {
+    "en": "Status Message",
+    "zh": "动作栏信息",
+    "vi": null
+  },
+  "gui.supplementaries.speaker_block.title_message": {
+    "en": "Title Message",
+    "zh": "屏幕标题信息",
+    "vi": null
+  },
+  "entity.supplementaries.firefly": {
+    "en": "Firefly",
+    "zh": "萤火虫",
+    "vi": null
+  },
+  "block.supplementaries.firefly_jar": {
+    "en": "Firefly Jar",
+    "zh": "萤火虫玻璃罐",
+    "vi": null
+  },
+  "item.supplementaries.firefly": {
+    "en": "Firefly Spawn Egg",
+    "zh": "萤火虫刷怪蛋",
+    "vi": null
+  },
+  "globe.supplementaries.moon": {
+    "en": "Moon",
+    "zh": "月球",
+    "vi": null
+  },
+  "globe.supplementaries.earth": {
+    "en": "Earth",
+    "zh": "地球",
+    "vi": null
+  },
+  "globe.supplementaries.flat": {
+    "en": "Flat",
+    "zh": "地平说",
+    "vi": null
+  },
+  "globe.supplementaries.sun": {
+    "en": "Sun",
+    "zh": "太阳",
+    "vi": null
+  },
+  "message.supplementaries.command.globe_changed": {
+    "en": "Globe seed changed",
+    "zh": "地球仪种子已改变",
+    "vi": null
+  },
+  "message.supplementaries.command.globe_reset": {
+    "en": "Globe seed reset",
+    "zh": "地球仪种子已重设",
+    "vi": null
+  },
+  "block.supplementaries.hourglass": {
+    "en": "Hourglass",
+    "zh": "沙漏",
+    "vi": null
+  },
+  "block.supplementaries.globe": {
+    "en": "Globe",
+    "zh": "地球仪",
+    "vi": null
+  },
+  "block.supplementaries.sconce_lever": {
+    "en": "Sconce Lever",
+    "zh": "加固火把拉杆",
+    "vi": null
+  },
+  "block.supplementaries.cage": {
+    "en": "Cage",
+    "zh": "笼子",
+    "vi": null
+  },
+  "block.supplementaries.stone_lamp": {
+    "en": "Stone Lamp",
+    "zh": "石灯",
+    "vi": null
+  },
+  "block.supplementaries.sconce_green": {
+    "en": "Green Sconce",
+    "zh": "绿色加固火把",
+    "vi": null
+  },
+  "block.supplementaries.candelabra_silver": {
+    "en": "Silver Candelabra",
+    "zh": "银灯台",
+    "vi": null
+  },
+  "block.supplementaries.item_shelf": {
+    "en": "Item Shelf",
+    "zh": "物品架",
+    "vi": null
+  },
+  "block.supplementaries.cog_block": {
+    "en": "Cog Block",
+    "zh": "齿轮方块",
+    "vi": null
+  },
+  "block.supplementaries.sack": {
+    "en": "Sack",
+    "zh": "麻布袋",
+    "vi": null
+  },
+  "gui.supplementaries.blackboard.edit": {
+    "en": "Edit Blackboard",
+    "zh": "编辑黑板",
+    "vi": null
+  },
+  "block.supplementaries.safe": {
+    "en": "Safe",
+    "zh": "保险箱",
+    "vi": null
+  },
+  "block.supplementaries.blackboard": {
+    "en": "Blackboard",
+    "zh": "黑板",
+    "vi": null
+  },
+  "container.supplementaries.safe": {
+    "en": "Owner",
+    "zh": "所有者",
+    "vi": null
+  },
+  "gui.supplementaries.speaker_block.volume": {
+    "en": "Volume: ",
+    "zh": "音量：",
+    "vi": null
+  },
+  "gui.supplementaries.speaker_block.blocks": {
+    "en": " blocks",
+    "zh": "格",
+    "vi": null
+  },
+  "block.supplementaries.soul_jar": {
+    "en": "Soul Jar",
+    "zh": "灵魂玻璃罐",
+    "vi": null
+  },
+  "item.supplementaries.flute": {
+    "en": "Flute",
+    "zh": "竹笛",
+    "vi": null
+  },
+  "message.supplementaries.throwable_brick": {
+    "en": "Can be thrown",
+    "zh": "可投掷",
+    "vi": null
+  },
+  "message.supplementaries.wall_lantern": {
+    "en": "Placeable on walls",
+    "zh": "可放置在墙上",
+    "vi": null
+  },
+  "message.supplementaries.command.configs_reloaded": {
+    "en": "Configs reloaded",
+    "zh": "配置已重载",
+    "vi": null
+  },
+  "block.supplementaries.copper_lantern": {
+    "en": "Copper Lantern",
+    "zh": "铜灯笼",
+    "vi": null
+  },
+  "message.supplementaries.hourglass": {
+    "en": "Accepts any dust, sand or powder",
+    "zh": "可放入任意砂类或粉末",
+    "vi": null
+  },
+  "message.supplementaries.cage": {
+    "en": "[Shift] to place",
+    "zh": "按住[Shift]放置",
+    "vi": null
+  },
+  "gui.supplementaries.safe.name": {
+    "en": "%1$s's %2$s",
+    "zh": "%1$s的%2$s",
+    "vi": null
+  },
+  "message.supplementaries.safe.cleared": {
+    "en": "Cleared ownership",
+    "zh": "已清除所有权",
+    "vi": null
+  },
+  "message.supplementaries.safe.owner": {
+    "en": "This safe is owned by %s",
+    "zh": "该保险箱为%s所有",
+    "vi": null
+  },
+  "gui.supplementaries.doormat.edit": {
+    "en": "Edit Doormat message",
+    "zh": "编辑门垫信息",
+    "vi": null
+  },
+  "block.supplementaries.doormat": {
+    "en": "Doormat",
+    "zh": "门垫",
+    "vi": null
+  },
+  "message.supplementaries.sack": {
+    "en": "Quite heavy to carry",
+    "zh": "随身携带挺吃力",
+    "vi": null
+  },
+  "message.supplementaries.globe": {
+    "en": "Sold by the Wandering Trader",
+    "zh": "由流浪商人出售",
+    "vi": null
+  },
+  "message.supplementaries.wind_vane": {
+    "en": "Reacts to weather",
+    "zh": "对天气变化有反应",
+    "vi": null
+  },
+  "message.supplementaries.hanging_pot": {
+    "en": "Can be hung",
+    "zh": "可悬挂",
+    "vi": null
+  },
+  "message.supplementaries.double_cake": {
+    "en": "Stackable in block form",
+    "zh": "方块状态下可叠放",
+    "vi": null
+  },
+  "block.supplementaries.double_cake": {
+    "en": "Double Cake",
+    "zh": "双层蛋糕",
+    "vi": null
+  },
+  "message.supplementaries.safe.unbound": {
+    "en": "Unbound",
+    "zh": "未绑定",
+    "vi": null
+  },
+  "block.supplementaries.gold_door": {
+    "en": "Gold Door",
+    "zh": "金门",
+    "vi": null
+  },
+  "block.supplementaries.gold_trapdoor": {
+    "en": "Gold Trapdoor",
+    "zh": "金活板门",
+    "vi": null
+  },
+  "block.supplementaries.crimson_lantern": {
+    "en": "Crimson Lantern",
+    "zh": "绯红灯笼",
+    "vi": null
+  },
+  "message.supplementaries.blackboard": {
+    "en": "Waxed",
+    "zh": "涂蜡",
+    "vi": null
+  },
+  "gui.supplementaries.blackboard.clear": {
+    "en": "Clear",
+    "zh": "擦除",
+    "vi": null
+  },
+  "block.supplementaries.hanging_flower_pot": {
+    "en": "Hanging Flower Pot",
+    "zh": "悬挂的花盆",
+    "vi": null
+  },
+  "block.supplementaries.directional_cake": {
+    "en": "Directional Cake",
+    "zh": "定向的蛋糕",
+    "vi": null
+  },
+  "block.supplementaries.rope": {
+    "en": "Rope",
+    "zh": "绳索",
+    "vi": null
+  },
+  "block.supplementaries.bamboo_spikes": {
+    "en": "Bamboo Spikes",
+    "zh": "竹刺",
+    "vi": null
+  },
+  "item.supplementaries.bamboo_spikes_tipped": {
+    "en": "Tipped Bamboo Spikes",
+    "zh": "浸药竹刺",
+    "vi": null
+  },
+  "message.supplementaries.safe.incorrect_key": {
+    "en": "You do not have the correct key",
+    "zh": "未持有正确的钥匙",
+    "vi": null
+  },
+  "message.supplementaries.safe.locked": {
+    "en": "This safe is locked",
+    "zh": "保险箱已上锁",
+    "vi": null
+  },
+  "gui.supplementaries.safe.password": {
+    "en": "%2$s key: %1$s",
+    "zh": "%2$s的钥匙：%1$s",
+    "vi": null
+  },
+  "message.supplementaries.safe.bound": {
+    "en": "Locked",
+    "zh": "已上锁",
+    "vi": null
+  },
+  "message.supplementaries.safe.assigned_key": {
+    "en": "Assigned to '%s' key",
+    "zh": "已配对“%s”钥匙",
+    "vi": null
+  },
+  "message.supplementaries.safe.assigned_key_generic": {
+    "en": "Assigned to key",
+    "zh": "已配对钥匙",
+    "vi": null
+  },
+  "item.supplementaries.key": {
+    "en": "Key",
+    "zh": "钥匙",
+    "vi": null
+  },
+  "item.supplementaries.bamboo_spikes_tipped_effect": {
+    "en": "Bamboo Spikes of %s",
+    "zh": "%s竹刺",
+    "vi": null
+  },
+  "death.attack.supplementaries.bamboo_spikes": {
+    "en": "%1$s was impaled on a spike",
+    "zh": "%1$s被竹刺刺穿了",
+    "vi": null
+  },
+  "death.attack.supplementaries.bamboo_spikes.player": {
+    "en": "%1$s impaled on a spike whilst fighting %2$s",
+    "zh": "%1$s在与%2$s战斗时被竹刺刺穿了",
+    "vi": null
+  },
+  "block.supplementaries.netherite_door": {
+    "en": "Netherite Door",
+    "zh": "下界合金门",
+    "vi": null
+  },
+  "block.supplementaries.netherite_trapdoor": {
+    "en": "Netherite Trapdoor",
+    "zh": "下界合金活板门",
+    "vi": null
+  },
+  "block.supplementaries.pancake": {
+    "en": "Pancake",
+    "zh": "煎饼",
+    "vi": null
+  },
+  "message.supplementaries.door.locked": {
+    "en": "This door is locked",
+    "zh": "门已上锁",
+    "vi": null
+  },
+  "message.supplementaries.trapdoor.locked": {
+    "en": "This trapdoor is locked",
+    "zh": "活板门已上锁",
+    "vi": null
+  },
+  "item.supplementaries.firefly_spawn_egg": {
+    "en": "Firefly Spawn Egg",
+    "zh": "萤火虫刷怪蛋",
+    "vi": null
+  },
+  "block.supplementaries.lock_block": {
+    "en": "Lock Block",
+    "zh": "锁方块",
+    "vi": null
+  },
+  "block.supplementaries.checker_block": {
+    "en": "Checker Block",
+    "zh": "棋盘格方块",
+    "vi": null
+  },
+  "message.supplementaries.lock_block.locked": {
+    "en": "This block is locked",
+    "zh": "方块已上锁",
+    "vi": null
+  },
+  "fluid.supplementaries.jar_fluid": {
+    "en": "Jar Fluid",
+    "zh": "罐内液体",
+    "vi": null
+  },
+  "fluid.supplementaries.experience": {
+    "en": "Experience",
+    "zh": "经验",
+    "vi": null
+  },
+  "message.supplementaries.fluid_tooltip": {
+    "en": "%s: %d mBtl",
+    "zh": "%s：%d瓶",
+    "vi": null
+  },
+  "fluid.supplementaries.honey": {
+    "en": "Honey",
+    "zh": "蜂蜜",
+    "vi": null
+  },
+  "fluid.supplementaries.milk": {
+    "en": "Milk",
+    "zh": "牛奶",
+    "vi": null
+  },
+  "fluid.supplementaries.slime": {
+    "en": "Slime",
+    "zh": "史莱姆",
+    "vi": null
+  },
+  "itemGroup.jars": {
+    "en": "Jars",
+    "zh": "玻璃罐",
+    "vi": null
+  },
+  "item.supplementaries.flax": {
+    "en": "Flax",
+    "zh": "亚麻",
+    "vi": null
+  },
+  "block.supplementaries.flax": {
+    "en": "Flax",
+    "zh": "亚麻",
+    "vi": null
+  },
+  "item.supplementaries.flax_seeds": {
+    "en": "Flax Seeds",
+    "zh": "亚麻种子",
+    "vi": null
+  },
+  "item.supplementaries.rope_arrow": {
+    "en": "Rope Arrow",
+    "zh": "绳索箭矢",
+    "vi": null
+  },
+  "block.supplementaries.potted_flax": {
+    "en": "Potted Flax",
+    "zh": "亚麻盆栽",
+    "vi": null
+  },
+  "entity.supplementaries.brick_projectile": {
+    "en": "Brick Projectile",
+    "zh": "砖弹",
+    "vi": null
+  },
+  "entity.supplementaries.rope_arrow": {
+    "en": "Rope Arrow",
+    "zh": "绳索箭矢",
+    "vi": null
+  },
+  "block.supplementaries.checker_slab": {
+    "en": "Checker Slab",
+    "zh": "棋盘格台阶",
+    "vi": null
+  },
+  "message.supplementaries.rope_arrow": {
+    "en": "Rope: %s",
+    "zh": "绳索：%s",
+    "vi": null
+  },
+  "block.supplementaries.pulley_block": {
+    "en": "Pulley Block",
+    "zh": "滑轮方块",
+    "vi": null
+  },
+  "block.supplementaries.fodder": {
+    "en": "Fodder",
+    "zh": "饲料堆",
+    "vi": null
+  },
+  "item.supplementaries.bomb": {
+    "en": "Bomb",
+    "zh": "炸弹",
+    "vi": null
+  },
+  "item.supplementaries.bomb_projectile": {
+    "en": "Bomb",
+    "zh": "炸弹",
+    "vi": null
+  },
+  "block.supplementaries.flax_block": {
+    "en": "Flax Bale",
+    "zh": "亚麻捆",
+    "vi": null
+  },
+  "block.supplementaries.jar_boat": {
+    "en": "Boat in a Jar",
+    "zh": "罐中船",
+    "vi": null
+  },
+  "block.supplementaries.magma_cream_block": {
+    "en": "Magma Cream Block",
+    "zh": "岩浆膏块",
+    "vi": null
+  },
+  "message.supplementaries.magma_cream_block": {
+    "en": "Install Quark for full functionality",
+    "zh": "安装Quark以激活全部功能",
+    "vi": null
+  },
+  "message.supplementaries.command.configs": {
+    "en": "Install Configured to access configs",
+    "zh": "安装Configured以访问配置",
+    "vi": null
+  },
+  "item.supplementaries.bomb_blue": {
+    "en": "Blue Bomb",
+    "zh": "靛蓝炸弹",
+    "vi": null
+  },
+  "fluid.supplementaries.sap": {
+    "en": "Sap",
+    "zh": "树脂",
+    "vi": null
+  },
+  "message.supplementaries.road_sign": {
+    "en": "%d bl",
+    "zh": "%d格",
+    "vi": null
+  },
+  "item.supplementaries.bomb_blue_projectile": {
+    "en": "Blue Bomb",
+    "zh": "靛蓝炸弹",
+    "vi": null
+  },
+  "block.supplementaries.blaze_rod": {
+    "en": "Blaze Rod",
+    "zh": "烈焰棒",
+    "vi": null
+  },
+  "block.supplementaries.stick": {
+    "en": "Stick",
+    "zh": "木棍",
+    "vi": null
+  },
+  "block.supplementaries.book_pile": {
+    "en": "Book Pile",
+    "zh": "书堆",
+    "vi": null
+  },
+  "block.supplementaries.book_pile_horizontal": {
+    "en": "Book Pile",
+    "zh": "书堆",
+    "vi": null
+  },
+  "block.supplementaries.daub": {
+    "en": "Daub",
+    "zh": "粗灰泥",
+    "vi": null
+  },
+  "block.supplementaries.daub_frame": {
+    "en": "Wattle and Daub Frame",
+    "zh": "粗灰泥篱笆框架",
+    "vi": null
+  },
+  "block.supplementaries.daub_brace": {
+    "en": "Wattle and Daub Brace",
+    "zh": "粗灰泥篱笆支架",
+    "vi": null
+  },
+  "block.supplementaries.daub_cross_brace": {
+    "en": "Wattle and Daub Cross Brace",
+    "zh": "粗灰泥篱笆交叉支架",
+    "vi": null
+  },
+  "block.supplementaries.timber_frame": {
+    "en": "Timber Frame",
+    "zh": "木框架",
+    "vi": null
+  },
+  "block.supplementaries.timber_brace": {
+    "en": "Timber Brace",
+    "zh": "木支架",
+    "vi": null
+  },
+  "block.supplementaries.timber_cross_brace": {
+    "en": "Timber Cross Brace",
+    "zh": "木交叉支架",
+    "vi": null
+  },
+  "block.supplementaries.stone_tile": {
+    "en": "Stone Tiles",
+    "zh": "石瓦",
+    "vi": null
+  },
+  "block.supplementaries.stone_tile_slab": {
+    "en": "Stone Tile Slab",
+    "zh": "石瓦台阶",
+    "vi": null
+  },
+  "block.supplementaries.stone_tile_vertical_slab": {
+    "en": "Stone Tile Vertical Slab",
+    "zh": "石瓦竖直台阶",
+    "vi": null
+  },
+  "block.supplementaries.blackstone_tile": {
+    "en": "Blackstone Tiles",
+    "zh": "黑石瓦",
+    "vi": null
+  },
+  "block.supplementaries.blackstone_tile_slab": {
+    "en": "Blackstone Tile Slab",
+    "zh": "黑石瓦台阶",
+    "vi": null
+  },
+  "block.supplementaries.blackstone_tile_vertical_slab": {
+    "en": "Blackstone Tile Vertical Slab",
+    "zh": "黑石瓦竖直台阶",
+    "vi": null
+  },
+  "block.supplementaries.blackstone_lamp": {
+    "en": "Blackstone Lamp",
+    "zh": "黑石灯",
+    "vi": null
+  },
+  "block.supplementaries.flag_white": {
+    "en": "White Flag",
+    "zh": "白色横旗",
+    "vi": null
+  },
+  "block.supplementaries.flag_orange": {
+    "en": "Orange Flag",
+    "zh": "橙色横旗",
+    "vi": null
+  },
+  "block.supplementaries.flag_magenta": {
+    "en": "Magenta Flag",
+    "zh": "品红色横旗",
+    "vi": null
+  },
+  "block.supplementaries.flag_light_blue": {
+    "en": "Light Blue Flag",
+    "zh": "淡蓝色横旗",
+    "vi": null
+  },
+  "block.supplementaries.flag_yellow": {
+    "en": "Yellow Flag",
+    "zh": "黄色横旗",
+    "vi": null
+  },
+  "block.supplementaries.flag_lime": {
+    "en": "Lime Flag",
+    "zh": "黄绿色横旗",
+    "vi": null
+  },
+  "block.supplementaries.flag_pink": {
+    "en": "Pink Flag",
+    "zh": "粉红色横旗",
+    "vi": null
+  },
+  "block.supplementaries.flag_gray": {
+    "en": "Gray Flag",
+    "zh": "灰色横旗",
+    "vi": null
+  },
+  "block.supplementaries.flag_light_gray": {
+    "en": "Light Gray Flag",
+    "zh": "淡灰色横旗",
+    "vi": null
+  },
+  "block.supplementaries.flag_cyan": {
+    "en": "Cyan Flag",
+    "zh": "青色横旗",
+    "vi": null
+  },
+  "block.supplementaries.flag_purple": {
+    "en": "Purple Flag",
+    "zh": "紫色横旗",
+    "vi": null
+  },
+  "block.supplementaries.flag_blue": {
+    "en": "Blue Flag",
+    "zh": "蓝色横旗",
+    "vi": null
+  },
+  "block.supplementaries.flag_brown": {
+    "en": "Brown Flag",
+    "zh": "棕色横旗",
+    "vi": null
+  },
+  "block.supplementaries.flag_green": {
+    "en": "Green Flag",
+    "zh": "绿色横旗",
+    "vi": null
+  },
+  "block.supplementaries.flag_red": {
+    "en": "Red Flag",
+    "zh": "红色横旗",
+    "vi": null
+  },
+  "block.supplementaries.flag_black": {
+    "en": "Black Flag",
+    "zh": "黑色横旗",
+    "vi": null
+  },
+  "block.supplementaries.flower_box": {
+    "en": "Flower Box",
+    "zh": "花箱",
+    "vi": null
+  },
+  "block.supplementaries.brass_lantern": {
+    "en": "Brass Lantern",
+    "zh": "黄铜灯笼",
+    "vi": null
+  },
+  "block.supplementaries.goblet": {
+    "en": "Goblet",
+    "zh": "酒杯",
+    "vi": null
+  },
+  "block.supplementaries.flag": {
+    "en": "Flag",
+    "zh": "横旗",
+    "vi": null
+  },
+  "gui.supplementaries.orange_trader.trade": {
+    "en": "TRADE OFFER",
+    "zh": "来交易吗？",
+    "vi": null
+  },
+  "gui.supplementaries.orange_trader.get": {
+    "en": "I receive:",
+    "zh": "我得到：",
+    "vi": null
+  },
+  "gui.supplementaries.orange_trader.receive": {
+    "en": "You receive:",
+    "zh": "你得到：",
+    "vi": null
+  },
+  "block.supplementaries.raked_gravel": {
+    "en": "Raked Gravel",
+    "zh": "耙过的砂砾",
+    "vi": null
+  },
+  "message.supplementaries.command.dice": {
+    "en": "Rolled D%1$d: %2$d",
+    "zh": "掷骰 D%1$d：%2$d",
+    "vi": null
+  },
+  "death.attack.supplementaries.xp_extracting": {
+    "en": "%1$s wasn't so experienced after all",
+    "zh": "%1$s经尽人亡了",
+    "vi": null
+  },
+  "death.attack.supplementaries.xp_extracting.player": {
+    "en": "%1$s extracted too much while fighting %2$s",
+    "zh": "%1$s在与%2$s战斗时榨取了过多经验",
+    "vi": null
+  },
+  "advancements.adventure.way_sign.title": {
+    "en": "This Must be a Sign!",
+    "zh": "路在这边",
+    "vi": null
+  },
+  "advancements.adventure.way_sign.description": {
+    "en": "Follow me to find a village",
+    "zh": "顺着路走会到达一个村庄",
+    "vi": null
+  },
+  "advancements.story.unenchanter.title": {
+    "en": "Why Would You do That!?",
+    "zh": "怎么可以这样做？！",
+    "vi": null
+  },
+  "advancements.story.unenchanter.description": {
+    "en": "Grind an Enchanted Golden Apple",
+    "zh": "用砂轮将一个附魔金苹果祛魔",
+    "vi": null
+  },
+  "message.supplementaries.jar": {
+    "en": "Can store bowls, bottles, buckets, cookies and small mobs",
+    "zh": "可以盛纳汤类、药水、其他液体、曲奇饼以及小型生物",
+    "vi": null
+  },
+  "block.supplementaries.statue": {
+    "en": "Statue",
+    "zh": "雕像",
+    "vi": null
+  },
+  "filled_map.adventure": {
+    "en": "Adventurer Map",
+    "zh": "冒险地图",
+    "vi": null
+  },
+  "filled_map.structure": {
+    "en": "%s Explorer Map",
+    "zh": "%s探索地图",
+    "vi": null
+  },
+  "filled_map.jungle_temple": {
+    "en": "Jungle Explorer Map",
+    "zh": "丛林探索地图",
+    "vi": null
+  },
+  "filled_map.village": {
+    "en": "Village Pathfinder Map",
+    "zh": "村庄寻路地图",
+    "vi": null
+  },
+  "filled_map.desert_pyramid": {
+    "en": "Desert Explorer Map",
+    "zh": "沙漠探索地图",
+    "vi": null
+  },
+  "filled_map.shipwreck": {
+    "en": "Shipwreck Explorer Map",
+    "zh": "沉船探索地图",
+    "vi": null
+  },
+  "filled_map.ruined_portal": {
+    "en": "Ruined Portal Explorer Map",
+    "zh": "废弃传送门探索地图",
+    "vi": null
+  },
+  "filled_map.igloo": {
+    "en": "Tundra Explorer Map",
+    "zh": "冻原探索地图",
+    "vi": null
+  },
+  "filled_map.end_city": {
+    "en": "Outer End Explorer Map",
+    "zh": "末地外沿探索地图",
+    "vi": null
+  },
+  "filled_map.nether_fortress": {
+    "en": "Nether Fortress Explorer Map",
+    "zh": "下界要塞探索地图",
+    "vi": null
+  },
+  "filled_map.pillager_outpost": {
+    "en": "Outpost Explorer Map",
+    "zh": "前哨站探索地图",
+    "vi": null
+  },
+  "filled_map.bastion_remnant": {
+    "en": "Bastion Explorer Map",
+    "zh": "堡垒遗迹探索地图",
+    "vi": null
+  },
+  "filled_map.stronghold": {
+    "en": "Stronghold Explorer Map",
+    "zh": "要塞探索地图",
+    "vi": null
+  },
+  "filled_map.mineshaft": {
+    "en": "Underground Explorer Map",
+    "zh": "地底探索地图",
+    "vi": null
+  },
+  "filled_map.swamp_hut": {
+    "en": "Swamp Explorer Map",
+    "zh": "沼泽探索地图",
+    "vi": null
+  },
+  "filled_map.ocean_ruin": {
+    "en": "Ocean Depths Explorer Map",
+    "zh": "深海探索地图",
+    "vi": null
+  },
+  "block.supplementaries.iron_gate": {
+    "en": "Iron Gate",
+    "zh": "铁栏杆门",
+    "vi": null
+  },
+  "block.supplementaries.gold_gate": {
+    "en": "Gold Gate",
+    "zh": "金栏杆门",
+    "vi": null
+  },
+  "advancements.husbandry.sus_stew.title": {
+    "en": "When the Stew is Sus",
+    "zh": "这碗汤很可疑",
+    "vi": null
+  },
+  "advancements.husbandry.sus_stew.description": {
+    "en": "Drink a suspicious stew",
+    "zh": "吃一碗谜之炖菜",
+    "vi": null
+  },
+  "advancements.husbandry.soap.title": {
+    "en": "Tide Pod Challenge",
+    "zh": "汰渍洗衣球挑战",
+    "vi": null
+  },
+  "advancements.husbandry.soap.description": {
+    "en": "Eat a bar of soap. Don't try this at home",
+    "zh": "吃一块肥皂，请勿在家尝试",
+    "vi": null
+  },
+  "item.supplementaries.speedometer": {
+    "en": "Speedometer",
+    "zh": "速度计",
+    "vi": null
+  },
+  "message.supplementaries.speedometer": {
+    "en": "%s Blocks/s",
+    "zh": "%s格每秒",
+    "vi": null
+  },
+  "message.supplementaries.potion.lingering": {
+    "en": "Lingering",
+    "zh": "滞留",
+    "vi": null
+  },
+  "message.supplementaries.potion.splash": {
+    "en": "Splash",
+    "zh": "喷溅",
+    "vi": null
+  },
+  "subtitle.supplementaries.music.pancake": {
+    "en": "Pancake Music",
+    "zh": "Pancake Music",
+    "vi": null
+  },
+  "block.supplementaries.pancake_disc.desc": {
+    "en": "Partyp - Pancake Music",
+    "zh": "Partyp - Pancake Music",
+    "vi": null
+  },
+  "item.supplementaries.pancake_disc.desc": {
+    "en": "Partyp - Pancake Music",
+    "zh": "Partyp - Pancake Music",
+    "vi": null
+  },
+  "message.supplementaries.key.lockable": {
+    "en": "Key Lockable",
+    "zh": "钥匙可锁",
+    "vi": null
+  },
+  "message.supplementaries.placeable": {
+    "en": "Placeable",
+    "zh": "可放置",
+    "vi": null
+  },
+  "item.supplementaries.red_merchant_spawn_egg": {
+    "en": "Red Merchant Spawn Egg",
+    "zh": "红商人刷怪蛋",
+    "vi": null
+  },
+  "block.supplementaries.feather_block": {
+    "en": "Feather Block",
+    "zh": "羽毛块",
+    "vi": null
+  },
+  "block.supplementaries.flint_block": {
+    "en": "Block of Flint",
+    "zh": "燧石块",
+    "vi": null
+  },
+  "entity.supplementaries.red_merchant": {
+    "en": "Red Merchant",
+    "zh": "红商人",
+    "vi": null
+  },
+  "message.supplementaries.timber_frame": {
+    "en": "Accepts any full block",
+    "zh": "接受任意完整方块",
+    "vi": null
+  },
+  "block.supplementaries.wild_flax": {
+    "en": "Wild Flax",
+    "zh": "野生亚麻",
+    "vi": null
+  },
+  "item.supplementaries.slingshot": {
+    "en": "Slingshot",
+    "zh": "弹弓",
+    "vi": null
+  },
+  "block.supplementaries.deepslate_lamp": {
+    "en": "Deepslate Lamp",
+    "zh": "深板岩灯",
+    "vi": null
+  },
+  "block.supplementaries.end_stone_lamp": {
+    "en": "End Stone Lamp",
+    "zh": "末地石灯",
+    "vi": null
+  },
+  "block.supplementaries.rope_knot": {
+    "en": "Roped Post",
+    "zh": "绳结",
+    "vi": null
+  },
+  "enchantment.supplementaries.stasis": {
+    "en": "Stasis",
+    "zh": "稳定",
+    "vi": null
+  },
+  "enchantment.supplementaries.stasis.desc": {
+    "en": "Allows Slingshots projectiles to ignore gravity",
+    "zh": "使弹弓弹射物不受重力影响",
+    "vi": null
+  },
+  "message.supplementaries.rope_arrow_tooltip": {
+    "en": "Ropes: %1$s / %2$s",
+    "zh": "绳索：%1$s / %2$s",
+    "vi": null
+  },
+  "block.supplementaries.spring_launcher_arm": {
+    "en": "Spring Launcher Arm",
+    "zh": "弹射台臂",
+    "vi": null
+  },
+  "block.supplementaries.spring_launcher_head": {
+    "en": "Spring Launcher",
+    "zh": "弹射台",
+    "vi": null
+  },
+  "block.supplementaries.spring_launcher": {
+    "en": "Spring Launcher",
+    "zh": "弹射台",
+    "vi": null
+  },
+  "block.supplementaries.present": {
+    "en": "Present",
+    "zh": "礼物盒",
+    "vi": null
+  },
+  "block.supplementaries.present_white": {
+    "en": "White Present",
+    "zh": "白色礼物盒",
+    "vi": null
+  },
+  "block.supplementaries.present_light_gray": {
+    "en": "Light Gray Present",
+    "zh": "淡灰色礼物盒",
+    "vi": null
+  },
+  "block.supplementaries.present_gray": {
+    "en": "Gray Present",
+    "zh": "灰色礼物盒",
+    "vi": null
+  },
+  "block.supplementaries.present_black": {
+    "en": "Black Present",
+    "zh": "黑色礼物盒",
+    "vi": null
+  },
+  "block.supplementaries.present_brown": {
+    "en": "Brown Present",
+    "zh": "棕色礼物盒",
+    "vi": null
+  },
+  "block.supplementaries.present_green": {
+    "en": "Green Present",
+    "zh": "绿色礼物盒",
+    "vi": null
+  },
+  "block.supplementaries.present_lime": {
+    "en": "Lime Present",
+    "zh": "黄绿色礼物盒",
+    "vi": null
+  },
+  "block.supplementaries.present_yellow": {
+    "en": "Yellow Present",
+    "zh": "黄色礼物盒",
+    "vi": null
+  },
+  "block.supplementaries.present_orange": {
+    "en": "Orange Present",
+    "zh": "橙色礼物盒",
+    "vi": null
+  },
+  "block.supplementaries.present_red": {
+    "en": "Red Present",
+    "zh": "红色礼物盒",
+    "vi": null
+  },
+  "block.supplementaries.present_pink": {
+    "en": "Pink Present",
+    "zh": "粉红色礼物盒",
+    "vi": null
+  },
+  "block.supplementaries.present_magenta": {
+    "en": "Magenta Present",
+    "zh": "品红色礼物盒",
+    "vi": null
+  },
+  "block.supplementaries.present_purple": {
+    "en": "Purple Present",
+    "zh": "紫色礼物盒",
+    "vi": null
+  },
+  "block.supplementaries.present_blue": {
+    "en": "Blue Present",
+    "zh": "蓝色礼物盒",
+    "vi": null
+  },
+  "block.supplementaries.present_light_blue": {
+    "en": "Light Blue Present",
+    "zh": "淡蓝色礼物盒",
+    "vi": null
+  },
+  "block.supplementaries.present_cyan": {
+    "en": "Cyan Present",
+    "zh": "青色礼物盒",
+    "vi": null
+  },
+  "structure.supplementaries.way_sign": {
+    "en": "Way Sign",
+    "zh": "路标",
+    "vi": null
+  },
+  "item.supplementaries.candy": {
+    "en": "Candy",
+    "zh": "糖果",
+    "vi": null
+  },
+  "item.supplementaries.antique_ink": {
+    "en": "Antique Ink",
+    "zh": "古式墨水",
+    "vi": null
+  },
+  "message.supplementaries.command.record.start": {
+    "en": "Noteblocks recording started",
+    "zh": "开始录制音符盒",
+    "vi": null
+  },
+  "message.supplementaries.command.record.stop": {
+    "en": "Noteblocks recording stopped: saved song at recorded_songs/%s",
+    "zh": "停止录制音符盒：存储于recorded_songs/%s",
+    "vi": null
+  },
+  "item.supplementaries.wrench": {
+    "en": "Wrench",
+    "zh": "扳手",
+    "vi": null
+  },
+  "block.supplementaries.urn": {
+    "en": "Urn",
+    "zh": "瓮",
+    "vi": null
+  },
+  "block.supplementaries.stone_tile_stairs": {
+    "en": "Stone Tile Stairs",
+    "zh": "石瓦楼梯",
+    "vi": null
+  },
+  "block.supplementaries.stone_tile_wall": {
+    "en": "Stone Tile Wall",
+    "zh": "石瓦墙",
+    "vi": null
+  },
+  "block.supplementaries.blackstone_tile_stairs": {
+    "en": "Blackstone Tile Stairs",
+    "zh": "黑石瓦楼梯",
+    "vi": null
+  },
+  "block.supplementaries.blackstone_tile_wall": {
+    "en": "Blackstone Tile Wall",
+    "zh": "黑石瓦墙",
+    "vi": null
+  },
+  "block.supplementaries.ash": {
+    "en": "Ash",
+    "zh": "灰烬",
+    "vi": null
+  },
+  "item.supplementaries.ash": {
+    "en": "Ash",
+    "zh": "灰烬",
+    "vi": null
+  },
+  "item.supplementaries.ash_brick": {
+    "en": "Ash Brick",
+    "zh": "灰烬砖",
+    "vi": null
+  },
+  "block.supplementaries.ash_bricks": {
+    "en": "Ash Bricks",
+    "zh": "灰烬砖块",
+    "vi": null
+  },
+  "block.supplementaries.ash_bricks_wall": {
+    "en": "Ash Brick Wall",
+    "zh": "灰烬砖墙",
+    "vi": null
+  },
+  "block.supplementaries.ash_bricks_stairs": {
+    "en": "Ash Brick Stairs",
+    "zh": "灰烬砖楼梯",
+    "vi": null
+  },
+  "block.supplementaries.ash_bricks_slab": {
+    "en": "Ash Brick Slab",
+    "zh": "灰烬砖台阶",
+    "vi": null
+  },
+  "block.supplementaries.ash_bricks_vertical_slab": {
+    "en": "Ash Brick Vertical Slab",
+    "zh": "灰烬砖竖直台阶",
+    "vi": null
+  },
+  "block.supplementaries.soap_block": {
+    "en": "Soap Block",
+    "zh": "肥皂块",
+    "vi": null
+  },
+  "item.supplementaries.soap": {
+    "en": "Soap",
+    "zh": "肥皂",
+    "vi": null
+  },
+  "item.supplementaries.soap_water": {
+    "en": "Soapy Water",
+    "zh": "肥皂水",
+    "vi": null
+  },
+  "advancements.husbandry.wrench.title": {
+    "en": "Engineer Gaming",
+    "zh": "工程师游戏中",
+    "vi": null
+  },
+  "advancements.husbandry.wrench.description": {
+    "en": "Use a Wrench to rotate a block",
+    "zh": "使用扳手旋转一个方块",
+    "vi": null
+  },
+  "item.supplementaries.bubble_blower": {
+    "en": "Bubble Blower",
+    "zh": "泡泡环",
+    "vi": null
+  },
+  "message.supplementaries.bubble_blower_tooltip": {
+    "en": "Soap: %1$s / %2$s",
+    "zh": "肥皂：%1$s / %2$s",
+    "vi": null
+  },
+  "filled_map.antique.tooltip": {
+    "en": "Weathered",
+    "zh": "褪色",
+    "vi": null
+  },
+  "filled_map.antique": {
+    "en": "Weathered Map",
+    "zh": "褪色地图",
+    "vi": null
+  },
+  "block.supplementaries.globe_sepia": {
+    "en": "Sepia Globe",
+    "zh": "墨绘地球仪",
+    "vi": null
+  },
+  "block.supplementaries.bubble_block": {
+    "en": "Bubble Block",
+    "zh": "肥皂泡",
+    "vi": null
+  },
+  "advancements.nether.goblet.title": {
+    "en": "Consume the Concoction Chalice",
+    "zh": "来杯鸡尾酒",
+    "vi": null
+  },
+  "advancements.nether.goblet.description": {
+    "en": "Drink from a Chalice",
+    "zh": "从酒杯中喝东西",
+    "vi": null
+  },
+  "advancements.husbandry.turn_table.title": {
+    "en": "How the Turn Tables",
+    "zh": "风水流流转",
+    "vi": null
+  },
+  "advancements.husbandry.turn_table.description": {
+    "en": "Use a Turn Table to rotate yourself",
+    "zh": "用转台旋转你自己",
+    "vi": null
+  },
+  "gui.supplementaries.present": {
+    "en": "Gift",
+    "zh": "礼物盒",
+    "vi": null
+  },
+  "gui.supplementaries.present.send": {
+    "en": "To:",
+    "zh": "送给：",
+    "vi": null
+  },
+  "gui.supplementaries.present.pack": {
+    "en": "Pack",
+    "zh": "打包",
+    "vi": null
+  },
+  "message.supplementaries.present.from": {
+    "en": "From: %s",
+    "zh": "来自：%s",
+    "vi": null
+  },
+  "message.supplementaries.present.to": {
+    "en": "To: %s",
+    "zh": "送给：%s",
+    "vi": null
+  },
+  "message.supplementaries.present.public": {
+    "en": "Packed",
+    "zh": "已打包",
+    "vi": null
+  },
+  "message.supplementaries.present.info": {
+    "en": "This present is addressed to: %s",
+    "zh": "该礼物送给：%s",
+    "vi": null
+  },
+  "advancements.adventure.globe.title": {
+    "en": "You Spin Me Right Round Baby",
+    "zh": "你抱着我旋转不止",
+    "vi": null
+  },
+  "advancements.adventure.globe.description": {
+    "en": "Spin a globe at ludicrous speed",
+    "zh": "以极快的速度旋转地球仪",
+    "vi": null
+  },
+  "entity.supplementaries.slingshot_projectile": {
+    "en": "Slingshot Projectile",
+    "zh": "弹弓弹射物",
+    "vi": null
+  },
+  "entity.supplementaries.falling_lantern": {
+    "en": "Falling Lantern",
+    "zh": "下落的灯笼",
+    "vi": null
+  },
+  "entity.supplementaries.falling_ash": {
+    "en": "Falling Ash",
+    "zh": "下落的灰烬",
+    "vi": null
+  },
+  "entity.supplementaries.falling_urn": {
+    "en": "Falling Urn",
+    "zh": "下落的瓮",
+    "vi": null
+  },
+  "block.supplementaries.silver_door": {
+    "en": "Silver Door",
+    "zh": "银门",
+    "vi": null
+  },
+  "block.supplementaries.silver_trapdoor": {
+    "en": "Silver Trapdoor",
+    "zh": "银活板门",
+    "vi": null
+  },
+  "block.supplementaries.lead_door": {
+    "en": "Lead Door",
+    "zh": "铅门",
+    "vi": null
+  },
+  "block.supplementaries.lead_trapdoor": {
+    "en": "Lead Trapdoor",
+    "zh": "铅活板门",
+    "vi": null
+  },
+  "item.supplementaries.bomb_spiky": {
+    "en": "Spiky Bomb",
+    "zh": "尖刺炸弹",
+    "vi": null
+  },
+  "item.supplementaries.bomb_spiky_projectile": {
+    "en": "Spiky Bomb",
+    "zh": "尖刺炸弹",
+    "vi": null
+  },
+  "supplementaries.virtual_resourcepack.title": {
+    "en": "Virtual Resourcepack",
+    "zh": "Virtual Resourcepack",
+    "vi": null
+  },
+  "supplementaries.virtual_resourcepack.description": {
+    "en": "dynamic runtime resources",
+    "zh": "dynamic runtime resources",
+    "vi": null
+  },
+  "block.supplementaries.tater_in_a_jar": {
+    "en": "Tater in a Jar",
+    "zh": "罐中小土豆",
+    "vi": null
+  },
+  "block.supplementaries.skull_candles": {
+    "en": "Skull Candles",
+    "zh": "头颅烛台",
+    "vi": null
+  },
+  "block.supplementaries.skull_candles_soul": {
+    "en": "Skull Soul Candles",
+    "zh": "灵魂头颅烛台",
+    "vi": null
+  },
+  "block.supplementaries.skull_candles_wall": {
+    "en": "Wall Skull Candles",
+    "zh": "墙上的头颅烛台",
+    "vi": null
+  },
+  "block.supplementaries.skull_candles_soul_wall": {
+    "en": "Wall Skull Soul Candles",
+    "zh": "墙上的灵魂头颅烛台",
+    "vi": null
+  },
+  "block.supplementaries.skull_pile": {
+    "en": "Skull Pile",
+    "zh": "头颅堆",
+    "vi": null
+  },
+  "gui.supplementaries.present.trapped": {
+    "en": "Prime",
+    "zh": "装入",
+    "vi": null
+  },
+  "gui.supplementaries.trapped_present": {
+    "en": "Trapped Present",
+    "zh": "陷阱礼物盒",
+    "vi": null
+  },
+  "block.supplementaries.trapped_present": {
+    "en": "Trapped Present",
+    "zh": "陷阱礼物盒",
+    "vi": null
+  },
+  "block.supplementaries.trapped_present_white": {
+    "en": "Trapped White Present",
+    "zh": "白色陷阱礼物盒",
+    "vi": null
+  },
+  "block.supplementaries.trapped_present_light_gray": {
+    "en": "Trapped Light Gray Present",
+    "zh": "淡灰色陷阱礼物盒",
+    "vi": null
+  },
+  "block.supplementaries.trapped_present_gray": {
+    "en": "Trapped Gray Present",
+    "zh": "灰色陷阱礼物盒",
+    "vi": null
+  },
+  "block.supplementaries.trapped_present_black": {
+    "en": "Trapped Black Present",
+    "zh": "黑色陷阱礼物盒",
+    "vi": null
+  },
+  "block.supplementaries.trapped_present_brown": {
+    "en": "Trapped Brown Present",
+    "zh": "棕色陷阱礼物盒",
+    "vi": null
+  },
+  "block.supplementaries.trapped_present_green": {
+    "en": "Trapped Green Present",
+    "zh": "绿色陷阱礼物盒",
+    "vi": null
+  },
+  "block.supplementaries.trapped_present_lime": {
+    "en": "Trapped Lime Present",
+    "zh": "黄绿色陷阱礼物盒",
+    "vi": null
+  },
+  "block.supplementaries.trapped_present_yellow": {
+    "en": "Trapped Yellow Present",
+    "zh": "黄色陷阱礼物盒",
+    "vi": null
+  },
+  "block.supplementaries.trapped_present_orange": {
+    "en": "Trapped Orange Present",
+    "zh": "橙色陷阱礼物盒",
+    "vi": null
+  },
+  "block.supplementaries.trapped_present_red": {
+    "en": "Trapped Red Present",
+    "zh": "红色陷阱礼物盒",
+    "vi": null
+  },
+  "block.supplementaries.trapped_present_pink": {
+    "en": "Trapped Pink Present",
+    "zh": "粉红色陷阱礼物盒",
+    "vi": null
+  },
+  "block.supplementaries.trapped_present_magenta": {
+    "en": "Trapped Magenta Present",
+    "zh": "品红色陷阱礼物盒",
+    "vi": null
+  },
+  "block.supplementaries.trapped_present_purple": {
+    "en": "Trapped Purple Present",
+    "zh": "紫色陷阱礼物盒",
+    "vi": null
+  },
+  "block.supplementaries.trapped_present_blue": {
+    "en": "Trapped Blue Present",
+    "zh": "蓝色陷阱礼物盒",
+    "vi": null
+  },
+  "block.supplementaries.trapped_present_light_blue": {
+    "en": "Trapped Light Blue Present",
+    "zh": "淡蓝色陷阱礼物盒",
+    "vi": null
+  },
+  "block.supplementaries.trapped_present_cyan": {
+    "en": "Trapped Cyan Present",
+    "zh": "青色陷阱礼物盒",
+    "vi": null
+  },
+  "block.supplementaries.silver_lantern": {
+    "en": "Silver Lantern",
+    "zh": "银灯笼",
+    "vi": null
+  },
+  "block.supplementaries.lead_lantern": {
+    "en": "Lead Lantern",
+    "zh": "铅灯笼",
+    "vi": null
+  },
+  "block.supplementaries.gold_lantern": {
+    "en": "Gold Lantern",
+    "zh": "金灯笼",
+    "vi": null
+  },
+  "entity.supplementaries.dispenser_minecart": {
+    "en": "Minecart with Dispenser",
+    "zh": "发射器矿车",
+    "vi": null
+  },
+  "item.supplementaries.dispenser_minecart": {
+    "en": "Minecart with Dispenser",
+    "zh": "发射器矿车",
+    "vi": null
+  },
+  "effect.supplementaries.overencumbered": {
+    "en": "Overencumbered",
+    "zh": "负重",
+    "vi": null
+  },
+  "effect.supplementaries.overencumbered.description": {
+    "en": "Prevents sprinting. Further levels reduce jump height hinder walking speed respectively",
+    "zh": "阻止疾跑。等级越高，跳跃高度和行走速度越低。",
+    "vi": null
+  },
+  "message.supplementaries.cage.fail": {
+    "en": "You can only capture small animals",
+    "zh": "只能捕获小型生物",
+    "vi": null
+  },
+  "item.supplementaries.sign_post": {
+    "en": "%s Sign Post",
+    "zh": "%s路标",
+    "vi": null
+  },
+  "block.supplementaries.hanging_sign": {
+    "en": "%s Hanging Sign",
+    "zh": "%s挂牌",
+    "vi": null
+  },
+  "block.supplementaries.sugar_cube": {
+    "en": "Sugar Cube",
+    "zh": "糖块",
+    "vi": null
+  },
+  "item.supplementaries.quiver": {
+    "en": "Quiver",
+    "zh": "箭袋",
+    "vi": null
+  },
+  "message.supplementaries.quiver.tooltip": {
+    "en": "%s [%s]",
+    "zh": "%s [%s]",
+    "vi": null
+  },
+  "block.supplementaries.crystal_display": {
+    "en": "Crystal Display",
+    "zh": "水晶显示屏",
+    "vi": null
+  },
+  "block.supplementaries.relayer": {
+    "en": "Relayer",
+    "zh": "继电器",
+    "vi": null
+  },
+  "block.supplementaries.lapis_bricks": {
+    "en": "Lapis Bricks",
+    "zh": "青金石砖",
+    "vi": null
+  },
+  "block.supplementaries.lapis_bricks_wall": {
+    "en": "Lapis Brick Wall",
+    "zh": "青金石砖墙",
+    "vi": null
+  },
+  "block.supplementaries.lapis_bricks_stairs": {
+    "en": "Lapis Brick Stairs",
+    "zh": "青金石砖楼梯",
+    "vi": null
+  },
+  "block.supplementaries.lapis_bricks_slab": {
+    "en": "Lapis Brick Slab",
+    "zh": "青金石砖台阶",
+    "vi": null
+  },
+  "block.supplementaries.lapis_bricks_vertical_slab": {
+    "en": "Lapis Brick Vertical Slab",
+    "zh": "青金石砖竖直台阶",
+    "vi": null
+  },
+  "message.supplementaries.candle_holder": {
+    "en": "Stackable",
+    "zh": "可叠放",
+    "vi": null
+  },
+  "block.supplementaries.candle_holder": {
+    "en": "Candle Holder",
+    "zh": "蜡烛烛台",
+    "vi": null
+  },
+  "block.supplementaries.candle_holder_white": {
+    "en": "White Candle Holder",
+    "zh": "白色蜡烛烛台",
+    "vi": null
+  },
+  "block.supplementaries.candle_holder_red": {
+    "en": "Red Candle Holder",
+    "zh": "红色蜡烛烛台",
+    "vi": null
+  },
+  "block.supplementaries.candle_holder_cyan": {
+    "en": "Cyan Candle Holder",
+    "zh": "青色蜡烛烛台",
+    "vi": null
+  },
+  "block.supplementaries.candle_holder_lime": {
+    "en": "Lime Candle Holder",
+    "zh": "黄绿色蜡烛烛台",
+    "vi": null
+  },
+  "block.supplementaries.candle_holder_yellow": {
+    "en": "Yellow Candle Holder",
+    "zh": "黄色蜡烛烛台",
+    "vi": null
+  },
+  "block.supplementaries.candle_holder_magenta": {
+    "en": "Magenta Candle Holder",
+    "zh": "品红色蜡烛烛台",
+    "vi": null
+  },
+  "block.supplementaries.candle_holder_brown": {
+    "en": "Brown Candle Holder",
+    "zh": "棕色蜡烛烛台",
+    "vi": null
+  },
+  "block.supplementaries.candle_holder_light_blue": {
+    "en": "Light Blue Candle Holder",
+    "zh": "淡蓝色蜡烛烛台",
+    "vi": null
+  },
+  "block.supplementaries.candle_holder_blue": {
+    "en": "Blue Candle Holder",
+    "zh": "蓝色蜡烛烛台",
+    "vi": null
+  },
+  "block.supplementaries.candle_holder_green": {
+    "en": "Green Candle Holder",
+    "zh": "绿色蜡烛烛台",
+    "vi": null
+  },
+  "block.supplementaries.candle_holder_pink": {
+    "en": "Pink Candle Holder",
+    "zh": "粉红色蜡烛烛台",
+    "vi": null
+  },
+  "block.supplementaries.candle_holder_light_gray": {
+    "en": "Light Gray Candle Holder",
+    "zh": "淡灰色蜡烛烛台",
+    "vi": null
+  },
+  "block.supplementaries.candle_holder_purple": {
+    "en": "Purple Candle Holder",
+    "zh": "紫色蜡烛烛台",
+    "vi": null
+  },
+  "block.supplementaries.candle_holder_black": {
+    "en": "Black Candle Holder",
+    "zh": "黑色蜡烛烛台",
+    "vi": null
+  },
+  "block.supplementaries.candle_holder_orange": {
+    "en": "Orange Candle Holder",
+    "zh": "橙色蜡烛烛台",
+    "vi": null
+  },
+  "block.supplementaries.candle_holder_gray": {
+    "en": "Gray Candle Holder",
+    "zh": "灰色蜡烛烛台",
+    "vi": null
+  },
+  "block.supplementaries.candle_holder_soul": {
+    "en": "Soul Candle Holder",
+    "zh": "灵魂蜡烛烛台",
+    "vi": null
+  },
+  "block.supplementaries.candle_holder_spectacle": {
+    "en": "Spectacle Candle Holder",
+    "zh": "夜视蜡烛烛台",
+    "vi": null
+  },
+  "block.supplementaries.enderman_head": {
+    "en": "Enderman Head",
+    "zh": "末影人的头",
+    "vi": null
+  },
+  "block.supplementaries.ashen_basalt": {
+    "en": "Basalt",
+    "zh": "玄武岩",
+    "vi": null
+  },
+  "block.supplementaries.skull_candle": {
+    "en": "Skull Candle",
+    "zh": "头颅烛台",
+    "vi": null
+  },
+  "block.supplementaries.structure_temp": {
+    "en": "0",
+    "zh": "0",
+    "vi": null
+  },
+  "block.supplementaries.ceiling_banner_black": {
+    "en": "Black Banner",
+    "zh": "黑色旗帜",
+    "vi": null
+  },
+  "block.supplementaries.ceiling_banner_blue": {
+    "en": "Blue Banner",
+    "zh": "蓝色旗帜",
+    "vi": null
+  },
+  "block.supplementaries.ceiling_banner_brown": {
+    "en": "Brown Banner",
+    "zh": "棕色旗帜",
+    "vi": null
+  },
+  "block.supplementaries.ceiling_banner_cyan": {
+    "en": "Cyan Banner",
+    "zh": "青色旗帜",
+    "vi": null
+  },
+  "block.supplementaries.ceiling_banner_gray": {
+    "en": "Gray Banner",
+    "zh": "灰色旗帜",
+    "vi": null
+  },
+  "block.supplementaries.ceiling_banner_green": {
+    "en": "Green Banner",
+    "zh": "绿色旗帜",
+    "vi": null
+  },
+  "block.supplementaries.ceiling_banner_light_blue": {
+    "en": "Light Blue Banner",
+    "zh": "淡蓝色旗帜",
+    "vi": null
+  },
+  "block.supplementaries.ceiling_banner_light_gray": {
+    "en": "Light Gray Banner",
+    "zh": "淡灰色旗帜",
+    "vi": null
+  },
+  "block.supplementaries.ceiling_banner_lime": {
+    "en": "Lime Banner",
+    "zh": "黄绿色旗帜",
+    "vi": null
+  },
+  "block.supplementaries.ceiling_banner_magenta": {
+    "en": "Magenta Banner",
+    "zh": "品红色旗帜",
+    "vi": null
+  },
+  "block.supplementaries.ceiling_banner_orange": {
+    "en": "Orange Banner",
+    "zh": "橙色旗帜",
+    "vi": null
+  },
+  "block.supplementaries.ceiling_banner_pink": {
+    "en": "Pink Banner",
+    "zh": "粉红色旗帜",
+    "vi": null
+  },
+  "block.supplementaries.ceiling_banner_purple": {
+    "en": "Purple Banner",
+    "zh": "紫色旗帜",
+    "vi": null
+  },
+  "block.supplementaries.ceiling_banner_red": {
+    "en": "Red Banner",
+    "zh": "红色旗帜",
+    "vi": null
+  },
+  "block.supplementaries.ceiling_banner_white": {
+    "en": "White Banner",
+    "zh": "白色旗帜",
+    "vi": null
+  },
+  "block.supplementaries.ceiling_banner_yellow": {
+    "en": "Yellow Banner",
+    "zh": "黄色旗帜",
+    "vi": null
+  },
+  "item.supplementaries.pancake_disc": {
+    "en": "Pancake",
+    "zh": "煎饼",
+    "vi": null
+  },
+  "supplementaries.gui.controls": {
+    "en": "Supplementaries",
+    "zh": "锦致装饰（Supplementaries）",
+    "vi": null
+  },
+  "supplementaries.keybind.quiver": {
+    "en": "Quiver",
+    "zh": "箭袋",
+    "vi": null
+  },
+  "subtitle.supplementaries.clock_tick": {
+    "en": "Clock ticking",
+    "zh": "时钟方块：滴答",
+    "vi": null
+  },
+  "subtitle.supplementaries.gunpowder.ignite": {
+    "en": "Gunpowder fixxles",
+    "zh": "火药：嘶嘶作响",
+    "vi": null
+  },
+  "subtitle.supplementaries.bomb": {
+    "en": "Bomb explodes",
+    "zh": "炸弹：爆炸",
+    "vi": null
+  },
+  "subtitle.supplementaries.sack.break": {
+    "en": "Sack broken",
+    "zh": "麻布袋：被破坏",
+    "vi": null
+  },
+  "subtitle.supplementaries.sack.place": {
+    "en": "Sack placed",
+    "zh": "麻布袋：被放置",
+    "vi": null
+  },
+  "subtitle.supplementaries.sack.open": {
+    "en": "Sack opened",
+    "zh": "麻布袋：打开",
+    "vi": null
+  },
+  "subtitle.supplementaries.rope.break": {
+    "en": "Rope broken",
+    "zh": "绳索：被破坏",
+    "vi": null
+  },
+  "subtitle.supplementaries.rope.place": {
+    "en": "Rope placed",
+    "zh": "绳索：被放置",
+    "vi": null
+  },
+  "subtitle.supplementaries.rope.slide": {
+    "en": "Rope slide",
+    "zh": "绳索：滑动",
+    "vi": null
+  },
+  "subtitle.supplementaries.bubble.pop": {
+    "en": "Bubble pop",
+    "zh": "肥皂泡：破裂",
+    "vi": null
+  },
+  "subtitle.supplementaries.bubble.blow": {
+    "en": "Bubble blown",
+    "zh": "肥皂泡：被吹出",
+    "vi": null
+  },
+  "subtitle.supplementaries.present.place": {
+    "en": "Present placed",
+    "zh": "礼物盒：被放置",
+    "vi": null
+  },
+  "subtitle.supplementaries.present.break": {
+    "en": "Present broken",
+    "zh": "礼物盒：被破坏",
+    "vi": null
+  },
+  "subtitle.supplementaries.present.open": {
+    "en": "Present opened",
+    "zh": "礼物盒：打开",
+    "vi": null
+  },
+  "subtitle.supplementaries.present.pack": {
+    "en": "Present packed",
+    "zh": "礼物盒：打包",
+    "vi": null
+  },
+  "subtitle.supplementaries.crank.turn": {
+    "en": "Crank turned",
+    "zh": "曲柄：转动",
+    "vi": null
+  },
+  "subtitle.supplementaries.jar.place": {
+    "en": "Jar placed",
+    "zh": "玻璃罐：被放置",
+    "vi": null
+  },
+  "subtitle.supplementaries.jar.break": {
+    "en": "Jar broken",
+    "zh": "玻璃罐：被破坏",
+    "vi": null
+  },
+  "subtitle.supplementaries.jar.cookie": {
+    "en": "Cookie placed in a jar",
+    "zh": "曲奇：被放入罐中",
+    "vi": null
+  },
+  "subtitle.supplementaries.bellows.retract": {
+    "en": "Bellows contracts",
+    "zh": "风箱：收缩",
+    "vi": null
+  },
+  "subtitle.supplementaries.bellows.blow": {
+    "en": "Bellows blows",
+    "zh": "风箱：鼓风",
+    "vi": null
+  },
+  "subtitle.supplementaries.globe.spin": {
+    "en": "Globe spins",
+    "zh": "地球仪：旋转",
+    "vi": null
+  },
+  "subtitle.supplementaries.faucet.turn": {
+    "en": "Faucet turns",
+    "zh": "水龙头：拧动",
+    "vi": null
+  },
+  "subtitle.supplementaries.slingshot.charge": {
+    "en": "Slingshot charged",
+    "zh": "弹弓：拉紧",
+    "vi": null
+  },
+  "subtitle.supplementaries.slingshot.release": {
+    "en": "Slingshot released",
+    "zh": "弹弓：弹射",
+    "vi": null
+  },
+  "subtitle.supplementaries.turntable.cat": {
+    "en": "Ching Cheng Hanji",
+    "zh": "近前看其",
+    "vi": null
+  },
+  "message.supplementaries.tattered": {
+    "en": "Tattered",
+    "zh": "破烂不堪",
+    "vi": null
+  },
+  "painting.supplementaries.bombs.title": {
+    "en": "Bombs",
+    "zh": "Bombs",
+    "vi": null
+  },
+  "painting.supplementaries.bombs.author": {
+    "en": "Plantkillable",
+    "zh": "Plantkillable",
+    "vi": null
+  },
+  "item.supplementaries.cartographers_quill": {
+    "en": "Cartographer's Quill",
+    "zh": "制图羽毛笔",
+    "vi": null
+  },
+  "message.supplementaries.cartographers_quill": {
+    "en": "Unknown",
+    "zh": "未知",
+    "vi": null
+  },
+  "message.supplementaries.quill_failed": {
+    "en": "A Cartographer's Quill has failed its search.",
+    "zh": "制图羽毛笔搜索失败",
+    "vi": null
+  },
+  "message.supplementaries.quill_finished": {
+    "en": "A Cartographer Map has been completed.",
+    "zh": "制图师地图已绘制完毕",
+    "vi": null
+  },
+  "item.supplementaries.altimeter": {
+    "en": "Altimeter",
+    "zh": "海拔计",
+    "vi": null
+  },
+  "message.supplementaries.altimeter": {
+    "en": "Y: %d",
+    "zh": "Y：%d",
+    "vi": null
+  },
+  "message.supplementaries.compass": {
+    "en": "X: %d, Z: %d",
+    "zh": "X：%d，Z：%d",
+    "vi": null
+  },
+  "item.supplementaries.slice_map": {
+    "en": "Slice Map",
+    "zh": "切面地图",
+    "vi": null
+  },
+  "filled_map.sliced.tooltip": {
+    "en": "Slice: %d",
+    "zh": "切面高度：%d",
+    "vi": null
+  },
+  "message.supplementaries.death_marker": {
+    "en": "Last Death",
+    "zh": "上一次死亡",
+    "vi": null
+  },
+  "entity.supplementaries.hat_stand": {
+    "en": "Hat Stand",
+    "zh": "帽架",
+    "vi": null
+  },
+  "item.supplementaries.hat_stand": {
+    "en": "Hat Stand",
+    "zh": "帽架",
+    "vi": null
+  },
+  "config.jade.plugin_supplementaries.hat_stand": {
+    "en": "Hat Stand",
+    "zh": "帽架",
+    "vi": null
+  },
+  "supplementaries.display_source.item_name": {
+    "en": "Item Name",
+    "zh": "物品名称",
+    "vi": null
+  },
+  "supplementaries.display_source.world_position": {
+    "en": "World Position",
+    "zh": "位置",
+    "vi": null
+  },
+  "supplementaries.display_source.notice_board": {
+    "en": "Copy Notice Board",
+    "zh": "布告栏",
+    "vi": null
+  },
+  "supplementaries.display_source.time_of_day": {
+    "en": "Time of Day",
+    "zh": "时间",
+    "vi": null
+  },
+  "supplementaries.display_source.fluid_amount": {
+    "en": "Fluid Amount",
+    "zh": "流体含量",
+    "vi": null
+  },
+  "create.display_source.fill_level.fluid_amount": {
+    "en": "Fluid Amount",
+    "zh": "流体含量",
+    "vi": null
+  },
+  "gui.supplementaries.optifine.message": {
+    "en": "Before proceeding, please note that Optifine is known to cause issues and crashes.\n\n The mod is not suited for the modded environment and has had many instances of terrible compatibility even with Forge itself.\n\n Moreover, in terms of performance, way better and extremely more performant alterantives exist such as Modern fix, Embeddium as well as Oculus for shaders. \n\nWhether you play modded or vanilla, you should always use the mods listed here below instead.",
+    "zh": "在继续之前，请注意已有实证表明Optifine会导致问题乃至崩溃。\n\n该模组不适合与其他模组一起使用，与Forge本身的兼容性也较差。\n\n此外，还有其他效果更好的性能提升模组可供使用，例如Modern fix、Embeddium，以及Oculus。\n\n不论是游玩模组或是游玩原版，你都应该选用下方列出的模组。",
+    "vi": null
+  },
+  "gui.supplementaries.optifine.suggestions": {
+    "en": "Here's a selection of mods that we recommend using instead.",
+    "zh": "我们推荐使用的若干模组如下。",
+    "vi": null
+  },
+  "gui.supplementaries.optifine.title": {
+    "en": "WARNING: OPTIFINE DETECTED",
+    "zh": "警告，检测到OPTIFINE",
+    "vi": null
+  },
+  "gui.supplementaries.optifine.turn_off": {
+    "en": "Don't show this again",
+    "zh": "不再显示",
+    "vi": null
+  },
+  "block_type.supplementaries.hanging_sign": {
+    "en": "Hanging Sign",
+    "zh": "挂牌",
+    "vi": null
+  },
+  "block_type.supplementaries.sign_post": {
+    "en": "Sign Post",
+    "zh": "路标",
+    "vi": null
+  },
+  "wood_type.domum_ornamentum.cactus": {
+    "en": "Green Cactus",
+    "zh": "绿色仙人掌",
+    "vi": null
+  },
+  "wood_type.domum_ornamentum.cactus_extra": {
+    "en": "Cactus",
+    "zh": "仙人掌",
+    "vi": null
+  },
+  "wood_type.twilightforest.dark": {
+    "en": "Darkwood",
+    "zh": "黑木",
+    "vi": null
+  },
+  "wood_type.twilightforest.time": {
+    "en": "Timewood",
+    "zh": "时光木",
+    "vi": null
+  },
+  "wood_type.twilightforest.trans": {
+    "en": "Transwood",
+    "zh": "变化木",
+    "vi": null
+  },
+  "wood_type.twilightforest.sorting": {
+    "en": "Sortingwood",
+    "zh": "分类木",
+    "vi": null
+  },
+  "leaves_type.twilightforest.dark": {
+    "en": "Darkwood",
+    "zh": "黑树",
+    "vi": null
+  },
+  "leaves_type.ulterlands.souldrained": {
+    "en": "Petrified",
+    "zh": "石化",
+    "vi": null
+  },
+  "trinkets.slot.chest.quiver": {
+    "en": "Quiver",
+    "zh": "箭袋",
+    "vi": null
+  },
+  "trinkets.slot.legs.key": {
+    "en": "Key",
+    "zh": "钥匙",
+    "vi": null
+  },
+  "trinkets.slot.legs.quiver": {
+    "en": "Quiver",
+    "zh": null,
+    "vi": null
+  }
+}

@@ -1,0 +1,80 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "Latxx",
+      "uniqueId": "00000000-0000-3005-998f-5030982661f3"
+    },
+    "time": 1785928876386,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/0jSpt80UqL"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Latxx",
+      "uniqueId": "00000000-0000-3005-998f-5030982661f3"
+    },
+    "time": 1785928771270,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/qOAbtYWtKS"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Latxx",
+      "uniqueId": "00000000-0000-3005-998f-5030982661f3"
+    },
+    "time": 1785928703014,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/daEmfYIxOM"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Latxx",
+      "uniqueId": "00000000-0000-3005-998f-5030982661f3"
+    },
+    "time": 1785927258879,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/oEsfUIeugU"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Latxx",
+      "uniqueId": "00000000-0000-3005-998f-5030982661f3"
+    },
+    "time": 1783770721554,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/rerwYY7kHy"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Latxx",
+      "uniqueId": "00000000-0000-3005-998f-5030982661f3"
+    },
+    "time": 1783769600597,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/HUzTkjjo6j"
+    }
+  }
+]

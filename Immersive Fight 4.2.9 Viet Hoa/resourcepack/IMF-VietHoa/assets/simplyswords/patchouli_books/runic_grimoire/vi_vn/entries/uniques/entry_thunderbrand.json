@@ -1,0 +1,17 @@
+{
+  "name": "Stormbringer (Túng Lôi)",
+  "icon": "simplyswords:thunderbrand",
+  "advancement": "simplyswords:thunderbrand",
+  "category": "simplyswords:category_unique_weapons",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:thunderbrand",
+      "text": "Chiến kích huyền thoại thống trị sấm sét, phóng ra những luồng sét giáng rền vang chiến địa."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Lao tới áp sát chớp nhoáng và phóng điện giật liên hoàn tiêu diệt nhiều kẻ địch cùng lúc."
+    }
+  ]
+}

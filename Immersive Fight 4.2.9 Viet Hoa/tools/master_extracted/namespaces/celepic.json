@@ -1,0 +1,27 @@
+{
+  "effect.celepic.attack_boost": {
+    "en": null,
+    "zh": "最终血祭",
+    "vi": "Huyết Tế Chung Cực"
+  },
+  "effect.celepic.attack_boost.description": {
+    "en": null,
+    "zh": "提高攻击伤害。此状态下可消耗12层充能并摧毁一切。",
+    "vi": "Tăng sát thương tấn công. Ở trạng thái này có thể tiêu hao 12 tầng năng lượng và hủy diệt tất cả."
+  },
+  "effect.celepic.auto_attack": {
+    "en": null,
+    "zh": "花之舞",
+    "vi": "Vũ Điệu Hoa"
+  },
+  "enchantment.celestisynth.pulsation.desc": {
+    "en": null,
+    "zh": "概率触发攻击提升和击退",
+    "vi": "Có tỉ lệ kích hoạt tăng sát thương tấn công và đẩy lùi"
+  },
+  "effect.celepic.auto_attack.description": {
+    "en": null,
+    "zh": "自动攻击。",
+    "vi": "Tự động tấn công."
+  }
+}

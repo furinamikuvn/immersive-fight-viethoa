@@ -1,0 +1,134 @@
+
+[worldroot_tools]
+	#Range: 0.0 ~ 100000.0
+	worldrootSwordAttackDamage = 7.8
+	#Range: 0.0 ~ 100.0
+	worldrootSwordAttackSpeed = 1.6
+	#Range: 0.0 ~ 100000.0
+	worldrootPickaxeAttackDamage = 5.8
+	#Range: 0.0 ~ 100.0
+	worldrootPickaxeAttackSpeed = 1.2
+	#Range: 0.0 ~ 100000.0
+	worldrootAxeAttackDamage = 9.8
+	#Range: 0.0 ~ 100.0
+	worldrootAxeAttackSpeed = 1.0
+	#Range: 0.0 ~ 100000.0
+	worldrootShovelAttackDamage = 6.3
+	#Range: 0.0 ~ 100.0
+	worldrootShovelAttackSpeed = 1.0
+	#Range: 0.0 ~ 100000.0
+	worldrootHoeAttackDamage = 0.8
+	#Range: 0.0 ~ 100.0
+	worldrootHoeAttackSpeed = 4.0
+	#Range: 0.0 ~ 1000.0
+	worldrootDragonDamageMultiplier = 1.5
+
+[blood_tempest]
+	#Range: 0.0 ~ 100000.0
+	bloodTempestKatanaAttackDamage = 9.0
+	#Range: 0.0 ~ 100.0
+	bloodTempestKatanaAttackSpeed = 3.0
+	#Range: 0.0 ~ 100.0
+	bloodTempestKatanaEntityReach = 5.0
+	#Range: 0.0 ~ 1000.0
+	bloodTempestKatanaCriticalDamageBonus = 0.8
+	#Range: 0.0 ~ 1000.0
+	bloodTempestRaevyxDamageMultiplier = 3.0
+	#Range: 0.0 ~ 1000.0
+	bloodTempestKatanaAbilityDamageMultiplier = 2.65
+	#Range: 0 ~ 72000
+	bloodTempestKatanaAbilityCooldownTicks = 60
+	#Range: 0.75 ~ 100.0
+	bloodTempestKatanaAbilityMaxDistance = 20.0
+	bloodTempestKatanaAbilityEnabled = true
+	#Range: 0.0 ~ 100000.0
+	bloodTempestHelmetArmor = 4.0
+	#Range: 0.0 ~ 100000.0
+	bloodTempestChestplateArmor = 9.0
+	#Range: 0.0 ~ 100000.0
+	bloodTempestLeggingsArmor = 7.0
+	#Range: 0.0 ~ 100000.0
+	bloodTempestBootsArmor = 4.0
+	#Range: 0.0 ~ 100000.0
+	bloodTempestArmorToughness = 4.0
+	#Range: 0.0 ~ 1.0
+	bloodTempestKnockbackResistance = 0.15
+	bloodTempestDodgeEnabled = true
+	#Range: 0 ~ 72000
+	bloodTempestDodgeCooldownTicks = 30
+	#Range: 0.0 ~ 100.0
+	bloodTempestForwardDodgeSpeed = 4.0
+	#Range: 0.0 ~ 100.0
+	bloodTempestSideBackDodgeSpeed = 4.0
+
+[dragonlord]
+	#Range: 0.0 ~ 100000.0
+	dragonlordSwordAttackDamage = 13.0
+	#Range: 0.0 ~ 100.0
+	dragonlordSwordAttackSpeed = 1.4
+	#Range: 0.0 ~ 100.0
+	dragonlordSwordEntityReach = 7.0
+	#Range: 0.0 ~ 1000.0
+	dragonlordSwordCriticalDamageBonus = 0.0
+	#Range: 0.0 ~ 1000.0
+	dragonlordIgnivorusDamageMultiplier = 5.0
+	#Range: 0.0 ~ 100000.0
+	dragonlordHelmetArmor = 5.0
+	#Range: 0.0 ~ 100000.0
+	dragonlordChestplateArmor = 10.0
+	#Range: 0.0 ~ 100000.0
+	dragonlordLeggingsArmor = 8.0
+	#Range: 0.0 ~ 100000.0
+	dragonlordBootsArmor = 5.0
+	#Range: 0.0 ~ 100000.0
+	dragonlordArmorToughness = 5.0
+	#Range: 0.0 ~ 1.0
+	dragonlordHelmetKnockbackResistance = 0.15
+	#Range: 0.0 ~ 1.0
+	dragonlordChestplateKnockbackResistance = 0.5
+	#Range: 0.0 ~ 1.0
+	dragonlordLeggingsKnockbackResistance = 0.25
+	#Range: 0.0 ~ 1.0
+	dragonlordBootsKnockbackResistance = 0.1
+	#Range: 0.0 ~ 10000.0
+	dragonlordHelmetMaxHealthBonusPercent = 10.0
+	#Range: 0.0 ~ 10000.0
+	dragonlordChestplateMaxHealthBonusPercent = 15.0
+	#Range: 0.0 ~ 10000.0
+	dragonlordLeggingsMaxHealthBonusPercent = 15.0
+	#Range: 0.0 ~ 10000.0
+	dragonlordBootsMaxHealthBonusPercent = 10.0
+	#Range: 0.0 ~ 100000.0
+	dragonlordFireResistancePerPiece = 25.0
+	#Range: 0.0 ~ 100000.0
+	dragonlordBlastResistancePerPiece = 25.0
+	dragonlordSwordAbilityEnabled = true
+	#Range: 0.0 ~ 100000.0
+	dragonlordSwordAbilityBaseDamage = 18.0
+	#Range: 0.0 ~ 100000.0
+	dragonlordSwordAbilityDamagePerPillar = 4.0
+	#Range: 0.0 ~ 100.0
+	dragonlordSwordAbilityBaseKnockback = 0.9
+	#Range: 0.0 ~ 100.0
+	dragonlordSwordAbilityKnockbackPerPillar = 0.2
+	#Range: 0 ~ 72000
+	dragonlordSwordAbilityCooldownTicks = 50
+	dragonlordFlightEnabled = true
+	#Range: 0.0 ~ 10.0
+	dragonlordDoubleJumpVerticalVelocity = 0.85
+	#Range: 0.0 ~ 1000.0
+	dragonlordLandingMinimumDrop = 4.0
+	#Range: 0.0 ~ 100.0
+	dragonlordLandingShockwaveRadius = 7.5
+	#Range: 0.0 ~ 100.0
+	dragonlordLandingKnockUpStrength = 0.75
+	#Range: 0.0 ~ 100000.0
+	dragonlordLandingImpactDamage = 20.0
+	dragonlordLavaFissureEnabled = true
+	#Range: 0.0 ~ 100000.0
+	dragonlordLavaFissureDamage = 10.0
+	#Range: 0.5 ~ 100.0
+	dragonlordLavaFissureRadius = 9.0
+	#Range: 1 ~ 72000
+	dragonlordLavaFissureDurationTicks = 140
+

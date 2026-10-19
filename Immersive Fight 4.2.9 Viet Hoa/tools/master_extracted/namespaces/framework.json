@@ -1,0 +1,7 @@
+{
+  "framework.gui.process_config_fail": {
+    "en": "Failed to process config from server: %s",
+    "zh": null,
+    "vi": null
+  }
+}

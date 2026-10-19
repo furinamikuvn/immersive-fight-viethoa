@@ -1,0 +1,17 @@
+{
+  "name": "Làm Yếu (Weaken)",
+  "icon": "simplyswords:runic_tablet",
+  "category": "simplyswords:category_rune_etching",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:runic_tablet",
+      "title": "Làm Yếu (Weaken)",
+      "text": "Truyền vào tinh túy $(#87185d)$(l)Héo Rũ$(). $(br2)Làm chậm và suy yếu mục tiêu khi trúng đòn."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Làm suy yếu đòn đánh của địch, tạo thêm cơ hội phản công an toàn."
+    }
+  ]
+}

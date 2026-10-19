@@ -1,0 +1,217 @@
+{
+  "_comment": {
+    "en": "STRINGS - PRECIPITATION",
+    "zh": "STRINGS - PRECIPITATION",
+    "vi": null
+  },
+  "item.naturescompass.naturescompass": {
+    "en": "Nature's Compass",
+    "zh": "自然罗盘",
+    "vi": null
+  },
+  "string.naturescompass.back": {
+    "en": "Back",
+    "zh": "返回",
+    "vi": null
+  },
+  "string.naturescompass.info": {
+    "en": "Info",
+    "zh": "信息",
+    "vi": null
+  },
+  "string.naturescompass.startSearch": {
+    "en": "Start Search",
+    "zh": "开始搜索",
+    "vi": null
+  },
+  "string.naturescompass.selectBiome": {
+    "en": "Select Biome",
+    "zh": "选择生物群系",
+    "vi": null
+  },
+  "string.naturescompass.sortBy": {
+    "en": "Sort By",
+    "zh": "排序依据",
+    "vi": null
+  },
+  "string.naturescompass.teleport": {
+    "en": "Teleport",
+    "zh": "传送",
+    "vi": null
+  },
+  "string.naturescompass.cold": {
+    "en": "Cold",
+    "zh": "寒冷",
+    "vi": null
+  },
+  "string.naturescompass.medium": {
+    "en": "Medium",
+    "zh": "适中",
+    "vi": null
+  },
+  "string.naturescompass.warm": {
+    "en": "Warm",
+    "zh": "温暖",
+    "vi": null
+  },
+  "string.naturescompass.none": {
+    "en": "None",
+    "zh": "无",
+    "vi": null
+  },
+  "string.naturescompass.veryLow": {
+    "en": "Very Low",
+    "zh": "非常低",
+    "vi": null
+  },
+  "string.naturescompass.low": {
+    "en": "Low",
+    "zh": "低",
+    "vi": null
+  },
+  "string.naturescompass.average": {
+    "en": "Average",
+    "zh": "适中",
+    "vi": null
+  },
+  "string.naturescompass.high": {
+    "en": "High",
+    "zh": "高",
+    "vi": null
+  },
+  "string.naturescompass.veryHigh": {
+    "en": "Very High",
+    "zh": "非常高",
+    "vi": null
+  },
+  "string.naturescompass.biome": {
+    "en": "Biome",
+    "zh": "生物群系",
+    "vi": null
+  },
+  "string.naturescompass.category": {
+    "en": "Category",
+    "zh": "类别",
+    "vi": null
+  },
+  "string.naturescompass.coordinates": {
+    "en": "Coordinates",
+    "zh": "坐标",
+    "vi": null
+  },
+  "string.naturescompass.dimension": {
+    "en": "Dimension",
+    "zh": "方面",
+    "vi": null
+  },
+  "string.naturescompass.distance": {
+    "en": "Distance",
+    "zh": "距离",
+    "vi": null
+  },
+  "string.naturescompass.found": {
+    "en": "Found",
+    "zh": "已发现",
+    "vi": null
+  },
+  "string.naturescompass.notFound": {
+    "en": "Not Found",
+    "zh": "未发现",
+    "vi": null
+  },
+  "string.naturescompass.radius": {
+    "en": "Radius",
+    "zh": "半径",
+    "vi": null
+  },
+  "string.naturescompass.samples": {
+    "en": "Samples",
+    "zh": "样本",
+    "vi": null
+  },
+  "string.naturescompass.search": {
+    "en": "Search",
+    "zh": "搜索",
+    "vi": null
+  },
+  "string.naturescompass.searching": {
+    "en": "Searching",
+    "zh": "搜索中",
+    "vi": null
+  },
+  "string.naturescompass.source": {
+    "en": "Source",
+    "zh": "来源",
+    "vi": null
+  },
+  "string.naturescompass.status": {
+    "en": "Status",
+    "zh": "状态",
+    "vi": null
+  },
+  "string.naturescompass.tags": {
+    "en": "Tags",
+    "zh": "标签",
+    "vi": null
+  },
+  "string.naturescompass.baseHeight": {
+    "en": "Base Height",
+    "zh": "高度",
+    "vi": null
+  },
+  "string.naturescompass.climate": {
+    "en": "Climate",
+    "zh": "气候",
+    "vi": null
+  },
+  "string.naturescompass.fillerBlock": {
+    "en": "Filler Block",
+    "zh": "地基组成",
+    "vi": null
+  },
+  "string.naturescompass.heightVariation": {
+    "en": "Height Variation",
+    "zh": "高度变化",
+    "vi": null
+  },
+  "string.naturescompass.highHumidity": {
+    "en": "High Humidity",
+    "zh": "海拔湿度",
+    "vi": null
+  },
+  "string.naturescompass.name": {
+    "en": "Name",
+    "zh": "名称",
+    "vi": null
+  },
+  "string.naturescompass.precipitation": {
+    "en": "Precipitation",
+    "zh": "降水类别",
+    "vi": null
+  },
+  "string.naturescompass.rainfall": {
+    "en": "Rainfall",
+    "zh": "降水量",
+    "vi": null
+  },
+  "string.naturescompass.temperature": {
+    "en": "Temperature",
+    "zh": "温度",
+    "vi": null
+  },
+  "string.naturescompass.topBlock": {
+    "en": "Top Block",
+    "zh": "平面组成",
+    "vi": null
+  },
+  "string.naturescompass.snow": {
+    "en": "Snow",
+    "zh": "雪",
+    "vi": null
+  },
+  "string.naturescompass.rain": {
+    "en": "Rain",
+    "zh": "雨",
+    "vi": null
+  }
+}

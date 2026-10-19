@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "dungeons_and_combat:the_blacksmith_house",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 40,
+    "separation": 30,
+    "salt": 2146421946
+  }
+}

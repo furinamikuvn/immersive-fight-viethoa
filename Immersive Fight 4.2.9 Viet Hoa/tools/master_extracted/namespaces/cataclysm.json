@@ -1,0 +1,3697 @@
+{
+  "item.cataclysm.ignitium_helmet.desc2": {
+    "en": "Press %s to give a Blazing Brand effect to the LivingEntity.",
+    "zh": "按下【%s】对生物施加炽热烙印效果",
+    "vi": "Nhấn [%s] để áp dụng hiệu ứng thương hiệu bốc lửa cho sinh vật"
+  },
+  "block.cataclysm.purpur_tiles": {
+    "en": "Purpur Tiles",
+    "zh": "紫珀砖瓦",
+    "vi": "Purpur Tiles"
+  },
+  "block.cataclysm.purpur_tile_slab": {
+    "en": "Purpur Tile Slab",
+    "zh": "紫珀砖瓦半砖",
+    "vi": "Purpur Tile Slab"
+  },
+  "block.cataclysm.purpur_tile_pillar": {
+    "en": "Purpur Tile Pillar",
+    "zh": "紫珀砖瓦柱",
+    "vi": "Purpur Tile Pillar"
+  },
+  "block.cataclysm.purpur_tile_stairs": {
+    "en": "Purpur Tile Stairs",
+    "zh": "紫珀砖瓦台阶",
+    "vi": "Purpur Tile Stairs"
+  },
+  "block.cataclysm.purpur_tile_wall": {
+    "en": "Purpur Tile Wall",
+    "zh": "紫珀砖瓦墙",
+    "vi": "Purpur Tile Wall"
+  },
+  "block.cataclysm.void_purpur_tiles": {
+    "en": "Void Purpur Tiles",
+    "zh": "虚空紫珀砖瓦",
+    "vi": "Void Purpur Tiles"
+  },
+  "block.cataclysm.obsidian_pillar": {
+    "en": "Obsidian Pillar",
+    "zh": "黑曜石柱",
+    "vi": "Obsidian Pillar"
+  },
+  "block.cataclysm.polished_obsidian_slab": {
+    "en": "Polished Obsidian Slab",
+    "zh": "磨制黑曜石半砖",
+    "vi": "Polished Obsidian Slab"
+  },
+  "block.cataclysm.polished_obsidian_stairs": {
+    "en": "Polished Obsidian Stairs",
+    "zh": "磨制黑曜石台阶",
+    "vi": "Polished Obsidian Stairs"
+  },
+  "block.cataclysm.polished_obsidian_wall": {
+    "en": "Polished Obsidian Wall",
+    "zh": "磨制黑曜石墙",
+    "vi": "Polished Obsidian Wall"
+  },
+  "block.cataclysm.chorus_trapdoor": {
+    "en": "Chorus Trapdoor",
+    "zh": "紫颂活板门",
+    "vi": "Chorus Trapdoor"
+  },
+  "item.cataclysm.lava_power_cell": {
+    "en": "Lava Power Cell",
+    "zh": "熔岩能量核心",
+    "vi": "Lava Power Cell"
+  },
+  "item.cataclysm.netherite_effigy": {
+    "en": "Netherite Effigy",
+    "zh": "下界合金雕像",
+    "vi": "Netherite Effigy"
+  },
+  "item.cataclysm.netherite_effigy.desc": {
+    "en": "Summon Netherite Ministrosity, can be tamed through Lava Power Cell",
+    "zh": "召唤下界合金小兽，可通过熔岩能量核心驯服",
+    "vi": "Triệu tập các quái thú địa ngục, có thể được thuần hóa bằng lõi năng lượng dung nham"
+  },
+  "item.cataclysm.netherite_ministrosity_bucket": {
+    "en": "Bucket of Netherite Ministrosity",
+    "zh": "下界合金小兽桶",
+    "vi": "Bucket of Netherite Ministrosity"
+  },
+  "item.cataclysm.netherite_ministrosity_spawn_egg": {
+    "en": "Netherite Ministrosity Spawn Egg",
+    "zh": "下界合金小兽刷怪蛋",
+    "vi": "Netherite Ministrosity Spawn Egg"
+  },
+  "entity.cataclysm.netherite_ministrosity": {
+    "en": "Netherite Ministrosity",
+    "zh": "下界合金小兽",
+    "vi": "Netherite Ministrosity"
+  },
+  "item.cataclysm.the_immolator": {
+    "en": "The Immolator",
+    "zh": "焚化者",
+    "vi": "The Immolator"
+  },
+  "item.cataclysm.immolator.desc": {
+    "en": "Critical damage to targets afflicted with Blazing Brand",
+    "zh": "对受到烈焰烙印影响的目标造成致命伤害",
+    "vi": "Gây sát thương chí mạng cho mục tiêu bị ảnh hưởng bởi Flame Brand"
+  },
+  "item.cataclysm.immolator2.desc": {
+    "en": "If you hold it in both hands, you can charge it for 2 seconds for summon Flame strike",
+    "zh": "如果双手持有，可以蓄力2秒召唤火焰打击",
+    "vi": "Nếu bạn cầm nó bằng cả hai tay, bạn có thể sạc nó trong 2 giây để tạo ra đòn tấn công lửa."
+  },
+  "item.cataclysm.gauntlet_of_maelstrom": {
+    "en": "Gauntlet of Maelstrom",
+    "zh": "漩涡护手",
+    "vi": "Gauntlet of Maelstrom"
+  },
+  "item.cataclysm.gauntlet_of_maelstrom.desc": {
+    "en": "Right click to summon a Void Vortex",
+    "zh": "召唤虚空漩涡",
+    "vi": "Triệu hồi cơn lốc hư không"
+  },
+  "item.cataclysm.wrath_of_the_desert": {
+    "en": "Wrath of the Desert",
+    "zh": "沙漠之怒",
+    "vi": "Wrath of the Desert"
+  },
+  "item.cataclysm.wrath_of_the_desert.desc": {
+    "en": "Fires three cursed sandstorms",
+    "zh": "发射三个诅咒沙暴",
+    "vi": "Bắn ra ba cơn bão cát bị nguyền rủa"
+  },
+  "item.cataclysm.blazing_grips": {
+    "en": "Blazing Grips",
+    "zh": "炽热之握",
+    "vi": "Blazing Grips"
+  },
+  "item.cataclysm.blazing_grips.desc": {
+    "en": "On hit, there is a chance to apply Blazing Brand to the target",
+    "zh": "击中时有几率给目标施加炽热烙印效果",
+    "vi": "Có cơ hội áp dụng hiệu ứng thương hiệu bốc lửa lên mục tiêu khi bắn trúng mục tiêu."
+  },
+  "item.cataclysm.witherite_ingot": {
+    "en": "Witherite Ingot",
+    "zh": "凋灵合金锭",
+    "vi": "Witherite Ingot"
+  },
+  "item.cataclysm.infernal_forge": {
+    "en": "Infernal Forge",
+    "zh": "炼狱锻锤",
+    "vi": "Infernal Forge"
+  },
+  "item.cataclysm.final_fractal": {
+    "en": "Final Fractal",
+    "zh": "终极分形者",
+    "vi": "Final Fractal"
+  },
+  "item.cataclysm.zweiender": {
+    "en": "Zweiender",
+    "zh": "末影双手剑",
+    "vi": "Zweiender"
+  },
+  "item.cataclysm.final_fractal.desc": {
+    "en": "Deals 3% of the maximum health of your target as additional damage",
+    "zh": "造成所攻击实体最大生命值3%的额外伤害",
+    "vi": "Gây thêm sát thương bằng 3% máu tối đa của thực thể bị tấn công."
+  },
+  "item.cataclysm.zweiender.desc": {
+    "en": "Deals 200% damage if you attack your target from behind",
+    "zh": "若攻击目标背部，则造成双倍伤害",
+    "vi": "Nếu tấn công vào lưng mục tiêu sẽ gây sát thương gấp đôi."
+  },
+  "item.cataclysm.infernal_forge.desc": {
+    "en": "When in your main hand, right click at a block to cause AOE damage",
+    "zh": "在主手时，右击方块来造成范围伤害",
+    "vi": "Khi đang ở tay chính, nhấp chuột phải vào khối để gây sát thương diện rộng"
+  },
+  "item.cataclysm.infernal_forge.desc2": {
+    "en": "(FYI, this is a pickaxe)",
+    "zh": "（仅供参考，这其实是一把镐子）",
+    "vi": "(Cho bạn biết, đây thực chất là một cái cuốc)"
+  },
+  "item.cataclysm.gauntlet_of_guard.desc": {
+    "en": "When in your main hand, right click to pull entities",
+    "zh": "在主手时，右击以拉近实体",
+    "vi": "Khi đang ở tay chính, nhấp chuột phải để đưa thực thể lại gần hơn"
+  },
+  "item.cataclysm.monstrous_helm.desc": {
+    "en": "While worn, if you fall below half health knock back nearby entities",
+    "zh": "穿戴时，若你的生命值少于一半, 你将产生爆炸并击退周遭实体",
+    "vi": "Trong khi mặc, nếu máu của bạn còn ít hơn một nửa, bạn sẽ phát nổ và đẩy lùi các thực thể xung quanh"
+  },
+  "item.cataclysm.monstrous_helm2.desc": {
+    "en": "and increases defense, knockback resistance and regeneration",
+    "zh": "并获得强化防御、击退抗性和生命恢复的增益效果。",
+    "vi": "Và nhận được các phép bổ trợ giúp tăng cường khả năng phòng thủ, khả năng chống đẩy lùi và tái tạo sự sống."
+  },
+  "item.cataclysm.void_core.desc": {
+    "en": "Right click to summon Void Runes",
+    "zh": "右键方块召唤虚空符文",
+    "vi": "Nhấp chuột phải vào khối để triệu hồi Void Rune"
+  },
+  "item.cataclysm.wip.desc": {
+    "en": "W.I.P.",
+    "zh": "[WIP]",
+    "vi": "[WIP]"
+  },
+  "item.cataclysm.ignitium_helmet.desc": {
+    "en": "Gaze of Heat",
+    "zh": "熔岩明视",
+    "vi": "tầm nhìn rõ ràng dung nham"
+  },
+  "item.cataclysm.ignitium_chestplate.desc": {
+    "en": "Can be combined with an elytra",
+    "zh": "能够与鞘翅结合",
+    "vi": "Có thể kết hợp với elytra"
+  },
+  "item.cataclysm.ignitium_leggings.desc": {
+    "en": "Flame Reflex",
+    "zh": "用火焰灼烧攻击者",
+    "vi": "Dùng lửa đốt kẻ tấn công"
+  },
+  "item.cataclysm.ignitium_boots.desc": {
+    "en": "Lava Walker",
+    "zh": "熔岩行者",
+    "vi": "dung nham Walker"
+  },
+  "item.cataclysm.cursium_helmet.desc": {
+    "en": "Ghost Vision",
+    "zh": "幽灵视觉",
+    "vi": "tầm nhìn ma quái"
+  },
+  "item.cataclysm.cursium_helmet.desc2": {
+    "en": "Press %s to give a glow effect to the LivingEntity behind the wall in the Area.",
+    "zh": "按下【%s】以用发光效果标记范围内墙壁后方的实体",
+    "vi": "Nhấn [%s] để đánh dấu các thực thể phía sau bức tường trong phạm vi bằng hiệu ứng phát sáng"
+  },
+  "item.cataclysm.cursium_chestplate.desc": {
+    "en": "Undead Revive",
+    "zh": "不死新生",
+    "vi": "sự bất tử"
+  },
+  "item.cataclysm.cursium_chestplate.desc2": {
+    "en": "Revived to 5 health upon death and granted invincibility for 5 seconds",
+    "zh": "死亡后立刻恢复到7点生命值并获得5秒无敌时间",
+    "vi": "Sau khi chết, bạn sẽ ngay lập tức hồi phục 7 điểm máu và có được 5 giây bất khả chiến bại."
+  },
+  "item.cataclysm.cursium_chestplate.desc3": {
+    "en": "After invincible, the Entity is debuffed for 6 minutes and cannot be revived during debuff",
+    "zh": "复活后，穿戴者会被削弱6分钟，削弱持续期间无法复活",
+    "vi": "Sau khi hồi sinh, người mặc sẽ bị suy yếu trong 6 phút và không thể hồi sinh trong thời gian suy yếu."
+  },
+  "item.cataclysm.cursium_leggings.desc": {
+    "en": "Ghost Dodge",
+    "zh": "魂灵闪避",
+    "vi": "Linh hồn né tránh"
+  },
+  "item.cataclysm.cursium_leggings.desc2": {
+    "en": "Ignore the attack with a low probability. The probability increases if the attack is a projectile",
+    "zh": "有低概率免疫本次受到的伤害. 如果是弹射物攻击，则提升触发免疫的概率",
+    "vi": "Có khả năng thấp để miễn nhiễm với sát thương nhận được lần này. Nếu đó là một cuộc tấn công bằng đạn, xác suất kích hoạt khả năng miễn dịch sẽ tăng lên."
+  },
+  "item.cataclysm.cursium_boots.desc": {
+    "en": "Ghostly Weightless",
+    "zh": "鬼魅之足",
+    "vi": "Bàn chân ma quái"
+  },
+  "item.cataclysm.cursium_boots.desc2": {
+    "en": "Reduce fall damage, Press %s to back step",
+    "zh": "降低摔落伤害, 按下【%s】以禁用该能力",
+    "vi": "Giảm sát thương khi rơi, nhấn [%s] để tắt khả năng này"
+  },
+  "item.cataclysm.bulwark_of_the_flame.desc": {
+    "en": "Release while sneaking to charge forward and damage entities in front",
+    "zh": "潜行状态下，手持此盾右击以向前冲锋，对前方实体造成伤害",
+    "vi": "Ở trạng thái tàng hình, giữ tấm khiên này và nhấp chuột phải để lao về phía trước, gây sát thương cho thực thể phía trước."
+  },
+  "item.cataclysm.bulwark_of_the_flame2.desc": {
+    "en": "If the target hits a wall, it will receive extra damage and be temporarily stunned",
+    "zh": "如果目标受击后撞到了墙，那么它会受到更多伤害并被暂时眩晕",
+    "vi": "Nếu mục tiêu va vào tường sau khi bị trúng đòn, mục tiêu sẽ nhận nhiều sát thương hơn và bị choáng tạm thời."
+  },
+  "item.cataclysm.incinerator.desc": {
+    "en": "Hold right click for 3 seconds to charge",
+    "zh": "长按鼠标右键3秒以充能，而后松开右键，",
+    "vi": "Nhấn và giữ nút phải của chuột trong 3 giây để sạc, sau đó nhả nút bên phải."
+  },
+  "item.cataclysm.incinerator2.desc": {
+    "en": "When released, summons a flame strike in the direction you are facing",
+    "zh": "即可在你的面朝方向召唤火焰轰击",
+    "vi": "để triệu tập một vụ nổ lửa theo hướng bạn đang đối mặt."
+  },
+  "item.cataclysm.incinerator3.desc": {
+    "en": "WARNING: Items may be lost when the flame strike explodes",
+    "zh": "对范围内的敌人造成伤害",
+    "vi": "Gây sát thương cho kẻ địch trong phạm vi"
+  },
+  "item.cataclysm.cursed_bow.desc": {
+    "en": "You can shoot 3 Phantom Arrows",
+    "zh": "你可以射出3支幽灵之箭",
+    "vi": "Bạn có thể bắn 3 mũi tên ma"
+  },
+  "item.cataclysm.cursed_bow2.desc": {
+    "en": "If it's a special arrow, two shots will be fired.",
+    "zh": "如果使用特殊箭矢，两支箭会被点燃.",
+    "vi": "Nếu sử dụng mũi tên đặc biệt, cả hai mũi tên sẽ bị đốt cháy."
+  },
+  "item.cataclysm.annihilator.desc": {
+    "en": "Higher Critical Damage",
+    "zh": "更高的暴击伤害",
+    "vi": "Sát thương chí mạng cao hơn"
+  },
+  "item.cataclysm.annihilator2.desc": {
+    "en": "If you hold it in both hands, you can charge it for 2 seconds for AOE damage",
+    "zh": "在副手持有另一把歼灭战锤时，右键蓄力2秒即可造成范围伤害",
+    "vi": "Khi cầm một chiếc Búa chiến Annihilation khác ở tay trái, nhấp chuột phải để tích điện trong 2 giây để gây sát thương diện tích."
+  },
+  "item.cataclysm.soul_render.desc": {
+    "en": "You can Rush of Render",
+    "zh": "右键蓄力可以快速冲刺，路径留下幻影戟",
+    "vi": "Nhấn chuột phải để nạp năng lượng và chạy nhanh, để lại một cây kích ma trên đường đi."
+  },
+  "item.cataclysm.soul_render2.desc": {
+    "en": "When used while sneaking, it summons Phantom Halberds in a spiral pattern",
+    "zh": "潜行时使用时，它会在周围召唤幻影戟",
+    "vi": "Khi sử dụng khi đang lén lút, nó sẽ triệu hồi Phantom Halberd xung quanh nó."
+  },
+  "item.cataclysm.void_forge.desc": {
+    "en": "When in main hand, right click at a block to summon Void Runes in a fan shape",
+    "zh": "在主手时，你可以右击方块以召唤一片扇形虚空符文",
+    "vi": "Trong tay chính của bạn, bạn có thể nhấp chuột phải vào một khối để triệu hồi rune void hình quạt."
+  },
+  "item.cataclysm.void_forge.desc2": {
+    "en": "(Still a pickaxe)",
+    "zh": "(这仍然是一把镐子)",
+    "vi": "(Đây vẫn là một cái cuốc)"
+  },
+  "item.cataclysm.void_assault_shoulder_weapon.desc": {
+    "en": "Right click to shoot Void Howitzers.",
+    "zh": "右击发射虚空榴弹",
+    "vi": "Nhấp chuột phải để phóng lựu đạn trống"
+  },
+  "item.cataclysm.wither_assault_shoulder_weapon.desc": {
+    "en": "Right click to shoot Wither Missiles",
+    "zh": "你可以发射凋灵导弹",
+    "vi": "Bạn có thể bắn tên lửa héo"
+  },
+  "item.cataclysm.wither_assault_shoulder_weapon.desc2": {
+    "en": "While sneaking, right click to shoot Wither Howitzers.",
+    "zh": "潜行时右击以发射凋灵榴弹",
+    "vi": "Nhấp chuột phải trong khi lén lút để phóng lựu đạn khô héo"
+  },
+  "item.cataclysm.gauntlet_of_bulwark.desc": {
+    "en": "Hold right click for 1 second to push nearby entities and inflict Blazing Brand",
+    "zh": "蓄力一秒后，推开周围的实体并给予它们炽热烙印药水效果",
+    "vi": "Sau khi sạc được một giây, hãy đẩy các thực thể xung quanh ra xa và cho chúng hiệu ứng của Thuốc Thương Hiệu Lửa."
+  },
+  "item.cataclysm.gauntlet_of_bulwark.desc2": {
+    "en": "Release to charge forward and damage entities in front",
+    "zh": "如果停止右击，你将向前冲锋并对你前方的实体们造成伤害",
+    "vi": "Nếu bạn ngừng nhấp chuột phải, bạn sẽ lao về phía trước và gây sát thương cho các thực thể trước mặt bạn."
+  },
+  "item.cataclysm.ignitium_upgrade.desc": {
+    "en": "Ignitium Upgrade",
+    "zh": "腾炎升级",
+    "vi": "nâng cấp Tengyan"
+  },
+  "item.cataclysm.ignitium_upgrade.applies_to.desc": {
+    "en": "Netherite Equipment",
+    "zh": "下界合金装备",
+    "vi": "thiết bị kim loại nether"
+  },
+  "item.cataclysm.ignitium_upgrade.ingredients.desc": {
+    "en": "Ignitium Ingot",
+    "zh": "腾炎锭",
+    "vi": "Viên nén Tengyan"
+  },
+  "item.cataclysm.cursium_upgrade.desc": {
+    "en": "Cursium Upgrade",
+    "zh": "咒魂升级",
+    "vi": "Nâng cấp linh hồn bị nguyền rủa"
+  },
+  "item.cataclysm.cursium_upgrade.applies_to.desc": {
+    "en": "Netherite Equipment",
+    "zh": "下界合金装备",
+    "vi": "thiết bị kim loại nether"
+  },
+  "item.cataclysm.cursium_upgrade.ingredients.desc": {
+    "en": "Cursium Ingot",
+    "zh": "咒魂锭",
+    "vi": "Thanh linh hồn bị nguyền rủa"
+  },
+  "item.cataclysm.tidal_claws.desc": {
+    "en": "Right click to fire a grappling hook",
+    "zh": "右击：可以作为抓钩使用",
+    "vi": "Nhấp chuột phải: Có thể được sử dụng như một cái móc vật lộn"
+  },
+  "item.cataclysm.tidal_claws.desc2": {
+    "en": "Left click to shoot a tentacle that damages entities",
+    "zh": "左击：向敌人发射潮汐触手，攻击多个实体",
+    "vi": "Nhấp chuột trái: Phóng các xúc tu thủy triều vào kẻ thù, tấn công nhiều thực thể"
+  },
+  "item.cataclysm.bloom_stone_pauldrons.desc": {
+    "en": "Press the %s to fire amethyst clusters around you that damage entities.",
+    "zh": "按下【%s】向周围发射紫水晶簇",
+    "vi": "Nhấn [%s] để phóng các cụm thạch anh tím xung quanh bạn"
+  },
+  "item.cataclysm.bloom_stone_pauldrons.desc2": {
+    "en": null,
+    "zh": "松开此键后向周围发射紫水晶簇，对实体造成伤害",
+    "vi": "Sau khi nhả nút này, các cụm thạch anh tím sẽ bắn ra xung quanh, gây sát thương cho các thực thể."
+  },
+  "item.cataclysm.blessed_amethyst_crab_meat.desc": {
+    "en": "Be affected by the blessing effect. It is immune to darkness, abyssal fear and abyssal burn during the blessing effect",
+    "zh": "受祝福效应影响。在祝福效果期间免疫黑暗，深渊恐惧和深渊灼烧",
+    "vi": "Bị ảnh hưởng bởi hiệu ứng phước lành. Miễn nhiễm với Bóng tối, Khủng bố vực thẳm và Thiêu đốt vực thẳm khi có hiệu ứng Phước lành"
+  },
+  "item.cataclysm.laser_gatling.desc": {
+    "en": "You can reload with the Redstone in your inventory",
+    "zh": "你可以使用物品栏中的红石粉重新装弹",
+    "vi": "Bạn có thể tải lại bằng bụi đá đỏ trong kho của mình"
+  },
+  "item.cataclysm.meat_shredder.desc": {
+    "en": "Right-click damages entities in front (i-frame ignore)",
+    "zh": "右击以攻击前方实体（无视无敌帧）",
+    "vi": "Nhấp chuột phải để tấn công thực thể phía trước (bỏ qua khung bất khả chiến bại)"
+  },
+  "item.cataclysm.necklace_of_the_desert.desc": {
+    "en": "It looks like you can wake something up......",
+    "zh": "看起来你可以用它唤醒一些东西......",
+    "vi": "Có vẻ như bạn có thể đánh thức điều gì đó với nó..."
+  },
+  "entity.cataclysm.you_cant_escape": {
+    "en": "You can't escape",
+    "zh": "你不能逃脱",
+    "vi": "You can't escape"
+  },
+  "entity.cataclysm.rage_meter": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "cataclysm.container.weapon_fusion": {
+    "en": "§cWeapon Fusion",
+    "zh": "§c武器融合",
+    "vi": "Sự kết hợp vũ khí §c"
+  },
+  "item.cataclysm.enderite_ingot": {
+    "en": "Enderite Ingot",
+    "zh": "末影合金锭",
+    "vi": "Enderite Ingot"
+  },
+  "item.cataclysm.ancient_metal_ingot": {
+    "en": "Ancient Metal Ingot",
+    "zh": "远古金属锭",
+    "vi": "Ancient Metal Ingot"
+  },
+  "item.cataclysm.ancient_metal_nugget": {
+    "en": "Ancient Metal Nugget",
+    "zh": "远古金属粒",
+    "vi": "Ancient Metal Nugget"
+  },
+  "item.cataclysm.black_steel_ingot": {
+    "en": "Black Steel Ingot",
+    "zh": "黑钢锭",
+    "vi": "Black Steel Ingot"
+  },
+  "item.cataclysm.black_steel_nugget": {
+    "en": "Black Steel Nugget",
+    "zh": "黑钢粒",
+    "vi": "Black Steel Nugget"
+  },
+  "item.cataclysm.ignitium_ingot": {
+    "en": "Ignitium Ingot",
+    "zh": "腾炎锭",
+    "vi": "Ignitium Ingot"
+  },
+  "item.cataclysm.cursium_ingot": {
+    "en": "Cursium Ingot",
+    "zh": "咒魂锭",
+    "vi": "Cursium Ingot"
+  },
+  "item.cataclysm.ignitium_upgrade_smithing_template": {
+    "en": "Smithing Template",
+    "zh": "锻造模板",
+    "vi": "Smithing Template"
+  },
+  "item.cataclysm.chain_of_soul_binding": {
+    "en": "Chain of Soul Binding",
+    "zh": "缚魂之链",
+    "vi": "Chain of Soul Binding"
+  },
+  "item.cataclysm.bone_reptile_helmet": {
+    "en": "Bone Reptile Helmet",
+    "zh": "骸龙头盔",
+    "vi": "Bone Reptile Helmet"
+  },
+  "item.cataclysm.bone_reptile_chestplate": {
+    "en": "Bone Reptile Chestplate",
+    "zh": "骸龙胸甲",
+    "vi": "Bone Reptile Chestplate"
+  },
+  "item.cataclysm.ignitium_helmet": {
+    "en": "Ignitium Helmet",
+    "zh": "腾炎头盔",
+    "vi": "Ignitium Helmet"
+  },
+  "item.cataclysm.ignitium_chestplate": {
+    "en": "Ignitium Chestplate",
+    "zh": "腾炎胸甲",
+    "vi": "Ignitium Chestplate"
+  },
+  "item.cataclysm.ignitium_elytra_chestplate": {
+    "en": "Ignitium Elytra Chestplate",
+    "zh": "腾炎鞘翅胸甲",
+    "vi": "Ignitium Elytra Chestplate"
+  },
+  "item.cataclysm.ignitium_leggings": {
+    "en": "Ignitium Leggings",
+    "zh": "腾炎护腿",
+    "vi": "Ignitium Leggings"
+  },
+  "item.cataclysm.ignitium_boots": {
+    "en": "Ignitium Boots",
+    "zh": "腾炎靴子",
+    "vi": "Ignitium Boots"
+  },
+  "item.cataclysm.cursium_helmet": {
+    "en": "Cursium Helmet",
+    "zh": "咒魂头盔",
+    "vi": "Cursium Helmet"
+  },
+  "item.cataclysm.cursium_chestplate": {
+    "en": "Cursium Chestplate",
+    "zh": "咒魂胸甲",
+    "vi": "Cursium Chestplate"
+  },
+  "item.cataclysm.cursium_leggings": {
+    "en": "Cursium Leggings",
+    "zh": "咒魂护腿",
+    "vi": "Cursium Leggings"
+  },
+  "item.cataclysm.cursium_boots": {
+    "en": "Cursium Boots",
+    "zh": "咒魂靴子",
+    "vi": "Cursium Boots"
+  },
+  "item.cataclysm.bulwark_of_the_flame": {
+    "en": "Bulwark of the Flame",
+    "zh": "火焰壁垒",
+    "vi": "Bulwark of the Flame"
+  },
+  "item.cataclysm.gauntlet_of_guard": {
+    "en": "Gauntlet of Guard",
+    "zh": "守卫者护手",
+    "vi": "Gauntlet of Guard"
+  },
+  "item.cataclysm.the_incinerator": {
+    "en": "The Incinerator",
+    "zh": "炎葬",
+    "vi": "The Incinerator"
+  },
+  "item.cataclysm.cursed_bow": {
+    "en": "Cursed Bow",
+    "zh": "咒魂弓",
+    "vi": "Cursed Bow"
+  },
+  "item.cataclysm.the_annihilator": {
+    "en": "The Annihilator",
+    "zh": "歼灭战锤",
+    "vi": "The Annihilator"
+  },
+  "item.cataclysm.soul_render": {
+    "en": "Soul Render",
+    "zh": "断魂战戟",
+    "vi": "Soul Render"
+  },
+  "item.cataclysm.void_scatter_arrow": {
+    "en": "Void Scatter Arrow",
+    "zh": "虚空散射箭",
+    "vi": "Void Scatter Arrow"
+  },
+  "item.cataclysm.void_shard": {
+    "en": "Void Shard",
+    "zh": "虚空碎片",
+    "vi": "Void Shard"
+  },
+  "item.cataclysm.koboleton_bone": {
+    "en": "Koboleton Bone",
+    "zh": "骸龙之骨",
+    "vi": "Koboleton Bone"
+  },
+  "item.cataclysm.monstrous_helm": {
+    "en": "Monstrous Helm",
+    "zh": "恶兽头盔",
+    "vi": "Monstrous Helm"
+  },
+  "item.cataclysm.monstrous_horn": {
+    "en": "Monstrous Horn",
+    "zh": "恶兽犄角",
+    "vi": "Monstrous Horn"
+  },
+  "item.cataclysm.void_jaw": {
+    "en": "Void Jaw",
+    "zh": "虚空之颚",
+    "vi": "Void Jaw"
+  },
+  "item.cataclysm.void_core": {
+    "en": "Void Core",
+    "zh": "虚空核心",
+    "vi": "Void Core"
+  },
+  "item.cataclysm.burning_ashes": {
+    "en": "Burning Ashes",
+    "zh": "炽燃余烬",
+    "vi": "Burning Ashes"
+  },
+  "item.cataclysm.dying_ember": {
+    "en": "Dying Ember",
+    "zh": "将熄余烬",
+    "vi": "Dying Ember"
+  },
+  "item.cataclysm.music_disc_netherite_monstrosity": {
+    "en": "Music Disc",
+    "zh": "音乐唱片",
+    "vi": "Music Disc"
+  },
+  "item.cataclysm.music_disc_ender_guardian": {
+    "en": "Music Disc",
+    "zh": "音乐唱片",
+    "vi": "Music Disc"
+  },
+  "item.cataclysm.music_disc_ignis": {
+    "en": "Music Disc",
+    "zh": "音乐唱片",
+    "vi": "Music Disc"
+  },
+  "item.cataclysm.music_disc_the_harbinger": {
+    "en": "Music Disc",
+    "zh": "音乐唱片",
+    "vi": "Music Disc"
+  },
+  "item.cataclysm.music_disc_the_leviathan": {
+    "en": "Music Disc",
+    "zh": "音乐唱片",
+    "vi": "Music Disc"
+  },
+  "item.cataclysm.music_disc_ancient_remnant": {
+    "en": "Music Disc",
+    "zh": "音乐唱片",
+    "vi": "Music Disc"
+  },
+  "item.cataclysm.music_disc_maledictus": {
+    "en": "Music Disc",
+    "zh": "音乐唱片",
+    "vi": "Music Disc"
+  },
+  "item.cataclysm.music_disc_netherite_monstrosity.desc": {
+    "en": "Yuri_O - Spawn Of Hell",
+    "zh": "LeoDragon1 - 锻于魂火",
+    "vi": "LeoDragon1 - Được rèn trong ngọn lửa linh hồn"
+  },
+  "item.cataclysm.music_disc_ender_guardian.desc": {
+    "en": "Yuri_O - Defender of the Outer Realm",
+    "zh": "LeoDragon1 - 终城之战",
+    "vi": "LeoDragon1 - Trận Chiến Cuối Cùng"
+  },
+  "item.cataclysm.music_disc_ignis.desc": {
+    "en": "Yuri_O - Light My Fire",
+    "zh": "LeoDragon1 - 燃尽罪业",
+    "vi": "LeoDragon1 - Đốt cháy tội lỗi"
+  },
+  "item.cataclysm.music_disc_the_harbinger.desc": {
+    "en": "Yuri_O - Self-Destruction Sequence",
+    "zh": "LeoDragon1 - 凋零序列",
+    "vi": "LeoDragon1 - Trình tự khô héo"
+  },
+  "item.cataclysm.music_disc_the_leviathan.desc": {
+    "en": "Yuri_O - Predator of the Abyss",
+    "zh": "Yuri_0 - 深渊捕食者",
+    "vi": "Yuri_0 - Kẻ săn mồi vực thẳm"
+  },
+  "item.cataclysm.music_disc_ancient_remnant.desc": {
+    "en": "Yuri_O - The Dryest Beast",
+    "zh": "Yuri_O - 饿煞野兽",
+    "vi": "Yuri_O - Quái vật đói khát"
+  },
+  "item.cataclysm.music_disc_maledictus.desc": {
+    "en": "Rotch Gwylt - Maledictus",
+    "zh": "Rotch Gwylt - 魂断寒宫",
+    "vi": "Rotch Gwylt - Linh hồn thất lạc"
+  },
+  "item.cataclysm.mech_eye": {
+    "en": "Eye of Mech",
+    "zh": "机械之眼",
+    "vi": "Eye of Mech"
+  },
+  "item.cataclysm.monstrous_eye": {
+    "en": "Eye of Monstrous",
+    "zh": "巨兽之眼",
+    "vi": "Eye of Monstrous"
+  },
+  "item.cataclysm.void_eye": {
+    "en": "Eye of Void",
+    "zh": "虚空之眼",
+    "vi": "Eye of Void"
+  },
+  "item.cataclysm.flame_eye": {
+    "en": "Eye of Flame",
+    "zh": "烈焰之眼",
+    "vi": "Eye of Flame"
+  },
+  "item.cataclysm.abyss_eye": {
+    "en": "Eye of Abyss",
+    "zh": "深渊之眼",
+    "vi": "Eye of Abyss"
+  },
+  "item.cataclysm.desert_eye": {
+    "en": "Eye of Desert",
+    "zh": "沙漠之眼",
+    "vi": "Eye of Desert"
+  },
+  "item.cataclysm.cursed_eye": {
+    "en": "Eye of Curse",
+    "zh": "诅咒之眼",
+    "vi": "Eye of Curse"
+  },
+  "item.cataclysm.wither_assault_shoulder_weapon": {
+    "en": "Wither Assault Shoulder Weapon",
+    "zh": "凋灵突击肩炮",
+    "vi": "Wither Assault Shoulder Weapon"
+  },
+  "item.cataclysm.void_assault_shoulder_weapon": {
+    "en": "Void Assault Shoulder Weapon",
+    "zh": "虚空迫击炮",
+    "vi": "Void Assault Shoulder Weapon"
+  },
+  "item.cataclysm.gauntlet_of_bulwark": {
+    "en": "Gauntlet of Bulwark",
+    "zh": "壁垒护手",
+    "vi": "Gauntlet of Bulwark"
+  },
+  "item.cataclysm.void_forge": {
+    "en": "Void Forge",
+    "zh": "虚空锻锤",
+    "vi": "Void Forge"
+  },
+  "item.cataclysm.coral_spear": {
+    "en": "Coral Spear",
+    "zh": "珊瑚长矛",
+    "vi": "Coral Spear"
+  },
+  "item.cataclysm.coral_bardiche": {
+    "en": "Coral Bardiche",
+    "zh": "珊瑚钺",
+    "vi": "Coral Bardiche"
+  },
+  "item.cataclysm.lionfish": {
+    "en": "Lionfish",
+    "zh": "蓑鲉 ",
+    "vi": "Lionfish"
+  },
+  "item.cataclysm.lionfish_spike": {
+    "en": "Lionfish's Spike",
+    "zh": "蓑鲉尖刺",
+    "vi": "Lionfish's Spike"
+  },
+  "item.cataclysm.amethyst_crab_meat": {
+    "en": "Amethyst Crab Meat",
+    "zh": "紫水晶蟹肉",
+    "vi": "Amethyst Crab Meat"
+  },
+  "item.cataclysm.blessed_amethyst_crab_meat": {
+    "en": "Blessed Amethyst Crab Meat",
+    "zh": "受祝福的紫水晶蟹肉",
+    "vi": "Blessed Amethyst Crab Meat"
+  },
+  "item.cataclysm.amethyst_crab_shell": {
+    "en": "Amethyst Crab Shell",
+    "zh": "紫水晶蟹壳",
+    "vi": "Amethyst Crab Shell"
+  },
+  "item.cataclysm.abyssal_egg": {
+    "en": "Abyssal Egg",
+    "zh": "深渊之卵",
+    "vi": "Abyssal Egg"
+  },
+  "item.cataclysm.athame": {
+    "en": "Athame",
+    "zh": "仪式匕首",
+    "vi": "Athame"
+  },
+  "item.cataclysm.khopesh": {
+    "en": "Khopesh",
+    "zh": "镰形剑",
+    "vi": "Khopesh"
+  },
+  "item.cataclysm.black_steel_sword": {
+    "en": "Black Steel Sword",
+    "zh": "黑钢剑",
+    "vi": "Black Steel Sword"
+  },
+  "item.cataclysm.black_steel_axe": {
+    "en": "Black Steel Axe",
+    "zh": "黑钢斧",
+    "vi": "Black Steel Axe"
+  },
+  "item.cataclysm.black_steel_shovel": {
+    "en": "Black Steel Shovel",
+    "zh": "黑钢锹",
+    "vi": "Black Steel Shovel"
+  },
+  "item.cataclysm.black_steel_pickaxe": {
+    "en": "Black Steel Pickaxe",
+    "zh": "黑钢镐",
+    "vi": "Black Steel Pickaxe"
+  },
+  "item.cataclysm.black_steel_hoe": {
+    "en": "Black Steel Hoe",
+    "zh": "黑钢锄",
+    "vi": "Black Steel Hoe"
+  },
+  "item.cataclysm.black_steel_targe": {
+    "en": "Black Steel Targe",
+    "zh": "黑钢圆盾",
+    "vi": "Black Steel Targe"
+  },
+  "item.cataclysm.tidal_claws": {
+    "en": "Tidal Claws",
+    "zh": "潮汐利爪",
+    "vi": "Tidal Claws"
+  },
+  "item.cataclysm.crystallized_coral_fragments": {
+    "en": "Crystallized Coral Fragments",
+    "zh": "晶化珊瑚碎片",
+    "vi": "Crystallized Coral Fragments"
+  },
+  "item.cataclysm.crystallized_coral": {
+    "en": "Crystallized Coral",
+    "zh": "晶化珊瑚",
+    "vi": "Crystallized Coral"
+  },
+  "item.cataclysm.abyssal_sacrifice": {
+    "en": "Abyssal Sacrifice",
+    "zh": "深渊祭品",
+    "vi": "Abyssal Sacrifice"
+  },
+  "item.cataclysm.coral_chunk": {
+    "en": "Coral Chunk",
+    "zh": "珊瑚碎块",
+    "vi": "Coral Chunk"
+  },
+  "item.cataclysm.the_baby_leviathan_bucket": {
+    "en": "Bucket of the Baby Leviathan",
+    "zh": "幼年利维坦桶",
+    "vi": "Bucket of the Baby Leviathan"
+  },
+  "item.cataclysm.modern_remnant_bucket": {
+    "en": "Bucket of Modern Remnant",
+    "zh": "现世遗魂桶",
+    "vi": "Bucket of Modern Remnant"
+  },
+  "item.cataclysm.bloom_stone_pauldrons": {
+    "en": "Bloom Stone Pauldrons",
+    "zh": "花岩肩甲",
+    "vi": "Bloom Stone Pauldrons"
+  },
+  "item.cataclysm.meat_shredder": {
+    "en": "Meat Shredder",
+    "zh": "绞肉锯",
+    "vi": "Meat Shredder"
+  },
+  "item.cataclysm.laser_gatling": {
+    "en": "Laser Gatling",
+    "zh": "激光加特林",
+    "vi": "Laser Gatling"
+  },
+  "item.cataclysm.necklace_of_the_desert": {
+    "en": "Necklace of the desert",
+    "zh": "沙漠项链",
+    "vi": "Necklace of the desert"
+  },
+  "item.cataclysm.sandstorm_in_a_bottle": {
+    "en": "Sandstorm in a Bottle",
+    "zh": "瓶中沙暴",
+    "vi": "Sandstorm in a Bottle"
+  },
+  "item.cataclysm.sandstorm_in_a_bottle.desc": {
+    "en": "Right click to summon 2 orbiting Sandstorms",
+    "zh": "右键召唤两个环绕的沙尘暴",
+    "vi": "Nhấp chuột phải để triệu hồi hai cơn bão cát xung quanh"
+  },
+  "item.cataclysm.sticky_gloves": {
+    "en": "Sticky Gloves",
+    "zh": "粘性手套",
+    "vi": "Sticky Gloves"
+  },
+  "item.cataclysm.sticky_gloves.desc": {
+    "en": "Block the looting of Koboleton",
+    "zh": "阻止骸龙抢东西",
+    "vi": "Ngăn chặn con rồng xương lấy đồ"
+  },
+  "item.cataclysm.remnant_skull": {
+    "en": "Remnant's Skull",
+    "zh": "遗魂头骨",
+    "vi": "Remnant's Skull"
+  },
+  "item.cataclysm.remnant_skull.desc": {
+    "en": "Summon Modern Remnant, can be tamed through Sniffer Egg",
+    "zh": "召唤现世遗魂，可以使用嗅探兽蛋驯服",
+    "vi": "Triệu hồi các linh hồn sống, có thể được thuần hóa bằng cách đánh hơi trứng."
+  },
+  "item.cataclysm.ancient_spear": {
+    "en": "Ancient Spear",
+    "zh": "远古之矛",
+    "vi": "Ancient Spear"
+  },
+  "item.cataclysm.ancient_spear.desc": {
+    "en": "Left click to shoot a Sandstorm",
+    "zh": "左键点击以发射小型沙尘暴",
+    "vi": "Nhấp chuột trái để khởi động một cơn bão cát nhỏ"
+  },
+  "item.cataclysm.endermaptera_spawn_egg": {
+    "en": "Endermaptera Spawn Egg",
+    "zh": "末影甲虫刷怪蛋",
+    "vi": "Endermaptera Spawn Egg"
+  },
+  "item.cataclysm.ender_golem_spawn_egg": {
+    "en": "Ender Golem Spawn Egg",
+    "zh": "末影傀儡刷怪蛋",
+    "vi": "Ender Golem Spawn Egg"
+  },
+  "item.cataclysm.ender_guardian_spawn_egg": {
+    "en": "Ender Guardian Spawn Egg",
+    "zh": "末影守卫刷怪蛋",
+    "vi": "Ender Guardian Spawn Egg"
+  },
+  "item.cataclysm.netherite_monstrosity_spawn_egg": {
+    "en": "Netherite Monstrosity Spawn Egg",
+    "zh": "下界合金巨兽刷怪蛋",
+    "vi": "Netherite Monstrosity Spawn Egg"
+  },
+  "item.cataclysm.nameless_sorcerer_spawn_egg": {
+    "en": "Nameless Sorcerer Spawn Egg",
+    "zh": "无名巫师刷怪蛋",
+    "vi": "Nameless Sorcerer Spawn Egg"
+  },
+  "item.cataclysm.ignis_spawn_egg": {
+    "en": "Ignis Spawn Egg",
+    "zh": "焰魔刷怪蛋",
+    "vi": "Ignis Spawn Egg"
+  },
+  "item.cataclysm.ignited_revenant_spawn_egg": {
+    "en": "Ignited Revenant Spawn Egg",
+    "zh": "炽燃遗魂刷怪蛋",
+    "vi": "Ignited Revenant Spawn Egg"
+  },
+  "item.cataclysm.ignited_berserker_spawn_egg": {
+    "en": "Ignited Berserker Spawn Egg",
+    "zh": "炽燃狂魂刷怪蛋",
+    "vi": "Ignited Berserker Spawn Egg"
+  },
+  "item.cataclysm.the_harbinger_spawn_egg": {
+    "en": "The Harbinger Spawn Egg",
+    "zh": "先驱者刷怪蛋",
+    "vi": "The Harbinger Spawn Egg"
+  },
+  "item.cataclysm.the_leviathan_spawn_egg": {
+    "en": "The Leviathan Spawn Egg",
+    "zh": "利维坦刷怪蛋",
+    "vi": "The Leviathan Spawn Egg"
+  },
+  "item.cataclysm.the_baby_leviathan_spawn_egg": {
+    "en": "The Baby Leviathan Spawn Egg",
+    "zh": "幼年利维坦刷怪蛋",
+    "vi": "The Baby Leviathan Spawn Egg"
+  },
+  "item.cataclysm.deepling_spawn_egg": {
+    "en": "Deepling Spawn Egg",
+    "zh": "渊灵刷怪蛋",
+    "vi": "Deepling Spawn Egg"
+  },
+  "item.cataclysm.deepling_brute_spawn_egg": {
+    "en": "Deepling Brute Spawn Egg",
+    "zh": "渊灵蛮兵刷怪蛋",
+    "vi": "Deepling Brute Spawn Egg"
+  },
+  "item.cataclysm.deepling_angler_spawn_egg": {
+    "en": "Deepling Angler Spawn Egg",
+    "zh": "渊灵垂钓者刷怪蛋",
+    "vi": "Deepling Angler Spawn Egg"
+  },
+  "item.cataclysm.deepling_priest_spawn_egg": {
+    "en": "Deepling Priest Spawn Egg",
+    "zh": "渊灵祭司刷怪蛋",
+    "vi": "Deepling Priest Spawn Egg"
+  },
+  "item.cataclysm.deepling_warlock_spawn_egg": {
+    "en": "Deepling Warlock Spawn Egg",
+    "zh": "渊灵术士刷怪蛋",
+    "vi": "Deepling Warlock Spawn Egg"
+  },
+  "item.cataclysm.lionfish_spawn_egg": {
+    "en": "Lionfish Spawn Egg",
+    "zh": "蓑鲉刷怪蛋",
+    "vi": "Lionfish Spawn Egg"
+  },
+  "item.cataclysm.coralssus_spawn_egg": {
+    "en": "Coralssus Spawn Egg",
+    "zh": "珊瑚巨像刷怪蛋",
+    "vi": "Coralssus Spawn Egg"
+  },
+  "item.cataclysm.coral_golem_spawn_egg": {
+    "en": "Coral Golem Spawn Egg",
+    "zh": "珊瑚傀儡刷怪蛋",
+    "vi": "Coral Golem Spawn Egg"
+  },
+  "item.cataclysm.amethyst_crab_spawn_egg": {
+    "en": "Amethyst Crab Spawn Egg",
+    "zh": "紫水晶巨蟹刷怪蛋",
+    "vi": "Amethyst Crab Spawn Egg"
+  },
+  "item.cataclysm.koboleton_spawn_egg": {
+    "en": "Koboleton Spawn Egg",
+    "zh": "骸龙刷怪蛋",
+    "vi": "Koboleton Spawn Egg"
+  },
+  "item.cataclysm.kobolediator_spawn_egg": {
+    "en": "Kobolediator Spawn Egg",
+    "zh": "骸龙斗士刷怪蛋",
+    "vi": "Kobolediator Spawn Egg"
+  },
+  "item.cataclysm.wadjet_spawn_egg": {
+    "en": "Wadjet Spawn Egg",
+    "zh": "瓦吉特刷怪蛋",
+    "vi": "Wadjet Spawn Egg"
+  },
+  "item.cataclysm.ancient_remnant_spawn_egg": {
+    "en": "Ancient Remnant Spawn Egg",
+    "zh": "远古遗魂刷怪蛋",
+    "vi": "Ancient Remnant Spawn Egg"
+  },
+  "item.cataclysm.modern_remnant_spawn_egg": {
+    "en": "Modern Remnant Spawn Egg",
+    "zh": "现世遗魂刷怪蛋",
+    "vi": "Modern Remnant Spawn Egg"
+  },
+  "item.cataclysm.the_watcher_spawn_egg": {
+    "en": "The Watcher Spawn Egg",
+    "zh": "观测者刷怪蛋",
+    "vi": "The Watcher Spawn Egg"
+  },
+  "item.cataclysm.the_prowler_spawn_egg": {
+    "en": "The Prowler Spawn Egg",
+    "zh": "徘徊者刷怪蛋",
+    "vi": "The Prowler Spawn Egg"
+  },
+  "item.cataclysm.maledictus_spawn_egg": {
+    "en": "Maledictus Spawn Egg",
+    "zh": "咒翼灵骸刷怪蛋",
+    "vi": "Maledictus Spawn Egg"
+  },
+  "item.cataclysm.draugr_spawn_egg": {
+    "en": "Draugr Spawn Egg",
+    "zh": "再行魂尸刷怪蛋",
+    "vi": "Draugr Spawn Egg"
+  },
+  "item.cataclysm.royal_draugr_spawn_egg": {
+    "en": "Royal Draugr Spawn Egg",
+    "zh": "皇家魂尸刷怪蛋",
+    "vi": "Royal Draugr Spawn Egg"
+  },
+  "item.cataclysm.aptrgangr_spawn_egg": {
+    "en": "Aptrgangr Spawn Egg",
+    "zh": "冥行武弁刷怪蛋",
+    "vi": "Aptrgangr Spawn Egg"
+  },
+  "item.cataclysm.elite_draugr_spawn_egg": {
+    "en": "Elite Draugr Spawn Egg",
+    "zh": "精英魂尸刷怪蛋",
+    "vi": "Elite Draugr Spawn Egg"
+  },
+  "itemGroup.cataclysm": {
+    "en": null,
+    "zh": "灾变",
+    "vi": "trận đại hồng thủy"
+  },
+  "block.cataclysm.witherite_block": {
+    "en": "Block of Witherite",
+    "zh": "凋灵合金块",
+    "vi": "Block of Witherite"
+  },
+  "block.cataclysm.enderite_block": {
+    "en": "Block of Enderite",
+    "zh": "末影合金块",
+    "vi": "Block of Enderite"
+  },
+  "block.cataclysm.ignitium_block": {
+    "en": "Block of Ignitium",
+    "zh": "腾炎块",
+    "vi": "Block of Ignitium"
+  },
+  "block.cataclysm.ancient_metal_block": {
+    "en": "Block of Ancient Metal",
+    "zh": "远古金属块",
+    "vi": "Block of Ancient Metal"
+  },
+  "block.cataclysm.cursium_block": {
+    "en": "Block of Cursium",
+    "zh": "咒魂块",
+    "vi": "Block of Cursium"
+  },
+  "block.cataclysm.dungeon_block": {
+    "en": "Dungeon Block",
+    "zh": "地牢砖块",
+    "vi": "Dungeon Block"
+  },
+  "block.cataclysm.void_stone": {
+    "en": "Void Stone",
+    "zh": "虚空石",
+    "vi": "Void Stone"
+  },
+  "block.cataclysm.end_stone_pillar": {
+    "en": "End Stone Pillar",
+    "zh": "末地石柱",
+    "vi": "End Stone Pillar"
+  },
+  "block.cataclysm.polished_sandstone": {
+    "en": "Polished Sandstone",
+    "zh": "磨制砂岩",
+    "vi": "Polished Sandstone"
+  },
+  "block.cataclysm.polished_end_stone": {
+    "en": "Polished End Stone",
+    "zh": "磨制末地石",
+    "vi": "Polished End Stone"
+  },
+  "block.cataclysm.polished_end_stone_slab": {
+    "en": "Polished End Stone Slab",
+    "zh": "磨制末地石台阶",
+    "vi": "Polished End Stone Slab"
+  },
+  "block.cataclysm.polished_end_stone_stairs": {
+    "en": "Polished End Stone Stairs",
+    "zh": "磨制末地石楼梯",
+    "vi": "Polished End Stone Stairs"
+  },
+  "block.cataclysm.void_infused_end_stone_bricks": {
+    "en": "Void Infused End Stone Bricks",
+    "zh": "虚空灌注末地石砖",
+    "vi": "Void Infused End Stone Bricks"
+  },
+  "block.cataclysm.chiseled_end_stone_bricks": {
+    "en": "Chiseled End Stone Bricks",
+    "zh": "雕纹末地石砖",
+    "vi": "Chiseled End Stone Bricks"
+  },
+  "block.cataclysm.chiseled_purpur_block": {
+    "en": "Chiseled Purpur Block",
+    "zh": "雕纹紫珀块",
+    "vi": "Chiseled Purpur Block"
+  },
+  "block.cataclysm.chiseled_obsidian_bricks": {
+    "en": "Chiseled Obsidian Bricks",
+    "zh": "雕纹黑曜石砖块",
+    "vi": "Chiseled Obsidian Bricks"
+  },
+  "block.cataclysm.obsidian_bricks": {
+    "en": "Obsidian Bricks",
+    "zh": "黑曜石砖块",
+    "vi": "Obsidian Bricks"
+  },
+  "block.cataclysm.obsidian_brick_slab": {
+    "en": "Obsidian Brick Slab",
+    "zh": "黑曜石砖台阶",
+    "vi": "Obsidian Brick Slab"
+  },
+  "block.cataclysm.obsidian_brick_stairs": {
+    "en": "Obsidian Brick Stairs",
+    "zh": "黑曜石砖楼梯",
+    "vi": "Obsidian Brick Stairs"
+  },
+  "block.cataclysm.obsidian_brick_wall": {
+    "en": "Obsidian Brick Wall",
+    "zh": "黑曜石砖墙",
+    "vi": "Obsidian Brick Wall"
+  },
+  "block.cataclysm.chorus_stem": {
+    "en": "Chorus Stem",
+    "zh": "紫颂茎",
+    "vi": "Chorus Stem"
+  },
+  "block.cataclysm.chorus_planks": {
+    "en": "Chorus Planks",
+    "zh": "紫颂木板",
+    "vi": "Chorus Planks"
+  },
+  "block.cataclysm.chorus_slab": {
+    "en": "Chorus Slab",
+    "zh": "紫颂台阶",
+    "vi": "Chorus Slab"
+  },
+  "block.cataclysm.chorus_stairs": {
+    "en": "Chorus Stairs",
+    "zh": "紫颂楼梯",
+    "vi": "Chorus Stairs"
+  },
+  "block.cataclysm.chorus_fence": {
+    "en": "Chorus Fence",
+    "zh": "紫颂栅栏",
+    "vi": "Chorus Fence"
+  },
+  "block.cataclysm.purpur_wall": {
+    "en": "Purpur Wall",
+    "zh": "紫珀墙",
+    "vi": "Purpur Wall"
+  },
+  "block.cataclysm.quartz_brick_wall": {
+    "en": "Quartz Brick Wall",
+    "zh": "石英砖墙",
+    "vi": "Quartz Brick Wall"
+  },
+  "block.cataclysm.stone_pillar": {
+    "en": "Stone Pillar",
+    "zh": "石柱",
+    "vi": "Stone Pillar"
+  },
+  "block.cataclysm.stone_tiles": {
+    "en": "Stone Tiles",
+    "zh": "石瓦",
+    "vi": "Stone Tiles"
+  },
+  "block.cataclysm.stone_tile_slab": {
+    "en": "Stone Tile Slab",
+    "zh": "石瓦台阶",
+    "vi": "Stone Tile Slab"
+  },
+  "block.cataclysm.stone_tile_stairs": {
+    "en": "Stone Tile Stairs",
+    "zh": "石瓦楼梯",
+    "vi": "Stone Tile Stairs"
+  },
+  "block.cataclysm.stone_tile_wall": {
+    "en": "Stone Tile Wall",
+    "zh": "石瓦墙",
+    "vi": "Stone Tile Wall"
+  },
+  "block.cataclysm.chiseled_stone_brick_pillar": {
+    "en": "Chiseled Stone Brick Pillar",
+    "zh": "雕纹石柱",
+    "vi": "Chiseled Stone Brick Pillar"
+  },
+  "block.cataclysm.purpur_void_rune_trap_block": {
+    "en": "Purpur Trap Block",
+    "zh": "紫珀陷阱方块",
+    "vi": "Purpur Trap Block"
+  },
+  "block.cataclysm.end_stone_teleport_trap_bricks": {
+    "en": "End Stone Trap Block",
+    "zh": "末地石陷阱方块",
+    "vi": "End Stone Trap Block"
+  },
+  "block.cataclysm.obsidian_explosion_trap_bricks": {
+    "en": "Obsidian Trap Block",
+    "zh": "黑曜石陷阱方块",
+    "vi": "Obsidian Trap Block"
+  },
+  "block.cataclysm.sandstone_falling_trap": {
+    "en": "Sandstone falling Trap",
+    "zh": "砂石陷阱",
+    "vi": "Sandstone falling Trap"
+  },
+  "block.cataclysm.sandstone_poison_dart_trap": {
+    "en": "Sandstone Poison Dart Trap",
+    "zh": "砂石毒镖陷阱",
+    "vi": "Sandstone Poison Dart Trap"
+  },
+  "block.cataclysm.sandstone_ignite_trap": {
+    "en": "Sandstone Ignite Trap",
+    "zh": "砂石引燃陷阱",
+    "vi": "Sandstone Ignite Trap"
+  },
+  "block.cataclysm.void_lantern_block": {
+    "en": "Void Lantern Block",
+    "zh": "虚空灯",
+    "vi": "Void Lantern Block"
+  },
+  "block.cataclysm.altar_of_fire": {
+    "en": "Altar of Fire",
+    "zh": "烈焰祭坛",
+    "vi": "Altar of Fire"
+  },
+  "block.cataclysm.altar_of_void": {
+    "en": "Altar of Void",
+    "zh": "虚空祭坛",
+    "vi": "Altar of Void"
+  },
+  "block.cataclysm.altar_of_amethyst": {
+    "en": "Altar of Amethyst",
+    "zh": "紫水晶祭坛",
+    "vi": "Altar of Amethyst"
+  },
+  "block.cataclysm.altar_of_abyss": {
+    "en": "Altar of Abyss",
+    "zh": "深渊祭坛",
+    "vi": "Altar of Abyss"
+  },
+  "block.cataclysm.emp": {
+    "en": "EMP",
+    "zh": "电磁脉冲装置",
+    "vi": "EMP"
+  },
+  "block.cataclysm.mechanical_fusion_anvil": {
+    "en": "Mechanical Fusion Anvil",
+    "zh": "机械融合砧",
+    "vi": "Mechanical Fusion Anvil"
+  },
+  "block.cataclysm.abyssal_egg": {
+    "en": "Abyssal Egg",
+    "zh": "深渊之卵",
+    "vi": "Abyssal Egg"
+  },
+  "block.cataclysm.blackstone_pillar": {
+    "en": "Blackstone Pillar",
+    "zh": "黑石柱",
+    "vi": "Blackstone Pillar"
+  },
+  "block.cataclysm.kobolediator_skull": {
+    "en": "Kobolediator Skull",
+    "zh": "骸龙斗士头颅",
+    "vi": "Kobolediator Skull"
+  },
+  "block.cataclysm.draugr_head": {
+    "en": "Draugr Head",
+    "zh": "魂尸的头",
+    "vi": "Draugr Head"
+  },
+  "block.cataclysm.aptrgangr_head": {
+    "en": "Aptrgangr Head",
+    "zh": "武弁的头",
+    "vi": "Aptrgangr Head"
+  },
+  "block.cataclysm.frosted_stone_bricks": {
+    "en": "Frosted Stone Bricks",
+    "zh": "霜冻石砖",
+    "vi": "Frosted Stone Bricks"
+  },
+  "block.cataclysm.frosted_stone_brick_slab": {
+    "en": "Frosted Stone Brick Slab",
+    "zh": "霜冻石台阶",
+    "vi": "Frosted Stone Brick Slab"
+  },
+  "block.cataclysm.frosted_stone_brick_stairs": {
+    "en": "Frosted Stone Brick Stairs",
+    "zh": "霜冻石楼梯",
+    "vi": "Frosted Stone Brick Stairs"
+  },
+  "block.cataclysm.frosted_stone_brick_wall": {
+    "en": "Frosted Stone Brick Wall",
+    "zh": "霜冻石砖墙",
+    "vi": "Frosted Stone Brick Wall"
+  },
+  "block.cataclysm.black_steel_block": {
+    "en": "Black Steel Block",
+    "zh": "黑钢块",
+    "vi": "Black Steel Block"
+  },
+  "block.cataclysm.black_steel_fence": {
+    "en": "Black Steel Fence",
+    "zh": "黑钢栅栏",
+    "vi": "Black Steel Fence"
+  },
+  "block.cataclysm.black_steel_wall": {
+    "en": "Black Steel Wall",
+    "zh": "黑钢墙",
+    "vi": "Black Steel Wall"
+  },
+  "block.cataclysm.pointed_icicle": {
+    "en": "Pointed Icicle",
+    "zh": "冰锥",
+    "vi": "Pointed Icicle"
+  },
+  "block.cataclysm.door_of_seal": {
+    "en": "Door of Seal",
+    "zh": "封印之门",
+    "vi": "Door of Seal"
+  },
+  "block.cataclysm.door_of_seal_part": {
+    "en": "Door of Seal Part",
+    "zh": "封印之门的一部分",
+    "vi": "Door of Seal Part"
+  },
+  "block.cataclysm.cursed_tombstone": {
+    "en": "Cursed Tombstone",
+    "zh": "被诅咒的墓碑",
+    "vi": "Cursed Tombstone"
+  },
+  "block.cataclysm.cursed_tombstone.message": {
+    "en": "Its power is still weak....",
+    "zh": "它的力量仍然很微弱...过段时间再来吧",
+    "vi": "Its power is still weak...."
+  },
+  "entity.cataclysm.ender_golem": {
+    "en": "Ender Golem",
+    "zh": "末影傀儡",
+    "vi": "Ender Golem"
+  },
+  "entity.cataclysm.ender_guardian": {
+    "en": "Ender Guardian",
+    "zh": "末影守卫",
+    "vi": "Ender Guardian"
+  },
+  "entity.cataclysm.ender_guardian_bullet": {
+    "en": "Ender Guardian Bullet",
+    "zh": "末影守卫炮弹",
+    "vi": "Ender Guardian Bullet"
+  },
+  "entity.cataclysm.lava_bomb": {
+    "en": "Lava Bomb",
+    "zh": "熔岩炸弹",
+    "vi": "Lava Bomb"
+  },
+  "entity.cataclysm.void_rune": {
+    "en": "Void Rune",
+    "zh": "虚空符文",
+    "vi": "Void Rune"
+  },
+  "entity.cataclysm.nameless_sorcerer": {
+    "en": "Nameless Sorcerer(W.I.P)",
+    "zh": "无名巫师（未实现）",
+    "vi": "Nameless Sorcerer(W.I.P)"
+  },
+  "entity.cataclysm.netherite_monstrosity": {
+    "en": "Netherite Monstrosity",
+    "zh": "下界合金巨兽",
+    "vi": "Netherite Monstrosity"
+  },
+  "entity.cataclysm.endermaptera": {
+    "en": "Endermaptera",
+    "zh": "末影甲虫",
+    "vi": "Endermaptera"
+  },
+  "entity.cataclysm.void_scatter_arrow": {
+    "en": "Void Scatter Arrow",
+    "zh": "虚空散射箭",
+    "vi": "Void Scatter Arrow"
+  },
+  "entity.cataclysm.void_shard": {
+    "en": "Void Shard",
+    "zh": "虚空碎片",
+    "vi": "Void Shard"
+  },
+  "entity.cataclysm.ignis": {
+    "en": "Ignis",
+    "zh": "焰魔",
+    "vi": "Ignis"
+  },
+  "entity.cataclysm.ignis.defeat_message": {
+    "en": "Within Nether Fortresses, Ignited Beserkers have awakend...",
+    "zh": "下界亡灵再度复苏...",
+    "vi": "Within Nether Fortresses, Ignited Beserkers have awakend..."
+  },
+  "entity.cataclysm.cm_falling_block": {
+    "en": "Cataclysm Falling Block",
+    "zh": "下落的方块",
+    "vi": "Cataclysm Falling Block"
+  },
+  "entity.cataclysm.ignis_abyss_fireball": {
+    "en": "Ignis' Abyss Fireball",
+    "zh": "焰魔深渊火球",
+    "vi": "Ignis' Abyss Fireball"
+  },
+  "entity.cataclysm.ignis_fireball": {
+    "en": "Ignis' Fireball",
+    "zh": "焰魔火球",
+    "vi": "Ignis' Fireball"
+  },
+  "entity.cataclysm.flame_strike": {
+    "en": "Flame Strike",
+    "zh": "烈焰轰击",
+    "vi": "Flame Strike"
+  },
+  "entity.cataclysm.wither_smoke_effect": {
+    "en": "Wither Smoke",
+    "zh": "凋灵烟雾",
+    "vi": "Wither Smoke"
+  },
+  "entity.cataclysm.ignited_revenant": {
+    "en": "Ignited Revenant",
+    "zh": "炽燃遗魂",
+    "vi": "Ignited Revenant"
+  },
+  "entity.cataclysm.ignited_berserker": {
+    "en": "Ignited Berserker",
+    "zh": "炽燃狂魂",
+    "vi": "Ignited Berserker"
+  },
+  "entity.cataclysm.ashen_breath": {
+    "en": "Ashen Breath",
+    "zh": "灰烬吐息",
+    "vi": "Ashen Breath"
+  },
+  "entity.cataclysm.the_harbinger": {
+    "en": "The Harbinger",
+    "zh": "先驱者",
+    "vi": "The Harbinger"
+  },
+  "entity.cataclysm.wither_missile": {
+    "en": "Wither Missile",
+    "zh": "凋灵飞弹",
+    "vi": "Wither Missile"
+  },
+  "entity.cataclysm.wither_homing_missile": {
+    "en": "Wither Homing Missile",
+    "zh": "凋灵导弹",
+    "vi": "Wither Homing Missile"
+  },
+  "entity.cataclysm.wither_howitzer": {
+    "en": "Wither Howitzer",
+    "zh": "凋灵榴弹",
+    "vi": "Wither Howitzer"
+  },
+  "entity.cataclysm.void_howitzer": {
+    "en": "Void Howitzer",
+    "zh": "虚空榴弹",
+    "vi": "Void Howitzer"
+  },
+  "entity.cataclysm.laser_beam": {
+    "en": "Laser Beam",
+    "zh": "激光束",
+    "vi": "Laser Beam"
+  },
+  "entity.cataclysm.death_laser_beam": {
+    "en": "Death Laser Beam",
+    "zh": "死亡激光束",
+    "vi": "Death Laser Beam"
+  },
+  "entity.cataclysm.void_vortex": {
+    "en": "Void Vortex",
+    "zh": "虚空漩涡",
+    "vi": "Void Vortex"
+  },
+  "entity.cataclysm.the_leviathan": {
+    "en": "The Leviathan",
+    "zh": "利维坦",
+    "vi": "The Leviathan"
+  },
+  "entity.cataclysm.the_leviathan.defeat_message": {
+    "en": "The Abyss gazes into you, Coral Golems will now appear in the ocean...",
+    "zh": "深渊凝视着你...",
+    "vi": "The Abyss gazes into you, Coral Golems will now appear in the ocean..."
+  },
+  "entity.cataclysm.the_baby_leviathan": {
+    "en": "The Baby Leviathan",
+    "zh": "幼年利维坦",
+    "vi": "The Baby Leviathan"
+  },
+  "entity.cataclysm.deepling": {
+    "en": "Deepling",
+    "zh": "渊灵",
+    "vi": "Deepling"
+  },
+  "entity.cataclysm.abyss_blast": {
+    "en": "Abyss Blast",
+    "zh": "深渊冲击波",
+    "vi": "Abyss Blast"
+  },
+  "entity.cataclysm.mini_abyss_blast": {
+    "en": "Mini Abyss Blast",
+    "zh": "迷你深渊冲击波",
+    "vi": "Mini Abyss Blast"
+  },
+  "entity.cataclysm.porta_abyss_blast": {
+    "en": "Abyss Blast",
+    "zh": "深渊轰炸",
+    "vi": "Abyss Blast"
+  },
+  "entity.cataclysm.abyss_blast_portal": {
+    "en": "Abyss Blast Portal",
+    "zh": "深渊轰炸传送门",
+    "vi": "Abyss Blast Portal"
+  },
+  "entity.cataclysm.abyss_mine": {
+    "en": "Abyss Mine",
+    "zh": "深渊水雷",
+    "vi": "Abyss Mine"
+  },
+  "entity.cataclysm.abyss_portal": {
+    "en": "Abyss Portal",
+    "zh": "深渊传送门",
+    "vi": "Abyss Portal"
+  },
+  "entity.cataclysm.coral_spear": {
+    "en": "Coral Spear",
+    "zh": "珊瑚矛",
+    "vi": "Coral Spear"
+  },
+  "entity.cataclysm.coral_bardiche": {
+    "en": "Coral Bardiche",
+    "zh": "珊瑚钺",
+    "vi": "Coral Bardiche"
+  },
+  "entity.cataclysm.deepling_brute": {
+    "en": "Deepling Brute",
+    "zh": "渊灵蛮兵",
+    "vi": "Deepling Brute"
+  },
+  "entity.cataclysm.deepling_angler": {
+    "en": "Deepling Angler",
+    "zh": "渊灵垂钓者",
+    "vi": "Deepling Angler"
+  },
+  "entity.cataclysm.deepling_priest": {
+    "en": "Deepling Priest",
+    "zh": "渊灵祭司",
+    "vi": "Deepling Priest"
+  },
+  "entity.cataclysm.deepling_warlock": {
+    "en": "Deepling Warlock",
+    "zh": "渊灵术士",
+    "vi": "Deepling Warlock"
+  },
+  "entity.cataclysm.coral_golem": {
+    "en": "Coral Golem",
+    "zh": "珊瑚傀儡",
+    "vi": "Coral Golem"
+  },
+  "entity.cataclysm.coralssus": {
+    "en": "Coralssus",
+    "zh": "珊瑚巨像",
+    "vi": "Coralssus"
+  },
+  "entity.cataclysm.lionfish": {
+    "en": "Lionfish",
+    "zh": "蓑鲉",
+    "vi": "Lionfish"
+  },
+  "entity.cataclysm.dimensional_rift": {
+    "en": "Dimensional Rift",
+    "zh": "维度裂隙",
+    "vi": "Dimensional Rift"
+  },
+  "entity.cataclysm.abyss_orb": {
+    "en": "Abyss Orb",
+    "zh": "深渊灵珠",
+    "vi": "Abyss Orb"
+  },
+  "entity.cataclysm.portal_abyss_blast": {
+    "en": "Portal's Abyss Blast",
+    "zh": "传送门深渊冲击波",
+    "vi": "Portal's Abyss Blast"
+  },
+  "entity.cataclysm.lionfish_spike": {
+    "en": "Lionfish's Spike",
+    "zh": "蓑鲉尖刺",
+    "vi": "Lionfish's Spike"
+  },
+  "entity.cataclysm.tidal_tentacle": {
+    "en": "Tidal Tentacle",
+    "zh": "潮汐触手",
+    "vi": "Tidal Tentacle"
+  },
+  "entity.cataclysm.sandstorm": {
+    "en": "Sandstorm",
+    "zh": "沙尘暴",
+    "vi": "Sandstorm"
+  },
+  "entity.cataclysm.sandstorm_projectile": {
+    "en": "Sandstorm Projectile",
+    "zh": "沙暴炮弹",
+    "vi": "Sandstorm Projectile"
+  },
+  "entity.cataclysm.tidal_hook": {
+    "en": "Tidal Hook",
+    "zh": "潮汐抓钩",
+    "vi": "Tidal Hook"
+  },
+  "entity.cataclysm.amethyst_crab": {
+    "en": "Amethyst Crab",
+    "zh": "紫水晶巨蟹",
+    "vi": "Amethyst Crab"
+  },
+  "entity.cataclysm.amethyst_cluster_projectile": {
+    "en": "Amethyst Cluster",
+    "zh": "紫水晶簇",
+    "vi": "Amethyst Cluster"
+  },
+  "entity.cataclysm.earthquake": {
+    "en": "Earthquake",
+    "zh": "地震",
+    "vi": "Earthquake"
+  },
+  "entity.cataclysm.ancient_remnant": {
+    "en": "Ancient Remnant",
+    "zh": "远古遗魂",
+    "vi": "Ancient Remnant"
+  },
+  "entity.cataclysm.ancient_ancient_remnant": {
+    "en": "Ancient Ancient Remnant",
+    "zh": "上古遗魂",
+    "vi": "Ancient Ancient Remnant"
+  },
+  "entity.cataclysm.modern_remnant": {
+    "en": "Modern Remnant",
+    "zh": "现世遗魂",
+    "vi": "Modern Remnant"
+  },
+  "entity.cataclysm.the_watcher": {
+    "en": "The Watcher",
+    "zh": "观测者",
+    "vi": "The Watcher"
+  },
+  "entity.cataclysm.the_prowler": {
+    "en": "The Prowler",
+    "zh": "徘徊者",
+    "vi": "The Prowler"
+  },
+  "entity.cataclysm.ancient_desert_stele": {
+    "en": "Ancient Desert Stele",
+    "zh": "远古沙碑",
+    "vi": "Ancient Desert Stele"
+  },
+  "entity.cataclysm.koboleton": {
+    "en": "Koboleton",
+    "zh": "骸龙",
+    "vi": "Koboleton"
+  },
+  "entity.cataclysm.kobolediator": {
+    "en": "Kobolediator",
+    "zh": "骸龙斗士",
+    "vi": "Kobolediator"
+  },
+  "entity.cataclysm.wadjet": {
+    "en": "Wadjet",
+    "zh": "瓦吉特",
+    "vi": "Wadjet"
+  },
+  "entity.cataclysm.maledictus": {
+    "en": "Maledictus",
+    "zh": "咒翼灵骸",
+    "vi": "Maledictus"
+  },
+  "entity.cataclysm.draugr": {
+    "en": "Draugr",
+    "zh": "再行魂尸",
+    "vi": "Draugr"
+  },
+  "entity.cataclysm.aptrgangr": {
+    "en": "Aptrgangr",
+    "zh": "冥行武弁",
+    "vi": "Aptrgangr"
+  },
+  "entity.cataclysm.axe_blade": {
+    "en": "Axe Blade",
+    "zh": "斧刃",
+    "vi": "Axe Blade"
+  },
+  "entity.cataclysm.royal_draugr": {
+    "en": "Royal Draugr",
+    "zh": "皇家魂尸",
+    "vi": "Royal Draugr"
+  },
+  "entity.cataclysm.elite_draugr": {
+    "en": "Elite Draugr",
+    "zh": "精英魂尸",
+    "vi": "Elite Draugr"
+  },
+  "entity.cataclysm.phantom_arrow": {
+    "en": "Phantom Arrow",
+    "zh": "幽灵之箭",
+    "vi": "Phantom Arrow"
+  },
+  "entity.cataclysm.phantom_halberd": {
+    "en": "Phantom Halberd",
+    "zh": "断魂战戟",
+    "vi": "Phantom Halberd"
+  },
+  "entity.cataclysm.all.command_0": {
+    "en": "%s is wandering",
+    "zh": "%s在游荡",
+    "vi": "%s is wandering"
+  },
+  "entity.cataclysm.all.command_1": {
+    "en": "%s is following",
+    "zh": "%s在跟随",
+    "vi": "%s is following"
+  },
+  "entity.cataclysm.all.command_2": {
+    "en": "%s is staying",
+    "zh": "%s在停留",
+    "vi": "%s is staying"
+  },
+  "effect.cataclysm.monstrous": {
+    "en": "Monstrous",
+    "zh": "骇人之恶",
+    "vi": "cái ác kinh khủng"
+  },
+  "effect.cataclysm.blazing_brand": {
+    "en": "Blazing Brand",
+    "zh": "炽热视线",
+    "vi": "cảnh tượng rực rỡ"
+  },
+  "effect.cataclysm.stun": {
+    "en": "Stun",
+    "zh": "眩晕",
+    "vi": "chóng mặt"
+  },
+  "effect.cataclysm.abyssal_burn": {
+    "en": "Abyssal Burn",
+    "zh": "深渊灼烧",
+    "vi": "Vực thẳm cháy bỏng"
+  },
+  "effect.cataclysm.bone_fracture": {
+    "en": "Bone Fracture",
+    "zh": "骨裂",
+    "vi": "gãy xương"
+  },
+  "effect.cataclysm.abyssal_fear": {
+    "en": "Abyssal Fear",
+    "zh": "深渊恐惧",
+    "vi": "nỗi sợ hãi vực thẳm"
+  },
+  "effect.cataclysm.abyssal_curse": {
+    "en": "Abyssal Curse",
+    "zh": "深渊诅咒",
+    "vi": "Lời nguyền của vực thẳm"
+  },
+  "effect.cataclysm.blessing_of_amethyst": {
+    "en": "Blessing of Amethyst",
+    "zh": "紫水晶祝福",
+    "vi": "phước lành thạch anh tím"
+  },
+  "effect.cataclysm.curse_of_desert": {
+    "en": "Curse of Desert",
+    "zh": "沙漠诅咒",
+    "vi": "lời nguyền sa mạc"
+  },
+  "effect.cataclysm.ghost_form": {
+    "en": "Ghost Form",
+    "zh": "鬼魂形态",
+    "vi": "hình dạng ma quái"
+  },
+  "effect.cataclysm.ghost_sickness": {
+    "en": "Ghost Sickness",
+    "zh": "鬼魅缠身",
+    "vi": "bị ám ảnh"
+  },
+  "golemhurt.sub": {
+    "en": "Ender Golem hurts",
+    "zh": "末影傀儡：受伤",
+    "vi": "Ender Golem: Bị thương"
+  },
+  "golemdeath.sub": {
+    "en": "Ender Golem dies",
+    "zh": "末影傀儡：死亡",
+    "vi": "Ender Golem: Cái chết"
+  },
+  "golemattack.sub": {
+    "en": "Ender Golem attacks",
+    "zh": "末影傀儡：攻击",
+    "vi": "Ender Golem: Tấn công"
+  },
+  "enderguardianhurt.sub": {
+    "en": "Ender Guardian hurts",
+    "zh": "末影守卫：受伤",
+    "vi": "Ender Guard: Bị thương"
+  },
+  "enderguardiandeath.sub": {
+    "en": "Ender Guardian defeated",
+    "zh": "末影守卫：被击败",
+    "vi": "Ender Guard: Bị đánh bại"
+  },
+  "enderguardianattack.sub": {
+    "en": "Ender Guardian attacks",
+    "zh": "末影守卫：攻击",
+    "vi": "Ender Guard: Tấn công"
+  },
+  "monstrositydeath.sub": {
+    "en": "Netherite Monstrosity dies",
+    "zh": "下界合金巨兽：死亡",
+    "vi": "Người khổng lồ Netherite: Cái chết"
+  },
+  "monstrositygrowl.sub": {
+    "en": "Netherite Monstrosity roars",
+    "zh": "下界合金巨兽：嚎叫",
+    "vi": "Quái vật Netherite: Tiếng hú"
+  },
+  "monstrosityawaken.sub": {
+    "en": "Netherite Monstrosity wakes up",
+    "zh": "下界合金巨兽：苏醒",
+    "vi": "Netherite Behemoth: Thức tỉnh"
+  },
+  "monstrositystep.sub": {
+    "en": "Netherite Monstrosity steps",
+    "zh": "下界合金巨兽：行进",
+    "vi": "Người khổng lồ Netherite: Tháng ba"
+  },
+  "monstrosityshoot.sub": {
+    "en": "Netherite Monstrosity launches",
+    "zh": "下界合金巨兽：发射熔岩炸弹",
+    "vi": "Netherite Behemoth: Bắn bom dung nham"
+  },
+  "monstrosityhurt.sub": {
+    "en": "Netherite Monstrosity hurts",
+    "zh": "下界合金巨兽：受伤",
+    "vi": "Netherite Behemoth: Bị thương"
+  },
+  "monstrosityland.sub": {
+    "en": "Netherite Monstrosity faints",
+    "zh": "BOSS：被击败",
+    "vi": "BOSS: Bị đánh bại"
+  },
+  "monstrosity_music.sub": {
+    "en": "Netherite Monstrosity's theme plays",
+    "zh": "下界合金巨兽主题音乐",
+    "vi": "Nhạc chủ đề khổng lồ của Netherite"
+  },
+  "enderguardian_music.sub": {
+    "en": "Ender Guardian's theme plays",
+    "zh": "末影守卫主题音乐",
+    "vi": "Nhạc chủ đề Ender Guard"
+  },
+  "hammertime.sub": {
+    "en": "Infernal Forge smashes",
+    "zh": "炼狱锻锤：重击",
+    "vi": "Búa vô sinh: Đòn tấn công hạng nặng"
+  },
+  "endermaptera_ambient.sub": {
+    "en": "Endermaptera screeches",
+    "zh": "末影甲虫：嘶嘶",
+    "vi": "Bọ cánh cứng Ender: Hiss"
+  },
+  "endermaptera_hurt.sub": {
+    "en": "Endermaptera hurts",
+    "zh": "末影甲虫：受伤",
+    "vi": "Bọ cánh cứng Ender: Bị thương"
+  },
+  "endermaptera_step.sub": {
+    "en": "Endermaptera steps",
+    "zh": "末影甲虫：行进",
+    "vi": "Bọ cánh cứng Ender: Tháng ba"
+  },
+  "endermaptera_death.sub": {
+    "en": "Endermaptera dies",
+    "zh": "末影甲虫：死亡",
+    "vi": "Bọ cánh cứng Ender: Cái chết"
+  },
+  "voidrunerising.sub": {
+    "en": "Void Rune rises",
+    "zh": "虚空符文：升起",
+    "vi": "Rune của hư không: Trỗi dậy"
+  },
+  "revenant_idle.sub": {
+    "en": "Revenant groans",
+    "zh": "燃魂：呻吟",
+    "vi": "Linh hồn cháy bỏng: rên rỉ"
+  },
+  "revenant_hurt.sub": {
+    "en": "Revenant hurts",
+    "zh": "燃魂：受伤",
+    "vi": "Linh hồn cháy bỏng: Bị thương"
+  },
+  "revenant_breath.sub": {
+    "en": "Revenant breathes ashes",
+    "zh": "燃魂：喷出灰烬",
+    "vi": "Burning Soul: Phun ra tro"
+  },
+  "revenant_death.sub": {
+    "en": "Revenant dies",
+    "zh": "燃魂：死亡",
+    "vi": "Linh hồn cháy bỏng: Cái chết"
+  },
+  "ignis_ambient.sub": {
+    "en": "Ignis incinerates",
+    "zh": "焰魔：燃烧",
+    "vi": "Ngọn lửa quỷ: Đốt cháy"
+  },
+  "ignis_hurt.sub": {
+    "en": "Ignis hurts",
+    "zh": "焰魔：受伤",
+    "vi": "Quỷ lửa: Bị thương"
+  },
+  "swingattack.sub": {
+    "en": "Weapon swings",
+    "zh": "武器：横扫",
+    "vi": "Vũ khí: Quét"
+  },
+  "strongswingattack.sub": {
+    "en": "Weapon swings",
+    "zh": "武器：横扫",
+    "vi": "Vũ khí: Quét"
+  },
+  "sword_stomp.sub": {
+    "en": "Ignis stomps",
+    "zh": "焰魔：袭击",
+    "vi": "Ngọn lửa quỷ: Tấn công"
+  },
+  "ignis_poke.sub": {
+    "en": "Weapon stabs",
+    "zh": "武器：突刺",
+    "vi": "Vũ khí: Lực đẩy"
+  },
+  "ignis_armor_break": {
+    "en": "Ignis' armor breaks",
+    "zh": "焰魔：盔甲破损",
+    "vi": "Ngọn lửa quỷ: Giáp bị hư hỏng"
+  },
+  "flame_burst.sub": {
+    "en": "Flame Burst",
+    "zh": "火焰爆炸",
+    "vi": "vụ nổ ngọn lửa"
+  },
+  "ignis_death.sub": {
+    "en": "Ignis dies",
+    "zh": "焰魔：死亡",
+    "vi": "Ngọn lửa quỷ: Cái chết"
+  },
+  "ignis_music.sub": {
+    "en": "Ignis' theme plays",
+    "zh": "焰魔主题音乐",
+    "vi": "Nhạc chủ đề Ngọn lửa quỷ"
+  },
+  "harbinger_music.sub": {
+    "en": "Harbinger's theme plays",
+    "zh": "先驱者主题音乐",
+    "vi": "Nhạc chủ đề tiên phong"
+  },
+  "harbinger_laser.sub": {
+    "en": "Harbinger shoots",
+    "zh": "先驱者：发射激光",
+    "vi": "Tiên phong: bắn tia laser"
+  },
+  "harbinger_mode_change.sub": {
+    "en": "Harbinger changes mode",
+    "zh": "先驱者：改变模式",
+    "vi": "Người tiên phong: thay đổi mô hình"
+  },
+  "harbinger_prepare.sub": {
+    "en": "Harbinger prepares missile launch",
+    "zh": "先驱者：准备攻击",
+    "vi": "Harbinger: Chuẩn bị tấn công"
+  },
+  "harbinger_charge.sub": {
+    "en": "Harbinger charges",
+    "zh": "先驱者：冲撞",
+    "vi": "Tiên phong: Sụp đổ"
+  },
+  "harbinger_charge_prepare.sub": {
+    "en": "Harbinger prepares to charge",
+    "zh": "先驱者：准备冲撞",
+    "vi": "Tiên phong: Chuẩn bị sụp đổ"
+  },
+  "emp_activated.sub": {
+    "en": "Electricity",
+    "zh": "电磁脉冲：已激活",
+    "vi": "Xung điện từ: Đã kích hoạt"
+  },
+  "harbinger_deathlaser_prepare.sub": {
+    "en": "Harbinger prepares death laser",
+    "zh": "先驱者：准备死亡激光束",
+    "vi": "Harbinger: Chuẩn bị cho tia Laser tử thần"
+  },
+  "death_laser.sub": {
+    "en": "Death Laser blasts",
+    "zh": "死亡激光束：发射",
+    "vi": "Tia Laser tử thần: Đã bắn"
+  },
+  "harbinger_stun.sub": {
+    "en": "Harbinger stunned",
+    "zh": "先驱者：被眩晕",
+    "vi": "Tiên phong: Choáng váng"
+  },
+  "harbinger_idle.sub": {
+    "en": "Harbinger angers",
+    "zh": "先驱者：发怒",
+    "vi": "Điềm báo: tức giận"
+  },
+  "harbinger_hurt.sub": {
+    "en": "Harbinger hurts",
+    "zh": "先驱者：受伤",
+    "vi": "Tiên phong: Bị thương"
+  },
+  "deepling_idle.sub": {
+    "en": "Deepling vwoops",
+    "zh": "渊灵：低鸣",
+    "vi": "Nguyên Linh: Thì thầm"
+  },
+  "deepling_hurt.sub": {
+    "en": "Deepling hurts",
+    "zh": "渊灵：受伤",
+    "vi": "Nguyên Linh: bị thương"
+  },
+  "deepling_swing.sub": {
+    "en": "Deepling attacks",
+    "zh": "渊灵：挥舞武器",
+    "vi": "Yuanling: Sử dụng vũ khí"
+  },
+  "deepling_light.sub": {
+    "en": "Deepling Priest shines",
+    "zh": "渊灵祭司：闪耀",
+    "vi": "Linh mục của vực thẳm: Tỏa sáng"
+  },
+  "deepling_death.sub": {
+    "en": "Deepling dies",
+    "zh": "渊灵：死亡",
+    "vi": "Nguyên Linh: Cái chết"
+  },
+  "coralssus_ambient.sub": {
+    "en": "Coralssus grunts",
+    "zh": "珊瑚巨像：咕哝",
+    "vi": "Coral Colossus: càu nhàu"
+  },
+  "coralssus_roar.sub": {
+    "en": "Coralssus roars",
+    "zh": "珊瑚巨像：咆哮",
+    "vi": "Coral Colossus: Gầm gừ"
+  },
+  "coralssus_hurt.sub": {
+    "en": "Coralssus hurts",
+    "zh": "珊瑚巨像：受伤",
+    "vi": "Coral Colossus: Bị thương"
+  },
+  "coralssus_death.sub": {
+    "en": "Coralssus dies",
+    "zh": "珊瑚巨像：死亡",
+    "vi": "Coral Colossus: Cái chết"
+  },
+  "coral_golem_hurt.sub": {
+    "en": "Coral Golem hurts",
+    "zh": "珊瑚傀儡：受伤",
+    "vi": "Coral Golem: Bị thương"
+  },
+  "coral_golem_death.sub": {
+    "en": "Coral Golem dies",
+    "zh": "珊瑚傀儡：死亡",
+    "vi": "San hô Golem: Cái chết"
+  },
+  "leviathan_music.sub": {
+    "en": "Leviathan's original theme plays",
+    "zh": "利维坦主题音乐",
+    "vi": "nhạc chủ đề leviathan"
+  },
+  "leviathan_idle.sub": {
+    "en": "Leviathan growls",
+    "zh": "利维坦：低吼",
+    "vi": "Leviathan: gầm gừ"
+  },
+  "leviathan_hurt.sub": {
+    "en": "Leviathan hurts",
+    "zh": "利维坦：受伤",
+    "vi": "Leviathan: Bị thương"
+  },
+  "black_hole_opening.sub": {
+    "en": "Dimension Rift appears",
+    "zh": "维度：缓慢破碎",
+    "vi": "Kích thước: Tan vỡ từ từ"
+  },
+  "black_hole_loop.sub": {
+    "en": "Dimensional Rift whooshes",
+    "zh": "维度裂隙：呼呼",
+    "vi": "Khe nứt không gian: Huhu"
+  },
+  "black_hole_closing.sub": {
+    "en": "Dimensional Rift disappears",
+    "zh": "维度裂隙：消失",
+    "vi": "Rạn nứt chiều: Biến mất"
+  },
+  "abyss_blast.sub": {
+    "en": "Leviathan prepares abyss blast",
+    "zh": "利维坦：深渊充能",
+    "vi": "Leviathan: Bị vực thẳm tấn công"
+  },
+  "abyss_blast_shoot.sub": {
+    "en": "Leviathan blasts",
+    "zh": "深渊冲击波：发射",
+    "vi": "Sóng xung kích vực thẳm: Khởi động"
+  },
+  "leviathan_roar.sub": {
+    "en": "Leviathan roars",
+    "zh": "利维坦：咆哮",
+    "vi": "Leviathan: Gầm gừ"
+  },
+  "portal_abyss_blast.sub": {
+    "en": "Abyss Blast rises",
+    "zh": "深渊冲击波：自传送门迸出",
+    "vi": "Sóng xung kích Abyss: Bùng nổ từ cánh cổng"
+  },
+  "leviathan_tentacle_strike.sub": {
+    "en": "Leviathan whips",
+    "zh": "利维坦：触手攻击",
+    "vi": "Leviathan: Tấn công xúc tu"
+  },
+  "leviathan_defeat.sub": {
+    "en": "Leviathan dies",
+    "zh": "利维坦：死亡",
+    "vi": "Leviathan: Cái chết"
+  },
+  "leviathan_bite.sub": {
+    "en": "Leviathan bites",
+    "zh": "利维坦：撕咬",
+    "vi": "Leviathan: Cắn"
+  },
+  "tidal_tentacle.sub": {
+    "en": "Tentacle fired",
+    "zh": "触手：发射",
+    "vi": "Xúc tu: phóng"
+  },
+  "tidal_hook_hit.sub": {
+    "en": "Tidal Hook hits",
+    "zh": "潮汐抓钩：攻击",
+    "vi": "Móc vật lộn thủy triều: Tấn công"
+  },
+  "tidal_hook_loop.sub": {
+    "en": "Tidal Hook clanks",
+    "zh": "潮汐抓钩：作响",
+    "vi": "Móc vật lộn thủy triều: Crackling"
+  },
+  "crab_hurt.sub": {
+    "en": "Amethyst Crab hurts",
+    "zh": "紫水晶巨蟹：受伤",
+    "vi": "Ung thư thạch anh tím: Bị thương"
+  },
+  "crab_bite.sub": {
+    "en": "Claw attacks",
+    "zh": "紫水晶巨蟹：螯击",
+    "vi": "Ung thư thạch anh tím: Gọng kìm"
+  },
+  "crab_death.sub": {
+    "en": "Amethyst Crab dies",
+    "zh": "紫水晶巨蟹：死亡",
+    "vi": "Ung thư thạch anh tím: Cái chết"
+  },
+  "koboleton_ambient.sub": {
+    "en": "Koboleton rattles",
+    "zh": "骸龙：咔哒",
+    "vi": "Xương rồng: bấm vào"
+  },
+  "koboleton_hurt.sub": {
+    "en": "Koboleton hurts",
+    "zh": "骸龙：受伤",
+    "vi": "Xương Rồng: Bị thương"
+  },
+  "koboleton_death.sub": {
+    "en": "Koboleton dies",
+    "zh": "骸龙：死亡",
+    "vi": "Xương rồng: Cái chết"
+  },
+  "koboleton_step.sub": {
+    "en": "Footsteps",
+    "zh": "脚步声",
+    "vi": "bước chân"
+  },
+  "kobolediator_ambient.sub": {
+    "en": "Kobolediator groans",
+    "zh": "骸龙斗士：低吼",
+    "vi": "Chiến binh rồng xương: Gầm gừ"
+  },
+  "kobolediator_hurt.sub": {
+    "en": "Kobolediator hurts",
+    "zh": "骸龙斗士：受伤",
+    "vi": "Skeleton Dragon Fighter: Bị thương"
+  },
+  "kobolediator_death.sub": {
+    "en": "Kobolediator dies",
+    "zh": "骸龙斗士：死亡",
+    "vi": "Chiến binh rồng: Cái chết"
+  },
+  "wadjet_ambient.sub": {
+    "en": "Wadjet hisses",
+    "zh": "瓦吉特：嘶嘶",
+    "vi": "Wadjet: Rít"
+  },
+  "wadjet_hurt.sub": {
+    "en": "Wadjet hurts",
+    "zh": "瓦吉特：受伤",
+    "vi": "Wadjit: Bị thương"
+  },
+  "wadjet_death.sub": {
+    "en": "Wadjet dies",
+    "zh": "瓦吉特：死亡",
+    "vi": "Wadjet: Cái chết"
+  },
+  "rocket_launch.sub": {
+    "en": "Wither Missle launches",
+    "zh": "凋灵飞弹：发射",
+    "vi": "Tên lửa Wither: Lửa"
+  },
+  "shredder_start.sub": {
+    "en": "Meat Shredder activates",
+    "zh": "绞肉锯：启动",
+    "vi": "Máy xay thịt: Bắt đầu"
+  },
+  "shredder_loop.sub": {
+    "en": "Meat Shredder roars",
+    "zh": "绞肉锯：呼啸",
+    "vi": "Cưa Thịt: Hú"
+  },
+  "shredder_end.sub": {
+    "en": "Meat Shredder stops",
+    "zh": "绞肉锯：停止",
+    "vi": "Máy xay thịt: Dừng lại"
+  },
+  "watcher_hurt.sub": {
+    "en": "Watcher hurts",
+    "zh": "观测者：受伤",
+    "vi": "Người quan sát: bị thương"
+  },
+  "watcher_death.sub": {
+    "en": "Watcher dies",
+    "zh": "观测者：死亡",
+    "vi": "Người quan sát: Cái chết"
+  },
+  "prowler_idle.sub": {
+    "en": "Prowler working as intended",
+    "zh": "徘徊者：哐啷",
+    "vi": "Người đi dạo: Banglang"
+  },
+  "prowler_hurt.sub": {
+    "en": "Prowler hurts",
+    "zh": "徘徊者：受伤",
+    "vi": "Người đi dạo: Bị thương"
+  },
+  "prowler_death.sub": {
+    "en": "Prowler not working as intended",
+    "zh": "徘徊者：死亡",
+    "vi": "Kẻ rình mò: Cái chết"
+  },
+  "prowler_saw_attack.sub": {
+    "en": "Prowler shreds",
+    "zh": "徘徊者：切割",
+    "vi": "Người đi dạo: Cắt"
+  },
+  "prowler_saw_spin_attack.sub": {
+    "en": "Prowler swipes",
+    "zh": "徘徊者：横扫",
+    "vi": "Prowler: Vuốt ngang"
+  },
+  "sandstorm.sub": {
+    "en": "Sandstorm howls",
+    "zh": "沙尘暴：呼嚎",
+    "vi": "Bão cát: Hú"
+  },
+  "remnant_music.sub": {
+    "en": "Ancient Remnant's theme plays",
+    "zh": "远古遗魂主题音乐",
+    "vi": "Nhạc chủ đề di tích cổ"
+  },
+  "remnant_bite.sub": {
+    "en": "Ancient Remnant bites",
+    "zh": "远古遗魂：撕咬",
+    "vi": "Di tích cổ: Cắn"
+  },
+  "remnant_breathing.sub": {
+    "en": "Ancient Remnant breathes",
+    "zh": "远古遗魂：呼吸",
+    "vi": "Di tích cổ: Hơi thở"
+  },
+  "remnant_charge_prepare.sub": {
+    "en": "Ancient Remnant stomps",
+    "zh": "远古遗魂：蹬踏",
+    "vi": "Di tích cổ: Tread"
+  },
+  "remnant_charge_roar.sub": {
+    "en": "Ancient Remnant roars",
+    "zh": "远古遗魂：咆哮",
+    "vi": "Những linh hồn cổ xưa: Gầm gừ"
+  },
+  "remnant_charge_step.sub": {
+    "en": "Heavy Footsteps",
+    "zh": "沉重的脚步声",
+    "vi": "bước chân nặng nề"
+  },
+  "remnant_hurt.sub": {
+    "en": "Ancient Remnant hurts",
+    "zh": "远古遗魂：受伤",
+    "vi": "Di tích cổ: Bị thương"
+  },
+  "remnant_idle.sub": {
+    "en": "Ancient Remnant groans",
+    "zh": "远古遗魂：低吼",
+    "vi": "Di tích cổ: Gầm gừ"
+  },
+  "remnant_roar.sub": {
+    "en": "Ancient Remnant roars",
+    "zh": "远古遗魂：咆哮",
+    "vi": "Những linh hồn cổ xưa: Gầm gừ"
+  },
+  "remnant_stomp.sub": {
+    "en": "Ground Crushes",
+    "zh": "地面：崩碎",
+    "vi": "Mặt đất: tan vỡ"
+  },
+  "remnant_shockwave.sub": {
+    "en": "Earth rumbles",
+    "zh": "大地：轰鸣",
+    "vi": "Trái đất: gầm lên"
+  },
+  "remnant_tail_slam.sub": {
+    "en": "Ancient Remnant performs tail strikes",
+    "zh": "远古遗魂：甩尾",
+    "vi": "Di tích cổ: Trôi dạt"
+  },
+  "remnant_tail_swing.sub": {
+    "en": "Ancient Remnant whipes",
+    "zh": "远古遗魂：啸叫",
+    "vi": "Di tích cổ: Tiếng hú"
+  },
+  "remnant_death.sub": {
+    "en": "Ancient Remnant dies",
+    "zh": "远古遗魂：死亡",
+    "vi": "Di tích cổ: Cái chết"
+  },
+  "flame_trap.sub": {
+    "en": "Fire sprays",
+    "zh": "火星：飞溅",
+    "vi": "Sao Hỏa: Bắn tung tóe"
+  },
+  "advancements.cataclysm.root.title": {
+    "en": "Cataclysm",
+    "zh": "灾变",
+    "vi": "trận đại hồng thủy"
+  },
+  "advancements.cataclysm.root.description": {
+    "en": "Cataclysm!",
+    "zh": "灾变！",
+    "vi": "Thảm họa!"
+  },
+  "advancements.cataclysm.find_ruined_citadel.title": {
+    "en": "Another Stronghold?!",
+    "zh": "一座废弃堡垒",
+    "vi": "một pháo đài bị bỏ hoang"
+  },
+  "advancements.cataclysm.find_ruined_citadel.description": {
+    "en": "Find the Ruined Citadel",
+    "zh": "找到废弃堡垒",
+    "vi": "Tìm pháo đài bị bỏ hoang"
+  },
+  "advancements.cataclysm.find_soul_black_smith.title": {
+    "en": "Where the Monstrous be Forged",
+    "zh": "灵魂锻造厂",
+    "vi": "lò rèn linh hồn"
+  },
+  "advancements.cataclysm.find_soul_black_smith.description": {
+    "en": "Find the Soul Forge",
+    "zh": "找到灵魂锻造厂",
+    "vi": "Tìm lò rèn linh hồn"
+  },
+  "advancements.cataclysm.burning_arena.title": {
+    "en": "A Massive Arena",
+    "zh": "一座燃烧的竞技场",
+    "vi": "một đấu trường đang cháy"
+  },
+  "advancements.cataclysm.burning_arena.description": {
+    "en": "Find the Burning Arena",
+    "zh": "找到熔岩竞技场",
+    "vi": "Tìm Đấu trường Lava"
+  },
+  "advancements.cataclysm.ancient_factory.title": {
+    "en": "Out-of-Place",
+    "zh": "远古文明",
+    "vi": "nền văn minh cổ đại"
+  },
+  "advancements.cataclysm.ancient_factory.description": {
+    "en": "Find the Ancient Factory",
+    "zh": "找到古代工厂",
+    "vi": "Tìm nhà máy cổ"
+  },
+  "advancements.cataclysm.sunken_city.title": {
+    "en": "Sunken in the Sea",
+    "zh": "沉沦之城",
+    "vi": "thành phố chìm"
+  },
+  "advancements.cataclysm.sunken_city.description": {
+    "en": "Find the Sunken City",
+    "zh": "找到沉沦之城",
+    "vi": "Tìm thành phố bị chìm"
+  },
+  "advancements.cataclysm.cursed_pyramid.title": {
+    "en": "Desert Pyramid Revamped",
+    "zh": "被诅咒的金字塔",
+    "vi": "Kim tự tháp bị nguyền rủa"
+  },
+  "advancements.cataclysm.cursed_pyramid.description": {
+    "en": "Find the Cursed Pyramid",
+    "zh": "找到被诅咒的金字塔",
+    "vi": "Tìm kim tự tháp bị nguyền rủa"
+  },
+  "advancements.cataclysm.frosted_prison.title": {
+    "en": "Jail of Cold",
+    "zh": "苦寒监牢",
+    "vi": "nhà tù lạnh buốt"
+  },
+  "advancements.cataclysm.frosted_prison.description": {
+    "en": "Find the Frosted Prison",
+    "zh": "找到苦寒监牢",
+    "vi": "Đi tìm nhà tù lạnh buốt"
+  },
+  "advancements.cataclysm.kill_ender_golem.title": {
+    "en": "Palette Swap",
+    "zh": "色调变更",
+    "vi": "Huế thay đổi"
+  },
+  "advancements.cataclysm.kill_ender_golem.description": {
+    "en": "Kill an Ender Golem",
+    "zh": "杀死末影傀儡",
+    "vi": "Tiêu diệt golem ender"
+  },
+  "advancements.cataclysm.kill_ender_guardian.title": {
+    "en": "Wasn't that a Shulker?",
+    "zh": "那是潜影贝吗？",
+    "vi": "Đó có phải là một shulker?"
+  },
+  "advancements.cataclysm.kill_ender_guardian.description": {
+    "en": "Defeat the Ender Guardian",
+    "zh": "击败末影守卫",
+    "vi": "Đánh bại Ender Guard"
+  },
+  "advancements.cataclysm.kill_revenant.title": {
+    "en": "Imperfect thing",
+    "zh": "不完美之物",
+    "vi": "những điều không hoàn hảo"
+  },
+  "advancements.cataclysm.kill_revenant.description": {
+    "en": "Kill an Ignited Revenant",
+    "zh": "杀死遗魂",
+    "vi": "giết ma"
+  },
+  "advancements.cataclysm.kill_monstrosity.title": {
+    "en": "The Broken Nether's Warmachine",
+    "zh": "损坏的下界战争机器",
+    "vi": "Cỗ máy chiến tranh Nether bị hỏng"
+  },
+  "advancements.cataclysm.kill_monstrosity.description": {
+    "en": "Kill the Netherite Monstrosity",
+    "zh": "杀死下界合金巨兽",
+    "vi": "Tiêu diệt quái vật Netherite"
+  },
+  "advancements.cataclysm.kill_ignis.title": {
+    "en": "The Extinguished Fire",
+    "zh": "燃尽之焰",
+    "vi": "ngọn lửa đang cháy"
+  },
+  "advancements.cataclysm.kill_ignis.description": {
+    "en": "Summon and Defeat the Ignis",
+    "zh": "召唤并击败焰魔",
+    "vi": "Triệu hồi và đánh bại Quỷ lửa"
+  },
+  "advancements.cataclysm.kill_harbinger.title": {
+    "en": "The Thing of Ancient Civilization",
+    "zh": "远古文明之物",
+    "vi": "Những điều từ nền văn minh cổ đại"
+  },
+  "advancements.cataclysm.kill_harbinger.description": {
+    "en": "Wake and Defeat the Harbinger",
+    "zh": "唤醒并且击败先驱者",
+    "vi": "Đánh thức và đánh bại Harbingers"
+  },
+  "advancements.cataclysm.kill_leviathan.title": {
+    "en": "A Multidimensional Predator",
+    "zh": "多维捕食者",
+    "vi": "kẻ săn mồi đa chiều"
+  },
+  "advancements.cataclysm.kill_leviathan.description": {
+    "en": "Summon and Defeat the Leviathan",
+    "zh": "召唤并且击败利维坦",
+    "vi": "Triệu hồi và đánh bại Leviathan"
+  },
+  "advancements.cataclysm.kill_remnant.title": {
+    "en": "Death Finds a Way",
+    "zh": "死亡自有来路",
+    "vi": "Cái chết có cách riêng của nó"
+  },
+  "advancements.cataclysm.kill_remnant.description": {
+    "en": "Excavate from the suspicious sand within the cursed pyramid to wake up and knock down the Ancient Remnant",
+    "zh": "从被诅咒的金字塔内的碎沙中挖掘去唤醒并击碎远古遗魂",
+    "vi": "Đào từ cát trong kim tự tháp bị nguyền rủa để đánh thức và nghiền nát những linh hồn cổ xưa"
+  },
+  "advancements.cataclysm.kill_maledictus.title": {
+    "en": "Crusade Against Curse",
+    "zh": "恶咒圣战",
+    "vi": "Lời nguyền thánh chiến"
+  },
+  "advancements.cataclysm.kill_maledictus.description": {
+    "en": "Summon and Defeat Maledictus",
+    "zh": "召唤并击败咒翼灵骸",
+    "vi": "Triệu hồi và đánh bại CurseWing Wraith"
+  },
+  "trim_material.cataclysm.witherite": {
+    "en": "Witherite Material",
+    "zh": "凋灵合金质",
+    "vi": "Hợp kim héo"
+  },
+  "trim_material.cataclysm.ignitium": {
+    "en": "Ignitium Material",
+    "zh": "腾炎质",
+    "vi": "Tengyanzi"
+  },
+  "trim_material.cataclysm.cursium": {
+    "en": "Cursium Material",
+    "zh": "咒魂质",
+    "vi": "Chất lượng linh hồn bị nguyền rủa"
+  },
+  "trim_material.cataclysm.ancient_metal": {
+    "en": "Ancient Metal Material",
+    "zh": "远古金属质",
+    "vi": "kim loại cổ"
+  },
+  "death.attack.cataclysm.laser": {
+    "en": "%s was exterminated by %s 's laser",
+    "zh": "%s被%s用激光气化了 ",
+    "vi": "%s bị hóa hơi bằng laser bởi %s"
+  },
+  "death.attack.cataclysm.deathlaser": {
+    "en": "%s was exterminated by %s 's laser",
+    "zh": "%s被%s的激光蒸发成气态 ",
+    "vi": "%s bị bay hơi thành trạng thái khí bằng tia laser %s"
+  },
+  "death.attack.cataclysm.maledictio_sagitta": {
+    "en": "%s was cursed by %s 's Arrow",
+    "zh": "%s被%s的箭诅咒了",
+    "vi": "%s bị nguyền rủa bởi những mũi tên của %s"
+  },
+  "death.attack.cataclysm.maledictio_magicae": {
+    "en": "%s was cursed by %s 's Magic",
+    "zh": "%s被%s的魔法诅咒了",
+    "vi": "%s bị nguyền rủa bởi phép thuật của %s"
+  },
+  "death.attack.cataclysm.emp": {
+    "en": "%s has become Electric Grilled Chicken",
+    "zh": "%s变成了电烤鸡",
+    "vi": "%s biến thành gà nướng"
+  },
+  "death.attack.cataclysm.emp.player": {
+    "en": "%s has become Electric Grilled Chicken",
+    "zh": "%s变成了电烤鸡",
+    "vi": "%s biến thành gà nướng"
+  },
+  "death.attack.cataclysm.abyssal_burn": {
+    "en": "%s has left this dimension",
+    "zh": "%s离开了这个维度",
+    "vi": "%s đã rời khỏi chiều này"
+  },
+  "death.attack.cataclysm.abyssal_burn.player": {
+    "en": "%s has left this dimension",
+    "zh": "%s离开了这个维度",
+    "vi": "%s đã rời khỏi chiều này"
+  },
+  "death.attack.cataclysm.shredder": {
+    "en": "%s was shattered by %s",
+    "zh": "%s被%s打碎了",
+    "vi": "%s bị phá vỡ bởi %s"
+  },
+  "death.attack.cataclysm.sword_dance": {
+    "en": "%s was cut by %s",
+    "zh": "%s被%s切碎了",
+    "vi": "%s đã bị %s cắt nhỏ"
+  },
+  "death.attack.cataclysm.maledictio": {
+    "en": "%s was cursed by %s",
+    "zh": "%s被%s诅咒了",
+    "vi": "%s bị %s nguyền rủa"
+  },
+  "cataclysm.gui.altar_of_amethyst_blessing": {
+    "en": "Blessing",
+    "zh": "祝福",
+    "vi": "ban phước"
+  },
+  "key.categories.cataclysm": {
+    "en": "Cataclysm Key Category",
+    "zh": "灾变能力键位",
+    "vi": "Phím khả năng thảm họa"
+  },
+  "key.cataclysm.ability": {
+    "en": "Cataclysm Ability",
+    "zh": "灾变能力",
+    "vi": "Khả năng thảm họa"
+  },
+  "key.cataclysm.helmet_ability": {
+    "en": "Cataclysm Helmet Ability",
+    "zh": "灾变头盔能力",
+    "vi": "Khả năng của mũ bảo hiểm Cataclysm"
+  },
+  "key.cataclysm.chestplate_ability": {
+    "en": "Cataclysm Chestplate Ability",
+    "zh": "灾变胸甲能力",
+    "vi": "Khả năng áo giáp thảm khốc"
+  },
+  "key.cataclysm.boots_ability": {
+    "en": "Cataclysm Boots Ability",
+    "zh": "灾变靴子能力",
+    "vi": "Khả năng của Cataclysmic Boots"
+  },
+  "curios.identifier.feet": {
+    "en": "Feet",
+    "zh": "足部",
+    "vi": "bàn chân"
+  },
+  "curios.modifiers.feet": {
+    "en": "When on Feet:",
+    "zh": "在足部时:",
+    "vi": "Khi đứng bằng chân:"
+  },
+  "item.cataclysm.brontes": {
+    "en": "Brontes",
+    "zh": "掣雷巨锤",
+    "vi": null
+  },
+  "item.cataclysm.brontes.desc": {
+    "en": "You Can throw it",
+    "zh": "长按右键可以投掷它",
+    "vi": null
+  },
+  "item.cataclysm.brontes.desc2": {
+    "en": "(Also, this is a pickaxe)",
+    "zh": "（这仍然是一把镐子）",
+    "vi": null
+  },
+  "item.cataclysm.strange_key.desc": {
+    "en": "Can open the Door of Seal",
+    "zh": "可以打开封印之门",
+    "vi": null
+  },
+  "item.cataclysm.ceraunus.desc": {
+    "en": "You can Throw the Anchor",
+    "zh": "右键使用后可以向前投掷霆浪锚戟",
+    "vi": null
+  },
+  "item.cataclysm.ceraunus2.desc": {
+    "en": "When used while sneaking, it summons Waves in a Fan pattern",
+    "zh": "若在潜行状态下使用，则会额外沿扇形弹道召唤波浪",
+    "vi": null
+  },
+  "item.cataclysm.astrape.desc": {
+    "en": "Right click to shoot a Lightning Spear",
+    "zh": "右键后可以发射鸣雷槊",
+    "vi": null
+  },
+  "item.cataclysm.belt_of_beginner": {
+    "en": "Belt of Beginner",
+    "zh": "初学者腰带",
+    "vi": null
+  },
+  "item.cataclysm.ring_of_grudged": {
+    "en": "Ring of Grudged",
+    "zh": "怨怒之戒",
+    "vi": null
+  },
+  "item.cataclysm.berserker_soul_amulet": {
+    "en": "Berserker Soul Amulet",
+    "zh": "战魂护符",
+    "vi": null
+  },
+  "item.cataclysm.vitality_ankh": {
+    "en": "Vitality Ankh",
+    "zh": "活力安卡",
+    "vi": null
+  },
+  "item.cataclysm.unbreakable_skull": {
+    "en": "Unbreakable Skull",
+    "zh": "不破之颅",
+    "vi": null
+  },
+  "item.cataclysm.unbreakable_skull.desc": {
+    "en": "Negates Stun once per cooldown.",
+    "zh": "抵消一次眩晕效果，之后要冷却一段时间才能再次生效",
+    "vi": null
+  },
+  "item.cataclysm.sturdy_boots": {
+    "en": "Sturdy Boots",
+    "zh": "结实皮靴",
+    "vi": null
+  },
+  "item.cataclysm.sturdy_boots.desc": {
+    "en": "Allows you to walk on powder snow",
+    "zh": "足以支撑你在细雪表面上行走",
+    "vi": null
+  },
+  "entity.cataclysm.the_leviathan_immune": {
+    "en": "The Leviathan is invincible outside of water!",
+    "zh": "利维坦处于水外时是无敌的！",
+    "vi": null
+  },
+  "item.cataclysm.lacrima": {
+    "en": "Lacrima",
+    "zh": "泪宝石",
+    "vi": null
+  },
+  "item.cataclysm.essence_of_the_storm": {
+    "en": "Essence of the Storm",
+    "zh": "风暴精华",
+    "vi": null
+  },
+  "item.cataclysm.phantom_arrow": {
+    "en": "Phantom Arrow",
+    "zh": "幻影箭",
+    "vi": null
+  },
+  "item.cataclysm.music_disc_scylla": {
+    "en": "Music Disc",
+    "zh": "音乐唱片",
+    "vi": null
+  },
+  "item.cataclysm.music_disc_the_cataclysmfarer": {
+    "en": "Music Disc",
+    "zh": "音乐唱片",
+    "vi": null
+  },
+  "item.cataclysm.music_disc_scylla.desc": {
+    "en": "Rotch Gwylt - Scylla",
+    "zh": "Rotch Gwylt - Scylla",
+    "vi": null
+  },
+  "item.cataclysm.music_disc_the_cataclysmfarer.desc": {
+    "en": "Yuri_O - The Cataclysmfarer",
+    "zh": "Yuri_O - The Cataclysmfarer",
+    "vi": null
+  },
+  "item.cataclysm.storm_eye": {
+    "en": "Eye of Storm",
+    "zh": "风暴之眼",
+    "vi": null
+  },
+  "item.cataclysm.azure_sea_shield": {
+    "en": "Azure Sea Shield",
+    "zh": "蔚蓝海石盾",
+    "vi": null
+  },
+  "item.cataclysm.strange_key": {
+    "en": "Strange Key",
+    "zh": "怪奇之钥",
+    "vi": null
+  },
+  "item.cataclysm.astrape": {
+    "en": "Astrape",
+    "zh": "神怒长槊",
+    "vi": null
+  },
+  "item.cataclysm.ceraunus": {
+    "en": "Ceraunus",
+    "zh": "霆浪锚戟",
+    "vi": null
+  },
+  "item.cataclysm.chitin_claw": {
+    "en": "Chitin Claw",
+    "zh": "甲壳巨钳",
+    "vi": null
+  },
+  "item.cataclysm.scylla_spawn_egg": {
+    "en": "Scylla Spawn Egg",
+    "zh": "斯库拉刷怪蛋",
+    "vi": null
+  },
+  "item.cataclysm.clawdian_spawn_egg": {
+    "en": "Clawdian Spawn Egg",
+    "zh": "巨钳守卫刷怪蛋",
+    "vi": null
+  },
+  "item.cataclysm.hippocamtus_spawn_egg": {
+    "en": "Hippocamtus Spawn Egg",
+    "zh": "沧溟巡守刷怪蛋",
+    "vi": null
+  },
+  "item.cataclysm.cindaria_spawn_egg": {
+    "en": "Cindaria Spawn Egg",
+    "zh": "水母莉亚刷怪蛋",
+    "vi": null
+  },
+  "item.cataclysm.urchinkin_spawn_egg": {
+    "en": "Urchinkin Spawn Egg",
+    "zh": "小海胆刷怪蛋",
+    "vi": null
+  },
+  "item.cataclysm.octohost_spawn_egg": {
+    "en": "Octohost Spawn Egg",
+    "zh": "章鱼宿主刷怪蛋",
+    "vi": null
+  },
+  "item.cataclysm.symbiocto_spawn_egg": {
+    "en": "Symbiocto Spawn Egg",
+    "zh": "章鱼共生体刷怪蛋",
+    "vi": null
+  },
+  "item.cataclysm.onyx_spawn_egg": {
+    "en": "Onyx Spawn Egg",
+    "zh": "缟玉龙祝刷怪蛋",
+    "vi": null
+  },
+  "itemGroup.cataclysm.item": {
+    "en": "Cataclysm Items",
+    "zh": "灾变：物品",
+    "vi": null
+  },
+  "itemGroup.cataclysm.block": {
+    "en": "Cataclysm Blocks",
+    "zh": "灾变：方块",
+    "vi": null
+  },
+  "block.cataclysm.void_crystal": {
+    "en": "Void Crystal",
+    "zh": "虚空晶体",
+    "vi": null
+  },
+  "block.cataclysm.polished_obsidian": {
+    "en": "Polished Obsidian",
+    "zh": "磨制黑曜石砖块",
+    "vi": null
+  },
+  "block.cataclysm.obsidian_fence": {
+    "en": "Obsidian Fence",
+    "zh": "黑曜石栅栏",
+    "vi": null
+  },
+  "block.cataclysm.goddess_statue": {
+    "en": "Goddess Statue",
+    "zh": "女神雕像",
+    "vi": null
+  },
+  "block.cataclysm.azure_seastone": {
+    "en": "Azure Seastone",
+    "zh": "蔚蓝海石",
+    "vi": null
+  },
+  "block.cataclysm.azure_seastone_slab": {
+    "en": "Azure Seastone Slab",
+    "zh": "蔚蓝海石台阶",
+    "vi": null
+  },
+  "block.cataclysm.azure_seastone_stairs": {
+    "en": "Azure Seastone Stairs",
+    "zh": "蔚蓝海石楼梯",
+    "vi": null
+  },
+  "block.cataclysm.azure_seastone_wall": {
+    "en": "Azure Seastone Wall",
+    "zh": "蔚蓝海石墙",
+    "vi": null
+  },
+  "block.cataclysm.azure_seastone_tiles": {
+    "en": "Azure Seastone Tiles",
+    "zh": "蔚蓝海石瓦",
+    "vi": null
+  },
+  "block.cataclysm.chiseled_azure_seastone": {
+    "en": "Chiseled Azure Seastone",
+    "zh": "雕纹蔚蓝海石",
+    "vi": null
+  },
+  "block.cataclysm.azure_seastone_bricks": {
+    "en": "Azure Seastone Bricks",
+    "zh": "蔚蓝海石砖",
+    "vi": null
+  },
+  "block.cataclysm.azure_seastone_brick_slab": {
+    "en": "Azure Seastone Brick Slab",
+    "zh": "蔚蓝海石砖台阶",
+    "vi": null
+  },
+  "block.cataclysm.azure_seastone_brick_stairs": {
+    "en": "Azure Seastone Brick Stairs",
+    "zh": "蔚蓝海石砖楼梯",
+    "vi": null
+  },
+  "block.cataclysm.azure_seastone_brick_wall": {
+    "en": "Azure Seastone Brick Wall",
+    "zh": "蔚蓝海石砖墙",
+    "vi": null
+  },
+  "block.cataclysm.azure_seastone_mural_empty": {
+    "en": "Azure Seastone Mural(Inhibited Natural Creativity)",
+    "zh": "蔚蓝海石壁画",
+    "vi": null
+  },
+  "block.cataclysm.azure_seastone_mural_clawdian": {
+    "en": "Azure Seastone Mural(Clawdian)",
+    "zh": "蔚蓝海石壁画",
+    "vi": null
+  },
+  "block.cataclysm.azure_seastone_mural_cindaria": {
+    "en": "Azure Seastone Mural(Cindaria)",
+    "zh": "蔚蓝海石壁画",
+    "vi": null
+  },
+  "block.cataclysm.azure_seastone_mural_hippocamtus": {
+    "en": "Azure Seastone Mural(Hippocamtus)",
+    "zh": "蔚蓝海石壁画",
+    "vi": null
+  },
+  "block.cataclysm.azure_seastone_mural_urchinkin": {
+    "en": "Azure Seastone Mural(Urchinkin)",
+    "zh": "蔚蓝海石壁画",
+    "vi": null
+  },
+  "block.cataclysm.azure_seastone_mural_thunder": {
+    "en": "Azure Seastone Mural(Thunder)",
+    "zh": "蔚蓝海石壁画",
+    "vi": null
+  },
+  "block.cataclysm.azure_seastone_mural_sea": {
+    "en": "Azure Seastone Mural(Sea)",
+    "zh": "蔚蓝海石壁画",
+    "vi": null
+  },
+  "block.cataclysm.azure_seastone_mural_underworld": {
+    "en": "Azure Seastone Mural(Underworld)",
+    "zh": "蔚蓝海石壁画",
+    "vi": null
+  },
+  "block.cataclysm.azure_seastone_mural_harvest": {
+    "en": "Azure Seastone Mural(Harvest)",
+    "zh": "蔚蓝海石壁画",
+    "vi": null
+  },
+  "block.cataclysm.azure_seastone_mural_wisdom": {
+    "en": "Azure Seastone Mural(Wisdom)",
+    "zh": "蔚蓝海石壁画",
+    "vi": null
+  },
+  "block.cataclysm.azure_seastone_mural_smithing": {
+    "en": "Azure Seastone Mural(Smithing)",
+    "zh": "蔚蓝海石壁画",
+    "vi": null
+  },
+  "block.cataclysm.curved_azure_seastone_urchinkin": {
+    "en": "Curved Azure Seastone(Urchinkin)",
+    "zh": "雕纹蔚蓝海石(小海胆)",
+    "vi": null
+  },
+  "block.cataclysm.curved_azure_seastone_cindaria_1": {
+    "en": "Curved Azure Seastone(Cindaria 1)",
+    "zh": "雕纹蔚蓝海石(水母莉亚 1)",
+    "vi": null
+  },
+  "block.cataclysm.curved_azure_seastone_cindaria_2": {
+    "en": "Curved Azure Seastone(Cindaria 2)",
+    "zh": "雕纹蔚蓝海石(水母莉亚 2)",
+    "vi": null
+  },
+  "block.cataclysm.curved_azure_seastone_cindaria_3": {
+    "en": "Curved Azure Seastone(Cindaria 3)",
+    "zh": "雕纹蔚蓝海石(水母莉亚 3)",
+    "vi": null
+  },
+  "block.cataclysm.curved_azure_seastone_cindaria_4": {
+    "en": "Curved Azure Seastone(Cindaria 4)",
+    "zh": "雕纹蔚蓝海石(水母莉亚 4)",
+    "vi": null
+  },
+  "block.cataclysm.curved_azure_seastone_hippocamtus_1": {
+    "en": "Curved Azure Seastone(Hippocamtus 1)",
+    "zh": "雕纹蔚蓝海石(沧溟巡守 1)",
+    "vi": null
+  },
+  "block.cataclysm.curved_azure_seastone_hippocamtus_2": {
+    "en": "Curved Azure Seastone(Hippocamtus 2)",
+    "zh": "雕纹蔚蓝海石(沧溟巡守 2)",
+    "vi": null
+  },
+  "block.cataclysm.curved_azure_seastone_hippocamtus_3": {
+    "en": "Curved Azure Seastone(Hippocamtus 3)",
+    "zh": "雕纹蔚蓝海石(沧溟巡守 3)",
+    "vi": null
+  },
+  "block.cataclysm.curved_azure_seastone_hippocamtus_4": {
+    "en": "Curved Azure Seastone(Hippocamtus 4)",
+    "zh": "雕纹蔚蓝海石(沧溟巡守 4)",
+    "vi": null
+  },
+  "block.cataclysm.curved_azure_seastone_clawdian_1": {
+    "en": "Curved Azure Seastone(Clawdian 1)",
+    "zh": "雕纹蔚蓝海石(巨钳守卫 1)",
+    "vi": null
+  },
+  "block.cataclysm.curved_azure_seastone_clawdian_2": {
+    "en": "Curved Azure Seastone(Clawdian 2)",
+    "zh": "雕纹蔚蓝海石(巨钳守卫 2)",
+    "vi": null
+  },
+  "block.cataclysm.curved_azure_seastone_clawdian_3": {
+    "en": "Curved Azure Seastone(Clawdian 3)",
+    "zh": "雕纹蔚蓝海石(巨钳守卫 3)",
+    "vi": null
+  },
+  "block.cataclysm.curved_azure_seastone_clawdian_4": {
+    "en": "Curved Azure Seastone(Clawdian 4)",
+    "zh": "雕纹蔚蓝海石(巨钳守卫 4)",
+    "vi": null
+  },
+  "block.cataclysm.curved_azure_seastone_scylla_1": {
+    "en": "Curved Azure Seastone(Scylla 1)",
+    "zh": "雕纹蔚蓝海石(斯库拉 1)",
+    "vi": null
+  },
+  "block.cataclysm.curved_azure_seastone_scylla_2": {
+    "en": "Curved Azure Seastone(Scylla 2)",
+    "zh": "雕纹蔚蓝海石(斯库拉 2)",
+    "vi": null
+  },
+  "block.cataclysm.curved_azure_seastone_scylla_3": {
+    "en": "Curved Azure Seastone(Scylla 3)",
+    "zh": "雕纹蔚蓝海石(斯库拉 3)",
+    "vi": null
+  },
+  "block.cataclysm.curved_azure_seastone_scylla_4": {
+    "en": "Curved Azure Seastone(Scylla 4)",
+    "zh": "雕纹蔚蓝海石(斯库拉 4)",
+    "vi": null
+  },
+  "block.cataclysm.curved_azure_seastone_scylla_5": {
+    "en": "Curved Azure Seastone(Scylla 5)",
+    "zh": "雕纹蔚蓝海石(斯库拉 5)",
+    "vi": null
+  },
+  "block.cataclysm.curved_azure_seastone_scylla_6": {
+    "en": "Curved Azure Seastone(Scylla 6)",
+    "zh": "雕纹蔚蓝海石(斯库拉 6)",
+    "vi": null
+  },
+  "block.cataclysm.curved_azure_seastone_scylla_7": {
+    "en": "Curved Azure Seastone(Scylla 7)",
+    "zh": "雕纹蔚蓝海石(斯库拉 7)",
+    "vi": null
+  },
+  "block.cataclysm.curved_azure_seastone_scylla_8": {
+    "en": "Curved Azure Seastone(Scylla 8)",
+    "zh": "雕纹蔚蓝海石(斯库拉 8)",
+    "vi": null
+  },
+  "block.cataclysm.curved_azure_seastone_scylla_9": {
+    "en": "Curved Azure Seastone(Scylla 9)",
+    "zh": "雕纹蔚蓝海石(斯库拉 9)",
+    "vi": null
+  },
+  "block.cataclysm.polished_azure_seastone": {
+    "en": "Polished Azure Seastone",
+    "zh": "磨制蔚蓝海石",
+    "vi": null
+  },
+  "block.cataclysm.polished_azure_seastone_slab": {
+    "en": "Polished Azure Seastone Slab",
+    "zh": "磨制蔚蓝海石台阶",
+    "vi": null
+  },
+  "block.cataclysm.polished_azure_seastone_stairs": {
+    "en": "Polished Azure Seastone Stairs",
+    "zh": "磨制蔚蓝海石楼梯",
+    "vi": null
+  },
+  "block.cataclysm.polished_azure_seastone_wall": {
+    "en": "Polished Azure Seastone Wall",
+    "zh": "磨制蔚蓝海石墙",
+    "vi": null
+  },
+  "block.cataclysm.azure_seastone_pillar": {
+    "en": "Azure Seastone Pillar",
+    "zh": "蔚蓝海石柱",
+    "vi": null
+  },
+  "block.cataclysm.azure_seastone_pillar_wall": {
+    "en": "Azure Seastone Pillar Wall",
+    "zh": "蔚蓝海石柱墙",
+    "vi": null
+  },
+  "block.cataclysm.chiseled_azure_seastone_pillar": {
+    "en": "Chiseled Azure Seastone Pillar",
+    "zh": "雕纹蔚蓝海石柱",
+    "vi": null
+  },
+  "block.cataclysm.chiseled_azure_seastone_pillar_wall": {
+    "en": "Chiseled Azure Seastone Pillar Wall",
+    "zh": "雕纹蔚蓝海石柱墙",
+    "vi": null
+  },
+  "block.cataclysm.azure_seastone_fence": {
+    "en": "Azure Seastone Fence",
+    "zh": "蔚蓝海石栅栏",
+    "vi": null
+  },
+  "block.cataclysm.prismarine_brick_fence": {
+    "en": "Prismarine Brick Fence",
+    "zh": "海晶石砖栅栏",
+    "vi": null
+  },
+  "block.cataclysm.prismarine_brick_wall": {
+    "en": "Prismarine Brick Wall",
+    "zh": "海晶石砖墙",
+    "vi": null
+  },
+  "block.cataclysm.boss_respawner": {
+    "en": "Boss Respawner",
+    "zh": "Boss重生笼",
+    "vi": null
+  },
+  "entity.cataclysm.old_netherite_monstrosity": {
+    "en": "Old Netherite Monstrosity",
+    "zh": "旧版下界合金巨兽",
+    "vi": null
+  },
+  "entity.cataclysm.flare_bomb": {
+    "en": "Flare Bomb",
+    "zh": "燃光弹",
+    "vi": null
+  },
+  "entity.cataclysm.flame_jet": {
+    "en": "Flame Jet",
+    "zh": "炽燃光柱",
+    "vi": null
+  },
+  "entity.cataclysm.storm_serpent": {
+    "en": "Storm Serpent",
+    "zh": "风暴巨蛇",
+    "vi": null
+  },
+  "entity.cataclysm.octo_ink": {
+    "en": "Octo Ink",
+    "zh": "章鱼墨",
+    "vi": null
+  },
+  "entity.cataclysm.hippocamtus": {
+    "en": "Hippocamtus",
+    "zh": "沧溟巡守",
+    "vi": null
+  },
+  "entity.cataclysm.cindaria": {
+    "en": "Cindaria",
+    "zh": "水母莉亚",
+    "vi": null
+  },
+  "entity.cataclysm.clawdian": {
+    "en": "Clawdian",
+    "zh": "巨钳守卫",
+    "vi": null
+  },
+  "entity.cataclysm.scylla": {
+    "en": "Scylla",
+    "zh": "斯库拉",
+    "vi": null
+  },
+  "entity.cataclysm.urchinkin": {
+    "en": "Urchinkin",
+    "zh": "小海胆",
+    "vi": null
+  },
+  "entity.cataclysm.drowned_host": {
+    "en": "Drowned Host",
+    "zh": "溺尸宿主",
+    "vi": null
+  },
+  "entity.cataclysm.symbiocto": {
+    "en": "Symbiocto",
+    "zh": "章鱼共生体",
+    "vi": null
+  },
+  "entity.cataclysm.water_spear": {
+    "en": "Water Spear",
+    "zh": "沧波棱刺",
+    "vi": null
+  },
+  "entity.cataclysm.lightning_spear": {
+    "en": "Lightning Spear",
+    "zh": "鸣雷槊",
+    "vi": null
+  },
+  "entity.cataclysm.scylla_ceraunus": {
+    "en": "Ceraunus",
+    "zh": "霆浪锚戟",
+    "vi": null
+  },
+  "entity.cataclysm.wave": {
+    "en": "Wave",
+    "zh": "波浪",
+    "vi": null
+  },
+  "entity.cataclysm.bolt_strike": {
+    "en": "Bolt Strike",
+    "zh": "雷击",
+    "vi": null
+  },
+  "entity.cataclysm.lightning_storm": {
+    "en": "Lightning Storm",
+    "zh": "闪电风暴",
+    "vi": null
+  },
+  "entity.cataclysm.lightning_area_effect": {
+    "en": "Lightning Area Effect",
+    "zh": "静电区",
+    "vi": null
+  },
+  "entity.cataclysm.onyx": {
+    "en": "Onyx",
+    "zh": "缟玉龙祝",
+    "vi": null
+  },
+  "effect.cataclysm.wetness": {
+    "en": "Wetness",
+    "zh": "潮湿",
+    "vi": null
+  },
+  "effect.cataclysm.lightning_hex": {
+    "en": "Lightning Hex",
+    "zh": "Lightning Hex",
+    "vi": null
+  },
+  "effect.cataclysm.over_gravity": {
+    "en": "Over Gravity",
+    "zh": "Over Gravity",
+    "vi": null
+  },
+  "effect.cataclysm.dragon_wound": {
+    "en": "Dragon Wound",
+    "zh": "Dragon Wound",
+    "vi": null
+  },
+  "flamethrower.sub": {
+    "en": "Flamethrower",
+    "zh": "火焰：被投掷",
+    "vi": null
+  },
+  "ministrosityhurt.sub": {
+    "en": "Netherite Ministrosity hurts",
+    "zh": "下界合金幼兽：受伤",
+    "vi": null
+  },
+  "ignis_shield_break": {
+    "en": "Ignis' shield breaks",
+    "zh": "焰魔：盾牌破损",
+    "vi": null
+  },
+  "leviathan_music_1.sub": {
+    "en": "Leviathan's theme plays",
+    "zh": "利维坦主题音乐",
+    "vi": null
+  },
+  "leviathan_music_2.sub": {
+    "en": "Leviathan's theme plays",
+    "zh": "利维坦主题音乐",
+    "vi": null
+  },
+  "abyss_blast_only_charge.sub": {
+    "en": "Leviathan prepares multi abyss blast",
+    "zh": "利维坦：准备释放深渊冲击波",
+    "vi": null
+  },
+  "abyss_blast_only_shoot.sub": {
+    "en": "Leviathan blasts",
+    "zh": "利维坦：释放深渊冲击波",
+    "vi": null
+  },
+  "remnant_tail_slam_1.sub": {
+    "en": "Ancient Remnant strikes",
+    "zh": "远古遗魂：甩尾",
+    "vi": null
+  },
+  "remnant_tail_slam_2.sub": {
+    "en": "Ancient Remnant strikes",
+    "zh": "远古遗魂：甩尾",
+    "vi": null
+  },
+  "remnant_tail_slam_3.sub": {
+    "en": "Ancient Remnant strikes",
+    "zh": "远古遗魂：甩尾",
+    "vi": null
+  },
+  "modern_remnant_bite.sub": {
+    "en": "Modern Remnant bites",
+    "zh": "现世遗魂：撕咬",
+    "vi": null
+  },
+  "modern_remnant_death.sub": {
+    "en": "Modern Remnant dies",
+    "zh": "现世遗魂：死亡",
+    "vi": null
+  },
+  "modern_remnant_fill_bucket.sub": {
+    "en": "Modern Remnant captured",
+    "zh": "现世遗魂：被捕获",
+    "vi": null
+  },
+  "door_of_seal_open.sub": {
+    "en": "Door of Seal opens",
+    "zh": "封印之门：敞开",
+    "vi": null
+  },
+  "draugr_idle.sub": {
+    "en": "Draugr groans",
+    "zh": "再行魂尸：呻吟",
+    "vi": null
+  },
+  "draugr_hurt.sub": {
+    "en": "Draugr hurts",
+    "zh": "再行魂尸：受伤",
+    "vi": null
+  },
+  "draugr_death.sub": {
+    "en": "Draugr dies",
+    "zh": "再行魂尸：死亡",
+    "vi": null
+  },
+  "aptrgangr_idle.sub": {
+    "en": "Aptrgangr groans",
+    "zh": "冥行武弁：呻吟",
+    "vi": null
+  },
+  "aptrgangr_hurt.sub": {
+    "en": "Aptrgangr hurts",
+    "zh": "冥行武弁：受伤",
+    "vi": null
+  },
+  "aptrgangr_death.sub": {
+    "en": "Aptrgangr dies",
+    "zh": "冥行武弁：死亡",
+    "vi": null
+  },
+  "maledictus_music.sub": {
+    "en": "Maledictus' theme plays",
+    "zh": "咒灵翼骸主题曲",
+    "vi": null
+  },
+  "maledictus_music_disc.sub": {
+    "en": "Maledictus' original theme plays",
+    "zh": "咒灵翼骸主题曲：播放",
+    "vi": null
+  },
+  "maledictus_idle.sub": {
+    "en": "Maledictus groans",
+    "zh": "咒灵翼骸：呻吟",
+    "vi": null
+  },
+  "maledictus_hurt.sub": {
+    "en": "Maledictus dies",
+    "zh": "咒灵翼骸：受伤",
+    "vi": null
+  },
+  "maledictus_short_roar.sub": {
+    "en": "Maledictus roars",
+    "zh": "咒灵翼骸：咆哮",
+    "vi": null
+  },
+  "maledictus_battle_cry.sub": {
+    "en": "Maledictus battlecries",
+    "zh": "咒灵翼骸：战吼",
+    "vi": null
+  },
+  "maledictus_mace_swing.sub": {
+    "en": "Maledictus swings",
+    "zh": "咒翼灵骸：挥舞巨锤",
+    "vi": null
+  },
+  "axe_swing.sub": {
+    "en": "Axe swings",
+    "zh": "巨斧：挥舞",
+    "vi": null
+  },
+  "maledictus_spear.sub": {
+    "en": "Phantom Halberds appears",
+    "zh": "幻影戟：刺出",
+    "vi": null
+  },
+  "maledictus_bow_pull.sub": {
+    "en": "Maledictus pulls bow",
+    "zh": "咒灵翼骸：拉弓",
+    "vi": null
+  },
+  "maledictus_leap.sub": {
+    "en": "Maledictus leaps",
+    "zh": "咒灵翼骸：跳跃",
+    "vi": null
+  },
+  "parry.sub": {
+    "en": "Shield parries",
+    "zh": "盾牌彈反",
+    "vi": null
+  },
+  "heavy_smash.sub": {
+    "en": "Heavy Smash",
+    "zh": "重砸",
+    "vi": null
+  },
+  "hippocamtus_idle.sub": {
+    "en": "Hippocamtus gurgles",
+    "zh": "沧溟巡守：咕噜",
+    "vi": null
+  },
+  "hippocamtus_hurt.sub": {
+    "en": "Hippocamtus hurts",
+    "zh": "沧溟巡守：受伤",
+    "vi": null
+  },
+  "hippocamtus_death.sub": {
+    "en": "Hippocamtus dies",
+    "zh": "沧溟巡守：死亡",
+    "vi": null
+  },
+  "cindaria_hurt.sub": {
+    "en": "Cindaria hurts",
+    "zh": "水母莉亚：受伤",
+    "vi": null
+  },
+  "cindaria_death.sub": {
+    "en": "Cindaria dies",
+    "zh": "水母莉亚：死亡",
+    "vi": null
+  },
+  "scylla_music.sub": {
+    "en": "Scylla's theme plays",
+    "zh": "斯库拉主题曲",
+    "vi": null
+  },
+  "scylla_music_disc.sub": {
+    "en": "Scylla's original theme plays",
+    "zh": "斯库拉主题曲：播放",
+    "vi": null
+  },
+  "scylla_hurt.sub": {
+    "en": "Scylla hurts",
+    "zh": "斯库拉：受伤",
+    "vi": null
+  },
+  "scylla_roar.sub": {
+    "en": "Scylla howls",
+    "zh": "斯库拉：咆哮",
+    "vi": null
+  },
+  "scylla_death.sub": {
+    "en": "Scylla dies",
+    "zh": "斯库拉：死亡",
+    "vi": null
+  },
+  "super_lightning_strike.sub": {
+    "en": "Lightning strikes",
+    "zh": "雷击",
+    "vi": null
+  },
+  "the_cataclysmfarer.sub": {
+    "en": "The Cataclysmfarer plays",
+    "zh": "灾变行者：播放",
+    "vi": null
+  },
+  "advancements.cataclysm.acropolis.title": {
+    "en": "Why in the Sky?",
+    "zh": "卫城",
+    "vi": null
+  },
+  "advancements.cataclysm.acropolis.description": {
+    "en": "Find the Acropolis",
+    "zh": "找到卫城",
+    "vi": null
+  },
+  "advancements.cataclysm.kill_clawdian.title": {
+    "en": "Not so Shrimple Now",
+    "zh": "我不“虾”",
+    "vi": null
+  },
+  "advancements.cataclysm.kill_clawdian.description": {
+    "en": "Kill an Clawdian",
+    "zh": "杀死巨钳守卫",
+    "vi": null
+  },
+  "advancements.cataclysm.kill_scylla.title": {
+    "en": "The Calm after the Storm",
+    "zh": "雨过天晴",
+    "vi": null
+  },
+  "advancements.cataclysm.kill_scylla.description": {
+    "en": "Defeat the Storm Empress, Scylla",
+    "zh": "击败风暴女皇，斯库拉",
+    "vi": null
+  },
+  "advancements.cataclysm.kill_all_bosses.title": {
+    "en": "The Cataclysmfarer",
+    "zh": "灾变行者",
+    "vi": null
+  },
+  "advancements.cataclysm.kill_all_bosses.description": {
+    "en": "You have reached the summit of Cataclysm!",
+    "zh": "你登临灾变之巅！",
+    "vi": null
+  },
+  "death.attack.cataclysm.maledictio_anima": {
+    "en": "%s was cursed by %s",
+    "zh": "%s被%s诅咒了",
+    "vi": null
+  },
+  "death.attack.cataclysm.penetrate": {
+    "en": "%s was penetrated by %s",
+    "zh": "%s被%s浸润了",
+    "vi": null
+  },
+  "death.attack.cataclysm.lightning": {
+    "en": "%s was electrocuted by %s",
+    "zh": "%s被%s电死了",
+    "vi": null
+  },
+  "death.attack.cataclysm.flame_strike": {
+    "en": "%s was consumed by the flames",
+    "zh": "%s被火焰吞噬了",
+    "vi": null
+  },
+  "death.attack.cataclysm.storm_bringer": {
+    "en": "%s was hunted by %s",
+    "zh": "%s被%s猎杀了",
+    "vi": null
+  },
+  "curios.identifier.rings": {
+    "en": "Rings",
+    "zh": "戒指",
+    "vi": null
+  },
+  "curios.identifier.talisman": {
+    "en": "Talisman",
+    "zh": "护身符",
+    "vi": null
+  },
+  "curios.identifier.waist": {
+    "en": "Waist",
+    "zh": "腰带",
+    "vi": null
+  },
+  "curios.modifiers.rings": {
+    "en": "When on Rings:",
+    "zh": "在戒指栏位时：",
+    "vi": null
+  },
+  "curios.modifiers.talisman": {
+    "en": "When on Talisman:",
+    "zh": "在护身符栏位时：",
+    "vi": null
+  },
+  "curios.modifiers.waist": {
+    "en": "When on Waist:",
+    "zh": "在腰带栏位时：",
+    "vi": null
+  },
+  "attribute.cataclysm.additional_critical_damage": {
+    "en": "% Critical Damage",
+    "zh": "% 暴击伤害",
+    "vi": null
+  },
+  "attribute.cataclysm.nature_heal": {
+    "en": "% Nature Heal",
+    "zh": "% 生命值自然恢复速度",
+    "vi": null
+  },
+  "ability.cataclysm.amethyst_cluster": {
+    "en": "Amethyst Cluster",
+    "zh": "紫水晶簇",
+    "vi": null
+  },
+  "ability.cataclysm.amethyst_cluster.desc": {
+    "en": "Fire amethyst clusters around you that damage entities.",
+    "zh": "在你周围发射紫水晶簇，对实体造成伤害",
+    "vi": null
+  },
+  "item.cataclysm.shift_desc": {
+    "en": "Hold [SHIFT] for details",
+    "zh": "按住SHIFT键可查看详细信息",
+    "vi": null
+  },
+  "notice.qna": {
+    "en": "Are you Interested Ignis Plush In Cataclysm?",
+    "zh": null,
+    "vi": null
+  },
+  "notice.yes": {
+    "en": "Yes",
+    "zh": null,
+    "vi": null
+  },
+  "notice.link.check": {
+    "en": "Link Check",
+    "zh": null,
+    "vi": null
+  },
+  "notice.click": {
+    "en": "Go to the MakeShip site",
+    "zh": null,
+    "vi": null
+  },
+  "notice.no.more": {
+    "en": "Never see Notices again",
+    "zh": null,
+    "vi": null
+  },
+  "notice.open.browser": {
+    "en": "Go to MakeShip site",
+    "zh": null,
+    "vi": null
+  },
+  "notice.no.more.text": {
+    "en": "Notices disabled. Note that this can be re-enabled in the config.",
+    "zh": null,
+    "vi": null
+  },
+  "item.cataclysm.cursium_upgrade_smithing_template": {
+    "en": null,
+    "zh": "锻造模板",
+    "vi": null
+  },
+  "maledictus_death.sub": {
+    "en": null,
+    "zh": "咒灵翼骸：死亡",
+    "vi": null
+  }
+}

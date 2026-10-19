@@ -1,0 +1,12 @@
+{
+  "fdlib.key.end_cutscene": {
+    "en": "End current playing cutscene if permitted.",
+    "zh": "跳过BOSS出场动画.",
+    "vi": "Bỏ qua hình ảnh động xuất hiện BOSS."
+  },
+  "fdlib.key_category": {
+    "en": "FDLib",
+    "zh": "FDLib",
+    "vi": "FDLib"
+  }
+}

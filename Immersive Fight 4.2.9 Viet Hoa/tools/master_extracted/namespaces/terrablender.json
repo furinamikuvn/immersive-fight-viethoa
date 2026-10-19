@@ -1,0 +1,12 @@
+{
+  "commands.terrablender.biomeparams.success": {
+    "en": "Parameters at position %s %s %s: %s",
+    "zh": null,
+    "vi": null
+  },
+  "commands.terrablender.biomeparams.failed": {
+    "en": "Could not determine parameters",
+    "zh": null,
+    "vi": null
+  }
+}

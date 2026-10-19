@@ -1,0 +1,662 @@
+{
+  "item.nethers_exorcism_reborn.strampler_horn_shield": {
+    "en": "Strampler Horn Shield",
+    "zh": "缠击兽角盾",
+    "vi": "Strampler Horn Shield"
+  },
+  "item.nethers_exorcism_reborn.baby_salamander_bucket": {
+    "en": "Baby Indigo Salamander Bucket",
+    "zh": "小靛蓝蝾螈桶",
+    "vi": "Baby Indigo Salamander Bucket"
+  },
+  "block.nethers_exorcism_reborn.radiant_nylium": {
+    "en": "Radiant Nylium",
+    "zh": "发光尼龙草方块",
+    "vi": "Radiant Nylium"
+  },
+  "item.nethers_exorcism_reborn.brogg_charge": {
+    "en": "Brogg Charge",
+    "zh": "布罗格充能",
+    "vi": "Brogg Charge"
+  },
+  "advancements.balooncraft.title": {
+    "en": "Nether Air-bag",
+    "zh": "下界气囊",
+    "vi": "túi khí địa ngục"
+  },
+  "block.nethers_exorcism_reborn.indigo_trapdoor": {
+    "en": "Indigo Trapdoor",
+    "zh": "靛蓝活板门",
+    "vi": "Indigo Trapdoor"
+  },
+  "item.nethers_exorcism_reborn.jelly_baloon_spawn_egg": {
+    "en": "Jelly Baloon Spawn Egg",
+    "zh": "果冻气球生成蛋",
+    "vi": "Jelly Baloon Spawn Egg"
+  },
+  "entity.nethers_exorcism_reborn.aerea_effetct": {
+    "en": "areaEffect",
+    "zh": "区域效果",
+    "vi": "areaEffect"
+  },
+  "item.minecraft.potion.effect.glowing": {
+    "en": "Potion of Glowing",
+    "zh": "发光药水",
+    "vi": "Potion of Glowing"
+  },
+  "item.nethers_exorcism_reborn.strampler_heart": {
+    "en": "Strampler Heart",
+    "zh": "缠击兽之心",
+    "vi": "Strampler Heart"
+  },
+  "item.minecraft.lingering_potion.effect.instant_cure_weak": {
+    "en": "Lingering Potion of Weaker Instant Cure",
+    "zh": "较弱瞬间治疗滞留药水",
+    "vi": "Lingering Potion of Weaker Instant Cure"
+  },
+  "effect.nethers_exorcism_reborn.radiation_poisoning": {
+    "en": "Spore Poisoning",
+    "zh": "孢子中毒",
+    "vi": "Ngộ độc bào tử"
+  },
+  "block.nethers_exorcism_reborn.indigo_sprout": {
+    "en": "Indigo Sprout",
+    "zh": "靛蓝幼苗",
+    "vi": "Indigo Sprout"
+  },
+  "block.nethers_exorcism_reborn.radiant_cephalotusstage_0": {
+    "en": "Radiant Cephalotus Seed",
+    "zh": "发光捕虫堇种子",
+    "vi": "Radiant Cephalotus Seed"
+  },
+  "item.minecraft.tipped_arrow.effect.instant_cure_potion": {
+    "en": "Arrow of Instant Cure",
+    "zh": "瞬间治疗之箭",
+    "vi": "mũi tên chữa lành ngay lập tức"
+  },
+  "item.nethers_exorcism_reborn.glowing_jelly": {
+    "en": "Glowing Jelly",
+    "zh": "发光果冻",
+    "vi": "Glowing Jelly"
+  },
+  "item.nethers_exorcism_reborn.radiant_gland": {
+    "en": "Radiant Gland",
+    "zh": "发光腺体",
+    "vi": "Radiant Gland"
+  },
+  "block.nethers_exorcism_reborn.basalt_geyser": {
+    "en": "Basalt Geyser",
+    "zh": "玄武岩间歇泉",
+    "vi": "Basalt Geyser"
+  },
+  "advancements.killsalamander.descr": {
+    "en": "eat a raw indigo salamander tail, yeah not very tasty",
+    "zh": "吃掉一条生的靛蓝蝾螈尾巴，嗯，味道不咋地",
+    "vi": "Ăn đuôi kỳ nhông chàm sống thì không ngon."
+  },
+  "item.nethers_exorcism_reborn.geiger_counter": {
+    "en": "Geiger Counter",
+    "zh": "盖革计数器",
+    "vi": "Geiger Counter"
+  },
+  "block.nethers_exorcism_reborn.indigo_slab": {
+    "en": "Indigo Slab",
+    "zh": "靛蓝石板",
+    "vi": "Indigo Slab"
+  },
+  "block.nethers_exorcism_reborn.sniffer_egg_corrupt": {
+    "en": "Corrupted Sniffer Egg",
+    "zh": "被腐蚀的嗅探者蛋",
+    "vi": "Corrupted Sniffer Egg"
+  },
+  "item.nethers_exorcism_reborn.raw_salamander_tail_slice": {
+    "en": "Raw Indigo Salamander Tail Slice",
+    "zh": "生的靛蓝蝾螈尾巴切片",
+    "vi": "Raw Indigo Salamander Tail Slice"
+  },
+  "item.minecraft.potion.effect.short_glowing": {
+    "en": "Potion of Glowing",
+    "zh": "短时效发光药水",
+    "vi": "Potion of Glowing"
+  },
+  "item.minecraft.lingering_potion.effect.glowing": {
+    "en": "Lingering Potion of Glowing",
+    "zh": "发光滞留药水",
+    "vi": "Lingering Potion of Glowing"
+  },
+  "block.nethers_exorcism_reborn.indigo_fungus": {
+    "en": "Indigo Fungus",
+    "zh": "靛蓝真菌",
+    "vi": "Indigo Fungus"
+  },
+  "item.minecraft.splash_potion.effect.instant_cure_potion": {
+    "en": "Splash Potion of Instant Cure",
+    "zh": "瞬间治疗喷溅药水",
+    "vi": "Splash Potion of Instant Cure"
+  },
+  "item.nethers_exorcism_reborn.uranium_dust": {
+    "en": "Uranium Dust",
+    "zh": "铀尘",
+    "vi": "Uranium Dust"
+  },
+  "advancements.enter_dna_forest.title": {
+    "en": "genetically advanced",
+    "zh": "基因进化",
+    "vi": "tiến hóa di truyền"
+  },
+  "entity.nethers_exorcism_reborn.baby_strampler": {
+    "en": "Baby passive Strampler",
+    "zh": "幼年被动缠击兽",
+    "vi": "Baby passive Strampler"
+  },
+  "block.nethers_exorcism_reborn.indigo_fence": {
+    "en": "Indigo Fence",
+    "zh": "靛蓝栅栏",
+    "vi": "Indigo Fence"
+  },
+  "item.nethers_exorcism_reborn.plantareaeffect_spawn_egg": {
+    "en": "PlantareaEffect Spawn Egg",
+    "zh": "植物区域效果生成蛋",
+    "vi": "PlantareaEffect Spawn Egg"
+  },
+  "advancements.encounter_strampler.descr": {
+    "en": "encounter a Strampler",
+    "zh": "遭遇缠击兽",
+    "vi": "Gặp phải thú dữ rình rập"
+  },
+  "block.nethers_exorcism_reborn.stripped_indigo_hyphae": {
+    "en": "Indigo Hyphae",
+    "zh": "去皮靛蓝菌丝",
+    "vi": "Indigo Hyphae"
+  },
+  "block.nethers_exorcism_reborn.dna_vine": {
+    "en": "DNA Vine",
+    "zh": "DNA藤蔓",
+    "vi": "DNA Vine"
+  },
+  "block.nethers_exorcism_reborn.indigo_fence_gate": {
+    "en": "Indigo Fence Gate",
+    "zh": "靛蓝栅栏门",
+    "vi": "Indigo Fence Gate"
+  },
+  "advancements.obtainshield.descr": {
+    "en": "acquire a strampler horn shield",
+    "zh": "获得缠击兽角盾",
+    "vi": "Nhận được Khiên sừng rình rập"
+  },
+  "death.attack.radiation": {
+    "en": "%1$s radiated away",
+    "zh": "%1$s被辐射致死",
+    "vi": "%1$s chết vì phóng xạ"
+  },
+  "item.nethers_exorcism_reborn.crab_chestplate": {
+    "en": "Crab Shell Chestplate",
+    "zh": "蟹壳胸甲",
+    "vi": "Crab Shell Chestplate"
+  },
+  "item.minecraft.tipped_arrow.effect.instant_cure_weak": {
+    "en": "Arrow of Weaker Instant Cure",
+    "zh": "较弱瞬间治疗之箭",
+    "vi": "Mũi tên chữa lành tức thì yếu hơn"
+  },
+  "item.minecraft.potion.effect.instant_cure_weak": {
+    "en": "Potion of Weaker Instant Cure",
+    "zh": "较弱瞬间治疗药水",
+    "vi": "Potion of Weaker Instant Cure"
+  },
+  "advancements.encounterjellyfish.title": {
+    "en": "jelllllyyyy",
+    "zh": "遇到水母啦",
+    "vi": "Gặp phải một con sứa"
+  },
+  "advancements.eatcookedsalamander.descr": {
+    "en": "eat a cooked indigo salamander tail wich clears all bad effects off you",
+    "zh": "吃掉一条烤熟的靛蓝蝾螈尾巴，它可以清除你身上的所有负面效果",
+    "vi": "Ăn đuôi kỳ nhông chàm nướng sẽ loại bỏ mọi Lực xung kích tiêu cực ra khỏi cơ thể bạn"
+  },
+  "advancements.ultimateshield.descr": {
+    "en": "enchant a strampler horn shield with Genetic anomaly V",
+    "zh": "用基因异常V对缠击兽角盾进行附魔",
+    "vi": "Phù phép Lá chắn Sừng Rình rập bằng Di truyền dị thường V"
+  },
+  "block.nethers_exorcism_reborn.indigo_flowering_azalea": {
+    "en": "Indigo Flowering Azalea",
+    "zh": "靛蓝开花杜鹃",
+    "vi": "Indigo Flowering Azalea"
+  },
+  "block.nethers_exorcism_reborn.radiant_cephalotus": {
+    "en": "Radiant Cephalotus",
+    "zh": "发光捕虫堇",
+    "vi": "Radiant Cephalotus"
+  },
+  "death.attack.radiation.item": {
+    "en": "%1$s was killed by %2$s using %3$s",
+    "zh": "%1$s被%2$s使用%3$s杀死（辐射攻击）",
+    "vi": "%1$s đã bị %2$s tiêu diệt bằng %3$s (tấn công bức xạ)"
+  },
+  "item.nethers_exorcism_reborn.indigo_salamander_spawn_egg": {
+    "en": "Indigo Salamander Spawn Egg",
+    "zh": "靛蓝蝾螈生成蛋",
+    "vi": "Indigo Salamander Spawn Egg"
+  },
+  "item.minecraft.tipped_arrow.effect.short_glowing": {
+    "en": "Arrow of Glowing",
+    "zh": "发光之箭",
+    "vi": "mũi tên phát sáng"
+  },
+  "entity.nethers_exorcism_reborn.strampler": {
+    "en": "Strampler",
+    "zh": "缠击兽",
+    "vi": "Strampler"
+  },
+  "block.nethers_exorcism_reborn.indigo_stairs": {
+    "en": "Indigo Stairs",
+    "zh": "靛蓝楼梯",
+    "vi": "Indigo Stairs"
+  },
+  "advancements.obtainheart.descr": {
+    "en": "acquire a strampler heart",
+    "zh": "获得缠击兽之心",
+    "vi": "Lấy được trái tim của kẻ theo dõi"
+  },
+  "advancements.ultimatebaloo.descr": {
+    "en": "enhcant a jelly baloon with lasting baloon III, unbreaking III and mending",
+    "zh": "对果冻气球进行附魔，获得持久气球III、坚固III和修复",
+    "vi": "Phù phép Jelly Balloon để nhận được Balloon III, Solidity III và Repair"
+  },
+  "biome.nethers_exorcism_reborn.biohazardous_delta": {
+    "en": "Biohazardous Delta",
+    "zh": "生物危害三角洲",
+    "vi": "đồng bằng nguy hiểm sinh học"
+  },
+  "advancements.bucketasalamander.title": {
+    "en": "there's a Snake in my bucket",
+    "zh": "我的桶里有条蛇",
+    "vi": "Có một con rắn trong xô của tôi"
+  },
+  "advancements.nether_exorcism.title": {
+    "en": "Nether Exorcism",
+    "zh": "下界驱邪",
+    "vi": "Trừ tà từ thế giới thấp hơn"
+  },
+  "advancements.encounter_strampler.title": {
+    "en": "Strampling predator",
+    "zh": "遭遇缠击兽捕食者",
+    "vi": "Gặp phải kẻ săn mồi rình rập"
+  },
+  "effect.nethers_exorcism_reborn.instant_cure": {
+    "en": "Instant Cure",
+    "zh": "瞬间治疗",
+    "vi": "điều trị ngay lập tức"
+  },
+  "item.nethers_exorcism_reborn.basalt_crab_spawn_egg": {
+    "en": "Basalt Crab Spawn Egg",
+    "zh": "玄武岩蟹生成蛋",
+    "vi": "Basalt Crab Spawn Egg"
+  },
+  "block.nethers_exorcism_reborn.strampler_egg": {
+    "en": "Strampler Egg",
+    "zh": "缠击兽蛋",
+    "vi": "Strampler Egg"
+  },
+  "item.nethers_exorcism_reborn.toxic_bomb": {
+    "en": "Toxic Bomb",
+    "zh": "毒气弹",
+    "vi": "Toxic Bomb"
+  },
+  "advancements.ultimateshield.title": {
+    "en": "genetic abberation",
+    "zh": "基因变异",
+    "vi": "biến thể di truyền"
+  },
+  "biome.nethers_exorcism_reborn.dna_forest": {
+    "en": "Dna Forest",
+    "zh": "DNA森林",
+    "vi": "Rừng ADN"
+  },
+  "entity.nethers_exorcism_reborn.indigo_scyphozoa": {
+    "en": "Indigo Scyphozoa",
+    "zh": "靛蓝水母",
+    "vi": "Indigo Scyphozoa"
+  },
+  "advancements.obtainshield.title": {
+    "en": "genetic monstrosity shield",
+    "zh": "基因怪物之盾",
+    "vi": "Lá chắn quái vật gen"
+  },
+  "block.nethers_exorcism_reborn.indigo_button": {
+    "en": "Indigo Button",
+    "zh": "靛蓝按钮",
+    "vi": "Indigo Button"
+  },
+  "advancements.obtaineggstrampelr.descr": {
+    "en": "corrupt a sniffer egg with a strampler's heart",
+    "zh": "用缠击兽之心腐化嗅探者蛋",
+    "vi": "Làm hỏng quả trứng đánh hơi bằng trái tim của kẻ theo dõi"
+  },
+  "subtitles.screechstrampler": {
+    "en": "strampler screeching",
+    "zh": "缠击兽尖叫",
+    "vi": "Kẻ theo dõi hét lên"
+  },
+  "item.minecraft.lingering_potion.effect.short_glowing": {
+    "en": "Lingering Potion of Glowing",
+    "zh": "滞留型发光药水",
+    "vi": "Lingering Potion of Glowing"
+  },
+  "entity.nethers_exorcism_reborn.plantareaeffect": {
+    "en": "PlantareaEffect",
+    "zh": "植物区域效果",
+    "vi": "PlantareaEffect"
+  },
+  "block.nethers_exorcism_reborn.indigo_hyphae": {
+    "en": "Indigo Hyphae",
+    "zh": "靛蓝菌丝",
+    "vi": "Indigo Hyphae"
+  },
+  "block.nethers_exorcism_reborn.nest_roots": {
+    "en": "Nest Roots",
+    "zh": "巢穴树根",
+    "vi": "Nest Roots"
+  },
+  "item_group.nethers_exorcism_reborn.nethers_exorcism": {
+    "en": "Nethers Exorcism",
+    "zh": "下界驱邪",
+    "vi": "Trừ tà từ thế giới thấp hơn"
+  },
+  "item.nethers_exorcism_reborn.crab_helmet": {
+    "en": "Crab Shell Helmet",
+    "zh": "蟹壳头盔",
+    "vi": "Crab Shell Helmet"
+  },
+  "block.nethers_exorcism_reborn.indigo_door": {
+    "en": "Indigo Door",
+    "zh": "靛蓝门",
+    "vi": "Indigo Door"
+  },
+  "item.nethers_exorcism_reborn.brogg_spawn_egg": {
+    "en": "Brogg Spawn Egg",
+    "zh": "布罗格生成蛋",
+    "vi": "Brogg Spawn Egg"
+  },
+  "entity.nethers_exorcism_reborn.brogg": {
+    "en": "Brogg",
+    "zh": "布罗格",
+    "vi": "Brogg"
+  },
+  "entity.nethers_exorcism_reborn.tamed_strampler": {
+    "en": "Strampler",
+    "zh": "已驯服的缠击兽",
+    "vi": "Strampler"
+  },
+  "advancements.encountersalamander.descr": {
+    "en": "encounter an Indigo Salamander",
+    "zh": "遇到一只靛蓝蝾螈",
+    "vi": "Gặp phải một con kỳ nhông chàm"
+  },
+  "subtitles.strampler_idle": {
+    "en": "strampler grunt",
+    "zh": "缠击兽哼哼",
+    "vi": "Kẻ theo dõi càu nhàu"
+  },
+  "death.attack.radiation.player": {
+    "en": "%1$s radiated away whilst trying to escape %2$s",
+    "zh": "在试图逃离%2$s时，%1$s被辐射致死",
+    "vi": "Khi đang cố gắng thoát khỏi %2$s, %1$s đã bị nhiễm phóng xạ đến chết"
+  },
+  "block.nethers_exorcism_reborn.radiantcephalotusstage_2": {
+    "en": "Radiant Cephalotus Seed",
+    "zh": "发光捕虫堇种子",
+    "vi": "Radiant Cephalotus Seed"
+  },
+  "advancements.balooncraft.descr": {
+    "en": "craft a jelly balloon",
+    "zh": "制作一个果冻气球",
+    "vi": "Làm một quả bóng thạch"
+  },
+  "block.nethers_exorcism_reborn.small_radiant_shroom": {
+    "en": "Small Radiant Shroom",
+    "zh": "小型发光蘑菇",
+    "vi": "Small Radiant Shroom"
+  },
+  "item.minecraft.splash_potion.effect.glowing": {
+    "en": "Splash Potion of Glowing",
+    "zh": "喷溅型发光药水",
+    "vi": "Splash Potion of Glowing"
+  },
+  "item.nethers_exorcism_reborn.indigo_salamander_bucket": {
+    "en": "Indigo Salamander Bucket",
+    "zh": "靛蓝蝾螈桶",
+    "vi": "Indigo Salamander Bucket"
+  },
+  "block.nethers_exorcism_reborn.salamander_egg": {
+    "en": "Salamander Egg",
+    "zh": "蝾螈蛋",
+    "vi": "Salamander Egg"
+  },
+  "block.nethers_exorcism_reborn.indigo_wart_block": {
+    "en": "Indigo Wart Block",
+    "zh": "靛蓝疣块",
+    "vi": "Indigo Wart Block"
+  },
+  "item.nethers_exorcism_reborn.baby_salamnder_spawn_egg": {
+    "en": "Baby Indigo Salamander Spawn Egg",
+    "zh": "幼年靛蓝蝾螈生成蛋",
+    "vi": "Baby Indigo Salamander Spawn Egg"
+  },
+  "item.minecraft.splash_potion.effect.short_glowing": {
+    "en": "Splash Potion of Glowing",
+    "zh": "短效喷溅型发光药水",
+    "vi": "Splash Potion of Glowing"
+  },
+  "advancements.bucketasalamander.descr": {
+    "en": "Bucket an Indigo Salamander",
+    "zh": "用桶装起一只靛蓝蝾螈",
+    "vi": "Một con kỳ nhông chàm trong một cái xô"
+  },
+  "entity.nethers_exorcism_reborn.basalt_crab": {
+    "en": "Basalt Crab",
+    "zh": "玄武岩蟹",
+    "vi": "Basalt Crab"
+  },
+  "item.minecraft.potion.effect.instant_cure_potion": {
+    "en": "Potion of Instant Cure",
+    "zh": "瞬间治疗药水",
+    "vi": "Potion of Instant Cure"
+  },
+  "block.nethers_exorcism_reborn.indigo_stem": {
+    "en": "Indigo Stem",
+    "zh": "靛蓝茎",
+    "vi": "Indigo Stem"
+  },
+  "advancements.nether_exorcism.descr": {
+    "en": "Welcome To Nether Exorcism",
+    "zh": "欢迎来到下界驱邪",
+    "vi": "Chào mừng đến với thế giới địa ngục để xua đuổi tà ma"
+  },
+  "item.nethers_exorcism_reborn.brogg_rod": {
+    "en": "Brogg Rod",
+    "zh": "布罗格棒",
+    "vi": "Brogg Rod"
+  },
+  "entity.nethers_exorcism_reborn.indigo_salamander": {
+    "en": "Indigo Salamander",
+    "zh": "靛蓝蝾螈",
+    "vi": "Indigo Salamander"
+  },
+  "item.nethers_exorcism_reborn.tamed_strampler_spawn_egg": {
+    "en": "Strampler Spawn Egg",
+    "zh": "已驯服缠击兽生成蛋",
+    "vi": "Strampler Spawn Egg"
+  },
+  "block.nethers_exorcism_reborn.stripped_indigo_stem": {
+    "en": "Stripped Indigo Stem",
+    "zh": "去皮靛蓝茎",
+    "vi": "Stripped Indigo Stem"
+  },
+  "block.nethers_exorcism_reborn.indigo_nylium": {
+    "en": "Indigo Nylium",
+    "zh": "靛蓝菌丝土",
+    "vi": "Indigo Nylium"
+  },
+  "advancements.obtainheart.title": {
+    "en": "monstrous heart",
+    "zh": "怪物之心",
+    "vi": "trái tim quái vật"
+  },
+  "enchantment.nethers_exorcism_reborn.lasting_baloon": {
+    "en": "Lasting Baloon",
+    "zh": "持久气球魔法",
+    "vi": "Phép thuật bóng bay lâu dài"
+  },
+  "item.nethers_exorcism_reborn.cooked_indigo_salamander_tail": {
+    "en": "Cooked Indigo Salamander Tail",
+    "zh": "熟靛蓝蝾螈尾",
+    "vi": "Cooked Indigo Salamander Tail"
+  },
+  "item.nethers_exorcism_reborn.strampler_spawn_egg": {
+    "en": "Strampler Spawn Egg",
+    "zh": "缠击兽生成蛋",
+    "vi": "Strampler Spawn Egg"
+  },
+  "item.minecraft.tipped_arrow.effect.glowing": {
+    "en": "Arrow of Glowing",
+    "zh": "发光箭",
+    "vi": "mũi tên phát sáng"
+  },
+  "item.nethers_exorcism_reborn.indigo_scyphozoa_spawn_egg": {
+    "en": "Indigo Scyphozoa Spawn Egg",
+    "zh": "靛蓝水母生成蛋",
+    "vi": "Indigo Scyphozoa Spawn Egg"
+  },
+  "item.nethers_exorcism_reborn.jelly_baloon_item": {
+    "en": "Jelly Baloon",
+    "zh": "果冻气球",
+    "vi": "Jelly Baloon"
+  },
+  "advancements.ultimatebaloo.title": {
+    "en": "Ultimate Nether Air-bag",
+    "zh": "终极下界气囊",
+    "vi": "Túi khí Nether tối thượng"
+  },
+  "item.nethers_exorcism_reborn.raw_indigo_salamander_tail": {
+    "en": "Raw Indigo Salamander Tail",
+    "zh": "生靛蓝蝾螈尾",
+    "vi": "Raw Indigo Salamander Tail"
+  },
+  "block.nethers_exorcism_reborn.indigo_shroom_light": {
+    "en": "Indigo ShroomLight",
+    "zh": "靛蓝蘑菇灯",
+    "vi": "Indigo ShroomLight"
+  },
+  "advancements.encounterjellyfish.descr": {
+    "en": "kill an Indigo scyphozoa for its jelly",
+    "zh": "杀死一只靛蓝水母获取其果冻",
+    "vi": "Giết một con sứa chàm để lấy thạch của nó"
+  },
+  "block.nethers_exorcism_reborn.indigo_planks": {
+    "en": "Indigo Planks",
+    "zh": "靛蓝木板",
+    "vi": "Indigo Planks"
+  },
+  "entity.nethers_exorcism_reborn.baby_salamnder": {
+    "en": "Baby Indigo Salamander",
+    "zh": "幼年靛蓝蝾螈",
+    "vi": "Baby Indigo Salamander"
+  },
+  "advancements.encountersalamander.title": {
+    "en": "off to see the Lizard",
+    "zh": "去见蜥蜴",
+    "vi": "đi gặp thằn lằn"
+  },
+  "gui.nethers_exorcism_reborn.timebaloon.label_timer": {
+    "en": "Timer",
+    "zh": "计时器",
+    "vi": "hẹn giờ"
+  },
+  "advancements.killsalamander.title": {
+    "en": "does NOT taste good",
+    "zh": "味道不好",
+    "vi": "có vị rất tệ"
+  },
+  "advancements.eatcookedsalamander.title": {
+    "en": "Curative meal",
+    "zh": "治愈之餐",
+    "vi": "bữa ăn chữa bệnh"
+  },
+  "item.nethers_exorcism_reborn.aerea_effetct_spawn_egg": {
+    "en": "areaEffect Spawn Egg",
+    "zh": "区域效果生成蛋",
+    "vi": "areaEffect Spawn Egg"
+  },
+  "subtitles.strampler_hurt": {
+    "en": "strampler hurt",
+    "zh": "缠击兽受伤",
+    "vi": "Kẻ theo dõi bị thương"
+  },
+  "item.minecraft.splash_potion.effect.instant_cure_weak": {
+    "en": "Splash Potion of Weaker Instant Cure",
+    "zh": "弱效瞬间治疗喷溅药水",
+    "vi": "Splash Potion of Weaker Instant Cure"
+  },
+  "entity.nethers_exorcism_reborn.jelly_baloon": {
+    "en": "Jelly Baloon",
+    "zh": "果冻气球实体",
+    "vi": "Jelly Baloon"
+  },
+  "item.nethers_exorcism_reborn.cooked_salamander_tail_slice": {
+    "en": "Cooked Indigo Salamander Tail Slice",
+    "zh": "熟靛蓝蝾螈尾切片",
+    "vi": "Cooked Indigo Salamander Tail Slice"
+  },
+  "item.nethers_exorcism_reborn.baby_strampler_spawn_egg": {
+    "en": "Baby passive Strampler Spawn Egg",
+    "zh": "幼年被动缠击兽生成蛋",
+    "vi": "Baby passive Strampler Spawn Egg"
+  },
+  "item.nethers_exorcism_reborn.strampler_horn": {
+    "en": "Strampler Horn",
+    "zh": "缠击兽角",
+    "vi": "Strampler Horn"
+  },
+  "advancements.enter_dna_forest.descr": {
+    "en": "enter The DNA Forest",
+    "zh": "进入DNA森林",
+    "vi": "Tiến vào rừng DNA"
+  },
+  "subtitles.strampler_death": {
+    "en": "strampler dies",
+    "zh": "缠击兽死亡",
+    "vi": "Cái chết của kẻ theo dõi"
+  },
+  "advancements.obtaineggstrampelr.title": {
+    "en": "genetical modified egg",
+    "zh": "基因改造蛋",
+    "vi": "trứng biến đổi gen"
+  },
+  "subtitles.geiger_tick": {
+    "en": "geiger counter ticks",
+    "zh": "盖革计数器滴答声",
+    "vi": "Âm thanh tích tắc của máy đếm Geiger"
+  },
+  "item.nethers_exorcism_reborn.crab_shell_fragment": {
+    "en": "Crab Shell Fragment",
+    "zh": "蟹壳碎片",
+    "vi": "Crab Shell Fragment"
+  },
+  "enchantment.nethers_exorcism_reborn.genetic_anomally": {
+    "en": "Genetic Anomally",
+    "zh": "基因异常",
+    "vi": "bất thường di truyền"
+  },
+  "item.minecraft.lingering_potion.effect.instant_cure_potion": {
+    "en": "Lingering Potion of Instant Cure",
+    "zh": "滞留型瞬间治疗药水",
+    "vi": "Lingering Potion of Instant Cure"
+  },
+  "block.nethers_exorcism_reborn.indigo_pressure_plate": {
+    "en": "Indigo Pressure Plate",
+    "zh": "靛蓝压力板",
+    "vi": "Indigo Pressure Plate"
+  }
+}

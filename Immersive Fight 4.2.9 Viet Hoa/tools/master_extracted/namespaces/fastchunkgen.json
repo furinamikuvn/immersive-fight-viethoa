@@ -1,0 +1,362 @@
+{
+  "fastchunkgen.options.page": {
+    "en": "FastChunkGen",
+    "zh": "C2ME",
+    "vi": "C2ME"
+  },
+  "fastchunkgen.option.globalExecutorParallelism": {
+    "en": "Worker Threads",
+    "zh": "工作线程数",
+    "vi": "Số lượng chủ đề công nhân"
+  },
+  "fastchunkgen.option.globalExecutorParallelism.tooltip": {
+    "en": "Worker threads used for chunk generation and IO.",
+    "zh": "用于区块生成和 I/O 的工作线程数量。",
+    "vi": "Số lượng luồng công việc được sử dụng để tạo khối và I/O."
+  },
+  "fastchunkgen.option.threadedWorldGen.enabled": {
+    "en": "Threaded World Generation",
+    "zh": "多线程世界生成",
+    "vi": "Thế hệ đa luồng"
+  },
+  "fastchunkgen.option.threadedWorldGen.enabled.tooltip": {
+    "en": "Generate chunks on multiple threads.",
+    "zh": "使用多个线程并行生成区块。",
+    "vi": "Sử dụng nhiều luồng để tạo các khối song song."
+  },
+  "fastchunkgen.option.threadedWorldGen.allowThreadedFeatures": {
+    "en": "Threaded Features",
+    "zh": "多线程地物生成",
+    "vi": "Tạo địa hình đa luồng"
+  },
+  "fastchunkgen.option.threadedWorldGen.allowThreadedFeatures.tooltip": {
+    "en": "Generate features like trees, ores and structures in parallel.",
+    "zh": "并行生成树木、矿石和结构等地物。",
+    "vi": "Tạo song song các tính năng như cây cối, quặng và công trình."
+  },
+  "fastchunkgen.option.threadedWorldGen.reduceLockRadius": {
+    "en": "Reduced Lock Radius",
+    "zh": "缩减锁定半径",
+    "vi": "Giảm bán kính khóa"
+  },
+  "fastchunkgen.option.threadedWorldGen.reduceLockRadius.tooltip": {
+    "en": "Lock fewer neighbouring chunks per generation step for more parallelism.",
+    "zh": "每次生成步骤锁定的相邻区块更少，以提高并行度。",
+    "vi": "Ít khối liền kề hơn bị khóa trên mỗi bước thế hệ để tăng tính song song."
+  },
+  "fastchunkgen.option.threadedWorldGen.asyncScheduling": {
+    "en": "Async Scheduling",
+    "zh": "异步调度",
+    "vi": "Lập lịch không đồng bộ"
+  },
+  "fastchunkgen.option.threadedWorldGen.asyncScheduling.tooltip": {
+    "en": "Schedule generation tasks off the server thread.",
+    "zh": "在服务端主线程之外调度生成任务。",
+    "vi": "Lên lịch các tác vụ xây dựng bên ngoài luồng chính của máy chủ."
+  },
+  "fastchunkgen.option.threadedLighting.enabled": {
+    "en": "Threaded Lighting",
+    "zh": "多线程光照",
+    "vi": "Chiếu sáng đa luồng"
+  },
+  "fastchunkgen.option.threadedLighting.enabled.tooltip": {
+    "en": "Run light updates on a dedicated thread.",
+    "zh": "在专用线程上执行光照更新。",
+    "vi": "Thực hiện cập nhật ánh sáng trên một chuỗi chuyên dụng."
+  },
+  "fastchunkgen.option.ioSystem.async": {
+    "en": "Async Chunk IO",
+    "zh": "异步区块 I/O",
+    "vi": "Khối I/O không đồng bộ"
+  },
+  "fastchunkgen.option.ioSystem.async.tooltip": {
+    "en": "Load and unload chunks off the server thread.",
+    "zh": "在服务端主线程之外加载和卸载区块。",
+    "vi": "Tải và dỡ bỏ các đoạn bên ngoài luồng chính của máy chủ."
+  },
+  "fastchunkgen.option.ioSystem.replaceImpl": {
+    "en": "Rewritten IO",
+    "zh": "重写 I/O 实现",
+    "vi": "Viết lại việc triển khai I/O"
+  },
+  "fastchunkgen.option.ioSystem.replaceImpl.tooltip": {
+    "en": "Use the rewritten chunk IO implementation.",
+    "zh": "使用重写的区块 I/O 实现。",
+    "vi": "Sử dụng triển khai I/O khối được viết lại."
+  },
+  "fastchunkgen.option.ioSystem.optimizations": {
+    "en": "Chunk IO Optimizations",
+    "zh": "区块 I/O 优化",
+    "vi": "Chặn tối ưu hóa I/O"
+  },
+  "fastchunkgen.option.ioSystem.optimizations.tooltip": {
+    "en": "Enable chunk IO optimizations.",
+    "zh": "启用区块 I/O 相关优化。",
+    "vi": "Cho phép tối ưu hóa liên quan đến khối I/O."
+  },
+  "fastchunkgen.option.ioSystem.serializeBlockEntitiesOnMainThread": {
+    "en": "Safe Block Entity Saving",
+    "zh": "安全方块实体保存",
+    "vi": "Lưu thực thể khối an toàn"
+  },
+  "fastchunkgen.option.ioSystem.serializeBlockEntitiesOnMainThread.tooltip": {
+    "en": "Snapshot block entity data on the server thread. Turning this off is faster but can corrupt modded block entities.",
+    "zh": "在服务端线程上快照方块实体数据。关闭后速度更快，但可能导致模组方块实体损坏。",
+    "vi": "Dữ liệu thực thể chặn ảnh chụp nhanh trên luồng máy chủ. Tắt nó sẽ nhanh hơn nhưng có thể gây ra thiệt hại vật lý cho khối mod."
+  },
+  "fastchunkgen.option.ioSystem.fireForgeChunkDataEvents": {
+    "en": "Fire Chunk Data Events",
+    "zh": "触发区块数据事件",
+    "vi": "Sự kiện dữ liệu khối kích hoạt"
+  },
+  "fastchunkgen.option.ioSystem.fireForgeChunkDataEvents.tooltip": {
+    "en": "Fire Forge ChunkDataEvent.Save on async saves. Off means mods lose per-chunk data.",
+    "zh": "在异步保存时触发 Forge 的 ChunkDataEvent.Save 事件。关闭后模组将丢失每区块的数据。",
+    "vi": "Sự kiện ChunkDataEvent.Save của Forge được kích hoạt khi lưu không đồng bộ. Sau khi đóng module sẽ mất dữ liệu của từng khối."
+  },
+  "fastchunkgen.option.ioSystem.forgeChunkDataEventsOnMainThread": {
+    "en": "Chunk Data Events On Server Thread",
+    "zh": "服务端线程触发区块数据事件",
+    "vi": "Chuỗi máy chủ kích hoạt sự kiện dữ liệu khối"
+  },
+  "fastchunkgen.option.ioSystem.forgeChunkDataEventsOnMainThread.tooltip": {
+    "en": "Fire Forge chunk data events on the server thread. Off is unsafe for most mods.",
+    "zh": "在服务端线程上触发 Forge 区块数据事件。关闭后对大多数模组不安全。",
+    "vi": "Kích hoạt sự kiện dữ liệu khối Forge trên luồng máy chủ. Không an toàn cho hầu hết các mod khi tắt."
+  },
+  "fastchunkgen.option.ioSystem.chunkDataCacheSoftLimit": {
+    "en": "Chunk Cache Soft Limit",
+    "zh": "区块缓存软上限",
+    "vi": "Chặn phần mềm bộ nhớ đệm"
+  },
+  "fastchunkgen.option.ioSystem.chunkDataCacheSoftLimit.tooltip": {
+    "en": "Cached chunk writes before flushing to disk starts.",
+    "zh": "开始强制刷盘前可缓存的区块写入数量。",
+    "vi": "Số lượng khối ghi có thể được lưu vào bộ đệm trước khi bắt đầu xóa cưỡng bức."
+  },
+  "fastchunkgen.option.ioSystem.chunkDataCacheLimit": {
+    "en": "Chunk Cache Hard Limit",
+    "zh": "区块缓存硬上限",
+    "vi": "Chặn nắp cứng bộ đệm"
+  },
+  "fastchunkgen.option.ioSystem.chunkDataCacheLimit.tooltip": {
+    "en": "Hard cap on cached chunk writes.",
+    "zh": "可缓存区块写入数量的硬性上限。",
+    "vi": "Giới hạn trên cứng về số lượng khối có thể ghi trong bộ nhớ đệm."
+  },
+  "fastchunkgen.option.ioSystem.chunkStreamVersion": {
+    "en": "Chunk Compression",
+    "zh": "区块压缩方式",
+    "vi": "Phương pháp nén khối"
+  },
+  "fastchunkgen.option.ioSystem.chunkStreamVersion.tooltip": {
+    "en": "Compression for newly saved chunks. -1 vanilla, 1 GZip, 2 Zlib, 3 none.",
+    "zh": "新保存区块使用的压缩方式。-1=原版，1=GZip，2=Zlib，3=无压缩。",
+    "vi": "Phương pháp nén được sử dụng cho các đoạn mới được lưu. -1=Bản gốc, 1=GZip, 2=Zlib, 3=Không nén."
+  },
+  "fastchunkgen.option.generalOptimizations.optimizeScheduling": {
+    "en": "Optimize Scheduling",
+    "zh": "优化任务调度",
+    "vi": "Tối ưu hóa lịch trình công việc"
+  },
+  "fastchunkgen.option.generalOptimizations.optimizeScheduling.tooltip": {
+    "en": "Optimize chunk task scheduling.",
+    "zh": "优化区块任务的调度逻辑。",
+    "vi": "Tối ưu hóa logic lập kế hoạch của các nhiệm vụ khối."
+  },
+  "fastchunkgen.option.generalOptimizations.optimizeAsyncChunkRequest": {
+    "en": "Async Chunk Requests",
+    "zh": "异步区块请求",
+    "vi": "Yêu cầu khối không đồng bộ"
+  },
+  "fastchunkgen.option.generalOptimizations.optimizeAsyncChunkRequest.tooltip": {
+    "en": "Serve off-thread chunk requests without blocking the server thread.",
+    "zh": "在不阻塞服务端主线程的情况下响应跨线程区块请求。",
+    "vi": "Trả lời các yêu cầu chặn xuyên luồng mà không chặn luồng chính của máy chủ."
+  },
+  "fastchunkgen.option.generalOptimizations.reduceAllocations": {
+    "en": "Reduce Allocations",
+    "zh": "减少内存分配",
+    "vi": "Giảm phân bổ bộ nhớ"
+  },
+  "fastchunkgen.option.generalOptimizations.reduceAllocations.tooltip": {
+    "en": "Reduce allocations in hot paths.",
+    "zh": "减少热点代码路径中的对象分配。",
+    "vi": "Giảm phân bổ đối tượng trong đường dẫn mã điểm phát sóng."
+  },
+  "fastchunkgen.option.generalOptimizations.overrideModernFixWorldGenAllocations": {
+    "en": "Override ModernFix Allocations",
+    "zh": "覆盖 ModernFix 分配优化",
+    "vi": "Ghi đè tối ưu hóa phân bổ ModernFix"
+  },
+  "fastchunkgen.option.generalOptimizations.overrideModernFixWorldGenAllocations.tooltip": {
+    "en": "Apply our world generation allocation patches ahead of ModernFix's equivalent ones.",
+    "zh": "在世界生成阶段优先应用本模组的分配优化补丁。",
+    "vi": "Ưu tiên áp dụng các bản vá tối ưu hóa phân phối của mod này trong giai đoạn tạo thế giới."
+  },
+  "fastchunkgen.option.generalOptimizations.midTickChunkTasksInterval": {
+    "en": "Mid Tick Chunk Tasks",
+    "zh": "Tick 中执行区块任务",
+    "vi": "Thực hiện các tác vụ khối trong Tick"
+  },
+  "fastchunkgen.option.generalOptimizations.midTickChunkTasksInterval.tooltip": {
+    "en": "Nanoseconds between chunk tasks run inside the tick loop.",
+    "zh": "Tick 循环内执行区块任务的时间间隔（纳秒）。",
+    "vi": "Khoảng thời gian (nano giây) để thực hiện các tác vụ khối trong vòng lặp Tick."
+  },
+  "fastchunkgen.option.generalOptimizations.autoSave.mode": {
+    "en": "Auto Save Mode",
+    "zh": "自动保存模式",
+    "vi": "chế độ lưu tự động"
+  },
+  "fastchunkgen.option.generalOptimizations.autoSave.mode.tooltip": {
+    "en": "Vanilla saves every tick, Enhanced saves during idle time, Periodic saves every 6000 ticks.",
+    "zh": "原版模式每 Tick 保存；增强模式在空闲时保存；周期模式每 6000 Tick 保存一次。",
+    "vi": "Chế độ gốc lưu mọi Tick; chế độ nâng cao tiết kiệm khi không hoạt động; chế độ định kỳ tiết kiệm cứ sau 6000 Ticks."
+  },
+  "fastchunkgen.option.generalOptimizations.autoSave.delay": {
+    "en": "Auto Save Delay",
+    "zh": "自动保存延迟",
+    "vi": "Độ trễ tự động lưu"
+  },
+  "fastchunkgen.option.generalOptimizations.autoSave.delay.tooltip": {
+    "en": "Milliseconds before a dirty chunk is auto-saved. Enhanced mode only.",
+    "zh": "脏区块自动保存前的延迟时间（毫秒），仅增强模式有效。",
+    "vi": "Thời gian trễ (mili giây) trước khi các khối bẩn được lưu tự động, chỉ hợp lệ ở chế độ nâng cao."
+  },
+  "fastchunkgen.option.vanillaWorldGenOptimizations.enabled": {
+    "en": "Vanilla World Gen Optimizations",
+    "zh": "原版世界生成优化",
+    "vi": "Tối ưu hóa thế hệ gốc"
+  },
+  "fastchunkgen.option.vanillaWorldGenOptimizations.enabled.tooltip": {
+    "en": "Optimize vanilla world generation.",
+    "zh": "优化原版世界生成流程。",
+    "vi": "Tối ưu hóa quá trình tạo thế giới ban đầu."
+  },
+  "fastchunkgen.option.vanillaWorldGenOptimizations.optimizeAquifer": {
+    "en": "Faster Aquifers",
+    "zh": "加速含水层计算",
+    "vi": "Tăng tốc tính toán tầng chứa nước"
+  },
+  "fastchunkgen.option.vanillaWorldGenOptimizations.optimizeAquifer.tooltip": {
+    "en": "Faster aquifer sampling.",
+    "zh": "加快含水层的采样计算。",
+    "vi": "Tăng tốc độ tính toán lấy mẫu tầng ngậm nước."
+  },
+  "fastchunkgen.option.vanillaWorldGenOptimizations.useEndBiomeCache": {
+    "en": "End Biome Cache",
+    "zh": "末地生物群系缓存",
+    "vi": "Kết thúc bộ đệm quần xã"
+  },
+  "fastchunkgen.option.vanillaWorldGenOptimizations.useEndBiomeCache.tooltip": {
+    "en": "Cache End biome lookups.",
+    "zh": "缓存末地生物群系的查询结果。",
+    "vi": "Kết quả truy vấn bộ đệm cho quần xã sinh vật cuối."
+  },
+  "fastchunkgen.option.vanillaWorldGenOptimizations.optimizeRandomInstances": {
+    "en": "Cheaper Random Instances",
+    "zh": "轻量随机实例",
+    "vi": "Trường hợp ngẫu nhiên nhẹ"
+  },
+  "fastchunkgen.option.vanillaWorldGenOptimizations.optimizeRandomInstances.tooltip": {
+    "en": "Cheaper random instances during world generation.",
+    "zh": "在世界生成期间使用更低开销的随机数实例。",
+    "vi": "Sử dụng các phiên bản số ngẫu nhiên có chi phí thấp hơn trong quá trình tạo thế giới."
+  },
+  "fastchunkgen.option.fixes.generalThreadingIssues": {
+    "en": "Chunk System Thread Fixes",
+    "zh": "区块系统线程修复",
+    "vi": "Chặn sửa chữa chủ đề hệ thống"
+  },
+  "fastchunkgen.option.fixes.generalThreadingIssues.tooltip": {
+    "en": "Fix thread-safety issues in the vanilla chunk system.",
+    "zh": "修复原版区块系统中的线程安全问题。",
+    "vi": "Đã khắc phục sự cố an toàn luồng trong hệ thống khối ban đầu."
+  },
+  "fastchunkgen.option.fixes.chunkIoThreadingIssues": {
+    "en": "Chunk IO Thread Fixes",
+    "zh": "区块 I/O 线程修复",
+    "vi": "Chặn sửa lỗi luồng I/O"
+  },
+  "fastchunkgen.option.fixes.chunkIoThreadingIssues.tooltip": {
+    "en": "Fix thread-safety issues in vanilla chunk IO.",
+    "zh": "修复原版区块 I/O 中的线程安全问题。",
+    "vi": "Khắc phục sự cố an toàn luồng trong I/O khối vanilla."
+  },
+  "fastchunkgen.option.fixes.worldGenThreadingIssues": {
+    "en": "World Gen Thread Fixes",
+    "zh": "世界生成线程修复",
+    "vi": "Sửa chủ đề thế hệ"
+  },
+  "fastchunkgen.option.fixes.worldGenThreadingIssues.tooltip": {
+    "en": "Fix thread-safety issues in vanilla world generation. Required by threaded world generation.",
+    "zh": "修复原版世界生成的线程安全问题，多线程世界生成必需。",
+    "vi": "Đã khắc phục sự cố an toàn luồng trong quá trình tạo thế giới gốc, cần thiết cho việc tạo thế giới đa luồng."
+  },
+  "fastchunkgen.option.fixes.vanillaWorldGenBugs": {
+    "en": "Vanilla World Gen Bug Fixes",
+    "zh": "原版世界生成 Bug 修复",
+    "vi": "Sửa lỗi thế hệ gốc"
+  },
+  "fastchunkgen.option.fixes.vanillaWorldGenBugs.tooltip": {
+    "en": "Fix vanilla world generation bugs.",
+    "zh": "修复原版世界生成中的已知 Bug。",
+    "vi": "Đã sửa các lỗi đã biết trong quá trình tạo thế giới vanilla."
+  },
+  "fastchunkgen.option.fixes.disableLoggingShutdownHook": {
+    "en": "Faster Shutdown",
+    "zh": "加快服务器关闭",
+    "vi": "Tăng tốc độ tắt máy chủ"
+  },
+  "fastchunkgen.option.fixes.disableLoggingShutdownHook.tooltip": {
+    "en": "Remove the log4j2 shutdown hook and force exit if a dedicated server hangs.",
+    "zh": "移除 log4j2 的关闭钩子，并在专用服务器卡死时强制退出。",
+    "vi": "Loại bỏ móc tắt log4j2 và buộc thoát nếu máy chủ chuyên dụng bị treo."
+  },
+  "fastchunkgen.option.fixes.enforceSafeWorldRandomAccess": {
+    "en": "Strict Random Access",
+    "zh": "严格随机数访问检查",
+    "vi": "Kiểm tra truy cập số ngẫu nhiên nghiêm ngặt"
+  },
+  "fastchunkgen.option.fixes.enforceSafeWorldRandomAccess.tooltip": {
+    "en": "Crash instead of warn when something uses the world random off-thread. For debugging.",
+    "zh": "当非主线程使用世界随机数时直接崩溃而非警告，用于调试。",
+    "vi": "Khi một luồng không chính sử dụng số ngẫu nhiên trên thế giới, nó sẽ gặp sự cố trực tiếp thay vì cảnh báo để gỡ lỗi."
+  },
+  "fastchunkgen.option.ioSystem.gcFreeChunkSerializer": {
+    "en": "GC Free Chunk Serializer",
+    "zh": "无 GC 区块序列化器",
+    "vi": "Trình tuần tự hóa khối không có GC"
+  },
+  "fastchunkgen.option.ioSystem.gcFreeChunkSerializer.tooltip": {
+    "en": "Allocation free chunk writer. Cannot fire Forge chunk data events, so mods lose per-chunk data.",
+    "zh": "无额外内存分配的区块写入器。无法触发 Forge 区块数据事件，模组将丢失每区块的数据。",
+    "vi": "Trình ghi khối không có phân bổ bộ nhớ bổ sung. Sự kiện dữ liệu khối Forge không thể được kích hoạt và Mod sẽ mất dữ liệu trên mỗi khối."
+  },
+  "fastchunkgen.option.ioSystem.recoverFromErrors": {
+    "en": "Recover From Errors",
+    "zh": "从错误中恢复",
+    "vi": "Khôi phục từ lỗi"
+  },
+  "fastchunkgen.option.ioSystem.recoverFromErrors.tooltip": {
+    "en": "Regenerate chunks that fail to load. Destroys their contents.",
+    "zh": "重新生成加载失败的区块，原有内容将被销毁。",
+    "vi": "Các khối không tải được sẽ được tạo lại và nội dung gốc sẽ bị hủy."
+  },
+  "fastchunkgen.option.generalOptimizations.autoSave.mode.VANILLA": {
+    "en": "Vanilla",
+    "zh": "原版",
+    "vi": "nguyên bản"
+  },
+  "fastchunkgen.option.generalOptimizations.autoSave.mode.ENHANCED": {
+    "en": "Enhanced",
+    "zh": "增强",
+    "vi": "Nâng cao"
+  },
+  "fastchunkgen.option.generalOptimizations.autoSave.mode.PERIODIC": {
+    "en": "Periodic",
+    "zh": "周期",
+    "vi": "xe đạp"
+  }
+}

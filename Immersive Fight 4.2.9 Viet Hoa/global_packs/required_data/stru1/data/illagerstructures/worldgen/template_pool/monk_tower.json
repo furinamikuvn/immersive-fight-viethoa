@@ -1,0 +1,15 @@
+{
+    "name": "illagerstructures:monk_tower",
+    "fallback": "minecraft:empty",
+    "elements": [
+        {
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "processors": "minecraft:empty",
+                "projection": "rigid",
+                "location": "illagerstructures:monk_tower"
+            },
+            "weight": 1
+        }
+    ]
+}

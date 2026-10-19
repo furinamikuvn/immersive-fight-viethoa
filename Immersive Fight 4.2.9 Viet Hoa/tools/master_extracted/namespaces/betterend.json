@@ -1,0 +1,5097 @@
+{
+  "advancements.betterend.aeternium_anvil.description": {
+    "en": "Craft an Aeternium Anvil",
+    "zh": "合成太古合金砧",
+    "vi": "Đe hợp kim Taikoo tổng hợp"
+  },
+  "advancements.betterend.aeternium_anvil.title": {
+    "en": "The End of all Smithing",
+    "zh": "锻造之终末",
+    "vi": "Sự kết thúc của rèn"
+  },
+  "advancements.betterend.aeternium_armor.description": {
+    "en": "Get hold of any Aeternium Armor Piece",
+    "zh": "获得任意太古合金盔甲部件",
+    "vi": "Nhận bất kỳ bộ phận áo giáp hợp kim cổ xưa nào"
+  },
+  "advancements.betterend.aeternium_armor.title": {
+    "en": "Tough as can be",
+    "zh": "坚益求坚",
+    "vi": "Hãy mạnh mẽ và mạnh mẽ"
+  },
+  "advancements.betterend.aeternium_hammer.description": {
+    "en": "Assemble an Aeternium Hammer",
+    "zh": "组装太古合金锻锤",
+    "vi": "Lắp ráp búa rèn hợp kim Taikoo"
+  },
+  "advancements.betterend.aeternium_hammer.title": {
+    "en": "A Good Hammer",
+    "zh": "一柄好锤",
+    "vi": "Một cái búa tốt"
+  },
+  "advancements.betterend.aeternium_hammer_head.description": {
+    "en": "Craft an Aeternium Hammer Head",
+    "zh": "合成太古合金锻锤头部",
+    "vi": "Đầu búa rèn hợp kim Taikoo tổng hợp"
+  },
+  "advancements.betterend.aeternium_hammer_head.title": {
+    "en": "Top of all Hammers",
+    "zh": "众锤之首",
+    "vi": "Trước hết là búa"
+  },
+  "advancements.betterend.aeternium_plate.description": {
+    "en": "Forge an Aeternium Plate",
+    "zh": "锻造一块太古合金锻板",
+    "vi": "Rèn một mảnh tấm rèn hợp kim Taikoo"
+  },
+  "advancements.betterend.aeternium_plate.title": {
+    "en": "Tough Plating",
+    "zh": "坚实护板",
+    "vi": "bảo vệ vững chắc"
+  },
+  "advancements.betterend.aeternium_tool.description": {
+    "en": "Assemble a Aeternium Tool or Sword",
+    "zh": "组装太古合金工具或武器",
+    "vi": "Lắp ráp công cụ hoặc vũ khí Taikool"
+  },
+  "advancements.betterend.aeternium_tool.title": {
+    "en": "Aeternium Assemble",
+    "zh": "太古组装",
+    "vi": "Hội Taikoo"
+  },
+  "advancements.betterend.aeternium_tool_head.description": {
+    "en": "Find or Craft a Aeternium Tool Head",
+    "zh": "找到或合成一个太古合金工具头部",
+    "vi": "Tìm hoặc chế tạo Đầu công cụ Taikool"
+  },
+  "advancements.betterend.aeternium_tool_head.title": {
+    "en": "Top of all Tools",
+    "zh": "万器之首",
+    "vi": "Vũ khí đầu tiên"
+  },
+  "advancements.betterend.all_elytras.description": {
+    "en": "Own all Elytra variants",
+    "zh": "拥有所有鞘翅变种",
+    "vi": "Có tất cả các biến thể elytra"
+  },
+  "advancements.betterend.all_elytras.title": {
+    "en": "Airshow",
+    "zh": "航展",
+    "vi": "triển lãm hàng không"
+  },
+  "advancements.betterend.all_the_biomes.description": {
+    "en": "Visit all BetterEnd Biomes",
+    "zh": "造访所有更好的末地群系",
+    "vi": "Ghé thăm tất cả các quần xã sinh vật tốt hơn"
+  },
+  "advancements.betterend.all_the_biomes.title": {
+    "en": "A New Ending",
+    "zh": "新终点",
+    "vi": "điểm cuối mới"
+  },
+  "advancements.betterend.all_the_templates.description": {
+    "en": "Find all Smithing Templates",
+    "zh": "找到所有锻造模板",
+    "vi": "Tìm tất cả các mẫu rèn"
+  },
+  "advancements.betterend.all_the_templates.title": {
+    "en": "End Smith",
+    "zh": "末地锻造师",
+    "vi": "thợ rèn"
+  },
+  "advancements.betterend.enter_end.description": {
+    "en": "Discover the BetterEnd",
+    "zh": "探索更好的末地",
+    "vi": "Khám phá một kết thúc tốt hơn"
+  },
+  "advancements.betterend.enter_end.title": {
+    "en": "Face the Void",
+    "zh": "直面虚空",
+    "vi": "Đối diện với hư không"
+  },
+  "advancements.betterend.hammer.description": {
+    "en": "Get a Hammer, any Hammer",
+    "zh": "获得一柄锻锤，什么锻锤都行",
+    "vi": "Lấy một cái búa rèn, búa rèn nào cũng được"
+  },
+  "advancements.betterend.hammer.title": {
+    "en": "Hammered",
+    "zh": "锤击",
+    "vi": "sự đập búa"
+  },
+  "advancements.betterend.infusion.description": {
+    "en": "Obtain an Infusion Pedestal",
+    "zh": "获得灌注基座",
+    "vi": "Lấy cơ sở truyền dịch"
+  },
+  "advancements.betterend.infusion.title": {
+    "en": "Old Rituals",
+    "zh": "古老的仪式",
+    "vi": "nghi lễ cổ xưa"
+  },
+  "advancements.betterend.infusion_finished.description": {
+    "en": "Be close to an Infusion Ritual when it is finished",
+    "zh": "当灌注仪式结束时靠近",
+    "vi": "Tiếp cận khi nghi lễ truyền máu kết thúc"
+  },
+  "advancements.betterend.infusion_finished.title": {
+    "en": "Neverending Magic",
+    "zh": "永不消逝的魔法",
+    "vi": "Phép thuật không bao giờ phai nhạt"
+  },
+  "advancements.betterend.portal.description": {
+    "en": "Discover a portal lost for eternity",
+    "zh": "探索在永恒中失落的传送门",
+    "vi": "Khám phá một cánh cổng bị mất trong cõi vĩnh hằng"
+  },
+  "advancements.betterend.portal.title": {
+    "en": "On Eternal Paths",
+    "zh": "在永恒的小路上",
+    "vi": "trên con đường vĩnh cửu"
+  },
+  "advancements.betterend.portal_on.description": {
+    "en": "Light an eternal Portal",
+    "zh": "点亮一个永恒传送门",
+    "vi": "Thắp sáng cánh cổng vĩnh cửu"
+  },
+  "advancements.betterend.portal_on.title": {
+    "en": "Eternal Light",
+    "zh": "永恒之光",
+    "vi": "ánh sáng vĩnh cửu"
+  },
+  "advancements.betterend.portal_travel.description": {
+    "en": "Travel on ancient paths and use an eternal portal",
+    "zh": "使用永恒传送门来寻访远古的道路",
+    "vi": "Sử dụng Cổng vĩnh cửu để khám phá những con đường cổ xưa"
+  },
+  "advancements.betterend.portal_travel.title": {
+    "en": "Eternal Ways",
+    "zh": "永恒之道",
+    "vi": "con đường vĩnh cửu"
+  },
+  "advancements.betterend.root.description": {
+    "en": "Enter a world that has a better End",
+    "zh": "进入一个拥有更好的末地的世界",
+    "vi": "Bước vào một thế giới có kết thúc tốt đẹp hơn"
+  },
+  "advancements.betterend.root.title": {
+    "en": "BetterEnd",
+    "zh": "更好的末地",
+    "vi": "Một kết thúc tốt hơn"
+  },
+  "advancements.betterend.terminite_anvil.description": {
+    "en": "Craft a Terminite Anvil",
+    "zh": "合成终末合金砧",
+    "vi": "Đe hợp kim tổng hợp cuối cùng"
+  },
+  "advancements.betterend.terminite_anvil.title": {
+    "en": "Terminite Smithing",
+    "zh": "终末合金锻造",
+    "vi": "Rèn hợp kim cuối cùng"
+  },
+  "advancements.betterend.terminite_armor.description": {
+    "en": "Get hold of any Terminite Armor Piece",
+    "zh": "获得任意终末合金盔甲部件",
+    "vi": "Nhận bất kỳ phần áo giáp Terminus nào"
+  },
+  "advancements.betterend.terminite_armor.title": {
+    "en": "Shining with Terminite",
+    "zh": "终末合金的光芒",
+    "vi": "Ánh sáng của hợp kim đầu cuối"
+  },
+  "advancements.betterend.terminite_plate.description": {
+    "en": "Forge a Terminite Plate on an anvil",
+    "zh": "在铁砧上锻造终末合金锻板",
+    "vi": "Rèn tấm rèn hợp kim cuối cùng trên đe"
+  },
+  "advancements.betterend.terminite_plate.title": {
+    "en": "Plated Terminite",
+    "zh": "终末合金板",
+    "vi": "Tấm hợp kim cuối cùng"
+  },
+  "advancements.betterend.terminite_tool.description": {
+    "en": "Assemble a Terminite Tool or Sword",
+    "zh": "组装终末合金工具或武器",
+    "vi": "Lắp ráp một công cụ hoặc vũ khí hợp kim đầu cuối"
+  },
+  "advancements.betterend.terminite_tool.title": {
+    "en": "Terminite Tooling",
+    "zh": "终末合金工具",
+    "vi": "Công cụ hợp kim cuối cùng"
+  },
+  "advancements.betterend.terminite_tool_head.description": {
+    "en": "Find or Craft a Terminite Tool Head",
+    "zh": "找到或合成一个终末合金工具头部",
+    "vi": "Tìm hoặc chế tạo Đầu công cụ hợp kim đầu cuối"
+  },
+  "advancements.betterend.terminite_tool_head.title": {
+    "en": "Head over Terminite",
+    "zh": "终末合金之旅的开头",
+    "vi": "Sự khởi đầu của cuộc hành trình kim loại cuối cùng"
+  },
+  "advancements.betterend.thallasium_anvil.description": {
+    "en": "Craft a Thallasium Anvil",
+    "zh": "合成塔拉斯金砧",
+    "vi": "Đe vàng Talas tổng hợp"
+  },
+  "advancements.betterend.thallasium_anvil.title": {
+    "en": "Thallasium Smithing",
+    "zh": "塔拉斯金锻造",
+    "vi": "Lò rèn Talaskin"
+  },
+  "advancements.betterend.thallasium_armor.description": {
+    "en": "Get hold of any Thallasium Armor Piece",
+    "zh": "获得任意塔拉斯金盔甲部件",
+    "vi": "Nhận bất kỳ phần áo giáp Taraskin nào"
+  },
+  "advancements.betterend.thallasium_armor.title": {
+    "en": "Dressed in Thallasium",
+    "zh": "身着塔拉斯金",
+    "vi": "mặc taraskin"
+  },
+  "advancements.betterend.thallasium_plate.description": {
+    "en": "Forge a Thallasium Plate on an anvil",
+    "zh": "在铁砧上锻造塔拉斯金锻板",
+    "vi": "Rèn tấm rèn vàng talas trên đe"
+  },
+  "advancements.betterend.thallasium_plate.title": {
+    "en": "Plated Thallasium",
+    "zh": "塔拉斯金板",
+    "vi": "Tấm Vàng Talas"
+  },
+  "advancements.betterend.thallasium_tool.description": {
+    "en": "Assemble a Thallasium Tool or Sword",
+    "zh": "组装塔拉斯金工具或武器",
+    "vi": "Lắp ráp công cụ hoặc vũ khí Talaskin"
+  },
+  "advancements.betterend.thallasium_tool.title": {
+    "en": "Thallasium Tooling",
+    "zh": "塔拉斯金工具",
+    "vi": "công cụ taraskin"
+  },
+  "advancements.betterend.thallasium_tool_head.description": {
+    "en": "Find or Craft a Thallasium Tool Head",
+    "zh": "找到或合成一个塔拉斯金工具头部",
+    "vi": "Tìm hoặc chế tạo Đầu công cụ Talaskin"
+  },
+  "advancements.betterend.thallasium_tool_head.title": {
+    "en": "Heading to Thallasium",
+    "zh": "塔拉斯金之路的开头",
+    "vi": "Sự khởi đầu của con đường Taraskin"
+  },
+  "advancements.betterend.village.description": {
+    "en": "Enter a village in the End",
+    "zh": "进入末地村庄",
+    "vi": "Vào làng cuối"
+  },
+  "advancements.betterend.village.title": {
+    "en": "Countryside",
+    "zh": "阡末乡村",
+    "vi": "Làng Thiên Mặc"
+  },
+  "attribute.name.generic.blindness_resistance": {
+    "en": "Blindness Resistance",
+    "zh": "失明抗性",
+    "vi": "chống mù lòa"
+  },
+  "betterend.infusion.east": {
+    "en": "Eastern Pedestal",
+    "zh": "东方向基座",
+    "vi": "Căn cứ hướng Đông"
+  },
+  "betterend.infusion.north": {
+    "en": "Northern Pedestal",
+    "zh": "北方向基座",
+    "vi": "Căn cứ hướng về phía Bắc"
+  },
+  "betterend.infusion.north_east": {
+    "en": "North-East Pedestal",
+    "zh": "东北方向基座",
+    "vi": "Căn cứ Đông Bắc"
+  },
+  "betterend.infusion.north_west": {
+    "en": "North-West Pedestal",
+    "zh": "西北方向基座",
+    "vi": "căn cứ phía tây bắc"
+  },
+  "betterend.infusion.south": {
+    "en": "Southern Pedestal",
+    "zh": "南方向基座",
+    "vi": "Căn cứ hướng về phía Nam"
+  },
+  "betterend.infusion.south_east": {
+    "en": "South-East Pedestal",
+    "zh": "东南方向基座",
+    "vi": "căn cứ phía đông nam"
+  },
+  "betterend.infusion.south_west": {
+    "en": "South-West Pedestal",
+    "zh": "西南方向基座",
+    "vi": "Căn cứ Tây Nam"
+  },
+  "betterend.infusion.west": {
+    "en": "Western Pedestal",
+    "zh": "西方向基座",
+    "vi": "Căn cứ hướng Tây"
+  },
+  "biome.betterend.amber_land": {
+    "en": "Amber Land",
+    "zh": "琥珀之地",
+    "vi": "đất hổ phách"
+  },
+  "biome.betterend.blossoming_spires": {
+    "en": "Blossoming Spires",
+    "zh": "绽花尖峰",
+    "vi": "cành nở hoa"
+  },
+  "biome.betterend.chorus_forest": {
+    "en": "Chorus Forest",
+    "zh": "紫颂森林",
+    "vi": "rừng hợp xướng"
+  },
+  "biome.betterend.crystal_mountains": {
+    "en": "Crystal Mountains",
+    "zh": "水晶山脉",
+    "vi": "núi pha lê"
+  },
+  "biome.betterend.dragon_graveyards": {
+    "en": "Dragon Graveyards",
+    "zh": "龙之墓地",
+    "vi": "Nghĩa trang Rồng"
+  },
+  "biome.betterend.dry_shrubland": {
+    "en": "Dry Shrubland",
+    "zh": "干燥灌丛",
+    "vi": "chà khô"
+  },
+  "biome.betterend.dust_wastelands": {
+    "en": "Dust Wastelands",
+    "zh": "尘土荒地",
+    "vi": "vùng đất hoang bụi bặm"
+  },
+  "biome.betterend.empty_aurora_cave": {
+    "en": "Empty Aurora Cave",
+    "zh": "空极光洞穴",
+    "vi": "Hang Aurora trống rỗng"
+  },
+  "biome.betterend.empty_end_cave": {
+    "en": "Empty End Cave",
+    "zh": "空末地洞穴",
+    "vi": "hang động trống rỗng"
+  },
+  "biome.betterend.empty_smaragdant_cave": {
+    "en": "Empty Smaragdant Cave",
+    "zh": "空翡翠洞穴",
+    "vi": "Hang Ngọc Lục Bảo Trống"
+  },
+  "biome.betterend.eterial_grove": {
+    "en": "Eterial Grove",
+    "zh": "永恒树林",
+    "vi": "rừng vĩnh cửu"
+  },
+  "biome.betterend.foggy_mushroomland": {
+    "en": "Foggy Mushroomland",
+    "zh": "雾霭蘑菇林",
+    "vi": "Rừng Nấm Sương Mù"
+  },
+  "biome.betterend.glowing_grasslands": {
+    "en": "Glowing Grasslands",
+    "zh": "发光草原",
+    "vi": "đồng cỏ phát sáng"
+  },
+  "biome.betterend.ice_starfield": {
+    "en": "Ice Starfield",
+    "zh": "冰晶星空",
+    "vi": "Bầu trời đầy sao băng"
+  },
+  "biome.betterend.jade_cave": {
+    "en": "Jade Cave",
+    "zh": "玉洞穴",
+    "vi": "Hang Ngọc"
+  },
+  "biome.betterend.lantern_woods": {
+    "en": "Lantern Woods",
+    "zh": "灯笼树林",
+    "vi": "Rừng đèn lồng"
+  },
+  "biome.betterend.lush_aurora_cave": {
+    "en": "Lush Aurora Cave",
+    "zh": "繁茂极光洞穴",
+    "vi": "Hang Aurora tươi tốt"
+  },
+  "biome.betterend.lush_smaragdant_cave": {
+    "en": "Lush Smaragdant Cave",
+    "zh": "繁茂翡翠洞穴",
+    "vi": "Hang Ngọc lục bảo tươi tốt"
+  },
+  "biome.betterend.megalake": {
+    "en": "Megalake",
+    "zh": "巨型湖泊",
+    "vi": "hồ khổng lồ"
+  },
+  "biome.betterend.megalake_grove": {
+    "en": "Megalake Grove",
+    "zh": "巨型湖泊树林",
+    "vi": "rừng hồ khổng lồ"
+  },
+  "biome.betterend.neon_oasis": {
+    "en": "Neon Oasis",
+    "zh": "霓虹绿洲",
+    "vi": "Ốc đảo neon"
+  },
+  "biome.betterend.nightshade_redwoods": {
+    "en": "Nightshade Redwoods",
+    "zh": "夜影红杉林",
+    "vi": "Rừng gỗ đỏ bóng đêm"
+  },
+  "biome.betterend.old_bulbis_gardens": {
+    "en": "Old Bulbis Gardens",
+    "zh": "原始灯泡花园",
+    "vi": "Vườn bóng đèn gốc"
+  },
+  "biome.betterend.painted_mountains": {
+    "en": "Painted Mountains",
+    "zh": "彩绘山脉",
+    "vi": "núi sơn"
+  },
+  "biome.betterend.shadow_forest": {
+    "en": "Shadow Forest",
+    "zh": "黯影森林",
+    "vi": "Rừng bóng tối"
+  },
+  "biome.betterend.sulphur_springs": {
+    "en": "Sulfur Springs",
+    "zh": "硫磺矿泉",
+    "vi": "suối khoáng lưu huỳnh"
+  },
+  "biome.betterend.umbra_valley": {
+    "en": "Umbra Valley",
+    "zh": "阴影谷",
+    "vi": "Thung lũng bóng tối"
+  },
+  "biome.betterend.umbrella_jungle": {
+    "en": "Umbrella Jungle",
+    "zh": "胶伞丛林",
+    "vi": "Rừng ô cao su"
+  },
+  "block.betterend.aeridium": {
+    "en": "Aeridium",
+    "zh": "指甲兰",
+    "vi": "Aeridium"
+  },
+  "block.betterend.aeternium_anvil": {
+    "en": "Aeternium Anvil",
+    "zh": "太古合金砧",
+    "vi": "Aeternium Anvil"
+  },
+  "block.betterend.aeternium_block": {
+    "en": "Aeternium Block",
+    "zh": "太古合金块",
+    "vi": "Aeternium Block"
+  },
+  "block.betterend.amaranita_cap": {
+    "en": "Amaranita Cap",
+    "zh": "不衰鹅膏菌盖",
+    "vi": "Amaranita Cap"
+  },
+  "block.betterend.amaranita_fur": {
+    "en": "Amaranita Fur",
+    "zh": "不衰鹅膏菌绒",
+    "vi": "Amaranita Fur"
+  },
+  "block.betterend.amaranita_hymenophore": {
+    "en": "Amaranita Hymenophore",
+    "zh": "不衰鹅膏子实层",
+    "vi": "Amaranita Hymenophore"
+  },
+  "block.betterend.amaranita_hyphae": {
+    "en": "Amaranita Hyphae",
+    "zh": "不衰鹅膏菌丝",
+    "vi": "Amaranita Hyphae"
+  },
+  "block.betterend.amaranita_lantern": {
+    "en": "Amaranita Lantern",
+    "zh": "不衰鹅膏灯笼",
+    "vi": "Amaranita Lantern"
+  },
+  "block.betterend.amaranita_stem": {
+    "en": "Amaranita Stem",
+    "zh": "不衰鹅膏菌柄",
+    "vi": "Amaranita Stem"
+  },
+  "block.betterend.amber_block": {
+    "en": "Amber Block",
+    "zh": "琥珀块",
+    "vi": "Amber Block"
+  },
+  "block.betterend.amber_grass": {
+    "en": "Amber Grass",
+    "zh": "琥珀草方块",
+    "vi": "Amber Grass"
+  },
+  "block.betterend.amber_grass_path": {
+    "en": "Amber Grass Path",
+    "zh": "琥珀草径",
+    "vi": "Amber Grass Path"
+  },
+  "block.betterend.amber_moss": {
+    "en": "Amber Moss",
+    "zh": "琥珀苔岩",
+    "vi": "Amber Moss"
+  },
+  "block.betterend.amber_moss_path": {
+    "en": "Amber Moss Path",
+    "zh": "琥珀苔径",
+    "vi": "Amber Moss Path"
+  },
+  "block.betterend.amber_ore": {
+    "en": "Amber Ore",
+    "zh": "琥珀矿石",
+    "vi": "Amber Ore"
+  },
+  "block.betterend.amber_root_seed": {
+    "en": "Amber Root Seed",
+    "zh": "琥珀根种子",
+    "vi": "Amber Root Seed"
+  },
+  "block.betterend.ancient_emerald_ice": {
+    "en": "Ancient Emerald Ice",
+    "zh": "远古绿宝石冰",
+    "vi": "Ancient Emerald Ice"
+  },
+  "block.betterend.andesite_lantern": {
+    "en": "Andesite Lantern",
+    "zh": "安山岩灯笼",
+    "vi": "Andesite Lantern"
+  },
+  "block.betterend.andesite_pedestal": {
+    "en": "Andesite Pedestal",
+    "zh": "安山岩基座",
+    "vi": "Andesite Pedestal"
+  },
+  "block.betterend.aurant_polypore": {
+    "en": "Aurant Polypore",
+    "zh": "光环多孔菌",
+    "vi": "Aurant Polypore"
+  },
+  "block.betterend.aurora_crystal": {
+    "en": "Aurora Crystal",
+    "zh": "极光水晶",
+    "vi": "Aurora Crystal"
+  },
+  "block.betterend.azure_jadestone": {
+    "en": "Azure Jadestone",
+    "zh": "蓝玉石",
+    "vi": "Azure Jadestone"
+  },
+  "block.betterend.azure_jadestone_bricks": {
+    "en": "Azure Jadestone Bricks",
+    "zh": "蓝玉石砖",
+    "vi": "Azure Jadestone Bricks"
+  },
+  "block.betterend.azure_jadestone_bricks_slab": {
+    "en": "Azure Jadestone Brick Slab",
+    "zh": "蓝玉石砖台阶",
+    "vi": "Azure Jadestone Brick Slab"
+  },
+  "block.betterend.azure_jadestone_bricks_stairs": {
+    "en": "Azure Jadestone Brick Stairs",
+    "zh": "蓝玉石砖楼梯",
+    "vi": "Azure Jadestone Brick Stairs"
+  },
+  "block.betterend.azure_jadestone_bricks_wall": {
+    "en": "Azure Jadestone Brick Wall",
+    "zh": "蓝玉石砖墙",
+    "vi": "Azure Jadestone Brick Wall"
+  },
+  "block.betterend.azure_jadestone_button": {
+    "en": "Azure Jadestone Button",
+    "zh": "蓝玉石按钮",
+    "vi": "Azure Jadestone Button"
+  },
+  "block.betterend.azure_jadestone_flower_pot": {
+    "en": "Azure Jadestone Flower Pot",
+    "zh": "蓝玉石花盆",
+    "vi": "Azure Jadestone Flower Pot"
+  },
+  "block.betterend.azure_jadestone_furnace": {
+    "en": "Azure Jadestone Furnace",
+    "zh": "蓝玉石熔炉",
+    "vi": "Azure Jadestone Furnace"
+  },
+  "block.betterend.azure_jadestone_lantern": {
+    "en": "Azure Jadestone Lantern",
+    "zh": "蓝玉石灯笼",
+    "vi": "Azure Jadestone Lantern"
+  },
+  "block.betterend.azure_jadestone_pedestal": {
+    "en": "Azure Jadestone Pedestal",
+    "zh": "蓝玉石基座",
+    "vi": "Azure Jadestone Pedestal"
+  },
+  "block.betterend.azure_jadestone_pillar": {
+    "en": "Azure Jadestone Pillar",
+    "zh": "蓝玉石柱",
+    "vi": "Azure Jadestone Pillar"
+  },
+  "block.betterend.azure_jadestone_plate": {
+    "en": "Azure Jadestone Pressure Plate",
+    "zh": "蓝玉石压力板",
+    "vi": "Azure Jadestone Pressure Plate"
+  },
+  "block.betterend.azure_jadestone_polished": {
+    "en": "Azure Jadestone Polished",
+    "zh": "磨制蓝玉石",
+    "vi": "Azure Jadestone Polished"
+  },
+  "block.betterend.azure_jadestone_slab": {
+    "en": "Azure Jadestone Slab",
+    "zh": "蓝玉石台阶",
+    "vi": "Azure Jadestone Slab"
+  },
+  "block.betterend.azure_jadestone_stairs": {
+    "en": "Azure Jadestone Stairs",
+    "zh": "蓝玉石楼梯",
+    "vi": "Azure Jadestone Stairs"
+  },
+  "block.betterend.azure_jadestone_tiles": {
+    "en": "Azure Jadestone Tiles",
+    "zh": "蓝玉石瓦",
+    "vi": "Azure Jadestone Tiles"
+  },
+  "block.betterend.azure_jadestone_wall": {
+    "en": "Azure Jadestone Wall",
+    "zh": "蓝玉石墙",
+    "vi": "Azure Jadestone Wall"
+  },
+  "block.betterend.blackstone_lantern": {
+    "en": "Blackstone Lantern",
+    "zh": "黑石灯笼",
+    "vi": "Blackstone Lantern"
+  },
+  "block.betterend.blooming_cooksonia": {
+    "en": "Blooming Cooksonia",
+    "zh": "繁盛库克逊蕨",
+    "vi": "Blooming Cooksonia"
+  },
+  "block.betterend.blossom_berry_seed": {
+    "en": "Blossom Berry Seed",
+    "zh": "绽花浆果种子",
+    "vi": "Blossom Berry Seed"
+  },
+  "block.betterend.blue_vine": {
+    "en": "Blue Vine",
+    "zh": "蓝藤",
+    "vi": "Blue Vine"
+  },
+  "block.betterend.blue_vine_fur": {
+    "en": "Blue Vine Fur",
+    "zh": "蓝藤绒",
+    "vi": "Blue Vine Fur"
+  },
+  "block.betterend.blue_vine_lantern": {
+    "en": "Blue Vine Lantern",
+    "zh": "蓝藤灯笼",
+    "vi": "Blue Vine Lantern"
+  },
+  "block.betterend.blue_vine_seed": {
+    "en": "Blue Vine Seed",
+    "zh": "蓝藤种子",
+    "vi": "Blue Vine Seed"
+  },
+  "block.betterend.bolux_mushroom": {
+    "en": "Bolux Mushroom",
+    "zh": "博勒克斯蘑菇",
+    "vi": "Bolux Mushroom"
+  },
+  "block.betterend.brimstone": {
+    "en": "Brimstone",
+    "zh": "硫磺",
+    "vi": "Brimstone"
+  },
+  "block.betterend.bubble_coral": {
+    "en": "Bubble Coral",
+    "zh": "泡泡珊瑚",
+    "vi": "Bubble Coral"
+  },
+  "block.betterend.budding_smaragdant_crystal": {
+    "en": "Budding Smaragdant Crystal",
+    "zh": "翡翠晶母岩",
+    "vi": "Budding Smaragdant Crystal"
+  },
+  "block.betterend.bulb_moss": {
+    "en": "Bulb Moss",
+    "zh": "灯泡苔藓",
+    "vi": "Bulb Moss"
+  },
+  "block.betterend.bulb_vine": {
+    "en": "Bulb Vine",
+    "zh": "灯泡藤",
+    "vi": "Bulb Vine"
+  },
+  "block.betterend.bulb_vine_seed": {
+    "en": "Bulb Vine Seed",
+    "zh": "灯泡藤种子",
+    "vi": "Bulb Vine Seed"
+  },
+  "block.betterend.bushy_grass": {
+    "en": "Bushy Grass",
+    "zh": "茂密草",
+    "vi": "Bushy Grass"
+  },
+  "block.betterend.cave_bush": {
+    "en": "Cave Bush",
+    "zh": "洞穴灌木",
+    "vi": "Cave Bush"
+  },
+  "block.betterend.cave_grass": {
+    "en": "Cave Grass",
+    "zh": "洞穴草",
+    "vi": "Cave Grass"
+  },
+  "block.betterend.cave_moss": {
+    "en": "Cave Moss",
+    "zh": "洞穴苔岩",
+    "vi": "Cave Moss"
+  },
+  "block.betterend.cave_moss_path": {
+    "en": "Cave Moss Path",
+    "zh": "洞穴苔径",
+    "vi": "Cave Moss Path"
+  },
+  "block.betterend.cave_pumpkin": {
+    "en": "Cave Pumpkin",
+    "zh": "洞穴南瓜",
+    "vi": "Cave Pumpkin"
+  },
+  "block.betterend.cave_pumpkin_seed": {
+    "en": "Cave Pumpkin Seed",
+    "zh": "洞穴南瓜种子",
+    "vi": "Cave Pumpkin Seed"
+  },
+  "block.betterend.charcoal_block": {
+    "en": "Charcoal Block",
+    "zh": "木炭块",
+    "vi": "Charcoal Block"
+  },
+  "block.betterend.charnia_cyan": {
+    "en": "Cyan Charnia",
+    "zh": "青色查恩海笔",
+    "vi": "Cyan Charnia"
+  },
+  "block.betterend.charnia_green": {
+    "en": "Green Charnia",
+    "zh": "绿色查恩海笔",
+    "vi": "Green Charnia"
+  },
+  "block.betterend.charnia_light_blue": {
+    "en": "Light Blue Charnia",
+    "zh": "淡蓝色查恩海笔",
+    "vi": "Light Blue Charnia"
+  },
+  "block.betterend.charnia_orange": {
+    "en": "Orange Charnia",
+    "zh": "橙色查恩海笔",
+    "vi": "Orange Charnia"
+  },
+  "block.betterend.charnia_purple": {
+    "en": "Purple Charnia",
+    "zh": "紫色查恩海笔",
+    "vi": "Purple Charnia"
+  },
+  "block.betterend.charnia_red": {
+    "en": "Red Charnia",
+    "zh": "红色查恩海笔",
+    "vi": "Red Charnia"
+  },
+  "block.betterend.chorus_grass": {
+    "en": "Chorus Grass",
+    "zh": "紫颂草",
+    "vi": "Chorus Grass"
+  },
+  "block.betterend.chorus_mushroom_seed": {
+    "en": "Chorus Mushroom Seed",
+    "zh": "紫颂蘑菇种子",
+    "vi": "Chorus Mushroom Seed"
+  },
+  "block.betterend.chorus_nylium": {
+    "en": "Chorus Nylium",
+    "zh": "紫颂菌岩",
+    "vi": "Chorus Nylium"
+  },
+  "block.betterend.chorus_nylium_path": {
+    "en": "Chorus Nylium Path",
+    "zh": "紫颂菌径",
+    "vi": "Chorus Nylium Path"
+  },
+  "block.betterend.clawfern": {
+    "en": "Clawfern",
+    "zh": "爪蕨",
+    "vi": "Clawfern"
+  },
+  "block.betterend.creeping_moss": {
+    "en": "Creeping Moss",
+    "zh": "匍匐苔藓",
+    "vi": "Creeping Moss"
+  },
+  "block.betterend.crystal_grass": {
+    "en": "Crystal Grass",
+    "zh": "水晶草",
+    "vi": "Crystal Grass"
+  },
+  "block.betterend.crystal_moss": {
+    "en": "Crystal Moss",
+    "zh": "水晶苔岩",
+    "vi": "Crystal Moss"
+  },
+  "block.betterend.crystal_moss_cover": {
+    "en": "Crystal Moss Cover",
+    "zh": "水晶苔藓地被",
+    "vi": "Crystal Moss Cover"
+  },
+  "block.betterend.crystal_moss_path": {
+    "en": "Crystal Moss Path",
+    "zh": "水晶苔径",
+    "vi": "Crystal Moss Path"
+  },
+  "block.betterend.cyan_moss": {
+    "en": "Cyan Moss",
+    "zh": "青色苔藓",
+    "vi": "Cyan Moss"
+  },
+  "block.betterend.dense_emerald_ice": {
+    "en": "Dense Emerald Ice",
+    "zh": "致密绿宝石冰",
+    "vi": "Dense Emerald Ice"
+  },
+  "block.betterend.dense_snow": {
+    "en": "Dense Snow",
+    "zh": "致密雪",
+    "vi": "Dense Snow"
+  },
+  "block.betterend.dense_vine": {
+    "en": "Dense Vine",
+    "zh": "茂密藤",
+    "vi": "Dense Vine"
+  },
+  "block.betterend.diorite_lantern": {
+    "en": "Diorite Lantern",
+    "zh": "闪长岩灯笼",
+    "vi": "Diorite Lantern"
+  },
+  "block.betterend.diorite_pedestal": {
+    "en": "Diorite Pedestal",
+    "zh": "闪长岩基座",
+    "vi": "Diorite Pedestal"
+  },
+  "block.betterend.dragon_bone_block": {
+    "en": "Dragon Bone Block",
+    "zh": "龙骨块",
+    "vi": "Dragon Bone Block"
+  },
+  "block.betterend.dragon_bone_slab": {
+    "en": "Dragon Bone Slab",
+    "zh": "龙骨台阶",
+    "vi": "Dragon Bone Slab"
+  },
+  "block.betterend.dragon_bone_stairs": {
+    "en": "Dragon Bone Stairs",
+    "zh": "龙骨楼梯",
+    "vi": "Dragon Bone Stairs"
+  },
+  "block.betterend.dragon_tree_bar_stool": {
+    "en": "Dragon Tree Bar Stool",
+    "zh": "龙树木高脚凳",
+    "vi": "Dragon Tree Bar Stool"
+  },
+  "block.betterend.dragon_tree_bark": {
+    "en": "Dragon Tree Wood",
+    "zh": "龙树木",
+    "vi": "Dragon Tree Wood"
+  },
+  "block.betterend.dragon_tree_barrel": {
+    "en": "Dragon Tree Barrel",
+    "zh": "龙树木桶",
+    "vi": "Dragon Tree Barrel"
+  },
+  "block.betterend.dragon_tree_bookshelf": {
+    "en": "Dragon Tree Bookshelf",
+    "zh": "龙树木书架",
+    "vi": "Dragon Tree Bookshelf"
+  },
+  "block.betterend.dragon_tree_button": {
+    "en": "Dragon Tree Button",
+    "zh": "龙树木按钮",
+    "vi": "Dragon Tree Button"
+  },
+  "block.betterend.dragon_tree_chair": {
+    "en": "Dragon Tree Chair",
+    "zh": "龙树木椅子",
+    "vi": "Dragon Tree Chair"
+  },
+  "block.betterend.dragon_tree_chest": {
+    "en": "Dragon Tree Chest",
+    "zh": "龙树木箱子",
+    "vi": "Dragon Tree Chest"
+  },
+  "block.betterend.dragon_tree_composter": {
+    "en": "Dragon Tree Composter",
+    "zh": "龙树木堆肥桶",
+    "vi": "Dragon Tree Composter"
+  },
+  "block.betterend.dragon_tree_crafting_table": {
+    "en": "Dragon Tree Crafting Table",
+    "zh": "龙树木工作台",
+    "vi": "Dragon Tree Crafting Table"
+  },
+  "block.betterend.dragon_tree_door": {
+    "en": "Dragon Tree Door",
+    "zh": "龙树木门",
+    "vi": "Dragon Tree Door"
+  },
+  "block.betterend.dragon_tree_fence": {
+    "en": "Dragon Tree Fence",
+    "zh": "龙树木栅栏",
+    "vi": "Dragon Tree Fence"
+  },
+  "block.betterend.dragon_tree_gate": {
+    "en": "Dragon Tree Gate",
+    "zh": "龙树木栅栏门",
+    "vi": "Dragon Tree Gate"
+  },
+  "block.betterend.dragon_tree_hanging_sign": {
+    "en": "Hanging Dragon Tree Sign",
+    "zh": "悬挂式龙树木告示牌",
+    "vi": "Hanging Dragon Tree Sign"
+  },
+  "block.betterend.dragon_tree_ladder": {
+    "en": "Dragon Tree Ladder",
+    "zh": "龙树木梯子",
+    "vi": "Dragon Tree Ladder"
+  },
+  "block.betterend.dragon_tree_leaves": {
+    "en": "Dragon Tree Leaves",
+    "zh": "龙树树叶",
+    "vi": "Dragon Tree Leaves"
+  },
+  "block.betterend.dragon_tree_log": {
+    "en": "Dragon Tree Log",
+    "zh": "龙树原木",
+    "vi": "Dragon Tree Log"
+  },
+  "block.betterend.dragon_tree_planks": {
+    "en": "Dragon Tree Planks",
+    "zh": "龙树木板",
+    "vi": "Dragon Tree Planks"
+  },
+  "block.betterend.dragon_tree_plate": {
+    "en": "Dragon Tree Pressure Plate",
+    "zh": "龙树木压力板",
+    "vi": "Dragon Tree Pressure Plate"
+  },
+  "block.betterend.dragon_tree_sapling": {
+    "en": "Dragon Tree Sapling",
+    "zh": "龙树树苗",
+    "vi": "Dragon Tree Sapling"
+  },
+  "block.betterend.dragon_tree_sign": {
+    "en": "Dragon Tree Sign",
+    "zh": "龙树木告示牌",
+    "vi": "Dragon Tree Sign"
+  },
+  "block.betterend.dragon_tree_slab": {
+    "en": "Dragon Tree Slab",
+    "zh": "龙树木台阶",
+    "vi": "Dragon Tree Slab"
+  },
+  "block.betterend.dragon_tree_stairs": {
+    "en": "Dragon Tree Stairs",
+    "zh": "龙树木楼梯",
+    "vi": "Dragon Tree Stairs"
+  },
+  "block.betterend.dragon_tree_stripped_bark": {
+    "en": "Stripped Dragon Tree Wood",
+    "zh": "去皮龙树木",
+    "vi": "Stripped Dragon Tree Wood"
+  },
+  "block.betterend.dragon_tree_stripped_log": {
+    "en": "Stripped Dragon Tree Log",
+    "zh": "去皮龙树原木",
+    "vi": "Stripped Dragon Tree Log"
+  },
+  "block.betterend.dragon_tree_taburet": {
+    "en": "Dragon Tree Stool",
+    "zh": "龙树木凳",
+    "vi": "Dragon Tree Stool"
+  },
+  "block.betterend.dragon_tree_trapdoor": {
+    "en": "Dragon Tree Trapdoor",
+    "zh": "龙树木活板门",
+    "vi": "Dragon Tree Trapdoor"
+  },
+  "block.betterend.dragon_tree_wall": {
+    "en": "Dragon Tree Wall",
+    "zh": "龙树木墙",
+    "vi": "Dragon Tree Wall"
+  },
+  "block.betterend.emerald_ice": {
+    "en": "Emerald Ice",
+    "zh": "绿宝石冰",
+    "vi": "Emerald Ice"
+  },
+  "block.betterend.end_lily": {
+    "en": "End Lily",
+    "zh": "末地睡莲",
+    "vi": "End Lily"
+  },
+  "block.betterend.end_lily_seed": {
+    "en": "End Lily Seed",
+    "zh": "末地睡莲种子",
+    "vi": "End Lily Seed"
+  },
+  "block.betterend.end_lotus_bar_stool": {
+    "en": "End Lotus Bar Stool",
+    "zh": "末地莲木高脚凳",
+    "vi": "End Lotus Bar Stool"
+  },
+  "block.betterend.end_lotus_bark": {
+    "en": "Endlotus Wood",
+    "zh": "末地莲木",
+    "vi": "Endlotus Wood"
+  },
+  "block.betterend.end_lotus_barrel": {
+    "en": "Endlotus Barrel",
+    "zh": "末地莲木桶",
+    "vi": "Endlotus Barrel"
+  },
+  "block.betterend.end_lotus_bookshelf": {
+    "en": "Endlotus Bookshelf",
+    "zh": "末地莲木书架",
+    "vi": "Endlotus Bookshelf"
+  },
+  "block.betterend.end_lotus_button": {
+    "en": "Endlotus Button",
+    "zh": "末地莲木按钮",
+    "vi": "Endlotus Button"
+  },
+  "block.betterend.end_lotus_chair": {
+    "en": "End Lotus Chair",
+    "zh": "末地莲木椅子",
+    "vi": "End Lotus Chair"
+  },
+  "block.betterend.end_lotus_chest": {
+    "en": "Endlotus Chest",
+    "zh": "末地莲木箱子",
+    "vi": "Endlotus Chest"
+  },
+  "block.betterend.end_lotus_composter": {
+    "en": "Endlotus Composter",
+    "zh": "末地莲木堆肥桶",
+    "vi": "Endlotus Composter"
+  },
+  "block.betterend.end_lotus_crafting_table": {
+    "en": "Endlotus Crafting Table",
+    "zh": "末地莲木工作台",
+    "vi": "Endlotus Crafting Table"
+  },
+  "block.betterend.end_lotus_door": {
+    "en": "Endlotus Door",
+    "zh": "末地莲木门",
+    "vi": "Endlotus Door"
+  },
+  "block.betterend.end_lotus_fence": {
+    "en": "Endlotus Fence",
+    "zh": "末地莲木栅栏",
+    "vi": "Endlotus Fence"
+  },
+  "block.betterend.end_lotus_flower": {
+    "en": "Endlotus Flower",
+    "zh": "末地莲花",
+    "vi": "Endlotus Flower"
+  },
+  "block.betterend.end_lotus_gate": {
+    "en": "Endlotus Gate",
+    "zh": "末地莲木栅栏门",
+    "vi": "Endlotus Gate"
+  },
+  "block.betterend.end_lotus_hanging_sign": {
+    "en": "Hanging End Lotus Sign",
+    "zh": "悬挂式末地莲木告示牌",
+    "vi": "Hanging End Lotus Sign"
+  },
+  "block.betterend.end_lotus_ladder": {
+    "en": "Endlotus Ladder",
+    "zh": "末地莲木梯子",
+    "vi": "Endlotus Ladder"
+  },
+  "block.betterend.end_lotus_leaf": {
+    "en": "Endlotus Leaf",
+    "zh": "末地莲树叶",
+    "vi": "Endlotus Leaf"
+  },
+  "block.betterend.end_lotus_log": {
+    "en": "Endlotus Log",
+    "zh": "末地莲原木",
+    "vi": "Endlotus Log"
+  },
+  "block.betterend.end_lotus_planks": {
+    "en": "Endlotus Planks",
+    "zh": "末地莲木板",
+    "vi": "Endlotus Planks"
+  },
+  "block.betterend.end_lotus_plate": {
+    "en": "Endlotus Pressure Plate",
+    "zh": "末地莲木压力板",
+    "vi": "Endlotus Pressure Plate"
+  },
+  "block.betterend.end_lotus_seed": {
+    "en": "Endlotus Seed",
+    "zh": "末地莲种子",
+    "vi": "Endlotus Seed"
+  },
+  "block.betterend.end_lotus_sign": {
+    "en": "Endlotus Sign",
+    "zh": "末地莲木告示牌",
+    "vi": "Endlotus Sign"
+  },
+  "block.betterend.end_lotus_slab": {
+    "en": "Endlotus Slab",
+    "zh": "末地莲木台阶",
+    "vi": "Endlotus Slab"
+  },
+  "block.betterend.end_lotus_stairs": {
+    "en": "Endlotus Stairs",
+    "zh": "末地莲木楼梯",
+    "vi": "Endlotus Stairs"
+  },
+  "block.betterend.end_lotus_stem": {
+    "en": "Endlotus Stem",
+    "zh": "末地莲茎",
+    "vi": "Endlotus Stem"
+  },
+  "block.betterend.end_lotus_stripped_bark": {
+    "en": "Stripped Endlotus Wood",
+    "zh": "去皮末地莲木",
+    "vi": "Stripped Endlotus Wood"
+  },
+  "block.betterend.end_lotus_stripped_log": {
+    "en": "Stripped Endlotus Log",
+    "zh": "去皮末地莲原木",
+    "vi": "Stripped Endlotus Log"
+  },
+  "block.betterend.end_lotus_taburet": {
+    "en": "End Lotus Stool",
+    "zh": "末地莲木凳",
+    "vi": "End Lotus Stool"
+  },
+  "block.betterend.end_lotus_trapdoor": {
+    "en": "Endlotus Trapdoor",
+    "zh": "末地莲木活板门",
+    "vi": "Endlotus Trapdoor"
+  },
+  "block.betterend.end_lotus_wall": {
+    "en": "End Lotus Wall",
+    "zh": "末地莲木墙",
+    "vi": "End Lotus Wall"
+  },
+  "block.betterend.end_moss": {
+    "en": "End Moss",
+    "zh": "末地苔岩",
+    "vi": "End Moss"
+  },
+  "block.betterend.end_moss_path": {
+    "en": "End Moss Path",
+    "zh": "末地苔径",
+    "vi": "End Moss Path"
+  },
+  "block.betterend.end_mycelium": {
+    "en": "End Mycelium",
+    "zh": "末地菌丝体",
+    "vi": "End Mycelium"
+  },
+  "block.betterend.end_mycelium_path": {
+    "en": "End Mycelium Path",
+    "zh": "末地菌丝径",
+    "vi": "End Mycelium Path"
+  },
+  "block.betterend.end_portal_block": {
+    "en": "End Portal",
+    "zh": "末地传送门",
+    "vi": "End Portal"
+  },
+  "block.betterend.end_stone_furnace": {
+    "en": "End Stone Furnace",
+    "zh": "末地石熔炉",
+    "vi": "End Stone Furnace"
+  },
+  "block.betterend.end_stone_lantern": {
+    "en": "End Stone Lantern",
+    "zh": "末地石灯笼",
+    "vi": "End Stone Lantern"
+  },
+  "block.betterend.end_stone_smelter": {
+    "en": "End Stone Smelter",
+    "zh": "末地石冶炼炉",
+    "vi": "End Stone Smelter"
+  },
+  "block.betterend.end_stone_stalactite": {
+    "en": "End Stone Stalactite",
+    "zh": "末地石钟乳石",
+    "vi": "End Stone Stalactite"
+  },
+  "block.betterend.end_stone_stalactite_cavemoss": {
+    "en": "Cave Moss Endstone Stalactite",
+    "zh": "洞穴苔藓末地石钟乳石",
+    "vi": "Cave Moss Endstone Stalactite"
+  },
+  "block.betterend.ender_block": {
+    "en": "Ender Block",
+    "zh": "末影块",
+    "vi": "Ender Block"
+  },
+  "block.betterend.ender_ore": {
+    "en": "Ender Ore",
+    "zh": "末影矿石",
+    "vi": "Ender Ore"
+  },
+  "block.betterend.endstone_dust": {
+    "en": "End Stone Dust",
+    "zh": "末地石尘",
+    "vi": "End Stone Dust"
+  },
+  "block.betterend.endstone_flower_pot": {
+    "en": "Endstone Flower Pot",
+    "zh": "末地石花盆",
+    "vi": "Endstone Flower Pot"
+  },
+  "block.betterend.eternal_pedestal": {
+    "en": "Eternal Pedestal",
+    "zh": "永恒基座",
+    "vi": "Eternal Pedestal"
+  },
+  "block.betterend.filalux": {
+    "en": "Filalux",
+    "zh": "斐勒克丝",
+    "vi": "Filalux"
+  },
+  "block.betterend.filalux_lantern": {
+    "en": "Filalux Lantern",
+    "zh": "斐勒克丝灯笼",
+    "vi": "Filalux Lantern"
+  },
+  "block.betterend.filalux_wings": {
+    "en": "Filalux Wings",
+    "zh": "斐勒克丝翼",
+    "vi": "Filalux Wings"
+  },
+  "block.betterend.flamaea": {
+    "en": "Flamaea",
+    "zh": "流焰花",
+    "vi": "Flamaea"
+  },
+  "block.betterend.flammalix": {
+    "en": "Flammalix",
+    "zh": "火菇",
+    "vi": "Flammalix"
+  },
+  "block.betterend.flavolite": {
+    "en": "Flavolite",
+    "zh": "苍黄石",
+    "vi": "Flavolite"
+  },
+  "block.betterend.flavolite_bricks": {
+    "en": "Flavolite Bricks",
+    "zh": "苍黄石砖",
+    "vi": "Flavolite Bricks"
+  },
+  "block.betterend.flavolite_bricks_slab": {
+    "en": "Flavolite Brick Slab",
+    "zh": "苍黄石砖台阶",
+    "vi": "Flavolite Brick Slab"
+  },
+  "block.betterend.flavolite_bricks_stairs": {
+    "en": "Flavolite Brick Stairs",
+    "zh": "苍黄石砖楼梯",
+    "vi": "Flavolite Brick Stairs"
+  },
+  "block.betterend.flavolite_bricks_wall": {
+    "en": "Flavolite Brick Wall",
+    "zh": "苍黄石砖墙",
+    "vi": "Flavolite Brick Wall"
+  },
+  "block.betterend.flavolite_button": {
+    "en": "Flavolite Button",
+    "zh": "苍黄石按钮",
+    "vi": "Flavolite Button"
+  },
+  "block.betterend.flavolite_flower_pot": {
+    "en": "Flavolite Flower Pot",
+    "zh": "苍黄石花盆",
+    "vi": "Flavolite Flower Pot"
+  },
+  "block.betterend.flavolite_furnace": {
+    "en": "Flavolite Furnace",
+    "zh": "苍黄石熔炉",
+    "vi": "Flavolite Furnace"
+  },
+  "block.betterend.flavolite_lantern": {
+    "en": "Flavolite Lantern",
+    "zh": "苍黄石灯笼",
+    "vi": "Flavolite Lantern"
+  },
+  "block.betterend.flavolite_pedestal": {
+    "en": "Flavolite Pedestal",
+    "zh": "苍黄石基座",
+    "vi": "Flavolite Pedestal"
+  },
+  "block.betterend.flavolite_pillar": {
+    "en": "Flavolite Pillar",
+    "zh": "苍黄石柱",
+    "vi": "Flavolite Pillar"
+  },
+  "block.betterend.flavolite_plate": {
+    "en": "Flavolite Pressure Plate",
+    "zh": "苍黄石压力板",
+    "vi": "Flavolite Pressure Plate"
+  },
+  "block.betterend.flavolite_polished": {
+    "en": "Polished Flavolite",
+    "zh": "磨制苍黄石",
+    "vi": "Polished Flavolite"
+  },
+  "block.betterend.flavolite_runed": {
+    "en": "Runed Flavolite",
+    "zh": "符文苍黄石",
+    "vi": "Runed Flavolite"
+  },
+  "block.betterend.flavolite_runed_eternal": {
+    "en": "Eternal Runed Flavolite",
+    "zh": "永恒苍黄石",
+    "vi": "Eternal Runed Flavolite"
+  },
+  "block.betterend.flavolite_slab": {
+    "en": "Flavolite Slab",
+    "zh": "苍黄石台阶",
+    "vi": "Flavolite Slab"
+  },
+  "block.betterend.flavolite_stairs": {
+    "en": "Flavolite Stairs",
+    "zh": "苍黄石楼梯",
+    "vi": "Flavolite Stairs"
+  },
+  "block.betterend.flavolite_tiles": {
+    "en": "Flavolite Tiles",
+    "zh": "苍黄石瓦",
+    "vi": "Flavolite Tiles"
+  },
+  "block.betterend.flavolite_wall": {
+    "en": "Flavolite Wall",
+    "zh": "苍黄石墙",
+    "vi": "Flavolite Wall"
+  },
+  "block.betterend.fracturn": {
+    "en": "Fracturn",
+    "zh": "分曲草",
+    "vi": "Fracturn"
+  },
+  "block.betterend.globulagus": {
+    "en": "Globulagus",
+    "zh": "球形菌",
+    "vi": "Globulagus"
+  },
+  "block.betterend.glowing_pillar_leaves": {
+    "en": "Glowing Pillar Leaves",
+    "zh": "发光楹树叶",
+    "vi": "Glowing Pillar Leaves"
+  },
+  "block.betterend.glowing_pillar_luminophor": {
+    "en": "Glowing Pillar Luminophor",
+    "zh": "发光楹发光体",
+    "vi": "Glowing Pillar Luminophor"
+  },
+  "block.betterend.glowing_pillar_roots": {
+    "en": "Glowing Pillar Roots",
+    "zh": "发光楹根",
+    "vi": "Glowing Pillar Roots"
+  },
+  "block.betterend.glowing_pillar_seed": {
+    "en": "Glowing Pillar Seed",
+    "zh": "发光楹种子",
+    "vi": "Glowing Pillar Seed"
+  },
+  "block.betterend.gold_chandelier": {
+    "en": "Gold Chandelier",
+    "zh": "金吊灯",
+    "vi": "Gold Chandelier"
+  },
+  "block.betterend.granite_lantern": {
+    "en": "Granite Lantern",
+    "zh": "花岗岩灯笼",
+    "vi": "Granite Lantern"
+  },
+  "block.betterend.granite_pedestal": {
+    "en": "Granite Pedestal",
+    "zh": "花岗岩基座",
+    "vi": "Granite Pedestal"
+  },
+  "block.betterend.helix_tree_bar_stool": {
+    "en": "Helix Tree Bar Stool",
+    "zh": "螺旋树木高脚凳",
+    "vi": "Helix Tree Bar Stool"
+  },
+  "block.betterend.helix_tree_bark": {
+    "en": "Helix Tree Wood",
+    "zh": "螺旋树木",
+    "vi": "Helix Tree Wood"
+  },
+  "block.betterend.helix_tree_barrel": {
+    "en": "Helix Tree Barrel",
+    "zh": "螺旋树木桶",
+    "vi": "Helix Tree Barrel"
+  },
+  "block.betterend.helix_tree_bookshelf": {
+    "en": "Helix Tree Bookshelf",
+    "zh": "螺旋树木书架",
+    "vi": "Helix Tree Bookshelf"
+  },
+  "block.betterend.helix_tree_button": {
+    "en": "Helix Tree Button",
+    "zh": "螺旋树木按钮",
+    "vi": "Helix Tree Button"
+  },
+  "block.betterend.helix_tree_chair": {
+    "en": "Helix Tree Chair",
+    "zh": "螺旋树木椅子",
+    "vi": "Helix Tree Chair"
+  },
+  "block.betterend.helix_tree_chest": {
+    "en": "Helix Tree Chest",
+    "zh": "螺旋树木箱子",
+    "vi": "Helix Tree Chest"
+  },
+  "block.betterend.helix_tree_composter": {
+    "en": "Helix Tree Composter",
+    "zh": "螺旋树木堆肥桶",
+    "vi": "Helix Tree Composter"
+  },
+  "block.betterend.helix_tree_crafting_table": {
+    "en": "Helix Tree Crafting Table",
+    "zh": "螺旋树木工作台",
+    "vi": "Helix Tree Crafting Table"
+  },
+  "block.betterend.helix_tree_door": {
+    "en": "Helix Tree Door",
+    "zh": "螺旋树木门",
+    "vi": "Helix Tree Door"
+  },
+  "block.betterend.helix_tree_fence": {
+    "en": "Helix Tree Fence",
+    "zh": "螺旋树木栅栏",
+    "vi": "Helix Tree Fence"
+  },
+  "block.betterend.helix_tree_gate": {
+    "en": "Helix Tree Gate",
+    "zh": "螺旋树木栅栏门",
+    "vi": "Helix Tree Gate"
+  },
+  "block.betterend.helix_tree_hanging_sign": {
+    "en": "Hanging Helix Tree Sign",
+    "zh": "悬挂式螺旋树木告示牌",
+    "vi": "Hanging Helix Tree Sign"
+  },
+  "block.betterend.helix_tree_ladder": {
+    "en": "Helix Tree Ladder",
+    "zh": "螺旋树木梯子",
+    "vi": "Helix Tree Ladder"
+  },
+  "block.betterend.helix_tree_leaves": {
+    "en": "Helix Tree Leaves",
+    "zh": "螺旋树叶",
+    "vi": "Helix Tree Leaves"
+  },
+  "block.betterend.helix_tree_log": {
+    "en": "Helix Tree Log",
+    "zh": "螺旋树木原木",
+    "vi": "Helix Tree Log"
+  },
+  "block.betterend.helix_tree_luminophor": {
+    "en": "Helix Tree Luminophor",
+    "zh": "螺旋树发光体",
+    "vi": "Helix Tree Luminophor"
+  },
+  "block.betterend.helix_tree_planks": {
+    "en": "Helix Tree Planks",
+    "zh": "螺旋树木板",
+    "vi": "Helix Tree Planks"
+  },
+  "block.betterend.helix_tree_plate": {
+    "en": "Helix Tree Pressure Plate",
+    "zh": "螺旋树木压力板",
+    "vi": "Helix Tree Pressure Plate"
+  },
+  "block.betterend.helix_tree_sapling": {
+    "en": "Helix Tree Sapling",
+    "zh": "螺旋树苗",
+    "vi": "Helix Tree Sapling"
+  },
+  "block.betterend.helix_tree_sign": {
+    "en": "Helix Tree Sign",
+    "zh": "螺旋树木告示牌",
+    "vi": "Helix Tree Sign"
+  },
+  "block.betterend.helix_tree_slab": {
+    "en": "Helix Tree Slab",
+    "zh": "螺旋树木台阶",
+    "vi": "Helix Tree Slab"
+  },
+  "block.betterend.helix_tree_stairs": {
+    "en": "Helix Tree Stairs",
+    "zh": "螺旋树木楼梯",
+    "vi": "Helix Tree Stairs"
+  },
+  "block.betterend.helix_tree_stripped_bark": {
+    "en": "Stripped Helix Tree Wood",
+    "zh": "去皮螺旋树木",
+    "vi": "Stripped Helix Tree Wood"
+  },
+  "block.betterend.helix_tree_stripped_log": {
+    "en": "Stripped Helix Tree Log",
+    "zh": "去皮螺旋树木原木",
+    "vi": "Stripped Helix Tree Log"
+  },
+  "block.betterend.helix_tree_taburet": {
+    "en": "Helix Tree Stool",
+    "zh": "螺旋树木凳",
+    "vi": "Helix Tree Stool"
+  },
+  "block.betterend.helix_tree_trapdoor": {
+    "en": "Helix Tree Trapdoor",
+    "zh": "螺旋树木活板门",
+    "vi": "Helix Tree Trapdoor"
+  },
+  "block.betterend.helix_tree_wall": {
+    "en": "Helix Tree Wall",
+    "zh": "螺旋树木墙",
+    "vi": "Helix Tree Wall"
+  },
+  "block.betterend.hydralux": {
+    "en": "Hydralux",
+    "zh": "水勒克斯",
+    "vi": "Hydralux"
+  },
+  "block.betterend.hydralux_petal_block": {
+    "en": "Hydralux Petal Block",
+    "zh": "水勒克斯花瓣块",
+    "vi": "Hydralux Petal Block"
+  },
+  "block.betterend.hydralux_petal_block_amber": {
+    "en": "Amber Petal Block",
+    "zh": "琥珀色花瓣块",
+    "vi": "Amber Petal Block"
+  },
+  "block.betterend.hydralux_petal_block_beige": {
+    "en": "Beige Petal Block",
+    "zh": "米黄色花瓣块",
+    "vi": "Beige Petal Block"
+  },
+  "block.betterend.hydralux_petal_block_black": {
+    "en": "Black Petal Block",
+    "zh": "黑色花瓣块",
+    "vi": "Black Petal Block"
+  },
+  "block.betterend.hydralux_petal_block_blue": {
+    "en": "Blue Petal Block",
+    "zh": "蓝色花瓣块",
+    "vi": "Blue Petal Block"
+  },
+  "block.betterend.hydralux_petal_block_brown": {
+    "en": "Brown Petal Block",
+    "zh": "棕色花瓣块",
+    "vi": "Brown Petal Block"
+  },
+  "block.betterend.hydralux_petal_block_cream": {
+    "en": "Cream Petal Block",
+    "zh": "奶油色花瓣块",
+    "vi": "Cream Petal Block"
+  },
+  "block.betterend.hydralux_petal_block_cyan": {
+    "en": "Cyan Petal Block",
+    "zh": "青色花瓣块",
+    "vi": "Cyan Petal Block"
+  },
+  "block.betterend.hydralux_petal_block_dark_green": {
+    "en": "Dark Green Petal Block",
+    "zh": "深绿色花瓣块",
+    "vi": "Dark Green Petal Block"
+  },
+  "block.betterend.hydralux_petal_block_forest_green": {
+    "en": "Forest Green Petal Block",
+    "zh": "森绿色花瓣块",
+    "vi": "Forest Green Petal Block"
+  },
+  "block.betterend.hydralux_petal_block_gray": {
+    "en": "Gray Petal Block",
+    "zh": "灰色花瓣块",
+    "vi": "Gray Petal Block"
+  },
+  "block.betterend.hydralux_petal_block_green": {
+    "en": "Green Petal Block",
+    "zh": "绿色花瓣块",
+    "vi": "Green Petal Block"
+  },
+  "block.betterend.hydralux_petal_block_hot_pink": {
+    "en": "Hot Pink Petal Block",
+    "zh": "桃红色花瓣块",
+    "vi": "Hot Pink Petal Block"
+  },
+  "block.betterend.hydralux_petal_block_indigo": {
+    "en": "Indigo Petal Block",
+    "zh": "靛蓝色花瓣块",
+    "vi": "Indigo Petal Block"
+  },
+  "block.betterend.hydralux_petal_block_light_blue": {
+    "en": "Light Blue Petal Block",
+    "zh": "淡蓝色花瓣块",
+    "vi": "Light Blue Petal Block"
+  },
+  "block.betterend.hydralux_petal_block_light_gray": {
+    "en": "Light Gray Petal Block",
+    "zh": "淡灰色花瓣块",
+    "vi": "Light Gray Petal Block"
+  },
+  "block.betterend.hydralux_petal_block_lime": {
+    "en": "Lime Petal Block",
+    "zh": "黄绿色花瓣块",
+    "vi": "Lime Petal Block"
+  },
+  "block.betterend.hydralux_petal_block_magenta": {
+    "en": "Magenta Petal Block",
+    "zh": "品红色花瓣块",
+    "vi": "Magenta Petal Block"
+  },
+  "block.betterend.hydralux_petal_block_maroon": {
+    "en": "Maroon Petal Block",
+    "zh": "红褐色花瓣块",
+    "vi": "Maroon Petal Block"
+  },
+  "block.betterend.hydralux_petal_block_navy": {
+    "en": "Navy Petal Block",
+    "zh": "藏青色花瓣块",
+    "vi": "Navy Petal Block"
+  },
+  "block.betterend.hydralux_petal_block_olive": {
+    "en": "Olive Petal Block",
+    "zh": "橄榄色花瓣块",
+    "vi": "Olive Petal Block"
+  },
+  "block.betterend.hydralux_petal_block_orange": {
+    "en": "Orange Petal Block",
+    "zh": "橙色花瓣块",
+    "vi": "Orange Petal Block"
+  },
+  "block.betterend.hydralux_petal_block_pale_green": {
+    "en": "Pale Green Petal Block",
+    "zh": "浅绿色花瓣块",
+    "vi": "Pale Green Petal Block"
+  },
+  "block.betterend.hydralux_petal_block_pale_pink": {
+    "en": "Pale Pink Petal Block",
+    "zh": "浅粉色花瓣块",
+    "vi": "Pale Pink Petal Block"
+  },
+  "block.betterend.hydralux_petal_block_pale_yellow": {
+    "en": "Pale Yellow Petal Block",
+    "zh": "浅黄色花瓣块",
+    "vi": "Pale Yellow Petal Block"
+  },
+  "block.betterend.hydralux_petal_block_pink": {
+    "en": "Pink Petal Block",
+    "zh": "粉色花瓣块",
+    "vi": "Pink Petal Block"
+  },
+  "block.betterend.hydralux_petal_block_purple": {
+    "en": "Purple Petal Block",
+    "zh": "紫色花瓣块",
+    "vi": "Purple Petal Block"
+  },
+  "block.betterend.hydralux_petal_block_red": {
+    "en": "Red Petal Block",
+    "zh": "红色花瓣块",
+    "vi": "Red Petal Block"
+  },
+  "block.betterend.hydralux_petal_block_sky_blue": {
+    "en": "Sky Blue Petal Block",
+    "zh": "天蓝色花瓣块",
+    "vi": "Sky Blue Petal Block"
+  },
+  "block.betterend.hydralux_petal_block_slate_gray": {
+    "en": "Slate Gray Petal Block",
+    "zh": "岩灰色花瓣块",
+    "vi": "Slate Gray Petal Block"
+  },
+  "block.betterend.hydralux_petal_block_violet": {
+    "en": "Violet Petal Block",
+    "zh": "紫罗兰色花瓣块",
+    "vi": "Violet Petal Block"
+  },
+  "block.betterend.hydralux_petal_block_white": {
+    "en": "White Petal Block",
+    "zh": "白色花瓣块",
+    "vi": "White Petal Block"
+  },
+  "block.betterend.hydralux_petal_block_yellow": {
+    "en": "Yellow Petal Block",
+    "zh": "黄色花瓣块",
+    "vi": "Yellow Petal Block"
+  },
+  "block.betterend.hydralux_sapling": {
+    "en": "Hydralux Sapling",
+    "zh": "水勒克斯幼苗",
+    "vi": "Hydralux Sapling"
+  },
+  "block.betterend.hydrothermal_vent": {
+    "en": "Hydrothermal Vent",
+    "zh": "热泉喷口",
+    "vi": "Hydrothermal Vent"
+  },
+  "block.betterend.inflexia": {
+    "en": "Inflexia",
+    "zh": "曲转草",
+    "vi": "Inflexia"
+  },
+  "block.betterend.infusion_pedestal": {
+    "en": "Infusion Pedestal",
+    "zh": "灌注基座",
+    "vi": "Infusion Pedestal"
+  },
+  "block.betterend.iron_bulb_lantern": {
+    "en": "Iron Bulb Lantern",
+    "zh": "铁灯泡灯笼",
+    "vi": "Iron Bulb Lantern"
+  },
+  "block.betterend.iron_bulb_lantern_black": {
+    "en": "Black Iron Bulb Lantern",
+    "zh": "黑色铁灯泡灯笼",
+    "vi": "Black Iron Bulb Lantern"
+  },
+  "block.betterend.iron_bulb_lantern_blue": {
+    "en": "Blue Iron Bulb Lantern",
+    "zh": "蓝色铁灯泡灯笼",
+    "vi": "Blue Iron Bulb Lantern"
+  },
+  "block.betterend.iron_bulb_lantern_brown": {
+    "en": "Brown Iron Bulb Lantern",
+    "zh": "棕色铁灯泡灯笼",
+    "vi": "Brown Iron Bulb Lantern"
+  },
+  "block.betterend.iron_bulb_lantern_cyan": {
+    "en": "Cyan Iron Bulb Lantern",
+    "zh": "青色铁灯泡灯笼",
+    "vi": "Cyan Iron Bulb Lantern"
+  },
+  "block.betterend.iron_bulb_lantern_gray": {
+    "en": "Gray Iron Bulb Lantern",
+    "zh": "灰色铁灯泡灯笼",
+    "vi": "Gray Iron Bulb Lantern"
+  },
+  "block.betterend.iron_bulb_lantern_green": {
+    "en": "Green Iron Bulb Lantern",
+    "zh": "绿色铁灯泡灯笼",
+    "vi": "Green Iron Bulb Lantern"
+  },
+  "block.betterend.iron_bulb_lantern_light_blue": {
+    "en": "Light Blue Iron Bulb Lantern",
+    "zh": "浅蓝色铁灯泡灯笼",
+    "vi": "Light Blue Iron Bulb Lantern"
+  },
+  "block.betterend.iron_bulb_lantern_light_gray": {
+    "en": "Light Gray Iron Bulb Lantern",
+    "zh": "浅灰色铁灯泡灯笼",
+    "vi": "Light Gray Iron Bulb Lantern"
+  },
+  "block.betterend.iron_bulb_lantern_lime": {
+    "en": "Lime Iron Bulb Lantern",
+    "zh": "黄绿色铁灯泡灯笼",
+    "vi": "Lime Iron Bulb Lantern"
+  },
+  "block.betterend.iron_bulb_lantern_magenta": {
+    "en": "Magenta Iron Bulb Lantern",
+    "zh": "品红色铁灯泡灯笼",
+    "vi": "Magenta Iron Bulb Lantern"
+  },
+  "block.betterend.iron_bulb_lantern_orange": {
+    "en": "Orange Iron Bulb Lantern",
+    "zh": "橙色铁灯泡灯笼",
+    "vi": "Orange Iron Bulb Lantern"
+  },
+  "block.betterend.iron_bulb_lantern_pink": {
+    "en": "Pink Iron Bulb Lantern",
+    "zh": "粉色铁灯泡灯笼",
+    "vi": "Pink Iron Bulb Lantern"
+  },
+  "block.betterend.iron_bulb_lantern_purple": {
+    "en": "Purple Iron Bulb Lantern",
+    "zh": "紫色铁灯泡灯笼",
+    "vi": "Purple Iron Bulb Lantern"
+  },
+  "block.betterend.iron_bulb_lantern_red": {
+    "en": "Red Iron Bulb Lantern",
+    "zh": "红色铁灯泡灯笼",
+    "vi": "Red Iron Bulb Lantern"
+  },
+  "block.betterend.iron_bulb_lantern_white": {
+    "en": "White Iron Bulb Lantern",
+    "zh": "白色铁灯泡灯笼",
+    "vi": "White Iron Bulb Lantern"
+  },
+  "block.betterend.iron_bulb_lantern_yellow": {
+    "en": "Yellow Iron Bulb Lantern",
+    "zh": "黄色铁灯泡灯笼",
+    "vi": "Yellow Iron Bulb Lantern"
+  },
+  "block.betterend.iron_chandelier": {
+    "en": "Iron Chandelier",
+    "zh": "铁吊灯",
+    "vi": "Iron Chandelier"
+  },
+  "block.betterend.ivis_moss": {
+    "en": "Ivis Moss",
+    "zh": "常夜苔藓",
+    "vi": "Ivis Moss"
+  },
+  "block.betterend.ivis_vine": {
+    "en": "Ivis Vine",
+    "zh": "常夜藤",
+    "vi": "Ivis Vine"
+  },
+  "block.betterend.jellyshroom_bar_stool": {
+    "en": "Jellyshroom Bar Stool",
+    "zh": "果冻菌木高脚凳",
+    "vi": "Jellyshroom Bar Stool"
+  },
+  "block.betterend.jellyshroom_bark": {
+    "en": "Jellyshroom Wood",
+    "zh": "果冻菌木",
+    "vi": "Jellyshroom Wood"
+  },
+  "block.betterend.jellyshroom_barrel": {
+    "en": "Jellyshroom Barrel",
+    "zh": "果冻菌木桶",
+    "vi": "Jellyshroom Barrel"
+  },
+  "block.betterend.jellyshroom_bookshelf": {
+    "en": "Jellyshroom Bookshelf",
+    "zh": "果冻菌木书架",
+    "vi": "Jellyshroom Bookshelf"
+  },
+  "block.betterend.jellyshroom_button": {
+    "en": "Jellyshroom Button",
+    "zh": "果冻菌木按钮",
+    "vi": "Jellyshroom Button"
+  },
+  "block.betterend.jellyshroom_cap_purple": {
+    "en": "Purple Jellyshroom Cap",
+    "zh": "紫色果冻菌菌盖",
+    "vi": "Purple Jellyshroom Cap"
+  },
+  "block.betterend.jellyshroom_chair": {
+    "en": "Jellyshroom Chair",
+    "zh": "果冻菌木椅子",
+    "vi": "Jellyshroom Chair"
+  },
+  "block.betterend.jellyshroom_chest": {
+    "en": "Jellyshroom Chest",
+    "zh": "果冻菌木箱子",
+    "vi": "Jellyshroom Chest"
+  },
+  "block.betterend.jellyshroom_composter": {
+    "en": "Jellyshroom Composter",
+    "zh": "果冻菌木堆肥桶",
+    "vi": "Jellyshroom Composter"
+  },
+  "block.betterend.jellyshroom_crafting_table": {
+    "en": "Jellyshroom Crafting Table",
+    "zh": "果冻菌木工作台",
+    "vi": "Jellyshroom Crafting Table"
+  },
+  "block.betterend.jellyshroom_door": {
+    "en": "Jellyshroom Door",
+    "zh": "果冻菌木门",
+    "vi": "Jellyshroom Door"
+  },
+  "block.betterend.jellyshroom_fence": {
+    "en": "Jellyshroom Fence",
+    "zh": "果冻菌木栅栏",
+    "vi": "Jellyshroom Fence"
+  },
+  "block.betterend.jellyshroom_gate": {
+    "en": "Jellyshroom Gate",
+    "zh": "果冻菌木栅栏门",
+    "vi": "Jellyshroom Gate"
+  },
+  "block.betterend.jellyshroom_hanging_sign": {
+    "en": "Hanging Jellyshroom Sign",
+    "zh": "悬挂式果冻菌木告示牌",
+    "vi": "Hanging Jellyshroom Sign"
+  },
+  "block.betterend.jellyshroom_ladder": {
+    "en": "Jellyshroom Ladder",
+    "zh": "果冻菌木梯子",
+    "vi": "Jellyshroom Ladder"
+  },
+  "block.betterend.jellyshroom_log": {
+    "en": "Jellyshroom Log",
+    "zh": "果冻菌原木",
+    "vi": "Jellyshroom Log"
+  },
+  "block.betterend.jellyshroom_planks": {
+    "en": "Jellyshroom Planks",
+    "zh": "果冻菌木板",
+    "vi": "Jellyshroom Planks"
+  },
+  "block.betterend.jellyshroom_plate": {
+    "en": "Jellyshroom Pressure Plate",
+    "zh": "果冻菌木压力板",
+    "vi": "Jellyshroom Pressure Plate"
+  },
+  "block.betterend.jellyshroom_sign": {
+    "en": "Jellyshroom Sign",
+    "zh": "果冻菌木告示牌",
+    "vi": "Jellyshroom Sign"
+  },
+  "block.betterend.jellyshroom_slab": {
+    "en": "Jellyshroom Slab",
+    "zh": "果冻菌木台阶",
+    "vi": "Jellyshroom Slab"
+  },
+  "block.betterend.jellyshroom_stairs": {
+    "en": "Jellyshroom Stairs",
+    "zh": "果冻菌木楼梯",
+    "vi": "Jellyshroom Stairs"
+  },
+  "block.betterend.jellyshroom_stripped_bark": {
+    "en": "Stripped Jellyshroom Wood",
+    "zh": "去皮果冻菌木",
+    "vi": "Stripped Jellyshroom Wood"
+  },
+  "block.betterend.jellyshroom_stripped_log": {
+    "en": "Stripped Jellyshroom Log",
+    "zh": "去皮果冻菌原木",
+    "vi": "Stripped Jellyshroom Log"
+  },
+  "block.betterend.jellyshroom_taburet": {
+    "en": "Jellyshroom Stool",
+    "zh": "果冻菌木凳",
+    "vi": "Jellyshroom Stool"
+  },
+  "block.betterend.jellyshroom_trapdoor": {
+    "en": "Jellyshroom Trapdoor",
+    "zh": "果冻菌木活板门",
+    "vi": "Jellyshroom Trapdoor"
+  },
+  "block.betterend.jellyshroom_wall": {
+    "en": "Jellyshroom Wall",
+    "zh": "果冻菌木墙",
+    "vi": "Jellyshroom Wall"
+  },
+  "block.betterend.jungle_fern": {
+    "en": "Jungle Fern",
+    "zh": "丛林蕨",
+    "vi": "Jungle Fern"
+  },
+  "block.betterend.jungle_grass": {
+    "en": "Jungle Grass",
+    "zh": "丛林草",
+    "vi": "Jungle Grass"
+  },
+  "block.betterend.jungle_moss": {
+    "en": "Jungle Moss",
+    "zh": "丛林苔岩",
+    "vi": "Jungle Moss"
+  },
+  "block.betterend.jungle_moss_path": {
+    "en": "Jungle Moss Path",
+    "zh": "丛林苔径",
+    "vi": "Jungle Moss Path"
+  },
+  "block.betterend.jungle_vine": {
+    "en": "Jungle Vine",
+    "zh": "丛林藤蔓",
+    "vi": "Jungle Vine"
+  },
+  "block.betterend.lacugrove_bar_stool": {
+    "en": "Lacugrove Bar Stool",
+    "zh": "湖树木高脚凳",
+    "vi": "Lacugrove Bar Stool"
+  },
+  "block.betterend.lacugrove_bark": {
+    "en": "Lacugrove Wood",
+    "zh": "湖树木",
+    "vi": "Lacugrove Wood"
+  },
+  "block.betterend.lacugrove_barrel": {
+    "en": "Lacugrove Barrel",
+    "zh": "湖树木桶",
+    "vi": "Lacugrove Barrel"
+  },
+  "block.betterend.lacugrove_bookshelf": {
+    "en": "Lacugrove Bookshelf",
+    "zh": "湖树木书架",
+    "vi": "Lacugrove Bookshelf"
+  },
+  "block.betterend.lacugrove_button": {
+    "en": "Lacugrove Button",
+    "zh": "湖树木按钮",
+    "vi": "Lacugrove Button"
+  },
+  "block.betterend.lacugrove_chair": {
+    "en": "Lacugrove Chair",
+    "zh": "湖树木椅子",
+    "vi": "Lacugrove Chair"
+  },
+  "block.betterend.lacugrove_chest": {
+    "en": "Lacugrove Chest",
+    "zh": "湖树木箱子",
+    "vi": "Lacugrove Chest"
+  },
+  "block.betterend.lacugrove_composter": {
+    "en": "Lacugrove Composter",
+    "zh": "湖树木堆肥桶",
+    "vi": "Lacugrove Composter"
+  },
+  "block.betterend.lacugrove_crafting_table": {
+    "en": "Lacugrove Crafting Table",
+    "zh": "湖树木工作台",
+    "vi": "Lacugrove Crafting Table"
+  },
+  "block.betterend.lacugrove_door": {
+    "en": "Lacugrove Door",
+    "zh": "湖树木门",
+    "vi": "Lacugrove Door"
+  },
+  "block.betterend.lacugrove_fence": {
+    "en": "Lacugrove Fence",
+    "zh": "湖树木栅栏",
+    "vi": "Lacugrove Fence"
+  },
+  "block.betterend.lacugrove_gate": {
+    "en": "Lacugrove Gate",
+    "zh": "湖树木栅栏门",
+    "vi": "Lacugrove Gate"
+  },
+  "block.betterend.lacugrove_hanging_sign": {
+    "en": "Hanging Lacugrove Sign",
+    "zh": "悬挂式湖树木告示牌",
+    "vi": "Hanging Lacugrove Sign"
+  },
+  "block.betterend.lacugrove_ladder": {
+    "en": "Lacugrove Ladder",
+    "zh": "湖树木梯子",
+    "vi": "Lacugrove Ladder"
+  },
+  "block.betterend.lacugrove_leaves": {
+    "en": "Lacugrove Leaves",
+    "zh": "湖树树叶",
+    "vi": "Lacugrove Leaves"
+  },
+  "block.betterend.lacugrove_log": {
+    "en": "Lacugrove Log",
+    "zh": "湖树原木",
+    "vi": "Lacugrove Log"
+  },
+  "block.betterend.lacugrove_planks": {
+    "en": "Lacugrove Planks",
+    "zh": "湖树木板",
+    "vi": "Lacugrove Planks"
+  },
+  "block.betterend.lacugrove_plate": {
+    "en": "Lacugrove Pressure Plate",
+    "zh": "湖树木压力板",
+    "vi": "Lacugrove Pressure Plate"
+  },
+  "block.betterend.lacugrove_sapling": {
+    "en": "Lacugrove Sapling",
+    "zh": "湖树树苗",
+    "vi": "Lacugrove Sapling"
+  },
+  "block.betterend.lacugrove_sign": {
+    "en": "Lacugrove Sign",
+    "zh": "湖树木告示牌",
+    "vi": "Lacugrove Sign"
+  },
+  "block.betterend.lacugrove_slab": {
+    "en": "Lacugrove Slab",
+    "zh": "湖树木台阶",
+    "vi": "Lacugrove Slab"
+  },
+  "block.betterend.lacugrove_stairs": {
+    "en": "Lacugrove Stairs",
+    "zh": "湖树木楼梯",
+    "vi": "Lacugrove Stairs"
+  },
+  "block.betterend.lacugrove_stripped_bark": {
+    "en": "Stripped Lacugrove Wood",
+    "zh": "去皮湖树木",
+    "vi": "Stripped Lacugrove Wood"
+  },
+  "block.betterend.lacugrove_stripped_log": {
+    "en": "Stripped Lacugrove Log",
+    "zh": "去皮湖树原木",
+    "vi": "Stripped Lacugrove Log"
+  },
+  "block.betterend.lacugrove_taburet": {
+    "en": "Lacugrove Stool",
+    "zh": "湖树木凳",
+    "vi": "Lacugrove Stool"
+  },
+  "block.betterend.lacugrove_trapdoor": {
+    "en": "Lacugrove Trapdoor",
+    "zh": "湖树木活板门",
+    "vi": "Lacugrove Trapdoor"
+  },
+  "block.betterend.lacugrove_wall": {
+    "en": "Lacugrove Wall",
+    "zh": "湖树木墙",
+    "vi": "Lacugrove Wall"
+  },
+  "block.betterend.lamellarium": {
+    "en": "Lamellarium",
+    "zh": "薄层草",
+    "vi": "Lamellarium"
+  },
+  "block.betterend.lanceleaf": {
+    "en": "Lanceleaf",
+    "zh": "长矛叶",
+    "vi": "Lanceleaf"
+  },
+  "block.betterend.lanceleaf_seed": {
+    "en": "Lanceleaf Seed",
+    "zh": "长毛叶种子",
+    "vi": "Lanceleaf Seed"
+  },
+  "block.betterend.large_amaranita_mushroom": {
+    "en": "Large Amaranita Mushroom",
+    "zh": "大型不衰鹅膏蘑菇",
+    "vi": "Large Amaranita Mushroom"
+  },
+  "block.betterend.lucernia_bar_stool": {
+    "en": "Lucernia Bar Stool",
+    "zh": "琉森木高脚凳",
+    "vi": "Lucernia Bar Stool"
+  },
+  "block.betterend.lucernia_bark": {
+    "en": "Lucernia Wood",
+    "zh": "琉森木",
+    "vi": "Lucernia Wood"
+  },
+  "block.betterend.lucernia_barrel": {
+    "en": "Lucernia Barrel",
+    "zh": "琉森木桶",
+    "vi": "Lucernia Barrel"
+  },
+  "block.betterend.lucernia_bookshelf": {
+    "en": "Lucernia Bookshelf",
+    "zh": "琉森木书架",
+    "vi": "Lucernia Bookshelf"
+  },
+  "block.betterend.lucernia_button": {
+    "en": "Lucernia Button",
+    "zh": "琉森木按钮",
+    "vi": "Lucernia Button"
+  },
+  "block.betterend.lucernia_chair": {
+    "en": "Lucernia Chair",
+    "zh": "琉森木椅子",
+    "vi": "Lucernia Chair"
+  },
+  "block.betterend.lucernia_chest": {
+    "en": "Lucernia Chest",
+    "zh": "琉森木箱子",
+    "vi": "Lucernia Chest"
+  },
+  "block.betterend.lucernia_composter": {
+    "en": "Lucernia Composter",
+    "zh": "琉森木堆肥桶",
+    "vi": "Lucernia Composter"
+  },
+  "block.betterend.lucernia_crafting_table": {
+    "en": "Lucernia Crafting Table",
+    "zh": "琉森木工作台",
+    "vi": "Lucernia Crafting Table"
+  },
+  "block.betterend.lucernia_door": {
+    "en": "Lucernia Door",
+    "zh": "琉森木门",
+    "vi": "Lucernia Door"
+  },
+  "block.betterend.lucernia_fence": {
+    "en": "Lucernia Fence",
+    "zh": "琉森木栅栏",
+    "vi": "Lucernia Fence"
+  },
+  "block.betterend.lucernia_gate": {
+    "en": "Lucernia Gate",
+    "zh": "琉森木栅栏门",
+    "vi": "Lucernia Gate"
+  },
+  "block.betterend.lucernia_hanging_sign": {
+    "en": "Hanging Lucernia Sign",
+    "zh": "悬挂式琉森木告示牌",
+    "vi": "Hanging Lucernia Sign"
+  },
+  "block.betterend.lucernia_jellyshroom_bar_stool": {
+    "en": "Jelly Lucernia Bar Stool",
+    "zh": "果冻琉森木高脚凳",
+    "vi": "Jelly Lucernia Bar Stool"
+  },
+  "block.betterend.lucernia_jellyshroom_chair": {
+    "en": "Jelly Lucernia Chair",
+    "zh": "果冻琉森木椅子",
+    "vi": "Jelly Lucernia Chair"
+  },
+  "block.betterend.lucernia_jellyshroom_hanging_sign": {
+    "en": "Hanging Jelly-Lucernia Sign",
+    "zh": "悬挂式果冻琉森木告示牌",
+    "vi": "Hanging Jelly-Lucernia Sign"
+  },
+  "block.betterend.lucernia_jellyshroom_taburet": {
+    "en": "Jelly Lucernia Stool",
+    "zh": "果冻琉森木凳",
+    "vi": "Jelly Lucernia Stool"
+  },
+  "block.betterend.lucernia_jellyshroom_wall": {
+    "en": "Jelly Lucernia Wall",
+    "zh": "果冻琉森木墙",
+    "vi": "Jelly Lucernia Wall"
+  },
+  "block.betterend.lucernia_ladder": {
+    "en": "Lucernia Ladder",
+    "zh": "琉森木梯子",
+    "vi": "Lucernia Ladder"
+  },
+  "block.betterend.lucernia_leaves": {
+    "en": "Lucernia Leaves",
+    "zh": "琉森树叶",
+    "vi": "Lucernia Leaves"
+  },
+  "block.betterend.lucernia_log": {
+    "en": "Lucernia Log",
+    "zh": "琉森原木",
+    "vi": "Lucernia Log"
+  },
+  "block.betterend.lucernia_outer_leaves": {
+    "en": "Lucernia Outer Leaves",
+    "zh": "琉森外层树叶",
+    "vi": "Lucernia Outer Leaves"
+  },
+  "block.betterend.lucernia_planks": {
+    "en": "Lucernia Planks",
+    "zh": "琉森木板",
+    "vi": "Lucernia Planks"
+  },
+  "block.betterend.lucernia_plate": {
+    "en": "Lucernia Pressure Plate",
+    "zh": "琉森木压力板",
+    "vi": "Lucernia Pressure Plate"
+  },
+  "block.betterend.lucernia_sapling": {
+    "en": "Lucernia Sapling",
+    "zh": "琉森树苗",
+    "vi": "Lucernia Sapling"
+  },
+  "block.betterend.lucernia_sign": {
+    "en": "Lucernia Sign",
+    "zh": "琉森木告示牌",
+    "vi": "Lucernia Sign"
+  },
+  "block.betterend.lucernia_slab": {
+    "en": "Lucernia Slab",
+    "zh": "琉森木台阶",
+    "vi": "Lucernia Slab"
+  },
+  "block.betterend.lucernia_stairs": {
+    "en": "Lucernia Stairs",
+    "zh": "琉森木楼梯",
+    "vi": "Lucernia Stairs"
+  },
+  "block.betterend.lucernia_stripped_bark": {
+    "en": "Stripped Lucernia Wood",
+    "zh": "去皮琉森木",
+    "vi": "Stripped Lucernia Wood"
+  },
+  "block.betterend.lucernia_stripped_log": {
+    "en": "Stripped Lucernia Log",
+    "zh": "去皮琉森原木",
+    "vi": "Stripped Lucernia Log"
+  },
+  "block.betterend.lucernia_taburet": {
+    "en": "Lucernia Stool",
+    "zh": "琉森木凳",
+    "vi": "Lucernia Stool"
+  },
+  "block.betterend.lucernia_trapdoor": {
+    "en": "Lucernia Trapdoor",
+    "zh": "琉森木活板门",
+    "vi": "Lucernia Trapdoor"
+  },
+  "block.betterend.lucernia_wall": {
+    "en": "Lucernia Wall",
+    "zh": "琉森木墙",
+    "vi": "Lucernia Wall"
+  },
+  "block.betterend.lumecorn": {
+    "en": "Lumecorn",
+    "zh": "流明玉米",
+    "vi": "Lumecorn"
+  },
+  "block.betterend.lumecorn_seed": {
+    "en": "Lumecorn Seed",
+    "zh": "流明玉米种子",
+    "vi": "Lumecorn Seed"
+  },
+  "block.betterend.lutebus": {
+    "en": "Lutebus",
+    "zh": "琴草",
+    "vi": "Lutebus"
+  },
+  "block.betterend.magnula": {
+    "en": "Magnula",
+    "zh": "木蓝",
+    "vi": "Magnula"
+  },
+  "block.betterend.menger_sponge": {
+    "en": "Menger Sponge",
+    "zh": "门格海绵",
+    "vi": "Menger Sponge"
+  },
+  "block.betterend.menger_sponge_wet": {
+    "en": "Wet Menger Sponge",
+    "zh": "湿门格海绵",
+    "vi": "Wet Menger Sponge"
+  },
+  "block.betterend.missing_tile": {
+    "en": "Missing Tile",
+    "zh": "纹理丢失瓦",
+    "vi": "Missing Tile"
+  },
+  "block.betterend.mossy_bone": {
+    "en": "Mossy Bone",
+    "zh": "生苔骨块",
+    "vi": "Mossy Bone"
+  },
+  "block.betterend.mossy_dragon_bone": {
+    "en": "Mossy Dragon Bone",
+    "zh": "生苔龙骨块",
+    "vi": "Mossy Dragon Bone"
+  },
+  "block.betterend.mossy_glowshroom_bar_stool": {
+    "en": "Mossy Glowshroom Bar Stool",
+    "zh": "苔光菇木高脚凳",
+    "vi": "Mossy Glowshroom Bar Stool"
+  },
+  "block.betterend.mossy_glowshroom_bark": {
+    "en": "Mossy Glowshroom Wood",
+    "zh": "苔光菇木",
+    "vi": "Mossy Glowshroom Wood"
+  },
+  "block.betterend.mossy_glowshroom_barrel": {
+    "en": "Mossy Glowshroom Barrel",
+    "zh": "苔光菇木桶",
+    "vi": "Mossy Glowshroom Barrel"
+  },
+  "block.betterend.mossy_glowshroom_bookshelf": {
+    "en": "Mossy Glowshroom Bookshelf",
+    "zh": "苔光菇木书架",
+    "vi": "Mossy Glowshroom Bookshelf"
+  },
+  "block.betterend.mossy_glowshroom_button": {
+    "en": "Mossy Glowshroom Button",
+    "zh": "苔光菇木按钮",
+    "vi": "Mossy Glowshroom Button"
+  },
+  "block.betterend.mossy_glowshroom_cap": {
+    "en": "Mossy Glowshroom Cap",
+    "zh": "苔光菇菌盖",
+    "vi": "Mossy Glowshroom Cap"
+  },
+  "block.betterend.mossy_glowshroom_chair": {
+    "en": "Mossy Glowshroom Chair",
+    "zh": "苔光菇木椅子",
+    "vi": "Mossy Glowshroom Chair"
+  },
+  "block.betterend.mossy_glowshroom_chest": {
+    "en": "Mossy Glowshroom Chest",
+    "zh": "苔光菇木箱子",
+    "vi": "Mossy Glowshroom Chest"
+  },
+  "block.betterend.mossy_glowshroom_composter": {
+    "en": "Mossy Glowshroom Composter",
+    "zh": "苔光菇木堆肥桶",
+    "vi": "Mossy Glowshroom Composter"
+  },
+  "block.betterend.mossy_glowshroom_crafting_table": {
+    "en": "Mossy Glowshroom Crafting Table",
+    "zh": "苔光菇木工作台",
+    "vi": "Mossy Glowshroom Crafting Table"
+  },
+  "block.betterend.mossy_glowshroom_door": {
+    "en": "Mossy Glowshroom Door",
+    "zh": "苔光菇木门",
+    "vi": "Mossy Glowshroom Door"
+  },
+  "block.betterend.mossy_glowshroom_fence": {
+    "en": "Mossy Glowshroom Fence",
+    "zh": "苔光菇木栅栏",
+    "vi": "Mossy Glowshroom Fence"
+  },
+  "block.betterend.mossy_glowshroom_fur": {
+    "en": "Mossy Glowshroom Fur",
+    "zh": "苔光菇菌绒",
+    "vi": "Mossy Glowshroom Fur"
+  },
+  "block.betterend.mossy_glowshroom_gate": {
+    "en": "Mossy Glowshroom Gate",
+    "zh": "苔光菇木栅栏门",
+    "vi": "Mossy Glowshroom Gate"
+  },
+  "block.betterend.mossy_glowshroom_hanging_sign": {
+    "en": "Hanging Mossy Glowshroom Sign",
+    "zh": "悬挂式苔光菇木告示牌",
+    "vi": "Hanging Mossy Glowshroom Sign"
+  },
+  "block.betterend.mossy_glowshroom_hymenophore": {
+    "en": "Mossy Glowshroom Hymenophore",
+    "zh": "苔光菇子层体",
+    "vi": "Mossy Glowshroom Hymenophore"
+  },
+  "block.betterend.mossy_glowshroom_ladder": {
+    "en": "Mossy Glowshroom Ladder",
+    "zh": "苔光菇木梯子",
+    "vi": "Mossy Glowshroom Ladder"
+  },
+  "block.betterend.mossy_glowshroom_log": {
+    "en": "Mossy Glowshroom Log",
+    "zh": "苔光菇原木",
+    "vi": "Mossy Glowshroom Log"
+  },
+  "block.betterend.mossy_glowshroom_planks": {
+    "en": "Mossy Glowshroom Planks",
+    "zh": "苔光菇木板",
+    "vi": "Mossy Glowshroom Planks"
+  },
+  "block.betterend.mossy_glowshroom_plate": {
+    "en": "Mossy Glowshroom Pressure Plate",
+    "zh": "苔光菇木压力板",
+    "vi": "Mossy Glowshroom Pressure Plate"
+  },
+  "block.betterend.mossy_glowshroom_sapling": {
+    "en": "Mossy Glowshroom Sapling",
+    "zh": "苔光菇幼苗",
+    "vi": "Mossy Glowshroom Sapling"
+  },
+  "block.betterend.mossy_glowshroom_sign": {
+    "en": "Mossy Glowshroom Sign",
+    "zh": "苔光菇木告示牌",
+    "vi": "Mossy Glowshroom Sign"
+  },
+  "block.betterend.mossy_glowshroom_slab": {
+    "en": "Mossy Glowshroom Slab",
+    "zh": "苔光菇木台阶",
+    "vi": "Mossy Glowshroom Slab"
+  },
+  "block.betterend.mossy_glowshroom_stairs": {
+    "en": "Mossy Glowshroom Stairs",
+    "zh": "苔光菇木楼梯",
+    "vi": "Mossy Glowshroom Stairs"
+  },
+  "block.betterend.mossy_glowshroom_stripped_bark": {
+    "en": "Stripped Mossy Glowshroom Wood",
+    "zh": "去皮苔光菇木",
+    "vi": "Stripped Mossy Glowshroom Wood"
+  },
+  "block.betterend.mossy_glowshroom_stripped_log": {
+    "en": "Stripped Mossy Glowshroom Log",
+    "zh": "去皮苔光菇原木",
+    "vi": "Stripped Mossy Glowshroom Log"
+  },
+  "block.betterend.mossy_glowshroom_taburet": {
+    "en": "Mossy Glowshroom Stool",
+    "zh": "苔光菇木凳",
+    "vi": "Mossy Glowshroom Stool"
+  },
+  "block.betterend.mossy_glowshroom_trapdoor": {
+    "en": "Mossy Glowshroom Trapdoor",
+    "zh": "苔光菇木活板门",
+    "vi": "Mossy Glowshroom Trapdoor"
+  },
+  "block.betterend.mossy_glowshroom_wall": {
+    "en": "Mossy Glowshroom Wall",
+    "zh": "苔光菇木墙",
+    "vi": "Mossy Glowshroom Wall"
+  },
+  "block.betterend.mossy_obsidian": {
+    "en": "Mossy Obsidian",
+    "zh": "生苔黑曜石",
+    "vi": "Mossy Obsidian"
+  },
+  "block.betterend.murkweed": {
+    "en": "Murkweed",
+    "zh": "昏暗草",
+    "vi": "Murkweed"
+  },
+  "block.betterend.needlegrass": {
+    "en": "Needlegrass",
+    "zh": "针茅草",
+    "vi": "Needlegrass"
+  },
+  "block.betterend.neon_cactus": {
+    "en": "Neon Cactus",
+    "zh": "霓虹仙人掌",
+    "vi": "Neon Cactus"
+  },
+  "block.betterend.neon_cactus_block": {
+    "en": "Neon Cactus Block",
+    "zh": "霓虹仙人掌块",
+    "vi": "Neon Cactus Block"
+  },
+  "block.betterend.neon_cactus_slab": {
+    "en": "Neon Cactus Slab",
+    "zh": "霓虹仙人掌台阶",
+    "vi": "Neon Cactus Slab"
+  },
+  "block.betterend.neon_cactus_stairs": {
+    "en": "Neon Cactus Stairs",
+    "zh": "霓虹仙人掌楼梯",
+    "vi": "Neon Cactus Stairs"
+  },
+  "block.betterend.nightshade_moss": {
+    "en": "Nightshade Moss",
+    "zh": "夜影苔藓",
+    "vi": "Nightshade Moss"
+  },
+  "block.betterend.orango": {
+    "en": "Orango",
+    "zh": "橙草",
+    "vi": "Orango"
+  },
+  "block.betterend.pallidium_full": {
+    "en": "Pallidium (Full Cover)",
+    "zh": "苍白石(完全覆盖)",
+    "vi": "Pallidium (Full Cover)"
+  },
+  "block.betterend.pallidium_heavy": {
+    "en": "Pallidium (Heavy Cover)",
+    "zh": "苍白石(大量覆盖)",
+    "vi": "Pallidium (Heavy Cover)"
+  },
+  "block.betterend.pallidium_thin": {
+    "en": "Pallidium (Thin Cover)",
+    "zh": "苍白石(少量覆盖)",
+    "vi": "Pallidium (Thin Cover)"
+  },
+  "block.betterend.pallidium_tiny": {
+    "en": "Pallidium (Tiny Cover)",
+    "zh": "苍白石(轻微覆盖)",
+    "vi": "Pallidium (Tiny Cover)"
+  },
+  "block.betterend.pearlberry_seed": {
+    "en": "Pearlberry Seed",
+    "zh": "珍珠浆果种子",
+    "vi": "Pearlberry Seed"
+  },
+  "block.betterend.pink_moss": {
+    "en": "Pink Moss",
+    "zh": "粉色苔岩",
+    "vi": "Pink Moss"
+  },
+  "block.betterend.pink_moss_path": {
+    "en": "Pink Moss Path",
+    "zh": "粉色苔径",
+    "vi": "Pink Moss Path"
+  },
+  "block.betterend.pond_anemone": {
+    "en": "Pond Anemone",
+    "zh": "池海葵",
+    "vi": "Pond Anemone"
+  },
+  "block.betterend.purple_polypore": {
+    "en": "Purple Polypore",
+    "zh": "紫色多孔菌",
+    "vi": "Purple Polypore"
+  },
+  "block.betterend.purpur_lantern": {
+    "en": "Purpur Lantern",
+    "zh": "紫珀灯笼",
+    "vi": "Purpur Lantern"
+  },
+  "block.betterend.purpur_pedestal": {
+    "en": "Purpur Pedestal",
+    "zh": "紫珀基座",
+    "vi": "Purpur Pedestal"
+  },
+  "block.betterend.pythadendron_bar_stool": {
+    "en": "Pythadendron Bar Stool",
+    "zh": "毕达枝木高脚凳",
+    "vi": "Pythadendron Bar Stool"
+  },
+  "block.betterend.pythadendron_bark": {
+    "en": "Pythadendron Wood",
+    "zh": "毕达枝木",
+    "vi": "Pythadendron Wood"
+  },
+  "block.betterend.pythadendron_barrel": {
+    "en": "Pythadendron Barrel",
+    "zh": "毕达枝木桶",
+    "vi": "Pythadendron Barrel"
+  },
+  "block.betterend.pythadendron_bookshelf": {
+    "en": "Pythadendron Bookshelf",
+    "zh": "毕达枝木书架",
+    "vi": "Pythadendron Bookshelf"
+  },
+  "block.betterend.pythadendron_button": {
+    "en": "Pythadendron Button",
+    "zh": "毕达枝木按钮",
+    "vi": "Pythadendron Button"
+  },
+  "block.betterend.pythadendron_chair": {
+    "en": "Pythadendron Chair",
+    "zh": "毕达枝木椅子",
+    "vi": "Pythadendron Chair"
+  },
+  "block.betterend.pythadendron_chest": {
+    "en": "Pythadendron Chest",
+    "zh": "毕达枝木箱子",
+    "vi": "Pythadendron Chest"
+  },
+  "block.betterend.pythadendron_composter": {
+    "en": "Pythadendron Composter",
+    "zh": "毕达枝木堆肥桶",
+    "vi": "Pythadendron Composter"
+  },
+  "block.betterend.pythadendron_crafting_table": {
+    "en": "Pythadendron Crafting Table",
+    "zh": "毕达枝木工作台",
+    "vi": "Pythadendron Crafting Table"
+  },
+  "block.betterend.pythadendron_door": {
+    "en": "Pythadendron Door",
+    "zh": "毕达枝木门",
+    "vi": "Pythadendron Door"
+  },
+  "block.betterend.pythadendron_fence": {
+    "en": "Pythadendron Fence",
+    "zh": "毕达枝木栅栏",
+    "vi": "Pythadendron Fence"
+  },
+  "block.betterend.pythadendron_gate": {
+    "en": "Pythadendron Gate",
+    "zh": "毕达枝木栅栏门",
+    "vi": "Pythadendron Gate"
+  },
+  "block.betterend.pythadendron_hanging_sign": {
+    "en": "Hanging Pythadendron Sign",
+    "zh": "悬挂式毕达枝木告示牌",
+    "vi": "Hanging Pythadendron Sign"
+  },
+  "block.betterend.pythadendron_ladder": {
+    "en": "Pythadendron Ladder",
+    "zh": "毕达枝梯子",
+    "vi": "Pythadendron Ladder"
+  },
+  "block.betterend.pythadendron_leaves": {
+    "en": "Pythadendron Leaves",
+    "zh": "毕达枝树叶",
+    "vi": "Pythadendron Leaves"
+  },
+  "block.betterend.pythadendron_log": {
+    "en": "Pythadendron Log",
+    "zh": "毕达枝原木",
+    "vi": "Pythadendron Log"
+  },
+  "block.betterend.pythadendron_planks": {
+    "en": "Pythadendron Planks",
+    "zh": "毕达枝木板",
+    "vi": "Pythadendron Planks"
+  },
+  "block.betterend.pythadendron_plate": {
+    "en": "Pythadendron Pressure Plate",
+    "zh": "毕达枝木压力板",
+    "vi": "Pythadendron Pressure Plate"
+  },
+  "block.betterend.pythadendron_sapling": {
+    "en": "Pythadendron Sapling",
+    "zh": "毕达枝树苗",
+    "vi": "Pythadendron Sapling"
+  },
+  "block.betterend.pythadendron_sign": {
+    "en": "Pythadendron Sign",
+    "zh": "毕达枝木告示牌",
+    "vi": "Pythadendron Sign"
+  },
+  "block.betterend.pythadendron_slab": {
+    "en": "Pythadendron Slab",
+    "zh": "毕达枝木台阶",
+    "vi": "Pythadendron Slab"
+  },
+  "block.betterend.pythadendron_stairs": {
+    "en": "Pythadendron Stairs",
+    "zh": "毕达枝木楼梯",
+    "vi": "Pythadendron Stairs"
+  },
+  "block.betterend.pythadendron_stripped_bark": {
+    "en": "Stripped Pythadendron Wood",
+    "zh": "去皮毕达枝木",
+    "vi": "Stripped Pythadendron Wood"
+  },
+  "block.betterend.pythadendron_stripped_log": {
+    "en": "Stripped Pythadendron Log",
+    "zh": "去皮毕达枝原木",
+    "vi": "Stripped Pythadendron Log"
+  },
+  "block.betterend.pythadendron_taburet": {
+    "en": "Pythadendron Stool",
+    "zh": "毕达枝木凳",
+    "vi": "Pythadendron Stool"
+  },
+  "block.betterend.pythadendron_trapdoor": {
+    "en": "Pythadendron Trapdoor",
+    "zh": "毕达枝木告示牌",
+    "vi": "Pythadendron Trapdoor"
+  },
+  "block.betterend.pythadendron_wall": {
+    "en": "Pythadendron Wall",
+    "zh": "毕达枝木墙",
+    "vi": "Pythadendron Wall"
+  },
+  "block.betterend.quartz_lantern": {
+    "en": "Quartz Lantern",
+    "zh": "石英灯笼",
+    "vi": "Quartz Lantern"
+  },
+  "block.betterend.quartz_pedestal": {
+    "en": "Quartz Pedestal",
+    "zh": "石英基座",
+    "vi": "Quartz Pedestal"
+  },
+  "block.betterend.respawn_obelisk": {
+    "en": "Respawn Obelisk",
+    "zh": "重生方尖碑",
+    "vi": "Respawn Obelisk"
+  },
+  "block.betterend.rubinea": {
+    "en": "Rubinea",
+    "zh": "红宝藤",
+    "vi": "Rubinea"
+  },
+  "block.betterend.ruscus": {
+    "en": "Ruscus",
+    "zh": "芸香假叶",
+    "vi": "Ruscus"
+  },
+  "block.betterend.rutiscus": {
+    "en": "Rutiscus",
+    "zh": "芸香苔岩",
+    "vi": "Rutiscus"
+  },
+  "block.betterend.rutiscus_path": {
+    "en": "Rutiscus Path",
+    "zh": "芸香苔径",
+    "vi": "Rutiscus Path"
+  },
+  "block.betterend.salteago": {
+    "en": "Salteago",
+    "zh": "盐前草",
+    "vi": "Salteago"
+  },
+  "block.betterend.sandy_jadestone": {
+    "en": "Sandy Jadestone",
+    "zh": "沙玉石",
+    "vi": "Sandy Jadestone"
+  },
+  "block.betterend.sandy_jadestone_bricks": {
+    "en": "Sandy Jadestone Bricks",
+    "zh": "沙玉石砖",
+    "vi": "Sandy Jadestone Bricks"
+  },
+  "block.betterend.sandy_jadestone_bricks_slab": {
+    "en": "Sandy Jadestone Brick Slab",
+    "zh": "沙玉石石砖台阶",
+    "vi": "Sandy Jadestone Brick Slab"
+  },
+  "block.betterend.sandy_jadestone_bricks_stairs": {
+    "en": "Sandy Jadestone Brick Stairs",
+    "zh": "沙玉石石砖楼梯",
+    "vi": "Sandy Jadestone Brick Stairs"
+  },
+  "block.betterend.sandy_jadestone_bricks_wall": {
+    "en": "Sandy Jadestone Brick Wall",
+    "zh": "沙玉石石砖墙",
+    "vi": "Sandy Jadestone Brick Wall"
+  },
+  "block.betterend.sandy_jadestone_button": {
+    "en": "Sandy Jadestone Button",
+    "zh": "沙玉石按钮",
+    "vi": "Sandy Jadestone Button"
+  },
+  "block.betterend.sandy_jadestone_flower_pot": {
+    "en": "Sandy Jadestone Flower Pot",
+    "zh": "沙玉石花盆",
+    "vi": "Sandy Jadestone Flower Pot"
+  },
+  "block.betterend.sandy_jadestone_furnace": {
+    "en": "Sandy Jadestone Furnace",
+    "zh": "沙玉石熔炉",
+    "vi": "Sandy Jadestone Furnace"
+  },
+  "block.betterend.sandy_jadestone_lantern": {
+    "en": "Sandy Jadestone Lantern",
+    "zh": "沙玉石灯笼",
+    "vi": "Sandy Jadestone Lantern"
+  },
+  "block.betterend.sandy_jadestone_pedestal": {
+    "en": "Sandy Jadestone Pedestal",
+    "zh": "沙玉石基座",
+    "vi": "Sandy Jadestone Pedestal"
+  },
+  "block.betterend.sandy_jadestone_pillar": {
+    "en": "Sandy Jadestone Pillar",
+    "zh": "沙玉石柱",
+    "vi": "Sandy Jadestone Pillar"
+  },
+  "block.betterend.sandy_jadestone_plate": {
+    "en": "Sandy Jadestone Pressure Plate",
+    "zh": "沙玉石压力板",
+    "vi": "Sandy Jadestone Pressure Plate"
+  },
+  "block.betterend.sandy_jadestone_polished": {
+    "en": "Sandy Jadestone Polished",
+    "zh": "磨制沙玉石",
+    "vi": "Sandy Jadestone Polished"
+  },
+  "block.betterend.sandy_jadestone_slab": {
+    "en": "Sandy Jadestone Slab",
+    "zh": "沙玉石台阶",
+    "vi": "Sandy Jadestone Slab"
+  },
+  "block.betterend.sandy_jadestone_stairs": {
+    "en": "Sandy Jadestone Stairs",
+    "zh": "沙玉石楼梯",
+    "vi": "Sandy Jadestone Stairs"
+  },
+  "block.betterend.sandy_jadestone_tiles": {
+    "en": "Sandy Jadestone Tiles",
+    "zh": "沙玉石瓦",
+    "vi": "Sandy Jadestone Tiles"
+  },
+  "block.betterend.sandy_jadestone_wall": {
+    "en": "Sandy Jadestone Wall",
+    "zh": "沙玉石墙",
+    "vi": "Sandy Jadestone Wall"
+  },
+  "block.betterend.sangnum": {
+    "en": "Sangnum",
+    "zh": "血苔岩",
+    "vi": "Sangnum"
+  },
+  "block.betterend.sangnum_path": {
+    "en": "Sangnum Path",
+    "zh": "血苔径",
+    "vi": "Sangnum Path"
+  },
+  "block.betterend.shadow_berry": {
+    "en": "Shadow Berry Seeds",
+    "zh": "黯影浆果种子",
+    "vi": "Shadow Berry Seeds"
+  },
+  "block.betterend.shadow_grass": {
+    "en": "Shadow Grass",
+    "zh": "黯影草方块",
+    "vi": "Shadow Grass"
+  },
+  "block.betterend.shadow_grass_path": {
+    "en": "Shadow Grass Path",
+    "zh": "黯影草径",
+    "vi": "Shadow Grass Path"
+  },
+  "block.betterend.shadow_plant": {
+    "en": "Shadow Plant",
+    "zh": "黯影植物",
+    "vi": "Shadow Plant"
+  },
+  "block.betterend.silk_moth_hive": {
+    "en": "Silk Moth Hive",
+    "zh": "丝蛾房",
+    "vi": "Silk Moth Hive"
+  },
+  "block.betterend.silk_moth_nest": {
+    "en": "Silk Moth Nest",
+    "zh": "丝蛾巢",
+    "vi": "Silk Moth Nest"
+  },
+  "block.betterend.small_amaranita_mushroom": {
+    "en": "Small Amaranita Mushroom",
+    "zh": "小型不衰鹅膏蘑菇",
+    "vi": "Small Amaranita Mushroom"
+  },
+  "block.betterend.small_jellyshroom": {
+    "en": "Small Jellyshroom",
+    "zh": "小型果冻菌",
+    "vi": "Small Jellyshroom"
+  },
+  "block.betterend.smaragdant_crystal": {
+    "en": "Smaragdant Crystal",
+    "zh": "翡翠晶",
+    "vi": "Smaragdant Crystal"
+  },
+  "block.betterend.smaragdant_crystal_bricks": {
+    "en": "Smaragdant Bricks",
+    "zh": "翡翠砖",
+    "vi": "Smaragdant Bricks"
+  },
+  "block.betterend.smaragdant_crystal_bricks_slab": {
+    "en": "Smaragdant Brick Slab",
+    "zh": "翡翠砖台阶",
+    "vi": "Smaragdant Brick Slab"
+  },
+  "block.betterend.smaragdant_crystal_bricks_stairs": {
+    "en": "Smaragdant Brick Stairs",
+    "zh": "翡翠砖楼梯",
+    "vi": "Smaragdant Brick Stairs"
+  },
+  "block.betterend.smaragdant_crystal_bricks_wall": {
+    "en": "Smaragdant Brick Wall",
+    "zh": "翡翠砖墙",
+    "vi": "Smaragdant Brick Wall"
+  },
+  "block.betterend.smaragdant_crystal_pedestal": {
+    "en": "Smaragdant Pedestal",
+    "zh": "翡翠基座",
+    "vi": "Smaragdant Pedestal"
+  },
+  "block.betterend.smaragdant_crystal_pillar": {
+    "en": "Smaragdant Pillar",
+    "zh": "翡翠柱",
+    "vi": "Smaragdant Pillar"
+  },
+  "block.betterend.smaragdant_crystal_polished": {
+    "en": "Polished Smaragdant",
+    "zh": "磨制翡翠",
+    "vi": "Polished Smaragdant"
+  },
+  "block.betterend.smaragdant_crystal_shard": {
+    "en": "Smaragdant Crystal Shard",
+    "zh": "翡翠晶碎片",
+    "vi": "Smaragdant Crystal Shard"
+  },
+  "block.betterend.smaragdant_crystal_slab": {
+    "en": "Smaragdant Slab",
+    "zh": "翡翠台阶",
+    "vi": "Smaragdant Slab"
+  },
+  "block.betterend.smaragdant_crystal_stairs": {
+    "en": "Smaragdant Stairs",
+    "zh": "翡翠楼梯",
+    "vi": "Smaragdant Stairs"
+  },
+  "block.betterend.smaragdant_crystal_tiles": {
+    "en": "Smaragdant Tiles",
+    "zh": "翡翠瓦",
+    "vi": "Smaragdant Tiles"
+  },
+  "block.betterend.smaragdant_crystal_wall": {
+    "en": "Smaragdant Wall",
+    "zh": "翡翠墙",
+    "vi": "Smaragdant Wall"
+  },
+  "block.betterend.sulphur_crystal": {
+    "en": "Sulfur Crystal",
+    "zh": "硫磺晶体",
+    "vi": "Sulfur Crystal"
+  },
+  "block.betterend.sulphuric_rock": {
+    "en": "Sulphuric Rock",
+    "zh": "硫磺岩",
+    "vi": "Sulphuric Rock"
+  },
+  "block.betterend.sulphuric_rock_bricks": {
+    "en": "Sulphuric Rock Bricks",
+    "zh": "硫磺岩砖",
+    "vi": "Sulphuric Rock Bricks"
+  },
+  "block.betterend.sulphuric_rock_bricks_slab": {
+    "en": "Sulphuric Rock Brick Slab",
+    "zh": "硫磺岩砖台阶",
+    "vi": "Sulphuric Rock Brick Slab"
+  },
+  "block.betterend.sulphuric_rock_bricks_stairs": {
+    "en": "Sulphuric Rock Brick Stairs",
+    "zh": "硫磺岩砖楼梯",
+    "vi": "Sulphuric Rock Brick Stairs"
+  },
+  "block.betterend.sulphuric_rock_bricks_wall": {
+    "en": "Sulphuric Rock Brick Wall",
+    "zh": "硫磺岩砖墙",
+    "vi": "Sulphuric Rock Brick Wall"
+  },
+  "block.betterend.sulphuric_rock_button": {
+    "en": "Sulphuric Rock Button",
+    "zh": "硫磺岩按钮",
+    "vi": "Sulphuric Rock Button"
+  },
+  "block.betterend.sulphuric_rock_flower_pot": {
+    "en": "Sulphuric Rock Flower Pot",
+    "zh": "硫磺岩花盆",
+    "vi": "Sulphuric Rock Flower Pot"
+  },
+  "block.betterend.sulphuric_rock_furnace": {
+    "en": "Sulphuric Rock Furnace",
+    "zh": "硫磺岩熔炉",
+    "vi": "Sulphuric Rock Furnace"
+  },
+  "block.betterend.sulphuric_rock_lantern": {
+    "en": "Sulphuric Rock Lantern",
+    "zh": "硫磺岩灯笼",
+    "vi": "Sulphuric Rock Lantern"
+  },
+  "block.betterend.sulphuric_rock_pedestal": {
+    "en": "Sulphuric Rock Pedestal",
+    "zh": "硫磺岩基座",
+    "vi": "Sulphuric Rock Pedestal"
+  },
+  "block.betterend.sulphuric_rock_pillar": {
+    "en": "Sulphuric Rock Pillar",
+    "zh": "硫磺岩柱",
+    "vi": "Sulphuric Rock Pillar"
+  },
+  "block.betterend.sulphuric_rock_plate": {
+    "en": "Sulphuric Rock Pressure Plate",
+    "zh": "硫磺岩压力板",
+    "vi": "Sulphuric Rock Pressure Plate"
+  },
+  "block.betterend.sulphuric_rock_polished": {
+    "en": "Sulphuric Rock Polished",
+    "zh": "磨制硫磺岩",
+    "vi": "Sulphuric Rock Polished"
+  },
+  "block.betterend.sulphuric_rock_slab": {
+    "en": "Sulphuric Rock Slab",
+    "zh": "硫磺岩台阶",
+    "vi": "Sulphuric Rock Slab"
+  },
+  "block.betterend.sulphuric_rock_stairs": {
+    "en": "Sulphuric Rock Stairs",
+    "zh": "硫磺岩楼梯",
+    "vi": "Sulphuric Rock Stairs"
+  },
+  "block.betterend.sulphuric_rock_tiles": {
+    "en": "Sulphuric Rock Tiles",
+    "zh": "硫磺岩瓦",
+    "vi": "Sulphuric Rock Tiles"
+  },
+  "block.betterend.sulphuric_rock_wall": {
+    "en": "Sulphuric Rock Wall",
+    "zh": "硫磺岩墙",
+    "vi": "Sulphuric Rock Wall"
+  },
+  "block.betterend.tail_moss": {
+    "en": "Tail Moss",
+    "zh": "高苔藓",
+    "vi": "Tail Moss"
+  },
+  "block.betterend.tenanea_bar_stool": {
+    "en": "Tenanea Bar Stool",
+    "zh": "十纹木高脚凳",
+    "vi": "Tenanea Bar Stool"
+  },
+  "block.betterend.tenanea_bark": {
+    "en": "Tenanea Wood",
+    "zh": "十纹木",
+    "vi": "Tenanea Wood"
+  },
+  "block.betterend.tenanea_barrel": {
+    "en": "Tenanea Barrel",
+    "zh": "十纹木桶",
+    "vi": "Tenanea Barrel"
+  },
+  "block.betterend.tenanea_bookshelf": {
+    "en": "Tenanea Bookshelf",
+    "zh": "十纹木书架",
+    "vi": "Tenanea Bookshelf"
+  },
+  "block.betterend.tenanea_button": {
+    "en": "Tenanea Button",
+    "zh": "十纹木按钮",
+    "vi": "Tenanea Button"
+  },
+  "block.betterend.tenanea_chair": {
+    "en": "Tenanea Chair",
+    "zh": "十纹木椅子",
+    "vi": "Tenanea Chair"
+  },
+  "block.betterend.tenanea_chest": {
+    "en": "Tenanea Chest",
+    "zh": "十纹木箱子",
+    "vi": "Tenanea Chest"
+  },
+  "block.betterend.tenanea_composter": {
+    "en": "Tenanea Composter",
+    "zh": "十纹木堆肥桶",
+    "vi": "Tenanea Composter"
+  },
+  "block.betterend.tenanea_crafting_table": {
+    "en": "Tenanea Crafting Table",
+    "zh": "十纹木工作台",
+    "vi": "Tenanea Crafting Table"
+  },
+  "block.betterend.tenanea_door": {
+    "en": "Tenanea Door",
+    "zh": "十纹木门",
+    "vi": "Tenanea Door"
+  },
+  "block.betterend.tenanea_fence": {
+    "en": "Tenanea Fence",
+    "zh": "十纹木栅栏",
+    "vi": "Tenanea Fence"
+  },
+  "block.betterend.tenanea_flowers": {
+    "en": "Tenanea Flowers",
+    "zh": "十纹花藤",
+    "vi": "Tenanea Flowers"
+  },
+  "block.betterend.tenanea_gate": {
+    "en": "Tenanea Gate",
+    "zh": "十纹木栅栏门",
+    "vi": "Tenanea Gate"
+  },
+  "block.betterend.tenanea_hanging_sign": {
+    "en": "Hanging Tenanea Sign",
+    "zh": "悬挂式十纹木告示牌",
+    "vi": "Hanging Tenanea Sign"
+  },
+  "block.betterend.tenanea_ladder": {
+    "en": "Tenanea Ladder",
+    "zh": "十纹木梯子",
+    "vi": "Tenanea Ladder"
+  },
+  "block.betterend.tenanea_leaves": {
+    "en": "Tenanea Leaves",
+    "zh": "十纹树叶",
+    "vi": "Tenanea Leaves"
+  },
+  "block.betterend.tenanea_log": {
+    "en": "Tenanea Log",
+    "zh": "十纹原木",
+    "vi": "Tenanea Log"
+  },
+  "block.betterend.tenanea_outer_leaves": {
+    "en": "Tenanea Outer Leaves",
+    "zh": "十纹外层树叶",
+    "vi": "Tenanea Outer Leaves"
+  },
+  "block.betterend.tenanea_planks": {
+    "en": "Tenanea Planks",
+    "zh": "十纹木板",
+    "vi": "Tenanea Planks"
+  },
+  "block.betterend.tenanea_plate": {
+    "en": "Tenanea Pressure Plate",
+    "zh": "十纹木压力板",
+    "vi": "Tenanea Pressure Plate"
+  },
+  "block.betterend.tenanea_sapling": {
+    "en": "Tenanea Sapling",
+    "zh": "十纹树苗",
+    "vi": "Tenanea Sapling"
+  },
+  "block.betterend.tenanea_sign": {
+    "en": "Tenanea Sign",
+    "zh": "十纹木告示牌",
+    "vi": "Tenanea Sign"
+  },
+  "block.betterend.tenanea_slab": {
+    "en": "Tenanea Slab",
+    "zh": "十纹木台阶",
+    "vi": "Tenanea Slab"
+  },
+  "block.betterend.tenanea_stairs": {
+    "en": "Tenanea Stairs",
+    "zh": "十纹木楼梯",
+    "vi": "Tenanea Stairs"
+  },
+  "block.betterend.tenanea_stripped_bark": {
+    "en": "Stripped Tenanea Wood",
+    "zh": "去皮十纹木k",
+    "vi": "Stripped Tenanea Wood"
+  },
+  "block.betterend.tenanea_stripped_log": {
+    "en": "Stripped Tenanea Log",
+    "zh": "去皮十纹原木",
+    "vi": "Stripped Tenanea Log"
+  },
+  "block.betterend.tenanea_taburet": {
+    "en": "Tenanea Stool",
+    "zh": "十纹木凳",
+    "vi": "Tenanea Stool"
+  },
+  "block.betterend.tenanea_trapdoor": {
+    "en": "Tenanea Trapdoor",
+    "zh": "十纹木活板门",
+    "vi": "Tenanea Trapdoor"
+  },
+  "block.betterend.tenanea_wall": {
+    "en": "Tenanea Wall",
+    "zh": "十纹木墙",
+    "vi": "Tenanea Wall"
+  },
+  "block.betterend.terminite_anvil": {
+    "en": "Terminite Anvil",
+    "zh": "终末合金砧",
+    "vi": "Terminite Anvil"
+  },
+  "block.betterend.terminite_bars": {
+    "en": "Terminite Bars",
+    "zh": "终末合金栏杆",
+    "vi": "Terminite Bars"
+  },
+  "block.betterend.terminite_block": {
+    "en": "Terminite Block",
+    "zh": "终末合金块",
+    "vi": "Terminite Block"
+  },
+  "block.betterend.terminite_bulb_lantern": {
+    "en": "Terminite Bulb Lantern",
+    "zh": "终末合金灯泡灯笼",
+    "vi": "Terminite Bulb Lantern"
+  },
+  "block.betterend.terminite_bulb_lantern_black": {
+    "en": "Black Terminite Bulb Lantern",
+    "zh": "黑色终末合金灯泡灯笼",
+    "vi": "Black Terminite Bulb Lantern"
+  },
+  "block.betterend.terminite_bulb_lantern_blue": {
+    "en": "Blue Terminite Bulb Lantern",
+    "zh": "蓝色终末合金灯泡灯笼",
+    "vi": "Blue Terminite Bulb Lantern"
+  },
+  "block.betterend.terminite_bulb_lantern_brown": {
+    "en": "Brown Terminite Bulb Lantern",
+    "zh": "棕色终末合金灯泡灯笼",
+    "vi": "Brown Terminite Bulb Lantern"
+  },
+  "block.betterend.terminite_bulb_lantern_cyan": {
+    "en": "Cyan Terminite Bulb Lantern",
+    "zh": "青色终末合金灯泡灯笼",
+    "vi": "Cyan Terminite Bulb Lantern"
+  },
+  "block.betterend.terminite_bulb_lantern_gray": {
+    "en": "Gray Terminite Bulb Lantern",
+    "zh": "灰色终末合金灯泡灯笼",
+    "vi": "Gray Terminite Bulb Lantern"
+  },
+  "block.betterend.terminite_bulb_lantern_green": {
+    "en": "Green Terminite Bulb Lantern",
+    "zh": "绿色终末合金灯泡灯笼",
+    "vi": "Green Terminite Bulb Lantern"
+  },
+  "block.betterend.terminite_bulb_lantern_light_blue": {
+    "en": "Light Blue Terminite Bulb Lantern",
+    "zh": "淡蓝色终末合金灯泡灯笼",
+    "vi": "Light Blue Terminite Bulb Lantern"
+  },
+  "block.betterend.terminite_bulb_lantern_light_gray": {
+    "en": "Light Gray Terminite Bulb Lantern",
+    "zh": "淡灰色终末合金灯泡灯笼",
+    "vi": "Light Gray Terminite Bulb Lantern"
+  },
+  "block.betterend.terminite_bulb_lantern_lime": {
+    "en": "Lime Terminite Bulb Lantern",
+    "zh": "黄绿色终末合金灯泡灯笼",
+    "vi": "Lime Terminite Bulb Lantern"
+  },
+  "block.betterend.terminite_bulb_lantern_magenta": {
+    "en": "Magenta Terminite Bulb Lantern",
+    "zh": "品红色终末合金灯泡灯笼",
+    "vi": "Magenta Terminite Bulb Lantern"
+  },
+  "block.betterend.terminite_bulb_lantern_orange": {
+    "en": "Orange Terminite Bulb Lantern",
+    "zh": "橙色终末合金灯泡灯笼",
+    "vi": "Orange Terminite Bulb Lantern"
+  },
+  "block.betterend.terminite_bulb_lantern_pink": {
+    "en": "Pink Terminite Bulb Lantern",
+    "zh": "粉色终末合金灯泡灯笼",
+    "vi": "Pink Terminite Bulb Lantern"
+  },
+  "block.betterend.terminite_bulb_lantern_purple": {
+    "en": "Purple Terminite Bulb Lantern",
+    "zh": "紫色终末合金灯泡灯笼",
+    "vi": "Purple Terminite Bulb Lantern"
+  },
+  "block.betterend.terminite_bulb_lantern_red": {
+    "en": "Red Terminite Bulb Lantern",
+    "zh": "红色终末合金灯泡灯笼",
+    "vi": "Red Terminite Bulb Lantern"
+  },
+  "block.betterend.terminite_bulb_lantern_white": {
+    "en": "White Terminite Bulb Lantern",
+    "zh": "白色终末合金灯泡灯笼",
+    "vi": "White Terminite Bulb Lantern"
+  },
+  "block.betterend.terminite_bulb_lantern_yellow": {
+    "en": "Yellow Terminite Bulb Lantern",
+    "zh": "黄色终末合金灯泡灯笼",
+    "vi": "Yellow Terminite Bulb Lantern"
+  },
+  "block.betterend.terminite_chain": {
+    "en": "Terminite Chain",
+    "zh": "终末合金链",
+    "vi": "Terminite Chain"
+  },
+  "block.betterend.terminite_chandelier": {
+    "en": "Terminite Chandelier",
+    "zh": "终末合金吊灯",
+    "vi": "Terminite Chandelier"
+  },
+  "block.betterend.terminite_door": {
+    "en": "Terminite Door",
+    "zh": "终末合金门",
+    "vi": "Terminite Door"
+  },
+  "block.betterend.terminite_plate": {
+    "en": "Terminite Pressure Plate",
+    "zh": "终末合金压力板",
+    "vi": "Terminite Pressure Plate"
+  },
+  "block.betterend.terminite_slab": {
+    "en": "Terminite Slab",
+    "zh": "终末合金台阶",
+    "vi": "Terminite Slab"
+  },
+  "block.betterend.terminite_stairs": {
+    "en": "Terminite Stairs",
+    "zh": "终末合金楼梯",
+    "vi": "Terminite Stairs"
+  },
+  "block.betterend.terminite_tile": {
+    "en": "Terminite Tile",
+    "zh": "终末合金瓦",
+    "vi": "Terminite Tile"
+  },
+  "block.betterend.terminite_trapdoor": {
+    "en": "Terminite Trapdoor",
+    "zh": "终末合金活板门",
+    "vi": "Terminite Trapdoor"
+  },
+  "block.betterend.thallasium_anvil": {
+    "en": "Thallasium Anvil",
+    "zh": "塔拉斯金砧",
+    "vi": "Thallasium Anvil"
+  },
+  "block.betterend.thallasium_bars": {
+    "en": "Thallasium Bars",
+    "zh": "塔拉斯金栏杆",
+    "vi": "Thallasium Bars"
+  },
+  "block.betterend.thallasium_block": {
+    "en": "Thallasium Block",
+    "zh": "塔拉斯金块",
+    "vi": "Thallasium Block"
+  },
+  "block.betterend.thallasium_bulb_lantern": {
+    "en": "Thallasium Bulb Lantern",
+    "zh": "塔拉斯金灯泡灯笼",
+    "vi": "Thallasium Bulb Lantern"
+  },
+  "block.betterend.thallasium_bulb_lantern_black": {
+    "en": "Black Thallasium Bulb Lantern",
+    "zh": "黑色塔拉斯金灯泡灯笼",
+    "vi": "Black Thallasium Bulb Lantern"
+  },
+  "block.betterend.thallasium_bulb_lantern_blue": {
+    "en": "Blue Thallasium Bulb Lantern",
+    "zh": "蓝色塔拉斯金灯泡灯笼",
+    "vi": "Blue Thallasium Bulb Lantern"
+  },
+  "block.betterend.thallasium_bulb_lantern_brown": {
+    "en": "Brown Thallasium Bulb Lantern",
+    "zh": "棕色塔拉斯金灯泡灯笼",
+    "vi": "Brown Thallasium Bulb Lantern"
+  },
+  "block.betterend.thallasium_bulb_lantern_cyan": {
+    "en": "Cyan Thallasium Bulb Lantern",
+    "zh": "青色斯金灯泡灯笼",
+    "vi": "Cyan Thallasium Bulb Lantern"
+  },
+  "block.betterend.thallasium_bulb_lantern_gray": {
+    "en": "Gray Thallasium Bulb Lantern",
+    "zh": "灰色塔拉斯金灯泡灯笼",
+    "vi": "Gray Thallasium Bulb Lantern"
+  },
+  "block.betterend.thallasium_bulb_lantern_green": {
+    "en": "Green Thallasium Bulb Lantern",
+    "zh": "绿色塔拉斯金灯泡灯笼",
+    "vi": "Green Thallasium Bulb Lantern"
+  },
+  "block.betterend.thallasium_bulb_lantern_light_blue": {
+    "en": "Light Blue Thallasium Bulb Lantern",
+    "zh": "淡蓝色塔拉斯金灯泡灯笼",
+    "vi": "Light Blue Thallasium Bulb Lantern"
+  },
+  "block.betterend.thallasium_bulb_lantern_light_gray": {
+    "en": "Light Gray Thallasium Bulb Lantern",
+    "zh": "淡灰色塔拉斯金灯泡灯笼",
+    "vi": "Light Gray Thallasium Bulb Lantern"
+  },
+  "block.betterend.thallasium_bulb_lantern_lime": {
+    "en": "Lime Thallasium Bulb Lantern",
+    "zh": "黄绿色塔拉斯金灯泡灯笼",
+    "vi": "Lime Thallasium Bulb Lantern"
+  },
+  "block.betterend.thallasium_bulb_lantern_magenta": {
+    "en": "Magenta Thallasium Bulb Lantern",
+    "zh": "品红色塔拉斯金灯泡灯笼",
+    "vi": "Magenta Thallasium Bulb Lantern"
+  },
+  "block.betterend.thallasium_bulb_lantern_orange": {
+    "en": "Orange Thallasium Bulb Lantern",
+    "zh": "橙色塔拉斯金灯泡灯笼",
+    "vi": "Orange Thallasium Bulb Lantern"
+  },
+  "block.betterend.thallasium_bulb_lantern_pink": {
+    "en": "Pink Thallasium Bulb Lantern",
+    "zh": "粉色塔拉斯金灯泡灯笼",
+    "vi": "Pink Thallasium Bulb Lantern"
+  },
+  "block.betterend.thallasium_bulb_lantern_purple": {
+    "en": "Purple Thallasium Bulb Lantern",
+    "zh": "紫色塔拉斯金灯泡灯笼",
+    "vi": "Purple Thallasium Bulb Lantern"
+  },
+  "block.betterend.thallasium_bulb_lantern_red": {
+    "en": "Red Thallasium Bulb Lantern",
+    "zh": "红色塔拉斯金灯泡灯笼",
+    "vi": "Red Thallasium Bulb Lantern"
+  },
+  "block.betterend.thallasium_bulb_lantern_white": {
+    "en": "White Thallasium Bulb Lantern",
+    "zh": "白色塔拉斯金灯泡灯笼",
+    "vi": "White Thallasium Bulb Lantern"
+  },
+  "block.betterend.thallasium_bulb_lantern_yellow": {
+    "en": "Yellow Thallasium Bulb Lantern",
+    "zh": "黄色塔拉斯金灯泡灯笼",
+    "vi": "Yellow Thallasium Bulb Lantern"
+  },
+  "block.betterend.thallasium_chain": {
+    "en": "Thallasium Chain",
+    "zh": "塔拉斯金链",
+    "vi": "Thallasium Chain"
+  },
+  "block.betterend.thallasium_chandelier": {
+    "en": "Thallasium Chandelier",
+    "zh": "塔拉斯金吊灯",
+    "vi": "Thallasium Chandelier"
+  },
+  "block.betterend.thallasium_door": {
+    "en": "Thallasium Door",
+    "zh": "塔拉斯金门",
+    "vi": "Thallasium Door"
+  },
+  "block.betterend.thallasium_ore": {
+    "en": "Thallasium Ore",
+    "zh": "塔拉斯金矿石",
+    "vi": "Thallasium Ore"
+  },
+  "block.betterend.thallasium_plate": {
+    "en": "Thallasium Pressure Plate",
+    "zh": "塔拉斯金压力板",
+    "vi": "Thallasium Pressure Plate"
+  },
+  "block.betterend.thallasium_slab": {
+    "en": "Thallasium Slab",
+    "zh": "塔拉斯金台阶",
+    "vi": "Thallasium Slab"
+  },
+  "block.betterend.thallasium_stairs": {
+    "en": "Thallasium Stairs",
+    "zh": "塔拉斯金楼梯",
+    "vi": "Thallasium Stairs"
+  },
+  "block.betterend.thallasium_tile": {
+    "en": "Thallasium Tile",
+    "zh": "塔拉斯金瓦",
+    "vi": "Thallasium Tile"
+  },
+  "block.betterend.thallasium_trapdoor": {
+    "en": "Thallasium Trapdoor",
+    "zh": "塔拉斯金活板门",
+    "vi": "Thallasium Trapdoor"
+  },
+  "block.betterend.tube_worm": {
+    "en": "Tube Worm",
+    "zh": "管虫",
+    "vi": "Tube Worm"
+  },
+  "block.betterend.twisted_moss": {
+    "en": "Twisted Moss",
+    "zh": "蜷曲苔藓",
+    "vi": "Twisted Moss"
+  },
+  "block.betterend.twisted_umbrella_moss": {
+    "en": "Twisted Umbrella Moss",
+    "zh": "蜷曲伞状苔藓",
+    "vi": "Twisted Umbrella Moss"
+  },
+  "block.betterend.twisted_umbrella_moss_tall": {
+    "en": "Twisted Umbrella Moss Tall",
+    "zh": "高蜷曲伞状苔藓",
+    "vi": "Twisted Umbrella Moss Tall"
+  },
+  "block.betterend.twisted_vine": {
+    "en": "Twisted Vine",
+    "zh": "蜷曲藤",
+    "vi": "Twisted Vine"
+  },
+  "block.betterend.umbralith": {
+    "en": "Umbralith",
+    "zh": "阴影石",
+    "vi": "Umbralith"
+  },
+  "block.betterend.umbralith_bricks": {
+    "en": "Umbralith Bricks",
+    "zh": "阴影石砖",
+    "vi": "Umbralith Bricks"
+  },
+  "block.betterend.umbralith_bricks_slab": {
+    "en": "Umbralith Bricks Slab",
+    "zh": "阴影石砖台阶",
+    "vi": "Umbralith Bricks Slab"
+  },
+  "block.betterend.umbralith_bricks_stairs": {
+    "en": "Umbralith Bricks Stairs",
+    "zh": "阴影石砖楼梯",
+    "vi": "Umbralith Bricks Stairs"
+  },
+  "block.betterend.umbralith_bricks_wall": {
+    "en": "Umbralith Bricks Wall",
+    "zh": "阴影石砖墙",
+    "vi": "Umbralith Bricks Wall"
+  },
+  "block.betterend.umbralith_button": {
+    "en": "Umbralith Button",
+    "zh": "阴影石按钮",
+    "vi": "Umbralith Button"
+  },
+  "block.betterend.umbralith_flower_pot": {
+    "en": "Umbralith Flower Pot",
+    "zh": "阴影石花盆",
+    "vi": "Umbralith Flower Pot"
+  },
+  "block.betterend.umbralith_furnace": {
+    "en": "Umbralith Furnace",
+    "zh": "阴影石熔炉",
+    "vi": "Umbralith Furnace"
+  },
+  "block.betterend.umbralith_lantern": {
+    "en": "Umbralith Lantern",
+    "zh": "阴影石灯笼",
+    "vi": "Umbralith Lantern"
+  },
+  "block.betterend.umbralith_pedestal": {
+    "en": "Umbralith Pedestal",
+    "zh": "阴影石基座",
+    "vi": "Umbralith Pedestal"
+  },
+  "block.betterend.umbralith_pillar": {
+    "en": "Umbralith Pillar",
+    "zh": "阴影石柱",
+    "vi": "Umbralith Pillar"
+  },
+  "block.betterend.umbralith_plate": {
+    "en": "Umbralith Pressure Plate",
+    "zh": "阴影石压力板",
+    "vi": "Umbralith Pressure Plate"
+  },
+  "block.betterend.umbralith_polished": {
+    "en": "Umbralith Polished",
+    "zh": "磨制阴影石",
+    "vi": "Umbralith Polished"
+  },
+  "block.betterend.umbralith_slab": {
+    "en": "Umbralith Slab",
+    "zh": "阴影石台阶",
+    "vi": "Umbralith Slab"
+  },
+  "block.betterend.umbralith_stairs": {
+    "en": "Umbralith Stairs",
+    "zh": "阴影石楼梯",
+    "vi": "Umbralith Stairs"
+  },
+  "block.betterend.umbralith_tiles": {
+    "en": "Umbralith Tiles",
+    "zh": "阴影石瓦",
+    "vi": "Umbralith Tiles"
+  },
+  "block.betterend.umbralith_wall": {
+    "en": "Umbralith Wall",
+    "zh": "阴影石墙",
+    "vi": "Umbralith Wall"
+  },
+  "block.betterend.umbrella_moss": {
+    "en": "Umbrella Moss",
+    "zh": "伞状苔藓",
+    "vi": "Umbrella Moss"
+  },
+  "block.betterend.umbrella_moss_tall": {
+    "en": "Tall Umbrella Moss",
+    "zh": "高伞状苔藓",
+    "vi": "Tall Umbrella Moss"
+  },
+  "block.betterend.umbrella_tree_bar_stool": {
+    "en": "Umbrella Tree Bar Stool",
+    "zh": "胶伞树木高脚凳",
+    "vi": "Umbrella Tree Bar Stool"
+  },
+  "block.betterend.umbrella_tree_bark": {
+    "en": "Umbrella Tree Wood",
+    "zh": "胶伞树木",
+    "vi": "Umbrella Tree Wood"
+  },
+  "block.betterend.umbrella_tree_barrel": {
+    "en": "Umbrella Tree Barrel",
+    "zh": "胶伞树木桶",
+    "vi": "Umbrella Tree Barrel"
+  },
+  "block.betterend.umbrella_tree_bookshelf": {
+    "en": "Umbrella Tree Bookshelf",
+    "zh": "胶伞树木书架",
+    "vi": "Umbrella Tree Bookshelf"
+  },
+  "block.betterend.umbrella_tree_button": {
+    "en": "Umbrella Tree Button",
+    "zh": "胶伞树木按钮",
+    "vi": "Umbrella Tree Button"
+  },
+  "block.betterend.umbrella_tree_chair": {
+    "en": "Umbrella Tree Chair",
+    "zh": "胶伞树木椅子",
+    "vi": "Umbrella Tree Chair"
+  },
+  "block.betterend.umbrella_tree_chest": {
+    "en": "Umbrella Tree Chest",
+    "zh": "胶伞树木箱子",
+    "vi": "Umbrella Tree Chest"
+  },
+  "block.betterend.umbrella_tree_cluster": {
+    "en": "Umbrella Tree Cluster",
+    "zh": "胶伞树花簇",
+    "vi": "Umbrella Tree Cluster"
+  },
+  "block.betterend.umbrella_tree_cluster_empty": {
+    "en": "Empty Umbrella Tree Cluster",
+    "zh": "空胶伞树花簇",
+    "vi": "Empty Umbrella Tree Cluster"
+  },
+  "block.betterend.umbrella_tree_composter": {
+    "en": "Umbrella Tree Composter",
+    "zh": "胶伞树木堆肥桶",
+    "vi": "Umbrella Tree Composter"
+  },
+  "block.betterend.umbrella_tree_crafting_table": {
+    "en": "Umbrella Tree Crafting Table",
+    "zh": "胶伞树木工作台",
+    "vi": "Umbrella Tree Crafting Table"
+  },
+  "block.betterend.umbrella_tree_door": {
+    "en": "Umbrella Tree Door",
+    "zh": "胶伞树木门",
+    "vi": "Umbrella Tree Door"
+  },
+  "block.betterend.umbrella_tree_fence": {
+    "en": "Umbrella Tree Fence",
+    "zh": "胶伞树木栅栏",
+    "vi": "Umbrella Tree Fence"
+  },
+  "block.betterend.umbrella_tree_gate": {
+    "en": "Umbrella Tree Gate",
+    "zh": "胶伞树木栅栏门",
+    "vi": "Umbrella Tree Gate"
+  },
+  "block.betterend.umbrella_tree_hanging_sign": {
+    "en": "Hanging Umbrella Tree Sign",
+    "zh": "悬挂式胶伞树木告示牌",
+    "vi": "Hanging Umbrella Tree Sign"
+  },
+  "block.betterend.umbrella_tree_ladder": {
+    "en": "Umbrella Tree Ladder",
+    "zh": "胶伞树木梯子",
+    "vi": "Umbrella Tree Ladder"
+  },
+  "block.betterend.umbrella_tree_log": {
+    "en": "Umbrella Tree Log",
+    "zh": "胶伞树原木",
+    "vi": "Umbrella Tree Log"
+  },
+  "block.betterend.umbrella_tree_membrane": {
+    "en": "Umbrella Tree Membrane",
+    "zh": "胶伞树膜",
+    "vi": "Umbrella Tree Membrane"
+  },
+  "block.betterend.umbrella_tree_planks": {
+    "en": "Umbrella Tree Planks",
+    "zh": "胶伞树木板",
+    "vi": "Umbrella Tree Planks"
+  },
+  "block.betterend.umbrella_tree_plate": {
+    "en": "Umbrella Tree Pressure Plate",
+    "zh": "胶伞树木压力板",
+    "vi": "Umbrella Tree Pressure Plate"
+  },
+  "block.betterend.umbrella_tree_sapling": {
+    "en": "Umbrella Tree Sapling",
+    "zh": "胶伞树树苗",
+    "vi": "Umbrella Tree Sapling"
+  },
+  "block.betterend.umbrella_tree_sign": {
+    "en": "Umbrella Tree Sign",
+    "zh": "胶伞树木告示牌",
+    "vi": "Umbrella Tree Sign"
+  },
+  "block.betterend.umbrella_tree_slab": {
+    "en": "Umbrella Tree Slab",
+    "zh": "胶伞树木台阶",
+    "vi": "Umbrella Tree Slab"
+  },
+  "block.betterend.umbrella_tree_stairs": {
+    "en": "Umbrella Tree Stairs",
+    "zh": "胶伞树木楼梯",
+    "vi": "Umbrella Tree Stairs"
+  },
+  "block.betterend.umbrella_tree_stripped_bark": {
+    "en": "Stripped Umbrella Tree Wood",
+    "zh": "去皮胶伞树木",
+    "vi": "Stripped Umbrella Tree Wood"
+  },
+  "block.betterend.umbrella_tree_stripped_log": {
+    "en": "Stripped Umbrella Tree Log",
+    "zh": "去皮胶伞树原木",
+    "vi": "Stripped Umbrella Tree Log"
+  },
+  "block.betterend.umbrella_tree_taburet": {
+    "en": "Umbrella Tree Stool",
+    "zh": "胶伞树木凳",
+    "vi": "Umbrella Tree Stool"
+  },
+  "block.betterend.umbrella_tree_trapdoor": {
+    "en": "Umbrella Tree Trapdoor",
+    "zh": "胶伞树木活板门",
+    "vi": "Umbrella Tree Trapdoor"
+  },
+  "block.betterend.umbrella_tree_wall": {
+    "en": "Umbrella Tree Wall",
+    "zh": "胶伞树墙",
+    "vi": "Umbrella Tree Wall"
+  },
+  "block.betterend.vaiolush_fern": {
+    "en": "Vaiolush Fern",
+    "zh": "维欧繁蕨",
+    "vi": "Vaiolush Fern"
+  },
+  "block.betterend.vent_bubble_column": {
+    "en": "Vent Bubble Column",
+    "zh": "喷口气泡柱",
+    "vi": "Vent Bubble Column"
+  },
+  "block.betterend.violecite": {
+    "en": "Violecite",
+    "zh": "紫罗兰石",
+    "vi": "Violecite"
+  },
+  "block.betterend.violecite_bricks": {
+    "en": "Violecite Bricks",
+    "zh": "紫罗兰石砖",
+    "vi": "Violecite Bricks"
+  },
+  "block.betterend.violecite_bricks_slab": {
+    "en": "Violecite Brick Slab",
+    "zh": "紫罗兰石砖台阶",
+    "vi": "Violecite Brick Slab"
+  },
+  "block.betterend.violecite_bricks_stairs": {
+    "en": "Violecite Brick Stairs",
+    "zh": "紫罗兰石砖楼梯",
+    "vi": "Violecite Brick Stairs"
+  },
+  "block.betterend.violecite_bricks_wall": {
+    "en": "Violecite Brick Wall",
+    "zh": "紫罗兰石砖墙",
+    "vi": "Violecite Brick Wall"
+  },
+  "block.betterend.violecite_button": {
+    "en": "Violecite Button",
+    "zh": "紫罗兰石按钮",
+    "vi": "Violecite Button"
+  },
+  "block.betterend.violecite_flower_pot": {
+    "en": "Violecite Flower Pot",
+    "zh": "紫罗兰石花盆",
+    "vi": "Violecite Flower Pot"
+  },
+  "block.betterend.violecite_furnace": {
+    "en": "Violecite Furnace",
+    "zh": "紫罗兰石熔炉",
+    "vi": "Violecite Furnace"
+  },
+  "block.betterend.violecite_lantern": {
+    "en": "Violecite Lantern",
+    "zh": "紫罗兰石灯笼",
+    "vi": "Violecite Lantern"
+  },
+  "block.betterend.violecite_pedestal": {
+    "en": "Violecite Pedestal",
+    "zh": "紫罗兰石基座",
+    "vi": "Violecite Pedestal"
+  },
+  "block.betterend.violecite_pillar": {
+    "en": "Violecite Pillar",
+    "zh": "紫罗兰石柱",
+    "vi": "Violecite Pillar"
+  },
+  "block.betterend.violecite_plate": {
+    "en": "Violecite Pressure Plate",
+    "zh": "紫罗兰石压力板",
+    "vi": "Violecite Pressure Plate"
+  },
+  "block.betterend.violecite_polished": {
+    "en": "Polished Violecite",
+    "zh": "磨制紫罗兰石",
+    "vi": "Polished Violecite"
+  },
+  "block.betterend.violecite_slab": {
+    "en": "Violecite Slab",
+    "zh": "紫罗兰石台阶",
+    "vi": "Violecite Slab"
+  },
+  "block.betterend.violecite_stairs": {
+    "en": "Violecite Stairs",
+    "zh": "紫罗兰石楼梯",
+    "vi": "Violecite Stairs"
+  },
+  "block.betterend.violecite_tiles": {
+    "en": "Violecite Tiles",
+    "zh": "紫罗兰石瓦",
+    "vi": "Violecite Tiles"
+  },
+  "block.betterend.violecite_wall": {
+    "en": "Violecite Wall",
+    "zh": "紫罗兰石墙",
+    "vi": "Violecite Wall"
+  },
+  "block.betterend.virid_jadestone": {
+    "en": "Virid Jadestone",
+    "zh": "碧玉石",
+    "vi": "Virid Jadestone"
+  },
+  "block.betterend.virid_jadestone_bricks": {
+    "en": "Virid Jadestone Bricks",
+    "zh": "碧玉石砖",
+    "vi": "Virid Jadestone Bricks"
+  },
+  "block.betterend.virid_jadestone_bricks_slab": {
+    "en": "Virid Jadestone Brick Slab",
+    "zh": "碧玉石砖台阶",
+    "vi": "Virid Jadestone Brick Slab"
+  },
+  "block.betterend.virid_jadestone_bricks_stairs": {
+    "en": "Virid Jadestone Brick Stairs",
+    "zh": "碧玉石砖楼梯",
+    "vi": "Virid Jadestone Brick Stairs"
+  },
+  "block.betterend.virid_jadestone_bricks_wall": {
+    "en": "Virid Jadestone Brick Wall",
+    "zh": "碧玉石砖墙",
+    "vi": "Virid Jadestone Brick Wall"
+  },
+  "block.betterend.virid_jadestone_button": {
+    "en": "Virid Jadestone Button",
+    "zh": "碧玉石按钮",
+    "vi": "Virid Jadestone Button"
+  },
+  "block.betterend.virid_jadestone_flower_pot": {
+    "en": "Virid Jadestone Flower Pot",
+    "zh": "碧玉石花盆",
+    "vi": "Virid Jadestone Flower Pot"
+  },
+  "block.betterend.virid_jadestone_furnace": {
+    "en": "Virid Jadestone Furnace",
+    "zh": "碧玉石熔炉",
+    "vi": "Virid Jadestone Furnace"
+  },
+  "block.betterend.virid_jadestone_lantern": {
+    "en": "Virid Jadestone Lantern",
+    "zh": "碧玉石灯笼",
+    "vi": "Virid Jadestone Lantern"
+  },
+  "block.betterend.virid_jadestone_pedestal": {
+    "en": "Virid Jadestone Pedestal",
+    "zh": "碧玉石基座",
+    "vi": "Virid Jadestone Pedestal"
+  },
+  "block.betterend.virid_jadestone_pillar": {
+    "en": "Virid Jadestone Pillar",
+    "zh": "碧玉石柱",
+    "vi": "Virid Jadestone Pillar"
+  },
+  "block.betterend.virid_jadestone_plate": {
+    "en": "Virid Jadestone Pressure Plate",
+    "zh": "碧玉石压力板",
+    "vi": "Virid Jadestone Pressure Plate"
+  },
+  "block.betterend.virid_jadestone_polished": {
+    "en": "Virid Jadestone Polished",
+    "zh": "磨制碧玉石",
+    "vi": "Virid Jadestone Polished"
+  },
+  "block.betterend.virid_jadestone_slab": {
+    "en": "Virid Jadestone Slab",
+    "zh": "碧玉石台阶",
+    "vi": "Virid Jadestone Slab"
+  },
+  "block.betterend.virid_jadestone_stairs": {
+    "en": "Virid Jadestone Stairs",
+    "zh": "碧玉石楼梯",
+    "vi": "Virid Jadestone Stairs"
+  },
+  "block.betterend.virid_jadestone_tiles": {
+    "en": "Virid Jadestone Tiles",
+    "zh": "碧玉石瓦",
+    "vi": "Virid Jadestone Tiles"
+  },
+  "block.betterend.virid_jadestone_wall": {
+    "en": "Virid Jadestone Wall",
+    "zh": "碧玉石墙",
+    "vi": "Virid Jadestone Wall"
+  },
+  "block.betterend.end_stone_brick_weathered": {
+    "en": null,
+    "zh": "风化末地石砖",
+    "vi": "Gạch đá cuối phong hóa"
+  },
+  "block.betterend.end_stone_brick_weathered_slab": {
+    "en": null,
+    "zh": "风化末地石砖台阶",
+    "vi": "Bậc gạch đá cuối phong hóa"
+  },
+  "block.betterend.end_stone_brick_weathered_stairs": {
+    "en": null,
+    "zh": "风化末地石砖楼梯",
+    "vi": "Cầu thang gạch đá bị phong hóa"
+  },
+  "block.betterend.end_stone_brick_weathered_wall": {
+    "en": null,
+    "zh": "风化末地石砖墙",
+    "vi": "Tường gạch đá phong hóa"
+  },
+  "block.betterend.end_stone_brick_cracked": {
+    "en": null,
+    "zh": "破损末地石砖",
+    "vi": "Gạch đá đầu vỡ"
+  },
+  "block.betterend.end_stone_brick_cracked_slab": {
+    "en": null,
+    "zh": "破损末地石砖台阶",
+    "vi": "Bậc gạch đá cuối bị gãy"
+  },
+  "block.betterend.end_stone_brick_cracked_stairs": {
+    "en": null,
+    "zh": "破损末地石砖楼梯",
+    "vi": "Cầu thang gạch đá cuối bị hỏng"
+  },
+  "block.betterend.end_stone_brick_cracked_wall": {
+    "en": null,
+    "zh": "破损末地石砖墙",
+    "vi": "Bức tường gạch đá cuối bị hỏng"
+  },
+  "book.betterend.landing": {
+    "en": "A short guide about surviving in the extreme conditions of The End.",
+    "zh": "关于在末地的极端条件下生存的简短指南",
+    "vi": "Hướng dẫn ngắn gọn để sống sót trong điều kiện khắc nghiệt ở Ngày tận thế"
+  },
+  "book.betterend.subtitle": {
+    "en": "Survive in The End",
+    "zh": "末地求生",
+    "vi": "Sống sót cuối cùng"
+  },
+  "category.rei.damage.amount&dmg": {
+    "en": "Tool damage: %s",
+    "zh": "工具损耗：%s",
+    "vi": "Mất dao: %s"
+  },
+  "category.rei.infusion.time&val": {
+    "en": "Time: %s",
+    "zh": "灌注时间：%s",
+    "vi": "Thời gian truyền: %s"
+  },
+  "effect.betterend.end_veil": {
+    "en": "End Veil",
+    "zh": "末地面纱",
+    "vi": "Tấm màn che cuối cùng"
+  },
+  "emi.category.betterend.infusion": {
+    "en": "Infusion Ritual",
+    "zh": "灌注基座",
+    "vi": "Cơ sở truyền dịch"
+  },
+  "enchantment.betterend.end_veil": {
+    "en": "End Veil",
+    "zh": "末地面纱",
+    "vi": "Tấm màn che cuối cùng"
+  },
+  "enchantment.betterend.end_veil.desc": {
+    "en": "Allows the user to look at Enderman without angering them.",
+    "zh": "允许使用者注视末影人而不激怒它们",
+    "vi": "Cho phép người dùng nhìn vào endermen mà không chọc giận họ"
+  },
+  "entity.betterend.cubozoa": {
+    "en": "Cubozoa",
+    "zh": "箱水母",
+    "vi": "Cubozoa"
+  },
+  "entity.betterend.dragonfly": {
+    "en": "Dragonfly",
+    "zh": "蜻蜓",
+    "vi": "Dragonfly"
+  },
+  "entity.betterend.end_fish": {
+    "en": "End Fish",
+    "zh": "末地鱼",
+    "vi": "End Fish"
+  },
+  "entity.betterend.end_slime": {
+    "en": "End Slime",
+    "zh": "末地史莱姆",
+    "vi": "End Slime"
+  },
+  "entity.betterend.shadow_walker": {
+    "en": "Shadow Walker",
+    "zh": "黯影行者",
+    "vi": "Shadow Walker"
+  },
+  "entity.betterend.silk_moth": {
+    "en": "Silk Moth",
+    "zh": "丝蛾",
+    "vi": "Silk Moth"
+  },
+  "item.betterend.aeternium_axe": {
+    "en": "Aeternium Axe",
+    "zh": "太古合金斧",
+    "vi": "Aeternium Axe"
+  },
+  "item.betterend.aeternium_axe_head": {
+    "en": "Aeternium Axe Head",
+    "zh": "太古合金斧头部",
+    "vi": "Aeternium Axe Head"
+  },
+  "item.betterend.aeternium_boots": {
+    "en": "Aeternium Boots",
+    "zh": "太古合金靴子",
+    "vi": "Aeternium Boots"
+  },
+  "item.betterend.aeternium_chestplate": {
+    "en": "Aeternium Chestplate",
+    "zh": "太古合金胸甲",
+    "vi": "Aeternium Chestplate"
+  },
+  "item.betterend.aeternium_forged_plate": {
+    "en": "Aeternium Forged Plate",
+    "zh": "太古合金锻板",
+    "vi": "Aeternium Forged Plate"
+  },
+  "item.betterend.aeternium_hammer": {
+    "en": "Aeternium Smith Hammer",
+    "zh": "太古合金锻锤",
+    "vi": "Aeternium Smith Hammer"
+  },
+  "item.betterend.aeternium_hammer_head": {
+    "en": "Aeternium Hammer Head",
+    "zh": "太古合金锻锤头部",
+    "vi": "Aeternium Hammer Head"
+  },
+  "item.betterend.aeternium_helmet": {
+    "en": "Aeternium Helmet",
+    "zh": "太古合金头盔",
+    "vi": "Aeternium Helmet"
+  },
+  "item.betterend.aeternium_hoe": {
+    "en": "Aeternium Hoe",
+    "zh": "太古合金锄",
+    "vi": "Aeternium Hoe"
+  },
+  "item.betterend.aeternium_hoe_head": {
+    "en": "Aeternium Hoe Head",
+    "zh": "太古合金锄头部",
+    "vi": "Aeternium Hoe Head"
+  },
+  "item.betterend.aeternium_ingot": {
+    "en": "Aeternium Ingot",
+    "zh": "太古合金锭",
+    "vi": "Aeternium Ingot"
+  },
+  "item.betterend.aeternium_leggings": {
+    "en": "Aeternium Leggings",
+    "zh": "太古合金护腿",
+    "vi": "Aeternium Leggings"
+  },
+  "item.betterend.aeternium_pickaxe": {
+    "en": "Aeternium Pickaxe",
+    "zh": "太古合金镐",
+    "vi": "Aeternium Pickaxe"
+  },
+  "item.betterend.aeternium_pickaxe_head": {
+    "en": "Aeternium Pickaxe Head",
+    "zh": "太古合金镐头部",
+    "vi": "Aeternium Pickaxe Head"
+  },
+  "item.betterend.aeternium_shovel": {
+    "en": "Aeternium Shovel",
+    "zh": "太古合金锹",
+    "vi": "Aeternium Shovel"
+  },
+  "item.betterend.aeternium_shovel_head": {
+    "en": "Aeternium Shovel Head",
+    "zh": "太古合金锹头部",
+    "vi": "Aeternium Shovel Head"
+  },
+  "item.betterend.aeternium_sword": {
+    "en": "Aeternium Sword",
+    "zh": "太古合金剑",
+    "vi": "Aeternium Sword"
+  },
+  "item.betterend.aeternium_sword_blade": {
+    "en": "Aeternium Sword Blade",
+    "zh": "太古合金剑刃",
+    "vi": "Aeternium Sword Blade"
+  },
+  "item.betterend.aeternium_sword_handle": {
+    "en": "Aeternium Sword Handle",
+    "zh": "太古合金剑柄",
+    "vi": "Aeternium Sword Handle"
+  },
+  "item.betterend.amber_gem": {
+    "en": "Amber Gem",
+    "zh": "琥珀水晶",
+    "vi": "Amber Gem"
+  },
+  "item.betterend.amber_root_raw": {
+    "en": "Raw Amber Root",
+    "zh": "生琥珀根",
+    "vi": "Raw Amber Root"
+  },
+  "item.betterend.blossom_berry": {
+    "en": "Blossom Berry",
+    "zh": "绽花浆果",
+    "vi": "Blossom Berry"
+  },
+  "item.betterend.blossom_berry_jelly": {
+    "en": "Blossom Berry Jelly",
+    "zh": "绽花浆果果冻",
+    "vi": "Blossom Berry Jelly"
+  },
+  "item.betterend.bolux_mushroom_cooked": {
+    "en": "Cooked Bolux Mushroom",
+    "zh": "熟博勒克斯蘑菇",
+    "vi": "Cooked Bolux Mushroom"
+  },
+  "item.betterend.bucket_cubozoa": {
+    "en": "Bucket of Cubozoa",
+    "zh": "箱水母桶",
+    "vi": "Bucket of Cubozoa"
+  },
+  "item.betterend.bucket_end_fish": {
+    "en": "Bucket of End Fish",
+    "zh": "末地鱼桶",
+    "vi": "Bucket of End Fish"
+  },
+  "item.betterend.cave_pumpkin_pie": {
+    "en": "Cave Pumpkin Pie",
+    "zh": "洞穴南瓜派",
+    "vi": "Cave Pumpkin Pie"
+  },
+  "item.betterend.chorus_mushroom_cooked": {
+    "en": "Cooked Chorus Mushroom",
+    "zh": "熟紫颂蘑菇",
+    "vi": "Cooked Chorus Mushroom"
+  },
+  "item.betterend.chorus_mushroom_raw": {
+    "en": "Raw Chorus Mushroom",
+    "zh": "生紫颂蘑菇",
+    "vi": "Raw Chorus Mushroom"
+  },
+  "item.betterend.crystal_shards": {
+    "en": "Aurora Crystal Shards",
+    "zh": "极光水晶碎片",
+    "vi": "Aurora Crystal Shards"
+  },
+  "item.betterend.crystalite_boots": {
+    "en": "Crystalite Boots",
+    "zh": "融晶靴子",
+    "vi": "Crystalite Boots"
+  },
+  "item.betterend.crystalite_chestplate": {
+    "en": "Crystalite Chestplate",
+    "zh": "融晶胸甲",
+    "vi": "Crystalite Chestplate"
+  },
+  "item.betterend.crystalite_helmet": {
+    "en": "Crystalite Helmet",
+    "zh": "融晶头盔",
+    "vi": "Crystalite Helmet"
+  },
+  "item.betterend.crystalite_leggings": {
+    "en": "Crystalite Leggings",
+    "zh": "融晶护腿",
+    "vi": "Crystalite Leggings"
+  },
+  "item.betterend.crystalline_sulphur": {
+    "en": "Sulfur",
+    "zh": "硫磺",
+    "vi": "Sulfur"
+  },
+  "item.betterend.debug.biome_loot": {
+    "en": "Biome Loot [dev]",
+    "zh": "生物群系战利品[dev]",
+    "vi": "Biome Loot [dev]"
+  },
+  "item.betterend.debug.fill_air": {
+    "en": "Replace Air in Structure Block Bounds [dev]",
+    "zh": "替换结构方块范围内的空气[dev]",
+    "vi": "Replace Air in Structure Block Bounds [dev]"
+  },
+  "item.betterend.debug.fill_base_void": {
+    "en": "Replace EndStone in Structure Block Bounds [dev]",
+    "zh": "替换结构方块范围内的末地石[dev]",
+    "vi": "Replace EndStone in Structure Block Bounds [dev]"
+  },
+  "item.betterend.debug.jigsaw_big_deco": {
+    "en": "Large Decoration [dev]",
+    "zh": "大型装饰物[dev]",
+    "vi": "Large Decoration [dev]"
+  },
+  "item.betterend.debug.jigsaw_deco": {
+    "en": "Small Decoration [dev]",
+    "zh": "小型装饰物[dev]",
+    "vi": "Small Decoration [dev]"
+  },
+  "item.betterend.debug.jigsaw_entrance": {
+    "en": "Entrance [dev]",
+    "zh": "入口[dev]",
+    "vi": "Entrance [dev]"
+  },
+  "item.betterend.debug.jigsaw_street": {
+    "en": "Street [dev]",
+    "zh": "街道[dev]",
+    "vi": "Street [dev]"
+  },
+  "item.betterend.debug.jigsaw_street_big_deco": {
+    "en": "Placeholder - large Decoration [dev]",
+    "zh": "占位符-大型装饰物[dev]",
+    "vi": "Placeholder - large Decoration [dev]"
+  },
+  "item.betterend.debug.jigsaw_street_deco": {
+    "en": "Placeholder - small Decoration [dev]",
+    "zh": "占位符-小型装饰物[dev]",
+    "vi": "Placeholder - small Decoration [dev]"
+  },
+  "item.betterend.debug.jigsaw_street_entrance": {
+    "en": "Placeholder - Entrance [dev]",
+    "zh": "占位符-入口[dev]",
+    "vi": "Placeholder - Entrance [dev]"
+  },
+  "item.betterend.debug.village_bonus": {
+    "en": "Bonus VIllage Loot [dev]",
+    "zh": "奖励村庄战利品[dev]",
+    "vi": "Bonus VIllage Loot [dev]"
+  },
+  "item.betterend.debug.village_loot": {
+    "en": "Village Loot [dev]",
+    "zh": "村庄战利品[dev]",
+    "vi": "Village Loot [dev]"
+  },
+  "item.betterend.debug.village_template": {
+    "en": "Village Template Loot [dev]",
+    "zh": "村庄模板战利品[dev]",
+    "vi": "Village Template Loot [dev]"
+  },
+  "item.betterend.diamond_hammer": {
+    "en": "Diamond Smith Hammer",
+    "zh": "钻石锻锤",
+    "vi": "Diamond Smith Hammer"
+  },
+  "item.betterend.elytra_armored": {
+    "en": "Armored Elytra",
+    "zh": "装甲鞘翅",
+    "vi": "Armored Elytra"
+  },
+  "item.betterend.elytra_crystalite": {
+    "en": "Crystalite Elytra",
+    "zh": "融晶鞘翅",
+    "vi": "Crystalite Elytra"
+  },
+  "item.betterend.enchanted_membrane": {
+    "en": "Enchanted Membrane",
+    "zh": "附魔膜",
+    "vi": "Enchanted Membrane"
+  },
+  "item.betterend.enchanted_petal": {
+    "en": "Enchanted Petal",
+    "zh": "附魔花瓣",
+    "vi": "Enchanted Petal"
+  },
+  "item.betterend.end_fish_cooked": {
+    "en": "Cooked End Fish",
+    "zh": "熟末地鱼",
+    "vi": "Cooked End Fish"
+  },
+  "item.betterend.end_fish_raw": {
+    "en": "End Fish",
+    "zh": "末地鱼",
+    "vi": "End Fish"
+  },
+  "item.betterend.end_lily_leaf": {
+    "en": "End Lily Leaf",
+    "zh": "末地睡莲叶",
+    "vi": "End Lily Leaf"
+  },
+  "item.betterend.end_lily_leaf_dried": {
+    "en": "End Lily Leaf Dried",
+    "zh": "干燥末地睡莲叶",
+    "vi": "End Lily Leaf Dried"
+  },
+  "item.betterend.ender_dust": {
+    "en": "Ender Dust",
+    "zh": "末影粉",
+    "vi": "Ender Dust"
+  },
+  "item.betterend.ender_shard": {
+    "en": "Ender Shard",
+    "zh": "末影碎片",
+    "vi": "Ender Shard"
+  },
+  "item.betterend.eternal_crystal": {
+    "en": "Eternal Crystal",
+    "zh": "永恒水晶",
+    "vi": "Eternal Crystal"
+  },
+  "item.betterend.gelatine": {
+    "en": "Gelatine",
+    "zh": "明胶",
+    "vi": "Gelatine"
+  },
+  "item.betterend.glowing_bulb": {
+    "en": "Glowing Bulb",
+    "zh": "发光灯泡",
+    "vi": "Glowing Bulb"
+  },
+  "item.betterend.golden_hammer": {
+    "en": "Golden Smith Hammer",
+    "zh": "金锻锤",
+    "vi": "Golden Smith Hammer"
+  },
+  "item.betterend.guidebook": {
+    "en": "The End for Dummies",
+    "zh": "萌新的末路",
+    "vi": "The End for Dummies"
+  },
+  "item.betterend.hydralux_petal": {
+    "en": "Hydralux Petal",
+    "zh": "水勒克斯花瓣",
+    "vi": "Hydralux Petal"
+  },
+  "item.betterend.iron_hammer": {
+    "en": "Iron Smith Hammer",
+    "zh": "铁锻锤",
+    "vi": "Iron Smith Hammer"
+  },
+  "item.betterend.leather_stripe": {
+    "en": "Leather Stripe",
+    "zh": "皮革条",
+    "vi": "Leather Stripe"
+  },
+  "item.betterend.leather_wrapped_stick": {
+    "en": "Leather Wrapped Stick",
+    "zh": "皮革包层木棍",
+    "vi": "Leather Wrapped Stick"
+  },
+  "item.betterend.lumecorn_rod": {
+    "en": "Lumecorn Rod",
+    "zh": "流明玉米棒",
+    "vi": "Lumecorn Rod"
+  },
+  "item.betterend.music_disc_endseeker": {
+    "en": "§bMusic Disc§r",
+    "zh": "§b音乐唱片§r",
+    "vi": "§bMusic Disc§r"
+  },
+  "item.betterend.music_disc_endseeker.desc": {
+    "en": "§5Firel§r - §fEndseeker§r",
+    "zh": "§5Firel§r - §fEndseeker§r",
+    "vi": "§5Firel§r - §fEndseeker§r"
+  },
+  "item.betterend.music_disc_eo_dracona": {
+    "en": "§bMusic Disc§r",
+    "zh": "§b音乐唱片§r",
+    "vi": "§bMusic Disc§r"
+  },
+  "item.betterend.music_disc_eo_dracona.desc": {
+    "en": "§5Firel§r - §fEo Dracona§r",
+    "zh": "§5Firel§r - §fEo Dracona§r",
+    "vi": "§5Firel§r - §fEo Dracona§r"
+  },
+  "item.betterend.music_disc_grasping_at_stars": {
+    "en": "§bMusic Disc§r",
+    "zh": "§b音乐唱片§r",
+    "vi": "§bMusic Disc§r"
+  },
+  "item.betterend.music_disc_grasping_at_stars.desc": {
+    "en": "§5Firel§r - §fGrasping At Stars§r",
+    "zh": "§5Firel§r - §fGrasping At Stars§r",
+    "vi": "§5Firel§r - §fGrasping At Stars§r"
+  },
+  "item.betterend.music_disc_strange_and_alien": {
+    "en": "§bMusic Disc§r",
+    "zh": "§b音乐唱片§r",
+    "vi": "§bMusic Disc§r"
+  },
+  "item.betterend.music_disc_strange_and_alien.desc": {
+    "en": "§5Firel§r - §fStrange And Alien§r",
+    "zh": "§5Firel§r - §fStrange And Alien§r",
+    "vi": "§5Firel§r - §fStrange And Alien§r"
+  },
+  "item.betterend.netherite_hammer": {
+    "en": "Netherite Smith Hammer",
+    "zh": "下界合金锻锤",
+    "vi": "Netherite Smith Hammer"
+  },
+  "item.betterend.raw_amber": {
+    "en": "Raw Amber",
+    "zh": "粗琥珀",
+    "vi": "Raw Amber"
+  },
+  "item.betterend.shadow_berry_cooked": {
+    "en": "Shadow Berry Cooked",
+    "zh": "熟黯影浆果",
+    "vi": "Shadow Berry Cooked"
+  },
+  "item.betterend.shadow_berry_jelly": {
+    "en": "Shadow Berry Jelly",
+    "zh": "黯影浆果果冻",
+    "vi": "Shadow Berry Jelly"
+  },
+  "item.betterend.shadow_berry_raw": {
+    "en": "Shadow Berry",
+    "zh": "黯影浆果",
+    "vi": "Shadow Berry"
+  },
+  "item.betterend.silk_fiber": {
+    "en": "Silk Fiber",
+    "zh": "丝纤维",
+    "vi": "Silk Fiber"
+  },
+  "item.betterend.silk_moth_matrix": {
+    "en": "Silk Moth Matrix",
+    "zh": "丝蛾茧巢",
+    "vi": "Silk Moth Matrix"
+  },
+  "item.betterend.smithing_template.aeternium_upgrade.additions_slot_description": {
+    "en": "Add Aeternium Ingot",
+    "zh": "放入太古合金锭",
+    "vi": "Add Aeternium Ingot"
+  },
+  "item.betterend.smithing_template.aeternium_upgrade.applies_to": {
+    "en": "Elytra or Terminite Anvils",
+    "zh": "鞘翅或终末合金砧",
+    "vi": "Elytra or Terminite Anvils"
+  },
+  "item.betterend.smithing_template.aeternium_upgrade.base_slot_description": {
+    "en": "Add Elytra or Terminite Anvil",
+    "zh": "放入鞘翅或终末合金砧",
+    "vi": "Add Elytra or Terminite Anvil"
+  },
+  "item.betterend.smithing_template.aeternium_upgrade.ingredients": {
+    "en": "Aeternium Ingots",
+    "zh": "太古合金锭",
+    "vi": "Aeternium Ingots"
+  },
+  "item.betterend.smithing_template.handle_attachment.additions_slot_description": {
+    "en": "Add a Stick",
+    "zh": "放入木棍",
+    "vi": "Add a Stick"
+  },
+  "item.betterend.smithing_template.handle_attachment.applies_to": {
+    "en": "Thallasium or Terminite Tool Heads",
+    "zh": "塔拉斯金或终末合金工具头部",
+    "vi": "Thallasium or Terminite Tool Heads"
+  },
+  "item.betterend.smithing_template.handle_attachment.base_slot_description": {
+    "en": "Add Thallasium or Terminite Tool Heads",
+    "zh": "放入塔拉斯金或终末合金工具头部",
+    "vi": "Add Thallasium or Terminite Tool Heads"
+  },
+  "item.betterend.smithing_template.handle_attachment.ingredients": {
+    "en": "Sticks",
+    "zh": "木棍",
+    "vi": "Sticks"
+  },
+  "item.betterend.smithing_template.leather_handle_attachment.additions_slot_description": {
+    "en": "Add a Leather Wrapped Stick",
+    "zh": "放入皮革包层木棍",
+    "vi": "Add a Leather Wrapped Stick"
+  },
+  "item.betterend.smithing_template.leather_handle_attachment.applies_to": {
+    "en": "Aeternium Tool Heads",
+    "zh": "太古合金工具头部",
+    "vi": "Aeternium Tool Heads"
+  },
+  "item.betterend.smithing_template.leather_handle_attachment.base_slot_description": {
+    "en": "Add a Aeternium Tool Head",
+    "zh": "放入太古合金工具头部",
+    "vi": "Add a Aeternium Tool Head"
+  },
+  "item.betterend.smithing_template.leather_handle_attachment.ingredients": {
+    "en": "Leather Wrapped Sticks",
+    "zh": "皮革包层木棍",
+    "vi": "Leather Wrapped Sticks"
+  },
+  "item.betterend.smithing_template.netherite_upgrade.additions_slot_description": {
+    "en": "Add a Netherite Ingot",
+    "zh": "放入下界合金锭",
+    "vi": "Add a Netherite Ingot"
+  },
+  "item.betterend.smithing_template.netherite_upgrade.applies_to": {
+    "en": "Diamond Hammer",
+    "zh": "钻石锻锤",
+    "vi": "Diamond Hammer"
+  },
+  "item.betterend.smithing_template.netherite_upgrade.base_slot_description": {
+    "en": "Add a Diamond Hammer",
+    "zh": "放入钻石锻锤",
+    "vi": "Add a Diamond Hammer"
+  },
+  "item.betterend.smithing_template.netherite_upgrade.ingredients": {
+    "en": "Netherite Ingots",
+    "zh": "下界合金锭",
+    "vi": "Netherite Ingots"
+  },
+  "item.betterend.smithing_template.plate_upgrade.additions_slot_description": {
+    "en": "Add a forged Aeternium Plate",
+    "zh": "放入太古合金锻板",
+    "vi": "Add a forged Aeternium Plate"
+  },
+  "item.betterend.smithing_template.plate_upgrade.applies_to": {
+    "en": "Terminite Armor",
+    "zh": "终末合金盔甲",
+    "vi": "Terminite Armor"
+  },
+  "item.betterend.smithing_template.plate_upgrade.base_slot_description": {
+    "en": "Add a Terminite Piece",
+    "zh": "放入终末合金部件",
+    "vi": "Add a Terminite Piece"
+  },
+  "item.betterend.smithing_template.plate_upgrade.ingredients": {
+    "en": "Forged Aeternium Plates",
+    "zh": "太古合金锻板",
+    "vi": "Forged Aeternium Plates"
+  },
+  "item.betterend.smithing_template.terminite_upgrade.additions_slot_description": {
+    "en": "Add a Terminite Ingot",
+    "zh": "放入终末合金锭",
+    "vi": "Add a Terminite Ingot"
+  },
+  "item.betterend.smithing_template.terminite_upgrade.applies_to": {
+    "en": "Stick or Thallasium Anvil",
+    "zh": "木棍或终末合金砧",
+    "vi": "Stick or Thallasium Anvil"
+  },
+  "item.betterend.smithing_template.terminite_upgrade.base_slot_description": {
+    "en": "Add a Stick or a Thallasium Anvil ",
+    "zh": "放入木棍或终末合金砧",
+    "vi": "Add a Stick or a Thallasium Anvil "
+  },
+  "item.betterend.smithing_template.terminite_upgrade.ingredients": {
+    "en": "Terminite Ingots",
+    "zh": "终末合金锭",
+    "vi": "Terminite Ingots"
+  },
+  "item.betterend.smithing_template.thallasium_upgrade.additions_slot_description": {
+    "en": "Add a Thallasium Ingot",
+    "zh": "放入塔拉斯金锭",
+    "vi": "Add a Thallasium Ingot"
+  },
+  "item.betterend.smithing_template.thallasium_upgrade.applies_to": {
+    "en": "Stick",
+    "zh": "木棍",
+    "vi": "Stick"
+  },
+  "item.betterend.smithing_template.thallasium_upgrade.base_slot_description": {
+    "en": "Add a Stick",
+    "zh": "放入木棍",
+    "vi": "Add a Stick"
+  },
+  "item.betterend.smithing_template.thallasium_upgrade.ingredients": {
+    "en": "Thallasium Ingots",
+    "zh": "塔拉斯金锭",
+    "vi": "Thallasium Ingots"
+  },
+  "item.betterend.smithing_template.tool_assembly.additions_slot_description": {
+    "en": "Add a Sword Handle",
+    "zh": "放入剑柄",
+    "vi": "Add a Sword Handle"
+  },
+  "item.betterend.smithing_template.tool_assembly.applies_to": {
+    "en": "Sword Blades",
+    "zh": "剑刃",
+    "vi": "Sword Blades"
+  },
+  "item.betterend.smithing_template.tool_assembly.base_slot_description": {
+    "en": "Add a Sword Blade",
+    "zh": "放入剑刃",
+    "vi": "Add a Sword Blade"
+  },
+  "item.betterend.smithing_template.tool_assembly.ingredients": {
+    "en": "Sword Handles",
+    "zh": "剑柄",
+    "vi": "Sword Handles"
+  },
+  "item.betterend.spawn_egg_cubozoa": {
+    "en": "Cubozoa Spawn Egg",
+    "zh": "箱水母刷怪蛋",
+    "vi": "Cubozoa Spawn Egg"
+  },
+  "item.betterend.spawn_egg_dragonfly": {
+    "en": "Dragonfly Spawn Egg",
+    "zh": "蜻蜓刷怪蛋",
+    "vi": "Dragonfly Spawn Egg"
+  },
+  "item.betterend.spawn_egg_end_fish": {
+    "en": "End Fish Spawn Egg",
+    "zh": "末地鱼刷怪蛋",
+    "vi": "End Fish Spawn Egg"
+  },
+  "item.betterend.spawn_egg_end_slime": {
+    "en": "End Slime Spawn Egg",
+    "zh": "末地史莱姆刷怪蛋",
+    "vi": "End Slime Spawn Egg"
+  },
+  "item.betterend.spawn_egg_shadow_walker": {
+    "en": "Shadow Walker Spawn Egg",
+    "zh": "黯影行者刷怪蛋",
+    "vi": "Shadow Walker Spawn Egg"
+  },
+  "item.betterend.spawn_egg_silk_moth": {
+    "en": "Silk Moth Spawn Egg",
+    "zh": "丝蛾刷怪蛋",
+    "vi": "Silk Moth Spawn Egg"
+  },
+  "item.betterend.sweet_berry_jelly": {
+    "en": "Sweet Berry Jelly",
+    "zh": "甜浆果果冻",
+    "vi": "Sweet Berry Jelly"
+  },
+  "item.betterend.terminite_axe": {
+    "en": "Terminite Axe",
+    "zh": "终末合金斧",
+    "vi": "Terminite Axe"
+  },
+  "item.betterend.terminite_axe_head": {
+    "en": "Terminite Axe Head",
+    "zh": "终末合金斧头部",
+    "vi": "Terminite Axe Head"
+  },
+  "item.betterend.terminite_boots": {
+    "en": "Terminite Boots",
+    "zh": "终末合金靴子",
+    "vi": "Terminite Boots"
+  },
+  "item.betterend.terminite_chestplate": {
+    "en": "Terminite Chestplate",
+    "zh": "终末合金胸甲",
+    "vi": "Terminite Chestplate"
+  },
+  "item.betterend.terminite_forged_plate": {
+    "en": "Terminite Forged Plate",
+    "zh": "终末合金锻板",
+    "vi": "Terminite Forged Plate"
+  },
+  "item.betterend.terminite_hammer": {
+    "en": "Terminite Smith Hammer",
+    "zh": "终末合金锻锤",
+    "vi": "Terminite Smith Hammer"
+  },
+  "item.betterend.terminite_helmet": {
+    "en": "Terminite Helmet",
+    "zh": "终末合金头盔",
+    "vi": "Terminite Helmet"
+  },
+  "item.betterend.terminite_hoe": {
+    "en": "Terminite Hoe",
+    "zh": "终末合金锄",
+    "vi": "Terminite Hoe"
+  },
+  "item.betterend.terminite_hoe_head": {
+    "en": "Terminite Hoe Head",
+    "zh": "终末合金锄头部",
+    "vi": "Terminite Hoe Head"
+  },
+  "item.betterend.terminite_ingot": {
+    "en": "Terminite Ingot",
+    "zh": "终末合金锭",
+    "vi": "Terminite Ingot"
+  },
+  "item.betterend.terminite_leggings": {
+    "en": "Terminite Leggings",
+    "zh": "终末合金护腿",
+    "vi": "Terminite Leggings"
+  },
+  "item.betterend.terminite_nugget": {
+    "en": "Terminite Nugget",
+    "zh": "终末合金粒",
+    "vi": "Terminite Nugget"
+  },
+  "item.betterend.terminite_pickaxe": {
+    "en": "Terminite Pickaxe",
+    "zh": "终末合金镐",
+    "vi": "Terminite Pickaxe"
+  },
+  "item.betterend.terminite_pickaxe_head": {
+    "en": "Terminite Pickaxe Head",
+    "zh": "终末合金镐头部",
+    "vi": "Terminite Pickaxe Head"
+  },
+  "item.betterend.terminite_shovel": {
+    "en": "Terminite Shovel",
+    "zh": "终末合金锹",
+    "vi": "Terminite Shovel"
+  },
+  "item.betterend.terminite_shovel_head": {
+    "en": "Terminite Shovel Head",
+    "zh": "终末合金锹头部",
+    "vi": "Terminite Shovel Head"
+  },
+  "item.betterend.terminite_sword": {
+    "en": "Terminite Sword",
+    "zh": "终末合金剑",
+    "vi": "Terminite Sword"
+  },
+  "item.betterend.terminite_sword_blade": {
+    "en": "Terminite Sword Blade",
+    "zh": "终末合金剑刃",
+    "vi": "Terminite Sword Blade"
+  },
+  "item.betterend.terminite_sword_handle": {
+    "en": "Terminite Sword Handle",
+    "zh": "终末合金剑柄",
+    "vi": "Terminite Sword Handle"
+  },
+  "item.betterend.thallasium_axe": {
+    "en": "Thallasium Axe",
+    "zh": "塔拉斯金斧",
+    "vi": "Thallasium Axe"
+  },
+  "item.betterend.thallasium_axe_head": {
+    "en": "Thallasium Axe Head",
+    "zh": "塔拉斯金斧头部",
+    "vi": "Thallasium Axe Head"
+  },
+  "item.betterend.thallasium_boots": {
+    "en": "Thallasium Boots",
+    "zh": "塔拉斯金靴子",
+    "vi": "Thallasium Boots"
+  },
+  "item.betterend.thallasium_chestplate": {
+    "en": "Thallasium Chestplate",
+    "zh": "塔拉斯金胸甲",
+    "vi": "Thallasium Chestplate"
+  },
+  "item.betterend.thallasium_forged_plate": {
+    "en": "Thallasium Forged Plate",
+    "zh": "塔拉斯金锻板",
+    "vi": "Thallasium Forged Plate"
+  },
+  "item.betterend.thallasium_hammer": {
+    "en": "Thallasium Hammer",
+    "zh": "塔拉斯金锻锤",
+    "vi": "Thallasium Hammer"
+  },
+  "item.betterend.thallasium_helmet": {
+    "en": "Thallasium Helmet",
+    "zh": "塔拉斯金头盔",
+    "vi": "Thallasium Helmet"
+  },
+  "item.betterend.thallasium_hoe": {
+    "en": "Thallasium Hoe",
+    "zh": "塔拉斯金锄",
+    "vi": "Thallasium Hoe"
+  },
+  "item.betterend.thallasium_hoe_head": {
+    "en": "Thallasium Hoe Head",
+    "zh": "塔拉斯金锄头部",
+    "vi": "Thallasium Hoe Head"
+  },
+  "item.betterend.thallasium_ingot": {
+    "en": "Thallasium Ingot",
+    "zh": "塔拉斯金锭",
+    "vi": "Thallasium Ingot"
+  },
+  "item.betterend.thallasium_leggings": {
+    "en": "Thallasium Leggings",
+    "zh": "塔拉斯金护腿",
+    "vi": "Thallasium Leggings"
+  },
+  "item.betterend.thallasium_nugget": {
+    "en": "Thallasium Nugget",
+    "zh": "塔拉斯金粒",
+    "vi": "Thallasium Nugget"
+  },
+  "item.betterend.thallasium_pickaxe": {
+    "en": "Thallasium Pickaxe",
+    "zh": "塔拉斯金镐",
+    "vi": "Thallasium Pickaxe"
+  },
+  "item.betterend.thallasium_pickaxe_head": {
+    "en": "Thallasium Pickaxe Head",
+    "zh": "塔拉斯金镐头部",
+    "vi": "Thallasium Pickaxe Head"
+  },
+  "item.betterend.thallasium_raw": {
+    "en": "Raw Thallasium",
+    "zh": "粗塔拉斯金",
+    "vi": "Raw Thallasium"
+  },
+  "item.betterend.thallasium_shovel": {
+    "en": "Thallasium Shovel",
+    "zh": "塔拉斯金锹",
+    "vi": "Thallasium Shovel"
+  },
+  "item.betterend.thallasium_shovel_head": {
+    "en": "Thallasium Shovel Head",
+    "zh": "塔拉斯金锹头部",
+    "vi": "Thallasium Shovel Head"
+  },
+  "item.betterend.thallasium_sword": {
+    "en": "Thallasium Sword",
+    "zh": "塔拉斯金剑",
+    "vi": "Thallasium Sword"
+  },
+  "item.betterend.thallasium_sword_blade": {
+    "en": "Thallasium Sword Blade",
+    "zh": "塔拉斯金剑刃",
+    "vi": "Thallasium Sword Blade"
+  },
+  "item.betterend.thallasium_sword_handle": {
+    "en": "Thallasium Sword Handle",
+    "zh": "塔拉斯金剑柄",
+    "vi": "Thallasium Sword Handle"
+  },
+  "item.betterend.umbrella_cluster_juice": {
+    "en": "Umbrella Cluster Juice",
+    "zh": "胶伞树花簇汁",
+    "vi": "Umbrella Cluster Juice"
+  },
+  "item.minecraft.lingering_potion.effect.end_veil": {
+    "en": "Lingering Potion Of End Veil",
+    "zh": "滞留型末地面纱药水",
+    "vi": "Lingering Potion Of End Veil"
+  },
+  "item.minecraft.lingering_potion.effect.long_end_veil": {
+    "en": "Lingering Potion Of End Veil",
+    "zh": "滞留型末地面纱药水",
+    "vi": "Lingering Potion Of End Veil"
+  },
+  "item.minecraft.potion.effect.end_veil": {
+    "en": "Potion Of End Veil",
+    "zh": "末地面纱药水",
+    "vi": "Potion Of End Veil"
+  },
+  "item.minecraft.potion.effect.long_end_veil": {
+    "en": "Potion Of End Veil",
+    "zh": "末地面纱药水",
+    "vi": "Potion Of End Veil"
+  },
+  "item.minecraft.splash_potion.effect.end_veil": {
+    "en": "Splash Potion Of End Veil",
+    "zh": "喷溅型末地面纱药水",
+    "vi": "Splash Potion Of End Veil"
+  },
+  "item.minecraft.splash_potion.effect.long_end_veil": {
+    "en": "Splash Potion Of End Veil",
+    "zh": "喷溅型末地面纱药水",
+    "vi": "Splash Potion Of End Veil"
+  },
+  "item.minecraft.tipped_arrow.effect.end_veil": {
+    "en": "Arrow Of End Veil",
+    "zh": "末地面纱之箭",
+    "vi": "Mũi tên của tấm màn che cuối"
+  },
+  "item.minecraft.tipped_arrow.effect.long_end_veil": {
+    "en": "Arrow Of End Veil",
+    "zh": "末地面纱之箭",
+    "vi": "Mũi tên của tấm màn che cuối"
+  },
+  "itemGroup.betterend.blocks": {
+    "en": "BetterEnd: Blocks",
+    "zh": "更好的末地：方块",
+    "vi": "Một kết thúc tốt hơn: khối"
+  },
+  "itemGroup.betterend.items": {
+    "en": "BetterEnd: Items",
+    "zh": "更好的末地：物品",
+    "vi": "Một kết thúc tốt hơn: các mặt hàng"
+  },
+  "itemGroup.betterend.nature": {
+    "en": "BetterEnd: Plants",
+    "zh": "更好的末地：植物",
+    "vi": "Một kết thúc tốt đẹp hơn: thực vật"
+  },
+  "message.betterend.anvil_damage": {
+    "en": "§cDamage",
+    "zh": "§c已损耗",
+    "vi": "§c bị mất"
+  },
+  "message.betterend.fail_spawn": {
+    "en": "§c§lYou need to hold 6 Amber Gems to set your spawn point",
+    "zh": "§c§l你需要6个琥珀宝石来设置重生点",
+    "vi": "§c§l Bạn cần 6 viên đá quý màu hổ phách để đặt điểm hồi sinh"
+  },
+  "message.betterend.set_spawn": {
+    "en": "§b§lYour spawn point is set here",
+    "zh": "§b§l你的重生点已设置在此处",
+    "vi": "§b§lĐiểm sinh sản của bạn đã được đặt ở đây"
+  },
+  "tag.betterend.alloying_copper": {
+    "en": "Copper Ores",
+    "zh": "铜矿石",
+    "vi": "quặng đồng"
+  },
+  "tag.betterend.alloying_gold": {
+    "en": "Gold Ores",
+    "zh": "金矿石",
+    "vi": "quặng vàng"
+  },
+  "tag.betterend.alloying_iron": {
+    "en": "Iron Ores",
+    "zh": "铁矿石",
+    "vi": "quặng sắt"
+  },
+  "tag.betterend.dragon_tree_logs": {
+    "en": "Dragon Tree Logs",
+    "zh": "龙树原木",
+    "vi": "Nhật ký Long Thọ"
+  },
+  "tag.betterend.end_lotus_logs": {
+    "en": "End Lotus Logs",
+    "zh": "末地莲原木",
+    "vi": "Nhật ký kết thúc Lotus"
+  },
+  "tag.betterend.helix_tree_logs": {
+    "en": "Helix Tree Logs",
+    "zh": "螺旋树原木",
+    "vi": "khúc cây xoắn ốc"
+  },
+  "tag.betterend.jellyshroom_logs": {
+    "en": "Jellyshroom Logs",
+    "zh": "果冻菌原木",
+    "vi": "Khúc nấm thạch"
+  },
+  "tag.betterend.lacugrove_logs": {
+    "en": "Lacugrove Logs",
+    "zh": "湖树原木",
+    "vi": "khúc gỗ hồ"
+  },
+  "tag.betterend.lucernia_logs": {
+    "en": "Lucernia Logs",
+    "zh": "琉森原木",
+    "vi": "Nhật ký Lucerne"
+  },
+  "tag.betterend.mossy_glowshroom_logs": {
+    "en": "Mossy Glowshroom Logs",
+    "zh": "苔光菇原木",
+    "vi": "Khúc gỗ nấm ánh rêu"
+  },
+  "tag.betterend.pythadendron_logs": {
+    "en": "Pythadendron Logs",
+    "zh": "毕达枝原木",
+    "vi": "Nhật ký Bidazhi"
+  },
+  "tag.betterend.tenanea_logs": {
+    "en": "Tenanea Logs",
+    "zh": "十纹原木",
+    "vi": "mười khúc gỗ"
+  },
+  "tag.betterend.thallasium_alloying": {
+    "en": "Thallasium Ores",
+    "zh": "塔拉斯金矿石",
+    "vi": "Quặng vàng Talas"
+  },
+  "tag.betterend.umbrella_tree_logs": {
+    "en": "Umbrella Logs",
+    "zh": "胶伞树原木",
+    "vi": "Khúc gỗ cây dù cao su"
+  },
+  "tooltip.armor.crystalite_boots": {
+    "en": "Effect: Swiftness I",
+    "zh": "效果：迅捷I",
+    "vi": "Tác dụng: Swift I"
+  },
+  "tooltip.armor.crystalite_chest": {
+    "en": "Effect: Dig Speed I",
+    "zh": "效果：急迫I",
+    "vi": "Tác dụng: Khẩn cấp tôi"
+  },
+  "tooltip.armor.crystalite_set": {
+    "en": "Set bonus: Regeneration I",
+    "zh": "套装增益：生命恢复I",
+    "vi": "Set Buff: Tái sinh sự sống I"
+  },
+  "upgrade.betterend.aeternium_upgrade": {
+    "en": "Aeternium Upgrade",
+    "zh": "太古合金升级",
+    "vi": "Nâng cấp hợp kim Taikoo"
+  },
+  "upgrade.betterend.handle_attachment": {
+    "en": "Combine with Handle",
+    "zh": "与手柄组合",
+    "vi": "Kết hợp với tay cầm"
+  },
+  "upgrade.betterend.leather_handle_attachment": {
+    "en": "Combine with Leather Handle",
+    "zh": "与皮革包层手柄组合",
+    "vi": "Tặng kèm tay cầm bọc da"
+  },
+  "upgrade.betterend.netherite_upgrade": {
+    "en": "Netherite Hammer Upgrade",
+    "zh": "下界合金锻锤升级",
+    "vi": "Nâng cấp búa rèn Netherite"
+  },
+  "upgrade.betterend.plate_upgrade": {
+    "en": "Aeternium Plating",
+    "zh": "加装太古合金护板",
+    "vi": "Lắp tấm bảo vệ hợp kim Taikoo"
+  },
+  "upgrade.betterend.terminite_upgrade": {
+    "en": "Terminite Upgrade",
+    "zh": "终末合金升级",
+    "vi": "Nâng cấp hợp kim đầu cuối"
+  },
+  "upgrade.betterend.thallasium_upgrade": {
+    "en": "Thallasium Sword Handle",
+    "zh": "塔拉斯金剑柄",
+    "vi": "Cán vàng Taras"
+  },
+  "upgrade.betterend.tool_assembly": {
+    "en": "Assemble Sword",
+    "zh": "组装剑",
+    "vi": "Lắp ráp thanh kiếm"
+  }
+}

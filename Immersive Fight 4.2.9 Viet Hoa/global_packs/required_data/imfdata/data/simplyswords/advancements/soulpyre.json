@@ -1,0 +1,28 @@
+{
+  "display": {
+    "icon": {
+      "item": "simplyswords:soulpyre"
+    },
+    "title": "Hỏa Thiêu Linh Hồn",
+    "description": "Tìm thấy vũ khí độc nhất,Lễ Mai Táng Linh Hồn",
+    "hidden": true,
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "simplyswords:runic_weapon",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "simplyswords:soulpyre"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

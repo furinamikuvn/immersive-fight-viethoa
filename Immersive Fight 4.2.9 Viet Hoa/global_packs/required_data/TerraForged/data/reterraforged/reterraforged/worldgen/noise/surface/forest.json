@@ -1,0 +1,39 @@
+{
+  "type": "reterraforged:shift",
+  "input": {
+    "type": "reterraforged:warp",
+    "domain": {
+      "type": "reterraforged:domain",
+      "distance": 3.0,
+      "x": {
+        "type": "reterraforged:shift",
+        "input": {
+          "type": "reterraforged:white",
+          "frequency": 0.5
+        },
+        "shift": 16
+      },
+      "z": {
+        "type": "reterraforged:shift",
+        "input": {
+          "type": "reterraforged:white",
+          "frequency": 0.5
+        },
+        "shift": 17
+      }
+    },
+    "input": {
+      "type": "reterraforged:shift",
+      "input": {
+        "type": "reterraforged:simplex",
+        "frequency": 0.02,
+        "gain": 0.5,
+        "interpolation": "CURVE3",
+        "lacunarity": 2.0,
+        "octaves": 2
+      },
+      "shift": 15
+    }
+  },
+  "shift": 746382634
+}

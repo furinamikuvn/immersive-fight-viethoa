@@ -1,0 +1,17 @@
+{
+  "name": "Shadowsting (Ảnh Thích)",
+  "icon": "simplyswords:shadowsting",
+  "advancement": "simplyswords:shadowsting",
+  "category": "simplyswords:category_unique_weapons",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:shadowsting",
+      "text": "Kiếm liễu ngập tràn bóng tối, tung đòn sát thương ma thuật xuyên thấu hoàn toàn giáp trụ của kẻ địch."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Lướt ngắn về phía trước tạo sương mù bóng tối che mắt kẻ thù, tạo ưu thế đột kích bất ngờ."
+    }
+  ]
+}

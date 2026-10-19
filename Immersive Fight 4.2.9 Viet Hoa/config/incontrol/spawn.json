@@ -1,0 +1,793 @@
+[
+  {
+    "mob": ["born_in_chaos_v1:missioner"],
+    "result": "deny"
+  },
+  {
+    "mob": ["celestisynth:star_monolith"],
+    "dimension": "minecraft:overworld",
+    "result": "deny"
+  },
+  {
+    "mob": ["cataclysm:ignited_berserker"],
+    "dimension": "minecraft:the_nether",
+    "biome": "regions_unexplored:infernal_holt",
+    "result": "default"
+  },
+  {
+    "mob": ["eeeabsmobs:immortal_executioner"],
+    "dimension": "minecraft:the_nether",
+    "biome": ["regions_unexplored:infernal_holt","minecraft:soul_sand_valley"],
+    "result": "default"
+  },
+  {
+    "mob": ["species:cruncher"],
+    "dimension": "minecraft:the_nether",
+    "biome": "regions_unexplored:blackstone_basin",
+    "result": "default"
+  },
+  {
+    "mob": ["born_in_chaos_v1:lifestealer"],
+    "dimension": "minecraft:the_nether",
+    "biome": "regions_unexplored:infernal_holt",
+    "result": "default"
+  },
+  {
+    "mob": ["illageandspillage:eyesore","born_in_chaos_v1:spiritof_chaos"],
+    "dimension": "minecraft:the_nether",
+    "biome": "minecraft:crimson_forest",
+    "result": "default"
+  },
+  {
+    "mob": ["minecraft:wither_skeleton"],
+    "dimension": "minecraft:the_nether",
+    "biome": ["regions_unexplored:infernal_holt","minecraft:soul_sand_valley","regions_unexplored:blackstone_basin"],
+    "result": "default"
+  },
+  {
+    "mob": ["nethers_exorcism_reborn:strampler"],
+    "dimension": "minecraft:the_nether",
+    "biome": "regions_unexplored:glistering_meadow",
+    "result": "default"
+  },
+  {
+    "mob": ["arsenal:soul_knight"],
+    "dimension": "minecraft:the_nether",
+    "biome": ["netherexp:black_ice_glaciers","minecraft:soul_sand_valley"],
+    "result": "default"
+  },
+  {
+    "mob": ["nethers_exorcism_reborn:basalt_crab"],
+    "dimension": "minecraft:the_nether",
+    "biome": ["minecraft:basalt_deltas","regions_unexplored:blackstone_basin"],
+    "result": "default"
+  },
+  {
+    "mob": ["notsoshrimple:crayfish"],
+    "dimension": "minecraft:overworld",
+    "biome": ["regions_unexplored:fen","regions_unexplored:bayou","regions_unexplored:marsh","biomeswevegone:cypress_wetlands","regions_unexplored:spires"],
+    "result": "default"
+  },
+  {
+    "mob": ["nethers_exorcism_reborn:indigo_scyphozoa","nethers_exorcism_reborn:indigo_salamander"],
+    "dimension": "minecraft:the_nether",
+    "biome": "regions_unexplored:blackstone_basin",
+    "result": "default"
+  },
+  {
+    "mob": ["notsoshrimple:crayfish"],
+    "dimension": "minecraft:overworld",
+    "incontrol": true,
+    "result": "deny"
+  },
+  {
+    "mob": ["cataclysm:ignited_berserker","eeeabsmobs:immortal_executioner","nethers_exorcism_reborn:strampler","nethers_exorcism_reborn:basalt_crab","nethers_exorcism_reborn:indigo_scyphozoa","nethers_exorcism_reborn:indigo_salamander","minecraft:wither_skeleton","illageandspillage:eyesore","born_in_chaos_v1:spiritof_chaos","born_in_chaos_v1:lifestealer","species:cruncher","arsenal:soul_knight"],
+    "dimension": "minecraft:the_nether",
+    "incontrol": true,
+    "result": "deny"
+  },
+
+  {
+    "dimension": "minecraft:overworld",
+    "hostile": true,
+    "phase": "lh10",
+    "mincount": {
+      "amount": 10,
+      "hostile": true,
+      "perplayer": true
+    },
+    "result": "deny"
+  },
+  {
+    "dimension": "minecraft:overworld",
+    "hostile": true,
+    "phase": "lh20",
+    "mincount": {
+      "amount": 20,
+      "hostile": true,
+      "perplayer": true
+    },
+    "result": "deny"
+  },
+  {
+    "dimension": "minecraft:overworld",
+    "hostile": true,
+    "phase": "lh30",
+    "mincount": {
+      "amount": 30,
+      "hostile": true,
+      "perplayer": true
+    },
+    "result": "deny"
+  },
+  {
+    "dimension": "minecraft:overworld",
+    "hostile": true,
+    "phase": "lh50",
+    "mincount": {
+      "amount": 50,
+      "hostile": true,
+      "perplayer": true
+    },
+    "result": "deny"
+  },
+  {
+    "dimension": "minecraft:overworld",
+    "hostile": true,
+    "phase": "lh100",
+    "mincount": {
+      "amount": 100,
+      "hostile": true,
+      "perplayer": true
+    },
+    "result": "deny"
+  },
+
+
+{
+    "mob": ["simplyswords:battlestandard","simplyswords:battlestandarddark","naraka:herobrine"],
+    "healthmultiply":1.0,
+    "result": "allow",
+    "when": "onjoin"
+},
+
+
+  {
+   "mob": ["soul_like_mobs:hollowknight","soul_like_mobs:hollowknighthammer","soul_like_mobs:hollowknightspear","soul_like_mobs:hollowknightmace","soul_like_mobs:hollowsoldier","soul_like_mobs:darkknight"],
+    "phase": "health_1_0_X",
+    "healthmultiply": 1.0,   
+    "damagemultiply":-0.3,
+    "followrangeset":16,
+    "when": "onjoin",
+    "result": "default1"
+  },
+{
+    "mob": ["minecraft:wither_skeleton"],
+    "phase": "health_1_0_X",
+    "healthmultiply":2.5,
+    "damagemultiply":0.2,
+    "helditem":["4=minecraft:stone_sword","3=epicfight:golden_longsword","4=epicfight:golden_tachi","2=eugenes_guan_dao:stone_guan_dao"],
+    "result": "default",
+    "when": "onjoin"
+  },
+{
+    "mob": ["minecraft:pillager"],
+    "phase": "health_1_0_X",
+    "healthmultiply":1.5,
+    "damagemultiply":-0.2,
+    "result": "default",
+    "when": "onjoin"
+  },
+{
+    "mob": ["minecraft:zombie","minecraft:drowned","minecraft:husk"],
+    "phase": "health_1_0_X",
+    "healthmultiply":1.0,
+    "damagemultiply":-0.5,
+    "followrangeset":12,
+    "result": "allow",
+    "when": "onjoin",
+    "armorhelmet": ["1=minecraft:iron_helmet","2=minecraft:golden_helmet","3=minecraft:chainmail_helmet","4=minecraft:leather_helmet"],
+    "armorchest": ["5=minecraft:leather_chestplate","4=minecraft:chainmail_chestplate","3=minecraft:golden_chestplate"],
+    "armorlegs": ["7=minecraft:leather_leggings","4=minecraft:chainmail_leggings","5=minecraft:golden_leggings"],
+    "armorboots": ["5=minecraft:leather_boots","5=minecraft:chainmail_boots","5=minecraft:golden_boots"],
+    "helditem":["epicfight:stone_spear","epicfight:stone_greatsword","epicfight:iron_dagger","epicfight:iron_longsword","soul_like_armors_reworked:rustysteelmace","minecraft:iron_sword"]
+  },
+{
+    "mob": ["minecraft:zombie","minecraft:drowned","minecraft:husk"],
+    "phase": "health_1_0",
+    "healthmultiply":1.0,
+    "damagemultiply":-0.3,
+    "followrangeset":12,
+    "result": "allow",
+    "when": "onjoin",
+    "armorhelmet": ["5=minecraft:iron_helmet","3=minecraft:golden_helmet","4=minecraft:chainmail_helmet","1=minecraft:diamond_helmet"],
+    "armorchest": ["5=minecraft:iron_chestplate","4=minecraft:chainmail_chestplate","3=minecraft:golden_chestplate","1=minecraft:diamond_chestplate"],
+    "armorlegs": ["7=minecraft:iron_leggings","4=minecraft:chainmail_leggings","1=minecraft:diamond_leggings"],
+    "helditem":["epicfight:iron_spear","epicfight:iron_greatsword","epicfight:iron_dagger","epicfight:iron_longsword","soul_like_armors_reworked:rustysteelmace","minecraft:iron_sword","soul_like_armors_reworked:darkknightsword","soul_like_armors_reworked:darkknighttrident"]
+  },
+{
+    "mob": ["minecraft:zombie","minecraft:drowned","minecraft:husk"],
+    "phase": "health_1_5",
+    "healthmultiply":1.5,
+    "damagemultiply":-0.3,
+    "followrangeset":12,
+    "result": "allow",
+    "when": "onjoin",
+    "armorhelmet": ["5=minecraft:iron_helmet","3=minecraft:golden_helmet","4=minecraft:chainmail_helmet","1=minecraft:diamond_helmet"],
+    "armorchest": ["5=minecraft:iron_chestplate","4=minecraft:chainmail_chestplate","3=minecraft:golden_chestplate","1=minecraft:diamond_chestplate"],
+    "armorlegs": ["7=minecraft:iron_leggings","4=minecraft:chainmail_leggings","1=minecraft:diamond_leggings"],
+    "armorboots": ["10=minecraft:iron_boots","1=minecraft:diamond_boots"],
+    "helditem":["epicfight:iron_spear","epicfight:iron_greatsword","epicfight:iron_dagger","epicfight:iron_longsword","soul_like_armors_reworked:rustysteelmace","minecraft:iron_sword","soul_like_armors_reworked:darkknightsword","soul_like_armors_reworked:darkknighttrident"]
+  },
+{
+    "mob": ["minecraft:zombie","minecraft:drowned","minecraft:husk"],
+    "phase": "health_2_0",
+    "healthmultiply":2.0,
+    "damagemultiply":-0.3,
+    "followrangeset":12,
+    "result": "allow",
+    "when": "onjoin",
+    "armorhelmet": ["5=minecraft:iron_helmet","3=minecraft:golden_helmet","4=minecraft:chainmail_helmet","1=minecraft:diamond_helmet"],
+    "armorchest": ["5=minecraft:iron_chestplate","4=minecraft:chainmail_chestplate","3=minecraft:golden_chestplate","1=minecraft:diamond_chestplate"],
+    "armorlegs": ["7=minecraft:iron_leggings","4=minecraft:chainmail_leggings","1=minecraft:diamond_leggings"],
+    "armorboots": ["10=minecraft:iron_boots","1=minecraft:diamond_boots"],
+    "helditem":["epicfight:iron_spear","epicfight:iron_greatsword","epicfight:iron_dagger","epicfight:iron_longsword","soul_like_armors_reworked:rustysteelmace","minecraft:iron_sword","soul_like_armors_reworked:darkknightsword","soul_like_armors_reworked:darkknighttrident"]
+  },
+{
+    "mob": ["minecraft:zombie","minecraft:drowned","minecraft:husk"],
+    "phase": "health_2_5",
+    "healthmultiply":2.5,
+    "damagemultiply":-0.3,
+    "followrangeset":12,
+    "result": "allow",
+    "when": "onjoin",
+    "armorhelmet": ["5=minecraft:iron_helmet","3=minecraft:golden_helmet","4=minecraft:chainmail_helmet","1=minecraft:diamond_helmet"],
+    "armorchest": ["5=minecraft:iron_chestplate","4=minecraft:chainmail_chestplate","3=minecraft:golden_chestplate","1=minecraft:diamond_chestplate"],
+    "armorlegs": ["7=minecraft:iron_leggings","4=minecraft:chainmail_leggings","1=minecraft:diamond_leggings"],
+    "armorboots": ["10=minecraft:iron_boots","1=minecraft:diamond_boots"],
+    "helditem":["epicfight:iron_spear","epicfight:iron_greatsword","epicfight:iron_dagger","epicfight:iron_longsword","soul_like_armors_reworked:rustysteelmace","minecraft:iron_sword","soul_like_armors_reworked:darkknightsword","soul_like_armors_reworked:darkknighttrident"]
+  },
+{
+    "mob": ["minecraft:zombie","minecraft:drowned","minecraft:husk"],
+    "phase": "health_3_0",
+    "healthmultiply":3.0,
+    "damagemultiply":-0.3,
+    "followrangeset":12,
+    "result": "allow",
+    "when": "onjoin",
+    "armorhelmet": ["5=minecraft:iron_helmet","3=minecraft:golden_helmet","4=minecraft:chainmail_helmet","1=minecraft:diamond_helmet"],
+    "armorchest": ["5=minecraft:iron_chestplate","4=minecraft:chainmail_chestplate","3=minecraft:golden_chestplate","1=minecraft:diamond_chestplate"],
+    "armorlegs": ["7=minecraft:iron_leggings","4=minecraft:chainmail_leggings","1=minecraft:diamond_leggings"],
+    "armorboots": ["10=minecraft:iron_boots","1=minecraft:diamond_boots"],
+    "helditem":["epicfight:iron_spear","epicfight:iron_greatsword","epicfight:iron_dagger","epicfight:iron_longsword","soul_like_armors_reworked:rustysteelmace","minecraft:iron_sword","soul_like_armors_reworked:darkknightsword","soul_like_armors_reworked:darkknighttrident"]
+  },
+{
+    "mob": ["minecraft:zombie","minecraft:drowned","minecraft:husk"],
+    "phase": "health_5_0",
+    "healthmultiply":5.0,
+    "damagemultiply":-0.3,
+    "followrangeset":12,
+    "result": "allow",
+    "when": "onjoin",
+    "armorhelmet": ["5=minecraft:iron_helmet","3=minecraft:golden_helmet","4=minecraft:chainmail_helmet","1=minecraft:diamond_helmet"],
+    "armorchest": ["5=minecraft:iron_chestplate","4=minecraft:chainmail_chestplate","3=minecraft:golden_chestplate","1=minecraft:diamond_chestplate"],
+    "armorlegs": ["7=minecraft:iron_leggings","4=minecraft:chainmail_leggings","1=minecraft:diamond_leggings"],
+    "armorboots": ["10=minecraft:iron_boots","1=minecraft:diamond_boots"],
+    "helditem":["epicfight:iron_spear","epicfight:iron_greatsword","epicfight:iron_dagger","epicfight:iron_longsword","soul_like_armors_reworked:rustysteelmace","minecraft:iron_sword","soul_like_armors_reworked:darkknightsword","soul_like_armors_reworked:darkknighttrident"]
+  },
+  {
+    "phase": "bosshealth_1_0",
+    "mob": ["cataclysm:maledictus","cataclysm:ignis", "cataclysm:ender_guardian",  "cataclysm:the_harbinger", "cataclysm:the_leviathan", "cataclysm:ancient_remnant",  "bosses_of_mass_destruction:obsidilith",  "graveyard:lich",   "corundumguardian:corundum_guardian","aquamirae:captain_cornelia","alexsmobs:void_worm","minecraft:ender_dragon","alexscaves:forsaken","born_in_chaos_v1:sir_pumpkinhead","born_in_chaos_v1:sir_pumpkinhead_without_horse","born_in_chaos_v1:sir_the_headless","born_in_chaos_v1:pumpkinhead","cataclysm:coral_golem","cataclysm:coralssus","cataclysm:amethyst_crab","cataclysm:kobolediator","cataclysm:wadjet","cataclysm:ender_golem","cataclysm:the_watcher","cataclysm:the_prowler","cataclysm:aptrgangr","cataclysm:ignited_revenant","eeeabsmobs:corpse_warlock","eeeabsmobs:immortal","illageandspillage:freakager","illageandspillage:ragno","illageandspillage:spiritcaller","illageandspillage:magispeller","aquamirae:eel","mowziesmobs:ferrous_wroughtnaut","mowziesmobs:frostmaw","mowziesmobs:umvuthi","mofus_better_end_:endermite_queen","mofus_better_end_:eye_guardian_golem","mofus_better_end_:eye_guardian","mofus_better_end_:forgotten_litch","mofus_better_end_:reborn_litch","dungeons_and_combat:kamath","dungeons_and_combat:sunleia","cataclysm:scylla","cataclysm:clawdian","cataclysm:hippocamtus","cataclysm:cindaria","nightfall_invade:arterius","nightfall_invade:scarlet_hunter","the_faint_radiance:lychnus","legendary_monsters:annihilation_pursuer"],
+    "healthmultiply": 4.0,   
+    "when": "onjoin",
+    "result": "default"
+  },
+  {
+    "phase": "bosshealth_1_0",
+    "mob": ["bosses_of_mass_destruction:void_blossom","bosses_of_mass_destruction:lich", "bosses_of_mass_destruction:gauntlet","cataclysm:netherite_monstrosity","alexscaves:hullbreaker","alexscaves:luxtructosaurus","born_in_chaos_v1:lord_pumpkinhead","born_in_chaos_v1:lord_pumpkinhead_withouta_horse","born_in_chaos_v1:lord_the_headless","born_in_chaos_v1:lord_pumpkinhead_head","minecraft:wither","eeeabsmobs:nameless_guardian","cataclysm:ignited_berserker","eeeabsmobs:guling_sentinel","eeeabsmobs:guling_sentinel_heavy","aquamirae:maze_mother","infinitygolem:infinity_golem","legionary:unbreakable","monsterexpansion:rhyza","monsterexpansion:skrythe","monsterexpansion:leivekilth","monsterexpansion:rakoth","eeeabsmobs:relic_earthshaker","eeeabsmobs:relic_annihilator","eeeabsmobs:realm_warden","mythical_weaponry:boss_thor","saintsdragons:ignivorus","mebahelcreaturesdraugr:draugr_overlord","minecraftdungeons:redstone_monstrosity","minecraftdungeons:nameless_one","minecraftdungeons:corrupted_cauldron","monsterexpansion:ignathos","oddities:queen_of_orchid"],
+    "healthmultiply": 3.0,   
+    "when": "onjoin",
+    "result": "default"
+  },
+  {
+    "gamestage": "bosshealth_1_0",
+    "mob": ["block_factorys_bosses:infernal_dragon","block_factorys_bosses:sandworm","block_factorys_bosses:underworld_knight","block_factorys_bosses:yeti","block_factorys_bosses:kraken","legendary_monsters:ancient_guardian","legendary_monsters:cloud_golem","legendary_monsters:endersent","legendary_monsters:overgrown_colossus","legendary_monsters:posessed_paladin","legendary_monsters:resurrected_knight","legendary_monsters:skeletosaurus","legendary_monsters:the_obliterator","legendary_monsters:withered_abomination","legendary_monsters:lava_eater","legendary_monsters:frostbitten_golem","legendary_monsters:warped_fungussus","legendary_monsters:shulker_mimic","legendary_monsters:beheaded_knight","legendary_monsters:dune_sentinel"],
+    "healthmultiply": 1.0,   
+    "when": "onjoin",
+    "result": "default"
+  },
+  {
+    "phase": "bosshealth_2_0",
+    "mob": ["cataclysm:maledictus","cataclysm:ignis", "cataclysm:ender_guardian",  "cataclysm:the_harbinger", "cataclysm:the_leviathan", "cataclysm:ancient_remnant",  "bosses_of_mass_destruction:obsidilith",  "graveyard:lich",   "corundumguardian:corundum_guardian","aquamirae:captain_cornelia","alexsmobs:void_worm","minecraft:ender_dragon","alexscaves:forsaken","born_in_chaos_v1:sir_pumpkinhead","born_in_chaos_v1:sir_pumpkinhead_without_horse","born_in_chaos_v1:sir_the_headless","born_in_chaos_v1:pumpkinhead","cataclysm:coral_golem","cataclysm:coralssus","cataclysm:amethyst_crab","cataclysm:kobolediator","cataclysm:wadjet","cataclysm:ender_golem","cataclysm:the_watcher","cataclysm:the_prowler","cataclysm:aptrgangr","cataclysm:ignited_revenant","eeeabsmobs:corpse_warlock","eeeabsmobs:immortal","illageandspillage:freakager","illageandspillage:ragno","illageandspillage:spiritcaller","illageandspillage:magispeller","aquamirae:eel","mowziesmobs:ferrous_wroughtnaut","mowziesmobs:frostmaw","mowziesmobs:umvuthi","mofus_better_end_:endermite_queen","mofus_better_end_:eye_guardian_golem","mofus_better_end_:eye_guardian","mofus_better_end_:forgotten_litch","mofus_better_end_:reborn_litch","dungeons_and_combat:kamath","dungeons_and_combat:sunleia","cataclysm:scylla","cataclysm:clawdian","cataclysm:hippocamtus","cataclysm:cindaria","nightfall_invade:arterius","nightfall_invade:scarlet_hunter","the_faint_radiance:lychnus","legendary_monsters:annihilation_pursuer"],
+    "healthmultiply": 8.0,   
+    "when": "onjoin",
+    "result": "default"
+  },
+  {
+    "phase": "bosshealth_2_0",
+    "mob": ["bosses_of_mass_destruction:void_blossom","bosses_of_mass_destruction:lich", "bosses_of_mass_destruction:gauntlet","cataclysm:netherite_monstrosity","alexscaves:hullbreaker","alexscaves:luxtructosaurus","born_in_chaos_v1:lord_pumpkinhead","born_in_chaos_v1:lord_pumpkinhead_withouta_horse","born_in_chaos_v1:lord_the_headless","born_in_chaos_v1:lord_pumpkinhead_head","minecraft:wither","eeeabsmobs:nameless_guardian","cataclysm:ignited_berserker","eeeabsmobs:guling_sentinel","eeeabsmobs:guling_sentinel_heavy","aquamirae:maze_mother","infinitygolem:infinity_golem","legionary:unbreakable","monsterexpansion:rhyza","monsterexpansion:skrythe","monsterexpansion:leivekilth","monsterexpansion:rakoth","eeeabsmobs:relic_earthshaker","eeeabsmobs:relic_annihilator","eeeabsmobs:realm_warden","mythical_weaponry:boss_thor","saintsdragons:ignivorus","mebahelcreaturesdraugr:draugr_overlord","minecraftdungeons:redstone_monstrosity","minecraftdungeons:nameless_one","minecraftdungeons:corrupted_cauldron","monsterexpansion:ignathos","oddities:queen_of_orchid"],
+    "healthmultiply": 6.0,   
+    "when": "onjoin",
+    "result": "default"
+  },
+  {
+    "gamestage": "bosshealth_2_0",
+    "mob": ["block_factorys_bosses:infernal_dragon","block_factorys_bosses:sandworm","block_factorys_bosses:underworld_knight","block_factorys_bosses:yeti","block_factorys_bosses:kraken","legendary_monsters:ancient_guardian","legendary_monsters:cloud_golem","legendary_monsters:endersent","legendary_monsters:overgrown_colossus","legendary_monsters:posessed_paladin","legendary_monsters:resurrected_knight","legendary_monsters:skeletosaurus","legendary_monsters:the_obliterator","legendary_monsters:withered_abomination","legendary_monsters:lava_eater","legendary_monsters:frostbitten_golem","legendary_monsters:warped_fungussus","legendary_monsters:shulker_mimic","legendary_monsters:beheaded_knight","legendary_monsters:dune_sentinel"],
+    "healthmultiply": 2.0,   
+    "when": "onjoin",
+    "result": "default"
+  },
+  {
+    "phase": "bosshealth_3_0",
+    "mob": ["cataclysm:maledictus","cataclysm:ignis", "cataclysm:ender_guardian",  "cataclysm:the_harbinger", "cataclysm:the_leviathan", "cataclysm:ancient_remnant",  "bosses_of_mass_destruction:obsidilith",  "graveyard:lich",   "corundumguardian:corundum_guardian","aquamirae:captain_cornelia","alexsmobs:void_worm","minecraft:ender_dragon","alexscaves:forsaken","born_in_chaos_v1:sir_pumpkinhead","born_in_chaos_v1:sir_pumpkinhead_without_horse","born_in_chaos_v1:sir_the_headless","born_in_chaos_v1:pumpkinhead","cataclysm:coral_golem","cataclysm:coralssus","cataclysm:amethyst_crab","cataclysm:kobolediator","cataclysm:wadjet","cataclysm:ender_golem","cataclysm:the_watcher","cataclysm:the_prowler","cataclysm:aptrgangr","cataclysm:ignited_revenant","eeeabsmobs:corpse_warlock","eeeabsmobs:immortal","illageandspillage:freakager","illageandspillage:ragno","illageandspillage:spiritcaller","illageandspillage:magispeller","aquamirae:eel","mowziesmobs:ferrous_wroughtnaut","mowziesmobs:frostmaw","mowziesmobs:umvuthi","mofus_better_end_:endermite_queen","mofus_better_end_:eye_guardian_golem","mofus_better_end_:eye_guardian","mofus_better_end_:forgotten_litch","mofus_better_end_:reborn_litch","dungeons_and_combat:kamath","dungeons_and_combat:sunleia","cataclysm:scylla","cataclysm:clawdian","cataclysm:hippocamtus","cataclysm:cindaria","nightfall_invade:arterius","nightfall_invade:scarlet_hunter","the_faint_radiance:lychnus","legendary_monsters:annihilation_pursuer"],
+    "healthmultiply": 12.0,   
+    "when": "onjoin",
+    "result": "default"
+  },
+  {
+    "gamestage": "bosshealth_3_0",
+    "mob": ["block_factorys_bosses:infernal_dragon","block_factorys_bosses:sandworm","block_factorys_bosses:underworld_knight","block_factorys_bosses:yeti","block_factorys_bosses:kraken","legendary_monsters:ancient_guardian","legendary_monsters:cloud_golem","legendary_monsters:endersent","legendary_monsters:overgrown_colossus","legendary_monsters:posessed_paladin","legendary_monsters:resurrected_knight","legendary_monsters:skeletosaurus","legendary_monsters:the_obliterator","legendary_monsters:withered_abomination","legendary_monsters:lava_eater","legendary_monsters:frostbitten_golem","legendary_monsters:warped_fungussus","legendary_monsters:shulker_mimic","legendary_monsters:beheaded_knight","legendary_monsters:dune_sentinel"],
+    "healthmultiply": 9.0,   
+    "when": "onjoin",
+    "result": "default"
+  },
+{
+    "phase": "bosshealth_3_0",
+    "mob": ["bosses_of_mass_destruction:void_blossom","bosses_of_mass_destruction:lich", "bosses_of_mass_destruction:gauntlet","cataclysm:netherite_monstrosity","alexscaves:hullbreaker","alexscaves:luxtructosaurus","born_in_chaos_v1:lord_pumpkinhead","born_in_chaos_v1:lord_pumpkinhead_withouta_horse","born_in_chaos_v1:lord_the_headless","born_in_chaos_v1:lord_pumpkinhead_head","minecraft:wither","eeeabsmobs:nameless_guardian","cataclysm:ignited_berserker","eeeabsmobs:guling_sentinel","eeeabsmobs:guling_sentinel_heavy","aquamirae:maze_mother","infinitygolem:infinity_golem","legionary:unbreakable","monsterexpansion:rhyza","monsterexpansion:skrythe","monsterexpansion:leivekilth","monsterexpansion:rakoth","eeeabsmobs:relic_earthshaker","eeeabsmobs:relic_annihilator","eeeabsmobs:realm_warden","mythical_weaponry:boss_thor","saintsdragons:ignivorus","mebahelcreaturesdraugr:draugr_overlord","minecraftdungeons:redstone_monstrosity","minecraftdungeons:nameless_one","minecraftdungeons:corrupted_cauldron","monsterexpansion:ignathos","oddities:queen_of_orchid"],
+    "healthmultiply": 6.0,   
+    "when": "onjoin",
+    "result": "default"
+  },
+  {
+    "phase": "bosshealth_4_0",
+    "mob": ["cataclysm:maledictus","cataclysm:ignis", "cataclysm:ender_guardian",  "cataclysm:the_harbinger", "cataclysm:the_leviathan", "cataclysm:ancient_remnant",  "bosses_of_mass_destruction:obsidilith",  "graveyard:lich",   "corundumguardian:corundum_guardian","aquamirae:captain_cornelia","alexsmobs:void_worm","minecraft:ender_dragon","alexscaves:forsaken","born_in_chaos_v1:sir_pumpkinhead","born_in_chaos_v1:sir_pumpkinhead_without_horse","born_in_chaos_v1:sir_the_headless","born_in_chaos_v1:pumpkinhead","cataclysm:coral_golem","cataclysm:coralssus","cataclysm:amethyst_crab","cataclysm:kobolediator","cataclysm:wadjet","cataclysm:ender_golem","cataclysm:the_watcher","cataclysm:the_prowler","cataclysm:aptrgangr","cataclysm:ignited_revenant","eeeabsmobs:corpse_warlock","eeeabsmobs:immortal","illageandspillage:freakager","illageandspillage:ragno","illageandspillage:spiritcaller","illageandspillage:magispeller","aquamirae:eel","mowziesmobs:ferrous_wroughtnaut","mowziesmobs:frostmaw","mowziesmobs:umvuthi","mofus_better_end_:endermite_queen","mofus_better_end_:eye_guardian_golem","mofus_better_end_:eye_guardian","mofus_better_end_:forgotten_litch","mofus_better_end_:reborn_litch","dungeons_and_combat:kamath","dungeons_and_combat:sunleia","cataclysm:scylla","cataclysm:clawdian","cataclysm:hippocamtus","cataclysm:cindaria","nightfall_invade:arterius","nightfall_invade:scarlet_hunter","the_faint_radiance:lychnus","legendary_monsters:annihilation_pursuer"],
+    "healthmultiply": 16.0,   
+    "when": "onjoin",
+    "result": "default"
+  },
+ {
+    "phase": "bosshealth_4_0",
+    "mob": ["bosses_of_mass_destruction:void_blossom","bosses_of_mass_destruction:lich", "bosses_of_mass_destruction:gauntlet","cataclysm:netherite_monstrosity","alexscaves:hullbreaker","alexscaves:luxtructosaurus","born_in_chaos_v1:lord_pumpkinhead","born_in_chaos_v1:lord_pumpkinhead_withouta_horse","born_in_chaos_v1:lord_the_headless","born_in_chaos_v1:lord_pumpkinhead_head","minecraft:wither","eeeabsmobs:nameless_guardian","cataclysm:ignited_berserker","eeeabsmobs:guling_sentinel","eeeabsmobs:guling_sentinel_heavy","aquamirae:maze_mother","infinitygolem:infinity_golem","legionary:unbreakable","monsterexpansion:rhyza","monsterexpansion:skrythe","monsterexpansion:leivekilth","monsterexpansion:rakoth","eeeabsmobs:relic_earthshaker","eeeabsmobs:relic_annihilator","eeeabsmobs:realm_warden","mythical_weaponry:boss_thor","saintsdragons:ignivorus","mebahelcreaturesdraugr:draugr_overlord","minecraftdungeons:redstone_monstrosity","minecraftdungeons:nameless_one","minecraftdungeons:corrupted_cauldron","monsterexpansion:ignathos","oddities:queen_of_orchid"],
+    "healthmultiply": 12.0,   
+    "when": "onjoin",
+    "result": "default"
+  },
+  {
+    "gamestage": "bosshealth_4_0",
+    "mob": ["block_factorys_bosses:infernal_dragon","block_factorys_bosses:sandworm","block_factorys_bosses:underworld_knight","block_factorys_bosses:yeti","block_factorys_bosses:kraken","legendary_monsters:ancient_guardian","legendary_monsters:cloud_golem","legendary_monsters:endersent","legendary_monsters:overgrown_colossus","legendary_monsters:posessed_paladin","legendary_monsters:resurrected_knight","legendary_monsters:skeletosaurus","legendary_monsters:the_obliterator","legendary_monsters:withered_abomination","legendary_monsters:lava_eater","legendary_monsters:frostbitten_golem","legendary_monsters:warped_fungussus","legendary_monsters:shulker_mimic","legendary_monsters:beheaded_knight","legendary_monsters:dune_sentinel"],
+    "healthmultiply": 4.0,   
+    "when": "onjoin",
+    "result": "default"
+  },
+  {
+    "phase": "bosshealth_5_0",
+    "mob": ["cataclysm:maledictus","cataclysm:ignis", "cataclysm:ender_guardian",  "cataclysm:the_harbinger", "cataclysm:the_leviathan", "cataclysm:ancient_remnant",  "bosses_of_mass_destruction:obsidilith",  "graveyard:lich",   "corundumguardian:corundum_guardian","aquamirae:captain_cornelia","alexsmobs:void_worm","minecraft:ender_dragon","alexscaves:forsaken","born_in_chaos_v1:sir_pumpkinhead","born_in_chaos_v1:sir_pumpkinhead_without_horse","born_in_chaos_v1:sir_the_headless","born_in_chaos_v1:pumpkinhead","cataclysm:coral_golem","cataclysm:coralssus","cataclysm:amethyst_crab","cataclysm:kobolediator","cataclysm:wadjet","cataclysm:ender_golem","cataclysm:the_watcher","cataclysm:the_prowler","cataclysm:aptrgangr","cataclysm:ignited_revenant","eeeabsmobs:corpse_warlock","eeeabsmobs:immortal","illageandspillage:freakager","illageandspillage:ragno","illageandspillage:spiritcaller","illageandspillage:magispeller","aquamirae:eel","mowziesmobs:ferrous_wroughtnaut","mowziesmobs:frostmaw","mowziesmobs:umvuthi","mofus_better_end_:endermite_queen","mofus_better_end_:eye_guardian_golem","mofus_better_end_:eye_guardian","mofus_better_end_:forgotten_litch","mofus_better_end_:reborn_litch","dungeons_and_combat:kamath","dungeons_and_combat:sunleia","cataclysm:scylla","cataclysm:clawdian","cataclysm:hippocamtus","cataclysm:cindaria","nightfall_invade:arterius","nightfall_invade:scarlet_hunter","the_faint_radiance:lychnus","legendary_monsters:annihilation_pursuer"],
+    "healthmultiply": 20.0,   
+    "when": "onjoin",
+    "result": "default"
+  },
+{
+    "phase": "bosshealth_5_0",
+    "mob": ["bosses_of_mass_destruction:void_blossom","bosses_of_mass_destruction:lich", "bosses_of_mass_destruction:gauntlet","cataclysm:netherite_monstrosity","alexscaves:hullbreaker","alexscaves:luxtructosaurus","born_in_chaos_v1:lord_pumpkinhead","born_in_chaos_v1:lord_pumpkinhead_withouta_horse","born_in_chaos_v1:lord_the_headless","born_in_chaos_v1:lord_pumpkinhead_head","minecraft:wither","eeeabsmobs:nameless_guardian","cataclysm:ignited_berserker","eeeabsmobs:guling_sentinel","eeeabsmobs:guling_sentinel_heavy","aquamirae:maze_mother","infinitygolem:infinity_golem","legionary:unbreakable","monsterexpansion:rhyza","monsterexpansion:skrythe","monsterexpansion:leivekilth","monsterexpansion:rakoth","eeeabsmobs:relic_earthshaker","eeeabsmobs:relic_annihilator","eeeabsmobs:realm_warden","mythical_weaponry:boss_thor","saintsdragons:ignivorus","mebahelcreaturesdraugr:draugr_overlord","minecraftdungeons:redstone_monstrosity","minecraftdungeons:nameless_one","minecraftdungeons:corrupted_cauldron","monsterexpansion:ignathos","oddities:queen_of_orchid"],
+    "healthmultiply": 15.0,   
+    "when": "onjoin",
+    "result": "default"
+  },
+  {
+    "gamestage": "bosshealth_5_0",
+    "mob": ["block_factorys_bosses:infernal_dragon","block_factorys_bosses:sandworm","block_factorys_bosses:underworld_knight","block_factorys_bosses:yeti","block_factorys_bosses:kraken","legendary_monsters:ancient_guardian","legendary_monsters:cloud_golem","legendary_monsters:endersent","legendary_monsters:overgrown_colossus","legendary_monsters:posessed_paladin","legendary_monsters:resurrected_knight","legendary_monsters:skeletosaurus","legendary_monsters:the_obliterator","legendary_monsters:withered_abomination","legendary_monsters:lava_eater","legendary_monsters:frostbitten_golem","legendary_monsters:warped_fungussus","legendary_monsters:shulker_mimic","legendary_monsters:beheaded_knight","legendary_monsters:dune_sentinel"],
+    "healthmultiply": 5.0,   
+    "when": "onjoin",
+    "result": "default"
+  },
+  {
+    "phase": "bosshealth_10_0",
+    "mob": ["cataclysm:maledictus","cataclysm:ignis", "cataclysm:ender_guardian",  "cataclysm:the_harbinger", "cataclysm:the_leviathan", "cataclysm:ancient_remnant",  "bosses_of_mass_destruction:obsidilith",  "graveyard:lich",   "corundumguardian:corundum_guardian","aquamirae:captain_cornelia","alexsmobs:void_worm","minecraft:ender_dragon","alexscaves:forsaken","born_in_chaos_v1:sir_pumpkinhead","born_in_chaos_v1:sir_pumpkinhead_without_horse","born_in_chaos_v1:sir_the_headless","born_in_chaos_v1:pumpkinhead","cataclysm:coral_golem","cataclysm:coralssus","cataclysm:amethyst_crab","cataclysm:kobolediator","cataclysm:wadjet","cataclysm:ender_golem","cataclysm:the_watcher","cataclysm:the_prowler","cataclysm:aptrgangr","cataclysm:ignited_revenant","eeeabsmobs:corpse_warlock","eeeabsmobs:immortal","illageandspillage:freakager","illageandspillage:ragno","illageandspillage:spiritcaller","illageandspillage:magispeller","aquamirae:eel","mowziesmobs:ferrous_wroughtnaut","mowziesmobs:frostmaw","mowziesmobs:umvuthi","mofus_better_end_:endermite_queen","mofus_better_end_:eye_guardian_golem","mofus_better_end_:eye_guardian","mofus_better_end_:forgotten_litch","mofus_better_end_:reborn_litch","dungeons_and_combat:kamath","dungeons_and_combat:sunleia","cataclysm:scylla","cataclysm:clawdian","cataclysm:hippocamtus","cataclysm:cindaria","nightfall_invade:arterius","nightfall_invade:scarlet_hunter","the_faint_radiance:lychnus","legendary_monsters:annihilation_pursuer"],
+    "healthmultiply": 40.0,   
+    "when": "onjoin",
+    "result": "default"
+  },
+{
+    "phase": "bosshealth_10_0",
+    "mob": ["bosses_of_mass_destruction:void_blossom","bosses_of_mass_destruction:lich", "bosses_of_mass_destruction:gauntlet","cataclysm:netherite_monstrosity","alexscaves:hullbreaker","alexscaves:luxtructosaurus","born_in_chaos_v1:lord_pumpkinhead","born_in_chaos_v1:lord_pumpkinhead_withouta_horse","born_in_chaos_v1:lord_the_headless","born_in_chaos_v1:lord_pumpkinhead_head","minecraft:wither","eeeabsmobs:nameless_guardian","cataclysm:ignited_berserker","eeeabsmobs:guling_sentinel","eeeabsmobs:guling_sentinel_heavy","aquamirae:maze_mother","infinitygolem:infinity_golem","legionary:unbreakable","monsterexpansion:rhyza","monsterexpansion:skrythe","monsterexpansion:leivekilth","monsterexpansion:rakoth","eeeabsmobs:relic_earthshaker","eeeabsmobs:relic_annihilator","eeeabsmobs:realm_warden","mythical_weaponry:boss_thor","saintsdragons:ignivorus","mebahelcreaturesdraugr:draugr_overlord","minecraftdungeons:redstone_monstrosity","minecraftdungeons:nameless_one","minecraftdungeons:corrupted_cauldron","monsterexpansion:ignathos","oddities:queen_of_orchid"],
+    "healthmultiply": 30.0,   
+    "when": "onjoin",
+    "result": "default"
+  },
+  {
+    "gamestage": "bosshealth_10_0",
+    "mob": ["block_factorys_bosses:infernal_dragon","block_factorys_bosses:sandworm","block_factorys_bosses:underworld_knight","block_factorys_bosses:yeti","block_factorys_bosses:kraken","legendary_monsters:ancient_guardian","legendary_monsters:cloud_golem","legendary_monsters:endersent","legendary_monsters:overgrown_colossus","legendary_monsters:posessed_paladin","legendary_monsters:resurrected_knight","legendary_monsters:skeletosaurus","legendary_monsters:the_obliterator","legendary_monsters:withered_abomination","legendary_monsters:lava_eater","legendary_monsters:frostbitten_golem","legendary_monsters:warped_fungussus","legendary_monsters:shulker_mimic","legendary_monsters:beheaded_knight","legendary_monsters:dune_sentinel"],
+    "healthmultiply": 10.0,   
+    "when": "onjoin",
+    "result": "default"
+  },
+  {
+    "mob": ["wom:evil_skeleton"],
+    "phase": "bosshealth_1_0",
+    "healthmultiply":5,
+    "helditem":["wom:evil_tachi"],
+    "result": "default",
+    "when": "onjoin"
+  },
+  {
+    "mob": ["wom:evil_skeleton"],
+    "phase": "bosshealth_2_0",
+    "healthmultiply":10,
+    "helditem":["wom:evil_tachi"],
+    "result": "default",
+    "when": "onjoin"
+  },
+  {
+    "mob": ["wom:evil_skeleton"],
+    "phase": "bosshealth_3_0",
+    "healthmultiply":15,
+    "helditem":["wom:evil_tachi"],
+    "result": "default",
+    "when": "onjoin"
+  },
+  {
+    "mob": ["wom:evil_skeleton"],
+    "phase": "bosshealth_4_0",
+    "healthmultiply":20,
+    "helditem":["wom:evil_tachi"],
+    "result": "default",
+    "when": "onjoin"
+  },
+  {
+    "mob": ["wom:evil_skeleton"],
+    "phase": "bosshealth_5_0",
+    "healthmultiply":25,
+    "helditem":["wom:evil_tachi"],
+    "result": "default",
+    "when": "onjoin"
+  },
+  {
+    "mob": ["wom:evil_skeleton"],
+    "phase": "bosshealth_10_0",
+    "healthmultiply":50,
+    "helditem":["wom:evil_tachi"],
+    "result": "default",
+    "when": "onjoin"
+  },
+{
+    "mob": ["minecraft:piglin_brute","born_in_chaos_v1:nightmare_stalker","minecraft:pillager"],
+    "phase": "health_1_0",
+    "healthmultiply":1.5,
+    "result": "default",
+    "when": "onjoin"
+  },
+{
+    "mob": ["born_in_chaos_v1:fallen_chaos_knight","illager_additions:new_samurai","illager_additions:royal_guard","illager_additions:shogun","cataclysm:royal_draugr","cataclysm:elite_draugr","cataclysm:draugr","cataclysm:koboleton","alexscaves:magnetron","alexscaves:magnetron"],
+    "phase": "health_1_0",
+    "healthmultiply":2.0,
+    "result": "default",
+    "when": "onjoin"
+  },
+{
+    "mob": ["minecraft:wither_skeleton"],
+    "phase": "health_1_0",
+    "healthmultiply":2.5,
+    "armoradd":5.0,
+    "helditem":["4=minecraft:stone_sword","3=epicfight:golden_longsword","4=epicfight:golden_tachi","2=eugenes_guan_dao:stone_guan_dao"],
+    "result": "default",
+    "when": "onjoin"
+  },
+{
+    "mob": ["minecraft:piglin","netherexp:apparition","netherexp:vessel","netherexp:banshee","netherexp:stampede","netherexp:carcass","arsenal:soul_knight"],
+    "phase": "health_1_0",
+    "healthmultiply":2.5,
+    "result": "default",
+    "when": "onjoin"
+  },
+{
+    "mob": ["guardvillagers:guard","friendsandfoes:iceologer","minecraft:illusioner","queen_bee:queen_bee","conjurer_illager:conjurer","wetlands:elder_gear_golem"],
+    "phase": "health_1_0",
+    "healthmultiply":3.0,
+    "result": "default",
+    "when": "onjoin"
+  },
+{
+    "mob": ["minecraft:piglin_brute","born_in_chaos_v1:nightmare_stalker","minecraft:pillager"],
+    "phase": "health_1_5",
+    "healthmultiply":2.5,
+    "result": "default",
+    "when": "onjoin"
+  },
+{
+    "mob": ["born_in_chaos_v1:fallen_chaos_knight","illager_additions:new_samurai","illager_additions:royal_guard","illager_additions:shogun","cataclysm:royal_draugr","cataclysm:elite_draugr","cataclysm:draugr","cataclysm:koboleton","alexscaves:magnetron"],
+    "phase": "health_1_5",
+    "healthmultiply":3.0,
+    "result": "default",
+    "when": "onjoin"
+  },
+{
+    "mob": ["minecraft:wither_skeleton"],
+    "phase": "health_1_5",
+    "healthmultiply":4.0,
+    "armoradd":5.0,
+    "helditem":["4=minecraft:stone_sword","3=epicfight:golden_longsword","4=epicfight:golden_tachi","2=eugenes_guan_dao:stone_guan_dao"],
+    "result": "default",
+    "when": "onjoin"
+  },
+{
+    "mob": ["minecraft:piglin","netherexp:apparition","netherexp:vessel","netherexp:banshee","netherexp:stampede","netherexp:carcass","arsenal:soul_knight"],
+    "phase": "health_1_5",
+    "healthmultiply":4.0,
+    "result": "default",
+    "when": "onjoin"
+  },
+{
+    "mob": ["guardvillagers:guard","friendsandfoes:iceologer","minecraft:illusioner","queen_bee:queen_bee","conjurer_illager:conjurer","wetlands:elder_gear_golem"],
+    "phase": "health_1_5",
+    "healthmultiply":4.5,
+    "result": "default",
+    "when": "onjoin"
+  },
+{
+    "mob": ["minecraft:piglin_brute","born_in_chaos_v1:nightmare_stalker","minecraft:pillager"],
+    "phase": "health_2_0",
+    "healthmultiply":3.0,
+    "result": "default",
+    "when": "onjoin"
+  },
+{
+    "mob": ["born_in_chaos_v1:fallen_chaos_knight","illager_additions:new_samurai","illager_additions:royal_guard","illager_additions:shogun","cataclysm:royal_draugr","cataclysm:elite_draugr","cataclysm:draugr","cataclysm:koboleton","alexscaves:magnetron"],
+    "phase": "health_2_0",
+    "healthmultiply":4.0,
+    "result": "default",
+    "when": "onjoin"
+  },
+{
+    "mob": ["minecraft:wither_skeleton"],
+    "phase": "health_2_0",
+    "healthmultiply":5.0,
+    "armoradd":5.0,
+    "helditem":["4=minecraft:stone_sword","3=epicfight:golden_longsword","4=epicfight:golden_tachi","2=eugenes_guan_dao:stone_guan_dao"],
+    "result": "default",
+    "when": "onjoin"
+  },
+{
+    "mob": ["minecraft:piglin","netherexp:apparition","netherexp:vessel","netherexp:banshee","netherexp:stampede","netherexp:carcass","arsenal:soul_knight"],
+    "phase": "health_2_0",
+    "healthmultiply":5.0,
+    "result": "default",
+    "when": "onjoin"
+  },
+{
+    "mob": ["guardvillagers:guard","friendsandfoes:iceologer","minecraft:illusioner","queen_bee:queen_bee","conjurer_illager:conjurer","wetlands:elder_gear_golem"],
+    "phase": "health_2_0",
+    "healthmultiply":6.0,
+    "result": "default",
+    "when": "onjoin"
+  },
+{
+    "mob": ["minecraft:piglin_brute","born_in_chaos_v1:nightmare_stalker","minecraft:pillager"],
+    "phase": "health_2_5",
+    "healthmultiply":4.0,
+    "result": "default",
+    "when": "onjoin"
+  },
+{
+    "mob": ["born_in_chaos_v1:fallen_chaos_knight","illager_additions:new_samurai","illager_additions:royal_guard","illager_additions:shogun","cataclysm:royal_draugr","cataclysm:elite_draugr","cataclysm:draugr","cataclysm:koboleton","alexscaves:magnetron"],
+    "phase": "health_2_5",
+    "healthmultiply":5.0,
+    "result": "default",
+    "when": "onjoin"
+  },
+{
+    "mob": ["minecraft:wither_skeleton"],
+    "phase": "health_2_5",
+    "healthmultiply":6.0,
+    "armoradd":5.0,
+    "helditem":["4=minecraft:stone_sword","3=epicfight:golden_longsword","4=epicfight:golden_tachi","2=eugenes_guan_dao:stone_guan_dao"],
+    "result": "default",
+    "when": "onjoin"
+  },
+{
+    "mob": ["minecraft:piglin","netherexp:apparition","netherexp:vessel","netherexp:banshee","netherexp:stampede","netherexp:carcass","arsenal:soul_knight"],
+    "phase": "health_2_5",
+    "healthmultiply":6.0,
+    "result": "default",
+    "when": "onjoin"
+  },
+{
+    "mob": ["guardvillagers:guard","friendsandfoes:iceologer","minecraft:illusioner","queen_bee:queen_bee","conjurer_illager:conjurer","wetlands:elder_gear_golem"],
+    "phase": "health_2_5",
+    "healthmultiply":7.5,
+    "result": "default",
+    "when": "onjoin"
+  },
+{
+    "mob": ["minecraft:piglin_brute","born_in_chaos_v1:nightmare_stalker","minecraft:pillager"],
+    "phase": "health_3_0",
+    "healthmultiply":4.5,
+    "result": "default",
+    "when": "onjoin"
+  },
+{
+    "mob": ["born_in_chaos_v1:fallen_chaos_knight","illager_additions:new_samurai","illager_additions:royal_guard","illager_additions:shogun","cataclysm:royal_draugr","cataclysm:elite_draugr","cataclysm:draugr","cataclysm:koboleton","alexscaves:magnetron"],
+    "phase": "health_3_0",
+    "healthmultiply":6.0,
+    "result": "default",
+    "when": "onjoin"
+  },
+{
+    "mob": ["minecraft:wither_skeleton"],
+    "phase": "health_3_0",
+    "helditem":["4=minecraft:stone_sword","3=epicfight:golden_longsword","4=epicfight:golden_tachi","2=eugenes_guan_dao:stone_guan_dao"],
+    "healthmultiply":7.5,
+    "armoradd":5.0,
+    "result": "default",
+    "when": "onjoin"
+  },
+{
+    "mob": ["minecraft:piglin","netherexp:apparition","netherexp:vessel","netherexp:banshee","netherexp:stampede","netherexp:carcass","arsenal:soul_knight"],
+    "phase": "health_3_0",
+    "healthmultiply":7.5,
+    "result": "default",
+    "when": "onjoin"
+  },
+{
+    "mob": ["guardvillagers:guard","friendsandfoes:iceologer","minecraft:illusioner","queen_bee:queen_bee","conjurer_illager:conjurer","wetlands:elder_gear_golem"],
+    "phase": "health_3_0",
+    "healthmultiply":9.0,
+    "result": "default",
+    "when": "onjoin"
+  },
+{
+    "mob": ["minecraft:piglin_brute","born_in_chaos_v1:nightmare_stalker","minecraft:pillager"],
+    "phase": "health_5_0",
+    "healthmultiply":7.5,
+    "result": "default",
+    "when": "onjoin"
+  },
+{
+    "mob": ["born_in_chaos_v1:fallen_chaos_knight","illager_additions:new_samurai","illager_additions:royal_guard","illager_additions:shogun","cataclysm:royal_draugr","cataclysm:elite_draugr","cataclysm:draugr","cataclysm:koboleton","alexscaves:magnetron"],
+    "phase": "health_5_0",
+    "healthmultiply":10.0,
+    "result": "default",
+    "when": "onjoin"
+  },
+{
+    "mob": ["minecraft:wither_skeleton"],
+    "phase": "health_5_0",
+    "healthmultiply":12.5,
+    "armoradd":5.0,
+    "helditem":["4=minecraft:stone_sword","3=epicfight:golden_longsword","4=epicfight:golden_tachi","2=eugenes_guan_dao:stone_guan_dao"],
+    "result": "default",
+    "when": "onjoin"
+  },
+{
+    "mob": ["minecraft:piglin","netherexp:apparition","netherexp:vessel","netherexp:banshee","netherexp:stampede","netherexp:carcass","arsenal:soul_knight"],
+    "phase": "health_5_0",
+    "healthmultiply":12.5,
+    "result": "default",
+    "when": "onjoin"
+  },
+{
+    "mob": ["guardvillagers:guard","friendsandfoes:iceologer","minecraft:illusioner","queen_bee:queen_bee","conjurer_illager:conjurer","wetlands:elder_gear_golem"],
+    "phase": "health_5_0",
+    "healthmultiply":15.0,
+    "result": "default",
+    "when": "onjoin"
+  },
+
+
+  {
+   "mob": ["soul_like_mobs:hollowknight","soul_like_mobs:hollowknighthammer","soul_like_mobs:hollowknightspear","soul_like_mobs:hollowknightmace","soul_like_mobs:hollowsoldier","soul_like_mobs:darkknight"],
+    "phase": "health_1_0",
+    "healthmultiply": 1.0,   
+    "followrangeset":16,
+    "when": "onjoin",
+    "result": "default1"
+  },
+  {
+   "mob": ["soul_like_mobs:hollowknight","soul_like_mobs:hollowknighthammer","soul_like_mobs:hollowknightspear","soul_like_mobs:hollowknightmace","soul_like_mobs:hollowsoldier","soul_like_mobs:darkknight"],
+    "phase": "health_1_5",
+    "healthmultiply": 1.5,   
+    "followrangeset":16,
+    "when": "onjoin",
+    "result": "default1"
+  },
+{
+   "mob": ["soul_like_mobs:hollowknight","soul_like_mobs:hollowknighthammer","soul_like_mobs:hollowknightspear","soul_like_mobs:hollowknightmace","soul_like_mobs:hollowsoldier","soul_like_mobs:darkknight"],
+    "phase": "health_2_0",
+    "healthmultiply": 2,
+    "followrangeset":16,
+    "when": "onjoin",
+    "result": "default1"
+  },
+{
+   "mob": ["soul_like_mobs:hollowknight","soul_like_mobs:hollowknighthammer","soul_like_mobs:hollowknightspear","soul_like_mobs:hollowknightmace","soul_like_mobs:hollowsoldier","soul_like_mobs:darkknight"],
+    "phase": "health_2_5",
+    "healthmultiply": 2.5,
+    "followrangeset":16,
+    "when": "onjoin",
+    "result": "default1"
+  },
+{
+   "mob": ["soul_like_mobs:hollowknight","soul_like_mobs:hollowknighthammer","soul_like_mobs:hollowknightspear","soul_like_mobs:hollowknightmace","soul_like_mobs:hollowsoldier","soul_like_mobs:darkknight"],
+    "phase": "health_3_0",
+    "healthmultiply": 3.0,
+    "followrangeset":16,
+    "when": "onjoin",
+    "result": "default1"
+  },
+{
+   "mob": ["soul_like_mobs:hollowknight","soul_like_mobs:hollowknighthammer","soul_like_mobs:hollowknightspear","soul_like_mobs:hollowknightmace","soul_like_mobs:hollowsoldier","soul_like_mobs:darkknight"],
+    "phase": "health_5_0",
+    "healthmultiply": 5.0,
+    "followrangeset":16,
+    "when": "onjoin",
+    "result": "default1"
+  },
+
+
+
+  {
+    "phase": "health_1_0",
+    "healthmultiply": 1.0,   
+    "when": "onjoin",
+    "result": "default1"
+  },
+  {
+    "phase": "health_1_5",
+    "healthmultiply": 1.5,   
+    "when": "onjoin",
+    "result": "default1"
+  },
+{
+    "phase": "health_2_0",
+    "healthmultiply": 2,
+    "when": "onjoin",
+    "result": "default1"
+  },
+{
+    "phase": "health_2_5",
+    "healthmultiply": 2.5,
+    "when": "onjoin",
+    "result": "default1"
+  },
+{
+    "phase": "health_3_0",
+    "healthmultiply": 3.0,
+    "when": "onjoin",
+    "result": "default1"
+  },
+{
+    "phase": "health_5_0",
+    "healthmultiply": 5.0,
+    "when": "onjoin",
+    "result": "default1"
+  },
+{
+    "phase": "damage_1_0",
+    "damagemultiply": 1.0,
+    "when": "onjoin",
+    "result": "default1"
+  },
+{
+    "phase": "damage_1_5",
+    "damagemultiply": 1.5,
+    "when": "onjoin",
+    "result": "default1"
+  },
+{
+    "phase": "damage_2_0",
+    "damagemultiply": 2,
+    "when": "onjoin",
+    "result": "default1"
+  },
+{
+    "phase": "damage_2_5",
+    "damagemultiply": 2.5,
+    "when": "onjoin",
+    "result": "default1"
+  },
+{
+    "phase": "damage_3_0",
+    "damagemultiply": 3,
+    "when": "onjoin",
+    "result": "default1"
+  }
+]

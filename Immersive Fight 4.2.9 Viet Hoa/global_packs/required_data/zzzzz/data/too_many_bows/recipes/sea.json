@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " # ",
+    "PC ",
+    " # "
+  ],
+  "key": {
+    "#": {"item": "cataclysm:crystallized_coral_fragments"},
+    "P": {"item": "alexscaves:immortal_embryo"},
+    "C": {"item": "minecraft:bow"}
+  },
+  "result": {
+    "item": "too_many_bows:tidal_bow"
+  }
+}

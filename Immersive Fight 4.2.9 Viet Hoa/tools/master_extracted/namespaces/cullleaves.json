@@ -1,0 +1,47 @@
+{
+  "cullleaves.midnightconfig.title": {
+    "en": "Cull Leaves Config",
+    "zh": "Cull Leaves 选项",
+    "vi": null
+  },
+  "cullleaves.midnightconfig.enabled.tooltip": {
+    "en": "Enables culling for leaves, providing a nice performance boost.\n§cAfter changing this setting you have to reload all chunks (F3 + A)",
+    "zh": "剔除树叶，提升性能\n§c更改此选项后须要重新加载全部区块（F3 + A）",
+    "vi": null
+  },
+  "cullleaves.midnightconfig.enabled.tooltip.sodium": {
+    "en": "Enables culling for leaves, providing a nice performance boost",
+    "zh": "剔除树叶，提升性能",
+    "vi": null
+  },
+  "cullleaves.midnightconfig.enabled": {
+    "en": "Enable Leaf Culling",
+    "zh": "启用树叶剔除",
+    "vi": null
+  },
+  "cullleaves.midnightconfig.sodiumBlockFaceCullingFix.tooltip": {
+    "en": null,
+    "zh": "修复钠工作时使用资源包情况下的树叶剔除闪烁的问题\n你大概想开启这个",
+    "vi": null
+  },
+  "cullleaves.midnightconfig.sodiumBlockFaceCullingFix": {
+    "en": null,
+    "zh": "修复树叶的钠的方块面剔除",
+    "vi": null
+  },
+  "cullleaves.midnightconfig.cullRoots.tooltip": {
+    "en": "Enables culling for mangrove roots.\n§cAfter changing this setting you have to reload all chunks (F3 + A)",
+    "zh": null,
+    "vi": null
+  },
+  "cullleaves.midnightconfig.cullRoots.tooltip.sodium": {
+    "en": "Enables culling for mangrove roots.",
+    "zh": null,
+    "vi": null
+  },
+  "cullleaves.midnightconfig.cullRoots": {
+    "en": "Enable Mangrove Root Culling",
+    "zh": null,
+    "vi": null
+  }
+}

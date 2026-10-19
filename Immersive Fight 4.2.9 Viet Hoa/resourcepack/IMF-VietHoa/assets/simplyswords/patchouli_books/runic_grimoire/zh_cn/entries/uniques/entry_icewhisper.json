@@ -1,0 +1,17 @@
+{
+  "name": "Icewhisper (Băng Ngữ)",
+  "icon": "simplyswords:icewhisper",
+  "advancement": "simplyswords:icewhisper",
+  "category": "simplyswords:category_unique_weapons",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:icewhisper",
+      "text": "Kích Icewhisper vô cùng chí mạng, cầm trên tay sẽ tỏa ra hào quang băng giá làm suy yếu, giảm tốc và thiêu đốt sát thương kẻ địch xung quanh."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Có thể triệu hồi bão tuyết nhấn chìm chiến trường, làm chậm và gây sát thương kéo dài lên quân địch."
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+
+  "type": "mes:mes_generic_jigsaw_structure",
+
+  "start_pool": "mes:mythic_garden_start_pool",
+
+  "size": 1,
+
+  "biomes": "regions_unexplored:alpha_grove",
+  "project_start_to_heightmap": "WORLD_SURFACE_WG",
+  "terrain_height_radius_check": 1,
+  "allowed_terrain_height_range": 3,
+  "min_y_allowed": 45,
+
+  "step": "surface_structures",
+  "terrain_adaptation": "beard_thin",
+  "start_height": {
+    "absolute": 0
+  },
+
+  "spawn_overrides": {}
+}

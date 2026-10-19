@@ -1,0 +1,142 @@
+{
+  "libipn.common.gui.config.reset": {
+    "en": "Reset",
+    "zh": "重置",
+    "vi": null
+  },
+  "libipn.common.gui.config.true": {
+    "en": "§2true",
+    "zh": "§2开",
+    "vi": null
+  },
+  "libipn.common.gui.config.false": {
+    "en": "§4false",
+    "zh": "§4关",
+    "vi": null
+  },
+  "libipn.common.gui.config.yes": {
+    "en": "yes",
+    "zh": "是",
+    "vi": null
+  },
+  "libipn.common.gui.config.no": {
+    "en": "no",
+    "zh": "否",
+    "vi": null
+  },
+  "libipn.common.gui.config.more": {
+    "en": " ...(more)",
+    "zh": " ...(更多)",
+    "vi": null
+  },
+  "libipn.common.gui.config.advanced_keybind_settings": {
+    "en": "Advanced Key Binding Settings",
+    "zh": "高级按键设置",
+    "vi": null
+  },
+  "libipn.common.gui.config.activate_on": {
+    "en": "Activate On",
+    "zh": "激活在",
+    "vi": null
+  },
+  "libipn.common.gui.config.context": {
+    "en": "Context",
+    "zh": "情景",
+    "vi": null
+  },
+  "libipn.common.gui.config.allow_extra_keys": {
+    "en": "Allow Extra Keys",
+    "zh": "允许额外按键",
+    "vi": null
+  },
+  "libipn.common.gui.config.order_sensitive": {
+    "en": "Order Sensitive",
+    "zh": "顺序敏感",
+    "vi": null
+  },
+  "libipn.common.gui.config.modifier_key": {
+    "en": "Ctrl/Alt/Shift",
+    "zh": "Ctrl/Alt/Shift",
+    "vi": null
+  },
+  "libipn.common.gui.config.keybind_settings_tips": {
+    "en": "- Left click to configure\n- Right click to reset to defaults",
+    "zh": "- 左击进行配置\n- 右击重置默认",
+    "vi": null
+  },
+  "libipn.common.enum.key_action.press": {
+    "en": "Press",
+    "zh": "按下",
+    "vi": null
+  },
+  "libipn.common.enum.key_action.release": {
+    "en": "Release",
+    "zh": "松开",
+    "vi": null
+  },
+  "libipn.common.enum.key_action.both": {
+    "en": "Press / Release",
+    "zh": "按下 / 松开",
+    "vi": null
+  },
+  "libipn.common.enum.context.ingame": {
+    "en": "In-game",
+    "zh": "游戏内",
+    "vi": null
+  },
+  "libipn.common.enum.context.gui": {
+    "en": "Gui",
+    "zh": "Gui",
+    "vi": null
+  },
+  "libipn.common.enum.context.any": {
+    "en": "In-game / Gui",
+    "zh": "游戏内 / Gui",
+    "vi": null
+  },
+  "libipn.common.enum.modifier_key.differentiate": {
+    "en": "Diff left/right",
+    "zh": "区分左右",
+    "vi": null
+  },
+  "libipn.common.enum.modifier_key.normal": {
+    "en": "Normal",
+    "zh": "正常",
+    "vi": null
+  },
+  "libipn.common.gui.config.colorpicker.alpha": {
+    "en": "Alpha",
+    "zh": null,
+    "vi": null
+  },
+  "libipn.common.gui.config.colorpicker.red": {
+    "en": "Red",
+    "zh": null,
+    "vi": null
+  },
+  "libipn.common.gui.config.colorpicker.green": {
+    "en": "Green",
+    "zh": null,
+    "vi": null
+  },
+  "libipn.common.gui.config.colorpicker.blue": {
+    "en": "Blue",
+    "zh": null,
+    "vi": null
+  },
+  "libipn.common.gui.config.color_picker_dialog": {
+    "en": "Pick a Color",
+    "zh": null,
+    "vi": null
+  },
+  "libipn.common.gui.config.settings_screen.search-box": {
+    "en": "Search",
+    "zh": null,
+    "vi": null
+  },
+  "libipn.common.gui.config.description.settings_screen.search-box": {
+    "en": "Shows only options that match the search term in the box.",
+    "zh": null,
+    "vi": null
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Gia Hộ (Ward)",
+  "icon": "simplyswords:runic_tablet",
+  "category": "simplyswords:category_rune_etching",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:runic_tablet",
+      "title": "Gia Hộ (Ward)",
+      "text": "Phù văn Gia Hộ tạo lá chắn hấp thụ sát thương cực mạnh. Khi kích hoạt tiêu hao nửa lượng máu hiện tại tạo kết giới phòng ngự."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Khiên duy trì 6 giây, mỗi xung nhịp tăng một tầng hấp thụ sát thương, cường độ tăng dần theo máu hiện tại."
+    }
+  ]
+}

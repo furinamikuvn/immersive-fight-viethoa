@@ -1,0 +1,17 @@
+{
+  "name": "Cực Tốc (Swiftness)",
+  "icon": "simplyswords:runic_tablet",
+  "category": "simplyswords:category_rune_etching",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:runic_tablet",
+      "title": "Cực Tốc (Swiftness)",
+      "text": "Truyền vào sức mạnh $(#389fff)$(l)Linh Hoạt$(). $(br2)Mỗi đòn đánh có cơ hội tăng tốc độ bản thân."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Gia tốc thần sầu, cho phép khóa mục tiêu và tập kích trong chớp mắt."
+    }
+  ]
+}

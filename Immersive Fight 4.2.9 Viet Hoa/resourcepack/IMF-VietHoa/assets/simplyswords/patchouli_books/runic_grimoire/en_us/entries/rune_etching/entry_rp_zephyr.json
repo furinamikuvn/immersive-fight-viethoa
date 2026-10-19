@@ -1,0 +1,17 @@
+{
+  "name": "Gió Nhẹ (Zephyr)",
+  "icon": "simplyswords:runic_tablet",
+  "category": "simplyswords:category_rune_etching",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:runic_tablet",
+      "title": "Gió Nhẹ (Zephyr)",
+      "text": "Truyền vào tinh túy $(#85a0ab)$(l)Phong Nguyên Tố$(). $(br2)Mỗi đòn đánh có cơ hội tăng tốc độ di chuyển và tốc độ ra đòn."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Rất hữu dụng cho người chơi cận chiến sát thương cao, tận dụng tốc độ để sốc sát thương và né đòn thần tốc."
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "smoothswapping.config.menu": "Menu cấu hình Hoán đổi mượt mà",
+  "smoothswapping.config.toggle": "mô-đun chuyển đổi",
+  "smoothswapping.config.toggle.on": "cho phép",
+  "smoothswapping.config.toggle.off": "Vô hiệu hóa",
+  "smoothswapping.config.testinventory": "Kiểm tra hàng tồn kho",
+  "smoothswapping.config.option.animationspeed.tooltip": "-Click chuột phải vào khoảng trống để tạo điểm cong mới\n-Click chuột trái và kéo một chút để di chuyển nó\n-Click chuột phải vào một điểm để xóa nó",
+  "smoothswapping.config.option.animationspeed": "",
+  "smoothswapping.config.option.animationspeed.speed": "tốc độ",
+  "smoothswapping.config.option.animationspeed.reset": "cài lại",
+  "smoothswapping.config.save": "Lưu và thoát",
+  "smoothswapping.config.exit": "từ bỏ"
+}

@@ -1,0 +1,33 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:illusioner",
+    "minecraft:piglin_brute",
+    "minecraft:wither_skeleton",
+    "minecraft:vindicator",
+"fight_more:chaos_knight",
+"cataclysm:deepling_brute",
+"cataclysm:deepling_warlock",
+"cataclysm:deepling",
+"cataclysm:ignited_berserker",
+"cataclysm:ignited_revenant",
+"cataclysm:elite_draugr",
+"cataclysm:royal_draugr",
+"cataclysm:draugr",
+"born_in_chaos_v1:mother_spider",
+"born_in_chaos_v1:dire_hound_leader",
+"celestisynth:traverser",
+"alexscaves:nucleeper",
+"alexscaves:magnetron",
+"nethers_exorcism_reborn:strampler",
+"illager_additions:spearman",
+"illager_additions:shogun",
+"illager_additions:royal_guard_spearman",
+"illager_additions:new_samurai",
+"illager_additions:cowboy",
+"illager_additions:beamloger",
+"takesapillage:archer",
+"takesapillage:legioner",
+"takesapillage:skirmisher"
+  ]
+}

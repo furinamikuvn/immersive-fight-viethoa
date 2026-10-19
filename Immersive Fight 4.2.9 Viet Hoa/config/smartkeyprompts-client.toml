@@ -1,0 +1,9 @@
+#Tỉ lệ thu phóng
+#Range: 0.0 ~ 10.0
+scale = 0.5000000000000001
+#Vị trí hiển thị
+#Range: 1 ~ 8
+position = 8
+#Danh sách đen ID định danh
+blacklist = ["jei_skp", "emi_skp"]
+

@@ -1,0 +1,122 @@
+{
+  "itemGroup.notsoshrimple": {
+    "en": "Not So Shrimple",
+    "zh": "不只是虾",
+    "vi": "Không chỉ tôm"
+  },
+  "entity.notsoshrimple.crayfish": {
+    "en": "Crayfish",
+    "zh": "螯虾",
+    "vi": "Crayfish"
+  },
+  "entity.notsoshrimple.maneater": {
+    "en": "Maneater Shell",
+    "zh": "食人壳",
+    "vi": "Maneater Shell"
+  },
+  "item.notsoshrimple.crayfish_spawn_egg": {
+    "en": "Crayfish Spawn Egg",
+    "zh": "螯虾刷怪蛋",
+    "vi": "Crayfish Spawn Egg"
+  },
+  "item.notsoshrimple.maneater_spawn_egg": {
+    "en": "Maneater Shell Spawn Egg",
+    "zh": "食人壳刷怪蛋",
+    "vi": "Maneater Shell Spawn Egg"
+  },
+  "item.notsoshrimple.clawbuster": {
+    "en": "Clawbuster",
+    "zh": "碎钳者",
+    "vi": "Clawbuster"
+  },
+  "item.notsoshrimple.claw": {
+    "en": "Calloused Claw",
+    "zh": "老茧之钳",
+    "vi": "Calloused Claw"
+  },
+  "item.notsoshrimple.raw_prawn": {
+    "en": "Raw Prawn",
+    "zh": "生对虾",
+    "vi": "Raw Prawn"
+  },
+  "item.notsoshrimple.cooked_prawn": {
+    "en": "Cooked Prawn",
+    "zh": "熟对虾",
+    "vi": "Cooked Prawn"
+  },
+  "item.notsoshrimple.smithing_stone": {
+    "en": "Smithing Stone",
+    "zh": "锻造石",
+    "vi": "Smithing Stone"
+  },
+  "item.notsoshrimple.somber_stone": {
+    "en": "Somber Smithing Stone",
+    "zh": "暗色锻造石",
+    "vi": "Somber Smithing Stone"
+  },
+  "item.notsoshrimple.purging_stone": {
+    "en": "Purging Stone",
+    "zh": "净化石",
+    "vi": "Purging Stone"
+  },
+  "notsoshrimple.sound.subtitle.crayfish_idle": {
+    "en": "Dreadful chattering",
+    "zh": "可怖的咔哒声",
+    "vi": "tiếng click khủng khiếp"
+  },
+  "notsoshrimple.sound.subtitle.crayfish_attack": {
+    "en": "Claw swipe",
+    "zh": "钳子猛击",
+    "vi": "kìm đập"
+  },
+  "notsoshrimple.sound.subtitle.crayfish_hurt": {
+    "en": "Crayfish hurt",
+    "zh": "螯虾受伤",
+    "vi": "con tôm bị thương"
+  },
+  "notsoshrimple.sound.subtitle.crayfish_death": {
+    "en": "Clattering shriek",
+    "zh": "咔嗒惨叫",
+    "vi": "Nhấp chuột và la hét"
+  },
+  "notsoshrimple.sound.subtitle.crayfish_scuttle": {
+    "en": "Menacing scuttling",
+    "zh": "威胁性的爬行声",
+    "vi": "âm thanh bò đầy đe dọa"
+  },
+  "notsoshrimple.sound.subtitle.crayfish_scuttling_0": {
+    "en": "Horrid scuttling",
+    "zh": "恐怖的爬行声",
+    "vi": "âm thanh bò đáng sợ"
+  },
+  "notsoshrimple.sound.subtitle.crayfish_scuttling_1": {
+    "en": "Oppressive scuttling",
+    "zh": "压迫性的爬行声",
+    "vi": "âm thanh bò ngột ngạt"
+  },
+  "notsoshrimple.sound.subtitle.crayfish_smashing": {
+    "en": "Crayfish smashes claw",
+    "zh": "螯虾砸击钳子",
+    "vi": "Kìm đập tôm càng"
+  },
+  "notsoshrimple.sound.subtitle.crayfish_water_blast": {
+    "en": "Crayfish shoots water",
+    "zh": "螯虾喷水",
+    "vi": "Mực tôm càng"
+  },
+  "notsoshrimple.sound.subtitle.crayfish_ice_blast": {
+    "en": "Crayfish shoots ice",
+    "zh": "螯虾喷射冰块",
+    "vi": "Tôm hùm phun đá viên"
+  },
+  "notsoshrimple.sound.subtitle.clawbuster_charged": {
+    "en": "Clawbuster charged",
+    "zh": "碎钳者充能完毕",
+    "vi": "Clawbreaker đã được sạc đầy"
+  },
+  "durability": {
+    "en": "Durability",
+    "zh": "耐久度",
+    "vi": "Độ bền"
+  }
+}

@@ -1,0 +1,75 @@
+{
+	icon: {
+		Count: 1
+		id: "minecraft:iron_sword"
+		tag: {
+			Damage: 0
+		}
+	}
+	id: "78F28B4E63C8379E"
+	loot_size: 1
+	order_index: 8
+	rewards: [
+		{
+			command: "/function minecraft:damage_1_0"
+			icon: {
+				Count: 1
+				id: "minecraft:iron_sword"
+				tag: {
+					Damage: 0
+				}
+			}
+			title: "Sát Thương x1.0"
+			type: "command"
+		}
+		{
+			command: "/function minecraft:damage_1_5"
+			icon: {
+				Count: 1
+				id: "minecraft:iron_sword"
+				tag: {
+					Damage: 0
+				}
+			}
+			title: "Sát Thương x1.5"
+			type: "command"
+		}
+		{
+			command: "/function minecraft:damage_2_0"
+			icon: {
+				Count: 1
+				id: "minecraft:iron_sword"
+				tag: {
+					Damage: 0
+				}
+			}
+			title: "Sát Thương x2.0"
+			type: "command"
+		}
+		{
+			command: "/function minecraft:damage_2_5"
+			icon: {
+				Count: 1
+				id: "minecraft:iron_sword"
+				tag: {
+					Damage: 0
+				}
+			}
+			title: "Sát Thương x2.5"
+			type: "command"
+		}
+		{
+			command: "/function minecraft:damage_3_0"
+			icon: {
+				Count: 1
+				id: "minecraft:iron_sword"
+				tag: {
+					Damage: 0
+				}
+			}
+			title: "Sát Thương x3.0"
+			type: "command"
+		}
+	]
+	title: "Hệ Số Sát Thương"
+}

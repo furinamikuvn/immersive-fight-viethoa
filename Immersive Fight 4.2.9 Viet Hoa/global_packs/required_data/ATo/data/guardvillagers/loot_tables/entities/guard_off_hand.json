@@ -1,0 +1,44 @@
+{
+  "type": "guardvillagers:slot",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "weight": 20,
+          "name": "epicfight:iron_dagger"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 20,
+          "name": "epicfight:iron_dagger"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 20,
+          "name": "minecraft:shield"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 20,
+          "name": "minecraft:iron_sword"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 40,
+          "name": "minecraft:bread",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 4
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

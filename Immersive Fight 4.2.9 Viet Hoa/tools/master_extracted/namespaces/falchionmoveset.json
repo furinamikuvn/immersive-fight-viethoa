@@ -1,0 +1,12 @@
+{
+  "skill.falchionmoveset.falchion_art": {
+    "en": "Faith and Virtue",
+    "zh": "忠肝义胆",
+    "vi": null
+  },
+  "skill.falchionmoveset.falchion_art.tooltip": {
+    "en": "Slice enemies in a wide area. There will be three different attacks depending on the direction you type. \nFearless: The third normal attack will not be interrupted by the enemy's attack. \nForward: Perform two quick upward slashes to the front, which can effectively knockback the enemy. \nLeft/Right: Fast diagonal slash that cannot be interrupted by enemy attacks. \nBackward: After sweeping across a wide area, perform a slash on the enemy that knocks them down. Can use air slash to perform additional attacks on downed enemies",
+    "zh": "释放大范围的攻击。根据释放技能时键入的方向会有三种不同的攻击方式 \n无畏：第三下普通攻击不会被敌人的攻击打断 \n前+技能：快速对正前方进行两次上撩斩击，能有效击退敌人 \n左/右+技能：快速的斜向斩击，不会被攻击打断 \n后+技能：进行一次横扫攻击后，对前方使用能击倒敌人的劈砍，可以对倒地敌人使用跳跃攻击进行追击",
+    "vi": null
+  }
+}

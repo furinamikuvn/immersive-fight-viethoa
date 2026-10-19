@@ -1,0 +1,107 @@
+{
+  "gui.linggango.class_enhancement.screen_title": {
+    "en": "Class Selection",
+    "zh": "§l职业选择",
+    "vi": "§lLựa chọn nghề nghiệp"
+  },
+  "gui.linggango.class_enhancement.loading": {
+    "en": "Giving your equipments",
+    "zh": "§l正在发放初始装备",
+    "vi": "§l đang phân phối thiết bị ban đầu"
+  },
+  "gui.linggango.class_enhancement.confirm": {
+    "en": "Confirm",
+    "zh": "§l确认",
+    "vi": "§lXác nhận"
+  },
+  "gui.linggango.class_enhancement.title": {
+    "en": "CLASS ENHANCEMENT",
+    "zh": "§l职业选择",
+    "vi": "§lLựa chọn nghề nghiệp"
+  },
+  "gui.linggango.class_enhancement.navigation_guide": {
+    "en": "Use ↑↓ or W/S to navigate • ENTER to confirm",
+    "zh": "§l↑↓ / W/S 选择 • ENTER 确认",
+    "vi": "§l↑↓ / W/S chọn • ENTER để xác nhận"
+  },
+  "gui.linggango.class_enhancement.starting_equipment": {
+    "en": "Starting Equipment",
+    "zh": "§l初始装备",
+    "vi": "Thiết bị ban đầu §l"
+  },
+  "class.linggango.class_enhancement.warrior.name": {
+    "en": "Knight",
+    "zh": "骑士",
+    "vi": "hiệp sĩ"
+  },
+  "class.linggango.class_enhancement.warrior.desc": {
+    "en": "Born to swing a sword.",
+    "zh": "生来便是挥剑之人。",
+    "vi": "Anh ta được sinh ra để sử dụng một thanh kiếm."
+  },
+  "class.linggango.class_enhancement.ranger.name": {
+    "en": "Ranged",
+    "zh": "游侠",
+    "vi": "kiểm lâm"
+  },
+  "class.linggango.class_enhancement.ranger.desc": {
+    "en": "You are quick with your movements, sharp with your shots.",
+    "zh": "身形敏捷，箭无虚发。",
+    "vi": "Thân thể nhanh nhẹn, mũi tên đều trượt."
+  },
+  "class.linggango.class_enhancement.tank.name": {
+    "en": "Tank",
+    "zh": "重装",
+    "vi": "Cài đặt lại"
+  },
+  "class.linggango.class_enhancement.tank.desc": {
+    "en": "Born slightly larger than average, you are able to take more damage.",
+    "zh": "天生体魄强健，能够承受更多伤害。",
+    "vi": "Mạnh mẽ tự nhiên và có thể chịu được nhiều sát thương hơn."
+  },
+  "class.linggango.class_enhancement.civilian.name": {
+    "en": "Civilian",
+    "zh": "平民",
+    "vi": "dân sự"
+  },
+  "class.linggango.class_enhancement.civilian.desc": {
+    "en": "No stat changes. You were born without any talent at all.",
+    "zh": "属性无增减。生而平凡，毫无天赋。",
+    "vi": "Không có tăng hoặc giảm thuộc tính. Sinh ra bình thường, không có tài năng gì."
+  },
+  "class.linggango.class_enhancement.custom.name": {
+    "en": "New Class",
+    "zh": "新职业",
+    "vi": "sự nghiệp mới"
+  },
+  "class.linggango.class_enhancement.custom.desc0": {
+    "en": null,
+    "zh": "§o治疗自身与队友",
+    "vi": "§o hồi máu cho bản thân và đồng đội"
+  },
+  "class.linggango.class_enhancement.custom.desc1": {
+    "en": null,
+    "zh": "§o适应恶劣环境",
+    "vi": "§o thích nghi với môi trường khắc nghiệt"
+  },
+  "class.linggango.class_enhancement.custom.desc2": {
+    "en": null,
+    "zh": "§o顶尖的战斗技巧",
+    "vi": "Kỹ năng chiến đấu hàng đầu của §o"
+  },
+  "class.linggango.class_enhancement.custom.desc3": {
+    "en": null,
+    "zh": "§o永不满足的食欲",
+    "vi": "§o thèm ăn vô độ"
+  },
+  "class.linggango.class_enhancement.custom.desc4": {
+    "en": null,
+    "zh": "§o精通各类武器",
+    "vi": "§o thành thạo nhiều loại vũ khí"
+  },
+  "class.linggango.class_enhancement.custom.desc": {
+    "en": "A custom path.",
+    "zh": "一条自定义的征途。",
+    "vi": "Một hành trình tùy chỉnh."
+  }
+}

@@ -1,0 +1,822 @@
+{
+  "entity.gateways.gateway": {
+    "en": "Gateway to Eternity",
+    "zh": "永恒之门",
+    "vi": "Gateway to Eternity"
+  },
+  "item.gateways.gate_pearl": {
+    "en": "Gate Pearl",
+    "zh": "传送门珍珠",
+    "vi": "Gate Pearl"
+  },
+  "gateways.gate_pearl": {
+    "en": "Gate Pearl - %s",
+    "zh": "%s珍珠",
+    "vi": "Ngọc trai %s"
+  },
+  "itemGroup.gateways": {
+    "en": "Gateways to Eternity",
+    "zh": "永恒之门",
+    "vi": "cánh cổng vĩnh hằng"
+  },
+  "info.gateways.gate_pearl": {
+    "en": "A Gate Pearl allows you to summon a Gateway by using it on a block.\n\nIt can only be used when the new Gateway would not be too close to another Gateway, based on the current spacing.\n",
+    "zh": "你可以在方块上使用传送门珍珠来开启对应的传送门。\n\n开启传送门需要周围有足够的空间，且开启后无法打开另一个传送门。\n",
+    "vi": "Bạn có thể sử dụng ngọc trai cổng thông tin trên các khối để mở cổng tương ứng.\n\nViệc mở một cổng cần có đủ không gian xung quanh nó và nó không thể mở một cổng khác sau khi được mở."
+  },
+  "info.gateways.gate_pearl.2": {
+    "en": "An open Gateway will fail in a burst of lightning if it cannot spawn a mob, any active mob walks too far away, or the wave timer elapses.\n\nRewards will spawn from the Gateway as they are obtained.",
+    "zh": "如果传送门内的生物无法正常生成、超出最大范围，或超出波次的时间限制，那么它将在一道闪电后自行毁灭。\n\n奖励将在每一波结束时产生。",
+    "vi": "Nếu một sinh vật bên trong cổng không sinh sản bình thường, vượt quá phạm vi tối đa hoặc vượt quá giới hạn thời gian của đợt sóng, nó sẽ tự hủy sau một tia sét.\n\nPhần thưởng sẽ được tạo vào cuối mỗi đợt."
+  },
+  "tooltip.gateways.with_count": {
+    "en": "%s %s",
+    "zh": "%s %s",
+    "vi": "%s %s"
+  },
+  "tooltip.gateways.dot_with_count": {
+    "en": "• %s %s",
+    "zh": "• %s %s",
+    "vi": "• %s %s"
+  },
+  "tooltip.gateways.dot": {
+    "en": "• %s",
+    "zh": "• %s",
+    "vi": "• %s"
+  },
+  "tooltip.gateways.scroll": {
+    "en": "[scroll]",
+    "zh": "[滚轮翻页]",
+    "vi": "[Quay trang bằng bánh xe cuộn]"
+  },
+  "tooltip.gateways.shift": {
+    "en": "[shift]",
+    "zh": "[按住Shift以查看波次信息]",
+    "vi": "[Giữ phím Shift để xem thông tin sóng]"
+  },
+  "tooltip.gateways.ctrl": {
+    "en": "[ctrl]",
+    "zh": "[按住Ctrl以查看最终奖励]",
+    "vi": "[Giữ Ctrl để xem phần thưởng cuối cùng]"
+  },
+  "tooltip.gateways.alt": {
+    "en": "[alt]",
+    "zh": "[按住Alt以查看规则变更]",
+    "vi": "[Giữ Alt để xem thay đổi quy tắc]"
+  },
+  "tooltip.gateways.true": {
+    "en": "Enabled",
+    "zh": "已启用",
+    "vi": "Đã bật"
+  },
+  "tooltip.gateways.false": {
+    "en": "Disabled",
+    "zh": "禁用",
+    "vi": "Vô hiệu hóa"
+  },
+  "tooltip.gateways.num_wave": {
+    "en": "%s Wave",
+    "zh": "%s 波次",
+    "vi": "Sóng %s"
+  },
+  "tooltip.gateways.num_waves": {
+    "en": "%s Waves",
+    "zh": "%s 波次",
+    "vi": "Sóng %s"
+  },
+  "tooltip.gateways.wave": {
+    "en": "Wave %s/%s",
+    "zh": "波次 %s/%s",
+    "vi": "Sóng %s/%s"
+  },
+  "tooltip.gateways.entities": {
+    "en": "Entities: ",
+    "zh": "怪物: ",
+    "vi": "quái vật:"
+  },
+  "tooltip.gateways.modifiers": {
+    "en": "Modifiers: ",
+    "zh": "增益: ",
+    "vi": "Nhận được:"
+  },
+  "tooltip.gateways.rewards": {
+    "en": "Rewards: ",
+    "zh": "奖励: ",
+    "vi": "phần thưởng:"
+  },
+  "tooltip.gateways.num_failures": {
+    "en": "%s Penalties",
+    "zh": "%s 惩罚",
+    "vi": "Hình phạt %s"
+  },
+  "tooltip.gateways.num_failure": {
+    "en": "%s Penalty",
+    "zh": "%s 惩罚",
+    "vi": "Hình phạt %s"
+  },
+  "tooltip.gateways.failures": {
+    "en": "Failure Penalties",
+    "zh": "失败处罚",
+    "vi": "hình phạt thất bại"
+  },
+  "tooltip.gateways.num_rule": {
+    "en": "%s Rule Change",
+    "zh": "%s 规则变更",
+    "vi": "Thay đổi quy tắc %s"
+  },
+  "tooltip.gateways.num_rules": {
+    "en": "%s Rule Changes",
+    "zh": "%s 规则变更",
+    "vi": "Thay đổi quy tắc %s"
+  },
+  "tooltip.gateways.rules": {
+    "en": "Rule Changes",
+    "zh": "规则变更",
+    "vi": "Thay đổi quy tắc"
+  },
+  "tooltip.gateways.key_rewards": {
+    "en": "Key Rewards",
+    "zh": "完成奖励",
+    "vi": "Phần thưởng hoàn thành"
+  },
+  "tooltip.gateways.endless.base_wave": {
+    "en": "Base Wave",
+    "zh": "波次",
+    "vi": "sóng biển"
+  },
+  "tooltip.gateways.endless.num_modif": {
+    "en": "%s Endless Modifier",
+    "zh": "%s 无尽修改器",
+    "vi": "Công cụ sửa đổi hoạt hình %s"
+  },
+  "tooltip.gateways.endless.num_modifs": {
+    "en": "%s Endless Modifiers",
+    "zh": "%s 无尽的修改器",
+    "vi": "%s sửa đổi vô tận"
+  },
+  "tooltip.gateways.endless.modifier": {
+    "en": "Endless Modifier %s/%s",
+    "zh": "无尽修改器 %s/%s",
+    "vi": "Công cụ sửa đổi vô tận %s/%s"
+  },
+  "tooltip.gateways.endless.wave_time": {
+    "en": "%s Max Wave Time",
+    "zh": "%s 最大波次时间",
+    "vi": "Thời gian sóng tối đa %s"
+  },
+  "tooltip.gateways.endless.setup_time": {
+    "en": "%s Setup Time",
+    "zh": "%s 设置时间",
+    "vi": "%s đặt thời gian"
+  },
+  "boss.gateways.wave": {
+    "en": "Wave: %d/%d | Time: %s | Enemies: %d",
+    "zh": "波次: %d/%d | 时间: %s | 生物: %d",
+    "vi": "Sóng: %d/%d | Thời gian: %s | Sinh vật: %d"
+  },
+  "boss.gateways.done": {
+    "en": "Gate Completed!",
+    "zh": "挑战成功！",
+    "vi": "Thử thách thành công!"
+  },
+  "boss.gateways.starting": {
+    "en": "Wave %d starting in %s",
+    "zh": "第 %d 波将于 %s 后开始",
+    "vi": "Sóng %d sẽ bắt đầu sau %s"
+  },
+  "boss.gateways.endless.top": {
+    "en": "Wave: %d/%d | Time Remaining: %d",
+    "zh": "波次: %d/%d | 剩余时间： %d",
+    "vi": "Sóng: %d/%d | Thời gian còn lại: %d"
+  },
+  "boss.gateways.endless.bot": {
+    "en": "Enemies: %d/%d | Modifiers Active: %d",
+    "zh": "敌人: %d/%d | 修改器 激活: %d",
+    "vi": "Kẻ thù: %d/%d | Kích hoạt công cụ sửa đổi: %d"
+  },
+  "boss.gateways.endless.incoming": {
+    "en": "Enemies Incoming: %d",
+    "zh": "敌人来袭: %d",
+    "vi": "Kẻ thù tấn công: %d"
+  },
+  "reward.gateways.stack": {
+    "en": "%s %s",
+    "zh": "%s %s",
+    "vi": "%s %s"
+  },
+  "reward.gateways.entity": {
+    "en": "%s %s Loot Rolls",
+    "zh": "%s %s 战利品",
+    "vi": "Cúp %s %s"
+  },
+  "reward.gateways.loot_table": {
+    "en": "%s %s Rolls",
+    "zh": "%s %s ",
+    "vi": "%s %s "
+  },
+  "reward.gateways.chance": {
+    "en": "%s Chance of %s",
+    "zh": "%s 几率: %s",
+    "vi": "Xác suất %s: %s"
+  },
+  "reward.gateways.experience": {
+    "en": "%s Experience",
+    "zh": "%s 经验",
+    "vi": "Trải nghiệm %s"
+  },
+  "reward.gateways.summon": {
+    "en": "Summons %s",
+    "zh": "生成 %s",
+    "vi": "Tạo %s"
+  },
+  "failure.gateways.explosion": {
+    "en": "Explosion of Radius %s",
+    "zh": "爆炸半径 %s",
+    "vi": "Bán kính nổ %s"
+  },
+  "failure.gateways.mob_effect": {
+    "en": "%s",
+    "zh": "%s",
+    "vi": "%s"
+  },
+  "failure.gateways.summon": {
+    "en": "Summons %s",
+    "zh": "生成 %s",
+    "vi": "Tạo %s"
+  },
+  "failure.gateways.chance": {
+    "en": "%s Chance of %s",
+    "zh": "%s 几率 %s",
+    "vi": "Xác suất %s %s"
+  },
+  "rule.gateways.default": {
+    "en": "[was %s]",
+    "zh": "[是 %s]",
+    "vi": "[là %s]"
+  },
+  "rule.gateways.spawn_range": {
+    "en": "Spawn Range: %s",
+    "zh": "生成范围: %s",
+    "vi": "Phạm vi thế hệ: %s"
+  },
+  "rule.gateways.leash_range": {
+    "en": "Leash Range: %s",
+    "zh": "拴绳范围: %s",
+    "vi": "Phạm vi dây buộc: %s"
+  },
+  "rule.gateways.allow_discarding": {
+    "en": "Allow Discarding: %s",
+    "zh": "允许丢弃: %s",
+    "vi": "Loại bỏ được phép: %s"
+  },
+  "rule.gateways.allow_dim_change": {
+    "en": "Allow Changing Dimensions: %s",
+    "zh": "允许更改尺寸: %s",
+    "vi": "Thay đổi kích thước được phép: %s"
+  },
+  "rule.gateways.player_damage_only": {
+    "en": "Player Damage Only: %s",
+    "zh": "仅对玩家造成伤害: %s",
+    "vi": "Chỉ gây sát thương cho người chơi: %s"
+  },
+  "rule.gateways.remove_mobs_on_failure": {
+    "en": "Remove Mobs on Failure: %s",
+    "zh": "失败时移除暴民: %s",
+    "vi": "Loại bỏ mob khi thất bại: %s"
+  },
+  "rule.gateways.fail_on_out_of_bounds": {
+    "en": "Fail on Out of Bounds: %s",
+    "zh": "超出边界失败: %s",
+    "vi": "Lỗi ngoài giới hạn: %s"
+  },
+  "rule.gateways.spacing": {
+    "en": "Spacing: %s",
+    "zh": "控制: %s",
+    "vi": "Điều khiển: %s"
+  },
+  "error.gateways.no_space": {
+    "en": "There's not enough space to open this Gateway",
+    "zh": "没有足够的空间来开启传送门！",
+    "vi": "Không đủ không gian để mở cổng!"
+  },
+  "error.gateways.wave_failed": {
+    "en": "The Gateway imploded because there was not enough space to spawn the next wave",
+    "zh": "传送门崩塌了，因为没有足够的空间来生成下一波生物！",
+    "vi": "Cánh cổng sụp đổ vì không còn đủ chỗ để sinh ra làn sóng sinh vật tiếp theo!"
+  },
+  "error.gateways.too_far": {
+    "en": "The Gateway imploded because a wave entity ran too far away",
+    "zh": "传送门崩塌了，因为当前波次中某一个生物超出了最大范围！",
+    "vi": "Cổng bị sập vì một sinh vật trong đợt hiện tại đã vượt quá phạm vi tối đa của nó!"
+  },
+  "error.gateways.wave_elapsed": {
+    "en": "Wave Timer Expired",
+    "zh": "已超出当前波次的时间限制！",
+    "vi": "Đã vượt quá giới hạn thời gian cho đợt hiện tại!"
+  },
+  "error.gateways.entity_discarded": {
+    "en": "The Gateway imploded because an entity was removed without being killed",
+    "zh": "传送门崩塌了，是因为有一个实体没有被杀死就被移除了",
+    "vi": "Cánh cổng sụp đổ vì một thực thể đã bị loại bỏ mà không bị giết."
+  },
+  "appmode.gateways.after_wave": {
+    "en": "Applied on wave %s.",
+    "zh": "应用于波次 %s.",
+    "vi": "Áp dụng cho sóng %s."
+  },
+  "appmode.gateways.after_every_n_waves": {
+    "en": "Applies every %s waves. Max %s applications.",
+    "zh": "每隔 %s 波应用一次。最多应用 %s.",
+    "vi": "Áp dụng mọi sóng %s. %s được sử dụng nhiều nhất."
+  },
+  "appmode.gateways.only_on_wave": {
+    "en": "Applied only on wave %s.",
+    "zh": "仅适用于波次 %s.",
+    "vi": "Chỉ áp dụng cho sóng %s."
+  },
+  "appmode.gateways.only_on_every_n_waves": {
+    "en": "Applied only on every %s waves.",
+    "zh": "仅适用于每 %s 波.",
+    "vi": "Chỉ áp dụng cho mọi sóng %s."
+  },
+  "stat.gateways.gates_defeated": {
+    "en": "Gateways Defeated",
+    "zh": "传送门已被击败",
+    "vi": "Cổng thông tin đã bị đánh bại"
+  },
+  "modifier.gateways.gear_set": {
+    "en": "Equipped With %s",
+    "zh": "装备 %s",
+    "vi": "Thiết bị %s"
+  },
+  "gateways.basic/blaze": {
+    "en": "Blaze Gateway",
+    "zh": "烈焰关卡",
+    "vi": "Mức độ ngọn lửa"
+  },
+  "gateways.basic/slime": {
+    "en": "Slime Gateway",
+    "zh": "粘液关卡",
+    "vi": "mức độ chất nhờn"
+  },
+  "gateways.basic/enderman": {
+    "en": "Enderman Gateway",
+    "zh": "末影人关卡",
+    "vi": "Cấp độ Enderman"
+  },
+  "gateways.emerald_grove": {
+    "en": "Gateway of the Emerald Grove",
+    "zh": "翡翠林门户",
+    "vi": "Cổng Rừng Ngọc Lục Bảo"
+  },
+  "gateways.overworldian_nights": {
+    "en": "Gateway of Overworldian Nights",
+    "zh": "超凡夜之门",
+    "vi": "Cổng đêm phi thường"
+  },
+  "gateways.hellish_fortress": {
+    "en": "Gateway of the Hellish Fortress",
+    "zh": "地狱堡垒之门",
+    "vi": "Cổng pháo đài địa ngục"
+  },
+  "gateways.endless/blaze": {
+    "en": "Endless Blaze Gateway",
+    "zh": "无尽烈焰关卡",
+    "vi": "Cấp độ ngọn lửa vô tận"
+  },
+  "rewards.gateways.loot_table.simple_dungeon": {
+    "en": "Dungeon Loot",
+    "zh": "地下城战利品",
+    "vi": "Chiến lợi phẩm trong ngục tối"
+  },
+  "rewards.gateways.loot_table.nether_bridge": {
+    "en": "Nether Fortress Loot",
+    "zh": "要塞战利品",
+    "vi": "Cướp phá pháo đài"
+  },
+  "name.gateways.necrotic_farmer": {
+    "en": "Necrotic Farmer",
+    "zh": "亡灵农夫",
+    "vi": "Nông dân bất tử"
+  },
+  "name.gateways.undead_legionnaire": {
+    "en": "Undead Legionnaire",
+    "zh": "亡灵军团",
+    "vi": "Đội quân xác sống"
+  },
+  "name.gateways.withered_ranger": {
+    "en": "Withered Ranger",
+    "zh": "枯萎的游侠",
+    "vi": "Kiểm lâm khô héo"
+  },
+  "name.gateways.butcher": {
+    "en": "Butcher",
+    "zh": "屠夫",
+    "vi": "Người bán thịt"
+  },
+  "name.gateways.huge_slime": {
+    "en": "Huge Slime",
+    "zh": "巨型史莱姆",
+    "vi": "chất nhờn khổng lồ"
+  },
+  "name.gateways.magicbane_slime": {
+    "en": "Magicbane Slime",
+    "zh": "魔术史莱姆",
+    "vi": "Chất nhờn ma thuật"
+  },
+  "name.gateways.acidic_slime": {
+    "en": "Acidic Slime",
+    "zh": "酸性粘液",
+    "vi": "chất nhầy có tính axit"
+  },
+  "name.gateways.armorfog": {
+    "en": null,
+    "zh": "迷雾守卫",
+    "vi": "Bảo vệ sương mù"
+  },
+  "name.gateways.chess": {
+    "en": null,
+    "zh": "棋盘骑士",
+    "vi": "Hiệp sĩ bàn cờ"
+  },
+  "name.gateways.dark": {
+    "en": null,
+    "zh": "暗影庇护者",
+    "vi": "Bảo vệ bóng tối"
+  },
+  "name.gateways.dragonslayer": {
+    "en": null,
+    "zh": "屠龙勇士",
+    "vi": "chiến binh diệt rồng"
+  },
+  "name.gateways.forgotten": {
+    "en": null,
+    "zh": "遗忘之迹",
+    "vi": "dấu vết của sự lãng quên"
+  },
+  "name.gateways.spark": {
+    "en": null,
+    "zh": "黎明火花",
+    "vi": "tia lửa bình minh"
+  },
+  "name.gateways.sunset": {
+    "en": null,
+    "zh": "夕阳之翼",
+    "vi": "cánh hoàng hôn"
+  },
+  "name.gateways.twinned": {
+    "en": null,
+    "zh": "双生之灵",
+    "vi": "linh hồn song sinh"
+  },
+  "gateways.basic/armorfog_dagger": {
+    "en": null,
+    "zh": "【迷雾守卫】挑战",
+    "vi": "[Hộ vệ sương mù] Thử thách"
+  },
+  "gateways.basic/chess_sword": {
+    "en": null,
+    "zh": "【棋盘骑士】挑战",
+    "vi": "[Hiệp sĩ bàn cờ] Thử thách"
+  },
+  "gateways.basic/dark_falchion": {
+    "en": null,
+    "zh": "【暗影庇护者】挑战",
+    "vi": "[Người bảo vệ bóng tối] Thử thách"
+  },
+  "gateways.basic/dragonslayer_staff": {
+    "en": null,
+    "zh": "【屠龙勇士】挑战",
+    "vi": "[Chiến binh diệt rồng]Thử thách"
+  },
+  "gateways.basic/forgotten_great": {
+    "en": null,
+    "zh": "【遗忘之迹】挑战",
+    "vi": "[Con đường bị lãng quên]Thử thách"
+  },
+  "gateways.basic/huoshi": {
+    "en": null,
+    "zh": "活尸关卡(群怪)",
+    "vi": "Cấp độ xác sống (nhóm quái vật)"
+  },
+  "gateways.basic/huoshi_one": {
+    "en": null,
+    "zh": "活尸关卡(单个)",
+    "vi": "Cấp độ xác sống (đơn)"
+  },
+  "gateways.basic/spark_spear": {
+    "en": null,
+    "zh": "【黎明火花】挑战",
+    "vi": "[Tia lửa bình minh]Thử thách"
+  },
+  "gateways.basic/sunset_long": {
+    "en": null,
+    "zh": "【夕阳之翼】挑战",
+    "vi": "[Đôi cánh hoàng hôn]Thử thách"
+  },
+  "gateways.basic/twinned_tachi": {
+    "en": null,
+    "zh": "【双生之灵】挑战",
+    "vi": "[Linh hồn song sinh]Thử thách"
+  },
+  "gateways.basic/alex_candy": {
+    "en": null,
+    "zh": "糖果龋洞关卡",
+    "vi": "Cấp độ sâu răng kẹo"
+  },
+  "gateways.basic/alex_dark": {
+    "en": null,
+    "zh": "异寂空谷关卡",
+    "vi": "Thung lũng trống trải kỳ lạ"
+  },
+  "gateways.basic/alex_nuc": {
+    "en": null,
+    "zh": "毒化洞穴关卡",
+    "vi": "Cấp hang độc"
+  },
+  "gateways.basic/alex_pri": {
+    "en": null,
+    "zh": "原始洞穴关卡",
+    "vi": "Cấp độ hang động ban đầu"
+  },
+  "gateways.basic/alex_mag": {
+    "en": null,
+    "zh": "磁场洞穴关卡",
+    "vi": "Cấp độ hang động từ trường"
+  },
+  "gateways.basic/alex_water": {
+    "en": null,
+    "zh": "渊海陷窟关卡",
+    "vi": "Cấp độ hang vực thẳm"
+  },
+  "gateways.basic/monk": {
+    "en": null,
+    "zh": "索罗修士",
+    "vi": "Anh Thoreau"
+  },
+  "gateways.basic/zixie": {
+    "en": null,
+    "zh": "紫水晶巨蟹",
+    "vi": "Ung thư thạch anh tím"
+  },
+  "gateways.basic/test": {
+    "en": null,
+    "zh": "测试训练",
+    "vi": "đào tạo kiểm tra"
+  },
+  "gateways.basic/pila": {
+    "en": null,
+    "zh": "灾厄关卡",
+    "vi": "Mức độ thiên tai"
+  },
+  "gateways.basic/pila2": {
+    "en": null,
+    "zh": "灾厄关卡2",
+    "vi": "Thảm họa cấp độ 2"
+  },
+  "gateways.basic/chaos": {
+    "en": null,
+    "zh": "生于混沌关卡",
+    "vi": "Sinh ra ở cấp độ hỗn loạn"
+  },
+  "gateways.basic/illager1": {
+    "en": null,
+    "zh": "灵魂感应师",
+    "vi": "Tâm hồn tâm linh"
+  },
+  "gateways.basic/illager2": {
+    "en": null,
+    "zh": "魔法师",
+    "vi": "ảo thuật gia"
+  },
+  "gateways.basic/illager3": {
+    "en": null,
+    "zh": "怪人",
+    "vi": "lập dị"
+  },
+  "gateways.basic/miniboss1": {
+    "en": null,
+    "zh": "烈焰关卡",
+    "vi": "Mức độ ngọn lửa"
+  },
+  "gateways.basic/miniboss2": {
+    "en": null,
+    "zh": "沉没关卡",
+    "vi": "mức độ chìm"
+  },
+  "gateways.basic/miniboss3": {
+    "en": null,
+    "zh": "湮灭关卡",
+    "vi": "Mức độ hủy diệt"
+  },
+  "gateways.basic/xinhuo1": {
+    "en": null,
+    "zh": "爱国者",
+    "vi": "người yêu nước"
+  },
+  "gateways.basic/xinhuo2": {
+    "en": null,
+    "zh": "霜星",
+    "vi": "ngôi sao băng giá"
+  },
+  "gateways.basic/xinhuo3": {
+    "en": null,
+    "zh": "皇帝的利刃-追猎者",
+    "vi": "Kẻ theo dõi lưỡi kiếm của Hoàng đế"
+  },
+  "name.gateways.flaming_enderman": {
+    "en": "Flaming Enderman",
+    "zh": "火焰末影人",
+    "vi": "Enderman lửa"
+  },
+  "gateways.blaze_gate_small": {
+    "en": null,
+    "zh": "[小型]烈焰人传送门",
+    "vi": null
+  },
+  "gateways.blaze_gate_normal": {
+    "en": null,
+    "zh": "烈焰人传送门",
+    "vi": null
+  },
+  "gateways.blaze_gate_large": {
+    "en": null,
+    "zh": "[大型]烈焰人传送门",
+    "vi": null
+  },
+  "gateways.creeper_gate_small": {
+    "en": null,
+    "zh": "[小型]苦力怕传送门",
+    "vi": null
+  },
+  "gateways.creeper_gate_normal": {
+    "en": null,
+    "zh": "苦力怕传送门",
+    "vi": null
+  },
+  "gateways.creeper_gate_large": {
+    "en": null,
+    "zh": "[大型]苦力怕传送门",
+    "vi": null
+  },
+  "gateways.enderman_gate_small": {
+    "en": null,
+    "zh": "[小型]末影人传送门",
+    "vi": null
+  },
+  "gateways.enderman_gate_normal": {
+    "en": null,
+    "zh": "末影人传送门",
+    "vi": null
+  },
+  "gateways.enderman_gate_large": {
+    "en": null,
+    "zh": "[大型]末影人传送门",
+    "vi": null
+  },
+  "gateways.ghast_gate_small": {
+    "en": null,
+    "zh": "[小型]恶魂传送门",
+    "vi": null
+  },
+  "gateways.ghast_gate_normal": {
+    "en": null,
+    "zh": "恶魂传送门",
+    "vi": null
+  },
+  "gateways.ghast_gate_large": {
+    "en": null,
+    "zh": "[大型]恶魂传送门",
+    "vi": null
+  },
+  "gateways.magma_cube_gate_small": {
+    "en": null,
+    "zh": "[小型]岩浆怪传送门",
+    "vi": null
+  },
+  "gateways.magma_cube_gate_normal": {
+    "en": null,
+    "zh": "岩浆怪传送门",
+    "vi": null
+  },
+  "gateways.magma_cube_gate_large": {
+    "en": null,
+    "zh": "[大型]岩浆怪传送门",
+    "vi": null
+  },
+  "gateways.shulker_gate_small": {
+    "en": null,
+    "zh": "[小型]潜影贝传送门",
+    "vi": null
+  },
+  "gateways.shulker_gate_normal": {
+    "en": null,
+    "zh": "潜影贝传送门",
+    "vi": null
+  },
+  "gateways.shulker_gate_large": {
+    "en": null,
+    "zh": "[大型]潜影贝传送门",
+    "vi": null
+  },
+  "gateways.skeleton_gate_small": {
+    "en": null,
+    "zh": "[小型]骷髅传送门",
+    "vi": null
+  },
+  "gateways.skeleton_gate_normal": {
+    "en": null,
+    "zh": "骷髅传送门",
+    "vi": null
+  },
+  "gateways.skeleton_gate_large": {
+    "en": null,
+    "zh": "[大型]骷髅传送门",
+    "vi": null
+  },
+  "gateways.slime_gate_small": {
+    "en": null,
+    "zh": "[小型]史莱姆传送门",
+    "vi": null
+  },
+  "gateways.slime_gate_normal": {
+    "en": null,
+    "zh": "史莱姆传送门",
+    "vi": null
+  },
+  "gateways.slime_gate_large": {
+    "en": null,
+    "zh": "[大型]史莱姆传送门",
+    "vi": null
+  },
+  "gateways.spider_gate_small": {
+    "en": null,
+    "zh": "[小型]蜘蛛传送门",
+    "vi": null
+  },
+  "gateways.spider_gate_normal": {
+    "en": null,
+    "zh": "蜘蛛传送门",
+    "vi": null
+  },
+  "gateways.spider_gate_large": {
+    "en": null,
+    "zh": "[大型]蜘蛛传送门",
+    "vi": null
+  },
+  "gateways.witch_gate_small": {
+    "en": null,
+    "zh": "[小型]女巫传送门",
+    "vi": null
+  },
+  "gateways.witch_gate_normal": {
+    "en": null,
+    "zh": "女巫传送门",
+    "vi": null
+  },
+  "gateways.witch_gate_large": {
+    "en": null,
+    "zh": "[大型]女巫传送门",
+    "vi": null
+  },
+  "gateways.zombie_gate_small": {
+    "en": null,
+    "zh": "[小型]僵尸传送门",
+    "vi": null
+  },
+  "gateways.zombie_gate_normal": {
+    "en": null,
+    "zh": "僵尸传送门",
+    "vi": null
+  },
+  "gateways.zombie_gate_large": {
+    "en": null,
+    "zh": "[大型]僵尸传送门",
+    "vi": null
+  },
+  "tooltip.gateways.list1": {
+    "en": null,
+    "zh": "• %sx %s ",
+    "vi": null
+  },
+  "tooltip.gateways.list2": {
+    "en": null,
+    "zh": "• %s",
+    "vi": null
+  },
+  "tooltip.gateways.completion": {
+    "en": null,
+    "zh": "最终奖励",
+    "vi": null
+  },
+  "tooltip.gateways.experience": {
+    "en": null,
+    "zh": "• %s 经验",
+    "vi": null
+  },
+  "reward.gateways.command": {
+    "en": null,
+    "zh": "控制：/%s",
+    "vi": null
+  }
+}

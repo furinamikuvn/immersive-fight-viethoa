@@ -1,0 +1,247 @@
+{
+  "itemGroup.illageradditions": {
+    "en": null,
+    "zh": "灾厄拓展",
+    "vi": "Mở rộng thảm họa"
+  },
+  "entity.illager_additions.shogun": {
+    "en": "Shogun",
+    "zh": "灾厄大将",
+    "vi": "Shogun"
+  },
+  "entity.illager_additions.royal_guard_spearman": {
+    "en": "Royal Guard",
+    "zh": "皇家近卫",
+    "vi": "Royal Guard"
+  },
+  "entity.illager_additions.samurai": {
+    "en": "Samurai",
+    "zh": "灾厄武士",
+    "vi": "Samurai"
+  },
+  "entity.illager_additions.new_samurai": {
+    "en": "Samurai",
+    "zh": "灾厄武士",
+    "vi": "Samurai"
+  },
+  "entity.illager_additions.spearman": {
+    "en": "Guard",
+    "zh": "灾厄近卫",
+    "vi": "Guard"
+  },
+  "entity.illager_additions.cowboy": {
+    "en": "Cowboy",
+    "zh": "牛仔",
+    "vi": "Cowboy"
+  },
+  "entity.illager_additions.beamloger": {
+    "en": "Beamloger",
+    "zh": "咒束师",
+    "vi": "Beamloger"
+  },
+  "item.illager_additions.spear": {
+    "en": "Spear",
+    "zh": "长枪",
+    "vi": "Spear"
+  },
+  "item.illager_additions.royal_guard_spear": {
+    "en": null,
+    "zh": "近卫长枪",
+    "vi": "thương của lính canh"
+  },
+  "item.illager_additions.katana": {
+    "en": "Katana",
+    "zh": "武士刀",
+    "vi": "Katana"
+  },
+  "item.illager_additions.master_katana": {
+    "en": "Master's Katana",
+    "zh": "大师的武士刀",
+    "vi": "Master's Katana"
+  },
+  "item.illager_additions.beamloger_helmet": {
+    "en": "Beamloger Hat",
+    "zh": "咒束师帽子",
+    "vi": "Beamloger Hat"
+  },
+  "item.illager_additions.beamloger_chestplate": {
+    "en": "Beamloger Robes",
+    "zh": "咒束师法袍",
+    "vi": "Beamloger Robes"
+  },
+  "item.illager_additions.beamloger_leggings": {
+    "en": "Beamloger Pants",
+    "zh": "咒束师裤子",
+    "vi": "Beamloger Pants"
+  },
+  "item.illager_additions.beamloger_boots": {
+    "en": "Beamloger Shoes",
+    "zh": "咒束师靴子",
+    "vi": "Beamloger Shoes"
+  },
+  "item.illager_additions.guard_helmet": {
+    "en": "Guard Helmet",
+    "zh": "近卫头盔",
+    "vi": "Guard Helmet"
+  },
+  "item.illager_additions.guard_chestplate": {
+    "en": "Guard Chestplate",
+    "zh": "近卫胸甲",
+    "vi": "Guard Chestplate"
+  },
+  "item.illager_additions.guard_legs": {
+    "en": "Guard Legs",
+    "zh": "近卫护腿",
+    "vi": "Guard Legs"
+  },
+  "item.illager_additions.royal_guard_spearman_helmet": {
+    "en": "Guard Helmet",
+    "zh": "皇家近卫头盔",
+    "vi": "Guard Helmet"
+  },
+  "item.illager_additions.royal_guard_spearman_chestplate": {
+    "en": "Guard Chestplate",
+    "zh": "皇家近卫胸甲",
+    "vi": "Guard Chestplate"
+  },
+  "item.illager_additions.royal_guard_spearman_boots": {
+    "en": "Guard Boots",
+    "zh": "皇家近卫护腿",
+    "vi": "Guard Boots"
+  },
+  "item.illager_additions.shogun_helmet": {
+    "en": "Shogun Helmet",
+    "zh": "大将头盔",
+    "vi": "Shogun Helmet"
+  },
+  "item.illager_additions.shogun_chestplate": {
+    "en": "Shogun Chestplate",
+    "zh": "大将胸甲",
+    "vi": "Shogun Chestplate"
+  },
+  "item.illager_additions.samurai_helmet": {
+    "en": "Samurai Helmet",
+    "zh": "武士头盔",
+    "vi": "Samurai Helmet"
+  },
+  "item.illager_additions.samurai_chestplate": {
+    "en": "Samurai Chestplate",
+    "zh": "武士胸甲",
+    "vi": "Samurai Chestplate"
+  },
+  "item.illager_additions.samurai_leggings": {
+    "en": "Samurai Leggings",
+    "zh": "武士护腿",
+    "vi": "Samurai Leggings"
+  },
+  "item.illager_additions.samurai_boots": {
+    "en": "Samurai Boots",
+    "zh": "武士靴子",
+    "vi": "Samurai Boots"
+  },
+  "item.illager_additions.samurai_robes": {
+    "en": "Samurai Robes",
+    "zh": "武士外套",
+    "vi": "Samurai Robes"
+  },
+  "item.illager_additions.samurai_pants": {
+    "en": "Samurai Pants",
+    "zh": "武士裤子",
+    "vi": "Samurai Pants"
+  },
+  "item.illager_additions.samurai_shoes": {
+    "en": "Samurai Shoes",
+    "zh": "武士靴子",
+    "vi": "Samurai Shoes"
+  },
+  "item.illager_additions.red_samurai_robes": {
+    "en": "Samurai Robes",
+    "zh": "红武士外套",
+    "vi": "Samurai Robes"
+  },
+  "item.illager_additions.red_samurai_pants": {
+    "en": "Samurai Pants",
+    "zh": "红武士裤子",
+    "vi": "Samurai Pants"
+  },
+  "item.illager_additions.red_samurai_shoes": {
+    "en": "Samurai Shoes",
+    "zh": "红武士靴子",
+    "vi": "Samurai Shoes"
+  },
+  "item.illager_additions.cowboy_hat": {
+    "en": "Cowboy Hat",
+    "zh": "牛仔帽子",
+    "vi": "Cowboy Hat"
+  },
+  "item.illager_additions.cowboy_robes": {
+    "en": "Cowboy Robes",
+    "zh": "牛仔外套",
+    "vi": "Cowboy Robes"
+  },
+  "item.illager_additions.cowboy_pants": {
+    "en": "Cowboy Pants",
+    "zh": "牛仔裤子",
+    "vi": "Cowboy Pants"
+  },
+  "item.illager_additions.cowboy_shoes": {
+    "en": "Cowboy Shoes",
+    "zh": "牛仔靴子",
+    "vi": "Cowboy Shoes"
+  },
+  "item.illager_additions.shogun_spawn_egg": {
+    "en": "Shogun Spawn Egg",
+    "zh": "灾厄大将刷怪蛋",
+    "vi": "Shogun Spawn Egg"
+  },
+  "item.illager_additions.samurai_spawn_egg": {
+    "en": "Samurai Spawn Egg",
+    "zh": "灾厄武士刷怪蛋",
+    "vi": "Samurai Spawn Egg"
+  },
+  "item.illager_additions.spearman_spawn_egg": {
+    "en": "Guard Spawn Egg",
+    "zh": "灾厄近卫刷怪蛋",
+    "vi": "Guard Spawn Egg"
+  },
+  "item.illager_additions.cowboy_spawn_egg": {
+    "en": "Cowboy Spawn Egg",
+    "zh": "牛仔刷怪蛋",
+    "vi": "Cowboy Spawn Egg"
+  },
+  "item.illager_additions.beamloger_spawn_egg": {
+    "en": "Beamloger Spawn Egg",
+    "zh": "咒束师刷怪蛋",
+    "vi": "Beamloger Spawn Egg"
+  },
+  "death.attack.rebound": {
+    "en": "%1$s was shot by his own projectile whilst shooting samurai",
+    "zh": "%1$s在射击灾厄武士时被弹反回的弹射物击杀",
+    "vi": "%1$s đã bị giết bởi một viên đạn bị chệch hướng khi đang bắn Illager."
+  },
+  "death.attack.rebound.player": {
+    "en": "%1$s was shot by his own  projectile whilst shooting %2$s",
+    "zh": "%1$s在射击%2$s时被弹反回的弹射物击杀",
+    "vi": "%1$s bị giết bởi một viên đạn bị chệch hướng khi đang bắn %2$s"
+  },
+  "death.attack.reboundShogun": {
+    "en": "%1$s was shot by his own projectile whilst shooting shogun",
+    "zh": "%1$s在射击灾厄大将时被弹反回的弹射物击杀",
+    "vi": "%1$s đã bị giết bởi một viên đạn bị chệch hướng khi đang bắn Chúa tể Tai họa."
+  },
+  "death.attack.reboundShogun.player": {
+    "en": "%1$s was shot by his own  projectile whilst shooting %2$s",
+    "zh": "%1$s在射击%2$s时被弹反回的弹射物击杀",
+    "vi": "%1$s bị giết bởi một viên đạn bị chệch hướng khi đang bắn %2$s"
+  },
+  "item.illager_additions.royal_guard_spearman_leggings": {
+    "en": "Guard Legs",
+    "zh": null,
+    "vi": null
+  },
+  "item.illager_additions.royal_guard_spawn_egg": {
+    "en": "Royal Guard Spawn Egg",
+    "zh": null,
+    "vi": null
+  }
+}

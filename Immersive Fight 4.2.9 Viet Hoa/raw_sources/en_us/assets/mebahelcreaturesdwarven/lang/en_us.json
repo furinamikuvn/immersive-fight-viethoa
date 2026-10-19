@@ -1,0 +1,63 @@
+{
+  "itemgroup.mebahelcreaturesdwarven": "Mebahel's Creatures - Dwemer Automatons",
+
+  "_comment1": "=== Items ===",
+
+  "item.mebahelcreaturesdwarven.dwemer_metal_gear": "Dwemer Metal Gear",
+  "item.mebahelcreaturesdwarven.dwemer_metal_scrap": "Dwemer Metal Scrap",
+  "item.mebahelcreaturesdwarven.dwemer_metal_ingot": "Dwemer Metal Ingot",
+
+  "_comment2": "=== Shields ===",
+
+
+  "_comment3": "=== Weapons ===",
+
+  "item.mebahelcreaturesdwarven.weapon.dwemer.dwemer_dagger": "Dwemer Dagger",
+  "item.mebahelcreaturesdwarven.weapon.dwemer.dwemer_sword": "Dwemer Sword",
+  "item.mebahelcreaturesdwarven.weapon.dwemer.dwemer_mace": "Dwemer Mace",
+  "item.mebahelcreaturesdwarven.weapon.dwemer.dwemer_warhammer": "Dwemer Warhammer",
+  "item.mebahelcreaturesdwarven.weapon.dwemer.dwemer_axe": "Dwemer Axe",
+  "item.mebahelcreaturesdwarven.weapon.dwemer.dwemer_war_axe": "Dwemer War Axe",
+  "item.mebahelcreaturesdwarven.dwarven_arrow": "Dwarven Arrow",
+  "item.mebahelcreaturesdwarven.dwarven_arrow.tooltip1": "§7These arrows are too powerful for Infinity to replicate",
+
+  "_comment4": "=== Bows ===",
+
+
+  "_comment5": "=== Armors ===",
+
+
+  "_comment6": "=== Mob Entities ===",
+
+  "entity.mebahelcreaturesdwarven.dwarven_spider": "Dwarven Spider",
+  "entity.mebahelcreaturesdwarven.dwarven_spider_guardian": "Dwarven Spider Guardian",
+  "entity.mebahelcreaturesdwarven.dwarven_centurion": "Dwarven Centurion",
+  "entity.mebahelcreaturesdwarven.dwarven_sphere": "Dwarven Sphere",
+
+  "_comment7": "=== Projectile Entities ===",
+
+  "entity.mebahelcreaturesdwarven.steam_projectile": "Pressured Steam",
+
+  "_comment8": "=== Blocks ===",
+
+  "block.mebahelcreaturesdwarven.dwemer_chest": "Dwemer Chest",
+  "block.mebahelcreaturesdwarven.dwarven_spider_block": "Dwarven Spider Block",
+  "block.mebahelcreaturesdwarven.dwemer_metal_block": "Dwemer Metal Block",
+  "block.mebahelcreaturesdwarven.dwemer_metal_pipe": "Dwemer Metal Pipe",
+  "block.mebahelcreaturesdwarven.dwemer_metal_pipe_gear": "Dwemer Metal Pipe with Gears",
+
+  "_comment9": "=== Spawn Eggs ===",
+
+  "item.mebahelcreaturesdwarven.spawn_egg.dwarven_centurion_spawn_egg": "Dwarven Centurion Spawn Egg",
+  "item.mebahelcreaturesdwarven.spawn_egg.dwarven_sphere_spawn_egg": "Dwarven Sphere Spawn Egg",
+  "item.mebahelcreaturesdwarven.spawn_egg.dwarven_spider_spawn_egg": "Dwarven Spider Spawn Egg",
+  "item.mebahelcreaturesdwarven.spawn_egg.dwarven_spider_guardian_spawn_egg": "Dwarven Spider Guardian Spawn Egg",
+
+  "_comment10": "=== Advancements ===",
+
+
+
+  "_comment13": "=== Maps ===",
+
+  "mebahelcreaturesdwarven.map.dwemer_map": "Dwemer City Map"
+}

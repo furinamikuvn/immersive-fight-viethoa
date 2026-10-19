@@ -1,0 +1,43 @@
+
+["Back Render Configuration"]
+	#Có bật tính năng hiển thị vũ khí sau lưng hay không
+	#Enable or disable back rendering feature
+	enable_back_render = true
+	#Danh sách vũ khí quá lớn sẽ được điều chỉnh vị trí khi hiển thị sau lưng
+	#List of oversized weapons that need position adjustment when rendered on the back
+	toobig_weapons = ["cataclysm:the_incinerator", "arsenal:soul_knight_great_sword", "soul_like_armors_reworked:wolfknightsword", "wom:solar", "fight_more:solar_p", "fight_more:solar_b", "fight_more:ruine_p", "fight_more:ruine_b", "wom:ruine", "dungeons_and_combat:crimson_sovereign_sword", "dungeons_and_combat:crimson_scythe", "soul_like_armors_reworked:alloygreatsword", "celestisynth:frostbound", "celestisynth:keres", "wom:evil_tachi", "wom:nova", "dungeons_and_combat:sunrise_sword", "born_in_chaos_v1:darkwarblade", "fight_more:solar_obscuridad_p", "fight_more:solar_obscuridad_b", "wom:solar_obscuridad", "fight_more:incinerator_obscuridad", "soul_like_armors_reworked:sawblade", "legendary_monsters:soul_great_sword", "legendary_monsters:shattered_greatsword", "legendary_monsters:the_great_frost", "legendary_monsters:the_tesseract", "legendary_monsters:resurrected_javelin"]
+	#Danh sách ID vật phẩm KHÔNG hiển thị sau lưng
+	#List of item IDs that should NOT be rendered on the back
+	back_render_blacklist = ["epicfight:glove", "wom:jabberwocky", "legendary_monsters:fiery_jaw", "mowziesmobs:earthrend_gauntlet", "efn:nf_claw", "efn:crimson_moon", "cdmoveset:yamato", "block_factorys_bosses:sandworm_gauntlet", "block_factorys_bosses:ice_gauntlet", "cataclysm:gauntlet_of_guard", "cataclysm:gauntlet_of_maelstrom"]
+	#Danh sách ID vật phẩm trong danh sách đen GEM (không kích hoạt chức năng phím ngay cả khi có khảm ngọc)
+	#List of item IDs that should NOT trigger key functions even with IMFgem
+	gem_blacklist = []
+
+	["Back Render Configuration"."TEST adjustment"]
+		#Thông số kiểm thử: [Độ lệch X, Độ lệch Y, Độ lệch Z, Xoay X, Xoay Y, Xoay Z]
+		transform = [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+
+["Optimization Configuration"]
+	#Công tắc loại bỏ hiển thị khoảng cách chung: Khoảng cách vượt quá ngưỡng sẽ quay về render gốc
+	enable_distance_cull = true
+	#Ngưỡng khoảng cách chung, vượt quá sẽ quay về render gốc
+	#Range: 1.0 ~ 256.0
+	distance_threshold = 32.0
+	#Danh sách thực thể được loại trừ, không bị loại bỏ tối ưu
+	optimization_excluded_entities = ["nightfall_invade:scarlet_hunter", "nightfall_invade:arterius", "soul_like_mobs:hollow", "soul_like_mobs:hollowknighthammer", "soul_like_mobs:heavyarmorhollow", "fight_more:chaos_knight"]
+
+["Item Entity Render Distance"]
+	#Danh sách ID vật phẩm cần tăng khoảng cách hiển thị thực thể rơi
+	#Item IDs whose dropped item entities should render from farther away
+	items = ["aquamirae:ship_graveyard_echo", "alexscaves:immortal_embryo"]
+	#Khoảng cách hiển thị tối thiểu của vật phẩm rơi ở trên (tính bằng khối)
+	#Minimum render distance in blocks for the dropped items listed above
+	#Range: 1.0 ~ 512.0
+	distance = 64.0
+
+["Entity Render Culling"]
+	#Quy tắc loại bỏ hiển thị thực thể chỉ định, định dạng: ID_thực_thể=khoảng_cách
+	#Vượt quá khoảng cách tương ứng, thực thể đó sẽ không còn hiển thị
+	#Ví dụ: minecraft:zombie=32.0
+	rules = ["soul_like_mobs:hollowknighthammer=64.0", "soul_like_mobs:heavyarmorhollow=64.0"]
+

@@ -1,0 +1,6 @@
+{
+  "type": "reterraforged:add",
+  "features": "reterraforged:erode",
+  "order": "prepend",
+  "step": "raw_generation"
+}

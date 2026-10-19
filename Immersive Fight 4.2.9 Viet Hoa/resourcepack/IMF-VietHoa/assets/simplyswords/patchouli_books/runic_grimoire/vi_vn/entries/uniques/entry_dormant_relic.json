@@ -1,0 +1,23 @@
+{
+  "name": "Dormant Relic (Trầm Miên Di Kiếm)",
+  "icon": "simplyswords:dormant_relic",
+  "advancement": "simplyswords:dormant_relic",
+  "category": "simplyswords:category_unique_weapons",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:dormant_relic",
+      "text": "Cổ kiếm thần bí đang say ngủ, có thể từng bước thức tỉnh sức mạnh vĩ đại thông qua các nghi thức rèn chế."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "simplyswords:righteous_relic",
+      "recipe2": "simplyswords:tainted_relic"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "simplyswords:sunfire",
+      "recipe2": "simplyswords:harbinger"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+	icon: {
+		Count: 1
+		id: "realmrpg_quests:glow_clot"
+		tag: {
+			Damage: 0
+		}
+	}
+	id: "53A013BE6044A912"
+	loot_size: 1
+	order_index: 14
+	rewards: [
+		{
+			command: "/gamerule EpicFightNoStun false"
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "minecraft:red_concrete"
+			}
+			title: "Miễn Nhiễm Choáng Người Chơi: Tắt"
+			type: "command"
+		}
+		{
+			command: "/gamerule EpicFightNoStun true"
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "minecraft:lime_concrete"
+			}
+			title: "Miễn Nhiễm Choáng Người Chơi: Bật"
+			type: "command"
+		}
+	]
+	title: "Điều Chỉnh Miễn Choáng Người Chơi"
+}

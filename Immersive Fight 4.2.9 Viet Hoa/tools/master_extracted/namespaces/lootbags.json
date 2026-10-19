@@ -1,0 +1,27 @@
+{
+  "itemGroup.lootbags.main": {
+    "en": null,
+    "zh": "战利品袋",
+    "vi": "Túi Chiến Lợi Phẩm"
+  },
+  "item.lootbags.commonlootbag": {
+    "en": null,
+    "zh": "普通战利品袋",
+    "vi": "Common Loot Bag"
+  },
+  "item.lootbags.uncommonlootbag": {
+    "en": null,
+    "zh": "罕见战利品袋",
+    "vi": "Uncommon Loot Bag"
+  },
+  "item.lootbags.rarelootbag": {
+    "en": null,
+    "zh": "稀有战利品袋",
+    "vi": "Rare Loot Bag"
+  },
+  "item.lootbags.epiclootbag": {
+    "en": null,
+    "zh": "史诗战利品袋",
+    "vi": "Epic Loot Bag"
+  }
+}

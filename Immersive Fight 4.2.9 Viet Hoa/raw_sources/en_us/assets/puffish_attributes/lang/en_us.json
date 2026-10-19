@@ -1,0 +1,16 @@
+{
+	"attribute.puffish_attributes.player.stamina": "Stamina",
+	"attribute.puffish_attributes.player.melee_damage": "Melee Damage",
+	"attribute.puffish_attributes.player.ranged_damage": "Ranged Damage",
+	"attribute.puffish_attributes.player.fortune": "Fortune",
+	"attribute.puffish_attributes.player.healing": "Healing",
+	"attribute.puffish_attributes.player.jump": "Jump",
+	"attribute.puffish_attributes.player.resistance": "Resistance",
+	"attribute.puffish_attributes.player.mining_speed": "Mining Speed",
+	"attribute.puffish_attributes.player.pickaxe_speed": "Pickaxe Speed",
+	"attribute.puffish_attributes.player.axe_speed": "Axe Speed",
+	"attribute.puffish_attributes.player.shovel_speed": "Shovel Speed",
+	"attribute.puffish_attributes.player.sprinting_speed": "Sprinting Speed",
+	"attribute.puffish_attributes.player.knockback": "Knockback",
+	"attribute.puffish_attributes.player.repair_cost": "Repair Cost"
+}

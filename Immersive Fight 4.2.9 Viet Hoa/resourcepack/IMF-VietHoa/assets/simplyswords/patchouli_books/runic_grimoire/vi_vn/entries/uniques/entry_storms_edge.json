@@ -1,0 +1,17 @@
+{
+  "name": "Storms Edge (Phong Bạo Chi Nhận)",
+  "icon": "simplyswords:storms_edge",
+  "advancement": "simplyswords:storms_edge",
+  "category": "simplyswords:category_unique_weapons",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:storms_edge",
+      "text": "Rèn từ kim loại siêu dẫn lôi điện, chuôi bọc da cách điện kiên cố bảo vệ đôi tay chiến binh."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Loại vũ khí này có thể lưu trữ năng lượng điện và khi sử dụng khả năng độc đáo của mình, nó có thể đẩy người sử dụng về phía trước, thu hẹp khoảng cách với kẻ thù và tạm thời trở nên bất khả chiến bại."
+    }
+  ]
+}

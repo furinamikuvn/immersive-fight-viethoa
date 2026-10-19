@@ -1,0 +1,15 @@
+{
+    "name": "gr_structure:portalsword",
+    "fallback": "minecraft:empty",
+    "elements": [
+        {
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "processors": "minecraft:mossify_20_percent",
+                "location": "gr_structure:portalsword"
+            },
+            "weight": 1
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": {
+        "min": 4,
+        "max": 12
+      },
+      "bonus_rolls": 2,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:granite",
+          "weight": 2
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:stone",
+          "weight": 2
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:tuff",
+          "weight": 2
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:calcite",
+          "weight": 2
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:dripstone_block",
+          "weight": 2
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:coal",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:charcoal",
+          "weight": 1
+        }
+      ],
+      "functions": [
+        {
+          "function": "minecraft:set_count",
+          "count": {
+            "min": 6,
+            "max": 20
+          }
+        }
+      ]
+    }
+  ]
+}

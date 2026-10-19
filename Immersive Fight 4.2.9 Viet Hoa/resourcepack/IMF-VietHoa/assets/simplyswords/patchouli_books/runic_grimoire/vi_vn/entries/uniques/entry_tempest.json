@@ -1,0 +1,13 @@
+{
+  "name": "Flamewind (Liệt Phong)",
+  "icon": "simplyswords:tempest",
+  "advancement": "simplyswords:tempest",
+  "category": "simplyswords:category_unique_weapons",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:tempest",
+      "text": "Tác giả hơi lười, cốt truyện bối cảnh vẫn chưa viết xong."
+    }
+  ]
+}

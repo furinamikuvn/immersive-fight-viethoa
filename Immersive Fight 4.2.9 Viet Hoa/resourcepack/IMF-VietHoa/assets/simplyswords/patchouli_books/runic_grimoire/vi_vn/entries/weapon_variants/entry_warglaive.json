@@ -1,0 +1,26 @@
+{
+  "name": "Chiến Nhận (Warglaive)",
+  "icon": "simplyswords:iron_warglaive",
+  "category": "simplyswords:category_weapon_variants",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:iron_warglaive",
+      "text": "Vũ khí linh hoạt tuyệt hảo khi song thủ song đao, thực hiện các chuỗi combo liên hoàn xé rách kẻ thù."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "simplyswords:iron_warglaive",
+      "recipe2": "simplyswords:gold_warglaive"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "simplyswords:diamond_warglaive"
+    },
+    {
+      "type": "patchouli:smithing",
+      "recipe": "simplyswords:netherite_warglaive",
+      "recipe2": "simplyswords:runic_warglaive"
+    }
+  ]
+}

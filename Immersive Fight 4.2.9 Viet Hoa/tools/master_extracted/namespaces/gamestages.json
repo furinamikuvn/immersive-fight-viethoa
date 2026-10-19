@@ -1,0 +1,77 @@
+{
+  "commands.gamestage.add.sender": {
+    "en": "Stage %s unlocked for %s!",
+    "zh": "%2$s 的游戏阶段 %1$s 已经解锁!",
+    "vi": null
+  },
+  "commands.gamestage.add.target": {
+    "en": "You unlocked stage %s!",
+    "zh": "你解锁了 %s 游戏阶段!",
+    "vi": null
+  },
+  "commands.gamestage.remove.sender": {
+    "en": "Stage %s removed for %s!",
+    "zh": "%2$s 的游戏阶段 %1$s 已经移除!",
+    "vi": null
+  },
+  "commands.gamestage.remove.target": {
+    "en": "You lost access to stage %s!",
+    "zh": "你已不再处于 %s 游戏阶段!",
+    "vi": null
+  },
+  "commands.gamestage.check.failure": {
+    "en": "%s does not have stage %s",
+    "zh": "%s不处于 %s 游戏阶段",
+    "vi": null
+  },
+  "commands.gamestage.check.success": {
+    "en": "%s has stage %s",
+    "zh": "%s处于 %s 游戏阶段",
+    "vi": null
+  },
+  "commands.gamestage.info.empty": {
+    "en": "%s has no stages unlocked.",
+    "zh": "%s 没有已解锁游戏阶段.",
+    "vi": null
+  },
+  "commands.gamestage.info.stages": {
+    "en": "%s has the following stages. %s",
+    "zh": "%s 有以下几个游戏阶段. %s",
+    "vi": null
+  },
+  "commands.gamestage.clear.sender": {
+    "en": "%d stages cleared from %s",
+    "zh": "清除从 %s 开始%d个游戏阶段",
+    "vi": null
+  },
+  "commands.gamestage.clear.target": {
+    "en": "You lost %d stages!",
+    "zh": "你失去了%d个游戏阶段!",
+    "vi": null
+  },
+  "commands.gamestage.playeronly": {
+    "en": "Sorry, players only!",
+    "zh": "抱歉,仅限玩家!",
+    "vi": null
+  },
+  "commands.gamestage.reloadfakes.info": {
+    "en": "Reloaded fake player stages.",
+    "zh": "重载虚假玩家游戏阶段.",
+    "vi": null
+  },
+  "commands.gamestage.reloadknown.info": {
+    "en": "Loaded %d known stages.",
+    "zh": "已加载%d个已知游戏阶段.",
+    "vi": null
+  },
+  "commands.gamestage.all.target": {
+    "en": "You have unlocked all known stages!",
+    "zh": "你解锁了所有已知的游戏阶段!",
+    "vi": null
+  },
+  "commands.gamestage.all.sender": {
+    "en": "%s has unlocked all known stages!",
+    "zh": "%s 解锁了所有已知的游戏阶段!",
+    "vi": null
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Magiblade (Bí Pháp Song Đầu Kiếm)",
+  "icon": "simplyswords:magiblade",
+  "advancement": "simplyswords:magiblade",
+  "category": "simplyswords:category_unique_weapons",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:magiblade",
+      "text": "Sản vật của một nền văn minh công nghệ kỳ lạ chưa rõ nguồn gốc."
+    }
+  ]
+}

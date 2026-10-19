@@ -1,0 +1,17 @@
+{
+  "name": "thu thập linh hồn",
+  "icon": "simplyswords:soulkeeper",
+  "advancement": "simplyswords:soulkeeper",
+  "category": "simplyswords:category_unique_weapons",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:soulkeeper",
+      "text": "Người ta nói rằng Linh hồn Thu thập được làm từ một loại vật liệu bí ẩn có thể hấp thụ linh hồn của người đã khuất và thiết lập mối liên hệ trực tiếp giữa người nắm giữ và linh hồn. Những linh hồn bị hấp thụ này có thể bảo vệ người nắm giữ và hấp thụ một số sát thương."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Giải phóng oan hồn làm suy yếu và giảm tốc kẻ địch, thân chùy khảm giếng linh hồn ma mị."
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "item.tactical_imbuements.flask_of_flame": {
+    "en": "Flask of Embers",
+    "zh": "余烬瓶",
+    "vi": "Flask of Embers"
+  },
+  "item.tactical_imbuements.flask": {
+    "en": "Flask",
+    "zh": "空瓶",
+    "vi": "Flask"
+  },
+  "item.tactical_imbuements.fireflaskthrowable": {
+    "en": "FireFlaskThrowable",
+    "zh": "余烬投掷瓶",
+    "vi": "FireFlaskThrowable"
+  },
+  "item.tactical_imbuements.emptyflaskthrowable": {
+    "en": "Emptyflaskthrowable",
+    "zh": "空的投掷瓶",
+    "vi": "Emptyflaskthrowable"
+  },
+  "item.tactical_imbuements.flask_of_venom": {
+    "en": "Flask of Venom",
+    "zh": "剧毒瓶",
+    "vi": "Flask of Venom"
+  },
+  "item.tactical_imbuements.flask_of_ice": {
+    "en": "Flask of Ice",
+    "zh": "冰霜瓶",
+    "vi": "Flask of Ice"
+  },
+  "item.tactical_imbuements.flask_of_sparks": {
+    "en": "Flask of Sparks",
+    "zh": "火花瓶",
+    "vi": "Flask of Sparks"
+  },
+  "item.tactical_imbuements.venomflaskthrowable": {
+    "en": "VenomFlaskThrowable",
+    "zh": "剧毒投掷瓶",
+    "vi": "VenomFlaskThrowable"
+  },
+  "effect.tactical_imbuements.chilled": {
+    "en": "Chilled",
+    "zh": "冷冻",
+    "vi": "đóng băng"
+  },
+  "effect.tactical_imbuements.decaying": {
+    "en": "Decaying",
+    "zh": "腐朽",
+    "vi": "phân hủy"
+  }
+}

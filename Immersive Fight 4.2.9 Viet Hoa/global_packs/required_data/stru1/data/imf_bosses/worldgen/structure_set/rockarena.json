@@ -1,0 +1,14 @@
+{
+    "structures": [
+        {
+            "structure": "imf_bosses:rockarena",
+            "weight": 1
+        }
+    ],
+    "placement": {
+        "type": "minecraft:random_spread",
+        "spacing": 30,
+        "separation": 20,
+        "salt": 11912197
+    }
+}

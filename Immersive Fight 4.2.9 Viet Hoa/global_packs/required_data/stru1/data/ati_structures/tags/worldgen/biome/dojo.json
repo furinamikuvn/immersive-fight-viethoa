@@ -1,0 +1,25 @@
+{
+    "replace": false,
+    "values": [
+        "minecraft:flower_forest",
+        "minecraft:birch_forest",
+        "minecraft:old_growth_birch_forest",
+        "minecraft:windswept_forest",
+        "minecraft:cherry_grove",
+        "minecraft:windswept_hills",
+        "minecraft:taiga",
+        "minecraft:snowy_taiga",
+        "minecraft:jungle",
+        "minecraft:old_growth_spruce_taiga",
+        "minecraft:sparse_jungle",
+        "minecraft:bamboo_jungle",
+        "minecraft:savanna",
+        "minecraft:savanna_plateau",
+        "regions_unexplored:poppy_fields",
+        "regions_unexplored:rainforest",
+"biomeswevegone:prairie",
+"biomeswevegone:crimson_tundra",
+"biomeswevegone:cika_woods",
+"biomeswevegone:temperate_grove"
+    ]
+}

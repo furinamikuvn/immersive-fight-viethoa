@@ -1,0 +1,1368 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "787F35DCD2AFA778"
+	group: "645C652F9B0DFA16"
+	icon: "minecraft:saddle"
+	id: "787F35DCD2AFA778"
+	images: [{
+		click: "https://raevyx.miraheze.org/wiki"
+		height: 1.0d
+		hover: [
+			"WIKI chính thức"
+			"chi tiết đầy đủ"
+		]
+		image: "ftbteams:textures/alian.png"
+		rotation: 0.0d
+		width: 1.0d
+		x: -2.0d
+		y: 4.0d
+	}]
+	order_index: 4
+	quest_links: [ ]
+	quests: [
+		{
+			can_repeat: true
+			description: [
+				"Công tắc miễn nhiễm với sát thương thân thiện từ thú cưỡi và vật nuôi bị ràng buộc."
+				"&o&7 (Đòn tấn công cúi người của chủ nhân có thể gây sát thương trong mọi tình huống)&r&r"
+				""
+				"&e Bảo vệ thiệt hại chính: &r Mặc định: &a On&r"
+				"Nếu được bật, thiệt hại do chủ sở hữu &b là &r gây ra cho thú cưỡi và thú cưng &r của chính &b sẽ không hợp lệ."
+				"&o&7 (Sau khi bật nó lên, việc tạo "Gậy quản lý thú cưng" có thể khiến một thú cưng bị hư hỏng)&r&r"
+				""
+				"&e Bảo vệ thú cưng toàn cầu: &r Mặc định: &c Tắt &r"
+				"Nếu được bật, tất cả sát thương &r của người chơi &b đối với bất kỳ thú cưỡi và thú cưng &r nào của &b sẽ không hợp lệ."
+			]
+			disable_toast: true
+			entity_vis_size: 1.0f
+			id: "609F4EFD5AA937B2"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "3C959F4A74712A40"
+					table_id: 6841227452563934977L
+					type: "choice"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "0E31306EF4C27C55"
+					table_id: 8808504213542973760L
+					type: "choice"
+				}
+			]
+			shape: "gear"
+			tasks: [{
+				id: "2FF8B5C9033E3EA9"
+				title: "Chuyển đổi bảo vệ thú cưng"
+				type: "checkmark"
+			}]
+			x: -3.5d
+			y: 0.0d
+		}
+		{
+			description: [
+				"{entity:alexscaves:candicorn ent_size:0.4 off_x:0.0 off_y:0.0 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"
+				"Để biết chi tiết, vui lòng xem chương: Alex Cave-Candy Caries Cave với kỹ năng chạy nước rút"
+			]
+			entity_vis_size: 1.0f
+			icon: "born_in_chaos_v1:holiday_candy"
+			id: "32494AB5B2F5AE81"
+			tasks: [{
+				id: "4CEE9D2E95A7A890"
+				type: "checkmark"
+			}]
+			title: "Kỳ lân kẹo"
+			x: -2.0d
+			y: -2.0d
+		}
+		{
+			description: [
+				"{entity:alexscaves:tremorzilla ent_size:0.7 off_x:0.0 off_y:0.0 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"
+				""
+				"Xem Hang Alex để biết chi tiết"
+			]
+			entity_vis_size: 1.0f
+			icon: "alexscaves:tremorzilla_egg"
+			id: "43EB98347F73E78E"
+			tasks: [{
+				id: "0034485DF789B4F5"
+				type: "checkmark"
+			}]
+			title: "Tesla"
+			x: 1.0d
+			y: -1.0d
+		}
+		{
+			description: [
+				"{entity:wom:lupus_rex ent_size:0.5 off_x:0.0 off_y:0.0 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"
+				"Tạo ra một cách tự nhiên trong bất kỳ quần xã taiga &a nào &r"
+				"Khả năng nhảy và chiến đấu"
+				"Bạn cần phải thách thức nó và giảm lượng máu của nó xuống dưới 30%"
+				"Sử dụng &e để phù phép táo vàng &r để thuần hóa"
+				""
+				"&7 Bạn cần ra lệnh bằng cách gõ đoạn hội thoại vào hộp trò chuyện"
+				"&7&o [Có thể có LỖI tiềm ẩn, ​​nên chỉ sử dụng hệ thống gắn phím Z để kiếm và giải phóng]"
+				"&7 gõ lupus mane vào hộp trò chuyện và ra lệnh ngồi xuống"
+				"&7lupus veni đến đây lupus sequi theo dõi"
+				"&7lupus lang thang tự do dạo chơi"
+				"&7lupus impetus Hostilis tích cực tấn công các sinh vật thù địch&r&r"
+				""
+				""
+				"Đối với con sói vàng nhỏ,"
+				"Bạn cần nhấn và giữ để lẻn vào chế độ chơi"
+				"Hãy thử nhảy và các hành động khác để chơi với nó nhằm tăng tốc độ phát triển của nó"
+			]
+			entity_vis_size: 1.0f
+			icon: "alexscaves:heavy_bone"
+			id: "3AB60263E4F35A99"
+			tasks: [{
+				id: "291F8B1F2C74DBB0"
+				type: "checkmark"
+			}]
+			title: "sói vàng"
+			x: 0.0d
+			y: -2.0d
+		}
+		{
+			description: [
+				"Gắn kết dưới nước, tốc độ chèo thuyền nhanh hơn"
+				""
+				"Phương pháp thuần hóa: Dùng kéo và rìu để làm sạch các mảnh vụn trên lưng cá voi lưng lái"
+				"Sau đó, nhấp chuột phải vào Rudderback để đặt yên và bộ ván;"
+				""
+				"Điều khiển: Bạn cần đặt bánh lái ở vị trí có sẵn trên boong tàu"
+				""
+				"Chức năng: Bạn cũng có thể đặt các cánh buồm, mỗi cánh buồm có thể tăng tốc độ di chuyển"
+				"&o&7 (Sinh vật này rất đặc biệt và sẽ không được đưa vào khu quản thúc trong thời gian hiện tại)&r&r"
+			]
+			entity_vis_size: 1.0f
+			icon: "whaleborne:helm"
+			id: "74F2EE2A307EB003"
+			tasks: [
+				{
+					id: "537489207298904A"
+					type: "checkmark"
+				}
+				{
+					id: "3227D68927724D76"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "whaleborne:helm"
+					}
+					type: "item"
+				}
+				{
+					id: "52E202E21FDD7FED"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "whaleborne:sail"
+					}
+					type: "item"
+				}
+			]
+			title: "cá voi lưng lái"
+			x: 2.0d
+			y: -2.0d
+		}
+		{
+			description: [
+				"Có thể dùng làm thú cưng (linh vật),"
+				"Nhấp chuột phải vào trứng rồng sau khi đặt nó như trong hình"
+				"{image:ftbteams:textures/abacccc3.png width:100 height:100 align:1}"
+				"Nó không thể lớn lên và có thể bị bỏ vào thùng sắt."
+				"Cho ăn hoa đồng ca &d &r có khả năng sinh ra trứng rồng &d"
+			]
+			disable_toast: true
+			entity_vis_size: 1.0f
+			icon: "minecraft:dragon_egg"
+			id: "00115E975AFF6426"
+			rewards: [{
+				id: "75A89AC4907D73D1"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			tasks: [{
+				id: "5E2815514D5729AB"
+				item: "minecraft:dragon_egg"
+				type: "item"
+			}]
+			title: "Ender "Rồng""
+			x: 4.0d
+			y: -1.5d
+		}
+		{
+			description: [
+				"{entity:species:cruncher ent_size:0.6 off_x:0.0 off_y:0.0 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"
+				"Quần xã sinh vật lưu vực Hell Blackstone được làm mới"
+				"&b\"Sự thèm ăn của người háu ăn\":&r"
+				"Khi chiến đấu với kẻ háu ăn, nó sẽ đói và choáng váng."
+				"Việc nạp thức ăn vào thanh Boss sẽ giảm đi. Khi thanh BOSS được xóa và thuần hóa thành công,"
+				""
+				"Được sử dụng để tạo ra quái vật &e rơi ra &r:"
+				"Nhấp chuột phải để mở kho đồ của nó và bỏ vào những vật phẩm rơi ra từ quái vật tương ứng."
+				"Nó tạo ra những cục phân động vật háu ăn mỗi sáng,"
+				"Đào chiến lợi phẩm &r sẽ rơi ra một lượng lớn &e sinh vật đó."
+				"&b (ví dụ: đổ máu sợ hãi và tạo ra zombie)&r"
+				"&b (ví dụ: đặt một viên ngọc lục bảo và tạo ra đồ cướp bóc)&r"
+				"&o&7 (Sinh vật này rất đặc biệt và sẽ không được đưa vào khu quản thúc trong thời gian hiện tại)&r&r"
+			]
+			entity_vis_size: 1.0f
+			icon: "species:cruncher_egg"
+			id: "4FB82268FC392F10"
+			tasks: [{
+				id: "243B2B60A286AB9F"
+				title: "Thu phục một kẻ háu ăn"
+				type: "checkmark"
+			}]
+			title: "kẻ háu ăn"
+			x: 3.0d
+			y: -0.5d
+		}
+		{
+			description: ["{entity:cataclysm:modern_remnant ent_size:0.5 off_x:0.0 off_y:0.0 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"]
+			entity_vis_size: 1.0f
+			id: "6DA85EA2B2081BD7"
+			tasks: [{
+				id: "254188A228A7ADF2"
+				item: "cataclysm:remnant_skull"
+				type: "item"
+			}]
+			title: "Linh hồn sống"
+			x: 5.0d
+			y: -0.5d
+		}
+		{
+			description: ["{entity:cataclysm:netherite_ministrosity ent_size:0.5 off_x:0.0 off_y:0.0 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"]
+			entity_vis_size: 1.0f
+			id: "7D0A58EA2369FC79"
+			tasks: [{
+				id: "450F2FF6CC487B73"
+				item: "cataclysm:netherite_effigy"
+				type: "item"
+			}]
+			title: "Quái vật Netherite"
+			x: 4.0d
+			y: 0.5d
+		}
+		{
+			description: [
+				"Sau khi được đặt vào thế giới khoảng mười phút, nó sẽ vỡ tung và nở thành một em bé Leviathan."
+				""
+				"Cho cá nhiệt đới ăn để thuần hóa"
+				"{entity:cataclysm:the_baby_leviathan ent_size:0.5 off_x:0.0 off_y:0.0 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"
+			]
+			entity_vis_size: 1.0f
+			id: "355A170F9D60BB69"
+			tasks: [{
+				id: "10CDADFA58ABE87C"
+				item: "cataclysm:abyssal_egg"
+				type: "item"
+			}]
+			title: "Leviathan trẻ"
+			x: 4.0d
+			y: -0.5d
+		}
+		{
+			description: [
+				"{entity:saintsdragons:cindervane ent_size:0.2 off_x:0.0 off_y:0.0 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"
+				"Quần xã sinh vật miền núi được làm mới"
+				""
+				"Cho cá tuyết/cá hồi/thức ăn rồng giàu dinh dưỡng trực tiếp, xác suất thuần hóa"
+				"=============================="
+				"&e[Khả năng - Thao tác chính] &r"
+				"&b [Nhấp chuột trái] &r: Cắn. Nhấn &b [chuột phải] &r để chuyển sang chém và tóm."
+				"&b[C]&r - Đòn đánh kép: Cắn hai lần liên tiếp."
+				"&b[X]&r - Đốt cháy: Hãy tự thiêu. Nó lao xuống từ trên trời trong khi đang bốc cháy, gây ra một vụ nổ lớn."
+				"&b[V]&r - Magma Volley: Phun ra tổng cộng chín khối magma trong ba lần."
+			]
+			entity_vis_size: 1.0f
+			icon: "saintsdragons:cindervane_binder"
+			id: "41002B421B8B97A7"
+			tasks: [{
+				id: "31ED93282DE0EA2A"
+				type: "checkmark"
+			}]
+			title: "Rồng lông ember"
+			x: -2.0d
+			y: 0.5d
+		}
+		{
+			can_repeat: true
+			description: [
+				"Lấy vảy rồng: Giết một con rồng hoặc sử dụng bàn chải vảy rồng trên một con rồng đã được thuần hóa"
+				"{entity:saintsdragons:ignivorus ent_size:0.4 off_x:0.0 off_y:0.0 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"
+				"Đi đến Triệu hồi Kích thước Đấu trường"
+				""
+				"Lượng máu ít hơn một phần ba"
+				"Cho cá tuyết/cá hồi/thức ăn giàu dinh dưỡng cho rồng để thuần hóa theo xác suất"
+				"=============================="
+				"&e[Khả năng - Thao tác chính] &r"
+				"&b Nhấp đúp vào &b [S] &r: &r để vào tư thế đứng."
+				"&b [Chuột trái] Nhấn &b [chuột phải] &r để chuyển sang tư thế bò, đập thân/đứng giẫm."
+				"&b[C]&r - Gầm: Triệu hồi tổng cộng chín cột magma trên mặt đất trong ba lần. Nhấn và giữ &b [C] &r để sạc ba cấp độ quả cầu lửa. Cấp độ càng cao thì sức mạnh của nó càng mạnh."
+				"&b[X]&r - Hơi thở lửa: Nhấn và giữ để phun ra một luồng lửa. Nhấn và giữ lâu hơn để phá hủy khối."
+				"&b(V)&r - Siêu tân tinh: Gây ra một vụ nổ lớn. Tiêu hao sức khỏe của chính bạn và ngay lập tức tiêu diệt các sinh vật xung quanh. Tư thế đứng là ngay lập tức, không có cú xoay về phía trước."
+				"&b [Nhấp đúp W] &r: Tư thế bò để vào trạng thái lao máy ủi (nhấp đúp lần nữa để thoát) / tư thế đứng nhảy đập thân."
+			]
+			entity_vis_size: 1.0f
+			icon: "saintsdragons:ignivorus_binder"
+			id: "770BF16DBB550E98"
+			rewards: [{
+				id: "59049806E22EBC82"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "fight_more:entity_spawner"
+					tag: {
+						SummonBoss: "saintsdragons:ignivorus"
+					}
+				}
+				team_reward: false
+				type: "item"
+			}]
+			tasks: [
+				{
+					consume_items: true
+					disable_toast: true
+					id: "085E962B6F23BBEF"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "saintsdragons:raevyx_scale"
+					}
+					type: "item"
+				}
+				{
+					consume_items: true
+					disable_toast: true
+					id: "1A0F7E39118F9B90"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "saintsdragons:cindervane_scale"
+					}
+					type: "item"
+				}
+				{
+					consume_items: true
+					disable_toast: true
+					id: "5FCB7C1307A10BE5"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "saintsdragons:varasuchus_scale"
+					}
+					type: "item"
+				}
+				{
+					consume_items: true
+					disable_toast: true
+					id: "35DBB5B0E9B5DCF3"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "saintsdragons:stegonaut_scale"
+					}
+					type: "item"
+				}
+				{
+					consume_items: true
+					disable_toast: true
+					id: "6931AA4D472129E1"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "saintsdragons:volitans_scale"
+					}
+					type: "item"
+				}
+				{
+					consume_items: true
+					disable_toast: true
+					id: "5D6C079E6AADCC0E"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "saintsdragons:atroxiia_scale"
+					}
+					type: "item"
+				}
+			]
+			title: "Rồng ăn lửa"
+			x: 1.0d
+			y: 1.5d
+		}
+		{
+			description: [
+				"{entity:saintsdragons:raevyx ent_size:0.4 off_x:0.0 off_y:0.0 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"
+				"Hầu hết các quần xã như đồng bằng, lãnh nguyên và núi đã được làm mới"
+				"Phải là: thời tiết giông bão"
+				""
+				"Chiến đấu cho đến khi sức khỏe của bạn giảm xuống dưới 60"
+				"Cho cá tuyết/cá hồi/thức ăn giàu dinh dưỡng cho rồng để thuần hóa theo xác suất"
+				"=============================="
+				"&e[Khả năng - Thao tác chính] &r"
+				"&b [Chuột trái] &r: Cắn bằng tia sét. Nhấn &b [nhấp chuột phải] &r để chuyển sang quá trình đâm thủng góc."
+				"&b [C] &r - Gầm: Nếu kẻ địch có ác cảm với rồng hoặc chủ nhân của nó, hãy triệu hồi 2 đến 5 tia sét để tấn công."
+				"&b(X)&r - Beam: Nhấn và giữ để bắn ra một tia sét có sức tàn phá khủng khiếp."
+				"&b[V]&r - Triệu hồi Bão tố: Thuộc tính tăng gấp đôi, bầu trời đổi màu. Để trong 1 phút, để nguội trong 5 phút."
+				"&b 【Nhấn và giữ V】(Mặt đất)&r - Tách mặt đất"
+				"&b [Nhấp đúp vào A/S/D] &r - Né sang trái/sau/phải. &b [Chạm hai lần W] &r - Lao về phía trước, gây sát thương khi ở trên mặt đất. Chỉ có thể né tránh trên không."
+			]
+			entity_vis_size: 1.0f
+			icon: "saintsdragons:raevyx_binder"
+			id: "4E465D45879B413B"
+			tasks: [{
+				id: "52F98E5CD6961597"
+				type: "checkmark"
+			}]
+			title: "Âm Lôi Long"
+			x: -2.0d
+			y: 1.5d
+		}
+		{
+			description: [
+				"{entity:saintsdragons:varasuchus ent_size:0.4 off_x:0.0 off_y:0.0 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"
+				"Làm mới quần xã bãi biển, bãi biển, đầm lầy và vùng đất ngập nước"
+				"Cấu trúc: Tổ Crouchosaurus phải được tạo"
+				""
+				"Liên tục cưỡi và thuần hóa"
+				"=============================="
+				"&e[Khả năng - Thao tác chính] &r"
+				"&b [Nhảy] &r: Con rồng này có thể nhảy giống như con ngựa ban đầu."
+				"&b [Nhấp chuột trái] &r: Cắn. Nhấn &b [nhấp chuột phải] &r để chuyển sang quá trình đâm thủng góc."
+				"&b[V]&r - Chuyển pha: Vào tư thế đứng. Không còn lòng thương xót nữa. Chuyển đổi từ dạng bốn chân sang dạng đứng hai chân."
+				"&b [Nhấn lâu C] &r: Chặn đuôi và đỡ đòn. Khi nhấn lâu,"
+				"Crouchosaurus chuyển sang tư thế phòng thủ và miễn nhiễm với sát thương. Nếu bạn bị tấn công trong khi phòng thủ"
+				"Tấn công sẽ kích hoạt đòn đỡ, đẩy lùi tất cả kẻ thù và gây sát thương."
+				"&b [Đế C] &r: Tung ra một loạt nhát chém."
+				"&b [X] &r: Bò là tấn công bằng đuôi, đứng là tấn công bằng móng vuốt."
+				"&b [Nhấp đúp vào W] &r: Bò có nghĩa là chạy nước rút về phía trước và quét bằng cú vẫy đuôi."
+				"Đứng để lao về phía trước và tấn công bằng móng vuốt."
+			]
+			entity_vis_size: 1.0f
+			icon: "saintsdragons:varasuchus_binder"
+			id: "62570DBFC0C8E0D1"
+			tasks: [{
+				id: "0D0DA6D64B6B536D"
+				type: "checkmark"
+			}]
+			title: "khủng long khủng long"
+			x: -1.0d
+			y: 0.5d
+		}
+		{
+			description: [
+				"{entity:saintsdragons:stegonaut ent_size:0.4 off_x:0.0 off_y:0.0 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"
+				"Những hang động tươi tốt và những đồng cỏ trơ trụi được làm mới"
+				""
+				"Cho cá tuyết/cá hồi/thức ăn rồng giàu dinh dưỡng trực tiếp, xác suất thuần hóa"
+				"=============================="
+				"&e[Khả năng - Thao tác chính] &r"
+				"&b [Nhảy] &r: Con rồng này có thể nhảy giống như con ngựa ban đầu."
+				"&b [Nhấp chuột trái] &r: Cắn. Nhấn &b [nhấp chuột phải] &r để chuyển sang chế độ búa hàm."
+				"&b [Nhấn lâu X] &r: Nuốt khối và bắn ra."
+				"&b [Nhấn và giữ V] &r: thực hiện cú đập mạnh,"
+				"Đẩy lùi thực thể. Nếu tiếp tục nhấn và giữ &b [V] &r, đòn thứ hai sẽ được tung ra, mạnh hơn và triệu hồi một cây cột thạch anh tím, đồng thời gây sát thương và đẩy lùi."
+			]
+			entity_vis_size: 1.0f
+			icon: "saintsdragons:stegonaut_binder"
+			id: "0BD0EBFF39CE1B77"
+			tasks: [{
+				id: "2493D4F57616E4D7"
+				type: "checkmark"
+			}]
+			title: "Ankylosaurus"
+			x: 0.0d
+			y: 0.5d
+		}
+		{
+			description: [
+				"{entity:saintsdragons:volitans ent_size:0.4 off_x:0.0 off_y:0.0 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"
+				"Làm mới taxa biển"
+				""
+				"Chiến đấu cho đến khi sức khỏe của bạn giảm xuống dưới 60"
+				"Cho cá tuyết/cá hồi/thức ăn giàu dinh dưỡng cho rồng để thuần hóa theo xác suất"
+				"=============================="
+				"&e[Khả năng - Thao tác chính] &r"
+				"&b [Nhấp chuột trái] &r: Cắn. Nhấn &b [nhấp chuột phải] &r để chuyển sang quá trình đâm thủng góc."
+				"&b [Nhấn lâu X] &r: Hơi thở tia nước. Trong quá trình phun, nhấn &b [nhấp chuột phải] &r để chuyển sang hơi thở nọc độc."
+				"&b[X]&r - Tấn công bằng móng vuốt: Tấn công kẻ thù bằng móng vuốt."
+				"&b[C]&r - Gầm: Bắn gai độc, đầu độc và làm choáng kẻ địch."
+				"&b [Nhấn lâu C] &r - Quả cầu độc được tích điện, thả ra và bắn ra."
+				"&b [V] (Mặt đất) &r: Rồng sư tử chui xuống đất. Nhấn &b[V]&r lần nữa để lao lên khỏi mặt đất, hất kẻ địch lên không trung và gây sát thương lớn."
+				"&b[V] (không khí)"
+				"&b [Nhấp đúp A] &r - Né sang trái &b [Nhấp đúp D] &r - Né sang phải"
+				"&b [Nhấp đúp W] &r - Tấn công lướt&b [Nhấp đúp S]"
+			]
+			entity_vis_size: 1.0f
+			icon: "saintsdragons:volitans_binder"
+			id: "6A5BEC26D09B9480"
+			tasks: [{
+				id: "443C41974A65CF08"
+				type: "checkmark"
+			}]
+			title: "cá sư tử"
+			x: -1.0d
+			y: 1.5d
+		}
+		{
+			description: [
+				"{entity:saintsdragons:nulljaw ent_size:0.2 off_x:0.0 off_y:0.0 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"
+				"Đảo sa mạc cuối, Rừng hợp xướng, Rừng bóng tối"
+				""
+				"Cho ăn trái cây hợp xướng trực tiếp để thuần hóa"
+				"=============================="
+				"&e[Khả năng - Thao tác chính] &r"
+				"&b [Click chuột trái] &r: Cắn"
+				"&b[C]&r - Dịch chuyển tức thời: Khi mang theo chủ nhân, chủ nhân sẽ được dịch chuyển cùng với chính mình."
+				"&b[V]&r - Tàng hình: Đi vào trạng thái vô hình cùng với chủ nhân mà nó mang theo. Nhấn &b[V]&r lần nữa để trở về trạng thái hiển thị."
+			]
+			entity_vis_size: 1.0f
+			icon: "saintsdragons:nulljaw_binder"
+			id: "793AAE790E8D16CB"
+			tasks: [{
+				id: "112E2472E12C3ABE"
+				type: "checkmark"
+			}]
+			title: "tiền điện tử"
+			x: 1.0d
+			y: 0.5d
+		}
+		{
+			description: [
+				"&e(Thánh Long Mod) &r"
+				"Sau khi bạn thuần hóa rồng, trạng thái thông tin của rồng sẽ được hiển thị trong sách."
+				""
+				"Phím kỹ năng&b[X][C][V]&r"
+				"Phím tấn công &b [chuột trái] &r"
+				"Công tắc chế độ tấn công &b [nút chuột phải] &r"
+				"Chuyển thanh sức khỏe thú cưỡi sang hiển thị &b [F4] &r"
+				"Tiếng rồng gầm&b[Ctrl+4]&r"
+			]
+			entity_vis_size: 1.0f
+			id: "677CA30E5B6487BD"
+			shape: "square"
+			tasks: [{
+				id: "20AA4982D6A57048"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "saintsdragons:draconic_codex"
+				}
+				type: "item"
+			}]
+			x: -2.0d
+			y: 3.0d
+		}
+		{
+			description: [
+				"{entity:born_in_chaos_v1:lords_felsteed ent_size:0.4 off_x:0.0 off_y:0.0 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"
+				""
+				"Để biết chi tiết, xem Chương: Sinh ra trong hỗn loạn Đánh bại BOSS Bí ngô"
+				"Có khả năng đi trên dung nham/nước"
+			]
+			entity_vis_size: 1.0f
+			icon: "born_in_chaos_v1:lord_pumpkinheads_lamp"
+			id: "1957098E4424DDED"
+			tasks: [{
+				id: "23C58743A0316A1E"
+				type: "checkmark"
+			}]
+			title: "Ngựa quỷ"
+			x: 1.0d
+			y: -2.0d
+		}
+		{
+			entity_vis_size: 1.0f
+			icon: "fight_more:friendly_ring"
+			id: "34E22318E3281982"
+			rewards: [{
+				id: "5A216D9540DC89FD"
+				item: "fight_more:friendly_ring"
+				type: "item"
+			}]
+			shape: "square"
+			tasks: [
+				{
+					id: "019350B8D4A7C04E"
+					item: "cataclysm:modern_remnant_bucket"
+					type: "item"
+				}
+				{
+					id: "29DE242BE0F1473F"
+					item: "cataclysm:netherite_ministrosity_bucket"
+					type: "item"
+				}
+				{
+					id: "6D8C23C700944192"
+					item: "dracolotl:bucket_of_dracolotl"
+					type: "item"
+				}
+				{
+					id: "631BCA2D975F058E"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "cataclysm:the_baby_leviathan_bucket"
+					}
+					type: "item"
+				}
+			]
+			title: "Nhẫn phục hồi sự sống II"
+			x: 4.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["3F0509147FA1B7FD"]
+			description: [
+				"{entity:alexscaves:hullbreaker ent_size:0.4 off_x:0.0 off_y:0.0 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"
+				"Thú cưỡi dưới nước có khả năng lặn"
+				" "
+				"Danh sách BOSS"
+				"Nhận phần thưởng thú cưỡi sau khi đánh bại BOSS&e Shipbreaker &r"
+				"&o&7 (Núi trên đại dương, vui lòng thu thập phần thưởng dưới nước)&r&r"
+			]
+			entity_vis_size: 1.0f
+			icon: "alexscaves:immortal_embryo"
+			id: "494B57B10CEAF18A"
+			rewards: [{
+				command: "/mytamed @s alexscaves:hullbreaker"
+				elevate_perms: true
+				icon: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "minecraft:saddle"
+					tag: { }
+				}
+				id: "14D357AF0DCD6384"
+				team_reward: false
+				title: "Phần thưởng thú cưỡi: Phá tàu"
+				type: "command"
+			}]
+			tasks: [{
+				id: "6549FE7FB79B07AA"
+				type: "checkmark"
+			}]
+			title: "thợ phá tàu"
+			x: -2.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["47D851969B3A6977"]
+			description: [
+				"{entity:monsterexpansion:rhyza ent_size:0.4 off_x:0.0 off_y:0.0 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"
+				"Danh sách BOSS"
+				"Nhận phần thưởng thú cưỡi sau khi đánh bại BOSS&e Quái Thú Vuốt Sắc &r"
+			]
+			entity_vis_size: 1.0f
+			icon: "monsterexpansion:rhyza_fur"
+			id: "596908FB8924915D"
+			rewards: [{
+				command: "/mytamed @s monsterexpansion:rhyza"
+				elevate_perms: true
+				icon: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "minecraft:saddle"
+					tag: { }
+				}
+				id: "0CDE537F0BD56FC6"
+				team_reward: false
+				title: "Phần thưởng thú cưỡi: Vuốt Sắc"
+				type: "command"
+			}]
+			tasks: [{
+				id: "65A28D1A9D67DF03"
+				type: "checkmark"
+			}]
+			title: "Vuốt Sắc"
+			x: -1.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["15927BF01900C62B"]
+			description: [
+				"{entity:monsterexpansion:skrythe ent_size:0.4 off_x:0.0 off_y:0.0 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"
+				"Danh sách BOSS"
+				"Nhận phần thưởng thú cưỡi sau khi đánh bại BOSS&e Si Konglong &r"
+			]
+			entity_vis_size: 1.0f
+			icon: "monsterexpansion:skrythe_frill"
+			id: "0D4306DBF047B998"
+			rewards: [{
+				command: "/mytamed @s monsterexpansion:skrythe"
+				elevate_perms: true
+				icon: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "minecraft:saddle"
+					tag: { }
+				}
+				id: "5ECD35D9A8D5DCDA"
+				team_reward: false
+				title: "Phần thưởng gắn kết: Si Konglong"
+				type: "command"
+			}]
+			tasks: [{
+				id: "1B60D4AE01027366"
+				type: "checkmark"
+			}]
+			title: "Si Konglong"
+			x: 0.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["3DAFBD32E795E710"]
+			description: [
+				"{entity:monsterexpansion:arborix ent_size:0.5 off_x:0.0 off_y:0.0 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"
+				"Danh sách BOSS"
+				"Nhận phần thưởng thú cưỡi sau khi tiêu diệt &e Chim lông cháy &r&r"
+				"(Nếu gặp những con hoang dã, bạn có thể dùng thịt bò sống để thuần hóa chúng)"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "monsterexpansion:ignathos_feather"
+				tag: { }
+			}
+			id: "3FF7B1A18407BE5B"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "23B0462B5ABCAF9A"
+					table_id: 379931047351005260L
+					team_reward: false
+					title: "Phần thưởng gắn kết: Ngọc Long ngồi trên gỗ"
+					type: "choice"
+				}
+				{
+					id: "560DA9EEBA38E2C0"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "monsterexpansion:arborix_royal_cosmetic_head"
+						tag: { }
+					}
+					type: "item"
+				}
+				{
+					id: "7EF93DED7B93DD5C"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "monsterexpansion:arborix_tophat_cosmetic_head"
+						tag: { }
+					}
+					type: "item"
+				}
+				{
+					id: "5776EA4998019A6F"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "monsterexpansion:arborix_skull_cosmetic_head"
+						tag: { }
+					}
+					type: "item"
+				}
+				{
+					id: "1E58D80F950487AF"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "monsterexpansion:arborix_royal_cosmetic_chest"
+						tag: { }
+					}
+					type: "item"
+				}
+				{
+					id: "2FC0C44C68E2CC3E"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "monsterexpansion:arborix_royal_cosmetic_tail"
+						tag: { }
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "5D81B05CFBE90863"
+				title: "Ngọc Long sống trong rừng"
+				type: "checkmark"
+			}]
+			x: -1.0d
+			y: -2.0d
+		}
+		{
+			description: [
+				"Khi bạn thuần hóa &e và gắn &r lên thú cưỡi của mình,"
+				"Nó sẽ tự động được đưa vào danh sách gắn kết của bạn."
+				""
+				"Nhấn vào &b [Phím Z] &r để triệu hồi thú cưỡi hiện tại"
+				"Nhấn và giữ &b [phím Z] &r để gọi ra roulette lựa chọn (nhấp chuột trái để triệu hồi hoặc thu hồi)"
+				""
+				"Trong giao diện roulette nhấn &b [chuột phải] &r để vào giao diện quản lý"
+				""
+				"Nhấp chuột phải vào mục &r trong giao diện quản lý để xóa &e và nhả ngàm &r"
+				"&o&7 (Cũng có thể mở roulette chọn thú cưng bằng cách nhấp vào giao diện này hoặc có thể đặt riêng các phím tắt."
+				"============================================="
+				"Tên module: Findme Module tác giả Trạm B: Litter Flower"
+				"Mod Guochuang có thể hỗ trợ tác giả và đưa ra gợi ý."
+				"(Gói tích hợp chứa phiên bản cũ của &c và &r và đã sửa đổi &c và không thể tự cập nhật &r)"
+				"(Nếu bạn gặp vấn đề &c, vui lòng không &r và báo cáo cho tác giả mod!)&r"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "minecraft:saddle"
+				tag: { }
+			}
+			id: "04096F8BBD8C637C"
+			tasks: [{
+				id: "2DF854B1C3AD3AF6"
+				type: "checkmark"
+			}]
+			title: "Giới thiệu về hệ thống gắn kết"
+			x: -3.5d
+			y: -1.0d
+		}
+		{
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "saintsdragons:blood_tempest_helmet"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "0F45C8A31C737814"
+			shape: "square"
+			tasks: [
+				{
+					id: "3A72F35E1852CE24"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "saintsdragons:blood_tempest_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "63FDFB9671222E11"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "saintsdragons:blood_tempest_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "2F2758FCB856DC85"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "saintsdragons:blood_tempest_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "12DA68F57983CDAE"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "saintsdragons:blood_tempest_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "61FCD762860DD39D"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "saintsdragons:blood_tempest_katana"
+						tag: {
+							Damage: 0
+							itemModifier: "modifiers:swift"
+						}
+					}
+					type: "item"
+				}
+			]
+			x: 1.0d
+			y: 4.0d
+		}
+		{
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "saintsdragons:dragonlord_helmet"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "3DC027BCA384FF8F"
+			shape: "square"
+			tasks: [
+				{
+					id: "1CD63924E0D29EB0"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "saintsdragons:dragonlord_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "6B06CD73677058B3"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "saintsdragons:dragonlord_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "13D39F90CE42AB46"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "saintsdragons:dragonlord_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "2E9F9E63E37BC099"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "saintsdragons:dragonlord_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "4DA8BCF0E266A317"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "saintsdragons:dragonlord_sword"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 4.0d
+		}
+		{
+			description: [
+				""
+				"Lò luyện rồng &e: &r được sử dụng để nấu chảy vật liệu Mod và chế tạo vũ khí, thiết bị của Mod này. Nhiên liệu khác nhau cung cấp mức nhiệt khác nhau."
+			]
+			entity_vis_size: 1.0f
+			icon: "saintsdragons:draconic_crucible"
+			id: "095E89CD5D8200A9"
+			shape: "square"
+			tasks: [{
+				id: "1048D83DE5127239"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "saintsdragons:draconic_crucible"
+				}
+				type: "item"
+			}]
+			x: -1.0d
+			y: 4.0d
+		}
+		{
+			description: [
+				"Các mảnh xương rồng cổ &e: &r chủ yếu xuất hiện ở các thành phố cổ, tàn tích pháo đài và hộp pháo đài địa ngục"
+				"&e Dragon Prisoner Orb: &r thường xuất hiện trong các hộp di tích như thành phố cổ, thư viện pháo đài và biệt thự trong rừng."
+				"&e Nguồn gốc của thế giới thô sơ: &r Quặng thế giới chính, chủ yếu được tạo ra ở các vùng đá sâu trong khoảng từ Y=-59 đến -50"
+				"Trái tim rồng lớn &e: Quặng cuối &r, được tạo ra ở khu vực lộ thiên ở đáy của hòn đảo bên ngoài của phần cuối"
+				"&e thịt ác quỷ: Nhóm quái vật ác độc &r giảm xuống, cấu trúc cuối cùng: lõi ác ác sinh ra"
+			]
+			entity_vis_size: 1.0f
+			id: "48EE11AF01E853BE"
+			shape: "square"
+			tasks: [
+				{
+					id: "68F401B73533E3D9"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "saintsdragons:ancient_dragonite_fragment"
+					}
+					type: "item"
+				}
+				{
+					id: "7604E84F6FE2B7B7"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "saintsdragons:dragon_seal_stone"
+					}
+					type: "item"
+				}
+				{
+					id: "2FA4FF393CDF2C04"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "saintsdragons:raw_worldroot"
+					}
+					type: "item"
+				}
+				{
+					id: "767D4872B7AA6093"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "saintsdragons:dragonheart_chunk"
+					}
+					type: "item"
+				}
+				{
+					id: "3E693D94CE1431C3"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "saintsdragons:draconian_flesh"
+					}
+					type: "item"
+				}
+			]
+			title: "Mua lại vật liệu"
+			x: -1.0d
+			y: 3.0d
+		}
+		{
+			description: [
+				"{entity:saintsdragons:atroxiia ent_size:0.4 off_x:0.0 off_y:0.0 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"
+				"Tạo ra các quần xã sinh vật lạnh, bãi tuyết, lãnh nguyên và quần xã vùng đất cằn cỗi"
+				""
+				"Chiến đấu cho đến khi sức khỏe của bạn giảm xuống dưới 60"
+				"Cho cá tuyết/thịt bò sống/gà/thức ăn giàu dinh dưỡng cho rồng để thuần hóa xác suất"
+				"=============================="
+				"&e[Khả năng - Thao tác chính] &r"
+				"&b [Chuột trái] &r: Đập một cánh tay xuống đất, gây sát thương cao ở cự ly gần. Nhấn &b [chuột phải] &r để chuyển sang chém quét diện rộng."
+				"&b 【C】"
+				"&b [X]"
+				"&b [Nhấn lâu X] &r - Tấn công chính xác: Là sự kết hợp của nhiều đòn tấn công ngắn liên tiếp. Mỗi đòn đánh sẽ đóng băng mục tiêu, làm mục tiêu yếu đi và chậm lại."
+				"&b [V] Khi nhấn lâu, việc nâng đuôi lên sẽ tạo ra làn sóng xung kích băng giá thứ hai."
+			]
+			entity_vis_size: 1.0f
+			icon: "saintsdragons:atroxiia_binder"
+			id: "2E71D3291ACF5955"
+			tasks: [{
+				id: "288A2EBA75E2FA67"
+				type: "checkmark"
+			}]
+			title: "Rồng thanh thản"
+			x: 0.0d
+			y: 1.5d
+		}
+		{
+			description: [
+				"Sử dụng cọ vảy rồng trên con rồng đã được thuần hóa để thu được vảy rồng tương ứng."
+				"Thời gian hồi chiêu sẽ được hiển thị trong Dragon Clan Tome."
+				""
+				"Kìm vảy rồng có thể loại bỏ vảy rồng một cách mạnh mẽ."
+			]
+			entity_vis_size: 1.0f
+			id: "0CB8D2F8967BC41C"
+			shape: "square"
+			tasks: [
+				{
+					id: "643723033D291593"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "saintsdragons:dragon_brush"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "28387998F0525F44"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "saintsdragons:golden_dragon_brush"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "75B75F8BC987959F"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "saintsdragons:scale_plucker"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			description: [
+				"Lấy trứng rồng &e &r: Những cá thể cái giết nhiều con rồng khác nhau có xác suất rơi ra trứng rồng."
+				"Trứng rồng &e nở: &r có thể được đặt trên mặt đất và đợi, thường là từ một đến hai mươi phút."
+				"Lưu ý hầu hết trứng rồng sẽ bị giẫm nát thành từng mảnh"
+				"Khai quật đòi hỏi phải thu thập chính xác"
+				""
+				"Trứng rồng Yin Lei nở với tốc độ nhanh trong cơn giông bão và chúng nở ngay sau khi bị sét đánh."
+				"Trứng rồng cá sư tử cần được đặt trong nước."
+				"Trứng của Flame Eater phải được đặt trong lồng ấp."
+				""
+				"Chú rồng con có thể nhảy theo máy ghi âm."
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "saintsdragons:ignivorus_egg"
+			}
+			id: "12BBE79307409217"
+			shape: "square"
+			tasks: [
+				{
+					id: "2481A1754F6CBD0E"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "saintsdragons:ignivorus_egg"
+					}
+					type: "item"
+				}
+				{
+					id: "14BBEC7235B7BFD8"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "saintsdragons:ignivorus_incubator_block"
+					}
+					type: "item"
+				}
+			]
+			title: "Liên quan đến trứng rồng"
+			x: 1.0d
+			y: 3.0d
+		}
+	]
+	title: "Thú cưỡi và thú cưng"
+}

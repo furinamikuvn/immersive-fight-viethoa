@@ -1,0 +1,10 @@
+{
+  "fantasy_armor:twinned_chestplate":[
+    {
+      "attribute": "minecraft:generic.max_health",
+      "value": 2,
+      "operation": "ADDITION",
+      "slot": "chest"
+    }
+  ]
+}

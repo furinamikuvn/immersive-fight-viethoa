@@ -1,0 +1,1512 @@
+{
+  "advancements.naraka.challengers_blessing.description": {
+    "en": "Get challenger's blessing with full armor of soul armor and sword",
+    "zh": "穿戴全套纯粹灵魂盔甲，并手持魂浸剑以获得挑战者的祝福",
+    "vi": null
+  },
+  "advancements.naraka.challengers_blessing.title": {
+    "en": "Challenger",
+    "zh": "挑战者",
+    "vi": null
+  },
+  "advancements.naraka.extra.activate_nectarium_core.description": {
+    "en": "Activate nectarium core",
+    "zh": "激活蜜银核心",
+    "vi": null
+  },
+  "advancements.naraka.extra.activate_nectarium_core.title": {
+    "en": "A block flowing with tears and honey",
+    "zh": "流淌着泪水与蜂蜜的方块",
+    "vi": null
+  },
+  "advancements.naraka.extra.buy_nectarium_core.description": {
+    "en": "Buy nectarium core from wandering trader",
+    "zh": "从流浪商人处购买蜜银核心",
+    "vi": null
+  },
+  "advancements.naraka.extra.buy_nectarium_core.title": {
+    "en": "What is this?",
+    "zh": "这是什么?",
+    "vi": null
+  },
+  "advancements.naraka.extra.craft_soul_infused_nectarium.description": {
+    "en": "Don't eat, give it to your soul",
+    "zh": "把它交给你的灵魂",
+    "vi": null
+  },
+  "advancements.naraka.extra.craft_soul_infused_nectarium.title": {
+    "en": "Not eatable",
+    "zh": "把它交给你的灵魂",
+    "vi": null
+  },
+  "advancements.naraka.extra.eat_nectarium.description": {
+    "en": "Eat nectarium",
+    "zh": "食用一个蜜银",
+    "vi": null
+  },
+  "advancements.naraka.extra.eat_nectarium.title": {
+    "en": "Yummy",
+    "zh": "好吃到爆",
+    "vi": null
+  },
+  "advancements.naraka.fill_soul_stabilizer.description": {
+    "en": "Fill soul stabilizer with one kind of soul infused minerals",
+    "zh": "用一种魂浸矿物填满灵魂稳定器",
+    "vi": null
+  },
+  "advancements.naraka.fill_soul_stabilizer.title": {
+    "en": "Fully charged",
+    "zh": "⚡电⚡量⚡满⚡格⚡",
+    "vi": null
+  },
+  "advancements.naraka.find_herobrine_sanctuary.description": {
+    "en": "Too Big!",
+    "zh": "如此宏伟...",
+    "vi": null
+  },
+  "advancements.naraka.find_herobrine_sanctuary.title": {
+    "en": "Herobrine Sanctuary",
+    "zh": "Herobrine 圣所",
+    "vi": null
+  },
+  "advancements.naraka.god_blood.description": {
+    "en": "Amazing!",
+    "zh": "完美绝佳!",
+    "vi": null
+  },
+  "advancements.naraka.god_blood.title": {
+    "en": "God's blood",
+    "zh": "他的血...",
+    "vi": null
+  },
+  "advancements.naraka.kill_herobrine.description": {
+    "en": "Defeat the lord of Naraka",
+    "zh": "击败Herobrine",
+    "vi": null
+  },
+  "advancements.naraka.kill_herobrine.title": {
+    "en": "Purified Soul",
+    "zh": "纯粹灵魂",
+    "vi": null
+  },
+  "advancements.naraka.kill_origin_herobrine.description": {
+    "en": "Defeat the origin of Naraka",
+    "zh": "他曾经光彩照人，如今却丑陋不堪。他竟竖起眼眉，与造物主针锋相对。《神曲》",
+    "vi": null
+  },
+  "advancements.naraka.kill_origin_herobrine.title": {
+    "en": "Naraka Conqueror",
+    "zh": "我来，我见，我征服",
+    "vi": null
+  },
+  "advancements.naraka.purified_soul_metal.description": {
+    "en": "Get purified soul metal",
+    "zh": "得到纯净灵魂金属",
+    "vi": null
+  },
+  "advancements.naraka.purified_soul_metal.title": {
+    "en": "Soap...?",
+    "zh": "看起来像肥皂...？",
+    "vi": null
+  },
+  "advancements.naraka.purified_soul_sword.description": {
+    "en": "It can be anything!",
+    "zh": "它可以变成任何形态!",
+    "vi": null
+  },
+  "advancements.naraka.purified_soul_sword.title": {
+    "en": "Pure vessel",
+    "zh": "纯粹容器",
+    "vi": null
+  },
+  "advancements.naraka.root.description": {
+    "en": "Lasciate ogni speranza, voi ch'entrate",
+    "zh": "入此门者，当放弃一切希望。《神曲》地狱篇",
+    "vi": null
+  },
+  "advancements.naraka.root.title": {
+    "en": "Naraka",
+    "zh": "Naraka",
+    "vi": null
+  },
+  "advancements.naraka.sanctuary_compass.description": {
+    "en": "Get Sanctuary Compass",
+    "zh": "得到圣所指南针",
+    "vi": null
+  },
+  "advancements.naraka.sanctuary_compass.title": {
+    "en": "Way to him",
+    "zh": "众里寻他千百度",
+    "vi": null
+  },
+  "advancements.naraka.soul_infused_materials.description": {
+    "en": "Make one kind of soul infused minerals",
+    "zh": "制作任意一种魂浸矿物",
+    "vi": null
+  },
+  "advancements.naraka.soul_infused_materials.title": {
+    "en": "Soul infused Minerals",
+    "zh": "灵魂灌注",
+    "vi": null
+  },
+  "advancements.naraka.soul_swords.description": {
+    "en": "Get every color type of blessed soul sword",
+    "zh": "为每一把魂浸矿石剑附上祝福",
+    "vi": null
+  },
+  "advancements.naraka.soul_swords.title": {
+    "en": "Rainbow!",
+    "zh": "看啊，彩虹!",
+    "vi": null
+  },
+  "advancements.naraka.stabilizer.description": {
+    "en": "Make soul stabilizer that contains large amount of soul minerals",
+    "zh": "制作可容纳魂浸矿物的容器",
+    "vi": null
+  },
+  "advancements.naraka.stabilizer.title": {
+    "en": "Stabilizer",
+    "zh": "稳定装置",
+    "vi": null
+  },
+  "advancements.naraka.summon_herobrine.description": {
+    "en": "Summon Herobrine",
+    "zh": "召唤Herobrine",
+    "vi": null
+  },
+  "advancements.naraka.summon_herobrine.title": {
+    "en": "Naraka Tyrant",
+    "zh": "炼狱暴君",
+    "vi": null
+  },
+  "advancements.naraka.ultimate_spear.description": {
+    "en": "Get Ultimate soul spear",
+    "zh": "我把头俯下去看，但是活人的眼光却及不到黑暗的底部。《神曲》地狱篇",
+    "vi": null
+  },
+  "advancements.naraka.ultimate_spear.title": {
+    "en": "Long live the new Naraka tyrant",
+    "zh": "旧王已死，新王当立!",
+    "vi": null
+  },
+  "animation.naraka.final_herobrine.carpet_bombing": {
+    "en": "P3 Carpet Bombing",
+    "zh": null,
+    "vi": null
+  },
+  "animation.naraka.final_herobrine.chzzk": {
+    "en": "Chzzk",
+    "zh": null,
+    "vi": null
+  },
+  "animation.naraka.final_herobrine.combo_attack_1": {
+    "en": "P3 Combo Attack 1",
+    "zh": null,
+    "vi": null
+  },
+  "animation.naraka.final_herobrine.combo_attack_1.return": {
+    "en": "P3 Combo Attack 1 Return",
+    "zh": null,
+    "vi": null
+  },
+  "animation.naraka.final_herobrine.combo_attack_2": {
+    "en": "P3 Combo Attack 2",
+    "zh": null,
+    "vi": null
+  },
+  "animation.naraka.final_herobrine.combo_attack_2.return": {
+    "en": "P3 Combo Attack 2 Return",
+    "zh": null,
+    "vi": null
+  },
+  "animation.naraka.final_herobrine.combo_attack_3": {
+    "en": "P3 Combo Attack 3",
+    "zh": null,
+    "vi": null
+  },
+  "animation.naraka.final_herobrine.dying": {
+    "en": "Dying",
+    "zh": null,
+    "vi": null
+  },
+  "animation.naraka.final_herobrine.earth_shock": {
+    "en": "P3 Earth Shock",
+    "zh": null,
+    "vi": null
+  },
+  "animation.naraka.final_herobrine.enter_phase_3": {
+    "en": "P3 Enter Phase 3",
+    "zh": null,
+    "vi": null
+  },
+  "animation.naraka.final_herobrine.explosion": {
+    "en": "P3 Explosion",
+    "zh": null,
+    "vi": null
+  },
+  "animation.naraka.final_herobrine.hidden_chzzk": {
+    "en": "Hidden Chzzk",
+    "zh": null,
+    "vi": null
+  },
+  "animation.naraka.final_herobrine.idle": {
+    "en": "P3 Idle",
+    "zh": null,
+    "vi": null
+  },
+  "animation.naraka.final_herobrine.parrying": {
+    "en": "P3 Parrying",
+    "zh": null,
+    "vi": null
+  },
+  "animation.naraka.final_herobrine.parrying.failed": {
+    "en": "P3 Parrying Failed",
+    "zh": null,
+    "vi": null
+  },
+  "animation.naraka.final_herobrine.parrying.succeed": {
+    "en": "P3 Parrying Succeed",
+    "zh": null,
+    "vi": null
+  },
+  "animation.naraka.final_herobrine.pickaxe_slash.single": {
+    "en": "P3 Single Pickaxe Slash",
+    "zh": null,
+    "vi": null
+  },
+  "animation.naraka.final_herobrine.pickaxe_slash.triple": {
+    "en": "P3 Triple Pickaxe Slash",
+    "zh": null,
+    "vi": null
+  },
+  "animation.naraka.final_herobrine.ryoiki_tenkai": {
+    "en": "P3 Ryoiki Tenkai",
+    "zh": null,
+    "vi": null
+  },
+  "animation.naraka.final_herobrine.star_shooting_1": {
+    "en": "P3 Star Shooting 1",
+    "zh": null,
+    "vi": null
+  },
+  "animation.naraka.final_herobrine.star_shooting_2": {
+    "en": "P3 Star Shooting 2",
+    "zh": null,
+    "vi": null
+  },
+  "animation.naraka.final_herobrine.star_shooting_3": {
+    "en": "P3 Star Shooting 3",
+    "zh": null,
+    "vi": null
+  },
+  "animation.naraka.final_herobrine.storm": {
+    "en": "P3 Storm",
+    "zh": null,
+    "vi": null
+  },
+  "animation.naraka.herobrine.blocking": {
+    "en": "P1 Blocking",
+    "zh": null,
+    "vi": null
+  },
+  "animation.naraka.herobrine.combo_attack_1": {
+    "en": "P1 Combo Attack 1",
+    "zh": null,
+    "vi": null
+  },
+  "animation.naraka.herobrine.combo_attack_2": {
+    "en": "P1Combo Attack 2",
+    "zh": null,
+    "vi": null
+  },
+  "animation.naraka.herobrine.combo_attack_3": {
+    "en": "P1 Combo Attack 3",
+    "zh": null,
+    "vi": null
+  },
+  "animation.naraka.herobrine.combo_attack_4": {
+    "en": "P1 Combo Attack 4",
+    "zh": null,
+    "vi": null
+  },
+  "animation.naraka.herobrine.combo_attack_5": {
+    "en": "P1 Combo Attack 5",
+    "zh": null,
+    "vi": null
+  },
+  "animation.naraka.herobrine.enter_phase_2": {
+    "en": "P1 Enter Phase 2",
+    "zh": null,
+    "vi": null
+  },
+  "animation.naraka.herobrine.idle": {
+    "en": "P1 Idle",
+    "zh": null,
+    "vi": null
+  },
+  "animation.naraka.herobrine.prepare_phase_3": {
+    "en": "P2 Prepare Phase 3",
+    "zh": null,
+    "vi": null
+  },
+  "animation.naraka.herobrine.rush": {
+    "en": "P1 Rush",
+    "zh": null,
+    "vi": null
+  },
+  "animation.naraka.herobrine.rush.failed": {
+    "en": "P1 Rush Failed",
+    "zh": null,
+    "vi": null
+  },
+  "animation.naraka.herobrine.rush.succeed": {
+    "en": "P1 Rush Succeed",
+    "zh": null,
+    "vi": null
+  },
+  "animation.naraka.herobrine.staggering": {
+    "en": "P1 Staggering",
+    "zh": null,
+    "vi": null
+  },
+  "animation.naraka.herobrine.staggering.enter_phase_2": {
+    "en": "P1 Staggering Enter Phase 2",
+    "zh": null,
+    "vi": null
+  },
+  "animation.naraka.herobrine.stigmatize_entities": {
+    "en": "P2 Gimmick",
+    "zh": null,
+    "vi": null
+  },
+  "animation.naraka.herobrine.stigmatize_entities.end": {
+    "en": "P2 Gimmick End",
+    "zh": null,
+    "vi": null
+  },
+  "animation.naraka.herobrine.stigmatize_entities.start": {
+    "en": "P2 Gimmick Start",
+    "zh": null,
+    "vi": null
+  },
+  "animation.naraka.herobrine.throw_naraka_fireball": {
+    "en": "P1 Throw Naraka Fireball",
+    "zh": null,
+    "vi": null
+  },
+  "animation.naraka.herobrine.walking": {
+    "en": "P1 Walking",
+    "zh": null,
+    "vi": null
+  },
+  "animation.naraka.origin_herobrine.charging": {
+    "en": "Charging",
+    "zh": null,
+    "vi": null
+  },
+  "animation.naraka.origin_herobrine.sword_attack": {
+    "en": "Sword Attack",
+    "zh": null,
+    "vi": null
+  },
+  "animation.naraka.origin_herobrine.sword_attack_spin": {
+    "en": "Sword Attack Spin",
+    "zh": null,
+    "vi": null
+  },
+  "block.naraka.amethyst_ore": {
+    "en": "Amethyst Ore",
+    "zh": "紫水晶矿石",
+    "vi": null
+  },
+  "block.naraka.amethyst_shard_block": {
+    "en": "Block of Amethyst Shard",
+    "zh": "紫水晶碎片块",
+    "vi": null
+  },
+  "block.naraka.deepslate_amethyst_ore": {
+    "en": "Deepslate Amethyst Ore",
+    "zh": "深层紫水晶矿石",
+    "vi": null
+  },
+  "block.naraka.deepslate_nectarium_ore": {
+    "en": "Deepslate Nectarium Ore",
+    "zh": "深层蜜金矿石",
+    "vi": null
+  },
+  "block.naraka.herobrine_totem": {
+    "en": "Herobrine Totem",
+    "zh": "Herobrine图腾",
+    "vi": null
+  },
+  "block.naraka.herobrine_totem.tooltip": {
+    "en": "It seems like it would only work in sacred places",
+    "zh": "它似乎只在圣所中生效",
+    "vi": null
+  },
+  "block.naraka.imitation_gold_block": {
+    "en": "Block of Imitation Gold",
+    "zh": "仿金块",
+    "vi": null
+  },
+  "block.naraka.naraka_portal": {
+    "en": "Naraka Portal",
+    "zh": "炼狱传送门",
+    "vi": null
+  },
+  "block.naraka.nectarium_block": {
+    "en": "Block of Nectarium",
+    "zh": "蜜银块",
+    "vi": null
+  },
+  "block.naraka.nectarium_core": {
+    "en": "Nectarium Core",
+    "zh": "蜜银核心",
+    "vi": null
+  },
+  "block.naraka.nectarium_core.tooltip": {
+    "en": "Honey is dripping",
+    "zh": "蜂蜜正在滴落",
+    "vi": null
+  },
+  "block.naraka.nectarium_crystal": {
+    "en": "Nectarium Crystal",
+    "zh": "蜜银晶簇",
+    "vi": null
+  },
+  "block.naraka.nectarium_ore": {
+    "en": "Nectarium Ore",
+    "zh": "蜜银矿石",
+    "vi": null
+  },
+  "block.naraka.purified_soul_fire": {
+    "en": "Purified Soul Fire",
+    "zh": "纯净灵魂火",
+    "vi": null
+  },
+  "block.naraka.purified_soul_lamp": {
+    "en": "Purified Soul Lamp",
+    "zh": "纯净灵魂灯",
+    "vi": null
+  },
+  "block.naraka.purified_soul_lantern": {
+    "en": "Purified Soul Lantern",
+    "zh": "纯净灵魂明灯",
+    "vi": null
+  },
+  "block.naraka.purified_soul_metal_block": {
+    "en": "Block of Purified Soul Metal",
+    "zh": "纯净灵魂金属块",
+    "vi": null
+  },
+  "block.naraka.soul_infused_amethyst_block": {
+    "en": "Block of Soul Infused Amethyst",
+    "zh": "魂浸紫水晶块",
+    "vi": null
+  },
+  "block.naraka.soul_infused_copper_block": {
+    "en": "Block of Soul Infused Copper",
+    "zh": "魂浸铜块",
+    "vi": null
+  },
+  "block.naraka.soul_infused_diamond_block": {
+    "en": "Block of Soul Infused Diamond",
+    "zh": "魂浸钻石块",
+    "vi": null
+  },
+  "block.naraka.soul_infused_emerald_block": {
+    "en": "Block of Soul Infused Emerald",
+    "zh": "魂浸绿宝石块",
+    "vi": null
+  },
+  "block.naraka.soul_infused_gold_block": {
+    "en": "Block of Soul Infused Gold",
+    "zh": "魂浸金块",
+    "vi": null
+  },
+  "block.naraka.soul_infused_lapis_block": {
+    "en": "Block of Soul Infused Lapis",
+    "zh": "魂浸青金石块",
+    "vi": null
+  },
+  "block.naraka.soul_infused_nectarium_block": {
+    "en": "Block of Soul Infused Nectarium",
+    "zh": "魂浸蜜银块",
+    "vi": null
+  },
+  "block.naraka.soul_infused_redstone_block": {
+    "en": "Block of Soul Infused Redstone",
+    "zh": "魂浸红石块",
+    "vi": null
+  },
+  "block.naraka.soul_smithing_block": {
+    "en": "Soul Smithing Block",
+    "zh": "灵魂锻造台",
+    "vi": null
+  },
+  "block.naraka.soul_smithing_block.tooltip": {
+    "en": "Smash item with a mace...?",
+    "zh": "试试用重锤砸它...？",
+    "vi": null
+  },
+  "block.naraka.soul_stabilizer": {
+    "en": "Soul Stabilizer",
+    "zh": "灵魂稳定器",
+    "vi": null
+  },
+  "block.naraka.transparent_block": {
+    "en": "Block of Transparent",
+    "zh": "透明方块",
+    "vi": null
+  },
+  "commands.lockhealth.lock.success": {
+    "en": "Locked %2$s health %1$d",
+    "zh": "已将 %2$s 的生命值锁定为 %1$d",
+    "vi": null
+  },
+  "commands.lockhealth.remove.success": {
+    "en": "Removed %1$s locked healths",
+    "zh": "已恢复 %1$s 被锁定的生命值",
+    "vi": null
+  },
+  "commands.stigma.consume.success": {
+    "en": "%2$s consumed %1$d entities' stigma",
+    "zh": "%2$s 消耗了 %1$d 个实体的印记",
+    "vi": null
+  },
+  "commands.stigma.disable.success": {
+    "en": "Disabled stigma",
+    "zh": "已禁用耻辱印记",
+    "vi": null
+  },
+  "commands.stigma.enable.success": {
+    "en": "Enabled stigma",
+    "zh": "已启用耻辱印记",
+    "vi": null
+  },
+  "commands.stigma.get.success": {
+    "en": "Stigma for entity %s is %d",
+    "zh": "实体 %s 的耻辱印记值为 %d",
+    "vi": null
+  },
+  "commands.stigma.increase.success": {
+    "en": "Increased stigma for %1$d entities",
+    "zh": "已增加 %1$d 个实体的耻辱印记",
+    "vi": null
+  },
+  "commands.stigma.remove.success": {
+    "en": "Removed stigma for %1$d entities",
+    "zh": "已移除 %1$d 个实体的耻辱印记",
+    "vi": null
+  },
+  "commands.stigma.set.success": {
+    "en": "Stigma for %d entities set to %d",
+    "zh": "已将 %d 个实体的耻辱印记值设为 %d",
+    "vi": null
+  },
+  "config.jade.plugin_naraka.entity_data": {
+    "en": "Stigma",
+    "zh": "耻辱印记",
+    "vi": null
+  },
+  "config.jade.plugin_naraka.nectarium_core": {
+    "en": "Nectarium Core",
+    "zh": "蜜银核心",
+    "vi": null
+  },
+  "config.jade.plugin_naraka.soul_smithing_block": {
+    "en": "Soul Smithing Block",
+    "zh": "灵魂锻造台",
+    "vi": null
+  },
+  "config.jade.plugin_naraka.soul_stabilizer": {
+    "en": "Soul Stabilizer",
+    "zh": "灵魂稳定器",
+    "vi": null
+  },
+  "death.attack.corrupted_star": {
+    "en": "%1$s was exploded by %2$s",
+    "zh": "%1$s被%2$s炸飞了。",
+    "vi": null
+  },
+  "death.attack.corrupted_star.player": {
+    "en": "%1$s was exploded by %2$s",
+    "zh": "%1$s被%2$s炸飞了。",
+    "vi": null
+  },
+  "death.attack.naraka_fireball": {
+    "en": "%1$s was blown by naraka fireball thrown by %2$s",
+    "zh": "%1$s被%2$s投出的炼狱火球炸烂了。",
+    "vi": null
+  },
+  "death.attack.naraka_fireball.player": {
+    "en": "%1$s was blown by naraka fireball thrown by %2$s",
+    "zh": "%1$s被%2$s投出的炼狱火球炸烂了。",
+    "vi": null
+  },
+  "death.attack.pickaxe_slash": {
+    "en": "%1$s was slain by %2$s",
+    "zh": "%1$s被%2$s劈死了。",
+    "vi": null
+  },
+  "death.attack.pickaxe_slash.player": {
+    "en": "%1$s was slain by %2$s",
+    "zh": "%1$s被%2$s劈死了。",
+    "vi": null
+  },
+  "death.attack.purified_soul_fire": {
+    "en": "%1$s went up in black flames",
+    "zh": "%1$s在黑焰中化为灰烬。",
+    "vi": null
+  },
+  "death.attack.purified_soul_fire.player": {
+    "en": "%1$s went up in black flames",
+    "zh": "%1$s在黑焰中化为灰烬。",
+    "vi": null
+  },
+  "death.attack.soul_attack": {
+    "en": "%2$s executed %1$s",
+    "zh": "%2$s处决了%1$s。",
+    "vi": null
+  },
+  "death.attack.soul_attack.player": {
+    "en": "%2$s executed %1$s",
+    "zh": "%2$s处决了%1$s。",
+    "vi": null
+  },
+  "death.attack.spear_of_longinus": {
+    "en": "%1$s's AT Field was torn by %2$s",
+    "zh": "%1$s的AT力场被%2$s击穿了。",
+    "vi": null
+  },
+  "death.attack.spear_of_longinus.player": {
+    "en": "%1$s's AT Field was torn by %2$s",
+    "zh": "%1$s的AT力场被%2$s击穿了。",
+    "vi": null
+  },
+  "death.attack.stigma": {
+    "en": "%1$s's has been deprived of life due to %2$s's stigma stacking",
+    "zh": "%1$s被%2$s施加的耻辱印记夺去了生命。",
+    "vi": null
+  },
+  "death.attack.stigma.player": {
+    "en": "%1$s's has been deprived of life due to %2$s's stigma stacking",
+    "zh": "%1$s被%2$s施加的耻辱印记夺去了生命。",
+    "vi": null
+  },
+  "death.attack.stigma_consume": {
+    "en": "%2$s has been consumed %1$s's stigma",
+    "zh": "%2$s消耗了%1$s的印记。",
+    "vi": null
+  },
+  "death.attack.stigma_consume.player": {
+    "en": "%2$s has been consumed %1$s's stigma",
+    "zh": "%2$s消耗了%1$s的印记。",
+    "vi": null
+  },
+  "effect.naraka.challengers_blessing": {
+    "en": "Challenger's Blessing",
+    "zh": null,
+    "vi": null
+  },
+  "effect.naraka.challengers_blessing_amethyst": {
+    "en": "Challenger's Blessing",
+    "zh": "挑战者的祝福",
+    "vi": null
+  },
+  "effect.naraka.challengers_blessing_copper": {
+    "en": "Challenger's Blessing",
+    "zh": "挑战者的祝福",
+    "vi": null
+  },
+  "effect.naraka.challengers_blessing_diamond": {
+    "en": "Challenger's Blessing",
+    "zh": "挑战者的祝福",
+    "vi": null
+  },
+  "effect.naraka.challengers_blessing_emerald": {
+    "en": "Challenger's Blessing",
+    "zh": "挑战者的祝福",
+    "vi": null
+  },
+  "effect.naraka.challengers_blessing_gold": {
+    "en": "Challenger's Blessing",
+    "zh": "挑战者的祝福",
+    "vi": null
+  },
+  "effect.naraka.challengers_blessing_lapis": {
+    "en": "Challenger's Blessing",
+    "zh": "挑战者的祝福",
+    "vi": null
+  },
+  "effect.naraka.challengers_blessing_nectarium": {
+    "en": "Challenger's Blessing",
+    "zh": "挑战者的祝福",
+    "vi": null
+  },
+  "effect.naraka.challengers_blessing_redstone": {
+    "en": "Challenger's Blessing",
+    "zh": "挑战者的祝福",
+    "vi": null
+  },
+  "effect.naraka.god_bless": {
+    "en": "God Bless",
+    "zh": "神佑",
+    "vi": null
+  },
+  "entity.naraka.area_effect": {
+    "en": "Area Effect",
+    "zh": "效果云",
+    "vi": null
+  },
+  "entity.naraka.colored_lightning_bolt": {
+    "en": "Colored Lightning Bolt",
+    "zh": "彩色闪电",
+    "vi": null
+  },
+  "entity.naraka.corrupted_star": {
+    "en": "Corrupted Star",
+    "zh": "堕落之星",
+    "vi": null
+  },
+  "entity.naraka.diamond_golem": {
+    "en": "Diamond Golem",
+    "zh": "钻石傀儡",
+    "vi": null
+  },
+  "entity.naraka.herobrine": {
+    "en": "Naraka Tyrant: Herobrine",
+    "zh": "炼狱暴君 Herobrine",
+    "vi": null
+  },
+  "entity.naraka.lightning_circle": {
+    "en": "Lightning Circle",
+    "zh": "雷环",
+    "vi": null
+  },
+  "entity.naraka.magic_circle": {
+    "en": "Magic Circle",
+    "zh": "法阵",
+    "vi": null
+  },
+  "entity.naraka.massive_lightning": {
+    "en": "Massive Lightning",
+    "zh": "巨雷",
+    "vi": null
+  },
+  "entity.naraka.mighty_holy_spear": {
+    "en": "Mighty Holy Spear",
+    "zh": "神圣之矛",
+    "vi": null
+  },
+  "entity.naraka.naraka_fireball": {
+    "en": "Naraka Fireball",
+    "zh": "炼狱火球",
+    "vi": null
+  },
+  "entity.naraka.naraka_pickaxe": {
+    "en": "Naraka Pickaxe",
+    "zh": "白瞳者之镰",
+    "vi": null
+  },
+  "entity.naraka.naraka_portal": {
+    "en": "Naraka Portal",
+    "zh": "Naraka 传送门",
+    "vi": null
+  },
+  "entity.naraka.origin_herobrine": {
+    "en": "The Origin of Naraka: Herobrine",
+    "zh": "炼狱之源 Herobrine",
+    "vi": null
+  },
+  "entity.naraka.pickaxe_slash": {
+    "en": "Pickaxe Slash",
+    "zh": "巨镰剑气",
+    "vi": null
+  },
+  "entity.naraka.shadow_herobrine": {
+    "en": "Shadow Herobrine",
+    "zh": "Herobrine之影",
+    "vi": null
+  },
+  "entity.naraka.shiny_effect": {
+    "en": "Shiny Effect",
+    "zh": "闪光",
+    "vi": null
+  },
+  "entity.naraka.spear": {
+    "en": "Spear",
+    "zh": "矛",
+    "vi": null
+  },
+  "entity.naraka.spear_of_longinus": {
+    "en": "Spear of Longinus",
+    "zh": "朗基努斯之枪",
+    "vi": null
+  },
+  "entity.naraka.stardust": {
+    "en": "Stardust",
+    "zh": "星尘",
+    "vi": null
+  },
+  "equipment_effect.naraka.blessed": {
+    "en": "Blessed Set",
+    "zh": "祝福套装",
+    "vi": null
+  },
+  "equipment_effect.naraka.challenger": {
+    "en": "Challenger Set",
+    "zh": "挑战者套装",
+    "vi": null
+  },
+  "item.blessed": {
+    "en": "Blessed",
+    "zh": "受祝福的",
+    "vi": null
+  },
+  "item.herobrine_scarf": {
+    "en": "Scarf Attached",
+    "zh": "附加披风",
+    "vi": null
+  },
+  "item.minecraft.lingering_potion.effect.bless": {
+    "en": "Lingering Potion of Bless",
+    "zh": "滞留型祝福药水",
+    "vi": null
+  },
+  "item.minecraft.lingering_potion.effect.challenger": {
+    "en": "Challenger's Lingering Potion",
+    "zh": "滞留型挑战者药水",
+    "vi": null
+  },
+  "item.minecraft.potion.effect.bless": {
+    "en": "Potion of Bless",
+    "zh": "祝福药水",
+    "vi": null
+  },
+  "item.minecraft.potion.effect.challenger": {
+    "en": "Challenger's Potion",
+    "zh": "挑战者药水",
+    "vi": null
+  },
+  "item.minecraft.splash_potion.effect.bless": {
+    "en": "Splash Potion of Bless",
+    "zh": "喷溅型祝福药水",
+    "vi": null
+  },
+  "item.minecraft.splash_potion.effect.challenger": {
+    "en": "Challenger's Splash Potion",
+    "zh": "喷溅型挑战者药水",
+    "vi": null
+  },
+  "item.naraka.animation_controller": {
+    "en": "Animation Controller",
+    "zh": "动画控制器",
+    "vi": null
+  },
+  "item.naraka.diamond_golem_spawn_egg": {
+    "en": "Diamond Golem Spawn Egg",
+    "zh": "钻石傀儡刷怪蛋",
+    "vi": null
+  },
+  "item.naraka.god_blood": {
+    "en": "§lGod Blood",
+    "zh": "§l神之血",
+    "vi": null
+  },
+  "item.naraka.herobrine_phase_1_disc": {
+    "en": "Herobrine Phase 1 Disc",
+    "zh": "Herobrine 第一阶段唱片",
+    "vi": null
+  },
+  "item.naraka.herobrine_phase_2_disc": {
+    "en": "Herobrine Phase 2 Disc",
+    "zh": "Herobrine 第二阶段唱片",
+    "vi": null
+  },
+  "item.naraka.herobrine_phase_3_disc": {
+    "en": "Herobrine Phase 3 Disc",
+    "zh": "Herobrine 第三阶段唱片",
+    "vi": null
+  },
+  "item.naraka.herobrine_phase_4_disc": {
+    "en": "Herobrine Phase 4 Disc",
+    "zh": "Herobrine 第四阶段唱片",
+    "vi": null
+  },
+  "item.naraka.herobrine_scarf": {
+    "en": "Herobrine Scarf",
+    "zh": "Herobrine的披风",
+    "vi": null
+  },
+  "item.naraka.herobrine_spawn_egg": {
+    "en": "Herobrine Spawn Egg",
+    "zh": "Herobrine刷怪蛋",
+    "vi": null
+  },
+  "item.naraka.locked_health": {
+    "en": "Locked Health",
+    "zh": "被锁定的生命值",
+    "vi": null
+  },
+  "item.naraka.mighty_holy_spear": {
+    "en": "Mighty Holy Spear",
+    "zh": "神圣之矛",
+    "vi": null
+  },
+  "item.naraka.naraka_fireball_staff": {
+    "en": "Naraka Fireball Staff",
+    "zh": "狱炎球法杖",
+    "vi": null
+  },
+  "item.naraka.naraka_pickaxe": {
+    "en": "Naraka Pickaxe",
+    "zh": "白瞳者之镰",
+    "vi": null
+  },
+  "item.naraka.nectarium": {
+    "en": "Nectarium",
+    "zh": "蜜银",
+    "vi": null
+  },
+  "item.naraka.netherite_hammer": {
+    "en": "Netherite Hammer",
+    "zh": "下界合金重锤",
+    "vi": null
+  },
+  "item.naraka.purified_soul_boots": {
+    "en": "Purified Soul Boots",
+    "zh": "纯净灵魂靴子",
+    "vi": null
+  },
+  "item.naraka.purified_soul_chestplate": {
+    "en": "Purified Soul Chestplate",
+    "zh": "纯净灵魂胸甲",
+    "vi": null
+  },
+  "item.naraka.purified_soul_helmet": {
+    "en": "Purified Soul Helmet",
+    "zh": "纯净灵魂头盔",
+    "vi": null
+  },
+  "item.naraka.purified_soul_leggings": {
+    "en": "Purified Soul Leggings",
+    "zh": "纯净灵魂护腿",
+    "vi": null
+  },
+  "item.naraka.purified_soul_metal": {
+    "en": "Purified Soul Metal",
+    "zh": "纯净灵魂金属",
+    "vi": null
+  },
+  "item.naraka.purified_soul_shard": {
+    "en": "Purified Soul Shard",
+    "zh": "纯净灵魂碎片",
+    "vi": null
+  },
+  "item.naraka.purified_soul_sword": {
+    "en": "Purified Soul Sword",
+    "zh": "纯净灵魂剑",
+    "vi": null
+  },
+  "item.naraka.purified_soul_upgrade_smithing_template": {
+    "en": "Soul Smithing Template",
+    "zh": "灵魂锻造模板",
+    "vi": null
+  },
+  "item.naraka.rainbow_sword": {
+    "en": "Rainbow Sword",
+    "zh": "虹彩剑",
+    "vi": null
+  },
+  "item.naraka.sanctuary_compass": {
+    "en": "Sanctuary Compass",
+    "zh": "圣所指南针",
+    "vi": null
+  },
+  "item.naraka.skill_controller": {
+    "en": "Skill Controller",
+    "zh": "技能控制器",
+    "vi": null
+  },
+  "item.naraka.soul_infused_amethyst": {
+    "en": "Soul Infused Amethyst",
+    "zh": "魂浸紫水晶",
+    "vi": null
+  },
+  "item.naraka.soul_infused_amethyst_sword": {
+    "en": "Soul Infused Amethyst Sword",
+    "zh": "魂浸紫水晶剑",
+    "vi": null
+  },
+  "item.naraka.soul_infused_copper": {
+    "en": "Soul Infused Copper",
+    "zh": "魂浸铜锭",
+    "vi": null
+  },
+  "item.naraka.soul_infused_copper_sword": {
+    "en": "Soul Infused Copper Sword",
+    "zh": "魂浸铜剑",
+    "vi": null
+  },
+  "item.naraka.soul_infused_diamond": {
+    "en": "Soul Infused Diamond",
+    "zh": "魂浸钻石",
+    "vi": null
+  },
+  "item.naraka.soul_infused_diamond_sword": {
+    "en": "Soul Infused Diamond Sword",
+    "zh": "魂浸钻石剑",
+    "vi": null
+  },
+  "item.naraka.soul_infused_emerald": {
+    "en": "Soul Infused Emerald",
+    "zh": "魂浸绿宝石",
+    "vi": null
+  },
+  "item.naraka.soul_infused_emerald_sword": {
+    "en": "Soul Infused Emerald Sword",
+    "zh": "魂浸绿宝石剑",
+    "vi": null
+  },
+  "item.naraka.soul_infused_gold": {
+    "en": "Soul Infused Gold",
+    "zh": "魂浸金锭",
+    "vi": null
+  },
+  "item.naraka.soul_infused_gold_sword": {
+    "en": "Soul Infused Gold Sword",
+    "zh": "魂浸金剑",
+    "vi": null
+  },
+  "item.naraka.soul_infused_lapis": {
+    "en": "Soul Infused Lapis",
+    "zh": "魂浸青金石",
+    "vi": null
+  },
+  "item.naraka.soul_infused_lapis_sword": {
+    "en": "Soul Infused Lapis Sword",
+    "zh": "魂浸青金石剑",
+    "vi": null
+  },
+  "item.naraka.soul_infused_nectarium": {
+    "en": "Soul Infused Nectarium",
+    "zh": "魂浸蜜银",
+    "vi": null
+  },
+  "item.naraka.soul_infused_nectarium_sword": {
+    "en": "Soul Infused Nectarium Sword",
+    "zh": "魂浸蜜银剑",
+    "vi": null
+  },
+  "item.naraka.soul_infused_redstone": {
+    "en": "Soul Infused Redstone",
+    "zh": "魂浸红石",
+    "vi": null
+  },
+  "item.naraka.soul_infused_redstone_sword": {
+    "en": "Soul Infused Redstone Sword",
+    "zh": "魂浸红石剑",
+    "vi": null
+  },
+  "item.naraka.spear": {
+    "en": "Spear",
+    "zh": "矛",
+    "vi": null
+  },
+  "item.naraka.spear_of_longinus": {
+    "en": "Spear of Longinus",
+    "zh": "朗基努斯之枪",
+    "vi": null
+  },
+  "item.naraka.stigma_rod": {
+    "en": "Stigma Rod",
+    "zh": "耻辱印记调试棒",
+    "vi": null
+  },
+  "item.reinforcement": {
+    "en": "Reinforcement: %d",
+    "zh": "强化： %d",
+    "vi": null
+  },
+  "itemGroup.naraka": {
+    "en": "Naraka",
+    "zh": "Naraka",
+    "vi": null
+  },
+  "itemGroup.naraka.soul_materials": {
+    "en": "Soul Materials",
+    "zh": "魂浸矿物",
+    "vi": null
+  },
+  "itemGroup.naraka.test": {
+    "en": "Naraka Test",
+    "zh": "调试工具",
+    "vi": null
+  },
+  "jade.naraka.death_count": {
+    "en": "Death Count: %d",
+    "zh": "Death Count: %d",
+    "vi": null
+  },
+  "jade.naraka.locked_health": {
+    "en": ": %d",
+    "zh": ": %d",
+    "vi": null
+  },
+  "jade.naraka.nectarium_core.activated": {
+    "en": "Activated",
+    "zh": "已激活",
+    "vi": null
+  },
+  "jade.naraka.nectarium_core.deactivated": {
+    "en": "Inactivated",
+    "zh": "未激活",
+    "vi": null
+  },
+  "jade.naraka.nectarium_core.honey": {
+    "en": "(%d left)",
+    "zh": "（剩余 %d）",
+    "vi": null
+  },
+  "jade.naraka.soul_stabilizer": {
+    "en": "%d",
+    "zh": "%d",
+    "vi": null
+  },
+  "jade.naraka.stigma": {
+    "en": ": %d",
+    "zh": ": %d",
+    "vi": null
+  },
+  "key.categories.naraka": {
+    "en": "Naraka",
+    "zh": "Naraka",
+    "vi": null
+  },
+  "key.naraka.toggle_ore_see_through": {
+    "en": "Toggle Ore See Through",
+    "zh": "开关矿物透视",
+    "vi": null
+  },
+  "message.naraka.ore_see_through.disable": {
+    "en": "Ore See Through is now disabled",
+    "zh": "矿物透视已关闭",
+    "vi": null
+  },
+  "message.naraka.ore_see_through.enable": {
+    "en": "Ore See Through is now enabled",
+    "zh": "矿物透视已启用",
+    "vi": null
+  },
+  "reinforcement_effect.naraka.efficient_mining_in_air": {
+    "en": "Efficient mining in air",
+    "zh": "空中速掘",
+    "vi": null
+  },
+  "reinforcement_effect.naraka.efficient_mining_in_water": {
+    "en": "Efficient mining in water",
+    "zh": "水下速掘",
+    "vi": null
+  },
+  "reinforcement_effect.naraka.faster_liquid_swimming": {
+    "en": "Increase liquid swimming speed",
+    "zh": "流体疾泳",
+    "vi": null
+  },
+  "reinforcement_effect.naraka.fire_resistance": {
+    "en": "Fire Resistance",
+    "zh": "火焰抗性",
+    "vi": null
+  },
+  "reinforcement_effect.naraka.flying": {
+    "en": "Flying (Scroll!)",
+    "zh": "启用飞行",
+    "vi": null
+  },
+  "reinforcement_effect.naraka.ignore_liquid_pushing": {
+    "en": "Ignore liquid pushing",
+    "zh": "无视流体推动",
+    "vi": null
+  },
+  "reinforcement_effect.naraka.increase_armor": {
+    "en": "Increase armor",
+    "zh": "护甲值提升",
+    "vi": null
+  },
+  "reinforcement_effect.naraka.increase_armor_toughness": {
+    "en": "Increase armor toughness",
+    "zh": "韧性增强",
+    "vi": null
+  },
+  "reinforcement_effect.naraka.increase_attack_damage": {
+    "en": "Increase attack damage",
+    "zh": "攻击增幅",
+    "vi": null
+  },
+  "reinforcement_effect.naraka.increase_knockback_resistance": {
+    "en": "Knockback resistance",
+    "zh": "击退抗性",
+    "vi": null
+  },
+  "reinforcement_effect.naraka.lava_vision": {
+    "en": "Lava vision",
+    "zh": "熔岩明视",
+    "vi": null
+  },
+  "reinforcement_effect.naraka.ore_see_through": {
+    "en": "Ore see through",
+    "zh": "矿物透视",
+    "vi": null
+  },
+  "reinforcement_effect.naraka.water_breathing": {
+    "en": "Water breathing",
+    "zh": "水下呼吸",
+    "vi": null
+  },
+  "skill.naraka.final_herobrine.carpet_bombing": {
+    "en": "P3 Carpet Bombing",
+    "zh": null,
+    "vi": null
+  },
+  "skill.naraka.final_herobrine.earth_shock": {
+    "en": "P3 #7 AMETHYST [Earth Shock]",
+    "zh": null,
+    "vi": null
+  },
+  "skill.naraka.final_herobrine.explosion": {
+    "en": "P3 #3 GOLD [Explosion]",
+    "zh": null,
+    "vi": null
+  },
+  "skill.naraka.final_herobrine.parrying": {
+    "en": "P3 #8 NECTARIUM [Parrying]",
+    "zh": null,
+    "vi": null
+  },
+  "skill.naraka.final_herobrine.pickaxe_slash.single": {
+    "en": "P3 #6 LAPIS [Pickaxe Slash Single]",
+    "zh": null,
+    "vi": null
+  },
+  "skill.naraka.final_herobrine.pickaxe_slash.triple": {
+    "en": "P3 #6 LAPIS [Pickaxe Slash Triple]",
+    "zh": null,
+    "vi": null
+  },
+  "skill.naraka.final_herobrine.pickaxe_strike": {
+    "en": "P3 Pickaxe Strike",
+    "zh": null,
+    "vi": null
+  },
+  "skill.naraka.final_herobrine.ryoiki_tenkai": {
+    "en": "P3 #4 EMERALD [Ryoiki Tenkai]",
+    "zh": null,
+    "vi": null
+  },
+  "skill.naraka.final_herobrine.spin_up": {
+    "en": "P3 #5 DIAMOND [Combo Attack 2]",
+    "zh": null,
+    "vi": null
+  },
+  "skill.naraka.final_herobrine.split_attack": {
+    "en": "P3 #5 DIAMOND [Combo Attack 1]",
+    "zh": null,
+    "vi": null
+  },
+  "skill.naraka.final_herobrine.star_shooting": {
+    "en": "P3 #2 COPPER [Star Shooting]",
+    "zh": null,
+    "vi": null
+  },
+  "skill.naraka.final_herobrine.storm": {
+    "en": "P3 #1 REDSTONE [Storm]",
+    "zh": null,
+    "vi": null
+  },
+  "skill.naraka.final_herobrine.strike_down": {
+    "en": "P3 #5 DIAMOND [Combo Attack 3]",
+    "zh": null,
+    "vi": null
+  },
+  "skill.naraka.herobrine.blocking": {
+    "en": "P1 Blocking",
+    "zh": null,
+    "vi": null
+  },
+  "skill.naraka.herobrine.dash": {
+    "en": "P1 Dash",
+    "zh": null,
+    "vi": null
+  },
+  "skill.naraka.herobrine.dash_around": {
+    "en": "P1 Dash Around",
+    "zh": null,
+    "vi": null
+  },
+  "skill.naraka.herobrine.destroy_structure": {
+    "en": "P3 Destroy Structure (Enter Phase 3)",
+    "zh": null,
+    "vi": null
+  },
+  "skill.naraka.herobrine.flicker": {
+    "en": "P1 Flicker",
+    "zh": null,
+    "vi": null
+  },
+  "skill.naraka.herobrine.landing": {
+    "en": "P1 Combo Attack 5",
+    "zh": null,
+    "vi": null
+  },
+  "skill.naraka.herobrine.punch": {
+    "en": "P1 Combo Attack 1",
+    "zh": null,
+    "vi": null
+  },
+  "skill.naraka.herobrine.rush": {
+    "en": "P1 Rush",
+    "zh": null,
+    "vi": null
+  },
+  "skill.naraka.herobrine.spinning": {
+    "en": "P1 Combo Attack 3",
+    "zh": null,
+    "vi": null
+  },
+  "skill.naraka.herobrine.stigmatize_entities": {
+    "en": "P2 Gimmick",
+    "zh": null,
+    "vi": null
+  },
+  "skill.naraka.herobrine.summon_shadow": {
+    "en": "P1 Summon Shadow",
+    "zh": null,
+    "vi": null
+  },
+  "skill.naraka.herobrine.super_hit": {
+    "en": "P1 Combo Attack 4",
+    "zh": null,
+    "vi": null
+  },
+  "skill.naraka.herobrine.throw_fireball": {
+    "en": "P1 Throw Fireball",
+    "zh": null,
+    "vi": null
+  },
+  "skill.naraka.herobrine.uppercut": {
+    "en": "P1 Combo Attack 2",
+    "zh": null,
+    "vi": null
+  },
+  "skill.naraka.herobrine.walk_around": {
+    "en": "P1 Walk Around",
+    "zh": null,
+    "vi": null
+  },
+  "skill.naraka.origin_herobrine.charging": {
+    "en": "Charging",
+    "zh": null,
+    "vi": null
+  },
+  "skill.naraka.origin_herobrine.sword_swing": {
+    "en": "Sword Swing",
+    "zh": null,
+    "vi": null
+  },
+  "skill_controller.disable_skill_use": {
+    "en": "Disable skill using",
+    "zh": null,
+    "vi": null
+  },
+  "soul_type.naraka.amethyst": {
+    "en": "Amethyst",
+    "zh": "紫水晶",
+    "vi": null
+  },
+  "soul_type.naraka.copper": {
+    "en": "Copper",
+    "zh": "铜",
+    "vi": null
+  },
+  "soul_type.naraka.diamond": {
+    "en": "Diamond",
+    "zh": "钻石",
+    "vi": null
+  },
+  "soul_type.naraka.emerald": {
+    "en": "Emerald",
+    "zh": "绿宝石",
+    "vi": null
+  },
+  "soul_type.naraka.god_blood": {
+    "en": "God Blood",
+    "zh": "神之血",
+    "vi": null
+  },
+  "soul_type.naraka.gold": {
+    "en": "Gold",
+    "zh": "金锭",
+    "vi": null
+  },
+  "soul_type.naraka.lapis": {
+    "en": "Lapis",
+    "zh": "青金石",
+    "vi": null
+  },
+  "soul_type.naraka.nectarium": {
+    "en": "Nectarium",
+    "zh": "蜜银",
+    "vi": null
+  },
+  "soul_type.naraka.redstone": {
+    "en": "Redstone",
+    "zh": "红石",
+    "vi": null
+  },
+  "trim_material.naraka.god_blood": {
+    "en": "God Blood Material",
+    "zh": "神之血材质",
+    "vi": null
+  },
+  "trim_material.naraka.soul_infused_amethyst": {
+    "en": "Soul Infused Amethyst Material",
+    "zh": "魂浸紫水晶材质",
+    "vi": null
+  },
+  "trim_material.naraka.soul_infused_copper": {
+    "en": "Soul Infused Copper Material",
+    "zh": "魂浸铜材质",
+    "vi": null
+  },
+  "trim_material.naraka.soul_infused_diamond": {
+    "en": "Soul Infused Diamond Material",
+    "zh": "魂浸钻石材质",
+    "vi": null
+  },
+  "trim_material.naraka.soul_infused_emerald": {
+    "en": "Soul Infused Emerald Material",
+    "zh": "魂浸绿宝石材质",
+    "vi": null
+  },
+  "trim_material.naraka.soul_infused_gold": {
+    "en": "Soul Infused Gold Material",
+    "zh": "魂浸金材质",
+    "vi": null
+  },
+  "trim_material.naraka.soul_infused_lapis": {
+    "en": "Soul Infused Lapis Material",
+    "zh": "魂浸青金石材质",
+    "vi": null
+  },
+  "trim_material.naraka.soul_infused_nectarium": {
+    "en": "Soul Infused Nectarium Material",
+    "zh": "魂浸蜜银材质",
+    "vi": null
+  },
+  "trim_material.naraka.soul_infused_redstone": {
+    "en": "Soul Infused Redstone Material",
+    "zh": "魂浸红石材质",
+    "vi": null
+  }
+}

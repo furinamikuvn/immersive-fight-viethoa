@@ -1,0 +1,1512 @@
+{
+  "reterraforged.metadata.description": {
+    "en": "ReTerraForged resources",
+    "zh": "ReTerraForged 资源",
+    "vi": null
+  },
+  "reterraforged.preset.metadata.description": {
+    "en": "ReTerraForged preset",
+    "zh": "ReTerraForged 预设",
+    "vi": null
+  },
+  "reterraforged.mudSwamps.metadata.description": {
+    "en": "Changes the swamp material to mud",
+    "zh": "将沼泽地材料改为泥巴",
+    "vi": null
+  },
+  "reterraforged.error.noMessage": {
+    "en": "{No error message}",
+    "zh": "{没有错误信息}",
+    "vi": null
+  },
+  "reterraforged.gui.selectPreset.inputPrompt": {
+    "en": "Type preset name",
+    "zh": "输入预设名称",
+    "vi": null
+  },
+  "reterraforged.gui.selectPreset.missingLegacyPresets": {
+    "en": "Couldn't find any legacy presets",
+    "zh": "未找到任何传统预设",
+    "vi": null
+  },
+  "reterraforged.gui.selectPreset.title": {
+    "en": "Presets & Defaults",
+    "zh": "预设与默认值",
+    "vi": null
+  },
+  "reterraforged.gui.preset.default.name": {
+    "en": "Default",
+    "zh": "默认",
+    "vi": null
+  },
+  "reterraforged.gui.preset.beautiful.name": {
+    "en": "TerraForged - Beautiful (Legacy)",
+    "zh": "TerraForged - 美丽 (Legacy)",
+    "vi": null
+  },
+  "reterraforged.gui.preset.hugeBiomes.name": {
+    "en": "TerraForged - Huge Biomes (Legacy)",
+    "zh": "TerraForged - 巨型生物群系 (Legacy)",
+    "vi": null
+  },
+  "reterraforged.gui.preset.lite.name": {
+    "en": "TerraForged - Lite (Legacy)",
+    "zh": "TerraForged - 精简 (Legacy)",
+    "vi": null
+  },
+  "reterraforged.gui.preset.vanillaish.name": {
+    "en": "TerraForged - Vanilla-ish (Legacy)",
+    "zh": "TerraForged - 类原版 (Legacy)",
+    "vi": null
+  },
+  "reterraforged.gui.worldSettings.title": {
+    "en": "World Settings",
+    "zh": "世界设置",
+    "vi": null
+  },
+  "reterraforged.gui.caveSettings.title": {
+    "en": "Cave Settings (Experimental)",
+    "zh": "洞穴设置（实验性）",
+    "vi": null
+  },
+  "reterraforged.gui.climateSettings.title": {
+    "en": "Climate Settings",
+    "zh": "气候设置",
+    "vi": null
+  },
+  "reterraforged.gui.terrainSettings.title": {
+    "en": "Terrain Settings",
+    "zh": "地形设置",
+    "vi": null
+  },
+  "reterraforged.gui.riverSettings.title": {
+    "en": "River Settings",
+    "zh": "河流设置",
+    "vi": null
+  },
+  "reterraforged.gui.filterSettings.title": {
+    "en": "Filter Settings",
+    "zh": "过滤器设置",
+    "vi": null
+  },
+  "reterraforged.gui.structureSettings.title": {
+    "en": "Structure Settings",
+    "zh": "结构设置",
+    "vi": null
+  },
+  "reterraforged.gui.miscellaneousSettings.title": {
+    "en": "Miscellaneous Settings",
+    "zh": "杂项设置",
+    "vi": null
+  },
+  "reterraforged.gui.button.true": {
+    "en": "true",
+    "zh": "是",
+    "vi": null
+  },
+  "reterraforged.gui.button.false": {
+    "en": "false",
+    "zh": "否",
+    "vi": null
+  },
+  "reterraforged.gui.button.create": {
+    "en": "Create",
+    "zh": "创建",
+    "vi": null
+  },
+  "reterraforged.gui.button.copy": {
+    "en": "Copy",
+    "zh": "复制",
+    "vi": null
+  },
+  "reterraforged.gui.button.delete": {
+    "en": "Delete",
+    "zh": "删除",
+    "vi": null
+  },
+  "reterraforged.gui.button.openPresetFolder": {
+    "en": "Open Preset Folder",
+    "zh": "打开预设文件夹",
+    "vi": null
+  },
+  "reterraforged.gui.button.openDatapackFolder": {
+    "en": "Open Export Folder",
+    "zh": "打开导出文件夹",
+    "vi": null
+  },
+  "reterraforged.gui.button.export": {
+    "en": "Export As Datapack",
+    "zh": "导出为数据包",
+    "vi": null
+  },
+  "reterraforged.gui.button.export.success": {
+    "en": "Exported Preset",
+    "zh": "预设已导出",
+    "vi": null
+  },
+  "reterraforged.gui.button.seed": {
+    "en": "Seed",
+    "zh": "种子",
+    "vi": null
+  },
+  "reterraforged.gui.button.continentType": {
+    "en": "Continent Type",
+    "zh": "大陆类型",
+    "vi": null
+  },
+  "reterraforged.gui.button.continentShape": {
+    "en": "Continent Shape",
+    "zh": "大陆形状",
+    "vi": null
+  },
+  "reterraforged.gui.button.spawnType": {
+    "en": "Spawn Type",
+    "zh": "出生点类型",
+    "vi": null
+  },
+  "reterraforged.gui.button.largeOreVeins": {
+    "en": "Large Ore Veins",
+    "zh": "大型矿脉",
+    "vi": null
+  },
+  "reterraforged.gui.button.legacyCarverDistribution": {
+    "en": "Legacy Carver Distribution",
+    "zh": "传统的开凿分布",
+    "vi": null
+  },
+  "reterraforged.gui.button.climateSeedOffset": {
+    "en": "Seed Offset",
+    "zh": "种子偏移",
+    "vi": null
+  },
+  "reterraforged.gui.button.biomeEdgeType": {
+    "en": "Type",
+    "zh": "类型",
+    "vi": null
+  },
+  "reterraforged.gui.button.terrainSeedOffset": {
+    "en": "Terrain Seed Offset",
+    "zh": "地形种子偏移",
+    "vi": null
+  },
+  "reterraforged.gui.button.fancyMountains": {
+    "en": "Fancy Mountains",
+    "zh": "精美山脉",
+    "vi": null
+  },
+  "reterraforged.gui.button.riverSeedOffset": {
+    "en": "Seed Offset",
+    "zh": "种子偏移",
+    "vi": null
+  },
+  "reterraforged.gui.button.salt": {
+    "en": "Salt",
+    "zh": "盐",
+    "vi": null
+  },
+  "reterraforged.gui.button.disabled": {
+    "en": "Disabled",
+    "zh": "已禁用",
+    "vi": null
+  },
+  "reterraforged.gui.button.smoothLayerDecorator": {
+    "en": "Smooth Layer Decorator",
+    "zh": "平滑层装饰器",
+    "vi": null
+  },
+  "reterraforged.gui.button.strataDecorator": {
+    "en": "Strata Decorator",
+    "zh": "地层装饰器",
+    "vi": null
+  },
+  "reterraforged.gui.button.oreCompatibleStoneOnly": {
+    "en": "Ore Compatible Stone Only",
+    "zh": "仅与矿石兼容的石头类型",
+    "vi": null
+  },
+  "reterraforged.gui.button.erosionDecorator": {
+    "en": "Erosion Decorator",
+    "zh": "侵蚀装饰器",
+    "vi": null
+  },
+  "reterraforged.gui.button.stoneErosion": {
+    "en": "Plain Stone Erosion",
+    "zh": "平原石蚀变",
+    "vi": null
+  },
+  "reterraforged.gui.button.naturalSnowDecorator": {
+    "en": "Natural Snow Decorator",
+    "zh": "自然雪装饰器",
+    "vi": null
+  },
+  "reterraforged.gui.button.customBiomeFeatures": {
+    "en": "Custom Biome Features",
+    "zh": "自定义生物群系特征",
+    "vi": null
+  },
+  "reterraforged.gui.button.vanillaSprings": {
+    "en": "Vanilla Springs",
+    "zh": "原版水泉",
+    "vi": null
+  },
+  "reterraforged.gui.button.vanillaLavaLakes": {
+    "en": "Vanilla Lava Lakes",
+    "zh": "原版熔岩湖",
+    "vi": null
+  },
+  "reterraforged.gui.button.vanillaLavaSprings": {
+    "en": "Vanilla Lava Springs",
+    "zh": "原版熔岩泉",
+    "vi": null
+  },
+  "reterraforged.gui.slider.zoom": {
+    "en": "Zoom",
+    "zh": "缩放",
+    "vi": null
+  },
+  "reterraforged.gui.slider.continentScale": {
+    "en": "Continent Scale",
+    "zh": "大陆比例",
+    "vi": null
+  },
+  "reterraforged.gui.slider.continentJitter": {
+    "en": "Continent Jitter",
+    "zh": "大陆抖动",
+    "vi": null
+  },
+  "reterraforged.gui.slider.continentSkipping": {
+    "en": "Continent Skipping",
+    "zh": "跳过大陆",
+    "vi": null
+  },
+  "reterraforged.gui.slider.continentSizeVariance": {
+    "en": "Continent Size Variance",
+    "zh": "大陆大小变异",
+    "vi": null
+  },
+  "reterraforged.gui.slider.continentNoiseOctaves": {
+    "en": "Continent Noise Octaves",
+    "zh": "大陆噪声倍频数",
+    "vi": null
+  },
+  "reterraforged.gui.slider.continentNoiseGain": {
+    "en": "Continent Noise Gain",
+    "zh": "大陆噪声增益",
+    "vi": null
+  },
+  "reterraforged.gui.slider.continentNoisLacunarity": {
+    "en": "Continent Noise Lacunarity",
+    "zh": null,
+    "vi": null
+  },
+  "reterraforged.gui.slider.mushroomFieldsInland": {
+    "en": "Mushroom Fields Inland",
+    "zh": null,
+    "vi": null
+  },
+  "reterraforged.gui.slider.mushroomFieldsCoast": {
+    "en": "Mushroom Fields Coast",
+    "zh": null,
+    "vi": null
+  },
+  "reterraforged.gui.slider.deepOcean": {
+    "en": "Deep Ocean",
+    "zh": "深海",
+    "vi": null
+  },
+  "reterraforged.gui.slider.shallowOcean": {
+    "en": "Shallow Ocean",
+    "zh": "浅海",
+    "vi": null
+  },
+  "reterraforged.gui.slider.beach": {
+    "en": "Beach",
+    "zh": "海滩",
+    "vi": null
+  },
+  "reterraforged.gui.slider.coast": {
+    "en": "Coast",
+    "zh": "海岸线",
+    "vi": null
+  },
+  "reterraforged.gui.slider.inland": {
+    "en": "Inland",
+    "zh": "内陆",
+    "vi": null
+  },
+  "reterraforged.gui.slider.worldHeight": {
+    "en": "World Height",
+    "zh": "世界高度",
+    "vi": null
+  },
+  "reterraforged.gui.slider.worldDepth": {
+    "en": "World Depth",
+    "zh": "世界深度",
+    "vi": null
+  },
+  "reterraforged.gui.slider.seaLevel": {
+    "en": "Sea Level",
+    "zh": "海平面",
+    "vi": null
+  },
+  "reterraforged.gui.slider.lavaLevel": {
+    "en": "Lava Level",
+    "zh": "熔岩水平",
+    "vi": null
+  },
+  "reterraforged.gui.slider.entranceCaveProbability": {
+    "en": "Entrance Cave Chance",
+    "zh": "入口洞穴几率",
+    "vi": null
+  },
+  "reterraforged.gui.slider.cheeseCaveDepthOffset": {
+    "en": "Cheese Cave Depth Offset",
+    "zh": "奶酪洞穴深度偏移",
+    "vi": null
+  },
+  "reterraforged.gui.slider.cheeseCaveProbability": {
+    "en": "Cheese Cave Chance",
+    "zh": "奶酪洞穴几率",
+    "vi": null
+  },
+  "reterraforged.gui.slider.spaghettiCaveProbability": {
+    "en": "Spaghetti Cave Chance",
+    "zh": "细管洞穴几率",
+    "vi": null
+  },
+  "reterraforged.gui.slider.noodleCaveProbability": {
+    "en": "Noodle Cave Chance",
+    "zh": "细洞穴几率",
+    "vi": null
+  },
+  "reterraforged.gui.slider.carverCaveProbability": {
+    "en": "Cave Carver Chance",
+    "zh": "洞穴开凿几率",
+    "vi": null
+  },
+  "reterraforged.gui.slider.deepCarverCaveProbability": {
+    "en": "Deep Cave Carver Chance",
+    "zh": "深层洞穴开凿几率",
+    "vi": null
+  },
+  "reterraforged.gui.slider.ravineProbability": {
+    "en": "Ravine Carver Probability",
+    "zh": "峡谷开凿几率",
+    "vi": null
+  },
+  "reterraforged.gui.slider.temperatureScale": {
+    "en": "Scale",
+    "zh": "温度比例尺",
+    "vi": null
+  },
+  "reterraforged.gui.slider.temperatureFalloff": {
+    "en": "Falloff",
+    "zh": "温度衰减",
+    "vi": null
+  },
+  "reterraforged.gui.slider.temperatureMin": {
+    "en": "Min",
+    "zh": "最小温度",
+    "vi": null
+  },
+  "reterraforged.gui.slider.temperatureMax": {
+    "en": "Max",
+    "zh": "最大温度",
+    "vi": null
+  },
+  "reterraforged.gui.slider.temperatureBias": {
+    "en": "Bias",
+    "zh": "温度偏差",
+    "vi": null
+  },
+  "reterraforged.gui.slider.moistureScale": {
+    "en": "Scale",
+    "zh": "比例尺",
+    "vi": null
+  },
+  "reterraforged.gui.slider.moistureFalloff": {
+    "en": "Falloff",
+    "zh": "衰减",
+    "vi": null
+  },
+  "reterraforged.gui.slider.moistureMin": {
+    "en": "Min",
+    "zh": "最小值",
+    "vi": null
+  },
+  "reterraforged.gui.slider.moistureMax": {
+    "en": "Max",
+    "zh": "最大值",
+    "vi": null
+  },
+  "reterraforged.gui.slider.moistureBias": {
+    "en": "Bias",
+    "zh": "偏差",
+    "vi": null
+  },
+  "reterraforged.gui.slider.biomeSize": {
+    "en": "Biome Size",
+    "zh": "生物群系大小",
+    "vi": null
+  },
+  "reterraforged.gui.slider.macroNoiseSize": {
+    "en": "Macro Noise Size",
+    "zh": "宏观噪声尺寸",
+    "vi": null
+  },
+  "reterraforged.gui.slider.biomeWarpScale": {
+    "en": "Biome Warp Size",
+    "zh": "生物群系畸变比例",
+    "vi": null
+  },
+  "reterraforged.gui.slider.biomeWarpStrength": {
+    "en": "Biome Warp Strength",
+    "zh": "生物群系畸变强度",
+    "vi": null
+  },
+  "reterraforged.gui.slider.biomeEdgeScale": {
+    "en": "Scale",
+    "zh": "比例尺",
+    "vi": null
+  },
+  "reterraforged.gui.slider.biomeEdgeOctaves": {
+    "en": "Octaves",
+    "zh": "倍频数",
+    "vi": null
+  },
+  "reterraforged.gui.slider.biomeEdgeGain": {
+    "en": "Gain",
+    "zh": "增益",
+    "vi": null
+  },
+  "reterraforged.gui.slider.biomeEdgeLacunarity": {
+    "en": "Lacunarity",
+    "zh": "孔隙度",
+    "vi": null
+  },
+  "reterraforged.gui.slider.biomeEdgeStrength": {
+    "en": "Strength",
+    "zh": "强度",
+    "vi": null
+  },
+  "reterraforged.gui.slider.terrainRegionSize": {
+    "en": "Terrain Region Size",
+    "zh": "地形区域大小",
+    "vi": null
+  },
+  "reterraforged.gui.slider.globalVerticalScale": {
+    "en": "Global Vertical Scale",
+    "zh": "全局垂直比例",
+    "vi": null
+  },
+  "reterraforged.gui.slider.globalHorizontalScale": {
+    "en": "Global Horizontal Scale",
+    "zh": "全局水平比例",
+    "vi": null
+  },
+  "reterraforged.gui.slider.terrain.weight": {
+    "en": "Weight",
+    "zh": "权重",
+    "vi": null
+  },
+  "reterraforged.gui.slider.terrain.baseScale": {
+    "en": "Base Scale",
+    "zh": "基础比例",
+    "vi": null
+  },
+  "reterraforged.gui.slider.terrain.verticalScale": {
+    "en": "Vertical Scale",
+    "zh": "垂直比例",
+    "vi": null
+  },
+  "reterraforged.gui.slider.terrain.horizontalScale": {
+    "en": "Horizontal Scale",
+    "zh": "水平比例",
+    "vi": null
+  },
+  "reterraforged.gui.slider.riverCount": {
+    "en": "River Count",
+    "zh": "河流数量",
+    "vi": null
+  },
+  "reterraforged.gui.slider.river.bedDepth": {
+    "en": "Bed Depth",
+    "zh": "河床深度",
+    "vi": null
+  },
+  "reterraforged.gui.slider.river.minBankHeight": {
+    "en": "Min Bank Height",
+    "zh": "最小河岸高度",
+    "vi": null
+  },
+  "reterraforged.gui.slider.river.maxBankHeight": {
+    "en": "Max Bank Height",
+    "zh": "最大河岸高度",
+    "vi": null
+  },
+  "reterraforged.gui.slider.river.bedWidth": {
+    "en": "Bed width",
+    "zh": "河床宽度",
+    "vi": null
+  },
+  "reterraforged.gui.slider.river.bankWidth": {
+    "en": "Bank width",
+    "zh": "河岸宽度",
+    "vi": null
+  },
+  "reterraforged.gui.slider.river.fade": {
+    "en": "Fade",
+    "zh": "渐变",
+    "vi": null
+  },
+  "reterraforged.gui.slider.lake.chance": {
+    "en": "Chance",
+    "zh": "湖泊几率",
+    "vi": null
+  },
+  "reterraforged.gui.slider.lake.minStartDistance": {
+    "en": "Min Start Distance",
+    "zh": "湖泊最小起始距离",
+    "vi": null
+  },
+  "reterraforged.gui.slider.lake.maxStartDistance": {
+    "en": "Max Start Distance",
+    "zh": "湖泊最大起始距离",
+    "vi": null
+  },
+  "reterraforged.gui.slider.lake.depth": {
+    "en": "Depth",
+    "zh": "湖泊深度",
+    "vi": null
+  },
+  "reterraforged.gui.slider.lake.sizeMin": {
+    "en": "Size Min",
+    "zh": "湖泊最小尺寸",
+    "vi": null
+  },
+  "reterraforged.gui.slider.lake.sizeMax": {
+    "en": "Size Max",
+    "zh": "湖泊最大尺寸",
+    "vi": null
+  },
+  "reterraforged.gui.slider.lake.minBankHeight": {
+    "en": "Min Bank Height",
+    "zh": "湖岸最小高度",
+    "vi": null
+  },
+  "reterraforged.gui.slider.lake.maxBankHeight": {
+    "en": "Max Bank Height",
+    "zh": "湖岸最大高度",
+    "vi": null
+  },
+  "reterraforged.gui.slider.wetlandChance": {
+    "en": "Chance",
+    "zh": "湿地几率",
+    "vi": null
+  },
+  "reterraforged.gui.slider.wetland.sizeMin": {
+    "en": "Size Min",
+    "zh": "湿地最小尺寸",
+    "vi": null
+  },
+  "reterraforged.gui.slider.wetland.sizeMax": {
+    "en": "Size Max",
+    "zh": "湿地最大尺寸",
+    "vi": null
+  },
+  "reterraforged.gui.slider.erosion.dropletsPerChunk": {
+    "en": "Droplets Per Chunk",
+    "zh": "每块地区的水滴",
+    "vi": null
+  },
+  "reterraforged.gui.slider.erosion.dropletLifetime": {
+    "en": "Droplet Lifetime",
+    "zh": "水滴寿命",
+    "vi": null
+  },
+  "reterraforged.gui.slider.erosion.dropletVolume": {
+    "en": "Droplet Volume",
+    "zh": "水滴体积",
+    "vi": null
+  },
+  "reterraforged.gui.slider.erosion.dropletVelocity": {
+    "en": "Droplet Velocity",
+    "zh": "水滴速度",
+    "vi": null
+  },
+  "reterraforged.gui.slider.erosion.rate": {
+    "en": "Erosion Rate",
+    "zh": "侵蚀率",
+    "vi": null
+  },
+  "reterraforged.gui.slider.erosion.depositeRate": {
+    "en": "Deposite Rate",
+    "zh": "沉积率",
+    "vi": null
+  },
+  "reterraforged.gui.slider.smoothing.iterations": {
+    "en": "Smoothing Iterations",
+    "zh": "平滑迭代次数",
+    "vi": null
+  },
+  "reterraforged.gui.slider.smoothing.radius": {
+    "en": "Smoothing Radius",
+    "zh": "平滑半径",
+    "vi": null
+  },
+  "reterraforged.gui.slider.smoothing.rate": {
+    "en": "Smoothing Rate",
+    "zh": "平滑率",
+    "vi": null
+  },
+  "reterraforged.gui.slider.spacing": {
+    "en": "Spacing",
+    "zh": "间距",
+    "vi": null
+  },
+  "reterraforged.gui.slider.separation": {
+    "en": "Separation",
+    "zh": "分离",
+    "vi": null
+  },
+  "reterraforged.gui.slider.strataRegionSize": {
+    "en": "Strata Region Size",
+    "zh": "地层区域大小",
+    "vi": null
+  },
+  "reterraforged.gui.slider.mountainBiomeUsage": {
+    "en": "Mountain Biome Usage",
+    "zh": "山地生物群系使用",
+    "vi": null
+  },
+  "reterraforged.gui.slider.volcanoBiomeUsage": {
+    "en": "Volcano Biome Usage",
+    "zh": "火山生物群系使用",
+    "vi": null
+  },
+  "reterraforged.gui.label.previewArea": {
+    "en": "Area: ",
+    "zh": "区域：",
+    "vi": null
+  },
+  "reterraforged.gui.label.previewTerrain": {
+    "en": "Terrain: ",
+    "zh": "地形：",
+    "vi": null
+  },
+  "reterraforged.gui.label.previewBiome": {
+    "en": "Biome: ",
+    "zh": "生物群系：",
+    "vi": null
+  },
+  "reterraforged.gui.label.continent": {
+    "en": "Continent",
+    "zh": "大陆",
+    "vi": null
+  },
+  "reterraforged.gui.label.controlPoints": {
+    "en": "Control Points",
+    "zh": "控制点",
+    "vi": null
+  },
+  "reterraforged.gui.label.properties": {
+    "en": "Properties",
+    "zh": "属性",
+    "vi": null
+  },
+  "reterraforged.gui.label.noiseCaves": {
+    "en": "Noise Caves",
+    "zh": "噪声洞穴",
+    "vi": null
+  },
+  "reterraforged.gui.label.carvers": {
+    "en": "Carvers",
+    "zh": "开凿者",
+    "vi": null
+  },
+  "reterraforged.gui.label.temperature": {
+    "en": "Temperature",
+    "zh": "温度",
+    "vi": null
+  },
+  "reterraforged.gui.label.moisture": {
+    "en": "Moisture",
+    "zh": "湿气",
+    "vi": null
+  },
+  "reterraforged.gui.label.biomeShape": {
+    "en": "Biome Shape",
+    "zh": "生物群系形状",
+    "vi": null
+  },
+  "reterraforged.gui.label.biomeEdgeShape": {
+    "en": "Biome Edge Shape",
+    "zh": "生物群系边缘形状",
+    "vi": null
+  },
+  "reterraforged.gui.label.general": {
+    "en": "General",
+    "zh": "一般",
+    "vi": null
+  },
+  "reterraforged.gui.label.steppe": {
+    "en": "Steppe",
+    "zh": "干草原",
+    "vi": null
+  },
+  "reterraforged.gui.label.plains": {
+    "en": "Plains",
+    "zh": "平原",
+    "vi": null
+  },
+  "reterraforged.gui.label.hills": {
+    "en": "Hills",
+    "zh": "丘陵",
+    "vi": null
+  },
+  "reterraforged.gui.label.dales": {
+    "en": "Dales",
+    "zh": "山谷",
+    "vi": null
+  },
+  "reterraforged.gui.label.plateau": {
+    "en": "Plateau",
+    "zh": "高原",
+    "vi": null
+  },
+  "reterraforged.gui.label.badlands": {
+    "en": "Badlands",
+    "zh": "恶地",
+    "vi": null
+  },
+  "reterraforged.gui.label.torridonian": {
+    "en": "Torridonian",
+    "zh": "沉积砂岩",
+    "vi": null
+  },
+  "reterraforged.gui.label.mountains": {
+    "en": "Mountains",
+    "zh": "山脉",
+    "vi": null
+  },
+  "reterraforged.gui.label.volcano": {
+    "en": "Volcano",
+    "zh": "火山",
+    "vi": null
+  },
+  "reterraforged.gui.label.mainRivers": {
+    "en": "Main Rivers",
+    "zh": "主要河流",
+    "vi": null
+  },
+  "reterraforged.gui.label.branchRivers": {
+    "en": "Branch Rivers",
+    "zh": "支流",
+    "vi": null
+  },
+  "reterraforged.gui.label.lakes": {
+    "en": "Lakes",
+    "zh": "湖泊",
+    "vi": null
+  },
+  "reterraforged.gui.label.wetlands": {
+    "en": "Wetlands",
+    "zh": "湿地",
+    "vi": null
+  },
+  "reterraforged.gui.label.erosion": {
+    "en": "Erosion",
+    "zh": "侵蚀",
+    "vi": null
+  },
+  "reterraforged.gui.label.smoothing": {
+    "en": "Smoothing",
+    "zh": "平滑",
+    "vi": null
+  },
+  "reterraforged.gui.button.create.tooltip.fail": {
+    "en": "Failed to create preset",
+    "zh": "创建预设失败",
+    "vi": null
+  },
+  "reterraforged.gui.button.copy.tooltip.fail": {
+    "en": "Failed to copy preset",
+    "zh": "复制预设失败",
+    "vi": null
+  },
+  "reterraforged.gui.button.delete.tooltip.fail": {
+    "en": "Failed to delete preset",
+    "zh": "删除预设失败",
+    "vi": null
+  },
+  "reterraforged.gui.button.export.tooltip.fail": {
+    "en": "Failed to export preset",
+    "zh": "导出预设失败",
+    "vi": null
+  },
+  "reterraforged.gui.button.seed.tooltip": {
+    "en": "Controls the world seed",
+    "zh": "控制世界种子",
+    "vi": null
+  },
+  "reterraforged.gui.button.continentType.tooltip": {
+    "en": "Controls the continent generator type",
+    "zh": "控制大陆生成器的类型",
+    "vi": null
+  },
+  "reterraforged.gui.button.continentShape.tooltip": {
+    "en": "Controls how continent shapes are calculated. You may also need to adjust the transition points to ensure beaches etc still form.",
+    "zh": "控制大陆形状的计算方式。你可能还需要调整过渡点，以确保海滩等地形能够形成。",
+    "vi": null
+  },
+  "reterraforged.gui.button.spawnType.tooltip": {
+    "en": "Set whether spawn should be close to x=0,z=0 or the centre of the nearest continent",
+    "zh": "设置出生点应该位于x=0,z=0附近还是最近大陆的中心",
+    "vi": null
+  },
+  "reterraforged.gui.button.largeOreVeins.tooltip": {
+    "en": "Set whether large ore veins spawn",
+    "zh": "设置是否生成大型矿脉",
+    "vi": null
+  },
+  "reterraforged.gui.button.legacyCarverDistribution.tooltip": {
+    "en": "Set whether carvers use 1.16 distribution",
+    "zh": "设置是否使用1.16版本的开凿分布",
+    "vi": null
+  },
+  "reterraforged.gui.button.climateSeedOffset.tooltip": {
+    "en": "A seed offset used to randomise climate distribution",
+    "zh": "用于随机化气候分布的种子偏移",
+    "vi": null
+  },
+  "reterraforged.gui.button.biomeEdgeType.tooltip": {
+    "en": "The noise type",
+    "zh": "噪声类型",
+    "vi": null
+  },
+  "reterraforged.gui.button.terrainSeedOffset.tooltip": {
+    "en": "A seed offset used to randomise terrain distribution",
+    "zh": "用于随机化地形分布的种子偏移",
+    "vi": null
+  },
+  "reterraforged.gui.button.fancyMountains.tooltip": {
+    "en": "Carries out extra processing on mountains to make them look even nicer. Can be disabled to improve performance slightly.",
+    "zh": "对山脉进行额外处理，使其看起来更加漂亮。可以禁用以略微提高性能。",
+    "vi": null
+  },
+  "reterraforged.gui.button.riverSeedOffset.tooltip": {
+    "en": "A seed offset used to randomise river distribution",
+    "zh": "用于随机化河流分布的种子偏移",
+    "vi": null
+  },
+  "reterraforged.gui.button.salt.tooltip": {
+    "en": "A random seed value for the structure.",
+    "zh": "结构的随机种子值。",
+    "vi": null
+  },
+  "reterraforged.gui.button.disabled.tooltip": {
+    "en": "Prevent this structure from generating.",
+    "zh": "阻止这种结构生成。",
+    "vi": null
+  },
+  "reterraforged.gui.button.smoothLayerDecorator.tooltip": {
+    "en": "Modifies layer block levels (ie snow) to fit the terrain",
+    "zh": "修改层级方块的高度（比如雪）来适配地形",
+    "vi": null
+  },
+  "reterraforged.gui.button.strataDecorator.tooltip": {
+    "en": "Generates strata (rock layers) instead of just stone",
+    "zh": "生成地层（岩层）而不仅仅是石头",
+    "vi": null
+  },
+  "reterraforged.gui.button.oreCompatibleStoneOnly.tooltip": {
+    "en": "Only use stone types that ores can generate in",
+    "zh": "仅使用可以生成矿石的石头类型",
+    "vi": null
+  },
+  "reterraforged.gui.button.erosionDecorator.tooltip": {
+    "en": "Replace surface materials where erosion has occurred",
+    "zh": "在侵蚀发生处替换表层材料",
+    "vi": null
+  },
+  "reterraforged.gui.button.stoneErosion.tooltip": {
+    "en": "Changes most exposed rock surfaces to plain stone",
+    "zh": "将大部分裸露的岩石表面变为普通石头",
+    "vi": null
+  },
+  "reterraforged.gui.button.naturalSnowDecorator.tooltip": {
+    "en": "Removes snow from the terrain where it shouldn't naturally settle",
+    "zh": "从不自然堆积的地形中移除雪",
+    "vi": null
+  },
+  "reterraforged.gui.button.customBiomeFeatures.tooltip": {
+    "en": "Use custom biome features in place of vanilla ones (such as trees)",
+    "zh": "使用自定义的生物群系特征代替原版的（如树木）",
+    "vi": null
+  },
+  "reterraforged.gui.button.vanillaSprings.tooltip": {
+    "en": "Allow vanilla springs (water source blocks) to generate",
+    "zh": "允许生成原版水源泉",
+    "vi": null
+  },
+  "reterraforged.gui.button.vanillaLavaLakes.tooltip": {
+    "en": "Allow vanilla lava-lakes to generate",
+    "zh": "允许生成原版熔岩湖",
+    "vi": null
+  },
+  "reterraforged.gui.button.vanillaLavaSprings.tooltip": {
+    "en": "Allow vanilla springs (lava source blocks) to generate",
+    "zh": "允许生成原版熔岩源泉",
+    "vi": null
+  },
+  "reterraforged.gui.slider.zoom.tooltip": {
+    "en": "Controls the zoom level of the preview map",
+    "zh": "控制预览图的缩放级别",
+    "vi": null
+  },
+  "reterraforged.gui.slider.continentScale.tooltip": {
+    "en": "Controls the size of continents. You may also need to adjust the transition points to ensure beaches etc still form.",
+    "zh": "控制大陆的大小。您可能还需要调整过渡点以确保海滩等地形仍能形成。",
+    "vi": null
+  },
+  "reterraforged.gui.slider.continentJitter.tooltip": {
+    "en": "Controls how much continent centers are offset from the underlying noise grid.",
+    "zh": "控制大陆中心相对于底层噪声网格的偏移量。",
+    "vi": null
+  },
+  "reterraforged.gui.slider.continentSkipping.tooltip": {
+    "en": "Reduces the number of continents to create more vast oceans.",
+    "zh": "减少大陆的数量，以创建更广阔的海洋。",
+    "vi": null
+  },
+  "reterraforged.gui.slider.continentSizeVariance.tooltip": {
+    "en": "Increases the variance of continent sizes.",
+    "zh": "增加大陆大小的变异性。",
+    "vi": null
+  },
+  "reterraforged.gui.slider.continentNoiseOctaves.tooltip": {
+    "en": "The number of octaves of noise used to distort the continent.",
+    "zh": "用于扰乱大陆的噪声倍频数量。",
+    "vi": null
+  },
+  "reterraforged.gui.slider.continentNoiseGain.tooltip": {
+    "en": "The contribution strength of each noise octave.",
+    "zh": "每个噪声倍频的贡献强度。",
+    "vi": null
+  },
+  "reterraforged.gui.slider.continentNoisLacunarity.tooltip": {
+    "en": "The frequency multiplier for each noise octave.",
+    "zh": null,
+    "vi": null
+  },
+  "reterraforged.gui.slider.mushroomFieldsInland.tooltip": {
+    "en": "Controls the point below which mushroom fields coasts transition into mushroom fields. The greater the gap to the mushroom fields coasts slider, the more gradual the transition.",
+    "zh": null,
+    "vi": null
+  },
+  "reterraforged.gui.slider.mushroomFieldsCoast.tooltip": {
+    "en": "Controls the point below which deep oceans transition into mushroom fields coasts. The greater the gap to the deep ocean slider, the more gradual the transition.",
+    "zh": null,
+    "vi": null
+  },
+  "reterraforged.gui.slider.deepOcean.tooltip": {
+    "en": "Controls the point above which deep oceans transition into shallow oceans. The greater the gap to the shallow ocean slider, the more gradual the transition.",
+    "zh": "控制深海过渡成浅海的点。与浅海滑杆的间距越大，过渡越渐进。",
+    "vi": null
+  },
+  "reterraforged.gui.slider.shallowOcean.tooltip": {
+    "en": "Controls the point above which shallow oceans transition into coastal terrain. The greater the gap to the coast slider, the more gradual the transition.",
+    "zh": "控制浅海过渡到沿海地形的高度。与海岸滑杆间隙越大，过渡越渐进。",
+    "vi": null
+  },
+  "reterraforged.gui.slider.beach.tooltip": {
+    "en": "Controls how much of the coastal terrain is assigned to beach biomes.",
+    "zh": "控制沿海地形的海滩生物群系分配比例。",
+    "vi": null
+  },
+  "reterraforged.gui.slider.coast.tooltip": {
+    "en": "Controls the size of coastal regions and is also the point below which inland terrain transitions into oceans. Certain biomes such as Mushroom Fields only generate in coastal areas.",
+    "zh": "控制海岸地区的大小，同时也是内陆地形过渡成海洋的点。",
+    "vi": null
+  },
+  "reterraforged.gui.slider.inland.tooltip": {
+    "en": "Controls the overall transition from ocean to inland terrain.",
+    "zh": "控制从海洋到内陆地形的整体过渡。",
+    "vi": null
+  },
+  "reterraforged.gui.slider.worldHeight.tooltip": {
+    "en": "Controls the world height",
+    "zh": "控制世界高度",
+    "vi": null
+  },
+  "reterraforged.gui.slider.worldDepth.tooltip": {
+    "en": "Controls the minimum y level",
+    "zh": "控制最低y级别",
+    "vi": null
+  },
+  "reterraforged.gui.slider.seaLevel.tooltip": {
+    "en": "Controls the sea level",
+    "zh": "控制海平面高度",
+    "vi": null
+  },
+  "reterraforged.gui.slider.lavaLevel.tooltip": {
+    "en": "Controls the lava level.",
+    "zh": "控制熔岩的水平。",
+    "vi": null
+  },
+  "reterraforged.gui.slider.entranceCaveProbability.tooltip": {
+    "en": "Controls the probability that an entrance cave will generate",
+    "zh": "控制生成入口洞穴的概率",
+    "vi": null
+  },
+  "reterraforged.gui.slider.cheeseCaveDepthOffset.tooltip": {
+    "en": "Controls the depth at which cheese caves start to generate",
+    "zh": "控制奶酪洞穴开始生成的深度",
+    "vi": null
+  },
+  "reterraforged.gui.slider.cheeseCaveProbability.tooltip": {
+    "en": "Controls probability that a cheese cave will generate",
+    "zh": "控制生成奶酪洞穴的概率",
+    "vi": null
+  },
+  "reterraforged.gui.slider.spaghettiCaveProbability.tooltip": {
+    "en": "Controls the probability that a spaghetti cave will generate",
+    "zh": "控制生成细管洞穴的几率",
+    "vi": null
+  },
+  "reterraforged.gui.slider.noodleCaveProbability.tooltip": {
+    "en": "Controls probability that a noodle cave will generate",
+    "zh": "控制生成细洞穴的概率",
+    "vi": null
+  },
+  "reterraforged.gui.slider.carverCaveProbability.tooltip": {
+    "en": "Controls the probability that a cave carver will generate",
+    "zh": "控制洞穴开凿器生成的概率",
+    "vi": null
+  },
+  "reterraforged.gui.slider.deepCarverCaveProbability.tooltip": {
+    "en": "Controls the probability that a deep cave carver will generate",
+    "zh": "控制深层洞穴开凿将生成的概率",
+    "vi": null
+  },
+  "reterraforged.gui.slider.ravineProbability.tooltip": {
+    "en": "Controls the probability that a ravine carver will generate",
+    "zh": "控制生成峡谷的概率",
+    "vi": null
+  },
+  "reterraforged.gui.slider.temperatureScale.tooltip": {
+    "en": "The horizontal scale",
+    "zh": "温度的水平比例尺",
+    "vi": null
+  },
+  "reterraforged.gui.slider.temperatureFalloff.tooltip": {
+    "en": "How quickly values transition from an extremity",
+    "zh": "温度值从极端过渡到正常的速率",
+    "vi": null
+  },
+  "reterraforged.gui.slider.temperatureMin.tooltip": {
+    "en": "The lower limit of the range",
+    "zh": "温度范围的下限",
+    "vi": null
+  },
+  "reterraforged.gui.slider.temperatureMax.tooltip": {
+    "en": "The upper limit of the range",
+    "zh": "温度范围的上限",
+    "vi": null
+  },
+  "reterraforged.gui.slider.temperatureBias.tooltip": {
+    "en": "The bias towards either end of the range",
+    "zh": "偏向范围两端的温度偏差",
+    "vi": null
+  },
+  "reterraforged.gui.slider.moistureScale.tooltip": {
+    "en": "The horizontal scale",
+    "zh": "水平比例尺",
+    "vi": null
+  },
+  "reterraforged.gui.slider.moistureFalloff.tooltip": {
+    "en": "How quickly values transition from an extremity",
+    "zh": "值从极端过渡到中间的速率",
+    "vi": null
+  },
+  "reterraforged.gui.slider.moistureMin.tooltip": {
+    "en": "The lower limit of the range",
+    "zh": "范围的下限",
+    "vi": null
+  },
+  "reterraforged.gui.slider.moistureMax.tooltip": {
+    "en": "The upper limit of the range",
+    "zh": "范围的上限",
+    "vi": null
+  },
+  "reterraforged.gui.slider.moistureBias.tooltip": {
+    "en": "The bias towards either end of the range",
+    "zh": "偏向范围两端的偏差",
+    "vi": null
+  },
+  "reterraforged.gui.slider.biomeSize.tooltip": {
+    "en": "Controls the size of individual biomes",
+    "zh": "控制各个生物群系的大小",
+    "vi": null
+  },
+  "reterraforged.gui.slider.macroNoiseSize.tooltip": {
+    "en": "Macro noise is used to group large areas of biomes into a single type (such as deserts)",
+    "zh": "宏观噪声用于将大片生物群落分组为同一类型（比如沙漠）",
+    "vi": null
+  },
+  "reterraforged.gui.slider.biomeWarpScale.tooltip": {
+    "en": "Controls the scale of shape distortion for biomes",
+    "zh": "控制生物群系形状畸变的比例",
+    "vi": null
+  },
+  "reterraforged.gui.slider.biomeWarpStrength.tooltip": {
+    "en": "Controls the strength of shape distortion for biomes",
+    "zh": "控制生物群系形状畸变的强度",
+    "vi": null
+  },
+  "reterraforged.gui.slider.biomeEdgeScale.tooltip": {
+    "en": "Controls the scale of the noise",
+    "zh": "控制噪音的比例",
+    "vi": null
+  },
+  "reterraforged.gui.slider.biomeEdgeOctaves.tooltip": {
+    "en": "Controls the number of noise octaves",
+    "zh": "控制噪音倍频的数量",
+    "vi": null
+  },
+  "reterraforged.gui.slider.biomeEdgeGain.tooltip": {
+    "en": "Controls the gain subsequent noise octaves",
+    "zh": "控制后续噪音倍频的增益",
+    "vi": null
+  },
+  "reterraforged.gui.slider.biomeEdgeLacunarity.tooltip": {
+    "en": "Controls the lacunarity of subsequent noise octaves",
+    "zh": "控制后续噪音倍频的孔隙度",
+    "vi": null
+  },
+  "reterraforged.gui.slider.biomeEdgeStrength.tooltip": {
+    "en": "Controls the strength of the noise",
+    "zh": "控制噪音的强度",
+    "vi": null
+  },
+  "reterraforged.gui.slider.terrainRegionSize.tooltip": {
+    "en": "Controls the size of terrain regions",
+    "zh": "控制地形区域的大小",
+    "vi": null
+  },
+  "reterraforged.gui.slider.globalVerticalScale.tooltip": {
+    "en": "Globally controls the vertical scaling of terrain",
+    "zh": "全局控制地形的垂直缩放",
+    "vi": null
+  },
+  "reterraforged.gui.slider.globalHorizontalScale.tooltip": {
+    "en": "Globally controls the horizontal scaling of terrain",
+    "zh": "全局控制地形的水平缩放",
+    "vi": null
+  },
+  "reterraforged.gui.slider.terrain.weight.tooltip": {
+    "en": "Controls how common this terrain type is",
+    "zh": "控制该地形类型的常见程度",
+    "vi": null
+  },
+  "reterraforged.gui.slider.terrain.baseScale.tooltip": {
+    "en": "Controls the base height of this terrain",
+    "zh": "控制此地形的基础高度",
+    "vi": null
+  },
+  "reterraforged.gui.slider.terrain.verticalScale.tooltip": {
+    "en": "Stretches or compresses the terrain vertically",
+    "zh": "垂直伸缩地形",
+    "vi": null
+  },
+  "reterraforged.gui.slider.terrain.horizontalScale.tooltip": {
+    "en": "Stretches or compresses the terrain horizontally",
+    "zh": "水平伸缩地形",
+    "vi": null
+  },
+  "reterraforged.gui.slider.riverCount.tooltip": {
+    "en": "Controls the number of main rivers per continent.",
+    "zh": "控制每块大陆上主要河流的数量。",
+    "vi": null
+  },
+  "reterraforged.gui.slider.river.bedDepth.tooltip": {
+    "en": "Controls the depth of the river",
+    "zh": "控制河流的深度",
+    "vi": null
+  },
+  "reterraforged.gui.slider.river.minBankHeight.tooltip": {
+    "en": "Controls the height of river banks",
+    "zh": "控制河岸的最小高度",
+    "vi": null
+  },
+  "reterraforged.gui.slider.river.maxBankHeight.tooltip": {
+    "en": "Controls the height of river banks",
+    "zh": "控制河岸的最大高度",
+    "vi": null
+  },
+  "reterraforged.gui.slider.river.bedWidth.tooltip": {
+    "en": "Controls the river-bed width",
+    "zh": "控制河床的宽度",
+    "vi": null
+  },
+  "reterraforged.gui.slider.river.bankWidth.tooltip": {
+    "en": "Controls the river-banks width",
+    "zh": "控制河岸的宽度",
+    "vi": null
+  },
+  "reterraforged.gui.slider.river.fade.tooltip": {
+    "en": "Controls how much rivers taper",
+    "zh": "控制河流的渐变程度",
+    "vi": null
+  },
+  "reterraforged.gui.slider.lake.chance.tooltip": {
+    "en": "Controls the chance of a lake spawning",
+    "zh": "控制湖泊生成的机会",
+    "vi": null
+  },
+  "reterraforged.gui.slider.lake.minStartDistance.tooltip": {
+    "en": "The minimum distance along a river that a lake will spawn",
+    "zh": "湖泊在河流沿线生成的最小距离",
+    "vi": null
+  },
+  "reterraforged.gui.slider.lake.maxStartDistance.tooltip": {
+    "en": "The maximum distance along a river that a lake will spawn",
+    "zh": "湖泊在河流沿线生成的最大距离",
+    "vi": null
+  },
+  "reterraforged.gui.slider.lake.depth.tooltip": {
+    "en": "The max depth of the lake",
+    "zh": "湖泊的最大深度",
+    "vi": null
+  },
+  "reterraforged.gui.slider.lake.sizeMin.tooltip": {
+    "en": "The minimum size of the lake",
+    "zh": "湖泊的最小尺寸",
+    "vi": null
+  },
+  "reterraforged.gui.slider.lake.sizeMax.tooltip": {
+    "en": "The maximum size of the lake",
+    "zh": "湖泊的最大尺寸",
+    "vi": null
+  },
+  "reterraforged.gui.slider.lake.minBankHeight.tooltip": {
+    "en": "The minimum bank height",
+    "zh": "湖泊岸边的最小高度",
+    "vi": null
+  },
+  "reterraforged.gui.slider.lake.maxBankHeight.tooltip": {
+    "en": "The maximum bank height",
+    "zh": "湖泊岸边的最大高度",
+    "vi": null
+  },
+  "reterraforged.gui.slider.wetlandChance.tooltip": {
+    "en": "Controls how common wetlands are",
+    "zh": "控制湿地的常见程度",
+    "vi": null
+  },
+  "reterraforged.gui.slider.wetland.sizeMin.tooltip": {
+    "en": "The minimum size of the wetlands",
+    "zh": "湿地的最小尺寸",
+    "vi": null
+  },
+  "reterraforged.gui.slider.wetland.sizeMax.tooltip": {
+    "en": "The maximum size of the wetlands",
+    "zh": "湿地的最大尺寸",
+    "vi": null
+  },
+  "reterraforged.gui.slider.erosion.dropletsPerChunk.tooltip": {
+    "en": "The average number of water droplets to simulate per chunk",
+    "zh": "每块地区模拟的平均水滴数",
+    "vi": null
+  },
+  "reterraforged.gui.slider.erosion.dropletLifetime.tooltip": {
+    "en": "Controls the number of iterations that a single water droplet is simulated for",
+    "zh": "控制单个水滴模拟迭代的次数",
+    "vi": null
+  },
+  "reterraforged.gui.slider.erosion.dropletVolume.tooltip": {
+    "en": "Controls the starting volume of water that a simulated water droplet carries",
+    "zh": "控制模拟水滴携带的起始水量",
+    "vi": null
+  },
+  "reterraforged.gui.slider.erosion.dropletVelocity.tooltip": {
+    "en": "Controls the starting velocity of the simulated water droplet",
+    "zh": "控制模拟水滴的起始速度",
+    "vi": null
+  },
+  "reterraforged.gui.slider.erosion.rate.tooltip": {
+    "en": "Controls how quickly material dissolves (during erosion)",
+    "zh": "控制物质溶解的速率（在侵蚀过程中）",
+    "vi": null
+  },
+  "reterraforged.gui.slider.erosion.depositeRate.tooltip": {
+    "en": "Controls how quickly material is deposited (during erosion)",
+    "zh": "控制物质沉积的速率（在侵蚀过程中）",
+    "vi": null
+  },
+  "reterraforged.gui.slider.smoothing.iterations.tooltip": {
+    "en": "Controls the number of smoothing iterations",
+    "zh": "控制平滑处理的迭代次数",
+    "vi": null
+  },
+  "reterraforged.gui.slider.smoothing.radius.tooltip": {
+    "en": "Controls the smoothing radius",
+    "zh": "控制平滑半径",
+    "vi": null
+  },
+  "reterraforged.gui.slider.smoothing.rate.tooltip": {
+    "en": "Controls how strongly smoothing is applied",
+    "zh": "控制平滑处理的强度",
+    "vi": null
+  },
+  "reterraforged.gui.slider.spacing.tooltip": {
+    "en": "Controls the size of the grid used to generate the structure. Structures will attempt to generate once per grid cell. Larger spacing values will make the structure appear less frequently.",
+    "zh": "控制用于生成结构的网格大小。结构将尝试在每个网格单元生成一次。更大的间距值会让结构出现得更少。",
+    "vi": null
+  },
+  "reterraforged.gui.slider.separation.tooltip": {
+    "en": "Controls the minimum distance between instances of the structure. Larger values guarantee larger distances between structures of the same type but cause them to generate more 'grid-aligned'. Lower values will produce a more random distribution but may allow instances to generate closer together.",
+    "zh": "控制同类结构之间的最小距离。较大的值会保证结构之间有较大的距离，但可能会导致它们更加对齐网格。较小的值可能会让分布更随机，但允许结构更近地生成。",
+    "vi": null
+  },
+  "reterraforged.gui.slider.mountainBiomeUsage.tooltip": {
+    "en": "The probability that mountainous terrain will be set to a mountain biome type.\nThis may help improve compatibility with mods that rely exclusively on mountain biomes.",
+    "zh": "山地地形被设置为山地生物群系类型的概率。\n这有助于提高与只依赖山地生物群系的模组的兼容性。",
+    "vi": null
+  },
+  "reterraforged.gui.slider.volcanoBiomeUsage.tooltip": {
+    "en": "The probability that volcano terrain will be set to a volcano biome type.\nThis may help improve compatibility with mods that rely exclusively on volcano biomes.",
+    "zh": "火山地形被设置为火山生物群系类型的概率。\n这有助于提高与只依赖火山生物群系的模组的兼容性。",
+    "vi": null
+  },
+  "reterraforged.gui.slider.strataRegionSize.tooltip": {
+    "en": "Controls the size of strata regions",
+    "zh": "控制地层区域的大小",
+    "vi": null
+  },
+  "reterraforged.gui.button.legacyMountainScaling": {
+    "en": null,
+    "zh": "传统的山脉缩放",
+    "vi": null
+  },
+  "reterraforged.gui.button.legacyMountainScaling.tooltip": {
+    "en": null,
+    "zh": "将山脉的缩放更改为与传统的TerraForged兼容",
+    "vi": null
+  },
+  "reterraforged.gui.label.surfaceErosion": {
+    "en": null,
+    "zh": "表面侵蚀",
+    "vi": null
+  },
+  "reterraforged.gui.preset.legacyDefault.name": {
+    "en": null,
+    "zh": "TerraForged - 默认 (Legacy)",
+    "vi": null
+  },
+  "reterraforged.gui.slider.continentNoiseLacunarity": {
+    "en": null,
+    "zh": "大陆噪声孔隙度",
+    "vi": null
+  },
+  "reterraforged.gui.slider.continentNoiseLacunarity.tooltip": {
+    "en": null,
+    "zh": "每个噪声倍频的频率倍数。",
+    "vi": null
+  },
+  "reterraforged.gui.slider.dirtMin": {
+    "en": null,
+    "zh": "尘土下限",
+    "vi": null
+  },
+  "reterraforged.gui.slider.dirtMin.tooltip": {
+    "en": null,
+    "zh": "控制表面可以过渡成尘土的最低y级别",
+    "vi": null
+  },
+  "reterraforged.gui.slider.dirtSteepness": {
+    "en": null,
+    "zh": "尘土陡度",
+    "vi": null
+  },
+  "reterraforged.gui.slider.dirtSteepness.tooltip": {
+    "en": null,
+    "zh": "控制表面可以过渡成尘土的陡度",
+    "vi": null
+  },
+  "reterraforged.gui.slider.dirtVariance": {
+    "en": null,
+    "zh": "尘土变异",
+    "vi": null
+  },
+  "reterraforged.gui.slider.dirtVariance.tooltip": {
+    "en": null,
+    "zh": "控制尘土梯度的密度",
+    "vi": null
+  },
+  "reterraforged.gui.slider.islandCoast": {
+    "en": null,
+    "zh": "岛屿海岸",
+    "vi": null
+  },
+  "reterraforged.gui.slider.islandCoast.tooltip": {
+    "en": null,
+    "zh": "控制深海过渡到岛屿海岸的点。与深海滑块的间距越大，过渡越渐进。",
+    "vi": null
+  },
+  "reterraforged.gui.slider.islandInland": {
+    "en": null,
+    "zh": "岛屿内陆",
+    "vi": null
+  },
+  "reterraforged.gui.slider.islandInland.tooltip": {
+    "en": null,
+    "zh": "控制岛屿海岸过渡到岛屿内陆的点。与岛屿海岸滑杆的间距越大，过渡越渐进。",
+    "vi": null
+  },
+  "reterraforged.gui.slider.rockMin": {
+    "en": null,
+    "zh": "岩石最低限",
+    "vi": null
+  },
+  "reterraforged.gui.slider.rockMin.tooltip": {
+    "en": null,
+    "zh": "控制表面可以过渡成岩石的最低y级别",
+    "vi": null
+  },
+  "reterraforged.gui.slider.rockSteepness": {
+    "en": null,
+    "zh": "岩石陡度",
+    "vi": null
+  },
+  "reterraforged.gui.slider.rockSteepness.tooltip": {
+    "en": null,
+    "zh": "表面可以过渡成岩石的陡度",
+    "vi": null
+  },
+  "reterraforged.gui.slider.rockVariance": {
+    "en": null,
+    "zh": "岩石变异度",
+    "vi": null
+  },
+  "reterraforged.gui.slider.rockVariance.tooltip": {
+    "en": null,
+    "zh": "控制岩石梯度的密度",
+    "vi": null
+  },
+  "reterraforged.gui.slider.screeSteepness": {
+    "en": null,
+    "zh": "碎石陡度",
+    "vi": null
+  },
+  "reterraforged.gui.slider.screeSteepness.tooltip": {
+    "en": null,
+    "zh": "表面可以过渡成碎石的陡度",
+    "vi": null
+  },
+  "reterraforged.gui.surfaceSettings.title": {
+    "en": null,
+    "zh": "表面设置（实验性）",
+    "vi": null
+  }
+}

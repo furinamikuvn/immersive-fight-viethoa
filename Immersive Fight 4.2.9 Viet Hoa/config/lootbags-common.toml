@@ -1,0 +1,22 @@
+
+["Lootbags Settings"]
+	commonLootTable = "lootbags:common"
+	uncommonLootTable = "lootbags:uncommon"
+	rareLootTable = "lootbags:rare"
+	epicLootTable = "lootbags:epic"
+	#Range: 1 ~ 64
+	amount = 5
+	#Chance for common lootbag to drop (0-100)
+	#Range: 0 ~ 100
+	commonChance = 2
+	#Chance for uncommon lootbag to drop (0-100)
+	#Range: 0 ~ 100
+	uncommonChance = 10
+	#Chance for rare lootbag to drop (0-100)
+	#Range: 0 ~ 100
+	rareChance = 100
+	#Chance for epic lootbag to drop (0-100)
+	#Range: 0 ~ 100
+	epicChance = 100
+	mustBePlayerKill = true
+

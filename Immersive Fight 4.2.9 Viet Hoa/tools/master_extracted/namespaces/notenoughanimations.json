@@ -1,0 +1,347 @@
+{
+  "text.nea.title": {
+    "en": "Not Enough Animations Settings",
+    "zh": null,
+    "vi": null
+  },
+  "text.nea.enable.animationsmoothing": {
+    "en": "Animation Smoothing",
+    "zh": null,
+    "vi": null
+  },
+  "text.nea.enable.animationsmoothing.tooltip": {
+    "en": "Smooths out the arm/leg animations to make them look more natural and less jumpy",
+    "zh": null,
+    "vi": null
+  },
+  "text.nea.smoothingSpeed": {
+    "en": "Smoothing Amount",
+    "zh": null,
+    "vi": null
+  },
+  "text.nea.smoothingSpeed.tooltip": {
+    "en": "The amount of smoothing to apply to the arm/leg animations",
+    "zh": null,
+    "vi": null
+  },
+  "text.nea.enable.inworldmaprendering": {
+    "en": "In-World Map Rendering",
+    "zh": null,
+    "vi": null
+  },
+  "text.nea.enable.inworldmaprendering.tooltip": {
+    "en": "Renders the map in the world instead of just in first person",
+    "zh": null,
+    "vi": null
+  },
+  "text.nea.enable.offhandhiding": {
+    "en": "Bow Animation Fixes",
+    "zh": null,
+    "vi": null
+  },
+  "text.nea.enable.offhandhiding.tooltip": {
+    "en": "Hide offhand items when pulling a bow",
+    "zh": null,
+    "vi": null
+  },
+  "text.nea.enable.rotationlocking": {
+    "en": "Animation Rotation Locking",
+    "zh": null,
+    "vi": null
+  },
+  "text.nea.enable.rotationlocking.tooltip": {
+    "en": "Locks the rotation of the player's body to the rotation of the player's head",
+    "zh": null,
+    "vi": null
+  },
+  "text.nea.enable.ladderanimation": {
+    "en": "Ladder Animation",
+    "zh": null,
+    "vi": null
+  },
+  "text.nea.enable.ladderanimation.tooltip": {
+    "en": "Adds an animation for climbing ladders(note: only ladders, not vines, scaffolding, etc.)",
+    "zh": null,
+    "vi": null
+  },
+  "text.nea.enable.eatdringanimation": {
+    "en": "Eat/Drink Animation",
+    "zh": null,
+    "vi": null
+  },
+  "text.nea.enable.eatdringanimation.tooltip": {
+    "en": "Adds an animation for eating and drinking",
+    "zh": null,
+    "vi": null
+  },
+  "text.nea.enable.rowboatanimation": {
+    "en": "Boat Rowing Animation",
+    "zh": null,
+    "vi": null
+  },
+  "text.nea.enable.rowboatanimation.tooltip": {
+    "en": "Adds an animation for rowing a boat",
+    "zh": null,
+    "vi": null
+  },
+  "text.nea.enable.horseanimation": {
+    "en": "Horse Riding Animation",
+    "zh": null,
+    "vi": null
+  },
+  "text.nea.enable.horseanimation.tooltip": {
+    "en": "Adds an animation for riding a horse",
+    "zh": null,
+    "vi": null
+  },
+  "text.nea.enable.dontholditemsinbed": {
+    "en": "No Sleep Items",
+    "zh": null,
+    "vi": null
+  },
+  "text.nea.enable.dontholditemsinbed.tooltip": {
+    "en": "Prevents the player from holding items while in bed",
+    "zh": null,
+    "vi": null
+  },
+  "text.nea.enable.freezearmsinbed": {
+    "en": "No Sleep Movement",
+    "zh": null,
+    "vi": null
+  },
+  "text.nea.enable.freezearmsinbed.tooltip": {
+    "en": "Prevents the player from moving their arms while in bed",
+    "zh": null,
+    "vi": null
+  },
+  "text.nea.rotationlock": {
+    "en": "Rotation Lock",
+    "zh": null,
+    "vi": null
+  },
+  "text.nea.rotationlock.tooltip": {
+    "en": "The type of rotation locking to use",
+    "zh": null,
+    "vi": null
+  },
+  "text.nea.rotationlock.NONE": {
+    "en": "None",
+    "zh": null,
+    "vi": null
+  },
+  "text.nea.rotationlock.FIXED": {
+    "en": "Fixed",
+    "zh": null,
+    "vi": null
+  },
+  "text.nea.rotationlock.SMOOTH": {
+    "en": "Smooth",
+    "zh": null,
+    "vi": null
+  },
+  "text.nea.enable.showlastusedsword": {
+    "en": "[Deprecated]Scabbard Sword",
+    "zh": null,
+    "vi": null
+  },
+  "text.nea.enable.showlastusedsword.tooltip": {
+    "en": "[Deprecated for removal! Use other mods for this feature!] Shows the last used sword on the player. This is just a visual effect without knowledge of the actual inventory. Please don't report 'bugs' that the sword is still rendered after throwing it away/putting it in a chest/etc.",
+    "zh": null,
+    "vi": null
+  },
+  "text.nea.enable.crawling": {
+    "en": "Crawling Animation",
+    "zh": null,
+    "vi": null
+  },
+  "text.nea.enable.crawling.tooltip": {
+    "en": "Adds an animation for crawling, replacing the vanilla 'crawling'(swimming) animation",
+    "zh": null,
+    "vi": null
+  },
+  "text.nea.enable.rotatetoladder": {
+    "en": "Snap Body To Ladder",
+    "zh": null,
+    "vi": null
+  },
+  "text.nea.enable.rotatetoladder.tooltip": {
+    "en": "Rotates the player's body to face the ladder when climbing it",
+    "zh": null,
+    "vi": null
+  },
+  "text.nea.holdUpItemsMode": {
+    "en": "Holding Up Mode",
+    "zh": null,
+    "vi": null
+  },
+  "text.nea.holdUpItemsMode.tooltip": {
+    "en": "Makes the player to hold up items(like they are looking at them/holding them in front of them)",
+    "zh": null,
+    "vi": null
+  },
+  "text.nea.holdUpItemsMode.ALL": {
+    "en": "All Items",
+    "zh": null,
+    "vi": null
+  },
+  "text.nea.holdUpItemsMode.NONE": {
+    "en": "No Items",
+    "zh": null,
+    "vi": null
+  },
+  "text.nea.holdUpItemsMode.CONFIG": {
+    "en": "Only Config Items",
+    "zh": null,
+    "vi": null
+  },
+  "text.nea.holdUpItemOffset": {
+    "en": "Holding Up Offset",
+    "zh": null,
+    "vi": null
+  },
+  "text.nea.holdUpItemOffset.tooltip": {
+    "en": "Modify how much the item is held up",
+    "zh": null,
+    "vi": null
+  },
+  "text.nea.ladderAnimationAmplifier": {
+    "en": "Ladder Arm Amplifier",
+    "zh": null,
+    "vi": null
+  },
+  "text.nea.ladderAnimationAmplifier.tooltip": {
+    "en": "The amount of movement to apply to the arms when climbing a ladder",
+    "zh": null,
+    "vi": null
+  },
+  "text.nea.ladderAnimationArmHeight": {
+    "en": "Ladder Arm Height",
+    "zh": null,
+    "vi": null
+  },
+  "text.nea.ladderAnimationArmHeight.tooltip": {
+    "en": "The height of the arms when climbing a ladder",
+    "zh": null,
+    "vi": null
+  },
+  "text.nea.ladderAnimationArmSpeed": {
+    "en": "Ladder Arm Speed",
+    "zh": null,
+    "vi": null
+  },
+  "text.nea.ladderAnimationArmSpeed.tooltip": {
+    "en": "The speed of the arms when climbing a ladder",
+    "zh": null,
+    "vi": null
+  },
+  "text.nea.enable.itemSwapAnimation": {
+    "en": "Item Swap Animation",
+    "zh": null,
+    "vi": null
+  },
+  "text.nea.enable.itemSwapAnimation.tooltip": {
+    "en": "Adds an animation for swapping items from the main hand to the off hand and vice versa",
+    "zh": null,
+    "vi": null
+  },
+  "text.nea.enable.tweakElytraAnimation": {
+    "en": "Tweak Elytra Flying",
+    "zh": null,
+    "vi": null
+  },
+  "text.nea.enable.tweakElytraAnimation.tooltip": {
+    "en": "Tweaks the elytra flying animation to make it look more natural",
+    "zh": null,
+    "vi": null
+  },
+  "text.nea.enable.petAnimation": {
+    "en": "Pet Wolfs/Cats",
+    "zh": null,
+    "vi": null
+  },
+  "text.nea.enable.petAnimation.tooltip": {
+    "en": "Adds an animation for petting wolfs and cats. Look at the wolf/cat while sneaking to pet it",
+    "zh": null,
+    "vi": null
+  },
+  "text.nea.enable.fallingAnimation": {
+    "en": "[WIP]Falling Animation",
+    "zh": null,
+    "vi": null
+  },
+  "text.nea.enable.fallingAnimation.tooltip": {
+    "en": "Adds an animation for falling",
+    "zh": null,
+    "vi": null
+  },
+  "text.nea.enable.freezingAnimation": {
+    "en": "Freezing Animation",
+    "zh": null,
+    "vi": null
+  },
+  "text.nea.enable.freezingAnimation.tooltip": {
+    "en": "Adds an animation for freezing",
+    "zh": null,
+    "vi": null
+  },
+  "text.nea.enable.huggingAnimation": {
+    "en": "Simple Hugging Animation",
+    "zh": null,
+    "vi": null
+  },
+  "text.nea.enable.huggingAnimation.tooltip": {
+    "en": "Adds an animation for hugging. Look at another player while sneaking to 'hug' them",
+    "zh": null,
+    "vi": null
+  },
+  "text.nea.enable.narutoRunning": {
+    "en": "❝Naruto Running❞",
+    "zh": null,
+    "vi": null
+  },
+  "text.nea.enable.narutoRunning.tooltip": {
+    "en": "Adds an animation for running in the style of Naruto(easter egg)",
+    "zh": null,
+    "vi": null
+  },
+  "text.nea.enable.enableInWorldBookRendering": {
+    "en": "[WIP]In-World Books",
+    "zh": null,
+    "vi": null
+  },
+  "text.nea.enable.enableInWorldBookRendering.tooltip": {
+    "en": "Renders books in the world with their text. This is still a work in progress and may not work properly",
+    "zh": null,
+    "vi": null
+  },
+  "text.nea.disableLegSmoothing": {
+    "en": "Disable Leg Smoothing",
+    "zh": null,
+    "vi": null
+  },
+  "text.nea.disableLegSmoothing.tooltip": {
+    "en": "Disables the smoothing of the legs",
+    "zh": null,
+    "vi": null
+  },
+  "text.nea.enable.bowAnimation": {
+    "en": "Bow Animation",
+    "zh": null,
+    "vi": null
+  },
+  "text.nea.enable.bowAnimation.tooltip": {
+    "en": "The type of bow animation to use",
+    "zh": null,
+    "vi": null
+  },
+  "text.nea.enable.bowAnimation.VANILLA": {
+    "en": "Vanilla",
+    "zh": null,
+    "vi": null
+  },
+  "text.nea.enable.bowAnimation.CUSTOM_V1": {
+    "en": "Custom V1",
+    "zh": null,
+    "vi": null
+  }
+}

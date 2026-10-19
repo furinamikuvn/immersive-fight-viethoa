@@ -1,0 +1,15 @@
+{
+    "name": "illagerstructures:iceberg_shipwreck",
+    "fallback": "minecraft:empty",
+    "elements": [
+        {
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "processors": "minecraft:empty",
+                "projection": "rigid",
+                "location": "illagerstructures:iceberg_shipwreck"
+            },
+            "weight": 1
+        }
+    ]
+}

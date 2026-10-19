@@ -1,0 +1,31 @@
+{
+
+  "key.category.ssamod": "Sunrise & Sunset Audio",
+  "key.category.ssamod.openoptions": "Open Options",
+
+  "gui.ssa.options": "Sunrise & Sunset Audio",
+  "gui.ssa.options_play": "⏵",
+  "gui.ssa.options_percent": " %",
+  "gui.ssa.options_slider_rooster": "Rooster: ",
+  "gui.ssa.options_slider_wolf": "Wolf: ",
+  "gui.ssa.options_play_cave": "Play Sounds In Cave",
+  "gui.ssa.options_send_messages": "Send Messages",
+  "gui.ssa.options_update": "New version of mod is available!",
+  "gui.ssa.options_reset": "Reset Defaults",
+  "gui.ssa.options_morning_tick": "Morning Tick (10 - 23999)",
+  "gui.ssa.options_evening_tick": "Evening Tick (10 - 23999)",
+  "gui.ssa.options_chance_rooster": "Chance: ",
+  "gui.ssa.options_chance_wolf": "Chance: ",
+
+  "gui.ssa.options_moon_phase_all": "All",
+  "gui.ssa.options_moon_phase_full_moon": "Full Moon",
+  "gui.ssa.options_moon_phase_tooltip": "Choose Moon Phase when wolf sound will be played",
+
+  "messages.ssa.morning_message": "Morning...",
+  "messages.ssa.evening_message": "Evening...",
+  "messages.ssa.error_message_invalid_value": "Invalid Value!! Set to Default",
+  "messages.ssa.error_message_same_value": "Values Can't be Same!! Set to Default",
+  "gui.ssa.options_play_in_other_dim": "Play Sounds In Other Dimensions",
+  "gui.ssa.options_send_messages_in_other_dim": "Send Messages In Other Dimensions"
+
+}

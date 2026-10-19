@@ -1,0 +1,77 @@
+{
+  "item.queen_bee.stinger": {
+    "en": "Stinger",
+    "zh": "蜂刺",
+    "vi": null
+  },
+  "item.queen_bee.queen_bee_spawn_egg": {
+    "en": "Queen Bee Spawn Egg",
+    "zh": "蜂后刷怪蛋",
+    "vi": null
+  },
+  "item.queen_bee.stinger_sword": {
+    "en": "Stinger Sword",
+    "zh": "蜂刺剑",
+    "vi": null
+  },
+  "item.queen_bee.antenna": {
+    "en": "Antenna",
+    "zh": "蜜蜂触角",
+    "vi": null
+  },
+  "tooltip.queen_bee.item.shift_up": {
+    "en": "Press SHIFT for more info!",
+    "zh": "按住SHIFT键获取更多信息！",
+    "vi": null
+  },
+  "tooltip.queen_bee.stinger_sword": {
+    "en": "When antenna is equipped, Shift + Right click to summon a friendly bee that will give you and nearby friends the regeneration effect. Also, this sword inflicts poison and nausea.",
+    "zh": "攻击造成中毒和反胃，当你戴着蜜蜂触角时，按Shift+右键会召唤一只友好的蜜蜂，它会给附近的玩家生命恢复。",
+    "vi": null
+  },
+  "tooltip.queen_bee.antenna": {
+    "en": "When equipped bees will never aggro on you.",
+    "zh": "穿戴时，蜜蜂不会攻击你。",
+    "vi": null
+  },
+  "advancement.queen_bee.it_shouldnt_bee_edible.title": {
+    "en": "It Shouldn't Bee Edible",
+    "zh": "嗟来之食",
+    "vi": null
+  },
+  "advancement.queen_bee.it_shouldnt_bee_edible.descr": {
+    "en": "Eat the bee stinger",
+    "zh": "吃掉蜂刺",
+    "vi": null
+  },
+  "advancement.queen_bee.im_the_queen.title": {
+    "en": "I'm The Queen",
+    "zh": "姐是女王",
+    "vi": null
+  },
+  "advancement.queen_bee.im_the_queen.descr": {
+    "en": "Defeat Queen Bee and get her antennas",
+    "zh": "击败蜂后获得蜜蜂触角",
+    "vi": null
+  },
+  "advancement.queen_bee.root.title": {
+    "en": "Queen Bee Mod",
+    "zh": "蜂后模组",
+    "vi": null
+  },
+  "advancement.queen_bee.root.descr": {
+    "en": "Queen Bee mod advancements",
+    "zh": "蜂后模组进度",
+    "vi": null
+  },
+  "entity.queen_bee.queen_bee": {
+    "en": "Queen Bee",
+    "zh": "蜂后",
+    "vi": null
+  },
+  "creativemodetab.queen_bee.queen_bee_tab": {
+    "en": "Queen Bee",
+    "zh": "蜂后",
+    "vi": null
+  }
+}

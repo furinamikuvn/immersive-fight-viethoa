@@ -1,0 +1,15 @@
+
+#Local client-only settings
+[client]
+	#Enable first-person banking and barrel-roll camera effects while riding dragons
+	first_person_banking_camera = true
+	#Enable camera wobble while diving quickly on flying dragons
+	dive_camera_wobble = true
+	#Enable screen edge speed lines while diving quickly on flying dragons
+	dive_speed_lines = true
+	#Enable the local generic wind loop while riding diving flying dragons
+	generic_dive_loop = true
+	#Local Draconian Swarm battle music volume, in percent
+	#Range: 0 ~ 100
+	swarm_battle_music_volume = 50
+

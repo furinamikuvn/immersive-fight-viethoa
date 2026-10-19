@@ -1,0 +1,1201 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	disable_toast: true
+	filename: "439852AF1B3556D9"
+	group: "27EE47AB69EC29B4"
+	icon: {
+		Count: 1
+		id: "legendary_monsters:dinosaur_bone_shield"
+		tag: {
+			Damage: 0
+		}
+	}
+	id: "439852AF1B3556D9"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			can_repeat: true
+			description: [
+				"Adventure Pointer tìm kiếm tên sinh vật"
+				"Kích thước: Kết thúc"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "legendary_monsters:chorus_crystal"
+			}
+			id: "72F6A3499DDC681E"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4D8793796233AC0A"
+				table_id: 823528550893493875L
+				type: "random"
+			}]
+			shape: "diamond"
+			tasks: [
+				{
+					entity: "legendary_monsters:endersent"
+					entity_use_tag: false
+					entity_vis_idle_mode: "USE_GLOBAL"
+					entity_vis_offset_x: 0.0f
+					entity_vis_offset_y: 0.0f
+					entity_vis_rotation: 0.0f
+					entity_vis_silhouette_mode: "NONE"
+					entity_vis_size: 1.0f
+					entity_vis_spin_mode: "USE_GLOBAL"
+					entity_vis_use_as_quest_icon: false
+					entity_vis_walk_mode: "USE_GLOBAL"
+					icon: "legendary_monsters:chorus_crystal"
+					id: "579389B1282C4E9E"
+					type: "kill"
+					value: 1L
+				}
+				{
+					consume_items: true
+					count: 16L
+					disable_toast: true
+					id: "48BE64274F30D080"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:emerald"
+					}
+					type: "item"
+				}
+			]
+			x: -2.5d
+			y: 3.5d
+		}
+		{
+			can_repeat: true
+			description: [
+				"Adventure Pointer tìm kiếm tên sinh vật"
+				"Kích thước: Nether"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "legendary_monsters:warped_mushroom_cap_part"
+			}
+			id: "45B1ED214CD9D745"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "311BBE6637541780"
+				table_id: 823528550893493875L
+				type: "random"
+			}]
+			shape: "diamond"
+			tasks: [
+				{
+					entity: "legendary_monsters:warped_fungussus"
+					entity_use_tag: false
+					entity_vis_idle_mode: "USE_GLOBAL"
+					entity_vis_offset_x: 0.0f
+					entity_vis_offset_y: 0.0f
+					entity_vis_rotation: 0.0f
+					entity_vis_silhouette_mode: "NONE"
+					entity_vis_size: 1.0f
+					entity_vis_spin_mode: "USE_GLOBAL"
+					entity_vis_use_as_quest_icon: false
+					entity_vis_walk_mode: "USE_GLOBAL"
+					icon: "legendary_monsters:warped_mushroom_cap_part"
+					id: "5E8AD508B01534D8"
+					type: "kill"
+					value: 1L
+				}
+				{
+					consume_items: true
+					count: 16L
+					disable_toast: true
+					id: "148AEE9177B6B5D8"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:emerald"
+					}
+					type: "item"
+				}
+			]
+			x: -2.5d
+			y: 4.5d
+		}
+		{
+			can_repeat: true
+			description: [
+				"Adventure Pointer tìm kiếm tên sinh vật"
+				"Kích thước: Thế giới bên kia"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "legendary_monsters:frozen_rune"
+			}
+			id: "7FC51A68C9820082"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "0880676E83221E3C"
+				table_id: 823528550893493875L
+				type: "random"
+			}]
+			shape: "diamond"
+			tasks: [
+				{
+					entity: "legendary_monsters:frostbitten_golem"
+					entity_use_tag: false
+					entity_vis_idle_mode: "USE_GLOBAL"
+					entity_vis_offset_x: 0.0f
+					entity_vis_offset_y: 0.0f
+					entity_vis_rotation: 0.0f
+					entity_vis_silhouette_mode: "NONE"
+					entity_vis_size: 1.0f
+					entity_vis_spin_mode: "USE_GLOBAL"
+					entity_vis_use_as_quest_icon: false
+					entity_vis_walk_mode: "USE_GLOBAL"
+					icon: "legendary_monsters:frozen_rune"
+					id: "7E4FA6A1B83D03A6"
+					type: "kill"
+					value: 1L
+				}
+				{
+					consume_items: true
+					count: 16L
+					disable_toast: true
+					id: "2EA63DE9076BF28A"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:emerald"
+					}
+					type: "item"
+				}
+			]
+			x: -3.5d
+			y: 0.5d
+		}
+		{
+			can_repeat: true
+			description: [
+				"Adventure Pointer tìm kiếm tên sinh vật"
+				"Kích thước: Nether"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "legendary_monsters:dinosaur_bone"
+			}
+			id: "55A17E36002555D2"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "652BB2A6C6755609"
+				table_id: 823528550893493875L
+				type: "random"
+			}]
+			shape: "diamond"
+			tasks: [
+				{
+					entity: "legendary_monsters:skeletosaurus"
+					entity_use_tag: false
+					entity_vis_idle_mode: "USE_GLOBAL"
+					entity_vis_offset_x: 0.0f
+					entity_vis_offset_y: 0.0f
+					entity_vis_rotation: 0.0f
+					entity_vis_silhouette_mode: "NONE"
+					entity_vis_size: 1.0f
+					entity_vis_spin_mode: "USE_GLOBAL"
+					entity_vis_use_as_quest_icon: false
+					entity_vis_walk_mode: "USE_GLOBAL"
+					icon: "legendary_monsters:dinosaur_bone"
+					id: "35C61771A8C77691"
+					type: "kill"
+					value: 1L
+				}
+				{
+					consume_items: true
+					count: 16L
+					disable_toast: true
+					id: "17DEB6D3A1CEC6A1"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:emerald"
+					}
+					type: "item"
+				}
+			]
+			x: -3.5d
+			y: 3.5d
+		}
+		{
+			can_repeat: true
+			description: [
+				"Adventure Pointer tìm kiếm tên sinh vật"
+				"Kích thước: Thế giới bên kia"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "legendary_monsters:nature_crystal"
+			}
+			id: "1E052F8D5A598221"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6FA64BCFA2F765F9"
+				table_id: 823528550893493875L
+				type: "random"
+			}]
+			shape: "diamond"
+			tasks: [
+				{
+					entity: "legendary_monsters:overgrown_colossus"
+					entity_use_tag: false
+					entity_vis_idle_mode: "USE_GLOBAL"
+					entity_vis_offset_x: 0.0f
+					entity_vis_offset_y: 0.0f
+					entity_vis_rotation: 0.0f
+					entity_vis_silhouette_mode: "NONE"
+					entity_vis_size: 1.0f
+					entity_vis_spin_mode: "USE_GLOBAL"
+					entity_vis_use_as_quest_icon: false
+					entity_vis_walk_mode: "USE_GLOBAL"
+					icon: "legendary_monsters:nature_crystal"
+					id: "529DC7BBD3A62AF4"
+					type: "kill"
+					value: 1L
+				}
+				{
+					consume_items: true
+					count: 16L
+					id: "7BCF4B61C781E922"
+					item: {
+						Count: 16
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:emerald"
+					}
+					type: "item"
+				}
+			]
+			x: -2.5d
+			y: 0.5d
+		}
+		{
+			can_repeat: true
+			description: [
+				"Adventure Pointer tìm kiếm tên sinh vật"
+				"Kích thước: Nether"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "legendary_monsters:lava_eaters_skin"
+			}
+			id: "45E145161413CCC5"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3CB61F8139096328"
+				table_id: 823528550893493875L
+				type: "random"
+			}]
+			shape: "diamond"
+			tasks: [
+				{
+					entity: "legendary_monsters:lava_eater"
+					entity_use_tag: false
+					entity_vis_idle_mode: "USE_GLOBAL"
+					entity_vis_offset_x: 0.0f
+					entity_vis_offset_y: 0.0f
+					entity_vis_rotation: 0.0f
+					entity_vis_silhouette_mode: "NONE"
+					entity_vis_size: 1.0f
+					entity_vis_spin_mode: "USE_GLOBAL"
+					entity_vis_use_as_quest_icon: false
+					entity_vis_walk_mode: "USE_GLOBAL"
+					icon: "legendary_monsters:lava_eaters_skin"
+					id: "7A6509E2CC3DF6CE"
+					type: "kill"
+					value: 1L
+				}
+				{
+					consume_items: true
+					count: 16L
+					disable_toast: true
+					id: "5CCCCA59CA8BA7EC"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:emerald"
+					}
+					type: "item"
+				}
+			]
+			x: -3.5d
+			y: 2.5d
+		}
+		{
+			can_repeat: true
+			description: [
+				"Adventure Pointer tìm kiếm tên sinh vật"
+				"Kích thước: Kết thúc"
+			]
+			entity_vis_size: 1.0f
+			icon: "legendary_monsters:large_shulker_shell"
+			id: "393CA001131CED20"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "00DA58A6248854E5"
+				table_id: 823528550893493875L
+				type: "random"
+			}]
+			shape: "diamond"
+			tasks: [
+				{
+					entity: "legendary_monsters:shulker_mimic"
+					entity_use_tag: false
+					entity_vis_idle_mode: "USE_GLOBAL"
+					entity_vis_offset_x: 0.0f
+					entity_vis_offset_y: 0.0f
+					entity_vis_rotation: 0.0f
+					entity_vis_silhouette_mode: "NONE"
+					entity_vis_size: 1.0f
+					entity_vis_spin_mode: "USE_GLOBAL"
+					entity_vis_use_as_quest_icon: false
+					entity_vis_walk_mode: "USE_GLOBAL"
+					icon: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "legendary_monsters:large_shulker_shell"
+					}
+					id: "08A38FF89A295DCA"
+					type: "kill"
+					value: 1L
+				}
+				{
+					consume_items: true
+					count: 16L
+					disable_toast: true
+					id: "5F22CF46E97044D6"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:emerald"
+					}
+					type: "item"
+				}
+			]
+			x: -2.5d
+			y: 1.5d
+		}
+		{
+			can_repeat: true
+			description: [
+				"Adventure Pointer tìm kiếm tên sinh vật"
+				"Kích thước: Nether"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "legendary_monsters:withered_bone"
+			}
+			id: "54AC6BBA4161FFFC"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "79DBC487EF125D02"
+				table_id: 823528550893493875L
+				type: "random"
+			}]
+			shape: "diamond"
+			tasks: [
+				{
+					entity: "legendary_monsters:withered_abomination"
+					entity_use_tag: false
+					entity_vis_idle_mode: "USE_GLOBAL"
+					entity_vis_offset_x: 0.0f
+					entity_vis_offset_y: 0.0f
+					entity_vis_rotation: 0.0f
+					entity_vis_silhouette_mode: "NONE"
+					entity_vis_size: 1.0f
+					entity_vis_spin_mode: "USE_GLOBAL"
+					entity_vis_use_as_quest_icon: false
+					entity_vis_walk_mode: "USE_GLOBAL"
+					icon: "legendary_monsters:withered_bone"
+					id: "24DE11FBCF7B2442"
+					type: "kill"
+					value: 1L
+				}
+				{
+					consume_items: true
+					count: 16L
+					disable_toast: true
+					id: "1C177398A81FE1CD"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:emerald"
+					}
+					type: "item"
+				}
+			]
+			x: -2.5d
+			y: 2.5d
+		}
+		{
+			can_repeat: true
+			description: [
+				"Adventure Pointer tìm kiếm tên sinh vật"
+				"Kích thước: Thế giới bên kia"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "legendary_monsters:chiseled_ancient_dripstone_shard"
+			}
+			id: "395922BE668A6FC1"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "2EE0BB929AC7805F"
+				table_id: 823528550893493875L
+				type: "random"
+			}]
+			shape: "diamond"
+			tasks: [
+				{
+					entity: "legendary_monsters:ancient_guardian"
+					entity_use_tag: false
+					entity_vis_idle_mode: "USE_GLOBAL"
+					entity_vis_offset_x: 0.0f
+					entity_vis_offset_y: 0.0f
+					entity_vis_rotation: 0.0f
+					entity_vis_silhouette_mode: "NONE"
+					entity_vis_size: 1.0f
+					entity_vis_spin_mode: "USE_GLOBAL"
+					entity_vis_use_as_quest_icon: false
+					entity_vis_walk_mode: "USE_GLOBAL"
+					icon: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "legendary_monsters:chiseled_ancient_dripstone_shard"
+					}
+					id: "55A45EE2A8664CC0"
+					type: "kill"
+					value: 1L
+				}
+				{
+					consume_items: true
+					count: 16L
+					id: "366029A870498473"
+					item: {
+						Count: 16
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:emerald"
+					}
+					type: "item"
+				}
+			]
+			x: -3.5d
+			y: 1.5d
+		}
+		{
+			can_repeat: true
+			description: [
+				"Adventure Pointer tìm kiếm tên sinh vật"
+				"BOSS sau này. Mạnh mẽ hơn"
+				"Kích thước: Thế giới bên kia"
+			]
+			entity_vis_size: 1.0f
+			icon: "legendary_monsters:air_rune"
+			id: "66C55560EDB55082"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4962D4032EC5B577"
+				table_id: 823528550893493875L
+				type: "random"
+			}]
+			shape: "hexagon"
+			size: 1.2d
+			tasks: [
+				{
+					disable_toast: true
+					entity: "legendary_monsters:cloud_golem"
+					entity_use_tag: false
+					entity_vis_idle_mode: "USE_GLOBAL"
+					entity_vis_offset_x: 0.0f
+					entity_vis_offset_y: 0.0f
+					entity_vis_rotation: 0.0f
+					entity_vis_silhouette_mode: "NONE"
+					entity_vis_size: 1.0f
+					entity_vis_spin_mode: "USE_GLOBAL"
+					entity_vis_use_as_quest_icon: false
+					entity_vis_walk_mode: "USE_GLOBAL"
+					icon: "legendary_monsters:air_rune"
+					id: "1D66ECD592796256"
+					type: "kill"
+					value: 1L
+				}
+				{
+					consume_items: true
+					count: 32L
+					disable_toast: true
+					id: "7E4A4C42EE02263A"
+					item: {
+						Count: 32
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:emerald"
+					}
+					type: "item"
+				}
+			]
+			x: -1.2d
+			y: 1.2d
+		}
+		{
+			can_repeat: true
+			description: [
+				"Adventure Pointer tìm kiếm tên sinh vật"
+				"Kích thước: Thế giới bên kia"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "legendary_monsters:crystal_of_sandstorm"
+				tag: { }
+			}
+			id: "49E94AF0C1E4F17B"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "32ACE72C85348389"
+				table_id: 823528550893493875L
+				type: "random"
+			}]
+			shape: "diamond"
+			tasks: [
+				{
+					entity: "legendary_monsters:dune_sentinel"
+					entity_use_tag: false
+					entity_vis_idle_mode: "USE_GLOBAL"
+					entity_vis_offset_x: 0.0f
+					entity_vis_offset_y: 0.0f
+					entity_vis_rotation: 0.0f
+					entity_vis_silhouette_mode: "NONE"
+					entity_vis_size: 1.0f
+					entity_vis_spin_mode: "USE_GLOBAL"
+					entity_vis_use_as_quest_icon: false
+					entity_vis_walk_mode: "USE_GLOBAL"
+					icon: {
+						Count: 1
+						id: "legendary_monsters:crystal_of_sandstorm"
+						tag: { }
+					}
+					id: "2934B81131848258"
+					type: "kill"
+					value: 1L
+				}
+				{
+					consume_items: true
+					count: 16L
+					disable_toast: true
+					id: "54919164898CCA2B"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:emerald"
+					}
+					type: "item"
+				}
+			]
+			x: -3.5d
+			y: 4.5d
+		}
+		{
+			can_repeat: true
+			description: [
+				"Adventure Pointer tìm kiếm tên sinh vật"
+				"Kích thước: Thế giới bên kia"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "legendary_monsters:soul_great_sword"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "6118FFC7D722B7E1"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "75D3E19282BAA2EA"
+				table_id: 823528550893493875L
+				type: "random"
+			}]
+			shape: "hexagon"
+			size: 1.2d
+			tasks: [
+				{
+					disable_toast: true
+					entity: "legendary_monsters:posessed_paladin"
+					entity_use_tag: false
+					entity_vis_idle_mode: "USE_GLOBAL"
+					entity_vis_offset_x: 0.0f
+					entity_vis_offset_y: 0.0f
+					entity_vis_rotation: 0.0f
+					entity_vis_silhouette_mode: "NONE"
+					entity_vis_size: 1.0f
+					entity_vis_spin_mode: "USE_GLOBAL"
+					entity_vis_use_as_quest_icon: false
+					entity_vis_walk_mode: "USE_GLOBAL"
+					icon: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "legendary_monsters:soul_great_sword"
+						tag: {
+							Damage: 0
+						}
+					}
+					id: "553DC88092320EE3"
+					type: "kill"
+					value: 1L
+				}
+				{
+					consume_items: true
+					count: 32L
+					disable_toast: true
+					id: "7B8C4F5118495230"
+					item: {
+						Count: 32
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:emerald"
+					}
+					type: "item"
+				}
+			]
+			x: -1.2d
+			y: 2.4d
+		}
+		{
+			entity_vis_size: 1.0f
+			id: "0E1790C77B6A5D32"
+			shape: "square"
+			tasks: [{
+				id: "255EED9DA57DD699"
+				item: {
+					Count: 1
+					id: "legendary_monsters:chorus_blade"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 2.0d
+			y: 1.0d
+		}
+		{
+			entity_vis_size: 1.0f
+			id: "01393B454A010C9F"
+			shape: "square"
+			tasks: [{
+				id: "264755ECAE61A654"
+				item: {
+					Count: 1
+					id: "legendary_monsters:dinosaur_bone_club"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			entity_vis_size: 1.0f
+			id: "7053C353BA6366EE"
+			shape: "square"
+			tasks: [{
+				id: "580035B436C824B8"
+				item: {
+					Count: 1
+					id: "legendary_monsters:fiery_jaw"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			entity_vis_size: 1.0f
+			id: "7192A574C4CD82B4"
+			shape: "square"
+			tasks: [{
+				id: "4135A20D7B42E253"
+				item: {
+					Count: 1
+					id: "legendary_monsters:withered_scythe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 5.0d
+			y: 1.0d
+		}
+		{
+			entity_vis_size: 1.0f
+			id: "4EBA226477ECA6AA"
+			shape: "square"
+			tasks: [{
+				id: "0A82EBB691011FA6"
+				item: {
+					Count: 1
+					id: "legendary_monsters:the_great_frost"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 3.0d
+			y: 1.0d
+		}
+		{
+			entity_vis_size: 1.0f
+			id: "772633AFE978D40B"
+			shape: "square"
+			tasks: [{
+				id: "6BB80B026FE6A3C2"
+				item: {
+					Count: 1
+					id: "legendary_monsters:wand_of_clouds"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.0d
+			y: 1.0d
+		}
+		{
+			entity_vis_size: 1.0f
+			id: "5989D3DEABEC567B"
+			shape: "square"
+			tasks: [{
+				id: "0BE6F93B95E03CE1"
+				item: {
+					Count: 1
+					id: "legendary_monsters:axe_of_lightning"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.0d
+			y: 0.0d
+		}
+		{
+			entity_vis_size: 1.0f
+			id: "43953A7E8712903F"
+			shape: "square"
+			tasks: [{
+				id: "73A9FBA3BA39E11F"
+				item: {
+					Count: 1
+					id: "legendary_monsters:mossy_hammer"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			entity_vis_size: 1.0f
+			id: "458B54FD84DDFAB3"
+			shape: "square"
+			tasks: [{
+				id: "166186A5B6791390"
+				item: {
+					Count: 1
+					id: "legendary_monsters:soul_great_sword"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 4.0d
+			y: 1.0d
+		}
+		{
+			entity_vis_size: 1.0f
+			id: "200A193CF6328102"
+			shape: "square"
+			tasks: [{
+				id: "3DD9DC60A60C717D"
+				item: {
+					Count: 1
+					id: "legendary_monsters:sand_cannon"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 5.0d
+			y: 2.0d
+		}
+		{
+			entity_vis_size: 1.0f
+			id: "7BFBC4B4C468C8FF"
+			shape: "square"
+			tasks: [{
+				id: "68904622C2FF8706"
+				item: {
+					Count: 1
+					id: "legendary_monsters:chorus_cannon"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 4.0d
+			y: 2.0d
+		}
+		{
+			entity_vis_size: 1.0f
+			id: "66E0B0CEA5373D93"
+			shape: "square"
+			tasks: [{
+				id: "06FFE4448AB884CA"
+				item: {
+					Count: 1
+					id: "legendary_monsters:chorus_mask"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.0d
+			y: 2.0d
+		}
+		{
+			entity_vis_size: 1.0f
+			id: "2D2FE3037FBA7114"
+			shape: "square"
+			tasks: [{
+				id: "10A724E9F2724B4D"
+				item: {
+					Count: 1
+					id: "legendary_monsters:blastproof_helmet"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 3.0d
+			y: 2.0d
+		}
+		{
+			entity_vis_size: 1.0f
+			id: "40AEE208F7947404"
+			shape: "square"
+			tasks: [{
+				id: "0FE7BCDC17C8AFF7"
+				item: {
+					Count: 1
+					id: "legendary_monsters:shulker_helmet"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 2.0d
+			y: 2.0d
+		}
+		{
+			entity_vis_size: 1.0f
+			id: "3088419F7267CA57"
+			shape: "square"
+			tasks: [{
+				id: "20E0CB4F0498E75C"
+				item: {
+					Count: 1
+					id: "legendary_monsters:atmospheric_boots"
+					tag: {
+						Damage: 0
+						itemModifier: "modifiers:brisk"
+					}
+				}
+				type: "item"
+			}]
+			x: 1.0d
+			y: 3.0d
+		}
+		{
+			entity_vis_size: 1.0f
+			id: "0BB0DD14E76A6F6C"
+			shape: "square"
+			tasks: [{
+				id: "03560DEE12BDD43A"
+				item: {
+					Count: 1
+					id: "legendary_monsters:withered_ribcage"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 2.0d
+			y: 3.0d
+		}
+		{
+			entity_vis_size: 1.0f
+			id: "7F79F304AB2024CB"
+			shape: "square"
+			tasks: [{
+				id: "1210A2AFC80A1487"
+				item: {
+					Count: 1
+					id: "legendary_monsters:mossy_chestplate"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 3.0d
+			y: 3.0d
+		}
+		{
+			entity_vis_size: 1.0f
+			id: "5FD143255659F190"
+			shape: "square"
+			tasks: [{
+				id: "58FB2B301C4DC5BB"
+				item: {
+					Count: 1
+					id: "legendary_monsters:shulker_shield"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.0d
+			y: 4.0d
+		}
+		{
+			entity_vis_size: 1.0f
+			id: "6EBE08D761771CCF"
+			shape: "square"
+			tasks: [{
+				id: "6DE8E0ABF5F9933C"
+				item: {
+					Count: 1
+					id: "legendary_monsters:dinosaur_bone_shield"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 2.0d
+			y: 4.0d
+		}
+		{
+			entity_vis_size: 1.0f
+			id: "2E2666143D62F7CD"
+			shape: "square"
+			tasks: [{
+				id: "28AC9C61093BF4D8"
+				item: {
+					Count: 1
+					id: "legendary_monsters:frostbitten_shield"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 3.0d
+			y: 4.0d
+		}
+		{
+			entity_vis_size: 1.0f
+			id: "58BFA01B6D659192"
+			shape: "square"
+			tasks: [{
+				id: "1461FEDF2BBC850F"
+				item: {
+					Count: 1
+					id: "legendary_monsters:spiky_shield"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 4.0d
+			y: 4.0d
+		}
+		{
+			entity_vis_size: 1.0f
+			id: "41DBA54BD9FE633A"
+			shape: "hexagon"
+			size: 1.2d
+			tasks: [{
+				entity: "legendary_monsters:the_obliterator"
+				entity_use_tag: false
+				entity_vis_idle_mode: "USE_GLOBAL"
+				entity_vis_offset_x: 0.0f
+				entity_vis_offset_y: 0.0f
+				entity_vis_rotation: 0.0f
+				entity_vis_silhouette_mode: "NONE"
+				entity_vis_size: 1.0f
+				entity_vis_spin_mode: "USE_GLOBAL"
+				entity_vis_use_as_quest_icon: false
+				entity_vis_walk_mode: "USE_GLOBAL"
+				icon: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "legendary_monsters:annihilator_helmet"
+					tag: {
+						Damage: 0
+					}
+				}
+				id: "54594C65F7A538CB"
+				type: "kill"
+				value: 1L
+			}]
+			x: -1.2d
+			y: 3.5999999999999996d
+		}
+	]
+	title: "quái vật huyền thoại"
+}

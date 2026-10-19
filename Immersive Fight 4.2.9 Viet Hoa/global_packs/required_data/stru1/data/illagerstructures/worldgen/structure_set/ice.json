@@ -1,0 +1,17 @@
+{
+  "structures": [
+    { "structure": "illagerstructures:iceberg", "weight": 5 },
+    { "structure": "illagerstructures:iceberg_medium", "weight": 5 },
+    { "structure": "illagerstructures:iceberg_outpost", "weight": 3 },
+    { "structure": "illagerstructures:iceberg_shipwreck", "weight": 3 },
+    { "structure": "illagerstructures:iceberg_site", "weight": 1 },
+    { "structure": "illagerstructures:iceberg_shipyard", "weight": 1 }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 50,
+    "separation": 20,
+    "spread_type": "triangular",
+    "salt": 29456183
+  }
+}

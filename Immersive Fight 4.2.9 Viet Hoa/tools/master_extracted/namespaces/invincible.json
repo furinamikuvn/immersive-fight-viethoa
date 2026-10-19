@@ -1,0 +1,52 @@
+{
+  "key.invincible.category": {
+    "en": "Invincible Lib Actions",
+    "zh": "无坚不摧按键",
+    "vi": "Chìa khóa không thể phá hủy"
+  },
+  "key.invincible.key1": {
+    "en": "Primary Action",
+    "zh": "主要动作",
+    "vi": null
+  },
+  "key.invincible.key2": {
+    "en": "Secondary Action",
+    "zh": "次要动作",
+    "vi": null
+  },
+  "key.invincible.key3": {
+    "en": "Special Ability 1",
+    "zh": "特殊技能1",
+    "vi": null
+  },
+  "key.invincible.key4": {
+    "en": "Special Ability 2",
+    "zh": "特殊技能2",
+    "vi": null
+  },
+  "key.invincible.key1.description": {
+    "en": "Usually performs your main attack or primary combat action.",
+    "zh": "通常执行主要攻击或核心战斗动作",
+    "vi": null
+  },
+  "key.invincible.key2.description": {
+    "en": "Commonly used for blocking, aiming, or secondary combat actions.",
+    "zh": "常用于格挡、瞄准或次要战斗动作",
+    "vi": null
+  },
+  "key.invincible.key3.description": {
+    "en": "Triggers a special ability or alternate skill when available.",
+    "zh": "在可用时触发特殊技能或辅助技能",
+    "vi": null
+  },
+  "key.invincible.key4.description": {
+    "en": "Activates an additional special or support ability if assigned.",
+    "zh": "若已配置则激活额外特殊技能或支援技能",
+    "vi": null
+  },
+  "commands.invincible.reload": {
+    "en": "[Invincible Lib]: Skills Reloaded!",
+    "zh": "[无坚不摧库]：技能已重载！",
+    "vi": null
+  }
+}

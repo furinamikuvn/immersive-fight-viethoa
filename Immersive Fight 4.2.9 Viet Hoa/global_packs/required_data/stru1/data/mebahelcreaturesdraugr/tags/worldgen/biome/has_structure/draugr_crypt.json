@@ -1,0 +1,25 @@
+{
+  "replace": false,
+  "values": [
+    "#c:forest",
+    "#c:plains",
+    "#c:desert",
+    "#c:taiga",
+    "#c:jungle",
+    "#c:savanna",
+    "#c:badlands",
+    "#c:snowy",
+    "#c:floral",
+"regions_unexplored:magnolia_woodland",
+"biomeswevegone:orchard",
+"biomeswevegone:black_forest",
+"regions_unexplored:pine_taiga",
+"regions_unexplored:poppy_fields",
+"regions_unexplored:rocky_meadow",
+"regions_unexplored:sparse_rainforest",
+"regions_unexplored:sparse_redwoods",
+"regions_unexplored:shrubland",
+    "regions_unexplored:grassland",
+"biomeswevegone:prairie"
+  ]
+}

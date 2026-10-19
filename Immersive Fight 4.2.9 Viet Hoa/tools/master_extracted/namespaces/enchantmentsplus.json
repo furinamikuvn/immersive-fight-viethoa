@@ -1,0 +1,307 @@
+{
+  "enchantment.enchantmentsplus.frostbite": {
+    "en": "Frostbite",
+    "zh": "冰霜附加",
+    "vi": null
+  },
+  "enchantment.enchantmentsplus.frostbite.desc": {
+    "en": "Hit targets are given a slowness debuff.",
+    "zh": "被击中的目标会被给予缓慢效果",
+    "vi": null
+  },
+  "enchantment.enchantmentsplus.lunarsight": {
+    "en": "Lunar Sight",
+    "zh": "夜视",
+    "vi": null
+  },
+  "enchantment.enchantmentsplus.lunarsight.desc": {
+    "en": "Gives the user night vision.",
+    "zh": "给予使用者夜视效果",
+    "vi": null
+  },
+  "enchantment.enchantmentsplus.cubical": {
+    "en": "Cubical",
+    "zh": "方块杀手",
+    "vi": null
+  },
+  "enchantment.enchantmentsplus.cubical.desc": {
+    "en": "Deals more damage to cubic mobs like slimes.",
+    "zh": "对史莱姆、苦力怕等立方体生物造成更多伤害",
+    "vi": null
+  },
+  "enchantment.enchantmentsplus.endslayer": {
+    "en": "End Slayer",
+    "zh": "末地杀手",
+    "vi": null
+  },
+  "enchantment.enchantmentsplus.endslayer.desc": {
+    "en": "Deals more damage to end mobs.",
+    "zh": "对末地生物造成更多伤害",
+    "vi": null
+  },
+  "enchantment.enchantmentsplus.payback": {
+    "en": "Payback",
+    "zh": "底力",
+    "vi": null
+  },
+  "enchantment.enchantmentsplus.payback.desc": {
+    "en": "Deals more damage when the user's health is low.",
+    "zh": "当使用者的生命值低时造成更多伤害",
+    "vi": null
+  },
+  "enchantment.enchantmentsplus.lifesteal": {
+    "en": "Life Steal",
+    "zh": "饮血",
+    "vi": null
+  },
+  "enchantment.enchantmentsplus.lifesteal.desc": {
+    "en": "Attacks slightly heal the user.",
+    "zh": "攻击时回复生命值",
+    "vi": null
+  },
+  "enchantment.enchantmentsplus.thunderlord": {
+    "en": "Thunder Lord",
+    "zh": "唤雷",
+    "vi": null
+  },
+  "enchantment.enchantmentsplus.thunderlord.desc": {
+    "en": "Targets are sometimes hit with lightning.",
+    "zh": "攻击时有概率召唤闪电",
+    "vi": null
+  },
+  "enchantment.enchantmentsplus.levitation": {
+    "en": "Levitation",
+    "zh": "漂浮",
+    "vi": null
+  },
+  "enchantment.enchantmentsplus.levitation.desc": {
+    "en": "Hit targets will float temporarily.",
+    "zh": "被击中的目标会随机漂浮",
+    "vi": null
+  },
+  "enchantment.enchantmentsplus.blazewalker": {
+    "en": "Blaze Walker",
+    "zh": "岩浆行者",
+    "vi": null
+  },
+  "enchantment.enchantmentsplus.blazewalker.desc": {
+    "en": "Allows the user to walk over lava.",
+    "zh": "允许使用者在岩浆上行走",
+    "vi": null
+  },
+  "enchantment.enchantmentsplus.flashforge": {
+    "en": "Flash Forge",
+    "zh": "自动熔炼",
+    "vi": null
+  },
+  "enchantment.enchantmentsplus.flashforge.desc": {
+    "en": "Blocks are smelted when mined.",
+    "zh": "挖掘的方块会被冶炼",
+    "vi": null
+  },
+  "enchantment.enchantmentsplus.moonwalker": {
+    "en": "Moon Walker",
+    "zh": "月步",
+    "vi": null
+  },
+  "enchantment.enchantmentsplus.moonwalker.desc": {
+    "en": "Gives low level speed and jump boost, and temporary strong jump boost.",
+    "zh": "提供低等级的速度和跳跃提升，随机提供强力的跳跃提升",
+    "vi": null
+  },
+  "enchantment.enchantmentsplus.raider": {
+    "en": "Raider",
+    "zh": "袭击杀手",
+    "vi": null
+  },
+  "enchantment.enchantmentsplus.raider.desc": {
+    "en": "Deals more damage to raid mobs.",
+    "zh": "对袭击中的生物造成更多伤害",
+    "vi": null
+  },
+  "enchantment.enchantmentsplus.toxicstrike": {
+    "en": "Toxic Strike",
+    "zh": "毒性附加",
+    "vi": null
+  },
+  "enchantment.enchantmentsplus.toxicstrike.desc": {
+    "en": "Hit targets are poisoned.",
+    "zh": "被击中的目标会中毒",
+    "vi": null
+  },
+  "enchantment.enchantmentsplus.hiker": {
+    "en": "Hiker",
+    "zh": "爬坡",
+    "vi": null
+  },
+  "enchantment.enchantmentsplus.hiker.desc": {
+    "en": "Allows the user to step up blocks without jumping.",
+    "zh": "允许使用者登上1格方块而不需要跳跃",
+    "vi": null
+  },
+  "enchantment.enchantmentsplus.dualleap": {
+    "en": "Dual Leap",
+    "zh": "二段跳",
+    "vi": null
+  },
+  "enchantment.enchantmentsplus.dualleap.desc": {
+    "en": "Allows the user to double jump.",
+    "zh": "允许使用者二段跳",
+    "vi": null
+  },
+  "enchantment.enchantmentsplus.sniper": {
+    "en": "Sniper",
+    "zh": "狙击",
+    "vi": null
+  },
+  "enchantment.enchantmentsplus.sniper.desc": {
+    "en": "Deals more damage the further away you are.",
+    "zh": "距离越远，造成的伤害越高",
+    "vi": null
+  },
+  "enchantment.enchantmentsplus.mysticmind": {
+    "en": "Mystic Mind",
+    "zh": "脱身",
+    "vi": null
+  },
+  "enchantment.enchantmentsplus.mysticmind.desc": {
+    "en": "Teleports you a few blocks away when hit at low health.",
+    "zh": "当生命值低且被攻击时，将使用者传送到几个方块外",
+    "vi": null
+  },
+  "enchantment.enchantmentsplus.stormstrike": {
+    "en": "Storm Strike",
+    "zh": "雷霆箭",
+    "vi": null
+  },
+  "enchantment.enchantmentsplus.stormstrike.desc": {
+    "en": "Targets are sometimes hit with lightning.",
+    "zh": "被击中的目标有时会被闪电击中",
+    "vi": null
+  },
+  "enchantment.enchantmentsplus.excavator": {
+    "en": "Excavator",
+    "zh": "开凿",
+    "vi": null
+  },
+  "enchantment.enchantmentsplus.excavator.desc": {
+    "en": "Extends your reach distance",
+    "zh": "扩大你的触达距离",
+    "vi": null
+  },
+  "effect.enchantmentsplus.moonresteffect": {
+    "en": "Moon Rest",
+    "zh": "月面歇息",
+    "vi": null
+  },
+  "subtitles.enchantmentsplus.swoop": {
+    "en": "Moon walk whoosh",
+    "zh": "月步：呼啸",
+    "vi": null
+  },
+  "subtitles.enchantmentsplus.blurp": {
+    "en": "Health regenerates",
+    "zh": "生命值回复",
+    "vi": null
+  },
+  "text.autoconfig.enchantmentsplus.title": {
+    "en": "Enchantments Plus options",
+    "zh": "Enchantments Plus 设置",
+    "vi": null
+  },
+  "text.autoconfig.enchantmentsplus.option.enableBlazeWalker": {
+    "en": "Blaze Walker enchantment enabled",
+    "zh": "是否启用 岩浆行者",
+    "vi": null
+  },
+  "text.autoconfig.enchantmentsplus.option.enableCubical": {
+    "en": "Cubical enchantment enabled",
+    "zh": "是否启用 方块杀手",
+    "vi": null
+  },
+  "text.autoconfig.enchantmentsplus.option.enableDualLeap": {
+    "en": "Dual Leap enchantment enabled",
+    "zh": "是否启用 二段跳",
+    "vi": null
+  },
+  "text.autoconfig.enchantmentsplus.option.enableEndSlayer": {
+    "en": "End Slayer enchantment enabled",
+    "zh": "是否启用 末地杀手",
+    "vi": null
+  },
+  "text.autoconfig.enchantmentsplus.option.enableExcavator": {
+    "en": "Excavator enchantment enabled",
+    "zh": "是否启用 开凿",
+    "vi": null
+  },
+  "text.autoconfig.enchantmentsplus.option.enableFlashForge": {
+    "en": "Flash Forge enchantment enabled",
+    "zh": "是否启用 自动熔炼",
+    "vi": null
+  },
+  "text.autoconfig.enchantmentsplus.option.enableFrostbite": {
+    "en": "Frostbite enchantment enabled",
+    "zh": "是否启用 冰霜附加",
+    "vi": null
+  },
+  "text.autoconfig.enchantmentsplus.option.enableHiker": {
+    "en": "Hiker enchantment enabled",
+    "zh": "是否启用 爬坡",
+    "vi": null
+  },
+  "text.autoconfig.enchantmentsplus.option.enableLevitation": {
+    "en": "Levitation enchantment enabled",
+    "zh": "是否启用 漂浮",
+    "vi": null
+  },
+  "text.autoconfig.enchantmentsplus.option.enableLifeSteal": {
+    "en": "Lifesteal enchantment enabled",
+    "zh": "是否启用 饮血",
+    "vi": null
+  },
+  "text.autoconfig.enchantmentsplus.option.enableLunarSight": {
+    "en": "Lunar Sight enchantment enabled",
+    "zh": "是否启用 夜视",
+    "vi": null
+  },
+  "text.autoconfig.enchantmentsplus.option.enableMoonWalker": {
+    "en": "Moon Walker enchantment enabled",
+    "zh": "是否启用 月步",
+    "vi": null
+  },
+  "text.autoconfig.enchantmentsplus.option.enableMysticMind": {
+    "en": "Mystic Mind enchantment enabled",
+    "zh": "是否启用 脱身",
+    "vi": null
+  },
+  "text.autoconfig.enchantmentsplus.option.enablePayback": {
+    "en": "Payback enchantment enabled",
+    "zh": "是否启用 底力",
+    "vi": null
+  },
+  "text.autoconfig.enchantmentsplus.option.enableRaider": {
+    "en": "Raider enchantment enabled",
+    "zh": "是否启用 袭击杀手",
+    "vi": null
+  },
+  "text.autoconfig.enchantmentsplus.option.enableSniper": {
+    "en": "Sniper enchantment enabled",
+    "zh": "是否启用 狙击",
+    "vi": null
+  },
+  "text.autoconfig.enchantmentsplus.option.enableStormStrike": {
+    "en": "Storm Strike enchantment enabled",
+    "zh": "是否启用 雷霆箭",
+    "vi": null
+  },
+  "text.autoconfig.enchantmentsplus.option.enableThunderlord": {
+    "en": "Thunder Lord enchantment enabled",
+    "zh": "是否启用 唤雷",
+    "vi": null
+  },
+  "text.autoconfig.enchantmentsplus.option.enableToxicStrike": {
+    "en": "Toxic Strike enchantment enabled",
+    "zh": "是否启用 毒性附加",
+    "vi": null
+  }
+}

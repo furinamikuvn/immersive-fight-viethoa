@@ -1,0 +1,45 @@
+{
+	icon: "minecraft:zombie_head"
+	id: "4AD7085E11169A08"
+	loot_size: 1
+	order_index: 16
+	rewards: [
+		{
+			command: "/function minecraft:limit_hostile_no"
+			icon: "minecraft:zombie_head"
+			title: "Không Giới Hạn"
+			type: "command"
+		}
+		{
+			command: "/function minecraft:limit_hostile_10"
+			icon: "minecraft:zombie_head"
+			title: "Giới Hạn 10 Con"
+			type: "command"
+		}
+		{
+			command: "/function minecraft:limit_hostile_20"
+			icon: "minecraft:zombie_head"
+			title: "Giới Hạn 20 Con"
+			type: "command"
+		}
+		{
+			command: "/function minecraft:limit_hostile_30"
+			icon: "minecraft:zombie_head"
+			title: "Giới Hạn 30 Con"
+			type: "command"
+		}
+		{
+			command: "/function minecraft:limit_hostile_50"
+			icon: "minecraft:zombie_head"
+			title: "Giới Hạn 50 Con"
+			type: "command"
+		}
+		{
+			command: "/function minecraft:limit_hostile_100"
+			icon: "minecraft:zombie_head"
+			title: "Giới Hạn 100 Con"
+			type: "command"
+		}
+	]
+	title: "Giới Hạn Sinh Quái Thù Địch"
+}

@@ -1,0 +1,1072 @@
+{
+  "menu.title.beyonddimensions.dimensionnetmenu": {
+    "en": "Network",
+    "zh": "维度网络",
+    "vi": null
+  },
+  "menu.title.beyonddimensions.net_control_menu": {
+    "en": "Network Controller",
+    "zh": "维度网络权限控制器",
+    "vi": null
+  },
+  "menu.title.beyonddimensions.net_interface_menu": {
+    "en": "Network Interface",
+    "zh": "网络接口",
+    "vi": null
+  },
+  "menu.title.beyonddimensions.net_energy_menu": {
+    "en": "Energy Network",
+    "zh": "能量网络",
+    "vi": null
+  },
+  "menu.title.beyonddimensions.pump_menu": {
+    "en": "Network Pump",
+    "zh": "网络泵",
+    "vi": null
+  },
+  "menu.title.beyonddimensions.hopper_menu": {
+    "en": "Network Hopper",
+    "zh": "网络漏斗",
+    "vi": null
+  },
+  "menu.title.beyonddimensions.furnace_menu": {
+    "en": "Network Furnace",
+    "zh": "网络熔炉",
+    "vi": null
+  },
+  "menu.title.beyonddimensions.blast_furnace_menu": {
+    "en": "Network Blast Furnace",
+    "zh": "网络高炉",
+    "vi": null
+  },
+  "menu.title.beyonddimensions.smoker_menu": {
+    "en": "Network Smoker",
+    "zh": "网络烟熏炉",
+    "vi": null
+  },
+  "menu.title.beyonddimensions.magnet_menu": {
+    "en": "Network Magnet",
+    "zh": "网络磁铁",
+    "vi": null
+  },
+  "menu.title.beyonddimensions.feeder_menu": {
+    "en": "Network Feeder",
+    "zh": "网络喂食器",
+    "vi": null
+  },
+  "menu.title.beyonddimensions.restocker_menu": {
+    "en": "Network Restocker",
+    "zh": "网络补货器",
+    "vi": null
+  },
+  "menu.title.beyonddimensions.primary_net_switcher": {
+    "en": "Primary Network Switcher",
+    "zh": "主网络切换器",
+    "vi": null
+  },
+  "beyonddimensions.scrollbar.usage.focused": {
+    "en": "Scrollbar is focused",
+    "zh": "滚动条被选为焦点",
+    "vi": null
+  },
+  "beyonddimensions.scrollbar.usage.hovered": {
+    "en": "Mouse is currently hovering over the scrollbar",
+    "zh": "鼠标当前在滚动条上",
+    "vi": null
+  },
+  "wintercogs.beyonddimensions.dimensionsguisearch": {
+    "en": "Search...",
+    "zh": "输入以搜索...",
+    "vi": null
+  },
+  "menu.button.beyonddimensions.setowner": {
+    "en": "Transfer Ownership",
+    "zh": "移交所有权",
+    "vi": null
+  },
+  "menu.button.beyonddimensions.setmanager": {
+    "en": "Set as Manager",
+    "zh": "设为管理员",
+    "vi": null
+  },
+  "menu.button.beyonddimensions.removemanager": {
+    "en": "Remove Manager Permissions",
+    "zh": "移除管理员权限",
+    "vi": null
+  },
+  "menu.button.beyonddimensions.removemember": {
+    "en": "Remove Member",
+    "zh": "移除成员",
+    "vi": null
+  },
+  "menu.text.beyonddimensions.permission.level.zero": {
+    "en": "Permission Level: None",
+    "zh": "权限级别: 无",
+    "vi": null
+  },
+  "menu.text.beyonddimensions.name.player": {
+    "en": "Name: %s",
+    "zh": "名称: %s",
+    "vi": null
+  },
+  "menu.text.beyonddimensions.permission.level.prefix": {
+    "en": "Permission Level: %s",
+    "zh": "权限级别: %s",
+    "vi": null
+  },
+  "menu.label.beyonddimensions.filter_slots": {
+    "en": "Filter Slots",
+    "zh": "过滤槽位",
+    "vi": null
+  },
+  "menu.label.beyonddimensions.restock_slots": {
+    "en": "Restock Slots",
+    "zh": "补货槽位",
+    "vi": null
+  },
+  "menu.label.beyonddimensions.tag_and_stored_slots": {
+    "en": "Tag & Storage Slots",
+    "zh": "标记与存储槽位",
+    "vi": null
+  },
+  "menu.label.beyonddimensions.input_filter_slots": {
+    "en": "Input",
+    "zh": "输入",
+    "vi": null
+  },
+  "menu.label.beyonddimensions.fuel_filter_slots": {
+    "en": "Fuel",
+    "zh": "燃料",
+    "vi": null
+  },
+  "tooltip.beyonddimensions.network_open_key": {
+    "en": "Press [%s] to open dimension network",
+    "zh": "按【%s】打开维度网络",
+    "vi": null
+  },
+  "tooltip.button.beyonddimensions.sort_asc": {
+    "en": "Current: Ascending Order",
+    "zh": "当前：顺序排序",
+    "vi": null
+  },
+  "tooltip.button.beyonddimensions.sort_desc": {
+    "en": "Current: Descending Order",
+    "zh": "当前：倒序排序",
+    "vi": null
+  },
+  "tooltip.button.beyonddimensions.search_disable": {
+    "en": "Clear search when disabled",
+    "zh": "关闭时清空搜索框",
+    "vi": null
+  },
+  "tooltip.button.beyonddimensions.search_enable": {
+    "en": "Always keep search content",
+    "zh": "始终保留搜索框内容",
+    "vi": null
+  },
+  "tooltip.button.beyonddimensions.sort_creative_tab": {
+    "en": "Sorting Strategy: By Creative Tab Order",
+    "zh": "排序策略：按创造模式标签页",
+    "vi": null
+  },
+  "tooltip.button.beyonddimensions.sort_max_stack": {
+    "en": "Sorting Strategy: By Max Stack Size",
+    "zh": "排序策略：按最大堆叠数",
+    "vi": null
+  },
+  "tooltip.button.beyonddimensions.sort_quantity": {
+    "en": "Sorting Strategy: By Quantity",
+    "zh": "排序策略：按数量",
+    "vi": null
+  },
+  "tooltip.button.beyonddimensions.sort_name": {
+    "en": "Sorting Strategy: By Name",
+    "zh": "排序策略：按名称",
+    "vi": null
+  },
+  "tooltip.button.beyonddimensions.sort_modid": {
+    "en": "Sorting Strategy: By Mod ID",
+    "zh": "排序策略：按模组id",
+    "vi": null
+  },
+  "tooltip.button.beyonddimensions.sort_inserted_time": {
+    "en": "Sorting Strategy: By Category Insertion Time",
+    "zh": "排序策略：按种类存入时间",
+    "vi": null
+  },
+  "tooltip.button.beyonddimensions.sort_modified_time": {
+    "en": "Sorting Strategy: By Quantity Modification Time",
+    "zh": "排序策略：按数量修改时间",
+    "vi": null
+  },
+  "tooltip.button.beyonddimensions.sort_creative_tab_second": {
+    "en": "Second Sorting Strategy: By Creative Tab Order",
+    "zh": "第二排序策略：按创造模式标签页",
+    "vi": null
+  },
+  "tooltip.button.beyonddimensions.sort_max_stack_second": {
+    "en": "Second Sorting Strategy: By Max Stack Size",
+    "zh": "第二排序策略：按最大堆叠数",
+    "vi": null
+  },
+  "tooltip.button.beyonddimensions.sort_quantity_second": {
+    "en": "Second Sorting Strategy: By Quantity",
+    "zh": "第二排序策略：按数量",
+    "vi": null
+  },
+  "tooltip.button.beyonddimensions.sort_name_second": {
+    "en": "Second Sorting Strategy: By Name",
+    "zh": "第二排序策略：按名称",
+    "vi": null
+  },
+  "tooltip.button.beyonddimensions.sort_modid_second": {
+    "en": "Second Sorting Strategy: By Mod ID",
+    "zh": "第二排序策略：按模组id",
+    "vi": null
+  },
+  "tooltip.button.beyonddimensions.sort_inserted_time_second": {
+    "en": "Second Sorting Strategy: By Category Insertion Time",
+    "zh": "第二排序策略：按种类存入时间",
+    "vi": null
+  },
+  "tooltip.button.beyonddimensions.sort_modified_time_second": {
+    "en": "Second Sorting Strategy: By Quantity Modification Time",
+    "zh": "第二排序策略：按数量修改时间",
+    "vi": null
+  },
+  "tooltip.button.beyonddimensions.first_storage": {
+    "en": "Current: Transfer leftovers to storage first",
+    "zh": "当前：关闭UI时，剩余物品优先转移到存储",
+    "vi": null
+  },
+  "tooltip.button.beyonddimensions.first_inv": {
+    "en": "Current: Transfer leftovers to inventory first",
+    "zh": "当前：关闭UI时，剩余物品优先转移到背包",
+    "vi": null
+  },
+  "tooltip.button.beyonddimensions.transfer_to_inv": {
+    "en": "Transfer leftovers to inventory",
+    "zh": "转移剩余物品至背包",
+    "vi": null
+  },
+  "tooltip.button.beyonddimensions.transfer_to_storage": {
+    "en": "Transfer leftovers to storage",
+    "zh": "转移剩余物品至存储",
+    "vi": null
+  },
+  "tooltip.button.beyonddimensions.add_page": {
+    "en": "Increase displayed rows",
+    "zh": "增加当前显示行数",
+    "vi": null
+  },
+  "tooltip.button.beyonddimensions.remove_page": {
+    "en": "Decrease displayed rows",
+    "zh": "减少当前显示行数",
+    "vi": null
+  },
+  "tooltip.button.beyonddimensions.craft_toggle": {
+    "en": "Toggle crafting slot visibility",
+    "zh": "切换合成槽 显示/隐藏",
+    "vi": null
+  },
+  "tooltip.button.beyonddimensions.popmode_off": {
+    "en": "Current: Popup mode disabled",
+    "zh": "当前：弹出模式关闭",
+    "vi": null
+  },
+  "tooltip.button.beyonddimensions.popmode_on": {
+    "en": "Current: Popup mode enabled",
+    "zh": "当前：弹出模式启用",
+    "vi": null
+  },
+  "tooltip.button.beyonddimensions.popmode_mounted_unavailable": {
+    "en": "Popup mode is unavailable on moving contraptions",
+    "zh": "动态结构中不可使用弹出模式",
+    "vi": null
+  },
+  "tooltip.button.beyonddimensions.filter_mode_ignore": {
+    "en": "Current: Ignore Filter",
+    "zh": "当前：忽略过滤",
+    "vi": null
+  },
+  "tooltip.button.beyonddimensions.filter_mode_white": {
+    "en": "Current: Whitelist Mode",
+    "zh": "当前：白名单模式",
+    "vi": null
+  },
+  "tooltip.button.beyonddimensions.filter_mode_black": {
+    "en": "Current: Blacklist Mode",
+    "zh": "当前：黑名单模式",
+    "vi": null
+  },
+  "tooltip.button.beyonddimensions.control_mode_ignore": {
+    "en": "Current: Always Active",
+    "zh": "当前：始终工作",
+    "vi": null
+  },
+  "tooltip.button.beyonddimensions.control_mode_powered": {
+    "en": "Current: Active with Redstone",
+    "zh": "当前：收到红石信号时工作",
+    "vi": null
+  },
+  "tooltip.button.beyonddimensions.control_mode_unpowered": {
+    "en": "Current: Inactive with Redstone",
+    "zh": "当前：收到红石信号时停止工作",
+    "vi": null
+  },
+  "tooltip.button.beyonddimensions.control_mode_not_working": {
+    "en": "Current: Disabled",
+    "zh": "当前：停止工作",
+    "vi": null
+  },
+  "tooltip.button.beyonddimensions.fuzzy_mode_disable": {
+    "en": "Current: Fuzzy Mode Disabled",
+    "zh": "当前：模糊模式禁用",
+    "vi": null
+  },
+  "tooltip.button.beyonddimensions.fuzzy_mode_enable": {
+    "en": "Current: Fuzzy Mode Enabled",
+    "zh": "当前：模糊模式启用",
+    "vi": null
+  },
+  "tooltip.button.beyonddimensions.hopper_item_mode_deny": {
+    "en": "Current: Deny Item Collection",
+    "zh": "当前：不收集掉落物",
+    "vi": null
+  },
+  "tooltip.button.beyonddimensions.hopper_item_mode_allow": {
+    "en": "Current: Allow Item Collection",
+    "zh": "当前：收集掉落物",
+    "vi": null
+  },
+  "tooltip.button.beyonddimensions.hopper_xp_mode_deny": {
+    "en": "Current: Deny XP Collection",
+    "zh": "当前：不收集经验球",
+    "vi": null
+  },
+  "tooltip.button.beyonddimensions.hopper_xp_mode_allow": {
+    "en": "Current: Allow XP Collection",
+    "zh": "当前：收集经验球",
+    "vi": null
+  },
+  "tooltip.button.beyonddimensions.hopper_nbt_mode_deny": {
+    "en": "Current: No NBT Items",
+    "zh": "当前：不收集带NBT物品",
+    "vi": null
+  },
+  "tooltip.button.beyonddimensions.hopper_nbt_mode_allow": {
+    "en": "Current: Accept NBT Items",
+    "zh": "当前：收集带NBT物品",
+    "vi": null
+  },
+  "tooltip.button.beyonddimensions.hopper_fluid_mode_deny": {
+    "en": "Current: No Fluids",
+    "zh": "当前：不收集流体",
+    "vi": null
+  },
+  "tooltip.button.beyonddimensions.hopper_fluid_mode_allow": {
+    "en": "Current: Accept Fluids",
+    "zh": "当前：收集流体",
+    "vi": null
+  },
+  "tooltip.button.beyonddimensions.hopper_range_mode_lowest": {
+    "en": "Current: Range 2 blocks, 5 ticks",
+    "zh": "当前：收集半径2格，间隔5刻",
+    "vi": null
+  },
+  "tooltip.button.beyonddimensions.hopper_range_mode_low": {
+    "en": "Current: Range 3 blocks, 10 ticks",
+    "zh": "当前：收集半径3格，间隔10刻",
+    "vi": null
+  },
+  "tooltip.button.beyonddimensions.hopper_range_mode_mid": {
+    "en": "Current: Range 5 blocks, 20 ticks",
+    "zh": "当前：收集半径5格，间隔20刻",
+    "vi": null
+  },
+  "tooltip.button.beyonddimensions.hopper_range_mode_high": {
+    "en": "Current: Range 7 blocks, 60 ticks",
+    "zh": "当前：收集半径7格，间隔60刻",
+    "vi": null
+  },
+  "tooltip.button.beyonddimensions.hopper_range_mode_highest": {
+    "en": "Current: Range 10 blocks, 100 ticks",
+    "zh": "当前：收集半径10格，间隔100刻",
+    "vi": null
+  },
+  "tooltip.button.beyonddimensions.hopper_range_mode_chunk": {
+    "en": "Current: Whole Chunk, 1200 ticks",
+    "zh": "当前：收集整个区块，间隔1200刻",
+    "vi": null
+  },
+  "tooltip.button.beyonddimensions.magnet_range_mode_lowest": {
+    "en": "Current: Range 2 blocks, every tick",
+    "zh": "当前：收集半径2格，每刻执行",
+    "vi": null
+  },
+  "tooltip.button.beyonddimensions.magnet_range_mode_low": {
+    "en": "Current: Range 3 blocks, every tick",
+    "zh": "当前：收集半径3格，每刻执行",
+    "vi": null
+  },
+  "tooltip.button.beyonddimensions.magnet_range_mode_mid": {
+    "en": "Current: Range 5 blocks, 2 ticks\nWith Fluid Mode: 10 ticks",
+    "zh": "当前：收集半径5格，间隔2刻\n若开启流体模式，间隔10刻",
+    "vi": null
+  },
+  "tooltip.button.beyonddimensions.magnet_range_mode_high": {
+    "en": "Current: Range 7 blocks, 5 ticks\nWith Fluid Mode: 20 ticks",
+    "zh": "当前：收集半径7格，间隔5刻\n若开启流体模式，间隔20刻",
+    "vi": null
+  },
+  "tooltip.button.beyonddimensions.magnet_range_mode_highest": {
+    "en": "Current: Range 10 blocks, 10 ticks\nWith Fluid Mode: 50 ticks",
+    "zh": "当前：收集半径10格，间隔10刻\n若开启流体模式，间隔50刻",
+    "vi": null
+  },
+  "tooltip.button.beyonddimensions.magnet_range_mode_chunk": {
+    "en": "Current: Whole Chunk, 1200 ticks",
+    "zh": "当前：收集整个区块，间隔1200刻",
+    "vi": null
+  },
+  "tooltip.button.beyonddimensions.receive_mode_stop": {
+    "en": "Current: Stop Receiving",
+    "zh": "当前：停止收入维度网络",
+    "vi": null
+  },
+  "tooltip.button.beyonddimensions.receive_mode_open": {
+    "en": "Current: Import to Network",
+    "zh": "当前：将资源收入维度网络",
+    "vi": null
+  },
+  "tooltip.button.beyonddimensions.feeder_mode_hunger_to_eat": {
+    "en": "Current: Feed below 10%",
+    "zh": "当前：饱食度低于10%再喂食",
+    "vi": null
+  },
+  "tooltip.button.beyonddimensions.feeder_mode_normal": {
+    "en": "Current: Feed below 50%",
+    "zh": "当前：饱食度低于一半时喂食",
+    "vi": null
+  },
+  "tooltip.button.beyonddimensions.feeder_mode_saturation_keep": {
+    "en": "Current: Maintain >0 saturation",
+    "zh": "当前：时刻保证玩家的饱和度高于0",
+    "vi": null
+  },
+  "tooltip.button.beyonddimensions.feeder_mode_crazy": {
+    "en": "Current: Always Full Saturation",
+    "zh": "当前：始终填满饱食度",
+    "vi": null
+  },
+  "tooltip.button.beyonddimensions.sort_mode_open": {
+    "en": "Current: Auto-sort enabled",
+    "zh": "当前：自动整理开启",
+    "vi": null
+  },
+  "tooltip.button.beyonddimensions.sort_mode_stop": {
+    "en": "Current: Auto-sort disabled",
+    "zh": "当前：自动整理关闭",
+    "vi": null
+  },
+  "tooltip.item.unstable_space_time.long_data": {
+    "en": "Spacetime is stabilizing, requires %s more stabilization cycles. Please keep it on your person.",
+    "zh": "时空仍在稳定中，仍需%s个稳定周期，请保持随身携带",
+    "vi": null
+  },
+  "tooltip.beyonddimensions.item.xp_exchange": {
+    "en": "When held: Right-click to open settings\nIn storage GUIs: Right-click to store XP, Middle-click to retrieve XP",
+    "zh": "手持时：右键打开设置界面\n在仓库GUI中：右键存入经验，中键取出经验",
+    "vi": null
+  },
+  "tooltip.editbox.beyonddimensions.search": {
+    "en": "Type text to search by name\nType '@' to filter mod IDs\nType '$' to filter tooltip contents\nType '#' to filter tags\nUse spaces to separate multiple filters; wrap in quotes to search spaces\nUse '|' for OR matches and '-' to exclude matches\nPress Shift+Z to toggle JEI/EMI search box linking",
+    "zh": "输入文本以按名称搜索\n输入'@'以筛选模组ID\n输入'$'以筛选提示框内容\n输入'#'以筛选标签\n按空格分割多个筛选字段，使用引号包裹可搜索空格字符\n使用'|'可进行或匹配，使用'-'可排除匹配\n按Shift+Z以开关JEI/EMI搜索框联动",
+    "vi": null
+  },
+  "tooltip.editbox.beyonddimensions.xp_exchange_target_level": {
+    "en": "Enter the XP level to keep or use for manual exchange\nValues above the limit are clamped automatically",
+    "zh": "输入要维持或手动交互的经验等级\n超过上限时会自动回限",
+    "vi": null
+  },
+  "tooltip.button.beyonddimensions.xp_exchange.keep_mode_working": {
+    "en": "Current: Working (actively keeps target level)",
+    "zh": "当前：工作（主动维持设定等级）",
+    "vi": null
+  },
+  "tooltip.button.beyonddimensions.xp_exchange.keep_mode_not_working": {
+    "en": "Current: Not Working (manual exchange only)",
+    "zh": "当前：不工作（仅手动交互）",
+    "vi": null
+  },
+  "tooltip.editbox.beyonddimensions.primary_net_switcher.search": {
+    "en": "Search by network ID or permission level",
+    "zh": "可按网络 ID 或权限等级搜索",
+    "vi": null
+  },
+  "tooltip.button.beyonddimensions.primary_net_switcher.clear": {
+    "en": "Keep memberships, but stop using any primary network",
+    "zh": "保留成员身份，但当前不使用任何主网络",
+    "vi": null
+  },
+  "tooltip.button.beyonddimensions.open_primary_net_switcher": {
+    "en": "Switch to the primary network switcher",
+    "zh": "切换到主网络切换器",
+    "vi": null
+  },
+  "tooltip.button.beyonddimensions.open_dimensions_net_menu": {
+    "en": "Switch to the network storage menu",
+    "zh": "切换到维度网络仓库",
+    "vi": null
+  },
+  "tooltip.button.beyonddimensions.primary_net_switcher.recent": {
+    "en": "Quick switch to network #%s",
+    "zh": "快速切换到 #%s 号网络",
+    "vi": null
+  },
+  "tooltip.button.beyonddimensions.primary_net_switcher.option": {
+    "en": "Network #%s\nPermission: %s",
+    "zh": "网络 #%s\n权限：%s",
+    "vi": null
+  },
+  "tooltip.jade.beyonddimensions.net.bound": {
+    "en": "Network: %1$s (#%2$s) (%3$s)",
+    "zh": "网络：%1$s（#%2$s）（%3$s）",
+    "vi": null
+  },
+  "tooltip.jade.beyonddimensions.net.unbound": {
+    "en": "Network: Unbound",
+    "zh": "网络：未绑定",
+    "vi": null
+  },
+  "tooltip.jade.beyonddimensions.net.permission.none": {
+    "en": "None",
+    "zh": "无",
+    "vi": null
+  },
+  "config.jade.plugin_beyonddimensions.net_info": {
+    "en": "Network Info",
+    "zh": "网络信息",
+    "vi": null
+  },
+  "istack.beyonddimensions.storage_num.item": {
+    "en": "Stored: %s Items",
+    "zh": "已存储：%s个",
+    "vi": null
+  },
+  "istack.beyonddimensions.storage_num.fluid": {
+    "en": "Stored: %s mB",
+    "zh": "已存储：%smB",
+    "vi": null
+  },
+  "istack.beyonddimensions.storage_num.long_type": {
+    "en": "Stored: %s",
+    "zh": "已存储：%s",
+    "vi": null
+  },
+  "key.categories.beyonddimensions": {
+    "en": "Beyond Dimensions",
+    "zh": "超越维度",
+    "vi": null
+  },
+  "key.beyonddimensions.open_gui": {
+    "en": "Open Dimensional Network UI",
+    "zh": "打开维度网络",
+    "vi": null
+  },
+  "key.beyonddimensions.open_terminal_quick_key": {
+    "en": "Quickly open the terminal in the inventory",
+    "zh": "快速打开物品栏中的终端",
+    "vi": null
+  },
+  "key.beyonddimensions.main_hand_item_transfer_key": {
+    "en": "Quick Transfer Item from Main Hand",
+    "zh": "主手物品快速转移",
+    "vi": null
+  },
+  "key.beyonddimensions.toggle_magnet_key": {
+    "en": "Toggle Magnet",
+    "zh": "开关磁铁",
+    "vi": null
+  },
+  "key.beyonddimensions.toggle_magnet_item_key": {
+    "en": "Toggle Item Magnet",
+    "zh": "开关物品磁铁",
+    "vi": null
+  },
+  "key.beyonddimensions.toggle_magnet_fluid_key": {
+    "en": "Toggle Fluid Magnet",
+    "zh": "开关流体磁铁",
+    "vi": null
+  },
+  "key.beyonddimensions.open_magnet_gui_key": {
+    "en": "Open Magnet GUI",
+    "zh": "打开磁铁界面",
+    "vi": null
+  },
+  "key.beyonddimensions.open_primary_net_switcher_key": {
+    "en": "Open Primary Network Switcher",
+    "zh": "打开主网络切换器",
+    "vi": null
+  },
+  "key.beyonddimensions.cycle_primary_net_key": {
+    "en": "Cycle Primary Network",
+    "zh": "循环切换主网络",
+    "vi": null
+  },
+  "item.beyonddimensions.net_creater": {
+    "en": "Dimensional Network Generator",
+    "zh": "维度网络发生器",
+    "vi": null
+  },
+  "item.beyonddimensions.net_member_inviter": {
+    "en": "Member Connector",
+    "zh": "成员连接符",
+    "vi": null
+  },
+  "item.beyonddimensions.net_manager_inviter": {
+    "en": "Manager Connector",
+    "zh": "管理员连接符",
+    "vi": null
+  },
+  "item.beyonddimensions.unstable_space_time_fragment": {
+    "en": "Unstable Space-Time Fragment",
+    "zh": "不稳定时空碎片",
+    "vi": null
+  },
+  "item.beyonddimensions.stable_space_time_fragment": {
+    "en": "Stable Space-Time Fragment",
+    "zh": "稳态时空碎片",
+    "vi": null
+  },
+  "item.beyonddimensions.space_time_stable_frame": {
+    "en": "Stable Space-Time Frame",
+    "zh": "稳定的时空框架",
+    "vi": null
+  },
+  "item.beyonddimensions.shattered_space_time_crystallization": {
+    "en": "Shattered Space-Time Crystallization",
+    "zh": "破碎的时空结晶",
+    "vi": null
+  },
+  "item.beyonddimensions.space_time_bar": {
+    "en": "Space-Time Ingot",
+    "zh": "时空锭",
+    "vi": null
+  },
+  "item.beyonddimensions.test_item_generate": {
+    "en": "Test-itemGenerator",
+    "zh": "测试-物品生成器",
+    "vi": null
+  },
+  "item.beyonddimensions.net_terminal_item": {
+    "en": "Portable Network Terminal",
+    "zh": "便携网络终端",
+    "vi": null
+  },
+  "item.beyonddimensions.net_ae_storage_cell": {
+    "en": "Dimensional ME Storage Cell",
+    "zh": "维度ME磁盘",
+    "vi": null
+  },
+  "item.beyonddimensions.net_gifter": {
+    "en": "Network Gifter",
+    "zh": "网络赠送符",
+    "vi": null
+  },
+  "item.beyonddimensions.net_destroyer": {
+    "en": "Network Destructor Charm",
+    "zh": "网络自毁符",
+    "vi": null
+  },
+  "item.beyonddimensions.matter_compress_ball": {
+    "en": "Compressed Matter Orb",
+    "zh": "压缩物质球",
+    "vi": null
+  },
+  "item.beyonddimensions.net_magnet_item": {
+    "en": "Net Magnet",
+    "zh": "网络磁铁",
+    "vi": null
+  },
+  "item.beyonddimensions.net_feeder_item": {
+    "en": "Net Feeder",
+    "zh": "网络喂食器",
+    "vi": null
+  },
+  "item.beyonddimensions.net_restocker_item": {
+    "en": "Net Restocker",
+    "zh": "网络补货器",
+    "vi": null
+  },
+  "item.beyonddimensions.xp_fluid_bucket": {
+    "en": "Bucket of Liquid XP",
+    "zh": "液态经验桶",
+    "vi": null
+  },
+  "item.beyonddimensions.xp_exchange_item": {
+    "en": "XP Rod",
+    "zh": "经验棒",
+    "vi": null
+  },
+  "item.beyonddimensions.warden_soul_tag_item": {
+    "en": "Warden Soul Tagger",
+    "zh": "灵魂标记器",
+    "vi": null
+  },
+  "menu.title.beyonddimensions.xp_exchange_menu": {
+    "en": "XP Rod Settings",
+    "zh": "经验棒设置",
+    "vi": null
+  },
+  "menu.label.beyonddimensions.xp_exchange.target_level": {
+    "en": "Target Level",
+    "zh": "目标等级",
+    "vi": null
+  },
+  "menu.label.beyonddimensions.xp_exchange.max_level": {
+    "en": "Max: %s",
+    "zh": "最大：%s",
+    "vi": null
+  },
+  "menu.label.beyonddimensions.primary_net_switcher.search": {
+    "en": "Search networks...",
+    "zh": "搜索网络...",
+    "vi": null
+  },
+  "menu.label.beyonddimensions.primary_net_switcher.recent": {
+    "en": "Recent",
+    "zh": "最近使用",
+    "vi": null
+  },
+  "menu.label.beyonddimensions.primary_net_switcher.all_networks": {
+    "en": "Available Networks",
+    "zh": "可用网络",
+    "vi": null
+  },
+  "menu.label.beyonddimensions.primary_net_switcher.rename": {
+    "en": "Rename Network",
+    "zh": "重命名网络",
+    "vi": null
+  },
+  "menu.button.beyonddimensions.primary_net_switcher.clear": {
+    "en": "Use No Primary Network",
+    "zh": "切换为无主网络",
+    "vi": null
+  },
+  "menu.text.beyonddimensions.primary_net_switcher.current": {
+    "en": "Current Primary: %s",
+    "zh": "当前主网络：%s",
+    "vi": null
+  },
+  "menu.text.beyonddimensions.primary_net_switcher.none": {
+    "en": "None",
+    "zh": "无",
+    "vi": null
+  },
+  "menu.text.beyonddimensions.primary_net_switcher.current_suffix": {
+    "en": " [Current]",
+    "zh": "【当前】",
+    "vi": null
+  },
+  "menu.text.beyonddimensions.net.default_name": {
+    "en": "Net #%s",
+    "zh": "网络 #%s",
+    "vi": null
+  },
+  "menu.text.beyonddimensions.primary_net_switcher.hint": {
+    "en": "Up/Down to select, Enter to switch, right-click search to clear",
+    "zh": "上下方向键选择，回车切换，右键搜索框清空",
+    "vi": null
+  },
+  "menu.text.beyonddimensions.primary_net_switcher.permission.member": {
+    "en": "Member",
+    "zh": "成员",
+    "vi": null
+  },
+  "menu.text.beyonddimensions.primary_net_switcher.permission.manager": {
+    "en": "Manager",
+    "zh": "管理员",
+    "vi": null
+  },
+  "menu.text.beyonddimensions.primary_net_switcher.permission.owner": {
+    "en": "Owner",
+    "zh": "所有者",
+    "vi": null
+  },
+  "block.beyonddimensions.net_control": {
+    "en": "Network Controller",
+    "zh": "网络控制器",
+    "vi": null
+  },
+  "block.beyonddimensions.net_interface": {
+    "en": "Network Interface",
+    "zh": "网络接口",
+    "vi": null
+  },
+  "block.beyonddimensions.net_pathway": {
+    "en": "Dimensional Network Pathway",
+    "zh": "维度网络通道",
+    "vi": null
+  },
+  "block.beyonddimensions.net_energy_pathway": {
+    "en": "Dimensional Network Energy Pathway",
+    "zh": "维度网络能量通道",
+    "vi": null
+  },
+  "block.beyonddimensions.net_terminal_block": {
+    "en": "Network Terminal",
+    "zh": "网络终端",
+    "vi": null
+  },
+  "block.beyonddimensions.net_pump_block": {
+    "en": "Net Pump",
+    "zh": "网络泵",
+    "vi": null
+  },
+  "block.beyonddimensions.net_hopper_block": {
+    "en": "Net Hopper",
+    "zh": "网络漏斗",
+    "vi": null
+  },
+  "block.beyonddimensions.net_furnace_block": {
+    "en": "Net Furnace",
+    "zh": "网络熔炉",
+    "vi": null
+  },
+  "block.beyonddimensions.net_blast_furnace_block": {
+    "en": "Net Blast Furnace",
+    "zh": "网络高炉",
+    "vi": null
+  },
+  "block.beyonddimensions.net_smoker_block": {
+    "en": "Net Smoker",
+    "zh": "网络烟熏炉",
+    "vi": null
+  },
+  "block.beyonddimensions.dimensional_connect_block": {
+    "en": "Dimensional Connect Block",
+    "zh": "维度连接方块",
+    "vi": null
+  },
+  "block.beyonddimensions.rs_net_pathway": {
+    "en": "Dimensional Network RS Pathway",
+    "zh": "RS维度通道",
+    "vi": null
+  },
+  "block.beyonddimensions.xp_fluid": {
+    "en": "Liquid XP",
+    "zh": "液态经验",
+    "vi": null
+  },
+  "block.beyonddimensions.ars_source_pathway": {
+    "en": "Interdimensional Source Pathway",
+    "zh": "维度魔源通道",
+    "vi": null
+  },
+  "block.beyonddimensions.mana_pool_pathway": {
+    "en": "Dimensional Mana Pool",
+    "zh": "维度魔力池",
+    "vi": null
+  },
+  "block.beyonddimensions.schematicannon_pathway": {
+    "en": "Schematic Interface",
+    "zh": "蓝图接口",
+    "vi": null
+  },
+  "fluid_type.beyonddimensions.xp_fluid": {
+    "en": "Liquid XP",
+    "zh": "液态经验",
+    "vi": null
+  },
+  "creativetab.beyonddimensions.items": {
+    "en": "Beyond Dimensions - Items",
+    "zh": "超越维度-物品",
+    "vi": null
+  },
+  "creativetab.beyonddimensions.blocks": {
+    "en": "Beyond Dimensions - Blocks",
+    "zh": "超越维度-方块",
+    "vi": null
+  },
+  "beyonddimensions.message.insufficient_materials": {
+    "en": "Lack of sufficient materials",
+    "zh": "缺少足够材料",
+    "vi": null
+  },
+  "msg.beyonddimensions.network_created": {
+    "en": "You ripped a rift through the cosmos...",
+    "zh": "你从宇宙中撕开了一个裂隙...",
+    "vi": null
+  },
+  "msg.beyonddimensions.item_net_bound": {
+    "en": "Item bound to network #%d",
+    "zh": "物品被绑定到%d号网络",
+    "vi": null
+  },
+  "msg.beyonddimensions.item_net_unbound": {
+    "en": "Item unbound from network #%d",
+    "zh": "物品从%d号网络解绑",
+    "vi": null
+  },
+  "msg.beyonddimensions.block_net_bound": {
+    "en": "Block bound to network #%d",
+    "zh": "方块被绑定到%d号网络",
+    "vi": null
+  },
+  "msg.beyonddimensions.block_net_unbound": {
+    "en": "Block unbound from network #%d",
+    "zh": "方块从%d号网络解绑",
+    "vi": null
+  },
+  "msg.beyonddimensions.item_need_bound": {
+    "en": "Item must be bound before use",
+    "zh": "物品需要被绑定后才能使用",
+    "vi": null
+  },
+  "msg.beyonddimensions.error_item_net": {
+    "en": "Das mit diesem Gegenstand verbundene Netzwerk ist nicht verfügbar",
+    "zh": "物品绑定的网络已不可用",
+    "vi": null
+  },
+  "msg.beyonddimensions.cant_merge_net": {
+    "en": "Das Zielnetzwerk kann nicht zusammengeführt werden. Sie müssen der Netzwerkbesitzer sein, um andere Netzwerke zusammenzuführen",
+    "zh": "无法合并目标网络，你必须是网络所有者才能合并其他网络",
+    "vi": null
+  },
+  "msg.beyonddimensions.no_right_to_bound_item": {
+    "en": "Sie sind nicht berechtigt, die Netzwerkbindung dieses Gegenstands zu ändern",
+    "zh": "你无权更改此物品的网络绑定",
+    "vi": null
+  },
+  "msg.beyonddimensions.no_right_to_bound_block": {
+    "en": "Sie sind nicht berechtigt, die Netzwerkbindung dieses Blocks zu ändern",
+    "zh": "你无权更改此方块的网络绑定",
+    "vi": null
+  },
+  "msg.beyonddimensions.cant_delete_net": {
+    "en": "Cannot delete network – You must be the owner",
+    "zh": "无法删除网络，你必须是网络主人才能执行此操作",
+    "vi": null
+  },
+  "msg.beyonddimensions.item_net_destroyed": {
+    "en": "You destroyed the network you were in",
+    "zh": "你已经删除自身所在的网络",
+    "vi": null
+  },
+  "msg.beyonddimensions.net_gift_done": {
+    "en": "Merged Network #%s",
+    "zh": "成功合并%s号网络",
+    "vi": null
+  },
+  "msg.beyonddimensions.xp_mode.switch.slow": {
+    "en": "XP transfer amount switched to: 1 level",
+    "zh": "单次交互量切换到：1级",
+    "vi": null
+  },
+  "msg.beyonddimensions.xp_mode.switch.mid": {
+    "en": "XP transfer amount switched to: 10 levels",
+    "zh": "单次交互量切换到：10级",
+    "vi": null
+  },
+  "msg.beyonddimensions.xp_mode.switch.high": {
+    "en": "XP transfer amount switched to: 30 levels",
+    "zh": "单次交互量切换到：30级",
+    "vi": null
+  },
+  "msg.beyonddimensions.xp_mode.switch.highest": {
+    "en": "XP transfer amount switched to: 100 levels",
+    "zh": "单次交互量切换到：100级",
+    "vi": null
+  },
+  "msg.beyonddimensions.xp_mode.switch.over_highest": {
+    "en": "XP transfer amount switched to: 150 levels",
+    "zh": "单次交互量切换到：150级",
+    "vi": null
+  },
+  "types.beyonddimensions.energytype.name": {
+    "en": "FE",
+    "zh": "FE能量",
+    "vi": null
+  },
+  "types.beyonddimensions.warden_soul_type.name": {
+    "en": "Warden Souls",
+    "zh": "监守者之魂",
+    "vi": null
+  },
+  "types.beyonddimensions.source_type.name": {
+    "en": "Source",
+    "zh": "魔源",
+    "vi": null
+  },
+  "types.beyonddimensions.mana_type.name": {
+    "en": "Plant Mana",
+    "zh": "植物魔力",
+    "vi": null
+  },
+  "msg.beyonddimensions.magnet.close": {
+    "en": "Magnet disabled",
+    "zh": "磁铁被禁用",
+    "vi": null
+  },
+  "msg.beyonddimensions.magnet.open": {
+    "en": "Magnet enabled",
+    "zh": "磁铁被启用",
+    "vi": null
+  },
+  "msg.beyonddimensions.magnet.itemclose": {
+    "en": "Magnet item pickup disabled",
+    "zh": "禁用磁铁物品吸取",
+    "vi": null
+  },
+  "msg.beyonddimensions.magnet.itemopen": {
+    "en": "Magnet item pickup enabled",
+    "zh": "启用磁铁物品吸取",
+    "vi": null
+  },
+  "msg.beyonddimensions.magnet.fluidclose": {
+    "en": "Magnet fluid pickup disabled",
+    "zh": "禁用磁铁流体吸取",
+    "vi": null
+  },
+  "msg.beyonddimensions.magnet.fluidopen": {
+    "en": "Magnet fluid pickup enabled",
+    "zh": "启用磁铁流体吸取",
+    "vi": null
+  },
+  "msg.beyonddimensions.item.xp_exchange.open": {
+    "en": "Enable XP auto-exchange, maintaining the configured level",
+    "zh": "开启经验自动存取，将经验等级维持在设定值",
+    "vi": null
+  },
+  "msg.beyonddimensions.item.xp_exchange.close": {
+    "en": "Disable XP auto-exchange",
+    "zh": "关闭经验自动存取",
+    "vi": null
+  },
+  "msg.beyonddimensions.primary_net.switch.changed": {
+    "en": "Primary network switched to #%s",
+    "zh": "主网络已切换为 #%s",
+    "vi": null
+  },
+  "msg.beyonddimensions.primary_net.switch.cleared": {
+    "en": "Primary network cleared",
+    "zh": "已切换为无主网络",
+    "vi": null
+  },
+  "msg.beyonddimensions.primary_net.switch.none_available": {
+    "en": "No available network to switch to",
+    "zh": "当前没有可切换的网络",
+    "vi": null
+  },
+  "msg.beyonddimensions.primary_net.switch.invalid_target": {
+    "en": "That network is unavailable or you are no longer a member",
+    "zh": "目标网络不可用，或你已经不再属于该网络",
+    "vi": null
+  },
+  "msg.beyonddimensions.primary_net.switch.no_other": {
+    "en": "No other primary network is available",
+    "zh": "没有其他可切换的主网络",
+    "vi": null
+  }
+}

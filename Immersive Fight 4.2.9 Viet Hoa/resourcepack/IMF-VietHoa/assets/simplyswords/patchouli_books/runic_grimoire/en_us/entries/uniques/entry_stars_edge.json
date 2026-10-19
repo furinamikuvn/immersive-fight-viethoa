@@ -1,0 +1,17 @@
+{
+  "name": "Stars Edge (Tinh Mang)",
+  "icon": "simplyswords:stars_edge",
+  "advancement": "simplyswords:stars_edge",
+  "category": "simplyswords:category_unique_weapons",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:stars_edge",
+      "text": "Song Đầu Kiếm cộng hưởng với năng lượng tinh tú vũ trụ, bộc phát sát thương cực hạn dưới ánh dương rực rỡ."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Và khi màn đêm buông xuống, nó thay đổi tính cách. Được tắm trong ánh trăng và ánh sao, nó tỏa ra một bầu không khí êm dịu. Các đòn tấn công của nó được mặt trăng ban phước và sẽ có tác dụng hút máu."
+    }
+  ]
+}

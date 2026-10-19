@@ -1,0 +1,92 @@
+{
+  "config.citresewn.title": {
+    "en": "CIT Resewn Configuration",
+    "zh": null,
+    "vi": null
+  },
+  "config.citresewn.enabled.title": {
+    "en": "Enabled",
+    "zh": null,
+    "vi": null
+  },
+  "config.citresewn.enabled.tooltip": {
+    "en": "Should CIT Resewn load and inject cits from resourcepacks",
+    "zh": null,
+    "vi": null
+  },
+  "config.citresewn.mute_errors.title": {
+    "en": "Mute loading errors",
+    "zh": null,
+    "vi": null
+  },
+  "config.citresewn.mute_errors.tooltip": {
+    "en": "Should CIT Resewn not log cit errors",
+    "zh": null,
+    "vi": null
+  },
+  "config.citresewn.mute_warns.title": {
+    "en": "Mute loading warnings",
+    "zh": null,
+    "vi": null
+  },
+  "config.citresewn.mute_warns.tooltip": {
+    "en": "Should CIT Resewn not log cit warnings",
+    "zh": null,
+    "vi": null
+  },
+  "config.citresewn.citenchantment_scroll_multiplier.title": {
+    "en": "CIT Enchantment: Scroll Multiplier",
+    "zh": null,
+    "vi": null
+  },
+  "config.citresewn.citenchantment_scroll_multiplier.tooltip": {
+    "en": "General multiplier for the scroll speed of the glint textures added by enchantment CITs.",
+    "zh": null,
+    "vi": null
+  },
+  "config.citresewn.broken_paths.title": {
+    "en": "Allow broken paths in resourcepacks",
+    "zh": null,
+    "vi": null
+  },
+  "config.citresewn.broken_paths.tooltip": {
+    "en": "Allows packs with illegal resource paths to load.\nMay cause issues!",
+    "zh": null,
+    "vi": null
+  },
+  "config.citresewn.cache_ms.title": {
+    "en": "Cache",
+    "zh": null,
+    "vi": null
+  },
+  "config.citresewn.cache_ms.tooltip": {
+    "en": "How often should the cit cache be refreshed.\nHigher values will give more performance.\nLower values will make cits update faster.\nREALTIME will remove the cache entirely,\n making items check for cits every frame.",
+    "zh": null,
+    "vi": null
+  },
+  "config.citresewn.cache_ms.ticks.0": {
+    "en": "REALTIME",
+    "zh": null,
+    "vi": null
+  },
+  "config.citresewn.cache_ms.ticks.1": {
+    "en": "EVERY TICK",
+    "zh": null,
+    "vi": null
+  },
+  "config.citresewn.cache_ms.ticks.any": {
+    "en": "EVERY %s TICKS",
+    "zh": null,
+    "vi": null
+  },
+  "pack.incompatible.broken_paths": {
+    "en": "(Contains broken paths)",
+    "zh": null,
+    "vi": null
+  },
+  "pack.incompatible.confirm.broken_paths": {
+    "en": "This pack contains broken paths and support for it may be dropped in the future. Contact pack author to remove this warning. (~ CIT Resewn)",
+    "zh": null,
+    "vi": null
+  }
+}

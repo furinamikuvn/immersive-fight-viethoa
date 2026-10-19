@@ -1,0 +1,157 @@
+{
+  "block.realmrpg_skeletons.duelist_skeleton": {
+    "en": "Duelist Skeleton",
+    "zh": "没能躲过对手攻击的前辈",
+    "vi": "Duelist Skeleton"
+  },
+  "block.realmrpg_skeletons.webbed_skeleton": {
+    "en": "Webbed Skeleton",
+    "zh": "错误低估了蜘蛛的前辈",
+    "vi": "Webbed Skeleton"
+  },
+  "block.realmrpg_skeletons.trident_skeleton": {
+    "en": "Drowned Skeleton",
+    "zh": "被刺穿的前辈",
+    "vi": "Drowned Skeleton"
+  },
+  "block.realmrpg_skeletons.cactus_skeleton": {
+    "en": "Pricked Skeleton",
+    "zh": "才知道东西不能摸的前辈",
+    "vi": "Pricked Skeleton"
+  },
+  "block.realmrpg_skeletons.thief_skeleton": {
+    "en": "Thief Skeleton",
+    "zh": "摸猪灵口袋时被发现的前辈",
+    "vi": "Thief Skeleton"
+  },
+  "block.realmrpg_skeletons.vines_tangled_skeleton": {
+    "en": "Vine Tangled Skeleton",
+    "zh": "想吃发光浆果的前辈",
+    "vi": "Vine Tangled Skeleton"
+  },
+  "block.realmrpg_skeletons.unsaved_skeleton": {
+    "en": "Unsaved Skeleton",
+    "zh": "等待了太久救援的前辈",
+    "vi": "Unsaved Skeleton"
+  },
+  "block.realmrpg_skeletons.devastated_skeleton": {
+    "en": "Devastated Skeleton",
+    "zh": "在血月满目疮痍的前辈",
+    "vi": "Devastated Skeleton"
+  },
+  "block.realmrpg_skeletons.mushroomer_skeleton": {
+    "en": "Mushroomer Skeleton",
+    "zh": "出门采蘑菇时迷路的前辈",
+    "vi": "Mushroomer Skeleton"
+  },
+  "block.realmrpg_skeletons.corrupted_skeleton": {
+    "en": "Corrupted Skeleton",
+    "zh": "没能成功末影传送的前辈",
+    "vi": "Corrupted Skeleton"
+  },
+  "block.realmrpg_skeletons.lucky_skeleton": {
+    "en": "Lucky Skeleton",
+    "zh": "幸运地找到宝藏但没能回来的前辈",
+    "vi": "Lucky Skeleton"
+  },
+  "block.realmrpg_skeletons.winter_skeleton": {
+    "en": "Winter Skeleton",
+    "zh": "饱受寒冷的前辈",
+    "vi": "Winter Skeleton"
+  },
+  "block.realmrpg_skeletons.melted_skeleton": {
+    "en": "Melted Skeleton",
+    "zh": "对脚下挖方块的前辈",
+    "vi": "Melted Skeleton"
+  },
+  "block.realmrpg_skeletons.crimson_tangled_skeleton": {
+    "en": "Crimson Tangled Skeleton",
+    "zh": "想爬上绯红树顶的前辈",
+    "vi": "Crimson Tangled Skeleton"
+  },
+  "block.realmrpg_skeletons.frozen_waterdrop_skeleton": {
+    "en": "Frozen Fallen Skeleton",
+    "zh": "落地水失败的前辈",
+    "vi": "Frozen Fallen Skeleton"
+  },
+  "block.realmrpg_skeletons.quicksand_skeleton": {
+    "en": "Quicksand Skeleton",
+    "zh": "试图在流沙中游泳的前辈",
+    "vi": "Quicksand Skeleton"
+  },
+  "block.realmrpg_skeletons.basic_skeleton": {
+    "en": "Adventurer Skeleton",
+    "zh": "刚出门就被绊倒的前辈",
+    "vi": "Adventurer Skeleton"
+  },
+  "block.realmrpg_skeletons.chorus_tangled_skeleton": {
+    "en": "Chorus Tangled Skeleton",
+    "zh": "被什么生物吓到的前辈",
+    "vi": "Chorus Tangled Skeleton"
+  },
+  "itemGroup.tabrealm_rpg_skeletons_tab": {
+    "en": "Realm RPG: Fallen Adventurers",
+    "zh": "地上的前辈们",
+    "vi": "Người cao tuổi trên trái đất"
+  },
+  "item_group.realmrpg_skeletons.realm_rpg_skeletons_tab": {
+    "en": "Realm RPG: Fallen Adventurers",
+    "zh": "地上的前辈们",
+    "vi": "Người cao tuổi trên trái đất"
+  },
+  "block.realmrpg_skeletons.swimmer_skeleton": {
+    "en": "Swimmer Skeleton",
+    "zh": "第一次尝试游泳的前辈",
+    "vi": "Swimmer Skeleton"
+  },
+  "block.realmrpg_skeletons.dungeon_crawler_skeleton": {
+    "en": "Dungeon Crawler Skeleton",
+    "zh": "火把熄灭在黑暗中的前辈",
+    "vi": "Dungeon Crawler Skeleton"
+  },
+  "block.realmrpg_skeletons.fungus_gatherer_skeleton": {
+    "en": "Gatherer Skeleton",
+    "zh": "采集菌落时忘记带上抗火药水的前辈",
+    "vi": "Gatherer Skeleton"
+  },
+  "block.realmrpg_skeletons.acrobat_skeleton": {
+    "en": "Acrobat Skeleton",
+    "zh": "试图在队友面前表演后空翻的前辈",
+    "vi": "Acrobat Skeleton"
+  },
+  "block.realmrpg_skeletons.rookie_skeleton": {
+    "en": "Rookie Skeleton",
+    "zh": "没能坚持剑术训练的前辈",
+    "vi": "Rookie Skeleton"
+  },
+  "block.realmrpg_skeletons.waterdrop_skeleton": {
+    "en": "Landed Skeleton",
+    "zh": "喝了不干净水的前辈",
+    "vi": "Landed Skeleton"
+  },
+  "block.realmrpg_skeletons.arrow_skeleton": {
+    "en": "Trespasser Skeleton",
+    "zh": "遭受灾厄袭击的前辈",
+    "vi": "Trespasser Skeleton"
+  },
+  "block.realmrpg_skeletons.bow_skeleton": {
+    "en": "Archer Skeleton",
+    "zh": "残血时被骷髅看见的前辈",
+    "vi": "Archer Skeleton"
+  },
+  "block.realmrpg_skeletons.burnt_skeleton": {
+    "en": "Burnt Skeleton",
+    "zh": "掉进岩浆上岸没找到水的前辈",
+    "vi": "Burnt Skeleton"
+  },
+  "block.realmrpg_skeletons.snow_skeleton": {
+    "en": "Snowy Skeleton",
+    "zh": "低版本上来不知道细雪的前辈",
+    "vi": "Snowy Skeleton"
+  },
+  "block.realmrpg_skeletons.powder_snow_skeleton": {
+    "en": "Climber Skeleton",
+    "zh": "不知道怎样逃出细雪的前辈",
+    "vi": "Climber Skeleton"
+  }
+}

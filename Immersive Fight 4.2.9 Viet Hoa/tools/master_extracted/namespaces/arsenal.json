@@ -1,0 +1,67 @@
+{
+  "itemGroup.arsenal": {
+    "en": "Arsenal",
+    "zh": "Arsenal",
+    "vi": "Arsenal"
+  },
+  "item.arsenal.soul_metal_ingot": {
+    "en": "Soul Metal Ingot",
+    "zh": "魂金属锭",
+    "vi": "Soul Metal Ingot"
+  },
+  "item.arsenal.charge_halberd": {
+    "en": "Rechargeable Halberd",
+    "zh": "充能戟",
+    "vi": "Rechargeable Halberd"
+  },
+  "item.arsenal.charge_halberd.desc": {
+    "en": "Alternates between spear and axe blade on use",
+    "zh": "充能达到10点以上时，按【C】键键可在长矛与战斧形态间切换",
+    "vi": "Khi điện tích đạt hơn 10 điểm, nhấn phím [C] để chuyển đổi giữa dạng giáo và rìu chiến."
+  },
+  "item.arsenal.charge_halberd2_desc": {
+    "en": "When the charge is 15 or higher, it transforms into a halberd when used while crouching.",
+    "zh": "充能达到10点以上时，潜行【C】键可变形为戟形态",
+    "vi": "When the charge is 15 or higher, it transforms into a halberd when used while crouching."
+  },
+  "item.arsenal.soul_knight_great_sword": {
+    "en": "Great Sword of Soul knight",
+    "zh": "灵魂骑士大剑",
+    "vi": "Great Sword of Soul knight"
+  },
+  "item.arsenal.soul_knight_great_sword.desc": {
+    "en": "Sets enemies on fire or ignites the weapon when you are on fire.",
+    "zh": "点燃敌人，或自身着火时引燃武器",
+    "vi": "Đốt cháy kẻ thù hoặc đốt cháy vũ khí nếu bạn đang bốc cháy"
+  },
+  "item.arsenal.soul_knight_great_sword2.desc": {
+    "en": "Activates skill when used while the weapon is on fire.",
+    "zh": "武器燃烧时按【C】键可激活技能",
+    "vi": "Nhấn phím [C] khi vũ khí đang cháy để kích hoạt kỹ năng"
+  },
+  "item.arsenal.soul_knight_spawn_egg": {
+    "en": "Soul knight Spawn Egg",
+    "zh": "灵魂骑士生成蛋",
+    "vi": "Soul knight Spawn Egg"
+  },
+  "effect.arsenal.stun": {
+    "en": null,
+    "zh": "眩晕",
+    "vi": "chóng mặt"
+  },
+  "advancements.arsenal.root.title": {
+    "en": null,
+    "zh": "arsenal",
+    "vi": "arsenal"
+  },
+  "advancements.arsenal.root.description": {
+    "en": null,
+    "zh": "灵魂骑士进度",
+    "vi": "Tiến trình của Soul Knight"
+  },
+  "entity.arsenal.soul_knight": {
+    "en": "Soul knight",
+    "zh": "灵魂骑士",
+    "vi": "Soul knight"
+  }
+}

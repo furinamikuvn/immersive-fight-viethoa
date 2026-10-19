@@ -1,0 +1,242 @@
+{
+  "pools": [
+    {
+      "rolls": {
+        "min": 1,
+        "max": 1
+      },
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:music_disc_blocks",
+          "weight": 10
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:music_disc_chirp",
+          "weight": 10
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:music_disc_far",
+          "weight": 10
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:music_disc_mall",
+          "weight": 10
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:music_disc_mellohi",
+          "weight": 10
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:music_disc_stal",
+          "weight": 10
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:music_disc_strad",
+          "weight": 10
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:music_disc_ward",
+          "weight": 10
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:music_disc_11",
+          "weight": 10
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:music_disc_wait",
+          "weight": 10
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:music_disc_otherside",
+          "weight": 10
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:music_disc_5",
+          "weight": 10
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:music_disc_pigstep",
+          "weight": 10
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:music_disc_relic",
+          "weight": 10
+        },
+        {
+          "type": "minecraft:item",
+          "name": "alexsmobs:music_disc_thime",
+          "weight": 10
+        },
+        {
+          "type": "minecraft:item",
+          "name": "alexsmobs:music_disc_daze",
+          "weight": 10
+        },
+        {
+          "type": "minecraft:item",
+          "name": "betterend:music_disc_strange_and_alien",
+          "weight": 10
+        },
+        {
+          "type": "minecraft:item",
+          "name": "betterend:music_disc_grasping_at_stars",
+          "weight": 10
+        },
+        {
+          "type": "minecraft:item",
+          "name": "betterend:music_disc_endseeker",
+          "weight": 10
+        },
+        {
+          "type": "minecraft:item",
+          "name": "betterend:music_disc_eo_dracona",
+          "weight": 10
+        },
+        {
+          "type": "minecraft:item",
+          "name": "born_in_chaos_v1:anluka_doors",
+          "weight": 10
+        },
+        {
+          "type": "minecraft:item",
+          "name": "born_in_chaos_v1:serpumpkinhead_m",
+          "weight": 10
+        },
+        {
+          "type": "minecraft:item",
+          "name": "aquamirae:music_disc_horizon",
+          "weight": 10
+        },
+        {
+          "type": "minecraft:item",
+          "name": "aquamirae:music_disc_forsaken_drownage",
+          "weight": 10
+        },
+        {
+          "type": "minecraft:item",
+          "name": "alexscaves:music_disc_fusion",
+          "weight": 10
+        },
+        {
+          "type": "minecraft:item",
+          "name": "alexscaves:music_disc_tasty",
+          "weight": 10
+        },
+        {
+          "type": "minecraft:item",
+          "name": "legendary_monsters:music_disc_advance",
+          "weight": 10
+        },
+        {
+          "type": "minecraft:item",
+          "name": "alexscaves_torpedoes:attractive_music_disc",
+          "weight": 10
+        },
+        {
+          "type": "minecraft:item",
+          "name": "beachparty:overgrown_disc",
+          "weight": 10
+        },
+        {
+          "type": "minecraft:item",
+          "name": "takesapillage:bastille_blues_music_disc",
+          "weight": 10
+        },
+        {
+          "type": "minecraft:item",
+          "name": "netherexp:music_disc_buckshot_wonderland",
+          "weight": 10
+        },
+        {
+          "type": "minecraft:item",
+          "name": "eeeabsmobs:guardians_music_disc",
+          "weight": 10
+        },
+        {
+          "type": "minecraft:item",
+          "name": "eeeabsmobs:the_army_of_minotaur_music_disc",
+          "weight": 10
+        },
+        {
+          "type": "minecraft:item",
+          "name": "illageandspillage:spiri_disc",
+          "weight": 10
+        },
+        {
+          "type": "minecraft:item",
+          "name": "illageandspillage:freaky_disc",
+          "weight": 10
+        },
+        {
+          "type": "minecraft:item",
+          "name": "illageandspillage:magi_disc",
+          "weight": 10
+        },
+        {
+          "type": "minecraft:item",
+          "name": "species:music_disc_dial",
+          "weight": 10
+        },
+        {
+          "type": "minecraft:item",
+          "name": "species:music_disc_lapidarian",
+          "weight": 10
+        },
+        {
+          "type": "minecraft:item",
+          "name": "mowziesmobs:music_disc_petiole",
+          "weight": 10
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cataclysm:music_disc_netherite_monstrosity",
+          "weight": 10
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cataclysm:music_disc_ender_guardian",
+          "weight": 10
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cataclysm:music_disc_ignis",
+          "weight": 10
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cataclysm:music_disc_the_harbinger",
+          "weight": 10
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cataclysm:music_disc_the_leviathan",
+          "weight": 10
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cataclysm:music_disc_ancient_remnant",
+          "weight": 10
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cataclysm:music_disc_maledictus",
+          "weight": 10
+        }
+      ]
+    }
+  ]
+}

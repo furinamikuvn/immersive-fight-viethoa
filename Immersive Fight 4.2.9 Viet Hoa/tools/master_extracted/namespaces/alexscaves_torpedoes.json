@@ -1,0 +1,207 @@
+{
+  "item.alexscaves_torpedoes.azure_pickaxe": {
+    "en": "Azure Neodymium Pickaxe",
+    "zh": "青钕镐",
+    "vi": "Azure Neodymium Pickaxe"
+  },
+  "entity.alexscaves_torpedoes.magnetic_burst": {
+    "en": "Magnetic Burst",
+    "zh": "磁力脉冲",
+    "vi": "Magnetic Burst"
+  },
+  "subtitles.attractive_redwolf": {
+    "en": "Attractive music",
+    "zh": "唱片 声音",
+    "vi": "ghi lại âm thanh"
+  },
+  "subtitles.rolling_droid_hurt": {
+    "en": "Polarizz hurt",
+    "zh": "磁铁球 受伤",
+    "vi": "bóng nam châm bị thương"
+  },
+  "item.alexscaves_torpedoes.tectonic_chestplate": {
+    "en": "§4Tectonic Chestplate",
+    "zh": "§4地壳胸甲",
+    "vi": "§4Tectonic Chestplate"
+  },
+  "item.alexscaves_torpedoes.attractive_music_disc": {
+    "en": "§bMusic Disc",
+    "zh": "§b音乐唱片",
+    "vi": "§bMusic Disc"
+  },
+  "item.alexscaves_torpedoes.pocket_magnet": {
+    "en": "§ePocket Magnet",
+    "zh": "§e口袋磁铁",
+    "vi": "§ePocket Magnet"
+  },
+  "subtitles.pulsargun_empty": {
+    "en": "Pulsargun empty",
+    "zh": "脉冲枪 供能不足",
+    "vi": "Súng xung không đủ nguồn điện"
+  },
+  "item.alexscaves_torpedoes.azure_shovel": {
+    "en": "Azure Neodymium Shovel",
+    "zh": "青钕铲",
+    "vi": "Azure Neodymium Shovel"
+  },
+  "item.alexscaves_torpedoes.torpedo_nuclear": {
+    "en": "Nuclear Torpedo",
+    "zh": "核鱼雷",
+    "vi": "Nuclear Torpedo"
+  },
+  "subtitles.rolling_droid_death": {
+    "en": "Rolling Droid death",
+    "zh": "滚动机器人 死亡",
+    "vi": "cái chết của robot lăn"
+  },
+  "entity.alexscaves_torpedoes.polarizz": {
+    "en": "Polarizz",
+    "zh": "磁铁球",
+    "vi": "Polarizz"
+  },
+  "subtitles.silence": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "item.alexscaves_torpedoes.attractive_music_disc.desc": {
+    "en": "Redwolf - Attractive",
+    "zh": "红狼-吸引",
+    "vi": "sói đỏ - thu hút"
+  },
+  "item.alexscaves_torpedoes.azure_axe": {
+    "en": "Azure Neodymium Axe",
+    "zh": "青钕斧",
+    "vi": "Azure Neodymium Axe"
+  },
+  "item.alexscaves_torpedoes.scarlet_axe": {
+    "en": "Scarlet Neodymium Axe",
+    "zh": "赤钕斧",
+    "vi": "Scarlet Neodymium Axe"
+  },
+  "item.alexscaves_torpedoes.ferrousslime_boots": {
+    "en": "§eFerrousslime Boots",
+    "zh": "§e富铁粘液靴",
+    "vi": "§eFerrousslime Boots"
+  },
+  "entity.alexscaves_torpedoes.torpedo_missile": {
+    "en": "Torpedo Missile",
+    "zh": "鱼雷导弹",
+    "vi": "Torpedo Missile"
+  },
+  "subtitles.magnetic_brust": {
+    "en": "Magnetic brust",
+    "zh": "磁力 脉冲",
+    "vi": "xung từ"
+  },
+  "subtitles.pulsargun_reload": {
+    "en": "Pulsargun reload",
+    "zh": "脉冲枪 重新装填",
+    "vi": "Tải lại súng xung"
+  },
+  "subtitles.pulsargun_shoot": {
+    "en": "Pulsargun shoot",
+    "zh": "脉冲枪 射击",
+    "vi": "bắn súng xung"
+  },
+  "item.alexscaves_torpedoes.scarlet_shovel": {
+    "en": "Scarlet Neodymium Shovel",
+    "zh": "赤钕铲",
+    "vi": "Scarlet Neodymium Shovel"
+  },
+  "item.alexscaves_torpedoes.scarlet_sword": {
+    "en": "Scarlet Neodymium Sword",
+    "zh": "赤钕剑",
+    "vi": "Scarlet Neodymium Sword"
+  },
+  "block.alexscaves_torpedoes.magnet_display": {
+    "en": "§eMagnet Display",
+    "zh": "§e磁铁展示台",
+    "vi": "§eMagnet Display"
+  },
+  "item.alexscaves_torpedoes.pulsargun": {
+    "en": "Pulsargun",
+    "zh": "脉冲枪",
+    "vi": "Pulsargun"
+  },
+  "item_group.alexscaves_torpedoes.stuff_n_torpedoes_tab": {
+    "en": "Alex's Caves: Stuff & Torpedoes",
+    "zh": "Alex's Caves: Stuff & Torpedoes",
+    "vi": "Alex's Caves: Stuff & Torpedoes"
+  },
+  "enchantment.alexscaves_torpedoes.universal_magnetism": {
+    "en": "Universal Magnetism",
+    "zh": "通用磁力",
+    "vi": "Nam châm vạn năng"
+  },
+  "enchantment.alexscaves_torpedoes.universal_magnetism.desc": {
+    "en": null,
+    "zh": "使装备获得磁力效果",
+    "vi": "Tạo cho thiết bị một hiệu ứng từ tính"
+  },
+  "item.alexscaves_torpedoes.tectonic_boots": {
+    "en": "§4Tectonic Boots",
+    "zh": "§4地壳靴子",
+    "vi": "§4Tectonic Boots"
+  },
+  "item.alexscaves_torpedoes.azure_hoe": {
+    "en": "Azure Neodymium Hoe",
+    "zh": "青钕锄",
+    "vi": "Azure Neodymium Hoe"
+  },
+  "item.alexscaves_torpedoes.polarizz_spawn_egg": {
+    "en": "Polarizz Spawn Egg",
+    "zh": "磁铁球刷怪蛋",
+    "vi": "Polarizz Spawn Egg"
+  },
+  "item.alexscaves_torpedoes.magnetic_helmet": {
+    "en": "§eMagnetic Helmet",
+    "zh": "§e磁铁头盔",
+    "vi": "§eMagnetic Helmet"
+  },
+  "subtitles.rolling_droid_ambient": {
+    "en": "Polarizz ambient",
+    "zh": "磁铁球 环境声音",
+    "vi": "Âm thanh xung quanh bóng nam châm"
+  },
+  "item.alexscaves_torpedoes.scarlet_hoe": {
+    "en": "Scarlet Neodymium Hoe",
+    "zh": "赤钕锄",
+    "vi": "Scarlet Neodymium Hoe"
+  },
+  "item.alexscaves_torpedoes.torpedo_pulsar": {
+    "en": "Pulsar Torpedo",
+    "zh": "脉冲鱼雷",
+    "vi": "Pulsar Torpedo"
+  },
+  "item.alexscaves_torpedoes.azure_sword": {
+    "en": "Azure Neodymium Sword",
+    "zh": "青钕剑",
+    "vi": "Azure Neodymium Sword"
+  },
+  "item.alexscaves_torpedoes.tectonic_leggings": {
+    "en": "§4Tectonic Leggings",
+    "zh": "§4地壳护腿",
+    "vi": "§4Tectonic Leggings"
+  },
+  "item.alexscaves_torpedoes.tectonic_helmet": {
+    "en": "§4Tectonic Helmet",
+    "zh": "§4地壳头盔",
+    "vi": "§4Tectonic Helmet"
+  },
+  "item.alexscaves_torpedoes.scarlet_pickaxe": {
+    "en": "Scarlet Neodymium Pickaxe",
+    "zh": "赤钕镐",
+    "vi": "Scarlet Neodymium Pickaxe"
+  },
+  "item.alexscaves_torpedoes.torpedo": {
+    "en": "Torpedo",
+    "zh": "鱼雷",
+    "vi": "Torpedo"
+  },
+  "entity.alexscaves_torpedoes.bulb": {
+    "en": "Bulb",
+    "zh": "泡泡",
+    "vi": "Bulb"
+  }
+}

@@ -1,0 +1,522 @@
+{
+  "modmenu.descriptionTranslation.chatpatches": {
+    "en": "A versatile client-side chat mod that makes chat more customizable, check out the config and the GitHub page for more info!\nJoin the Discord at https://discord.gg/3MqBvNEyMz!",
+    "zh": null,
+    "vi": null
+  },
+  "text.chatpatches.title": {
+    "en": "Chat Patches Configuration",
+    "zh": "Chat Patches 配置",
+    "vi": null
+  },
+  "text.chatpatches.help.dateFormat": {
+    "en": "For date and time formatting information, click me!",
+    "zh": "关于日期和时间格式的信息，点击这里！",
+    "vi": null
+  },
+  "text.chatpatches.help.formatCodes": {
+    "en": "For formatting code characters and which ones do what, click me!",
+    "zh": "关于格式化代码字符以及各种功能的信息，点击这里！",
+    "vi": null
+  },
+  "text.chatpatches.help.faq": {
+    "en": "For Frequently Asked Questions (FAQ), click me!",
+    "zh": "常见问题解答 (FAQ)，点击这里！",
+    "vi": null
+  },
+  "text.chatpatches.help.regex": {
+    "en": "For regular expression information, click me!",
+    "zh": "关于正则表达式的信息，点击这里！",
+    "vi": null
+  },
+  "text.chatpatches.help.regexTester": {
+    "en": "For testing regular expressions, click me!",
+    "zh": "正则表达式测试工具，点击这里！",
+    "vi": null
+  },
+  "text.chatpatches.category.time": {
+    "en": "Timestamp",
+    "zh": "时间戳",
+    "vi": null
+  },
+  "text.chatpatches.category.hover": {
+    "en": "Hover Info",
+    "zh": "悬停信息",
+    "vi": null
+  },
+  "text.chatpatches.category.counter": {
+    "en": "Duplicate counter",
+    "zh": "重复计数",
+    "vi": null
+  },
+  "text.chatpatches.category.counter.compact": {
+    "en": "§9CompactChat§r duplicate counter",
+    "zh": "§9CompactChat§r 重复计数",
+    "vi": null
+  },
+  "text.chatpatches.category.boundary": {
+    "en": "Session Boundary",
+    "zh": "会话边界",
+    "vi": null
+  },
+  "text.chatpatches.category.chat": {
+    "en": "Chat Interface",
+    "zh": "聊天界面",
+    "vi": null
+  },
+  "text.chatpatches.category.chat.hud": {
+    "en": "HUD (Heads Up Display)",
+    "zh": "HUD（悬浮显示）",
+    "vi": null
+  },
+  "text.chatpatches.category.chat.screen": {
+    "en": "Screen",
+    "zh": "屏幕",
+    "vi": null
+  },
+  "text.chatpatches.category.copy": {
+    "en": "Copy menu",
+    "zh": "复制菜单",
+    "vi": null
+  },
+  "text.chatpatches.category.help": {
+    "en": "Help",
+    "zh": "帮助",
+    "vi": null
+  },
+  "text.chatpatches.category.debug": {
+    "en": "Debug",
+    "zh": "调试",
+    "vi": null
+  },
+  "text.chatpatches.category.desc.counter.compact": {
+    "en": "Options about the more \"manipulative\" chat duplication method, based on the §9§nCompactChat§r mod.",
+    "zh": "关于更具“操作性”的聊天重复方法的选项，基于 §9§nCompactChat§r 模组。",
+    "vi": null
+  },
+  "text.chatpatches.category.desc.chat": {
+    "en": "Anything related to the Chat HUD, the chat screen, or its messages.",
+    "zh": "与聊天 HUD、聊天界面或消息相关的所有内容。",
+    "vi": null
+  },
+  "text.chatpatches.category.desc.chat.hud": {
+    "en": "Options about the widget that appears even when the chat screen isn't open. This can also include settings relating to the chat as whole.",
+    "zh": "关于即使聊天界面未打开时也会显示的小部件的选项。这也可以包括与整个聊天相关的设置。",
+    "vi": null
+  },
+  "text.chatpatches.category.desc.chat.screen": {
+    "en": "Screen-specific options.",
+    "zh": "特定于屏幕的选项。",
+    "vi": null
+  },
+  "text.chatpatches.category.desc.copy": {
+    "en": "Options about the selection box and copy menu that appear when right-clicking on chat messages.",
+    "zh": "关于在聊天消息上右键单击时出现的选择框和复制菜单的选项。",
+    "vi": null
+  },
+  "text.chatpatches.category.desc.help": {
+    "en": "Websites that explain how to use certain aspects of the mod!",
+    "zh": "解释如何使用某些模组方面的网站！",
+    "vi": null
+  },
+  "text.chatpatches.category.desc.debug": {
+    "en": "Random stuff for developing?",
+    "zh": "用于开发的随机内容？",
+    "vi": null
+  },
+  "text.chatpatches.time": {
+    "en": "Timestamp toggle",
+    "zh": "时间戳开关",
+    "vi": null
+  },
+  "text.chatpatches.timeDate": {
+    "en": "Timestamp text",
+    "zh": "时间戳文本",
+    "vi": null
+  },
+  "text.chatpatches.timeFormat": {
+    "en": "Timestamp decoration text",
+    "zh": "时间戳装饰文本",
+    "vi": null
+  },
+  "text.chatpatches.timeColor": {
+    "en": "Timestamp color",
+    "zh": "时间戳颜色",
+    "vi": null
+  },
+  "text.chatpatches.desc.time": {
+    "en": "Should a timestamp in front of all messages show?",
+    "zh": "是否显示所有消息前面的时间戳？",
+    "vi": null
+  },
+  "text.chatpatches.desc.timeDate": {
+    "en": "The text that is formatted into a timestamp.",
+    "zh": "将格式化为时间戳的文本。",
+    "vi": null
+  },
+  "text.chatpatches.desc.timeFormat": {
+    "en": "The string of '&' + formatting code modifiers and decoration text that create the timestamp. The '$' is a placeholder for the formatted timestamp option above this one.",
+    "zh": "创建时间戳的字符串，其中的‘&’是格式代码修饰符和装饰文本。‘$’是前面此选项的格式化时间戳的占位符。",
+    "vi": null
+  },
+  "text.chatpatches.desc.timeColor": {
+    "en": "The color that's filled in where it would otherwise be blank in the resulting timestamp. To use this with other formatting modifiers, use '&r' in the decoration text option.",
+    "zh": "填充颜色以用于结果中可能为空白的时间戳部分。要与其他格式修饰符一起使用此选项，请在装饰文本选项中使用‘&r’。",
+    "vi": null
+  },
+  "text.chatpatches.hover": {
+    "en": "Hover toggle",
+    "zh": "悬停开关",
+    "vi": null
+  },
+  "text.chatpatches.hoverDate": {
+    "en": "Hover text",
+    "zh": "悬停文本",
+    "vi": null
+  },
+  "text.chatpatches.hoverFormat": {
+    "en": "Hover decoration text",
+    "zh": "悬停装饰文本",
+    "vi": null
+  },
+  "text.chatpatches.hoverColor": {
+    "en": "Hover text color",
+    "zh": "悬停文本颜色",
+    "vi": null
+  },
+  "text.chatpatches.desc.hover": {
+    "en": "Should text appear stating a more detailed time description when you hover over the timestamp text in chat?",
+    "zh": "当你悬停在聊天中的时间戳文本上时，是否显示一个更详细的时间描述？",
+    "vi": null
+  },
+  "text.chatpatches.desc.hoverDate": {
+    "en": "The text that is formatted into a longer date/time string.",
+    "zh": "将格式化为较长日期/时间字符串的文本。",
+    "vi": null
+  },
+  "text.chatpatches.desc.hoverFormat": {
+    "en": "The string of '&' + formatting code modifiers and decoration text that create the detailed hover description. Requires a '$' as a placeholder for the formatted timestamp option above this one.",
+    "zh": "创建详细悬停描述的字符串，其中的‘&’是格式代码修饰符和装饰文本。需要一个‘$’作为前面此选项的格式化时间戳的占位符。",
+    "vi": null
+  },
+  "text.chatpatches.desc.hoverColor": {
+    "en": "The color that's filled in where it would otherwise be blank white in the resulting hover text. To use this with other formatting modifiers, use '&r' in the decoration text option.",
+    "zh": "填充颜色以用于结果中可能为空白白色的悬停文本。要与其他格式修饰符一起使用此选项，请在装饰文本选项中使用‘&r’。",
+    "vi": null
+  },
+  "text.chatpatches.counter": {
+    "en": "Message counter toggle",
+    "zh": "消息计数器开关",
+    "vi": null
+  },
+  "text.chatpatches.counterFormat": {
+    "en": "Message counter text",
+    "zh": "消息计数器文本",
+    "vi": null
+  },
+  "text.chatpatches.counterColor": {
+    "en": "Message counter color",
+    "zh": "消息计数器颜色",
+    "vi": null
+  },
+  "text.chatpatches.counterCompact": {
+    "en": "CompactChat method toggle",
+    "zh": "CompactChat 方法开关",
+    "vi": null
+  },
+  "text.chatpatches.counterCompactDistance": {
+    "en": "Message check distance",
+    "zh": "消息检查距离",
+    "vi": null
+  },
+  "text.chatpatches.desc.counter": {
+    "en": "Should a message counter show after messages to indicate multiple duplicates were sent? Note: this is required to be enabled for the CompactChat options to work.",
+    "zh": "是否在消息后显示消息计数器以指示已发送多个重复消息？注意：要使 CompactChat 选项起作用，必须启用此选项。",
+    "vi": null
+  },
+  "text.chatpatches.desc.counterFormat": {
+    "en": "The text that's added to the end of a message to indicate multiple duplicates were sent. Requires a '$' for the number of duplicates, also supports '&' + formatting code modifiers. Still applies to the CompactChat method, if enabled.",
+    "zh": "将添加到消息末尾以指示已发送多个重复消息的文本。需要一个‘$’作为重复次数的占位符，并支持‘&’+格式代码修饰符。如果启用了 CompactChat 方法，则仍然适用该选项。",
+    "vi": null
+  },
+  "text.chatpatches.desc.counterColor": {
+    "en": "The color that's filled in where it would otherwise be blank white in the resulting duplicate counter. To use this with other formatting modifiers, use '&r' in the decoration text option. Still applies to the CompactChat method, if enabled.",
+    "zh": "填充颜色以用于结果中可能为空白白色的重复计数器。要与其他格式修饰符一起使用此选项，请在装饰文本选项中使用‘&r’。如果启用了 CompactChat 方法，则仍然适用该选项。",
+    "vi": null
+  },
+  "text.chatpatches.desc.counterCompact": {
+    "en": "Should the message counter behave like the one from the CompactChat mod?",
+    "zh": "是否将消息计数器的行为设置为 CompactChat 模组的行为？",
+    "vi": null
+  },
+  "text.chatpatches.desc.counterCompactDistance": {
+    "en": "The distance (inclusive) up to which messages will be tried for compacting. Setting this to '-1' will try the entire message list, and '0' will try using the maximum amount of messages you can see at once, based on the chat and gui scales. For example, setting this to '7' will try to compact the next message received into one of the last 7 messages already present.",
+    "zh": "在此距离（包括）内将尝试压缩消息。将此设置为“-1”将尝试整个消息列表，“0”将根据聊天和 GUI 缩放尝试使用最大数量的可见消息。例如，将此设置为“7”将尝试将接收到的下一条消息压缩到已存在的最后7条消息之一中。",
+    "vi": null
+  },
+  "text.chatpatches.boundary": {
+    "en": "Boundary toggle",
+    "zh": "边界切换",
+    "vi": null
+  },
+  "text.chatpatches.boundaryFormat": {
+    "en": "Boundary text",
+    "zh": "边界文本",
+    "vi": null
+  },
+  "text.chatpatches.boundaryColor": {
+    "en": "Boundary color",
+    "zh": "边界颜色",
+    "vi": null
+  },
+  "text.chatpatches.desc.boundary": {
+    "en": "Should a boundary line show after chatting, leaving a world/server, and then joining another world/server later?",
+    "zh": "在聊天、离开一个世界/服务器后，再次加入另一个世界/服务器时是否显示边界线？",
+    "vi": null
+  },
+  "text.chatpatches.desc.boundaryFormat": {
+    "en": "The text that is formatted and used for the boundary line. Supports '&' + formatting code modifiers, '\\n' for new lines, and using '$' as a placeholder for the world name.",
+    "zh": "格式化并用于边界线的文本。支持‘&’+格式代码修饰符，‘\\n’表示换行，使用‘$’作为世界名称的占位符。",
+    "vi": null
+  },
+  "text.chatpatches.desc.boundaryColor": {
+    "en": "The color that's filled in where it would otherwise be blank white in the resulting boundary line. To use this with other formatting modifiers, use '&r' in the decoration text option.",
+    "zh": "边界线中填充的颜色，替代原本的白色部分。要与其他格式修饰符一起使用此颜色，请在装饰文本选项中使用‘&r’。",
+    "vi": null
+  },
+  "text.chatpatches.chatLog": {
+    "en": "Chat log toggle",
+    "zh": "聊天记录切换",
+    "vi": null
+  },
+  "text.chatpatches.chatHidePacket": {
+    "en": "Ignore hide message packet",
+    "zh": null,
+    "vi": null
+  },
+  "text.chatpatches.chatWidth": {
+    "en": "Override chat width",
+    "zh": "覆盖聊天宽度",
+    "vi": null
+  },
+  "text.chatpatches.chatMaxMessages": {
+    "en": "Maximum chat messages",
+    "zh": "最大聊天消息数",
+    "vi": null
+  },
+  "text.chatpatches.chatNameFormat": {
+    "en": "Playername text",
+    "zh": "玩家名文本",
+    "vi": null
+  },
+  "text.chatpatches.shiftChat": {
+    "en": "Shift chat",
+    "zh": "聊天上移",
+    "vi": null
+  },
+  "text.chatpatches.messageDrafting": {
+    "en": "Chat drafting toggle",
+    "zh": "聊天草稿切换",
+    "vi": null
+  },
+  "text.chatpatches.searchDrafting": {
+    "en": "Search drafting toggle",
+    "zh": "搜索草稿切换",
+    "vi": null
+  },
+  "text.chatpatches.hideSearchButton": {
+    "en": "Hide search button",
+    "zh": "隐藏搜索按钮",
+    "vi": null
+  },
+  "text.chatpatches.vanillaClearing": {
+    "en": "Vanilla chat clearing",
+    "zh": "原版聊天清除",
+    "vi": null
+  },
+  "text.chatpatches.desc.chatLog": {
+    "en": "Should the chat be saved into a log so it can be re-added back into the chat in another game session?",
+    "zh": "是否保存聊天记录，以便在另一个游戏会话中重新添加到聊天中？",
+    "vi": null
+  },
+  "text.chatpatches.desc.chatHidePacket": {
+    "en": "Should hide message packets that delete chat messages be ignored?",
+    "zh": null,
+    "vi": null
+  },
+  "text.chatpatches.desc.chatWidth": {
+    "en": "The width of the chat box. This overrides vanilla's default and allows for a much larger width. Set to 0 to use the vanilla setting and not override it.",
+    "zh": "聊天框的宽度。这将覆盖原版的默认设置，允许更大的宽度。设置为0以使用原版设置而不进行覆盖。",
+    "vi": null
+  },
+  "text.chatpatches.desc.chatMaxMessages": {
+    "en": "The max amount of chat messages allowed to save. Vanilla caps it at 100, this mod can increase it up to 32,767. Keep in mind a higher max equals higher memory usage.",
+    "zh": "允许保存的最大聊天消息数量。原版限制为100，这个模组可以增加到32767。请记住，更高的最大值意味着更高的内存使用。",
+    "vi": null
+  },
+  "text.chatpatches.desc.chatNameFormat": {
+    "en": "The text that replaces the playername in chat messages. Vanilla is '<$>', name only is '$'; where '$' is a placeholder for the playername. Only applies to player-sent messages. Game won't format message if this is set to '<$>'. ",
+    "zh": "在聊天消息中替代玩家名称的文本。原版为‘<$>’，仅显示名称为‘$’；其中‘$’是玩家名称的占位符。仅适用于玩家发送的消息。",
+    "vi": null
+  },
+  "text.chatpatches.desc.shiftChat": {
+    "en": "Shifts the chat interface up to not obstruct the armor bar and/or health. Default is 10, set to 0 for no shift.",
+    "zh": "将聊天界面上移，以不遮挡装备栏和/或生命值。默认值为10，设置为0以取消上移。",
+    "vi": null
+  },
+  "text.chatpatches.desc.messageDrafting": {
+    "en": "Should any text in the chat field persist after closing and reopening the chat?",
+    "zh": "是否在关闭并重新打开聊天后保留聊天框内的文本？",
+    "vi": null
+  },
+  "text.chatpatches.desc.searchDrafting": {
+    "en": "Should any text in the search field persist after closing and reopening the chat?",
+    "zh": "是否在关闭并重新打开聊天后保留搜索框内的文本？",
+    "vi": null
+  },
+  "text.chatpatches.desc.hideSearchButton": {
+    "en": "Should the search button be hidden? Note that this disables all search functionality.",
+    "zh": "是否隐藏搜索按钮？注意，这将禁用所有搜索功能。",
+    "vi": null
+  },
+  "text.chatpatches.desc.vanillaClearing": {
+    "en": "Should chat messages clear after leaving a world/server like vanilla? Note this completely erases both the chat and chat log.",
+    "zh": "是否像原版那样在离开一个世界/服务器后清除聊天消息？注意，这将完全清除聊天和聊天记录。",
+    "vi": null
+  },
+  "text.chatpatches.copyReplyFormat": {
+    "en": "Reply text format",
+    "zh": "回复文本格式",
+    "vi": null
+  },
+  "text.chatpatches.copyColor": {
+    "en": "Message selection color",
+    "zh": "消息选择颜色",
+    "vi": null
+  },
+  "text.chatpatches.desc.copyReplyFormat": {
+    "en": "The text that is filled into the chat box after right-clicking on a chat message and clicking on the 'Reply' button in the copy menu. '$' is required and will be filled with the message sender's name.",
+    "zh": "右键单击聊天消息并在复制菜单中点击‘回复’按钮后填充到聊天框中的文本。需要使用‘$’，并将其替换为消息发送者的名称。",
+    "vi": null
+  },
+  "text.chatpatches.desc.copyColor": {
+    "en": "The color of the selection box that's shown after right-clicking on a chat message.",
+    "zh": "右键单击聊天消息后显示的选择框的颜色。",
+    "vi": null
+  },
+  "text.chatpatches.search.suggestion": {
+    "en": "Search...",
+    "zh": "搜索...",
+    "vi": null
+  },
+  "text.chatpatches.search.caseSensitive": {
+    "en": "Case sensitive",
+    "zh": "区分大小写",
+    "vi": null
+  },
+  "text.chatpatches.search.modifiers": {
+    "en": "Modifiers",
+    "zh": "修饰符",
+    "vi": null
+  },
+  "text.chatpatches.search.regex": {
+    "en": "Regex",
+    "zh": "正则表达式",
+    "vi": null
+  },
+  "text.chatpatches.search.desc": {
+    "en": "§bLeft click§r to toggle the search bar, or §dright click§r to toggle the settings menu.\n\n§aGreen§r means the search matched, §eyellow§r means nothing matched, and §cred§r means the search is invalid.",
+    "zh": "§b左键单击§r切换搜索栏，或§d右键单击§r切换设置菜单。\n\n§a绿色§r表示搜索匹配，§e黄色§r表示没有匹配，§c红色§r表示搜索无效。",
+    "vi": null
+  },
+  "text.chatpatches.search.desc.caseSensitive": {
+    "en": "Should the search query only match text with the same capitalization?\n\n\"abc\" would match itself, \"Abc\", and \"ABC\"; case sensitive would only match \"abc\".\n§l§oNOTE:§r This applies to regex searching as well.",
+    "zh": "搜索查询是否仅匹配具有相同大小写的文本？\n\n“abc”可以与自身、“Abc”和“ABC”匹配；区分大小写仅会匹配“abc”。\n§l§o注意：§r这也适用于正则表达式搜索。",
+    "vi": null
+  },
+  "text.chatpatches.search.desc.modifiers": {
+    "en": "Should the search query allow matching text according to formatting modifiers?\n\n\"abc\" would match \"abc\" and \"§e§labc§r\"; with modifiers it would only match \"abc\" and not \"§e§labc§r\".\nNOTE: Hex colors §ocan§r be matched in the format \"&#§cRR§aGG§9BB§r\", however §nthis is in beta§f.",
+    "zh": "搜索查询是否允许根据格式修饰符匹配文本？\n\n“abc”可以与“abc”和“§e§labc§r”匹配；具有修饰符时，它将只匹配“abc”而不匹配“§e§labc§r”。\n注意：十六进制颜色 §ocan§r 在格式为“&#§cRR§aGG§9BB§r”的情况下进行匹配，然而§n这还处于测试阶段§f。",
+    "vi": null
+  },
+  "text.chatpatches.search.desc.regex": {
+    "en": "Should the search query be used as a §2reg§rular §2ex§rpression?\n\nTo learn how to use regex, see the help section in the config.\n§l§oNOTE:§r Java regex §nrequires a full match§f, so remember to put \"^.*\" in front and \".*$\" at the end.",
+    "zh": "搜索查询是否作为§2正则表达式§r使用？\n\n要了解如何使用正则表达式，请参阅配置文件中的帮助部分。\n§l§o注意：§rJava 正则表达式§n需要完全匹配§f，所以请记得在前面加上“^.*”，并在末尾加上“.*$”。",
+    "vi": null
+  },
+  "text.chatpatches.copy.copied": {
+    "en": "Copied message component: \"%s\"!",
+    "zh": "已复制消息组件：“%s”！",
+    "vi": null
+  },
+  "text.chatpatches.copy.copyString": {
+    "en": "Copy String >",
+    "zh": "复制字符串 >",
+    "vi": null
+  },
+  "text.chatpatches.copy.rawString": {
+    "en": "Raw",
+    "zh": "原始",
+    "vi": null
+  },
+  "text.chatpatches.copy.formattedString": {
+    "en": "Formatted",
+    "zh": "格式化",
+    "vi": null
+  },
+  "text.chatpatches.copy.jsonString": {
+    "en": "JSON",
+    "zh": "JSON",
+    "vi": null
+  },
+  "text.chatpatches.copy.links": {
+    "en": "Copy Link(s) >",
+    "zh": "复制链接 >",
+    "vi": null
+  },
+  "text.chatpatches.copy.linkN": {
+    "en": "Link %d",
+    "zh": "链接 %d",
+    "vi": null
+  },
+  "text.chatpatches.copy.timestamp": {
+    "en": "Copy Timestamp >",
+    "zh": "复制时间戳 >",
+    "vi": null
+  },
+  "text.chatpatches.copy.timestampText": {
+    "en": "Text",
+    "zh": "文本",
+    "vi": null
+  },
+  "text.chatpatches.copy.timestampHoverText": {
+    "en": "Hover Text",
+    "zh": "悬停文本",
+    "vi": null
+  },
+  "text.chatpatches.copy.unix": {
+    "en": "Copy Unix Time",
+    "zh": "复制 UNIX 时间戳",
+    "vi": null
+  },
+  "text.chatpatches.copy.sender": {
+    "en": "Copy Sender >",
+    "zh": "复制发件人 >",
+    "vi": null
+  },
+  "text.chatpatches.copy.name": {
+    "en": "Username",
+    "zh": "用户名",
+    "vi": null
+  },
+  "text.chatpatches.copy.uuid": {
+    "en": "UUID",
+    "zh": "UUID",
+    "vi": null
+  },
+  "text.chatpatches.copy.reply": {
+    "en": "Reply",
+    "zh": "回复",
+    "vi": null
+  }
+}

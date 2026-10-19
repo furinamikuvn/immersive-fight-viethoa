@@ -1,0 +1,50 @@
+{
+  "type": "minecraft:random_patch",
+  "config": {
+    "feature": {
+      "feature": {
+        "type": "minecraft:simple_block",
+        "config": {
+          "to_place": {
+            "type": "minecraft:weighted_state_provider",
+            "entries": [
+              {
+                "data": {
+                  "Name": "regions_unexplored:sandy_grass",
+                  "Properties": {
+                    "is_red": "false"
+                  }
+                },
+                "weight": 16
+              },
+              {
+                "data": {
+                  "Name": "regions_unexplored:small_desert_shrub"
+                },
+                "weight": 8
+              },
+              {
+                "data": {
+                  "Name": "minecraft:dead_bush"
+                },
+                "weight": 4
+              }
+            ]
+          }
+        }
+      },
+      "placement": [
+        {
+          "type": "minecraft:block_predicate_filter",
+          "predicate": {
+            "type": "minecraft:matching_blocks",
+            "blocks": "minecraft:air"
+          }
+        }
+      ]
+    },
+    "tries": 96,
+    "xz_spread": 6,
+    "y_spread": 2
+  }
+}

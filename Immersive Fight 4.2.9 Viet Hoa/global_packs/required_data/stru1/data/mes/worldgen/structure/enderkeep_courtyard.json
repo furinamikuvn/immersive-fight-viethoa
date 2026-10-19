@@ -1,0 +1,22 @@
+{
+
+  "type": "mes:mes_generic_jigsaw_structure",
+
+  "start_pool": "mes:enderkeep_courtyard_start_pool",
+
+  "size": 1,
+
+  "biomes": ["minecraft:end_barrens","betterend:dry_shrubland","betterend:blossoming_spires","betterend:lantern_woods","minecraft:end_highlands"],
+  "project_start_to_heightmap": "WORLD_SURFACE_WG",
+  "terrain_height_radius_check": 2,
+  "allowed_terrain_height_range": 5,
+  "min_y_allowed": 45,
+
+  "step": "surface_structures",
+  "terrain_adaptation": "beard_thin",
+  "start_height": {
+    "absolute": 0
+  },
+
+  "spawn_overrides": {}
+}

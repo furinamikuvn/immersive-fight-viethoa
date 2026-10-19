@@ -1,0 +1,362 @@
+{
+  "iris.shaders.reloaded": {
+    "en": "Shaders Reloaded!",
+    "zh": "已重新加载光影包！",
+    "vi": null
+  },
+  "iris.shaders.disabled": {
+    "en": "Shaders disabled!",
+    "zh": "光影包已禁用！",
+    "vi": null
+  },
+  "iris.shaders.toggled": {
+    "en": "Toggled shaders to %s!",
+    "zh": "光影包已切换到 %s！",
+    "vi": null
+  },
+  "iris.shaders.debug.enabled": {
+    "en": "Debugging has been enabled, debug logging will be more verbose!",
+    "zh": "调试已启用，日志将更加详细！",
+    "vi": null
+  },
+  "iris.shaders.debug.disabled": {
+    "en": "Debugging has been disabled.",
+    "zh": "调试已禁用。",
+    "vi": null
+  },
+  "iris.shaders.debug.failure": {
+    "en": "Cannot enable debugging, your computer does not support debug features.",
+    "zh": "无法启用调试，你的电脑不支持调试功能。",
+    "vi": null
+  },
+  "iris.shaders.debug.restart": {
+    "en": "You do not have a debug context, please restart to enable OpenGL client debugging.",
+    "zh": "没有调试环境，请重启以启用调试。",
+    "vi": null
+  },
+  "iris.load.failure.shader": {
+    "en": "The shaderpack failed to load! Please report the error to the shader developer. ",
+    "zh": null,
+    "vi": null
+  },
+  "iris.load.failure.generic": {
+    "en": "Oculus encountered an issue trying to load the shader; please report this to Oculus developers. ",
+    "zh": null,
+    "vi": null
+  },
+  "iris.shaders.ssbofailure": {
+    "en": "The shader requested a specific feature (SSBO) that is not supported by your GPU, it may not work correctly.",
+    "zh": "光影请求了你的 GPU 所不支持的特定功能（SSBO），可能无法正常工作。",
+    "vi": null
+  },
+  "iris.keybind.reload": {
+    "en": "Reload Shaders",
+    "zh": "重新加载光影包",
+    "vi": null
+  },
+  "iris.keybind.shaderPackSelection": {
+    "en": "Shaderpack Selection Screen",
+    "zh": "光影包选择界面",
+    "vi": null
+  },
+  "iris.keybind.wireframe": {
+    "en": "Wireframe (SP only)",
+    "zh": null,
+    "vi": null
+  },
+  "iris.keybind.toggleShaders": {
+    "en": "Toggle Shaders",
+    "zh": "启用/禁用光影",
+    "vi": null
+  },
+  "iris.keybinds": {
+    "en": "Oculus",
+    "zh": "Oculus",
+    "vi": null
+  },
+  "iris.shaders.reloaded.failure": {
+    "en": "Failed to reload shaders! Reason: %s",
+    "zh": "重新加载光影包失败！原因：%s",
+    "vi": null
+  },
+  "iris.shaders.toggled.failure": {
+    "en": "Failed to toggle shaders! Reason: %s",
+    "zh": "切换光影包失败！原因：%s",
+    "vi": null
+  },
+  "iris.sodium.failure.title": {
+    "en": "Oculus failed to load!",
+    "zh": "Oculus 加载失败！",
+    "vi": null
+  },
+  "iris.sodium.failure.download": {
+    "en": "Download Rubidium",
+    "zh": "下载 Rubidium",
+    "vi": null
+  },
+  "iris.sodium.failure.reason.notFound": {
+    "en": "Oculus requires Rubidium for good performance, but Rubidium is not installed. Please download Rubidium, place it in your mods folder, and re-launch the game.",
+    "zh": "Oculus 需要 Rubidium 来提供更好的性能，但你并没有安装 Rubidium。请下载 Rubidium，把它放到 mods 文件夹中，并重新启动游戏。",
+    "vi": null
+  },
+  "iris.sodium.failure.reason.incompatible": {
+    "en": "Oculus requires Rubidium for good performance, but an incompatible version was found. Please download the correct version of Rubidium, place it in your mods folder, remove the incorrect version, and re-launch the game.",
+    "zh": "Oculus 需要 Rubidium 来提供更好的性能，但不兼容已安装的 Rubidium 版本。请下载正确的 Rubidium 版本，把它放到 mods 文件夹中，移除错误的 Rubidium 版本，并重新启动游戏。",
+    "vi": null
+  },
+  "iris.nec.failure.title": {
+    "en": "[%s] Not Enough Crashes detected!",
+    "zh": "[%s] 检测到 Not Enough Crashes！",
+    "vi": null
+  },
+  "iris.nec.failure.description": {
+    "en": "Not Enough Crashes can severely break the game while handling crashes, and does not provide accurate results.\nA good alternative is MixinTrace, which can identify the cause of a crash more reliably and does not put the game in an invalid state.",
+    "zh": "在处理崩溃时，Not Enough Crashes 会严重破坏游戏，而且无法提供准确的结果。\n好的替代品有 MixinTrace，它们都可以更准确地识别崩溃原因并且不会使游戏处于无效状态。",
+    "vi": null
+  },
+  "iris.unsupported.irisorpc": {
+    "en": "Oculus or your PC",
+    "zh": "Oculus或你的电脑",
+    "vi": null
+  },
+  "iris.unsupported.iris": {
+    "en": "Oculus",
+    "zh": "Oculus",
+    "vi": null
+  },
+  "iris.unsupported.pc": {
+    "en": "your PC",
+    "zh": "你的电脑",
+    "vi": null
+  },
+  "iris.unsupported.pack": {
+    "en": "Shaderpack incompatible!",
+    "zh": "光影包不兼容！",
+    "vi": null
+  },
+  "iris.unsupported.pack.description": {
+    "en": "The shaderpack you are trying to load contains features unsupported by %s. Please try another pack. List %s",
+    "zh": "你尝试加载的光影包含%s不支持的功能。请尝试其他光影。名单：%s",
+    "vi": null
+  },
+  "iris.unsupported.pack.macos": {
+    "en": "\nmacOS is known to have issues with many shader packs.",
+    "zh": "\nmacOS 已知与很多光影包都有兼容性问题。",
+    "vi": null
+  },
+  "options.iris.apply": {
+    "en": "Apply",
+    "zh": "应用",
+    "vi": null
+  },
+  "options.iris.refresh": {
+    "en": "Refresh",
+    "zh": "刷新",
+    "vi": null
+  },
+  "options.iris.openShaderPackFolder": {
+    "en": "Open Shader Pack Folder...",
+    "zh": "打开光影包文件夹…",
+    "vi": null
+  },
+  "options.iris.shaderPackSettings": {
+    "en": "Shader Pack Settings...",
+    "zh": "光影包设置…",
+    "vi": null
+  },
+  "options.iris.shaderPackList": {
+    "en": "Shader Pack List...",
+    "zh": "光影包列表…",
+    "vi": null
+  },
+  "options.iris.refreshShaderPacks": {
+    "en": "Refresh Shader Packs",
+    "zh": "刷新光影包",
+    "vi": null
+  },
+  "options.iris.shaderPackSelection": {
+    "en": "Shader Packs...",
+    "zh": "光影包…",
+    "vi": null
+  },
+  "options.iris.shaderPackSelection.title": {
+    "en": "Shader Packs",
+    "zh": "光影包",
+    "vi": null
+  },
+  "options.iris.shaderPackSelection.addedPack": {
+    "en": "Added Shader Pack \"%s\"",
+    "zh": "已添加光影包“%s”",
+    "vi": null
+  },
+  "options.iris.shaderPackSelection.addedPacks": {
+    "en": "Added %s Shader Packs",
+    "zh": "已添加 %s 个光影包",
+    "vi": null
+  },
+  "options.iris.shaderPackSelection.failedAdd": {
+    "en": "Files were not valid Shader Packs",
+    "zh": "文件不是有效的光影包",
+    "vi": null
+  },
+  "options.iris.shaderPackSelection.failedAddSingle": {
+    "en": "\"%s\" is not a valid Shader Pack",
+    "zh": "“%s”不是有效的光影包",
+    "vi": null
+  },
+  "options.iris.shaderPackSelection.copyError": {
+    "en": "Could not add Shader Pack \"%s\"",
+    "zh": "无法添加光影包“%s”",
+    "vi": null
+  },
+  "options.iris.shaderPackSelection.copyErrorAlreadyExists": {
+    "en": "\"%s\" is already in your Shader Packs folder!",
+    "zh": "“%s”已存在于光影包文件夹中！",
+    "vi": null
+  },
+  "options.iris.shaderPackOptions.tooManyFiles": {
+    "en": "Cannot import multiple Shader Settings files!",
+    "zh": "无法导入多个光影设置文件！",
+    "vi": null
+  },
+  "options.iris.shaderPackOptions.failedImport": {
+    "en": "Failed to import Shader Settings file \"%s\"",
+    "zh": "导入光影设置文件“%s”失败",
+    "vi": null
+  },
+  "options.iris.shaderPackOptions.importedSettings": {
+    "en": "Imported Shader Settings from \"%s\"",
+    "zh": "已从“%s”导入光影设置",
+    "vi": null
+  },
+  "options.iris.shaders.disabled": {
+    "en": "Shaders: Disabled",
+    "zh": "光影：已禁用",
+    "vi": null
+  },
+  "options.iris.shaders.enabled": {
+    "en": "Shaders: Enabled",
+    "zh": "光影：已启用",
+    "vi": null
+  },
+  "options.iris.shaders.nonePresent": {
+    "en": "Shaders: No Packs Present",
+    "zh": "光影：无光影包",
+    "vi": null
+  },
+  "options.iris.back": {
+    "en": "Back",
+    "zh": "返回",
+    "vi": null
+  },
+  "options.iris.reset": {
+    "en": "Reset",
+    "zh": "重置",
+    "vi": null
+  },
+  "options.iris.reset.tooltip": {
+    "en": "Reset ALL options and apply?",
+    "zh": "重置所有选项并应用？",
+    "vi": null
+  },
+  "options.iris.reset.tooltip.holdShift": {
+    "en": "Hold SHIFT and click to reset",
+    "zh": "按住 SHIFT 点击以重置",
+    "vi": null
+  },
+  "options.iris.importSettings.tooltip": {
+    "en": "Import settings from file",
+    "zh": "从文件导入设置",
+    "vi": null
+  },
+  "options.iris.exportSettings.tooltip": {
+    "en": "Export applied settings to file",
+    "zh": "将应用的设置导出至文件",
+    "vi": null
+  },
+  "options.iris.mustDisableFullscreen": {
+    "en": "Please disable fullscreen first!",
+    "zh": "请先禁用全屏！",
+    "vi": null
+  },
+  "options.iris.setToDefault": {
+    "en": "Set option to default value?",
+    "zh": "把选项设为默认值？",
+    "vi": null
+  },
+  "options.iris.profile": {
+    "en": "Profile",
+    "zh": "配置文件",
+    "vi": null
+  },
+  "options.iris.profile.custom": {
+    "en": "Custom",
+    "zh": "自定义",
+    "vi": null
+  },
+  "options.iris.shadowDistance": {
+    "en": "Max Shadow Distance",
+    "zh": "最大阴影距离",
+    "vi": null
+  },
+  "options.iris.shadowDistance.enabled": {
+    "en": "Allows you to change the maximum distance for shadows. Terrain and entities beyond this distance will not cast shadows. Lowering the shadow distance can significantly increase performance.",
+    "zh": "允许更改阴影的最远距离。超出此距离的地形和实体不会投射阴影。降低阴影距离可以显著提高性能。",
+    "vi": null
+  },
+  "options.iris.shadowDistance.disabled": {
+    "en": "Your current shader pack has already set a render distance for shadows; you cannot change it.",
+    "zh": "你不能改变当前的光影包已经为阴影设置的渲染距离。",
+    "vi": null
+  },
+  "options.iris.shadowDistance.sodium_tooltip": {
+    "en": "The shadow render distance controls how far away terrain can potentially be rendered in the shadow pass. Lower distances mean that less terrain will be rendered, improving frame rates. This option cannot be changed on packs which explicitly specify a shadow render distance. The actual shadow render distance is capped by the View Distance setting.",
+    "zh": "阴影渲染距离控制在阴影通道中可以渲染到多远的地形。更短的距离意味着将渲染更少的地形，从而提高帧率。在明确指定了阴影渲染距离的光影包上无法更改此选项。实际阴影渲染的距离受“渲染距离”设置的限制。",
+    "vi": null
+  },
+  "options.iris.colorSpace": {
+    "en": "Color Space",
+    "zh": null,
+    "vi": null
+  },
+  "options.iris.colorSpace.sodium_tooltip": {
+    "en": "The color space to transform the screen to. Works on top of shader packs. Use SRGB if unsure.",
+    "zh": null,
+    "vi": null
+  },
+  "options.iris.gui.hide": {
+    "en": "Hide GUI",
+    "zh": "隐藏 GUI",
+    "vi": null
+  },
+  "options.iris.gui.show": {
+    "en": "Show GUI",
+    "zh": "显示 GUI",
+    "vi": null
+  },
+  "pack.iris.select.title": {
+    "en": "Select",
+    "zh": "选择",
+    "vi": null
+  },
+  "pack.iris.configure.title": {
+    "en": "Configure",
+    "zh": "配置",
+    "vi": null
+  },
+  "pack.iris.list.label": {
+    "en": "+ Drag and Drop Shader Packs to add",
+    "zh": "+ 拖放光影包至此以添加",
+    "vi": null
+  },
+  "label.iris.true": {
+    "en": "On",
+    "zh": "开",
+    "vi": null
+  },
+  "label.iris.false": {
+    "en": "Off",
+    "zh": "关",
+    "vi": null
+  }
+}

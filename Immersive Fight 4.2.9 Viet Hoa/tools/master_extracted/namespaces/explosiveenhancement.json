@@ -1,0 +1,312 @@
+{
+  "explosiveenhancement.title": {
+    "en": "Explosive Enhancement Config",
+    "zh": null,
+    "vi": null
+  },
+  "explosiveenhancement.category.default": {
+    "en": "Particles",
+    "zh": null,
+    "vi": null
+  },
+  "explosiveenhancement.explosion.group": {
+    "en": "Explosions",
+    "zh": null,
+    "vi": null
+  },
+  "explosiveenhancement.explosion.group.tooltip": {
+    "en": "Explosion particle options",
+    "zh": null,
+    "vi": null
+  },
+  "explosiveenhancement.blastwave.enabled": {
+    "en": "Blast Wave Particle",
+    "zh": null,
+    "vi": null
+  },
+  "explosiveenhancement.blastwave.enabled.tooltip": {
+    "en": "A large orange, horizontal circle that lies flat on the ground",
+    "zh": null,
+    "vi": null
+  },
+  "explosiveenhancement.fireball.enabled": {
+    "en": "Fireball Particle",
+    "zh": null,
+    "vi": null
+  },
+  "explosiveenhancement.fireball.enabled.tooltip": {
+    "en": "A large orange, vertical circle",
+    "zh": null,
+    "vi": null
+  },
+  "explosiveenhancement.mushroomcloud.enabled": {
+    "en": "Mushroom Cloud Particles",
+    "zh": null,
+    "vi": null
+  },
+  "explosiveenhancement.mushroomcloud.enabled.tooltip": {
+    "en": "Smoke that is in the shape of a mushroom",
+    "zh": null,
+    "vi": null
+  },
+  "explosiveenhancement.sparks.enabled": {
+    "en": "Sparks Particle",
+    "zh": null,
+    "vi": null
+  },
+  "explosiveenhancement.sparks.enabled.tooltip": {
+    "en": "Dramatic white lines that come as a result of the explosion",
+    "zh": null,
+    "vi": null
+  },
+  "explosiveenhancement.sparks.size": {
+    "en": "Sparks Size",
+    "zh": null,
+    "vi": null
+  },
+  "explosiveenhancement.sparks.size.tooltip": {
+    "en": "Controls the size of the sparks particle",
+    "zh": null,
+    "vi": null
+  },
+  "explosiveenhancement.sparks.opacity": {
+    "en": "Sparks Opacity",
+    "zh": null,
+    "vi": null
+  },
+  "explosiveenhancement.sparks.opacity.tooltip": {
+    "en": "Controls the opacity of the sparks particle",
+    "zh": null,
+    "vi": null
+  },
+  "explosiveenhancement.default.enabled": {
+    "en": "Default Explosion Particles",
+    "zh": null,
+    "vi": null
+  },
+  "explosiveenhancement.default.enabled.tooltip": {
+    "en": "The vanilla Minecraft explosion particles",
+    "zh": null,
+    "vi": null
+  },
+  "explosiveenhancement.underwater.group": {
+    "en": "Underwater Explosions",
+    "zh": null,
+    "vi": null
+  },
+  "explosiveenhancement.underwater.group.tooltip": {
+    "en": "Underwater explosion options",
+    "zh": null,
+    "vi": null
+  },
+  "explosiveenhancement.underwater.enabled": {
+    "en": "Underwater Explosions",
+    "zh": null,
+    "vi": null
+  },
+  "explosiveenhancement.underwater.enabled.tooltip": {
+    "en": "Should there be a special effect for underwater explosions? If disabled, the explosion will look identical to the explosion settings set above this option. If enabled, the explosion will use the options beneath this option, so long as the option is in the underwater explosions group",
+    "zh": null,
+    "vi": null
+  },
+  "explosiveenhancement.underwater.shockwave": {
+    "en": "Shockwave Particle",
+    "zh": null,
+    "vi": null
+  },
+  "explosiveenhancement.underwater.shockwave.tooltip": {
+    "en": "A vertical circle with a hint of blue, similar to the fireball particle",
+    "zh": null,
+    "vi": null
+  },
+  "explosiveenhancement.underwater.blast": {
+    "en": "Underwater Blast Wave Particle",
+    "zh": null,
+    "vi": null
+  },
+  "explosiveenhancement.underwater.blast.tooltip": {
+    "en": "A large blue-ish horizontal circle, similar to the blastwave particle",
+    "zh": null,
+    "vi": null
+  },
+  "explosiveenhancement.underwater.bubbleamount": {
+    "en": "Bubble Amount",
+    "zh": null,
+    "vi": null
+  },
+  "explosiveenhancement.underwater.bubbleamount.tooltip": {
+    "en": "Little bubbles that pop after some time",
+    "zh": null,
+    "vi": null
+  },
+  "explosiveenhancement.underwater.bubbleamount.warningtooltip": {
+    "en": "§cWarning§r: Too many bubbles may cause lag!",
+    "zh": null,
+    "vi": null
+  },
+  "explosiveenhancement.underwater.sparks": {
+    "en": "Sparks Particle",
+    "zh": null,
+    "vi": null
+  },
+  "explosiveenhancement.underwater.sparks.tooltip": {
+    "en": "Dramatic white lines that come as a result of the explosion",
+    "zh": null,
+    "vi": null
+  },
+  "explosiveenhancement.underwater.sparks.size": {
+    "en": "Sparks Size",
+    "zh": null,
+    "vi": null
+  },
+  "explosiveenhancement.underwater.sparks.size.tooltip": {
+    "en": "Controls the size of the sparks particle",
+    "zh": null,
+    "vi": null
+  },
+  "explosiveenhancement.underwater.sparks.opacity": {
+    "en": "Sparks Opacity",
+    "zh": null,
+    "vi": null
+  },
+  "explosiveenhancement.underwater.sparks.opacity.tooltip": {
+    "en": "Controls the opacity of the sparks particle",
+    "zh": null,
+    "vi": null
+  },
+  "explosiveenhancement.underwater.default": {
+    "en": "Default Explosion Particles",
+    "zh": null,
+    "vi": null
+  },
+  "explosiveenhancement.underwater.default.tooltip": {
+    "en": "The vanilla Minecraft explosion particles",
+    "zh": null,
+    "vi": null
+  },
+  "explosiveenhancement.category.dynamic": {
+    "en": "Sizing",
+    "zh": null,
+    "vi": null
+  },
+  "explosiveenhancement.dynamic.group": {
+    "en": "Dynamic Explosions",
+    "zh": null,
+    "vi": null
+  },
+  "explosiveenhancement.dynamic.group.tooltip": {
+    "en": "Dynamic explosion sizing options",
+    "zh": null,
+    "vi": null
+  },
+  "explosiveenhancement.dynamicexplosions.enabled": {
+    "en": "Dynamic Explosion Sizing",
+    "zh": null,
+    "vi": null
+  },
+  "explosiveenhancement.dynamicexplosions.enabled.tooltip": {
+    "en": "Change the size of an explosion depending on its power",
+    "zh": null,
+    "vi": null
+  },
+  "explosiveenhancement.dynamicunderwater.enabled": {
+    "en": "Dynamic Underwater Explosion Sizing",
+    "zh": null,
+    "vi": null
+  },
+  "explosiveenhancement.dynamicunderwater.enabled.tooltip": {
+    "en": "Change the size of an underwater explosion depending on its power",
+    "zh": null,
+    "vi": null
+  },
+  "explosiveenhancement.bettersmallexplosions.enabled": {
+    "en": "Attempt Better Small Explosions",
+    "zh": null,
+    "vi": null
+  },
+  "explosiveenhancement.bettersmallexplosions.enabled.tooltip": {
+    "en": "If an explosion's power is equal to 1(wither skull, ghast fireball), the explosion's y coordinate will be lowered by a small amount for a sometimes better looking effect",
+    "zh": null,
+    "vi": null
+  },
+  "explosiveenhancement.yoffset": {
+    "en": "Small Explosions Y Offset",
+    "zh": null,
+    "vi": null
+  },
+  "explosiveenhancement.yoffset.tooltip": {
+    "en": "The y offset for small explosions",
+    "zh": null,
+    "vi": null
+  },
+  "explosiveenhancement.category.extras": {
+    "en": "Extras",
+    "zh": null,
+    "vi": null
+  },
+  "explosiveenhancement.extras.group": {
+    "en": "Extras",
+    "zh": null,
+    "vi": null
+  },
+  "explosiveenhancement.extras.group.tooltip": {
+    "en": "Extra options",
+    "zh": null,
+    "vi": null
+  },
+  "explosiveenhancement.extras.enabled": {
+    "en": "Mod Enabled",
+    "zh": null,
+    "vi": null
+  },
+  "explosiveenhancement.extras.enabled.tooltip": {
+    "en": "Should the mod be enabled?",
+    "zh": null,
+    "vi": null
+  },
+  "explosiveenhancement.extras.emissive": {
+    "en": "Emissive Explosions",
+    "zh": null,
+    "vi": null
+  },
+  "explosiveenhancement.extras.emissive.tooltip": {
+    "en": "Should the normal explosions be emissive?",
+    "zh": null,
+    "vi": null
+  },
+  "explosiveenhancement.extras.emissivewater": {
+    "en": "Emissive Underwater Explosions",
+    "zh": null,
+    "vi": null
+  },
+  "explosiveenhancement.extras.emissivewater.tooltip": {
+    "en": "Should the underwater explosions be emissive?",
+    "zh": null,
+    "vi": null
+  },
+  "explosiveenhancement.extras.alwaysshow": {
+    "en": "Always Show Particles",
+    "zh": null,
+    "vi": null
+  },
+  "explosiveenhancement.extras.alwaysshow.tooltip": {
+    "en": "If enabled, the explosion particles will attempt to render from further away(roughly twice as far) AND on lower particle settings. Use wisely!",
+    "zh": null,
+    "vi": null
+  },
+  "explosiveenhancement.extras.logs": {
+    "en": "Debug Logs",
+    "zh": null,
+    "vi": null
+  },
+  "explosiveenhancement.extras.logs.tooltip": {
+    "en": "Extra console logs to help debug, if needed",
+    "zh": null,
+    "vi": null
+  },
+  "explosiveenhancement.extras.logs.warningtooltip": {
+    "en": "§cWarning§r: Will spam logs!",
+    "zh": null,
+    "vi": null
+  }
+}

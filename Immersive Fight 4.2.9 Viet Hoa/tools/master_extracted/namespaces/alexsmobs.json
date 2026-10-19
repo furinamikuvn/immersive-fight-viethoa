@@ -1,0 +1,5437 @@
+{
+  "itemGroup.alexsmobs": {
+    "en": "Alex's Mobs",
+    "zh": "Alex 的生物",
+    "vi": "Tiểu sử của Alex"
+  },
+  "item.alexsmobs.spawn_egg_grizzly_bear": {
+    "en": "Grizzly Bear Spawn Egg",
+    "zh": "灰熊刷怪蛋",
+    "vi": "Grizzly Bear Spawn Egg"
+  },
+  "item.alexsmobs.spawn_egg_roadrunner": {
+    "en": "Roadrunner Spawn Egg",
+    "zh": "走鹃刷怪蛋",
+    "vi": "Roadrunner Spawn Egg"
+  },
+  "item.alexsmobs.spawn_egg_bone_serpent": {
+    "en": "Bone Serpent Spawn Egg",
+    "zh": "骨蟒刷怪蛋",
+    "vi": "Bone Serpent Spawn Egg"
+  },
+  "item.alexsmobs.spawn_egg_gazelle": {
+    "en": "Gazelle Spawn Egg",
+    "zh": "瞪羚刷怪蛋",
+    "vi": "Gazelle Spawn Egg"
+  },
+  "item.alexsmobs.spawn_egg_crocodile": {
+    "en": "Crocodile Spawn Egg",
+    "zh": "鳄鱼刷怪蛋",
+    "vi": "Crocodile Spawn Egg"
+  },
+  "item.alexsmobs.spawn_egg_fly": {
+    "en": "Fly Spawn Egg",
+    "zh": "苍蝇刷怪蛋",
+    "vi": "Fly Spawn Egg"
+  },
+  "item.alexsmobs.spawn_egg_hummingbird": {
+    "en": "Hummingbird Spawn Egg",
+    "zh": "蜂鸟刷怪蛋",
+    "vi": "Hummingbird Spawn Egg"
+  },
+  "item.alexsmobs.spawn_egg_orca": {
+    "en": "Orca Spawn Egg",
+    "zh": "虎鲸刷怪蛋",
+    "vi": "Orca Spawn Egg"
+  },
+  "item.alexsmobs.spawn_egg_sunbird": {
+    "en": "Sunbird Spawn Egg",
+    "zh": "曦鹤刷怪蛋",
+    "vi": "Sunbird Spawn Egg"
+  },
+  "item.alexsmobs.spawn_egg_gorilla": {
+    "en": "Gorilla Spawn Egg",
+    "zh": "大猩猩刷怪蛋",
+    "vi": "Gorilla Spawn Egg"
+  },
+  "item.alexsmobs.spawn_egg_crimson_mosquito": {
+    "en": "Crimson Mosquito Spawn Egg",
+    "zh": "绯红蚊子刷怪蛋",
+    "vi": "Crimson Mosquito Spawn Egg"
+  },
+  "item.alexsmobs.spawn_egg_rattlesnake": {
+    "en": "Rattlesnake Spawn Egg",
+    "zh": "响尾蛇刷怪蛋",
+    "vi": "Rattlesnake Spawn Egg"
+  },
+  "item.alexsmobs.spawn_egg_endergrade": {
+    "en": "Endergrade Spawn Egg",
+    "zh": "末影缓步兽刷怪蛋",
+    "vi": "Endergrade Spawn Egg"
+  },
+  "item.alexsmobs.spawn_egg_hammerhead_shark": {
+    "en": "Hammerhead Shark Spawn Egg",
+    "zh": "锤头鲨刷怪蛋",
+    "vi": "Hammerhead Shark Spawn Egg"
+  },
+  "item.alexsmobs.spawn_egg_lobster": {
+    "en": "Lobster Spawn Egg",
+    "zh": "龙虾刷怪蛋",
+    "vi": "Lobster Spawn Egg"
+  },
+  "item.alexsmobs.spawn_egg_komodo_dragon": {
+    "en": "Komodo Dragon Spawn Egg",
+    "zh": "科莫多巨蜥刷怪蛋",
+    "vi": "Komodo Dragon Spawn Egg"
+  },
+  "item.alexsmobs.spawn_egg_capuchin_monkey": {
+    "en": "Capuchin Monkey Spawn Egg",
+    "zh": "卷尾猴刷怪蛋",
+    "vi": "Capuchin Monkey Spawn Egg"
+  },
+  "item.alexsmobs.spawn_egg_centipede": {
+    "en": "Cave Centipede Spawn Egg",
+    "zh": "洞穴蜈蚣刷怪蛋",
+    "vi": "Cave Centipede Spawn Egg"
+  },
+  "item.alexsmobs.spawn_egg_warped_toad": {
+    "en": "Warped Toad Spawn Egg",
+    "zh": "诡异蟾蜍刷怪蛋",
+    "vi": "Warped Toad Spawn Egg"
+  },
+  "item.alexsmobs.spawn_egg_moose": {
+    "en": "Moose Spawn Egg",
+    "zh": "驼鹿刷怪蛋",
+    "vi": "Moose Spawn Egg"
+  },
+  "item.alexsmobs.spawn_egg_mimicube": {
+    "en": "Mimicube Spawn Egg",
+    "zh": "复刻怪刷怪蛋",
+    "vi": "Mimicube Spawn Egg"
+  },
+  "item.alexsmobs.spawn_egg_raccoon": {
+    "en": "Raccoon Spawn Egg",
+    "zh": "浣熊刷怪蛋",
+    "vi": "Raccoon Spawn Egg"
+  },
+  "item.alexsmobs.spawn_egg_blobfish": {
+    "en": "Blobfish Spawn Egg",
+    "zh": "水滴鱼刷怪蛋",
+    "vi": "Blobfish Spawn Egg"
+  },
+  "item.alexsmobs.spawn_egg_seal": {
+    "en": "Seal Spawn Egg",
+    "zh": "海豹刷怪蛋",
+    "vi": "Seal Spawn Egg"
+  },
+  "item.alexsmobs.spawn_egg_cockroach": {
+    "en": "Cockroach Spawn Egg",
+    "zh": "蟑螂刷怪蛋",
+    "vi": "Cockroach Spawn Egg"
+  },
+  "item.alexsmobs.spawn_egg_shoebill": {
+    "en": "Shoebill Spawn Egg",
+    "zh": "鲸头鹳刷怪蛋",
+    "vi": "Shoebill Spawn Egg"
+  },
+  "item.alexsmobs.spawn_egg_elephant": {
+    "en": "Elephant Spawn Egg",
+    "zh": "大象刷怪蛋",
+    "vi": "Elephant Spawn Egg"
+  },
+  "item.alexsmobs.spawn_egg_soul_vulture": {
+    "en": "Soul Vulture Spawn Egg",
+    "zh": "灵魂鹫刷怪蛋",
+    "vi": "Soul Vulture Spawn Egg"
+  },
+  "item.alexsmobs.spawn_egg_snow_leopard": {
+    "en": "Snow Leopard Spawn Egg",
+    "zh": "雪豹刷怪蛋",
+    "vi": "Snow Leopard Spawn Egg"
+  },
+  "item.alexsmobs.spawn_egg_spectre": {
+    "en": "Spectre Spawn Egg",
+    "zh": "灵翼刷怪蛋",
+    "vi": "Spectre Spawn Egg"
+  },
+  "item.alexsmobs.spawn_egg_crow": {
+    "en": "Crow Spawn Egg",
+    "zh": "乌鸦刷怪蛋",
+    "vi": "Crow Spawn Egg"
+  },
+  "item.alexsmobs.spawn_egg_alligator_snapping_turtle": {
+    "en": "Alligator Snapping Turtle Spawn Egg",
+    "zh": "大鳄龟刷怪蛋",
+    "vi": "Alligator Snapping Turtle Spawn Egg"
+  },
+  "item.alexsmobs.spawn_egg_mungus": {
+    "en": "Mungus Spawn Egg",
+    "zh": "蘑菇君刷怪蛋",
+    "vi": "Mungus Spawn Egg"
+  },
+  "item.alexsmobs.spawn_egg_mantis_shrimp": {
+    "en": "Mantis Shrimp Spawn Egg",
+    "zh": "螳螂虾刷怪蛋",
+    "vi": "Mantis Shrimp Spawn Egg"
+  },
+  "item.alexsmobs.spawn_egg_guster": {
+    "en": "Guster Spawn Egg",
+    "zh": "沙风怪刷怪蛋",
+    "vi": "Guster Spawn Egg"
+  },
+  "item.alexsmobs.spawn_egg_warped_mosco": {
+    "en": "Warped Mosco Spawn Egg",
+    "zh": "诡异蚊鬼刷怪蛋",
+    "vi": "Warped Mosco Spawn Egg"
+  },
+  "item.alexsmobs.spawn_egg_straddler": {
+    "en": "Straddler Spawn Egg",
+    "zh": "跨座兽刷怪蛋",
+    "vi": "Straddler Spawn Egg"
+  },
+  "item.alexsmobs.spawn_egg_stradpole": {
+    "en": "Stradpole Spawn Egg",
+    "zh": "跨座蝌蚪刷怪蛋",
+    "vi": "Stradpole Spawn Egg"
+  },
+  "item.alexsmobs.spawn_egg_emu": {
+    "en": "Emu Spawn Egg",
+    "zh": "鸸鹋刷怪蛋",
+    "vi": "Emu Spawn Egg"
+  },
+  "item.alexsmobs.spawn_egg_platypus": {
+    "en": "Platypus Spawn Egg",
+    "zh": "鸭嘴兽刷怪蛋",
+    "vi": "Platypus Spawn Egg"
+  },
+  "item.alexsmobs.spawn_egg_dropbear": {
+    "en": "Dropbear Spawn Egg",
+    "zh": "悬熊刷怪蛋",
+    "vi": "Dropbear Spawn Egg"
+  },
+  "item.alexsmobs.spawn_egg_tasmanian_devil": {
+    "en": "Tasmanian Devil Spawn Egg",
+    "zh": "袋獾刷怪蛋",
+    "vi": "Tasmanian Devil Spawn Egg"
+  },
+  "item.alexsmobs.spawn_egg_kangaroo": {
+    "en": "Kangaroo Spawn Egg",
+    "zh": "袋鼠刷怪蛋",
+    "vi": "Kangaroo Spawn Egg"
+  },
+  "item.alexsmobs.spawn_egg_cachalot_whale": {
+    "en": "Cachalot Whale Spawn Egg",
+    "zh": "抹香鲸刷怪蛋",
+    "vi": "Cachalot Whale Spawn Egg"
+  },
+  "item.alexsmobs.spawn_egg_leafcutter_ant": {
+    "en": "Leafcutter Ant Spawn Egg",
+    "zh": "切叶蚁刷怪蛋",
+    "vi": "Leafcutter Ant Spawn Egg"
+  },
+  "item.alexsmobs.spawn_egg_enderiophage": {
+    "en": "Enderiophage Spawn Egg",
+    "zh": "末影噬菌体刷怪蛋",
+    "vi": "Enderiophage Spawn Egg"
+  },
+  "item.alexsmobs.spawn_egg_bald_eagle": {
+    "en": "Bald Eagle Spawn Egg",
+    "zh": "白头海雕刷怪蛋",
+    "vi": "Bald Eagle Spawn Egg"
+  },
+  "item.alexsmobs.spawn_egg_tiger": {
+    "en": "Tiger Spawn Egg",
+    "zh": "老虎刷怪蛋",
+    "vi": "Tiger Spawn Egg"
+  },
+  "item.alexsmobs.spawn_egg_tarantula_hawk": {
+    "en": "Tarantula Hawk Spawn Egg",
+    "zh": "沙漠蛛蜂刷怪蛋",
+    "vi": "Tarantula Hawk Spawn Egg"
+  },
+  "item.alexsmobs.spawn_egg_void_worm": {
+    "en": "Void Worm Spawn Egg",
+    "zh": "虚空蠕虫刷怪蛋",
+    "vi": "Void Worm Spawn Egg"
+  },
+  "item.alexsmobs.spawn_egg_frilled_shark": {
+    "en": "Frilled Shark Spawn Egg",
+    "zh": "皱鳃鲨刷怪蛋",
+    "vi": "Frilled Shark Spawn Egg"
+  },
+  "item.alexsmobs.spawn_egg_mimic_octopus": {
+    "en": "Mimic Octopus Spawn Egg",
+    "zh": "拟态章鱼刷怪蛋",
+    "vi": "Mimic Octopus Spawn Egg"
+  },
+  "item.alexsmobs.spawn_egg_seagull": {
+    "en": "Seagull Spawn Egg",
+    "zh": "海鸥刷怪蛋",
+    "vi": "Seagull Spawn Egg"
+  },
+  "item.alexsmobs.spawn_egg_froststalker": {
+    "en": "Froststalker Spawn Egg",
+    "zh": "寒霜潜伏者刷怪蛋",
+    "vi": "Froststalker Spawn Egg"
+  },
+  "item.alexsmobs.spawn_egg_tusklin": {
+    "en": "Tusklin Spawn Egg",
+    "zh": "獠牙兽刷怪蛋",
+    "vi": "Tusklin Spawn Egg"
+  },
+  "item.alexsmobs.spawn_egg_laviathan": {
+    "en": "Laviathan Spawn Egg",
+    "zh": "炽岩刷怪蛋",
+    "vi": "Laviathan Spawn Egg"
+  },
+  "item.alexsmobs.spawn_egg_cosmaw": {
+    "en": "Cosmaw Spawn Egg",
+    "zh": "宙游鲟刷怪蛋",
+    "vi": "Cosmaw Spawn Egg"
+  },
+  "item.alexsmobs.spawn_egg_toucan": {
+    "en": "Toucan Spawn Egg",
+    "zh": "巨嘴鸟刷怪蛋",
+    "vi": "Toucan Spawn Egg"
+  },
+  "item.alexsmobs.spawn_egg_maned_wolf": {
+    "en": "Maned Wolf Spawn Egg",
+    "zh": "鬃狼刷怪蛋",
+    "vi": "Maned Wolf Spawn Egg"
+  },
+  "item.alexsmobs.spawn_egg_anaconda": {
+    "en": "Anaconda Spawn Egg",
+    "zh": "森蚺刷怪蛋",
+    "vi": "Anaconda Spawn Egg"
+  },
+  "item.alexsmobs.spawn_egg_anteater": {
+    "en": "Anteater Spawn Egg",
+    "zh": "食蚁兽刷怪蛋",
+    "vi": "Anteater Spawn Egg"
+  },
+  "item.alexsmobs.spawn_egg_rocky_roller": {
+    "en": "Rocky Roller Spawn Egg",
+    "zh": "岩磙兽刷怪蛋",
+    "vi": "Rocky Roller Spawn Egg"
+  },
+  "item.alexsmobs.spawn_egg_flutter": {
+    "en": "Flutter Spawn Egg",
+    "zh": "花飘飘刷怪蛋",
+    "vi": "Flutter Spawn Egg"
+  },
+  "item.alexsmobs.spawn_egg_gelada_monkey": {
+    "en": "Gelada Monkey Spawn Egg",
+    "zh": "狮尾狒狒刷怪蛋",
+    "vi": "Gelada Monkey Spawn Egg"
+  },
+  "item.alexsmobs.spawn_egg_jerboa": {
+    "en": "Jerboa Spawn Egg",
+    "zh": "跳鼠刷怪蛋",
+    "vi": "Jerboa Spawn Egg"
+  },
+  "item.alexsmobs.spawn_egg_terrapin": {
+    "en": "Terrapin Spawn Egg",
+    "zh": "水龟刷怪蛋",
+    "vi": "Terrapin Spawn Egg"
+  },
+  "item.alexsmobs.spawn_egg_comb_jelly": {
+    "en": "Comb Jelly Spawn Egg",
+    "zh": "栉水母刷怪蛋",
+    "vi": "Comb Jelly Spawn Egg"
+  },
+  "item.alexsmobs.spawn_egg_cosmic_cod": {
+    "en": "Cosmic Cod Spawn Egg",
+    "zh": "宇宙鳕鱼刷怪蛋",
+    "vi": "Cosmic Cod Spawn Egg"
+  },
+  "item.alexsmobs.spawn_egg_bunfungus": {
+    "en": "Bunfungus Spawn Egg",
+    "zh": "蘑菇兔刷怪蛋",
+    "vi": "Bunfungus Spawn Egg"
+  },
+  "item.alexsmobs.spawn_egg_bison": {
+    "en": "Bison Spawn Egg",
+    "zh": "野牛刷怪蛋",
+    "vi": "Bison Spawn Egg"
+  },
+  "item.alexsmobs.spawn_egg_giant_squid": {
+    "en": "Giant Squid Spawn Egg",
+    "zh": "大王乌贼刷怪蛋",
+    "vi": "Giant Squid Spawn Egg"
+  },
+  "item.alexsmobs.spawn_egg_devils_hole_pupfish": {
+    "en": "Devil's Hole Pupfish Spawn Egg",
+    "zh": "魔鳉刷怪蛋",
+    "vi": "Devil's Hole Pupfish Spawn Egg"
+  },
+  "item.alexsmobs.spawn_egg_catfish": {
+    "en": "Catfish Spawn Egg",
+    "zh": "鲶鱼刷怪蛋",
+    "vi": "Catfish Spawn Egg"
+  },
+  "item.alexsmobs.spawn_egg_flying_fish": {
+    "en": "Flying Fish Spawn Egg",
+    "zh": "飞鱼刷怪蛋",
+    "vi": "Flying Fish Spawn Egg"
+  },
+  "item.alexsmobs.spawn_egg_skelewag": {
+    "en": "Skelewag Spawn Egg",
+    "zh": "骷髅剑鱼刷怪蛋",
+    "vi": "Skelewag Spawn Egg"
+  },
+  "item.alexsmobs.spawn_egg_rain_frog": {
+    "en": "Rain Frog Spawn Egg",
+    "zh": "雨蛙刷怪蛋",
+    "vi": "Rain Frog Spawn Egg"
+  },
+  "item.alexsmobs.spawn_egg_potoo": {
+    "en": "Potoo Spawn Egg",
+    "zh": "林鸱刷怪蛋",
+    "vi": "Potoo Spawn Egg"
+  },
+  "item.alexsmobs.spawn_egg_mudskipper": {
+    "en": "Mudskipper Spawn Egg",
+    "zh": "弹涂鱼刷怪蛋",
+    "vi": "Mudskipper Spawn Egg"
+  },
+  "item.alexsmobs.spawn_egg_rhinoceros": {
+    "en": "Rhinoceros Spawn Egg",
+    "zh": "犀牛刷怪蛋",
+    "vi": "Rhinoceros Spawn Egg"
+  },
+  "item.alexsmobs.spawn_egg_sugar_glider": {
+    "en": "Sugar Glider Spawn Egg",
+    "zh": "蜜袋鼯刷怪蛋",
+    "vi": "Sugar Glider Spawn Egg"
+  },
+  "item.alexsmobs.spawn_egg_farseer": {
+    "en": "Farseer Spawn Egg",
+    "zh": "瞻远者刷怪蛋",
+    "vi": "Farseer Spawn Egg"
+  },
+  "item.alexsmobs.spawn_egg_skreecher": {
+    "en": "Skreecher Spawn Egg",
+    "zh": "贱叫怪刷怪蛋",
+    "vi": "Skreecher Spawn Egg"
+  },
+  "item.alexsmobs.spawn_egg_underminer": {
+    "en": "Underminer Spawn Egg",
+    "zh": "地底矿工刷怪蛋",
+    "vi": "Underminer Spawn Egg"
+  },
+  "item.alexsmobs.spawn_egg_murmur": {
+    "en": "Murmur Spawn Egg",
+    "zh": "轻语灵刷怪蛋",
+    "vi": "Murmur Spawn Egg"
+  },
+  "item.alexsmobs.spawn_egg_skunk": {
+    "en": "Skunk Spawn Egg",
+    "zh": "臭鼬刷怪蛋",
+    "vi": "Skunk Spawn Egg"
+  },
+  "item.alexsmobs.spawn_egg_banana_slug": {
+    "en": "Banana Slug Spawn Egg",
+    "zh": "香蕉蛞蝓刷怪蛋",
+    "vi": "Banana Slug Spawn Egg"
+  },
+  "item.alexsmobs.spawn_egg_blue_jay": {
+    "en": "Blue Jay Spawn Egg",
+    "zh": "冠蓝鸦刷怪蛋",
+    "vi": "Blue Jay Spawn Egg"
+  },
+  "item.alexsmobs.spawn_egg_caiman": {
+    "en": "Caiman Spawn Egg",
+    "zh": "凯门鳄刷怪蛋",
+    "vi": "Caiman Spawn Egg"
+  },
+  "item.alexsmobs.spawn_egg_triops": {
+    "en": "Triops Spawn Egg",
+    "zh": "鲎虫刷怪蛋",
+    "vi": "Triops Spawn Egg"
+  },
+  "item.alexsmobs.tab_icon": {
+    "en": "Alex's Mobs",
+    "zh": "Alex 的生物",
+    "vi": "Alex's Mobs"
+  },
+  "item.alexsmobs.animal_dictionary": {
+    "en": "Animal Dictionary",
+    "zh": "动物图鉴",
+    "vi": "Animal Dictionary"
+  },
+  "item.alexsmobs.animal_dictionary.desc": {
+    "en": "By Professor Alex Khaan",
+    "zh": "Alex Khaan 教授 著",
+    "vi": "Bởi Giáo sư Alex Khaan"
+  },
+  "item.alexsmobs.bear_fur": {
+    "en": "Hair of Bear",
+    "zh": "灰熊毛皮",
+    "vi": "Hair of Bear"
+  },
+  "item.alexsmobs.bear_dust": {
+    "en": "Bear Dust",
+    "zh": "熊尘",
+    "vi": "Bear Dust"
+  },
+  "item.alexsmobs.roadrunner_feather": {
+    "en": "Roadrunner Feather",
+    "zh": "走鹃羽毛",
+    "vi": "Roadrunner Feather"
+  },
+  "item.alexsmobs.roadrunner_boots": {
+    "en": "Roadrunner Boots",
+    "zh": "走鹃靴子",
+    "vi": "Roadrunner Boots"
+  },
+  "item.alexsmobs.roadrunner_boots.desc": {
+    "en": "+0.1 Speed on Sand",
+    "zh": "+0.1 沙地移动速度",
+    "vi": "+0,1 tốc độ di chuyển của cát"
+  },
+  "item.alexsmobs.lava_bottle": {
+    "en": "Lava Bottle",
+    "zh": "熔岩瓶",
+    "vi": "Lava Bottle"
+  },
+  "item.alexsmobs.bone_serpent_tooth": {
+    "en": "Bone Serpent Tooth",
+    "zh": "骨蟒尖齿",
+    "vi": "Bone Serpent Tooth"
+  },
+  "item.alexsmobs.gazelle_horn": {
+    "en": "Gazelle Horn",
+    "zh": "瞪羚角",
+    "vi": "Gazelle Horn"
+  },
+  "item.alexsmobs.maggot": {
+    "en": "Maggot",
+    "zh": "蛆",
+    "vi": "Maggot"
+  },
+  "item.alexsmobs.halo": {
+    "en": "Halo",
+    "zh": "光环",
+    "vi": "Halo"
+  },
+  "item.alexsmobs.blood_sac": {
+    "en": "Blood Sac",
+    "zh": "血囊",
+    "vi": "Blood Sac"
+  },
+  "item.alexsmobs.mosquito_proboscis": {
+    "en": "Crimson Mosquito Proboscis",
+    "zh": "绯红蚊子口器",
+    "vi": "Crimson Mosquito Proboscis"
+  },
+  "item.alexsmobs.blood_sprayer": {
+    "en": "Blood Sprayer",
+    "zh": "血液喷射器",
+    "vi": "Blood Sprayer"
+  },
+  "item.alexsmobs.banana": {
+    "en": "Banana",
+    "zh": "香蕉",
+    "vi": "Banana"
+  },
+  "item.alexsmobs.ancient_dart": {
+    "en": "Ancient Dart",
+    "zh": "古代飞镖",
+    "vi": "Ancient Dart"
+  },
+  "item.alexsmobs.rattlesnake_rattle": {
+    "en": "Rattlesnake Rattle",
+    "zh": "响尾",
+    "vi": "Rattlesnake Rattle"
+  },
+  "item.alexsmobs.crocodile_scute": {
+    "en": "Crocodile Scute",
+    "zh": "鳄鱼鳞甲",
+    "vi": "Crocodile Scute"
+  },
+  "item.alexsmobs.crocodile_chestplate": {
+    "en": "Crocodile Chestplate",
+    "zh": "鳄鱼胸甲",
+    "vi": "Crocodile Chestplate"
+  },
+  "item.alexsmobs.chorus_on_a_stick": {
+    "en": "Chorus Fruit on a Stick",
+    "zh": "紫颂果钓竿",
+    "vi": "Chorus Fruit on a Stick"
+  },
+  "item.alexsmobs.shark_tooth": {
+    "en": "Shark Tooth",
+    "zh": "鲨鱼利齿",
+    "vi": "Shark Tooth"
+  },
+  "item.alexsmobs.shark_tooth_arrow": {
+    "en": "Shark Tooth Arrow",
+    "zh": "鲨鱼利齿箭",
+    "vi": "Shark Tooth Arrow"
+  },
+  "item.alexsmobs.lobster_tail": {
+    "en": "Lobster Tail",
+    "zh": "龙虾尾",
+    "vi": "Lobster Tail"
+  },
+  "item.alexsmobs.cooked_lobster_tail": {
+    "en": "Cooked Lobster Tail",
+    "zh": "烤龙虾尾",
+    "vi": "Cooked Lobster Tail"
+  },
+  "item.alexsmobs.lobster_bucket": {
+    "en": "Bucket of Lobster",
+    "zh": "龙虾桶",
+    "vi": "Bucket of Lobster"
+  },
+  "item.alexsmobs.komodo_spit": {
+    "en": "Komodo Dragon Spit",
+    "zh": "科莫多巨蜥唾液",
+    "vi": "Komodo Dragon Spit"
+  },
+  "item.alexsmobs.sopa_de_macaco": {
+    "en": "Sopa De Macaco",
+    "zh": "猴儿汤",
+    "vi": "Sopa De Macaco"
+  },
+  "item.alexsmobs.komodo_spit_bottle": {
+    "en": "Komodo Dragon Spit Bottle",
+    "zh": "科莫多巨蜥唾液瓶",
+    "vi": "Komodo Dragon Spit Bottle"
+  },
+  "item.alexsmobs.poison_bottle": {
+    "en": "Poisonous Essence",
+    "zh": "毒素精华",
+    "vi": "Poisonous Essence"
+  },
+  "item.alexsmobs.centipede_leg": {
+    "en": "Cave Centipede Leg",
+    "zh": "洞穴蜈蚣腿",
+    "vi": "Cave Centipede Leg"
+  },
+  "item.alexsmobs.centipede_leggings": {
+    "en": "Cave Centipede Leggings",
+    "zh": "洞穴蜈蚣护腿",
+    "vi": "Cave Centipede Leggings"
+  },
+  "item.alexsmobs.centipede_leggings.desc": {
+    "en": "Enables Wall Climbing",
+    "zh": "支持攀爬墙壁",
+    "vi": "Hỗ trợ leo tường"
+  },
+  "item.alexsmobs.mosquito_larva": {
+    "en": "Crimson Mosquito Larva",
+    "zh": "绯红孑孓",
+    "vi": "Crimson Mosquito Larva"
+  },
+  "item.alexsmobs.moose_antler": {
+    "en": "Moose Antler",
+    "zh": "驼鹿角",
+    "vi": "Moose Antler"
+  },
+  "item.alexsmobs.moose_headgear": {
+    "en": "Antler Headdress",
+    "zh": "鹿角头饰",
+    "vi": "Antler Headdress"
+  },
+  "item.alexsmobs.moose_ribs": {
+    "en": "Raw Moose Ribs",
+    "zh": "生驼鹿排",
+    "vi": "Raw Moose Ribs"
+  },
+  "item.alexsmobs.cooked_moose_ribs": {
+    "en": "Cooked Moose Ribs",
+    "zh": "熟驼鹿排",
+    "vi": "Cooked Moose Ribs"
+  },
+  "item.alexsmobs.mimicream": {
+    "en": "Mimicream",
+    "zh": "复刻凝胶",
+    "vi": "Mimicream"
+  },
+  "item.alexsmobs.raccoon_tail": {
+    "en": "Raccoon Tail",
+    "zh": "浣熊尾",
+    "vi": "Raccoon Tail"
+  },
+  "item.alexsmobs.frontier_cap": {
+    "en": "Frontiersman's Cap",
+    "zh": "拓荒者之帽",
+    "vi": "Frontiersman's Cap"
+  },
+  "item.alexsmobs.frontier_cap.desc": {
+    "en": "+0.1 Speed while Sneaking",
+    "zh": "+0.1 潜行移动速度",
+    "vi": "+0,1 tốc độ di chuyển tàng hình"
+  },
+  "item.alexsmobs.blobfish": {
+    "en": "Blobfish",
+    "zh": "水滴鱼",
+    "vi": "Blobfish"
+  },
+  "item.alexsmobs.blobfish_bucket": {
+    "en": "Bucket of Blobfish",
+    "zh": "水滴鱼桶",
+    "vi": "Bucket of Blobfish"
+  },
+  "item.alexsmobs.fish_oil": {
+    "en": "Fish Oil",
+    "zh": "鱼油",
+    "vi": "Fish Oil"
+  },
+  "item.alexsmobs.maraca": {
+    "en": "Maraca",
+    "zh": "沙槌",
+    "vi": "Maraca"
+  },
+  "item.alexsmobs.sombrero": {
+    "en": "Sombrero",
+    "zh": "阔边帽",
+    "vi": "Sombrero"
+  },
+  "item.alexsmobs.sombrero.special_desc": {
+    "en": "Worn in a Goofy Fashion",
+    "zh": "滑稽又时尚的穿着",
+    "vi": "Worn in a Goofy Fashion"
+  },
+  "item.alexsmobs.cockroach_wing_fragment": {
+    "en": "Cockroach Wing Fragment",
+    "zh": "蟑螂残翼",
+    "vi": "Cockroach Wing Fragment"
+  },
+  "item.alexsmobs.cockroach_wing": {
+    "en": "Cockroach Wing",
+    "zh": "蟑螂翼",
+    "vi": "Cockroach Wing"
+  },
+  "item.alexsmobs.cockroach_ootheca": {
+    "en": "Cockroach Ootheca",
+    "zh": "蟑螂卵",
+    "vi": "Cockroach Ootheca"
+  },
+  "item.alexsmobs.acacia_blossom": {
+    "en": "Acacia Blossom",
+    "zh": "金合欢花",
+    "vi": "Acacia Blossom"
+  },
+  "item.alexsmobs.soul_heart": {
+    "en": "Soul Heart",
+    "zh": "灵魂之心",
+    "vi": "Soul Heart"
+  },
+  "item.alexsmobs.spiked_scute": {
+    "en": "Spiked Scute",
+    "zh": "锥形鳞甲",
+    "vi": "Spiked Scute"
+  },
+  "item.alexsmobs.spiked_turtle_shell": {
+    "en": "Spiked Turtle Shell",
+    "zh": "大鳄龟壳",
+    "vi": "Spiked Turtle Shell"
+  },
+  "item.alexsmobs.shrimp_fried_rice": {
+    "en": "Shrimp-Fried Rice",
+    "zh": "虾炒饭",
+    "vi": "Shrimp-Fried Rice"
+  },
+  "item.alexsmobs.guster_eye": {
+    "en": "Guster Eye",
+    "zh": "沙风之眼",
+    "vi": "Guster Eye"
+  },
+  "item.alexsmobs.pocket_sand": {
+    "en": "Pocket of Sand",
+    "zh": "含沙射之袋",
+    "vi": "Pocket of Sand"
+  },
+  "item.alexsmobs.warped_muscle": {
+    "en": "Warped Muscle",
+    "zh": "诡异肌",
+    "vi": "Warped Muscle"
+  },
+  "item.alexsmobs.hemolymph_sac": {
+    "en": "Hemolymph Sac",
+    "zh": "血淋巴囊",
+    "vi": "Hemolymph Sac"
+  },
+  "item.alexsmobs.hemolymph_blaster": {
+    "en": "Hemolymph Blaster",
+    "zh": "血淋巴喷射器",
+    "vi": "Hemolymph Blaster"
+  },
+  "item.alexsmobs.warped_mixture": {
+    "en": "Warped Mixture",
+    "zh": "诡异混合物",
+    "vi": "Warped Mixture"
+  },
+  "item.alexsmobs.straddlite": {
+    "en": "Straddlite",
+    "zh": "跨座晶石",
+    "vi": "Straddlite"
+  },
+  "item.alexsmobs.stradpole_bucket": {
+    "en": "Bucket of Stradpole",
+    "zh": "跨座蝌蚪桶",
+    "vi": "Bucket of Stradpole"
+  },
+  "item.alexsmobs.straddleboard": {
+    "en": "Straddleboard",
+    "zh": "跨板",
+    "vi": "Straddleboard"
+  },
+  "item.alexsmobs.emu_egg": {
+    "en": "Emu Egg",
+    "zh": "鸸鹋蛋",
+    "vi": "Emu Egg"
+  },
+  "item.alexsmobs.boiled_emu_egg": {
+    "en": "Boiled Emu Egg",
+    "zh": "熟鸸鹋蛋",
+    "vi": "Boiled Emu Egg"
+  },
+  "item.alexsmobs.emu_feather": {
+    "en": "Emu Feather",
+    "zh": "鸸鹋羽毛",
+    "vi": "Emu Feather"
+  },
+  "item.alexsmobs.emu_leggings": {
+    "en": "Outback Leggings",
+    "zh": "内陆护腿",
+    "vi": "Outback Leggings"
+  },
+  "item.alexsmobs.emu_leggings.desc": {
+    "en": "Chance to avoid projectile damage",
+    "zh": "有概率躲避弹射物伤害",
+    "vi": "Cơ hội tránh sát thương do đạn bắn"
+  },
+  "item.alexsmobs.platypus_bucket": {
+    "en": "Bucket of Platypus",
+    "zh": "鸭嘴兽桶",
+    "vi": "Bucket of Platypus"
+  },
+  "item.alexsmobs.fedora": {
+    "en": "Fedora",
+    "zh": "软呢帽",
+    "vi": "Fedora"
+  },
+  "item.alexsmobs.dropbear_claw": {
+    "en": "Dropbear Claw",
+    "zh": "悬熊爪",
+    "vi": "Dropbear Claw"
+  },
+  "item.alexsmobs.kangaroo_meat": {
+    "en": "Kangaroo Meat",
+    "zh": "袋鼠肉",
+    "vi": "Kangaroo Meat"
+  },
+  "item.alexsmobs.cooked_kangaroo_meat": {
+    "en": "Cooked Kangaroo Meat",
+    "zh": "熟袋鼠肉",
+    "vi": "Cooked Kangaroo Meat"
+  },
+  "item.alexsmobs.kangaroo_burger": {
+    "en": "Kangaroo Burger",
+    "zh": "袋鼠肉汉堡",
+    "vi": "Kangaroo Burger"
+  },
+  "item.alexsmobs.kangaroo_hide": {
+    "en": "Kangaroo Hide",
+    "zh": "袋鼠皮",
+    "vi": "Kangaroo Hide"
+  },
+  "item.alexsmobs.ambergris": {
+    "en": "Ambergris",
+    "zh": "龙涎香",
+    "vi": "Ambergris"
+  },
+  "item.alexsmobs.cachalot_whale_tooth": {
+    "en": "Cachalot Whale Tooth",
+    "zh": "抹香鲸利齿",
+    "vi": "Cachalot Whale Tooth"
+  },
+  "item.alexsmobs.echolocator": {
+    "en": "Echolocator",
+    "zh": "回声定位器",
+    "vi": "Echolocator"
+  },
+  "item.alexsmobs.endolocator": {
+    "en": "Endolocator",
+    "zh": "末影定位器",
+    "vi": "Endolocator"
+  },
+  "item.alexsmobs.gongylidia": {
+    "en": "Gongylidia",
+    "zh": "菌丝球",
+    "vi": "Gongylidia"
+  },
+  "item.alexsmobs.leafcutter_ant_pupa": {
+    "en": "Leafcutter Ant Pupa",
+    "zh": "切叶蚁蛹",
+    "vi": "Leafcutter Ant Pupa"
+  },
+  "item.alexsmobs.enderiophage_rocket": {
+    "en": "Enderiophage Rocket",
+    "zh": "末影噬菌体火箭",
+    "vi": "Enderiophage Rocket"
+  },
+  "item.alexsmobs.falconry_glove_inventory": {
+    "en": "This is not a Falconry Glove",
+    "zh": "这个不是猎鹰手套",
+    "vi": "This is not a Falconry Glove"
+  },
+  "item.alexsmobs.falconry_glove_hand": {
+    "en": "This is not a Falconry Glove",
+    "zh": "这个不是猎鹰手套",
+    "vi": "This is not a Falconry Glove"
+  },
+  "item.alexsmobs.falconry_glove": {
+    "en": "Falconry Glove",
+    "zh": "猎鹰手套",
+    "vi": "Falconry Glove"
+  },
+  "item.alexsmobs.falconry_hood": {
+    "en": "Falconry Hood",
+    "zh": "猎鹰兜帽",
+    "vi": "Falconry Hood"
+  },
+  "item.alexsmobs.tarantula_hawk_wing_fragment": {
+    "en": "Tattered Tarantula Hawk Wing",
+    "zh": "沙漠蛛蜂残翼",
+    "vi": "Tattered Tarantula Hawk Wing"
+  },
+  "item.alexsmobs.tarantula_hawk_wing": {
+    "en": "Tarantula Hawk Wing",
+    "zh": "沙漠蛛蜂翼",
+    "vi": "Tarantula Hawk Wing"
+  },
+  "item.alexsmobs.tarantula_hawk_elytra": {
+    "en": "Tarantula Hawk Elytra",
+    "zh": "沙漠蛛蜂鞘翅",
+    "vi": "Tarantula Hawk Elytra"
+  },
+  "item.alexsmobs.mysterious_worm": {
+    "en": "Mysterious Worm",
+    "zh": "神秘蠕虫",
+    "vi": "Mysterious Worm"
+  },
+  "item.alexsmobs.void_worm_mandible": {
+    "en": "Void Worm Mandible",
+    "zh": "虚空蠕虫大颚",
+    "vi": "Void Worm Mandible"
+  },
+  "item.alexsmobs.void_worm_eye": {
+    "en": "Void Worm Eye",
+    "zh": "虚空蠕虫之眼",
+    "vi": "Void Worm Eye"
+  },
+  "item.alexsmobs.dimensional_carver": {
+    "en": "Dimensional Carver",
+    "zh": "维度撕裂者",
+    "vi": "Dimensional Carver"
+  },
+  "item.alexsmobs.shattered_dimensional_carver": {
+    "en": "Shattered Dimensional Carver",
+    "zh": "碎裂的维度撕裂者",
+    "vi": "Shattered Dimensional Carver"
+  },
+  "item.alexsmobs.dimensional_carver_shard_0": {
+    "en": "Dimensional Carver Shard",
+    "zh": "维度撕裂者碎片",
+    "vi": "Dimensional Carver Shard"
+  },
+  "item.alexsmobs.dimensional_carver_shard_1": {
+    "en": "Dimensional Carver Shard",
+    "zh": "维度撕裂者碎片",
+    "vi": "Dimensional Carver Shard"
+  },
+  "item.alexsmobs.dimensional_carver_shard_2": {
+    "en": "Dimensional Carver Shard",
+    "zh": "维度撕裂者碎片",
+    "vi": "Dimensional Carver Shard"
+  },
+  "item.alexsmobs.dimensional_carver_shard_3": {
+    "en": "Dimensional Carver Shard",
+    "zh": "维度撕裂者碎片",
+    "vi": "Dimensional Carver Shard"
+  },
+  "item.alexsmobs.dimensional_carver_shard_4": {
+    "en": "Dimensional Carver Shard",
+    "zh": "维度撕裂者碎片",
+    "vi": "Dimensional Carver Shard"
+  },
+  "item.alexsmobs.dimensional_carver_shard_5": {
+    "en": "Dimensional Carver Shard",
+    "zh": "维度撕裂者碎片",
+    "vi": "Dimensional Carver Shard"
+  },
+  "item.alexsmobs.dimensional_carver_shard_6": {
+    "en": "Dimensional Carver Shard",
+    "zh": "维度撕裂者碎片",
+    "vi": "Dimensional Carver Shard"
+  },
+  "item.alexsmobs.dimensional_carver_shard_7": {
+    "en": "Dimensional Carver Shard",
+    "zh": "维度撕裂者碎片",
+    "vi": "Dimensional Carver Shard"
+  },
+  "item.alexsmobs.dimensional_carver_shard_8": {
+    "en": "Dimensional Carver Shard",
+    "zh": "维度撕裂者碎片",
+    "vi": "Dimensional Carver Shard"
+  },
+  "item.alexsmobs.dimensional_carver_shard_9": {
+    "en": "Dimensional Carver Shard",
+    "zh": "维度撕裂者碎片",
+    "vi": "Dimensional Carver Shard"
+  },
+  "item.alexsmobs.dimensional_carver_shard_10": {
+    "en": "Dimensional Carver Shard",
+    "zh": "维度撕裂者碎片",
+    "vi": "Dimensional Carver Shard"
+  },
+  "item.alexsmobs.serrated_shark_tooth": {
+    "en": "Serrated Shark Tooth",
+    "zh": "鲨鱼锯齿",
+    "vi": "Serrated Shark Tooth"
+  },
+  "item.alexsmobs.frilled_shark_bucket": {
+    "en": "Bucket of Frilled Shark",
+    "zh": "皱鳃鲨桶",
+    "vi": "Bucket of Frilled Shark"
+  },
+  "item.alexsmobs.shield_of_the_deep": {
+    "en": "Shield Of The Deep",
+    "zh": "深澜之盾",
+    "vi": "Shield Of The Deep"
+  },
+  "item.alexsmobs.mimic_octopus_bucket": {
+    "en": "Bucket of Mimic Octopus",
+    "zh": "拟态章鱼桶",
+    "vi": "Bucket of Mimic Octopus"
+  },
+  "item.alexsmobs.froststalker_horn": {
+    "en": "Froststalker Horn",
+    "zh": "寒霜潜伏者之角",
+    "vi": "Froststalker Horn"
+  },
+  "item.alexsmobs.froststalker_helmet": {
+    "en": "Froststalker Helmet",
+    "zh": "寒霜潜伏头盔",
+    "vi": "Froststalker Helmet"
+  },
+  "item.alexsmobs.froststalker_helmet.desc": {
+    "en": "Froststalkers follow the horn",
+    "zh": "寒霜潜伏者追随着号角",
+    "vi": "Frostlurkers đi theo tiếng còi"
+  },
+  "item.alexsmobs.pigshoes": {
+    "en": "Ancient Hogshoes",
+    "zh": "远古疣猪靴子",
+    "vi": "Ancient Hogshoes"
+  },
+  "item.alexsmobs.straddle_helmet": {
+    "en": "Straddlite Tack",
+    "zh": "跨座晶石头盔",
+    "vi": "Straddlite Tack"
+  },
+  "item.alexsmobs.straddle_saddle": {
+    "en": "Straddlite Saddle",
+    "zh": "跨座晶石鞍",
+    "vi": "Straddlite Saddle"
+  },
+  "item.alexsmobs.cosmic_cod": {
+    "en": "Cosmic Cod",
+    "zh": "宇宙鳕鱼",
+    "vi": "Cosmic Cod"
+  },
+  "item.alexsmobs.shed_snake_skin": {
+    "en": "Shed Snake Skin",
+    "zh": "蜕下的蛇皮",
+    "vi": "Shed Snake Skin"
+  },
+  "item.alexsmobs.vine_lasso_inventory": {
+    "en": "This is not a Vine Lasso",
+    "zh": "这个不是藤蔓套索",
+    "vi": "This is not a Vine Lasso"
+  },
+  "item.alexsmobs.vine_lasso_hand": {
+    "en": "This is not a Vine Lasso",
+    "zh": "这个不是藤蔓套索",
+    "vi": "This is not a Vine Lasso"
+  },
+  "item.alexsmobs.vine_lasso": {
+    "en": "Vine Lasso",
+    "zh": "藤蔓套索",
+    "vi": "Vine Lasso"
+  },
+  "item.alexsmobs.rocky_shell": {
+    "en": "Rocky Shell",
+    "zh": "岩壳",
+    "vi": "Rocky Shell"
+  },
+  "item.alexsmobs.rocky_chestplate": {
+    "en": "Rock Shell Chestplate",
+    "zh": "岩壳胸甲",
+    "vi": "Rock Shell Chestplate"
+  },
+  "item.alexsmobs.rocky_chestplate.desc": {
+    "en": "Enables rolling by sprinting",
+    "zh": "疾跑来进行滚动",
+    "vi": "Chạy nước rút để lăn"
+  },
+  "item.alexsmobs.potted_flutter": {
+    "en": "Potted Flutter",
+    "zh": "花飘飘盆栽",
+    "vi": "Potted Flutter"
+  },
+  "item.alexsmobs.terrapin_bucket": {
+    "en": "Bucket of Terrapin",
+    "zh": "水龟桶",
+    "vi": "Bucket of Terrapin"
+  },
+  "item.alexsmobs.comb_jelly_bucket": {
+    "en": "Bucket of Comb Jelly",
+    "zh": "栉水母桶",
+    "vi": "Bucket of Comb Jelly"
+  },
+  "item.alexsmobs.rainbow_jelly": {
+    "en": "Rainbow Jelly",
+    "zh": "彩虹果冻",
+    "vi": "Rainbow Jelly"
+  },
+  "item.alexsmobs.cosmic_cod_bucket": {
+    "en": "Bucket of Cosmic Cod",
+    "zh": "宇宙鳕鱼桶",
+    "vi": "Bucket of Cosmic Cod"
+  },
+  "item.alexsmobs.mungal_spores": {
+    "en": "Mungal Spores",
+    "zh": "蘑菇孢子",
+    "vi": "Mungal Spores"
+  },
+  "item.alexsmobs.bison_fur": {
+    "en": "Bison Fur",
+    "zh": "野牛毛皮",
+    "vi": "Bison Fur"
+  },
+  "item.alexsmobs.lost_tentacle": {
+    "en": "Lost Tentacle",
+    "zh": "遗落的触手",
+    "vi": "Lost Tentacle"
+  },
+  "item.alexsmobs.squid_grapple": {
+    "en": "Grappling Squok",
+    "zh": "抓钩发射弩",
+    "vi": "Grappling Squok"
+  },
+  "item.alexsmobs.squid_grapple.desc": {
+    "en": "Detach tentacles by Sneaking",
+    "zh": "通过潜行来松开触手",
+    "vi": "Giải phóng các xúc tu bằng cách lén lút"
+  },
+  "item.alexsmobs.devils_hole_pupfish_bucket": {
+    "en": "Bucket of Devil's Hole Pupfish",
+    "zh": "魔鳉桶",
+    "vi": "Bucket of Devil's Hole Pupfish"
+  },
+  "item.alexsmobs.pupfish_locator": {
+    "en": "Strange Fish Finder",
+    "zh": "怪鱼寻觅器",
+    "vi": "Strange Fish Finder"
+  },
+  "item.alexsmobs.small_catfish_bucket": {
+    "en": "Bucket of Small Catfish",
+    "zh": "小型鲶鱼桶",
+    "vi": "Bucket of Small Catfish"
+  },
+  "item.alexsmobs.medium_catfish_bucket": {
+    "en": "Bucket of Medium Catfish",
+    "zh": "中型鲶鱼桶",
+    "vi": "Bucket of Medium Catfish"
+  },
+  "item.alexsmobs.large_catfish_bucket": {
+    "en": "Bucket of Large Catfish",
+    "zh": "大型鲶鱼桶",
+    "vi": "Bucket of Large Catfish"
+  },
+  "item.alexsmobs.raw_catfish": {
+    "en": "Raw Catfish",
+    "zh": "生鲶鱼",
+    "vi": "Raw Catfish"
+  },
+  "item.alexsmobs.cooked_catfish": {
+    "en": "Cooked Catfish",
+    "zh": "熟鲶鱼",
+    "vi": "Cooked Catfish"
+  },
+  "item.alexsmobs.flying_fish": {
+    "en": "Flying Fish",
+    "zh": "飞鱼",
+    "vi": "Flying Fish"
+  },
+  "item.alexsmobs.flying_fish_boots": {
+    "en": "Flying Fish Boots",
+    "zh": "飞鱼靴子",
+    "vi": "Flying Fish Boots"
+  },
+  "item.alexsmobs.flying_fish_boots.desc": {
+    "en": "Enables gliding by jumping out of water",
+    "zh": "支持跳出水面来进行滑翔",
+    "vi": "Hỗ trợ lướt bằng cách nhảy lên khỏi mặt nước"
+  },
+  "item.alexsmobs.flying_fish_bucket": {
+    "en": "Bucket of Flying Fish",
+    "zh": "飞鱼桶",
+    "vi": "Bucket of Flying Fish"
+  },
+  "item.alexsmobs.fish_bones": {
+    "en": "Fish Bones",
+    "zh": "鱼骨",
+    "vi": "Fish Bones"
+  },
+  "item.alexsmobs.skelewag_sword_inventory": {
+    "en": "Skelewag Skull",
+    "zh": "骷髅剑鱼头骨",
+    "vi": "Skelewag Skull"
+  },
+  "item.alexsmobs.skelewag_sword_hand": {
+    "en": "Skelewag Skull",
+    "zh": "骷髅剑鱼头骨",
+    "vi": "Skelewag Skull"
+  },
+  "item.alexsmobs.skelewag_sword": {
+    "en": "Skelewag Skull",
+    "zh": "骷髅剑鱼头骨",
+    "vi": "Skelewag Skull"
+  },
+  "item.alexsmobs.novelty_hat": {
+    "en": "Novelty Hat",
+    "zh": "汽水帽",
+    "vi": "Novelty Hat"
+  },
+  "item.alexsmobs.novelty_hat.desc": {
+    "en": "He was number one!",
+    "zh": "他是第一名！",
+    "vi": "Anh ấy là số một!"
+  },
+  "item.alexsmobs.mudskipper_bucket": {
+    "en": "Bucket of Mudskipper",
+    "zh": "弹涂鱼桶",
+    "vi": "Bucket of Mudskipper"
+  },
+  "item.alexsmobs.farseer_arm": {
+    "en": "Farseer Arm",
+    "zh": "瞻远者之臂",
+    "vi": "Farseer Arm"
+  },
+  "item.alexsmobs.skreecher_soul": {
+    "en": "Skreecher Soul",
+    "zh": "贱叫怪之魂",
+    "vi": "Skreecher Soul"
+  },
+  "item.alexsmobs.ghostly_pickaxe": {
+    "en": "Ghostly Pickaxe",
+    "zh": "幽灵矿镐",
+    "vi": "Ghostly Pickaxe"
+  },
+  "item.alexsmobs.elastic_tendon": {
+    "en": "Elastic Tendon",
+    "zh": "弹性筋腱",
+    "vi": "Elastic Tendon"
+  },
+  "item.alexsmobs.tendon_whip": {
+    "en": "Tendon Whip",
+    "zh": "筋腱长鞭",
+    "vi": "Tendon Whip"
+  },
+  "item.alexsmobs.unsettling_kimono": {
+    "en": "Unsettling Kimono",
+    "zh": "惴恐和服",
+    "vi": "Unsettling Kimono"
+  },
+  "item.alexsmobs.unsettling_kimono.desc": {
+    "en": "Most Undead creatures become neutral",
+    "zh": "大多数的亡灵生物会变为中立",
+    "vi": "Hầu hết các sinh vật undead sẽ trở nên trung lập"
+  },
+  "item.alexsmobs.stink_bottle": {
+    "en": "Stink in a Bottle",
+    "zh": "臭屁瓶",
+    "vi": "Stink in a Bottle"
+  },
+  "item.alexsmobs.stink_ray_hand": {
+    "en": "Stink Ray",
+    "zh": "臭屁手枪",
+    "vi": "Stink Ray"
+  },
+  "item.alexsmobs.stink_ray_inventory": {
+    "en": "Stink Ray",
+    "zh": "臭屁手枪",
+    "vi": "Stink Ray"
+  },
+  "item.alexsmobs.stink_ray_empty_hand": {
+    "en": "Stink Ray",
+    "zh": "臭屁手枪",
+    "vi": "Stink Ray"
+  },
+  "item.alexsmobs.stink_empty_inventory": {
+    "en": "Stink Ray",
+    "zh": "臭屁手枪",
+    "vi": "Stink Ray"
+  },
+  "item.alexsmobs.stink_ray": {
+    "en": "Stink Ray",
+    "zh": "臭屁手枪",
+    "vi": "Stink Ray"
+  },
+  "item.alexsmobs.banana_slug_slime": {
+    "en": "Banana Slug Slime",
+    "zh": "香蕉蛞蝓黏液",
+    "vi": "Banana Slug Slime"
+  },
+  "item.alexsmobs.mosquito_repellent_stew": {
+    "en": "Mosquito Repellent Stew",
+    "zh": "驱蚊炖菜",
+    "vi": "Mosquito Repellent Stew"
+  },
+  "item.alexsmobs.triops_bucket": {
+    "en": "Bucket of Triops",
+    "zh": "鲎虫桶",
+    "vi": "Bucket of Triops"
+  },
+  "item.alexsmobs.end_pirate_rigging": {
+    "en": null,
+    "zh": "End Pirate's Rigging",
+    "vi": "End Pirate's Rigging"
+  },
+  "item.alexsmobs.music_disc_thime": {
+    "en": "Music Disc",
+    "zh": "音乐唱片",
+    "vi": "Music Disc"
+  },
+  "item.alexsmobs.music_disc_thime.desc": {
+    "en": "LudoCrypt - Thime",
+    "zh": "LudoCrypt - Thime",
+    "vi": "LudoCrypt - Thime"
+  },
+  "item.alexsmobs.music_disc_daze": {
+    "en": "Music Disc",
+    "zh": "音乐唱片",
+    "vi": "Music Disc"
+  },
+  "item.alexsmobs.music_disc_daze.desc": {
+    "en": "LudoCrypt - Daze",
+    "zh": "LudoCrypt - Daze",
+    "vi": "LudoCrypt - Daze"
+  },
+  "item.alexsmobs.insulated_with_fur": {
+    "en": "Insulated from Snow",
+    "zh": "隔雪",
+    "vi": "Insulated from Snow"
+  },
+  "block.alexsmobs.banana_peel": {
+    "en": "Banana Peel",
+    "zh": "香蕉皮",
+    "vi": "Banana Peel"
+  },
+  "block.alexsmobs.crocodile_egg": {
+    "en": "Crocodile Egg",
+    "zh": "鳄鱼蛋",
+    "vi": "Crocodile Egg"
+  },
+  "block.alexsmobs.gustmaker": {
+    "en": "Gustmaker",
+    "zh": "造风器",
+    "vi": "Gustmaker"
+  },
+  "block.alexsmobs.leafcutter_anthill": {
+    "en": "Leafcutter Anthill",
+    "zh": "切叶蚁丘",
+    "vi": "Leafcutter Anthill"
+  },
+  "block.alexsmobs.leafcutter_ant_chamber": {
+    "en": "Leafcutter Ant Chamber",
+    "zh": "切叶蚁室",
+    "vi": "Leafcutter Ant Chamber"
+  },
+  "block.alexsmobs.capsid": {
+    "en": "Capsid",
+    "zh": "衣壳体",
+    "vi": "Capsid"
+  },
+  "block.alexsmobs.void_worm_beak": {
+    "en": "Void Worm Beak",
+    "zh": "虚空蠕虫嘴",
+    "vi": "Void Worm Beak"
+  },
+  "block.alexsmobs.void_worm_effigy": {
+    "en": "Void Worm Effigy",
+    "zh": "虚空蠕虫雕像",
+    "vi": "Void Worm Effigy"
+  },
+  "block.alexsmobs.hummingbird_feeder": {
+    "en": "Hummingbird Feeder",
+    "zh": "蜂鸟喂食器",
+    "vi": "Hummingbird Feeder"
+  },
+  "block.alexsmobs.straddlite_block": {
+    "en": "Block of Straddlite",
+    "zh": "跨座晶石块",
+    "vi": "Block of Straddlite"
+  },
+  "block.alexsmobs.terrapin_egg": {
+    "en": "Terrapin Egg",
+    "zh": "水龟蛋",
+    "vi": "Terrapin Egg"
+  },
+  "block.alexsmobs.terrapin_egg.desc": {
+    "en": "%s x %s",
+    "zh": "%s x %s",
+    "vi": "%s x %s"
+  },
+  "block.alexsmobs.rainbow_glass": {
+    "en": "Rainbow Glass",
+    "zh": "彩虹玻璃",
+    "vi": "Rainbow Glass"
+  },
+  "block.alexsmobs.bison_fur_block": {
+    "en": "Block of Bison Fur",
+    "zh": "野牛毛皮块",
+    "vi": "Block of Bison Fur"
+  },
+  "block.alexsmobs.bison_carpet": {
+    "en": "Bison Fur Carpet",
+    "zh": "野牛毛皮地毯",
+    "vi": "Bison Fur Carpet"
+  },
+  "block.alexsmobs.purpur_planks": {
+    "en": "Purpur Planks",
+    "zh": "紫珀木板",
+    "vi": "Purpur Planks"
+  },
+  "block.alexsmobs.purpur_planks_stairs": {
+    "en": "Purpur Planks Stairs",
+    "zh": "紫珀木楼梯",
+    "vi": "Purpur Planks Stairs"
+  },
+  "block.alexsmobs.purpur_planks_slab": {
+    "en": "Purpur Planks Slab",
+    "zh": "紫珀木台阶",
+    "vi": "Purpur Planks Slab"
+  },
+  "block.alexsmobs.purpur_planks_wall": {
+    "en": "Purpur Planks Wall",
+    "zh": "紫珀木墙",
+    "vi": "Purpur Planks Wall"
+  },
+  "block.alexsmobs.end_pirate_door": {
+    "en": "End Pirate's Door",
+    "zh": "末地海盗门",
+    "vi": "End Pirate's Door"
+  },
+  "block.alexsmobs.end_pirate_trapdoor": {
+    "en": "End Pirate's Trapdoor",
+    "zh": "末地海盗活板门",
+    "vi": "End Pirate's Trapdoor"
+  },
+  "block.alexsmobs.end_pirate_anchor": {
+    "en": "Void Anchor",
+    "zh": "虚空锚",
+    "vi": "Void Anchor"
+  },
+  "block.alexsmobs.end_pirate_anchor_chain": {
+    "en": null,
+    "zh": "虚空锚链条",
+    "vi": "Chuỗi neo trống"
+  },
+  "block.alexsmobs.end_pirate_anchor_winch": {
+    "en": "Void Winch",
+    "zh": "虚空锚绞盘",
+    "vi": "Void Winch"
+  },
+  "block.alexsmobs.end_pirate_ship_wheel": {
+    "en": "End Pirate's Ship Wheel",
+    "zh": "末地海盗船舵",
+    "vi": "End Pirate's Ship Wheel"
+  },
+  "block.alexsmobs.end_pirate_flag": {
+    "en": "End Pirate's Flag",
+    "zh": "末地海盗旗",
+    "vi": "End Pirate's Flag"
+  },
+  "block.alexsmobs.ender_residue": {
+    "en": "Ender Residue",
+    "zh": "传送残余物",
+    "vi": "Ender Residue"
+  },
+  "block.alexsmobs.phantom_sail": {
+    "en": "Phantom Membrane Sail",
+    "zh": "幻翼膜帆",
+    "vi": "Phantom Membrane Sail"
+  },
+  "block.alexsmobs.spectre_sail": {
+    "en": "Spectre Membrane Sail",
+    "zh": "灵翼膜帆",
+    "vi": "Spectre Membrane Sail"
+  },
+  "block.alexsmobs.dragons_breath_cannon": {
+    "en": null,
+    "zh": "龙息加农炮",
+    "vi": "Pháo hơi thở rồng"
+  },
+  "block.alexsmobs.sand_circle": {
+    "en": "Anti-Sea Bear Circle",
+    "zh": "防海熊圈",
+    "vi": "Anti-Sea Bear Circle"
+  },
+  "block.alexsmobs.red_sand_circle": {
+    "en": "Anti-Sea Bear Circle",
+    "zh": "防海熊圈",
+    "vi": "Anti-Sea Bear Circle"
+  },
+  "block.alexsmobs.transmutation_table": {
+    "en": "Transmutation Table",
+    "zh": "嬗变台",
+    "vi": "Transmutation Table"
+  },
+  "block.alexsmobs.sculk_boomer": {
+    "en": "Sculk Boomer",
+    "zh": "幽匿轰鸣体",
+    "vi": "Sculk Boomer"
+  },
+  "block.alexsmobs.skunk_spray": {
+    "en": "Skunk Spray",
+    "zh": "臭鼬的屁",
+    "vi": "Skunk Spray"
+  },
+  "block.alexsmobs.banana_slug_slime_block": {
+    "en": "Banana Slug Slime Block",
+    "zh": "香蕉蛞蝓黏液块",
+    "vi": "Banana Slug Slime Block"
+  },
+  "block.alexsmobs.crystalized_banana_slug_mucus": {
+    "en": "Crystallized Banana Slug Mucus",
+    "zh": "香蕉蛞蝓黏液晶体块",
+    "vi": "Crystallized Banana Slug Mucus"
+  },
+  "block.alexsmobs.caiman_egg": {
+    "en": "Caiman Egg",
+    "zh": "凯门鳄蛋",
+    "vi": "Caiman Egg"
+  },
+  "block.alexsmobs.triops_eggs": {
+    "en": "Triops Eggs",
+    "zh": "鲎虫卵",
+    "vi": "Triops Eggs"
+  },
+  "alexsmobs.potion.knockback_resistance": {
+    "en": "Knockback Resistance",
+    "zh": "击退抗性",
+    "vi": "kháng phản đòn"
+  },
+  "alexsmobs.potion.lava_vision": {
+    "en": "Lava Vision",
+    "zh": "熔岩明视",
+    "vi": "tầm nhìn rõ ràng dung nham"
+  },
+  "alexsmobs.potion.sunbird_curse": {
+    "en": "Sunbird's Curse",
+    "zh": "曦鹤之咒",
+    "vi": "Lời nguyền của Tây Hà"
+  },
+  "alexsmobs.potion.sunbird_blessing": {
+    "en": "Sunbird's Blessing",
+    "zh": "曦鹤之佑",
+    "vi": "Phước lành của Xihe"
+  },
+  "alexsmobs.potion.oiled": {
+    "en": "Oiled",
+    "zh": "油腻腻",
+    "vi": "nhờn"
+  },
+  "alexsmobs.potion.orcas_might": {
+    "en": "Orca's Might",
+    "zh": "逆戟之力",
+    "vi": "Sức mạnh của cây kích ngược"
+  },
+  "alexsmobs.potion.speed_iii": {
+    "en": "Speed III",
+    "zh": "速度 III",
+    "vi": "Tốc độ III"
+  },
+  "alexsmobs.potion.poison_resistance": {
+    "en": "Poison Resistance",
+    "zh": "毒素抗性",
+    "vi": "kháng độc tố"
+  },
+  "alexsmobs.potion.bug_pheromones": {
+    "en": "Bug Pheromones",
+    "zh": "招蜂引蝶",
+    "vi": "thu hút ong và bướm"
+  },
+  "alexsmobs.potion.soulsteal": {
+    "en": "Soulsteal",
+    "zh": "灵魂窃取",
+    "vi": "đánh cắp linh hồn"
+  },
+  "alexsmobs.potion.clinging": {
+    "en": "Clinging",
+    "zh": "粘附",
+    "vi": "độ bám dính"
+  },
+  "alexsmobs.potion.ender_flu": {
+    "en": "Ender Flu",
+    "zh": "末影流感",
+    "vi": "Cúm Ender"
+  },
+  "alexsmobs.potion.fear": {
+    "en": "Scared Still",
+    "zh": "极度恐惧",
+    "vi": "nỗi sợ hãi cực độ"
+  },
+  "alexsmobs.potion.tigers_blessing": {
+    "en": "Tiger's Blessing",
+    "zh": "虎佑",
+    "vi": "hổ vũ"
+  },
+  "alexsmobs.potion.debilitating_sting": {
+    "en": "Debilitating Sting",
+    "zh": "衰弱螫伤",
+    "vi": "vết đốt làm suy nhược"
+  },
+  "alexsmobs.potion.exsanguination": {
+    "en": "Exsanguination",
+    "zh": "失血",
+    "vi": "mất máu"
+  },
+  "alexsmobs.potion.earthquake": {
+    "en": "Earthquake",
+    "zh": "地震",
+    "vi": "trận động đất"
+  },
+  "alexsmobs.potion.fleet_footed": {
+    "en": "Fleet-Footed",
+    "zh": "健步如飞",
+    "vi": "Bước đi nhanh như bay"
+  },
+  "alexsmobs.potion.power_down": {
+    "en": "Power Outage",
+    "zh": "能源中断",
+    "vi": ""
+  },
+  "alexsmobs.potion.mosquito_repellent": {
+    "en": "Mosquito Repellent",
+    "zh": "驱蚊",
+    "vi": "Thuốc chống muỗi"
+  },
+  "effect.alexsmobs.bug_pheromones.description": {
+    "en": "Make hostile arthropods neutral to the user.",
+    "zh": "使得敌对的节肢动物对玩家保持中立。",
+    "vi": "Làm cho động vật chân đốt thù địch trở nên trung lập với người chơi."
+  },
+  "effect.alexsmobs.bug_pheromones.desc": {
+    "en": null,
+    "zh": "使得敌对的节肢动物对玩家保持中立。",
+    "vi": "Làm cho động vật chân đốt thù địch trở nên trung lập với người chơi."
+  },
+  "effect.alexsmobs.clinging.description": {
+    "en": "Allows walking upside-down on ceilings.",
+    "zh": "允许使用者可以在天花板倒立行走。",
+    "vi": "Cho phép người dùng đi lộn ngược trên trần nhà."
+  },
+  "effect.alexsmobs.debilitating_sting.description": {
+    "en": "An Effect which poisons the victim but paralyzes arthropods. It will stop if the victim is at half health and is not an arthropod. Inflicted by a Tarantula Hawk.",
+    "zh": "一个会使受害者中毒但会使节肢动物麻痹的效果。若受害者不为节肢动物且生命值低于一半时，效果就会停止作用。受沙漠蛛蜂的攻击时会获得此效果。",
+    "vi": "Một hiệu ứng đầu độc nạn nhân nhưng làm tê liệt động vật chân đốt. Hiệu ứng sẽ chấm dứt nếu nạn nhân không phải là động vật chân đốt và có ít hơn một nửa điểm trúng đích. Đạt được hiệu ứng này khi bị tấn công bởi Ong bắp cày sa mạc."
+  },
+  "effect.alexsmobs.ender_flu.description": {
+    "en": "After the effect runs out naturally, the user takes massive damage and an Enderiophage will spawn. Inflicted by an Enderiophage.",
+    "zh": "当效果自然结束时，使用者会受到高额的伤害，并会生成一只末影噬菌体。受末影噬菌体的攻击时会获得此效果。",
+    "vi": "Khi hiệu ứng kết thúc một cách tự nhiên, người dùng sẽ chịu sát thương cao và một Ender Phage sẽ xuất hiện. Hiệu ứng này đạt được khi bị tấn công bởi Ender Phage."
+  },
+  "effect.alexsmobs.exsanguination.description": {
+    "en": "Gradually drains health.",
+    "zh": "逐渐地消耗生命值。",
+    "vi": "Dần dần tiêu hao điểm sức khỏe."
+  },
+  "effect.alexsmobs.fear.description": {
+    "en": "Makes the target unable to move. Effect applied when a Tiger reveals itself to the user.",
+    "zh": "使目标无法移动。当老虎向玩家展示自己时会施以此效果。",
+    "vi": "Khiến mục tiêu không thể di chuyển. Hiệu ứng này được áp dụng khi con hổ lộ diện với người chơi."
+  },
+  "effect.alexsmobs.knockback_resistance.description": {
+    "en": "Provides 50% knockback resistance.",
+    "zh": "提供 50% 的击退抗性。",
+    "vi": "Cung cấp khả năng chống đẩy lùi 50%."
+  },
+  "effect.alexsmobs.knockback_resistance.desc": {
+    "en": null,
+    "zh": "提供 50% 的击退抗性。",
+    "vi": "Cung cấp khả năng chống đẩy lùi 50%."
+  },
+  "effect.alexsmobs.lava_vision.description": {
+    "en": "Allows seeing through lava.",
+    "zh": "允许玩家看穿熔岩。",
+    "vi": "Cho phép người chơi nhìn xuyên qua dung nham."
+  },
+  "effect.alexsmobs.oiled.description": {
+    "en": "Oil floats on water. Cover yourself in oil to float on the surface of water and outside in the rain.",
+    "zh": "油是漂浮在水面上的。用油包裹住你自己，以便可以浮在水面上和飘在雨中。",
+    "vi": "Dầu nổi trên mặt nước. Che mình trong dầu để nổi trên mặt nước và dưới mưa."
+  },
+  "effect.alexsmobs.orcas_might.description": {
+    "en": "Grants increased attack speed. Effect may be applied when swimming with an Orca.",
+    "zh": "增加玩家的攻击速度。在与虎鲸一起游泳时会获得此效果。",
+    "vi": "Tăng tốc độ tấn công của người chơi. Hiệu ứng này đạt được khi bơi cùng cá voi sát thủ."
+  },
+  "effect.alexsmobs.poison_resistance.description": {
+    "en": "Grants immunity to poison.",
+    "zh": "赋予使用者免疫毒素的能力。",
+    "vi": "Cung cấp cho người dùng khả năng miễn dịch với độc tố."
+  },
+  "effect.alexsmobs.poison_resistance.desc": {
+    "en": null,
+    "zh": "赋予使用者免疫毒素的能力。",
+    "vi": "Cung cấp cho người dùng khả năng miễn dịch với độc tố."
+  },
+  "effect.alexsmobs.soulsteal.description": {
+    "en": "Grants the user attacks some life-steal.",
+    "zh": "赋予玩家在攻击的时候可以窃取生命值的能力。",
+    "vi": "Cung cấp cho người chơi khả năng đánh cắp sức khỏe khi tấn công."
+  },
+  "effect.alexsmobs.soulsteal.desc": {
+    "en": null,
+    "zh": "赋予玩家在攻击的时候可以窃取生命值的能力。",
+    "vi": "Cung cấp cho người chơi khả năng đánh cắp sức khỏe khi tấn công."
+  },
+  "effect.alexsmobs.sunbird_blessing.description": {
+    "en": "Decreases fall speed, prevents fall damage and makes it easier to fly with an Elytra or Tarantula Hawk Elytra. Effect is applied when near a Sunbird.",
+    "zh": "减少下降速度，防止摔落伤害，使得穿戴鞘翅或者沙漠蛛蜂鞘翅的玩家可以更容易地进行飞行。在曦鹤附近时会获得此效果。",
+    "vi": "Giảm tốc độ lao xuống và ngăn ngừa sát thương khi rơi, giúp người chơi mặc elytra hoặc Desert Spider Wasp elytra bay dễ dàng hơn. Hiệu ứng này có được khi ở gần Xihe."
+  },
+  "effect.alexsmobs.sunbird_curse.description": {
+    "en": "Increases fall speed, causing the user to hit the ground quicker. This effectively impedes the use of an Elytra. Effect is applied when attacking a Sunbird.",
+    "zh": "增加下降速度，这导致玩家会更快地撞向地面。这实际上妨害了鞘翅的使用。在对曦鹤进行攻击时会获得此效果。",
+    "vi": "Tăng tốc độ hạ xuống, khiến người chơi chạm đất nhanh hơn. Điều này thực sự cản trở việc sử dụng elytra. Hiệu ứng này có được khi tấn công Xihe."
+  },
+  "effect.alexsmobs.tigers_blessing.description": {
+    "en": "Tigers near the user will be neutral and will protect them from hostile foes. The effect will go away early when attacking a Tiger. Applied by feeding a Tiger chicken or pork chops.\n",
+    "zh": "玩家附近的老虎会保持中立，并且还能保护玩家免遭敌人的攻击。在攻击老虎后，此效果就会消失。通过喂食老虎一些鸡肉或者猪排时会获得此效果。",
+    "vi": "Những con hổ ở gần người chơi sẽ giữ thái độ trung lập và cũng bảo vệ người chơi khỏi các cuộc tấn công của kẻ thù. Hiệu ứng này biến mất sau khi tấn công con hổ. Hiệu ứng này có được bằng cách cho hổ ăn sườn gà hoặc sườn lợn."
+  },
+  "effect.alexsmobs.earthquake.description": {
+    "en": "Shakes the user violently.\n",
+    "zh": "剧烈地抖动玩家。\n",
+    "vi": "Lắc người chơi một cách dữ dội."
+  },
+  "effect.alexsmobs.fleet_footed.description": {
+    "en": "Increases player speed whilst jumping and sprinting.\n",
+    "zh": "在玩家同时跳跃和疾跑时，提升玩家的速度。\n",
+    "vi": "Tăng tốc độ của người chơi khi nhảy và chạy nước rút cùng lúc."
+  },
+  "effect.alexsmobs.fleet_footed.desc": {
+    "en": null,
+    "zh": "在玩家同时跳跃和疾跑时，提升玩家的速度。\n",
+    "vi": "Tăng tốc độ của người chơi khi nhảy và chạy nước rút cùng lúc."
+  },
+  "effect.alexsmobs.power_down.description": {
+    "en": "Hello, hello? Uhh, I wanted to record a message for you... \n",
+    "zh": "嗨，嗨？ 额，我想给你录段信息……\n",
+    "vi": "Chào, chào? Ừm, tôi muốn ghi lại lời nhắn cho bạn..."
+  },
+  "effect.alexsmobs.mosquito_repellent.description": {
+    "en": "Makes Crimson Mosquitoes avoid the player.\n",
+    "zh": "使得绯红蚊子避开玩家。\n",
+    "vi": "Khiến Muỗi Đỏ xa lánh người chơi."
+  },
+  "item.minecraft.potion.effect.knockback_resistance": {
+    "en": "Potion of Knockback Resistance",
+    "zh": "抗击退药水",
+    "vi": "Potion of Knockback Resistance"
+  },
+  "item.minecraft.potion.effect.long_knockback_resistance": {
+    "en": "Potion of Knockback Resistance",
+    "zh": "抗击退药水",
+    "vi": "Potion of Knockback Resistance"
+  },
+  "item.minecraft.potion.effect.strong_knockback_resistance": {
+    "en": "Potion of Knockback Resistance",
+    "zh": "抗击退药水",
+    "vi": "Potion of Knockback Resistance"
+  },
+  "item.minecraft.potion.effect.speed_iii": {
+    "en": "Potion of Swiftness",
+    "zh": "迅捷药水",
+    "vi": "Potion of Swiftness"
+  },
+  "item.minecraft.potion.effect.poison_resistance": {
+    "en": "Potion of Poison Resistance",
+    "zh": "抗毒药水",
+    "vi": "Potion of Poison Resistance"
+  },
+  "item.minecraft.potion.effect.long_poison_resistance": {
+    "en": "Potion of Poison Resistance",
+    "zh": "抗毒药水",
+    "vi": "Potion of Poison Resistance"
+  },
+  "item.minecraft.potion.effect.bug_pheromones": {
+    "en": "Potion of Bug Pheromones",
+    "zh": "引虫药水",
+    "vi": "Potion of Bug Pheromones"
+  },
+  "item.minecraft.potion.effect.long_bug_pheromones": {
+    "en": "Potion of Bug Pheromones",
+    "zh": "引虫药水",
+    "vi": "Potion of Bug Pheromones"
+  },
+  "item.minecraft.potion.effect.soulsteal": {
+    "en": "Potion of Soulsteal",
+    "zh": "灵魂窃取药水",
+    "vi": "Potion of Soulsteal"
+  },
+  "item.minecraft.potion.effect.long_soulsteal": {
+    "en": "Potion of Soulsteal",
+    "zh": "灵魂窃取药水",
+    "vi": "Potion of Soulsteal"
+  },
+  "item.minecraft.potion.effect.strong_soulsteal": {
+    "en": "Potion of Soulsteal",
+    "zh": "灵魂窃取药水",
+    "vi": "Potion of Soulsteal"
+  },
+  "item.minecraft.splash_potion.effect.knockback_resistance": {
+    "en": "Splash Potion of Knockback Resistance",
+    "zh": "喷溅型抗击退药水",
+    "vi": "Splash Potion of Knockback Resistance"
+  },
+  "item.minecraft.splash_potion.effect.long_knockback_resistance": {
+    "en": "Splash Potion of Knockback Resistance",
+    "zh": "喷溅型抗击退药水",
+    "vi": "Splash Potion of Knockback Resistance"
+  },
+  "item.minecraft.splash_potion.effect.strong_knockback_resistance": {
+    "en": "Splash Potion of Knockback Resistance",
+    "zh": "喷溅型抗击退药水",
+    "vi": "Splash Potion of Knockback Resistance"
+  },
+  "item.minecraft.splash_potion.effect.poison_resistance": {
+    "en": "Splash Potion of Poison Resistance",
+    "zh": "喷溅型抗毒药水",
+    "vi": "Splash Potion of Poison Resistance"
+  },
+  "item.minecraft.splash_potion.effect.long_poison_resistance": {
+    "en": "Splash Potion of Poison Resistance",
+    "zh": "喷溅型抗毒药水",
+    "vi": "Splash Potion of Poison Resistance"
+  },
+  "item.minecraft.splash_potion.effect.speed_iii": {
+    "en": "Splash Potion of Swiftness",
+    "zh": "喷溅型迅捷药水",
+    "vi": "Splash Potion of Swiftness"
+  },
+  "item.minecraft.splash_potion.effect.bug_pheromones": {
+    "en": "Splash Potion of Bug Pheromones",
+    "zh": "喷溅型引虫药水",
+    "vi": "Splash Potion of Bug Pheromones"
+  },
+  "item.minecraft.splash_potion.effect.long_bug_pheromones": {
+    "en": "Splash Potion of Bug Pheromones",
+    "zh": "喷溅型引虫药水",
+    "vi": "Splash Potion of Bug Pheromones"
+  },
+  "item.minecraft.splash_potion.effect.soulsteal": {
+    "en": "Splash Potion of Soulsteal",
+    "zh": "喷溅型灵魂窃取药水",
+    "vi": "Splash Potion of Soulsteal"
+  },
+  "item.minecraft.splash_potion.effect.long_soulsteal": {
+    "en": "Splash Potion of Soulsteal",
+    "zh": "喷溅型灵魂窃取药水",
+    "vi": "Splash Potion of Soulsteal"
+  },
+  "item.minecraft.splash_potion.effect.strong_soulsteal": {
+    "en": "Splash Potion of Soulsteal",
+    "zh": "喷溅型灵魂窃取药水",
+    "vi": "Splash Potion of Soulsteal"
+  },
+  "item.minecraft.tipped_arrow.effect.knockback_resistance": {
+    "en": "Arrow of Knockback Resistance",
+    "zh": "抗击退之箭",
+    "vi": "Chiến đấu chống lại mũi tên rút lui"
+  },
+  "item.minecraft.tipped_arrow.effect.long_knockback_resistance": {
+    "en": "Arrow of Knockback Resistance",
+    "zh": "抗击退之箭",
+    "vi": "Chiến đấu chống lại mũi tên rút lui"
+  },
+  "item.minecraft.tipped_arrow.effect.strong_knockback_resistance": {
+    "en": "Arrow of Knockback Resistance",
+    "zh": "抗击退之箭",
+    "vi": "Chiến đấu chống lại mũi tên rút lui"
+  },
+  "item.minecraft.tipped_arrow.effect.poison_resistance": {
+    "en": "Arrow of Poison Resistance",
+    "zh": "抗毒之箭",
+    "vi": "Mũi tên chống độc"
+  },
+  "item.minecraft.tipped_arrow.effect.long_poison_resistance": {
+    "en": "Arrow of Poison Resistance",
+    "zh": "抗毒之箭",
+    "vi": "Mũi tên chống độc"
+  },
+  "item.minecraft.tipped_arrow.effect.speed_iii": {
+    "en": "Arrow of Swiftness",
+    "zh": "迅捷之箭",
+    "vi": "Mũi tên nhanh"
+  },
+  "item.minecraft.tipped_arrow.effect.bug_pheromones": {
+    "en": "Arrow of Bug Pheromones",
+    "zh": "引虫之箭",
+    "vi": "Mũi tên thu hút côn trùng"
+  },
+  "item.minecraft.tipped_arrow.effect.long_bug_pheromones": {
+    "en": "Arrow of Bug Pheromones",
+    "zh": "引虫之箭",
+    "vi": "Mũi tên thu hút côn trùng"
+  },
+  "item.minecraft.tipped_arrow.effect.soulsteal": {
+    "en": "Arrow of Soulsteal",
+    "zh": "灵魂窃取之箭",
+    "vi": "Mũi tên đánh cắp linh hồn"
+  },
+  "item.minecraft.tipped_arrow.effect.long_soulsteal": {
+    "en": "Arrow of Soulsteal",
+    "zh": "灵魂窃取之箭",
+    "vi": "Mũi tên đánh cắp linh hồn"
+  },
+  "item.minecraft.tipped_arrow.effect.strong_soulsteal": {
+    "en": "Arrow of Soulsteal",
+    "zh": "灵魂窃取之箭",
+    "vi": "Mũi tên đánh cắp linh hồn"
+  },
+  "item.minecraft.lingering_potion.effect.knockback_resistance": {
+    "en": "Lingering Potion of Knockback Resistance",
+    "zh": "滞留型抗击退药水",
+    "vi": "Lingering Potion of Knockback Resistance"
+  },
+  "item.minecraft.lingering_potion.effect.long_knockback_resistance": {
+    "en": "Lingering Potion of Knockback Resistance",
+    "zh": "滞留型抗击退药水",
+    "vi": "Lingering Potion of Knockback Resistance"
+  },
+  "item.minecraft.lingering_potion.effect.strong_knockback_resistance": {
+    "en": "Lingering Potion of Knockback Resistance",
+    "zh": "滞留型抗击退药水",
+    "vi": "Lingering Potion of Knockback Resistance"
+  },
+  "item.minecraft.lingering_potion.effect.poison_resistance": {
+    "en": "Lingering Potion of Poison Resistance",
+    "zh": "滞留型抗毒药水",
+    "vi": "Lingering Potion of Poison Resistance"
+  },
+  "item.minecraft.lingering_potion.effect.long_poison_resistance": {
+    "en": "Lingering Potion of Poison Resistance",
+    "zh": "滞留型抗毒药水",
+    "vi": "Lingering Potion of Poison Resistance"
+  },
+  "item.minecraft.lingering_potion.effect.speed_iii": {
+    "en": "Lingering Potion of Swiftness",
+    "zh": "滞留型迅捷药水",
+    "vi": "Lingering Potion of Swiftness"
+  },
+  "item.minecraft.lingering_potion.effect.bug_pheromones": {
+    "en": "Lingering Potion of Bug Pheromones",
+    "zh": "滞留型引虫药水",
+    "vi": "Lingering Potion of Bug Pheromones"
+  },
+  "item.minecraft.lingering_potion.effect.long_bug_pheromones": {
+    "en": "Lingering Potion of Bug Pheromones",
+    "zh": "滞留型引虫药水",
+    "vi": "Lingering Potion of Bug Pheromones"
+  },
+  "item.minecraft.lingering_potion.effect.soulsteal": {
+    "en": "Lingering Potion of Soulsteal",
+    "zh": "滞留型灵魂窃取药水",
+    "vi": "Lingering Potion of Soulsteal"
+  },
+  "item.minecraft.lingering_potion.effect.long_soulsteal": {
+    "en": "Lingering Potion of Soulsteal",
+    "zh": "滞留型灵魂窃取药水",
+    "vi": "Lingering Potion of Soulsteal"
+  },
+  "item.minecraft.lingering_potion.effect.strong_soulsteal": {
+    "en": "Lingering Potion of Soulsteal",
+    "zh": "滞留型灵魂窃取药水",
+    "vi": "Lingering Potion of Soulsteal"
+  },
+  "item.minecraft.potion.effect.lava_vision": {
+    "en": "Potion of Lava Vision",
+    "zh": "熔岩明视药水",
+    "vi": "Potion of Lava Vision"
+  },
+  "item.minecraft.potion.effect.long_lava_vision": {
+    "en": "Potion of Lava Vision",
+    "zh": "熔岩明视药水",
+    "vi": "Potion of Lava Vision"
+  },
+  "item.minecraft.splash_potion.effect.lava_vision": {
+    "en": "Splash Potion of Lava Vision",
+    "zh": "喷溅型熔岩明视药水",
+    "vi": "Splash Potion of Lava Vision"
+  },
+  "item.minecraft.splash_potion.effect.long_lava_vision": {
+    "en": "Splash Potion of Lava Vision",
+    "zh": "喷溅型熔岩明视药水",
+    "vi": "Splash Potion of Lava Vision"
+  },
+  "item.minecraft.tipped_arrow.effect.lava_vision": {
+    "en": "Arrow of Lava Vision",
+    "zh": "熔岩明视之箭",
+    "vi": "Mũi tên dung nham Clearsight"
+  },
+  "item.minecraft.tipped_arrow.effect.long_lava_vision": {
+    "en": "Arrow of Lava Vision",
+    "zh": "熔岩明视之箭",
+    "vi": "Mũi tên dung nham Clearsight"
+  },
+  "item.minecraft.lingering_potion.effect.lava_vision": {
+    "en": "Lingering Potion of Lava Vision",
+    "zh": "滞留型熔岩明视药水",
+    "vi": "Lingering Potion of Lava Vision"
+  },
+  "item.minecraft.lingering_potion.effect.long_lava_vision": {
+    "en": "Lingering Potion of Lava Vision",
+    "zh": "滞留型熔岩明视药水",
+    "vi": "Lingering Potion of Lava Vision"
+  },
+  "item.minecraft.potion.effect.clinging": {
+    "en": "Potion of Clinging",
+    "zh": "粘附药水",
+    "vi": "Potion of Clinging"
+  },
+  "item.minecraft.potion.effect.long_clinging": {
+    "en": "Potion of Clinging",
+    "zh": "粘附药水",
+    "vi": "Potion of Clinging"
+  },
+  "item.minecraft.splash_potion.effect.clinging": {
+    "en": "Splash Potion of Clinging",
+    "zh": "喷溅型粘附药水",
+    "vi": "Splash Potion of Clinging"
+  },
+  "item.minecraft.splash_potion.effect.long_clinging": {
+    "en": "Splash Potion of Clinging",
+    "zh": "喷溅型粘附药水",
+    "vi": "Splash Potion of Clinging"
+  },
+  "item.minecraft.tipped_arrow.effect.clinging": {
+    "en": "Arrow of Clinging",
+    "zh": "粘附之箭",
+    "vi": "Mũi tên dính"
+  },
+  "item.minecraft.tipped_arrow.effect.long_clinging": {
+    "en": "Arrow of Clinging",
+    "zh": "粘附之箭",
+    "vi": "Mũi tên dính"
+  },
+  "item.minecraft.lingering_potion.effect.clinging": {
+    "en": "Lingering Potion of Clinging",
+    "zh": "滞留型粘附药水",
+    "vi": "Lingering Potion of Clinging"
+  },
+  "item.minecraft.lingering_potion.effect.long_clinging": {
+    "en": "Lingering Potion of Clinging",
+    "zh": "滞留型粘附药水",
+    "vi": "Lingering Potion of Clinging"
+  },
+  "entity.alexsmobs.grizzly_bear": {
+    "en": "Grizzly Bear",
+    "zh": "灰熊",
+    "vi": "Grizzly Bear"
+  },
+  "entity.alexsmobs.roadrunner": {
+    "en": "Roadrunner",
+    "zh": "走鹃",
+    "vi": "Roadrunner"
+  },
+  "entity.alexsmobs.bone_serpent": {
+    "en": "Bone Serpent",
+    "zh": "骨蟒",
+    "vi": "Bone Serpent"
+  },
+  "entity.alexsmobs.bone_serpent_part": {
+    "en": "Bone Serpent Bones",
+    "zh": "骨蟒骨节",
+    "vi": "Bone Serpent Bones"
+  },
+  "entity.alexsmobs.gazelle": {
+    "en": "Gazelle",
+    "zh": "瞪羚",
+    "vi": "Gazelle"
+  },
+  "entity.alexsmobs.crocodile": {
+    "en": "Crocodile",
+    "zh": "鳄鱼",
+    "vi": "Crocodile"
+  },
+  "entity.alexsmobs.fly": {
+    "en": "Fly",
+    "zh": "苍蝇",
+    "vi": "Fly"
+  },
+  "entity.alexsmobs.hummingbird": {
+    "en": "Hummingbird",
+    "zh": "蜂鸟",
+    "vi": "Hummingbird"
+  },
+  "entity.alexsmobs.orca": {
+    "en": "Orca",
+    "zh": "虎鲸",
+    "vi": "Orca"
+  },
+  "entity.alexsmobs.sunbird": {
+    "en": "Sunbird",
+    "zh": "曦鹤",
+    "vi": "Sunbird"
+  },
+  "entity.alexsmobs.gorilla": {
+    "en": "Gorilla",
+    "zh": "大猩猩",
+    "vi": "Gorilla"
+  },
+  "entity.alexsmobs.crimson_mosquito": {
+    "en": "Crimson Mosquito",
+    "zh": "绯红蚊子",
+    "vi": "Crimson Mosquito"
+  },
+  "entity.alexsmobs.mosquito_spit": {
+    "en": "Mosquito Blood",
+    "zh": "蚊子血",
+    "vi": "Mosquito Blood"
+  },
+  "entity.alexsmobs.rattlesnake": {
+    "en": "Rattlesnake",
+    "zh": "响尾蛇",
+    "vi": "Rattlesnake"
+  },
+  "entity.alexsmobs.endergrade": {
+    "en": "Endergrade",
+    "zh": "末影缓步兽",
+    "vi": "Endergrade"
+  },
+  "entity.alexsmobs.hammerhead_shark": {
+    "en": "Hammerhead Shark",
+    "zh": "锤头鲨",
+    "vi": "Hammerhead Shark"
+  },
+  "entity.alexsmobs.shark_tooth_arrow": {
+    "en": "Shark Tooth Arrow",
+    "zh": "鲨鱼利齿箭",
+    "vi": "Shark Tooth Arrow"
+  },
+  "entity.alexsmobs.lobster": {
+    "en": "Lobster",
+    "zh": "龙虾",
+    "vi": "Lobster"
+  },
+  "entity.alexsmobs.lobster.variant_red": {
+    "en": "Red Lobster",
+    "zh": "红色龙虾",
+    "vi": "Red Lobster"
+  },
+  "entity.alexsmobs.lobster.variant_blue": {
+    "en": "Blue Lobster",
+    "zh": "蓝色龙虾",
+    "vi": "Blue Lobster"
+  },
+  "entity.alexsmobs.lobster.variant_yellow": {
+    "en": "Yellow Lobster",
+    "zh": "黄色龙虾",
+    "vi": "Yellow Lobster"
+  },
+  "entity.alexsmobs.lobster.variant_redblue": {
+    "en": "Red and Blue Lobster",
+    "zh": "红蓝龙虾",
+    "vi": "Red and Blue Lobster"
+  },
+  "entity.alexsmobs.lobster.variant_black": {
+    "en": "Black Lobster",
+    "zh": "黑色龙虾",
+    "vi": "Black Lobster"
+  },
+  "entity.alexsmobs.lobster.variant_white": {
+    "en": "White Lobster",
+    "zh": "白色龙虾",
+    "vi": "White Lobster"
+  },
+  "entity.alexsmobs.komodo_dragon": {
+    "en": "Komodo Dragon",
+    "zh": "科莫多巨蜥",
+    "vi": "Komodo Dragon"
+  },
+  "entity.alexsmobs.capuchin_monkey": {
+    "en": "Capuchin Monkey",
+    "zh": "卷尾猴",
+    "vi": "Capuchin Monkey"
+  },
+  "entity.alexsmobs.all.command_0": {
+    "en": "%s is wandering",
+    "zh": "%s 在游荡",
+    "vi": "%s is wandering"
+  },
+  "entity.alexsmobs.all.command_1": {
+    "en": "%s is following",
+    "zh": "%s 在跟随",
+    "vi": "%s is following"
+  },
+  "entity.alexsmobs.all.command_2": {
+    "en": "%s is staying",
+    "zh": "%s 在停留",
+    "vi": "%s is staying"
+  },
+  "entity.alexsmobs.tossed_item": {
+    "en": "Tossed Item",
+    "zh": "弹射物",
+    "vi": "Tossed Item"
+  },
+  "entity.alexsmobs.centipede_head": {
+    "en": "Cave Centipede",
+    "zh": "洞穴蜈蚣",
+    "vi": "Cave Centipede"
+  },
+  "entity.alexsmobs.centipede_body": {
+    "en": "Cave Centipede Body",
+    "zh": "洞穴蜈蚣身",
+    "vi": "Cave Centipede Body"
+  },
+  "entity.alexsmobs.centipede_tail": {
+    "en": "Cave Centipede Tail",
+    "zh": "洞穴蜈蚣尾",
+    "vi": "Cave Centipede Tail"
+  },
+  "entity.alexsmobs.crocodile_egg": {
+    "en": "Crocodile Egg",
+    "zh": "鳄鱼蛋",
+    "vi": "Crocodile Egg"
+  },
+  "entity.alexsmobs.warped_toad": {
+    "en": "Warped Toad",
+    "zh": "诡异蟾蜍",
+    "vi": "Warped Toad"
+  },
+  "entity.alexsmobs.moose": {
+    "en": "Moose",
+    "zh": "驼鹿",
+    "vi": "Moose"
+  },
+  "entity.alexsmobs.mimicube": {
+    "en": "Mimicube",
+    "zh": "复刻怪",
+    "vi": "Mimicube"
+  },
+  "entity.alexsmobs.raccoon": {
+    "en": "Raccoon",
+    "zh": "浣熊",
+    "vi": "Raccoon"
+  },
+  "entity.alexsmobs.blobfish": {
+    "en": "Blobfish",
+    "zh": "水滴鱼",
+    "vi": "Blobfish"
+  },
+  "entity.alexsmobs.seal": {
+    "en": "Seal",
+    "zh": "海豹",
+    "vi": "Seal"
+  },
+  "entity.alexsmobs.cockroach": {
+    "en": "Cockroach",
+    "zh": "蟑螂",
+    "vi": "Cockroach"
+  },
+  "entity.alexsmobs.cockroach_egg": {
+    "en": "Cockroach Ootheca",
+    "zh": "蟑螂卵",
+    "vi": "Cockroach Ootheca"
+  },
+  "entity.alexsmobs.shoebill": {
+    "en": "Shoebill",
+    "zh": "鲸头鹳",
+    "vi": "Shoebill"
+  },
+  "entity.alexsmobs.elephant": {
+    "en": "Elephant",
+    "zh": "大象",
+    "vi": "Elephant"
+  },
+  "entity.alexsmobs.elephant.chest": {
+    "en": "Elephant's Chest",
+    "zh": "大象的箱子",
+    "vi": "Elephant's Chest"
+  },
+  "entity.alexsmobs.soul_vulture": {
+    "en": "Soul Vulture",
+    "zh": "灵魂鹫",
+    "vi": "Soul Vulture"
+  },
+  "entity.alexsmobs.snow_leopard": {
+    "en": "Snow Leopard",
+    "zh": "雪豹",
+    "vi": "Snow Leopard"
+  },
+  "entity.alexsmobs.spectre": {
+    "en": "Spectre",
+    "zh": "灵翼",
+    "vi": "Spectre"
+  },
+  "entity.alexsmobs.crow": {
+    "en": "Crow",
+    "zh": "乌鸦",
+    "vi": "Crow"
+  },
+  "entity.alexsmobs.crow.command_3": {
+    "en": "%s is gathering items",
+    "zh": "%s 正在收集物品",
+    "vi": "%s is gathering items"
+  },
+  "entity.alexsmobs.alligator_snapping_turtle": {
+    "en": "Alligator Snapping Turtle",
+    "zh": "大鳄龟",
+    "vi": "Alligator Snapping Turtle"
+  },
+  "entity.alexsmobs.mungus": {
+    "en": "Mungus",
+    "zh": "蘑菇君",
+    "vi": "Mungus"
+  },
+  "entity.alexsmobs.mantis_shrimp": {
+    "en": "Mantis Shrimp",
+    "zh": "螳螂虾",
+    "vi": "Mantis Shrimp"
+  },
+  "entity.alexsmobs.mantis_shrimp.command_3": {
+    "en": "%s is breaking blocks",
+    "zh": "%s 正在破坏方块",
+    "vi": "%s is breaking blocks"
+  },
+  "entity.alexsmobs.guster": {
+    "en": "Guster",
+    "zh": "沙风怪",
+    "vi": "Guster"
+  },
+  "entity.alexsmobs.sand_shot": {
+    "en": "Thrown Sand",
+    "zh": "射出的沙子",
+    "vi": "Thrown Sand"
+  },
+  "entity.alexsmobs.gust": {
+    "en": "Gust",
+    "zh": "沙风",
+    "vi": "Gust"
+  },
+  "entity.alexsmobs.warped_mosco": {
+    "en": "Warped Mosco",
+    "zh": "诡异蚊鬼",
+    "vi": "Warped Mosco"
+  },
+  "entity.alexsmobs.hemolymph": {
+    "en": "Hemolymph",
+    "zh": "血淋巴",
+    "vi": "Hemolymph"
+  },
+  "entity.alexsmobs.straddler": {
+    "en": "Straddler",
+    "zh": "跨座兽",
+    "vi": "Straddler"
+  },
+  "entity.alexsmobs.stradpole": {
+    "en": "Stradpole",
+    "zh": "跨座蝌蚪",
+    "vi": "Stradpole"
+  },
+  "entity.alexsmobs.straddleboard": {
+    "en": "Straddleboard",
+    "zh": "跨板",
+    "vi": "Straddleboard"
+  },
+  "entity.alexsmobs.emu": {
+    "en": "Emu",
+    "zh": "鸸鹋",
+    "vi": "Emu"
+  },
+  "entity.alexsmobs.platypus": {
+    "en": "Platypus",
+    "zh": "鸭嘴兽",
+    "vi": "Platypus"
+  },
+  "entity.alexsmobs.dropbear": {
+    "en": "Dropbear",
+    "zh": "悬熊",
+    "vi": "Dropbear"
+  },
+  "entity.alexsmobs.tasmanian_devil": {
+    "en": "Tasmanian Devil",
+    "zh": "袋獾",
+    "vi": "Tasmanian Devil"
+  },
+  "entity.alexsmobs.kangaroo": {
+    "en": "Kangaroo",
+    "zh": "袋鼠",
+    "vi": "Kangaroo"
+  },
+  "entity.alexsmobs.kangaroo.pouch": {
+    "en": "Kangaroo's Pouch",
+    "zh": "袋鼠的育儿袋",
+    "vi": "Kangaroo's Pouch"
+  },
+  "entity.alexsmobs.cachalot_whale": {
+    "en": "Cachalot Whale",
+    "zh": "抹香鲸",
+    "vi": "Cachalot Whale"
+  },
+  "entity.alexsmobs.cachalot_part": {
+    "en": "Cachalot Whale",
+    "zh": "抹香鲸",
+    "vi": "Cachalot Whale"
+  },
+  "entity.alexsmobs.cachalot_echo": {
+    "en": "Whale Echo",
+    "zh": "鲸鱼回声",
+    "vi": "Whale Echo"
+  },
+  "entity.alexsmobs.leafcutter_ant": {
+    "en": "Leafcutter Ant",
+    "zh": "切叶蚁",
+    "vi": "Leafcutter Ant"
+  },
+  "entity.alexsmobs.enderiophage": {
+    "en": "Enderiophage",
+    "zh": "末影噬菌体",
+    "vi": "Enderiophage"
+  },
+  "entity.alexsmobs.enderiophage_rocket": {
+    "en": "Enderiophage Rocket",
+    "zh": "末影噬菌体火箭",
+    "vi": "Enderiophage Rocket"
+  },
+  "entity.alexsmobs.bald_eagle": {
+    "en": "Bald Eagle",
+    "zh": "白头海雕",
+    "vi": "Bald Eagle"
+  },
+  "entity.alexsmobs.tiger": {
+    "en": "Tiger",
+    "zh": "老虎",
+    "vi": "Tiger"
+  },
+  "entity.alexsmobs.tarantula_hawk": {
+    "en": "Tarantula Hawk",
+    "zh": "沙漠蛛蜂",
+    "vi": "Tarantula Hawk"
+  },
+  "entity.alexsmobs.void_worm": {
+    "en": "Void Worm",
+    "zh": "虚空蠕虫",
+    "vi": "Void Worm"
+  },
+  "entity.alexsmobs.void_worm_part": {
+    "en": "Void Worm",
+    "zh": "虚空蠕虫",
+    "vi": "Void Worm"
+  },
+  "entity.alexsmobs.void_worm_shot": {
+    "en": "Void Crystal",
+    "zh": "虚空水晶",
+    "vi": "Void Crystal"
+  },
+  "entity.alexsmobs.void_portal": {
+    "en": "Void Portal",
+    "zh": "虚空传送门",
+    "vi": "Void Portal"
+  },
+  "entity.alexsmobs.frilled_shark": {
+    "en": "Frilled Shark",
+    "zh": "皱鳃鲨",
+    "vi": "Frilled Shark"
+  },
+  "entity.alexsmobs.mimic_octopus": {
+    "en": "Mimic Octopus",
+    "zh": "拟态章鱼",
+    "vi": "Mimic Octopus"
+  },
+  "entity.alexsmobs.seagull": {
+    "en": "Seagull",
+    "zh": "海鸥",
+    "vi": "Seagull"
+  },
+  "entity.alexsmobs.froststalker": {
+    "en": "Froststalker",
+    "zh": "寒霜潜伏者",
+    "vi": "Froststalker"
+  },
+  "entity.alexsmobs.tusklin": {
+    "en": "Tusklin",
+    "zh": "獠牙兽",
+    "vi": "Tusklin"
+  },
+  "entity.alexsmobs.laviathan": {
+    "en": "Laviathan",
+    "zh": "炽岩",
+    "vi": "Laviathan"
+  },
+  "entity.alexsmobs.cosmaw": {
+    "en": "Cosmaw",
+    "zh": "宙游鲟",
+    "vi": "Cosmaw"
+  },
+  "entity.alexsmobs.toucan": {
+    "en": "Toucan",
+    "zh": "巨嘴鸟",
+    "vi": "Toucan"
+  },
+  "entity.alexsmobs.maned_wolf": {
+    "en": "Maned Wolf",
+    "zh": "鬃狼",
+    "vi": "Maned Wolf"
+  },
+  "entity.alexsmobs.anaconda": {
+    "en": "Anaconda",
+    "zh": "森蚺",
+    "vi": "Anaconda"
+  },
+  "entity.alexsmobs.anaconda_part": {
+    "en": "Anaconda",
+    "zh": "森蚺",
+    "vi": "Anaconda"
+  },
+  "entity.alexsmobs.vine_lasso": {
+    "en": "Vine Lasso",
+    "zh": "藤蔓套索",
+    "vi": "Vine Lasso"
+  },
+  "entity.alexsmobs.anteater": {
+    "en": "Anteater",
+    "zh": "食蚁兽",
+    "vi": "Anteater"
+  },
+  "entity.alexsmobs.rocky_roller": {
+    "en": "Rocky Roller",
+    "zh": "岩磙兽",
+    "vi": "Rocky Roller"
+  },
+  "entity.alexsmobs.flutter": {
+    "en": "Flutter",
+    "zh": "花飘飘",
+    "vi": "Flutter"
+  },
+  "entity.alexsmobs.pollen_ball": {
+    "en": "Pollen Ball",
+    "zh": "花粉球",
+    "vi": "Pollen Ball"
+  },
+  "entity.alexsmobs.gelada_monkey": {
+    "en": "Gelada Monkey",
+    "zh": "狮尾狒狒",
+    "vi": "Gelada Monkey"
+  },
+  "entity.alexsmobs.jerboa": {
+    "en": "Jerboa",
+    "zh": "跳鼠",
+    "vi": "Jerboa"
+  },
+  "entity.alexsmobs.terrapin": {
+    "en": "Terrapin",
+    "zh": "水龟",
+    "vi": "Terrapin"
+  },
+  "entity.alexsmobs.terrapin.variant_green": {
+    "en": "Green Terrapin",
+    "zh": "绿色水龟",
+    "vi": "Green Terrapin"
+  },
+  "entity.alexsmobs.terrapin.variant_black": {
+    "en": "Black Terrapin",
+    "zh": "黑色水龟",
+    "vi": "Black Terrapin"
+  },
+  "entity.alexsmobs.terrapin.variant_brown": {
+    "en": "Brown Terrapin",
+    "zh": "棕色水龟",
+    "vi": "Brown Terrapin"
+  },
+  "entity.alexsmobs.terrapin.variant_painted": {
+    "en": "Painted Batagur",
+    "zh": "咸水龟",
+    "vi": "Painted Batagur"
+  },
+  "entity.alexsmobs.terrapin.variant_red_eared": {
+    "en": "Red Eared Slider",
+    "zh": "红耳龟",
+    "vi": "Red Eared Slider"
+  },
+  "entity.alexsmobs.terrapin.variant_overlay": {
+    "en": "Unique Terrapin",
+    "zh": "独特水龟",
+    "vi": "Unique Terrapin"
+  },
+  "entity.alexsmobs.terrapin.variant_koopa": {
+    "en": "Koopa",
+    "zh": "凯库龟",
+    "vi": "Koopa"
+  },
+  "entity.alexsmobs.comb_jelly": {
+    "en": "Comb Jelly",
+    "zh": "栉水母",
+    "vi": "Comb Jelly"
+  },
+  "entity.alexsmobs.comb_jelly.variant_0": {
+    "en": "Blue Comb Jelly",
+    "zh": "蓝色栉水母",
+    "vi": "Blue Comb Jelly"
+  },
+  "entity.alexsmobs.comb_jelly.variant_1": {
+    "en": "Green Comb Jelly",
+    "zh": "绿色栉水母",
+    "vi": "Green Comb Jelly"
+  },
+  "entity.alexsmobs.comb_jelly.variant_2": {
+    "en": "Red Comb Jelly",
+    "zh": "红色栉水母",
+    "vi": "Red Comb Jelly"
+  },
+  "entity.alexsmobs.cosmic_cod": {
+    "en": "Cosmic Cod",
+    "zh": "宇宙鳕鱼",
+    "vi": "Cosmic Cod"
+  },
+  "entity.alexsmobs.bunfungus": {
+    "en": "Bunfungus",
+    "zh": "蘑菇兔",
+    "vi": "Bunfungus"
+  },
+  "entity.alexsmobs.bison": {
+    "en": "Bison",
+    "zh": "野牛",
+    "vi": "Bison"
+  },
+  "entity.alexsmobs.giant_squid": {
+    "en": "Giant Squid",
+    "zh": "大王乌贼",
+    "vi": "Giant Squid"
+  },
+  "entity.alexsmobs.giant_squid_part": {
+    "en": "Giant Squid",
+    "zh": "大王乌贼",
+    "vi": "Giant Squid"
+  },
+  "entity.alexsmobs.squid_grapple": {
+    "en": "Tentacle",
+    "zh": "触手",
+    "vi": "Tentacle"
+  },
+  "entity.alexsmobs.sea_bear": {
+    "en": "Sea Bear",
+    "zh": "海熊",
+    "vi": "Sea Bear"
+  },
+  "entity.alexsmobs.devils_hole_pupfish": {
+    "en": "Devil's Hole Pupfish",
+    "zh": "魔鳉",
+    "vi": "Devil's Hole Pupfish"
+  },
+  "entity.alexsmobs.catfish": {
+    "en": "Catfish",
+    "zh": "鲶鱼",
+    "vi": "Catfish"
+  },
+  "entity.alexsmobs.flying_fish": {
+    "en": "Flying Fish",
+    "zh": "飞鱼",
+    "vi": "Flying Fish"
+  },
+  "entity.alexsmobs.skelewag": {
+    "en": "Skelewag",
+    "zh": "骷髅剑鱼",
+    "vi": "Skelewag"
+  },
+  "entity.alexsmobs.rain_frog": {
+    "en": "Rain Frog",
+    "zh": "雨蛙",
+    "vi": "Rain Frog"
+  },
+  "entity.alexsmobs.potoo": {
+    "en": "Potoo",
+    "zh": "林鸱",
+    "vi": "Potoo"
+  },
+  "entity.alexsmobs.mudskipper": {
+    "en": "Mudskipper",
+    "zh": "弹涂鱼",
+    "vi": "Mudskipper"
+  },
+  "entity.alexsmobs.mud_ball": {
+    "en": "Mud Ball",
+    "zh": "泥球",
+    "vi": "Mud Ball"
+  },
+  "entity.alexsmobs.rhinoceros": {
+    "en": "Rhinoceros",
+    "zh": "犀牛",
+    "vi": "Rhinoceros"
+  },
+  "entity.alexsmobs.sugar_glider": {
+    "en": "Sugar Glider",
+    "zh": "蜜袋鼯",
+    "vi": "Sugar Glider"
+  },
+  "entity.alexsmobs.farseer": {
+    "en": "Farseer",
+    "zh": "瞻远者",
+    "vi": "Farseer"
+  },
+  "entity.alexsmobs.skreecher": {
+    "en": "Skreecher",
+    "zh": "贱叫怪",
+    "vi": "Skreecher"
+  },
+  "entity.alexsmobs.underminer": {
+    "en": "Underminer",
+    "zh": "地底矿工",
+    "vi": "Underminer"
+  },
+  "entity.alexsmobs.murmur": {
+    "en": "Murmur",
+    "zh": "轻语灵",
+    "vi": "Murmur"
+  },
+  "entity.alexsmobs.murmur_head": {
+    "en": "Murmur",
+    "zh": "轻语灵的头",
+    "vi": "Murmur"
+  },
+  "entity.alexsmobs.tendon_segment": {
+    "en": "Tendon",
+    "zh": "筋腱",
+    "vi": "Tendon"
+  },
+  "entity.alexsmobs.skunk": {
+    "en": "Skunk",
+    "zh": "臭鼬",
+    "vi": "Skunk"
+  },
+  "entity.alexsmobs.fart": {
+    "en": "Fart Cloud",
+    "zh": "臭屁云",
+    "vi": "Fart Cloud"
+  },
+  "entity.alexsmobs.banana_slug": {
+    "en": "Banana Slug",
+    "zh": "香蕉蛞蝓",
+    "vi": "Banana Slug"
+  },
+  "entity.alexsmobs.blue_jay": {
+    "en": "Blue Jay",
+    "zh": "冠蓝鸦",
+    "vi": "Blue Jay"
+  },
+  "entity.alexsmobs.caiman": {
+    "en": "Caiman",
+    "zh": "凯门鳄",
+    "vi": "Caiman"
+  },
+  "entity.alexsmobs.triops": {
+    "en": "Triops",
+    "zh": "鲎虫",
+    "vi": "Triops"
+  },
+  "entity.alexsmobs.dragons_breath_cannonball": {
+    "en": null,
+    "zh": "龙息弹",
+    "vi": "Bom hơi thở rồng"
+  },
+  "entity.alexsmobs.end_pirate_rigging": {
+    "en": null,
+    "zh": "End Pirate Rigging",
+    "vi": "End Pirate Rigging"
+  },
+  "alexsmobs.sound.subtitle.grizzly_bear_idle": {
+    "en": "Grizzly Bear growls",
+    "zh": "灰熊：低吼",
+    "vi": "Gấu xám: gầm gừ"
+  },
+  "alexsmobs.sound.subtitle.grizzly_bear_hurt": {
+    "en": "Grizzly Bear roars",
+    "zh": "灰熊：咆哮",
+    "vi": "Gấu Xám: Gầm gừ"
+  },
+  "alexsmobs.sound.subtitle.grizzly_bear_die": {
+    "en": "Grizzly Bear whimpers",
+    "zh": "灰熊：呜咽",
+    "vi": "Gấu Xám: Thút thít"
+  },
+  "alexsmobs.sound.subtitle.roadrunner_idle": {
+    "en": "Roadrunner chirps",
+    "zh": "走鹃：啾啾",
+    "vi": "Roadrunner: Chirp"
+  },
+  "alexsmobs.sound.subtitle.roadrunner_hurt": {
+    "en": "Roadrunner squeaks",
+    "zh": "走鹃：尖叫",
+    "vi": "Roadrunner: Hét lên"
+  },
+  "alexsmobs.sound.subtitle.roadrunner_meep": {
+    "en": "Roadrunner meeps",
+    "zh": "走鹃：吱吱",
+    "vi": "Người chạy đường: rít lên"
+  },
+  "alexsmobs.sound.subtitle.gazelle_hurt": {
+    "en": "Gazelle squeaks",
+    "zh": "瞪羚：尖叫",
+    "vi": "Linh dương: Hét lên"
+  },
+  "alexsmobs.sound.subtitle.crocodile_idle": {
+    "en": "Crocodile hisses",
+    "zh": "鳄鱼：嘶嘶声",
+    "vi": "Cá sấu: Rít"
+  },
+  "alexsmobs.sound.subtitle.crocodile_hurt": {
+    "en": "Crocodile hisses aggressively",
+    "zh": "鳄鱼：怒吼",
+    "vi": "Cá sấu: Gầm gừ"
+  },
+  "alexsmobs.sound.subtitle.crocodile_bite": {
+    "en": "Crocodile chomps",
+    "zh": "鳄鱼：切齿",
+    "vi": "Cá sấu: cắt răng"
+  },
+  "alexsmobs.sound.subtitle.crocodile_baby": {
+    "en": "Baby Crocodile squeaks",
+    "zh": "幼年鳄鱼：吱吱声",
+    "vi": "Cá sấu con: kêu ré lên"
+  },
+  "alexsmobs.sound.subtitle.fly_idle": {
+    "en": "Fly buzzes",
+    "zh": "苍蝇：嗡嗡声",
+    "vi": "ruồi: vo ve"
+  },
+  "alexsmobs.sound.subtitle.fly_hurt": {
+    "en": "Fly zips",
+    "zh": "苍蝇：疾飞",
+    "vi": "Fly: bay nhanh"
+  },
+  "alexsmobs.sound.subtitle.hummingbird_idle": {
+    "en": "Hummingbird chirps",
+    "zh": "蜂鸟：啾啾声",
+    "vi": "Chim ruồi: hót líu lo"
+  },
+  "alexsmobs.sound.subtitle.hummingbird_hurt": {
+    "en": "Hummingbird squeaks",
+    "zh": "蜂鸟：尖叫",
+    "vi": "Chim ruồi: hét lên"
+  },
+  "alexsmobs.sound.subtitle.hummingbird_loop": {
+    "en": "Hummingbird hums",
+    "zh": "蜂鸟：哼哼声",
+    "vi": "Chim ruồi: vo ve"
+  },
+  "alexsmobs.sound.subtitle.orca_idle": {
+    "en": "Orca whistles",
+    "zh": "虎鲸：呼啸",
+    "vi": "Cá voi sát thủ: Gầm gừ"
+  },
+  "alexsmobs.sound.subtitle.orca_hurt": {
+    "en": "Orca whoops",
+    "zh": "虎鲸：吼叫",
+    "vi": "Cá voi sát thủ: Gầm gừ"
+  },
+  "alexsmobs.sound.subtitle.orca_die": {
+    "en": "Orca dies",
+    "zh": "虎鲸：死亡",
+    "vi": "Cá voi sát thủ: Cái chết"
+  },
+  "alexsmobs.sound.subtitle.gorilla_idle": {
+    "en": "Gorilla grumbles",
+    "zh": "大猩猩：嘟囔声",
+    "vi": "Khỉ đột: càu nhàu"
+  },
+  "alexsmobs.sound.subtitle.gorilla_hurt": {
+    "en": "Gorilla roars",
+    "zh": "大猩猩：咆哮",
+    "vi": "Khỉ đột: Gầm gừ"
+  },
+  "alexsmobs.sound.subtitle.mosquito_loop": {
+    "en": "Crimson Mosquito buzzes",
+    "zh": "绯红蚊子：嗡嗡声",
+    "vi": "Muỗi đỏ thẫm: Buzz"
+  },
+  "alexsmobs.sound.subtitle.mosquito_hurt": {
+    "en": "Crimson Mosquito buzzes in pain",
+    "zh": "绯红蚊子：受伤",
+    "vi": "Muỗi đỏ thẫm: Bị thương"
+  },
+  "alexsmobs.sound.subtitle.mosquito_die": {
+    "en": "Crimson Mosquito dies",
+    "zh": "绯红蚊子：死亡",
+    "vi": "Muỗi đỏ thẫm: Cái chết"
+  },
+  "alexsmobs.sound.subtitle.rattlesnake_loop": {
+    "en": "Rattlesnake rattles",
+    "zh": "响尾蛇：响尾声",
+    "vi": "rắn đuôi chuông: tiếng kêu"
+  },
+  "alexsmobs.sound.subtitle.rattlesnake_hurt": {
+    "en": "Rattlesnake hisses",
+    "zh": "响尾蛇：嘶嘶声",
+    "vi": "Rắn đuôi chuông: tiếng rít"
+  },
+  "alexsmobs.sound.subtitle.rattlesnake_attack": {
+    "en": "Rattlesnake bites",
+    "zh": "响尾蛇：撕咬",
+    "vi": "Rắn đuôi chuông: cắn"
+  },
+  "alexsmobs.sound.subtitle.endergrade_hurt": {
+    "en": "Endergrade whimpers",
+    "zh": "末影缓步兽：呜咽",
+    "vi": "Ender Tardigrade: Rên rỉ"
+  },
+  "alexsmobs.sound.subtitle.lobster_hurt": {
+    "en": "Lobster shell cracks",
+    "zh": "龙虾壳：破碎",
+    "vi": "Vỏ tôm hùm: Vỡ"
+  },
+  "alexsmobs.sound.subtitle.lobster_attack": {
+    "en": "Lobster pinches",
+    "zh": "龙虾：掐夹",
+    "vi": "Tôm hùm: nhúm"
+  },
+  "alexsmobs.sound.subtitle.komodo_dragon_idle": {
+    "en": "Komodo Dragon hisses",
+    "zh": "科莫多巨蜥：嘶嘶声",
+    "vi": "Rồng Komodo: Tiếng rít"
+  },
+  "alexsmobs.sound.subtitle.komodo_dragon_hurt": {
+    "en": "Komodo Dragon hisses agressively",
+    "zh": "科莫多巨蜥：怒吼",
+    "vi": "Rồng Komodo: Gầm gừ"
+  },
+  "alexsmobs.sound.subtitle.capuchin_monkey_idle": {
+    "en": "Capuchin Monkey squeaks",
+    "zh": "卷尾猴：吱吱叫",
+    "vi": "Khỉ Capuchin: kêu rít"
+  },
+  "alexsmobs.sound.subtitle.capuchin_monkey_hurt": {
+    "en": "Capuchin Monkey winces",
+    "zh": "卷尾猴：龇牙咧嘴",
+    "vi": "Khỉ Capuchin: nhe răng"
+  },
+  "alexsmobs.sound.subtitle.sunbird_idle": {
+    "en": "Sunbird cries",
+    "zh": "曦鹤：鸣叫",
+    "vi": "Tây Hà: Tweet"
+  },
+  "alexsmobs.sound.subtitle.bone_serpent_idle": {
+    "en": "Bone Serpent roars",
+    "zh": "骨蟒：怒吼",
+    "vi": "Trăn xương: Gầm gừ"
+  },
+  "alexsmobs.sound.subtitle.bone_serpent_hurt": {
+    "en": "Bone Serpent hisses",
+    "zh": "骨蟒：嘶嘶声",
+    "vi": "Trăn xương: rít lên"
+  },
+  "alexsmobs.sound.subtitle.centipede_walk": {
+    "en": "Cave Centipede crawls",
+    "zh": "洞穴蜈蚣：爬行",
+    "vi": "Hang Rết: Bò"
+  },
+  "alexsmobs.sound.subtitle.centipede_hurt": {
+    "en": "Cave Centipede's carapace cracks",
+    "zh": "洞穴蜈蚣：受伤",
+    "vi": "Rết hang: Bị thương"
+  },
+  "alexsmobs.sound.subtitle.centipede_attack": {
+    "en": "Cave Centipede bites",
+    "zh": "洞穴蜈蚣：撕咬",
+    "vi": "Rết hang: Cắn"
+  },
+  "alexsmobs.sound.subtitle.warped_toad_idle": {
+    "en": "Warped Toad ribbits",
+    "zh": "诡异蟾蜍：叫声",
+    "vi": "Con cóc lạ: Khóc"
+  },
+  "alexsmobs.sound.subtitle.warped_toad_hurt": {
+    "en": "Warped Toad hisses",
+    "zh": "诡异蟾蜍：嘶嘶声",
+    "vi": "Con cóc kỳ lạ: Rít"
+  },
+  "alexsmobs.sound.subtitle.moose_idle": {
+    "en": "Moose moans",
+    "zh": "驼鹿：萧萧声",
+    "vi": "Nai sừng tấm: Tiểu Tiểu Sinh"
+  },
+  "alexsmobs.sound.subtitle.moose_hurt": {
+    "en": "Moose whines",
+    "zh": "驼鹿：惨叫",
+    "vi": "Nai: hét lên"
+  },
+  "alexsmobs.sound.subtitle.moose_jostle": {
+    "en": "Moose antler grinds",
+    "zh": "驼鹿角：破碎",
+    "vi": "Gạc Nai: Tan vỡ"
+  },
+  "alexsmobs.sound.subtitle.raccoon_idle": {
+    "en": "Raccoon coos",
+    "zh": "浣熊：咕噜声",
+    "vi": "Gấu trúc: gừ gừ"
+  },
+  "alexsmobs.sound.subtitle.raccoon_hurt": {
+    "en": "Raccoon screeches",
+    "zh": "浣熊：尖叫",
+    "vi": "Gấu: hét lên"
+  },
+  "alexsmobs.sound.subtitle.mimicube_jump": {
+    "en": "Mimicube Jumps",
+    "zh": "复刻怪：跳跃",
+    "vi": "Bản sao quái vật: Nhảy"
+  },
+  "alexsmobs.sound.subtitle.mimicube_hurt": {
+    "en": "Mimicube shifts",
+    "zh": "复刻怪：移动",
+    "vi": "Bản sao quái vật: Di chuyển"
+  },
+  "alexsmobs.sound.subtitle.la_cucaracha": {
+    "en": "¡La Cucaracha!",
+    "zh": "¡La Cucaracha!",
+    "vi": "¡La Cucaracha!"
+  },
+  "alexsmobs.sound.subtitle.maraca": {
+    "en": "Maraca rattles",
+    "zh": "沙槌：沙沙声",
+    "vi": "Maracas: âm thanh xào xạc"
+  },
+  "alexsmobs.sound.subtitle.seal_idle": {
+    "en": "Seal honks",
+    "zh": "海豹：吼吼声",
+    "vi": "Con dấu: gầm lên"
+  },
+  "alexsmobs.sound.subtitle.seal_hurt": {
+    "en": "Seal squeaks",
+    "zh": "海豹：尖叫",
+    "vi": "con dấu: hét lên"
+  },
+  "alexsmobs.sound.subtitle.cockroach_hurt": {
+    "en": "Cockroach buzz",
+    "zh": "蟑螂：吱吱声",
+    "vi": "Gián: kêu rít"
+  },
+  "alexsmobs.sound.subtitle.shoebill_hurt": {
+    "en": "Shoebill rattles",
+    "zh": "鲸头鹳：嘎嘎叫",
+    "vi": "Shoebill: quạc quạc"
+  },
+  "alexsmobs.sound.subtitle.elephant_idle": {
+    "en": "Elephant bellows",
+    "zh": "大象：吼叫",
+    "vi": "Voi: Gầm"
+  },
+  "alexsmobs.sound.subtitle.elephant_hurt": {
+    "en": "Elephant whines",
+    "zh": "大象：尖叫",
+    "vi": "Voi: hét lên"
+  },
+  "alexsmobs.sound.subtitle.elephant_die": {
+    "en": "Elephant screams",
+    "zh": "大象：哀鸣",
+    "vi": "Voi: rên rỉ"
+  },
+  "alexsmobs.sound.subtitle.elephant_trumpet": {
+    "en": "Elephant trumpets",
+    "zh": "大象：哞哞叫",
+    "vi": "Voi: moo"
+  },
+  "alexsmobs.sound.subtitle.elephant_walk": {
+    "en": "stomps",
+    "zh": "大象：大步走",
+    "vi": "Voi: sải bước"
+  },
+  "alexsmobs.sound.subtitle.soul_vulture_idle": {
+    "en": "Soul Vulture rasps",
+    "zh": "灵魂鹫：唳声",
+    "vi": "Kền Kền Linh Hồn: Chirp"
+  },
+  "alexsmobs.sound.subtitle.soul_vulture_hurt": {
+    "en": "Soul Vulture screeches",
+    "zh": "灵魂鹫：尖叫",
+    "vi": "Kền Kền Linh Hồn: Hét lên"
+  },
+  "alexsmobs.sound.subtitle.snow_leopard_idle": {
+    "en": "Snow Leopard meows",
+    "zh": "雪豹：嗷呜",
+    "vi": "Báo Tuyết: Ối"
+  },
+  "alexsmobs.sound.subtitle.snow_leopard_hurt": {
+    "en": "Snow Leopard hisses",
+    "zh": "雪豹：怒吼",
+    "vi": "Báo tuyết: Gầm gừ"
+  },
+  "alexsmobs.sound.subtitle.spectre_idle": {
+    "en": "Spectre howls",
+    "zh": "灵翼：嚎叫",
+    "vi": "Netherwing: Tiếng hú"
+  },
+  "alexsmobs.sound.subtitle.spectre_hurt": {
+    "en": "Spectre screeches",
+    "zh": "灵翼：尖叫",
+    "vi": "Netherwing: Hét lên"
+  },
+  "alexsmobs.sound.subtitle.crow_idle": {
+    "en": "Crow caws",
+    "zh": "乌鸦：哇哇叫",
+    "vi": "Quạ: kêu rền rĩ"
+  },
+  "alexsmobs.sound.subtitle.crow_hurt": {
+    "en": "Crow screeches",
+    "zh": "乌鸦：尖叫",
+    "vi": "quạ: hét lên"
+  },
+  "alexsmobs.sound.subtitle.alligator_snapping_turtle_idle": {
+    "en": "Alligator Snapping Turtle hisses",
+    "zh": "大鳄龟：嘶嘶声",
+    "vi": "Rùa bắt: Rít lên"
+  },
+  "alexsmobs.sound.subtitle.alligator_snapping_turtle_hurt": {
+    "en": "Alligator Snapping Turtle winces",
+    "zh": "大鳄龟：龇牙咧嘴",
+    "vi": "Rùa búng: Nhe răng"
+  },
+  "alexsmobs.sound.subtitle.mungus_idle": {
+    "en": "Mungus chortles",
+    "zh": "蘑菇君：低鸣",
+    "vi": "Ông Nấm: Thì Thầm"
+  },
+  "alexsmobs.sound.subtitle.mungus_hurt": {
+    "en": "Mungus wheezes",
+    "zh": "蘑菇君：喘息",
+    "vi": "Ông Nấm: thở hổn hển"
+  },
+  "alexsmobs.sound.subtitle.mungus_laser_loop": {
+    "en": "Mungus beam pews",
+    "zh": "蘑菇君：射击",
+    "vi": "Ông Nấm: Bắn súng"
+  },
+  "alexsmobs.sound.subtitle.mungus_laser_end": {
+    "en": "Mungus beam pops",
+    "zh": "蘑菇君：射击结束",
+    "vi": "Ông Nấm: Buổi chụp ảnh đã kết thúc"
+  },
+  "alexsmobs.sound.subtitle.mantis_shrimp_hurt": {
+    "en": "Mantis Shrimp cracks",
+    "zh": "螳螂虾：裂开",
+    "vi": "Tôm tích: Tách đôi"
+  },
+  "alexsmobs.sound.subtitle.mantis_shrimp_snap": {
+    "en": "Mantis Shrimp snaps",
+    "zh": "螳螂虾：咬住",
+    "vi": "Tôm tích: Cắn"
+  },
+  "alexsmobs.sound.subtitle.guster_idle": {
+    "en": "Guster whooshes",
+    "zh": "沙风怪：呼呼吹",
+    "vi": "Quái vật bão cát: Huhuchui"
+  },
+  "alexsmobs.sound.subtitle.guster_hurt": {
+    "en": "Guster swooshes",
+    "zh": "沙风怪：嗖嗖声",
+    "vi": "Quái vật bão cát: Âm thanh vù vù"
+  },
+  "alexsmobs.sound.subtitle.warped_mosco_idle": {
+    "en": "Warped Mosco thumps",
+    "zh": "诡异蚊鬼：碰撞声",
+    "vi": "Ma Muỗi Kỳ Lạ: Âm Thanh Va Chạm"
+  },
+  "alexsmobs.sound.subtitle.warped_mosco_hurt": {
+    "en": "Warped Mosco buzzes",
+    "zh": "诡异蚊鬼：嗡嗡声",
+    "vi": "Ma muỗi kỳ lạ: Âm thanh vo ve"
+  },
+  "alexsmobs.sound.subtitle.straddler_idle": {
+    "en": "Straddler growls",
+    "zh": "跨座兽：咆哮",
+    "vi": "Quái thú dang chân: Gầm gừ"
+  },
+  "alexsmobs.sound.subtitle.straddler_hurt": {
+    "en": "Straddler screeches",
+    "zh": "跨座兽：尖叫",
+    "vi": "Quái vật dang chân: Hét lên"
+  },
+  "alexsmobs.sound.subtitle.emu_idle": {
+    "en": "Emu thumps",
+    "zh": "鸸鹋：跳动",
+    "vi": "Emu: nhảy"
+  },
+  "alexsmobs.sound.subtitle.emu_hurt": {
+    "en": "Emu screeches",
+    "zh": "鸸鹋：尖叫",
+    "vi": "emu: hét lên"
+  },
+  "alexsmobs.sound.subtitle.platypus_idle": {
+    "en": "Platypus squeaks",
+    "zh": "鸭嘴兽：吱吱声",
+    "vi": "Thú mỏ vịt: kêu rít"
+  },
+  "alexsmobs.sound.subtitle.platypus_hurt": {
+    "en": "Platypus growls",
+    "zh": "鸭嘴兽：低吼",
+    "vi": "Thú mỏ vịt: gầm gừ"
+  },
+  "alexsmobs.sound.subtitle.dropbear_idle": {
+    "en": "Dropbear wheezes",
+    "zh": "悬熊：喘息",
+    "vi": "Gấu treo: thở hổn hển"
+  },
+  "alexsmobs.sound.subtitle.dropbear_hurt": {
+    "en": "Dropbear screams",
+    "zh": "悬熊：尖叫",
+    "vi": "Gấu treo: Hét lên"
+  },
+  "alexsmobs.sound.subtitle.tasmanian_devil_idle": {
+    "en": "Tasmanian Devil growls",
+    "zh": "袋獾：低吼",
+    "vi": "Quỷ Tasmania: Gầm gừ"
+  },
+  "alexsmobs.sound.subtitle.tasmanian_devil_hurt": {
+    "en": "Tasmanian Devil hisses",
+    "zh": "袋獾：嘶嘶声",
+    "vi": "Quỷ Tasmania: Tiếng rít"
+  },
+  "alexsmobs.sound.subtitle.tasmanian_devil_roar": {
+    "en": "Tasmanian Devil screams",
+    "zh": "袋獾：尖叫",
+    "vi": "Quỷ Tasmania: Hét lên"
+  },
+  "alexsmobs.sound.subtitle.kangaroo_idle": {
+    "en": "Kangaroo coughs",
+    "zh": "袋鼠：咳声",
+    "vi": "Kangaroo: Ho"
+  },
+  "alexsmobs.sound.subtitle.kangaroo_hurt": {
+    "en": "Kangaroo cries",
+    "zh": "袋鼠：哭泣",
+    "vi": "Kangaroo: khóc"
+  },
+  "alexsmobs.sound.subtitle.cachalot_whale_idle": {
+    "en": "Cachalot Whale clicks",
+    "zh": "抹香鲸：咔嚓声",
+    "vi": "Cá nhà táng: bấm vào"
+  },
+  "alexsmobs.sound.subtitle.cachalot_whale_hurt": {
+    "en": "Cachalot Whale cries",
+    "zh": "抹香鲸：哭泣",
+    "vi": "Cá nhà táng: khóc"
+  },
+  "alexsmobs.sound.subtitle.cachalot_whale_click": {
+    "en": "Cachalot Whale echolocates",
+    "zh": "抹香鲸：回声",
+    "vi": "Cá nhà táng: Echo"
+  },
+  "alexsmobs.sound.subtitle.leafcutter_ant_hurt": {
+    "en": "Leafcutter Ant squishes",
+    "zh": "切叶蚁：吧唧声",
+    "vi": "Kiến cắt lá: kêu ríu rít"
+  },
+  "alexsmobs.sound.subtitle.leafcutter_ant_queen_hurt": {
+    "en": "Queen Leafcutter Ant cries",
+    "zh": "切叶蚁后：哭泣",
+    "vi": "Kiến chúa cắt lá: Khóc"
+  },
+  "alexsmobs.sound.subtitle.enderiophage_hurt": {
+    "en": "Enderiophage screeches",
+    "zh": "末影噬菌体：尖叫声",
+    "vi": "Ender Phage: Hét lên"
+  },
+  "alexsmobs.sound.subtitle.enderiophage_walk": {
+    "en": "Enderiophage walks",
+    "zh": "末影噬菌体：漫步",
+    "vi": "Ender Phage: Lang thang"
+  },
+  "alexsmobs.sound.subtitle.enderiophage_squish": {
+    "en": "Enderiophage rockets",
+    "zh": "末影噬菌体：发射",
+    "vi": "Ender Phage: Khởi động"
+  },
+  "alexsmobs.sound.subtitle.bald_eagle_idle": {
+    "en": "Bald Eagle screeches",
+    "zh": "白头海雕：嚎叫",
+    "vi": "Đại Bàng Hói: Hú"
+  },
+  "alexsmobs.sound.subtitle.bald_eagle_hurt": {
+    "en": "Bald Eagle cries",
+    "zh": "白头海雕：尖叫",
+    "vi": "Đại Bàng Hói: Hét lên"
+  },
+  "alexsmobs.sound.subtitle.tiger_idle": {
+    "en": "Tiger growls",
+    "zh": "老虎：咆哮",
+    "vi": "Hổ: Gầm gừ"
+  },
+  "alexsmobs.sound.subtitle.tiger_hurt": {
+    "en": "Tiger groans",
+    "zh": "老虎：哼哼",
+    "vi": "Hổ: Hừm"
+  },
+  "alexsmobs.sound.subtitle.tiger_angry": {
+    "en": "Tiger roars",
+    "zh": "老虎：怒吼",
+    "vi": "Hổ: Gầm gừ"
+  },
+  "alexsmobs.sound.subtitle.tarantula_hawk_wing": {
+    "en": "Tarantula Hawk buzzes",
+    "zh": "沙漠蛛蜂：嗡嗡声",
+    "vi": "Ong bắp cày sa mạc: Buzz"
+  },
+  "alexsmobs.sound.subtitle.tarantula_hawk_hurt": {
+    "en": "Tarantula Hawk hisses",
+    "zh": "沙漠蛛蜂：嘶嘶声",
+    "vi": "Ong nhện sa mạc: Hiss"
+  },
+  "alexsmobs.sound.subtitle.music_disc.thime": {
+    "en": "Thime",
+    "zh": "Thime",
+    "vi": "Thime"
+  },
+  "alexsmobs.sound.subtitle.music_disc.wormboss": {
+    "en": "Wormboss",
+    "zh": "Wormboss",
+    "vi": "Wormboss"
+  },
+  "alexsmobs.sound.subtitle.void_worm_idle": {
+    "en": "Void Worm roars",
+    "zh": "虚空蠕虫：低鸣",
+    "vi": "Sâu Hư Không: Thì Thầm"
+  },
+  "alexsmobs.sound.subtitle.void_worm_hurt": {
+    "en": "Void Worm hisses",
+    "zh": "虚空蠕虫：嘶嘶声",
+    "vi": "Sâu hư không: Hiss"
+  },
+  "alexsmobs.sound.subtitle.void_portal_open": {
+    "en": "Void Portal opens",
+    "zh": "虚空传送门：打开",
+    "vi": "Cổng thông tin trống: Mở"
+  },
+  "alexsmobs.sound.subtitle.void_portal_close": {
+    "en": "Void Portal closes",
+    "zh": "虚空传送门：关闭",
+    "vi": "Cổng thông tin trống: Đã đóng"
+  },
+  "alexsmobs.sound.subtitle.mimic_octopus_idle": {
+    "en": "Mimic Octopus squeaks",
+    "zh": "拟态章鱼：尖叫声",
+    "vi": "Bạch tuộc bắt chước: Hét lên"
+  },
+  "alexsmobs.sound.subtitle.mimic_octopus_hurt": {
+    "en": "Mimic Octopus squishes",
+    "zh": "拟态章鱼：吧唧声",
+    "vi": "Bạch tuộc bắt chước: Chirp"
+  },
+  "alexsmobs.sound.subtitle.froststalker_idle": {
+    "en": "Froststalker screeches",
+    "zh": "寒霜潜伏者：尖叫声",
+    "vi": "Frost Lurker: Hét lên"
+  },
+  "alexsmobs.sound.subtitle.froststalker_hurt": {
+    "en": "Froststalker hisses",
+    "zh": "寒霜潜伏者：嘶嘶声",
+    "vi": "Frost Lurker: Tiếng rít"
+  },
+  "alexsmobs.sound.subtitle.tusklin_idle": {
+    "en": "Tusklin oinks",
+    "zh": "獠牙兽：哼哼",
+    "vi": "Fang Beast: Ừm"
+  },
+  "alexsmobs.sound.subtitle.tusklin_hurt": {
+    "en": "Tusklin roars",
+    "zh": "獠牙兽：吼叫",
+    "vi": "Fang Beast: Gầm gừ"
+  },
+  "alexsmobs.sound.subtitle.laviathan_idle": {
+    "en": "Laviathan grumbles",
+    "zh": "炽岩：咕哝",
+    "vi": "Đá rực lửa: Càu nhàu"
+  },
+  "alexsmobs.sound.subtitle.laviathan_hurt": {
+    "en": "Laviathan roars",
+    "zh": "炽岩：咆哮",
+    "vi": "Đá rực lửa: Gầm gừ"
+  },
+  "alexsmobs.sound.subtitle.cosmaw_idle": {
+    "en": "Cosmaw slurps",
+    "zh": "宙游鲟：啧啧声",
+    "vi": "Cá tầm Á-Âu: tut tut"
+  },
+  "alexsmobs.sound.subtitle.cosmaw_hurt": {
+    "en": "Cosmaw hisses",
+    "zh": "宙游鲟：嘶嘶声",
+    "vi": "Cá tầm: tiếng rít"
+  },
+  "alexsmobs.sound.subtitle.music_disc.daze": {
+    "en": "Daze",
+    "zh": "Daze",
+    "vi": "Daze"
+  },
+  "alexsmobs.sound.subtitle.seagull_idle": {
+    "en": "Seagull squawks",
+    "zh": "海鸥：嘎嘎声",
+    "vi": "Hải âu: kêu quác quác"
+  },
+  "alexsmobs.sound.subtitle.seagull_hurt": {
+    "en": "Seagull honks",
+    "zh": "海鸥：哼叫",
+    "vi": "Hải âu: vo ve"
+  },
+  "alexsmobs.sound.subtitle.bear_dust": {
+    "en": "Bear Dust",
+    "zh": "熊尘",
+    "vi": "Hùng Thần"
+  },
+  "alexsmobs.sound.subtitle.toucan_idle": {
+    "en": "Toucan beeps",
+    "zh": "巨嘴鸟：嘟嘟声",
+    "vi": "Toucan: Tòi"
+  },
+  "alexsmobs.sound.subtitle.toucan_hurt": {
+    "en": "Toucan shrieks",
+    "zh": "巨嘴鸟：尖叫声",
+    "vi": "Toucan: Hét lên"
+  },
+  "alexsmobs.sound.subtitle.maned_wolf_idle": {
+    "en": "Maned Wolf whines",
+    "zh": "鬃狼：咆哮",
+    "vi": "Sói bờm: Gầm gừ"
+  },
+  "alexsmobs.sound.subtitle.maned_wolf_hurt": {
+    "en": "Maned Wolf barks",
+    "zh": "鬃狼：吠叫",
+    "vi": "Sói bờm: Sủa"
+  },
+  "alexsmobs.sound.subtitle.anaconda_slither": {
+    "en": "Anaconda slithers",
+    "zh": "森蚺：滑行",
+    "vi": "Anaconda: Trượt"
+  },
+  "alexsmobs.sound.subtitle.anaconda_hurt": {
+    "en": "Anaconda hisses",
+    "zh": "森蚺：嘶嘶声",
+    "vi": "Anaconda: tiếng rít"
+  },
+  "alexsmobs.sound.subtitle.anaconda_attack": {
+    "en": "Anaconda lunges",
+    "zh": "森蚺：猛扑",
+    "vi": "Anaconda: Vồ"
+  },
+  "alexsmobs.sound.subtitle.vine_lasso": {
+    "en": "Vine Lasso swings",
+    "zh": "藤蔓套索：甩动",
+    "vi": "Vine Lasso: Xoay"
+  },
+  "alexsmobs.sound.subtitle.anteater_hurt": {
+    "en": "Anteater grumbles",
+    "zh": "食蚁兽：咕哝",
+    "vi": "Thú ăn kiến: Grunt"
+  },
+  "alexsmobs.sound.subtitle.rocky_roller_idle": {
+    "en": "Rocky Roller grumbles",
+    "zh": "岩磙兽：咕哝",
+    "vi": "Quái vật đá: Grunt"
+  },
+  "alexsmobs.sound.subtitle.rocky_roller_hurt": {
+    "en": "Rocky Roller groans",
+    "zh": "岩磙兽：哼哼",
+    "vi": "Quái vật đá: Hum"
+  },
+  "alexsmobs.sound.subtitle.rocky_roller_earthquake": {
+    "en": "Falling rocks",
+    "zh": "岩石滚落",
+    "vi": "đá rơi"
+  },
+  "alexsmobs.sound.subtitle.flutter_idle": {
+    "en": "Flutter squeaks",
+    "zh": "花飘飘：啧啧声",
+    "vi": "Hua Piaopiao: âm thanh tut tut"
+  },
+  "alexsmobs.sound.subtitle.flutter_hurt": {
+    "en": "Flutter screams",
+    "zh": "花飘飘：尖叫",
+    "vi": "Hứa Phi Phiêu: Hét lên"
+  },
+  "alexsmobs.sound.subtitle.flutter_yes": {
+    "en": "Flutter grumbles happily",
+    "zh": "花飘飘：开心地叫",
+    "vi": "Hua Piaopiao: Hét lên sung sướng"
+  },
+  "alexsmobs.sound.subtitle.flutter_no": {
+    "en": "Flutter sighs",
+    "zh": "花飘飘：叹息",
+    "vi": "Hứa Phi Phiêu: thở dài"
+  },
+  "alexsmobs.sound.subtitle.flutter_flap": {
+    "en": "Flutter flaps",
+    "zh": "花飘飘：拍动花瓣",
+    "vi": "Hoa rung rinh: vỗ cánh hoa"
+  },
+  "alexsmobs.sound.subtitle.gelada_monkey_idle": {
+    "en": "Gelada Monkey calls",
+    "zh": "狮尾狒狒：低语",
+    "vi": "Khỉ đầu chó Gelada: Lời thì thầm"
+  },
+  "alexsmobs.sound.subtitle.gelada_monkey_hurt": {
+    "en": "Gelada Monkey screeches",
+    "zh": "狮尾狒狒：尖叫",
+    "vi": "Khỉ đầu chó Gelada: Hét lên"
+  },
+  "alexsmobs.sound.subtitle.jerboa_idle": {
+    "en": "Jerboa squeaks",
+    "zh": "跳鼠：吱吱",
+    "vi": "Jerboa: rít lên"
+  },
+  "alexsmobs.sound.subtitle.jerboa_hurt": {
+    "en": "Jerboa screeches",
+    "zh": "跳鼠：尖叫",
+    "vi": "Jerboa: hét lên"
+  },
+  "alexsmobs.sound.subtitle.terrapin_hurt": {
+    "en": "Terrapin wheezes",
+    "zh": "水龟：呼哧",
+    "vi": "Rùa: ồ lên"
+  },
+  "alexsmobs.sound.subtitle.comb_jelly_hurt": {
+    "en": "Comb Jelly squishes",
+    "zh": "栉水母：吧唧",
+    "vi": "Ctenophore: ríu rít"
+  },
+  "alexsmobs.sound.subtitle.cosmic_cod_hurt": {
+    "en": "Cosmic Cod hisses",
+    "zh": "宇宙鳕鱼：嘶嘶",
+    "vi": "Cá tuyết vũ trụ: Hiss"
+  },
+  "alexsmobs.sound.subtitle.mosquito_capsid_convert": {
+    "en": "Larva trapped in Capisd",
+    "zh": "被困在衣壳体中的幼虫",
+    "vi": "Ấu trùng bị mắc kẹt trong vỏ Capsid"
+  },
+  "alexsmobs.sound.subtitle.april_fools_music_box": {
+    "en": "Creepy music box...",
+    "zh": "令人恐惧的音乐盒……",
+    "vi": "Chiếc hộp nhạc đáng sợ..."
+  },
+  "alexsmobs.sound.subtitle.april_fools_power_outage": {
+    "en": "Power outage",
+    "zh": "能源中断",
+    "vi": ""
+  },
+  "alexsmobs.sound.subtitle.april_fools_scream": {
+    "en": "AAAAAAAAAAAAA",
+    "zh": "啊啊啊啊啊啊啊",
+    "vi": "Ahhhhhhhhhhhh"
+  },
+  "alexsmobs.sound.subtitle.bunfungus_idle": {
+    "en": "Bunfungus chatters",
+    "zh": "蘑菇兔：磨牙",
+    "vi": "Thỏ Nấm: Nghiến răng"
+  },
+  "alexsmobs.sound.subtitle.bunfungus_hurt": {
+    "en": "Bunfungus complains",
+    "zh": "蘑菇兔：抱怨",
+    "vi": "Thỏ Nấm: Phàn nàn"
+  },
+  "alexsmobs.sound.subtitle.bunfungus_jump": {
+    "en": "Bunfungus bounces",
+    "zh": "蘑菇兔：蹦蹦跳跳",
+    "vi": "Thỏ Nấm: Nhảy"
+  },
+  "alexsmobs.sound.subtitle.bunfungus_attack": {
+    "en": "Bunfungus slams",
+    "zh": "蘑菇兔：猛击",
+    "vi": "Thỏ Nấm: Slam"
+  },
+  "alexsmobs.sound.subtitle.bison_idle": {
+    "en": "Bison grumbles",
+    "zh": "野牛：哼哼",
+    "vi": "Bò rừng: Hừm"
+  },
+  "alexsmobs.sound.subtitle.bison_hurt": {
+    "en": "Bison groans",
+    "zh": "野牛：呻吟",
+    "vi": "bò rừng: rên rỉ"
+  },
+  "alexsmobs.sound.subtitle.giant_squid_games": {
+    "en": "Giant Squid hums",
+    "zh": "大王乌贼：哼哼",
+    "vi": "Mực Vua: Hừm"
+  },
+  "alexsmobs.sound.subtitle.giant_squid_hurt": {
+    "en": "Giant Squid squishes",
+    "zh": "大王乌贼：尖叫",
+    "vi": "Mực Vua: Hét lên"
+  },
+  "alexsmobs.sound.subtitle.giant_squid_tentacle": {
+    "en": "Tentacle launched",
+    "zh": "发射触手",
+    "vi": "phóng xúc tu"
+  },
+  "alexsmobs.sound.subtitle.devils_hole_pupfish_hurt": {
+    "en": "Devil's Hole Pupfish splashes",
+    "zh": "魔鳉：噗嘶",
+    "vi": "Quỷ medaka: Phồng rít"
+  },
+  "alexsmobs.sound.subtitle.skelewag_hurt": {
+    "en": "Skelewag crunches",
+    "zh": "骷髅剑鱼：嘎吱",
+    "vi": "Xương cá kiếm: Crunch"
+  },
+  "alexsmobs.sound.subtitle.skelewag_idle": {
+    "en": "Skelewag rattles",
+    "zh": "骷髅剑鱼：嘎咯",
+    "vi": "Xương cá kiếm: Quack"
+  },
+  "alexsmobs.sound.subtitle.rain_frog_hurt": {
+    "en": "Rain Frog squeaks",
+    "zh": "雨蛙：吱吱",
+    "vi": "Hyla: rít lên"
+  },
+  "alexsmobs.sound.subtitle.rain_frog_idle": {
+    "en": "Rain Frog ribbits",
+    "zh": "雨蛙：呱呱",
+    "vi": "Hyla: tiếng kêu"
+  },
+  "alexsmobs.sound.subtitle.potoo_hurt": {
+    "en": "Potoo shrieks",
+    "zh": "林鸱：尖叫",
+    "vi": "Lâm Âu: hét lên"
+  },
+  "alexsmobs.sound.subtitle.potoo_call": {
+    "en": "Potoo hoots",
+    "zh": "林鸱：鸣叫",
+    "vi": "Cú Gỗ: ríu rít"
+  },
+  "alexsmobs.sound.subtitle.mudskipper_hurt": {
+    "en": "Mudskipper squishes",
+    "zh": "弹涂鱼：吧唧",
+    "vi": "Cá thòi lòi: Ờ!"
+  },
+  "alexsmobs.sound.subtitle.mudskipper_walk": {
+    "en": "Mudskipper crawls",
+    "zh": "弹涂鱼：爬行",
+    "vi": "Cá thòi lòi: Bò"
+  },
+  "alexsmobs.sound.subtitle.mudskipper_spit": {
+    "en": "Mudskipper spits",
+    "zh": "弹涂鱼：呼噜",
+    "vi": "Cá thòi lòi: Khịt mũi"
+  },
+  "alexsmobs.sound.subtitle.rhinoceros_hurt": {
+    "en": "Rhinoceros grunts",
+    "zh": "犀牛：哼哼",
+    "vi": "Tê giác: Hừm"
+  },
+  "alexsmobs.sound.subtitle.rhinoceros_idle": {
+    "en": "Rhinoceros grumbles",
+    "zh": "犀牛：咕哝",
+    "vi": "Tê giác: càu nhàu"
+  },
+  "alexsmobs.sound.subtitle.sugar_glider_hurt": {
+    "en": "Sugar Glider wheezes",
+    "zh": "蜜袋鼯：呼哧",
+    "vi": "Tàu lượn đường: giận dữ"
+  },
+  "alexsmobs.sound.subtitle.sugar_glider_idle": {
+    "en": "Sugar Glider chirps",
+    "zh": "蜜袋鼯：吱吱",
+    "vi": "Tàu lượn đường: rít lên"
+  },
+  "alexsmobs.sound.subtitle.farseer_hurt": {
+    "en": "Farseer shrieks",
+    "zh": "瞻远者：尖叫",
+    "vi": "Người có tầm nhìn: Hét lên"
+  },
+  "alexsmobs.sound.subtitle.farseer_idle": {
+    "en": "Farseer buzzes",
+    "zh": "瞻远者：嗡嗡",
+    "vi": "Người có tầm nhìn: Buzz"
+  },
+  "alexsmobs.sound.subtitle.farseer_emerge": {
+    "en": "Farseer enters reality",
+    "zh": "瞻远者：闯入现实",
+    "vi": "Người có tầm nhìn: Đi vào hiện thực"
+  },
+  "alexsmobs.sound.subtitle.farseer_beam": {
+    "en": "Farseer pews",
+    "zh": "瞻远者：咻咻",
+    "vi": "Người nhìn xa trông rộng: Vút vút"
+  },
+  "alexsmobs.sound.subtitle.transmute_item": {
+    "en": "Item changes form",
+    "zh": "物品改变形态",
+    "vi": "Hình thức thay đổi mục"
+  },
+  "alexsmobs.sound.subtitle.skreecher_hurt": {
+    "en": "Skreecher wimpers",
+    "zh": "贱叫怪：尖叫",
+    "vi": "Người la hét: Hãy hét lên"
+  },
+  "alexsmobs.sound.subtitle.skreecher_call": {
+    "en": "Skreecher screeches",
+    "zh": "贱叫怪：贱叫",
+    "vi": "Quái vật gào thét: La hét"
+  },
+  "alexsmobs.sound.subtitle.skreecher_detects": {
+    "en": "Skreecher hypes up",
+    "zh": "贱叫怪：大吼大叫",
+    "vi": "Người la hét: La hét"
+  },
+  "alexsmobs.sound.subtitle.skreecher_clap": {
+    "en": "Skreecher claps",
+    "zh": "贱叫怪：拍手",
+    "vi": "Người hét: Hãy vỗ tay"
+  },
+  "alexsmobs.sound.subtitle.sculk_boomer_fart": {
+    "en": "Sculk Boomer explodes",
+    "zh": "幽匿轰鸣体：轰鸣",
+    "vi": "Thân gầm ẩn: Gầm"
+  },
+  "alexsmobs.sound.subtitle.sculk_boomer": {
+    "en": "Sculk Boomer explodes",
+    "zh": "幽匿轰鸣体：轰鸣",
+    "vi": "Thân gầm ẩn: Gầm"
+  },
+  "alexsmobs.sound.subtitle.underminer_idle": {
+    "en": "Underminer breathes",
+    "zh": "地底矿工：呼吸",
+    "vi": "Công cụ khai thác ngầm: Breathe"
+  },
+  "alexsmobs.sound.subtitle.underminer_hurt": {
+    "en": "Underminer growls",
+    "zh": "地底矿工：低吼",
+    "vi": "Thợ mỏ dưới lòng đất: gầm gừ"
+  },
+  "alexsmobs.sound.subtitle.underminer_step": {
+    "en": "Underminer stomps",
+    "zh": "地底矿工：行走",
+    "vi": "Thợ mỏ ngầm: Đi bộ"
+  },
+  "alexsmobs.sound.subtitle.murmur_idle": {
+    "en": "Murmur murmurs",
+    "zh": "轻语灵：低语",
+    "vi": "Linh hồn thì thầm: Thì thầm"
+  },
+  "alexsmobs.sound.subtitle.murmur_hurt": {
+    "en": "Murmur cries",
+    "zh": "轻语灵：哭泣",
+    "vi": "Thần thì thầm: Khóc"
+  },
+  "alexsmobs.sound.subtitle.murmur_neck": {
+    "en": "Murmur elongates",
+    "zh": "轻语灵：伸长脖子",
+    "vi": "Linh hồn thì thầm: Mở rộng cổ của bạn"
+  },
+  "alexsmobs.sound.subtitle.murmur_anger": {
+    "en": "Murmur growls",
+    "zh": "轻语灵：低吼",
+    "vi": "Linh hồn thì thầm: Gầm gừ"
+  },
+  "alexsmobs.sound.subtitle.murmur_attack": {
+    "en": "Murmur bites",
+    "zh": "轻语灵：撕咬",
+    "vi": "Thần thì thầm: Cắn"
+  },
+  "alexsmobs.sound.subtitle.tendon_whip": {
+    "en": "Tendon whips",
+    "zh": "筋腱长鞭：抽打",
+    "vi": "roi gân: roi gân"
+  },
+  "alexsmobs.sound.subtitle.skunk_idle": {
+    "en": "Skunk grumbles",
+    "zh": "臭鼬：咕哝",
+    "vi": "Chồn hôi: càu nhàu"
+  },
+  "alexsmobs.sound.subtitle.skunk_hurt": {
+    "en": "Skunk squeals",
+    "zh": "臭鼬：尖叫",
+    "vi": "Chồn hôi: hét lên"
+  },
+  "alexsmobs.sound.subtitle.skunk_spray": {
+    "en": "Skunk sprays",
+    "zh": "臭鼬：放屁",
+    "vi": "Chồn hôi: xì hơi"
+  },
+  "alexsmobs.sound.subtitle.stink_ray": {
+    "en": "Fart",
+    "zh": "臭气熏天",
+    "vi": "Thơm tới tận trời"
+  },
+  "alexsmobs.sound.subtitle.banana_slug_hurt": {
+    "en": "Banana Slug squishes",
+    "zh": "香蕉蛞蝓：吧唧",
+    "vi": "Sên chuối: Ờ!"
+  },
+  "alexsmobs.sound.subtitle.banana_slug_slime_expands": {
+    "en": "Mucus crystallizes",
+    "zh": "黏液：结晶",
+    "vi": "chất nhờn: kết tinh"
+  },
+  "alexsmobs.sound.subtitle.blue_jay_idle": {
+    "en": "Blue Jay shrieks",
+    "zh": "冠蓝鸦：吱吱",
+    "vi": "Blue Jay: rít lên"
+  },
+  "alexsmobs.sound.subtitle.blue_jay_hurt": {
+    "en": "Blue Jay squeaks",
+    "zh": "冠蓝鸦：尖叫",
+    "vi": "Blue Jay: Hét lên"
+  },
+  "alexsmobs.sound.subtitle.blue_jay_song": {
+    "en": "Blue Jay sings",
+    "zh": "冠蓝鸦：唱歌",
+    "vi": "Blue Jay: Hát"
+  },
+  "alexsmobs.sound.subtitle.caiman_idle": {
+    "en": "Caiman growls",
+    "zh": "凯门鳄：咆哮",
+    "vi": "Caiman: Gầm gừ"
+  },
+  "alexsmobs.sound.subtitle.caiman_hurt": {
+    "en": "Caiman grunts",
+    "zh": "凯门鳄：咕哝",
+    "vi": "Caiman: càu nhàu"
+  },
+  "alexsmobs.sound.subtitle.caiman_splash": {
+    "en": "Caiman splashes",
+    "zh": "凯门鳄：哗啦哗啦",
+    "vi": "Caiman: swoosh swoosh"
+  },
+  "alexsmobs.sound.subtitle.end_pirate_door": {
+    "en": "End Pirate's Door creaks",
+    "zh": "末地海盗门：吱吱作响",
+    "vi": "Cửa cướp biển kết thúc: ọp ẹp"
+  },
+  "alexsmobs.sound.subtitle.dragons_breath_cannon_charge": {
+    "en": null,
+    "zh": "龙息加农炮：充能",
+    "vi": "Pháo hơi thở rồng: Nạp tiền"
+  },
+  "enchantment.alexsmobs.straddle_jump": {
+    "en": "Straddle Jump",
+    "zh": "跳跃跨板",
+    "vi": "ván nhảy"
+  },
+  "enchantment.alexsmobs.straddle_jump.desc": {
+    "en": "Increases the height of Straddleboard jumps.",
+    "zh": "增加跨板跳跃的高度。",
+    "vi": "Tăng chiều cao nhảy qua bảng."
+  },
+  "enchantment.alexsmobs.lavawax": {
+    "en": "Lavawaxed",
+    "zh": "熔岩防护",
+    "vi": "bảo vệ dung nham"
+  },
+  "enchantment.alexsmobs.lavawax.desc": {
+    "en": "Gives the rider of the Straddleboard Fire Resistance.",
+    "zh": "给予跨板手防火效果",
+    "vi": "Mang lại hiệu quả chống cháy chéo"
+  },
+  "enchantment.alexsmobs.serpentfriend": {
+    "en": "Serpent Charmer",
+    "zh": "舞蛇者",
+    "vi": "vũ công rắn"
+  },
+  "enchantment.alexsmobs.serpentfriend.desc": {
+    "en": "Makes Bone Serpents neutral towards the rider of the Straddleboard.",
+    "zh": "当跨板手骑着跨板时可以令骨蟒保持中立。",
+    "vi": "Trăn xương có thể được giữ ở trạng thái trung lập trong khi người cưỡi ngựa cưỡi trên ván gỗ."
+  },
+  "enchantment.alexsmobs.board_return": {
+    "en": "Returning Board",
+    "zh": "返板",
+    "vi": "bảng trở lại"
+  },
+  "enchantment.alexsmobs.board_return.desc": {
+    "en": "Straddleboard returns instantly to the rider's inventory when broken.",
+    "zh": "当跨板损坏时，自动收入跨板手的物品栏。",
+    "vi": "Khi cờ lê bị hỏng, nó sẽ tự động được cất vào kho của cờ lê."
+  },
+  "item.alexsmobs.banner_pattern_bear": {
+    "en": "Banner Pattern",
+    "zh": "旗帜图案",
+    "vi": "Banner Pattern"
+  },
+  "item.alexsmobs.banner_pattern_bear.desc": {
+    "en": "Bear",
+    "zh": "熊",
+    "vi": "Con gấu"
+  },
+  "item.alexsmobs.banner_pattern_australia_0": {
+    "en": "Banner Pattern",
+    "zh": "旗帜图案",
+    "vi": "Banner Pattern"
+  },
+  "item.alexsmobs.banner_pattern_australia_0.desc": {
+    "en": "Star Cross",
+    "zh": "十字星",
+    "vi": "Doji"
+  },
+  "item.alexsmobs.banner_pattern_australia_1": {
+    "en": "Banner Pattern",
+    "zh": "旗帜图案",
+    "vi": "Banner Pattern"
+  },
+  "item.alexsmobs.banner_pattern_australia_1.desc": {
+    "en": "Union Jack Ensign",
+    "zh": "米字",
+    "vi": "chữ gạo"
+  },
+  "item.alexsmobs.banner_pattern_new_mexico": {
+    "en": "Banner Pattern",
+    "zh": "旗帜图案",
+    "vi": "Banner Pattern"
+  },
+  "item.alexsmobs.banner_pattern_new_mexico.desc": {
+    "en": "Sun Symbol",
+    "zh": "太阳符号",
+    "vi": "biểu tượng mặt trời"
+  },
+  "item.alexsmobs.banner_pattern_brazil": {
+    "en": "Banner Pattern",
+    "zh": "旗帜图案",
+    "vi": "Banner Pattern"
+  },
+  "item.alexsmobs.banner_pattern_brazil.desc": {
+    "en": "Caption Band",
+    "zh": "字符带",
+    "vi": "Dải ký tự"
+  },
+  "block.minecraft.banner.alexsmobs.bear.white": {
+    "en": "White Bear",
+    "zh": "白色熊",
+    "vi": "White Bear"
+  },
+  "block.minecraft.banner.alexsmobs.bear.orange": {
+    "en": "Orange Bear",
+    "zh": "橙色熊",
+    "vi": "Orange Bear"
+  },
+  "block.minecraft.banner.alexsmobs.bear.magenta": {
+    "en": "Magenta Bear",
+    "zh": "品红色熊",
+    "vi": "Magenta Bear"
+  },
+  "block.minecraft.banner.alexsmobs.bear.light_blue": {
+    "en": "Light Blue Bear",
+    "zh": "淡蓝色熊",
+    "vi": "Light Blue Bear"
+  },
+  "block.minecraft.banner.alexsmobs.bear.yellow": {
+    "en": "Yellow Bear",
+    "zh": "黄色熊",
+    "vi": "Yellow Bear"
+  },
+  "block.minecraft.banner.alexsmobs.bear.lime": {
+    "en": "Lime Bear",
+    "zh": "黄绿色熊",
+    "vi": "Lime Bear"
+  },
+  "block.minecraft.banner.alexsmobs.bear.pink": {
+    "en": "Pink Bear",
+    "zh": "粉红色熊",
+    "vi": "Pink Bear"
+  },
+  "block.minecraft.banner.alexsmobs.bear.gray": {
+    "en": "Gray Bear",
+    "zh": "灰色熊",
+    "vi": "Gray Bear"
+  },
+  "block.minecraft.banner.alexsmobs.bear.silver": {
+    "en": "Silver Bear",
+    "zh": "淡灰色熊",
+    "vi": "Silver Bear"
+  },
+  "block.minecraft.banner.alexsmobs.bear.cyan": {
+    "en": "Cyan Bear",
+    "zh": "青色熊",
+    "vi": "Cyan Bear"
+  },
+  "block.minecraft.banner.alexsmobs.bear.purple": {
+    "en": "Purple Bear",
+    "zh": "紫色熊",
+    "vi": "Purple Bear"
+  },
+  "block.minecraft.banner.alexsmobs.bear.blue": {
+    "en": "Blue Bear",
+    "zh": "蓝色熊",
+    "vi": "Blue Bear"
+  },
+  "block.minecraft.banner.alexsmobs.bear.brown": {
+    "en": "Brown Bear",
+    "zh": "棕色熊",
+    "vi": "Brown Bear"
+  },
+  "block.minecraft.banner.alexsmobs.bear.green": {
+    "en": "Green Bear",
+    "zh": "绿色熊",
+    "vi": "Green Bear"
+  },
+  "block.minecraft.banner.alexsmobs.bear.red": {
+    "en": "Red Bear",
+    "zh": "红色熊",
+    "vi": "Red Bear"
+  },
+  "block.minecraft.banner.alexsmobs.bear.black": {
+    "en": "Black Bear",
+    "zh": "黑色熊",
+    "vi": "Black Bear"
+  },
+  "block.minecraft.banner.alexsmobs.australia_0.white": {
+    "en": "White Star Cross",
+    "zh": "白色十字星",
+    "vi": "White Star Cross"
+  },
+  "block.minecraft.banner.alexsmobs.australia_0.orange": {
+    "en": "Orange Star Cross",
+    "zh": "橙色十字星",
+    "vi": "Orange Star Cross"
+  },
+  "block.minecraft.banner.alexsmobs.australia_0.magenta": {
+    "en": "Magenta Star Cross",
+    "zh": "品红色十字星",
+    "vi": "Magenta Star Cross"
+  },
+  "block.minecraft.banner.alexsmobs.australia_0.light_blue": {
+    "en": "Light Blue Star Cross",
+    "zh": "淡蓝色十字星",
+    "vi": "Light Blue Star Cross"
+  },
+  "block.minecraft.banner.alexsmobs.australia_0.yellow": {
+    "en": "Yellow Star Cross",
+    "zh": "黄色十字星",
+    "vi": "Yellow Star Cross"
+  },
+  "block.minecraft.banner.alexsmobs.australia_0.lime": {
+    "en": "Lime Star Cross",
+    "zh": "黄绿色十字星",
+    "vi": "Lime Star Cross"
+  },
+  "block.minecraft.banner.alexsmobs.australia_0.pink": {
+    "en": "Pink Star Cross",
+    "zh": "粉红色十字星",
+    "vi": "Pink Star Cross"
+  },
+  "block.minecraft.banner.alexsmobs.australia_0.gray": {
+    "en": "Gray Star Cross",
+    "zh": "灰色十字星",
+    "vi": "Gray Star Cross"
+  },
+  "block.minecraft.banner.alexsmobs.australia_0.silver": {
+    "en": "Silver Star Cross",
+    "zh": "淡灰色十字星",
+    "vi": "Silver Star Cross"
+  },
+  "block.minecraft.banner.alexsmobs.australia_0.cyan": {
+    "en": "Cyan Star Cross",
+    "zh": "青色十字星",
+    "vi": "Cyan Star Cross"
+  },
+  "block.minecraft.banner.alexsmobs.australia_0.purple": {
+    "en": "Purple Star Cross",
+    "zh": "紫色十字星",
+    "vi": "Purple Star Cross"
+  },
+  "block.minecraft.banner.alexsmobs.australia_0.blue": {
+    "en": "Blue Star Cross",
+    "zh": "蓝色十字星",
+    "vi": "Blue Star Cross"
+  },
+  "block.minecraft.banner.alexsmobs.australia_0.brown": {
+    "en": "Brown Star Cross",
+    "zh": "棕色十字星",
+    "vi": "Brown Star Cross"
+  },
+  "block.minecraft.banner.alexsmobs.australia_0.green": {
+    "en": "Green Star Cross",
+    "zh": "绿色十字星",
+    "vi": "Green Star Cross"
+  },
+  "block.minecraft.banner.alexsmobs.australia_0.red": {
+    "en": "Red Star Cross",
+    "zh": "红色十字星",
+    "vi": "Red Star Cross"
+  },
+  "block.minecraft.banner.alexsmobs.australia_0.black": {
+    "en": "Black Star Cross",
+    "zh": "黑色十字星",
+    "vi": "Black Star Cross"
+  },
+  "block.minecraft.banner.alexsmobs.australia_1.white": {
+    "en": "White Union Jack Ensign",
+    "zh": "白色米字",
+    "vi": "White Union Jack Ensign"
+  },
+  "block.minecraft.banner.alexsmobs.australia_1.orange": {
+    "en": "Orange Union Jack Ensign",
+    "zh": "橙色米字",
+    "vi": "Orange Union Jack Ensign"
+  },
+  "block.minecraft.banner.alexsmobs.australia_1.magenta": {
+    "en": "Magenta Union Jack Ensign",
+    "zh": "品红色米字",
+    "vi": "Magenta Union Jack Ensign"
+  },
+  "block.minecraft.banner.alexsmobs.australia_1.light_blue": {
+    "en": "Light Blue Union Jack Ensign",
+    "zh": "淡蓝色米字",
+    "vi": "Light Blue Union Jack Ensign"
+  },
+  "block.minecraft.banner.alexsmobs.australia_1.yellow": {
+    "en": "Yellow Union Jack Ensign",
+    "zh": "黄色米字",
+    "vi": "Yellow Union Jack Ensign"
+  },
+  "block.minecraft.banner.alexsmobs.australia_1.lime": {
+    "en": "Lime Union Jack Ensign",
+    "zh": "黄绿色米字",
+    "vi": "Lime Union Jack Ensign"
+  },
+  "block.minecraft.banner.alexsmobs.australia_1.pink": {
+    "en": "Pink Union Jack Ensign",
+    "zh": "粉红色米字",
+    "vi": "Pink Union Jack Ensign"
+  },
+  "block.minecraft.banner.alexsmobs.australia_1.gray": {
+    "en": "Gray Union Jack Ensign",
+    "zh": "灰色米字",
+    "vi": "Gray Union Jack Ensign"
+  },
+  "block.minecraft.banner.alexsmobs.australia_1.silver": {
+    "en": "Silver Union Jack Ensign",
+    "zh": "淡灰色米字",
+    "vi": "Silver Union Jack Ensign"
+  },
+  "block.minecraft.banner.alexsmobs.australia_1.cyan": {
+    "en": "Cyan Union Jack Ensign",
+    "zh": "青色米字",
+    "vi": "Cyan Union Jack Ensign"
+  },
+  "block.minecraft.banner.alexsmobs.australia_1.purple": {
+    "en": "Purple Union Jack Ensign",
+    "zh": "紫色米字",
+    "vi": "Purple Union Jack Ensign"
+  },
+  "block.minecraft.banner.alexsmobs.australia_1.blue": {
+    "en": "Blue Union Jack Ensign",
+    "zh": "蓝色米字",
+    "vi": "Blue Union Jack Ensign"
+  },
+  "block.minecraft.banner.alexsmobs.australia_1.brown": {
+    "en": "Brown Union Jack Ensign",
+    "zh": "棕色米字",
+    "vi": "Brown Union Jack Ensign"
+  },
+  "block.minecraft.banner.alexsmobs.australia_1.green": {
+    "en": "Green Union Jack Ensign",
+    "zh": "绿色米字",
+    "vi": "Green Union Jack Ensign"
+  },
+  "block.minecraft.banner.alexsmobs.australia_1.red": {
+    "en": "Red Union Jack Ensign",
+    "zh": "红色米字",
+    "vi": "Red Union Jack Ensign"
+  },
+  "block.minecraft.banner.alexsmobs.australia_1.black": {
+    "en": "Black Union Jack Ensign",
+    "zh": "黑色米字",
+    "vi": "Black Union Jack Ensign"
+  },
+  "block.minecraft.banner.alexsmobs.new_mexico.white": {
+    "en": "White Sun Symbol",
+    "zh": "白色太阳符号",
+    "vi": "White Sun Symbol"
+  },
+  "block.minecraft.banner.alexsmobs.new_mexico.orange": {
+    "en": "Orange Sun Symbol",
+    "zh": "橙色太阳符号",
+    "vi": "Orange Sun Symbol"
+  },
+  "block.minecraft.banner.alexsmobs.new_mexico.magenta": {
+    "en": "Magenta Sun Symbol",
+    "zh": "品红色太阳符号",
+    "vi": "Magenta Sun Symbol"
+  },
+  "block.minecraft.banner.alexsmobs.new_mexico.light_blue": {
+    "en": "Light Blue Sun Symbol",
+    "zh": "淡蓝色太阳符号",
+    "vi": "Light Blue Sun Symbol"
+  },
+  "block.minecraft.banner.alexsmobs.new_mexico.yellow": {
+    "en": "Yellow Sun Symbol",
+    "zh": "黄色太阳符号",
+    "vi": "Yellow Sun Symbol"
+  },
+  "block.minecraft.banner.alexsmobs.new_mexico.lime": {
+    "en": "Lime Sun Symbol",
+    "zh": "黄绿色太阳符号",
+    "vi": "Lime Sun Symbol"
+  },
+  "block.minecraft.banner.alexsmobs.new_mexico.pink": {
+    "en": "Pink Sun Symbol",
+    "zh": "粉红色太阳符号",
+    "vi": "Pink Sun Symbol"
+  },
+  "block.minecraft.banner.alexsmobs.new_mexico.gray": {
+    "en": "Gray Sun Symbol",
+    "zh": "灰色太阳符号",
+    "vi": "Gray Sun Symbol"
+  },
+  "block.minecraft.banner.alexsmobs.new_mexico.silver": {
+    "en": "Silver Sun Symbol",
+    "zh": "淡灰色太阳符号",
+    "vi": "Silver Sun Symbol"
+  },
+  "block.minecraft.banner.alexsmobs.new_mexico.cyan": {
+    "en": "Cyan Sun Symbol",
+    "zh": "青色太阳符号",
+    "vi": "Cyan Sun Symbol"
+  },
+  "block.minecraft.banner.alexsmobs.new_mexico.purple": {
+    "en": "Purple Sun Symbol",
+    "zh": "紫色太阳符号",
+    "vi": "Purple Sun Symbol"
+  },
+  "block.minecraft.banner.alexsmobs.new_mexico.blue": {
+    "en": "Blue Sun Symbol",
+    "zh": "蓝色太阳符号",
+    "vi": "Blue Sun Symbol"
+  },
+  "block.minecraft.banner.alexsmobs.new_mexico.brown": {
+    "en": "Brown Sun Symbol",
+    "zh": "棕色太阳符号",
+    "vi": "Brown Sun Symbol"
+  },
+  "block.minecraft.banner.alexsmobs.new_mexico.green": {
+    "en": "Green Sun Symbol",
+    "zh": "绿色太阳符号",
+    "vi": "Green Sun Symbol"
+  },
+  "block.minecraft.banner.alexsmobs.new_mexico.red": {
+    "en": "Red Sun Symbol",
+    "zh": "红色太阳符号",
+    "vi": "Red Sun Symbol"
+  },
+  "block.minecraft.banner.alexsmobs.new_mexico.black": {
+    "en": "Black Sun Symbol",
+    "zh": "黑色太阳符号",
+    "vi": "Black Sun Symbol"
+  },
+  "block.minecraft.banner.alexsmobs.brazil.white": {
+    "en": "White Caption Band",
+    "zh": "白色字符带",
+    "vi": "White Caption Band"
+  },
+  "block.minecraft.banner.alexsmobs.brazil.orange": {
+    "en": "Orange Caption Band",
+    "zh": "橙色字符带",
+    "vi": "Orange Caption Band"
+  },
+  "block.minecraft.banner.alexsmobs.brazil.magenta": {
+    "en": "Magenta Caption Band",
+    "zh": "品红色字符带",
+    "vi": "Magenta Caption Band"
+  },
+  "block.minecraft.banner.alexsmobs.brazil.light_blue": {
+    "en": "Light Blue Caption Band",
+    "zh": "淡蓝色字符带",
+    "vi": "Light Blue Caption Band"
+  },
+  "block.minecraft.banner.alexsmobs.brazil.yellow": {
+    "en": "Yellow Caption Band",
+    "zh": "黄色字符带",
+    "vi": "Yellow Caption Band"
+  },
+  "block.minecraft.banner.alexsmobs.brazil.lime": {
+    "en": "Lime Caption Band",
+    "zh": "黄绿色字符带",
+    "vi": "Lime Caption Band"
+  },
+  "block.minecraft.banner.alexsmobs.brazil.pink": {
+    "en": "Pink Caption Band",
+    "zh": "粉色字符带",
+    "vi": "Pink Caption Band"
+  },
+  "block.minecraft.banner.alexsmobs.brazil.gray": {
+    "en": "Gray Caption Band",
+    "zh": "灰色字符带",
+    "vi": "Gray Caption Band"
+  },
+  "block.minecraft.banner.alexsmobs.brazil.silver": {
+    "en": "Silver Caption Band",
+    "zh": "淡灰色字符带",
+    "vi": "Silver Caption Band"
+  },
+  "block.minecraft.banner.alexsmobs.brazil.cyan": {
+    "en": "Cyan Caption Band",
+    "zh": "青色字符带",
+    "vi": "Cyan Caption Band"
+  },
+  "block.minecraft.banner.alexsmobs.brazil.purple": {
+    "en": "Purple Caption Band",
+    "zh": "紫色字符带",
+    "vi": "Purple Caption Band"
+  },
+  "block.minecraft.banner.alexsmobs.brazil.blue": {
+    "en": "Blue Caption Band",
+    "zh": "蓝色字符带",
+    "vi": "Blue Caption Band"
+  },
+  "block.minecraft.banner.alexsmobs.brazil.brown": {
+    "en": "Brown Caption Band",
+    "zh": "棕色字符带",
+    "vi": "Brown Caption Band"
+  },
+  "block.minecraft.banner.alexsmobs.brazil.green": {
+    "en": "Green Caption Band",
+    "zh": "绿色字符带",
+    "vi": "Green Caption Band"
+  },
+  "block.minecraft.banner.alexsmobs.brazil.red": {
+    "en": "Red Caption Band",
+    "zh": "红色字符带",
+    "vi": "Red Caption Band"
+  },
+  "block.minecraft.banner.alexsmobs.brazil.black": {
+    "en": "Black Caption Band",
+    "zh": "黑色字符带",
+    "vi": "Black Caption Band"
+  },
+  "death.attack.freddy": {
+    "en": "Was that the bite of '87?",
+    "zh": "那是“87之咬”吗？",
+    "vi": "Đó có phải là \"Vết cắn của 87\" không?"
+  },
+  "death.attack.farseer_0": {
+    "en": "%s was turned to static",
+    "zh": "%s变得一动不动",
+    "vi": "%s trở nên bất động"
+  },
+  "death.attack.farseer_1": {
+    "en": "%s had the channels changed on them",
+    "zh": "%s转换到了它们的频道",
+    "vi": "%s đã chuyển sang kênh của họ"
+  },
+  "death.attack.farseer_2": {
+    "en": "%s was sent to the 4th dimension",
+    "zh": "%s被送入了第四维度",
+    "vi": "%s đã được gửi vào chiều thứ tư"
+  },
+  "death.attack.farseer_3": {
+    "en": "%s was disintegrated",
+    "zh": "%s分裂了",
+    "vi": "Chia %s"
+  },
+  "death.attack.farseer_0.player": {
+    "en": "%s was turned to static by %s",
+    "zh": "%s因%s变得一动不动",
+    "vi": "%s trở nên bất động do %s"
+  },
+  "death.attack.farseer_1.player": {
+    "en": "%s had the channels changed on them by %s",
+    "zh": "%s被%s转换到了它们的频道",
+    "vi": "%s đã được chuyển sang kênh của họ bởi %s"
+  },
+  "death.attack.farseer_2.player": {
+    "en": "%s was sent to the 4th dimension by %s",
+    "zh": "%s被%s送入了第四维度",
+    "vi": "%s được %s gửi vào chiều thứ tư"
+  },
+  "death.attack.farseer_3.player": {
+    "en": "%s was disintegrated by %s",
+    "zh": "%s被%s给分裂了",
+    "vi": "%s được chia bởi %s"
+  },
+  "alexsmobs.container.transmutation_table": {
+    "en": "Transmutation Table",
+    "zh": "嬗变台",
+    "vi": "giai đoạn chuyển hóa"
+  },
+  "alexsmobs.container.transmutation_table.cost": {
+    "en": "Experience Cost:",
+    "zh": "经验花费：",
+    "vi": "Chi phí trải nghiệm:"
+  },
+  "advancements.alexsmobs.root.title": {
+    "en": "Alex's Mobs",
+    "zh": "Alex 的生物",
+    "vi": "Tiểu sử của Alex"
+  },
+  "advancements.alexsmobs.root.desc": {
+    "en": "Discover the unique creatures of the world",
+    "zh": "发现世上独一无二的生物。",
+    "vi": "Khám phá những sinh vật độc đáo trên thế giới."
+  },
+  "advancements.alexsmobs.crimson_mosquito.title": {
+    "en": "Nightmare Fuel",
+    "zh": "梦魇燃料",
+    "vi": "nhiên liệu ác mộng"
+  },
+  "advancements.alexsmobs.crimson_mosquito.desc": {
+    "en": "Encounter a crimson mosquito",
+    "zh": "遇见一只绯红蚊子。",
+    "vi": "Gặp một con muỗi đỏ thẫm."
+  },
+  "advancements.alexsmobs.crimson_mosquito_larva.title": {
+    "en": "Pest Control",
+    "zh": "防治虫害",
+    "vi": "Kiểm soát dịch hại"
+  },
+  "advancements.alexsmobs.crimson_mosquito_larva.desc": {
+    "en": "Craft a Crimson Mosquito Larvae from a maggot and a special proboscis",
+    "zh": "用一条蛆和一个特殊的口器来合成绯红孑孓。",
+    "vi": "Tạo ra một ấu trùng màu đỏ thẫm bằng cách sử dụng một con giòi và một phần miệng đặc biệt."
+  },
+  "advancements.alexsmobs.blood_sprayer.title": {
+    "en": "Spray 'n Pray",
+    "zh": "喷洒祷告",
+    "vi": "phun cầu nguyện"
+  },
+  "advancements.alexsmobs.blood_sprayer.desc": {
+    "en": "Craft a Blood Sprayer from the drops of a Crimson Mosquito",
+    "zh": "用绯红蚊子的掉落物来合成一个血液喷雾器。",
+    "vi": "Sử dụng giọt Crimson Mosquito để chế tạo Bình phun máu."
+  },
+  "advancements.alexsmobs.tame_warped_toad.title": {
+    "en": "It Is Wednesday",
+    "zh": "今天是周三",
+    "vi": "hôm nay là thứ tư"
+  },
+  "advancements.alexsmobs.tame_warped_toad.desc": {
+    "en": "Tame a Warped Toad, the perfect defense against any giant bug, with some larvae",
+    "zh": "用一些幼虫来驯服一只对于任何巨型昆虫都具有完美防御的诡异蟾蜍。",
+    "vi": "Sử dụng một số ấu trùng để thuần hóa một con cóc kỳ lạ có khả năng phòng vệ hoàn hảo trước mọi loài côn trùng khổng lồ."
+  },
+  "advancements.alexsmobs.breed_hummingbird.title": {
+    "en": "Sugar Rush",
+    "zh": "青春糖伴",
+    "vi": "Người bạn đồng hành của tuổi trẻ"
+  },
+  "advancements.alexsmobs.breed_hummingbird.desc": {
+    "en": "Breed two hummingbirds with flowers",
+    "zh": "用花儿来繁殖两只蜂鸟。",
+    "vi": "Sử dụng hoa để nhân giống hai con chim ruồi."
+  },
+  "advancements.alexsmobs.hummingbird_feeder.title": {
+    "en": "Sugar... In Wator...",
+    "zh": "水里的……糖果……",
+    "vi": "Kẹo trong nước..."
+  },
+  "advancements.alexsmobs.hummingbird_feeder.desc": {
+    "en": "Craft a Hummingbird Feeder in order to keep hummingbirds nearby",
+    "zh": "合成一个可以吸引蜂鸟们的蜂鸟喂食器。",
+    "vi": "Chế tạo một dụng cụ cho chim ruồi ăn để thu hút chim ruồi."
+  },
+  "advancements.alexsmobs.grizzly_bear.title": {
+    "en": "Pic-A-Nic Basket?",
+    "zh": "一个……野餐篮？",
+    "vi": "Một... giỏ đi dã ngoại?"
+  },
+  "advancements.alexsmobs.grizzly_bear.desc": {
+    "en": "Encounter a Grizzly Bear",
+    "zh": "遇见一只灰熊。",
+    "vi": "Gặp một con gấu xám."
+  },
+  "advancements.alexsmobs.tame_grizzly_bear.title": {
+    "en": "Arcturus!",
+    "zh": "大熊守望者！",
+    "vi": "Người theo dõi gấu lớn!"
+  },
+  "advancements.alexsmobs.tame_grizzly_bear.desc": {
+    "en": "Tame a Grizzly Bear by feeding it honey and salmon",
+    "zh": "用蜂蜜和鲑鱼来喂食灰熊并驯服它。",
+    "vi": "Cho gấu xám ăn mật ong và cá hồi rồi thuần hóa nó."
+  },
+  "advancements.alexsmobs.rattlesnake.title": {
+    "en": "No Step on Snake",
+    "zh": "别踩到蛇上",
+    "vi": "Đừng dẫm lên con rắn"
+  },
+  "advancements.alexsmobs.rattlesnake.desc": {
+    "en": "Encounter a Rattlesnake",
+    "zh": "遇见一只响尾蛇。",
+    "vi": "Gặp phải một con rắn đuôi chuông."
+  },
+  "advancements.alexsmobs.maraca.title": {
+    "en": "Mariachi?",
+    "zh": "Mariachi?",
+    "vi": "Mariachi?"
+  },
+  "advancements.alexsmobs.maraca.desc": {
+    "en": "Craft a Maraca with a Rattlesnake rattle",
+    "zh": "用响尾蛇的响尾来合成一个沙槌。",
+    "vi": "Sử dụng tiếng kêu của rắn đuôi chuông để chế tạo maracas."
+  },
+  "advancements.alexsmobs.la_cucaracha.title": {
+    "en": "Mariachi!",
+    "zh": "Mariachi!",
+    "vi": "Mariachi!"
+  },
+  "advancements.alexsmobs.la_cucaracha.desc": {
+    "en": "Give a Maraca to a cockroach and enjoy the show. ¡La Cucaracha!",
+    "zh": "把一个沙槌丢给蟑螂，然后享受表演吧！¡La Cucaracha!",
+    "vi": "Ném một quả maraca vào con gián và thưởng thức màn trình diễn! ¡ La Cucaracha!"
+  },
+  "advancements.alexsmobs.banana.title": {
+    "en": "Gone Bananas!",
+    "zh": "香蕉疯了！",
+    "vi": "Chuối thật điên rồ!"
+  },
+  "advancements.alexsmobs.banana.desc": {
+    "en": "Obtain a Banana",
+    "zh": "获得一个香蕉。",
+    "vi": "Lấy một quả chuối."
+  },
+  "advancements.alexsmobs.tame_gorilla.title": {
+    "en": "In Memoriam",
+    "zh": "悼念",
+    "vi": "chia buồn"
+  },
+  "advancements.alexsmobs.tame_gorilla.desc": {
+    "en": "Tame a gorilla with bananas",
+    "zh": "用香蕉来驯服大猩猩。",
+    "vi": "Sử dụng chuối để thuần hóa khỉ đột."
+  },
+  "advancements.alexsmobs.tame_capuchin_monkey.title": {
+    "en": "Monkey Business",
+    "zh": "耍猴戏",
+    "vi": "chương trình khỉ"
+  },
+  "advancements.alexsmobs.tame_capuchin_monkey.desc": {
+    "en": "Tame a capuchin monkey with bananas",
+    "zh": "用香蕉驯服一只卷尾猴。",
+    "vi": "Dùng chuối để thuần hóa khỉ mũ."
+  },
+  "advancements.alexsmobs.sunbird_blessing.title": {
+    "en": "The Power of the Sun",
+    "zh": "耀阳之力",
+    "vi": "Sức mạnh của mặt trời"
+  },
+  "advancements.alexsmobs.sunbird_blessing.desc": {
+    "en": "Receive a blessing from the great and noble sunbird",
+    "zh": "接受来自崇高无上的曦鹤的祝福。",
+    "vi": "Nhận phước lành từ Xihe tối cao."
+  },
+  "advancements.alexsmobs.sopa_de_macaco.title": {
+    "en": "Uma Delicia",
+    "zh": "顶级美食",
+    "vi": "ẩm thực hàng đầu"
+  },
+  "advancements.alexsmobs.sopa_de_macaco.desc": {
+    "en": "Craft sopa de macaco with a banana peel",
+    "zh": "用一块香蕉皮来合成一碗猴儿汤。",
+    "vi": "Dùng vỏ chuối làm bát canh khỉ."
+  },
+  "advancements.alexsmobs.crocodile.title": {
+    "en": "Chompy",
+    "zh": "贪吃小球",
+    "vi": "Quả bóng nhỏ tham lam"
+  },
+  "advancements.alexsmobs.crocodile.desc": {
+    "en": "Encounter a Crocodile",
+    "zh": "遇见一只鳄鱼",
+    "vi": "gặp một con cá sấu"
+  },
+  "advancements.alexsmobs.crocodile_chestplate.title": {
+    "en": "Cover me with... scutes?",
+    "zh": "用鳞甲……包裹我？",
+    "vi": "Quấn tôi trong bộ áo giáp vảy...?"
+  },
+  "advancements.alexsmobs.crocodile_chestplate.desc": {
+    "en": "Craft a crocodile chestplate from many crocodile scutes",
+    "zh": "用许多片鳄鱼鳞甲来合成一件鳄鱼鳞甲胸甲。",
+    "vi": "Sử dụng nhiều mảnh vảy cá sấu để chế tạo tấm giáp ngực bằng vảy cá sấu."
+  },
+  "advancements.alexsmobs.tame_mantis_shrimp.title": {
+    "en": "Shrimp Friend",
+    "zh": "虾友",
+    "vi": "Những người bạn tôm"
+  },
+  "advancements.alexsmobs.tame_mantis_shrimp.desc": {
+    "en": "Tame a Mantis Shrimp with many feedings of Tropical Fish",
+    "zh": "用许多热带鱼来喂食螳螂虾并驯服它。",
+    "vi": "Cho tôm bọ ngựa ăn nhiều loài cá nhiệt đới và thuần hóa nó."
+  },
+  "advancements.alexsmobs.breed_crocodile.title": {
+    "en": "Crikey!",
+    "zh": "哎呀！",
+    "vi": "Ối!"
+  },
+  "advancements.alexsmobs.breed_crocodile.desc": {
+    "en": "Breed two crocodiles with rotten flesh. Careful not to trample their eggs!",
+    "zh": "给两只鳄鱼喂食腐肉，注意别踩碎了它们的蛋！",
+    "vi": "Cho hai con cá sấu ăn xác thối và cẩn thận đừng làm nát trứng của chúng!"
+  },
+  "advancements.alexsmobs.alligator_snapping_turtle.title": {
+    "en": "Alligator In Name Only",
+    "zh": "龟假鳄威",
+    "vi": "sức mạnh cá sấu giả rùa"
+  },
+  "advancements.alexsmobs.alligator_snapping_turtle.desc": {
+    "en": "Encounter an Alligator Snapping Turtle",
+    "zh": "遇见一只大鳄龟。",
+    "vi": "Gặp một con rùa khổng lồ đang búng tay."
+  },
+  "advancements.alexsmobs.spiked_scute.title": {
+    "en": "Shear the Scute",
+    "zh": "修剪鳞甲",
+    "vi": "Cắt vảy"
+  },
+  "advancements.alexsmobs.spiked_scute.desc": {
+    "en": "Shear a moss-covered Alligator Snapping Turtle and obtain a Spiked Scute",
+    "zh": "修剪一只披满苔藓的大鳄龟并得到一个锥形鳞甲。",
+    "vi": "Cắt tỉa một con rùa ngoạm phủ đầy rêu và lấy vảy hình nón."
+  },
+  "advancements.alexsmobs.spiked_turtle_shell.title": {
+    "en": "Turtle-ology Majors Be Like",
+    "zh": "龟类学应该就像这样",
+    "vi": "Chelonology sẽ trông như thế này"
+  },
+  "advancements.alexsmobs.spiked_turtle_shell.desc": {
+    "en": "Craft a Spiked Turtle Shell",
+    "zh": "合成一个大鳄龟壳。",
+    "vi": "Chế tạo một chiếc mai rùa khổng lồ."
+  },
+  "advancements.alexsmobs.mantis_shrimp_bucket.title": {
+    "en": "A Fistful of Water",
+    "zh": "一把水",
+    "vi": "một nắm nước"
+  },
+  "advancements.alexsmobs.mantis_shrimp_bucket.desc": {
+    "en": "Sneak and give a tamed Mantis Shrimp a bucket of water so that it can live on land indefinitely",
+    "zh": "偷偷给一只被驯服过的螳螂虾一桶水，这样它就可以在陆地上一直生活了。",
+    "vi": "Bí mật cho một con tôm bọ ngựa đã thuần hóa một xô nước để nó có thể sống trên cạn mãi mãi."
+  },
+  "advancements.alexsmobs.orcas_might.title": {
+    "en": "Free Willy",
+    "zh": "人鱼的童话",
+    "vi": "truyện cổ tích nàng tiên cá"
+  },
+  "advancements.alexsmobs.orcas_might.desc": {
+    "en": "Be granted a blessing from a wild Orca",
+    "zh": "得到来自野生虎鲸的祝福",
+    "vi": "Nhận phước lành từ cá voi sát thủ hoang dã"
+  },
+  "advancements.alexsmobs.acacia_blossom.title": {
+    "en": "Flowers of the Savanna",
+    "zh": "热带草原上的花儿",
+    "vi": "Hoa trên thảo nguyên"
+  },
+  "advancements.alexsmobs.acacia_blossom.desc": {
+    "en": "Obtain an Acacia Blossom from breaking Acacia Leaves",
+    "zh": "打碎金合欢树叶并得到一朵金合欢花。",
+    "vi": "Bẻ lá keo và lấy một bông hoa keo."
+  },
+  "advancements.alexsmobs.tame_elephant.title": {
+    "en": "Stampy!",
+    "zh": "跺跺脚！",
+    "vi": "Hãy dậm chân!"
+  },
+  "advancements.alexsmobs.tame_elephant.desc": {
+    "en": "Tame an elephant by feeding it Acacia Blossoms",
+    "zh": "用金合欢花来喂食大象并驯服它。",
+    "vi": "Dùng hoa keo để cho voi ăn và thuần hóa nó."
+  },
+  "advancements.alexsmobs.tame_elephant_tusked.title": {
+    "en": "The Biggest Land Mammal",
+    "zh": "陆地上最大的哺乳动物",
+    "vi": "động vật có vú lớn nhất trên cạn"
+  },
+  "advancements.alexsmobs.tame_elephant_tusked.desc": {
+    "en": "Tame a tusked elephant when it is a baby",
+    "zh": "驯服一只处于婴儿时期的大象。",
+    "vi": "Thuần hóa một chú voi con."
+  },
+  "advancements.alexsmobs.elephant_swag.title": {
+    "en": "Dressed to Impress",
+    "zh": "盛装打扮",
+    "vi": "ăn mặc"
+  },
+  "advancements.alexsmobs.elephant_swag.desc": {
+    "en": "Place a colored carpet on an elephant",
+    "zh": "把带有颜色的地毯放在大象身上。",
+    "vi": "Đặt tấm thảm màu lên con voi."
+  },
+  "advancements.alexsmobs.soul_vulture.title": {
+    "en": "Fetch Me Their Souls!",
+    "zh": "帮我取走他们的灵魂！",
+    "vi": "Hãy giúp tôi lấy linh hồn của họ!"
+  },
+  "advancements.alexsmobs.soul_vulture.desc": {
+    "en": "Encounter a Soul Vulture in the nether",
+    "zh": "在下界遇见一只灵魂鹫",
+    "vi": "Gặp gỡ một con Kền Kền Linh Hồn ở Nether"
+  },
+  "advancements.alexsmobs.soul_heart.title": {
+    "en": "The Soul-ly Ghost",
+    "zh": "灵魂 鬼魂",
+    "vi": "linh hồn ma"
+  },
+  "advancements.alexsmobs.soul_heart.desc": {
+    "en": "Obtain a soul heart from slaying a bloated Soul Vulture",
+    "zh": "通过杀死一只灵魂鹫来获得一个灵魂之心",
+    "vi": "Có được Trái tim linh hồn bằng cách giết Kền kền linh hồn"
+  },
+  "advancements.alexsmobs.spectre.title": {
+    "en": "The Iron Curtain",
+    "zh": "铁幕",
+    "vi": "rèm sắt"
+  },
+  "advancements.alexsmobs.spectre.desc": {
+    "en": "Lure a Spectre in the end with a Soul Heart. Use a lead on them to hitch a ride!",
+    "zh": "在末地用灵魂之心引诱一只灵翼。并用一根拴绳给拴起来！",
+    "vi": "Sử dụng Soul Heart để thu hút Netherwing vào phút cuối. Và buộc nó bằng dây xích!"
+  },
+  "advancements.alexsmobs.guster.title": {
+    "en": "Eye of The Storm",
+    "zh": "风暴之眼",
+    "vi": "Mắt bão"
+  },
+  "advancements.alexsmobs.guster.desc": {
+    "en": "Encounter a Guster during a stormy day in the desert",
+    "zh": "当沙漠里刮起沙尘暴时遇见一只沙风怪",
+    "vi": "Khi bão cát thổi qua sa mạc, tôi gặp quái vật bão cát"
+  },
+  "advancements.alexsmobs.gustmaker.title": {
+    "en": "I Am Become Guster",
+    "zh": "我要变成沙风怪了",
+    "vi": "Tôi sẽ biến thành quái vật bão cát"
+  },
+  "advancements.alexsmobs.gustmaker.desc": {
+    "en": "Craft a Gustmaker. Now you can make your own mini-storms!",
+    "zh": "合成一个造风器。现在你可以制作一个属于你自己的小型风暴了！",
+    "vi": "Chế tạo một máy phát điện gió. Bây giờ bạn có thể tạo ra một cơn bão nhỏ của riêng mình!"
+  },
+  "advancements.alexsmobs.pocket_sand.title": {
+    "en": "Pocket Sand!",
+    "zh": "口袋里的沙子！",
+    "vi": "Cát trong túi của bạn!"
+  },
+  "advancements.alexsmobs.pocket_sand.desc": {
+    "en": "Craft a Pocket Of Sand. Sha-sha!",
+    "zh": "合成一个含沙射之袋。唦唦！",
+    "vi": "Tạo ra một túi những lời ám chỉ. Ôi!"
+  },
+  "advancements.alexsmobs.crimson_mosquito_sick.title": {
+    "en": "Down with the Sickness",
+    "zh": "重病缠身",
+    "vi": "Bị bệnh nặng"
+  },
+  "advancements.alexsmobs.crimson_mosquito_sick.desc": {
+    "en": "Feed a Crimson Mosquito a strange, fungal creature covered in Warped Fungus. Watch as the Crimson Mosquito transforms!",
+    "zh": "给绯红蚊子喂食一种覆盖着诡异菌的真菌生物。然后看着绯红蚊子变化吧！",
+    "vi": "Cho Muỗi đỏ thẫm ăn một sinh vật nấm được bao phủ bởi những loại nấm kỳ lạ. Sau đó xem sự thay đổi màu đỏ thẫm của muỗi!"
+  },
+  "advancements.alexsmobs.warped_mosco_kill.title": {
+    "en": "Destroyer of Chads",
+    "zh": "高质量男性",
+    "vi": "đàn ông chất lượng cao"
+  },
+  "advancements.alexsmobs.warped_mosco_kill.desc": {
+    "en": "Slay the Warped Mosco, the swole defender of the Warped Forest.",
+    "zh": "杀死诡异蚊鬼，诡异森林里强壮的保卫者。",
+    "vi": "Giết ma muỗi kỳ lạ, người bảo vệ mạnh mẽ của khu rừng kỳ lạ."
+  },
+  "advancements.alexsmobs.hemolymph_blaster.title": {
+    "en": "Blast from the... Future?",
+    "zh": "来自未来的……轰鸣声？",
+    "vi": "Tiếng gầm từ tương lai?"
+  },
+  "advancements.alexsmobs.hemolymph_blaster.desc": {
+    "en": "Craft a Hemolyph Blaster, the ultimate upgrade to the Blood Sprayer.",
+    "zh": "合成一个血淋巴喷射器，血液喷射器的最终版本。",
+    "vi": "Chế tạo Máy phun máu, phiên bản cuối cùng của Máy phun máu."
+  },
+  "advancements.alexsmobs.straddler.title": {
+    "en": "Straddle My Ol' Saddle",
+    "zh": "跨上我的座鞍",
+    "vi": "Lên yên của tôi"
+  },
+  "advancements.alexsmobs.straddler.desc": {
+    "en": "Encounter a Straddler in the Basalt Deltas.",
+    "zh": "在玄武岩三角洲中遇见一只跨座兽。",
+    "vi": "Gặp phải một con thú đang cưỡi ngựa ở vùng đồng bằng bazan."
+  },
+  "advancements.alexsmobs.stradpole_feed.title": {
+    "en": "Like Father",
+    "zh": "如父似母",
+    "vi": "giống bố giống mẹ"
+  },
+  "advancements.alexsmobs.stradpole_feed.desc": {
+    "en": "Feed a Stradpole some Mosquito Larva, in hopes of turning it into a Straddler.",
+    "zh": "给跨座蝌蚪喂食一些孑孓，希望能把它变成跨座兽。",
+    "vi": "Cho một con nòng nọc đang dang chân ăn một ít ấu trùng với hy vọng biến nó thành một con quái vật đang dang chân."
+  },
+  "advancements.alexsmobs.straddleboard.title": {
+    "en": "Surf Wax America",
+    "zh": "Surf Wax America",
+    "vi": "Surf Wax America"
+  },
+  "advancements.alexsmobs.straddleboard.desc": {
+    "en": "Craft a Straddleboard from some Netherite and Straddlerite.",
+    "zh": "用一些下界合金和跨座晶石来合成一个跨板。",
+    "vi": "Sử dụng một số netherite và hedron dây xích để chế tạo một tấm dây xích."
+  },
+  "advancements.alexsmobs.emu.title": {
+    "en": "It's an Emu!!!",
+    "zh": "这是一只鸸鹋！！！",
+    "vi": "Đây là emu! ! !"
+  },
+  "advancements.alexsmobs.emu.desc": {
+    "en": "Encounter an Emu. Exercise caution.",
+    "zh": "遇见一只鸸鹋。请谨慎行事。",
+    "vi": "Gặp một emu. Hãy tiến hành thận trọng."
+  },
+  "advancements.alexsmobs.emu_dodge.title": {
+    "en": "Begun, The Emu War Has",
+    "zh": "鸸鹋战争，一触即发",
+    "vi": "Chiến tranh Emu sắp nổ ra"
+  },
+  "advancements.alexsmobs.emu_dodge.desc": {
+    "en": "See an emu dodge a launched projectile.",
+    "zh": "看到过一只鸸鹋躲避发射出的弹射物。",
+    "vi": "Một emu được nhìn thấy đang né đạn."
+  },
+  "advancements.alexsmobs.kangaroo.title": {
+    "en": "We do a little trolling...",
+    "zh": "我们实施了一次小型的拖捕行动……",
+    "vi": "Chúng tôi đã tiến hành một hoạt động kéo nhỏ..."
+  },
+  "advancements.alexsmobs.kangaroo.desc": {
+    "en": "Encounter a Kangaroo",
+    "zh": "遇见一只袋鼠。",
+    "vi": "Gặp một con kangaroo."
+  },
+  "advancements.alexsmobs.save_cachalot_whale.title": {
+    "en": "Save the Whales!",
+    "zh": "拯救鲸鱼!",
+    "vi": "Hãy cứu cá voi!"
+  },
+  "advancements.alexsmobs.save_cachalot_whale.desc": {
+    "en": "Save a beached Cachalot Whale by pushing it into the water, and then have it reward you by coughing up some Ambergris",
+    "zh": "把一头搁浅的抹香鲸推入水中, 然后它会吐出一些龙涎香作为回报。",
+    "vi": "Đẩy một con cá nhà táng xuống nước và nó sẽ phun ra một ít long diên hương."
+  },
+  "advancements.alexsmobs.echolocator.title": {
+    "en": "Echo-muh-cation!",
+    "zh": "回声！",
+    "vi": "tiếng vang!"
+  },
+  "advancements.alexsmobs.echolocator.desc": {
+    "en": "Craft an Echolocator, which can reveal nearby caves",
+    "zh": "合成一个可以寻找附近洞穴的回声定位器。",
+    "vi": "Tổng hợp một máy định vị bằng tiếng vang có thể tìm thấy các hang động gần đó."
+  },
+  "advancements.alexsmobs.endolocator.title": {
+    "en": "No End In Sight",
+    "zh": "无迹可寻的末地",
+    "vi": "Cái kết không dấu vết"
+  },
+  "advancements.alexsmobs.endolocator.desc": {
+    "en": "Craft an Endolocator, which can reveal nearby End Portal Frames",
+    "zh": "合成一个可以寻找末地门的末影定位器。",
+    "vi": "Tạo một bộ định vị cuối có thể tìm thấy các cửa cuối."
+  },
+  "advancements.alexsmobs.stomp_leafcutter_anthill.title": {
+    "en": "Ant-Agonizer",
+    "zh": "蚂蚁终结者",
+    "vi": "Kẻ hủy diệt kiến"
+  },
+  "advancements.alexsmobs.stomp_leafcutter_anthill.desc": {
+    "en": "Stomp on a Leafcutter Anthill - beware the angry denizens within!",
+    "zh": "踩在切叶蚁丘上——得当心里面愤怒的住民！",
+    "vi": "Bước lên một tổ kiến ​​đang xé lá—hãy cẩn thận với những cư dân giận dữ bên trong!"
+  },
+  "advancements.alexsmobs.gongylidia.title": {
+    "en": "Like a Truffle, with more Ant",
+    "zh": "就像一块沾满了蚂蚁的松露",
+    "vi": "Như nấm cục phủ đầy kiến"
+  },
+  "advancements.alexsmobs.gongylidia.desc": {
+    "en": "Harvest Gongylidia from a Leafcutter Ant Chamber underground. Place Shroomlight near the chamber to make sure you don't upset the locals",
+    "zh": "从地下的切叶蚁室收集菌丝球。把菌光体放在蚁室的附近来确保不会惹怒它们。",
+    "vi": "Thu thập các sợi nấm từ các hang kiến ​​cắt lá dưới lòng đất. Đặt mycophore gần ổ kiến ​​để đảm bảo nó không làm phiền chúng."
+  },
+  "advancements.alexsmobs.leafcutter_ant_pupa.title": {
+    "en": "Ant Farm",
+    "zh": "蚁场",
+    "vi": "trang trại kiến"
+  },
+  "advancements.alexsmobs.leafcutter_ant_pupa.desc": {
+    "en": "Obtain a Leafcutter Ant Pupa, which can be placed on dirt to start a Leafcutter Ant colony.",
+    "zh": "获得一个可以放在泥土上的切叶蚁蛹，以此来建立一个切叶蚁群。",
+    "vi": "Bắt đầu xây dựng đàn kiến ​​cắt lá bằng cách lấy một con nhộng kiến ​​cắt lá mà bạn có thể đặt trên đất."
+  },
+  "advancements.alexsmobs.enderiophage.title": {
+    "en": "Ender Distancing",
+    "zh": "远离末地",
+    "vi": "Xa cuối cùng"
+  },
+  "advancements.alexsmobs.enderiophage.desc": {
+    "en": "Encounter an Enderiophage, a giant biomechanical construct found in the End Midlands. Be careful not to catch Ender Flu!",
+    "zh": "在末地中型岛屿的一个巨大生物力学结构体里遇见一只末影噬菌体。小心别传染上末影流感！",
+    "vi": "Gặp phải Ender Phage bên trong một cấu trúc cơ sinh học khổng lồ trên một hòn đảo cỡ trung bình ở End. Hãy cẩn thận để không bị nhiễm Cúm Ender!"
+  },
+  "advancements.alexsmobs.capsid.title": {
+    "en": "Capsid-19",
+    "zh": "衣壳体-19",
+    "vi": "capsid-19"
+  },
+  "advancements.alexsmobs.capsid.desc": {
+    "en": "Obtain a Capsid from a slain Enderiophage. Use it to display items or to transfer them upwards",
+    "zh": "通过杀死末影噬菌体来获得一个衣壳体。使用它来展示物品或者往上传输物品。",
+    "vi": "Có được Capsid bằng cách tiêu diệt Ender Phage. Sử dụng nó để trưng bày vật phẩm hoặc vận chuyển vật phẩm lên trên."
+  },
+  "advancements.alexsmobs.ender_flu.title": {
+    "en": "Race Against The Clock",
+    "zh": "与时间赛跑",
+    "vi": "chạy đua với thời gian"
+  },
+  "advancements.alexsmobs.ender_flu.desc": {
+    "en": "Catch the Ender Flu effect. Cure it by eating many Chorus Fruit or drinking milk. Be sure not to let it run its toll!",
+    "zh": "患上了末影流感。可以通过多吃紫颂果或者牛奶来治愈。确保别让它造成伤亡。",
+    "vi": "Bị cúm Ender. Nó có thể được chữa khỏi bằng cách ăn nhiều trái cây hoặc sữa. Hãy chắc chắn rằng bạn không để nó gây thương vong."
+  },
+  "advancements.alexsmobs.enderiophage_rocket.title": {
+    "en": "Ad End-stra",
+    "zh": "预备 末地 发射",
+    "vi": "Chuẩn bị ra mắt cuối cùng"
+  },
+  "advancements.alexsmobs.enderiophage_rocket.desc": {
+    "en": "Craft an Enderiophage Rocket, which can be used in place of Firework Rockets when in the End.",
+    "zh": "合成一个末影噬菌体火箭，它可以代替烟花火箭在末地中发射。",
+    "vi": "Chế tạo Tên lửa Ender Phage có thể bắn vào lúc Cuối thay vì Tên lửa Pháo hoa."
+  },
+  "advancements.alexsmobs.tame_bald_eagle.title": {
+    "en": "Freedom Intensifies",
+    "zh": "更加自由",
+    "vi": "tự do hơn"
+  },
+  "advancements.alexsmobs.tame_bald_eagle.desc": {
+    "en": "Tame a bald eagle with fish oil.",
+    "zh": "驯服一只白头海雕。",
+    "vi": "Thuần hóa một con đại bàng hói."
+  },
+  "advancements.alexsmobs.falconry_glove.title": {
+    "en": "Hand In Glove",
+    "zh": "亲密无间",
+    "vi": "thân mật"
+  },
+  "advancements.alexsmobs.falconry_glove.desc": {
+    "en": "Craft a Falconry Glove from Leather and Hair of Bear. Use it to pick up and launch tamed eagles!",
+    "zh": "使用皮革和灰熊毛皮合成一双猎鹰手套。使用猎鹰手套可以与雕取得信任并驯服它！",
+    "vi": "Sử dụng da và lông hoa râm để chế tạo một đôi găng tay chim ưng. Sử dụng Găng tay chim ưng để có được sự tin tưởng với đại bàng và thuần hóa nó!"
+  },
+  "advancements.alexsmobs.falconry_hood.title": {
+    "en": "Blindsided",
+    "zh": "措手不及",
+    "vi": "mất cảnh giác"
+  },
+  "advancements.alexsmobs.falconry_hood.desc": {
+    "en": "Craft a Falconry Hood from Leather and a Roadrunner Feather. Eagles wearing one can be manually directed!",
+    "zh": "使用皮革和走鹃羽毛合成一顶猎鹰兜帽。可以直接给雕手动戴上它。",
+    "vi": "Chế tạo mũ trùm đầu của chim ưng bằng da và lông đi đường. Bạn có thể đeo nó trực tiếp cho bàn tay chạm khắc."
+  },
+  "advancements.alexsmobs.bald_eagle_challenge.title": {
+    "en": "Winning Play",
+    "zh": "致命一击",
+    "vi": "đòn chí mạng"
+  },
+  "advancements.alexsmobs.bald_eagle_challenge.desc": {
+    "en": "Kill any creature from 100 blocks away with an eagle wearing a hood.",
+    "zh": "让一只戴着兜帽的老鹰杀死 100 个方块以外的任意生物。",
+    "vi": "Yêu cầu một con đại bàng trùm đầu tiêu diệt bất kỳ sinh vật nào cách đó 100 khối."
+  },
+  "advancements.alexsmobs.tigers_blessing.title": {
+    "en": "Eye of the Tiger",
+    "zh": "虎视眈眈",
+    "vi": "Nhìn bằng ánh mắt háo hức"
+  },
+  "advancements.alexsmobs.tigers_blessing.desc": {
+    "en": "Receive a Tiger's Blessing after feeding it Porkchops, Chicken or other meats.",
+    "zh": "在给老虎喂食猪肉、鸡肉或者其他肉类以后，获得来自老虎的祝福。",
+    "vi": "Nhận phước lành từ con hổ sau khi cho nó ăn thịt lợn, thịt gà hoặc các loại thịt khác."
+  },
+  "advancements.alexsmobs.tarantula_hawk.title": {
+    "en": "Rigged from the Start",
+    "zh": "一开始就被盯上了",
+    "vi": "Đã nhắm mục tiêu ngay từ đầu"
+  },
+  "advancements.alexsmobs.tarantula_hawk.desc": {
+    "en": "Encounter a Tarantula Hawk in a desert.",
+    "zh": "在沙漠里遇见一只沙漠蛛蜂。",
+    "vi": "Gặp một con ong bắp cày sa mạc trên sa mạc."
+  },
+  "advancements.alexsmobs.tame_tarantula_hawk.title": {
+    "en": "Big Iron",
+    "zh": "大钢炮",
+    "vi": "pháo thép lớn"
+  },
+  "advancements.alexsmobs.tame_tarantula_hawk.desc": {
+    "en": "Tame a Tarantula Hawk by feeding it Spider Eyes.",
+    "zh": "用蜘蛛眼来喂食一只沙漠蛛蜂并驯服它。",
+    "vi": "Sử dụng Mắt Nhện để cho Ong bắp cày sa mạc ăn và thuần hóa nó."
+  },
+  "advancements.alexsmobs.mysterious_worm.title": {
+    "en": "Destroy The Child",
+    "zh": "毁掉孩子",
+    "vi": "hủy hoại trẻ em"
+  },
+  "advancements.alexsmobs.mysterious_worm.desc": {
+    "en": "Create a Mysterious Worm by putting a Crimson Mosquito Larva in a Capsid.",
+    "zh": "将一只绯红孑孓放进衣壳体中来创造出一种神秘的蠕虫。",
+    "vi": "Đặt một con sâu màu đỏ thẫm vào bên trong cơ thể Capsid để tạo ra một con sâu bí ẩn."
+  },
+  "advancements.alexsmobs.void_worm_summon.title": {
+    "en": "A Soul for a Soul",
+    "zh": "以魂换魂",
+    "vi": "linh hồn cho tâm hồn"
+  },
+  "advancements.alexsmobs.void_worm_summon.desc": {
+    "en": "Toss the Mysterious Worm into the void of the End, and prepare to meet the Void Worm.",
+    "zh": "把神秘的蠕虫丢进末地的虚空里来准备迎接虚空蠕虫吧。",
+    "vi": "Hãy sẵn sàng cho con sâu hư không bằng cách ném con sâu bí ẩn vào khoảng trống cuối cùng."
+  },
+  "advancements.alexsmobs.void_worm_split.title": {
+    "en": "Should've Gone for the Head",
+    "zh": "吾应先攻敌首级",
+    "vi": "Tôi nên tấn công vào đầu kẻ thù trước"
+  },
+  "advancements.alexsmobs.void_worm_split.desc": {
+    "en": "Split a void worm in half by attacking one of its body segments. More worms, more problems!",
+    "zh": "攻击虚空蠕虫的身体使其一分为二，更多蠕虫，更多麻烦！",
+    "vi": "Tấn công cơ thể của sâu hư không để chia nó thành hai, nhiều sâu hơn, rắc rối hơn!"
+  },
+  "advancements.alexsmobs.void_worm_kill.title": {
+    "en": "Wormy",
+    "zh": "蠕虫危机",
+    "vi": "khủng hoảng sâu"
+  },
+  "advancements.alexsmobs.void_worm_kill.desc": {
+    "en": "Destroy the Void Worm.",
+    "zh": "消灭虚空蠕虫",
+    "vi": "Tiêu diệt sâu hư vô"
+  },
+  "advancements.alexsmobs.dimensional_carver.title": {
+    "en": "Break On Through...",
+    "zh": "突破……",
+    "vi": "đột phá……"
+  },
+  "advancements.alexsmobs.dimensional_carver.desc": {
+    "en": "Using the drops of the Void Worm, create the Dimensional Carver, which allows you to dig through the fabric of reality to return home at any given point.",
+    "zh": "利用虚空蠕虫的掉落物，来制作一把允许你在真实世界的脉络中进行穿越，并可以在任何地方返回定点的维度撕裂者。",
+    "vi": "Sử dụng những thứ rơi ra từ Void Worm để chế tạo Dimension Ripper cho phép bạn du hành trong bối cảnh của thế giới thực và quay trở lại một điểm cố định ở bất cứ đâu."
+  },
+  "advancements.alexsmobs.seagull_steal.title": {
+    "en": "Mine? Mine? Mine?",
+    "zh": "我的？我的？我的东西呢？",
+    "vi": "của tôi? của tôi? Đồ đạc của tôi đâu?"
+  },
+  "advancements.alexsmobs.seagull_steal.desc": {
+    "en": "Have food stolen from your inventory by a seagull.",
+    "zh": "让海鸥偷走你的物品栏里的食物。",
+    "vi": "Hãy để hải âu ăn trộm thức ăn từ kho của bạn."
+  },
+  "advancements.alexsmobs.froststalker_kill.title": {
+    "en": "Ice Scream",
+    "zh": "冰泣懔",
+    "vi": "Băng và nước mắt"
+  },
+  "advancements.alexsmobs.froststalker_kill.desc": {
+    "en": "Slay a Froststalker.",
+    "zh": "杀死一只寒霜潜伏者。",
+    "vi": "Giết một Frost Lurker."
+  },
+  "advancements.alexsmobs.froststalker_helmet.title": {
+    "en": "An Impostor Amoung Us",
+    "zh": "谁是内鬼",
+    "vi": "Nốt ruồi là ai?"
+  },
+  "advancements.alexsmobs.froststalker_helmet.desc": {
+    "en": "Craft a Froststalker Helmet to walk amongst Froststalkers undetected.",
+    "zh": "合成一个可以令你在寒霜潜伏者之间行走时不被发现的寒霜潜伏头盔。",
+    "vi": "Chế tạo Mũ bảo hiểm Frost Lurker cho phép bạn đi lại giữa Frost Lurker mà không bị phát hiện."
+  },
+  "advancements.alexsmobs.breed_froststalker.title": {
+    "en": "Undercover Under Covers",
+    "zh": "谍中谍",
+    "vi": "Nhiệm vụ: Bất khả thi"
+  },
+  "advancements.alexsmobs.breed_froststalker.desc": {
+    "en": "Breed two Froststalkers with porkchops.",
+    "zh": "用猪排来繁殖两只寒霜潜伏者。",
+    "vi": "Sử dụng Sườn lợn để nhân giống hai Frost Lurker."
+  },
+  "advancements.alexsmobs.laviathan_spyglass.title": {
+    "en": "Loch-Nether Monster!",
+    "zh": "熔岩湖巨兽！",
+    "vi": "Quái vật hồ dung nham!"
+  },
+  "advancements.alexsmobs.laviathan_spyglass.desc": {
+    "en": "Observe a Laviathan through the lens of a Spyglass.",
+    "zh": "透过望远镜观察炽岩。",
+    "vi": "Nhìn qua kính viễn vọng vào tảng đá rực lửa."
+  },
+  "advancements.alexsmobs.straddle_saddle.title": {
+    "en": "The Family Sedan",
+    "zh": "私家车",
+    "vi": "xe riêng"
+  },
+  "advancements.alexsmobs.straddle_saddle.desc": {
+    "en": "Craft a Straddlite Saddle. Don't forget the trim!",
+    "zh": "合成一个跨座晶石鞍。别忘了进行装饰！",
+    "vi": "Chế tạo một chiếc yên ngựa có dây kéo. Đừng quên trang trí!"
+  },
+  "advancements.alexsmobs.laviathan_four_passengers.title": {
+    "en": "Mass Transit",
+    "zh": "公交兽",
+    "vi": "quái vật xe buýt"
+  },
+  "advancements.alexsmobs.laviathan_four_passengers.desc": {
+    "en": "Ride a Laviathan with three other passengers.",
+    "zh": "与其他三名伙伴一起骑乘一只炽岩。",
+    "vi": "Hãy cưỡi Blaze cùng ba người bạn đồng hành khác."
+  },
+  "advancements.alexsmobs.cosmic_cod.title": {
+    "en": "Weird Fishes/Arpeggi",
+    "zh": "怪鱼",
+    "vi": "cá lạ"
+  },
+  "advancements.alexsmobs.cosmic_cod.desc": {
+    "en": "Create a Cosmic Cod by placing a Cod in a Capsid.",
+    "zh": "在衣壳体中放入一只鳕鱼来创造一只宇宙鳕鱼。",
+    "vi": "Đặt một con cá tuyết vào trong vỏ Capsid để tạo ra một con cá tuyết vũ trụ."
+  },
+  "advancements.alexsmobs.tame_cosmaw.title": {
+    "en": "Its a Fish? Its a Bug? What is it?",
+    "zh": "这是鱼还是虫？或者是？",
+    "vi": "Đây là cá hay côn trùng? Hay là vậy?"
+  },
+  "advancements.alexsmobs.tame_cosmaw.desc": {
+    "en": "Tame a Cosmaw by feeding it Cosmic Cod.",
+    "zh": "用宇宙鳕鱼来喂食一只宙游鲟并驯服它。",
+    "vi": "Cho cá tầm vũ trụ ăn cá tuyết vũ trụ và thuần hóa nó."
+  },
+  "advancements.alexsmobs.breed_anteater.title": {
+    "en": "Aunt Anteater",
+    "zh": "食蚁兽阿姨",
+    "vi": "Dì thú ăn kiến"
+  },
+  "advancements.alexsmobs.breed_anteater.desc": {
+    "en": "Breed two Anteaters by feeding them pupae.",
+    "zh": "给两只食蚁兽喂食虫蛹来繁殖它们。",
+    "vi": "Nhân giống hai loài thú ăn kiến ​​bằng cách cho chúng ăn nhộng."
+  },
+  "advancements.alexsmobs.maned_wolf_apple.title": {
+    "en": "Hungry For Apples?",
+    "zh": "渴望苹果吗？",
+    "vi": "Thèm táo?"
+  },
+  "advancements.alexsmobs.maned_wolf_apple.desc": {
+    "en": "Feed a Maned Wolf an apple.",
+    "zh": "给一只鬃狼喂食一个苹果。",
+    "vi": "Cho sói bờm ăn một quả táo."
+  },
+  "advancements.alexsmobs.rocky_roller.title": {
+    "en": "KEEP ROLLIN' ROLLIN' ROLLIN'",
+    "zh": "继续滚，滚，滚！",
+    "vi": "Hãy tiếp tục lăn, lăn, lăn!"
+  },
+  "advancements.alexsmobs.rocky_roller.desc": {
+    "en": "Encounter a Rocky Roller in the dripstone caves.",
+    "zh": "在溶洞中遇见一只岩磙兽。",
+    "vi": "Gặp phải một con thú đá trong hang động."
+  },
+  "advancements.alexsmobs.rocky_shell.title": {
+    "en": "Rocks Off!",
+    "zh": "磙开！",
+    "vi": "Hãy mở ra!"
+  },
+  "advancements.alexsmobs.rocky_shell.desc": {
+    "en": "Obtain a Rocky Shell from slaying a Rocky Roller.",
+    "zh": "通过杀死一只岩磙兽获得一个岩壳。",
+    "vi": "Có được Rock Shell bằng cách giết Rockbeast."
+  },
+  "advancements.alexsmobs.rocky_chestplate.title": {
+    "en": "You're too Slow!",
+    "zh": "你太慢了！",
+    "vi": "Bạn quá chậm!"
+  },
+  "advancements.alexsmobs.rocky_chestplate.desc": {
+    "en": "Craft a Rock Shell Chestplate to roll into a ball.",
+    "zh": "合成一个岩壳胸甲，然后翻滚成一个球吧。",
+    "vi": "Chế tạo Áo giáp Rockshell, sau đó cuộn nó thành một quả bóng."
+  },
+  "advancements.alexsmobs.tame_flutter.title": {
+    "en": "A Picky Fellow",
+    "zh": "挑剔的家伙",
+    "vi": "anh chàng kén chọn"
+  },
+  "advancements.alexsmobs.tame_flutter.desc": {
+    "en": "Tame a Flutter by giving it multiple kinds of flowers.",
+    "zh": "给一只花飘飘喂食许多种花儿并驯服它。",
+    "vi": "Nuôi một bông hoa rung động với nhiều loại hoa và thuần hóa nó."
+  },
+  "advancements.alexsmobs.rainbow_jelly.title": {
+    "en": "Taste the Rainbow",
+    "zh": "遇见彩虹，吃定彩虹！",
+    "vi": "Gặp cầu vồng, ăn cầu vồng!"
+  },
+  "advancements.alexsmobs.rainbow_jelly.desc": {
+    "en": "Obtain Rainbow Jelly from a Comb Jelly. Use a sponge if you don't like what happens...",
+    "zh": "通过一只栉水母来获得彩虹果冻。如果你不想发生什么事情，请用一个海绵来……",
+    "vi": "Lấy Rainbow Jelly từ Ctenophore. Nếu bạn không muốn điều gì xảy ra, hãy dùng miếng bọt biển..."
+  },
+  "advancements.alexsmobs.rainbow_glass.title": {
+    "en": "Rainbow Road",
+    "zh": "彩虹桥",
+    "vi": "cầu vồng"
+  },
+  "advancements.alexsmobs.rainbow_glass.desc": {
+    "en": "Craft Rainbow Glass from Rainbow Jelly and Glass.",
+    "zh": "使用彩虹果冻和玻璃来合成彩虹玻璃。",
+    "vi": "Sử dụng thạch cầu vồng và thủy tinh để chế tạo thủy tinh cầu vồng."
+  },
+  "advancements.alexsmobs.bison_spyglass.title": {
+    "en": "Perfect View in the Plains",
+    "zh": "平原上的美景",
+    "vi": "cảnh đẹp trên đồng bằng"
+  },
+  "advancements.alexsmobs.bison_spyglass.desc": {
+    "en": "Observe a Bison through the lens of a Spyglass.",
+    "zh": "透过望远镜观察野牛。",
+    "vi": "Quan sát bò rừng qua kính viễn vọng."
+  },
+  "advancements.alexsmobs.lost_tentacle.title": {
+    "en": "A Small Price to Pay...",
+    "zh": "需要付出一次小代价……",
+    "vi": "Đó là một cái giá nhỏ phải trả…"
+  },
+  "advancements.alexsmobs.lost_tentacle.desc": {
+    "en": "Obtain a Lost Tentacle from a battle between two titans.",
+    "zh": "从两只大型生物的搏斗中获得一个遗落的触手。",
+    "vi": "Lấy lại xúc tu bị mất từ ​​cuộc chiến giữa hai sinh vật lớn."
+  },
+  "advancements.alexsmobs.squid_grapple.title": {
+    "en": "... for Salvation",
+    "zh": "……为了解救",
+    "vi": "...để giải cứu"
+  },
+  "advancements.alexsmobs.squid_grapple.desc": {
+    "en": "Craft a Grappling Squok from Lost Tentacles, a crossbow and copper ingots.",
+    "zh": "使用遗落的触手、铜锭和一张弩来合成一张抓钩发射弩。",
+    "vi": "Sử dụng các xúc tu còn thiếu, thỏi đồng và nỏ để chế tạo móc vật lộn để bắn nỏ."
+  },
+  "advancements.alexsmobs.skelewag.title": {
+    "en": "We Just Want our Hat Back",
+    "zh": "我们只想要回我们的帽子",
+    "vi": "Chúng tôi chỉ muốn lấy lại mũ của mình"
+  },
+  "advancements.alexsmobs.skelewag.desc": {
+    "en": "Encounter a Skelewag near a sunken ship.",
+    "zh": "在沉船附近遇见骷髅剑鱼。",
+    "vi": "Gặp Skeleton Swordfish gần con tàu đắm."
+  },
+  "advancements.alexsmobs.skelewag_skull.title": {
+    "en": "Smitty WerbenJagerManJensen",
+    "zh": "史密提·威威·杰格·曼·杰森",
+    "vi": "Smitty Whiskers Jag Man Jason"
+  },
+  "advancements.alexsmobs.skelewag_skull.desc": {
+    "en": "Take a sword-like skull from a Skelewag.",
+    "zh": "从骷髅剑鱼身上取下一个剑状的头骨。",
+    "vi": "Loại bỏ hộp sọ hình thanh kiếm khỏi xương cá kiếm."
+  },
+  "advancements.alexsmobs.novelty_hat.title": {
+    "en": "He Was Number One!",
+    "zh": "他是第一名！",
+    "vi": "Anh ấy là số một!"
+  },
+  "advancements.alexsmobs.novelty_hat.desc": {
+    "en": "Obtain a Novelty Hat from a Skelewag.",
+    "zh": "从骷髅剑鱼身上获取一顶汽水帽。",
+    "vi": "Nhận Mũ Soda từ Cá kiếm Skeleton."
+  },
+  "advancements.alexsmobs.fish_bones.title": {
+    "en": "A Bone to Pick",
+    "zh": "鸡蛋里挑骨头",
+    "vi": "Tự mình nhặt trứng"
+  },
+  "advancements.alexsmobs.fish_bones.desc": {
+    "en": "Obtain Fish Bones from a Skelewag.",
+    "zh": "从骷髅剑鱼身上获取一些鱼骨。",
+    "vi": "Lấy một ít xương từ Skeleton Swordfish."
+  },
+  "advancements.alexsmobs.strange_fish_finder.title": {
+    "en": "The Quest for the Best",
+    "zh": "追求最佳",
+    "vi": "theo đuổi điều tốt nhất"
+  },
+  "advancements.alexsmobs.strange_fish_finder.desc": {
+    "en": "Craft a Strange Fish Finder from slimeballs, Fish Bones and an Echolocator.",
+    "zh": "使用一些黏液球、鱼骨和一个回声定位器来合成一个怪鱼寻觅器。",
+    "vi": "Sử dụng một số quả bóng chất nhờn, xương cá và máy định vị bằng tiếng vang để chế tạo công cụ tìm cá quái vật."
+  },
+  "advancements.alexsmobs.devils_hole_pupfish_bucket.title": {
+    "en": "One Chunk Fish",
+    "zh": "一区块的鱼",
+    "vi": "miếng cá"
+  },
+  "advancements.alexsmobs.devils_hole_pupfish_bucket.desc": {
+    "en": "Capture the rarest fish in a bucket.",
+    "zh": "用桶来捕获最稀有的鱼。",
+    "vi": "Sử dụng xô để bắt những con cá quý hiếm nhất."
+  },
+  "advancements.alexsmobs.shattered_dimensional_carver.title": {
+    "en": "Ticket to the End of the World",
+    "zh": "通往世界尽头的门票",
+    "vi": "Tấm vé đến nơi tận cùng thế giới"
+  },
+  "advancements.alexsmobs.shattered_dimensional_carver.desc": {
+    "en": "Shatter a Dimensional Carver by placing it in a Capsid. Instead of opening a portal home, it will now open a portal one million blocks in any direction.",
+    "zh": "通过将一个维度撕裂者放入衣壳体中来碎裂它。 它现在将会在任意方向上打开一个通往 100 万个方块以外的传送门，而不是通往重生点的传送门。",
+    "vi": "Phân mảnh Capsid bằng cách đặt Dimension Ripper vào đó. Bây giờ nó sẽ mở một cổng cách đó 1 triệu khối theo bất kỳ hướng nào, thay vì cổng dẫn đến điểm sinh sản."
+  },
+  "advancements.alexsmobs.farseer.title": {
+    "en": "Farland Security",
+    "zh": "边界之地的保卫者",
+    "vi": "Người bảo vệ vùng biên giới"
+  },
+  "advancements.alexsmobs.farseer.desc": {
+    "en": "Encounter the Farseer, a monstrous defender of the world border.",
+    "zh": "遇见瞻远者，骇人的世界边界守护者。",
+    "vi": "Gặp gỡ Visionaries, những người bảo vệ đáng sợ của biên giới thế giới."
+  },
+  "advancements.alexsmobs.transmutation_table.title": {
+    "en": "Reality Can Be Whatever I Want",
+    "zh": "现实会是我想要的一切",
+    "vi": "Thực tế sẽ là tất cả những gì tôi muốn"
+  },
+  "advancements.alexsmobs.transmutation_table.desc": {
+    "en": "Craft a Transmutation Table to convert materials into almost anything.",
+    "zh": "合成一个嬗变台，将无用的材料转化成几乎任何东西。",
+    "vi": "Chế tạo Trạm biến đổi để biến những vật liệu vô dụng thành hầu hết mọi thứ."
+  },
+  "advancements.alexsmobs.transmute_1000_items.title": {
+    "en": "Nonequivalent Exchange",
+    "zh": "不等价交换",
+    "vi": "trao đổi không bình đẳng"
+  },
+  "advancements.alexsmobs.transmute_1000_items.desc": {
+    "en": "Transmute 1000 items using the same Transmutation Table.",
+    "zh": "使用同一个嬗变台嬗变超过1000个物品。",
+    "vi": "Chuyển đổi hơn 1000 vật phẩm bằng cách sử dụng cùng một bảng chuyển đổi."
+  },
+  "advancements.alexsmobs.underminer.title": {
+    "en": "Who Undermines the Underminer?",
+    "zh": "地底矿工在地底旷工了吗",
+    "vi": "Những người khai thác hầm lò có vắng mặt khi làm việc dưới lòng đất không?"
+  },
+  "advancements.alexsmobs.underminer.desc": {
+    "en": "Break the block an Underminer is mining, revealing a hidden ore",
+    "zh": "破坏掉地底矿工正在开采的方块，隐藏的矿石会显露出来。",
+    "vi": "Việc phá hủy các khối đang được khai thác bởi những người thợ mỏ dưới lòng đất sẽ làm lộ ra những quặng ẩn giấu."
+  },
+  "advancements.alexsmobs.ghostly_pickaxe.title": {
+    "en": "Ghost! Ghost! Toast?",
+    "zh": "有鬼！有鬼！要完蛋了吗？",
+    "vi": "Có ma! Có ma! Nó sắp kết thúc phải không?"
+  },
+  "advancements.alexsmobs.ghostly_pickaxe.desc": {
+    "en": "Obtain a Ghostly Pickaxe from an Underminer.",
+    "zh": "从一个地底矿工的身上获得一把幽灵矿镐。",
+    "vi": "Nhận một cái cuốc khai thác ma từ một thợ mỏ dưới lòng đất."
+  },
+  "advancements.alexsmobs.skreecher.title": {
+    "en": "Sculk Cymbal",
+    "zh": "幽匿大嘴巴",
+    "vi": "Miệng lớn ẩn giấu"
+  },
+  "advancements.alexsmobs.skreecher.desc": {
+    "en": "Encounter the Skreecher, a loud and obnoxious sculk monster.",
+    "zh": "遇见贱叫怪，一种吵闹的、令人厌烦的且又鬼鬼祟祟的怪物。",
+    "vi": "Gặp Screech, một con quái vật ồn ào, khó chịu và lén lút."
+  },
+  "advancements.alexsmobs.sculk_boomer.title": {
+    "en": "Ok Boomer",
+    "zh": "啊对对对",
+    "vi": "À, vâng, vâng"
+  },
+  "advancements.alexsmobs.sculk_boomer.desc": {
+    "en": "Craft a Sculk Boomer using the souls of a few Skreechers.",
+    "zh": "使用一些贱叫怪的灵魂来合成一个幽匿轰鸣体。",
+    "vi": "Sử dụng một số linh hồn Screech để chế tạo Ghastly Rumbler."
+  },
+  "advancements.alexsmobs.murmur.title": {
+    "en": "Flexible Schedule",
+    "zh": "弹性作息时间表",
+    "vi": "Lịch làm việc linh hoạt"
+  },
+  "advancements.alexsmobs.murmur.desc": {
+    "en": "Encounter the Murmur, which is not as it seems.",
+    "zh": "遇见轻语灵，事情似乎并没有那么简单。",
+    "vi": "Khi gặp Qing Yuling, mọi chuyện dường như không đơn giản như vậy."
+  },
+  "advancements.alexsmobs.skunk.title": {
+    "en": "Hippie Smell",
+    "zh": "嬉皮士的气味",
+    "vi": "mùi hippie"
+  },
+  "advancements.alexsmobs.skunk.desc": {
+    "en": "Get sprayed by a Skunk.",
+    "zh": "被臭鼬的屁给喷到。",
+    "vi": "Bị xịt chồn hôi."
+  },
+  "advancements.alexsmobs.stink_bottle.title": {
+    "en": "Gamer Skunk Bath Water",
+    "zh": "臭鼬牌沐浴露",
+    "vi": "Sữa tắm thương hiệu Skunk"
+  },
+  "advancements.alexsmobs.stink_bottle.desc": {
+    "en": "Capture skunk spray using a glass bottle.",
+    "zh": "用玻璃瓶来收集臭鼬的屁。",
+    "vi": "Sử dụng chai thủy tinh để thu thập xì hơi của chồn hôi."
+  },
+  "advancements.alexsmobs.stink_ray.title": {
+    "en": "I SAID DART GUN!",
+    "zh": "我说的是飞镖枪",
+    "vi": "Tôi đang nói về súng phi tiêu."
+  },
+  "advancements.alexsmobs.stink_ray.desc": {
+    "en": "Craft a Stink Ray.",
+    "zh": "合成一把臭屁手枪",
+    "vi": "Chế tạo một khẩu súng lục tồi tàn"
+  },
+  "advancements.alexsmobs.banana_slug.title": {
+    "en": "Convergent Evolution...",
+    "zh": "趋同进化……",
+    "vi": "Sự tiến hóa hội tụ…"
+  },
+  "advancements.alexsmobs.banana_slug.desc": {
+    "en": "Encounter a Banana Slug. Not so appetising.",
+    "zh": "遇见一只香蕉蛞蝓。这有点不太开胃。",
+    "vi": "Gặp một con sên chuối. Đây là một chút không ngon miệng."
+  },
+  "alexsmobs.gui.capsid_transformation": {
+    "en": "Transformation",
+    "zh": "转换",
+    "vi": "Chuyển thành"
+  },
+  "block.alexsmobs.platypus_egg": {
+    "en": "Platypus Egg",
+    "zh": null,
+    "vi": null
+  }
+}

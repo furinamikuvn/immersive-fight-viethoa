@@ -1,0 +1,147 @@
+{
+  "text.resourcefulconfig.clearwater.category.water": {
+    "en": "Water Settings",
+    "zh": null,
+    "vi": null
+  },
+  "text.resourcefulconfig.clearwater.category.lava": {
+    "en": "Lava Settings",
+    "zh": null,
+    "vi": null
+  },
+  "text.resourcefulconfig.clearwater.category.powderedSnow": {
+    "en": "Powdered Snow Settings",
+    "zh": null,
+    "vi": null
+  },
+  "text.resourcefulconfig.clearwater.option.enableWater": {
+    "en": "Enable water fog control",
+    "zh": null,
+    "vi": null
+  },
+  "text.resourcefulconfig.clearwater.option.enableWater.tooltip": {
+    "en": "Enables modifications of fog under water",
+    "zh": null,
+    "vi": null
+  },
+  "text.resourcefulconfig.clearwater.option.fogNearPlaneWater": {
+    "en": "Fog start (Water)",
+    "zh": null,
+    "vi": null
+  },
+  "text.resourcefulconfig.clearwater.option.fogNearPlaneWater.tooltip": {
+    "en": "Value for where fog starts. Vanilla is -8.0",
+    "zh": null,
+    "vi": null
+  },
+  "text.resourcefulconfig.clearwater.option.fogFarPlaneWater": {
+    "en": "Fog end (Water)",
+    "zh": null,
+    "vi": null
+  },
+  "text.resourcefulconfig.clearwater.option.fogFarPlaneWater.tooltip": {
+    "en": "Value for where fog ends. Vanilla is 96.0",
+    "zh": null,
+    "vi": null
+  },
+  "text.resourcefulconfig.clearwater.option.fadeInWater": {
+    "en": "Fade-in water fog",
+    "zh": null,
+    "vi": null
+  },
+  "text.resourcefulconfig.clearwater.option.fadeInWater.tooltip": {
+    "en": "When enabled, makes vision fade in like vanilla behavior",
+    "zh": null,
+    "vi": null
+  },
+  "text.resourcefulconfig.clearwater.option.fogShapeWater": {
+    "en": "Fog shape (Water)",
+    "zh": null,
+    "vi": null
+  },
+  "text.resourcefulconfig.clearwater.option.fogShapeWater.tooltip": {
+    "en": "The shape of the fog around the player",
+    "zh": null,
+    "vi": null
+  },
+  "text.resourcefulconfig.clearwater.option.enableLava": {
+    "en": "Enable lava fog control",
+    "zh": null,
+    "vi": null
+  },
+  "text.resourcefulconfig.clearwater.option.enableLava.tooltip": {
+    "en": "Enables modifications of fog under lava",
+    "zh": null,
+    "vi": null
+  },
+  "text.resourcefulconfig.clearwater.option.fogNearPlaneLava": {
+    "en": "Fog start (Lava)",
+    "zh": null,
+    "vi": null
+  },
+  "text.resourcefulconfig.clearwater.option.fogNearPlaneLava.tooltip": {
+    "en": "Value for where fog starts. Vanilla is 0.25",
+    "zh": null,
+    "vi": null
+  },
+  "text.resourcefulconfig.clearwater.option.fogFarPlaneLava": {
+    "en": "Fog end (Lava)",
+    "zh": null,
+    "vi": null
+  },
+  "text.resourcefulconfig.clearwater.option.fogFarPlaneLava.tooltip": {
+    "en": "Value for where fog ends. Vanilla is 1.0",
+    "zh": null,
+    "vi": null
+  },
+  "text.resourcefulconfig.clearwater.option.fogShapeLava": {
+    "en": "Fog shape (Lava)",
+    "zh": null,
+    "vi": null
+  },
+  "text.resourcefulconfig.clearwater.option.fogShapeLava.tooltip": {
+    "en": "The shape of the fog around the player",
+    "zh": null,
+    "vi": null
+  },
+  "text.resourcefulconfig.clearwater.option.enablePowderedSnow": {
+    "en": "Enable powdered snow fog control",
+    "zh": null,
+    "vi": null
+  },
+  "text.resourcefulconfig.clearwater.option.enablePowderedSnow.tooltip": {
+    "en": "Enables modifications of fog under powdered snow",
+    "zh": null,
+    "vi": null
+  },
+  "text.resourcefulconfig.clearwater.option.fogNearPlaneSnow": {
+    "en": "Fog start (Powdered Snow)",
+    "zh": null,
+    "vi": null
+  },
+  "text.resourcefulconfig.clearwater.option.fogNearPlaneSnow.tooltip": {
+    "en": "Value for where fog starts. Vanilla is 0.0",
+    "zh": null,
+    "vi": null
+  },
+  "text.resourcefulconfig.clearwater.option.fogFarPlaneSnow": {
+    "en": "Fog end (Powdered Snow)",
+    "zh": null,
+    "vi": null
+  },
+  "text.resourcefulconfig.clearwater.option.fogFarPlaneSnow.tooltip": {
+    "en": "Value for where fog ends. Vanilla is 2.0",
+    "zh": null,
+    "vi": null
+  },
+  "text.resourcefulconfig.clearwater.option.fogShapeSnow": {
+    "en": "Fog shape (Powdered Snow)",
+    "zh": null,
+    "vi": null
+  },
+  "text.resourcefulconfig.clearwater.option.fogShapeSnow.tooltip": {
+    "en": "The shape of the fog around the player",
+    "zh": null,
+    "vi": null
+  }
+}

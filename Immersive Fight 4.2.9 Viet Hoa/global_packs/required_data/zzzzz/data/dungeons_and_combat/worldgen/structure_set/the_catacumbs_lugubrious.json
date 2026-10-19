@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "dungeons_and_combat:the_catacumbs_lugubrious",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 51,
+    "separation": 42,
+    "salt": 1805585028
+  }
+}

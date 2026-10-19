@@ -1,0 +1,17 @@
+{
+  "name": "Longsword Plague (Ôn Dịch Trường Kiếm)",
+  "icon": "simplyswords:toxic_longsword",
+  "advancement": "simplyswords:longsword_plague",
+  "category": "simplyswords:category_unique_weapons",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:toxic_longsword",
+      "text": "Thanh kiếm bị nguyền rủa, có khả năng đảo ngược bùa lợi của đối thủ (Hồi Máu, Kháng Cự) thành bùa hại suy nhược."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Truyền thuyết kể rằng thanh kiếm này khi rèn đã hòa trộn thi hài người chết vì dịch bệnh và ma thuật hắc ám. Nó tỏa ra tử khí mục nát, làm suy yếu kẻ địch và xoay chuyển cục diện."
+    }
+  ]
+}

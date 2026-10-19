@@ -1,0 +1,17 @@
+{
+  "name": "Động Năng (Momentum)",
+  "icon": "simplyswords:runic_tablet",
+  "category": "simplyswords:category_rune_etching",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:runic_tablet",
+      "title": "Động Năng (Momentum)",
+      "text": "Phù văn Động Năng mang tinh hoa $(#389fff)$(l)Động Năng$(). $(br2)Tạo lực đẩy mạnh mẽ lao về phía trước."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Hiệu ứng lướt giúp chiến binh áp sát thần tốc và mở giao tranh chớp nhoáng."
+    }
+  ]
+}

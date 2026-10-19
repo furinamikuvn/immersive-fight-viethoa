@@ -1,0 +1,17 @@
+{
+  "name": "Wildfire (Dã Hỏa)",
+  "icon": "simplyswords:runic_tablet",
+  "category": "simplyswords:category_rune_etching",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:runic_tablet",
+      "title": "Wildfire (Dã Hỏa)",
+      "text": "Phù văn Dã Hỏa chứa tinh hoa $(#d1422c)$(l)Liệt Diễm$(). $(br2)Đòn đánh có thể thiêu đốt lan sang các kẻ địch cùng loại gần kề."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Sát thương lan rộng lớn, cực kỳ hiệu quả khi dọn dẹp bầy quái vật đông đảo."
+    }
+  ]
+}

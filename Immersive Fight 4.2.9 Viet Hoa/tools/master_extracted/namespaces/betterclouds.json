@@ -1,0 +1,962 @@
+{
+  "betterclouds.message.reloadingConfig": {
+    "en": "Reloading config...",
+    "zh": "重载配置中……",
+    "vi": null
+  },
+  "betterclouds.message.configReloaded": {
+    "en": "Config reloaded!",
+    "zh": "配置已重载！",
+    "vi": null
+  },
+  "betterclouds.message.profiling.enabled": {
+    "en": "Enabled profiling over %d frames, performance will suffer.",
+    "zh": "启用了超过%d帧性能的分析，性能将受到影响。",
+    "vi": null
+  },
+  "betterclouds.message.profiling.disabled": {
+    "en": "Disabled profiling.",
+    "zh": "关闭了性能分析",
+    "vi": null
+  },
+  "betterclouds.message.profiling.genTimes": {
+    "en": "§5Gen Times§r: %d §7ms§r || %.3f §7per second§r",
+    "zh": "§5生成时间§r: %d §7ms§r || %.3f §7per second§r",
+    "vi": null
+  },
+  "betterclouds.message.profiling.gpuTimes": {
+    "en": "§cGPU Times§r (msec):\n%s",
+    "zh": "§cGPU 时间§r (msec):\n%s",
+    "vi": null
+  },
+  "betterclouds.message.profiling.cpuTimes": {
+    "en": "§3CPU Times§r (msec):\n%s",
+    "zh": "§3CPU 时间§r (msec):\n%s",
+    "vi": null
+  },
+  "betterclouds.message.generatorPaused": {
+    "en": "Cloud generator paused.",
+    "zh": "云生成器暂停了。",
+    "vi": null
+  },
+  "betterclouds.message.generatorResumed": {
+    "en": "Cloud generator resumed.",
+    "zh": "云生成器恢复了。",
+    "vi": null
+  },
+  "betterclouds.message.animationPaused": {
+    "en": "Animation paused.",
+    "zh": "动画被暂停了。",
+    "vi": null
+  },
+  "betterclouds.message.animationResumed": {
+    "en": "Animation resumed.",
+    "zh": "动画被恢复了。",
+    "vi": null
+  },
+  "betterclouds.message.gpuIncompatible": {
+    "en": "§c§l[!]§r Your GPU is not compatible with Better Clouds.",
+    "zh": "§c§l[!]§r你的GPU不兼容Better Clouds。",
+    "vi": null
+  },
+  "betterclouds.message.gpuPartiallyIncompatible": {
+    "en": "§c§l[!]§r Your GPU is not fully compatible with Better Clouds. This might affect the game's performance and some features might not be available.",
+    "zh": "§c§l[!]§r您的GPU与Better Clouds不完全兼容。这可能会影响游戏的性能，一些功能可能无法使用。",
+    "vi": null
+  },
+  "betterclouds.message.hwMaybeIncompatible": {
+    "en": "§c§l[!]§r Some users of Better Clouds have reported issues with your CPU / GPU Model (§o%s§r with §o%s§r).",
+    "zh": null,
+    "vi": null
+  },
+  "betterclouds.message.generic.disable": {
+    "en": "Click here to disable this message",
+    "zh": "点击此处禁用此信息",
+    "vi": null
+  },
+  "betterclouds.message.generic.error": {
+    "en": "An error occurred: %s",
+    "zh": "发生错误：",
+    "vi": null
+  },
+  "betterclouds.message.updatedPreferences": {
+    "en": "Updated preferences.",
+    "zh": "更新了偏好设置。",
+    "vi": null
+  },
+  "betterclouds.message.dimensionAdded": {
+    "en": "Added dimension %s to active dimensions.",
+    "zh": null,
+    "vi": null
+  },
+  "betterclouds.message.dimensionRemoved": {
+    "en": "Removed dimension %d from active dimensions.",
+    "zh": null,
+    "vi": null
+  },
+  "betterclouds.message.renderdoc.capture.trigger": {
+    "en": "RenderDoc capture started.",
+    "zh": null,
+    "vi": null
+  },
+  "betterclouds.message.renderdoc.capture.success": {
+    "en": "Saved RenderDoc capture at %s",
+    "zh": null,
+    "vi": null
+  },
+  "betterclouds.message.renderdoc.capture.failure": {
+    "en": "RenderDoc capture unsuccessful.",
+    "zh": null,
+    "vi": null
+  },
+  "betterclouds.message.renderdoc.load.ready": {
+    "en": "RenderDoc v%s is loaded.",
+    "zh": null,
+    "vi": null
+  },
+  "betterclouds.message.renderdoc.load.queued": {
+    "en": "RenderDoc will be loaded once you restart your game.",
+    "zh": null,
+    "vi": null
+  },
+  "betterclouds.message.renderdoc.prompt.load": {
+    "en": "RenderDoc is not loaded, %s",
+    "zh": null,
+    "vi": null
+  },
+  "betterclouds.message.renderdoc.prompt.load.action": {
+    "en": "click here to set it up.",
+    "zh": null,
+    "vi": null
+  },
+  "betterclouds.message.renderdoc.prompt.install": {
+    "en": "RenderDoc is not installed, %s",
+    "zh": null,
+    "vi": null
+  },
+  "betterclouds.message.renderdoc.prompt.install.action": {
+    "en": "click here to install.",
+    "zh": null,
+    "vi": null
+  },
+  "betterclouds.message.renderdoc.downloading": {
+    "en": "Downloading RenderDoc...",
+    "zh": null,
+    "vi": null
+  },
+  "betterclouds.message.renderdoc.installed": {
+    "en": "Installed RenderDoc at %s",
+    "zh": null,
+    "vi": null
+  },
+  "betterclouds.config.title": {
+    "en": "Better Clouds Config",
+    "zh": "Better Clouds配置",
+    "vi": null
+  },
+  "betterclouds.config.unit.percent": {
+    "en": "%s%%",
+    "zh": "%s%%",
+    "vi": null
+  },
+  "betterclouds.config.unit.blocks_per_second": {
+    "en": "%s bps",
+    "zh": "%s bps",
+    "vi": null
+  },
+  "betterclouds.config.unit.times": {
+    "en": "%sx",
+    "zh": "%sx",
+    "vi": null
+  },
+  "betterclouds.config.unit.degrees": {
+    "en": "%s°",
+    "zh": "%s°",
+    "vi": null
+  },
+  "betterclouds.config.hide": {
+    "en": "Hide GUI",
+    "zh": "隐藏GUI",
+    "vi": null
+  },
+  "betterclouds.config.show": {
+    "en": "Show GUI",
+    "zh": "显示GUI",
+    "vi": null
+  },
+  "betterclouds.config.reset.tooltip": {
+    "en": "Resets all options to default",
+    "zh": "将所有选项重置为默认值",
+    "vi": null
+  },
+  "betterclouds.config.reset.tooltip.holdShift": {
+    "en": "Hold SHIFT and click to reset",
+    "zh": "按住SHIFT键并点击重置",
+    "vi": null
+  },
+  "betterclouds.config.category.common": {
+    "en": "Common",
+    "zh": "一般",
+    "vi": null
+  },
+  "betterclouds.config.group.common.presets": {
+    "en": "Presets",
+    "zh": "预设",
+    "vi": null
+  },
+  "betterclouds.config.group.common.generation": {
+    "en": "Generation",
+    "zh": "生成",
+    "vi": null
+  },
+  "betterclouds.config.group.common.appearance": {
+    "en": "Appearance",
+    "zh": "外观",
+    "vi": null
+  },
+  "betterclouds.config.group.common.shaders": {
+    "en": "Shaders",
+    "zh": "光影",
+    "vi": null
+  },
+  "betterclouds.config.category.generation": {
+    "en": "Generation",
+    "zh": "生成",
+    "vi": null
+  },
+  "betterclouds.config.group.generation.visual": {
+    "en": "Visual",
+    "zh": "视觉",
+    "vi": null
+  },
+  "betterclouds.config.group.generation.performance": {
+    "en": "Performance",
+    "zh": "性能",
+    "vi": null
+  },
+  "betterclouds.config.category.appearance": {
+    "en": "Appearance",
+    "zh": "外观",
+    "vi": null
+  },
+  "betterclouds.config.group.appearance.geometry": {
+    "en": "Geometry",
+    "zh": "形状",
+    "vi": null
+  },
+  "betterclouds.config.group.appearance.visibility": {
+    "en": "Visibility",
+    "zh": "可见性",
+    "vi": null
+  },
+  "betterclouds.config.group.appearance.color": {
+    "en": "Color",
+    "zh": "颜色",
+    "vi": null
+  },
+  "betterclouds.config.group.appearance.sky": {
+    "en": "Sky",
+    "zh": "天空",
+    "vi": null
+  },
+  "betterclouds.config.category.performance": {
+    "en": "Performance",
+    "zh": "性能",
+    "vi": null
+  },
+  "betterclouds.config.group.performance.generation": {
+    "en": "Generation",
+    "zh": "生成",
+    "vi": null
+  },
+  "betterclouds.config.group.performance.technical": {
+    "en": "Technical",
+    "zh": "技术",
+    "vi": null
+  },
+  "betterclouds.config.category.shaders": {
+    "en": "Shaders",
+    "zh": "光影",
+    "vi": null
+  },
+  "betterclouds.config.group.shaders.general": {
+    "en": "General",
+    "zh": "通用",
+    "vi": null
+  },
+  "betterclouds.config.group.shaders.presets": {
+    "en": "Presets",
+    "zh": "预设",
+    "vi": null
+  },
+  "betterclouds.config.group.shaders.color": {
+    "en": "Color",
+    "zh": "颜色",
+    "vi": null
+  },
+  "betterclouds.config.group.shaders.misc": {
+    "en": "Miscellaneous",
+    "zh": null,
+    "vi": null
+  },
+  "betterclouds.config.group.shaders.technical": {
+    "en": "Technical",
+    "zh": "技术",
+    "vi": null
+  },
+  "betterclouds.config.category.compat": {
+    "en": "Mod Interop",
+    "zh": null,
+    "vi": null
+  },
+  "betterclouds.config.group.compat.dimensions": {
+    "en": "Dimensions",
+    "zh": null,
+    "vi": null
+  },
+  "betterclouds.config.group.compat.dimensions.description": {
+    "en": "Identifiers of dimension types where Better Clouds is active.\nUse /betterclouds:dimension to add or remove the current dimension.",
+    "zh": null,
+    "vi": null
+  },
+  "betterclouds.config.group.compat.sereneSeasons": {
+    "en": "Serene Seasons",
+    "zh": null,
+    "vi": null
+  },
+  "betterclouds.config.group.compat.sereneSeasons.description": {
+    "en": "Options for interoperability with the mod \"Serene Seasons\"",
+    "zh": null,
+    "vi": null
+  },
+  "betterclouds.config.group.compat.fabricSeasons": {
+    "en": "Fabric Seasons",
+    "zh": null,
+    "vi": null
+  },
+  "betterclouds.config.group.compat.fabricSeasons.description": {
+    "en": "Options for interoperability with the mod \"Fabric Seasons\"",
+    "zh": null,
+    "vi": null
+  },
+  "betterclouds.config.entry.enabled": {
+    "en": "Enabled",
+    "zh": "启用",
+    "vi": null
+  },
+  "betterclouds.config.entry.enabled.description": {
+    "en": "Enable/Disable §cB§6e§et§at§3e§9r §cC§6l§eo§au§3d§9s§r",
+    "zh": "启用/关闭 §cB§6e§et§at§3e§9r §cC§6l§eo§au§3d§9s§r",
+    "vi": null
+  },
+  "betterclouds.config.entry.enabled.true": {
+    "en": "§cB§6e§et§at§3e§9r §cC§6l§eo§au§3d§9s§r",
+    "zh": "§cB§6e§et§at§3e§9r §cC§6l§eo§au§3d§9s§r",
+    "vi": null
+  },
+  "betterclouds.config.entry.enabled.false": {
+    "en": "§4Vanilla§r",
+    "zh": "§4原版§r",
+    "vi": null
+  },
+  "betterclouds.config.entry.opacity": {
+    "en": "Opacity",
+    "zh": "不透明度",
+    "vi": null
+  },
+  "betterclouds.config.entry.opacity.description": {
+    "en": "The opacity of an individual cloud cube",
+    "zh": "单个云块的不透明度",
+    "vi": null
+  },
+  "betterclouds.config.entry.opacityFactor": {
+    "en": "Opacity Factor",
+    "zh": "不透明系数",
+    "vi": null
+  },
+  "betterclouds.config.entry.opacityFactor.description": {
+    "en": "The final opacity is scaled by this factor",
+    "zh": "最终的不透明度是由这个系数缩放而成的",
+    "vi": null
+  },
+  "betterclouds.config.entry.opacityExponent": {
+    "en": "Opacity Exponent",
+    "zh": "不透明指数",
+    "vi": null
+  },
+  "betterclouds.config.entry.opacityExponent.description": {
+    "en": "Affects how quickly the maximum opacity is reached",
+    "zh": "影响达到最大不透明度的速度。",
+    "vi": null
+  },
+  "betterclouds.config.entry.gamma": {
+    "en": "Gamma",
+    "zh": "伽玛值",
+    "vi": null
+  },
+  "betterclouds.config.entry.gamma.description": {
+    "en": "Affects the brightness and contrast\nNegative values represent 1/γ",
+    "zh": "影响亮度和对比度\n负值代表1/γ",
+    "vi": null
+  },
+  "betterclouds.config.entry.dayBrightness": {
+    "en": "Day Brightness",
+    "zh": "日间亮度",
+    "vi": null
+  },
+  "betterclouds.config.entry.dayBrightness.description": {
+    "en": "The brightness during daytime",
+    "zh": "白天的亮度",
+    "vi": null
+  },
+  "betterclouds.config.entry.nightBrightness": {
+    "en": "Night Brightness",
+    "zh": "夜间亮度",
+    "vi": null
+  },
+  "betterclouds.config.entry.nightBrightness.description": {
+    "en": "The brightness during nighttime",
+    "zh": "晚上的亮度",
+    "vi": null
+  },
+  "betterclouds.config.entry.sunriseStartTime": {
+    "en": "Sunrise Start Time",
+    "zh": "日出开始时间",
+    "vi": null
+  },
+  "betterclouds.config.entry.sunriseStartTime.description": {
+    "en": "When the day brightness begins to have an effect",
+    "zh": "日间亮度开始生效之时",
+    "vi": null
+  },
+  "betterclouds.config.entry.sunriseEndTime": {
+    "en": "Sunrise End Time",
+    "zh": "日出结束时间",
+    "vi": null
+  },
+  "betterclouds.config.entry.sunriseEndTime.description": {
+    "en": "When the day brightness has full effect",
+    "zh": "日间亮度完全生效之时",
+    "vi": null
+  },
+  "betterclouds.config.entry.sunsetStartTime": {
+    "en": "Sunset Start Time",
+    "zh": "日落开始时间",
+    "vi": null
+  },
+  "betterclouds.config.entry.sunsetStartTime.description": {
+    "en": "When the night brightness begins to have an effect",
+    "zh": "夜间亮度开始生效之时",
+    "vi": null
+  },
+  "betterclouds.config.entry.sunsetEndTime": {
+    "en": "Sunset End Time",
+    "zh": "日落结束时间",
+    "vi": null
+  },
+  "betterclouds.config.entry.sunsetEndTime.description": {
+    "en": "When the night brightness has full effect",
+    "zh": "夜间亮度完全生效之时",
+    "vi": null
+  },
+  "betterclouds.config.entry.saturation": {
+    "en": "Saturation",
+    "zh": "饱和度",
+    "vi": null
+  },
+  "betterclouds.config.entry.saturation.description": {
+    "en": "Intensifies or reduces color vibrancy",
+    "zh": "强化或降低色彩鲜艳度",
+    "vi": null
+  },
+  "betterclouds.config.entry.tint": {
+    "en": "Tint",
+    "zh": "色调",
+    "vi": null
+  },
+  "betterclouds.config.entry.tint.description": {
+    "en": "Adjusts the color of the clouds",
+    "zh": "调整云的颜色",
+    "vi": null
+  },
+  "betterclouds.config.entry.spacing": {
+    "en": "Spacing",
+    "zh": "间距",
+    "vi": null
+  },
+  "betterclouds.config.entry.spacing.description": {
+    "en": "Horizontal distance between individual cloud cubes",
+    "zh": "单个云块之间的水平距离",
+    "vi": null
+  },
+  "betterclouds.config.entry.randomPlacement": {
+    "en": "Random Placement",
+    "zh": "随机位置",
+    "vi": null
+  },
+  "betterclouds.config.entry.randomPlacement.description": {
+    "en": "Random offset to the individual cloud cubes",
+    "zh": "对单个云块的随机偏移",
+    "vi": null
+  },
+  "betterclouds.config.entry.yRange": {
+    "en": "Height Range",
+    "zh": "高度范围",
+    "vi": null
+  },
+  "betterclouds.config.entry.yRange.description": {
+    "en": "Vertical distance between individual cloud cubes",
+    "zh": "单个云块之间的垂直距离",
+    "vi": null
+  },
+  "betterclouds.config.entry.yOffset": {
+    "en": "Height Offset",
+    "zh": "高度偏移",
+    "vi": null
+  },
+  "betterclouds.config.entry.yOffset.description": {
+    "en": "Adjusts the y level of the clouds",
+    "zh": "调整云层的y轴",
+    "vi": null
+  },
+  "betterclouds.config.entry.travelSpeed": {
+    "en": "Travel Speed",
+    "zh": "行进速度",
+    "vi": null
+  },
+  "betterclouds.config.entry.travelSpeed.description": {
+    "en": "How fast the clouds travel across the sky",
+    "zh": "云在天空中行进的速度有多快",
+    "vi": null
+  },
+  "betterclouds.config.entry.windEffectFactor": {
+    "en": "Wind Effect",
+    "zh": "风效应",
+    "vi": null
+  },
+  "betterclouds.config.entry.windEffectFactor.description": {
+    "en": "How much the size of individual cloud cubes changes dynamically",
+    "zh": "单个云块的大小动态变化的程度",
+    "vi": null
+  },
+  "betterclouds.config.entry.windSpeedFactor": {
+    "en": "Wind Speed",
+    "zh": "风速",
+    "vi": null
+  },
+  "betterclouds.config.entry.windSpeedFactor.description": {
+    "en": "How fast the size of individual cloud cubes changes dynamically",
+    "zh": "单个云立方体大小的动态变化速度",
+    "vi": null
+  },
+  "betterclouds.config.entry.colorVariationFactor": {
+    "en": "Color Variation Factor",
+    "zh": "颜色变化系数",
+    "vi": null
+  },
+  "betterclouds.config.entry.colorVariationFactor.description": {
+    "en": "How much the color of individual cloud cubes changes dynamically",
+    "zh": "单个云块的颜色动态变化的程度",
+    "vi": null
+  },
+  "betterclouds.config.entry.celestialBodyHalo": {
+    "en": "Celestial Body Halo",
+    "zh": "天体光环",
+    "vi": null
+  },
+  "betterclouds.config.entry.celestialBodyHalo.description": {
+    "en": "A halo around the sun and moon, to simulate mie scattering",
+    "zh": "太阳和月亮周围的光环，用于模拟米氏散射",
+    "vi": null
+  },
+  "betterclouds.config.entry.chunkSize": {
+    "en": "Chunk Size",
+    "zh": "区块大小",
+    "vi": null
+  },
+  "betterclouds.config.entry.chunkSize.description": {
+    "en": "How many clouds are generated at once",
+    "zh": "一次生成多少朵云",
+    "vi": null
+  },
+  "betterclouds.config.entry.distance": {
+    "en": "Distance",
+    "zh": "距离",
+    "vi": null
+  },
+  "betterclouds.config.entry.distance.description": {
+    "en": "A factor of the regular view distance",
+    "zh": "正常视距的一个系数",
+    "vi": null
+  },
+  "betterclouds.config.entry.usePersistentBuffers": {
+    "en": "Persistent Buffers",
+    "zh": "持久性缓冲区",
+    "vi": null
+  },
+  "betterclouds.config.entry.usePersistentBuffers.description": {
+    "en": "Reduces memory allocation",
+    "zh": "减少内存分配",
+    "vi": null
+  },
+  "betterclouds.config.entry.useFrustumCulling": {
+    "en": "Frustum Culling",
+    "zh": "视锥体裁剪",
+    "vi": null
+  },
+  "betterclouds.config.entry.useFrustumCulling.description": {
+    "en": "Improves performance",
+    "zh": "提高性能",
+    "vi": null
+  },
+  "betterclouds.config.entry.shuffle": {
+    "en": "Random Ordering",
+    "zh": "随机排序",
+    "vi": null
+  },
+  "betterclouds.config.entry.shuffle.description": {
+    "en": "Can improve some visual issues and z-fighting",
+    "zh": "可以改善一些视觉和深度冲突问题",
+    "vi": null
+  },
+  "betterclouds.config.entry.sizeXZ": {
+    "en": "Width",
+    "zh": "宽度",
+    "vi": null
+  },
+  "betterclouds.config.entry.sizeXZ.description": {
+    "en": "The width of an individual cloud cube",
+    "zh": "单个云块的宽度",
+    "vi": null
+  },
+  "betterclouds.config.entry.sizeY": {
+    "en": "Height",
+    "zh": "高度",
+    "vi": null
+  },
+  "betterclouds.config.entry.sizeY.description": {
+    "en": "The height of an individual cloud cube",
+    "zh": "单个云块的高度",
+    "vi": null
+  },
+  "betterclouds.config.entry.fogRangeFactor": {
+    "en": "Fog Transition Factor",
+    "zh": "雾的转换系数",
+    "vi": null
+  },
+  "betterclouds.config.entry.fogRangeFactor.description": {
+    "en": "Controls the fade-out range",
+    "zh": "云雾在远处消散的速度",
+    "vi": null
+  },
+  "betterclouds.config.entry.fogEndFactor": {
+    "en": "Fog Distance Factor",
+    "zh": null,
+    "vi": null
+  },
+  "betterclouds.config.entry.fogEndFactor.description": {
+    "en": "Controls the fade-out end distance",
+    "zh": null,
+    "vi": null
+  },
+  "betterclouds.config.entry.fuzziness": {
+    "en": "Fuzziness",
+    "zh": "模糊性",
+    "vi": null
+  },
+  "betterclouds.config.entry.fuzziness.description": {
+    "en": "How well defined the outline of clouds are",
+    "zh": "云的轮廓有多清晰",
+    "vi": null
+  },
+  "betterclouds.config.entry.sparsity": {
+    "en": "Sparsity",
+    "zh": "稀疏性",
+    "vi": null
+  },
+  "betterclouds.config.entry.sparsity.description": {
+    "en": "Removes this percentage of individual cloud cubes",
+    "zh": "移除这个百分比的云块",
+    "vi": null
+  },
+  "betterclouds.config.entry.scaleFalloffMin": {
+    "en": "Scale Falloff",
+    "zh": "规模落差",
+    "vi": null
+  },
+  "betterclouds.config.entry.scaleFalloffMin.description": {
+    "en": "How big clouds appear at the edge of the view distance",
+    "zh": "大云在视距边缘出现的方式",
+    "vi": null
+  },
+  "betterclouds.config.entry.samplingScale": {
+    "en": "Sampling Scale",
+    "zh": "采样规模",
+    "vi": null
+  },
+  "betterclouds.config.entry.samplingScale.description": {
+    "en": "Affects the detail frequency",
+    "zh": "影响细节频率",
+    "vi": null
+  },
+  "betterclouds.config.entry.writeDepth": {
+    "en": "Write Depth Buffer",
+    "zh": "写入深度缓冲区",
+    "vi": null
+  },
+  "betterclouds.config.entry.writeDepth.description": {
+    "en": "Required by certain shader effects",
+    "zh": "某些着色器效果所需",
+    "vi": null
+  },
+  "betterclouds.config.entry.useIrisFBO": {
+    "en": "Use Iris FBO",
+    "zh": "使用Iris FBO",
+    "vi": null
+  },
+  "betterclouds.config.entry.useIrisFBO.description": {
+    "en": "Don't turn this off unless you are experiencing crashes",
+    "zh": "除非你遇到崩溃，否则不要关闭这个功能。",
+    "vi": null
+  },
+  "betterclouds.config.entry.irisSupport": {
+    "en": "Iris Support",
+    "zh": "Iris支持",
+    "vi": null
+  },
+  "betterclouds.config.entry.irisSupport.description": {
+    "en": "Render clouds when shaders are active",
+    "zh": "当光影激活时渲染云层",
+    "vi": null
+  },
+  "betterclouds.config.entry.cloudOverride": {
+    "en": "Always Render Clouds",
+    "zh": "始终渲染云层",
+    "vi": null
+  },
+  "betterclouds.config.entry.cloudOverride.description": {
+    "en": "Render clouds regardless of the shader pack settings",
+    "zh": "渲染云层，而不考虑光影包的设置",
+    "vi": null
+  },
+  "betterclouds.config.entry.shaderPreset": {
+    "en": "Shader Preset",
+    "zh": "光影预设",
+    "vi": null
+  },
+  "betterclouds.config.entry.shaderPreset.untitled": {
+    "en": "untitled",
+    "zh": "无标题",
+    "vi": null
+  },
+  "betterclouds.config.entry.shaderPreset.copy": {
+    "en": "Duplicate Preset",
+    "zh": "复制预设",
+    "vi": null
+  },
+  "betterclouds.config.entry.shaderPreset.copyOf": {
+    "en": "Copy of %s",
+    "zh": "%s的副本",
+    "vi": null
+  },
+  "betterclouds.config.entry.shaderPreset.add": {
+    "en": "Add New Preset",
+    "zh": "添加新的预设",
+    "vi": null
+  },
+  "betterclouds.config.entry.shaderPreset.remove": {
+    "en": "Remove Preset",
+    "zh": "移除预设",
+    "vi": null
+  },
+  "betterclouds.config.entry.shaderPreset.restore": {
+    "en": "Restore Preset",
+    "zh": "恢复预设",
+    "vi": null
+  },
+  "betterclouds.config.entry.shaderPreset.description": {
+    "en": "Quickly switch between settings",
+    "zh": "在各种设置之间快速切换",
+    "vi": null
+  },
+  "betterclouds.config.entry.presetTitle": {
+    "en": "Title",
+    "zh": "标题",
+    "vi": null
+  },
+  "betterclouds.config.entry.sunPathAngle": {
+    "en": "Sun/Moon Angle",
+    "zh": "太阳/月亮的角度",
+    "vi": null
+  },
+  "betterclouds.config.entry.sunPathAngle.description": {
+    "en": "Tilt of the sun/moon rotation axis, for compatibility with shaders that support this option",
+    "zh": "太阳/月亮旋转轴的倾斜度，以兼容支持该选项的光影",
+    "vi": null
+  },
+  "betterclouds.config.entry.worldCurvatureSize": {
+    "en": "World Curvature",
+    "zh": null,
+    "vi": null
+  },
+  "betterclouds.config.entry.worldCurvatureSize.description": {
+    "en": "Enables world curvature and disables frustum culling.\n§e§nNote:§r\nIf world curvature is enabled in your shader, but not in Better Clouds then you must manually disable 'Frustum Culling' in the 'Performance' settings.",
+    "zh": null,
+    "vi": null
+  },
+  "betterclouds.config.entry.upscaleResolutionFactor": {
+    "en": "Upscale Resolution",
+    "zh": "向上缩放分辨率",
+    "vi": null
+  },
+  "betterclouds.config.entry.upscaleResolutionFactor.description": {
+    "en": "The resolution that is used for upscaling, for compatibility with shaders that support TAAU",
+    "zh": "用于向上缩放的分辨率，以便与支持TAAU的着色器兼容",
+    "vi": null
+  },
+  "betterclouds.config.entry.sereneSeasons.info": {
+    "en": "The cloudiness (cloud coverage) changes depending on the season.\nInstall §nSerene Seasons§r to change these options.",
+    "zh": null,
+    "vi": null
+  },
+  "betterclouds.config.entry.sereneSeasons.transitionDays": {
+    "en": "Season Transition Days",
+    "zh": null,
+    "vi": null
+  },
+  "betterclouds.config.entry.sereneSeasons.transitionDays.description": {
+    "en": "How many days to blend between cloudiness values",
+    "zh": null,
+    "vi": null
+  },
+  "betterclouds.config.entry.sereneSeasons.earlySpringCloudiness": {
+    "en": "Early Spring Cloudiness",
+    "zh": null,
+    "vi": null
+  },
+  "betterclouds.config.entry.sereneSeasons.midSpringCloudiness": {
+    "en": "Mid Spring Cloudiness",
+    "zh": null,
+    "vi": null
+  },
+  "betterclouds.config.entry.sereneSeasons.lateSpringCloudiness": {
+    "en": "Late Spring Cloudiness",
+    "zh": null,
+    "vi": null
+  },
+  "betterclouds.config.entry.sereneSeasons.earlySummerCloudiness": {
+    "en": "Early Summer Cloudiness",
+    "zh": null,
+    "vi": null
+  },
+  "betterclouds.config.entry.sereneSeasons.midSummerCloudiness": {
+    "en": "Mid Summer Cloudiness",
+    "zh": null,
+    "vi": null
+  },
+  "betterclouds.config.entry.sereneSeasons.lateSummerCloudiness": {
+    "en": "Late Summer Cloudiness",
+    "zh": null,
+    "vi": null
+  },
+  "betterclouds.config.entry.sereneSeasons.earlyAutumnCloudiness": {
+    "en": "Early Autumn Cloudiness",
+    "zh": null,
+    "vi": null
+  },
+  "betterclouds.config.entry.sereneSeasons.midAutumnCloudiness": {
+    "en": "Mid Autumn Cloudiness",
+    "zh": null,
+    "vi": null
+  },
+  "betterclouds.config.entry.sereneSeasons.lateAutumnCloudiness": {
+    "en": "Late Autumn Cloudiness",
+    "zh": null,
+    "vi": null
+  },
+  "betterclouds.config.entry.sereneSeasons.earlyWinterCloudiness": {
+    "en": "Early Winter Cloudiness",
+    "zh": null,
+    "vi": null
+  },
+  "betterclouds.config.entry.sereneSeasons.midWinterCloudiness": {
+    "en": "Mid Winter Cloudiness",
+    "zh": null,
+    "vi": null
+  },
+  "betterclouds.config.entry.sereneSeasons.lateWinterCloudiness": {
+    "en": "Late Winter Cloudiness",
+    "zh": null,
+    "vi": null
+  },
+  "betterclouds.config.entry.fabricSeasons.info": {
+    "en": "The cloudiness (cloud coverage) changes depending on the season.\nInstall §nFabric Seasons§r to change these options.",
+    "zh": null,
+    "vi": null
+  },
+  "betterclouds.config.entry.fabricSeasons.transitionDays": {
+    "en": "Season Transition Days",
+    "zh": null,
+    "vi": null
+  },
+  "betterclouds.config.entry.fabricSeasons.transitionDays.description": {
+    "en": "How many days to blend between cloudiness values",
+    "zh": null,
+    "vi": null
+  },
+  "betterclouds.config.entry.fabricSeasons.springCloudiness": {
+    "en": "Spring Cloudiness",
+    "zh": null,
+    "vi": null
+  },
+  "betterclouds.config.entry.fabricSeasons.summerCloudiness": {
+    "en": "Summer Cloudiness",
+    "zh": null,
+    "vi": null
+  },
+  "betterclouds.config.entry.fabricSeasons.fallCloudiness": {
+    "en": "Fall Cloudiness",
+    "zh": null,
+    "vi": null
+  },
+  "betterclouds.config.entry.fabricSeasons.winterCloudiness": {
+    "en": "Winter Cloudiness",
+    "zh": null,
+    "vi": null
+  },
+  "betterclouds.config.text.shaders": {
+    "en": "§4Shader support is experimental!§r\nSome shaders work, others don't.\nIt's best to turn off the clouds in the shader pack settings or set them to 'vanilla' if that is an option.\nYou can play with the color settings below if the clouds don't look right.",
+    "zh": "§4光影支持是实验性的！§r\n一部分光影会工作，而还有其他的不工作。\n如果有选项提供，最好在光影包设置中关闭云，或者将它们设置为「原版」。\n如果云层看起来不对，你可以调整下面的颜色设置。",
+    "vi": null
+  },
+  "betterclouds.gui.issueReport.title": {
+    "en": "§lBetter Clouds Issue Report§r",
+    "zh": null,
+    "vi": null
+  },
+  "betterclouds.gui.issueReport.message": {
+    "en": "Better Clouds has encountered an issue and §nhas been disabled§r!\nWould you like to §nsend an automatic report§r to the developer?\n\n\n§oDetails§r",
+    "zh": null,
+    "vi": null
+  },
+  "betterclouds.gui.issueReport.disable": {
+    "en": "Do not show this screen again",
+    "zh": null,
+    "vi": null
+  },
+  "betterclouds.gui.issueReport.toast.sent": {
+    "en": "Issue report submitted. Thanks!",
+    "zh": null,
+    "vi": null
+  },
+  "betterclouds.compat.sodium.option.enabled.name": {
+    "en": "Better Clouds",
+    "zh": null,
+    "vi": null
+  },
+  "betterclouds.compat.sodium.option.enabled.tooltip": {
+    "en": "Use Better Clouds instead of Sodium's cloud rendering.",
+    "zh": null,
+    "vi": null
+  }
+}

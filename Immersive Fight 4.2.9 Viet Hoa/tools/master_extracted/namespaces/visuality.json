@@ -1,0 +1,87 @@
+{
+  "modmenu.descriptionTranslation.visuality": {
+    "en": "Visual improvements by adding a bunch of new particles.",
+    "zh": "通过添加一堆新的粒子，在视觉上有了小小的改进。",
+    "vi": null
+  },
+  "config.visuality.title": {
+    "en": "Visuality Config",
+    "zh": "Visuality 设置",
+    "vi": null
+  },
+  "config.visuality.general": {
+    "en": "General",
+    "zh": "通用",
+    "vi": null
+  },
+  "config.visuality.option.slime": {
+    "en": "Slime Blobs Enabled",
+    "zh": "启用黏液液滴",
+    "vi": null
+  },
+  "config.visuality.option.charge": {
+    "en": "Charge Particle Enabled",
+    "zh": "启用充能粒子",
+    "vi": null
+  },
+  "config.visuality.option.sparkle": {
+    "en": "Sparkle Particle Enabled",
+    "zh": "启用闪烁粒子",
+    "vi": null
+  },
+  "config.visuality.option.soul": {
+    "en": "Soul Particle Enabled",
+    "zh": "启用灵魂粒子",
+    "vi": null
+  },
+  "config.visuality.option.waterCircle": {
+    "en": "Water Circles Enabled",
+    "zh": "启用水波粒子",
+    "vi": null
+  },
+  "config.visuality.option.waterCircle.colored": {
+    "en": "Water Circles Colored",
+    "zh": "启用水波粒子着色",
+    "vi": null
+  },
+  "config.visuality.option.waterCircle.density": {
+    "en": "Water Circles Density",
+    "zh": "水波粒子密度",
+    "vi": null
+  },
+  "config.visuality.option.waterCircle.radius": {
+    "en": "Water Circles Radius",
+    "zh": "水波粒子渲染半径",
+    "vi": null
+  },
+  "config.visuality.option.hitParticles": {
+    "en": "Hit Particles Enabled",
+    "zh": "启用攻击粒子",
+    "vi": null
+  },
+  "config.visuality.option.hitParticles.entries": {
+    "en": "Hit Particles Entries",
+    "zh": "攻击粒子列表",
+    "vi": null
+  },
+  "config.visuality.option.shinyArmor": {
+    "en": "Shiny Armor Enabled",
+    "zh": "启用闪亮盔甲",
+    "vi": null
+  },
+  "config.visuality.option.shinyArmor.entries": {
+    "en": "Shiny Armor Entries",
+    "zh": "闪亮盔甲列表",
+    "vi": null
+  },
+  "config.visuality.option.shinyBlocks": {
+    "en": "Shiny Blocks Enabled",
+    "zh": "启用闪亮方块",
+    "vi": null
+  },
+  "config.visuality.option.shinyBlocks.entries": {
+    "en": "Shiny Blocks Entries",
+    "zh": "闪亮方块列表",
+    "vi": null
+  }
+}

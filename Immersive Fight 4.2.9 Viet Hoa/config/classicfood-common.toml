@@ -1,0 +1,13 @@
+
+#General settings
+[general]
+	#When enabled food will be eaten instantly (Default: false)
+	instantFood = false
+	#When enabled food items won't be able to stack (Default: false)
+	unstackable = false
+	#When enabled hunger will act similar to poison (Default: false)
+	poisonousHunger = false
+	#The amount of food points that will heal 1 health point (Default: 1.0)
+	#Range: 0.0 ~ 8.0
+	foodToHealRatio = 1.0
+

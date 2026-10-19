@@ -1,0 +1,17 @@
+{
+  "name": "Chôn vùi tâm hồn",
+  "icon": "simplyswords:soulpyre",
+  "advancement": "simplyswords:soulpyre",
+  "category": "simplyswords:category_unique_weapons",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:soulpyre",
+      "text": "Soul Burial là một chiếc rìu chiến cổ xưa mạnh mẽ. Người ta nói rằng nó chứa đựng nhiều sức mạnh của linh hồn, lửa và chuyển vị. Chiếc rìu chiến này được cho là được rèn từ một loại kim loại quý hiếm bí ẩn và được truyền vào vô số linh hồn."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Hoán đổi vị trí linh hồn giữa bản thân và mục tiêu, đồng thời phóng thích năng lượng nhiệt thiêu hủy tất cả."
+    }
+  ]
+}

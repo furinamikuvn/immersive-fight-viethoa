@@ -1,0 +1,603 @@
+
+[logging]
+	#Whether to log successful operations or not.
+	log_successful = false
+	#Whether to log failed operations or not.
+	log_errors = true
+
+#Generates a config with all non-default values in propertymodifier-generated.toml.
+[generating]
+	#Generates block state-related entries.
+	block_states = false
+	#Generates block-related entries.
+	blocks = false
+	#Generates item-related entries.
+	items = false
+	#Generates armor-related entries.
+	armor = false
+	#Generates tool-related entries.
+	tools = false
+	#Generates enchantment-related entries.
+	enchantments = false
+	#Generates composting-related entries.
+	composting = false
+	#The default enchantment value used. 0 in vanilla, but mods such as Apotheosis may change this.
+	#Range: 0 ~ 1000000
+	default_enchantment_value = 0
+
+#Set the respective values here by adding lines in the respective groups. Keys can be either a block (e.g. "minecraft:stripped_birch_wood"), a block regex (e.g. "minecraft:.*_block") or a blockstate definition (e.g. "minecraft:grass_block[snowy=true]"). Block regexes cannot contain the [] characters, as their presence will be interpreted as a blockstate definition instead.
+[blocks_and_blockstates]
+
+	#Set the destroy time for a block (state). Dirt has 0.5, stone has 1.5, obsidian has 50. -1 makes the block unbreakable. Examples (without the leading #):
+	#"minecraft:grass_block[snowy=true]" = 100
+	#"minecraft:.*_planks" = 100
+	[blocks_and_blockstates.destroy_time]
+		test = 0.0
+		"ironchests:gold_barrel" = 3
+		"ironchests:diamond_barrel" = 3
+		"ironchests:copper_barrel" = 3
+		"ironchests:crystal_barrel" = 3
+		"ironchests:obsidian_barrel" = 3
+		"ironchests:netherite_barrel" = 3
+		"ironchests:iron_barrel" = 3
+		"celestisynth:starlit_factory" = 3
+		"mofus_better_end_:asteroidburgerblock" = 0.1
+
+	#Set the tool requirement of a block (state). Must be true or false. Examples (without the leading #):
+	#"minecraft:diamond_ore" = false
+	#"minecraft:oak_log" = true
+	[blocks_and_blockstates.requires_tool]
+		test = false
+		"ironchests:gold_barrel" = false
+		"ironchests:diamond_barrel" = false
+		"ironchests:copper_barrel" = false
+		"ironchests:crystal_barrel" = false
+		"ironchests:obsidian_barrel" = false
+		"ironchests:netherite_barrel" = false
+		"ironchests:iron_barrel" = false
+		"celestisynth:starlit_factory" = false
+		"mofus_better_end_:asteroidburgerblock" = false
+
+	#Set the light emission of a block (state). Must be an integer between 0 and 15. Examples (without the leading #):
+	#"minecraft:redstone_torch[lit=true]" = 15
+	#"minecraft:.*_bricks" = 7
+	[blocks_and_blockstates.light_emission]
+		test = 0
+
+#Set the respective values here by adding lines in the respective groups. Keys can be either a block (e.g. "minecraft:stripped_birch_wood") or a block regex (e.g. "minecraft:.*_block").
+[blocks]
+
+	#Set the explosion resistance for a block. Dirt has 0.5, stone and has 6, obsidian has 1200. 3600000 or more makes the block completely explosion resistant. Example (without the leading #):
+	#"minecraft:dirt" = 1000
+	[blocks.explosion_resistance]
+		test = 0.0
+
+	#Set the friction for a block. 0.6 for most blocks, 0.8 for slime blocks, 0.98 for ice, packed ice and frosted ice, and 0.989 for blue ice. Example (without the leading #):
+	#"minecraft:.*ice" = 0.6
+	[blocks.friction]
+		test = 0.0
+
+	#Set the speed factor for a block. 1 for most blocks, 0.4 for soul sand and honey blocks. Example (without the leading #):
+	#"minecraft:soul_sand" = 1
+	[blocks.speed_factor]
+		test = 0.0
+
+	#Set the speed factor for a block. 1 for most blocks, 0.5 for honey blocks. Example (without the leading #):
+	#"minecraft:honey_block" = 1
+	[blocks.jump_factor]
+		test = 0.0
+
+#Set the respective values here by adding lines in the respective groups. Keys can be either an item (e.g. "minecraft:stripped_birch_wood") or an item regex (e.g. "minecraft:diamond.*").
+[items]
+
+	#Set the max damage (durability) of an item. Only items that already have durability can have this value altered. Example (without the leading #):
+	#"minecraft:diamond_.*" = 5000
+	[items.max_damage]
+		test = 0
+
+	#Set the max stack size of an item. Only values between 2 and 64 are supported. Items that have durability cannot have this value altered. Example (without the leading #):
+	#"minecraft:ender_pearl" = 64
+	[items.max_stack_size]
+		test = 0
+
+	#Set this value to true to make an item fire resistant (like netherite is), or set it to false to make it burn in fire and lava. Example (without the leading #):
+	#"minecraft:netherite_ingot" = false
+	[items.fire_resistant]
+		test = false
+
+	#Set the rarity (item color) of an item. Must be a valid rarity name. Example (without the leading #):
+	#"minecraft:beacon" = "common"
+	#Default rarities (mods may add more!): "common", "uncommon", "rare", "epic"
+	[items.rarity]
+		test = ""
+		"soul_like_armors_reworked:estusflask" = "common"
+		"wom:agony" = "epic"
+		"wom:tormented_mind" = "epic"
+		"wom:ruine" = "epic"
+		"wom:ender_blaster" = "epic"
+		"wom:antitheus" = "epic"
+		"wom:satsujin" = "epic"
+		"wom:herrscher" = "epic"
+		"wom:gesetz" = "epic"
+		"wom:moonless" = "epic"
+		"wom:solar" = "epic"
+
+	#Set the enchantment value of an item. Higher value means better enchantments on average. May not always have a noticeable effect. Example (without the leading #):
+	#"minecraft:.*_hoe" = 40
+	[items.enchantment_value]
+		test = 0
+
+	#Set the repair material of an item. May be an item or a tag containing multiple items, with a # before the tag id. Example (without the leading #):
+	#"minecraft:wooden_.*" = "#minecraft:fishes"
+	[items.repair_material]
+		test = ""
+
+	#Set the values for armor.
+	[items.armor]
+
+		#Set the defense value of an armor item. May not work on modded armors, please file an issue if that's the case. Example (without the leading #):
+		#"minecraft:golden_chestplate" = 10
+		[items.armor.defense]
+			test = 0
+			"cataclysm:ignitium_leggings" = 8
+			"cataclysm:ignitium_boots" = 5
+			"mowziesmobs:wrought_helmet" = 5
+			"mofus_better_end_:titanium_armor_helmet" = 5
+			"mofus_better_end_:titanium_armor_chestplate" = 10
+			"mofus_better_end_:titanium_armor_leggings" = 8
+			"mofus_better_end_:titanium_armor_boots" = 5
+			"mofus_better_end_:end_warrior_armor_helmet" = 5
+			"mofus_better_end_:end_warrior_armor_chestplate" = 8
+			"mofus_better_end_:end_warrior_armor_leggings" = 8
+			"mofus_better_end_:end_warrior_armor_boots" = 6
+			"monsterexpansion:rhyza_helmet" = 4
+			"monsterexpansion:rhyza_chestplate" = 9
+			"monsterexpansion:rhyza_leggings" = 8
+			"monsterexpansion:rhyza_boots" = 4
+			"monsterexpansion:rakoth_helmet" = 5
+			"monsterexpansion:rakoth_chestplate" = 11
+			"monsterexpansion:rakoth_leggings" = 8
+			"monsterexpansion:rakoth_boots" = 5
+			"monsterexpansion:leivekilth_helmet" = 5
+			"monsterexpansion:leivekilth_chestplate" = 9
+			"monsterexpansion:leivekilth_leggings" = 8
+			"monsterexpansion:leivekilth_boots" = 5
+			"monsterexpansion:skrythe_helmet" = 5
+			"monsterexpansion:skrythe_chestplate" = 9
+			"monsterexpansion:skrythe_leggings" = 8
+			"monsterexpansion:skrythe_boots" = 5
+			"mythical_weaponry:thor_helmet" = 4
+			"mythical_weaponry:thor_chestplate" = 9
+			"mythical_weaponry:thor_leggings" = 7
+			"mythical_weaponry:thor_boots" = 4
+			"dungeons_and_combat:rogue_helmet" = 2
+			"dungeons_and_combat:rogue_chestplate" = 6
+			"dungeons_and_combat:rogue_leggings" = 5
+			"dungeons_and_combat:rogue_boots" = 2
+			"dungeons_and_combat:blacksmith_helmet" = 2
+			"dungeons_and_combat:blacksmith_chestplate" = 6
+			"dungeons_and_combat:blacksmith_leggings" = 5
+			"dungeons_and_combat:blacksmith_boots" = 2
+			"saintsdragons:dragonlord_helmet" = 3
+			"saintsdragons:dragonlord_chestplate" = 3
+			"saintsdragons:dragonlord_leggings" = 3
+			"saintsdragons:dragonlord_boots" = 3
+
+		#Set the toughness value of an armor item. May not work on modded armors, please file an issue if that's the case. Example (without the leading #):
+		#"minecraft:golden_boots" = 1
+		[items.armor.toughness]
+			test = 0.0
+			"born_in_chaos_v1:nightmare_mantleofthe_night_helmet" = 3
+			"born_in_chaos_v1:nightmare_mantleofthe_night_chestplate" = 3
+			"born_in_chaos_v1:nightmare_mantleofthe_night_leggings" = 3
+			"born_in_chaos_v1:nightmare_mantleofthe_night_boots" = 3
+			"alexscaves_torpedoes:tectonic_helmet" = 2
+			"alexscaves_torpedoes:tectonic_chestplate" = 2
+			"alexscaves_torpedoes:tectonic_leggings" = 2
+			"alexscaves_torpedoes:tectonic_boots" = 2
+			"alexscaves:hood_of_darkness" = 4
+			"alexscaves:cloak_of_darkness" = 5
+			"dungeons_and_combat:blacksmith_helmet" = 0
+			"dungeons_and_combat:blacksmith_chestplate" = 0
+			"dungeons_and_combat:blacksmith_leggings" = 0
+			"dungeons_and_combat:blacksmith_boots" = 0
+
+		#Set the knockback resistance of an armor item. May not work on modded armors, please file an issue if that's the case. Example (without the leading #):
+		#"minecraft:golden_leggings" = 0.1
+		[items.armor.knockback_resistance]
+			test = 0.0
+
+	#Set the values for tools, swords and tridents.
+	[items.tools]
+
+		#Set the efficiency value of a tool. May not work on modded tools, please file an issue if that's the case. Also doesn't work on shears, due to internal problems with that. Example (without the leading #):
+		#"minecraft:iron_pickaxe" = 16
+		[items.tools.efficiency]
+			test = 0.0
+
+		#Set the attack damage of a tool or weapon. May not work on modded tools, please file an issue if that's the case. Example (without the leading #):
+		#"minecraft:netherite_sword" = 12
+		[items.tools.attack_damage]
+			test = 0.0
+			"eugenes_guan_dao:wooden_guan_dao" = 7
+			"eugenes_guan_dao:golden_guan_dao" = 8
+			"eugenes_guan_dao:stone_guan_dao" = 8
+			"eugenes_guan_dao:iron_guan_dao" = 9
+			"eugenes_guan_dao:diamond_guan_dao" = 10
+			"eugenes_guan_dao:netherite_guan_dao" = 11
+			"aquamirae:whisper_of_the_abyss" = 12
+			"aquamirae:coral_lance" = 9
+			"simplyswords:icewhisper" = 13
+			"simplyswords:arcanethyst" = 13
+			"simplyswords:thunderbrand" = 13
+			"simplyswords:mjolnir" = 11
+			"soul_like_armors_reworked:victoriousgreatsword" = 11
+			"soul_like_armors_reworked:darkknightsword" = 8
+			"soul_like_armors_reworked:darkknighttrident" = 8
+			"soul_like_armors_reworked:rustysteelmace" = 6
+			"soul_like_armors_reworked:spear" = 8
+			"soul_like_armors_reworked:mace" = 10
+			"soul_like_armors_reworked:blackbaronsword" = 12
+			"epicfight:stone_greatsword" = 10
+			"epicfight:wooden_greatsword" = 9
+			"minecraft:stone_axe" = 7
+			"soul_like_armors_reworked:dragonslayeraxe" = 10
+			"soul_like_armors_reworked:sawblade" = 15
+			"soul_like_armors_reworked:sickle" = 5
+			"soul_like_armors_reworked:alloygreatsword" = 9
+			"soul_like_armors_reworked:darkmoongreatsword" = 9
+			"soul_like_armors_reworked:moonkatana" = 9
+			"soul_like_armors_reworked:kata_sword" = 7
+			"soul_like_armors_reworked:blackkatana" = 8
+			"soul_like_armors_reworked:lightningsword" = 7
+			"soul_like_armors_reworked:ornsteinspsword" = 7
+			"soul_like_armors_reworked:platinumspsword" = 10
+			"soul_like_armors_reworked:farrondagger" = 5
+			"soul_like_armors_reworked:bloodtrident" = 9
+			"soul_like_armors_reworked:monkeyhammer" = 6
+			"soul_like_armors_reworked:crystaltrident" = 10
+			"simplyswords:frostfall" = 7
+			"simplyswords:wickpiercer" = 6
+			"simplyswords:livyatan" = 6
+			"simplyswords:molten_edge" = 6
+			"simplyswords:emberlash" = 6
+			"simplyswords:soulstealer" = 6
+			"wom:agony" = 8
+			"simplyswords:soulpyre" = 8
+			"simplyswords:hiveheart" = 8
+			"simplyswords:hearthflame" = 9
+			"simplyswords:soulkeeper" = 9
+			"wom:tormented_mind" = 11
+			"wom:ruine" = 11
+			"wom:ender_blaster" = 9
+			"wom:antitheus" = 10
+			"wom:satsujin" = 10
+			"wom:herrscher" = 8
+			"wom:moonless" = 10
+			"soul_like_armors_reworked:cinderkingblade" = 15
+			"simplyswords:ribboncleaver" = 16
+			"simplyswords:magispear" = 8
+			"cataclysm:gauntlet_of_guard" = 6
+			"cataclysm:gauntlet_of_bulwark" = 7
+			"cataclysm:gauntlet_of_maelstrom" = 7
+			"cataclysm:the_immolator" = 15
+			"cataclysm:the_annihilator" = 15
+			"simplyswords:iron_twinblade" = 3
+			"simplyswords:gold_twinblade" = 6
+			"simplyswords:diamond_twinblade" = 7
+			"simplyswords:netherite_twinblade" = 8
+			"simplyswords:enigma" = 16
+			"simplyswords:slumbering_lichblade" = 16
+			"simplyswords:waking_lichblade" = 16
+			"simplyswords:awakened_lichblade" = 16
+			"legendary_monsters:monstrous_anchor" = 20
+			"legendary_monsters:knights_sword" = 9
+			"legendary_monsters:golden_halbert" = 9
+			"legendary_monsters:chorus_blade" = 8
+			"legendary_monsters:the_great_frost" = 8
+			"legendary_monsters:withered_scythe" = 9
+			"legendary_monsters:soul_great_sword" = 12
+			"legendary_monsters:axe_of_lightning" = 9
+			"born_in_chaos_v1:dark_ritual_dagger" = 6
+			"born_in_chaos_v1:intoxicating_dagger" = 5
+			"born_in_chaos_v1:soulbane" = 9
+			"wom:solar" = 16
+			"cataclysm:final_fractal" = 11
+			"simplyswords:caelestis" = 16
+			"simplyswords:iron_cutlass" = 4
+			"simplyswords:gold_cutlass" = 3
+			"simplyswords:gold_sai" = 2
+			"simplyswords:diamond_cutlass" = 5
+			"simplyswords:netherite_cutlass" = 6
+			"simplyswords:runic_cutlass" = 6
+			"simplyswords:twisted_blade" = 6
+			"wukong:jingubang" = 9
+			"simplyswords:bramblethorn" = 9
+			"simplyswords:tempest" = 6
+			"simplyswords:runic_halberd" = 12
+			"simplyswords:runic_claymore" = 10
+			"simplyswords:runic_longsword" = 16
+			"simplyswords:runic_spear" = 8
+			"simplyswords:runic_glaive" = 12
+			"simplyswords:gold_warglaive" = 7
+			"simplyswords:iron_warglaive" = 8
+			"simplyswords:watching_warglaive" = 11
+			"simplyswords:diamond_warglaive" = 9
+			"simplyswords:netherite_warglaive" = 10
+			"simplyswords:runic_warglaive" = 10
+			"simplyswords:runic_twinblade" = 8
+			"simplyswords:runic_greathammer" = 12
+			"simplyswords:runic_greataxe" = 11
+			"simplyswords:runic_chakram" = 8
+			"simplyswords:runic_rapier" = 8
+			"simplyswords:decaying_relic" = 7
+			"simplyswords:waxweaver" = 10
+			"simplyswords:flamewind" = 13
+			"cdmoveset:katana" = 9
+			"simplyswords:runic_katana" = 9
+			"cdmoveset:yamato" = 10
+			"eeeabsmobs:netherworld_katana" = 12
+			"eeeabsmobs:guardian_axe" = 10
+			"fight_more:moonless_p" = 11
+			"fight_more:gesetz_p" = 5
+			"fight_more:antitheus_p" = 11
+			"fight_more:ender_blaster_p" = 10
+			"soul_like_armors_reworked:farronsword" = 9
+			"soul_like_armors_reworked:longsword" = 8
+			"queen_bee:stinger_sword" = 7
+			"exsiliumgladius:exsiliumgladius" = 15
+			"mowziesmobs:wrought_axe" = 15
+			"mowziesmobs:sculptor_staff" = 8
+			"celestisynth:solaris" = 11
+			"celestisynth:crescentia" = 12
+			"celestisynth:breezebreaker" = 11
+			"celestisynth:poltergeist" = 15
+			"celestisynth:aquaflora" = 7
+			"celestisynth:frostbound" = 13
+			"celestisynth:keres" = 15
+			"arsenal:charge_halberd" = 12
+			"arsenal:soul_knight_great_sword" = 18
+			"legionary:cudgel" = 15
+			"fight_more:agony_b" = 1
+			"fight_more:torment_b" = 1
+			"fight_more:ruine_b" = 1
+			"fight_more:satsujin_b" = 1
+			"fight_more:ender_blaster_b" = 1
+			"fight_more:herrscher_b" = 1
+			"fight_more:gesetz_b" = 1
+			"fight_more:moonless_b" = 1
+			"fight_more:solar_b" = 1
+			"fight_more:antitheus_b" = 1
+			"epicfight:uchigatana" = 9
+			"efn:sword_of_pioneer" = 8
+			"wom:napoleon" = 10
+			"efn:ruinsgreatsword" = 14
+			"efn:air_tachi" = 11
+			"efn:co_tachi" = 11
+			"efn:meen_spear" = 13
+			"efn:yamato_dmc4_in_sheath" = 6
+			"efn:yamato_dmc_in_sheath" = 6
+			"dungeons_and_combat:oath_sword" = 9
+			"block_factorys_bosses:knight_sword" = 10
+			"fight_more:herrscher_p" = 9
+			"monsterexpansion:horn_of_the_shattercry" = 10
+			"monsterexpansion:duskrend" = 8
+			"monsterexpansion:rimescourge" = 17
+			"dungeons_and_combat:crimson_scythe" = 11
+			"dungeons_and_combat:crimson_sovereign_sword" = 18
+			"dungeons_and_combat:crimson_bloodweave_sword" = 11
+			"fight_more:ruine_p" = 12
+			"efn:nf_dual_sword" = 9
+			"monsterexpansion:iron_spear" = 7
+			"monsterexpansion:diamond_spear" = 8
+			"monsterexpansion:netherite_spear" = 9
+			"born_in_chaos_v1:nightmare_scythe" = 8
+			"epicfightx:eternal_night_scythe" = 11
+			"refm:enderite_rapier" = 10
+			"refm:witherite_rapier" = 10
+			"refm:oceanite_rapier" = 10
+			"simplyswords:shadowsting" = 6
+			"block_factorys_bosses:pirate_saber" = 9
+			"wom:nova" = 8
+			"mythical_weaponry:mjolnir" = 12
+			"efn:broadblade" = 9
+			"womalt:agony_alt" = 8
+			"womalt:herrscher_alt" = 8
+			"womalt:antitheus_alt" = 10
+			"womalt:tormented_mind_alt" = 11
+			"womalt:moonless_alt" = 10
+			"womalt:satsujin_alt" = 10
+			"womalt:ruine_alt" = 11
+			"womalt:ender_blaster_alt" = 9
+			"fight_more:solar_p" = 17
+			"fight_more:satsujin_p" = 11
+			"fight_more:agony_p" = 9
+			"fight_more:torment_p" = 12
+			"saintsdragons:blood_tempest_katana" = 11
+			"simplyswords:iron_scythe" = 11
+			"simplyswords:gold_scythe" = 9
+			"simplyswords:diamond_scythe" = 12
+			"simplyswords:netherite_scythe" = 13
+			"simplyswords:runic_scythe" = 14
+			"simplyswords:soulrender" = 16
+			"simplyswords:magiscythe" = 16
+
+		#Set the attack speed of a tool or weapon. May not work on modded tools, please file an issue if that's the case. Example (without the leading #):
+		#"minecraft:netherite_pickaxe" = 2.5
+		[items.tools.attack_speed]
+			test = 0.0
+			"epicfight:stone_greatsword" = 1.1
+			"soul_like_armors_reworked:sickle" = 4.0
+			"soul_like_armors_reworked:farrondagger" = 2.8
+			"soul_like_armors_reworked:alloygreatsword" = 1.5
+			"soul_like_armors_reworked:darkmoongreatsword" = 1.5
+			"soul_like_armors_reworked:monkeyhammer" = 2.5
+			"soul_like_armors_reworked:moonkatana" = 1.5
+			"soul_like_armors_reworked:sawblade" = 1.0
+			"soul_like_armors_reworked:dragonslayeraxe" = 1.8
+			"soul_like_armors_reworked:lightningsword" = 2.0
+			"soul_like_armors_reworked:ornsteinspsword" = 2.0
+			"soul_like_armors_reworked:platinumspsword" = 1.5
+			"simplyswords:ribboncleaver" = 1.2
+			"simplyswords:enigma" = 1.2
+			"simplyswords:magispear" = 1.9
+			"cataclysm:meat_shredder" = 1.0
+			"aquamirae:terrible_sword" = 1.5
+			"cataclysm:gauntlet_of_guard" = 2
+			"cataclysm:gauntlet_of_bulwark" = 2
+			"cataclysm:gauntlet_of_maelstrom" = 2
+			"simplyswords:iron_chakram" = 2.0
+			"simplyswords:gold_chakram" = 2.0
+			"simplyswords:diamond_chakram" = 2.0
+			"simplyswords:netherite_chakram" = 2.0
+			"simplyswords:runic_chakram" = 2.0
+			"simplyswords:hiveheart" = 1.2
+			"simplyswords:hearthflame" = 1.2
+			"simplyswords:soulkeeper" = 1.2
+			"simplyswords:tempest" = 2.0
+			"simplyswords:livyatan" = 1.3
+			"simplyswords:molten_edge" = 1.3
+			"simplyswords:wickpiercer" = 1.6
+			"wom:solar" = 1.3
+			"legendary_monsters:mossy_hammer" = 1.1
+			"plenty_of_golems:the_ancient_anchor" = 0.9
+			"simplyswords:shadowsting" = 2.8
+			"simplyswords:runic_rapier" = 2.5
+			"simplyswords:runic_longsword" = 1.0
+			"simplyswords:runic_glaive" = 1.0
+			"simplyswords:runic_katana" = 1.3
+			"simplyswords:runic_cutlass" = 2.5
+			"simplyswords:runic_greathammer" = 1.1
+			"simplyswords:runic_greataxe" = 1.1
+			"simplyswords:dormant_relic" = 1.2
+			"simplyswords:tainted_relic" = 1.2
+			"simplyswords:righteous_relic" = 1.2
+			"simplyswords:harbinger" = 1.2
+			"simplyswords:sunfire" = 1.2
+			"fight_more:solar_p" = 1.3
+			"fight_more:satsujin_p" = 2.2
+			"fight_more:murasama" = 2.2
+			"cataclysm:the_immolator" = 1.3
+			"cataclysm:the_annihilator" = 1.3
+			"simplyswords:iron_katana" = 1.5
+			"simplyswords:gold_katana" = 1.5
+			"simplyswords:diamond_katana" = 1.5
+			"simplyswords:netherite_katana" = 1.5
+			"cdmoveset:yamato" = 1.8
+			"fight_more:moonless_p" = 1.55
+			"fight_more:gesetz_p" = 1.5
+			"fight_more:antitheus_p" = 1.9
+			"fight_more:ender_blaster_p" = 3.5
+			"fight_more:moonless_b" = 1.55
+			"fight_more:gesetz_b" = 1.5
+			"fight_more:antitheus_b" = 1.9
+			"fight_more:ender_blaster_b" = 2.0
+			"celestisynth:crescentia" = 1.6
+			"celestisynth:poltergeist" = 1.0
+			"celestisynth:aquaflora" = 2.1
+			"celestisynth:breezebreaker" = 1.8
+			"cataclysm:final_fractal" = 1.2
+			"wom:agony" = 1.7
+			"womalt:agony_alt" = 1.7
+			"fight_more:agony_p" = 1.7
+			"cataclysm:ceraunus" = 1.0
+			"simplyswords:storms_edge" = 1.8
+			"simplyswords:magiblade" = 1.8
+			"simplyswords:stars_edge" = 1.8
+			"monsterexpansion:rimescourge" = 1.4
+			"dungeons_and_combat:crimson_sovereign_sword" = 1.0
+			"dungeons_and_combat:crimson_scythe" = 1.3
+			"dungeons_and_combat:crimson_sickle" = 2.3
+			"simplyswords:iron_scythe" = 1.2
+			"simplyswords:gold_scythe" = 1.3
+			"simplyswords:diamond_scythe" = 1.2
+			"simplyswords:netherite_scythe" = 1.2
+			"simplyswords:runic_scythe" = 1.3
+			"simplyswords:soulrender" = 1.3
+			"simplyswords:magiscythe" = 1.3
+			"monsterexpansion:golden_spear" = 1.3
+			"monsterexpansion:wooden_spear" = 1.1
+			"monsterexpansion:stone_spear" = 1.1
+			"monsterexpansion:iron_spear" = 1.1
+			"monsterexpansion:diamond_spear" = 1.1
+			"monsterexpansion:netherite_spear" = 1.1
+			"naraka:naraka_pickaxe" = 1.5
+			"monsterexpansion:charcraw" = 1.2
+			"epicfight:wooden_greatsword" = 1.2
+			"saintsdragons:blood_tempest_katana" = 1.3
+
+#Set the values for enchantments.
+[enchantments]
+
+	#Set the rarity of an enchantment. Must be a valid rarity name. Example (without the leading #):
+	#"minecraft:mending" = "common"
+	#Default rarities (mods may add more!): "common", "uncommon", "rare", "very_rare"
+	[enchantments.rarity]
+		test = ""
+
+#Add or remove compostables.
+[composting]
+	#Whether to remove all predefined compostables or not.
+	clear = false
+
+	#Add new compostables here. Consists of an item or item regex and a float between 0 and 1, representing the chance that the composter level is increased. Example (without the leading #):
+	#"minecraft:netherite_scrap" = 0.8
+	[composting.composting]
+		test = 0.0
+
+#Set the values for axe stripping.
+[stripping]
+	#Whether to remove all predefined stripping values or not.
+	clear = false
+
+	#Add new stripping transitions here. Consists of a block or block regex and a block or block state, representing the output. Example (without the leading #):
+	#"minecraft:.*_planks" = "minecraft:infested_cobblestone"
+	[stripping.stripping]
+		test = ""
+
+#Set the values for shovel flattening.
+[flattening]
+	#Whether to remove all predefined flattening values or not.
+	clear = false
+
+	#Add new flattening transitions here. Consists of a block or block regex and a block or block state, representing the output. Example (without the leading #):
+	#"minecraft:.*_planks" = "minecraft:infested_cobblestone"
+	[flattening.flattening]
+		test = ""
+
+#Set the values for hoe tilling.
+[tilling]
+	#Whether to remove all predefined tilling values or not.
+	clear = false
+
+	#Add new tilling transitions here. Consists of a block or block regex and a block or block state, representing the output. Example (without the leading #):
+	#"minecraft:diamond_block" = "minecraft:emerald_block"
+	[tilling.tilling]
+		test = ""
+
+	#Whether a certain tilling transition needs air above to work. Consists of a block or block regex and a boolean value (true or false). If left unspecified, true is assumed. Example (without the leading #):
+	#"minecraft:diamond_block" = false
+	[tilling.needs_air]
+		test = false
+
+	#The item that is dropped when tilling. Consists of a block or block regex and an item id. If left unspecified, no item is dropped. Example (without the leading #):
+	#"minecraft:diamond_block" = "minecraft:iron_nugget"
+	[tilling.item_drop]
+		test = "minecraft:missingno"
+
+#Set the values for entities.
+[entities]
+
+	#Set the default attributes for entities. Format is "entityid" = "attributeid;value". Cannot add new attributes to mobs, can only alter those that are present by default anyway. Example (without the leading #):
+	#"minecraft:zombie" = "minecraft:generic.attack_damage;10"
+	[entities.default_attributes]
+		test = ""
+		"mofus_better_end_:eye_statue" = "minecraft:generic.max_health;10"
+		"alexscaves:luxtructosaurus" = "minecraft:generic.armor;5"
+		"dungeons_and_combat:sunleia" = "minecraft:generic.armor;30"
+		"mofus_better_end_:eye_guardian" = "minecraft:generic.armor;45"
+		"mofus_better_end_:reborn_litch" = "minecraft:generic.armor;40"
+		"nightfall_invade:arterius" = "epicfight:armor_negation;0"
+		"the_faint_radiance:lychnus" = "minecraft:generic.armor;60"
+		"naraka:herobrine" = "minecraft:generic.armor;60"
+

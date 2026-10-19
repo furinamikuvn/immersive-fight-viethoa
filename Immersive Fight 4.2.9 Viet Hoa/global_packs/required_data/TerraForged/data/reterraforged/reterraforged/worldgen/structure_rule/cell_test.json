@@ -1,0 +1,10 @@
+{
+  "type": "reterraforged:cell_test",
+  "cutoff": 0.225,
+  "terrain_type_blacklist": [
+    "mountain_chain",
+    "mountains_1",
+    "mountains_2",
+    "mountains_3"
+  ]
+}

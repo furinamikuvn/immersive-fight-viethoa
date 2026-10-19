@@ -1,0 +1,32 @@
+{
+    "type": "minecraft:jigsaw",
+    "biomes": "#ati_structures:underwater_dungeon",
+    "max_distance_from_center": 80,
+    "size": 7,
+    "spawn_overrides": {
+        "monster": {
+            "bounding_box": "full",
+            "spawns": [
+                {
+                    "type": "minecraft:drowned",
+                    "weight": 2,
+                    "minCount": 1,
+                    "maxCount": 2
+                },
+                {
+                    "type": "minecraft:guardian",
+                    "weight": 1,
+                    "minCount": 1,
+                    "maxCount": 2
+                }
+            ]
+        }
+    },
+    "start_height": {
+        "absolute": -5
+    },
+    "start_pool": "ati_structures:underwater_dungeon",
+    "step": "underground_structures",
+    "terrain_adaptation": "none",
+    "use_expansion_hack": true
+}

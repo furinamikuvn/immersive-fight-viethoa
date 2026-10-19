@@ -1,0 +1,57 @@
+
+["Basic settings"]
+	#Starting HP in half-hearts.
+	starthp = 20.0
+	#HP gain per level in half-hearts.
+	hpperlevel = 1.0
+	#Maximum HP level.
+	maxhplevel = 5.0
+	#Whether to display the custom HP-XP bar overlay.
+	showhpexpgui = false
+	#Display HP-level upgrade prompt before this level. (<) (when this value is equal to -1, it will be set as the maximum HP level, when it is equal to -2, it will be set as permanent display)
+	maxshowhpleveluppromptlevel = -2.0
+	#Display the Hp-exp prompt before this level. (<) (when this value is equal to -1, it will be set as the maximum HP level, and when it is equal to -2, it will be set as permanent display)
+	maxshowhpexpgetpromptlevel = 0.0
+
+["Level up"]
+	#Base Hp-exp needed to advance to next HP level. (base + scale*level)
+	basehplevelupexp = 60.0
+	#Scaling HP-exp needed to advance to next HP level. (base + scale*level)
+	scalinghplevelupexp = 0.0
+	#Heal when HP is leveled up. (base + scale*level) (When this value is less than 0, it will be converted to a percentage mode.) *2
+	basehealonlevelup = -100.0
+	#Heal when HP is leveled up (base + scale*level) (When this value is less than 0, it will be converted to a percentage mode.) *2
+	scalinghealonlevelup = 0.0
+
+["Death Loss"]
+	#Base Hp-exp lost on death. (base + scale*level) (When this value is less than 0, it will be converted to a percentage mode.) *2
+	basediehpexplost = 0.0
+	#Scaling Hp-exp lost on death. (base + scale*level) (When this value is less than 0, it will be converted to a percentage mode.) *2
+	scalingdiehpexplost = 0.0
+	#Base Hp-level lost on death. (base + scale*level) (When this value is less than 0, it will be converted to a percentage mode.) *2
+	basediehplevellost = 1.0
+	#Scaling Hp-level lost on death. (base + scale*level) (When this value is less than 0, it will be converted to a percentage mode.) *2
+	scalingdiehplevellost = 0.0
+	#Whether the player's Hp-exp and Hp-level should reset on death.
+	hpleveldiereset = false
+
+["Get exp"]
+	#XP gained from killing livestock.
+	givehpexpnormal = 2.0
+	#MORE XP gained from killing monsters.
+	givehpexpmonster = 3.0
+	#Hp-exp is calculated according to the enemy's blood volume benchmark. (base + scale*level) (When this value is less than 0, it will be converted to a percentage mode.) *1
+	baseenemyhpcalculationexpbenchmark = 30.0
+	#Used as the unit basis for calculating Hp-exp in non-percentage mode. (when this value is 0, it will be automatically set to 1) *1
+	unitenemyhpcalculationexpbenchmark = 1.0
+	#The multiplier that will be multiplied when calculating the final Hp-exp amount. (base + scale*level) (When this value is less than 0, it will be converted to a percentage mode.) *1
+	scalingenemyhpcalculationexpbenchmark = 0.0
+	#The amount of Hp-exp that can be obtained at each level. (When this value is less than 0, it will be converted to a percentage mode.)
+	morehpexpperlevel = 0.0
+
+["Randomly increase or decrease exp"]
+	#Base random increase or decrease of exp value. (base + scale*level) (When this value is less than 0, it will be converted to a percentage mode.) *2
+	baseramdomincreaseordecreaseexp = 0.0
+	#Scaling random increase or decrease of exp value. (base + scale*level) (When this value is less than 0, it will be converted to a percentage mode.) *2
+	scalingramdomincreaseordecreaseexp = 0.0
+

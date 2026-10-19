@@ -1,0 +1,72 @@
+{
+  "item.knightlib.great_essence": {
+    "en": "Great essence",
+    "zh": "大精华",
+    "vi": null
+  },
+  "item.knightlib.small_essence": {
+    "en": "Small essence",
+    "zh": "小精华",
+    "vi": null
+  },
+  "item.knightlib.empty_grail": {
+    "en": "Empty grail",
+    "zh": "空圣杯",
+    "vi": null
+  },
+  "item.knightlib.filled_grail": {
+    "en": "Filled grail",
+    "zh": "满盈圣杯",
+    "vi": null
+  },
+  "item.knightlib.homunculus": {
+    "en": "Homunculus",
+    "zh": "人造人",
+    "vi": null
+  },
+  "block.knightlib.great_chalice": {
+    "en": "Great Chalice",
+    "zh": "大圣杯",
+    "vi": null
+  },
+  "tooltip.item.knightlib.great_essence": {
+    "en": "§8§oEven kings become fuel in the end.",
+    "zh": "§8§o纵使君王也终将化作燃料。",
+    "vi": null
+  },
+  "tooltip.item.knightlib.small_essence": {
+    "en": "§8§oThe last sigh of a life that changed nothing.",
+    "zh": "§8§o一命呜呼的生命无法改变任何事情。",
+    "vi": null
+  },
+  "tooltip.item.knightlib.homunculus": {
+    "en": "§8§oA malformed miracle, bound by alchemy’s price.",
+    "zh": "§8§o一个畸形的奇迹，被炼金术的代价所束缚。",
+    "vi": null
+  },
+  "tooltip.item.knightlib.empty_grail": {
+    "en": "§8§oFill it with essence.",
+    "zh": "§8§o用精华填满它。",
+    "vi": null
+  },
+  "tooltip.item.knightlib.filled_grail": {
+    "en": "§8§oTo drink from it is to dance with death itself.",
+    "zh": "§8§o饮此杯中物，同死神共舞",
+    "vi": null
+  },
+  "tooltip.item.knightlib.great_chalice": {
+    "en": "§8§oWhispers names you've never heard... yet somehow remember.",
+    "zh": "§8§o你从未听闻的名字在耳畔低语...却又似曾相识。",
+    "vi": null
+  },
+  "jei.knightlib.great_chalice_grail_interaction.title": {
+    "en": "Great Chalice",
+    "zh": "大圣杯",
+    "vi": null
+  },
+  "jei.knightlib.great_chalice_fill_interaction.title": {
+    "en": "Great Chalice Fill",
+    "zh": "装填大圣杯",
+    "vi": null
+  }
+}

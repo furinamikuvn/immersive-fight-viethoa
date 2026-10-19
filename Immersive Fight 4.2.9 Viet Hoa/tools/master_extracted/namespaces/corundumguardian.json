@@ -1,0 +1,47 @@
+{
+  "subtitles.corundum_guardian_steam": {
+    "en": "CorundumGuardian emits steam",
+    "zh": "刚玉守护者释放蒸汽",
+    "vi": "Corundum Guardian phát hành Steam"
+  },
+  "item.corundumguardian.corundum_guardian_spawn_egg": {
+    "en": "Corundum Guardian Spawn Egg",
+    "zh": "刚玉守护者生成蛋",
+    "vi": "Corundum Guardian Spawn Egg"
+  },
+  "subtitles.corundum_guardian_stomp": {
+    "en": "CorundumGuardian stomps",
+    "zh": "刚玉守护者践踏",
+    "vi": "Người bảo vệ Corundum"
+  },
+  "entity.corundumguardian.shockwave": {
+    "en": "Shockwave",
+    "zh": "冲击波",
+    "vi": "Shockwave"
+  },
+  "subtitles.corundum_guardian_attack": {
+    "en": "CorundumGuardian attacks",
+    "zh": "刚玉守护者攻击",
+    "vi": "Cuộc tấn công của người bảo vệ Corundum"
+  },
+  "subtitles.corundum_guardian_move_arm": {
+    "en": "CorundumGuardian moves arm",
+    "zh": "刚玉守护者移动手臂",
+    "vi": "Corundum Guardian di chuyển cánh tay"
+  },
+  "subtitles.corundum_guardian_hit": {
+    "en": "CorundumGuardian being hit",
+    "zh": "刚玉守护者被击中",
+    "vi": "Người bảo vệ Corundum bị tấn công"
+  },
+  "subtitles.corundum_guardian_land": {
+    "en": "CorundumGuardian lands",
+    "zh": "刚玉守护者着陆",
+    "vi": "Người bảo vệ Corundum Landing"
+  },
+  "entity.corundumguardian.corundum_guardian": {
+    "en": "Corundum Guardian",
+    "zh": "刚玉守护者",
+    "vi": "Corundum Guardian"
+  }
+}

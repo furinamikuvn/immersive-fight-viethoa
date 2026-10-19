@@ -1,0 +1,17 @@
+{
+  "key.sword_soaring.common": "御剑飞行",
+  "epicfight.skill_slot.sword_soaring": "御剑飞行",
+  "key.sword_soaring.take_off": "御剑飞行",
+  "key.sword_soaring.acceleration": "御剑飞行加速",
+  "skill.sword_soaring.sword_soaring_apprentice": "御剑术·初习",
+  "skill.sword_soaring.sword_soaring_apprentice.tooltip": "快速双击【空格】开始御剑飞行，期间消耗耐力，按住Ctrl可以加速飞行。当耐力耗尽将会坠落。",
+  "skill.sword_soaring.sword_soaring_expert": "御剑术·精熟",
+  "skill.sword_soaring.sword_soaring_expert.tooltip": "快速双击【空格】开始御剑飞行，期间消耗耐力，按住Ctrl可以加速飞行。当耐力耗尽将会坠落。  现在御剑飞行速度更快，耐力消耗降低。",
+  "skill.sword_soaring.sword_soaring_elytra_expert": "御剑术·鞘翅",
+  "skill.sword_soaring.sword_soaring_elytra_expert.tooltip": "鞘翅与御剑飞行技巧的结合，穿戴鞘翅后【双击空格】起飞，御剑辅助鞘翅飞行，你的鞘翅耐力条恢复速度更快。",
+  "skill.sword_soaring.vatansever.tooltip0": "技能",
+  "skill.sword_soaring.vatansever.tooltip01": "§f普攻循环§r ——",
+  "skill.sword_soaring.vatansever.tooltip02": "§f飞行：§r ——长按",
+  "skill.epicfight.sword_soaring.category": "御剑飞行",
+  "entity.sword_soaring.vatansever": " "
+}

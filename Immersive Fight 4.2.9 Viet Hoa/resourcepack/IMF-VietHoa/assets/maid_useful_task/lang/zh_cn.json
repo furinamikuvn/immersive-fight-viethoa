@@ -1,0 +1,19 @@
+{
+  "task.maid_useful_task.maid_tree": "Đốn Gỗ (Logging)",
+  "task.maid_useful_task.maid_tree.desc": "Hầu gái sẽ tự động chặt cây xung quanh và trồng lại mầm cây.",
+  "task.maid_useful_task.locate": "Định Vị (Locate)",
+  "task.maid_useful_task.locate.desc": "Hầu gái có thể định vị cấu trúc hoặc nhà của bạn bằng vật phẩm chỉ định.",
+  "task.maid_useful_task.revive_player": "Cứu Hộ Người Chơi",
+  "task.maid_useful_task.revive_player.desc": "Hầu gái sẽ cứu hồi sinh người chơi đang bị chảy máu/hấp hối ở gần.",
+  "key.maid_useful_tasks.switch_vehicle_control": "Chuyển Đổi Chế Độ Điều Khiển Phương Tiện",
+  "maid_useful_task.allow_handle_vehicle.none": "Không cho phép hầu gái điều khiển phương tiện",
+  "maid_useful_task.allow_handle_vehicle.rot_only": "Chỉ cho phép hầu gái xoay hướng phương tiện",
+  "maid_useful_task.allow_handle_vehicle.full": "Cho phép hầu gái toàn quyền điều khiển phương tiện",
+  "key.maid_useful_tasks.categories.main": "Maid Useful Tasks",
+  "gui.maid_useful_task.logging.plant": "Trồng Lại Mầm Cây",
+  "gui.maid_useful_task.no": "Không",
+  "gui.maid_useful_task.yes": "Có",
+  "gui.maid_useful_task.revive.ownerOnly": "Chỉ cứu chủ nhân",
+  "gui.maid_useful_task.logging.block_up": "Xếp Khối Leo Lên",
+  "gui.maid_useful_task.logging.skip_non_nature": "Bỏ qua gỗ nhân tạo (không tự nhiên)"
+}

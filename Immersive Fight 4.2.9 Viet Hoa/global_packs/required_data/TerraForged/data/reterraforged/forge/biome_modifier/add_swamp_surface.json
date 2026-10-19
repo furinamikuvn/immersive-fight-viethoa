@@ -1,0 +1,10 @@
+{
+  "type": "reterraforged:add",
+  "biomes": {
+    "behavior": "whitelist",
+    "biomes": "minecraft:swamp"
+  },
+  "features": "reterraforged:swamp_surface",
+  "order": "prepend",
+  "step": "raw_generation"
+}

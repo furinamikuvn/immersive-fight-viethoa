@@ -1,0 +1,22 @@
+{
+
+  "type": "mes:mes_generic_jigsaw_structure",
+
+  "start_pool": "imf_bosses:rhyzaarena",
+
+  "size": 1,
+
+  "biomes": ["betterend:foggy_mushroomland","betterend:megalake_grove"],
+  "project_start_to_heightmap": "WORLD_SURFACE_WG",
+  "terrain_height_radius_check": 2,
+  "allowed_terrain_height_range": 5,
+  "min_y_allowed": 45,
+
+  "step": "surface_structures",
+  "terrain_adaptation": "beard_thin",
+  "start_height": {
+    "absolute": 0
+  },
+
+  "spawn_overrides": {}
+}

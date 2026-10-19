@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "illager_fortress:illager_fortress",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 90,
+    "separation": 40,
+    "salt": 1476075614
+  }
+}

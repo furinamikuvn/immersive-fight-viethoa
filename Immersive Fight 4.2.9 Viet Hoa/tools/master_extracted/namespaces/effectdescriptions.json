@@ -1,0 +1,167 @@
+{
+  "effect.minecraft.absorption.desc": {
+    "en": "Temporarily adds additional hearts that can't be regenerated.",
+    "zh": null,
+    "vi": null
+  },
+  "effect.minecraft.bad_omen.desc": {
+    "en": "Causes an illager raid to start upon entering a village.",
+    "zh": null,
+    "vi": null
+  },
+  "effect.minecraft.blindness.desc": {
+    "en": "Impairs vision and disables the ability to sprint and critical hit.",
+    "zh": null,
+    "vi": null
+  },
+  "effect.minecraft.conduit_power.desc": {
+    "en": "Increases underwater visibility and mining speed, prevents drowning.",
+    "zh": null,
+    "vi": null
+  },
+  "effect.minecraft.darkness.desc": {
+    "en": "Darkens the screen.",
+    "zh": null,
+    "vi": null
+  },
+  "effect.minecraft.dolphins_grace.desc": {
+    "en": "Increases swimming speed.",
+    "zh": null,
+    "vi": null
+  },
+  "effect.minecraft.fire_resistance.desc": {
+    "en": "Prevents taking damage from fire sources, like fire and lava.",
+    "zh": null,
+    "vi": null
+  },
+  "effect.minecraft.glowing.desc": {
+    "en": "Outlines the affected entity.",
+    "zh": null,
+    "vi": null
+  },
+  "effect.minecraft.haste.desc": {
+    "en": "Increases mining and attack speed.",
+    "zh": null,
+    "vi": null
+  },
+  "effect.minecraft.health_boost.desc": {
+    "en": "Increases maximum health.",
+    "zh": null,
+    "vi": null
+  },
+  "effect.minecraft.hero_of_the_village.desc": {
+    "en": "Gives discounts on trades with villagers, and makes villagers throw gifts.",
+    "zh": null,
+    "vi": null
+  },
+  "effect.minecraft.hunger.desc": {
+    "en": "Increases food exhaustion.",
+    "zh": null,
+    "vi": null
+  },
+  "effect.minecraft.instant_damage.desc": {
+    "en": "Damages living entities, heals undead.",
+    "zh": null,
+    "vi": null
+  },
+  "effect.minecraft.instant_health.desc": {
+    "en": "Heals living entities, damages undead.",
+    "zh": null,
+    "vi": null
+  },
+  "effect.minecraft.invisibility.desc": {
+    "en": "Grants invisibility, and reduces other mobs' detection range.",
+    "zh": null,
+    "vi": null
+  },
+  "effect.minecraft.jump_boost.desc": {
+    "en": "Increases jump height and reduces fall damage.",
+    "zh": null,
+    "vi": null
+  },
+  "effect.minecraft.levitation.desc": {
+    "en": "Floats the affected entity upward.",
+    "zh": null,
+    "vi": null
+  },
+  "effect.minecraft.luck.desc": {
+    "en": "Can increase chances of high-quality and more loot.",
+    "zh": null,
+    "vi": null
+  },
+  "effect.minecraft.mining_fatigue.desc": {
+    "en": "Decreases mining and attack speed.",
+    "zh": null,
+    "vi": null
+  },
+  "effect.minecraft.nausea.desc": {
+    "en": "Wobbles and warps the screen.",
+    "zh": null,
+    "vi": null
+  },
+  "effect.minecraft.night_vision.desc": {
+    "en": "Lets the player see well in darkness and underwater.",
+    "zh": null,
+    "vi": null
+  },
+  "effect.minecraft.poison.desc": {
+    "en": "Inflicts damage over time, but doesn't kill.",
+    "zh": null,
+    "vi": null
+  },
+  "effect.minecraft.regeneration.desc": {
+    "en": "Regenerates health over time.",
+    "zh": null,
+    "vi": null
+  },
+  "effect.minecraft.resistance.desc": {
+    "en": "Reduces incoming damage.",
+    "zh": null,
+    "vi": null
+  },
+  "effect.minecraft.saturation.desc": {
+    "en": "Restores hunger and saturation.",
+    "zh": null,
+    "vi": null
+  },
+  "effect.minecraft.slow_falling.desc": {
+    "en": "Decreases falling speed and negates fall damage.",
+    "zh": null,
+    "vi": null
+  },
+  "effect.minecraft.slowness.desc": {
+    "en": "Decreases walking speed.",
+    "zh": null,
+    "vi": null
+  },
+  "effect.minecraft.speed.desc": {
+    "en": "Increases walking speed.",
+    "zh": null,
+    "vi": null
+  },
+  "effect.minecraft.strength.desc": {
+    "en": "Increases dealt melee damage.",
+    "zh": null,
+    "vi": null
+  },
+  "effect.minecraft.unluck.desc": {
+    "en": "Can reduce chances of high-quality and more loot.",
+    "zh": null,
+    "vi": null
+  },
+  "effect.minecraft.water_breathing.desc": {
+    "en": "Prevents loosing air underwater and drowning.",
+    "zh": null,
+    "vi": null
+  },
+  "effect.minecraft.weakness.desc": {
+    "en": "Decreases dealt melee damage.",
+    "zh": null,
+    "vi": null
+  },
+  "effect.minecraft.wither.desc": {
+    "en": "Inflicts potentially deadly damage over time.",
+    "zh": null,
+    "vi": null
+  }
+}

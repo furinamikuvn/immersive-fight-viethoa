@@ -1,0 +1,17 @@
+{
+  "name": "Hearthflame (Lò Lửa Cự Chùy)",
+  "icon": "simplyswords:hearthflame",
+  "advancement": "simplyswords:hearthflame",
+  "category": "simplyswords:category_unique_weapons",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:hearthflame",
+      "text": "Tạo từ trường kéo giật kẻ địch về phía người dùng rồi phát nổ bốc cháy rực lửa xung quanh."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Vụ nổ hất tung kẻ địch ra xa, tạo không gian xoay sở và áp đảo chiến trường bằng ngọn lửa nóng bỏng nhất thế gian."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Trường Bính Liêm (Scythe)",
+  "icon": "simplyswords:iron_scythe",
+  "category": "simplyswords:category_weapon_variants",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:iron_scythe",
+      "text": "Lưỡi hái dài nặng nề sắc bén, vung đòn quét sạch hàng loạt quân thù trong tầm mắt."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "simplyswords:iron_scythe",
+      "recipe2": "simplyswords:gold_scythe"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "simplyswords:diamond_scythe"
+    },
+    {
+      "type": "patchouli:smithing",
+      "recipe": "simplyswords:netherite_scythe",
+      "recipe2": "simplyswords:runic_scythe"
+    }
+  ]
+}

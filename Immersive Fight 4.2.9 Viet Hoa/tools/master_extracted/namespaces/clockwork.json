@@ -1,0 +1,72 @@
+{
+  "packet.clockwork.client_message.is_flying": {
+    "en": "%1$s is now flying",
+    "zh": "%1$s 正在飞行",
+    "vi": "%1$s đang bay"
+  },
+  "packet.clockwork.client_message.is_walking": {
+    "en": "%1$s is now walking",
+    "zh": "%1$s 正在行走",
+    "vi": "%1$s đang đi bộ"
+  },
+  "key.clockwork.toggle_dragonfly_flight": {
+    "en": "Toggle Dragonfly Flight Mode",
+    "zh": "切换机动蜻蜓飞行模式",
+    "vi": "Chuyển sang chế độ bay chuồn chuồn có động cơ"
+  },
+  "key.categories.clockwork": {
+    "en": "Clockwork",
+    "zh": "发条工艺",
+    "vi": "Nghề thủ công đồng hồ"
+  },
+  "creativetab.clockwork.title": {
+    "en": "Clockwork",
+    "zh": "发条工艺",
+    "vi": "Nghề thủ công đồng hồ"
+  },
+  "item.clockwork.clockwork_gear": {
+    "en": "Clockwork Gear",
+    "zh": "发条齿轮",
+    "vi": "Clockwork Gear"
+  },
+  "item.clockwork.crossbow_barrel": {
+    "en": "Crossbow Barrel",
+    "zh": "弩机膛管",
+    "vi": "Crossbow Barrel"
+  },
+  "item.clockwork.clockwork_arrow": {
+    "en": "Clockwork Arrow",
+    "zh": "发条弩箭",
+    "vi": "Clockwork Arrow"
+  },
+  "item.clockwork.barrel_crossbow": {
+    "en": "Automatic Crossbow",
+    "zh": "连发机弩",
+    "vi": "Automatic Crossbow"
+  },
+  "item.clockwork.scope_crossbow": {
+    "en": "Scoped Crossbow",
+    "zh": "带瞄准镜的连发机弩",
+    "vi": "Scoped Crossbow"
+  },
+  "item.clockwork.clockwork_potion_sprayer": {
+    "en": "Potion Sprayer",
+    "zh": "发条药剂喷枪",
+    "vi": "Potion Sprayer"
+  },
+  "item.clockwork.clockwork_wings": {
+    "en": "Clockwork Wings",
+    "zh": "发条飞翼",
+    "vi": "Clockwork Wings"
+  },
+  "entity.clockwork.dragonfly": {
+    "en": "Dragonfly",
+    "zh": "机动蜻蜓",
+    "vi": "Dragonfly"
+  },
+  "entity.clockwork.broken_dragonfly": {
+    "en": "Broken Dragonfly",
+    "zh": "损坏的机动蜻蜓",
+    "vi": "Broken Dragonfly"
+  }
+}

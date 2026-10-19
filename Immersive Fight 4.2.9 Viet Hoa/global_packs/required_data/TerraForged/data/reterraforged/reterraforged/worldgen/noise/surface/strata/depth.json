@@ -1,0 +1,9 @@
+{
+  "type": "reterraforged:perlin",
+  "frequency": 0.0078125,
+  "gain": 0.5,
+  "interpolation": "CURVE3",
+  "lacunarity": 2.0,
+  "octaves": 3,
+  "seed": 0
+}

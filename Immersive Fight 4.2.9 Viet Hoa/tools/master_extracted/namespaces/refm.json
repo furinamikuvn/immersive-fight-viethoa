@@ -1,0 +1,142 @@
+{
+  "epicfight.weapon_category.rapier": {
+    "en": "Rapier",
+    "zh": "刺剑",
+    "vi": "thanh kiếm đâm"
+  },
+  "epicfight.weapon_category.ender_rapier": {
+    "en": "Enderite Rapier",
+    "zh": "末影刺剑",
+    "vi": "Ender đâm kiếm"
+  },
+  "epicfight.weapon_category.ocean_rapier": {
+    "en": "Oceanite Rapier",
+    "zh": "海晶刺剑",
+    "vi": "Thanh kiếm thủy tinh"
+  },
+  "epicfight.weapon_category.wither_rapier": {
+    "en": "Witherite Rapier",
+    "zh": "凋零刺剑",
+    "vi": "Thanh kiếm héo"
+  },
+  "epicfight.weapon_category.amethyst_rapier": {
+    "en": "Amethyst Rapier",
+    "zh": "紫水晶刺剑",
+    "vi": "Thanh kiếm đâm bằng thạch anh tím"
+  },
+  "item.refm.iron_rapier": {
+    "en": "Iron Rapier",
+    "zh": "铁刺剑",
+    "vi": "Iron Rapier"
+  },
+  "item.refm.gold_rapier": {
+    "en": "Gold Rapier",
+    "zh": "金刺剑",
+    "vi": "Gold Rapier"
+  },
+  "item.refm.diamond_rapier": {
+    "en": "Diamond Rapier",
+    "zh": "钻石刺剑",
+    "vi": "Diamond Rapier"
+  },
+  "item.refm.netherite_rapier": {
+    "en": "Netherite Rapier",
+    "zh": "下界合金刺剑",
+    "vi": "Netherite Rapier"
+  },
+  "item.refm.enderite_rapier": {
+    "en": "Enderite Rapier",
+    "zh": "末影刺剑",
+    "vi": "Enderite Rapier"
+  },
+  "item.refm.oceanite_rapier": {
+    "en": "Oceanite Rapier",
+    "zh": "海晶刺剑",
+    "vi": "Oceanite Rapier"
+  },
+  "item.refm.witherite_rapier": {
+    "en": "Witherite Rapier",
+    "zh": "凋零刺剑",
+    "vi": "Witherite Rapier"
+  },
+  "item.refm.end_upgrade": {
+    "en": "Enderite Upgrade",
+    "zh": "末影升级",
+    "vi": "Enderite Upgrade"
+  },
+  "item.refm.wither_upgrade": {
+    "en": "Witherite Upgrade",
+    "zh": "凋零升级",
+    "vi": "Witherite Upgrade"
+  },
+  "item.refm.ocean_upgrade": {
+    "en": "Oceanite Upgrade",
+    "zh": "海晶升级",
+    "vi": "Oceanite Upgrade"
+  },
+  "creativetab.rapiers_tab": {
+    "en": "Rapier Mod",
+    "zh": "Rapier Mod",
+    "vi": "Rapier Mod"
+  },
+  "damage_source.epicfight.stun_fall": {
+    "en": "§cFALL §8targets",
+    "zh": "§c坠落 §8目标",
+    "vi": "§c rơi vào mục tiêu §8"
+  },
+  "skill.refm.deadlybackflip": {
+    "en": "Deadly Backflip",
+    "zh": "致命回转",
+    "vi": "bước ngoặt chết người"
+  },
+  "skill.refm.deadlybackflip.tooltip": {
+    "en": "Rush in to your enemy kicking him to do a backflip.\nAfter the backflip rush into your enemy a second time to give him a lethal stab.",
+    "zh": "冲向敌人并踢中他进行后空翻。\n后空翻后，再次冲向敌人给予致命一击。",
+    "vi": "Lao về phía kẻ thù và đá hắn lộn ngược.\nSau khi lộn ngược, lao về phía kẻ thù một lần nữa để giáng một đòn chí mạng."
+  },
+  "skill.refm.deadlybackflip_ender": {
+    "en": "The Ender Dance",
+    "zh": "末影之舞",
+    "vi": "Vũ điệu của Enders"
+  },
+  "skill.refm.deadlybackflip_ender.tooltip": {
+    "en": "Rush in to your enemy kicking him to go into a end portal.\nAfter entering the portal you will use the end lost energy to shatter your enemy in pieces.",
+    "zh": "冲向你的敌人，踢他进入末影空间。\n进入传送门后，你将利用末地之力将敌人击碎。",
+    "vi": "Lao về phía kẻ thù của bạn và đá hắn vào không gian cuối cùng.\nSau khi vào cổng, bạn sẽ sử dụng sức mạnh cuối cùng để đập kẻ thù của mình thành từng mảnh."
+  },
+  "skill.refm.deadlybackflip_ocean": {
+    "en": "The Ocean Flow",
+    "zh": "海洋之流",
+    "vi": "dòng hải lưu"
+  },
+  "skill.refm.deadlybackflip_ocean.tooltip": {
+    "en": "Rush in to your enemy kicking him and gaining the height of the rain.\nAfter you reach the sky you will make sure that the rain on your blade will puncture into your enemy's armor.",
+    "zh": "冲向敌人并踢中他，利用雨水获得高度。\n到达天空后，你将确保雨水附着的剑刃穿透敌人的盔甲。",
+    "vi": "Lao về phía kẻ thù và đá hắn, lợi dụng cơn mưa để tăng độ cao.\nKhi ở trên bầu trời, bạn sẽ đảm bảo lưỡi kiếm gắn mưa của mình xuyên thủng áo giáp của kẻ thù."
+  },
+  "skill.refm.deadlybackflip_wither": {
+    "en": "The Wither Rage",
+    "zh": "凋零之怒",
+    "vi": "Cơn thịnh nộ héo úa"
+  },
+  "skill.refm.deadlybackflip_wither.tooltip": {
+    "en": "Rush in to your enemy kicking him and smelling his death wishes.\nAfter listening to your victim, you will please his wishes in the most demonic and brutal way.",
+    "zh": "冲向敌人并踢中他，感受他的死亡气息。\n在聆听受害者的心声后，你将以最恶魔般和残忍的方式满足他的愿望。",
+    "vi": "Lao về phía kẻ thù và đá hắn để cảm nhận hơi thở tử thần của hắn.\nSau khi lắng nghe nạn nhân, bạn sẽ thực hiện được mong muốn của anh ta một cách tàn ác và độc ác nhất."
+  },
+  "skill.refm.deadlybackflip_amethyst": {
+    "en": "Amethyst Crystal Crush",
+    "zh": "紫水晶碎裂",
+    "vi": "Thạch anh tím vỡ vụn"
+  },
+  "skill.refm.deadlybackflip_amethyst.tooltip": {
+    "en": "Rush in to your enemy kicking him going high with magic.\nAfter that you will rush with the ancient mana collected inside the amethyst to behind your enemies armor.",
+    "zh": "冲向敌人并踢中他，利用魔法升空。\n之后，你将利用紫水晶中收集的古老魔力穿透敌人的盔甲。",
+    "vi": "Lao về phía kẻ thù và đá hắn, sử dụng phép thuật để bay lên không trung.\nSau đó, bạn sẽ sử dụng phép thuật cổ xưa được tập hợp trong viên thạch anh tím để xuyên thủng áo giáp của kẻ thù."
+  },
+  "pack.all_rapiers_3D.title": {
+    "en": "Rapiers 3D",
+    "zh": null,
+    "vi": null
+  }
+}

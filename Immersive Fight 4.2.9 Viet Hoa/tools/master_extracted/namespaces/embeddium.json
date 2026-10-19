@@ -1,0 +1,37 @@
+{
+  "embeddium.conflicting_mod": {
+    "en": "Embeddium detected the presence of mods that are known to cause rendering issues/crashes. It is recommended to uninstall them. See the list below.",
+    "zh": "Embeddium 检测到已安装的模组中有些可能会导致渲染问题或崩溃。建议卸载它们。请参考以下列表。",
+    "vi": null
+  },
+  "embeddium.conflicting_mod_list": {
+    "en": "[{2}]",
+    "zh": "[{2}]",
+    "vi": null
+  },
+  "embeddium.search_bar_empty": {
+    "en": "Search options...",
+    "zh": null,
+    "vi": null
+  },
+  "embeddium.options.added_by_mod_string": {
+    "en": "Added by mod: %s",
+    "zh": null,
+    "vi": null
+  },
+  "embeddium.options.fullscreen.resolution.tooltip": {
+    "en": "Controls the resolution of the game in fullscreen mode.",
+    "zh": null,
+    "vi": null
+  },
+  "embeddium.options.use_quad_normals_for_lighting.name": {
+    "en": "Use Accurate Quad Shading",
+    "zh": null,
+    "vi": null
+  },
+  "embeddium.options.use_quad_normals_for_lighting.tooltip": {
+    "en": "When enabled, Embeddium will apply shading to non-vanilla block faces based on the true direction they are facing, not their axis-aligned direction. This can improve lighting quality when the Forge experimental light pipeline is disabled (which is recommended for best performance).\n\nIt has no effect if the experimental light pipeline is enabled.",
+    "zh": null,
+    "vi": null
+  }
+}

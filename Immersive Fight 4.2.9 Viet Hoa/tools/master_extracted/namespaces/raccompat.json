@@ -1,0 +1,187 @@
+{
+  "item.raccompat.acid_walker": {
+    "en": "Acid Walker",
+    "zh": "浓酸行者",
+    "vi": "Acid Walker"
+  },
+  "tooltip.relics.acid_walker.description": {
+    "en": "Allows its owner to safely traverse acidic surfaces, neutralizing harmful effects and providing protection. Grants access to explore radiation hazard zones, making the insurmountable surmountable.",
+    "zh": "允许穿戴者安全地穿越酸性表面，使有害影响无效化并提供保护。给予了探索辐射危险区的权限，将不可能变成可能。",
+    "vi": "Cho phép người đeo đi qua các bề mặt có tính axit một cách an toàn, vô hiệu hóa các Lực xung kích có hại và mang lại sự bảo vệ. Với quyền truy cập để khám phá các vùng nguy hiểm bức xạ, điều không thể sẽ trở thành có thể."
+  },
+  "tooltip.relics.acid_walker.ability.walking": {
+    "en": "Acidic Stride",
+    "zh": "酸性跨越",
+    "vi": "chéo axit"
+  },
+  "tooltip.relics.acid_walker.ability.walking.description": {
+    "en": "For a certain period, allows movement across acid surfaces without sinking into them or sustaining corrosion. After the duration ends, it begins to leave behind a toxic trail, applying acid effects to all living beings.",
+    "zh": "在一段时间内，允许在酸性表面上移动，而不会沉入其中或被腐蚀。在酸性表面停留足够长的时间后，移动时留下毒渍拖尾，对所有生物产生腐蚀作用。",
+    "vi": "Cho phép di chuyển trên các bề mặt có tính axit trong một khoảng thời gian mà không bị chìm vào trong hoặc bị ăn mòn. Sau khi tồn tại trên bề mặt có tính axit đủ lâu, nó để lại dấu vết các vết độc khi di chuyển, gây ra Lực xung kích ăn mòn đối với mọi sinh vật sống."
+  },
+  "tooltip.relics.acid_walker.ability.walking.stat.duration.title": {
+    "en": "Duration:",
+    "zh": "持续时间",
+    "vi": "khoảng thời gian"
+  },
+  "tooltip.relics.acid_walker.ability.walking.stat.duration.value": {
+    "en": "%1$s seconds.",
+    "zh": "%1$s 秒.",
+    "vi": "%1$s giây."
+  },
+  "item.raccompat.polar_boot": {
+    "en": "Polar Boot",
+    "zh": "磁极靴子",
+    "vi": "Polar Boot"
+  },
+  "tooltip.relics.polar_boot.description": {
+    "en": "Provides the wearer with the ability to levitate above the surface, making it easier to traverse difficult terrain and push the boundaries of exploration.",
+    "zh": "为佩戴者提供在水面上漂浮的能力，使其更容易穿越困难的地形。",
+    "vi": "Mang đến cho người mặc khả năng nổi trên mặt nước, giúp vượt qua những địa hình khó khăn dễ dàng hơn."
+  },
+  "tooltip.relics.polar_boot.ability.polarity": {
+    "en": "Polarization",
+    "zh": "两级反转",
+    "vi": "đảo ngược hai cấp độ"
+  },
+  "tooltip.relics.polar_boot.ability.polarity.description": {
+    "en": "Switches the polarity of the boot between blue and red. Red increases the force of attraction to the ground, while blue allows you to levitate freely above its surface.",
+    "zh": "将靴子的极性在蓝色和红色之间切换。红色增加了对地面的吸引力，而蓝色则允许你进行悬浮。",
+    "vi": "Chuyển cực của ủng giữa xanh và đỏ. Màu đỏ tăng lực hút xuống mặt đất, trong khi màu xanh lam cho phép bạn bay lên."
+  },
+  "tooltip.relics.polar_boot.ability.polarity.stat.speed.title": {
+    "en": "Levitation speed modifier:",
+    "zh": "悬浮速度调节器：",
+    "vi": "Bộ điều chỉnh tốc độ treo:"
+  },
+  "tooltip.relics.polar_boot.ability.polarity.stat.speed.value": {
+    "en": "x%1$s%%.",
+    "zh": "x%1$s%%.",
+    "vi": "x%1$s%%."
+  },
+  "item.raccompat.desolate_pendant": {
+    "en": "Desolate Pendant",
+    "zh": "异寂吊坠",
+    "vi": "Desolate Pendant"
+  },
+  "tooltip.relics.desolate_pendant.description": {
+    "en": "Wields ghostly knives, stealthily piercing targets in the path of its wearer.",
+    "zh": "挥舞着幽灵般的刀，悄悄地刺穿佩戴者路径上的目标。",
+    "vi": "Sử dụng một lưỡi kiếm ma quái âm thầm xuyên qua các mục tiêu trên đường đi của người đeo."
+  },
+  "tooltip.relics.desolate_pendant.ability.desolate": {
+    "en": "Desolate",
+    "zh": "空无影刃",
+    "vi": "Lưỡi kiếm bóng rỗng"
+  },
+  "tooltip.relics.desolate_pendant.ability.desolate.description": {
+    "en": "Each attack the wearer makes with a certain chance summons a phantom blade, dealing a fraction of the original damage to the target.",
+    "zh": "每次攻击命中目标后均有概率召唤一把幻影刃刺向目标，幻影刃会据百分比继承玩家当前持有的武器的伤害",
+    "vi": "Mỗi lần tấn công trúng mục tiêu sẽ có cơ hội triệu hồi một lưỡi kiếm ma để đâm vào mục tiêu. Thanh kiếm ảo sẽ kế thừa sát thương của vũ khí mà người chơi đang nắm giữ dựa trên tỷ lệ phần trăm."
+  },
+  "tooltip.relics.desolate_pendant.ability.desolate.stat.damage.title": {
+    "en": "Damage dealt:",
+    "zh": "造成的伤害:",
+    "vi": "Thiệt hại gây ra:"
+  },
+  "tooltip.relics.desolate_pendant.ability.desolate.stat.damage.value": {
+    "en": "%1$s%%.",
+    "zh": "%1$s%%.",
+    "vi": "%1$s%%."
+  },
+  "tooltip.relics.desolate_pendant.ability.desolate.stat.chance.title": {
+    "en": "Trigger chance:",
+    "zh": "触发几率:",
+    "vi": "Xác suất kích hoạt:"
+  },
+  "tooltip.relics.desolate_pendant.ability.desolate.stat.chance.value": {
+    "en": "%1$s%%.",
+    "zh": "%1$s%%.",
+    "vi": "%1$s%%."
+  },
+  "tooltip.relics.desolate_pendant.ability.devastate": {
+    "en": "Devastate",
+    "zh": "毁灭打击",
+    "vi": "đòn tàn khốc"
+  },
+  "tooltip.relics.desolate_pendant.ability.devastate.description": {
+    "en": "Invokes several phantom blades, alternately dealing the target a fraction of the weapon's damage from the hand.",
+    "zh": "选定并在一个目标所在的位置召唤数把幻影刃，一齐刺向目标。",
+    "vi": "Chọn và triệu hồi một số lưỡi dao ảo tại một vị trí mục tiêu, đâm mục tiêu vào nhau."
+  },
+  "tooltip.relics.desolate_pendant.ability.devastate.stat.count.title": {
+    "en": "Blade count:",
+    "zh": "幻影刃数量:",
+    "vi": "Số lượng lưỡi ma:"
+  },
+  "tooltip.relics.desolate_pendant.ability.devastate.stat.count.value": {
+    "en": "%1$s units.",
+    "zh": "%1$s 个.",
+    "vi": "%1$s."
+  },
+  "tooltip.relics.desolate_pendant.ability.devastate.stat.cooldown.title": {
+    "en": "Cooldown time:",
+    "zh": "冷却时间:",
+    "vi": "Thời gian làm mát:"
+  },
+  "tooltip.relics.desolate_pendant.ability.devastate.stat.cooldown.value": {
+    "en": "%1$s seconds.",
+    "zh": "%1$s 秒",
+    "vi": "%1$s giây"
+  },
+  "tooltip.relics.desolate_pendant.ability.devastate.predicate.target": {
+    "en": "View target",
+    "zh": "查看目标",
+    "vi": "Xem mục tiêu"
+  },
+  "tooltip.relics.desolate_pendant.ability.devastate.predicate.weapon": {
+    "en": "Weapon in main hand",
+    "zh": "当武器在主手",
+    "vi": "Khi vũ khí nằm trong tay chính"
+  },
+  "item.raccompat.vine_ring": {
+    "en": "Ring of Vines",
+    "zh": "蔓生之戒",
+    "vi": "Ring of Vines"
+  },
+  "tooltip.relics.vine_ring.description": {
+    "en": "Spawns thickets of archaic vines, opening new avenues for exploring the complex landscapes of underground territories.",
+    "zh": "古老藤蔓丛生，为探索原始洞穴的复杂景观开辟了新的途径。",
+    "vi": "Những cụm dây leo cổ thụ mở ra những con đường mới để khám phá cảnh quan phức tạp của hang động nguyên thủy."
+  },
+  "tooltip.relics.vine_ring.ability.vine": {
+    "en": "Vines",
+    "zh": "藤蔓",
+    "vi": "cây nho"
+  },
+  "tooltip.relics.vine_ring.ability.vine.description": {
+    "en": "Generates a vertical vine from the player's current position to the nearest solid block on the ceiling.",
+    "zh": "使用后可据距佩戴者头顶最近的完整方块位置，向上生成一根古老藤。",
+    "vi": "Sau khi sử dụng, một cây nho cổ thụ có thể được tạo ra hướng lên trên tùy theo vị trí của khối hoàn chỉnh gần đầu người đeo nhất."
+  },
+  "tooltip.relics.vine_ring.ability.vine.stat.length.title": {
+    "en": "Maximum distance:",
+    "zh": "最大距离:",
+    "vi": "Khoảng cách tối đa:"
+  },
+  "tooltip.relics.vine_ring.ability.vine.stat.length.value": {
+    "en": "%1$s blocks.",
+    "zh": "%1$s 格.",
+    "vi": "Lưới %1$s."
+  },
+  "tooltip.relics.vine_ring.ability.vine.stat.cooldown.title": {
+    "en": "Cooldown:",
+    "zh": "冷却时间:",
+    "vi": "Thời gian làm mát:"
+  },
+  "tooltip.relics.vine_ring.ability.vine.stat.cooldown.value": {
+    "en": "%1$s seconds.",
+    "zh": "%1$s 秒.",
+    "vi": "%1$s giây."
+  },
+  "tooltip.relics.vine_ring.ability.vine.predicate.ceil": {
+    "en": "Block overhead",
+    "zh": "头顶的方块",
+    "vi": "khối trên đầu"
+  }
+}

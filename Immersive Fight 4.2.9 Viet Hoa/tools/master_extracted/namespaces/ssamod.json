@@ -1,0 +1,122 @@
+{
+  "key.category.ssamod": {
+    "en": "Sunrise & Sunset Audio",
+    "zh": null,
+    "vi": "Sunrise & Sunset Audio"
+  },
+  "key.category.ssamod.openoptions": {
+    "en": "Open Options",
+    "zh": null,
+    "vi": "Mở Cài Đặt"
+  },
+  "gui.ssa.options": {
+    "en": "Sunrise & Sunset Audio",
+    "zh": null,
+    "vi": "Sunrise & Sunset Audio"
+  },
+  "gui.ssa.options_play": {
+    "en": "⏵",
+    "zh": null,
+    "vi": "⏵"
+  },
+  "gui.ssa.options_slider_rooster": {
+    "en": "Rooster: ",
+    "zh": null,
+    "vi": "Tiếng Gà Gáy: "
+  },
+  "gui.ssa.options_slider_wolf": {
+    "en": "Wolf: ",
+    "zh": null,
+    "vi": "Tiếng Sói Hú: "
+  },
+  "gui.ssa.options_play_cave": {
+    "en": "Play Sounds In Cave",
+    "zh": null,
+    "vi": "Phát Âm Thanh Trong Hang"
+  },
+  "gui.ssa.options_send_messages": {
+    "en": "Send Messages",
+    "zh": null,
+    "vi": "Gửi Thông Báo"
+  },
+  "gui.ssa.options_update": {
+    "en": "New version of mod is available!",
+    "zh": null,
+    "vi": "Đã có phiên bản mới của mod!"
+  },
+  "gui.ssa.options_reset": {
+    "en": "Reset Defaults",
+    "zh": null,
+    "vi": "Đặt Lại Mặc Định"
+  },
+  "gui.ssa.options_morning_tick": {
+    "en": "Morning Tick (10 - 23999)",
+    "zh": null,
+    "vi": "Tick Buổi Sáng (10 - 23999)"
+  },
+  "gui.ssa.options_evening_tick": {
+    "en": "Evening Tick (10 - 23999)",
+    "zh": null,
+    "vi": "Tick Buổi Tối (10 - 23999)"
+  },
+  "gui.ssa.options_chance_rooster": {
+    "en": "Chance: ",
+    "zh": null,
+    "vi": "Tỉ Lệ: "
+  },
+  "gui.ssa.options_chance_wolf": {
+    "en": "Chance: ",
+    "zh": null,
+    "vi": "Tỉ Lệ: "
+  },
+  "gui.ssa.options_moon_phase_all": {
+    "en": "All",
+    "zh": null,
+    "vi": "Tất Cả"
+  },
+  "gui.ssa.options_moon_phase_full_moon": {
+    "en": "Full Moon",
+    "zh": null,
+    "vi": "Trăng Tròn"
+  },
+  "gui.ssa.options_moon_phase_tooltip": {
+    "en": "Choose Moon Phase when wolf sound will be played",
+    "zh": null,
+    "vi": "Chọn chu kỳ trăng phát âm thanh sói hú"
+  },
+  "messages.ssa.morning_message": {
+    "en": "Morning...",
+    "zh": null,
+    "vi": "Trời đã sáng..."
+  },
+  "messages.ssa.evening_message": {
+    "en": "Evening...",
+    "zh": null,
+    "vi": "Màn đêm buông xuống..."
+  },
+  "messages.ssa.error_message_invalid_value": {
+    "en": "Invalid Value!! Set to Default",
+    "zh": null,
+    "vi": "Giá trị không hợp lệ! Đã đặt về mặc định"
+  },
+  "messages.ssa.error_message_same_value": {
+    "en": "Values Can't be Same!! Set to Default",
+    "zh": null,
+    "vi": "Giá trị không thể giống nhau! Đã đặt về mặc định"
+  },
+  "gui.ssa.options_play_in_other_dim": {
+    "en": "Play Sounds In Other Dimensions",
+    "zh": null,
+    "vi": "Phát Âm Thanh Ở Chiều Không Gian Khác"
+  },
+  "gui.ssa.options_send_messages_in_other_dim": {
+    "en": "Send Messages In Other Dimensions",
+    "zh": null,
+    "vi": "Gửi Thông Báo Ở Chiều Không Gian Khác"
+  },
+  "gui.ssa.options_percent": {
+    "en": " %",
+    "zh": null,
+    "vi": null
+  }
+}

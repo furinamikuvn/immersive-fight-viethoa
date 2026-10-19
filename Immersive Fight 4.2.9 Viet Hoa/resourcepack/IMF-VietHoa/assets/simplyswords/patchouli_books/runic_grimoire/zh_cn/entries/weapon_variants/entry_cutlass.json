@@ -1,0 +1,26 @@
+{
+  "name": "Đoản Đao / Dao Cong (Cutlass)",
+  "icon": "simplyswords:iron_cutlass",
+  "category": "simplyswords:category_weapon_variants",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:iron_cutlass",
+      "text": "Đoản đao cong sắc bén, tối ưu cho đòn chém nhanh và đâm xé trong cận chiến trên boong tàu hoặc địa hình hẹp."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "simplyswords:iron_cutlass",
+      "recipe2": "simplyswords:gold_cutlass"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "simplyswords:diamond_cutlass"
+    },
+    {
+      "type": "patchouli:smithing",
+      "recipe": "simplyswords:netherite_cutlass",
+      "recipe2": "simplyswords:runic_cutlass"
+    }
+  ]
+}

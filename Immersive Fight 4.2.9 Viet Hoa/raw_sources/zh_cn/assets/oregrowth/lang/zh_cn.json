@@ -1,0 +1,8 @@
+{
+  "oregrowth.block.ore_growth": "矿簇",
+  "oregrowth.ore_growth_block.adjusted_name": "%s 结晶",
+  "oregrowth.ore_growth_block.growth_hint": "生长: %s",
+  "oregrowth.jei_category.title": "晶石生长",
+  "config.jade.plugin_oregrowth.ore_growth_hint": "显示晶石生长进度",
+  "config.jade.plugin_oregrowth.ore_growth_icon": "替换晶石图标"
+}

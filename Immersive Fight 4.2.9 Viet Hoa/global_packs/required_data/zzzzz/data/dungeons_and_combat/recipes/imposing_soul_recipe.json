@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " b ",
+    "bcb",
+    " b "
+  ],
+  "key": {
+    "b": {
+      "item": "netherexp:soul_magma_block"
+    },
+    "c": {
+      "item": "arsenal:soul_metal_ingot"
+    }
+  },
+  "result": {
+    "item": "dungeons_and_combat:imposing_soul",
+    "count": 1
+  }
+}

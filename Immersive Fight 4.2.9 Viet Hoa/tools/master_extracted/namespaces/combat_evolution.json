@@ -1,0 +1,142 @@
+{
+  "effect.combat_evolution.full_stun_immunity": {
+    "en": "Full Stun Immunity",
+    "zh": "完全霸体",
+    "vi": null
+  },
+  "effect.combat_evolution.high_stun_immunity": {
+    "en": "High Stun Immunity",
+    "zh": "高级眩晕免疫",
+    "vi": null
+  },
+  "effect.combat_evolution.middle_stun_immunity": {
+    "en": "Middle Stun Immunity",
+    "zh": "中级眩晕免疫",
+    "vi": null
+  },
+  "effect.combat_evolution.normal_stun_immunity": {
+    "en": "Normal Stun Immunity",
+    "zh": "普通硬直免疫",
+    "vi": null
+  },
+  "effect.combat_evolution.bypass_dodge_effect": {
+    "en": "Bypass Dodge",
+    "zh": "无视闪避",
+    "vi": null
+  },
+  "effect.combat_evolution.bypass_guard_effect": {
+    "en": "Bypass Guard",
+    "zh": "无视防御",
+    "vi": null
+  },
+  "effect.combat_evolution.impact_boost": {
+    "en": "Impact Boost",
+    "zh": "冲击力提升",
+    "vi": null
+  },
+  "death.attack.execution": {
+    "en": "%1&s was executed",
+    "zh": "%1&s 被处决了",
+    "vi": null
+  },
+  "key.categories.combat_evolution": {
+    "en": "Combat Evolution",
+    "zh": "战斗进化",
+    "vi": null
+  },
+  "key.combat_evolution.execution": {
+    "en": "Execution",
+    "zh": "处决",
+    "vi": null
+  },
+  "entity.combat_evolution.shelmarow": {
+    "en": "ShelMarow (Test Mob)",
+    "zh": "ShelMarow (测试用生物)",
+    "vi": null
+  },
+  "config.combat_evolution.client_config": {
+    "en": "Combat Evolution Client Config",
+    "zh": "战斗进化 客户端配置",
+    "vi": null
+  },
+  "config.combat_evolution.play_music": {
+    "en": "Play CE Music:",
+    "zh": "播放音乐:",
+    "vi": null
+  },
+  "config.combat_evolution.hud_type": {
+    "en": "HUD Type:",
+    "zh": "处决HUD类型:",
+    "vi": null
+  },
+  "config.combat_evolution.icon_position": {
+    "en": "Icon Position",
+    "zh": "处决图标位置设置",
+    "vi": null
+  },
+  "config.combat_evolution.icon_display": {
+    "en": "Icon Display",
+    "zh": "处决图标显示",
+    "vi": null
+  },
+  "config.combat_evolution.text_display": {
+    "en": "Text Display:",
+    "zh": "处决文本提示:",
+    "vi": null
+  },
+  "hud.combat_evolution.execution_tooltip": {
+    "en": "Aim target and\npress [%s]",
+    "zh": "瞄准敌人并按下 [%s]",
+    "vi": null
+  },
+  "hud.combat_evolution.execution_disabled": {
+    "en": "Execution Disabled!",
+    "zh": "处决功能未开启!",
+    "vi": null
+  },
+  "text.combat_evolution.not_available_pos": {
+    "en": "Location is not standing or have not enough space",
+    "zh": "处决位置无法站立或没有足够空间",
+    "vi": null
+  },
+  "command.combat_evolution.execution_failed": {
+    "en": "execution failed",
+    "zh": "处决执行失败！",
+    "vi": null
+  },
+  "skill.combat_evolution.shield_counter": {
+    "en": "Shield Counter",
+    "zh": "盾牌反击",
+    "vi": null
+  },
+  "skill.combat_evolution.shield_counter.tooltip": {
+    "en": "When holding a shield in your off-hand\nPress [Guard + Weapon Innate] consume stamina to swing the shield\nIf you successfully block an attack, you will stun the enemy, restore your stamina, and gain stun immunity, resistance, and strength effect",
+    "zh": "当副手持有盾牌时\n按下 [防御 + 武器技能] 消耗耐力并挥舞盾牌\n如果成功抵挡攻击能够使敌人眩晕，回复自身耐力并获得霸体、抗性提升、力量效果",
+    "vi": null
+  },
+  "creativetab.combat_evolution.items": {
+    "en": "Combat Evolution",
+    "zh": "战斗进化",
+    "vi": null
+  },
+  "enchantment.combat_evolution.massacre": {
+    "en": "Massacre",
+    "zh": "残杀",
+    "vi": null
+  },
+  "enchantment.combat_evolution.massacre.desc": {
+    "en": "Increases the damage dealt by executions",
+    "zh": "增加处决造成的伤害",
+    "vi": null
+  },
+  "enchantment.combat_evolution.intimidate": {
+    "en": "Intimidate",
+    "zh": "威慑",
+    "vi": null
+  },
+  "enchantment.combat_evolution.intimidate.desc": {
+    "en": "After killed an enemy by execution, knock back and stun surrounding non-player targets",
+    "zh": "成功处决敌人后，击退并眩晕范围内的非玩家目标",
+    "vi": null
+  }
+}

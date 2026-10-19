@@ -1,0 +1,777 @@
+{
+  "beachparty.container.cabinet": {
+    "en": "Cabinet",
+    "zh": "橱柜",
+    "vi": "cái tủ"
+  },
+  "beachparty.sound.ambient_beach": {
+    "en": null,
+    "zh": "海浪声",
+    "vi": "Âm thanh của sóng"
+  },
+  "beachparty.sound.cabinet_close": {
+    "en": null,
+    "zh": "橱柜：关闭",
+    "vi": "Tủ: Đã đóng"
+  },
+  "beachparty.sound.cabinet_open": {
+    "en": null,
+    "zh": "橱柜：打开",
+    "vi": "Tủ: mở"
+  },
+  "beachparty.sound.pelican_death": {
+    "en": null,
+    "zh": "鹈鹕：死亡",
+    "vi": "Bồ nông: Cái chết"
+  },
+  "beachparty.sound.pelican_hurt": {
+    "en": null,
+    "zh": "鹈鹕：受伤",
+    "vi": "Bồ nông: bị thương"
+  },
+  "beachparty.sound.pelican_idle": {
+    "en": null,
+    "zh": "鹈鹕：转悠",
+    "vi": "Pelican: lang thang khắp nơi"
+  },
+  "beachparty.sound.radio_beachparty": {
+    "en": null,
+    "zh": "收音机：播放《Over the Rainbow》",
+    "vi": "Đài phát thanh: Chơi bài \"Over the Rainbow\""
+  },
+  "beachparty.sound.radio_click": {
+    "en": null,
+    "zh": "收音机：咔嗒声",
+    "vi": "Đài phát thanh: nhấp chuột"
+  },
+  "beachparty.sound.radio_hawaii": {
+    "en": null,
+    "zh": "收音机：夏威夷音乐",
+    "vi": "Đài phát thanh: Âm nhạc Hawaii"
+  },
+  "beachparty.sound.radio_reggea": {
+    "en": null,
+    "zh": "收音机：雷鬼音乐",
+    "vi": "Đài phát thanh: Reggae"
+  },
+  "beachparty.sound.radio_tropical": {
+    "en": null,
+    "zh": "收音机：热带风情音乐",
+    "vi": "Đài phát thanh: âm nhạc nhiệt đới"
+  },
+  "beachparty.sound.radio_tune": {
+    "en": null,
+    "zh": "收音机：沙沙噪音",
+    "vi": "Đài phát thanh: tiếng xào xạc"
+  },
+  "block.beachparty.beach_chair": {
+    "en": "Beach Chair",
+    "zh": "沙滩棚椅",
+    "vi": "Beach Chair"
+  },
+  "block.beachparty.beach_grass": {
+    "en": "Beach Grass",
+    "zh": "滨草",
+    "vi": "Beach Grass"
+  },
+  "block.beachparty.beach_towel": {
+    "en": "Beach Towel",
+    "zh": "沙滩毛巾",
+    "vi": "Beach Towel"
+  },
+  "block.beachparty.cabinet": {
+    "en": "Tiki Cabinet",
+    "zh": "棕榈提基橱柜",
+    "vi": "Tiki Cabinet"
+  },
+  "block.beachparty.chair": {
+    "en": "Chair",
+    "zh": "棕榈椅子",
+    "vi": "Chair"
+  },
+  "block.beachparty.cocoa_cocktail": {
+    "en": "Cocoa Cocktail",
+    "zh": "可可鸡尾酒",
+    "vi": "Cocoa Cocktail"
+  },
+  "block.beachparty.coconut": {
+    "en": "Coconut",
+    "zh": "椰子",
+    "vi": "Coconut"
+  },
+  "block.beachparty.coconut_block": {
+    "en": "Coconut",
+    "zh": "椰子",
+    "vi": "Coconut"
+  },
+  "block.beachparty.coconut_cocktail": {
+    "en": "Coconut Cocktail",
+    "zh": "椰子鸡尾酒",
+    "vi": "Coconut Cocktail"
+  },
+  "block.beachparty.coconut_hanging": {
+    "en": null,
+    "zh": "悬挂的椰子",
+    "vi": "dừa treo"
+  },
+  "block.beachparty.deck_chair": {
+    "en": "Deck Chair",
+    "zh": "沙滩日光椅",
+    "vi": "Deck Chair"
+  },
+  "block.beachparty.dried_wheat_block": {
+    "en": "Dried Wheat",
+    "zh": "草垛块",
+    "vi": "Dried Wheat"
+  },
+  "block.beachparty.dried_wheat_slab": {
+    "en": "Dried Wheat Slab",
+    "zh": "草垛台阶",
+    "vi": "Dried Wheat Slab"
+  },
+  "block.beachparty.dried_wheat_stairs": {
+    "en": "Dried Wheat Stairs",
+    "zh": "草垛楼梯",
+    "vi": "Dried Wheat Stairs"
+  },
+  "block.beachparty.dry_bush": {
+    "en": "Dry Bush",
+    "zh": "干灌木",
+    "vi": "Dry Bush"
+  },
+  "block.beachparty.dry_bush_tall": {
+    "en": "Dry Bush, Tall",
+    "zh": "高干灌木",
+    "vi": "Dry Bush, Tall"
+  },
+  "block.beachparty.empty_sand_bucket": {
+    "en": "Empty Sand Bucket",
+    "zh": "空沙桶",
+    "vi": "Empty Sand Bucket"
+  },
+  "block.beachparty.empty_sand_bucket_block": {
+    "en": "Empty Sand Bucket",
+    "zh": "空沙桶",
+    "vi": "Empty Sand Bucket"
+  },
+  "block.beachparty.hammock": {
+    "en": "Hammock",
+    "zh": "沙滩吊床",
+    "vi": "Hammock"
+  },
+  "block.beachparty.honey_cocktail": {
+    "en": "Honey Cocktail",
+    "zh": "蜂蜜鸡尾酒",
+    "vi": "Honey Cocktail"
+  },
+  "block.beachparty.lounge_chair": {
+    "en": "Lounge Chair",
+    "zh": "沙滩躺椅",
+    "vi": "Lounge Chair"
+  },
+  "block.beachparty.melon_cocktail": {
+    "en": "Melon Cocktail",
+    "zh": "西瓜鸡尾酒",
+    "vi": "Melon Cocktail"
+  },
+  "block.beachparty.message_in_a_bottle": {
+    "en": "Message in a Bottle",
+    "zh": "漂流瓶",
+    "vi": "Message in a Bottle"
+  },
+  "block.beachparty.mini_fridge": {
+    "en": "Mini Fridge",
+    "zh": "迷你冰箱",
+    "vi": "Mini Fridge"
+  },
+  "block.beachparty.notimplemented": {
+    "en": "This block has functions that are not yet fully implemented. Stay Tuned!",
+    "zh": "（这个方块有尚未完全实现的功能。敬请期待！）",
+    "vi": "This block has functions that are not yet fully implemented. Stay Tuned!"
+  },
+  "block.beachparty.palm_beam": {
+    "en": "Palm Beam",
+    "zh": "棕榈木梁",
+    "vi": "Palm Beam"
+  },
+  "block.beachparty.palm_button": {
+    "en": "Palm Button",
+    "zh": "棕榈木按钮",
+    "vi": "Palm Button"
+  },
+  "block.beachparty.palm_door": {
+    "en": "Palm Door",
+    "zh": "棕榈木门",
+    "vi": "Palm Door"
+  },
+  "block.beachparty.palm_fence": {
+    "en": "Palm Fence",
+    "zh": "棕榈木栅栏",
+    "vi": "Palm Fence"
+  },
+  "block.beachparty.palm_fence_gate": {
+    "en": "Palm Fence Gate",
+    "zh": "棕榈木栅栏门",
+    "vi": "Palm Fence Gate"
+  },
+  "block.beachparty.palm_floorboard": {
+    "en": "Palm Floorboard",
+    "zh": "棕榈木地板",
+    "vi": "Palm Floorboard"
+  },
+  "block.beachparty.palm_leaves": {
+    "en": "Palm Leaves",
+    "zh": "棕榈树叶",
+    "vi": "Palm Leaves"
+  },
+  "block.beachparty.palm_log": {
+    "en": "Palm Log",
+    "zh": "棕榈原木",
+    "vi": "Palm Log"
+  },
+  "block.beachparty.palm_planks": {
+    "en": "Palm Planks",
+    "zh": "棕榈木板",
+    "vi": "Palm Planks"
+  },
+  "block.beachparty.palm_pressure_plate": {
+    "en": "Palm Pressure Plate",
+    "zh": "棕榈木压力板",
+    "vi": "Palm Pressure Plate"
+  },
+  "block.beachparty.palm_sapling": {
+    "en": "Palm Sapling",
+    "zh": "棕榈树苗",
+    "vi": "Palm Sapling"
+  },
+  "block.beachparty.palm_sign": {
+    "en": "Palm Sign",
+    "zh": "棕榈木告示牌",
+    "vi": "Palm Sign"
+  },
+  "block.beachparty.palm_slab": {
+    "en": "Palm Slab",
+    "zh": "棕榈木台阶",
+    "vi": "Palm Slab"
+  },
+  "block.beachparty.palm_stairs": {
+    "en": "Palm Stairs",
+    "zh": "棕榈木楼梯",
+    "vi": "Palm Stairs"
+  },
+  "block.beachparty.palm_tall_torch": {
+    "en": "Palm Tall Torch",
+    "zh": "棕榈木高火炬",
+    "vi": "Palm Tall Torch"
+  },
+  "block.beachparty.palm_torch": {
+    "en": "Palm Torch",
+    "zh": "棕榈木火炬",
+    "vi": "Palm Torch"
+  },
+  "block.beachparty.palm_torch_item": {
+    "en": "Palm Torch Item",
+    "zh": "棕榈木火炬",
+    "vi": "Palm Torch Item"
+  },
+  "block.beachparty.palm_trapdoor": {
+    "en": "Palm Trapdoor",
+    "zh": "棕榈木活板门",
+    "vi": "Palm Trapdoor"
+  },
+  "block.beachparty.palm_wall_torch": {
+    "en": "Palm Wall Torch",
+    "zh": "棕榈木火炬",
+    "vi": "Palm Wall Torch"
+  },
+  "block.beachparty.palm_wood": {
+    "en": "Palm Wood",
+    "zh": "棕榈木",
+    "vi": "Palm Wood"
+  },
+  "block.beachparty.pumpkin_cocktail": {
+    "en": "Pumpkin Cocktail",
+    "zh": "南瓜鸡尾酒",
+    "vi": "Pumpkin Cocktail"
+  },
+  "block.beachparty.radio": {
+    "en": "Radio",
+    "zh": "收音机",
+    "vi": "Radio"
+  },
+  "block.beachparty.sand_bucket": {
+    "en": "Sand Bucket",
+    "zh": "沙桶",
+    "vi": "Sand Bucket"
+  },
+  "block.beachparty.sand_bucket_block": {
+    "en": "Sand Bucket",
+    "zh": "沙桶",
+    "vi": "Sand Bucket"
+  },
+  "block.beachparty.sand_dirty": {
+    "en": "Sand, Polluted",
+    "zh": "污泥沙子",
+    "vi": "Sand, Polluted"
+  },
+  "block.beachparty.sand_pile": {
+    "en": "Sand Pile",
+    "zh": "沙堆",
+    "vi": "Sand Pile"
+  },
+  "block.beachparty.sand_seastars": {
+    "en": "Sand, Seastars",
+    "zh": "有海星的沙子",
+    "vi": "Sand, Seastars"
+  },
+  "block.beachparty.sand_slab": {
+    "en": "Sand Slab",
+    "zh": "沙子台阶",
+    "vi": "Sand Slab"
+  },
+  "block.beachparty.sandcastle": {
+    "en": "Sandcastle",
+    "zh": "沙堡",
+    "vi": "Sandcastle"
+  },
+  "block.beachparty.sandwaves": {
+    "en": "Sandwaves",
+    "zh": "波纹沙子",
+    "vi": "Sandwaves"
+  },
+  "block.beachparty.stripped_palm_log": {
+    "en": "Stripped Palm Log",
+    "zh": "去皮棕榈原木",
+    "vi": "Stripped Palm Log"
+  },
+  "block.beachparty.stripped_palm_wood": {
+    "en": "Stripped Palm Wood",
+    "zh": "去皮棕榈木",
+    "vi": "Stripped Palm Wood"
+  },
+  "block.beachparty.sweetberries_cocktail": {
+    "en": "Sweetberry Cocktail",
+    "zh": "甜浆果鸡尾酒",
+    "vi": "Sweetberry Cocktail"
+  },
+  "block.beachparty.table": {
+    "en": "Table",
+    "zh": "棕榈桌子",
+    "vi": "Table"
+  },
+  "block.beachparty.tiki_bar": {
+    "en": "Tiki Bar",
+    "zh": "棕榈提基柜台",
+    "vi": "Tiki Bar"
+  },
+  "block.beachparty.tiki_chair": {
+    "en": "Tiki Chair",
+    "zh": "棕榈提基凳子",
+    "vi": "Tiki Chair"
+  },
+  "entity.beachparty.coconut": {
+    "en": null,
+    "zh": "扔出的椰子",
+    "vi": "ném dừa"
+  },
+  "entity.beachparty.pelican": {
+    "en": null,
+    "zh": "鹈鹕",
+    "vi": "bồ nông"
+  },
+  "entity.minecraft.villager.beachparty.barkeeper": {
+    "en": "Barkeeper",
+    "zh": "酒保",
+    "vi": "Barkeeper"
+  },
+  "entity.minecraft.villager.beachparty.beach_boy": {
+    "en": "Beachboy",
+    "zh": "沙滩服务员",
+    "vi": "Beachboy"
+  },
+  "gui.beachparty.recipebook.toggleRecipes.refridgable": {
+    "en": "Refridgable",
+    "zh": "显示可冷冻",
+    "vi": "Hiển thị có thể đóng băng"
+  },
+  "gui.beachparty.recipebook.toggleRecipes.shakeable": {
+    "en": "Shakeable",
+    "zh": "显示可调制",
+    "vi": "Màn hình có thể được điều chế"
+  },
+  "item.beachparty.beach_hat": {
+    "en": "Beach Hat",
+    "zh": "遮阳帽",
+    "vi": "Beach Hat"
+  },
+  "item.beachparty.bikini": {
+    "en": "Bikini",
+    "zh": "比基尼",
+    "vi": "Bikini"
+  },
+  "item.beachparty.chocolate_icecream": {
+    "en": "Chocolate Sundae",
+    "zh": "巧克力圣代",
+    "vi": "Chocolate Sundae"
+  },
+  "item.beachparty.chocolate_milkshake": {
+    "en": "Chocolate Milkshake",
+    "zh": "巧克力奶昔",
+    "vi": "Chocolate Milkshake"
+  },
+  "item.beachparty.coconut_icecream": {
+    "en": "Coconut Sundae",
+    "zh": "椰子圣代",
+    "vi": "Coconut Sundae"
+  },
+  "item.beachparty.coconut_milkshake": {
+    "en": "Coconut Milkshake",
+    "zh": "椰子奶昔",
+    "vi": "Coconut Milkshake"
+  },
+  "item.beachparty.coconut_open": {
+    "en": "Open Coconut",
+    "zh": "打开的椰子",
+    "vi": "Open Coconut"
+  },
+  "item.beachparty.cooked_mussel_meat": {
+    "en": "Cooked Mussel Meat",
+    "zh": "熟贻贝肉",
+    "vi": "Cooked Mussel Meat"
+  },
+  "item.beachparty.cooked_pelican": {
+    "en": null,
+    "zh": "熟鹈鹕肉",
+    "vi": "Thịt bồ nông nấu chín"
+  },
+  "item.beachparty.crocs": {
+    "en": "Crocs",
+    "zh": "洞洞鞋",
+    "vi": "Crocs"
+  },
+  "item.beachparty.icecream_cactus": {
+    "en": "Cactus Popsicle",
+    "zh": "仙人掌冰棍",
+    "vi": "Cactus Popsicle"
+  },
+  "item.beachparty.icecream_chocolate": {
+    "en": "Chocolate Icecream",
+    "zh": "巧克力雪糕",
+    "vi": "Chocolate Icecream"
+  },
+  "item.beachparty.icecream_coconut": {
+    "en": "Coconut Popsicle",
+    "zh": "椰子冰棍",
+    "vi": "Coconut Popsicle"
+  },
+  "item.beachparty.icecream_melon": {
+    "en": "Melon Popsicle",
+    "zh": "西瓜冰棍",
+    "vi": "Melon Popsicle"
+  },
+  "item.beachparty.icecream_sweetberries": {
+    "en": "Sweetberry Icecream",
+    "zh": "甜浆果雪糕",
+    "vi": "Sweetberry Icecream"
+  },
+  "item.beachparty.overgrown_disc": {
+    "en": "Overgrown Disc",
+    "zh": "§2音乐唱片",
+    "vi": "Overgrown Disc"
+  },
+  "item.beachparty.overgrown_disc.desc": {
+    "en": "MissLilitu - Over the Rainbow",
+    "zh": "MissLilitu - Over the Rainbow",
+    "vi": "MissLilitu - Over the Rainbow"
+  },
+  "item.beachparty.palm_boat": {
+    "en": "Palm Boat",
+    "zh": "棕榈木船",
+    "vi": "Palm Boat"
+  },
+  "item.beachparty.palm_chest_boat": {
+    "en": "Palm Boat with Chest",
+    "zh": "棕榈木运输船",
+    "vi": "Palm Boat with Chest"
+  },
+  "item.beachparty.pelican_spawn_egg": {
+    "en": null,
+    "zh": "鹈鹕刷怪蛋",
+    "vi": "Trứng sinh sản của Pelican"
+  },
+  "item.beachparty.pool_noodle": {
+    "en": "Pool Noodle",
+    "zh": "泡沫浮条",
+    "vi": "Pool Noodle"
+  },
+  "item.beachparty.raw_mussel_meat": {
+    "en": "Raw Mussel Meat",
+    "zh": "生贻贝肉",
+    "vi": "Raw Mussel Meat"
+  },
+  "item.beachparty.raw_pelican": {
+    "en": null,
+    "zh": "生鹈鹕肉",
+    "vi": "Thịt bồ nông sống"
+  },
+  "item.beachparty.rubber_ring_axolotl": {
+    "en": "Axolotl Rubber Ring",
+    "zh": "美西螈游泳圈",
+    "vi": "Axolotl Rubber Ring"
+  },
+  "item.beachparty.rubber_ring_blue": {
+    "en": "Blue Rubber Ring",
+    "zh": "蓝色游泳圈",
+    "vi": "Blue Rubber Ring"
+  },
+  "item.beachparty.rubber_ring_pelican": {
+    "en": "Pelican Rubber Ring",
+    "zh": "鹈鹕游泳圈",
+    "vi": "Pelican Rubber Ring"
+  },
+  "item.beachparty.rubber_ring_pink": {
+    "en": "Pink Rubber Ring",
+    "zh": "粉红色游泳圈",
+    "vi": "Pink Rubber Ring"
+  },
+  "item.beachparty.rubber_ring_stripped": {
+    "en": "Stripped Rubber Ring",
+    "zh": "条纹游泳圈",
+    "vi": "Stripped Rubber Ring"
+  },
+  "item.beachparty.seashell": {
+    "en": "Seashell",
+    "zh": "贝壳",
+    "vi": "Seashell"
+  },
+  "item.beachparty.sunglasses": {
+    "en": "Sunglasses",
+    "zh": "太阳镜",
+    "vi": "Sunglasses"
+  },
+  "item.beachparty.sweetberry_icecream": {
+    "en": "Sweetberry Sundae",
+    "zh": "甜浆果圣代",
+    "vi": "Sweetberry Sundae"
+  },
+  "item.beachparty.sweetberry_milkshake": {
+    "en": "Sweetberry Milkshake",
+    "zh": "甜浆果奶昔",
+    "vi": "Sweetberry Milkshake"
+  },
+  "item.beachparty.swim_wings": {
+    "en": "Swim Wings",
+    "zh": "充气臂环",
+    "vi": "Swim Wings"
+  },
+  "item.beachparty.trunks": {
+    "en": "Swimming Trunks",
+    "zh": "泳裤",
+    "vi": "Swimming Trunks"
+  },
+  "itemGroup.beachparty.creative_tab": {
+    "en": null,
+    "zh": "沙滩派对",
+    "vi": "bữa tiệc bãi biển"
+  },
+  "rei.beachparty.mini_fridge_category": {
+    "en": "Mini Fridge",
+    "zh": "迷你冰箱",
+    "vi": "tủ lạnh mini"
+  },
+  "rei.beachparty.tiki_bar_category": {
+    "en": "Tiki Bar",
+    "zh": "棕榈提基柜台",
+    "vi": "Quầy Palm Tiki"
+  },
+  "tooltip.beachparty.bucket.canbeplaced": {
+    "en": "Shift-Right-Click to Place",
+    "zh": "潜行右击以放置",
+    "vi": "Lén chuột phải để đặt"
+  },
+  "tooltip.beachparty.bucket.use": {
+    "en": "Used to build Sand Castles",
+    "zh": "右击建造沙堡",
+    "vi": "Nhấp chuột phải để xây dựng lâu đài cát"
+  },
+  "tooltip.beachparty.cactusicecream": {
+    "en": "This cactus ice cream gives you a taste of luck, but don't get too excited - it might leave you feeling a little prickly",
+    "zh": "这款仙人掌冰棍能让你尝到好运的味道，但不要太高兴——它可能会让你感到有点刺痛",
+    "vi": "Món kem xương rồng này sẽ mang đến cho bạn cảm giác may mắn, nhưng đừng quá phấn khích - nó có thể khiến bạn hơi ngứa ngáy"
+  },
+  "tooltip.beachparty.canbeplaced": {
+    "en": "Can be Placed",
+    "zh": "可放置",
+    "vi": "Có thể được đặt"
+  },
+  "tooltip.beachparty.coconut": {
+    "en": "Throw against a solid block to open",
+    "zh": "投掷到硬物上砸开",
+    "vi": "Ném nó vào một vật cứng và mở nó ra"
+  },
+  "tooltip.beachparty.dyeable": {
+    "en": "Dyeable",
+    "zh": "可染色",
+    "vi": "Có thể nhuộm"
+  },
+  "tooltip.beachparty.fridge": {
+    "en": "Used for crafting Icecream and Popsticles",
+    "zh": "用于制作雪糕和冰棍",
+    "vi": "Dùng để làm kem và kem que"
+  },
+  "tooltip.beachparty.icecream": {
+    "en": "NeverMelt. Always cold and refreshing. No expense was spared",
+    "zh": "永不融化，总是冰凉清爽，一分钱一分货",
+    "vi": "Không bao giờ tan chảy, luôn mát mẻ và sảng khoái, bạn sẽ nhận được xứng đáng với số tiền bỏ ra"
+  },
+  "tooltip.beachparty.message": {
+    "en": "Right-Click to Open",
+    "zh": "右击打开",
+    "vi": "Nhấp chuột phải để mở"
+  },
+  "tooltip.beachparty.radioswitch": {
+    "en": "Mousewheel-Up/Down to switch Radio Stations",
+    "zh": "滚轮切换电台频道",
+    "vi": "Bánh xe cuộn để chuyển kênh radio"
+  },
+  "tooltip.beachparty.radioturnon": {
+    "en": "Right-Click to turn it on/off",
+    "zh": "右击开启或关闭",
+    "vi": "Nhấp chuột phải để bật hoặc tắt"
+  },
+  "tooltip.beachparty.swimwear_effect": {
+    "en": "Dolphins Grace & Water Breathing",
+    "zh": "海豚的恩惠&水下呼吸",
+    "vi": "Tiền thưởng của cá heo và hơi thở dưới nước"
+  },
+  "tooltip.beachparty.swimwear_set": {
+    "en": "Beachparty-Set:",
+    "zh": "热情沙滩：",
+    "vi": "Bãi biển đam mê:"
+  },
+  "tooltip.beachparty.swimwear_seteffect": {
+    "en": "Set Bonus:",
+    "zh": "套装增益：",
+    "vi": "Đặt buff:"
+  },
+  "tooltip.beachparty.swimwearboots": {
+    "en": "Swimwear Boots",
+    "zh": "-[鞋子]",
+    "vi": "-[giày]"
+  },
+  "tooltip.beachparty.swimwearbreastplate": {
+    "en": "Swimwear Breastplate",
+    "zh": "-[上衣]",
+    "vi": "-[Áo khoác]"
+  },
+  "tooltip.beachparty.swimwearhelmet": {
+    "en": "Swimwear Helmet",
+    "zh": "-[头部]",
+    "vi": "-[cái đầu]"
+  },
+  "tooltip.beachparty.swimwearleggings": {
+    "en": "Swimwear Leggings",
+    "zh": "-[裤子]",
+    "vi": "-[Quần dài]"
+  },
+  "tooltip.beachparty.swimwearline1": {
+    "en": "When Wearing:",
+    "zh": "穿上后：",
+    "vi": "Sau khi mặc nó vào:"
+  },
+  "tooltip.beachparty.swimwearline2": {
+    "en": "+17% Swim Speed",
+    "zh": "+17% 游泳速度",
+    "vi": "+17% tốc độ bơi"
+  },
+  "tooltip.beachparty.tiki": {
+    "en": "Used for mixing Cocktails and Drinks",
+    "zh": "用于调制鸡尾酒和饮料",
+    "vi": "Đối với cocktail và đồ uống"
+  },
+  "entity.minecraft.villager.beachparty.beach_guy": {
+    "en": "Beachboy",
+    "zh": "沙滩男孩",
+    "vi": "Beachboy"
+  },
+  "block.beachparty.palm_hanging_sign": {
+    "en": "Palm Hanging Sign",
+    "zh": "棕榈木悬挂告示牌",
+    "vi": "Palm Hanging Sign"
+  },
+  "item.beachparty.refreshing_drink": {
+    "en": "Refreshing Drink",
+    "zh": "清爽饮料",
+    "vi": "Refreshing Drink"
+  },
+  "item.beachparty.floaty": {
+    "en": "Floaty Boat",
+    "zh": "气垫船",
+    "vi": "Floaty Boat"
+  },
+  "item.beachparty.floaty_chest_boat": {
+    "en": "Floaty Chest Boat",
+    "zh": "箱子气垫船",
+    "vi": "Floaty Chest Boat"
+  },
+  "block.beachparty.beach_parasol": {
+    "en": "Beach Parasol",
+    "zh": "沙滩伞",
+    "vi": "Beach Parasol"
+  },
+  "block.beachparty.hanging_sign": {
+    "en": "Palm Hanging Sign",
+    "zh": null,
+    "vi": null
+  },
+  "creativetab.beachparty.tab": {
+    "en": "Beachparty",
+    "zh": null,
+    "vi": null
+  },
+  "subtitles.beachparty.sound.ambient_beach": {
+    "en": "Waves",
+    "zh": null,
+    "vi": null
+  },
+  "subtitles.beachparty.sound.cabinet_close": {
+    "en": "Closeing Cabinet",
+    "zh": null,
+    "vi": null
+  },
+  "subtitles.beachparty.sound.cabinet_open": {
+    "en": "Opening Cabinet",
+    "zh": null,
+    "vi": null
+  },
+  "subtitles.beachparty.sound.radio_beachparty": {
+    "en": "Over the Rainbow",
+    "zh": null,
+    "vi": null
+  },
+  "subtitles.beachparty.sound.radio_click": {
+    "en": "Click",
+    "zh": null,
+    "vi": null
+  },
+  "subtitles.beachparty.sound.radio_hawaii": {
+    "en": "Hawaiian Music",
+    "zh": null,
+    "vi": null
+  },
+  "subtitles.beachparty.sound.radio_reggea": {
+    "en": "Reggae Music",
+    "zh": null,
+    "vi": null
+  },
+  "subtitles.beachparty.sound.radio_tropical": {
+    "en": "Tropical Music",
+    "zh": null,
+    "vi": null
+  },
+  "subtitles.beachparty.sound.radio_tune": {
+    "en": "Weird Radio Noise",
+    "zh": null,
+    "vi": null
+  }
+}

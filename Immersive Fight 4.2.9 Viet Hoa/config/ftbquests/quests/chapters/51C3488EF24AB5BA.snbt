@@ -1,0 +1,749 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "51C3488EF24AB5BA"
+	group: "645C652F9B0DFA16"
+	icon: "mcde:runic_table"
+	id: "51C3488EF24AB5BA"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			description: ["Đã thêm nhiều hộp hơn để sử dụng ở giai đoạn đầu và lưu trữ tại nhà"]
+			disable_toast: true
+			entity_vis_size: 1.0f
+			id: "116DA68E12C85076"
+			rewards: [{
+				id: "344B28C0C83447FD"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			tasks: [{
+				id: "3FE10CC44E5BAD80"
+				item: "ironchests:diamond_chest"
+				type: "item"
+			}]
+			x: -4.5d
+			y: 0.0d
+		}
+		{
+			description: [
+				"(Tổng hợp đã được đơn giản hóa)"
+				"Không tốn chi phí truyền tải"
+				""
+				"Đá Dịch chuyển tạo ra một điểm dịch chuyển"
+				"Bạn có thể sử dụng &r trong giao diện ba lô &e"
+				"Nhấp trực tiếp vào nút &a &r ở góc dưới bên phải của nhân vật"
+				"Mở giao diện chuyển và sử dụng trực tiếp"
+				""
+				"Mẹo: Sử dụng dây buộc để dịch chuyển tức thời cùng sinh vật"
+			]
+			entity_vis_size: 1.0f
+			id: "21352BDF840CA844"
+			rewards: [{
+				id: "74DFFA6FAE228601"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			tasks: [{
+				id: "35DFD9C9C54340C1"
+				item: "waystones:waystone"
+				type: "item"
+			}]
+			x: -2.0d
+			y: 2.5d
+		}
+		{
+			description: ["Có thể được tổng hợp"]
+			entity_vis_size: 1.0f
+			id: "7DD0838338C6347F"
+			rewards: [{
+				id: "2934099CB952C5D0"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			tasks: [{
+				id: "5275AB9F8C3A6DAA"
+				item: "minecraft:netherite_scrap"
+				type: "item"
+			}]
+			x: -2.0d
+			y: 0.0d
+		}
+		{
+			description: [
+				"&o&7 (Nên tiêu diệt rồng ender ở giai đoạn đầu và giữa)&r&r"
+				"Chuyến bay &e elytra &r được cải thiện"
+				"Nhấp đúp vào khoảng trống để cất cánh trực tiếp với chức năng đẩy"
+				""
+				"Sau khi cất cánh"
+				"Nhấn &b [Space] &r để tiến lên (tiêu thụ thanh elytra ở cuối màn hình)"
+				"Nhấn &b[shift]&r để giảm tốc độ và độ suy giảm của thanh elytra sẽ chậm lại."
+				""
+				"Bạn có thể học các kỹ năng bay kiếm &e &r hoặc phụ kiện &b tên lửa đẩy elytra &e &r,"
+				"Những thứ này có thể hỗ trợ chuyến bay của elytra, giúp việc bay trở nên thuận tiện hơn"
+				""
+				"Giết rồng ender để lấy elytra"
+			]
+			disable_toast: true
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "minecraft:elytra"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "6EEDDC22E4A278BC"
+			rewards: [{
+				id: "04630692B74C84E9"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "minecraft:elytra"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			tasks: [{
+				entity: "minecraft:ender_dragon"
+				entity_use_tag: false
+				entity_vis_idle_mode: "USE_GLOBAL"
+				entity_vis_offset_x: 0.0f
+				entity_vis_offset_y: 0.0f
+				entity_vis_rotation: 0.0f
+				entity_vis_silhouette_mode: "NONE"
+				entity_vis_size: 1.0f
+				entity_vis_spin_mode: "USE_GLOBAL"
+				entity_vis_use_as_quest_icon: false
+				entity_vis_walk_mode: "USE_GLOBAL"
+				icon: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "minecraft:dragon_head"
+					tag: { }
+				}
+				id: "6965CAF21DBB6AEF"
+				type: "kill"
+				value: 1L
+			}]
+			title: "elytra"
+			x: -1.0d
+			y: 2.5d
+		}
+		{
+			description: [
+				"Được sử dụng trong nhiệm vụ NPC,"
+				"Tìm kiếm con trỏ phiêu lưu &a [Nhiệm vụ NPC] &r"
+				"&c từ bỏ nhiệm vụ &r và không thể làm mới nhiệm vụ"
+				"Sử dụng lọ thuốc quên &a để chủ động làm mới nhiệm vụ hiện tại của NPC."
+				""
+				""
+				"Các mẹo nội dung NPC khác:"
+				"1. Ba nhiệm vụ đầu tiên do cùng một NPC giao cho người chơi luôn là những nhiệm vụ thông thường."
+				"2. Hoàn thành 3 nhiệm vụ, nhận kim cương, thăm thế giới âm ty và thăm tận cùng"
+				"Nó có thể tăng khả năng xuất hiện các nhiệm vụ hiếm."
+				"3. Bạn có thể sử dụng dây buộc để vận chuyển NPC một cách dễ dàng bằng tấm đá dịch chuyển tức thời."
+			]
+			entity_vis_size: 1.0f
+			id: "0AF472898A82C800"
+			rewards: [{
+				id: "6E218D7289FBC4E0"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			tasks: [{
+				id: "5894F6DE02A52108"
+				item: "realmrpg_quests:potion_of_oblivion"
+				type: "item"
+			}]
+			x: -1.0d
+			y: 0.0d
+		}
+		{
+			description: [
+				"&a [Hệ thống mê hoặc] Bảng mê hoặc ban đầu &r bị vô hiệu hóa"
+				""
+				"&b==Bàn mê hoặc==&r"
+				"Vũ khí có &e và tối đa ba ô bùa mê &r, với tối đa 3 tùy chọn cho mỗi ô"
+				"{image:ftbteams:textures/aabbcc112.png width:100 height:60 align:1}"
+				"Chọn một cho bùa mê cấp độ &eI&r"
+				""
+				"(Để biết về các khe cắm và cơ chế làm mới, hãy xem trạm làm mới bùa mê &e &r)"
+				""
+				"Bùa mê đã chọn có thể tiếp tục được nhấp vào"
+				"Tiêu thụ cấp độ kinh nghiệm &e để tăng cấp độ mê hoặc &r"
+				"&c [Đã mở khóa sau khi vào &b giới hạn dưới &c (bảo vệ &b, quét &c và các bùa mê khác)] &r"
+				"&c [Mở khóa sau khi vào &b đầu &c (&b độ sắc nét, sức mạnh &c và các bùa mê khác)] &r"
+			]
+			entity_vis_size: 1.0f
+			id: "0F4EA837927CCA8B"
+			rewards: [{
+				id: "003C5A57A94106DC"
+				type: "xp_levels"
+				xp_levels: 10
+			}]
+			tasks: [{
+				id: "723128A849F5E380"
+				item: "mcde:runic_table"
+				type: "item"
+			}]
+			x: -4.5d
+			y: 2.5d
+		}
+		{
+			description: [
+				"&b==Bảng làm mới đầy mê hoặc==&r"
+				""
+				"Đặt &b[Lapis Lazuli]&r và nhấp vào bùa chú không mong muốn vào ô"
+				"Thực hiện phép thuật vùng chọn đơn &a để làm mới &r"
+				"&e không thể tạo ra bùa mê &r xung đột với bùa mê hiện có ở các vị trí khác"
+				"Ví dụ: Có một sát thủ xác sống ở ô 1, nhưng sẽ không có sát thủ động vật chân đốt ở ô 2 và 3."
+				"Bùa xung đột cần phải được làm mới trước khi các vị trí khác có thể được làm mới."
+				"{image:ftbteams:textures/abcccd3.png width:120 height:60 align:1}"
+				"Đặt &b [Đoạn tiếng vang] &r và nhấp vào nút làm mới lớn &e ở bên phải"
+				"Thực hiện cả ba vị trí &a sẽ làm mới &r. Đồng thời, bùa mê trang bị sẽ bị xóa bởi &c và &r!"
+				"Việc làm mới &e không mở khóa các vị trí mà làm mới tất cả các vị trí. &r"
+				"Khóa khe &c"
+				"Cách sử dụng chính xác là làm mới 3 vị trí trước, sau đó từ từ làm mới từng vị trí."
+				"Giữ bùa xung đột trong cùng một vị trí"
+			]
+			entity_vis_size: 1.0f
+			id: "4392DE7A8A22DF9B"
+			rewards: [
+				{
+					id: "520699A4F5CEC2C3"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+				{
+					count: 64
+					id: "127108F43ABB3F0D"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:lapis_lazuli"
+					}
+					type: "item"
+				}
+				{
+					count: 16
+					id: "123EEFA85FCAFCCF"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:echo_shard"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "52452F74F3B99F95"
+				item: "mcde:roll_bench"
+				type: "item"
+			}]
+			x: -3.5d
+			y: 2.5d
+		}
+		{
+			description: [
+				"&a[Hệ thống mê hoặc] &r"
+				""
+				"&b==Bàn mạ vàng==&r"
+				"Tiêu thụ thỏi vàng &6 &r (đủ số lượng) để mạ vàng"
+				"Nhận bùa mê &r ngẫu nhiên ở cấp độ &eI (&c không thể nâng cấp và loại bỏ &r)"
+				"Có thể tiêu thụ ngọc lục bảo &a &r để mạ lại"
+				"Không phụ thuộc vào ba ô, nó tương đương với bùa thứ tư"
+				""
+				"Gilded&e không bị ảnh hưởng bởi xung đột bùa mê&r"
+				"Nếu nó được mạ vàng trước rồi mới được phù phép, ô &c sẽ bị ảnh hưởng bởi xung đột bùa mê &r"
+			]
+			entity_vis_size: 1.0f
+			id: "5A1F646649DF8811"
+			rewards: [{
+				id: "07885719B5FB4850"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [{
+				id: "7DA8DF089C1498A6"
+				item: "mcde:gilding_foundry"
+				type: "item"
+			}]
+			x: -4.5d
+			y: 3.5d
+		}
+		{
+			description: [
+				"&a(có thể tổng hợp được) &r"
+				"Tăng cấp độ kinh nghiệm của di tích và phụ kiện"
+				""
+				"Hướng dẫn cách sử dụng trang sức xá lợi:"
+				"1. Nghiên cứu vật trang trí &b [nhấn giữ shift] &r và vào giao diện nâng cấp kỹ năng &e &r"
+				"Bạn có thể xem hiệu ứng kỹ năng và nâng cao cấp độ kỹ năng."
+				""
+				"2. Sử dụng kỹ năng chủ động"
+				"Nhấn và giữ &b[Phím X] &r để gọi giao diện kỹ năng."
+				"Bánh xe chuột chọn kỹ năng. Nhấp chuột trái để phát hành."
+			]
+			entity_vis_size: 1.0f
+			id: "0B76D220EF832338"
+			tasks: [{
+				id: "46F48988FB226497"
+				item: "relics:relic_experience_bottle"
+				type: "item"
+			}]
+			x: -2.0d
+			y: 1.0d
+		}
+		{
+			description: [
+				"Dùng để chế tạo vũ khí thần"
+				"Yêu cầu nhiên liệu sao (Lõi thiên thể, Mảnh thạch anh tím)"
+				""
+				"Tên của vũ khí thiên thể &6 ràng buộc khóa &r là:"
+				""
+				"Chìa khóa không thể phá hủy"
+				"KEY3 và KEY4 kiểm soát việc phát hành hai kỹ năng"
+				"Mặc định là nút bên chuột &b &r (có thể thay đổi liên kết)"
+				""
+				"KEY1 và KEY2 là các đòn tấn công và chặn thông thường"
+				"Không sửa đổi nút chuột trái và chuột phải mặc định."
+			]
+			entity_vis_size: 1.0f
+			id: "523330C65FE19718"
+			rewards: [{
+				id: "51D2C657AB7EBEC0"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			tasks: [{
+				id: "16A6213F72E91872"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "celestisynth:starlit_factory"
+				}
+				type: "item"
+			}]
+			x: -1.0d
+			y: 1.0d
+		}
+		{
+			description: [
+				"Công cụ tốt hơn cho chuyến bay Coleopteran,"
+				"Tốc độ sạc của thanh đẩy elytra &e tăng gấp đôi &r"
+				""
+				"&7[Việc thu thập vật liệu tổng hợp có thể được xem trong nhiệm vụ: Chòm sao tan vỡ: Sự kết thúc]&r"
+				"&7[cũng có thể nhận được bằng cách đánh bại Thiên thần hộ mệnh của BOSS Eye]&r"
+			]
+			entity_vis_size: 1.0f
+			id: "6ED6BC5297CFC3E7"
+			tasks: [{
+				id: "487CC3B653F42D40"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "clockwork:clockwork_wings"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -2.0d
+			y: 3.5d
+		}
+		{
+			description: [
+				"Phụ kiện đạo cụ bay (chỉ có thể sử dụng với elytra)"
+				"&e[Trang sức di tích] &r"
+				"Trao đổi trang trao đổi trang sức"
+				""
+				"Bị động: Tăng tốc độ khả năng đẩy của elytra"
+				""
+				"Kỹ năng hoạt động &b: Tăng tốc &r"
+				"(&7 yêu cầu tiêu thụ than)&r"
+				"Theo mặc định, nhấn và giữ &b [phím X] &r để bật lên giao diện kỹ năng di tích."
+				"Nhấp chuột trái để sử dụng kỹ năng"
+			]
+			entity_vis_size: 1.0f
+			id: "27CEF76DE2A1ED2E"
+			tasks: [{
+				id: "051E62F407001D10"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "relics:elytra_booster"
+					tag: {
+						abilities: {
+							boost: {
+								points: 0
+								stats: {
+									capacity: 76.82557d
+									speed: 1.20178d
+								}
+							}
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: -1.0d
+			y: 3.5d
+		}
+		{
+			description: [
+				"&a (tương đương với một chiếc ba lô có sức chứa không giới hạn)&r&r&r"
+				"Trình tạo mạng kích thước &b &r: Nhấp chuột phải để tạo mạng &7&o"
+				"Không cần nội dung nào khác, bạn có thể dùng phím tắt [B] để mở trực tiếp"
+				"&7&o (xung đột với các phím tắt của ba lô, ba lô có thể bị loại bỏ)&r&r"
+				"&7&o (Các đạo cụ khác trong Mod này của gói tích hợp tạm thời bị vô hiệu hóa và không có công thức tổng hợp)&r&r"
+				"Đầu nối thành viên &e"
+				"Biểu tượng quà tặng mạng &e"
+				"Biểu tượng phá hủy mạng &e"
+			]
+			entity_vis_size: 1.0f
+			id: "3D62FB7E4F54C380"
+			rewards: [
+				{
+					count: 16
+					id: "24FA0F0F80F59A14"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "beyonddimensions:net_member_inviter"
+					}
+					type: "item"
+				}
+				{
+					count: 16
+					id: "0C13E8301D6A25FE"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "beyonddimensions:net_manager_inviter"
+					}
+					type: "item"
+				}
+				{
+					id: "060929291A6F5E5E"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "beyonddimensions:net_gifter"
+					}
+					type: "item"
+				}
+				{
+					id: "5F2FC61315C82848"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "beyonddimensions:net_destroyer"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "6BF02BCEB41140D5"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "beyonddimensions:net_creater"
+				}
+				type: "item"
+			}]
+			x: -3.5d
+			y: 0.0d
+		}
+		{
+			description: [
+				"Có thể dùng để lưu trữ điểm kinh nghiệm ban đầu"
+				""
+				"Trong khi giữ tay, nhấp chuột phải để mở giao diện cài đặt và đặt giá trị mức tiền gửi duy nhất."
+				"Khi vào giao diện kho bạn chuột phải để lưu kinh nghiệm, nhấn chuột giữa để lấy về."
+			]
+			entity_vis_size: 1.0f
+			id: "6E1E1ADCC7C6648E"
+			tasks: [{
+				id: "2E3F3C28934E5EDA"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "beyonddimensions:xp_exchange_item"
+					tag: {
+						xp_net_keep_mode: 0b
+						xp_target_level: 1
+						xp_transfer_speed_mode: "SLOW"
+					}
+				}
+				type: "item"
+			}]
+			x: -4.5d
+			y: 1.0d
+		}
+		{
+			description: [
+				"Sau khi đặt mặt đất, nhấp chuột phải để mở giao diện điều khiển mạng kích thước của người chơi hiện tại."
+				""
+				"Được sử dụng để quản lý cấp độ quyền của thành viên và xóa thành viên."
+			]
+			entity_vis_size: 1.0f
+			id: "3A6748562973C4C4"
+			tasks: [{
+				id: "1FDBD88BF74DC380"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "beyonddimensions:net_control"
+				}
+				type: "item"
+			}]
+			x: -3.5d
+			y: 1.0d
+		}
+		{
+			entity_vis_size: 1.0f
+			id: "5DC2B6D8BB97E565"
+			tasks: [{
+				id: "0F17655F6C2CBDD3"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "fight_more:modifier_reroll"
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["5C9D10D4C2062FA8"]
+			description: [
+				"&e nhấp đúp nhanh vào &r&b [phím cách] &r để bắt đầu bay bằng kiếm,"
+				"Trong thời gian này, sức chịu đựng bị tiêu hao. Nhấn và giữ &b [Ctrl] &r để tăng tốc chuyến bay."
+				"Khi sức chịu đựng của &c cạn kiệt, &r sẽ gục ngã!"
+				"Hãy nhớ tiết kiệm sức chịu đựng của bạn hoặc chuẩn bị elytra và các phương tiện hạ cánh khác."
+				""
+				"Mitsurugi bây giờ bay nhanh hơn và tiêu tốn ít sức chịu đựng hơn."
+			]
+			entity_vis_size: 1.0f
+			id: "30A41DC890114D30"
+			tasks: [{
+				disable_toast: true
+				id: "03A036950073DF2E"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "epicfight:skillbook"
+					tag: {
+						skill: "sword_soaring:sword_soaring_expert"
+					}
+				}
+				match_nbt: true
+				type: "item"
+			}]
+			title: "Kiếm bay cao cấp"
+			x: 0.0d
+			y: 2.5d
+		}
+		{
+			dependencies: [
+				"30A41DC890114D30"
+				"6EEDDC22E4A278BC"
+			]
+			description: [
+				"Sách kỹ năng: Kiếm bay: Elytra"
+				""
+				"Sau khi mặc elytra"
+				"Nhấp đúp vào &b [dấu cách]&r để cất cánh bình thường với elytra."
+				"Hoạt động giống như chuyến bay elytra thông thường"
+				"Nếu &e nhấp đúp nhanh vào &r&b [dấu cách] &r elytra và thanh kiếm cất cánh cùng lúc,"
+				"Trong khi elytra đang bay, hãy nhấp đúp nhanh vào &e trên &r&r&b [dấu cách] &r để bắt đầu cầm kiếm."
+				""
+				"Thanh kiếm sẽ hỗ trợ chuyến bay elytra của bạn,"
+				"Thanh tăng tốc elytra của bạn sẽ sạc nhanh gấp đôi."
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "epicfight:skillbook"
+				tag: {
+					skill: "sword_soaring:sword_soaring_expert"
+				}
+			}
+			id: "118EFA6DC908A301"
+			rewards: [{
+				id: "3627DBCAB8D0E0AA"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "epicfight:skillbook"
+					tag: {
+						skill: "sword_soaring:sword_soaring_elytra_expert"
+					}
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "4E1B8E6594489A2D"
+				type: "checkmark"
+			}]
+			title: "Elytra + Kiếm bay"
+			x: 0.0d
+			y: 3.5d
+		}
+		{
+			description: [
+				"Kiếm phi nên hoàn thành trong thời gian sớm đến giữa kỳ."
+				"Dễ dàng di chuyển và vẽ đồ thị."
+				""
+				"Đổi thưởng trong &6[Trao đổi sách kỹ năng]Nhiệm vụ &r"
+				""
+				"&e nhấp đúp nhanh vào &r&b [phím cách] &r để bắt đầu bay bằng kiếm,"
+				"Trong thời gian này, sức chịu đựng bị tiêu hao. Nhấn và giữ &b [Ctrl] &r để tăng tốc chuyến bay."
+				"Khi sức chịu đựng của &c cạn kiệt, &r sẽ gục ngã."
+				"Hãy nhớ tiết kiệm sức chịu đựng của bạn hoặc chuẩn bị elytra và các phương tiện hạ cánh khác."
+			]
+			entity_vis_size: 1.0f
+			id: "5C9D10D4C2062FA8"
+			tasks: [{
+				disable_toast: true
+				id: "40752262459AD0C8"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "epicfight:skillbook"
+					tag: {
+						skill: "sword_soaring:sword_soaring_apprentice"
+					}
+				}
+				match_nbt: true
+				type: "item"
+			}]
+			title: "Kiếm bay"
+			x: 1.0d
+			y: 2.5d
+		}
+		{
+			description: [
+				"Sử dụng với La bàn khám phá &e &r"
+				"&o&7 (thích hợp cho những người chơi không kích hoạt dịch chuyển gian lận)&r&r"
+				""
+				"Tay trái cầm la bàn của nhà thám hiểm đã tìm thấy mục tiêu."
+				"Giữ gương ma thuật trong tay chính của bạn và nhấp chuột phải để đặt mục tiêu. Nhấn và giữ chuột phải để dịch chuyển."
+				"(Có giới hạn khoảng cách, tăng theo cấp độ)"
+			]
+			entity_vis_size: 1.0f
+			id: "6C72CC46BC091F7B"
+			tasks: [{
+				disable_toast: true
+				id: "6F445135FEB97499"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "relics:magic_mirror"
+					tag: {
+						abilities: {
+							teleport: {
+								points: 0
+								stats: {
+									cooldown: 166.20123d
+									distance: 2380.69716d
+								}
+							}
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: 1.0d
+			y: 3.5d
+		}
+	]
+	title: "Vật dụng thiết thực"
+}

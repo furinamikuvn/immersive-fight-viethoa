@@ -1,0 +1,947 @@
+{
+  "key.keybindatlas.open_keyboard": {
+    "en": "Open Keybind Atlas",
+    "zh": "打开键盘图册",
+    "vi": "Mở album bàn phím"
+  },
+  "keybindatlas.ui.screen.title": {
+    "en": "Keyboard",
+    "zh": "键盘",
+    "vi": "bàn phím"
+  },
+  "keybindatlas.ui.common.on": {
+    "en": "ON",
+    "zh": "开",
+    "vi": "mở"
+  },
+  "keybindatlas.ui.common.off": {
+    "en": "OFF",
+    "zh": "关",
+    "vi": "đóng"
+  },
+  "keybindatlas.ui.button.apply": {
+    "en": "Apply",
+    "zh": "应用",
+    "vi": "ứng dụng"
+  },
+  "keybindatlas.ui.button.cancel": {
+    "en": "Cancel",
+    "zh": "取消",
+    "vi": "Hủy bỏ"
+  },
+  "keybindatlas.ui.button.confirm": {
+    "en": "Confirm",
+    "zh": "确认",
+    "vi": "xác nhận"
+  },
+  "keybindatlas.ui.button.create": {
+    "en": "Create",
+    "zh": "创建",
+    "vi": "tạo nên"
+  },
+  "keybindatlas.ui.button.dir_short": {
+    "en": "FOLDER",
+    "zh": "目录",
+    "vi": "Mục lục"
+  },
+  "keybindatlas.ui.button.discard": {
+    "en": "Discard",
+    "zh": "放弃",
+    "vi": "bỏ cuộc"
+  },
+  "keybindatlas.ui.button.log_short": {
+    "en": "LOGS",
+    "zh": "LOG",
+    "vi": "LOG"
+  },
+  "keybindatlas.ui.button.no": {
+    "en": "No",
+    "zh": "否",
+    "vi": "KHÔNG"
+  },
+  "keybindatlas.ui.button.remove": {
+    "en": "Remove",
+    "zh": "移除",
+    "vi": "Di dời"
+  },
+  "keybindatlas.ui.button.reset": {
+    "en": "Reset",
+    "zh": "重置",
+    "vi": "cài lại"
+  },
+  "keybindatlas.ui.button.reset_short": {
+    "en": "RESET",
+    "zh": "默认",
+    "vi": "mặc định"
+  },
+  "keybindatlas.ui.button.select_all": {
+    "en": "Select all",
+    "zh": "全选",
+    "vi": "Chọn tất cả"
+  },
+  "keybindatlas.ui.button.undo": {
+    "en": "Undo",
+    "zh": "撤销",
+    "vi": "Hủy bỏ"
+  },
+  "keybindatlas.ui.button.unselect_all": {
+    "en": "Unselect all",
+    "zh": "取消全选",
+    "vi": "Bỏ chọn tất cả"
+  },
+  "keybindatlas.ui.button.update": {
+    "en": "Update",
+    "zh": "更新",
+    "vi": "gia hạn"
+  },
+  "keybindatlas.ui.button.yes": {
+    "en": "Yes",
+    "zh": "是",
+    "vi": "Đúng"
+  },
+  "keybindatlas.ui.confirm.apply_all_changes": {
+    "en": "Apply all changes?",
+    "zh": "应用所有更改？",
+    "vi": "Áp dụng tất cả thay đổi?"
+  },
+  "keybindatlas.ui.confirm.delete_category": {
+    "en": "Delete category \"%s\"?",
+    "zh": "删除类别“%s”？",
+    "vi": "Xóa danh mục \"%s\"?"
+  },
+  "keybindatlas.ui.confirm.discard_all_changes": {
+    "en": "Discard all changes?",
+    "zh": "放弃所有更改？",
+    "vi": "Hủy tất cả thay đổi?"
+  },
+  "keybindatlas.ui.confirm.discard_and_close": {
+    "en": "Discard changes and close?",
+    "zh": "放弃更改并关闭？",
+    "vi": "Hủy các thay đổi và đóng?"
+  },
+  "keybindatlas.ui.confirm.discard_for_debug": {
+    "en": "Discard changes for debug?",
+    "zh": "为了调试模式放弃更改？",
+    "vi": "Từ bỏ các thay đổi cho chế độ gỡ lỗi?"
+  },
+  "keybindatlas.ui.confirm.restore_defaults": {
+    "en": "Reset all Keybind Atlas settings, including category assignments? Keybinds will not be reset.",
+    "zh": "要重置 Keybind Atlas 的所有设置（包括类别分配）吗？不会重置按键绑定。",
+    "vi": "Bạn có muốn đặt lại tất cả cài đặt Keybind Atlas, bao gồm cả việc gán danh mục không? Các ràng buộc chính sẽ không được thiết lập lại."
+  },
+  "keybindatlas.ui.confirm.reset_all_bindings": {
+    "en": "Reset all bindings to defaults?",
+    "zh": "将所有按键绑定重置为默认值？",
+    "vi": "Đặt lại tất cả các tổ hợp phím về mặc định?"
+  },
+  "keybindatlas.ui.debug.setting.alt_line_colors": {
+    "en": "Alternating line colors",
+    "zh": "交替线条颜色",
+    "vi": "Màu đường thay thế"
+  },
+  "keybindatlas.ui.debug.setting.animations": {
+    "en": "Animations",
+    "zh": "动画",
+    "vi": "hoạt hình"
+  },
+  "keybindatlas.ui.debug.setting.background_blur": {
+    "en": "Background Blur",
+    "zh": "背景模糊",
+    "vi": "Nền mờ"
+  },
+  "keybindatlas.ui.debug.setting.blur_strength": {
+    "en": "Blur Strength",
+    "zh": "模糊强度",
+    "vi": "Cường độ mờ"
+  },
+  "keybindatlas.ui.debug.setting.categories": {
+    "en": "Categories",
+    "zh": "类别",
+    "vi": "loại"
+  },
+  "keybindatlas.ui.debug.setting.debug": {
+    "en": "Debug",
+    "zh": "调试",
+    "vi": "gỡ lỗi"
+  },
+  "keybindatlas.ui.debug.setting.dir": {
+    "en": "Folder",
+    "zh": "日志文件夹",
+    "vi": "Thư mục nhật ký"
+  },
+  "keybindatlas.ui.debug.setting.full_keyboard": {
+    "en": "Extra keys",
+    "zh": "额外按键",
+    "vi": "Phím bổ sung"
+  },
+  "keybindatlas.ui.debug.setting.function_keys": {
+    "en": "Function Keys",
+    "zh": "功能键",
+    "vi": "Phím chức năng"
+  },
+  "keybindatlas.ui.debug.setting.keyboard_layout": {
+    "en": "Keyboard Layout",
+    "zh": "键盘布局",
+    "vi": "bố trí bàn phím"
+  },
+  "keybindatlas.ui.debug.setting.log": {
+    "en": "Debug log",
+    "zh": "调试日志",
+    "vi": "nhật ký gỡ lỗi"
+  },
+  "keybindatlas.ui.debug.setting.panel_opacity": {
+    "en": "Panel Opacity",
+    "zh": "面板不透明度",
+    "vi": "Độ mờ của bảng điều khiển"
+  },
+  "keybindatlas.ui.debug.setting.reset_settings": {
+    "en": "Reset Settings",
+    "zh": "重置设置",
+    "vi": "Đặt lại cài đặt"
+  },
+  "keybindatlas.ui.debug.setting.resolution": {
+    "en": "Scale",
+    "zh": "缩放",
+    "vi": "Phóng"
+  },
+  "keybindatlas.ui.dialog.current_binding": {
+    "en": "Current: %s",
+    "zh": "当前：%s",
+    "vi": "Hiện tại:%s"
+  },
+  "keybindatlas.ui.dialog.edit_title": {
+    "en": "Edit: %s",
+    "zh": "编辑：%s",
+    "vi": "Biên tập viên:%s"
+  },
+  "keybindatlas.ui.dialog.escape_to_cancel": {
+    "en": "Escape to cancel",
+    "zh": "按 Esc 取消",
+    "vi": "Nhấn Esc để hủy"
+  },
+  "keybindatlas.ui.dialog.new_binding": {
+    "en": "New: %s",
+    "zh": "新的：%s",
+    "vi": "Mới:%s"
+  },
+  "keybindatlas.ui.dialog.press_key": {
+    "en": "Press a key...",
+    "zh": "按下一个按键...",
+    "vi": "Nhấn một nút..."
+  },
+  "keybindatlas.ui.categories.title": {
+    "en": "Categories",
+    "zh": "类别",
+    "vi": "loại"
+  },
+  "keybindatlas.ui.categories.toggle": {
+    "en": "Category: %s",
+    "zh": "类别：%s",
+    "vi": "Thể loại:%s"
+  },
+  "keybindatlas.ui.categories.create_title": {
+    "en": "Create Category",
+    "zh": "创建类别",
+    "vi": "Tạo danh mục"
+  },
+  "keybindatlas.ui.categories.edit_title": {
+    "en": "Edit Category",
+    "zh": "编辑类别",
+    "vi": "Chỉnh sửa danh mục"
+  },
+  "keybindatlas.ui.categories.create_hint": {
+    "en": "Category name",
+    "zh": "类别名称",
+    "vi": "Tên danh mục"
+  },
+  "keybindatlas.ui.categories.colors_title": {
+    "en": "Preset colors",
+    "zh": "预设颜色",
+    "vi": "Màu mặc định"
+  },
+  "keybindatlas.ui.categories.color_used_by": {
+    "en": "In use by %s",
+    "zh": "已被 %s 使用",
+    "vi": "Đã được sử dụng bởi %s"
+  },
+  "keybindatlas.ui.categories.assign_help": {
+    "en": "Pick a category below, then click any assigned key to apply it. Hidden keybind hides that binding.",
+    "zh": "先在下方选择一个类别，然后点击任意已分配的按键来应用它。隐藏按键会隐藏该绑定。",
+    "vi": "Bắt đầu bằng cách chọn một danh mục bên dưới, sau đó nhấp vào bất kỳ phím nào được chỉ định để áp dụng nó. Ẩn một phím sẽ ẩn ràng buộc."
+  },
+  "keybindatlas.ui.key.none": {
+    "en": "None",
+    "zh": "无",
+    "vi": "không có"
+  },
+  "keybindatlas.ui.layout.abnt2": {
+    "en": "Brazilian ABNT2",
+    "zh": "巴西 ABNT2",
+    "vi": "Brazil ABNT2"
+  },
+  "keybindatlas.ui.layout.belgian_azerty": {
+    "en": "Belgian AZERTY",
+    "zh": "比利时 AZERTY",
+    "vi": "Bỉ AZERTY"
+  },
+  "keybindatlas.ui.layout.french_azerty": {
+    "en": "French AZERTY",
+    "zh": "法国 AZERTY",
+    "vi": "Pháp AZERTY"
+  },
+  "keybindatlas.ui.layout.german_qwertz": {
+    "en": "German QWERTZ",
+    "zh": "德国 QWERTZ",
+    "vi": "Đức QWERTZ"
+  },
+  "keybindatlas.ui.layout.italian": {
+    "en": "Italian QWERTY",
+    "zh": "意大利 QWERTY",
+    "vi": "Ý QWERTY"
+  },
+  "keybindatlas.ui.layout.nordic_iso": {
+    "en": "Nordic QWERTY",
+    "zh": "北欧 QWERTY",
+    "vi": "QWERTY Bắc Âu"
+  },
+  "keybindatlas.ui.layout.spanish": {
+    "en": "Spanish QWERTY",
+    "zh": "西班牙 QWERTY",
+    "vi": "QWERTY tiếng Tây Ban Nha"
+  },
+  "keybindatlas.ui.layout.swiss_qwertz": {
+    "en": "Swiss QWERTZ",
+    "zh": "瑞士 QWERTZ",
+    "vi": "Thụy Sĩ QWERTZ"
+  },
+  "keybindatlas.ui.layout.uk_qwerty": {
+    "en": "UK QWERTY",
+    "zh": "英国 QWERTY",
+    "vi": "QWERTY của Vương quốc Anh"
+  },
+  "keybindatlas.ui.layout.us_qwerty": {
+    "en": "US QWERTY",
+    "zh": "美国 QWERTY",
+    "vi": "QWERTY Hoa Kỳ"
+  },
+  "keybindatlas.ui.legend.assigned": {
+    "en": "Assigned",
+    "zh": "已分配",
+    "vi": "được giao"
+  },
+  "keybindatlas.ui.legend.hidden_binding": {
+    "en": "Hidden binding",
+    "zh": "隐藏绑定",
+    "vi": "Ràng buộc ẩn"
+  },
+  "keybindatlas.ui.legend.unused": {
+    "en": "Unused",
+    "zh": "未使用",
+    "vi": "Không được sử dụng"
+  },
+  "keybindatlas.ui.modifier.alt": {
+    "en": "Alt",
+    "zh": "Alt",
+    "vi": "Alt"
+  },
+  "keybindatlas.ui.modifier.ctrl": {
+    "en": "Ctrl",
+    "zh": "Ctrl",
+    "vi": "Ctrl"
+  },
+  "keybindatlas.ui.modifier.shift": {
+    "en": "Shift",
+    "zh": "Shift",
+    "vi": "Shift"
+  },
+  "keybindatlas.ui.status.bindings_reset": {
+    "en": "Bindings reset to defaults",
+    "zh": "按键绑定已重置为默认值",
+    "vi": "Các ràng buộc chính đã được đặt lại về mặc định"
+  },
+  "keybindatlas.ui.status.category_created": {
+    "en": "Created category: %s",
+    "zh": "已创建类别：%s",
+    "vi": "Danh mục đã tạo: %s"
+  },
+  "keybindatlas.ui.status.category_deleted": {
+    "en": "Category deleted",
+    "zh": "类别已删除",
+    "vi": "Đã xóa danh mục"
+  },
+  "keybindatlas.ui.status.category_updated": {
+    "en": "Updated category: %s",
+    "zh": "已更新类别：%s",
+    "vi": "Danh mục được cập nhật: %s"
+  },
+  "keybindatlas.ui.status.changes_applied": {
+    "en": "Changes applied",
+    "zh": "更改已应用",
+    "vi": "Đã áp dụng các thay đổi"
+  },
+  "keybindatlas.ui.status.changes_discarded": {
+    "en": "Changes discarded",
+    "zh": "更改已放弃",
+    "vi": "Đã loại bỏ các thay đổi"
+  },
+  "keybindatlas.ui.status.debug_folder_failed": {
+    "en": "Failed to open debug log folder",
+    "zh": "无法打开调试日志文件夹",
+    "vi": "Không thể mở thư mục nhật ký gỡ lỗi"
+  },
+  "keybindatlas.ui.status.debug_folder_opened": {
+    "en": "Opened debug log folder",
+    "zh": "已打开调试日志文件夹",
+    "vi": "Đã mở thư mục nhật ký gỡ lỗi"
+  },
+  "keybindatlas.ui.status.debug_log_failed": {
+    "en": "Failed to save debug log",
+    "zh": "无法保存调试日志",
+    "vi": "Không thể lưu nhật ký gỡ lỗi"
+  },
+  "keybindatlas.ui.status.debug_log_saved": {
+    "en": "Saved debug log: %s",
+    "zh": "调试日志已保存：%s",
+    "vi": "Đã lưu nhật ký gỡ lỗi: %s"
+  },
+  "keybindatlas.ui.status.debug_mode_discarded": {
+    "en": "Changes discarded - debug mode",
+    "zh": "更改已放弃 - 调试模式",
+    "vi": "Những thay đổi bị loại bỏ - chế độ gỡ lỗi"
+  },
+  "keybindatlas.ui.status.defaults_restored": {
+    "en": "Restored defaults",
+    "zh": "已恢复默认值",
+    "vi": "Đã khôi phục mặc định"
+  },
+  "keybindatlas.ui.status.edit_mode_cancelled": {
+    "en": "Edit mode cancelled",
+    "zh": "编辑模式已取消",
+    "vi": "Đã hủy chế độ chỉnh sửa"
+  },
+  "keybindatlas.ui.status.edit_mode_enabled": {
+    "en": "Edit mode enabled",
+    "zh": "编辑模式已启用",
+    "vi": "Chế độ chỉnh sửa được bật"
+  },
+  "keybindatlas.ui.status.category_mode_toggle": {
+    "en": "Toggle category assignment",
+    "zh": "切换类别分配",
+    "vi": "Chuyển đổi phân công danh mục"
+  },
+  "keybindatlas.ui.status.hidden_keys_info": {
+    "en": "Click keys to add or remove them from the hidden bindings list.",
+    "zh": "点击按键可将其添加到或移出隐藏绑定列表。",
+    "vi": "Bấm vào một phím để thêm hoặc xóa nó khỏi danh sách ràng buộc ẩn."
+  },
+  "keybindatlas.ui.status.hidden_keys_toggle": {
+    "en": "Toggle hidden keys",
+    "zh": "切换隐藏按键",
+    "vi": "Chuyển đổi các nút ẩn"
+  },
+  "keybindatlas.ui.status.layout_changed": {
+    "en": "Keyboard layout: %s",
+    "zh": "键盘布局：%s",
+    "vi": "Bố cục bàn phím: %s"
+  },
+  "keybindatlas.ui.status.loading_bindings": {
+    "en": "Loading bindings... %s%%",
+    "zh": "正在加载绑定... %s%%",
+    "vi": "Đang tải các ràng buộc... %s%%"
+  },
+  "keybindatlas.ui.status.preparing_graphics": {
+    "en": "Preparing graphics... %s%%",
+    "zh": "正在准备图形... %s%%",
+    "vi": "Đang chuẩn bị đồ họa... %s%%"
+  },
+  "keybindatlas.ui.status.preparing_layout": {
+    "en": "Preparing layout... %s%%",
+    "zh": "正在准备布局... %s%%",
+    "vi": "Đang chuẩn bị bố cục... %s%%"
+  },
+  "keybindatlas.ui.status.ui_error": {
+    "en": "UI error: %s",
+    "zh": "界面错误：%s",
+    "vi": "Lỗi giao diện: %s"
+  },
+  "keybindatlas.ui.status.ui_render_error": {
+    "en": "UI render error: %s",
+    "zh": "界面渲染错误：%s",
+    "vi": "Lỗi kết xuất giao diện: %s"
+  },
+  "keybindatlas.ui.tooltip.button.apply_changes": {
+    "en": "Apply the pending keybinding edits.",
+    "zh": "应用待处理的按键绑定修改。",
+    "vi": "Áp dụng các thay đổi liên kết phím đang chờ xử lý."
+  },
+  "keybindatlas.ui.tooltip.button.close": {
+    "en": "Close Keybind Atlas.",
+    "zh": "关闭 Keybind Atlas。",
+    "vi": "Đóng tập bản đồ Keybind."
+  },
+  "keybindatlas.ui.tooltip.button.debug_next": {
+    "en": "Jump to the next debug box.",
+    "zh": "跳到下一个调试信息框。",
+    "vi": "Chuyển tới hộp thông báo gỡ lỗi tiếp theo."
+  },
+  "keybindatlas.ui.tooltip.button.debug_prev": {
+    "en": "Jump to the previous debug box.",
+    "zh": "跳到上一个调试信息框。",
+    "vi": "Chuyển đến hộp thông báo gỡ lỗi trước đó."
+  },
+  "keybindatlas.ui.tooltip.button.disable_all_mods": {
+    "en": "Hide bindings from every mod in the filter list.",
+    "zh": "隐藏筛选列表中所有模组的绑定。",
+    "vi": "Ẩn các ràng buộc cho tất cả các mod trong danh sách đã lọc."
+  },
+  "keybindatlas.ui.tooltip.button.discard_changes": {
+    "en": "Discard the pending keybinding edits.",
+    "zh": "放弃待处理的按键绑定修改。",
+    "vi": "Loại bỏ các sửa đổi liên kết phím đang chờ xử lý."
+  },
+  "keybindatlas.ui.tooltip.button.dump_log": {
+    "en": "Write a debug snapshot to the log folder.",
+    "zh": "将调试快照写入日志文件夹。",
+    "vi": "Ghi ảnh chụp nhanh gỡ lỗi vào thư mục nhật ký."
+  },
+  "keybindatlas.ui.tooltip.button.edit_mode": {
+    "en": "Enable in-place keybinding edits.",
+    "zh": "启用就地编辑按键绑定。",
+    "vi": "Cho phép chỉnh sửa tại chỗ các tổ hợp phím."
+  },
+  "keybindatlas.ui.tooltip.button.enable_all_mods": {
+    "en": "Show bindings from every mod in the filter list.",
+    "zh": "显示筛选列表中所有模组的绑定。",
+    "vi": "Hiển thị các ràng buộc cho tất cả các mod trong danh sách đã lọc."
+  },
+  "keybindatlas.ui.tooltip.button.edit_category": {
+    "en": "Edit this category's name and color.",
+    "zh": "编辑此类别的名称和颜色。",
+    "vi": "Chỉnh sửa tên và màu sắc của danh mục này."
+  },
+  "keybindatlas.ui.tooltip.button.filter": {
+    "en": "Filter visible bindings by mod and individual action.",
+    "zh": "按模组和单个动作筛选可见绑定。",
+    "vi": "Lọc các ràng buộc hiển thị theo Mod và các hành động riêng lẻ."
+  },
+  "keybindatlas.ui.tooltip.button.category_info": {
+    "en": "Show or hide the category assignment help banner.",
+    "zh": "显示或隐藏类别分配帮助横幅。",
+    "vi": "Hiển thị hoặc ẩn biểu ngữ trợ giúp phân công danh mục."
+  },
+  "keybindatlas.ui.tooltip.button.delete_category": {
+    "en": "Delete this category.",
+    "zh": "删除此类别。",
+    "vi": "Xóa danh mục này."
+  },
+  "keybindatlas.ui.tooltip.button.hidden_keys": {
+    "en": "Open category assignment mode. Hidden keybind is one of the available categories.",
+    "zh": "打开类别分配模式。隐藏按键是可用类别之一。",
+    "vi": "Bật chế độ gán danh mục. Phím ẩn là một trong những danh mục có sẵn."
+  },
+  "keybindatlas.ui.tooltip.button.open_folder": {
+    "en": "Open the Keybind Atlas debug log folder.",
+    "zh": "打开 Keybind Atlas 调试日志文件夹。",
+    "vi": "Mở thư mục nhật ký gỡ lỗi Keybind Atlas."
+  },
+  "keybindatlas.ui.tooltip.button.reset_bindings": {
+    "en": "Restore all edited bindings to their defaults.",
+    "zh": "将所有已编辑的按键绑定恢复为默认值。",
+    "vi": "Khôi phục tất cả các tổ hợp phím đã chỉnh sửa về giá trị mặc định."
+  },
+  "keybindatlas.ui.tooltip.button.settings": {
+    "en": "Open Keybind Atlas settings.",
+    "zh": "打开 Keybind Atlas 设置。",
+    "vi": "Mở cài đặt Keybind Atlas."
+  },
+  "keybindatlas.ui.tooltip.button.show_extra_keys": {
+    "en": "Show the extra keys view with arrows, navigation keys, and numpad.",
+    "zh": "显示额外按键视图，包括方向键、导航区和数字键盘。",
+    "vi": "Hiển thị chế độ xem các phím bổ sung, bao gồm các phím mũi tên, vùng điều hướng và bàn phím số."
+  },
+  "keybindatlas.ui.tooltip.button.show_main_keys": {
+    "en": "Return to the main keyboard view.",
+    "zh": "返回主键盘视图。",
+    "vi": "Quay lại chế độ xem bàn phím chính."
+  },
+  "keybindatlas.ui.tooltip.button.undo": {
+    "en": "Undo the last pending keybinding change.",
+    "zh": "撤销上一次待处理的按键绑定更改。",
+    "vi": "Hoàn tác thay đổi liên kết phím đang chờ xử lý cuối cùng."
+  },
+  "keybindatlas.ui.tooltip.setting.alt_line_colors": {
+    "en": "Alternate connector colors to make dense routes easier to read.",
+    "zh": "交替使用连线颜色，以便更容易阅读密集路线。",
+    "vi": "Thay thế màu đường để làm cho các tuyến đường dày đặc dễ đọc hơn."
+  },
+  "keybindatlas.ui.tooltip.setting.animations": {
+    "en": "Turn atlas animations on or off.",
+    "zh": "开启或关闭 Atlas 动画。",
+    "vi": "Bật hoặc tắt hoạt ảnh Atlas."
+  },
+  "keybindatlas.ui.tooltip.setting.background_blur": {
+    "en": "Enable or disable the blurred backdrop behind the atlas.",
+    "zh": "开启或关闭 Atlas 背后的模糊背景。",
+    "vi": "Bật hoặc tắt nền mờ phía sau Atlas."
+  },
+  "keybindatlas.ui.tooltip.setting.blur_strength": {
+    "en": "Adjust how strong the background blur effect is.",
+    "zh": "调整背景模糊强度。",
+    "vi": "Điều chỉnh cường độ làm mờ nền."
+  },
+  "keybindatlas.ui.tooltip.setting.categories": {
+    "en": "Enable or disable custom categories. Hidden keybinds remain available.",
+    "zh": "启用或禁用自定义类别。隐藏按键绑定仍然可用。",
+    "vi": "Bật hoặc tắt các danh mục tùy chỉnh. Các tổ hợp phím ẩn vẫn có sẵn."
+  },
+  "keybindatlas.ui.tooltip.setting.debug": {
+    "en": "Enable the debug tools for inspecting box placement and connectors.",
+    "zh": "启用调试工具以检查信息框位置和连线。",
+    "vi": "Kích hoạt các công cụ gỡ lỗi để kiểm tra vị trí hộp thông tin và hệ thống dây điện."
+  },
+  "keybindatlas.ui.tooltip.setting.dir": {
+    "en": "Open the folder where debug logs are saved.",
+    "zh": "打开保存调试日志的文件夹。",
+    "vi": "Mở thư mục lưu nhật ký gỡ lỗi."
+  },
+  "keybindatlas.ui.tooltip.setting.full_keyboard": {
+    "en": "Show or hide the extra keys section, arrows, and numpad.",
+    "zh": "显示或隐藏额外按键区域、方向键和数字键盘。",
+    "vi": "Hiển thị hoặc ẩn vùng phím phụ, phím mũi tên và bàn phím số."
+  },
+  "keybindatlas.ui.tooltip.setting.function_keys": {
+    "en": "Show or hide the F1 to F12 row.",
+    "zh": "显示或隐藏 F1 到 F12 行。",
+    "vi": "Hiển thị hoặc ẩn các dòng từ F1 đến F12."
+  },
+  "keybindatlas.ui.tooltip.setting.keyboard_layout": {
+    "en": "Choose which physical keyboard layout the atlas should render.",
+    "zh": "选择 Atlas 要渲染的物理键盘布局。",
+    "vi": "Chọn bố cục bàn phím vật lý mà Atlas muốn hiển thị."
+  },
+  "keybindatlas.ui.tooltip.setting.log": {
+    "en": "Save a debug snapshot with layout and connector details.",
+    "zh": "保存包含布局和连线详情的调试快照。",
+    "vi": "Lưu ảnh chụp nhanh gỡ lỗi có chứa chi tiết bố cục và nối dây."
+  },
+  "keybindatlas.ui.tooltip.setting.panel_opacity": {
+    "en": "Change how opaque the panel backgrounds appear.",
+    "zh": "调整面板背景的不透明度。",
+    "vi": "Điều chỉnh độ mờ của nền bảng điều khiển."
+  },
+  "keybindatlas.ui.tooltip.setting.reset_settings": {
+    "en": "Reset all Keybind Atlas settings to their defaults, including category assignments. Keybinds are not reset.",
+    "zh": "将 Keybind Atlas 的所有设置恢复为默认值，包括类别分配。不会重置按键绑定。",
+    "vi": "Khôi phục tất cả cài đặt Keybind Atlas về giá trị mặc định, bao gồm cả việc gán danh mục. Các ràng buộc chính sẽ không được thiết lập lại."
+  },
+  "keybindatlas.ui.tooltip.setting.resolution": {
+    "en": "Change the atlas scale between 1x and 2x.",
+    "zh": "在 1x 和 2x 之间切换 Atlas 缩放。",
+    "vi": "Chuyển đổi thu phóng Atlas giữa 1x và 2x."
+  },
+  "keybindatlas.ui.unassigned.toggle": {
+    "en": "Unassigned (%s)",
+    "zh": "未分配（%s）",
+    "vi": "Chưa được phân bổ (%s)"
+  },
+  "keybindatlas.config.display": {
+    "en": "Display",
+    "zh": "显示",
+    "vi": "trình diễn"
+  },
+  "keybindatlas.config.display.render_profiling_enabled": {
+    "en": "Render profiling",
+    "zh": "渲染性能分析",
+    "vi": "Phân tích hiệu suất kết xuất"
+  },
+  "keybindatlas.config.display.render_profiling_enabled.tooltip": {
+    "en": "Log per-frame render timing every 120 frames for diagnostics.",
+    "zh": "每 120 帧记录一次渲染时间以便诊断。",
+    "vi": "Thời gian kết xuất được ghi lại sau mỗi 120 khung hình cho mục đích chẩn đoán."
+  },
+  "keybindatlas.config.display.default_pixel_scale": {
+    "en": "Default pixel scale",
+    "zh": "默认像素缩放",
+    "vi": "Chia tỷ lệ pixel mặc định"
+  },
+  "keybindatlas.config.display.default_pixel_scale.tooltip": {
+    "en": "Choose the default Keybind Atlas scale.",
+    "zh": "选择 Keybind Atlas 的默认缩放。",
+    "vi": "Chọn mức thu phóng mặc định cho Keybind Atlas."
+  },
+  "keybindatlas.config.display.keyboard_layout": {
+    "en": "Keyboard layout",
+    "zh": "键盘布局",
+    "vi": "bố trí bàn phím"
+  },
+  "keybindatlas.config.display.keyboard_layout.tooltip": {
+    "en": "Choose which keyboard layout Keybind Atlas should render.",
+    "zh": "选择 Keybind Atlas 应渲染的键盘布局。",
+    "vi": "Chọn bố cục bàn phím mà Keybind Atlas sẽ hiển thị."
+  },
+  "keybindatlas.config.display.animations_enabled": {
+    "en": "Animations",
+    "zh": "动画",
+    "vi": "hoạt hình"
+  },
+  "keybindatlas.config.display.animations_enabled.tooltip": {
+    "en": "Enable box entrance, connector draw-in, and hover transition animations.",
+    "zh": "启用信息框出现、连线绘制和悬停过渡动画。",
+    "vi": "Cho phép xuất hiện hộp thông tin, vẽ đường và hoạt ảnh chuyển tiếp khi di chuột."
+  },
+  "keybindatlas.config.display.hidden_bindings_enabled": {
+    "en": "Hidden bindings enabled",
+    "zh": "启用隐藏绑定",
+    "vi": "Bật ràng buộc ẩn"
+  },
+  "keybindatlas.config.display.hidden_bindings_enabled.tooltip": {
+    "en": "Keep configured bindings hidden to reduce clutter.",
+    "zh": "隐藏已配置的绑定以减少界面杂乱。",
+    "vi": "Ẩn các ràng buộc được định cấu hình để giảm sự lộn xộn của giao diện."
+  },
+  "keybindatlas.config.display.categories_enabled": {
+    "en": "Categories enabled",
+    "zh": "启用类别",
+    "vi": "Bật danh mục"
+  },
+  "keybindatlas.config.display.categories_enabled.tooltip": {
+    "en": "Enable or disable custom categories while leaving hidden keybinds available.",
+    "zh": "启用或禁用自定义类别，同时保留隐藏按键绑定可用。",
+    "vi": "Bật hoặc tắt các danh mục tùy chỉnh trong khi vẫn để lại các tổ hợp phím ẩn."
+  },
+  "keybindatlas.config.display.hidden_binding_labels": {
+    "en": "Hidden binding labels",
+    "zh": "隐藏绑定标签",
+    "vi": "Ẩn nhãn ràng buộc"
+  },
+  "keybindatlas.config.display.hidden_binding_labels.tooltip": {
+    "en": "Labels whose bindings should stay hidden in the atlas.",
+    "zh": "其绑定应在 Atlas 中保持隐藏的标签。",
+    "vi": "Các nhãn có ràng buộc sẽ được ẩn trong Atlas."
+  },
+  "keybindatlas.config.display.function_keys_enabled": {
+    "en": "Function keys",
+    "zh": "功能键",
+    "vi": "Phím chức năng"
+  },
+  "keybindatlas.config.display.function_keys_enabled.tooltip": {
+    "en": "Show or hide the F1 to F12 row.",
+    "zh": "显示或隐藏 F1 到 F12 行。",
+    "vi": "Hiển thị hoặc ẩn các dòng từ F1 đến F12."
+  },
+  "keybindatlas.config.display.all_keys_enabled": {
+    "en": "Extra keys",
+    "zh": "额外按键",
+    "vi": "Phím bổ sung"
+  },
+  "keybindatlas.config.display.all_keys_enabled.tooltip": {
+    "en": "Show or hide the extra keys section, arrows, and numpad.",
+    "zh": "显示或隐藏额外按键区域、方向键和数字键盘。",
+    "vi": "Hiển thị hoặc ẩn vùng phím phụ, phím mũi tên và bàn phím số."
+  },
+  "keybindatlas.config.display.background_blur_enabled": {
+    "en": "Background blur",
+    "zh": "背景模糊",
+    "vi": "Nền mờ"
+  },
+  "keybindatlas.config.display.background_blur_enabled.tooltip": {
+    "en": "Draw a dark blurred backdrop behind the atlas.",
+    "zh": "在 Atlas 后方绘制深色模糊背景。",
+    "vi": "Vẽ nền mờ tối phía sau Atlas."
+  },
+  "keybindatlas.config.display.background_blur_strength": {
+    "en": "Background blur strength",
+    "zh": "背景模糊强度",
+    "vi": "Cường độ làm mờ nền"
+  },
+  "keybindatlas.config.display.background_blur_strength.tooltip": {
+    "en": "Adjust how strong the background blur effect is.",
+    "zh": "调整背景模糊强度。",
+    "vi": "Điều chỉnh cường độ làm mờ nền."
+  },
+  "keybindatlas.config.display.alternating_line_colors_enabled": {
+    "en": "Alternating line colors",
+    "zh": "交替线条颜色",
+    "vi": "Màu đường thay thế"
+  },
+  "keybindatlas.config.display.alternating_line_colors_enabled.tooltip": {
+    "en": "Alternate nearby connector colors to make routes easier to follow.",
+    "zh": "交替使用相邻连线的颜色，便于辨认路线。",
+    "vi": "Thay thế màu sắc của các đường kết nối liền kề để dễ xác định tuyến đường hơn."
+  },
+  "keybindatlas.config.display.panel_opacity": {
+    "en": "Panel opacity",
+    "zh": "面板不透明度",
+    "vi": "Độ mờ của bảng điều khiển"
+  },
+  "keybindatlas.config.display.panel_opacity.tooltip": {
+    "en": "Change how opaque the panel and info-box backgrounds are.",
+    "zh": "调整面板和信息框背景的不透明度。",
+    "vi": "Điều chỉnh độ mờ của nền bảng điều khiển và hộp thông tin."
+  },
+  "keybindatlas.config.display.max_unhovered_assignments": {
+    "en": "Max compact assignments",
+    "zh": "紧凑模式最大绑定数",
+    "vi": "Số lượng ràng buộc tối đa ở chế độ thu gọn"
+  },
+  "keybindatlas.config.display.max_unhovered_assignments.tooltip": {
+    "en": "Maximum assignments shown in compact unhovered boxes.",
+    "zh": "在未悬停的紧凑信息框中显示的最大绑定数量。",
+    "vi": "Số lượng liên kết tối đa cần hiển thị trong một hộp thông tin nhỏ gọn không được di chuột."
+  },
+  "keybindatlas.config.display.disabled_mods": {
+    "en": "Disabled mods",
+    "zh": "已禁用模组",
+    "vi": "Đã tắt mod"
+  },
+  "keybindatlas.config.display.disabled_mods.tooltip": {
+    "en": "Mods hidden by the filter list.",
+    "zh": "被筛选器隐藏的模组。",
+    "vi": "Các mod bị ẩn bởi bộ lọc."
+  },
+  "keybindatlas.config.display.disabled_bindings": {
+    "en": "Disabled bindings",
+    "zh": "已禁用绑定",
+    "vi": "Ràng buộc bị vô hiệu hóa"
+  },
+  "keybindatlas.config.display.disabled_bindings.tooltip": {
+    "en": "Individual bindings hidden by the filter list.",
+    "zh": "被筛选器隐藏的单个绑定。",
+    "vi": "Một ràng buộc duy nhất được ẩn bởi bộ lọc."
+  },
+  "keybindatlas.config.colors": {
+    "en": "Colors",
+    "zh": "颜色",
+    "vi": "màu sắc"
+  },
+  "keybindatlas.config.colors.assigned_key": {
+    "en": "Assigned key",
+    "zh": "已分配按键",
+    "vi": "Phím được gán"
+  },
+  "keybindatlas.config.colors.assigned_key.fill": {
+    "en": "Fill",
+    "zh": "填充",
+    "vi": "điền vào"
+  },
+  "keybindatlas.config.colors.assigned_key.text": {
+    "en": "Text",
+    "zh": "文本",
+    "vi": "chữ"
+  },
+  "keybindatlas.config.colors.unused_key": {
+    "en": "Unused key",
+    "zh": "未使用按键",
+    "vi": "phím không sử dụng"
+  },
+  "keybindatlas.config.colors.unused_key.fill": {
+    "en": "Fill",
+    "zh": "填充",
+    "vi": "điền vào"
+  },
+  "keybindatlas.config.colors.unused_key.text": {
+    "en": "Text",
+    "zh": "文本",
+    "vi": "chữ"
+  },
+  "keybindatlas.config.colors.hidden_binding_key": {
+    "en": "Hidden binding key",
+    "zh": "隐藏绑定按键",
+    "vi": "Ẩn các phím bị ràng buộc"
+  },
+  "keybindatlas.config.colors.hidden_binding_key.fill": {
+    "en": "Fill",
+    "zh": "填充",
+    "vi": "điền vào"
+  },
+  "keybindatlas.config.colors.hidden_binding_key.text": {
+    "en": "Text",
+    "zh": "文本",
+    "vi": "chữ"
+  },
+  "keybindatlas.config.colors.hovered_key": {
+    "en": "Hovered key",
+    "zh": "悬停按键",
+    "vi": "Nút di chuột"
+  },
+  "keybindatlas.config.colors.hovered_key.fill": {
+    "en": "Fill",
+    "zh": "填充",
+    "vi": "điền vào"
+  },
+  "keybindatlas.config.colors.hovered_key.text": {
+    "en": "Text",
+    "zh": "文本",
+    "vi": "chữ"
+  },
+  "keybindatlas.config.colors.binding_box": {
+    "en": "Binding box",
+    "zh": "绑定信息框",
+    "vi": "Hộp thông tin ràng buộc"
+  },
+  "keybindatlas.config.colors.binding_box.fill": {
+    "en": "Fill",
+    "zh": "填充",
+    "vi": "điền vào"
+  },
+  "keybindatlas.config.colors.binding_box.hover_fill": {
+    "en": "Hover fill",
+    "zh": "悬停填充",
+    "vi": "Di chuột điền"
+  },
+  "keybindatlas.config.colors.binding_box.border": {
+    "en": "Border",
+    "zh": "边框",
+    "vi": "khung"
+  },
+  "keybindatlas.config.colors.binding_box.hover_border": {
+    "en": "Hover border",
+    "zh": "悬停边框",
+    "vi": "biên giới di chuột"
+  },
+  "keybindatlas.config.colors.binding_box.text": {
+    "en": "Text",
+    "zh": "文本",
+    "vi": "chữ"
+  },
+  "keybindatlas.config.colors.binding_box.source_text": {
+    "en": "Source text",
+    "zh": "来源文本",
+    "vi": "văn bản nguồn"
+  },
+  "keybindatlas.config.colors.keyboard_housing": {
+    "en": "Keyboard housing",
+    "zh": "键盘外壳",
+    "vi": "vỏ bàn phím"
+  },
+  "keybindatlas.config.colors.keyboard_housing.fill": {
+    "en": "Fill",
+    "zh": "填充",
+    "vi": "điền vào"
+  },
+  "keybindatlas.config.colors.keyboard_housing.border": {
+    "en": "Border",
+    "zh": "边框",
+    "vi": "khung"
+  },
+  "keybindatlas.config.colors.connector_line": {
+    "en": "Connector line",
+    "zh": "连接线",
+    "vi": "Đường kết nối"
+  },
+  "keybindatlas.config.colors.connector_line.default": {
+    "en": "Default",
+    "zh": "默认",
+    "vi": "mặc định"
+  },
+  "keybindatlas.config.colors.connector_line.default_alt": {
+    "en": "Alternate default",
+    "zh": "默认替代",
+    "vi": "Ghi đè mặc định"
+  },
+  "keybindatlas.config.colors.connector_line.hover": {
+    "en": "Hover",
+    "zh": "悬停",
+    "vi": "di chuột"
+  }
+}

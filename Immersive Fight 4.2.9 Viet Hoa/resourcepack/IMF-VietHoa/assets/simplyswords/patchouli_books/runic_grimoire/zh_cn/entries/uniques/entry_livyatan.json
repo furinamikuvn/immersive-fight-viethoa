@@ -1,0 +1,17 @@
+{
+  "name": "Livyatan (Thủy Quái)",
+  "icon": "simplyswords:livyatan",
+  "advancement": "simplyswords:livyatan",
+  "category": "simplyswords:category_unique_weapons",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:livyatan",
+      "text": "Leviathan là một chiếc rìu cầm tay đáng sợ có khả năng đóng băng kẻ thù và sau đó đập vỡ chúng, gây ra lượng sát thương cực lớn. Mỗi đòn tấn công có cơ hội nhất định phát ra một luồng năng lượng đóng băng dày đặc để nhấn chìm kẻ thù, khiến chúng hoàn toàn không thể di chuyển."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Kỹ năng chủ động đập vỡ kẻ địch đang bị đóng băng gây sát thương cực lớn. Rèn từ trái tim thủy quái viễn cổ."
+    }
+  ]
+}

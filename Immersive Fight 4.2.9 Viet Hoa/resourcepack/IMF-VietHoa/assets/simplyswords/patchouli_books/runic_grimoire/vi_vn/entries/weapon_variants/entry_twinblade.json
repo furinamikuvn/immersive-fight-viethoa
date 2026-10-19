@@ -1,0 +1,26 @@
+{
+  "name": "Song Đầu Kiếm (Twinblade)",
+  "icon": "simplyswords:iron_twinblade",
+  "category": "simplyswords:category_weapon_variants",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:iron_twinblade",
+      "text": "Song Đầu Kiếm kết hợp hai mũi kiếm sắc bén, đạt tốc độ và độ chính xác cực cao, đòi hỏi sự khéo léo điêu luyện của chiến binh."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "simplyswords:iron_twinblade",
+      "recipe2": "simplyswords:gold_twinblade"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "simplyswords:diamond_twinblade"
+    },
+    {
+      "type": "patchouli:smithing",
+      "recipe": "simplyswords:netherite_twinblade",
+      "recipe2": "simplyswords:runic_twinblade"
+    }
+  ]
+}

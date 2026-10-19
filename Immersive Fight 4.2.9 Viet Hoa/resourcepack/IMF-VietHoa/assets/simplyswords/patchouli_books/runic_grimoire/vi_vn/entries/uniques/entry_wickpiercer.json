@@ -1,0 +1,13 @@
+{
+  "name": "Wickpiercer (Xuyên Tâm)",
+  "icon": "simplyswords:wickpiercer",
+  "advancement": "simplyswords:wickpiercer",
+  "category": "simplyswords:category_unique_weapons",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:wickpiercer",
+      "text": "Trường thương thanh tao mang hình dáng chân nến tráng lệ, kích hoạt trạng thái bạo tẩu tăng tốc đâm liên tiếp."
+    }
+  ]
+}

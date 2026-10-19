@@ -1,0 +1,1092 @@
+{
+  "itemGroup.fantasy_armor.fa_tab": {
+    "en": "Fantasy Armor",
+    "zh": "幻想盔甲",
+    "vi": "áo giáp tưởng tượng"
+  },
+  "item.fantasy_armor.moon_crystal": {
+    "en": "Moon Crystal",
+    "zh": "月之水晶",
+    "vi": "Moon Crystal"
+  },
+  "item.fantasy_armor.eclipse_soldier_helmet": {
+    "en": "Eclipse Soldier Helmet",
+    "zh": "日蚀士兵头盔",
+    "vi": "Eclipse Soldier Helmet"
+  },
+  "item.fantasy_armor.eclipse_soldier_chestplate": {
+    "en": "Eclipse Soldier Chestplate",
+    "zh": "日蚀士兵胸甲",
+    "vi": "Eclipse Soldier Chestplate"
+  },
+  "item.fantasy_armor.eclipse_soldier_leggings": {
+    "en": "Eclipse Soldier Leggings",
+    "zh": "日蚀士兵护腿",
+    "vi": "Eclipse Soldier Leggings"
+  },
+  "item.fantasy_armor.eclipse_soldier_boots": {
+    "en": "Eclipse Soldier Boots",
+    "zh": "日蚀士兵靴子",
+    "vi": "Eclipse Soldier Boots"
+  },
+  "item.fantasy_armor.eclipse_soldier_helmet.tooltip": {
+    "en": "§7The armor of an infantryman who fought for the triumph of the eclipse over the sun long ago. \nIt is said that beneath the boots of the legions thousands of unfortunates have found death.",
+    "zh": "§7套装效果：抗性提升",
+    "vi": "Hiệu ứng trang phục §7: tăng sức đề kháng"
+  },
+  "item.fantasy_armor.eclipse_soldier_chestplate.tooltip": {
+    "en": "§7The armor of an infantryman who fought for the triumph of the eclipse over the sun long ago. \nIt is said that beneath the boots of the legions thousands of unfortunates have found death.",
+    "zh": "§7套装效果：抗性提升",
+    "vi": "Hiệu ứng trang phục §7: tăng sức đề kháng"
+  },
+  "item.fantasy_armor.eclipse_soldier_leggings.tooltip": {
+    "en": "§7The armor of an infantryman who fought for the triumph of the eclipse over the sun long ago. \nIt is said that beneath the boots of the legions thousands of unfortunates have found death.",
+    "zh": "§7套装效果：抗性提升",
+    "vi": "Hiệu ứng trang phục §7: tăng sức đề kháng"
+  },
+  "item.fantasy_armor.eclipse_soldier_boots.tooltip": {
+    "en": "§7The armor of an infantryman who fought for the triumph of the eclipse over the sun long ago. \nIt is said that beneath the boots of the legions thousands of unfortunates have found death.",
+    "zh": "§7套装效果：抗性提升",
+    "vi": "Hiệu ứng trang phục §7: tăng sức đề kháng"
+  },
+  "item.fantasy_armor.golden_horns_helmet": {
+    "en": "Golden Horns Helmet",
+    "zh": "金角头盔",
+    "vi": "Golden Horns Helmet"
+  },
+  "item.fantasy_armor.golden_horns_chestplate": {
+    "en": "Golden Horns Chestplate",
+    "zh": "金角胸甲",
+    "vi": "Golden Horns Chestplate"
+  },
+  "item.fantasy_armor.golden_horns_leggings": {
+    "en": "Golden Horns Leggings",
+    "zh": "金角护腿",
+    "vi": "Golden Horns Leggings"
+  },
+  "item.fantasy_armor.golden_horns_boots": {
+    "en": "Golden Horns Boots",
+    "zh": "金角靴子",
+    "vi": "Golden Horns Boots"
+  },
+  "item.fantasy_armor.golden_horns_helmet.tooltip": {
+    "en": "§7A set that shines so brightly it appears to be carved from the light itself. \nHowever, its gold is not a blessing but a curse. \nThis gold has witnessed death and destruction, and its light feeds greed and bloodlust. \nThis armor serves its owner only as long as he is willing to sacrifice his enemies.",
+    "zh": "§7套装效果：抗性|生命恢复",
+    "vi": "Hiệu ứng bộ §7: Kháng cự | Phục hồi sự sống"
+  },
+  "item.fantasy_armor.golden_horns_chestplate.tooltip": {
+    "en": "§7A set that shines so brightly it appears to be carved from the light itself. \nHowever, its gold is not a blessing but a curse. \nThis gold has witnessed death and destruction, and its light feeds greed and bloodlust. \nThis armor serves its owner only as long as he is willing to sacrifice his enemies.",
+    "zh": "§7套装效果：抗性|生命恢复",
+    "vi": "Hiệu ứng bộ §7: Kháng cự | Phục hồi sự sống"
+  },
+  "item.fantasy_armor.golden_horns_leggings.tooltip": {
+    "en": "§7A set that shines so brightly it appears to be carved from the light itself. \nHowever, its gold is not a blessing but a curse. \nThis gold has witnessed death and destruction, and its light feeds greed and bloodlust. \nThis armor serves its owner only as long as he is willing to sacrifice his enemies.",
+    "zh": "§7套装效果：抗性|生命恢复",
+    "vi": "Hiệu ứng bộ §7: Kháng cự | Phục hồi sự sống"
+  },
+  "item.fantasy_armor.golden_horns_boots.tooltip": {
+    "en": "§7A set that shines so brightly it appears to be carved from the light itself. \nHowever, its gold is not a blessing but a curse. \nThis gold has witnessed death and destruction, and its light feeds greed and bloodlust. \nThis armor serves its owner only as long as he is willing to sacrifice his enemies.",
+    "zh": "§7套装效果：抗性|生命恢复",
+    "vi": "Hiệu ứng bộ §7: Kháng cự | Phục hồi sự sống"
+  },
+  "item.fantasy_armor.dragonslayer_helmet": {
+    "en": "Dragonslayer Helmet",
+    "zh": "屠龙者头盔",
+    "vi": "Dragonslayer Helmet"
+  },
+  "item.fantasy_armor.dragonslayer_chestplate": {
+    "en": "Dragonslayer Chestplate",
+    "zh": "屠龙者胸甲",
+    "vi": "Dragonslayer Chestplate"
+  },
+  "item.fantasy_armor.dragonslayer_leggings": {
+    "en": "Dragonslayer Leggings",
+    "zh": "屠龙者护腿",
+    "vi": "Dragonslayer Leggings"
+  },
+  "item.fantasy_armor.dragonslayer_boots": {
+    "en": "Dragonslayer Boots",
+    "zh": "屠龙者靴子",
+    "vi": "Dragonslayer Boots"
+  },
+  "item.fantasy_armor.dragonslayer_helmet.tooltip": {
+    "en": "§7This set is forged from the scales of defeated dragons, each one a symbol of ancient strength and fury.\nThe plates and spikes grant you the power of victory over them, but do not forget that every step taken in it bears the weight of many deaths.",
+    "zh": "§7套装效果：抗性|抗火",
+    "vi": "Hiệu ứng bộ §7: Kháng cự | Chống cháy"
+  },
+  "item.fantasy_armor.dragonslayer_chestplate.tooltip": {
+    "en": "§7This set is forged from the scales of defeated dragons, each one a symbol of ancient strength and fury.\nThe plates and spikes grant you the power of victory over them, but do not forget that every step taken in it bears the weight of many deaths.",
+    "zh": "§7套装效果：抗性|抗火",
+    "vi": "Hiệu ứng bộ §7: Kháng cự | Chống cháy"
+  },
+  "item.fantasy_armor.dragonslayer_leggings.tooltip": {
+    "en": "§7This set is forged from the scales of defeated dragons, each one a symbol of ancient strength and fury.\nThe plates and spikes grant you the power of victory over them, but do not forget that every step taken in it bears the weight of many deaths.",
+    "zh": "§7套装效果：抗性|抗火",
+    "vi": "Hiệu ứng bộ §7: Kháng cự | Chống cháy"
+  },
+  "item.fantasy_armor.dragonslayer_boots.tooltip": {
+    "en": "§7This set is forged from the scales of defeated dragons, each one a symbol of ancient strength and fury.\nThe plates and spikes grant you the power of victory over them, but do not forget that every step taken in it bears the weight of many deaths.",
+    "zh": "§7套装效果：抗性|抗火",
+    "vi": "Hiệu ứng bộ §7: Kháng cự | Chống cháy"
+  },
+  "item.fantasy_armor.hero_helmet": {
+    "en": "Hero Helmet",
+    "zh": "英雄头盔",
+    "vi": "Hero Helmet"
+  },
+  "item.fantasy_armor.hero_chestplate": {
+    "en": "Hero Chestplate",
+    "zh": "英雄胸甲",
+    "vi": "Hero Chestplate"
+  },
+  "item.fantasy_armor.hero_leggings": {
+    "en": "Hero Leggings",
+    "zh": "英雄护腿",
+    "vi": "Hero Leggings"
+  },
+  "item.fantasy_armor.hero_boots": {
+    "en": "Hero Boots",
+    "zh": "英雄靴子",
+    "vi": "Hero Boots"
+  },
+  "item.fantasy_armor.hero_helmet.tooltip": {
+    "en": "§7This set is the legacy of ancient warriors, each of whom fought to their last breath.\nIt holds the memory of countless battles and hardships endured in the search for justice.\nBut glory is a heavy burden.\nNot every story will endure through the ages.",
+    "zh": "§7套装效果：生命恢复",
+    "vi": "Hiệu ứng bộ đồ §7: phục hồi sự sống"
+  },
+  "item.fantasy_armor.hero_chestplate.tooltip": {
+    "en": "§7This set is the legacy of ancient warriors, each of whom fought to their last breath.\nIt holds the memory of countless battles and hardships endured in the search for justice.\nBut glory is a heavy burden.\nNot every story will endure through the ages.",
+    "zh": "§7套装效果：生命恢复",
+    "vi": "Hiệu ứng bộ đồ §7: phục hồi sự sống"
+  },
+  "item.fantasy_armor.hero_leggings.tooltip": {
+    "en": "§7This set is the legacy of ancient warriors, each of whom fought to their last breath.\nIt holds the memory of countless battles and hardships endured in the search for justice.\nBut glory is a heavy burden.\nNot every story will endure through the ages.",
+    "zh": "§7套装效果：生命恢复",
+    "vi": "Hiệu ứng bộ đồ §7: phục hồi sự sống"
+  },
+  "item.fantasy_armor.hero_boots.tooltip": {
+    "en": "§7This set is the legacy of ancient warriors, each of whom fought to their last breath.\nIt holds the memory of countless battles and hardships endured in the search for justice.\nBut glory is a heavy burden.\nNot every story will endure through the ages.",
+    "zh": "§7套装效果：生命恢复",
+    "vi": "Hiệu ứng bộ đồ §7: phục hồi sự sống"
+  },
+  "item.fantasy_armor.thief_helmet": {
+    "en": "Thief Helmet",
+    "zh": "盗贼头盔",
+    "vi": "Thief Helmet"
+  },
+  "item.fantasy_armor.thief_chestplate": {
+    "en": "Thief Chestplate",
+    "zh": "盗贼胸甲",
+    "vi": "Thief Chestplate"
+  },
+  "item.fantasy_armor.thief_leggings": {
+    "en": "Thief Leggings",
+    "zh": "盗贼护腿",
+    "vi": "Thief Leggings"
+  },
+  "item.fantasy_armor.thief_boots": {
+    "en": "Thief Boots",
+    "zh": "盗贼靴子",
+    "vi": "Thief Boots"
+  },
+  "item.fantasy_armor.thief_helmet.tooltip": {
+    "en": "§7This set is the perfect companion for those who live in shadows and breathe darkness.\nThe wearer becomes one with the night.\nThe black mask conceals your face, leaving your enemies guessing.",
+    "zh": "§7套装效果：跳跃提升",
+    "vi": "Hiệu ứng bộ đồ §7: tăng tốc nhảy"
+  },
+  "item.fantasy_armor.thief_chestplate.tooltip": {
+    "en": "§7This set is the perfect companion for those who live in shadows and breathe darkness.\nThe wearer becomes one with the night.\nThe black mask conceals your face, leaving your enemies guessing.",
+    "zh": "§7套装效果：跳跃提升",
+    "vi": "Hiệu ứng bộ đồ §7: tăng tốc nhảy"
+  },
+  "item.fantasy_armor.thief_leggings.tooltip": {
+    "en": "§7This set is the perfect companion for those who live in shadows and breathe darkness.\nThe wearer becomes one with the night.\nThe black mask conceals your face, leaving your enemies guessing.",
+    "zh": "§7套装效果：跳跃提升",
+    "vi": "Hiệu ứng bộ đồ §7: tăng tốc nhảy"
+  },
+  "item.fantasy_armor.thief_boots.tooltip": {
+    "en": "§7This set is the perfect companion for those who live in shadows and breathe darkness.\nThe wearer becomes one with the night.\nThe black mask conceals your face, leaving your enemies guessing.",
+    "zh": "§7套装效果：跳跃提升",
+    "vi": "Hiệu ứng bộ đồ §7: tăng tốc nhảy"
+  },
+  "item.fantasy_armor.wandering_wizard_helmet": {
+    "en": "Wandering Wizard Helmet",
+    "zh": "流浪巫师头盔",
+    "vi": "Wandering Wizard Helmet"
+  },
+  "item.fantasy_armor.wandering_wizard_chestplate": {
+    "en": "Wandering Wizard Chestplate",
+    "zh": "流浪巫师胸甲",
+    "vi": "Wandering Wizard Chestplate"
+  },
+  "item.fantasy_armor.wandering_wizard_leggings": {
+    "en": "Wandering Wizard Leggings",
+    "zh": "流浪巫师护腿",
+    "vi": "Wandering Wizard Leggings"
+  },
+  "item.fantasy_armor.wandering_wizard_boots": {
+    "en": "Wandering Wizard Boots",
+    "zh": "流浪巫师靴子",
+    "vi": "Wandering Wizard Boots"
+  },
+  "item.fantasy_armor.wandering_wizard_helmet.tooltip": {
+    "en": "§7This set is infused with ancient magic.\nThe garments whisper forgotten spells and open gates to other worlds.\nEach thread of this attire binds its wearer to unknown forces, granting him the power to perform magic, but at the same time imposing the curse of eternal wandering without the right to rest.",
+    "zh": "§7套装效果：水肺|夜视",
+    "vi": "Hiệu ứng bộ §7: Scuba | Tầm nhìn ban đêm"
+  },
+  "item.fantasy_armor.wandering_wizard_chestplate.tooltip": {
+    "en": "§7This set is infused with ancient magic.\nThe garments whisper forgotten spells and open gates to other worlds.\nEach thread of this attire binds its wearer to unknown forces, granting him the power to perform magic, but at the same time imposing the curse of eternal wandering without the right to rest.",
+    "zh": "§7套装效果：水肺|夜视",
+    "vi": "Hiệu ứng bộ §7: Scuba | Tầm nhìn ban đêm"
+  },
+  "item.fantasy_armor.wandering_wizard_leggings.tooltip": {
+    "en": "§7This set is infused with ancient magic.\nThe garments whisper forgotten spells and open gates to other worlds.\nEach thread of this attire binds its wearer to unknown forces, granting him the power to perform magic, but at the same time imposing the curse of eternal wandering without the right to rest.",
+    "zh": "§7套装效果：水肺|夜视",
+    "vi": "Hiệu ứng bộ §7: Scuba | Tầm nhìn ban đêm"
+  },
+  "item.fantasy_armor.wandering_wizard_boots.tooltip": {
+    "en": "§7This set is infused with ancient magic.\nThe garments whisper forgotten spells and open gates to other worlds.\nEach thread of this attire binds its wearer to unknown forces, granting him the power to perform magic, but at the same time imposing the curse of eternal wandering without the right to rest.",
+    "zh": "§7套装效果：水肺|夜视",
+    "vi": "Hiệu ứng bộ §7: Scuba | Tầm nhìn ban đêm"
+  },
+  "item.fantasy_armor.sunset_wings_helmet": {
+    "en": "Sunset Wings Helmet",
+    "zh": "夕阳之翼头盔",
+    "vi": "Sunset Wings Helmet"
+  },
+  "item.fantasy_armor.sunset_wings_chestplate": {
+    "en": "Sunset Wings Chestplate",
+    "zh": "夕阳之翼胸甲",
+    "vi": "Sunset Wings Chestplate"
+  },
+  "item.fantasy_armor.sunset_wings_leggings": {
+    "en": "Sunset Wings Leggings",
+    "zh": "夕阳之翼护腿",
+    "vi": "Sunset Wings Leggings"
+  },
+  "item.fantasy_armor.sunset_wings_boots": {
+    "en": "Sunset Wings Boots",
+    "zh": "夕阳之翼靴子",
+    "vi": "Sunset Wings Boots"
+  },
+  "item.fantasy_armor.sunset_wings_helmet.tooltip": {
+    "en": "§7Sunset is both the end and the beginning at the same time.\nThe wings guide their owner through the darkness.\nWhen you don them, you become the somber messenger of eternal night.",
+    "zh": "§7套装效果：力量|抗火",
+    "vi": "Hiệu ứng bộ §7: Sức mạnh | Chống cháy"
+  },
+  "item.fantasy_armor.sunset_wings_chestplate.tooltip": {
+    "en": "§7Sunset is both the end and the beginning at the same time.\nThe wings guide their owner through the darkness.\nWhen you don them, you become the somber messenger of eternal night.",
+    "zh": "§7套装效果：力量|抗火",
+    "vi": "Hiệu ứng bộ §7: Sức mạnh | Chống cháy"
+  },
+  "item.fantasy_armor.sunset_wings_leggings.tooltip": {
+    "en": "§7Sunset is both the end and the beginning at the same time.\nThe wings guide their owner through the darkness.\nWhen you don them, you become the somber messenger of eternal night.",
+    "zh": "§7套装效果：力量|抗火",
+    "vi": "Hiệu ứng bộ §7: Sức mạnh | Chống cháy"
+  },
+  "item.fantasy_armor.sunset_wings_boots.tooltip": {
+    "en": "§7Sunset is both the end and the beginning at the same time.\nThe wings guide their owner through the darkness.\nWhen you don them, you become the somber messenger of eternal night.",
+    "zh": "§7套装效果：力量|抗火",
+    "vi": "Hiệu ứng bộ §7: Sức mạnh | Chống cháy"
+  },
+  "item.fantasy_armor.chess_board_knight_helmet": {
+    "en": "Chess Board Knight Helmet",
+    "zh": "棋盘骑士头盔",
+    "vi": "Chess Board Knight Helmet"
+  },
+  "item.fantasy_armor.chess_board_knight_chestplate": {
+    "en": "Chess Board Knight Chestplate",
+    "zh": "棋盘骑士胸甲",
+    "vi": "Chess Board Knight Chestplate"
+  },
+  "item.fantasy_armor.chess_board_knight_leggings": {
+    "en": "Chess Board Knight Leggings",
+    "zh": "棋盘骑士护腿",
+    "vi": "Chess Board Knight Leggings"
+  },
+  "item.fantasy_armor.chess_board_knight_boots": {
+    "en": "Chess Board Knight Boots",
+    "zh": "棋盘骑士靴子",
+    "vi": "Chess Board Knight Boots"
+  },
+  "item.fantasy_armor.chess_board_knight_helmet.tooltip": {
+    "en": "§7Every move is a battle, every step is a strategy.\nThis armor embodies the cold logic and ruthless power of warfare.\nWear it with the pride of a strategist, prepared to sacrifice everything for victory, even your soul.",
+    "zh": "§7套装效果：急迫|生命恢复",
+    "vi": "Hiệu ứng cài đặt §7: cấp bách | phục hồi cuộc sống"
+  },
+  "item.fantasy_armor.chess_board_knight_chestplate.tooltip": {
+    "en": "§7Every move is a battle, every step is a strategy.\nThis armor embodies the cold logic and ruthless power of warfare.\nWear it with the pride of a strategist, prepared to sacrifice everything for victory, even your soul.",
+    "zh": "§7套装效果：急迫|生命恢复",
+    "vi": "Hiệu ứng cài đặt §7: cấp bách | phục hồi cuộc sống"
+  },
+  "item.fantasy_armor.chess_board_knight_leggings.tooltip": {
+    "en": "§7Every move is a battle, every step is a strategy.\nThis armor embodies the cold logic and ruthless power of warfare.\nWear it with the pride of a strategist, prepared to sacrifice everything for victory, even your soul.",
+    "zh": "§7套装效果：急迫|生命恢复",
+    "vi": "Hiệu ứng cài đặt §7: cấp bách | phục hồi cuộc sống"
+  },
+  "item.fantasy_armor.chess_board_knight_boots.tooltip": {
+    "en": "§7Every move is a battle, every step is a strategy.\nThis armor embodies the cold logic and ruthless power of warfare.\nWear it with the pride of a strategist, prepared to sacrifice everything for victory, even your soul.",
+    "zh": "§7套装效果：急迫|生命恢复",
+    "vi": "Hiệu ứng cài đặt §7: cấp bách | phục hồi cuộc sống"
+  },
+  "item.fantasy_armor.dark_lord_helmet": {
+    "en": "Dark Lord Helmet",
+    "zh": "黑暗领主头盔",
+    "vi": "Dark Lord Helmet"
+  },
+  "item.fantasy_armor.dark_lord_chestplate": {
+    "en": "Dark Lord Chestplate",
+    "zh": "黑暗领主胸甲",
+    "vi": "Dark Lord Chestplate"
+  },
+  "item.fantasy_armor.dark_lord_leggings": {
+    "en": "Dark Lord Leggings",
+    "zh": "黑暗领主护腿",
+    "vi": "Dark Lord Leggings"
+  },
+  "item.fantasy_armor.dark_lord_boots": {
+    "en": "Dark Lord Boots",
+    "zh": "黑暗领主靴子",
+    "vi": "Dark Lord Boots"
+  },
+  "item.fantasy_armor.dark_lord_helmet.tooltip": {
+    "en": "§7Created in the depths of another world, this set is the embodiment of the power of terror.\nIts spikes and black armor resemble broken fangs.\nWear it if you dare, but know that it demands eternal devotion to the darkness and devours those who attempt to resist it.",
+    "zh": "§7套装效果：力量",
+    "vi": "Hiệu ứng bộ §7: Sức mạnh"
+  },
+  "item.fantasy_armor.dark_lord_chestplate.tooltip": {
+    "en": "§7Created in the depths of another world, this set is the embodiment of the power of terror.\nIts spikes and black armor resemble broken fangs.\nWear it if you dare, but know that it demands eternal devotion to the darkness and devours those who attempt to resist it.",
+    "zh": "§7套装效果：力量",
+    "vi": "Hiệu ứng bộ §7: Sức mạnh"
+  },
+  "item.fantasy_armor.dark_lord_leggings.tooltip": {
+    "en": "§7Created in the depths of another world, this set is the embodiment of the power of terror.\nIts spikes and black armor resemble broken fangs.\nWear it if you dare, but know that it demands eternal devotion to the darkness and devours those who attempt to resist it.",
+    "zh": "§7套装效果：力量",
+    "vi": "Hiệu ứng bộ §7: Sức mạnh"
+  },
+  "item.fantasy_armor.dark_lord_boots.tooltip": {
+    "en": "§7Created in the depths of another world, this set is the embodiment of the power of terror.\nIts spikes and black armor resemble broken fangs.\nWear it if you dare, but know that it demands eternal devotion to the darkness and devours those who attempt to resist it.",
+    "zh": "§7套装效果：力量",
+    "vi": "Hiệu ứng bộ §7: Sức mạnh"
+  },
+  "item.fantasy_armor.fog_guard_helmet": {
+    "en": "Fog Guard Helmet",
+    "zh": "迷雾守卫头盔",
+    "vi": "Fog Guard Helmet"
+  },
+  "item.fantasy_armor.fog_guard_chestplate": {
+    "en": "Fog Guard Chestplate",
+    "zh": "迷雾守卫胸甲",
+    "vi": "Fog Guard Chestplate"
+  },
+  "item.fantasy_armor.fog_guard_leggings": {
+    "en": "Fog Guard Leggings",
+    "zh": "迷雾守卫护腿",
+    "vi": "Fog Guard Leggings"
+  },
+  "item.fantasy_armor.fog_guard_boots": {
+    "en": "Fog Guard Boots",
+    "zh": "迷雾守卫靴子",
+    "vi": "Fog Guard Boots"
+  },
+  "item.fantasy_armor.fog_guard_helmet.tooltip": {
+    "en": "§7Shrouded in ancient fog, this armor offers unmatched protection, but weakens its wearer with visions of lost realms.",
+    "zh": "§7套装效果：抗火|水肺|夜视",
+    "vi": "Hiệu ứng bộ §7: Chống cháy|Scuba|Tầm nhìn ban đêm"
+  },
+  "item.fantasy_armor.fog_guard_chestplate.tooltip": {
+    "en": "§7Shrouded in ancient fog, this armor offers unmatched protection, but weakens its wearer with visions of lost realms.",
+    "zh": "§7套装效果：抗火|水肺|夜视",
+    "vi": "Hiệu ứng bộ §7: Chống cháy|Scuba|Tầm nhìn ban đêm"
+  },
+  "item.fantasy_armor.fog_guard_leggings.tooltip": {
+    "en": "§7Shrouded in ancient fog, this armor offers unmatched protection, but weakens its wearer with visions of lost realms.",
+    "zh": "§7套装效果：抗火|水肺|夜视",
+    "vi": "Hiệu ứng bộ §7: Chống cháy|Scuba|Tầm nhìn ban đêm"
+  },
+  "item.fantasy_armor.fog_guard_boots.tooltip": {
+    "en": "§7Shrouded in ancient fog, this armor offers unmatched protection, but weakens its wearer with visions of lost realms.",
+    "zh": "§7套装效果：抗火|水肺|夜视",
+    "vi": "Hiệu ứng bộ §7: Chống cháy|Scuba|Tầm nhìn ban đêm"
+  },
+  "item.fantasy_armor.dark_cover_helmet": {
+    "en": "Dark Cover Helmet",
+    "zh": "暗影庇护者头盔",
+    "vi": "Dark Cover Helmet"
+  },
+  "item.fantasy_armor.dark_cover_chestplate": {
+    "en": "Dark Cover Chestplate",
+    "zh": "暗影庇护者胸甲",
+    "vi": "Dark Cover Chestplate"
+  },
+  "item.fantasy_armor.dark_cover_leggings": {
+    "en": "Dark Cover Leggings",
+    "zh": "暗影庇护者护腿",
+    "vi": "Dark Cover Leggings"
+  },
+  "item.fantasy_armor.dark_cover_boots": {
+    "en": "Dark Cover Boots",
+    "zh": "暗影庇护者靴子",
+    "vi": "Dark Cover Boots"
+  },
+  "item.fantasy_armor.dark_cover_helmet.tooltip": {
+    "en": "§7Enveloping its wearer in shadows, this armor grants protection from light and silence, but whispers forgotten secrets of dark forces.\nWear it, but heed the shadows' warnings.",
+    "zh": "§7套装效果：力量",
+    "vi": "Hiệu ứng bộ §7: Sức mạnh"
+  },
+  "item.fantasy_armor.dark_cover_chestplate.tooltip": {
+    "en": "§7Enveloping its wearer in shadows, this armor grants protection from light and silence, but whispers forgotten secrets of dark forces.\nWear it, but heed the shadows' warnings.",
+    "zh": "§7套装效果：力量",
+    "vi": "Hiệu ứng bộ §7: Sức mạnh"
+  },
+  "item.fantasy_armor.dark_cover_leggings.tooltip": {
+    "en": "§7Enveloping its wearer in shadows, this armor grants protection from light and silence, but whispers forgotten secrets of dark forces.\nWear it, but heed the shadows' warnings.",
+    "zh": "§7套装效果：力量",
+    "vi": "Hiệu ứng bộ §7: Sức mạnh"
+  },
+  "item.fantasy_armor.dark_cover_boots.tooltip": {
+    "en": "§7Enveloping its wearer in shadows, this armor grants protection from light and silence, but whispers forgotten secrets of dark forces.\nWear it, but heed the shadows' warnings.",
+    "zh": "§7套装效果：力量",
+    "vi": "Hiệu ứng bộ §7: Sức mạnh"
+  },
+  "item.fantasy_armor.spark_of_dawn_helmet": {
+    "en": "Spark of Dawn Helmet",
+    "zh": "黎明火花头盔",
+    "vi": "Spark of Dawn Helmet"
+  },
+  "item.fantasy_armor.spark_of_dawn_chestplate": {
+    "en": "Spark of Dawn Chestplate",
+    "zh": "黎明火花胸甲",
+    "vi": "Spark of Dawn Chestplate"
+  },
+  "item.fantasy_armor.spark_of_dawn_leggings": {
+    "en": "Spark of Dawn Leggings",
+    "zh": "黎明火花护腿",
+    "vi": "Spark of Dawn Leggings"
+  },
+  "item.fantasy_armor.spark_of_dawn_boots": {
+    "en": "Spark of Dawn Boots",
+    "zh": "黎明火花靴子",
+    "vi": "Spark of Dawn Boots"
+  },
+  "item.fantasy_armor.spark_of_dawn_helmet.tooltip": {
+    "en": "§7Forged in the first light, this armor carries warmth and brightness, yet burns those not pure of heart.\nOnly the righteous may unlock its true power.",
+    "zh": "§7套装效果：急迫2|生命恢复",
+    "vi": "Hiệu ứng bộ §7: Khẩn cấp 2 | Tái sinh cuộc sống"
+  },
+  "item.fantasy_armor.spark_of_dawn_chestplate.tooltip": {
+    "en": "§7Forged in the first light, this armor carries warmth and brightness, yet burns those not pure of heart.\nOnly the righteous may unlock its true power.",
+    "zh": "§7套装效果：急迫2|生命恢复",
+    "vi": "Hiệu ứng bộ §7: Khẩn cấp 2 | Tái sinh cuộc sống"
+  },
+  "item.fantasy_armor.spark_of_dawn_leggings.tooltip": {
+    "en": "§7Forged in the first light, this armor carries warmth and brightness, yet burns those not pure of heart.\nOnly the righteous may unlock its true power.",
+    "zh": "§7套装效果：急迫2|生命恢复",
+    "vi": "Hiệu ứng bộ §7: Khẩn cấp 2 | Tái sinh cuộc sống"
+  },
+  "item.fantasy_armor.spark_of_dawn_boots.tooltip": {
+    "en": "§7Forged in the first light, this armor carries warmth and brightness, yet burns those not pure of heart.\nOnly the righteous may unlock its true power.",
+    "zh": "§7套装效果：急迫2|生命恢复",
+    "vi": "Hiệu ứng bộ §7: Khẩn cấp 2 | Tái sinh cuộc sống"
+  },
+  "item.fantasy_armor.golden_execution_helmet": {
+    "en": "Golden Execution Helmet",
+    "zh": "金色处决者头盔",
+    "vi": "Golden Execution Helmet"
+  },
+  "item.fantasy_armor.golden_execution_chestplate": {
+    "en": "Golden Execution Chestplate",
+    "zh": "金色处决者胸甲",
+    "vi": "Golden Execution Chestplate"
+  },
+  "item.fantasy_armor.golden_execution_leggings": {
+    "en": "Golden Execution Leggings",
+    "zh": "金色处决者护腿",
+    "vi": "Golden Execution Leggings"
+  },
+  "item.fantasy_armor.golden_execution_boots": {
+    "en": "Golden Execution Boots",
+    "zh": "金色处决者靴子",
+    "vi": "Golden Execution Boots"
+  },
+  "item.fantasy_armor.golden_execution_helmet.tooltip": {
+    "en": "§7Bearing the weight of the empire's wrath, this armor shines golden but is soaked in the blood of the fallen.\nWear it with pride, but never forget its cost.",
+    "zh": "§7套装效果：力量|夜视",
+    "vi": "Hiệu ứng bộ đồ §7: Sức mạnh | Tầm nhìn ban đêm"
+  },
+  "item.fantasy_armor.golden_execution_chestplate.tooltip": {
+    "en": "§7Bearing the weight of the empire's wrath, this armor shines golden but is soaked in the blood of the fallen.\nWear it with pride, but never forget its cost.",
+    "zh": "§7套装效果：力量|夜视",
+    "vi": "Hiệu ứng bộ đồ §7: Sức mạnh | Tầm nhìn ban đêm"
+  },
+  "item.fantasy_armor.golden_execution_leggings.tooltip": {
+    "en": "§7Bearing the weight of the empire's wrath, this armor shines golden but is soaked in the blood of the fallen.\nWear it with pride, but never forget its cost.",
+    "zh": "§7套装效果：力量|夜视",
+    "vi": "Hiệu ứng bộ đồ §7: Sức mạnh | Tầm nhìn ban đêm"
+  },
+  "item.fantasy_armor.golden_execution_boots.tooltip": {
+    "en": "§7Bearing the weight of the empire's wrath, this armor shines golden but is soaked in the blood of the fallen.\nWear it with pride, but never forget its cost.",
+    "zh": "§7套装效果：力量|夜视",
+    "vi": "Hiệu ứng bộ đồ §7: Sức mạnh | Tầm nhìn ban đêm"
+  },
+  "item.fantasy_armor.forgotten_trace_helmet": {
+    "en": "Forgotten Trace Helmet",
+    "zh": "遗忘之迹头盔",
+    "vi": "Forgotten Trace Helmet"
+  },
+  "item.fantasy_armor.forgotten_trace_chestplate": {
+    "en": "Forgotten Trace Chestplate",
+    "zh": "遗忘之迹胸甲",
+    "vi": "Forgotten Trace Chestplate"
+  },
+  "item.fantasy_armor.forgotten_trace_leggings": {
+    "en": "Forgotten Trace Leggings",
+    "zh": "遗忘之迹护腿",
+    "vi": "Forgotten Trace Leggings"
+  },
+  "item.fantasy_armor.forgotten_trace_boots": {
+    "en": "Forgotten Trace Boots",
+    "zh": "遗忘之迹靴子",
+    "vi": "Forgotten Trace Boots"
+  },
+  "item.fantasy_armor.forgotten_trace_helmet.tooltip": {
+    "en": "§7The memory of ancient wars lingers in this armor, haunting the wearer with echoes of battles long lost.\nOnce donned, it marks the wearer as a soul from another age.",
+    "zh": "§7套装效果：抗性2|生命恢复",
+    "vi": "Hiệu ứng bộ §7: Kháng cự 2 | Phục hồi sự sống"
+  },
+  "item.fantasy_armor.forgotten_trace_chestplate.tooltip": {
+    "en": "§7The memory of ancient wars lingers in this armor, haunting the wearer with echoes of battles long lost.\nOnce donned, it marks the wearer as a soul from another age.",
+    "zh": "§7套装效果：抗性2|生命恢复",
+    "vi": "Hiệu ứng bộ §7: Kháng cự 2 | Phục hồi sự sống"
+  },
+  "item.fantasy_armor.forgotten_trace_leggings.tooltip": {
+    "en": "§7The memory of ancient wars lingers in this armor, haunting the wearer with echoes of battles long lost.\nOnce donned, it marks the wearer as a soul from another age.",
+    "zh": "§7套装效果：抗性2|生命恢复",
+    "vi": "Hiệu ứng bộ §7: Kháng cự 2 | Phục hồi sự sống"
+  },
+  "item.fantasy_armor.forgotten_trace_boots.tooltip": {
+    "en": "§7The memory of ancient wars lingers in this armor, haunting the wearer with echoes of battles long lost.\nOnce donned, it marks the wearer as a soul from another age.",
+    "zh": "§7套装效果：抗性2|生命恢复",
+    "vi": "Hiệu ứng bộ §7: Kháng cự 2 | Phục hồi sự sống"
+  },
+  "item.fantasy_armor.redeemer_helmet": {
+    "en": "Redeemer Helmet",
+    "zh": "救赎者头盔",
+    "vi": "Redeemer Helmet"
+  },
+  "item.fantasy_armor.redeemer_chestplate": {
+    "en": "Redeemer Chestplate",
+    "zh": "救赎者胸甲",
+    "vi": "Redeemer Chestplate"
+  },
+  "item.fantasy_armor.redeemer_leggings": {
+    "en": "Redeemer Leggings",
+    "zh": "救赎者护腿",
+    "vi": "Redeemer Leggings"
+  },
+  "item.fantasy_armor.redeemer_boots": {
+    "en": "Redeemer Boots",
+    "zh": "救赎者靴子",
+    "vi": "Redeemer Boots"
+  },
+  "item.fantasy_armor.redeemer_helmet.tooltip": {
+    "en": "§7An armor set created by the old order. \nYour god was slain long ago, but your faith has endured. \nKnowing very well you will likely not return from your quest, you step forward bravely into the unknown.",
+    "zh": "§7套装效果：抗性提升",
+    "vi": "Hiệu ứng trang phục §7: tăng sức đề kháng"
+  },
+  "item.fantasy_armor.redeemer_chestplate.tooltip": {
+    "en": "§7An armor set created by the old order. \nYour god was slain long ago, but your faith has endured. \nKnowing very well you will likely not return from your quest, you step forward bravely into the unknown.",
+    "zh": "§7套装效果：抗性提升",
+    "vi": "Hiệu ứng trang phục §7: tăng sức đề kháng"
+  },
+  "item.fantasy_armor.redeemer_leggings.tooltip": {
+    "en": "§7An armor set created by the old order. \nYour god was slain long ago, but your faith has endured. \nKnowing very well you will likely not return from your quest, you step forward bravely into the unknown.",
+    "zh": "§7套装效果：抗性提升",
+    "vi": "Hiệu ứng trang phục §7: tăng sức đề kháng"
+  },
+  "item.fantasy_armor.redeemer_boots.tooltip": {
+    "en": "§7An armor set created by the old order. \nYour god was slain long ago, but your faith has endured. \nKnowing very well you will likely not return from your quest, you step forward bravely into the unknown.",
+    "zh": "§7套装效果：抗性提升",
+    "vi": "Hiệu ứng trang phục §7: tăng sức đề kháng"
+  },
+  "item.fantasy_armor.twinned_helmet": {
+    "en": "Twinned Helmet",
+    "zh": "双生子头盔",
+    "vi": "Twinned Helmet"
+  },
+  "item.fantasy_armor.twinned_chestplate": {
+    "en": "Twinned Chestplate",
+    "zh": "双生子胸甲",
+    "vi": "Twinned Chestplate"
+  },
+  "item.fantasy_armor.twinned_leggings": {
+    "en": "Twinned Leggings",
+    "zh": "双生子护腿",
+    "vi": "Twinned Leggings"
+  },
+  "item.fantasy_armor.twinned_boots": {
+    "en": "Twinned Boots",
+    "zh": "双生子靴子",
+    "vi": "Twinned Boots"
+  },
+  "item.fantasy_armor.twinned_helmet.tooltip": {
+    "en": "§7Bound to another in spirit, this armor shares both pain and triumph with its twin.\nA shared destiny awaits those who wear the full set.",
+    "zh": "§7套装效果：抗性|急迫",
+    "vi": "Hiệu ứng bộ §7: Kháng cự | khẩn cấp"
+  },
+  "item.fantasy_armor.twinned_chestplate.tooltip": {
+    "en": "§7Bound to another in spirit, this armor shares both pain and triumph with its twin.\nA shared destiny awaits those who wear the full set.",
+    "zh": "§7套装效果：抗性|急迫",
+    "vi": "Hiệu ứng bộ §7: Kháng cự | khẩn cấp"
+  },
+  "item.fantasy_armor.twinned_leggings.tooltip": {
+    "en": "§7Bound to another in spirit, this armor shares both pain and triumph with its twin.\nA shared destiny awaits those who wear the full set.",
+    "zh": "§7套装效果：抗性|急迫",
+    "vi": "Hiệu ứng bộ §7: Kháng cự | khẩn cấp"
+  },
+  "item.fantasy_armor.twinned_boots.tooltip": {
+    "en": "§7Bound to another in spirit, this armor shares both pain and triumph with its twin.\nA shared destiny awaits those who wear the full set.",
+    "zh": "§7套装效果：抗性|急迫",
+    "vi": "Hiệu ứng bộ §7: Kháng cự | khẩn cấp"
+  },
+  "item.fantasy_armor.gilded_hunt_helmet": {
+    "en": "Gilded Hunt Helmet",
+    "zh": "镀金狩猎头盔",
+    "vi": "Gilded Hunt Helmet"
+  },
+  "item.fantasy_armor.gilded_hunt_chestplate": {
+    "en": "Gilded Hunt Chestplate",
+    "zh": "镀金狩猎胸甲",
+    "vi": "Gilded Hunt Chestplate"
+  },
+  "item.fantasy_armor.gilded_hunt_leggings": {
+    "en": "Gilded Hunt Leggings",
+    "zh": "镀金狩猎护腿",
+    "vi": "Gilded Hunt Leggings"
+  },
+  "item.fantasy_armor.gilded_hunt_boots": {
+    "en": "Gilded Hunt Boots",
+    "zh": "镀金狩猎靴子",
+    "vi": "Gilded Hunt Boots"
+  },
+  "item.fantasy_armor.gilded_hunt_helmet.tooltip": {
+    "en": "§7Worn by those who chase honor and glory, this armor reflects the wild ambition of its bearer.\nHunt with it, but beware - glory often has a steep price.",
+    "zh": "§7套装效果：急迫",
+    "vi": "Hiệu ứng cài đặt §7: mức độ khẩn cấp"
+  },
+  "item.fantasy_armor.gilded_hunt_chestplate.tooltip": {
+    "en": "§7Worn by those who chase honor and glory, this armor reflects the wild ambition of its bearer.\nHunt with it, but beware - glory often has a steep price.",
+    "zh": "§7套装效果：急迫",
+    "vi": "Hiệu ứng cài đặt §7: mức độ khẩn cấp"
+  },
+  "item.fantasy_armor.gilded_hunt_leggings.tooltip": {
+    "en": "§7Worn by those who chase honor and glory, this armor reflects the wild ambition of its bearer.\nHunt with it, but beware - glory often has a steep price.",
+    "zh": "§7套装效果：急迫",
+    "vi": "Hiệu ứng cài đặt §7: mức độ khẩn cấp"
+  },
+  "item.fantasy_armor.gilded_hunt_boots.tooltip": {
+    "en": "§7Worn by those who chase honor and glory, this armor reflects the wild ambition of its bearer.\nHunt with it, but beware - glory often has a steep price.",
+    "zh": "§7套装效果：急迫",
+    "vi": "Hiệu ứng cài đặt §7: mức độ khẩn cấp"
+  },
+  "item.fantasy_armor.lady_maria_helmet": {
+    "en": "Lady Maria's Helmet",
+    "zh": "初始头盔α",
+    "vi": "Lady Maria's Helmet"
+  },
+  "item.fantasy_armor.lady_maria_chestplate": {
+    "en": "Lady Maria's Chestplate",
+    "zh": "初始胸甲α",
+    "vi": "Lady Maria's Chestplate"
+  },
+  "item.fantasy_armor.lady_maria_leggings": {
+    "en": "Lady Maria's Leggings",
+    "zh": "初始护腿α",
+    "vi": "Lady Maria's Leggings"
+  },
+  "item.fantasy_armor.lady_maria_boots": {
+    "en": "Lady Maria's Boots",
+    "zh": "初始靴子α",
+    "vi": "Lady Maria's Boots"
+  },
+  "item.fantasy_armor.lady_maria_helmet.tooltip": {
+    "en": "§7A corpse... should be left well alone. \nOh, I know very well. How the secrets beckon so sweetly. \nOnly an honest death will cure you now. \nLiberate you, from your wild curiosity.",
+    "zh": "§7应该让尸体好好安息才对。\n噢，我清楚得很，那些秘密确实令人难以抗拒。 \n看来只有让你安息，才得以治愈你了。\n使你从那失控的好奇心中解脱。",
+    "vi": ""
+  },
+  "item.fantasy_armor.lady_maria_chestplate.tooltip": {
+    "en": "§7A corpse... should be left well alone. \nOh, I know very well. How the secrets beckon so sweetly. \nOnly an honest death will cure you now. \nLiberate you, from your wild curiosity.",
+    "zh": "§7应该让尸体好好安息才对。\n噢，我清楚得很，那些秘密确实令人难以抗拒。 \n看来只有让你安息，才得以治愈你了。\n使你从那失控的好奇心中解脱。",
+    "vi": ""
+  },
+  "item.fantasy_armor.lady_maria_leggings.tooltip": {
+    "en": "§7A corpse... should be left well alone. \nOh, I know very well. How the secrets beckon so sweetly. \nOnly an honest death will cure you now. \nLiberate you, from your wild curiosity.",
+    "zh": "§7应该让尸体好好安息才对。\n噢，我清楚得很，那些秘密确实令人难以抗拒。 \n看来只有让你安息，才得以治愈你了。\n使你从那失控的好奇心中解脱。",
+    "vi": ""
+  },
+  "item.fantasy_armor.lady_maria_boots.tooltip": {
+    "en": "§7A corpse... should be left well alone. \nOh, I know very well. How the secrets beckon so sweetly. \nOnly an honest death will cure you now. \nLiberate you, from your wild curiosity.",
+    "zh": "§7应该让尸体好好安息才对。\n噢，我清楚得很，那些秘密确实令人难以抗拒。 \n看来只有让你安息，才得以治愈你了。\n使你从那失控的好奇心中解脱。",
+    "vi": ""
+  },
+  "item.fantasy_armor.crucible_knight_helmet": {
+    "en": "Crucible Knight Helmet",
+    "zh": "熔炉骑士头盔",
+    "vi": "Crucible Knight Helmet"
+  },
+  "item.fantasy_armor.crucible_knight_chestplate": {
+    "en": "Crucible Knight Chestplate",
+    "zh": "熔炉骑士胸甲",
+    "vi": "Crucible Knight Chestplate"
+  },
+  "item.fantasy_armor.crucible_knight_leggings": {
+    "en": "Crucible Knight Leggings",
+    "zh": "熔炉骑士护腿",
+    "vi": "Crucible Knight Leggings"
+  },
+  "item.fantasy_armor.crucible_knight_boots": {
+    "en": "Crucible Knight Boots",
+    "zh": "熔炉骑士靴子",
+    "vi": "Crucible Knight Boots"
+  },
+  "item.fantasy_armor.crucible_knight_helmet.tooltip": {
+    "en": "§7Hold the power of the crucible of life. \nIn time, the strength shown by these knights, and even their appearance, was seen as chaotic and deserving of scorn.",
+    "zh": "§7套装效果：力量2|抗火",
+    "vi": "Hiệu ứng bộ §7: Sức mạnh 2 | Chống cháy"
+  },
+  "item.fantasy_armor.crucible_knight_chestplate.tooltip": {
+    "en": "§7Hold the power of the crucible of life. \nIn time, the strength shown by these knights, and even their appearance, was seen as chaotic and deserving of scorn.",
+    "zh": "§7套装效果：力量2|抗火",
+    "vi": "Hiệu ứng bộ §7: Sức mạnh 2 | Chống cháy"
+  },
+  "item.fantasy_armor.crucible_knight_leggings.tooltip": {
+    "en": "§7Hold the power of the crucible of life. \nIn time, the strength shown by these knights, and even their appearance, was seen as chaotic and deserving of scorn.",
+    "zh": "§7套装效果：力量2|抗火",
+    "vi": "Hiệu ứng bộ §7: Sức mạnh 2 | Chống cháy"
+  },
+  "item.fantasy_armor.crucible_knight_boots.tooltip": {
+    "en": "§7Hold the power of the crucible of life. \nIn time, the strength shown by these knights, and even their appearance, was seen as chaotic and deserving of scorn.",
+    "zh": "§7套装效果：力量2|抗火",
+    "vi": "Hiệu ứng bộ §7: Sức mạnh 2 | Chống cháy"
+  },
+  "item.fantasy_armor.evening_ghost_helmet": {
+    "en": "Evening Ghost Helmet",
+    "zh": "初始头盔ε",
+    "vi": "Evening Ghost Helmet"
+  },
+  "item.fantasy_armor.evening_ghost_chestplate": {
+    "en": "Evening Ghost Chestplate",
+    "zh": "初始胸甲ε",
+    "vi": "Evening Ghost Chestplate"
+  },
+  "item.fantasy_armor.evening_ghost_leggings": {
+    "en": "Evening Ghost Leggings",
+    "zh": "初始护腿ε",
+    "vi": "Evening Ghost Leggings"
+  },
+  "item.fantasy_armor.evening_ghost_boots": {
+    "en": "Evening Ghost Boots",
+    "zh": "初始靴子ε",
+    "vi": "Evening Ghost Boots"
+  },
+  "item.fantasy_armor.evening_ghost_helmet.tooltip": {
+    "en": "§7Hidden in the night, the shadow knows its place. \nIts steps are silent, but the chill of its presence is felt on the skin.",
+    "zh": "",
+    "vi": ""
+  },
+  "item.fantasy_armor.evening_ghost_chestplate.tooltip": {
+    "en": "§7Hidden in the night, the shadow knows its place. \nIts steps are silent, but the chill of its presence is felt on the skin.",
+    "zh": "",
+    "vi": ""
+  },
+  "item.fantasy_armor.evening_ghost_leggings.tooltip": {
+    "en": "§7Hidden in the night, the shadow knows its place. \nIts steps are silent, but the chill of its presence is felt on the skin.",
+    "zh": "",
+    "vi": ""
+  },
+  "item.fantasy_armor.evening_ghost_boots.tooltip": {
+    "en": "§7Hidden in the night, the shadow knows its place. \nIts steps are silent, but the chill of its presence is felt on the skin.",
+    "zh": "",
+    "vi": ""
+  },
+  "item.fantasy_armor.ronin_helmet": {
+    "en": "Ronin Helmet",
+    "zh": "浪人头盔",
+    "vi": "Ronin Helmet"
+  },
+  "item.fantasy_armor.ronin_chestplate": {
+    "en": "Ronin Chestplate",
+    "zh": "浪人胸甲",
+    "vi": "Ronin Chestplate"
+  },
+  "item.fantasy_armor.ronin_leggings": {
+    "en": "Ronin Leggings",
+    "zh": "浪人护腿",
+    "vi": "Ronin Leggings"
+  },
+  "item.fantasy_armor.ronin_boots": {
+    "en": "Ronin Boots",
+    "zh": "浪人靴子",
+    "vi": "Ronin Boots"
+  },
+  "item.fantasy_armor.ronin_helmet.tooltip": {
+    "en": "§7Steel bears the scars of the past, its patterns soaked with long-cooled blood.",
+    "zh": "§7套装效果：抗性",
+    "vi": "Hiệu ứng bộ §7: Kháng chiến"
+  },
+  "item.fantasy_armor.ronin_chestplate.tooltip": {
+    "en": "§7Steel bears the scars of the past, its patterns soaked with long-cooled blood.",
+    "zh": "§7套装效果：抗性",
+    "vi": "Hiệu ứng bộ §7: Kháng chiến"
+  },
+  "item.fantasy_armor.ronin_leggings.tooltip": {
+    "en": "§7Steel bears the scars of the past, its patterns soaked with long-cooled blood.",
+    "zh": "§7套装效果：抗性",
+    "vi": "Hiệu ứng bộ §7: Kháng chiến"
+  },
+  "item.fantasy_armor.ronin_boots.tooltip": {
+    "en": "§7Steel bears the scars of the past, its patterns soaked with long-cooled blood.",
+    "zh": "§7套装效果：抗性",
+    "vi": "Hiệu ứng bộ §7: Kháng chiến"
+  },
+  "item.fantasy_armor.malenia_helmet": {
+    "en": "Malenia Helmet",
+    "zh": "玛莲妮亚头盔",
+    "vi": "Malenia Helmet"
+  },
+  "item.fantasy_armor.malenia_chestplate": {
+    "en": "Malenia Chestplate",
+    "zh": "玛莲妮亚胸甲",
+    "vi": "Malenia Chestplate"
+  },
+  "item.fantasy_armor.malenia_leggings": {
+    "en": "Malenia Leggings",
+    "zh": "玛莲妮亚护腿",
+    "vi": "Malenia Leggings"
+  },
+  "item.fantasy_armor.malenia_boots": {
+    "en": "Malenia Boots",
+    "zh": "玛莲妮亚靴子",
+    "vi": "Malenia Boots"
+  },
+  "item.fantasy_armor.malenia_helmet.tooltip": {
+    "en": "§7...Heed my words. I am Malenia. Blade of Miquella. And I have never known defeat.",
+    "zh": "§7套装效果：力量|急迫",
+    "vi": "Hiệu ứng bộ §7: Sức mạnh | khẩn cấp"
+  },
+  "item.fantasy_armor.malenia_chestplate.tooltip": {
+    "en": "§7...Heed my words. I am Malenia. Blade of Miquella. And I have never known defeat.",
+    "zh": "§7套装效果：力量|急迫",
+    "vi": "Hiệu ứng bộ §7: Sức mạnh | khẩn cấp"
+  },
+  "item.fantasy_armor.malenia_leggings.tooltip": {
+    "en": "§7...Heed my words. I am Malenia. Blade of Miquella. And I have never known defeat.",
+    "zh": "§7套装效果：力量|急迫",
+    "vi": "Hiệu ứng bộ §7: Sức mạnh | khẩn cấp"
+  },
+  "item.fantasy_armor.malenia_boots.tooltip": {
+    "en": "§7...Heed my words. I am Malenia. Blade of Miquella. And I have never known defeat.",
+    "zh": "§7套装效果：力量|急迫",
+    "vi": "Hiệu ứng bộ §7: Sức mạnh | khẩn cấp"
+  },
+  "item.fantasy_armor.old_knight_helmet": {
+    "en": "Old Knight Helmet",
+    "zh": "初始头盔γ",
+    "vi": "Old Knight Helmet"
+  },
+  "item.fantasy_armor.old_knight_chestplate": {
+    "en": "Old Knight Chestplate",
+    "zh": "初始胸甲γ",
+    "vi": "Old Knight Chestplate"
+  },
+  "item.fantasy_armor.old_knight_leggings": {
+    "en": "Old Knight Leggings",
+    "zh": "初始护腿γ",
+    "vi": "Old Knight Leggings"
+  },
+  "item.fantasy_armor.old_knight_boots": {
+    "en": "Old Knight Boots",
+    "zh": "初始靴子γ",
+    "vi": "Old Knight Boots"
+  },
+  "item.fantasy_armor.old_knight_helmet.tooltip": {
+    "en": "§7A set of armor once worn by a knight who survived countless battles. \nIts weight is unbearable for the weak, but those who endure shall never fall.",
+    "zh": "",
+    "vi": ""
+  },
+  "item.fantasy_armor.old_knight_chestplate.tooltip": {
+    "en": "§7A set of armor once worn by a knight who survived countless battles. \nIts weight is unbearable for the weak, but those who endure shall never fall.",
+    "zh": "",
+    "vi": ""
+  },
+  "item.fantasy_armor.old_knight_leggings.tooltip": {
+    "en": "§7A set of armor once worn by a knight who survived countless battles. \nIts weight is unbearable for the weak, but those who endure shall never fall.",
+    "zh": "",
+    "vi": ""
+  },
+  "item.fantasy_armor.old_knight_boots.tooltip": {
+    "en": "§7A set of armor once worn by a knight who survived countless battles. \nIts weight is unbearable for the weak, but those who endure shall never fall.",
+    "zh": "",
+    "vi": ""
+  },
+  "item.fantasy_armor.silver_knight_helmet": {
+    "en": "Silver Knight Helmet",
+    "zh": "银色骑士头盔",
+    "vi": "Silver Knight Helmet"
+  },
+  "item.fantasy_armor.silver_knight_chestplate": {
+    "en": "Silver Knight Chestplate",
+    "zh": "银色骑士胸甲",
+    "vi": "Silver Knight Chestplate"
+  },
+  "item.fantasy_armor.silver_knight_leggings": {
+    "en": "Silver Knight Leggings",
+    "zh": "银色骑士护腿",
+    "vi": "Silver Knight Leggings"
+  },
+  "item.fantasy_armor.silver_knight_boots": {
+    "en": "Silver Knight Boots",
+    "zh": "银色骑士靴子",
+    "vi": "Silver Knight Boots"
+  },
+  "item.fantasy_armor.silver_knight_helmet.tooltip": {
+    "en": "§7The armor of an elite warrior who never faltered in battle. \nIts silver gleam reflects the moonlight, bringing swift death to those who dare oppose its master.",
+    "zh": " ",
+    "vi": " "
+  },
+  "item.fantasy_armor.silver_knight_chestplate.tooltip": {
+    "en": "§7The armor of an elite warrior who never faltered in battle. \nIts silver gleam reflects the moonlight, bringing swift death to those who dare oppose its master.",
+    "zh": " ",
+    "vi": " "
+  },
+  "item.fantasy_armor.silver_knight_leggings.tooltip": {
+    "en": "§7The armor of an elite warrior who never faltered in battle. \nIts silver gleam reflects the moonlight, bringing swift death to those who dare oppose its master.",
+    "zh": " ",
+    "vi": " "
+  },
+  "item.fantasy_armor.silver_knight_boots.tooltip": {
+    "en": "§7The armor of an elite warrior who never faltered in battle. \nIts silver gleam reflects the moonlight, bringing swift death to those who dare oppose its master.",
+    "zh": " ",
+    "vi": " "
+  },
+  "item.fantasy_armor.dead_gladiator_helmet": {
+    "en": "Dead Gladiator Helmet",
+    "zh": "亡灵角斗士头盔",
+    "vi": "Dead Gladiator Helmet"
+  },
+  "item.fantasy_armor.dead_gladiator_helmet.tooltip": {
+    "en": "§7Armor of a slave fallen in the arena. \nHis name is forgotten, but fury still burns beneath the steel.",
+    "zh": "§7套装效果：抗性|抗火",
+    "vi": "Hiệu ứng bộ §7: Kháng cự | Chống cháy"
+  },
+  "item.fantasy_armor.dead_gladiator_chestplate": {
+    "en": "Dead Gladiator Chestplate",
+    "zh": "亡灵角斗士胸甲",
+    "vi": "Dead Gladiator Chestplate"
+  },
+  "item.fantasy_armor.dead_gladiator_chestplate.tooltip": {
+    "en": "§7Armor of a slave fallen in the arena. \nHis name is forgotten, but fury still burns beneath the steel.",
+    "zh": "§7套装效果：抗性|抗火",
+    "vi": "Hiệu ứng bộ §7: Kháng cự | Chống cháy"
+  },
+  "item.fantasy_armor.dead_gladiator_leggings": {
+    "en": "Dead Gladiator Leggings",
+    "zh": "亡灵角斗士护腿",
+    "vi": "Dead Gladiator Leggings"
+  },
+  "item.fantasy_armor.dead_gladiator_leggings.tooltip": {
+    "en": "§7Armor of a slave fallen in the arena. \nHis name is forgotten, but fury still burns beneath the steel.",
+    "zh": "§7套装效果：抗性|抗火",
+    "vi": "Hiệu ứng bộ §7: Kháng cự | Chống cháy"
+  },
+  "item.fantasy_armor.dead_gladiator_boots": {
+    "en": "Dead Gladiator Boots",
+    "zh": "亡灵角斗士靴子",
+    "vi": "Dead Gladiator Boots"
+  },
+  "item.fantasy_armor.dead_gladiator_boots.tooltip": {
+    "en": "§7Armor of a slave fallen in the arena. \nHis name is forgotten, but fury still burns beneath the steel.",
+    "zh": "§7套装效果：抗性|抗火",
+    "vi": "Hiệu ứng bộ §7: Kháng cự | Chống cháy"
+  },
+  "item.fantasy_armor.flesh_of_the_feaster_helmet": {
+    "en": "Flesh of the Feaster Helmet",
+    "zh": null,
+    "vi": null
+  },
+  "item.fantasy_armor.flesh_of_the_feaster_helmet.tooltip": {
+    "en": "§7This armor reeks of blood and greed. \nIt once belonged to one who fed without end — and became what he consumed.",
+    "zh": null,
+    "vi": null
+  },
+  "item.fantasy_armor.flesh_of_the_feaster_chestplate": {
+    "en": "Flesh of the Feaster Chestplate",
+    "zh": null,
+    "vi": null
+  },
+  "item.fantasy_armor.flesh_of_the_feaster_chestplate.tooltip": {
+    "en": "§7This armor reeks of blood and greed. \nIt once belonged to one who fed without end — and became what he consumed.",
+    "zh": null,
+    "vi": null
+  },
+  "item.fantasy_armor.flesh_of_the_feaster_leggings": {
+    "en": "Flesh of the Feaster Leggings",
+    "zh": null,
+    "vi": null
+  },
+  "item.fantasy_armor.flesh_of_the_feaster_leggings.tooltip": {
+    "en": "§7This armor reeks of blood and greed. \nIt once belonged to one who fed without end — and became what he consumed.",
+    "zh": null,
+    "vi": null
+  },
+  "item.fantasy_armor.flesh_of_the_feaster_boots": {
+    "en": "Flesh of the Feaster Boots",
+    "zh": null,
+    "vi": null
+  },
+  "item.fantasy_armor.flesh_of_the_feaster_boots.tooltip": {
+    "en": "§7This armor reeks of blood and greed. \nIt once belonged to one who fed without end — and became what he consumed.",
+    "zh": null,
+    "vi": null
+  },
+  "item.fantasy_armor.wind_worshipper_helmet": {
+    "en": "Wind Worshipper Helmet",
+    "zh": null,
+    "vi": null
+  },
+  "item.fantasy_armor.wind_worshipper_helmet.tooltip": {
+    "en": "Wind Worshipper fabric is light as breath. \nWorn by those who know no rest, drifting wherever the wind may carry them.",
+    "zh": null,
+    "vi": null
+  },
+  "item.fantasy_armor.wind_worshipper_chestplate": {
+    "en": "§7The Chestplate",
+    "zh": null,
+    "vi": null
+  },
+  "item.fantasy_armor.wind_worshipper_chestplate.tooltip": {
+    "en": "§7The fabric is light as breath. \nWorn by those who know no rest, drifting wherever the wind may carry them.",
+    "zh": null,
+    "vi": null
+  },
+  "item.fantasy_armor.wind_worshipper_leggings": {
+    "en": "Wind Worshipper Leggings",
+    "zh": null,
+    "vi": null
+  },
+  "item.fantasy_armor.wind_worshipper_leggings.tooltip": {
+    "en": "§7The fabric is light as breath. \nWorn by those who know no rest, drifting wherever the wind may carry them.",
+    "zh": null,
+    "vi": null
+  },
+  "item.fantasy_armor.wind_worshipper_boots": {
+    "en": "Wind Worshipper Boots",
+    "zh": null,
+    "vi": null
+  },
+  "item.fantasy_armor.wind_worshipper_boots.tooltip": {
+    "en": "§7The fabric is light as breath. \nWorn by those who know no rest, drifting wherever the wind may carry them.",
+    "zh": null,
+    "vi": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "entity.the_faint_radiance.holy": "圣剑",
+  "effect.the_faint_radiance.penitence": "忏悔",
+  "advancements.blasphemy.title": "亵渎之路",
+  "death.attack.gleam.item": "%1$s 被 %2$s 用 %3$s 送入了安息",
+  "entity.the_faint_radiance.lychnus": "明灯之主",
+  "item.the_faint_radiance.shapeofsin": "罪孽形态",
+  "death.attack.absolute_radiance.player": "%1$s 升入天堂",
+  "death.attack.gleam": "%1$s 陷入了安眠",
+  "item.the_faint_radiance.lychnus_spawn_egg": "明灯之主刷怪蛋",
+  "item.the_faint_radiance.shapeofsin.description_0": "……",
+  "subtitles.choir": "",
+  "entity.the_faint_radiance.radiance": "？",
+  "death.attack.absolute_radiance.item": "%1$s 升入天堂",
+  "subtitles.spread": "",
+  "entity.the_faint_radiance.quake": "震动",
+  "death.attack.absolute_radiance": "%1$s 升入天堂",
+  "death.attack.gleam.player": "%1$s 升入天堂",
+  "advancements.blasphemy.descr": "你能走到终点吗？",
+  "biome.the_faint_radiance.bright": "光明"
+}

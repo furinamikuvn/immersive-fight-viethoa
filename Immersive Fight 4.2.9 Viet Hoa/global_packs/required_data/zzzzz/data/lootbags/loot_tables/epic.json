@@ -1,0 +1,79 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "name": "lootbags:weapon_soul2",
+          "weight": 25
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "lootbags:weapon_soul1",
+          "weight": 25
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "lootbags:egg",
+          "weight": 10
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "lootbags:sworda",
+          "weight": 15
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "lootbags:simply",
+          "weight": 13
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "lootbags:ring",
+          "weight": 30
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "lootbags:paper_high",
+          "weight": 100
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "lootbags:food",
+          "weight": 60
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "lootbags:equip",
+          "weight": 30
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "lootbags:canno",
+          "weight": 30
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "lootbags:cailiao_rare",
+          "weight": 60
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "lootbags:cailiao_more",
+          "weight": 60
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "lootbags:cailiao_common",
+          "weight": 20
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "lootbags:exp",
+          "weight": 40
+        }
+      ]
+    }
+  ]
+}

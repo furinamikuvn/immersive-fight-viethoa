@@ -1,0 +1,17 @@
+{
+  "name": "Sương Vệ (Frost Ward)",
+  "icon": "simplyswords:runic_tablet",
+  "category": "simplyswords:category_rune_etching",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:runic_tablet",
+      "title": "Sương Vệ (Frost Ward)",
+      "text": "Phù văn Sương Vệ triệu hồi hộ vệ băng liên tục bắn cầu tuyết chế ngự kẻ địch xung quanh."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Rất phù hợp cho chiến thuật phòng thủ kiểm soát chiến trường."
+    }
+  ]
+}

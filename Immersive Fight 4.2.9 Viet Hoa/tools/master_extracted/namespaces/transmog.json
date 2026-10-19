@@ -1,0 +1,122 @@
+{
+  "block.transmog.transmogrification_table": {
+    "en": "Transmogrification Table",
+    "zh": "幻化台",
+    "vi": null
+  },
+  "item.transmog.void_fragment": {
+    "en": "Void Fragment",
+    "zh": "虚空碎片",
+    "vi": null
+  },
+  "transmog.config.disable_during_pvp_duration": {
+    "en": "Disable During PvP",
+    "zh": null,
+    "vi": null
+  },
+  "transmog.config.disable_during_pvp_duration.label": {
+    "en": "%d Seconds",
+    "zh": null,
+    "vi": null
+  },
+  "transmog.config.disable_during_pvp_duration.tooltip": {
+    "en": "Temporarily disable rendering transmogs for a set amount of time if you hit or are hit by another player. Set to 0 to ignore PvP.",
+    "zh": null,
+    "vi": null
+  },
+  "transmog.config.render": {
+    "en": "Render Transmogs",
+    "zh": "幻化渲染",
+    "vi": null
+  },
+  "transmog.config.render.everywhere": {
+    "en": "In World & Inventory",
+    "zh": "世界和背包渲染",
+    "vi": null
+  },
+  "transmog.config.render.everywhere.tooltip": {
+    "en": "Render transmogs in world, inventories and the hotbar. Items will look like the item they're transmogrified as even in your inventory (Hidden items will still show up as the original item in the inventory). This might get confusing!",
+    "zh": "同时渲染世界和背包，物品在你的背包里会变化成你所选择的物品（隐藏的物品依然会在背包中显示为未幻化的物品）",
+    "vi": null
+  },
+  "transmog.config.render.in_world": {
+    "en": "In World",
+    "zh": "世界渲染",
+    "vi": null
+  },
+  "transmog.config.render.in_world.tooltip": {
+    "en": "Render transmogs in world only. Items in inventories and the hotbar will look like the original item and only show their transmogrified appearance when held, equipped or otherwise rendered in the world. This is the default option.",
+    "zh": "仅在世界中渲染幻化，物品在背包会显示原样，仅在手持，装备，以及其他方式呈现在世界上",
+    "vi": null
+  },
+  "transmog.config.render.off": {
+    "en": "OFF",
+    "zh": "关闭",
+    "vi": null
+  },
+  "transmog.config.render.off.tooltip": {
+    "en": "Don't render transmogs in world or inventory, this effectively disables the mod on your client, only keeping tooltips in the inventory.",
+    "zh": "禁止世界或背包渲染幻化，仅保留背包里的幻化物品提示",
+    "vi": null
+  },
+  "transmog.config.tooltip": {
+    "en": "Tooltip Detail Level",
+    "zh": null,
+    "vi": null
+  },
+  "transmog.config.tooltip.full": {
+    "en": "Full",
+    "zh": null,
+    "vi": null
+  },
+  "transmog.config.tooltip.full.tooltip": {
+    "en": "Add the original tooltip of the appearance item that an item is transmogrified into to its tooltip. This is the default option.",
+    "zh": null,
+    "vi": null
+  },
+  "transmog.config.tooltip.minimal": {
+    "en": "Minimal",
+    "zh": null,
+    "vi": null
+  },
+  "transmog.config.tooltip.minimal.tooltip": {
+    "en": "Add the name of the appearance item that an item is transmogrified into to its tooltip.",
+    "zh": null,
+    "vi": null
+  },
+  "transmog.config.tooltip.none": {
+    "en": "None",
+    "zh": null,
+    "vi": null
+  },
+  "transmog.config.tooltip.none.tooltip": {
+    "en": "Don't add any info about an item being transmogrified to its tooltip at all.",
+    "zh": null,
+    "vi": null
+  },
+  "transmog.config_title": {
+    "en": "Transmog",
+    "zh": "幻化",
+    "vi": null
+  },
+  "transmog.creative_tab": {
+    "en": "Transmog",
+    "zh": "幻化多端",
+    "vi": null
+  },
+  "transmog.transmog_container": {
+    "en": "Transmogrify",
+    "zh": "幻化台",
+    "vi": null
+  },
+  "transmog.transmog_description": {
+    "en": "Transmogrified to:",
+    "zh": "幻化为：",
+    "vi": null
+  },
+  "transmog.transmog_hidden": {
+    "en": "Hidden Item",
+    "zh": "隐藏物品",
+    "vi": null
+  }
+}

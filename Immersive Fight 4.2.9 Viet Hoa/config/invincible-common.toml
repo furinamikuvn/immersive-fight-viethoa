@@ -1,0 +1,20 @@
+#Thời gian đặt lại chuỗi combo đòn đánh thường
+#Thời gian sau khi kết thúc động tác để tự động đặt lại chuỗi combo đòn đánh thường.
+#Range: > 0
+reset_tick = 16
+#Thời gian lưu trước thao tác nhấn phím, chỉ có hiệu lực ở client
+#Khi hoạt ảnh trước chưa kết thúc, nếu nhấn phím sớm thì sẽ thử lại yêu cầu thực thi trong khoảng thời gian này.
+#Range: > 0
+reserve_tick = 8
+#Thời gian đặt lại phán định đỡ đòn/né tránh thành công
+#Thời gian sau khi đỡ đòn/né tránh thành công để tự động đặt lại combo đòn đánh thường.
+#Range: > 0
+effect_tick = 20
+#Thời gian bảo vệ nhấn giữ. Nếu thời gian nhấn giữ vượt quá thời gian bảo vệ và node không có điều kiện nhấn giữ thì sẽ bỏ qua kích hoạt node.
+#Range: > 0
+press_protect_tick = 110
+#Thời gian nhấn giữ tối đa. Vượt quá thời gian này mà chưa thả phím thì gửi gói tin trực tiếp.
+#Nhà phát triển mã có thể thiết lập thêm trong Builder.
+#Range: > 0
+max_press_tick = 100
+

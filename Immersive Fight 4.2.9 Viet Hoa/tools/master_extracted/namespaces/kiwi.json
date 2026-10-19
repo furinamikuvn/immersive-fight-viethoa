@@ -1,0 +1,352 @@
+{
+  "block.kiwi.first_block": {
+    "en": "First Block",
+    "zh": null,
+    "vi": null
+  },
+  "block.kiwi.tex_block": {
+    "en": "Tex Block",
+    "zh": null,
+    "vi": null
+  },
+  "commands.kiwi.reload.failed": {
+    "en": "Configuration %s is not found or not provided by Kiwi.",
+    "zh": null,
+    "vi": null
+  },
+  "commands.kiwi.reload.success": {
+    "en": "Configuration %s has been reloaded.",
+    "zh": null,
+    "vi": null
+  },
+  "cosmetic.snownee.2020q3": {
+    "en": "Planets",
+    "zh": "行星",
+    "vi": null
+  },
+  "cosmetic.snownee.2020q4": {
+    "en": "Fox",
+    "zh": "狐狸",
+    "vi": null
+  },
+  "cosmetic.snownee.2021q1": {
+    "en": "Electronicat",
+    "zh": null,
+    "vi": null
+  },
+  "cosmetic.snownee.sunny_milk": {
+    "en": "Sunny Milk",
+    "zh": null,
+    "vi": null
+  },
+  "cosmetic.snownee.xmas": {
+    "en": "Santa Hat",
+    "zh": "圣诞帽",
+    "vi": null
+  },
+  "effect.kiwi.first_effect": {
+    "en": "First Effect",
+    "zh": null,
+    "vi": null
+  },
+  "gui.kiwi.builder.convert": {
+    "en": "Convert items",
+    "zh": null,
+    "vi": null
+  },
+  "gui.kiwi.cosmetic": {
+    "en": "Kiwi Cosmetics Screen",
+    "zh": "选择饰品",
+    "vi": null
+  },
+  "gui.kiwi.cosmetic.disabled": {
+    "en": "Keybind Disabled",
+    "zh": null,
+    "vi": null
+  },
+  "gui.kiwi.cosmetic.enabled": {
+    "en": "Keybind Enabled",
+    "zh": null,
+    "vi": null
+  },
+  "item.kiwi.first_item": {
+    "en": "First Item",
+    "zh": null,
+    "vi": null
+  },
+  "item.kiwi.first_item.tip": {
+    "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\n\nUt enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.\n\nExcepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "zh": null,
+    "vi": null
+  },
+  "item.kiwi.first_item.tip.shift": {
+    "en": "§2Curabitur pretium tincidunt lacus. Nulla gravida orci a odio.\n\nNullam varius, turpis et commodo pharetra, est eros bibendum elit, nec luctus magna felis sollicitudin mauris.\n\nInteger in mauris eu nibh euismod gravida.",
+    "zh": null,
+    "vi": null
+  },
+  "item.kiwi.item2": {
+    "en": "Item2",
+    "zh": null,
+    "vi": null
+  },
+  "item.kiwi.item3": {
+    "en": "Item3",
+    "zh": null,
+    "vi": null
+  },
+  "item.kiwi.item4": {
+    "en": "Item4",
+    "zh": null,
+    "vi": null
+  },
+  "item.kiwi.test_item": {
+    "en": "Test Item",
+    "zh": null,
+    "vi": null
+  },
+  "itemGroup.my_mod.items": {
+    "en": "Tab",
+    "zh": null,
+    "vi": null
+  },
+  "key.kiwi.builders_button2": {
+    "en": "Builder's Button",
+    "zh": null,
+    "vi": null
+  },
+  "kiwi.builder_mode.off": {
+    "en": "Builder Mode: §cOFF",
+    "zh": null,
+    "vi": null
+  },
+  "kiwi.builder_mode.on": {
+    "en": "Builder Mode: §aON",
+    "zh": null,
+    "vi": null
+  },
+  "kiwi.config.client": {
+    "en": "Client-side",
+    "zh": null,
+    "vi": null
+  },
+  "kiwi.config.common": {
+    "en": "Common",
+    "zh": null,
+    "vi": null
+  },
+  "kiwi.config.cosmeticScreenKeybind": {
+    "en": "Cosmetic Screen Keybind",
+    "zh": null,
+    "vi": null
+  },
+  "kiwi.config.cosmeticScreenKeybind.desc": {
+    "en": "Opens the Kiwi Cosmetic Screen by holding K, if you have available cosmetics",
+    "zh": null,
+    "vi": null
+  },
+  "kiwi.config.customization": {
+    "en": "Customization",
+    "zh": null,
+    "vi": null
+  },
+  "kiwi.config.customization.disableStonecuttingNamespaces": {
+    "en": "Disable Stonecutting Namespaces",
+    "zh": null,
+    "vi": null
+  },
+  "kiwi.config.customization.disableStonecuttingNamespaces.desc": {
+    "en": "",
+    "zh": null,
+    "vi": null
+  },
+  "kiwi.config.debug": {
+    "en": "Debug",
+    "zh": null,
+    "vi": null
+  },
+  "kiwi.config.debug.F3CopyInInventory": {
+    "en": "F3 Copy In Inventory",
+    "zh": null,
+    "vi": null
+  },
+  "kiwi.config.debug.F3CopyInInventory.desc": {
+    "en": "",
+    "zh": null,
+    "vi": null
+  },
+  "kiwi.config.debug.NBTTooltip": {
+    "en": "NBT Tooltip",
+    "zh": null,
+    "vi": null
+  },
+  "kiwi.config.debug.NBTTooltip.desc": {
+    "en": "Shows item NBT in advanced tooltips (F3+H) while holding shift",
+    "zh": null,
+    "vi": null
+  },
+  "kiwi.config.debug.tagsPerPage": {
+    "en": "Tags Per Page",
+    "zh": null,
+    "vi": null
+  },
+  "kiwi.config.debug.tagsPerPage.desc": {
+    "en": "The number of tags to show per page in advanced tooltips",
+    "zh": null,
+    "vi": null
+  },
+  "kiwi.config.debug.tagsTooltip": {
+    "en": "Tags Tooltip",
+    "zh": null,
+    "vi": null
+  },
+  "kiwi.config.debug.tagsTooltip.desc": {
+    "en": "Shows item tags in advanced tooltips (F3+H)",
+    "zh": null,
+    "vi": null
+  },
+  "kiwi.config.debug.tagsTooltipAppendKeybindHint": {
+    "en": "Tags Tooltip Append Keybind Hint",
+    "zh": null,
+    "vi": null
+  },
+  "kiwi.config.debug.tagsTooltipAppendKeybindHint.desc": {
+    "en": "",
+    "zh": null,
+    "vi": null
+  },
+  "kiwi.config.globalTooltip": {
+    "en": "Global Tooltip",
+    "zh": null,
+    "vi": null
+  },
+  "kiwi.config.globalTooltip.desc": {
+    "en": "Enables the feature to globally add item tooltips",
+    "zh": null,
+    "vi": null
+  },
+  "kiwi.config.kSwitch": {
+    "en": "K Switch",
+    "zh": null,
+    "vi": null
+  },
+  "kiwi.config.kSwitch.creativeOnly": {
+    "en": "Creative Only",
+    "zh": null,
+    "vi": null
+  },
+  "kiwi.config.kSwitch.creativeOnly.desc": {
+    "en": "",
+    "zh": null,
+    "vi": null
+  },
+  "kiwi.config.modules": {
+    "en": "Modules",
+    "zh": null,
+    "vi": null
+  },
+  "kiwi.config.modules.test": {
+    "en": "Test",
+    "zh": null,
+    "vi": null
+  },
+  "kiwi.config.modules.test.desc": {
+    "en": "",
+    "zh": null,
+    "vi": null
+  },
+  "kiwi.config.modules.test2": {
+    "en": "Test2",
+    "zh": null,
+    "vi": null
+  },
+  "kiwi.config.modules.test2.desc": {
+    "en": "",
+    "zh": null,
+    "vi": null
+  },
+  "kiwi.config.noMicrosoftTelemetry": {
+    "en": "No Microsoft Telemetry",
+    "zh": null,
+    "vi": null
+  },
+  "kiwi.config.noMicrosoftTelemetry.desc": {
+    "en": "Disables data collection added by Microsoft Mojang",
+    "zh": null,
+    "vi": null
+  },
+  "kiwi.config.requiresRestart": {
+    "en": "Requires restart",
+    "zh": "需要重启生效",
+    "vi": null
+  },
+  "kiwi.config.server": {
+    "en": "Server-side",
+    "zh": null,
+    "vi": null
+  },
+  "kiwi.config.suppressExperimentalSettingsWarning": {
+    "en": "Suppress Experimental Settings Warning",
+    "zh": null,
+    "vi": null
+  },
+  "kiwi.config.suppressExperimentalSettingsWarning.desc": {
+    "en": "Skips the experimental settings warning screen when joining a world",
+    "zh": null,
+    "vi": null
+  },
+  "kiwi.config.vars": {
+    "en": "Variables",
+    "zh": null,
+    "vi": null
+  },
+  "kiwi.config.vars.desc": {
+    "en": "",
+    "zh": null,
+    "vi": null
+  },
+  "modmenu.descriptionTranslation.kiwi": {
+    "en": "Minecraft modding library",
+    "zh": null,
+    "vi": null
+  },
+  "modmenu.nameTranslation.kiwi": {
+    "en": "Kiwi Library",
+    "zh": null,
+    "vi": null
+  },
+  "msg.kiwi.no_dependencies": {
+    "en": "{1}: Module §e{2}§r requires the following modules to be enabled: §e{3}",
+    "zh": "{1}: 模块 §e{2}§r 需要启用以下依赖模块：§e{3}",
+    "vi": null
+  },
+  "tip.kiwi.click_here": {
+    "en": "[Click Here]",
+    "zh": "[点击这里]",
+    "vi": null
+  },
+  "tip.kiwi.debug_tooltip": {
+    "en": "==========\nThank you for using Kiwi and Snownee's other mods!\nNBT and tags tooltips are active. %s to disable.\nHold Alt key for tag list. While tags are displayed, press Alt / Ctrl+Alt to navigate between pages.\n==========",
+    "zh": "==========\n感谢你使用Kiwi和Snownee的其他模组！\n物品NBT和标签调试气泡提示生效中。%s来禁用。\n按住Alt键展开标签列表。显示标签时，按Alt或Ctrl+Alt键可在页面间导航。\n==========",
+    "vi": null
+  },
+  "tip.kiwi.debug_tooltip.success": {
+    "en": "Debug tooltips have been disabled. You can re-enable them in the configuration.",
+    "zh": "调试气泡提示已禁用。你可以在配置里打开它们。",
+    "vi": null
+  },
+  "tip.kiwi.press_ctrl": {
+    "en": "§r§7<Press §f§oCtrl§r§7..>",
+    "zh": "§r§7<按住§f§oCtrl§r§7..>",
+    "vi": null
+  },
+  "tip.kiwi.press_shift": {
+    "en": "§r§7<Press §f§oShift§r§7..>",
+    "zh": "§r§7<按住§f§oShift§r§7..>",
+    "vi": null
+  },
+  "tip.kiwi.press_shift_or_ctrl": {
+    "en": "§r§7<Press §f§oShift§r§7 or §f§oCtrl§r§7..>",
+    "zh": "§r§7<按住§f§oShift§r§7或§f§oCtrl§r§7..>",
+    "vi": null
+  }
+}

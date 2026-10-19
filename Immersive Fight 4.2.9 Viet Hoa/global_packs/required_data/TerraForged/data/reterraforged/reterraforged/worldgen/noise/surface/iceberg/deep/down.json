@@ -1,0 +1,24 @@
+{
+  "type": "reterraforged:multiply",
+  "input1": {
+    "type": "reterraforged:multiply",
+    "input1": {
+      "type": "reterraforged:multiply",
+      "input1": {
+        "type": "reterraforged:shift",
+        "input": {
+          "type": "reterraforged:perlin_ridge",
+          "frequency": 0.016666668,
+          "gain": 0.975,
+          "interpolation": "CURVE3",
+          "lacunarity": 2.0,
+          "octaves": 3
+        },
+        "shift": 746382637
+      },
+      "input2": "reterraforged:surface/iceberg/deep/mask"
+    },
+    "input2": "reterraforged:surface/iceberg/deep/fade_down"
+  },
+  "input2": 0.1171875
+}

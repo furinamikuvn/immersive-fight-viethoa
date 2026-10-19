@@ -1,0 +1,32 @@
+{
+  "itemGroup.notsoshrimple": "Not So Shrimple",
+
+
+  "entity.notsoshrimple.crayfish": "Crayfish",
+  "entity.notsoshrimple.maneater": "Maneater Shell",
+
+  "item.notsoshrimple.crayfish_spawn_egg": "Crayfish Spawn Egg",
+  "item.notsoshrimple.maneater_spawn_egg": "Maneater Shell Spawn Egg",
+  "item.notsoshrimple.clawbuster": "Clawbuster",
+  "item.notsoshrimple.claw": "Calloused Claw",
+  "item.notsoshrimple.raw_prawn": "Raw Prawn",
+  "item.notsoshrimple.cooked_prawn": "Cooked Prawn",
+  "item.notsoshrimple.smithing_stone": "Smithing Stone",
+  "item.notsoshrimple.somber_stone": "Somber Smithing Stone",
+  "item.notsoshrimple.purging_stone": "Purging Stone",
+
+  "notsoshrimple.sound.subtitle.crayfish_idle": "Dreadful chattering",
+  "notsoshrimple.sound.subtitle.crayfish_attack": "Claw swipe",
+  "notsoshrimple.sound.subtitle.crayfish_hurt": "Crayfish hurt",
+  "notsoshrimple.sound.subtitle.crayfish_death": "Clattering shriek",
+  "notsoshrimple.sound.subtitle.crayfish_scuttle": "Menacing scuttling",
+  "notsoshrimple.sound.subtitle.crayfish_scuttling_0": "Horrid scuttling",
+  "notsoshrimple.sound.subtitle.crayfish_scuttling_1": "Oppressive scuttling",
+  "notsoshrimple.sound.subtitle.crayfish_smashing": "Crayfish smashes claw",
+  "notsoshrimple.sound.subtitle.crayfish_water_blast": "Crayfish shoots water",
+  "notsoshrimple.sound.subtitle.crayfish_ice_blast": "Crayfish shoots ice",
+  "notsoshrimple.sound.subtitle.clawbuster_charged": "Clawbuster charged",
+
+  "durability": "Durability"
+
+}

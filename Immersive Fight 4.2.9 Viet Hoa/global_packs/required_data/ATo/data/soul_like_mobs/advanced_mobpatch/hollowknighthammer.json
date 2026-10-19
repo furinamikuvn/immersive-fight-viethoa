@@ -1,0 +1,153 @@
+{
+    "model": "epicfight:entity/biped",
+    "armature": "epicfight:entity/biped",
+    "renderer": "minecraft:zombie",
+    "isHumanoid": true,
+    "faction": "neutral",
+    "attributes": {
+        "impact": 5.0,
+        "armor_negation": 50.0,
+        "max_strikes": 3,
+        "chasing_speed": 0.6,
+        "max_stamina": 40,
+        "stamina_regan_multiply": 0.0,
+		"stamina_lose_multiply":0.4,
+        "has_stun_reduction":true,
+         "max_stun_shield": 20,
+         "stun_shield_regan_multiply":5,
+         "stun_shield_regan_delay": 5,
+
+                "scale": 1.5
+    },
+    "default_livingmotions": {
+        "idle": "epicfight:biped/living/idle",
+        "walk": "epicfight:biped/living/walk",
+        "chase": "epicfight:biped/living/walk",
+        "mount": "epicfight:biped/living/mount",
+                "fall": "epicfight:biped/living/fall",
+        "death": "epicfight:biped/living/death"
+    },
+    "stun_animations": {
+        "short": "epicfight:biped/combat/hit_short",
+        "long": "epicfight:biped/combat/hit_short",
+        "knockdown": "epicfight:biped/combat/knockdown",
+        "fall": "epicfight:biped/living/landing",
+        "neutralize": "epicfight:biped/skill/guard_break2"
+    },
+"custom_guard_motion": [    
+{ 
+                  "weapon_categories": ["greatsword"], 
+                  "style":"common", 	
+                  "guard": "indestructible:guard/guard_greatsword",  
+		  "stamina_cost_multiply": 0.6, 	  
+		  "can_block_projectile" : true     
+            }
+],
+    "combat_behavior": [
+{
+            "weapon_categories": ["greatsword"],
+            "style": "common",
+            "behavior_series": [
+                {
+					"weight": 80.0,
+					"canBeInterrupted": true,
+					"looping": false,
+					"behaviors": [					
+						{
+							"conditions": [
+								{"predicate":"within_eye_height"}, {"predicate":"within_distance", "min": 0.0, "max": 5.0}
+							],
+							"guard": 40, 			
+							"counter": "indestructible:guard/counter",
+							"counter_cost": 0, 		
+							"counter_chance": 0.5, 			
+							"counter_speed": 1 			
+						}
+                    ]                 
+				},
+{
+                    "weight": 200.0,
+                    "canBeInterrupted": false,
+                    "looping": true,
+                    "behaviors": [
+                        {
+                            "conditions": [
+                                {"predicate":"within_eye_height"}, {"predicate":"within_distance", "min": 0.0, "max": 5.0}, {"predicate":"within_angle_horizontal", "min": 0.0, "max": 180.0}
+                            ],
+                            "animation": "epicfight:biped/combat/greatsword_auto1",
+                                             "stamina": 2,
+			"convert_time": 0.6
+                        },
+                        {
+                            "conditions": [
+                                {"predicate":"within_eye_height"}, {"predicate":"within_distance", "min": 0.0, "max": 4.9}, {"predicate":"within_angle_horizontal", "min": 0.0, "max": 180.0}
+                            ],
+                            "animation": "epicfight:biped/combat/greatsword_auto2",
+                                             "stamina": 2,
+			"convert_time": 0.6
+                        }
+                    ]
+                },
+{
+                    "weight": 100.0,
+                    "canBeInterrupted": false,
+                    "looping": true,
+                    "behaviors": [
+                        {
+                            "conditions": [
+                                {"predicate":"within_eye_height"}, {"predicate":"within_distance", "min": 3.4, "max": 4.9}, {"predicate":"within_angle_horizontal", "min": 0.0, "max": 180.0}
+                            ],
+                            "animation": "epicfight:biped/combat/greatsword_dash",
+                                             "stamina": 2,
+			"convert_time": 0.6
+                        },
+                        {
+                            "animation": "epicfight:biped/combat/greatsword_auto1",
+                                             "stamina": 2,
+			"convert_time": 0.6
+                        },
+                        {
+                            "conditions": [
+                                {"predicate":"within_eye_height"}, {"predicate":"within_distance", "min": 0.0, "max": 4.9}, {"predicate":"within_angle_horizontal", "min": 0.0, "max": 180.0}
+                            ],
+                            "animation": "epicfight:biped/combat/greatsword_auto2",
+                                             "stamina": 2,
+			"convert_time": 0.6
+                        }
+                    ]
+                },
+{
+                    "weight": 100.0,
+                    "canBeInterrupted": false,
+                    "looping": true,
+                    "behaviors": [
+                        {
+                            "conditions": [
+                                {"predicate":"within_eye_height"}, {"predicate":"within_distance", "min": 0.0, "max": 3.4}, {"predicate":"within_angle_horizontal", "min": 0.0, "max": 180.0}, {"predicate":"random_chance", "chance": 0.5}
+                            ],
+                            "animation": "epicfight:biped/combat/greatsword_airslash",
+                                             "stamina": 2,
+			"convert_time": 0.6
+                        }
+                    ]
+                },
+{
+                    "weight": 100.0,
+                    "canBeInterrupted": false,
+                    "looping": true,
+                    "cooldown": 300,
+                    "behaviors": [
+                        {
+                            "conditions": [
+                                {"predicate":"within_eye_height"}, {"predicate":"within_distance", "min": 0.0, "max": 4.5}, {"predicate":"random_chance", "chance": 0.3}
+                            ],
+                            "animation": "epicfight:biped/skill/steel_whirlwind",
+                                             "stamina": 5,
+			"convert_time": 0.6
+                        }
+                    ]
+                }
+              ]
+          }
+   ]
+}

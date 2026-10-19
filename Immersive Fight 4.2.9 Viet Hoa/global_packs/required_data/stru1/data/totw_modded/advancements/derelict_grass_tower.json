@@ -1,0 +1,35 @@
+{
+    "parent": "totw_modded:root",
+    "display": {
+        "icon": {
+            "item": "minecraft:mossy_cobblestone"
+        },
+        "title": {
+            "translate": "Chuyến Đi Về Miền Quê"
+        },
+        "description": {
+            "translate": "Tìm thấy một tòa tháp cổ trong rừng hoặc cánh đồng"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "derelict_grass": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "player": {
+                    "location": {
+                        "structure": "totw_modded:derelict_grass"
+                    }
+                }
+            }
+        }
+    },
+    "requirements": [
+        [
+            "derelict_grass"
+        ]
+    ]
+}

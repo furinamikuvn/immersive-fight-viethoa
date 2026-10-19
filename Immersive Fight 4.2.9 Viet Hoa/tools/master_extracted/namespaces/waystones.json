@@ -1,0 +1,1107 @@
+{
+  "itemGroup.waystones.waystones": {
+    "en": "Waystones",
+    "zh": "传送石碑",
+    "vi": "Trụ dịch chuyển"
+  },
+  "block.waystones.waystone": {
+    "en": "Waystone",
+    "zh": "传送石碑",
+    "vi": "Trụ dịch chuyển"
+  },
+  "block.waystones.mossy_waystone": {
+    "en": "Mossy Waystone",
+    "zh": "传送石碑（苔石）",
+    "vi": "Trụ dịch chuyển đóng rêu"
+  },
+  "block.waystones.sandy_waystone": {
+    "en": "Sandy Waystone",
+    "zh": "传送石碑（砂岩）",
+    "vi": "Trụ dịch chuyển cát"
+  },
+  "block.waystones.sharestone": {
+    "en": "Sharestone",
+    "zh": "共享石碑",
+    "vi": "Đá sẻ chia"
+  },
+  "block.waystones.white_sharestone": {
+    "en": "White Sharestone",
+    "zh": "白色共享石碑",
+    "vi": "Đá sẻ chia Trắng"
+  },
+  "block.waystones.orange_sharestone": {
+    "en": "Orange Sharestone",
+    "zh": "橙色共享石碑",
+    "vi": "Đá sẻ chia Cam"
+  },
+  "block.waystones.magenta_sharestone": {
+    "en": "Magenta Sharestone",
+    "zh": "品红色共享石碑",
+    "vi": "Đá sẻ chia Đỏ sậm"
+  },
+  "block.waystones.light_blue_sharestone": {
+    "en": "Light Blue Sharestone",
+    "zh": "淡蓝色共享石碑",
+    "vi": "Đá sẻ chia Xanh dương nhạt"
+  },
+  "block.waystones.yellow_sharestone": {
+    "en": "Yellow Sharestone",
+    "zh": "黄色共享石碑",
+    "vi": "Đá sẻ chia Vàng"
+  },
+  "block.waystones.lime_sharestone": {
+    "en": "Lime Sharestone",
+    "zh": "黄绿色共享石碑",
+    "vi": "Đá sẻ chia Xanh lá mạ"
+  },
+  "block.waystones.pink_sharestone": {
+    "en": "Pink Sharestone",
+    "zh": "粉色共享石碑",
+    "vi": "Đá sẻ chia Hồng"
+  },
+  "block.waystones.gray_sharestone": {
+    "en": "Gray Sharestone",
+    "zh": "灰色共享石碑",
+    "vi": "Đá sẻ chia Xám"
+  },
+  "block.waystones.light_gray_sharestone": {
+    "en": "Light Gray Sharestone",
+    "zh": "淡灰色共享石碑",
+    "vi": "Đá sẻ chia Xám nhạt"
+  },
+  "block.waystones.cyan_sharestone": {
+    "en": "Cyan Sharestone",
+    "zh": "青色共享石碑",
+    "vi": "Đá sẻ chia Lục lam"
+  },
+  "block.waystones.purple_sharestone": {
+    "en": "Purple Sharestone",
+    "zh": "紫色共享石碑",
+    "vi": "Đá sẻ chia Tím"
+  },
+  "block.waystones.blue_sharestone": {
+    "en": "Blue Sharestone",
+    "zh": "蓝色共享石碑",
+    "vi": "Đá sẻ chia Xanh dương"
+  },
+  "block.waystones.brown_sharestone": {
+    "en": "Brown Sharestone",
+    "zh": "棕色共享石碑",
+    "vi": "Đá sẻ chia Nâu"
+  },
+  "block.waystones.green_sharestone": {
+    "en": "Green Sharestone",
+    "zh": "绿色共享石碑",
+    "vi": "Đá sẻ chia Xanh lá"
+  },
+  "block.waystones.red_sharestone": {
+    "en": "Red Sharestone",
+    "zh": "红色共享石碑",
+    "vi": "Đá sẻ chia Đỏ"
+  },
+  "block.waystones.black_sharestone": {
+    "en": "Black Sharestone",
+    "zh": "黑色共享石碑",
+    "vi": "Đá sẻ chia Đen"
+  },
+  "block.waystones.warp_plate": {
+    "en": "Warp Plate",
+    "zh": "传送石板",
+    "vi": "Đĩa dịch chuyển"
+  },
+  "block.waystones.portstone": {
+    "en": "Portstone",
+    "zh": "单向传送石碑",
+    "vi": "Bến dịch chuyển"
+  },
+  "item.waystones.warp_scroll": {
+    "en": "Warp Scroll",
+    "zh": "传送卷轴",
+    "vi": "Cuộn giấy dịch chuyển"
+  },
+  "item.waystones.warp_scroll_bound": {
+    "en": "Warp Scroll (Bound)",
+    "zh": "传送卷轴（已绑定）",
+    "vi": "Cuộn giấy dịch chuyển (ràng buộc)"
+  },
+  "item.waystones.return_scroll": {
+    "en": "Return Scroll",
+    "zh": "返回卷轴",
+    "vi": "Cuộn giấy dịch chuyển về"
+  },
+  "item.waystones.warp_stone": {
+    "en": "Warp Stone",
+    "zh": "传送石",
+    "vi": "Đá dịch chuyển"
+  },
+  "item.waystones.bound_scroll": {
+    "en": "Bound Scroll",
+    "zh": "绑定卷轴",
+    "vi": "Cuộn giấy dịch chuyển đã xác định điểm đến"
+  },
+  "item.waystones.warp_dust": {
+    "en": "Warp Dust",
+    "zh": "传送粉",
+    "vi": "Bụi dịch chuyển"
+  },
+  "item.waystones.attuned_shard": {
+    "en": "Attuned Shard",
+    "zh": "共鸣碎片",
+    "vi": "Mảnh vỡ biến tính"
+  },
+  "container.waystones.waystone_selection": {
+    "en": "Select your destination:",
+    "zh": "选择目的地：",
+    "vi": "Chọn điểm đến của bạn:"
+  },
+  "container.waystones.waystone_settings": {
+    "en": "Enter waystone name:",
+    "zh": "为石碑命名：",
+    "vi": "Nhập tên điểm dịch chuyển:"
+  },
+  "container.waystones.warp_plate": {
+    "en": "Warp Plate",
+    "zh": "传送石板",
+    "vi": "Đĩa dịch chuyển"
+  },
+  "gui.waystones.waystone_selection.next_page": {
+    "en": "Next",
+    "zh": "下一页",
+    "vi": "Tiếp"
+  },
+  "gui.waystones.waystone_selection.previous_page": {
+    "en": "Previous",
+    "zh": "上一页",
+    "vi": "Trước"
+  },
+  "gui.waystones.waystone_selection.current_location": {
+    "en": "Current Location:",
+    "zh": "当前位置：",
+    "vi": "Vị trí hiện tại:"
+  },
+  "gui.waystones.waystone_selection.unnamed_waystone": {
+    "en": "<unnamed>",
+    "zh": "<未命名>",
+    "vi": "<Chưa đặt tên>"
+  },
+  "gui.waystones.waystone_selection.hold_shift_to_delete": {
+    "en": "Hold shift and click to delete",
+    "zh": "按住Shift才能删除",
+    "vi": "Giữ phím shift và nhấn chuột để xóa"
+  },
+  "gui.waystones.waystone_selection.click_to_delete": {
+    "en": "Click to delete",
+    "zh": "点击删除",
+    "vi": "Bấm để xóa"
+  },
+  "gui.waystones.waystone_selection.deleting_global_for_all": {
+    "en": "This will remove the global waystone for everyone.",
+    "zh": "这会让传送石碑不再对其他玩家可见。",
+    "vi": "Thao tác này sẽ xóa điểm dịch chuyển chung cho tất cả mọi người."
+  },
+  "gui.waystones.waystone_selection.no_waystones_activated": {
+    "en": "You have not activated any waystones yet.",
+    "zh": "未激活任何传送石碑。",
+    "vi": "Bạn chưa kích hoạt bất kỳ trụ dịch chuyển nào."
+  },
+  "gui.waystones.waystone_selection.level_requirement": {
+    "en": "Level Requirement: %d",
+    "zh": "需要经验等级：%d",
+    "vi": "Cấp độ yêu cầu: %d"
+  },
+  "gui.waystones.waystone_settings.is_global": {
+    "en": "is Global",
+    "zh": "其他玩家可见",
+    "vi": "Điểm dịch chuyển chung"
+  },
+  "gui.waystones.inventory.no_waystones_activated": {
+    "en": "You have not activated any waystones yet.",
+    "zh": "你还没有激活过的传送石碑。",
+    "vi": "Bạn chưa kích hoạt bất kỳ trụ dịch chuyển nào."
+  },
+  "gui.waystones.inventory.confirm_return": {
+    "en": "Do you really want to warp back to this waystone?",
+    "zh": "确定要返回该传送石碑吗？",
+    "vi": "Bạn có thực sự muốn quay trở lại trụ dịch chuyển này không?"
+  },
+  "gui.waystones.inventory.confirm_return_bound_to": {
+    "en": "Bound to: %s",
+    "zh": "绑定到：%s",
+    "vi": "Điểm đến: %s"
+  },
+  "gui.waystones.inventory.return_to_waystone": {
+    "en": "Return to Waystone ...",
+    "zh": "返回传送石碑……",
+    "vi": "Trở về Trụ dịch chuyển..."
+  },
+  "gui.waystones.inventory.return_to_nearest_waystone": {
+    "en": "Return to Nearest Waystone",
+    "zh": "返回到最近的传送石碑",
+    "vi": "Trở về Trụ dịch chuyển gần nhất"
+  },
+  "chat.waystones.waystone_activated": {
+    "en": "Activated Waystone: %s",
+    "zh": "已激活的传送石碑：%s",
+    "vi": "Trụ dịch chuyển đã kích hoạt: %s"
+  },
+  "chat.waystones.scroll_bound": {
+    "en": "Scroll bound: %s",
+    "zh": "卷轴绑定：%s",
+    "vi": "Đặt điểm dịch chuyển thành: %s"
+  },
+  "chat.waystones.scroll_not_yet_bound": {
+    "en": "This scroll is not bound to a waystone.",
+    "zh": "该卷轴未绑定到任何传送石碑。",
+    "vi": "Cuộn giấy này chưa được kết nối với bất kỳ trụ dịch chuyển nào."
+  },
+  "chat.waystones.cannot_dimension_warp": {
+    "en": "You cannot warp between these worlds.",
+    "zh": "无法传送到该维度。",
+    "vi": "Bạn không thể dịch chuyển giữa những thế giới này."
+  },
+  "chat.waystones.waystone_missing": {
+    "en": "The waystone you tried to teleport to is currently being moved or has gone missing.",
+    "zh": "要传送的传送石碑已被移走或消失了。",
+    "vi": "Trụ dịch chuyển mà bạn đang cố gắng dịch chuyển đến hiện đang được di dời hoặc đã bị mất."
+  },
+  "chat.waystones.cannot_transport_leashed": {
+    "en": "You cannot take leashed mobs with you",
+    "zh": "无法拴着生物传送",
+    "vi": "Bạn không thể mang theo sinh vật đang bị buộc dây"
+  },
+  "chat.waystones.cannot_transport_leashed_dimensional": {
+    "en": "You cannot take leashed mobs with you between worlds",
+    "zh": "无法拴着生物跨越维度传送",
+    "vi": "Bạn không thể mang theo sinh vật đang bị buộc dây giữa các thế giới"
+  },
+  "chat.waystones.cannot_transport_this_leashed": {
+    "en": "You cannot take this mob with you",
+    "zh": "无法带走这个生物",
+    "vi": "Bạn không thể mang theo sinh vật này"
+  },
+  "chat.waystones.warpstone_not_charged": {
+    "en": "The Warp Stone is not fully charged yet.",
+    "zh": "传送石未完全充能。",
+    "vi": "Đá dịch chuyển vẫn chưa được sạc đầy."
+  },
+  "chat.waystones.only_owner_can_edit": {
+    "en": "Waystones can only be renamed by whoever placed them.",
+    "zh": "只有石碑放置者才能修改名称。",
+    "vi": "Các trụ dịch chuyển chỉ có thể được đổi tên bởi người đã đặt chúng."
+  },
+  "chat.waystones.only_creative_can_edit": {
+    "en": "You have to be in creative mode to edit a global waystone.",
+    "zh": "在创造模式下才能创建其他玩家可见的石碑。",
+    "vi": "Bạn phải ở chế độ sáng tạo để chỉnh sửa trụ dịch chuyển chung."
+  },
+  "chat.waystones.waystone_to_waystone_disabled": {
+    "en": "You touch the waystone, but nothing happens.",
+    "zh": "你触摸了石碑，但是好像什么都没发生……",
+    "vi": "Bạn chạm vào trụ dịch chuyển, nhưng không có gì xảy ra."
+  },
+  "chat.waystones.warp_plate_has_no_target": {
+    "en": "This warp plate is not bound to another warp plate yet.",
+    "zh": "这个传送石板还没有绑定到另一个传送石板。",
+    "vi": "Đĩa dịch chuyển này chưa được liên kết với đĩa dịch chuyển khác."
+  },
+  "chat.waystones.warp_plate_has_invalid_target": {
+    "en": "The shard inside this warp plate has lost its attunement.",
+    "zh": "这个传送石板内的碎片已经无法继续共鸣。",
+    "vi": "Mảnh vỡ bên trong đĩa dịch chuyển này đã mất đi năng lượng của nó."
+  },
+  "tooltip.waystones.cooldown_left": {
+    "en": "Cooldown: %d seconds",
+    "zh": "冷却时间：%d秒",
+    "vi": "Đang hồi: %d giây"
+  },
+  "tooltip.waystones.bound_to": {
+    "en": "Bound to: %s",
+    "zh": "绑定到：%s",
+    "vi": "Đang kết nối với: %s"
+  },
+  "tooltip.waystones.bound_to_none": {
+    "en": "None",
+    "zh": "无",
+    "vi": "Không có nơi nào"
+  },
+  "tooltip.waystones.portstone": {
+    "en": "Can not be teleported to.",
+    "zh": "无法作为传送目标。",
+    "vi": "Không thể dịch chuyển đến."
+  },
+  "tooltip.waystones.sharestone": {
+    "en": "Teleport to any other colorless Sharestone",
+    "zh": "传送到其他任意的原色共享石碑",
+    "vi": "Dịch chuyển đến bất kỳ đá sẻ chia không màu khác"
+  },
+  "tooltip.waystones.white_sharestone": {
+    "en": "Teleport to any other White Sharestone",
+    "zh": "传送到其他任意的白色共享石碑",
+    "vi": "Dịch chuyển đến bất kỳ đá sẻ chia trắng khác"
+  },
+  "tooltip.waystones.orange_sharestone": {
+    "en": "Teleport to any other Orange Sharestone",
+    "zh": "传送到其他任意的橙色共享石碑",
+    "vi": "Dịch chuyển đến bất kỳ đá sẻ chia màu cam khác"
+  },
+  "tooltip.waystones.magenta_sharestone": {
+    "en": "Teleport to any other Magenta Sharestone",
+    "zh": "传送到其他任意的品红色共享石碑",
+    "vi": "Dịch chuyển đến bất kỳ đá sẻ chia đỏ sậm khác"
+  },
+  "tooltip.waystones.light_blue_sharestone": {
+    "en": "Teleport to any other Light Blue Sharestone",
+    "zh": "传送到其他任意的淡蓝色共享石碑",
+    "vi": "Dịch chuyển đến bất kỳ đá sẻ chia xanh dương nhạt khác"
+  },
+  "tooltip.waystones.yellow_sharestone": {
+    "en": "Teleport to any other Yellow Sharestone",
+    "zh": "传送到其他任意的黄色共享石碑",
+    "vi": "Dịch chuyển đến bất kỳ đá sẻ chia màu vàng khác"
+  },
+  "tooltip.waystones.lime_sharestone": {
+    "en": "Teleport to any other Lime Sharestone",
+    "zh": "传送到其他任意的黄绿色共享石碑",
+    "vi": "Dịch chuyển đến bất kỳ đá sẻ chia xanh lá mạ khác"
+  },
+  "tooltip.waystones.pink_sharestone": {
+    "en": "Teleport to any other Pink Sharestone",
+    "zh": "传送到其他任意的粉色共享石碑",
+    "vi": "Dịch chuyển đến bất kỳ đá sẻ chia hồng khác"
+  },
+  "tooltip.waystones.gray_sharestone": {
+    "en": "Teleport to any other Gray Sharestone",
+    "zh": "传送到其他任意的灰色共享石碑",
+    "vi": "Dịch chuyển đến bất kỳ đá sẻ chia màu xám khác"
+  },
+  "tooltip.waystones.light_gray_sharestone": {
+    "en": "Teleport to any other Light Gray Sharestone",
+    "zh": "传送到其他任意的淡灰色共享石碑",
+    "vi": "Dịch chuyển đến bất kỳ đá sẻ chia xám nhạt khác"
+  },
+  "tooltip.waystones.cyan_sharestone": {
+    "en": "Teleport to any other Cyan Sharestone",
+    "zh": "传送到其他任意的青色共享石碑",
+    "vi": "Dịch chuyển đến bất kỳ đá sẻ chia màu lục lam khác"
+  },
+  "tooltip.waystones.purple_sharestone": {
+    "en": "Teleport to any other Purple Sharestone",
+    "zh": "传送到其他任意的紫色共享石碑",
+    "vi": "Dịch chuyển đến bất kỳ đá sẻ chia màu tím khác"
+  },
+  "tooltip.waystones.blue_sharestone": {
+    "en": "Teleport to any other Blue Sharestone",
+    "zh": "传送到其他任意的蓝色共享石碑",
+    "vi": "Dịch chuyển đến bất kỳ đá sẻ chia xanh dương khác"
+  },
+  "tooltip.waystones.brown_sharestone": {
+    "en": "Teleport to any other Brown Sharestone",
+    "zh": "传送到其他任意的棕色共享石碑",
+    "vi": "Dịch chuyển đến bất kỳ đá sẻ chia nâu khác"
+  },
+  "tooltip.waystones.green_sharestone": {
+    "en": "Teleport to any other Green Sharestone",
+    "zh": "传送到其他任意的绿色共享石碑",
+    "vi": "Dịch chuyển đến bất kỳ đá sẻ chia xanh lá khác"
+  },
+  "tooltip.waystones.red_sharestone": {
+    "en": "Teleport to any other Red Sharestone",
+    "zh": "传送到其他任意的红色共享石碑",
+    "vi": "Dịch chuyển đến bất kỳ đá sẻ chia đỏ khác"
+  },
+  "tooltip.waystones.black_sharestone": {
+    "en": "Teleport to any other Black Sharestone",
+    "zh": "传送到其他任意的黑色共享石碑",
+    "vi": "Dịch chuyển đến bất kỳ đá sẻ chia đen khác"
+  },
+  "tooltip.waystones.attuned_shard.move_to_other_warp_plate": {
+    "en": "Bring this shard to another warp plate.",
+    "zh": "将这块碎片带给另一块传送石板。",
+    "vi": "Mang mảnh này sang một đĩa dịch chuyển khác khác."
+  },
+  "tooltip.waystones.attuned_shard.plug_into_warp_plate": {
+    "en": "Insert this shard into a warp plate.",
+    "zh": "将这块碎片插到一块传送石板内。",
+    "vi": "Đặt mảnh này vào một đĩa dịch chuyển."
+  },
+  "tooltip.waystones.attuned_shard.attunement_lost": {
+    "en": "This shard has lost its attunement.",
+    "zh": "这块碎片已经无法继续共鸣。",
+    "vi": "Mảnh vỡ này đã mất đi năng lượng của nó.."
+  },
+  "tooltip.waystones.not_enough_xp": {
+    "en": "Not enough experience! (%d levels needed)",
+    "zh": "没有足够的经验！（需要 %d 级经验）",
+    "vi": "Không đủ kinh nghiệm! (Cần %d cấp)"
+  },
+  "tooltip.waystones.undiscovered": {
+    "en": "Undiscovered",
+    "zh": "未被发现",
+    "vi": "Chưa được khám phá"
+  },
+  "stat.waystones.waystone_activated": {
+    "en": "Waystones Activated",
+    "zh": "传送石碑已激活",
+    "vi": "Trụ dịch chuyển đã được kích hoạt"
+  },
+  "waystones:warp_plate": {
+    "en": "Warp Plate",
+    "zh": "传送石板",
+    "vi": "Đĩa dịch chuyển"
+  },
+  "config.waystones.title": {
+    "en": "Waystones",
+    "zh": "传送石碑",
+    "vi": "Trụ dịch chuyển"
+  },
+  "config.waystones.xpCost": {
+    "en": "XP Cost Options",
+    "zh": "所需经验",
+    "vi": "Tùy chọn phí XP"
+  },
+  "config.waystones.xpCost.inverseXpCost": {
+    "en": "Inverse XP Cost",
+    "zh": "返还经验",
+    "vi": "Phí XP nghịch đảo"
+  },
+  "config.waystones.xpCost.blocksPerXpLevel": {
+    "en": "Blocks per XP Level",
+    "zh": "每级经验可传送方块",
+    "vi": "Khối trên mỗi cấp XP"
+  },
+  "config.waystones.xpCost.minimumBaseXpCost": {
+    "en": "Minimum Base XP Cost",
+    "zh": "最小基础经验消耗",
+    "vi": "Phí XP cơ bản tối thiểu"
+  },
+  "config.waystones.xpCost.maximumBaseXpCost": {
+    "en": "Maximum Base XP Cost",
+    "zh": "最大基础经验消耗",
+    "vi": "Phí XP cơ bản tối đa"
+  },
+  "config.waystones.xpCost.xpCostPerLeashed": {
+    "en": "XP Cost per Leashed",
+    "zh": "每个栓绳花费经验",
+    "vi": "Phí XP cho mỗi dây buộc"
+  },
+  "config.waystones.xpCost.dimensionalWarpXpCost": {
+    "en": "Dimensional Warp XP Cost",
+    "zh": "跨纬度传送经验花费",
+    "vi": "Phí XP mỗi chiều không gian"
+  },
+  "config.waystones.xpCost.globalWaystoneXpCostMultiplier": {
+    "en": "Global Waystone XP Cost Multiplier",
+    "zh": "全局传送石碑经验花费倍率",
+    "vi": "Nhân phí XP toàn bộ trụ dịch chuyển"
+  },
+  "config.waystones.xpCost.warpStoneXpCostMultiplier": {
+    "en": "Warp Stone XP Cost Multiplier",
+    "zh": "传送石经验花费倍率",
+    "vi": "Nhân phí XP đá dịch chuyển"
+  },
+  "config.waystones.xpCost.sharestoneXpCostMultiplier": {
+    "en": "Sharestone XP Cost Multiplier",
+    "zh": "共享石碑经验花费倍率",
+    "vi": "Nhân phí XP đá sẻ chia"
+  },
+  "config.waystones.xpCost.waystoneXpCostMultiplier": {
+    "en": "Waystone XP Cost Multiplier",
+    "zh": "传送石碑经验花费倍率",
+    "vi": "Nhân phí XP trụ dịch chuyển"
+  },
+  "config.waystones.xpCost.portstoneXpCostMultiplier": {
+    "en": "Portstone XP Cost Multiplier",
+    "zh": "单向传送石碑经验花费倍率",
+    "vi": "Nhân phí XP bến dịch chuyển"
+  },
+  "config.waystones.xpCost.warpPlateXpCostMultiplier": {
+    "en": "Warp Plate XP Cost Multiplier",
+    "zh": "传送石板经验花费倍率",
+    "vi": "Nhân phí XP đĩa dịch chuyển"
+  },
+  "config.waystones.xpCost.inventoryButtonXpCostMultiplier": {
+    "en": "Inventory Button XP Cost Multiplier",
+    "zh": "背包按钮经验花费倍率",
+    "vi": "Nhân phí XP nút túi đồ"
+  },
+  "config.waystones.restrictions": {
+    "en": "Restrictions",
+    "zh": "限制",
+    "vi": "Những hạn chế"
+  },
+  "config.waystones.restrictions.restrictToCreative": {
+    "en": "Restrict to Creative Mode",
+    "zh": "限制创造模式",
+    "vi": "Hạn chế ở chế độ sáng tạo"
+  },
+  "config.waystones.restrictions.restrictRenameToOwner": {
+    "en": "Restrict Rename to Owner",
+    "zh": "限制重命名为所有者",
+    "vi": "Hạn chế đổi tên thành chủ sở hữu"
+  },
+  "config.waystones.restrictions.generatedWaystonesUnbreakable": {
+    "en": "Generated Waystones Unbreakable",
+    "zh": "生成无法破坏的传送石碑",
+    "vi": "Trụ dịch chuyển đã tạo không thể bị phá vỡ"
+  },
+  "config.waystones.restrictions.transportLeashed": {
+    "en": "Transport Leashed",
+    "zh": "栓绳传送",
+    "vi": "Vận chuyển dây buộc"
+  },
+  "config.waystones.restrictions.transportLeashedDimensional": {
+    "en": "Transport Leashed Dimensional",
+    "zh": "跨纬度栓绳传送",
+    "vi": "Vận chuyển dây buộc qua các chiều không hian"
+  },
+  "config.waystones.restrictions.leashedDenyList": {
+    "en": "Leashed Deny List",
+    "zh": "栓绳传送黑名单",
+    "vi": "Danh sách từ chối dây buộc"
+  },
+  "config.waystones.restrictions.dimensionalWarp": {
+    "en": "Dimensional Warp",
+    "zh": "跨纬度传送",
+    "vi": "Dịch chuyển qua các chiều không gian"
+  },
+  "config.waystones.restrictions.dimensionalWarpAllowList": {
+    "en": "Dimensional Warp Allow List",
+    "zh": "跨纬度传送白名单",
+    "vi": "Danh sách chiều không gian đc phép"
+  },
+  "config.waystones.restrictions.dimensionalWarpDenyList": {
+    "en": "Dimensional Warp Deny List",
+    "zh": "跨纬度传送黑名单",
+    "vi": "Danh sách chiều không gian cấm dịch chuyển"
+  },
+  "config.waystones.restrictions.allowWaystoneToWaystoneTeleport": {
+    "en": "Allow Waystone to Waystone Teleport",
+    "zh": "允许传送石碑到传送石碑传送",
+    "vi": "Cho phép dịch chuyển nhanh giữa các trụ"
+  },
+  "config.waystones.restrictions.globalWaystoneSetupRequiresCreativeMode": {
+    "en": "Global Waystone Setup Requires Creative Mode",
+    "zh": "全局传送石碑设置需要创造模式",
+    "vi": "Thiết lập trụ dịch chuyển toàn cầu yêu cầu chế độ sáng tạo"
+  },
+  "config.waystones.cooldowns": {
+    "en": "Cooldowns",
+    "zh": "冷却",
+    "vi": "Đang hồi"
+  },
+  "config.waystones.cooldowns.globalWaystoneCooldownMultiplier": {
+    "en": "Global Waystone Cooldown Multiplier",
+    "zh": "全局冷却时间倍率",
+    "vi": "Nhân tố hồi cho trụ dịch chuyển toàn cầu"
+  },
+  "config.waystones.cooldowns.warpStoneCooldown": {
+    "en": "Warp Stone Cooldown",
+    "zh": "传送石冷却",
+    "vi": "Hồi đá dịch chuyển"
+  },
+  "config.waystones.cooldowns.warpStoneUseTime": {
+    "en": "Warp Stone Charge Time",
+    "zh": "传送石充能时间",
+    "vi": "Thời gian hồi của đá dịch chuyển"
+  },
+  "config.waystones.cooldowns.scrollUseTime": {
+    "en": "Scroll Charge Time",
+    "zh": "卷轴充能时间",
+    "vi": "Thời gian tái sử dụng cuộn giấy"
+  },
+  "config.waystones.cooldowns.warpPlateUseTime": {
+    "en": "Warp Plate Charge Time",
+    "zh": "传送石板充能时间",
+    "vi": "Thời gian hồi đĩa dịch chuyển"
+  },
+  "config.waystones.cooldowns.inventoryButtonCooldown": {
+    "en": "Inventory Button Cooldown",
+    "zh": "背包按钮冷却时间",
+    "vi": "Thời gian hồi nút túi đồ"
+  },
+  "config.waystones.inventoryButton": {
+    "en": "Inventory Button",
+    "zh": "背包按钮",
+    "vi": "Nút túi đồ"
+  },
+  "config.waystones.inventoryButton.inventoryButton": {
+    "en": "Inventory Button Mode",
+    "zh": "背包按钮模式",
+    "vi": "Chế độ nút túi đồ"
+  },
+  "config.waystones.inventoryButton.warpButtonX": {
+    "en": "Warp Button X Position",
+    "zh": "传送按钮X位置",
+    "vi": "Nút dịch chuyển vị trí X"
+  },
+  "config.waystones.inventoryButton.warpButtonY": {
+    "en": "Warp Button Y Position",
+    "zh": "传送按钮Y位置",
+    "vi": "Nút dịch chuyển vị trí Y"
+  },
+  "config.waystones.inventoryButton.creativeWarpButtonX": {
+    "en": "Creative Mode Warp Button X Position",
+    "zh": "创造模式传送按钮X位置",
+    "vi": "Nút dịch chuyển vị trí X chế độ sáng tạo"
+  },
+  "config.waystones.inventoryButton.creativeWarpButtonY": {
+    "en": "Creative Mode Warp Button Y Position",
+    "zh": "创造模式传送按钮Y位置",
+    "vi": "Nút dịch chuyển vị trí Y chế độ sáng tạo"
+  },
+  "config.waystones.worldGen": {
+    "en": "World Generation",
+    "zh": "世界生成",
+    "vi": "Thế hệ thế giới"
+  },
+  "config.waystones.worldGen.worldGenStyle": {
+    "en": "World Generation Style",
+    "zh": "生成类型",
+    "vi": "Phong cách thế hệ thế giới"
+  },
+  "config.waystones.worldGen.frequency": {
+    "en": "World Generation Frequency",
+    "zh": "生成频率",
+    "vi": "Tần số thế hệ thế giới"
+  },
+  "config.waystones.worldGen.dimensionAllowList": {
+    "en": "Dimension Allow List",
+    "zh": "生成维度白名单",
+    "vi": "Danh sách thế giới có thể dịch chuyển"
+  },
+  "config.waystones.worldGen.dimensionDenyList": {
+    "en": "Dimension Deny List",
+    "zh": "生成维度黑名单",
+    "vi": "Danh sách thế giới từ chối dịch chuyển"
+  },
+  "config.waystones.worldGen.nameGenerationMode": {
+    "en": "Name Generation Mode",
+    "zh": "Name Generation Mode",
+    "vi": "Chế độ tạo tên"
+  },
+  "config.waystones.worldGen.customWaystoneNames": {
+    "en": "Custom Waystone Names",
+    "zh": "自定义传送石碑名称",
+    "vi": "Tên trụ dịch chuyển tùy chỉnh"
+  },
+  "config.waystones.worldGen.spawnInVillages": {
+    "en": "Spawn in Villages",
+    "zh": "在村庄中生成",
+    "vi": "Xuất hiện trong làng"
+  },
+  "config.waystones.worldGen.forceSpawnInVillages": {
+    "en": "Force Spawn in Villages",
+    "zh": "强制在村庄中生成",
+    "vi": "Bắt buộc phải có trong làng"
+  },
+  "config.waystones.client": {
+    "en": "Client Options",
+    "zh": "客户端选项",
+    "vi": "Tuỳ chọn người dùng"
+  },
+  "config.waystones.client.disableTextGlow": {
+    "en": "Disable Text Glow",
+    "zh": "禁用文本发光",
+    "vi": "Tắt văn bản phát sáng"
+  },
+  "config.waystones.compatibility": {
+    "en": "Mod Integrations",
+    "zh": "模组兼容",
+    "vi": "Tích hợp Mod"
+  },
+  "config.waystones.compatibility.displayWaystonesOnJourneyMap": {
+    "en": "Display Waystones on JourneyMap",
+    "zh": "在旅行地图(Journey Map)上显示传送石碑",
+    "vi": "Hiển thị trụ dịch chuyển trên JourneyMap"
+  },
+  "waystones.iconCredits": {
+    "en": "Icons by JoeCreates (CC-BY-SA 3.0)",
+    "zh": "图标作者:JoeCreates (CC-BY-SA 3.0)",
+    "vi": "Icons Bởi JoeCreates (CC-BY-SA 3.0)"
+  },
+  "waystones.map.untitled_waystone": {
+    "en": "Untitled Waystone",
+    "zh": "未命名的传送石碑",
+    "vi": "Trụ dịch chuyển không có tiêu đề"
+  },
+  "config.jade.plugin_waystones.waystone": {
+    "en": "Waystones",
+    "zh": "传送石碑",
+    "vi": "Waystones"
+  },
+  "block.waystones.blackstone_waystone": {
+    "en": "Black Waystone",
+    "zh": null,
+    "vi": null
+  },
+  "block.waystones.deepslate_waystone": {
+    "en": "Deepslate Waystone",
+    "zh": null,
+    "vi": null
+  },
+  "block.waystones.end_stone_waystone": {
+    "en": "Ender Waystone",
+    "zh": null,
+    "vi": null
+  },
+  "item.waystones.crumbling_attuned_shard": {
+    "en": "Crumbling Attuned Shard",
+    "zh": null,
+    "vi": null
+  },
+  "chat.waystones.cannot_break_waystone": {
+    "en": "You cannot break this waystone.",
+    "zh": null,
+    "vi": null
+  },
+  "tooltip.waystones.attuned_shard.attunement_crumbling": {
+    "en": "It will be consumed on next teleport.",
+    "zh": null,
+    "vi": null
+  },
+  "commands.waystones.count": {
+    "en": "%s has %d waystones activated and owns %d of those",
+    "zh": null,
+    "vi": null
+  },
+  "commands.waystones.list.header": {
+    "en": "Waystones (x, y, z) by %s (owned only):",
+    "zh": null,
+    "vi": null
+  },
+  "commands.waystones.list.entry.owned": {
+    "en": "-     owned %s (%s): %s",
+    "zh": null,
+    "vi": null
+  },
+  "commands.waystones.list.entry.activated": {
+    "en": "- activated %s (%s): %s",
+    "zh": null,
+    "vi": null
+  },
+  "commands.waystones.list.footer": {
+    "en": "%d waystones owned",
+    "zh": null,
+    "vi": null
+  },
+  "commands.waystones.list.all.header": {
+    "en": "Waystones (x, y, z) by %s:",
+    "zh": null,
+    "vi": null
+  },
+  "commands.waystones.list.all.footer": {
+    "en": "%d waystones total, %d owned",
+    "zh": null,
+    "vi": null
+  },
+  "commands.waystones.list.coordinates": {
+    "en": "%d, %d, %d",
+    "zh": null,
+    "vi": null
+  },
+  "commands.waystones.list.in_dimension": {
+    "en": "in %s",
+    "zh": null,
+    "vi": null
+  },
+  "commands.waystones.list.at_distance": {
+    "en": "at %d blocks away",
+    "zh": null,
+    "vi": null
+  },
+  "commands.waystones.activate.success.single": {
+    "en": "Activated waystone %s for %s",
+    "zh": null,
+    "vi": null
+  },
+  "commands.waystones.activate.success.multiple": {
+    "en": "Activated waystone %s for %d players",
+    "zh": null,
+    "vi": null
+  },
+  "commands.waystones.forget.success.single": {
+    "en": "Deactivated waystone %s for %s",
+    "zh": null,
+    "vi": null
+  },
+  "commands.waystones.forget.success.multiple": {
+    "en": "Deactivated waystone %s for %d players",
+    "zh": null,
+    "vi": null
+  },
+  "commands.waystones.forget.all.success.single": {
+    "en": "Deactivated all waystones for %s",
+    "zh": null,
+    "vi": null
+  },
+  "commands.waystones.forget.all.success.multiple": {
+    "en": "Deactivated all waystones for %d players",
+    "zh": null,
+    "vi": null
+  },
+  "commands.waystones.cooldown.reset.all.success.single": {
+    "en": "Reset all cooldowns for %s",
+    "zh": null,
+    "vi": null
+  },
+  "commands.waystones.cooldown.reset.all.success.multiple": {
+    "en": "Reset all cooldowns for %d players",
+    "zh": null,
+    "vi": null
+  },
+  "commands.waystones.cooldown.reset.invalid_identifier": {
+    "en": "Invalid identifier: %s",
+    "zh": null,
+    "vi": null
+  },
+  "commands.waystones.cooldown.reset.success.single": {
+    "en": "Reset cooldown %s for %s",
+    "zh": null,
+    "vi": null
+  },
+  "commands.waystones.cooldown.reset.success.multiple": {
+    "en": "Reset cooldown %s for %d players",
+    "zh": null,
+    "vi": null
+  },
+  "commands.waystones.waystone_not_found": {
+    "en": "Waystone not found at this position",
+    "zh": null,
+    "vi": null
+  },
+  "config.waystones.xpCost.inverseXpCost.tooltip": {
+    "en": "Set to true if experience cost should be inverted, meaning the shorter the distance, the more expensive. Can be used to encourage other methods for short-distance travel.",
+    "zh": null,
+    "vi": null
+  },
+  "config.waystones.xpCost.blocksPerXpLevel.tooltip": {
+    "en": "The amount of blocks per xp level requirement. If set to 500, the base xp cost for travelling 1000 blocks will be 2 levels.",
+    "zh": null,
+    "vi": null
+  },
+  "config.waystones.xpCost.minimumBaseXpCost.tooltip": {
+    "en": "The minimum base xp cost (may be subceeded by multipliers defined below).",
+    "zh": null,
+    "vi": null
+  },
+  "config.waystones.xpCost.maximumBaseXpCost.tooltip": {
+    "en": "The maximum base xp cost (may be exceeded by multipliers defined below), set to 0 to disable all distance-based XP costs.",
+    "zh": null,
+    "vi": null
+  },
+  "config.waystones.xpCost.xpCostPerLeashed.tooltip": {
+    "en": "How much xp is needed per leashed animal to travel with you.",
+    "zh": null,
+    "vi": null
+  },
+  "config.waystones.xpCost.dimensionalWarpXpCost.tooltip": {
+    "en": "The base xp level cost when travelling between dimensions. Ignores block distance.",
+    "zh": null,
+    "vi": null
+  },
+  "config.waystones.xpCost.globalWaystoneXpCostMultiplier.tooltip": {
+    "en": "The multiplier applied to the cooldown when teleporting to a global waystone via inventory button or warp stone.",
+    "zh": null,
+    "vi": null
+  },
+  "config.waystones.xpCost.warpStoneXpCostMultiplier.tooltip": {
+    "en": "The multiplier applied to the base xp cost when teleporting using a Warp Stone item (not the Waystone block, Konstantin)",
+    "zh": null,
+    "vi": null
+  },
+  "config.waystones.xpCost.sharestoneXpCostMultiplier.tooltip": {
+    "en": "The multiplier applied to the base xp cost when teleporting from one sharestone to another.",
+    "zh": null,
+    "vi": null
+  },
+  "config.waystones.xpCost.waystoneXpCostMultiplier.tooltip": {
+    "en": "The multiplier applied to the base xp cost when teleporting from one waystone to another.",
+    "zh": null,
+    "vi": null
+  },
+  "config.waystones.xpCost.portstoneXpCostMultiplier.tooltip": {
+    "en": "The multiplier applied to the base xp cost when teleporting from a portstone.",
+    "zh": null,
+    "vi": null
+  },
+  "config.waystones.xpCost.warpPlateXpCostMultiplier.tooltip": {
+    "en": "The multiplier applied to the base xp cost when teleporting from one warp plate to another.",
+    "zh": null,
+    "vi": null
+  },
+  "config.waystones.xpCost.inventoryButtonXpCostMultiplier.tooltip": {
+    "en": "The multiplier applied to the base xp cost when teleporting via the inventory button.",
+    "zh": null,
+    "vi": null
+  },
+  "config.waystones.restrictions.restrictToCreative.tooltip": {
+    "en": "If enabled, only creative players can place, edit or break waystones. This does NOT disable the crafting recipe.",
+    "zh": null,
+    "vi": null
+  },
+  "config.waystones.restrictions.restrictRenameToOwner.tooltip": {
+    "en": "If enabled, only the owner of a waystone (the one who placed it) can rename it.",
+    "zh": null,
+    "vi": null
+  },
+  "config.waystones.restrictions.generatedWaystonesUnbreakable.tooltip": {
+    "en": "If enabled, waystones generated in worldgen are unbreakable.",
+    "zh": null,
+    "vi": null
+  },
+  "config.waystones.restrictions.transportLeashed.tooltip": {
+    "en": "If enabled, leashed mobs will be teleported with you.",
+    "zh": null,
+    "vi": null
+  },
+  "config.waystones.restrictions.transportLeashedDimensional.tooltip": {
+    "en": "Whether to take leashed mobs with you when teleporting between dimensions.",
+    "zh": null,
+    "vi": null
+  },
+  "config.waystones.restrictions.leashedDenyList.tooltip": {
+    "en": "List of leashed mobs that cannot be taken with you when teleporting.",
+    "zh": null,
+    "vi": null
+  },
+  "config.waystones.restrictions.dimensionalWarp.tooltip": {
+    "en": "Set to 'ALLOW' to allow dimensional warp in general. Set to 'GLOBAL_ONLY' to restrict dimensional warp to global waystones. Set to 'DENY' to disallow all dimensional warps.",
+    "zh": null,
+    "vi": null
+  },
+  "config.waystones.restrictions.dimensionalWarpAllowList.tooltip": {
+    "en": "List of dimensions that players are allowed to warp cross-dimension from and to. If left empty, all dimensions except those in dimensionalWarpDenyList are allowed.",
+    "zh": null,
+    "vi": null
+  },
+  "config.waystones.restrictions.dimensionalWarpDenyList.tooltip": {
+    "en": "List of dimensions that players are not allowed to warp cross-dimension from and to. Only used if dimensionalWarpAllowList is empty.",
+    "zh": null,
+    "vi": null
+  },
+  "config.waystones.restrictions.allowWaystoneToWaystoneTeleport.tooltip": {
+    "en": "Set to true if players should be able to teleport between waystones by simply right-clicking a waystone.",
+    "zh": null,
+    "vi": null
+  },
+  "config.waystones.restrictions.globalWaystoneSetupRequiresCreativeMode.tooltip": {
+    "en": "Set to false to allow non-creative players to make waystones globally activated for all players.",
+    "zh": null,
+    "vi": null
+  },
+  "config.waystones.cooldowns.globalWaystoneCooldownMultiplier.tooltip": {
+    "en": "The multiplier applied to the cooldown when teleporting to a global waystone via inventory button or warp stone.",
+    "zh": null,
+    "vi": null
+  },
+  "config.waystones.cooldowns.warpStoneCooldown.tooltip": {
+    "en": "The cooldown between usages of the warp stone in seconds. This is bound to the player, not the item, so multiple warp stones share the same cooldown.",
+    "zh": null,
+    "vi": null
+  },
+  "config.waystones.cooldowns.warpStoneUseTime.tooltip": {
+    "en": "The time in ticks that it takes to use a warp stone. This is the charge-up time when holding right-click.",
+    "zh": null,
+    "vi": null
+  },
+  "config.waystones.cooldowns.scrollUseTime.tooltip": {
+    "en": "The time in ticks it takes to use a scroll. This is the charge-up time when holding right-click.",
+    "zh": null,
+    "vi": null
+  },
+  "config.waystones.cooldowns.warpPlateUseTime.tooltip": {
+    "en": "The time in ticks that it takes to use a warp plate. This is the time the player has to stand on top for.",
+    "zh": null,
+    "vi": null
+  },
+  "config.waystones.cooldowns.inventoryButtonCooldown.tooltip": {
+    "en": "The cooldown between usages of the inventory button in seconds.",
+    "zh": null,
+    "vi": null
+  },
+  "config.waystones.inventoryButton.inventoryButton.tooltip": {
+    "en": "Set to 'NONE' for no inventory button. Set to 'NEAREST' for an inventory button that teleports to the nearest waystone. Set to 'ANY' for an inventory button that opens the waystone selection menu. Set to a waystone name for an inventory button that teleports to a specifically named waystone.",
+    "zh": null,
+    "vi": null
+  },
+  "config.waystones.inventoryButton.warpButtonX.tooltip": {
+    "en": "The x position of the warp button in the inventory.",
+    "zh": null,
+    "vi": null
+  },
+  "config.waystones.inventoryButton.warpButtonY.tooltip": {
+    "en": "The y position of the warp button in the inventory.",
+    "zh": null,
+    "vi": null
+  },
+  "config.waystones.inventoryButton.creativeWarpButtonX.tooltip": {
+    "en": "The x position of the warp button in the creative menu.",
+    "zh": null,
+    "vi": null
+  },
+  "config.waystones.inventoryButton.creativeWarpButtonY.tooltip": {
+    "en": "The y position of the warp button in the creative menu.",
+    "zh": null,
+    "vi": null
+  },
+  "config.waystones.worldGen.worldGenStyle.tooltip": {
+    "en": "Set to 'DEFAULT' to only generate the normally textured waystones. Set to 'MOSSY' or 'SANDY' to generate all as that variant. Set to 'BIOME' to make the style depend on the biome it is generated in.",
+    "zh": null,
+    "vi": null
+  },
+  "config.waystones.worldGen.frequency.tooltip": {
+    "en": "Approximate chunk distance between waystones generated freely in world generation. Set to 0 to disable generation.",
+    "zh": null,
+    "vi": null
+  },
+  "config.waystones.worldGen.dimensionAllowList.tooltip": {
+    "en": "List of dimensions that waystones are allowed to spawn in through world gen. If left empty, all dimensions except those in worldGenDimensionDenyList are used.",
+    "zh": null,
+    "vi": null
+  },
+  "config.waystones.worldGen.dimensionDenyList.tooltip": {
+    "en": "List of dimensions that waystones are not allowed to spawn in through world gen. Only used if worldGenDimensionAllowList is empty.",
+    "zh": null,
+    "vi": null
+  },
+  "config.waystones.worldGen.nameGenerationMode.tooltip": {
+    "en": "Set to 'PRESET_FIRST' to first use names from the custom names list. Set to 'PRESET_ONLY' to use only those custom names. Set to 'MIXED' to have some waystones use custom names, and others random names.",
+    "zh": null,
+    "vi": null
+  },
+  "config.waystones.worldGen.customWaystoneNames.tooltip": {
+    "en": "These names will be used for the PRESET name generation mode. See the nameGenerationMode option for more info.",
+    "zh": null,
+    "vi": null
+  },
+  "config.waystones.worldGen.spawnInVillages.tooltip": {
+    "en": "Set to true if waystones should be added to the generation of villages. Some villages may still spawn without a waystone.",
+    "zh": null,
+    "vi": null
+  },
+  "config.waystones.worldGen.forceSpawnInVillages.tooltip": {
+    "en": "Ensures that pretty much every village will have a waystone, by spawning it as early as possible. In addition, this means waystones will generally be located in the center of the village.",
+    "zh": null,
+    "vi": null
+  },
+  "config.waystones.client.disableTextGlow.tooltip": {
+    "en": "If enabled, the text overlay on waystones will no longer always render at full brightness.",
+    "zh": null,
+    "vi": null
+  },
+  "config.waystones.compatibility.displayWaystonesOnJourneyMap.tooltip": {
+    "en": "If enabled, JourneyMap waypoints will be created for each activated waystone.",
+    "zh": null,
+    "vi": null
+  },
+  "config.waystones.compatibility.preferJourneyMapIntegration": {
+    "en": "Prefer 'JourneyMap Integration' mod",
+    "zh": "‘JourneyMap Integration’模组更好",
+    "vi": null
+  },
+  "config.waystones.compatibility.preferJourneyMapIntegration.tooltip": {
+    "en": "If enabled, JourneyMap waypoints will only be created if the mod 'JourneyMap Integration' is not installed.",
+    "zh": null,
+    "vi": null
+  }
+}

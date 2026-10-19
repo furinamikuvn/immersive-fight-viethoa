@@ -1,0 +1,72 @@
+#[Safety] Keep emergency creature snapshots before risky removal/death operations. Recommended: true.
+enableVault = true
+#[Safety] Maximum emergency creature snapshots kept per player.
+#Range: 1 ~ 200
+vaultCapacity = 10
+#[Safety] Periodically back up each player's Find me lists. Recommended: true.
+enableAutoBackups = true
+#[Safety] Minutes between automatic player list backups.
+#Range: 1 ~ 1440
+backupIntervalMinutes = 60
+#[Safety] Maximum full-list backups kept per player.
+#Range: 1 ~ 48
+backupCapacity = 6
+#[Safety] Invulnerability seconds given to players and pets after forced teleport/rescue.
+#Range: 0.0 ~ 30.0
+postTeleportInvulnerabilitySeconds = 0.5
+#[Revive] Allows dead companions to return when a player wakes up.
+enableSleepRevive = false
+#[Revive] Minutes between sleep revive attempts per player.
+#Range: 0 ~ 10080
+sleepReviveCooldownMinutes = 10
+#[Revive] Chance that sleep revives one dead companion.
+#Range: 0.0 ~ 1.0
+sleepReviveChance = 0.7
+#[Revive] If true, sleep revive tries to place the creature nearby. Disable for packs with destructive large mobs.
+sleepReviveSpawnEntity = true
+#[Summon] Normal mount summon cooldown in ticks.
+#Range: 0 ~ 1200
+mountCooldownTicks = 60
+#[Summon] Companion summon cooldown in ticks.
+#Range: 0 ~ 1200
+companionCooldownTicks = 40
+#[Summon] Mount summon cooldown in ticks while the player is in combat.
+#Range: 0 ~ 1200
+combatMountCooldownTicks = 40
+#[Summon] Short cooldown after returning a pet to its saved origin.
+#Range: 0 ~ 1200
+returnCooldownTicks = 40
+#[Summon] If the player is falling at least this many blocks, rescue summon can trigger.
+#Range: 0 ~ 128
+rescueMinFallDistance = 20
+#[Summon] Radius used to look for a safe teleport or revive landing spot.
+#Range: 1 ~ 64
+safeSearchRadius = 12
+#[Combat] Allows summon while the player has recently hurt or been hurt by another player.
+enablePvpSummon = true
+#[Combat] Gives a short movement speed boost after mounting during combat.
+enableCombatSpeedBoost = false
+#[Combat] Movement speed boost strength after mounting during combat.
+#Range: 0.0 ~ 2.0
+combatSpeedBoostPercent = 0.2
+#[Combat] Movement speed boost duration in ticks.
+#Range: 0 ~ 1200
+combatSpeedBoostTicks = 60
+#[Visual] Opacity for wheel GUI 2D elements. Does not affect 3D entity previews.
+#Range: 0.05 ~ 1.0
+guiOpacity = 1.0
+#[Visual] Advanced: GUI preview scale overrides, formatted as entity_id=scale. Example: dragonmounts:dragon=0.75
+previewScaleOverrides = []
+#[Compatibility] Advanced: entity ids that should always be considered rideable mounts.
+customMounts = ["monsterexpansion:skrythe", "monsterexpansion:rhyza", "born_in_chaos_v1:riding_felsteed", "born_in_chaos_v1:riding_lords_felsteed", "alexscaves:hullbreaker"]
+#[Compatibility] Advanced: entity ids that should always be considered non-rideable companions.
+customCompanions = []
+#[Compatibility] Preferred movement override format: entity_id=walk, entity_id=fly, or entity_id=swim.
+customMoveTypes = []
+#[Compatibility] Legacy movement override. Prefer customMoveTypes for new configs.
+customFlying = ["monsterexpansion:skrythe"]
+#[Compatibility] Legacy movement override. Prefer customMoveTypes for new configs.
+customSwimming = []
+#[Compatibility] Legacy movement override. Prefer customMoveTypes for new configs.
+customWalking = []
+

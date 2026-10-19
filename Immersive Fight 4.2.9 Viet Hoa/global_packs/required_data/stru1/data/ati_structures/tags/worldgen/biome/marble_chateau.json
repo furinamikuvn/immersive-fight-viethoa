@@ -1,0 +1,20 @@
+{
+    "replace": false,
+    "values": [
+        "minecraft:birch_forest",
+        "minecraft:dark_forest",
+        "minecraft:flower_forest",
+        "minecraft:old_growth_spruce_taiga",
+        "minecraft:windswept_forest",
+        "minecraft:cherry_grove",
+        "minecraft:taiga",
+        "minecraft:meadow",
+        "minecraft:snowy_taiga",
+  "regions_unexplored:mauve_hills",
+        "minecraft:jungle",
+  "regions_unexplored:chalk_cliffs",
+  "regions_unexplored:deciduous_forest",
+        "minecraft:plains",
+"biomeswevegone:temperate_grove"
+    ]
+}

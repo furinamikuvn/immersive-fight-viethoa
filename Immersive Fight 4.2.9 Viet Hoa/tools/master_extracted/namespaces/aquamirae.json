@@ -1,0 +1,1447 @@
+{
+  "advancements.aquamirae.encounter_the_shipbreaker.title": {
+    "en": "The Shipbreaker",
+    "zh": "破船者",
+    "vi": "thợ phá tàu"
+  },
+  "advancements.aquamirae.encounter_the_shipbreaker.description": {
+    "en": "Encounter the most fearsome inhabitant of the Ice Maze",
+    "zh": "遭遇大漩涡中最令人畏惧的居民",
+    "vi": "Gặp phải những cư dân đáng sợ nhất của Maelstrom"
+  },
+  "advancements.aquamirae.obtain_ship_graveyard_echo.title": {
+    "en": "Trace of the Leviathan",
+    "zh": "利维坦的踪迹",
+    "vi": "Dấu vết của Leviathan"
+  },
+  "advancements.aquamirae.obtain_ship_graveyard_echo.description": {
+    "en": "Collect the eerie trace left behind by the Shipbreaker",
+    "zh": "收集破船者留下的诡异踪迹",
+    "vi": "Thu thập những dấu vết kỳ quái do bọn phá tàu để lại"
+  },
+  "item.aquamirae.tempest_trident": {
+    "en": "Tempest Trident",
+    "zh": "风暴三叉戟",
+    "vi": "Tempest Trident"
+  },
+  "item.aquamirae.jawbreaker": {
+    "en": "Jawbreaker",
+    "zh": "碎颚者",
+    "vi": "Jawbreaker"
+  },
+  "item.aquamirae.oxyhelium": {
+    "en": "Oxyhelium",
+    "zh": "氧化氦",
+    "vi": "Oxyhelium"
+  },
+  "block.aquamirae.oxyhelium": {
+    "en": "Oxyhelium",
+    "zh": "氧化凝胶",
+    "vi": "Oxyhelium"
+  },
+  "block.aquamirae.wisteria_niveis": {
+    "en": "Wisteria Niveis",
+    "zh": "雪紫藤",
+    "vi": "Wisteria Niveis"
+  },
+  "effect.aquamirae.maelstrom_omen": {
+    "en": "Maelstrom Omen",
+    "zh": "大漩涡预兆",
+    "vi": "Dấu hiệu của cơn lốc"
+  },
+  "effect.aquamirae.fury_of_the_depths": {
+    "en": "Fury of the Depths",
+    "zh": "深海之怒",
+    "vi": "Cơn thịnh nộ của vực sâu"
+  },
+  "effect.aquamirae.resilience_of_the_depths": {
+    "en": "Resilience of the Depths",
+    "zh": "深海之韧",
+    "vi": "Sự dẻo dai của biển sâu"
+  },
+  "effect.aquamirae.health_shatter": {
+    "en": "Health Shatter",
+    "zh": "生命裂解",
+    "vi": "sự sống tan rã"
+  },
+  "effect.aquamirae.armor_shatter": {
+    "en": "Armor Shatter",
+    "zh": "护甲裂解",
+    "vi": "Phá giáp"
+  },
+  "effect.aquamirae.devouring_curse": {
+    "en": "Devouring Curse",
+    "zh": "吞噬诅咒",
+    "vi": "Lời nguyền nuốt chửng"
+  },
+  "effect.aquamirae.crystallization": {
+    "en": "Crystallization",
+    "zh": "结晶",
+    "vi": "sự kết tinh"
+  },
+  "effect.aquamirae.poison_immunity": {
+    "en": "Poison Immunity",
+    "zh": "剧毒免疫",
+    "vi": "Miễn dịch với chất độc"
+  },
+  "entity.aquamirae.shipbreaker": {
+    "en": "Shipbreaker",
+    "zh": "破船者",
+    "vi": "Shipbreaker"
+  },
+  "entity.aquamirae.maze_rose": {
+    "en": "Maze Rose",
+    "zh": "迷宫玫瑰",
+    "vi": "Maze Rose"
+  },
+  "death.attack.shipbreaker": {
+    "en": "The echo of %1$s's life fades through the Ice Maze...",
+    "zh": "%1$s 的生命回响在寒冰迷宫中渐渐消散……",
+    "vi": "Tiếng vọng về cuộc đời của %1$s dần dần tan biến trong mê cung băng..."
+  },
+  "death.attack.crystallization": {
+    "en": "%1$s has been turned into a crystal",
+    "zh": "%1$s 被变成了水晶",
+    "vi": "%1$s đã biến thành pha lê"
+  },
+  "tooltip.aquamirae.shell_horn": {
+    "en": "[color=light_purple]Summons Captain Cornelia.[/color] [/br][/br] Can be used near water in the Ice Maze.",
+    "zh": "[color=light_purple]召唤船长科妮莉亚。[/color] [/br][/br] 可在寒冰迷宫的水域附近使用。",
+    "vi": "[color=light_purple]Triệu hồi Đội trưởng Cornelia. [/color] [/br][/br] Có thể sử dụng gần nước trong Mê cung băng."
+  },
+  "tooltip.aquamirae.jellyfish_jelly": {
+    "en": "A Scuttler's favorite treat. Some simply can't stop eating it.",
+    "zh": "爬行者最喜欢的零食。有些家伙就是停不下来。",
+    "vi": "Món ăn vặt yêu thích của Creepers. Một số kẻ không thể dừng lại."
+  },
+  "config.aquamirae.category.gameplay": {
+    "en": "Gameplay",
+    "zh": "游戏玩法",
+    "vi": "Chơi trò chơi"
+  },
+  "config.aquamirae.group.items": {
+    "en": "Items",
+    "zh": "物品",
+    "vi": "điều"
+  },
+  "config.aquamirae.group.creatures": {
+    "en": "Creatures",
+    "zh": "生物",
+    "vi": "sinh vật học"
+  },
+  "config.aquamirae.option.shell_horn_usage_mode": {
+    "en": "Usage Mode",
+    "zh": "使用模式",
+    "vi": "mô hình sử dụng"
+  },
+  "config.aquamirae.option.shell_horn_usage_mode.desc": {
+    "en": "Controls where the Shell Horn can be used.\n\n§fEVERYWHERE§7 – The Shell Horn can be used anywhere.\n\n§fICE_MAZE§7 – The Shell Horn can only be used within the Ice Maze, regardless of dimension.\n\n§fTHE_MAELSTROM§7 – The Shell Horn can only be used in The Maelstrom dimension.",
+    "zh": "控制贝壳号角的使用地点。\n\n§f任意位置§7 – 贝壳号角可在任何地方使用。\n\n§f寒冰迷宫§7 – 贝壳号角只能在寒冰迷宫内使用，不限维度。\n\n§f大漩涡§7 – 贝壳号角只能在大漩涡维度中使用。",
+    "vi": "Kiểm soát nơi Shell Horn được sử dụng.\n\n§f ở mọi nơi§7 – Shell Horn có thể được sử dụng ở mọi nơi.\n\n§f Mê cung băng§7 – Sừng vỏ sò chỉ có thể được sử dụng trong Mê cung băng, bất kể kích thước.\n\n§f Maelstrom§7 – Shell Horn chỉ có thể được sử dụng trong chiều không gian Maelstrom."
+  },
+  "config.aquamirae.option.shell_horn_search_radius": {
+    "en": "Search Radius",
+    "zh": "搜索半径",
+    "vi": "bán kính tìm kiếm"
+  },
+  "config.aquamirae.option.shell_horn_search_radius.desc": {
+    "en": "How far from the point of use to search for a valid location to spawn Captain Cornelia.",
+    "zh": "从使用点出发搜索有效位置以生成船长科妮莉亚的范围。",
+    "vi": "Tìm kiếm các vị trí hợp lệ từ điểm sử dụng để tạo ra phạm vi của Captain Cornelia."
+  },
+  "config.aquamirae.option.shell_horn_spawn_offset": {
+    "en": "Spawn Offset",
+    "zh": "生成偏移",
+    "vi": "Tạo phần bù"
+  },
+  "config.aquamirae.option.shell_horn_spawn_offset.desc": {
+    "en": "Vertical offset of Captain Cornelia's spawn position from the water surface.",
+    "zh": "船长科妮莉亚生成位置相对于水面的垂直偏移。",
+    "vi": "Độ lệch dọc của vị trí sinh sản của Thuyền trưởng Cornelia so với mặt nước."
+  },
+  "config.aquamirae.option.shell_horn_summon_delay": {
+    "en": "Summon Delay",
+    "zh": "召唤延迟",
+    "vi": "Trì hoãn triệu tập"
+  },
+  "config.aquamirae.option.shell_horn_summon_delay.desc": {
+    "en": "Delay between using the Shell Horn and spawning Captain Cornelia or reporting a failed summon.",
+    "zh": "使用贝壳号角到生成船长科妮莉亚或报告召唤失败之间的延迟。",
+    "vi": "Sự chậm trễ giữa việc sử dụng Shellhorn và thời gian Thuyền trưởng Cornelia được sinh ra hoặc lỗi triệu hồi được báo cáo."
+  },
+  "config.aquamirae.option.shell_horn_cooldown": {
+    "en": "Cooldown",
+    "zh": "冷却时间",
+    "vi": "Thời gian làm mát"
+  },
+  "config.aquamirae.option.shell_horn_cooldown.desc": {
+    "en": "Cooldown between attempts to use the Shell Horn.",
+    "zh": "尝试使用贝壳号角的冷却间隔。",
+    "vi": "Hãy thử sử dụng khoảng thời gian hồi chiêu của Shell Horn."
+  },
+  "config.aquamirae.option.remnant_saber_base_bonus": {
+    "en": "Base Bonus",
+    "zh": "基础加成",
+    "vi": "Tiền thưởng cơ bản"
+  },
+  "config.aquamirae.option.remnant_saber_per_kill_bonus": {
+    "en": "Per Kill Bonus",
+    "zh": "每击杀加成",
+    "vi": "Tiền thưởng cho mỗi lần tiêu diệt"
+  },
+  "config.aquamirae.option.remnant_saber_max_bonus": {
+    "en": "Max Bonus",
+    "zh": "最大加成",
+    "vi": "Tiền thưởng tối đa"
+  },
+  "config.aquamirae.option.terrible_blade_poison_amplifier": {
+    "en": "Poison Amplifier",
+    "zh": "中毒等级",
+    "vi": "mức độ ngộ độc"
+  },
+  "config.aquamirae.option.terrible_blade_poison_duration": {
+    "en": "Poison Duration",
+    "zh": "中毒持续时间",
+    "vi": "thời gian ngộ độc"
+  },
+  "config.aquamirae.option.terrible_blade_regeneration_amplifier": {
+    "en": "Regeneration Amplifier",
+    "zh": "生命恢复等级",
+    "vi": "mức độ phục hồi sự sống"
+  },
+  "config.aquamirae.option.terrible_blade_regeneration_duration": {
+    "en": "Regeneration Duration",
+    "zh": "生命恢复持续时间",
+    "vi": "thời gian phục hồi sức khỏe"
+  },
+  "config.aquamirae.option.attributes": {
+    "en": "Attributes",
+    "zh": "属性",
+    "vi": "tài sản"
+  },
+  "config.aquamirae.option.attributes.button": {
+    "en": "Edit...",
+    "zh": "编辑……",
+    "vi": "biên tập……"
+  },
+  "config.aquamirae.category.spawning": {
+    "en": "Spawning",
+    "zh": "生成",
+    "vi": "phát ra"
+  },
+  "config.aquamirae.option.biome_spawner_mode": {
+    "en": "Biome Spawner Mode",
+    "zh": "生物群系生成模式",
+    "vi": "Chế độ tạo quần xã"
+  },
+  "config.aquamirae.option.biome_spawner_mode.desc": {
+    "en": "Controls how Aquamirae spawns are added to biomes tagged with aquamirae:ice_maze.\n\n§fOVERRIDE§7 – Replaces all existing spawns with Aquamirae spawns.\n\n§fMERGE§7 – Adds Aquamirae spawns while keeping existing spawns.\n\n§fNONE§7 – Disables Aquamirae spawns entirely.",
+    "zh": "控制 Aquamirae 生物如何添加到标记为 aquamirae:ice_maze 的生物群系中。\n\n§f覆盖§7 – 用 Aquamirae 生物替换所有现有生成。\n\n§f合并§7 – 在保留现有生成的同时添加 Aquamirae 生物。\n\n§f无§7 – 完全禁用 Aquamirae 生物的生成。",
+    "vi": "Kiểm soát cách thêm sinh vật Aquamirae vào quần xã được gắn thẻ aquamirae:ice_maze.\n\n§f ghi đè §7 - Thay thế tất cả các sinh vật hiện có bằng sinh vật Aquamirae.\n\n§f Hợp nhất §7 – Thêm sinh vật Aquamirae trong khi vẫn giữ lại các sinh vật hiện có.\n\n§f không có §7 – Vô hiệu hóa hoàn toàn việc sinh sản của các sinh vật Aquamirae."
+  },
+  "config.aquamirae.option.enable_spawning": {
+    "en": "Enable Spawning",
+    "zh": "启用生成",
+    "vi": "kích hoạt thế hệ"
+  },
+  "config.aquamirae.option.enable_spawning.desc": {
+    "en": "Whether this mob can spawn through the Aquamirae spawning system.",
+    "zh": "此生物是否可以通过 Aquamirae 生成系统生成。",
+    "vi": "Liệu mob này có thể được sinh ra thông qua hệ thống sinh sản Aquamirae hay không."
+  },
+  "config.aquamirae.option.spawn_weight": {
+    "en": "Spawn Weight",
+    "zh": "生成权重",
+    "vi": "Tạo trọng số"
+  },
+  "config.aquamirae.option.spawn_weight.desc": {
+    "en": "How frequently this mob spawns relative to other mobs.",
+    "zh": "此生物相对于其他生物的生成频率。",
+    "vi": "Tần suất sinh sản của mob này so với các mob khác."
+  },
+  "config.aquamirae.option.spawn_min_count": {
+    "en": "Min Count",
+    "zh": "最小数量",
+    "vi": "số lượng tối thiểu"
+  },
+  "config.aquamirae.option.spawn_min_count.desc": {
+    "en": "Minimum number of this mob spawned in a group.",
+    "zh": "每组生成此生物的最小数量。",
+    "vi": "Số lượng tối thiểu mob này sinh ra trong mỗi nhóm."
+  },
+  "config.aquamirae.option.spawn_max_count": {
+    "en": "Max Count",
+    "zh": "最大数量",
+    "vi": "số lượng tối đa"
+  },
+  "config.aquamirae.option.spawn_max_count.desc": {
+    "en": "Maximum number of this mob spawned in a group.",
+    "zh": "每组生成此生物的最大数量。",
+    "vi": "Số lượng tối đa của mob này sinh ra trong mỗi nhóm."
+  },
+  "config.aquamirae.label.missing_config_hint": {
+    "en": "Can't find the configuration you're looking for? Feel free to ask for help or request a new configuration on the %s Discord server.",
+    "zh": "找不到你想要的配置？欢迎在 %s Discord 服务器上寻求帮助或请求新配置。",
+    "vi": "Không thể tìm thấy cấu hình bạn muốn? Vui lòng yêu cầu trợ giúp hoặc yêu cầu cấu hình mới trên máy chủ Discord %s."
+  },
+  "config.aquamirae.button.configure": {
+    "en": ">>>",
+    "zh": ">>>",
+    "vi": ">>>"
+  },
+  "config.aquamirae.format.blocks": {
+    "en": "%s Block(s)",
+    "zh": "%s 格",
+    "vi": "Lưới %s"
+  },
+  "config.aquamirae.format.seconds": {
+    "en": "%s Second(s)",
+    "zh": "%s 秒",
+    "vi": "%s giây"
+  },
+  "config.aquamirae.format.percent": {
+    "en": "%s%%",
+    "zh": "%s%%",
+    "vi": "%s%%"
+  },
+  "config.aquamirae.format.potency.0": {
+    "en": "I",
+    "zh": "I",
+    "vi": "I"
+  },
+  "config.aquamirae.format.potency.1": {
+    "en": "II",
+    "zh": "II",
+    "vi": "II"
+  },
+  "config.aquamirae.format.potency.2": {
+    "en": "III",
+    "zh": "III",
+    "vi": "III"
+  },
+  "config.aquamirae.format.potency.3": {
+    "en": "VI",
+    "zh": "IV",
+    "vi": "IV"
+  },
+  "config.aquamirae.format.potency.4": {
+    "en": "V",
+    "zh": "V",
+    "vi": "V"
+  },
+  "config.aquamirae.format.potency.5": {
+    "en": "VI",
+    "zh": "VI",
+    "vi": "VI"
+  },
+  "config.aquamirae.format.potency.6": {
+    "en": "VII",
+    "zh": "VII",
+    "vi": "VII"
+  },
+  "config.aquamirae.format.potency.7": {
+    "en": "VIII",
+    "zh": "VIII",
+    "vi": "VIII"
+  },
+  "config.aquamirae.format.potency.8": {
+    "en": "IX",
+    "zh": "IX",
+    "vi": "IX"
+  },
+  "config.aquamirae.format.potency.9": {
+    "en": "X",
+    "zh": "X",
+    "vi": "X"
+  },
+  "ability.aquamirae.tempest_trident": {
+    "en": "Your attacks inflict Superconductor for {duration} seconds. Striking an affected enemy triggers a chain discharge that jumps to nearby affected enemies, shocking them for {shock_duration} seconds. When lightning strikes an affected enemy, it also strikes nearby affected enemies.",
+    "zh": "你的攻击会使目标触电，持续 {duration} 秒。攻击受影响的敌人会引发连锁放电，跳跃至附近的受影响敌人，使其麻痹 {shock_duration} 秒。当闪电击中受影响的敌人时，也会同时击中附近的受影响敌人。",
+    "vi": "Các đòn tấn công của bạn khiến mục tiêu bị điện giật trong {duration} giây. Tấn công kẻ địch bị ảnh hưởng sẽ kích hoạt một chuỗi phóng điện nhảy sang kẻ địch bị ảnh hưởng ở gần, làm chúng tê liệt trong {shock_duration} giây. Khi sét đánh vào kẻ địch bị ảnh hưởng, nó cũng sẽ tấn công những kẻ địch bị ảnh hưởng ở gần."
+  },
+  "ability.aquamirae.jawbreaker": {
+    "en": "Can be consumed as food, reducing its durability by {durability}.",
+    "zh": "可作为食物食用，每次消耗 {durability} 点耐久度。",
+    "vi": "Có thể dùng làm thức ăn, mỗi lần tiêu tốn {độ bền} điểm."
+  },
+  "itemGroup.aquamirae": {
+    "en": "Aquamirae",
+    "zh": "海灵物语",
+    "vi": null
+  },
+  "dimension.aquamirae.the_maelstrom": {
+    "en": "The Maelstrom",
+    "zh": "大漩涡",
+    "vi": null
+  },
+  "advancements.aquamirae.root.title": {
+    "en": "Aquamirae",
+    "zh": "海灵物语",
+    "vi": null
+  },
+  "advancements.aquamirae.root.description": {
+    "en": "Explore the ship graveyard and its terrifying creatures",
+    "zh": "探索海船墓地及其中令人恐惧的生物",
+    "vi": null
+  },
+  "advancements.aquamirae.find_ice_maze.title": {
+    "en": "Ice Maze",
+    "zh": "寒冰迷宫",
+    "vi": null
+  },
+  "advancements.aquamirae.find_ice_maze.description": {
+    "en": "Enter the Ice Maze that covers the Deep Frozen Ocean biome",
+    "zh": "进入覆盖深寒海洋生物群系的寒冰迷宫",
+    "vi": null
+  },
+  "advancements.aquamirae.obtain_niveis_tear.title": {
+    "en": "Call of the Maelstrom",
+    "zh": "大漩涡之召",
+    "vi": null
+  },
+  "advancements.aquamirae.obtain_niveis_tear.description": {
+    "en": "Distill the essence of Wisteria Niveis into a tear that calls forth the Maelstrom",
+    "zh": "将雪紫藤的精华蒸馏成一滴能够召唤大漩涡的泪珠",
+    "vi": null
+  },
+  "advancements.aquamirae.find_the_maelstrom.title": {
+    "en": "The Maelstrom",
+    "zh": "大漩涡",
+    "vi": null
+  },
+  "advancements.aquamirae.find_the_maelstrom.description": {
+    "en": "Let the blizzard carry you away",
+    "zh": "任由暴风雪将你卷走",
+    "vi": null
+  },
+  "advancements.aquamirae.tame_shellback.title": {
+    "en": "Beast of Burden",
+    "zh": "负重猛兽",
+    "vi": null
+  },
+  "advancements.aquamirae.tame_shellback.description": {
+    "en": "Raise a Scuttler into a mighty Shellback and tame it as your mount",
+    "zh": "将一只爬行者养成强大的甲壳兽，并将其驯服为坐骑",
+    "vi": null
+  },
+  "advancements.aquamirae.obtain_shell_horn.title": {
+    "en": "Curious Find",
+    "zh": "奇异发现",
+    "vi": null
+  },
+  "advancements.aquamirae.obtain_shell_horn.description": {
+    "en": "Discover a Shell Horn while exploring frozen pirate ships",
+    "zh": "探索冰冻的海盗船时发现一个贝壳号角",
+    "vi": null
+  },
+  "advancements.aquamirae.obtain_frozen_key.title": {
+    "en": "The Dead Sea",
+    "zh": "死海",
+    "vi": null
+  },
+  "advancements.aquamirae.obtain_frozen_key.description": {
+    "en": "Claim the key from the restless Ghost of Captain Cornelia",
+    "zh": "从船长科妮莉亚不安的亡灵手中夺得钥匙",
+    "vi": null
+  },
+  "advancements.aquamirae.obtain_pirate_pouch.title": {
+    "en": "Left Behind",
+    "zh": "遗落之物",
+    "vi": null
+  },
+  "advancements.aquamirae.obtain_pirate_pouch.description": {
+    "en": "Find an abandoned Pirate Pouch somewhere in the Ice Maze",
+    "zh": "在寒冰迷宫的某处找到一个被遗弃的海盗袋子",
+    "vi": null
+  },
+  "advancements.aquamirae.obtain_all_salvager_armor.title": {
+    "en": "Dressed for the Deep",
+    "zh": "深海着装",
+    "vi": null
+  },
+  "advancements.aquamirae.obtain_all_salvager_armor.description": {
+    "en": "Get a full suit of Salvager Armor",
+    "zh": "获得一整套潜水服",
+    "vi": null
+  },
+  "advancements.aquamirae.obtain_rune_of_the_storm.title": {
+    "en": "Relic of the Deep",
+    "zh": "深海遗物",
+    "vi": null
+  },
+  "advancements.aquamirae.obtain_rune_of_the_storm.description": {
+    "en": "Find an ancient rune buried beneath the frozen depths of the Ice Maze",
+    "zh": "找到埋藏于寒冰迷宫冰冻深处的远古符文",
+    "vi": null
+  },
+  "advancements.aquamirae.obtain_tidepiercer.title": {
+    "en": "Cornelia's Legacy",
+    "zh": "科妮莉亚的遗产",
+    "vi": null
+  },
+  "advancements.aquamirae.obtain_tidepiercer.description": {
+    "en": "Loot the Tidepiercer from the fallen Ghost of Captain Cornelia",
+    "zh": "从倒下的船长科妮莉亚亡灵手中夺取潮汐穿刺者",
+    "vi": null
+  },
+  "advancements.aquamirae.obtain_terrible_upgrade_smithing_template.title": {
+    "en": "Terrible Upgrade",
+    "zh": "可怖升级",
+    "vi": null
+  },
+  "advancements.aquamirae.obtain_terrible_upgrade_smithing_template.description": {
+    "en": "Obtain a Terrible Upgrade Smithing Template",
+    "zh": "获得一个可怖升级锻造模板",
+    "vi": null
+  },
+  "advancements.aquamirae.obtain_all_terrible_armor.title": {
+    "en": "Terribly Equipped",
+    "zh": "可怖全副武装",
+    "vi": null
+  },
+  "advancements.aquamirae.obtain_all_terrible_armor.description": {
+    "en": "Get a full suit of Terrible Armor",
+    "zh": "获得一整套可怖盔甲",
+    "vi": null
+  },
+  "advancements.aquamirae.obtain_all_terrible_weapons.title": {
+    "en": "Terrible Arsenal",
+    "zh": "可怖军械库",
+    "vi": null
+  },
+  "advancements.aquamirae.obtain_all_terrible_weapons.description": {
+    "en": "Obtain all Terrible Weapons",
+    "zh": "获得所有可怖武器",
+    "vi": null
+  },
+  "advancements.aquamirae.obtain_abyssal_upgrade_smithing_template.title": {
+    "en": "Abyssal Upgrade",
+    "zh": "深海升级",
+    "vi": null
+  },
+  "advancements.aquamirae.obtain_abyssal_upgrade_smithing_template.description": {
+    "en": "Obtain an Abyssal Upgrade Smithing Template",
+    "zh": "获得一个深海升级锻造模板",
+    "vi": null
+  },
+  "advancements.aquamirae.obtain_all_abyssal_armor.title": {
+    "en": "One with the Abyss",
+    "zh": "与深海融为一体",
+    "vi": null
+  },
+  "advancements.aquamirae.obtain_all_abyssal_armor.description": {
+    "en": "Get a full suit of Abyssal Armor",
+    "zh": "获得一整套深海盔甲",
+    "vi": null
+  },
+  "advancements.aquamirae.obtain_all_abyssal_weapons.title": {
+    "en": "Abyssal Arsenal",
+    "zh": "深海军械库",
+    "vi": null
+  },
+  "advancements.aquamirae.obtain_all_abyssal_weapons.description": {
+    "en": "Obtain all Abyssal Weapons",
+    "zh": "获得所有深海武器",
+    "vi": null
+  },
+  "attribute.aquamirae.depths_fury": {
+    "en": "Depth's Fury",
+    "zh": "深海之怒",
+    "vi": null
+  },
+  "attribute.aquamirae.depths_resilience": {
+    "en": "Depth's Resilience",
+    "zh": "深海之韧",
+    "vi": null
+  },
+  "item.aquamirae.niveis_tear": {
+    "en": "Niveis Tear",
+    "zh": "雪紫藤之泪",
+    "vi": null
+  },
+  "item.aquamirae.shell_horn": {
+    "en": "Shell Horn",
+    "zh": "贝壳号角",
+    "vi": null
+  },
+  "item.aquamirae.golden_moth_spawn_egg": {
+    "en": "Golden Moth Spawn Egg",
+    "zh": "金蛾刷怪蛋",
+    "vi": null
+  },
+  "item.aquamirae.spinefish_spawn_egg": {
+    "en": "Spinefish Spawn Egg",
+    "zh": "棘鱼刷怪蛋",
+    "vi": null
+  },
+  "item.aquamirae.abyssal_scyphoid_spawn_egg": {
+    "en": "Abyssal Scyphoid Spawn Egg",
+    "zh": "深海水母刷怪蛋",
+    "vi": null
+  },
+  "item.aquamirae.maw_spawn_egg": {
+    "en": "Maw Spawn Egg",
+    "zh": "深渊巨口刷怪蛋",
+    "vi": null
+  },
+  "item.aquamirae.anglerfish_spawn_egg": {
+    "en": "Anglerfish Spawn Egg",
+    "zh": "鮟鱇鱼刷怪蛋",
+    "vi": null
+  },
+  "item.aquamirae.maze_mother_spawn_egg": {
+    "en": "Maze Mother Spawn Egg",
+    "zh": "迷宫之母刷怪蛋",
+    "vi": null
+  },
+  "item.aquamirae.captain_cornelia_spawn_egg": {
+    "en": "Captain Cornelia Spawn Egg",
+    "zh": "船长科妮莉亚刷怪蛋",
+    "vi": null
+  },
+  "item.aquamirae.eel_spawn_egg": {
+    "en": "Eel Spawn Egg",
+    "zh": "鳗鱼刷怪蛋",
+    "vi": null
+  },
+  "item.aquamirae.tortured_soul_spawn_egg": {
+    "en": "Tortured Soul Spawn Egg",
+    "zh": "被折磨的灵魂刷怪蛋",
+    "vi": null
+  },
+  "item.aquamirae.scuttler_spawn_egg": {
+    "en": "Scuttler Spawn Egg",
+    "zh": "爬行者刷怪蛋",
+    "vi": null
+  },
+  "item.aquamirae.shellback_spawn_egg": {
+    "en": "Shellback Spawn Egg",
+    "zh": "甲壳兽刷怪蛋",
+    "vi": null
+  },
+  "item.aquamirae.rune_of_the_storm": {
+    "en": "Rune of the Storm",
+    "zh": "风暴符文",
+    "vi": null
+  },
+  "item.aquamirae.terrible_upgrade_smithing_template": {
+    "en": "Smithing Template",
+    "zh": "锻造模板",
+    "vi": null
+  },
+  "item.aquamirae.terrible_upgrade_smithing_template.applies_to": {
+    "en": "Iron Armor",
+    "zh": "铁制盔甲",
+    "vi": null
+  },
+  "item.aquamirae.terrible_upgrade_smithing_template.ingredients": {
+    "en": "Fin",
+    "zh": "鳍",
+    "vi": null
+  },
+  "item.aquamirae.terrible_upgrade_smithing_template.base_slot_description": {
+    "en": "Add a piece of armor",
+    "zh": "放入一件盔甲",
+    "vi": null
+  },
+  "item.aquamirae.terrible_upgrade_smithing_template.additions_slot_description": {
+    "en": "Add Angler's Fang",
+    "zh": "放入鮟鱇鱼獠牙",
+    "vi": null
+  },
+  "item.aquamirae.terrible_helmet": {
+    "en": "Terrible Helmet",
+    "zh": "可怖头盔",
+    "vi": null
+  },
+  "item.aquamirae.terrible_chestplate": {
+    "en": "Terrible Chestplate",
+    "zh": "可怖胸甲",
+    "vi": null
+  },
+  "item.aquamirae.terrible_leggings": {
+    "en": "Terrible Leggings",
+    "zh": "可怖护腿",
+    "vi": null
+  },
+  "item.aquamirae.terrible_boots": {
+    "en": "Terrible Boots",
+    "zh": "可怖靴子",
+    "vi": null
+  },
+  "item.aquamirae.terrible_cleaver": {
+    "en": "Terrible Cleaver",
+    "zh": "可怖切肉刀",
+    "vi": null
+  },
+  "item.aquamirae.terrible_blade": {
+    "en": "Terrible Blade",
+    "zh": "可怖之刃",
+    "vi": null
+  },
+  "item.aquamirae.terrible_fang": {
+    "en": "Terrible Fang",
+    "zh": "可怖獠牙",
+    "vi": null
+  },
+  "item.aquamirae.remnant_saber": {
+    "en": "Remnant Saber",
+    "zh": "残骨军刀",
+    "vi": null
+  },
+  "item.aquamirae.salvager_helmet": {
+    "en": "Salvager Helmet",
+    "zh": "潜水头盔",
+    "vi": null
+  },
+  "item.aquamirae.salvager_suit": {
+    "en": "Salvager Suit",
+    "zh": "潜水服",
+    "vi": null
+  },
+  "item.aquamirae.salvager_waders": {
+    "en": "Salvager Waders",
+    "zh": "潜水裤",
+    "vi": null
+  },
+  "item.aquamirae.salvager_boots": {
+    "en": "Salvager Boots",
+    "zh": "潜水靴",
+    "vi": null
+  },
+  "item.aquamirae.abyssal_upgrade_smithing_template": {
+    "en": "Smithing Template",
+    "zh": "锻造模板",
+    "vi": null
+  },
+  "item.aquamirae.abyssal_upgrade_smithing_template.applies_to": {
+    "en": "Diamond Armor",
+    "zh": "钻石盔甲",
+    "vi": null
+  },
+  "item.aquamirae.abyssal_upgrade_smithing_template.ingredients": {
+    "en": "Abyssal Amethyst",
+    "zh": "深海紫水晶",
+    "vi": null
+  },
+  "item.aquamirae.abyssal_upgrade_smithing_template.base_slot_description": {
+    "en": "Add a piece of armor",
+    "zh": "放入一件盔甲",
+    "vi": null
+  },
+  "item.aquamirae.abyssal_upgrade_smithing_template.additions_slot_description": {
+    "en": "Add Abyssal Amethyst",
+    "zh": "放入深海紫水晶",
+    "vi": null
+  },
+  "item.aquamirae.abyssal_amethyst": {
+    "en": "Abyssal Amethyst",
+    "zh": "深海紫水晶",
+    "vi": null
+  },
+  "item.aquamirae.abyssal_tiara": {
+    "en": "Abyssal Tiara",
+    "zh": "深海头饰",
+    "vi": null
+  },
+  "item.aquamirae.abyssal_heaume": {
+    "en": "Abyssal Heaume",
+    "zh": "深海重盔",
+    "vi": null
+  },
+  "item.aquamirae.abyssal_brigandine": {
+    "en": "Abyssal Brigandine",
+    "zh": "深海重甲",
+    "vi": null
+  },
+  "item.aquamirae.abyssal_leggings": {
+    "en": "Abyssal Leggings",
+    "zh": "深海护腿",
+    "vi": null
+  },
+  "item.aquamirae.abyssal_boots": {
+    "en": "Abyssal Boots",
+    "zh": "深海之靴",
+    "vi": null
+  },
+  "item.aquamirae.shatterblade": {
+    "en": "Shatterblade",
+    "zh": "裂解之刃",
+    "vi": null
+  },
+  "item.aquamirae.shatterspike": {
+    "en": "Shatterspike",
+    "zh": "裂解尖刺",
+    "vi": null
+  },
+  "item.aquamirae.dagger_of_greed": {
+    "en": "Dagger of Greed",
+    "zh": "贪婪匕首",
+    "vi": null
+  },
+  "item.aquamirae.tidepiercer": {
+    "en": "Tidepiercer",
+    "zh": "潮汐穿刺者",
+    "vi": null
+  },
+  "item.aquamirae.echo_compass": {
+    "en": "Echo Compass",
+    "zh": "回响罗盘",
+    "vi": null
+  },
+  "item.aquamirae.wisteria_niveis": {
+    "en": "Wisteria Niveis",
+    "zh": "雪紫藤",
+    "vi": null
+  },
+  "item.aquamirae.sharp_bones": {
+    "en": "Sharp Bones",
+    "zh": "锋利骨头",
+    "vi": null
+  },
+  "item.aquamirae.fin": {
+    "en": "Fin",
+    "zh": "鳍",
+    "vi": null
+  },
+  "item.aquamirae.esca": {
+    "en": "Esca",
+    "zh": "鮟鱇鱼精华",
+    "vi": null
+  },
+  "item.aquamirae.esca_skewer": {
+    "en": "Esca Skewer",
+    "zh": "鮟鱇鱼精华串",
+    "vi": null
+  },
+  "item.aquamirae.angler_fang": {
+    "en": "Angler Fang",
+    "zh": "鮟鱇鱼獠牙",
+    "vi": null
+  },
+  "item.aquamirae.spinefish": {
+    "en": "Spinefish",
+    "zh": "棘鱼",
+    "vi": null
+  },
+  "item.aquamirae.cooked_spinefish": {
+    "en": "Cooked Spinefish",
+    "zh": "熟棘鱼",
+    "vi": null
+  },
+  "item.aquamirae.jellyfish_jelly": {
+    "en": "Jellyfish Jelly",
+    "zh": "水母果冻",
+    "vi": null
+  },
+  "item.aquamirae.sea_casserole": {
+    "en": "Sea Casserole",
+    "zh": "海鲜砂锅",
+    "vi": null
+  },
+  "item.aquamirae.sea_stew": {
+    "en": "Sea Stew",
+    "zh": "海炖菜",
+    "vi": null
+  },
+  "item.aquamirae.poseidon_breakfast": {
+    "en": "Poseidon Breakfast",
+    "zh": "波塞冬的早餐",
+    "vi": null
+  },
+  "item.aquamirae.ship_graveyard_echo": {
+    "en": "Ship Graveyard Echo",
+    "zh": "海船墓地之回响",
+    "vi": null
+  },
+  "item.aquamirae.luminescent_bubble": {
+    "en": "Luminescent Bubble",
+    "zh": null,
+    "vi": null
+  },
+  "item.aquamirae.frozen_key": {
+    "en": "Frozen Key",
+    "zh": "冰冻钥匙",
+    "vi": null
+  },
+  "item.aquamirae.logbook": {
+    "en": "Logbook",
+    "zh": "航海日志",
+    "vi": null
+  },
+  "item.aquamirae.terrible_chakram": {
+    "en": "Terrible Chakram",
+    "zh": "可怖环刃",
+    "vi": null
+  },
+  "item.aquamirae.maze_rose": {
+    "en": "Maze Rose",
+    "zh": "迷宫玫瑰",
+    "vi": null
+  },
+  "item.aquamirae.cracked_record": {
+    "en": "Cracked Record",
+    "zh": "破裂唱片",
+    "vi": null
+  },
+  "item.aquamirae.cracked_record.desc": {
+    "en": "One last song...",
+    "zh": "最后一曲……",
+    "vi": null
+  },
+  "item.aquamirae.music_disc_horizon": {
+    "en": "Music Disc",
+    "zh": "音乐唱片",
+    "vi": null
+  },
+  "item.aquamirae.music_disc_horizon.desc": {
+    "en": "Bertsz - Horizon",
+    "zh": "Bertsz - Horizon",
+    "vi": null
+  },
+  "item.aquamirae.music_disc_forsaken_drownage": {
+    "en": "Music Disc",
+    "zh": "音乐唱片",
+    "vi": null
+  },
+  "item.aquamirae.music_disc_forsaken_drownage.desc": {
+    "en": "The Exiled Fellow - Forsaken Drownage",
+    "zh": "The Exiled Fellow - Forsaken Drownage",
+    "vi": null
+  },
+  "item.aquamirae.void_squid": {
+    "en": "Void Squid",
+    "zh": "虚空鱿鱼",
+    "vi": null
+  },
+  "item.aquamirae.oxygen_tank": {
+    "en": "Oxygen Tank",
+    "zh": "氧气罐",
+    "vi": null
+  },
+  "item.aquamirae.dead_sea_scroll": {
+    "en": "Dead Sea Scroll",
+    "zh": null,
+    "vi": null
+  },
+  "dynamic_item.aquamirae.twilight_grotto_helmet": {
+    "en": "Twilight Grotto Hat",
+    "zh": "暮光石窟帽子",
+    "vi": null
+  },
+  "dynamic_item.aquamirae.twilight_grotto_chestplate": {
+    "en": "Twilight Grotto Doublet",
+    "zh": "暮光石窟上衣",
+    "vi": null
+  },
+  "dynamic_item.aquamirae.twilight_grotto_leggings": {
+    "en": "Twilight Grotto Pants",
+    "zh": "暮光石窟裤子",
+    "vi": null
+  },
+  "dynamic_item.aquamirae.twilight_grotto_boots": {
+    "en": "Twilight Grotto Boots",
+    "zh": "暮光石窟靴子",
+    "vi": null
+  },
+  "dynamic_item.aquamirae.dead_sea_helmet": {
+    "en": "Dead Sea Hat",
+    "zh": "死海帽子",
+    "vi": null
+  },
+  "dynamic_item.aquamirae.dead_sea_chestplate": {
+    "en": "Dead Sea Doublet",
+    "zh": "死海上衣",
+    "vi": null
+  },
+  "dynamic_item.aquamirae.dead_sea_leggings": {
+    "en": "Dead Sea Pants",
+    "zh": "死海裤子",
+    "vi": null
+  },
+  "dynamic_item.aquamirae.dead_sea_boots": {
+    "en": "Dead Sea Boots",
+    "zh": "死海靴子",
+    "vi": null
+  },
+  "block.aquamirae.pirate_pouch": {
+    "en": "Pirate Pouch",
+    "zh": "海盗袋子",
+    "vi": null
+  },
+  "block.aquamirae.treasure_pouch": {
+    "en": "Treasure Pouch",
+    "zh": "宝藏袋子",
+    "vi": null
+  },
+  "block.aquamirae.golden_moth_jar": {
+    "en": "Golden Moth Jar",
+    "zh": "金蛾罐子",
+    "vi": null
+  },
+  "block.aquamirae.frozen_chest": {
+    "en": "Frozen Chest",
+    "zh": "冰冻箱子",
+    "vi": null
+  },
+  "block.aquamirae.luminescent_lamp": {
+    "en": "Luminescent Lamp",
+    "zh": "冷光灯",
+    "vi": null
+  },
+  "block.aquamirae.luminescent_bubble": {
+    "en": "Luminescent Bubble",
+    "zh": null,
+    "vi": null
+  },
+  "block.aquamirae.painting_anglerfish": {
+    "en": "Collectible Painting",
+    "zh": "收藏画作",
+    "vi": null
+  },
+  "block.aquamirae.painting_anglerfish.desc": {
+    "en": "Anglerfish by Obscuria",
+    "zh": "《鮟鱇鱼》，作者：Obscuria",
+    "vi": null
+  },
+  "block.aquamirae.painting_aurora": {
+    "en": "Collectible Painting",
+    "zh": "收藏画作",
+    "vi": null
+  },
+  "block.aquamirae.painting_aurora.desc": {
+    "en": "Aurora by Obscuria",
+    "zh": "《极光》，作者：Obscuria",
+    "vi": null
+  },
+  "block.aquamirae.painting_oxyhelium": {
+    "en": "Collectible Painting",
+    "zh": "收藏画作",
+    "vi": null
+  },
+  "block.aquamirae.painting_oxyhelium.desc": {
+    "en": "Oxyhelium by Obscuria",
+    "zh": "《氧化凝胶》，作者：Obscuria",
+    "vi": null
+  },
+  "block.aquamirae.painting_tortured_soul": {
+    "en": "Collectible Painting",
+    "zh": "收藏画作",
+    "vi": null
+  },
+  "block.aquamirae.painting_tortured_soul.desc": {
+    "en": "Tortured Soul by Obscuria",
+    "zh": "《被折磨的灵魂》，作者：Obscuria",
+    "vi": null
+  },
+  "upgrade.aquamirae.terrible": {
+    "en": "Terrible Upgrade",
+    "zh": "可怖升级",
+    "vi": null
+  },
+  "upgrade.aquamirae.abyssal": {
+    "en": "Abyssal Upgrade",
+    "zh": "深海升级",
+    "vi": null
+  },
+  "ability.aquamirae.piece": {
+    "en": "(1 Piece)",
+    "zh": "(1 件)",
+    "vi": null
+  },
+  "ability.aquamirae.pieces": {
+    "en": "(%s Pieces)",
+    "zh": "(%s 件)",
+    "vi": null
+  },
+  "ability.aquamirae.terrible_armor.half": {
+    "en": "Attackers are inflicted with Poison {amplifier} for {duration} seconds.",
+    "zh": "攻击者会受到中毒 {amplifier}，持续 {duration} 秒。",
+    "vi": null
+  },
+  "ability.aquamirae.terrible_armor.full": {
+    "en": "Taking damage in water grants Dolphin's Grace {amplifier} for {duration} seconds.",
+    "zh": "在水中受到伤害会获得海豚的恩惠 {amplifier}，持续 {duration} 秒。",
+    "vi": null
+  },
+  "ability.aquamirae.abyssal_armor.half": {
+    "en": "Whenever you gain a negative effect, gain Strength for {duration} seconds, stacking up to Strength {max_stacks}.",
+    "zh": "每当你获得负面效果时，获得力量，持续 {duration} 秒，最多叠加至力量 {max_stacks}。",
+    "vi": null
+  },
+  "ability.aquamirae.abyssal_armor.full_heaume": {
+    "en": "Damaging an enemy provokes nearby monsters to target you instead of other players.",
+    "zh": "对敌人造成伤害会激怒附近的怪物，使其转而攻击你而非其他玩家。",
+    "vi": null
+  },
+  "ability.aquamirae.abyssal_armor.full_tiara": {
+    "en": "Taking fatal damage defers your death for {duration} seconds. During this time, your damage dealt and attack speed are reduced by {debuff}.",
+    "zh": "受到致命伤害时，死亡会延迟 {duration} 秒。在此期间，你造成的伤害和攻击速度降低 {debuff}。",
+    "vi": null
+  },
+  "ability.aquamirae.salvager_armor.full": {
+    "en": "Supplies air underwater and prevents freezing in the icy waters of the Ice Maze.",
+    "zh": null,
+    "vi": null
+  },
+  "ability.aquamirae.remnant_saber": {
+    "en": "Your attacks deal {base_bonus} increased damage to Ice Maze creatures. Each Ice Maze creature you have ever slain permanently increases this bonus by {per_kill}, up to {max_bonus}.",
+    "zh": "你的攻击对寒冰迷宫生物造成额外 {base_bonus} 伤害。你每击杀一只寒冰迷宫生物，此加成永久增加 {per_kill}，最多增加至 {max_bonus}。",
+    "vi": null
+  },
+  "ability.aquamirae.terrible_blade.base": {
+    "en": "Your attacks inflict Poison {amplifier} for {duration} seconds.",
+    "zh": "你的攻击会使敌人中毒 {amplifier}，持续 {duration} 秒。",
+    "vi": null
+  },
+  "ability.aquamirae.terrible_blade.full": {
+    "en": "Defeating poisoned enemies grants Regeneration {amplifier} for {duration} seconds.",
+    "zh": "击败中毒的敌人会获得生命恢复 {amplifier}，持续 {duration} 秒。",
+    "vi": null
+  },
+  "ability.aquamirae.terrible_fang.base": {
+    "en": "Your attacks deal {bonus} increased damage. Each empty heart grants {per_heart}, up to {max_bonus}.",
+    "zh": "你的攻击造成额外 {bonus} 伤害。每缺少一颗心的生命值，伤害增加 {per_heart}，最多增加至 {max_bonus}。",
+    "vi": null
+  },
+  "ability.aquamirae.terrible_fang.full": {
+    "en": "The damage bonus is doubled against enemies at full health.",
+    "zh": "对满生命值敌人的伤害加成翻倍。",
+    "vi": null
+  },
+  "ability.aquamirae.terrible_cleaver.base": {
+    "en": "While injured, your attacks deal {bonus} increased damage against Ice Maze creatures.",
+    "zh": "受伤时，你的攻击对寒冰迷宫生物造成额外 {bonus} 伤害。",
+    "vi": null
+  },
+  "ability.aquamirae.terrible_cleaver.full": {
+    "en": "Your attacks have a {chance} chance to critically strike for {bonus} increased damage.",
+    "zh": "你的攻击有 {chance} 的几率造成暴击，并额外造成 {bonus} 伤害。",
+    "vi": null
+  },
+  "ability.aquamirae.shatterblade.base": {
+    "en": "Your attacks reduce the target's maximum health by {reduction} for {duration} seconds, stacking up to {max_stacks} times.",
+    "zh": "你的攻击会使目标的最大生命值降低 {reduction}，持续 {duration} 秒，最多叠加 {max_stacks} 次。",
+    "vi": null
+  },
+  "ability.aquamirae.shatterblade.full": {
+    "en": "Your attacks deal {bonus} extra damage to enemies with maximum stacks.",
+    "zh": "你的攻击会对拥有最大层数效果的敌人造成额外 {bonus} 伤害。",
+    "vi": null
+  },
+  "ability.aquamirae.shatterspike.base": {
+    "en": "Your attacks reduce the target's armor by {reduction} for {duration} seconds, stacking up to {max_stacks} times.",
+    "zh": "你的攻击会使目标的护甲值降低 {reduction}，持续 {duration} 秒，最多叠加 {max_stacks} 次。",
+    "vi": null
+  },
+  "ability.aquamirae.shatterspike.full": {
+    "en": "Your attacks deal {bonus} extra damage to enemies with maximum stacks.",
+    "zh": "你的攻击会对拥有最大层数效果的敌人造成额外 {bonus} 伤害。",
+    "vi": null
+  },
+  "ability.aquamirae.tidepiercer": {
+    "en": "Your attacks deal {bonus} increased damage underwater. Each block below sea level grants {per_block}, up to {max_bonus}.",
+    "zh": "你的攻击在水下造成额外 {bonus} 伤害。海平面以下每深入一格，伤害增加 {per_block}，最多增加至 {max_bonus}。",
+    "vi": null
+  },
+  "ability.aquamirae.dagger_of_greed": {
+    "en": "Your attacks have a {villager_chance} chance to make villagers drop an Emerald. Against pillagers, this chance is increased to {pillager_chance}. Each attack also has a {break_chance} chance to instantly break the weapon.",
+    "zh": "你的攻击有 {villager_chance} 的几率使村民掉落绿宝石。对灾厄村民时，该几率提高至 {pillager_chance}。每次攻击还有 {break_chance} 的几率使武器立即损坏。",
+    "vi": null
+  },
+  "ability_set.aquamirae.terrible": {
+    "en": "Sea Wolf's Wrath",
+    "zh": "海狼之怒",
+    "vi": null
+  },
+  "ability_set.aquamirae.abyssal": {
+    "en": "Abyssal Radiance",
+    "zh": "深海辉光",
+    "vi": null
+  },
+  "ability_set.aquamirae.salvager": {
+    "en": "Wreckhunter",
+    "zh": "沉船猎手",
+    "vi": null
+  },
+  "ability_set.aquamirae.special": {
+    "en": "Curiosities",
+    "zh": "奇珍异物",
+    "vi": null
+  },
+  "entity.aquamirae.scuttler": {
+    "en": "Scuttler",
+    "zh": "爬行者",
+    "vi": null
+  },
+  "entity.aquamirae.shellback": {
+    "en": "Shellback",
+    "zh": "甲壳兽",
+    "vi": null
+  },
+  "entity.aquamirae.golden_moth": {
+    "en": "Golden Moth",
+    "zh": "金蛾",
+    "vi": null
+  },
+  "entity.aquamirae.maw": {
+    "en": "Maw",
+    "zh": "深渊巨口",
+    "vi": null
+  },
+  "entity.aquamirae.spinefish": {
+    "en": "Spinefish",
+    "zh": "棘鱼",
+    "vi": null
+  },
+  "entity.aquamirae.abyssal_scyphoid": {
+    "en": "Abyssal Scyphoid",
+    "zh": "深海水母",
+    "vi": null
+  },
+  "entity.aquamirae.anglerfish": {
+    "en": "Anglerfish",
+    "zh": "鮟鱇鱼",
+    "vi": null
+  },
+  "entity.aquamirae.maze_mother": {
+    "en": "Maze Mother",
+    "zh": "迷宫之母",
+    "vi": null
+  },
+  "entity.aquamirae.captain_cornelia": {
+    "en": "Ghost of Captain Cornelia",
+    "zh": "船长科妮莉亚亡灵",
+    "vi": null
+  },
+  "entity.aquamirae.eel": {
+    "en": "Eel",
+    "zh": "鳗鱼",
+    "vi": null
+  },
+  "entity.aquamirae.tortured_soul": {
+    "en": "Tortured Soul",
+    "zh": "被折磨的灵魂",
+    "vi": null
+  },
+  "entity.aquamirae.terrible_chakram": {
+    "en": "Terrible Chakram",
+    "zh": "可怖环刃",
+    "vi": null
+  },
+  "tooltip.aquamirae.niveis_tear": {
+    "en": "Wisteria Niveis distilled. Stand in a Blizzard, and the Maelstrom will find you.",
+    "zh": "蒸馏后的雪紫藤精华。站在暴风雪中，大漩涡便会找到你。",
+    "vi": null
+  },
+  "tooltip.aquamirae.smithing_template": {
+    "en": "Armor forged from Ice Maze remains offers greater protection against its creatures.",
+    "zh": "由寒冰迷宫遗骸锻造的盔甲，能够更好地抵御其中的生物。",
+    "vi": null
+  },
+  "tooltip.aquamirae.esca_skewer": {
+    "en": "Its eerie glow stirs an insatiable hunger.",
+    "zh": "诡异的光芒唤起了难以满足的饥饿。",
+    "vi": null
+  },
+  "tooltip.aquamirae.frozen_key": {
+    "en": "Opens a chest hidden in the depths of the Ice Maze.",
+    "zh": "打开藏于寒冰迷宫深处的箱子。",
+    "vi": null
+  },
+  "tooltip.aquamirae.void_squid": {
+    "en": "Upon consuming, each hit drains 1 hunger shank instead of health. Starving rapidly drains health.",
+    "zh": "食用后，每次受到攻击都会消耗 1 格饥饿值而非生命值。饥饿会迅速消耗生命值。",
+    "vi": null
+  },
+  "tooltip.aquamirae.echo_compass": {
+    "en": "Resonates with the nearest Ship Graveyard Echo, attuned to its lingering call.",
+    "zh": "与最近的海船墓地之回响产生共鸣，回应着它久久不散的召唤。",
+    "vi": null
+  },
+  "tooltip.aquamirae.ship_graveyard_echo": {
+    "en": "If you listen carefully, you can hear the horns of hundreds of ships lost in the Ice Maze...",
+    "zh": "仔细倾听，你可以听见数百艘迷失于寒冰迷宫中的船只所发出的号角声……",
+    "vi": null
+  },
+  "tooltip.aquamirae.wisteria_niveis": {
+    "en": "Even in the midst of an icy wasteland, a wonderful life can appear.",
+    "zh": "即使在冰冷的荒原之中，也能绽放出奇妙的生命。",
+    "vi": null
+  },
+  "tooltip.aquamirae.spinefish": {
+    "en": "Disguises itself as remains to avoid unwanted attention.",
+    "zh": "伪装成遗骸，以免受到不必要的关注。",
+    "vi": null
+  },
+  "tooltip.aquamirae.cooked_spinefish": {
+    "en": "Now it draws attention... especially with a side dish.",
+    "zh": "现在它反而会吸引注意……尤其是配上配菜之后。",
+    "vi": null
+  },
+  "tooltip.aquamirae.pirate_pouch": {
+    "en": "[color=light_purple]Right-click to open.[/color] [/br][/br] Only the stench remains, along with a hint of a once turbulent life.",
+    "zh": "[color=light_purple]右键打开。[/color] [/br][/br] 只剩下恶臭，以及曾经那段动荡生活的一丝痕迹。",
+    "vi": null
+  },
+  "tooltip.aquamirae.treasure_pouch": {
+    "en": "[color=light_purple]Right-click to open.[/color] [/br][/br] A treasure that outlasted the ship, the crew, and the very reason it was kept.",
+    "zh": "[color=light_purple]右键打开。[/color] [/br][/br] 这份宝藏熬过了船只、船员，甚至熬过了当初将它保存下来的理由。",
+    "vi": null
+  },
+  "tooltip.aquamirae.golden_moth_jar": {
+    "en": "Some treasures can have their own souls, not only devour others...",
+    "zh": "有些宝藏拥有自己的灵魂，而不仅仅是吞噬其他灵魂……",
+    "vi": null
+  },
+  "tooltip.aquamirae.luminescent_lamp": {
+    "en": "An eerie glow that never fades.",
+    "zh": null,
+    "vi": null
+  },
+  "tooltip.aquamirae.luminescent_bubble": {
+    "en": "Its gentle current hastens nearby swimmers.",
+    "zh": null,
+    "vi": null
+  },
+  "logbook.aquamirae.pirate_ship.topic": {
+    "en": "Pirate Ship",
+    "zh": "海盗船",
+    "vi": null
+  },
+  "logbook.aquamirae.pirate_ship.content": {
+    "en": "Entry #12\n\nLast afternoon, Captain Cornelia went to the seabed in search of any additional resources. There are rumors among the crew that the real subject of her expedition is something else.\n\nMore than a day has passed since the captain's dive. She was wearing the only diving suit we had, so we couldn't help her in any way. Worst of all, she had the master key with her. As our hopes of rescue dwindle, the threat of rebellion grows.",
+    "zh": "记录 #12\n\n昨天下午，船长科妮莉亚下潜至海底，寻找更多资源。船员之间流传着传闻，说她此次远征真正的目的另有其物。\n\n船长下潜已经超过一天了。她穿着我们唯一的一套潜水服，所以我们根本无法帮助她。最糟糕的是，万能钥匙也在她身上。随着获救的希望逐渐消逝，叛乱的威胁却与日俱增。",
+    "vi": null
+  },
+  "logbook.aquamirae.pirate_outpost.topic": {
+    "en": "Pirate Outpost",
+    "zh": "海盗前哨",
+    "vi": null
+  },
+  "logbook.aquamirae.pirate_outpost.content": {
+    "en": "Entry #34\n\nThese beasts from the depths prowl for someone to devour... One of those critters has already eaten our midshipman... Swallowed him whole along with his crossbow.\n\nEntry #35\n\nWe are waiting in vain for rescue... No one will come to help us, we have to survive on our own. Today the construction of the fort from parts of the ship was completed. In any case, she could no longer plow the seas ever again.\n\nEntry #36\n\nWe are no longer able to heat the fort, resources are running out. Part of the crew began to dig a shelter underground. It is the only way we have a chance not to freeze to death.\n\nEntry #37\n\nWe hid our supplies and valuable cargo underground. But Poseidon cursed us, and during the storm the lieutenant washed away into the sea... Along with master keys.\n\nThe hope remains that we could possibly find similar keys on other ships of our fleet, which have suffered the same fate as us.",
+    "zh": "记录 #34\n\n那些来自深海的野兽四处游荡，寻找可以吞噬的猎物……其中一只已经吃掉了我们的海军少尉……连同他的弩一起整个吞了下去。\n\n记录 #35\n\n我们苦等救援，却只是徒劳……不会有人来帮助我们，我们只能靠自己活下去。今天，用船体残骸建造的堡垒终于完工了。无论如何，这艘船再也不会航行于大海之上。\n\n记录 #36\n\n我们已经无法继续为堡垒供暖，资源正在耗尽。部分船员开始在地下挖掘避难所。这是我们唯一不至于冻死的办法。\n\n记录 #37\n\n我们将补给和贵重货物藏在了地下。但波塞冬诅咒了我们，暴风雨中，副官被冲进了海里……连同万能钥匙一起。\n\n我们仍抱有一丝希望，也许能在舰队中其他遭遇同样命运的船上找到类似的钥匙。",
+    "vi": null
+  },
+  "logbook.aquamirae.pirate_shelter.topic": {
+    "en": "Pirate Shelter",
+    "zh": "海盗避难所",
+    "vi": null
+  },
+  "logbook.aquamirae.pirate_shelter.content": {
+    "en": "Entry #41\n\nIn these cursed lands there you can't find shelter even under the ice and the thickness of the earth... Some creatures that look like eels crawled out of the depths of the underworld, depriving us of the opportunity to return back to the surface.\n\nOnly the mistress of the moon knows how long shall we last... At all events, our hopes of seeing sunlight had all but vanished. This place will become our grave, our eternal tomb. For us and that damned rune...\n\nLast Entry\n\nIt whispers to me, whispers inside my head the secrets of ice and snow... Ice... Now we are chained in ice forever...\n\nI suppose a similar fate awaits the crew that set out in search of the fire rune... I wonder if they made it to the Great Dark Forest valley. Though it doesn't really matter now.",
+    "zh": "记录 #41\n\n在这片被诅咒的土地上，即使躲在冰层和厚重的土地之下，也找不到真正的庇护……一些长得像鳗鱼的生物从地狱深处爬了出来，让我们再也无法回到地表。\n\n只有月之女王知道我们还能坚持多久……无论如何，我们看到阳光的希望已经几乎消失殆尽。这里将成为我们的坟墓，我们永恒的长眠之所。也将成为那该死符文的坟墓……\n\n最后记录\n\n它在对我低语，在我的脑海中低语着冰与雪的秘密……冰……现在我们永远被冰封在这里了……\n\n我想，前往寻找火焰符文的那支队伍也将遭遇相同的命运……不知道他们是否抵达了大黑暗森林的山谷。不过现在，这已经不重要了。",
+    "vi": null
+  },
+  "feedback.aquamirae.summon_captain_cornelia": {
+    "en": "Ghost of Captain `Cornelia was awakened!",
+    "zh": "船长科妮莉亚的亡灵被唤醒了！",
+    "vi": null
+  },
+  "feedback.aquamirae.nothing_happened": {
+    "en": "Nothing happened...",
+    "zh": "什么也没有发生……",
+    "vi": null
+  },
+  "config.aquamirae.category.blizzard": {
+    "en": "Blizzard",
+    "zh": "暴风雪",
+    "vi": null
+  },
+  "config.aquamirae.option.blizzard_custom_fog": {
+    "en": "Enable Custom Fog",
+    "zh": "启用自定义雾效",
+    "vi": null
+  },
+  "config.aquamirae.option.blizzard_fog_start": {
+    "en": "Fog Start Distance",
+    "zh": "雾效起始距离",
+    "vi": null
+  },
+  "config.aquamirae.option.blizzard_fog_end": {
+    "en": "Fog End Distance",
+    "zh": "雾效结束距离",
+    "vi": null
+  },
+  "config.aquamirae.option.blizzard_custom_particles": {
+    "en": "Enable Custom Particles",
+    "zh": "启用自定义粒子",
+    "vi": null
+  },
+  "config.aquamirae.option.blizzard_wind_offset": {
+    "en": "Particle Wind Offset",
+    "zh": "粒子风向偏移",
+    "vi": null
+  },
+  "config.aquamirae.option.blizzard_speed_multiplier": {
+    "en": "Particle Speed Multiplier",
+    "zh": "粒子速度倍率",
+    "vi": null
+  },
+  "config.aquamirae.category.extras": {
+    "en": "Extras",
+    "zh": "其他",
+    "vi": null
+  },
+  "config.aquamirae.option.themed_main_menu": {
+    "en": "Themed Main Menu",
+    "zh": null,
+    "vi": null
+  },
+  "config.aquamirae.option.shipbreaker_griefing": {
+    "en": "Shipbreaker Griefing",
+    "zh": "破船者破坏方块",
+    "vi": null
+  },
+  "config.aquamirae.option.maze_mother_spawn_chance": {
+    "en": "Spawn Chance",
+    "zh": null,
+    "vi": null
+  },
+  "config.aquamirae.option.shipbreaker_spawn_cooldown": {
+    "en": "Spawn Cooldown",
+    "zh": "生成冷却时间",
+    "vi": null
+  },
+  "config.aquamirae.option.shipbreaker_spawn_cooldown_variance": {
+    "en": "Spawn Cooldown Variance",
+    "zh": "生成冷却时间浮动",
+    "vi": null
+  },
+  "config.aquamirae.option.shipbreaker_spawn_retry_delay": {
+    "en": "Spawn Retry Delay",
+    "zh": "生成重试延迟",
+    "vi": null
+  },
+  "config.aquamirae.format.minutes": {
+    "en": "%s Minute(s)",
+    "zh": "%s 分钟",
+    "vi": null
+  },
+  "item.aqumirae.dead_sea_scroll": {
+    "en": null,
+    "zh": "死海卷轴",
+    "vi": null
+  },
+  "block.aquamirae.oxugelium": {
+    "en": null,
+    "zh": "氧化凝胶",
+    "vi": null
+  },
+  "block.aquamirae.liminescent_bubble": {
+    "en": null,
+    "zh": "冷光气泡",
+    "vi": null
+  },
+  "config.aquamirae.option.themed_title_screen": {
+    "en": null,
+    "zh": "主题化主菜单",
+    "vi": null
+  },
+  "config.aquamirae.option.enable_shipbreaker_spawning": {
+    "en": null,
+    "zh": "启用破船者生成",
+    "vi": null
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "pack.epicfightx.efx_epicfight_resource_pack.title": {
+    "en": "asanginxst's Epic Fight Resource Pack",
+    "zh": "asanginxst的Epic Fight材质包",
+    "vi": "asanginxst's Epic Fight Textures"
+  },
+  "pack.epicfightx.efx_epicfight_assets_override.title": {
+    "en": "EFX Asset Override Pack",
+    "zh": "EFX资源覆盖包",
+    "vi": "EFX Assets Override"
+  },
+  "skill.epicfightx.step": {
+    "en": "Step",
+    "zh": "跨步",
+    "vi": "Sải Bước"
+  },
+  "skill.epicfightx.roll": {
+    "en": "Roll",
+    "zh": "翻滚",
+    "vi": "Nhào Lộn"
+  },
+  "itemGroup.efx.items": {
+    "en": "Epic Fight - Extra Content",
+    "zh": "史诗战斗-额外内容",
+    "vi": "Epic Fight - Nội Dung Bổ Sung"
+  },
+  "item.efx.scythe.description1": {
+    "en": "",
+    "zh": "",
+    "vi": ""
+  },
+  "item.epicfightx.eternal_night_scythe": {
+    "en": "Eternal Night Scythe",
+    "zh": "永夜礼镰",
+    "vi": "Lưỡi Hái Vĩnh Dạ (Eternal Night Scythe)"
+  },
+  "skill.epicfightx.combat_mastery_i": {
+    "en": "Combat Mastery I",
+    "zh": "战斗精通 I",
+    "vi": "Tinh Thông Chiến Đấu I"
+  },
+  "skill.epicfightx.combat_mastery_ii": {
+    "en": "Combat Mastery II",
+    "zh": "战斗精通 II",
+    "vi": "Tinh Thông Chiến Đấu II"
+  },
+  "skill.epicfight.combat_mastery_i": {
+    "en": "Combat Mastery I",
+    "zh": "战斗精通 I",
+    "vi": "Tinh Thông Chiến Đấu I"
+  },
+  "skill.epicfight.combat_mastery_i.tooltip": {
+    "en": "You have grown more adept at seizing opportunities between offense and evasion. You can dodge while attacking, or follow up with an attack after dodging.",
+    "zh": "你愈发熟练于进攻与闪避的间隙中把握机会。你可以在攻击时闪避，也可以在闪避后衔接攻击。",
+    "vi": "Bạn ngày càng thuần thục nắm bắt cơ hội giữa tấn công và né tránh. Bạn có thể tung ra đòn tấn công đặc biệt nối tiếp ngay sau khi né."
+  },
+  "skill.epicfight.combat_mastery_ii": {
+    "en": "Combat Mastery II",
+    "zh": "战斗精通 II",
+    "vi": "Tinh Thông Chiến Đấu II"
+  },
+  "skill.epicfight.combat_mastery_ii.tooltip": {
+    "en": "For a short time after dodging, sprinting will enter the [Dash] state. While in [Dash], stamina will be continuously consumed.",
+    "zh": "闪避后的一段时间内，奔跑可以进入[疾行]状态，[疾行]状态会持续消耗精力。",
+    "vi": "Trong một khoảng thời gian ngắn sau khi né, chạy bộ sẽ kích hoạt trạng thái [Tật Hành], trạng thái này sẽ tiêu hao thể lực liên tục."
+  },
+  "skill.epicfight.scythe_skill": {
+    "en": "Decapitate / Hymn of the Night",
+    "zh": "枭首 / 黑夜礼赞",
+    "vi": "Trảm Thủ / Hắc Dạ Lễ Tán"
+  },
+  "skill.epicfight.scythe_skill.tooltip": {
+    "en": "§8Attempt to grab a target in front of you. Upon success, you may follow up with:\n  §6Decapitate §a[Left Click]§8: Deals (3 × Weapon Damage + Target's Max HP) as damage.\n  §6Hymn of the Night §a[Right Click]§8: Slams the target down, dealing (8 × Weapon Damage × 0.1) Dark Magic damage and healing for the same amount.\n§8If the grab fails, a powerful slash is performed instead.",
+    "zh": "§8向前方抓取一名目标，若抓取成功可派生：\n  §6枭首 §a[左键]§8：造成(3×武器伤害 + 目标最大生命值)的伤害。\n  §6黑夜礼赞 §a[右键]§8：将目标砸向地面，造成(8×武器伤害×0.1)的暗魔法伤害并获得等额治疗。\n§8若目标不可抓取或未命中，则施放一次高威力斩击。",
+    "vi": "Bạn lướt về phía trước tóm lấy một mục tiêu, sau khi tóm thành công bạn có thể chọn:\n  Trảm Thủ [Chuột Trái]: Gây sát thương dựa trên % máu tối đa của mục tiêu;\n  Hắc Dạ Lễ Tán [Chuột Phải]: Đập mục tiêu xuống đất dùng ma thuật bóng tối gây nhiều lần sát thương và hồi máu cho bản thân.\n  Nếu mục tiêu không thể tóm, tung một nhát chém uy lực cực mạnh."
+  },
+  "effect.efx.efx_speed": {
+    "en": "Combat Mastery II: Speed Boost",
+    "zh": "战斗精通II：速度提升",
+    "vi": "Tinh Thông Chiến Đấu II: Tăng Tốc Độ"
+  },
+  "epicfight.style.scythe": {
+    "en": null,
+    "zh": null,
+    "vi": "Cầm Hai Tay"
+  },
+  "skill.epicfightx.steel_whirlwind": {
+    "en": null,
+    "zh": null,
+    "vi": "Lốc Xoáy Thép"
+  },
+  "skill.epicfight.katana_skill": {
+    "en": "Stance Flow",
+    "zh": "架势流转",
+    "vi": null
+  },
+  "skill.epicfight.katana_skill.tooltip": {
+    "en": "§8Attacks build stance stacks. Sweeping Edge increases the cap. Current weapon cap: §e%s§8.\n\n§8Idle Cast: Swap between §c[Unsheathed]§8 and §b[Sheathed]§8 stances for free.\n§8Attack Cast: §e[Flow]§8, granting invincibility frames.\n\n§c[Unsheathed Skill]§8: Consumes all stacks to deal multiplied damage based on the number of stacks.\n§b[Sheathed Skill]§8: Consumes all stacks to unleash (stacks - 1) extra dimensional slashes",
+    "zh": "§8进行攻击可积攒架势层数(横扫之刃附魔提升上限)，当前武器最高上限：§e%s§8层。\n§8常态待机时使用：在 §c[拔刀] §8与 §b[收刀] §8架势间无消耗切换。\n§8攻击后摇时使用：发动无敌闪避的斩击并 §e[切换架势]§8。\n§c[拔刀术技能]§8：消耗所有层数，造成基于层数倍率的终结伤害。\n§b[收刀术技能]§8：消耗所有层数，附加(层数-1)次空间斩。",
+    "vi": null
+  },
+  "subtitles.epicfightx.sound.bloody_hit_1": {
+    "en": "Bleeding",
+    "zh": "出血",
+    "vi": null
+  },
+  "subtitles.epicfightx.sound.bloody_hit_2": {
+    "en": "Bleeding",
+    "zh": "出血",
+    "vi": null
+  },
+  "subtitles.epicfightx.sound.bloody_slash": {
+    "en": "Bloody Slash",
+    "zh": "血腥切割",
+    "vi": null
+  },
+  "subtitles.epicfightx.sound.bloody_slash_long": {
+    "en": "Bloody Slash",
+    "zh": "血腥切割",
+    "vi": null
+  },
+  "subtitles.epicfightx.sound.demon_feast": {
+    "en": "Feeding",
+    "zh": "进食",
+    "vi": null
+  },
+  "subtitles.epicfightx.sound.drain_damage": {
+    "en": "Casting",
+    "zh": "施法",
+    "vi": null
+  },
+  "subtitles.epicfightx.sound.drain_damage_hit": {
+    "en": "Flesh Slicing",
+    "zh": "切割血肉",
+    "vi": null
+  },
+  "subtitles.epicfightx.sound.drain_heal": {
+    "en": "Life Drain",
+    "zh": "生命汲取",
+    "vi": null
+  },
+  "subtitles.epicfightx.sound.grab": {
+    "en": "Grab",
+    "zh": "抓取",
+    "vi": null
+  }
+}

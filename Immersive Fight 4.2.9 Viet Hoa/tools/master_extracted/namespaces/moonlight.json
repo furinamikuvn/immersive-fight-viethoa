@@ -1,0 +1,47 @@
+{
+  "fluid.moonlight.generic_fluid": {
+    "en": "Unnamed Fluid",
+    "zh": null,
+    "vi": null
+  },
+  "item.minecraft.potion_lingering": {
+    "en": "Lingering Potion",
+    "zh": null,
+    "vi": null
+  },
+  "item.minecraft.potion_splash": {
+    "en": "Splash Potion",
+    "zh": null,
+    "vi": null
+  },
+  "gui.moonlight.open_mod_page": {
+    "en": "Open %s CurseForge page",
+    "zh": null,
+    "vi": null
+  },
+  "message.moonlight.anti_repost": {
+    "en": "You seem to have downloaded %1$s from a malicious site :( Get the real version %2$s.",
+    "zh": null,
+    "vi": null
+  },
+  "message.moonlight.anti_repost_link": {
+    "en": "here",
+    "zh": null,
+    "vi": null
+  },
+  "wood_type.twilightforest.dark": {
+    "en": "Darkwood",
+    "zh": null,
+    "vi": null
+  },
+  "leaves_type.twilightforest.dark": {
+    "en": "Darkwood",
+    "zh": null,
+    "vi": null
+  },
+  "leaves_type.ulterlands.souldrained": {
+    "en": "Petrified",
+    "zh": null,
+    "vi": null
+  }
+}

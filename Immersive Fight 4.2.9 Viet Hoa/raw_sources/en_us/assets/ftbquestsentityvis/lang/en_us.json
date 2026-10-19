@@ -1,0 +1,41 @@
+{
+  "ftbquestsentityvis.show_entity": "Show Entity",
+  "ftbquestsentityvis.show_entity_as_icon": "Show Entity as Task Icon",
+  "ftbquestsentityvis.edit_entity_icon": "Edit Entity Icon",
+  "ftbquestsentityvis.remove_entity_icon": "Remove Entity Icon",
+
+  "ftbquestsentityvis.config.entity": "Entity",
+  "ftbquestsentityvis.config.size": "Entity Size",
+  "ftbquestsentityvis.config.offset_x": "Entity X Offset",
+  "ftbquestsentityvis.config.offset_y": "Entity Y Offset",
+  "ftbquestsentityvis.config.rotation": "Entity Rotation",
+
+  "ftbquestsentityvis.config.spin_mode": "Spin Animation",
+  "ftbquestsentityvis.config.spin_mode.use_global": "Use Global",
+  "ftbquestsentityvis.config.spin_mode.force_on": "Always Spin",
+  "ftbquestsentityvis.config.spin_mode.force_off": "Never Spin",
+  "ftbquestsentityvis.config.idle_mode": "Idle Animation",
+  "ftbquestsentityvis.config.idle_mode.use_global": "Use Global",
+  "ftbquestsentityvis.config.idle_mode.force_on": "Always Idle",
+  "ftbquestsentityvis.config.idle_mode.force_off": "Never Idle",
+  "ftbquestsentityvis.config.walk_mode": "Walk Animation",
+  "ftbquestsentityvis.config.walk_mode.use_global": "Use Global",
+  "ftbquestsentityvis.config.walk_mode.force_on": "Always Walk",
+  "ftbquestsentityvis.config.walk_mode.force_off": "Never Walk",
+
+  "ftbquestsentityvis.config.silhouette": "Black Silhouette",
+
+  "ftbquestsentityvis.config.silhouette_mode": "Black Silhouette",
+  "ftbquestsentityvis.config.silhouette_mode.none": "None",
+  "ftbquestsentityvis.config.silhouette_mode.until_available": "Until Available",
+  "ftbquestsentityvis.config.silhouette_mode.until_completed": "Until Completed",
+
+  "ftbquestsentityvis.config.use_as_quest_icon": "Use Task Icon as Quest Icon",
+
+  "ftbquestsentityvis.config.width": "Display Width",
+  "ftbquestsentityvis.config.height": "Display Height",
+  "ftbquestsentityvis.config.align": "Alignment",
+  "ftbquestsentityvis.config.order": "Draw Order",
+  "ftbquestsentityvis.config.dev": "Editors Only",
+  "ftbquestsentityvis.config.hover": "Hover Text"
+}

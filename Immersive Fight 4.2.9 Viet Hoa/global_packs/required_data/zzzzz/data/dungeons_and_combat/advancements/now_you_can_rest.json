@@ -1,0 +1,36 @@
+{
+  "display": {
+    "icon": {
+      "item": "dungeons_and_combat:kamath_armor_helmet"
+    },
+    "title": {
+      "translate": "advancements.now_you_can_rest.title"
+    },
+    "description": {
+      "translate": "advancements.now_you_can_rest.descr"
+    },
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": true
+  },
+  "criteria": {
+    "now_you_can_rest_0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "dungeons_and_combat:essence_of_kamath"
+            ],
+            "count": {
+              "min": 1,
+              "max": 64
+            }
+          }
+        ]
+      }
+    }
+  },
+  "parent": "dungeons_and_combat:the_cursed_soul"
+}

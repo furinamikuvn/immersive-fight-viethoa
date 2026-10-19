@@ -1,0 +1,92 @@
+{
+  "item.mythical_weaponry.mjolnir": {
+    "en": "Mjölnir",
+    "zh": "雷神之锤",
+    "vi": "Mjölnir"
+  },
+  "item.mythical_weaponry.thor_helmet": {
+    "en": "Thor's Helmet",
+    "zh": "托尔头盔",
+    "vi": "Thor's Helmet"
+  },
+  "item.mythical_weaponry.thor_chestplate": {
+    "en": "Thor's Chestplate",
+    "zh": "托尔胸甲",
+    "vi": "Thor's Chestplate"
+  },
+  "item.mythical_weaponry.thor_leggings": {
+    "en": "Thor's Leggings",
+    "zh": "托尔护腿",
+    "vi": "Thor's Leggings"
+  },
+  "item.mythical_weaponry.thor_boots": {
+    "en": "Thor's Boots",
+    "zh": "托尔靴子",
+    "vi": "Thor's Boots"
+  },
+  "item.mythical_weaponry.lightning_upgrade_template": {
+    "en": "Smithing Template",
+    "zh": "锻造模板",
+    "vi": "Smithing Template"
+  },
+  "item.mythical_weaponry.black_bone_flintlock": {
+    "en": "Black Bones' Flintlock Pistol",
+    "zh": "黑骨燧发手枪",
+    "vi": "Black Bones' Flintlock Pistol"
+  },
+  "item.mythical_weaponry.black_bone_sword": {
+    "en": "Black Bones' Sword",
+    "zh": "黑骨剑",
+    "vi": "Black Bones' Sword"
+  },
+  "item.mythical_weaponry.boss_thor_spawn_egg": {
+    "en": "Thor Spawn Egg",
+    "zh": "托尔刷怪蛋",
+    "vi": "Thor Spawn Egg"
+  },
+  "block.mythical_weaponry.thor_statue": {
+    "en": "Thor's Statue",
+    "zh": "托尔雕像",
+    "vi": "Thor's Statue"
+  },
+  "block.mythical_weaponry.decorative_thor_statue": {
+    "en": "Decorative Thor's Statue",
+    "zh": "装饰用托尔雕像",
+    "vi": "Decorative Thor's Statue"
+  },
+  "advancement.mythical_weaponry.get_mjolnir.title": {
+    "en": "A new God of Thunder",
+    "zh": "新的雷神",
+    "vi": "thor mới"
+  },
+  "advancement.mythical_weaponry.get_mjolnir.description": {
+    "en": "Acquire the legendary Mjölnir.",
+    "zh": "获得传说中的雷神之锤。",
+    "vi": "Có được Mjolnir huyền thoại."
+  },
+  "advancement.mythical_weaponry.defeat_thor.title": {
+    "en": "Slay the Thunder",
+    "zh": "弑神",
+    "vi": "Giết thần"
+  },
+  "advancement.mythical_weaponry.defeat_thor.description": {
+    "en": "Defeat the God of Thunder",
+    "zh": "击败雷神",
+    "vi": "Đánh bại Thor"
+  },
+  "entity.mythical_weaponry.boss_thor": {
+    "en": "Thor, God of Thunder",
+    "zh": "雷神·托尔",
+    "vi": "Thor, God of Thunder"
+  },
+  "effect.mythical_weaponry.fire_weakness": {
+    "en": "Fire Weakness",
+    "zh": "火焰弱点",
+    "vi": "Điểm yếu của lửa"
+  },
+  "creativetab.mythical_weaponry_main": {
+    "en": "Mythical Weaponry",
+    "zh": "神话武器",
+    "vi": "vũ khí thần thoại"
+  }
+}

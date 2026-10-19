@@ -1,0 +1,584 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "3CDC09BDA505AFA6"
+	group: "18A6655ADC4DF0EF"
+	icon: {
+		Count: 1
+		ForgeCaps: {
+			"celestisynth:celestisynthitemstackcapabilities": {
+				cs.aquaSkin: 0
+			}
+		}
+		id: "minecraft:ender_eye"
+	}
+	id: "3CDC09BDA505AFA6"
+	order_index: 3
+	quest_links: [ ]
+	quests: [
+		{
+			description: [
+				"Gói tích hợp hiện không có quy trình tuyến tính cố định, &o&8 (được lên kế hoạch đặt lại)&r&r"
+				""
+				"Gói tích hợp chủ yếu tập trung vào bộ sưu tập vũ khí, trang bị và các thử thách BOSS."
+				"Được hướng dẫn bởi các vật liệu chế tạo vũ khí để đánh bại các vật liệu BOSS"
+				"Nên ưu tiên cho &e BOSS&r nhỏ (quái vật huyền thoại, v.v.)"
+				"Hoặc danh sách &eBOSS dựa vào BOSS của &r"
+				""
+				"Đầu tiên hãy tạo các đạo cụ thực tế &e và các vật phẩm chức năng cơ bản &r trên trang nhiệm vụ"
+				"Hoàn thành lộ trình nâng cấp áo giáp cũng như một số vũ khí đã hoàn thiện"
+				"Thu thập lại vũ khí và tiếp tục cải thiện sức mạnh chiến đấu của bạn."
+				""
+				"Trang này cung cấp một số nguyên tắc cơ bản&e chỉ để tham khảo&r"
+			]
+			entity_vis_size: 1.0f
+			id: "3F97431910534C73"
+			tasks: [{
+				id: "72DE504976AAA82B"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: -6.0d
+		}
+		{
+			description: [
+				"Gói tích hợp khuyến khích &e khám phá cấu trúc &r để lấy tài nguyên,"
+				"Số lượng tài nguyên chống đỡ loot box đã tăng lên."
+				"Tài nguyên khoáng sản không cần phải dựa vào khai thác."
+				"(Nếu bạn thích khai thác, bạn có thể hoàn thành nhiệm vụ &b và BOSS khác: Cuộc thử thách của Bậc thầy vũ khí &r để tăng số lượng khai thác chuỗi &e tối đa &r)"
+				"(Ở giai đoạn đầu, bạn có thể tìm kiếm trong làng để thu được số lượng lớn ngọc lục bảo &a &r)"
+			]
+			entity_vis_size: 1.0f
+			icon: "minecraft:emerald"
+			id: "6751A01557233024"
+			tasks: [{
+				id: "44825177751029D9"
+				title: "Mua lại vật tư"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: -5.0d
+		}
+		{
+			description: [
+				"Đường cong áo giáp trong gói tích hợp đã được điều chỉnh."
+				"Bộ sắt và bộ kim cương chỉ dành cho thiết bị ban đầu &e &r."
+				"Sử dụng các nguồn tài nguyên có sẵn để nâng cấp áo giáp của bạn càng sớm càng tốt."
+				""
+				"Bạn có thể chọn hiệu ứng phù hợp &e áo giáp &r"
+				"Dần dần nâng cấp để cải thiện mức độ hiệu ứng của bảng và bộ đồ"
+				"Chia thành ba loại: &e Strength, Resistance, Emergency&r"
+				""
+				"Sau này, bạn cũng có thể chọn sử dụng các bộ Mod &b khác &r"
+				"[\"Xem \" để biết chi tiết, { \"text\": \"gold\",\" gạch dưới\": \"change_page\", \"value\":"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "minecraft:diamond_helmet"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "0C96329AC1910A40"
+			tasks: [{
+				id: "477E7352C8AB1C6D"
+				type: "checkmark"
+			}]
+			title: "Giáp"
+			x: 0.0d
+			y: -4.0d
+		}
+		{
+			description: [
+				"Bùa mê sử dụng bàn bùa mê"
+				""
+				"Bạn có thể vào &b Nether và End &r càng sớm càng tốt để mở khóa tất cả bùa chú"
+				""
+				"[\"Xem chi tiết\", { \"text\": \"gold\",\" gạch chân\": \"change_page\", \"value\":"
+			]
+			entity_vis_size: 1.0f
+			icon: "mcde:runic_table"
+			id: "02247B4195B6A08B"
+			tasks: [{
+				id: "6CFBF69F93D4BA6D"
+				type: "checkmark"
+			}]
+			title: "Bùa mê"
+			x: 0.0d
+			y: -3.0d
+		}
+		{
+			description: [
+				""
+				"Trong giai đoạn đầu và giữa kỳ, mục tiêu là sản xuất vũ khí thành phẩm &7&o (kiếm đơn giản) &r"
+				"Nên chế tạo nhiều vũ khí &r cùng một lúc,"
+				"Các kỹ năng của một số vũ khí có thể đóng vai trò là &e nhận được buff&r"
+				""
+				"Ở giai đoạn giữa và sau, nó có thể được sản xuất bằng cách mua nguyên liệu BOSS."
+				"Vũ khí ban đêm, vũ khí thần kỳ, sáng tạo của thần và các vũ khí khác"
+				"&o&7 (một số vật liệu đơn giản và có thể thu được ở giai đoạn đầu)&r&r"
+				"[ \"View\", { \"text\": \"gold\",\" gạch chân\": \"change_page\", \"value\":"
+				"[ \" và \", { \"text\": \"gold\",\" gạch chân\": \"change_page\", \"value\": \"7E50FBC6CA96EF47\" } },"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "minecraft:iron_sword"
+				tag: {
+					Damage: 0
+					itemModifier: "modifiers:deadly"
+				}
+			}
+			id: "15DF1612FEB47E95"
+			tasks: [{
+				id: "56FDB141ACE821EE"
+				title: "Quá trình vũ khí"
+				type: "checkmark"
+			}]
+			title: "cánh tay"
+			x: 0.0d
+			y: -2.0d
+		}
+		{
+			description: [
+				"&e thanh kiếm đơn giản &r vũ khí Mod Nhấn phím &b [C]"
+				"Có thể giải phóng các kỹ năng và một số vũ khí có thể đóng vai trò là đạo cụ tăng cường &e&r"
+				""
+				"[ \"\", { \"text\": \"true\", \"clickEvent\": { \"action\": \"7E50FBC6CA96EF47\" } }, \" Phần giữa liệt kê danh sách kiếm đơn giản\"]"
+				"Có thể xem kỹ năng đọc văn bản giới thiệu vũ khí"
+				""
+				"Một số kiến ​​nghị (chỉ mang tính chất tham khảo):"
+				"Loại phòng thủ &e:"
+				"Xâu lõi (hồi sinh), dệt sáp (hồi sinh)"
+				"Các kiểu tấn công &e: &r Sunfire (Sức mạnh), Bad Omen (Khẩn cấp)"
+				"Gai (vết thương độc)"
+				""
+				"Một số vật liệu vũ khí ban đêm &e&r rất đơn giản và có thể được sản xuất trước khi sản xuất"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "simplyswords:brimstone_claymore"
+				tag: {
+					Damage: 0
+					nether_power: "socket_empty"
+					runic_power: "socket_empty"
+				}
+			}
+			id: "094DDCD78648F5D7"
+			tasks: [{
+				id: "4D2946D74B6BE8F5"
+				title: "Khuyến nghị về vũ khí"
+				type: "checkmark"
+			}]
+			title: "Đạo cụ và vũ khí được đề xuất"
+			x: 1.0d
+			y: -2.0d
+		}
+		{
+			description: [
+				"Thông tin định hướng chủ yếu tồn tại ở dạng thông tin nhắc nhở trọng yếu"
+				""
+				"&e[Hướng dẫn thông tin tài liệu] &r"
+				"Nhấn &b[R]&r vào vật liệu để truy vấn"
+				"Bạn có thể kiểm tra cách lấy nó (giọt sinh vật, v.v.) trong &bJEI&r"
+				"Một số mặt hàng có thêm thông tin &bJEI vào &r"
+				"Để biết một số lời nhắc về nội dung, hãy xem trực tiếp &b [mô tả mục] &r"
+				"Có chữ &a màu xanh lá cây ở cuối hộp thông tin để bổ sung cho lời nhắc &r"
+				"Thông tin thêm cũng có thể được tìm thấy trong các nhiệm vụ của chương tương ứng"
+				""
+				"&eBOSS Đang tìm kiếm &r có thể tìm kiếm tên của sinh vật trong con trỏ phiêu lưu"
+				"Nếu tên cấu trúc được chỉ định, hãy tìm kiếm tên cấu trúc"
+			]
+			entity_vis_size: 1.0f
+			icon: "legendary_monsters:corrupted_soul"
+			id: "6C73EC735FB67B92"
+			tasks: [{
+				id: "0AF770B875F77272"
+				title: "Hướng dẫn vật liệu"
+				type: "checkmark"
+			}]
+			x: 1.0d
+			y: -5.0d
+		}
+		{
+			description: [
+				"Tìm hiểu thêm các kỹ năng chiến đấu hoành tráng,"
+				"Có thể nâng cao hiệu quả chiến đấu và ứng phó với nhiều tình huống hơn"
+				"[ \" có thể xem \", { \"text\": \"gold\",\" gạch dưới\": \"change_page\", \"value\": \"669F16D5421BFE1C\" } },"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "epicfight:skillbook"
+				tag: {
+					skill: "epicfight:adaptive_skin"
+				}
+			}
+			id: "66C770BA590060A5"
+			tasks: [{
+				id: "7D128B00BAC012C3"
+				type: "checkmark"
+			}]
+			title: "Học kỹ năng"
+			x: 2.0d
+			y: -4.0d
+		}
+		{
+			description: [
+				"phụ kiện:"
+				"&e vòng ăn nhanh&r: Tăng tốc độ ăn &7(Trao đổi)&r"
+				"&e Vai thép&r: 5 điểm Độ dẻo dai của giáp&7 (BOSS Kamath)"
+				"&e Vòng tay Obsidian &r: 5 điểm giá trị giáp &7 (Trụ cột Obsidian BOSS)"
+				"&eÁo choàng nửa đêm&r: Tăng sát thương bóng tối&7(Trao đổi)"
+				"Nhẫn tình bạn &e"
+				"&b thêm khe bùa &r: trang sức thánh tích thắt lưng &7 (trang trao đổi đồ trang trí)"
+				"&b thêm khe phụ kiện cầm tay &r: nhiệm vụ &7 (BOSS Nether Palm)"
+				"&b thêm ô nhẫn &r: nhiệm vụ &7 (BOSS Minghuang Dragon, BOSS Nghĩa trang Lich)"
+				"khác:"
+				"&e Găng tay đất&r: Mở khóa khai thác chuỗi 64 khối"
+				"&e Cung lửa Necronomicon&r: Có thể ngăn cản kẻ địch hồi máu"
+				"Máy đo nghiêm trọng &e"
+				"&eWhisper of the Deep Sea&r: Giảm giá trị giáp của kẻ địch&7 (Câu chuyện về Thần biển)"
+				"Mũi tên theo dõi &e&r: thích hợp để nhắm mục tiêu vào kẻ thù đang bay&7 (hang từ trường alex)"
+				"Hộp đựng tim &e &r: Tăng giá trị máu tối đa"
+			]
+			entity_vis_size: 1.0f
+			icon: "ringsofascension:ring_mining"
+			id: "6EFCE81EA3D95A3E"
+			tasks: [{
+				id: "359532AB02E21BE2"
+				title: "Một số mẹo hỗ trợ:"
+				type: "checkmark"
+			}]
+			title: "Đạo cụ được đề xuất"
+			x: 2.0d
+			y: -2.0d
+		}
+		{
+			description: [
+				"&a[Đá quý BOSS]&r"
+				"Rơi ra khi đánh bại BOSS Cataclysmic và một số BOSS khác."
+				"(BOSS khác: Rối Mây, Bất Tử)"
+				""
+				"Vũ khí &e có thể được khảm &r trên đe &e &r."
+				"Nhận được hai kỹ năng hoạt động kiểu &eBOSS &r,"
+				"Sử dụng nút không thể phá hủy &b để kích hoạt"
+				"&7 (Không thể nhúng vũ khí có chức năng nút đặc biệt)&r"
+				""
+				"Xác suất &e rơi ra &r phụ thuộc vào số người chết &e so với BOSS"
+				"Nếu bạn đánh bại nó bằng một mạng, nó sẽ bị rớt 100%."
+				""
+				"&e vũ khí BOSS tương ứng &r đi kèm với đá quý"
+				"Bạn cũng có thể sử dụng vũ khí BOSS tương ứng &e &r và cho nó vào lò &b để nấu chảy để thu được nó."
+				""
+				"&7 (Cài đặt CD hiện đang chia sẻ thời gian hồi chiêu của vật phẩm gốc,"
+				"&7 Đánh bại BOSS Nether Knight để nhận Vòng tay giảm thời gian hồi chiêu)&r&r"
+			]
+			disable_toast: true
+			entity_vis_size: 1.0f
+			id: "49B82C36993BBE1D"
+			tasks: [
+				{
+					disable_toast: true
+					id: "33DA20317231EE4B"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "fight_more:gems_fire"
+					}
+					type: "item"
+				}
+				{
+					disable_toast: true
+					id: "721C268D34BF9795"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "fight_more:gems_soul"
+					}
+					type: "item"
+				}
+				{
+					disable_toast: true
+					id: "296337BA6026BB85"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "fight_more:gems_nether"
+					}
+					type: "item"
+				}
+				{
+					disable_toast: true
+					id: "6A55AC08E6B12FC1"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "fight_more:gems_void"
+					}
+					type: "item"
+				}
+				{
+					disable_toast: true
+					id: "3BF9F2AA7BA17ECB"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "fight_more:gems_bolt"
+					}
+					type: "item"
+				}
+				{
+					disable_toast: true
+					id: "300762ACE0E51F46"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "fight_more:gems_tide"
+					}
+					type: "item"
+				}
+				{
+					disable_toast: true
+					id: "562A7599667679FE"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "fight_more:gems_sand"
+					}
+					type: "item"
+				}
+				{
+					disable_toast: true
+					id: "65367FA16A58630F"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "fight_more:gems_sea"
+					}
+					type: "item"
+				}
+				{
+					disable_toast: true
+					id: "43C1F86477184640"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "fight_more:gems_cloud"
+					}
+					type: "item"
+				}
+				{
+					disable_toast: true
+					id: "7F3B188E0524C0F0"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "fight_more:gems_emob"
+					}
+					type: "item"
+				}
+				{
+					id: "3012AB64518E2CD6"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "fight_more:gems_core"
+						tag: { }
+					}
+					type: "item"
+				}
+				{
+					id: "303FDC32F602F103"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "fight_more:gems_green"
+						tag: { }
+					}
+					type: "item"
+				}
+				{
+					id: "28D4DA40EB20ECD1"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "fight_more:gems_paladin"
+						tag: { }
+					}
+					type: "item"
+				}
+				{
+					id: "2012263456D8422A"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "fight_more:gems_empty"
+					}
+					type: "item"
+				}
+			]
+			title: "đá quý BOSS"
+			x: 3.0d
+			y: -2.0d
+		}
+		{
+			description: [
+				"Phạm vi giảm sát thương của áo giáp và bùa bảo vệ ban đầu đã bị suy yếu"
+				""
+				"Nhưng có nhiều cách để sống sót"
+				"Cây tài năng &e Điểm giảm sát thương và tăng HP của &r"
+				"&eChứa trái tim&r Tăng máu tối đa"
+				"Trận chiến hoành tráng &e Sách kỹ năng &r Kỹ năng giảm sát thương"
+				"&e né tránh và chặn&r tránh sát thương"
+				"Giảm sát thương và hiệu ứng không gây sát thương của kỹ năng vũ khí &e &r"
+				"Sử dụng thêm thực phẩm &e để hồi máu và &r để bổ sung trạng thái"
+				"&e Vật Tổ Bất Diệt &r có thể được cài đặt vào khe đựng bùa trang sức"
+				"Và một số phụ kiện &e thiết thực&r"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "minecraft:shield"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "79D86BF438BA5128"
+			tasks: [{
+				id: "17F005D1856860B9"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "minecraft:shield"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "Giảm sát thương"
+			x: 1.0d
+			y: -4.0d
+		}
+		{
+			description: [
+				"Gắn kết cũng sẽ giúp ích cho biểu đồ chạy của bạn"
+				"Một số thú cưỡi có thể hỗ trợ trong chiến đấu"
+				""
+				"Xem chi tiết chương &e thú cưỡi và thú cưng &r"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "minecraft:saddle"
+				tag: { }
+			}
+			id: "79E791D7DBD955D0"
+			tasks: [{
+				id: "7B3DC26789C00844"
+				type: "checkmark"
+			}]
+			title: "gắn kết"
+			x: 1.0d
+			y: -3.0d
+		}
+		{
+			description: [
+				"Một trong những đạo cụ bay có thể tạo ra hiệu ứng liên kết với các đạo cụ khác"
+				""
+				"Cải cách cơ chế elytra"
+				"Để biết chi tiết, hãy xem phần giới thiệu về chương &6 Mục thực hành &r"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "minecraft:elytra"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "00C7D4FD4CC365C8"
+			tasks: [{
+				id: "2582C71443B3781E"
+				type: "checkmark"
+			}]
+			title: "chuyến bay"
+			x: 2.0d
+			y: -3.0d
+		}
+	]
+	title: "Trang khởi động"
+}

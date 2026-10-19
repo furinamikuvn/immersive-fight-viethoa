@@ -1,0 +1,17 @@
+{
+  "name": "Thạch Phu (Stoneskin)",
+  "icon": "simplyswords:runic_tablet",
+  "category": "simplyswords:category_rune_etching",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:runic_tablet",
+      "title": "Thạch Phu (Stoneskin)",
+      "text": "Truyền ma pháp $(#916f49)$(l)Đại Địa & Nham Thạch$(). $(br2)Tăng mạnh kháng cự nhưng giảm tốc độ di chuyển."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Tăng cường giáp trụ phòng ngự kiên cố, bù đắp hoàn hảo cho sự suy giảm tốc độ."
+    }
+  ]
+}

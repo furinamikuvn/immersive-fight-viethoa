@@ -1,0 +1,1262 @@
+{
+  "jeed.category.effect_info": {
+    "en": "Effects",
+    "zh": "效果",
+    "vi": "Tác dụng"
+  },
+  "jeed.tooltip.color_complete": {
+    "en": "%1$s: %2$s",
+    "zh": "%1$s: %2$s",
+    "vi": "%1$s: %2$s"
+  },
+  "jeed.tooltip.color": {
+    "en": "Color",
+    "zh": "颜色代码",
+    "vi": "mã màu"
+  },
+  "jeed.tooltip.beneficial": {
+    "en": "Beneficial",
+    "zh": "增益效果",
+    "vi": "Đạt được hiệu ứng"
+  },
+  "jeed.tooltip.harmful": {
+    "en": "Harmful",
+    "zh": "负面效果",
+    "vi": "Lực xung kích tiêu cực"
+  },
+  "jeed.description.missing": {
+    "en": "No description available",
+    "zh": "无可用描述",
+    "vi": "Không có mô tả nào"
+  },
+  "effect.minecraft.absorption.description": {
+    "en": "Adds some damaging absorbing hearths (which can't be regenerated); higher levels give more absorption.",
+    "zh": "给予伤害吸收生命值（不会自然恢复），用于承受的伤害；越高的等级生命值越高。",
+    "vi": "Cung cấp sức khỏe hấp thụ sát thương (không được phục hồi tự nhiên) đối với sát thương nhận được; cấp độ càng cao thì sức khỏe càng cao."
+  },
+  "effect.minecraft.bad_omen.description": {
+    "en": "Causes an illager raid to start upon entering a village; higher levels increase the raid difficulty.",
+    "zh": "进入村庄后引发袭击；等级越高，袭击的难度越大。",
+    "vi": "Vào làng sẽ gây ra một cuộc tấn công; cấp độ càng cao thì việc tấn công càng khó khăn."
+  },
+  "effect.minecraft.blindness.description": {
+    "en": "Impairs vision and disables the ability to sprint and critical hit.",
+    "zh": "视力受限；且无法疾跑和暴击。",
+    "vi": "Tầm nhìn bị hạn chế; và không thể chạy nước rút và đánh chí mạng."
+  },
+  "effect.minecraft.conduit_power.description": {
+    "en": "Increases underwater visibility and mining speed, prevents drowning.",
+    "zh": "水下视力及水下挖掘速度增加，且不会溺水。",
+    "vi": "Tầm nhìn dưới nước và tốc độ đào dưới nước được tăng lên và bạn sẽ không bị chết đuối."
+  },
+  "effect.minecraft.darkness.description": {
+    "en": "Causes vision to temporarily deteriorate.",
+    "zh": "导致视力暂时恶化。",
+    "vi": "Gây suy giảm thị lực tạm thời."
+  },
+  "effect.minecraft.dolphins_grace.description": {
+    "en": "Drastically increases swimming speed. Effect given by dolphins",
+    "zh": "海豚大幅提高玩家的游泳速度。",
+    "vi": "Cá heo làm tăng đáng kể tốc độ bơi của người chơi."
+  },
+  "effect.minecraft.fire_resistance.description": {
+    "en": "Grants immunity to fire damage as well as damage from lava.",
+    "zh": "获得对火焰、熔岩伤害的免疫。",
+    "vi": "Có được khả năng miễn dịch với sát thương lửa và dung nham."
+  },
+  "effect.minecraft.glowing.description": {
+    "en": "Marks affected entities with an outline glow, allowing them to be seen through blocks.",
+    "zh": "使实体发光，并带有可以穿过非透明方块看到的轮廓线。",
+    "vi": "Làm cho thực thể phát sáng với đường viền hiển thị xuyên qua các khối mờ đục."
+  },
+  "effect.minecraft.haste.description": {
+    "en": "Increases mining and attack speed; higher levels increase both stats further.",
+    "zh": "提高挖掘和攻击速度；越高的等级速度越快。",
+    "vi": "Tăng tốc độ khai thác và tấn công; cấp độ cao hơn tăng tốc độ."
+  },
+  "effect.minecraft.health_boost.description": {
+    "en": "Increases maximum health; higher levels give more additional hearths.",
+    "zh": "提升生命上限；越高的等级上限越高。",
+    "vi": "Tăng giới hạn cuộc sống; cấp càng cao thì giới hạn càng cao."
+  },
+  "effect.minecraft.hero_of_the_village.description": {
+    "en": "Gives discounts on trades with villagers, and makes villagers throw items at the player depending on their profession.",
+    "zh": "在与村民的交易中获得折扣，并让村民会根据自己的职业赠送随机物品‌‌",
+    "vi": "Được giảm giá khi giao dịch với dân làng và được dân làng tặng các vật phẩm ngẫu nhiên dựa trên nghề nghiệp của họ‌‌"
+  },
+  "effect.minecraft.hunger.description": {
+    "en": "Increases food exhaustion; higher levels cause to starve quicker.",
+    "zh": "饥饿值更快的消耗；更高的等级消耗更快",
+    "vi": "Cơn đói tiêu hao nhanh hơn; cấp độ cao hơn tiêu hao nhanh hơn"
+  },
+  "effect.minecraft.instant_damage.description": {
+    "en": "Damages living entities, heals undead; higher levels increase the effect potency.",
+    "zh": "治疗亡灵生物，伤害非亡灵生物；更高的等级有更强的效果。",
+    "vi": "Chữa lành các sinh vật bất tử và gây sát thương cho các sinh vật không phải xác sống; cấp độ cao hơn có tác dụng mạnh hơn."
+  },
+  "effect.minecraft.instant_health.description": {
+    "en": "Heals living entities, damages undead; higher levels increase the effect potency.",
+    "zh": "治疗非亡灵生物，伤害亡灵生物；更高的等级有更强的效果。",
+    "vi": "Chữa lành các sinh vật không phải xác sống và gây sát thương cho các sinh vật xác sống; cấp độ cao hơn có tác dụng mạnh hơn."
+  },
+  "effect.minecraft.invisibility.description": {
+    "en": "Grants invisibility, making the user invisible and reducing its detection range. Held or worn items will still be visible. Higher levels further decrease the detection range",
+    "zh": "让实体模型消失，并减少被隐藏实体的检测范围，盔甲及主副手物品依然可见，更高的等级，检测范围越小。",
+    "vi": "Làm cho mô hình thực thể biến mất và giảm phạm vi phát hiện các thực thể ẩn. Áo giáp và các vật phẩm tay chính và phụ vẫn được nhìn thấy. Cấp độ càng cao thì phạm vi phát hiện càng nhỏ."
+  },
+  "effect.minecraft.jump_boost.description": {
+    "en": "Increases jump height and reduces fall damage; higher levels increase both effects.",
+    "zh": "增加跳跃高度，减少摔落伤害；更高的等级会增强两种效果。",
+    "vi": "Tăng độ cao khi nhảy và giảm sát thương khi rơi; mức độ cao hơn tăng cường cả hai hiệu ứng."
+  },
+  "effect.minecraft.levitation.description": {
+    "en": "Make affected entities float upwards.",
+    "zh": "使实体非主动向上抬升直到效果结束。",
+    "vi": "Khiến thực thể bị nâng lên một cách thụ động cho đến khi hiệu ứng kết thúc."
+  },
+  "effect.minecraft.luck.description": {
+    "en": "Can increase chances of high-quality and more loot; higher levels increase the chances of better loot.",
+    "zh": "增加刷出更多高质量战利品的概率；等级越高，获得更好战利品的概率就越大。",
+    "vi": "Tăng khả năng nhận được nhiều chiến lợi phẩm chất lượng cao hơn; cấp độ càng cao thì khả năng nhận được chiến lợi phẩm càng tốt."
+  },
+  "effect.minecraft.mining_fatigue.description": {
+    "en": "Decreases mining and attack speed; higher levels decrease both stats further.",
+    "zh": "降低挖掘与攻击速度；更高的等级会降低这两个变量。",
+    "vi": "Giảm tốc độ khai thác và tấn công; mức cao hơn làm giảm cả hai biến."
+  },
+  "effect.minecraft.nausea.description": {
+    "en": "Wobbles and warps the screen.",
+    "zh": "晃动和扭曲视角。",
+    "vi": "Lắc và bóp méo quan điểm."
+  },
+  "effect.minecraft.night_vision.description": {
+    "en": "Improves vision in dark areas and underwater.",
+    "zh": "改善玩家在黑暗区域和水下的视力。",
+    "vi": "Cải thiện tầm nhìn của người chơi trong khu vực tối và dưới nước."
+  },
+  "effect.minecraft.poison.description": {
+    "en": "Inflicts non lethal damage over time; higher levels do more damage per second. Does not affect undeads.",
+    "zh": "会降低生命值直到只剩半颗心；更高的等级每秒造成更多的伤害，不影响亡灵生物。",
+    "vi": "Sẽ giảm máu cho đến khi chỉ còn lại nửa trái tim; cấp độ cao hơn gây nhiều sát thương hơn mỗi giây và không ảnh hưởng đến sinh vật xác sống."
+  },
+  "effect.minecraft.regeneration.description": {
+    "en": "Regenerates health over time; higher levels make health regenerate quicker.",
+    "zh": "会快速恢复生命值；更高的水平使生命值恢复得更快。",
+    "vi": "Sẽ phục hồi sức khỏe nhanh chóng; cấp độ cao hơn khiến sức khỏe phục hồi nhanh hơn."
+  },
+  "effect.minecraft.resistance.description": {
+    "en": "Provides 20% damage reduction per level.",
+    "zh": "每等级减少10%受到的伤害。",
+    "vi": "Giảm sát thương nhận vào 10% mỗi cấp."
+  },
+  "effect.minecraft.saturation.description": {
+    "en": "Restores hunger and saturation.",
+    "zh": "快速恢复饥饿值与饱和度。",
+    "vi": "Nhanh chóng khôi phục mức độ đói và bão hòa."
+  },
+  "effect.minecraft.slow_falling.description": {
+    "en": "Decreases falling speed and negates fall damage.",
+    "zh": "减缓掉落速度，免疫掉落伤害。",
+    "vi": "Làm chậm tốc độ rơi và miễn nhiễm sát thương khi rơi."
+  },
+  "effect.minecraft.slowness.description": {
+    "en": "Decreases walking speed; higher levels make the user slower and decrease their field of view.",
+    "zh": "降低移动速度；等级越高，玩家速度越慢，视野越窄小。",
+    "vi": "Giảm tốc độ di chuyển; cấp độ càng cao, tốc độ của người chơi càng chậm và tầm nhìn càng hẹp."
+  },
+  "effect.minecraft.speed.description": {
+    "en": "Increases walking speed; higher levels make the user faster and increase their field of view.",
+    "zh": "提高移动速度；等级越高，玩家速度越块，视野越宽阔。",
+    "vi": "Tăng tốc độ di chuyển; cấp độ càng cao, tốc độ của người chơi càng nhanh và tầm nhìn càng rộng."
+  },
+  "effect.minecraft.strength.description": {
+    "en": "Increases melee damage; higher levels increase the damage boost power.",
+    "zh": "增加攻击伤害；更高的等级更高的攻击伤害。",
+    "vi": "Tăng sát thương tấn công; cấp độ cao hơn có sát thương tấn công cao hơn."
+  },
+  "effect.minecraft.unluck.description": {
+    "en": "Can reduce chances of high-quality and more loot; higher levels reduce the chance of good loot.",
+    "zh": "减少刷出更多高质量战利品的概率；等级越高，获得更好战利品的概率就越小。",
+    "vi": "Giảm cơ hội nhận được nhiều chiến lợi phẩm chất lượng cao hơn; cấp độ càng cao thì cơ hội nhận được chiến lợi phẩm tốt hơn càng nhỏ."
+  },
+  "effect.minecraft.water_breathing.description": {
+    "en": "Prevents drowning and allows to breathe underwater.",
+    "zh": "防止溺水并允许在水下呼吸。",
+    "vi": "Ngăn ngừa đuối nước và cho phép thở dưới nước."
+  },
+  "effect.minecraft.weakness.description": {
+    "en": "Decreases melee damage; higher levels decrease damage dealt further.",
+    "zh": "降低攻击伤害；等级越高，伤害越小。",
+    "vi": "Giảm sát thương tấn công; cấp càng cao thì sát thương càng ít."
+  },
+  "effect.minecraft.wither.description": {
+    "en": "Inflicts lethal damage over time; higher levels do more damage per second.",
+    "zh": "会降低生命值直到死亡；更高的等级每秒造成更多的伤害。",
+    "vi": "Sẽ giảm sức khỏe cho đến khi chết; cấp độ cao hơn gây ra nhiều sát thương hơn mỗi giây."
+  },
+  "effect.alexscaves.magnetizing.description": {
+    "en": null,
+    "zh": "不手持或穿戴金属制品也会受磁力影响。",
+    "vi": "Các sản phẩm kim loại không được cầm hoặc đeo cũng sẽ bị ảnh hưởng bởi từ tính."
+  },
+  "effect.alexscaves.deepsight.description": {
+    "en": null,
+    "zh": "获得在水下看得更远的能力。",
+    "vi": "Có được khả năng nhìn xa hơn dưới nước."
+  },
+  "effect.alexsmobs.lava_vision.description": {
+    "en": "Allows seeing through lava.",
+    "zh": "允许玩家看穿熔岩。",
+    "vi": "Cho phép người chơi nhìn xuyên qua dung nham."
+  },
+  "effect.alexsmobs.knockback_resistance.description": {
+    "en": "Provides 50% knockback resistance.",
+    "zh": "提供 50% 的击退抗性。",
+    "vi": "Cung cấp khả năng chống đẩy lùi 50%."
+  },
+  "effect.alexsmobs.poison_resistance.description": {
+    "en": "Grants immunity to poison.",
+    "zh": "赋予使用者免疫毒素的能力。",
+    "vi": "Cung cấp cho người dùng khả năng miễn dịch với độc tố."
+  },
+  "effect.alexsmobs.soulsteal.description": {
+    "en": "Grants the user attacks some life-steal.",
+    "zh": "赋予玩家在攻击的时候可以窃取生命值的能力。",
+    "vi": "Cung cấp cho người chơi khả năng đánh cắp sức khỏe khi tấn công."
+  },
+  "effect.alexsmobs.fleet_footed.description": {
+    "en": null,
+    "zh": "在玩家同时跳跃和疾跑时，提升玩家的速度。",
+    "vi": "Tăng tốc độ của người chơi khi nhảy và chạy nước rút cùng lúc."
+  },
+  "effect.alexsmobs.bug_pheromones.description": {
+    "en": "Make hostile arthropods neutral to the user.",
+    "zh": "难以被任何敌对的节肢动物发现。",
+    "vi": "Khó bị phát hiện bởi bất kỳ động vật chân đốt thù địch nào."
+  },
+  "effect.alexscaves.rage.description": {
+    "en": null,
+    "zh": "生命值越低，伤害越高。如果拥有此效果的生物不是玩家，则该生物会无差别地攻击周围所有的生物。",
+    "vi": "Sức khỏe càng thấp thì sát thương càng cao. Nếu sinh vật có hiệu ứng này không phải là người chơi, nó sẽ tấn công tất cả các sinh vật xung quanh một cách bừa bãi."
+  },
+  "effect.alexscaves.darkness_incarnate.description": {
+    "en": null,
+    "zh": "允许玩家在生存模式下以极快的速度飞行，同时获得一定程度上的夜视加持，效果结束后会获得缓降Buff。",
+    "vi": "Cho phép người chơi bay với tốc độ cực nhanh trong chế độ sinh tồn, đồng thời nhận được phước lành tầm nhìn ban đêm ở mức độ nhất định. Sau khi hiệu ứng kết thúc, họ sẽ nhận được buff giảm tốc độ."
+  },
+  "effect.simplyswords.ribbonwrath.description": {
+    "en": null,
+    "zh": "速度-5%，但获得15%伤害减免",
+    "vi": "-5% tốc độ, nhưng giảm 15% sát thương"
+  },
+  "effect.relics.vanishing.description": {
+    "en": null,
+    "zh": "获得隐身效果并提升移动速度",
+    "vi": "Có được khả năng tàng hình và tăng tốc độ di chuyển"
+  },
+  "effect.relics.anti_heal.description": {
+    "en": null,
+    "zh": "阻止再生和治疗效果",
+    "vi": "Ngăn chặn tác dụng tái tạo và chữa bệnh"
+  },
+  "effect.relics.confusion.description": {
+    "en": null,
+    "zh": "反转控制操作",
+    "vi": "Hoạt động điều khiển đảo ngược"
+  },
+  "effect.relics.bleeding.description": {
+    "en": null,
+    "zh": "造成持续的百分比伤害",
+    "vi": "Gây sát thương phần trăm liên tục"
+  },
+  "effect.relics.paralysis.description": {
+    "en": null,
+    "zh": "无法进行移动、攻击和使用等操作",
+    "vi": "Không thể di chuyển, tấn công và sử dụng các thao tác"
+  },
+  "effect.relics.stun.description": {
+    "en": null,
+    "zh": "无法进行任何操作",
+    "vi": "Không thể thực hiện bất kỳ thao tác nào"
+  },
+  "effect.born_in_chaos_v1.magic_depletion.description": {
+    "en": null,
+    "zh": "使施法者无法使用特定魔法。",
+    "vi": "Vô hiệu hóa người thi triển sử dụng một số phép thuật nhất định."
+  },
+  "effect.born_in_chaos_v1.stun.description": {
+    "en": null,
+    "zh": "降低90%移动速度并减少8点攻击伤害。",
+    "vi": "Giảm 90% tốc độ di chuyển và 8 điểm sát thương tấn công."
+  },
+  "effect.born_in_chaos_v1.light_rampage.description": {
+    "en": null,
+    "zh": "提升移动速度与攻击伤害。",
+    "vi": "Tăng tốc độ di chuyển và sát thương tấn công."
+  },
+  "effect.born_in_chaos_v1.medium_rampage.description": {
+    "en": null,
+    "zh": "较大幅度提升移动速度与攻击伤害。",
+    "vi": "Tăng đáng kể tốc độ di chuyển và sát thương tấn công."
+  },
+  "effect.born_in_chaos_v1.strong_rampage.description": {
+    "en": null,
+    "zh": "极大幅度提升移动速度与攻击伤害。",
+    "vi": "Tăng đáng kể tốc độ di chuyển và sát thương tấn công."
+  },
+  "effect.born_in_chaos_v1.furious_rampage.description": {
+    "en": null,
+    "zh": "以超乎想象的程度提升移动速度与攻击伤害。",
+    "vi": "Tăng tốc độ di chuyển và sát thương tấn công ngoài sức tưởng tượng."
+  },
+  "effect.born_in_chaos_v1.rampant_rampage.description": {
+    "en": null,
+    "zh": "将移动速度与攻击伤害提升至超凡境界。",
+    "vi": "Tăng tốc độ di chuyển và sát thương tấn công lên mức phi thường."
+  },
+  "effect.born_in_chaos_v1.stimulation.description": {
+    "en": null,
+    "zh": "提升移动速度、攻击速度和挖掘速度。",
+    "vi": "Tăng tốc độ di chuyển, tốc độ tấn công và tốc độ đào."
+  },
+  "effect.born_in_chaos_v1.stimulatingsurge.description": {
+    "en": null,
+    "zh": "效果生效时，提升施法者附近怪物的移动速度。",
+    "vi": "Khi hiệu ứng có hiệu lực, hãy tăng tốc độ di chuyển của quái vật ở gần người sử dụng."
+  },
+  "effect.born_in_chaos_v1.obsession.description": {
+    "en": null,
+    "zh": "获得生命恢复、伤害抗性、火焰抗性，并提升移动速度与攻击伤害。",
+    "vi": "Nhận được khả năng phục hồi sức khỏe, kháng sát thương, kháng lửa, đồng thời tăng tốc độ di chuyển và sát thương tấn công."
+  },
+  "effect.born_in_chaos_v1.lifesteal.description": {
+    "en": null,
+    "zh": "对目标造成持续伤害，同时治疗施加该效果者。效果开始时还会对目标施加凋零效果。",
+    "vi": "Gây sát thương liên tục cho mục tiêu và hồi máu cho người áp dụng hiệu ứng. Hiệu ứng này cũng áp dụng hiệu ứng héo cho mục tiêu khi hiệu ứng bắt đầu."
+  },
+  "effect.born_in_chaos_v1.dark_splash.description": {
+    "en": null,
+    "zh": "击退施法者及周围实体，造成穿透伤害，最后附加生命窃取效果。",
+    "vi": "Đẩy lùi người thi triển và các thực thể xung quanh, gây sát thương xuyên thấu, và cuối cùng thêm hiệu ứng cướp đi sinh mạng."
+  },
+  "effect.born_in_chaos_v1.stranglehold.description": {
+    "en": null,
+    "zh": "若施法者未处于生命窃取状态，则大幅降低移动速度。",
+    "vi": "Nếu người thi triển không ở trạng thái hút mạng, tốc độ di chuyển sẽ giảm đi rất nhiều."
+  },
+  "effect.born_in_chaos_v1.vampiric_touch.description": {
+    "en": null,
+    "zh": "对被攻击实体施加生命窃取效果。",
+    "vi": "Áp dụng hiệu ứng cướp đi sinh mạng của thực thể bị tấn công."
+  },
+  "effect.born_in_chaos_v1.cursed_mark.description": {
+    "en": null,
+    "zh": "效果结束时，最多四名猩红追猎者将在施法者周围生成。",
+    "vi": "Khi hiệu ứng kết thúc, tối đa bốn Crimson Stalker sẽ xuất hiện xung quanh người sử dụng."
+  },
+  "effect.born_in_chaos_v1.soul_stratification.description": {
+    "en": null,
+    "zh": "降低移动速度，并在效果结束时造成伤害。",
+    "vi": "Giảm tốc độ di chuyển và gây sát thương khi hiệu ứng kết thúc."
+  },
+  "effect.born_in_chaos_v1.intoxication.description": {
+    "en": null,
+    "zh": "效果开始时造成短暂失明、中毒与反胃效果，并降低移动速度。",
+    "vi": "Hiệu ứng ban đầu gây mù tạm thời, ngộ độc, buồn nôn và giảm tốc độ di chuyển."
+  },
+  "effect.born_in_chaos_v1.gaze_of_terror.description": {
+    "en": null,
+    "zh": "致盲并使施法者无法使用特定魔法。",
+    "vi": "Làm mù và khiến người sử dụng không thể sử dụng một số phép thuật nhất định."
+  },
+  "effect.born_in_chaos_v1.detonation.description": {
+    "en": null,
+    "zh": "千万别把恶魔和炸药混在一起...（效果结束时施法者将爆炸）",
+    "vi": "Đừng trộn lẫn ma quỷ và chất nổ... (người làm phép sẽ phát nổ khi hiệu ứng kết thúc)"
+  },
+  "effect.born_in_chaos_v1.bone_fracture.description": {
+    "en": null,
+    "zh": "使施法者行动迟缓且虚弱。获得生命恢复效果时该效果消失。",
+    "vi": "Làm cho người làm bánh chậm chạp và yếu ớt. Hiệu ứng này biến mất khi nhận được hiệu ứng phục hồi sức khỏe."
+  },
+  "effect.born_in_chaos_v1.rotten_smell.description": {
+    "en": null,
+    "zh": "蚊蝇环绕并轻微遮挡视线。约每25秒生成一只腐尸蝇，若施法者处于水中则生成腐尸鱼。",
+    "vi": "Muỗi và ruồi vây quanh và hơi che khuất tầm nhìn. Khoảng 25 giây sẽ có một con ruồi thối rữa xuất hiện và một con cá thối rữa sẽ xuất hiện nếu người làm phép ở trong nước."
+  },
+  "effect.born_in_chaos_v1.myiasis.description": {
+    "en": null,
+    "zh": "持续造成伤害直至生命值低于17点。效果结束时玩家体内将爬出蛆虫。入水后效果消失。",
+    "vi": "Tiếp tục gây sát thương cho đến khi máu giảm xuống dưới 17. Khi hiệu ứng kết thúc, giòi sẽ bò ra khỏi cơ thể người chơi. Hiệu ứng biến mất sau khi vào nước."
+  },
+  "effect.born_in_chaos_v1.infernal_flame.description": {
+    "en": null,
+    "zh": "每2秒造成3点伤害。",
+    "vi": "Gây 3 điểm sát thương mỗi 2 giây."
+  },
+  "effect.born_in_chaos_v1.living_bomb.description": {
+    "en": null,
+    "zh": "我想你足够聪明能自己领悟这个效果...",
+    "vi": "Tôi đoán bạn đủ thông minh để tự mình nhận ra tác dụng..."
+  },
+  "effect.born_in_chaos_v1.unity_with_darkness.description": {
+    "en": null,
+    "zh": "提升移动速度与攻击伤害。",
+    "vi": "Tăng tốc độ di chuyển và sát thương tấn công."
+  },
+  "effect.born_in_chaos_v1.bone_barrier.description": {
+    "en": null,
+    "zh": "完全抵挡一次攻击。受击或持续时间结束后消失。",
+    "vi": "Ngăn chặn hoàn toàn một cuộc tấn công. Biến mất sau khi bị đánh hoặc hết thời gian."
+  },
+  "effect.born_in_chaos_v1.undead_summonun.description": {
+    "en": null,
+    "zh": "效果结束时在施法者附近随机召唤亡灵生物。",
+    "vi": "Khi hiệu ứng kết thúc, một sinh vật bất tử ngẫu nhiên được triệu hồi gần người thi triển."
+  },
+  "effect.born_in_chaos_v1.jawattack.description": {
+    "en": null,
+    "zh": "在施法者脚下生成4个颚骨攻击体。",
+    "vi": "4 kẻ tấn công xương hàm được sinh ra dưới chân người thi triển."
+  },
+  "effect.born_in_chaos_v1.dogtruce.description": {
+    "en": null,
+    "zh": "使恐怖猎犬与凶暴猎犬首领除非被攻击否则不会主动攻击。",
+    "vi": "Làm cho các thủ lĩnh của Dread Hound và Dire Hound không tấn công trừ khi bị tấn công."
+  },
+  "effect.born_in_chaos_v1.block_break.description": {
+    "en": null,
+    "zh": "暂时破坏盾牌防御。",
+    "vi": "Tạm thời phá hủy lá chắn phòng thủ."
+  },
+  "effect.born_in_chaos_v1.sacrifice.description": {
+    "en": null,
+    "zh": "可怜的动物...（标记被用作祭品的动物）",
+    "vi": "Tội nghiệp những con vật... (đánh dấu những con vật được dùng làm vật hiến tế)"
+  },
+  "effect.born_in_chaos_v1.barbedattack.description": {
+    "en": null,
+    "zh": "这次攻击可真是带刺啊。",
+    "vi": "Cuộc tấn công này thực sự rất nhức nhối."
+  },
+  "effect.born_in_chaos_v1.infestationof_flies.description": {
+    "en": null,
+    "zh": "快叫除虫专家来！",
+    "vi": "Hãy gọi cho các chuyên gia kiểm soát dịch hại!"
+  },
+  "effect.born_in_chaos_v1.fish_breath.description": {
+    "en": null,
+    "zh": "臭气熏天。",
+    "vi": "Mùi hôi thối tràn ngập."
+  },
+  "effect.born_in_chaos_v1.aim.description": {
+    "en": null,
+    "zh": "南瓜头大人正在降临...",
+    "vi": "Chúa tể Pumpkinhead đang đến..."
+  },
+  "effect.simplyswords.freeze.description": {
+    "en": null,
+    "zh": "使使用者冻结并无法移动。",
+    "vi": "Khiến người dùng bị đóng băng và không thể di chuyển."
+  },
+  "effect.simplyswords.ward.description": {
+    "en": null,
+    "zh": "根据剩余生命值提供脉冲式伤害吸收。",
+    "vi": "Cung cấp khả năng hấp thụ sát thương xung dựa trên lượng máu còn lại."
+  },
+  "effect.simplyswords.immolation.description": {
+    "en": null,
+    "zh": "周期性对使用者和附近敌人造成伤害。伤害值随当前生命值提升。",
+    "vi": "Định kỳ gây sát thương cho người sử dụng và kẻ địch ở gần. Giá trị sát thương tăng theo giá trị sức khỏe hiện tại."
+  },
+  "effect.simplyswords.echo.description": {
+    "en": null,
+    "zh": "造成延迟性魔法伤害。",
+    "vi": "Gây sát thương phép thuật chậm."
+  },
+  "effect.simplyswords.onslaught.description": {
+    "en": null,
+    "zh": "提供脉冲式急迫效果，但效果结束时附加虚弱。",
+    "vi": "Cung cấp hiệu ứng dồn dập, nhưng tăng thêm điểm yếu khi hiệu ứng kết thúc."
+  },
+  "effect.simplyswords.battle_fatigue": {
+    "en": null,
+    "zh": "战斗疲乏",
+    "vi": "chiến đấu mệt mỏi"
+  },
+  "effect.simplyswords.battle_fatigue.description": {
+    "en": null,
+    "zh": "在一段时间内无法再次放置战旗。",
+    "vi": "Cờ chiến đấu không thể được đặt lại trong một khoảng thời gian nhất định."
+  },
+  "effect.simplyswords.fatal_flicker": {
+    "en": null,
+    "zh": "致命闪烁",
+    "vi": "tia sáng chết người"
+  },
+  "effect.simplyswords.fatal_flicker.description": {
+    "en": null,
+    "zh": "重置风语武器的冲刺技能冷却时间。",
+    "vi": "Đặt lại thời gian hồi chiêu của kỹ năng chạy nước rút của vũ khí Windwhisper."
+  },
+  "effect.alexscaves.stunned.description": {
+    "en": null,
+    "zh": "无法移动和攻击，屏幕摇晃。",
+    "vi": "Không thể di chuyển và tấn công, màn hình rung chuyển."
+  },
+  "effect.cataclysm.monstrous.description": {
+    "en": null,
+    "zh": "初始触发低伤害击退爆炸，随后提升护甲值、护甲韧性和击退抗性",
+    "vi": "Ban đầu kích hoạt vụ nổ đánh bật có sát thương thấp, sau đó tăng giá trị giáp, độ bền của áo giáp và khả năng chống đẩy lùi"
+  },
+  "effect.cataclysm.blazing_brand.description": {
+    "en": null,
+    "zh": "熔毁护甲，降低护甲值和护甲韧性",
+    "vi": "Làm tan chảy áo giáp, giảm giá trị áo giáp và độ bền của áo giáp"
+  },
+  "effect.cataclysm.stun.description": {
+    "en": null,
+    "zh": "降低移动速度并禁用交互动作",
+    "vi": "Giảm tốc độ di chuyển và vô hiệu hóa tương tác"
+  },
+  "effect.cataclysm.abyssal_burn.description": {
+    "en": null,
+    "zh": "持续造成伤害并根据生命值反比随机传送（看不懂？我也一样...）",
+    "vi": "Liên tục gây sát thương và dịch chuyển ngẫu nhiên tỷ lệ nghịch với máu (không hiểu à? Tôi cũng vậy...)"
+  },
+  "effect.cataclysm.bone_fracture.description": {
+    "en": null,
+    "zh": "降低移动速度与攻击速度",
+    "vi": "Giảm tốc độ di chuyển và tốc độ tấn công"
+  },
+  "effect.cataclysm.abyssal_fear.description": {
+    "en": null,
+    "zh": "禁止生命恢复与治疗效果",
+    "vi": "Vô hiệu hóa hiệu ứng phục hồi sức khỏe và chữa bệnh"
+  },
+  "effect.cataclysm.abyssal_curse.description": {
+    "en": null,
+    "zh": "持续造成致命伤害",
+    "vi": "Gây sát thương chí mạng theo thời gian"
+  },
+  "effect.cataclysm.blessing_of_amethyst.description": {
+    "en": null,
+    "zh": "获得黑暗免疫、深渊灼烧免疫和深渊恐惧免疫",
+    "vi": "Nhận được khả năng miễn nhiễm với Bóng tối, Đốt cháy của vực thẳm và Sợ hãi vực thẳm"
+  },
+  "effect.cataclysm.curse_of_desert.description": {
+    "en": null,
+    "zh": "反转操作方向",
+    "vi": "Đảo ngược hướng vận hành"
+  },
+  "effect.cataclysm.ghost_sickness.description": {
+    "en": null,
+    "zh": "咒魂胸甲效果冷却",
+    "vi": "Thời gian hồi chiêu của hiệu ứng áo giáp linh hồn bị nguyền rủa"
+  },
+  "effect.cataclysm.ghost_form.description": {
+    "en": null,
+    "zh": "获得大幅移动效果，并且期间无敌",
+    "vi": "Nhận được hiệu ứng chuyển động lớn và bất khả chiến bại trong thời gian đó"
+  },
+  "effect.cataclysm.wetness.description": {
+    "en": null,
+    "zh": "受到的雷电伤害增加",
+    "vi": "Sát thương sét nhận được tăng lên"
+  },
+  "effect.alexscaves.irradiated.description": {
+    "en": null,
+    "zh": "禁用自然恢复，较高等级时会造成伤害",
+    "vi": "Vô hiệu hóa khả năng phục hồi tự nhiên, gây sát thương ở cấp độ cao hơn"
+  },
+  "effect.alexscaves.bubbled.description": {
+    "en": null,
+    "zh": "使使用者被包裹在巨型气泡中并导致窒息",
+    "vi": "Bao bọc người dùng trong một bong bóng khổng lồ và gây ngạt thở"
+  },
+  "effect.alexscaves.sugar_rush.description": {
+    "en": null,
+    "zh": "太太……太正",
+    "vi": "Bà...chính trực quá"
+  },
+  "effect.alexsmobs.clinging.description": {
+    "en": "Allows walking upside-down on ceilings.",
+    "zh": "使玩家可以以攀爬天花板。",
+    "vi": "Cho phép người chơi leo lên trần nhà."
+  },
+  "effect.abundance.succumbing.description": {
+    "en": "Poisons the user for a short time when they receive any damage.",
+    "zh": null,
+    "vi": null
+  },
+  "effect.abundance.supportive.description": {
+    "en": "Gives regeneration to animals, strength to neutral mobs and resistance to monsters.",
+    "zh": null,
+    "vi": null
+  },
+  "effect.alexsmobs.debilitating_sting.description": {
+    "en": "An Effect which poisons the victim but paralyzes arthropods. It will stop if the victim is at half health and is not an arthropod. Inflicted by a Tarantula Hawk.",
+    "zh": null,
+    "vi": null
+  },
+  "effect.alexsmobs.ender_flu.description": {
+    "en": "After the effect runs out naturally, the user takes massive damage and an Enderiophage will spawn. Inflicted by an Enderiophage.",
+    "zh": null,
+    "vi": null
+  },
+  "effect.alexsmobs.exsanguination.description": {
+    "en": "Gradually drains health.",
+    "zh": null,
+    "vi": null
+  },
+  "effect.alexsmobs.fear.description": {
+    "en": "Makes the target unable to move. Effect applied when a Tiger reveals itself to the user.",
+    "zh": null,
+    "vi": null
+  },
+  "effect.alexsmobs.oiled.description": {
+    "en": "Oil floats on water. Cover yourself in oil to float on the surface of water and outside in the rain.",
+    "zh": null,
+    "vi": null
+  },
+  "effect.alexsmobs.orcas_might.description": {
+    "en": "Grants increased attack speed. Effect may be applied when swimming with an Orca.",
+    "zh": null,
+    "vi": null
+  },
+  "effect.alexsmobs.sunbird_blessing.description": {
+    "en": "Decreases fall speed, prevents fall damage and makes it easier to fly with an Elytra or Tarantula Hawk Elytra. Effect is applied when near a Sunbird.",
+    "zh": null,
+    "vi": null
+  },
+  "effect.alexsmobs.sunbird_curse.description": {
+    "en": "Increases fall speed, causing the user to hit the ground quicker. This effectively impedes the use of an Elytra. Effect is applied when attacking a Sunbird.",
+    "zh": null,
+    "vi": null
+  },
+  "effect.alexsmobs.tigers_blessing.description": {
+    "en": "Tigers near the user will be neutral and will protect them from hostile foes. The effect will go away early when attacking a Tiger. Applied by feeding a Tiger chicken or pork chops.",
+    "zh": null,
+    "vi": null
+  },
+  "effect.apotheosis.ancient_knowledge.description": {
+    "en": "Quadruples all experience earned from entity kills. The effect doubles with each level.",
+    "zh": null,
+    "vi": null
+  },
+  "effect.apotheosis.sundering.description": {
+    "en": "Increases damage taken by 20% per level. This effect is the opposite of Protection which means that a Sundering II potion can completely revoke all benefits of Resistance II.",
+    "zh": null,
+    "vi": null
+  },
+  "effect.archers_paradox.challenge_complete.description": {
+    "en": "Shows successful completion of a streak with challenge arrows.",
+    "zh": null,
+    "vi": null
+  },
+  "effect.archers_paradox.challenge_miss.description": {
+    "en": "Shows failure to complete a streak with challenge arrows.",
+    "zh": null,
+    "vi": null
+  },
+  "effect.archers_paradox.challenge_streak.description": {
+    "en": "Shows the current time limit and level of a challenge streak.",
+    "zh": null,
+    "vi": null
+  },
+  "effect.archers_paradox.training_miss.description": {
+    "en": "Shows a broken streak during archery training.",
+    "zh": null,
+    "vi": null
+  },
+  "effect.archers_paradox.training_streak.description": {
+    "en": "Shows current time limit and level of a archery training streak.",
+    "zh": null,
+    "vi": null
+  },
+  "effect.ars_nouveau.mana_regen.description": {
+    "en": "Regenerate mana at a faster rate",
+    "zh": null,
+    "vi": null
+  },
+  "effect.astralsorcery.bleed.description": {
+    "en": "Fast damage over time",
+    "zh": null,
+    "vi": null
+  },
+  "effect.astralsorcery.cheat_death.description": {
+    "en": "Allows entity to cheat death. When triggered light nearby mobs on fire, grants fire resistance and regeneration when used",
+    "zh": null,
+    "vi": null
+  },
+  "effect.astralsorcery.drop_modifier.description": {
+    "en": "Changes drops",
+    "zh": null,
+    "vi": null
+  },
+  "effect.atmospheric.gelled.description": {
+    "en": "Extinguishes fire initially, slightly increased life regen, and slightly reduces fire damage taken. If the effect is gained again while still active the user will be poisoned.",
+    "zh": null,
+    "vi": null
+  },
+  "effect.atmospheric.persistence.description": {
+    "en": "Makes entities to run faster the lower their hunger level is.",
+    "zh": null,
+    "vi": null
+  },
+  "effect.atmospheric.relief.description": {
+    "en": "If incoming damage is greater than or equal to the effect level the user is healed; healing received is equal to the effect level.",
+    "zh": null,
+    "vi": null
+  },
+  "effect.atmospheric.spitting.description": {
+    "en": "While this effect is active the user will rapidly spit out passion fruit seeds that can knock back and damage mobs.",
+    "zh": null,
+    "vi": null
+  },
+  "effect.atmospheric.worsening.description": {
+    "en": "If incoming damage is greater than or equal to the effect level the user is damaged; damage received is equal to the effect level.",
+    "zh": null,
+    "vi": null
+  },
+  "effect.autumnity.extension.description": {
+    "en": "Any effects gained while the user have the effect gain an additional 30 seconds.",
+    "zh": null,
+    "vi": null
+  },
+  "effect.autumnity.foul_taste.description": {
+    "en": "The next food item eaten removes the effect but replenishes 50% more hunger points than normally.",
+    "zh": null,
+    "vi": null
+  },
+  "effect.botania.allure.description": {
+    "en": "The affected player will have their Fishing Rod update twice as often, effectively doubling fishing speed",
+    "zh": null,
+    "vi": null
+  },
+  "effect.botania.bloodthirst.description": {
+    "en": "Allows hostile monsters to spawn within a 64 block radius of the user, regardless of light level or other spawning conditions. This includes allowing Slimes to spawn outside of Slime Chunks",
+    "zh": null,
+    "vi": null
+  },
+  "effect.botania.clear.description": {
+    "en": "Clears all status effects",
+    "zh": null,
+    "vi": null
+  },
+  "effect.botania.emptiness.description": {
+    "en": "Prevents mob natural mob spawning in a 128 block radius around the affected entity",
+    "zh": null,
+    "vi": null
+  },
+  "effect.botania.feather_feet.description": {
+    "en": "Negated damaged cause by falling. This effect doesn't prevent fall damage from other causes like Ender Pearls",
+    "zh": null,
+    "vi": null
+  },
+  "effect.botania.soul_cross.description": {
+    "en": "Restore 5% of their user maximum health whenever another creature is killed",
+    "zh": null,
+    "vi": null
+  },
+  "effect.buzzier_bees.sunny.description": {
+    "en": "Simulates sunlight. Phantoms won't attack mobs that have the effect, bees won't sleep if they have the effect, undead that have the effect will burn",
+    "zh": null,
+    "vi": null
+  },
+  "effect.caverns_and_chasms.affliction.description": {
+    "en": "Once the effect ends, inflicts 3 magic damage per effect level.",
+    "zh": null,
+    "vi": null
+  },
+  "effect.caverns_and_chasms.rewind.description": {
+    "en": "At the end of the effect, teleports the user to the position where the effect was initially gained.",
+    "zh": null,
+    "vi": null
+  },
+  "effect.create_confectionery.rest.description": {
+    "en": "Makes phantoms disappear.",
+    "zh": null,
+    "vi": null
+  },
+  "effect.create_confectionery.stimulation.description": {
+    "en": "Removes mining fatigue and slowness",
+    "zh": null,
+    "vi": null
+  },
+  "effect.dungeons_mobs.ensnared.description": {
+    "en": "Affected entities are trapped in place.",
+    "zh": null,
+    "vi": null
+  },
+  "effect.dungeons_mobs.warped.description": {
+    "en": "Inflicts lethal magic damage over time.",
+    "zh": null,
+    "vi": null
+  },
+  "effect.dungeons_gear.shielding.description": {
+    "en": "Grants immunity to projectiles.",
+    "zh": null,
+    "vi": null
+  },
+  "effect.dungeons_gear.soul_protection.description": {
+    "en": "Revives the player on death.",
+    "zh": null,
+    "vi": null
+  },
+  "effect.dungeons_gear.stunned.description": {
+    "en": "Stuns an entity, causing nausea and slowing their movement. Higher levels increase the stun chance.",
+    "zh": null,
+    "vi": null
+  },
+  "effect.dungeons_gear.party_starter.description": {
+    "en": "Melee attacks will cause entities to explode.",
+    "zh": null,
+    "vi": null
+  },
+  "effect.dungeons_gear.dynamo.description": {
+    "en": "Increases damage on next attack, higher levels increase the damage boost.",
+    "zh": null,
+    "vi": null
+  },
+  "effect.dungeons_gear.life_steal.description": {
+    "en": "Steals health from entities killed, higher levels increase the amount of health stolen.",
+    "zh": null,
+    "vi": null
+  },
+  "effect.dungeons_gear.bow_charge.description": {
+    "en": "The next ranged attack will automatically be fully charged.",
+    "zh": null,
+    "vi": null
+  },
+  "effect.eidolon.anchored.description": {
+    "en": "Prevents the affected entity from being teleported by certain effects.",
+    "zh": null,
+    "vi": null
+  },
+  "effect.eidolon.chilled.description": {
+    "en": "Disables passive health regeneration and makes ever food not provide any hunger points.",
+    "zh": null,
+    "vi": null
+  },
+  "effect.environmental.panic.description": {
+    "en": "Increases speed the lower the user health is.",
+    "zh": null,
+    "vi": null
+  },
+  "effect.environmental.serenity.description": {
+    "en": "Koi fish stop hostile mobs spawns in a 32x32x8 radius. The serenity effect indicates if the player is in that radius.",
+    "zh": null,
+    "vi": null
+  },
+  "effect.fantasy.glowing_vision.description": {
+    "en": "Causes Unicorns in a radius of 500 blocks to obtain the glowing effect, making them easier to locate.",
+    "zh": null,
+    "vi": null
+  },
+  "effect.farmersdelight.comfort.description": {
+    "en": "Removes and grants immunity to Slowness, Hunger and Weakness.",
+    "zh": null,
+    "vi": null
+  },
+  "effect.farmersdelight.nourishment.description": {
+    "en": "Prevents players from losing hunger or saturation from any other source other than replenishing health points.",
+    "zh": null,
+    "vi": null
+  },
+  "effect.farmersrespite.caffeinated.description": {
+    "en": "Increases the target's walk and attack speed.",
+    "zh": null,
+    "vi": null
+  },
+  "effect.forbidden_arcanus.darkened.description": {
+    "en": "A mix of blindness and slowness.",
+    "zh": null,
+    "vi": null
+  },
+  "effect.forbidden_arcanus.fly.description": {
+    "en": "Allows the affected player to creative fly.",
+    "zh": null,
+    "vi": null
+  },
+  "effect.forbidden_arcanus.spectral_vision.description": {
+    "en": "Allows to see entities through blocks: hostile mobs will glow red while passive ones will be green.",
+    "zh": null,
+    "vi": null
+  },
+  "effect.fruitful.sustaining.description": {
+    "en": "Increases hunger yield from any food eaten.",
+    "zh": null,
+    "vi": null
+  },
+  "effect.habitat.blast_endurance.description": {
+    "en": "Reduces damage taken from explosions.",
+    "zh": null,
+    "vi": null
+  },
+  "effect.habitat.prickling,description": {
+    "en": "Has a chance to deal thorns damage equal to its level to the attacker.",
+    "zh": null,
+    "vi": null
+  },
+  "effect.habitat.prolongation.description": {
+    "en": "Increases the duration of all incoming potion effects by 20%.",
+    "zh": null,
+    "vi": null
+  },
+  "effect.immersiveengineering.concrete_feet.description": {
+    "en": "Makes the target unable to move or jump. The effect immediately ends when the user is no longer standing on Concrete",
+    "zh": null,
+    "vi": null
+  },
+  "effect.immersiveengineering.conductive.description": {
+    "en": "Affected entities take extra damage from electric or 'flux' damage, such as Redstone Arsenal weapons or electrified Razor Wire",
+    "zh": null,
+    "vi": null
+  },
+  "effect.immersiveengineering.flammable.description": {
+    "en": "Increases fire damage taken",
+    "zh": null,
+    "vi": null
+  },
+  "effect.immersiveengineering.flashed.description": {
+    "en": "Players affected by it will have their screen flash white, rendering them temporarily blind",
+    "zh": null,
+    "vi": null
+  },
+  "effect.immersiveengineering.slippery.description": {
+    "en": "Affected entities will slowly slide forward when on the ground, and each tick have a 1/300 chance (roughly 6.5% chance each second) of dropping either their held item or their offhand item",
+    "zh": null,
+    "vi": null
+  },
+  "effect.immersiveengineering.sticky.description": {
+    "en": "Heavily slows do the target and impedes jumping",
+    "zh": null,
+    "vi": null
+  },
+  "effect.immersiveengineering.stunned.description": {
+    "en": "Endermen affected by this effect are unable to teleport",
+    "zh": null,
+    "vi": null
+  },
+  "effect.infernalexp.infection.description": {
+    "en": "Slowly poisons with non lethal damage over time; can be spread to other living entities when attacking them.",
+    "zh": null,
+    "vi": null
+  },
+  "effect.infernalexp.luminous.description": {
+    "en": "Makes the user emit light. If applied on undead mobs it will set them on fire.",
+    "zh": null,
+    "vi": null
+  },
+  "effect.mowziesmobs.frozen.description": {
+    "en": "Freezes and immobilizes the affected entity while also dealing some damage over time.",
+    "zh": null,
+    "vi": null
+  },
+  "effect.mowziesmobs.geomancy.description": {
+    "en": "Right-click earthen ground with empty hand to spawn a boulder. Charge right-click to spawn bigger boulders. Punch the boulder to fire it as projectile. While in the air, double-tap and hold sneak to begin tunneling while looking in the direction you'd like to dig. Release sneak to stop tunneling and surface.",
+    "zh": null,
+    "vi": null
+  },
+  "effect.mowziesmobs.poison_resist.description": {
+    "en": "Grants immunity to poison.",
+    "zh": null,
+    "vi": null
+  },
+  "effect.mowziesmobs.suns_blessing.description": {
+    "en": "Right-click with an empty hand to call down a sunstrike, shift-right-click with an empty hand to fire a solar beam.",
+    "zh": null,
+    "vi": null
+  },
+  "effect.neapolitan.agility.description": {
+    "en": "Allows to climb over any block as if they're ladders.",
+    "zh": null,
+    "vi": null
+  },
+  "effect.neapolitan.berserking.description": {
+    "en": "Killing mobs raises the effect by 1 level each time, each level adds strength and defense.",
+    "zh": null,
+    "vi": null
+  },
+  "effect.neapolitan.harmony.description": {
+    "en": "Makes most hostile mobs run from the user.",
+    "zh": null,
+    "vi": null
+  },
+  "effect.neapolitan.slipping.description": {
+    "en": "Makes the user move across the ground in random directions.",
+    "zh": null,
+    "vi": null
+  },
+  "effect.neapolitan.sugar_rush.description": {
+    "en": "Gives speed for the first three quarters of the effect duration, slowness for the last one.",
+    "zh": null,
+    "vi": null
+  },
+  "effect.neapolitan.vanilla_scent.description": {
+    "en": "Blocks incoming effects.",
+    "zh": null,
+    "vi": null
+  },
+  "effect.nether_extension.gentle.description": {
+    "en": "Decreases dealt knockback.",
+    "zh": null,
+    "vi": null
+  },
+  "effect.nether_extension.infested.description": {
+    "en": "Spawns aggressive baby Spori around the target.",
+    "zh": null,
+    "vi": null
+  },
+  "effect.nether_extension.rough.description": {
+    "en": "Increases knockback dealt.",
+    "zh": null,
+    "vi": null
+  },
+  "effect.quark.danger_sight.description": {
+    "en": "Highlights areas where hostile mobs can spawn.",
+    "zh": null,
+    "vi": null
+  },
+  "effect.quark.resilience.description": {
+    "en": "Provides 50% knockback resistance.",
+    "zh": null,
+    "vi": null
+  },
+  "effect.rats.plague.description": {
+    "en": "Disables natural health regeneration and turns hearts into plague hearts. Plague can be spread to other entities via interaction",
+    "zh": null,
+    "vi": null
+  },
+  "effect.rats.synesthesia.description": {
+    "en": "Provides unlimited saturation along with a full row of absorption hearts and heavily increased attack speed. When the effect is applied the field of view will zoom in and out and will be tinted orange. The opposite thing happens when the effect runs out.",
+    "zh": null,
+    "vi": null
+  },
+  "effect.savage_and_ravage.weigth.description": {
+    "en": "Makes the target really heavy.",
+    "zh": null,
+    "vi": null
+  },
+  "effect.seasonals.fall_flavor.description": {
+    "en": "'Tastes like autumn!' Automatically restores hunger and saturation over time.",
+    "zh": null,
+    "vi": null
+  },
+  "effect.seasonals.fall_flavour.description": {
+    "en": "Gives the user immunity to spiky plants and thorns damage.",
+    "zh": null,
+    "vi": null
+  },
+  "effect.seasonals.puppeteering.description": {
+    "en": "Allows the player pick up and move mobs with lower health.",
+    "zh": null,
+    "vi": null
+  },
+  "effect.seasonals.thorn_resistance.description": {
+    "en": "Lowers damage taken from spiky plants and thorns damage.",
+    "zh": null,
+    "vi": null
+  },
+  "effect.tetra.bleeding.description": {
+    "en": "Inflicts damage over time.",
+    "zh": null,
+    "vi": null
+  },
+  "effect.tetra.earthbound.description": {
+    "en": "The affected entity is slowed, take less knockback and cannot jump.",
+    "zh": null,
+    "vi": null
+  },
+  "effect.tetra.exhausted.description": {
+    "en": "<Unknown>",
+    "zh": null,
+    "vi": null
+  },
+  "effect.tetra.howling.description": {
+    "en": "Grants 12.5% chance to deflect projectile per effect level, slow movement speed by -5% and 2.5% chance to send incoming projectiles back where they came from.",
+    "zh": null,
+    "vi": null
+  },
+  "effect.tetra.punctured.description": {
+    "en": "Reduces armor by 10% per level.",
+    "zh": null,
+    "vi": null
+  },
+  "effect.tetra.severed.description": {
+    "en": "Reduces maximum health and attack damage.",
+    "zh": null,
+    "vi": null
+  },
+  "effect.tetra.small_health.description": {
+    "en": "Less potent version of Health Boost.",
+    "zh": null,
+    "vi": null
+  },
+  "effect.tetra.small_strength.description": {
+    "en": "Less potent version of Strength.",
+    "zh": null,
+    "vi": null
+  },
+  "effect.tetra.steeled.description": {
+    "en": "<Unknown>",
+    "zh": null,
+    "vi": null
+  },
+  "effect.tetra.stun.description": {
+    "en": "Stuns the target impeding its movement, making them deal no damage when attacking and giving them an infinite swing cooldown.",
+    "zh": null,
+    "vi": null
+  },
+  "effect.twilightforest.frosted.description": {
+    "en": "You are somewhere you are not supposed to be... yet.",
+    "zh": null,
+    "vi": null
+  },
+  "effect.twist.afterburn.description": {
+    "en": "Damages the user after the effect wears off.",
+    "zh": null,
+    "vi": null
+  },
+  "effect.twist.disintegration.description": {
+    "en": "Damages the user when sprinting.",
+    "zh": null,
+    "vi": null
+  },
+  "effect.twist.hazy.description": {
+    "en": "Not obtainable.",
+    "zh": null,
+    "vi": null
+  },
+  "effect.twist.mold.description": {
+    "en": "Causes the user's heart to rush when on a Charger's turf.",
+    "zh": null,
+    "vi": null
+  },
+  "effect.twist.outzimpled.description": {
+    "en": "Stops the user from popping Zimples.",
+    "zh": null,
+    "vi": null
+  },
+  "effect.twist.parasite.description": {
+    "en": "Not obtainable.",
+    "zh": null,
+    "vi": null
+  },
+  "effect.untitledduckmod.intimidation.description": {
+    "en": "Makes illagers afraid of the target.",
+    "zh": null,
+    "vi": null
+  },
+  "effect.upgrade_aquatic.insomnia.description": {
+    "en": "Increases the insomnia timer by 1 day worth per effect level, causing phantoms to spawn. If given to Phantoms will turn them into Flares, if given to Flares it will instantly kill them.",
+    "zh": null,
+    "vi": null
+  },
+  "effect.upgrade_aquatic.repellence.description": {
+    "en": "Inflicts poison on mobs that physically touch the user; higher levels increase the given poison effect level.",
+    "zh": null,
+    "vi": null
+  },
+  "effect.upgrade_aquatic.restfulness.description": {
+    "en": "Decreases the insomnia timer by 1 day worth per effect level, decreasing Phantoms spawn chance. If given to Flares will turn them into Phantoms, if given to Phantoms it will instantly kill them.",
+    "zh": null,
+    "vi": null
+  },
+  "effect.upgrade_aquatic.vibing.description": {
+    "en": "Inflicts regeneration on mobs that physically touch the user; higher levels increase the given regeneration effect level.",
+    "zh": null,
+    "vi": null
+  },
+  "effect.windswept.thorns.description": {
+    "en": "Damages any mob or player who attacks the target.",
+    "zh": null,
+    "vi": null
+  },
+  "effect.xreliquary.cure.description": {
+    "en": "The cure to something, that's for sure.",
+    "zh": null,
+    "vi": null
+  },
+  "effect.xreliquary.exhausted.description": {
+    "en": "The cure to something, that's for sure.",
+    "zh": null,
+    "vi": null
+  },
+  "effect.xreliquary.flight.description": {
+    "en": "Allows creative flight.",
+    "zh": null,
+    "vi": null
+  },
+  "effect.xreliquary.pacification.description": {
+    "en": "Makes the target not target and wander.",
+    "zh": null,
+    "vi": null
+  },
+  "effect.xreliquary.pacification": {
+    "en": "Pacified",
+    "zh": null,
+    "vi": null
+  },
+  "effect.cofh_core.wrenched.description": {
+    "en": "Makes the user constantly turn 40° clockwise every second per second each effect level.",
+    "zh": null,
+    "vi": null
+  },
+  "effect.cofh_core.sundered.description": {
+    "en": "Decreases the effectiveness of worn armor by 25% per level.",
+    "zh": null,
+    "vi": null
+  },
+  "effect.cofh_core.slimed.description": {
+    "en": "Grants immunity to fall damage and makes you bounce like a slime.",
+    "zh": null,
+    "vi": null
+  },
+  "effect.cofh_core.shocked.description": {
+    "en": "Decreases attack speed by 15% per level.",
+    "zh": null,
+    "vi": null
+  },
+  "effect.cofh_core.lightning_resistance.description": {
+    "en": "Grants immunity to lightning damage.",
+    "zh": null,
+    "vi": null
+  },
+  "effect.cofh_core.panacea.description": {
+    "en": "Grants immunity to all negative status effects.",
+    "zh": null,
+    "vi": null
+  },
+  "effect.cofh_core.magic_resistance.description": {
+    "en": "Grants immunity to all magic damage.",
+    "zh": null,
+    "vi": null
+  },
+  "effect.cofh_core.love.description": {
+    "en": "Causes nearby animals to enter love mode.",
+    "zh": null,
+    "vi": null
+  },
+  "effect.cofh_core.enderference.description": {
+    "en": "Makes nearby endermen unable to teleport. Also disables teleportation for nearby players using ender pearls or chorus fruits.",
+    "zh": null,
+    "vi": null
+  },
+  "effect.cofh_core.clarity.description": {
+    "en": "Increases the amount of gained exp by 40% per level.",
+    "zh": null,
+    "vi": null
+  },
+  "effect.cofh_core.explosion_resistance.description": {
+    "en": "Grants immunity to explosion damage.",
+    "zh": null,
+    "vi": null
+  },
+  "effect.cofh_core.chilled.description": {
+    "en": "Reduces movement speed by 30% and attack damage by 1.5 hearts per level.",
+    "zh": null,
+    "vi": null
+  }
+}

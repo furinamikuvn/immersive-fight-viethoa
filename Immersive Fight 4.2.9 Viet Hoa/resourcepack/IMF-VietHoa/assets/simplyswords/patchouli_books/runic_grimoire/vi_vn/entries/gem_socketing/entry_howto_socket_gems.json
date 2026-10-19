@@ -1,0 +1,16 @@
+{
+  "name": "Cơ Chế Khảm Bảo Thạch",
+  "icon": "simplyswords:netherfused_gem",
+  "category": "simplyswords:category_gem_socketing",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:netherfused_gem",
+      "text": ""
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Mở túi đồ, nhấp chuột trái vào ngọc rồi nhấp vào vũ khí để khảm nạm. Ngọc sẽ tiêu hao và vũ khí nhận thêm năng lực mới."
+    }
+  ]
+}

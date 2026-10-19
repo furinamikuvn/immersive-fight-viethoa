@@ -1,0 +1,457 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "mebahelcreaturesdraugr:ebony_ingot",
+          "weight": 3,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 1.0
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "mebahelcreaturesdraugr:ebony_scrap",
+          "weight": 7,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 1.0,
+                "max": 2.0
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "bonus_rolls": 0.0,
+      "rolls": 2,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:iron_ingot",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "add": false,
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 2.0,
+                "max": 5.0
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:gold_ingot",
+          "weight": 9,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "add": false,
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 2.0,
+                "max": 5.0
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:emerald",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "add": false,
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 1.0,
+                "max": 3.0
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:diamond",
+          "weight": 8,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "add": false,
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 1.0,
+                "max": 2.0
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:experience_bottle",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 2.0,
+                "max": 6.0
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "bonus_rolls": 0.0,
+      "rolls": {
+        "type": "minecraft:uniform",
+        "min": 1.0,
+        "max": 2.0
+      },
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:rotten_flesh",
+          "weight": 6,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "add": false,
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 4.0,
+                "max": 8.0
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:bone",
+          "weight": 6,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "add": false,
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 4.0,
+                "max": 8.0
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:lapis_lazuli",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "add": false,
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 4.0,
+                "max": 10.0
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:golden_apple",
+          "weight": 5
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:packed_ice",
+          "weight": 4,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 2.0,
+                "max": 6.0
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:blue_ice",
+          "weight": 2,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 1.0,
+                "max": 3.0
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:empty",
+          "weight": 2
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:diamond_helmet",
+          "weight": 2,
+          "functions": [
+            {
+              "function": "minecraft:enchant_randomly"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:diamond_chestplate",
+          "weight": 2,
+          "functions": [
+            {
+              "function": "minecraft:enchant_randomly"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:diamond_leggings",
+          "weight": 2,
+          "functions": [
+            {
+              "function": "minecraft:enchant_randomly"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:diamond_boots",
+          "weight": 2,
+          "functions": [
+            {
+              "function": "minecraft:enchant_randomly"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "bonus_rolls": 0.0,
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:empty",
+          "weight": 10
+        },
+        {
+          "type": "minecraft:item",
+          "name": "mebahelcreaturesdraugr:magical_stone/frost_bite_magical_stone",
+          "weight": 4
+        },
+        {
+          "type": "minecraft:item",
+          "name": "mebahelcreaturesdraugr:magical_stone/frost_spike_magical_stone",
+          "weight": 2
+        }
+      ]
+    },
+    {
+      "bonus_rolls": 0.0,
+      "rolls": {
+        "type": "minecraft:uniform",
+        "min": 1.0,
+        "max": 2.0
+      },
+      "entries": [
+        {
+          "type": "minecraft:empty",
+          "weight": 5
+        },
+        {
+          "type": "minecraft:item",
+          "name": "mebahelcreaturesdraugr:stalhrim",
+          "weight": 5
+        },
+        {
+          "type": "minecraft:item",
+          "name": "mebahelcreaturesdraugr:ebony_arrow",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 6.0,
+                "max": 18.0
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "bonus_rolls": 0.0,
+      "rolls": {
+        "type": "minecraft:uniform",
+        "min": 1.0,
+        "max": 2.0
+      },
+      "entries": [
+        {
+          "type": "minecraft:empty",
+          "weight": 4
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:book",
+          "weight": 6,
+          "functions": [
+            {
+              "function": "minecraft:enchant_randomly"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "mebahelcreaturesdraugr:bow/ancient_nord/ancient_nord_bow",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "minecraft:enchant_randomly"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "mebahelcreaturesdraugr:weapon/ancient_nord/ancient_nord_sword",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "minecraft:enchant_randomly"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "mebahelcreaturesdraugr:bow/stalhrim_bow",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "minecraft:enchant_randomly"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:bow",
+          "weight": 3,
+          "functions": [
+            {
+              "function": "minecraft:enchant_randomly"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "mebahelcreaturesdraugr:weapon/ebony/ebony_greatsword",
+          "weight": 3,
+          "functions": [
+            {
+              "function": "minecraft:enchant_randomly"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "mebahelcreaturesdraugr:weapon/ebony/ebony_mace",
+          "weight": 3,
+          "functions": [
+            {
+              "function": "minecraft:enchant_randomly"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "mebahelcreaturesdraugr:weapon/ebony/ebony_axe",
+          "weight": 3,
+          "functions": [
+            {
+              "function": "minecraft:enchant_randomly"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "mebahelcreaturesdraugr:weapon/ebony/ebony_dagger",
+          "weight": 3,
+          "functions": [
+            {
+              "function": "minecraft:enchant_randomly"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "mebahelcreaturesdraugr:stalhrim_sword",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "minecraft:enchant_randomly"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "mebahelcreaturesdraugr:golden_claw_fragment",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 1.0,
+                "max": 2.0
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

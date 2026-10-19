@@ -1,0 +1,10 @@
+
+#Tệp cấu hình
+[petconnect]
+	#Giới hạn số lượng thú cưng, mặc định là 10
+	#Range: > 0
+	limit_pets_number = 10
+	#Khoảng cách kết nối, mặc định là 10
+	#Range: 0.0 ~ 1.7976931348623157E308
+	connect_distance = 10.0
+

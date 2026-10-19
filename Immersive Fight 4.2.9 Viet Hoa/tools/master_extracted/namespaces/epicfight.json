@@ -1,0 +1,3452 @@
+{
+  "gui.epicfight.unequip": {
+    "en": null,
+    "zh": "§c§l卸下当前技能",
+    "vi": "§c§lTháo kỹ năng hiện tại"
+  },
+  "skill.epicfight.forbidden_strength.consume.tooltip": {
+    "en": "Stamina requirement",
+    "zh": "耐力要求",
+    "vi": "Yêu cầu Thể lực"
+  },
+  "attribute.name.epicfight.impact": {
+    "en": "Impact",
+    "zh": "%s 冲击力",
+    "vi": "%s Lực xung kích"
+  },
+  "attribute.name.epicfight.armor_negation": {
+    "en": "Armor Negation",
+    "zh": "穿甲",
+    "vi": "Xuyên giáp"
+  },
+  "attribute.name.epicfight.max_strikes": {
+    "en": "Max Strikes",
+    "zh": "每次攻击波及 %s 个敌人",
+    "vi": "Mỗi đòn đánh trúng tối đa %s kẻ địch"
+  },
+  "attribute.name.epicfight.mainhand_only": {
+    "en": null,
+    "zh": "仅主手可用",
+    "vi": "Chỉ dùng cho tay chính"
+  },
+  "attribute.name.epicfight.twohanded": {
+    "en": null,
+    "zh": "双手持握",
+    "vi": "Vũ khí hai tay"
+  },
+  "attribute.name.epicfight.stun_armor": {
+    "en": "Stun Armor",
+    "zh": "击晕抗性",
+    "vi": "Kháng choáng"
+  },
+  "attribute.name.epicfight.weight": {
+    "en": "Weight",
+    "zh": "重量",
+    "vi": "Trọng lượng"
+  },
+  "attribute.name.epicfight.staminar": {
+    "en": "Max Stamina",
+    "zh": "耐力",
+    "vi": "Thể lực"
+  },
+  "attribute.name.epicfight.stamina_regen": {
+    "en": "Stamina Regen",
+    "zh": "耐力回复",
+    "vi": "Hồi phục thể lực"
+  },
+  "attribute.name.epicfight.offhand_attack_speed": {
+    "en": "Offhand Attack Speed",
+    "zh": "副手攻速",
+    "vi": "Tốc độ đánh tay phụ"
+  },
+  "attribute.name.epicfight.max_execution_resistance": {
+    "en": null,
+    "zh": "处决抗性",
+    "vi": "Kháng kết liễu"
+  },
+  "epicfight.style.one_hand": {
+    "en": "One Handed",
+    "zh": "单手握持",
+    "vi": "Một tay"
+  },
+  "epicfight.style.two_hand": {
+    "en": "Two Handed",
+    "zh": "双手握持",
+    "vi": "Hai tay"
+  },
+  "epicfight.style.mount": {
+    "en": "Mount",
+    "zh": "骑乘",
+    "vi": "Cưỡi ngựa"
+  },
+  "epicfight.style.ranged": {
+    "en": "Ranged",
+    "zh": "远程",
+    "vi": "Tầm xa"
+  },
+  "epicfight.style.sheath": {
+    "en": "Sheathed",
+    "zh": "收鞘",
+    "vi": "Thu bao kiếm"
+  },
+  "epicfight.style.ochs": {
+    "en": "Guard Stance",
+    "zh": "防御姿态",
+    "vi": "Thế thủ"
+  },
+  "attribute.name.epicfight.impact.value": {
+    "en": "%s Impact",
+    "zh": "%s 冲击力",
+    "vi": "%s Lực xung kích"
+  },
+  "attribute.name.epicfight.armor_negation.value": {
+    "en": "%s%% Armor Negation",
+    "zh": "%s%% 穿甲",
+    "vi": "%s%% Xuyên giáp"
+  },
+  "attribute.name.epicfight.max_strikes.value": {
+    "en": "Hit %s Enemies per Swing",
+    "zh": "横扫 %s 人",
+    "vi": "Quét trúng %s mục tiêu"
+  },
+  "inventory.epicfight.guide_innate_tooltip": {
+    "en": "[%s] to see Innate skill",
+    "zh": "[%s] 查看武器技能",
+    "vi": "[%s] Xem kỹ năng vũ khí"
+  },
+  "skill.epicfight.guard.consume.tooltip": {
+    "en": "Impact x guard penalty",
+    "zh": "冲击力 x 防御惩罚",
+    "vi": "Lực xung kích x Phạt phòng thủ"
+  },
+  "gui.epicfight.available_weapon_types": {
+    "en": "Available Weapon Types",
+    "zh": "可用武器类型",
+    "vi": "Loại vũ khí tương thích:"
+  },
+  "skill.epicfight.meteor_slam.consume.tooltip": {
+    "en": "Fall damage",
+    "zh": "摔落伤害",
+    "vi": "Sát thương rơi"
+  },
+  "attribute.name.epicfight.stamina.consume": {
+    "en": "%s Stamina",
+    "zh": "%s 耐力",
+    "vi": "%s Thể lực"
+  },
+  "attribute.name.epicfight.stamina_current_ratio.consume": {
+    "en": "%s%% of current stamina",
+    "zh": "%s%% 当前耐力",
+    "vi": "%s%% Thể lực hiện tại"
+  },
+  "attribute.name.epicfight.stamina_per_second.consume": {
+    "en": "%s per second",
+    "zh": "%s 耐力每秒",
+    "vi": "%s Thể lực/giây"
+  },
+  "attribute.name.epicfight.stamina.consume.tooltip": {
+    "en": "Requires an indicated amount of stamina to execute",
+    "zh": "消耗耐力使用",
+    "vi": "Tiêu hao thể lực khi dùng"
+  },
+  "attribute.name.epicfight.cooldown.consume": {
+    "en": "%ss",
+    "zh": "%ss",
+    "vi": "%ss"
+  },
+  "attribute.name.epicfight.cooldown.consume.tooltip": {
+    "en": "A cooldown time to activate a skill again",
+    "zh": "冷却时间",
+    "vi": "Thời gian hồi chiêu"
+  },
+  "attribute.name.epicfight.health.consume": {
+    "en": "%s Health",
+    "zh": "%s 生命值",
+    "vi": "%s Sinh lực"
+  },
+  "attribute.name.epicfight.health.consume.tooltip": {
+    "en": "Requires an indicated amount of health to execute",
+    "zh": "消耗生命值使用",
+    "vi": "Tiêu hao sinh lực khi dùng"
+  },
+  "skill.epicfight.hypervitality.consume.tooltip": {
+    "en": "20% of weapon charge",
+    "zh": "20% 武器技能充能",
+    "vi": "20% Tích nạp kỹ năng vũ khí"
+  },
+  "attribute.name.generic.max_health.skillbook_tooltip": {
+    "en": "Increases player's max health",
+    "zh": "提升玩家最大生命值",
+    "vi": "Gia tăng sinh lực tối đa của nhân vật"
+  },
+  "attribute.name.generic.attack_damage.skillbook_tooltip": {
+    "en": "Increases player's attack damage",
+    "zh": "提升玩家攻击伤害",
+    "vi": "Gia tăng sát thương tấn công"
+  },
+  "attribute.name.epicfight.staminar.skillbook_tooltip": {
+    "en": "Increases player's max stamina",
+    "zh": "提升玩家最大耐力",
+    "vi": "Gia tăng thể lực tối đa"
+  },
+  "attribute.name.epicfight.stamina_regen.skillbook_tooltip": {
+    "en": "Reduces the amount of time taken for stamina to regen",
+    "zh": "减少耐力恢复时间",
+    "vi": "Rút ngắn thời gian hồi phục thể lực"
+  },
+  "commands.epicfight.skill.add.success.single": {
+    "en": "Added skill %s to %s",
+    "zh": "添加技能 %s 至 %s",
+    "vi": "Đã gán kỹ năng %s cho %s"
+  },
+  "commands.epicfight.skill.add.success.multiple": {
+    "en": "Added skill %s to %s targets",
+    "zh": "添加技能 %s 至 %s 个目标",
+    "vi": "Đã gán kỹ năng %s cho %s mục tiêu"
+  },
+  "commands.epicfight.skill.add.failed": {
+    "en": "Unable to add this skill (skill already applied)",
+    "zh": "无法添加这个技能（技能已学习）",
+    "vi": "Không thể thêm kỹ năng này (Đã học rồi)"
+  },
+  "commands.epicfight.skill.remove.success.single": {
+    "en": "Removed %s from %s",
+    "zh": "已将 %s 从 %s 身上移除",
+    "vi": "Đã xóa kỹ năng %s khỏi %s"
+  },
+  "commands.epicfight.skill.remove.success.multiple": {
+    "en": "Removed %s from %s targets",
+    "zh": "已将 %s 从 %s 个目标身上移除",
+    "vi": "Đã xóa kỹ năng %s khỏi %s mục tiêu"
+  },
+  "commands.epicfight.skill.remove.failed": {
+    "en": "Unable to remove this skill (skill does not exist)",
+    "zh": "无法移除这个技能（技能不存在）",
+    "vi": "Không thể xóa kỹ năng này (Kỹ năng không tồn tại)"
+  },
+  "commands.epicfight.skill.clear.success.single": {
+    "en": "Removed all skills from %s",
+    "zh": "已将所有技能从 %s 身上移除",
+    "vi": "Đã xóa toàn bộ kỹ năng khỏi %s"
+  },
+  "commands.epicfight.skill.clear.success.multiple": {
+    "en": "Removed all skills from %s targets",
+    "zh": "已将所有技能从 %s 个目标身上移除",
+    "vi": "Đã xóa toàn bộ kỹ năng khỏi %s mục tiêu"
+  },
+  "commands.epicfight.skill.clear.failed": {
+    "en": "Target has no skills to remove",
+    "zh": "目标没有技能可以移除",
+    "vi": "Mục tiêu không có kỹ năng nào để xóa"
+  },
+  "death.attack.wither_beam": {
+    "en": "%1$s was vaporized by wither beam",
+    "zh": "%1$s 被凋灵光束蒸发了",
+    "vi": "%1 đã bị bốc hơi bởi chùm tia Wither"
+  },
+  "death.attack.shockwave": {
+    "en": "%1$s was teared up by Shockwave",
+    "zh": "%1$s 被冲击波撕碎了",
+    "vi": "%1 đã bị xé toạc bởi sóng xung kích"
+  },
+  "debug.armor_model_debugging.on": {
+    "en": null,
+    "zh": "盔甲模型调试：开",
+    "vi": "Gỡ lỗi mô hình áo giáp: bật"
+  },
+  "debug.armor_model_debugging.off": {
+    "en": null,
+    "zh": "盔甲模型调试：关",
+    "vi": "Gỡ lỗi mô hình áo giáp: tắt"
+  },
+  "damage_source.epicfight.damage": {
+    "en": "%s damage",
+    "zh": "%s 点伤害",
+    "vi": "Điểm sát thương %s"
+  },
+  "damage_source.epicfight.target_lost_health": {
+    "en": " + %s of the target lost health",
+    "zh": " + %s 目标失去的生命值",
+    "vi": "+ %s máu đã mất của mục tiêu"
+  },
+  "damage_source.epicfight.sweeping_edge_enchant_level": {
+    "en": " + %s (sweeping Edge %s lv)",
+    "zh": " +%s （横扫之刃 %s lv）",
+    "vi": "+%s (Lưỡi quét %s lv)"
+  },
+  "damage_source.epicfight.stun_none": {
+    "en": "§7NONE",
+    "zh": "§7无击晕",
+    "vi": "§7 không bị choáng"
+  },
+  "damage_source.epicfight.stun_short": {
+    "en": "§8Apply §aSHORT §8stun",
+    "zh": "§8造成 §a短 §8击晕",
+    "vi": "§8 gây choáng ngắn §a §8"
+  },
+  "damage_source.epicfight.stun_long": {
+    "en": "§8Apply §6LONG §8stun",
+    "zh": "§8造成 §6长 §8击晕",
+    "vi": "§8 gây choáng §6 kéo dài §8"
+  },
+  "damage_source.epicfight.stun_hold": {
+    "en": "§cHOLD §8targets",
+    "zh": "§c延长 §8目标击晕",
+    "vi": "§c Làm choáng mục tiêu §8 kéo dài"
+  },
+  "damage_source.epicfight.stun_knockdown": {
+    "en": "§cKNOCKDOWN §8targets",
+    "zh": "§c击倒 §8击晕目标",
+    "vi": "§c hạ gục §8 làm choáng mục tiêu"
+  },
+  "damage_source.epicfight.stun_neutralize": {
+    "en": "",
+    "zh": "§c抵消 §8击晕",
+    "vi": "§c bù choáng §8"
+  },
+  "effect.epicfight.stun_immunity": {
+    "en": "Stun Immunity",
+    "zh": "击晕免疫",
+    "vi": "Miễn nhiễm choáng"
+  },
+  "effect.epicfight.blooming": {
+    "en": "Blooming",
+    "zh": "精力旺盛",
+    "vi": "Năng lượng cao"
+  },
+  "effect.epicfight.stun_instability": {
+    "en": null,
+    "zh": "趔趄",
+    "vi": "loạng choạng"
+  },
+  "entity.epicfight.wither_skeleton_minion": {
+    "en": "Wither's Minion",
+    "zh": "凋零眷族",
+    "vi": "Wither's Minion"
+  },
+  "epicfight.gui.configuration.autoswitching": {
+    "en": null,
+    "zh": "自动切换物品",
+    "vi": "Tự động chuyển đổi mục"
+  },
+  "epicfight.gui.to_battle_mode": {
+    "en": null,
+    "zh": "进入战斗模式",
+    "vi": "Vào chế độ chiến đấu"
+  },
+  "epicfight.gui.to_mining_mode": {
+    "en": null,
+    "zh": "进入挖掘模式",
+    "vi": "Vào chế độ khai thác"
+  },
+  "epicfight.gui.warn_already_registered": {
+    "en": "%s\nWarning: This items is already registered in the opposing category!",
+    "zh": "%s 警告: 此物品已在另一边注册！",
+    "vi": "%s Cảnh báo: Mặt hàng này đã được đăng ký ở phía bên kia!"
+  },
+  "epicfight.gui.tooltip_battle": {
+    "en": "All items with epic fight attributes will automatically be registered.",
+    "zh": "自动注册所有具有史诗战斗属性的物品。",
+    "vi": "Tự động đăng ký tất cả các vật phẩm có thuộc tính chiến đấu hoành tráng."
+  },
+  "epicfight.gui.tooltip_mining": {
+    "en": "All items excluded from battle mode will automatically be registered.",
+    "zh": "自动注册所有未包含在战斗模式中的物品。",
+    "vi": "Tự động đăng ký tất cả các vật phẩm không có trong Chế độ Chiến đấu."
+  },
+  "epicfight.gui.delete_all": {
+    "en": null,
+    "zh": "删除全部",
+    "vi": "Xóa tất cả"
+  },
+  "epicfight.gui.auto_add": {
+    "en": null,
+    "zh": "自动添加",
+    "vi": "Tự động thêm"
+  },
+  "epicfight.gui.attribute": {
+    "en": "Epic Fight Attributes:",
+    "zh": "史诗战斗属性：",
+    "vi": "Thuộc tính trận chiến hoành tráng:"
+  },
+  "epicfight.skillNotFound": {
+    "en": "Unknown skill: %s",
+    "zh": "未知技能：%s",
+    "vi": "Kỹ năng không xác định: %s"
+  },
+  "epicfight.weapon_category.not_weapon": {
+    "en": "Not Weapon",
+    "zh": "非武器",
+    "vi": "phi vũ khí"
+  },
+  "epicfight.weapon_category.axe": {
+    "en": "Axe",
+    "zh": "斧",
+    "vi": "rìu"
+  },
+  "epicfight.weapon_category.fist": {
+    "en": "Fist",
+    "zh": "拳",
+    "vi": "nắm tay"
+  },
+  "epicfight.weapon_category.greatsword": {
+    "en": "Greatsword",
+    "zh": "大剑",
+    "vi": "Thanh kiếm lớn"
+  },
+  "epicfight.weapon_category.hoe": {
+    "en": "Hoe",
+    "zh": "锄",
+    "vi": "cuốc"
+  },
+  "epicfight.weapon_category.pickaxe": {
+    "en": "Pickaxe",
+    "zh": "镐",
+    "vi": "nhặt"
+  },
+  "epicfight.weapon_category.shovel": {
+    "en": "Shovel",
+    "zh": "铲",
+    "vi": "xẻng"
+  },
+  "epicfight.weapon_category.sword": {
+    "en": "Sword",
+    "zh": "剑",
+    "vi": "gươm"
+  },
+  "epicfight.weapon_category.uchigatana": {
+    "en": "Uchigatana",
+    "zh": "打刀",
+    "vi": "Dao"
+  },
+  "epicfight.weapon_category.spear": {
+    "en": "Spear",
+    "zh": "长矛",
+    "vi": "thương"
+  },
+  "epicfight.weapon_category.tachi": {
+    "en": "Tachi",
+    "zh": "太刀",
+    "vi": "tachi"
+  },
+  "epicfight.weapon_category.trident": {
+    "en": "Trident",
+    "zh": "三叉戟",
+    "vi": "cây đinh ba"
+  },
+  "epicfight.weapon_category.longsword": {
+    "en": "Longsword",
+    "zh": "长剑",
+    "vi": "thanh kiếm dài"
+  },
+  "epicfight.weapon_category.dagger": {
+    "en": "Dagger",
+    "zh": "匕首",
+    "vi": "dao găm"
+  },
+  "epicfight.weapon_category.shield": {
+    "en": "Shield",
+    "zh": "盾",
+    "vi": "cái khiên"
+  },
+  "epicfight.weapon_category.ranged": {
+    "en": "Ranged",
+    "zh": "远程",
+    "vi": "xa"
+  },
+  "epicfight.skill_category.dodge": {
+    "en": "Dodge",
+    "zh": "闪避",
+    "vi": "né tránh"
+  },
+  "epicfight.skill_category.passive": {
+    "en": "Passive",
+    "zh": "被动",
+    "vi": "thụ động"
+  },
+  "epicfight.skill_category.guard": {
+    "en": "Guard",
+    "zh": "防御",
+    "vi": "phòng thủ"
+  },
+  "epicfight.skill_slot.dodge": {
+    "en": "Dodge",
+    "zh": "闪避",
+    "vi": "né tránh"
+  },
+  "epicfight.skill_slot.passive1": {
+    "en": "Passive 1",
+    "zh": "被动 1 ",
+    "vi": "Bị động 1"
+  },
+  "epicfight.skill_slot.passive2": {
+    "en": "Passive 2",
+    "zh": "被动 2",
+    "vi": "Bị động 2"
+  },
+  "epicfight.skill_slot.passive3": {
+    "en": "Passive 3",
+    "zh": "被动 3",
+    "vi": "Bị động 3"
+  },
+  "epicfight.skill_slot.guard": {
+    "en": "Guard",
+    "zh": "防御",
+    "vi": "phòng thủ"
+  },
+  "epicfight.skill_slot.identity": {
+    "en": "Identity",
+    "zh": "属性",
+    "vi": "tài sản"
+  },
+  "epicfight.skill_slot.mover": {
+    "en": "Mobility",
+    "zh": "行动",
+    "vi": "hoạt động"
+  },
+  "gameMode.epicfight.mining": {
+    "en": null,
+    "zh": "挖掘",
+    "vi": "đào"
+  },
+  "gameMode.epicfight.battle": {
+    "en": null,
+    "zh": "战斗",
+    "vi": "Chiến đấu"
+  },
+  "gamerule.doVanillaAttack": {
+    "en": null,
+    "zh": "启用原版攻击",
+    "vi": "Kích hoạt tấn công vanilla"
+  },
+  "gamerule.hasFallAnimation": {
+    "en": "Enable landing animation",
+    "zh": "启用落地动画",
+    "vi": "Bật hoạt ảnh hạ cánh"
+  },
+  "gamerule.keepSkills": {
+    "en": "Keep skills after death",
+    "zh": "死后保留技能",
+    "vi": "Giữ lại kỹ năng sau khi chết"
+  },
+  "gamerule.weightPenalty": {
+    "en": "Weight Penalty applied to Attack Speed.",
+    "zh": "重量惩罚适用于攻击速度",
+    "vi": "Hình phạt trọng lượng áp dụng cho tốc độ tấn công"
+  },
+  "gamerule.disableEntityUI": {
+    "en": "Turn off health bar and target indicator for all players",
+    "zh": "关闭所有玩家的血条与目标指示器",
+    "vi": "Tắt thanh sức khỏe và chỉ báo mục tiêu cho tất cả người chơi"
+  },
+  "gamerule.globalStun": {
+    "en": "Enable Global Hitstun",
+    "zh": "启用全局击晕",
+    "vi": "Kích hoạt choáng toàn cầu"
+  },
+  "gamerule.canSwitchCombat": {
+    "en": null,
+    "zh": "启用切换战斗/挖掘模式",
+    "vi": "Bật chuyển đổi chế độ chiến đấu/khai thác"
+  },
+  "gamerule.allowVanillaMelee": {
+    "en": "Enable Vanilla Melee Attacks",
+    "zh": "启用原版近战攻击",
+    "vi": "Kích hoạt đòn tấn công cận chiến vanilla"
+  },
+  "gamerule.canSwitchPlayerMode": {
+    "en": "Enable switching between Vanilla/EpicFight mode",
+    "zh": "启用原版/史诗战斗模式切换",
+    "vi": "Kích hoạt tính năng chuyển đổi chế độ chiến đấu vanilla/sử thi"
+  },
+  "gamerule.noMobsInBossfight": {
+    "en": "Disable mob spawn during Bossfight",
+    "zh": "Boss 战中禁止生物生成",
+    "vi": "Sinh sản Mob bị cấm trong các trận đánh trùm"
+  },
+  "gamerule.stiffComboAttacks": {
+    "en": "Disable player movement while attacking",
+    "zh": "攻击时禁止玩家移动",
+    "vi": "Người chơi bị cấm di chuyển trong khi tấn công"
+  },
+  "gamerule.initialMode": {
+    "en": "Default player mode for newcomers",
+    "zh": "新玩家默认模式",
+    "vi": "Chế độ mặc định cho người chơi mới"
+  },
+  "gamerule.initialMode.description": {
+    "en": "0: Mining\n1: Combat",
+    "zh": "0：挖掘\n1：战斗",
+    "vi": "0: Đào\n1: Chiến đấu"
+  },
+  "gamerule.epicDrop": {
+    "en": "Enable the fancy drop effect of the boss loots",
+    "zh": "启用 Boss 掉落物的华丽掉落特效",
+    "vi": "Cho phép các hiệu ứng rơi tuyệt đẹp khi rơi ra trùm"
+  },
+  "gamerule.skillReplaceCooldown": {
+    "en": "Skill replace cooldown",
+    "zh": "技能替换冷却时间",
+    "vi": "Thời gian hồi chiêu thay thế kỹ năng"
+  },
+  "gamerule.skillReplaceCooldown.description": {
+    "en": "Cooldown ticks to replace skills again",
+    "zh": "再次替换技能所需的冷却刻数",
+    "vi": "Số lần hồi chiêu cần thiết để thay thế kỹ năng một lần nữa"
+  },
+  "gui.epicfight.configurations": {
+    "en": "Epic Fight Configurations",
+    "zh": "史诗战斗配置",
+    "vi": "Cấu hình chiến đấu hoành tráng"
+  },
+  "gui.epicfight.graphic_options": {
+    "en": "Epic Fight Graphics",
+    "zh": "史诗战斗图形选项",
+    "vi": "Tùy chọn đồ họa trận chiến hoành tráng"
+  },
+  "gui.epicfight.control_options": {
+    "en": "Epic Fight Controls",
+    "zh": "史诗战斗控制选项",
+    "vi": "Tùy chọn điều khiển trận chiến hoành tráng"
+  },
+  "gui.epicfight.skill_edit": {
+    "en": null,
+    "zh": "技能",
+    "vi": "Kỹ năng"
+  },
+  "gui.epicfight.filter_animation.on": {
+    "en": null,
+    "zh": "过滤动画：开启",
+    "vi": "Lọc hoạt ảnh: Bật"
+  },
+  "gui.epicfight.filter_animation.off": {
+    "en": null,
+    "zh": "过滤动画：关闭",
+    "vi": "Lọc hoạt ảnh: tắt"
+  },
+  "gui.epicfight.health_bar_show_option.none": {
+    "en": "Health Bar Show Option: None",
+    "zh": "血条显示选项：无",
+    "vi": "Tùy chọn hiển thị thanh sức khỏe: Không có"
+  },
+  "gui.epicfight.health_bar_show_option.hurt": {
+    "en": "Health Bar Show Option: Hurt",
+    "zh": "血条显示选项：受伤",
+    "vi": "Tùy chọn hiển thị thanh sức khỏe: bị thương"
+  },
+  "gui.epicfight.health_bar_show_option.target": {
+    "en": "Health Bar Show Option: Target",
+    "zh": "血条显示选项：目标",
+    "vi": "Tùy chọn hiển thị thanh sức khỏe: Mục tiêu"
+  },
+  "gui.epicfight.target_indicator.on": {
+    "en": "Show Target Indicator: ON",
+    "zh": "显示目标指示器：开启",
+    "vi": "Hiển thị chỉ báo mục tiêu: Bật"
+  },
+  "gui.epicfight.target_indicator.off": {
+    "en": "Show Target Indicator: OFF",
+    "zh": "显示目标指示器：关闭",
+    "vi": "Hiển thị chỉ báo mục tiêu: tắt"
+  },
+  "gui.epicfight.button.graphics": {
+    "en": "Graphics",
+    "zh": "图像设置",
+    "vi": "Cài đặt hình ảnh"
+  },
+  "gui.epicfight.button.controls": {
+    "en": "Controls",
+    "zh": "控制设置",
+    "vi": "Cài đặt kiểm soát"
+  },
+  "gui.epicfight.button.datapack_edit": {
+    "en": "Datapack Editor",
+    "zh": "数据包编辑器",
+    "vi": "Trình chỉnh sửa gói"
+  },
+  "gui.epicfight.ui_setup": {
+    "en": "Ingame UI Setup",
+    "zh": "游戏内UI设置",
+    "vi": "Cài đặt giao diện người dùng trong trò chơi"
+  },
+  "gui.epicfight.ui_setup.tooltip": {
+    "en": "Open UI setup screen",
+    "zh": "打开UI设置屏幕",
+    "vi": "Mở màn hình cài đặt giao diện người dùng"
+  },
+  "gui.epicfight.aim_helper.on": {
+    "en": null,
+    "zh": "显示瞄准辅助：开启",
+    "vi": "Hiển thị hỗ trợ ngắm: Bật"
+  },
+  "gui.epicfight.aim_helper.off": {
+    "en": null,
+    "zh": "显示瞄准辅助：关闭",
+    "vi": "Hiển thị hỗ trợ ngắm: tắt"
+  },
+  "gui.epicfight.aim_helper_color": {
+    "en": null,
+    "zh": "瞄准辅助颜色",
+    "vi": "Màu hỗ trợ mục tiêu"
+  },
+  "gui.epicfight.long_press_counter": {
+    "en": "Long Press Counter: %s",
+    "zh": "长按计数器：%s",
+    "vi": "Bộ đếm báo chí dài: %s"
+  },
+  "gui.epicfight.camera_auto_switch.on": {
+    "en": "Camera Auto Switch: ON",
+    "zh": "相机自动切换：开启",
+    "vi": "Tự động chuyển đổi camera: Bật"
+  },
+  "gui.epicfight.camera_auto_switch.off": {
+    "en": "Camera Auto Switch: OFF",
+    "zh": "相机自动切换：关闭",
+    "vi": "Camera tự động chuyển đổi: tắt"
+  },
+  "gui.epicfight.auto_preparation.on": {
+    "en": null,
+    "zh": "自动准备：开启",
+    "vi": "Chuẩn bị tự động: Bật"
+  },
+  "gui.epicfight.auto_preparation.off": {
+    "en": null,
+    "zh": "自动准备：关闭",
+    "vi": "Chuẩn bị tự động: tắt"
+  },
+  "gui.epicfight.blood_effects.on": {
+    "en": "Blood Effects: ON",
+    "zh": "血液效果：开启",
+    "vi": "Hiệu ứng máu: Bật"
+  },
+  "gui.epicfight.blood_effects.off": {
+    "en": "Blood Effects: OFF",
+    "zh": "血液效果：关闭",
+    "vi": "Hiệu ứng máu: Tắt"
+  },
+  "gui.epicfight.no_mining_in_combat.on": {
+    "en": null,
+    "zh": "战斗中禁止采矿：开启",
+    "vi": "Không khai thác trong khi chiến đấu: Bật"
+  },
+  "gui.epicfight.no_mining_in_combat.off": {
+    "en": null,
+    "zh": "战斗中禁止采矿：关闭",
+    "vi": "Khai thác bị cấm trong khi chiến đấu: Đã đóng cửa"
+  },
+  "gui.epicfight.aiming_correction.on": {
+    "en": null,
+    "zh": "瞄准校正：开启",
+    "vi": "Hiệu chỉnh mục tiêu: Bật"
+  },
+  "gui.epicfight.aiming_correction.off": {
+    "en": null,
+    "zh": "瞄准校正：关闭",
+    "vi": "Hiệu chỉnh mục tiêu: tắt"
+  },
+  "gui.epicfight.show_attributes.on": {
+    "en": "Attributes Tooltip: ON",
+    "zh": "显示属性：开启",
+    "vi": "Thuộc tính hiển thị: Bật"
+  },
+  "gui.epicfight.show_attributes.off": {
+    "en": "Attributes Tooltip: OFF",
+    "zh": "显示属性：关闭",
+    "vi": "Thuộc tính hiển thị: tắt"
+  },
+  "gui.epicfight.max_stuck_projectiles": {
+    "en": "Max Stuck Projectiles: %s",
+    "zh": "最大留存箭矢数：%s",
+    "vi": "Số lượng mũi tên được giữ lại tối đa: %s"
+  },
+  "gui.epicfight.first_person_model.on": {
+    "en": "First Person Model: ON",
+    "zh": "第一人称模型：开启",
+    "vi": "Mẫu người thứ nhất: Bật"
+  },
+  "gui.epicfight.first_person_model.off": {
+    "en": "First Person Model: OFF",
+    "zh": "第一人称模型：关闭",
+    "vi": "Mô hình người thứ nhất: tắt"
+  },
+  "gui.epicfight.enable_mine_block_guide.on": {
+    "en": null,
+    "zh": "挖掘方块指示: 开启",
+    "vi": "Hướng dẫn khai thác khối: Bật"
+  },
+  "gui.epicfight.enable_mine_block_guide.off": {
+    "en": null,
+    "zh": "挖掘方块指示: 关闭",
+    "vi": "Hướng dẫn khai thác khối: Tắt"
+  },
+  "gui.epicfight.enable_target_entity_guide.on": {
+    "en": "Target Entity Guide: ON",
+    "zh": "目标实体指示: 开启",
+    "vi": "Chỉ định thực thể mục tiêu: Bật"
+  },
+  "gui.epicfight.enable_target_entity_guide.off": {
+    "en": "Enable Target Entity Guide: OFF",
+    "zh": "目标实体指示: 关闭",
+    "vi": "Chỉ báo thực thể mục tiêu: Đóng"
+  },
+  "gui.epicfight.enable_mine_block_guide.tooltip": {
+    "en": null,
+    "zh": "高亮可挖掘的目标方块",
+    "vi": "Làm nổi bật các khối mục tiêu có thể khai thác"
+  },
+  "gui.epicfight.enable_target_entity_guide.tooltip": {
+    "en": "Indicate an entity that you can attack",
+    "zh": "高亮可攻击的目标实体",
+    "vi": "Làm nổi bật các thực thể mục tiêu có thể tấn công"
+  },
+  "gui.epicfight.use_animation_shader.on": {
+    "en": null,
+    "zh": "使用动画着色器：开启",
+    "vi": "Sử dụng trình đổ bóng hoạt hình: Bật"
+  },
+  "gui.epicfight.use_animation_shader.off": {
+    "en": null,
+    "zh": "使用动画着色器：关闭",
+    "vi": "Sử dụng trình đổ bóng hoạt hình: tắt"
+  },
+  "gui.epicfight.use_compute_shader.on": {
+    "en": "Compute Shader: ON",
+    "zh": "计算着色器渲染优化: 开启",
+    "vi": "Tối ưu hóa kết xuất Shader tính toán: Bật"
+  },
+  "gui.epicfight.use_compute_shader.off": {
+    "en": "Compute Shader: OFF",
+    "zh": "计算着色器渲染优化: 关闭",
+    "vi": "Tối ưu hóa kết xuất Shader tính toán: Tắt"
+  },
+  "gui.epicfight.use_compute_shader.tooltip": {
+    "en": "Turn on/off compute shader. Turning on compute shader enhances the frame rate but may not be compatible with some shader packs",
+    "zh": "启用计算着色器可以提高帧数，但可能与某些光影不兼容",
+    "vi": "Việc bật trình đổ bóng điện toán có thể cải thiện tốc độ khung hình nhưng có thể không tương thích với một số vùng sáng và tối"
+  },
+  "gui.epicfight.use_compute_shader.locked.tooltip": {
+    "en": "Compute shader is not supported in your OS or GPU. It needs to support OpenGL 4.3 or higher.",
+    "zh": "你的显卡不支持OpenGL 4.3，无法启用计算着色器优化渲染.",
+    "vi": "Cạc đồ họa của bạn không hỗ trợ OpenGL 4.3 và không thể bật trình đổ bóng máy tính để tối ưu hóa kết xuất."
+  },
+  "gui.epicfight.enable_pov_action.on": {
+    "en": "Pov Action: ON",
+    "zh": "动作Pov: 开启",
+    "vi": "Hành động Pov: Bật"
+  },
+  "gui.epicfight.enable_pov_action.off": {
+    "en": "Pov Action: OFF",
+    "zh": "动作Pov: 关闭",
+    "vi": "Hành động Pov: Đóng"
+  },
+  "gui.epicfight.enable_pov_action.tooltip": {
+    "en": "Enable camera movement depends on animation in first person.",
+    "zh": "启用后第一人称视角会随着动作移动，如翻滚动作.",
+    "vi": "Khi được bật, góc nhìn thứ nhất sẽ di chuyển theo các chuyển động, chẳng hạn như chuyển động lăn."
+  },
+  "gui.epicfight.auto_switching_items": {
+    "en": null,
+    "zh": "自动切换物品",
+    "vi": "Tự động chuyển đổi mục"
+  },
+  "gui.epicfight.export_custom_armor": {
+    "en": "Export Armor Models",
+    "zh": "导出自定义盔甲模型",
+    "vi": "Xuất mô hình áo giáp tùy chỉnh"
+  },
+  "gui.epicfight.filter_animation.tooltip": {
+    "en": null,
+    "zh": "在采矿模式下开启/关闭史诗战斗模型",
+    "vi": "Bật/tắt mô hình chiến đấu hoành tráng ở chế độ khai thác"
+  },
+  "gui.epicfight.health_bar_show_option.tooltip": {
+    "en": "Determines the health bar\n\nInjured: entities that have less than full health.\nTarget: the player's current target.\nNone: disable health bar.",
+    "zh": "应该显示血条的实体是什么？\n\n受伤：生命值不满的实体。\n目标：玩家的当前目标。\n无：禁用血条。",
+    "vi": "Thực thể nào được cho là hiển thị thanh sức khỏe?\n\nBị thương: Thực thể không đủ sức khỏe.\nMục tiêu: Mục tiêu hiện tại của người chơi.\nKhông có: Vô hiệu hóa thanh sức khỏe."
+  },
+  "gui.epicfight.target_indicator.tooltip": {
+    "en": "Turn on/off the target indicator",
+    "zh": "开启/关闭目标指示器",
+    "vi": "Bật/tắt chỉ báo mục tiêu"
+  },
+  "gui.epicfight.long_press_counter.tooltip": {
+    "en": "Determines how many ticks it will take to be recognized as a long press. Used for weapon innate and dodge skills",
+    "zh": "确定识别为长按所需的游戏刻数。用于武器的固有技能和闪避技能",
+    "vi": "Xác định số lượng tích tắc trò chơi cần thiết để nhận ra một lần nhấn lâu. Kỹ năng bẩm sinh và kỹ năng né tránh dùng làm vũ khí"
+  },
+  "gui.epicfight.aim_helper.tooltip": {
+    "en": null,
+    "zh": "在使用弓或弩瞄准时渲染瞄准辅助，与华丽的图形设置和一些光影不兼容",
+    "vi": "Hiển thị hỗ trợ nhắm mục tiêu khi nhắm bằng cung hoặc nỏ, không tương thích với cài đặt đồ họa ưa thích cũng như một số ánh sáng và bóng tối"
+  },
+  "gui.epicfight.camera_auto_switch.tooltip": {
+    "en": "Automatically switch to first/third person when toggling Mining/Battle mode",
+    "zh": "在切换采矿/战斗模式时自动切换到第一人称/第三人称",
+    "vi": "Tự động chuyển sang góc nhìn thứ nhất/thứ ba khi chuyển chế độ khai thác/chiến đấu"
+  },
+  "gui.epicfight.auto_preparation.tooltip": {
+    "en": null,
+    "zh": "当玩家受到伤害时自动切换到战斗模式",
+    "vi": "Tự động chuyển sang chế độ chiến đấu khi người chơi nhận sát thương"
+  },
+  "gui.epicfight.blood_effects.tooltip": {
+    "en": "Turn on/off blood effects",
+    "zh": "开启/关闭血液效果",
+    "vi": "Bật/tắt hiệu ứng máu"
+  },
+  "gui.epicfight.no_mining_in_combat.tooltip": {
+    "en": null,
+    "zh": "在战斗模式中启用/禁用采矿能力",
+    "vi": "Bật/tắt khả năng khai thác trong chế độ chiến đấu"
+  },
+  "gui.epicfight.aiming_correction.tooltip": {
+    "en": null,
+    "zh": "启用/禁用远程武器瞄准时的相机校正",
+    "vi": "Bật/tắt tính năng chỉnh sửa camera khi nhắm vũ khí từ xa"
+  },
+  "gui.epicfight.show_attributes.tooltip": {
+    "en": "Enables/Disables Epic Fight attributes in item tooltip",
+    "zh": "在物品的工具提示中启用/禁用史诗战斗属性",
+    "vi": "Bật/tắt thuộc tính chiến đấu hoành tráng trong chú giải công cụ của vật phẩm"
+  },
+  "gui.epicfight.max_stuck_projectiles.tooltip": {
+    "en": "Determines the maximum number of visible projectiles stuck in the player's body in Battle mode.",
+    "zh": "确定在战斗模式中玩家身体上可见的最大留存箭矢数。",
+    "vi": "Xác định số lượng mũi tên giữ lại tối đa hiển thị trên cơ thể người chơi trong chế độ chiến đấu."
+  },
+  "gui.epicfight.auto_switching_items.tooltip": {
+    "en": null,
+    "zh": "编辑在战斗/采矿模式之间自动切换的物品列表",
+    "vi": "Đã chỉnh sửa danh sách các vật phẩm tự động chuyển đổi giữa các chế độ chiến đấu/khai thác"
+  },
+  "gui.epicfight.export_custom_armor.tooltip": {
+    "en": "Export the all custom armor models as an resource pack",
+    "zh": "将所有自定义盔甲模型作为资源包导出",
+    "vi": "Xuất tất cả các mẫu áo giáp tùy chỉnh dưới dạng gói tài nguyên"
+  },
+  "gui.epicfight.first_person_model.tooltip": {
+    "en": "Turn on/off the animated model in the first person.",
+    "zh": "开启/关闭第一人称中的动画模型",
+    "vi": "Bật/tắt mô hình hoạt hình ở góc nhìn thứ nhất"
+  },
+  "gui.epicfight.use_animation_shader.tooltip": {
+    "en": null,
+    "zh": "开启/关闭动画着色器。开启动画着色器可以提高帧率，但可能与某些光影不兼容",
+    "vi": "Bật/tắt trình đổ bóng hoạt hình. Bật trình đổ bóng hoạt hình có thể cải thiện tốc độ khung hình nhưng có thể không tương thích với một số ánh sáng và bóng tối"
+  },
+  "gui.epicfight.use_animation_shader.locked.tooltip": {
+    "en": null,
+    "zh": "此选项被锁定，因为您正在使用的光影不兼容。请重新加载光影以解锁此选项。",
+    "vi": "Tùy chọn này bị khóa vì ánh sáng và bóng tối bạn đang sử dụng không tương thích. Vui lòng tải lại Ánh sáng và Bóng tối để mở khóa tùy chọn này."
+  },
+  "gui.epicfight.warn.no_target": {
+    "en": "No targeted entity",
+    "zh": "无目标实体",
+    "vi": "Không có thực thể mục tiêu"
+  },
+  "gui.epicfight.warn.animation_unsync": {
+    "en": "Below animations are missing or don't exist in the server\n\n%s\nPlease check the resource packs that you're missing or unload the packs that the server doesn't have",
+    "zh": "以下动画在服务器中缺失或不存在：\n\n%s\n请检查您缺少的资源包，或卸载服务器没有的资源包",
+    "vi": "Các hoạt ảnh sau bị thiếu hoặc không tồn tại trong máy chủ:\n\n%s\nVui lòng kiểm tra các gói tài nguyên bạn đang thiếu hoặc gỡ cài đặt các gói tài nguyên mà máy chủ không có"
+  },
+  "gui.epicfight.warn.animation_unsync.etc": {
+    "en": "... and %d other animations",
+    "zh": "... 以及其他 %d 个动画",
+    "vi": "...và %d các hoạt ảnh khác"
+  },
+  "gui.epicfight.replace": {
+    "en": "Following skill will be removed: %s",
+    "zh": "以下技能将被删除： %s",
+    "vi": "Các kỹ năng sau sẽ bị loại bỏ: %s"
+  },
+  "gui.epicfight.require_learning": {
+    "en": null,
+    "zh": "你必须先学习\" %s \"技能！",
+    "vi": "Trước tiên bạn phải học kỹ năng \"%s\"!"
+  },
+  "gui.epicfight.require_to_learn": {
+    "en": "You need to equip \"%s\" first",
+    "zh": "你必须先学习\" %s \"技能！",
+    "vi": "Trước tiên bạn phải học kỹ năng \"%s\"!"
+  },
+  "gui.epicfight.container_on_cooldown": {
+    "en": "You can replace skill %d seconds later",
+    "zh": "等待%d 秒后才能更换技能",
+    "vi": "Đợi %d giây trước khi thay đổi kỹ năng"
+  },
+  "gui.epicfight.learn": {
+    "en": "Learn",
+    "zh": "学习",
+    "vi": "Học kỹ năng"
+  },
+  "gui.epicfight.applied": {
+    "en": "Applied",
+    "zh": "已学习",
+    "vi": "Đã học rồi"
+  },
+  "gui.epicfight.unusable": {
+    "en": "Unusable",
+    "zh": "无法学习",
+    "vi": "không thể học"
+  },
+  "gui.epicfight.changing_cost": {
+    "en": "Cost: %d",
+    "zh": "花费: %d",
+    "vi": "Chi phí: %d"
+  },
+  "gui.epicfight.no_skills": {
+    "en": "You have not learned any skills yet! You can learn skills by acquiring skill books from looting mobs and chests.",
+    "zh": "你还没有学习任何技能。 你可以通过杀死怪物或打开宝箱获取技能书来学习技能。",
+    "vi": "Bạn chưa học được bất kỳ kỹ năng nào. Bạn có thể học các kỹ năng bằng cách tiêu diệt quái vật hoặc mở rương kho báu để lấy sách kỹ năng."
+  },
+  "gui.epicfight.select_slot_tooltip": {
+    "en": "Choose a slot to replace the skill",
+    "zh": "选择应用技能的槽位。",
+    "vi": "Chọn vị trí để áp dụng kỹ năng."
+  },
+  "gui.epicfight.save": {
+    "en": "Save",
+    "zh": "保存",
+    "vi": "cứu"
+  },
+  "gui.epicfight.configuration.tps_mode_setting": {
+    "en": "TPS settings",
+    "zh": "TPS 设置",
+    "vi": "Cài đặt TPS"
+  },
+  "gui.epicfight.health_bar_show_option.target_and_hurt": {
+    "en": "Health Bar Show Option: Target and Hurt",
+    "zh": "血条显示选项：目标与受伤",
+    "vi": "Tùy chọn hiển thị thanh sức khỏe: mục tiêu và bị thương"
+  },
+  "gui.epicfight.target_outline_color": {
+    "en": "Target Outline Color",
+    "zh": "目标轮廓颜色",
+    "vi": "màu phác thảo mục tiêu"
+  },
+  "gui.epicfight.key_conflict_resolve_scope.none": {
+    "en": "Key Conflict Resolve: None",
+    "zh": "按键冲突处理：无",
+    "vi": "Xử lý xung đột chính: Không có"
+  },
+  "gui.epicfight.key_conflict_resolve_scope.interaction": {
+    "en": "Key Conflict Resolve: Interaction",
+    "zh": "按键冲突处理：交互",
+    "vi": "Xử lý xung đột chính: tương tác"
+  },
+  "gui.epicfight.key_conflict_resolve_scope.item_use": {
+    "en": "Key Conflict Resolve: Item Use",
+    "zh": "按键冲突处理：物品使用",
+    "vi": "Xử lý xung đột chính: sử dụng vật phẩm"
+  },
+  "gui.epicfight.key_conflict_resolve_scope.interaction_and_itemuse": {
+    "en": "Key Conflict Resolve: Interaction and Item Use",
+    "zh": "按键冲突处理：交互与物品使用",
+    "vi": "Xử lý xung đột chính: tương tác và sử dụng vật phẩm"
+  },
+  "gui.epicfight.camera_perspective_toggle_mode.vanilla": {
+    "en": "Perspective Toggle: Vanilla",
+    "zh": "视角切换模式：原版",
+    "vi": "Chế độ chuyển đổi phối cảnh: phiên bản gốc"
+  },
+  "gui.epicfight.camera_perspective_toggle_mode.skip_third_person_front": {
+    "en": "Perspective Toggle: Skip Front View",
+    "zh": "视角切换模式：跳过第三人称正面",
+    "vi": "Chế độ chuyển đổi phối cảnh: bỏ qua góc nhìn phía trước của người thứ ba"
+  },
+  "gui.epicfight.lock_on_quick_shift.on": {
+    "en": "Lock-on Quick Shift: ON",
+    "zh": "锁定快速切换：开启",
+    "vi": "Khóa chuyển đổi nhanh: Bật"
+  },
+  "gui.epicfight.lock_on_quick_shift.off": {
+    "en": "Lock-on Quick Shift: OFF",
+    "zh": "锁定快速切换：关闭",
+    "vi": "Khóa chuyển đổi nhanh: Tắt"
+  },
+  "gui.epicfight.lock_on_range": {
+    "en": "Lock-on Range: %d",
+    "zh": "锁定范围：%d",
+    "vi": "Phạm vi khóa: %d"
+  },
+  "gui.epicfight.tps_perspective.always_back": {
+    "en": "TPS Perspective: Always back",
+    "zh": "TPS 视角：始终背面",
+    "vi": "Góc nhìn TPS: luôn quay lại"
+  },
+  "gui.epicfight.tps_perspective.when_aiming": {
+    "en": "TPS Perspective: When aiming",
+    "zh": "TPS 视角：瞄准时",
+    "vi": "Phối cảnh TPS: trong khi nhắm tới"
+  },
+  "gui.epicfight.tps_perspective.always": {
+    "en": "TPS Perspective: Always",
+    "zh": "TPS 视角：始终启用",
+    "vi": "Phối cảnh TPS: luôn được bật"
+  },
+  "gui.epicfight.tps_perspective.disabled_due_to_mod_conflict": {
+    "en": "Epic Fight's TPS perspective is disabled because it conflicts with '%s' mod.\n\nTo enable Epic Fight's TPS perspective, uninstall the conflicting mod and set the camera mode from 'Always Back' to 'Always' after launching the game.",
+    "zh": "Epic Fight 的 TPS 视角已被禁用，因为它与“%s”模组冲突。\n\n要启用 TPS 视角，请卸载冲突模组，并在启动游戏后将相机模式从“始终背面”改为“始终启用”。",
+    "vi": "Camera TPS của Epic Fight đã bị vô hiệu hóa do xung đột với mod \"%s\".\n\nĐể bật phối cảnh TPS, hãy gỡ cài đặt mod Clash và thay đổi chế độ camera từ \"Luôn quay lại\" thành \"Luôn bật\" sau khi khởi chạy trò chơi."
+  },
+  "gui.epicfight.tps_setup": {
+    "en": "TPS Setup",
+    "zh": "TPS 设置",
+    "vi": "Cài đặt TPS"
+  },
+  "gui.epicfight.enable_player_vanilla_model.on": {
+    "en": "Player Vanilla Model: ON",
+    "zh": "玩家原版模型：开启",
+    "vi": "Model gốc của máy nghe nhạc: Bật"
+  },
+  "gui.epicfight.enable_player_vanilla_model.off": {
+    "en": "Player Vanilla Model: OFF",
+    "zh": "玩家原版模型：关闭",
+    "vi": "Mô hình ban đầu của người chơi: Đã đóng"
+  },
+  "gui.epicfight.mine_block_guide.none": {
+    "en": "Mine Block Guide: Off",
+    "zh": "挖掘方块指示：关闭",
+    "vi": "Hướng dẫn khai thác khối: Tắt"
+  },
+  "gui.epicfight.mine_block_guide.crosshair": {
+    "en": "Mine Block Guide: Crosshair",
+    "zh": "挖掘方块指示：准星",
+    "vi": "Chỉ báo khối khai thác: Crosshair"
+  },
+  "gui.epicfight.mine_block_guide.highlight": {
+    "en": "Mine Block Guide: Block Highlight",
+    "zh": "挖掘方块指示：方块高亮",
+    "vi": "Chỉ báo khối khai thác: Làm nổi bật khối"
+  },
+  "gui.epicfight.mine_block_guide.crosshair_and_highlight": {
+    "en": "Mine Block Guide: Crosshair and Block Highlight",
+    "zh": "挖掘方块指示：准星与方块高亮",
+    "vi": "Các chỉ báo khối đào: Crosshair và Block Highlighting"
+  },
+  "gui.epicfight.ground_slams.on": {
+    "en": "Ground Slams: ON",
+    "zh": "地面重击：开启",
+    "vi": "Cú đấm đất: Bật"
+  },
+  "gui.epicfight.ground_slams.off": {
+    "en": "Ground Slams: OFF",
+    "zh": "地面重击：关闭",
+    "vi": "Cú đấm đất: Tắt"
+  },
+  "gui.epicfight.enable_cosmetics.on": {
+    "en": "Patron Cosmetics: ON",
+    "zh": "赞助者装饰：开启",
+    "vi": "Trang trí người bảo trợ: Bật"
+  },
+  "gui.epicfight.enable_cosmetics.off": {
+    "en": "Patron Cosmetics: OFF",
+    "zh": "赞助者装饰：关闭",
+    "vi": "Nhà tài trợ trang trí: Đã đóng cửa"
+  },
+  "gui.epicfight.item_preferences": {
+    "en": "Item Preferences",
+    "zh": "物品偏好设置",
+    "vi": "Tùy chọn mục"
+  },
+  "gui.epicfight.preference_work.adaptive": {
+    "en": "Preference Work: Adaptive",
+    "zh": "偏好工作方式：自适应",
+    "vi": "Phong cách làm việc ưa thích: Thích ứng"
+  },
+  "gui.epicfight.preference_work.switch_mode": {
+    "en": "Preference Work: Switch Mode",
+    "zh": "偏好工作方式：切换模式",
+    "vi": "Phong cách làm việc ưa thích: Chế độ chuyển đổi"
+  },
+  "gui.epicfight.item_preferences.tooltip.find_weapon": {
+    "en": "Automatically classify weapon items. If your datapack weapons are not listed on combat preferred items, try it again after entering world.",
+    "zh": "自动分类武器物品。如果数据包武器未出现在战斗偏好物品中，请在进入世界后再次尝试。",
+    "vi": "Tự động phân loại vật phẩm vũ khí. Nếu vũ khí gói dữ liệu không xuất hiện trong các vật phẩm ưu tiên chiến đấu, vui lòng thử lại sau khi vào thế giới."
+  },
+  "gui.epicfight.key_conflict_resolve_scope.tooltip": {
+    "en": "Disable vanilla actions when their keybinds conflict with Epic Fight keybinds.\n\nInteraction: interaction with blocks and entities\n\nItem Use: unique use effect of each item",
+    "zh": "当原版操作与 Epic Fight 按键冲突时禁用原版操作。\n\n交互：与方块和实体的交互\n\n物品使用：每个物品的特殊使用效果",
+    "vi": "Vô hiệu hóa các hành động thông thường khi chúng xung đột với các phím Epic Fight.\n\nTương tác: Tương tác với các khối và thực thể\n\nCông dụng vật phẩm: tác dụng sử dụng đặc biệt của từng vật phẩm"
+  },
+  "gui.epicfight.camera_perspective_toggle_mode.tooltip": {
+    "en": "Defines how the camera toggles perspectives.\n\nVanilla (Default): Includes all perspectives.\n\nSkip Front: Skips the third-person front view only.",
+    "zh": "定义相机如何切换视角。\n\n原版（默认）：包含所有视角。\n\n跳过正面：仅跳过第三人称正面视角。",
+    "vi": "Xác định cách máy ảnh chuyển đổi quan điểm.\n\nBản gốc (mặc định): Chứa tất cả các phối cảnh.\n\nSkip Frontal: Chỉ bỏ qua chế độ xem trực diện của người thứ ba."
+  },
+  "gui.epicfight.lock_on_quick_shift.tooltip": {
+    "en": "Enable Lock-on Shift by mouse snapping",
+    "zh": "启用鼠标吸附式锁定快速切换",
+    "vi": "Kích hoạt tính năng chuyển đổi nhanh khóa chuột"
+  },
+  "gui.epicfight.lock_on_range.tooltip": {
+    "en": "Determines the maximum range of the player can focus & lock on entities",
+    "zh": "设置玩家可以聚焦并锁定实体的最大范围",
+    "vi": "Đặt phạm vi tối đa mà người chơi có thể tập trung và khóa vào một thực thể"
+  },
+  "gui.epicfight.tps_perspective.tooltip": {
+    "en": "Determines when TPS perspective activates\n\nAlways Back: Same as vanilla thrid-person\nWhen Aiming: Activates TPS perspective when the player aims ranged weapons\nAlways: Always activates TPS perspective",
+    "zh": "决定 TPS 视角的激活时机\n\n始终背面：与原版第三人称相同\n瞄准时：使用远程武器瞄准时启用 TPS 视角\n始终启用：总是启用 TPS 视角",
+    "vi": "Xác định thời gian kích hoạt phối cảnh TPS\n\nLuôn quay lại: Giống như người thứ ba ban đầu\nTrong khi nhắm: Kích hoạt phối cảnh TPS khi nhắm bằng vũ khí tầm xa\nLuôn bật: Luôn bật phối cảnh TPS"
+  },
+  "gui.epicfight.tps_setup.tooltip": {
+    "en": "Setup a camera transform in TPS perspective",
+    "zh": "在 TPS 视角下设置相机变换",
+    "vi": "Đặt chuyển đổi camera trong phối cảnh TPS"
+  },
+  "gui.epicfight.enable_player_vanilla_model.tooltip": {
+    "en": "Turn on/off the player's original model in vanilla mode.",
+    "zh": "在原版模式下显示/隐藏玩家原始模型",
+    "vi": "Hiển thị/ẩn mô hình gốc của trình phát ở chế độ vanilla"
+  },
+  "gui.epicfight.mine_block_guide.tooltip": {
+    "en": "Indicate a block that you can mine\n\nOff: off this function.\nCrosshair: switch crosshair\nBlock Highlight: indicate the block with highlighting overlay.\nCrosshair and Block Highlight: activate both.",
+    "zh": "指示你可以挖掘的方块\n\n关闭：关闭此功能\n准星：切换准星样式\n方块高亮：以高亮覆盖层指示方块\n准星与方块高亮：同时启用两者",
+    "vi": "Cho biết các khối bạn có thể khai thác\n\nOff: tắt tính năng này\nCrosshair: Chuyển đổi kiểu crosshair\nĐánh dấu khối: Biểu thị các khối có lớp phủ đánh dấu\nCrosshair và Block Highlight: Kích hoạt cả hai cùng lúc"
+  },
+  "gui.epicfight.ground_slams.tooltip": {
+    "en": "Toggles the visibility of ground slam effects",
+    "zh": "切换地面重击效果的可见性",
+    "vi": "Chuyển đổi khả năng hiển thị của hiệu ứng chạm đất"
+  },
+  "gui.epicfight.enable_cosmetics.tooltip": {
+    "en": "Turn on/off players' patron cosmetics. You have to reconnect the world to apply the change.",
+    "zh": "开启/关闭玩家的赞助者装饰。修改后需要重新进入世界才能生效。",
+    "vi": "Bật/tắt trang trí nhà tài trợ của người chơi. Sau khi sửa đổi, bạn cần phải vào lại thế giới để có hiệu lực."
+  },
+  "gui.epicfight.preference_work.tooltip": {
+    "en": "Determines how the Item preference works\nAdaptive: judge the player's next action based on a holding item and a crosshair hit.\nSwitch Mode: toggle the player's mode vanilla and epic fight, forcing combat or mining",
+    "zh": "决定物品偏好的工作方式\n\n自适应：根据手持物品和准星命中判断玩家下一步动作\n切换模式：在 vanilla 与 epic fight 模式之间切换，强制战斗或挖掘",
+    "vi": "Cách xác định tùy chọn mục hoạt động\n\nThích ứng: Xác định bước đi tiếp theo của người chơi dựa trên vật phẩm cầm tay và đòn đánh chéo\nChuyển đổi chế độ: chuyển đổi giữa chế độ chiến đấu thông thường và sử thi, ép buộc chiến đấu hoặc đào"
+  },
+  "gui.epicfight.export": {
+    "en": "Export",
+    "zh": "导出",
+    "vi": "Xuất khẩu"
+  },
+  "gui.epicfight.find_weapon": {
+    "en": "Find Weapons",
+    "zh": "查找武器",
+    "vi": "Tìm vũ khí"
+  },
+  "gui.epicfight.tab.datapack.weapon_type": {
+    "en": "Weapon Type",
+    "zh": "武器类型",
+    "vi": "Loại vũ khí"
+  },
+  "gui.epicfight.tab.datapack.item_capability": {
+    "en": "Item Capability",
+    "zh": "物品能力",
+    "vi": "Khả năng vật phẩm"
+  },
+  "gui.epicfight.tab.datapack.mob_patch": {
+    "en": "Mob Capability",
+    "zh": "生物能力",
+    "vi": "khả năng sinh học"
+  },
+  "gui.epicfight.select": {
+    "en": "%s List",
+    "zh": "%s 列表",
+    "vi": "Danh sách %s"
+  },
+  "gui.epicfight.warn.target_too_far": {
+    "en": "Target too far",
+    "zh": "目标距离过远",
+    "vi": "Mục tiêu ở quá xa"
+  },
+  "gui.epicfight.tooltip.dev_environment": {
+    "en": "Can't configure cosmetics in dev environment",
+    "zh": "无法在开发环境中配置装饰",
+    "vi": "Không thể định cấu hình trang trí trong môi trường phát triển"
+  },
+  "gui.epicfight.tooltip.communication_module_error": {
+    "en": "Can't load the server communication module. Mostly because of the thrid-party launcher or unsupported OS",
+    "zh": "无法加载服务器通信模块，通常是由于第三方启动器或不支持的操作系统",
+    "vi": "Không thể tải Mod giao tiếp máy chủ, thường là do trình khởi chạy của bên thứ ba hoặc hệ điều hành không được hỗ trợ"
+  },
+  "gui.epicfight.tooltip.offline_mode": {
+    "en": "Can't authenticate your Minecraft account. Are you using a cracked account?",
+    "zh": "无法验证你的 Minecraft 账户，是否使用了非正版账号？",
+    "vi": "Không thể xác minh tài khoản Minecraft của bạn. Bạn có đang sử dụng tài khoản trái phép không?"
+  },
+  "gui.epicskins.skin_config": {
+    "en": "Skin Configuration",
+    "zh": "皮肤配置",
+    "vi": "Cấu hình da"
+  },
+  "gui.epicskins.button.skin_configuration": {
+    "en": "Skin Configuration",
+    "zh": "皮肤配置",
+    "vi": "Cấu hình da"
+  },
+  "gui.epicskins.button.save": {
+    "en": "Save",
+    "zh": "保存",
+    "vi": "cứu"
+  },
+  "gui.epicskins.button.quit": {
+    "en": "Quit",
+    "zh": "退出",
+    "vi": "từ bỏ"
+  },
+  "gui.epicskins.button.delete_account": {
+    "en": "Delete Account",
+    "zh": "删除账户",
+    "vi": "Xóa tài khoản"
+  },
+  "gui.epicskins.button.back": {
+    "en": "Back",
+    "zh": "返回",
+    "vi": "trở lại"
+  },
+  "gui.epicskins.avatar.cape_type": {
+    "en": "Cape Type",
+    "zh": "披风类型",
+    "vi": "Loại áo choàng"
+  },
+  "gui.epicskins.avatar.cape_color": {
+    "en": "Cape Color",
+    "zh": "披风颜色",
+    "vi": "Màu áo choàng"
+  },
+  "gui.epicskins.avatar.vanilla_texture": {
+    "en": "Vanilla Texture",
+    "zh": "原版纹理",
+    "vi": "Kết cấu gốc"
+  },
+  "gui.epicskins.avatar.cape_type.tooltip": {
+    "en": "Select a cape type",
+    "zh": "选择披风类型",
+    "vi": "Chọn loại áo choàng"
+  },
+  "gui.epicskins.avatar.cape_color.tooltip": {
+    "en": "Set a color of cape",
+    "zh": "设置披风颜色",
+    "vi": "Đặt màu áo choàng"
+  },
+  "gui.epicskins.avatar.vanilla_texture.tooltip": {
+    "en": "Check if you want to use vanilla cape texture",
+    "zh": "勾选以使用原版披风纹理",
+    "vi": "Kiểm tra để sử dụng kết cấu áo choàng gốc"
+  },
+  "item.epicfight.bokken": {
+    "en": "Bokken",
+    "zh": "木刀",
+    "vi": "Bokken"
+  },
+  "item.epicfight.uchigatana": {
+    "en": "Uchigatana",
+    "zh": "打刀",
+    "vi": "Uchigatana"
+  },
+  "item.epicfight.uchigatana_sheath": {
+    "en": null,
+    "zh": "打刀刀鞘",
+    "vi": "Bao kiếm dao"
+  },
+  "item.epicfight.stray_hat": {
+    "en": "Stray Hat",
+    "zh": "流浪者帽子",
+    "vi": "Stray Hat"
+  },
+  "item.epicfight.stray_robe": {
+    "en": "Stray Robe",
+    "zh": "流浪者长袍",
+    "vi": "Stray Robe"
+  },
+  "item.epicfight.stray_pants": {
+    "en": "Stray Pants",
+    "zh": "流浪者裤子",
+    "vi": "Stray Pants"
+  },
+  "item.epicfight.wooden_tachi": {
+    "en": "Wooden Tachi",
+    "zh": "木太刀",
+    "vi": "Wooden Tachi"
+  },
+  "item.epicfight.stone_tachi": {
+    "en": "Stone Tachi",
+    "zh": "石太刀",
+    "vi": "Stone Tachi"
+  },
+  "item.epicfight.iron_tachi": {
+    "en": "Iron Tachi",
+    "zh": "铁太刀",
+    "vi": "Iron Tachi"
+  },
+  "item.epicfight.golden_tachi": {
+    "en": "Golden Tachi",
+    "zh": "金太刀",
+    "vi": "Golden Tachi"
+  },
+  "item.epicfight.diamond_tachi": {
+    "en": "Diamond Tachi",
+    "zh": "钻石太刀",
+    "vi": "Diamond Tachi"
+  },
+  "item.epicfight.netherite_tachi": {
+    "en": "Netherite Tachi",
+    "zh": "下界合金太刀",
+    "vi": "Netherite Tachi"
+  },
+  "item.epicfight.wooden_longsword": {
+    "en": "Wooden Longsword",
+    "zh": "木长剑",
+    "vi": "Wooden Longsword"
+  },
+  "item.epicfight.stone_longsword": {
+    "en": "Stone Longsword",
+    "zh": "石长剑",
+    "vi": "Stone Longsword"
+  },
+  "item.epicfight.iron_longsword": {
+    "en": "Iron Longsword",
+    "zh": "铁长剑",
+    "vi": "Iron Longsword"
+  },
+  "item.epicfight.golden_longsword": {
+    "en": "Golden Longsword",
+    "zh": "金长剑",
+    "vi": "Golden Longsword"
+  },
+  "item.epicfight.diamond_longsword": {
+    "en": "Diamond Longsword",
+    "zh": "钻石长剑",
+    "vi": "Diamond Longsword"
+  },
+  "item.epicfight.netherite_longsword": {
+    "en": "Netherite Longsword",
+    "zh": "下界合金长剑",
+    "vi": "Netherite Longsword"
+  },
+  "item.epicfight.wooden_spear": {
+    "en": "Wooden Spear",
+    "zh": "木长矛",
+    "vi": "Wooden Spear"
+  },
+  "item.epicfight.stone_spear": {
+    "en": "Stone Spear",
+    "zh": "石长矛",
+    "vi": "Stone Spear"
+  },
+  "item.epicfight.iron_spear": {
+    "en": "Iron Spear",
+    "zh": "铁长矛",
+    "vi": "Iron Spear"
+  },
+  "item.epicfight.golden_spear": {
+    "en": "Golden Spear",
+    "zh": "金长矛",
+    "vi": "Golden Spear"
+  },
+  "item.epicfight.diamond_spear": {
+    "en": "Diamond Spear",
+    "zh": "钻石长矛",
+    "vi": "Diamond Spear"
+  },
+  "item.epicfight.netherite_spear": {
+    "en": "Netherite Spear",
+    "zh": "下界合金长矛",
+    "vi": "Netherite Spear"
+  },
+  "item.epicfight.wooden_greatsword": {
+    "en": "Wooden Greatsword",
+    "zh": "木大剑",
+    "vi": "Wooden Greatsword"
+  },
+  "item.epicfight.stone_greatsword": {
+    "en": "Stone Greatsword",
+    "zh": "石大剑",
+    "vi": "Stone Greatsword"
+  },
+  "item.epicfight.golden_greatsword": {
+    "en": "Golden Greatsword",
+    "zh": "金大剑",
+    "vi": "Golden Greatsword"
+  },
+  "item.epicfight.iron_greatsword": {
+    "en": "Iron Greatsword",
+    "zh": "铁大剑",
+    "vi": "Iron Greatsword"
+  },
+  "item.epicfight.diamond_greatsword": {
+    "en": "Diamond Greatsword",
+    "zh": "钻石大剑",
+    "vi": "Diamond Greatsword"
+  },
+  "item.epicfight.netherite_greatsword": {
+    "en": "Netherite Greatsword",
+    "zh": "下界合金大剑",
+    "vi": "Netherite Greatsword"
+  },
+  "item.epicfight.wooden_dagger": {
+    "en": "Wooden Dagger",
+    "zh": "木匕首",
+    "vi": "Wooden Dagger"
+  },
+  "item.epicfight.stone_dagger": {
+    "en": "Stone Dagger",
+    "zh": "石匕首",
+    "vi": "Stone Dagger"
+  },
+  "item.epicfight.golden_dagger": {
+    "en": "Golden Dagger",
+    "zh": "金匕首",
+    "vi": "Golden Dagger"
+  },
+  "item.epicfight.iron_dagger": {
+    "en": "Iron Dagger",
+    "zh": "铁匕首",
+    "vi": "Iron Dagger"
+  },
+  "item.epicfight.diamond_dagger": {
+    "en": "Diamond Dagger",
+    "zh": "钻石匕首",
+    "vi": "Diamond Dagger"
+  },
+  "item.epicfight.netherite_dagger": {
+    "en": "Netherite Dagger",
+    "zh": "下界合金匕首",
+    "vi": "Netherite Dagger"
+  },
+  "item.epicfight.skillbook": {
+    "en": "Skill Book",
+    "zh": "技能书",
+    "vi": "Skill Book"
+  },
+  "item.epicfight.knuckle": {
+    "en": null,
+    "zh": "拳套",
+    "vi": "găng tay"
+  },
+  "item.minecraft.tipped_arrow.effect.blooming": {
+    "en": "Arrow of Blooming",
+    "zh": "活力之箭",
+    "vi": "Mũi tên sức sống"
+  },
+  "item.minecraft.potion.effect.blooming": {
+    "en": "Blooming",
+    "zh": "活力药水",
+    "vi": "Blooming"
+  },
+  "item.minecraft.splash_potion.effect.blooming": {
+    "en": "Splash potion of Blooming",
+    "zh": "喷溅型活力药水",
+    "vi": "Splash potion of Blooming"
+  },
+  "item.minecraft.lingering_potion.effect.blooming": {
+    "en": "Lingering potion of Blooming",
+    "zh": "滞留型活力药水",
+    "vi": "Lingering potion of Blooming"
+  },
+  "item.epicfight.uchigatana.tooltip": {
+    "en": "Sheathe Uchigatana after 5 seconds of inactivity and your next attack will be empowered.",
+    "zh": "在4秒不活动后将刀剑收回。在被动攻击结束后的较短时间内再次进行攻击，也会将刀剑收回。",
+    "vi": "Rút kiếm sau 4 giây không hoạt động. Tấn công lại trong một khoảng thời gian ngắn sau khi đòn tấn công thụ động kết thúc cũng sẽ rút kiếm lại."
+  },
+  "itemGroup.epicfight.items": {
+    "en": "EpicFight Items",
+    "zh": "史诗战斗物品",
+    "vi": "vật phẩm chiến đấu hoành tráng"
+  },
+  "key.epicfight.gui": {
+    "en": "Epic Fight GUI",
+    "zh": "史诗战斗界面",
+    "vi": "Giao diện trận chiến hoành tráng"
+  },
+  "key.epicfight.combat": {
+    "en": "Epic Fight Combat",
+    "zh": "史诗战斗模式",
+    "vi": "Chế độ chiến đấu hoành tráng"
+  },
+  "key.epicfight.show_tooltip": {
+    "en": "Show Weapon Innate Skill Tooltip",
+    "zh": "显示武器进阶技能提示",
+    "vi": "Hiển thị mẹo kỹ năng nâng cao về vũ khí"
+  },
+  "key.epicfight.switch_mode": {
+    "en": "Toggle Battle/Mining Mode",
+    "zh": "切换战斗/挖掘模式",
+    "vi": "Chuyển đổi Chế độ Chiến đấu / Xây dựng"
+  },
+  "key.epicfight.weapon_innate_skill": {
+    "en": "Weapon Innate Skill",
+    "zh": "武器进阶技能",
+    "vi": "Kỹ năng nâng cao vũ khí"
+  },
+  "key.epicfight.skill_gui": {
+    "en": "Open Skill Editor",
+    "zh": "打开技能编辑器",
+    "vi": "Mở trình chỉnh sửa kỹ năng"
+  },
+  "key.epicfight.dodge": {
+    "en": "Dodge Skill",
+    "zh": "闪避技能",
+    "vi": "Né đòn / Lộn nhào"
+  },
+  "key.epicfight.lock_on": {
+    "en": "Lock-on",
+    "zh": "开启锁定",
+    "vi": "Bật khóa"
+  },
+  "key.epicfight.mover_skill": {
+    "en": "Mobility Skill",
+    "zh": "行动技能",
+    "vi": "Kỹ năng hành động"
+  },
+  "key.epicfight.config": {
+    "en": "Open Configuration Screen",
+    "zh": "打开配置界面",
+    "vi": "Mở giao diện cấu hình"
+  },
+  "key.epicfight.guard": {
+    "en": "Guard",
+    "zh": "防御",
+    "vi": "Đỡ đòn / Chặn đòn"
+  },
+  "key.epicfight.lock_on_shift_left": {
+    "en": "Lock-on Shift Left",
+    "zh": "锁定左移",
+    "vi": "Khóa dịch chuyển trái"
+  },
+  "key.epicfight.lock_on_shift_right": {
+    "en": "Lock-on Shift Right",
+    "zh": "锁定右移",
+    "vi": "Khóa dịch chuyển phải"
+  },
+  "key.epicfight.lock_on_shift_freely": {
+    "en": "Lock-on Free Shift",
+    "zh": "锁定自由切换",
+    "vi": "Khóa chuyển đổi miễn phí"
+  },
+  "key.epicfight.show_tooltip.description": {
+    "en": "Displays the tooltip of your weapon's innate skill when the inventory screen is open",
+    "zh": "在打开物品栏时显示当前武器进阶技能的提示信息",
+    "vi": "Hiển thị thông tin nhanh chóng về các kỹ năng nâng cao của vũ khí hiện tại khi mở kho đồ"
+  },
+  "key.epicfight.switch_mode.description": {
+    "en": "Switches between combat and mining modes",
+    "zh": "在战斗模式与挖掘模式之间切换",
+    "vi": "Chuyển đổi giữa chế độ chiến đấu và chế độ khai thác"
+  },
+  "key.epicfight.attack.description": {
+    "en": "Performs a basic attack with your equipped weapon",
+    "zh": "使用当前手持武器执行基础攻击",
+    "vi": "Thực hiện đòn tấn công cơ bản bằng vũ khí hiện đang cầm"
+  },
+  "key.epicfight.weapon_innate_skill.description": {
+    "en": "Activates the innate skill of your equipped weapon",
+    "zh": "激活当前手持武器的进阶技能",
+    "vi": "Kích hoạt các kỹ năng nâng cao của vũ khí hiện đang cầm"
+  },
+  "key.epicfight.skill_gui.description": {
+    "en": "Opens the skill editor GUI to customize your skills",
+    "zh": "打开技能编辑器界面以自定义你的技能",
+    "vi": "Mở giao diện chỉnh sửa kỹ năng để tùy chỉnh kỹ năng của bạn"
+  },
+  "key.epicfight.dodge.description": {
+    "en": "Performs a dodge maneuver to avoid attacks",
+    "zh": "执行闪避动作以躲避攻击",
+    "vi": "Thực hiện các thao tác né tránh để tránh các cuộc tấn công"
+  },
+  "key.epicfight.guard.description": {
+    "en": "Blocks incoming attacks with your weapon",
+    "zh": "使用武器格挡来袭的攻击",
+    "vi": "Sử dụng vũ khí của bạn để chặn các cuộc tấn công sắp tới"
+  },
+  "key.epicfight.mover_skill.description": {
+    "en": "Uses a skill that enhances movement or mobility",
+    "zh": "使用可增强移动或机动性的技能",
+    "vi": "Sử dụng các kỹ năng tăng cường chuyển động hoặc khả năng di chuyển"
+  },
+  "key.epicfight.config.description": {
+    "en": "Opens the mod configuration screen",
+    "zh": "打开模组配置界面",
+    "vi": "Mở giao diện cấu hình module"
+  },
+  "key.epicfight.switch_vanilla_model_debug.description": {
+    "en": "Toggles debugging for vanilla player models",
+    "zh": "切换原版玩家模型的调试显示",
+    "vi": "Chuyển đổi hiển thị gỡ lỗi của mô hình trình phát gốc"
+  },
+  "key.epicfight.lock_on.description": {
+    "en": "Locks onto the nearest target for easier combat",
+    "zh": "锁定最近的目标，便于战斗操作",
+    "vi": "Khóa mục tiêu gần nhất để tạo thuận lợi cho hoạt động chiến đấu"
+  },
+  "key.epicfight.lock_on_shift_left.description": {
+    "en": "Switches lock-on to the target on the left",
+    "zh": "将锁定目标切换至左侧目标",
+    "vi": "Chuyển mục tiêu khóa sang mục tiêu bên trái"
+  },
+  "key.epicfight.lock_on_shift_right.description": {
+    "en": "Switches lock-on to the target on the right",
+    "zh": "将锁定目标切换至右侧目标",
+    "vi": "Chuyển mục tiêu khóa sang mục tiêu bên phải"
+  },
+  "key.epicfight.lock_on_shift_freely.description": {
+    "en": "Lets you freely switch between nearby targets while locked on",
+    "zh": "在锁定状态下自由切换附近的目标",
+    "vi": "Tự do chuyển đổi mục tiêu lân cận khi bị khóa"
+  },
+  "skill.epicfight.dancing_edge": {
+    "en": "Dancing Edge",
+    "zh": "刃舞",
+    "vi": "kiếm vũ"
+  },
+  "skill.epicfight.dancing_edge.tooltip": {
+    "en": "Cut down enemies with a lethal flourish! It strikes 3 times",
+    "zh": "舞蹈般致命的剑术！总计施放三次攻击。",
+    "vi": "Kiếm thuật chết người như vũ điệu! Tổng cộng có ba đòn tấn công được thực hiện."
+  },
+  "skill.epicfight.battojutsu": {
+    "en": "Battojutsu",
+    "zh": "居合斩",
+    "vi": "Iai cắt"
+  },
+  "skill.epicfight.battojutsu.tooltip": {
+    "en": "Unleash your blade at blinding speeds! If cast while sprinting, You slash forwards, slicing enemies in your path.",
+    "zh": "风驰电掣地拔刀！挥剑！ 疾跑时施放将向前冲刺，斩断路径上的敌人。",
+    "vi": "Rút kiếm với tốc độ cực nhanh! Hãy vung kiếm của bạn! Thi triển khi đang chạy sẽ lao về phía trước, cắt đứt kẻ thù trên đường đi của nó."
+  },
+  "skill.epicfight.steel_whirlwind": {
+    "en": "Steel Whirlwind",
+    "zh": "钢铁旋风",
+    "vi": "cơn lốc thép"
+  },
+  "skill.epicfight.steel_whirlwind.tooltip": {
+    "en": "Cleave forwards and decimate your enemies! This can ability be charged, increasing attack range and speed.",
+    "zh": "旋舞起重型武器前进并粉碎敌人！ 可蓄力以增加攻击范围和速度。",
+    "vi": "Xoay vũ khí hạng nặng của bạn về phía trước và nghiền nát kẻ thù của bạn! Có thể sạc để tăng phạm vi tấn công và tốc độ."
+  },
+  "skill.epicfight.the_guillotine": {
+    "en": "The Guillotine",
+    "zh": "断头台",
+    "vi": "máy chém"
+  },
+  "skill.epicfight.the_guillotine.tooltip": {
+    "en": "Execute your target with a hefty blow. Executes if the target has less than %s health.",
+    "zh": "跃起斩击处决目标。 目标的生命值低于 %s 时，立刻处决该目标。",
+    "vi": "Nhảy lên và tiêu diệt mục tiêu bằng một nhát chém. Khi máu của mục tiêu thấp hơn %s, mục tiêu sẽ bị xử tử ngay lập tức."
+  },
+  "skill.epicfight.heartpiercer": {
+    "en": "Heartpiercer",
+    "zh": "穿心",
+    "vi": "Đi xuyên qua trái tim"
+  },
+  "skill.epicfight.heartpiercer.tooltip": {
+    "en": "Thrust your spear rapidly 3 times.",
+    "zh": "向前方施放三次猛刺攻击。",
+    "vi": "Phát động ba đòn tấn công về phía trước."
+  },
+  "skill.epicfight.grasping_spire": {
+    "en": "Grasping Spire",
+    "zh": "回马扫",
+    "vi": "Quay lại chuyện quét ngựa"
+  },
+  "skill.epicfight.grasping_spire.tooltip": {
+    "en": "Stab through your enemy to pull them in. Successfully hitting an enemy will perform a second strike, knocking them back based on how many enemies were hit.",
+    "zh": "刺击敌人击中后，将进行第二次横扫攻击，根据击中敌人数量将其击退。",
+    "vi": "Sau khi đâm kẻ địch, nó sẽ thực hiện đòn tấn công quét thứ hai, đẩy lùi số kẻ địch trúng phải."
+  },
+  "skill.epicfight.sweeping_edge": {
+    "en": "Sweeping Edge",
+    "zh": "横扫之刃",
+    "vi": "Lưỡi quét"
+  },
+  "skill.epicfight.sweeping_edge.tooltip": {
+    "en": "Cleave nearby enemies with a powerful slash.",
+    "zh": "用强力的斩击劈开附近的敌人。",
+    "vi": "Tách kẻ thù ở gần bằng những nhát chém mạnh mẽ."
+  },
+  "skill.epicfight.rushing_tempo": {
+    "en": "Rushing Tempo",
+    "zh": "急速节奏",
+    "vi": "tốc độ nhanh"
+  },
+  "skill.epicfight.rushing_tempo.tooltip": {
+    "en": "Slash an extra strike at the end of each basic attack. This skill can be stacked by %s times.",
+    "zh": "在普通攻击结束时额外进行一次攻击。 该技能可叠加 %s 次。",
+    "vi": "Thực hiện một đòn tấn công bổ sung khi kết thúc đòn tấn công thông thường. Kỹ năng này cộng dồn %s lần."
+  },
+  "skill.epicfight.relentless_combo": {
+    "en": "Relentless Combo",
+    "zh": "无情连击",
+    "vi": "Combo tàn nhẫn"
+  },
+  "skill.epicfight.relentless_combo.tooltip": {
+    "en": "Release a devastating flurry of blows!",
+    "zh": "释放毁灭性的连击！总计施放八次攻击。",
+    "vi": "Giải phóng combo tàn phá! Tổng cộng có tám đòn tấn công được thực hiện."
+  },
+  "skill.epicfight.liechtenauer": {
+    "en": "Liechtenauer",
+    "zh": "防御剑姿",
+    "vi": "tư thế kiếm phòng thủ"
+  },
+  "skill.epicfight.liechtenauer.tooltip": {
+    "en": "Assume a defensive stance for %s seconds. Player can deflect all attacks from in front while attacking. Killing enemies increases defensive stance duration by %s seconds. You cannot sprint while this effect is active.",
+    "zh": "采取 %s 秒的防御姿势。偏移所有袭来的攻击。击杀敌人会增加 %s 秒的防御态势持续时间。使用防御剑姿时无法疾跑。",
+    "vi": "Giữ tư thế phòng thủ trong %s giây. Làm chệch hướng tất cả các cuộc tấn công sắp tới. Tiêu diệt kẻ địch sẽ tăng thời gian ở tư thế phòng thủ thêm %s giây. Không thể chạy nhanh trong khi sử dụng thế kiếm phòng thủ."
+  },
+  "skill.epicfight.sharp_stab": {
+    "en": "Sharp Stab",
+    "zh": "锐利刺击",
+    "vi": "lực đẩy mạnh"
+  },
+  "skill.epicfight.sharp_stab.tooltip": {
+    "en": "Follow up your attacks with a swift and precise stab ignoring the enemy's guard.",
+    "zh": "无视敌人防御，以快速而精确地刺击来追击。",
+    "vi": "Bỏ qua sự phòng thủ của kẻ thù và truy đuổi bằng những cú đâm nhanh và chính xác."
+  },
+  "skill.epicfight.eviscerate": {
+    "en": "Eviscerate",
+    "zh": "剔骨",
+    "vi": "gỡ xương"
+  },
+  "skill.epicfight.eviscerate.tooltip": {
+    "en": "Tear into the enemy with a savage stab. Successfully hitting an enemy will rip out the dagger, dealing critical damage.",
+    "zh": "向前刺击目标成功击中后扯出匕首，造成致命伤害。",
+    "vi": "Đâm mục tiêu về phía trước và rút dao găm ra sau khi đâm trúng mục tiêu, gây sát thương chí mạng."
+  },
+  "skill.epicfight.blade_rush": {
+    "en": "Blade Rush",
+    "zh": "终结追击",
+    "vi": "kết thúc việc theo đuổi"
+  },
+  "skill.epicfight.blade_rush.tooltip": {
+    "en": "Slash through your enemy, applying Instability for 5 seconds. Reaching 3 stacks of Instability will execute the target.",
+    "zh": "跃击目标，施加趔趄状态五秒。 目标积累三层趔趄状态下次攻击将处决目标。",
+    "vi": "Nhảy tới mục tiêu, gây trạng thái choáng váng trong 5 giây. Nếu mục tiêu tích lũy được ba cấp trạng thái choáng váng, đòn tấn công tiếp theo sẽ kết liễu mục tiêu."
+  },
+  "skill.epicfight.wrathful_lighting": {
+    "en": "Wrathful Lightning",
+    "zh": "愤怒闪电",
+    "vi": "tia sét giận dữ"
+  },
+  "skill.epicfight.wrathful_lighting.tooltip": {
+    "en": "Invoke lightning to smite nearby enemies! Has a chance to change the weather.",
+    "zh": "召来闪电攻击附近的敌人！有概率会改变天气。",
+    "vi": "Triệu hồi tia sét để tấn công kẻ thù ở gần! Có khả năng thời tiết sẽ thay đổi."
+  },
+  "skill.epicfight.tsunami": {
+    "en": "Tsunami",
+    "zh": "海啸",
+    "vi": "sóng thần"
+  },
+  "skill.epicfight.tsunami.tooltip": {
+    "en": "Draw forth the power of the tides and surge forward! Dash distance increased when raining or underwater.",
+    "zh": "汲取潮汐之力，勇往直前！下雨或水下时冲刺距离会增加。",
+    "vi": "Hấp thụ sức mạnh của thủy triều và dũng cảm tiến về phía trước! Khoảng cách nước rút tăng lên khi trời mưa hoặc ở dưới nước."
+  },
+  "skill.epicfight.everlasting_allegiance": {
+    "en": "Everlasting Allegiance",
+    "zh": "永远的忠诚",
+    "vi": "lòng trung thành vĩnh cửu"
+  },
+  "skill.epicfight.everlasting_allegiance.tooltip": {
+    "en": "Recall your thrown trident, damaging all enemies in it's path.",
+    "zh": "召回投掷出的三叉戟，对路径上的所有敌人造成伤害。",
+    "vi": "Gọi lại một cây đinh ba được ném ra, gây sát thương cho tất cả kẻ địch trên đường đi của nó."
+  },
+  "skill.epicfight.roll": {
+    "en": "Roll",
+    "zh": "基础翻滚",
+    "vi": "cuộn cơ bản"
+  },
+  "skill.epicfight.roll.tooltip": {
+    "en": "Roll in the direction a player is moving. Evades all incoming attacks.",
+    "zh": "朝你移动的方向翻滚。 闪避所有袭来的攻击。\n\n（消耗耐力：%d）",
+    "vi": "Lăn theo hướng bạn đang di chuyển. Né tránh mọi đòn tấn công sắp tới.\n\n(Tiêu thụ thể lực: %d)"
+  },
+  "skill.epicfight.step": {
+    "en": "Step",
+    "zh": "基础跨步",
+    "vi": "bước tiến cơ bản"
+  },
+  "skill.epicfight.step.tooltip": {
+    "en": "Slide a short distance in the direction a player is moving. Evades all incoming attacks.",
+    "zh": "朝你移动的方向快速移动一小段距离。闪避所有袭来的攻击。\n\n（消耗耐力：%d）",
+    "vi": "Di chuyển nhanh một khoảng ngắn theo hướng bạn đang di chuyển. Né tránh mọi đòn tấn công sắp tới.\n\n(Tiêu thụ thể lực: %d)"
+  },
+  "skill.epicfight.guard": {
+    "en": "Guard",
+    "zh": "防守",
+    "vi": "phòng thủ"
+  },
+  "skill.epicfight.guard.tooltip": {
+    "en": "Right-click to guard against frontal attacks. Continued guarding will consume more stamina.",
+    "zh": "右键防御正面攻击。 持续防御会消耗更多耐力。\n\n消耗耐力：基于你当前的防御惩罚",
+    "vi": "Nhấp chuột phải để phòng thủ trước cuộc tấn công trực diện. Phòng thủ liên tục tiêu tốn nhiều sức chịu đựng hơn.\n\nTiêu hao sức chịu đựng: Hình phạt dựa trên khả năng phòng thủ hiện tại của bạn"
+  },
+  "skill.epicfight.parrying": {
+    "en": "Parrying",
+    "zh": "基础招架",
+    "vi": "Phản đòn cơ bản"
+  },
+  "skill.epicfight.parrying.tooltip": {
+    "en": "Allows a player to time guards accordingly to prevent stamina use. Player is able to guard against ranged attacks.",
+    "zh": "完美防御可以触发招架，以防止耐力消耗。 可以防御远程攻击。 \n\n需要先学习 “防守” 技能",
+    "vi": "Phòng thủ Hoàn hảo có thể kích hoạt đòn đỡ để tránh tiêu hao sức chịu đựng. Có thể phòng thủ trước các cuộc tấn công từ xa. \n\nBạn cần học kỹ năng \"Phòng thủ\" trước"
+  },
+  "skill.epicfight.impact_guard": {
+    "en": "Impact Guard",
+    "zh": "抵御",
+    "vi": "kháng cự"
+  },
+  "skill.epicfight.impact_guard.tooltip": {
+    "en": "Reduces stamina consumption and guard penalty on guarding. You can guard against explosions, fire, magic, and projectiles, taking %d%% of the original damage.",
+    "zh": "减少防御时的耐力消耗。 防御时可以减少80%的爆炸、火焰、魔法和弹射物伤害。\n\n需要先学习 “防守” 技能",
+    "vi": "Giảm tiêu hao thể lực khi phòng thủ. Giảm 80% sát thương nổ, lửa, ma thuật và đạn khi phòng thủ.\n\nBạn cần học kỹ năng \"Phòng thủ\" trước"
+  },
+  "skill.epicfight.berserker": {
+    "en": "Berserker",
+    "zh": "狂暴",
+    "vi": "hung bạo"
+  },
+  "skill.epicfight.berserker.tooltip": {
+    "en": "Gain %s%% additional attack damage and %s%% additional attack speed for each 1%% of missing health.\n\nAdditional attack speed can't exceed over 5.0",
+    "zh": "每损失 1%% 生命值，获得 %s%% 额外攻击力和 %s%% 额外攻击速度。\n\n攻击速度叠加不能超过5.0",
+    "vi": "Nhận thêm %s%% sức tấn công và tốc độ tấn công cộng thêm %s%% cho mỗi 1%% máu bị mất.\n\nCộng dồn tốc độ tấn công không thể vượt quá 5,0"
+  },
+  "skill.epicfight.stamina_pillager": {
+    "en": "Stamina Pillager",
+    "zh": "耐力掠夺",
+    "vi": "Cướp bóc sức chịu đựng"
+  },
+  "skill.epicfight.stamina_pillager.tooltip": {
+    "en": "Regain %s%% of missing stamina when killing your target.",
+    "zh": "杀死目标时恢复 %s%% 消耗的耐力。",
+    "vi": "Phục hồi %s%% sức chịu đựng đã tiêu hao khi tiêu diệt mục tiêu."
+  },
+  "skill.epicfight.swordmaster": {
+    "en": "Swordmaster",
+    "zh": "剑术大师",
+    "vi": "bậc thầy kiếm thuật"
+  },
+  "skill.epicfight.swordmaster.tooltip": {
+    "en": "Gain %s%% additional attack speed.",
+    "zh": "获得 %s%% 额外攻击速度。",
+    "vi": "Nhận thêm %s%% tốc độ tấn công."
+  },
+  "skill.epicfight.technician": {
+    "en": "Technician",
+    "zh": "技巧大师",
+    "vi": "Bậc thầy về kỹ thuật"
+  },
+  "skill.epicfight.technician.tooltip": {
+    "en": "Regain stamina when dodging right before an enemy attack hits a player.",
+    "zh": "在敌人攻击击中你之前进行闪避，即可恢复耐力。",
+    "vi": "Né tránh đòn tấn công của kẻ thù trước khi nó tấn công bạn để khôi phục sức chịu đựng."
+  },
+  "skill.epicfight.hypervitality": {
+    "en": "Hyper Vitality",
+    "zh": "超强活力",
+    "vi": "Siêu sức sống"
+  },
+  "skill.epicfight.hypervitality.tooltip": {
+    "en": "Uses stamina instead of weapon charge when it's not full.",
+    "zh": "允许将耐力用于武器技能。\n\n（冷却时间：武器技能充能的20%）",
+    "vi": "Cho phép sức chịu đựng được sử dụng cho các kỹ năng vũ khí.\n\n(Thời gian hồi chiêu: 20% phí kỹ năng vũ khí)"
+  },
+  "skill.epicfight.forbidden_strength": {
+    "en": "Forbidden Strength",
+    "zh": "禁忌之力",
+    "vi": "Quyền lực cấm"
+  },
+  "skill.epicfight.forbidden_strength.tooltip": {
+    "en": "Consumes health instead of stamina when it's insufficient.",
+    "zh": "耐力耗尽时将会消耗生命值以代替。",
+    "vi": "Khi sức chịu đựng cạn kiệt, sức khỏe sẽ được tiêu hao để thay thế."
+  },
+  "skill.epicfight.endurance": {
+    "en": "Endurance",
+    "zh": "忍耐",
+    "vi": "chịu đựng"
+  },
+  "skill.epicfight.endurance.tooltip": {
+    "en": "Grants stun resistance as an amount of stamina consumed for %s seconds if a player is hit while preparing an attack.",
+    "zh": "如果你在攻击前的预备动作中受到伤害，你将获得等同于%s秒消耗耐力的击晕抗性。",
+    "vi": "Nếu bạn nhận sát thương trong hành động chuẩn bị trước khi tấn công, bạn sẽ nhận được khả năng chống choáng bằng %s giây sức chịu đựng đã tiêu tốn."
+  },
+  "skill.epicfight.emergency_escape": {
+    "en": "Emergency Escape",
+    "zh": "紧急逃生",
+    "vi": "thoát hiểm khẩn cấp"
+  },
+  "skill.epicfight.emergency_escape.tooltip": {
+    "en": "Allows a player dodging when being hit or out of stamina.\n\nAllows a player canceling attack motions and dodge. (Always activated)",
+    "zh": "你现在可以通过闪避来取消攻击。 耐力耗尽时也可以闪避。",
+    "vi": "Bây giờ bạn có thể hủy các cuộc tấn công bằng cách né tránh. Bạn cũng có thể né tránh khi sức chịu đựng của bạn cạn kiệt."
+  },
+  "skill.epicfight.death_harvest": {
+    "en": "Death Harvest",
+    "zh": "死亡收割",
+    "vi": "thu hoạch cái chết"
+  },
+  "skill.epicfight.death_harvest.tooltip": {
+    "en": "Regain weapon charge when killing an enemy with an innate weapon skill.",
+    "zh": "使用武器技能杀死敌人时，武器会再次获得充能。 充能数值取决于你的武器伤害和杀死的敌人数量。",
+    "vi": "Khi bạn tiêu diệt kẻ thù bằng kỹ năng vũ khí, vũ khí sẽ được nạp lại năng lượng. Số lượng phí dựa trên sát thương vũ khí của bạn và số lượng kẻ thù bị tiêu diệt."
+  },
+  "skill.epicfight.meteor_slam": {
+    "en": "Meteor Slam",
+    "zh": "流星猛击",
+    "vi": "Cuộc va chạm sao băng"
+  },
+  "skill.epicfight.meteor_slam.tooltip": {
+    "en": "§oApocalypse descended from the sky.§r\n\nCrash into the ground with a powerful slam. Height increases damage done and stamina consumed. Take damage if fall damage exceeds stamina limit.",
+    "zh": "§o惊悸的末日从天而降。§r\n\n猛烈撞击地面对敌人造成伤害。高度会增加造成的伤害和消耗的耐力。 受到的摔落伤害超过耐力上限，自身将会受到伤害。\n\n（消耗耐力：基于受到的摔落伤害）",
+    "vi": "§o Ngày tận thế đáng sợ từ trên trời rơi xuống. §r\n\nĐập mạnh xuống đất để gây sát thương cho kẻ thù. Độ cao tăng sát thương gây ra và sức chịu đựng tiêu hao. Nếu sát thương rơi nhận được vượt quá giới hạn chịu đựng trên, bạn sẽ bị tổn hại.\n\n(Tiêu thụ thể lực: dựa trên sát thương rơi nhận được)"
+  },
+  "skill.epicfight.revelation": {
+    "en": "Revelation",
+    "zh": "看破",
+    "vi": "nhìn xuyên qua"
+  },
+  "skill.epicfight.revelation.tooltip": {
+    "en": "§oEye of Hawk catching the weakpoints of the enemies§r\n\nBlocking, Parrying, and Dodging gives stacks of Revelation. Reaching the indicated amount of stacks will allow a player to unleash a stunning counter attack.",
+    "zh": "§o鹰之眼捕捉敌人弱点。§r\n\n格挡、招架和闪避会消耗看破点数。看破点数消耗殆尽后将能够惊人地发动反击。",
+    "vi": "§o Eagle Eyes nắm bắt được điểm yếu của kẻ thù. §r\n\nChặn, đỡ và né sẽ tiêu tốn Điểm sáng suốt. Sau khi hết điểm thâm nhập, bạn sẽ có thể tung ra một đòn phản công bất ngờ."
+  },
+  "skill.epicfight.demolition_leap": {
+    "en": "Demolition Leap",
+    "zh": "毁坏跳跃",
+    "vi": "Phá hủy bước nhảy"
+  },
+  "skill.epicfight.demolition_leap.tooltip": {
+    "en": "Gather energy to launch yourself into a targeted direction, reducing next fall damage by 50%.",
+    "zh": "同时按住跳跃键与下蹲键可以进行连续跳跃。",
+    "vi": "Nhấn và giữ đồng thời nút nhảy và nút cúi người để thực hiện các bước nhảy liên tục."
+  },
+  "skill.epicfight.phantom_ascent": {
+    "en": "Phantom Ascent",
+    "zh": "幻影越升",
+    "vi": "Bóng ma trỗi dậy"
+  },
+  "skill.epicfight.phantom_ascent.tooltip": {
+    "en": "Allows a player to jump %d times more in the air.",
+    "zh": "允许你在空中跳跃 %d 次.",
+    "vi": "Cho phép bạn nhảy lên không trung %d lần."
+  },
+  "skill.epicfight.adrenaline_fiend": {
+    "en": "Adrenaline Fiend",
+    "zh": "肾上腺素狂热",
+    "vi": "cơn sốt adrenaline"
+  },
+  "skill.epicfight.adrenaline_fiend.tooltip": {
+    "en": "Starts to regenerate stamina immediately when killing a mob.",
+    "zh": "击杀生物后立即开始恢复耐力",
+    "vi": "Bắt đầu phục hồi sức chịu đựng ngay sau khi giết một sinh vật."
+  },
+  "skill.epicfight.adaptive_skin": {
+    "en": "Adaptive Skin",
+    "zh": "自适应皮肤",
+    "vi": "Da thích ứng"
+  },
+  "skill.epicfight.adaptive_skin.tooltip": {
+    "en": "Get a damage resistance against the damage type that you've taken recently by %s%%. The damage resistance stacks up to %d.\n\nResistible damage types:\n%s",
+    "zh": "获得针对最近所受伤害类型的抗性，减免%s%%伤害。该伤害抗性最多可叠加%d层。\n\n可抵抗的伤害类型：\n%s",
+    "vi": "Có được khả năng chống lại loại sát thương vừa phải chịu, giảm sát thương %s%%. Khả năng chống chịu sát thương này có thể xếp chồng lên tới các lớp %d.\n\nCác loại thiệt hại có khả năng chống lại:\n%s"
+  },
+  "skill.epicfight.catharsis": {
+    "en": "Catharsis",
+    "zh": "情绪宣泄",
+    "vi": "tẩy rửa"
+  },
+  "skill.epicfight.catharsis.tooltip": {
+    "en": "Charges your weapon when dodging attacks.",
+    "zh": "闪避攻击时为武器充能",
+    "vi": "Sạc vũ khí của bạn khi né tránh một cuộc tấn công"
+  },
+  "skill.epicfight.bonebreaker": {
+    "en": "Bonebreaker",
+    "zh": "碎骨者",
+    "vi": "Máy bẻ xương"
+  },
+  "skill.epicfight.bonebreaker.tooltip": {
+    "en": "Gain a damage bonus against an enemy you've recently attacked by %s%%. Stacks up to %d and the stack will be reset if you strike another target.",
+    "zh": "对最近攻击过的敌人获得%s%%伤害加成。最多叠加%d层，若攻击其他目标则重置层数",
+    "vi": "Nhận phần thưởng sát thương %s%% cho kẻ địch bị tấn công gần đây nhất. Có thể xếp chồng tối đa các lớp %d. Nếu bạn tấn công các mục tiêu khác, số lớp sẽ được đặt lại."
+  },
+  "skill.epicfight.vengeance": {
+    "en": "Vengeance",
+    "zh": "复仇",
+    "vi": "sự trả thù"
+  },
+  "skill.epicfight.vengeance.tooltip": {
+    "en": "Gain a damage bonus against an enemy that recently hurt you by %s%%. You can switch the target after 4 seconds since you don't hit or get hurt by the current target. Killing the target will grant you a %s%% damage increase that gradually decreases for %d seconds.",
+    "zh": "对最近伤害过你的敌人获得%s%%伤害加成。若4秒内未攻击或未被当前目标伤害，可切换目标。击杀目标后将获得%s%%伤害加成，该效果在%d秒内逐渐衰减",
+    "vi": "Nhận phần thưởng sát thương %s%% cho kẻ thù gần đây đã gây sát thương cho bạn. Nếu không có đòn tấn công hoặc sát thương nào từ mục tiêu hiện tại trong vòng 4 giây, mục tiêu có thể được chuyển đổi. Sau khi tiêu diệt mục tiêu, bạn sẽ nhận được phần thưởng sát thương %s%%. Hiệu ứng này sẽ giảm dần trong vòng %d giây."
+  },
+  "skill.epicfight.passive.category": {
+    "en": "Passive",
+    "zh": "被动技能",
+    "vi": "Kỹ năng thụ động"
+  },
+  "skill.epicfight.dodge.category": {
+    "en": "Dodge",
+    "zh": "闪避技能",
+    "vi": "Kỹ năng né tránh"
+  },
+  "skill.epicfight.guard.category": {
+    "en": "Guard",
+    "zh": "防守技能",
+    "vi": "kỹ năng phòng thủ"
+  },
+  "skill.epicfight.identity.category": {
+    "en": "Identity",
+    "zh": "属性技能",
+    "vi": "Kỹ năng thuộc tính"
+  },
+  "skill.epicfight.mover.category": {
+    "en": "Mobility",
+    "zh": "行动技能",
+    "vi": "Kỹ năng hành động"
+  },
+  "beta_warning": {
+    "en": null,
+    "zh": "当前版本的史诗战斗为内部测试版！包含一些可能无法正常运行或致使游戏停止的实验功能。 如果您不想使用此模组，请您从您的模组列表中删除它。",
+    "vi": "Phiên bản hiện tại của Epic Battle là phiên bản beta nội bộ! Chứa một số tính năng thử nghiệm có thể không hoạt động bình thường hoặc khiến trò chơi bị dừng. Nếu bạn không muốn sử dụng mod này, vui lòng xóa nó khỏi danh sách mod của bạn."
+  },
+  "key.epicfight.special_attack": {
+    "en": null,
+    "zh": null,
+    "vi": "Đòn đánh đặc biệt"
+  },
+  "category.epicfight.key": {
+    "en": null,
+    "zh": null,
+    "vi": "Epic Fight Combat"
+  },
+  "gui.epicfight.skills": {
+    "en": null,
+    "zh": null,
+    "vi": "Cây kỹ năng"
+  },
+  "gui.epicfight.active_skills": {
+    "en": null,
+    "zh": null,
+    "vi": "Kỹ năng kích hoạt"
+  },
+  "gui.epicfight.passive_skills": {
+    "en": null,
+    "zh": null,
+    "vi": "Kỹ năng nội tại"
+  },
+  "attribute.name.epicfight.execution_resistance": {
+    "en": "Execution Resistance",
+    "zh": "Execution Resistance",
+    "vi": null
+  },
+  "attribute.name.epicfight.offhand_impact": {
+    "en": "Offhand Impact",
+    "zh": "Offhand Impact",
+    "vi": null
+  },
+  "attribute.name.epicfight.offhand_armor_negation": {
+    "en": "Offhand Armor Negation",
+    "zh": "Offhand Armor Negation",
+    "vi": null
+  },
+  "attribute.name.epicfight.offhand_max_strikes": {
+    "en": "Offhand Max Strikes",
+    "zh": "Offhand Max Strikes",
+    "vi": null
+  },
+  "attribute.name.generic.attack_speed.skillbook_tooltip": {
+    "en": "Increases player's attack speed",
+    "zh": null,
+    "vi": null
+  },
+  "commands.epicfight.stamina.success.self": {
+    "en": "Successfully Modified %s's stamina to %s",
+    "zh": null,
+    "vi": null
+  },
+  "commands.epicfight.stamina.success.other": {
+    "en": "Successfully Modified stamina from %s targets",
+    "zh": null,
+    "vi": null
+  },
+  "commands.epicfight.stamina.success.failed": {
+    "en": "Failed at modifying stamina",
+    "zh": null,
+    "vi": null
+  },
+  "commands.epicfight.stamina.value.get.success": {
+    "en": "Value of stamina for player %s is %s",
+    "zh": null,
+    "vi": null
+  },
+  "commands.epicfight.stamina.failed.no_stamina": {
+    "en": "Player %s has no stamina",
+    "zh": null,
+    "vi": null
+  },
+  "debug.vanilla_model_debugging.on": {
+    "en": "Vanilla model debugging: On",
+    "zh": "Vanilla model debugging: On",
+    "vi": null
+  },
+  "debug.vanilla_model_debugging.off": {
+    "en": "Vanilla model debugging: Off",
+    "zh": "Vanilla model debugging: Off",
+    "vi": null
+  },
+  "debug.show_epicfight_tooltip.on": {
+    "en": "Show Epic Fight Tooltip: On",
+    "zh": "Show Epic Fight Tooltip: On",
+    "vi": null
+  },
+  "debug.show_epicfight_tooltip.off": {
+    "en": "Show Epic Fight Tooltip: Off",
+    "zh": "Show Epic Fight Tooltip: Off",
+    "vi": null
+  },
+  "effect.epicfight.instability": {
+    "en": "Instability",
+    "zh": "Instability",
+    "vi": null
+  },
+  "entity.epicfight.wither_ghost": {
+    "en": "Wither Ghost",
+    "zh": null,
+    "vi": null
+  },
+  "entity.epicfight.area_effect_breath": {
+    "en": "Dragon Breath",
+    "zh": null,
+    "vi": null
+  },
+  "epicfight.gui.configuration.item_preferences": {
+    "en": "Item Preferences",
+    "zh": null,
+    "vi": null
+  },
+  "epicfight.gui.combat_perferred": {
+    "en": "Combat Preferred",
+    "zh": null,
+    "vi": null
+  },
+  "epicfight.gui.combat_perferred.tooltip": {
+    "en": "Items categorized here will play attack animations if you target any entity",
+    "zh": null,
+    "vi": null
+  },
+  "epicfight.gui.mining_preferred": {
+    "en": "Mining Preferred",
+    "zh": null,
+    "vi": null
+  },
+  "epicfight.gui.mining_preferred.tooltip": {
+    "en": "Items categorized here will start to break blocks unless you are looking at entities accurately",
+    "zh": null,
+    "vi": null
+  },
+  "epicfight.gui.item_preferences.swap_all": {
+    "en": "Swap All",
+    "zh": null,
+    "vi": null
+  },
+  "epicfight.animationNotFound": {
+    "en": "Unknown animation name: %s",
+    "zh": null,
+    "vi": null
+  },
+  "entity.weapon.whoosh": {
+    "en": "Whoosh",
+    "zh": "Whoosh",
+    "vi": null
+  },
+  "entity.weapon.whoosh_small": {
+    "en": "Small whoosh",
+    "zh": "Small whoosh",
+    "vi": null
+  },
+  "entity.weapon.whoosh_hard": {
+    "en": "Big whoosh",
+    "zh": "Big whoosh",
+    "vi": null
+  },
+  "entity.weapon.whoosh_sharp": {
+    "en": "Swinging blade",
+    "zh": "Swinging blade",
+    "vi": null
+  },
+  "entity.weapon.whoosh_rod": {
+    "en": "Whoosh",
+    "zh": "Whoosh",
+    "vi": null
+  },
+  "entity.weapon.sword_in": {
+    "en": "Sword in",
+    "zh": "Sword in",
+    "vi": null
+  },
+  "entity.hit.blunt": {
+    "en": "Smash",
+    "zh": "Smash",
+    "vi": null
+  },
+  "entity.hit.blunt_hard": {
+    "en": "Smash hard",
+    "zh": "Smash hard",
+    "vi": null
+  },
+  "entity.hit.blade": {
+    "en": "Slash",
+    "zh": "Slash",
+    "vi": null
+  },
+  "entity.hit.clash": {
+    "en": "Metal clashing",
+    "zh": "Metal clashing",
+    "vi": null
+  },
+  "entity.hit.blade_rush_last": {
+    "en": "Piercing flesh",
+    "zh": "Piercing flesh",
+    "vi": null
+  },
+  "entity.hit.eviscerate": {
+    "en": "Penetrate organs",
+    "zh": "Penetrate organs",
+    "vi": null
+  },
+  "entity.enderdragon.dragon_breath": {
+    "en": "Dragon breathing",
+    "zh": "Dragon breathing",
+    "vi": null
+  },
+  "entity.enderdragon.dragon_breath_finale": {
+    "en": "Dragon breathing",
+    "zh": "Dragon breathing",
+    "vi": null
+  },
+  "entity.enderdragon.dragon_crystal_link": {
+    "en": "Force transferring",
+    "zh": "Force transferring",
+    "vi": null
+  },
+  "sfx.nether_star_glitter": {
+    "en": "Nether start glowing",
+    "zh": "Nether start glowing",
+    "vi": null
+  },
+  "sfx.ground_slam_small": {
+    "en": "Slam",
+    "zh": "Slam",
+    "vi": null
+  },
+  "sfx.ground_slam": {
+    "en": "Slam",
+    "zh": "Slam",
+    "vi": null
+  },
+  "sfx.entity_move": {
+    "en": "Whoosh",
+    "zh": "Whoosh",
+    "vi": null
+  },
+  "sfx.big_entity_move": {
+    "en": "Big whoosh",
+    "zh": "Big whoosh",
+    "vi": null
+  },
+  "sfx.no_sound": {
+    "en": "",
+    "zh": "",
+    "vi": null
+  },
+  "sfx.buzz": {
+    "en": "Warning sound",
+    "zh": "Warning sound",
+    "vi": null
+  },
+  "sfx.laser_blast": {
+    "en": "Beam firing",
+    "zh": "Beam firing",
+    "vi": null
+  },
+  "sfx.neutralize_mobs": {
+    "en": "Entity suppressed",
+    "zh": "Entity suppressed",
+    "vi": null
+  },
+  "sfx.neutralize_bosses": {
+    "en": "Boss suppressed",
+    "zh": "Boss suppressed",
+    "vi": null
+  },
+  "skill.rocket_jump": {
+    "en": "Slam",
+    "zh": "Slam",
+    "vi": null
+  },
+  "skill.roll": {
+    "en": "Rolling",
+    "zh": "Rolling",
+    "vi": null
+  },
+  "skill.tumble": {
+    "en": "Tumbling",
+    "zh": null,
+    "vi": null
+  },
+  "skill.forbidden_strength": {
+    "en": "Forbidden magic casting",
+    "zh": "Forbidden magic casting",
+    "vi": null
+  },
+  "gameMode.epicfight.vanilla": {
+    "en": "Vanilla",
+    "zh": null,
+    "vi": null
+  },
+  "gameMode.epicfight.epicfight": {
+    "en": "EpicFight",
+    "zh": null,
+    "vi": null
+  },
+  "gui.epicfight.item_preferences.tooltip": {
+    "en": "Categorizes weapons and tools",
+    "zh": null,
+    "vi": null
+  },
+  "item.epicfight.glove": {
+    "en": "Glove",
+    "zh": "手套",
+    "vi": null
+  },
+  "key.epicfight.camera": {
+    "en": "Epic Fight Camera",
+    "zh": null,
+    "vi": null
+  },
+  "key.epicfight.system": {
+    "en": "Epic Fight System",
+    "zh": null,
+    "vi": null
+  },
+  "key.epicfight.attack": {
+    "en": "Attack",
+    "zh": "攻击",
+    "vi": null
+  },
+  "key.epicfight.switch_vanilla_model_debug": {
+    "en": "Switch Vanilla Model Debugging",
+    "zh": null,
+    "vi": null
+  },
+  "skill_tree.epicfight.battleborn": {
+    "en": "Battleborn",
+    "zh": null,
+    "vi": null
+  },
+  "painting.epicfight.epicfight_logo.title": {
+    "en": "The martial Herobrine",
+    "zh": "The martial Herobrine",
+    "vi": null
+  },
+  "painting.epicfight.epicfight_logo.author": {
+    "en": "Gui Brabo",
+    "zh": "Gui Brabo",
+    "vi": null
+  },
+  "pack.epicfight_legacy.title": {
+    "en": "Epic Fight Legacy",
+    "zh": "Epic Fight Legacy",
+    "vi": null
+  },
+  "tag.damage_type.epicfight.is_melee": {
+    "en": "Melee",
+    "zh": null,
+    "vi": null
+  },
+  "tag.damage_type.minecraft.is_projectile": {
+    "en": "Projectile",
+    "zh": null,
+    "vi": null
+  },
+  "tag.damage_type.minecraft.is_fire": {
+    "en": "Fire",
+    "zh": null,
+    "vi": null
+  },
+  "tag.damage_type.epicfight.is_magic": {
+    "en": "Magic",
+    "zh": null,
+    "vi": null
+  },
+  "tag.damage_type.minecraft.is_explosion": {
+    "en": "Explosion",
+    "zh": null,
+    "vi": null
+  },
+  "epicfight.tip.weight": {
+    "en": "Weight shortens stun, raises skill stamina use, and slows attack speed, especially on fast items.",
+    "zh": "Weight shortens stun, raises skill stamina use, and slows attack speed, especially on fast items.",
+    "vi": null
+  },
+  "epicfight.tip.stun_armor": {
+    "en": "Stun Armor extends the time between stuns, boosting overall resilience and defense.",
+    "zh": "Stun Armor extends the time between stuns, boosting overall resilience and defense.",
+    "vi": null
+  },
+  "epicfight.tip.knockback": {
+    "en": "The Knockback enchantment functions to amplify the stun duration upon impact.",
+    "zh": "The Knockback enchantment functions to amplify the stun duration upon impact.",
+    "vi": null
+  },
+  "epicfight.tip.two_hand_weapon": {
+    "en": "Two-handed weapons can't be used in the offhand, limiting them to single-handed or dual-wielded options.",
+    "zh": "Two-handed weapons can't be used in the offhand, limiting them to single-handed or dual-wielded options.",
+    "vi": null
+  },
+  "epicfight.tip.skill_books": {
+    "en": "Skills are found in dungeon books or sporadically drop from hostile mobs, categorized into Dodge, Guard, Mobility, Revelation, and Passive.",
+    "zh": "Skills are found in dungeon books or sporadically drop from hostile mobs, categorized into Dodge, Guard, Mobility, Revelation, and Passive.",
+    "vi": null
+  },
+  "epicfight.tip.sweeping_edge": {
+    "en": "Sweeping Edge enchantment increases weapon innate skill damage in proportion to its level:: level 1 by 50%, level 2 by 67%, and level 3 by 75%.",
+    "zh": "Sweeping Edge enchantment increases weapon innate skill damage in proportion to its level:: level 1 by 50%, level 2 by 67%, and level 3 by 75%.",
+    "vi": null
+  },
+  "epicfight.tip.sharpness": {
+    "en": "The Sharpness enchantment augments the damage inflicted by every type of attack.",
+    "zh": "The Sharpness enchantment augments the damage inflicted by every type of attack.",
+    "vi": null
+  },
+  "epicfight.tip.impact": {
+    "en": "Impact increases the total stun time for the target hit.",
+    "zh": "Impact increases the total stun time for the target hit.",
+    "vi": null
+  },
+  "epicfight.tip.blocking": {
+    "en": "While blocking a hit, you get stunned for a short time.",
+    "zh": "While blocking a hit, you get stunned for a short time.",
+    "vi": null
+  },
+  "epicfight.tip.parrying": {
+    "en": "To learn the Parrying skill, you must first acquire the Guard skill.",
+    "zh": "To learn the Parrying skill, you must first acquire the Guard skill.",
+    "vi": null
+  },
+  "epicfight.tip.death_harvest": {
+    "en": "Death Harvest allows you to refill weapon charge on weapon innate skill, based on weapon damage and enemies defeated",
+    "zh": "Death Harvest allows you to refill weapon charge on weapon innate skill, based on weapon damage and enemies defeated",
+    "vi": null
+  },
+  "epicfight.tip.demolition_leap": {
+    "en": "To acquire Demolition Leap, you must defeat the Ender Dragon.",
+    "zh": "To acquire Demolition Leap, you must defeat the Ender Dragon.",
+    "vi": null
+  },
+  "epicfight.tip.temples": {
+    "en": "Uchigatanas, akin to skill books, can be discovered in Desert Temples or Jungle Temples. These rare weapons are not craftable.",
+    "zh": "Uchigatanas, akin to skill books, can be discovered in Desert Temples or Jungle Temples. These rare weapons are not craftable.",
+    "vi": null
+  },
+  "epicfight.tip.combat_mode": {
+    "en": "Switch between mining and combat modes by pressing it's default key, 'R'.",
+    "zh": "Switch between mining and combat modes by pressing it's default key, 'R'.",
+    "vi": null
+  },
+  "epicfight.tip.weapon_charge": {
+    "en": "Your weapon will be charged up when you strike entities. You can use weapon innate skill when weapon charge is full",
+    "zh": "Your weapon will be charged up when you strike entities. You can use weapon innate skill when weapon charge is full",
+    "vi": null
+  },
+  "epicfight.tip.weapon_innate": {
+    "en": "Each weapon has its innate skill. You can execute a skill with a weapon innate keybind",
+    "zh": "Each weapon has its innate skill. You can execute a skill with a weapon innate keybind",
+    "vi": null
+  },
+  "datapack_edit.model_player.collider": {
+    "en": "Collider",
+    "zh": "Collider",
+    "vi": null
+  },
+  "datapack_edit.model_player.item": {
+    "en": "Item",
+    "zh": "Item",
+    "vi": null
+  },
+  "datapack_edit.model_player.trail": {
+    "en": "Trail",
+    "zh": "Trail",
+    "vi": null
+  },
+  "datapack_edit.model_player.trail.tooltip": {
+    "en": "Defines a trail effect information of an animation.",
+    "zh": "Defines a trail effect information of an animation.",
+    "vi": null
+  },
+  "datapack_edit.import_animation": {
+    "en": "Import Animation",
+    "zh": "Import Animation",
+    "vi": null
+  },
+  "datapack_edit.import_animation.place_tooltip": {
+    "en": "Drag & drop the animation files you want to import here.",
+    "zh": "Drag & drop the animation files you want to import here.",
+    "vi": null
+  },
+  "datapack_edit.import_animation.type": {
+    "en": "Type",
+    "zh": "Type",
+    "vi": null
+  },
+  "datapack_edit.import_animation.type.tooltip": {
+    "en": "Defines a type of an animation",
+    "zh": "Defines a type of an animation",
+    "vi": null
+  },
+  "datapack_edit.import_animation.convert_time": {
+    "en": "Transition",
+    "zh": "Transition",
+    "vi": null
+  },
+  "datapack_edit.import_animation.convert_time.tooltip": {
+    "en": "Defines a transition time of an animation.",
+    "zh": "Defines a transition time of an animation.",
+    "vi": null
+  },
+  "datapack_edit.import_animation.phases": {
+    "en": "Phases",
+    "zh": "Phases",
+    "vi": null
+  },
+  "datapack_edit.import_animation.phases.tooltip": {
+    "en": "Defines attack phases of an animation",
+    "zh": "Defines attack phases of an animation",
+    "vi": null
+  },
+  "datapack_edit.import_animation.repeat": {
+    "en": "Repeat",
+    "zh": "Repeat",
+    "vi": null
+  },
+  "datapack_edit.import_animation.repeat.tooltip": {
+    "en": "Defines if an animation should be played repeatedly",
+    "zh": "Defines if an animation should be played repeatedly",
+    "vi": null
+  },
+  "datapack_edit.import_animation.antic": {
+    "en": "Anticipation",
+    "zh": "Anticipation",
+    "vi": null
+  },
+  "datapack_edit.import_animation.antic.tooltip": {
+    "en": "Defines anticipation time.\n\n0 ~ anticipation: an entity can rotate but can't move",
+    "zh": "Defines anticipation time.\n\n0 ~ anticipation: an entity can rotate but can't move",
+    "vi": null
+  },
+  "datapack_edit.import_animation.pre_delay": {
+    "en": "Pre-Delay",
+    "zh": "Pre-Delay",
+    "vi": null
+  },
+  "datapack_edit.import_animation.pre_delay.tooltip": {
+    "en": "Defines pre-delay time.\n\nanticipation ~ pre-delay: an entity can't rotate and can't move",
+    "zh": "Defines pre-delay time.\n\nanticipation ~ pre-delay: an entity can't rotate and can't move",
+    "vi": null
+  },
+  "datapack_edit.import_animation.contact": {
+    "en": "Contact",
+    "zh": "Contact",
+    "vi": null
+  },
+  "datapack_edit.import_animation.contact.tooltip": {
+    "en": "Defines contact time.\n\npre-delay ~ contact: an entity can't rotate and can't move. Hurts all colliding entities",
+    "zh": "Defines contact time.\n\npre-delay ~ contact: an entity can't rotate and can't move. Hurts all colliding entities",
+    "vi": null
+  },
+  "datapack_edit.import_animation.recovery": {
+    "en": "Recovery",
+    "zh": "Recovery",
+    "vi": null
+  },
+  "datapack_edit.import_animation.recovery.tooltip": {
+    "en": "Defines recovery time.\n\ncontact ~ recovery: an entity can't rotate and can't move\n\nrecovery ~ EoA: an entity can move canceling this animation",
+    "zh": "Defines recovery time.\n\ncontact ~ recovery: an entity can't rotate and can't move\n\nrecovery ~ EoA: an entity can move canceling this animation",
+    "vi": null
+  },
+  "datapack_edit.import_animation.hand": {
+    "en": "Hand",
+    "zh": "Hand",
+    "vi": null
+  },
+  "datapack_edit.import_animation.hand.tooltip": {
+    "en": "Defines a hand to get an item in a current phase",
+    "zh": "Defines a hand to get an item in a current phase",
+    "vi": null
+  },
+  "datapack_edit.import_animation.collider": {
+    "en": "Collider",
+    "zh": "Collider",
+    "vi": null
+  },
+  "datapack_edit.import_animation.collider.tooltip": {
+    "en": "Defines a collider of an animation. If you define no collider here, it will get collider from item capability.\n(optional)",
+    "zh": "Defines a collider of an animation. If you define no collider here, it will get collider from item capability.\n(optional)",
+    "vi": null
+  },
+  "datapack_edit.import_animation.joint": {
+    "en": "Collider Joint",
+    "zh": "Collider Joint",
+    "vi": null
+  },
+  "datapack_edit.import_animation.joint.tooltip": {
+    "en": "Defines a parent joint of collider",
+    "zh": "Defines a parent joint of collider",
+    "vi": null
+  },
+  "datapack_edit.import_animation.preview": {
+    "en": "Preview",
+    "zh": "Preview",
+    "vi": null
+  },
+  "datapack_edit.import_animation.client_data": {
+    "en": "Advanced",
+    "zh": "Advanced",
+    "vi": null
+  },
+  "datapack_edit.import_animation.client_data.tooltip": {
+    "en": "Defines advanced settings used in client (optional)",
+    "zh": "Defines advanced settings used in client (optional)",
+    "vi": null
+  },
+  "datapack_edit.import_animation.client_data.layer_type": {
+    "en": "Layer Type",
+    "zh": "Layer Type",
+    "vi": null
+  },
+  "datapack_edit.import_animation.client_data.layer_type.tooltip": {
+    "en": "Defines a layer type\n\nBase: Consists a base pose and always visible.\n\nComposite: Visibilities are affected by the priority and join mask.\n\nMultilayer: Split an animation into base and composite layers which are played at the same time.",
+    "zh": "Defines a layer type\n\nBase: Consists a base pose and always visible.\n\nComposite: Visibilities are affected by the priority and join mask.\n\nMultilayer: Split an animation into base and composite layers which are played at the same time.",
+    "vi": null
+  },
+  "datapack_edit.import_animation.client_data.priority": {
+    "en": "Layer Priority",
+    "zh": "Layer Priority",
+    "vi": null
+  },
+  "datapack_edit.import_animation.client_data.priority.tooltip": {
+    "en": "Defines a priority of an animation.\nComposite layers with lower priority than a base layer priority will be ignored.",
+    "zh": "Defines a priority of an animation.\nComposite layers with lower priority than a base layer priority will be ignored.",
+    "vi": null
+  },
+  "datapack_edit.import_animation.client_data.mask": {
+    "en": "Joint Masks",
+    "zh": "Joint Masks",
+    "vi": null
+  },
+  "datapack_edit.import_animation.client_data.mask.tooltip": {
+    "en": "Defines a joint mask set that decides visibilities for each joint",
+    "zh": "Defines a joint mask set that decides visibilities for each joint",
+    "vi": null
+  },
+  "datapack_edit.import_animation.client_data.base_layer": {
+    "en": "Base Layer",
+    "zh": "Base Layer",
+    "vi": null
+  },
+  "datapack_edit.import_animation.client_data.composite_layer": {
+    "en": "Composite Layer",
+    "zh": "Composite Layer",
+    "vi": null
+  },
+  "datapack_edit.import_animation.client_data.start_time": {
+    "en": "Start Time",
+    "zh": "Start Time",
+    "vi": null
+  },
+  "datapack_edit.import_animation.client_data.start_time.tooltip": {
+    "en": "Defines an starting time of a trail effect in an animation time",
+    "zh": "Defines an starting time of a trail effect in an animation time",
+    "vi": null
+  },
+  "datapack_edit.import_animation.client_data.end_time": {
+    "en": "End Time",
+    "zh": "End Time",
+    "vi": null
+  },
+  "datapack_edit.import_animation.client_data.end_time.tooltip": {
+    "en": "Defines an end time of a trail effect in an animation time",
+    "zh": "Defines an end time of a trail effect in an animation time",
+    "vi": null
+  },
+  "datapack_edit.import_animation.client_data.joint": {
+    "en": "Joint",
+    "zh": "Joint",
+    "vi": null
+  },
+  "datapack_edit.import_animation.client_data.joint.tooltip": {
+    "en": "Defines a parent joint of a trail effect",
+    "zh": "Defines a parent joint of a trail effect",
+    "vi": null
+  },
+  "datapack_edit.import_model": {
+    "en": "Import Model",
+    "zh": "Import Model",
+    "vi": null
+  },
+  "datapack_edit.import_model.meshes": {
+    "en": "Meshes",
+    "zh": "Meshes",
+    "vi": null
+  },
+  "datapack_edit.import_model.armatures": {
+    "en": "Armatures",
+    "zh": "Armatures",
+    "vi": null
+  },
+  "datapack_edit.export_with_exceptions": {
+    "en": "Export Anyway!",
+    "zh": null,
+    "vi": null
+  },
+  "datapack_edit.collider": {
+    "en": "Collider",
+    "zh": "Collider",
+    "vi": null
+  },
+  "datapack_edit.collider.tooltip": {
+    "en": "Defines a collider of a weapon. Get from the collider registry or define a custom one\n(mandatory)",
+    "zh": "Defines a collider of a weapon. Get from the collider registry or define a custom one\n(mandatory)",
+    "vi": null
+  },
+  "datapack_edit.item_capability.collider.tooltip": {
+    "en": "Defines a collider of a weapon. Will apply a collider from a weapon type if this is empty\n(optional)",
+    "zh": "Defines a collider of a weapon. Will apply a collider from a weapon type if this is empty\n(optional)",
+    "vi": null
+  },
+  "datapack_edit.collider.count": {
+    "en": "Count",
+    "zh": "Count",
+    "vi": null
+  },
+  "datapack_edit.collider.count.tooltip": {
+    "en": "A number of colliders interpolated between a previous and current pose\n(mandatory)",
+    "zh": "A number of colliders interpolated between a previous and current pose\n(mandatory)",
+    "vi": null
+  },
+  "datapack_edit.collider.center": {
+    "en": "Center",
+    "zh": "Center",
+    "vi": null
+  },
+  "datapack_edit.collider.center.tooltip": {
+    "en": "Center location of a collider\n(mandatory)",
+    "zh": "Center location of a collider\n(mandatory)",
+    "vi": null
+  },
+  "datapack_edit.collider.size": {
+    "en": "Size",
+    "zh": "Size",
+    "vi": null
+  },
+  "datapack_edit.collider.size.tooltip": {
+    "en": "Size of a collider (Only positive values are allowed)\n(mandatory)",
+    "zh": "Size of a collider (Only positive values are allowed)\n(mandatory)",
+    "vi": null
+  },
+  "datapack_edit.style": {
+    "en": "Style",
+    "zh": "Style",
+    "vi": null
+  },
+  "datapack_edit.styles": {
+    "en": "Styles",
+    "zh": "Styles",
+    "vi": null
+  },
+  "datapack_edit.styles.tooltip.mandatory": {
+    "en": "Styles of a weapon\n(mandatory)",
+    "zh": "Styles of a weapon\n(mandatory)",
+    "vi": null
+  },
+  "datapack_edit.styles.tooltip.optional": {
+    "en": "Styles of a weapon\n(optional)",
+    "zh": "Styles of a weapon\n(optional)",
+    "vi": null
+  },
+  "datapack_edit.weapon_type.category": {
+    "en": "Category",
+    "zh": "Category",
+    "vi": null
+  },
+  "datapack_edit.weapon_type.category.tooltip": {
+    "en": "Defines a weapon category\n(mandatory)",
+    "zh": "Defines a weapon category\n(mandatory)",
+    "vi": null
+  },
+  "datapack_edit.weapon_type.hit_particle": {
+    "en": "Hit Particle",
+    "zh": "Hit Particle",
+    "vi": null
+  },
+  "datapack_edit.weapon_type.hit_particle.tooltip": {
+    "en": "Defines a particle effect when an entity is hit by a weapon\n(optional)",
+    "zh": "Defines a particle effect when an entity is hit by a weapon\n(optional)",
+    "vi": null
+  },
+  "datapack_edit.weapon_type.hit_sound": {
+    "en": "Hit Sound",
+    "zh": "Hit Sound",
+    "vi": null
+  },
+  "datapack_edit.weapon_type.hit_sound.tooltip": {
+    "en": "Defines a sound when entity's hit by a weapon\n(optional)",
+    "zh": "Defines a sound when entity's hit by a weapon\n(optional)",
+    "vi": null
+  },
+  "datapack_edit.weapon_type.swing_sound": {
+    "en": "Swing Sound",
+    "zh": "Swing Sound",
+    "vi": null
+  },
+  "datapack_edit.weapon_type.swing_sound.tooltip": {
+    "en": "Defines a sound when wielding a weapon\n(optional)",
+    "zh": "Defines a sound when wielding a weapon\n(optional)",
+    "vi": null
+  },
+  "datapack_edit.weapon_type.styles": {
+    "en": "Styles",
+    "zh": "Styles",
+    "vi": null
+  },
+  "datapack_edit.weapon_type.styles.tooltip": {
+    "en": "Weapon styles based on a player's state, Used by combo and living animations\n(mandatory)",
+    "zh": "Weapon styles based on a player's state, Used by combo and living animations\n(mandatory)",
+    "vi": null
+  },
+  "datapack_edit.weapon_type.offhand_usability": {
+    "en": "Offhand Usability",
+    "zh": null,
+    "vi": null
+  },
+  "datapack_edit.weapon_type.offhand_usability.tooltip": {
+    "en": "Defines if the item with this weapon type can be held by offhand",
+    "zh": null,
+    "vi": null
+  },
+  "datapack_edit.weapon_type.offhand_visibility": {
+    "en": "Offhand Visibility",
+    "zh": null,
+    "vi": null
+  },
+  "datapack_edit.weapon_type.offhand_visibility.tooltip": {
+    "en": "Defines the visibility of offhand items when holding a weapon with a style that disallows offhand",
+    "zh": null,
+    "vi": null
+  },
+  "datapack_edit.weapon_type.combos": {
+    "en": "Combos",
+    "zh": "Combos",
+    "vi": null
+  },
+  "datapack_edit.weapon_type.combos.tooltip": {
+    "en": "Defines Basic attack animations",
+    "zh": "Defines Basic attack animations",
+    "vi": null
+  },
+  "datapack_edit.weapon_type.innate_skill": {
+    "en": "Innate Skill",
+    "zh": "Innate Skill",
+    "vi": null
+  },
+  "datapack_edit.weapon_type.innate_skill.tooltip": {
+    "en": "Defines innate skills of a weapon",
+    "zh": "Defines innate skills of a weapon",
+    "vi": null
+  },
+  "datapack_edit.weapon_type.living_animations": {
+    "en": "Living Animations",
+    "zh": "Living Animations",
+    "vi": null
+  },
+  "datapack_edit.weapon_type.living_animations.tooltip": {
+    "en": "Defines living animations overrided by a weapon",
+    "zh": "Defines living animations overrided by a weapon",
+    "vi": null
+  },
+  "datapack_edit.weapon_type.living_animations.modifiers": {
+    "en": "Modifiers",
+    "zh": "Modifiers",
+    "vi": null
+  },
+  "datapack_edit.weapon_type.living_animations.modifiers.tooltip": {
+    "en": "Defines overrided animations when holding a weapon",
+    "zh": "Defines overrided animations when holding a weapon",
+    "vi": null
+  },
+  "datapack_edit.weapon_type.styles.default": {
+    "en": "Default",
+    "zh": "Default",
+    "vi": null
+  },
+  "datapack_edit.weapon_type.styles.default.tooltip": {
+    "en": "A default style (mandatory)",
+    "zh": "A default style (mandatory)",
+    "vi": null
+  },
+  "datapack_edit.weapon_type.styles.condition": {
+    "en": "Condition",
+    "zh": "Condition",
+    "vi": null
+  },
+  "datapack_edit.weapon_type.styles.condition.tooltip": {
+    "en": "Defines conditions that determine when a player have this style",
+    "zh": "Defines conditions that determine when a player have this style",
+    "vi": null
+  },
+  "datapack_edit.weapon_type.styles.parameters": {
+    "en": "Parameters",
+    "zh": "Parameters",
+    "vi": null
+  },
+  "datapack_edit.weapon_type.styles.parameters.tooltip": {
+    "en": "Defines parameters of a condition",
+    "zh": "Defines parameters of a condition",
+    "vi": null
+  },
+  "datapack_edit.weapon_type.combos.combo_attacks": {
+    "en": "Combo Attacks",
+    "zh": "Combo Attacks",
+    "vi": null
+  },
+  "datapack_edit.weapon_type.combos.combo_attacks.tooltip": {
+    "en": "Defines combo attacks of a weapon\n(mandatory)",
+    "zh": "Defines combo attacks of a weapon\n(mandatory)",
+    "vi": null
+  },
+  "datapack_edit.weapon_type.combos.dash_attak": {
+    "en": "Dash Attack",
+    "zh": "Dash Attack",
+    "vi": null
+  },
+  "datapack_edit.weapon_type.combos.dash_attak.tooltip": {
+    "en": "Defines a dash attack of a weapon\n(mandatory)",
+    "zh": "Defines a dash attack of a weapon\n(mandatory)",
+    "vi": null
+  },
+  "datapack_edit.weapon_type.combos.air_slash": {
+    "en": "Air Slash",
+    "zh": "Air Slash",
+    "vi": null
+  },
+  "datapack_edit.weapon_type.combos.air_slash.tooltip": {
+    "en": "Defines a jump attack of a weapon\n(mandatory)",
+    "zh": "Defines a jump attack of a weapon\n(mandatory)",
+    "vi": null
+  },
+  "datapack_edit.item_capability.item_type": {
+    "en": "Item Type",
+    "zh": "Item Type",
+    "vi": null
+  },
+  "datapack_edit.item_capability.item_type.tooltip": {
+    "en": "Defines if an item is armor or weapon\n(mandatory)",
+    "zh": "Defines if an item is armor or weapon\n(mandatory)",
+    "vi": null
+  },
+  "datapack_edit.item_capability.attributes": {
+    "en": "Attributes",
+    "zh": "Attributes",
+    "vi": null
+  },
+  "datapack_edit.item_capability.attributes.tooltip": {
+    "en": "Defines attributes of an item",
+    "zh": "Defines attributes of an item",
+    "vi": null
+  },
+  "datapack_edit.item_capability.type": {
+    "en": "Weapon Type",
+    "zh": "Weapon Type",
+    "vi": null
+  },
+  "datapack_edit.item_capability.type.tooltip": {
+    "en": "Defines a weapon type of an item\n(mandatory)",
+    "zh": "Defines a weapon type of an item\n(mandatory)",
+    "vi": null
+  },
+  "datapack_edit.item_capability.trail": {
+    "en": "Trail Effect",
+    "zh": "Trail Effect",
+    "vi": null
+  },
+  "datapack_edit.item_capability.trail.tooltip": {
+    "en": "Defines a trail effect information of an item\n(optional)",
+    "zh": "Defines a trail effect information of an item\n(optional)",
+    "vi": null
+  },
+  "datapack_edit.item_capability.color": {
+    "en": "Color",
+    "zh": "Color",
+    "vi": null
+  },
+  "datapack_edit.item_capability.color.tooltip": {
+    "en": "Defines color of a trail effect\n(mandatory)",
+    "zh": "Defines color of a trail effect\n(mandatory)",
+    "vi": null
+  },
+  "datapack_edit.item_capability.begin_pos": {
+    "en": "Start Position",
+    "zh": "Start Position",
+    "vi": null
+  },
+  "datapack_edit.item_capability.begin_pos.tooltip": {
+    "en": "Defines a start point of a trail effect\n(mandatory)",
+    "zh": "Defines a start point of a trail effect\n(mandatory)",
+    "vi": null
+  },
+  "datapack_edit.item_capability.end_pos": {
+    "en": "End Position",
+    "zh": "End Position",
+    "vi": null
+  },
+  "datapack_edit.item_capability.end_pos.tooltip": {
+    "en": "Defines an edge of a trail effect\n(mandatory)",
+    "zh": "Defines an edge of a trail effect\n(mandatory)",
+    "vi": null
+  },
+  "datapack_edit.item_capability.lifetime": {
+    "en": "Lifetime",
+    "zh": "Lifetime",
+    "vi": null
+  },
+  "datapack_edit.item_capability.lifetime.tooltip": {
+    "en": "Defines a lifetime of a trail effect. Applied to each parts\n(mandatory)",
+    "zh": "Defines a lifetime of a trail effect. Applied to each parts\n(mandatory)",
+    "vi": null
+  },
+  "datapack_edit.item_capability.interpolations": {
+    "en": "Interpolations",
+    "zh": "Interpolations",
+    "vi": null
+  },
+  "datapack_edit.item_capability.interpolations.tooltip": {
+    "en": "Defines a number of interpolate points created in each ticks\n(mandatory)",
+    "zh": "Defines a number of interpolate points created in each ticks\n(mandatory)",
+    "vi": null
+  },
+  "datapack_edit.item_capability.texture_path": {
+    "en": "Texture Path",
+    "zh": "Texture Path",
+    "vi": null
+  },
+  "datapack_edit.item_capability.texture_path.tooltip": {
+    "en": "Defines a texture of a trail effect\n(mandatory)",
+    "zh": "Defines a texture of a trail effect\n(mandatory)",
+    "vi": null
+  },
+  "datapack_edit.item_capability.particle_type": {
+    "en": "Particle Type",
+    "zh": "Particle Type",
+    "vi": null
+  },
+  "datapack_edit.item_capability.particle_type.tooltip": {
+    "en": "Defines a particle type of a trail effect\n(mandatory)",
+    "zh": "Defines a particle type of a trail effect\n(mandatory)",
+    "vi": null
+  },
+  "datapack_edit.mob_patch.disabled": {
+    "en": "Disabled",
+    "zh": "Disabled",
+    "vi": null
+  },
+  "datapack_edit.mob_patch.disabled.tooltip": {
+    "en": "Disables epic fight style combat\n(optional)",
+    "zh": "Disables epic fight style combat\n(optional)",
+    "vi": null
+  },
+  "datapack_edit.mob_patch.preset": {
+    "en": "Preset",
+    "zh": "Preset",
+    "vi": null
+  },
+  "datapack_edit.mob_patch.preset.tooltip": {
+    "en": "Use a built-in preset\n(optional)",
+    "zh": "Use a built-in preset\n(optional)",
+    "vi": null
+  },
+  "datapack_edit.mob_patch.model": {
+    "en": "Model",
+    "zh": "Model",
+    "vi": null
+  },
+  "datapack_edit.mob_patch.model.tooltip": {
+    "en": "Model of an entity\n(mandatory)",
+    "zh": "Model of an entity\n(mandatory)",
+    "vi": null
+  },
+  "datapack_edit.mob_patch.armature": {
+    "en": "Armature",
+    "zh": "Armature",
+    "vi": null
+  },
+  "datapack_edit.mob_patch.armature.tooltip": {
+    "en": "Armature of an entity\n(mandatory)",
+    "zh": "Armature of an entity\n(mandatory)",
+    "vi": null
+  },
+  "datapack_edit.mob_patch.renderer": {
+    "en": "Renderer",
+    "zh": "Renderer",
+    "vi": null
+  },
+  "datapack_edit.mob_patch.renderer.tooltip": {
+    "en": "Renderer of an entity\n(mandatory)",
+    "zh": "Renderer of an entity\n(mandatory)",
+    "vi": null
+  },
+  "datapack_edit.mob_patch.humanoid": {
+    "en": "Humanoid",
+    "zh": "Humanoid",
+    "vi": null
+  },
+  "datapack_edit.mob_patch.humanoid.tooltip": {
+    "en": "Defines if an entity is human based or not\n(mandatory)",
+    "zh": "Defines if an entity is human based or not\n(mandatory)",
+    "vi": null
+  },
+  "datapack_edit.mob_patch.faction": {
+    "en": "Faction",
+    "zh": "Faction",
+    "vi": null
+  },
+  "datapack_edit.mob_patch.faction.tooltip": {
+    "en": "Defines a faction of an entity. Mobs that have the same factions don't hurt each other\n(mandatory)",
+    "zh": "Defines a faction of an entity. Mobs that have the same factions don't hurt each other\n(mandatory)",
+    "vi": null
+  },
+  "datapack_edit.mob_patch.swing_sound": {
+    "en": "Swing Sound",
+    "zh": "Swing Sound",
+    "vi": null
+  },
+  "datapack_edit.mob_patch.swing_sound.tooltip": {
+    "en": "Defines a swing sound when an entity holds nothing in hands\n(optional)",
+    "zh": "Defines a swing sound when an entity holds nothing in hands\n(optional)",
+    "vi": null
+  },
+  "datapack_edit.mob_patch.hit_sound": {
+    "en": "Hit Sound",
+    "zh": "Hit Sound",
+    "vi": null
+  },
+  "datapack_edit.mob_patch.hit_sound.tooltip": {
+    "en": "Defines a hit sound when an entity holds nothing in hands\n(optional)",
+    "zh": "Defines a hit sound when an entity holds nothing in hands\n(optional)",
+    "vi": null
+  },
+  "datapack_edit.mob_patch.hit_particle": {
+    "en": "Hit Particle",
+    "zh": "Hit Particle",
+    "vi": null
+  },
+  "datapack_edit.mob_patch.hit_particle.tooltip": {
+    "en": "Defines a hit particle when an entity holds nothing in hands\n(optional)",
+    "zh": "Defines a hit particle when an entity holds nothing in hands\n(optional)",
+    "vi": null
+  },
+  "datapack_edit.mob_patch.attributes": {
+    "en": "Attributes",
+    "zh": "Attributes",
+    "vi": null
+  },
+  "datapack_edit.mob_patch.attributes.tooltip": {
+    "en": "Defines attributes of an entity\n(mandatory)",
+    "zh": "Defines attributes of an entity\n(mandatory)",
+    "vi": null
+  },
+  "datapack_edit.mob_patch.default_livingmotions": {
+    "en": "Living Animations",
+    "zh": "Living Animations",
+    "vi": null
+  },
+  "datapack_edit.mob_patch.default_livingmotions.tooltip": {
+    "en": "Defines living animations of an entity\n(mandatory)",
+    "zh": "Defines living animations of an entity\n(mandatory)",
+    "vi": null
+  },
+  "datapack_edit.mob_patch.humanoid_weapon_motions": {
+    "en": "Living Animations by Weapon",
+    "zh": "Living Animations by Weapon",
+    "vi": null
+  },
+  "datapack_edit.mob_patch.humanoid_weapon_motions.tooltip": {
+    "en": "Defines living animations when entity holds a specific weapon\n(mandatory)",
+    "zh": "Defines living animations when entity holds a specific weapon\n(mandatory)",
+    "vi": null
+  },
+  "datapack_edit.mob_patch.stun_animations": {
+    "en": "Stun Animations",
+    "zh": "Stun Animations",
+    "vi": null
+  },
+  "datapack_edit.mob_patch.stun_animations.tooltip": {
+    "en": "Defines stun animations of an entity\n(mandatory)",
+    "zh": "Defines stun animations of an entity\n(mandatory)",
+    "vi": null
+  },
+  "datapack_edit.mob_patch.combat_behavior": {
+    "en": "Combat Behavior",
+    "zh": "Combat Behavior",
+    "vi": null
+  },
+  "datapack_edit.mob_patch.combat_behavior.tooltip": {
+    "en": "Defines attack movesets of an entity\n(mandatory)",
+    "zh": "Defines attack movesets of an entity\n(mandatory)",
+    "vi": null
+  },
+  "datapack_edit.mob_patch.humanoid_combat_behavior": {
+    "en": "Humanoid Combat Behavior",
+    "zh": "Humanoid Combat Behavior",
+    "vi": null
+  },
+  "datapack_edit.mob_patch.humanoid_weapon_motions.weapon_categories": {
+    "en": "Weapon Categories",
+    "zh": "Weapon Categories",
+    "vi": null
+  },
+  "datapack_edit.mob_patch.humanoid_weapon_motions.weapon_categories.tooltip": {
+    "en": "Defines weapon categories that own a living animation set",
+    "zh": "Defines weapon categories that own a living animation set",
+    "vi": null
+  },
+  "datapack_edit.mob_patch.humanoid_weapon_motions.style": {
+    "en": "Style",
+    "zh": "Style",
+    "vi": null
+  },
+  "datapack_edit.mob_patch.humanoid_weapon_motions.style.tooltip": {
+    "en": "Defines a style of weapon categories",
+    "zh": "Defines a style of weapon categories",
+    "vi": null
+  },
+  "datapack_edit.mob_patch.humanoid_weapon_motions.living_animations": {
+    "en": "Living Animations",
+    "zh": "Living Animations",
+    "vi": null
+  },
+  "datapack_edit.mob_patch.humanoid_weapon_motions.living_animations.tooltip": {
+    "en": "Defines living animations based on weapon categories and its style",
+    "zh": "Defines living animations based on weapon categories and its style",
+    "vi": null
+  },
+  "datapack_edit.mob_patch.combat_behavior.weight": {
+    "en": "Weight",
+    "zh": "Weight",
+    "vi": null
+  },
+  "datapack_edit.mob_patch.combat_behavior.weight.tooltip": {
+    "en": "Defines a chance to select this behavior",
+    "zh": "Defines a chance to select this behavior",
+    "vi": null
+  },
+  "datapack_edit.mob_patch.combat_behavior.cooldown": {
+    "en": "Cooldown",
+    "zh": "Cooldown",
+    "vi": null
+  },
+  "datapack_edit.mob_patch.combat_behavior.cooldown.tooltip": {
+    "en": "Defines cooldown ticks of a moveset",
+    "zh": "Defines cooldown ticks of a moveset",
+    "vi": null
+  },
+  "datapack_edit.mob_patch.combat_behavior.interceptable": {
+    "en": "Interceptable",
+    "zh": "Interceptable",
+    "vi": null
+  },
+  "datapack_edit.mob_patch.combat_behavior.interceptable.tooltip": {
+    "en": "Defines if this moveset can be canceled by another moveset",
+    "zh": "Defines if this moveset can be canceled by another moveset",
+    "vi": null
+  },
+  "datapack_edit.mob_patch.combat_behavior.loop": {
+    "en": "Loop",
+    "zh": "Loop",
+    "vi": null
+  },
+  "datapack_edit.mob_patch.combat_behavior.loop.tooltip": {
+    "en": "Defines if a moveset is looping. The combo counter will not be reset if looping is true",
+    "zh": "Defines if a moveset is looping. The combo counter will not be reset if looping is true",
+    "vi": null
+  },
+  "datapack_edit.mob_patch.combat_behavior.conditions": {
+    "en": "Conditions",
+    "zh": "Conditions",
+    "vi": null
+  },
+  "datapack_edit.mob_patch.combat_behavior.conditions.tooltip": {
+    "en": "Defines conditions to execute an attack movement",
+    "zh": "Defines conditions to execute an attack movement",
+    "vi": null
+  },
+  "datapack_edit.mob_patch.combat_behavior.parameters": {
+    "en": "Parameters",
+    "zh": "Parameters",
+    "vi": null
+  },
+  "datapack_edit.mob_patch.combat_behavior.parameters.tooltip": {
+    "en": "Defines parameters of a condition",
+    "zh": "Defines parameters of a condition",
+    "vi": null
+  },
+  "datapack_edit.mob_patch.combat_behavior.animation": {
+    "en": "Animation",
+    "zh": "Animation",
+    "vi": null
+  },
+  "datapack_edit.mob_patch.combat_behavior.animation.tooltip": {
+    "en": "Defines an attack animation",
+    "zh": "Defines an attack animation",
+    "vi": null
+  },
+  "epicfight.messages.test_version_warning_line1": {
+    "en": "Epic Fight is testing version.",
+    "zh": "Epic Fight is testing version.",
+    "vi": null
+  },
+  "epicfight.messages.test_version_warning_line2": {
+    "en": "(%s)",
+    "zh": "(%s)",
+    "vi": null
+  },
+  "epicfight.messages.version_notifier": {
+    "en": "EpicFight-%s",
+    "zh": null,
+    "vi": null
+  },
+  "epicfight.messages.shader_transform_fail": {
+    "en": "Failed to create shader %s. Don't turn on animation shader in your environment...",
+    "zh": "Failed to create shader %s. Automatically switches animation shader mode off.",
+    "vi": null
+  },
+  "epicfight.messages.mode_switching_disabled": {
+    "en": "Switching vanilla/epicfight mode is disabled in this world. Enable the gamerule or ask for a server operator.",
+    "zh": null,
+    "vi": null
+  },
+  "eof": {
+    "en": "eof",
+    "zh": null,
+    "vi": null
+  },
+  "datapack_edit.weapon_type.offhand_validator": {
+    "en": null,
+    "zh": "Offhand Validator",
+    "vi": null
+  },
+  "datapack_edit.weapon_type.offhand_validator.tooltip": {
+    "en": null,
+    "zh": "Defines visibility of offhand items when holding a weapon with a style that offhand is unavailable",
+    "vi": null
+  }
+}

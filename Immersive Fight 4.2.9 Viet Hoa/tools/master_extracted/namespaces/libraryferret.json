@@ -1,0 +1,192 @@
+{
+  "block.libraryferret.fake_emerald_block": {
+    "en": "Fake Emerald Block",
+    "zh": null,
+    "vi": null
+  },
+  "block.libraryferret.unbreakable_emerald_beacon": {
+    "en": "Unbreakable Emerald Beacon",
+    "zh": null,
+    "vi": null
+  },
+  "block.libraryferret.unbreakable_iron_beacon": {
+    "en": "Unbreakable Iron Beacon",
+    "zh": null,
+    "vi": null
+  },
+  "gui.libraryferret.props.key_value": {
+    "en": "Key: %s",
+    "zh": null,
+    "vi": null
+  },
+  "item.libraryferret.diamond_coins_jtl": {
+    "en": "Diamond Coin",
+    "zh": null,
+    "vi": null
+  },
+  "gui.libraryferret.requiresave.message": {
+    "en": "Do you want to save the changes applied to the configuration in the properties file? If you do not, your changes will be lost at the end of the minecraft instance.",
+    "zh": null,
+    "vi": null
+  },
+  "gui.libraryferret.props.title_value": {
+    "en": "Name: %s",
+    "zh": null,
+    "vi": null
+  },
+  "block.libraryferret.unbreakable_netherite_beacon": {
+    "en": "Unbreakable Netherite Beacon",
+    "zh": null,
+    "vi": null
+  },
+  "gui.libraryferret.group.name.creative": {
+    "en": "Creative",
+    "zh": null,
+    "vi": null
+  },
+  "gui.libraryferret.props.name.boolean.creative.enable_item_group_ferret": {
+    "en": "Enable item group",
+    "zh": null,
+    "vi": null
+  },
+  "gui.libraryferret.group.description.creative": {
+    "en": "Creative mode option, disable item group..",
+    "zh": null,
+    "vi": null
+  },
+  "item.libraryferret.iron_coins_jtl": {
+    "en": "Iron Coin",
+    "zh": null,
+    "vi": null
+  },
+  "item.libraryferret.emerald_coins_jtl": {
+    "en": "Emerald Coin",
+    "zh": null,
+    "vi": null
+  },
+  "gui.libraryferret.group.description.g_r_o_u_p": {
+    "en": "Any description about this group",
+    "zh": null,
+    "vi": null
+  },
+  "gui.libraryferret.props.description.k_e_y_-_p_r_o_p_s": {
+    "en": "",
+    "zh": null,
+    "vi": null
+  },
+  "gui.libraryferret.openconfigfile": {
+    "en": "Open file",
+    "zh": null,
+    "vi": null
+  },
+  "itemGroup.libraryferret.libraryferret": {
+    "en": "Library Ferret",
+    "zh": null,
+    "vi": null
+  },
+  "effect.libraryferret.unbreakable_curse": {
+    "en": "A5R1 Curse",
+    "zh": null,
+    "vi": null
+  },
+  "block.libraryferret.fake_gold_block": {
+    "en": "Fake Gold Block",
+    "zh": null,
+    "vi": null
+  },
+  "gui.libraryferret.props.name.k_e_y_-_p_r_o_p_s": {
+    "en": "",
+    "zh": null,
+    "vi": null
+  },
+  "comment._________group________________.useless": {
+    "en": "_____________________________________________",
+    "zh": null,
+    "vi": null
+  },
+  "gui.libraryferret.false": {
+    "en": "false",
+    "zh": null,
+    "vi": null
+  },
+  "gui.libraryferret.props.type_value": {
+    "en": "Type: %s",
+    "zh": null,
+    "vi": null
+  },
+  "block.libraryferret.unbreakable_gold_beacon": {
+    "en": "Unbreakable Gold Beacon",
+    "zh": null,
+    "vi": null
+  },
+  "gui.libraryferret.search": {
+    "en": "Search",
+    "zh": null,
+    "vi": null
+  },
+  "gui.libraryferret.props.default_value": {
+    "en": "Default: %s",
+    "zh": null,
+    "vi": null
+  },
+  "gui.libraryferret.props.description.boolean.creative.enable_item_group_ferret": {
+    "en": "Enable or disable the \"Ferret item\" group in the creative menu. To completely disable items/blocks, use a custom datapack or use the mod KubeJS/Crafttweaker.",
+    "zh": null,
+    "vi": null
+  },
+  "comment._________props________________.useless": {
+    "en": "_____________________________________________",
+    "zh": null,
+    "vi": null
+  },
+  "gui.libraryferret.config_welcome": {
+    "en": "Welcome to the configuration interface.\n\nThe list on the right display the property groups, once a group is selected you can click on the \"option...\" button (you can do the same with a double click on the desired item),  then the list will display you the properties of the selected group, select any property from the list to display it on the left panel.\n\nPress the \"back\" button to return to the main screen which displays the groups.\n\nFor reset all config, open the file with the button \"Open file\" and delete the content then restart Minecraft.",
+    "zh": null,
+    "vi": null
+  },
+  "item.libraryferret.gold_coins_jtl": {
+    "en": "Gold Coin",
+    "zh": null,
+    "vi": null
+  },
+  "gui.libraryferret.requiresave.title": {
+    "en": "Do you want to save the changes applied ?",
+    "zh": null,
+    "vi": null
+  },
+  "block.libraryferret.fake_iron_block": {
+    "en": "Fake Iron Block",
+    "zh": null,
+    "vi": null
+  },
+  "gui.libraryferret.true": {
+    "en": "true",
+    "zh": null,
+    "vi": null
+  },
+  "block.libraryferret.fake_netherite_block": {
+    "en": "Fake Netherite Block",
+    "zh": null,
+    "vi": null
+  },
+  "gui.libraryferret.group.name.g_r_o_u_p": {
+    "en": "Block",
+    "zh": null,
+    "vi": null
+  },
+  "block.libraryferret.fake_diamond_block": {
+    "en": "Fake Diamond Block",
+    "zh": null,
+    "vi": null
+  },
+  "item.libraryferret.netherite_coins_jtl": {
+    "en": "Netherite Coin",
+    "zh": null,
+    "vi": null
+  },
+  "block.libraryferret.unbreakable_diamond_beacon": {
+    "en": "Unbreakable Diamond Beacon",
+    "zh": null,
+    "vi": null
+  }
+}

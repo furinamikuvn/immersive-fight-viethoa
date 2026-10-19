@@ -1,0 +1,13 @@
+{
+  "name": "Nhân viên di tích mục nát",
+  "icon": "simplyswords:decaying_relic",
+  "advancement": "simplyswords:decaying_relic",
+  "category": "simplyswords:category_unique_weapons",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:decaying_relic",
+      "text": "Hãy để bóng tối dẫn bạn đến cội nguồn... Thanh kiếm hai đầu bí ẩn $(br) - Cầm vũ khí này khi đứng trên cảm biến huyền bí."
+    }
+  ]
+}

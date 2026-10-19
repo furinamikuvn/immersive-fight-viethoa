@@ -1,0 +1,665 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "68B3486991A70CB9"
+	group: "18A6655ADC4DF0EF"
+	icon: "supplementaries:stone_lamp"
+	id: "68B3486991A70CB9"
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			can_repeat: true
+			description: [
+				"&e[Hiệu ứng hình ảnh] &r:"
+				"Gây sát thương lên quái vật và tạo ra hiệu ứng máu"
+				""
+				"&e[Bật hiệu ứng bắn tung tóe + mặt đất theo mặc định]&r"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "graveyard:vial_of_blood"
+				tag: {
+					Blood: 0.5f
+					csController: { }
+				}
+			}
+			id: "05CE5DD45816543F"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "0ECD5751C3A81131"
+					table_id: 8302270686954639435L
+					type: "choice"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "7430EEEBC4910429"
+					table_id: 6187332474143341351L
+					type: "choice"
+				}
+			]
+			shape: "gear"
+			tasks: [{
+				id: "4F3D39155471545F"
+				title: "Công tắc hiệu ứng máu"
+				type: "checkmark"
+			}]
+			x: -3.0d
+			y: -3.0d
+		}
+		{
+			can_repeat: true
+			description: [
+				"&e[Hiệu ứng hình ảnh] &r:"
+				"Khi bạn &b cất vũ khí &r của mình,"
+				"Vũ khí cầm trước đó sẽ được hiển thị ở mặt sau"
+				"Phím &b [H] có thể được sử dụng để nhanh chóng bật roulette &r"
+				""
+				"&e[mặc định:bật]&r"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "fantasy_armor:old_knight_chestplate"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "57589EC1CD3E3D15"
+			shape: "gear"
+			tasks: [{
+				id: "6F09B6D431474844"
+				title: "Màn hình vũ khí phía sau"
+				type: "checkmark"
+			}]
+			x: -2.0d
+			y: -3.0d
+		}
+		{
+			can_repeat: true
+			description: [
+				"&e(Phá hủy địa hình) &r"
+				"Vũ khí của Chúa-Cơn ác mộng"
+				"Kỹ năng có khả năng phá địa hình mạnh"
+				""
+				"&c[yêu cầu quyền gian lận]&r"
+				"&e[Phá hủy địa hình được bật theo mặc định]&r"
+			]
+			disable_toast: true
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "celestisynth:keres"
+				tag: {
+					Damage: 0
+					csController: {
+						cs.keresStack: 0
+					}
+				}
+			}
+			id: "388CFB4420362B45"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "21167F95BB135120"
+				table_id: 6162316385588181799L
+				type: "choice"
+			}]
+			shape: "gear"
+			tasks: [{
+				id: "4AFBF10B16A65C36"
+				title: "Cơn ác mộng vũ khí hủy diệt địa hình"
+				type: "checkmark"
+			}]
+			x: -5.0d
+			y: -3.0d
+		}
+		{
+			can_repeat: true
+			description: [
+				"&e[chức năng phụ trợ]&r"
+				"Hành động tấn công chuột trái của cung tên sẽ tự động phát hiện kẻ địch."
+				"Tấn công kẻ thù đã chọn trước, sau đó tấn công kẻ thù gần nhất"
+				"Tùy chọn này tắt tính năng phát hiện kẻ thù tự động"
+				""
+				"&c[yêu cầu quyền gian lận]&r"
+				"&e[Ảnh hưởng đến tất cả người chơi]&r"
+				"&e[Mặc định: Bật phát hiện kẻ thù]&r"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "minecraft:bow"
+				tag: {
+					Damage: 0
+					is_full: 0b
+				}
+			}
+			id: "237E38B7D0A1DB35"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "5F988706A9452E39"
+				table_id: 4614180297811644472L
+				type: "choice"
+			}]
+			shape: "gear"
+			tasks: [{
+				id: "7093B5F25D6435E5"
+				title: "Công tắc tìm kiếm kẻ thù tấn công bằng cung"
+				type: "checkmark"
+			}]
+			x: -2.0d
+			y: -4.0d
+		}
+		{
+			can_repeat: true
+			description: [
+				"&e[chức năng phụ trợ]&r"
+				"Sau khi bật lên, người chơi không cần phải nhảy thủ công."
+				"Có thể tự động leo lên độ dốc cao một khối,"
+				"Các kỹ năng dịch chuyển như lăn đều có hiệu quả."
+				""
+				"&c[yêu cầu quyền gian lận]&r"
+				"&e[Chỉ ảnh hưởng đến bản thân]&r"
+				"&e[Mặc định: tắt tự động leo núi]&r"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "alexscaves:diving_boots"
+				tag: {
+					Damage: 0
+					itemModifier: "modifiers:warding"
+				}
+			}
+			id: "149033A6E9DDC291"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "44AD21F5C9C52B5E"
+				table_id: 2333367946343362233L
+				team_reward: false
+				type: "choice"
+			}]
+			shape: "gear"
+			tasks: [{
+				id: "424E9D7A93233C3E"
+				title: "leo đồi tự động"
+				type: "checkmark"
+			}]
+			x: -3.0d
+			y: -4.0d
+		}
+		{
+			can_repeat: true
+			description: [
+				"Đặt lại điểm kỹ năng của cây tài năng &b[K] &r"
+				"Thực hiện thêm lại điểm &a và phân bổ &r"
+			]
+			entity_vis_size: 1.0f
+			icon: "minecraft:armor_stand"
+			id: "7DB5E9D809595346"
+			rewards: [{
+				command: "/puffish_skills skills reset @s puffish_skills:combat"
+				elevate_perms: true
+				icon: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "minecraft:armor_stand"
+				}
+				id: "4C31C7F57D7516E9"
+				team_reward: false
+				title: "Đặt lại cây tài năng"
+				type: "command"
+			}]
+			shape: "hexagon"
+			tasks: [{
+				consume_items: true
+				count: 64L
+				id: "4BE4CD6C72D91228"
+				item: { Count: 64, id: "minecraft:emerald" }
+				type: "item"
+			}]
+			title: "Đặt lại điểm tài năng"
+			x: -6.0d
+			y: -1.0d
+		}
+		{
+			can_repeat: true
+			description: ["Chọn lại nghề nghiệp"]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "minecraft:iron_helmet"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "0E99376536E62C8A"
+			rewards: [{
+				auto: "disabled"
+				command: "/classenhancement @s"
+				elevate_perms: true
+				icon: {
+					Count: 1
+					id: "minecraft:iron_helmet"
+					tag: {
+						Damage: 0
+					}
+				}
+				id: "4220A5308428F4E8"
+				team_reward: false
+				title: "Chọn nghề nghiệp"
+				type: "command"
+			}]
+			shape: "hexagon"
+			tasks: [{
+				consume_items: true
+				count: 32L
+				id: "0C2B56B9489AAC48"
+				item: {
+					Count: 32
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "minecraft:diamond"
+				}
+				type: "item"
+			}]
+			title: "Chọn lại nghề nghiệp"
+			x: -5.0d
+			y: -1.0d
+		}
+		{
+			can_repeat: true
+			description: [
+				"Khi bạn cảm thấy máu của quái vật &c quá thấp &r thì hãy điều chỉnh &r"
+				""
+				"Sửa đổi lượng máu của tất cả các sinh vật &a&r"
+				"Có hiệu lực khi một sinh vật được sinh ra"
+				"Đừng sửa đổi thường xuyên!"
+				""
+				"&c[yêu cầu quyền gian lận]&r"
+			]
+			entity_vis_size: 1.0f
+			icon: "level_hp:heartcontainers"
+			id: "7C9E20BE027F681C"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "475D0604909EABD8"
+				table_id: 7231323730732906241L
+				type: "choice"
+			}]
+			shape: "gear"
+			tasks: [{
+				id: "06208AAFC1E7FE94"
+				title: "Điều chỉnh lượng máu quái vật"
+				type: "checkmark"
+			}]
+			title: "Lượng máu quái vật toàn cầu"
+			x: -7.0d
+			y: -4.0d
+		}
+		{
+			can_repeat: true
+			description: [
+				""
+				"&a điều chỉnh riêng lượng máu của &rBOSS"
+				"Ưu tiên cao hơn môi trường y tế toàn cầu"
+				"Nó có hiệu lực khi sinh vật được tạo ra. Đừng sửa đổi nó thường xuyên."
+				""
+				"Lưu ý: Lượng máu cơ bản của tất cả BOSS đã được tăng lên."
+				"Về cơ bản một hoặc hai nghìn"
+				"Bạn có thể điều chỉnh độ phóng đại theo sở thích chơi của riêng bạn"
+				"BOSS sẽ hồi phục hoàn toàn sau khi người chơi &c chết &r"
+				""
+				"&c[yêu cầu quyền gian lận]&r"
+			]
+			entity_vis_size: 1.0f
+			icon: "level_hp:heartcontainers"
+			id: "258EEDB70DF43DF9"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "798B240F7B708BB0"
+				table_id: 7231185976636208897L
+				type: "choice"
+			}]
+			shape: "gear"
+			tasks: [{
+				id: "1261022DAADC09E7"
+				title: "Điều chỉnh lượng máu BOSS"
+				type: "checkmark"
+			}]
+			x: -6.0d
+			y: -4.0d
+		}
+		{
+			description: [
+				"&b[Nhiệm vụ phát hiện tự động ẩn]"
+				"&b Khi bạn thấy nhiệm vụ này, điều đó có nghĩa là việc phát hiện &r đã hoàn tất"
+				""
+				"Sát thương tấn công của quái vật bị suy yếu trong 6 ngày đầu tiên của trò chơi"
+				"Sát thương bình thường trở lại bình thường sau 6 ngày"
+			]
+			entity_vis_size: 1.0f
+			icon: "minecraft:zombie_head"
+			id: "0620338E44CE1FD4"
+			invisible: true
+			rewards: [{
+				auto: "enabled"
+				command: "/incontrol clearphase health_1_0_X"
+				elevate_perms: true
+				id: "13B54C8A6627EBA7"
+				silent: true
+				title: "Sự suy yếu của quái vật đã kết thúc"
+				type: "command"
+			}]
+			size: 0.3d
+			tasks: [{
+				id: "38DF26F872AF7F30"
+				stat: "minecraft:play_time"
+				type: "stat"
+				value: 144000
+			}]
+			title: "Thời gian giảm sát thương quái sớm đã hết hạn"
+			x: -7.05d
+			y: -2.1d
+		}
+		{
+			description: [
+				"&b[Nhiệm vụ phát hiện tự động ẩn]"
+				"&b Khi bạn thấy nhiệm vụ này, điều đó có nghĩa là việc phát hiện &r đã hoàn tất"
+				""
+				""
+				"Khi bạn nhận được một vũ khí độc đáo bằng thanh kiếm đơn giản,"
+				"và đã có được những vật phẩm trên,"
+				"Lượng máu quái vật toàn cầu đã tăng lên 1,5 lần"
+				"(Bạn có thể điều chỉnh lại về 1x nếu thấy khó khăn)"
+			]
+			disable_toast: true
+			entity_vis_size: 1.0f
+			id: "0FF802A4A88A35C2"
+			invisible: true
+			rewards: [{
+				auto: "enabled"
+				command: "/function minecraft:health_1_5"
+				elevate_perms: true
+				id: "16B2554F1F2FA051"
+				silent: true
+				title: "Lượng máu quái vật toàn cầu được điều chỉnh thành 1,5 lần"
+				type: "command"
+			}]
+			size: 0.3d
+			tasks: [
+				{
+					disable_toast: true
+					id: "27353268321DE673"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "itemfilters:tag"
+						tag: {
+							value: "simplyswords:uniques"
+						}
+					}
+					type: "item"
+				}
+				{
+					disable_toast: true
+					id: "06C38D85AE44D69E"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "mcde:runic_table"
+					}
+					type: "item"
+				}
+			]
+			title: "Nhận vũ khí tiên tiến và tăng sức khỏe quái vật"
+			x: -6.75d
+			y: -2.1d
+		}
+		{
+			can_repeat: true
+			description: [
+				"&c&o (không cần sửa đổi nếu không có yêu cầu đặc biệt)&r&r&r"
+				"Hạn chế số lượng mob thù địch sinh ra"
+				"Chỉ có tác dụng với quái vật sinh ra tự nhiên"
+				"Nó có thể ảnh hưởng đến một số cơ chế sinh sản của quái vật và không nên sửa đổi."
+				""
+				"Phương pháp tính toán:"
+				"&a Khi số lượng quái vật thù địch &c &r xung quanh mỗi người chơi &r vượt quá X,"
+				"Dừng sinh ra quái vật thù địch &c xung quanh người chơi này"
+				""
+				"&c[yêu cầu quyền gian lận]&r"
+				"&e[mặc định không giới hạn]&r"
+			]
+			entity_vis_size: 1.0f
+			icon: "minecraft:zombie_spawn_egg"
+			id: "3FC67FF0414E0F23"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "2AA61E4286EFD088"
+				table_id: 5392788278906100232L
+				type: "choice"
+			}]
+			shape: "gear"
+			tasks: [{
+				id: "55B9114E7E1C22FE"
+				title: "Giới hạn số lượng sinh vật thù địch sinh ra"
+				type: "checkmark"
+			}]
+			x: -5.0d
+			y: -4.0d
+		}
+		{
+			description: [
+				"&b[Nhiệm vụ phát hiện tự động ẩn]"
+				"&b Khi bạn thấy nhiệm vụ này, điều đó có nghĩa là việc phát hiện &r đã hoàn tất"
+				""
+				"Nhận được vũ khí thần kỳ &c &r,"
+				"Thể tích máu sinh học được điều chỉnh gấp 2 lần"
+				"Lượng máu BOSS được điều chỉnh gấp 2 lần"
+				""
+				"(Bạn có thể điều chỉnh lại về 1x nếu thấy khó khăn)"
+			]
+			entity_vis_size: 1.0f
+			id: "5C66E48D0CF808B9"
+			invisible: true
+			rewards: [
+				{
+					auto: "enabled"
+					command: "/function minecraft:health_2_0"
+					elevate_perms: true
+					id: "0FB17877B73E58AE"
+					silent: true
+					title: "Sức khỏe của quái vật toàn cầu được tăng gấp đôi"
+					type: "command"
+				}
+				{
+					auto: "enabled"
+					command: "/function minecraft:bosshealth_2_0"
+					elevate_perms: true
+					id: "0305D822FCDD17C2"
+					silent: true
+					title: "Lượng máu BOSS tăng gấp đôi"
+					type: "command"
+				}
+			]
+			size: 0.3d
+			tasks: [{
+				disable_toast: true
+				id: "67DF58FC35456B21"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "itemfilters:or"
+					tag: {
+						items: [
+							{
+								Count: 1b
+								id: "fight_more:agony_p"
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								Count: 1b
+								id: "fight_more:antitheus_p"
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								Count: 1b
+								id: "fight_more:ender_blaster_p"
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								Count: 1b
+								id: "fight_more:gesetz_p"
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								Count: 1b
+								id: "fight_more:moonless_p"
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								Count: 1b
+								id: "fight_more:ruine_p"
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								Count: 1b
+								id: "fight_more:satsujin_p"
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								Count: 1b
+								id: "fight_more:torment_p"
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								Count: 1b
+								id: "fight_more:solar_p"
+								tag: {
+									Damage: 0
+								}
+							}
+						]
+					}
+				}
+				type: "item"
+			}]
+			title: "Lượng máu của sinh vật và BOSS tăng gấp đôi."
+			x: -6.449999999999999d
+			y: -2.1d
+		}
+		{
+			can_repeat: true
+			description: [
+				"Khi chiến đấu với BOSS lớn, sau khi người chơi chết, &eBOSS sẽ phục hồi toàn bộ máu của &r."
+				"Số lượng người chơi chết tối đa có thể được sửa đổi"
+				""
+				"&a [Nên giữ cài đặt mặc định, nhiều người sẽ tùy theo tình huống] &r"
+				""
+				"&b chủ trương giết một mạng người và không chất đống mạng sống để lãng phí BOSS&r"
+				"&bNâng cao sức mạnh của bản thân, sử dụng thêm đạo cụ để hồi máu&r"
+				""
+				"&c[yêu cầu quyền gian lận]&r"
+				"&e[Mặc định: 1 người chết để hồi lại toàn bộ máu]&r"
+			]
+			entity_vis_size: 1.0f
+			icon: "born_in_chaos_v1:shattered_skull"
+			id: "3BD95C5524F5A544"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6D84851C52211D0D"
+				table_id: 3129629229980681446L
+				type: "choice"
+			}]
+			shape: "gear"
+			tasks: [{
+				id: "1DB89CA1EDA4ED34"
+				title: "Cài đặt hồi phục máu BOSS sau khi chết"
+				type: "checkmark"
+			}]
+			x: -7.0d
+			y: -3.0d
+		}
+		{
+			can_repeat: true
+			description: [
+				"&c [Không nên sửa đổi trừ khi trận chiến đặc biệt khó khăn] &r"
+				"[Bật/Tắt]Trong trận chiến hoành tráng"
+				"&e thẳng cứng&r hiệu ứng sau khi người chơi bị thương"
+				""
+				"Phụ kiện Vòng miễn nhiễm choáng &e &r có thể đạt được hiệu quả tương tự"
+				""
+				"&c[yêu cầu quyền gian lận]&r"
+				"&e[Ảnh hưởng đến tất cả người chơi]&r"
+				"&e[Mặc định: Tắt khả năng miễn nhiễm choáng]&r"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "realmrpg_quests:glow_clot"
+				tag: {
+					csController: { }
+				}
+			}
+			id: "253F56F44961FC88"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "53EDC6E230037B8F"
+				table_id: 6025838009801550098L
+				type: "choice"
+			}]
+			shape: "gear"
+			tasks: [{
+				id: "4B0AF26B2EB0761F"
+				title: "Người chơi có khả năng miễn nhiễm choáng"
+				type: "checkmark"
+			}]
+			x: -6.0d
+			y: -3.0d
+		}
+	]
+	title: "Điều chỉnh cài đặt"
+}

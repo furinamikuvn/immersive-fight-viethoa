@@ -1,0 +1,32 @@
+{
+  "betterflight.keys.takeoff": {
+    "en": "Take Off",
+    "zh": "脱下",
+    "vi": "cởi"
+  },
+  "betterflight.keys.flap": {
+    "en": "Flap",
+    "zh": "鞘翅加速",
+    "vi": "tăng tốc elytra"
+  },
+  "betterflight.keys.flare": {
+    "en": "Flare",
+    "zh": "鞘翅减速",
+    "vi": "elytra làm chậm"
+  },
+  "betterflight.keys.widget": {
+    "en": "Move HUD",
+    "zh": "Move HUD",
+    "vi": "Move HUD"
+  },
+  "betterflight.subtitles.flap": {
+    "en": "Elytra flap",
+    "zh": "鞘翅减速",
+    "vi": "elytra làm chậm"
+  },
+  "betterflight.subtitles.boost": {
+    "en": "Elytra boost",
+    "zh": "鞘翅加速",
+    "vi": "tăng tốc elytra"
+  }
+}

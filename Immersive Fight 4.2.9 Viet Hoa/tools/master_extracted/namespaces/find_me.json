@@ -1,0 +1,777 @@
+{
+  "screen.find_me.cancel_short": {
+    "en": "X",
+    "zh": " ",
+    "vi": " "
+  },
+  "screen.find_me.wheel": {
+    "en": null,
+    "zh": "打开轮盘",
+    "vi": "mở roulette"
+  },
+  "key.categories.find_me": {
+    "en": "Find me",
+    "zh": "找到我",
+    "vi": null
+  },
+  "key.find_me.mount": {
+    "en": "Mount summon / rescue",
+    "zh": "坐骑召唤/救援",
+    "vi": null
+  },
+  "key.find_me.companion": {
+    "en": "Companion summon",
+    "zh": "伙伴召唤",
+    "vi": null
+  },
+  "key.find_me.manage": {
+    "en": "Pet manager",
+    "zh": "宠物管理器",
+    "vi": null
+  },
+  "screen.find_me.mount_wheel": {
+    "en": "Mount Wheel",
+    "zh": "坐骑轮盘",
+    "vi": null
+  },
+  "screen.find_me.companion_wheel": {
+    "en": "Companion Wheel",
+    "zh": "伙伴轮盘",
+    "vi": null
+  },
+  "screen.find_me.no_mounts": {
+    "en": "No registered mounts",
+    "zh": "未注册坐骑",
+    "vi": null
+  },
+  "screen.find_me.no_companions": {
+    "en": "No registered companions",
+    "zh": "未注册伙伴",
+    "vi": null
+  },
+  "screen.find_me.mount_manager": {
+    "en": "Mount Manager",
+    "zh": "坐骑管理器",
+    "vi": null
+  },
+  "screen.find_me.companion_manager": {
+    "en": "Companion Manager",
+    "zh": "伙伴管理器",
+    "vi": null
+  },
+  "screen.find_me.manager": {
+    "en": "Pet Manager",
+    "zh": "宠物管理器",
+    "vi": null
+  },
+  "screen.find_me.mounts": {
+    "en": "Mounts",
+    "zh": "坐骑",
+    "vi": null
+  },
+  "screen.find_me.companions": {
+    "en": "Companions",
+    "zh": "伙伴",
+    "vi": null
+  },
+  "screen.find_me.wheel_slots": {
+    "en": "Wheel slots",
+    "zh": "轮盘槽位",
+    "vi": null
+  },
+  "screen.find_me.no_entries": {
+    "en": "No registered entries",
+    "zh": "未注册条目",
+    "vi": null
+  },
+  "screen.find_me.state_ready": {
+    "en": "ready",
+    "zh": "就绪",
+    "vi": null
+  },
+  "screen.find_me.state_dead": {
+    "en": "dead",
+    "zh": "死亡",
+    "vi": null
+  },
+  "screen.find_me.state_unloaded": {
+    "en": "unloaded",
+    "zh": "未加载",
+    "vi": null
+  },
+  "screen.find_me.select": {
+    "en": "Select",
+    "zh": "选择",
+    "vi": null
+  },
+  "screen.find_me.summon": {
+    "en": "Summon",
+    "zh": "召唤",
+    "vi": null
+  },
+  "screen.find_me.return_home": {
+    "en": "Return",
+    "zh": "送回",
+    "vi": null
+  },
+  "screen.find_me.move": {
+    "en": "Move",
+    "zh": "移动",
+    "vi": null
+  },
+  "screen.find_me.remove": {
+    "en": "Remove",
+    "zh": "移除",
+    "vi": null
+  },
+  "screen.find_me.remark": {
+    "en": "Remark",
+    "zh": "备注",
+    "vi": null
+  },
+  "screen.find_me.delete": {
+    "en": "Delete",
+    "zh": "删除",
+    "vi": null
+  },
+  "screen.find_me.details": {
+    "en": "Details",
+    "zh": "详情",
+    "vi": null
+  },
+  "screen.find_me.search": {
+    "en": "Search",
+    "zh": "搜索",
+    "vi": null
+  },
+  "screen.find_me.ignore_list": {
+    "en": "Ignore List",
+    "zh": "忽略列表",
+    "vi": null
+  },
+  "screen.find_me.dead_list": {
+    "en": "Dead",
+    "zh": "死亡",
+    "vi": null
+  },
+  "screen.find_me.dead_empty": {
+    "en": "No dead creatures",
+    "zh": "没有死亡的生物",
+    "vi": null
+  },
+  "screen.find_me.ignore_hint": {
+    "en": "Right-click an entry to allow auto-binding again. Esc to return.",
+    "zh": "右键点击条目以允许重新自动绑定。按 Esc 返回。",
+    "vi": null
+  },
+  "screen.find_me.ignore_empty": {
+    "en": "No ignored creatures",
+    "zh": "没有忽略的生物",
+    "vi": null
+  },
+  "screen.find_me.confirm_enter": {
+    "en": "Enter to confirm, Esc to cancel",
+    "zh": "回车确认，Esc 取消",
+    "vi": null
+  },
+  "screen.find_me.detail_name": {
+    "en": "Name: %s",
+    "zh": "名称：%s",
+    "vi": null
+  },
+  "screen.find_me.detail_type": {
+    "en": "Type: %s",
+    "zh": "类型：%s",
+    "vi": null
+  },
+  "screen.find_me.detail_health": {
+    "en": "Health: %s",
+    "zh": "生命值：%s",
+    "vi": null
+  },
+  "screen.find_me.detail_armor": {
+    "en": "Armor: %s",
+    "zh": "护甲值：%s",
+    "vi": null
+  },
+  "screen.find_me.detail_move": {
+    "en": "Move: %s",
+    "zh": "移动速度：%s",
+    "vi": null
+  },
+  "screen.find_me.detail_state": {
+    "en": "Loaded: %s  Alive: %s  Out: %s",
+    "zh": "已加载：%s  存活：%s  外出：%s",
+    "vi": null
+  },
+  "screen.find_me.preview_hint": {
+    "en": "Drag / Wheel",
+    "zh": "拖拽 / 轮盘",
+    "vi": null
+  },
+  "screen.find_me.back_esc": {
+    "en": "Esc to return",
+    "zh": "按 Esc 返回",
+    "vi": null
+  },
+  "screen.find_me.cannot_move_active": {
+    "en": "Store this creature before moving it to another list.",
+    "zh": "请先收起此生物再移动到其他列表。",
+    "vi": null
+  },
+  "message.find_me.kind_mount": {
+    "en": "mount",
+    "zh": "坐骑",
+    "vi": null
+  },
+  "message.find_me.kind_companion": {
+    "en": "companion",
+    "zh": "伙伴",
+    "vi": null
+  },
+  "message.find_me.selected_next": {
+    "en": "Selected next %s.",
+    "zh": "已选择下一个%s。",
+    "vi": null
+  },
+  "message.find_me.no_registered": {
+    "en": "No registered %ss.",
+    "zh": "没有已注册的%s。",
+    "vi": null
+  },
+  "message.find_me.previous_selected": {
+    "en": "Switched back to previous %s.",
+    "zh": "切换回上一个%s。",
+    "vi": null
+  },
+  "message.find_me.no_previous": {
+    "en": "No previous %s.",
+    "zh": "没有上一个%s。",
+    "vi": null
+  },
+  "message.find_me.invalid_index": {
+    "en": "Invalid %s index.",
+    "zh": "无效的%s索引。",
+    "vi": null
+  },
+  "message.find_me.released": {
+    "en": "Released %s #%s nearby.",
+    "zh": "已将%s #%s释放在附近。",
+    "vi": null
+  },
+  "message.find_me.collected": {
+    "en": "Stored %s.",
+    "zh": "已收起%s。",
+    "vi": null
+  },
+  "message.find_me.registered_header": {
+    "en": "Registered %ss:",
+    "zh": "已注册的%s：",
+    "vi": null
+  },
+  "message.find_me.state_loaded": {
+    "en": "loaded",
+    "zh": "已加载",
+    "vi": null
+  },
+  "message.find_me.state_dead": {
+    "en": "dead",
+    "zh": "死亡",
+    "vi": null
+  },
+  "message.find_me.state_unloaded": {
+    "en": "offline/unloaded",
+    "zh": "离线/未加载",
+    "vi": null
+  },
+  "message.find_me.list_entry": {
+    "en": "%s%s: %s [%s]",
+    "zh": "%s%s：%s [%s]",
+    "vi": null
+  },
+  "message.find_me.selected_index": {
+    "en": "Selected %s #%s.",
+    "zh": "已选择%s #%s。",
+    "vi": null
+  },
+  "message.find_me.invalid_slot": {
+    "en": "Invalid %s index or wheel slot.",
+    "zh": "无效的%s索引或轮盘槽位。",
+    "vi": null
+  },
+  "message.find_me.assigned_slot": {
+    "en": "Assigned %s #%s to wheel slot %s.",
+    "zh": "已将%s #%s分配到轮盘槽位%s。",
+    "vi": null
+  },
+  "message.find_me.cleared_slot": {
+    "en": "Cleared %s wheel slot %s.",
+    "zh": "已清除%s轮盘槽位%s。",
+    "vi": null
+  },
+  "message.find_me.cannot_move_active": {
+    "en": "Store this creature before moving it to another list.",
+    "zh": "请先收起此生物再移动到其他列表。",
+    "vi": null
+  },
+  "message.find_me.moved_list": {
+    "en": "Moved entry to %s list.",
+    "zh": "已将条目移至%s列表。",
+    "vi": null
+  },
+  "message.find_me.renamed": {
+    "en": "Remark updated.",
+    "zh": "备注已更新。",
+    "vi": null
+  },
+  "message.find_me.registered_as": {
+    "en": "Registered %s as %s.",
+    "zh": "已将%s注册为%s。",
+    "vi": null
+  },
+  "message.find_me.cooldown": {
+    "en": "Cooldown: %ss.",
+    "zh": "冷却时间：%s秒。",
+    "vi": null
+  },
+  "message.find_me.pvp_disabled": {
+    "en": "Summon is disabled while fighting players.",
+    "zh": "与玩家战斗时无法召唤。",
+    "vi": null
+  },
+  "message.find_me.unavailable": {
+    "en": "The selected %s is unavailable.",
+    "zh": "所选%s不可用。",
+    "vi": null
+  },
+  "message.find_me.busy": {
+    "en": "That %s is busy.",
+    "zh": "那个%s正忙。",
+    "vi": null
+  },
+  "message.find_me.already_riding": {
+    "en": "You are already riding that mount.",
+    "zh": "你已经在骑乘那个坐骑了。",
+    "vi": null
+  },
+  "message.find_me.need_open_space": {
+    "en": "Find a more open area before summoning this mount.",
+    "zh": "请在更开阔的区域召唤此坐骑。",
+    "vi": null
+  },
+  "message.find_me.companion_too_high": {
+    "en": "This companion cannot be summoned safely while you are high above the ground.",
+    "zh": "你当前离地面太高，无法安全召唤此伙伴。",
+    "vi": null
+  },
+  "message.find_me.rescue_space_too_small": {
+    "en": "%s rescued you, but the area is too tight, so it was stored.",
+    "zh": "%s救下了你，但周围空间太窄，它被收起来了。",
+    "vi": null
+  },
+  "message.find_me.rescue_summoned": {
+    "en": "Rescue summoned %s.",
+    "zh": "救援召唤了%s。",
+    "vi": null
+  },
+  "message.find_me.summoned": {
+    "en": "Summoned %s.",
+    "zh": "已召唤%s。",
+    "vi": null
+  },
+  "message.find_me.no_origin": {
+    "en": "No saved origin for this %s.",
+    "zh": "此%s没有保存的原始位置。",
+    "vi": null
+  },
+  "message.find_me.dimension_unavailable": {
+    "en": "Original dimension is unavailable; placing nearby instead.",
+    "zh": "原始维度不可用，改为放置在附近。",
+    "vi": null
+  },
+  "message.find_me.returned": {
+    "en": "Returned %s to its saved origin.",
+    "zh": "已将%s送回其保存的原始位置。",
+    "vi": null
+  },
+  "message.find_me.no_water": {
+    "en": "No nearby water found; using safe ground.",
+    "zh": "附近未找到水源，使用安全地面。",
+    "vi": null
+  },
+  "message.find_me.no_target": {
+    "en": "Look at a living creature first.",
+    "zh": "请先看向一只存活的生物。",
+    "vi": null
+  },
+  "message.find_me.ignore_empty": {
+    "en": "Auto-bind ignore list is empty.",
+    "zh": "自动绑定忽略列表为空。",
+    "vi": null
+  },
+  "message.find_me.ignore_header": {
+    "en": "Auto-bind ignored creatures:",
+    "zh": "已自动绑定忽略的生物：",
+    "vi": null
+  },
+  "message.find_me.invalid_ignore_index": {
+    "en": "Invalid ignore list index.",
+    "zh": "无效的忽略列表索引。",
+    "vi": null
+  },
+  "message.find_me.ignore_removed": {
+    "en": "Removed entry from auto-bind ignore list.",
+    "zh": "已从自动绑定忽略列表中移除条目。",
+    "vi": null
+  },
+  "message.find_me.ignore_cleared": {
+    "en": "Cleared auto-bind ignore list.",
+    "zh": "已清空自动绑定忽略列表。",
+    "vi": null
+  },
+  "message.find_me.vault_empty": {
+    "en": "Emergency vault is empty.",
+    "zh": "应急仓库为空。",
+    "vi": null
+  },
+  "message.find_me.vault_header": {
+    "en": "Emergency vault snapshots:",
+    "zh": "应急仓库快照：",
+    "vi": null
+  },
+  "message.find_me.invalid_vault_index": {
+    "en": "Invalid vault index.",
+    "zh": "无效的仓库索引。",
+    "vi": null
+  },
+  "message.find_me.vault_restored": {
+    "en": "Restored %s from the emergency vault.",
+    "zh": "已从应急仓库中恢复%s。",
+    "vi": null
+  },
+  "message.find_me.vault_cleared": {
+    "en": "Cleared emergency vault.",
+    "zh": "已清空应急仓库。",
+    "vi": null
+  },
+  "message.find_me.backup_empty": {
+    "en": "No Find me backups saved.",
+    "zh": "没有保存的“找到我”备份。",
+    "vi": null
+  },
+  "message.find_me.backup_header": {
+    "en": "Find me backups:",
+    "zh": "“找到我”备份：",
+    "vi": null
+  },
+  "message.find_me.backup_disabled": {
+    "en": "Automatic backups are disabled.",
+    "zh": "自动备份已禁用。",
+    "vi": null
+  },
+  "message.find_me.backup_created": {
+    "en": "Created Find me backup.",
+    "zh": "已创建“找到我”备份。",
+    "vi": null
+  },
+  "message.find_me.invalid_backup_index": {
+    "en": "Invalid backup index.",
+    "zh": "无效的备份索引。",
+    "vi": null
+  },
+  "message.find_me.backup_restored": {
+    "en": "Restored Find me backup #%s.",
+    "zh": "已恢复“找到我”备份 #%s。",
+    "vi": null
+  },
+  "message.find_me.sleep_revived": {
+    "en": "%s has found its way back.",
+    "zh": "%s自己找回来了。",
+    "vi": null
+  },
+  "message.find_me.sleep_revived_stored": {
+    "en": "%s has returned, but there was not enough room nearby, so it was stored safely.",
+    "zh": "%s回来了，但附近空间不足，已被安全收起。",
+    "vi": null
+  },
+  "config.find_me.mountCooldownTicks": {
+    "en": "Mount summon cooldown",
+    "zh": "坐骑召唤冷却",
+    "vi": null
+  },
+  "config.find_me.mountCooldownTicks.tooltip": {
+    "en": "Normal mount summon cooldown in ticks.",
+    "zh": "普通坐骑召唤的冷却时间（刻）。",
+    "vi": null
+  },
+  "config.find_me.companionCooldownTicks": {
+    "en": "Companion summon cooldown",
+    "zh": "伙伴召唤冷却",
+    "vi": null
+  },
+  "config.find_me.companionCooldownTicks.tooltip": {
+    "en": "Companion summon cooldown in ticks.",
+    "zh": "伙伴召唤的冷却时间（刻）。",
+    "vi": null
+  },
+  "config.find_me.combatMountCooldownTicks": {
+    "en": "Combat mount cooldown",
+    "zh": "战斗坐骑冷却",
+    "vi": null
+  },
+  "config.find_me.combatMountCooldownTicks.tooltip": {
+    "en": "Mount summon cooldown in ticks while the player is in combat.",
+    "zh": "玩家战斗状态下的坐骑召唤冷却时间（刻）。",
+    "vi": null
+  },
+  "config.find_me.returnCooldownTicks": {
+    "en": "Return cooldown",
+    "zh": "送回冷却",
+    "vi": null
+  },
+  "config.find_me.returnCooldownTicks.tooltip": {
+    "en": "Short cooldown after returning a pet to its saved origin.",
+    "zh": "将宠物送回保存点后的短冷却时间。",
+    "vi": null
+  },
+  "config.find_me.rescueMinFallDistance": {
+    "en": "Rescue fall distance",
+    "zh": "救援触发摔落距离",
+    "vi": null
+  },
+  "config.find_me.rescueMinFallDistance.tooltip": {
+    "en": "If the player is falling at least this many blocks, rescue summon can trigger.",
+    "zh": "玩家摔落距离达到此格数时，可触发救援召唤。",
+    "vi": null
+  },
+  "config.find_me.safeSearchRadius": {
+    "en": "Safe spot search radius",
+    "zh": "安全落点搜索半径",
+    "vi": null
+  },
+  "config.find_me.safeSearchRadius.tooltip": {
+    "en": "Radius used to look for a safe teleport or revive landing spot.",
+    "zh": "寻找安全传送或复活落点的搜索半径。",
+    "vi": null
+  },
+  "config.find_me.postTeleportInvulnerabilitySeconds": {
+    "en": "Post-teleport invulnerability",
+    "zh": "传送后无敌时间",
+    "vi": null
+  },
+  "config.find_me.postTeleportInvulnerabilitySeconds.tooltip": {
+    "en": "Invulnerability seconds given to players and pets after forced teleport or rescue.",
+    "zh": "强制传送或救援后给予玩家和宠物的无敌秒数。",
+    "vi": null
+  },
+  "config.find_me.enablePvpSummon": {
+    "en": "Allow PvP summon",
+    "zh": "允许 PvP 召唤",
+    "vi": null
+  },
+  "config.find_me.enablePvpSummon.tooltip": {
+    "en": "Allows summon while the player has recently hurt or been hurt by another player.",
+    "zh": "允许玩家在最近伤害或被其他玩家伤害时进行召唤。",
+    "vi": null
+  },
+  "config.find_me.enableCombatSpeedBoost": {
+    "en": "Combat speed boost",
+    "zh": "战斗速度加成",
+    "vi": null
+  },
+  "config.find_me.enableCombatSpeedBoost.tooltip": {
+    "en": "Gives a short movement speed boost after mounting during combat.",
+    "zh": "战斗中骑乘后给予短暂移动速度加成。",
+    "vi": null
+  },
+  "config.find_me.combatSpeedBoostPercent": {
+    "en": "Combat speed boost strength",
+    "zh": "战斗速度加成强度",
+    "vi": null
+  },
+  "config.find_me.combatSpeedBoostPercent.tooltip": {
+    "en": "Movement speed boost strength after mounting during combat.",
+    "zh": "战斗中骑乘后的移动速度加成强度。",
+    "vi": null
+  },
+  "config.find_me.combatSpeedBoostTicks": {
+    "en": "Combat speed boost duration",
+    "zh": "战斗速度加成持续时间",
+    "vi": null
+  },
+  "config.find_me.combatSpeedBoostTicks.tooltip": {
+    "en": "Movement speed boost duration in ticks.",
+    "zh": "移动速度加成的持续时间（刻）。",
+    "vi": null
+  },
+  "config.find_me.customMounts": {
+    "en": "Custom mounts",
+    "zh": "自定义坐骑",
+    "vi": null
+  },
+  "config.find_me.customMounts.tooltip": {
+    "en": "Entity ids that should always be considered rideable mounts.",
+    "zh": "始终视为可骑乘坐骑的实体 ID。",
+    "vi": null
+  },
+  "config.find_me.customCompanions": {
+    "en": "Custom companions",
+    "zh": "自定义伙伴",
+    "vi": null
+  },
+  "config.find_me.customCompanions.tooltip": {
+    "en": "Entity ids that should always be considered non-rideable companions.",
+    "zh": "始终视为不可骑乘伙伴的实体 ID。",
+    "vi": null
+  },
+  "config.find_me.customFlying": {
+    "en": "Custom flying entities",
+    "zh": "自定义飞行生物",
+    "vi": null
+  },
+  "config.find_me.customFlying.tooltip": {
+    "en": "Legacy movement override. Prefer customMoveTypes for new configs.",
+    "zh": "旧版移动类型覆写，新配置请优先使用 customMoveTypes。",
+    "vi": null
+  },
+  "config.find_me.customSwimming": {
+    "en": "Custom swimming entities",
+    "zh": "自定义游泳生物",
+    "vi": null
+  },
+  "config.find_me.customSwimming.tooltip": {
+    "en": "Legacy movement override. Prefer customMoveTypes for new configs.",
+    "zh": "旧版移动类型覆写，新配置请优先使用 customMoveTypes。",
+    "vi": null
+  },
+  "config.find_me.customWalking": {
+    "en": "Custom walking entities",
+    "zh": "自定义步行生物",
+    "vi": null
+  },
+  "config.find_me.customWalking.tooltip": {
+    "en": "Legacy movement override. Prefer customMoveTypes for new configs.",
+    "zh": "旧版移动类型覆写，新配置请优先使用 customMoveTypes。",
+    "vi": null
+  },
+  "config.find_me.customMoveTypes": {
+    "en": "Custom movement types",
+    "zh": "自定义移动类型",
+    "vi": null
+  },
+  "config.find_me.customMoveTypes.tooltip": {
+    "en": "Preferred movement override format: entity_id=walk, entity_id=fly, or entity_id=swim.",
+    "zh": "推荐的移动类型覆写格式：实体ID=walk、实体ID=fly 或 实体ID=swim。",
+    "vi": null
+  },
+  "config.find_me.previewScaleOverrides": {
+    "en": "Preview scale overrides",
+    "zh": "预览缩放覆写",
+    "vi": null
+  },
+  "config.find_me.previewScaleOverrides.tooltip": {
+    "en": "Advanced GUI preview scale overrides, formatted as entity_id=scale. Example: dragonmounts:dragon=0.75",
+    "zh": "高级 GUI 预览缩放覆写，格式为 实体ID=缩放比例。例如：dragonmounts:dragon=0.75",
+    "vi": null
+  },
+  "config.find_me.guiOpacity": {
+    "en": "Wheel GUI opacity",
+    "zh": "轮盘 GUI 不透明度",
+    "vi": null
+  },
+  "config.find_me.guiOpacity.tooltip": {
+    "en": "Opacity for wheel GUI 2D elements. Does not affect 3D entity previews.",
+    "zh": "轮盘 GUI 二维元素的不透明度，不影响 3D 实体预览。",
+    "vi": null
+  },
+  "config.find_me.enableVault": {
+    "en": "Enable emergency vault",
+    "zh": "启用应急仓库",
+    "vi": null
+  },
+  "config.find_me.enableVault.tooltip": {
+    "en": "Keep emergency creature snapshots before risky removal or death operations. Recommended: true.",
+    "zh": "在危险移除或死亡操作前保留应急生物快照。推荐：true。",
+    "vi": null
+  },
+  "config.find_me.vaultCapacity": {
+    "en": "Emergency vault capacity",
+    "zh": "应急仓库容量",
+    "vi": null
+  },
+  "config.find_me.vaultCapacity.tooltip": {
+    "en": "Maximum emergency creature snapshots kept per player.",
+    "zh": "每位玩家保留的最大应急生物快照数量。",
+    "vi": null
+  },
+  "config.find_me.enableAutoBackups": {
+    "en": "Enable automatic backups",
+    "zh": "启用自动备份",
+    "vi": null
+  },
+  "config.find_me.enableAutoBackups.tooltip": {
+    "en": "Periodically back up each player's Find me lists. Recommended: true.",
+    "zh": "定期备份每位玩家的“找到我”列表。推荐：true。",
+    "vi": null
+  },
+  "config.find_me.backupIntervalMinutes": {
+    "en": "Backup interval",
+    "zh": "备份间隔",
+    "vi": null
+  },
+  "config.find_me.backupIntervalMinutes.tooltip": {
+    "en": "Minutes between automatic backups.",
+    "zh": "自动备份的间隔分钟数。",
+    "vi": null
+  },
+  "config.find_me.backupCapacity": {
+    "en": "Backup capacity",
+    "zh": "备份容量",
+    "vi": null
+  },
+  "config.find_me.backupCapacity.tooltip": {
+    "en": "Maximum full-list backups kept per player.",
+    "zh": "每位玩家保留的完整列表备份最大数量。",
+    "vi": null
+  },
+  "config.find_me.enableSleepRevive": {
+    "en": "Enable sleep revive",
+    "zh": "启用睡眠复活",
+    "vi": null
+  },
+  "config.find_me.enableSleepRevive.tooltip": {
+    "en": "Allows dead companions to return when a player wakes up.",
+    "zh": "允许死亡的伙伴在玩家醒来时返回。",
+    "vi": null
+  },
+  "config.find_me.sleepReviveCooldownMinutes": {
+    "en": "Sleep revive cooldown",
+    "zh": "睡眠复活冷却",
+    "vi": null
+  },
+  "config.find_me.sleepReviveCooldownMinutes.tooltip": {
+    "en": "Minutes between sleep revive attempts per player.",
+    "zh": "每位玩家两次睡眠复活尝试之间的间隔分钟数。",
+    "vi": null
+  },
+  "config.find_me.sleepReviveChance": {
+    "en": "Sleep revive chance",
+    "zh": "睡眠复活概率",
+    "vi": null
+  },
+  "config.find_me.sleepReviveChance.tooltip": {
+    "en": "Chance that sleeping revives one dead companion.",
+    "zh": "睡眠时复活一个死亡伙伴的概率。",
+    "vi": null
+  },
+  "config.find_me.sleepReviveSpawnEntity": {
+    "en": "Spawn revived creature",
+    "zh": "生成复活的生物",
+    "vi": null
+  },
+  "config.find_me.sleepReviveSpawnEntity.tooltip": {
+    "en": "If enabled, revived creatures try to appear nearby when there is safe space. Disable for packs with destructive large mobs.",
+    "zh": "若启用，复活的生物会在有安全空间时尝试出现在附近。若模组包含破坏性大型生物，可禁用。",
+    "vi": null
+  }
+}

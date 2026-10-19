@@ -1,0 +1,207 @@
+{
+  "modmenu.nameTranslation.no_caves": {
+    "en": "No Caves",
+    "zh": "无洞穴",
+    "vi": null
+  },
+  "modmenu.descriptionTranslation.no_caves": {
+    "en": "Disables Noise Caves, Density Function Caves, Generated Features, Carver Caves and Canyons based on the configuration, and maintains compatibility with other terrain modification mods and data packs as much as possible. Affects all biomes and all world generation presets by default.",
+    "zh": "根据配置禁用噪声洞穴、密度函数洞穴、地物、雕刻器洞穴和峡谷，并尽可能保持与其他地形修改模组和数据包的兼容性。默认影响所有生物群系和所有世界生成预设。",
+    "vi": null
+  },
+  "tooltip.no_caves.pattern.pattern": {
+    "en": "Regular expression text",
+    "zh": "正则表达式文本",
+    "vi": null
+  },
+  "tooltip.no_caves.pattern.flags": {
+    "en": "Regular expression flags",
+    "zh": "正则表达式标志",
+    "vi": null
+  },
+  "tooltip.no_caves.map.name": {
+    "en": "Name",
+    "zh": "名称",
+    "vi": null
+  },
+  "title.no_caves.config": {
+    "en": "No Caves Mod Configurations",
+    "zh": "无洞穴模组配置",
+    "vi": null
+  },
+  "category.no_caves.BiomeGenerationSettings": {
+    "en": "Biome Generation Settings",
+    "zh": "生物群系生成设置",
+    "vi": null
+  },
+  "option.no_caves.enableCarverFilter": {
+    "en": "Enable carver filter",
+    "zh": "启用雕刻器过滤器",
+    "vi": null
+  },
+  "option.no_caves.enableCarverFilter.tooltip": {
+    "en": "Set to %s to enable the carver filter.",
+    "zh": "设置为%s以启用雕刻器过滤器。",
+    "vi": null
+  },
+  "option.no_caves.disabledCarverPatterns": {
+    "en": "Patterns of disabled carvers",
+    "zh": "被禁用雕刻器的匹配模式",
+    "vi": null
+  },
+  "option.no_caves.disabledCarverPatterns.tooltip": {
+    "en": "The specified carvers will be filtered.",
+    "zh": "指定的雕刻器会被过滤。",
+    "vi": null
+  },
+  "option.no_caves.carverFilterBiomeExclusionPatterns": {
+    "en": "Patterns of carver filters' biome exclusion",
+    "zh": "雕刻器过滤器生物群系排除的匹配模式",
+    "vi": null
+  },
+  "option.no_caves.carverFilterBiomeExclusionPatterns.tooltip": {
+    "en": "The specified biome will not be affected by carver filter.",
+    "zh": "指定的生物群系不会受到雕刻器过滤器影响。",
+    "vi": null
+  },
+  "option.no_caves.biomeSpecificOverrideForDisabledCarverPatterns": {
+    "en": "Biome-specific overrides for patterns of disabled carvers",
+    "zh": "生物群系特定禁用雕刻器的匹配模式",
+    "vi": null
+  },
+  "option.no_caves.biomeSpecificOverrideForDisabledCarverPatterns.tooltip": {
+    "en": "The specified biome will filter out \ncarvers with the corresponding value. Overrides \n“%s” within the current biome.",
+    "zh": "指定的生物群系会将对应值中的雕刻器过滤掉。\n在当前生物群系内覆盖“%s”。",
+    "vi": null
+  },
+  "option.no_caves.enableFeatureFilter": {
+    "en": "Enable feature filter",
+    "zh": "启用地物过滤器",
+    "vi": null
+  },
+  "option.no_caves.enableFeatureFilter.tooltip": {
+    "en": "Set to %s to enable the feature filter.",
+    "zh": "设置为%s以启用地物过滤器。",
+    "vi": null
+  },
+  "option.no_caves.disabledFeaturePatterns": {
+    "en": "Patterns of disabled features",
+    "zh": "被禁用地物的匹配模式",
+    "vi": null
+  },
+  "option.no_caves.disabledFeaturePatterns.tooltip": {
+    "en": "The specified features will be filtered.",
+    "zh": "指定的地物会被过滤。",
+    "vi": null
+  },
+  "option.no_caves.featureFilterBiomeExclusionPatterns": {
+    "en": "Patterns of feature filters' biome exclusion",
+    "zh": "地物过滤器生物群系排除的匹配模式",
+    "vi": null
+  },
+  "option.no_caves.featureFilterBiomeExclusionPatterns.tooltip": {
+    "en": "The specified biome will not be affected by feature filter.",
+    "zh": "指定的生物群系不会受到地物过滤器影响。",
+    "vi": null
+  },
+  "option.no_caves.biomeSpecificOverrideForDisabledFeaturePatterns": {
+    "en": "Biome-specific overrides for patterns of disabled features",
+    "zh": "生物群系特定禁用地物的匹配模式",
+    "vi": null
+  },
+  "option.no_caves.biomeSpecificOverrideForDisabledFeaturePatterns.tooltip": {
+    "en": "The specified biome will filter out \nfeatures with the corresponding value. Overrides \n“%s” within the current biome.",
+    "zh": "指定的生物群系会将对应值中的地物过滤掉。\n在当前生物群系内覆盖“%s”。",
+    "vi": null
+  },
+  "category.no_caves.DensityFunctionSources": {
+    "en": "Density Function Sources",
+    "zh": "密度函数源",
+    "vi": null
+  },
+  "option.no_caves.enableDensityFunctionTransformation": {
+    "en": "Enable density function transformation",
+    "zh": "启用密度函数转换",
+    "vi": null
+  },
+  "option.no_caves.enableDensityFunctionTransformation.tooltip": {
+    "en": "Set to %s to enable the density function transformation",
+    "zh": "设置为%s以启用密度函数转换。",
+    "vi": null
+  },
+  "option.no_caves.densityFunctionToTransformPatterns": {
+    "en": "Patterns of density function to transform",
+    "zh": "密度函数转换排除的匹配模式",
+    "vi": null
+  },
+  "option.no_caves.densityFunctionToTransformPatterns.tooltip": {
+    "en": "The specified density function will be transformed.",
+    "zh": "指定的密度函数会被转换。",
+    "vi": null
+  },
+  "option.no_caves.enableFinalDensityTransformation": {
+    "en": "Enable final density transformation",
+    "zh": "启用最终密度转换",
+    "vi": null
+  },
+  "option.no_caves.enableFinalDensityTransformation.tooltip": {
+    "en": "Set to %s to enable the final density transformation",
+    "zh": "设置为%s以启用最终密度转换。",
+    "vi": null
+  },
+  "option.no_caves.finalDensityTransformationExclusionPatterns": {
+    "en": "Patterns of final density transformation exclusions",
+    "zh": "最终密度转换排除的匹配模式",
+    "vi": null
+  },
+  "option.no_caves.finalDensityTransformationExclusionPatterns.tooltip": {
+    "en": "The specified noise settings' final density will not be transformed.",
+    "zh": "指定的噪声设置的最终密度将不会被转换。",
+    "vi": null
+  },
+  "category.no_caves.TransformationSettings": {
+    "en": "Transformation Settings",
+    "zh": "转换设置",
+    "vi": null
+  },
+  "option.no_caves.enableNoiseCaveFilter": {
+    "en": "Enable noise cave filter",
+    "zh": "启用噪声洞穴过滤器",
+    "vi": null
+  },
+  "option.no_caves.enableNoiseCaveFilter.tooltip": {
+    "en": "Set to %s to enable noise cave filter, \nwhich filters noise caves in density functions\n(including the final density).",
+    "zh": "设置为%s以启用噪声洞穴过滤器，\n该过滤器会在密度函数（包括最终密度）\n中过滤噪声洞穴。",
+    "vi": null
+  },
+  "option.no_caves.noiseCavePatterns": {
+    "en": "Patterns of noise caves",
+    "zh": "噪声洞穴的匹配模式",
+    "vi": null
+  },
+  "option.no_caves.noiseCavePatterns.tooltip": {
+    "en": "The names of the noise caves to filter.",
+    "zh": "要过滤的噪声洞穴名称。",
+    "vi": null
+  },
+  "option.no_caves.enableDensityFunctionCaveFilter": {
+    "en": "Enable density function cave filter",
+    "zh": "启用密度函数洞穴过滤器",
+    "vi": null
+  },
+  "option.no_caves.enableDensityFunctionCaveFilter.tooltip": {
+    "en": "Set to %s to enable density function cave filter, \nwhich filters references to other cave \ndensity functions in density functions\n(including the final density).",
+    "zh": "设置为%s以启用密度函数洞穴过滤器，\n该过滤器会在密度函数（包括最终密度）\n中过滤对其他洞穴密度函数的引用。",
+    "vi": null
+  },
+  "option.no_caves.densityFunctionCavePatterns": {
+    "en": "Patterns of density function caves",
+    "zh": "密度函数洞穴的匹配模式",
+    "vi": null
+  },
+  "option.no_caves.densityFunctionCavePatterns.tooltip": {
+    "en": "The names of the density functions cave to filter.",
+    "zh": "要过滤的密度函数洞穴名称。",
+    "vi": null
+  }
+}

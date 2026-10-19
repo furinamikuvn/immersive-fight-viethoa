@@ -1,0 +1,7 @@
+#entities within the range will be despawned
+#Range: 0.0 ~ 1000000.0
+despawner-range = 24.0
+#1.5 = 150% of original knockback
+#Range: 0.0 ~ 1000000.0
+yeet-stick-knockback-multiplier = 1.0
+

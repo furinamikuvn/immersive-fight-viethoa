@@ -1,0 +1,118 @@
+import json
+
+overrides = {
+    # Aquamirae
+    "logbook.aquamirae.pirate_shelter.content": "Nhật ký #41\n\nTại vùng đất bị nguyền rủa này, ngươi không thể tìm thấy nơi trú ẩn ngay cả dưới lớp băng dày. Băng giá gặm nhấm linh hồn và lũ quái vật dưới đáy sâu luôn chực chờ nuốt chửng kẻ lạc lối.",
+    
+    # Arsenal
+    "item.arsenal.charge_halberd2_desc": "Khi điện tích từ 15 điểm trở lên, sử dụng vũ khí khi đang ngồi xổm sẽ biến đổi thành kích.",
+    
+    # Beachparty
+    "block.beachparty.notimplemented": "Khối này có các chức năng chưa được hoàn thiện. Hãy đón chờ ở các bản cập nhật sau!",
+    
+    # Celestisynth
+    "block.celestisynth.no_more_celestial_workbench": "Vật phẩm này không còn sử dụng được nữa. Vui lòng chuyển đổi khối này thành Starlit Factory.",
+    "item.celestisynth.solar_crystal_armor_bonus": "Khi chịu sát thương, giáp bộc phát một vòng lửa nổ tung, gây sát thương và thiêu đốt các mục tiêu xung quanh. Mỗi mảnh giáp tăng sát thương vụ nổ và thời gian bốc cháy.",
+    "item.celestisynth.lunar_stone_armor_bonus": "Khi người mặc bị thương, giáp có 1/5 tỉ lệ giảm đáng kể lượng sát thương nhận vào. Mỗi mảnh giáp gia tăng chỉ số giảm sát thương.",
+    "item.celestisynth.solaris.passive_desc_1": "Người cầm được miễn nhiễm sát thương lửa - đòn tấn công thông thường với vũ khí này sẽ thiêu đốt mục tiêu trong vài giây.",
+    "item.celestisynth.solaris.passive_desc_2": "Khi nhấn giữ chuột phải với Solaris, người chơi có thể triệu hồi tối đa 5 quả cầu lửa mặt trời bay quanh bản thân. Gây sát thương lên kẻ địch sẽ điều hướng cầu lửa lao vào chúng.",
+    "item.celestisynth.crescentia.passive_desc_1": "Người cầm nhận thêm một tầng Kháng Sát Thương - đòn tấn công thông thường với vũ khí này sẽ làm chậm mục tiêu trong vài giây.",
+    "item.celestisynth.breezebreaker.passive_desc_1": "Người cầm được tăng mạnh độ cao nhảy và miễn nhiễm sát thương rơi khi cầm vũ khí, nhưng nhận 2.3x sát thương từ mọi nguồn khác.",
+    "item.celestisynth.breezebreaker.passive_desc_2": "Mỗi 15 lần tung kỹ năng sẽ kích hoạt hoặc hủy kích hoạt nội tại này. Khi kích hoạt, người chơi được tăng tốc chạy và giảm 50% thời gian hồi chiêu. Hiệu ứng kết thúc sau 8 giây.",
+    "item.celestisynth.poltergeist.passive_desc_1": "Mọi kỹ năng của vũ khí này khắc Dấu Ấn Hồn Ma lên mọi thực thể trúng đòn. Kẻ địch bị tiêu diệt mang dấu ấn sẽ biến thành Quái Dị Thể, hút các thực thể xung quanh lại trong 5 giây.",
+    "item.celestisynth.frostbound.passive_desc_1": "Gây sát thương lên mục tiêu bằng vũ khí này sẽ áp dụng trạng thái Băng Giá, làm chậm mục tiêu và tích lũy Mảnh Băng.",
+    "item.celestisynth.frostbound.passive_desc_2": "Khi nhấn giữ chuột phải với Frostbound, vũ khí tiêu hao Mảnh Băng và phóng chúng về phía các thực thể ngẫu nhiên gần đó, đóng băng chúng trong vài giây.",
+    "item.celestisynth.keres.passive_desc_1": "Sau khi tấn công trúng mục tiêu liên tiếp 5 lần, người cầm kích hoạt Trạng Thái Huyết Nộ.",
+    "item.celestisynth.keres.passive_desc_2": "Khi dùng Keres thi triển kỹ năng, người cầm hiến tế 1.5 máu mỗi vài giây, nhưng mỗi kỹ năng đánh trúng mục tiêu sẽ hồi lại một lượng máu nhất định.",
+    "item.celestisynth.keres.passive_desc_3": "Khi kỹ năng trúng mục tiêu, gây hiệu ứng Phá Nguyền lên mục tiêu trong 5 giây, làm giảm mạnh khả năng hồi phục của chúng.",
+    "item.celestisynth.aquaflora.passive_desc_1": "Mỗi lần tung kỹ năng tăng 3 giây tốc độ di chuyển cho người dùng.",
+    "item.celestisynth.solaris.condition_2": "Kích hoạt: Chuột phải khi đang giữ SHIFT",
+    "item.celestisynth.crescentia.condition_2": "Kích hoạt: Chuột phải khi đang giữ SHIFT",
+    "item.celestisynth.breezebreaker.condition_3": "Kích hoạt: Chuột phải khi đang giữ SHIFT",
+    "item.celestisynth.poltergeist.condition_2": "Kích hoạt: Chuột phải khi đang giữ SHIFT",
+    "item.celestisynth.aquaflora.condition_2": "Kích hoạt: Chuột phải khi đang giữ SHIFT",
+    "item.celestisynth.aquaflora.condition_4": "Kích hoạt: Chuột phải khi đang giữ SHIFT trong Trạng Thái Nở Rộ",
+    "item.celestisynth.rainfall_serenity.condition_3": "Kích hoạt: Chuột phải khi đang giữ SHIFT",
+    "item.celestisynth.frostbound.condition_2": "Kích hoạt: Chuột phải khi đang giữ SHIFT",
+    "item.celestisynth.keres.condition_2": "Kích hoạt: Chuột phải khi đang giữ SHIFT",
+
+    # Dungeons and Combat
+    "advancements.the_forgotten_knight.descr": "Thế giới đã lãng quên bạn, và sứ mệnh của bạn là báo thù",
+    "advancements.the_forgotten_knight.title": "Hiệp Sĩ Bị Lãng Quên",
+    "advancements.blood_is_fuel_hell_is_full.descr": "Hiến tế máu cho Giáp Huyết Sắc",
+    "advancements.the_new_god_of_the_sun.descr": "Trang bị đầy đủ bộ giáp Vàng Ban Phước vào ban ngày",
+    "advancements.the_new_god_of_the_sun.title": "Thần Mặt Trời Mới",
+    "advancements.the_bloody_cult.descr": "Tìm kiếm kiến trúc của những kẻ tôn sùng Huyết Thần",
+    "advancements.the_bloody_cult.title": "Tà Giáo Huyết Tộc",
+    "advancements.born_of_blood.descr": "Triệu hồi một dân làng bằng Máu trong Chén Thánh",
+    "advancements.born_of_blood.title": "Huyết Sinh",
+    "advancements.old_friends.descr": "Tiếp thêm năng lượng cho ánh sáng Sunleia bằng Bọ Ban Phước",
+    "advancements.hiddeninthe_cult.title": "Ẩn Mình Trong Bóng Tối",
+    "advancements.catacumbs_lugubrious.descr": "Đối mặt với kẻ thù đầu tiên trong Hầm Mộ U Ám",
+    "advancements.the_man_of_steel.descr": "Chế tạo một bộ giáp hoàn chỉnh từ thép",
+    "advancements.the_man_of_steel.title": "Người Thép",
+    "advancements.a_infernal_fortress.descr": "Tiến vào Pháo Đài Rực Lửa và đối mặt với thực thể Lửa",
+    "advancements.the_bloodymancer.descr": "Đoạt lấy Viên Ngọc Máu",
+    "advancements.the_bloodymancer.title": "Huyết Thuật Sư",
+    "advancements.witch.descr": "Dùng Cào Sắt để tấn công Phù Thủy",
+    "advancements.the_bounty_hunter.title": "Thợ Săn Tiền Thưởng",
+    "advancements.the_rogue.title": "Kẻ Đạo Tặc",
+    "advancements.the_rogue.descr": "Bạn là kẻ dối trá bị truy nã gắt gao nhất",
+    "advancements.the_exiled.descr": "Cảm giác tội lỗi gặm nhấm tâm hồn",
+    "advancements.the_exiled.title": "Kẻ Lưu Đày",
+    "advancements.dungeons_and_combat.descr": "Các hầm ngục đang chờ đón bạn bước vào",
+    "advancements.forgotten_sands.descr": "Chiến đấu với Quái Vật ở Vùng Cát Lãng Quên",
+    "advancements.let_the_ceremony_begin.descr": "Đoạt lấy Dao Găm Nghi Lễ",
+    "advancements.let_the_ceremony_begin.title": "Nghi Lễ Bắt Đầu",
+    "advancements.the_new_gravedigger.descr": "Sử dụng Gravedigger để triệu hồi Kẻ Tay Trắng",
+    "advancements.the_new_gravedigger.title": "Kẻ Đào Mộ Mới",
+    "advancements.no_soy_dendy.descr": "Cảm ơn Dendy đã hợp tác phát triển bản mod",
+    "advancements.i_dont_think_you_need_it.descr": "Thu thập nanh của quái thú Ammit",
+    "gui.dungeons_and_combat.oni_slayer_class_gui.label_the_effect_ends: the effect ends": "hiệu ứng kết thúc",
+
+    # EEEAB's Mobs
+    "item.eeeabsmobs.animation_controller.tip": "Chuột trái để chọn thực thể hoạt ảnh và chuột phải để phát hoạt ảnh.",
+    "item.eeeabsmobs.guardian_core.tip_1": "Nhấn giữ chuột phải để phóng tia laser, gây 5 sát thương cơ bản kèm 1% máu tối đa của mục tiêu.",
+    "item.eeeabsmobs.chainsword.tip": "Khi không có thời gian hồi chiêu tấn công, gây sát thương lên cùng loại mục tiêu sẽ tích tầng cường hóa sát thương.",
+    "item.eeeabsmobs.doombolt_battleaxe.tip": "Nhấn giữ chuột phải để ném rìu. Khi va chạm, nó giải phóng một luồng lôi điện diện rộng thiêu đốt và làm choáng kẻ địch.",
+    "item.eeeabsmobs.soul_summon_necklace.tip": "Chịu sát thương tích lũy đến %1$s sẽ triệu hồi Xác Chết chiến đấu thay bạn.",
+    "item.eeeabsmobs.immortal_staff.tip": "Chuột phải để phóng bom vu sư, có 25% cơ hội cơ bản bắn ra quả bom cường hóa sát thương cực đại.",
+    "item.eeeabsmobs.guardian_axe.tip_2": "Chuột phải vào mặt đất để thi triển kỹ năng gây sát thương phép diện rộng.",
+
+    # EFN
+    "item.efn.meen_spear.description1": "Toàn bộ thân súng được chế tác từ hợp kim Netherite. Thân thương hỏa khí cực nặng khiến người cầm khó có thể thi triển các chiêu thức thương thuật thông thường.",
+
+    # Elytra Utilities
+    "gui.elytrautilities.config.toggleIcon.description": "Nếu bật, biểu tượng cảnh báo sẽ hiển thị trên HUD khi tính năng bay lượn cánh cứng bị tắt.",
+    "datapack_edit.weapon_type.offhand_validator.tooltip": "Xác định khả năng hiển thị của vật phẩm tay phụ khi đang cầm vũ khí có phong cách chiến đấu.",
+
+    # Legendary Monsters
+    "item.legendary_monsters.soul_great_sword2": " tương đương sát thương vũ khí + 30% sát thương phản lại, đồng thời hồi 20% lượng máu cho bạn.",
+    "item.legendary_monsters.withered_ribcage2": "§7 khỏi hiệu ứng khô héo, và gây hiệu ứng khô héo lên các thực thể tấn công bạn.",
+    "item.legendary_monsters.axe_of_lightning3": "§7hướng bạn đang nhìn§6[Sát thương sóng xung kích mỗi lần trúng, Xuyên Giáp]",
+    "item.legendary_monsters.shulker_helmet1": "§7 Mũ bảo hiểm này bảo vệ người chơi khỏi hiệu ứng bay lơ lửng của Shulker.",
+    "item.legendary_monsters.fiery_jaw2": "§7 bán kính 3 khối, đẩy lùi khỏi người chơi, và người chơi bắt đầu thở ra lửa.",
+    "item.legendary_monsters.golden_halberd1": "§6Kỹ Năng Đặc Biệt: §7 25% Cơ hội gây hiệu ứng 'Chảy Máu' cho kẻ địch.",
+    "item.legendary_monsters.spiky_shield1": "§6Kỹ Năng Đặc Biệt: §7 50% Cơ hội gây hiệu ứng 'Chảy Máu' cho kẻ địch.",
+    "item.legendary_monsters.spiky_shield2": "§7phản sát thương ngược lại kẻ địch khi bạn đang giơ khiên chắn.",
+    "item.legendary_monsters.spiky_shield3": "§2[Sát thương: 5 + 25% sức tấn công của kẻ địch] ",
+    "item.legendary_monsters.totem_of_moss1": "§6Chuột phải vào một Khối để triệu hồi Golem Rêu phong giúp cây trồng phát triển nhanh hơn",
+    "item.legendary_monsters.totem_of_moss2": "§7và hỗ trợ bạn trong chiến đấu. Golem được tự động thuần phục và trung thành.",
+    
+    # Fight More weapon names
+    "item.fight_more.agony_p": "Agony",
+    "item.fight_more.ruine_p": "Ruine",
+    "item.fight_more.satsujin_p": "Satsujin",
+    "item.fight_more.solar_p": "Solar",
+    "item.fight_more.antitheus_p": "Antitheus",
+    "item.fight_more.ender_blaster_p": "Ender Blaster",
+    "item.fight_more.moonless_p": "Moonless",
+    "item.fight_more.gesetz_p": "Gesetz",
+    "item.fight_more.herrscher_p": "Herrscher",
+    "item.fight_more.torment_p": "Torment"
+}
+
+with open("D:/minecraft mod trung/tools/overrides_dict.json", "w", encoding="utf-8") as f:
+    json.dump(overrides, f, ensure_ascii=False, indent=2)
+
+print(f"Saved {len(overrides)} custom translations to overrides_dict.json")

@@ -1,0 +1,287 @@
+{
+  "itemGroup.creeperoverhaul.item_group": {
+    "en": "Creeper Overhaul",
+    "zh": "苦力怕革新",
+    "vi": "Đổi mới cây leo"
+  },
+  "entity.creeperoverhaul.jungle_creeper": {
+    "en": "Jungle Creeper",
+    "zh": "丛林苦力怕",
+    "vi": "Jungle Creeper"
+  },
+  "item.creeperoverhaul.jungle_creeper_spawn_egg": {
+    "en": "Jungle Creeper Spawn Egg",
+    "zh": "丛林苦力怕刷怪蛋",
+    "vi": "Jungle Creeper Spawn Egg"
+  },
+  "entity.creeperoverhaul.bamboo_creeper": {
+    "en": "Bamboo Creeper",
+    "zh": "竹竿苦力怕",
+    "vi": "Bamboo Creeper"
+  },
+  "item.creeperoverhaul.bamboo_creeper_spawn_egg": {
+    "en": "Bamboo Creeper Spawn Egg",
+    "zh": "竹竿苦力怕刷怪蛋",
+    "vi": "Bamboo Creeper Spawn Egg"
+  },
+  "entity.creeperoverhaul.desert_creeper": {
+    "en": "Desert Creeper",
+    "zh": "沙漠苦力怕",
+    "vi": "Desert Creeper"
+  },
+  "item.creeperoverhaul.desert_creeper_spawn_egg": {
+    "en": "Desert Creeper Spawn Egg",
+    "zh": "沙漠苦力怕刷怪蛋",
+    "vi": "Desert Creeper Spawn Egg"
+  },
+  "entity.creeperoverhaul.badlands_creeper": {
+    "en": "Badlands Creeper",
+    "zh": "恶地苦力怕",
+    "vi": "Badlands Creeper"
+  },
+  "item.creeperoverhaul.badlands_creeper_spawn_egg": {
+    "en": "Badlands Creeper Spawn Egg",
+    "zh": "恶地苦力怕刷怪蛋",
+    "vi": "Badlands Creeper Spawn Egg"
+  },
+  "entity.creeperoverhaul.hills_creeper": {
+    "en": "Hills Creeper",
+    "zh": "山地苦力怕",
+    "vi": "Hills Creeper"
+  },
+  "item.creeperoverhaul.hills_creeper_spawn_egg": {
+    "en": "Hills Creeper Spawn Egg",
+    "zh": "山地苦力怕刷怪蛋",
+    "vi": "Hills Creeper Spawn Egg"
+  },
+  "entity.creeperoverhaul.savannah_creeper": {
+    "en": "Savannah Creeper",
+    "zh": "稀树苦力怕",
+    "vi": "Savannah Creeper"
+  },
+  "item.creeperoverhaul.savannah_creeper_spawn_egg": {
+    "en": "Savannah Creeper Spawn Egg",
+    "zh": "稀树苦力怕刷怪蛋",
+    "vi": "Savannah Creeper Spawn Egg"
+  },
+  "entity.creeperoverhaul.mushroom_creeper": {
+    "en": "Mushroom Creeper",
+    "zh": "蘑菇苦力怕",
+    "vi": "Mushroom Creeper"
+  },
+  "item.creeperoverhaul.mushroom_creeper_spawn_egg": {
+    "en": "Mushroom Creeper Spawn Egg",
+    "zh": "蘑菇苦力怕刷怪蛋",
+    "vi": "Mushroom Creeper Spawn Egg"
+  },
+  "entity.creeperoverhaul.swamp_creeper": {
+    "en": "Swamp Creeper",
+    "zh": "沼泽苦力怕",
+    "vi": "Swamp Creeper"
+  },
+  "item.creeperoverhaul.swamp_creeper_spawn_egg": {
+    "en": "Swamp Creeper Spawn Egg",
+    "zh": "沼泽苦力怕刷怪蛋",
+    "vi": "Swamp Creeper Spawn Egg"
+  },
+  "entity.creeperoverhaul.dripstone_creeper": {
+    "en": "Dripstone Creeper",
+    "zh": "滴水石苦力怕",
+    "vi": "Dripstone Creeper"
+  },
+  "item.creeperoverhaul.dripstone_creeper_spawn_egg": {
+    "en": "Dripstone Creeper Spawn Egg",
+    "zh": "滴水石苦力怕刷怪蛋",
+    "vi": "Dripstone Creeper Spawn Egg"
+  },
+  "entity.creeperoverhaul.cave_creeper": {
+    "en": "Cave Creeper",
+    "zh": "洞穴苦力怕",
+    "vi": "Cave Creeper"
+  },
+  "item.creeperoverhaul.cave_creeper_spawn_egg": {
+    "en": "Cave Creeper Spawn Egg",
+    "zh": "洞穴苦力怕刷怪蛋",
+    "vi": "Cave Creeper Spawn Egg"
+  },
+  "entity.creeperoverhaul.dark_oak_creeper": {
+    "en": "Dark Oak Creeper",
+    "zh": "深橡苦力怕",
+    "vi": "Dark Oak Creeper"
+  },
+  "item.creeperoverhaul.dark_oak_creeper_spawn_egg": {
+    "en": "Dark Oak Creeper Spawn Egg",
+    "zh": "深橡苦力怕刷怪蛋",
+    "vi": "Dark Oak Creeper Spawn Egg"
+  },
+  "entity.creeperoverhaul.spruce_creeper": {
+    "en": "Spruce Creeper",
+    "zh": "云杉苦力怕",
+    "vi": "Spruce Creeper"
+  },
+  "item.creeperoverhaul.spruce_creeper_spawn_egg": {
+    "en": "Spruce Creeper Spawn Egg",
+    "zh": "云杉苦力怕刷怪蛋",
+    "vi": "Spruce Creeper Spawn Egg"
+  },
+  "entity.creeperoverhaul.beach_creeper": {
+    "en": "Beach Creeper",
+    "zh": "沙滩苦力怕",
+    "vi": "Beach Creeper"
+  },
+  "item.creeperoverhaul.beach_creeper_spawn_egg": {
+    "en": "Beach Creeper Spawn Egg",
+    "zh": "沙滩苦力怕刷怪蛋",
+    "vi": "Beach Creeper Spawn Egg"
+  },
+  "entity.creeperoverhaul.snowy_creeper": {
+    "en": "Snowy Creeper",
+    "zh": "雪原苦力怕",
+    "vi": "Snowy Creeper"
+  },
+  "item.creeperoverhaul.snowy_creeper_spawn_egg": {
+    "en": "Snowy Creeper Spawn Egg",
+    "zh": "雪原苦力怕刷怪蛋",
+    "vi": "Snowy Creeper Spawn Egg"
+  },
+  "entity.creeperoverhaul.ocean_creeper": {
+    "en": "Ocean Creeper",
+    "zh": "海洋苦力怕",
+    "vi": "Ocean Creeper"
+  },
+  "item.creeperoverhaul.ocean_creeper_spawn_egg": {
+    "en": "Ocean Creeper Spawn Egg",
+    "zh": "海洋苦力怕刷怪蛋",
+    "vi": "Ocean Creeper Spawn Egg"
+  },
+  "block.creeperoverhaul.tiny_cactus": {
+    "en": "Tiny Cactus",
+    "zh": "小仙人掌",
+    "vi": "Tiny Cactus"
+  },
+  "block.creeperoverhaul.potted_tiny_cactus": {
+    "en": "Potted Tiny Cactus",
+    "zh": null,
+    "vi": null
+  },
+  "subtitles.creeperoverhaul.entity.wood.creeper.hit": {
+    "en": "Creeper hit",
+    "zh": null,
+    "vi": null
+  },
+  "subtitles.creeperoverhaul.entity.wood.creeper.death": {
+    "en": "Creeper dies",
+    "zh": null,
+    "vi": null
+  },
+  "subtitles.creeperoverhaul.entity.wood.creeper.hurt": {
+    "en": "Creeper hurts",
+    "zh": null,
+    "vi": null
+  },
+  "subtitles.creeperoverhaul.entity.wood.creeper.prime": {
+    "en": "Creeper hisses",
+    "zh": null,
+    "vi": null
+  },
+  "subtitles.creeperoverhaul.entity.wood.creeper.explosion": {
+    "en": "Creeper explosion",
+    "zh": null,
+    "vi": null
+  },
+  "subtitles.creeperoverhaul.entity.plant.creeper.hit": {
+    "en": "Creeper hit",
+    "zh": null,
+    "vi": null
+  },
+  "subtitles.creeperoverhaul.entity.plant.creeper.death": {
+    "en": "Creeper dies",
+    "zh": null,
+    "vi": null
+  },
+  "subtitles.creeperoverhaul.entity.plant.creeper.hurt": {
+    "en": "Creeper hurts",
+    "zh": null,
+    "vi": null
+  },
+  "subtitles.creeperoverhaul.entity.plant.creeper.prime": {
+    "en": "Creeper hisses",
+    "zh": null,
+    "vi": null
+  },
+  "subtitles.creeperoverhaul.entity.plant.creeper.explosion": {
+    "en": "Creeper explosion",
+    "zh": null,
+    "vi": null
+  },
+  "subtitles.creeperoverhaul.entity.stone.creeper.hit": {
+    "en": "Creeper hit",
+    "zh": null,
+    "vi": null
+  },
+  "subtitles.creeperoverhaul.entity.stone.creeper.death": {
+    "en": "Creeper dies",
+    "zh": null,
+    "vi": null
+  },
+  "subtitles.creeperoverhaul.entity.stone.creeper.hurt": {
+    "en": "Creeper hurts",
+    "zh": null,
+    "vi": null
+  },
+  "subtitles.creeperoverhaul.entity.stone.creeper.prime": {
+    "en": "Creeper hisses",
+    "zh": null,
+    "vi": null
+  },
+  "subtitles.creeperoverhaul.entity.stone.creeper.explosion": {
+    "en": "Creeper explosion",
+    "zh": null,
+    "vi": null
+  },
+  "subtitles.creeperoverhaul.entity.sand.creeper.hit": {
+    "en": "Creeper hit",
+    "zh": null,
+    "vi": null
+  },
+  "subtitles.creeperoverhaul.entity.sand.creeper.death": {
+    "en": "Creeper dies",
+    "zh": null,
+    "vi": null
+  },
+  "subtitles.creeperoverhaul.entity.sand.creeper.hurt": {
+    "en": "Creeper hurts",
+    "zh": null,
+    "vi": null
+  },
+  "subtitles.creeperoverhaul.entity.sand.creeper.prime": {
+    "en": "Creeper hisses",
+    "zh": null,
+    "vi": null
+  },
+  "subtitles.creeperoverhaul.entity.sand.creeper.explosion": {
+    "en": "Creeper explosion",
+    "zh": null,
+    "vi": null
+  },
+  "subtitles.creeperoverhaul.entity.ocean.creeper.death": {
+    "en": "Creeper dies",
+    "zh": null,
+    "vi": null
+  },
+  "subtitles.creeperoverhaul.entity.ocean.creeper.hurt": {
+    "en": "Creeper hurts",
+    "zh": null,
+    "vi": null
+  },
+  "subtitles.creeperoverhaul.entity.ocean.creeper.inflate": {
+    "en": "Ocean Creeper inflates",
+    "zh": null,
+    "vi": null
+  },
+  "subtitles.creeperoverhaul.entity.ocean.creeper.deflate": {
+    "en": "Ocean Creeper deflates",
+    "zh": null,
+    "vi": null
+  }
+}

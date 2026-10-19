@@ -1,0 +1,17 @@
+{
+  "name": "Soulrender (Thiết Hồn)",
+  "icon": "simplyswords:soulstealer",
+  "advancement": "simplyswords:soulstealer",
+  "category": "simplyswords:category_unique_weapons",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:soulstealer",
+      "text": "Đoạt lấy linh hồn và thao túng giác quan, khiến tâm trí đối phương hỗn loạn và không thể nhận biết vị trí của bạn."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Vũ khí bí ẩn khôn lường, chỉ kẻ nắm giữ sức mạnh hắc ám tột cùng mới có thể điều khiển."
+    }
+  ]
+}

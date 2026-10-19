@@ -1,0 +1,1752 @@
+{
+  "aci.util.auto_detected": {
+    "en": "Auto-detected: %s",
+    "zh": "自动检测：%s",
+    "vi": null
+  },
+  "aci.util.missing": {
+    "en": "Not implemented: %s",
+    "zh": "未实现：%s",
+    "vi": null
+  },
+  "ali.description.chance": {
+    "en": "Chance: %s%s",
+    "zh": "概率：%s%s",
+    "vi": null
+  },
+  "ali.description.chance_bonus": {
+    "en": "%s (%s %s)",
+    "zh": "%s（%s %s）",
+    "vi": null
+  },
+  "ali.description.count": {
+    "en": "Count: %s",
+    "zh": "数量：%s",
+    "vi": null
+  },
+  "ali.description.count_bonus": {
+    "en": "%s (%s %s)",
+    "zh": "%s（%s %s）",
+    "vi": null
+  },
+  "ali.description.quality": {
+    "en": "Quality: %s",
+    "zh": "质量：%s",
+    "vi": null
+  },
+  "ali.description.rolls": {
+    "en": "Rolls: %s%s",
+    "zh": "抽取次数：%s%s",
+    "vi": null
+  },
+  "ali.enum.group_type.all": {
+    "en": "Selects all entries",
+    "zh": "选择所有条目",
+    "vi": null
+  },
+  "ali.enum.group_type.alternatives": {
+    "en": "Selects only first successful entry",
+    "zh": "仅选择首个成功的条目",
+    "vi": null
+  },
+  "ali.enum.group_type.dynamic": {
+    "en": "Dynamic block-specific drops",
+    "zh": "方块特定的动态掉落物",
+    "vi": null
+  },
+  "ali.enum.group_type.empty": {
+    "en": "Drops nothing",
+    "zh": "无掉落物",
+    "vi": null
+  },
+  "ali.enum.group_type.missing": {
+    "en": "Not implemented",
+    "zh": "未实现",
+    "vi": null
+  },
+  "ali.enum.group_type.random": {
+    "en": "Selects random entry",
+    "zh": "选择随机条目",
+    "vi": null
+  },
+  "ali.enum.group_type.sequence": {
+    "en": "Selects entries sequentially until first failed",
+    "zh": "按顺序选择条目直至失败",
+    "vi": null
+  },
+  "ali.error.detail_not_available": {
+    "en": "Detail Not Available",
+    "zh": null,
+    "vi": null
+  },
+  "ali.error.modified_item": {
+    "en": "Modified dynamically!",
+    "zh": null,
+    "vi": null
+  },
+  "ali.property.branch.advancements": {
+    "en": "Advancements:",
+    "zh": "进度：",
+    "vi": null
+  },
+  "ali.property.branch.all": {
+    "en": "All:",
+    "zh": "所有：",
+    "vi": null
+  },
+  "ali.property.branch.any": {
+    "en": "Any:",
+    "zh": "任意：",
+    "vi": null
+  },
+  "ali.property.branch.banner_patterns": {
+    "en": "Banner Patterns:",
+    "zh": "旗帜图案：",
+    "vi": null
+  },
+  "ali.property.branch.biomes": {
+    "en": "Biomes:",
+    "zh": "生物群系：",
+    "vi": null
+  },
+  "ali.property.branch.block_predicate": {
+    "en": "Block Predicate:",
+    "zh": "方块谓词：",
+    "vi": null
+  },
+  "ali.property.branch.blocks": {
+    "en": "Blocks:",
+    "zh": "方块：",
+    "vi": null
+  },
+  "ali.property.branch.chest": {
+    "en": "Chest:",
+    "zh": "胸甲：",
+    "vi": null
+  },
+  "ali.property.branch.condition": {
+    "en": "Predicate:",
+    "zh": null,
+    "vi": null
+  },
+  "ali.property.branch.conditions": {
+    "en": "Predicates:",
+    "zh": "谓词：",
+    "vi": null
+  },
+  "ali.property.branch.criterions": {
+    "en": "Criterions:",
+    "zh": "准则：",
+    "vi": null
+  },
+  "ali.property.branch.dimensions": {
+    "en": "Dimensions:",
+    "zh": "维度：",
+    "vi": null
+  },
+  "ali.property.branch.direct_entity": {
+    "en": "Direct Entity:",
+    "zh": "直接实体：",
+    "vi": null
+  },
+  "ali.property.branch.distance_to_player": {
+    "en": "Distance to Player:",
+    "zh": "与玩家距离：",
+    "vi": null
+  },
+  "ali.property.branch.enchantments": {
+    "en": "Enchantments:",
+    "zh": "魔咒：",
+    "vi": null
+  },
+  "ali.property.branch.entity_equipment": {
+    "en": "Entity Equipment:",
+    "zh": "实体装备：",
+    "vi": null
+  },
+  "ali.property.branch.entity_flags": {
+    "en": "Entity Flags:",
+    "zh": "实体特质：",
+    "vi": null
+  },
+  "ali.property.branch.entity_sub_predicate": {
+    "en": "Entity Sub Predicate:",
+    "zh": "实体子谓词：",
+    "vi": null
+  },
+  "ali.property.branch.entity_types": {
+    "en": "Entity Types:",
+    "zh": null,
+    "vi": null
+  },
+  "ali.property.branch.equipment_slots": {
+    "en": "Equipment Slots:",
+    "zh": "装备槽位：",
+    "vi": null
+  },
+  "ali.property.branch.feet": {
+    "en": "Feet:",
+    "zh": "靴子：",
+    "vi": null
+  },
+  "ali.property.branch.fluid_predicate": {
+    "en": "Fluid Predicate:",
+    "zh": "流体谓词：",
+    "vi": null
+  },
+  "ali.property.branch.head": {
+    "en": "Head:",
+    "zh": "头盔：",
+    "vi": null
+  },
+  "ali.property.branch.item": {
+    "en": "Item:",
+    "zh": "物品：",
+    "vi": null
+  },
+  "ali.property.branch.items": {
+    "en": "Items:",
+    "zh": "物品：",
+    "vi": null
+  },
+  "ali.property.branch.legs": {
+    "en": "Legs:",
+    "zh": "护腿：",
+    "vi": null
+  },
+  "ali.property.branch.location": {
+    "en": "Location:",
+    "zh": "位置：",
+    "vi": null
+  },
+  "ali.property.branch.looking_at": {
+    "en": "Looking At:",
+    "zh": null,
+    "vi": null
+  },
+  "ali.property.branch.lore": {
+    "en": "Lore:",
+    "zh": "描述信息：",
+    "vi": null
+  },
+  "ali.property.branch.mainhand": {
+    "en": "Main Hand:",
+    "zh": "主手：",
+    "vi": null
+  },
+  "ali.property.branch.mob_effects": {
+    "en": "Mob Effects:",
+    "zh": "生物状态效果：",
+    "vi": null
+  },
+  "ali.property.branch.modifier": {
+    "en": "Modifier:",
+    "zh": "修饰符：",
+    "vi": null
+  },
+  "ali.property.branch.offhand": {
+    "en": "Offhand:",
+    "zh": "副手：",
+    "vi": null
+  },
+  "ali.property.branch.operation": {
+    "en": "Operation:",
+    "zh": "操作：",
+    "vi": null
+  },
+  "ali.property.branch.operations": {
+    "en": "Operations:",
+    "zh": "操作：",
+    "vi": null
+  },
+  "ali.property.branch.passenger": {
+    "en": "Passenger:",
+    "zh": "所承载的实体：",
+    "vi": null
+  },
+  "ali.property.branch.predicate": {
+    "en": "Predicate:",
+    "zh": "谓词：",
+    "vi": null
+  },
+  "ali.property.branch.properties": {
+    "en": "Properties:",
+    "zh": "属性：",
+    "vi": null
+  },
+  "ali.property.branch.recipes": {
+    "en": "Recipes:",
+    "zh": "配方：",
+    "vi": null
+  },
+  "ali.property.branch.scores": {
+    "en": "Scores:",
+    "zh": "分数：",
+    "vi": null
+  },
+  "ali.property.branch.source_entity": {
+    "en": "Source Entity:",
+    "zh": "来源实体：",
+    "vi": null
+  },
+  "ali.property.branch.source_names": {
+    "en": "Source Names:",
+    "zh": "来源名称：",
+    "vi": null
+  },
+  "ali.property.branch.stats": {
+    "en": "Stats:",
+    "zh": "统计信息：",
+    "vi": null
+  },
+  "ali.property.branch.stepping_on_location": {
+    "en": "Stepping on Location:",
+    "zh": "脚下位置：",
+    "vi": null
+  },
+  "ali.property.branch.stored_enchantments": {
+    "en": "Stored Enchantments:",
+    "zh": "储存的魔咒：",
+    "vi": null
+  },
+  "ali.property.branch.structures": {
+    "en": "Structures:",
+    "zh": "结构：",
+    "vi": null
+  },
+  "ali.property.branch.stuck_entity": {
+    "en": "Stuck Entity:",
+    "zh": "所击中的实体：",
+    "vi": null
+  },
+  "ali.property.branch.tags": {
+    "en": "Tags:",
+    "zh": "标签：",
+    "vi": null
+  },
+  "ali.property.branch.targeted_entity": {
+    "en": "Targeted Entity:",
+    "zh": "目标实体：",
+    "vi": null
+  },
+  "ali.property.branch.vehicle": {
+    "en": "Vehicle:",
+    "zh": "所骑乘的实体：",
+    "vi": null
+  },
+  "ali.property.multi.offset": {
+    "en": "Offset: [X: %s, Y: %s, Z: %s]",
+    "zh": "偏移：[X: %s, Y: %s, Z: %s]",
+    "vi": null
+  },
+  "ali.property.value.absolute": {
+    "en": "Absolute: %s",
+    "zh": "绝对距离：%s",
+    "vi": null
+  },
+  "ali.property.value.add": {
+    "en": "Add: %s",
+    "zh": "增量模式：%s",
+    "vi": null
+  },
+  "ali.property.value.allow_duplicate_loot": {
+    "en": "Allow Duplicate Loot: %s",
+    "zh": "允许重复战利品：%s",
+    "vi": null
+  },
+  "ali.property.value.amount": {
+    "en": "Amount: %s",
+    "zh": "数量：%s",
+    "vi": null
+  },
+  "ali.property.value.amplifier": {
+    "en": "Amplifier: %s",
+    "zh": "倍率：%s",
+    "vi": null
+  },
+  "ali.property.value.append": {
+    "en": "Append: %s",
+    "zh": "附加：%s",
+    "vi": null
+  },
+  "ali.property.value.attribute": {
+    "en": "Attribute: %s",
+    "zh": "属性：%s",
+    "vi": null
+  },
+  "ali.property.value.banner_pattern": {
+    "en": "Banner Pattern: %s",
+    "zh": "旗帜图案：%s",
+    "vi": null
+  },
+  "ali.property.value.biome": {
+    "en": "Biome: %s",
+    "zh": "生物群系：%s",
+    "vi": null
+  },
+  "ali.property.value.block": {
+    "en": "Block: %s",
+    "zh": "方块：%s",
+    "vi": null
+  },
+  "ali.property.value.block_entity_type": {
+    "en": "Block Entity Type: %s",
+    "zh": "方块实体类型：%s",
+    "vi": null
+  },
+  "ali.property.value.blocks_on_fire": {
+    "en": "Blocks On Fire: %s",
+    "zh": "着火方块：%s",
+    "vi": null
+  },
+  "ali.property.value.bonus_multiplier": {
+    "en": "Bonus Multiplier: %s",
+    "zh": "加成乘数：%s",
+    "vi": null
+  },
+  "ali.property.value.color": {
+    "en": "Color: %s",
+    "zh": "颜色：%s",
+    "vi": null
+  },
+  "ali.property.value.count": {
+    "en": "Count: %s",
+    "zh": "数量：%s",
+    "vi": null
+  },
+  "ali.property.value.damage": {
+    "en": "Damage: %s",
+    "zh": "耐久比：%s",
+    "vi": null
+  },
+  "ali.property.value.destination": {
+    "en": "Destination: %s",
+    "zh": "指向结构：%s",
+    "vi": null
+  },
+  "ali.property.value.dimension": {
+    "en": "Dimension: %s",
+    "zh": "维度：%s",
+    "vi": null
+  },
+  "ali.property.value.done": {
+    "en": "Done: %s",
+    "zh": "完成：%s",
+    "vi": null
+  },
+  "ali.property.value.durability": {
+    "en": "Durability: %s",
+    "zh": "耐久度：%s",
+    "vi": null
+  },
+  "ali.property.value.duration": {
+    "en": "Duration: %s",
+    "zh": "持续时间：%s",
+    "vi": null
+  },
+  "ali.property.value.effect": {
+    "en": "Effect: %s",
+    "zh": "状态效果：%s",
+    "vi": null
+  },
+  "ali.property.value.enchantment": {
+    "en": "Enchantment: %s",
+    "zh": "魔咒：%s",
+    "vi": null
+  },
+  "ali.property.value.entity_type": {
+    "en": "Entity Type: %s",
+    "zh": "实体类型：%s",
+    "vi": null
+  },
+  "ali.property.value.equipment_slot": {
+    "en": "Equipment Slot: %s",
+    "zh": null,
+    "vi": null
+  },
+  "ali.property.value.exact": {
+    "en": "Exact: %s",
+    "zh": "精确模式：%s",
+    "vi": null
+  },
+  "ali.property.value.extra_rounds": {
+    "en": "Extra Rounds: %s",
+    "zh": "额外轮次：%s",
+    "vi": null
+  },
+  "ali.property.value.fluid": {
+    "en": "Fluid: %s",
+    "zh": "流体：%s",
+    "vi": null
+  },
+  "ali.property.value.formula": {
+    "en": "Formula: %s",
+    "zh": "公式：%s",
+    "vi": null
+  },
+  "ali.property.value.game_type": {
+    "en": "Game Type: %s",
+    "zh": "游戏类型：%s",
+    "vi": null
+  },
+  "ali.property.value.horizontal": {
+    "en": "Horizontal: %s",
+    "zh": "水平距离：%s",
+    "vi": null
+  },
+  "ali.property.value.id": {
+    "en": "Id: %s",
+    "zh": "ID：%s",
+    "vi": null
+  },
+  "ali.property.value.in_open_water": {
+    "en": "Is In Open Water: %s",
+    "zh": "位于开阔水域：%s",
+    "vi": null
+  },
+  "ali.property.value.is_ambient": {
+    "en": "Is Ambient: %s",
+    "zh": "是否为环境型效果：%s",
+    "vi": null
+  },
+  "ali.property.value.is_baby": {
+    "en": "Is Baby: %s",
+    "zh": "是否为幼体：%s",
+    "vi": null
+  },
+  "ali.property.value.is_crouching": {
+    "en": "Is Crouching: %s",
+    "zh": "是否在潜行：%s",
+    "vi": null
+  },
+  "ali.property.value.is_on_fire": {
+    "en": "Is On Fire: %s",
+    "zh": "是否在着火：%s",
+    "vi": null
+  },
+  "ali.property.value.is_raining": {
+    "en": "Is Raining: %s",
+    "zh": "是否下雨：%s",
+    "vi": null
+  },
+  "ali.property.value.is_sprinting": {
+    "en": "Is Sprinting: %s",
+    "zh": "是否在疾跑：%s",
+    "vi": null
+  },
+  "ali.property.value.is_swimming": {
+    "en": "Is Swimming: %s",
+    "zh": "是否在游泳：%s",
+    "vi": null
+  },
+  "ali.property.value.is_thundering": {
+    "en": "Is Thundering: %s",
+    "zh": "是否雷暴：%s",
+    "vi": null
+  },
+  "ali.property.value.is_visible": {
+    "en": "Is Visible: %s",
+    "zh": "粒子效果是否可见：%s",
+    "vi": null
+  },
+  "ali.property.value.item": {
+    "en": "Item: %s",
+    "zh": "物品：%s",
+    "vi": null
+  },
+  "ali.property.value.item_filter": {
+    "en": "Item Filter: %s",
+    "zh": "物品过滤器：%s",
+    "vi": null
+  },
+  "ali.property.value.level": {
+    "en": "Level: %s",
+    "zh": "等级：%s",
+    "vi": null
+  },
+  "ali.property.value.levels": {
+    "en": "Levels: %s",
+    "zh": "等级：%s",
+    "vi": null
+  },
+  "ali.property.value.light": {
+    "en": "Light: %s",
+    "zh": "光照等级：%s",
+    "vi": null
+  },
+  "ali.property.value.limit": {
+    "en": "Limit: %s",
+    "zh": "限制范围：%s",
+    "vi": null
+  },
+  "ali.property.value.loot_table": {
+    "en": "Loot Table: %s",
+    "zh": "战利品表：%s",
+    "vi": null
+  },
+  "ali.property.value.lore": {
+    "en": "Lore: %s",
+    "zh": "描述信息：%s",
+    "vi": null
+  },
+  "ali.property.value.map_decoration": {
+    "en": "Map Decoration: %s",
+    "zh": "地图图标：%s",
+    "vi": null
+  },
+  "ali.property.value.merge_strategy": {
+    "en": "Merge Strategy: %s",
+    "zh": "合并策略：%s",
+    "vi": null
+  },
+  "ali.property.value.mob_effect": {
+    "en": "Mob Effect: %s",
+    "zh": "生物状态效果：%s",
+    "vi": null
+  },
+  "ali.property.value.multiplier": {
+    "en": "Multiplier: %s",
+    "zh": "成功率调整值：%s",
+    "vi": null
+  },
+  "ali.property.value.name": {
+    "en": "Name: %s",
+    "zh": "名称：%s",
+    "vi": null
+  },
+  "ali.property.value.nbt": {
+    "en": "Nbt: %s",
+    "zh": "NBT：%s",
+    "vi": null
+  },
+  "ali.property.value.nbt_provider": {
+    "en": "Nbt Provider: %s",
+    "zh": "NBT源：%s",
+    "vi": null
+  },
+  "ali.property.value.operation": {
+    "en": "Operation: %s",
+    "zh": "操作：%s",
+    "vi": null
+  },
+  "ali.property.value.options": {
+    "en": "Options: %s",
+    "zh": "选项：%s",
+    "vi": null
+  },
+  "ali.property.value.percent": {
+    "en": "Percent: %s",
+    "zh": "基础成功率：%s",
+    "vi": null
+  },
+  "ali.property.value.period": {
+    "en": "Period: %s",
+    "zh": "周期：%s",
+    "vi": null
+  },
+  "ali.property.value.potion": {
+    "en": "Potion: %s",
+    "zh": "药水效果：%s",
+    "vi": null
+  },
+  "ali.property.value.price_multiplier": {
+    "en": "Price Multiplier: %s",
+    "zh": "价格乘数：%s",
+    "vi": null
+  },
+  "ali.property.value.probability": {
+    "en": "Probability: %s",
+    "zh": "概率p：%s",
+    "vi": null
+  },
+  "ali.property.value.property": {
+    "en": "Property: %s",
+    "zh": null,
+    "vi": null
+  },
+  "ali.property.value.provider": {
+    "en": "Provider: %s",
+    "zh": "待测试值：%s",
+    "vi": null
+  },
+  "ali.property.value.range": {
+    "en": "Range: %s",
+    "zh": "范围：%s",
+    "vi": null
+  },
+  "ali.property.value.ranged_property_any": {
+    "en": "%s: any",
+    "zh": "%s：任意",
+    "vi": null
+  },
+  "ali.property.value.ranged_property_both": {
+    "en": "%s: %s-%s",
+    "zh": "%s：%s-%s",
+    "vi": null
+  },
+  "ali.property.value.ranged_property_gte": {
+    "en": "%s: ≥%s",
+    "zh": "%s：≥%s",
+    "vi": null
+  },
+  "ali.property.value.ranged_property_lte": {
+    "en": "%s: ≤%s",
+    "zh": "%s：≤%s",
+    "vi": null
+  },
+  "ali.property.value.replace": {
+    "en": "Replace: %s",
+    "zh": "替换：%s",
+    "vi": null
+  },
+  "ali.property.value.resolution_context": {
+    "en": "Resolution Context: %s",
+    "zh": "解析上下文：%s",
+    "vi": null
+  },
+  "ali.property.value.search_radius": {
+    "en": "Search Radius: %s",
+    "zh": "搜索半径：%s",
+    "vi": null
+  },
+  "ali.property.value.seed": {
+    "en": "Seed: %s",
+    "zh": "种子：%s",
+    "vi": null
+  },
+  "ali.property.value.size": {
+    "en": "Size: %s",
+    "zh": "大小：%s",
+    "vi": null
+  },
+  "ali.property.value.skip_known_structures": {
+    "en": "Skip Known Structures: %s",
+    "zh": "跳过已生成区块：%s",
+    "vi": null
+  },
+  "ali.property.value.slot": {
+    "en": "Slot: %s",
+    "zh": "槽位：%s",
+    "vi": null
+  },
+  "ali.property.value.smokey": {
+    "en": "Smokey: %s",
+    "zh": "位于营火上方：%s",
+    "vi": null
+  },
+  "ali.property.value.source": {
+    "en": "Source: %s",
+    "zh": "复制源：%s",
+    "vi": null
+  },
+  "ali.property.value.structure": {
+    "en": "Structure: %s",
+    "zh": "结构：%s",
+    "vi": null
+  },
+  "ali.property.value.tag": {
+    "en": "Tag: %s",
+    "zh": "标签：%s",
+    "vi": null
+  },
+  "ali.property.value.target": {
+    "en": "Target: %s",
+    "zh": "目标：%s",
+    "vi": null
+  },
+  "ali.property.value.team": {
+    "en": "Team: %s",
+    "zh": "队伍：%s",
+    "vi": null
+  },
+  "ali.property.value.treasure": {
+    "en": "Treasure: %s",
+    "zh": "宝藏：%s",
+    "vi": null
+  },
+  "ali.property.value.uses": {
+    "en": "Uses: %s",
+    "zh": "最大交易次数：%s",
+    "vi": null
+  },
+  "ali.property.value.uuid": {
+    "en": "UUID: %s",
+    "zh": "UUID：%s",
+    "vi": null
+  },
+  "ali.property.value.value": {
+    "en": "Value: %s",
+    "zh": "数量：%s",
+    "vi": null
+  },
+  "ali.property.value.values": {
+    "en": "Values: %s",
+    "zh": "值：%s",
+    "vi": null
+  },
+  "ali.property.value.variant": {
+    "en": "Variant: %s",
+    "zh": "变种：%s",
+    "vi": null
+  },
+  "ali.property.value.villager_type": {
+    "en": "Villager Type: %s",
+    "zh": "村民种类：%s",
+    "vi": null
+  },
+  "ali.property.value.villager_xp": {
+    "en": "XP: %s",
+    "zh": "经验值：%s",
+    "vi": null
+  },
+  "ali.property.value.x": {
+    "en": "X: %s",
+    "zh": "X轴距离：%s",
+    "vi": null
+  },
+  "ali.property.value.y": {
+    "en": "Y: %s",
+    "zh": "Y轴距离：%s",
+    "vi": null
+  },
+  "ali.property.value.z": {
+    "en": "Z: %s",
+    "zh": "Z轴距离：%s",
+    "vi": null
+  },
+  "ali.property.value.zoom": {
+    "en": "Zoom: %s",
+    "zh": "缩放等级：%s",
+    "vi": null
+  },
+  "ali.type.condition.all_of": {
+    "en": "All Of:",
+    "zh": "所有：",
+    "vi": null
+  },
+  "ali.type.condition.and": {
+    "en": "And:",
+    "zh": "与：",
+    "vi": null
+  },
+  "ali.type.condition.any_biome": {
+    "en": "Any Biome:",
+    "zh": "任意生物群系：",
+    "vi": null
+  },
+  "ali.type.condition.any_dimension": {
+    "en": "Any Dimension:",
+    "zh": "任意维度：",
+    "vi": null
+  },
+  "ali.type.condition.any_of": {
+    "en": "Any Of:",
+    "zh": "任意：",
+    "vi": null
+  },
+  "ali.type.condition.any_structure": {
+    "en": "Any Structure:",
+    "zh": "任意结构：",
+    "vi": null
+  },
+  "ali.type.condition.biome": {
+    "en": "Biome:",
+    "zh": "生物群系：",
+    "vi": null
+  },
+  "ali.type.condition.block_predicate": {
+    "en": "Block Predicate:",
+    "zh": "方块谓词：",
+    "vi": null
+  },
+  "ali.type.condition.block_state_property": {
+    "en": "Block State Property:",
+    "zh": "方块状态属性：",
+    "vi": null
+  },
+  "ali.type.condition.can_tool_perform_action": {
+    "en": "Can Tool Perform Action: %s",
+    "zh": "工具能否执行操作：%s",
+    "vi": null
+  },
+  "ali.type.condition.damage_source_properties": {
+    "en": "Damage Source Properties:",
+    "zh": "伤害来源属性：",
+    "vi": null
+  },
+  "ali.type.condition.direct_killer_predicate": {
+    "en": "Direct Killer Predicate:",
+    "zh": "直接击杀者谓词：",
+    "vi": null
+  },
+  "ali.type.condition.distance_to_killer": {
+    "en": "Distance To Killer:",
+    "zh": "距击杀者距离：",
+    "vi": null
+  },
+  "ali.type.condition.entity_predicate": {
+    "en": "Entity Predicate:",
+    "zh": "实体谓词：",
+    "vi": null
+  },
+  "ali.type.condition.entity_properties": {
+    "en": "Entity Properties:",
+    "zh": "实体属性：",
+    "vi": null
+  },
+  "ali.type.condition.entity_scores": {
+    "en": "Entity Scores:",
+    "zh": "实体分数：",
+    "vi": null
+  },
+  "ali.type.condition.inverted": {
+    "en": "Inverted:",
+    "zh": "取反：",
+    "vi": null
+  },
+  "ali.type.condition.killed_by_player": {
+    "en": "Killed by player",
+    "zh": "被玩家击杀",
+    "vi": null
+  },
+  "ali.type.condition.killer_predicate": {
+    "en": "Killer Predicate:",
+    "zh": "击杀者谓词：",
+    "vi": null
+  },
+  "ali.type.condition.light_level": {
+    "en": "Light Level:",
+    "zh": "光照等级：",
+    "vi": null
+  },
+  "ali.type.condition.location_check": {
+    "en": "Location Check:",
+    "zh": "位置检查：",
+    "vi": null
+  },
+  "ali.type.condition.loot_table_id": {
+    "en": "Loot Table Id: %s",
+    "zh": "战利品表ID：%s",
+    "vi": null
+  },
+  "ali.type.condition.match_damage_source": {
+    "en": "Match Damage Source:",
+    "zh": "匹配伤害来源：",
+    "vi": null
+  },
+  "ali.type.condition.match_equipment_slot": {
+    "en": "Match Equipment Slot:",
+    "zh": "匹配装备槽位：",
+    "vi": null
+  },
+  "ali.type.condition.match_loot": {
+    "en": "Match Loot:",
+    "zh": "匹配战利品：",
+    "vi": null
+  },
+  "ali.type.condition.match_mainhand": {
+    "en": "Match Mainhand:",
+    "zh": "匹配主手：",
+    "vi": null
+  },
+  "ali.type.condition.match_offhand": {
+    "en": "Match Offhand:",
+    "zh": "匹配副手：",
+    "vi": null
+  },
+  "ali.type.condition.match_player": {
+    "en": "Match Player:",
+    "zh": "匹配玩家：",
+    "vi": null
+  },
+  "ali.type.condition.match_tool": {
+    "en": "Match Tool:",
+    "zh": "匹配工具：",
+    "vi": null
+  },
+  "ali.type.condition.not": {
+    "en": "Not:",
+    "zh": "非：",
+    "vi": null
+  },
+  "ali.type.condition.or": {
+    "en": "Or:",
+    "zh": "或：",
+    "vi": null
+  },
+  "ali.type.condition.player_predicate": {
+    "en": "Player Predicate:",
+    "zh": "玩家谓词：",
+    "vi": null
+  },
+  "ali.type.condition.random_chance": {
+    "en": "Random Chance:",
+    "zh": "随机概率：",
+    "vi": null
+  },
+  "ali.type.condition.random_chance_with_enchantment": {
+    "en": "Random Chance With Enchantment:",
+    "zh": "受魔咒影响的随机概率：",
+    "vi": null
+  },
+  "ali.type.condition.random_chance_with_looting": {
+    "en": "Random Chance With Looting:",
+    "zh": "受抢夺影响的随机概率：",
+    "vi": null
+  },
+  "ali.type.condition.reference": {
+    "en": "Reference:",
+    "zh": "引用：%s",
+    "vi": null
+  },
+  "ali.type.condition.survives_explosion": {
+    "en": "Survives Explosion",
+    "zh": "爆炸后存留",
+    "vi": null
+  },
+  "ali.type.condition.table_bonus": {
+    "en": "Table Bonus:",
+    "zh": "魔咒概率表：",
+    "vi": null
+  },
+  "ali.type.condition.time_check": {
+    "en": "Time Check:",
+    "zh": "时间检查：",
+    "vi": null
+  },
+  "ali.type.condition.value_check": {
+    "en": "Value Check:",
+    "zh": "值检查：",
+    "vi": null
+  },
+  "ali.type.condition.weather_check": {
+    "en": "Weather Check:",
+    "zh": "天气检查：",
+    "vi": null
+  },
+  "ali.type.function.apply_bonus": {
+    "en": "Apply Bonus:",
+    "zh": "应用加成：",
+    "vi": null
+  },
+  "ali.type.function.copy_meal": {
+    "en": "Copy Meal",
+    "zh": "复制菜肴",
+    "vi": null
+  },
+  "ali.type.function.copy_name": {
+    "en": "Copy Name:",
+    "zh": "复制名称：",
+    "vi": null
+  },
+  "ali.type.function.copy_nbt": {
+    "en": "Copy Nbt:",
+    "zh": "复制NBT：",
+    "vi": null
+  },
+  "ali.type.function.copy_skillet": {
+    "en": "Copy Skillet",
+    "zh": "复制煎锅",
+    "vi": null
+  },
+  "ali.type.function.copy_state": {
+    "en": "Copy State:",
+    "zh": "复制状态：",
+    "vi": null
+  },
+  "ali.type.function.custom_player": {
+    "en": "Custom Player Modifier:",
+    "zh": "自定义玩家修饰符：",
+    "vi": null
+  },
+  "ali.type.function.dyed_randomly": {
+    "en": "Dyed Randomly",
+    "zh": "随机颜色",
+    "vi": null
+  },
+  "ali.type.function.enchant_randomly": {
+    "en": "Enchant Randomly:",
+    "zh": "随机附魔：",
+    "vi": null
+  },
+  "ali.type.function.enchant_with_levels": {
+    "en": "Enchant With Levels:",
+    "zh": "等级附魔：",
+    "vi": null
+  },
+  "ali.type.function.exploration_map": {
+    "en": "Exploration Map:",
+    "zh": "探险家地图：",
+    "vi": null
+  },
+  "ali.type.function.explosion_decay": {
+    "en": "Explosion Decay",
+    "zh": "作为爆炸产物时，消失概率随爆炸范围衰减",
+    "vi": null
+  },
+  "ali.type.function.fill_player_head": {
+    "en": "Fill Player Head:",
+    "zh": "设置玩家头颅：",
+    "vi": null
+  },
+  "ali.type.function.furnace_smelt": {
+    "en": "Furnace Smelt",
+    "zh": "熔炉烧炼",
+    "vi": null
+  },
+  "ali.type.function.limit_count": {
+    "en": "Limit Count:",
+    "zh": "限制数量：",
+    "vi": null
+  },
+  "ali.type.function.looting_enchant": {
+    "en": "Looting Enchant:",
+    "zh": "抢夺魔咒：",
+    "vi": null
+  },
+  "ali.type.function.reference": {
+    "en": "Reference:",
+    "zh": "引用：",
+    "vi": null
+  },
+  "ali.type.function.set_attributes": {
+    "en": "Set Attributes:",
+    "zh": "设置属性：",
+    "vi": null
+  },
+  "ali.type.function.set_banner_pattern": {
+    "en": "Set Banner Pattern:",
+    "zh": "设置旗帜图案：",
+    "vi": null
+  },
+  "ali.type.function.set_contents": {
+    "en": "Set Contents:",
+    "zh": "设置内容物：",
+    "vi": null
+  },
+  "ali.type.function.set_count": {
+    "en": "Set Count:",
+    "zh": "设置数量：",
+    "vi": null
+  },
+  "ali.type.function.set_damage": {
+    "en": "Set Damage:",
+    "zh": "设置耐久比：",
+    "vi": null
+  },
+  "ali.type.function.set_enchantments": {
+    "en": "Set Enchantments:",
+    "zh": "设置魔咒：",
+    "vi": null
+  },
+  "ali.type.function.set_instrument": {
+    "en": "Set Instrument:",
+    "zh": "设置山羊角种类：",
+    "vi": null
+  },
+  "ali.type.function.set_loot_table": {
+    "en": "Set Loot Table:",
+    "zh": "设置战利品表：",
+    "vi": null
+  },
+  "ali.type.function.set_lore": {
+    "en": "Set Lore:",
+    "zh": "设置描述信息：",
+    "vi": null
+  },
+  "ali.type.function.set_name": {
+    "en": "Set Name:",
+    "zh": "设置名称：",
+    "vi": null
+  },
+  "ali.type.function.set_nbt": {
+    "en": "Set Nbt:",
+    "zh": "设置NBT：",
+    "vi": null
+  },
+  "ali.type.function.set_potion": {
+    "en": "Set Potion:",
+    "zh": "设置药水效果：",
+    "vi": null
+  },
+  "ali.type.function.set_stew_effect": {
+    "en": "Set Stew Effect:",
+    "zh": "设置谜之炖菜效果：",
+    "vi": null
+  },
+  "ali.util.advanced_loot_info.accepts": {
+    "en": "Accepts:",
+    "zh": null,
+    "vi": null
+  },
+  "ali.util.advanced_loot_info.delimiter.conditions": {
+    "en": "----- Predicates -----",
+    "zh": "----- 谓词 -----",
+    "vi": null
+  },
+  "ali.util.advanced_loot_info.delimiter.functions": {
+    "en": "----- Modifiers -----",
+    "zh": "----- 修饰符 -----",
+    "vi": null
+  },
+  "ali/loot_table/archaeology/desert_pyramid": {
+    "en": "Desert Pyramid",
+    "zh": "沙漠金字塔",
+    "vi": null
+  },
+  "ali/loot_table/archaeology/desert_well": {
+    "en": "Desert Well",
+    "zh": "沙漠水井",
+    "vi": null
+  },
+  "ali/loot_table/archaeology/ocean_ruin_cold": {
+    "en": "Ocean Ruin Cold",
+    "zh": "寒带海底废墟",
+    "vi": null
+  },
+  "ali/loot_table/archaeology/ocean_ruin_warm": {
+    "en": "Ocean Ruins Warm",
+    "zh": "热带海底废墟",
+    "vi": null
+  },
+  "ali/loot_table/archaeology/trail_ruins_common": {
+    "en": "Trail Ruins Common",
+    "zh": "古迹废墟（常见）",
+    "vi": null
+  },
+  "ali/loot_table/archaeology/trail_ruins_rare": {
+    "en": "Trail Ruins Rare",
+    "zh": "古迹废墟（稀有）",
+    "vi": null
+  },
+  "ali/loot_table/chests/abandoned_mineshaft": {
+    "en": "Abandoned Mineshaft Chest",
+    "zh": "废弃矿井箱子",
+    "vi": null
+  },
+  "ali/loot_table/chests/ancient_city": {
+    "en": "Ancient City Chest",
+    "zh": "远古城市箱子",
+    "vi": null
+  },
+  "ali/loot_table/chests/ancient_city_ice_box": {
+    "en": "Ancient City Ice Box Chest",
+    "zh": "远古城市冰窖箱子",
+    "vi": null
+  },
+  "ali/loot_table/chests/bastion_bridge": {
+    "en": "Bastion Bridge Chest",
+    "zh": "堡垒遗迹桥箱子",
+    "vi": null
+  },
+  "ali/loot_table/chests/bastion_hoglin_stable": {
+    "en": "Bastion Hoglin Stable Chest",
+    "zh": "堡垒遗迹疣猪兽棚箱子",
+    "vi": null
+  },
+  "ali/loot_table/chests/bastion_other": {
+    "en": "Bastion Other Chest",
+    "zh": "堡垒遗迹其他箱子",
+    "vi": null
+  },
+  "ali/loot_table/chests/bastion_treasure": {
+    "en": "Bastion Treasure Chest",
+    "zh": "堡垒遗迹藏宝室箱子",
+    "vi": null
+  },
+  "ali/loot_table/chests/buried_treasure": {
+    "en": "Buried Treasure Chest",
+    "zh": "埋藏的宝藏箱子",
+    "vi": null
+  },
+  "ali/loot_table/chests/desert_pyramid": {
+    "en": "Desert Pyramid Chest",
+    "zh": "沙漠金字塔箱子",
+    "vi": null
+  },
+  "ali/loot_table/chests/end_city_treasure": {
+    "en": "End City Treasure Chest",
+    "zh": "末地城宝藏箱子",
+    "vi": null
+  },
+  "ali/loot_table/chests/igloo_chest": {
+    "en": "Igloo Chest",
+    "zh": "雪屋箱子",
+    "vi": null
+  },
+  "ali/loot_table/chests/jungle_temple": {
+    "en": "Jungle Temple Chest",
+    "zh": "丛林神庙箱子",
+    "vi": null
+  },
+  "ali/loot_table/chests/jungle_temple_dispenser": {
+    "en": "Jungle Temple Dispenser Chest",
+    "zh": "丛林神庙发射器箱子",
+    "vi": null
+  },
+  "ali/loot_table/chests/nether_bridge": {
+    "en": "Nether Bridge Chest",
+    "zh": "下界要塞桥箱子",
+    "vi": null
+  },
+  "ali/loot_table/chests/pillager_outpost": {
+    "en": "Pillager Outpost Chest",
+    "zh": "掠夺者前哨站箱子",
+    "vi": null
+  },
+  "ali/loot_table/chests/ruined_portal": {
+    "en": "Ruined Portal Chest",
+    "zh": "废弃传送门箱子",
+    "vi": null
+  },
+  "ali/loot_table/chests/shipwreck_map": {
+    "en": "Shipwreck Map Chest",
+    "zh": "沉船地图箱子",
+    "vi": null
+  },
+  "ali/loot_table/chests/shipwreck_supply": {
+    "en": "Shipwreck Supply Chest",
+    "zh": "沉船补给箱子",
+    "vi": null
+  },
+  "ali/loot_table/chests/shipwreck_treasure": {
+    "en": "Shipwreck Treasure Chest",
+    "zh": "沉船宝藏箱子",
+    "vi": null
+  },
+  "ali/loot_table/chests/simple_dungeon": {
+    "en": "Simple Dungeon Chest",
+    "zh": "简单地牢箱子",
+    "vi": null
+  },
+  "ali/loot_table/chests/spawn_bonus_chest": {
+    "en": "Spawn Bonus Chest",
+    "zh": "新世界生成时的奖励箱",
+    "vi": null
+  },
+  "ali/loot_table/chests/stronghold_corridor": {
+    "en": "Stronghold Corridor Chest",
+    "zh": "要塞走廊箱子",
+    "vi": null
+  },
+  "ali/loot_table/chests/stronghold_crossing": {
+    "en": "Stronghold Crossing Chest",
+    "zh": "要塞十字路口箱子",
+    "vi": null
+  },
+  "ali/loot_table/chests/stronghold_library": {
+    "en": "Stronghold Library Chest",
+    "zh": "要塞图书馆箱子",
+    "vi": null
+  },
+  "ali/loot_table/chests/underwater_ruin_big": {
+    "en": "Underwater Ruin Big Chest",
+    "zh": "大型海底废墟箱子",
+    "vi": null
+  },
+  "ali/loot_table/chests/underwater_ruin_small": {
+    "en": "Underwater Ruin Small Chest",
+    "zh": "小型海底废墟箱子",
+    "vi": null
+  },
+  "ali/loot_table/chests/village/village_armorer": {
+    "en": "Village Armorer Chest",
+    "zh": "村庄盔甲匠箱子",
+    "vi": null
+  },
+  "ali/loot_table/chests/village/village_butcher": {
+    "en": "Village Butcher Chest",
+    "zh": "村庄屠夫箱子",
+    "vi": null
+  },
+  "ali/loot_table/chests/village/village_cartographer": {
+    "en": "Village Cartographer Chest",
+    "zh": "村庄制图师箱子",
+    "vi": null
+  },
+  "ali/loot_table/chests/village/village_desert_house": {
+    "en": "Village Desert House Chest",
+    "zh": "村庄沙漠房屋箱子",
+    "vi": null
+  },
+  "ali/loot_table/chests/village/village_fisher": {
+    "en": "Village Fisher Chest",
+    "zh": "村庄渔夫箱子",
+    "vi": null
+  },
+  "ali/loot_table/chests/village/village_fletcher": {
+    "en": "Village Fletcher Chest",
+    "zh": "村庄制箭师箱子",
+    "vi": null
+  },
+  "ali/loot_table/chests/village/village_mason": {
+    "en": "Village Mason Chest",
+    "zh": "村庄石匠箱子",
+    "vi": null
+  },
+  "ali/loot_table/chests/village/village_plains_house": {
+    "en": "Village Plains House Chest",
+    "zh": "村庄平原房屋箱子",
+    "vi": null
+  },
+  "ali/loot_table/chests/village/village_savanna_house": {
+    "en": "Village Savanna House Chest",
+    "zh": "村庄热带草原房屋箱子",
+    "vi": null
+  },
+  "ali/loot_table/chests/village/village_shepherd": {
+    "en": "Village Shepherd Chest",
+    "zh": "村庄牧羊人箱子",
+    "vi": null
+  },
+  "ali/loot_table/chests/village/village_snowy_house": {
+    "en": "Village Snowy House Chest",
+    "zh": "村庄积雪房屋箱子",
+    "vi": null
+  },
+  "ali/loot_table/chests/village/village_taiga_house": {
+    "en": "Village Taiga House Chest",
+    "zh": "村庄针叶林房屋箱子",
+    "vi": null
+  },
+  "ali/loot_table/chests/village/village_tannery": {
+    "en": "Village Tannery Chest",
+    "zh": "村庄皮匠箱子",
+    "vi": null
+  },
+  "ali/loot_table/chests/village/village_temple": {
+    "en": "Village Temple Chest",
+    "zh": "村庄牧师箱子",
+    "vi": null
+  },
+  "ali/loot_table/chests/village/village_toolsmith": {
+    "en": "Village Toolsmith Chest",
+    "zh": "村庄工具匠箱子",
+    "vi": null
+  },
+  "ali/loot_table/chests/village/village_weaponsmith": {
+    "en": "Village Weaponsmith Chest",
+    "zh": "村庄武器匠箱子",
+    "vi": null
+  },
+  "ali/loot_table/chests/woodland_mansion": {
+    "en": "Woodland Mansion Chest",
+    "zh": "林地府邸箱子",
+    "vi": null
+  },
+  "ali/loot_table/gameplay/cat_morning_gift": {
+    "en": "Cat Morning Gift",
+    "zh": "猫的晨间礼物",
+    "vi": null
+  },
+  "ali/loot_table/gameplay/fishing": {
+    "en": "Fishing",
+    "zh": "钓鱼",
+    "vi": null
+  },
+  "ali/loot_table/gameplay/fishing/fish": {
+    "en": "Fishing: Fish",
+    "zh": "钓鱼：鱼",
+    "vi": null
+  },
+  "ali/loot_table/gameplay/fishing/junk": {
+    "en": "Fishing: Junk",
+    "zh": "钓鱼：垃圾",
+    "vi": null
+  },
+  "ali/loot_table/gameplay/fishing/treasure": {
+    "en": "Fishing: Treasure",
+    "zh": "钓鱼：宝藏",
+    "vi": null
+  },
+  "ali/loot_table/gameplay/hero_of_the_village/armorer_gift": {
+    "en": "Armorer Gift",
+    "zh": "盔甲匠礼物",
+    "vi": null
+  },
+  "ali/loot_table/gameplay/hero_of_the_village/butcher_gift": {
+    "en": "Butcher Gift",
+    "zh": "屠夫礼物",
+    "vi": null
+  },
+  "ali/loot_table/gameplay/hero_of_the_village/cartographer_gift": {
+    "en": "Cartographer Gift",
+    "zh": "制图师礼物",
+    "vi": null
+  },
+  "ali/loot_table/gameplay/hero_of_the_village/cleric_gift": {
+    "en": "Cleric Gift",
+    "zh": "牧师礼物",
+    "vi": null
+  },
+  "ali/loot_table/gameplay/hero_of_the_village/farmer_gift": {
+    "en": "Farmer Gift",
+    "zh": "农民礼物",
+    "vi": null
+  },
+  "ali/loot_table/gameplay/hero_of_the_village/fisherman_gift": {
+    "en": "Fisherman Gift",
+    "zh": "渔夫礼物",
+    "vi": null
+  },
+  "ali/loot_table/gameplay/hero_of_the_village/fletcher_gift": {
+    "en": "Fletcher Gift",
+    "zh": "制箭师礼物",
+    "vi": null
+  },
+  "ali/loot_table/gameplay/hero_of_the_village/leatherworker_gift": {
+    "en": "Leatherworker Gift",
+    "zh": "皮匠礼物",
+    "vi": null
+  },
+  "ali/loot_table/gameplay/hero_of_the_village/librarian_gift": {
+    "en": "Librarian Gift",
+    "zh": "图书管理员礼物",
+    "vi": null
+  },
+  "ali/loot_table/gameplay/hero_of_the_village/mason_gift": {
+    "en": "Mason Gift",
+    "zh": "石匠礼物",
+    "vi": null
+  },
+  "ali/loot_table/gameplay/hero_of_the_village/shepherd_gift": {
+    "en": "Shepherd Gift",
+    "zh": "牧羊人礼物",
+    "vi": null
+  },
+  "ali/loot_table/gameplay/hero_of_the_village/toolsmith_gift": {
+    "en": "Toolsmith Gift",
+    "zh": "工具匠礼物",
+    "vi": null
+  },
+  "ali/loot_table/gameplay/hero_of_the_village/weaponsmith_gift": {
+    "en": "Weaponsmith Gift",
+    "zh": "武器匠礼物",
+    "vi": null
+  },
+  "ali/loot_table/gameplay/piglin_bartering": {
+    "en": "Piglin Bartering",
+    "zh": "猪灵交易",
+    "vi": null
+  },
+  "ali/loot_table/gameplay/sniffer_digging": {
+    "en": "Sniffer Digging",
+    "zh": "嗅探兽挖掘",
+    "vi": null
+  },
+  "emi.category.ali.archaeology_loot": {
+    "en": "Archaeology Loot",
+    "zh": "考古战利品",
+    "vi": null
+  },
+  "emi.category.ali.block_loot": {
+    "en": "Block Drops",
+    "zh": "方块掉落物",
+    "vi": null
+  },
+  "emi.category.ali.cat_morning_gift": {
+    "en": "Cat Morning Gift",
+    "zh": null,
+    "vi": null
+  },
+  "emi.category.ali.chest_loot": {
+    "en": "Chest Loot",
+    "zh": "箱子战利品",
+    "vi": null
+  },
+  "emi.category.ali.entity_loot": {
+    "en": "Entity Drops",
+    "zh": "实体掉落物",
+    "vi": null
+  },
+  "emi.category.ali.fishing_loot": {
+    "en": "Fishing Loot",
+    "zh": "钓鱼战利品",
+    "vi": null
+  },
+  "emi.category.ali.gameplay_loot": {
+    "en": "Gameplay Loot",
+    "zh": "游戏机制战利品",
+    "vi": null
+  },
+  "emi.category.ali.hero_loot": {
+    "en": "Hero of the Village Loot",
+    "zh": "村庄英雄战利品",
+    "vi": null
+  },
+  "emi.category.ali.piglin_bartering": {
+    "en": "Piglin Bartering",
+    "zh": null,
+    "vi": null
+  },
+  "emi.category.ali.plant_loot": {
+    "en": "Plant Drops",
+    "zh": "植物掉落物",
+    "vi": null
+  },
+  "emi.category.ali.sniffer_digging": {
+    "en": "Sniffer Digging",
+    "zh": null,
+    "vi": null
+  },
+  "emi.category.ali.trade_loot": {
+    "en": "Trading Loot",
+    "zh": "交易获得物",
+    "vi": null
+  },
+  "ali.enum.group_type.normalize": {
+    "en": null,
+    "zh": "掉落雪中埋藏的方块",
+    "vi": null
+  },
+  "ali.property.branch.bees": {
+    "en": null,
+    "zh": "蜜蜂：",
+    "vi": null
+  },
+  "ali.property.branch.effects": {
+    "en": null,
+    "zh": "状态效果：",
+    "vi": null
+  },
+  "ali.property.value.chance": {
+    "en": null,
+    "zh": "概率：%s",
+    "vi": null
+  },
+  "ali.property.value.detail_not_available": {
+    "en": null,
+    "zh": "详情不可用",
+    "vi": null
+  },
+  "ali.type.condition.block_tag": {
+    "en": null,
+    "zh": "方块标签",
+    "vi": null
+  },
+  "ali.type.condition.config_enabled": {
+    "en": null,
+    "zh": "必须在配置中启用",
+    "vi": null
+  },
+  "ali.type.condition.contains_item": {
+    "en": null,
+    "zh": "包含物品",
+    "vi": null
+  },
+  "ali.type.condition.empty": {
+    "en": null,
+    "zh": "空",
+    "vi": null
+  },
+  "ali.type.condition.essence_only_spawn": {
+    "en": null,
+    "zh": "仅在吸收精华后生成",
+    "vi": null
+  },
+  "ali.type.condition.optional_property": {
+    "en": null,
+    "zh": "可选属性",
+    "vi": null
+  },
+  "ali.type.function.bluprintz": {
+    "en": null,
+    "zh": "蓝图彩蛋",
+    "vi": null
+  },
+  "ali.type.function.conveyor_cover": {
+    "en": null,
+    "zh": "应用传送带盖板",
+    "vi": null
+  },
+  "ali.type.function.curse_loot": {
+    "en": null,
+    "zh": "诅咒战利品",
+    "vi": null
+  },
+  "ali.type.function.double_drops": {
+    "en": null,
+    "zh": "双倍战利品",
+    "vi": null
+  },
+  "ali.type.function.drop_container_items": {
+    "en": null,
+    "zh": "掉落容器战利品",
+    "vi": null
+  },
+  "ali.type.function.honey_compass_locate_structure": {
+    "en": null,
+    "zh": "蜜糖指南针定位结构",
+    "vi": null
+  },
+  "ali.type.function.modified_item": {
+    "en": null,
+    "zh": "动态修改！",
+    "vi": null
+  },
+  "ali.type.function.property_count": {
+    "en": null,
+    "zh": "从属性中获取计数",
+    "vi": null
+  },
+  "ali.type.function.random_arrow": {
+    "en": null,
+    "zh": "随机箭矢",
+    "vi": null
+  },
+  "ali.type.function.retexture_block_entity": {
+    "en": null,
+    "zh": "改变方块实体纹理",
+    "vi": null
+  },
+  "ali.type.function.revolver_perk": {
+    "en": null,
+    "zh": "左轮手枪属性",
+    "vi": null
+  },
+  "ali.type.function.set_fluid": {
+    "en": null,
+    "zh": "设置流体",
+    "vi": null
+  },
+  "ali.type.function.set_painting_variant": {
+    "en": null,
+    "zh": "设置画的变种",
+    "vi": null
+  },
+  "ali.type.function.spawn_tnt": {
+    "en": null,
+    "zh": "生成TNT",
+    "vi": null
+  },
+  "ali.type.function.spawn_xp": {
+    "en": null,
+    "zh": "生成经验球",
+    "vi": null
+  },
+  "ali.type.function.tag_item_removals": {
+    "en": null,
+    "zh": "标签物品移除",
+    "vi": null
+  },
+  "ali.type.function.uniquify_if_has_items": {
+    "en": null,
+    "zh": "唯一化是否有物品",
+    "vi": null
+  },
+  "ali.type.function.whirlwind_spawn_entity": {
+    "en": null,
+    "zh": "机遇旋风生成实体",
+    "vi": null
+  },
+  "ali.type.function.windmill": {
+    "en": null,
+    "zh": "设置风车帆",
+    "vi": null
+  },
+  "ali.util.advanced_loot_info.any": {
+    "en": null,
+    "zh": "任意",
+    "vi": null
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Twisted Blade (Kiếm Biến Dạng)",
+  "icon": "simplyswords:twisted_blade",
+  "advancement": "simplyswords:twisted_blade",
+  "category": "simplyswords:category_unique_weapons",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:twisted_blade",
+      "text": "Đại kiếm rèn từ thép dị thường, có thể biến dạng theo từng nhát chém, gây nên vết thương chí mạng khó lường."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Đặc điểm xoắn này mang lại cho vũ khí tốc độ và sức mạnh chưa từng có, khiến nó trở nên đặc biệt nguy hiểm trên chiến trường. Khả năng đặc biệt của thanh kiếm là tăng tốc độ sau mỗi đòn tấn công, khiến nó trở nên cực kỳ nguy hiểm, với những đòn tấn công nhanh có thể nhanh chóng làm suy yếu khả năng phòng thủ của đối thủ và tung ra một đòn chí mạng. Ngoài ra, thiết kế độc đáo của nó khiến cho việc chặn hoặc đỡ khó khăn."
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+
+#Potatweaker
+[General]
+	#Entities that will be replaced or removed.
+	"the replaced" = ["born_in_chaos_v1:fallen_chaos_knight", "minecraft:zombie", "minecraft:skeleton", "minecraft:spider", "born_in_chaos_v1:zombie_fisherman", "born_in_chaos_v1:door_knight", "born_in_chaos_v1:decrepit_skeleton", "born_in_chaos_v1:barrel_zombie", "born_in_chaos_v1:bonescaller", "born_in_chaos_v1:skeleton_thrasher", "minecraft:creeper"]
+	#Replacer entities.
+	"the replacers" = ["fight_more:chaos_knight", "soul_like_mobs:darkknight", "soul_like_mobs:hollowknightspear", "soul_like_mobs:heavyarmorhollow", "soul_like_mobs:hollowknight", "soul_like_mobs:hollowknighthammer", "takesapillage:legioner", "illager_additions:cowboy", "illager_additions:new_samurai", "illager_additions:royal_guard_spearman", "illager_additions:spearman"]
+	#Chance of the replacement or removal.
+	#This value will be compared with a random int between 0 and 100.
+	#If this value is bigger than the random, replacement or removal will happen.
+	"the replacement chance" = [101, 15, 15, 30, 101, 101, 50, 25, 50, 50, 25]
+	#Mark the replacement as removal.
+	"is removal" = [false, false, false, false, false, false, false, false, false, false, false]
+	#Let the removal follows replacement chance
+	"remove by chance" = [false, false, false, false, false, false, false, false, false, false, false]
+	#Whether or not use NBT when replacing. If you enable this but the corresponding nbt is empty, the replacer will not have any nbt, including weapon in hand.
+	"use NBT" = [true, true, true, true, true, true, false, false, false, false, false]
+	#The NBTs of the replacers. You don't need to write { } here.
+	"replacer entity NBTs" = ["ArmorItems:[{id:\"born_in_chaos_v1:dark_metal_armor_boots\",Count:1},{id:\"born_in_chaos_v1:dark_metal_armor_leggings\",Count:1},{id:\"born_in_chaos_v1:dark_metal_armor_chestplate\",Count:1},{id:\"born_in_chaos_v1:dark_metal_armor_helmet\",Count:1}],HandItems:[{id:\"born_in_chaos_v1:sharpened_dark_metal_sword\",Count:1},{}]", "ArmorItems:[{id:\"fantasy_armor:sunset_wings_boots\",Count:1},{id:\"fantasy_armor:sunset_wings_leggings\",Count:1},{id:\"fantasy_armor:sunset_wings_chestplate\",Count:1},{id:\"fantasy_armor:sunset_wings_helmet\",Count:1}],HandItems:[{id:\"soul_like_armors_reworked:darkknightsword\",Count:1},{id:\"soul_like_armors_reworked:heavyshield\",Count:1}]", "ArmorItems:[{id:\"minecraft:iron_boots\",Count:1},{id:\"minecraft:iron_leggings\",Count:1},{id:\"minecraft:iron_chestplate\",Count:1},{id:\"minecraft:iron_helmet\",Count:1}],HandItems:[{id:\"epicfight:iron_spear\",Count:1},{}]", "ArmorItems:[{id:\"fantasy_armor:dragonslayer_boots\",Count:1},{id:\"fantasy_armor:dragonslayer_leggings\",Count:1},{id:\"fantasy_armor:dragonslayer_chestplate\",Count:1},{id:\"fantasy_armor:dragonslayer_helmet\",Count:1}],HandItems:[{id:\"soul_like_armors_reworked:battleaxe\",Count:1},{id:\"soul_like_armors_reworked:roundshield\",Count:1}]", "ArmorItems:[{id:\"fantasy_armor:ronin_boots\",Count:1},{id:\"fantasy_armor:ronin_leggings\",Count:1},{id:\"fantasy_armor:ronin_chestplate\",Count:1},{id:\"fantasy_armor:ronin_helmet\",Count:1}],HandItems:[{id:\"epicfight:iron_tachi\",Count:1},{}]", "ArmorItems:[{id:\"fantasy_armor:chess_board_knight_boots\",Count:1},{id:\"fantasy_armor:chess_board_knight_leggings\",Count:1},{id:\"fantasy_armor:chess_board_knight_chestplate\",Count:1},{id:\"fantasy_armor:chess_board_knight_helmet\",Count:1}],HandItems:[{id:\"epicfight:iron_greatsword\",Count:1},{}]", "", "", "", "", ""]
+

@@ -1,0 +1,542 @@
+{
+  "item.fight_more.agony_p": {
+    "en": null,
+    "zh": null,
+    "vi": "Thống Khổ"
+  },
+  "item.fight_more.ruine_p": {
+    "en": null,
+    "zh": null,
+    "vi": "Hủy Diệt"
+  },
+  "item.fight_more.satsujin_p": {
+    "en": null,
+    "zh": null,
+    "vi": "Sát Lục"
+  },
+  "item.fight_more.solar_p": {
+    "en": null,
+    "zh": null,
+    "vi": "Thái Dương"
+  },
+  "item.fight_more.antitheus_p": {
+    "en": null,
+    "zh": null,
+    "vi": "Thần Vẫn"
+  },
+  "item.fight_more.ender_blaster_p": {
+    "en": null,
+    "zh": null,
+    "vi": "Toái Ảnh"
+  },
+  "item.fight_more.moonless_p": {
+    "en": null,
+    "zh": null,
+    "vi": "Nguyệt Thực"
+  },
+  "item.fight_more.gesetz_p": {
+    "en": null,
+    "zh": null,
+    "vi": "Thần Quyền"
+  },
+  "item.fight_more.herrscher_p": {
+    "en": null,
+    "zh": null,
+    "vi": "Chúa Tể"
+  },
+  "item.fight_more.torment_p": {
+    "en": null,
+    "zh": null,
+    "vi": "Đoạ Đày"
+  },
+  "item.fight_more.food_ring": {
+    "en": null,
+    "zh": null,
+    "vi": "Nhẫn Ăn Nhanh"
+  },
+  "item.fight_more.food_ring_high": {
+    "en": null,
+    "zh": null,
+    "vi": "Nhẫn Ăn Nhanh II"
+  },
+  "item.fight_more.ring_stun": {
+    "en": null,
+    "zh": null,
+    "vi": "Nhẫn Miễn Choáng"
+  },
+  "tooltip.fight_more.food_ring": {
+    "en": null,
+    "zh": null,
+    "vi": "Tăng 30% tốc độ ăn"
+  },
+  "tooltip.fight_more.food_ring_high": {
+    "en": null,
+    "zh": null,
+    "vi": "Tăng 50% tốc độ ăn"
+  },
+  "tooltip.fight_more.ring_stun": {
+    "en": null,
+    "zh": null,
+    "vi": "Miễn nhiễm hiệu ứng choáng khựng"
+  },
+  "item.fight_more.friendly_ring": {
+    "en": null,
+    "zh": null,
+    "vi": "Nhẫn Thân Ái"
+  },
+  "block.fight_more.guardian_summoning_block": {
+    "en": null,
+    "zh": null,
+    "vi": "Bàn Thờ Triệu Hồi"
+  },
+  "block.fight_more.golem_summoning_block": {
+    "en": null,
+    "zh": null,
+    "vi": "Bàn Thờ Triệu Hồi"
+  },
+  "block.fight_more.evil_summoning_block": {
+    "en": null,
+    "zh": null,
+    "vi": "Bàn Thờ Triệu Hồi"
+  },
+  "block.fight_more.skrythe_summoning_block": {
+    "en": null,
+    "zh": null,
+    "vi": "Bàn Thờ Triệu Hồi"
+  },
+  "block.fight_more.ice_summoning_block": {
+    "en": null,
+    "zh": null,
+    "vi": "Bàn Thờ Triệu Hồi"
+  },
+  "block.fight_more.rock_summoning_block": {
+    "en": null,
+    "zh": null,
+    "vi": "Bàn Thờ Triệu Hồi"
+  },
+  "block.fight_more.lava_summoning_block": {
+    "en": null,
+    "zh": null,
+    "vi": "Bàn Thờ Triệu Hồi"
+  },
+  "block.fight_more.rhyza_summoning_block": {
+    "en": null,
+    "zh": null,
+    "vi": "Bàn Thờ Triệu Hồi"
+  },
+  "tooltip.fight_more.friendly_ring": {
+    "en": null,
+    "zh": null,
+    "vi": "Nhận hiệu ứng Hồi Máu II"
+  },
+  "entity.fight_more.chaos_knight": {
+    "en": null,
+    "zh": null,
+    "vi": "Hiệp Sĩ Hỗn Loạn (Chaos Knight)"
+  },
+  "rarity.common.name": {
+    "en": null,
+    "zh": null,
+    "vi": ""
+  },
+  "rarity.uncommon.name": {
+    "en": null,
+    "zh": null,
+    "vi": ""
+  },
+  "rarity.rare.name": {
+    "en": null,
+    "zh": null,
+    "vi": "Hiếm"
+  },
+  "rarity.epic.name": {
+    "en": null,
+    "zh": null,
+    "vi": "Sử Thi"
+  },
+  "fight_more.jei.betterend.alloying": {
+    "en": "BetterEnd Alloying",
+    "zh": "BetterEnd 合金熔炼",
+    "vi": null
+  },
+  "fight_more.jei.betterend.infusion": {
+    "en": "BetterEnd Infusion",
+    "zh": "BetterEnd 灌注",
+    "vi": null
+  },
+  "fight_more.jei.betterend.anvil": {
+    "en": "BetterEnd Anvil Forging",
+    "zh": "BetterEnd 铁砧锻造",
+    "vi": null
+  },
+  "fight_more.jei.betterend.experience_time": {
+    "en": "%s XP / %s seconds",
+    "zh": "%s 经验 / %s 秒",
+    "vi": null
+  },
+  "fight_more.jei.betterend.time": {
+    "en": "%s ticks",
+    "zh": "%s 刻",
+    "vi": null
+  },
+  "fight_more.jei.betterend.anvil_level": {
+    "en": "Anvil level %s",
+    "zh": "铁砧等级 %s",
+    "vi": null
+  },
+  "fight_more.jei.betterend.damage": {
+    "en": "Hammer damage %s",
+    "zh": "锤子损耗 %s",
+    "vi": null
+  },
+  "item.fight_more.entity_spawner": {
+    "en": null,
+    "zh": "BOSS召唤物",
+    "vi": null
+  },
+  "item.fight_more.gems_empty": {
+    "en": null,
+    "zh": "空白宝石",
+    "vi": null
+  },
+  "item.fight_more.gems_fire": {
+    "en": null,
+    "zh": "烈焰宝石",
+    "vi": null
+  },
+  "item.fight_more.gems_soul": {
+    "en": null,
+    "zh": "灵骸宝石",
+    "vi": null
+  },
+  "item.fight_more.gems_void": {
+    "en": null,
+    "zh": "末影宝石",
+    "vi": null
+  },
+  "item.fight_more.gems_tide": {
+    "en": null,
+    "zh": "潮汐宝石",
+    "vi": null
+  },
+  "item.fight_more.gems_bolt": {
+    "en": null,
+    "zh": "雷霆宝石",
+    "vi": null
+  },
+  "item.fight_more.gems_sand": {
+    "en": null,
+    "zh": "沙漠宝石",
+    "vi": null
+  },
+  "item.fight_more.gems_sea": {
+    "en": null,
+    "zh": "深渊宝石",
+    "vi": null
+  },
+  "item.fight_more.gems_cloud": {
+    "en": null,
+    "zh": "浮云宝石",
+    "vi": null
+  },
+  "item.fight_more.gems_nether": {
+    "en": null,
+    "zh": "合金宝石",
+    "vi": null
+  },
+  "item.fight_more.gems_emob": {
+    "en": null,
+    "zh": "不朽宝石",
+    "vi": null
+  },
+  "item.fight_more.gems_core": {
+    "en": null,
+    "zh": "机核宝石",
+    "vi": null
+  },
+  "item.fight_more.gems_green": {
+    "en": null,
+    "zh": "湮灭宝石",
+    "vi": null
+  },
+  "item.fight_more.gems_paladin": {
+    "en": null,
+    "zh": "圣骑宝石",
+    "vi": null
+  },
+  "item.fight_more.modifier_reroll": {
+    "en": null,
+    "zh": "词条重铸石",
+    "vi": null
+  },
+  "item.fight_more.pet_whistle": {
+    "en": null,
+    "zh": "宠物管理杖",
+    "vi": null
+  },
+  "item.fight_more.strong_magic_potion": {
+    "en": null,
+    "zh": "强效治疗魔药",
+    "vi": null
+  },
+  "item.fight_more.magic_potion": {
+    "en": null,
+    "zh": "治疗魔药",
+    "vi": null
+  },
+  "item.fight_more.dimension_teleport_item": {
+    "en": null,
+    "zh": "BOSS维度传送器",
+    "vi": null
+  },
+  "block.fight_more.universal_summoning_block": {
+    "en": null,
+    "zh": "BOSS召唤祭坛",
+    "vi": null
+  },
+  "biome.fight_more.flat_plains": {
+    "en": null,
+    "zh": "唤魔之地",
+    "vi": null
+  },
+  "dimension.fight_more.flat": {
+    "en": null,
+    "zh": "唤魔之地",
+    "vi": null
+  },
+  "effect.fight_more.tidecaller": {
+    "en": null,
+    "zh": "潮汐呼唤",
+    "vi": null
+  },
+  "effect.fight_more.light_absorption": {
+    "en": null,
+    "zh": "伤害吸收",
+    "vi": null
+  },
+  "effect.fight_more.light_absorption.description": {
+    "en": null,
+    "zh": "每级1点伤害吸收值",
+    "vi": null
+  },
+  "effect.fight_more.incremental_absorption": {
+    "en": null,
+    "zh": "伤害吸收",
+    "vi": null
+  },
+  "effect.fight_more.incremental_absorption.description": {
+    "en": null,
+    "zh": "每增量一级提供2点伤害吸收值",
+    "vi": null
+  },
+  "tooltip.fight_more.key3_prompt": {
+    "en": null,
+    "zh": "特殊技能1按键：%1$s",
+    "vi": null
+  },
+  "tooltip.fight_more.key4_prompt": {
+    "en": null,
+    "zh": "特殊技能2按键：%1$s",
+    "vi": null
+  },
+  "tooltip.fight_more.lm.tg": {
+    "en": null,
+    "zh": "§6按键[§6%1$s§6]: §7召唤周身冰刺",
+    "vi": null
+  },
+  "tooltip.fight_more.lm.db": {
+    "en": null,
+    "zh": "§6按键[§6%1$s§6]: §7生成环形冲击波",
+    "vi": null
+  },
+  "tooltip.fight_more.lm.sg": {
+    "en": null,
+    "zh": "§6按住[§6%1$s§6]1秒: §7召唤幻影剑攻击敌人",
+    "vi": null
+  },
+  "tooltip.fight_more.lm.mh": {
+    "en": null,
+    "zh": "§6按键[§6%1$s§6]使用",
+    "vi": null
+  },
+  "tooltip.fight_more.gemanv": {
+    "en": null,
+    "zh": "可在铁砧上为武器镶嵌，按下按键使用技能",
+    "vi": null
+  },
+  "tooltip.fight_more.gems_empty": {
+    "en": null,
+    "zh": "空白宝石，无效果",
+    "vi": null
+  },
+  "tooltip.fight_more.gems_soul.desc1": {
+    "en": null,
+    "zh": "向前冲刺并留下幻影戟",
+    "vi": null
+  },
+  "tooltip.fight_more.gems_soul.desc2": {
+    "en": null,
+    "zh": "蓄力召唤一片圆形幻影戟",
+    "vi": null
+  },
+  "tooltip.fight_more.gems_fire.desc1": {
+    "en": null,
+    "zh": "向面朝方向召唤一排烈焰轰击",
+    "vi": null
+  },
+  "tooltip.fight_more.gems_fire.desc2": {
+    "en": null,
+    "zh": "原地召唤一个大型烈焰轰击",
+    "vi": null
+  },
+  "tooltip.fight_more.gems_nether.desc1": {
+    "en": null,
+    "zh": "脚底生成逐渐扩散的烈焰爆炸",
+    "vi": null
+  },
+  "tooltip.fight_more.gems_nether.desc2": {
+    "en": null,
+    "zh": "重砸并引爆周围区域",
+    "vi": null
+  },
+  "tooltip.fight_more.gems_void.desc1": {
+    "en": null,
+    "zh": "在指定位置召唤虚空旋涡",
+    "vi": null
+  },
+  "tooltip.fight_more.gems_void.desc2": {
+    "en": null,
+    "zh": "重砸前方区域并生成虚空符文",
+    "vi": null
+  },
+  "tooltip.fight_more.gems_bolt.desc1": {
+    "en": null,
+    "zh": "召唤三支闪电长矛攻击前方",
+    "vi": null
+  },
+  "tooltip.fight_more.gems_bolt.desc2": {
+    "en": null,
+    "zh": "跃起砸下生成大片雷电攻击",
+    "vi": null
+  },
+  "tooltip.fight_more.gems_tide.desc1": {
+    "en": null,
+    "zh": "在前方生成击退效果的水浪攻击",
+    "vi": null
+  },
+  "tooltip.fight_more.gems_tide.desc2": {
+    "en": null,
+    "zh": "召唤四条幻影水蛇攻击指定目标",
+    "vi": null
+  },
+  "tooltip.fight_more.gems_sand.desc1": {
+    "en": null,
+    "zh": "跃起砸下并生成坠落的远古沙碑",
+    "vi": null
+  },
+  "tooltip.fight_more.gems_sand.desc2": {
+    "en": null,
+    "zh": "召唤三个围绕自身的沙暴",
+    "vi": null
+  },
+  "tooltip.fight_more.gems_sea.desc1": {
+    "en": null,
+    "zh": "每秒伸出潮汐触手攻击周围实体",
+    "vi": null
+  },
+  "tooltip.fight_more.gems_sea.desc2": {
+    "en": null,
+    "zh": "在自身周围召唤深渊冲击波",
+    "vi": null
+  },
+  "tooltip.fight_more.gems_cloud.desc1": {
+    "en": null,
+    "zh": "跃起并召唤一排雷云攻击",
+    "vi": null
+  },
+  "tooltip.fight_more.gems_cloud.desc2": {
+    "en": null,
+    "zh": "重砸前方地面召唤雷电冲击波",
+    "vi": null
+  },
+  "tooltip.fight_more.gems_emob.desc1": {
+    "en": null,
+    "zh": "在前方地面生成三道剑气攻击",
+    "vi": null
+  },
+  "tooltip.fight_more.gems_emob.desc2": {
+    "en": null,
+    "zh": "在头顶生成多道激光束攻击周围",
+    "vi": null
+  },
+  "tooltip.fight_more.gems_core.desc1": {
+    "en": null,
+    "zh": "对前方地面释放电涌攻击",
+    "vi": null
+  },
+  "tooltip.fight_more.gems_core.desc2": {
+    "en": null,
+    "zh": " 投掷出武器释放范围电涌",
+    "vi": null
+  },
+  "tooltip.fight_more.gems_green.desc1": {
+    "en": null,
+    "zh": "向前方发射出可分裂的湮灭爆弹",
+    "vi": null
+  },
+  "tooltip.fight_more.gems_green.desc2": {
+    "en": null,
+    "zh": " 在自身周围召唤湮灭传送门",
+    "vi": null
+  },
+  "tooltip.fight_more.gems_paladin.desc1": {
+    "en": null,
+    "zh": "对指定实体目标释放追踪幻影匕首,",
+    "vi": null
+  },
+  "tooltip.fight_more.gems_paladin.desc2": {
+    "en": null,
+    "zh": "在周围召唤幻影剑刃进行大范围攻击",
+    "vi": null
+  },
+  "effect.fight_more.tidecaller.description": {
+    "en": null,
+    "zh": "每秒向附近生物发射自动追踪并攻击的潮汐触手",
+    "vi": null
+  },
+  "enchantment.fight_more.basic_regeneration": {
+    "en": null,
+    "zh": "再生",
+    "vi": null
+  },
+  "enchantment.fight_more.basic_regeneration.desc": {
+    "en": null,
+    "zh": "增加玩家基础生命回复速度",
+    "vi": null
+  },
+  "enchantment.fight_more.health_boost": {
+    "en": null,
+    "zh": "血铠",
+    "vi": null
+  },
+  "enchantment.fight_more.health_boost.desc": {
+    "en": null,
+    "zh": "增加玩家最大生命值",
+    "vi": null
+  },
+  "item.fm.wom.demon_bracelet.desc": {
+    "en": null,
+    "zh": "获得相当于最大生命值4%的攻击力",
+    "vi": null
+  },
+  "item.fm.wom.celerity_bracelet.desc": {
+    "en": null,
+    "zh": "加快20%物品冷却缩减速度",
+    "vi": null
+  },
+  "item.fm.wom.obsidian_bracelet.desc": {
+    "en": null,
+    "zh": "获得5点护甲值",
+    "vi": null
+  }
+}

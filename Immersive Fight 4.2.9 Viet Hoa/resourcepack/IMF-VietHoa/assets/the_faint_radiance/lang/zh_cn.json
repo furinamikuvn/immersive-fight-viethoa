@@ -1,0 +1,19 @@
+{
+  "entity.the_faint_radiance.holy": "Holy-sword",
+  "effect.the_faint_radiance.penitence": "ăn năn",
+  "advancements.blasphemy.title": "con đường phạm thượng",
+  "death.attack.gleam.item": "%1$s được %2$s gửi đến phần còn lại bằng cách sử dụng %3$s",
+  "entity.the_faint_radiance.lychnus": "Lychnus",
+  "item.the_faint_radiance.shapeofsin": "Shape of sin ",
+  "death.attack.absolute_radiance.player": "%1$s bay lên trời",
+  "death.attack.gleam": "%1$s chìm vào giấc ngủ sâu",
+  "item.the_faint_radiance.lychnus_spawn_egg": "Lychnus Spawn Egg",
+  "item.the_faint_radiance.shapeofsin.description_0": "……",
+  "entity.the_faint_radiance.radiance": "?",
+  "death.attack.absolute_radiance.item": "%1$s bay lên trời",
+  "entity.the_faint_radiance.quake": "Quake",
+  "death.attack.absolute_radiance": "%1$s bay lên trời",
+  "death.attack.gleam.player": "%1$s bay lên trời",
+  "advancements.blasphemy.descr": "Bạn có thể làm cho nó đến đích?",
+  "biome.the_faint_radiance.bright": "Bright"
+}

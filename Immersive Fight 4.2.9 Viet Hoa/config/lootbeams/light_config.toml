@@ -1,0 +1,43 @@
+# Don't change this! Version used to track needed updates.
+version = 0
+
+[beam]
+enable_beam = true
+beam_fade_in_time = 10
+beam_fade_in_distance = 9.9779415
+beam_radius = 0.502451
+beam_height = 1.004902
+beam_y_offset = 0.5
+beam_alpha = 0.9019608
+common_shorter_beam = true
+solid_beam = true
+require_on_ground = true
+
+[glow]
+enable_glow = true
+glow_effect_radius = 0.5049069
+
+[customColorSetting]
+enable_custom_color = true
+color_override_by_name = {  }
+color_override_by_tag = [
+    [ "#simplyswords:uniques", { r = 222, g = 166, b = 51, a = 255 } ],
+    [ "#c:highlight_itemdrops", { r = 127, g = 255, b = 212, a = 255 } ],
+    [ "#c:celestial_weapons", { r = 127, g = 255, b = 212, a = 255 } ]
+]
+color_override_by_modid = [  ]
+
+[lightEffectFilter]
+all_item = false
+only_rare = true
+only_equipment = false
+whitelist_by_name = [
+    "minecraft:wither_skeleton_skull",
+    "minecraft:diamond",
+    "minecraft:netherite_ingot"
+]
+whitelist_by_tag = [  ]
+whitelist_by_modid = [  ]
+blacklist_by_name = [  ]
+blacklist_by_tag = [  ]
+blacklist_by_modid = [  ]

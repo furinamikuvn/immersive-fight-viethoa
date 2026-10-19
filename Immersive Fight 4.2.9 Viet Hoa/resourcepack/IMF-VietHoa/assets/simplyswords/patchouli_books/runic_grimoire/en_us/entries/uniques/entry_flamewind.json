@@ -1,0 +1,13 @@
+{
+  "name": "Wildfire (Liêu Nguyên)",
+  "icon": "simplyswords:flamewind",
+  "advancement": "simplyswords:flamewind",
+  "category": "simplyswords:category_unique_weapons",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:flamewind",
+      "text": "Tác giả hơi lười, cốt truyện bối cảnh vẫn chưa viết xong."
+    }
+  ]
+}

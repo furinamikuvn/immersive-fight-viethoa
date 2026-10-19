@@ -1,0 +1,167 @@
+{
+  "ftbquestsentityvis.show_entity": {
+    "en": "Show Entity",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquestsentityvis.show_entity_as_icon": {
+    "en": "Show Entity as Task Icon",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquestsentityvis.edit_entity_icon": {
+    "en": "Edit Entity Icon",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquestsentityvis.remove_entity_icon": {
+    "en": "Remove Entity Icon",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquestsentityvis.config.entity": {
+    "en": "Entity",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquestsentityvis.config.size": {
+    "en": "Entity Size",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquestsentityvis.config.offset_x": {
+    "en": "Entity X Offset",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquestsentityvis.config.offset_y": {
+    "en": "Entity Y Offset",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquestsentityvis.config.rotation": {
+    "en": "Entity Rotation",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquestsentityvis.config.spin_mode": {
+    "en": "Spin Animation",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquestsentityvis.config.spin_mode.use_global": {
+    "en": "Use Global",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquestsentityvis.config.spin_mode.force_on": {
+    "en": "Always Spin",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquestsentityvis.config.spin_mode.force_off": {
+    "en": "Never Spin",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquestsentityvis.config.idle_mode": {
+    "en": "Idle Animation",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquestsentityvis.config.idle_mode.use_global": {
+    "en": "Use Global",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquestsentityvis.config.idle_mode.force_on": {
+    "en": "Always Idle",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquestsentityvis.config.idle_mode.force_off": {
+    "en": "Never Idle",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquestsentityvis.config.walk_mode": {
+    "en": "Walk Animation",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquestsentityvis.config.walk_mode.use_global": {
+    "en": "Use Global",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquestsentityvis.config.walk_mode.force_on": {
+    "en": "Always Walk",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquestsentityvis.config.walk_mode.force_off": {
+    "en": "Never Walk",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquestsentityvis.config.silhouette": {
+    "en": "Black Silhouette",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquestsentityvis.config.silhouette_mode": {
+    "en": "Black Silhouette",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquestsentityvis.config.silhouette_mode.none": {
+    "en": "None",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquestsentityvis.config.silhouette_mode.until_available": {
+    "en": "Until Available",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquestsentityvis.config.silhouette_mode.until_completed": {
+    "en": "Until Completed",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquestsentityvis.config.use_as_quest_icon": {
+    "en": "Use Task Icon as Quest Icon",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquestsentityvis.config.width": {
+    "en": "Display Width",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquestsentityvis.config.height": {
+    "en": "Display Height",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquestsentityvis.config.align": {
+    "en": "Alignment",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquestsentityvis.config.order": {
+    "en": "Draw Order",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquestsentityvis.config.dev": {
+    "en": "Editors Only",
+    "zh": null,
+    "vi": null
+  },
+  "ftbquestsentityvis.config.hover": {
+    "en": "Hover Text",
+    "zh": null,
+    "vi": null
+  }
+}

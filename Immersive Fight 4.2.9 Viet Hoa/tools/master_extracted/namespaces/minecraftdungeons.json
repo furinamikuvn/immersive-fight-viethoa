@@ -1,0 +1,2427 @@
+{
+  "advancements.minecraftdungeons.root.title": {
+    "en": "Minecraft Dungeons",
+    "zh": "我的世界:地下城",
+    "vi": "Minecraft:Ngục tối"
+  },
+  "advancements.minecraftdungeons.root.description": {
+    "en": "Your Journey Begins Here",
+    "zh": "你的旅程从这里开始",
+    "vi": "Cuộc hành trình của bạn bắt đầu từ đây"
+  },
+  "advancements.minecraftdungeons.find_infested_supply_room.title": {
+    "en": "Abandoned Supplies",
+    "zh": "废弃的补给品",
+    "vi": "vật dụng bỏ đi"
+  },
+  "advancements.minecraftdungeons.find_infested_supply_room.description": {
+    "en": "Find the Infested Supply Room",
+    "zh": "找到被蠹虫侵占的补给室",
+    "vi": "Tìm phòng cung cấp bị nhiễm cá bạc"
+  },
+  "advancements.minecraftdungeons.find_blight_village.title": {
+    "en": "Overgrown Witch Town",
+    "zh": "荒芜的女巫小镇",
+    "vi": "Thị trấn phù thủy hoang vắng"
+  },
+  "advancements.minecraftdungeons.find_blight_village.description": {
+    "en": "Find the Blight Village",
+    "zh": "找到荒芜村庄",
+    "vi": "Tìm một ngôi làng hoang vắng"
+  },
+  "advancements.minecraftdungeons.find_fiery_forge.title": {
+    "en": "The Heat of Iron",
+    "zh": "钢铁的热度",
+    "vi": "sức nóng của thép"
+  },
+  "advancements.minecraftdungeons.find_fiery_forge.description": {
+    "en": "Find the Fiery Forge",
+    "zh": "找到烈焰锻造厂",
+    "vi": "Tìm lò rèn lửa"
+  },
+  "advancements.minecraftdungeons.find_desert_temple.title": {
+    "en": "Bones in the Sand",
+    "zh": "沙海中的骸骨",
+    "vi": "Bộ xương trong biển cát"
+  },
+  "advancements.minecraftdungeons.find_desert_temple.description": {
+    "en": "Find the Desert Temple",
+    "zh": "找到沙漠神殿",
+    "vi": "Tìm ngôi đền sa mạc"
+  },
+  "advancements.minecraftdungeons.kill_cauldron.title": {
+    "en": "When Cauldrons be Cleaved",
+    "zh": "大釜碎裂之时",
+    "vi": "Khi chiếc vạc vỡ"
+  },
+  "advancements.minecraftdungeons.kill_cauldron.description": {
+    "en": "Smash the Corrupted Cauldron",
+    "zh": "粉碎腐化锅釜怪",
+    "vi": "Đập vỡ cái vạc hỏng"
+  },
+  "advancements.minecraftdungeons.kill_redstone_golem.title": {
+    "en": "Redstone Overload",
+    "zh": "红石过载",
+    "vi": "quá tải đá đỏ"
+  },
+  "advancements.minecraftdungeons.kill_redstone_golem.description": {
+    "en": "Defeat a Redstone Golem",
+    "zh": "击败一个红石傀儡",
+    "vi": "Đánh bại một con golem đá đỏ"
+  },
+  "advancements.minecraftdungeons.kill_skeleton_horsemen.title": {
+    "en": "Smashed in Thunder",
+    "zh": "雷鸣中粉碎",
+    "vi": "tan vỡ trong sấm sét"
+  },
+  "advancements.minecraftdungeons.kill_skeleton_horsemen.description": {
+    "en": "Defeat the Skeleton Horsemen, the Riders of the Thunderstorm",
+    "zh": "击败骷髅骑手，雷暴中的骑士",
+    "vi": "Đánh bại Skeleton Rider, Hiệp sĩ trong cơn giông bão"
+  },
+  "advancements.minecraftdungeons.kill_redstone_monstrosity.title": {
+    "en": "Fallen Colossus",
+    "zh": "陨落的巨像",
+    "vi": "Bức tượng khổng lồ sa ngã"
+  },
+  "advancements.minecraftdungeons.kill_redstone_monstrosity.description": {
+    "en": "Defeat the Redstone Monstrosity",
+    "zh": "击败红石巨兽",
+    "vi": "Đánh bại quái vật Redstone"
+  },
+  "advancements.minecraftdungeons.kill_giant_royal_guard.title": {
+    "en": "The Big One",
+    "zh": "大块头",
+    "vi": "anh chàng to lớn"
+  },
+  "advancements.minecraftdungeons.kill_giant_royal_guard.description": {
+    "en": "Defeat the Giant Royal Guard",
+    "zh": "击败巨型皇家守卫",
+    "vi": "Đánh bại vệ binh hoàng gia khổng lồ"
+  },
+  "advancements.minecraftdungeons.kill_obsidian_monstrosity.title": {
+    "en": "Final Barricade",
+    "zh": "最终壁垒",
+    "vi": "rào cản cuối cùng"
+  },
+  "advancements.minecraftdungeons.kill_obsidian_monstrosity.description": {
+    "en": "Defeat the Obsidian Monstrosity",
+    "zh": "击败黑曜石巨兽",
+    "vi": "Đánh bại quái vật Obsidian"
+  },
+  "advancements.minecraftdungeons.kill_nameless_one.title": {
+    "en": "Never Dead",
+    "zh": "永世不灭",
+    "vi": "vĩnh cửu"
+  },
+  "advancements.minecraftdungeons.kill_nameless_one.description": {
+    "en": "Destroy the Nameless One's staff",
+    "zh": "摧毁无名者的法杖",
+    "vi": "Phá hủy quyền trượng của kẻ vô danh"
+  },
+  "advancements.minecraftdungeons.kill_heart_of_ender.title": {
+    "en": "Dominating the Dominator",
+    "zh": "支配支配者",
+    "vi": "kẻ thống trị"
+  },
+  "advancements.minecraftdungeons.kill_heart_of_ender.description": {
+    "en": "Defeat the Arch-Illager and Heart of Ender atop the Obsidian Pinnacle",
+    "zh": "在黑曜石之巅击败奇厄教主和末影之心",
+    "vi": "Đánh bại Lord Chie và Heart of Ender tại Obsidian Summit"
+  },
+  "advancements.minecraftdungeons.kill_mooshroom_monstrosity.title": {
+    "en": "Who's the Fungi?",
+    "zh": "谁是菌人？",
+    "vi": "Nấm là ai?"
+  },
+  "advancements.minecraftdungeons.kill_mooshroom_monstrosity.description": {
+    "en": "Defeat the Mooshroom Monstrosity",
+    "zh": "击败哞菇巨兽",
+    "vi": "Đánh bại quái vật mooshroom"
+  },
+  "advancements.minecraftdungeons.sacred_tablet.title": {
+    "en": "The Final Challenge",
+    "zh": "终极挑战",
+    "vi": "thử thách cuối cùng"
+  },
+  "advancements.minecraftdungeons.sacred_tablet.description": {
+    "en": "Acquire the Sacred Tablet",
+    "zh": "获得神圣石板",
+    "vi": "Nhận được tấm bia thánh"
+  },
+  "block.minecraftdungeons.monstrous_ingot_block": {
+    "en": "Block of Monstrous Ingots",
+    "zh": "巨兽锭块",
+    "vi": "Block of Monstrous Ingots"
+  },
+  "block.minecraftdungeons.monstrous_stone": {
+    "en": "Monstrous Stone",
+    "zh": "巨兽石",
+    "vi": "Monstrous Stone"
+  },
+  "block.minecraftdungeons.monstrous_stone_bricks": {
+    "en": "Monstrous Stone Bricks",
+    "zh": "巨兽石砖",
+    "vi": "Monstrous Stone Bricks"
+  },
+  "block.minecraftdungeons.resonance_crystal": {
+    "en": "Resonance Crystal",
+    "zh": "共振水晶",
+    "vi": "Resonance Crystal"
+  },
+  "block.minecraftdungeons.wind_blower": {
+    "en": "Wind Blower",
+    "zh": "吹风机",
+    "vi": "Wind Blower"
+  },
+  "block.minecraftdungeons.remote_redstone_receiver": {
+    "en": "Redstone Receiver",
+    "zh": "红石接收器",
+    "vi": "Redstone Receiver"
+  },
+  "block.minecraftdungeons.shifting_crystal": {
+    "en": "Shifting Crystal",
+    "zh": "移位水晶",
+    "vi": "Shifting Crystal"
+  },
+  "block.minecraftdungeons.radiant_crystal": {
+    "en": "Radiant Crystal",
+    "zh": "辐射水晶",
+    "vi": "Radiant Crystal"
+  },
+  "block.minecraftdungeons.sun_crystal": {
+    "en": "Sun Crystal",
+    "zh": "太阳水晶",
+    "vi": "Sun Crystal"
+  },
+  "block.minecraftdungeons.indestructible_tiles": {
+    "en": "Indestructible Tiles",
+    "zh": "不可破坏瓷砖",
+    "vi": "Indestructible Tiles"
+  },
+  "block.minecraftdungeons.indestructible_stairs": {
+    "en": "Indestructible Stairs",
+    "zh": "不可破坏楼梯",
+    "vi": "Indestructible Stairs"
+  },
+  "block.minecraftdungeons.indestructible_slab": {
+    "en": "Indestructible Slab",
+    "zh": "不可破坏台阶",
+    "vi": "Indestructible Slab"
+  },
+  "block.minecraftdungeons.indestructible_wall": {
+    "en": "Indestructible Wall",
+    "zh": "不可破坏墙",
+    "vi": "Indestructible Wall"
+  },
+  "block.minecraftdungeons.indestructible_pillar": {
+    "en": "Indestructible Pillar",
+    "zh": "不可破坏柱子",
+    "vi": "Indestructible Pillar"
+  },
+  "block.minecraftdungeons.orb_of_dominance": {
+    "en": "Orb of Dominance",
+    "zh": "支配之球",
+    "vi": "Orb of Dominance"
+  },
+  "block.minecraftdungeons.sand_layer": {
+    "en": "Sand Layer",
+    "zh": "沙层",
+    "vi": "Sand Layer"
+  },
+  "block.minecraftdungeons.templestone_bricks": {
+    "en": "Templestone Bricks",
+    "zh": "神庙石砖",
+    "vi": "Templestone Bricks"
+  },
+  "block.minecraftdungeons.cracked_templestone_bricks": {
+    "en": "Cracked Templestone Bricks",
+    "zh": "裂纹神庙石砖",
+    "vi": "Cracked Templestone Bricks"
+  },
+  "block.minecraftdungeons.sanded_templestone_bricks": {
+    "en": "Sanded Templestone Bricks",
+    "zh": "覆沙神庙石砖",
+    "vi": "Sanded Templestone Bricks"
+  },
+  "block.minecraftdungeons.sandy_templestone_bricks": {
+    "en": "Sandy Templestone Bricks",
+    "zh": "含沙神庙石砖",
+    "vi": "Sandy Templestone Bricks"
+  },
+  "block.minecraftdungeons.smooth_templestone": {
+    "en": "Smooth Templestone",
+    "zh": "平滑神庙石",
+    "vi": "Smooth Templestone"
+  },
+  "block.minecraftdungeons.templestone_pillar": {
+    "en": "Templestone Pillar",
+    "zh": "神庙石柱",
+    "vi": "Templestone Pillar"
+  },
+  "block.minecraftdungeons.templestone_brick_slab": {
+    "en": "Templestone Brick Slab",
+    "zh": "神庙石砖台阶",
+    "vi": "Templestone Brick Slab"
+  },
+  "block.minecraftdungeons.chiseled_templestone": {
+    "en": "Chiseled Templestone",
+    "zh": "錾制神庙石",
+    "vi": "Chiseled Templestone"
+  },
+  "block.minecraftdungeons.templestone_brick_stairs": {
+    "en": "Templestone Brick Stairs",
+    "zh": "神庙石砖楼梯",
+    "vi": "Templestone Brick Stairs"
+  },
+  "block.minecraftdungeons.smooth_templestone_slab": {
+    "en": "Smooth Templestone Slab",
+    "zh": "平滑神庙石台阶",
+    "vi": "Smooth Templestone Slab"
+  },
+  "block.minecraftdungeons.temple_brazier": {
+    "en": "Brazier",
+    "zh": "火盆",
+    "vi": "Brazier"
+  },
+  "block.minecraftdungeons.key_gate": {
+    "en": "Key Gate",
+    "zh": "钥匙门",
+    "vi": "Key Gate"
+  },
+  "block.minecraftdungeons.ambush_gate": {
+    "en": "Ambush Gate",
+    "zh": "伏击门",
+    "vi": "Ambush Gate"
+  },
+  "block.minecraftdungeons.redstone_core": {
+    "en": "Redstone Core",
+    "zh": "红石核心",
+    "vi": "Redstone Core"
+  },
+  "block.minecraftdungeons.pulsing_obsidian": {
+    "en": "Pulsing Obsidian",
+    "zh": "脉动黑曜石",
+    "vi": "Pulsing Obsidian"
+  },
+  "block.minecraftdungeons.pulsing_obsidian.desc1": {
+    "en": "Obsidian infused with Nether Portal Energy. This was used by the illagers to construct the Obsidian Monstrosity.",
+    "zh": "注入了下界传送门能量的黑曜石。灾厄村民用它来建造黑曜石巨兽。",
+    "vi": "Obsidian truyền năng lượng của một cổng địa ngục. Những kẻ lừa đảo sử dụng nó để xây dựng những con quái vật khổng lồ bằng đá hắc thạch."
+  },
+  "block.minecraftdungeons.pulsing_obsidian.desc2": {
+    "en": "Crafting Ingredient. Serves as the destructive force of the Monstrous Core.",
+    "zh": "合成材料。作为巨兽核心的破坏之力。",
+    "vi": "Vật liệu tổng hợp. Sức mạnh hủy diệt ở trung tâm của con thú."
+  },
+  "creativetab.dungeons_tab": {
+    "en": "Minecraft Dungeons",
+    "zh": "Minecraft Dungeons",
+    "vi": "Minecraft Dungeons"
+  },
+  "entity.minecraftdungeons.squall_golem": {
+    "en": "Squall Golem",
+    "zh": "狂风傀儡",
+    "vi": "Squall Golem"
+  },
+  "entity.minecraftdungeons.tempest_golem": {
+    "en": "Tempest Golem",
+    "zh": "风暴傀儡",
+    "vi": "Tempest Golem"
+  },
+  "entity.minecraftdungeons.redstone_cube": {
+    "en": "Redstone Cube",
+    "zh": "红石立方体",
+    "vi": "Redstone Cube"
+  },
+  "entity.minecraftdungeons.redstone_golem": {
+    "en": "Redstone Golem",
+    "zh": "红石傀儡",
+    "vi": "Redstone Golem"
+  },
+  "entity.minecraftdungeons.redstone_monstrosity": {
+    "en": "Redstone Monstrosity",
+    "zh": "红石巨兽",
+    "vi": "Redstone Monstrosity"
+  },
+  "entity.minecraftdungeons.mooshroom_monstrosity": {
+    "en": "Mooshroom Monstrosity",
+    "zh": "哞菇巨兽",
+    "vi": "Mooshroom Monstrosity"
+  },
+  "entity.minecraftdungeons.skeleton_horseman": {
+    "en": "Skeleton Horseman",
+    "zh": "骷髅骑手",
+    "vi": "Skeleton Horseman"
+  },
+  "entity.minecraftdungeons.obsidian_monstrosity": {
+    "en": "Obsidian Monstrosity",
+    "zh": "黑曜石巨兽",
+    "vi": "Obsidian Monstrosity"
+  },
+  "entity.minecraftdungeons.giant_royal_guard": {
+    "en": "Giant Royal Guard",
+    "zh": "巨型皇家守卫",
+    "vi": "Giant Royal Guard"
+  },
+  "entity.minecraftdungeons.skeletron": {
+    "en": "Skeletron",
+    "zh": "骷髅王",
+    "vi": "Skeletron"
+  },
+  "entity.minecraftdungeons.skeletron_left_arm": {
+    "en": "Skeletron Arm",
+    "zh": "骷髅王手臂",
+    "vi": "Skeletron Arm"
+  },
+  "entity.minecraftdungeons.skeletron_right_arm": {
+    "en": "Skeletron Arm",
+    "zh": "骷髅王手臂",
+    "vi": "Skeletron Arm"
+  },
+  "entity.minecraftdungeons.arch_illager": {
+    "en": "Arch-Illager",
+    "zh": "奇厄教主",
+    "vi": "Arch-Illager"
+  },
+  "entity.minecraftdungeons.heart_of_ender": {
+    "en": "Heart of Ender",
+    "zh": "末影之心",
+    "vi": "Heart of Ender"
+  },
+  "entity.minecraftdungeons.corrupted_cauldron": {
+    "en": "Corrupted Cauldron",
+    "zh": "腐化锅釜怪",
+    "vi": "Corrupted Cauldron"
+  },
+  "entity.minecraftdungeons.nameless_one": {
+    "en": "Nameless One",
+    "zh": "无名者",
+    "vi": "Nameless One"
+  },
+  "entity.minecraftdungeons.false_king": {
+    "en": "False King",
+    "zh": "伪王",
+    "vi": "False King"
+  },
+  "entity.minecraftdungeons.necromancer": {
+    "en": "Necromancer",
+    "zh": "死灵法师",
+    "vi": "Necromancer"
+  },
+  "entity.minecraftdungeons.bound_necromancer": {
+    "en": "Bound Necromancer",
+    "zh": "束缚死灵法师",
+    "vi": "Bound Necromancer"
+  },
+  "entity.minecraftdungeons.key_golem": {
+    "en": "Key Golem",
+    "zh": "钥匙傀儡",
+    "vi": "Key Golem"
+  },
+  "entity.minecraftdungeons.conjured_slime": {
+    "en": "Conjured Slime",
+    "zh": "召唤史莱姆",
+    "vi": "Conjured Slime"
+  },
+  "entity.minecraftdungeons.vanguard": {
+    "en": "Vanguard",
+    "zh": "先锋",
+    "vi": "Vanguard"
+  },
+  "entity.minecraftdungeons.elite_vanguard": {
+    "en": "Elite Vanguard",
+    "zh": "精英先锋",
+    "vi": "Elite Vanguard"
+  },
+  "entity.minecraftdungeons.wraith": {
+    "en": "Wraith",
+    "zh": "幽灵",
+    "vi": "Wraith"
+  },
+  "entity.minecraftdungeons.skeleguard": {
+    "en": "Skeleguard",
+    "zh": "骷髅守卫",
+    "vi": "Skeleguard"
+  },
+  "entity.minecraftdungeons.arch_visage": {
+    "en": "Arch Visage",
+    "zh": "Arch Visage",
+    "vi": "Arch Visage"
+  },
+  "entity.minecraftdungeons.heart_of_clone": {
+    "en": "Heart of Clone",
+    "zh": "克隆之心",
+    "vi": "Heart of Clone"
+  },
+  "entity.minecraftdungeons.frozen_zombie": {
+    "en": "Frozen Zombie",
+    "zh": "冰冻僵尸",
+    "vi": "Frozen Zombie"
+  },
+  "entity.minecraftdungeons.mountaineer": {
+    "en": "Mountaineer",
+    "zh": "登山者",
+    "vi": "Mountaineer"
+  },
+  "entity.minecraftdungeons.royal_guard": {
+    "en": "Royal Guard",
+    "zh": "皇家守卫",
+    "vi": "Royal Guard"
+  },
+  "entity.minecraftdungeons.iceologer": {
+    "en": "Iceologer",
+    "zh": "冰术师",
+    "vi": "Iceologer"
+  },
+  "entity.minecraftdungeons.wind_caller": {
+    "en": "Wind Caller",
+    "zh": "唤风者",
+    "vi": "Wind Caller"
+  },
+  "entity.minecraftdungeons.geomancer": {
+    "en": "Geomancer",
+    "zh": "地卜师",
+    "vi": "Geomancer"
+  },
+  "entity.minecraftdungeons.stone_wall": {
+    "en": "Stone Wall",
+    "zh": "石墙",
+    "vi": "Stone Wall"
+  },
+  "entity.minecraftdungeons.explosive_wall": {
+    "en": "Explosive Wall",
+    "zh": "爆炸墙",
+    "vi": "Explosive Wall"
+  },
+  "entity.minecraftdungeons.phantom_arrow": {
+    "en": "Phantom Arrow",
+    "zh": "幻影箭",
+    "vi": "Phantom Arrow"
+  },
+  "entity.minecraftdungeons.bone_arrow": {
+    "en": "Bone Arrow",
+    "zh": "骨箭",
+    "vi": "Bone Arrow"
+  },
+  "entity.minecraftdungeons.electric_tornado": {
+    "en": "Electric Tornado",
+    "zh": "闪电龙卷风",
+    "vi": "Electric Tornado"
+  },
+  "entity.minecraftdungeons.wind_pillar": {
+    "en": "Wind Pillar",
+    "zh": "风柱",
+    "vi": "Wind Pillar"
+  },
+  "entity.minecraftdungeons.totem_of_regeneration": {
+    "en": "Totem of Regeneration",
+    "zh": "再生图腾",
+    "vi": "Totem of Regeneration"
+  },
+  "effect.minecraftdungeons.corruption": {
+    "en": "Corruption",
+    "zh": "腐化",
+    "vi": "tham nhũng"
+  },
+  "effect.minecraftdungeons.mushroomized": {
+    "en": "Mushroomized",
+    "zh": "蘑菇化",
+    "vi": "nấm"
+  },
+  "effect.minecraftdungeons.no_summon": {
+    "en": "No Summons",
+    "zh": "禁止召唤",
+    "vi": "Cấm triệu tập"
+  },
+  "item.minecraftdungeons.monstrous_ingot": {
+    "en": "Monstrous Ingot",
+    "zh": "巨兽锭",
+    "vi": "Monstrous Ingot"
+  },
+  "item.minecraftdungeons.cauldron_shard": {
+    "en": "Cauldron Shard",
+    "zh": "大釜碎片",
+    "vi": "Cauldron Shard"
+  },
+  "item.minecraftdungeons.cauldron_shard.desc1": {
+    "en": "A shard of iron from the Corrupted Cauldron",
+    "zh": "来自被腐化大釜的铁碎片",
+    "vi": "Những mảnh sắt từ chiếc vạc hỏng"
+  },
+  "item.minecraftdungeons.cauldron_shard.desc2": {
+    "en": "Used as a crafting ingredient",
+    "zh": "用作合成材料",
+    "vi": "được sử dụng làm vật liệu tổng hợp"
+  },
+  "item.minecraftdungeons.squall_golem_spawn_egg": {
+    "en": "Squall Golem Spawn Egg",
+    "zh": "狂风傀儡刷怪蛋",
+    "vi": "Squall Golem Spawn Egg"
+  },
+  "item.minecraftdungeons.tempest_golem_spawn_egg": {
+    "en": "Tempest Golem Spawn Egg",
+    "zh": "风暴傀儡刷怪蛋",
+    "vi": "Tempest Golem Spawn Egg"
+  },
+  "item.minecraftdungeons.redstone_cube_spawn_egg": {
+    "en": "Redstone Cube Spawn Egg",
+    "zh": "红石立方体刷怪蛋",
+    "vi": "Redstone Cube Spawn Egg"
+  },
+  "item.minecraftdungeons.redstone_golem_spawn_egg": {
+    "en": "Redstone Golem Spawn Egg",
+    "zh": "红石傀儡刷怪蛋",
+    "vi": "Redstone Golem Spawn Egg"
+  },
+  "item.minecraftdungeons.redstone_monstrosity_spawn_egg": {
+    "en": "Redstone Monstrosity Spawn Egg",
+    "zh": "红石巨兽刷怪蛋",
+    "vi": "Redstone Monstrosity Spawn Egg"
+  },
+  "item.minecraftdungeons.arch_illager_spawn_egg": {
+    "en": "Arch-Illager Spawn Egg",
+    "zh": "奇厄教主刷怪蛋",
+    "vi": "Arch-Illager Spawn Egg"
+  },
+  "item.minecraftdungeons.heart_of_ender_spawn_egg": {
+    "en": "Heart of Ender Spawn Egg",
+    "zh": "末影之心刷怪蛋",
+    "vi": "Heart of Ender Spawn Egg"
+  },
+  "item.minecraftdungeons.corrupted_cauldron_spawn_egg": {
+    "en": "Corrupted Cauldron Spawn Egg",
+    "zh": "腐化锅釜怪刷怪蛋",
+    "vi": "Corrupted Cauldron Spawn Egg"
+  },
+  "item.minecraftdungeons.nameless_one_spawn_egg": {
+    "en": "Nameless One Spawn Egg",
+    "zh": "无名者刷怪蛋",
+    "vi": "Nameless One Spawn Egg"
+  },
+  "item.minecraftdungeons.frozen_zombie_spawn_egg": {
+    "en": "Frozen Zombie Spawn Egg",
+    "zh": "冰冻僵尸刷怪蛋",
+    "vi": "Frozen Zombie Spawn Egg"
+  },
+  "item.minecraftdungeons.mountaineer_spawn_egg": {
+    "en": "Mountaineer Spawn Egg",
+    "zh": "登山者刷怪蛋",
+    "vi": "Mountaineer Spawn Egg"
+  },
+  "item.minecraftdungeons.royal_guard_spawn_egg": {
+    "en": "Royal Guard Spawn Egg",
+    "zh": "皇家守卫刷怪蛋",
+    "vi": "Royal Guard Spawn Egg"
+  },
+  "item.minecraftdungeons.iceologer_spawn_egg": {
+    "en": "Iceologer Spawn Egg",
+    "zh": "冰术师刷怪蛋",
+    "vi": "Iceologer Spawn Egg"
+  },
+  "item.minecraftdungeons.wind_caller_spawn_egg": {
+    "en": "Wind Caller Spawn Egg",
+    "zh": "唤风者刷怪蛋",
+    "vi": "Wind Caller Spawn Egg"
+  },
+  "item.minecraftdungeons.geomancer_spawn_egg": {
+    "en": "Geomancer Spawn Egg",
+    "zh": "地卜师刷怪蛋",
+    "vi": "Geomancer Spawn Egg"
+  },
+  "item.minecraftdungeons.skeleton_horseman_spawn_egg": {
+    "en": "Skeleton Horseman Spawn Egg",
+    "zh": "骷髅骑手刷怪蛋",
+    "vi": "Skeleton Horseman Spawn Egg"
+  },
+  "item.minecraftdungeons.conjured_slime_spawn_egg": {
+    "en": "Conjured Slime Spawn Egg",
+    "zh": "召唤史莱姆刷怪蛋",
+    "vi": "Conjured Slime Spawn Egg"
+  },
+  "item.minecraftdungeons.vanguard_spawn_egg": {
+    "en": "Vanguard Spawn Egg",
+    "zh": "先锋刷怪蛋",
+    "vi": "Vanguard Spawn Egg"
+  },
+  "item.minecraftdungeons.elite_vanguard_spawn_egg": {
+    "en": "Elite Vanguard Spawn Egg",
+    "zh": "精英先锋刷怪蛋",
+    "vi": "Elite Vanguard Spawn Egg"
+  },
+  "item.minecraftdungeons.wraith_spawn_egg": {
+    "en": "Wraith Spawn Egg",
+    "zh": "幽灵刷怪蛋",
+    "vi": "Wraith Spawn Egg"
+  },
+  "item.minecraftdungeons.necromancer_spawn_egg": {
+    "en": "Necromancer Spawn Egg",
+    "zh": "死灵法师刷怪蛋",
+    "vi": "Necromancer Spawn Egg"
+  },
+  "item.minecraftdungeons.obsidian_monstrosity_spawn_egg": {
+    "en": "Obsidian Monstrosity Spawn Egg",
+    "zh": "黑曜石巨兽刷怪蛋",
+    "vi": "Obsidian Monstrosity Spawn Egg"
+  },
+  "item.minecraftdungeons.mooshroom_monstrosity_spawn_egg": {
+    "en": "Mooshroom Monstrosity Spawn Egg",
+    "zh": "哞菇巨兽刷怪蛋",
+    "vi": "Mooshroom Monstrosity Spawn Egg"
+  },
+  "item.minecraftdungeons.giant_royal_guard_spawn_egg": {
+    "en": "Giant Royal Guard Spawn Egg",
+    "zh": "巨型皇家守卫刷怪蛋",
+    "vi": "Giant Royal Guard Spawn Egg"
+  },
+  "item.minecraftdungeons.skeleguard_spawn_egg": {
+    "en": "Skeleguard Spawn Egg",
+    "zh": "骷髅守卫刷怪蛋",
+    "vi": "Skeleguard Spawn Egg"
+  },
+  "item.minecraftdungeons.bound_necromancer_spawn_egg": {
+    "en": "Bound Necromancer Spawn Egg",
+    "zh": "束缚死灵法师刷怪蛋",
+    "vi": "Bound Necromancer Spawn Egg"
+  },
+  "item.minecraftdungeons.skeleton_horseman_music_disc": {
+    "en": "Skeleton Music Disc",
+    "zh": "骷髅音乐唱片",
+    "vi": "Skeleton Music Disc"
+  },
+  "item.minecraftdungeons.skeleton_horseman_music_disc.desc": {
+    "en": "Peter Hont - The Four Horsemen",
+    "zh": "Peter Hont - 四骑士",
+    "vi": "Peter Hont - Bốn kỵ sĩ"
+  },
+  "item.minecraftdungeons.arch_illager_music_disc": {
+    "en": "Illager Music Disc",
+    "zh": "灾厄村民音乐唱片",
+    "vi": "Illager Music Disc"
+  },
+  "item.minecraftdungeons.arch_illager_music_disc.desc": {
+    "en": "Peter Hont - The Arch Illager",
+    "zh": "Peter Hont - Arch Illager",
+    "vi": "Peter Hont - Arch Illager"
+  },
+  "item.minecraftdungeons.redstone_music_disc": {
+    "en": "Redstone Music Disc",
+    "zh": "红石音乐唱片",
+    "vi": "Redstone Music Disc"
+  },
+  "item.minecraftdungeons.redstone_music_disc.desc": {
+    "en": "Johan Johnson - Redstone Monstrosity",
+    "zh": "Johan Johnson - 红石巨兽",
+    "vi": "Johan Johnson - Người khổng lồ Redstone"
+  },
+  "item.minecraftdungeons.cauldron_music_disc": {
+    "en": "Cauldron Music Disc",
+    "zh": "大釜音乐唱片",
+    "vi": "Cauldron Music Disc"
+  },
+  "item.minecraftdungeons.cauldron_music_disc.desc": {
+    "en": "Johan Johnson - Cauldron",
+    "zh": "Johan Johnson - 大釜",
+    "vi": "Johan Johnson - Cái Vạc"
+  },
+  "item.minecraftdungeons.obsidian_monstrosity_music_disc": {
+    "en": "Obsidian Music Disc",
+    "zh": "黑曜石音乐唱片",
+    "vi": "Obsidian Music Disc"
+  },
+  "item.minecraftdungeons.obsidian_monstrosity_music_disc.desc": {
+    "en": "Johan Johnson - arena1",
+    "zh": "Johan Johnson - arena1",
+    "vi": "Johan Johnson - arena1"
+  },
+  "item.minecraftdungeons.nameless_one_music_disc": {
+    "en": "Nameless Music Disc",
+    "zh": "无名者音乐唱片",
+    "vi": "Nameless Music Disc"
+  },
+  "item.minecraftdungeons.nameless_one_music_disc.desc": {
+    "en": "Johan Johnson - Necromancer",
+    "zh": "Johan Johnson - 死灵法师",
+    "vi": "Johan Johnson - Thầy chiêu hồn"
+  },
+  "item.minecraftdungeons.sacred_music_disc": {
+    "en": "Sacred Music Disc",
+    "zh": "神圣音乐唱片",
+    "vi": "Sacred Music Disc"
+  },
+  "item.minecraftdungeons.sacred_music_disc.desc": {
+    "en": "No name has been added yet",
+    "zh": "尚未添加名称",
+    "vi": "Chưa có tên nào được thêm vào"
+  },
+  "item.minecraftdungeons.remote_redstone_device": {
+    "en": "Remote Redstone Device",
+    "zh": "远程红石装置",
+    "vi": "Remote Redstone Device"
+  },
+  "item.minecraftdungeons.sacred_tablet": {
+    "en": "Sacred Tablet",
+    "zh": "神圣石板",
+    "vi": "Sacred Tablet"
+  },
+  "item.minecraftdungeons.sacred_tablet.desc1": {
+    "en": "An ancient stone tablet pulsing with power.",
+    "zh": "一块充满力量的古老石板。",
+    "vi": "Một tấm bia đá cổ đầy sức mạnh."
+  },
+  "item.minecraftdungeons.sacred_tablet.desc2": {
+    "en": "Used to summon the boss rush (W.I.P)",
+    "zh": "用于召唤 Boss Rush（制作中）",
+    "vi": "Dùng để triệu hồi Boss Rush (đang sản xuất)"
+  },
+  "item.minecraftdungeons.tablet_of_sovereignty": {
+    "en": "Tablet of Sovereignty (W.I.P)",
+    "zh": "主权石板（制作中）",
+    "vi": "Tablet of Sovereignty (W.I.P)"
+  },
+  "item.minecraftdungeons.tablet_of_sovereignty.desc1": {
+    "en": "A Sacred Tablet overflowing with powerful energy",
+    "zh": "一块充满强大能量的神圣石板",
+    "vi": "Một phiến đá thiêng chứa đầy năng lượng mạnh mẽ"
+  },
+  "item.minecraftdungeons.tablet_of_sovereignty.desc2": {
+    "en": "Acquired from the Boss Rush",
+    "zh": "从 Boss Rush 中获得",
+    "vi": "Nhận được từ Boss Rush"
+  },
+  "item.minecraftdungeons.tablet_of_sovereignty.desc3": {
+    "en": "Currently work-in-progress. Using this item as of version 1.0 may result in mass destruction.",
+    "zh": "目前正在制作中。在 1.0 版本中使用此物品可能导致大规模毁灭。",
+    "vi": "Hiện đang trong quá trình sản xuất. Sử dụng vật phẩm này trong phiên bản 1.0 có thể dẫn đến sự hủy diệt hàng loạt."
+  },
+  "item.minecraftdungeons.redstone_medallion": {
+    "en": "Redstone Medallion",
+    "zh": "红石勋章",
+    "vi": "Redstone Medallion"
+  },
+  "item.minecraftdungeons.redstone_medallion.desc1": {
+    "en": "A medallion infused with redstone and destructive energy",
+    "zh": "一枚注入了红石和破坏能量的勋章",
+    "vi": "Một huy chương chứa đá đỏ và năng lượng hủy diệt"
+  },
+  "item.minecraftdungeons.redstone_medallion.desc2": {
+    "en": "Right-Click to shoot a projectile that splits into 6 projectiles and summons a laser on impact.",
+    "zh": "右键点击发射一个弹射物，它会分裂成6个弹射物并在撞击时召唤一道激光。",
+    "vi": "Nhấp chuột phải để bắn một viên đạn, viên đạn này sẽ chia thành 6 viên đạn và tạo ra tia laser khi va chạm."
+  },
+  "item.minecraftdungeons.soul_jar": {
+    "en": "Soul Jar",
+    "zh": "灵魂罐",
+    "vi": "Soul Jar"
+  },
+  "item.minecraftdungeons.soul_jar.desc1": {
+    "en": "A jar beholding an immortal soul from the Nether",
+    "zh": "一个装有来自下界的不朽灵魂的罐子",
+    "vi": "Chiếc lọ chứa linh hồn bất tử từ địa ngục"
+  },
+  "item.minecraftdungeons.soul_jar.desc2": {
+    "en": "Right-click to shoot 5 heavy-damage projectiles, or Shift+Right-click to either summon the Bound Necromancer or teleport an existing Bound Necromancer to your position.",
+    "zh": "右键点击发射5枚高伤害弹射物，或Shift+右键点击召唤一个束缚死灵法师或将现有的束缚死灵法师传送到你的位置。",
+    "vi": "Nhấp chuột phải để bắn 5 viên đạn có sức sát thương cao hoặc Shift+nhấp chuột phải để triệu hồi Bind Necromancer hoặc dịch chuyển một Bind Necromancer hiện có đến vị trí của bạn."
+  },
+  "item.minecraftdungeons.corrupted_mace": {
+    "en": "Corrupted Mace",
+    "zh": "被腐化的狼牙棒",
+    "vi": "Corrupted Mace"
+  },
+  "item.minecraftdungeons.corrupted_mace.desc1": {
+    "en": "Was once a normal mace, is now infused with the corrupted energy of the Orb of Dominance. Only the corrupted can wield this without getting hurt.",
+    "zh": "曾经是一把普通的狼牙棒，现在注入了支配之球的腐化能量。只有被腐化者才能在不受伤的情况下使用它。",
+    "vi": "Từng là một chiếc chùy đơn giản, giờ được truyền năng lượng hư hỏng của Quả cầu Thống trị. Chỉ Kẻ bị hỏng mới có thể sử dụng nó mà không bị sát thương."
+  },
+  "item.minecraftdungeons.corrupted_mace.desc2": {
+    "en": "Is a melee weapon, dealing AOE damage on impact. Inflicts the enemy with corruption upon impact for 3 seconds, but due to its corrupt nature, it also inflicts corruption onto the wielder for 1 second.",
+    "zh": "近战武器，击中时造成范围伤害。击中时使敌人感染腐化效果3秒，但由于其腐化本性，也会使使用者感染腐化效果1秒。",
+    "vi": "Vũ khí cận chiến gây sát thương khu vực khi đánh. Lây nhiễm tham nhũng cho kẻ thù trong 3 giây khi bị tấn công, nhưng do tính chất tham nhũng của nó, nó cũng lây nhiễm tham nhũng cho người dùng trong 1 giây."
+  },
+  "item.minecraftdungeons.obsidian_staff": {
+    "en": "Obsidian Staff",
+    "zh": "黑曜石法杖",
+    "vi": "Obsidian Staff"
+  },
+  "item.minecraftdungeons.obsidian_staff.desc1": {
+    "en": "A magic staff made of pure obsidian, beholding a Nether Portal infused gemstone",
+    "zh": "一把由纯黑曜石制成的魔法法杖，握有一颗注入了下界传送门的宝石",
+    "vi": "Một cây trượng ma thuật được làm bằng hắc thạch nguyên chất, cầm một viên đá quý có cổng địa ngục"
+  },
+  "item.minecraftdungeons.obsidian_staff.desc2": {
+    "en": "Right-click to shoot a projectile, or shift-right-click to summon Obsidian Bombs around you that leave behind harming clouds",
+    "zh": "右键点击发射一个弹射物，或Shift+右键点击在你周围召唤留下伤害云的黑曜石炸弹",
+    "vi": "Nhấp chuột phải để bắn một viên đạn hoặc Shift+nhấp chuột phải để triệu hồi những quả bom hắc diện thạch để lại đám mây sát thương xung quanh bạn."
+  },
+  "item.minecraftdungeons.relic_of_the_arch_illager": {
+    "en": "Relic of the Arch-Illager",
+    "zh": "奇厄教主遗物",
+    "vi": "Relic of the Arch-Illager"
+  },
+  "item.minecraftdungeons.relic_of_the_arch_illager.desc1": {
+    "en": "A stone relic infused with corrupted powers. Even though the Orb of Dominance shattered, staring at the runes makes it seem like it is still watching you.",
+    "zh": "一块注入了腐化力量的石质遗物。即使支配之球已经破碎，凝视符文时仍感觉它在注视着你。",
+    "vi": "Một di tích bằng đá thấm đẫm sức mạnh hư hỏng. Ngay cả khi Quả cầu thống trị bị vỡ, hãy nhìn vào chữ rune và cảm thấy nó đang theo dõi bạn."
+  },
+  "item.minecraftdungeons.relic_of_the_arch_illager.desc2": {
+    "en": "Has 4 different modes. Right-clicking performs the attack, while Shift+Right-click changes modes. Mode 1 fires an outward ring of projectiles. Mode 2 summons a falling rain of projectiles. Mode 3 summons 4 spirals of Corrupted Fangs. Mode 4 summons a Corrupted Fang shockwave.",
+    "zh": "有4种不同的模式。右键点击执行攻击，而Shift+右键点击切换模式。模式1发射一圈向外扩散的弹射物。模式2召唤一阵落下的弹射物雨。模式3召唤4道螺旋状的腐化之牙。模式4召唤一道腐化之牙冲击波。",
+    "vi": "Có 4 chế độ khác nhau. Nhấp chuột phải để thực hiện cuộc tấn công, trong khi Shift+chuột phải sẽ chuyển chế độ. Chế độ 1 bắn ra một vòng đạn lan ra bên ngoài. Chế độ 2 triệu hồi một cơn mưa đạn rơi. Chế độ 3 triệu hồi 4 chiếc Nanh hỏng xoắn ốc. Chế độ 4 triệu hồi một loạt Nanh hỏng."
+  },
+  "item.minecraftdungeons.void_constructor": {
+    "en": "Void Constructor (W.I.P.)",
+    "zh": "虚空构造体（制作中）",
+    "vi": "Void Constructor (W.I.P.)"
+  },
+  "item.minecraftdungeons.void_constructor.desc1": {
+    "en": "An hourglass-like figure, beholding an eye surrounded in the void. You can feel the Heart of Ender's rage while holding it.",
+    "zh": "一个沙漏状的形象，握有一颗被虚空包围的眼睛。握着它时能感受到末影之心的愤怒。",
+    "vi": "Một hình dáng đồng hồ cát đang giữ một con mắt được bao quanh bởi khoảng không. Bạn có thể cảm nhận được cơn thịnh nộ của Heart of Ender khi cầm nó."
+  },
+  "item.minecraftdungeons.void_constructor.desc2": {
+    "en": "Currently W.I.P.",
+    "zh": "目前正在制作中。",
+    "vi": "Hiện đang trong quá trình sản xuất."
+  },
+  "item.minecraftdungeons.blast_fungus": {
+    "en": "Blast Fungus",
+    "zh": "爆裂真菌",
+    "vi": "Blast Fungus"
+  },
+  "item.minecraftdungeons.blast_fungus.desc1": {
+    "en": "It takes strong will to wield these fungi. Not just because they have toxic spores, but because their smell is horrible.",
+    "zh": "需要坚强的意志才能使用这些真菌。不仅因为它们有毒孢子，还因为它们的味道很难闻。",
+    "vi": "Cần phải có ý chí mạnh mẽ để sử dụng những loại nấm này. Không chỉ vì chúng có bào tử độc mà còn vì chúng có mùi rất kinh khủng."
+  },
+  "item.minecraftdungeons.blast_fungus.desc2": {
+    "en": "Throws 5 blast fungi into the air. They burst on impact, dealing area damage and leaving a poison cloud at the impact point.",
+    "zh": "向空中投掷5颗爆裂真菌。它们在撞击时爆裂，造成范围伤害并在撞击点留下一片毒雾。",
+    "vi": "Ném 5 cây nấm phát nổ vào không khí. Chúng phát nổ khi va chạm, gây sát thương diện rộng và để lại khói độc tại điểm va chạm."
+  },
+  "item.minecraftdungeons.scatter_mines": {
+    "en": "Scatter Mines",
+    "zh": "散播地雷",
+    "vi": "Scatter Mines"
+  },
+  "item.minecraftdungeons.scatter_mines.desc1": {
+    "en": "The scatter mines are said to set your enemies up for the surprise of a lifetime. Simply put, you set them up to experience the big bang.",
+    "zh": "据说散播地雷能让你的敌人经历一生中最惊喜的时刻。简单来说，你为他们安排了体验宇宙大爆炸的机会。",
+    "vi": "Việc rải mìn được cho là mang lại cho kẻ thù của bạn khoảnh khắc đáng ngạc nhiên nhất trong cuộc đời chúng. Nói một cách đơn giản, bạn đang cho họ cơ hội trải nghiệm Vụ nổ lớn."
+  },
+  "item.minecraftdungeons.scatter_mines.desc2": {
+    "en": "Used to summon 3 scatter mines around the player. One in front, one to the left, and one to the right.",
+    "zh": "用于在玩家周围召唤3颗散播地雷。一颗在前，一颗在左，一颗在右。",
+    "vi": "Dùng để triệu hồi 3 quả mìn rải rác xung quanh người chơi. Một ở phía trước, một ở bên trái và một ở bên phải."
+  },
+  "item.minecraftdungeons.cauldron_helmet": {
+    "en": "Cauldron Helmet",
+    "zh": "大釜头盔",
+    "vi": "Cauldron Helmet"
+  },
+  "item.minecraftdungeons.cauldron_helmet.desc1": {
+    "en": "A helmet made with the shards of the Corrupted Cauldron",
+    "zh": "用腐化锅釜怪碎片制成的头盔",
+    "vi": "Mũ bảo hiểm làm từ mảnh vạc hỏng"
+  },
+  "item.minecraftdungeons.cauldron_helmet.desc2": {
+    "en": "Grants Regeneration. Can also summon Conjured Slimes to fight for you upon taking damage.",
+    "zh": "给予生命恢复效果。受到伤害时还有机会召唤召唤史莱姆为你战斗。",
+    "vi": "Mang lại hiệu quả phục hồi cuộc sống. Khi bạn nhận sát thương, bạn có cơ hội triệu hồi slime để chiến đấu vì bạn."
+  },
+  "item.minecraftdungeons.totem_of_regeneration": {
+    "en": "Totem of Regeneration",
+    "zh": "再生图腾",
+    "vi": "Totem of Regeneration"
+  },
+  "item.minecraftdungeons.totem_of_regeneration.desc1": {
+    "en": "This hand-crafted wooden figurine radiates a warmth like that of campfire, healing those around it.",
+    "zh": "这个手工制作的木制小雕像散发着篝火般的温暖，治愈着周围的人。",
+    "vi": "Bức tượng gỗ thủ công này tỏa ra hơi ấm của lửa trại, chữa lành vết thương cho những người xung quanh."
+  },
+  "item.minecraftdungeons.totem_of_regeneration.desc2": {
+    "en": "Places down a wooden totem that creates a circular red aura, healing you and your allies.",
+    "zh": "放置一个木制图腾，创造一个圆形红色光环，治疗你和你的盟友。",
+    "vi": "Đặt một vật tổ bằng gỗ để tạo ra hào quang màu đỏ hình tròn giúp chữa lành vết thương cho bạn và đồng minh."
+  },
+  "item.minecraftdungeons.death_cap_mushroom": {
+    "en": "Death Cap Mushroom",
+    "zh": "死亡帽蘑菇",
+    "vi": "Death Cap Mushroom"
+  },
+  "item.minecraftdungeons.death_cap_mushroom.desc1": {
+    "en": "Eaten by daring warriors before battle, this mushroom drives fighters into a frenzy.",
+    "zh": "勇敢的战士在战斗前食用，这种蘑菇能让战士陷入狂热状态。",
+    "vi": "Được các chiến binh dũng cảm tiêu thụ trước trận chiến, loại nấm này có thể khiến các chiến binh rơi vào trạng thái điên cuồng."
+  },
+  "item.minecraftdungeons.death_cap_mushroom.desc2": {
+    "en": "Greatly increases both movement and attack speed when eaten.",
+    "zh": "食用后大幅提升移动速度和攻击速度。",
+    "vi": "Sau khi ăn, tốc độ di chuyển và tốc độ tấn công được tăng lên rất nhiều."
+  },
+  "item.minecraftdungeons.mace": {
+    "en": "Mace",
+    "zh": "狼牙棒",
+    "vi": "Mace"
+  },
+  "item.minecraftdungeons.mace.desc1": {
+    "en": "A brutal tool of war. What it lacks in finesse, it makes up for in power.",
+    "zh": "一种残酷的战争工具。缺乏技巧，但威力十足。",
+    "vi": "Một công cụ chiến tranh tàn ác. Thiếu kỹ thuật nhưng đầy sức mạnh."
+  },
+  "item.minecraftdungeons.mace.desc2": {
+    "en": "Is a melee weapon. Deals AOE damage on impact.",
+    "zh": "近战武器。击中时造成范围伤害。",
+    "vi": "Vũ khí cận chiến. Gây sát thương khu vực khi đánh."
+  },
+  "item.minecraftdungeons.glaive": {
+    "en": "Glaive",
+    "zh": "长柄刀",
+    "vi": "Glaive"
+  },
+  "item.minecraftdungeons.glaive.desc1": {
+    "en": "A weapon of style and power, it is a favorite among the servants of the Nameless One.",
+    "zh": "一件兼具风格与力量的武器，深受无名者仆从们的喜爱。",
+    "vi": "Một vũ khí đầy phong cách và quyền lực, được những người hầu của Kẻ Vô Danh yêu quý."
+  },
+  "item.minecraftdungeons.glaive.desc2": {
+    "en": "Is a fast melee weapon.",
+    "zh": "快速近战武器。",
+    "vi": "Vũ khí cận chiến nhanh."
+  },
+  "item.minecraftdungeons.venom_glaive": {
+    "en": "Venom Glaive",
+    "zh": "剧毒长柄刀",
+    "vi": "Venom Glaive"
+  },
+  "item.minecraftdungeons.venom_glaive.desc1": {
+    "en": "A weapon of style, with a sharp blade surrounded by a toxic cloud that always seems to follow it. It is only used by the elite guard of the Nameless One.",
+    "zh": "一件风格独特的武器，锋利的刀刃周围总是环绕着一团毒云。只有无名者的精英卫队才使用它。",
+    "vi": "Một loại vũ khí có kiểu dáng độc đáo, lưỡi kiếm sắc bén luôn được bao quanh bởi một đám mây độc. Chỉ có Vệ binh Tinh nhuệ của Những Người Vô Danh mới sử dụng nó."
+  },
+  "item.minecraftdungeons.venom_glaive.desc2": {
+    "en": "Is a fast melee weapon. Poisons enemies that touch its blade.",
+    "zh": "快速近战武器。使接触其刀刃的敌人中毒。",
+    "vi": "Vũ khí cận chiến nhanh. Đầu độc kẻ thù tiếp xúc với lưỡi kiếm của nó."
+  },
+  "item.minecraftdungeons.prismatic_shell": {
+    "en": "Prismatic Shell",
+    "zh": "棱彩外壳",
+    "vi": "Prismatic Shell"
+  },
+  "item.minecraftdungeons.prismatic_shell.desc1": {
+    "en": "A sphere glowing in prismatic colors. It's colorful properties make it the only shell capable of storing many great powers inside without blowing up.",
+    "zh": "一个闪耀着棱彩色泽的球体。其多彩的特性使其成为唯一能够在不爆炸的情况下储存多种强大力量的外壳。",
+    "vi": "Một quả cầu tỏa sáng với màu lăng kính. Đặc tính đầy màu sắc của nó khiến nó trở thành lớp vỏ duy nhất có khả năng lưu trữ nhiều sức mạnh mạnh mẽ mà không phát nổ."
+  },
+  "item.minecraftdungeons.prismatic_shell.desc2": {
+    "en": "Crafting Ingredient. Serves as the shell of the Sacred Core.",
+    "zh": "合成材料。作为神圣核心的外壳。",
+    "vi": "Vật liệu tổng hợp. Là lớp vỏ bên ngoài của lõi thiêng liêng."
+  },
+  "item.minecraftdungeons.monstrous_core": {
+    "en": "Monstrous Core",
+    "zh": "巨兽核心",
+    "vi": "Monstrous Core"
+  },
+  "item.minecraftdungeons.monstrous_core.desc1": {
+    "en": "A stone pulsing with destructive powers. Rumors say that shattering one would demolish entire biomes.",
+    "zh": "一块充满破坏力量的石头。传言说打碎一块就能摧毁整个生物群系。",
+    "vi": "Một hòn đá đầy sức mạnh hủy diệt. Có tin đồn rằng việc phá vỡ một mảnh có thể phá hủy toàn bộ quần xã."
+  },
+  "item.minecraftdungeons.monstrous_core.desc2": {
+    "en": "Crafting Ingredient. Serves as the power source of the Sacred Core.",
+    "zh": "合成材料。作为神圣核心的能量源。",
+    "vi": "Vật liệu tổng hợp. Là nguồn năng lượng ở lõi thiêng liêng."
+  },
+  "item.minecraftdungeons.contained_void": {
+    "en": "Contained Void",
+    "zh": "封存虚空",
+    "vi": "Contained Void"
+  },
+  "item.minecraftdungeons.contained_void.desc1": {
+    "en": "A container withholding the nothingness of the End.",
+    "zh": "一个装有无尽虚空的容器。",
+    "vi": "Một nơi chứa đựng khoảng trống vô tận."
+  },
+  "item.minecraftdungeons.contained_void.desc2": {
+    "en": "Crafting Ingredient. Serves as the stabilizer of the Sacred Core.",
+    "zh": "合成材料。作为神圣核心的稳定器。",
+    "vi": "Vật liệu tổng hợp. Phục vụ như một chất ổn định của lõi thiêng liêng."
+  },
+  "item.minecraftdungeons.monstrous_mushroom": {
+    "en": "Monstrous Mushroom",
+    "zh": "巨兽蘑菇",
+    "vi": "Monstrous Mushroom"
+  },
+  "item.minecraftdungeons.monstrous_mushroom.desc1": {
+    "en": "A large fungus acquired from the Mooshroom Monstrosity.",
+    "zh": "从哞菇巨兽那里获得的大型真菌。",
+    "vi": "Một loại nấm lớn thu được từ quái vật mooshroom."
+  },
+  "item.minecraftdungeons.monstrous_mushroom.desc2": {
+    "en": "Crafting Ingredient for the Monstrous Core.",
+    "zh": "巨兽核心的合成材料。",
+    "vi": "Vật liệu tổng hợp của Behemoth Core."
+  },
+  "item.minecraftdungeons.monstrous_hand": {
+    "en": "Monstrous Hand",
+    "zh": "巨兽之手",
+    "vi": "Monstrous Hand"
+  },
+  "item.minecraftdungeons.monstrous_hand.desc1": {
+    "en": "The oversized hand of the Redstone Monstrosity. Capable of smashing precious objects",
+    "zh": "红石巨兽的巨大手掌。能够粉碎珍贵的物品。",
+    "vi": "Lòng bàn tay khổng lồ của con thú đá đỏ. Có khả năng nghiền nát các vật phẩm quý giá."
+  },
+  "item.minecraftdungeons.monstrous_hand.desc2": {
+    "en": "Crafting Ingredient for the Monstrous Core. Handle with care.",
+    "zh": "巨兽核心的合成材料。小心轻放。",
+    "vi": "Vật liệu tổng hợp của Behemoth Core. Xử lý cẩn thận."
+  },
+  "item.minecraftdungeons.prismatic_reinforcement_plate": {
+    "en": "Prismatic Reinforcement Plate",
+    "zh": "棱彩强化板",
+    "vi": "Prismatic Reinforcement Plate"
+  },
+  "item.minecraftdungeons.prismatic_reinforcement_plate.desc1": {
+    "en": "A colorful reinforcement plate that has the strength of obsidian.",
+    "zh": "一块具有黑曜石强度的彩色强化板。",
+    "vi": "Một tấm ván ép màu có độ bền của hắc diện thạch."
+  },
+  "item.minecraftdungeons.prismatic_reinforcement_plate.desc2": {
+    "en": "Crafting Ingredient for the Prismatic Shell.",
+    "zh": "棱彩外壳的合成材料。",
+    "vi": "Vỏ lăng trụ làm bằng vật liệu tổng hợp."
+  },
+  "item.minecraftdungeons.redstone_gem": {
+    "en": "Redstone Gem",
+    "zh": "红石宝石",
+    "vi": "Redstone Gem"
+  },
+  "item.minecraftdungeons.golden_gemstone": {
+    "en": "Golden Gemstone",
+    "zh": "金色宝石",
+    "vi": "Golden Gemstone"
+  },
+  "item.minecraftdungeons.polished_emerald": {
+    "en": "Polished Emerald",
+    "zh": "抛光绿宝石",
+    "vi": "Polished Emerald"
+  },
+  "item.minecraftdungeons.polished_diamond": {
+    "en": "Polished Diamond",
+    "zh": "抛光钻石",
+    "vi": "Polished Diamond"
+  },
+  "item.minecraftdungeons.sacred_core": {
+    "en": "Sacred Core",
+    "zh": "神圣核心",
+    "vi": "Sacred Core"
+  },
+  "item.minecraftdungeons.sacred_core.desc1": {
+    "en": "A powerful core, pulsing with color and destruction. Smashing one might result in the end of the dimension, but harnessing it's power could bring great treasures.",
+    "zh": "一个强大的核心，闪烁着色彩与毁灭。打碎一个可能会导致维度的终结，但驾驭其力量可能会带来巨大的宝藏。",
+    "vi": "Một lõi mạnh mẽ lấp lánh đầy màu sắc và sự hủy diệt. Phá vỡ một cái có thể đánh dấu sự kết thúc của chiều không gian, nhưng khai thác sức mạnh của nó có thể dẫn đến những kho báu lớn."
+  },
+  "item.minecraftdungeons.sacred_core.desc2": {
+    "en": "Crafting Ingredient for the Sacred Tablet.",
+    "zh": "神圣石板的合成材料。",
+    "vi": "Một vật liệu tổng hợp cho các viên thuốc thiêng liêng."
+  },
+  "item.minecraftdungeons.blazing_orb": {
+    "en": "Blazing Orb",
+    "zh": "炽焰宝珠",
+    "vi": "Blazing Orb"
+  },
+  "item.minecraftdungeons.blazing_orb.desc1": {
+    "en": "A small orb burning with flames of destruction. Some wonder if the Redstone Golem's finger is the reason it lit up in the first place.",
+    "zh": "一个小型宝珠，燃烧着毁灭的火焰。有些人想知道是不是红石傀儡的手指让它首先亮了起来。",
+    "vi": "Một quả cầu nhỏ đang cháy với ngọn lửa hủy diệt. Một số người thắc mắc liệu có phải ngón tay của con golem đá đỏ đã khiến nó phát sáng ngay từ đầu hay không."
+  },
+  "item.minecraftdungeons.blazing_orb.desc2": {
+    "en": "Crafting Ingredient for the Arch of Menace.",
+    "zh": "威胁之弓的合成材料。",
+    "vi": "Nguyên liệu chế tạo Cung đe dọa."
+  },
+  "item.minecraftdungeons.cauldron_ladle": {
+    "en": "Cauldron Ladle",
+    "zh": "大釜长勺",
+    "vi": "Cauldron Ladle"
+  },
+  "item.minecraftdungeons.cauldron_ladle.desc1": {
+    "en": "The ladle used by the Corrupted Cauldron to brew menacing beasts. Rumors say trying to brew a potion with it may result in resurrecting the Cauldron, or just a really nasty explosion.",
+    "zh": "腐化锅釜怪用来酿造可怕生物的长勺。传言说试图用它酿造药水可能会导致复活大釜，或者只是一场非常糟糕的爆炸。",
+    "vi": "Một cái muôi được Corrupted Cauldron sử dụng để nấu những sinh vật khủng khiếp. Có tin đồn rằng cố gắng pha một lọ thuốc từ nó có thể khiến một cái vạc hồi sinh hoặc chỉ là một vụ nổ thực sự tồi tệ."
+  },
+  "item.minecraftdungeons.cauldron_ladle.desc2": {
+    "en": "Crafting Ingredient for the Arch of Menace. Is also a very basic whacker.",
+    "zh": "威胁之弓的合成材料。也是一个非常基础的敲击工具。",
+    "vi": "Nguyên liệu chế tạo Cung đe dọa. Cũng là một công cụ khai thác rất cơ bản."
+  },
+  "item.minecraftdungeons.broken_staff_pieces": {
+    "en": "Broken Staff Pieces",
+    "zh": "破碎法杖碎片",
+    "vi": "Broken Staff Pieces"
+  },
+  "item.minecraftdungeons.broken_staff_pieces.desc1": {
+    "en": "Pieces of the Nameless One's staff, it now tries to reform itself. It has yet to be successful.",
+    "zh": "无名者法杖的碎片，它现在试图重新组合。但至今未能成功。",
+    "vi": "Những mảnh vỡ của cây trượng của Kẻ Vô Danh, mà nó hiện đang cố gắng lắp ráp lại. Nhưng cho đến nay nó vẫn chưa thành công."
+  },
+  "item.minecraftdungeons.broken_staff_pieces.desc2": {
+    "en": "Crafting Ingredient for the Arch of Menace.",
+    "zh": "威胁之弓的合成材料。",
+    "vi": "Nguyên liệu chế tạo Cung đe dọa."
+  },
+  "item.minecraftdungeons.corrupted_armor_shards": {
+    "en": "Corrupted Armor Shards",
+    "zh": "被腐化的盔甲碎片",
+    "vi": "Corrupted Armor Shards"
+  },
+  "item.minecraftdungeons.corrupted_armor_shards.desc1": {
+    "en": "Pieces of the armor worn by the Giant Royal Guard, it pulses with unstable energy. Thankfully, nobody's wearing this today.",
+    "zh": "巨型皇家守卫所穿盔甲的碎片，它脉动着不稳定的能量。谢天谢地，今天没人穿着它。",
+    "vi": "Một mảnh áo giáp được mặc bởi một vệ binh hoàng gia khổng lồ, nó phát ra năng lượng không ổn định. Cảm ơn Chúa hôm nay không có ai mặc nó."
+  },
+  "item.minecraftdungeons.corrupted_armor_shards.desc2": {
+    "en": "Crafting Ingredient for the Arch of Menace.",
+    "zh": "威胁之弓的合成材料。",
+    "vi": "Nguyên liệu chế tạo Cung đe dọa."
+  },
+  "item.minecraftdungeons.arch_of_menace": {
+    "en": "Arch of Menace",
+    "zh": "威胁之弓",
+    "vi": "Arch of Menace"
+  },
+  "item.minecraftdungeons.arch_of_menace.desc1": {
+    "en": "A bent combination of materials. Some say it is haunted, and that if it broke, it would possess everything around it and tear the world apart.",
+    "zh": "一个弯曲的材料组合。有人说它闹鬼，如果它断裂了，会附身周围的一切并撕裂这个世界。",
+    "vi": "Một sự kết hợp đường cong của vật liệu. Một số người cho rằng nó bị ma ám và nếu vỡ ra, nó sẽ chiếm hữu mọi thứ xung quanh và xé nát thế giới."
+  },
+  "item.minecraftdungeons.arch_of_menace.desc2": {
+    "en": "Crafting Ingredient for the Sacred Core.",
+    "zh": "神圣核心的合成材料。",
+    "vi": "Vật liệu tổng hợp của lõi thiêng liêng."
+  },
+  "item.minecraftdungeons.energized_iron_bar": {
+    "en": "Energized Iron Bar",
+    "zh": "充能铁棒",
+    "vi": "Energized Iron Bar"
+  },
+  "item.minecraftdungeons.energized_iron_bar.desc1": {
+    "en": "An iron ingot infused with lightning, made of shards from the armor of Skeleton Horsemen.",
+    "zh": "一根注入了闪电的铁锭，由骷髅骑手盔甲的碎片制成。",
+    "vi": "Một thỏi sắt được tẩm sét, được chế tạo từ những mảnh áo giáp của người cưỡi bộ xương."
+  },
+  "item.minecraftdungeons.energized_iron_bar.desc2": {
+    "en": "Crafting Ingredient for the Blazing Orb.",
+    "zh": "炽焰宝珠的合成材料。",
+    "vi": "Nguyên liệu chế tạo Quả cầu rực lửa."
+  },
+  "item.minecraftdungeons.crackling_bone": {
+    "en": "Crackling Bone",
+    "zh": "噼啪作响的骨头",
+    "vi": "Crackling Bone"
+  },
+  "item.minecraftdungeons.crackling_bone.desc1": {
+    "en": "A bone from a Skeleton Horseman, is said to call forth the horses from the thunderstorms.",
+    "zh": "来自骷髅骑手的骨头，据说能召唤雷暴中的马匹。",
+    "vi": "Xương của một người cưỡi bộ xương được cho là có thể triệu hồi ngựa từ giông bão."
+  },
+  "item.minecraftdungeons.crackling_bone.desc2": {
+    "en": "Used to summon a Skeleton Horse before you.",
+    "zh": "用于在你面前召唤一匹骷髅马。",
+    "vi": "Dùng để triệu hồi một con ngựa xương trước mặt bạn."
+  },
+  "item.minecraftdungeons.electrified_reinforced_armor_shard": {
+    "en": "Electrified Reinforced Armor Shard",
+    "zh": "带电强化盔甲碎片",
+    "vi": "Electrified Reinforced Armor Shard"
+  },
+  "item.minecraftdungeons.electrified_reinforced_armor_shard.desc1": {
+    "en": "The shard of a Skeleton Horseman's armor. Crackles with lightning.",
+    "zh": "骷髅骑手盔甲的碎片。噼啪作响着闪电。",
+    "vi": "Những mảnh giáp của Skeleton Rider. Sấm sét nổ vang."
+  },
+  "item.minecraftdungeons.electrified_reinforced_armor_shard.desc2": {
+    "en": "Crafting Ingredient for the Energized Iron Bar.",
+    "zh": "充能铁棒的合成材料。",
+    "vi": "Vật liệu composite làm thanh sắt tích điện."
+  },
+  "item.minecraftdungeons.charged_ender_pearl": {
+    "en": "Charged Ender Pearl",
+    "zh": "充能末影珍珠",
+    "vi": "Charged Ender Pearl"
+  },
+  "item.minecraftdungeons.charged_ender_pearl.desc1": {
+    "en": "The ender pearl from a more powerful Enderman.",
+    "zh": "来自更强大末影人的末影珍珠。",
+    "vi": "Ngọc trai Ender từ những Endermen mạnh hơn."
+  },
+  "item.minecraftdungeons.charged_ender_pearl.desc2": {
+    "en": "Crafting Ingredient for the Blazing Orb. Can also be used to throw ender pearls, just at a durability cost.",
+    "zh": "炽焰宝珠的合成材料。也可以用来投掷末影珍珠，但会消耗耐久度。",
+    "vi": "Nguyên liệu chế tạo Quả cầu rực lửa. Cũng có thể được sử dụng để ném ngọc trai Ender, nhưng sẽ tiêu tốn độ bền."
+  },
+  "item.minecraftdungeons.redstone_golem_finger": {
+    "en": "Redstone Golem Finger",
+    "zh": "红石傀儡手指",
+    "vi": "Redstone Golem Finger"
+  },
+  "item.minecraftdungeons.redstone_golem_finger.desc1": {
+    "en": "The finger of a Redstone Golem. Used by the Redstone Golems to charge energy into the ground.",
+    "zh": "红石傀儡的手指。红石傀儡用它来将能量充入地面。",
+    "vi": "Những ngón tay của golem đá đỏ. Redstone Golem sử dụng nó để nạp năng lượng vào lòng đất."
+  },
+  "item.minecraftdungeons.redstone_golem_finger.desc2": {
+    "en": "Crafting Ingredient for the Blazing Orb.",
+    "zh": "炽焰宝珠的合成材料。",
+    "vi": "Nguyên liệu chế tạo Quả cầu rực lửa."
+  },
+  "death.attack.heart_laser": {
+    "en": "%1$s was completely vaporized by %2$s's laser",
+    "zh": "%1$s 被 %2$s 的激光完全蒸发了",
+    "vi": "%1$s đã bị bốc hơi hoàn toàn bởi tia laser của %2$s"
+  },
+  "death.attack.redstone_laser": {
+    "en": "%1$s was incinerated by an overcharged redstone-powered laser beam",
+    "zh": "%1$s 被一道过载的红石动力激光束烧成了灰烬",
+    "vi": "%1$s bị thiêu hủy bởi chùm tia laser chạy bằng đá đỏ quá tải"
+  },
+  "death.attack.redstone_laser.player": {
+    "en": "%1$s was vaporized by %2$s's overcharged laser",
+    "zh": "%1$s 被 %2$s 的过载激光蒸发了",
+    "vi": "%1$s bị bốc hơi bởi tia laser tăng tốc của %2$s"
+  },
+  "death.attack.generic_laser": {
+    "en": "%1$s was vaporized by a deadly laser beam",
+    "zh": "%1$s 被一道致命的激光束蒸发了",
+    "vi": "%1$s bị bốc hơi bởi chùm tia laser chết người"
+  },
+  "death.attack.generic_laser.player": {
+    "en": "%2$s incinerated %1$s into ash",
+    "zh": "%2$s 将 %1$s 烧成了灰烬",
+    "vi": "%2$s đốt %1$s thành tro"
+  },
+  "death.attack.fiery_shockwave": {
+    "en": "%1$s was incinerated by mistakenly standing in front of an overloading forge core",
+    "zh": "%1$s 因错误地站在过载的锻造核心前而被烧成了灰烬",
+    "vi": "%1$s bị đốt thành tro do đứng nhầm trước lõi rèn quá tải"
+  },
+  "death.attack.fiery_shockwave.player": {
+    "en": "%1$s was incinerated by a certain %2$s using flaming shockwaves",
+    "zh": "%1$s 被某个使用火焰冲击波的 %2$s 烧成了灰烬",
+    "vi": "%1$s đã bị một số %2$s đốt thành tro bằng cách sử dụng một vụ nổ lửa"
+  },
+  "death.attack.void": {
+    "en": "%1$s melted into the void",
+    "zh": "%1$s 融化进了虚空",
+    "vi": "%1$s tan chảy vào khoảng trống"
+  },
+  "death.attack.void.player": {
+    "en": "%2$s burned %1$s into the void",
+    "zh": "%2$s 将 %1$s 烧进了虚空",
+    "vi": "%2$s đốt %1$s vào khoảng trống"
+  },
+  "death.attack.enchanted_fire": {
+    "en": "%1$s burned to ashes in enchanted fire",
+    "zh": "%1$s 在附魔之火中烧成了灰烬",
+    "vi": "%1$s bị đốt thành tro trong ngọn lửa mê hoặc"
+  },
+  "death.attack.enchanted_fire.player": {
+    "en": "%2$s roasted %1$s in enchanted fire",
+    "zh": "%2$s 用附魔之火烤熟了 %1$s",
+    "vi": "%2$s Nướng với ngọn lửa mê hoặc %1$s"
+  },
+  "death.attack.ice_bouquet": {
+    "en": "%1$s froze to death in a scorching ice bouquet",
+    "zh": "%1$s 在一束灼热的冰之花中冻死了",
+    "vi": "%1$s chết cóng trong bó hoa băng đang cháy"
+  },
+  "death.attack.ice_bouquet.player": {
+    "en": "%2$s froze %1$s in an ice bouquet",
+    "zh": "%2$s 将 %1$s 冻在了一束冰之花中",
+    "vi": "%2$s đóng băng %1$s trong bó hoa băng"
+  },
+  "death.attack.kick": {
+    "en": "%2$s kicked %1$s out of this realm",
+    "zh": "%2$s 将 %1$s 踢出了这个领域",
+    "vi": "%2$s đuổi %1$s ra khỏi sân"
+  },
+  "death.attack.soul_explosion": {
+    "en": "%1$s was consumed by the souls",
+    "zh": "%1$s 被灵魂吞噬了",
+    "vi": "%1$s bị linh hồn nuốt chửng"
+  },
+  "death.attack.soul_explosion.player": {
+    "en": "%2$s used souls to kill $1$s",
+    "zh": "%2$s 使用灵魂杀死了 %1$s",
+    "vi": "%2$s dùng linh hồn để giết %1$s"
+  },
+  "death.attack.redstone_mine": {
+    "en": "%1$s experienced a redstone overload",
+    "zh": "%1$s 经历了红石过载",
+    "vi": "%1$s gặp phải tình trạng quá tải đá đỏ"
+  },
+  "death.attack.redstone_mine.player": {
+    "en": "%2$s overloaded %1$s with supercharged redstone",
+    "zh": "%2$s 用超负荷红石过载了 %1$s",
+    "vi": "%2$s quá tải %1$s với đá đỏ quá tải"
+  },
+  "death.attack.blast_fungus": {
+    "en": "%1$s was blasted by a fungus",
+    "zh": "%1$s 被真菌炸飞了",
+    "vi": "%1$s bị nấm làm nổ tung."
+  },
+  "death.attack.blast_fungus.player": {
+    "en": "%2$s blasted %1$s with the power of a poisonous fungus",
+    "zh": "%2$s 用有毒真菌的力量炸飞了 %1$s",
+    "vi": "%2$s làm nổ tung %1$s bằng sức mạnh của một loại nấm độc"
+  },
+  "sounds.minecraftdungeons.squall_golem_attack": {
+    "en": "Squall Golem slams",
+    "zh": "狂风傀儡：猛击",
+    "vi": "Bão Golem: Đập"
+  },
+  "sounds.minecraftdungeons.squall_golem_power_on": {
+    "en": "Squall Golem powers up",
+    "zh": "狂风傀儡：启动",
+    "vi": "Bão Golem: Kích hoạt"
+  },
+  "sounds.minecraftdungeons.squall_golem_idle": {
+    "en": "Squall Golem looks around",
+    "zh": "狂风傀儡：环顾四周",
+    "vi": "Storm Golem: Nhìn xung quanh"
+  },
+  "sounds.minecraftdungeons.squall_golem_power_off": {
+    "en": "Squall Golem powers down",
+    "zh": "狂风傀儡：关闭",
+    "vi": "Bão Golem: Đã đóng"
+  },
+  "sounds.minecraftdungeons.squall_golem_death": {
+    "en": "Squall Golem dies",
+    "zh": "狂风傀儡：死亡",
+    "vi": "Bão Golem: Cái chết"
+  },
+  "sounds.minecraftdungeons.squall_golem_step": {
+    "en": "Squall Golem steps",
+    "zh": "狂风傀儡：脚步声",
+    "vi": "Storm Golem: Bước chân"
+  },
+  "sounds.minecraftdungeons.resonance_crystal_activate": {
+    "en": "Resonance Crystal activates",
+    "zh": "共振水晶：激活",
+    "vi": "Tinh thể cộng hưởng: Kích hoạt"
+  },
+  "sounds.minecraftdungeons.resonance_crystal_loop": {
+    "en": "Resonance Crystal pulses",
+    "zh": "共振水晶：脉动",
+    "vi": "Tinh thể cộng hưởng: Xung"
+  },
+  "sounds.minecraftdungeons.resonance_crystal_deactivate": {
+    "en": "Resonance Crystal deactivates",
+    "zh": "共振水晶：停用",
+    "vi": "Tinh thể cộng hưởng: Đã tắt"
+  },
+  "sounds.minecraftdungeons.squall_golem_hurt": {
+    "en": "Squall Golem hurts",
+    "zh": "狂风傀儡：受伤",
+    "vi": "Bão Golem: Bị thương"
+  },
+  "sounds.minecraftdungeons.tempest_golem_attack": {
+    "en": "Tempest Golem attacks",
+    "zh": "风暴傀儡：攻击",
+    "vi": "Bão Golem: Tấn công"
+  },
+  "sounds.minecraftdungeons.tempest_golem_death": {
+    "en": "Tempest Golem dies",
+    "zh": "风暴傀儡：死亡",
+    "vi": "Bão Golem: Cái chết"
+  },
+  "sounds.minecraftdungeons.tempest_golem_hurt": {
+    "en": "Tempest Golem hurts",
+    "zh": "风暴傀儡：受伤",
+    "vi": "Bão Golem: Bị thương"
+  },
+  "sounds.minecraftdungeons.tempest_golem_theme": {
+    "en": "Tempest Golem theme plays",
+    "zh": "风暴傀儡：主题曲播放",
+    "vi": "Storm Golem: bài hát chủ đề phát"
+  },
+  "sounds.minecraftdungeons.skeleton_horseman_theme": {
+    "en": "Skeleton Horseman theme plays",
+    "zh": "骷髅骑手：主题曲播放",
+    "vi": "Skeleton Rider: Bài hát chủ đề được phát"
+  },
+  "sounds.minecraftdungeons.tempest_golem_awaken": {
+    "en": "Tempest Golem awakens",
+    "zh": "风暴傀儡：苏醒",
+    "vi": "Bão Golem: Thức tỉnh"
+  },
+  "sounds.minecraftdungeons.tempest_golem_reactivate_arm": {
+    "en": "Tempest Golem arm reactivates",
+    "zh": "风暴傀儡：手臂重新激活",
+    "vi": "Storm Golem: vũ khí được kích hoạt lại"
+  },
+  "sounds.minecraftdungeons.tempest_golem_reactivate_shield": {
+    "en": "Tempest Golem shields reactivate",
+    "zh": "风暴傀儡：护盾重新激活",
+    "vi": "Storm Golem: Khiên được kích hoạt lại"
+  },
+  "sounds.minecraftdungeons.tempest_golem_deactivate_arm": {
+    "en": "Tempest Golem arm deactivates",
+    "zh": "风暴傀儡：手臂停用",
+    "vi": "Storm Golem: tay bị vô hiệu hóa"
+  },
+  "sounds.minecraftdungeons.tempest_golem_deactivate_shield": {
+    "en": "Tempest Golem shields deactivate",
+    "zh": "风暴傀儡：护盾停用",
+    "vi": "Storm Golem: Khiên bị vô hiệu hóa"
+  },
+  "sounds.minecraftdungeons.tempest_golem_stun_loop": {
+    "en": "Tempest Golem stunned",
+    "zh": "风暴傀儡：眩晕",
+    "vi": "Storm Golem: Choáng"
+  },
+  "sounds.minecraftdungeons.tempest_golem_shield_attack": {
+    "en": "Tempest Golem shields launch",
+    "zh": "风暴傀儡：护盾发射",
+    "vi": "Storm Golem: Phóng khiên"
+  },
+  "sounds.minecraftdungeons.tempest_golem_idle": {
+    "en": "Tempest Golem rumbles",
+    "zh": "风暴傀儡：隆隆作响",
+    "vi": "Bão Golem: Rầm rộ"
+  },
+  "sounds.minecraftdungeons.arch_illager_idle": {
+    "en": "Arch-Illager idles",
+    "zh": "奇厄教主：空闲",
+    "vi": "Tề Tể: Nhàn rỗi"
+  },
+  "sounds.minecraftdungeons.arch_illager_ending_cinematic": {
+    "en": "Arch-Illager struggles with Orb",
+    "zh": "奇厄教主：与宝珠挣扎",
+    "vi": "Lãnh đạo Qie: Đấu tranh với quả cầu"
+  },
+  "sounds.minecraftdungeons.arch_illager_fly": {
+    "en": "Arch-Illager flies",
+    "zh": "奇厄教主：飞行",
+    "vi": "Đức Tổng Giám Mục Chiêu: Chuyến bay"
+  },
+  "sounds.minecraftdungeons.arch_illager_fly_voice": {
+    "en": "Arch-Illager wees",
+    "zh": "奇厄教主：尖叫",
+    "vi": "Đức Tổng Giám mục Chie: Hãy hét lên"
+  },
+  "sounds.minecraftdungeons.arch_illager_orb_power_up": {
+    "en": "Orb of Dominance powers up",
+    "zh": "支配之球：充能",
+    "vi": "Quả cầu thống trị: Nạp tiền"
+  },
+  "sounds.minecraftdungeons.arch_illager_intro_laugh": {
+    "en": "Arch-Illager laughs",
+    "zh": "奇厄教主：大笑",
+    "vi": "Lãnh đạo Tề: Cười"
+  },
+  "sounds.minecraftdungeons.arch_illager_intro_greetings": {
+    "en": "Arch-Illager greets",
+    "zh": "奇厄教主：问候",
+    "vi": "Thầy Qie: Xin chào"
+  },
+  "sounds.minecraftdungeons.arch_illager_hurt": {
+    "en": "Arch-Illager hurts",
+    "zh": "奇厄教主：受伤",
+    "vi": "Đội trưởng Qie: Bị thương"
+  },
+  "sounds.minecraftdungeons.arch_illager_spell": {
+    "en": "Arch-Illager casts spell",
+    "zh": "奇厄教主：施法",
+    "vi": "Hierarch Chie: Thi triển phép thuật"
+  },
+  "sounds.minecraftdungeons.arch_illager_whirlwind": {
+    "en": "Arch-Illager caught in Whirlwind",
+    "zh": "奇厄教主：被卷入旋风",
+    "vi": "Lãnh đạo Qie: Bị cuốn vào cơn lốc"
+  },
+  "sounds.minecraftdungeons.arch_illager_magic_impact": {
+    "en": "Magic hits",
+    "zh": "魔法：命中",
+    "vi": "Phép thuật: đánh"
+  },
+  "sounds.minecraftdungeons.arch_illager_teleport": {
+    "en": "Arch-Illager teleports",
+    "zh": "奇厄教主：传送",
+    "vi": "Hierarch Chie: Dịch chuyển tức thời"
+  },
+  "sounds.minecraftdungeons.arch_illager_shoot": {
+    "en": "Arch-Illager shoots",
+    "zh": "奇厄教主：射击",
+    "vi": "Đức Tổng Chiêu: Bắn súng"
+  },
+  "sounds.minecraftdungeons.arch_illager_summon": {
+    "en": "Arch-Illager summons",
+    "zh": "奇厄教主：召唤",
+    "vi": "Chie Hierarch: Triệu hồi"
+  },
+  "sounds.minecraftdungeons.arch_illager_hargh": {
+    "en": "Arch-Illager harghs",
+    "zh": "奇厄教主：哈气",
+    "vi": "Lãnh đạo Qie: Khó thở"
+  },
+  "sounds.minecraftdungeons.arch_illager_laugh": {
+    "en": "Arch-Illager chuckles",
+    "zh": "奇厄教主：轻笑",
+    "vi": "Đội trưởng Kiều: cười khúc khích"
+  },
+  "sounds.minecraftdungeons.arch_illager_load_spell": {
+    "en": "Arch-Illager loads spell",
+    "zh": "奇厄教主：加载法术",
+    "vi": "Hierophant Chie: Nạp Phép Thuật"
+  },
+  "sounds.minecraftdungeons.arch_illager_guitar": {
+    "en": "Guitar echoes",
+    "zh": "吉他声回荡",
+    "vi": "Tiếng đàn guitar vang vọng"
+  },
+  "sounds.minecraftdungeons.arch_illager_appear": {
+    "en": "Arch-Illager appears",
+    "zh": "奇厄教主：出现",
+    "vi": "Lãnh đạo Tề: Xuất hiện"
+  },
+  "sounds.minecraftdungeons.heart_of_ender_hurt": {
+    "en": "Heart of Ender hurts",
+    "zh": "末影之心：受伤",
+    "vi": "Trái tim của Ender: Bị thương"
+  },
+  "sounds.minecraftdungeons.heart_of_ender_death": {
+    "en": "Heart of Ender dies",
+    "zh": "末影之心：死亡",
+    "vi": "Trái tim của Ender: Cái chết"
+  },
+  "sounds.minecraftdungeons.heart_of_ender_void": {
+    "en": "Void flows",
+    "zh": "虚空流动",
+    "vi": "Khoảng trống chảy"
+  },
+  "sounds.minecraftdungeons.heart_of_ender_crawl": {
+    "en": "Heart of Ender crawls",
+    "zh": "末影之心：爬行",
+    "vi": "Trái tim của Ender: Thu thập thông tin"
+  },
+  "sounds.minecraftdungeons.heart_of_ender_idle": {
+    "en": "Heart of Ender warps",
+    "zh": "末影之心：扭曲空间",
+    "vi": "Trái tim của Ender: Không gian xoắn"
+  },
+  "sounds.minecraftdungeons.heart_of_ender_cross_beam_prepare": {
+    "en": "Heart of Ender prepares",
+    "zh": "末影之心：准备",
+    "vi": "Trái tim của Ender: Sự chuẩn bị"
+  },
+  "sounds.minecraftdungeons.heart_of_ender_cross_beam": {
+    "en": "Beams blast",
+    "zh": "光束爆发",
+    "vi": "chùm tia nổ"
+  },
+  "sounds.minecraftdungeons.heart_of_ender_barrage": {
+    "en": "Heart of Ender fires mortars",
+    "zh": "末影之心：发射迫击炮",
+    "vi": "Trái tim của Ender: Súng cối lửa"
+  },
+  "sounds.minecraftdungeons.heart_of_ender_shoot": {
+    "en": "Mortar fires",
+    "zh": "迫击炮：开火",
+    "vi": "Vữa: Lửa"
+  },
+  "sounds.minecraftdungeons.mortar_land": {
+    "en": "Mortar lands",
+    "zh": "迫击炮：落地",
+    "vi": "Súng cối: Đã hạ cánh"
+  },
+  "sounds.minecraftdungeons.orb_death": {
+    "en": "Orb of Dominance dies",
+    "zh": "支配之球：消亡",
+    "vi": "Quả cầu thống trị: Sự hủy diệt"
+  },
+  "sounds.minecraftdungeons.heart_of_ender_teleport": {
+    "en": "Heart of Ender teleports",
+    "zh": "末影之心：传送",
+    "vi": "Trái tim của Ender: Dịch chuyển tức thời"
+  },
+  "sounds.minecraftdungeons.visage_teleport_out": {
+    "en": "Arch Visage teleports out",
+    "zh": "奇厄教主：传送离开",
+    "vi": "Lãnh đạo Qie: Dịch chuyển đi"
+  },
+  "sounds.minecraftdungeons.visage_laser_attack": {
+    "en": "Arch Visage fires laser",
+    "zh": "末影之心：发射激光",
+    "vi": "Trái tim của Ender: tia laser lửa"
+  },
+  "sounds.minecraftdungeons.visage_beam_loop": {
+    "en": "Laser blasts",
+    "zh": "激光持续发射",
+    "vi": "Laser tiếp tục phát ra"
+  },
+  "sounds.minecraftdungeons.visage_teleport_in": {
+    "en": "Arch Visage teleports in",
+    "zh": "末影之心：传送进入",
+    "vi": "Heart of Ender: Dịch chuyển tức thời"
+  },
+  "sounds.minecraftdungeons.event_chimes": {
+    "en": "Event Begins",
+    "zh": "事件开始",
+    "vi": "sự kiện bắt đầu"
+  },
+  "sounds.minecraftdungeons.end_portal_loop": {
+    "en": "End Portal",
+    "zh": "末地传送门",
+    "vi": "cổng kết thúc"
+  },
+  "sounds.minecraftdungeons.ender_eye_spawn": {
+    "en": "Eye of Ender emerges",
+    "zh": "末影之眼：浮现",
+    "vi": "Con mắt của Ender: Xuất hiện"
+  },
+  "sounds.minecraftdungeons.wind_pillar_area_noise": {
+    "en": "Wind Pillar resonates",
+    "zh": "风柱：共鸣",
+    "vi": "Trụ gió: Cộng hưởng"
+  },
+  "sounds.minecraftdungeons.wind_pillar_blast": {
+    "en": "Wind Pillar blasts",
+    "zh": "风柱：爆发",
+    "vi": "Trụ Gió: Nổ"
+  },
+  "sounds.minecraftdungeons.pillar_eye_activate": {
+    "en": "Pillar Eye lights up",
+    "zh": "柱眼：点亮",
+    "vi": "Mắt cột: sáng lên"
+  },
+  "sounds.minecraftdungeons.pillar_activate": {
+    "en": "Pillar activates",
+    "zh": "柱子：激活",
+    "vi": "Trụ cột: Kích hoạt"
+  },
+  "sounds.minecraftdungeons.pillar_loop": {
+    "en": "Pillar swirls",
+    "zh": "柱子：旋转",
+    "vi": "Cột: xoay"
+  },
+  "sounds.minecraftdungeons.pillar_deactivate": {
+    "en": "Pillar deactivates",
+    "zh": "柱子：停用",
+    "vi": "Cột: Đã tắt"
+  },
+  "sounds.minecraftdungeons.electric_tornado_whirl": {
+    "en": "Electricty whirls",
+    "zh": "闪电：旋转",
+    "vi": "Sét: quay"
+  },
+  "sounds.minecraftdungeons.tempest_bolt_impact": {
+    "en": "Tempest Lightning strikes",
+    "zh": "风暴闪电：打击",
+    "vi": "Bão sét: Tấn công"
+  },
+  "sounds.minecraftdungeons.ice_chunk_smash": {
+    "en": "Ice Chunk smashes",
+    "zh": "冰块：粉碎",
+    "vi": "Khối băng: Nghiền nát"
+  },
+  "sounds.minecraftdungeons.ice_chunk_summon": {
+    "en": "Ice Chunk forms",
+    "zh": "冰块：形成",
+    "vi": "khối băng: hình thành"
+  },
+  "sounds.minecraftdungeons.ice_chunk_prepare_fall": {
+    "en": "Ice Chunk prepares",
+    "zh": "冰块：准备下落",
+    "vi": "Ice Cube: Chuẩn bị rơi"
+  },
+  "sounds.minecraftdungeons.ice_chunk_ambient": {
+    "en": "Ice Chunk creaks",
+    "zh": "冰块：吱嘎作响",
+    "vi": "Đá viên: giòn"
+  },
+  "sounds.minecraftdungeons.wind": {
+    "en": "Wind whooshes",
+    "zh": "风声呼啸",
+    "vi": "Gió gào thét"
+  },
+  "sounds.minecraftdungeons.mountaineer_attack": {
+    "en": "Mountaineer swings",
+    "zh": "登山者：挥砍",
+    "vi": "Người leo núi: Chém"
+  },
+  "sounds.minecraftdungeons.mountaineer_death": {
+    "en": "Mountaineer dies",
+    "zh": "登山者：死亡",
+    "vi": "người leo núi: cái chết"
+  },
+  "sounds.minecraftdungeons.mountaineer_idle": {
+    "en": "Mountaineer grunts",
+    "zh": "登山者：咕哝",
+    "vi": "Người leo núi: càu nhàu"
+  },
+  "sounds.minecraftdungeons.mountaineer_hurt": {
+    "en": "Mountaineer hurts",
+    "zh": "登山者：受伤",
+    "vi": "Người leo núi: bị thương"
+  },
+  "sounds.minecraftdungeons.iceologer_death": {
+    "en": "Iceologer dies",
+    "zh": "冰术师：死亡",
+    "vi": "Icemancer: Cái chết"
+  },
+  "sounds.minecraftdungeons.iceologer_idle": {
+    "en": "Iceologer grunts",
+    "zh": "冰术师：咕哝",
+    "vi": "Icemancer: càu nhàu"
+  },
+  "sounds.minecraftdungeons.iceologer_hurt": {
+    "en": "Iceologer hurts",
+    "zh": "冰术师：受伤",
+    "vi": "Icemancer: Bị thương"
+  },
+  "sounds.minecraftdungeons.iceologer_attack_vocal": {
+    "en": "Iceologer summons",
+    "zh": "冰术师：召唤",
+    "vi": "Icemancer: Triệu hồi"
+  },
+  "sounds.minecraftdungeons.geomancer_idle": {
+    "en": "Geomancer chuckles",
+    "zh": "地卜师：轻笑",
+    "vi": "Phong thủy: cười khúc khích"
+  },
+  "sounds.minecraftdungeons.geomancer_hurt": {
+    "en": "Geomancer hurts",
+    "zh": "地卜师：受伤",
+    "vi": "Phong thủy: Bị thương"
+  },
+  "sounds.minecraftdungeons.geomancer_death": {
+    "en": "Geomancer dies",
+    "zh": "地卜师：死亡",
+    "vi": "Phong thủy: Cái chết"
+  },
+  "sounds.minecraftdungeons.geomancer_presummon": {
+    "en": "Geomancer prepares",
+    "zh": "地卜师：准备",
+    "vi": "Phong thủy: Chuẩn bị"
+  },
+  "sounds.minecraftdungeons.geomancer_summon": {
+    "en": "Geomancer summons",
+    "zh": "地卜师：召唤",
+    "vi": "Phong thủy: Triệu hồi"
+  },
+  "sounds.minecraftdungeons.wind_caller_idle": {
+    "en": "Wind Caller calls",
+    "zh": "唤风者：呼唤",
+    "vi": "Người gọi gió: Gọi"
+  },
+  "sounds.minecraftdungeons.wind_caller_hurt": {
+    "en": "Wind Caller hurts",
+    "zh": "唤风者：受伤",
+    "vi": "Người gọi gió: Bị thương"
+  },
+  "sounds.minecraftdungeons.wind_caller_death": {
+    "en": "Wind Caller dies",
+    "zh": "唤风者：死亡",
+    "vi": "Người gọi gió: Cái chết"
+  },
+  "sounds.minecraftdungeons.wind_caller_blast_attack": {
+    "en": "Wind Caller blasts",
+    "zh": "唤风者：爆破",
+    "vi": "Người gọi gió: Vụ nổ"
+  },
+  "sounds.minecraftdungeons.wind_caller_lift_attack": {
+    "en": "Wind Caller lifts",
+    "zh": "唤风者：升空",
+    "vi": "Người gọi gió: Cất cánh"
+  },
+  "sounds.minecraftdungeons.wind_caller_fly_loop": {
+    "en": "Wind swirls",
+    "zh": "风声旋转",
+    "vi": "Gió xoáy"
+  },
+  "sounds.minecraftdungeons.cauldron_idle": {
+    "en": "Corrupted Cauldron bubbles",
+    "zh": "腐化锅釜怪：冒泡",
+    "vi": ""
+  },
+  "sounds.minecraftdungeons.cauldron_hurt": {
+    "en": "Corrupted Cauldron hurts",
+    "zh": "腐化锅釜怪：受伤",
+    "vi": ""
+  },
+  "sounds.minecraftdungeons.cauldron_death": {
+    "en": "Corrupted Cauldron shatters",
+    "zh": "腐化锅釜怪：碎裂",
+    "vi": "Cái vạc hỏng: Vỡ rồi"
+  },
+  "sounds.minecraftdungeons.cauldron_theme": {
+    "en": "Corrupted Cauldron theme plays",
+    "zh": "腐化锅釜怪：主题曲播放",
+    "vi": "Chiếc vạc hỏng: Bài hát chủ đề được phát"
+  },
+  "sounds.minecraftdungeons.cauldron_fire_charge": {
+    "en": "Corrupted Cauldron charges",
+    "zh": "腐化锅釜怪：充能",
+    "vi": ""
+  },
+  "sounds.minecraftdungeons.cauldron_fire_prepare": {
+    "en": "Corrupted Cauldron prepares",
+    "zh": "腐化锅釜怪：准备",
+    "vi": "Cái vạc hỏng: Sự chuẩn bị"
+  },
+  "sounds.minecraftdungeons.cauldron_fire_spawn": {
+    "en": "Corrupted Cauldron conjures fire",
+    "zh": "腐化锅釜怪：召唤火焰",
+    "vi": "Vạc hỏng: Triệu hồi lửa"
+  },
+  "sounds.minecraftdungeons.cauldron_attack_voice": {
+    "en": "Corrupted Cauldron attacks",
+    "zh": "腐化锅釜怪：攻击",
+    "vi": ""
+  },
+  "sounds.minecraftdungeons.cauldron_absorb": {
+    "en": "Corrupted Cauldron absorbs souls",
+    "zh": "腐化锅釜怪：吸收灵魂",
+    "vi": "Vạc hỏng: Hấp thụ linh hồn"
+  },
+  "sounds.minecraftdungeons.cauldron_summon_spin": {
+    "en": "Corrupted Cauldron summons",
+    "zh": "腐化锅釜怪：召唤旋转",
+    "vi": "Chiếc vạc hỏng: Vòng quay triệu hồi"
+  },
+  "sounds.minecraftdungeons.cauldron_attack_spin": {
+    "en": "Corrupted Cauldron spins",
+    "zh": "腐化锅釜怪：旋转攻击",
+    "vi": "Chiếc vạc bị hỏng: Tấn công xoay tròn"
+  },
+  "sounds.minecraftdungeons.cauldron_spin_intense": {
+    "en": "Corrupted Cauldron brews",
+    "zh": "腐化锅釜怪：酿造",
+    "vi": "Cái vạc hỏng: Nấu bia"
+  },
+  "sounds.minecraftdungeons.nameless_one_laugh": {
+    "en": "Nameless One laughs",
+    "zh": "无名者：大笑",
+    "vi": "Không rõ: Cười"
+  },
+  "sounds.minecraftdungeons.nameless_one_awaken": {
+    "en": "Nameless One awakens",
+    "zh": "无名者：苏醒",
+    "vi": "Kẻ vô danh: Thức tỉnh"
+  },
+  "sounds.minecraftdungeons.nameless_one_hurt": {
+    "en": "Nameless One hurts",
+    "zh": "无名者：受伤",
+    "vi": "Không tên: Bị thương"
+  },
+  "sounds.minecraftdungeons.nameless_one_death": {
+    "en": "Nameless One dies",
+    "zh": "无名者：死亡",
+    "vi": "Kẻ Không Tên: Cái Chết"
+  },
+  "sounds.minecraftdungeons.nameless_one_phase_change": {
+    "en": "Nameless One empowers himself",
+    "zh": "无名者：增强自身",
+    "vi": "Người không tên: Hãy củng cố bản thân"
+  },
+  "sounds.minecraftdungeons.false_king_death": {
+    "en": "False King dies",
+    "zh": "伪王：死亡",
+    "vi": "Vua giả: Cái chết"
+  },
+  "sounds.minecraftdungeons.nameless_one_teleport": {
+    "en": "Nameless One teleports",
+    "zh": "无名者：传送",
+    "vi": "Kẻ vô danh: Dịch chuyển tức thời"
+  },
+  "sounds.minecraftdungeons.nameless_one_long_load": {
+    "en": "Nameless One loads",
+    "zh": "无名者：加载",
+    "vi": "Những Người Không Tên: Đang tải"
+  },
+  "sounds.minecraftdungeons.nameless_one_load_spell": {
+    "en": "Nameless One loads spell",
+    "zh": "无名者：加载法术",
+    "vi": "Kẻ Không Tên: Đang Nạp Phép Thuật"
+  },
+  "sounds.minecraftdungeons.nameless_one_poff": {
+    "en": "Vanguards spawn",
+    "zh": "先锋：生成",
+    "vi": "Tiên phong: sinh sản"
+  },
+  "sounds.minecraftdungeons.nameless_one_shoot": {
+    "en": "Nameless One shoots",
+    "zh": "无名者：射击",
+    "vi": "Kẻ vô danh: Bắn súng"
+  },
+  "sounds.minecraftdungeons.nameless_one_aha": {
+    "en": "Nameless One ahas",
+    "zh": "无名者：啊哈",
+    "vi": "Không rõ: Aha"
+  },
+  "sounds.minecraftdungeons.nameless_one_theme": {
+    "en": "Nameless One theme plays",
+    "zh": "无名者：主题曲播放",
+    "vi": "Điều chưa biết: Bài hát chủ đề được phát"
+  },
+  "sounds.minecraftdungeons.bolt_impact": {
+    "en": "Necromancer Bolt hits",
+    "zh": "死灵法师弹射物：命中",
+    "vi": "Đạn Necromancer: Đánh"
+  },
+  "sounds.minecraftdungeons.forge_alarm": {
+    "en": "Forge Alarm goes off",
+    "zh": "锻造厂警报响起",
+    "vi": "Giả mạo âm thanh báo động"
+  },
+  "sounds.minecraftdungeons.redstone_golem_idle": {
+    "en": "Redstone Golem growls",
+    "zh": "红石傀儡：低吼",
+    "vi": "Golem đá đỏ: Gầm gừ"
+  },
+  "sounds.minecraftdungeons.redstone_golem_hurt": {
+    "en": "Redstone Golem hurts",
+    "zh": "红石傀儡：受伤",
+    "vi": "Golem Redstone: Bị thương"
+  },
+  "sounds.minecraftdungeons.redstone_golem_death": {
+    "en": "Redstone Golem crumbles",
+    "zh": "红石傀儡：崩塌",
+    "vi": "Golem đá đỏ: Sụp đổ"
+  },
+  "sounds.minecraftdungeons.redstone_golem_death_pulse": {
+    "en": "Redstone Golem pulses",
+    "zh": "红石傀儡：脉动",
+    "vi": "Golem đá đỏ: Xung"
+  },
+  "sounds.minecraftdungeons.redstone_golem_mine_summon": {
+    "en": "Redstone Golem transfers energy",
+    "zh": "红石傀儡：传输能量",
+    "vi": "Redstone Golem: truyền năng lượng"
+  },
+  "sounds.minecraftdungeons.redstone_mine_explode": {
+    "en": "Redstone Mine detonates",
+    "zh": "红石地雷：引爆",
+    "vi": "Mỏ đá đỏ: Kích nổ"
+  },
+  "sounds.minecraftdungeons.redstone_monstrosity_theme": {
+    "en": "Redstone Monstrosity theme plays",
+    "zh": "红石巨兽：主题曲播放",
+    "vi": "Redstone Behemoth: Bài hát chủ đề được phát"
+  },
+  "sounds.minecraftdungeons.redstone_monstrosity_idle": {
+    "en": "Redstone Monstrosity creaks",
+    "zh": "红石巨兽：吱嘎作响",
+    "vi": "Redstone Behemoth: Cót két"
+  },
+  "sounds.minecraftdungeons.redstone_monstrosity_hurt": {
+    "en": "Redstone Monstrosity hurts",
+    "zh": "红石巨兽：受伤",
+    "vi": "Redstone Behemoth: Bị thương"
+  },
+  "sounds.minecraftdungeons.redstone_monstrosity_death": {
+    "en": "Redstone Monstrosity dies",
+    "zh": "红石巨兽：死亡",
+    "vi": "Redstone Behemoth: Cái chết"
+  },
+  "sounds.minecraftdungeons.redstone_monstrosity_short_growl": {
+    "en": "Redstone Monstrosity roars",
+    "zh": "红石巨兽：咆哮",
+    "vi": "Redstone Behemoth: Gầm gừ"
+  },
+  "sounds.minecraftdungeons.redstone_monstrosity_step": {
+    "en": "Redstone Monstrosity steps",
+    "zh": "红石巨兽：脚步声",
+    "vi": "Redstone Behemoth: Bước chân"
+  },
+  "sounds.minecraftdungeons.redstone_monstrosity_shoot": {
+    "en": "Redstone Monstrosity fires",
+    "zh": "红石巨兽：开火",
+    "vi": "Redstone Behemoth: Lửa"
+  },
+  "sounds.minecraftdungeons.redstone_monstrosity_voice_charge": {
+    "en": "Redstone Monstrosity prepares",
+    "zh": "红石巨兽：准备",
+    "vi": "Redstone Behemoth: Sự chuẩn bị"
+  },
+  "sounds.minecraftdungeons.monstrosity_awaken": {
+    "en": "Monstrosity awakens",
+    "zh": "巨兽：苏醒",
+    "vi": "Behemoth: Thức tỉnh"
+  },
+  "sounds.minecraftdungeons.redstone_laser_activate": {
+    "en": "Redstone-Powered Laser blasts",
+    "zh": "红石动力激光：爆发",
+    "vi": "Laser hỗ trợ Redstone: Burst"
+  },
+  "sounds.minecraftdungeons.key_golem_sleep": {
+    "en": "Key Golem snores",
+    "zh": "钥匙傀儡：打鼾",
+    "vi": "Con rối chính: Ngáy"
+  },
+  "sounds.minecraftdungeons.key_golem_happy": {
+    "en": "Key Golem cheers",
+    "zh": "钥匙傀儡：欢呼",
+    "vi": "Key Golem: Chúc mừng"
+  },
+  "sounds.minecraftdungeons.key_golem_wowo": {
+    "en": "Key Golem wowos",
+    "zh": "钥匙傀儡：哇喔",
+    "vi": "Con rối chính: Wow."
+  },
+  "sounds.minecraftdungeons.key_golem_hit": {
+    "en": "Key Golem gets hit",
+    "zh": "钥匙傀儡：被击中",
+    "vi": "Golem chính: Đánh"
+  },
+  "sounds.minecraftdungeons.skeletron_hurt": {
+    "en": "Skeletron hurts",
+    "zh": "骷髅王：受伤",
+    "vi": "Bộ xương: Bị thương"
+  },
+  "sounds.minecraftdungeons.skeletron_death": {
+    "en": "Skeletron dies",
+    "zh": "骷髅王：死亡",
+    "vi": "Bộ xương: Cái chết"
+  },
+  "sounds.minecraftdungeons.skeletron_theme": {
+    "en": "Skeletron's theme plays",
+    "zh": "骷髅王：主题曲播放",
+    "vi": "Skeleton King: Bài hát chủ đề được phát"
+  },
+  "sounds.minecraftdungeons.wraith_idle": {
+    "en": "Wraith moans",
+    "zh": "幽灵：呻吟",
+    "vi": "Ma: rên rỉ"
+  },
+  "sounds.minecraftdungeons.wraith_hurt": {
+    "en": "Wraith hurts",
+    "zh": "幽灵：受伤",
+    "vi": "Ma: bị thương"
+  },
+  "sounds.minecraftdungeons.wraith_death": {
+    "en": "Wraith dies",
+    "zh": "幽灵：死亡",
+    "vi": "Ma: Cái chết"
+  },
+  "sounds.minecraftdungeons.wraith_attack": {
+    "en": "Wraith attacks",
+    "zh": "幽灵：攻击",
+    "vi": "Ma: tấn công"
+  },
+  "sounds.minecraftdungeons.wraith_teleport": {
+    "en": "Wraith teleports",
+    "zh": "幽灵：传送",
+    "vi": "Ma: Dịch chuyển tức thời"
+  },
+  "sounds.minecraftdungeons.wraith_fly": {
+    "en": "Wraith flies",
+    "zh": "幽灵：飞行",
+    "vi": "Ma: Chuyến bay"
+  },
+  "sounds.minecraftdungeons.wraith_fire_spawn": {
+    "en": "Ice Bouquet ignites",
+    "zh": "冰之花：点燃",
+    "vi": "Hoa băng: Đốt cháy"
+  },
+  "sounds.minecraftdungeons.necromancer_idle": {
+    "en": "Necromancer rattles",
+    "zh": "死灵法师：咯咯作响",
+    "vi": "Necromancer: Cười khúc khích"
+  },
+  "sounds.minecraftdungeons.necromancer_laugh": {
+    "en": "Necromancer chuckles",
+    "zh": "死灵法师：轻笑",
+    "vi": "Pháp sư: cười khúc khích"
+  },
+  "sounds.minecraftdungeons.necromancer_hurt": {
+    "en": "Necromancer hurts",
+    "zh": "死灵法师：受伤",
+    "vi": "Necromancer: Bị thương"
+  },
+  "sounds.minecraftdungeons.necromancer_death": {
+    "en": "Necromancer dies",
+    "zh": "死灵法师：死亡",
+    "vi": "Pháp sư chiêu hồn: Cái chết"
+  },
+  "sounds.minecraftdungeons.necromancer_shoot": {
+    "en": "Necromancer shoots",
+    "zh": "死灵法师：射击",
+    "vi": "Necromancer: Bắn"
+  },
+  "sounds.minecraftdungeons.necromancer_prepare_summon": {
+    "en": "Necromancer prepares summon",
+    "zh": "死灵法师：准备召唤",
+    "vi": "Necromancer: Chuẩn bị triệu hồi"
+  },
+  "sounds.minecraftdungeons.necromancer_summon": {
+    "en": "Necromancer summons",
+    "zh": "死灵法师：召唤",
+    "vi": "Necromancer: Triệu hồi"
+  },
+  "sounds.minecraftdungeons.bound_staff_summon": {
+    "en": "Bound Staff lands",
+    "zh": "束缚法杖：落地",
+    "vi": "Nhân viên ràng buộc: Đã hạ cánh"
+  },
+  "sounds.minecraftdungeons.bound_staff_shoot": {
+    "en": "Bound Staff shoots",
+    "zh": "束缚法杖：射击",
+    "vi": "Trượng Trói: Bắn"
+  },
+  "sounds.minecraftdungeons.bound_staff_loop": {
+    "en": "Bound Staff pulses",
+    "zh": "束缚法杖：脉动",
+    "vi": "Nhân viên ràng buộc: Xung"
+  },
+  "sounds.minecraftdungeons.souls_scream": {
+    "en": "Souls scream",
+    "zh": "灵魂：尖叫",
+    "vi": "Linh hồn: Hét lên"
+  },
+  "sounds.minecraftdungeons.vanguard_idle": {
+    "en": "Vanguard rattles",
+    "zh": "先锋：咯咯作响",
+    "vi": "Tiên phong: ầm ĩ"
+  },
+  "sounds.minecraftdungeons.vanguard_hurt": {
+    "en": "Vanguard hurts",
+    "zh": "先锋：受伤",
+    "vi": "Tiên phong: Bị thương"
+  },
+  "sounds.minecraftdungeons.vanguard_death": {
+    "en": "Vanguard dies",
+    "zh": "先锋：死亡",
+    "vi": "Tiên phong: Cái chết"
+  },
+  "sounds.minecraftdungeons.shield_break": {
+    "en": "Shield shatters",
+    "zh": "护盾：碎裂",
+    "vi": "Khiên: Tan vỡ"
+  },
+  "sounds.minecraftdungeons.vanguard_stab": {
+    "en": "Vanguard stabs",
+    "zh": "先锋：刺击",
+    "vi": "Tiên phong: Đâm"
+  },
+  "sounds.minecraftdungeons.royal_guard_step": {
+    "en": "Royal Guard steps",
+    "zh": "皇家守卫：脚步声",
+    "vi": "Vệ binh Hoàng gia: Những bước chân"
+  },
+  "sounds.minecraftdungeons.armor_impact": {
+    "en": "Armor clanks",
+    "zh": "盔甲：叮当响",
+    "vi": "Giáp: kêu lạch cạch"
+  },
+  "sounds.minecraftdungeons.mace_smash": {
+    "en": "Mace smashes",
+    "zh": "狼牙棒：猛砸",
+    "vi": "Chùy: Đập vỡ"
+  },
+  "sounds.minecraftdungeons.mace_swing": {
+    "en": "Mace swings",
+    "zh": "狼牙棒：挥舞",
+    "vi": "Chùy: Xoay"
+  },
+  "sounds.minecraftdungeons.mace_impact": {
+    "en": "Mace crushes",
+    "zh": "狼牙棒：碾压",
+    "vi": "Chùy: Đè bẹp"
+  },
+  "sounds.minecraftdungeons.enderman_theme": {
+    "en": "Enderman theme plays",
+    "zh": "末影人：主题曲播放",
+    "vi": "Enderman: Bài hát chủ đề được phát"
+  },
+  "sounds.minecraftdungeons.royal_guard_theme": {
+    "en": "Giant Royal Guard theme plays",
+    "zh": "巨型皇家守卫：主题曲播放",
+    "vi": "Đội cận vệ hoàng gia khổng lồ: Bài hát chủ đề được phát"
+  },
+  "sounds.minecraftdungeons.obsidian_monstrosity_theme": {
+    "en": "Obsidian Monstrosity theme plays",
+    "zh": "黑曜石巨兽：主题曲播放",
+    "vi": "Obsidian Behemoth: Bài hát chủ đề được phát"
+  },
+  "sounds.minecraftdungeons.phantom_arrow_impact": {
+    "en": "Phantom Arrow collides",
+    "zh": "幻影箭：碰撞",
+    "vi": "Mũi tên ma: Va chạm"
+  },
+  "sounds.minecraftdungeons.phantom_arrow_whoosh": {
+    "en": "Phantom Arrow whooshes",
+    "zh": "幻影箭：呼啸",
+    "vi": "Mũi tên ma: hú"
+  },
+  "sounds.minecraftdungeons.phantom_bow_shoot": {
+    "en": "Phantom Bow shoots",
+    "zh": "幻影弓：射击",
+    "vi": "Phantom Bow: Bắn súng"
+  },
+  "sounds.minecraftdungeons.bone_bow_shoot": {
+    "en": "Bone Bow shoots",
+    "zh": "骨弓：射击",
+    "vi": "Cung Xương: Bắn"
+  },
+  "sounds.minecraftdungeons.bone_arrow_impact": {
+    "en": "Bone Arrow collides",
+    "zh": "骨箭：碰撞",
+    "vi": "Mũi tên xương: Va chạm"
+  },
+  "sounds.minecraftdungeons.stone_wall_hit": {
+    "en": "Stone Wall deflects",
+    "zh": "石墙：弹开",
+    "vi": "Stonewall: Nảy lên"
+  },
+  "sounds.minecraftdungeons.stone_wall_erupt": {
+    "en": "Stone Wall erupts",
+    "zh": "石墙：喷发",
+    "vi": "Stonewall: Phun trào"
+  },
+  "sounds.minecraftdungeons.stone_wall_spawn": {
+    "en": "Stone Wall rises",
+    "zh": "石墙：升起",
+    "vi": "Stonewall: Tăng lên"
+  },
+  "sounds.minecraftdungeons.stone_wall_disappear": {
+    "en": "Stone Wall disappears",
+    "zh": "石墙：消失",
+    "vi": "Tường Đá: Biến mất"
+  },
+  "sounds.minecraftdungeons.explosive_wall_spark": {
+    "en": "Bomb Wall sparks",
+    "zh": "炸弹墙：火花",
+    "vi": "Tường bom: Tia lửa"
+  },
+  "sounds.minecraftdungeons.explosive_wall_sparkle": {
+    "en": "Bomb Wall deflects",
+    "zh": "炸弹墙：弹开",
+    "vi": "Tường bom: Nảy"
+  },
+  "sounds.minecraftdungeons.explosive_wall_spawn": {
+    "en": "Bomb Wall rises",
+    "zh": "炸弹墙：升起",
+    "vi": "tường bom: nổi lên"
+  },
+  "sounds.minecraftdungeons.explosive_wall_load": {
+    "en": "Bomb Wall loads",
+    "zh": "炸弹墙：加载",
+    "vi": "Tường bom: Đang tải"
+  },
+  "sounds.minecraftdungeons.soul_explosion": {
+    "en": "Souls explode",
+    "zh": "灵魂：爆炸",
+    "vi": "Linh hồn: Vụ nổ"
+  },
+  "sounds.minecraftdungeons.ambush_mob_spawn": {
+    "en": "Mob is summoned",
+    "zh": "生物：被召唤",
+    "vi": "Sinh vật: Được triệu hồi"
+  },
+  "sounds.minecraftdungeons.ambush_gate_open": {
+    "en": "Gate opens",
+    "zh": "门：打开",
+    "vi": "cửa: mở"
+  },
+  "sounds.minecraftdungeons.receiver_activate": {
+    "en": "Redstone Receiver activates",
+    "zh": "红石接收器：激活",
+    "vi": "Người nhận đá đỏ: Kích hoạt"
+  },
+  "sounds.minecraftdungeons.receiver_deactivate": {
+    "en": "Redstone Receiver deactivates",
+    "zh": "红石接收器：停用",
+    "vi": "Bộ thu đá đỏ: Đã tắt"
+  },
+  "sounds.minecraftdungeons.redstone_core_open": {
+    "en": "Redstone Core activates",
+    "zh": "红石核心：激活",
+    "vi": "Lõi đá đỏ: Kích hoạt"
+  },
+  "sounds.minecraftdungeons.heavy_sparks": {
+    "en": "Heavy Sparks",
+    "zh": "重火花",
+    "vi": "tia lửa nặng"
+  },
+  "sounds.minecraftdungeons.cauldron_armor_equip": {
+    "en": "Cauldron armor clanks",
+    "zh": "大釜盔甲：叮当响",
+    "vi": "Giáp vạc: Clank"
+  },
+  "sounds.minecraftdungeons.obsidian_staff_shoot": {
+    "en": "Obsidian Staff shoots",
+    "zh": "黑曜石法杖：射击",
+    "vi": "Gậy Obsidian: Bắn súng"
+  },
+  "sounds.minecraftdungeons.blast_fungus_burst": {
+    "en": "Blast Fungus bursts",
+    "zh": "爆裂真菌：爆裂",
+    "vi": "Nấm nổ: Nổ"
+  },
+  "sounds.minecraftdungeons.blast_fungus_throw": {
+    "en": "Blast Fungus thrown",
+    "zh": "爆裂真菌：投掷",
+    "vi": "Nấm nổ: Ném"
+  },
+  "sounds.minecraftdungeons.totem_of_regeneration_activate": {
+    "en": "Totem of Regeneration activates",
+    "zh": "再生图腾：激活",
+    "vi": "Vật tổ tái sinh: Kích hoạt"
+  },
+  "sounds.minecraftdungeons.death_cap_mushroom_eat": {
+    "en": "Death Cap Mushroom eaten",
+    "zh": "死亡帽蘑菇：被食用",
+    "vi": "Nấm Mũ Tử Thần: Đã Ăn"
+  },
+  "sounds.minecraftdungeons.death_cap_mushroom_active": {
+    "en": "A Mushroomized Pulse",
+    "zh": "蘑菇化脉冲",
+    "vi": "mạch nấm"
+  },
+  "filled_map.minecraftdungeons.blight_village": {
+    "en": "Blight Village Explorer Map",
+    "zh": "荒芜村庄探险地图",
+    "vi": "Bản đồ phiêu lưu ngôi làng hoang vắng"
+  },
+  "sounds.minecraftdungeons.redstone_golem_prepare": {
+    "en": "Redstone Golem prepares",
+    "zh": null,
+    "vi": null
+  },
+  "sounds.minecraftdungeons.redstone_golem_swipe": {
+    "en": "Redstone Golem smacks",
+    "zh": null,
+    "vi": null
+  },
+  "sounds.minecraftdungeons.redstone_golem_slam": {
+    "en": "Redstone Golem slams",
+    "zh": null,
+    "vi": null
+  },
+  "sounds.minecraftdungeons.redstone_golem_step": {
+    "en": "Redstone Golem steps",
+    "zh": null,
+    "vi": null
+  },
+  "sounds.minecraftdungeons.royal_guard_roar": {
+    "en": "Royal Guard roars",
+    "zh": null,
+    "vi": null
+  },
+  "sounds.minecraftdungeons.electric_crackle": {
+    "en": "Electricity crackles",
+    "zh": null,
+    "vi": null
+  },
+  "sounds.minecraftdungeons.mushroom_rocket_flame": {
+    "en": "Mushroom Rockets burn",
+    "zh": null,
+    "vi": null
+  }
+}

@@ -1,0 +1,3457 @@
+{
+  "config.promaid.spawnerTorch.priority": {
+    "en": "Spawner torch: go first (interrupt current work)",
+    "zh": "防刷怪·优先去插（打断当前活儿）",
+    "vi": "Spawner torch: go first (interrupt current work)"
+  },
+  "config.promaid.broom.unstick": {
+    "en": "Broom: unstick when blocked",
+    "zh": "扫帚·卡墙脱困",
+    "vi": "Chổi bay: Tự gỡ khi bị kẹt"
+  },
+  "config.promaid.broom.idleLand": {
+    "en": "Broom: land when idle",
+    "zh": "扫帚·待命落地",
+    "vi": "Chổi bay: Tự hạ cánh khi rảnh rỗi"
+  },
+  "config.promaid.broom.followEnd": {
+    "en": "Broom: follow stop distance (blocks)",
+    "zh": "扫帚·跟随收手距离（格）",
+    "vi": "Chổi bay: Khoảng cách dừng theo sau (khối)"
+  },
+  "config.promaid.broom.followStart": {
+    "en": "Broom: follow start distance (blocks)",
+    "zh": "扫帚·跟随起手距离（格）",
+    "vi": "Chổi bay: Khoảng cách bắt đầu theo sau (khối)"
+  },
+  "config.promaid.combat.assistRadius": {
+    "en": "Assist radius (blocks)",
+    "zh": "援护半径（格）",
+    "vi": "Bán kính hỗ trợ chiến đấu (khối)"
+  },
+  "config.promaid.combat.takeOverMovement": {
+    "en": "Take over movement",
+    "zh": "接管走位",
+    "vi": "Tiếp quản di chuyển chiến đấu"
+  },
+  "task.maid_smart.mine": {
+    "en": "Mining",
+    "zh": "挖矿",
+    "vi": "Khai Khoáng (Mining)"
+  },
+  "task.maid_smart.mine.desc": {
+    "en": "Find ores nearby and mine them with a pickaxe",
+    "zh": "在附近寻找矿石，手持镐开采",
+    "vi": "Tự động tìm kiếm quặng xung quanh và khai thác bằng cuốc"
+  },
+  "task.maid_smart.woodcut": {
+    "en": "Woodcutting",
+    "zh": "伐木",
+    "vi": "Chặt Gỗ (Woodcutting)"
+  },
+  "task.maid_smart.woodcut.desc": {
+    "en": "Find trees automatically, chop them with an axe, and fell connected logs in a chain; leaves do not block the view",
+    "zh": "自动找树，手持斧渐进砍伐，连锁砍完相连的树干；树叶不挡视线",
+    "vi": "Tự động tìm cây, chặt bằng rìu và đốn ngã toàn bộ chuỗi thân gỗ liên kết"
+  },
+  "task.maid_smart.organize": {
+    "en": "Organize Chests",
+    "zh": null,
+    "vi": "Sắp Xếp Rương"
+  },
+  "task.maid_smart.organize.desc": {
+    "en": "Store backpack items into nearby chests",
+    "zh": null,
+    "vi": "Tự cất giữ các vật phẩm trong ba lô vào các rương chứa lân cận"
+  },
+  "task.maid_smart.cook": {
+    "en": "Smelting",
+    "zh": "烧制",
+    "vi": "Nấu & Nung Đồ"
+  },
+  "task.maid_smart.cook.desc": {
+    "en": "Feed furnaces/smokers/blast furnaces with fuel and smeltable items (food or ores), collect the results",
+    "zh": "给熔炉/高炉/烟熏炉补充燃料与可烧制物（食材/矿石），收取烧好的成品",
+    "vi": "Tiếp nhiên liệu và nạp vật phẩm vào lò nung / lò hun khói / lò luyện kim, thu gom thành phẩm"
+  },
+  "task.maid_smart.brew": {
+    "en": "Brewing",
+    "zh": "酿造",
+    "vi": "Pha Chế Thuốc"
+  },
+  "task.maid_smart.brew.desc": {
+    "en": "Feed brewing stands with blaze powder and ingredients, collect potions",
+    "zh": "给酿造台补充烈焰粉与材料，收取酿好的药水",
+    "vi": "Tiếp bột quỷ lửa và nguyên liệu vào giàn pha thuốc, thu gom độc dược"
+  },
+  "task.maid_smart.build": {
+    "en": "Building",
+    "zh": "建筑",
+    "vi": "Xây Dựng"
+  },
+  "task.maid_smart.build.desc": {
+    "en": "Build a structure block by block from the build plan (materials from backpack)",
+    "zh": "按照建造计划逐块搭建建筑（材料从背包消耗）",
+    "vi": "Xây dựng công trình từng khối một theo bản thiết kế kiến trúc"
+  },
+  "task.maid_smart.slaughter": {
+    "en": "Slaughter",
+    "zh": "宰杀",
+    "vi": "Mổ Thịt / Đồ Tể"
+  },
+  "task.maid_smart.slaughter.desc": {
+    "en": "Count livestock within 5x5, kill one randomly every 3s when same type exceeds threshold",
+    "zh": "检测周围 5×5 内同种牲畜数量，超过阈值每 3 秒随机宰杀一只（播放动画）",
+    "vi": "Tự động giết động vật dư thừa trong trang trại khi số lượng vượt ngưỡng"
+  },
+  "task.maid_smart.flight_combat": {
+    "en": "Melee Air Raid",
+    "zh": "近战空袭",
+    "vi": "Melee Air Raid"
+  },
+  "task.maid_smart.flight_combat.desc": {
+    "en": "Melee Air Raid: elytra + any melee weapon + firework rocket; jump-glide, launch a firework away+up, fly at the enemy after 1.5s, cancel gliding within 3.5 blocks to free-fall into a critical melee hit, then re-glide and repeat",
+    "zh": "近战空袭：鞘翅 + 任意近战武器 + 烟花火箭。遇敌先起跳滑翔放烟花（初速=背离敌人+向上），1.5 秒后朝敌人飞，进入 3.5 格取消滑翔自由落体、触底前近战命中（暴击 ×1.5），命中后切回滑翔再放烟花循环；不响应自主切换",
+    "vi": "Melee Air Raid: elytra + any melee weapon + firework rocket; jump-glide, launch a firework away+up, fly at the enemy after 1.5s, cancel gliding within 3.5 blocks to free-fall into a critical melee hit, then re-glide and repeat"
+  },
+  "task.maid_smart.flight_ranged": {
+    "en": "Ranged Air Raid",
+    "zh": "远程空袭",
+    "vi": "Ranged Air Raid"
+  },
+  "task.maid_smart.flight_ranged.desc": {
+    "en": "Ranged Air Raid: elytra + any ranged weapon + firework rocket (guns also need ammo that fits the held gun - the gun mod decides); launches like Melee Air Raid, then circles in the sky and shoots enemies within range with the held ranged weapon, refreshing a firework every 5s; lands after the enemy dies",
+    "zh": "远程空袭：鞘翅 + 任意远程武器 + 烟花火箭（用枪械时还要子弹喂得上那把枪，口径由枪械 mod 自己判）。起飞方式与近战空袭相同，随后持续在天上盘旋（类似幻翼）并用手中远程武器打锁敌范围内的敌人，每 5 秒补一枚烟花；击败敌人后落地；不响应自主切换",
+    "vi": "Ranged Air Raid: elytra + any ranged weapon + firework rocket (guns also need ammo that fits the held gun - the gun mod decides); launches like Melee Air Raid, then circles in the sky and shoots enemies within range with the held ranged weapon, refreshing a firework every 5s; lands after the enemy dies"
+  },
+  "task.maid_smart.broom": {
+    "en": "Broom",
+    "zh": "扫帚模式",
+    "vi": "Broom"
+  },
+  "task.maid_smart.broom.desc": {
+    "en": "Broom: the maid takes a TLM broom out of her inventory, rides it herself (no player driver needed) and shoots with her held ranged weapon; when idle she hovers and follows her owner, and in home mode she patrols in a circle around the work area instead. Needs a broom + ranged weapon + ammo (for guns the ammo must fit the held gun - the gun mod itself decides, TACZ or Superb Warfare); if something is missing she waits in place and reports what is missing. Not used by auto task switching. While riding she can NOT cast magic or place TNT/end crystals/respawn anchors/beds - only her held weapon attacks",
+    "zh": "扫帚模式：女仆自己取出 TLM 的扫帚骑上去飞起来（无需玩家驾驶），用主手的远程武器开火；平时悬停在主人身边跟随，守家（工作范围）时改成沿着工作范围那个圈盘旋巡逻。需要扫帚 + 远程武器 + 弹药（弹药要喂得上手里那把枪——口径由枪械 mod 自己判：TACZ / 卓越前线都一样），缺件时原地待命并播报缺什么；不响应自主切换。因为是骑乘状态，这个模式下她**不能施法、也不能放 TNT/末地水晶/重生锚/床**，只有主手武器在打",
+    "vi": "Broom: the maid takes a TLM broom out of her inventory, rides it herself (no player driver needed) and shoots with her held ranged weapon; when idle she hovers and follows her owner, and in home mode she patrols in a circle around the work area instead. Needs a broom + ranged weapon + ammo (for guns the ammo must fit the held gun - the gun mod itself decides, TACZ or Superb Warfare); if something is missing she waits in place and reports what is missing. Not used by auto task switching. While riding she can NOT cast magic or place TNT/end crystals/respawn anchors/beds - only her held weapon attacks"
+  },
+  "item.maid_smart.blueprint_book": {
+    "en": "Promaid Manual",
+    "zh": "Promaid 手册",
+    "vi": "Promaid Manual"
+  },
+  "config.promaid.aitools.perception": {
+    "en": "perception_query tool",
+    "zh": "perception_query 工具",
+    "vi": "perception_query tool"
+  },
+  "config.promaid.aitools.workList": {
+    "en": "work_list tool",
+    "zh": "work_list 工具",
+    "vi": "work_list tool"
+  },
+  "config.promaid.aitools.ownerInventory": {
+    "en": "smart_owner_inventory tool",
+    "zh": "smart_owner_inventory 工具",
+    "vi": "smart_owner_inventory tool"
+  },
+  "config.promaid.aitools.switchTask": {
+    "en": "smart_switch_task tool (change task/mode)",
+    "zh": "smart_switch_task 工具（换任务/模式）",
+    "vi": "smart_switch_task tool (change task/mode)"
+  },
+  "config.promaid.aitools.airRaid": {
+    "en": "smart_air_raid tool (start/stop air raid)",
+    "zh": "smart_air_raid 工具（起飞/停止空袭）",
+    "vi": "smart_air_raid tool (start/stop air raid)"
+  },
+  "config.promaid.aitools.workArea": {
+    "en": "smart_work_area tool (set work area / stay)",
+    "zh": "smart_work_area 工具（定工作区/驻守）",
+    "vi": "smart_work_area tool (set work area / stay)"
+  },
+  "config.promaid.aitools.readiness": {
+    "en": "smart_readiness tool (readiness check)",
+    "zh": "smart_readiness 工具（状态自检）",
+    "vi": "smart_readiness tool (readiness check)"
+  },
+  "config.promaid.memory.affectSnapshot": {
+    "en": "Affect snapshot in memories",
+    "zh": "情绪快照入记忆",
+    "vi": "Affect snapshot in memories"
+  },
+  "config.promaid.memory.persona": {
+    "en": "Persona seed projection",
+    "zh": "人格种子注入",
+    "vi": "Persona seed projection"
+  },
+  "config.promaid.memory.carePoints": {
+    "en": "Daily care points",
+    "zh": "每日关心点",
+    "vi": "Daily care points"
+  },
+  "config.promaid.memory.dualAgent": {
+    "en": "Dual-agent extraction",
+    "zh": "双 agent 提取",
+    "vi": "Dual-agent extraction"
+  },
+  "config.promaid.memory.personaUnify": {
+    "en": "Persona unification",
+    "zh": "人设统一",
+    "vi": "Persona unification"
+  },
+  "config.promaid.memory.openEvents": {
+    "en": "Open threads injection (ported from Sphantosis)",
+    "zh": "未完成的事注入（移植自 Sphantosis）",
+    "vi": "Open threads injection (ported from Sphantosis)"
+  },
+  "config.promaid.build.machineSmart": {
+    "en": "Redstone machine smart build (machine order + live placement + auto-start)",
+    "zh": "红石机器专属搭建（专属顺序+活建造+自动启动）",
+    "vi": "Redstone machine smart build (machine order + live placement + auto-start)"
+  },
+  "config.promaid.build.projection": {
+    "en": "Ghost block projection (performance)",
+    "zh": "幽灵方块投影（性能）",
+    "vi": "Ghost block projection (performance)"
+  },
+  "config.promaid.build.keepFluids": {
+    "en": "Blueprint Fluids (water/lava)",
+    "zh": "图纸流体保留（水/岩浆）",
+    "vi": "Blueprint Fluids (water/lava)"
+  },
+  "config.promaid.build.looseMaterials": {
+    "en": "Loose Material Matching",
+    "zh": "缺料同类宽松",
+    "vi": "Loose Material Matching"
+  },
+  "key.categories.promaid": {
+    "en": "Promaid Building",
+    "zh": "Promaid 建造",
+    "vi": "Promaid Building"
+  },
+  "key.promaid.build_rotate": {
+    "en": "Rotate Blueprint Orientation (90° per press)",
+    "zh": "建造预览·旋转朝向（每次顺时针 90°）",
+    "vi": "Rotate Blueprint Orientation (90° per press)"
+  },
+  "key.promaid.maid_pat": {
+    "en": "Pat Maid's Head (aim at maid)",
+    "zh": "摸摸头（对准女仆）",
+    "vi": "Pat Maid's Head (aim at maid)"
+  },
+  "key.promaid.maid_hug": {
+    "en": "Hug Maid (aim at maid)",
+    "zh": "抱抱（对准女仆）",
+    "vi": "Hug Maid (aim at maid)"
+  },
+  "config.promaid.combat.autoResurrectEnable": {
+    "en": "Maid auto-resurrect",
+    "zh": "女仆自动复活",
+    "vi": "Maid auto-resurrect"
+  },
+  "config.promaid.combat.autoResurrectDelaySeconds": {
+    "en": "Resurrect delay (s)",
+    "zh": "复活延迟（秒）",
+    "vi": "Resurrect delay (s)"
+  },
+  "config.promaid.combat.autoResurrectHealthRatio": {
+    "en": "Resurrect health ratio",
+    "zh": "复活血量比",
+    "vi": "Resurrect health ratio"
+  },
+  "config.promaid.combat.autoResurrectTiming": {
+    "en": "Resurrect timing",
+    "zh": "复活时机",
+    "vi": "Resurrect timing"
+  },
+  "config.promaid.combat.aidMaidMutual": {
+    "en": "Maid-to-maid aid",
+    "zh": "女仆之间互相支援",
+    "vi": "Maid-to-maid aid"
+  },
+  "config.promaid.combat.aidFriendlyUnits": {
+    "en": "Aid friendly units",
+    "zh": "支援其他友方单位",
+    "vi": "Aid friendly units"
+  },
+  "config.promaid.combat.aidUndeadUnits": {
+    "en": "Support undead units",
+    "zh": "支援亡灵单位",
+    "vi": "Support undead units"
+  },
+  "config.promaid.combat.aidSelfUse": {
+    "en": "Self-use follows the support table",
+    "zh": "自用也走支援表",
+    "vi": "Self-use follows the support table"
+  },
+  "config.promaid.combat.aidFoodBlacklist": {
+    "en": "Aid food blacklist",
+    "zh": "投喂食物黑名单",
+    "vi": "Aid food blacklist"
+  },
+  "config.promaid.combat.aidSupportCategory": {
+    "en": "General support item category table",
+    "zh": "通用支援品分类表",
+    "vi": "General support item category table"
+  },
+  "config.promaid.combat.aidSupportCategoryUndead": {
+    "en": "Undead support item category table",
+    "zh": "亡灵支援品分类表",
+    "vi": "Undead support item category table"
+  },
+  "config.promaid.misc.bedInterop": {
+    "en": "Bed interop",
+    "zh": "床铺互通",
+    "vi": "Bed interop"
+  },
+  "config.promaid.misc.cooldownHud": {
+    "en": "Cooldown HUD",
+    "zh": "冷却可视化 HUD",
+    "vi": "Cooldown HUD"
+  },
+  "config.promaid.misc.noPlaceInAir": {
+    "en": "No block placing while airborne",
+    "zh": "悬空禁搭方块",
+    "vi": "No block placing while airborne"
+  },
+  "config.promaid.misc.noPlaceOnOwner": {
+    "en": "No block placing inside the owner",
+    "zh": "不得搭在主人身上",
+    "vi": "No block placing inside the owner"
+  },
+  "config.promaid.misc.cakeEdible": {
+    "en": "Cake is edible",
+    "zh": "蛋糕可食用",
+    "vi": "Cake is edible"
+  },
+  "config.promaid.misc.cookSmeltAllow": {
+    "en": "Cook List: only smelt these",
+    "zh": "烧制清单·只烧这些",
+    "vi": "Cook List: only smelt these"
+  },
+  "config.promaid.misc.cookSmeltDeny": {
+    "en": "Cook List: never smelt these",
+    "zh": "烧制清单·禁止烧制",
+    "vi": "Cook List: never smelt these"
+  },
+  "config.promaid.misc.cookFuelAllow": {
+    "en": "Cook List: only these fuels",
+    "zh": "烧制清单·只用这些燃料",
+    "vi": "Cook List: only these fuels"
+  },
+  "config.promaid.misc.cookFuelDeny": {
+    "en": "Cook List: never use as fuel",
+    "zh": "烧制清单·禁用燃料",
+    "vi": "Cook List: never use as fuel"
+  },
+  "config.promaid.voice.jarPackEnabled": {
+    "en": "Built-in Japanese voice pack",
+    "zh": "内置日语语音包",
+    "vi": "Built-in Japanese voice pack"
+  },
+  "config.promaid.voice.jarPackVolume": {
+    "en": "Built-in voice pack volume",
+    "zh": "内置语音包音量倍率",
+    "vi": "Built-in voice pack volume"
+  },
+  "config.promaid.voice.jarPackMinIntervalS": {
+    "en": "Built-in voice min interval (s)",
+    "zh": "内置语音最小间隔（秒）",
+    "vi": "Built-in voice min interval (s)"
+  },
+  "config.promaid.voice.jarPackMuteNative": {
+    "en": "Mute native sound pack while playing",
+    "zh": "播放时暂压原生语音包",
+    "vi": "Mute native sound pack while playing"
+  },
+  "config.promaid.combat.flightNoWallDamage": {
+    "en": "Flight: Immune to Elytra Wall Impact",
+    "zh": "飞行作战免疫鞘翅撞击伤害",
+    "vi": "Flight: Immune to Elytra Wall Impact"
+  },
+  "config.promaid.combat.flightNoFallDamage": {
+    "en": "Air Raid: Immune to Fall Damage",
+    "zh": "空袭免疫摔落伤害",
+    "vi": "Air Raid: Immune to Fall Damage"
+  },
+  "config.promaid.combat.flightDangerAvoid": {
+    "en": "Flight: Avoid Dangerous Terrain",
+    "zh": "飞行危险环境避让",
+    "vi": "Flight: Avoid Dangerous Terrain"
+  },
+  "config.promaid.combat.riptideDash": {
+    "en": "Riptide Trident Dash",
+    "zh": "激流三叉戟旋转突进",
+    "vi": "Riptide Trident Dash"
+  },
+  "config.promaid.combat.riptideFlightScale": {
+    "en": "Riptide Thrust Scale (as propellant)",
+    "zh": "激流推进·力度倍数",
+    "vi": "Riptide Thrust Scale (as propellant)"
+  },
+  "config.promaid.combat.selfWings": {
+    "en": "Self-propelled elytra",
+    "zh": "自推鞘翅",
+    "vi": "Self-propelled elytra"
+  },
+  "config.promaid.combat.selfWingsItems": {
+    "en": "Self-propelled elytra - eligible items",
+    "zh": "自推鞘翅·资格物品表",
+    "vi": "Self-propelled elytra - eligible items"
+  },
+  "config.promaid.combat.selfWingsScale": {
+    "en": "Self-propelled elytra - thrust multiplier",
+    "zh": "自推鞘翅·推力倍数",
+    "vi": "Self-propelled elytra - thrust multiplier"
+  },
+  "config.promaid.flightFollow.trident": {
+    "en": "Flight Follow: Trident Durability",
+    "zh": "飞行跟随·消耗三叉戟耐久",
+    "vi": "Flight Follow: Trident Durability"
+  },
+  "config.promaid.bridge.buildOnlyNatural": {
+    "en": "Build Blocks: Vanilla Natural Blocks Only",
+    "zh": "搭方块只用原版天然方块",
+    "vi": "Build Blocks: Vanilla Natural Blocks Only"
+  },
+  "config.promaid.bridge.buildBlacklist": {
+    "en": "Build Block Blacklist",
+    "zh": "搭方块禁用名单",
+    "vi": "Build Block Blacklist"
+  },
+  "config.promaid.bridge.buildWhitelist": {
+    "en": "Build Block Allowlist (exceptions)",
+    "zh": "搭方块放宽名单（例外）",
+    "vi": "Build Block Allowlist (exceptions)"
+  },
+  "config.promaid.combat.crossbowPlainFirework": {
+    "en": "Crossbow: Plain Fireworks as Ammo",
+    "zh": "弩可用普通烟花当弹药",
+    "vi": "Crossbow: Plain Fireworks as Ammo"
+  },
+  "config.promaid.combat.flightRangedPush": {
+    "en": "Ranged Air Raid: Close-Range Push-Away",
+    "zh": "远程空袭近身弹开",
+    "vi": "Ranged Air Raid: Close-Range Push-Away"
+  },
+  "config.promaid.combat.flightRecallDistance": {
+    "en": "Air Raid Leash (blocks)",
+    "zh": "空袭牵引绳（格）",
+    "vi": "Air Raid Leash (blocks)"
+  },
+  "item.maid_smart.index_stone": {
+    "en": "Index Stone",
+    "zh": "指标石",
+    "vi": "Index Stone"
+  },
+  "block.maid_smart.pink_fire": {
+    "en": "Pink Fire",
+    "zh": "粉色火焰",
+    "vi": "Pink Fire"
+  },
+  "item.maid_smart.compression_box": {
+    "en": "Compression Box",
+    "zh": "压缩盒",
+    "vi": "Compression Box"
+  },
+  "item.maid_smart.combat_leash": {
+    "en": "Combat Leash",
+    "zh": "武装拴绳",
+    "vi": "Combat Leash"
+  },
+  "item.maid_smart.combat_leash.desc1": {
+    "en": "§7Use on a flying maid to hang beneath her as a gunner; she flies on, you keep shooting",
+    "zh": "§7右击【飞行中的】女仆：把自己挂到她下方（直升机二号位），她照常飞、你也可以照常开火",
+    "vi": "§7Use on a flying maid to hang beneath her as a gunner; she flies on, you keep shooting"
+  },
+  "item.maid_smart.combat_leash.desc2": {
+    "en": "§7Use again or sneak to release; she drops you safely on landing",
+    "zh": "§7再右击一次或按§f潜跳§7解除；她落地/入水会自动放人；合成：拴绳 + 铁锭×2",
+    "vi": "§7Use again or sneak to release; she drops you safely on landing"
+  },
+  "item.maid_smart.ride_baton": {
+    "en": "Ride Baton",
+    "zh": "骑乘指挥棒",
+    "vi": "Ride Baton"
+  },
+  "item.maid_smart.ride_baton.desc1": {
+    "en": "§7First use on a §fsaddled§7 mount (horse/donkey/pig/strider/camel... or a mod vehicle/dragon) to select it, then use on your maid to pair",
+    "zh": "§7先右击一只§f已上鞍§7的坐骑（马/驴/骡/猪/炽足兽/骆驼…或模组载具/龙）选中它，再右击自己的女仆即可配对",
+    "vi": "§7First use on a §fsaddled§7 mount (horse/donkey/pig/strider/camel... or a mod vehicle/dragon) to select it, then use on your maid to pair"
+  },
+  "item.maid_smart.ride_baton.desc2": {
+    "en": "§7Order is §ffixed§7: you must select the §fmount first§7, then the maid. The selected one glows gold",
+    "zh": "§7顺序§f固定§7：必须§f先瞄坐骑、再瞄女仆§7；被选中的会亮起金色描边（光标）",
+    "vi": "§7Order is §ffixed§7: you must select the §fmount first§7, then the maid. The selected one glows gold"
+  },
+  "item.maid_smart.ride_baton.desc3": {
+    "en": "§7She rides it and follows you; §fsneak + use§7 to dismount. Craft: lead + stick",
+    "zh": "§7绑定后她骑着坐骑跟着你走；§f潜行+右击§7即可让她下来；合成：拴绳 + 木棍",
+    "vi": "§7She rides it and follows you; §fsneak + use§7 to dismount. Craft: lead + stick"
+  },
+  "item.maid_smart.patrol_chart": {
+    "en": "Patrol Chart",
+    "zh": "巡逻航图",
+    "vi": "Patrol Chart"
+  },
+  "item.maid_smart.patrol_chart.desc1": {
+    "en": "§7In broom mode + home mode, she patrols along a route you draw (replacing the work-circle orbit)",
+    "zh": "§7扫帚模式 + 在家模式下，让她沿你画的轨道巡逻（替代原本的绕工作圈盘旋）",
+    "vi": "§7In broom mode + home mode, she patrols along a route you draw (replacing the work-circle orbit)"
+  },
+  "item.maid_smart.patrol_chart.desc2": {
+    "en": "§fRight-click§7 to open the chart: create / rename routes, bind maids, start marking, manage marks, connect the loop",
+    "zh": "§f右键§7打开航图：新建轨道 / 改名 / 绑定女仆 / 开始标记 / 标记管理 / 连接闭环",
+    "vi": "§fRight-click§7 to open the chart: create / rename routes, bind maids, start marking, manage marks, connect the loop"
+  },
+  "item.maid_smart.patrol_chart.desc3": {
+    "en": "§fAfter starting marking, middle-click§7 to record a mark (no sneak needed; works in the air and on the ground — the mark is exactly where you are); the diamonds + rings in the world are the marks, each labelled §7\"route #N\"§7 above it (first§bcyan§7 / last§dmagenta); connecting auto-lifts the route over blocking blocks — your marks stay put, only the flown line rises",
+    "zh": "§f在「开始标记」后按鼠标中键§7记一个标记（不用潜行；空中地面都行，落点就是你此刻的位置）；世界里的菱形＋光环就是它，每个菱形头上标着「轨道名 #几」（首点§b青§7 / 末点§d品红）；点「连接」时航线会自动抬过挡路的方块——标记本身不动，抬的是她实际飞的那条线",
+    "vi": "§fAfter starting marking, middle-click§7 to record a mark (no sneak needed; works in the air and on the ground — the mark is exactly where you are); the diamonds + rings in the world are the marks, each labelled §7\"route #N\"§7 above it (first§bcyan§7 / last§dmagenta); connecting auto-lifts the route over blocking blocks — your marks stay put, only the flown line rises"
+  },
+  "item.maid_smart.patrol_chart.desc4": {
+    "en": "§7Only applies to broom-mode + home-mode maids, and the broom tether no longer pulls her; Craft: paper + compass + ink sac",
+    "zh": "§7只对「扫帚模式 + 在家模式」的女仆生效，且她不再受扫帚牵引绳影响；合成：纸 + 指南针 + 墨囊",
+    "vi": "§7Only applies to broom-mode + home-mode maids, and the broom tether no longer pulls her; Craft: paper + compass + ink sac"
+  },
+  "config.promaid.compressionBox": {
+    "en": "Compression Box",
+    "zh": "压缩盒设置",
+    "vi": "Compression Box"
+  },
+  "config.promaid.compressionBox.maidExtension": {
+    "en": "Maid backpack extension",
+    "zh": "女仆背包延伸",
+    "vi": "Maid backpack extension"
+  },
+  "config.promaid.compressionBox.maxStack": {
+    "en": "Max stack per slot",
+    "zh": "每格上限",
+    "vi": "Max stack per slot"
+  },
+  "config.promaid.build.indexStone": {
+    "en": "Index Stone",
+    "zh": "指标石",
+    "vi": "Index Stone"
+  },
+  "task.maid_smart.index_build": {
+    "en": "Temporary Build",
+    "zh": "临时搭建",
+    "vi": "Temporary Build"
+  },
+  "task.maid_smart.away": {
+    "en": "⚑ Not Loaded",
+    "zh": "⚑ 未加载",
+    "vi": "⚑ Not Loaded"
+  },
+  "task.maid_smart.reviving": {
+    "en": "✚ Reviving",
+    "zh": "✚ 复活中",
+    "vi": "✚ Reviving"
+  },
+  "task.maid_smart.index_build.desc": {
+    "en": "One-off temporary build triggered by the index stone (hidden task)",
+    "zh": "指标石一次性临时建造（隐藏任务，不由玩家选择）",
+    "vi": "One-off temporary build triggered by the index stone (hidden task)"
+  },
+  "config.promaid.combat.flightSpellCast": {
+    "en": "Air-raid spell casting (needs Touhou Little Maid: Spell)",
+    "zh": "空袭顺带施法（需装《车万女仆：万法皆通》）",
+    "vi": "Air-raid spell casting (needs Touhou Little Maid: Spell)"
+  },
+  "config.promaid.combat.flightSpellCastInterval": {
+    "en": "Air-raid spell interval (ticks)",
+    "zh": "空袭施法间隔（tick）",
+    "vi": "Air-raid spell interval (ticks)"
+  },
+  "config.promaid.combat.flightSpellCastRange": {
+    "en": "Air-raid spell range (blocks)",
+    "zh": "空袭施法距离（格）",
+    "vi": "Air-raid spell range (blocks)"
+  },
+  "config.promaid.combat.flightDashInterval": {
+    "en": "Air Raid Dash Interval (ticks)",
+    "zh": "位移法术间隔（tick）",
+    "vi": "Air Raid Dash Interval (ticks)"
+  },
+  "config.promaid.combat.flightDashClimb": {
+    "en": "Dash Spells: Liftoff / Altitude (climb list)",
+    "zh": "位移法术·起飞/补高（提供高度）",
+    "vi": "Dash Spells: Liftoff / Altitude (climb list)"
+  },
+  "config.promaid.combat.flightDashBoost": {
+    "en": "Dash Spells: In-flight Speed Boost",
+    "zh": "位移法术·飞行加速（提供速度）",
+    "vi": "Dash Spells: In-flight Speed Boost"
+  },
+  "config.promaid.combat.flightDashClimbSpells": {
+    "en": "Climb Spell IDs",
+    "zh": "提供高度的法术表",
+    "vi": "Climb Spell IDs"
+  },
+  "config.promaid.combat.flightDashBoostSpells": {
+    "en": "Speed Boost Spell IDs",
+    "zh": "提供速度的法术表",
+    "vi": "Speed Boost Spell IDs"
+  },
+  "config.promaid.combat.flightDashBoostRespectCooldown": {
+    "en": "Speed Boost Spells: Respect Spell Cooldown",
+    "zh": "飞行加速·尊重法术冷却（提供速度）",
+    "vi": "Speed Boost Spells: Respect Spell Cooldown"
+  },
+  "config.promaid.broom": {
+    "en": "Broom Mode",
+    "zh": "扫帚模式",
+    "vi": "Broom Mode"
+  },
+  "config.promaid.broom.enable": {
+    "en": "Broom Mode (master switch)",
+    "zh": "扫帚模式·总开关",
+    "vi": "Broom Mode (master switch)"
+  },
+  "config.promaid.broom.range": {
+    "en": "Combat orbit distance (blocks)",
+    "zh": "战斗盘旋距离（格）",
+    "vi": "Combat orbit distance (blocks)"
+  },
+  "config.promaid.broom.orbitMax": {
+    "en": "Max distance from target (blocks)",
+    "zh": "离敌最远距离（格）",
+    "vi": "Max distance from target (blocks)"
+  },
+  "config.promaid.broom.minStandoff": {
+    "en": "Min distance from target (blocks)",
+    "zh": "离敌最近距离（格）",
+    "vi": "Min distance from target (blocks)"
+  },
+  "config.promaid.broom.hover": {
+    "en": "Hover height (blocks)",
+    "zh": "悬停高度（格）",
+    "vi": "Hover height (blocks)"
+  },
+  "config.promaid.broom.climb": {
+    "en": "Combat climb height (blocks)",
+    "zh": "接敌爬升高度（格）",
+    "vi": "Combat climb height (blocks)"
+  },
+  "config.promaid.broom.follow": {
+    "en": "Follow owner when idle",
+    "zh": "平时跟随主人",
+    "vi": "Follow owner when idle"
+  },
+  "config.promaid.broom.clampHome": {
+    "en": "Patrol the work area in home mode",
+    "zh": "守家时绕工作范围盘旋（并受范围约束）",
+    "vi": "Patrol the work area in home mode"
+  },
+  "config.promaid.broom.homeAlt": {
+    "en": "Home patrol altitude above ground (blocks)",
+    "zh": "守家盘旋高度（格）",
+    "vi": "Home patrol altitude above ground (blocks)"
+  },
+  "config.promaid.broom.recallDistance": {
+    "en": "Broom leash distance (blocks)",
+    "zh": "扫帚牵引绳（格）",
+    "vi": "Broom leash distance (blocks)"
+  },
+  "config.promaid.patrol.enable": {
+    "en": "Patrol routes enabled",
+    "zh": "巡逻航迹总开关",
+    "vi": "Patrol routes enabled"
+  },
+  "config.promaid.patrol.enableMigrated": {
+    "en": "Internal: patrol master switch path migration done",
+    "zh": "内部标记：巡逻总开关路径迁移是否已执行",
+    "vi": "Internal: patrol master switch path migration done"
+  },
+  "config.promaid.patrol.clearance": {
+    "en": "Patrol - default clearance radius (blocks)",
+    "zh": "巡逻·默认净空半径（格）",
+    "vi": "Patrol - default clearance radius (blocks)"
+  },
+  "config.promaid.patrol.maxRadius": {
+    "en": "Patrol - max horizontal radius (blocks)",
+    "zh": "巡逻·最大水平半径（格）",
+    "vi": "Patrol - max horizontal radius (blocks)"
+  },
+  "config.promaid.broom.climbMigrated": {
+    "en": "Internal: broom combat climb height migration done",
+    "zh": "内部标记：扫帚接敌爬升高度默认迁移（10→15）",
+    "vi": "Internal: broom combat climb height migration done"
+  },
+  "config.promaid.broom.climb12Migrated": {
+    "en": "Internal: broom combat climb height 2nd migration (15 to 12) done",
+    "zh": "内部标记：扫帚接敌爬升高度默认迁移（15→12）",
+    "vi": "Internal: broom combat climb height 2nd migration (15 to 12) done"
+  },
+  "config.promaid.tether": {
+    "en": "Combat Leash (gunner seat)",
+    "zh": "武装拴绳（二号位）",
+    "vi": "Combat Leash (gunner seat)"
+  },
+  "config.promaid.tether.enable": {
+    "en": "Combat Leash - master switch",
+    "zh": "武装拴绳·总开关",
+    "vi": "Combat Leash - master switch"
+  },
+  "config.promaid.tether.hang": {
+    "en": "Combat Leash - hang distance (blocks)",
+    "zh": "武装拴绳·悬挂距离（格）",
+    "vi": "Combat Leash - hang distance (blocks)"
+  },
+  "config.promaid.tether.ghostAlpha": {
+    "en": "Combat Leash - first-person transparency (0~1, 1=off)",
+    "zh": "武装拴绳·第一人称半透明（0~1，1=关）",
+    "vi": "Combat Leash - first-person transparency (0~1, 1=off)"
+  },
+  "config.promaid.tether.broomExtra": {
+    "en": "Combat Leash - extra sink on broom (blocks)",
+    "zh": "武装拴绳·扫帚额外下沉（格）",
+    "vi": "Combat Leash - extra sink on broom (blocks)"
+  },
+  "config.promaid.tether.glowMark": {
+    "en": "Combat Leash - gold outline marker",
+    "zh": "武装拴绳·金色描边标记",
+    "vi": "Combat Leash - gold outline marker"
+  },
+  "config.promaid.tether.pull": {
+    "en": "Combat Leash - pull (drag the maid like a vanilla lead)",
+    "zh": "武装拴绳·拉扯（像原版拴绳一样）",
+    "vi": "Combat Leash - pull (drag the maid like a vanilla lead)"
+  },
+  "config.promaid.ride": {
+    "en": "Ride Baton (vanilla mount riding)",
+    "zh": "骑乘指挥棒（原版生物骑乘）",
+    "vi": "Ride Baton (vanilla mount riding)"
+  },
+  "config.promaid.ride.enable": {
+    "en": "Ride Baton - enable",
+    "zh": "骑乘指挥棒·总开关",
+    "vi": "Ride Baton - enable"
+  },
+  "config.promaid.ride.followDist": {
+    "en": "Riding - follow stop distance (blocks)",
+    "zh": "骑乘·跟随停下距离（格）",
+    "vi": "Riding - follow stop distance (blocks)"
+  },
+  "config.promaid.ride.speedScale": {
+    "en": "Riding - overall speed multiplier",
+    "zh": "骑乘·速度总倍率",
+    "vi": "Riding - overall speed multiplier"
+  },
+  "config.promaid.ride.furnitureBlacklist": {
+    "en": "Riding - furniture vehicle blacklist",
+    "zh": "骑乘·家具类坐骑黑名单",
+    "vi": "Riding - furniture vehicle blacklist"
+  },
+  "config.promaid.teleportExemptSitting": {
+    "en": "Sitting maid not teleported by self-preservation",
+    "zh": "坐下的女仆不被自保传送拉走",
+    "vi": "Sitting maid not teleported by self-preservation"
+  },
+  "config.promaid.spawnerTorch": {
+    "en": "Anti-Spawner Torches",
+    "zh": "防刷怪：发现刷怪笼就去插火把",
+    "vi": "Anti-Spawner Torches"
+  },
+  "config.promaid.spawnerTorch.enable": {
+    "en": "Torch mob spawners",
+    "zh": "防刷怪·发现刷怪笼就去插火把",
+    "vi": "Torch mob spawners"
+  },
+  "config.promaid.spawnerTorch.radius": {
+    "en": "Spawner search radius (blocks)",
+    "zh": "防刷怪·搜索半径（格）",
+    "vi": "Spawner search radius (blocks)"
+  },
+  "config.promaid.spawnerTorch.breakSpawner": {
+    "en": "Anti-Spawner: break spawners outright",
+    "zh": "防刷怪·发现刷怪笼直接拆掉",
+    "vi": "Anti-Spawner: break spawners outright"
+  },
+  "config.promaid.spawnerTorch.breakRequirePickaxe": {
+    "en": "Anti-Spawner: require a pickaxe to break",
+    "zh": "防刷怪·拆刷怪笼要求带镐",
+    "vi": "Anti-Spawner: require a pickaxe to break"
+  },
+  "config.promaid.spawnerTorch.breakOnlyWhenActive": {
+    "en": "Anti-Spawner: break only while it is actually spawning",
+    "zh": "防刷怪·只在真在刷怪时才拆",
+    "vi": "Anti-Spawner: break only while it is actually spawning"
+  },
+  "config.promaid.airRaid": {
+    "en": "Air Raid Values",
+    "zh": "空袭数值",
+    "vi": "Air Raid Values"
+  },
+  "config.promaid.airRaid.launchTicksMelee": {
+    "en": "Liftoff Phase Ticks (Melee)",
+    "zh": "起飞段时长·近战（tick）",
+    "vi": "Liftoff Phase Ticks (Melee)"
+  },
+  "config.promaid.airRaid.launchTicksRanged": {
+    "en": "Liftoff Phase Ticks (Ranged)",
+    "zh": "起飞段时长·远程（tick）",
+    "vi": "Liftoff Phase Ticks (Ranged)"
+  },
+  "config.promaid.airRaid.launchClimbTanMelee": {
+    "en": "Liftoff Climb Tangent (Melee)",
+    "zh": "起飞仰角·近战（正切值）",
+    "vi": "Liftoff Climb Tangent (Melee)"
+  },
+  "config.promaid.airRaid.launchClimbTanRanged": {
+    "en": "Liftoff Climb Tangent (Ranged)",
+    "zh": "起飞仰角·远程（正切值）",
+    "vi": "Liftoff Climb Tangent (Ranged)"
+  },
+  "config.promaid.airRaid.launchRange": {
+    "en": "Liftoff Trigger Distance",
+    "zh": "起飞触发距离（格）",
+    "vi": "Liftoff Trigger Distance"
+  },
+  "config.promaid.airRaid.altitudeTolerance": {
+    "en": "Altitude Tolerance",
+    "zh": "占位高度容差（格）",
+    "vi": "Altitude Tolerance"
+  },
+  "config.promaid.airRaid.jumpTicks": {
+    "en": "Jump-Glide Wait Ticks",
+    "zh": "起跳等待上限（tick）",
+    "vi": "Jump-Glide Wait Ticks"
+  },
+  "config.promaid.airRaid.fireworkCooldown": {
+    "en": "Firework Min Interval",
+    "zh": "烟花最小间隔（tick）",
+    "vi": "Firework Min Interval"
+  },
+  "config.promaid.airRaid.fanCooldown": {
+    "en": "Fan Min Interval",
+    "zh": "羽扇最小间隔（tick）",
+    "vi": "Fan Min Interval"
+  },
+  "config.promaid.airRaid.smashRange": {
+    "en": "Smash Trigger Distance",
+    "zh": "收翅俯冲触发距离（格）",
+    "vi": "Smash Trigger Distance"
+  },
+  "config.promaid.airRaid.smashHitRange": {
+    "en": "Smash Hit Range",
+    "zh": "猛击命中判定距离（格）",
+    "vi": "Smash Hit Range"
+  },
+  "config.promaid.airRaid.forcedHitRadius": {
+    "en": "Forced Hit Radius",
+    "zh": "范围强制命中半径（格）",
+    "vi": "Forced Hit Radius"
+  },
+  "config.promaid.airRaid.smashMaxTicks": {
+    "en": "Smash Phase Max Ticks",
+    "zh": "猛击段最长（tick）",
+    "vi": "Smash Phase Max Ticks"
+  },
+  "config.promaid.airRaid.meleeReach": {
+    "en": "Ground Melee Reach",
+    "zh": "地面近战触及距离（格）",
+    "vi": "Ground Melee Reach"
+  },
+  "config.promaid.airRaid.maxPitchUp": {
+    "en": "Max Pitch Up",
+    "zh": "俯仰限幅·抬头（度）",
+    "vi": "Max Pitch Up"
+  },
+  "config.promaid.airRaid.maxPitchDown": {
+    "en": "Max Pitch Down",
+    "zh": "俯仰限幅·低头（度）",
+    "vi": "Max Pitch Down"
+  },
+  "config.promaid.airRaid.orbitRadius": {
+    "en": "Orbit Radius",
+    "zh": "盘旋半径（格）",
+    "vi": "Orbit Radius"
+  },
+  "config.promaid.airRaid.orbitMax": {
+    "en": "Max orbit distance after lock-on (blocks)",
+    "zh": "离敌最远距离（格）",
+    "vi": "Max orbit distance after lock-on (blocks)"
+  },
+  "config.promaid.airRaid.minStandoff": {
+    "en": "Min standoff distance (blocks)",
+    "zh": "离敌最近距离（格）",
+    "vi": "Min standoff distance (blocks)"
+  },
+  "config.promaid.airRaid.minAboveHeight": {
+    "en": "Min altitude above target (blocks)",
+    "zh": "离敌最低高度（格）",
+    "vi": "Min altitude above target (blocks)"
+  },
+  "config.promaid.airRaid.rangedHoldHeight": {
+    "en": "Ranged Hold Height",
+    "zh": "期望盘旋高度（目标上方格数）",
+    "vi": "Ranged Hold Height"
+  },
+  "config.promaid.airRaid.rangedHoldGain": {
+    "en": "Altitude Correction Gain",
+    "zh": "高度修正增益",
+    "vi": "Altitude Correction Gain"
+  },
+  "config.promaid.airRaid.rangedHoldBias": {
+    "en": "Altitude Correction Bias",
+    "zh": "高度修正偏置（格）",
+    "vi": "Altitude Correction Bias"
+  },
+  "config.promaid.airRaid.rangedBoostDrop": {
+    "en": "Hold Height Tolerance",
+    "zh": "掉高容差（格）",
+    "vi": "Hold Height Tolerance"
+  },
+  "config.promaid.airRaid.rangedOrbitUpMax": {
+    "en": "Orbit Max Pitch Up",
+    "zh": "盘旋抬头上限（度）",
+    "vi": "Orbit Max Pitch Up"
+  },
+  "config.promaid.airRaid.rangedOrbitDownMax": {
+    "en": "Orbit Max Pitch Down",
+    "zh": "盘旋低头上限（度）",
+    "vi": "Orbit Max Pitch Down"
+  },
+  "config.promaid.airRaid.rangedBoostInterval": {
+    "en": "Hold Boost Interval",
+    "zh": "掉高补推间隔（tick）",
+    "vi": "Hold Boost Interval"
+  },
+  "config.promaid.airRaid.rangedBoostAimTicks": {
+    "en": "Boost Aim Window",
+    "zh": "补推抬头窗口（tick）",
+    "vi": "Boost Aim Window"
+  },
+  "config.promaid.airRaid.rangedBoostPitch": {
+    "en": "Boost Pitch",
+    "zh": "补推仰角（度）",
+    "vi": "Boost Pitch"
+  },
+  "config.promaid.airRaid.rangedShotCooldown": {
+    "en": "Ranged Shot Cooldown",
+    "zh": "远程开火基础间隔（tick）",
+    "vi": "Ranged Shot Cooldown"
+  },
+  "config.promaid.airRaid.rangedAttackRange": {
+    "en": "Ranged Attack Range",
+    "zh": "远程射程（格，弓弩）",
+    "vi": "Ranged Attack Range"
+  },
+  "config.promaid.airRaid.rangedFireRange": {
+    "en": "Effective fire distance (blocks, 0 = unlimited)",
+    "zh": "有效开火距离（格，0=不限）",
+    "vi": "Effective fire distance (blocks, 0 = unlimited)"
+  },
+  "config.promaid.airRaid.rangedPushRadius": {
+    "en": "Push-Away Radius",
+    "zh": "弹开触发半径（格）",
+    "vi": "Push-Away Radius"
+  },
+  "config.promaid.airRaid.rangedPushSpeed": {
+    "en": "Push-Away Horizontal Speed",
+    "zh": "弹开水平速度",
+    "vi": "Push-Away Horizontal Speed"
+  },
+  "config.promaid.airRaid.rangedPushUp": {
+    "en": "Push-Away Upward Speed",
+    "zh": "弹开抬升速度",
+    "vi": "Push-Away Upward Speed"
+  },
+  "config.promaid.airRaid.rangedPushTicks": {
+    "en": "Push-Away Duration",
+    "zh": "弹开保持（tick）",
+    "vi": "Push-Away Duration"
+  },
+  "config.promaid.airRaid.dashBoostMinRange": {
+    "en": "Dash Boost Min Range",
+    "zh": "冲刺最小距离（格）",
+    "vi": "Dash Boost Min Range"
+  },
+  "config.promaid.airRaid.dashBoostMaxRange": {
+    "en": "Dash Boost Max Range",
+    "zh": "冲刺最大距离（格）",
+    "vi": "Dash Boost Max Range"
+  },
+  "config.promaid.airRaid.diveBoost": {
+    "en": "Dive Boost",
+    "zh": "俯冲段冲刺加速",
+    "vi": "Dive Boost"
+  },
+  "config.promaid.airRaid.diveBoostInterval": {
+    "en": "Dive Boost Interval (ticks)",
+    "zh": "俯冲段冲刺间隔（tick）",
+    "vi": "Dive Boost Interval (ticks)"
+  },
+  "config.promaid.airRaid.diveBoostMinRange": {
+    "en": "Dive Boost Min Range (blocks)",
+    "zh": "俯冲段冲刺·最近距离（格）",
+    "vi": "Dive Boost Min Range (blocks)"
+  },
+  "config.promaid.airRaid.diveBoostMaxRange": {
+    "en": "Dive Boost Max Range (blocks)",
+    "zh": "俯冲段冲刺·最远距离（格）",
+    "vi": "Dive Boost Max Range (blocks)"
+  },
+  "config.promaid.airRaid.diveBoostImpulse": {
+    "en": "Dive Boost Impulse (blocks/tick)",
+    "zh": "俯冲段冲刺·一口速度",
+    "vi": "Dive Boost Impulse (blocks/tick)"
+  },
+  "config.promaid.airRaid.diveBoostFirework": {
+    "en": "Dive Boost Uses Fireworks",
+    "zh": "俯冲段冲刺·用烟花",
+    "vi": "Dive Boost Uses Fireworks"
+  },
+  "config.promaid.airRaid.diveBoostFan": {
+    "en": "Dive Boost Uses Peacock Fan",
+    "zh": "俯冲段冲刺·用羽扇",
+    "vi": "Dive Boost Uses Peacock Fan"
+  },
+  "config.promaid.combat.aidDrinkMinPurity": {
+    "en": "Min Water Purity to Feed (0-3, 2=Acceptable)",
+    "zh": "喂水最低水质（0-3，2=可接受的）",
+    "vi": "Min Water Purity to Feed (0-3, 2=Acceptable)"
+  },
+  "config.promaid.bombing": {
+    "en": "Air Raid Bombing",
+    "zh": "空袭轰炸",
+    "vi": "Air Raid Bombing"
+  },
+  "config.promaid.bombing.melee": {
+    "en": "Combat Bombing (all attack modes except ranged air raid)",
+    "zh": "战斗模式轰炸（所有攻击模式，远程空袭除外）",
+    "vi": "Combat Bombing (all attack modes except ranged air raid)"
+  },
+  "config.promaid.bombing.tnt": {
+    "en": "Combat TNT Throw",
+    "zh": "战斗模式投掷 TNT",
+    "vi": "Combat TNT Throw"
+  },
+  "config.promaid.bombing.fuse": {
+    "en": "Detonation Delay (ticks)",
+    "zh": "起爆延迟（tick）",
+    "vi": "Detonation Delay (ticks)"
+  },
+  "config.promaid.bombing.tntFuse": {
+    "en": "Thrown TNT Fuse (ticks)",
+    "zh": "投掷 TNT 引信（tick）",
+    "vi": "Thrown TNT Fuse (ticks)"
+  },
+  "config.promaid.bombing.tntInterval": {
+    "en": "Throw Interval (ticks)",
+    "zh": "投掷间隔（tick）",
+    "vi": "Throw Interval (ticks)"
+  },
+  "config.promaid.bombing.tntSpeed": {
+    "en": "Throw Speed (blocks/tick)",
+    "zh": "投掷初速（格/tick）",
+    "vi": "Throw Speed (blocks/tick)"
+  },
+  "config.promaid.bombing.breakBlocks": {
+    "en": "Bombing Breaks Blocks",
+    "zh": "轰炸破坏方块",
+    "vi": "Bombing Breaks Blocks"
+  },
+  "config.promaid.bombing.hurtFriendly": {
+    "en": "Bombing Hurts Owner/Allies",
+    "zh": "轰炸伤到主人/友军",
+    "vi": "Bombing Hurts Owner/Allies"
+  },
+  "config.promaid.bombing.pinkMark": {
+    "en": "Pink Marker on Maid-Placed Bombs",
+    "zh": "女仆放置物的淡粉色标记",
+    "vi": "Pink Marker on Maid-Placed Bombs"
+  },
+  "config.promaid.bombing.tntRange": {
+    "en": "TNT Target Radius (blocks)",
+    "zh": "投掷索敌半径（格）",
+    "vi": "TNT Target Radius (blocks)"
+  },
+  "config.promaid.bombing.tntBurstRatio": {
+    "en": "Low-Health Burst Ratio",
+    "zh": "残血连投阈值（0-1）",
+    "vi": "Low-Health Burst Ratio"
+  },
+  "config.promaid.bombing.tntBurstCount": {
+    "en": "Low-Health Burst Count",
+    "zh": "连投最多（发）",
+    "vi": "Low-Health Burst Count"
+  },
+  "config.promaid.bombing.reclaimSeconds": {
+    "en": "Bomb Base Reclaim Delay (s)",
+    "zh": "炸弹底座回收延迟（秒）",
+    "vi": "Bomb Base Reclaim Delay (s)"
+  },
+  "config.promaid.bombing.placeGap": {
+    "en": "Place Gap (ticks)",
+    "zh": "放置间隔（tick）",
+    "vi": "Place Gap (ticks)"
+  },
+  "config.promaid.bombing.dimensionGuard": {
+    "en": "Dimension Guard (only where vanilla explodes)",
+    "zh": "维度闸（原版会炸的维度才开）",
+    "vi": "Dimension Guard (only where vanilla explodes)"
+  },
+  "config.promaid.bombing.tntTrackTicks": {
+    "en": "TNT Homing Duration (ticks)",
+    "zh": "TNT 追踪时长（tick）",
+    "vi": "TNT Homing Duration (ticks)"
+  },
+  "config.promaid.bombing.tntTrack20Migrated": {
+    "en": "Internal - TNT track ticks migration flag",
+    "zh": "内部·TNT 追踪时长迁移标记",
+    "vi": "Internal - TNT track ticks migration flag"
+  },
+  "config.promaid.bombing.bombInterval": {
+    "en": "Bombing Min Interval (ticks)",
+    "zh": "轰炸最短间隔（tick）",
+    "vi": "Bombing Min Interval (ticks)"
+  },
+  "config.promaid.bombing.anchorNeedsGlowstone": {
+    "en": "Respawn Anchor Needs Glowstone",
+    "zh": "重生锚需要萤石",
+    "vi": "Respawn Anchor Needs Glowstone"
+  },
+  "config.promaid.bombing.pose": {
+    "en": "Offhand Pose (place / charge / throw / bridge / brew ...)",
+    "zh": "副手动作表现（放置/充能/投掷/搭路/酿造…时举一下）",
+    "vi": "Offhand Pose (place / charge / throw / bridge / brew ...)"
+  },
+  "config.promaid.bombing.pinkFire": {
+    "en": "Pink Explosion Fire",
+    "zh": "爆炸火焰改粉色",
+    "vi": "Pink Explosion Fire"
+  },
+  "config.promaid.bombing.fireRender": {
+    "en": "Render Pink Fire",
+    "zh": "粉色火焰渲染",
+    "vi": "Render Pink Fire"
+  },
+  "config.promaid.bombing.fireProtect": {
+    "en": "Fire Damage Protection (players & maids)",
+    "zh": "火焰伤害保护（玩家与女仆免伤）",
+    "vi": "Fire Damage Protection (players & maids)"
+  },
+  "config.promaid.bombing.airPlace": {
+    "en": "Force Place in Air",
+    "zh": "空中强制放置",
+    "vi": "Force Place in Air"
+  },
+  "config.promaid.bombing.tntTrack": {
+    "en": "TNT Homing",
+    "zh": "TNT 追踪飞行",
+    "vi": "TNT Homing"
+  },
+  "config.promaid.compat": {
+    "en": "Third-party Compat",
+    "zh": "第三方兼容",
+    "vi": "Third-party Compat"
+  },
+  "config.promaid.compat.puppetBlacklist": {
+    "en": "Third-Party Playstyle Blacklist (Puppeteer / SlashBlade / Combat)",
+    "zh": "第三方玩法模式黑名单（傀儡师 / 拔刀剑 / 战斗）",
+    "vi": "Third-Party Playstyle Blacklist (Puppeteer / SlashBlade / Combat)"
+  },
+  "config.promaid.combat.tetherLeashSteer": {
+    "en": "Gunner Seat: Steer by Leash While Hanging (air raid only)",
+    "zh": "二号位·悬挂时用武装拴绳操控方向（仅空袭）",
+    "vi": "Gunner Seat: Steer by Leash While Hanging (air raid only)"
+  },
+  "key.promaid.free_flight_toggle": {
+    "en": "Toggle Maid Free Flight (aim at maid, unbound by default)",
+    "zh": "切换女仆的仿创造飞行（准星对准女仆，默认未绑定）",
+    "vi": "Toggle Maid Free Flight (aim at maid, unbound by default)"
+  },
+  "key.promaid.goety_toggle": {
+    "en": "Toggle Maid Flying-Focus Auto Mode (aim at maid, unbound by default)",
+    "zh": "切换女仆的飞行聚晶自动档（准星对准女仆，默认未绑定）",
+    "vi": "Toggle Maid Flying-Focus Auto Mode (aim at maid, unbound by default)"
+  },
+  "config.promaid.misc.freeFlight": {
+    "en": "Free Flight (Creative-style)",
+    "zh": "仿创造飞行",
+    "vi": "Free Flight (Creative-style)"
+  },
+  "config.promaid.misc.freeFlightItems": {
+    "en": "Free Flight: Qualifying Items",
+    "zh": "仿创造飞行·资格物品表",
+    "vi": "Free Flight: Qualifying Items"
+  },
+  "config.promaid.misc.freeFlightEffects": {
+    "en": "Free Flight: Qualifying Effects",
+    "zh": "仿创造飞行·资格效果表",
+    "vi": "Free Flight: Qualifying Effects"
+  },
+  "config.promaid.misc.freeFlightIdle": {
+    "en": "Free Flight: Smart Standby",
+    "zh": "仿创造飞行·智能待命",
+    "vi": "Free Flight: Smart Standby"
+  },
+  "config.promaid.misc.freeFlightIdleSeconds": {
+    "en": "Free Flight: Standby After Owner Still (s)",
+    "zh": "仿创造飞行·静止多久落地（秒）",
+    "vi": "Free Flight: Standby After Owner Still (s)"
+  },
+  "config.promaid.misc.freeFlightNearDist": {
+    "en": "Free Flight: Landing Near Distance (blocks)",
+    "zh": "仿创造飞行·落地贴近距离（格）",
+    "vi": "Free Flight: Landing Near Distance (blocks)"
+  },
+  "config.promaid.misc.freeFlightTravel": {
+    "en": "Free Flight: Flying Instead of Walking",
+    "zh": "仿创造飞行·走路的活也交给飞",
+    "vi": "Free Flight: Flying Instead of Walking"
+  },
+  "config.promaid.misc.freeFlightTravelDist": {
+    "en": "Free Flight: Fly Beyond Distance (blocks)",
+    "zh": "仿创造飞行·超过多远就改飞（格）",
+    "vi": "Free Flight: Fly Beyond Distance (blocks)"
+  },
+  "config.promaid.misc.glideElytraAnimation": {
+    "en": "Use Elytra Animation While Gliding",
+    "zh": "滑翔时用鞘翅动画",
+    "vi": "Use Elytra Animation While Gliding"
+  },
+  "config.promaid.misc.serverForcedConfig": {
+    "en": "Server-Authoritative Config (multiplayer)",
+    "zh": "配置以服务端为准（多人）",
+    "vi": "Server-Authoritative Config (multiplayer)"
+  },
+  "config.promaid.maneuver": {
+    "en": "Combat Maneuvers",
+    "zh": "接敌机动",
+    "vi": "Combat Maneuvers"
+  },
+  "config.promaid.maneuver.enable": {
+    "en": "Combat Maneuvers (master switch)",
+    "zh": "接敌机动·总开关",
+    "vi": "Combat Maneuvers (master switch)"
+  },
+  "config.promaid.maneuver.yoyoAmp": {
+    "en": "Maneuver: Yo-Yo Height Amplitude (blocks)",
+    "zh": "接敌机动·高悠悠幅度（格）",
+    "vi": "Maneuver: Yo-Yo Height Amplitude (blocks)"
+  },
+  "config.promaid.airSeparation": {
+    "en": "Air Raid: Anti-Stacking in the Air",
+    "zh": "空袭·空中防叠罗汉",
+    "vi": "Air Raid: Anti-Stacking in the Air"
+  },
+  "config.promaid.airSeparationRadius": {
+    "en": "Air Raid: Radius Spread (blocks)",
+    "zh": "空袭·半径偏置强度（格）",
+    "vi": "Air Raid: Radius Spread (blocks)"
+  },
+  "config.promaid.combat.heatEscape": {
+    "en": "Heat escape",
+    "zh": "烫伤脱困",
+    "vi": "Heat escape"
+  },
+  "config.promaid.combat.wingRender": {
+    "en": "Wing appearance",
+    "zh": "鞘翅外观",
+    "vi": "Wing appearance"
+  },
+  "config.promaid.combat.wingYsmYield": {
+    "en": "Wing appearance - yield to YSM",
+    "zh": "鞘翅外观·YSM 让位",
+    "vi": "Wing appearance - yield to YSM"
+  },
+  "config.promaid.ride.modMounts": {
+    "en": "Mod mount support (Superb Warfare vehicles / Ice and Fire dragons)",
+    "zh": "模组坐骑兼容（卓越前线载具 / 冰火传说龙）",
+    "vi": "Mod mount support (Superb Warfare vehicles / Ice and Fire dragons)"
+  },
+  "config.promaid.ride.modMountFire": {
+    "en": "Mod mount: fire for her",
+    "zh": "模组坐骑·代她开火",
+    "vi": "Mod mount: fire for her"
+  },
+  "config.promaid.ride.noSaddlePets": {
+    "en": "No-saddle rideable pets (Goety etc.)",
+    "zh": "无鞍可骑仆从（诡厄巫法等）",
+    "vi": "No-saddle rideable pets (Goety etc.)"
+  },
+  "config.promaid.ride.servantAuto": {
+    "en": "Mod servant mount: speed only (own AI)",
+    "zh": "模组仆从坐骑·单独区间（只赋速度）",
+    "vi": "Mod servant mount: speed only (own AI)"
+  },
+  "config.promaid.ride.servantTransfer": {
+    "en": "Mod servant mount: damage transfer to mount",
+    "zh": "模组仆从坐骑·伤害转移给坐骑",
+    "vi": "Mod servant mount: damage transfer to mount"
+  },
+  "config.promaid.ride.batonExclusive": {
+    "en": "Ride Baton - exclusive right-click",
+    "zh": "骑乘指挥棒·独占右击",
+    "vi": "Ride Baton - exclusive right-click"
+  },
+  "config.promaid.ride.airCombat": {
+    "en": "Flying vehicle: hover + orbit (Superb Warfare)",
+    "zh": "骑飞行载具·悬停与盘旋（卓越前线直升机/固定翼）",
+    "vi": "Flying vehicle: hover + orbit (Superb Warfare)"
+  },
+  "config.promaid.ride.airAlt": {
+    "en": "Hover altitude while following (blocks)",
+    "zh": "悬停高度（跟随·离地格数）",
+    "vi": "Hover altitude while following (blocks)"
+  },
+  "config.promaid.ride.fightAlt": {
+    "en": "Combat altitude above enemy (blocks)",
+    "zh": "接敌高度（比敌人高几格）",
+    "vi": "Combat altitude above enemy (blocks)"
+  },
+  "config.promaid.ride.orbitRadius": {
+    "en": "Orbit radius (blocks)",
+    "zh": "盘旋半径（格）",
+    "vi": "Orbit radius (blocks)"
+  },
+  "config.promaid.ride.ammoFeed": {
+    "en": "Vehicle: she loads ammo for you (Superb Warfare)",
+    "zh": "骑载具·替她装弹（卓越前线）",
+    "vi": "Vehicle: she loads ammo for you (Superb Warfare)"
+  },
+  "config.promaid.ride.bombStandoff": {
+    "en": "Bomb standoff altitude (blocks above target)",
+    "zh": "投弹安全高度（比目标高几格）",
+    "vi": "Bomb standoff altitude (blocks above target)"
+  },
+  "config.promaid.ride.fixedWingAltBonus": {
+    "en": "Glide orbit extra altitude (blocks)",
+    "zh": "滑翔类盘旋加高（格）",
+    "vi": "Glide orbit extra altitude (blocks)"
+  },
+  "config.promaid.ride.fixedWingAlt60Migrated": {
+    "en": "Internal: glide orbit-altitude migration flag",
+    "zh": "内部·滑翔类盘旋加高迁移标记",
+    "vi": "Internal: glide orbit-altitude migration flag"
+  },
+  "config.promaid.ride.realisticLanding": {
+    "en": "Realistic landing (fixed-wing)",
+    "zh": "拟真降落（固定翼）",
+    "vi": "Realistic landing (fixed-wing)"
+  },
+  "config.promaid.ride.batonMark": {
+    "en": "Ride baton glow (golden outline)",
+    "zh": "骑乘指挥棒·光标（金色描边）",
+    "vi": "Ride baton glow (golden outline)"
+  },
+  "config.promaid.ride.airAltMigrated": {
+    "en": "Internal - hover altitude migration flag",
+    "zh": "内部·悬停高度迁移标记",
+    "vi": "Internal - hover altitude migration flag"
+  },
+  "config.promaid.ride.orbitRadiusMigrated": {
+    "en": "Internal - orbit radius migration flag",
+    "zh": "内部·盘旋半径迁移标记",
+    "vi": "Internal - orbit radius migration flag"
+  },
+  "config.promaid.misc.dangerCampfireMigrated": {
+    "en": "Internal - danger-list campfire migration flag",
+    "zh": "内部·危险表营火迁移标记",
+    "vi": "Internal - danger-list campfire migration flag"
+  },
+  "config.promaid.mine.breakBudget": {
+    "en": "Break-through budget",
+    "zh": "穿透预算",
+    "vi": "Break-through budget"
+  },
+  "config.promaid.mine.chainFullDurability": {
+    "en": "Chain mining: cost durability per block",
+    "zh": "连锁每块耗耐久",
+    "vi": "Chain mining: cost durability per block"
+  },
+  "config.promaid.mine.chainMining": {
+    "en": "Chain mining",
+    "zh": "连锁采集",
+    "vi": "Chain mining"
+  },
+  "config.promaid.mine.chainLimit": {
+    "en": "Chain mining limit (blocks)",
+    "zh": "连锁采集上限（块）",
+    "vi": "Chain mining limit (blocks)"
+  },
+  "config.promaid.mine.downRange": {
+    "en": "Vertical range (down)",
+    "zh": "垂直向下范围",
+    "vi": "Vertical range (down)"
+  },
+  "config.promaid.mine.hardBlockReport": {
+    "en": "Discard report on hard-blocked target",
+    "zh": "硬挡路报点弃置",
+    "vi": "Discard report on hard-blocked target"
+  },
+  "config.promaid.mine.requirePick": {
+    "en": "Require a pickaxe to start",
+    "zh": "没镐不启动",
+    "vi": "Require a pickaxe to start"
+  },
+  "config.promaid.mine.junkKeep": {
+    "en": "Junk stone kept",
+    "zh": "废石保留量",
+    "vi": "Junk stone kept"
+  },
+  "config.promaid.mine.moveSpeed": {
+    "en": "Approach speed",
+    "zh": "接近矿速度",
+    "vi": "Approach speed"
+  },
+  "config.promaid.mine.oreValues": {
+    "en": "Diggable block table",
+    "zh": "可挖掘方块表",
+    "vi": "Diggable block table"
+  },
+  "config.promaid.mine.tableTaglinesMigrated": {
+    "en": "Internal: ore/wood tag-line migration flag",
+    "zh": "内部·矿表/木材表标签行迁移标记",
+    "vi": "Internal: ore/wood tag-line migration flag"
+  },
+  "config.promaid.mine.pillarGuard": {
+    "en": "Pillar guard (anti-fall)",
+    "zh": "搭方块防掉落",
+    "vi": "Pillar guard (anti-fall)"
+  },
+  "config.promaid.mine.placedLifetime": {
+    "en": "Placed block lifetime (seconds)",
+    "zh": "搭方块清理时间（秒）",
+    "vi": "Placed block lifetime (seconds)"
+  },
+  "config.promaid.mine.searchRadius": {
+    "en": "Ore search radius",
+    "zh": "矿物检索半径",
+    "vi": "Ore search radius"
+  },
+  "config.promaid.mine.softNoDurability": {
+    "en": "Soft blocks cost no durability",
+    "zh": "软方块不耗耐久",
+    "vi": "Soft blocks cost no durability"
+  },
+  "config.promaid.mine.speedFactor": {
+    "en": "Mining speed factor",
+    "zh": "挖矿速度系数",
+    "vi": "Mining speed factor"
+  },
+  "config.promaid.mine.upRange": {
+    "en": "Vertical range (up)",
+    "zh": "垂直向上范围",
+    "vi": "Vertical range (up)"
+  },
+  "config.promaid.misc.bdStorage": {
+    "en": "BeyondDimensions storage integration",
+    "zh": "超越维度存储联动",
+    "vi": "BeyondDimensions storage integration"
+  },
+  "config.promaid.misc.maidTeleportRebuild": {
+    "en": "Rebuild client entity after teleport (fixes invisible maid after long-distance teleport)",
+    "zh": "传送后客户端重建（远距离传送后看不见女仆的修复）",
+    "vi": "Rebuild client entity after teleport (fixes invisible maid after long-distance teleport)"
+  },
+  "item.maid_smart.schedule_book": {
+    "en": "Schedule",
+    "zh": "排班表",
+    "vi": "Schedule"
+  },
+  "item.maid_smart.brew_manual": {
+    "en": "Maid Potion Manual",
+    "zh": "女仆药剂手册",
+    "vi": "Maid Potion Manual"
+  },
+  "config.promaid.title": {
+    "en": "Promaid Mod Detailed Configuration",
+    "zh": "Promaid 模组详细配置",
+    "vi": "Promaid Mod Detailed Configuration"
+  },
+  "config.promaid.build": {
+    "en": "Build Settings",
+    "zh": "建造设置",
+    "vi": "Build Settings"
+  },
+  "config.promaid.build.speedTier": {
+    "en": "Default Build Speed Tier",
+    "zh": "建造速度默认档位",
+    "vi": "Default Build Speed Tier"
+  },
+  "config.promaid.build.turbo": {
+    "en": "Turbo mode",
+    "zh": "极速模式",
+    "vi": "Turbo mode"
+  },
+  "config.promaid.build.globalQuota": {
+    "en": "Global Placement Quota",
+    "zh": "全局放置配额",
+    "vi": "Global Placement Quota"
+  },
+  "config.promaid.build.maxForceChunks": {
+    "en": "Forced Chunk Load Limit",
+    "zh": "强制加载区块上限",
+    "vi": "Forced Chunk Load Limit"
+  },
+  "config.promaid.build.maxBlocks": {
+    "en": "LLM Blueprint Max Blocks",
+    "zh": "LLM 蓝图最大方块",
+    "vi": "LLM Blueprint Max Blocks"
+  },
+  "config.promaid.build.maxRange": {
+    "en": "LLM blueprint planar range",
+    "zh": "LLM 蓝图平面范围",
+    "vi": "LLM blueprint planar range"
+  },
+  "config.promaid.build.maxHeight": {
+    "en": "LLM blueprint height",
+    "zh": "LLM 蓝图高度",
+    "vi": "LLM blueprint height"
+  },
+  "config.promaid.build.designMaxBlocks": {
+    "en": "AI design blueprint limit",
+    "zh": "AI 设计蓝图上限",
+    "vi": "AI design blueprint limit"
+  },
+  "config.promaid.build.structureMaxBlocks": {
+    "en": "Structure Blueprint Block Limit",
+    "zh": "结构蓝图方块上限",
+    "vi": "Structure Blueprint Block Limit"
+  },
+  "config.promaid.build.maxMaids": {
+    "en": "Maid management limit",
+    "zh": "女仆管理上限",
+    "vi": "Maid management limit"
+  },
+  "config.promaid.build.originPlayer": {
+    "en": "Build site = under the player's feet",
+    "zh": "建造地点=玩家脚下",
+    "vi": "Build site = under the player's feet"
+  },
+  "config.promaid.mine": {
+    "en": "Mining settings",
+    "zh": "挖矿设置",
+    "vi": "Mining settings"
+  },
+  "config.promaid.wood": {
+    "en": "Logging settings",
+    "zh": "伐木设置",
+    "vi": "Logging settings"
+  },
+  "config.promaid.wood.values": {
+    "en": "Wood Table",
+    "zh": "木材表",
+    "vi": "Wood Table"
+  },
+  "config.promaid.wood.searchRadius": {
+    "en": "Wood Search Radius",
+    "zh": "木材检索半径",
+    "vi": "Wood Search Radius"
+  },
+  "config.promaid.wood.downRange": {
+    "en": "Vertical Down Range",
+    "zh": "垂直向下范围",
+    "vi": "Vertical Down Range"
+  },
+  "config.promaid.wood.upRange": {
+    "en": "Vertical Up Range",
+    "zh": "垂直向上范围",
+    "vi": "Vertical Up Range"
+  },
+  "config.promaid.wood.breakBudget": {
+    "en": "Penetration Budget",
+    "zh": "穿透预算",
+    "vi": "Penetration Budget"
+  },
+  "config.promaid.wood.speedFactor": {
+    "en": "Logging speed multiplier",
+    "zh": "砍伐速度系数",
+    "vi": "Logging speed multiplier"
+  },
+  "config.promaid.wood.moveSpeed": {
+    "en": "Approaching wood speed",
+    "zh": "接近木材速度",
+    "vi": "Approaching wood speed"
+  },
+  "config.promaid.wood.junkKeep": {
+    "en": "Junk Stone Retention",
+    "zh": "废石保留量",
+    "vi": "Junk Stone Retention"
+  },
+  "config.promaid.wood.placedLifetime": {
+    "en": "Block placement cleanup time (seconds)",
+    "zh": "搭方块清理时间（秒）",
+    "vi": "Block placement cleanup time (seconds)"
+  },
+  "config.promaid.wood.softNoDurability": {
+    "en": "Soft Blocks No Durability",
+    "zh": "软方块不耗耐久",
+    "vi": "Soft Blocks No Durability"
+  },
+  "config.promaid.wood.pillarGuard": {
+    "en": "Placed Block Fall Protection",
+    "zh": "搭方块防掉落",
+    "vi": "Placed Block Fall Protection"
+  },
+  "config.promaid.wood.hardBlockReport": {
+    "en": "**Discard Waypoint When Hard-Blocked**",
+    "zh": "硬挡路报点弃置",
+    "vi": "**Discard Waypoint When Hard-Blocked**"
+  },
+  "config.promaid.wood.seekThroughWalls": {
+    "en": "X-Ray Perception (Finding Wood Through Walls)",
+    "zh": "透视感知（隔墙找木材）",
+    "vi": "X-Ray Perception (Finding Wood Through Walls)"
+  },
+  "config.promaid.wood.anchorTimeout": {
+    "en": "Anchor Out-of-Bounds Timeout (tick)",
+    "zh": "锚点出框超时（tick）",
+    "vi": "Anchor Out-of-Bounds Timeout (tick)"
+  },
+  "config.promaid.wood.relocateThrottle": {
+    "en": "Relocation throttle (tick)",
+    "zh": "重定位节流（tick）",
+    "vi": "Relocation throttle (tick)"
+  },
+  "config.promaid.wood.reach": {
+    "en": "Chopping Distance (blocks)",
+    "zh": "砍伐距离（格）",
+    "vi": "Chopping Distance (blocks)"
+  },
+  "config.promaid.wood.pillarCooldown": {
+    "en": "Block placing cooldown (tick)",
+    "zh": "搭方块冷却（tick）",
+    "vi": "Block placing cooldown (tick)"
+  },
+  "config.promaid.wood.junkCheckInterval": {
+    "en": "Junk stone cleanup interval (tick)",
+    "zh": "废石清理间隔（tick）",
+    "vi": "Junk stone cleanup interval (tick)"
+  },
+  "config.promaid.wood.skipReportInterval": {
+    "en": "Announcement rate limit (tick)",
+    "zh": "播报限频（tick）",
+    "vi": "Announcement rate limit (tick)"
+  },
+  "config.promaid.wood.chainMining": {
+    "en": "Chain Lumber",
+    "zh": "连锁砍伐",
+    "vi": "Chain Lumber"
+  },
+  "config.promaid.wood.autoCollect": {
+    "en": "**Auto Collect**",
+    "zh": "自动收集",
+    "vi": "**Auto Collect**"
+  },
+  "config.promaid.wood.chainLimit": {
+    "en": "Chain felling limit (blocks)",
+    "zh": "连锁砍伐上限（块）",
+    "vi": "Chain felling limit (blocks)"
+  },
+  "config.promaid.combat.autoSwitch": {
+    "en": "Actively switch combat mode",
+    "zh": "主动切换战斗模式",
+    "vi": "Actively switch combat mode"
+  },
+  "config.promaid.combat.flightMode": {
+    "en": "Air Raid · Master Switch (Flight Combat)",
+    "zh": "空袭·总开关（飞行作战）",
+    "vi": "Air Raid · Master Switch (Flight Combat)"
+  },
+  "config.promaid.combat.autoSwitchRadius": {
+    "en": "Response radius (blocks)",
+    "zh": "响应半径（格）",
+    "vi": "Response radius (blocks)"
+  },
+  "config.promaid.combat.autoSwitchModWeight": {
+    "en": "Mod Weapon Weight",
+    "zh": "模组武器权重",
+    "vi": "Mod Weapon Weight"
+  },
+  "config.promaid.combat.autoSwitchVanillaWeight": {
+    "en": "Vanilla weapon weight",
+    "zh": "原版武器权重",
+    "vi": "Vanilla weapon weight"
+  },
+  "config.promaid.combat.autoSwitchGunPrefer": {
+    "en": "Firearm Priority",
+    "zh": "枪械优先",
+    "vi": "Firearm Priority"
+  },
+  "config.promaid.combat.autoSwitchRestore": {
+    "en": "Auto-restore after combat",
+    "zh": "战斗结束自动还原",
+    "vi": "Auto-restore after combat"
+  },
+  "config.promaid.combat.autoSwitchRestoreDelay": {
+    "en": "Restore delay (ticks)",
+    "zh": "还原延迟（tick）",
+    "vi": "Restore delay (ticks)"
+  },
+  "config.promaid.combat.forceAllSchedule": {
+    "en": "Switch schedule to ALL during combat",
+    "zh": "参战时临时把作息切「全天」",
+    "vi": "Switch schedule to ALL during combat"
+  },
+  "config.promaid.combat.sweepAlways": {
+    "en": "Sweep Attack on Every Melee Hit",
+    "zh": "平A必横扫",
+    "vi": "Sweep Attack on Every Melee Hit"
+  },
+  "config.promaid.combat.attackThoseAttackingUs": {
+    "en": "Fight Back Against Unclassifiable Attackers",
+    "zh": "反击类型判不出的攻击者",
+    "vi": "Fight Back Against Unclassifiable Attackers"
+  },
+  "config.promaid.bridge": {
+    "en": "Bridge Building Settings",
+    "zh": "搭路设置",
+    "vi": "Bridge Building Settings"
+  },
+  "config.promaid.bridge.enabled": {
+    "en": "Bridging",
+    "zh": "搭路",
+    "vi": "Bridging"
+  },
+  "config.promaid.bridge.maxDist": {
+    "en": "Bridging trigger distance (blocks)",
+    "zh": "搭路触发距离（格）",
+    "vi": "Bridging trigger distance (blocks)"
+  },
+  "config.promaid.bridge.airMaxDist": {
+    "en": "Aerial bridging distance (blocks)",
+    "zh": "空中搭桥距离（格）",
+    "vi": "Aerial bridging distance (blocks)"
+  },
+  "config.promaid.wood.leavesClear": {
+    "en": "Canopy clearing",
+    "zh": "树冠清理",
+    "vi": "Canopy clearing"
+  },
+  "config.promaid.bridge.minDy": {
+    "en": "Minimum height difference (blocks)",
+    "zh": "最小高差（格）",
+    "vi": "Minimum height difference (blocks)"
+  },
+  "config.promaid.bridge.threatDist": {
+    "en": "Threat Radius (blocks)",
+    "zh": "威胁半径（格）",
+    "vi": "Threat Radius (blocks)"
+  },
+  "config.promaid.bridge.stepCooldown": {
+    "en": "Bridge Pace (ticks/block)",
+    "zh": "搭路节奏（tick/块）",
+    "vi": "Bridge Pace (ticks/block)"
+  },
+  "config.promaid.bridge.placedLifetime": {
+    "en": "Bridge Block Cleanup (seconds)",
+    "zh": "搭路方块清理（秒）",
+    "vi": "Bridge Block Cleanup (seconds)"
+  },
+  "config.promaid.bridge.reclaimToMaid": {
+    "en": "Recover scaffold blocks into inventory",
+    "zh": "垫脚方块回收进背包",
+    "vi": "Recover scaffold blocks into inventory"
+  },
+  "config.promaid.flightFollow": {
+    "en": "Flight Follow Settings",
+    "zh": "飞行跟随设置",
+    "vi": "Flight Follow Settings"
+  },
+  "config.promaid.flightFollow.enabled": {
+    "en": "Flight follow (elytra chase owner)",
+    "zh": "飞行跟随（鞘翅追主人）",
+    "vi": "Flight follow (elytra chase owner)"
+  },
+  "config.promaid.flightFollow.dist": {
+    "en": "Start distance (blocks)",
+    "zh": "起手距离（格）",
+    "vi": "Start distance (blocks)"
+  },
+  "config.promaid.flightFollow.endDist": {
+    "en": "Stop distance (blocks)",
+    "zh": "收手距离（格）",
+    "vi": "Stop distance (blocks)"
+  },
+  "config.promaid.flightFollow.firework": {
+    "en": "Flight Follow · Consume Firework",
+    "zh": "飞行跟随·消耗烟花",
+    "vi": "Flight Follow · Consume Firework"
+  },
+  "config.promaid.flightFollow.elytra": {
+    "en": "Flight Follow · Consume Elytra Durability",
+    "zh": "飞行跟随·消耗鞘翅耐久",
+    "vi": "Flight Follow · Consume Elytra Durability"
+  },
+  "config.promaid.combat.placedLifetime": {
+    "en": "Combat Block Cleanup (seconds)",
+    "zh": "战斗搭方块清理（秒）",
+    "vi": "Combat Block Cleanup (seconds)"
+  },
+  "config.promaid.combat.snipe": {
+    "en": "High Ground Sniping (on by default): ranged attack state (manual/auto-assign both OK) + has building blocks + enemy closes in — enters elevated state: holds position (move speed ×0), instantly raises 5 blocks and attacks from a fixed spot; only affects movement, not attack; if auto-assigned and has a melee weapon, switches to melee first; teleport disabled during this; cancels when no enemies within radius 8 or self-preservation triggers; auto re-pads if the tower is blown down",
+    "zh": "高地狙击（默认开）：远程攻击状态（手动/自动指派均可）+ 有搭方块 + 敌人近身时——进入垫高状态：原地定住（移速×0）立刻垫高 5 格站桩输出，只影响移动不影响攻击；自动指派且有近战武器优先切近战；期间禁传送；半径 8 无敌人或进入自保解除；塔被炸低自动补垫",
+    "vi": "High Ground Sniping (on by default): ranged attack state (manual/auto-assign both OK) + has building blocks + enemy closes in — enters elevated state: holds position (move speed ×0), instantly raises 5 blocks and attacks from a fixed spot; only affects movement, not attack; if auto-assigned and has a melee weapon, switches to melee first; teleport disabled during this; cancels when no enemies within radius 8 or self-preservation triggers; auto re-pads if the tower is blown down"
+  },
+  "config.promaid.combat.snipeHeight": {
+    "en": "Sniper tower height (blocks, default 5): after triggering, stays put and pillars all the way to the top (won't give up while building); if the tower is blown lower / trampled down, auto re-pillars back to target height.",
+    "zh": "狙击塔高度（格，默认 5）：触发后原地定住一路垫到顶（建塔期不放弃）；塔被炸低/踩塌自动补垫回目标高度",
+    "vi": "Sniper tower height (blocks, default 5): after triggering, stays put and pillars all the way to the top (won't give up while building); if the tower is blown lower / trampled down, auto re-pillars back to target height."
+  },
+  "config.promaid.memory": {
+    "en": "AI Memory Settings",
+    "zh": "AI 记忆设置",
+    "vi": "AI Memory Settings"
+  },
+  "config.promaid.memory.enable": {
+    "en": "AI Memory Global Toggle",
+    "zh": "AI 记忆全局开关",
+    "vi": "AI Memory Global Toggle"
+  },
+  "config.promaid.memory.extractThreshold": {
+    "en": "Extraction Threshold (entries)",
+    "zh": "提取阈值（条）",
+    "vi": "Extraction Threshold (entries)"
+  },
+  "config.promaid.memory.maxEntries": {
+    "en": "Entry Limit",
+    "zh": "条目上限",
+    "vi": "Entry Limit"
+  },
+  "config.promaid.memory.promptTopN": {
+    "en": "Injection Count",
+    "zh": "注入条数",
+    "vi": "Injection Count"
+  },
+  "config.promaid.memory.maxMessageChars": {
+    "en": "Message truncation (chars)",
+    "zh": "消息截断（字）",
+    "vi": "Message truncation (chars)"
+  },
+  "config.promaid.memory.relationInject": {
+    "en": "Relationship injection",
+    "zh": "关系注入",
+    "vi": "Relationship injection"
+  },
+  "config.promaid.memory.conflictOverride": {
+    "en": "Conflict override",
+    "zh": "冲突覆盖",
+    "vi": "Conflict override"
+  },
+  "config.promaid.memory.coreFold": {
+    "en": "Summary folding",
+    "zh": "摘要折叠",
+    "vi": "Summary folding"
+  },
+  "config.promaid.memory.workingNote": {
+    "en": "Work notes injection",
+    "zh": "工作笔记注入",
+    "vi": "Work notes injection"
+  },
+  "config.promaid.memory.indexEnable": {
+    "en": "Multi-level memory index (daily/3-day/weekly/monthly diary)",
+    "zh": "多级记忆索引（日/3日/周/月日记）",
+    "vi": "Multi-level memory index (daily/3-day/weekly/monthly diary)"
+  },
+  "config.promaid.memory.indexOnSleep": {
+    "en": "Sleep to auto-process memories",
+    "zh": "睡一觉自动处理记忆",
+    "vi": "Sleep to auto-process memories"
+  },
+  "config.promaid.memory.indexOnLogout": {
+    "en": "Logout Session Wrap-up & Archive",
+    "zh": "登出会话收尾归档",
+    "vi": "Logout Session Wrap-up & Archive"
+  },
+  "config.promaid.memory.indexMonthTopN": {
+    "en": "Month index max events kept",
+    "zh": "月索引保留事件数",
+    "vi": "Month index max events kept"
+  },
+  "config.promaid.memory.indexMaxEvents": {
+    "en": "Max events per index",
+    "zh": "单次索引事件上限",
+    "vi": "Max events per index"
+  },
+  "config.promaid.memory.shortTermDays": {
+    "en": "Short-term → Long-term Transfer Threshold (game days)",
+    "zh": "短期→长期转移阈值（游戏日）",
+    "vi": "Short-term → Long-term Transfer Threshold (game days)"
+  },
+  "config.promaid.perception": {
+    "en": "Perception Settings",
+    "zh": "感知设置",
+    "vi": "Perception Settings"
+  },
+  "config.promaid.perception.enable": {
+    "en": "Perception Master Switch",
+    "zh": "感知总开关",
+    "vi": "Perception Master Switch"
+  },
+  "config.promaid.perception.hostile": {
+    "en": "Hostile Detection",
+    "zh": "敌对检测",
+    "vi": "Hostile Detection"
+  },
+  "config.promaid.perception.owner": {
+    "en": "Master Detection",
+    "zh": "主人检测",
+    "vi": "Master Detection"
+  },
+  "config.promaid.perception.weather": {
+    "en": "Weather Detection",
+    "zh": "天气检测",
+    "vi": "Weather Detection"
+  },
+  "config.promaid.perception.lookCooldown": {
+    "en": "Gaze-report interval (seconds, per maid)",
+    "zh": "注视播报间隔（秒，每只女仆各自计时）",
+    "vi": "Gaze-report interval (seconds, per maid)"
+  },
+  "config.promaid.affect": {
+    "en": "Emotion Settings",
+    "zh": "情绪设置",
+    "vi": "Emotion Settings"
+  },
+  "config.promaid.affect.enable": {
+    "en": "Emotion Master Switch",
+    "zh": "情绪总开关",
+    "vi": "Emotion Master Switch"
+  },
+  "config.promaid.affect.inject": {
+    "en": "Inject Dialogue",
+    "zh": "注入对话",
+    "vi": "Inject Dialogue"
+  },
+  "config.promaid.aitools": {
+    "en": "AI Tool Settings",
+    "zh": "AI 工具设置",
+    "vi": "AI Tool Settings"
+  },
+  "config.promaid.aitools.remember": {
+    "en": "remember Tool",
+    "zh": "remember 工具",
+    "vi": "remember Tool"
+  },
+  "config.promaid.aitools.workingNote": {
+    "en": "working_note Tools",
+    "zh": "working_note 工具",
+    "vi": "working_note Tools"
+  },
+  "config.promaid.dialogue": {
+    "en": "Dialogue and Prompt Settings",
+    "zh": "对话与提示设置",
+    "vi": "Dialogue and Prompt Settings"
+  },
+  "config.promaid.dialogue.statusReporter": {
+    "en": "Work status broadcast",
+    "zh": "工作状态播报",
+    "vi": "Work status broadcast"
+  },
+  "config.promaid.dialogue.reportInterval": {
+    "en": "Broadcast interval (seconds)",
+    "zh": "播报间隔（秒）",
+    "vi": "Broadcast interval (seconds)"
+  },
+  "config.promaid.dialogue.reportRadius": {
+    "en": "Broadcast Range",
+    "zh": "播报范围",
+    "vi": "Broadcast Range"
+  },
+  "config.promaid.dialogue.proactive": {
+    "en": "Proactive Chat",
+    "zh": "主动对话",
+    "vi": "Proactive Chat"
+  },
+  "config.promaid.dialogue.proactiveCooldown": {
+    "en": "Speech Cooldown (minutes)",
+    "zh": "发言冷却（分钟）",
+    "vi": "Speech Cooldown (minutes)"
+  },
+  "config.promaid.dialogue.proactiveDaily": {
+    "en": "Proactive dialogue daily limit",
+    "zh": "主动对话日上限",
+    "vi": "Proactive dialogue daily limit"
+  },
+  "config.promaid.dialogue.silenceThreshold": {
+    "en": "Silence Threshold (minutes)",
+    "zh": "沉默阈值（分钟）",
+    "vi": "Silence Threshold (minutes)"
+  },
+  "config.promaid.dialogue.autonomous": {
+    "en": "Autonomous Decisions",
+    "zh": "自主决策",
+    "vi": "Autonomous Decisions"
+  },
+  "config.promaid.dialogue.autonomousCooldown": {
+    "en": "Decision Cooldown (minutes)",
+    "zh": "决策冷却（分钟）",
+    "vi": "Decision Cooldown (minutes)"
+  },
+  "config.promaid.dialogue.autonomousDaily": {
+    "en": "Daily Autonomous Decision Limit",
+    "zh": "自主决策日上限",
+    "vi": "Daily Autonomous Decision Limit"
+  },
+  "config.promaid.dialogue.apiDailyLimit": {
+    "en": "API daily quota",
+    "zh": "API 日配额",
+    "vi": "API daily quota"
+  },
+  "config.promaid.combat": {
+    "en": "Combat & Self-Preservation Settings",
+    "zh": "战斗与自保设置",
+    "vi": "Combat & Self-Preservation Settings"
+  },
+  "config.promaid.combat.selfPreserve": {
+    "en": "Self-preservation",
+    "zh": "自保行为",
+    "vi": "Self-preservation"
+  },
+  "config.promaid.combat.enterRatio": {
+    "en": "Self-Preservation Trigger HP",
+    "zh": "自保触发血量",
+    "vi": "Self-Preservation Trigger HP"
+  },
+  "config.promaid.combat.exitRatio": {
+    "en": "Self-Preservation Absolute Cancel HP",
+    "zh": "自保绝对解除血量",
+    "vi": "Self-Preservation Absolute Cancel HP"
+  },
+  "config.promaid.combat.safeReturnRatio": {
+    "en": "Self-preservation release health (default 0.7)",
+    "zh": "自保解除血量（默认 0.7）",
+    "vi": "Self-preservation release health (default 0.7)"
+  },
+  "config.promaid.combat.teleportCooldown": {
+    "en": "Teleport Success Cooldown (can only pick up once per match)",
+    "zh": "传送成功冷却（一场最多接走一次）",
+    "vi": "Teleport Success Cooldown (can only pick up once per match)"
+  },
+  "config.promaid.combat.threatDistance": {
+    "en": "Threat distance",
+    "zh": "威胁距离",
+    "vi": "Threat distance"
+  },
+  "config.promaid.combat.waterClutch": {
+    "en": "MLG Water",
+    "zh": "落地水",
+    "vi": "MLG Water"
+  },
+  "config.promaid.combat.waterFallDistance": {
+    "en": "Landing Water Trigger Height",
+    "zh": "落地水触发高度",
+    "vi": "Landing Water Trigger Height"
+  },
+  "config.promaid.combat.snowClutch": {
+    "en": "Landing Snow",
+    "zh": "落地雪",
+    "vi": "Landing Snow"
+  },
+  "config.promaid.combat.snowFallDistance": {
+    "en": "Landing Snow Trigger Height",
+    "zh": "落地雪触发高度",
+    "vi": "Landing Snow Trigger Height"
+  },
+  "config.promaid.combat.snowHold": {
+    "en": "Landing Snow Duration (tick)",
+    "zh": "落地雪保持（tick）",
+    "vi": "Landing Snow Duration (tick)"
+  },
+  "config.promaid.combat.snowLandingScan": {
+    "en": "Landing Snow Downward Probe (blocks)",
+    "zh": "落地雪下探格数",
+    "vi": "Landing Snow Downward Probe (blocks)"
+  },
+  "config.promaid.combat.buildAreaAvoid": {
+    "en": "Construction Zone - Keep Clear",
+    "zh": "施工区避让",
+    "vi": "Construction Zone - Keep Clear"
+  },
+  "config.promaid.combat.masterDeathTeleport": {
+    "en": "Owner death teleport",
+    "zh": "主人死亡传送",
+    "vi": "Owner death teleport"
+  },
+  "config.promaid.misc": {
+    "en": "Miscellaneous Settings",
+    "zh": "杂项设置",
+    "vi": "Miscellaneous Settings"
+  },
+  "config.promaid.misc.cookRadius": {
+    "en": "Smelting Search Range",
+    "zh": "烧制搜索范围",
+    "vi": "Smelting Search Range"
+  },
+  "config.promaid.misc.brewRadius": {
+    "en": "Brewing search range",
+    "zh": "酿造搜索范围",
+    "vi": "Brewing search range"
+  },
+  "config.promaid.misc.processCooldown": {
+    "en": "Processing Interval (tick)",
+    "zh": "处理间隔（tick）",
+    "vi": "Processing Interval (tick)"
+  },
+  "config.promaid.misc.bubbleLimitMs": {
+    "en": "Bubble Rate Limit (ms)",
+    "zh": "气泡限频（毫秒）",
+    "vi": "Bubble Rate Limit (ms)"
+  },
+  "config.promaid.misc.pickupPriority": {
+    "en": "Disable pickup while mining",
+    "zh": "挖矿中禁止拾取",
+    "vi": "Disable pickup while mining"
+  },
+  "config.promaid.combat.autoSwitchAllowModTasks": {
+    "en": "Mod Task Auto-Switch (Default On): mod attack tasks only engage when the maid holds non-vanilla items; Off = autonomous combat uses vanilla tasks only",
+    "zh": "模组任务参与自主切换（默认开）：模组攻击任务在女仆持有非原版物品时才参与；关 = 自主战斗只用原版任务",
+    "vi": "Mod Task Auto-Switch (Default On): mod attack tasks only engage when the maid holds non-vanilla items; Off = autonomous combat uses vanilla tasks only"
+  },
+  "config.promaid.combat.taskModes": {
+    "en": "Combat Mode Category Table (one per line: TaskUID=Melee/Ranged/None; blank = all follow built-in rules)",
+    "zh": "战斗模式分类表（一行一条 任务UID=近战/远程/不参与；留空 = 全部按内置规则参与）",
+    "vi": "Combat Mode Category Table (one per line: TaskUID=Melee/Ranged/None; blank = all follow built-in rules)"
+  },
+  "config.promaid.combat.vanillaYieldToMod": {
+    "en": "Mod Task Priority Yield (Default On): when mod-exclusive tasks are in the pool, the vanilla generic five-piece set yields entirely; Off = purely weighted random",
+    "zh": "模组任务优先让位（默认开）：池里有模组专属任务时原版通用五件套整体让位；关 = 纯按权重随机",
+    "vi": "Mod Task Priority Yield (Default On): when mod-exclusive tasks are in the pool, the vanilla generic five-piece set yields entirely; Off = purely weighted random"
+  },
+  "config.promaid.combat.spellGearIgnore": {
+    "en": "Spell Equipment Ignore List (default: slashblade, youkaishomecoming): The \"spell equipment\" recognized by these two providers is itself a weapon (SlashBlade / danmaku, laser, spell card), so it no longer counts as her using spells; leave blank = legacy behavior",
+    "zh": "法术装备忽略表（默认 slashblade, youkaishomecoming）：这两个 provider 认的「法术装备」本身就是武器（拔刀剑 / 弹幕·激光·符卡），不再算她会用法术；留空 = 旧口径",
+    "vi": "Spell Equipment Ignore List (default: slashblade, youkaishomecoming): The \"spell equipment\" recognized by these two providers is itself a weapon (SlashBlade / danmaku, laser, spell card), so it no longer counts as her using spells; leave blank = legacy behavior"
+  },
+  "config.promaid.airRaid.diveBoostFireworkScale": {
+    "en": "Dive Dash · Firework Power Multiplier",
+    "zh": "俯冲段冲刺·烟花力度倍数",
+    "vi": "Dive Dash · Firework Power Multiplier"
+  },
+  "config.promaid.build.noForceHome": {
+    "en": "No forced home in build mode",
+    "zh": "建造不强制 home",
+    "vi": "No forced home in build mode"
+  },
+  "config.promaid.build.noForceHome.tooltip": {
+    "en": "No forced home in build mode (default on): during building / marker-stone temporary construction she is no longer switched into home (garrison) mode. Instead the mod blocks every NON-player-willed auto-teleport at its source (TLM follow teleport / same-dimension long-range pullback / cross-dimension auto-follow / owner-death recall / self-preservation return), so she stays on the site. Manual summon, schedule 'teleport to me', stuck-rescue and the build's own teleport still work. Off = revert to old behavior (build forces home and swallows all auto-teleports).",
+    "zh": "建造不强制 home（默认开）：建造/指标石临时搭建期间不再把她切成守家（home）模式，改为在源头拦下各处【非玩家意愿】的自动传送（TLM 跟随瞬移 / 同维远距拉回 / 跨维自动跟随 / 主人死亡归位 / 自保归位），她安心留在工地。一键集合、排班表「传送到我身边」、受困救援、建造自己的瞬移照常可用。关 = 回退旧行为（建造强制 home，自动传送照吃）",
+    "vi": "No forced home in build mode (default on): during building / marker-stone temporary construction she is no longer switched into home (garrison) mode. Instead the mod blocks every NON-player-willed auto-teleport at its source (TLM follow teleport / same-dimension long-range pullback / cross-dimension auto-follow / owner-death recall / self-preservation return), so she stays on the site. Manual summon, schedule 'teleport to me', stuck-rescue and the build's own teleport still work. Off = revert to old behavior (build forces home and swallows all auto-teleports)."
+  },
+  "item.maid_smart.da_yun": {
+    "en": "Dayun (Accessory)",
+    "zh": "饰品「大运」",
+    "vi": "Dayun (Accessory)"
+  },
+  "item.maid_smart.da_yun.desc1": {
+    "en": "§7While gliding with an §felytra§7 it instantly destroys blocks within §f5×5×5§7 around you",
+    "zh": "§7佩戴后 §f使用鞘翅飞行§7 的途中，直接击毁自身周边 §f5×5×5§7 内的方块",
+    "vi": "§7While gliding with an §felytra§7 it instantly destroys blocks within §f5×5×5§7 around you"
+  },
+  "item.maid_smart.da_yun.desc2": {
+    "en": "§7Blocks with hardness §f≥ obsidian (50)§7 or §f< 0§7 (bedrock/barrier/command block...) are never touched",
+    "zh": "§7硬度 §f大于等于黑曜石（≥50）§7、以及 §f小于 0§7（基岩/屏障/命令方块…）的方块一律不清",
+    "vi": "§7Blocks with hardness §f≥ obsidian (50)§7 or §f< 0§7 (bedrock/barrier/command block...) are never touched"
+  },
+  "item.maid_smart.da_yun.desc3": {
+    "en": "§7Anything with a block entity — §fcontainers§7 (chest/furnace/hopper/shulker/spawner...) — is skipped entirely; normal blocks §fdrop as in vanilla",
+    "zh": "§7带方块实体的 §f容器§7（箱子/熔炉/漏斗/潜影盒/刷怪笼…）整个跳过；普通方块 §f照原版掉落",
+    "vi": "§7Anything with a block entity — §fcontainers§7 (chest/furnace/hopper/shulker/spawner...) — is skipped entirely; normal blocks §fdrop as in vanilla"
+  },
+  "item.maid_smart.da_yun.desc4": {
+    "en": "§7Maid: put it in §fher own bauble slot§7 and it works §fonly in air-raid mode§7. Player: put it in a §fCurios slot§7 and it works while you glide (requires Curios). Craft: 4 iron blocks + 2 diamond blocks + 2 redstone blocks + 1 minecart",
+    "zh": "§7女仆：放进 §f她自己的饰品栏§7 后 §f只在空袭模式§7 生效；玩家：放进 §fCurios 饰品栏§7 后自己滑翔即生效（需装 Curios）。合成：铁块×4 + 钻石块×2 + 红石块×2 + 矿车×1",
+    "vi": "§7Maid: put it in §fher own bauble slot§7 and it works §fonly in air-raid mode§7. Player: put it in a §fCurios slot§7 and it works while you glide (requires Curios). Craft: 4 iron blocks + 2 diamond blocks + 2 redstone blocks + 1 minecart"
+  },
+  "config.promaid.accessory": {
+    "en": "Dayun Accessory Settings",
+    "zh": "饰品「大运」设置",
+    "vi": "Dayun Accessory Settings"
+  },
+  "config.promaid.accessory.daYun.enable": {
+    "en": "Dayun master switch",
+    "zh": "「大运」总开关",
+    "vi": "Dayun master switch"
+  },
+  "config.promaid.accessory.daYun.playerEnable": {
+    "en": "Dayun player side",
+    "zh": "「大运」玩家侧",
+    "vi": "Dayun player side"
+  },
+  "config.promaid.accessory.daYun.maxHardness": {
+    "en": "Dayun hardness cap",
+    "zh": "「大运」硬度上限",
+    "vi": "Dayun hardness cap"
+  },
+  "config.promaid.accessory.daYun.skipContainers": {
+    "en": "Dayun skip containers",
+    "zh": "「大运」跳过容器",
+    "vi": "Dayun skip containers"
+  },
+  "config.promaid.accessory.daYun.dropItems": {
+    "en": "Dayun drop items",
+    "zh": "「大运」破坏后掉落",
+    "vi": "Dayun drop items"
+  },
+  "config.promaid.accessory.daYun.maxPerTick": {
+    "en": "Dayun blocks per tick",
+    "zh": "「大运」单 tick 破坏上限",
+    "vi": "Dayun blocks per tick"
+  },
+  "config.promaid.accessory.daYun.range": {
+    "en": "Dayun break range",
+    "zh": "「大运」破坏范围",
+    "vi": "Dayun break range"
+  },
+  "config.promaid.accessory.daYun.bgm": {
+    "en": "Dayun flight BGM",
+    "zh": "「大运」飞行 BGM",
+    "vi": "Dayun flight BGM"
+  },
+  "config.promaid.accessory.daYun.wallPhase": {
+    "en": "Dayun through-wall targeting",
+    "zh": "「大运」穿墙锁敌",
+    "vi": "Dayun through-wall targeting"
+  },
+  "config.promaid.misc.workSpeedLevel0": {
+    "en": "Cap movement speed to the 0-affection baseline while working",
+    "zh": "干活时移速压回 0 好感档",
+    "vi": "Cap movement speed to the 0-affection baseline while working"
+  },
+  "config.promaid.misc.workStayInCircle": {
+    "en": "Keep work-wander inside the circle",
+    "zh": "干活时不许出圈",
+    "vi": "Keep work-wander inside the circle"
+  },
+  "config.promaid.misc.compassPriority": {
+    "en": "Player-drawn circle takes priority",
+    "zh": "罗盘圈优先",
+    "vi": "Player-drawn circle takes priority"
+  },
+  "config.promaid.misc.nonCombatSpeedCap": {
+    "en": "Non-combat walk speed cap",
+    "zh": "非战斗移速上限",
+    "vi": "Non-combat walk speed cap"
+  },
+  "config.promaid.misc.nonCombatMaxSpeed": {
+    "en": "Non-combat max walk speed",
+    "zh": "非战斗移速上限（数值）",
+    "vi": "Non-combat max walk speed"
+  },
+  "config.promaid.memory.recallGate": {
+    "en": "Memory recall gate",
+    "zh": "记忆召回闸门",
+    "vi": "Memory recall gate"
+  },
+  "config.promaid.memory.recallMinInterval": {
+    "en": "Recall min interval (s)",
+    "zh": "召回最小间隔（秒）",
+    "vi": "Recall min interval (s)"
+  },
+  "config.promaid.memory.recallMinMessages": {
+    "en": "Min new messages to re-recall",
+    "zh": "触发重召回的最少新增消息数",
+    "vi": "Min new messages to re-recall"
+  },
+  "config.promaid.memory.recallCacheTtl": {
+    "en": "Recall cache TTL (s)",
+    "zh": "召回缓存有效期（秒）",
+    "vi": "Recall cache TTL (s)"
+  },
+  "config.promaid.memory.graphEnable": {
+    "en": "Relation graph multi-hop recall",
+    "zh": "关系图多跳召回",
+    "vi": "Relation graph multi-hop recall"
+  },
+  "config.promaid.memory.graphHops": {
+    "en": "Relation graph max hops",
+    "zh": "关系图最大跳数",
+    "vi": "Relation graph max hops"
+  },
+  "config.promaid.memory.temporalEnable": {
+    "en": "Temporal recall",
+    "zh": "时间路召回",
+    "vi": "Temporal recall"
+  },
+  "config.promaid.memory.profileItems": {
+    "en": "Structured profile items",
+    "zh": "结构化画像条目",
+    "vi": "Structured profile items"
+  },
+  "config.promaid.memory.snapshotEnable": {
+    "en": "Memory snapshot",
+    "zh": "记忆快照",
+    "vi": "Memory snapshot"
+  },
+  "config.promaid.memory.snapshotEveryN": {
+    "en": "Snapshot every N summaries",
+    "zh": "每 N 次摘要刷快照",
+    "vi": "Snapshot every N summaries"
+  },
+  "config.promaid.memory.continuityEnable": {
+    "en": "Continuity queue (crash-safe)",
+    "zh": "续写队列（崩溃安全）",
+    "vi": "Continuity queue (crash-safe)"
+  },
+  "config.promaid.memory.eventPolicy": {
+    "en": "World event policy",
+    "zh": "世界事件策略",
+    "vi": "World event policy"
+  },
+  "config.promaid.memory.auditEnable": {
+    "en": "Memory audit log",
+    "zh": "记忆审计",
+    "vi": "Memory audit log"
+  },
+  "config.promaid.memory.vectorEnable": {
+    "en": "Vector semantic recall",
+    "zh": "向量语义检索",
+    "vi": "Vector semantic recall"
+  },
+  "config.promaid.memory.embedUrl": {
+    "en": "Embeddings endpoint",
+    "zh": "embeddings 端点",
+    "vi": "Embeddings endpoint"
+  },
+  "config.promaid.memory.embedKey": {
+    "en": "Embeddings API key",
+    "zh": "embeddings 密钥",
+    "vi": "Embeddings API key"
+  },
+  "config.promaid.memory.embedModel": {
+    "en": "Embeddings model",
+    "zh": "embeddings 模型名",
+    "vi": "Embeddings model"
+  },
+  "config.promaid.memory.embedDim": {
+    "en": "Embedding dimension",
+    "zh": "向量维度",
+    "vi": "Embedding dimension"
+  },
+  "config.promaid.memory.embedTimeout": {
+    "en": "Embeddings request timeout (ms)",
+    "zh": "embeddings 请求超时（毫秒）",
+    "vi": "Embeddings request timeout (ms)"
+  },
+  "config.promaid.memory.embedBatch": {
+    "en": "Embeddings batch size",
+    "zh": "embeddings 单批文本数",
+    "vi": "Embeddings batch size"
+  },
+  "config.promaid.misc.pickupValueReorder": {
+    "en": "Reorder pickup by value",
+    "zh": "拾取按价值重排",
+    "vi": "Reorder pickup by value"
+  },
+  "config.promaid.tlmTeleportExempt": {
+    "en": "TLM teleport/follow exemption",
+    "zh": "TLM 瞬移/跟随豁免",
+    "vi": "TLM teleport/follow exemption"
+  },
+  "config.promaid.misc.scheduleRangeFloor": {
+    "en": "Schedule activity-radius floor active",
+    "zh": "排班活动半径下限生效",
+    "vi": "Schedule activity-radius floor active"
+  },
+  "config.promaid.misc.presetMode": {
+    "en": "Preset mode (switch on the manual page)",
+    "zh": "预设模式（手册页切换）",
+    "vi": "Preset mode (switch on the manual page)"
+  },
+  "item.maid_smart.da_yun.desc5": {
+    "en": "§7The wearer (player or maid) §ftakes no damage from hitting blocks while gliding§7 (vanilla fly-into-wall); toggle it in \"Protection for the wearer\"",
+    "zh": "§7佩戴者（玩家 / 女仆）在 §f鞘翅滑翔中撞到方块不再掉血§7（原版「撞墙」伤害）；面板「佩戴者的保护」可关",
+    "vi": "§7The wearer (player or maid) §ftakes no damage from hitting blocks while gliding§7 (vanilla fly-into-wall); toggle it in \"Protection for the wearer\""
+  },
+  "config.promaid.build.areaProtection": {
+    "en": "Build-area protection (random tick / gravity / fluid / leaves / TNT)",
+    "zh": "建造区保护（随机刻 / 重力 / 流体 / 树叶 / TNT）",
+    "vi": "Build-area protection (random tick / gravity / fluid / leaves / TNT)"
+  },
+  "config.promaid.build.forceWorkActivity": {
+    "en": "Force WORK activity during build task",
+    "zh": "建造任务强制工作时段",
+    "vi": "Force WORK activity during build task"
+  },
+  "config.promaid.dialogue.promptSittingWork": {
+    "en": "System prompt: sitting-work note",
+    "zh": "对话提示词·坐姿工作说明",
+    "vi": "System prompt: sitting-work note"
+  },
+  "config.promaid.combat.friendlyFireGuard": {
+    "en": "Owner / ally friendly-fire guard",
+    "zh": "主人 / 友军免伤总闸",
+    "vi": "Owner / ally friendly-fire guard"
+  },
+  "config.promaid.combat.petImmunity": {
+    "en": "Player-pet immunity",
+    "zh": "玩家宠物免伤",
+    "vi": "Player-pet immunity"
+  },
+  "config.promaid.combat.buildShield": {
+    "en": "Build shield (resistance V / immunity / untargetable)",
+    "zh": "建造护盾（抗性 V / 免伤 / 不可锁定）",
+    "vi": "Build shield (resistance V / immunity / untargetable)"
+  },
+  "config.promaid.combat.hoeNotWeapon": {
+    "en": "Hoe is not a weapon",
+    "zh": "锄头不算武器",
+    "vi": "Hoe is not a weapon"
+  },
+  "config.promaid.misc.farmlandGuard": {
+    "en": "No farmland trampling",
+    "zh": "不踩坏农田",
+    "vi": "No farmland trampling"
+  },
+  "config.promaid.misc.toolAutoEquip": {
+    "en": "Auto-equip task tools",
+    "zh": "任务工具自动装备",
+    "vi": "Auto-equip task tools"
+  },
+  "config.promaid.misc.baubleTotem": {
+    "en": "Bauble / backpack totem revive",
+    "zh": "饰品 / 背包不死图腾复活",
+    "vi": "Bauble / backpack totem revive"
+  },
+  "config.promaid.misc.orbJoin": {
+    "en": "XP orbs go to mining maid",
+    "zh": "经验球归挖矿女仆",
+    "vi": "XP orbs go to mining maid"
+  },
+  "config.promaid.misc.equipRescue": {
+    "en": "Equipment rescue on slot clear",
+    "zh": "装备救回",
+    "vi": "Equipment rescue on slot clear"
+  },
+  "config.promaid.misc.workTeleportHold": {
+    "en": "No recall while working (teleport + work circle)",
+    "zh": "干活时不被召回（传送 + 工作圈临时扩圈）",
+    "vi": "No recall while working (teleport + work circle)"
+  },
+  "config.promaid.misc.homeMovement": {
+    "en": "Home-mode walking driver",
+    "zh": "home 模式走位",
+    "vi": "Home-mode walking driver"
+  },
+  "config.promaid.misc.stationaryLock": {
+    "en": "Stationary move lock",
+    "zh": "站桩锁位",
+    "vi": "Stationary move lock"
+  },
+  "config.promaid.misc.fishingChair": {
+    "en": "Auto fishing chair",
+    "zh": "钓鱼自动坐垫",
+    "vi": "Auto fishing chair"
+  },
+  "config.promaid.misc.takeOverFishing": {
+    "en": "Take over fishing",
+    "zh": "接管钓鱼",
+    "vi": "Take over fishing"
+  },
+  "config.promaid.misc.takeOverFarm": {
+    "en": "Take over farming",
+    "zh": "接管农场",
+    "vi": "Take over farming"
+  },
+  "config.promaid.misc.drivenNoStroll": {
+    "en": "No stray-walk for maid-driven mounts",
+    "zh": "坐骑不闲逛",
+    "vi": "No stray-walk for maid-driven mounts"
+  },
+  "config.promaid.ride.pursueTarget": {
+    "en": "Pursue target while riding",
+    "zh": "骑马追击目标",
+    "vi": "Pursue target while riding"
+  },
+  "config.promaid.ride.startupDelaySeconds": {
+    "en": "Flying-vehicle startup delay (s)",
+    "zh": "飞行载具启动时间（秒）",
+    "vi": "Flying-vehicle startup delay (s)"
+  },
+  "config.promaid.build.fetchFromChests": {
+    "en": "Build: fetch from chests",
+    "zh": "建造从箱子取料",
+    "vi": "Build: fetch from chests"
+  },
+  "config.promaid.build.chestSearchMargin": {
+    "en": "Chest search margin",
+    "zh": "取料箱子搜索余量",
+    "vi": "Chest search margin"
+  },
+  "config.promaid.build.chestFetchPerTake": {
+    "en": "Items per fetch",
+    "zh": "每次取料格数",
+    "vi": "Items per fetch"
+  },
+  "config.promaid.build.chestFetchCooldown": {
+    "en": "Fetch cooldown",
+    "zh": "取料冷却",
+    "vi": "Fetch cooldown"
+  },
+  "config.promaid.dialogue.langCheck": {
+    "en": "Dialogue language check",
+    "zh": "对话语言检查",
+    "vi": "Dialogue language check"
+  },
+  "config.promaid.combat.autoSwitchStaleSeconds": {
+    "en": "Auto-switch stale (s)",
+    "zh": "换目标失效秒数",
+    "vi": "Auto-switch stale (s)"
+  },
+  "config.promaid.combat.autoSwitchThreatExpandSeconds": {
+    "en": "Auto-switch threat expand (s)",
+    "zh": "换目标威胁扩张秒数",
+    "vi": "Auto-switch threat expand (s)"
+  },
+  "config.promaid.misc.slaughterRadius": {
+    "en": "Slaughter radius",
+    "zh": "宰杀半径",
+    "vi": "Slaughter radius"
+  },
+  "config.promaid.misc.scheduleBubbleEnabled": {
+    "en": "Schedule bubble",
+    "zh": "排班气泡",
+    "vi": "Schedule bubble"
+  },
+  "config.promaid.misc.scheduleBubbleDist": {
+    "en": "Schedule bubble distance",
+    "zh": "排班气泡距离",
+    "vi": "Schedule bubble distance"
+  },
+  "config.promaid.misc.brewAuto": {
+    "en": "Auto brewing",
+    "zh": "自动酿造",
+    "vi": "Auto brewing"
+  },
+  "config.promaid.build.speedMigrated": {
+    "en": "Internal: build speed migration done",
+    "zh": "内部标记：建造速度迁移是否已执行",
+    "vi": "Internal: build speed migration done"
+  },
+  "config.promaid.misc.scheduleRangeMigrated": {
+    "en": "Internal: schedule activity range migration done",
+    "zh": "内部标记：排班活动半径迁移是否已执行",
+    "vi": "Internal: schedule activity range migration done"
+  },
+  "config.promaid.misc.strollSpeedMigrated": {
+    "en": "Internal: stroll speed migration done",
+    "zh": "内部标记：散步速度倍率迁移是否已执行",
+    "vi": "Internal: stroll speed migration done"
+  },
+  "config.promaid.misc.defaultRepairMigrated": {
+    "en": "Internal: default-value repair migration done",
+    "zh": "内部标记：默认值修复迁移是否已执行",
+    "vi": "Internal: default-value repair migration done"
+  },
+  "config.promaid.build.tntIgnitionGrace": {
+    "en": "TNT ignition grace period (seconds)",
+    "zh": "TNT 点火保护期（秒）",
+    "vi": "TNT ignition grace period (seconds)"
+  },
+  "config.promaid.build.snapFinish": {
+    "en": "Snap-replace whole build on completion",
+    "zh": "完工整体重放",
+    "vi": "Snap-replace whole build on completion"
+  },
+  "config.promaid.build.altEnabled": {
+    "en": "Automatic substitute blocks",
+    "zh": "缺料自动替代开关",
+    "vi": "Automatic substitute blocks"
+  },
+  "config.promaid.build.altSlabs": {
+    "en": "Half-block substitutes",
+    "zh": "半格高替代品",
+    "vi": "Half-block substitutes"
+  },
+  "config.promaid.build.altBlocks": {
+    "en": "Full-block substitutes",
+    "zh": "一格高替代品",
+    "vi": "Full-block substitutes"
+  },
+  "config.promaid.build.altTalls": {
+    "en": "Tall substitutes",
+    "zh": "两格高替代品",
+    "vi": "Tall substitutes"
+  },
+  "config.promaid.build.altWides": {
+    "en": "Wide substitutes",
+    "zh": "横两格替代品",
+    "vi": "Wide substitutes"
+  },
+  "config.promaid.build.altNoClips": {
+    "en": "No-collision substitutes",
+    "zh": "无碰撞替代品",
+    "vi": "No-collision substitutes"
+  },
+  "config.promaid.build.stallInterval": {
+    "en": "Stall/placement throttle (ticks)",
+    "zh": "卡住/放置节流（tick）",
+    "vi": "Stall/placement throttle (ticks)"
+  },
+  "config.promaid.build.lookahead": {
+    "en": "Scan steps per round",
+    "zh": "单轮扫描步数上限",
+    "vi": "Scan steps per round"
+  },
+  "config.promaid.build.deferredScanCap": {
+    "en": "Deferred steps per round",
+    "zh": "延后步骤轮询上限",
+    "vi": "Deferred steps per round"
+  },
+  "config.promaid.build.structureMaxVolume": {
+    "en": "Structure file volume cap",
+    "zh": "结构文件体积上限",
+    "vi": "Structure file volume cap"
+  },
+  "config.promaid.accessory.daYun.breakParticles": {
+    "en": "Da Yun break particles",
+    "zh": "「大运」破坏粒子",
+    "vi": "Da Yun break particles"
+  },
+  "config.promaid.accessory.daYun.noWallDamage": {
+    "en": "Da Yun wall-impact immunity",
+    "zh": "「大运」免疫冲撞",
+    "vi": "Da Yun wall-impact immunity"
+  },
+  "config.promaid.accessory.daYun.smash": {
+    "en": "Dayun smash damage",
+    "zh": "「大运」撞击伤害",
+    "vi": "Dayun smash damage"
+  },
+  "config.promaid.accessory.daYun.smashDamage": {
+    "en": "Dayun smash damage per speed",
+    "zh": "「大运」撞击伤害·每格速度",
+    "vi": "Dayun smash damage per speed"
+  },
+  "config.promaid.accessory.daYun.smashKnockback": {
+    "en": "Dayun smash knockback per speed",
+    "zh": "「大运」撞击击飞·每格速度",
+    "vi": "Dayun smash knockback per speed"
+  },
+  "config.promaid.accessory.daYunSmash": {
+    "en": "Dayun smash damage",
+    "zh": "「大运」撞击伤害",
+    "vi": "Dayun smash damage"
+  },
+  "config.promaid.accessory.daYunSmashDamage": {
+    "en": "Dayun smash damage per speed",
+    "zh": "「大运」撞击伤害·每格速度",
+    "vi": "Dayun smash damage per speed"
+  },
+  "config.promaid.accessory.daYunSmashKnockback": {
+    "en": "Dayun smash knockback per speed",
+    "zh": "「大运」撞击击飞·每格速度",
+    "vi": "Dayun smash knockback per speed"
+  },
+  "config.promaid.mine.breakables": {
+    "en": "Extra breakable blocks",
+    "zh": "额外可挖穿方块",
+    "vi": "Extra breakable blocks"
+  },
+  "config.promaid.mine.disabledBreakables": {
+    "en": "Break-through disabled list",
+    "zh": "已取消挖穿的障碍物",
+    "vi": "Break-through disabled list"
+  },
+  "config.promaid.mine.seekThroughWalls": {
+    "en": "See-through-walls ore sense",
+    "zh": "透视感知（隔墙找矿）",
+    "vi": "See-through-walls ore sense"
+  },
+  "config.promaid.mine.anchorTimeout": {
+    "en": "Anchor out-of-range timeout (ticks)",
+    "zh": "锚点出框超时（tick）",
+    "vi": "Anchor out-of-range timeout (ticks)"
+  },
+  "config.promaid.mine.relocateThrottle": {
+    "en": "Relocate throttle (ticks)",
+    "zh": "重定位节流（tick）",
+    "vi": "Relocate throttle (ticks)"
+  },
+  "config.promaid.mine.reach": {
+    "en": "Mining/pickup reach (blocks)",
+    "zh": "挖掘/捡拾距离（格）",
+    "vi": "Mining/pickup reach (blocks)"
+  },
+  "config.promaid.mine.pillarCooldown": {
+    "en": "Pillar cooldown (ticks)",
+    "zh": "搭方块冷却（tick）",
+    "vi": "Pillar cooldown (ticks)"
+  },
+  "config.promaid.mine.rideNoPillar": {
+    "en": "No pillaring while riding/sitting",
+    "zh": "骑乘/坐下中禁止搭方块",
+    "vi": "No pillaring while riding/sitting"
+  },
+  "config.promaid.mine.junkCheckInterval": {
+    "en": "Junk cleanup interval (ticks)",
+    "zh": "废石清理检查间隔（tick）",
+    "vi": "Junk cleanup interval (ticks)"
+  },
+  "config.promaid.mine.scanBudget": {
+    "en": "Mining scan budget (blocks/tick)",
+    "zh": "挖矿扫描预算（格/tick）",
+    "vi": "Mining scan budget (blocks/tick)"
+  },
+  "config.promaid.mine.skipReportInterval": {
+    "en": "Skip/loot-miss report interval (ticks)",
+    "zh": "跳过矿/捡不到掉落播报间隔（tick）",
+    "vi": "Skip/loot-miss report interval (ticks)"
+  },
+  "config.promaid.mine.noTargetPause": {
+    "en": "No-target idle pause (seconds)",
+    "zh": "无目标静默闲逛（秒）",
+    "vi": "No-target idle pause (seconds)"
+  },
+  "config.promaid.mine.autoCollect": {
+    "en": "Auto collect",
+    "zh": "自动收集",
+    "vi": "Auto collect"
+  },
+  "config.promaid.wood.plantSaplingEnabled": {
+    "en": "Plant saplings",
+    "zh": "随手种树",
+    "vi": "Plant saplings"
+  },
+  "config.promaid.wood.plantSaplingCooldown": {
+    "en": "Sapling replant cooldown (ticks)",
+    "zh": "补种树苗冷却（tick）",
+    "vi": "Sapling replant cooldown (ticks)"
+  },
+  "config.promaid.wood.scanBudget": {
+    "en": "Woodcutting scan budget (blocks/tick)",
+    "zh": "伐木扫描预算（格/tick）",
+    "vi": "Woodcutting scan budget (blocks/tick)"
+  },
+  "config.promaid.memory.scanInterval": {
+    "en": "Memory scan interval (seconds)",
+    "zh": "记忆调度扫描间隔（秒）",
+    "vi": "Memory scan interval (seconds)"
+  },
+  "config.promaid.memory.projectionChars": {
+    "en": "Memory projection char cap",
+    "zh": "注入对话的记忆投影字符上限",
+    "vi": "Memory projection char cap"
+  },
+  "config.promaid.memory.extractTimeoutMin": {
+    "en": "LLM extraction timeout (minutes)",
+    "zh": "LLM 提取超时（分钟）",
+    "vi": "LLM extraction timeout (minutes)"
+  },
+  "config.promaid.memory.rrfK": {
+    "en": "Retrieval fusion k (RRF)",
+    "zh": "检索融合参数（RRF k）",
+    "vi": "Retrieval fusion k (RRF)"
+  },
+  "config.promaid.memory.decayDays": {
+    "en": "Memory decay period (days)",
+    "zh": "记忆衰减周期（天）",
+    "vi": "Memory decay period (days)"
+  },
+  "config.promaid.memory.decaySalience": {
+    "en": "Decay salience floor",
+    "zh": "衰减保留重要度",
+    "vi": "Decay salience floor"
+  },
+  "config.promaid.memory.lazySave": {
+    "en": "Debounced save",
+    "zh": "防抖写盘",
+    "vi": "Debounced save"
+  },
+  "config.promaid.memory.maintenanceMin": {
+    "en": "Memory maintenance period (minutes)",
+    "zh": "记忆维护周期（分钟）",
+    "vi": "Memory maintenance period (minutes)"
+  },
+  "config.promaid.memory.relationDecayDays": {
+    "en": "Relation confidence decay (days)",
+    "zh": "关系置信度衰减周期（天）",
+    "vi": "Relation confidence decay (days)"
+  },
+  "config.promaid.memory.apiUrl": {
+    "en": "Memory API URL",
+    "zh": "记忆 API 地址",
+    "vi": "Memory API URL"
+  },
+  "config.promaid.memory.apiKey": {
+    "en": "Memory API key",
+    "zh": "记忆 API 密钥",
+    "vi": "Memory API key"
+  },
+  "config.promaid.memory.apiModel": {
+    "en": "Memory API model",
+    "zh": "记忆 API 模型",
+    "vi": "Memory API model"
+  },
+  "config.promaid.perception.scanInterval": {
+    "en": "Snapshot scan interval (ticks)",
+    "zh": "快照扫描间隔（tick）",
+    "vi": "Snapshot scan interval (ticks)"
+  },
+  "config.promaid.perception.eventCooldown": {
+    "en": "Event announce cooldown (seconds)",
+    "zh": "同类事件播报限频（秒）",
+    "vi": "Event announce cooldown (seconds)"
+  },
+  "config.promaid.perception.hostileShowCooldown": {
+    "en": "Hostile-perception display cooldown (seconds)",
+    "zh": "敌对感知显示限频（秒）",
+    "vi": "Hostile-perception display cooldown (seconds)"
+  },
+  "config.promaid.perception.ownerLowHealth": {
+    "en": "Owner low-health threshold (%)",
+    "zh": "主人血量低阈值（%）",
+    "vi": "Owner low-health threshold (%)"
+  },
+  "config.promaid.perception.lookTicks": {
+    "en": "Owner gaze hold time (seconds)",
+    "zh": "主人持续注视判定时长（秒）",
+    "vi": "Owner gaze hold time (seconds)"
+  },
+  "config.promaid.perception.lookEnterDeg": {
+    "en": "Gaze enter angle (degrees)",
+    "zh": "看向进入角度（度）",
+    "vi": "Gaze enter angle (degrees)"
+  },
+  "config.promaid.perception.lookExitDeg": {
+    "en": "Gaze exit angle (degrees)",
+    "zh": "看向退出角度（度）",
+    "vi": "Gaze exit angle (degrees)"
+  },
+  "config.promaid.affect.recoverInterval": {
+    "en": "Mood recovery interval (seconds)",
+    "zh": "情绪静默恢复间隔（秒）",
+    "vi": "Mood recovery interval (seconds)"
+  },
+  "config.promaid.aitools.craft": {
+    "en": "smart_craft tool",
+    "zh": "smart_craft 工具（按配方合成）",
+    "vi": "smart_craft tool"
+  },
+  "config.promaid.aitools.place": {
+    "en": "smart_place tool",
+    "zh": "smart_place 工具（放置方块）",
+    "vi": "smart_place tool"
+  },
+  "config.promaid.dialogue.proactiveKill": {
+    "en": "Kill-credit dialogue",
+    "zh": "击杀邀功对话",
+    "vi": "Kill-credit dialogue"
+  },
+  "config.promaid.dialogue.reportCheck": {
+    "en": "Work-report check interval (ticks)",
+    "zh": "工作播报检查间隔（tick）",
+    "vi": "Work-report check interval (ticks)"
+  },
+  "config.promaid.dialogue.proactiveScan": {
+    "en": "Proactive dialogue scan interval (seconds)",
+    "zh": "主动对话周期扫描间隔（秒）",
+    "vi": "Proactive dialogue scan interval (seconds)"
+  },
+  "config.promaid.dialogue.proactiveLowHp": {
+    "en": "Proactive care low-HP threshold (%)",
+    "zh": "主动关心主人低血阈值（%）",
+    "vi": "Proactive care low-HP threshold (%)"
+  },
+  "config.promaid.dialogue.proactiveEventCd": {
+    "en": "Proactive dialogue event cooldown (seconds)",
+    "zh": "主动对话事件驱动冷却（秒）",
+    "vi": "Proactive dialogue event cooldown (seconds)"
+  },
+  "config.promaid.dialogue.autoScan": {
+    "en": "Autonomous decision scan interval (seconds)",
+    "zh": "自主决策检查间隔（秒）",
+    "vi": "Autonomous decision scan interval (seconds)"
+  },
+  "config.promaid.dialogue.autoOwnerRange": {
+    "en": "Autonomous decision owner range",
+    "zh": "自主决策触发主人范围",
+    "vi": "Autonomous decision owner range"
+  },
+  "config.promaid.dialogue.autoDayStart": {
+    "en": "Autonomous work start time (tick)",
+    "zh": "自主决策工作开始时刻（tick）",
+    "vi": "Autonomous work start time (tick)"
+  },
+  "config.promaid.dialogue.autoDayEnd": {
+    "en": "Autonomous work end time (tick)",
+    "zh": "自主决策工作结束时刻（tick）",
+    "vi": "Autonomous work end time (tick)"
+  },
+  "config.promaid.dialogue.maxReplies": {
+    "en": "Max proactive replies per cycle",
+    "zh": "每轮主动会话最多发言次数",
+    "vi": "Max proactive replies per cycle"
+  },
+  "config.promaid.dialogue.proactiveIdleMin": {
+    "en": "Proactive dialogue idle restart (minutes)",
+    "zh": "主动对话空闲重启（分钟）",
+    "vi": "Proactive dialogue idle restart (minutes)"
+  },
+  "config.promaid.dialogue.longSilenceMax": {
+    "en": "Long-silence check daily cap",
+    "zh": "长沉默确认每日上限（次）",
+    "vi": "Long-silence check daily cap"
+  },
+  "config.promaid.dialogue.replyFeedback": {
+    "en": "Reply-feedback learning",
+    "zh": "回复反馈学习",
+    "vi": "Reply-feedback learning"
+  },
+  "config.promaid.dialogue.topicBackoffMin": {
+    "en": "Topic cooldown (minutes)",
+    "zh": "话题冷却（分钟）",
+    "vi": "Topic cooldown (minutes)"
+  },
+  "config.promaid.dialogue.outputLanguage": {
+    "en": "Dialogue output language",
+    "zh": "对话输出语言",
+    "vi": "Dialogue output language"
+  },
+  "config.promaid.combat.waterBucketLava": {
+    "en": "Lava-escape water placement",
+    "zh": "岩浆逃生放水",
+    "vi": "Lava-escape water placement"
+  },
+  "config.promaid.combat.pearlCooldown": {
+    "en": "Ender-pearl escape cooldown (ticks)",
+    "zh": "末影珍珠逃生冷却（tick）",
+    "vi": "Ender-pearl escape cooldown (ticks)"
+  },
+  "config.promaid.combat.pearlRatio": {
+    "en": "Ender-pearl escape health ratio",
+    "zh": "末影珍珠逃生触发血量",
+    "vi": "Ender-pearl escape health ratio"
+  },
+  "config.promaid.combat.pearlDist": {
+    "en": "Ender-pearl escape threat distance",
+    "zh": "末影珍珠逃生威胁距离（格）",
+    "vi": "Ender-pearl escape threat distance"
+  },
+  "config.promaid.combat.closeDistance": {
+    "en": "Melee-close distance (blocks)",
+    "zh": "贴身距离（格）",
+    "vi": "Melee-close distance (blocks)"
+  },
+  "config.promaid.combat.pillarMax": {
+    "en": "Max upward pillar blocks",
+    "zh": "至多向上搭多少个方块（格）",
+    "vi": "Max upward pillar blocks"
+  },
+  "config.promaid.combat.pillarSafeHeight": {
+    "en": "Pillar safe height (blocks)",
+    "zh": "搭高安全高度（格）",
+    "vi": "Pillar safe height (blocks)"
+  },
+  "config.promaid.combat.pillarAboveEnemy": {
+    "en": "Pillar height above enemy",
+    "zh": "搭高时高于敌方的格数",
+    "vi": "Pillar height above enemy"
+  },
+  "config.promaid.combat.healCooldown": {
+    "en": "Healing food cooldown (ticks)",
+    "zh": "治疗食物冷却（tick）",
+    "vi": "Healing food cooldown (ticks)"
+  },
+  "config.promaid.combat.threatScan": {
+    "en": "Threat scan interval (ticks)",
+    "zh": "威胁扫描间隔（tick）",
+    "vi": "Threat scan interval (ticks)"
+  },
+  "config.promaid.combat.fleeSpeed": {
+    "en": "Dodge speed multiplier",
+    "zh": "走位速度倍率",
+    "vi": "Dodge speed multiplier"
+  },
+  "config.promaid.combat.fireProtectBauble": {
+    "en": "Fire-protection bauble detection",
+    "zh": "火焰保护饰品识别",
+    "vi": "Fire-protection bauble detection"
+  },
+  "config.promaid.combat.drownProtectBauble": {
+    "en": "Drowning-protection bauble detection",
+    "zh": "溺水保护饰品识别",
+    "vi": "Drowning-protection bauble detection"
+  },
+  "config.promaid.combat.fleeWithSaveItem": {
+    "en": "Allow panic with a life-saver item",
+    "zh": "保命物品下允许惊慌",
+    "vi": "Allow panic with a life-saver item"
+  },
+  "config.promaid.combat.soulSpellEnable": {
+    "en": "Auto soul-spell on lethal damage",
+    "zh": "致死伤害自动回魂符",
+    "vi": "Auto soul-spell on lethal damage"
+  },
+  "config.promaid.combat.soulSpellLethalGuard": {
+    "en": "Lethal-damage guard",
+    "zh": "致死伤害保护",
+    "vi": "Lethal-damage guard"
+  },
+  "config.promaid.combat.soulSpellOwnerRadius": {
+    "en": "Owner soul-spell radius (blocks)",
+    "zh": "主人收符半径（格）",
+    "vi": "Owner soul-spell radius (blocks)"
+  },
+  "config.promaid.combat.soulSpellCooldownSeconds": {
+    "en": "Soul-spell cooldown (seconds)",
+    "zh": "收符冷却（秒）",
+    "vi": "Soul-spell cooldown (seconds)"
+  },
+  "config.promaid.combat.stuckWindow": {
+    "en": "Stuck-detection window (ticks)",
+    "zh": "卡住判定窗口（tick）",
+    "vi": "Stuck-detection window (ticks)"
+  },
+  "config.promaid.combat.stuckThreshold": {
+    "en": "Stuck-move threshold (blocks)",
+    "zh": "卡住位移阈值（格）",
+    "vi": "Stuck-move threshold (blocks)"
+  },
+  "config.promaid.combat.threatGoneExit": {
+    "en": "Threat-gone exit delay (ticks)",
+    "zh": "威胁消失退出时长（tick）",
+    "vi": "Threat-gone exit delay (ticks)"
+  },
+  "config.promaid.combat.teleportSafeRadius": {
+    "en": "Teleport-safe radius (blocks)",
+    "zh": "传送安全判定半径（格）",
+    "vi": "Teleport-safe radius (blocks)"
+  },
+  "config.promaid.combat.potionCooldown": {
+    "en": "Potion attempt interval (ticks)",
+    "zh": "药水尝试间隔（tick）",
+    "vi": "Potion attempt interval (ticks)"
+  },
+  "config.promaid.combat.alertCooldown": {
+    "en": "Overhead alert particle interval (ticks)",
+    "zh": "头顶警示粒子间隔（tick）",
+    "vi": "Overhead alert particle interval (ticks)"
+  },
+  "config.promaid.combat.announceCooldown": {
+    "en": "Tactics announce interval (ticks)",
+    "zh": "策略播报间隔（tick）",
+    "vi": "Tactics announce interval (ticks)"
+  },
+  "config.promaid.combat.waterHold": {
+    "en": "Water-landing hold time (ticks)",
+    "zh": "落地水保持时长（tick）",
+    "vi": "Water-landing hold time (ticks)"
+  },
+  "config.promaid.combat.waterLandingScan": {
+    "en": "Water-landing probe depth (blocks)",
+    "zh": "落地水下探格数",
+    "vi": "Water-landing probe depth (blocks)"
+  },
+  "config.promaid.combat.tactics": {
+    "en": "Solo combat tactics",
+    "zh": "单兵作战战术",
+    "vi": "Solo combat tactics"
+  },
+  "config.promaid.combat.tacticsMelee": {
+    "en": "Melee tactics",
+    "zh": "近战战术",
+    "vi": "Melee tactics"
+  },
+  "config.promaid.combat.tacticsRanged": {
+    "en": "Ranged tactics",
+    "zh": "远程战术",
+    "vi": "Ranged tactics"
+  },
+  "config.promaid.combat.tacticsShield": {
+    "en": "Timed shield raise",
+    "zh": "时机举盾",
+    "vi": "Timed shield raise"
+  },
+  "config.promaid.combat.tacticsOrbitRadius": {
+    "en": "Orbit radius (blocks)",
+    "zh": "绕圈半径（格）",
+    "vi": "Orbit radius (blocks)"
+  },
+  "config.promaid.combat.tacticsKiteRange": {
+    "en": "Ranged ideal-range ratio",
+    "zh": "远程理想射程倍率",
+    "vi": "Ranged ideal-range ratio"
+  },
+  "config.promaid.combat.tacticsMeleeKite": {
+    "en": "Melee backstep",
+    "zh": "近战贴脸后退",
+    "vi": "Melee backstep"
+  },
+  "config.promaid.combat.aidOwnerEnable": {
+    "en": "Auto feed/heal owner",
+    "zh": "自动投喂/治疗主人",
+    "vi": "Auto feed/heal owner"
+  },
+  "config.promaid.combat.aidFoodThreshold": {
+    "en": "Feed food threshold",
+    "zh": "投喂触发饱食度",
+    "vi": "Feed food threshold"
+  },
+  "config.promaid.combat.aidThirstThreshold": {
+    "en": "Feed thirst threshold",
+    "zh": "投喂触发口渴度",
+    "vi": "Feed thirst threshold"
+  },
+  "config.promaid.combat.aidDrinkWhitelist": {
+    "en": "Drink whitelist",
+    "zh": "喂水白名单",
+    "vi": "Drink whitelist"
+  },
+  "config.promaid.combat.aidHealthThreshold": {
+    "en": "Heal health threshold",
+    "zh": "治疗触发血量",
+    "vi": "Heal health threshold"
+  },
+  "config.promaid.combat.torchPlacerEnable": {
+    "en": "Passive torch placing",
+    "zh": "被动插火把",
+    "vi": "Passive torch placing"
+  },
+  "config.promaid.combat.maidFireGuard": {
+    "en": "Burning maid does not ignite owner",
+    "zh": "女仆着火不传主人",
+    "vi": "Burning maid does not ignite owner"
+  },
+  "config.promaid.combat.torchDarkThreshold": {
+    "en": "Torch light threshold",
+    "zh": "插火把亮度阈值",
+    "vi": "Torch light threshold"
+  },
+  "config.promaid.combat.shieldShareEnable": {
+    "en": "Share shield",
+    "zh": "共享盾牌",
+    "vi": "Share shield"
+  },
+  "config.promaid.combat.totemShareEnable": {
+    "en": "Share totem of undying",
+    "zh": "共享不死图腾",
+    "vi": "Share totem of undying"
+  },
+  "config.promaid.combat.playerDamageMode": {
+    "en": "Player-to-maid damage mode",
+    "zh": "玩家对女仆伤害模式",
+    "vi": "Player-to-maid damage mode"
+  },
+  "config.promaid.combat.playerDamageMaidCap": {
+    "en": "Player damage cap ratio",
+    "zh": "玩家伤害上限比例",
+    "vi": "Player damage cap ratio"
+  },
+  "config.promaid.combat.friendlyWindImmune": {
+    "en": "Friendly wind immunity",
+    "zh": "友军风免",
+    "vi": "Friendly wind immunity"
+  },
+  "config.promaid.combat.prefMeleeWeight": {
+    "en": "Melee preference weight",
+    "zh": "近战偏好权重",
+    "vi": "Melee preference weight"
+  },
+  "config.promaid.combat.prefRangedWeight": {
+    "en": "Ranged preference weight",
+    "zh": "远程偏好权重",
+    "vi": "Ranged preference weight"
+  },
+  "config.promaid.combat.tacticHoldTicks": {
+    "en": "Min tactic hold (ticks)",
+    "zh": "战中换战术最短持有（tick）",
+    "vi": "Min tactic hold (ticks)"
+  },
+  "config.promaid.combat.reverseWindowTicks": {
+    "en": "Reverse-switch window (ticks)",
+    "zh": "战中反向切换窗口（tick）",
+    "vi": "Reverse-switch window (ticks)"
+  },
+  "config.promaid.combat.reverseCooldownTicks": {
+    "en": "Reverse-switch cooldown (ticks)",
+    "zh": "战中反向切换冷却（tick）",
+    "vi": "Reverse-switch cooldown (ticks)"
+  },
+  "config.promaid.combat.unarmedSkip": {
+    "en": "Skip combat when unarmed",
+    "zh": "空手不参战",
+    "vi": "Skip combat when unarmed"
+  },
+  "config.promaid.combat.autoSwitchRestoreThreatDist": {
+    "en": "Restore threat radius (blocks)",
+    "zh": "还原判定威胁半径（格）",
+    "vi": "Restore threat radius (blocks)"
+  },
+  "config.promaid.combat.combatWorkRange": {
+    "en": "Temporary combat work range (blocks)",
+    "zh": "战斗时临时扩圈（格）",
+    "vi": "Temporary combat work range (blocks)"
+  },
+  "config.promaid.spawnerTorch.breakBlacklist": {
+    "en": "Spawner break blacklist",
+    "zh": "拆除黑名单",
+    "vi": "Spawner break blacklist"
+  },
+  "config.promaid.airRaid.diveBoostRiptide": {
+    "en": "Dive boost via riptide trident",
+    "zh": "俯冲段冲刺·用激流三叉戟",
+    "vi": "Dive boost via riptide trident"
+  },
+  "config.promaid.airRaid.rangedBoostRiptide": {
+    "en": "Altitude boost via riptide trident",
+    "zh": "掉高补推·用激流三叉戟",
+    "vi": "Altitude boost via riptide trident"
+  },
+  "config.promaid.bombing.airDrop": {
+    "en": "Mid-air bomb drop",
+    "zh": "空中悬空投弹",
+    "vi": "Mid-air bomb drop"
+  },
+  "config.promaid.bridge.minRadius": {
+    "en": "Bridge min sphere radius (blocks)",
+    "zh": "搭路最小球面半径（格）",
+    "vi": "Bridge min sphere radius (blocks)"
+  },
+  "config.promaid.bridge.startHDist": {
+    "en": "Flat-bridge start horizontal distance",
+    "zh": "平桥启动水平距离（格）",
+    "vi": "Flat-bridge start horizontal distance"
+  },
+  "config.promaid.misc.cookSmeltOres": {
+    "en": "Smelt ores in furnace",
+    "zh": "熔炉烧矿物",
+    "vi": "Smelt ores in furnace"
+  },
+  "config.promaid.misc.cookSmeltAny": {
+    "en": "Smelt anything smeltable",
+    "zh": "烧任何可烧制物",
+    "vi": "Smelt anything smeltable"
+  },
+  "config.promaid.misc.strollEnabled": {
+    "en": "Idle stroll",
+    "zh": "空闲散步",
+    "vi": "Idle stroll"
+  },
+  "config.promaid.misc.strollInterval": {
+    "en": "Stroll interval (ticks)",
+    "zh": "散步间隔（tick）",
+    "vi": "Stroll interval (ticks)"
+  },
+  "config.promaid.misc.strollRadius": {
+    "en": "Stroll radius (blocks)",
+    "zh": "散步半径（格）",
+    "vi": "Stroll radius (blocks)"
+  },
+  "config.promaid.misc.strollSpeed": {
+    "en": "Stroll speed multiplier",
+    "zh": "散步速度倍率",
+    "vi": "Stroll speed multiplier"
+  },
+  "config.promaid.misc.cookSmokerBlast": {
+    "en": "Blast furnace / smoker support",
+    "zh": "兼容高炉/烟熏炉",
+    "vi": "Blast furnace / smoker support"
+  },
+  "config.promaid.misc.cookBurnWood": {
+    "en": "Burn wood",
+    "zh": "烧木材",
+    "vi": "Burn wood"
+  },
+  "config.promaid.misc.slaughterCount": {
+    "en": "Slaughter count threshold",
+    "zh": "宰杀数量阈值",
+    "vi": "Slaughter count threshold"
+  },
+  "config.promaid.misc.verticalRange": {
+    "en": "Cooking/brewing vertical range",
+    "zh": "烹饪/酿造垂直搜索范围",
+    "vi": "Cooking/brewing vertical range"
+  },
+  "config.promaid.misc.nativeTaskSmooth": {
+    "en": "Native task un-stall",
+    "zh": "TLM 原生任务呆滞修复",
+    "vi": "Native task un-stall"
+  },
+  "config.promaid.misc.workUninterrupted": {
+    "en": "Uninterrupted work",
+    "zh": "干活不被打断",
+    "vi": "Uninterrupted work"
+  },
+  "config.promaid.misc.produceTaskEnhance": {
+    "en": "Produce-task enhancement",
+    "zh": "产出任务增强",
+    "vi": "Produce-task enhancement"
+  },
+  "config.promaid.misc.dimensionFollow": {
+    "en": "Cross-dimension follow teleport",
+    "zh": "跟随女仆跨维度传送",
+    "vi": "Cross-dimension follow teleport"
+  },
+  "config.promaid.misc.maidChunkLoad": {
+    "en": "Maid chunk loading",
+    "zh": "女仆区块强制加载",
+    "vi": "Maid chunk loading"
+  },
+  "config.promaid.misc.maidSameDimPull": {
+    "en": "Same-dimension long pull-back",
+    "zh": "同维度远距拉回",
+    "vi": "Same-dimension long pull-back"
+  },
+  "config.promaid.misc.maidSameDimDist": {
+    "en": "Same-dimension pull distance",
+    "zh": "同维度拉回距离阈值（格）",
+    "vi": "Same-dimension pull distance"
+  },
+  "config.promaid.misc.maidSameDimVertical": {
+    "en": "Y-axis pull threshold (blocks)",
+    "zh": "Y 轴拉回门槛（格）",
+    "vi": "Y-axis pull threshold (blocks)"
+  },
+  "config.promaid.misc.followTighten": {
+    "en": "Tightened follow",
+    "zh": "跟随收紧",
+    "vi": "Tightened follow"
+  },
+  "config.promaid.misc.milkFeedWithBuff": {
+    "en": "Milk even with buffs",
+    "zh": "有增益也喂牛奶",
+    "vi": "Milk even with buffs"
+  },
+  "config.promaid.misc.dangerAvoid": {
+    "en": "Dangerous-block pathing avoidance",
+    "zh": "寻路危险方块避让",
+    "vi": "Dangerous-block pathing avoidance"
+  },
+  "config.promaid.misc.dangerBlocks": {
+    "en": "Dangerous blocks list",
+    "zh": "危险方块表",
+    "vi": "Dangerous blocks list"
+  },
+  "config.promaid.misc.dangerEscape": {
+    "en": "Danger escape",
+    "zh": "险境脱离",
+    "vi": "Danger escape"
+  },
+  "config.promaid.misc.maidRescue": {
+    "en": "Trapped-maid rescue",
+    "zh": "受困救援",
+    "vi": "Trapped-maid rescue"
+  },
+  "config.promaid.misc.logEnabled": {
+    "en": "Runtime log",
+    "zh": "运行日志",
+    "vi": "Runtime log"
+  },
+  "config.promaid.misc.heldLightMaid": {
+    "en": "Held-light real illumination",
+    "zh": "手持光源发实光",
+    "vi": "Held-light real illumination"
+  },
+  "config.promaid.misc.chainHarvest": {
+    "en": "Farm chain harvest",
+    "zh": "农场连锁收获",
+    "vi": "Farm chain harvest"
+  },
+  "config.promaid.misc.autoCollect": {
+    "en": "Farm drop auto-pickup",
+    "zh": "农场掉落物立即拾取",
+    "vi": "Farm drop auto-pickup"
+  },
+  "config.promaid.misc.backpackOverflow": {
+    "en": "Overflow into extra backpack",
+    "zh": "背包满时装进精妙背包",
+    "vi": "Overflow into extra backpack"
+  },
+  "config.promaid.misc.chainHarvestLimit": {
+    "en": "Farm chain-harvest limit",
+    "zh": "农场连锁收获上限（格）",
+    "vi": "Farm chain-harvest limit"
+  },
+  "config.promaid.misc.batchPlant": {
+    "en": "Farm batch planting",
+    "zh": "农场批量种植",
+    "vi": "Farm batch planting"
+  },
+  "config.promaid.misc.batchPlantLimit": {
+    "en": "Farm batch-plant limit",
+    "zh": "农场批量种植上限（格）",
+    "vi": "Farm batch-plant limit"
+  },
+  "config.promaid.misc.maidBonemealSapling": {
+    "en": "Sapling bonemeal",
+    "zh": "树苗骨粉催熟",
+    "vi": "Sapling bonemeal"
+  },
+  "config.promaid.misc.maidBonemealFarm": {
+    "en": "Farm crop bonemeal",
+    "zh": "农场作物骨粉催熟",
+    "vi": "Farm crop bonemeal"
+  },
+  "config.promaid.misc.scheduleEnabled": {
+    "en": "Schedule system",
+    "zh": "排班表系统",
+    "vi": "Schedule system"
+  },
+  "config.promaid.misc.scheduleRestoreGrace": {
+    "en": "Post-combat schedule grace (ticks)",
+    "zh": "战斗还原后排班宽限（tick）",
+    "vi": "Post-combat schedule grace (ticks)"
+  },
+  "config.promaid.misc.scheduleAvailabilityCheck": {
+    "en": "Schedule availability check",
+    "zh": "排班切换前完整可用性检测",
+    "vi": "Schedule availability check"
+  },
+  "config.promaid.misc.scheduleReverseWindowTicks": {
+    "en": "Schedule reverse window (ticks)",
+    "zh": "排班反向切换窗口（tick）",
+    "vi": "Schedule reverse window (ticks)"
+  },
+  "config.promaid.misc.scheduleReverseThreshold": {
+    "en": "Schedule reverse threshold",
+    "zh": "排班反向切换阈值",
+    "vi": "Schedule reverse threshold"
+  },
+  "config.promaid.misc.scheduleReverseCooldownTicks": {
+    "en": "Schedule reverse cooldown (ticks)",
+    "zh": "排班反向切换冷却（tick）",
+    "vi": "Schedule reverse cooldown (ticks)"
+  },
+  "config.promaid.misc.scheduleMinHoldTicks": {
+    "en": "Schedule min hold (ticks)",
+    "zh": "排班最短持有期（tick）",
+    "vi": "Schedule min hold (ticks)"
+  },
+  "config.promaid.misc.scheduleForceBrainRefresh": {
+    "en": "Post-switch brain refresh",
+    "zh": "排班切段后大脑自愈",
+    "vi": "Post-switch brain refresh"
+  },
+  "config.promaid.misc.scheduleActivityRange": {
+    "en": "Schedule activity range (blocks)",
+    "zh": "排班活动半径（格）",
+    "vi": "Schedule activity range (blocks)"
+  },
+  "config.promaid.voice": {
+    "en": "Voice settings",
+    "zh": "语音设置",
+    "vi": "Voice settings"
+  },
+  "config.promaid.voice.volumeMultiplier": {
+    "en": "TTS volume multiplier",
+    "zh": "TTS 语音播放音量倍率",
+    "vi": "TTS volume multiplier"
+  },
+  "config.promaid.voice.systemEnabled": {
+    "en": "Read system messages",
+    "zh": "系统消息朗读",
+    "vi": "Read system messages"
+  },
+  "config.promaid.voice.systemCooldownS": {
+    "en": "System-read cooldown (seconds)",
+    "zh": "系统消息朗读冷却（秒）",
+    "vi": "System-read cooldown (seconds)"
+  },
+  "config.promaid.voice.voicePackEnabled": {
+    "en": "System voice pack",
+    "zh": "系统语音包",
+    "vi": "System voice pack"
+  },
+  "config.promaid.voice.cacheMaxFiles": {
+    "en": "TTS cache max files",
+    "zh": "TTS 语音缓存上限",
+    "vi": "TTS cache max files"
+  }
+}

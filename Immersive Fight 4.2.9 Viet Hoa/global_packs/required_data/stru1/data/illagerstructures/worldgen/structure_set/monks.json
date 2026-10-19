@@ -1,0 +1,14 @@
+{
+  "structures": [
+    { "structure": "illagerstructures:herbalist_house", "weight": 5 },
+    { "structure": "illagerstructures:monk_tower", "weight": 5 },
+    { "structure": "illagerstructures:monastery", "weight": 1 }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 50,
+    "separation": 20,
+    "spread_type": "triangular",
+    "salt": 51179220
+  }
+}

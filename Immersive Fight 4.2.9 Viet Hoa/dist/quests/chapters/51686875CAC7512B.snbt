@@ -1,0 +1,2956 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "51686875CAC7512B"
+	group: "645C652F9B0DFA16"
+	icon: {
+		Count: 1
+		id: "epicfight:diamond_greatsword"
+		tag: {
+			Damage: 0
+		}
+	}
+	id: "51686875CAC7512B"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["5BFA4FFB83B7C56C"]
+			entity_vis_size: 1.0f
+			id: "77A3C29A355D3C95"
+			size: 0.5d
+			tasks: [{
+				id: "65EB0B0550DBE3F4"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "simplyswords:runic_chakram"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -3.25d
+			y: -3.5d
+		}
+		{
+			dependencies: ["77A3C29A355D3C95"]
+			entity_vis_size: 1.0f
+			id: "78F04A88EB6C1C2B"
+			rewards: [{
+				id: "4486D8A73968AC47"
+				item: {
+					Count: 1
+					id: "simplyswords:runefused_gem"
+					tag: { }
+				}
+				type: "item"
+			}]
+			size: 0.5d
+			tasks: [{
+				id: "20EE54381D6FB446"
+				item: {
+					Count: 1
+					id: "simplyswords:tempest"
+					tag: {
+						Damage: 0
+						nether_power: "socket_empty"
+						runic_power: "socket_empty"
+					}
+				}
+				type: "item"
+			}]
+			x: -2.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["1CF694ED29ECCB10"]
+			entity_vis_size: 1.0f
+			id: "2418904E2B0831C3"
+			size: 0.5d
+			tasks: [{
+				id: "1CCFA66854F47050"
+				item: {
+					Count: 1
+					id: "minecraft:netherite_sword"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -4.25d
+			y: -2.5d
+		}
+		{
+			dependencies: ["2418904E2B0831C3"]
+			entity_vis_size: 1.0f
+			id: "2D05B8FA4B1613CA"
+			rewards: [{
+				id: "0BBF5DF6BAC1A255"
+				item: {
+					Count: 1
+					id: "simplyswords:runefused_gem"
+					tag: { }
+				}
+				type: "item"
+			}]
+			size: 0.5d
+			tasks: [{
+				id: "2214AF290DEC6498"
+				item: {
+					Count: 1
+					id: "simplyswords:emberblade"
+					tag: {
+						Damage: 0
+						nether_power: "no_socket"
+						runic_power: "no_socket"
+					}
+				}
+				type: "item"
+			}]
+			x: -2.75d
+			y: -2.5d
+		}
+		{
+			dependencies: ["2418904E2B0831C3"]
+			entity_vis_size: 1.0f
+			id: "68B58A6FA52235DF"
+			rewards: [{
+				id: "295CD45335F5F721"
+				item: {
+					Count: 1
+					id: "simplyswords:netherfused_gem"
+					tag: { }
+				}
+				type: "item"
+			}]
+			size: 0.5d
+			tasks: [{
+				id: "1D7A3D6B234048D4"
+				item: {
+					Count: 1
+					id: "simplyswords:toxic_longsword"
+					tag: {
+						Damage: 0
+						itemModifier: "modifiers:damaged"
+						nether_power: "socket_empty"
+						runic_power: "socket_empty"
+					}
+				}
+				type: "item"
+			}]
+			x: -2.75d
+			y: -3.0d
+		}
+		{
+			dependencies: ["79AB56EA0DBBC437"]
+			entity_vis_size: 1.0f
+			id: "179D224844D91BAE"
+			size: 0.5d
+			tasks: [{
+				id: "6B09E83F03B02817"
+				item: {
+					Count: 1
+					id: "epicfight:netherite_longsword"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -4.25d
+			y: 1.0d
+		}
+		{
+			dependencies: ["179D224844D91BAE"]
+			entity_vis_size: 1.0f
+			id: "30B9027B4DAA1916"
+			rewards: [{
+				id: "0676508D74469F4E"
+				item: {
+					Count: 1
+					id: "simplyswords:runefused_gem"
+					tag: { }
+				}
+				type: "item"
+			}]
+			size: 0.5d
+			tasks: [{
+				id: "0C1BB5D208D7ACD5"
+				item: {
+					Count: 1
+					id: "simplyswords:waxweaver"
+					tag: {
+						Damage: 0
+						itemModifier: "modifiers:damaged"
+						nether_power: "socket_empty"
+						runic_power: "no_socket"
+					}
+				}
+				type: "item"
+			}]
+			x: -3.0d
+			y: 0.25d
+		}
+		{
+			dependencies: ["179D224844D91BAE"]
+			entity_vis_size: 1.0f
+			id: "5CC07491BEEB2229"
+			size: 0.5d
+			tasks: [{
+				id: "7FACBF5E31A6B9FD"
+				item: {
+					Count: 1
+					id: "simplyswords:dormant_relic"
+					tag: {
+						Damage: 0
+						itemModifier: "modifiers:deadly"
+						nether_power: "socket_empty"
+						runic_power: "no_socket"
+					}
+				}
+				type: "item"
+			}]
+			x: -3.25d
+			y: 1.0d
+		}
+		{
+			dependencies: ["18D7E72D53AF258F"]
+			entity_vis_size: 1.0f
+			id: "3C8D6DD0E0687776"
+			size: 0.5d
+			tasks: [{
+				id: "4928F358004E0B8E"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "simplyswords:runic_claymore"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -3.25d
+			y: 1.75d
+		}
+		{
+			dependencies: ["3C8D6DD0E0687776"]
+			entity_vis_size: 1.0f
+			id: "4502690360898B30"
+			rewards: [{
+				id: "025BF478D0C71934"
+				item: {
+					Count: 1
+					id: "simplyswords:runefused_gem"
+					tag: { }
+				}
+				type: "item"
+			}]
+			size: 0.5d
+			tasks: [{
+				id: "0ABB7D6E0E720400"
+				item: {
+					Count: 1
+					id: "simplyswords:twisted_blade"
+					tag: {
+						Damage: 0
+						itemModifier: "modifiers:swift"
+						nether_power: "socket_empty"
+						runic_power: "socket_empty"
+					}
+				}
+				type: "item"
+			}]
+			x: -2.25d
+			y: 2.25d
+		}
+		{
+			dependencies: ["3C8D6DD0E0687776"]
+			entity_vis_size: 1.0f
+			id: "4FDD9FF36D89C732"
+			rewards: [{
+				id: "2B5072DDD39F277D"
+				item: {
+					Count: 1
+					id: "simplyswords:runefused_gem"
+					tag: { }
+				}
+				type: "item"
+			}]
+			size: 0.5d
+			tasks: [{
+				id: "64B4342706EDA1C7"
+				item: {
+					Count: 1
+					id: "simplyswords:brimstone_claymore"
+					tag: {
+						Damage: 0
+						nether_power: "no_socket"
+						runic_power: "socket_empty"
+					}
+				}
+				type: "item"
+			}]
+			x: -2.5d
+			y: 1.75d
+		}
+		{
+			dependencies: ["4FDD9FF36D89C732"]
+			entity_vis_size: 1.0f
+			id: "5D320374D7CC7A28"
+			rewards: [{
+				id: "08649685128F9AAF"
+				item: {
+					Count: 1
+					id: "simplyswords:netherfused_gem"
+					tag: { }
+				}
+				type: "item"
+			}]
+			size: 0.5d
+			tasks: [{
+				id: "2992FCFA9C5F32D1"
+				item: {
+					Count: 1
+					id: "simplyswords:watcher_claymore"
+					tag: {
+						Damage: 0
+						nether_power: "no_socket"
+						runic_power: "socket_empty"
+					}
+				}
+				type: "item"
+			}]
+			x: -2.0d
+			y: 1.75d
+		}
+		{
+			dependencies: ["50004BE88685281F"]
+			entity_vis_size: 1.0f
+			id: "47CC73DE3D4BE06C"
+			rewards: [{
+				id: "3C5E60C69A8712BC"
+				item: {
+					Count: 1
+					id: "simplyswords:netherfused_gem"
+					tag: { }
+				}
+				type: "item"
+			}]
+			size: 0.5d
+			tasks: [{
+				id: "053C86859FE9981C"
+				item: {
+					Count: 1
+					id: "simplyswords:shadowsting"
+					tag: {
+						Damage: 0
+						nether_power: "no_socket"
+						runic_power: "socket_empty"
+					}
+				}
+				type: "item"
+			}]
+			x: -2.0d
+			y: -1.75d
+		}
+		{
+			dependencies: ["5CC07491BEEB2229"]
+			entity_vis_size: 1.0f
+			id: "7F0E5AD03CBA9C9F"
+			size: 0.5d
+			tasks: [{
+				id: "6AE5466B34C435B8"
+				item: {
+					Count: 1
+					id: "simplyswords:righteous_relic"
+					tag: {
+						Damage: 0
+						nether_power: "socket_empty"
+						runic_power: "socket_empty"
+					}
+				}
+				type: "item"
+			}]
+			x: -2.75d
+			y: 0.75d
+		}
+		{
+			dependencies: ["5CC07491BEEB2229"]
+			entity_vis_size: 1.0f
+			id: "49721B2D6153025F"
+			size: 0.5d
+			tasks: [{
+				id: "75767BADB7D1697E"
+				item: {
+					Count: 1
+					id: "simplyswords:tainted_relic"
+					tag: {
+						Damage: 0
+						nether_power: "socket_empty"
+						runic_power: "socket_empty"
+					}
+				}
+				type: "item"
+			}]
+			x: -2.75d
+			y: 1.25d
+		}
+		{
+			dependencies: ["49721B2D6153025F"]
+			entity_vis_size: 1.0f
+			id: "1FF127F5B20A006F"
+			rewards: [{
+				id: "5AA0750A9B13D458"
+				item: {
+					Count: 1
+					id: "simplyswords:netherfused_gem"
+					tag: { }
+				}
+				type: "item"
+			}]
+			size: 0.5d
+			tasks: [{
+				id: "3BA1AD155882D8CE"
+				item: {
+					Count: 1
+					id: "simplyswords:harbinger"
+					tag: {
+						Damage: 0
+						nether_power: "no_socket"
+						runic_power: "no_socket"
+					}
+				}
+				type: "item"
+			}]
+			x: -2.25d
+			y: 1.25d
+		}
+		{
+			dependencies: ["7F0E5AD03CBA9C9F"]
+			entity_vis_size: 1.0f
+			id: "3E9CA2386BAB7767"
+			rewards: [{
+				id: "66B5BF31943CA7BD"
+				item: {
+					Count: 1
+					id: "simplyswords:runefused_gem"
+					tag: { }
+				}
+				type: "item"
+			}]
+			size: 0.5d
+			tasks: [{
+				id: "2EAC601E0D82786F"
+				item: {
+					Count: 1
+					id: "simplyswords:sunfire"
+					tag: {
+						Damage: 0
+						nether_power: "no_socket"
+						runic_power: "socket_empty"
+					}
+				}
+				type: "item"
+			}]
+			x: -2.25d
+			y: 0.75d
+		}
+		{
+			dependencies: ["2052E78B3996227E"]
+			entity_vis_size: 1.0f
+			id: "43D576B93928AEC4"
+			size: 0.5d
+			tasks: [{
+				id: "09DC48E37AEE26D1"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "simplyswords:runic_twinblade"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["43D576B93928AEC4"]
+			entity_vis_size: 1.0f
+			id: "3F657DBCCE55D182"
+			rewards: [{
+				id: "3961C66B0DBA54B2"
+				item: {
+					Count: 1
+					id: "simplyswords:netherfused_gem"
+					tag: { }
+				}
+				type: "item"
+			}]
+			size: 0.5d
+			tasks: [{
+				id: "76367DC25E5F0598"
+				item: {
+					Count: 1
+					id: "simplyswords:storms_edge"
+					tag: {
+						Damage: 0
+						itemModifier: "modifiers:sharp"
+						nether_power: "no_socket"
+						runic_power: "no_socket"
+					}
+				}
+				type: "item"
+			}]
+			x: 1.75d
+			y: 3.5d
+		}
+		{
+			dependencies: ["43D576B93928AEC4"]
+			entity_vis_size: 1.0f
+			id: "6DC1B61D41F745F8"
+			rewards: [{
+				id: "68751C12735373A9"
+				item: {
+					Count: 1
+					id: "simplyswords:runefused_gem"
+					tag: { }
+				}
+				type: "item"
+			}]
+			size: 0.5d
+			tasks: [{
+				id: "49451411AEB3F308"
+				item: {
+					Count: 1
+					id: "simplyswords:magiblade"
+					tag: {
+						Damage: 0
+						itemModifier: "modifiers:damaged"
+						nether_power: "socket_empty"
+						runic_power: "socket_empty"
+					}
+				}
+				type: "item"
+			}]
+			x: 1.75d
+			y: 4.0d
+		}
+		{
+			dependencies: ["43D576B93928AEC4"]
+			entity_vis_size: 1.0f
+			id: "7D53A2745033BB67"
+			rewards: [{
+				id: "31733152620C4255"
+				item: {
+					Count: 1
+					id: "simplyswords:runefused_gem"
+					tag: { }
+				}
+				type: "item"
+			}]
+			size: 0.5d
+			tasks: [{
+				id: "04071E6DBD214A30"
+				item: {
+					Count: 1
+					id: "simplyswords:stars_edge"
+					tag: {
+						Damage: 0
+						nether_power: "socket_empty"
+						runic_power: "no_socket"
+					}
+				}
+				type: "item"
+			}]
+			x: 1.75d
+			y: 4.5d
+		}
+		{
+			dependencies: ["40C9174F7882E67C"]
+			entity_vis_size: 1.0f
+			id: "5DADB0084536F2DF"
+			rewards: [{
+				id: "71B1B72E2E7EBEFE"
+				item: {
+					Count: 1
+					id: "simplyswords:netherfused_gem"
+					tag: { }
+				}
+				type: "item"
+			}]
+			size: 0.5d
+			tasks: [{
+				id: "2AA7B63942CBB37A"
+				item: {
+					Count: 1
+					id: "simplyswords:watching_warglaive"
+					tag: {
+						Damage: 0
+						nether_power: "socket_empty"
+						runic_power: "no_socket"
+					}
+				}
+				type: "item"
+			}]
+			x: 2.0d
+			y: 5.25d
+		}
+		{
+			dependencies: ["38BD18D8E86CB245"]
+			entity_vis_size: 1.0f
+			id: "7B3091B009AA107F"
+			size: 0.5d
+			tasks: [{
+				id: "0B55E8B6D97C7442"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "simplyswords:runic_longsword"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -3.75d
+			y: 5.0d
+		}
+		{
+			dependencies: ["7B3091B009AA107F"]
+			entity_vis_size: 1.0f
+			id: "0E8748ACCFF2F26B"
+			rewards: [{
+				id: "4FB7D2FAA57BDF96"
+				item: {
+					Count: 1
+					id: "simplyswords:runefused_gem"
+					tag: { }
+				}
+				type: "item"
+			}]
+			size: 0.5d
+			tasks: [{
+				id: "2781686F8A7BA023"
+				item: {
+					Count: 1
+					id: "simplyswords:ribboncleaver"
+					tag: {
+						Damage: 0
+						nether_power: "socket_empty"
+						runic_power: "socket_empty"
+					}
+				}
+				type: "item"
+			}]
+			x: -2.75d
+			y: 4.25d
+		}
+		{
+			dependencies: ["7B3091B009AA107F"]
+			entity_vis_size: 1.0f
+			id: "743264725A3DF9D7"
+			rewards: [{
+				id: "1576BE17F74F5A30"
+				item: {
+					Count: 1
+					id: "simplyswords:runefused_gem"
+					tag: { }
+				}
+				type: "item"
+			}]
+			size: 0.5d
+			tasks: [{
+				id: "15AFD4879FD238D8"
+				item: {
+					Count: 1
+					id: "simplyswords:enigma"
+					tag: {
+						Damage: 0
+						itemModifier: "modifiers:vicious"
+						nether_power: "no_socket"
+						runic_power: "socket_empty"
+					}
+				}
+				type: "item"
+			}]
+			x: -2.25d
+			y: 4.75d
+		}
+		{
+			dependencies: ["7B3091B009AA107F"]
+			entity_vis_size: 1.0f
+			id: "0B083B363CF4D57B"
+			size: 0.5d
+			tasks: [{
+				id: "0FDD07F26D1A220A"
+				item: {
+					Count: 1
+					id: "simplyswords:slumbering_lichblade"
+					tag: {
+						Damage: 0
+						nether_power: "socket_empty"
+						runic_power: "no_socket"
+					}
+				}
+				type: "item"
+			}]
+			x: -3.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["098B9B7B3F71367A"]
+			entity_vis_size: 1.0f
+			id: "7008E1CA0B0EF581"
+			rewards: [{
+				id: "348F8F76347911EF"
+				item: {
+					Count: 1
+					id: "simplyswords:netherfused_gem"
+					tag: { }
+				}
+				type: "item"
+			}]
+			size: 0.5d
+			tasks: [{
+				id: "3FCF5677705B92A5"
+				item: {
+					Count: 1
+					id: "simplyswords:awakened_lichblade"
+					tag: {
+						Damage: 0
+						nether_power: "no_socket"
+						runic_power: "no_socket"
+					}
+				}
+				type: "item"
+			}]
+			x: -2.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["0B083B363CF4D57B"]
+			entity_vis_size: 1.0f
+			id: "098B9B7B3F71367A"
+			size: 0.5d
+			tasks: [{
+				id: "38FC2BF7E459B9F6"
+				item: {
+					Count: 1
+					id: "simplyswords:waking_lichblade"
+					tag: {
+						Damage: 0
+						nether_power: "no_socket"
+						runic_power: "no_socket"
+					}
+				}
+				type: "item"
+			}]
+			x: -2.5d
+			y: 5.5d
+		}
+		{
+			dependencies: ["227F212EB26BE4E4"]
+			entity_vis_size: 1.0f
+			id: "51DA87267832F603"
+			size: 0.5d
+			tasks: [{
+				id: "08852CD122B7635E"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "simplyswords:runic_spear"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.0d
+			y: -2.75d
+		}
+		{
+			dependencies: ["227F212EB26BE4E4"]
+			entity_vis_size: 1.0f
+			id: "0E1AAEF5E0567332"
+			size: 0.5d
+			tasks: [{
+				id: "21244F2C62E47387"
+				item: {
+					Count: 1
+					id: "simplyswords:decaying_relic"
+					tag: {
+						Damage: 0
+						nether_power: "socket_empty"
+						runic_power: "socket_empty"
+					}
+				}
+				type: "item"
+			}]
+			x: 0.75d
+			y: -2.25d
+		}
+		{
+			dependencies: ["0E1AAEF5E0567332"]
+			entity_vis_size: 1.0f
+			id: "5F1545D99F1A9058"
+			rewards: [{
+				id: "633CCAF04AABAC5F"
+				item: {
+					Count: 1
+					id: "simplyswords:runefused_gem"
+					tag: { }
+				}
+				type: "item"
+			}]
+			size: 0.5d
+			tasks: [{
+				id: "51D9041958B0DC38"
+				item: {
+					Count: 1
+					id: "simplyswords:magispear"
+					tag: {
+						Damage: 0
+						nether_power: "socket_empty"
+						runic_power: "no_socket"
+					}
+				}
+				type: "item"
+			}]
+			x: 1.75d
+			y: -1.75d
+		}
+		{
+			dependencies: ["51DA87267832F603"]
+			entity_vis_size: 1.0f
+			id: "759AF3EF4628F232"
+			rewards: [{
+				id: "7E781537DC0C85D2"
+				item: {
+					Count: 1
+					id: "simplyswords:runefused_gem"
+					tag: { }
+				}
+				type: "item"
+			}]
+			size: 0.5d
+			tasks: [{
+				id: "24CAA3EBCCADD099"
+				item: {
+					Count: 1
+					id: "simplyswords:wickpiercer"
+					tag: {
+						Damage: 0
+						nether_power: "socket_empty"
+						runic_power: "no_socket"
+					}
+				}
+				type: "item"
+			}]
+			x: 2.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["37955D173B2BAF43"]
+			entity_vis_size: 1.0f
+			id: "5F6D6CCFDA3A9B93"
+			size: 0.5d
+			tasks: [{
+				id: "3472573050CA4C95"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "simplyswords:runic_halberd"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["5F6D6CCFDA3A9B93"]
+			entity_vis_size: 1.0f
+			id: "3FC7F6F6A62ECE94"
+			rewards: [{
+				id: "5E0CDBA894925718"
+				item: {
+					Count: 1
+					id: "simplyswords:runefused_gem"
+					tag: { }
+				}
+				type: "item"
+			}]
+			size: 0.5d
+			tasks: [{
+				id: "0717CA327111D311"
+				item: {
+					Count: 1
+					id: "simplyswords:icewhisper"
+					tag: {
+						Damage: 0
+						nether_power: "no_socket"
+						runic_power: "socket_empty"
+					}
+				}
+				type: "item"
+			}]
+			x: 1.75d
+			y: 1.0d
+		}
+		{
+			dependencies: ["5F6D6CCFDA3A9B93"]
+			entity_vis_size: 1.0f
+			id: "4B092838FB94B54B"
+			rewards: [{
+				id: "5075FE483175DF19"
+				item: {
+					Count: 1
+					id: "simplyswords:netherfused_gem"
+					tag: { }
+				}
+				type: "item"
+			}]
+			size: 0.5d
+			tasks: [{
+				id: "4F8600A0A3DD2720"
+				item: {
+					Count: 1
+					id: "simplyswords:thunderbrand"
+					tag: {
+						Damage: 0
+						nether_power: "socket_empty"
+						runic_power: "socket_empty"
+					}
+				}
+				type: "item"
+			}]
+			x: 1.75d
+			y: 1.5d
+		}
+		{
+			dependencies: ["5F6D6CCFDA3A9B93"]
+			entity_vis_size: 1.0f
+			id: "191AC56114E601A1"
+			rewards: [{
+				id: "4F2B7F7D4BE57350"
+				item: {
+					Count: 1
+					id: "simplyswords:runefused_gem"
+					tag: { }
+				}
+				type: "item"
+			}]
+			size: 0.5d
+			tasks: [{
+				id: "40FED707F12C526A"
+				item: {
+					Count: 1
+					id: "simplyswords:arcanethyst"
+					tag: {
+						Damage: 0
+						nether_power: "socket_empty"
+						runic_power: "no_socket"
+					}
+				}
+				type: "item"
+			}]
+			x: 1.75d
+			y: 2.0d
+		}
+		{
+			dependencies: ["6116A1C1F22BEA79"]
+			entity_vis_size: 1.0f
+			id: "3E5B9502F6A51252"
+			size: 0.5d
+			tasks: [{
+				id: "372EB36A0E32EAE5"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "simplyswords:runic_glaive"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.75d
+			y: 0.5d
+		}
+		{
+			dependencies: ["3E5B9502F6A51252"]
+			entity_vis_size: 1.0f
+			id: "12EA79014CB3955F"
+			rewards: [{
+				id: "66708F47805C293A"
+				item: {
+					Count: 1
+					id: "simplyswords:runefused_gem"
+					tag: { }
+				}
+				type: "item"
+			}]
+			size: 0.5d
+			tasks: [{
+				id: "7D8936B598C42803"
+				item: {
+					Count: 1
+					id: "simplyswords:flamewind"
+					tag: {
+						Damage: 0
+						nether_power: "no_socket"
+						runic_power: "no_socket"
+					}
+				}
+				type: "item"
+			}]
+			x: 1.75d
+			y: 0.5d
+		}
+		{
+			dependencies: ["57300BC26A3ACFCD"]
+			entity_vis_size: 1.0f
+			id: "2578A2845B436208"
+			size: 0.5d
+			tasks: [{
+				id: "087998B49DD03703"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "simplyswords:runic_katana"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 4.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["2578A2845B436208"]
+			entity_vis_size: 1.0f
+			id: "58933CFA0EE567FD"
+			rewards: [{
+				id: "62175440F5D19A69"
+				item: {
+					Count: 1
+					id: "simplyswords:runefused_gem"
+					tag: { }
+				}
+				type: "item"
+			}]
+			size: 0.5d
+			tasks: [{
+				id: "4E8CD5D39088975F"
+				item: {
+					Count: 1
+					id: "simplyswords:whisperwind"
+					tag: {
+						Damage: 0
+						itemModifier: "modifiers:damaged"
+						nether_power: "no_socket"
+						runic_power: "socket_empty"
+					}
+				}
+				type: "item"
+			}]
+			x: 5.25d
+			y: -2.5d
+		}
+		{
+			dependencies: ["35FB38207C40698C"]
+			entity_vis_size: 1.0f
+			id: "52CDA989110C7A04"
+			size: 0.5d
+			tasks: [{
+				id: "1464C9F965F79610"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "simplyswords:runic_cutlass"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 4.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["52CDA989110C7A04"]
+			entity_vis_size: 1.0f
+			id: "568008664FD61AF2"
+			rewards: [{
+				id: "32820BA1E6AD6914"
+				item: {
+					Count: 1
+					id: "simplyswords:netherfused_gem"
+					tag: { }
+				}
+				type: "item"
+			}]
+			size: 0.5d
+			tasks: [{
+				id: "69E81949E6D749B3"
+				item: {
+					Count: 1
+					id: "simplyswords:soulstealer"
+					tag: {
+						Damage: 0
+						nether_power: "socket_empty"
+						runic_power: "socket_empty"
+					}
+				}
+				type: "item"
+			}]
+			x: 5.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["52CDA989110C7A04"]
+			entity_vis_size: 1.0f
+			id: "4DD8AA09284E707D"
+			rewards: [{
+				id: "0C61E31A51841315"
+				item: {
+					Count: 1
+					id: "simplyswords:runefused_gem"
+					tag: { }
+				}
+				type: "item"
+			}]
+			size: 0.5d
+			tasks: [{
+				id: "797E211030F8EA6A"
+				item: {
+					Count: 1
+					id: "simplyswords:emberlash"
+					tag: {
+						Damage: 0
+						itemModifier: "modifiers:vicious"
+						nether_power: "no_socket"
+						runic_power: "no_socket"
+					}
+				}
+				type: "item"
+			}]
+			x: 5.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["08AC476E2C2B4028"]
+			entity_vis_size: 1.0f
+			id: "2965F165487402CF"
+			size: 0.5d
+			tasks: [{
+				id: "66E31971C08FDA7E"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "simplyswords:runic_greathammer"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 5.25d
+			y: 5.0d
+		}
+		{
+			dependencies: ["2965F165487402CF"]
+			entity_vis_size: 1.0f
+			id: "61EB9638D5876735"
+			rewards: [{
+				id: "6831898F94DE8F7E"
+				item: {
+					Count: 1
+					id: "simplyswords:runefused_gem"
+					tag: { }
+				}
+				type: "item"
+			}]
+			size: 0.5d
+			tasks: [{
+				id: "67767558108C6BB3"
+				item: {
+					Count: 1
+					id: "simplyswords:hiveheart"
+					tag: {
+						Damage: 0
+						nether_power: "no_socket"
+						runic_power: "socket_empty"
+					}
+				}
+				type: "item"
+			}]
+			x: 6.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["2965F165487402CF"]
+			entity_vis_size: 1.0f
+			id: "65A7E508C4152FDE"
+			rewards: [{
+				id: "1069D205AE07BD9C"
+				item: {
+					Count: 1
+					id: "simplyswords:netherfused_gem"
+					tag: { }
+				}
+				type: "item"
+			}]
+			size: 0.5d
+			tasks: [{
+				id: "7D6F15129A640001"
+				item: {
+					Count: 1
+					id: "simplyswords:hearthflame"
+					tag: {
+						Damage: 0
+						itemModifier: "modifiers:agile"
+						nether_power: "no_socket"
+						runic_power: "socket_empty"
+					}
+				}
+				type: "item"
+			}]
+			x: 5.75d
+			y: 4.5d
+		}
+		{
+			dependencies: ["2965F165487402CF"]
+			entity_vis_size: 1.0f
+			id: "02C9DE0B6DCEF0FE"
+			rewards: [{
+				id: "6A3C7462228B0211"
+				item: {
+					Count: 1
+					id: "simplyswords:netherfused_gem"
+					tag: { }
+				}
+				type: "item"
+			}]
+			size: 0.5d
+			tasks: [{
+				id: "1BE177270B4E4A03"
+				item: {
+					Count: 1
+					id: "simplyswords:soulkeeper"
+					tag: {
+						Damage: 0
+						itemModifier: "modifiers:heavy"
+						nether_power: "no_socket"
+						runic_power: "socket_empty"
+					}
+				}
+				type: "item"
+			}]
+			x: 5.75d
+			y: 5.5d
+		}
+		{
+			dependencies: ["21AFFE7D2DFEB7B1"]
+			entity_vis_size: 1.0f
+			id: "27912CA9B98A1338"
+			size: 0.5d
+			tasks: [{
+				id: "70F08016D33AFB3E"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "simplyswords:runic_scythe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 5.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["27912CA9B98A1338"]
+			entity_vis_size: 1.0f
+			id: "157975FDE9E810CA"
+			rewards: [{
+				id: "29955250448EFE1F"
+				item: {
+					Count: 1
+					id: "simplyswords:netherfused_gem"
+					tag: { }
+				}
+				type: "item"
+			}]
+			size: 0.5d
+			tasks: [{
+				id: "43771291C4F4E2C2"
+				item: {
+					Count: 1
+					id: "simplyswords:soulrender"
+					tag: {
+						Damage: 0
+						nether_power: "socket_empty"
+						runic_power: "socket_empty"
+					}
+				}
+				type: "item"
+			}]
+			x: 5.75d
+			y: -2.0d
+		}
+		{
+			dependencies: ["27912CA9B98A1338"]
+			entity_vis_size: 1.0f
+			id: "5F8288AED613ACD1"
+			rewards: [{
+				id: "1C84371490C251AC"
+				item: {
+					Count: 1
+					id: "simplyswords:runefused_gem"
+					tag: { }
+				}
+				type: "item"
+			}]
+			size: 0.5d
+			tasks: [{
+				id: "5708278EE6FD7712"
+				item: {
+					Count: 1
+					id: "simplyswords:magiscythe"
+					tag: {
+						Damage: 0
+						itemModifier: "modifiers:broken"
+						nether_power: "no_socket"
+						runic_power: "no_socket"
+					}
+				}
+				type: "item"
+			}]
+			x: 5.75d
+			y: -1.5d
+		}
+		{
+			dependencies: ["06529F00025A4CB2"]
+			entity_vis_size: 1.0f
+			id: "78F44A35F404F001"
+			size: 0.5d
+			tasks: [{
+				id: "0B420CA27CE0E283"
+				item: {
+					Count: 1
+					id: "minecraft:netherite_axe"
+					tag: {
+						Damage: 0
+						itemModifier: "modifiers:sharp"
+					}
+				}
+				type: "item"
+			}]
+			x: 3.75d
+			y: 5.0d
+		}
+		{
+			dependencies: ["78F44A35F404F001"]
+			entity_vis_size: 1.0f
+			id: "45AA1BBA7FEBB879"
+			rewards: [{
+				id: "7745D70A3C864959"
+				item: {
+					Count: 1
+					id: "simplyswords:runefused_gem"
+					tag: { }
+				}
+				type: "item"
+			}]
+			size: 0.5d
+			tasks: [{
+				id: "259F11391781D428"
+				item: {
+					Count: 1
+					id: "simplyswords:molten_edge"
+					tag: {
+						Damage: 0
+						itemModifier: "modifiers:swift"
+						nether_power: "socket_empty"
+						runic_power: "no_socket"
+					}
+				}
+				type: "item"
+			}]
+			x: 5.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["78F44A35F404F001"]
+			entity_vis_size: 1.0f
+			id: "7FA13ADA502D4870"
+			rewards: [{
+				id: "63DEC2EB22D93838"
+				item: {
+					Count: 1
+					id: "simplyswords:netherfused_gem"
+					tag: { }
+				}
+				type: "item"
+			}]
+			size: 0.5d
+			tasks: [{
+				id: "05A09EDF62793A8A"
+				item: {
+					Count: 1
+					id: "simplyswords:livyatan"
+					tag: {
+						Damage: 0
+						nether_power: "no_socket"
+						runic_power: "no_socket"
+					}
+				}
+				type: "item"
+			}]
+			x: 4.5d
+			y: 4.25d
+		}
+		{
+			dependencies: ["6F1E39C686D75009"]
+			entity_vis_size: 1.0f
+			id: "7FA2EED6E86C1082"
+			size: 0.5d
+			tasks: [{
+				id: "0FB98AC19570336F"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "simplyswords:runic_greataxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 5.0d
+			y: 5.75d
+		}
+		{
+			dependencies: ["7FA2EED6E86C1082"]
+			entity_vis_size: 1.0f
+			id: "1C25DBF006729070"
+			rewards: [{
+				id: "57B50D51139460F6"
+				item: {
+					Count: 1
+					id: "simplyswords:runefused_gem"
+					tag: { }
+				}
+				type: "item"
+			}]
+			size: 0.5d
+			tasks: [{
+				id: "1BFAC11EAA9D103F"
+				item: {
+					Count: 1
+					id: "simplyswords:soulpyre"
+					tag: {
+						Damage: 0
+						itemModifier: "modifiers:light"
+						nether_power: "socket_empty"
+						runic_power: "no_socket"
+					}
+				}
+				type: "item"
+			}]
+			x: 6.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["51DA87267832F603"]
+			description: [
+				"[Vũ khí thần kỳ]"
+				"Để được giới thiệu về việc phát hành kỹ năng, bạn có thể xem các nhiệm vụ"
+				"{ \"text\": \"change_page\", \"value\": \"7E50FBC6CA96EF47\" } }"
+			]
+			entity_vis_size: 1.0f
+			id: "2B69C69D93292F69"
+			shape: "pentagon"
+			size: 0.5d
+			tasks: [{
+				id: "6D7ADA4D0839ACC5"
+				item: {
+					Count: 1
+					id: "wom:agony"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 2.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["7FA2EED6E86C1082"]
+			description: [
+				"[Vũ khí thần kỳ]"
+				"Để được giới thiệu về việc phát hành kỹ năng, bạn có thể xem các nhiệm vụ"
+				"{ \"text\": \"change_page\", \"value\": \"7E50FBC6CA96EF47\" } }"
+			]
+			entity_vis_size: 1.0f
+			id: "273D1D9478EF78C8"
+			shape: "pentagon"
+			size: 0.5d
+			tasks: [{
+				id: "31E53B6C75ADC921"
+				item: {
+					Count: 1
+					id: "wom:tormented_mind"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 5.75d
+			y: 6.5d
+		}
+		{
+			dependencies: ["3C8D6DD0E0687776"]
+			description: [
+				"[Vũ khí thần kỳ]"
+				"Để được giới thiệu về việc phát hành kỹ năng, bạn có thể xem các nhiệm vụ"
+				"{ \"text\": \"change_page\", \"value\": \"7E50FBC6CA96EF47\" } }"
+			]
+			entity_vis_size: 1.0f
+			id: "156C1686FDE59280"
+			shape: "pentagon"
+			size: 0.5d
+			tasks: [{
+				id: "00E44CFE84F75459"
+				item: {
+					Count: 1
+					id: "wom:ruine"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -2.5d
+			y: 2.75d
+		}
+		{
+			dependencies: ["35FB38207C40698C"]
+			description: [
+				"[Vũ khí thần kỳ]"
+				"Để được giới thiệu về việc phát hành kỹ năng, bạn có thể xem các nhiệm vụ"
+				"{ \"text\": \"change_page\", \"value\": \"7E50FBC6CA96EF47\" } }"
+			]
+			entity_vis_size: 1.0f
+			id: "019A45502752DFF5"
+			shape: "pentagon"
+			size: 0.5d
+			tasks: [{
+				id: "1A46C9A221C74184"
+				item: {
+					Count: 1
+					id: "wom:ender_blaster"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 4.75d
+			y: 1.75d
+		}
+		{
+			dependencies: ["6FA8DB1B379F7666"]
+			description: [
+				"[Vũ khí thần kỳ]"
+				"Để được giới thiệu về việc phát hành kỹ năng, bạn có thể xem các nhiệm vụ"
+				"{ \"text\": \"change_page\", \"value\": \"7E50FBC6CA96EF47\" } }"
+			]
+			entity_vis_size: 1.0f
+			id: "7DDF9C0F98DAD2CE"
+			shape: "pentagon"
+			size: 0.5d
+			tasks: [{
+				id: "2203DA6C0FACC2E9"
+				item: {
+					Count: 1
+					id: "wom:antitheus"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 5.75d
+			y: -1.0d
+		}
+		{
+			dependencies: ["2CC9CB0CFC70EF2F"]
+			description: [
+				"[Vũ khí thần kỳ]"
+				"Để được giới thiệu về việc phát hành kỹ năng, bạn có thể xem các nhiệm vụ"
+				"{ \"text\": \"change_page\", \"value\": \"7E50FBC6CA96EF47\" } } }"
+			]
+			entity_vis_size: 1.0f
+			id: "3CC9E08BE6283C18"
+			shape: "pentagon"
+			size: 0.5d
+			tasks: [{
+				id: "1480311BC248A881"
+				item: {
+					Count: 1
+					id: "wom:satsujin"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 6.0d
+			y: -3.25d
+		}
+		{
+			dependencies: ["2418904E2B0831C3"]
+			description: [
+				"[Vũ khí thần kỳ]"
+				"Để được giới thiệu về việc phát hành kỹ năng, bạn có thể xem các nhiệm vụ"
+				"{ \"text\": \"change_page\", \"value\": \"7E50FBC6CA96EF47\" } }"
+			]
+			entity_vis_size: 1.0f
+			id: "26581B38DCD5E78D"
+			shape: "pentagon"
+			size: 0.5d
+			tasks: [
+				{
+					id: "716D0BA931E84A4C"
+					item: {
+						Count: 1
+						id: "wom:herrscher"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "4D51650DFBB32F1B"
+					item: {
+						Count: 1
+						id: "wom:gesetz"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: -2.75d
+			y: -2.0d
+		}
+		{
+			dependencies: ["40C9174F7882E67C"]
+			description: [
+				"[Vũ khí thần kỳ]"
+				"Để được giới thiệu về việc phát hành kỹ năng, bạn có thể xem các nhiệm vụ"
+				"{ \"text\": \"change_page\", \"value\": \"7E50FBC6CA96EF47\" } }"
+			]
+			entity_vis_size: 1.0f
+			id: "2F317ED32439F490"
+			shape: "pentagon"
+			size: 0.5d
+			tasks: [{
+				id: "2F57D4F73156C754"
+				item: {
+					Count: 1
+					id: "wom:moonless"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 2.0d
+			y: 5.75d
+		}
+		{
+			entity_vis_size: 1.0f
+			id: "1CF694ED29ECCB10"
+			tasks: [{
+				id: "7433D9FD096004DB"
+				item: {
+					Count: 1
+					id: "minecraft:diamond_sword"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -5.0d
+			y: -2.5d
+		}
+		{
+			entity_vis_size: 1.0f
+			id: "79AB56EA0DBBC437"
+			tasks: [{
+				id: "475F1206F6DE814D"
+				item: {
+					Count: 1
+					id: "epicfight:diamond_longsword"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -5.0d
+			y: 1.0d
+		}
+		{
+			entity_vis_size: 1.0f
+			id: "024A4227E3769E48"
+			tasks: [{
+				id: "4D6A69D013A7DFD4"
+				item: {
+					Count: 1
+					id: "wom:diamond_staff"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -1.0d
+			y: 5.0d
+		}
+		{
+			entity_vis_size: 1.0f
+			id: "04948A21AA83DC68"
+			tasks: [{
+				id: "0075B2C107D28248"
+				item: {
+					Count: 1
+					id: "epicfight:diamond_greatsword"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -5.0d
+			y: 5.0d
+		}
+		{
+			entity_vis_size: 1.0f
+			id: "1A8A000A5AA2009C"
+			tasks: [{
+				id: "54E874F7106310ED"
+				item: {
+					Count: 1
+					id: "epicfight:diamond_dagger"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 3.0d
+			y: 1.0d
+		}
+		{
+			entity_vis_size: 1.0f
+			id: "170F72A97D04F5FF"
+			tasks: [{
+				id: "2AFC8847C7A484A7"
+				item: {
+					Count: 1
+					id: "epicfight:diamond_spear"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -1.0d
+			y: -2.5d
+		}
+		{
+			entity_vis_size: 1.0f
+			id: "4F45C9FE93C0BB88"
+			tasks: [{
+				id: "386AA9BDDA5B0889"
+				item: {
+					Count: 1
+					id: "epicfight:diamond_tachi"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 3.0d
+			y: -2.5d
+		}
+		{
+			entity_vis_size: 1.0f
+			id: "06529F00025A4CB2"
+			tasks: [{
+				id: "7F234D4DA95C53D8"
+				item: {
+					Count: 1
+					id: "minecraft:diamond_axe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 3.0d
+			y: 5.0d
+		}
+		{
+			entity_vis_size: 1.0f
+			id: "2137640DA9561585"
+			tasks: [{
+				id: "110EAC91077CBF88"
+				item: {
+					Count: 1
+					id: "eugenes_guan_dao:diamond_guan_dao"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -1.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["67B705EC5FB88F92"]
+			entity_vis_size: 1.0f
+			id: "40C9174F7882E67C"
+			size: 0.5d
+			tasks: [{
+				id: "2B74A526D7C288FE"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "simplyswords:runic_warglaive"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.25d
+			y: 5.5d
+		}
+		{
+			dependencies: ["024A4227E3769E48"]
+			entity_vis_size: 1.0f
+			id: "35756787D1EDAFC5"
+			size: 0.5d
+			tasks: [{
+				id: "0C0465F689C130C2"
+				item: {
+					Count: 1
+					id: "wom:netherite_staff"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -0.25d
+			y: 5.0d
+		}
+		{
+			dependencies: ["21AFFE7D2DFEB7B1"]
+			entity_vis_size: 1.0f
+			id: "6FA8DB1B379F7666"
+			size: 0.5d
+			tasks: [{
+				id: "570ABBF4B0C3E808"
+				item: {
+					Count: 1
+					id: "soul_like_armors_reworked:dragonslayeraxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 5.0d
+			y: -1.25d
+		}
+		{
+			dependencies: ["50004BE88685281F"]
+			entity_vis_size: 1.0f
+			id: "5B45EFF80490D010"
+			rewards: [{
+				id: "48D220ED8EFAA180"
+				item: {
+					Count: 1
+					id: "simplyswords:runefused_gem"
+					tag: { }
+				}
+				type: "item"
+			}]
+			size: 0.5d
+			tasks: [{
+				id: "0937AEB652B1A91A"
+				item: {
+					Count: 1
+					id: "simplyswords:bramblethorn"
+					tag: {
+						Damage: 0
+						nether_power: "socket_empty"
+						runic_power: "socket_empty"
+					}
+				}
+				type: "item"
+			}]
+			x: -2.0d
+			y: -1.25d
+		}
+		{
+			dependencies: ["2BC7CD034F29ADF1"]
+			description: [
+				"[Vũ khí thần kỳ]"
+				"Để được giới thiệu về việc phát hành kỹ năng, bạn có thể xem các nhiệm vụ"
+				"{ \"text\": \"change_page\", \"value\": \"7E50FBC6CA96EF47\" } }"
+			]
+			entity_vis_size: 1.0f
+			id: "2E656568E1C2E5C1"
+			size: 0.5d
+			tasks: [{
+				id: "1642D9790626B00C"
+				item: {
+					Count: 1
+					id: "wom:solar"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -2.25d
+			y: 6.75d
+		}
+		{
+			dependencies: ["7B3091B009AA107F"]
+			entity_vis_size: 1.0f
+			id: "3821B6B54366B1FF"
+			size: 0.5d
+			tasks: [{
+				id: "3AB41165028A6B10"
+				item: {
+					Count: 1
+					id: "simplyswords:caelestis"
+					tag: {
+						Damage: 0
+						nether_power: "no_socket"
+						runic_power: "no_socket"
+					}
+				}
+				type: "item"
+			}]
+			x: -3.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["38BD18D8E86CB245"]
+			entity_vis_size: 1.0f
+			id: "2BC7CD034F29ADF1"
+			size: 0.5d
+			tasks: [{
+				id: "7F8B0DC49B28C17E"
+				item: "cataclysm:the_incinerator"
+				type: "item"
+			}]
+			x: -3.5d
+			y: 6.5d
+		}
+		{
+			dependencies: ["2418904E2B0831C3"]
+			entity_vis_size: 1.0f
+			id: "1666F6F7F1A87386"
+			size: 0.5d
+			tasks: [{
+				id: "4BC95849DBB43D01"
+				item: {
+					Count: 1
+					id: "simplyswords:stormbringer"
+					tag: {
+						Damage: 0
+						nether_power: "no_socket"
+						runic_power: "socket_empty"
+					}
+				}
+				type: "item"
+			}]
+			x: -3.6476190476190595d
+			y: -1.86666666666666d
+		}
+		{
+			dependencies: ["22B955220DFF6ACD"]
+			entity_vis_size: 1.0f
+			id: "50004BE88685281F"
+			size: 0.5d
+			tasks: [{
+				id: "4DE41685BF2BFBF3"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "simplyswords:runic_rapier"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -3.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["22B955220DFF6ACD"]
+			entity_vis_size: 1.0f
+			id: "7B7A7E0F6AFD9544"
+			size: 0.5d
+			tasks: [{
+				id: "417854DFC03EBE55"
+				item: {
+					Count: 1
+					id: "refm:enderite_rapier"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -3.25d
+			y: -0.5d
+		}
+		{
+			dependencies: ["2418904E2B0831C3"]
+			entity_vis_size: 1.0f
+			id: "5BFA4FFB83B7C56C"
+			size: 0.5d
+			tasks: [{
+				id: "6E693F8054F13AF0"
+				item: {
+					Count: 1
+					id: "simplyswords:netherite_chakram"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -4.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["04948A21AA83DC68"]
+			entity_vis_size: 1.0f
+			id: "38BD18D8E86CB245"
+			size: 0.5d
+			tasks: [{
+				id: "4902F66429311450"
+				item: {
+					Count: 1
+					id: "epicfight:netherite_greatsword"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -4.25d
+			y: 5.0d
+		}
+		{
+			dependencies: ["57300BC26A3ACFCD"]
+			entity_vis_size: 1.0f
+			id: "21AFFE7D2DFEB7B1"
+			size: 0.5d
+			tasks: [{
+				id: "1004E3F6A1C6E8DE"
+				item: {
+					Count: 1
+					id: "simplyswords:netherite_scythe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 4.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["78F44A35F404F001"]
+			entity_vis_size: 1.0f
+			id: "08AC476E2C2B4028"
+			size: 0.5d
+			tasks: [{
+				id: "76ADCE0B7855359F"
+				item: {
+					Count: 1
+					id: "simplyswords:netherite_greathammer"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 4.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["6116A1C1F22BEA79"]
+			entity_vis_size: 1.0f
+			id: "37955D173B2BAF43"
+			size: 0.5d
+			tasks: [{
+				id: "7D8F1FC9AF973138"
+				item: {
+					Count: 1
+					id: "simplyswords:netherite_halberd"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.25d
+			y: 1.5d
+		}
+		{
+			dependencies: ["170F72A97D04F5FF"]
+			entity_vis_size: 1.0f
+			id: "227F212EB26BE4E4"
+			size: 0.5d
+			tasks: [{
+				id: "33A5797D3A944414"
+				item: {
+					Count: 1
+					id: "epicfight:netherite_spear"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -0.25d
+			y: -2.5d
+		}
+		{
+			dependencies: ["35756787D1EDAFC5"]
+			entity_vis_size: 1.0f
+			id: "67B705EC5FB88F92"
+			size: 0.5d
+			tasks: [{
+				id: "3508F6B9A644945A"
+				item: {
+					Count: 1
+					id: "simplyswords:netherite_warglaive"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.25d
+			y: 5.5d
+		}
+		{
+			dependencies: ["4F45C9FE93C0BB88"]
+			entity_vis_size: 1.0f
+			id: "57300BC26A3ACFCD"
+			size: 0.5d
+			tasks: [{
+				id: "6CDB870ACECBF935"
+				item: {
+					Count: 1
+					id: "epicfight:netherite_tachi"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 3.75d
+			y: -2.5d
+		}
+		{
+			dependencies: ["2418904E2B0831C3"]
+			entity_vis_size: 1.0f
+			id: "22B955220DFF6ACD"
+			size: 0.5d
+			tasks: [{
+				id: "7FCF6C1B0829EEDE"
+				item: {
+					Count: 1
+					id: "refm:netherite_rapier"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -4.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["179D224844D91BAE"]
+			entity_vis_size: 1.0f
+			id: "18D7E72D53AF258F"
+			size: 0.5d
+			tasks: [{
+				id: "2EA6E0B5B3DEED19"
+				item: {
+					Count: 1
+					id: "simplyswords:netherite_claymore"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -3.75d
+			y: 1.5d
+		}
+		{
+			dependencies: ["2137640DA9561585"]
+			entity_vis_size: 1.0f
+			id: "6116A1C1F22BEA79"
+			size: 0.5d
+			tasks: [{
+				id: "4FEC86F450556EE2"
+				item: {
+					Count: 1
+					id: "eugenes_guan_dao:netherite_guan_dao"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -0.25d
+			y: 1.0d
+		}
+		{
+			dependencies: ["35756787D1EDAFC5"]
+			entity_vis_size: 1.0f
+			id: "2052E78B3996227E"
+			size: 0.5d
+			tasks: [{
+				id: "7E549E46914E0047"
+				item: {
+					Count: 1
+					id: "simplyswords:netherite_twinblade"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.25d
+			y: 4.5d
+		}
+		{
+			dependencies: ["1A8A000A5AA2009C"]
+			entity_vis_size: 1.0f
+			id: "35FB38207C40698C"
+			size: 0.5d
+			tasks: [{
+				id: "6C68EEF792A6DA7E"
+				item: {
+					Count: 1
+					id: "epicfight:netherite_dagger"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 3.75d
+			y: 1.0d
+		}
+		{
+			dependencies: ["78F44A35F404F001"]
+			entity_vis_size: 1.0f
+			id: "6F1E39C686D75009"
+			size: 0.5d
+			tasks: [{
+				id: "0D41DCF3CEFEAE10"
+				item: {
+					Count: 1
+					id: "simplyswords:netherite_greataxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 4.5d
+			y: 5.5d
+		}
+		{
+			dependencies: ["2D05B8FA4B1613CA"]
+			description: ["Chương sáng tạo của Chúa"]
+			entity_vis_size: 1.0f
+			id: "0CB7451A47BEFC29"
+			shape: "diamond"
+			size: 0.7d
+			tasks: [{
+				id: "45A55D4DE12AAD22"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "celestisynth:solaris"
+					tag: {
+						Damage: 0
+						csController: { }
+					}
+				}
+				type: "item"
+			}]
+			x: -2.1d
+			y: -2.4499999999999997d
+		}
+		{
+			dependencies: ["3E5B9502F6A51252"]
+			description: ["Chương sáng tạo của Chúa"]
+			entity_vis_size: 1.0f
+			id: "68E666750C583E81"
+			shape: "diamond"
+			size: 0.7d
+			tasks: [{
+				id: "56D8F0E10D68B4C4"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "celestisynth:keres"
+					tag: {
+						Damage: 0
+						csController: {
+							cs.keresStack: 0
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: 1.75d
+			y: 0.0d
+		}
+		{
+			dependencies: ["67B705EC5FB88F92"]
+			description: ["Chương sáng tạo của Chúa"]
+			entity_vis_size: 1.0f
+			id: "582C4B8EB6151CEA"
+			shape: "diamond"
+			size: 0.7d
+			tasks: [{
+				id: "7072A3319E4CE569"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "celestisynth:crescentia"
+					tag: {
+						Damage: 0
+						csController: { }
+					}
+				}
+				type: "item"
+			}]
+			x: 1.05d
+			y: 6.6499999999999995d
+		}
+		{
+			dependencies: ["58933CFA0EE567FD"]
+			description: ["Chương sáng tạo của Chúa"]
+			entity_vis_size: 1.0f
+			id: "35C46E87F86F346F"
+			shape: "diamond"
+			size: 0.7d
+			tasks: [{
+				id: "17F1FE0945D3B312"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "celestisynth:breezebreaker"
+					tag: {
+						Damage: 0
+						csController: { }
+						csExtras: { }
+					}
+				}
+				type: "item"
+			}]
+			x: 5.95d
+			y: -2.4499999999999997d
+		}
+		{
+			dependencies: ["78F44A35F404F001"]
+			description: ["Chương sáng tạo của Chúa"]
+			entity_vis_size: 1.0f
+			id: "1D28093FC8F6587C"
+			shape: "diamond"
+			size: 0.7d
+			tasks: [{
+				id: "042B00BD289F03F6"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "celestisynth:poltergeist"
+					tag: {
+						Damage: 0
+						csController: { }
+						csExtras: { }
+					}
+				}
+				type: "item"
+			}]
+			x: 4.55d
+			y: 6.6499999999999995d
+		}
+		{
+			dependencies: ["52CDA989110C7A04"]
+			description: ["Chương sáng tạo của Chúa"]
+			entity_vis_size: 1.0f
+			id: "4F12CA474E56C32B"
+			shape: "diamond"
+			size: 0.7d
+			tasks: [{
+				id: "319E40C777943FDC"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "celestisynth:aquaflora"
+					tag: {
+						Damage: 0
+						csController: { }
+					}
+				}
+				type: "item"
+			}]
+			x: 5.6d
+			y: 0.35d
+		}
+		{
+			dependencies: ["21AFFE7D2DFEB7B1"]
+			description: ["Chương sáng tạo của Chúa"]
+			entity_vis_size: 1.0f
+			id: "660EB374DB655746"
+			shape: "diamond"
+			size: 0.7d
+			tasks: [{
+				id: "1730ACF12CE98C58"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "celestisynth:frostbound"
+					tag: {
+						Damage: 0
+						csController: { }
+					}
+				}
+				type: "item"
+			}]
+			x: 4.8999999999999995d
+			y: -0.7d
+		}
+		{
+			dependencies: ["67B705EC5FB88F92"]
+			description: [
+				"[Vũ khí thần kỳ]"
+				"Để được giới thiệu về việc phát hành kỹ năng, bạn có thể xem các nhiệm vụ"
+				"{ \"text\": \"change_page\", \"value\": \"7E50FBC6CA96EF47\" } }"
+				""
+				"&b xi lanh quá khổ&r"
+				"Có thể tìm thấy trong loot box"
+				"Cấu trúc: Di tích pháo đài"
+			]
+			entity_vis_size: 1.0f
+			id: "44C7DF4AE60036FE"
+			shape: "pentagon"
+			size: 0.5d
+			tasks: [{
+				id: "63C52976F7ECDC2A"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "wom:napoleon"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.75d
+			y: 6.25d
+		}
+		{
+			dependencies: ["4F45C9FE93C0BB88"]
+			entity_vis_size: 1.0f
+			id: "4A68B19BA4FEB8CA"
+			size: 0.5d
+			tasks: [{
+				id: "7B60F73C6D6FF409"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "efn:sword_of_pioneer"
+				}
+				type: "item"
+			}]
+			x: 4.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["4A68B19BA4FEB8CA"]
+			entity_vis_size: 1.0f
+			id: "2CC9CB0CFC70EF2F"
+			size: 0.5d
+			tasks: [{
+				id: "34A2F5716BF45860"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "epicfight:uchigatana"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 5.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["2578A2845B436208"]
+			description: [
+				"Nhấn &b [shift] &r trên vật phẩm để xem mô tả kỹ năng"
+				"&7 chìa khóa không thể phá hủy-khóa kỹ năng đặc biệt 1&r"
+				"&7 mặc định là nút chuột số 4, là một trong các nút chuột bên cạnh. Nó có thể được thay đổi thành &r trong cài đặt nút."
+			]
+			entity_vis_size: 1.0f
+			id: "7D69822F4DC6C851"
+			shape: "gear"
+			size: 0.6d
+			tasks: [{
+				id: "18D0F1938D68F8E0"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "efn:air_tachi"
+				}
+				type: "item"
+			}]
+			x: 5.3999999999999995d
+			y: -3.0d
+		}
+		{
+			dependencies: ["2CC9CB0CFC70EF2F"]
+			description: [
+				"Nhấn &b [shift] &r trên vật phẩm để xem mô tả kỹ năng"
+				"&7 là đòn tấn công nhấp chuột trái thông thường và S là &n [Nút không thể phá hủy-Khóa kỹ năng đặc biệt 1]"
+				"&7 mặc định là nút chuột số 4, là một trong các nút chuột bên cạnh. Nó có thể được thay đổi thành &r trong cài đặt nút."
+			]
+			entity_vis_size: 1.0f
+			id: "222190380F1874D5"
+			shape: "gear"
+			size: 0.6d
+			tasks: [{
+				id: "571B8BB7B41FCBDA"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "efn:yamato_dmc4_in_sheath"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 6.0d
+			y: -3.9d
+		}
+		{
+			dependencies: ["38BD18D8E86CB245"]
+			description: [
+				"Nhấn &b [shift] &r trên vật phẩm để xem mô tả kỹ năng"
+				"&7 chìa khóa không thể phá hủy-khóa kỹ năng đặc biệt 1&r"
+				"&7 mặc định là nút chuột số 4, là một trong các nút chuột bên cạnh. Nó có thể được thay đổi thành &r trong cài đặt nút."
+			]
+			entity_vis_size: 1.0f
+			id: "23DD66507FCB7C3E"
+			shape: "gear"
+			size: 0.6d
+			tasks: [{
+				id: "63FF5DB6888A213E"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "efn:ruinsgreatsword"
+				}
+				type: "item"
+			}]
+			x: -3.5999999999999996d
+			y: 4.2d
+		}
+		{
+			dependencies: ["227F212EB26BE4E4"]
+			description: [
+				"Nhấn &b [shift] &r trên vật phẩm để xem mô tả kỹ năng"
+				"&7 chìa khóa không thể phá hủy-khóa kỹ năng đặc biệt 1&r"
+				"&7 mặc định là nút chuột số 4, là một trong các nút chuột bên cạnh. Nó có thể được thay đổi thành &r trong cài đặt nút."
+			]
+			entity_vis_size: 1.0f
+			id: "4F0198B4C6611DA5"
+			shape: "gear"
+			size: 0.6d
+			tasks: [{
+				id: "7146D8BFBB6C2453"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "efn:meen_spear"
+				}
+				type: "item"
+			}]
+			x: 1.2d
+			y: -1.5d
+		}
+		{
+			dependencies: ["35FB38207C40698C"]
+			description: [
+				"Nhấn &b [shift] &r trên vật phẩm để xem mô tả kỹ năng"
+				"&7 chìa khóa không thể phá hủy-khóa kỹ năng đặc biệt 1&r"
+				"&7 mặc định là nút chuột số 4, là một trong các nút chuột bên cạnh. Nó có thể được thay đổi thành &r trong cài đặt nút."
+			]
+			entity_vis_size: 1.0f
+			id: "5F959019752F59BB"
+			shape: "gear"
+			size: 0.6d
+			tasks: [{
+				id: "763E382010A781C0"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "efn:nf_dual_sword"
+				}
+				type: "item"
+			}]
+			x: 4.2d
+			y: 2.1d
+		}
+		{
+			dependencies: ["35FB38207C40698C"]
+			description: [
+				"Nhấn &b [shift] &r trên vật phẩm để xem mô tả kỹ năng"
+				"&7 chìa khóa không thể phá hủy-khóa kỹ năng đặc biệt 1&r"
+				"&7 mặc định là nút chuột số 4, là một trong các nút chuột bên cạnh. Nó có thể được thay đổi thành &r trong cài đặt nút."
+			]
+			entity_vis_size: 1.0f
+			id: "70E6687BFA65718B"
+			shape: "gear"
+			size: 0.6d
+			tasks: [{
+				id: "6BE3A504C1A84EBF"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "efn:nf_claw"
+				}
+				type: "item"
+			}]
+			x: 4.2d
+			y: 0.3d
+		}
+		{
+			dependencies: ["227F212EB26BE4E4"]
+			entity_vis_size: 1.0f
+			id: "66F93A387D6B0130"
+			size: 0.5d
+			tasks: [{
+				id: "629518A0CB8F7FCB"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "cataclysm:astrape"
+					tag: {
+						IMFgem: "bolt"
+					}
+				}
+				type: "item"
+			}]
+			x: 1.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["227F212EB26BE4E4"]
+			entity_vis_size: 1.0f
+			id: "24E37AEEDF707215"
+			size: 0.5d
+			tasks: [{
+				id: "60077E8FEBCC8BDD"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "cataclysm:ancient_spear"
+					tag: {
+						Damage: 0
+						IMFgem: "sand"
+					}
+				}
+				type: "item"
+			}]
+			x: 1.0d
+			y: -3.75d
+		}
+		{
+			dependencies: ["37955D173B2BAF43"]
+			entity_vis_size: 1.0f
+			id: "2333983032D6D660"
+			size: 0.5d
+			tasks: [{
+				id: "70BF1034F418AA04"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "cataclysm:soul_render"
+					tag: {
+						IMFgem: "soul"
+					}
+				}
+				type: "item"
+			}]
+			x: 1.25d
+			y: 2.5d
+		}
+		{
+			dependencies: ["22B955220DFF6ACD"]
+			entity_vis_size: 1.0f
+			id: "03D8C255F724D128"
+			size: 0.5d
+			tasks: [{
+				id: "34C77ED4293AD6BB"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "refm:oceanite_rapier"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -3.75d
+			y: -0.25d
+		}
+		{
+			dependencies: ["22B955220DFF6ACD"]
+			entity_vis_size: 1.0f
+			id: "3FFCE8E54C785153"
+			size: 0.5d
+			tasks: [{
+				id: "6A3592E155F9A8E3"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "refm:witherite_rapier"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -3.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["35FB38207C40698C"]
+			description: [
+				"Sau khi sử dụng vũ khí kép"
+				"Nhấn shift trên vũ khí để xem giới thiệu chi tiết về combo"
+			]
+			entity_vis_size: 1.0f
+			id: "0248D3A5AA6AC802"
+			shape: "hexagon"
+			size: 0.5d
+			tasks: [{
+				id: "19B714B619871110"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "epicfight_awaken:darknight_pursuiters"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 4.75d
+			y: 0.5d
+		}
+	]
+	title: "Cây sinh sản vũ khí"
+}

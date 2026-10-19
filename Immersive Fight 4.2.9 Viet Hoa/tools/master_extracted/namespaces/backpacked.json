@@ -1,0 +1,417 @@
+{
+  "item.backpacked.backpack": {
+    "en": "Backpack",
+    "zh": "背包",
+    "vi": "Backpack"
+  },
+  "block.backpacked.oak_backpack_shelf": {
+    "en": "Oak Backpack Shelf",
+    "zh": "橡木背包架",
+    "vi": "Oak Backpack Shelf"
+  },
+  "block.backpacked.spruce_backpack_shelf": {
+    "en": "Spruce Backpack Shelf",
+    "zh": "云杉木背包架",
+    "vi": "Spruce Backpack Shelf"
+  },
+  "block.backpacked.birch_backpack_shelf": {
+    "en": "Birch Backpack Shelf",
+    "zh": "白桦木背包架",
+    "vi": "Birch Backpack Shelf"
+  },
+  "block.backpacked.jungle_backpack_shelf": {
+    "en": "Jungle Backpack Shelf",
+    "zh": "丛林木背包架",
+    "vi": "Jungle Backpack Shelf"
+  },
+  "block.backpacked.dark_oak_backpack_shelf": {
+    "en": "Dark Oak Backpack Shelf",
+    "zh": "深色橡木背包架",
+    "vi": "Dark Oak Backpack Shelf"
+  },
+  "block.backpacked.acacia_backpack_shelf": {
+    "en": "Acacia Backpack Shelf",
+    "zh": "金合欢木背包架",
+    "vi": "Acacia Backpack Shelf"
+  },
+  "block.backpacked.crimson_backpack_shelf": {
+    "en": "Crimson Backpack Shelf",
+    "zh": "绯红菌背包架",
+    "vi": "Crimson Backpack Shelf"
+  },
+  "block.backpacked.warped_backpack_shelf": {
+    "en": "Warped Backpack Shelf",
+    "zh": "诡异菌背包架",
+    "vi": "Warped Backpack Shelf"
+  },
+  "key.backpack": {
+    "en": "Open Backpack",
+    "zh": "打开背包",
+    "vi": "ba lô mở"
+  },
+  "container.backpack": {
+    "en": "Backpack",
+    "zh": "背包",
+    "vi": "Balo"
+  },
+  "backpacked.configgui.keepBackpackOnDeath": {
+    "en": "Keep Backpack on Death",
+    "zh": "死亡时保留背包",
+    "vi": "Giữ ba lô khi chết"
+  },
+  "backpacked.configgui.backpackInventorySizeColumns": {
+    "en": "Backpack Inventory Columns",
+    "zh": "背包物品栏列数",
+    "vi": "Số cột kiểm kê ba lô"
+  },
+  "backpacked.configgui.backpackInventorySizeRows": {
+    "en": "Backpack Inventory Rows",
+    "zh": "背包物品栏行数",
+    "vi": "Số hàng trong kho ba lô"
+  },
+  "curios.identifier.backpacked": {
+    "en": "Backpacked",
+    "zh": "Backpacked",
+    "vi": "Backpacked"
+  },
+  "button.categories.backpacked": {
+    "en": "Backpacked",
+    "zh": "Backpacked",
+    "vi": "Backpacked"
+  },
+  "backpacked.gui.locked": {
+    "en": "Locked",
+    "zh": "锁定",
+    "vi": "khóa"
+  },
+  "backpacked.toast.unlocked_backpack": {
+    "en": "Unlocked Backpack",
+    "zh": "已解锁背包",
+    "vi": "Đã mở khóa ba lô"
+  },
+  "backpacked.button.open_backpack": {
+    "en": "Open Backpack",
+    "zh": "打开背包",
+    "vi": "ba lô mở"
+  },
+  "backpacked.button.reset": {
+    "en": "Reset",
+    "zh": "重置",
+    "vi": "cài lại"
+  },
+  "backpacked.button.save": {
+    "en": "Save",
+    "zh": "保存",
+    "vi": "cứu"
+  },
+  "backpacked.button.customise.tooltip": {
+    "en": "Customize",
+    "zh": "自定义",
+    "vi": "Tùy chỉnh"
+  },
+  "backpacked.button.config.tooltip": {
+    "en": "Config Options",
+    "zh": "配置选项",
+    "vi": "Tùy chọn cấu hình"
+  },
+  "backpacked.button.show_effects.tooltip": {
+    "en": "Show Effects",
+    "zh": "显示效果",
+    "vi": "Hiệu ứng hiển thị"
+  },
+  "backpacked.button.show_with_elytra.tooltip": {
+    "en": "Show with Elytra",
+    "zh": "同时显示鞘翅",
+    "vi": "Cũng hiển thị elytra"
+  },
+  "backpacked.button.show_enchantment_glint.tooltip": {
+    "en": "Show Enchantment Glint",
+    "zh": "显示附魔光效",
+    "vi": "Hiển thị hiệu ứng ánh sáng mê hoặc"
+  },
+  "backpacked.title.customise_backpack": {
+    "en": "Customize Backpack",
+    "zh": "自定义背包",
+    "vi": "ba lô tùy chỉnh"
+  },
+  "message.backpacked.player_opened": {
+    "en": "A player has opened your backpack",
+    "zh": "一位玩家打开了你的背包",
+    "vi": "Một người chơi đã mở ba lô của bạn"
+  },
+  "backpacked.backpack.standard": {
+    "en": "Standard",
+    "zh": "标准",
+    "vi": "tiêu chuẩn"
+  },
+  "backpacked.backpack.classic": {
+    "en": "Classic",
+    "zh": "经典",
+    "vi": "cổ điển"
+  },
+  "backpacked.backpack.bamboo_basket": {
+    "en": "Bamboo Basket",
+    "zh": "竹篮",
+    "vi": "giỏ tre"
+  },
+  "backpacked.backpack.bamboo_basket.unlock": {
+    "en": "Feed Bamboo to 10 different Pandas to unlock this backpack",
+    "zh": "喂竹子给10只不同的熊猫来解锁这个背包",
+    "vi": "Cho 10 chú gấu trúc khác nhau ăn tre để mở khóa chiếc ba lô này"
+  },
+  "backpacked.backpack.rocket": {
+    "en": "Rocket",
+    "zh": "火箭",
+    "vi": "Tên lửa"
+  },
+  "backpacked.backpack.rocket.unlock": {
+    "en": "Fly over 50km with an Elytra to unlock this backpack",
+    "zh": "用鞘翅飞行50km来解锁这个背包",
+    "vi": "Sử dụng elytra để bay 50km để mở khóa chiếc ba lô này"
+  },
+  "backpacked.backpack.mini_chest": {
+    "en": "Mini Chest",
+    "zh": "迷你箱子",
+    "vi": "hộp nhỏ"
+  },
+  "backpacked.backpack.mini_chest.unlock": {
+    "en": "Find 5 unopened Buried Treasure Chests to unlock this backpack",
+    "zh": "找到5个未开封的埋藏的宝箱来解锁这个背包",
+    "vi": "Tìm 5 rương kho báu bị chôn giấu chưa mở để mở khóa chiếc ba lô này"
+  },
+  "backpacked.backpack.trash_can": {
+    "en": "Trash Can",
+    "zh": "垃圾箱",
+    "vi": "thùng rác"
+  },
+  "backpacked.backpack.trash_can.unlock": {
+    "en": "Recycle food and plants in a Composter 100 times to unlock this backpack",
+    "zh": "使用堆肥桶回收食物和植物100次来解锁这个背包",
+    "vi": "Sử dụng thùng ủ phân để tái chế thực phẩm và thực vật 100 lần để mở khóa chiếc ba lô này"
+  },
+  "backpacked.backpack.honey_jar": {
+    "en": "Honey Jar",
+    "zh": "蜂蜜罐",
+    "vi": "hũ mật ong"
+  },
+  "backpacked.backpack.honey_jar.unlock": {
+    "en": "Gather 20 Honey Bottles to unlock this backpack",
+    "zh": "收集20个蜂蜜瓶来解锁这个背包",
+    "vi": "Thu thập 20 chai mật ong để mở khóa chiếc ba lô này"
+  },
+  "backpacked.backpack.turtle_shell": {
+    "en": "Turtle Shell",
+    "zh": "海龟壳",
+    "vi": "mai rùa"
+  },
+  "backpacked.backpack.turtle_shell.unlock": {
+    "en": "Breed Turtles 20 times to unlock this backpack",
+    "zh": "繁育海龟20次来解锁这个背包",
+    "vi": "Nuôi rùa 20 lần để mở khóa chiếc ba lô này"
+  },
+  "backpacked.backpack.cardboard_box": {
+    "en": "Cardboard Box",
+    "zh": "纸板箱",
+    "vi": "hộp các tông"
+  },
+  "backpacked.backpack.cardboard_box.unlock": {
+    "en": "Chop 1000 Logs to unlock this backpack",
+    "zh": "砍伐1000块原木来解锁这个背包",
+    "vi": "Chặt 1000 khúc gỗ để mở khóa chiếc ba lô này"
+  },
+  "backpacked.backpack.sheep_plush": {
+    "en": "Sheep Plush",
+    "zh": "绵羊毛绒玩具",
+    "vi": "Đồ chơi nhồi bông cừu"
+  },
+  "backpacked.backpack.sheep_plush.unlock": {
+    "en": "Shear 250 Sheep to unlock this backpack",
+    "zh": "剪羊毛250次来解锁这个背包",
+    "vi": "Xén lông cừu 250 lần để mở khóa chiếc ba lô này"
+  },
+  "backpacked.backpack.wandering_bag.unlock": {
+    "en": "Pickpocket 2 different Wandering Traders backpacks to unlock this backpack",
+    "zh": "偷窃2个不同的流浪商人的背包来解锁这个背包",
+    "vi": "Trộm ba lô của 2 thương nhân lang thang khác nhau để mở khóa chiếc ba lô này"
+  },
+  "backpacked.backpack.piglin_pack": {
+    "en": "Piglin Pack",
+    "zh": "猪灵背包",
+    "vi": "Ba lô lợn"
+  },
+  "backpacked.backpack.piglin_pack.unlock": {
+    "en": "Explore all biomes in The Nether to unlock this backpack",
+    "zh": "探索所有下界中的生物群系来解锁这个背包",
+    "vi": "Khám phá tất cả các quần xã ở Nether để mở khóa chiếc ba lô này"
+  },
+  "backpacked.backpack.end_crystal": {
+    "en": "End Crystal",
+    "zh": "末影水晶",
+    "vi": "Pha lê cuối"
+  },
+  "backpacked.backpack.end_crystal.unlock": {
+    "en": "Kill the Ender Dragon to unlock this backpack",
+    "zh": "击杀末影龙来解锁这个背包",
+    "vi": "Tiêu diệt Ender Dragon để mở khóa chiếc ba lô này"
+  },
+  "backpacked.backpack.cogwheel": {
+    "en": "Cogwheel",
+    "zh": "齿轮",
+    "vi": "bánh răng"
+  },
+  "backpacked.backpack.cogwheel.unlock": {
+    "en": "Craft 30 Unique Items from Create to unlock this backpack",
+    "zh": "合成30种来自机械动力的独特物品来解锁这个背包",
+    "vi": "Tổng hợp 30 vật phẩm độc đáo từ sức mạnh cơ khí để mở khóa chiếc ba lô này"
+  },
+  "backpacked.chat.install_configured": {
+    "en": "Install %s to access config options",
+    "zh": "安装 %s 来访问配置选项",
+    "vi": "Cài đặt %s để truy cập các tùy chọn cấu hình"
+  },
+  "backpacked.chat.open_curseforge_page": {
+    "en": "Open CurseForge Page",
+    "zh": "打开 CurseForge 页面",
+    "vi": "Mở trang CurseForge"
+  },
+  "backpacked.formatter.collected_x_of_x": {
+    "en": "Collected %s / %s",
+    "zh": "已收集 %s / %s",
+    "vi": "Đã thu thập %s / %s"
+  },
+  "backpacked.formatter.fed_x_of_x": {
+    "en": "Fed %s / %s",
+    "zh": "已喂食 %s / %s",
+    "vi": "Đã cho ăn %s / %s"
+  },
+  "backpacked.formatter.found_x_of_x": {
+    "en": "Found %s / %s",
+    "zh": "已找到 %s / %s",
+    "vi": "Đã tìm thấy %s / %s"
+  },
+  "backpacked.formatter.int_percent": {
+    "en": "Completed %s%s",
+    "zh": "已完成 %s%s",
+    "vi": "Đã hoàn thành %s%s"
+  },
+  "backpacked.formatter.used_x_times": {
+    "en": "Used %s Times",
+    "zh": "已使用 %s 次",
+    "vi": "Đã sử dụng số lần %s"
+  },
+  "backpacked.formatter.bred_x_of_x": {
+    "en": "Bred %s / %s",
+    "zh": "已繁育 %s / %s",
+    "vi": "Được nhân giống %s / %s"
+  },
+  "backpacked.formatter.cut_x_of_x": {
+    "en": "Cut %s / %s",
+    "zh": "已砍伐 %s / %s",
+    "vi": "Đã chặt %s / %s"
+  },
+  "backpacked.formatter.shear_x_sheep": {
+    "en": "Sheared %s / %s",
+    "zh": "已修剪 %s / %s",
+    "vi": "Đã cắt %s / %s"
+  },
+  "backpacked.formatter.craft_x_of_x": {
+    "en": "Crafted %s / %s",
+    "zh": "已合成 %s / %s",
+    "vi": "Tổng hợp %s / %s"
+  },
+  "backpacked.formatter.pickpocketed_x_of_x": {
+    "en": "Pickpocketed %s / %s",
+    "zh": "已偷窃 %s / %s",
+    "vi": "Bị đánh cắp %s / %s"
+  },
+  "backpacked.formatter.explored_x_of_x": {
+    "en": "Explored %s / %s",
+    "zh": "已探索 %s / %s",
+    "vi": "Đã khám phá %s / %s"
+  },
+  "backpacked.formatter.incomplete": {
+    "en": "Incomplete",
+    "zh": "未完成",
+    "vi": "Chưa hoàn thành"
+  },
+  "backpacked.formatter.complete": {
+    "en": "Complete",
+    "zh": "已完成",
+    "vi": "Hoàn thành"
+  },
+  "backpacked.tooltip.remove_items": {
+    "en": "You must empty the backpack before you can remove it or you can instead place it on a shelf",
+    "zh": "背包必须是空的才能移除",
+    "vi": "Ba lô phải trống để tháo"
+  },
+  "itemGroup.backpacked": {
+    "en": "Backpacked",
+    "zh": "背包",
+    "vi": "Balo"
+  },
+  "enchantment.backpacked.funnelling": {
+    "en": "Funnelling",
+    "zh": "汇集",
+    "vi": "bộ sưu tập"
+  },
+  "enchantment.backpacked.funnelling.desc": {
+    "en": "Funnels drops from mining or harvesting certain resources directly into a Backpack",
+    "zh": "你采集的矿物将直接被放入背包中",
+    "vi": "Khoáng sản bạn thu thập sẽ được đặt trực tiếp vào ba lô của bạn"
+  },
+  "enchantment.backpacked.repairman": {
+    "en": "Repairman",
+    "zh": "维修工",
+    "vi": "Nhân viên bảo trì"
+  },
+  "enchantment.backpacked.repairman.desc": {
+    "en": "Repairs all items with Mending in a Backpack when collecting experience",
+    "zh": "当收集到经验时，维修背包内所有附有经验修补的物品",
+    "vi": "Khi kinh nghiệm được thu thập, hãy sửa chữa tất cả các vật phẩm trong ba lô có gắn miếng vá kinh nghiệm."
+  },
+  "enchantment.backpacked.looted": {
+    "en": "Looted",
+    "zh": "搜刮",
+    "vi": "cướp bóc"
+  },
+  "enchantment.backpacked.looted.desc": {
+    "en": "Loot dropped from killing a mob is placed directly into a Backpack",
+    "zh": "杀死怪物掉落的战利品将直接被放入背包中",
+    "vi": "Chiến lợi phẩm rơi ra khi tiêu diệt quái vật sẽ được bỏ thẳng vào ba lô."
+  },
+  "enchantment.backpacked.imbued_hide": {
+    "en": "Imbued Hide",
+    "zh": "灌输之皮",
+    "vi": "Da truyền"
+  },
+  "enchantment.backpacked.imbued_hide.desc": {
+    "en": "Strengthens the material of a Backpack to prevent it from fire damage",
+    "zh": "强化背包的材料来让它免受火焰伤害",
+    "vi": "Gia cố chất liệu của ba lô để bảo vệ nó khỏi bị hư hại do hỏa hoạn"
+  },
+  "enchantment.backpacked.marksman": {
+    "en": "Marksman",
+    "zh": "神射手",
+    "vi": "xạ thủ"
+  },
+  "enchantment.backpacked.marksman.desc": {
+    "en": "Allows bows to retrieve arrows from a Backpack. This will also work with other shootable items and their respective projectile.",
+    "zh": "允许弓使用背包内的箭。这也可以适用于其他的远程武器和它们各自的弹射物。",
+    "vi": "Cho phép cung sử dụng mũi tên từ ba lô. Điều này cũng có thể được áp dụng cho các loại vũ khí tầm xa khác và đạn tương ứng của chúng."
+  },
+  "block.backpacked.cherry_backpack_shelf": {
+    "en": "Cherry Backpack Shelf",
+    "zh": null,
+    "vi": null
+  },
+  "message.backpacked.occupied_back_slot": {
+    "en": "Back slot is occupied by another item",
+    "zh": null,
+    "vi": null
+  },
+  "backpacked.backpack.wandering_bag": {
+    "en": "Wandering Bag",
+    "zh": "流浪商人背包",
+    "vi": null
+  }
+}

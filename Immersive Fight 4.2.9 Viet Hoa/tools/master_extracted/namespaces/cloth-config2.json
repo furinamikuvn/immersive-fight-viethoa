@@ -1,0 +1,247 @@
+{
+  "text.cloth-config.save_and_done": {
+    "en": "Save & Quit",
+    "zh": "保存并退出",
+    "vi": "Lưu và thoát"
+  },
+  "text.cloth-config.apply": {
+    "en": "Apply Changes",
+    "zh": "应用更改",
+    "vi": "Áp dụng thay đổi"
+  },
+  "text.cloth-config.quit_config": {
+    "en": "Changes Not Saved",
+    "zh": "未保存更改",
+    "vi": "Những thay đổi chưa được lưu"
+  },
+  "text.cloth-config.quit_config_sure": {
+    "en": "Are you sure you want to quit editing the config? Changes will not be saved!",
+    "zh": "你确定要退出编辑配置吗？更改不会保存！",
+    "vi": "Bạn có chắc chắn muốn thoát khỏi cấu hình chỉnh sửa không? Những thay đổi sẽ không được lưu!"
+  },
+  "text.cloth-config.cancel_discard": {
+    "en": "Discard Changes",
+    "zh": "放弃更改",
+    "vi": "Hủy thay đổi"
+  },
+  "text.cloth-config.quit_discard": {
+    "en": "Quit & Discard Changes",
+    "zh": "退出并放弃更改",
+    "vi": "Thoát và loại bỏ các thay đổi"
+  },
+  "text.cloth-config.config": {
+    "en": "Config",
+    "zh": "配置",
+    "vi": "Cấu hình"
+  },
+  "text.cloth-config.multi_error": {
+    "en": "Multiple Issues!",
+    "zh": "多个问题！",
+    "vi": "Nhiều câu hỏi!"
+  },
+  "text.cloth-config.not_editable": {
+    "en": "Not Editable!",
+    "zh": "不可编辑！",
+    "vi": "Không thể chỉnh sửa được!"
+  },
+  "text.cloth-config.error.not_valid_number_int": {
+    "en": "Not a valid number! (Integer)",
+    "zh": "不是有效数字！（整数）",
+    "vi": "Không phải là số hợp lệ! (số nguyên)"
+  },
+  "text.cloth-config.error.not_valid_number_long": {
+    "en": "Not a valid number! (Long)",
+    "zh": "不是有效数字！（长整数）",
+    "vi": "Không phải là số hợp lệ! (số nguyên dài)"
+  },
+  "text.cloth-config.error.not_valid_number_float": {
+    "en": "Not a valid number! (Float)",
+    "zh": "不是有效数字！（浮点数）",
+    "vi": "Không phải là số hợp lệ! (số dấu phẩy động)"
+  },
+  "text.cloth-config.error.not_valid_number_double": {
+    "en": "Not a valid number! (Double)",
+    "zh": "不是有效数字！（双精度浮点数）",
+    "vi": "Không phải là số hợp lệ! (số dấu phẩy động có độ chính xác gấp đôi)"
+  },
+  "text.cloth-config.error.too_large": {
+    "en": "Too Large! (Maximum: %d)",
+    "zh": "太大了！（最大值：%d）",
+    "vi": "Quá lớn! (Giá trị tối đa: %d)"
+  },
+  "text.cloth-config.error.too_small": {
+    "en": "Too Small! (Minimum: %d)",
+    "zh": "太小了！（最小值：%d）",
+    "vi": "Quá nhỏ! (giá trị tối thiểu: %d)"
+  },
+  "text.cloth-config.error.color.no_alpha_allowed": {
+    "en": "No Alpha Allowed!",
+    "zh": "不允许有透明度！",
+    "vi": "Không được phép minh bạch!"
+  },
+  "text.cloth-config.error.color.invalid_alpha": {
+    "en": "Not a valid value! (Alpha)",
+    "zh": "不是有效数值！（透明度）",
+    "vi": "Không phải là một giá trị hợp lệ! (minh bạch)"
+  },
+  "text.cloth-config.error.color.invalid_red": {
+    "en": "Not a valid value! (Red)",
+    "zh": "不是有效数值！（红色）",
+    "vi": "Không phải là một giá trị hợp lệ! (màu đỏ)"
+  },
+  "text.cloth-config.error.color.invalid_green": {
+    "en": "Not a valid value! (Green)",
+    "zh": "不是有效数值！（绿色）",
+    "vi": "Không phải là một giá trị hợp lệ! (màu xanh lá)"
+  },
+  "text.cloth-config.error.color.invalid_blue": {
+    "en": "Not a valid value! (Blue)",
+    "zh": "不是有效数值！（蓝色）",
+    "vi": "Không phải là một giá trị hợp lệ! (màu xanh da trời)"
+  },
+  "text.cloth-config.error.color.invalid_color": {
+    "en": "Not a valid color!",
+    "zh": "不是有效颜色！",
+    "vi": "Không phải là màu hợp lệ!"
+  },
+  "text.cloth-config.error.color.no_hash": {
+    "en": "Not a valid color! (Missing #)",
+    "zh": "不是有效颜色！（缺少#）",
+    "vi": "Không phải là màu hợp lệ! (Thiếu#)"
+  },
+  "text.cloth-config.list.add": {
+    "en": "Insert New",
+    "zh": "插入新值",
+    "vi": "chèn giá trị mới"
+  },
+  "text.cloth-config.list.remove": {
+    "en": "Delete Selected",
+    "zh": "删除选定项",
+    "vi": "Xóa các mục đã chọn"
+  },
+  "text.cloth-config.error_cannot_save": {
+    "en": "Error!",
+    "zh": "错误！",
+    "vi": "sai lầm!"
+  },
+  "text.cloth-config.reset_value": {
+    "en": "Reset",
+    "zh": "重置",
+    "vi": "cài lại"
+  },
+  "text.cloth.reset_value": {
+    "en": "Reset",
+    "zh": "重置",
+    "vi": "cài lại"
+  },
+  "text.cloth-config.restart_required": {
+    "en": "Restart Required",
+    "zh": "需要重启",
+    "vi": "Cần khởi động lại"
+  },
+  "text.cloth-config.restart_required_sub": {
+    "en": "One of your modified settings requires Minecraft to be restarted. Do you want to proceed?",
+    "zh": "你修改的一个设置需要重启Minecraft。你想继续吗？",
+    "vi": "Cài đặt bạn đã thay đổi yêu cầu khởi động lại Minecraft. Bạn có muốn tiếp tục không?"
+  },
+  "text.cloth-config.exit_minecraft": {
+    "en": "Exit Minecraft",
+    "zh": "退出Minecraft",
+    "vi": "Thoát Minecraft"
+  },
+  "text.cloth-config.ignore_restart": {
+    "en": "Ignore Restart",
+    "zh": "忽略重启",
+    "vi": "Bỏ qua việc khởi động lại"
+  },
+  "text.cloth-config.boolean.value.true": {
+    "en": "§aYes",
+    "zh": "§a是",
+    "vi": "§a là"
+  },
+  "text.cloth-config.boolean.value.false": {
+    "en": "§cNo",
+    "zh": "§c否",
+    "vi": "§cKhông"
+  },
+  "text.cloth-config.dropdown.value.unknown": {
+    "en": "§cNo suggestions",
+    "zh": "§c忽略建议",
+    "vi": "§c bỏ qua đề xuất"
+  },
+  "modifier.cloth-config.alt": {
+    "en": "Alt + %s",
+    "zh": "Alt+%s",
+    "vi": "Alt+%s"
+  },
+  "modifier.cloth-config.ctrl": {
+    "en": "Ctrl + %s",
+    "zh": "Ctrl+%s",
+    "vi": "Ctrl+%s"
+  },
+  "modifier.cloth-config.shift": {
+    "en": "Shift + %s",
+    "zh": "Shift+%s",
+    "vi": "Shift+%s"
+  },
+  "title.cloth-config.config": {
+    "en": "Cloth Mod Config Config",
+    "zh": "Cloth Mod Config配置",
+    "vi": "Cấu hình mod vải"
+  },
+  "category.cloth-config.scrolling": {
+    "en": "Scrolling",
+    "zh": "滚动",
+    "vi": "cuộn"
+  },
+  "category.cloth-config.testing": {
+    "en": "Config Demo",
+    "zh": "配置预览",
+    "vi": "Xem trước cấu hình"
+  },
+  "option.cloth-config.scrollDuration": {
+    "en": "Scroll Duration",
+    "zh": "滚动持续时间",
+    "vi": "thời lượng cuộn"
+  },
+  "option.cloth-config.scrollStep": {
+    "en": "Scroll Step",
+    "zh": "滚动灵敏度",
+    "vi": "độ nhạy cuộn"
+  },
+  "option.cloth-config.bounceBackMultiplier": {
+    "en": "Bounce Multiplier",
+    "zh": "反弹倍数",
+    "vi": "phục hồi bội số"
+  },
+  "option.cloth-config.setDefaultSmoothScroll": {
+    "en": "Set Default Smooth Scroll",
+    "zh": "设置默认平滑滚动",
+    "vi": "Đặt mặc định cuộn mượt mà"
+  },
+  "option.cloth-config.disableSmoothScroll": {
+    "en": "Disable Smooth Scroll",
+    "zh": "禁用平滑滚动",
+    "vi": "Tắt tính năng cuộn mượt mà"
+  },
+  "text.cloth-config.testing.1": {
+    "en": "You are a mod developer and you want to use %1$s? Go on the %2$s to get started. You can also %3$s.",
+    "zh": "模组开发者，你想使用%1$s吗？可以点击%2$s开始。还可以%3$s。",
+    "vi": "Các modder, bạn có muốn sử dụng %1$s không? Bạn có thể nhấp vào %2$s để bắt đầu. Ngoài ra %3$s."
+  },
+  "text.cloth-config.testing.2": {
+    "en": "Cloth Config Wiki",
+    "zh": "Cloth Config Wiki",
+    "vi": "Cloth Config Wiki"
+  },
+  "text.cloth-config.testing.3": {
+    "en": "click here to open the Minecraft options file for no specific reason",
+    "zh": "点击这里打开Minecraft选项文件，没什么特别的原因",
+    "vi": "Nhấp vào đây để mở tệp tùy chọn Minecraft, không có lý do cụ thể"
+  },
+  "text.cloth-config.disabled_tooltip": {
+    "en": "Disabled (requirements not met)",
+    "zh": null,
+    "vi": null
+  }
+}

@@ -1,0 +1,228 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "0671C7202FFBA60F"
+	group: "4E6BE2D374D7AE03"
+	icon: {
+		Count: 1
+		ForgeCaps: {
+			"celestisynth:celestisynthitemstackcapabilities": {
+				cs.aquaSkin: 0
+			}
+		}
+		id: "graveyard:upper_bone_staff"
+	}
+	id: "0671C7202FFBA60F"
+	images: [{
+		click: "https://www.mcmod.cn/item/777374.html"
+		height: 1.0d
+		hover: ["thông tin BOSS"]
+		image: "ftbteams:textures/alian.png"
+		rotation: 0.0d
+		width: 1.0503597122302157d
+		x: 2.5d
+		y: 0.5d
+	}]
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			entity_vis_size: 1.0f
+			id: "42C21210D8BEFEEF"
+			tasks: [{
+				id: "3DCA685DDCA6DE54"
+				structure: "graveyard:ruins2"
+				title: "Tìm trại tàn tích [Nghĩa trang]"
+				type: "structure"
+			}]
+			x: -2.5d
+			y: 1.5d
+		}
+		{
+			entity_vis_size: 1.0f
+			id: "089DB7729347522D"
+			tasks: [{
+				id: "5639BE576971E200"
+				structure: "graveyard:ruins3"
+				title: "Tìm tàn tích của [Nghĩa trang]-Hố hiến tế máu"
+				type: "structure"
+			}]
+			x: -2.5d
+			y: 0.5d
+		}
+		{
+			description: [
+				"Vẫn còn bị chôn vùi với những mảnh xương trượng,"
+				"Nó được tạo ra trong quần xã rừng và được chia thành ba biến thể: tháp canh cũ, hố hiến tế máu và trại đổ nát."
+			]
+			entity_vis_size: 1.0f
+			id: "3C9840A9A4B66A7A"
+			tasks: [{
+				id: "4197BB3C31B30F7F"
+				structure: "graveyard:ruins"
+				title: "Tìm tàn tích của [Nghĩa trang]-Tháp canh gác"
+				type: "structure"
+			}]
+			x: -2.5d
+			y: -0.5d
+		}
+		{
+			description: [
+				"Khi bạn tìm thấy một dân làng bị treo cổ dưới gốc cây khổng lồ của người chết"
+				"Vào ban đêm, bạn có thể trao đổi tinh chất với anh ấy"
+			]
+			entity_vis_size: 1.0f
+			id: "1FCE04F92A672815"
+			tasks: [{
+				disable_toast: true
+				id: "023CEBAAD6AF5CEA"
+				item: "graveyard:corruption"
+				type: "item"
+			}]
+			x: -2.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["1FCE04F92A672815"]
+			entity_vis_size: 1.0f
+			id: "4C9FFB54285F5DEC"
+			tasks: [{
+				id: "1D618A19CA22CFA2"
+				structure: "graveyard:dead_tree"
+				title: "Tìm [Nghĩa trang] Cây treo cổ"
+				type: "structure"
+			}]
+			x: -1.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["3C9840A9A4B66A7A"]
+			description: ["Nằm trên nóc khu di tích (kiểu canh gác)"]
+			entity_vis_size: 1.0f
+			id: "2AB5AB0927F79E1A"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "5095F38F1BA3832B"
+				table_id: 7474746035066092266L
+				type: "random"
+			}]
+			shape: "rsquare"
+			tasks: [{
+				id: "0379BB5E56226F2C"
+				item: "graveyard:upper_bone_staff"
+				type: "item"
+			}]
+			x: -1.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["089DB7729347522D"]
+			description: ["Nằm trong đống đổ nát (kiểu địa điểm hiến tế)"]
+			entity_vis_size: 1.0f
+			id: "37C00736B1A3CC1E"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "320C04AA8CA0CEE6"
+				table_id: 7474746035066092266L
+				type: "random"
+			}]
+			shape: "rsquare"
+			tasks: [{
+				id: "2C07159145055AE5"
+				item: "graveyard:middle_bone_staff"
+				type: "item"
+			}]
+			x: -1.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["42C21210D8BEFEEF"]
+			description: ["Nằm trong đống đổ nát (kiểu trại)"]
+			entity_vis_size: 1.0f
+			id: "209C0EF3222A654D"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "15B02AE181DF9667"
+				table_id: 7474746035066092266L
+				type: "random"
+			}]
+			shape: "rsquare"
+			tasks: [{
+				id: "6A0656B4349179EA"
+				item: "graveyard:lower_bone_staff"
+				type: "item"
+			}]
+			x: -1.0d
+			y: 1.5d
+		}
+		{
+			dependencies: [
+				"2AB5AB0927F79E1A"
+				"209C0EF3222A654D"
+				"37C00736B1A3CC1E"
+				"43CC8817353C4FBB"
+			]
+			description: [
+				"Đến nhà tù Lịch"
+				"(Nằm ở độ cao hơn 200 khối, có thể không nhìn thấy được trong tầm nhìn)"
+				""
+				"Tâm đá nứt sâu trước bàn thờ"
+				"Đặt ba mảnh trượng xương theo thứ tự"
+				"Chuột phải vào bàn thờ có bình máu đầy để triệu hồi nó."
+				"(chỉ có thể triệu hồi vào ban đêm)"
+			]
+			entity_vis_size: 1.0f
+			id: "09533044DDCF5325"
+			shape: "diamond"
+			tasks: [{
+				id: "2007DBAE65A1558B"
+				structure: "graveyard:lich_prison"
+				title: "Tìm [Nghĩa Trang] Nhà tù Lịch"
+				type: "structure"
+			}]
+			title: "Đến [Nghĩa trang] Nhà tù Lịch"
+			x: 1.0d
+			y: 0.5d
+		}
+		{
+			description: ["Cầm chai thủy tinh trên tay thứ hai và dùng dao găm xương giết dân làng để lấy máu."]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "graveyard:vial_of_blood"
+				tag: {
+					Blood: 0.8000001f
+				}
+			}
+			id: "43CC8817353C4FBB"
+			tasks: [
+				{
+					id: "185DF8186A4315C7"
+					item: {
+						Count: 1
+						id: "graveyard:bone_dagger"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "2900A20ABF65928E"
+					item: {
+						Count: 1
+						id: "graveyard:vial_of_blood"
+						tag: {
+							Blood: 0.8000001f
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "chai máu"
+			x: 1.0d
+			y: -1.0d
+		}
+	]
+	title: "nghĩa trang"
+}

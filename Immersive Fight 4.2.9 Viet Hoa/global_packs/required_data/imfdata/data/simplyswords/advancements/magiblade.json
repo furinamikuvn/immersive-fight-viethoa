@@ -1,0 +1,28 @@
+{
+  "display": {
+    "icon": {
+      "item": "simplyswords:magiblade"
+    },
+    "title": "Công Nghệ Thất Truyền Cổ Đại",
+    "description": "Tìm thấy vũ khí độc nhất: Magiblade.",
+    "hidden": true,
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "simplyswords:decaying_relic",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "simplyswords:magiblade"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

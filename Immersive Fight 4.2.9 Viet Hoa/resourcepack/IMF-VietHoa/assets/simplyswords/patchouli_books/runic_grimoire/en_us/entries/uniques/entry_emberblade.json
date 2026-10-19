@@ -1,0 +1,17 @@
+{
+  "name": "Emberblade (Dư Hãn Chi Nhận)",
+  "icon": "simplyswords:emberblade",
+  "advancement": "simplyswords:emberblade",
+  "category": "simplyswords:category_unique_weapons",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:emberblade",
+      "text": "Emberblade là trường kiếm cường đại truyền ngọn lửa cuồng bạo. Rèn từ kim loại hiếm chịu nhiệt cực cao, bao bọc người dùng trong biển lửa, tăng sức mạnh và tốc độ, đồng thời có thể bắn đạn tro tàn tầm xa."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Thanh kiếm biết chọn chủ nhân xứng đáng. Nhưng nếu lạm dụng, ngọn lửa hung tàn sẽ thiêu rụi chính người dùng."
+    }
+  ]
+}
