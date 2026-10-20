@@ -81,5 +81,6 @@
   "enchantment.backpacked.marksman.desc": "Cho phép cung sử dụng mũi tên từ ba lô. Điều này cũng có thể được áp dụng cho các loại vũ khí tầm xa khác và đạn tương ứng của chúng.",
   "block.backpacked.cherry_backpack_shelf": "Cherry Backpack Shelf",
   "message.backpacked.occupied_back_slot": "Khe phía sau bị chiếm bởi một vật phẩm khác",
-  "backpacked.backpack.wandering_bag": "Ba lô thương nhân lang thang"
+  "backpacked.backpack.wandering_bag": "Ba lô thương nhân lang thang",
+  "item.minecraft.enchanted_book": "Sách Phù Phép"
 }

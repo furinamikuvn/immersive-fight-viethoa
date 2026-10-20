@@ -13,5 +13,6 @@
   "commands.gamestage.reloadfakes.info": "Tải lại giai đoạn trò chơi người chơi giả.",
   "commands.gamestage.reloadknown.info": "Các màn chơi đã biết %d đã được tải.",
   "commands.gamestage.all.target": "Bạn đã mở khóa tất cả các màn chơi đã biết!",
-  "commands.gamestage.all.sender": "%s đã mở khóa tất cả các màn chơi đã biết!"
+  "commands.gamestage.all.sender": "%s đã mở khóa tất cả các màn chơi đã biết!",
+  "item.minecraft.enchanted_book": "Sách Phù Phép"
 }

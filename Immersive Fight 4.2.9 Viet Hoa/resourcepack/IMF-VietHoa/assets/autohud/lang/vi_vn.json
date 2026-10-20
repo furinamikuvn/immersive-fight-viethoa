@@ -129,5 +129,6 @@
   "autohud.option.hidePersistentStatusEffects.@Tooltip": "Luôn ẩn biểu tượng hiệu ứng trạng thái để có các hiệu ứng trạng thái không đổi, chẳng hạn như khi đeo mai rùa.",
   "autohud.option.statusEffectTimer.@Tooltip": "Hiển thị thời gian còn lại của hiệu ứng trạng thái trên biểu tượng của chúng",
   "autohud.option.scoreboard.onTeamChange.@Tooltip": "Nếu đội là một phần trong điểm của người chơi, nó sẽ được cập nhật; mặt khác, bất kỳ nhóm nào cũng có thể được cập nhật nhưng vẫn không cung cấp được khả năng hiển thị thực tế.",
-  "autohud.requireYaclForConfigScreen": "To configure AutoHUD through ModMenu, please install YetAnotherConfigLib!"
+  "autohud.requireYaclForConfigScreen": "To configure AutoHUD through ModMenu, please install YetAnotherConfigLib!",
+  "item.minecraft.enchanted_book": "Sách Phù Phép"
 }

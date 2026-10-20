@@ -8,5 +8,6 @@
   "key.invincible.key2.description": "Thường được sử dụng để chặn, nhắm hoặc các hành động chiến đấu phụ",
   "key.invincible.key3.description": "Kích hoạt các kỹ năng đặc biệt hoặc phụ khi có sẵn",
   "key.invincible.key4.description": "Kích hoạt thêm các kỹ năng đặc biệt hoặc kỹ năng hỗ trợ nếu được cấu hình",
-  "commands.invincible.reload": "[Thư viện không thể phá hủy]: Kỹ năng đã được tải lại!"
+  "commands.invincible.reload": "[Thư viện không thể phá hủy]: Kỹ năng đã được tải lại!",
+  "item.minecraft.enchanted_book": "Sách Phù Phép"
 }

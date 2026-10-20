@@ -22,5 +22,6 @@
   "trashslot.hint.deletedWhileHidden": "Mục đã bị chuyển vào thùng rác!",
   "trashslot.hint.deletionDenied": "Mục không thể được chuyển vào thùng rác!",
   "trashslot.hint.locked": "Khe đựng rác đã bị khóa. Nhấn %s để mở khóa.",
-  "trashslot.hint.unlocked": "Khe cắm thùng rác đã được mở khóa. Nhấn %s để khóa nó."
+  "trashslot.hint.unlocked": "Khe cắm thùng rác đã được mở khóa. Nhấn %s để khóa nó.",
+  "item.minecraft.enchanted_book": "Sách Phù Phép"
 }

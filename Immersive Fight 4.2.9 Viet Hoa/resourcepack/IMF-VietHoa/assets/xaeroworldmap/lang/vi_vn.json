@@ -315,5 +315,6 @@
   "gui.xaero_box_map_distances": "Hiển thị khoảng cách đến vị trí hoặc phần tử bạn nhấp chuột phải. Đối với vị trí, khoảng cách hai chiều được hiển thị. Đối với các phần tử, chẳng hạn như điểm tham chiếu và người chơi được theo dõi, khoảng cách 3D được hiển thị nếu có.",
   "gui.xaero_auto_convert_wm_distances_km": "Chuyển đổi khoảng cách bản đồ sang km khi",
   "gui.xaero_auto_convert_wm_distances_km_never": "Không bao giờ",
-  "gui.xaero_wm_distance_precision": "Độ chính xác khoảng cách bản đồ"
+  "gui.xaero_wm_distance_precision": "Độ chính xác khoảng cách bản đồ",
+  "item.minecraft.enchanted_book": "Sách Phù Phép"
 }

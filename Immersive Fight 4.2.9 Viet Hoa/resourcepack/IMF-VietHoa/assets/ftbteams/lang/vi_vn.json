@@ -88,5 +88,6 @@
   "ftbteams.message.team_disbanded": "Đã cưỡng chế giải tán đội \"%s\" (%s)!",
   "ftbteams.accept": "Chấp Nhận ✔",
   "ftbteams.decline": "Từ Chối ✘",
-  "ftbteams.team_already_exists": "Tên đội quá ngắn! (phải >=3 ký tự)"
+  "ftbteams.team_already_exists": "Tên đội quá ngắn! (phải >=3 ký tự)",
+  "item.minecraft.enchanted_book": "Sách Phù Phép"
 }

@@ -11,5 +11,6 @@
   "damage_number:config.scale": "Phóng",
   "damage_number:config.opacity": "minh bạch",
   "damage_number:config.select_key": "Phần cần sửa đổi",
-  "damage_number:config.max_size": "số lượng tối đa"
+  "damage_number:config.max_size": "số lượng tối đa",
+  "item.minecraft.enchanted_book": "Sách Phù Phép"
 }

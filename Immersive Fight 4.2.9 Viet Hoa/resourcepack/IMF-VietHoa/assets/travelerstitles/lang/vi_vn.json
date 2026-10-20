@@ -233,5 +233,6 @@
   "text.autoconfig.travelerstitles-fabric-1_20.option.sound.dimensionVolume": "Âm lượng hiệu ứng âm thanh kích thước",
   "text.autoconfig.travelerstitles-fabric-1_20.option.sound.dimensionVolume.@Tooltip": "Âm lượng của âm thanh phát ra khi tiêu đề thứ nguyên hiển thị.",
   "text.autoconfig.travelerstitles-fabric-1_20.option.sound.dimensionPitch": "Chiều cao hiệu ứng âm thanh",
-  "text.autoconfig.travelerstitles-fabric-1_20.option.sound.dimensionPitch.@Tooltip": "Cao độ của âm thanh phát ra khi tiêu đề thứ nguyên hiển thị."
+  "text.autoconfig.travelerstitles-fabric-1_20.option.sound.dimensionPitch.@Tooltip": "Cao độ của âm thanh phát ra khi tiêu đề thứ nguyên hiển thị.",
+  "item.minecraft.enchanted_book": "Sách Phù Phép"
 }

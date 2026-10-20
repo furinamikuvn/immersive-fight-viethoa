@@ -5,5 +5,6 @@
   "gui.charmofundying.config.yOffset.description": "Độ lệch dọc để hiển thị vật tổ trên trình phát.",
   "gui.charmofundying.config.renderTotem.name": "Kết xuất vật tổ được trang bị",
   "gui.charmofundying.config.renderTotem.description": "Nếu được bật, sẽ hiển thị vật tổ được trang bị trên người chơi.",
-  "trinkets.slot.charm.charm": "Sự quyến rũ"
+  "trinkets.slot.charm.charm": "Sự quyến rũ",
+  "item.minecraft.enchanted_book": "Sách Phù Phép"
 }

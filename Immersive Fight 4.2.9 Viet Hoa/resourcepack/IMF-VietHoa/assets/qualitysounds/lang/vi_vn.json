@@ -120,5 +120,6 @@
   "text.autoconfig.qualitysounds.option.block_sounds.blockSoundsConfig.stone_bricksSounds": "Gạch đá",
   "text.autoconfig.qualitysounds.option.block_sounds.blockSoundsConfig.stone_bricksSounds.@Tooltip": "Stone Bricks bây giờ sẽ sử dụng nhóm âm thanh mới",
   "text.autoconfig.qualitysounds.option.block_sounds.blockSoundsConfig.terracottaSounds": "Đất nung và đá nền",
-  "text.autoconfig.qualitysounds.option.block_sounds.blockSoundsConfig.terracottaSounds.@Tooltip": "Terracotta và Bedrock giờ đây sẽ sử dụng nhóm âm thanh mới"
+  "text.autoconfig.qualitysounds.option.block_sounds.blockSoundsConfig.terracottaSounds.@Tooltip": "Terracotta và Bedrock giờ đây sẽ sử dụng nhóm âm thanh mới",
+  "item.minecraft.enchanted_book": "Sách Phù Phép"
 }

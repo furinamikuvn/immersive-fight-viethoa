@@ -113,5 +113,6 @@
   "tooltip.bclib.place_underwater_depth": "phút. độ sâu: %d",
   "tooltip.bclib.pottable_on": "Có thể uống được trên: %s",
   "warning.config.bclib.client.ui.forceBetterXPreset": "Rất có thể bạn sẽ muốn kích hoạt tùy chọn này.",
-  "title.screen.bclib.worldgen.custom_biome_source": "Sử dụng quần xã tùy chỉnh"
+  "title.screen.bclib.worldgen.custom_biome_source": "Sử dụng quần xã tùy chỉnh",
+  "item.minecraft.enchanted_book": "Sách Phù Phép"
 }

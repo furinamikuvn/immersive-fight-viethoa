@@ -188,5 +188,6 @@
   "acceleratedrendering.configuration.mods_compatibility.modernui_feature_status": "Cho phép tương thích giao diện người dùng hiện đại",
   "acceleratedrendering.configuration.mods_compatibility.modernui_feature_status.tooltip": "- TẮT: Vô hiệu hóa kết xuất được tăng tốc để tăng tốc kết xuất văn bản được điều khiển bởi công cụ văn bản hiện đại của giao diện người dùng hiện đại.\n- ĐÃ BẬT: Kết xuất được tăng tốc sẽ tăng tốc kết xuất văn bản được điều khiển bởi công cụ văn bản hiện đại của giao diện người dùng hiện đại.",
   "acceleratedrendering.configuration.mods_compatibility.button": "Cấu hình",
-  "acceleratedrendering.component.not_available": "Kết xuất tăng tốc đang chạy trong môi trường không được hỗ trợ, kết xuất tăng tốc sẽ không có hiệu lực."
+  "acceleratedrendering.component.not_available": "Kết xuất tăng tốc đang chạy trong môi trường không được hỗ trợ, kết xuất tăng tốc sẽ không có hiệu lực.",
+  "item.minecraft.enchanted_book": "Sách Phù Phép"
 }

@@ -16,5 +16,6 @@
   "gui.level_hp.hpexp.label_varintegerhplevel": "<VAR:integer:hplevel>",
   "gui.level_hp.hpexp.label_varintegerleveluphpexp": "<VAR:integer:leveluphpexp>",
   "message.idielost": "§a§l",
-  "message.igetexp": "§f Kinh nghiệm HP!"
+  "message.igetexp": "§f Kinh nghiệm HP!",
+  "item.minecraft.enchanted_book": "Sách Phù Phép"
 }

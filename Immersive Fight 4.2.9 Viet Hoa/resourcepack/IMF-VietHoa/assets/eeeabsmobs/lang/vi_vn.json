@@ -408,5 +408,6 @@
   "config.eeeabsmobs.notification_background_opacity": "Độ trong suốt của nền HUD",
   "config.eeeabsmobs.notification_text_max_width": "Chiều rộng tối đa của văn bản",
   "config.eeeabsmobs.notification_line_spacing": "khoảng cách dòng văn bản",
-  "config.eeeabsmobs.notification_hud_position_y": "Vị trí thẳng đứng của HUD"
+  "config.eeeabsmobs.notification_hud_position_y": "Vị trí thẳng đứng của HUD",
+  "item.minecraft.enchanted_book": "Sách Phù Phép"
 }

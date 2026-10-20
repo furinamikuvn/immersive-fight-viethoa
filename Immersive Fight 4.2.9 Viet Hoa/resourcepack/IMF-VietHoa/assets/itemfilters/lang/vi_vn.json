@@ -42,5 +42,6 @@
   "itemfilters.help_text.regex": "Biểu thức chính quy\n Khớp với ID mặt hàng\n► Ví dụ: \"^minecraft:\" khớp với tất cả các vật phẩm vani",
   "itemfilters.help_text.max_count": "Kích thước ngăn xếp tối đa\n► Cũng có thể bao gồm các toán tử quan hệ, ví dụ: \"<64\" hoặc \">=16\"",
   "itemfilters.help_text.damage": "Thiệt hại vật phẩm\n► Cũng có thể bao gồm các toán tử quan hệ, ví dụ: \"<10\" hoặc \">=5\"\n và tùy chọn theo tỷ lệ phần trăm, ví dụ: \">50%\"",
-  "item.itemfilters.missing": "Thiếu vật phẩm"
+  "item.itemfilters.missing": "Thiếu vật phẩm",
+  "item.minecraft.enchanted_book": "Sách Phù Phép"
 }

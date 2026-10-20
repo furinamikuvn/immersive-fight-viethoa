@@ -1,3 +1,4 @@
 {
-  "framework.gui.process_config_fail": "Không thể xử lý cấu hình từ máy chủ: %s"
+  "framework.gui.process_config_fail": "Không thể xử lý cấu hình từ máy chủ: %s",
+  "item.minecraft.enchanted_book": "Sách Phù Phép"
 }

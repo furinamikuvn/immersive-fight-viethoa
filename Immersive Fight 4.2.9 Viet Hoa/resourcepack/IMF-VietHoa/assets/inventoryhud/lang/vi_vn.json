@@ -86,5 +86,6 @@
   "inventoryhud.config.gui.arrowswithoutweapon.tt": "Hiển thị số lượng mũi tên ngay cả khi không có vũ khí trong tay",
   "inventoryhud.config.gui.potionlevels": "mức độ:",
   "inventoryhud.config.gui.potionlevels.tt.1": "Nếu HUD Thuốc 'đúng' sẽ hiển thị tất cả các cấp độ,",
-  "inventoryhud.config.gui.potionlevels.tt.2": "Đối với các hiệu ứng trên cấp chín, thay vì biểu tượng vô cực"
+  "inventoryhud.config.gui.potionlevels.tt.2": "Đối với các hiệu ứng trên cấp chín, thay vì biểu tượng vô cực",
+  "item.minecraft.enchanted_book": "Sách Phù Phép"
 }

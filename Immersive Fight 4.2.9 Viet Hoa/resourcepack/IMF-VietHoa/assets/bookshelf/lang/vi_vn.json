@@ -30,5 +30,6 @@
   "commands.bookshelf.loot_tables": "Đã tìm thấy %d thiếu bảng chiến lợi phẩm cho %s.",
   "commands.bookshelf.loot_tables.wildcard": "Đã tìm thấy %d thiếu bảng chiến lợi phẩm cho tất cả các mod.",
   "argument.bookshelf.unknown_value": "Giá trị '%s' không xác định.",
-  "text.bookshelf.ticks": "Mã: %s"
+  "text.bookshelf.ticks": "Mã: %s",
+  "item.minecraft.enchanted_book": "Sách Phù Phép"
 }

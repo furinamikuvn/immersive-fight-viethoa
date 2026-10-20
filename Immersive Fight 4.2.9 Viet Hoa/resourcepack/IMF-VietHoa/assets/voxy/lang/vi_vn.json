@@ -25,5 +25,6 @@
   "voxy.config.general.ssao_mode.auto": "tự động",
   "voxy.config.general.ssao_mode.basic": "Căn cứ",
   "voxy.config.general.ssao_mode.better": "tốt hơn",
-  "voxy.config.general.ssao_mode.best": "tối ưu"
+  "voxy.config.general.ssao_mode.best": "tối ưu",
+  "item.minecraft.enchanted_book": "Sách Phù Phép"
 }

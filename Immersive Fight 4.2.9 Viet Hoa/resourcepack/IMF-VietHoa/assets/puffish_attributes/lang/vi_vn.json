@@ -12,5 +12,6 @@
   "attribute.puffish_attributes.player.pickaxe_speed": "Tốc độ cuốc",
   "attribute.puffish_attributes.player.axe_speed": "Tốc độ rìu",
   "attribute.puffish_attributes.player.shovel_speed": "Tốc độ xẻng",
-  "attribute.puffish_attributes.player.repair_cost": "Chi phí sửa chữa"
+  "attribute.puffish_attributes.player.repair_cost": "Chi phí sửa chữa",
+  "item.minecraft.enchanted_book": "Sách Phù Phép"
 }

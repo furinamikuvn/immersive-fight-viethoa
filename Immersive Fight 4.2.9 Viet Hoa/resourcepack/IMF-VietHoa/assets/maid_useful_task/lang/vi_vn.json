@@ -15,5 +15,6 @@
   "gui.maid_useful_task.yes": "Có",
   "gui.maid_useful_task.revive.ownerOnly": "Chỉ cứu chủ nhân",
   "gui.maid_useful_task.logging.block_up": "Xếp Khối Leo Lên",
-  "gui.maid_useful_task.logging.skip_non_nature": "Bỏ qua gỗ nhân tạo (không tự nhiên)"
+  "gui.maid_useful_task.logging.skip_non_nature": "Bỏ qua gỗ nhân tạo (không tự nhiên)",
+  "item.minecraft.enchanted_book": "Sách Phù Phép"
 }

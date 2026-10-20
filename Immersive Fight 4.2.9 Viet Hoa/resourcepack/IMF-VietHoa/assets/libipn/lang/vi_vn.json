@@ -26,5 +26,6 @@
   "libipn.common.gui.config.colorpicker.blue": "Màu xanh da trời",
   "libipn.common.gui.config.color_picker_dialog": "Chọn một màu",
   "libipn.common.gui.config.settings_screen.search-box": "Tìm kiếm",
-  "libipn.common.gui.config.description.settings_screen.search-box": "Chỉ hiển thị các tùy chọn khớp với cụm từ tìm kiếm trong hộp."
+  "libipn.common.gui.config.description.settings_screen.search-box": "Chỉ hiển thị các tùy chọn khớp với cụm từ tìm kiếm trong hộp.",
+  "item.minecraft.enchanted_book": "Sách Phù Phép"
 }

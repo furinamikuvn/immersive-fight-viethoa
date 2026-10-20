@@ -27,5 +27,6 @@
   "text.resourcefulconfig.clearwater.option.fogFarPlaneSnow": "Cuối sương mù (Tuyết bột)",
   "text.resourcefulconfig.clearwater.option.fogFarPlaneSnow.tooltip": "Giá trị nơi sương mù kết thúc. Vani là 2.0",
   "text.resourcefulconfig.clearwater.option.fogShapeSnow": "Hình dạng sương mù (Tuyết bột)",
-  "text.resourcefulconfig.clearwater.option.fogShapeSnow.tooltip": "Hình dạng của sương mù xung quanh người chơi"
+  "text.resourcefulconfig.clearwater.option.fogShapeSnow.tooltip": "Hình dạng của sương mù xung quanh người chơi",
+  "item.minecraft.enchanted_book": "Sách Phù Phép"
 }

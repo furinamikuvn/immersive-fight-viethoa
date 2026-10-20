@@ -153,5 +153,6 @@
   "config.find_me.sleepReviveChance": "Xác suất hồi sinh giấc ngủ",
   "config.find_me.sleepReviveChance.tooltip": "Cơ hội hồi sinh một người bạn đồng hành đã chết khi đang ngủ.",
   "config.find_me.sleepReviveSpawnEntity": "Sinh ra một sinh vật hồi sinh",
-  "config.find_me.sleepReviveSpawnEntity.tooltip": "Nếu được bật, các sinh vật hồi sinh sẽ cố gắng xuất hiện gần đó khi có không gian an toàn. Nếu mô-đun chứa các sinh vật lớn có tính hủy diệt, nó có thể bị vô hiệu hóa."
+  "config.find_me.sleepReviveSpawnEntity.tooltip": "Nếu được bật, các sinh vật hồi sinh sẽ cố gắng xuất hiện gần đó khi có không gian an toàn. Nếu mô-đun chứa các sinh vật lớn có tính hủy diệt, nó có thể bị vô hiệu hóa.",
+  "item.minecraft.enchanted_book": "Sách Phù Phép"
 }

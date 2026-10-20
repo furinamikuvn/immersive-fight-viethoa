@@ -16,5 +16,6 @@
   "lanserverproperties.gui.port": "Cổng nghe:",
   "lanserverproperties.gui.max_player": "Số lượng người chơi tối đa:",
   "lanserverproperties.gui.always_offline": "Danh sách tên người chơi cho chế độ ngoại tuyến bắt buộc",
-  "lanserverproperties.gui.always_offline.message": "Sử dụng dấu cách để phân tách danh sách này, danh sách này chỉ hợp lệ trong 'chế độ ngoại tuyến + chế độ sửa chữa UUID'. Nếu có xung đột giữa tên người chơi ngoại tuyến và người chơi chính hãng đã đăng ký, bạn có thể thêm tên người chơi ngoại tuyến tại đây."
+  "lanserverproperties.gui.always_offline.message": "Sử dụng dấu cách để phân tách danh sách này, danh sách này chỉ hợp lệ trong 'chế độ ngoại tuyến + chế độ sửa chữa UUID'. Nếu có xung đột giữa tên người chơi ngoại tuyến và người chơi chính hãng đã đăng ký, bạn có thể thêm tên người chơi ngoại tuyến tại đây.",
+  "item.minecraft.enchanted_book": "Sách Phù Phép"
 }

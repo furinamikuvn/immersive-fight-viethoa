@@ -872,7 +872,7 @@
   "death.attack.farseer_3.player": "%s được chia bởi %s",
   "alexsmobs.container.transmutation_table": "giai đoạn chuyển hóa",
   "alexsmobs.container.transmutation_table.cost": "Chi phí trải nghiệm:",
-  "advancements.alexsmobs.root.title": "Tiểu sử của Alex",
+  "advancements.alexsmobs.root.title": "Alex's Mobs",
   "advancements.alexsmobs.root.desc": "Khám phá những sinh vật độc đáo trên thế giới.",
   "advancements.alexsmobs.crimson_mosquito.title": "nhiên liệu ác mộng",
   "advancements.alexsmobs.crimson_mosquito.desc": "Gặp một con muỗi đỏ thẫm.",
@@ -1085,5 +1085,6 @@
   "advancements.alexsmobs.banana_slug.title": "Sự tiến hóa hội tụ…",
   "advancements.alexsmobs.banana_slug.desc": "Gặp một con sên chuối. Đây là một chút không ngon miệng.",
   "alexsmobs.gui.capsid_transformation": "Chuyển thành",
-  "block.alexsmobs.platypus_egg": "Platypus Egg"
+  "block.alexsmobs.platypus_egg": "Platypus Egg",
+  "item.minecraft.enchanted_book": "Sách Phù Phép"
 }

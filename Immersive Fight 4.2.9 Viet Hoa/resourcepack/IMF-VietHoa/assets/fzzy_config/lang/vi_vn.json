@@ -213,5 +213,6 @@
   "fc.button.click.open_url": "Mở liên kết tới %s",
   "fc.button.click.open_file": "Mở một tập tin: %s",
   "fc.button.click.run_command": "chạy lệnh \"%s\"",
-  "fc.button.click.copy_to_clipboard": "sao chép \"%s\" vào khay nhớ tạm của bạn"
+  "fc.button.click.copy_to_clipboard": "sao chép \"%s\" vào khay nhớ tạm của bạn",
+  "item.minecraft.enchanted_book": "Sách Phù Phép"
 }

@@ -190,5 +190,6 @@
   "betterclouds.gui.issueReport.disable": "Không hiển thị lại màn hình này",
   "betterclouds.gui.issueReport.toast.sent": "Đã gửi báo cáo vấn đề. Cảm ơn!",
   "betterclouds.compat.sodium.option.enabled.name": "Những đám mây tốt hơn",
-  "betterclouds.compat.sodium.option.enabled.tooltip": "Sử dụng Better Clouds thay vì kết xuất đám mây của Natri."
+  "betterclouds.compat.sodium.option.enabled.tooltip": "Sử dụng Better Clouds thay vì kết xuất đám mây của Natri.",
+  "item.minecraft.enchanted_book": "Sách Phù Phép"
 }

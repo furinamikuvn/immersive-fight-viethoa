@@ -16,5 +16,6 @@
   "config.citresewn.cache_ms.ticks.1": "MỖI TÍCH CẮM",
   "config.citresewn.cache_ms.ticks.any": "MỌI LÚC %s",
   "pack.incompatible.broken_paths": "(Chứa các đường dẫn bị hỏng)",
-  "pack.incompatible.confirm.broken_paths": "Gói này chứa các đường dẫn bị hỏng và hỗ trợ cho nó có thể bị loại bỏ trong tương lai. Liên hệ với tác giả gói để xóa cảnh báo này. (~ Hoàn lại thuế TNDN)"
+  "pack.incompatible.confirm.broken_paths": "Gói này chứa các đường dẫn bị hỏng và hỗ trợ cho nó có thể bị loại bỏ trong tương lai. Liên hệ với tác giả gói để xóa cảnh báo này. (~ Hoàn lại thuế TNDN)",
+  "item.minecraft.enchanted_book": "Sách Phù Phép"
 }

@@ -54,5 +54,6 @@
   "message.mcde.cant_combine": "Không thể kết hợp với %s",
   "message.mcde.reroll_button.desc": "Làm mới các vị trí có sẵn và bùa mê của chúng.",
   "ui.mcde.gilding_button": "mạ vàng",
-  "ui.mcde.regilding_button": "mạ lại"
+  "ui.mcde.regilding_button": "mạ lại",
+  "item.minecraft.enchanted_book": "Sách Phù Phép"
 }

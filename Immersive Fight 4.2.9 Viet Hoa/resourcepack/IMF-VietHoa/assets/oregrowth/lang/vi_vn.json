@@ -4,5 +4,6 @@
   "oregrowth.ore_growth_block.growth_hint": "Tăng trưởng: %s",
   "oregrowth.jei_category.title": "tăng trưởng thưa thớt",
   "config.jade.plugin_oregrowth.ore_growth_hint": "Hiển thị tiến trình tăng trưởng tinh thể",
-  "config.jade.plugin_oregrowth.ore_growth_icon": "Biểu tượng trụ thay thế"
+  "config.jade.plugin_oregrowth.ore_growth_icon": "Biểu tượng trụ thay thế",
+  "item.minecraft.enchanted_book": "Sách Phù Phép"
 }

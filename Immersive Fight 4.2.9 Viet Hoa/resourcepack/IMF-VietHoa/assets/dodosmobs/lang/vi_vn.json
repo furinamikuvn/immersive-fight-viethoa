@@ -8,5 +8,6 @@
   "effect.dodosmobs.wound": "tổn thương",
   "death.attack.dodosmobs.wound": "Tử vong do vết thương gãy",
   "death.attack.dodosmobs.wound.player": "Chết dưới tay %s do vết thương sụp đổ",
-  "entity.dodosmobs.dead_horn": " Dead Horn"
+  "entity.dodosmobs.dead_horn": " Dead Horn",
+  "item.minecraft.enchanted_book": "Sách Phù Phép"
 }

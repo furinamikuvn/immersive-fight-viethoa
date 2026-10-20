@@ -22,5 +22,6 @@
   "messages.ssa.error_message_same_value": "Giá trị không thể giống nhau! Đã đặt về mặc định",
   "gui.ssa.options_play_in_other_dim": "Phát Âm Thanh Ở Chiều Không Gian Khác",
   "gui.ssa.options_send_messages_in_other_dim": "Gửi Thông Báo Ở Chiều Không Gian Khác",
-  "gui.ssa.options_percent": "%"
+  "gui.ssa.options_percent": "%",
+  "item.minecraft.enchanted_book": "Sách Phù Phép"
 }

@@ -12,5 +12,6 @@
   "soundCategory.extrasounds$enabled_footstep": "Hiệu ứng âm thanh bước chân",
   "soundCategory.extrasounds$enabled_effects": "Hiệu ứng âm thanh hiệu ứng",
   "soundCategory.extrasounds$enabled_poof": "Hiệu ứng âm thanh cái chết của sinh vật",
-  "tooltip.soundCategory.extrasounds_action": "Khối lượng này áp dụng cho các tương tác vật phẩm, tương tác khối và các sự kiện thực thể."
+  "tooltip.soundCategory.extrasounds_action": "Khối lượng này áp dụng cho các tương tác vật phẩm, tương tác khối và các sự kiện thực thể.",
+  "item.minecraft.enchanted_book": "Sách Phù Phép"
 }

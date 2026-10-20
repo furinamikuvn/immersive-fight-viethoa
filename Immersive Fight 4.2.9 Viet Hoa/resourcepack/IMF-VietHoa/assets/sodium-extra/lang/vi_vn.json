@@ -337,5 +337,6 @@
   "sodium-extra.overlay.light_updates": "Cập nhật ánh sáng bị vô hiệu hóa",
   "sodium-extra.suggestRSO.header": "Khuyến nghị: Cài đặt tùy chọn Embeddium của Reese",
   "sodium-extra.suggestRSO.message": "Chúng tôi khuyên bạn nên cài đặt Tùy chọn Embeddium của Reese cùng lúc với Embeddium Extra. Do số lượng tính năng ngày càng tăng nên nó không còn phù hợp với thiết lập video của Embeddium.",
-  "sodium-extra.units.ticks": "đánh dấu %s"
+  "sodium-extra.units.ticks": "đánh dấu %s",
+  "item.minecraft.enchanted_book": "Sách Phù Phép"
 }

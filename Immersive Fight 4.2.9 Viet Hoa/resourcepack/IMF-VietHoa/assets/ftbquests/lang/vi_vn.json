@@ -662,5 +662,6 @@
   "ftbquests.gui.error.already_component": "Dòng đã là thành phần văn bản JSON!",
   "config.jade.plugin_ftbquests.barrier": "Rào cản",
   "ftbquest.gui.set_autofocused": "Đặt làm tác vụ lấy nét tự động",
-  "ftbquest.gui.clear_autofocused": "Xóa các tác vụ lấy nét tự động"
+  "ftbquest.gui.clear_autofocused": "Xóa các tác vụ lấy nét tự động",
+  "item.minecraft.enchanted_book": "Sách Phù Phép"
 }

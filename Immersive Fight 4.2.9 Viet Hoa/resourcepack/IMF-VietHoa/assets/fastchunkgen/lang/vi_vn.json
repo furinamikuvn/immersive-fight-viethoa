@@ -70,5 +70,6 @@
   "fastchunkgen.option.ioSystem.recoverFromErrors.tooltip": "Các khối không tải được sẽ được tạo lại và nội dung gốc sẽ bị hủy.",
   "fastchunkgen.option.generalOptimizations.autoSave.mode.VANILLA": "nguyên bản",
   "fastchunkgen.option.generalOptimizations.autoSave.mode.ENHANCED": "Nâng cao",
-  "fastchunkgen.option.generalOptimizations.autoSave.mode.PERIODIC": "xe đạp"
+  "fastchunkgen.option.generalOptimizations.autoSave.mode.PERIODIC": "xe đạp",
+  "item.minecraft.enchanted_book": "Sách Phù Phép"
 }

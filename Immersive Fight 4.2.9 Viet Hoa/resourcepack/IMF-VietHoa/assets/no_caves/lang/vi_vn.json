@@ -39,5 +39,6 @@
   "option.no_caves.enableDensityFunctionCaveFilter": "Bật bộ lọc hang động chức năng mật độ",
   "option.no_caves.enableDensityFunctionCaveFilter.tooltip": "Đặt thành %s để bật bộ lọc hang động chức năng mật độ,\nBộ lọc này sẽ áp dụng cho hàm mật độ (bao gồm cả mật độ cuối cùng)\nLọc các tham chiếu đến các hàm mật độ hang động khác trong .",
   "option.no_caves.densityFunctionCavePatterns": "Mô hình khớp hang động hàm mật độ",
-  "option.no_caves.densityFunctionCavePatterns.tooltip": "Hàm mật độ tên hang động để lọc."
+  "option.no_caves.densityFunctionCavePatterns.tooltip": "Hàm mật độ tên hang động để lọc.",
+  "item.minecraft.enchanted_book": "Sách Phù Phép"
 }

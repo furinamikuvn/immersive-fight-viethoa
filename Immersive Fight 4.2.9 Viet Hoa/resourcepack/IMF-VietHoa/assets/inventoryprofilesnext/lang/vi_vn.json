@@ -487,5 +487,6 @@
   "inventoryprofiles.gui.editor.description.help.move.keys": "'W','S','A','D' và các phím mũi tên sẽ di chuyển nút đã chọn",
   "inventoryprofiles.gui.editor.name.help.move.speed": "Nút di chuyển nhanh!!!",
   "inventoryprofiles.gui.editor.description.help.move.speed": "Giữ phím 'Shift' và phím Move sẽ di chuyển nhanh nút",
-  "inventoryprofiles.profiles.created_new_saved": "Đã tạo tệp 'Đã lưu' mới..."
+  "inventoryprofiles.profiles.created_new_saved": "Đã tạo tệp 'Đã lưu' mới...",
+  "item.minecraft.enchanted_book": "Sách Phù Phép"
 }

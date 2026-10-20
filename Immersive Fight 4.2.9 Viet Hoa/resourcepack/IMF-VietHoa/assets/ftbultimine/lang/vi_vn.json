@@ -44,5 +44,6 @@
   "ftbultimine.server_settings.experience_per_block": "Chi phí XP cho mỗi khối được khai thác",
   "ftbultimine.server_settings.experience_per_block.tooltip": "Đây có thể là một lượng nhỏ",
   "ftbultimine.server_settings.ultimine_cooldown": "Thời gian hồi chiêu cuối cùng (tích tắc)",
-  "ftbultimine.server_settings.ultimine_cooldown.tooltip": "Thời gian tính bằng tích tắc cần thiết giữa các lần sử dụng liên tiếp của chức năng Ultimine"
+  "ftbultimine.server_settings.ultimine_cooldown.tooltip": "Thời gian tính bằng tích tắc cần thiết giữa các lần sử dụng liên tiếp của chức năng Ultimine",
+  "item.minecraft.enchanted_book": "Sách Phù Phép"
 }

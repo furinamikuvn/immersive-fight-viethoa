@@ -48,5 +48,6 @@
   "configmenusforge.gui.type.title": "Cấu hình %s",
   "configmenusforge.gui.type.client": "Cấu hình máy khách dành cho cấu hình ảnh hưởng đến trạng thái DUY NHẤT của máy khách, chẳng hạn như các tùy chọn đồ họa. Chỉ được tải ở phía khách hàng. Được lưu trữ trong thư mục cấu hình chung. Không được đồng bộ hóa.",
   "configmenusforge.gui.type.common": "Cấu hình mod chung cho cấu hình cần được tải trên cả hai môi trường. Được tải trên cả máy chủ và máy khách. Được lưu trữ trong thư mục cấu hình chung. Không được đồng bộ hóa.",
-  "configmenusforge.gui.type.server": "Cấu hình loại máy chủ là cấu hình được liên kết với một phiên bản máy chủ. Chỉ được tải khi khởi động máy chủ. Được lưu trữ trong máy chủ/lưu thư mục \"serverconfig\" cụ thể. Đã đồng bộ hóa với khách hàng trong quá trình kết nối."
+  "configmenusforge.gui.type.server": "Cấu hình loại máy chủ là cấu hình được liên kết với một phiên bản máy chủ. Chỉ được tải khi khởi động máy chủ. Được lưu trữ trong máy chủ/lưu thư mục \"serverconfig\" cụ thể. Đã đồng bộ hóa với khách hàng trong quá trình kết nối.",
+  "item.minecraft.enchanted_book": "Sách Phù Phép"
 }

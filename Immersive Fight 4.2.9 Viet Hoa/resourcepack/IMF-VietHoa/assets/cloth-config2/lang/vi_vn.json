@@ -47,5 +47,6 @@
   "text.cloth-config.testing.1": "Các modder, bạn có muốn sử dụng %1$s không? Bạn có thể nhấp vào %2$s để bắt đầu. Ngoài ra %3$s.",
   "text.cloth-config.testing.2": "Cloth Config Wiki",
   "text.cloth-config.testing.3": "Nhấp vào đây để mở tệp tùy chọn Minecraft, không có lý do cụ thể",
-  "text.cloth-config.disabled_tooltip": "Bị vô hiệu hóa (không đáp ứng yêu cầu)"
+  "text.cloth-config.disabled_tooltip": "Bị vô hiệu hóa (không đáp ứng yêu cầu)",
+  "item.minecraft.enchanted_book": "Sách Phù Phép"
 }

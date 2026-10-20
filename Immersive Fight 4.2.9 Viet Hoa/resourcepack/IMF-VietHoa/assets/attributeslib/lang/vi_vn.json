@@ -133,5 +133,6 @@
   "death.attack.attributeslib:cold_damage.player": "%1$s bị chết cóng khi chiến đấu với %2$s",
   "attributeslib.gui.formula.base": "Căn cứ",
   "attributeslib.gui.formula.value": "Giá trị",
-  "attributeslib.gui.no_modifiers": "Không có sửa đổi"
+  "attributeslib.gui.no_modifiers": "Không có sửa đổi",
+  "item.minecraft.enchanted_book": "Sách Phù Phép"
 }

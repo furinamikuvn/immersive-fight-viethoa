@@ -219,5 +219,6 @@
   "config.waystones.client.disableTextGlow.tooltip": "Nếu được bật, lớp phủ văn bản trên bia đường sẽ không còn luôn hiển thị ở độ sáng tối đa nữa.",
   "config.waystones.compatibility.displayWaystonesOnJourneyMap.tooltip": "Nếu được bật, các điểm tham chiếu của Bản đồ hành trình sẽ được tạo cho mỗi cột mốc được kích hoạt.",
   "config.waystones.compatibility.preferJourneyMapIntegration": "Mô-đun 'Tích hợp bản đồ hành trình' tốt hơn",
-  "config.waystones.compatibility.preferJourneyMapIntegration.tooltip": "Nếu được bật, các điểm tham chiếu của JourneyMap sẽ chỉ được tạo nếu mod 'Tích hợp bản đồ hành trình' chưa được cài đặt."
+  "config.waystones.compatibility.preferJourneyMapIntegration.tooltip": "Nếu được bật, các điểm tham chiếu của JourneyMap sẽ chỉ được tạo nếu mod 'Tích hợp bản đồ hành trình' chưa được cài đặt.",
+  "item.minecraft.enchanted_book": "Sách Phù Phép"
 }

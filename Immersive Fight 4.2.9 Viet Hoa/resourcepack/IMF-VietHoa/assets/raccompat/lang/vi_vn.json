@@ -35,5 +35,6 @@
   "tooltip.relics.vine_ring.ability.vine.stat.length.value": "Lưới %1$s.",
   "tooltip.relics.vine_ring.ability.vine.stat.cooldown.title": "Thời gian làm mát:",
   "tooltip.relics.vine_ring.ability.vine.stat.cooldown.value": "%1$s giây.",
-  "tooltip.relics.vine_ring.ability.vine.predicate.ceil": "khối trên đầu"
+  "tooltip.relics.vine_ring.ability.vine.predicate.ceil": "khối trên đầu",
+  "item.minecraft.enchanted_book": "Sách Phù Phép"
 }

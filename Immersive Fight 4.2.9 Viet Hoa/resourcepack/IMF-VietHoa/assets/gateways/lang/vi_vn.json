@@ -162,5 +162,6 @@
   "tooltip.gateways.list2": "• %s",
   "tooltip.gateways.completion": "phần thưởng cuối cùng",
   "tooltip.gateways.experience": "• Trải nghiệm %s",
-  "reward.gateways.command": "Điều khiển: /%s"
+  "reward.gateways.command": "Điều khiển: /%s",
+  "item.minecraft.enchanted_book": "Sách Phù Phép"
 }

@@ -250,5 +250,6 @@
   "effect.cofh_core.enderference.description": "Làm cho các endermen ở gần không thể dịch chuyển tức thời. Đồng thời vô hiệu hóa dịch chuyển tức thời đối với những người chơi ở gần bằng cách sử dụng ngọc trai ender hoặc trái cây hợp xướng.",
   "effect.cofh_core.clarity.description": "Tăng lượng kinh nghiệm nhận được thêm 40% mỗi cấp.",
   "effect.cofh_core.explosion_resistance.description": "Cung cấp khả năng miễn nhiễm với sát thương nổ.",
-  "effect.cofh_core.chilled.description": "Giảm 30% tốc độ di chuyển và sát thương tấn công 1,5 trái tim mỗi cấp."
+  "effect.cofh_core.chilled.description": "Giảm 30% tốc độ di chuyển và sát thương tấn công 1,5 trái tim mỗi cấp.",
+  "item.minecraft.enchanted_book": "Sách Phù Phép"
 }

@@ -183,5 +183,6 @@
   "__support_galosphere": "https://www.curseforge.com/minecraft/mc-mods/galosphere",
   "enchantment.galosphere.rupture.desc": "Phá vỡ các trụ của viên muối thành các mảnh đạn khi chúng vỡ.",
   "enchantment.galosphere.sustain.desc": "Kéo dài thời gian trụ của viên muối.",
-  "enchantment.galosphere.enfeeble.desc": "Gây chậm chạp cho các thực thể bị cột của viên muối chạm phải."
+  "enchantment.galosphere.enfeeble.desc": "Gây chậm chạp cho các thực thể bị cột của viên muối chạm phải.",
+  "item.minecraft.enchanted_book": "Sách Phù Phép"
 }

@@ -19,5 +19,6 @@
   "ryoamiclights.tooltip.mode.3": "%s là ánh sáng động mượt mà.",
   "ryoamiclights.tooltip.self_light_source": "Kích hoạt tính năng chiếu sáng động ở góc nhìn thứ nhất. Nếu bạn sử dụng trình đổ bóng có tích hợp ánh sáng động, bạn nên tắt tính năng này.",
   "ryoamiclights.tooltip.tnt_lighting": "Đặt chế độ chiếu sáng động của TNT.\n- %s tắt tính năng chiếu sáng động TNT.\n- %s sẽ đặt độ sáng không đổi.\n- %s sẽ thiết lập độ sáng động.",
-  "ryoamiclights.tooltip.water_sensitive": "Cho phép kiểm tra nguồn sáng nhạy cảm với nước. Điều này có nghĩa là một số vật phẩm sẽ không phát sáng khi ngâm trong nước."
+  "ryoamiclights.tooltip.water_sensitive": "Cho phép kiểm tra nguồn sáng nhạy cảm với nước. Điều này có nghĩa là một số vật phẩm sẽ không phát sáng khi ngâm trong nước.",
+  "item.minecraft.enchanted_book": "Sách Phù Phép"
 }

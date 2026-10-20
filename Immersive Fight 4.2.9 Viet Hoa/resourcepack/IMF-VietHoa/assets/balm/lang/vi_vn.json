@@ -33,5 +33,6 @@
   "disconnect.balm.mod_missing_on_server": "Máy chủ chưa cài đặt %s. Vui lòng xóa mod khỏi trò chơi của bạn hoặc cài đặt nó trên máy chủ.",
   "disconnect.balm.mod_missing_on_client": "Bạn chưa cài đặt %s. Vui lòng cài đặt phiên bản %s %s để chơi trên máy chủ này.",
   "disconnect.balm.mod_version_mismatch": "Phiên bản không khớp với %s. Máy chủ mong đợi phiên bản %s, nhưng hiện tại bạn đã cài đặt %s. Vui lòng cài đặt đúng phiên bản.",
-  "config.jade.plugin_balm.jade": "Dầu dưỡng"
+  "config.jade.plugin_balm.jade": "Dầu dưỡng",
+  "item.minecraft.enchanted_book": "Sách Phù Phép"
 }

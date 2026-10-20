@@ -127,5 +127,6 @@
   "option.NoChatReports.convertToGameMessage": "Chuyển đổi sang tin nhắn trò chơi",
   "option.NoChatReports.convertToGameMessage.tooltip": "Khiến máy chủ chuyển đổi tất cả tin nhắn của người chơi thành tin nhắn hệ thống. Tin nhắn hệ thống không có chữ ký kèm theo và không thể báo cáo; trên các máy khách chưa sửa đổi, chúng sẽ xuất hiện với thanh màu xám ở bên trái.",
   "option.NoChatReports.addQueryData": "Thêm dữ liệu truy vấn",
-  "option.NoChatReports.addQueryData.tooltip": "Cho phép máy chủ gửi dữ liệu bổ sung đến máy khách trong khi xử lý ping. Điều này được sử dụng để hiển thị biểu tượng \"Máy chủ bảo mật\" và cho một số mục đích kỹ thuật khác."
+  "option.NoChatReports.addQueryData.tooltip": "Cho phép máy chủ gửi dữ liệu bổ sung đến máy khách trong khi xử lý ping. Điều này được sử dụng để hiển thị biểu tượng \"Máy chủ bảo mật\" và cho một số mục đích kỹ thuật khác.",
+  "item.minecraft.enchanted_book": "Sách Phù Phép"
 }

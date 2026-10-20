@@ -689,5 +689,6 @@
   "config.promaid.voice.systemEnabled": "Read system messages",
   "config.promaid.voice.systemCooldownS": "System-read cooldown (seconds)",
   "config.promaid.voice.voicePackEnabled": "System voice pack",
-  "config.promaid.voice.cacheMaxFiles": "TTS cache max files"
+  "config.promaid.voice.cacheMaxFiles": "TTS cache max files",
+  "item.minecraft.enchanted_book": "Sách Phù Phép"
 }

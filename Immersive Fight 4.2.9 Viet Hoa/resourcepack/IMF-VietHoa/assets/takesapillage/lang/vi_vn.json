@@ -14,7 +14,7 @@
   "subtitle.takesapillage.entity.clay_golem.death": "Golem đất sét: Cái chết",
   "subtitle.takesapillage.entity.clay_golem.hurt": "Clay Golem: Bị thương",
   "subtitle.takesapillage.entity.clay_golem.repair": "Golem đất sét: Sửa chữa",
-  "subtitle.takesapillage.entity.clay_golem.step": "Con rối đất sét: Những bước chân",
+  "subtitle.takesapillage.entity.clay_golem.step": "Golem đất sét: Những bước chân",
   "subtitle.takesapillage.entity.legioner.ambient": "Lính hạng nặng: Lời thì thầm",
   "subtitle.takesapillage.entity.legioner.celebrate": "Quân đội hạng nặng: Chúc mừng",
   "subtitle.takesapillage.entity.legioner.death": "Quân đội hạng nặng: Cái chết",
@@ -41,5 +41,6 @@
   "takesapillage.configGui.hardGolemRate.title": "Thay thế Golem đất sét có độ khó khó",
   "takesapillage.configGui.removeBadOmen.title": "Sữa Xóa Điềm Xấu",
   "takesapillage.configGui.pillageSiegesOccur.title": "Cuộc vây hãm cướp bóc",
-  "instrument.takesapillage.raid_horn": "Sừng đột kích"
+  "instrument.takesapillage.raid_horn": "Sừng đột kích",
+  "item.minecraft.enchanted_book": "Sách Phù Phép"
 }

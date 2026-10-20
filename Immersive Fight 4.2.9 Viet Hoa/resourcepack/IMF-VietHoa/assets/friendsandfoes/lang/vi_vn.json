@@ -98,8 +98,8 @@
   "subtitle.entity.friendsandfoes.glare.rustle": "Growler phàn nàn",
   "subtitle.entity.friendsandfoes.glare.shake": "Growler rũ bỏ những quả mọng phát sáng",
   "subtitle.entity.friendsandfoes.copper_golem.death": "cái chết của golem đồng",
-  "subtitle.entity.friendsandfoes.copper_golem.head_spin": "Đầu xoay con rối bằng đồng",
-  "subtitle.entity.friendsandfoes.copper_golem.hurt": "Con rối đồng bị thương",
+  "subtitle.entity.friendsandfoes.copper_golem.head_spin": "Đầu xoay Golem bằng đồng",
+  "subtitle.entity.friendsandfoes.copper_golem.hurt": "Golem đồng bị thương",
   "subtitle.entity.friendsandfoes.copper_golem.repair": "Con golem đồng đã được sửa chữa",
   "subtitle.entity.friendsandfoes.crab.death": "cua chết",
   "subtitle.entity.friendsandfoes.crab.hurt": "cua bị thương",
@@ -146,5 +146,6 @@
   "text.betterf3.line.rascals": "cậu bé nghịch ngợm",
   "subtitle.entity.friendsandfoes.copper_golem.step": "bước chân",
   "subtitle.entity.friendsandfoes.tuff_golem.step": "bước chân",
-  "subtitle.entity.friendsandfoes.wildfire.step": "bước chân"
+  "subtitle.entity.friendsandfoes.wildfire.step": "bước chân",
+  "item.minecraft.enchanted_book": "Sách Phù Phép"
 }

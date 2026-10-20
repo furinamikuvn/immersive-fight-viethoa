@@ -76,5 +76,6 @@
   "effect.minecraft.weakness.desc": "Giảm sát thương vật lý",
   "effect.minecraft.luck.desc": "Tăng may mắn cho người chơi trong một số tình huống nhất định, chủ yếu là câu cá",
   "effect.minecraft.unluck.desc": "Giảm may mắn của người chơi trong một số tình huống nhất định, chủ yếu là câu cá",
-  "effect.minecraft.wither.desc": "Gây thiệt hại cho thực thể theo thời gian"
+  "effect.minecraft.wither.desc": "Gây thiệt hại cho thực thể theo thời gian",
+  "item.minecraft.enchanted_book": "Sách Phù Phép"
 }

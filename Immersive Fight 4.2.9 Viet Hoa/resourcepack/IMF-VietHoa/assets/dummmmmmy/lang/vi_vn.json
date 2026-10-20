@@ -5,5 +5,6 @@
   "message.dummmmmmy.hps": "%1$s HPS",
   "message.dummmmmmy.single": "%1$s: %2$s",
   "message.dummmmmmy.double": "%1$s: %2$s, %3$s",
-  "message.dummmmmmy.crit": "%d (%dx)"
+  "message.dummmmmmy.crit": "%d (%dx)",
+  "item.minecraft.enchanted_book": "Sách Phù Phép"
 }

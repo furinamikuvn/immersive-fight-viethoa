@@ -152,5 +152,6 @@
   "text.autoconfig.bosses_of_mass_destruction.option.lichConfig.missile.mobEffectDuration": "Thời gian hiệu ứng trạng thái",
   "text.autoconfig.bosses_of_mass_destruction.option.lichConfig.missile.mobEffectAmplifier": "Cường độ hiệu ứng trạng thái",
   "text.autoconfig.bosses_of_mass_destruction.category.General": "Tổng quan",
-  "text.autoconfig.bosses_of_mass_destruction.option.generalConfig.tableOfElevationRadius": "Bảng bán kính độ cao"
+  "text.autoconfig.bosses_of_mass_destruction.option.generalConfig.tableOfElevationRadius": "Bảng bán kính độ cao",
+  "item.minecraft.enchanted_book": "Sách Phù Phép"
 }

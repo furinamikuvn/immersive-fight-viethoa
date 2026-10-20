@@ -408,5 +408,6 @@
   "efn.config.judgement_cut_end_cut_rate.desc": "Tỷ lệ chém của Dimension Cut (dựa trên phần trăm máu tối đa của mục tiêu)",
   "efn.config.judgement_cut_end_boss_damage_multiplier.desc": "Hệ số sát thương chống lại BOSS",
   "efn.config.judgement_cut_end_health_percentage.desc": "Tỷ lệ phần trăm sức khỏe được sử dụng trong tính toán thiệt hại",
-  "efn.config.enable_bloodlust_posteffect.desc": "Bật/tắt bộ lọc màn hình khi kích hoạt kỹ năng Blood Mania"
+  "efn.config.enable_bloodlust_posteffect.desc": "Bật/tắt bộ lọc màn hình khi kích hoạt kỹ năng Blood Mania",
+  "item.minecraft.enchanted_book": "Sách Phù Phép"
 }

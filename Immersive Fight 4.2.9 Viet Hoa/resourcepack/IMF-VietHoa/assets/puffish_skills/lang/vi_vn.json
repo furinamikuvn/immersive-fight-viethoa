@@ -40,5 +40,6 @@
   "command.puffish_skills.category.open.success.single": "Đã mở màn hình danh mục %s cho %s",
   "command.puffish_skills.category.open.success.multiple": "Đã mở màn hình danh mục %s cho người chơi %s",
   "command.puffish_skills.open.success.single": "Đã mở màn hình kỹ năng cho %s",
-  "command.puffish_skills.open.success.multiple": "Màn hình kỹ năng đã mở cho người chơi %s"
+  "command.puffish_skills.open.success.multiple": "Màn hình kỹ năng đã mở cho người chơi %s",
+  "item.minecraft.enchanted_book": "Sách Phù Phép"
 }

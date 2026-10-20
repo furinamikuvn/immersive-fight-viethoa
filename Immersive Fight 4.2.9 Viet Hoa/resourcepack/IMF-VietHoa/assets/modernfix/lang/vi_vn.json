@@ -152,5 +152,6 @@
   "modernfix.option.mixin.perf.ticking_chunk_alloc": "Tối ưu hóa việc đánh dấu từng đoạn trong vanilla để giảm phân bổ.",
   "modernfix.option.mixin.perf.worldgen_allocation": "Tối ưu hóa một số logic tạo thế giới trong vanilla để giảm việc phân bổ đối tượng.",
   "modernfix.option.mixin.feature.suppress_narrator_stacktrace": "Ngăn trò chơi ghi lại một dấu vết ngăn xếp rất dài khi trình tường thuật không tải được trên Linux (thường là do chưa cài đặt libflite).",
-  "modernfix.option.mixin.feature.disable_unihex_font": "Việc xóa phông chữ Unicode có thể tiết kiệm 10MB bộ nhớ nhưng sẽ khiến các ký tự đặc biệt không còn được hiển thị."
+  "modernfix.option.mixin.feature.disable_unihex_font": "Việc xóa phông chữ Unicode có thể tiết kiệm 10MB bộ nhớ nhưng sẽ khiến các ký tự đặc biệt không còn được hiển thị.",
+  "item.minecraft.enchanted_book": "Sách Phù Phép"
 }

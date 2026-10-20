@@ -24,5 +24,6 @@
   "yacl.restart.title": "Cấu hình cần phải được khởi động lại!",
   "yacl.restart.message": "Một hoặc nhiều tùy chọn yêu cầu bạn khởi động lại trò chơi để áp dụng những thay đổi này.",
   "yacl.restart.yes": "Đóng Minecraft",
-  "yacl.restart.no": "sao nhãng"
+  "yacl.restart.no": "sao nhãng",
+  "item.minecraft.enchanted_book": "Sách Phù Phép"
 }

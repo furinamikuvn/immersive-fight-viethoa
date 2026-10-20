@@ -26,5 +26,6 @@
   "text.autoconfig.goop.option.goopDebug": "Gỡ lỗi Goop",
   "text.autoconfig.goop.option.goopDebug.@Tooltip": "[CẢNH BÁO] Rất buồn cười | Đã thêm các hạt bổ sung để hiển thị thông tin đỉnh cho vũng nước Goop",
   "text.autoconfig.goop.option.showDev": "Hiển thị các hạt của nhà phát triển",
-  "text.autoconfig.goop.option.showDev.@Tooltip": "Có hiển thị các trình khởi chạy được đánh dấu là nội dung dành cho nhà phát triển hay không. (ví dụ: tất cả các trình khởi chạy mẫu đều được đánh dấu là nội dung dành cho nhà phát triển)"
+  "text.autoconfig.goop.option.showDev.@Tooltip": "Có hiển thị các trình khởi chạy được đánh dấu là nội dung dành cho nhà phát triển hay không. (ví dụ: tất cả các trình khởi chạy mẫu đều được đánh dấu là nội dung dành cho nhà phát triển)",
+  "item.minecraft.enchanted_book": "Sách Phù Phép"
 }

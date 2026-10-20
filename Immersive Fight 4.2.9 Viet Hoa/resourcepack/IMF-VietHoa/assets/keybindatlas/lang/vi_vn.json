@@ -187,5 +187,6 @@
   "keybindatlas.config.colors.connector_line": "Đường kết nối",
   "keybindatlas.config.colors.connector_line.default": "mặc định",
   "keybindatlas.config.colors.connector_line.default_alt": "Ghi đè mặc định",
-  "keybindatlas.config.colors.connector_line.hover": "di chuột"
+  "keybindatlas.config.colors.connector_line.hover": "di chuột",
+  "item.minecraft.enchanted_book": "Sách Phù Phép"
 }

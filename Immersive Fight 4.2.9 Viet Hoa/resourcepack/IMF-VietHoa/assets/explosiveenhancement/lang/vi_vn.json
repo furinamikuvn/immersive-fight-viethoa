@@ -60,5 +60,6 @@
   "explosiveenhancement.extras.alwaysshow.tooltip": "Nếu được bật, các hạt nổ sẽ cố gắng hiển thị từ xa hơn (xa gần gấp đôi) VÀ ở cài đặt hạt thấp hơn. Hãy sử dụng một cách khôn ngoan!",
   "explosiveenhancement.extras.logs": "Nhật ký gỡ lỗi",
   "explosiveenhancement.extras.logs.tooltip": "Nhật ký bảng điều khiển bổ sung để giúp gỡ lỗi, nếu cần",
-  "explosiveenhancement.extras.logs.warningtooltip": "§cCảnh báo§r: Sẽ spam nhật ký!"
+  "explosiveenhancement.extras.logs.warningtooltip": "§cCảnh báo§r: Sẽ spam nhật ký!",
+  "item.minecraft.enchanted_book": "Sách Phù Phép"
 }

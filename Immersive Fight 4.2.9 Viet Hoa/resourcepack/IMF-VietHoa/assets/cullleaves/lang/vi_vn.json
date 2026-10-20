@@ -7,5 +7,6 @@
   "cullleaves.midnightconfig.sodiumBlockFaceCullingFix": "Sửa lỗi chặn mặt để loại bỏ natri trong lá",
   "cullleaves.midnightconfig.cullRoots.tooltip": "Cho phép loại bỏ rễ cây ngập mặn.\n§cSau khi thay đổi cài đặt này, bạn phải tải lại tất cả các đoạn (F3 + A)",
   "cullleaves.midnightconfig.cullRoots.tooltip.sodium": "Cho phép loại bỏ rễ cây ngập mặn.",
-  "cullleaves.midnightconfig.cullRoots": "Cho phép loại bỏ rễ cây ngập mặn"
+  "cullleaves.midnightconfig.cullRoots": "Cho phép loại bỏ rễ cây ngập mặn",
+  "item.minecraft.enchanted_book": "Sách Phù Phép"
 }

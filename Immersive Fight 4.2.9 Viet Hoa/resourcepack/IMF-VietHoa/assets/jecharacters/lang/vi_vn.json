@@ -3,5 +3,6 @@
   "jecharacters.chat.saved": "Xong! Báo cáo đã được xuất sang logs/jecharacters.txt.",
   "jecharacters.chat.error": "Rất tiếc, đã xảy ra sự cố khi ghi tệp.",
   "jecharacters.chat.taiwan": "Lỗi nội bộ.",
-  "jecharacters.chat.help": "/jech [hồ sơ] / [dài dòng đúng/sai]"
+  "jecharacters.chat.help": "/jech [hồ sơ] / [dài dòng đúng/sai]",
+  "item.minecraft.enchanted_book": "Sách Phù Phép"
 }

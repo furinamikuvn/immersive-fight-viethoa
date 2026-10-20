@@ -644,5 +644,6 @@
   "gui.xaero_box_discovered_waystone_waypoints": "Tự động hiển thị các máy tính bảng dịch chuyển được phát hiện (từ mod Waystones và Wraith Waystones) dưới dạng điểm tham chiếu. Trong Wraith Waystones, chỉ những vật đã kích hoạt mới được coi là đã phát hiện được.",
   "gui.xaero_other_waystone_waypoints": "Các điểm đường dẫn bia dịch chuyển khác",
   "gui.xaero_box_other_waystone_waypoints": "Tự động hiển thị các loại đá dịch chuyển khác (từ mod Waystones và Wraith Waystones) làm điểm tham chiếu. Điều này bao gồm các tượng đài được chia sẻ từ mod Waystones ban đầu nếu được hỗ trợ (1.20.4+). Trong Wraith Waystones, điều này bao gồm cả những máy tính bảng dịch chuyển tức thời toàn cầu không hoạt động.",
-  "gui.xaero_waypoint_distance_in_menu": "Khoảng cách điểm trong menu"
+  "gui.xaero_waypoint_distance_in_menu": "Khoảng cách điểm trong menu",
+  "item.minecraft.enchanted_book": "Sách Phù Phép"
 }

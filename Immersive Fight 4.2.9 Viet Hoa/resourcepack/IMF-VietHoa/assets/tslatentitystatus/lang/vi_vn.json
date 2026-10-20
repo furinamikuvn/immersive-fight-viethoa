@@ -175,5 +175,6 @@
   "tslatentitystatus.midnightconfig.particlesEnabledComment": "Có hiển thị chú giải công cụ cho các thay đổi trạng thái khác nhau hay không, chẳng hạn như sát thương hoặc hồi phục",
   "tslatentitystatus.midnightconfig.teamBasedDamageParticleColoursComment": "Thay đổi màu của văn bản nhảy sát thương thành màu của đội gây ra sát thương (nếu có)",
   "tslatentitystatus.midnightconfig.title": "[TES] Cài đặt Trạng thái thực thể Tslat (hiển thị thông tin thực thể)",
-  "tslatentitystatus.midnightconfig.verbalHealthParticlesComment": "Trong một số trường hợp, có nên sử dụng ngôn ngữ nói để nhảy từ hay không (chẳng hạn như bán hàng chớp nhoáng)"
+  "tslatentitystatus.midnightconfig.verbalHealthParticlesComment": "Trong một số trường hợp, có nên sử dụng ngôn ngữ nói để nhảy từ hay không (chẳng hạn như bán hàng chớp nhoáng)",
+  "item.minecraft.enchanted_book": "Sách Phù Phép"
 }

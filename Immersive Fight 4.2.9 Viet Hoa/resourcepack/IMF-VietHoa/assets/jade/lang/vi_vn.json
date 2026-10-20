@@ -280,5 +280,6 @@
   "mymod.fuel": "Nhiên liệu: đánh dấu %d",
   "config.jade.plugin_debug.furnace_fuel": "thử nghiệm nhiên liệu",
   "config.jade.plugin_debug.furnace_fuel.str_cfg": "chuỗi thử nghiệm",
-  "config.jade.plugin_debug.furnace_fuel.float_cfg": "Kiểm tra số dấu phẩy động"
+  "config.jade.plugin_debug.furnace_fuel.float_cfg": "Kiểm tra số dấu phẩy động",
+  "item.minecraft.enchanted_book": "Sách Phù Phép"
 }

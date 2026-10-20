@@ -786,7 +786,7 @@
   "key.mofus_better_end_.nautilus_up": "Nautilus tăng dần",
   "key.categories.mofuendmod": "Chòm sao tan vỡ",
   "subtitles.eyegolemdeath": "Cái chết cho những kẻ phân biệt chủng tộc haha",
-  "subtitles.eyegolemidle": "Bài phát biểu phân biệt chủng tộc của con rối Eye Guardian",
+  "subtitles.eyegolemidle": "Bài phát biểu phân biệt chủng tộc của Golem Eye Guardian",
   "subtitles.eyegolemstep": "Sự phân biệt chủng tộc thuần túy đang đến với bạn.",
   "subtitles.forgotten_death": "Cái chết của người bị lãng quên",
   "subtitles.forgotten_hurt": "Người bị lãng quên bị thương",
@@ -801,5 +801,6 @@
   "trim_pattern.mofus_better_end_.endermite_armor_trim_procedure": "Đỉnh áo giáp Endermite",
   "trim_pattern.mofus_better_end_.eye_guardian_trim": "Huy hiệu bảo vệ mắt",
   "trim_pattern.mofus_better_end_.forgotten_armor_trim_procedure": "Huy hiệu áo giáp bị lãng quên",
-  "trim_pattern.mofus_better_end_.luminion_armor_trim_procedure": "Mẫu áo giáp phát sáng"
+  "trim_pattern.mofus_better_end_.luminion_armor_trim_procedure": "Mẫu áo giáp phát sáng",
+  "item.minecraft.enchanted_book": "Sách Phù Phép"
 }
