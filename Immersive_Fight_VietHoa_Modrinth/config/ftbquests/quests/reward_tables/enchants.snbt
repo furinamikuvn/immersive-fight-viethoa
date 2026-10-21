@@ -1,0 +1,108 @@
+{
+	icon: "modifiers:modifier_book"
+	id: "0B6DC2DA92661E73"
+	loot_size: 1
+	order_index: 2
+	rewards: [
+		{
+			item: {
+				Count: 1
+				id: "modifiers:modifier_book"
+				tag: {
+					bookModifier: "modifiers:violent"
+				}
+			}
+			title: "Bạo Lực +4% Tốc Độ Đánh"
+			weight: 2.0f
+		}
+		{
+			item: {
+				Count: 1
+				id: "modifiers:modifier_book"
+				tag: {
+					bookModifier: "modifiers:quick"
+				}
+			}
+			title: "Mau Lẹ +4% Tốc Độ Di Chuyển"
+			weight: 2.0f
+		}
+		{
+			item: {
+				Count: 1
+				id: "modifiers:modifier_book"
+				tag: {
+					bookModifier: "modifiers:menacing"
+				}
+			}
+			title: "Nguy Hiểm +4% Sát Thương"
+			weight: 2.0f
+		}
+		{
+			item: {
+				Count: 1
+				id: "modifiers:modifier_book"
+				tag: {
+					bookModifier: "modifiers:warding"
+				}
+			}
+			title: "Hộ Vệ +1 Độ Bền Bỉ Giáp"
+			weight: 2.0f
+		}
+		{
+			item: {
+				Count: 1
+				id: "modifiers:modifier_book"
+				tag: {
+					bookModifier: "modifiers:armored"
+				}
+			}
+			title: "Vũ Trang +2 Điểm Giáp"
+			weight: 2.0f
+		}
+		{
+			item: {
+				Count: 1
+				id: "modifiers:modifier_book"
+				tag: {
+					bookModifier: "modifiers:hearty"
+				}
+			}
+			title: "Sinh Lực +2 Máu Tối Đa"
+			weight: 2.0f
+		}
+		{
+			item: {
+				Count: 1
+				id: "modifiers:modifier_book"
+				tag: {
+					bookModifier: "modifiers:menacing"
+				}
+			}
+			title: "Nguy Hiểm +4% Sát Thương"
+			weight: 2.0f
+		}
+		{
+			item: {
+				Count: 1
+				id: "modifiers:modifier_book"
+				tag: {
+					bookModifier: "modifiers:heavy"
+				}
+			}
+			title: "Nặng Nề +30% Sát Thương, -20% Tốc Độ Đánh, -5% Tốc Độ Chạy"
+			weight: 2.0f
+		}
+		{
+			item: {
+				Count: 1
+				id: "modifiers:modifier_book"
+				tag: {
+					bookModifier: "modifiers:light"
+				}
+			}
+			title: "Gọn Nhẹ -10% Sát Thương, +15% Tốc Độ Đánh"
+			weight: 2.0f
+		}
+	]
+	title: "Phẩm Chất Vũ Khí Thường"
+}

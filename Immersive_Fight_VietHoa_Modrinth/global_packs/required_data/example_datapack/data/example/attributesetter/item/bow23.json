@@ -1,0 +1,16 @@
+{
+  "too_many_bows:necro_flame_bow":[
+    {
+      "attribute": "minecraft:generic.movement_speed",
+      "value": 0.03,
+      "operation": "ADDITION",
+      "slot": "mainhand"
+    },
+    {
+      "attribute": "attributeslib:arrow_damage",
+      "value": 1.4,
+      "operation": "ADDITION",
+      "slot": "mainhand"
+    }
+  ]
+}

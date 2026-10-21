@@ -1,0 +1,16 @@
+{
+  "too_many_bows:dragons_breath":[
+    {
+      "attribute": "minecraft:generic.movement_speed",
+      "value": 0.03,
+      "operation": "ADDITION",
+      "slot": "mainhand"
+    },
+    {
+      "attribute": "attributeslib:arrow_damage",
+      "value": 0.5,
+      "operation": "ADDITION",
+      "slot": "mainhand"
+    }
+  ]
+}

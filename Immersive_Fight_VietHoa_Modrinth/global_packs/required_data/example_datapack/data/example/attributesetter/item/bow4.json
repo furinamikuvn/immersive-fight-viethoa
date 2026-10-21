@@ -1,0 +1,10 @@
+{
+  "cataclysm:wither_assault_shoulder_weapon":[
+    {
+      "attribute": "minecraft:generic.movement_speed",
+      "value": 0.03,
+      "operation": "ADDITION",
+      "slot": "mainhand"
+    }
+  ]
+}

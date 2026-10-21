@@ -1,0 +1,339 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "eeeabs_mobs"
+	group: "4E6BE2D374D7AE03"
+	icon: {
+		Count: 1
+		ForgeCaps: {
+			"celestisynth:celestisynthitemstackcapabilities": {
+				cs.aquaSkin: 0
+			}
+		}
+		id: "mowziesmobs:wrought_helmet"
+		tag: {
+			itemModifier: "modifiers:rash"
+		}
+	}
+	id: "79EA10BAF8E423ED"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			description: [
+				"Kích thước: Nether"
+				"Tìm Cấu Trúc: Bàn Thờ Máu"
+				"BOSS: Pháp sư xác chết"
+				"{entity:eeeabsmobs:corpse_warlock ent_size:0.6 off_x:0.0 off_y:0.0 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"
+			]
+			entity_vis_size: 1.0f
+			icon: "eeeabsmobs:soul_summon_necklace"
+			id: "6322537724BF9146"
+			tasks: [{
+				entity: "eeeabsmobs:corpse_warlock"
+				entity_use_tag: false
+				entity_vis_idle_mode: "USE_GLOBAL"
+				entity_vis_offset_x: 0.0f
+				entity_vis_offset_y: 0.0f
+				entity_vis_rotation: 0.0f
+				entity_vis_silhouette_mode: "NONE"
+				entity_vis_size: 1.0f
+				entity_vis_spin_mode: "USE_GLOBAL"
+				entity_vis_use_as_quest_icon: false
+				entity_vis_walk_mode: "USE_GLOBAL"
+				icon: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "eeeabsmobs:soul_summon_necklace"
+				}
+				id: "6FACCF731A8A625E"
+				type: "kill"
+				value: 1L
+			}]
+			x: -5.0d
+			y: 1.0d
+		}
+		{
+			description: [
+				"Không gian: [Thế giới chính] Dưới lòng đất"
+				""
+				"Tìm cấu trúc: Tiền đồn lõi máy"
+				"BOSS: Bảo vệ vương quốc"
+				"{entity:eeeabsmobs:realm_warden ent_size:0.6 off_x:0.0 off_y:0.0 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "eeeabsmobs:guardian_axe"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "71165F383EC27B04"
+			tasks: [{
+				disable_toast: true
+				entity: "eeeabsmobs:realm_warden"
+				entity_use_tag: false
+				entity_vis_idle_mode: "USE_GLOBAL"
+				entity_vis_offset_x: 0.0f
+				entity_vis_offset_y: 0.0f
+				entity_vis_rotation: 0.0f
+				entity_vis_silhouette_mode: "NONE"
+				entity_vis_size: 1.0f
+				entity_vis_spin_mode: "USE_GLOBAL"
+				entity_vis_use_as_quest_icon: false
+				entity_vis_walk_mode: "USE_GLOBAL"
+				icon: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "eeeabsmobs:doombolt_battleaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				id: "1B55EA3D6FD4445B"
+				type: "kill"
+				value: 1L
+			}]
+			x: -5.0d
+			y: 2.5d
+		}
+		{
+			can_repeat: true
+			dependencies: [
+				"71165F383EC27B04"
+				"6322537724BF9146"
+			]
+			description: [
+				"Trao đổi vật phẩm &b [Thử thách triệu hồi] Chương &r"
+				"Đổi giấy triệu tập"
+				""
+				"Đi đến Triệu hồi Kích thước Đấu trường"
+				"&6 triệu hồi BOSS: &r bất tử"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "eeeabsmobs:ghost_warrior_helmet"
+				tag: {
+					Damage: 0
+					itemModifier: "modifiers:angry"
+				}
+			}
+			id: "58BCA6047E201462"
+			rewards: [{
+				id: "44AA3945351458F0"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "fight_more:entity_spawner"
+					tag: {
+						SummonBoss: "eeeabsmobs:immortal"
+					}
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "2CD6363E806C4386"
+				type: "checkmark"
+			}]
+			title: "bất tử"
+			x: -3.5d
+			y: 1.5d
+		}
+		{
+			description: [
+				"Tìm kiếm con trỏ phiêu lưu: Người bảo vệ sắt"
+				"{entity:mowziesmobs:ferrous_wroughtnaut ent_size:0.6 off_x:0.0 off_y:0.0 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "mowziesmobs:wrought_helmet"
+				tag: {
+					itemModifier: "modifiers:half_hearted"
+				}
+			}
+			id: "3CAFCD9D869D5B7D"
+			tasks: [{
+				entity: "mowziesmobs:ferrous_wroughtnaut"
+				entity_use_tag: false
+				entity_vis_idle_mode: "USE_GLOBAL"
+				entity_vis_offset_x: 0.0f
+				entity_vis_offset_y: 0.0f
+				entity_vis_rotation: 0.0f
+				entity_vis_silhouette_mode: "NONE"
+				entity_vis_size: 1.0f
+				entity_vis_spin_mode: "USE_GLOBAL"
+				entity_vis_use_as_quest_icon: false
+				entity_vis_walk_mode: "USE_GLOBAL"
+				icon: "mowziesmobs:wrought_helmet"
+				id: "6FA20CFA7941307F"
+				type: "kill"
+				value: 1L
+			}]
+			x: -6.0d
+			y: -0.5d
+		}
+		{
+			description: [
+				"Tìm kiếm con trỏ phiêu lưu: Sunbird"
+				"{entity:mowziesmobs:umvuthi ent_size:0.6 off_x:0.0 off_y:0.0 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "mowziesmobs:sol_visage"
+				tag: {
+					itemModifier: "modifiers:hard"
+				}
+			}
+			id: "549871DEB12A7F9D"
+			rewards: [{
+				count: 8
+				id: "24048B00EE37B8A1"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "celestisynth:celestial_core"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				entity: "mowziesmobs:umvuthi"
+				entity_use_tag: false
+				entity_vis_idle_mode: "USE_GLOBAL"
+				entity_vis_offset_x: 0.0f
+				entity_vis_offset_y: 0.0f
+				entity_vis_rotation: 0.0f
+				entity_vis_silhouette_mode: "NONE"
+				entity_vis_size: 1.0f
+				entity_vis_spin_mode: "USE_GLOBAL"
+				entity_vis_use_as_quest_icon: false
+				entity_vis_walk_mode: "USE_GLOBAL"
+				icon: "mowziesmobs:sol_visage"
+				id: "681033CAE9F87D4C"
+				type: "kill"
+				value: 1L
+			}]
+			x: -5.0d
+			y: -0.5d
+		}
+		{
+			description: [
+				"Tìm kiếm con trỏ phiêu lưu: Frost Behemoth"
+				"{entity:mowziesmobs:frostmaw ent_size:0.6 off_x:0.0 off_y:0.0 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "mowziesmobs:ice_crystal"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "63BB6DD26FA1FE24"
+			rewards: [{
+				id: "22CC710CBE439229"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "simplyswords:frostfall"
+					tag: {
+						Damage: 0
+						nether_power: "socket_empty"
+						runic_power: "socket_empty"
+					}
+				}
+				type: "item"
+			}]
+			tasks: [{
+				entity: "mowziesmobs:frostmaw"
+				entity_use_tag: false
+				entity_vis_idle_mode: "USE_GLOBAL"
+				entity_vis_offset_x: 0.0f
+				entity_vis_offset_y: 0.0f
+				entity_vis_rotation: 0.0f
+				entity_vis_silhouette_mode: "NONE"
+				entity_vis_size: 1.0f
+				entity_vis_spin_mode: "USE_GLOBAL"
+				entity_vis_use_as_quest_icon: false
+				entity_vis_walk_mode: "USE_GLOBAL"
+				icon: {
+					Count: 1
+					id: "mowziesmobs:ice_crystal"
+					tag: {
+						Damage: 0
+					}
+				}
+				id: "2972409E4F9212FB"
+				type: "kill"
+				value: 1L
+			}]
+			x: -4.0d
+			y: -0.5d
+		}
+		{
+			description: [
+				"Tìm kiếm con trỏ phiêu lưu: Bậc thầy xuyên qua vũ khí"
+				"&e [Phần thưởng hoàn thành: Khai thác chuỗi mở khóa 64 lưới] &r"
+				"Trận chiến độc đáo"
+				"Nội dung là thử thách parkour"
+				"Vòng nhảy có thể giúp bạn"
+				"{entity:mowziesmobs:sculptor ent_size:0.6 off_x:0.0 off_y:0.0 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "mowziesmobs:earthrend_gauntlet"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "632E2AF1C356B19E"
+			rewards: [{
+				auto: "enabled"
+				command: "/ftbultimine set_max_blocks 64"
+				elevate_perms: true
+				id: "0EFBB8BAB39B33CA"
+				title: "Mở khóa bộ sưu tập chuỗi 64 lưới"
+				type: "command"
+			}]
+			tasks: [{
+				id: "412912DCFBFA1289"
+				item: {
+					Count: 1
+					id: "mowziesmobs:earthrend_gauntlet"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "Phiên tòa xét xử bậc thầy vũ khí"
+			x: -3.0d
+			y: -0.5d
+		}
+	]
+	title: "BOSS khác"
+}

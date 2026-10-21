@@ -1,0 +1,43 @@
+{
+	icon: {
+		Count: 1
+		id: "born_in_chaos_v1:elixir_of_vampirism"
+		tag: {
+			Damage: 0
+		}
+	}
+	id: "55DDD21A748D7B27"
+	loot_size: 1
+	order_index: 12
+	rewards: [
+		{
+			command: "/epicgoop drop off"
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "minecraft:red_concrete"
+			}
+			title: "Tắt Máu Văng"
+			type: "command"
+		}
+		{
+			command: "/epicgoop drop on"
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "minecraft:lime_concrete"
+			}
+			title: "Bật Máu Văng"
+			type: "command"
+		}
+	]
+	title: "Hiệu Ứng Máu Văng"
+}

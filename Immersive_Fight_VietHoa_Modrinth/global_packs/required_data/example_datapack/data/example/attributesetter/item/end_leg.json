@@ -1,0 +1,10 @@
+{
+  "betterend:aeternium_leggings":[
+    {
+      "attribute": "minecraft:generic.max_health",
+      "value": 4,
+      "operation": "ADDITION",
+      "slot": "legs"
+    }
+  ]
+}

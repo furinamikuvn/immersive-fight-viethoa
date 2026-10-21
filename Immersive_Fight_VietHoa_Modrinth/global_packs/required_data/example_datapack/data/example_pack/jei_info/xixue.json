@@ -1,0 +1,13 @@
+{
+    "items": [
+        {
+            "item": "minecraft:potion",
+            "nbt": {
+                "Potion": "alexsmobs:long_soulsteal"
+            }
+        }
+    ],
+    "infos": [
+        "§0Hút máu từ kẻ địch"
+    ]
+}

@@ -1,0 +1,51 @@
+{
+	icon: {
+		Count: 1
+		ForgeCaps: {
+			"celestisynth:celestisynthitemstackcapabilities": {
+				cs.aquaSkin: 0
+			}
+		}
+		id: "monsterexpansion:monster_hardbone"
+	}
+	id: "7A3E17E9AAC2B140"
+	loot_size: 1
+	order_index: 21
+	rewards: [
+		{
+			auto: "disabled"
+			command: "/gamerule PetProtection false"
+			elevate_perms: true
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "minecraft:red_concrete"
+			}
+			team_reward: false
+			title: "Bảo Vệ Thú Cưng Toàn Cục: Tắt"
+			type: "command"
+		}
+		{
+			auto: "disabled"
+			command: "/gamerule PetProtection true"
+			elevate_perms: true
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "minecraft:lime_concrete"
+			}
+			team_reward: false
+			title: "Bảo Vệ Thú Cưng Toàn Cục: Bật"
+			type: "command"
+		}
+	]
+	title: "Bảo Vệ Thú Cưng Toàn Cục"
+}

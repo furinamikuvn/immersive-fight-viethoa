@@ -1,0 +1,138 @@
+{
+	icon: {
+		Count: 1
+		id: "minecraft:saddle"
+		tag: { }
+	}
+	id: "0545C9464C7FB04C"
+	loot_size: 1
+	order_index: 22
+	rewards: [
+		{
+			command: "/myarborix @s 0"
+			elevate_perms: true
+			icon: {
+				Count: 1
+				id: "minecraft:frog_spawn_egg"
+				tag: { }
+			}
+			team_reward: false
+			title: "Cam"
+			type: "command"
+		}
+		{
+			command: "/myarborix @s 1"
+			elevate_perms: true
+			icon: {
+				Count: 1
+				id: "alexsmobs:spawn_egg_flying_fish"
+				tag: { }
+			}
+			team_reward: false
+			title: "Xanh Biển"
+			type: "command"
+		}
+		{
+			command: "/myarborix @s 2"
+			elevate_perms: true
+			icon: {
+				Count: 1
+				id: "alexsmobs:spawn_egg_sunbird"
+				tag: { }
+			}
+			team_reward: false
+			title: "Đỏ Cam"
+			type: "command"
+		}
+		{
+			command: "/myarborix @s 3"
+			elevate_perms: true
+			icon: {
+				Count: 1
+				id: "born_in_chaos_v1:pumpkin_bomb_spawn_egg"
+				tag: { }
+			}
+			team_reward: false
+			title: "Vằn Hổ"
+			type: "command"
+		}
+		{
+			command: "/myarborix @s 4"
+			elevate_perms: true
+			icon: {
+				Count: 1
+				id: "endermanoverhaul:flower_fields_enderman_spawn_egg"
+				tag: { }
+			}
+			team_reward: false
+			title: "Xanh Bạc Hà"
+			type: "command"
+		}
+		{
+			command: "/myarborix @s 5"
+			elevate_perms: true
+			icon: {
+				Count: 1
+				id: "mowziesmobs:wroughtnaut_spawn_egg"
+				tag: { }
+			}
+			team_reward: false
+			title: "Nhợt Nhạt"
+			type: "command"
+		}
+		{
+			command: "/myarborix @s 5"
+			elevate_perms: true
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "minecraft:zombie_horse_spawn_egg"
+				tag: { }
+			}
+			team_reward: false
+			title: "Xanh Thẫm"
+			type: "command"
+		}
+		{
+			command: "/myarborix @s 7"
+			elevate_perms: true
+			icon: {
+				Count: 1
+				id: "endermanoverhaul:mushroom_fields_enderman_spawn_egg"
+				tag: { }
+			}
+			team_reward: false
+			title: "Đỏ Quả Mọng"
+			type: "command"
+		}
+		{
+			command: "/myarborix @s 8"
+			elevate_perms: true
+			icon: {
+				Count: 1
+				id: "alexsmobs:spawn_egg_banana_slug"
+				tag: { }
+			}
+			team_reward: false
+			title: "Vàng Axit"
+			type: "command"
+		}
+		{
+			command: "/myarborix @s 9"
+			elevate_perms: true
+			icon: {
+				Count: 1
+				id: "biomeswevegone:man_o_war_spawn_egg"
+				tag: { }
+			}
+			team_reward: false
+			title: "Oải Hương"
+			type: "command"
+		}
+	]
+	title: "Thú Cưỡi Woodland Feather Dragon"
+}

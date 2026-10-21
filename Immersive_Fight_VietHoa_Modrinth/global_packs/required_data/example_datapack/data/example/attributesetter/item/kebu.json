@@ -1,0 +1,10 @@
+{
+  "aquamirae:terrible_sword":[
+    {
+      "attribute": "obscure_api:critical_damage",
+      "value": -3.5,
+      "operation": "MULTIPLY_TOTAL",
+      "slot": "mainhand"
+    }
+  ]
+}

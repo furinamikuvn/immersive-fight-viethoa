@@ -1,0 +1,16 @@
+{
+  "minecraft:bow":[
+    {
+      "attribute": "minecraft:generic.movement_speed",
+      "value": 0.03,
+      "operation": "ADDITION",
+      "slot": "mainhand"
+    },
+    {
+      "attribute": "attributeslib:arrow_damage",
+      "value": 0.3,
+      "operation": "ADDITION",
+      "slot": "mainhand"
+    }
+  ]
+}

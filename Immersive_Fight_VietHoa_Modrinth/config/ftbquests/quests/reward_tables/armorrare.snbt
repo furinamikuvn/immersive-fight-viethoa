@@ -1,0 +1,75 @@
+{
+	icon: "modifiers:modifier_book"
+	id: "0BAAA2DA92661E73"
+	loot_size: 1
+	order_index: 1
+	rewards: [
+		{
+			item: {
+				Count: 1
+				id: "modifiers:modifier_book"
+				tag: {
+					bookModifier: "modifiers:violent"
+				}
+			}
+			title: "Bạo Lực +4% Tốc Độ Đánh"
+			weight: 2.0f
+		}
+		{
+			item: {
+				Count: 1
+				id: "modifiers:modifier_book"
+				tag: {
+					bookModifier: "modifiers:quick"
+				}
+			}
+			title: "Mau Lẹ +4% Tốc Độ Di Chuyển"
+			weight: 2.0f
+		}
+		{
+			item: {
+				Count: 1
+				id: "modifiers:modifier_book"
+				tag: {
+					bookModifier: "modifiers:menacing"
+				}
+			}
+			title: "Nguy Hiểm +4% Sát Thương"
+			weight: 2.0f
+		}
+		{
+			item: {
+				Count: 1
+				id: "modifiers:modifier_book"
+				tag: {
+					bookModifier: "modifiers:warding"
+				}
+			}
+			title: "Hộ Vệ +1 Độ Bền Bỉ Giáp"
+			weight: 2.0f
+		}
+		{
+			item: {
+				Count: 1
+				id: "modifiers:modifier_book"
+				tag: {
+					bookModifier: "modifiers:armored"
+				}
+			}
+			title: "Vũ Trang +2 Điểm Giáp"
+			weight: 2.0f
+		}
+		{
+			item: {
+				Count: 1
+				id: "modifiers:modifier_book"
+				tag: {
+					bookModifier: "modifiers:hearty"
+				}
+			}
+			title: "Sinh Lực +2 Máu Tối Đa"
+			weight: 2.0f
+		}
+	]
+	title: "Phẩm Chất Giáp Cao Cấp"
+}

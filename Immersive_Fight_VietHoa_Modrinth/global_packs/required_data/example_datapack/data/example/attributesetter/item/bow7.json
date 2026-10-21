@@ -1,0 +1,10 @@
+{
+  "legendary_monsters:sand_cannon":[
+    {
+      "attribute": "minecraft:generic.movement_speed",
+      "value": 0.03,
+      "operation": "ADDITION",
+      "slot": "mainhand"
+    }
+  ]
+}

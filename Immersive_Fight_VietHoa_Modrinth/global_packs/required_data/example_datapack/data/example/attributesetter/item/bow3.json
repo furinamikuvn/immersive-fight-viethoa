@@ -1,0 +1,22 @@
+{
+  "alexscaves:dreadbow":[
+    {
+      "attribute": "minecraft:generic.movement_speed",
+      "value": 0.03,
+      "operation": "ADDITION",
+      "slot": "mainhand"
+    },
+    {
+      "attribute": "epicfight:armor_negation",
+      "value": 50.0,
+      "operation": "ADDITION",
+      "slot": "mainhand"
+    },
+	{
+      "attribute": "attributeslib:arrow_damage",
+      "value": 0.5,
+      "operation": "ADDITION",
+      "slot": "mainhand"
+    }
+  ]
+}

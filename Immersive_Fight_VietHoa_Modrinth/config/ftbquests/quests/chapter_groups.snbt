@@ -1,0 +1,9 @@
+{
+	chapter_groups: [
+		{ id: "18A6655ADC4DF0EF", title: "Khởi Đầu" }
+		{ id: "645C652F9B0DFA16", title: "Danh Sách Đạo Cụ" }
+		{ id: "12485BC0976BA9E4", title: "Đổi Vật Phẩm" }
+		{ id: "27EE47AB69EC29B4", title: "Nhiệm Vụ Chính" }
+		{ id: "4E6BE2D374D7AE03", title: "Nhiệm Vụ Phụ" }
+	]
+}

@@ -1,0 +1,16 @@
+{
+  "celestisynth:rainfall_serenity":[
+    {
+      "attribute": "minecraft:generic.movement_speed",
+      "value": 0.1,
+      "operation": "ADDITION",
+      "slot": "mainhand"
+    },
+    {
+      "attribute": "attributeslib:arrow_damage",
+      "value": 1.6,
+      "operation": "ADDITION",
+      "slot": "mainhand"
+    }
+  ]
+}

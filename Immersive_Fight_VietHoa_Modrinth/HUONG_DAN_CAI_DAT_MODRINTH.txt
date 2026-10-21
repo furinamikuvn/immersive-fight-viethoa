@@ -1,0 +1,35 @@
+================================================================================
+  HƯỚNG DẪN CÀI ĐẶT GÓI VIỆT HÓA IMMERSIVE FIGHT (DÀNH CHO MODRINTH / CURSEFORGE)
+================================================================================
+
+Gói Việt Hóa này áp dụng trực tiếp lên bản modpack gốc Immersive Fight (BBSMC / CurseForge):
+- 100% Cốt truyện nhiệm vụ FTB Quests (23 chương) dịch sang tiếng Việt chuẩn chiến thuật.
+- 100% Mô tả vũ khí, hiệu ứng, tuyệt kỹ (Judgement Cut End, Satsujin, Xuyên Giáp, v.v...).
+- Tên nghề nghiệp chọn đầu game (Trị Liệu Sư, Mạo Hiểm Giả, Xảo Đấu Sĩ, Kẻ Phàm Ăn, Đao Kiếm Khách) tiếng Việt rõ ràng.
+- Giữ nguyên TÊN VẬT PHẨM bằng TIẾNG ANH chuẩn quốc tế để tra cứu JEI / EMI mượt mà, không lỗi tìm kiếm.
+- Tương thích 100% Forge 1.20.1, KHÔNG sửa jar gốc, TUÂN THỦ 100% chính sách kiểm duyệt Modrinth.
+
+--------------------------------------------------------------------------------
+CÁCH CÀI ĐẶT TRONG 3 BƯỚC ĐƠN GIẢN:
+--------------------------------------------------------------------------------
+
+BƯỚC 1: CÀI ĐẶT RESOURCE PACK
+  - Copy file "IMF-VietHoa-Modrinth.zip" vào thư mục "resourcepacks" trong thư mục game của bạn.
+  - Khởi động Minecraft -> Vào mục "Tùy chọn..." (Options) -> "Gói tài nguyên..." (Resource Packs).
+  - Chọn "IMF-VietHoa-Modrinth.zip" và chuyển sang cột bên phải (Ưu tiên kéo lên trên cùng).
+  - Bấm "Xong" (Done) để nạp tài nguyên.
+
+BƯỚC 2: CẬP NHẬT CẤU HÌNH & NHIỆM VỤ (CONFIG)
+  - Copy thư mục "config" trong gói này và dán đè (Overwrite) vào thư mục gốc game của bạn.
+  - (Tùy chọn) Copy thư mục "defaultconfigs" dán đè vào thư mục gốc game.
+  - Toàn bộ 23 chương nhiệm vụ FTB Quests và bảng nghề nghiệp đầu game sẽ là tiếng Việt!
+
+BƯỚC 3: CẬP NHẬT GÓI DỮ LIỆU CHỈ DẪN (GLOBAL PACKS)
+  - Copy thư mục "global_packs" trong gói này và dán đè (Overwrite) vào thư mục gốc game của bạn.
+  - Các mẹo hướng dẫn vật phẩm (như Balo: "Đặt vào ô đeo lưng thứ nhất") và thông tin JEI sẽ được Việt hóa sạch bóng!
+
+--------------------------------------------------------------------------------
+LƯU Ý QUAN TRỌNG:
+--------------------------------------------------------------------------------
+- Ngôn ngữ trong game có thể để "English (US)", "Tiếng Việt (Việt Nam)", hoặc "简体中文" đều hiển thị hoàn hảo!
+- Cảm ơn tác giả gốc: 辣某人 (Latxx) từ BBSMC / Bilibili đã phát triển bản modpack Immersive Fight tuyệt vời này.

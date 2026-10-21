@@ -1,0 +1,4255 @@
+{
+	consume_items: true
+	default_hide_dependency_lines: false
+	default_quest_shape: "efshape"
+	filename: "669F16D5421BFE1C"
+	group: "12485BC0976BA9E4"
+	icon: {
+		Count: 1
+		id: "epicfight:skillbook"
+		tag: {
+			skill: "epicfight:endurance"
+		}
+	}
+	id: "669F16D5421BFE1C"
+	images: [
+		{
+			height: 1.0d
+			image: "ftbteams:textures/aaabc11.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.5d
+			y: 7.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbteams:textures/aaabc22.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.5d
+			y: 5.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbteams:textures/aaabc44.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.5d
+			y: 2.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbteams:textures/aaabc33.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.5d
+			y: 2.5d
+		}
+		{
+			height: 1.0d
+			hover: ["(loại phòng thủ)"]
+			image: "ftbteams:textures/aaabc55.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.5d
+			y: 5.0d
+		}
+		{
+			height: 1.0d
+			hover: ["(tăng sát thương)"]
+			image: "ftbteams:textures/aaabc55.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.5d
+			y: 7.5d
+		}
+		{
+			height: 0.6d
+			image: "ftbteams:textures/aaabc123231.png"
+			rotation: 0.0d
+			width: 1.2d
+			x: 9.0d
+			y: 5.0d
+		}
+	]
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			can_repeat: true
+			description: [
+				"[Kỹ năng thuộc tính]"
+				"Chặn, đỡ và né sẽ tiêu tốn Điểm sáng suốt."
+				"Sau khi hết điểm thâm nhập, bạn sẽ có thể tung ra một đòn phản công bất ngờ."
+				"{image:epicfight:textures/gui/skills/identity/revelation.png width:100 height:100 align:1}"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "minecraft:book"
+				tag: {
+					CustomTexture: "revelation"
+				}
+			}
+			id: "77916C8367FD96D1"
+			rewards: [{
+				id: "1FD4031E970311A9"
+				item: {
+					Count: 1
+					id: "epicfight:skillbook"
+					tag: {
+						skill: "epicfight:revelation"
+					}
+				}
+				type: "item"
+			}]
+			shape: "efshape"
+			tasks: [
+				{
+					consume_items: true
+					count: 64L
+					disable_toast: true
+					id: "7A9CD1C887B43A48"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:emerald"
+					}
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 64L
+					disable_toast: true
+					id: "17146671D26EA7FC"
+					item: "minecraft:gold_ingot"
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 5L
+					disable_toast: true
+					id: "54AB7FDFFF4FBC4F"
+					item: { Count: 5, id: "enchanlownew:paper_skill_high" }
+					type: "item"
+				}
+			]
+			title: "nhìn xuyên qua"
+			x: 8.5d
+			y: 7.0d
+		}
+		{
+			can_repeat: true
+			description: [
+				"[Kỹ năng thuộc tính]"
+				"Rơi từ trên cao có thể chạm đất mạnh"
+				"Thiệt hại dựa trên độ cao rơi"
+				"{image:epicfight:textures/gui/skills/identity/meteor_slam.png width:100 height:100 align:1}"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "minecraft:book"
+				tag: {
+					CustomTexture: "meteor_slam"
+				}
+			}
+			id: "071825BB7915CB2F"
+			rewards: [{
+				id: "639C4D40F298C554"
+				item: {
+					Count: 1
+					id: "epicfight:skillbook"
+					tag: {
+						skill: "epicfight:meteor_slam"
+					}
+				}
+				type: "item"
+			}]
+			shape: "efshape"
+			tasks: [
+				{
+					consume_items: true
+					count: 16L
+					disable_toast: true
+					id: "0BF0EDFDA9FDD538"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:emerald"
+					}
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 32L
+					disable_toast: true
+					id: "5EB4880B89E09B5B"
+					item: "minecraft:gold_ingot"
+					type: "item"
+				}
+				{
+					count: 5L
+					id: "7D75A73744C9E349"
+					item: {
+						Count: 5
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "enchanlownew:paper_skill_low"
+					}
+					type: "item"
+				}
+			]
+			title: "Cuộc va chạm sao băng"
+			x: 6.5d
+			y: 7.0d
+		}
+		{
+			can_repeat: true
+			description: [
+				"[Kỹ năng thuộc tính]"
+				"Mất điểm máu &c &r sẽ khôi phục một nửa giá trị đó của sức chịu đựng &6 &r."
+				"Mất &6 sức chịu đựng &r sẽ khôi phục một nửa giá trị đó &c sức khỏe &r."
+				"Lén lút nhân đôi điểm máu thành sức chịu đựng."
+				""
+				"Cảnh báo &e: [Việc học sẽ vô hiệu hóa khả năng tự động phục hồi sức chịu đựng &6 &e! ! ! 】&r"
+				"{image:wom:textures/gui/skills/identity/voodoo_magic.png width:100 height:100 align:1}"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "minecraft:book"
+				tag: {
+					CustomTexture: "voodoo_magic"
+				}
+			}
+			id: "2DF51B38D4577F20"
+			rewards: [{
+				id: "39C7A46921E59B83"
+				item: {
+					Count: 1
+					id: "epicfight:skillbook"
+					tag: {
+						skill: "wom:voodoo_magic"
+					}
+				}
+				type: "item"
+			}]
+			shape: "efshape"
+			tasks: [
+				{
+					consume_items: true
+					count: 64L
+					disable_toast: true
+					id: "09DC1243E8FF7321"
+					item: "minecraft:emerald"
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 64L
+					disable_toast: true
+					id: "702D515F3E3BFECE"
+					item: "minecraft:gold_ingot"
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 5L
+					disable_toast: true
+					id: "3E13D5711E220247"
+					item: { Count: 5, id: "enchanlownew:paper_skill_high" }
+					type: "item"
+				}
+			]
+			title: "ma thuật tà thuật"
+			x: 9.5d
+			y: 8.0d
+		}
+		{
+			can_repeat: true
+			description: [
+				"[Kỹ năng hành động]"
+				"Cho phép nhảy đôi"
+				"{image:epicfight:textures/gui/skills/mover/phantom_ascent.png width:100 height:100 align:1}"
+			]
+			disable_toast: true
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "minecraft:book"
+				tag: {
+					CustomTexture: "phantom_ascent"
+				}
+			}
+			id: "067FE253AA731922"
+			rewards: [{
+				id: "05B015E29B632FAA"
+				item: {
+					Count: 1
+					id: "epicfight:skillbook"
+					tag: {
+						skill: "epicfight:phantom_ascent"
+					}
+				}
+				type: "item"
+			}]
+			shape: "efshape"
+			tasks: [
+				{
+					consume_items: true
+					count: 64L
+					disable_toast: true
+					id: "36A213705373B589"
+					item: "minecraft:emerald"
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 3L
+					disable_toast: true
+					id: "1F3937217AC75C7D"
+					item: { Count: 3, id: "enchanlownew:paper_skill_low" }
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 64L
+					disable_toast: true
+					id: "1CC94ADCBCCEF052"
+					item: { Count: 64, id: "minecraft:iron_ingot" }
+					type: "item"
+				}
+			]
+			title: "Bước nhảy ảo"
+			x: 6.5d
+			y: 4.5d
+		}
+		{
+			can_repeat: true
+			description: [
+				"[Kỹ năng hành động]"
+				"cho phép chạy trên tường"
+				"{image:wom:textures/gui/skills/mover/spider_techniques.png width:100 height:100 align:1}"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "minecraft:book"
+				tag: {
+					CustomTexture: "spider_techniques"
+				}
+			}
+			id: "2FE6CDC3C78B97AC"
+			rewards: [{
+				id: "70A348B03D6823F6"
+				item: {
+					Count: 1
+					id: "epicfight:skillbook"
+					tag: {
+						skill: "wom:spider_techniques"
+					}
+				}
+				type: "item"
+			}]
+			shape: "efshape"
+			tasks: [
+				{
+					count: 5L
+					id: "70647E8814E8510D"
+					item: {
+						Count: 5
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "enchanlownew:paper_skill_low"
+					}
+					type: "item"
+				}
+				{
+					count: 32L
+					id: "2703BF68A9D4162E"
+					item: {
+						Count: 32
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:emerald"
+					}
+					type: "item"
+				}
+				{
+					count: 32L
+					id: "1A8C446CE0EFD556"
+					item: {
+						Count: 32
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:gold_ingot"
+					}
+					type: "item"
+				}
+			]
+			title: "thủ thuật nhện"
+			x: 7.5d
+			y: 4.5d
+		}
+		{
+			can_repeat: true
+			description: [
+				"[Kỹ năng hành động]"
+				"Bơi nhanh hơn dưới nước"
+				"{image:wom:textures/gui/skills/mover/aqua_maneuvre.png width:100 height:100 align:1}"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "minecraft:book"
+				tag: {
+					CustomTexture: "aqua_maneuvre"
+				}
+			}
+			id: "6C41F0B69C43C89C"
+			rewards: [{
+				id: "6789DDAD218E2839"
+				item: {
+					Count: 1
+					id: "epicfight:skillbook"
+					tag: {
+						skill: "wom:aqua_maneuvre"
+					}
+				}
+				type: "item"
+			}]
+			shape: "efshape"
+			tasks: [
+				{
+					consume_items: true
+					count: 64L
+					disable_toast: true
+					id: "13BB8FD440DC6D2B"
+					item: "minecraft:emerald"
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 64L
+					disable_toast: true
+					id: "6721DA1C8F9DEC12"
+					item: "minecraft:gold_ingot"
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 3L
+					disable_toast: true
+					id: "7497C28D33372B32"
+					item: { Count: 3, id: "enchanlownew:paper_skill_low" }
+					type: "item"
+				}
+			]
+			title: "điều động nước"
+			x: 6.5d
+			y: 5.5d
+		}
+		{
+			can_repeat: true
+			description: [
+				"Lăn theo hướng bạn đang di chuyển. Né tránh mọi đòn tấn công sắp tới."
+				"{image:epicfight:textures/gui/skills/dodge/roll.png width:100 height:100 align:1}"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "minecraft:book"
+				tag: {
+					CustomTexture: "roll"
+				}
+			}
+			id: "42B4443A3FEB4C9D"
+			rewards: [
+				{
+					id: "6BC1FF6E9063A0BB"
+					item: {
+						Count: 1
+						id: "epicfight:skillbook"
+						tag: {
+							skill: "epicfight:roll"
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "48A1B220C4D2CD7B"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "epicfight:skillbook"
+						tag: {
+							skill: "efn:efn_dodge"
+						}
+					}
+					type: "item"
+				}
+			]
+			shape: "efshape"
+			tasks: [{
+				count: 16L
+				id: "25DFD2080F8868D9"
+				item: { Count: 16, id: "minecraft:iron_ingot" }
+				type: "item"
+			}]
+			title: "cuộn cơ bản"
+			x: -1.5d
+			y: 2.0d
+		}
+		{
+			can_repeat: true
+			description: [
+				"Di chuyển nhanh một khoảng ngắn theo hướng bạn đang di chuyển. Né tránh mọi đòn tấn công sắp tới."
+				"{image:cdmoveset:textures/gui/skills/dodge/bstep.png width:100 height:100 align:1}"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "minecraft:book"
+				tag: {
+					CustomTexture: "step"
+				}
+			}
+			id: "3723D836FDC6AFBA"
+			rewards: [
+				{
+					id: "3EEA7A45E3062025"
+					item: {
+						Count: 1
+						id: "epicfight:skillbook"
+						tag: {
+							skill: "epicfight:step"
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "2C5955F999C2F2BF"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "epicfight:skillbook"
+						tag: {
+							skill: "efn:efn_step"
+						}
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				count: 16L
+				id: "72020ECFAA728575"
+				item: { Count: 16, id: "minecraft:iron_ingot" }
+				type: "item"
+			}]
+			title: "bước tiến cơ bản"
+			x: -1.5d
+			y: 3.0d
+		}
+		{
+			can_repeat: true
+			description: [
+				"Dùng lực đá về phía trước. Gây hiệu ứng choáng mạnh và có thể làm choáng kẻ địch nếu sử dụng trong khi tấn công."
+				"{image:wom:textures/gui/skills/dodge/punishment_kick.png width:100 height:100 align:1}"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "minecraft:book"
+				tag: {
+					CustomTexture: "punishment_kick"
+				}
+			}
+			id: "3981E276B4AE546F"
+			rewards: [{
+				id: "0A22E4B63B56BC14"
+				item: {
+					Count: 1
+					id: "epicfight:skillbook"
+					tag: {
+						skill: "wom:punishment_kick"
+					}
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					consume_items: true
+					count: 32L
+					id: "41233E1F65680098"
+					item: { Count: 32, id: "minecraft:gold_ingot" }
+					type: "item"
+				}
+				{
+					count: 5L
+					id: "3EE5EFB3E8420B33"
+					item: {
+						Count: 5
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "enchanlownew:paper_skill_low"
+					}
+					type: "item"
+				}
+			]
+			title: "cú đá trừng phạt"
+			x: 2.5d
+			y: 2.0d
+		}
+		{
+			can_repeat: true
+			description: [
+				"Lăn nhanh hơn, xa hơn và có độ bền kém hơn. \\n\\n Thực hiện các động tác nhào lộn như một chuyên gia thực thụ."
+				"{image:wom:textures/gui/skills/dodge/precise_roll.png width:100 height:100 align:1}"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "minecraft:book"
+				tag: {
+					CustomTexture: "precise_roll"
+				}
+			}
+			id: "7EAB20BEC38F65E2"
+			rewards: [{
+				id: "4FA200B0AA6F2501"
+				item: {
+					Count: 1
+					id: "epicfight:skillbook"
+					tag: {
+						skill: "wom:precise_roll"
+					}
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					consume_items: true
+					count: 3L
+					disable_toast: true
+					id: "60ED0BFD36A939FB"
+					item: { Count: 3, id: "enchanlownew:paper_skill_high" }
+					type: "item"
+				}
+				{
+					count: 32L
+					id: "49062948E1014D0B"
+					item: { Count: 32, id: "minecraft:gold_ingot" }
+					type: "item"
+				}
+			]
+			title: "cuộn chính xác"
+			x: -0.5d
+			y: 2.0d
+		}
+		{
+			can_repeat: true
+			description: [
+				"Nếu bạn nhận sát thương trong vòng 0,3 giây sau khi thi triển, bạn sẽ né tránh theo bản năng ở một khoảng cách nhỏ. \\n Liên tục né tránh tất cả các đòn tấn công trong vòng 0,5 giây sau lần né đầu tiên. \\n\\n Sử dụng nhiều lần sẽ tăng gấp đôi mức tiêu hao sức chịu đựng."
+				"{image:wom:textures/gui/skills/dodge/dodge_master.png width:100 height:100 align:1}"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "minecraft:book"
+				tag: {
+					CustomTexture: "dodge_master"
+				}
+			}
+			id: "5768133D8F74D9B9"
+			rewards: [{
+				id: "7D65E376235640D2"
+				item: {
+					Count: 1
+					id: "epicfight:skillbook"
+					tag: {
+						skill: "wom:dodge_master"
+					}
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					consume_items: true
+					count: 3L
+					disable_toast: true
+					id: "4B410759432D9CF4"
+					item: { Count: 3, id: "enchanlownew:paper_skill_high" }
+					type: "item"
+				}
+				{
+					count: 64L
+					id: "0DA42181D7472F95"
+					item: { Count: 64, id: "minecraft:gold_ingot" }
+					type: "item"
+				}
+			]
+			title: "Dodge Master"
+			x: -0.5d
+			y: 3.0d
+		}
+		{
+			can_repeat: true
+			description: [
+				"Dịch chuyển nhanh chóng khỏi nguy hiểm. Khi sử dụng kỹ năng này, người chơi sẽ miễn nhiễm với các đòn tấn công vật lý."
+				"{image:wom:textures/gui/skills/dodge/ender_step.png width:100 height:100 align:1}"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "minecraft:book"
+				tag: {
+					CustomTexture: "ender_step"
+				}
+			}
+			id: "755C1A5269549401"
+			rewards: [{
+				id: "196526A132B341EB"
+				item: {
+					Count: 1
+					id: "epicfight:skillbook"
+					tag: {
+						skill: "wom:ender_step"
+					}
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					consume_items: true
+					count: 3L
+					disable_toast: true
+					id: "6382FCC8E6279BFB"
+					item: { Count: 3, id: "enchanlownew:paper_skill_high" }
+					type: "item"
+				}
+				{
+					count: 64L
+					id: "01E367CC16D52895"
+					item: { Count: 64, id: "minecraft:gold_ingot" }
+					type: "item"
+				}
+			]
+			title: "Các bước Ender"
+			x: 0.5d
+			y: 3.0d
+		}
+		{
+			can_repeat: true
+			description: [
+				"Dịch chuyển bạn đến phía sau mục tiêu tấn công cuối cùng trong phạm vi không quá 30 khối tính từ bạn (với vị trí của bạn là tâm của vòng tròn). \\n\\nKhi sử dụng kỹ năng này, người chơi sẽ miễn nhiễm với các đòn tấn công vật lý. \\n\\n&e cần học và trang bị trước: kỹ năng bước ender &r"
+				"{image:wom:textures/gui/skills/dodge/ender_obscuris.png width:100 height:100 align:1}"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "minecraft:book"
+				tag: {
+					CustomTexture: "ender_obscuris"
+				}
+			}
+			id: "010F331DF4868BB2"
+			rewards: [{
+				id: "36F49FF52C58614B"
+				item: {
+					Count: 1
+					id: "epicfight:skillbook"
+					tag: {
+						skill: "wom:ender_obscuris"
+					}
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					consume_items: true
+					count: 5L
+					disable_toast: true
+					id: "0F5843C42A5A9970"
+					item: { Count: 5, id: "enchanlownew:paper_skill_high" }
+					type: "item"
+				}
+				{
+					count: 64L
+					id: "1DB30C9E6477C0F9"
+					item: { Count: 64, id: "minecraft:gold_ingot" }
+					type: "item"
+				}
+			]
+			title: "dấu vết của Ender"
+			x: 1.5d
+			y: 3.0d
+		}
+		{
+			can_repeat: true
+			description: [
+				"Tiến về phía trước, đẩy lùi tất cả các thực thể trên đường đi của bạn. \\n miễn nhiễm với các hiệu ứng choáng trong khi sạc và giảm 40% sát thương phải gánh chịu."
+				"{image:wom:textures/gui/skills/dodge/bull_charge.png width:100 height:100 align:1}"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "minecraft:book"
+				tag: {
+					CustomTexture: "bull_charge"
+				}
+			}
+			id: "4C44B294ECE506C9"
+			rewards: [{
+				id: "10D741E3260BB0ED"
+				item: {
+					Count: 1
+					id: "epicfight:skillbook"
+					tag: {
+						skill: "wom:bull_charge"
+					}
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					count: 64L
+					id: "38889A03C0997452"
+					item: { Count: 64, id: "minecraft:emerald" }
+					type: "item"
+				}
+				{
+					count: 5L
+					id: "0048B8B99AE6ED93"
+					item: {
+						Count: 5
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "enchanlownew:paper_skill_low"
+					}
+					type: "item"
+				}
+			]
+			title: "Phí Mad Bull"
+			x: 0.5d
+			y: 2.0d
+		}
+		{
+			can_repeat: true
+			description: [
+				"Chìm vào bóng tối. \\n Di chuyển trong bóng tối sẽ làm biến dạng không gian, khiến bạn di chuyển nhanh hơn ánh sáng. \\n\\nKhi sử dụng kỹ năng này, người chơi sẽ miễn nhiễm với các đòn tấn công vật lý. \\n\\n&e cần học và trang bị trước: kỹ năng bước ender &r"
+				"{image:wom:textures/gui/skills/dodge/shadow_step.png width:100 height:100 align:1}"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "minecraft:book"
+				tag: {
+					CustomTexture: "shadow_step"
+				}
+			}
+			id: "518DD29E7CF8FFCB"
+			rewards: [{
+				id: "05236E1CAE645242"
+				item: {
+					Count: 1
+					id: "epicfight:skillbook"
+					tag: {
+						skill: "wom:shadow_step"
+					}
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					consume_items: true
+					count: 5L
+					disable_toast: true
+					id: "2878E90C598483FD"
+					item: { Count: 5, id: "enchanlownew:paper_skill_high" }
+					type: "item"
+				}
+				{
+					count: 64L
+					id: "5CD91C3ECA435C46"
+					item: { Count: 64, id: "minecraft:emerald" }
+					type: "item"
+				}
+			]
+			title: "Bước bóng"
+			x: 2.5d
+			y: 3.0d
+		}
+		{
+			can_repeat: true
+			description: [
+				"Theo dõi vị trí và sức khỏe của bạn. \\nSau 5 giây, bạn sẽ được dịch chuyển trở lại vị trí trước đó và được hồi phục một nửa lượng sát thương nhận được trong thời gian đó. \\n\\n Truyền lại để dịch chuyển sớm hoặc hủy. \\n\\n&e cần học và trang bị trước: Kỹ năng Shadow Step &r"
+				"{image:wom:textures/gui/skills/dodge/time_travel.png width:100 height:100 align:1}"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "minecraft:book"
+				tag: {
+					CustomTexture: "time_travel"
+				}
+			}
+			id: "59D1881ED9ECA37F"
+			rewards: [{
+				id: "5B76656C3C25F004"
+				item: {
+					Count: 1
+					id: "epicfight:skillbook"
+					tag: {
+						skill: "wom:time_travel"
+					}
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					consume_items: true
+					count: 5L
+					disable_toast: true
+					id: "1EC9D9928C1049E5"
+					item: { Count: 5, id: "enchanlownew:paper_skill_high" }
+					type: "item"
+				}
+				{
+					count: 64L
+					id: "30455DFA0B145FFD"
+					item: { Count: 64, id: "minecraft:gold_ingot" }
+					type: "item"
+				}
+			]
+			title: "Nhìn lại thời gian"
+			x: 3.5d
+			y: 3.0d
+		}
+		{
+			can_repeat: true
+			description: [
+				"Nhấp chuột phải để phòng thủ trước cuộc tấn công trực diện. Phòng thủ liên tục tiêu tốn nhiều sức chịu đựng hơn. \\n\\n Tiêu thụ sức chịu đựng: Hình phạt dựa trên khả năng phòng thủ hiện tại của bạn"
+				"{image:epicfight:textures/gui/skills/guard/guard.png width:100 height:100 align:1}"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "minecraft:book"
+				tag: {
+					CustomTexture: "guard"
+				}
+			}
+			id: "25AD8CBA21E3C235"
+			rewards: [{
+				id: "4233FD27315F84F0"
+				item: {
+					Count: 1
+					id: "epicfight:skillbook"
+					tag: {
+						skill: "epicfight:guard"
+					}
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					consume_items: true
+					disable_toast: true
+					id: "32305C7907B97342"
+					item: "enchanlownew:paper_skill_low"
+					only_from_crafting: true
+					type: "item"
+				}
+				{
+					count: 16L
+					id: "46E32644DC0BDD4B"
+					item: { Count: 16, id: "minecraft:iron_ingot" }
+					type: "item"
+				}
+			]
+			title: "phòng thủ"
+			x: 6.5d
+			y: 2.0d
+		}
+		{
+			can_repeat: true
+			description: [
+				"Giảm tiêu hao thể lực khi phòng thủ. Giảm 80% sát thương nổ, lửa, ma thuật và đạn khi phòng thủ. \\n\\n&e cần học và trang bị trước: kỹ năng "Phòng thủ" &r"
+				"{image:epicfight:textures/gui/skills/guard/impact_guard.png width:100 height:100 align:1}"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "minecraft:book"
+				tag: {
+					CustomTexture: "impact_guard"
+				}
+			}
+			id: "6A4382C492D6AB43"
+			rewards: [{
+				id: "47A2F6539D23CB09"
+				item: {
+					Count: 1
+					id: "epicfight:skillbook"
+					tag: {
+						skill: "epicfight:impact_guard"
+					}
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					consume_items: true
+					disable_toast: true
+					id: "333B55514693E1DC"
+					item: "enchanlownew:paper_skill_high"
+					type: "item"
+				}
+				{
+					count: 32L
+					id: "32BE0A575C404F57"
+					item: { Count: 32, id: "minecraft:iron_ingot" }
+					type: "item"
+				}
+			]
+			title: "kháng cự"
+			x: 7.5d
+			y: 2.0d
+		}
+		{
+			can_repeat: true
+			description: [
+				"Từ bỏ khả năng phòng thủ. &e[-0,5 Phục hồi sức chịu đựng]&r\\n\\n Triệu hồi một linh hồn mỗi giây, mỗi linh hồn giúp giảm 1% sát thương. \\nLinh hồn của chính bạn giúp bạn giảm 20% sát thương. Tối đa 50%\\n\\n nhận sát thương sẽ loại bỏ 10 linh hồn."
+				"{image:wom:textures/gui/skills/guard/soul_protection.png width:100 height:100 align:1}"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "minecraft:book"
+				tag: {
+					CustomTexture: "soul_protection"
+				}
+			}
+			id: "484084D3525D62F0"
+			rewards: [{
+				id: "2F53CBCDA9DAD006"
+				item: {
+					Count: 1
+					id: "epicfight:skillbook"
+					tag: {
+						skill: "wom:soul_protection"
+					}
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					consume_items: true
+					count: 3L
+					disable_toast: true
+					id: "7775F8649F63AB08"
+					item: { Count: 3, id: "enchanlownew:paper_skill_high" }
+					type: "item"
+				}
+				{
+					count: 64L
+					id: "18F7630AA52DF48D"
+					item: { Count: 64, id: "minecraft:iron_ingot" }
+					type: "item"
+				}
+				{
+					count: 64L
+					id: "5BDB2F3372867A0E"
+					item: { Count: 64, id: "minecraft:emerald" }
+					type: "item"
+				}
+			]
+			title: "Bảo vệ linh hồn"
+			x: 10.5d
+			y: 2.0d
+		}
+		{
+			can_repeat: true
+			description: [
+				"Từ bỏ khả năng phòng thủ. &e[-0,5 Tái tạo sức chịu đựng]&r\\n\\nCứ sau 10 giây, bạn nhận được một lớp Kháng bóng tiềm ẩn. \\nNếu bạn có ít nhất 1 lớp Kháng bóng tiềm ẩn, bạn sẽ nhận ít sát thương hơn 60%. \\n sẽ mất một lớp điện trở khi bị hư hỏng."
+				"{image:wom:textures/gui/skills/guard/shulker_cloak.png width:100 height:100 align:1}"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "minecraft:book"
+				tag: {
+					CustomTexture: "shulker_cloak"
+				}
+			}
+			id: "71EA090DD01A955C"
+			rewards: [{
+				id: "438DF2F82DE8A48F"
+				item: {
+					Count: 1
+					id: "epicfight:skillbook"
+					tag: {
+						skill: "wom:shulker_cloak"
+					}
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					consume_items: true
+					count: 3L
+					disable_toast: true
+					id: "57EBFC45A09A9935"
+					item: { Count: 3, id: "enchanlownew:paper_skill_high" }
+					type: "item"
+				}
+				{
+					count: 64L
+					id: "444B3767A3708894"
+					item: { Count: 64, id: "minecraft:gold_ingot" }
+					type: "item"
+				}
+				{
+					count: 64L
+					id: "1BF4681F529D708C"
+					item: { Count: 64, id: "minecraft:iron_ingot" }
+					type: "item"
+				}
+			]
+			title: "Áo choàng bóng tiềm ẩn"
+			x: 9.5d
+			y: 2.0d
+		}
+		{
+			can_repeat: true
+			description: [
+				"Phòng thủ hoàn hảo sẽ kích hoạt một cuộc phản công dựa trên các cuộc tấn công bằng vũ khí."
+				""
+				"{image:wom:textures/gui/skills/guard/counter_attack.png width:100 height:100 align:1}"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "minecraft:book"
+				tag: {
+					CustomTexture: "counter_attack"
+				}
+			}
+			id: "131BC6C6902FCC62"
+			rewards: [{
+				id: "0B78BD38317F3DD3"
+				item: {
+					Count: 1
+					id: "epicfight:skillbook"
+					tag: {
+						skill: "wom:counter_attack"
+					}
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					consume_items: true
+					disable_toast: true
+					id: "1C3C033EA4BFED3B"
+					item: "enchanlownew:paper_skill_high"
+					type: "item"
+				}
+				{
+					count: 32L
+					id: "4C8272A2B501C5A4"
+					item: { Count: 32, id: "minecraft:iron_ingot" }
+					type: "item"
+				}
+			]
+			title: "phản công"
+			x: 6.5d
+			y: 3.0d
+		}
+		{
+			can_repeat: true
+			description: [
+				"Phòng thủ Hoàn hảo có thể kích hoạt đòn đỡ để tránh tiêu hao sức chịu đựng. Có thể phòng thủ trước các cuộc tấn công từ xa."
+				"{image:epicfight:textures/gui/skills/guard/parrying.png width:100 height:100 align:1}"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "minecraft:book"
+				tag: {
+					CustomTexture: "parrying"
+				}
+			}
+			id: "5D330F6EE83D0202"
+			rewards: [{
+				id: "18BAB56EF8E2042B"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "epicfight:skillbook"
+					tag: {
+						skill: "efn:efn_parry"
+					}
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					consume_items: true
+					disable_toast: true
+					id: "3744756D98E6B277"
+					item: "enchanlownew:paper_skill_high"
+					type: "item"
+				}
+				{
+					count: 32L
+					id: "3B5C92DE65A9922F"
+					item: { Count: 32, id: "minecraft:iron_ingot" }
+					type: "item"
+				}
+			]
+			title: "đỡ đòn"
+			x: 8.5d
+			y: 2.0d
+		}
+		{
+			can_repeat: true
+			description: [
+				"Duy trì tư thế phòng thủ sẽ chặn các cuộc tấn công từ mọi hướng với chi phí sức chịu đựng lũy ​​tiến thấp. \\n giải phóng phòng thủ sau khi bị tấn công 5 lần sẽ giải phóng sóng xung kích, đẩy kẻ địch ra xa."
+				"&e cần học và trang bị trước: Kỹ năng “Phòng thủ” &r"
+				"{image:wom:textures/gui/skills/guard/perfect_bulwark.png width:100 height:100 align:1}"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "minecraft:book"
+				tag: {
+					CustomTexture: "perfect_bulwark"
+				}
+			}
+			id: "1D3F2D797E8FE3CC"
+			rewards: [{
+				id: "2B517911509DED91"
+				item: {
+					Count: 1
+					id: "epicfight:skillbook"
+					tag: {
+						skill: "wom:perfect_bulwark"
+					}
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					consume_items: true
+					count: 5L
+					disable_toast: true
+					id: "37D838846328B150"
+					item: { Count: 5, id: "enchanlownew:paper_skill_high" }
+					type: "item"
+				}
+				{
+					count: 64L
+					id: "1C50E4E66478B019"
+					item: { Count: 64, id: "minecraft:iron_ingot" }
+					type: "item"
+				}
+			]
+			title: "rào cản hoàn hảo"
+			x: 8.5d
+			y: 3.0d
+		}
+		{
+			can_repeat: true
+			description: [
+				"Vào thế phòng thủ trong 2 giây. \\nDTrong thời gian này, tất cả các cuộc tấn công có thể bị chặn mà không mất sức chịu đựng. \\nSau đó, bạn có thể trả lại tất cả thiệt hại mà bạn đã gánh chịu trong lần tấn công tiếp theo. \\n sẽ đặt lại sát thương phản đòn nếu sử dụng lại. Thời gian hồi chiêu 1 giây."
+				"&e cần học và trang bị trước: "Rào cản hoàn hảo""
+				"{image:wom:textures/gui/skills/guard/vengeful_parry.png width:100 height:100 align:1}"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "minecraft:book"
+				tag: {
+					CustomTexture: "vengeful_parry"
+				}
+			}
+			id: "099366D8EF40A4DC"
+			rewards: [{
+				id: "7034F8E9A5218792"
+				item: {
+					Count: 1
+					id: "epicfight:skillbook"
+					tag: {
+						skill: "wom:vengeful_parry"
+					}
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					consume_items: true
+					count: 5L
+					disable_toast: true
+					id: "0CED3006A2A70E82"
+					item: { Count: 5, id: "enchanlownew:paper_skill_high" }
+					type: "item"
+				}
+				{
+					count: 64L
+					id: "09063166C18D2CBE"
+					item: { Count: 64, id: "minecraft:iron_ingot" }
+					type: "item"
+				}
+			]
+			title: "trả thù"
+			x: 9.5d
+			y: 3.0d
+		}
+		{
+			can_repeat: true
+			description: [
+				"Nhận một tấm khiên có giá trị máu tối đa là 20 và có thể phục hồi 1 điểm mỗi giây khi ra khỏi giao tranh."
+				"Mỗi cấp độ bùa bảo vệ sẽ tăng tốc độ phục hồi thêm 0,25."
+				"{image:wom:textures/gui/skills/passive/heart_shield.png width:100 height:100 align:1}"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "minecraft:book"
+				tag: {
+					CustomTexture: "heart_shield"
+				}
+			}
+			id: "5DE05283C56C4574"
+			rewards: [{
+				id: "4347DED2D8C8843C"
+				item: {
+					Count: 1
+					id: "epicfight:skillbook"
+					tag: {
+						skill: "wom:heart_shield"
+					}
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					consume_items: true
+					count: 5L
+					disable_toast: true
+					id: "2BCAD14C444AB1C5"
+					item: { Count: 5, id: "enchanlownew:paper_skill_high" }
+					type: "item"
+				}
+				{
+					count: 64L
+					id: "1E8B492F3CCAD49E"
+					item: { Count: 64, id: "minecraft:emerald" }
+					type: "item"
+				}
+				{
+					count: 64L
+					id: "604AAAFFBE89C380"
+					item: { Count: 64, id: "minecraft:gold_ingot" }
+					type: "item"
+				}
+			]
+			title: "Lá chắn trái tim"
+			x: 1.5d
+			y: 4.5d
+		}
+		{
+			can_repeat: true
+			description: [
+				"Khi bạn sắp nhận sát thương chí mạng, sát thương sẽ giảm đi, 40% máu sẽ được phục hồi và bạn sẽ được tăng sức đề kháng trong thời gian ngắn lên 4."
+				"&e[Làm mát:300 giây]&r"
+				"{image:epicfight_awaken:textures/gui/skills/passive/unyielding_will.png width:100 height:100 align:center}"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "minecraft:book"
+				tag: {
+					CustomTexture: "unyielding_will"
+				}
+			}
+			id: "4B380A0E6381C25F"
+			rewards: [{
+				id: "4EF36A780C154613"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "epicfight:skillbook"
+					tag: {
+						skill: "epicfight_awaken:unyielding_will"
+					}
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					count: 3L
+					id: "41D88460866C411D"
+					item: {
+						Count: 2
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "enchanlownew:paper_skill_high"
+						tag: { }
+					}
+					type: "item"
+				}
+				{
+					count: 5L
+					id: "5C44C2E5E78E51D3"
+					item: {
+						Count: 5
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:totem_of_undying"
+						tag: { }
+					}
+					type: "item"
+				}
+			]
+			title: "ý chí kiên cường"
+			x: -0.5d
+			y: 5.5d
+		}
+		{
+			can_repeat: true
+			description: [
+				"Nếu bạn không làm gì trong 2 giây, bạn sẽ đạt được trạng thái "nhận thức", giúp bạn miễn nhiễm với các hiệu ứng choáng và giảm 30% sát thương phải nhận trong 2 giây tiếp theo."
+				"{image:wom:textures/gui/skills/passive/pain_anticipation.png width:100 height:100 align:1}"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "minecraft:book"
+				tag: {
+					CustomTexture: "pain_anticipation"
+				}
+			}
+			id: "18A5673F9DF79D06"
+			rewards: [{
+				id: "68FD43545EEB1DEA"
+				item: {
+					Count: 1
+					id: "epicfight:skillbook"
+					tag: {
+						skill: "wom:pain_anticipation"
+					}
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					consume_items: true
+					count: 3L
+					disable_toast: true
+					id: "5E5C69D3EFAE9BFD"
+					item: { Count: 3, id: "enchanlownew:paper_skill_high" }
+					type: "item"
+				}
+				{
+					count: 64L
+					id: "66C83B82C4DAB031"
+					item: { Count: 64, id: "minecraft:gold_ingot" }
+					type: "item"
+				}
+				{
+					count: 32L
+					id: "34A7102167109012"
+					item: { Count: 32, id: "minecraft:emerald" }
+					type: "item"
+				}
+			]
+			title: "dự đoán nỗi đau"
+			x: 0.5d
+			y: 5.5d
+		}
+		{
+			can_repeat: true
+			description: [
+				"Nếu bạn nhận sát thương trong khi chuẩn bị tấn công, bạn sẽ nhận được khả năng chống choáng trong 3 giây bằng với sức chịu đựng đã tiêu hao."
+				"&e[+2 Máu tối đa +4 Thể lực]&r"
+				"{image:epicfight:textures/gui/skills/passive/endurance.png width:100 height:100 align:1}"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "minecraft:book"
+				tag: {
+					CustomTexture: "endurance"
+				}
+			}
+			id: "5A0E23930E65B79E"
+			rewards: [{
+				id: "234C2C29248D416E"
+				item: {
+					Count: 1
+					id: "epicfight:skillbook"
+					tag: {
+						skill: "epicfight:endurance"
+					}
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					consume_items: true
+					disable_toast: true
+					id: "210593079AB2499F"
+					item: "enchanlownew:paper_skill_high"
+					type: "item"
+				}
+				{
+					count: 32L
+					id: "02A118166628F3D4"
+					item: { Count: 32, id: "minecraft:gold_ingot" }
+					type: "item"
+				}
+			]
+			title: "chịu đựng"
+			x: -1.5d
+			y: 5.5d
+		}
+		{
+			can_repeat: true
+			description: [
+				"Phục hồi 30% sức chịu đựng đã tiêu hao khi tiêu diệt mục tiêu."
+				"&e[+10% sát thương tấn công +3 sức chịu đựng]&r"
+				"{image:epicfight:textures/gui/skills/passive/stamina_pillager.png width:100 height:100 align:1}"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "minecraft:book"
+				tag: {
+					CustomTexture: "stamina_pillager"
+				}
+			}
+			id: "60A50ED719C74CE2"
+			rewards: [{
+				id: "344AEF88D53D5709"
+				item: {
+					Count: 1
+					id: "epicfight:skillbook"
+					tag: {
+						skill: "epicfight:stamina_pillager"
+					}
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					consume_items: true
+					count: 3L
+					disable_toast: true
+					id: "625B8B2658B00883"
+					item: { Count: 3, id: "enchanlownew:paper_skill_low" }
+					type: "item"
+				}
+				{
+					count: 16L
+					id: "56252EBB89A72C3F"
+					item: { Count: 16, id: "minecraft:iron_ingot" }
+					type: "item"
+				}
+			]
+			title: "Cướp bóc sức chịu đựng"
+			x: 3.5d
+			y: 4.5d
+		}
+		{
+			can_repeat: true
+			description: [
+				"Bây giờ bạn có thể hủy các cuộc tấn công bằng cách né tránh. Bạn cũng có thể né tránh khi sức chịu đựng của bạn cạn kiệt."
+				"&e[+0,3 hồi phục độ bền]&r"
+				"{image:epicfight:textures/gui/skills/passive/emergency_escape.png width:100 height:100 align:1}"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "minecraft:book"
+				tag: {
+					CustomTexture: "emergency_escape"
+				}
+			}
+			id: "7204A9242EBE174B"
+			rewards: [{
+				id: "49CFF377BEB84BAE"
+				item: {
+					Count: 1
+					id: "epicfight:skillbook"
+					tag: {
+						skill: "epicfight:emergency_escape"
+					}
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					count: 2L
+					id: "7B6A2EAF2E3254AC"
+					item: {
+						Count: 2
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "enchanlownew:paper_skill_high"
+					}
+					type: "item"
+				}
+				{
+					count: 32L
+					id: "086703E992129D8B"
+					item: {
+						Count: 32
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:gold_ingot"
+					}
+					type: "item"
+				}
+				{
+					count: 32L
+					id: "6C5C3DDC18B4CE17"
+					item: {
+						Count: 32
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:iron_ingot"
+					}
+					type: "item"
+				}
+			]
+			title: "thoát hiểm khẩn cấp"
+			x: 0.5d
+			y: 4.5d
+		}
+		{
+			can_repeat: true
+			description: [
+				"Khi sức chịu đựng cạn kiệt, sức khỏe sẽ được tiêu hao để thay thế."
+				"&e[+5% sát thương tấn công +4 máu tối đa]&r"
+				"{image:epicfight:textures/gui/skills/passive/forbidden_strength.png width:100 height:100 align:1}"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "minecraft:book"
+				tag: {
+					CustomTexture: "forbidden_strength"
+				}
+			}
+			id: "7FBBF92CB6A7B9BA"
+			rewards: [{
+				id: "7656A4D8438DC40F"
+				item: {
+					Count: 1
+					id: "epicfight:skillbook"
+					tag: {
+						skill: "epicfight:forbidden_strength"
+					}
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					consume_items: true
+					count: 3L
+					disable_toast: true
+					id: "24F5CF96E3C6F324"
+					item: { Count: 3, id: "enchanlownew:paper_skill_low" }
+					type: "item"
+				}
+				{
+					count: 16L
+					id: "7E9FC6606A1FBAE7"
+					item: { Count: 16, id: "minecraft:iron_ingot" }
+					type: "item"
+				}
+			]
+			title: "Quyền lực cấm"
+			x: -0.5d
+			y: 4.5d
+		}
+		{
+			can_repeat: true
+			description: [
+				"Né tránh đòn tấn công của kẻ thù trước khi nó tấn công bạn để khôi phục sức chịu đựng."
+				"&e[+0,4 hồi phục thể lực]&r"
+				"{image:epicfight:textures/gui/skills/passive/technician.png width:100 height:100 align:1}"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "minecraft:book"
+				tag: {
+					CustomTexture: "technician"
+				}
+			}
+			id: "6A49E852342DB998"
+			rewards: [{
+				id: "4AE21F120621277C"
+				item: {
+					Count: 1
+					id: "epicfight:skillbook"
+					tag: {
+						skill: "epicfight:technician"
+					}
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					consume_items: true
+					count: 3L
+					disable_toast: true
+					id: "63597EB5D64EFAEE"
+					item: { Count: 3, id: "enchanlownew:paper_skill_low" }
+					type: "item"
+				}
+				{
+					count: 16L
+					id: "5D859EE1B597ADB0"
+					item: { Count: 16, id: "minecraft:iron_ingot" }
+					type: "item"
+				}
+			]
+			title: "Bậc thầy về kỹ thuật"
+			x: -1.5d
+			y: 4.5d
+		}
+		{
+			can_repeat: true
+			description: [
+				"Nhận thêm 15% tốc độ tấn công."
+				"&e[+2 thể lực +0,2 hồi phục thể lực]&r"
+				"{image:epicfight:textures/gui/skills/passive/swordmaster.png width:100 height:100 align:1}"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "minecraft:book"
+				tag: {
+					CustomTexture: "swordmaster"
+				}
+			}
+			id: "2991F362A475713E"
+			rewards: [{
+				id: "380E2D3073D0E677"
+				item: {
+					Count: 1
+					id: "epicfight:skillbook"
+					tag: {
+						skill: "epicfight:swordmaster"
+					}
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					consume_items: true
+					count: 3L
+					disable_toast: true
+					id: "7D4500CE4DC602AC"
+					item: { Count: 3, id: "enchanlownew:paper_skill_high" }
+					type: "item"
+				}
+				{
+					count: 32L
+					id: "2F740025C36773E9"
+					item: { Count: 32, id: "minecraft:emerald" }
+					type: "item"
+				}
+				{
+					count: 64L
+					id: "6426D3BE21F05E93"
+					item: { Count: 64, id: "minecraft:iron_ingot" }
+					type: "item"
+				}
+			]
+			title: "bậc thầy kiếm thuật"
+			x: -1.5d
+			y: 7.0d
+		}
+		{
+			can_repeat: true
+			description: [
+				"Khi bạn tiêu diệt kẻ thù bằng kỹ năng vũ khí, vũ khí sẽ được nạp lại năng lượng. Số lượng phí dựa trên sát thương vũ khí của bạn và số lượng kẻ thù bị tiêu diệt."
+				"&e[+15% sát thương tấn công]&r"
+				"{image:epicfight:textures/gui/skills/passive/death_harvest.png width:100 height:100 align:1}"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "minecraft:book"
+				tag: {
+					CustomTexture: "death_harvest"
+				}
+			}
+			id: "6D91866E587B5444"
+			rewards: [{
+				id: "219F5F75B6CF1354"
+				item: {
+					Count: 1
+					id: "epicfight:skillbook"
+					tag: {
+						skill: "epicfight:death_harvest"
+					}
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					consume_items: true
+					count: 2L
+					disable_toast: true
+					id: "6DC7670463246DA2"
+					item: { Count: 2, id: "enchanlownew:paper_skill_high" }
+					type: "item"
+				}
+				{
+					count: 32L
+					id: "0F94C40A4B3D679A"
+					item: { Count: 32, id: "minecraft:gold_ingot" }
+					type: "item"
+				}
+			]
+			title: "thu hoạch cái chết"
+			x: -0.5d
+			y: 7.0d
+		}
+		{
+			can_repeat: true
+			description: [
+				"5% sát thương bạn gây ra sẽ được chuyển thành hồi máu."
+				"{image:wom:textures/gui/skills/passive/vampirize.png width:100 height:100 align:1}"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "minecraft:book"
+				tag: {
+					CustomTexture: "vampirize"
+				}
+			}
+			id: "43FBCF48F824BFB9"
+			rewards: [{
+				id: "276D354AA4F2D923"
+				item: {
+					Count: 1
+					id: "epicfight:skillbook"
+					tag: {
+						skill: "wom:vampirize"
+					}
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					consume_items: true
+					count: 5L
+					disable_toast: true
+					id: "46970DFB69E90616"
+					item: { Count: 5, id: "enchanlownew:paper_skill_high" }
+					type: "item"
+				}
+				{
+					count: 64L
+					id: "4884A4AD1AFD4560"
+					item: { Count: 64, id: "minecraft:gold_ingot" }
+					type: "item"
+				}
+				{
+					count: 64L
+					id: "143CA29927FF0200"
+					item: { Count: 64, id: "minecraft:emerald" }
+					type: "item"
+				}
+				{
+					count: 64L
+					id: "27FA182A6F9983A8"
+					item: { Count: 64, id: "minecraft:iron_ingot" }
+					type: "item"
+				}
+			]
+			title: "Ma cà rồng"
+			x: 1.5d
+			y: 7.0d
+		}
+		{
+			can_repeat: true
+			description: [
+				"Cung cấp cho bạn 10% cơ hội tấn công chí mạng và 30% sát thương bổ sung. \\nMỗi cấp độ phù phép phòng cháy tăng lên, tỷ lệ trúng đòn chí mạng tăng 5%. Mỗi cấp độ bùa chú Bảo vệ chống nổ sẽ tăng 5% sát thương chí mạng."
+				"{image:wom:textures/gui/skills/passive/critical_knowledge.png width:100 height:100 align:1}"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "minecraft:book"
+				tag: {
+					CustomTexture: "critical_knowledge"
+				}
+			}
+			id: "44689319ACE33B36"
+			rewards: [{
+				id: "0125FD473B1AF19F"
+				item: {
+					Count: 1
+					id: "epicfight:skillbook"
+					tag: {
+						skill: "wom:critical_knowledge"
+					}
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					consume_items: true
+					count: 5L
+					disable_toast: true
+					id: "00B0E4D00853FDB3"
+					item: { Count: 5, id: "enchanlownew:paper_skill_high" }
+					type: "item"
+				}
+				{
+					count: 64L
+					id: "5F9871C28EF2C273"
+					item: { Count: 64, id: "minecraft:emerald" }
+					type: "item"
+				}
+				{
+					count: 64L
+					id: "684A4F356A0B23A4"
+					item: { Count: 64, id: "minecraft:gold_ingot" }
+					type: "item"
+				}
+				{
+					count: 16L
+					id: "66F3FF3D7724E49C"
+					item: {
+						Count: 16
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:diamond"
+					}
+					type: "item"
+				}
+			]
+			title: "Kiến thức về đòn chí mạng"
+			x: 2.5d
+			y: 7.0d
+		}
+		{
+			can_repeat: true
+			description: [
+				"\" nhảy theo âm thanh của cái chết"
+				"{image:wom:textures/gui/skills/passive/dancing_blade.png width:100 height:100 align:1}"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "minecraft:book"
+				tag: {
+					CustomTexture: "dancing_blade"
+				}
+			}
+			id: "19D4586B45F18B6B"
+			rewards: [{
+				id: "24368E9A0F056A2F"
+				item: {
+					Count: 1
+					id: "epicfight:skillbook"
+					tag: {
+						skill: "wom:dancing_blade"
+					}
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					consume_items: true
+					count: 5L
+					disable_toast: true
+					id: "737715F7F20617D2"
+					item: { Count: 5, id: "enchanlownew:paper_skill_high" }
+					type: "item"
+				}
+				{
+					count: 64L
+					id: "6933008663208E77"
+					item: { Count: 64, id: "minecraft:gold_ingot" }
+					type: "item"
+				}
+				{
+					count: 64L
+					id: "41BE762D30353E45"
+					item: { Count: 64, id: "minecraft:emerald" }
+					type: "item"
+				}
+				{
+					count: 64L
+					id: "706CC2EB9B438E94"
+					item: {
+						Count: 64
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:iron_ingot"
+					}
+					type: "item"
+				}
+			]
+			title: "Lưỡi dao nhảy múa"
+			x: 3.5d
+			y: 7.0d
+		}
+		{
+			can_repeat: true
+			description: [
+				"Lén lút trong 2 giây không cử động để vào trạng thái thiền định. Bạn thiền càng lâu thì hiệu ứng này càng kéo dài. \\n Thiền có ba giai đoạn, mỗi giai đoạn cung cấp các hiệu ứng khác nhau: \\n\\n Giai đoạn 1: Tăng 30% lượng sát thương. \\n\\n Giai đoạn 2: Tăng tốc độ tấn công và tốc độ di chuyển I thêm 20%. \\n\\n Giai đoạn 3: Giảm 30% sát thương nhận vào và bật Tái sinh I."
+				"{image:wom:textures/gui/skills/passive/meditation.png width:100 height:100 align:1}"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "minecraft:book"
+				tag: {
+					CustomTexture: "meditation"
+				}
+			}
+			id: "6D00BB33655C4FBC"
+			rewards: [{
+				id: "361FCDB933FB3626"
+				item: {
+					Count: 1
+					id: "epicfight:skillbook"
+					tag: {
+						skill: "wom:meditation"
+					}
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					consume_items: true
+					count: 5L
+					disable_toast: true
+					id: "16A8B601D4BC35A8"
+					item: { Count: 5, id: "enchanlownew:paper_skill_high" }
+					type: "item"
+				}
+				{
+					count: 64L
+					id: "32D5C1053A5D6AA2"
+					item: { Count: 64, id: "minecraft:gold_ingot" }
+					type: "item"
+				}
+				{
+					count: 64L
+					id: "64D0FE499768C695"
+					item: { Count: 64, id: "minecraft:emerald" }
+					type: "item"
+				}
+				{
+					count: 64L
+					id: "1D43ABAEDB67E4C7"
+					item: { Count: 64, id: "minecraft:iron_ingot" }
+					type: "item"
+				}
+			]
+			title: "thiền định"
+			x: -1.5d
+			y: 8.0d
+		}
+		{
+			can_repeat: true
+			description: [
+				"Khi giá trị sức khỏe cao hơn 80%, \\n sẽ nhận được hiệu ứng tâm trạng, tăng 20% ​​sát thương của bạn và giảm 20% sát thương phải gánh chịu."
+				"{image:wom:textures/gui/skills/passive/mindset.png width:100 height:100 align:1}"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "minecraft:book"
+				tag: {
+					CustomTexture: "mindset"
+				}
+			}
+			id: "043DF31A8D5B93EF"
+			rewards: [{
+				id: "23E54E3ED532EDF6"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "epicfight:skillbook"
+					tag: {
+						skill: "wom:mindset"
+					}
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					consume_items: true
+					count: 5L
+					id: "20AA6B052810050C"
+					item: "enchanlownew:paper_skill_high"
+					type: "item"
+				}
+				{
+					count: 64L
+					id: "2DBD15BEFF156272"
+					item: { Count: 64, id: "minecraft:emerald" }
+					type: "item"
+				}
+				{
+					count: 64L
+					id: "426CD13FAEE3C513"
+					item: { Count: 64, id: "minecraft:gold_ingot" }
+					type: "item"
+				}
+				{
+					count: 64L
+					id: "17F87655C63F717F"
+					item: { Count: 64, id: "minecraft:iron_ingot" }
+					type: "item"
+				}
+			]
+			title: "tâm trạng"
+			x: -0.5d
+			y: 8.0d
+		}
+		{
+			can_repeat: true
+			description: [
+				"Nếu bạn không làm gì trong 4 giây, bạn sẽ đạt được trạng thái "Trả thù", giúp bạn miễn nhiễm với các hiệu ứng choáng trong 4 giây tiếp theo và tăng 30% sát thương."
+				"{image:wom:textures/gui/skills/passive/latent_retribution.png width:100 height:100 align:1}"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "minecraft:book"
+				tag: {
+					CustomTexture: "latent_retribution"
+				}
+			}
+			id: "30A19714761B7853"
+			rewards: [{
+				id: "2133EF323A0E1763"
+				item: {
+					Count: 1
+					id: "epicfight:skillbook"
+					tag: {
+						skill: "wom:latent_retribution"
+					}
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					consume_items: true
+					count: 3L
+					disable_toast: true
+					id: "76091BB6B626EAA0"
+					item: { Count: 3, id: "enchanlownew:paper_skill_high" }
+					type: "item"
+				}
+				{
+					count: 64L
+					id: "4168ACE3C477C056"
+					item: { Count: 64, id: "minecraft:emerald" }
+					type: "item"
+				}
+				{
+					count: 64L
+					id: "1DB3299EA12143C4"
+					item: { Count: 64, id: "minecraft:gold_ingot" }
+					type: "item"
+				}
+				{
+					count: 64L
+					id: "2FE11B38D135716C"
+					item: { Count: 64, id: "minecraft:iron_ingot" }
+					type: "item"
+				}
+			]
+			title: "khả năng trả đũa"
+			x: 0.5d
+			y: 8.0d
+		}
+		{
+			can_repeat: true
+			description: [
+				"Cứ mỗi 1% máu bị mất sẽ nhận thêm 0,3% sức tấn công."
+				"và 0,3% tốc độ tấn công cộng thêm."
+				"&e[+6 Sức chịu đựng]&r"
+				"{image:epicfight:textures/gui/skills/passive/berserker.png width:100 height:100 align:1}"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "minecraft:book"
+				tag: {
+					CustomTexture: "berserker"
+				}
+			}
+			id: "79B1E9124ABC8CA3"
+			rewards: [{
+				id: "2AD862406F3BC160"
+				item: {
+					Count: 1
+					id: "epicfight:skillbook"
+					tag: {
+						skill: "epicfight:berserker"
+					}
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					consume_items: true
+					count: 5L
+					disable_toast: true
+					id: "12D4D6E58D384663"
+					item: { Count: 5, id: "enchanlownew:paper_skill_high" }
+					type: "item"
+				}
+				{
+					count: 64L
+					id: "4A6E48FF52BD1831"
+					item: { Count: 64, id: "minecraft:emerald" }
+					type: "item"
+				}
+				{
+					count: 64L
+					id: "5D47E465506EAE7E"
+					item: { Count: 64, id: "minecraft:gold_ingot" }
+					type: "item"
+				}
+				{
+					count: 64L
+					id: "4E9620896FDCEB75"
+					item: { Count: 64, id: "minecraft:iron_ingot" }
+					type: "item"
+				}
+			]
+			title: "hung bạo"
+			x: 1.5d
+			y: 8.0d
+		}
+		{
+			can_repeat: true
+			description: [
+				"Khi sức khỏe của bạn dưới 20%, \\n sẽ có hiệu ứng adrenaline, tăng 40% sát thương và giảm 20% sát thương phải nhận."
+				"{image:wom:textures/gui/skills/passive/adrenaline.png width:100 height:100 align:1}"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "minecraft:book"
+				tag: {
+					CustomTexture: "adrenaline"
+				}
+			}
+			id: "678E3F48F5297967"
+			rewards: [{
+				id: "51B7357258C1BB1E"
+				item: {
+					Count: 1
+					id: "epicfight:skillbook"
+					tag: {
+						skill: "wom:adrenaline"
+					}
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					consume_items: true
+					count: 3L
+					disable_toast: true
+					id: "3FF97EDBC5AF58B2"
+					item: { Count: 3, id: "enchanlownew:paper_skill_high" }
+					type: "item"
+				}
+				{
+					count: 64L
+					id: "608EDFC0CBBA7868"
+					item: { Count: 64, id: "minecraft:emerald" }
+					type: "item"
+				}
+				{
+					count: 64L
+					id: "04EE722EB0C5539F"
+					item: { Count: 64, id: "minecraft:gold_ingot" }
+					type: "item"
+				}
+				{
+					count: 64L
+					id: "23EA7BE8C9B5D9FC"
+					item: { Count: 64, id: "minecraft:iron_ingot" }
+					type: "item"
+				}
+			]
+			title: "Adrenalin"
+			x: 2.5d
+			y: 8.0d
+		}
+		{
+			description: [
+				"Nhận được: 1. Tìm &eNPC-Thợ săn quái vật &r và nhận nhiệm vụ"
+				"(Có thể tìm kiếm bằng con trỏ phiêu lưu)"
+				"2.&a túi loot &r có xác suất rơi"
+			]
+			entity_vis_size: 1.0f
+			id: "092EE34C2808DA99"
+			rewards: [{
+				id: "105431517CF16A8A"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			shape: "square"
+			tasks: [{
+				id: "7EC5E4DE082336AC"
+				item: "enchanlownew:paper_skill_low"
+				type: "item"
+			}]
+			x: 3.5d
+			y: 0.5d
+		}
+		{
+			description: [
+				"1. Tìm &eNPC-Monster Hunter &r và nhận nhiệm vụ hiếm &b &r để nhận"
+				"(Có thể tìm kiếm bằng con trỏ phiêu lưu)"
+				"2.&b Thử thách cổng thông tin [Chi nhánh] Phần thưởng &r"
+				"3. Sử dụng phiếu trao đổi sách kỹ năng &e (bình thường) &r để tổng hợp"
+				"4.&a túi loot &r có xác suất rơi"
+			]
+			entity_vis_size: 1.0f
+			id: "7A184652BB43125F"
+			rewards: [{
+				id: "6C28EDB3C25860B0"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			shape: "square"
+			tasks: [{
+				id: "46B50A4751572080"
+				item: "enchanlownew:paper_skill_high"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 0.5d
+		}
+		{
+			can_repeat: true
+			description: [
+				"Tốc biến theo hướng chỉ định và né tránh mọi đòn tấn công có thể né được."
+				"{image:cdmoveset:textures/gui/skills/dodge/yamato_step.png width:100 height:100 align:1}"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "minecraft:book"
+				tag: {
+					CustomTexture: "yamato_step"
+				}
+			}
+			id: "0DFFDEA1DD24E9F1"
+			rewards: [{
+				id: "5054DFE17E11A615"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "epicfight:skillbook"
+					tag: {
+						skill: "cdmoveset:yamato_step"
+					}
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					consume_items: true
+					count: 2L
+					id: "1F08D403C98E86B9"
+					item: { Count: 2, id: "enchanlownew:paper_skill_high" }
+					type: "item"
+				}
+				{
+					count: 64L
+					id: "0F36899199CC2B34"
+					item: { Count: 64, id: "minecraft:iron_ingot" }
+					type: "item"
+				}
+			]
+			title: "ma"
+			x: 1.5d
+			y: 2.0d
+		}
+		{
+			can_repeat: true
+			description: [
+				"Có được khả năng chống lại loại thiệt hại gần đây,"
+				"Giảm 10% sát thương mỗi lớp. Khả năng kháng sát thương này có thể được cộng dồn tối đa 3 lần."
+				"&e[+6 máu tối đa]&r"
+				""
+				"{image:modifiers:item/skills/passive/adaptive_skin width:100 height:100 align:1}"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "minecraft:book"
+				tag: {
+					CustomTexture: "adaptive_skin"
+				}
+			}
+			id: "69703C2A21367540"
+			rewards: [{
+				id: "44C5B8282773DB37"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "epicfight:skillbook"
+					tag: {
+						skill: "epicfight:adaptive_skin"
+					}
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					count: 5L
+					id: "4ED800B353AE9A3D"
+					item: {
+						Count: 5
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "enchanlownew:paper_skill_high"
+					}
+					type: "item"
+				}
+				{
+					count: 64L
+					id: "575ED4850487A8A2"
+					item: {
+						Count: 64
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:emerald"
+					}
+					type: "item"
+				}
+				{
+					count: 64L
+					id: "43CB8C47AA002DB7"
+					item: {
+						Count: 64
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:iron_ingot"
+					}
+					type: "item"
+				}
+			]
+			title: "Da thích ứng"
+			x: 2.5d
+			y: 4.5d
+		}
+		{
+			can_repeat: true
+			description: [
+				"Bắt đầu phục hồi sức chịu đựng ngay sau khi giết một sinh vật."
+				"&e[+10% tốc độ tấn công +10% sát thương tấn công]&r"
+				""
+				"{image:epicfight:textures/gui/skills/passive/adrenaline_fiend.png width:100 height:100 align:1}"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "minecraft:book"
+				tag: {
+					CustomTexture: "adrenaline_fiend"
+				}
+			}
+			id: "7C5C5E36B354D1ED"
+			rewards: [
+				{
+					id: "0278BE85843B52F7"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "epicfight:skillbook"
+						tag: {
+							skill: "epicfight:adrenaline_fiend"
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "480FBA80E6A2B8D1"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "epicfight:skillbook"
+						tag: {
+							skill: "epicfight_awaken:revitalize"
+						}
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "634F6019BAD64D52"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "enchanlownew:paper_skill_high"
+					}
+					type: "item"
+				}
+				{
+					count: 64L
+					id: "64207D29EA1CAD4F"
+					item: {
+						Count: 64
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:gold_ingot"
+					}
+					type: "item"
+				}
+				{
+					count: 32L
+					id: "484F85CB265E51C8"
+					item: {
+						Count: 32
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:iron_ingot"
+					}
+					type: "item"
+				}
+			]
+			title: "cơn sốt adrenaline"
+			x: 2.5d
+			y: 5.5d
+		}
+		{
+			can_repeat: true
+			description: [
+				"Nhận thêm 5% sát thương cho kẻ địch bị tấn công gần đây nhất."
+				"Xếp chồng lên tới 8 lớp. Nếu nó tấn công các mục tiêu khác, số lớp sẽ được đặt lại."
+				"&e[+10% tốc độ tấn công]&r"
+				""
+				"{image:epicfight:textures/gui/skills/passive/bonebreaker.png width:100 height:100 align:1}"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "minecraft:book"
+				tag: {
+					CustomTexture: "bonebreaker"
+				}
+			}
+			id: "344281C1749360BB"
+			rewards: [{
+				id: "0CF9B7B4B3867BFB"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "epicfight:skillbook"
+					tag: {
+						skill: "epicfight:bonebreaker"
+					}
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					count: 5L
+					id: "2BE43C6930ED1790"
+					item: {
+						Count: 5
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "enchanlownew:paper_skill_high"
+					}
+					type: "item"
+				}
+				{
+					count: 64L
+					id: "110C5F5603FEB435"
+					item: {
+						Count: 64
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:emerald"
+					}
+					type: "item"
+				}
+				{
+					count: 64L
+					id: "4ECD3B49B382C3D9"
+					item: {
+						Count: 64
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:gold_ingot"
+					}
+					type: "item"
+				}
+				{
+					count: 16L
+					id: "772EE947B8D8F99D"
+					item: {
+						Count: 16
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:diamond"
+					}
+					type: "item"
+				}
+			]
+			title: "Máy bẻ xương"
+			x: 4.5d
+			y: 7.0d
+		}
+		{
+			can_repeat: true
+			description: [
+				"Tăng tiến độ nạp vũ khí khi né đòn tấn công thành công."
+				"&e[+0,15 hồi phục sức bền +10% sát thương tấn công]&r"
+				""
+				""
+				"{image:epicfight:textures/gui/skills/passive/catharsis.png width:100 height:100 align:1}"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "minecraft:book"
+				tag: {
+					CustomTexture: "catharsis"
+				}
+			}
+			id: "632415277229AFCE"
+			rewards: [{
+				id: "5BE8F937E67E05D4"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "epicfight:skillbook"
+					tag: {
+						skill: "epicfight:catharsis"
+					}
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					count: 3L
+					id: "052B343E6C5BC534"
+					item: {
+						Count: 3
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "enchanlownew:paper_skill_high"
+					}
+					type: "item"
+				}
+				{
+					count: 32L
+					id: "3FA6579341687ED6"
+					item: {
+						Count: 32
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:emerald"
+					}
+					type: "item"
+				}
+				{
+					count: 32L
+					id: "4C2EF4F8688532B5"
+					item: {
+						Count: 32
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:gold_ingot"
+					}
+					type: "item"
+				}
+			]
+			title: "tẩy rửa"
+			x: 1.5d
+			y: 5.5d
+		}
+		{
+			can_repeat: true
+			description: [
+				"Nhận thêm 30% sát thương cho kẻ địch vừa gây sát thương cho bạn."
+				"Rời khỏi giao tranh với mục tiêu hiện tại trong 4 giây và bạn có thể chuyển đổi mục tiêu."
+				"Sau khi tiêu diệt mục tiêu, bạn sẽ nhận được 30% sát thương cộng thêm, lượng sát thương này sẽ giảm dần trong vòng 10 giây."
+				"&e[+3 máu tối đa +5% sát thương tấn công]&r"
+				""
+				"{image:epicfight:textures/gui/skills/passive/vengeance.png width:100 height:100 align:1}"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "minecraft:book"
+				tag: {
+					CustomTexture: "vengeance"
+				}
+			}
+			id: "537C9CA733514119"
+			rewards: [{
+				id: "659C25D92D4FC753"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "epicfight:skillbook"
+					tag: {
+						skill: "epicfight:vengeance"
+					}
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					count: 3L
+					id: "73DF63C0DA537D0B"
+					item: {
+						Count: 3
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "enchanlownew:paper_skill_high"
+					}
+					type: "item"
+				}
+				{
+					count: 64L
+					id: "05D9638CF031C941"
+					item: {
+						Count: 64
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:emerald"
+					}
+					type: "item"
+				}
+				{
+					count: 32L
+					id: "7C3CE17ACFE6382A"
+					item: {
+						Count: 32
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:gold_ingot"
+					}
+					type: "item"
+				}
+			]
+			title: "sự trả thù"
+			x: 3.5d
+			y: 8.0d
+		}
+		{
+			can_repeat: true
+			description: [
+				"Chuyển đổi sát thương từ các đòn tấn công lao vào sức chịu đựng."
+				"Sau đó, thời gian hồi chiêu 4 giây bắt đầu."
+				""
+				"{image:wom:textures/gui/skills/passive/dopamine.png width:100 height:100 align:1}"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "minecraft:book"
+				tag: {
+					CustomTexture: "dopamine"
+				}
+			}
+			id: "41FA8D403AF25018"
+			rewards: [{
+				id: "66CA92D39A7AD38E"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "epicfight:skillbook"
+					tag: {
+						skill: "wom:dopamine"
+					}
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					count: 5L
+					id: "01F03E8CB23DD9A5"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "enchanlownew:paper_skill_high"
+					}
+					type: "item"
+				}
+				{
+					count: 64L
+					id: "35815A36E4B58720"
+					item: {
+						Count: 64
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:gold_ingot"
+					}
+					type: "item"
+				}
+				{
+					count: 32L
+					id: "011837E036388A2E"
+					item: {
+						Count: 32
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:iron_ingot"
+					}
+					type: "item"
+				}
+			]
+			title: "dopamin"
+			x: 4.5d
+			y: 5.5d
+		}
+		{
+			can_repeat: true
+			description: [
+				"Mỗi lần gây sát thương, sát thương sẽ tăng thêm 1%, tối đa là 40%."
+				"Nếu không thực hiện hành động nào trong vòng 2 giây, sát thương cộng thêm sẽ giảm nhanh chóng."
+				"Mỗi cấp độ phù phép Phòng cháy chữa cháy sẽ tăng tốc độ xếp chồng thêm 1%."
+				"Mỗi cấp độ bùa mê Bảo vệ Đạn tăng giới hạn tối đa thêm 3%"
+				""
+				"{image:wom:textures/gui/skills/passive/lethal_focus.png width:100 height:100 align:1}"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "minecraft:book"
+				tag: {
+					CustomTexture: "lethal_focus"
+				}
+			}
+			id: "31FB50AFF2B735A9"
+			rewards: [{
+				id: "5EE4635130C49D9E"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "epicfight:skillbook"
+					tag: {
+						skill: "wom:lethal_focus"
+					}
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					count: 5L
+					id: "162A0BB08E4B0B34"
+					item: {
+						Count: 5
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "enchanlownew:paper_skill_high"
+					}
+					type: "item"
+				}
+				{
+					count: 16L
+					id: "16E199345DA64070"
+					item: {
+						Count: 16
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:diamond"
+					}
+					type: "item"
+				}
+				{
+					count: 64L
+					id: "30C3467572D92E10"
+					item: {
+						Count: 64
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:gold_ingot"
+					}
+					type: "item"
+				}
+				{
+					count: 64L
+					id: "564758FCFC117126"
+					item: {
+						Count: 64
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:emerald"
+					}
+					type: "item"
+				}
+			]
+			title: "nồng độ gây tử vong"
+			x: 4.5d
+			y: 8.0d
+		}
+		{
+			can_repeat: true
+			description: [
+				"Phục hồi 4.0 chi phí kỹ năng vũ khí mỗi giây."
+				"(Bùa phép bảo vệ tăng 0,4 mỗi cấp)"
+				""
+				"{image:wom:textures/gui/skills/passive/inner_growth.png width:100 height:100 align:1}"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "minecraft:book"
+				tag: {
+					CustomTexture: "inner_growth"
+				}
+			}
+			id: "174D9D4AEA7AD083"
+			rewards: [{
+				id: "0E058DBB4FDF348F"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "epicfight:skillbook"
+					tag: {
+						skill: "wom:inner_growth"
+					}
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					count: 3L
+					id: "737632124DC1C61A"
+					item: {
+						Count: 3
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "enchanlownew:paper_skill_high"
+					}
+					type: "item"
+				}
+				{
+					count: 64L
+					id: "6164ED2A475A612A"
+					item: {
+						Count: 64
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:emerald"
+					}
+					type: "item"
+				}
+				{
+					count: 32L
+					id: "653CC936583D3314"
+					item: {
+						Count: 32
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:gold_ingot"
+					}
+					type: "item"
+				}
+			]
+			title: "sự phát triển bên trong"
+			x: 4.5d
+			y: 4.5d
+		}
+		{
+			can_repeat: true
+			description: [
+				"Chặn các đòn tấn công ngay lập tức trước khi nhận sát thương."
+				"Phục hồi 30% sức chịu đựng đã mất."
+				""
+				"{image:wom:textures/gui/skills/passive/manipulator.png width:100 height:100 align:1}"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "minecraft:book"
+				tag: {
+					CustomTexture: "manipulator"
+				}
+			}
+			id: "243DE3FF4C5FF082"
+			rewards: [{
+				id: "3B3A223C60D35F0A"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "epicfight:skillbook"
+					tag: {
+						skill: "wom:manipulator"
+					}
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					count: 2L
+					id: "6789E1F79677E06F"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "enchanlownew:paper_skill_high"
+					}
+					type: "item"
+				}
+				{
+					count: 64L
+					id: "4881477645DD3E77"
+					item: {
+						Count: 64
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:iron_ingot"
+					}
+					type: "item"
+				}
+				{
+					count: 32L
+					id: "25893901DF780AB6"
+					item: {
+						Count: 32
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:gold_ingot"
+					}
+					type: "item"
+				}
+			]
+			title: "toán tử"
+			x: 3.5d
+			y: 5.5d
+		}
+		{
+			can_repeat: true
+			description: [
+				"Sẽ kích hoạt sau khi gây sát thương bằng 8 đòn tấn công khác nhau"
+				"\" xem xét hiệu ứng me\":"
+				"Phục hồi sức khỏe, sức chịu đựng và năng lượng vũ khí ở mức vừa phải trong 4 giây."
+				"Tuy nhiên, bất kỳ hành động nào được thực hiện trong thời gian này sẽ hủy bỏ hiệu lực."
+				""
+				"{image:wom:textures/gui/skills/identity/all_eyes_on_me.png width:100 height:100 align:1}"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "minecraft:book"
+				tag: {
+					CustomTexture: "all_eyes_on_me"
+				}
+			}
+			id: "613C018979161322"
+			rewards: [{
+				id: "72C7992B49C69262"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "epicfight:skillbook"
+					tag: {
+						skill: "wom:all_eyes_on_me"
+					}
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					count: 3L
+					id: "006DEDE9950D3F98"
+					item: {
+						Count: 3
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "enchanlownew:paper_skill_high"
+					}
+					type: "item"
+				}
+				{
+					count: 32L
+					id: "75D1D10B10926F18"
+					item: {
+						Count: 32
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:emerald"
+					}
+					type: "item"
+				}
+				{
+					count: 64L
+					id: "23321EC188E1F539"
+					item: {
+						Count: 64
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:iron_ingot"
+					}
+					type: "item"
+				}
+			]
+			title: "tập trung"
+			x: 7.5d
+			y: 8.0d
+		}
+		{
+			can_repeat: true
+			description: [
+				"Nó sẽ kích hoạt sau khi chặn hoặc né 4 đòn tấn công khác nhau."
+				"Hiệu ứng \" Người bảo vệ \":"
+				"Từ từ hồi phục sức khỏe, sức chịu đựng và năng lượng vũ khí trong 8 giây."
+				""
+				"{image:wom:textures/gui/skills/identity/all_eyes_on_you.png width:100 height:100 align:1}"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "minecraft:book"
+				tag: {
+					CustomTexture: "all_eyes_on_you"
+				}
+			}
+			id: "189995CE5DDAF674"
+			rewards: [{
+				id: "0145DF8B91D005F7"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "epicfight:skillbook"
+					tag: {
+						skill: "wom:all_eyes_on_you"
+					}
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					count: 3L
+					id: "7862E6E1A117D07E"
+					item: {
+						Count: 3
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "enchanlownew:paper_skill_high"
+					}
+					type: "item"
+				}
+				{
+					count: 32L
+					id: "4E0E782B101DADB2"
+					item: {
+						Count: 32
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:emerald"
+					}
+					type: "item"
+				}
+				{
+					count: 64L
+					id: "33CC553942CB1F00"
+					item: {
+						Count: 64
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:iron_ingot"
+					}
+					type: "item"
+				}
+			]
+			title: "Nhiều sự chú ý"
+			x: 8.5d
+			y: 8.0d
+		}
+		{
+			can_repeat: true
+			description: [
+				"Đối với mọi sinh vật trong phạm vi 5 dãy nhà xung quanh bạn,"
+				"Phục hồi 3 lần sạc vũ khí cứ sau 0,5 giây."
+				"{image:wom:textures/gui/skills/identity/proximity_exploiter.png width:100 height:100 align:1}"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "minecraft:book"
+				tag: {
+					CustomTexture: "proximity_exploiter"
+				}
+			}
+			id: "463A58D28751B07C"
+			rewards: [{
+				id: "10AAF7645A6CE40B"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "epicfight:skillbook"
+					tag: {
+						skill: "wom:proximity_exploiter"
+					}
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					count: 3L
+					id: "454A583ED86BEA6E"
+					item: {
+						Count: 3
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "enchanlownew:paper_skill_high"
+					}
+					type: "item"
+				}
+				{
+					count: 32L
+					id: "17B6175603ACD32F"
+					item: {
+						Count: 32
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:emerald"
+					}
+					type: "item"
+				}
+				{
+					count: 64L
+					id: "6C11AE1CE514BC28"
+					item: {
+						Count: 64
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:iron_ingot"
+					}
+					type: "item"
+				}
+			]
+			title: "đóng người dùng"
+			x: 6.5d
+			y: 8.0d
+		}
+		{
+			can_repeat: true
+			description: [
+				"[Kỹ năng hành động]"
+				"Cải thiện khả năng chạy. Sau khi nhấn và giữ nút chạy trong 1 giây, hãy bắt đầu chạy nước rút."
+				"Nhả nút chạy nước rút để tăng tốc độ ngay lập tức, nhưng nó sẽ tiêu tốn sức chịu đựng."
+				""
+				"{image:wom:textures/gui/skills/mover/natural_sprinter.png width:100 height:100 align:1}"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "minecraft:book"
+				tag: {
+					CustomTexture: "natural_sprinter"
+				}
+			}
+			id: "0EE3C9863851B5EC"
+			rewards: [{
+				id: "763D43EE1BA469A2"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "epicfight:skillbook"
+					tag: {
+						skill: "wom:natural_sprinter"
+					}
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					count: 5L
+					id: "1730231DD111236B"
+					item: {
+						Count: 5
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "enchanlownew:paper_skill_low"
+					}
+					type: "item"
+				}
+				{
+					count: 32L
+					id: "77D0B1A4BD5659AF"
+					item: {
+						Count: 32
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:gold_ingot"
+					}
+					type: "item"
+				}
+				{
+					count: 32L
+					id: "13669E590781DB22"
+					item: {
+						Count: 32
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:emerald"
+					}
+					type: "item"
+				}
+			]
+			title: "người mê tốc độ tự nhiên"
+			x: 7.5d
+			y: 5.5d
+		}
+		{
+			can_repeat: true
+			description: [
+				"[Bay bằng kiếm]"
+				"{image:sword_soaring:textures/gui/skills/sword_soaring/sword_soaring_apprentice.png width:100 height:100 align:1}"
+				"Nhấp đúp nhanh vào &b [dấu cách] &r để bắt đầu bay bằng kiếm. Trong thời gian này, sức chịu đựng sẽ bị tiêu hao."
+				"Nhấn và giữ &b[Ctrl]&r để tăng tốc chuyến bay. Sẽ gục ngã khi sức chịu đựng cạn kiệt"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "minecraft:book"
+				tag: {
+					CustomTexture: "sword_soaring_apprentice"
+				}
+			}
+			id: "0E1E85CFB3C9862B"
+			rewards: [{
+				id: "23700CBAA0D98A50"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "epicfight:skillbook"
+					tag: {
+						skill: "sword_soaring:sword_soaring_apprentice"
+					}
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					count: 5L
+					id: "02A772A5BB8F110B"
+					item: {
+						Count: 5
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "enchanlownew:paper_skill_low"
+					}
+					type: "item"
+				}
+				{
+					count: 32L
+					id: "73284184463601A0"
+					item: {
+						Count: 32
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:gold_ingot"
+					}
+					type: "item"
+				}
+				{
+					count: 64L
+					id: "0C84B93AFB156D27"
+					item: {
+						Count: 64
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:emerald"
+					}
+					type: "item"
+				}
+			]
+			title: "Kiếm phi: Học việc"
+			x: 10.0d
+			y: 4.5d
+		}
+		{
+			can_repeat: true
+			description: [
+				"[Bay bằng kiếm]"
+				"{image:sword_soaring:textures/gui/skills/sword_soaring/sword_soaring_elytra_expert.png width:100 height:100 align:1}"
+				"&e nhanh chóng nhấp đúp vào &r&b [dấu cách] &r để bắt đầu bay bằng kiếm, sức chịu đựng bị tiêu hao trong thời gian"
+				"Nhấn và giữ &b[Ctrl]&r để tăng tốc chuyến bay. Sẽ gục ngã khi sức chịu đựng cạn kiệt"
+				"Mitsurugi bây giờ bay nhanh hơn và tiêu tốn ít sức chịu đựng hơn."
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "minecraft:book"
+				tag: {
+					CustomTexture: "sword_soaring_expert"
+				}
+			}
+			id: "51814C90238B68C2"
+			rewards: [{
+				id: "4387C8B01E37763B"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "epicfight:skillbook"
+					tag: {
+						skill: "sword_soaring:sword_soaring_expert"
+					}
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					count: 5L
+					id: "46AD2106106E6E74"
+					item: {
+						Count: 5
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "enchanlownew:paper_skill_high"
+					}
+					type: "item"
+				}
+				{
+					count: 16L
+					id: "44063F9A26D031D7"
+					item: {
+						Count: 16
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:diamond"
+					}
+					type: "item"
+				}
+				{
+					count: 32L
+					id: "1412E4B4E971347B"
+					item: {
+						Count: 32
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:emerald"
+					}
+					type: "item"
+				}
+			]
+			title: "Kiếm bay: Bậc thầy"
+			x: 11.0d
+			y: 4.5d
+		}
+		{
+			can_repeat: true
+			description: [
+				"[Bay bằng kiếm]"
+				""
+				"Sau khi mặc elytra"
+				"Nhấp đúp vào &b [dấu cách]&r để cất cánh bình thường với elytra."
+				"Hoạt động giống như chuyến bay elytra thông thường"
+				"Nếu &e nhấp đúp nhanh vào &r&b [dấu cách] &r elytra và thanh kiếm cất cánh cùng lúc,"
+				"Trong khi elytra đang bay, hãy nhấp đúp nhanh vào &e trên &r&r&b [dấu cách] &r để bắt đầu cầm kiếm."
+				""
+				"Thanh kiếm sẽ hỗ trợ chuyến bay elytra của bạn,"
+				"Thanh tăng tốc elytra của bạn sẽ sạc nhanh gấp đôi."
+				"========================"
+				"Sau khi có được &e[Sword Flight: Master]&r và &e[Elytra]&r"
+				"Đã nhận được vật phẩm thực tế &6 Nhiệm vụ &r"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "minecraft:book"
+				tag: {
+					CustomTexture: "sword_soaring_master"
+				}
+			}
+			id: "5799510B85A2AFA2"
+			tasks: [{
+				id: "25BC0FE535011F11"
+				title: "[Trang hướng dẫn] Bộ sưu tập nhiệm vụ"
+				type: "checkmark"
+			}]
+			title: "Kiếm bay: Master-Elytra"
+			x: 12.0d
+			y: 4.5d
+		}
+		{
+			can_repeat: true
+			description: [
+				"[Võ thuật đêm]"
+				""
+				"{image:efn:textures/gui/skills/efn_arts/execution.png width:100 height:100 align:1}"
+				"Nhấn phím &b [V] &r để tung ra một đòn tấn công mạnh về phía trước;"
+				"Trong thời gian hồi chiêu, thời gian hồi chiêu có thể được giảm bớt bằng cách gây ra số mạng tiêu diệt."
+				"Đánh trúng mục tiêu phá vỡ phòng thủ sẽ tăng sát thương lên 2,5 lần"
+				"Tiêu diệt mục tiêu hoặc đánh trúng mục tiêu phá vỡ phòng thủ sẽ nhận được số lượng buff lớn."
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "minecraft:book"
+				tag: {
+					CustomTexture: "execution"
+				}
+			}
+			id: "08B3E123AA437F8C"
+			rewards: [{
+				id: "2F877A70597154A1"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "epicfight:skillbook"
+					tag: {
+						skill: "efn:execution"
+					}
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					count: 5L
+					id: "09B6DFB659A38CB4"
+					item: {
+						Count: 5
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "enchanlownew:paper_skill_high"
+					}
+					type: "item"
+				}
+				{
+					id: "3EE64866E5781B4D"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "efn:deepdark_heart"
+					}
+					type: "item"
+				}
+			]
+			title: "Săn linh hồn"
+			x: 10.0d
+			y: 5.5d
+		}
+		{
+			can_repeat: true
+			description: [
+				"[Võ thuật đêm]"
+				"{image:efn:textures/gui/skills/efn_arts/stomp.png width:100 height:100 align:1}"
+				"Nhấn phím &b [V] &r để tiêu hao thể lực và thực hiện hành vi tiêu diệt giẫm đạp quy mô lớn."
+				"(Đòn tấn công đặc biệt vào "Venom")"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "minecraft:book"
+				tag: {
+					CustomTexture: "stomp"
+				}
+			}
+			id: "64C2C022C0B5C6FE"
+			rewards: [{
+				id: "0C10872CE670424E"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "epicfight:skillbook"
+					tag: {
+						skill: "efn:stomp"
+					}
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					count: 2L
+					id: "5B86801CCD706A19"
+					item: {
+						Count: 2
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "enchanlownew:paper_skill_high"
+					}
+					type: "item"
+				}
+				{
+					count: 24L
+					id: "7DAE7CC572FD79A4"
+					item: {
+						Count: 24
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:emerald"
+					}
+					type: "item"
+				}
+			]
+			title: "giẫm đạp trọng lực"
+			x: 11.0d
+			y: 5.5d
+		}
+		{
+			description: [
+				"Sạc vũ khí trong 1 đến 2 giây, sau đó giải phóng một luồng năng lượng mạnh mẽ"
+				"tấn công. Cuộc tấn công này có thể xuyên qua các khối. Nếu mục tiêu là"
+				"Chặn hoặc tấn công cũng gây ra hiệu ứng choáng."
+				"\\n\\n&e cần học và trang bị trước: "Phản công""
+				"{image:wom:textures/gui/skills/guard/buster_parade.png width:100 height:100 align:1}"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "minecraft:book"
+				tag: {
+					CustomTexture: "buster_parade"
+				}
+			}
+			id: "3FCCAE2ABB4C617B"
+			rewards: [{
+				id: "7EE46CA355C6C611"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "epicfight:skillbook"
+					tag: {
+						skill: "wom:buster_parade"
+					}
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					count: 3L
+					id: "7D017DE06CDA600D"
+					item: {
+						Count: 3
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "enchanlownew:paper_skill_high"
+					}
+					type: "item"
+				}
+				{
+					count: 64L
+					id: "0999589BFE8D1355"
+					item: {
+						Count: 64
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:gold_ingot"
+					}
+					type: "item"
+				}
+				{
+					count: 64L
+					id: "1F0D1F3F1702A1B4"
+					item: {
+						Count: 64
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:iron_ingot"
+					}
+					type: "item"
+				}
+			]
+			title: "phá vỡ nỗi sợ hãi"
+			x: 7.5d
+			y: 3.0d
+		}
+		{
+			description: [
+				"[Kỹ năng thuộc tính]"
+				"Cho phép bạn làm mù mục tiêu sau khi đạt được một khoảng cách nhất định với mục tiêu."
+				"Tấn công mục tiêu một lần và sau đó di chuyển ra khỏi nó. Khi khoảng cách giữa bạn và mục tiêu lớn hơn 20, đòn tấn công tiếp theo của bạn sẽ là một đòn choáng mạnh khiến mục tiêu bị mù trong 5 giây."
+				"{image:wom:textures/gui/skills/identity/back_and_forth.png width:100 height:100 align:1}"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "minecraft:book"
+				tag: {
+					CustomTexture: "back_and_forth"
+				}
+			}
+			id: "3791F66F5D8A24BE"
+			rewards: [{
+				id: "1C9BC9C0AA8C5601"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "epicfight:skillbook"
+					tag: {
+						skill: "wom:back_and_forth"
+					}
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					count: 64L
+					id: "160B7E595D482D66"
+					item: {
+						Count: 64
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:gold_ingot"
+					}
+					type: "item"
+				}
+				{
+					count: 64L
+					id: "3ED1D3FF53575F58"
+					item: {
+						Count: 64
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:emerald"
+					}
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "72739D598E94066F"
+					item: {
+						Count: 4
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "enchanlownew:paper_skill_high"
+					}
+					type: "item"
+				}
+			]
+			title: "Tiến lên và rút lui một cách tự do"
+			x: 9.5d
+			y: 7.0d
+		}
+		{
+			can_repeat: true
+			description: [
+				"Bạn trở nên thành thạo hơn trong việc nắm bắt cơ hội giữa các cuộc tấn công và né tránh."
+				"Bạn có thể né tránh sau đó bằng một đòn tấn công đặc biệt."
+				"{image:epicfight:textures/gui/skills/passive/combat_mastery_i.png width:100 height:100 align:1}"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "minecraft:book"
+				tag: {
+					CustomTexture: "combat_mastery_i"
+				}
+			}
+			id: "08B54BB6FB6DB4CA"
+			rewards: [{
+				id: "4990F301EA94D7EA"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "epicfight:skillbook"
+					tag: {
+						skill: "epicfightx:combat_mastery_i"
+					}
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					count: 2L
+					id: "6B22B26AC50067E9"
+					item: {
+						Count: 2
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "enchanlownew:paper_skill_high"
+					}
+					type: "item"
+				}
+				{
+					count: 64L
+					id: "4860C1E4BD501B01"
+					item: {
+						Count: 64
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:iron_ingot"
+					}
+					type: "item"
+				}
+				{
+					count: 32L
+					id: "2FBBBDDD338D375A"
+					item: {
+						Count: 32
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:gold_ingot"
+					}
+					type: "item"
+				}
+			]
+			title: "Tinh thông chiến đấu"
+			x: 0.5d
+			y: 7.0d
+		}
+		{
+			can_repeat: true
+			description: [
+				"[Kỹ năng thuộc tính]"
+				"Khi cầm khiên ở tay trái\\nNhấn [Kỹ năng phòng thủ + vũ khí] để tiêu hao sức chịu đựng và sử dụng khiên\\nNếu chống lại đòn tấn công thành công, bạn có thể làm choáng kẻ thù, phục hồi sức chịu đựng của chính mình và đạt được quyền bá chủ, cải thiện sức đề kháng và hiệu ứng sức mạnh."
+				"{image:modifiers:item/skills/identity/shield_counter width:100 height:100 align:center}"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "minecraft:book"
+				tag: {
+					CustomTexture: "shield_counter"
+				}
+			}
+			id: "1FBD16C6E589537C"
+			rewards: [{
+				id: "4056241EB362F128"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "epicfight:skillbook"
+					tag: {
+						skill: "combat_evolution:shield_counter"
+					}
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					count: 64L
+					id: "668C9CA7B70F3850"
+					item: {
+						Count: 64
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:iron_ingot"
+					}
+					type: "item"
+				}
+				{
+					count: 16L
+					id: "4920AA7E8ABF60CA"
+					item: {
+						Count: 16
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:emerald"
+					}
+					type: "item"
+				}
+				{
+					count: 5L
+					id: "1CED833C30E31F90"
+					item: {
+						Count: 5
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "enchanlownew:paper_skill_low"
+					}
+					type: "item"
+				}
+			]
+			title: "Lá chắn phản công"
+			x: 7.5d
+			y: 7.0d
+		}
+	]
+	title: "Trao đổi sách kỹ năng"
+}

@@ -1,0 +1,3472 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	disable_toast: true
+	filename: "7E50FBC6CA96EF47"
+	group: "645C652F9B0DFA16"
+	icon: {
+		Count: 1
+		id: "simplyswords:brimstone_claymore"
+		tag: {
+			Damage: 0
+			itemModifier: "modifiers:vicious"
+			nether_power: "no_socket"
+			runic_power: "no_socket"
+		}
+	}
+	id: "7E50FBC6CA96EF47"
+	order_index: 3
+	quest_links: [ ]
+	quests: [
+		{
+			description: [
+				"[Kiếm đơn giản]"
+				"Thu được bằng cách nấu chảy những vũ khí không cần thiết trong lò"
+			]
+			entity_vis_size: 1.0f
+			id: "69FB482ECA5A88B8"
+			rewards: [{
+				id: "6715766D0280A74B"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "455BE432EDE01414"
+				item: "simplyswords:empowered_remnant"
+				type: "item"
+			}]
+			x: -0.7d
+			y: 2.6d
+		}
+		{
+			entity_vis_size: 1.0f
+			id: "4CDC908C221C251E"
+			shape: "square"
+			size: 0.7d
+			tasks: [{
+				id: "7280DB68127786A5"
+				item: {
+					Count: 1
+					id: "simplyswords:brimstone_claymore"
+					tag: {
+						Damage: 0
+						itemModifier: "modifiers:vicious"
+						nether_power: "no_socket"
+						runic_power: "no_socket"
+					}
+				}
+				type: "item"
+			}]
+			x: 1.7499999999999998d
+			y: -0.2999999999999998d
+		}
+		{
+			entity_vis_size: 1.0f
+			id: "1C0CB01336B13CA7"
+			shape: "square"
+			size: 0.7d
+			tasks: [{
+				id: "38C1F227742A88C8"
+				item: {
+					Count: 1
+					id: "simplyswords:watcher_claymore"
+					tag: {
+						Damage: 0
+						nether_power: "socket_empty"
+						runic_power: "socket_empty"
+					}
+				}
+				type: "item"
+			}]
+			x: 2.4499999999999993d
+			y: -0.2999999999999998d
+		}
+		{
+			entity_vis_size: 1.0f
+			id: "7855F7B7085FED5E"
+			shape: "square"
+			size: 0.7d
+			tasks: [{
+				id: "33DDC5C7E64A1957"
+				item: {
+					Count: 1
+					id: "simplyswords:storms_edge"
+					tag: {
+						Damage: 0
+						nether_power: "no_socket"
+						runic_power: "no_socket"
+					}
+				}
+				type: "item"
+			}]
+			x: 1.7499999999999998d
+			y: 0.40000000000000013d
+		}
+		{
+			entity_vis_size: 1.0f
+			id: "18DDF96E4566E17E"
+			shape: "square"
+			size: 0.7d
+			tasks: [{
+				id: "3AA390F9BC7B93F9"
+				item: {
+					Count: 1
+					id: "simplyswords:stormbringer"
+					tag: {
+						Damage: 0
+						nether_power: "socket_empty"
+						runic_power: "socket_empty"
+					}
+				}
+				type: "item"
+			}]
+			x: 2.4499999999999993d
+			y: 0.40000000000000013d
+		}
+		{
+			entity_vis_size: 1.0f
+			id: "1BA765C7AE1F6009"
+			shape: "square"
+			size: 0.7d
+			tasks: [{
+				id: "170C3A7F5931BFB4"
+				item: {
+					Count: 1
+					id: "simplyswords:watching_warglaive"
+					tag: {
+						Damage: 0
+						nether_power: "no_socket"
+						runic_power: "socket_empty"
+					}
+				}
+				type: "item"
+			}]
+			x: 5.250000000000001d
+			y: 3.1999999999999997d
+		}
+		{
+			entity_vis_size: 1.0f
+			id: "75924AF06E03892B"
+			shape: "square"
+			size: 0.7d
+			tasks: [{
+				id: "53A756451D496FDD"
+				item: {
+					Count: 1
+					id: "simplyswords:emberblade"
+					tag: {
+						Damage: 0
+						nether_power: "no_socket"
+						runic_power: "no_socket"
+					}
+				}
+				type: "item"
+			}]
+			x: 1.7499999999999998d
+			y: 1.8000000000000003d
+		}
+		{
+			entity_vis_size: 1.0f
+			id: "44499B71E7C6F825"
+			shape: "square"
+			size: 0.7d
+			tasks: [{
+				id: "3CAF85FB794936B3"
+				item: {
+					Count: 1
+					id: "simplyswords:toxic_longsword"
+					tag: {
+						Damage: 0
+						nether_power: "socket_empty"
+						runic_power: "no_socket"
+					}
+				}
+				type: "item"
+			}]
+			x: 2.4499999999999993d
+			y: 1.8000000000000003d
+		}
+		{
+			entity_vis_size: 1.0f
+			id: "7D20805244E1A84E"
+			shape: "square"
+			size: 0.7d
+			tasks: [{
+				id: "12BF0FFED5EEE02A"
+				item: {
+					Count: 1
+					id: "simplyswords:awakened_lichblade"
+					tag: {
+						Damage: 0
+						nether_power: "no_socket"
+						runic_power: "socket_empty"
+					}
+				}
+				type: "item"
+			}]
+			x: 2.4499999999999993d
+			y: 1.1d
+		}
+		{
+			entity_vis_size: 1.0f
+			id: "36BFAF53E13A6F57"
+			shape: "square"
+			size: 0.7d
+			tasks: [{
+				id: "23C868BCEE17AFE7"
+				item: {
+					Count: 1
+					id: "simplyswords:hearthflame"
+					tag: {
+						Damage: 0
+						itemModifier: "modifiers:damaged"
+						nether_power: "no_socket"
+						runic_power: "socket_empty"
+					}
+				}
+				type: "item"
+			}]
+			x: 1.7499999999999998d
+			y: 2.5d
+		}
+		{
+			entity_vis_size: 1.0f
+			id: "4617D4A00C0300CF"
+			shape: "square"
+			size: 0.7d
+			tasks: [{
+				id: "00641E8E799A76DE"
+				item: {
+					Count: 1
+					id: "simplyswords:soulkeeper"
+					tag: {
+						Damage: 0
+						nether_power: "socket_empty"
+						runic_power: "socket_empty"
+					}
+				}
+				type: "item"
+			}]
+			x: 2.4499999999999993d
+			y: 2.5d
+		}
+		{
+			entity_vis_size: 1.0f
+			id: "3B1FA6CF2A4B10FD"
+			shape: "square"
+			size: 0.7d
+			tasks: [{
+				id: "22B7DFA793503BB6"
+				item: {
+					Count: 1
+					id: "simplyswords:thunderbrand"
+					tag: {
+						Damage: 0
+						nether_power: "socket_empty"
+						runic_power: "socket_empty"
+					}
+				}
+				type: "item"
+			}]
+			x: 1.7499999999999998d
+			y: 3.1999999999999997d
+		}
+		{
+			entity_vis_size: 1.0f
+			id: "206E4DB70F1A9411"
+			shape: "square"
+			size: 0.7d
+			tasks: [{
+				id: "7EE51280779E1235"
+				item: {
+					Count: 1
+					id: "simplyswords:mjolnir"
+					tag: {
+						Damage: 0
+						nether_power: "socket_empty"
+						runic_power: "socket_empty"
+					}
+				}
+				type: "item"
+			}]
+			x: 2.4499999999999993d
+			y: 3.1999999999999997d
+		}
+		{
+			entity_vis_size: 1.0f
+			id: "1E85D90064191D93"
+			shape: "square"
+			size: 0.7d
+			tasks: [{
+				id: "5FC023E1941464D8"
+				item: {
+					Count: 1
+					id: "simplyswords:sunfire"
+					tag: {
+						Damage: 0
+						nether_power: "socket_empty"
+						runic_power: "no_socket"
+					}
+				}
+				type: "item"
+			}]
+			x: 3.1499999999999995d
+			y: -0.2999999999999998d
+		}
+		{
+			entity_vis_size: 1.0f
+			id: "003E55E2A9DD0A86"
+			shape: "square"
+			size: 0.7d
+			tasks: [{
+				id: "51093AD0C9FB317E"
+				item: {
+					Count: 1
+					id: "simplyswords:harbinger"
+					tag: {
+						Damage: 0
+						nether_power: "socket_empty"
+						runic_power: "socket_empty"
+					}
+				}
+				type: "item"
+			}]
+			x: 3.1499999999999995d
+			y: 1.1d
+		}
+		{
+			entity_vis_size: 1.0f
+			id: "73D37724683F69D2"
+			shape: "square"
+			size: 0.7d
+			tasks: [{
+				id: "1A4131DDBA4A1B2A"
+				item: {
+					Count: 1
+					id: "simplyswords:molten_edge"
+					tag: {
+						Damage: 0
+						nether_power: "no_socket"
+						runic_power: "socket_empty"
+					}
+				}
+				type: "item"
+			}]
+			x: 3.8499999999999996d
+			y: -0.2999999999999998d
+		}
+		{
+			entity_vis_size: 1.0f
+			id: "04A7160ED36CE413"
+			shape: "square"
+			size: 0.7d
+			tasks: [{
+				id: "3C1188293A9DFF77"
+				item: {
+					Count: 1
+					id: "simplyswords:livyatan"
+					tag: {
+						Damage: 0
+						nether_power: "no_socket"
+						runic_power: "no_socket"
+					}
+				}
+				type: "item"
+			}]
+			x: 4.55d
+			y: -0.2999999999999998d
+		}
+		{
+			entity_vis_size: 1.0f
+			id: "3FE3F5341EF0C364"
+			shape: "square"
+			size: 0.7d
+			tasks: [{
+				id: "03D2223C2C9A7828"
+				item: {
+					Count: 1
+					id: "simplyswords:soulstealer"
+					tag: {
+						Damage: 0
+						itemModifier: "modifiers:agile"
+						nether_power: "socket_empty"
+						runic_power: "no_socket"
+					}
+				}
+				type: "item"
+			}]
+			x: 3.8499999999999996d
+			y: 0.40000000000000013d
+		}
+		{
+			entity_vis_size: 1.0f
+			id: "38ACA6E0BAC50D05"
+			shape: "square"
+			size: 0.7d
+			tasks: [{
+				id: "194D6AC2807C70D4"
+				item: {
+					Count: 1
+					id: "simplyswords:soulrender"
+					tag: {
+						Damage: 0
+						nether_power: "socket_empty"
+						runic_power: "no_socket"
+					}
+				}
+				type: "item"
+			}]
+			x: 4.55d
+			y: 0.40000000000000013d
+		}
+		{
+			entity_vis_size: 1.0f
+			id: "0B1A4E9C4EBE2919"
+			shape: "square"
+			size: 0.7d
+			tasks: [{
+				id: "1EC0D6A04CA8CFB0"
+				item: {
+					Count: 1
+					id: "simplyswords:soulpyre"
+					tag: {
+						Damage: 0
+						nether_power: "socket_empty"
+						runic_power: "no_socket"
+					}
+				}
+				type: "item"
+			}]
+			x: 3.8499999999999996d
+			y: 3.1999999999999997d
+		}
+		{
+			entity_vis_size: 1.0f
+			id: "379BC502832F160A"
+			shape: "square"
+			size: 0.7d
+			tasks: [{
+				id: "4399CADC65373CF9"
+				item: {
+					Count: 1
+					id: "simplyswords:frostfall"
+					tag: {
+						Damage: 0
+						nether_power: "no_socket"
+						runic_power: "no_socket"
+					}
+				}
+				type: "item"
+			}]
+			x: 4.55d
+			y: 3.1999999999999997d
+		}
+		{
+			entity_vis_size: 1.0f
+			id: "6829F9A51B25BD28"
+			shape: "square"
+			size: 0.7d
+			tasks: [{
+				id: "79C34BD998D2323C"
+				item: {
+					Count: 1
+					id: "simplyswords:shadowsting"
+					tag: {
+						Damage: 0
+						nether_power: "no_socket"
+						runic_power: "no_socket"
+					}
+				}
+				type: "item"
+			}]
+			x: 5.250000000000001d
+			y: 3.9d
+		}
+		{
+			entity_vis_size: 1.0f
+			id: "07A6E280D42E954A"
+			shape: "square"
+			size: 0.7d
+			tasks: [{
+				id: "4CF5A862F9ABC075"
+				item: {
+					Count: 1
+					id: "simplyswords:tainted_relic"
+					tag: {
+						Damage: 0
+						nether_power: "socket_empty"
+						runic_power: "no_socket"
+					}
+				}
+				type: "item"
+			}]
+			x: 4.55d
+			y: 1.1d
+		}
+		{
+			entity_vis_size: 1.0f
+			id: "7784D52535F45585"
+			shape: "square"
+			size: 0.7d
+			tasks: [{
+				id: "6893CBEE596131FA"
+				item: {
+					Count: 1
+					id: "simplyswords:twisted_blade"
+					tag: {
+						Damage: 0
+						nether_power: "no_socket"
+						runic_power: "no_socket"
+					}
+				}
+				type: "item"
+			}]
+			x: 3.8499999999999996d
+			y: 1.8000000000000003d
+		}
+		{
+			entity_vis_size: 1.0f
+			id: "18093E88C8EB4CB2"
+			shape: "square"
+			size: 0.7d
+			tasks: [{
+				id: "512F1AB8B6FF5B61"
+				item: {
+					Count: 1
+					id: "simplyswords:bramblethorn"
+					tag: {
+						Damage: 0
+						nether_power: "no_socket"
+						runic_power: "socket_empty"
+					}
+				}
+				type: "item"
+			}]
+			x: 4.55d
+			y: 1.8000000000000003d
+		}
+		{
+			entity_vis_size: 1.0f
+			id: "545C6FCAA2900B63"
+			shape: "square"
+			size: 0.7d
+			tasks: [{
+				id: "12D15573BE9D45CB"
+				item: {
+					Count: 1
+					id: "simplyswords:icewhisper"
+					tag: {
+						Damage: 0
+						nether_power: "no_socket"
+						runic_power: "socket_empty"
+					}
+				}
+				type: "item"
+			}]
+			x: 3.8499999999999996d
+			y: 2.5d
+		}
+		{
+			entity_vis_size: 1.0f
+			id: "6839DB564CAFF152"
+			shape: "square"
+			size: 0.7d
+			tasks: [{
+				id: "42856B712F2CB6B2"
+				item: {
+					Count: 1
+					id: "simplyswords:arcanethyst"
+					tag: {
+						Damage: 0
+						nether_power: "socket_empty"
+						runic_power: "socket_empty"
+					}
+				}
+				type: "item"
+			}]
+			x: 4.55d
+			y: 2.5d
+		}
+		{
+			entity_vis_size: 1.0f
+			id: "32158A4186913448"
+			shape: "square"
+			size: 0.7d
+			tasks: [{
+				id: "35BFBB270781A85C"
+				item: {
+					Count: 1
+					id: "simplyswords:whisperwind"
+					tag: {
+						Damage: 0
+						nether_power: "socket_empty"
+						runic_power: "no_socket"
+					}
+				}
+				type: "item"
+			}]
+			x: 4.55d
+			y: 3.9d
+		}
+		{
+			entity_vis_size: 1.0f
+			id: "0FDB1B31A2B8B073"
+			shape: "square"
+			size: 0.7d
+			tasks: [{
+				id: "25ACB11FB5D09EC7"
+				item: {
+					Count: 1
+					id: "simplyswords:stars_edge"
+					tag: {
+						Damage: 0
+						nether_power: "no_socket"
+						runic_power: "no_socket"
+					}
+				}
+				type: "item"
+			}]
+			x: 3.8499999999999996d
+			y: 3.9d
+		}
+		{
+			entity_vis_size: 1.0f
+			id: "6CE097179F48FF16"
+			shape: "square"
+			size: 0.7d
+			tasks: [{
+				id: "2FFE234D57E1BC5E"
+				item: {
+					Count: 1
+					id: "simplyswords:emberlash"
+					tag: {
+						Damage: 0
+						nether_power: "no_socket"
+						runic_power: "socket_empty"
+					}
+				}
+				type: "item"
+			}]
+			x: 3.1499999999999995d
+			y: 0.40000000000000013d
+		}
+		{
+			entity_vis_size: 1.0f
+			id: "024D5F6B96FA334E"
+			shape: "square"
+			size: 0.7d
+			tasks: [{
+				id: "06EDF2951826AAB1"
+				item: {
+					Count: 1
+					id: "simplyswords:waxweaver"
+					tag: {
+						Damage: 0
+						nether_power: "socket_empty"
+						runic_power: "no_socket"
+					}
+				}
+				type: "item"
+			}]
+			x: 3.1499999999999995d
+			y: 1.8000000000000003d
+		}
+		{
+			entity_vis_size: 1.0f
+			id: "4398715538CD3A65"
+			shape: "square"
+			size: 0.7d
+			tasks: [{
+				id: "067EA01B1AD3ED91"
+				item: {
+					Count: 1
+					id: "simplyswords:hiveheart"
+					tag: {
+						Damage: 0
+						nether_power: "no_socket"
+						runic_power: "no_socket"
+					}
+				}
+				type: "item"
+			}]
+			x: 3.1499999999999995d
+			y: 2.5d
+		}
+		{
+			entity_vis_size: 1.0f
+			id: "05D867C638181369"
+			shape: "square"
+			size: 0.7d
+			tasks: [{
+				id: "6F078EE880CA2EDB"
+				item: {
+					Count: 1
+					id: "simplyswords:wickpiercer"
+					tag: {
+						Damage: 0
+						nether_power: "socket_empty"
+						runic_power: "socket_empty"
+					}
+				}
+				type: "item"
+			}]
+			x: 3.1499999999999995d
+			y: 3.1999999999999997d
+		}
+		{
+			entity_vis_size: 1.0f
+			id: "08CB0043F1E223F6"
+			shape: "square"
+			size: 0.7d
+			tasks: [{
+				id: "1F1E07BCAB640815"
+				item: {
+					Count: 1
+					id: "simplyswords:flamewind"
+					tag: {
+						Damage: 0
+						nether_power: "no_socket"
+						runic_power: "no_socket"
+					}
+				}
+				type: "item"
+			}]
+			x: 5.250000000000001d
+			y: -0.2999999999999998d
+		}
+		{
+			entity_vis_size: 1.0f
+			id: "2498BD0D06CC59F6"
+			shape: "square"
+			size: 0.7d
+			tasks: [{
+				id: "1200543C446C5D50"
+				item: {
+					Count: 1
+					id: "simplyswords:tempest"
+					tag: {
+						Damage: 0
+						nether_power: "no_socket"
+						runic_power: "socket_empty"
+					}
+				}
+				type: "item"
+			}]
+			x: 5.250000000000001d
+			y: 0.40000000000000013d
+		}
+		{
+			entity_vis_size: 1.0f
+			id: "798B8EA3F3F310E7"
+			shape: "square"
+			size: 0.7d
+			tasks: [{
+				id: "75A7D1AB9BC3956A"
+				item: {
+					Count: 1
+					id: "simplyswords:ribboncleaver"
+					tag: {
+						Damage: 0
+						nether_power: "no_socket"
+						runic_power: "socket_empty"
+					}
+				}
+				type: "item"
+			}]
+			x: 5.250000000000001d
+			y: 1.1d
+		}
+		{
+			entity_vis_size: 1.0f
+			id: "4CD35FBC9152B11D"
+			shape: "square"
+			size: 0.7d
+			tasks: [{
+				id: "4FCF80E23083A900"
+				item: {
+					Count: 1
+					id: "simplyswords:decaying_relic"
+					tag: {
+						Damage: 0
+						nether_power: "socket_empty"
+						runic_power: "socket_empty"
+					}
+				}
+				type: "item"
+			}]
+			x: 1.7499999999999998d
+			y: 3.9d
+		}
+		{
+			entity_vis_size: 1.0f
+			id: "139F2F69CE64C7AD"
+			shape: "square"
+			size: 0.7d
+			tasks: [{
+				id: "06E221208D7AD7F5"
+				item: {
+					Count: 1
+					id: "simplyswords:magiscythe"
+					tag: {
+						Damage: 0
+						nether_power: "socket_empty"
+						runic_power: "no_socket"
+					}
+				}
+				type: "item"
+			}]
+			x: 5.250000000000001d
+			y: 2.5d
+		}
+		{
+			entity_vis_size: 1.0f
+			id: "4D3D0F74388D02F7"
+			shape: "square"
+			size: 0.7d
+			tasks: [{
+				id: "5EEE38E18EE913CE"
+				item: {
+					Count: 1
+					id: "simplyswords:magispear"
+					tag: {
+						Damage: 0
+						nether_power: "no_socket"
+						runic_power: "no_socket"
+					}
+				}
+				type: "item"
+			}]
+			x: 2.4499999999999993d
+			y: 3.9d
+		}
+		{
+			entity_vis_size: 1.0f
+			id: "063E239D0C4D93E7"
+			shape: "square"
+			size: 0.7d
+			tasks: [{
+				id: "4672A6E462652E2A"
+				item: {
+					Count: 1
+					id: "simplyswords:magiblade"
+					tag: {
+						Damage: 0
+						itemModifier: "modifiers:broken"
+						nether_power: "no_socket"
+						runic_power: "no_socket"
+					}
+				}
+				type: "item"
+			}]
+			x: 3.1499999999999995d
+			y: 3.9d
+		}
+		{
+			entity_vis_size: 1.0f
+			id: "650E569F387121FB"
+			shape: "square"
+			size: 0.7d
+			tasks: [{
+				id: "5E593ECFFE82782F"
+				item: {
+					Count: 1
+					id: "simplyswords:enigma"
+					tag: {
+						Damage: 0
+						nether_power: "socket_empty"
+						runic_power: "no_socket"
+					}
+				}
+				type: "item"
+			}]
+			x: 3.8499999999999996d
+			y: 1.1d
+		}
+		{
+			description: [
+				"Vũ khí sử thi &6 của [Simple Sword] có lỗ khảm &b &r"
+				"&o&7 (mô tả vũ khí sẽ có dòng chữ -Nhấn ALT để xem khe đá quý-)&r&r"
+				""
+				"Nhấn ALT để xem loại khe đá quý (khe rune &b &r, &c khe linh hồn địa ngục &r),"
+				"Được khảm các loại đá quý tương ứng (đá quý rune &b &r, đá quý linh hồn địa ngục &c &r)"
+				""
+				"Bấm vào viên ngọc bằng con trỏ chuột để xem hiệu ứng"
+				"Đá quý &b &r có thể làm mới hiệu ứng &r trên bàn rèn &e"
+				"{image:ftbteams:textures/aaaaa.png width:100 height:30 align:1}"
+				""
+				"Nhấp chuột vào đá quý &6 và di chuyển nó đến vũ khí, sau đó nhấp vào &r để hoàn thành việc khảm."
+				"{image:ftbteams:textures/aabbcc11234.png width:100 height:80 align:1}"
+			]
+			entity_vis_size: 1.0f
+			id: "27464D3E05154A9E"
+			rewards: [{
+				id: "543962268CB8DB43"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [
+				{
+					id: "6F81D1429FDAFA50"
+					item: {
+						Count: 1
+						id: "simplyswords:runefused_gem"
+						tag: { }
+					}
+					type: "item"
+				}
+				{
+					id: "4F0A7AA22BB08631"
+					item: {
+						Count: 1
+						id: "simplyswords:netherfused_gem"
+						tag: { }
+					}
+					type: "item"
+				}
+			]
+			x: 0.30000000000000004d
+			y: 1.6d
+		}
+		{
+			description: [
+				"[Kiếm đơn giản]"
+				"Tổng hợp kết tinh mạnh mẽ"
+				"Giữ nó trong kho trong một thời gian dài hơn"
+				"Trong chiều kết thúc &b, &r sẽ trở thành phần cuối và được đặt cùng với"
+				"Nó có thể bắn một loại vũ khí ngẫu nhiên"
+			]
+			entity_vis_size: 1.0f
+			id: "578ECBC787CA4746"
+			rewards: [{
+				id: "0004C6FE4630049C"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "3411F60DF62FD37B"
+				item: "simplyswords:contained_remnant"
+				type: "item"
+			}]
+			x: 0.30000000000000004d
+			y: 2.6d
+		}
+		{
+			entity_vis_size: 1.0f
+			id: "1C801E6E1ECD0740"
+			shape: "square"
+			size: 0.7d
+			tasks: [{
+				id: "58BA246CFB07E161"
+				item: {
+					Count: 1
+					id: "simplyswords:waking_lichblade"
+					tag: {
+						Damage: 0
+						nether_power: "no_socket"
+						runic_power: "no_socket"
+					}
+				}
+				type: "item"
+			}]
+			x: 1.7499999999999998d
+			y: 1.1d
+		}
+		{
+			description: [
+				"(Trước tiên hãy đặt con trỏ lên vũ khí và nhấn shift để xem phần giới thiệu đi kèm)"
+				""
+				"Giới thiệu các thao tác đặc biệt (vị trí phím mặc định của &e - nhấn và giữ nút bên trái để trở thành phím kỹ năng &r):"
+				""
+				"&b nhấn và giữ nút bên trái để nhảy lên &r (không cần lớp sạc)"
+				"Sau khi nhảy lên, nhấn và giữ nút bên trái &b lần nữa để tấn công &r (yêu cầu các lớp sạc)"
+				""
+				"Nếu bạn đánh kẻ thù bằng các đòn tấn công liên tục trên không, bạn có thể thực hiện combo trên không."
+			]
+			entity_vis_size: 1.0f
+			id: "13F9048653F88B3A"
+			rewards: [
+				{
+					id: "0974C1E16A968DCB"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+				{
+					id: "2FB27A46C940F41C"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "fight_more:agony_b"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			shape: "square"
+			size: 0.7d
+			tasks: [{
+				id: "3ECA0C91AC4906F7"
+				item: {
+					Count: 1
+					id: "wom:agony"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 8.4d
+			y: -1.75d
+		}
+		{
+			description: [
+				"(Trước tiên hãy đặt con trỏ lên vũ khí và nhấn shift để xem phần giới thiệu đi kèm)"
+				""
+				"Giới thiệu các thao tác đặc biệt (vị trí phím mặc định của &e - nhấn và giữ nút bên trái để trở thành phím kỹ năng &r):"
+				""
+				"&b nhấn và giữ nút bên trái"
+				"Nhấn &b lần nữa và nhấn và giữ nút bên trái &r để giải phóng trạng thái"
+				""
+				"&b nhấn và giữ nút bên phải &r để tăng sức tấn công."
+				"Có ba hành động tấn công sạc khác nhau"
+				""
+				"Nếu bạn tiếp tục sạc lên cấp 4, bạn sẽ nhận được hiệu ứng nâng cao."
+				"Tăng cường sát thương của bất kỳ hành động tấn công tiếp theo"
+			]
+			entity_vis_size: 1.0f
+			id: "1BC2BD0E4C9E3111"
+			rewards: [
+				{
+					id: "3937F6ABE3351A51"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+				{
+					id: "0BA90C8418BEAFEA"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "fight_more:torment_b"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			shape: "square"
+			size: 0.7d
+			tasks: [{
+				id: "22DDBD69847A58E2"
+				item: {
+					Count: 1
+					id: "wom:tormented_mind"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 8.4d
+			y: -1.05d
+		}
+		{
+			description: [
+				"(Trước tiên hãy đặt con trỏ lên vũ khí và nhấn shift để xem phần giới thiệu đi kèm)"
+				""
+				"Giới thiệu các thao tác đặc biệt (vị trí phím mặc định của &e - nhấn và giữ nút bên trái để trở thành phím kỹ năng &r):"
+				"Sát thương tấn công đánh dấu kẻ thù,"
+				"&b nhấn giữ nút bên trái &r để dịch chuyển và tấn công (tiêu tốn 1 lớp điện tích)"
+				"Có thể nhảy &b + nhấn và giữ nút bên trái &r tấn công đặc biệt (tiêu thụ 1 lớp điện tích)"
+				"Và chạy nước rút &b + nhấn và giữ nút bên trái Đòn tấn công đặc biệt &r (tiêu thụ 1 lớp điện tích)"
+				""
+				"Sau 10 lớp sạc, bạn có thể &b cúi người + nhấn và giữ nút bên trái &r để triệu hồi tay của ender tấn công."
+				"(tiêu thụ 2 lớp điện tích)"
+			]
+			entity_vis_size: 1.0f
+			id: "0E06CB59B0D2367A"
+			rewards: [
+				{
+					id: "26DCF7396445E6AE"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+				{
+					id: "764835D88512268D"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "fight_more:ruine_b"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			shape: "square"
+			size: 0.7d
+			tasks: [{
+				id: "2235119935CE11CF"
+				item: {
+					Count: 1
+					id: "wom:ruine"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 8.4d
+			y: -0.3500000000000001d
+		}
+		{
+			description: [
+				"(Trước tiên hãy đặt con trỏ lên vũ khí và nhấn shift để xem phần giới thiệu đi kèm)"
+				""
+				"Giới thiệu các thao tác đặc biệt (vị trí phím mặc định của &e - nhấn và giữ nút bên trái để trở thành phím kỹ năng &r):"
+				"Có thể sử dụng kép"
+				"Nhấn liên tục nút bên trái &b để tấn công liên tục."
+				"ĐƯỢC RỒI"
+				"&b chạy nước rút&r+&b nhấn và giữ nút bên trái&r &b nhảy"
+				"&bPhím hướng trái/phải&r+&b Nhấn và giữ phím trái&r"
+			]
+			entity_vis_size: 1.0f
+			id: "556F5AD4D78480B2"
+			rewards: [
+				{
+					id: "59861993832D09A1"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+				{
+					id: "602CC3CADE5EB37D"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "fight_more:ender_blaster_b"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			shape: "square"
+			size: 0.7d
+			tasks: [{
+				id: "5F5ACD23EBFBD3DF"
+				item: {
+					Count: 1
+					id: "wom:ender_blaster"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 8.4d
+			y: 3.8499999999999996d
+		}
+		{
+			description: [
+				"(Trước tiên hãy đặt con trỏ lên vũ khí và nhấn shift để xem phần giới thiệu đi kèm)"
+				""
+				"Giới thiệu các thao tác đặc biệt (vị trí phím mặc định của &e - nhấn và giữ nút bên trái để trở thành phím kỹ năng &r):"
+				""
+				"&b Nhấn và giữ nút bên trái &r Sau khi chuyển đổi, thời lượng sẽ được hiển thị ở góc dưới bên phải"
+				"Thời lượng được xác định bằng tổng hiệu ứng héo của các sinh vật gần đó."
+				""
+				"Nếu thời lượng vượt quá 80 giây, bạn có thể nhấp chuột phải vào &b sau khi chuyển đổi để giải phóng lỗ đen"
+			]
+			entity_vis_size: 1.0f
+			id: "3AD66140A0781842"
+			rewards: [
+				{
+					id: "390CBB62A154452A"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+				{
+					id: "0ACB8AAB97238D69"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "fight_more:antitheus_b"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			shape: "square"
+			size: 0.7d
+			tasks: [{
+				id: "1A48669AB6750D32"
+				item: {
+					Count: 1
+					id: "wom:antitheus"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 8.4d
+			y: 1.75d
+		}
+		{
+			description: [
+				"(Trước tiên hãy đặt con trỏ lên vũ khí và nhấn shift để xem phần giới thiệu đi kèm)"
+				""
+				"Giới thiệu các thao tác đặc biệt (vị trí phím mặc định của &e - nhấn và giữ nút bên trái để trở thành phím kỹ năng &r):"
+				""
+				"Trạng thái bao bọc có đòn tấn công bình thường và đòn tấn công chạy nước rút."
+				"&b có thể chạy nước rút + nhấn và giữ nút bên trái Đòn tấn công đặc biệt &r"
+				""
+				"Sau khi số lớp đạt 12,"
+				"Nhấn và giữ nút bên phải của &b + nhấn và giữ nút bên trái của &r để thực hiện động tác kết thúc"
+			]
+			entity_vis_size: 1.0f
+			id: "25F8C7A854A95BB5"
+			rewards: [
+				{
+					id: "06664F260980D73C"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+				{
+					id: "694FAD0A85FC0887"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "fight_more:satsujin_b"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			shape: "square"
+			size: 0.7d
+			tasks: [{
+				id: "43D1DABB8FDE85CD"
+				item: {
+					Count: 1
+					id: "wom:satsujin"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 8.4d
+			y: 1.0499999999999998d
+		}
+		{
+			description: [
+				"Chỉ có người cai trị và luật pháp mới có thể làm việc cùng nhau"
+				""
+				"(Trước tiên hãy đặt con trỏ lên vũ khí và nhấn shift để xem phần giới thiệu đi kèm)"
+				""
+				"Giới thiệu các thao tác đặc biệt (vị trí phím mặc định của &e - nhấn và giữ nút bên trái để trở thành phím kỹ năng &r):"
+				""
+				"Nhấn liên tục nút bên trái &b để tấn công liên tục."
+				"Bạn cũng có thể &b chạy nước rút&r+&b nhấn và giữ nút bên trái&r"
+				""
+				"Chặn có thể được xếp chồng lên nhau (học các kỹ năng: Phản công hoặc Rào chắn hoàn hảo)"
+				"Khối &b &r+&b nhấn và giữ nút bên trái"
+				"-5 điểm mỗi lần nhận sát thương"
+			]
+			entity_vis_size: 1.0f
+			id: "0ECAC2DC7916DDAE"
+			rewards: [
+				{
+					id: "6FCBAF62475BBA15"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+				{
+					id: "0B6016DF5A72AF5F"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "fight_more:herrscher_b"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "1DB87B672AE6E761"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "fight_more:gesetz_b"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			shape: "square"
+			size: 0.7d
+			tasks: [
+				{
+					id: "0297E7AC1E7D2794"
+					item: {
+						Count: 1
+						id: "wom:herrscher"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "50565F0DB3130DBE"
+					item: {
+						Count: 1
+						id: "wom:gesetz"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "người cai trị, pháp luật"
+			x: 8.4d
+			y: 2.45d
+		}
+		{
+			description: [
+				"(Trước tiên hãy đặt con trỏ lên vũ khí và nhấn shift để xem phần giới thiệu đi kèm)"
+				""
+				"Giới thiệu các thao tác đặc biệt (vị trí phím mặc định của &e - nhấn và giữ nút bên trái để trở thành phím kỹ năng &r):"
+				""
+				"&b tấn công chạy nước rút&r dạng chuyển đổi"
+			]
+			entity_vis_size: 1.0f
+			id: "0BD9C41782DF007F"
+			rewards: [
+				{
+					id: "45CF0BCCD1CFBD71"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+				{
+					id: "759F0928BDC5F634"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "fight_more:moonless_b"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			shape: "square"
+			size: 0.7d
+			tasks: [{
+				id: "25A8EB795C1DFE85"
+				item: {
+					Count: 1
+					id: "wom:moonless"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 8.4d
+			y: 3.1500000000000004d
+		}
+		{
+			entity_vis_size: 1.0f
+			id: "7BC03F47A5EFEB1A"
+			shape: "square"
+			size: 0.7d
+			tasks: [{
+				id: "457DBC659B672435"
+				item: {
+					Count: 1
+					id: "simplyswords:caelestis"
+					tag: {
+						Damage: 0
+						nether_power: "no_socket"
+						runic_power: "socket_empty"
+					}
+				}
+				type: "item"
+			}]
+			x: 5.250000000000001d
+			y: 1.8000000000000003d
+		}
+		{
+			description: [
+				"(Trước tiên hãy đặt con trỏ lên vũ khí và nhấn shift để xem phần giới thiệu đi kèm)"
+				""
+				"Giới thiệu các thao tác đặc biệt (vị trí phím mặc định của &e - nhấn và giữ nút bên trái để trở thành phím kỹ năng &r):"
+				""
+				"Giữ &b và nhấp chuột phải để chặn &r, sau đó &b và nhấn và giữ nhấp chuột trái &r"
+				"Khi biểu tượng &b &r xuất hiện, hãy nhấn và giữ nút bên trái &b lần nữa để giải phóng kỹ năng."
+				"Màu biểu tượng thay đổi theo thời gian"
+				"Khi biểu tượng màu xanh &9 là &r, kỹ năng sẽ chuyển sang &r"
+				"Khi biểu tượng màu cam &6 là &r thì kỹ năng là phun lửa &r"
+				"Khi biểu tượng màu đỏ &c là &r thì kỹ năng là Flame Burst&r"
+				""
+				"Sử dụng thụ động:"
+				"Các biểu tượng sẽ xuất hiện sau bốn đòn tấn công thông thường khác nhau."
+				"Thẻ có thể kích hoạt một đòn tấn công đặc biệt bằng cách nhấn và giữ nút bên trái &b vào đúng thời điểm"
+			]
+			entity_vis_size: 1.0f
+			id: "7A64D418CB4A5378"
+			rewards: [
+				{
+					id: "0D37D3427BA9BF0C"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+				{
+					id: "6C6B98B8CDEFB240"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "fight_more:solar_b"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			shape: "square"
+			size: 0.7d
+			tasks: [{
+				id: "3CE0E99790C24027"
+				item: {
+					Count: 1
+					id: "wom:solar"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 8.4d
+			y: 0.3500000000000001d
+		}
+		{
+			description: [
+				"Vũ khí rune luôn đi kèm với khe đá quý rune &r."
+				"Đính đá quý ngẫu nhiên"
+				"Hiệu ứng có thể được làm mới trên bàn rèn &e &r"
+				""
+				"Được giữ lại sau khi tổng hợp vũ khí tiên tiến"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "simplyswords:runic_chakram"
+				tag: {
+					Damage: 0
+					itemModifier: "modifiers:vicious"
+				}
+			}
+			id: "5FDE2E7B147C7B7C"
+			tasks: [{
+				id: "03587387B9B04139"
+				type: "checkmark"
+			}]
+			title: "vũ khí cổ ngữ"
+			x: -0.7d
+			y: 1.6d
+		}
+		{
+			description: [
+				"Danh sách cung hiện tại"
+				"Cú tấn công bằng chuột trái của cung có chức năng tự động nhắm"
+				"Bạn có thể điều chỉnh chuyển đổi trang &r trong cài đặt &b"
+			]
+			entity_vis_size: 1.0f
+			id: "01F27FA11859401F"
+			tasks: [
+				{
+					id: "6DE54A7B1E867B28"
+					item: {
+						Count: 1
+						id: "too_many_bows:dark_bow"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "1D21B7ED799F23A9"
+					item: {
+						Count: 1
+						id: "too_many_bows:arc_heavens"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "14E452F27F5D290D"
+					item: {
+						Count: 1
+						id: "too_many_bows:dragons_breath"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "62CBF6CEFBF0AC3F"
+					item: {
+						Count: 1
+						id: "too_many_bows:tidal_bow"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "29F3D3947FB7C099"
+					item: {
+						Count: 1
+						id: "too_many_bows:necro_flame_bow"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "159AA1CF3D2885CB"
+					item: {
+						Count: 1
+						id: "too_many_bows:wind_bow"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "7B7AA86B7C041773"
+					item: {
+						Count: 1
+						id: "too_many_bows:crimson_nexus"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "79E3F0EAD344A4C1"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "celestisynth:rainfall_serenity"
+						tag: {
+							Damage: 0
+							csExtras: {
+								cs.pull: 0.0f
+								cs.pulling: 0.0f
+							}
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "06A91C0785C1A9DE"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "alexscaves:dreadbow"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "68C440309E52F50E"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "cataclysm:cursed_bow"
+						tag: { }
+					}
+					type: "item"
+				}
+				{
+					id: "6C4FECE246D5FB0D"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "cataclysm:wrath_of_the_desert"
+						tag: { }
+					}
+					type: "item"
+				}
+			]
+			title: "Thêm cung"
+			x: 0.30000000000000004d
+			y: 0.6000000000000001d
+		}
+		{
+			description: [
+				"Trang này chỉ liệt kê &b thanh kiếm đơn giản &r, &b vũ khí ban đêm &r, &b vũ khí thần kỳ &r"
+				"&r và &b Kỹ năng kiếm thiên thể &r, là vũ khí chính của gói tích hợp"
+				"&e Các vũ khí Mod còn lại &r có thể được xem trên trang nhiệm vụ &e &r của Mod cụ thể"
+				""
+				"Kỹ năng vũ khí xem mô tả vật phẩm"
+				"Kiếm đơn giản&7(đơn giản là kiếm)&r"
+				"Phím mặc định kỹ năng: [C]"
+				"Phím có thể thay đổi: &b [Tên nút: Kỹ năng sử dụng kiếm đơn giản] &r"
+				""
+				"Kỹ năng của Celestial Sword&7(celestisynth)&r, Đêm chiến hoành tráng &7(efn)"
+				"Các nút mặc định của kỹ năng: [Nút chuột 4, 5] &7 (nút bên chuột) &r"
+				"Phím có thể thay đổi: &b [Tên nhóm nút: Nút chinh phục tất cả &r]"
+				""
+				""
+				"Tất cả vũ khí hành động chiến đấu sử thi thông thường"
+				"Nhấn và giữ &b[shift]&r để xem các kỹ năng nâng cao của vũ khí &a&7 (biểu tượng ở góc dưới bên phải)&r"
+				"Đây là kỹ năng chủ động &b của Mod chiến đấu hoành tráng (mặc định là nhấn và giữ nút bên trái &r)"
+				"Bạn có thể thay đổi phím: &b [Tên nút: Kỹ năng nâng cao vũ khí] &r"
+			]
+			entity_vis_size: 1.0f
+			id: "357FCDED139947FE"
+			tasks: [{
+				id: "614B3A993CFA05D3"
+				type: "checkmark"
+			}]
+			title: "Mô tả vũ khí"
+			x: -0.7d
+			y: 0.6000000000000001d
+		}
+		{
+			dependencies: [
+				"2B69C69D93292F69"
+				"5F1545D99F1A9058"
+				"759AF3EF4628F232"
+			]
+			description: [
+				"&6 cầm tay miễn nhiễm sát thương khi rơi&r"
+				""
+				"Vũ khí có cấp độ nâng cấp"
+				"Nâng cấp quái vật"
+				"Tăng sức tấn công thêm 0,1 mỗi cấp"
+				"Cấp độ tối đa 50"
+				""
+				""
+				""
+				"&b hoàn thành bộ sưu tập súng dài &r"
+				"[&c mũi tên màu đỏ &r ở góc trên bên trái để xem các nhiệm vụ tiên quyết]"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "fight_more:agony_p"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "68E81FC251613656"
+			rewards: [{
+				id: "010D8DB77874CD5B"
+				item: {
+					Count: 1
+					id: "fight_more:agony_p"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			shape: "octagon"
+			size: 0.7d
+			tasks: [{
+				id: "417B4B2DF3B957A4"
+				type: "checkmark"
+			}]
+			title: "&cĐau"
+			x: 9.100000000000001d
+			y: -1.75d
+		}
+		{
+			dependencies: [
+				"1FF127F5B20A006F"
+				"5D320374D7CC7A28"
+				"3E9CA2386BAB7767"
+				"4502690360898B30"
+				"30B9027B4DAA1916"
+				"156C1686FDE59280"
+			]
+			description: [
+				""
+				"Vũ khí có cấp độ nâng cấp"
+				"Nâng cấp quái vật"
+				"Tăng sức tấn công thêm 0,1 mỗi cấp"
+				"Cấp độ tối đa 50"
+				""
+				"&b hoàn thành bộ sưu tập kiếm dài &r"
+				"[&c mũi tên màu đỏ &r ở góc trên bên trái để xem các nhiệm vụ tiên quyết]"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "fight_more:ruine_p"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "5EA94C740207C2FD"
+			rewards: [{
+				id: "62085AB238074404"
+				item: {
+					Count: 1
+					id: "fight_more:ruine_p"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			shape: "octagon"
+			size: 0.7d
+			tasks: [{
+				id: "12CF0B91D6DB0846"
+				type: "checkmark"
+			}]
+			title: "&cPhá hủy"
+			x: 9.100000000000001d
+			y: -0.34999999999999987d
+		}
+		{
+			dependencies: [
+				"58933CFA0EE567FD"
+				"3CC9E08BE6283C18"
+			]
+			description: [
+				"Chiêu thức kết liễu &r có thể được tung ra ở cấp độ 6 của &6"
+				""
+				"Vũ khí có cấp độ nâng cấp"
+				"Nâng cấp quái vật"
+				"Tăng sức tấn công thêm 0,1 mỗi cấp"
+				"Cấp độ tối đa 50"
+				""
+				"&b Đã hoàn thành bộ sưu tập lớp katana&r"
+				"[&c mũi tên màu đỏ &r ở góc trên bên trái để xem các nhiệm vụ tiên quyết]"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "fight_more:satsujin_p"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "283A9965D37DE886"
+			rewards: [{
+				id: "08EEAF4835F9B8A6"
+				item: {
+					Count: 1
+					id: "fight_more:satsujin_p"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			shape: "octagon"
+			size: 0.7d
+			tasks: [{
+				id: "0DA06FCA5CA0ECB0"
+				type: "checkmark"
+			}]
+			title: "&c giết chết"
+			x: 9.100000000000001d
+			y: 1.0499999999999998d
+		}
+		{
+			dependencies: [
+				"0E8748ACCFF2F26B"
+				"743264725A3DF9D7"
+				"7008E1CA0B0EF581"
+				"3821B6B54366B1FF"
+				"2E656568E1C2E5C1"
+			]
+			description: [
+				"&6Vũ khí này có sức nóng không giới hạn&r"
+				""
+				"Vũ khí có cấp độ nâng cấp"
+				"Nâng cấp quái vật"
+				"Tăng sức tấn công thêm 0,1 mỗi cấp"
+				"Cấp độ tối đa 50"
+				""
+				"&b đã hoàn thành bộ sưu tập kiếm vĩ đại &r"
+				"[&c mũi tên màu đỏ &r ở góc trên bên trái để xem các nhiệm vụ tiên quyết]"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "fight_more:solar_p"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "58414A6E626B9247"
+			rewards: [{
+				id: "2DB972C006C615B7"
+				item: {
+					Count: 1
+					id: "fight_more:solar_p"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			shape: "octagon"
+			size: 0.7d
+			tasks: [{
+				id: "13BC89E1C35EFE9E"
+				type: "checkmark"
+			}]
+			title: "mặt trời &c"
+			x: 9.100000000000001d
+			y: 0.3500000000000001d
+		}
+		{
+			dependencies: [
+				"61EB9638D5876735"
+				"02C9DE0B6DCEF0FE"
+				"65A7E508C4152FDE"
+				"1C25DBF006729070"
+				"273D1D9478EF78C8"
+			]
+			description: [
+				""
+				"Vũ khí có cấp độ nâng cấp"
+				"Nâng cấp quái vật"
+				"Tăng sức tấn công thêm 0,1 mỗi cấp"
+				"Cấp độ tối đa 50"
+				""
+				"&bHoàn thành bộ sưu tập trục khổng lồ&r"
+				"[&c mũi tên màu đỏ &r ở góc trên bên trái để xem các nhiệm vụ tiên quyết]"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "fight_more:torment_p"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "4E9715C0532F6A30"
+			rewards: [{
+				id: "69362B88BF023DB0"
+				item: {
+					Count: 1
+					id: "fight_more:torment_p"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			shape: "octagon"
+			size: 0.7d
+			tasks: [{
+				id: "31225405A7EC5BFE"
+				type: "checkmark"
+			}]
+			title: "&c tra tấn"
+			x: 9.100000000000001d
+			y: -1.0499999999999998d
+		}
+		{
+			dependencies: [
+				"7DDF9C0F98DAD2CE"
+				"157975FDE9E810CA"
+				"5F8288AED613ACD1"
+			]
+			description: [
+				""
+				"Vũ khí có cấp độ nâng cấp"
+				"Nâng cấp quái vật"
+				"Tăng sức tấn công thêm 0,1 mỗi cấp"
+				"Cấp độ tối đa 50"
+				""
+				"&b hoàn thành bộ sưu tập liềm &r"
+				"[&c mũi tên màu đỏ &r ở góc trên bên trái để xem các nhiệm vụ tiên quyết]"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "fight_more:antitheus_p"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "31C0C6B5773D029C"
+			rewards: [{
+				id: "47BF7BFCF4318A49"
+				item: {
+					Count: 1
+					id: "fight_more:antitheus_p"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			shape: "octagon"
+			size: 0.7d
+			tasks: [{
+				id: "49C93A9F4EA4687D"
+				type: "checkmark"
+			}]
+			title: "&cThiên Chúa sa ngã"
+			x: 9.100000000000001d
+			y: 1.75d
+		}
+		{
+			dependencies: [
+				"2D05B8FA4B1613CA"
+				"68B58A6FA52235DF"
+				"26581B38DCD5E78D"
+				"1666F6F7F1A87386"
+			]
+			description: [
+				"Sử dụng với Dominator"
+				""
+				"Vũ khí có cấp độ nâng cấp"
+				"Nâng cấp quái vật"
+				"Tăng sức tấn công thêm 0,1 mỗi cấp"
+				"Cấp độ tối đa 50"
+				""
+				"Sử dụng với Bộ điều khiển &e &r"
+				"&b hoàn thành bộ sưu tập kiếm một tay &r"
+				"[&c mũi tên màu đỏ &r ở góc trên bên trái để xem các nhiệm vụ tiên quyết]"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "fight_more:herrscher_p"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "1E4F31D5CDE2A156"
+			rewards: [
+				{
+					id: "25B6D91E7571FA1B"
+					item: {
+						Count: 1
+						id: "fight_more:gesetz_p"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "46243797B2C062ED"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "fight_more:herrscher_p"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			shape: "octagon"
+			size: 0.7d
+			tasks: [{
+				id: "1EFB873FE812FC22"
+				type: "checkmark"
+			}]
+			title: "&c chiếm ưu thế"
+			x: 9.100000000000001d
+			y: 2.45d
+		}
+		{
+			dependencies: [
+				"6DC1B61D41F745F8"
+				"7D53A2745033BB67"
+				"2F317ED32439F490"
+				"5DADB0084536F2DF"
+				"3F657DBCCE55D182"
+			]
+			description: [
+				""
+				"Vũ khí có cấp độ nâng cấp"
+				"Nâng cấp quái vật"
+				"Tăng sức tấn công thêm 0,1 mỗi cấp"
+				"Cấp độ tối đa 50"
+				""
+				"&b Đã hoàn thành bộ sưu tập kiếm hai đầu và lưỡi kiếm chiến tranh&r"
+				"[&c mũi tên màu đỏ &r ở góc trên bên trái để xem các nhiệm vụ tiên quyết]"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "fight_more:moonless_p"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "68AA05D984B23FD3"
+			rewards: [{
+				id: "5A346D3B70D3C1E8"
+				item: {
+					Count: 1
+					id: "fight_more:moonless_p"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			shape: "octagon"
+			size: 0.7d
+			tasks: [{
+				id: "5D6B54F9DC9CFDF9"
+				type: "checkmark"
+			}]
+			title: "&c Nhật thực"
+			x: 9.100000000000001d
+			y: 3.1500000000000004d
+		}
+		{
+			dependencies: [
+				"568008664FD61AF2"
+				"4DD8AA09284E707D"
+				"019A45502752DFF5"
+			]
+			description: [
+				""
+				"Vũ khí có cấp độ nâng cấp"
+				"Nâng cấp quái vật"
+				"Tăng sức tấn công thêm 0,1 mỗi cấp"
+				"Cấp độ tối đa 50"
+				""
+				"&b đã hoàn thành bộ sưu tập lớp sử dụng kép &r"
+				"[&c mũi tên màu đỏ &r ở góc trên bên trái để xem các nhiệm vụ tiên quyết]"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "fight_more:ender_blaster_p"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "0B104498FD37D78D"
+			rewards: [{
+				count: 2
+				id: "005DD0510E6CC569"
+				item: {
+					Count: 1
+					id: "fight_more:ender_blaster_p"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			shape: "octagon"
+			size: 0.7d
+			tasks: [{
+				id: "21C8FC455FD62C8E"
+				type: "checkmark"
+			}]
+			title: "&c bóng bị hỏng"
+			x: 9.100000000000001d
+			y: 3.8499999999999996d
+		}
+		{
+			description: [
+				"Vũ khí có thể được thu thập như một tuyến trò chơi chính"
+				"Chế tạo vật phẩm tiêu hao sẽ hướng dẫn bạn chiến đấu với một số BOSS"
+				""
+				"Tính năng vũ khí:"
+				""
+				"&b1. Kiếm đơn giản&7 (những loại được liệt kê ở giữa)"
+				"Có kỹ năng độc đáo, chủ yếu là buff hiệu ứng"
+				""
+				"&b2. Vũ khí ban đêm"
+				"Di chuyển phong phú và khả năng hoạt động cao"
+				""
+				"&b3. Vũ khí thần kỳ &7 (bên phải) &7 giai đoạn giữa-cuối &r"
+				"Chuyển động tuyệt đẹp, phiên bản nâng cấp có thể tăng giá trị"
+				""
+				"&b4. Sự sáng tạo của Chúa &7 (chương tiếp theo) &7 giai đoạn giữa-cuối"
+				"Sở hữu những kỹ năng độc đáo và hiệu ứng đặc biệt thú vị"
+			]
+			entity_vis_size: 1.0f
+			id: "2729D016E8525590"
+			tasks: [{
+				id: "7535650298C4B743"
+				title: "Những cái nào để làm?"
+				type: "checkmark"
+			}]
+			x: 3.3d
+			y: -1.4d
+		}
+		{
+			description: [
+				"Nếu bạn vô tình làm mất vật phẩm thưởng"
+				"Phương thức giải quyết bồi thường:"
+				"Nhấp vào &e ở góc dưới bên phải [Bật chế độ chỉnh sửa tác vụ]&r"
+				"Nhấp chuột phải vào phần thưởng của nhiệm vụ và nhấp vào &e [Đặt lại tiến trình] &r"
+			]
+			entity_vis_size: 1.0f
+			id: "413DAA362BDA82DB"
+			size: 0.8d
+			tasks: [{
+				id: "25575AA249DEDE0E"
+				title: "Mất vật phẩm thưởng?"
+				type: "checkmark"
+			}]
+			x: 9.16309523809525d
+			y: 4.602380952380953d
+		}
+		{
+			description: [
+				"(Trước tiên hãy đặt con trỏ lên vũ khí và nhấn shift để xem phần giới thiệu đi kèm)"
+				""
+				"Giới thiệu các thao tác đặc biệt (vị trí phím mặc định của &e - nhấn và giữ nút bên trái để trở thành phím kỹ năng &r):"
+				"Vũ khí có 4 combo tấn công cơ bản"
+				""
+				"&etải thủ công&r"
+				"Sau số lần tấn công khác nhau, &b nhấn và giữ nút bên trái &r để nạp thủ công số lượng đạn tương ứng"
+				"Nếu combo đạt đòn tấn công thứ 4, 3 viên đạn sẽ tự động được nạp."
+				"Sau khi nạp lại chính xác 6 viên đạn, số lần nạp đạn tiếp theo sẽ tăng gấp đôi."
+				"&7 (Mẹo: tải thủ công sau 3A và sau đó tải tự động 4A) &r"
+				"Phóng đạn &e&r"
+				"Sau khi thực hiện các hành động tấn công, nhảy, chạy và tải lại, nhấn &b và nhấp chuột phải vào &r"
+				"Có thể bắn đạn, và mỗi combo tấn công cũng có những hành động bắn khác nhau."
+				""
+				"&eSúng tiêu diệt&r"
+				"Sau khi nạp đủ 6 viên đạn và 6 viên quá tải,"
+				"Giữ &bshift&r và thực hiện hành động tải lại thủ công &b &r để nhận đạn ma"
+				"Sau combo tấn công thứ 4, nhấp chuột phải vào &b để tung ra đòn hủy diệt"
+			]
+			entity_vis_size: 1.0f
+			id: "217607E4795634C1"
+			shape: "square"
+			size: 0.7d
+			tasks: [{
+				id: "119270EAAC8BD8D5"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "wom:napoleon"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 8.4d
+			y: 4.550000000000001d
+		}
+		{
+			description: [
+				"Nhấn &b [shift] &r trên vật phẩm để xem mô tả kỹ năng"
+				"&7 chìa khóa không thể phá hủy-khóa kỹ năng đặc biệt 1&r"
+				"Nút chuột mặc định &7 4, là nút chuột bên"
+			]
+			entity_vis_size: 1.0f
+			id: "21BDCB2FDF4BE4C3"
+			shape: "square"
+			size: 0.7d
+			tasks: [{
+				id: "0AE13E469D37A337"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "efn:ruinsgreatsword"
+				}
+				type: "item"
+			}]
+			x: 6.3d
+			y: -0.7d
+		}
+		{
+			description: ["Nhấn &b [shift] &r trên vật phẩm để xem mô tả kỹ năng"]
+			entity_vis_size: 1.0f
+			id: "6B138A3AC82C0C41"
+			shape: "square"
+			size: 0.7d
+			tasks: [{
+				id: "599463F5C92BDEE5"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "efn:meen_spear"
+				}
+				type: "item"
+			}]
+			x: 6.3d
+			y: 0.7d
+		}
+		{
+			description: ["Nhấn &b [shift] &r trên vật phẩm để xem mô tả kỹ năng"]
+			entity_vis_size: 1.0f
+			id: "5B5B83AAA624F1D2"
+			shape: "square"
+			size: 0.7d
+			tasks: [{
+				id: "0B6285EF49DA726E"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "efn:nf_dual_sword"
+				}
+				type: "item"
+			}]
+			x: 7.0d
+			y: 0.7d
+		}
+		{
+			description: ["Nhấn &b [shift] &r trên vật phẩm để xem mô tả kỹ năng"]
+			entity_vis_size: 1.0f
+			id: "2285F3131BA73602"
+			shape: "square"
+			size: 0.7d
+			tasks: [{
+				id: "349E65C63EB9075B"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "efn:air_tachi"
+				}
+				type: "item"
+			}]
+			x: 6.3d
+			y: 1.4000000000000001d
+		}
+		{
+			description: [
+				"Giết 100 mạng để mở khóa kỹ năng [Dimension Slash·Ze]"
+				""
+				"Nhấn &b [shift] &r trên vật phẩm để xem mô tả kỹ năng"
+			]
+			entity_vis_size: 1.0f
+			id: "2645A812F42906B8"
+			shape: "square"
+			size: 0.7d
+			tasks: [{
+				id: "0F9A46178316E895"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "efn:yamato_dmc4_in_sheath"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 7.0d
+			y: 4.2d
+		}
+		{
+			description: ["Nhấn &b [shift] &r trên vật phẩm để xem mô tả kỹ năng"]
+			entity_vis_size: 1.0f
+			id: "597DC986C0298C19"
+			shape: "square"
+			size: 0.7d
+			tasks: [{
+				id: "6D2DDFC2ACC9A679"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "efn:nf_claw"
+				}
+				type: "item"
+			}]
+			x: 7.0d
+			y: 1.1102230246251565E-16d
+		}
+		{
+			description: [
+				"Chỉ hợp lệ nếu bạn giữ hai cái cùng một lúc"
+				""
+				"Nhấn &b [shift] &r trên vật phẩm để xem mô tả kỹ năng"
+			]
+			entity_vis_size: 1.0f
+			id: "2482DEF70D7F42FF"
+			shape: "square"
+			size: 0.7d
+			tasks: [
+				{
+					id: "7C256AD2CA08428C"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "efn:exsiliumgladius"
+					}
+					type: "item"
+				}
+				{
+					id: "36D86C817B3081AE"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "efn:fire_exsiliumgladius"
+					}
+					type: "item"
+				}
+			]
+			x: 7.0d
+			y: 1.4000000000000001d
+		}
+		{
+			description: ["Nhấn &b [shift] &r trên vật phẩm để xem mô tả kỹ năng"]
+			entity_vis_size: 1.0f
+			id: "08D92FC64B9B9A52"
+			shape: "square"
+			size: 0.7d
+			tasks: [{
+				id: "41F83F256C0B491C"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "efn:sword_of_pioneer"
+				}
+				type: "item"
+			}]
+			x: 7.0d
+			y: -0.7d
+		}
+		{
+			description: ["Nhấn &b [shift] &r trên vật phẩm để xem mô tả kỹ năng"]
+			entity_vis_size: 1.0f
+			id: "77C6936532E8739C"
+			rewards: [{
+				id: "04D800FCD574343B"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "efn:nf_shortsword_2"
+					tag: { }
+				}
+				type: "item"
+			}]
+			shape: "square"
+			size: 0.7d
+			tasks: [{
+				id: "1BBB9E088FEC1BF4"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "efn:nf_shortsword"
+				}
+				type: "item"
+			}]
+			x: 6.3d
+			y: 1.1102230246251565E-16d
+		}
+		{
+			dependencies: ["76EA2094FC1FA80F"]
+			description: ["Phong cách kỹ năng: dịch chuyển, tấn công nhóm AOE, tấn công lửa triệu hồi"]
+			disable_toast: true
+			entity_vis_size: 1.0f
+			id: "368AA8F5F6A77CF4"
+			shape: "diamond"
+			size: 1.0d
+			tasks: [{
+				id: "486D545E3E38D113"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "celestisynth:solaris"
+					tag: {
+						Damage: 0
+						csController: { }
+					}
+				}
+				type: "item"
+			}]
+			x: 1.7202380952380865d
+			y: 6.300000000000001d
+		}
+		{
+			dependencies: ["6822C1CA5334B958"]
+			description: ["Phong cách kỹ năng: Triệu hồi vật thể bay để tấn công, dịch chuyển, tấn công nhóm"]
+			disable_toast: true
+			entity_vis_size: 1.0f
+			id: "4B79BBA9A32B48A8"
+			shape: "diamond"
+			size: 1.0d
+			tasks: [{
+				id: "4664606671DBFF58"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "celestisynth:crescentia"
+					tag: {
+						Damage: 0
+						csController: { }
+					}
+				}
+				type: "item"
+			}]
+			x: 2.5202380952380863d
+			y: 6.300000000000001d
+		}
+		{
+			dependencies: ["37B24F9AFD932F9B"]
+			description: ["Phong cách kỹ năng: sử dụng kép, tấn công tần số cao, chuyển đổi hình thức, miễn nhiễm sát thương"]
+			disable_toast: true
+			entity_vis_size: 1.0f
+			id: "19748EE35E4219E5"
+			shape: "diamond"
+			size: 1.0d
+			tasks: [{
+				id: "38BCB59AF32D457B"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "celestisynth:aquaflora"
+					tag: {
+						Damage: 0
+						csController: { }
+					}
+				}
+				type: "item"
+			}]
+			x: 3.3202380952380866d
+			y: 6.300000000000001d
+		}
+		{
+			dependencies: ["07C455B244726C88"]
+			description: ["Phong cách kỹ năng: bắn laze, tấn công tự động tháp pháo, mưa laze"]
+			disable_toast: true
+			entity_vis_size: 1.0f
+			id: "5215313D4E8FAD93"
+			shape: "diamond"
+			size: 1.0d
+			tasks: [{
+				id: "64B6044E2B862CE7"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "celestisynth:rainfall_serenity"
+					tag: {
+						Damage: 0
+						csExtras: {
+							cs.pull: 0.0f
+							cs.pulling: 0.0f
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: 4.120238095238086d
+			y: 6.300000000000001d
+		}
+		{
+			dependencies: ["28D4BA1A6F0C3DD0"]
+			description: ["Phong cách kỹ năng: Hiệu ứng đóng băng, dịch chuyển, tấn công đạn băng, triệu hồi gai băng"]
+			disable_toast: true
+			entity_vis_size: 1.0f
+			id: "137C022B10E3E9D3"
+			shape: "diamond"
+			size: 1.0d
+			tasks: [{
+				id: "6FE6381CA4AA7CF3"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "celestisynth:frostbound"
+					tag: {
+						Damage: 0
+						csController: { }
+					}
+				}
+				type: "item"
+			}]
+			x: 4.920238095238086d
+			y: 6.300000000000001d
+		}
+		{
+			dependencies: ["51D55AC58DE1133A"]
+			description: ["Phong cách kỹ năng: tấn công ném bom, phóng thích tần số cao, dịch chuyển dọc"]
+			disable_toast: true
+			entity_vis_size: 1.0f
+			id: "64F444382AF0523A"
+			shape: "diamond"
+			size: 1.0d
+			tasks: [{
+				id: "35F75B3C83665AA7"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "celestisynth:poltergeist"
+					tag: {
+						Damage: 0
+						csController: { }
+						csExtras: { }
+					}
+				}
+				type: "item"
+			}]
+			x: 5.720238095238086d
+			y: 6.300000000000001d
+		}
+		{
+			dependencies: ["6DBF674510B834D1"]
+			description: ["Phong cách kỹ năng: hiệu ứng đặc biệt tấn công vĩnh viễn, triệu hồi cơn lốc, tấn công lưỡi kiếm gió"]
+			disable_toast: true
+			entity_vis_size: 1.0f
+			id: "09E7336C2E4E51E0"
+			shape: "diamond"
+			size: 1.0d
+			tasks: [{
+				id: "7BE88A0D11919760"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "celestisynth:breezebreaker"
+					tag: {
+						Damage: 0
+						csController: { }
+						csExtras: { }
+					}
+				}
+				type: "item"
+			}]
+			x: 6.520238095238087d
+			y: 6.300000000000001d
+		}
+		{
+			dependencies: ["463398BA5696B1B9"]
+			description: ["Phong cách kỹ năng: tấn công đập xuống, chém thẳng, hút máu, phá hủy địa hình"]
+			disable_toast: true
+			entity_vis_size: 1.0f
+			id: "435498007EC14C14"
+			shape: "diamond"
+			size: 1.0d
+			tasks: [{
+				id: "06FC1CB54CA6BA0D"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "celestisynth:keres"
+					tag: {
+						Damage: 0
+						csController: {
+							cs.keresStack: 0
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: 7.333333333333336d
+			y: 6.316666666666655d
+		}
+		{
+			description: [
+				"Dùng để chế tạo vũ khí thần"
+				"Yêu cầu nhiên liệu sao (Lõi thiên thể, Mảnh thạch anh tím)"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "celestisynth:starlit_factory"
+			}
+			id: "455D88FC3E855C3A"
+			shape: "gear"
+			size: 1.3d
+			tasks: [
+				{
+					id: "0947532E2989B463"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "celestisynth:starlit_factory"
+					}
+					type: "item"
+				}
+				{
+					id: "1CDDF711887B40DC"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "celestisynth:celestial_core_heated"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 5.757142857142852d
+		}
+		{
+			description: [
+				"Bị rơi ra bởi điều không thể lay chuyển"
+				""
+				"Kích thước: Nether"
+				""
+				"Bức tượng được kích hoạt bằng đòn tấn công bằng cuốc Netherite"
+			]
+			entity_vis_size: 1.0f
+			id: "76EA2094FC1FA80F"
+			size: 0.8d
+			tasks: [{
+				id: "1B2999A8345950B2"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "legionary:thermal_stone"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.7202380952380865d
+			y: 5.2d
+		}
+		{
+			description: [
+				"Giọt di tích cổ"
+				""
+				"Chương: Thảm họa"
+			]
+			entity_vis_size: 1.0f
+			id: "6DBF674510B834D1"
+			size: 0.8d
+			tasks: [{
+				id: "49A95ECF91E47CAA"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "cataclysm:sandstorm_in_a_bottle"
+				}
+				type: "item"
+			}]
+			x: 6.520238095238087d
+			y: 5.2d
+		}
+		{
+			description: [
+				"Sản xuất nguyên liệu rơi ra từ Minghuang Dragon"
+				""
+				"Chương: Hang Alex"
+			]
+			entity_vis_size: 1.0f
+			id: "463398BA5696B1B9"
+			size: 0.8d
+			tasks: [{
+				id: "4C408080FCED7EBA"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "alexscaves:extinction_spear"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 7.3202380952380866d
+			y: 5.2d
+		}
+		{
+			description: [
+				"rơi ra bởi Frost Behemoth"
+				""
+				"[Thế giới chính] Cánh đồng tuyết"
+			]
+			entity_vis_size: 1.0f
+			id: "28D4BA1A6F0C3DD0"
+			size: 0.8d
+			tasks: [{
+				id: "5CFC8F984ECC0D98"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "mowziesmobs:ice_crystal"
+					tag: {
+						Damage: 0
+						csController: { }
+					}
+				}
+				type: "item"
+			}]
+			x: 4.920238095238086d
+			y: 5.2d
+		}
+		{
+			description: [
+				"Hoa hư không rơi"
+				""
+				"[Thế giới chính] Dưới lòng đất"
+			]
+			entity_vis_size: 1.0f
+			id: "37B24F9AFD932F9B"
+			size: 0.8d
+			tasks: [{
+				id: "6506C9C28B74694C"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "bosses_of_mass_destruction:crystal_fruit"
+				}
+				type: "item"
+			}]
+			x: 3.3202380952380866d
+			y: 5.2d
+		}
+		{
+			description: [
+				"Cột Obsidian bị rơi"
+				""
+				"Kích thước:Cuối"
+			]
+			entity_vis_size: 1.0f
+			id: "6822C1CA5334B958"
+			size: 0.8d
+			tasks: [{
+				id: "586FA8BCD9A568D3"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "bosses_of_mass_destruction:obsidian_heart"
+				}
+				type: "item"
+			}]
+			x: 2.5202380952380863d
+			y: 5.2d
+		}
+		{
+			description: [
+				"rơi ra bởi Earl Pumpkin"
+				""
+				"Chương: Sinh Ra Trong Sự Hỗn Loạn"
+			]
+			entity_vis_size: 1.0f
+			id: "51D55AC58DE1133A"
+			size: 0.8d
+			tasks: [{
+				id: "1F2436720F64BF66"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "born_in_chaos_v1:fel_lamp"
+				}
+				type: "item"
+			}]
+			x: 5.720238095238086d
+			y: 5.2d
+		}
+		{
+			description: [
+				"BOSS đang tìm kiếm một con trỏ có thể khám phá để tìm kiếm tên của sinh vật."
+				"Nếu tên cấu trúc được chỉ định, hãy tìm kiếm tên cấu trúc"
+				""
+				"Vật liệu không được liệt kê"
+				"Nhấn [R] trên tài liệu để truy vấn"
+				"Thông tin liên quan đến vật liệu đã được thêm vào JEI"
+			]
+			entity_vis_size: 1.0f
+			id: "31802A45CC0730D7"
+			size: 0.8d
+			tasks: [{
+				id: "6935137F25F086DE"
+				title: "Thu thập vật chất?"
+				type: "checkmark"
+			}]
+			x: 0.9202380952380864d
+			y: 5.2d
+		}
+		{
+			description: [
+				"Sau khi chế tạo vũ khí, hộp mô tả vật phẩm &a có thông tin chi tiết"
+				"Mô tả vũ khí cho biết nút kích hoạt &a, số lớp và tình trạng &r"
+				""
+				"Tên của vũ khí thiên thể &6 ràng buộc khóa &r là:"
+				""
+				"Nút không thể phá hủy &e &r"
+				"KEY3 và KEY4 kiểm soát việc phát hành hai kỹ năng"
+				"(Mặc định là hai nút bên chuột, có thể sửa đổi)"
+				""
+				"KEY1 và KEY2 là các đòn tấn công và chặn thông thường"
+				"Không sửa đổi nút chuột trái và chuột phải mặc định."
+			]
+			entity_vis_size: 1.0f
+			id: "5D4260D14B8931E7"
+			size: 0.8d
+			tasks: [{
+				id: "1B416BBCC94ACB8F"
+				title: "sử dụng vũ khí"
+				type: "checkmark"
+			}]
+			x: 0.9202380952380864d
+			y: 6.4d
+		}
+		{
+			description: [
+				"ngã"
+				"BOSS: Người bảo vệ vô danh"
+				"Triệu hồi kích thước đấu trường"
+				"Trao đổi vật phẩm &b [Thử thách triệu hồi] Chương &r"
+			]
+			entity_vis_size: 1.0f
+			id: "07C455B244726C88"
+			size: 0.8d
+			tasks: [{
+				id: "7C21F91E9E962AA0"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "eeeabsmobs:guardian_core"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 4.120238095238086d
+			y: 5.2d
+		}
+		{
+			description: [
+				"Vũ khí này có sách kỹ năng riêng"
+				""
+				"Nhấn &b [shift] &r trên vật phẩm để xem mô tả kỹ năng"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "efn:hf_murasama"
+			}
+			id: "3F87299E500CAD99"
+			shape: "square"
+			size: 0.7d
+			tasks: [
+				{
+					id: "43AC25E46637A4C2"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "efn:hf_murasama"
+					}
+					type: "item"
+				}
+				{
+					id: "3F7CA4FAB69E6707"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "epicfight:skillbook"
+						tag: {
+							skill: "efn:zansetsu"
+						}
+					}
+					match_nbt: true
+					type: "item"
+				}
+			]
+			x: 6.3d
+			y: 3.5d
+		}
+		{
+			description: ["Vũ khí này có sách kỹ năng riêng"]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "efn:kusabimaru"
+			}
+			id: "652EE5FB43B0E84B"
+			shape: "square"
+			size: 0.7d
+			tasks: [
+				{
+					id: "219C0B2010B9F4BC"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "efn:kusabimaru"
+					}
+					type: "item"
+				}
+				{
+					id: "30E385741EDABE4E"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "epicfight:skillbook"
+						tag: {
+							skill: "efn:mortal_blade"
+						}
+					}
+					match_nbt: true
+					type: "item"
+				}
+			]
+			x: 6.3d
+			y: 4.2d
+		}
+		{
+			description: ["Nhấn &b [shift] &r trên vật phẩm để xem mô tả kỹ năng"]
+			entity_vis_size: 1.0f
+			id: "7E1F1864D48FB14F"
+			shape: "square"
+			size: 0.7d
+			tasks: [{
+				id: "14023510E32088E3"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "efn:thornwheel"
+				}
+				type: "item"
+			}]
+			x: 6.3d
+			y: 2.8d
+		}
+		{
+			description: ["Nhấn &b [shift] &r trên vật phẩm để xem mô tả kỹ năng"]
+			entity_vis_size: 1.0f
+			id: "40B5FE12069D43A4"
+			shape: "square"
+			size: 0.7d
+			tasks: [{
+				id: "79889E1A75B04106"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "efn:crimson_moon"
+				}
+				type: "item"
+			}]
+			x: 7.0d
+			y: 2.8d
+		}
+		{
+			description: ["Nhấn &b [shift] &r trên vật phẩm để xem mô tả kỹ năng"]
+			entity_vis_size: 1.0f
+			id: "5511270B497E571F"
+			shape: "square"
+			size: 0.7d
+			tasks: [{
+				id: "44E04F48F76CFB22"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "efn:broadblade"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 6.3d
+			y: 2.0999999999999996d
+		}
+		{
+			description: ["Nhấn &b [shift] &r trên vật phẩm để xem mô tả kỹ năng"]
+			entity_vis_size: 1.0f
+			id: "6924B93F7FC008E5"
+			shape: "square"
+			size: 0.7d
+			tasks: [{
+				id: "1A8B9EDE2A935564"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "efn:crescent_moon"
+				}
+				type: "item"
+			}]
+			x: 7.0d
+			y: 2.0999999999999996d
+		}
+		{
+			description: [
+				"Cùng tần số cao Murasame"
+				""
+				"Nhấn &b [shift] &r trên vật phẩm để xem mô tả kỹ năng"
+			]
+			entity_vis_size: 1.0f
+			id: "31DA50E36E86A42C"
+			shape: "square"
+			size: 0.7d
+			tasks: [{
+				id: "545038726747E257"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "efn:hf_blade"
+				}
+				type: "item"
+			}]
+			x: 7.0d
+			y: 3.5d
+		}
+		{
+			description: [
+				"(Trước tiên hãy đặt con trỏ lên vũ khí và nhấn shift để xem phần giới thiệu đi kèm)"
+				"Long Yuan Ring Kill: Nhấn chuột 4 (nút chuột bên) sau khi xếp 7 lớp"
+				""
+				"Phím có thể thay đổi: &b [Tên nhóm nút: Nút chinh phục tất cả &r]"
+			]
+			entity_vis_size: 1.0f
+			icon: {
+				Count: 1
+				id: "sword_soaring:vatansever"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "2F4F179D7E3B3FF1"
+			rewards: [{
+				id: "1A1FF15BAAD1A51E"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "sword_soaring:vatansever"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			shape: "hexagon"
+			size: 1.0d
+			tasks: [
+				{
+					disable_toast: true
+					entity: "cataclysm:ignis"
+					entity_use_tag: false
+					entity_vis_idle_mode: "USE_GLOBAL"
+					entity_vis_offset_x: 0.0f
+					entity_vis_offset_y: 0.0f
+					entity_vis_rotation: 0.0f
+					entity_vis_silhouette_mode: "NONE"
+					entity_vis_size: 1.0f
+					entity_vis_spin_mode: "USE_GLOBAL"
+					entity_vis_use_as_quest_icon: false
+					entity_vis_walk_mode: "USE_GLOBAL"
+					id: "0FCFD27D939BECC4"
+					type: "kill"
+					value: 1L
+				}
+				{
+					disable_toast: true
+					entity: "cataclysm:netherite_monstrosity"
+					entity_use_tag: false
+					entity_vis_idle_mode: "USE_GLOBAL"
+					entity_vis_offset_x: 0.0f
+					entity_vis_offset_y: 0.0f
+					entity_vis_rotation: 0.0f
+					entity_vis_silhouette_mode: "NONE"
+					entity_vis_size: 1.0f
+					entity_vis_spin_mode: "USE_GLOBAL"
+					entity_vis_use_as_quest_icon: false
+					entity_vis_walk_mode: "USE_GLOBAL"
+					id: "0818F493077D2286"
+					type: "kill"
+					value: 1L
+				}
+				{
+					disable_toast: true
+					entity: "cataclysm:the_leviathan"
+					entity_use_tag: false
+					entity_vis_idle_mode: "USE_GLOBAL"
+					entity_vis_offset_x: 0.0f
+					entity_vis_offset_y: 0.0f
+					entity_vis_rotation: 0.0f
+					entity_vis_silhouette_mode: "NONE"
+					entity_vis_size: 1.0f
+					entity_vis_spin_mode: "USE_GLOBAL"
+					entity_vis_use_as_quest_icon: false
+					entity_vis_walk_mode: "USE_GLOBAL"
+					id: "2C5CC3FA59969A13"
+					type: "kill"
+					value: 1L
+				}
+				{
+					disable_toast: true
+					entity: "cataclysm:ancient_remnant"
+					entity_use_tag: false
+					entity_vis_idle_mode: "USE_GLOBAL"
+					entity_vis_offset_x: 0.0f
+					entity_vis_offset_y: 0.0f
+					entity_vis_rotation: 0.0f
+					entity_vis_silhouette_mode: "NONE"
+					entity_vis_size: 1.0f
+					entity_vis_spin_mode: "USE_GLOBAL"
+					entity_vis_use_as_quest_icon: false
+					entity_vis_walk_mode: "USE_GLOBAL"
+					id: "0BA36185DEB5D059"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "cataclysm:the_harbinger"
+					entity_use_tag: false
+					entity_vis_idle_mode: "USE_GLOBAL"
+					entity_vis_offset_x: 0.0f
+					entity_vis_offset_y: 0.0f
+					entity_vis_rotation: 0.0f
+					entity_vis_silhouette_mode: "NONE"
+					entity_vis_size: 1.0f
+					entity_vis_spin_mode: "USE_GLOBAL"
+					entity_vis_use_as_quest_icon: false
+					entity_vis_walk_mode: "USE_GLOBAL"
+					id: "7891C983A410ED75"
+					type: "kill"
+					value: 1L
+				}
+				{
+					disable_toast: true
+					entity: "cataclysm:ender_guardian"
+					entity_use_tag: false
+					entity_vis_idle_mode: "USE_GLOBAL"
+					entity_vis_offset_x: 0.0f
+					entity_vis_offset_y: 0.0f
+					entity_vis_rotation: 0.0f
+					entity_vis_silhouette_mode: "NONE"
+					entity_vis_size: 1.0f
+					entity_vis_spin_mode: "USE_GLOBAL"
+					entity_vis_use_as_quest_icon: false
+					entity_vis_walk_mode: "USE_GLOBAL"
+					id: "7BDB6D36CF0CC9B1"
+					type: "kill"
+					value: 1L
+				}
+				{
+					disable_toast: true
+					entity: "cataclysm:maledictus"
+					entity_use_tag: false
+					entity_vis_idle_mode: "USE_GLOBAL"
+					entity_vis_offset_x: 0.0f
+					entity_vis_offset_y: 0.0f
+					entity_vis_rotation: 0.0f
+					entity_vis_silhouette_mode: "NONE"
+					entity_vis_size: 1.0f
+					entity_vis_spin_mode: "USE_GLOBAL"
+					entity_vis_use_as_quest_icon: false
+					entity_vis_walk_mode: "USE_GLOBAL"
+					id: "2D9BACD7505DB984"
+					type: "kill"
+					value: 1L
+				}
+				{
+					disable_toast: true
+					entity: "cataclysm:scylla"
+					entity_use_tag: false
+					entity_vis_idle_mode: "USE_GLOBAL"
+					entity_vis_offset_x: 0.0f
+					entity_vis_offset_y: 0.0f
+					entity_vis_rotation: 0.0f
+					entity_vis_silhouette_mode: "NONE"
+					entity_vis_size: 1.0f
+					entity_vis_spin_mode: "USE_GLOBAL"
+					entity_vis_use_as_quest_icon: false
+					entity_vis_walk_mode: "USE_GLOBAL"
+					id: "555AEEF90768D8FF"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "nightfall_invade:arterius"
+					entity_use_tag: false
+					entity_vis_idle_mode: "USE_GLOBAL"
+					entity_vis_offset_x: 0.0f
+					entity_vis_offset_y: 0.0f
+					entity_vis_rotation: 0.0f
+					entity_vis_silhouette_mode: "NONE"
+					entity_vis_size: 1.0f
+					entity_vis_spin_mode: "USE_GLOBAL"
+					entity_vis_use_as_quest_icon: false
+					entity_vis_walk_mode: "USE_GLOBAL"
+					id: "2996C7E4CE9E20C9"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "nightfall_invade:scarlet_hunter"
+					entity_use_tag: false
+					entity_vis_idle_mode: "USE_GLOBAL"
+					entity_vis_offset_x: 0.0f
+					entity_vis_offset_y: 0.0f
+					entity_vis_rotation: 0.0f
+					entity_vis_silhouette_mode: "NONE"
+					entity_vis_size: 1.0f
+					entity_vis_spin_mode: "USE_GLOBAL"
+					entity_vis_use_as_quest_icon: false
+					entity_vis_walk_mode: "USE_GLOBAL"
+					id: "3F29D2FCD65A16D7"
+					type: "kill"
+					value: 1L
+				}
+			]
+			x: 8.5d
+			y: 6.0d
+		}
+	]
+	title: "Danh sách vũ khí"
+}

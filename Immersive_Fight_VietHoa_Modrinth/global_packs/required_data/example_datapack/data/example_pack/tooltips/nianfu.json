@@ -1,0 +1,13 @@
+{
+    "items": [
+        {
+            "item": "minecraft:potion",
+            "nbt": {
+                "Potion": "alexsmobs:long_clinging"
+            }
+        }
+    ],
+    "tooltips": [
+        "§7Cho phép người chơi leo trèo trên trần nhà"
+    ]
+}

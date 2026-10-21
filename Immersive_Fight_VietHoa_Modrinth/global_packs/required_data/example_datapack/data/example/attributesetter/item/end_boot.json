@@ -1,0 +1,10 @@
+{
+  "betterend:aeternium_boots":[
+    {
+      "attribute": "minecraft:generic.max_health",
+      "value": 4,
+      "operation": "ADDITION",
+      "slot": "feet"
+    }
+  ]
+}

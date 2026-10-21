@@ -1,0 +1,27 @@
+{
+    "items": [
+        "fight_more:gems_fire",
+        "fight_more:gems_nether",
+        "fight_more:gems_tide",
+        "fight_more:gems_bolt",
+        "fight_more:gems_void",
+        "fight_more:gems_soul",
+        "fight_more:gems_sand",
+        "fight_more:gems_sea",
+        "fight_more:gems_cloud",
+        "fight_more:gems_emob",
+        "cataclysm:the_incinerator",
+        "cataclysm:soul_render",
+        "cataclysm:infernal_forge",
+        "cataclysm:void_forge",
+        "cataclysm:astrape",
+        "cataclysm:ceraunus",
+        "cataclysm:ancient_spear",
+        "cataclysm:tidal_claws",
+        "legendary_monsters:axe_of_lightning",
+        "eeeabsmobs:netherworld_katana"
+    ],
+    "tooltips": [
+        "§eCó thể sửa gán phím trong cài đặt phím: §bPhím Vô Kiên Bất Tồi (Invincible)"
+    ]
+}

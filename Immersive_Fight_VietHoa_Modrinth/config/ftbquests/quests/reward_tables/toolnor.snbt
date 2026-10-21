@@ -1,0 +1,53 @@
+{
+	icon: "modifiers:modifier_book"
+	id: "43208BE4EDFEACD3"
+	loot_size: 1
+	order_index: 3
+	rewards: [
+		{
+			item: {
+				Count: 1
+				id: "modifiers:modifier_book"
+				tag: {
+					bookModifier: "modifiers:sharp"
+				}
+			}
+			title: "Sắc Bén +5% Sát Thương"
+			weight: 2.0f
+		}
+		{
+			item: {
+				Count: 1
+				id: "modifiers:modifier_book"
+				tag: {
+					bookModifier: "modifiers:heavy"
+				}
+			}
+			title: "Nặng Nề +30% Sát Thương, -20% Tốc Độ Đánh, -5% Tốc Độ Chạy"
+			weight: 2.0f
+		}
+		{
+			item: {
+				Count: 1
+				id: "modifiers:modifier_book"
+				tag: {
+					bookModifier: "modifiers:light"
+				}
+			}
+			title: "Gọn Nhẹ +15% Tốc Độ Đánh, -10% Sát Thương"
+			weight: 2.0f
+		}
+		{
+			item: {
+				Count: 1
+				id: "modifiers:modifier_book"
+				tag: {
+					bookModifier: "modifiers:agile"
+				}
+			}
+			title: "Nhanh Nhẹn +5% Tốc Độ Đánh, +20% Tốc Độ Chạy"
+			weight: 2.0f
+		}
+	]
+	title: "Phẩm Chất Vũ Khí Thường"
+}

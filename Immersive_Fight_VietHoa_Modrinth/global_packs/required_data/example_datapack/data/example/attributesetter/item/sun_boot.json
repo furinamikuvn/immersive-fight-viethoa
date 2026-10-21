@@ -1,0 +1,10 @@
+{
+  "dungeons_and_combat:sunleia_armor_boots":[
+    {
+      "attribute": "minecraft:generic.movement_speed",
+      "value": 0.01,
+      "operation": "ADDITION",
+      "slot": "feet"
+    }
+  ]
+}
