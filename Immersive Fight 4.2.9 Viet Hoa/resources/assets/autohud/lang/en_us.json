@@ -87,7 +87,7 @@
   "autohud.option.revealType": "Xử lý thành phần như sau",
   "autohud.option.mountJumpBar.active": "Ẩn thanh nhảy gắn kết khi không sạc",
   "autohud.option.advanced.label": "Tại đây bạn có thể điều chỉnh thủ công các giá trị cho từng thành phần. Điều này có thể cần thiết nếu một số mod khác di chuyển các thành phần xung quanh.\nĐặt giá trị số thành -1 để kế thừa từ mặc định.",
-  "autohud.requireYaclForConfigScreen": "To configure AutoHUD through ModMenu, please install YetAnotherConfigLib!",
+  "autohud.requireYaclForConfigScreen": "Để cấu hình AutoHUD qua ModMenu, vui lòng cài đặt YetAnotherConfigLib!",
   "autohud.group.animationSpeeds": "Tốc độ hoạt hình đặc biệt",
   "autohud.option.scoreboard.onTeamChange.description": "Nếu đội là một phần của điểm người chơi, hãy cập nhật nó; nếu không thì bất kỳ nhóm nào cũng có thể cập nhật mà vẫn không cung cấp khả năng hiển thị thực tế",
   "autohud.category.advanced": "Trình độ cao",

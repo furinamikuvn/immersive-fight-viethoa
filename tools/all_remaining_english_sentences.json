@@ -1,0 +1,897 @@
+[
+  [
+    "alexsmobs",
+    "entity.alexsmobs.mantis_shrimp.command_3",
+    "%s is breaking blocks"
+  ],
+  [
+    "autohud",
+    "autohud.requireYaclForConfigScreen",
+    "To configure AutoHUD through ModMenu, please install YetAnotherConfigLib!"
+  ],
+  [
+    "beachparty",
+    "item.beachparty.overgrown_disc.desc",
+    "MissLilitu - Over the Rainbow"
+  ],
+  [
+    "betterend",
+    "item.betterend.guidebook",
+    "The End for Dummies"
+  ],
+  [
+    "born_in_chaos_v1",
+    "itemGroup.tabblock_borin_chaos",
+    "Born in Chaos: Blocks"
+  ],
+  [
+    "born_in_chaos_v1",
+    "item.born_in_chaos_v1.spruce_cowboy_in_the_moonlighticon",
+    "Spruce Cowboy In The Moonlighticon"
+  ],
+  [
+    "cataclysm",
+    "entity.cataclysm.the_leviathan_immune",
+    "The Leviathan is invincible outside of water!"
+  ],
+  [
+    "dungeons_and_combat",
+    "gui.dungeons_and_combat.bounty_hunter_class_gui.label_none",
+    "At half health"
+  ],
+  [
+    "dungeons_and_combat",
+    "subtitles.kamath_ground_attack",
+    "Kamath tries to slam the ground"
+  ],
+  [
+    "dungeons_and_combat",
+    "gui.dungeons_and_combat.forgotten_knight_class_gui.label_at_half_health_you_will_get_resi",
+    "At half health"
+  ],
+  [
+    "dungeons_and_combat",
+    "item.dungeons_and_combat.kamath_music_disc.desc",
+    "Ethan Meixsel - Pride Before The Fall"
+  ],
+  [
+    "dungeons_and_combat",
+    "advancements.blood_is_fuel_hell_is_full.title",
+    "Blood Is Fuel Hell Is Full"
+  ],
+  [
+    "geckolib",
+    "item.geckolib.jack_in_the_box",
+    "Jack-in-the-Box"
+  ],
+  [
+    "graveyard",
+    "entity.graveyard.nameless_hanged.wait",
+    "Yes, I see you... But let me enjoy the sun for once. Come back at night."
+  ],
+  [
+    "idwtialsimmoedm",
+    "text.idwtialsimmoedm.config.field.displayOnlyWhenShiftIsHeld",
+    "display only when shift is held"
+  ],
+  [
+    "kiwi",
+    "item.kiwi.first_item.tip",
+    "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\n\nUt enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.\n\nExcepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+  ],
+  [
+    "legendary_monsters",
+    "item.legendary_monsters.mossy_chestplate2",
+    "§7that damage mobs and heal you."
+  ],
+  [
+    "legendary_monsters",
+    "item.legendary_monsters.knight_summoner5",
+    "§7You can re-color him while holding valuable materials or change it's behavior state with shift + right click."
+  ],
+  [
+    "legendary_monsters",
+    "item.legendary_monsters.atm_boots1",
+    "§6Special Ability: §750% Fall Damage Reduction"
+  ],
+  [
+    "legendary_monsters",
+    "item.legendary_monsters.ancient_sandstone_shard1",
+    "§7Obtainable by killing Bombers in the desert, at night"
+  ],
+  [
+    "legendary_monsters",
+    "item.legendary_monsters.the_tesseract2",
+    "§7During Portal summoning nearby entities are affected by their gravity pull."
+  ],
+  [
+    "legendary_monsters",
+    "item.legendary_monsters.mossy_hammer1",
+    "§6Special Ability: §7 Deals 10 damage to all entities and applies"
+  ],
+  [
+    "legendary_monsters",
+    "item.legendary_monsters.somber_key_part",
+    "Combine with another key part to create Somber Key"
+  ],
+  [
+    "legendary_monsters",
+    "item.legendary_monsters.chorus_helmet1",
+    "§6Special Ability:§7 this Mask protects player"
+  ],
+  [
+    "legendary_monsters",
+    "item.legendary_monsters.heartoftornado1",
+    "§6Hold Rightclick to shoot a tornado that grabs entities[lasts for 3 seconds]"
+  ],
+  [
+    "legendary_monsters",
+    "item.legendary_monsters.atom_splitter2",
+    "§7Shift + Hold right click for 1.5s to shoot Cluster Annihilation Bomb"
+  ],
+  [
+    "legendary_monsters",
+    "item.legendary_monsters.annihilator_boots1",
+    "Protects you against weakness and slowness"
+  ],
+  [
+    "legendary_monsters",
+    "item.legendary_monsters.great_frost1",
+    "§6Special Ability: §7Right Click to summon Ice Spikes"
+  ],
+  [
+    "legendary_monsters",
+    "item.legendary_monsters.shulker_shield1",
+    "§6Special Ability: §760% to give levitation effect to your enemies"
+  ],
+  [
+    "legendary_monsters",
+    "item.legendary_monsters.fiery_jaw1",
+    "§6Special Ability: §7 Fiery jaw Pushes every entity in"
+  ],
+  [
+    "legendary_monsters",
+    "item.legendary_monsters.annihilator_helmet1",
+    "You don't aggro endermen when you look at them, Press 'C' key to instantly teleport to position you are looking at (in 15 block range)"
+  ],
+  [
+    "legendary_monsters",
+    "item.legendary_monsters.dino_club1",
+    "§6Special Ability: §7right click on a block to spawn"
+  ],
+  [
+    "legendary_monsters",
+    "item.legendary_monsters.knight_summoner3",
+    "§7Deals less damage than guard but can do fast combos and can block incoming attacks"
+  ],
+  [
+    "legendary_monsters",
+    "item.legendary_monsters.entity_warper2",
+    "§7in 4 block radius to player! §6[RIGHT CLICK TO USE]."
+  ],
+  [
+    "legendary_monsters",
+    "item.legendary_monsters.m_anchor2",
+    "§7 and completely stun (for 3 sec. mobs can't attack you and move) all entities around you (in 4 block range)."
+  ],
+  [
+    "legendary_monsters",
+    "item.legendary_monsters.void_entity_warper1",
+    "§6Special Ability: §7Lets you pick any"
+  ],
+  [
+    "legendary_monsters",
+    "block.legendary_monsters.skeletosaurus_egg3",
+    "§7you can use 'R' key to roar and scare mobs."
+  ],
+  [
+    "legendary_monsters",
+    "item.legendary_monsters.chorus_cannon2",
+    "§7Applies Chorus Infection Effect to your enemies"
+  ],
+  [
+    "legendary_monsters",
+    "item.legendary_monsters.chorus_blade1",
+    "§6Special Ability: §7 Teleports player to random location nearby."
+  ],
+  [
+    "legendary_monsters",
+    "item.legendary_monsters.wand_of_clouds1",
+    "§6Special Ability: §7 Summons 1 Big explosive cloud [14 dmg] and"
+  ],
+  [
+    "legendary_monsters",
+    "item.legendary_monsters.great_frost2",
+    "§6Special Ability 2: §7Right Click + shift on block to summon Ice Spikes around you"
+  ],
+  [
+    "legendary_monsters",
+    "item.legendary_monsters.atom_splitter1",
+    "§7Hold right click for 1.5s to shoot an Annihilation Beam"
+  ],
+  [
+    "legendary_monsters",
+    "item.legendary_monsters.mossy_hammer2",
+    "§7poison effect to every entity in 4 block radius, and if player has bone"
+  ],
+  [
+    "legendary_monsters",
+    "item.legendary_monsters.wand_of_clouds2",
+    "§73 small explosive clouds[5 dmg each] above your enemies. §6[RIGHT CLICK ON AN ENTITY TO USE]"
+  ],
+  [
+    "legendary_monsters",
+    "item.legendary_monsters.guard_summoner4",
+    "§7can be easily respawned after death using iron ingots and deactivated summoner"
+  ],
+  [
+    "legendary_monsters",
+    "item.legendary_monsters.mossy_hammer3",
+    "§7 meal in his inventory, moss blocks appear under every damaged entity in 3 block radius!"
+  ],
+  [
+    "legendary_monsters",
+    "item.legendary_monsters.void_entity_warper2",
+    "§7entity to teleport to you in 6 block range! §6[RIGHT CLICK TO USE]"
+  ],
+  [
+    "legendary_monsters",
+    "item.legendary_monsters.atom_splitter3",
+    "§7And don't get fooled by the ammo system! it's unbreakable! automatically reloads with Annihilation Bottles in inventory"
+  ],
+  [
+    "legendary_monsters",
+    "item.legendary_monsters.fiery_boots1",
+    "§6Special Ability: §7Use 'X' Key to spread fire on your position while walking."
+  ],
+  [
+    "legendary_monsters",
+    "item.legendary_monsters.withered_scythe2",
+    "§7 and damage entities"
+  ],
+  [
+    "legendary_monsters",
+    "item.legendary_monsters.mossy_chestplate1",
+    "§6Special Ability: §7 Use 'R' key to spawn poison clouds around you,"
+  ],
+  [
+    "legendary_monsters",
+    "item.legendary_monsters.knight_summoner1",
+    "§7Right click on block to summon a knight"
+  ],
+  [
+    "legendary_monsters",
+    "block.legendary_monsters.skeletosaurus_egg1",
+    "§7Place it down and wait, to hatch Skeloraptor, once fully grown tame it with raw meat,"
+  ],
+  [
+    "legendary_monsters",
+    "item.legendary_monsters.sand_cannon1",
+    "§6Special Ability: §7 Hold click for 1.5 sec. to shoot a Sandstone Bomb"
+  ],
+  [
+    "legendary_monsters",
+    "item.legendary_monsters.guard_summoner1",
+    "§7Right Click on the ground to summon a guard"
+  ],
+  [
+    "legendary_monsters",
+    "item.legendary_monsters.knight_summoner4",
+    "§7can be easily respawned after death using iron ingots and deactivated summoner"
+  ],
+  [
+    "legendary_monsters",
+    "item.legendary_monsters.shattered_greatsword1",
+    "'The Knights of the Collapsed Kingdom'"
+  ],
+  [
+    "legendary_monsters",
+    "item.legendary_monsters.totem_of_moss3",
+    "§fShift + Right Click on golem to enable '§aStand Still Mode§7'"
+  ],
+  [
+    "legendary_monsters",
+    "item.legendary_monsters.chorus_cannon1",
+    "§6Special Ability: §7 Hold click for 1.5 sec. to shoot a Chorus Bomb which"
+  ],
+  [
+    "legendary_monsters",
+    "item.legendary_monsters.guard_summoner5",
+    "§7You can re-color him while holding valuable materials or change it's behavior state with shift + right click."
+  ],
+  [
+    "legendary_monsters",
+    "item.legendary_monsters.m_anchor3",
+    "§6Special Ability 2: §7Attack to deal 4 damage to nearby entities in 3 block radius"
+  ],
+  [
+    "legendary_monsters",
+    "item.legendary_monsters.axe_of_lightning2",
+    "§7Right Click on block to summon Electric Burst shockwave in the direction"
+  ],
+  [
+    "legendary_monsters",
+    "item.legendary_monsters.withered_ribcage1",
+    "§6Special Ability: §7this chestplate protects player"
+  ],
+  [
+    "legendary_monsters",
+    "item.legendary_monsters.buckler_of_annihilation1",
+    "§7Hold right click + shift for 0.5s to perform area attack, and to shoot 3 small Annihilation Bombs [8 damage bypass armor]. Cooldown appears after hitting an entity with area attack"
+  ],
+  [
+    "legendary_monsters",
+    "item.legendary_monsters.entity_warper1",
+    "§6Special Ability: §7Teleports all entities"
+  ],
+  [
+    "legendary_monsters",
+    "item.legendary_monsters.chorus_blade2",
+    "§7 for example it can be used to dodge an attack. §6[RIGHT CLICK TO USE]"
+  ],
+  [
+    "legendary_monsters",
+    "item.legendary_monsters.frost_shield1",
+    "§6Special Ability: §7 Freezes your enemy for 3 seconds"
+  ],
+  [
+    "legendary_monsters",
+    "item.legendary_monsters.soul_great_sword1",
+    "Right click to Parry (AOE), deals damage"
+  ],
+  [
+    "legendary_monsters",
+    "item.legendary_monsters.withered_scythe1",
+    "§6Special Ability: Hold right click to charge forward"
+  ],
+  [
+    "legendary_monsters",
+    "item.legendary_monsters.axe_of_lightning1",
+    "§6Special Ability:§7 right click to summon Lightning Strike§6[9 Damage per Tick, Bypass Armor],"
+  ],
+  [
+    "legendary_monsters",
+    "item.legendary_monsters.annihilator_chestplate1",
+    "When you are at half a health or lower an Annihilation Supernova explodes at your position, and you become invulnerable for 3 seconds."
+  ],
+  [
+    "legendary_monsters",
+    "item.legendary_monsters.annihilator_leggings1",
+    "25% Chance of turning your attack into bypass armor AOE, (your current WeaponDamage / 2) upon landing a crit"
+  ],
+  [
+    "legendary_monsters",
+    "block.legendary_monsters.somber_trapdoor1",
+    "Right click in the middle with a Somber Key to break a lock"
+  ],
+  [
+    "legendary_monsters",
+    "block.legendary_monsters.ender_anchor1",
+    "Fill it with Annihilation Lanterns to set spawn point in the end"
+  ],
+  [
+    "legendary_monsters",
+    "item.legendary_monsters.m_anchor1",
+    "§6Special Ability: §7hold right click for 1,5 seconds to launch in the air"
+  ],
+  [
+    "legendary_monsters",
+    "block.legendary_monsters.skeletosaurus_egg4",
+    "§6-Place on soul sand for faster hatching time."
+  ],
+  [
+    "legendary_monsters",
+    "item.legendary_monsters.mossy_hammer4",
+    "§6[RIGHT CLICK ON BLOCK TO USE]"
+  ],
+  [
+    "legendary_monsters",
+    "item.legendary_monsters.blast_proof_helmet1",
+    "§6Special Ability:§7 35% explosion damage reduction"
+  ],
+  [
+    "legendary_monsters",
+    "item.legendary_monsters.the_tesseract1",
+    "§7Hold right click for 1.5s to summon Annihilation Portals in a Star pattern."
+  ],
+  [
+    "legendary_monsters",
+    "item.legendary_monsters.guard_summoner3",
+    "§7Deals more damage and in bigger ARC than knight but is slower."
+  ],
+  [
+    "legendary_monsters",
+    "item.legendary_monsters.soul_great_sword5",
+    "Hold Shift + Right click for 1s while looking at an entity in 10 block radius to release homing phantom daggers"
+  ],
+  [
+    "maid_smart",
+    "config.promaid.accessory.daYunSmashDamage",
+    "Dayun smash damage per speed"
+  ],
+  [
+    "maid_smart",
+    "config.promaid.perception.lookTicks",
+    "Owner gaze hold time (seconds)"
+  ],
+  [
+    "maid_smart",
+    "config.promaid.misc.presetMode",
+    "Preset mode (switch on the manual page)"
+  ],
+  [
+    "maid_smart",
+    "config.promaid.airRaid.minAboveHeight",
+    "Min altitude above target (blocks)"
+  ],
+  [
+    "maid_smart",
+    "config.promaid.ride.bombStandoff",
+    "Bomb standoff altitude (blocks above target)"
+  ],
+  [
+    "maid_smart",
+    "config.promaid.combat.soulSpellEnable",
+    "Auto soul-spell on lethal damage"
+  ],
+  [
+    "maid_smart",
+    "config.promaid.combat.flightNoFallDamage",
+    "Air Raid: Immune to Fall Damage"
+  ],
+  [
+    "maid_smart",
+    "config.promaid.bombing.tntRange",
+    "TNT Target Radius (blocks)"
+  ],
+  [
+    "maid_smart",
+    "config.promaid.accessory.daYun.smashDamage",
+    "Dayun smash damage per speed"
+  ],
+  [
+    "maid_smart",
+    "config.promaid.mine.hardBlockReport",
+    "Discard report on hard-blocked target"
+  ],
+  [
+    "maid_smart",
+    "config.promaid.airSeparation",
+    "Air Raid: Anti-Stacking in the Air"
+  ],
+  [
+    "maid_smart",
+    "config.promaid.dialogue.proactiveEventCd",
+    "Proactive dialogue event cooldown (seconds)"
+  ],
+  [
+    "maid_smart",
+    "config.promaid.bridge.buildOnlyNatural",
+    "Build Blocks: Vanilla Natural Blocks Only"
+  ],
+  [
+    "maid_smart",
+    "config.promaid.bombing.tntSpeed",
+    "Throw Speed (blocks/tick)"
+  ],
+  [
+    "maid_smart",
+    "config.promaid.airSeparationRadius",
+    "Air Raid: Radius Spread (blocks)"
+  ],
+  [
+    "maid_smart",
+    "config.promaid.misc.workSpeedLevel0",
+    "Cap movement speed to the 0-affection baseline while working"
+  ],
+  [
+    "maid_smart",
+    "config.promaid.ride.servantTransfer",
+    "Mod servant mount: damage transfer to mount"
+  ],
+  [
+    "maid_smart",
+    "key.promaid.goety_toggle",
+    "Toggle Maid Flying-Focus Auto Mode (aim at maid, unbound by default)"
+  ],
+  [
+    "maid_smart",
+    "config.promaid.perception.eventCooldown",
+    "Event announce cooldown (seconds)"
+  ],
+  [
+    "maid_smart",
+    "config.promaid.combat.playerDamageMode",
+    "Player-to-maid damage mode"
+  ],
+  [
+    "maid_smart",
+    "config.promaid.misc.maidTeleportRebuild",
+    "Rebuild client entity after teleport (fixes invisible maid after long-distance teleport)"
+  ],
+  [
+    "maid_smart",
+    "config.promaid.combat.playerDamageMaidCap",
+    "Player damage cap ratio"
+  ],
+  [
+    "maid_smart",
+    "config.promaid.bridge.minRadius",
+    "Bridge min sphere radius (blocks)"
+  ],
+  [
+    "maid_smart",
+    "config.promaid.bridge.reclaimToMaid",
+    "Recover scaffold blocks into inventory"
+  ],
+  [
+    "maid_smart",
+    "config.promaid.misc.strollRadius",
+    "Stroll radius (blocks)"
+  ],
+  [
+    "maid_smart",
+    "config.promaid.broom.minStandoff",
+    "Min distance from target (blocks)"
+  ],
+  [
+    "maid_smart",
+    "config.promaid.patrol.clearance",
+    "Patrol - default clearance radius (blocks)"
+  ],
+  [
+    "maid_smart",
+    "config.promaid.combat.snipe",
+    "High Ground Sniping (on by default): ranged attack state (manual/auto-assign both OK) + has building blocks + enemy closes in — enters elevated state: holds position (move speed ×0), instantly raises 5 blocks and attacks from a fixed spot; only affects movement, not attack; if auto-assigned and has a melee weapon, switches to melee first; teleport disabled during this; cancels when no enemies within radius 8 or self-preservation triggers; auto re-pads if the tower is blown down"
+  ],
+  [
+    "maid_smart",
+    "config.promaid.combat.spellGearIgnore",
+    "Spell Equipment Ignore List (default: slashblade, youkaishomecoming): The \"spell equipment\" recognized by these two providers is itself a weapon (SlashBlade / danmaku, laser, spell card), so it no longer counts as her using spells; leave blank = legacy behavior"
+  ],
+  [
+    "maid_smart",
+    "config.promaid.combat.flightDashBoostRespectCooldown",
+    "Speed Boost Spells: Respect Spell Cooldown"
+  ],
+  [
+    "maid_smart",
+    "item.maid_smart.da_yun.desc2",
+    "§7Blocks with hardness §f≥ obsidian (50)§7 or §f< 0§7 (bedrock/barrier/command block...) are never touched"
+  ],
+  [
+    "maid_smart",
+    "config.promaid.combat.tacticsOrbitRadius",
+    "Orbit radius (blocks)"
+  ],
+  [
+    "maid_smart",
+    "config.promaid.patrol.maxRadius",
+    "Patrol - max horizontal radius (blocks)"
+  ],
+  [
+    "maid_smart",
+    "config.promaid.ride.batonExclusive",
+    "Ride Baton - exclusive right-click"
+  ],
+  [
+    "maid_smart",
+    "config.promaid.combat.vanillaYieldToMod",
+    "Mod Task Priority Yield (Default On): when mod-exclusive tasks are in the pool, the vanilla generic five-piece set yields entirely; Off = purely weighted random"
+  ],
+  [
+    "maid_smart",
+    "config.promaid.bridge.threatDist",
+    "Threat Radius (blocks)"
+  ],
+  [
+    "maid_smart",
+    "config.promaid.combat.autoSwitchRestoreThreatDist",
+    "Restore threat radius (blocks)"
+  ],
+  [
+    "maid_smart",
+    "config.promaid.broom.clampHome",
+    "Patrol the work area in home mode"
+  ],
+  [
+    "maid_smart",
+    "config.promaid.airRaid.orbitMax",
+    "Max orbit distance after lock-on (blocks)"
+  ],
+  [
+    "maid_smart",
+    "config.promaid.spawnerTorch.radius",
+    "Spawner search radius (blocks)"
+  ],
+  [
+    "maid_smart",
+    "config.promaid.tether.broomExtra",
+    "Combat Leash - extra sink on broom (blocks)"
+  ],
+  [
+    "maid_smart",
+    "key.promaid.free_flight_toggle",
+    "Toggle Maid Free Flight (aim at maid, unbound by default)"
+  ],
+  [
+    "maid_smart",
+    "config.promaid.combat.snipeHeight",
+    "Sniper tower height (blocks, default 5): after triggering, stays put and pillars all the way to the top (won't give up while building); if the tower is blown lower / trampled down, auto re-pillars back to target height."
+  ],
+  [
+    "maid_smart",
+    "config.promaid.broom.orbitMax",
+    "Max distance from target (blocks)"
+  ],
+  [
+    "maid_smart",
+    "config.promaid.build.originPlayer",
+    "Build site = under the player's feet"
+  ],
+  [
+    "maid_smart",
+    "config.promaid.ride.orbitRadius",
+    "Orbit radius (blocks)"
+  ],
+  [
+    "maid_smart",
+    "config.promaid.combat.forceAllSchedule",
+    "Switch schedule to ALL during combat"
+  ],
+  [
+    "maid_smart",
+    "config.promaid.combat.teleportSafeRadius",
+    "Teleport-safe radius (blocks)"
+  ],
+  [
+    "maid_smart",
+    "config.promaid.combat.autoSwitchAllowModTasks",
+    "Mod Task Auto-Switch (Default On): mod attack tasks only engage when the maid holds non-vanilla items; Off = autonomous combat uses vanilla tasks only"
+  ],
+  [
+    "maid_smart",
+    "config.promaid.mine.noTargetPause",
+    "No-target idle pause (seconds)"
+  ],
+  [
+    "maid_smart",
+    "config.promaid.voice.systemCooldownS",
+    "System-read cooldown (seconds)"
+  ],
+  [
+    "maid_smart",
+    "config.promaid.combat.autoSwitchRadius",
+    "Response radius (blocks)"
+  ],
+  [
+    "maid_smart",
+    "config.promaid.combat.soulSpellCooldownSeconds",
+    "Soul-spell cooldown (seconds)"
+  ],
+  [
+    "maid_smart",
+    "config.promaid.combat.soulSpellOwnerRadius",
+    "Owner soul-spell radius (blocks)"
+  ],
+  [
+    "maid_smart",
+    "config.promaid.perception.hostileShowCooldown",
+    "Hostile-perception display cooldown (seconds)"
+  ],
+  [
+    "maid_smart",
+    "config.promaid.tether.pull",
+    "Combat Leash - pull (drag the maid like a vanilla lead)"
+  ],
+  [
+    "maid_smart",
+    "config.promaid.combat.flightDashBoost",
+    "Dash Spells: In-flight Speed Boost"
+  ],
+  [
+    "mebahelcreaturesdraugr",
+    "block.mebahelcreaturesdraugr.draugr_altar_unlocked",
+    "The Draugr Altar is already unlocked"
+  ],
+  [
+    "mebahelcreaturesdraugr",
+    "block.mebahelcreaturesdraugr.draugr_altar_unlocking",
+    "The Draugr Altar is unlocking"
+  ],
+  [
+    "mebahelcreaturesdraugr",
+    "block.mebahelcreaturesdraugr.altarprotection",
+    "This area is protected by a Draugr Altar"
+  ],
+  [
+    "mowziesmobs",
+    "entity.mowziesmobs.umvuthi.replenish.button.hover",
+    "Replenish your blessing for free"
+  ],
+  [
+    "mowziesmobs",
+    "entity.mowziesmobs.sculptor.trade.button.hover",
+    "Reach the top of the course and right-click the Sculptor to pass!\nPlacing blocks, breaking blocks, teleporting, and flying are not allowed."
+  ],
+  [
+    "mowziesmobs",
+    "entity.mowziesmobs.umvuthi.trade.button.hover",
+    "Return later to replenish for free"
+  ],
+  [
+    "netherexp",
+    "block.netherexp.brazier_chest.locked",
+    "Brazier Chest is Locked, requires Treacherous Flame to open"
+  ],
+  [
+    "relics",
+    "block.relics.researching_table",
+    "Researching Table [Removed from the mod]"
+  ],
+  [
+    "saintsdragons",
+    "entity.saintsdragons.raevyx.baby_grown",
+    "%s has grown into an adult!"
+  ],
+  [
+    "saintsdragons",
+    "entity.saintsdragons.volitans.taming_failed",
+    "%s resists your attempt and regains its will to fight."
+  ],
+  [
+    "saintsdragons",
+    "entity.saintsdragons.nulljaw.baby_grown",
+    "%s has grown into an adult!"
+  ],
+  [
+    "saintsdragons",
+    "entity.saintsdragons.atroxiia.taming_timeout",
+    "%s recovers from the fight and rises again."
+  ],
+  [
+    "saintsdragons",
+    "entity.saintsdragons.raevyx.taming_need_weakened",
+    "%s is too strong! Weaken it to %s HP first."
+  ],
+  [
+    "saintsdragons",
+    "entity.saintsdragons.raevyx.taming_timeout",
+    "You took too long to decide. %s has recovered and resumed combat."
+  ],
+  [
+    "saintsdragons",
+    "entity.saintsdragons.varasuchus.sleeping",
+    "%s is sleeping, wake it up to tame."
+  ],
+  [
+    "saintsdragons",
+    "entity.saintsdragons.ignivorus.baby_grown",
+    "%s has grown into an adult!"
+  ],
+  [
+    "saintsdragons",
+    "entity.saintsdragons.varasuchus.buck_cooldown",
+    "Nuh-uh. %s said no. Try again in %s seconds."
+  ],
+  [
+    "saintsdragons",
+    "entity.saintsdragons.volitans.taming_need_weakened",
+    "%s must be weakened to %s HP before it can be fed."
+  ],
+  [
+    "saintsdragons",
+    "entity.saintsdragons.dragon.breeding_cooling_down",
+    "%s is not ready to breed yet"
+  ],
+  [
+    "saintsdragons",
+    "entity.saintsdragons.volitans.taming_dazed",
+    "%s is stunned but not ready to be fed yet."
+  ],
+  [
+    "saintsdragons",
+    "entity.saintsdragons.volitans.taming_timeout",
+    "%s recovers and slips back into a hostile state."
+  ],
+  [
+    "saintsdragons",
+    "entity.saintsdragons.dragon.breeding_ready",
+    "%s is ready to breed!"
+  ],
+  [
+    "saintsdragons",
+    "entity.saintsdragons.ignivorus.taming_dazed",
+    "%s is exhausted from battle..."
+  ],
+  [
+    "saintsdragons",
+    "entity.saintsdragons.dragon.breeding_too_young",
+    "%s is too young to breed"
+  ],
+  [
+    "saintsdragons",
+    "entity.saintsdragons.atroxiia.taming_failed",
+    "%s rejects your offer and gathers its strength again."
+  ],
+  [
+    "saintsdragons",
+    "entity.saintsdragons.all.remove_chest_before_saddle",
+    "Remove %s's chest before taking off the saddle."
+  ],
+  [
+    "saintsdragons",
+    "item.saintsdragons.scale_plucker.already_plucked",
+    "A scale has already been forcibly plucked from %s during this shedding cycle."
+  ],
+  [
+    "saintsdragons",
+    "entity.saintsdragons.ignivorus.taming_timeout",
+    "You hesitated too long. %s reignites and returns to battle!"
+  ],
+  [
+    "saintsdragons",
+    "entity.saintsdragons.all.land_to_dismount",
+    "Land your dragon to get off."
+  ],
+  [
+    "saintsdragons",
+    "entity.saintsdragons.raevyx.sleeping",
+    "The wyvern is sleeping."
+  ],
+  [
+    "saintsdragons",
+    "entity.saintsdragons.dragon.breeding_disabled",
+    "Dragon breeding is disabled on this server"
+  ],
+  [
+    "saintsdragons",
+    "entity.saintsdragons.dragon.breeding_already_ready",
+    "%s is already ready to breed"
+  ],
+  [
+    "saintsdragons",
+    "entity.saintsdragons.atroxiia.taming_dazed",
+    "%s is still reeling from the battle..."
+  ],
+  [
+    "saintsdragons",
+    "entity.saintsdragons.raevyx.taming_dazed",
+    "%s is still dazed from the fight..."
+  ],
+  [
+    "saintsdragons",
+    "item.saintsdragons.scale_plucker.too_young",
+    "%s is too young to have a scale plucked."
+  ],
+  [
+    "saintsdragons",
+    "entity.saintsdragons.cindervane.passenger_needs_owner",
+    "The owner needs to mount it first before you can do it."
+  ],
+  [
+    "simplyswords",
+    "item.simplyswords.magiblade.event",
+    "Your Decaying Relic seems to be quivering"
+  ],
+  [
+    "superdupertamer",
+    "entity.superduper.cooldown",
+    "Cooldown left: %s seconds"
+  ],
+  [
+    "superdupertamer",
+    "entity.superduper.already_tameable",
+    "This mob is already tameable without this mod"
+  ],
+  [
+    "valhelsia_structures",
+    "block.valhelsia_structures.sleeping_bag.no_sleep",
+    "You can sleep only at night or during thunderstorms"
+  ],
+  [
+    "valhelsia_structures",
+    "block.valhelsia_structures.sleeping_bag.too_far_away",
+    "You may not rest now; the sleeping bag is too far away"
+  ]
+]

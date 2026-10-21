@@ -1,0 +1,31 @@
+[右键获得伤害吸收]	[Nhấp chuột phải nhận Hấp Thụ Sát Thương]
+[在锻造台上制作类魂装备]	[Chế tạo trang bị Soul-like trên Bàn Rèn]
+在锻造台上制作类魂装备	Chế tạo trang bị Soul-like trên Bàn Rèn
+[吸血: 20%]	[Hút Máu: 20%]
+[基础物品]	[Vật Phẩm Cơ Bản]
+[魔法伤害: 5]	[Sát Thương Phép: 5]
+[类型:斧]	[Loại: Rìu]
+[活尸掉落]	[Rơi ra từ Xác Sống]
+活尸掉落	Rơi ra từ Xác Sống
+魔纹核心:技能特效恢复	Lõi Ma Văn: Khôi phục hiệu ứng kỹ năng
+魔纹核心:技能特效已转换	Lõi Ma Văn: Đã chuyển đổi hiệu ứng kỹ năng
+[TRACKER] 捕获到新粒子种类:	[TRACKER] Đã ghi nhận loại hạt mới:
+点按 或 长按	Nhấn hoặc Giữ
+长按	Giữ
+点按	Nhấn
+前进	Tiến
+§c⚠️ 抖刀惩罚:层数: %d | 弹反窗口: %d帧 | 耐力消耗: x%.1f	§c⚠️ Phạt Nhấp Đỡ: Lớp: %d | Khung Đỡ Đòn: %d frame | Tiêu Thể Lực: x%.1f
+§e⚠️ 警告:当前抖刀次数: (%d/%d)	§e⚠️ Cảnh Báo: Số lần nhấp đỡ: (%d/%d)
+§a✅ 完美招架可用 | 招架窗口: %d帧	§a✅ Đỡ Đòn Hoàn Hảo Sẵn Sàng | Khung Đỡ: %d frame
+§a开启	§aBật
+§c关闭	§cTắt
+烟花秀已	Màn pháo hoa đã 
+，已同步给所有在线玩家	, đã đồng bộ tới toàn bộ người chơi
+烟花秀当前状态:	Trạng thái màn pháo hoa hiện tại:
+§a游戏速度已设置为: §e	§aTốc độ trò chơi đã được thiết lập thành: §e
+找不到发光层物品:	Không tìm thấy vật phẩm phát sáng:
+主人，我背包里没有吃的了，给我备点食物吧～	Chủ nhân ơi, trong túi em hết thức ăn rồi, chuẩn bị chút đồ ăn cho em nhé~
+我背包里没有吃的了，给我备点食物吧～	Trong túi em hết thức ăn rồi, chuẩn bị chút đồ ăn cho em nhé~
+§a[maid_smart] 女仆喂你吃了	§a[maid_smart] Hầu gái đã bón cho bạn ăn
+§a[maid_smart] 《Promaid 手册》与《排班表》已送到你背包！手持右键打开全部图纸列表（含缺材提示），点击即让女仆建造（女仆需先切到“建筑”任务）；排班表打开即可给全部女仆排日程。拟重新获取：/give @p maid_smart:blueprint_book。	§a[maid_smart] 《Sổ Tay Promaid》 và 《Bảng Phân Công》 đã được gửi vào túi đồ của bạn! Cầm trên tay và chuột phải để mở danh sách bản vẽ kiến trúc; mở bảng phân công để sắp xếp lịch trình cho toàn bộ hầu gái.
+首次进入，已发放《Promaid 手册》与《排班表》	Lần đầu gia nhập thế giới, đã trao 《Sổ Tay Promaid》 & 《Bảng Phân Công》
