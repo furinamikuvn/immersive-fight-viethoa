@@ -73,7 +73,7 @@
   "screen.find_me.dead_empty": "không có sinh vật chết",
   "message.find_me.no_registered": "Không có %s được đăng ký.",
   "screen.find_me.select": "chọn",
-  "item.minecraft.enchanted_book": "Sách Phù Phép",
+  "item.minecraft.enchanted_book": "Enchanted Book",
   "config.find_me.sleepReviveCooldownMinutes": "Thời gian hồi phục giấc ngủ",
   "message.find_me.ignore_cleared": "Danh sách bỏ qua tự động liên kết đã bị xóa.",
   "message.find_me.cooldown": "Thời gian làm mát: %s giây.",

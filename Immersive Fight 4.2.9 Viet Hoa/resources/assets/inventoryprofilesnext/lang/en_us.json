@@ -108,7 +108,7 @@
   "inventoryprofiles.gui.config.LockedSlotsSettings": "khóa khe",
   "inventoryprofiles.config.name.quick_slot_2_profile": "Tên file nhanh 2",
   "inventoryprofiles.config.description.scroll_auto_pickup_next_for_single": "Nếu bật, khi sử dụng hết tập hợp các mục trong con trỏ, một tập hợp mới sẽ được chọn để tự động điền vào con trỏ.",
-  "item.minecraft.enchanted_book": "Sách Phù Phép",
+  "item.minecraft.enchanted_book": "Enchanted Book",
   "inventoryprofiles.gui.config.profiles_config_button": "Cài đặt hồ sơ",
   "inventoryprofiles.config.description.threshold_unit": "Đặt đơn vị cho \"Ngưỡng độ bền\"\nHỗ trợ giá trị tuyệt đối và tỷ lệ phần trăm (%%)",
   "inventoryprofiles.config.name.do_global_trade": "Thực hiện giao dịch toàn cầu",

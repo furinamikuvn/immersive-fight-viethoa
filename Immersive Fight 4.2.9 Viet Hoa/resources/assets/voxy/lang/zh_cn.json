@@ -22,7 +22,7 @@
   "voxy.config.general.enabled": "Kích hoạt Voxy ngoài tầm nhìn",
   "voxy.config.title": "Voxy",
   "voxy.config.general.ssao_mode": "chế độ SSAO",
-  "item.minecraft.enchanted_book": "Sách Phù Phép",
+  "item.minecraft.enchanted_book": "Enchanted Book",
   "voxy.config.general.serviceThreads.tooltip": "Số lượng chủ đề mà ServiceThreadPool có thể sử dụng",
   "voxy.config.general.ingest": "Chặn nhập",
   "voxy.config.general.serviceThreads": "Số lượng chủ đề dịch vụ",

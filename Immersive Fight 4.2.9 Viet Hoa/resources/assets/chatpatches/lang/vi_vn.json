@@ -96,7 +96,7 @@
   "text.chatpatches.category.time": "Dấu thời gian",
   "text.chatpatches.search.desc.modifiers": "Truy vấn tìm kiếm có cho phép kết hợp văn bản dựa trên công cụ sửa đổi định dạng không?\n\n\"abc\" có thể khớp với \"abc\" và \"§e§labc§r\"; với công cụ sửa đổi, nó sẽ chỉ khớp với \"abc\" chứ không khớp với \"§e§labc§r\".\nLưu ý: Màu lục giác §ocan§r được khớp ở định dạng \"&#§cRR§aGG§9BB§r\", tuy nhiên §n đây vẫn là phiên bản beta và §f.",
   "text.chatpatches.category.desc.chat.hud": "Tùy chọn cho widget xuất hiện ngay cả khi không mở giao diện chat. Điều này cũng có thể bao gồm các cài đặt liên quan đến cuộc trò chuyện tổng thể.",
-  "item.minecraft.enchanted_book": "Sách Phù Phép",
+  "item.minecraft.enchanted_book": "Enchanted Book",
   "text.chatpatches.desc.counterColor": "Tô màu cho bộ đếm lặp lại có thể có màu trắng trống trong kết quả. Để sử dụng tùy chọn này với các công cụ sửa đổi định dạng khác, hãy sử dụng '&r' trong tùy chọn Trang trí văn bản. Nếu phương thức CompactChat được bật, tùy chọn này vẫn được áp dụng.",
   "text.chatpatches.copy.sender": "Sao chép người gửi >",
   "text.chatpatches.search.regex": "biểu thức chính quy",

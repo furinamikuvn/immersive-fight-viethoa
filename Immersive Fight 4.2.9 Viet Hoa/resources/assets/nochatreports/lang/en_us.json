@@ -119,7 +119,7 @@
   "gui.nochatreports.safety_status_button.controls": "Nhấp chuột trái để chuyển qua các chế độ chữ ký.",
   "gui.nochatreports.encryption_config.default_key": "<Mặc định:%1$s>",
   "gui.nochatreports.safety_status.unintrusive": "Máy chủ này chưa cài đặt No Chat Reports nhưng cho phép gửi tin nhắn chưa ký và không thể báo cáo cho Mojang. Điều này có nghĩa là tin nhắn của bạn không thể bị báo cáo nhưng những người khác có thể chặn tin nhắn của bạn bằng cách bật \"Chỉ hiển thị cuộc trò chuyện an toàn\".",
-  "item.minecraft.enchanted_book": "Sách Phù Phép",
+  "item.minecraft.enchanted_book": "Enchanted Book",
   "gui.nochatreports.reload_config_tooltip": "Tải lại cấu hình Không có báo cáo trò chuyện. Vui lòng sử dụng một cách thận trọng.",
   "gui.nochatreports.signing_required.check": "Không hiển thị lại trong phiên này",
   "option.NoChatReports.disableTelemetry.tooltip": "Cho phép mod vô hiệu hóa tính năng đo từ xa tích hợp, tương tự như No Telemetry.",

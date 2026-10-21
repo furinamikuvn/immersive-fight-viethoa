@@ -99,7 +99,7 @@
   "acceleratedrendering.configuration.core_settings.pooled_ring_buffer_size.tooltip": "Việc sửa đổi giá trị này có thể ảnh hưởng đến FPS. Giá trị càng cao thì càng được phép có nhiều \"khung hình trên chuyến bay\" và ngược lại. Càng cho phép nhiều \"khung hình trên máy bay\", FPS càng được cải thiện nhưng càng chiếm nhiều bộ nhớ video.",
   "acceleratedrendering.configuration.core_settings.block_buffer_binding_restoring.feature_status.tooltip": "- TẮT: Vô hiệu hóa khôi phục bộ đệm khối, nhanh hơn nhưng có thể xung đột với các mod và đèn sử dụng bộ đệm khối.\n- ĐÃ BẬT: Cho phép khôi phục bộ đệm khối, tốc độ có thể chậm hơn một chút do cần ghi và khôi phục các liên kết bộ đệm khối, nhưng nó có thể đảm bảo hoạt động bình thường trong môi trường sử dụng đèn và MOD bộ đệm khối.",
   "acceleratedrendering.configuration.curios_compatibility.item_filter": "Bật bộ lọc mục Curios",
-  "item.minecraft.enchanted_book": "Sách Phù Phép",
+  "item.minecraft.enchanted_book": "Enchanted Book",
   "acceleratedrendering.configuration.filter.feature_status": "Bật bộ lọc",
   "acceleratedrendering.configuration.filter.entity_filter_type": "Loại bộ lọc thực thể",
   "acceleratedrendering.configuration.mods_compatibility.tlm_feature_status": "Kích hoạt khả năng tương thích Car Maid",

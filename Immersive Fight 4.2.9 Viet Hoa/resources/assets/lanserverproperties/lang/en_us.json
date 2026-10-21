@@ -15,7 +15,7 @@
   "lanserverproperties.gui.always_offline.message": "Sử dụng dấu cách để phân tách danh sách này, danh sách này chỉ hợp lệ trong 'chế độ ngoại tuyến + chế độ sửa chữa UUID'. Nếu có xung đột giữa tên người chơi ngoại tuyến và người chơi chính hãng đã đăng ký, bạn có thể thêm tên người chơi ngoại tuyến tại đây.",
   "lanserverproperties.options.online_mode.on.message": "Việc bật chế độ trực tuyến sẽ chỉ cho phép người chơi đăng nhập bằng tài khoản Microsoft/Mojang tham gia máy chủ.",
   "lanserverproperties.options.online_mode.off.vanilla.message": "Tắt chế độ trực tuyến sẽ cho phép người chơi không hợp pháp tham gia.",
-  "item.minecraft.enchanted_book": "Sách Phù Phép",
+  "item.minecraft.enchanted_book": "Enchanted Book",
   "lanserverproperties.gui.port_listening": "Các cổng đã mở:",
   "lanserverproperties.gui.port": "Cổng nghe:"
 }

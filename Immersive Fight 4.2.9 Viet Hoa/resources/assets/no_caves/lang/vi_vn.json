@@ -33,7 +33,7 @@
   "option.no_caves.featureFilterBiomeExclusionPatterns.tooltip": "Quần xã được chỉ định không bị ảnh hưởng bởi bộ lọc ô.",
   "option.no_caves.disabledFeaturePatterns.tooltip": "Các tính năng được chỉ định sẽ được lọc.",
   "option.no_caves.densityFunctionCavePatterns": "Mô hình khớp hang động hàm mật độ",
-  "item.minecraft.enchanted_book": "Sách Phù Phép",
+  "item.minecraft.enchanted_book": "Enchanted Book",
   "option.no_caves.enableNoiseCaveFilter": "Kích hoạt bộ lọc hang động tiếng ồn",
   "tooltip.no_caves.map.name": "tên",
   "modmenu.descriptionTranslation.no_caves": "Vô hiệu hóa hang động tiếng ồn, hang động chức năng mật độ, tính năng, hang động thợ khắc và hẻm núi dựa trên cấu hình và duy trì khả năng tương thích với các gói dữ liệu và mod sửa đổi địa hình khác nếu có thể. Mặc định ảnh hưởng đến tất cả các quần xã và tất cả các cài đặt trước của thế hệ.",

@@ -43,7 +43,7 @@
   "lootr.advancements.1shulker.title": "hộp phần thưởng",
   "lootr.advancements.100loot.description": "Mở 100 thùng chứa chiến lợi phẩm được tạo sẵn độc lập cho mỗi người chơi và nhận chiến lợi phẩm của riêng bạn!",
   "lootr.message.invalid_table": "Bảng chiến lợi phẩm [%s] của thùng chứa này trống và không thể tạo chiến lợi phẩm. Kiểm tra `latest.log` của bạn xem có lỗi nào không.",
-  "item.minecraft.enchanted_book": "Sách Phù Phép",
+  "item.minecraft.enchanted_book": "Enchanted Book",
   "lootr.message.refreshed": "Các vật phẩm trong thùng chứa sẽ được làm mới khi bạn chạm vào chúng!",
   "lootr.commands.create": "Lootr %1$s đã được tạo tại %2$s bằng cách sử dụng bảng loot %3$s.",
   "entity.lootr.lootr_minecart": "Minecart with Chest",

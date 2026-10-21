@@ -1,6 +1,6 @@
 {
   "lootbeams.light_config.lightEffectFilter.blacklist_by_tag.desc": "định dạng giống với định dạng gói dữ liệu, bắt đầu bằng \"#\".",
-  "item.minecraft.enchanted_book": "Sách Phù Phép",
+  "item.minecraft.enchanted_book": "Enchanted Book",
   "lootbeams.vanilla_rarity.common": "bình thường",
   "lootbeams.mod_rarity.non_soul": "thiếu linh hồn",
   "_comment": "Theo wiki thì phải là \"common\", nhưng có vẻ như ít mô-đun sử dụng \"common\" như cách dịch của \"Common\", và các trò chơi khác cũng sử dụng \"common\" nên tôi chọn common thay vì common ở đây.",

@@ -1,5 +1,5 @@
 {
-  "item.minecraft.enchanted_book": "Sách Phù Phép",
+  "item.minecraft.enchanted_book": "Enchanted Book",
   "text.autoconfig.lambdabettergrass.option.betterLayer.@Tooltip": "Kích hoạt \"Tuyết tốt hơn\".\nNếu được bật, một số khối có tuyết sẽ xuất hiện phủ đầy tuyết, có một lớp tuyết ở dưới cùng của khối hoặc cả hai. Chẳng hạn như hàng rào và hoa.\nLưu ý: Chức năng này cũng có thể áp dụng cho các khối giống như tuyết khác, tức là các khối che phủ theo lớp, chẳng hạn như \"tro\" trong mô-đun Cinderscapes, miễn là cung cấp các tệp liên quan cho các khối tương ứng.",
   "text.autoconfig.lambdabettergrass.option.betterLayer": "tuyết tốt hơn",
   "text.autoconfig.lambdabettergrass.option.mode.@Tooltip": "Kích hoạt \"Cỏ tốt hơn\".\n— TẮT Tắt Better Grass.\n— NHANH NHẤT Mỗi mặt của khối sẽ được áp dụng vật liệu trên cùng. Hiệu ứng này tương tự như tùy chọn Smooth cho Better Grass trong OptiFine.\n— Các mặt NHANH CHÓNG được kết nối bởi các khối cùng loại sẽ được áp dụng vật liệu hàng đầu cho chúng. Hiệu ứng này tương tự như tùy chọn \"Chất lượng cao\" cho \"Cỏ tốt hơn\" trong OptiFine.\n— FANCY Vật liệu trên cùng sẽ được áp dụng cho các mặt tại các khớp của cùng loại khối, và các vật liệu bổ sung sẽ được áp dụng cho các cạnh của các khối liền kề cùng loại dựa trên vị trí của các khối để đạt được sự chuyển tiếp giữa vật liệu trên cùng và vật liệu bên.",

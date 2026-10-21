@@ -7,7 +7,7 @@
   "commands.gamestage.check.success": "%s đang trong giai đoạn trò chơi %s",
   "commands.gamestage.all.sender": "%s đã mở khóa tất cả các màn chơi đã biết!",
   "commands.gamestage.info.empty": "%s không mở khóa màn chơi nào.",
-  "item.minecraft.enchanted_book": "Sách Phù Phép",
+  "item.minecraft.enchanted_book": "Enchanted Book",
   "commands.gamestage.add.target": "Bạn đã mở khóa màn chơi %s!",
   "commands.gamestage.clear.sender": "Xóa các giai đoạn trò chơi %d bắt đầu từ %s",
   "commands.gamestage.info.stages": "%s có các giai đoạn trò chơi sau. %s",

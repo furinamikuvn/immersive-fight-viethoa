@@ -32,7 +32,7 @@
   "command.puffish_skills.points.set.success.multiple": "Đối với người chơi %3$s, đặt điểm kỹ năng %1$s vào danh mục %2$s",
   "command.puffish_skills.experience.get.success": "%3$s có kinh nghiệm %1$s trong danh mục %2$s",
   "command.puffish_skills.experience.add.success.multiple": "Thêm điểm kinh nghiệm %1$s cho người chơi %3$s vào danh mục %2$s",
-  "item.minecraft.enchanted_book": "Sách Phù Phép",
+  "item.minecraft.enchanted_book": "Enchanted Book",
   "tooltip.puffish_skills.to_next_level": "Một cấp độ dưới đây: %s",
   "command.puffish_skills.category.lock.success.multiple": "Khóa danh mục %2$s cho người chơi %1$s",
   "command.puffish_skills.points.get.success": "%3$s có điểm %1$s trong danh mục %2$s",

@@ -73,7 +73,7 @@
   "sodium.options.animate_only_visible_textures.name": "Chỉ có kết cấu nhìn thấy được là hoạt hình",
   "sodium.options.allow_direct_memory_access.tooltip": "Nếu được bật, sẽ cho phép một số đường dẫn mã quan trọng nhất định sử dụng quyền truy cập bộ nhớ trực tiếp để cải thiện hiệu suất. Điều này thường làm giảm đáng kể chi phí CPU của việc hiển thị đoạn và thực thể, nhưng có thể khiến việc chẩn đoán một số lỗi và sự cố nhất định trở nên khó khăn hơn. Bạn chỉ nên vô hiệu hóa nó nếu bạn được yêu cầu làm như vậy hoặc biết bạn đang làm gì.",
   "sodium.options.cpu_render_ahead_limit.name": "Giới hạn kết xuất trước của CPU",
-  "item.minecraft.enchanted_book": "Sách Phù Phép",
+  "item.minecraft.enchanted_book": "Enchanted Book",
   "sodium.options.autosave_indicator.tooltip": "Nếu được bật, lời nhắc sẽ hiển thị khi trò chơi lưu bản lưu vào ổ cứng.",
   "sodium.options.mipmap_levels.tooltip": "Kiểm soát số lượng MipMap sẽ được sử dụng cho kết cấu mô hình khối. Giá trị cao hơn hiển thị các khối ở xa tốt hơn nhưng có thể ảnh hưởng xấu đến hiệu suất của nhiều hoạt ảnh kết cấu."
 }

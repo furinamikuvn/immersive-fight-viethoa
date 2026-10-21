@@ -78,7 +78,7 @@
   "modernfix.option.mixin.perf.chunk_meshing": "Triển khai một số tối ưu hóa nhỏ đối với logic chia lưới đoạn thông thường (chúng sẽ không có tác dụng với một mod thay thế hoàn toàn kết xuất đoạn).",
   "modernfix.perf_mod_warning": "Bạn nên cài đặt các mod này, nhưng bạn cũng có thể tắt cảnh báo này trong cấu hình hiện đại hóa.",
   "modernfix.option.category.expert_only": "Cài đặt nâng cao",
-  "item.minecraft.enchanted_book": "Sách Phù Phép",
+  "item.minecraft.enchanted_book": "Enchanted Book",
   "modernfix.option.mixin.perf.faster_texture_stitching": "Chung cho tất cả các phiên bản. Cho phép trò chơi sử dụng hệ thống ghép kết cấu hiệu quả hơn do SuperCoder79 viết ban đầu cho lwjgl3ify vào ngày 1.7.10, điều này sẽ giảm thời gian tải một chút. Đôi khi, mọi người báo cáo rằng điều này gây ra hiện tượng lạ trên các khối hoặc GUI, có thể là lỗi trong mod Natri.",
   "modernfix.option.mixin.bugfix.concurrency": "Bộ bản vá này khắc phục một số vấn đề tương tranh trong MC và/hoặc Forge. Hầu hết các sự cố này đều gây ra sự cố hiếm gặp, khó chẩn đoán trong quá trình tải.",
   "modernfix.option.mixin.bugfix.model_data_manager_cme": "Tránh một số lỗi thiết kế của ModelDataManager của Forge, có thể gây ra sự cố tương tranh đột ngột.",

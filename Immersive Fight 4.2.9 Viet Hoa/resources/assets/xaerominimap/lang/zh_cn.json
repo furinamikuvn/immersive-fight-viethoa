@@ -397,7 +397,7 @@
   "gui.xaero_24h": "đồng hồ 24 giờ",
   "gui.xaero_box_waypoints_scale": "Việc mở rộng quy mô của các điểm tham chiếu trên thế giới. Sử dụng tùy chọn này để thay đổi tỷ lệ điểm tham chiếu ở tất cả các thế giới, bao gồm cả những thế giới gần gũi với bạn. Sử dụng cài đặt Độ sâu kẹp để Lực xung kích cụ thể đến kích thước của các điểm tham chiếu ở xa.\n\nGiá trị mặc định trong các phiên bản mod cũ hơn:\nĐộ sâu kẹp: 12\nTỷ lệ trong thế giới: 2,5\nTỷ lệ văn bản tên: 0,5\nTỷ lệ văn bản khoảng cách: 0,8",
   "gui.xaero_delete_multi_world_msg1": "Bạn có muốn xóa tất cả dữ liệu điểm tham chiếu cho thế giới con đã chọn không?",
-  "item.minecraft.enchanted_book": "Sách Phù Phép",
+  "item.minecraft.enchanted_book": "Enchanted Book",
   "gui.xaero_category_name": "Tên chuyên mục...",
   "gui.xaero_show_dimension_name": "Hiển thị kích thước hiện tại",
   "gui.xaero_box_other_waystone_waypoints": "Tự động hiển thị các loại đá dịch chuyển khác (từ mod Waystones và Wraith Waystones) làm điểm tham chiếu. Điều này bao gồm các tượng đài được chia sẻ từ mod Waystones ban đầu nếu được hỗ trợ (1.20.4+). Trong Wraith Waystones, điều này bao gồm cả những máy tính bảng dịch chuyển tức thời toàn cầu không hoạt động.",

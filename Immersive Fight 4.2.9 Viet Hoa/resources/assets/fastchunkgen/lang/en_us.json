@@ -63,7 +63,7 @@
   "fastchunkgen.option.generalOptimizations.autoSave.mode": "chế độ lưu tự động",
   "fastchunkgen.option.ioSystem.replaceImpl": "Viết lại việc triển khai I/O",
   "fastchunkgen.option.ioSystem.serializeBlockEntitiesOnMainThread": "Lưu thực thể khối an toàn",
-  "item.minecraft.enchanted_book": "Sách Phù Phép",
+  "item.minecraft.enchanted_book": "Enchanted Book",
   "fastchunkgen.option.ioSystem.chunkDataCacheSoftLimit": "Chặn phần mềm bộ nhớ đệm",
   "fastchunkgen.option.ioSystem.chunkStreamVersion.tooltip": "Phương pháp nén được sử dụng cho các đoạn mới được lưu. -1=Bản gốc, 1=GZip, 2=Zlib, 3=Không nén.",
   "fastchunkgen.options.page": "C2ME",

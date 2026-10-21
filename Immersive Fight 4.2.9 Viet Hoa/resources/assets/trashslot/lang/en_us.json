@@ -16,7 +16,7 @@
   "key.categories.trashslot": "thùng rác",
   "config.trashslot.enableDeleteKeysInCreative.tooltip": "Đặt thành true nếu bạn muốn tổ hợp phím xóa cũng hoạt động trong quảng cáo. Lưu ý: Các mục sẽ bị xóa vĩnh viễn trong quảng cáo, bất kể cài đặt Xóa tức thì!",
   "config.trashslot.title": "thùng rác",
-  "item.minecraft.enchanted_book": "Sách Phù Phép",
+  "item.minecraft.enchanted_book": "Enchanted Book",
   "trashslot.hint.locked": "Khe đựng rác đã bị khóa. Nhấn %s để mở khóa.",
   "key.trashslot.delete": "Xóa các mục",
   "config.trashslot.enableDeleteKeysInCreative": "Xóa các phím trong quảng cáo",

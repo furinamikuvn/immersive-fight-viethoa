@@ -143,7 +143,7 @@
   "reterraforged.gui.slider.temperatureFalloff.tooltip": "Tốc độ chuyển đổi giá trị nhiệt độ từ cực trị sang bình thường",
   "reterraforged.gui.button.strataDecorator.tooltip": "Tạo địa tầng (thành tạo đá) thay vì chỉ đá",
   "reterraforged.gui.slider.river.minBankHeight.tooltip": "Kiểm soát độ cao tối thiểu của bờ sông",
-  "item.minecraft.enchanted_book": "Sách Phù Phép",
+  "item.minecraft.enchanted_book": "Enchanted Book",
   "reterraforged.gui.button.delete.tooltip.fail": "Không xóa được giá trị đặt trước",
   "reterraforged.gui.slider.worldDepth.tooltip": "Kiểm soát mức y thấp nhất",
   "reterraforged.gui.slider.erosion.dropletsPerChunk.tooltip": "Số lượng giọt nước trung bình được mô phỏng trên mỗi khu vực",

@@ -118,7 +118,7 @@
   "autohud.option.revealType.description": "Xử lý các thành phần như vậy:\nCá nhân: di chuyển tất cả các thành phần riêng lẻ\nXếp chồng: Chỉ ẩn các thành phần nếu không bị chặn bởi các thành phần hiển thị khác\nĐược nhóm: di chuyển tất cả các thành phần được nhóm hợp lý (khu vực hotbar) lại với nhau\nẨn kết hợp: ẩn các thành phần được hiển thị lại với nhau\nKết hợp: di chuyển tất cả các thành phần lại với nhau",
   "autohud.option.statusEffectTimer": "Hiển thị thời gian còn lại của hiệu ứng trạng thái trên biểu tượng của nó",
   "autohud.option.defaultValues.distance.description": "Kiểm soát số lượng phần tử pixel di chuyển ra ngoài",
-  "item.minecraft.enchanted_book": "Sách Phù Phép",
+  "item.minecraft.enchanted_book": "Enchanted Book",
   "autohud.revealPolicy.Always": "luôn luôn",
   "autohud.option.hotbar.maximumFadeHotbarItems": "Giới hạn mờ dần cho các mục",
   "autohud.scrollDirection.Down": "Xuống",
