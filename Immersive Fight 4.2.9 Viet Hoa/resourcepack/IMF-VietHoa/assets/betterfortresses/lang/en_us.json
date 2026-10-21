@@ -1,6 +1,7 @@
 {
-  "Use /locate structure betterfortresses:fortress instead!": "Thay vào đó, hãy sử dụng cấu trúc /locate Betterfortress:fortress!",
-  "text.autoconfig.betterfortresses-fabric-1_20.title": "Pháo đài Nether tốt hơn của YUNG",
+  "item.minecraft.enchanted_book": "Sách Phù Phép",
   "text.autoconfig.betterfortresses-fabric-1_20.option.general.disableVanillaFortresses": "Vô hiệu hóa pháo đài Vanilla Nether",
-  "text.autoconfig.betterfortresses-fabric-1_20.option.general.disableVanillaFortresses.@Tooltip": "Có nên tắt Pháo đài Nether vani hay không."
+  "Use /locate structure betterfortresses:fortress instead!": "Thay vào đó, hãy sử dụng cấu trúc /locate Betterfortress:fortress!",
+  "text.autoconfig.betterfortresses-fabric-1_20.option.general.disableVanillaFortresses.@Tooltip": "Có nên tắt Pháo đài Nether vani hay không.",
+  "text.autoconfig.betterfortresses-fabric-1_20.title": "Pháo đài Nether tốt hơn của YUNG"
 }

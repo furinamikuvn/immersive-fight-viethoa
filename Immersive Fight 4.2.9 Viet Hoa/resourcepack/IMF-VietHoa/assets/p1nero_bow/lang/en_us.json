@@ -1,9 +1,10 @@
 {
-  "effect.p1nero_bow.double_arrow": "Song Tiễn",
-  "effect.p1nero_bow.double_arrow.description": "Đòn bắn cung sẽ bắn ra hai mũi tên cùng lúc",
+  "item.minecraft.enchanted_book": "Sách Phù Phép",
   "item.p1nero_bow.mortis": "Mortis",
-  "item.p1nero_bow.mortis_innate.tooltip0": "Âm Vang Của Metis",
   "item.p1nero_bow.mortis_innate.tooltip1": "Khi bắn tên nhấn [%s] để hủy bỏ chuyển động giật lùi về sau.",
-  "item.p1nero_bow.mortis_innate.tooltip2": "Sau khi tung đòn đánh thường nhấn [%s] để phát động đòn cận chiến và đặt lại combo.",
-  "item.p1nero_bow.mortis_innate.tooltip3": "Khi nạp đầy năng lượng, nhận hiệu ứng bắn tên đôi."
+  "item.p1nero_bow.mortis_innate.tooltip0": "Âm Vang Của Metis",
+  "effect.p1nero_bow.double_arrow": "Song Tiễn",
+  "item.p1nero_bow.mortis_innate.tooltip3": "Khi nạp đầy năng lượng, nhận hiệu ứng bắn tên đôi.",
+  "effect.p1nero_bow.double_arrow.description": "Đòn bắn cung sẽ bắn ra hai mũi tên cùng lúc",
+  "item.p1nero_bow.mortis_innate.tooltip2": "Sau khi tung đòn đánh thường nhấn [%s] để phát động đòn cận chiến và đặt lại combo."
 }

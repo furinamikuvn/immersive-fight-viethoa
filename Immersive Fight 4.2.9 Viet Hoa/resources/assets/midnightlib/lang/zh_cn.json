@@ -1,0 +1,15 @@
+{
+  "midnightlib.curseforge": "Lời nguyền",
+  "modmenu.descriptionTranslation.midnightlib": "Thư viện chung cho các mod của Team MidnightDust.\nCung cấp api cấu hình, tích hợp tự động với các mod, tiện ích thông thường và mỹ phẩm khác.",
+  "midnightlib.midnightconfig.config_screen_list": "Bật danh sách màn hình cấu hình",
+  "midnightlib.midnightconfig.title": "Cấu hình nửa đêmLib",
+  "midnightlib.midnightconfig.enum.ConfigButton.TRUE": "§aCó",
+  "item.minecraft.enchanted_book": "Sách Phù Phép",
+  "midnightlib.midnightconfig.enum.ConfigButton.FALSE": "§cKhông",
+  "midnightlib.overview.title": "Tổng quan về MidnightConfig",
+  "midnightlib.modrinth": "hiện đại",
+  "midnightlib.midnightconfig.enum.ConfigButton.MODMENU": "§bModMenu",
+  "midnightlib.midnightconfig.background_texture": "Kết cấu nền màn hình cấu hình",
+  "midnightlib.wiki": "Wiki",
+  "modmenu.summaryTranslation.midnightlib": "Thư viện chung cho các mod của Team MidnightDust."
+}

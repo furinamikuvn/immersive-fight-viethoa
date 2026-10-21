@@ -1,10 +1,10 @@
 {
-  "entity.spice.warden_boss": "Người giữ ẩn",
-  "entity.spice.soul": "linh hồn",
+  "item.minecraft.enchanted_book": "Sách Phù Phép",
   "effect.spice.shake": "sốc",
-  "subtitles.wardenboss_idle": "Tên Hidewarder gầm gừ",
   "item.spice.soulmob_spawn_egg": "Trứng hồi sinh linh hồn",
-  "entity.spice.soulmob": "linh hồn",
+  "entity.spice.warden_boss": "Người giữ ẩn",
   "item.spice.warden_boss_spawn_egg": "Trứng sinh sản Nether Warder",
-  "item.minecraft.enchanted_book": "Sách Phù Phép"
+  "entity.spice.soul": "linh hồn",
+  "entity.spice.soulmob": "linh hồn",
+  "subtitles.wardenboss_idle": "Tên Hidewarder gầm gừ"
 }

@@ -1,0 +1,9 @@
+{
+  "item.minecraft.enchanted_book": "Sách Phù Phép",
+  "placebo.toggleWings": "Chuyển đổi cánh hỗ trợ",
+  "placebo.toggleTrails": "Chuyển đổi đường đi của người ủng hộ",
+  "placebo.cmd.not_found": "Không tìm thấy %s.",
+  "placebo.cmd.serialize_success": "Đã lưu %s vào %s.",
+  "key.categories.placebo": "giả dược",
+  "placebo.cmd.serialize_failure": "Đã xảy ra lỗi trong quá trình tuần tự hóa."
+}

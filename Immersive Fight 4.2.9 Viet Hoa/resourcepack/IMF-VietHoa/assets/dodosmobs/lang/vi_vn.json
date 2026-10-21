@@ -1,13 +1,13 @@
 {
-  "itemGroup.dodosmobs.item": "Dodo's Mobs",
   "item.dodosmobs.amalgam_claws": "Amalgam Claws",
-  "item.dodosmobs.chimera_armor_chestplate": "Chimera Armor Chestplate",
-  "item.dodosmobs.chimera_claw": "Chimera Claw",
-  "item.dodosmobs.bone_chimera_spawn_egg": "Bone Chimera Spawn Egg",
   "entity.dodosmobs.bone_chimera": "Bone Chimera",
+  "entity.dodosmobs.dead_horn": " Dead Horn",
+  "item.dodosmobs.bone_chimera_spawn_egg": "Bone Chimera Spawn Egg",
+  "item.dodosmobs.chimera_armor_chestplate": "Chimera Armor Chestplate",
   "effect.dodosmobs.wound": "tổn thương",
+  "item.minecraft.enchanted_book": "Sách Phù Phép",
   "death.attack.dodosmobs.wound": "Tử vong do vết thương gãy",
   "death.attack.dodosmobs.wound.player": "Chết dưới tay %s do vết thương sụp đổ",
-  "entity.dodosmobs.dead_horn": " Dead Horn",
-  "item.minecraft.enchanted_book": "Sách Phù Phép"
+  "item.dodosmobs.chimera_claw": "Chimera Claw",
+  "itemGroup.dodosmobs.item": "Dodo's Mobs"
 }

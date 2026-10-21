@@ -1,14 +1,14 @@
 {
-  "tooltip.item_type.armor": "áo giáp",
-  "tooltip.item_type.shield": "cái khiên",
-  "tooltip.item_type.weapon": "cánh tay",
-  "tooltip.item_type.ranged_weapon": "vũ khí tầm xa",
-  "tooltip.item_type.tool": "dụng cụ",
-  "tooltip.item_type.food": "đồ ăn",
-  "tooltip.item_type.potion": "thuốc",
-  "tooltip.item_type.magic": "ảo thuật",
   "tooltip.item_type.block": "khối",
   "tooltip.item_type.ammo": "đạn dược",
+  "tooltip.item_type.ranged_weapon": "vũ khí tầm xa",
+  "tooltip.item_type.armor": "áo giáp",
   "tooltip.item_type.material": "Vật liệu",
-  "item.minecraft.enchanted_book": "Sách Phù Phép"
+  "tooltip.item_type.weapon": "cánh tay",
+  "item.minecraft.enchanted_book": "Sách Phù Phép",
+  "tooltip.item_type.shield": "cái khiên",
+  "tooltip.item_type.tool": "dụng cụ",
+  "tooltip.item_type.food": "đồ ăn",
+  "tooltip.item_type.magic": "ảo thuật",
+  "tooltip.item_type.potion": "thuốc"
 }

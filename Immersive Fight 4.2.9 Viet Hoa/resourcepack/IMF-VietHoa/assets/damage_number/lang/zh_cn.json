@@ -1,15 +1,16 @@
 {
-  "damage_number:title.content": "Thiệt hại §l",
-  "damage_number:combo.content": "Kết hợp %sX",
   "damage_number:damage_list.content": " +%s",
-  "damage_number:number.content": "§o§l%s",
-  "damage_number:config.title": "Config Screen",
-  "key.damage_number.show_config": "Hiển thị cấu hình số thiệt hại",
-  "damage_number:config.setting": "Cấu hình",
-  "damage_number:config.x": "X",
-  "damage_number:config.y": "Y",
-  "damage_number:config.scale": "Phóng",
   "damage_number:config.opacity": "minh bạch",
+  "damage_number:config.scale": "Phóng",
+  "damage_number:config.y": "Y",
+  "item.minecraft.enchanted_book": "Sách Phù Phép",
+  "damage_number:config.max_size": "số lượng tối đa",
+  "damage_number:number.content": "§o§l%s",
+  "key.damage_number.show_config": "Hiển thị cấu hình số thiệt hại",
   "damage_number:config.select_key": "Phần cần sửa đổi",
-  "damage_number:config.max_size": "số lượng tối đa"
+  "damage_number:combo.content": "Kết hợp %sX",
+  "damage_number:config.title": "Config Screen",
+  "damage_number:config.x": "X",
+  "damage_number:title.content": "Thiệt hại §l",
+  "damage_number:config.setting": "Cấu hình"
 }

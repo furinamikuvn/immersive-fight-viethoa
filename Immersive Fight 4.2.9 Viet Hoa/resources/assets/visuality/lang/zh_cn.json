@@ -1,0 +1,20 @@
+{
+  "config.visuality.option.waterCircle.radius": "Bán kính kết xuất hạt sóng nước",
+  "config.visuality.option.charge": "Kích hoạt các hạt tích điện",
+  "config.visuality.option.shinyArmor": "Kích hoạt áo giáp tỏa sáng",
+  "config.visuality.general": "Phổ quát",
+  "config.visuality.option.waterCircle.colored": "Bật tính năng tạo bóng hạt sóng nước",
+  "config.visuality.option.hitParticles.entries": "Danh sách hạt tấn công",
+  "config.visuality.option.shinyBlocks.entries": "Danh sách các khối sáng bóng",
+  "config.visuality.option.soul": "Kích hoạt các hạt linh hồn",
+  "item.minecraft.enchanted_book": "Sách Phù Phép",
+  "config.visuality.option.waterCircle": "Kích hoạt các hạt sóng nước",
+  "config.visuality.title": "Cài đặt hình ảnh",
+  "config.visuality.option.waterCircle.density": "mật độ hạt sóng nước",
+  "config.visuality.option.hitParticles": "Kích hoạt các hạt tấn công",
+  "config.visuality.option.slime": "Kích hoạt các giọt chất nhờn",
+  "config.visuality.option.shinyArmor.entries": "Danh sách áo giáp sáng ngời",
+  "config.visuality.option.shinyBlocks": "Kích hoạt các khối sáng bóng",
+  "modmenu.descriptionTranslation.visuality": "Một cải tiến nhỏ về hình ảnh đã được thực hiện bằng cách thêm một loạt các hạt mới.",
+  "config.visuality.option.sparkle": "Kích hoạt các hạt nhấp nháy"
+}

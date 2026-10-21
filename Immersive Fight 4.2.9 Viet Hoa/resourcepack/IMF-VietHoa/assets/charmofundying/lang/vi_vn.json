@@ -1,10 +1,10 @@
 {
-  "gui.charmofundying.config.xOffset.name": "Độ lệch hiển thị ngang",
-  "gui.charmofundying.config.xOffset.description": "Độ lệch ngang để hiển thị vật tổ trên trình phát.",
-  "gui.charmofundying.config.yOffset.name": "Độ lệch hiển thị dọc",
-  "gui.charmofundying.config.yOffset.description": "Độ lệch dọc để hiển thị vật tổ trên trình phát.",
+  "item.minecraft.enchanted_book": "Sách Phù Phép",
   "gui.charmofundying.config.renderTotem.name": "Kết xuất vật tổ được trang bị",
-  "gui.charmofundying.config.renderTotem.description": "Nếu được bật, sẽ hiển thị vật tổ được trang bị trên người chơi.",
+  "gui.charmofundying.config.xOffset.name": "Độ lệch hiển thị ngang",
+  "gui.charmofundying.config.yOffset.description": "Độ lệch dọc để hiển thị vật tổ trên trình phát.",
   "trinkets.slot.charm.charm": "Sự quyến rũ",
-  "item.minecraft.enchanted_book": "Sách Phù Phép"
+  "gui.charmofundying.config.yOffset.name": "Độ lệch hiển thị dọc",
+  "gui.charmofundying.config.xOffset.description": "Độ lệch ngang để hiển thị vật tổ trên trình phát.",
+  "gui.charmofundying.config.renderTotem.description": "Nếu được bật, sẽ hiển thị vật tổ được trang bị trên người chơi."
 }

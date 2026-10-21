@@ -1,8 +1,9 @@
 {
-  "item.superdupertamer.super_duper_ultra_hyper_lead": "SUPER DUPER ULTRA HYPER LEAD",
-  "entity.superduper.all.command_0": "%s is wandering",
   "entity.superduper.all.command_1": "%s is following",
-  "entity.superduper.all.command_2": "%s is staying",
+  "item.minecraft.enchanted_book": "Sách Phù Phép",
+  "entity.superduper.cooldown": "Cooldown left: %s seconds",
   "entity.superduper.already_tameable": "This mob is already tameable without this mod",
-  "entity.superduper.cooldown": "Cooldown left: %s seconds"
+  "entity.superduper.all.command_0": "%s is wandering",
+  "item.superdupertamer.super_duper_ultra_hyper_lead": "SUPER DUPER ULTRA HYPER LEAD",
+  "entity.superduper.all.command_2": "%s is staying"
 }

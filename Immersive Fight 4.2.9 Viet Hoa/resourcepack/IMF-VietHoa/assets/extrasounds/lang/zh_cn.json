@@ -1,16 +1,17 @@
 {
-  "soundCategory.extrasounds$master": "ExtraSounds/hiệu ứng âm thanh bổ sung",
-  "soundCategory.extrasounds$inventory": "Hàng tồn kho",
-  "soundCategory.extrasounds$action": "Hành vi",
   "soundCategory.extrasounds$chat": "Tin nhắn trò chuyện",
-  "soundCategory.extrasounds$chat_mention": "đề cập trò chuyện",
-  "soundCategory.extrasounds$effects": "Tác dụng/thuốc",
-  "soundCategory.extrasounds$hotbar": "Thanh phím tắt",
-  "soundCategory.extrasounds$typing": "kiểu",
   "soundCategory.extrasounds$item_drop": "Hiệu ứng âm thanh vật phẩm bị rơi",
-  "soundCategory.extrasounds$empty_hotbar": "Hiệu ứng âm thanh thanh phím tắt trống",
   "soundCategory.extrasounds$enabled_footstep": "Hiệu ứng âm thanh bước chân",
-  "soundCategory.extrasounds$enabled_effects": "Hiệu ứng âm thanh hiệu ứng",
   "soundCategory.extrasounds$enabled_poof": "Hiệu ứng âm thanh cái chết của sinh vật",
-  "tooltip.soundCategory.extrasounds_action": "Khối lượng này áp dụng cho các tương tác vật phẩm, tương tác khối và các sự kiện thực thể."
+  "soundCategory.extrasounds$inventory": "Hàng tồn kho",
+  "soundCategory.extrasounds$empty_hotbar": "Hiệu ứng âm thanh thanh phím tắt trống",
+  "soundCategory.extrasounds$master": "ExtraSounds/hiệu ứng âm thanh bổ sung",
+  "item.minecraft.enchanted_book": "Sách Phù Phép",
+  "soundCategory.extrasounds$effects": "Tác dụng/thuốc",
+  "soundCategory.extrasounds$enabled_effects": "Hiệu ứng âm thanh hiệu ứng",
+  "soundCategory.extrasounds$chat_mention": "đề cập trò chuyện",
+  "tooltip.soundCategory.extrasounds_action": "Khối lượng này áp dụng cho các tương tác vật phẩm, tương tác khối và các sự kiện thực thể.",
+  "soundCategory.extrasounds$action": "Hành vi",
+  "soundCategory.extrasounds$typing": "kiểu",
+  "soundCategory.extrasounds$hotbar": "Thanh phím tắt"
 }

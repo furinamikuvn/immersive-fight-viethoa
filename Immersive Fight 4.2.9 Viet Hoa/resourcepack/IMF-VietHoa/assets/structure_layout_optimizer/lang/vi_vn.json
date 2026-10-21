@@ -1,5 +1,5 @@
 {
-  "config.structure_layout_optimizer.deduplicate_shuffled_template_pool_element_list": "Danh sách phần tử nhóm mẫu được xáo trộn trùng lặp",
+  "item.minecraft.enchanted_book": "Sách Phù Phép",
   "config.structure_layout_optimizer.deduplicate_shuffled_template_pool_element_list.desc": "Có nên sử dụng chiến lược thay thế để làm cho bố cục cấu trúc tạo ra nhanh hơn một chút so với tối ưu hóa mặc định mà bản mod này dành cho trọng số nhóm mẫu hay không. Chiến lược thay thế này hoạt động bằng cách thay đổi danh sách các phần mà cấu trúc thu thập từ nhóm mẫu để không có các mục trùng lặp.\nĐiều này sẽ không phá vỡ việc tạo cấu trúc, nhưng nó sẽ làm cho bố cục cấu trúc khác với khi cấu hình này bị tắt (phá vỡ tính chẵn lẻ của hạt vanilla). Chi phí cho tốc độ có thể đáng giá trong các modpack lớn, nơi nhiều mod cấu trúc đang sử dụng giá trị trọng lượng rất cao trong nhóm mẫu của chúng.\n\nƯu điểm: Nhận được hiệu suất cao hơn một chút từ Cấu trúc nhóm mẫu có trọng lượng cao.\nNhược điểm: Mất tính tương đương với hạt vani về cách bố trí kết cấu. (Bố trí cấu trúc không bị hỏng, chỉ khác)",
-  "item.minecraft.enchanted_book": "Sách Phù Phép"
+  "config.structure_layout_optimizer.deduplicate_shuffled_template_pool_element_list": "Danh sách phần tử nhóm mẫu được xáo trộn trùng lặp"
 }

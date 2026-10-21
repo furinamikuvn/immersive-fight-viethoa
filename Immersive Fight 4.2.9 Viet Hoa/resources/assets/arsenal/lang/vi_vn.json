@@ -1,0 +1,16 @@
+{
+  "itemGroup.arsenal": "Arsenal",
+  "item.arsenal.charge_halberd": "Rechargeable Halberd",
+  "item.arsenal.soul_knight_spawn_egg": "Soul knight Spawn Egg",
+  "item.minecraft.enchanted_book": "Sách Phù Phép",
+  "item.arsenal.charge_halberd.desc": "Khi điện tích đạt hơn 10 điểm, nhấn phím [C] để chuyển đổi giữa dạng giáo và rìu chiến.",
+  "item.arsenal.soul_knight_great_sword.desc": "Đốt cháy kẻ thù hoặc đốt cháy vũ khí nếu bạn đang bốc cháy",
+  "item.arsenal.soul_metal_ingot": "Soul Metal Ingot",
+  "entity.arsenal.soul_knight": "Soul knight",
+  "item.arsenal.soul_knight_great_sword2.desc": "Nhấn phím [C] khi vũ khí đang cháy để kích hoạt kỹ năng",
+  "effect.arsenal.stun": "chóng mặt",
+  "item.arsenal.soul_knight_great_sword": "Great Sword of Soul knight",
+  "advancements.arsenal.root.title": "arsenal",
+  "item.arsenal.charge_halberd2_desc": "Khi điện tích từ 15 điểm trở lên, sử dụng vũ khí khi đang ngồi xổm sẽ biến đổi thành kích.",
+  "advancements.arsenal.root.description": "Tiến trình của Soul Knight"
+}

@@ -1,10 +1,10 @@
 {
-  "embeddium.conflicting_mod": "Embeddium đã phát hiện thấy một số mod được cài đặt có thể gây ra sự cố hiển thị hoặc sự cố. Nên gỡ cài đặt chúng. Vui lòng tham khảo danh sách dưới đây.",
-  "embeddium.conflicting_mod_list": "[{2}]",
-  "embeddium.search_bar_empty": "Tùy chọn tìm kiếm...",
-  "embeddium.options.added_by_mod_string": "Được thêm bởi mod: %s",
+  "item.minecraft.enchanted_book": "Sách Phù Phép",
   "embeddium.options.fullscreen.resolution.tooltip": "Kiểm soát độ phân giải của trò chơi ở chế độ toàn màn hình.",
-  "embeddium.options.use_quad_normals_for_lighting.name": "Sử dụng bóng Quad chính xác",
+  "embeddium.conflicting_mod_list": "[{2}]",
+  "embeddium.conflicting_mod": "Embeddium đã phát hiện thấy một số mod được cài đặt có thể gây ra sự cố hiển thị hoặc sự cố. Nên gỡ cài đặt chúng. Vui lòng tham khảo danh sách dưới đây.",
   "embeddium.options.use_quad_normals_for_lighting.tooltip": "Khi được bật, Embeddium sẽ áp dụng bóng cho các mặt khối không phải vanilla dựa trên hướng thực mà chúng đang hướng tới, chứ không phải hướng thẳng hàng với trục của chúng. Điều này có thể cải thiện chất lượng ánh sáng khi đường ống ánh sáng thử nghiệm Forge bị tắt (được khuyến nghị để có hiệu suất tốt nhất).\n\nNó không có tác dụng nếu đường ống ánh sáng thử nghiệm được kích hoạt.",
-  "item.minecraft.enchanted_book": "Sách Phù Phép"
+  "embeddium.options.use_quad_normals_for_lighting.name": "Sử dụng bóng Quad chính xác",
+  "embeddium.search_bar_empty": "Tùy chọn tìm kiếm...",
+  "embeddium.options.added_by_mod_string": "Được thêm bởi mod: %s"
 }

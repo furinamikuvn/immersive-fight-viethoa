@@ -1,9 +1,9 @@
 {
-  "key.categories.placebo": "giả dược",
-  "placebo.toggleTrails": "Chuyển đổi đường đi của người ủng hộ",
+  "item.minecraft.enchanted_book": "Sách Phù Phép",
   "placebo.toggleWings": "Chuyển đổi cánh hỗ trợ",
-  "placebo.cmd.serialize_success": "Đã lưu %s vào %s.",
-  "placebo.cmd.serialize_failure": "Đã xảy ra lỗi trong quá trình tuần tự hóa.",
+  "placebo.toggleTrails": "Chuyển đổi đường đi của người ủng hộ",
   "placebo.cmd.not_found": "Không tìm thấy %s.",
-  "item.minecraft.enchanted_book": "Sách Phù Phép"
+  "placebo.cmd.serialize_success": "Đã lưu %s vào %s.",
+  "key.categories.placebo": "giả dược",
+  "placebo.cmd.serialize_failure": "Đã xảy ra lỗi trong quá trình tuần tự hóa."
 }

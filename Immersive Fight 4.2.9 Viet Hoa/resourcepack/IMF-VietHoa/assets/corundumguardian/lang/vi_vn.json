@@ -1,12 +1,12 @@
 {
-  "subtitles.corundum_guardian_steam": "Corundum Guardian phát hành Steam",
-  "item.corundumguardian.corundum_guardian_spawn_egg": "Corundum Guardian Spawn Egg",
-  "subtitles.corundum_guardian_stomp": "Người bảo vệ Corundum",
-  "entity.corundumguardian.shockwave": "Shockwave",
-  "subtitles.corundum_guardian_attack": "Cuộc tấn công của người bảo vệ Corundum",
-  "subtitles.corundum_guardian_move_arm": "Corundum Guardian di chuyển cánh tay",
-  "subtitles.corundum_guardian_hit": "Người bảo vệ Corundum bị tấn công",
-  "subtitles.corundum_guardian_land": "Người bảo vệ Corundum Landing",
   "entity.corundumguardian.corundum_guardian": "Corundum Guardian",
-  "item.minecraft.enchanted_book": "Sách Phù Phép"
+  "item.corundumguardian.corundum_guardian_spawn_egg": "Corundum Guardian Spawn Egg",
+  "entity.corundumguardian.shockwave": "Shockwave",
+  "subtitles.corundum_guardian_hit": "Người bảo vệ Corundum bị tấn công",
+  "subtitles.corundum_guardian_attack": "Cuộc tấn công của người bảo vệ Corundum",
+  "item.minecraft.enchanted_book": "Sách Phù Phép",
+  "subtitles.corundum_guardian_land": "Người bảo vệ Corundum Landing",
+  "subtitles.corundum_guardian_stomp": "Người bảo vệ Corundum",
+  "subtitles.corundum_guardian_steam": "Corundum Guardian phát hành Steam",
+  "subtitles.corundum_guardian_move_arm": "Corundum Guardian di chuyển cánh tay"
 }

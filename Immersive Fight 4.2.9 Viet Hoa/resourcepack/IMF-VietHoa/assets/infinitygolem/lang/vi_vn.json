@@ -1,8 +1,8 @@
 {
-  "item.infinitygolem.infinity_golem_spawn_egg": "Infinity Golem Spawn Egg",
   "entity.infinitygolem.infinity_golem": "Infinity Golem",
-  "entity.infinitygolem.shockwave": "Shockwave",
-  "entity.infinitygolem.magma_blast": "Magma Blast",
+  "item.minecraft.enchanted_book": "Sách Phù Phép",
   "attribute.infinitygolem.action_state": "Trạng thái hành động",
-  "item.minecraft.enchanted_book": "Sách Phù Phép"
+  "entity.infinitygolem.shockwave": "Shockwave",
+  "item.infinitygolem.infinity_golem_spawn_egg": "Infinity Golem Spawn Egg",
+  "entity.infinitygolem.magma_blast": "Magma Blast"
 }

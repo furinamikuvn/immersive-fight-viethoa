@@ -41,6 +41,20 @@
 
 ## ⚙️ 4. PHƯƠNG THỨC KỸ THUẬT THỰC THI (ZERO-CRASH ASSURANCE)
 1. **Không can thiệp `.jar`:** Giữ nguyên vẹn toàn bộ mod gốc trong `mods/`.
-2. **Resource Pack Overlay:** Toàn bộ bản dịch được đóng gói thành `IMF-VietHoa.zip` đặt vào `resourcepacks/`.
+2. **Việt hóa Trực Tiếp qua `resources/`:** Toàn bộ bản dịch (230 namespace, 37.288 keys) được deploy vào `Immersive Fight 4.2.9/resources/assets/<namespace>/lang/zh_cn.json`. Forge 1.20.1 tự động mount thư mục `resources/` với ưu tiên cao nhất — **không cần bật Resource Pack thủ công, không cần cài gì thêm**.
+   - Script deploy: `tools/deploy_direct_viethoa.py`
+   - Source: `Immersive Fight 4.2.9 Viet Hoa/resourcepack/IMF-VietHoa/assets/`
+   - Quy tắc merge: `vi_vn.json` (ưu tiên 1) > `zh_cn.json` (ưu tiên 2) > `en_us.json` (fallback)
 3. **Bảo toàn biến số:** Giữ nguyên 100% các ký tự định dạng `%s`, `%d`, `{0}`, `§a`, `§c`.
 4. **Việt hóa Datapack:** Xử lý trực tiếp các file tiến trình và kỹ năng trong `global_packs/required_data/imfdata`.
+
+### 📊 Kết Quả Deploy (lần cuối cập nhật: 2026-10-21)
+| Thống kê | Số liệu |
+| :--- | ---: |
+| Namespaces đã deploy | **230** |
+| Tổng số keys mỗi file | **37.575** |
+| Tổng số keys đồng bộ Triple-Sync | **112.725** (vi_vn, zh_cn, en_us) |
+| Tỷ lệ phủ sóng | **100%** |
+| Tiếng Trung còn sót | **0 keys** ✅ |
+| Tên vật phẩm / thực thể | **100% Tiếng Anh** (chuẩn JEI) |
+| Mô tả / kỹ năng / tooltip | **100% Tiếng Việt** (Dark Fantasy) |

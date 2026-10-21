@@ -1,6 +1,6 @@
 {
-  "block.doapi.standard": "Completionist Banner",
-  "block.doapi.wall_standard": "Completionist Wall Banner",
+  "item.minecraft.enchanted_book": "Sách Phù Phép",
   "pack.source.builtinMod": "tích hợp sẵn: %s",
-  "item.minecraft.enchanted_book": "Sách Phù Phép"
+  "block.doapi.wall_standard": "Completionist Wall Banner",
+  "block.doapi.standard": "Completionist Banner"
 }

@@ -1,8 +1,9 @@
 {
-  "oregrowth.block.ore_growth": "cụm quặng",
+  "item.minecraft.enchanted_book": "Sách Phù Phép",
   "oregrowth.ore_growth_block.adjusted_name": "Tinh thể %s",
-  "oregrowth.ore_growth_block.growth_hint": "Tăng trưởng: %s",
-  "oregrowth.jei_category.title": "tăng trưởng thưa thớt",
   "config.jade.plugin_oregrowth.ore_growth_hint": "Hiển thị tiến trình tăng trưởng tinh thể",
-  "config.jade.plugin_oregrowth.ore_growth_icon": "Biểu tượng trụ thay thế"
+  "oregrowth.ore_growth_block.growth_hint": "Tăng trưởng: %s",
+  "config.jade.plugin_oregrowth.ore_growth_icon": "Biểu tượng trụ thay thế",
+  "oregrowth.jei_category.title": "tăng trưởng thưa thớt",
+  "oregrowth.block.ore_growth": "cụm quặng"
 }
